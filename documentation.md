@@ -15,3 +15,10 @@ Add plain text files to **data_adl dir** (locally)
 2/3/2017 - Zehui
 
 Push the local changes to remote repository
+
+---
+2/7/2017 - Zehui
+
+Creat python scripts used to **generate corpus** and push the changes
+
+to remote repository
