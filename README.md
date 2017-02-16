@@ -1,4 +1,4 @@
-# **CLEAR** | ComputationalLiErAry Repository #
+# **CLEAR** | ComputationalLitErAry Repository #
 
 ## Usage ##
 
