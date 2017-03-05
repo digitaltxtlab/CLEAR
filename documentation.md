@@ -22,3 +22,10 @@ Push the local changes to remote repository
 Creat python scripts used to **generate corpus** and push the changes
 
 to remote repository
+
+---
+3/5/2017 - Line
+
+Create folder **xml_meta** inside **xml_lb**
+
+Move  metadata from **xml** to **xml_meta**
