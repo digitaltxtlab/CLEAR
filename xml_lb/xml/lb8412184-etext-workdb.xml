@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- $Id: lb8412184-etext-workdb.xml 236139 2016-03-16 15:01:09Z slaca $ -->
+
+<LBwork version="1.2.2">
+   <lbworkid>lb8412184</lbworkid>
+   <librisid>8412184</librisid>
+   <mediatype>etext</mediatype>
+   <authorid>SchildtR</authorid>
+   <titleid>DenSegrandeEros</titleid>
+   <title>Den segrande Eros och andra berättelser</title>
+   <shorttitle>Den segrande Eros</shorttitle>
+   <sortkey>Den Segra Eros</sortkey>
+<texttype>novellsamling</texttype>
+<!-- <keyword></keyword> -->
+<!-- <authorkeyword></authorkeyword> -->
+<!-- <picture></picture> -->
+<!-- <pictureinfo></pictureinfo> -->
+
+<provenance>
+    <signum>Litt. Sv.</signum>
+    <library>GUB</library>
+</provenance>
+<provenance>
+    <library>SLS</library>
+</provenance>
+<!-- <workintro></workintro> -->
+      <startpagename>III</startpagename>
+      <endpagename>293</endpagename>
+   <sourcedesc>Björck &amp; Börjesson, Stockholm 1913. (Tryckt i Helsingfors 1913, Frenckellska Tryckeri-Aktiebolaget).
+
+   <errata>
+   <table>
+   <tr><td>26</td><td>Försträckt drog sig den lilla mamsellen     –     Förskräckt drog sig den lilla mamsellen</td></tr>
+   <tr><td>196</td><td>– Ja, svarade Ake     –     – Ja, svarade Åke</td></tr>
+   <tr><td>216</td><td>dagligen lätt hon henne förstå     –     dagligen lät hon henne förstå</td></tr>
+   <tr><td>248</td><td>Tor du, att du     –     Tror du, att du</td></tr>
+   </table>
+   </errata>
+
+
+   </sourcedesc>
+<imported>2014-09-23</imported>
+<work-updated>2014-09-23</work-updated>
+<workdb-updated>2016-03-16</workdb-updated>
+    <show>true</show>
+    <publisher>
+       <name>Björck &amp; Börjesson</name>
+       <place>Stockholm</place>
+       <country>SE</country>
+    </publisher>
+<imprintyear>1913</imprintyear>
+<edition></edition>
+<language>swe</language>
+<searchable>true</searchable>
+<proofread>true</proofread>
+<fraktur>false</fraktur>
+<printed>true</printed>
+<modernized>false</modernized>
+
+<license>cc-by-nc-sa</license>
+<epub>
+    <license>cc-by-nc-sa</license>
+  </epub>
+
+<part>
+<titleid>Innehåll</titleid>
+<title>Innehåll</title>
+<navshow>true</navshow>
+<listshow>none</listshow>
+<texttype>innehållsförteckning</texttype>
+<startpagename>VII</startpagename>
+<endpagename>VII</endpagename>
+</part>
+
+
+
+<part>
+<titleid>DenSegrandeErosNovell</titleid>
+<title>Den segrande Eros [novell]</title>
+<navtitle>Den segrande Eros</navtitle>
+<navshow>true</navshow>
+<listshow>some</listshow>
+<texttype>novell</texttype>
+<startpagename>1</startpagename>
+<endpagename>100</endpagename>
+</part>
+
+<part>
+<titleid>DetGynnsammaÖgonblicketsG</titleid>
+<title>Det gynnsamma ögonblickets gud</title>
+<navshow>true</navshow>
+<listshow>some</listshow>
+<texttype>novell</texttype>
+<startpagename>101</startpagename>
+<endpagename>142</endpagename>
+</part>
+
+<part>
+<titleid>Akilleshälen</titleid>
+<title>Akilleshälen</title>
+<navshow>true</navshow>
+<listshow>some</listshow>
+<texttype>novell</texttype>
+<startpagename>143</startpagename>
+<endpagename>172</endpagename>
+</part>
+
+<part>
+<titleid>EttNyttLif</titleid>
+<title>Ett nytt lif</title>
+<navshow>true</navshow>
+<listshow>some</listshow>
+<texttype>novell</texttype>
+<startpagename>173</startpagename>
+<endpagename>206</endpagename>
+</part>
+
+<part>
+<titleid>Raketen</titleid>
+<title>Raketen</title>
+<navshow>true</navshow>
+<listshow>some</listshow>
+<texttype>novell</texttype>
+<startpagename>207</startpagename>
+<endpagename>232</endpagename>
+</part>
+
+<part>
+<titleid>MotSkymningen</titleid>
+<title>Mot skymningen</title>
+<navshow>true</navshow>
+<listshow>some</listshow>
+<texttype>novell</texttype>
+<startpagename>233</startpagename>
+<endpagename>293</endpagename>
+</part>
+
+</LBwork>

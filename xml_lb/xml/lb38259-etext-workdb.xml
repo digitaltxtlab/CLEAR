@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- $Id: lb38259-etext-workdb.xml 123343 2015-12-12 12:00:09Z slaca $ -->
+<LBwork version="1.2.2">
+  <lbworkid>lb38259</lbworkid>
+  <librisid>382589</librisid>
+  <mediatype>etext</mediatype>
+  <authorid>SjöbergB</authorid>
+  <titleid>KvartettenSomSenare</titleid>
+  <title>Kvartetten, som sprängdes. Senare delen</title>
+  <shorttitle>Kvartetten, som sprängdes II</shorttitle>
+  <sortkey>Kvartetten, som 2</sortkey>
+
+
+  <provenance>
+    <!-- <signum></signum>  -->
+    <library>privat</library>
+  </provenance>
+
+  <startpagename>iii</startpagename>
+  <endpagename>752</endpagename>
+  <sourcedesc>Albert Bonniers förlag, Stockholm 1924. Tionde upplagan
+
+<errata><table><tr><td>374</td><td>han kände igen – Han kände igen</td></tr><tr><td>442</td><td>en rund hand. – en rund hand, </td></tr><tr><td>502</td><td>såsom tidstypisk. – såsom tidstypisk.”</td></tr><tr><td>533</td><td>Du har. utsökte Ansga – Du har, utsökte Ansga-</td></tr><tr><td>546</td><td>ungarsfilar – ungkarlsfilar</td></tr><tr><td>569</td><td>betyktade – beryktade</td></tr><tr><td>609</td><td>Stolz – Stoltz</td></tr><tr><td>624</td><td>vore en sak med – vore en sak men</td></tr><tr><td>672</td><td>skäddarkonst– skräddarkonst</td></tr><tr><td>678</td><td>brukade använde sig – brukade använda sig</td></tr><tr><td>708</td><td>Bengt, sade Märta – Bengt, sade Märta.</td></tr><tr><td>751</td><td>370 – 373</td></tr></table></errata>
+
+</sourcedesc>
+  <imported>2007-09-18</imported>
+  <work-updated>2013-02-20</work-updated>
+  <workdb-updated>2015-12-12</workdb-updated>
+  <show>true</show>
+  <publisher>
+    <name>Albert Bonniers förlag</name>
+    <place>Stockholm</place>
+    <country>SE</country>
+  </publisher>
+  <imprintyear>1924</imprintyear>
+  <edition>10</edition>
+  <language>swe</language>
+  <searchable>true</searchable>
+  <proofread>true</proofread>
+  <fraktur>false</fraktur>
+  <printed>true</printed>
+  <modernized>false</modernized>
+  <license>cc-by-nc-sa</license>
+  <epub>
+    <license>cc-by-nc-sa</license>
+  </epub>
+  <part>
+    <titleid>FörlåtOss</titleid>
+    <title>35. Förlåt oss</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>373</startpagename>
+    <endpagename>379</endpagename>
+  </part>
+  <part>
+    <titleid>CelloVill</titleid>
+    <title>36. Cello vill i desperation förskriva sig till fan och hör en knackning på sin dörr</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>380</startpagename>
+    <endpagename>387</endpagename>
+  </part>
+  <part>
+    <titleid>FrestarenOch</titleid>
+    <title>37. Frestaren och förskrivningen</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>388</startpagename>
+    <endpagename>402</endpagename>
+  </part>
+  <part>
+    <titleid>AndraFiolenUnder</titleid>
+    <title>38. Andra fiolen under klubban – men …</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>403</startpagename>
+    <endpagename>413</endpagename>
+  </part>
+  <part>
+    <titleid>FrånEnNattlig</titleid>
+    <title>39. Från en nattlig verkstad, där Blamageguden eller Kontrollanten uppträder som fridstörare</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>414</startpagename>
+    <endpagename>427</endpagename>
+  </part>
+  <part>
+    <titleid>ÄSRep</titleid>
+    <title>40. »Ä. S. * Rep. fr. Entr. a. gr. Tsd. 5 kl. 8.»</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>428</startpagename>
+    <endpagename>439</endpagename>
+  </part>
+  <part>
+    <titleid>Julklockorna</titleid>
+    <title>41. Julklockorna och Jultomten</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>440</startpagename>
+    <endpagename>454</endpagename>
+  </part>
+  <part>
+    <titleid>TreMisslyckade</titleid>
+    <title>42. Tre misslyckade belysningar och tre brustna genier</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>455</startpagename>
+    <endpagename>471</endpagename>
+  </part>
+  <part>
+    <titleid>Gratulationer</titleid>
+    <title>43. Gratulationer</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>472</startpagename>
+    <endpagename>481</endpagename>
+  </part>
+  <part>
+    <titleid>EttUpprorsförsök</titleid>
+    <title>44. Ett upprorsförsök, som kuvas, och ett farväl vid perrongen</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>482</startpagename>
+    <endpagename>491</endpagename>
+  </part>
+  <part>
+    <titleid>Skattekrävarna</titleid>
+    <title>45. Skattekrävarna, oljemålning av Eugen A:son Renard</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>492</startpagename>
+    <endpagename>502</endpagename>
+  </part>
+  <part>
+    <titleid>DorothyBuffertons</titleid>
+    <title>46. Dorothy Buffertons tvekamp med sin fader</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>503</startpagename>
+    <endpagename>517</endpagename>
+  </part>
+  <part>
+    <titleid>FrökenHanna</titleid>
+    <title>47. Fröken Hanna Tornejs hemliga mottagningar</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>518</startpagename>
+    <endpagename>531</endpagename>
+  </part>
+  <part>
+    <titleid>CelloVarsnar</titleid>
+    <title>48. Cello varsnar en gammal bekant under ett lagerträd och därefter en skymt av sin framtid</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>532</startpagename>
+    <endpagename>538</endpagename>
+  </part>
+  <part>
+    <titleid>EnUngLanthandlare</titleid>
+    <title>49. En ung lanthandlare i ridstövlar upplever en stor händelse</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>539</startpagename>
+    <endpagename>548</endpagename>
+  </part>
+  <part>
+    <titleid>MärtaÅviks</titleid>
+    <title>50. Märta Åviks och Dorothy Buffertons sista ord</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>549</startpagename>
+    <endpagename>562</endpagename>
+  </part>
+  <part>
+    <titleid>EnStördIdyll</titleid>
+    <title>51. En störd idyll vid Ludvig XVI:s hov</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>563</startpagename>
+    <endpagename>579</endpagename>
+  </part>
+  <part>
+    <titleid>OmEnJättefilosof</titleid>
+    <title>52. Om en Jättefilosof och om lille Bitter, som stal för sin kärleks skull</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>580</startpagename>
+    <endpagename>591</endpagename>
+  </part>
+  <part>
+    <titleid>NärTrädenHa</titleid>
+    <title>53. »När träden ha slagit ut – mörk karlsperson med svart arbete – en blank metallvara …»</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>592</startpagename>
+    <endpagename>608</endpagename>
+  </part>
+  <part>
+    <titleid>EnAvLyckofaddrarna</titleid>
+    <title>54. En av lyckofaddrarna inför rätta och en annan, som spelar rollen av en kupidon</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>609</startpagename>
+    <endpagename>619</endpagename>
+  </part>
+  <part>
+    <titleid>SmedjanOch</titleid>
+    <title>55. Smedjan och Trädgården – Junker Morgonröd och Nattens Drottning</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>620</startpagename>
+    <endpagename>628</endpagename>
+  </part>
+  <part>
+    <titleid>TvåSpecialister</titleid>
+    <title>56. Två specialister på begärelser i en skjuts, som välter</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>629</startpagename>
+    <endpagename>637</endpagename>
+  </part>
+  <part>
+    <titleid>Botgöraren</titleid>
+    <title>57. Botgöraren</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>638</startpagename>
+    <endpagename>655</endpagename>
+  </part>
+  <part>
+    <titleid>Duellen</titleid>
+    <title>58. Duellen</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>656</startpagename>
+    <endpagename>664</endpagename>
+  </part>
+  <part>
+    <titleid>EnNyMedarbetare</titleid>
+    <title>59. En ny medarbetare på tidningen och en ny kostym</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>665</startpagename>
+    <endpagename>677</endpagename>
+  </part>
+  <part>
+    <titleid>Florinus</titleid>
+    <title>60. Florinus</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>678</startpagename>
+    <endpagename>687</endpagename>
+  </part>
+  <part>
+    <titleid>VillNiSe</titleid>
+    <title>61. Vill ni se mina lejon?</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>688</startpagename>
+    <endpagename>699</endpagename>
+  </part>
+  <part>
+    <titleid>ÄransMan</titleid>
+    <title>62. Ärans man</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>700</startpagename>
+    <endpagename>705</endpagename>
+  </part>
+  <part>
+    <titleid>FrånBokhandeln</titleid>
+    <title>63. Från bokhandeln, genom spåkvinnans hydda till gallergrinden</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>706</startpagename>
+    <endpagename>717</endpagename>
+  </part>
+  <part>
+    <titleid>Söderman</titleid>
+    <title>64. Södermans bröllopsmarsch</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>718</startpagename>
+    <endpagename>724</endpagename>
+  </part>
+  <part>
+    <titleid>ÄradeBrudpar</titleid>
+    <title>65. »Ärade brudpar, mina damer och herrar!»</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>725</startpagename>
+    <endpagename>738</endpagename>
+  </part>
+  <part>
+    <titleid>EnWeddingtrip</titleid>
+    <title>66. En weddingtrip till södern</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>739</startpagename>
+    <endpagename>745</endpagename>
+  </part>
+  <part>
+    <titleid>DenBlomstertid</titleid>
+    <title>67. Den blomstertid …</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>746</startpagename>
+    <endpagename>750</endpagename>
+  </part>
+  <part>
+    <titleid>Innehåll</titleid>
+    <title>Innehåll</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>innehållsförteckning</texttype>
+    <startpagename>751</startpagename>
+    <endpagename>752</endpagename>
+  </part>
+</LBwork>

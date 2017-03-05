@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- $Id: lb770764-etext-workdb.xml 236129 2016-03-16 14:25:38Z slaca $ -->
+<LBwork version="1.2.2">
+   <lbworkid>lb770764</lbworkid>
+   <librisid>770764</librisid>
+   <mediatype>etext</mediatype>
+   <authorid>SchildtR</authorid>
+   <titleid>Häxskogen</titleid>
+   <title>Häxskogen och andra noveller</title>
+   <shorttitle>Häxskogen och andra noveller</shorttitle>
+   <sortkey>Häxskog</sortkey>
+<texttype>novellsamling</texttype>
+<!-- <keyword></keyword> -->
+<!-- <authorkeyword></authorkeyword> -->
+<!-- <picture></picture> -->
+<!-- <pictureinfo></pictureinfo> -->
+
+<provenance>
+    <signum>Litt. Sv.</signum>
+    <library>GUB</library>
+</provenance>
+<provenance>
+    <library>SLS</library>
+</provenance>
+<!-- <workintro></workintro> -->
+      <startpagename>3</startpagename>
+      <endpagename>270</endpagename>
+   <sourcedesc>Holger Schildts förlagsaktiebolag, Helsingfors 1920.
+
+   <errata>
+   <table>
+   <tr><td>79</td><td>såg in denna främmande     –     såg in i denna främmande</td></tr>
+   <tr><td>239</td><td>nota qene om man     –     nota bene om man</td></tr>
+   </table>
+   </errata>
+
+
+
+   </sourcedesc>
+<imported>2014-08-22</imported>
+<work-updated>2014-08-22</work-updated>
+<workdb-updated>2016-03-16</workdb-updated>
+    <show>true</show>
+    <publisher>
+       <name>Holger Schildts förlagsaktiebolag</name>
+       <place>Helsingfors</place>
+       <country>SE</country>
+    </publisher>
+<imprintyear>1920</imprintyear>
+<edition>1</edition>
+<language>swe</language>
+<searchable>true</searchable>
+<proofread>true</proofread>
+<fraktur>false</fraktur>
+<printed>true</printed>
+<modernized>false</modernized>
+
+<license>cc-by-nc-sa</license>
+<epub>
+    <license>cc-by-nc-sa</license>
+  </epub>
+
+
+<part>
+<titleid>Innehåll</titleid>
+<title>Innehåll</title>
+<navshow>true</navshow>
+<listshow>none</listshow>
+<texttype>innehållsförteckning</texttype>
+<startpagename>5</startpagename>
+<endpagename>5</endpagename>
+</part>
+
+
+
+<part>
+<titleid>SpårISanden</titleid>
+<title>Spår i sanden</title>
+<navshow>true</navshow>
+<listshow>some</listshow>
+<texttype>novell</texttype>
+<startpagename>7</startpagename>
+<endpagename>48</endpagename>
+</part>
+
+<part>
+<titleid>Zoja</titleid>
+<title>Zoja</title>
+<navshow>true</navshow>
+<listshow>some</listshow>
+<texttype>novell</texttype>
+<startpagename>49</startpagename>
+<endpagename>134</endpagename>
+</part>
+
+<part>
+<titleid>HäxskogenNovell</titleid>
+<title>Häxskogen [novell]</title>
+<navtitle>Häxskogen</navtitle>
+<navshow>true</navshow>
+<listshow>some</listshow>
+<texttype>novell</texttype>
+<startpagename>135</startpagename>
+<endpagename>270</endpagename>
+</part>
+
+</LBwork>

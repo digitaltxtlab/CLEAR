@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- $Id$ -->
+
+<LBwork version="1.2.2">
+   <lbworkid>lb1336011</lbworkid>
+   <librisid>1336011</librisid>
+   <mediatype>etext</mediatype>
+   <authorid>SöderholmK</authorid>
+   <titleid>DetVarIckeVerklighet</titleid>
+   <title>Det var icke verklighet. Noveller</title>
+   <shorttitle>Det var icke verklighet</shorttitle>
+   <sortkey>Det var icke verklighet</sortkey>
+<texttype>novellsamling</texttype>
+<!-- <keyword></keyword> -->
+<!-- <authorkeyword></authorkeyword> -->
+<!-- <picture></picture> -->
+<!-- <pictureinfo></pictureinfo> -->
+
+<provenance>
+    <library>GUB</library>
+</provenance>
+<!-- <workintro></workintro> -->
+      <startpagename>3</startpagename>
+      <endpagename>139</endpagename>
+   <sourcedesc>Stockholm 1930. Tidens förlag
+
+<errata>
+  <table>
+   <tr><td>10</td><td>	Han skulle utnyttja varje möjlighet, - Han skulle utnyttja varje möjlighet.</td></tr>
+   <tr><td>16</td><td>	jag han ännu vänta. – jag kan ännu vänta.</td></tr>
+   <tr><td>21</td><td>	vem har var – vem han var</td></tr>
+   <tr><td>23</td><td>	hans satte in allt – han satte in allt</td></tr>
+   <tr><td>44</td><td>	sade hon hon – sade hon</td></tr>
+   <tr><td>94</td><td>	i fönstersmygen occh – i fönstersmygen och</td></tr>
+   <tr><td>97</td><td>	lagas och tyckes – lagas och tycktes</td></tr>
+   <tr><td>117</td><td>	säkra och rofylla – säkra och rofyllda</td></tr>
+  </table>
+</errata>
+
+
+   </sourcedesc>
+
+
+<imported>2015-10-24</imported>
+<work-updated>2015-12-11</work-updated>
+<workdb-updated>2015-12-11</workdb-updated>
+    <show>true</show>
+    <publisher>
+       <name>Söderström &amp; C:o förlagsaktiebolag</name>
+       <place>Stockholm</place>
+       <country>SE</country>
+    </publisher>
+<imprintyear>1930</imprintyear>
+  <edition>1</edition>
+  <language>swe</language>
+<searchable>true</searchable>
+<proofread>true</proofread>
+<fraktur>false</fraktur>
+<printed>true</printed>
+<modernized>false</modernized>
+
+<license>cc-by-nc-sa</license>
+<epub>
+    <license>cc-by-nc-sa</license>
+  </epub>
+
+
+
+
+<part>
+<titleid>Skådespelaren</titleid>
+<title>Skådespelaren</title>
+<navshow>true</navshow>
+<listshow>some</listshow>
+<texttype>novell</texttype>
+<startpagename>7</startpagename>
+<endpagename>26</endpagename>
+</part>
+
+<part>
+<titleid>DenGamlaTrädgården</titleid>
+<title>Den gamla trädgården</title>
+<navshow>true</navshow>
+<listshow>some</listshow>
+<texttype>novell</texttype>
+<startpagename>25</startpagename>
+<endpagename>38</endpagename>
+</part>
+
+<part>
+<titleid>Kommunalläkarn</titleid>
+<title>Kommunalläkarn</title>
+<navshow>true</navshow>
+<listshow>some</listshow>
+<texttype>novell</texttype>
+<startpagename>37</startpagename>
+<endpagename>54</endpagename>
+</part>
+
+<part>
+<titleid>IRöksalongen</titleid>
+<title>I röksalongen</title>
+<navshow>true</navshow>
+<listshow>some</listshow>
+<texttype>novell</texttype>
+<startpagename>53</startpagename>
+<endpagename>64</endpagename>
+</part>
+
+<part>
+<titleid>EnSommardag</titleid>
+<title>En sommardag —</title>
+<navshow>true</navshow>
+<listshow>some</listshow>
+<texttype>novell</texttype>
+<startpagename>63</startpagename>
+<endpagename>78</endpagename>
+</part>
+
+<part>
+<titleid>GudabildensLeende</titleid>
+<title>Gudabildens leende</title>
+<navshow>true</navshow>
+<listshow>some</listshow>
+<texttype>novell</texttype>
+<startpagename>77</startpagename>
+<endpagename>92</endpagename>
+</part>
+
+<part>
+<titleid>DenFörtrolladeSjön</titleid>
+<title>Den förtrollade sjön</title>
+<navshow>true</navshow>
+<listshow>some</listshow>
+<texttype>novell</texttype>
+<startpagename>91</startpagename>
+<endpagename>106</endpagename>
+</part>
+
+<part>
+<titleid>PåAlpvägen</titleid>
+<title>På alpvägen</title>
+<navshow>true</navshow>
+<listshow>some</listshow>
+<texttype>novell</texttype>
+<startpagename>107</startpagename>
+<endpagename>120</endpagename>
+</part>
+
+<part>
+<titleid>UnderVildvinet</titleid>
+<title>Under vildvinet</title>
+<navshow>true</navshow>
+<listshow>some</listshow>
+<texttype>novell</texttype>
+<startpagename>121</startpagename>
+<endpagename>137</endpagename>
+</part>
+
+<part>
+<titleid>Innehåll</titleid>
+<title>Innehåll</title>
+<navshow>true</navshow>
+<listshow>none</listshow>
+<texttype>innehållsförteckning</texttype>
+<startpagename>139</startpagename>
+<endpagename>139</endpagename>
+</part>
+
+
+
+</LBwork>

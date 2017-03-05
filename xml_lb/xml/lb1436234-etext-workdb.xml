@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- $Id: lb1436234-etext-workdb.xml 123328 2015-12-12 08:11:21Z slaca $ -->
+<LBwork version="1.2.2">
+  <lbworkid>lb1436234</lbworkid>
+  <librisid>1436234</librisid>
+  <mediatype>etext</mediatype>
+  <authorid>AnderssonD</authorid>
+  <titleid>KolvaktarensVisor</titleid>
+  <title>Kolvaktarens visor</title>
+  <shorttitle>Kolvaktarens visor</shorttitle>
+  <sortkey>Kolvaktarens visor</sortkey>
+  <startpagename>3</startpagename>
+  <endpagename>192</endpagename>
+  <sourcedesc>Tidens förlag, Stockholm 1915.
+
+
+<errata><table><tr><td>49</td><td>oah – och</td></tr><tr><td>58</td><td>och i – Och i</td></tr><tr><td>59</td><td>och du – Och du</td></tr><tr><td>106</td><td>A så när – Å så när</td></tr><tr><td>123</td><td>sorl nere dalen – sorl nere i dalen</td></tr><tr><td>137</td><td>Mattsson – Matson</td></tr><tr><td>160</td><td>”Din broders blod...’ – ”Din broders blod...”</td></tr></table></errata>
+
+</sourcedesc>
+  <imported>2008-08-14</imported>
+  <work-updated>2012-04-05</work-updated>
+  <workdb-updated>2015-12-12</workdb-updated>
+  <show>true</show>
+  <publisher>
+    <name>Tidens förlag</name>
+    <place>Stockholm</place>
+    <country>SE</country>
+  </publisher>
+  <imprintyear>1915</imprintyear>
+  <edition>1</edition>
+  <language>swe</language>
+  <searchable>true</searchable>
+  <proofread>true</proofread>
+  <fraktur>false</fraktur>
+  <printed>true</printed>
+  <modernized>false</modernized>
+  <license>cc-by-nc-sa</license>
+  <epub>
+    <license>cc-by-nc-sa</license>
+  </epub>
+  <part>
+    <titleid>VisaVidKolvakten</titleid>
+    <title>Visa vid kolvakten</title>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>dikt</texttype>
+    <startpagename>5</startpagename>
+    <endpagename>6</endpagename>
+  </part>
+  <part>
+    <titleid>Kolvaktaren</titleid>
+    <title>Kolvaktaren</title>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>dikt</texttype>
+    <startpagename>7</startpagename>
+    <endpagename>9</endpagename>
+  </part>
+  <part>
+    <titleid>Gengångare</titleid>
+    <title>Gengångare</title>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>dikt</texttype>
+    <startpagename>10</startpagename>
+    <endpagename>12</endpagename>
+  </part>
+  <part>
+    <titleid>Pajso</titleid>
+    <title>Pajso</title>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>dikt</texttype>
+    <startpagename>13</startpagename>
+    <endpagename>15</endpagename>
+  </part>
+  <part>
+    <titleid>Benkvarnen</titleid>
+    <title>Benkvarnen</title>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>dikt</texttype>
+    <startpagename>16</startpagename>
+    <endpagename>18</endpagename>
+  </part>
+  <part>
+    <titleid>ITimmerkojanPåSami</titleid>
+    <title>I timmerkojan på Sami</title>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>dikt</texttype>
+    <startpagename>19</startpagename>
+    <endpagename>21</endpagename>
+  </part>
+  <part>
+    <titleid>DenGamle</titleid>
+    <title>Den gamle</title>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>dikt</texttype>
+    <startpagename>22</startpagename>
+    <endpagename>23</endpagename>
+  </part>
+  <part>
+    <titleid>Döden</titleid>
+    <title>Döden</title>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>dikt</texttype>
+    <startpagename>24</startpagename>
+    <endpagename>26</endpagename>
+  </part>
+  <part>
+    <titleid>EnSvanesång</titleid>
+    <title>En svanesång</title>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>dikt</texttype>
+    <startpagename>27</startpagename>
+    <endpagename>28</endpagename>
+  </part>
+  <part>
+    <titleid>DuLiv</titleid>
+    <title>Du liv ...</title>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>dikt</texttype>
+    <startpagename>29</startpagename>
+    <endpagename>30</endpagename>
+  </part>
+  <part>
+    <titleid>GunnarVägman</titleid>
+    <title>Gunnar Vägman</title>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>dikt</texttype>
+    <startpagename>31</startpagename>
+    <endpagename>32</endpagename>
+  </part>
+  <part>
+    <titleid>JagVäntar</titleid>
+    <title>Jag väntar ...</title>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>dikt</texttype>
+    <startpagename>33</startpagename>
+    <endpagename>34</endpagename>
+  </part>
+  <part>
+    <titleid>TillKvinnan</titleid>
+    <title>Till kvinnan</title>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>dikt</texttype>
+    <startpagename>35</startpagename>
+    <endpagename>37</endpagename>
+  </part>
+  <part>
+    <titleid>MinVäg</titleid>
+    <title>Min väg ...</title>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>dikt</texttype>
+    <startpagename>38</startpagename>
+    <endpagename>40</endpagename>
+  </part>
+  <part>
+    <titleid>TillAstridDoloresVidSkilsmässan</titleid>
+    <title>Till Astrid Dolores vid skilsmässan</title>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>dikt</texttype>
+    <startpagename>41</startpagename>
+    <endpagename>43</endpagename>
+  </part>
+  <part>
+    <titleid>Botgöraren</titleid>
+    <title>Botgöraren</title>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>dikt</texttype>
+    <startpagename>44</startpagename>
+    <endpagename>46</endpagename>
+  </part>
+  <part>
+    <titleid>Sizzi</titleid>
+    <title>Sizzi</title>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>dikt</texttype>
+    <startpagename>47</startpagename>
+    <endpagename>49</endpagename>
+  </part>
+  <part>
+    <titleid>OndaTankar</titleid>
+    <title>Onda tankar</title>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>dikt</texttype>
+    <startpagename>50</startpagename>
+    <endpagename>52</endpagename>
+  </part>
+  <part>
+    <titleid>GässenFlytta</titleid>
+    <title>Gässen flytta</title>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>dikt</texttype>
+    <startpagename>52</startpagename>
+    <endpagename>52</endpagename>
+  </part>
+  <part>
+    <titleid>VisaTillägnadAllÖmklighet</titleid>
+    <title>Visa tillägnad all ömklighet</title>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>dikt</texttype>
+    <startpagename>53</startpagename>
+    <endpagename>54</endpagename>
+  </part>
+  <part>
+    <titleid>SistaNattenIPaindalen</titleid>
+    <title>Sista natten i Paindalen</title>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>dikt</texttype>
+    <startpagename>55</startpagename>
+    <endpagename>63</endpagename>
+  </part>
+  <part>
+    <titleid>Vårkänning</titleid>
+    <title>Vårkänning</title>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>dikt</texttype>
+    <startpagename>64</startpagename>
+    <endpagename>66</endpagename>
+  </part>
+  <part>
+    <titleid>JönsLekaresKvinnor</titleid>
+    <title>Jöns Lekares kvinnor</title>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>dikt</texttype>
+    <startpagename>67</startpagename>
+    <endpagename>69</endpagename>
+  </part>
+  <part>
+    <titleid>TalTillJonathan</titleid>
+    <title>Tal till Jonathan</title>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>dikt</texttype>
+    <startpagename>70</startpagename>
+    <endpagename>72</endpagename>
+  </part>
+  <part>
+    <titleid>HälgdagskvällITimmerkojan</titleid>
+    <title>Hälgdagskväll i timmerkojan</title>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>dikt</texttype>
+    <startpagename>73</startpagename>
+    <endpagename>75</endpagename>
+  </part>
+  <part>
+    <titleid>NärGaskenDog</titleid>
+    <title>När Gasken dog</title>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>dikt</texttype>
+    <startpagename>76</startpagename>
+    <endpagename>80</endpagename>
+  </part>
+  <part>
+    <titleid>Tjuvskytten</titleid>
+    <title>Tjuvskytten</title>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>dikt</texttype>
+    <startpagename>81</startpagename>
+    <endpagename>84</endpagename>
+  </part>
+  <part>
+    <titleid>Hemlängtan</titleid>
+    <title>Hemlängtan</title>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>dikt</texttype>
+    <startpagename>85</startpagename>
+    <endpagename>87</endpagename>
+  </part>
+  <part>
+    <titleid>DenSistaSången</titleid>
+    <title>Den sista sången</title>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>dikt</texttype>
+    <startpagename>88</startpagename>
+    <endpagename>89</endpagename>
+  </part>
+  <part>
+    <titleid>Slagsmål</titleid>
+    <title>Slagsmål</title>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>novell</texttype>
+    <startpagename>92</startpagename>
+    <endpagename>103</endpagename>
+  </part>
+  <part>
+    <titleid>EnAnklagare</titleid>
+    <title>En anklagare</title>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>novell</texttype>
+    <startpagename>104</startpagename>
+    <endpagename>115</endpagename>
+  </part>
+  <part>
+    <titleid>DenVanskapte</titleid>
+    <title>Den vanskapte</title>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>novell</texttype>
+    <startpagename>116</startpagename>
+    <endpagename>126</endpagename>
+  </part>
+  <part>
+    <titleid>BjörnLarssonsBragd</titleid>
+    <title>Björn-Larssons bragd</title>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>novell</texttype>
+    <startpagename>127</startpagename>
+    <endpagename>159</endpagename>
+  </part>
+  <part>
+    <titleid>DinBrodersBlod</titleid>
+    <title>”Din broders blod ...”</title>
+    <sortkey>Din broders blod</sortkey>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>novell</texttype>
+    <startpagename>160</startpagename>
+    <endpagename>174</endpagename>
+  </part>
+  <part>
+    <titleid>Själasörjaren</titleid>
+    <title>Själasörjaren</title>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>novell</texttype>
+    <startpagename>175</startpagename>
+    <endpagename>190</endpagename>
+  </part>
+  <part>
+    <titleid>Innehållsförteckning</titleid>
+    <title>Innehållsförteckning</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>innehållsförteckning</texttype>
+    <startpagename>191</startpagename>
+    <endpagename>192</endpagename>
+  </part>
+</LBwork>

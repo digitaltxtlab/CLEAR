@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- $Id: lb1655580-etext-workdb.xml 236129 2016-03-16 14:25:38Z slaca $ -->
+<LBwork version="1.2.2">
+   <lbworkid>lb1655580</lbworkid>
+   <librisid>1655580</librisid>
+   <mediatype>etext</mediatype>
+   <authorid>LybeckM</authorid>
+   <titleid>BrevenTillCecilia</titleid>
+   <title>Breven till Cecilia</title>
+   <shorttitle>Breven till Cecilia</shorttitle>
+   <sortkey>Brev Till Ceci</sortkey>
+<texttype>roman</texttype>
+<keyword>Finlandssvenskt</keyword>
+<!-- <authorkeyword></authorkeyword> -->
+<!-- <picture></picture> -->
+<!-- <pictureinfo></pictureinfo> -->
+<provenance>
+    <signum>Litt. Sv.</signum>
+    <library>GUB</library>
+</provenance>
+<provenance>
+    <library>SLS</library>
+</provenance>
+<!-- <workintro></workintro> -->
+      <startpagename>3</startpagename>
+      <endpagename>287</endpagename>
+   <sourcedesc>Söderström &amp; C:o Förlagsaktiebolag, Helsingfors 1920.
+
+   <errata>
+   <table>
+   <tr><td>161</td><td>perchè – perché</td></tr>
+   </table>
+   </errata>
+
+   </sourcedesc>
+<imported>2014-09-19</imported>
+<work-updated>2014-09-19</work-updated>
+<workdb-updated>2016-03-16</workdb-updated>
+    <show>true</show>
+    <publisher>
+       <name>Söderström &amp; C:o Förlagsaktiebolag</name>
+       <place>Helsingfors</place>
+       <country>FI</country>
+    </publisher>
+<imprintyear>1920</imprintyear>
+<edition>1</edition>
+<language>swe</language>
+<searchable>true</searchable>
+<proofread>true</proofread>
+<fraktur>false</fraktur>
+<printed>true</printed>
+<modernized>false</modernized>
+
+<license>cc-by-nc-sa</license>
+<epub>
+    <license>cc-by-nc-sa</license>
+  </epub>
+
+
+
+
+<part>
+<titleid>Kamratmötet</titleid>
+<title>Kamratmötet</title>
+<navshow>true</navshow>
+<listshow>none</listshow>
+<texttype>kapitel</texttype>
+<startpagename>7</startpagename>
+<endpagename>56</endpagename>
+</part>
+
+<part>
+<titleid>BrevenTillCeciliaKapitel</titleid>
+<title>Breven till Cecilia</title>
+<navshow>true</navshow>
+<listshow>none</listshow>
+<texttype>kapitel</texttype>
+<startpagename>57</startpagename>
+<endpagename>269</endpagename>
+</part>
+
+<part>
+<titleid>Fadern</titleid>
+<title>Fadern</title>
+<navshow>true</navshow>
+<listshow>none</listshow>
+<texttype>kapitel</texttype>
+<startpagename>270</startpagename>
+<endpagename>285</endpagename>
+</part>
+
+</LBwork>

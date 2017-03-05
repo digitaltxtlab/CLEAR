@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- $Id: lb1634369-etext-workdb.xml 123336 2015-12-12 10:15:55Z slaca $ -->
+<LBwork version="1.2.2">
+  <lbworkid>lb1634369</lbworkid>
+  <librisid>1634369</librisid>
+  <mediatype>etext</mediatype>
+  <authorid>HanssonO</authorid>
+  <titleid>TidensKvinnor</titleid>
+  <title>Tidens kvinnor</title>
+  <shorttitle>Tidens kvinnor</shorttitle>
+  <sortkey>Tidens kvinnor</sortkey>
+  <texttype>novellsamling</texttype>
+
+  <provenance>
+    <!-- <signum></signum>  -->
+    <library>GUB</library>
+  </provenance>
+
+  <startpagename>3</startpagename>
+  <endpagename>243</endpagename>
+  <sourcedesc>Aktiebolaget Framtidens bokförlag, Malmö 1914.
+
+   <errata/>
+
+</sourcedesc>
+  <imported>2007-09-17</imported>
+  <work-updated>2012-04-05</work-updated>
+  <workdb-updated>2015-12-12</workdb-updated>
+  <show>true</show>
+  <publisher>
+    <name>Aktiebolaget Framtidens bokförlag</name>
+    <place>Malmö</place>
+    <country>SE</country>
+  </publisher>
+  <imprintyear>1914</imprintyear>
+  <edition>1</edition>
+  <language>swe</language>
+  <searchable>true</searchable>
+  <proofread>true</proofread>
+  <fraktur>false</fraktur>
+  <printed>true</printed>
+  <modernized>false</modernized>
+  <license>cc-by-nc-sa</license>
+  <epub>
+    <license>cc-by-nc-sa</license>
+  </epub>
+  <part>
+    <titleid>Gallblomma</titleid>
+    <title>Gallblomma</title>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>novell</texttype>
+    <startpagename>5</startpagename>
+    <endpagename>55</endpagename>
+  </part>
+  <part>
+    <titleid>TreRosor</titleid>
+    <title>Tre rosor</title>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>novell</texttype>
+    <startpagename>57</startpagename>
+    <endpagename>86</endpagename>
+  </part>
+  <part>
+    <titleid>EttLiv</titleid>
+    <title>Ett liv</title>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>novell</texttype>
+    <startpagename>87</startpagename>
+    <endpagename>113</endpagename>
+  </part>
+  <part>
+    <titleid>MaterDolorosa</titleid>
+    <title>Mater Dolorosa</title>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>novell</texttype>
+    <startpagename>115</startpagename>
+    <endpagename>128</endpagename>
+  </part>
+  <part>
+    <titleid>Urspårad</titleid>
+    <title>Urspårad</title>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>novell</texttype>
+    <startpagename>129</startpagename>
+    <endpagename>195</endpagename>
+  </part>
+  <part>
+    <titleid>IDampensionen</titleid>
+    <title>I dampensionen</title>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>novell</texttype>
+    <startpagename>197</startpagename>
+    <endpagename>241</endpagename>
+  </part>
+  <part>
+    <titleid>Efterskrift</titleid>
+    <title>Efterskrift</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>efterord</texttype>
+    <startpagename>242</startpagename>
+    <endpagename>242</endpagename>
+  </part>
+  <part>
+    <titleid>Innehåll</titleid>
+    <title>Innehåll</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>innehållsförteckning</texttype>
+    <startpagename>243</startpagename>
+    <endpagename>243</endpagename>
+  </part>
+</LBwork>

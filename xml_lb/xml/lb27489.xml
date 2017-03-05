@@ -1,0 +1,3529 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/css" href="littbank_korr.css" ?>
+<!-- $Id$ -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:lb="http://litteraturbanken.se/ns/nonTEI" xmlns:its="http://www.w3.org/2005/11/its">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text xml:id="lb27489">
+<front>
+<div1 rend="smutstitelsida center">
+<pb n="1"/>
+<p rend="author1"><hi rend="i">AXEL LUNDEGÅRD</hi></p>
+<p><lb:separator content="_" count="3"/></p>
+<p rend="title1">NÅGRA STRINDBERGSMINNEN</p>
+<pb n="2"/>
+<lb/>
+<lb/>
+<lb/>
+<!-- blanksida -->
+<figure rend="center"><graphic url="/bilder/ornament/littblank.svg"/></figure>
+</div1>
+<div1 rend="titelsida center">
+<pb n="3"/>
+<p rend="author2"><hi rend="i">AXEL LUNDEGÅRD</hi></p>
+<p rend="title2">NÅGRA</p>
+<p rend="title3">STRINDBERGSMINNEN</p>
+<p rend="title4">KNUTNA TILL EN HANDFULL BREV</p>
+<lb/>
+<p rend="publisher"><hi rend="i">STOCKHOLM · TIDENS FÖRLAG</hi></p>
+</div1>
+<div1 rend="tryckortssida center">
+<pb n="4"/>
+<p rend="imprintPlace">STOCKHOLM</p>
+<p rend="imprinter">BOKFÖRL. -A. -B. TIDENS TRYCKERI</p>
+<p rend="imprintYear">1920</p>
+</div1>
+<div1 rend="innehallsida" xml:id="Innehåll">
+<pb n="5"/>
+<head rend="innehallname center"><hi rend="i">INNEHÅLL:</hi></head>
+<list>
+<label rend="hang">I. INTERVJU MED »DET NYA RIKETS» FÖR&#x00AD;
+<lb/>FATTARE</label><item>7</item>
+<label rend="hang">II. TIDSHISTORISK BAKGRUND</label><item>15</item>
+<label rend="hang">III. DE FÖRSTA BREVEN</label><item>23</item>
+<label rend="hang">IV. LE MESSAGER (REVUE) DU NORD</label><item>35</item>
+<label rend="hang">V. VÅR PERSONLIGA BEKANTSKAP</label><item>43</item>
+<label rend="hang">VI. I KÖPENHAMN PÅ 80:TALET — ETT AV&#x00AD;
+<lb/>SKEDSBREV OCH ETT TESTAMENTE</label><item>49</item>
+<label rend="hang">VII. FÖRSTA UPPFÖRANDET AV FADREN</label><item>67</item>
+<label rend="hang">VIII. HUR MARODÖRER BLEV GRILLER OCH
+<lb/>GRILLER KAMRATERNA</label><item>77</item>
+<label rend="hang">IX. PENNINGNÖD OCH UTELIV</label><item>89</item>
+<label rend="hang">X. STRINDBERG OCH ERNST AHLGREN</label><item>109</item>
+<label rend="hang">XI. HUR VÅRA VÄGAR SKILDES</label><item>127</item>
+<label rend="hang">XII. EFTERSKRIFT</label><item>139</item>
+</list>
+</div1>
+</front>
+<body>
+<div1>
+<pb n="6"/>
+<lb/>
+<lb/>
+<lb/>
+<!-- blanksida -->
+<figure rend="center"><graphic url="/bilder/ornament/littblank.svg"/></figure>
+<pb n="7"/>
+<div2 rend="chapter" xml:id="Intervju">
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<head rend="chapterenumeration center">I.</head>
+<head rend="chaptername center">Intervju med ”Det Nya Rikets” författare.</head>
+<p><hi rend="decorInit">J</hi>ag satt och såg syner i skymningen, då Strind&#x00AD;
+<lb/>berg uppenbarade sig.</p>
+<p rend="indfirst">Kanske bör jag strax förklara, att uppenbarelsen
+<lb/>ingenting övernaturligt innebar. Mitt gamla skrivbord
+<lb/>dansade inte av upphetsning, och inga andeknack&#x00AD;
+<lb/>ningar förebådade synen. Sanningen att säga var den
+<lb/>mig hjärtligt välkommen, kanske till och med fram&#x00AD;
+<lb/>kallad av en undermedveten åstundan hos mig.</p>
+<p rend="indfirst">Jag hade letat fram och läst en samling brev
+<lb/>från Strindberg. Min inbillning var laddad med tusen
+<lb/>ögonblicksbilder från ett kort men brokigt skede av
+<lb/>hans liv. Varken förr eller senare har jag stått i
+<lb/>personligt förhållande till honom. Men under några
+<lb/>månader av det år, han tältade i Danmark, var vårt
+<lb/>umgänge förtroligt. Tidvis bodde vi samman, på Leo&#x00AD;
+<lb/>polds hotell i Köpenhamn. Och efter det han flyttat
+<pb n="8"/>
+<lb/>till Klampenborg, besökte vi varandra titt och tätt.
+<lb/>Dessemellan skrev han brev eller brevlappar, med&#x00AD;
+<lb/>delanden och ögonblicksbilder, som spegla hans sin&#x00AD;
+<lb/>nestillstånd.</p>
+<p rend="indfirst">Han satt och diktade »Le plaidoyer d’un fou».
+<lb/>»Det kokar i stora grytan!» brukade han säga. Och
+<lb/>sida efter sida skrev han på det främmande språket
+<lb/>utan en rättelse i manuskriptet. Så snart ett blad
+<lb/>var fullskrivet, reste han sig, vred sig halvvägs bakåt,
+<lb/>tog upp kopieboken, som hade sin plats på sitsen, och
+<lb/>fogade noggrant det nya aktstycket in i sin ordnings&#x00AD;
+<lb/>följd, varefter han åter satte sig på kopieboken och dik&#x00AD;
+<lb/>tade vidare. Alltsedan han en gång förlorat ett manu&#x00AD;
+<lb/>skript, behandlade han på så sätt allt vad han skrev,
+<lb/>diktare och kopiepress, ande och tyngd i samtidig verk&#x00AD;
+<lb/>samhet.</p>
+<p rend="indfirst">»Fadren», som jag översatt till danska, gick på
+<lb/>Casinoteatern och drog så pass folk, att direktör Hunde&#x00AD;
+<lb/>rup ivrigt ropade efter fortsättningen. Strindberg ro&#x00AD;
+<lb/>pade ännu ivrigare efter förskott och överlät mest åt
+<lb/>mig att åvägabringa den säkerhet, som krävdes i manu&#x00AD;
+<lb/>skript. (»Fadrens» fortsättning, mellanstycket i en plan&#x00AD;
+<lb/>lagd trilogi, hette »Marodörer» och omarbetades av
+<lb/>mig till ett skådespel, »Griller», som senare svanshöggs
+<lb/>av Strindberg själv och året efter trycktes under titeln
+<lb/>»Kamraterna».)</p>
+<pb n="9"/>
+<p rend="indfirst">För ögonblicket sysslade hans inbillning med större
+<lb/>ting. Bland annat ämnade han helt enkelt erövra värl&#x00AD;
+<lb/>den med en veckotidning, »Le Messager du Nord»,
+<lb/>utgiven och mestadels skriven av honom på den andre
+<lb/>store världserövrarens, korsikanens, adoptivspråk, som
+<lb/>Strindberg nu beslutat göra till sitt. Endast när nöden
+<lb/>klämde honom för strupen, skrev han på svenska.</p>
+<p rend="indfirst">Några av breven till mig äro så personliga, att de
+<lb/>svårligen bli begripliga utan i sammanhang med de
+<lb/>minnen, jag kan berätta. Andra äro i och för sig av
+<lb/>stort intresse, men också de kräva förklaringar, som
+<lb/>numera ingen annan kan ge.</p>
+<p rend="indfirst">Hittills har det i liknande fall varit hävd, att den,
+<lb/>som mottagit breven, ansetts ha obestridlig rätt till
+<lb/>att offentliggöra dem, jämte de upplysningar, han velat
+<lb/>bifoga. Men Strindbergs arvingar och många hans
+<lb/>vänner ha genom upprop hemställt till alla, som äga
+<lb/>brev från honom, att avstå från utgivningsrätten. De
+<lb/>bebåda ett jätteverk av Strindbergs brev »ifrån hans
+<lb/>nionde år till hans allra sista dagar, och de skulle
+<lb/>samlade och ordnade, och utgivna på ett grannlaga
+<lb/>sätt, komma att bli något enastående i världslittera&#x00AD;
+<lb/>turen».</p>
+<p rend="indfirst">Detta står ordagrant att läsa i ett av uppropen.
+<lb/>Och vidare:</p>
+<p rend="indfirst">»Vår mening är att lägga alla data i dagen, och
+<pb n="10"/>
+<lb/>därför är det klart, att åtskilligt annat, som man pu&#x00AD;
+<lb/>blicerar förut, kan för långa tider förrycka uppfatt&#x00AD;
+<lb/>ningen av den underbare man, som kallas August
+<lb/>Strindberg.» —</p>
+<p rend="indfirst">Som utgivare anmäler sig professor Carlheim&#x00AD;
+<lb/>Gyllensköld och framhåller särskilt, att Strindberg själv
+<lb/>»skarpt uttalat sig emot, att hans brev skulle tjäna
+<lb/>som bakgrund för andras expectorationer».</p>
+<p rend="indfirst">De två sista orden ha gåsögon, och gåsögonen
+<lb/>stirra hotfullt på mig, som just har bröstet fullt av
+<lb/>minnen och tänkt bruka dem till bakgrund åt Strind&#x00AD;
+<lb/>bergs brev.</p>
+<p rend="indfirst">— Är det du själv som sagt det där? undrar jag
+<lb/>högt och ser i detsamma Strindberg livslevande fram&#x00AD;
+<lb/>för mig. Inte den gamle, fetlagde botgöraren, som jag
+<lb/>senare sett en skymt av på Stockholms gator, utan
+<lb/>den bleke trotsarn med bränd lejonman kring ett an&#x00AD;
+<lb/>sikte av till synes oförenliga motsatser, övermän&#x00AD;
+<lb/>niskans väldiga panna och tatarens trekantiga under&#x00AD;
+<lb/>ansikte, en diktares stjärnögon och en katts mus&#x00AD;
+<lb/>tascher.</p>
+<p rend="indfirst">— Du kommer just som kallad, fortsätter jag.
+<lb/>Låt höra din mening! Finns det minsta anledning att
+<lb/>av hänsyn till dig, som aldrig tog hänsyn, bryta mot
+<lb/>gammal hävd och inskränka tryckfriheten?</p>
+<p rend="indfirst">Strindberg svarar:</p>
+<pb n="11"/>
+<p rend="indfirst">— I små samhällen och hos utlevade nationer,
+<lb/>vilka förlorat företagsamhetens gåva, uppstår lätt ett
+<lb/>missförhållande, som är noga bekant under namnet
+<lb/>entreprenadsystemet; det behövs blott att en herre
+<lb/>med något litet relationer stiger fram, »viker av» en
+<lb/>stol och säger: den är min, att hans vänner instämma
+<lb/>genast och säga: det är hans, och det är hans på livs&#x00AD;
+<lb/>tid. Ve den som vågar titta åt den stolen!</p>
+<p rend="indfirst">- Det var ord och inga visor, säger jag. Men du
+<lb/>talar om en bok?</p>
+<p rend="indfirst">Och Strindberg svarar:</p>
+<p rend="indfirst">— Det nya riket. Våra entreprenörer.</p>
+<p rend="indfirst">Ja visst! Jag minns! utbrister jag. Vilken
+<lb/>förtjusande livets ironi! En diktare har aldrig så många
+<lb/>vänner, som när han inga behöver. Medan du slogs
+<lb/>som värst för bröd åt dig själv och de dina, drömde
+<lb/>du en gång om att erövra världen med »Le Messager du
+<lb/>Nord». Det var dåraktigt då. Men dårens dröm blev
+<lb/>sanning till sist. Så snart du inte längre behövde slåss
+<lb/>för bröd, föll världen dig till. Nu är du själv bud&#x00AD;
+<lb/>bäraren från Norden, världslitteraturskolmästarnas fly&#x00AD;
+<lb/>gande holländare, en vitter vålnad som sätter folk&#x00AD;
+<lb/>fantasien i rörelse överallt, där han drar fram. Snart
+<lb/>drömma tusen magistrar om att fläta sina doktors&#x00AD;
+<lb/>kransar av den lager, du aldrig fick, men som frodas på
+<lb/>din grav. Ändå är ditt livs historia oskriven, och din
+<pb n="12"/>
+<lb/>alstring ligger ännu som en oröjd jättehög av järn
+<lb/>och slagg. Innan någon helhetsbild kan ges av dig och
+<lb/>ditt verk, måste mycket undanstökas och mycket klar&#x00AD;
+<lb/>läggas. Och så kommer dina arvingar och dina vänner
+<lb/>med förbud!</p>
+<p rend="indfirst">Strindberg säger:</p>
+<p rend="indfirst">— Se där verkningarna av entreprenadsystemet!</p>
+<p rend="indfirst">Vet du, frågar jag, vem som hindrade utgivaren
+<lb/>av dina samlade skrifter att ta del av manuskriptet
+<lb/>till Svarta fanor?</p>
+<p rend="indfirst">Strindberg svarar:</p>
+<p rend="indfirst">— Gregorius Ballhorn!</p>
+<p rend="indfirst">Jag fortfar:</p>
+<p rend="indfirst">— Och vad menar du om den renodlade jätte&#x00AD;
+<lb/>upplagan av dina brev?</p>
+<p rend="indfirst">Strindberg svarar:</p>
+<p rend="indfirst">— Ballhorns svenska konsthistoria, som »ännu ty&#x00AD;
+<lb/>värr är oskriven».</p>
+<p rend="indfirst">Nu måste jag skratta åt hans orakelsvar. Det
+<lb/>var idel upprepningar av vad han en gång skrivit i
+<lb/>»Våra entreprenörer». Jag tänkte: ingen kan förebrå
+<lb/>mig, att jag lagt i Strindbergs mun ord som han aldrig
+<lb/>sagt. Men det var bara när han skrev eller ville upp&#x00AD;
+<lb/>träda värdigt bland främmande människor, som han
+<lb/>uttryckte sig så här bildat. Hans vardagsspråk var
+<pb n="13"/>
+<lb/>mycket livligare och mustigare. För att locka honom
+<lb/>att anslå den gamla kamrattonen, började jag:</p>
+<p rend="indfirst">— Jaså, du vill inte kammas, innan du framställs
+<lb/>för eftervärlden, käre gamle Loke med det vilda håret?
+<lb/>Det gör du rätt i. Idealbilden av »den underbare
+<lb/>man, som kallas August Strindberg», kommer aldrig
+<lb/>att intressera någon människa. Och den kommer att
+<lb/>likna dig ungefär som en ryttarstaty, utförd av en pro&#x00AD;
+<lb/>fessor i grannlagenhet och rest till din ära av tack&#x00AD;
+<lb/>samma läsare. Som diktare och människa var du allt
+<lb/>annat än idealisk, men du var i sällsynt grad levande
+<lb/>och kännande. Kanske låg ditt snille just i den över&#x00AD;
+<lb/>mänskliga känslostyrka, som tidvis slog över i sinnes&#x00AD;
+<lb/>sjukdom. Men ingen står ut med att vara snille tjugu&#x00AD;
+<lb/>fyra timmar om dygnet, och på mellantiderna trivdes
+<lb/>du bäst med glada och råa människor. Minns du när
+<lb/>du äntrade »Hesten» på Kongens Nytorv? Den hi&#x00AD;
+<lb/>storien tänker jag berätta. Och när du sköt i taket
+<lb/>på Rydbergs Kaelder med fru Hunderups revolver!
+<lb/>Och när du läxade upp fru Gaugin för det hon hade
+<lb/>kortklippt hår! Inte kan jag sticka under stol med,
+<lb/>att du då var mycket ostadig på benen, om det också
+<lb/>inte just klär en andens storman. Eller vad säger du
+<lb/>själv?</p>
+<p rend="indfirst">Men synen var borta.</p>
+<pb n="14"/>
+<lb/>
+<lb/>
+<lb/>
+<!-- blanksida -->
+<figure rend="center"><graphic url="/bilder/ornament/littblank.svg"/></figure>
+</div2>
+<pb n="15"/>
+<div2 rend="chapter" xml:id="TidshistoriskBakgrund">
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<head rend="chapterenumeration center">II.</head>
+<head rend="chaptername center">Tidshistorisk bakgrund.</head>
+<p><hi rend="decorInit">F</hi>ör att ställa dessa personliga minnen och aktstycken
+<lb/>i sammanhang med närmast föregående skede i
+<lb/>Strindbergs livshistoria, måste jag knyta an med en
+<lb/>kort erinring om vad som hänt honom de senaste
+<lb/>åren. I huvudsak är detta så pass känt från litteratur&#x00AD;
+<lb/>historiens allmänning, att jag kan nöja mig med en
+<lb/>tillbakablickande översikt av egna iakttagelser.</p>
+<p rend="indfirst">»Mäster Olofs», »Röda rummets» och »Det nya
+<lb/>rikets» författare tycks ha varit föga känd i Danmark
+<lb/>ännu hösten 1883, då Herman Bangs litterära upp&#x00AD;
+<lb/>lysningsiver tände ett bloss i »Nationaltidende» under
+<lb/>titeln »Det unga Sverige». Första artikeln handlade om
+<lb/>Strindberg och var skriven av Geijerstam.</p>
+<p rend="indfirst">Men en fluga gör ingen sommar, och det dröjde
+<lb/>några år innan Strindbergs rykte surrade över asfalten
+<lb/>i Köpenhamn. Under mellantiden låg han i en av sitt
+<pb n="16"/>
+<lb/>livs djupaste vågdalar och brottades med starka makter,
+<lb/>inre och yttre, böljor som han diktat och böljor som
+<lb/>han med sin diktning blåst till liv.</p>
+<p rend="indfirst">Om hans sinnes sjukdom och kval handlar sista
+<lb/>delen av »En dåres försvarstal». I jämförelse med dem
+<lb/>äro väl de yttre motgångarna för intet att räkna, men
+<lb/>de drabbade honom å andra sidan dubbelt hårt just
+<lb/>på grund av hans sinnestillstånd.</p>
+<p rend="indfirst">Hösten 1884 blev »Giftas» föremål för beslag och
+<lb/>åtal. Själva polisåtgärden ansågs allmänt som för&#x00AD;
+<lb/>hastad, men i Stockholm spådde de flesta likafullt fäl&#x00AD;
+<lb/>lande dom. I ett modstulet brev till tidningen »Tidens»
+<lb/>utgivare, K. P. Arnoldsson, gav Strindberg, som då
+<lb/>bodde i Genève, uttryck åt sina olustkänslor:</p>
+<p rend="indfirst">»Nu ber hr Bonnier mig komma hem för att för&#x00AD;
+<lb/>svara mig personligen. Hvad gagn ett sådant försvar
+<lb/>kan ha, det veta vi nogsamt.» Han fruktar den be&#x00AD;
+<lb/>svärliga resan hem. — — »Endast det, att en oskyldig
+<lb/>skulle lida för mig ett nesligt straff, skulle kunna förmå
+<lb/>mig till detta ganska stora offer.»</p>
+<p rend="indfirst">Möjligheten, att förläggaren kunde få sona författa&#x00AD;
+<lb/>rens brott med straffarbete på Långholmen, var inga&#x00AD;
+<lb/>lunda utesluten. Ryktet visste berätta, att den syssel&#x00AD;
+<lb/>satte gamle Albert Bonniers inbillning i ännu högre
+<lb/>grad än Strindbergs.</p>
+<p rend="indfirst">Det hjälpte inte, att Strindberg i enlighet med
+<pb n="17"/>
+<lb/>tryckfrihetsförordningens stadgande sände en förkla&#x00AD;
+<lb/>ring till Stockholms rådhusrätt: »Att jag, underteck&#x00AD;
+<lb/>nad, och icke herr Albert Bonnier eller någon som
+<lb/>helst annan, är författare till den åtalade skriften
+<lb/>’Giftas’ —» Sedan rättvisan väl satts i gång, gick hon
+<lb/>fram med stormsteg, och unge Karl Otto Bonnier fick
+<lb/>resa till Schweiz för att hämta Strindberg hem.</p>
+<p rend="indfirst">Om stämningen i Stockholm ger en brevskrivare
+<lb/>till Norrk. Tidn. besked: »Strindbergs närmaste vän&#x00AD;
+<lb/>ner skaka emellertid betänksamt på hufvudet och säga,
+<lb/>att Strindberg med sin svaga hälsa, sitt öfverspända
+<lb/>och på det hela taget dystra lynne, aldrig skall uthärda
+<lb/>i ett långvarigt fängelse.»</p>
+<p rend="indfirst">Rättsförföljelsen gör ett motbjudande intryck. I
+<lb/>Dagens Nyheter dundrar Björnstjerne Björnsson:</p>
+<p rend="indfirst">»Kvarstaden på August Strindbergs bok ’Giftas’
+<lb/>är den värsta litterära skandal i Norden på min tid.
+<lb/>Det är värre än när man ville sätta mig på tukthus för
+<lb/>’Kongen’ — — »</p>
+<p rend="indfirst">Men när han väl hunnit lugna sig, finner han mer
+<lb/>bevekande ord och manar slutligen svenska folket till
+<lb/>bönedagskollekt för att skaffa den av lagen förföljde
+<lb/>»en oafhängig, sorgfri ställning».</p>
+<p rend="indfirst">Vackra ord! En trumvirvel för folket i Utopia.
+<lb/>Sveriges folk slog dövörat till.</p>
+<p rend="indfirst">Men när nattåget den 20 okt. ångade in på Stock&#x00AD;
+<pb n="18"/>
+<lb/>holms centralstation, mottogs underklassens bleke dik&#x00AD;
+<lb/>tare, som för tillfället också var nykterhetsivrare, av
+<lb/>ett böljande människohav. Det var handens och andens
+<lb/>arbetare, som stämt möte för att slå vakt kring honom.</p>
+<p rend="indfirst">Han fann sig ställd inför nödvändigheten att säga
+<lb/>några ord till tack. Som talare var Strindberg sällan
+<lb/>lycklig. Han var och blev hela sitt liv en blyg och låg&#x00AD;
+<lb/>mält skrivbordsmänniska. Men den gången var där
+<lb/>flinta och stål i hans ord. De slogo eld.</p>
+<p rend="indfirst">»Jag tackar er», sade han enkelt och okonstlat.
+<lb/>»Det syns att ni fått luft i lungorna. När jag reste
+<lb/>från Sverige, var här så kvaft, att man ej kunde andas.
+<lb/>Hvad än må ske, skall jag göra min pligt.»</p>
+<p rend="indfirst">Och nu var han mitt i drömspelet, som senare kalla&#x00AD;
+<lb/>des »Kvarstadsresan», men som medan det pågick hade
+<lb/>många beröringspunkter med sagospelet »Lycko Pers
+<lb/>resa».</p>
+<p rend="indfirst">En livvakt av vänner och beundrare följde honom
+<lb/>till hotellet mitt emot stationen: Geijerstam, Fredin,
+<lb/>Wicksell, Jörgen med hunden Putte. Samma kväll gavs
+<lb/>»Lycko Pers resa» som festföreställning på Nya teatern.
+<lb/>Taliatemplet strålade av tusen gaslågor, tycktes trium&#x00AD;
+<lb/>fera över sin granne och motståndare, den mörke pro&#x00AD;
+<lb/>testanten, Beskowska kyrkan. Inne i sagoslotttet satt
+<lb/>Strindberg på hedersplatsen, som en kalif ur tusen
+<lb/>och en natt, med sin storvisir, Knut Wicksell, vid sidan.
+<pb n="19"/>
+<lb/>Under tredje akten reste sig hela parketten och hyl&#x00AD;
+<lb/>lade diktaren med dövande handklappningar. Efter
+<lb/>fjärde akten måste han in på scenen. Under näsduks&#x00AD;
+<lb/>viftan och leverop föll en lagerkrans till hans fötter.
+<lb/>Efter spektaklet bespisades han festligt på Grand hotell.</p>
+<p rend="indfirst">Dagen efter satt han på de anklagades bänk.</p>
+<p rend="indfirst">Han blev frikänd och ånyo hälsad av folkets jubel.
+<lb/>Han blev mer än en gång festligt bespisad. Han blev
+<lb/>följd till tåget och försvann under näsduksviftan och
+<lb/>hurrande. Så blev det tyst kring honom.</p>
+<p rend="indfirst">Lagens arm slog slint, men den allmänna me&#x00AD;
+<lb/>ningens når längre än lagens. Yttrandefrihetens vän&#x00AD;
+<lb/>ner jublade över segern, men sanningen tittade redan
+<lb/>fram i förlagets blänkare:</p>
+<p rend="indfirst">»August Strindberg har nu två arbeten i gång,
+<lb/>dels en samling fina, älskliga schweizernoveller, fria
+<lb/>för naturalistiska öfvergrepp — —»</p>
+<p rend="indfirst">Det var »Utopier», som bebådades. Den utkom
+<lb/>året efter på Bonniers förlag. Men andra oförändrade
+<lb/>upplagan av den frikända »Giftas» fick författaren ge
+<lb/>ut på eget förlag: Holmbergska bokhandeln (I distribu&#x00AD;
+<lb/>tion) Stockholm 1885, och likaledes andra delen, som
+<lb/>bara hade namnet gemensamt med den illa beryktade
+<lb/>boken. Dess titelblad bär ursprungsbeteckningen:
+<lb/>Kungsholms bokhandel (I distribution) Stockholm 1886.</p>
+<p rend="indfirst">Hos Bonniers utkom det året två band av »Tjänste&#x00AD;
+<pb n="20"/>
+<lb/>kvinnans son»; det tredje följde året efter. Men »Fad&#x00AD;
+<lb/>ren» blev tryckt i Hälsingborg. H. Österling &amp; C:c
+<lb/>1887.</p>
+<p rend="indfirst">Det hade piskats upp en storm i svenska tidningar
+<lb/>mot Strindberg och hela den nya litteraturen. Omedel&#x00AD;
+<lb/>bart efter juryns friande utslag i Giftasmålet höjdes rop
+<lb/>på inskränkning av tryckfriheten. 1886 blev frågan
+<lb/>brännande. 1887 kom smädeskriften »Strindbergslittera&#x00AD;
+<lb/>turen och osedligheten bland skolungdomen». Strind&#x00AD;
+<lb/>bergs förläggare naglades vid skampålen med grova
+<lb/>spikar. Strindberg själv blev målad som Hin på väggen
+<lb/>för att piskas.</p>
+<p rend="indfirst">Han bodde då med hustru, tre barn och en fransk
+<lb/>tjänarinna i Lindau vid Bodensjön. När vi råkades på
+<lb/>hösten sade han sig ha levat hela året på kredit.</p>
+<p rend="indfirst">Under kvarstadsresans klang- och jubeldagar bjöds
+<lb/>mig intet tillfälle att göra mästarens bekantskap. Skå&#x00AD;
+<lb/>ningarna räknades aldrig till första uppbådet i »Det
+<lb/>unga Sverige». (Strindberg kallade Geijerstam: »sous&#x00AD;
+<lb/>chef för ett obefintligt parti».)</p>
+<p rend="indfirst">Men alla sågo vi upp till Strix, banbrytaren, före&#x00AD;
+<lb/>trädaren för tidens tankar, som vi älskade. Underbart
+<lb/>vad en sådan andens ungdomskärlek har starka rötter!
+<lb/>Oscar Levertin, den födde eldtillbedjaren, i sin ungdom
+<lb/>verklighetsdiktens tjänare och förkunnare, kom senare
+<lb/>under andra tankars inflytande, fick andra mästare att
+<pb n="21"/>
+<lb/>se upp till med vänskapens ögon. Strindbergs senare
+<lb/>alstring gjorde ett pinsamt intryck på honom. Men
+<lb/>den beundran, han en gång känt för sin ungdoms mäs&#x00AD;
+<lb/>tare, blev han aldrig kvitt. De anklagelser, Bengt
+<lb/>Lidforss riktar mot honom för medveten illvilja mot
+<lb/>Strindberg, äro enbart gripna ur luften. I själva verket
+<lb/>våndades Oscar Levertin under nödvändigheten att
+<lb/>vidgå sin olust för Strindbergs »obotliga nycker och
+<lb/>okonstnärligheter». Alla de artiklar i Svenska Dag&#x00AD;
+<lb/>bladet, på vilka Lidforss stöder sina anklagelser, äro
+<lb/>med svidande sanningskärlek utarbetade efter formeln:
+<lb/>»Detta är, tyvärr, en dålig bok, men af ett snille!»</p>
+<p rend="indfirst">Det första brev, jag skrev till Strindberg, har tyd&#x00AD;
+<lb/>ligen speglat min ungdomligt varma beundran och
+<lb/>förtrytelse över den landsförvisning, hetsen i hemlan&#x00AD;
+<lb/>det dömt honom till. Hans svar är stämt i den ton, jag
+<lb/>anslagit. Men jag hade också ett ärende till honom.
+<lb/>Den nye direktören för Casinoteatern i Köpenhamn
+<lb/>hade fått en ingivelse att uppföra »Fadren», anmodat
+<lb/>mig att översätta stycket till danska och gett mig i
+<lb/>uppdrag att underhandla med författaren om upp&#x00AD;
+<lb/>föranderätt för Danmark och Norge.</p>
+<p rend="indfirst">Sedan sommaren 1886 var jag bosatt i Köpenhamn
+<lb/>och skrev därifrån brev till svenska tidningar. Den
+<lb/>av Hörup och Edvard Brandes grundade danska »Poli&#x00AD;
+<lb/>tiken» ägnade stor uppmärksamhet åt svensk litteratur
+<pb n="22"/>
+<lb/>och mottog gärna bidrag av unga svenska författare.
+<lb/>Till en början översattes de, men jag lärde mig snart
+<lb/>skriva danska, tillägnade mig den spefulla tonen och
+<lb/>höll bl. a. en vidräkning med förf. till »Strindbergslittera&#x00AD;
+<lb/>turen och osedligheten bland skolungdomen».</p>
+<p rend="indfirst">Edvard Brandes gick också själv, när tillfälle gavs,
+<lb/>i elden för den unga svenska litteraturen. I sina
+<lb/>mycket uppmärksammade bokanmälningar nämnde han
+<lb/>ofta Strindbergs namn och framhöll med klokt beräk&#x00AD;
+<lb/>nade ord hur kortsynt Sveriges folk bemötte sin stör&#x00AD;
+<lb/>ste diktare. Därigenom hade Strindberg blivit ett slags
+<lb/>vittert lejon för europeerna i Köpenhamn innan vare
+<lb/>sig »Fadren» uppförts eller han personligen uppenbarat
+<lb/>sig på A Porta eller hos Nimbs.</p>
+</div2>
+<pb n="23"/>
+<div2 rend="chapter" xml:id="DeFörstaBreven">
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<head rend="chapterenumeration center">III.</head>
+<head rend="chaptername center">De första breven.</head>
+<p><hi rend="decorInit">D</hi>et tredje brevet i ordningen är, som av dateringen
+<lb/>framgår, Strindbergs första svar. Efter att ha skri&#x00AD;
+<lb/>vit det, har han tydligen fått betänkligheter och beslutat
+<lb/>ställa villkor för att skydda sig mot onda anslag. Det
+<lb/>»banditkontrakt» han nämner var uppgjort av honom
+<lb/>själv med ett mycket ansett Köpenhamnsförlag. Däri
+<lb/>hade han överlåtit utgivningsrätten på danska av alla
+<lb/>sina arbeten, både redan tryckta och kommande, till det
+<lb/>danska förlaget utan förpliktelse från dess sida att utge
+<lb/>annat än vad förläggaren fann för gott. Strindberg
+<lb/>ansåg sig med list bunden till händer och fötter och
+<lb/>gjorde våldsamma försök att slita sig fri. Särskilt
+<lb/>blev frågan brännande, när förläggaren vägrade utge
+<lb/>»Fadren» på danska. Som översättare fick jag det
+<lb/>mycket oangenäma uppdraget att föra författarens talan
+<lb/>mot förläggaren. Strindberg ville, med mig till mellan&#x00AD;
+<pb n="24"/>
+<lb/>hand, tvinga fram en dansk upplaga, men glömde att
+<lb/>underrätta mig om kontraktets bestämmelser.</p>
+<p rend="indfirst">Det första brev jag mottog från honom gav uttryck
+<lb/>åt mycken misstro:</p>
+<lb/>
+<p rend="ind2">Herr Axel Lundegård, Köpenhamn.</p>
+<p rend="indfirst">Tacksamt erkännande skrifvelsen rörande Fadren
+<lb/>vill jag förberedande blott yttra: att Hunderup gerna
+<lb/>får spela den, men endast på följande vilkor.</p>
+<p rend="indfirst">Inga banditkontrakt, sådant herr P. lät mig under&#x00AD;
+<lb/>skrifva och hvarigenom jag på flera år är supprimerad
+<lb/>i dansk öfversättning, går jag in på.</p>
+<p rend="indfirst">Hunderup får endast personlig tillåtelse till upp&#x00AD;
+<lb/>förande i <hi rend="spaced">Köpenhamn</hi> och uteslutande sådan en&#x00AD;
+<lb/>dast på fem år, i <hi rend="spaced">Köpenhamn</hi>.</p>
+<p rend="indfirst">Vidare vare han skyldig spela stycket inom sex
+<lb/>månader, eljest har jag rätt att detsamma utan ersätt&#x00AD;
+<lb/>ning åt H. till annan afyttra.</p>
+<p rend="indfirst">Antagningshonorariet är nödvändigt, ty det ger
+<lb/>en liten säkerhet för att stycket blir uppfört.</p>
+<p rend="indfirst">Tänk om jag kontraherade med H. såsom före&#x00AD;
+<lb/>slaget är; då kunde han på lifstid undertrycka Fadren
+<lb/>i Norge och Danmark.</p>
+<p rend="indfirst">Och jag förstår ej heller hvad Casinodirektören
+<lb/>skall göra med uteslutande privilegium, då han ej
+<lb/>reser omkring.</p>
+<pb n="25"/>
+<p rend="indfirst">Sättom antagningshonorariet till 300 kronor och
+<lb/>procenten efter behag. Allt detta under förutsätt&#x00AD;
+<lb/>ning af Edv. Brandes goda mening, hvilken jag lofvat
+<lb/>intet företaga utan hans hörande, i denna vägen.</p>
+<p rend="indfirst">Det vore mig oändligt behöfligt att nu få några
+<lb/>pengar, och — lemnande Gillets Hemlighet åt sitt
+<lb/>öde — vill jag ej underteckna kontrakt på Fadren förr
+<lb/>än jag mottagit antagningshonorar.</p>
+<p rend="ind8">Hastel. Högaktningsfullt</p>
+<p rend="ind7"><hi rend="spaced">August Strindberg</hi>.</p>
+<lb/>
+<p rend="ind dateline">Lindau, 18 oktober 1887.</p>
+<lb/>
+<p rend="indfirst">Av andra brevet att döma har jag vunnit hans för&#x00AD;
+<lb/>troende för ögonblicket. Han sänder mig fullmakt att
+<lb/>träffa avtal med Casinodirektören, men binder mig för
+<lb/>säkerhets skull genom själva aktstyckets ordalydelse:</p>
+<p rend="indfirst">»Fullmakt för herr Axel Lundegård att med Direk&#x00AD;
+<lb/>tör C. Hunderup uppgöra om uppförandet af sorgespelet
+<lb/>»Fadren» på vilkor som genom bref närmare blifvit be&#x00AD;
+<lb/>stämda, dock förbehållande jag mig rätt att redan nu
+<lb/>stipulera, det Herr Hunderup går miste om uppförande&#x00AD;
+<lb/>rätten, så vida han icke spelat stycket sex månader
+<lb/>efter dato. Och gäller rätten endast »Danska Språket».</p>
+<p rend="indfirst">Handlingen är försedd med Strindbergs namn och
+<lb/>sigill. I brevet skrev han:</p>
+<pb n="26"/>
+<p rend="ind2">Kära Herre.</p>
+<lb/>
+<p rend="indfirst">Ni är ju rysligt skicklig i affärer, så att jag genast
+<lb/>befullmäktigar Er att handla fritt med Hunderup. Jag
+<lb/>sitter nu bara och väntar pengar för att få resa hem
+<lb/>till Sverige, sedan mitt komiska äktenskap är upplöst.
+<lb/>Är då Georg Brandes i Köpenhamn så passerar jag.
+<lb/>Men inte vill jag stanna på första uppförandet. Triba&#x00AD;
+<lb/>derna skola nog ombesörja pipningar. Kunde jag der&#x00AD;
+<lb/>emot öfvervara några generalrepetitioner och blåsa en
+<lb/>lefvande anda i näsorna på somliga, så vore det nog
+<lb/>godt. Få se!</p>
+<p rend="indfirst">Härmed rörande speleriet ett bref jag icke af&#x00AD;
+<lb/>sände sist och som jag nu slipper repetera.</p>
+<p rend="indfirst">Men säg en sak, har Ni eller Brandes inga änd&#x00AD;
+<lb/>ringar att föreslå, inga tillägg att göra; det fins omalda
+<lb/>korn som slunkit igenom. Halfsanna repliker som
+<lb/>kunna vändas ut och in på.</p>
+<p rend="indfirst">Jag har mina anledningar att önska uppförandet
+<lb/>af Gillets Hemlighet. Efter genomläsning har jag
+<lb/>nämligen funnit en viss slägtskap mellan Jacques ålder&#x00AD;
+<lb/>man och Oswald Alving. Den ena lider af ärftlig”
+<lb/>stupiditet med privilegium på syssla, den andre af
+<lb/>ärftlig syffe = åtminstone icke mer djupsinnigt än det
+<lb/>förra.</p>
+<p rend="indfirst">Samma kretinitet, samma botemedel: qvinna.</p>
+<pb n="27"/>
+<p rend="indfirst">Men mitt stycke är dåligt timradt. Kunde byggas
+<lb/>om, kanske.</p>
+<lb/>
+<p rend="indfirst">Emellertid härmed fullmagt.</p>
+<p rend="indfirst">Lura mig nu inte bara, för då blir jag vild!</p>
+<p rend="indfirst">Evolutionsmoralen i dessa upplysta tider är mycket
+<lb/>elastisk, och det trodda goda ändamålet frikänner
+<lb/>många slags medel, enligt min teori.</p>
+<p rend="indfirst">Emellertid ser ni jag är full af god tro i all min
+<lb/>misstro, så väl grundad på svåra erfarenheter.</p>
+<p rend="indfirst">Tack för er mellankomst och till snart samman&#x00AD;
+<lb/>träffande.</p>
+<p rend="ind6 center">Vänligen
+<lb/><hi rend="spaced">August Strindberg</hi>.</p>
+<lb/>
+<p rend="ind dateline">Lindau, 23 oktober 1887.</p>
+<p rend="indfirst">P. S. Hvem skall spela Fadren?</p>
+<lb/>
+<p rend="indfirst">På andra sidan inpräntar han ånyo:</p>
+<p rend="indfirst">Obs.: Han får icke <hi rend="spaced">eneret</hi> i Sverge på andra vil&#x00AD;
+<lb/>kor än »på Danska Språket!»</p>
+<p rend="indfirst">Obs! det för all del!</p>
+<p rend="indfirst">Obs. Rätta genast, om ni behagar, sidan 9.</p>
+<lb/>
+<p rend="center"><hi rend="spaced">Ryttmästarn</hi>:</p>
+<p rend="indfirst">Jaså, det var kanske Emma som förledde dig?</p>
+<pb n="28"/>
+<p rend="center"><hi rend="spaced">Nöjd</hi>:</p>
+<p rend="indfirst">Na-j, det vill jag inte påstå, men inte var det långt
+<lb/>ifrån, och det ska jag säga (etc.)</p>
+<p rend="indfirst">Den sista förbättringen ångrade författaren sedan,
+<lb/>och Nöjd fick svara: Ja, inte var det långt ifrån.</p>
+<p rend="indfirst">Strindbergs öppenhjärtiga svar på mitt första brev
+<lb/>lydde så:</p>
+<lb/>
+<p rend="ind8 dateline">Lindau, 17 oktober 1887.</p>
+<p rend="ind2">Bäste Herr Lundegård.</p>
+<p rend="indfirst">Det gläder mig höra en man af de unga, som för&#x00AD;
+<lb/>står hvad jag skrifver och förstår, att jag är den moderne
+<lb/>anden, under det att hela lägret som usurperat libe&#x00AD;
+<lb/>ralismen på entreprenad äro efter-idealister, som ej
+<lb/>haft nog kraft att göra sig urarfva. Hvad är qvinno&#x00AD;
+<lb/>fråga, socialism, afväpning och allt det der vackra
+<lb/>annat än romantikens och restaurationens kiliastiska
+<lb/>drömmar. Jag tog också upp dem en tid på diskussions&#x00AD;
+<lb/>programmet, demonstrerade fram deras absurditet och
+<lb/>lade dem till handlingarne såsom romantik.</p>
+<p rend="indfirst">Emellertid och tills vidare: affaire Hunderup! Ja!
+<lb/>Jag tar hvad jag får och tackar! Hvem skall dock spela
+<lb/>ryttmästarn, och hvilket fruntimmer vill spela Laura?
+<lb/>Stycket kan lätt förstöras, bli löjligt! Jag föreslår,
+<lb/>oaktat jag sällan lägger mig i spelet, att ryttmästarn
+<lb/>ges åt en skådespelare med eljest friskt humör, som med
+<pb n="29"/>
+<lb/>en öfverlägsen, sjelfironisk, lätt skeptisk verldsmanna&#x00AD;
+<lb/>ton, medveten om sina företräden, går med temligen
+<lb/>gladt mod sitt öde till mötes, svepande sig i döden i
+<lb/>dessa spindelnät han ej kan af naturlagsskäl rifva
+<lb/>sönder.</p>
+<p rend="indfirst">En bedragen äkta man är en komisk figur inför
+<lb/>verlden, och mest inför en teaterpublik. Detta måste
+<lb/>han visa, att han vet, och att han också ville skratta om
+<lb/>det gällde en annan bara!</p>
+<p rend="indfirst">Detta är det moderna i min tragedi, och ve mig
+<lb/>och gycklaren om han går stad och spelar Röfvarbandet
+<lb/>1887! Inga skrik, inga predikningar. Fint, lugnt, re&#x00AD;
+<lb/>signeradt! som en eljes stark ande tar det moderna ödet
+<lb/>i form af en erotisk passion.</p>
+<p rend="indfirst">Erinrom att en kavalleriofficer är alltid en rik
+<lb/>mans son, fått uppfostran, ställer höga fordringar
+<lb/>på sig i samlefnaden och äfven mot soldaten är
+<lb/>bildad.</p>
+<p rend="indfirst">Alltså icke någon rå knöl af tradition eller forti&#x00AD;
+<lb/>fikationspolitik. Han står ju dessutom sjelf öfver sitt
+<lb/>yrke, har afslöjat det och är vetenskapsman. För mig
+<lb/>särskildt här representerar han en manlighet, som man
+<lb/>sökt nedsätta, aflura oss och flytta på det tredje könet!
+<lb/>Det är endast inför qvinnan, han är omanlig, af det skäl,
+<lb/>att hon vill ha honom så, och afpassningslagen nödgar
+<lb/>oss att göra den rol älskarinnan fordrar. Ja, vi få
+<pb n="30"/>
+<lb/>ibland spela kyska, ingenus, okunniga, bara för att
+<lb/>komma åt det samlag vi vilja!</p>
+<p rend="indfirst">Det är ungefär hvad jag skulle vilja säga. För
+<lb/>öfrigt lemnar jag i edra händer allt annat.</p>
+<p rend="indfirst">Att komma upp och med personlig närvaro verka
+<lb/>något, tror jag ej på! Det är pröfvadt och illa utfallet.
+<lb/>Min kroppsliga inställelse har oftast skadat min sak
+<lb/>och jag nöjer mig med att vara skrifbordsmenska.
+<lb/>Är blyg, dum, smaklös i sällskap, och för skeptisk att
+<lb/>kunna hålla en ovations rol!</p>
+<p rend="indfirst">Med helsningar till Edvard Brandes slutar jag</p>
+<p rend="ind10">Vänligast</p>
+<p rend="ind9"><hi rend="spaced">August Strindberg</hi>.</p>
+<p rend="indfirst">P. S. Och så penningfrågan! Vill ni be Hunde&#x00AD;
+<lb/>rup sända mig hvad han kan, ty i denna stund ser jag
+<lb/>intet ljus! Skrifvit en rolig roman, svensk, skärgårds-,
+<lb/>i sommar, men ser ingen förläggare!</p>
+<p rend="indfirst">Hvad sägs om det!</p>
+<p rend="indfirst">Romanen innehåller ingen fråga, inga personlig&#x00AD;
+<lb/>heter! Alltså bara rena elakheten mot mig! Boycott&#x00AD;
+<lb/>ningen?</p>
+<lb/>
+<p rend="indfirst">I mitt första brev till Strindberg har jag uppen&#x00AD;
+<lb/>barligen framfört en inbjudning från direktör Hunderup
+<lb/>till författaren att med sin närvaro ge ökad glans åt
+<lb/>första uppförandet av »Fadren».</p>
+<pb n="31"/>
+<p rend="indfirst">Strindberg avböjer först. I svaret dagen efter för&#x00AD;
+<lb/>bigår han frågan med tystnad. Men i brevet den 23
+<lb/>oktober bebådar han sin ankomst, uttrycker t. o. m.
+<lb/>sin önskan att medverka vid instuderingen.</p>
+<p rend="indfirst">Under mellantiden hade han telegrafiskt gjort upp
+<lb/>med Albert Bonnier angående »Hemsöborna» och vän&#x00AD;
+<lb/>tade nu honoraret, 1,000 kr., som skulle sätta honom
+<lb/>i stånd att betala sina skulder och lämna Lindau.</p>
+<p rend="indfirst">Då kom smolk i mjölken, och han utgöt sin vredes
+<lb/>skålar i nedanstående brev:</p>
+<lb/>
+<p rend="ind2">Bäste Herr Lundegård.</p>
+<p rend="indfirst">Jag håller nu på att packa och mottager just ert
+<lb/>bref fullt af goda förhoppningar. Om lördag är jag
+<lb/>i Köpenhamn på Jernbanehotellet.</p>
+<p rend="indfirst">Förberedande:</p>
+<p rend="indfirst">Ursinnig, vild, skummande har jag nyss veder&#x00AD;
+<lb/>farits ett nytt skurkstreck! Hör på! Ledsen och trött,
+<lb/>utpinad, jagad som ett vildt djur satt jag mig i Augusti
+<lb/>vid mitt skrifbord för att roa mig sjelf. Skref: en
+<lb/>bonddrängs historia, mina sommarminnen från oför&#x00AD;
+<lb/>gätliga dagar i Stockholms skärgård (ty jag har äfven
+<lb/>haft mycket roligt i mitt lif). Skrädde ut qvinnofråga,
+<lb/>bannlyste socialism, politik, allt vrövel; och beslöt göra
+<lb/>en Svensk och en rolig och en grofkornig kostlig bok,
+<lb/>visande huru en bonddräng med sunda nerver och
+<pb n="32"/>
+<lb/>godartad blod, utan galla, går sin väg genom lifvet, ta&#x00AD;
+<lb/>gande hvad som erbjöd sig, släppande utan gråt hvad
+<lb/>han ej kunde hålla.</p>
+<p rend="indfirst">Valde Holländska genremålningen till mönster,
+<lb/>emedan den alltid tyckts mig likna Svenskt småfolkslif
+<lb/>på landet, enkel i det naturliga; undvikande dock skild&#x00AD;
+<lb/>ringen af den s. k. lastens utöfning o. d., som kunde
+<lb/>åtalas.</p>
+<p rend="indfirst">Derpå uppgöres med Albert B. per telegraf, för&#x00AD;
+<lb/>behållande han sig att strykning af grofheter må före&#x00AD;
+<lb/>tagas. Troende dermed menas grofva ord, svarar jag
+<lb/>ja! Pengarne komma. Men så kommer bref med
+<lb/>kastreringsförslag; hvarigenom alla scener, som kunna
+<lb/>anses af fruntimmer och minderåriga vara grofva, ut&#x00AD;
+<lb/>strykas. Derigenom skulle Herr Alb. B. förvandla min
+<lb/>bok till en lömsk, färglös idealistbok, och Jag åter&#x00AD;
+<lb/>upptagas i Nådens sköte såsom en genom Herr Per&#x00AD;
+<lb/>sonne evertuerad ung syndare! Är det inte nidingsdåd!
+<lb/>Lyckligtvis hade Looström äfven gjort anbud, som jag
+<lb/>nu per telegraf antagit, men äfven han vill stryka, tro&#x00AD;
+<lb/>ligen dock ej så, som Alb. B. hvilken nyss firats (af
+<lb/>min privatliberale vän Carl Larsson, som bara tycker
+<lb/>om målarfrihet för sina anhängare) såsom den der
+<lb/>tämjer Svenske författare.</p>
+<p rend="indfirst">Jag sänder Er manuskriptet i dag! Det fattas
+<lb/>fyra sidor handlande om prestens uttagning genom
+<pb n="33"/>
+<lb/>fönstret, men de komma efter. Erkänner att jag
+<lb/>på trots var grof, men det skall trotsas, eller hur?</p>
+<p rend="indfirst">En Dansk upplaga, <hi rend="spaced">orensad</hi>, skulle sålunda
+<lb/>kunna bli en äckling, såsom pendang till »Albert Bon&#x00AD;
+<lb/>niers upplaga för abnorma fruntimmer»!</p>
+<p rend="indfirst">Detta om detta.</p>
+<p rend="indfirst">Alltså och emellertid, arbeta nu för vår Messager,
+<lb/>så ta vi progressister hela Norden på entreprenad och
+<lb/>göra sjelfva lock out på kräftgångarne.</p>
+<p rend="indfirst">Till om Lördag alltså, erkänsamt vänskapsfullt</p>
+<p rend="ind7"><hi rend="spaced">August Strindberg</hi>.</p>
+<lb/>
+<p rend="ind dateline">Lindau, 31 oktober 1887.</p>
+<lb/>
+<p rend="indfirst">P. S. I brådskan sänder jag bara prospekten, ej
+<lb/>brefvet.</p>
+<p rend="indfirst">I parentes! Ni kunde ju låta Georg Br. förstå att
+<lb/>jag ej tål någon inblandning i mina könsförhållanden.
+<lb/>Han beskyddar nämligen en tribad, fröken — som jag
+<lb/>förföljer i egenskap av min fiende. G. Br. hade ge&#x00AD;
+<lb/>nom några min hustrus (f. d.) slägtingar låtit mig säga:
+<lb/>att man ej hade rätt skrifva så om qvinnorna när man
+<lb/>var gift. Det förstod jag ej, att äktenskap var hinder
+<lb/>för yttrandefrihet. Emellertid är jag icke mer gift!
+<lb/>hvilket icke hindrar mig utöfva myndighet öfver min
+<lb/>förra familj, som jag underhåller. Tribaden — har
+<pb n="34"/>
+<lb/>jag derför under polisuppsigt och klämmer genast till
+<lb/>om hon rör på sig.</p>
+<lb/>
+<p rend="indfirst">Jag minns än i dag med vilken undran jag läste
+<lb/>detta P. S. Jag började förstå att Strindbergs sinne
+<lb/>på den punkten var sjukt.</p>
+<p rend="indfirst">»Hemsöborna» hamnade ändå till sist hos Bonnier.
+<lb/>Strindberg fick ta skeden i vackra hand beträffande
+<lb/>strykningarna. Men han berättade sedan med barns&#x00AD;
+<lb/>lig förtjusning, att han »lyckats lura gubben». På första
+<lb/>sidan fanns en anstötlighet som ingen märkt.</p>
+</div2>
+<pb n="35"/>
+<div2 rend="chapter" xml:id="LeMessagerRevueDuNord">
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<head rend="chapterenumeration center">IV.</head>
+<head rend="chaptername center">Le Messager (Revue) Du Nord.</head>
+<p><hi rend="decorInit">N</hi>edanstående tidskriftprogram kom mig tillhanda
+<lb/>utan ett ord till förklaring:</p>
+<lb/>
+<p rend="center"><hi rend="spaced">Revue du Nord</hi>.</p>
+<p rend="center">Månadsskrift utgifven på Franska Språket
+<lb/>från
+<lb/>Stockholm, Köpenhamn, Kristiania och Helsingfors.</p>
+<lb/>
+<p rend="indfirst">Afsigten med ifrågavarande Tidskrift, utgifven på
+<lb/>Franska språket, skulle i främsta rummet vara att lösa
+<lb/>de Nordiska länderna ur deras isolering som de inhem&#x00AD;
+<lb/>ska språken dem pålagt, genom att månatligen <hi rend="spaced">dels</hi>
+<lb/>gifva en öfversigt öfver de tilldragelser på det politiska,
+<lb/>kommersiella, industriella, vetenskapliga, litterära, ar&#x00AD;
+<lb/>tistiska och religiösa området, som kunna anses hafva
+<lb/>någon utsigt att intressera utlandet, särskildt Frankrike
+<pb n="36"/>
+<lb/>och Ryssland, med hvilka de Nordiska länderna genom
+<lb/>tradition och böjelser hafva största förmånen att an&#x00AD;
+<lb/>sluta sig till; <hi rend="spaced">dels</hi> hafva till ändamål att genom full&#x00AD;
+<lb/>ständiga och pålitliga redogörelser motverka de korre&#x00AD;
+<lb/>spondenser och reklamer, som nu mera än förr, ofta
+<lb/>i ensidigt partiintresse och af personliga bevekelse&#x00AD;
+<lb/>grunder insticka sig i den utländska pressen och
+<lb/>äro nästan omöjliga att kunna få rättade eller be&#x00AD;
+<lb/>svarade: <hi rend="spaced">dels</hi> också derför utöfva kontroll öfver
+<lb/>dessa korrespondenter samt intaga berigtiganden och
+<lb/>svaromål.</p>
+<p rend="indfirst">Tidskriftens innehåll skulle sålunda närmast ut&#x00AD;
+<lb/>göras af meddelande af</p>
+<p rend="ind16">Sådana</p>
+<p rend="ind">diplomatiska akter som få offentliggöras och kunna
+<lb/>hafva direkt inflytande på de Nordiska rikenas
+<lb/>förhållande till utlandet.</p>
+<p rend="ind16">Sådana</p>
+<p rend="ind">politiska tilldragelser inom landet, som kunna öfva
+<lb/>inflytande på förhållandet till utländska magter:</p>
+<p>Handelstraktater af internationell natur;</p>
+<p>Börs- och Handels-Sjöfartsberättelser;</p>
+<p>Vetenskapliga upptäckter, uppfinningar och patent;</p>
+<p>Utländska litterära alsters mottagande i Norden.</p>
+<p rend="hang">Utländska konstverk i Norden och Nordiska konst&#x00AD;
+<lb/>verk och konstnärer i utlandet.</p>
+<pb n="37"/>
+<p rend="hang">Theaterförhållanden af liknande intresse.</p>
+<p>Inländska litterära, religiösa och vetenskapliga arbeten
+<lb/>af första rang refererade.</p>
+<p rend="hang">Artiklar rörande de Nordiska rikenas relationer med
+<lb/>utlandet i förfluten och närvarande tid.</p>
+<p>Skönlitterära alster i strängt urval.</p>
+<p rend="hang">Notiser om utländska sändebud, residerande i Nordens
+<lb/>hufvudstäder.</p>
+<p>Notiser om hofven.</p>
+<p rend="hang">Korrespondenser från Skandinaviska kolonien i Paris,
+<lb/>London, Wien, Berlin, Rom etc.</p>
+<p>Biografier öfver framstående Skandinaver i Paris.</p>
+<p>Anmälde resande Skandinaver i Paris.</p>
+<p>Annonser i bilaga för utländska Handelshus.</p>
+<lb/>
+<lb/>
+<p rend="indfirst">Tidskriften skulle utkomma från och med början
+<lb/>av år 1888. Innehållsförteckning var redan uppgjord
+<lb/>för de tre första numren. I översättning till svenska
+<lb/>ter den sig så:</p>
+<p rend="indfirst">1. Januarihäftet: Brev från Stockholm, Köpen&#x00AD;
+<lb/>hamn, Kristiania, Helsingfors. — Frankrike i Sverige. —
+<lb/>En fransk-skandinavisk makt under 16:de århundradet.
+<lb/>(Ministeriella rapporter av Charles Dançay, bekant för
+<lb/>sin iver att stärka Frankrikes inflytande i Norden.) —
+<lb/>Brev från Paris. — Smånotiser. — Annonser.</p>
+<pb n="38"/>
+<p rend="indfirst">2. Februarihäftet: Brev (från Stockholm, Köpen&#x00AD;
+<lb/>hamn, Kristiania, Helsingfors.) — Malte Brunn (Den
+<lb/>danske författare<choice><sic/><corr resp="lbpahe">n</corr></choice>, tidningsmannen och geografen, som
+<lb/>blev åtalad hemma för sina samhällskritiska skrifter,
+<lb/>flydde till Paris, blev medarbetare i franska tidningar
+<lb/>och dog som sekreterare i franska geografiska säll&#x00AD;
+<lb/>skapet). — Greve Fersen och Marie Antoinette. —
+<lb/>Brev fran Paris. — Smånotiser. — Annonser.</p>
+<p rend="indfirst">3. Marshäftet: Brev (från Stockholm, Köpenhamn,
+<lb/>Kristiania, Helsingfors). — Alexander Roslin (den sven&#x00AD;
+<lb/>ske konstnären, som vann ära, rikedom och ett nytt
+<lb/>fosterland i Frankrike) — Royal Suédois (Kungl. sven&#x00AD;
+<lb/>ska regementet i Frankrike). — Brev från Paris. —
+<lb/>Smånotiser. — Annonser.</p>
+<p rend="indfirst">En förhoppningsfull lista på blivande avnämare och
+<lb/>gynnare medföljde också:</p>
+<p rend="indfirst">Abonnenter: Corps diplomatique i Stockholm, Kö&#x00AD;
+<lb/>penhamn. Konsulaten i Skandinavien och utlandet.
+<lb/>Skandinaverna i Paris, London, Berlin, München, Rom,
+<lb/>Wien, Petersburg. Artistkolonien i Paris. Annon&#x00AD;
+<lb/>sörerna. Litteratörer, Artister och Teaterfolk i Nor&#x00AD;
+<lb/>den. Läsesällskap. Bibliotek och Klubbar. Patent&#x00AD;
+<lb/>uttagare. Industriidkare. Franska och Tyska Förläg&#x00AD;
+<lb/>gare. Ångbåtar på Utlandet. Utländska Hotell, där
+<lb/>Skandinaver finnas.</p>
+<pb n="39"/>
+<p rend="indfirst">Annonsörer: Patentuttagare. Industriidkare. Stora
+<lb/>Magasinen i Paris. Förläggare i Paris. (L. O. Smith)
+<lb/>Teaterförfattare om kontrakt. Försäkringsbolag. Ut&#x00AD;
+<lb/>ländska ångbåtar.</p>
+<lb/>
+<p rend="indfirst">Planen utvecklades ytterligare i ett brev som jag
+<lb/>fick dagen efter:</p>
+<p rend="indfirst">P. S. Idén är gammal. Gazette Fr. de Stock&#x00AD;
+<lb/>holm 1742—72 och Mercure de Suède 1772 o. f.</p>
+<lb/>
+<p rend="ind8 dateline">Lindau 30 oktober 87.</p>
+<p rend="ind2">Bäste Herr Lundegård.</p>
+<lb/>
+<p rend="indfirst">Det är högst sannolikt att jag om några dagar är
+<lb/>i Köpenhamn på genomresa till Sverge; och hoppas
+<lb/>då få träffa er. Förberedande skulle jag vilja säga:
+<lb/>Sälj, om Ni kan, Fadrens danska öfversättning till någon
+<lb/>annan än P. (jag begär ingenting i värsta fall) så att
+<lb/>jag kan få upp en process med honom.</p>
+<p rend="indfirst">Vidare gör mig och oss alla den stora tjänsten
+<lb/>taga reda på</p>
+<p rend="indfirst">Om man kan trycka Franskt i Köpenhamn?</p>
+<p rend="indfirst">Om någon infödd Fransman i egenskap af Språk&#x00AD;
+<lb/>lärare eller dylikt finnes i Köpenhamn.</p>
+<p rend="indfirst">Min afsigt är nemligen att såsom aktiv Europé ifrån
+<pb n="40"/>
+<lb/>Köpenhamn eller Stockholm utgifva antingen ensam
+<lb/>eller med hjelp en</p>
+<p rend="indfirst">Messager du Nord (eller Revue du Nord) på Fran&#x00AD;
+<lb/>ska Språket, månatligen, afsedd att</p>
+<p rend="indfirst">»Utföra de fyra Skandinaviska länderna ur deras
+<lb/>oförtjänta isolering som språket medför;</p>
+<p rend="indfirst">»att motverka de officiösa och reaktionära korre&#x00AD;
+<lb/>spondenternas arbete i det tysta mot progressisternas
+<lb/>sträfvanden (framför allt hålla tummen på Tyska reptil&#x00AD;
+<lb/>pressen).</p>
+<p rend="indfirst">Företaget kan svårligen bära sig sjelf på pre&#x00AD;
+<lb/>numeration, utan måste derför byggas på annonser;
+<lb/>från patentuttagare, köpmän, börsmän och s. v. Se
+<lb/>bilagorna.</p>
+<p rend="indfirst">För att få uppmärksamheten på oss och för att
+<lb/>bli citerade af Fransmännen har jag planerat en hel
+<lb/>mängd artiklar rörande de Nordiska ländernas äldre
+<lb/>relationer till Frankrike och har en lång essais färdig
+<lb/>på Franskt: La France en Suède.</p>
+<p rend="indfirst">Var nu snäll och meddela confidentiellt Georg
+<lb/>Brandes mitt förslag. Fråga om han vill redigera
+<lb/>Courrier de Copenhague eller låta någon annan göra
+<lb/>det; samt rekommendera någon äldre pålitlig norrman
+<lb/>för Kristiania.</p>
+<p rend="indfirst">(Får jag inga biträden skrifver jag allt själf!)</p>
+<p rend="indfirst">Vidare: Vill ni höra Er för om någon annons&#x00AD;
+<pb n="41"/>
+<lb/>entreprenör fins i Köpenhamn. Han skulle få annon&#x00AD;
+<lb/>serna om han trycker hela Revuen. Kanske Bojesen?</p>
+<p rend="indfirst">Detta var min »plan» i våras, men Edv. Brandes
+<lb/>tycktes så trött och likgiltig att jag behöll min plan.
+<lb/>Gör ej notis af detta än, ty den vill jag släppa ut i
+<lb/>Paris, der jag har starka försänkningar.</p>
+<p rend="indfirst">Kan ni ha detta färdigt, när jag kommer så att jag
+<lb/>genast får höra hur det låter! Särskildt med tryckeri,
+<lb/>Fransman och annonserna.</p>
+<p rend="indfirst">Ni skall se, att jag genomför detta, äfven mot
+<lb/>alla motströmmar och afrådningar. I värsta fall håller
+<lb/>jag föreläsningar och skaffar pengar på den vägen.
+<lb/>Och så ger jag ut från Stockholm.</p>
+<p rend="indfirst">Förehåll Bröderna Br. detta; och bed dem tänka
+<lb/>att de få mera inflytande om Revuen går ut från Kö&#x00AD;
+<lb/>penhamn.</p>
+<p rend="indfirst">Kanske Politiken kunde ta den i släptåg, trycka
+<lb/>den och sköta annonserna. Då behöfdes ingen sär&#x00AD;
+<lb/>skild administration.</p>
+<p rend="indfirst">Ni skrifver väl Franskt något? Och ville väl vara
+<lb/>med?</p>
+<p rend="indfirst">Om ett snart sammanträffande förhoppas jag och
+<lb/>om Ert intresse för företaget.</p>
+<p rend="ind10">Högaktningsfullt</p>
+<p rend="ind9"><hi rend="spaced">August Strindberg</hi>.</p>
+<pb n="42"/>
+<p rend="indfirst">Jag vill minnas, att jag trots min ungdom blev
+<lb/>betänksam inför dessa aktstycken. Snillrika idéer likna
+<lb/>andra väsen i vardande: ingen kan döma om deras
+<lb/>livskraft innan de trätt ut i livet. Men att plötsligt
+<lb/>finna sig utnämnd till förlossningsbiträde vid en världs&#x00AD;
+<lb/>famnande tankes nedkomst, verkar nästan förlamande
+<lb/>på tilltagsenheten.</p>
+<p rend="indfirst">Vad allt var det inte den käre mästaren väntade, att
+<lb/>jag skulle ha klappat och klart, då han om ett par
+<lb/>dygn höll sitt intåg i Köpenhamn! Vilken mäktig
+<lb/>herre, han måtte inbilla sig, att jag var!</p>
+<p rend="indfirst">Det fanns ingen möjlighet att träffa Strindberg
+<lb/>med ett förnuftigt brev. Innan det hann fram till Lin&#x00AD;
+<lb/>dau, skulle skredet ha satt sig i rörelse. Jag beslöt att
+<lb/>inga anstalter vidta utan avvakta händelsernas vidare
+<lb/>utveckling.</p>
+<p rend="indfirst">Närmast kom ett telegram från Strindberg med
+<lb/>anmodan att möta honom i Roeskilde.</p>
+</div2>
+<pb n="43"/>
+<div2 rend="chapter" xml:id="VårPersonligaBekantskap">
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<head rend="chapterenumeration center">V.</head>
+<head rend="chaptername center">Vår personliga bekantskap.</head>
+<p><hi rend="decorInit">N</hi>är jag steg ur tåget från Köpenhamn stod Strind&#x00AD;
+<lb/>berg på perrongen. Klädd i vinteröverrock och
+<lb/>filthatt, som dolde pannan, gjorde han ett mindre be&#x00AD;
+<lb/>tydande intryck än senare inomhus, då hans rörelser
+<lb/>fingo mer frihet och ett skiftande minspel besjälade
+<lb/>hans ord. Växlingen från mörker till ljus i hans an&#x00AD;
+<lb/>sikte var bedårande. Leendet bröt fram som en sol&#x00AD;
+<lb/>glimt. Allt blev vackert.</p>
+<p rend="indfirst">Han räckte mig sin hand och tackade för det jag
+<lb/>kommit. Han var rak i ryggen och bar sitt huvud
+<lb/>högt. Den luggslitna ulstern blev till en oväsentlighet.
+<lb/>Han kände sig som undantagsmänniska, en som hade
+<lb/>rätt att kräva mer än andra i sitt snilles namn. Livet
+<lb/>underkände hans anspråk, och i enlighet med sin natur
+<lb/>hämnades han med otidigheter. Men det förändrade
+<lb/>aldrig hans mening. Därav den självmedvetna vär&#x00AD;
+<pb n="44"/>
+<lb/>dighet, som präglade hans väsen. Endast i sällskaps&#x00AD;
+<lb/>dräkt föreföll han osäker. Det hjälpte inte, att han lät
+<lb/>sätta sidenslag på sin gamla frack. Den barnkammar&#x00AD;
+<lb/>fostran, han aldrig fått, sökte han senare förgäves till&#x00AD;
+<lb/>ägna sig.</p>
+<p rend="indfirst">— När kom ni till Roskilde? frågade jag.</p>
+<p rend="indfirst">— I går kväll.</p>
+<p rend="indfirst">— Varför stannade ni här?</p>
+<p rend="indfirst">Han anförtrodde mig senare, att han känt ett slags
+<lb/>ångest för Köpenhamn, liksom för hemlandet. Men
+<lb/>för tillfället svarade han med en fråga, framslungad
+<lb/>som på trots:</p>
+<p rend="indfirst">— Vet ni var jag varit i morse? På Bidstrup!
+<lb/>Jag har konsulterat doktor Pontoppidan!</p>
+<p rend="indfirst">Det var nyfikenhet, som drev honom till bekän&#x00AD;
+<lb/>nelsen. Han ville veta vad intryck sakförhållandet skulle
+<lb/>göra på hans vänner och anhängare. Bidstrup är nam&#x00AD;
+<lb/>net på den stora anstalten för sinnessjuka utanför
+<lb/>Roskilde, Pontoppidan hette överläkaren där.</p>
+<p rend="indfirst">— Nå, vad tyckte ni om honom?</p>
+<p rend="indfirst">— Han ville inte ha mig kvar.</p>
+<p rend="indfirst">Vi gjorde en rundvandring genom staden. Tid&#x00AD;
+<lb/>skriften kom snart på tal. Strindberg utnämnde mig
+<lb/>på stående fot till redaktionssekreterare.</p>
+<p rend="indfirst">— Ni skriver naturligtvis franskt? tog han för
+<lb/>givet, alldeles som i brevet. Men nu hade jag till&#x00AD;
+<pb n="45"/>
+<lb/>fälle att göra invändningar. Av hövlighet ställde jag
+<lb/>honom utanför, yppade intet tvivel om hans förmåga
+<lb/>att röra sig ledigt i den främmande dräkten.</p>
+<p rend="indfirst">— Vad mig beträffar — —</p>
+<p rend="indfirst">Han avbröt och sökte övertyga mig: Det var lätt,
+<lb/>som att spela fiol —</p>
+<p rend="indfirst">— Ja, för den, som kan!</p>
+<p rend="indfirst">— Att kunna är att ha lärt sig. Alltså i själva
+<lb/>verket en övningsfråga. För resten ska vi naturligtvis
+<lb/>ha en slav, som rättar allt vi skriver. En infödd frans&#x00AD;
+<lb/>man helst. I nödfall en lektor. Har ni ingenting gjort
+<lb/>åt saken?</p>
+<p rend="indfirst">Jag måste tillstå. Molnen skockade sig. Det drog
+<lb/>upp till oväder.</p>
+<p rend="indfirst">Vi bytte samtalsämne. För mig var det att komma
+<lb/>ur askan i elden. Jag stämdes till vittne i käromålet,
+<lb/>som ständigt var brännande i hans sjuka inbillning,
+<lb/>och underkastades korsförhör:</p>
+<p rend="indfirst">— Ni känner — — ni vet, att han varit min f. d.
+<lb/>hustrus älskare?</p>
+<p rend="indfirst">Frågan kom igen i tio olika förklädningar. Han
+<lb/>nämnde det ena namnet efter det andra.</p>
+<p rend="indfirst">Jag kände ingen av herrarna och sade honom det.
+<lb/>Men jag såg att han inte trodde mig.</p>
+<p rend="indfirst">— Nå, men — vissa rykten har ni väl hört?</p>
+<p rend="indfirst">Jag hade inga rykten hört och inbillade mig, att
+<pb n="46"/>
+<lb/>det skulle göra honom glad. Men han såg ut som
+<lb/>hade jag svikit hans förtroende.</p>
+<p rend="indfirst">Det gjorde mig ont. Jag var 25 år och beundrade
+<lb/>mannen, som jag bedrövat.</p>
+<p rend="indfirst">Äntligen hamnade vi på hotellet, där Strindberg
+<lb/>bodde, och togo plats vid ett bord i ena hörnet av
+<lb/>den stora matsalen, som såg ännu större ut därför
+<lb/>att inga andra gäster funnos. Det var för tidigt att
+<lb/>äta middag enligt skick och bruk i Roskilde. Men
+<lb/>Strindbergs mage var ställd på tysk tid, fast hans
+<lb/>hjärta var franskt, och vi grepo oss an. Han tyckte
+<lb/>om god mat, därom vittna nu många blad i hans
+<lb/>samlade skrifter. Ingen har som han skildrat det sven&#x00AD;
+<lb/>ska smörgåsbordets eller den svenska sexans enkla
+<lb/>fröjder. Undra på att denna sakliga poesi om små&#x00AD;
+<lb/>biffars sinnligt retande doft och honkräftans lockelse
+<lb/>väckte förargelse hos alla, som svärmade för poesien
+<lb/>i det blå! Ändå var denne vittre smakbrytares egen
+<lb/>smak alltid borgerligt svensk, och svenskast just när
+<lb/>han inbillade sig och andra att fosterlandet värkt bort.
+<lb/>I Paris gick han på jakt efter en knippa grönt, som
+<lb/>skulle sätta honom i stånd att förtrolla en fransk gigot
+<lb/>en daube till svenskt dillkött. Ärter och fläsk med ett
+<lb/>glas varm punsch var hans älsklingsrätt. Om den sven&#x00AD;
+<lb/>ska snapsen talte han numera med lysande ögon. Nyk&#x00AD;
+<lb/>terismen var ett tillryggalagt skede i hans utveckling<choice><sic/><corr resp="lbpahe">.</corr></choice></p>
+<pb n="47"/>
+<p rend="indfirst">Han gick från klarhet till klarhet. Men så snart
+<lb/>han genomskådat och skakat av sig den ena -ismen,
+<lb/>fastnade han i en annan.</p>
+<p rend="indfirst">— Är han nu ateist? skall Georg Brandes en gång
+<lb/>ha frågat sin bror Edvard i anledning av en Strind&#x00AD;
+<lb/>bergsartikel i Politiken. Jag trodde, han var deist?</p>
+<p rend="indfirst">— Han blev ateist i torsdags, svarade Edvard
+<lb/>Brandes leende.</p>
+<p rend="indfirst">Det är hans historia.</p>
+<p rend="indfirst">Under middagen bättrades Strindbergs lynne, och
+<lb/>han föreslog brorskål. Men när detta i enlighet med
+<lb/>hemmasvenskt bruk var undanstökat, råkade jag åter
+<lb/>förnärma honom till den grad, att hans väldiga panna
+<lb/>liksom sänkte sig över ögonen. Genom det öde rum&#x00AD;
+<lb/>met skred en ljushårig, högvuxen, magerlagd dam,
+<lb/>följd av tre barn och en tjänarinna. Strindberg åt sin
+<lb/>efterrätt och blinkade inte ens. Men jag blev nyfiken
+<lb/>och gjorde en i all sin oskuld enligt hans mening takt&#x00AD;
+<lb/>lös fråga:</p>
+<p rend="indfirst">— Jag undrar, vem det kan vara?</p>
+<p rend="indfirst">Han svarade dystert:</p>
+<p rend="indfirst">— Det är min f. d. hustru.</p>
+<p rend="indfirst">Nu visste jag inte längre var jag skulle göra av
+<lb/>mina ögon.</p>
+<p rend="indfirst">För envar som läst »En dåres försvarstal» är saken
+<lb/>klar. Strindberg höll på att straffa sin hustru genom
+<pb n="48"/>
+<lb/>att förneka henne. Men det visste jag inte då. Boken
+<lb/>därom var ännu oskriven.</p>
+<p rend="indfirst">— Är du — är ni skilda? stammade jag.</p>
+<p rend="indfirst">Han såg mycket ovänlig ut. Men då han bestämt
+<lb/>sig för att bo på Leopolds hotell i Köpenhamn, där
+<lb/>också jag höll till, kunde en förklaring i det ömtåliga
+<lb/>ämnet knappast undvikas.</p>
+<p rend="indfirst">— Ja — sade han — någon laglig skilsmässa är
+<lb/>det inte. Det behövs inte heller. Men jag betraktar
+<lb/>inte längre min f. d. hustru som hustru. Endast som
+<lb/>älskarinna! Hon får vara nöjd med det, hädanefter.
+<lb/>I sällskapslivet tänker jag inte ta henne med.</p>
+<p rend="indfirst">Jag förstod inte då, hur mycket lidande som stod
+<lb/>bakom denna hårdragna rönnbärsfilosofi.</p>
+<p rend="indfirst">Fru Siri Strindberg, född von Essen, tog plats
+<lb/>med barn och tjänarinna i närheten av vårt bord, fast
+<lb/>på andra sidan av salen.</p>
+<p rend="indfirst">Det var inte lätt för mig att veta, hur jag nu skulle
+<lb/>bete mig. Jag var Strindbergs gäst och där satt hans
+<lb/>hustru. Visserligen behandlade han henne som luft,
+<lb/>men hon var i alla fall hans lagvigda maka och hans
+<lb/>barns mor. Enkel hövlighet förbjöd mig att också be&#x00AD;
+<lb/>handla henne som luft. Men min värd skulle otvivelaktigt
+<lb/>ta det som en förnärmelse, om jag bad, att bli föreställd.</p>
+<p rend="indfirst">Jag har intet minne av, hur vi kommo till Köpen&#x00AD;
+<lb/>hamn.</p>
+</div2>
+<pb n="49"/>
+<div2 rend="chapter" xml:id="IKöpenhamnPå80Talet">
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<head rend="chapterenumeration center">VI.</head>
+<head rend="chaptername center">I Köpenhamn på 80-talet — Ett avskedsbrev
+<lb/>och ett testamente.</head>
+<p><hi rend="decorInit">A</hi>v en anteckning i Ernst Ahlgrens annotations&#x00AD;
+<lb/>almanacka för 1887 kan jag sluta mig till att det
+<lb/>var söndagen den 6 nov., Strindberg med hustru,
+<lb/>barn och bonne höll sitt intåg i Köpenhamn.</p>
+<p rend="indfirst">Köpenhamn på åttiotalet står för mitt minne som
+<lb/>en idyllisk småstad i jämförelse med den jättepolyp,
+<lb/>som nu från Rådhuspladsen sträcker sina armar i alla
+<lb/>väderstreck. På åttiotalet var stadens medelpunkt
+<lb/>Kongens Nytorv. Vallarna funnos delvis kvar. Öster&#x00AD;
+<lb/>bro, Nörrebro, Vesterbro och Amagerbro räknades som
+<lb/>avlägsna förstäder, Frederiksberg låg på landet.</p>
+<p rend="indfirst">Alla de gamla teatrarna funnos innanför vallarna,
+<lb/>där de stå än i dag, Det Kongelige vid Kongens Ny&#x00AD;
+<lb/>torv med Gammelholm i ryggen. Där bodde skåde&#x00AD;
+<lb/>spelare och skådespelerskor, sångare och sångerskor,
+<pb n="50"/>
+<lb/>konstnärer i vart och vartannat hus. Folketheatret låg
+<lb/>vid Nörregade, Casino vid Amaliegade, mitt emellan
+<lb/>Amalienborg och S:t Annæ Plads. Endast nykomlingen,
+<lb/>Dagmartheatret, stod utanför Vesterport med två stora
+<lb/>varietéteatrar till grannar.</p>
+<p rend="indfirst">Också tidningarna höllo sig ännu innanför vallarna,
+<lb/>de gamla och förnäma Berlingske och Nationaltidende
+<lb/>med avläggare, lika väl som nykomlingen Politiken,
+<lb/>som slagit upp sina bopålar vid Integade, på hörnet
+<lb/>av Ströget. Där regerade då Hörup och Edvard Bran&#x00AD;
+<lb/>des, senare Danmarks finansminister. (Ministerchefen
+<lb/>Zahle satt helt blygsamt och redigerade smånotisavdel&#x00AD;
+<lb/>ningen »Smæld og Smuld».) Ännu närmare Kongens
+<lb/>Nytorv, på hörnet av Ny Östergade och gamla Strö&#x00AD;
+<lb/>get, lyste hösten 1887 var kväll en jättelykta, ett
+<lb/>åttkantigt utbygge med rutor, som angåvo, att där&#x00AD;
+<lb/>innanför skrevs veckotidningen</p>
+<lb/>
+<p rend="center">PIRATEN.</p>
+<p rend="center">Redacteur Ove Rode.</p>
+<lb/>
+<p rend="indfirst">Det var den allra yngsta ungdomens, 20-åring&#x00AD;
+<lb/>arnas, budbärare till allmänheten (kaptenen på sjö&#x00AD;
+<lb/>rövarskutan blev senare Danmarks inrikesminister).</p>
+<p rend="indfirst">Mellan Ny Östergade och Kongens Nytorv, fast på
+<lb/>andra sidan om Hotel d’Angleterre, gick en liten gata,
+<lb/>som hette Hovedvagtsgade och endast bestod av ett
+<pb n="51"/>
+<lb/>fåtal hus, mestadels inrättade till privathotell. Ett av
+<lb/>dem var Leopolds hotel, där Strindberg tagit in. Det
+<lb/>var också Ernst Ahlgrens stamhotell; några dagar senare
+<lb/>flyttade hon tillbaka dit. Den 20:de kom Gustaf af
+<lb/>Geijerstam och fru Nennie.</p>
+<p rend="indfirst">Det var skandinaviskt i Köpenhamn den hösten.
+<lb/>Björnstjerne Björnson höll sin föreläsning om »Engifte
+<lb/>och månggifte», Geijerstam föreläste, August Lindberg
+<lb/>spelade Rosmersholm på svenska och Strindbergs
+<lb/>»Fadren» gick på Casino.</p>
+<p rend="indfirst">Leopolds hotel var svenskarnas huvudkvarter. Där
+<lb/>var stillsamt, centralt och billigt. För ett litet rum med
+<lb/>utmärkt kosthåll betalade jag 75 kr. i månaden.</p>
+<p rend="indfirst">Måltiderna intogos vid gemensamt bord. Kring
+<lb/>värd och värdinna, hr och fru Leopold, samlades var
+<lb/>dag på bestämt klockslag hotellets egna kostgängare
+<lb/>och några spisgäster från staden. Till dem hörde
+<lb/>Karl Larsen, den danske författaren. En annan dansk
+<lb/>författare, Svend Leopold, intog förmodligen sina mål&#x00AD;
+<lb/>tider i barnkammaren. Någon gång såg man en skymt
+<lb/>av den lille parveln i trapporna.</p>
+<p rend="indfirst">Misstämningen mellan Strindberg och hans hustru
+<lb/>fortfor. Hon bodde för sig med barnen. Ingen som
+<lb/>såg dem samman vid måltiderna kunde tro att det var
+<lb/>ett kärlekssjukt par. Vi som läst »En dåres försvars&#x00AD;
+<lb/>tal» veta det. Med en skarpblick, som intet tycks undgå,
+<pb n="52"/>
+<lb/>och en sanningslidelse, som aldrig skyr att tränga in&#x00AD;
+<lb/>nanför helvetets portar, har dåren fört sin talan. Men
+<lb/>hans ärlighet är så omutlig, att den också blir mot&#x00AD;
+<lb/>partens sköld. Oförenliga grundämnen, virvlade sam&#x00AD;
+<lb/>man i brinnande lidelse, blir slutintrycket av detta ödes&#x00AD;
+<lb/>bestämda äktenskapliga sorgespel. Ingen som med ner&#x00AD;
+<lb/>ver och blod fattat dess innebörd dömer någondera
+<lb/>av parterna.</p>
+<p rend="indfirst">En väninna till fru Strindberg lär en gång ha
+<lb/>sagt: »Strindberg borde ha varit gift med en köks&#x00AD;
+<lb/>piga». Det finns ett sanningskorn i yttrandet. Hans
+<lb/>hustru borde ha varit mycket stark och mycket sund,
+<lb/>men hon borde också ha ägt många andra egenskaper,
+<lb/>framförallt den överklassens förfining, som han i sitt
+<lb/>hjärta tillbad dess hetare, ju mer han led av sitt eget
+<lb/>sinnes oädelhet. Det är sant som han säger själv och
+<lb/>som många efter honom upprepat, att han av naturen
+<lb/>var kvinnodyrkare. Därför blev han kvinnohädare, när
+<lb/>han miste sin barndomstro, liksom läsaren Lennstrand
+<lb/>blev gudomshädare.</p>
+<p rend="indfirst">I Köpenhamn var han lejonet för dagen. Alla lejon&#x00AD;
+<lb/>jägare sökte hans bekantskap. Middagsbjudningar hag&#x00AD;
+<lb/>lade över honom. Många segervana skönheter drömde
+<lb/>om att omvända kvinnohataren till bättre tankar om
+<lb/>könet. Han behövde bara ha kastat sin näsduk. Det
+<lb/>visste han mycket väl. Men han kunde inte. Otill&#x00AD;
+<pb n="53"/>
+<lb/>fredsställd i sitt äktenskap, såg han för ögonblicket
+<lb/>ingen annan utväg än att skjuta sig eller bryta sitt
+<lb/>trohetslöfte. Men hans hjärta vägrade.</p>
+<p rend="indfirst">Han älskade musik och i synnerhet mandolinspel.
+<lb/>Ingenting lindrade bättre, när Saulsandan var över
+<lb/>honom. På Cirkus-Varieté uppträdde just ett itali&#x00AD;
+<lb/>enskt mandolinspelarsällskap. Ernst Ahlgren, Strind&#x00AD;
+<lb/>berg och jag kommo överens om att mötas där. Det
+<lb/>föreföll oss andra enkelt nog. För Strindberg miss&#x00AD;
+<lb/>lyckades företaget. När jag kom hem, låg berättelsen
+<lb/>om hans vedermödor på mitt bord:</p>
+<lb/>
+<p rend="center"><hi rend="spaced">Fullständig Relation om Cirkus-Varieté&#x00AD;
+<lb/>skojet och Mandolin-Humbugen samt
+<lb/>orsakerna till mitt försvinnande</hi>.</p>
+<lb/>
+<p rend="indfirst">Anländ &#x00BD;8 hindrades jag af 2 poliser att intränga
+<lb/>i lokalen, emedan jag icke hade biljett, af den grund
+<lb/>att biljettluckan ej var öppen.</p>
+<p rend="indfirst">Patrullerar derför i farstun. Ber få köpa program,
+<lb/>nej! Biljett först. Nå luckan öppnas! 50 öre. Pro&#x00AD;
+<lb/>grammet (10 öre) upplyser då först, att det börjar kl. 8
+<lb/>och att nästan hela aftonen ombesörjes av Berns-salong&#x00AD;
+<lb/>musik. Mandolin — <hi rend="spaced">ett</hi> nummer först vid &#x00BD;11-tiden.</p>
+<p rend="indfirst">Intar i den tomma salen en mig för 50 öre tillkom&#x00AD;
+<lb/>mande plats med enkom anbragta kaloriferer bakom
+<lb/>ryggen för att genast byta plats = 25 öre, reserverade!</p>
+<pb n="54"/>
+<p rend="indfirst">Salen tom; blir arg, går ut att varna Er. Går och
+<lb/>går! Får inte komma in igen. Går ner Halmtorvet.
+<lb/>Frederiksberggade etc. för att möta Er droska och
+<lb/>kommer hem utan att ha mött någon droska.</p>
+<p rend="indfirst">Att jag då stannar efter att ha ränt förgäfves i
+<lb/>kylan förvånar väl ej!</p>
+<p rend="ind10"><hi rend="spaced">Aug</hi>. <hi rend="spaced">Sbg</hi>.</p>
+<lb/>
+<p rend="center">*</p>
+<lb/>
+<p rend="indfirst">Några dagar senare, knappt en vecka efter det vi
+<lb/>gjort personlig bekantskap, skrev han nedanstående
+<lb/>brev. Han bodde i ett rum mot gården med utsikt åt
+<lb/>en smutsig vägg och vantrivdes så, att det kändes som
+<lb/>kunde han omöjligt leva längre. Men det berodde var&#x00AD;
+<lb/>ken på utsikten, mörkret eller hemlöshetsintrycket från
+<lb/>hotellrumsmöblerna, som han föregav, utan endast på,
+<lb/>att hans sinne var sjukt av äktenskapliga bekymmer.
+<lb/>Denna hänsynslösa människa var begåvad med en över&#x00AD;
+<lb/>mänsklig känslostyrka. Jag kan aldrig glömma ut&#x00AD;
+<lb/>trycket i de ögon, han vände mot mig, när jag steg
+<lb/>in i hans rum. Han satt vid skrivbordet borta vid
+<lb/>fönstret. Den gråa dagern föll över hans gråa ansikte.</p>
+<p rend="indfirst">— Jag sitter och skriver till dig, sade han.</p>
+<p rend="indfirst">Jag bad honom underteckna brevet. Han gjorde
+<lb/>så och gav mig det.</p>
+<pb n="55"/>
+<figure><graphic url="/txt/lb27489/lund01_nagras01_001.jpeg"/></figure>
+<!-- ornament här -->
+<pb n="56"/>
+<figure><graphic url="/txt/lb27489/lund01_nagras01_002.jpeg"/></figure>
+<!-- ornament här -->
+<pb n="57"/>
+<figure><graphic url="/txt/lb27489/lund01_nagras01_003.jpeg"/></figure>
+<!-- ornament här -->
+<pb n="58"/>
+<figure><graphic url="/txt/lb27489/lund01_nagras01_004.jpeg"/></figure>
+<!-- ornament här -->
+<pb n="59"/>
+<figure><graphic url="/txt/lb27489/lund01_nagras01_005.jpeg"/></figure>
+<!-- ornament här -->
+<pb n="60"/>
+<figure><graphic url="/txt/lb27489/lund01_nagras01_006.jpeg"/></figure>
+<!-- ornament här -->
+<pb n="61"/>
+<figure><graphic url="/txt/lb27489/lund01_nagras01_007.jpeg"/></figure>
+<!-- ornament här -->
+<pb n="62"/>
+<figure><graphic url="/txt/lb27489/lund01_nagras01_008.jpeg"/></figure>
+<!-- ornament här -->
+<pb n="63"/>
+<p rend="ind2">Axel Lundegård.</p>
+<lb/>
+<p rend="indfirst">Det skulle vara möjligt att jag i ett återfall af ro&#x00AD;
+<lb/>mantik absenterade mig. Det vet jag inte, vill inte
+<lb/>blagga med, men måste tänka mig för, och det före&#x00AD;
+<lb/>faller mig sannolikt att det slutar så. Du var emel&#x00AD;
+<lb/>lertid den sista person af slumpen förd i min väg
+<lb/>som visade intresse för mig, om du ock syntes mig
+<lb/>vara prevenerad rörande min pådyflade monomani,
+<lb/>men det gör ingenting. Du förstod mig, ja!</p>
+<p rend="indfirst">Uppfyll min sista vilja! Om det nu är den sista.</p>
+<p rend="indfirst">1:o. Rehabilitera min hustru genom att kasta
+<lb/>dunklets slöja öfver alltsammans, för de barns skull,
+<lb/>som jag haft kära och som gåfvo mitt lif intresse.
+<lb/>Skäll ner mitt vansinne, det gör mig intet ondt; men
+<lb/>oss emellan — var öfvertygad om, att jag var klok!</p>
+<p rend="indfirst">2:o. Rafsa ihop alla på svenska och franska
+<lb/>otryckta manuskript.</p>
+<p rend="indfirst">»Vivisektioner».</p>
+<p rend="indfirst">»Början till min äktenskapsroman» (på franska).</p>
+<p rend="indfirst">»Griller»</p>
+<p>och sälj som Efterlämnade skrifter att hustru och barn
+<lb/>genast må få pengar.</p>
+<p rend="indfirst">3:o. Tvinga Alb. B. utge 4:e delen af Tjenste&#x00AD;
+<lb/>qvinnan (ligger i kopiebokskopia i en lår, som kommer
+<lb/>från Schweiz jämte annat.</p>
+<pb n="64"/>
+<p rend="indfirst">5:e delen d:o kallad Han och Hon (Brefvexling,
+<lb/>kolossal, också liggande hos Alb. B. i renskrift i original
+<lb/>i schweizerkista.</p>
+<p rend="indfirst">6:e, 7:e, 8:e del min korrespondens (att hopsam&#x00AD;
+<lb/>las enligt lista hos min Bror Axel och äfven i schweizer&#x00AD;
+<lb/>kista).</p>
+<p rend="indfirst">4:o. Ombesörj att utges i Flensburg, Leipzig, Kö&#x00AD;
+<lb/>penhamn eller Chicago, när tiden är inne, mina sam&#x00AD;
+<lb/>lade skrifter: <hi rend="spaced">allt</hi> hvad jag skrifvit, hvart ord, ur tid&#x00AD;
+<lb/>ningar, kalendrar, ut- och inrikes, samt med korre&#x00AD;
+<lb/>spondensen.</p>
+<p rend="indfirst">5:o. Understöd stats- eller privatpension åt mina
+<lb/>barn, som antingen de äro mina eller inte af mig
+<lb/>adopteras (hustrun behöfva vi ju ej tala om).</p>
+<p rend="indfirst">6:o. Urgera Zola att skaffa förläggare till <hi rend="spaced">Père</hi>
+<lb/>(Fadren) eller tryck den i Köpenhamn på franska, dock
+<lb/>endast efter det korrigerade manuskript Zola innehar;
+<lb/>försök få den spelad i Paris.</p>
+<p rend="indfirst">7:o. Samråd med min bror Axel vid Dram. teatern,
+<lb/>men lyd honom ej, ty han förstår mig ej och är kull&#x00AD;
+<lb/>pratad af Alb. B. och Unga Sverge.<ptr target="#n1" n="*"/></p>
+<p rend="indfirst">Detta, bland annat, derför att det sterila och kön&#x00AD;
+<lb/>lösa Sverge skall se, hvilken fruktsam ande de hatade
+<lb/>för att han var fruktsam då de voro sterila.</p>
+<note xml:id="n1" n="*" place="foot" rend="small">Du skall låta öfversätta: Egalitarisme af Paul Lafitte,
+<lb/>Hachette, Paris. Hvarför får du se då!</note>
+<pb n="65"/>
+<p rend="indfirst">Du är en talang som behöfver ekonomiskt stöd der&#x00AD;
+<lb/>för skall du ha stor andel i vinsten för ditt arbete
+<lb/>med min rehabilitation.</p>
+<p rend="indfirst">Jag tänker mig äfven att uppdraget skall intressera</p>
+<p>dig.</p>
+<p rend="indfirst">Se in i en själ så långt ses kan.</p>
+<p rend="indfirst">Jag tänker mig äfven att uppdraget skall intressera
+<lb/>romantiker att inte kunna lefva utan »ideal». Mitt var
+<lb/>förkroppsligat i en qvinna, ty jag var qvinnodyrkare.
+<lb/>När det föll, föll jag!</p>
+<p rend="indfirst">I min korrespondens skall du se en fin ande som
+<lb/>duperad af demokratiskt prat gjorde sig rå och liten
+<lb/>för att inte såra de små och ofina.</p>
+<p rend="indfirst">Du skall äfven se en förtroendefull, godtrogen narr,
+<lb/>som lät inbilla sig allt, till och med att han var en
+<lb/>lump, när han inte alls var det; inbilla sig allt för att
+<lb/>andras brott skulle döljas.</p>
+<lb/>
+<p rend="center">*</p>
+<!-- ornament här -->
+<lb/>
+<p rend="indfirst">Forts. sid. 4.</p>
+<p rend="indfirst">8:o. Få ut Röda Rummet på tyska.</p>
+<p rend="indfirst">9:o. Fadren spelad på Residenz-teatret, Berlin.</p>
+<p rend="indfirst">10:o. Valda Skrifter på Tyska, innan Blåstrum&#x00AD;
+<lb/>porna förstört genren.</p>
+<lb/>
+<p rend="center">*</p>
+<!-- ornament här -->
+<pb n="66"/>
+<p rend="indfirst">Det förefaller mig som om jag går i sömnen, som
+<lb/>om dikt och lif blandats. Jag vet inte om Fadren är
+<lb/>en dikt eller om mitt lif varit det; men det tyckes
+<lb/>mig som om detta i ett gifvet, snart stundande ögon&#x00AD;
+<lb/>blick skulle komma att gå upp för mig, och då ramlar
+<lb/>jag ihop antingen i vansinne med samvetsqval eller i
+<lb/>sjelfmord. Genom mycken diktning har mitt lif blifvit
+<lb/>ett skugglif. Jag tycker mig icke längre gå på jorden
+<lb/>utan sväfva utan tyngd i en atmosfär icke af luft utan
+<lb/>af mörker. Faller ljus in i detta mörker så dimper jag
+<lb/>ned krossad!</p>
+<p rend="indfirst">Eget är att i en ofta återkommande nattlig dröm
+<lb/>jag känner mig flygande, utan tyngd, finner det helt
+<lb/>naturligt, liksom också alla begrepp om rätt, orätt,
+<lb/>sant, osant hos mig äro upplösta, och att allt som sker,
+<lb/>hur ovanligt det än är, synes mig som det ska vara.</p>
+<p rend="indfirst">Ja, men det är ju rätta konseqvenserna af den nya
+<lb/>verldsåskådningen, indeterminismen, och möjligt är att
+<lb/>det är af ovana vid det nya jag häpnar och fruktar.</p>
+<p rend="indfirst">Köpenhamn d 12 november.</p>
+<p rend="ind8"><hi rend="spaced">August Strindberg</hi>.</p>
+</div2>
+<pb n="67"/>
+<div2 rend="chapter" xml:id="FörstaUppförandetAvFadren">
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<head rend="chapterenumeration center">VII.</head>
+<head rend="chaptername center">Första uppförandet av Fadren.</head>
+<p><hi rend="decorInit">M</hi>åndagen den 14 nov., Oelenschægers födelsedag,
+<lb/>gick Strindbergs Fadren första gången över Ca&#x00AD;
+<lb/>sinoteaterns scen. Jag hade fått anmodan att hälsa
+<lb/>tilldragelsen med en ledare i Köpenhamnstidningen
+<lb/>Politiken, »August Strindberg på dansk scen». Ett
+<lb/>sammandrag av dess huvudinnehåll kan brukas till för&#x00AD;
+<lb/>klaring av stämningen i salongen.</p>
+<p rend="indfirst">Handskriften till den slutscen, som jag här formu&#x00AD;
+<lb/>lerat på svenska med ledning av den danska texten, har
+<lb/>förkommit, och detta brottstycke är det enda som
+<lb/>räddats. Det visar, att livsglädjen var på väg till
+<lb/>svenska litteraturen redan hösten 1887. Hur det kom
+<lb/>sig att Strindberg då ströp den, skall jag sedan be&#x00AD;
+<lb/>rätta. »Fadrens fortsättning» heter nu »Kamraterna»
+<lb/>och spelas och läses med det av Strindberg i hastigt
+<lb/>mod påklistrade nya slutet. Utgivaren av Strindbergs
+<pb n="68"/>
+<lb/>Samlade skrifter har dock tillvaratagit också det gamla
+<lb/>i anmärkningarna till 23:e delen.</p>
+<p rend="indfirst">Den ovan nämnda artikelns huvudinnehåll åter&#x00AD;
+<lb/>ges här nedan i översättning:</p>
+<p rend="indfirst">Det mesta som hittills översatts till danska av
+<lb/>svensk litteratur har varit transitogods från Norge eller
+<lb/>returgods från Danmark självt. Ingen teaterdirektör
+<lb/>i Danmark har uppfört »Mäster Olof», och »Lycko-Pers
+<lb/>resa», som länge varit antagen till spelning på Folk&#x00AD;
+<lb/>teatern, kan inte tävla med det drama, som Casinos
+<lb/>nye direktör nu beslutat införliva med sin spellista.
+<lb/>»Fadren» är ett verk av helt annan lödighet, om också
+<lb/>ingen annan teater i norden hittills öppnats för det
+<lb/>och ingen förläggare utgivit det.</p>
+<p rend="indfirst">Vem skulle tro att det är Sveriges snillrikaste
+<lb/>författare, Nordens kanske mest egenartade andliga
+<lb/>kraft, som behandlas så?</p>
+<p rend="indfirst">Mot denna upprörande lockout är »Fadrens» upp&#x00AD;
+<lb/>förande på Casino en ljungande gensaga. De män och
+<lb/>kvinnor, som samlas till första föreställningen i kväll,
+<lb/>ge upprättelse åt en för sin övertygelses skull bojkottad
+<lb/>diktare och protestera mot själamordet på ett av de
+<lb/>största snillen, som på länge höjt sin röst i Norden.</p>
+<p rend="indfirst">Den protesten kunna alla frisinnade människor vara
+<lb/>med om, vare sig de politiskt stå till höger eller till
+<lb/>vänster: alla som ogilla inkvisition och kättarförföljelse,
+<pb n="69"/>
+<lb/>alla som äga smak och bildning nog att förstå, vilket
+<lb/>betydande diktverk »Fadren» är.</p>
+<p rend="indfirst">Utan slitna överord, känslosamhet och falsk djup&#x00AD;
+<lb/>sinnighet är i »Fadren» ett nutida livsöde framställt
+<lb/>med en fläkt av det antika sorgespelets obönhörliga
+<lb/>allvar.</p>
+<p rend="indfirst">En elak kvinna är skildrad, ett motstycke till de
+<lb/>många ömkliga männen i våra efter-ibsenska kvinno&#x00AD;
+<lb/>dramer. Därför kastas nu smädeordet: kvinnohatare!
+<lb/>efter författaren.</p>
+<p rend="indfirst">Låt oss lyssna till, hur hans känslor mot könet
+<lb/>ta sig uttryck i »Fadren»:</p>
+<p rend="indfirst">— »Men jag känner din mjuka schal mot min mun;
+<lb/>den är så ljum och så len som din arm och den luktar
+<lb/>vanilj som ditt hår när du var ung. Laura, när du var
+<lb/>ung och vi gingo i björkskogen med gullvivor och trast,
+<lb/>härligt, härligt! Tänk, vad livet har varit skönt, och så
+<lb/>det blivit. Du ville icke, det skulle bli så här. Jag
+<lb/>ville det icke och ändå blev det så — —»</p>
+<p rend="indfirst">Är det kvinnohat, orden andas?</p>
+<p rend="indfirst">I slutscenen av »Fadrens» fortsättning säger doktor
+<lb/>Östermark till Bertha (ryttmästarens dotter), nu själv
+<lb/>gift med en konstnär (Axel):</p>
+<p rend="indfirst">Du tror kanske, du som jag, att saken före&#x00AD;
+<lb/>varit? Intet ont i det. Om diskussionen nu är slut,
+<lb/>begära vi proposition och tala om annat.</p>
+<pb n="70"/>
+<p rend="indfirst"><hi rend="spaced">Axel</hi> (till Bertha): — Inte sant, Bertha? Vi ska
+<lb/>tala om annat.</p>
+<p rend="indfirst"><hi rend="spaced">Bertha</hi>: — Ja då, om helt annat! Å, det är som
+<lb/>hade spjället stängts för tidigt; här är kvalmigt, här
+<lb/>är os och huvudvärk.</p>
+<p rend="indfirst"><hi rend="spaced">Doktorn</hi>: — Därför ska vi öppna fönstren, andas
+<lb/>majluft, höra <hi rend="spaced">Dolce Napoli</hi>, gå i skogen och dricka
+<lb/>eld i håret! Seså, nu kilar jag efter vagn. I famn på
+<lb/>varandra, barn. Så få vi sluta med försoning, fast det
+<lb/>inte är så djupsinnigt.</p>
+<p rend="indfirst"><hi rend="spaced">Bertha</hi>: — Nej, vi ska inte vara djupsinniga.</p>
+<p rend="indfirst"><hi rend="spaced">Axel</hi>: — Hellre glada. Eller hur?</p>
+<p rend="indfirst"><hi rend="spaced">Doktorn</hi>: — Jo, ge oss glädjen tillbaka, livs&#x00AD;
+<lb/>glädjespredikanter. Qe oss kompromissens lilla muntra
+<lb/>sate och skicka hem Dovregubbarna. De kommo från
+<lb/>sina töckniga högfjäll med mardrömmar och hotell&#x00AD;
+<lb/>räkningar på ideella utlägg och gjorde livet mörkt och
+<lb/>hemskt. Ge oss nu solen tillbaka, en liten smula sol&#x00AD;
+<lb/>sken bara, så man ser, att den gamla planeten ännu
+<lb/>finns kvar på den gamla himmeln. Inte hela solen, men
+<lb/>litet solsken. Bara lite grand.</p>
+<p rend="indfirst">Så slutar »Fadrens» fortsättning. Den längtan efter
+<lb/>majluft och livsglädje, som Strindberg här gett ut&#x00AD;
+<lb/>tryck, är tagen rakt ur hjärtat på ett släktled, över
+<lb/>vars ungdom Dovreluften legat tryckande och tung.</p>
+<p rend="indfirst">Nu skaka vi av den. Nu skall här rivas för att</p>
+<pb n="71"/>
+<p>skaffa luft och ljus i Nordens litteratur. Ära vare de
+<lb/>ursprungliga andarna, men ner med andrahandslittera&#x00AD;
+<lb/>turmakarna! Ära vare Henrik Ibsen, men ner med
+<lb/>hans eftersägare!</p>
+<p rend="indfirst">Artikeln slutade med en ny erinran om Strindbergs
+<lb/>betydenhet som diktare och kvällsföreställningens be&#x00AD;
+<lb/>tydelse som protest mot försöken att utestänga honom
+<lb/>från scen och bokmarknad.</p>
+<p rend="indfirst">På kvällen var teatern fullsatt.</p>
+<p rend="indfirst">Casino hade annars inte rykte för att vara ett
+<lb/>konsttempel, där allvaret satt i högsätet. Dit gick
+<lb/>publiken i vardagslag för att se och höra herrar och
+<lb/>damer i trikå sjunga glada kupletter. Nu skulle samma
+<lb/>herrar och damer spela sorgespel. Publiken skulle
+<lb/>lockas att gråta i stället för att skratta.</p>
+<p rend="indfirst">Men publiken var naturligtvis inte heller den van&#x00AD;
+<lb/>liga. Den bestod av författare och författarinnor, konst&#x00AD;
+<lb/>närer och konstnärinnor, allsköns intresserade och in&#x00AD;
+<lb/>tressenter. Några kände Strindberg personligen, andra
+<lb/>kände honom genom hans verk, alla hade kommit för
+<lb/>att hylla den av sitt eget folk illa behandlade svenske
+<lb/>diktaren.</p>
+<p rend="indfirst">Framgången var alltså på förhand given för Strind&#x00AD;
+<lb/>bergs personliga vidkommande. Men hur Casinos di&#x00AD;
+<lb/>rektör, skådespelare och skådespelerskor skulle gå i
+<lb/>land med sina uppgifter, det var frågan. Alla visste,
+<pb n="72"/>
+<lb/>att föreställningen var ett vågspel. Därav spän&#x00AD;
+<lb/>ningen.</p>
+<p rend="indfirst">Inte kunde hr Hunderup omskapa sig till en något
+<lb/>så när antaglig svensk ryttmästare? Inte kunde fru
+<lb/>Krum spela tragedi och fru Theodora Petersen gam&#x00AD;
+<lb/>mal amma?</p>
+<p rend="indfirst">Vad hr Hunderup beträffar kan det knappast med
+<lb/>sanning sägas, att han lyckades. Jag vill ogärna fälla
+<lb/>något förklenligt omdöme på hans döda mull. Han
+<lb/>gjorde vad han kunde, och hans uppfattning av rollen
+<lb/>var säkert riktig. Men han hade för mycket mot sig.
+<lb/>Han var ovig både i minspel och rörelse. Han såg
+<lb/>inte ut att någonsin ha suttit till häst, vare sig kropps&#x00AD;
+<lb/>ligen eller andligen. Och till råga på allt var hans röst
+<lb/>skiftningslöst hes. I alla fall blev han uppriktigt hyllad.
+<lb/>Publiken räknade honom till godo, att han vågat upp&#x00AD;
+<lb/>föra Strindbergs hemlösa sorgespel, och såg genom
+<lb/>fingrarna med hans framställning av den svåra titel&#x00AD;
+<lb/>rollen.</p>
+<p rend="indfirst">I motsats till direktören hade fru Krum, som spe&#x00AD;
+<lb/>lade Laura, det yttre för sig. Hennes vänner köpen&#x00AD;
+<lb/>hamnarna voro vana att beundra hennes vackra an&#x00AD;
+<lb/>sikte och skapnad, men att hon också kunde vara
+<lb/>annat än vacker och välskapt, hade hon dittills aldrig
+<lb/>uppenbarat.</p>
+<p rend="indfirst">Den kvällen vann hon erkännande som en konst&#x00AD;
+<pb n="73"/>
+<lb/>närinna av rang. Hennes hårda skönhet speglade gåt&#x00AD;
+<lb/>fullt den underjordiska ondska, varmed författaren väl
+<lb/>rikligt utrustat ryttmästarens hustru. Själva spelet gav
+<lb/>intryck av omedvetenhet. Ondskan blev naturbunden
+<lb/>instinkt, något ödesbestämt och därigenom mindre upp&#x00AD;
+<lb/>rörande. Röstens sömngångartonfall gjorde, att frågan
+<lb/>om hon ljög eller talade sanning föreföll ovidkom&#x00AD;
+<lb/>mande. Det tycktes helt enkelt självklart att hon måste
+<lb/>säga vad hon sade.</p>
+<p rend="indfirst">Också fru Theodora Petersen, som spelade amman,
+<lb/>var i vardagslag en yngre dam av ståtligt yttre, »juno&#x00AD;
+<lb/>nisk gestalt», som det stod om henne i tidningarna,
+<lb/>när hon uppträdde i sång eller lustspel. Nu fick hon
+<lb/>stulta kring med ryggen krökt och tala som en gumma,
+<lb/>men hon fann varma tonfall, när hon trollband sin stora
+<lb/>gosse med barndomsminnenas makt och smög tvångs&#x00AD;
+<lb/>tröjan på honom.</p>
+<p rend="indfirst">Av de övriga medspelande minns jag bara fröken
+<lb/>Olga Meyer som en mörkögd Bertha, hr Pio som dok&#x00AD;
+<lb/>torn och hr Stephensen som pastorn.</p>
+<p rend="indfirst">Det blev en framgång, kännetecknad av starka
+<lb/>handklappningar och många inropningar. Direktören
+<lb/>fick sitt och de medspelande sitt. Men på Strindberg
+<lb/>ropade publiken förgäves.</p>
+<p rend="indfirst">I likhet med så många andra författare väpnade
+<lb/>han sig mot ödets slag genom att förebära likgiltig&#x00AD;
+<pb n="74"/>
+<lb/>het för allmänhetens dom. Men i själva verket var
+<lb/>han skälvande som en naken sträng. Det mottagande
+<lb/>»Fadren» fått på Casino, eggade uppenbarligen hans
+<lb/>inbillning. Han drömde om stora inkomster från tea&#x00AD;
+<lb/>tern. Yttermera funderade han på att själv träda fram
+<lb/>och uppläsa egna arbeten. Därom talade han redan
+<lb/>i ett middagsbjudningsbrev den 19 nov. från Klampen&#x00AD;
+<lb/>borg: » — — Medförde du Svenska öden eller andra af
+<lb/>mina skrifter, kunde jag preparera mig till min före&#x00AD;
+<lb/>ställning på Casino.»</p>
+<p rend="indfirst">Tre dar senare skrev han:</p>
+<lb/>
+<p rend="ind2">Broder Lundegård.</p>
+<p rend="indfirst">Detta öfvergår numera gränserna. Hunderup svek
+<lb/>mig igen i morgse! Trött och arg reste jag ifrån
+<lb/>alltsammans i morgse.</p>
+<p rend="indfirst">Blef emellertid varse, att Fadren enligt Politiken
+<lb/>går med stora hus och hör af besökande, att der är
+<lb/>mycket folk.</p>
+<p rend="indfirst">Skref derför till Hunderup, att jag öfverger honom
+<lb/>om han ej sänder pengar.</p>
+<p rend="indfirst">Bagaget står qvar olöst och Svenska öden likaså.
+<lb/>Bunden alltså till händer och fötter och beröfvad ut&#x00AD;
+<lb/>sigt att kunna göra något guld på Casino personligen.</p>
+<p rend="indfirst">Var snäll ryck upp Hunderup och låt mig strax
+<lb/>veta, hvad Lindberg tänker om Griller. Han hade läst
+<pb n="75"/>
+<lb/>en akt i morgse och syntes sympatiskt stämd mot
+<lb/>Axel-rollen.</p>
+<p rend="indfirst">Reflekterar han, så blir jag strax trolös Hunderup,
+<lb/>lärande af detta lögnens och förräderiets tidehvarf.
+<lb/>Läser Politiken så håret reser sig på mitt oskyldiga
+<lb/>hufvud.</p>
+<p rend="indfirst">Presenterades Bojesen i morgse och erbjöd denne
+<lb/>sig artigt vara mig till tjenst vid behof.</p>
+<p rend="indfirst">Nu först alltså pengar till bagage; sedan Casino
+<lb/>och så Revue.</p>
+<p rend="indfirst">Hjelp mig är du beskedlig ur denna jämmer och
+<lb/>jag skall hjelpa dig sedan.</p>
+<p rend="ind8">Hasteligen, Vänligen</p>
+<p rend="ind7"><hi rend="spaced">August Strindberg</hi>.</p>
+<lb/>
+<p rend="ind1 dateline">Klampenborg, 22 nov. 1887.</p>
+<lb/>
+<p rend="indfirst">Också teaterdirektören led, som synes, av penning&#x00AD;
+<lb/>nöd. »Svenska öden» fanns i bagaget, Strindberg sak&#x00AD;
+<lb/>nade medel att lösa ut det. August Lindberg var i
+<lb/>Köpenhamn för att spela Rosmersholm. Ernst Boje&#x00AD;
+<lb/>sen är den bekante danske förläggaren.</p>
+<pb n="76"/>
+<lb/>
+<lb/>
+<lb/>
+<!-- blanksida -->
+<figure rend="center"><graphic url="/bilder/ornament/littblank.svg"/></figure>
+</div2>
+<pb n="77"/>
+<div2 rend="chapter" xml:id="HurMarodörerBlevGriller">
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<head rend="chapterenumeration center">VIII.</head>
+<head rend="chaptername center">Hur Marodörer blev Griller och Griller
+<lb/>Kamraterna.</head>
+<p><hi rend="decorInit">D</hi>en Strindberg, jag minns, var en sappör, för vil&#x00AD;
+<lb/>ken ingenting var heligt. Han skulle ha skrattat
+<lb/>beskt åt den fetischdyrkan, som nu ägnas hans namn.
+<lb/>Men det skulle också ha roat honom att se den grund&#x00AD;
+<lb/>liga omvärdering av alla värden, som Strindbergs&#x00AD;
+<lb/>dyrkarna, särskilt samlarna, åstadkommit på bokbörsen,
+<lb/>där de yttersta blivit de främsta. Styvbarnen, som ingen
+<lb/>förläggare ville ta sig av, när de först bjödos ut, be&#x00AD;
+<lb/>tinga nu svindlande pris.</p>
+<p rend="indfirst">Det förnämsta villkoret för slika värdestegringar
+<lb/>tycks vara att en nödställd författare aldrig får del av
+<lb/>dem!</p>
+<p rend="indfirst">Tidningarna berättade nyss, att bokförläggare K. O.
+<lb/>Bonnier inköpt ett sällsynt exemplar av Giftas, andra
+<lb/>delen, med oavkortat förord. Priset nämndes också.
+<pb n="78"/>
+<lb/>För den summan kunde han på sin tid ha fått hela upp&#x00AD;
+<lb/>lagan och handskriften på köpet.</p>
+<p rend="indfirst">En annan dyrgrip är »Marodörer, komedi i fem
+<lb/>akter af August Strindberg. Tryckt som manuskript.
+<lb/>Albert Bonniers boktryckeri 1886.»</p>
+<p rend="indfirst">Oavsett dess marknadsvärde är det tunna häftet
+<lb/>också en viktig urkund till belysning av Strindbergs
+<lb/>syn på kvinnofrågan. Att han var besatt av tanken
+<lb/>på förhållandet mellan könen, är nu allom veter&#x00AD;
+<lb/>ligt. Så snart han kom in på det ämnet, var det som
+<lb/>tänkte han inte längre med sin stora hjärna, utan enbart
+<lb/>med sin solfläta. Han rasade över, att kvinnorna sökte
+<lb/>tillägna sig mänskliga rättigheter. I själva verket kände
+<lb/>han avsikten som en påle i sitt kött och måste ropa
+<lb/>åt andra män att se upp med de omedvetna brotts&#x00AD;
+<lb/>lingarna, som ville förskingra det ur manlig synpunkt
+<lb/>dyrbaraste, de ägde. För övrigt kunde de också kallas
+<lb/>medvetna brottslingar, marodörer, som trängde sig fram
+<lb/>att plundra på slagfältet där männen vunnit alla segrar
+<lb/>för mänskligt framåtskridande.</p>
+<p rend="indfirst">Det var just vad han ville visa med sin femakts&#x00AD;
+<lb/>komedi. Men då varken förläggare eller teaterdirektörer
+<lb/>nappade, blev han betänksam, undersökte kroken och
+<lb/>fann, att den borde smidas om. Strax efter vårt första
+<lb/>sammanträffande bragte han saken på tal, förärade
+<pb n="79"/>
+<lb/>mig ett exemplar av Marodörer och bad mig göra för&#x00AD;
+<lb/>slag till en grundlig omarbetning.</p>
+<p rend="indfirst">Jag klottrade mitt utkast i själva den tryckta tex&#x00AD;
+<lb/>ten. Mer än 25 år senare anträffade utgivaren av Strind&#x00AD;
+<lb/>bergs samlade skrifter, d:r John Landquist, detta akt&#x00AD;
+<lb/>stycke, och han har i anmärkningarna till 23:dje ban&#x00AD;
+<lb/>det offentliggjort de slutsatser, han dragit av sina hand&#x00AD;
+<lb/>skriftsstudier. Huvudsumman är, att jag strukit hela
+<lb/>första akten av Marodörer (den var obehövlig för hand&#x00AD;
+<lb/>lingen, och genom uteslutningen vann det nya stycket
+<lb/>mer enhet i tid och rum), tilldiktat några scener, sam&#x00AD;
+<lb/>mandragit, ändrat eller nyskrivit många repliker och
+<lb/>velat förse det gamla stycket med ett slut, som också
+<lb/>anföres i svensk översättning efter min artikel i danska
+<lb/>Politiken. Med undantag av denna slutscen har
+<lb/>Strindberg hållit sig till mitt utkast då han våren
+<lb/>1888 sände den slutgiltiga texten av Kamraterna till
+<lb/>tryckning.</p>
+<p rend="indfirst">Vid den tiden var det slut på förtroligheten oss
+<lb/>emellan, och jag hade glömt att återkräva mitt utkast,
+<lb/>som Strindberg lånat och avskrivit. Därunder tycks
+<lb/>han ha upptäckt, att den egentlige låntagaren var jag.
+<lb/>Det framgår av en anteckning, varmed den nuvarande
+<lb/>innehavaren försett mitt manuskript.</p>
+<p rend="indfirst">»Gåva av författaren till undertecknad å Värmdön
+<lb/>1892, varvid förf. trodde sig veta att detta ex. vore
+<pb n="80"/>
+<lb/>unikt. Ändringarne med violett bläck äro av Axel
+<lb/>Lundegård, som haft boken av Strindberg i lån.</p>
+<p rend="ind8"><hi rend="spaced">Birger Mörner</hi>.»</p>
+<lb/>
+<p rend="indfirst">Gamle Strix, du såg då allt från din egen synpunkt!</p>
+<p rend="indfirst">Med ledning av mitt minne, Strindbergs brev och
+<lb/>d:r Landquists handskriftsstudier tror jag mig kunna
+<lb/>ge en tillförlitlig framställning av hur Kamraterna
+<lb/>blev till.</p>
+<p rend="indfirst">Min artikel i Politiken, däri det nya slutet på den
+<lb/>ännu namnlösa omarbetningen av Marodörer offent&#x00AD;
+<lb/>liggöres, trycktes den 14 nov., alltså måste hela ut&#x00AD;
+<lb/>kastet ha gjorts under den närmast föregående veckan.
+<lb/>Att offentliggörandet skett utan Strindbergs gillande,
+<lb/>är otänkbart. Han har säkert också själv lagt hand vid
+<lb/>utformningen av denna slutscen. Tankegången är eljes
+<lb/>överensstämmande med den jag senare gav uttryck åt i
+<lb/>Röde prinsen. Men det Strindbergska tonfallet är
+<lb/>omisskännligt i vissa kraftord, som t. ex. dricka eld i
+<lb/>håret!</p>
+<p rend="indfirst">Direktör Hunderup hade strax visat sig hågad att
+<lb/>uppföra också Fadrens fortsättning och givit mig i
+<lb/>uppdrag att översätta stycket. Under arbetet därmed
+<lb/>skulle jag göra nya ändringsförslag. Strindberg be&#x00AD;
+<lb/>hövde pengar och var därför hågad för eftergifter.
+<lb/>Han lät sedan intala sig, att omarbetningen enbart var
+<pb n="81"/>
+<lb/>en åtgärd, som skulle göra stycket njutbart för den
+<lb/>köpenhamnska teaterpubliken. Men han visste mycket
+<lb/>väl vad den framför allt avsåg, nämligen att utrota
+<lb/>något av det ogräs, som hans enbart hankönsliga syn
+<lb/>på kvinnan avsatt i Marodörer. Naturligtvis måste detta
+<lb/>ske med Strindbergs goda minne. Jag underställde ho&#x00AD;
+<lb/>nom alla förslag till strykning och förändring. På
+<lb/>så vis blev det ett verkligt samarbete.</p>
+<p rend="indfirst">Jag föreslog bl. a. att det nya stycket skulle kallas
+<lb/>Aprilväder. Men Strindberg döpte det till Griller. I
+<lb/>själva titeln ligger det nya idéinnehållet. Oväders&#x00AD;
+<lb/>molnen i äktenskapet skingras sedan de visat sig vara
+<lb/>foster av ömsesidiga inbillningar.</p>
+<p rend="indfirst">Av nedanstående brev att döma anser Strindberg
+<lb/>den nya pjäsen färdig den 6 dec. Att han var för tidigt
+<lb/>ute med sitt yrkande framgår av nästföljande brev:</p>
+<p rend="ind2">Axel Lundegård.</p>
+<p rend="indfirst">Jag skrifver och skrifver på mitt Oeuvre, skrifver
+<lb/>fint och godt; rullar ihop min själ som ett murmeldjur
+<lb/>om vintern, hvarken hör eller ser; men väckes plöts&#x00AD;
+<lb/>ligen af direktör Hohlenberg som kräfver hyran; spisen
+<lb/>som röker och maten som ej kan kokas; känner i
+<lb/>sömnen, att månaden rullar ut och räkningarne nalkas!</p>
+<p rend="indfirst">Enfin! Kan jag få sända Griller och få 200 kronor;
+<lb/>Fadren (strykningsexemplaret) till Heiberg och få 300!
+<lb/>Cristi! Låt mig det!</p>
+<pb n="82"/>
+<p rend="indfirst">Tala om något elakt som kan ge mig skadeglädje!
+<lb/>T. ex. gick det illa för Drachmann? Är pjäsen död?
+<lb/>Hvad sa högern?</p>
+<p rend="indfirst">Var det en ny upplaga af Hjalmar Ekdahl (alias
+<lb/>Zolas Renée)? Collaborerad af fru — —?</p>
+<p rend="indfirst">Gud (?) hvad jag tvålar till henne nu!</p>
+<p rend="indfirst">Äger du Syndafallet eller är den ej tryckt? Skulle
+<lb/>behöfva läsa den!</p>
+<p rend="indfirst">Julen nalkas, denna högtid etc. och Barnens Para&#x00AD;
+<lb/>dis skall öppnas. Men ohne Geld kein Paradies! Alltså
+<lb/>hjelp! hjelp! hjelp!</p>
+<p rend="ind8"><hi rend="spaced">August Strindberg</hi>.</p>
+<p rend="ind dateline">Klampenborg, 6 dec. 1887.</p>
+<lb/>
+<p rend="indfirst">Strindberg hoppades få Fadren upp på Bergens
+<lb/>teater, vars ledare då var Gunnar Heiberg, och har
+<lb/>tydligen gjort några uteslutningar i den danska texten.
+<lb/>Därom minns jag nu ingenting. Den. Drachmannspjäs
+<lb/>han syftar på, hade uppförts på. Det Kongelige Theater.
+<lb/>Strindberg, som ännu inga tidningar läst, fantiserar i
+<lb/>blindo om dess innehåll. Med Syndafallet menar han
+<lb/>ett annat teaterstycke, »Efter Syndefaldet», som också
+<lb/>i dagarna kommit till uppförande.</p>
+<p rend="indfirst">Jag arbetade ivrigt på översättningen av Griller,
+<lb/>och alla ändringsförslag avhandlades antingen ute hos
+<lb/>Strindberg eller hos mig vid hans besök i staden. Nö&#x00AD;
+<pb n="83"/>
+<lb/>den ansatte honom, och jag måste ständigt företräda
+<lb/>hans penningkrav både hos Casinodirektören och hos
+<lb/>andra teaterdirektörer och förläggare. Men tålamod
+<lb/>var aldrig Strindbergs starka sida. Därom vittnar också
+<lb/>nedanstående brev:</p>
+<p rend="indfirst">På Strindbergs anmodan har jag tydligen lämnat
+<lb/>August Lindberg mitt utkast till omarbetning av Maro&#x00AD;
+<lb/>dörer, vilket Lindberg låtit gå vidare till direktören för
+<lb/>Dagmartheatret, Cetti. Lindeman var Casinoteaterns
+<lb/>kassör. Direktör Hunderup hade hemställt om rätt
+<lb/>att spela Fadren i Malmö.</p>
+<lb/>
+<p rend="ind2">Axel Lundegård,</p>
+<p rend="indfirst">August Lindberg skrifver i dag, att han soumet&#x00AD;
+<lb/>terat Griller Cetti mundtligen. »Men den måste behand&#x00AD;
+<lb/>las innan dess ... af din egen hand.»</p>
+<p rend="indfirst">Jag tror tvärtom att den måste behandlas af någon
+<lb/>annan, ty jag är blind för »publikens fordringar» här.
+<lb/>Dock ville jag sjelf lägga ut sista grossess-kärleks-
+<lb/>erwachen-scenen, som måste vara brio.</p>
+<p rend="indfirst">Hur fan ska vi kunna förena detta med Looström&#x00AD;
+<lb/>brådskan för Hohlenbergspengarne?</p>
+<p rend="indfirst">Hunderup sviker vi naturligtvis, <hi rend="spaced">såvida</hi> ej Linde&#x00AD;
+<lb/>man 1:o gör opp det gamla på Fadren, 2:o betalar
+<lb/>contantibus 300 antagning på Griller »i förskott» och
+<pb n="84"/>
+<lb/>Malmöresan betäckes i förväg! Andelar kommer jag
+<lb/>aldrig ta mer.</p>
+<p rend="indfirst">Rosmersholm gick väl sålunda åt helvetet!</p>
+<p rend="indfirst">Sanningen att säga ville jag helst fortsätta på Ca&#x00AD;
+<lb/>sino, der jag känner krafterna; och dit jag vant publiken.</p>
+<p rend="indfirst">Gycklare:</p>
+<p rend="indfirst">Axel: Pio?</p>
+<p rend="indfirst">Bertha: Olga Meyer.</p>
+<p rend="indfirst">Abel:?</p>
+<p rend="indfirst">Doktorn: Neuman (Hunderup).</p>
+<p rend="indfirst">Gaga:?</p>
+<p rend="indfirst">Det tycks bli vackert väder! Kom ut och prata
+<lb/>om stycket. Blir det en succès till, så darrar väl gamla
+<lb/>svenska Brackan!</p>
+<p rend="indfirst">Välkommen!</p>
+<p rend="ind7"><hi rend="spaced">August Strindberg</hi>.</p>
+<p rend="ind dateline">Klbg 7 dec. 1887.</p>
+<lb/>
+<p rend="indfirst">Jag har intet minne av, om Strindberg skrev den
+<lb/>scen, han här förbehåller sig att själv få lägga ut. I
+<lb/>så fall har den gått förlorad med manuskriptet till min
+<lb/>danska översättning. Tydligt är dock, att en liknande
+<lb/>scen måste ha funnits i manuskriptet till Griller. Själva
+<lb/>den avgörande punkten i det nya stycket var att kär&#x00AD;
+<lb/>leken åter vaknar inför medvetandet om Berthas väl&#x00AD;
+<pb n="85"/>
+<lb/>signade tillstånd. Därpå följer det lyckliga slutet med
+<lb/>logisk nödvändighet.</p>
+<p rend="indfirst">Redan under utarbetandet av Fadren fick Strind&#x00AD;
+<lb/>berg för sig, att sorgespelet kunde bli första delen av
+<lb/>en trilogi. Som dess andra del tänkte han sig den om&#x00AD;
+<lb/>arbetade Marodörer. Tredje delens innehåll antydes
+<lb/>i följande brevlapp:</p>
+<p rend="ind2">Lundegård,</p>
+<p rend="indfirst">Om strykningarne gå så vidt, att det ej återstår
+<lb/>helspektakel så kunde jag under inflytande af existens-
+<lb/>och julmedel möjligen skrifva Del 3. Idyll, färdig 1
+<lb/>akt vers, som efterpjes.</p>
+<p rend="ind8"><hi rend="spaced">Aug</hi>. <hi rend="spaced">Sg</hi>.</p>
+<p rend="ind dateline">Klb. 7/XII 87.</p>
+<p rend="indfirst">Muntligen brukade han många fagra ord om denna
+<lb/>tredje del. Den skulle bli en apoteos på vers med
+<lb/>midsommarnattsstämning över föreningen mellan man
+<lb/>och kvinna.</p>
+<p rend="indfirst">Orsaken till hans lyriska stämning och förhopp&#x00AD;
+<lb/>ningsfulla syn på förhållandet mellan man och kvinna
+<lb/>var, att molnen för ögonblicket skingrats i hans eget
+<lb/>äktenskap. Ansatt av björnar och med kniven för
+<lb/>strupen upplevde han därute i villan på Klampenborg
+<lb/>sin 99:de äktenskapliga idyll. För att finna uttryck
+<lb/>för den lyckokänsla, som sprängde honom i bröstet,
+<pb n="86"/>
+<lb/>hade han t. o. m. gjort ett återfall i versen. Troligen
+<lb/>förstörde han senare denna 1:sta akt i raseri över
+<lb/>att idyllen tagit slut, och jag misstänker att midsom&#x00AD;
+<lb/>niarnattsstämningen blev till bakgrund åt Fröken Julie.</p>
+<p rend="indfirst">Nedanstående brevlappar vittna ännu om något
+<lb/>så när ostört sinneslugn; ehuru den sista påminnelsen
+<lb/>är avsänd innan jag ens hunnit svara på den första:</p>
+<p rend="ind2">K. L.</p>
+<p rend="indfirst">Du har ett exemplar af Fadren; Jag har intet.
+<lb/>Sänd mig ditt, ty det fins inte mer i boklådan att jag&#x00AD;
+<lb/>må stryka åt Heiberg, och (de senaste tre orden över&#x00AD;
+<lb/>strukna) åt Nya Teatern, Sthlm; som reflektera starkt
+<lb/>med Ranft och Gurli Åberg.</p>
+<p rend="indfirst">Kan du vigga ett exemplar af Svenska till, så gör,
+<lb/>ty därpå hänger ju stora penningsummor.</p>
+<p rend="indfirst">Hur går med Griller? Du har ju alla mina kort
+<lb/>i dina händer, och jag går bet. Loost. sviker sannolikt,
+<lb/>som vanligt och då ...</p>
+<p rend="ind13"><hi rend="spaced">Aug</hi>. <hi rend="spaced">Sg</hi>.</p>
+<p rend="ind dateline">Klmbg 14 dec. 87.</p>
+<lb/>
+<p rend="indfirst">Med Svenska menas Svenska öden och äventyr.
+<lb/>Strindberg umgås alltjämt med planen att uppträda som
+<lb/>uppläsare på Casino. Loost. betyder bokförläggare
+<lb/>Looström och sviker betyder att han avböjer erbjudan&#x00AD;
+<lb/>det av Griller. Underhandlingarna med Nya teatern i
+<pb n="87"/>
+<lb/>Stockholm ledde till Fadrens uppförande där några
+<lb/>veckor senare.</p>
+<p rend="ind2">K. Br.</p>
+<p rend="indfirst">Dina dröjsmål göra mig mera afbräck än du tror.</p>
+<p rend="indfirst">1:o Fadrens exemplar till Nya Teatern, Sthlm,
+<lb/>alltså.</p>
+<p rend="indfirst">2:o Sista akten Griller för påläggning.</p>
+<p rend="indfirst">3:o Heiberg, strykningsexemplaret.</p>
+<p rend="ind10">Hastel. Vänl.</p>
+<p rend="ind9"><hi rend="spaced">Aug</hi>. <hi rend="spaced">Sg</hi>.</p>
+<p rend="indfirst">Klmbg 15/XII 87.</p>
+<lb/>
+<p rend="indfirst">Någon av de närmaste dagarna måtte det ha varit
+<lb/>som jag for ut till Klampenborg för att glädja Strind&#x00AD;
+<lb/>berg med sista akten av Griller, som äntligen blivit
+<lb/>färdig. Vid mina närmast föregående besök hade jag
+<lb/>funnit honom glad som en spelman. Nu satt han mörk
+<lb/>som ett åskmoln vid sitt skrivbord. Den äktenskapliga
+<lb/>idyllen hade, som vanligt, tagit en ända med förskräck&#x00AD;
+<lb/>else. Hans säng var åter inflyttad i arbetsrummet.</p>
+<p rend="indfirst">Det var lätt att se vad som hänt. Men jag
+<lb/>ville ogärna bli inblandad i sorgespelet och höll mig till
+<lb/>mitt ärende. Trodde kanske, det skulle muntra honom,
+<lb/>att Casinodirektören ville börja instuderingen snarast
+<lb/>möjligt och kanske kunde förmås till ytterligare ut&#x00AD;
+<lb/>betalning av förskott, nu då manuskriptet var färdigt —</p>
+<pb n="88"/>
+<p rend="indfirst">Jag minns inte allt, vad jag sade. Men jag minns
+<lb/>att Strindberg satt och såg ut som en obeveklig häm&#x00AD;
+<lb/>nare av alla oförrätter, begångna mot hans kön. Och
+<lb/>plötsligt bröt ovädret löst:</p>
+<p rend="indfirst">— Det blir ingenting av med uppförandet!</p>
+<p rend="indfirst">Jag invände stillsamt, att han redan fått 300 kr. i
+<lb/>handpengar, men det gjorde intet intryck. Han fortfor:</p>
+<p rend="indfirst">— Slutet är falskt! Påklistrat! Försoning är
+<lb/>omöjlig.</p>
+<p rend="indfirst">Därvid blev det. Griller kom aldrig upp på Ca&#x00AD;
+<lb/>sino. Pjäsen har aldrig funnits till annat än i min
+<lb/>danska omarbetning, och manuskriptet, som jag läm&#x00AD;
+<lb/>nade direktör Hunderup, är förlorat. Men Strindberg
+<lb/>hade utkastet kvar. Och några veckor senare svanshögg
+<lb/>han det på egen hand. I Marodörer hade han låtit Axel
+<lb/>lämna Bertha i okvald besittning av hemmet. Pjäsen
+<lb/>var tänkt som ett motstycke till Ibsens Dockhem, där
+<lb/>Nora går. I Marodörer gick mannen. Men i Kam&#x00AD;
+<lb/>raterna kastar han sin hustru på porten. Och pjäsen
+<lb/>slutar med att »Pigan» kommer in och anmäler: »Mam&#x00AD;
+<lb/>sell väntar herrn!» Vartill Axel i sin hustrus närvaro
+<lb/>svarar: »Jaså! Jag är strax ledig». Denna mamsell
+<lb/>faller in i slutscenen rakt från skyn, som det himmelska
+<lb/>sändebud hon skall föreställa. Ingen har tidigare hört
+<lb/>talas om henne, och inte ens Axel själv vet, varifrån hon
+<lb/>kommer.</p>
+</div2>
+<pb n="89"/>
+<div2 rend="chapter" xml:id="PenningnödOchUteliv">
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<head rend="chapterenumeration center">IX.</head>
+<head rend="chaptername center">Penningnöd och uteliv.</head>
+<p><hi rend="decorInit">E</hi>n dag då jag kom in till Strindberg, som var i
+<lb/>staden och bodde på Leopolds hotell, fann jag
+<lb/>honom grubblande över en sifferpelare. Han höll på att
+<lb/>räkna sina tillgångar, som han uttryckte sig. Det be&#x00AD;
+<lb/>tydde, att den store diktaren för ett ögonblick skakat av
+<lb/>sig all tanke på nöden, som klämde honom för strupen,
+<lb/>och var mitt i en utflykt till de obegränsade möjlig&#x00AD;
+<lb/>heternas, inbillningens land.</p>
+<p rend="indfirst">Han bjöd mig strax att göra sällskap. En dansk
+<lb/>författarinna höll på att översätta Herr Bengts hustru
+<lb/>och tänkte inlämna stycket, som hon kallade Margit,
+<lb/>till Det Kongelige Theater. Direktör Hunderup var
+<lb/>alltfort intresserad av Gillets hemlighet. För Fadren
+<lb/>hägrade möjligheter i Bergen, Stockholm och Helsing&#x00AD;
+<lb/>fors. Griller var antagen till spelning på Casino, (hur
+<lb/>Strindberg själv några dagar senare bröt avtalet är re&#x00AD;
+<lb/>dan berättat). Edvard Brandes var en god vän, och
+<pb n="90"/>
+<lb/>med Otto Benzon hade Strindberg nyligen gjort bekant&#x00AD;
+<lb/>skap. Allt detta tog han med vid beräkningen av sina
+<lb/>tillgångar.</p>
+<p rend="indfirst">I sifferraden fann jag följande småsummor: Griller
+<lb/>Casino 1,000 kr. Dansk landsort 500 kr. Norge 500 kr.
+<lb/>Finland 500 kr. — Fadren: Bergen 300, Stockholm
+<lb/>1,000 kr., Finland 300. Summa 4,100 kr.</p>
+<p rend="indfirst">Men det var för litet. Han måste ha mer: — Hur
+<lb/>mycket är det Drachmann har schavat på Det var en
+<lb/>Gang —? frågade han. Och jag sade vad ryktet visste
+<lb/>berätta — 10,000 kr. — Gott! Då är det inte för
+<lb/>mycket, att sätta min inkomst av Margit till 10,000? —
+<lb/>Översättningen lär inte ens vara färdig än! invände
+<lb/>jag. Men Strindberg skrev: Margit. Det Kongelige
+<lb/>10,000 kr. Sedan såg han upp: — Och Gillets hemlig&#x00AD;
+<lb/>het? — Översättningen är inte ens påbörjad! — Du
+<lb/>tycker kanske, jag borde ha mindre för den än 2,000
+<lb/>kr. — Nej, men — — Strindberg skrev: Gillets hem&#x00AD;
+<lb/>lighet, Casino 2,000 kr.</p>
+<p rend="indfirst">Sedan räknade han. Men ännu var han inte nöjd:</p>
+<p rend="indfirst">— Edvard Brandes är ju tät? frågade han med en
+<lb/>olycksbådande glimt i ögonen. — Ja, men — — Tror
+<lb/>du inte, jag kan riva honom på en tusenlapp? — Jag
+<lb/>tror, det vore bättre om du lät bli! — Och Otto Ben&#x00AD;
+<lb/>zon! Han lär ha ett stort apotek? Inte kan han neka
+<lb/>att låna mig en tusenlapp?</p>
+<pb n="91"/>
+<p rend="indfirst">— Vänta litet! föreslog jag och räknade i hast
+<lb/>samman allt, vad han redan skrivit ... Du behöver väl
+<lb/>inte låna pengar, när du har över 16,000 kr.? Men
+<lb/>han hörde inte på det örat utan slutade listan på sina
+<lb/>tillgångar med: Edv. Brandes 1,000 kr., Otto Benzon
+<lb/>1,000 kr. Sedan slog han ett streck under sifferpelaren
+<lb/>och räknade. Såg upp och sade: — Är det inte för&#x00AD;
+<lb/>bannat? Jag har 18,100 kr. i tillgångar. Men jag
+<lb/>har inte råd att äta middag. Och björnarna börja bli
+<lb/>närgångna!</p>
+<p rend="indfirst">Det var sant. För ögonblicket var han nödställd
+<lb/>och husvill, hade rest in för att skaffa pengar och ny&#x00AD;
+<lb/>ligen från sin hustru fått nedanstående, allt annat än
+<lb/>muntrande rapport.</p>
+<lb/>
+<p rend="ind10 dateline">Den 17 Dec. 1887.</p>
+<p rend="ind2">Kära August!</p>
+<p rend="indfirst">Det har varit en svår dag här. —</p>
+<p rend="indfirst">Slagtarn har kräft sina 17 kronor på ett temligen
+<lb/>oförskämdt vis. Tvätterskan har kräft — och restaura&#x00AD;
+<lb/>tionen för sina 3 sista middagar — de hade sagt åt
+<lb/>Eva att de blott vilja lemna ut mat mot kontant betal&#x00AD;
+<lb/>ning för gången — och de känna ej herrskapet. Detta
+<lb/>har troligen Holenberg ställt till! — För sådant har
+<lb/>aldrig händt oss förr fast vi haft så lång kredit på sina
+<lb/>ställen.</p>
+<pb n="92"/>
+<p rend="indfirst">Holenberg var här i dag på förmiddagen och ville
+<lb/>focka af oss. Hade den där oldmoran med sig som
+<lb/>ville att vi skulle leverera ut linne, porslin etc. Det
+<lb/>kunde jag naturligtvis icke. Sade att Du var i staden,
+<lb/>att Du sagt mig vi skulle bo qvar ännu en tid.—</p>
+<p rend="indfirst">Holenberg kommer tillbaks för att tala med Dig
+<lb/>i morgon förmiddag — tycktes vara rasande för att Du
+<lb/>ej underrättat honom om att vi ej flyttade i dag.</p>
+<p rend="indfirst">Björnarne lugnade jag med att du var i staden för
+<lb/>att ta ut pengar.</p>
+<p rend="indfirst">Nu ha de 200 kronorna kommit. Du säger jag skall
+<lb/>betala ut kryddboden. — Det räcker ju ej eftersom
+<lb/>boken är 220 kr.</p>
+<p rend="indfirst">Derför tänker jag nu gå ner och säga dem att
+<lb/>du rest till staden för att ta ut pengar och ej kommer
+<lb/>hem förr än i morgon, men om de vilja ta ett acconto
+<lb/>af de pengar jag har hemma i qväll kunna de få.</p>
+<p rend="indfirst">Jag måste betala restaurationens 9 kronor i qväll
+<lb/>annars få vi väl ej middag i morgon.</p>
+<p rend="indfirst">Slagtarn skulle också komma igen i qväll.</p>
+<p rend="indfirst">Bagarn har jag ännu ej hört af men han kommer
+<lb/>väl i morgon bittida. Derför kan jag ej ge krydd&#x00AD;
+<lb/>boden mer än en 100 à 125 kronor i afräkning.</p>
+<p rend="indfirst">Du må väl vara hemma i morgon när Holenberg
+<lb/>kommer.</p>
+<pb n="93"/>
+<p rend="indfirst">Tala med Leopold och sök få ned priset — här blir
+<lb/>troligen ej möjligt att stanna.</p>
+<p rend="indfirst">Fy katten ett sådant pack! Då äro de »snåla»
+<lb/>tyskarne tusen gånger bättre.</p>
+<p rend="indfirst">I största hast</p>
+<p rend="ind8">Din vän <hi rend="spaced">Siri</hi>.</p>
+<lb/>
+<p rend="indfirst">Polisbetjenten var här på förmiddagen och er&#x00AD;
+<lb/>bjöd sin våning — han påstod sig kunna sätta in 2
+<lb/>kakelugnar till 80 kronor i månaden. — Våningen är
+<lb/>bra! — men kunna vi få kredit här? Våningen kan
+<lb/>fås snart — och på månad.</p>
+<lb/>
+<lb/>
+<p rend="indfirst">Dagen efter var Strindberg själv ute på valplatsen
+<lb/>och sände mig därifrån följande brev, som vittnar om att
+<lb/>de nedbrytande makter, med vilka han ständigt brotta&#x00AD;
+<lb/>des, höllo på att överväldiga honom. I det ljuset
+<lb/>måste hans uttalanden ses. August Lindberg har tyd&#x00AD;
+<lb/>ligen stått honom till tjänst med ett lån, och Strindberg
+<lb/>har förelagt honom den ovan nämnda uppgiften på
+<lb/>sina tillgångar.</p>
+<pb n="94"/>
+<figure><graphic url="/txt/lb27489/lund01_nagras01_009.jpeg"/></figure>
+<!-- ornament här -->
+<pb n="95"/>
+<figure><graphic url="/txt/lb27489/lund01_nagras01_010.jpeg"/></figure>
+<!-- ornament här -->
+<pb n="96"/>
+<figure><graphic url="/txt/lb27489/lund01_nagras01_011.jpeg"/></figure>
+<!-- ornament här -->
+<pb n="97"/>
+<figure><graphic url="/txt/lb27489/lund01_nagras01_012.jpeg"/></figure>
+<!-- ornament här -->
+<pb n="98"/>
+<p rend="indfirst">Rapport:</p>
+<p rend="indfirst">Söndag qväll, 18 Dec. 1887.</p>
+<p rend="indfirst">Hohlenberg skickar fortfarande dräng och kräfver
+<lb/>120 kronor för en månad.</p>
+<p rend="indfirst">Looström returnerar Griller utan pengar; men löm&#x00AD;
+<lb/>ska kombinationer.</p>
+<p rend="indfirst">Den hygglige Leopold åtar sig min fordran och
+<lb/>kräfver Hunderup per anvisning på Cassa.</p>
+<p rend="indfirst">Looström skrifver att Nya Teatern, Sthlm, fort&#x00AD;
+<lb/>farande reflekterar och korresponderar med Lindberg.
+<lb/>Hvad vill det säga? Lindberg sa intet åt mig och Du
+<lb/>antydde att Nya Teatern ej vill spela Fadren ej betala.</p>
+<p rend="indfirst">Med reduktion af min <hi rend="spaced">sjukliga</hi> misstänksam&#x00AD;
+<lb/>het<ptr target="#n2" n="*"/> och hustru Lindbergs antipati synes mig L. ej
+<lb/>vara min vän — »fornærmed» för att jag ej är död —
+<lb/>och ＋ Looströms svekfulla uppträdande i Köpenhamn,
+<lb/>synes mig reaktions- och sedlighets-ligan ha verkat
+<lb/>terreur och ringsystem. Looström skrifver scheiss om
+<lb/>att han vill bli min förläggare om jag modererar mina
+<lb/>åsigter (han är protektionist, frimurare, »gendre» etc.)
+<lb/>lägger bort »qvinnoursinne» och ej skaffar honom åtal.</p>
+<p rend="indfirst">Söker Lindberg hindra Fadren i Stockholm? Hvar&#x00AD;
+<lb/>för talar han inte om för mig hvad Nya Teatern skrifver?</p>
+<p rend="indfirst">Scen: Dagmarteaterns Café.</p>
+<p rend="indfirst"><hi rend="spaced">Välgöraren</hi> in.</p>
+<note xml:id="n2" n="*" place="foot" rend="small">Ej den sunda som är skarpsinne!</note>
+<pb n="99"/>
+<p rend="indfirst"><hi rend="spaced">Offret</hi> (äter kalops).</p>
+<p rend="indfirst"><hi rend="spaced">Välgöraren</hi>:</p>
+<p rend="indfirst">Hvad gör du för slag?</p>
+<p rend="indfirst"><hi rend="spaced">Offret</hi>:</p>
+<p rend="indfirst">Äter middag.</p>
+<p rend="indfirst"><hi rend="spaced">Välgöraren</hi>:</p>
+<p rend="indfirst">Har du råd med det du?</p>
+<p rend="indfirst">Anmärkning: När Stuxberg kom hem med Vega
+<lb/>fick han af staten nationalbelöning 4,000 (?) kronor.
+<lb/>En välgörenhetskomité anordnades för att betala hans
+<lb/>skulder. Resultatet: Nordenskiöld (Dickson, Oscar II
+<lb/>etc.) togo hans nationalbelöning och lade till litet samt
+<lb/>läto honom betala sina skulder <hi rend="spaced">underförmyndare</hi>!
+<lb/>Medan han fick gå och vigga nytt till middag.</p>
+<p rend="indfirst">Jag känner att jag nalkas Sverige! Det måtte vara
+<lb/>öfver all beskrifning djefligt.</p>
+<p rend="indfirst">Helsa Lindberg att bland tillgångarne glömdes:
+<lb/>Hunderup Gillets Hemlighet = 500 kronor kontant!</p>
+<p rend="indfirst">Fy fan!</p>
+<p rend="ind8"><hi rend="spaced">August Strindberg</hi>.</p>
+<lb/>
+<p rend="indfirst">Det som hjälpte honom över denna och tusen
+<lb/>liknande kriser var den självkänsla, han i alla livets
+<lb/>skiften behöll. Innerst tvivlade tvivlaren aldrig på,
+<lb/>att han själv var en avsevärd andlig tillgång för mänsk&#x00AD;
+<lb/>ligheten. Därför hade han rätt att leva. Eftersom
+<pb n="100"/>
+<lb/>människorna ständigt slogo dövörat till för hans krav,
+<lb/>nödgades han själv ta i med hårdhandskarna. Re&#x00AD;
+<lb/>sultatet blev än si, än så, mest si. Han fick göra sig
+<lb/>tjockhudad, slita spö för sitt bröd och dansa för sina
+<lb/>björnar. Men det rubbade aldrig hans uppfattning.
+<lb/>Undanhölls honom brödet, tog han det på vad sätt han
+<lb/>kunde i enlighet med sin högre rätt. Han kallade det
+<lb/>att riva (låna). Men när han en gång fick pengar, be&#x00AD;
+<lb/>talte han alla sina skulder.</p>
+<p rend="indfirst">Nu stod julen för dörren, men till den för livet
+<lb/>kämpande store diktaren kom intet glädjens budskap
+<lb/>från skyn, endast ett meddelande från värden, som
+<lb/>ålade Strindberg att ha flyttat »före onsdag middag
+<lb/>kl. 12».</p>
+<p rend="indfirst">Därom skrev han följande:</p>
+<lb/>
+<p rend="indfirst">Rapport: 19 Dec. kl. 4 eft. m. 1887.</p>
+<p rend="indfirst">Alltså utkörd Onsdag middag kl. 12!</p>
+<p rend="indfirst">Och om lördag är det julafton.</p>
+<p rend="indfirst">Det värsta är att bodskulderna ännu gå till 150
+<lb/>kronor.</p>
+<p rend="indfirst">Detta är den fulla rama verkligheten.</p>
+<p rend="indfirst">Men värst är, att Leopolds Hotel, som varit min
+<lb/>sista resurs, är förstörd af Lindbergs dumhet — hans
+<lb/>välvilja vågar jag inte betvivla.</p>
+<p rend="ind12"><hi rend="spaced">Aug</hi>. <hi rend="spaced">Sg</hi>.</p>
+<pb n="101"/>
+<p rend="indfirst">Senare samma dag skrev han på en lång pappers&#x00AD;
+<lb/>remsa, varigenom brevet också i yttre måtto kom att
+<lb/>likna en lyrisk litania:</p>
+<lb/>
+<p rend="indfirst">Rapport: Måndag 19 Dec. 1887.<ptr target="#n3" n="*"/></p>
+<p rend="indfirst">Postpapperet slut. Veden slut; nu blir att elda med
+<lb/>boklårarne. Hohlenberg dock calmerad genom vänligt
+<lb/>bref fran Watt och Kiældskov; hvarför tacksamhetsbref
+<lb/>afgått från mig till Watt. Ingenting fran Leopold. Alltså
+<lb/>misslyckades i luckan i går afton. Leopold erhöll tele&#x00AD;
+<lb/>gram i dag. Leopold — kostligt nog! — antydde i
+<lb/>går om att han var förvånad (litet bara) att Lindberg ej
+<lb/>betalat honom de 10 kronor han viggade (åt mig för
+<lb/>åtta dar sen). Hvarpå jag talade om Lg:s 100,000 kr.,
+<lb/>goda ekonomi o. s. v. Men L—g hade talat om för
+<lb/>L—d att jag ej hade Alb. Bonnier mer till förläggare.
+<lb/>D. v. s. L—g förstörde min kredit hos L—d och jag
+<lb/>räddade hans! Det är som Hillberg hvilken i ren väl&#x00AD;
+<lb/>mening genom sitt upprop gjorde det omöjligt för mig
+<lb/>att låna 10 kronor i Stockholm och ändå bara skaffade
+<lb/>mig ovett. Griller återkommit i dag! Omarbetas nu
+<lb/>till dram. Flickorna bli Doktorns döttrar! Stor scen.
+<lb/>Axel går och kommer ej igen! Man ska gå — om
+<lb/>man kan. Fattad af lifliga sympatier för Sokrates,
+<lb/>drömmer jag i dag att göra pjes af honom i modern</p>
+<note xml:id="n3" n="*" place="foot" rend="small">Facsimilen återfinnes sid. 104.</note>
+<pb n="102"/>
+<p>öfversättning. Heiberg väntar på strykningsexemplaret
+<lb/>(<hi rend="spaced">din</hi> öfversättning) och jag väntar på hans 300 kronor!
+<lb/>Hvarför sänder du ej för <hi rend="spaced">din</hi> skull? D:o Nya teatern.
+<lb/>Kan inte Hunderup tas med »kärleksmetoden»? Farväl!
+<lb/>Om du gifter dig föd bara <hi rend="spaced">ett</hi> barn åt din fru. Helsa
+<lb/>Lindberg och bed honom be dig inte bli arg på din vän</p>
+<p rend="ind12"><hi rend="spaced">Aug</hi>. <hi rend="spaced">Sg</hi>.</p>
+<p rend="indfirst">Klmpbg 19 Dec. 87.</p>
+<p rend="indfirst">Nu gick dörren i baklås så att jag ej kan gå på
+<lb/>huse förrän smeden kommer. Smeden efterskickad!</p>
+<p rend="indfirst">(Robert Watt var då direktör för Tivoli. Han och
+<lb/>direktör Kiældskov hörde till Strindbergs umgänges&#x00AD;
+<lb/>vänner. »Griller återkommit» betyder att August Lind&#x00AD;
+<lb/>berg, okunnig om Strindbergs förändrade sinnesstäm&#x00AD;
+<lb/>ning, sänt honom mitt utkast med en påstötning om
+<lb/>den scen, han ville, att Strindberg själv skulle skriva.)</p>
+<p rend="indfirst">Dagen efter skrev han:</p>
+<p rend="ind2">Broder Lundegård.</p>
+<p rend="indfirst">Vill du vara snäll och sända Drachmanns pensionats
+<lb/>adress till fru Strindberg, som med piga och barn nu
+<lb/>bor på Leopolds Hotel. Qvinnor och barn fingo fritt
+<lb/>aftåg, men jag sitter blockerad för att utstå belägringens
+<lb/>»fasor».</p>
+<p rend="indfirst">O Solon, Solon!</p>
+<p rend="ind12"><hi rend="spaced">Aug</hi>. <hi rend="spaced">Sg</hi>.</p>
+<p rend="ind dateline">Klampenborg 20 Dec. 87.</p>
+<pb n="103"/>
+<p rend="indfirst">Saken ordnades. Familjen återvände till Klampen&#x00AD;
+<lb/>borg. Men vid årsskiftet var ställningen ytterligare
+<lb/>förvärrad:</p>
+<p rend="indfirst">Stor penningenöd! 2 kronor i huset! Hjelp Jesus
+<lb/>Maria!</p>
+<p rend="indfirst">Käre Lundegård.</p>
+<p rend="indfirst">Skulle vi icke skrida till kontraktskrifning med
+<lb/>Hunderup. Men på olika papper. Ett för Köpenhamn,
+<lb/>ett för Danmarks Landsbygd, ett för Sverge o. s. v.</p>
+<p rend="indfirst">Alla andelar undanbedjas. Äldre aftal annulleras
+<lb/>helt fräckt.</p>
+<p rend="indfirst">Alltså: Sverge = 1,000 kronor Malmö inberäknadt.</p>
+<p rend="indfirst">Danskt land = 500 kronor. Norge 300. Fin&#x00AD;
+<lb/>land 300.</p>
+<p rend="indfirst">Allt kontant och i förskott.</p>
+<p rend="indfirst">Ingen landstigning i Sverge får ske förrän det
+<lb/>gamla på Casino är uppgjordt.</p>
+<p rend="indfirst">Tack för i går!</p>
+<p rend="indfirst">Härmed brochuren.</p>
+<p rend="indfirst">Hastl. Vänl.</p>
+<p rend="ind10"><hi rend="spaced">Aug</hi>. <hi rend="spaced">Sg</hi>.</p>
+<p rend="ind dateline">Klpbg 30 Dec. 87.</p>
+<p>Har Heiberg fått?
+<lb/>Låt’en låna ex. et!</p>
+<pb n="104"/>
+<p rend="indfirst">Bed Hunderup skicka mig 50 kronor i allra värsta
+<lb/>fall! Nu genast!</p>
+<lb/>
+<p rend="indfirst">Det var Kamraterna, som Strindberg ville skriva
+<lb/>kontrakt om. Men Casinodirektören vägrade.</p>
+<p rend="indfirst">Trots de ständiga slitningarna om pengar mellan
+<lb/>honom och den ständigt nödställde diktaren hörde
+<lb/>direktör Hunderup till Strindbergs närmaste umgänges&#x00AD;
+<lb/>vänner, den livvakt av glada bröder, som han helst
+<lb/>såg kring sig på småtimmarna, när, han längtade efter
+<lb/>att släppa Barrabam lös. Till dem sällade sig ofta de
+<lb/>ovan nämnda direktörerna Watt och Kiældskov jämte
+<lb/>journalisten Andreas Buntzen.</p>
+<p rend="indfirst">Direktör Hunderup blev ju aldrig ledig förr än
+<lb/>efter teaterns slut, vid midnattstid, men så mycket hetare
+<lb/>gick det sedan till under sköldarna. Strindberg visade
+<lb/>sig alltid som den gladaste bland de glada, men krävde
+<lb/>till gengäld, att kumpanerna aldrig skulle glömma vilket
+<lb/>snille de hade äran vara samman med. Han minde
+<lb/>i det fallet om Danmarks folkkäre kung Frederik VII,
+<lb/>som annars gärna tillät sina dryckesbröder vad som
+<lb/>helst, men aldrig förlät om någon brast i vördnad,
+<lb/>när majestätet behagade resa sig och glosögt lalla:
+<lb/>»Nu er Kongen hjemme!»</p>
+<p rend="indfirst">För min del har jag aldrig sett Strindberg rörd av
+<lb/>starka drycker mer än en enda gång. Men då var han
+<pb n="104a"/>
+<figure><graphic url="/txt/lb27489/lund01_nagras01_013.jpeg"/></figure>
+<!-- ornament här -->
+<pb n="104b"/>
+<figure><graphic url="/txt/lb27489/lund01_nagras01_014.jpeg"/></figure>
+<!-- ornament här -->
+<pb n="105"/>
+<lb/>grundligt överlastad, och det föll sig särskilt pinsamt
+<lb/>på grund av några sammanstötande omständigheter.</p>
+<p rend="indfirst">En av hans förläggare, Looström, var i Köpenhamn
+<lb/>på genomresa och hade bjudit Strindberg på National,
+<lb/>men det var uppgjort, att när han rest, skulle Strind&#x00AD;
+<lb/>berg äta kväll på Café Bernina med Henrik Pontoppi&#x00AD;
+<lb/>dan och mig. Vi hade alltså tagit ett bord och väntade
+<lb/>honom. Vid bordet mitt emot satt dåvarande ameri&#x00AD;
+<lb/>kanske ministern i Köpenhamn mr Anderson med sin
+<lb/>hustru och fru Gaugin, en syster till fru Edvard Bran&#x00AD;
+<lb/>des och gift med den sedan världsberömde målaren.
+<lb/>Då mr Anderson hörde, att vi väntade Strindberg, ut&#x00AD;
+<lb/>tryckte han, under livligt instämmande från damernas
+<lb/>sida, en önskan att få göra bekantskap med den store
+<lb/>svenske diktaren.</p>
+<p rend="indfirst">Den store svenske diktaren kom snubblande in
+<lb/>genom ytterdörren. Omöjligt att ta miste på, hur
+<lb/>det var fatt med honom. Henrik Pontoppidan och
+<lb/>jag skyndade honom till mötes, fingo honom mellan
+<lb/>oss och bogserade honom till soffan, där han föll
+<lb/>ihop. Han fick mat och hämtade sig litet. Allas
+<lb/>blickar sökte honom, där han satt och skildrade
+<lb/>eftermiddagens upplevelser rätt högljutt. Han be&#x00AD;
+<lb/>rättade om den epokgörande åsnan, som en gång
+<lb/>skulle göra all teaterkonst överflödig. Det var en
+<lb/>åsnehud med en levande karl i och ett mekaniskt huvud,
+<pb n="106"/>
+<lb/>som kunde röra på både ögon och öron och svans och
+<lb/>därtill göra lustiga krumsprång. Aldrig hade han haft
+<lb/>så roligt på någon teater, som åt denna långörade
+<lb/>och halvt mekaniska gycklare! Åsnan var en sinnebild
+<lb/>av den dramatiska konstens framtid — —</p>
+<p rend="indfirst">Småningom blev han lugnare, vi fingo honom över
+<lb/>till bordet mitt emot och föreställde honom för säll&#x00AD;
+<lb/>skapet. Han gjorde sitt bästa för att uppföra sig väl.
+<lb/>Men ödet ville annorlunda. Fru Gaugin hade kortklippt
+<lb/>hår. Det syntes inte när hon satt i soffan mitt emot
+<lb/>oss, men när hon vände på huvudet och räckte Strind&#x00AD;
+<lb/>berg sin hand, blev det uppenbart. Vad hjälpte det,
+<lb/>att hon log vackert mot det svenska lejonet. Strind&#x00AD;
+<lb/>berg, som väntat få göra bekantskap med en kvinna,
+<lb/>fann att han stött på själva kvinnofrågan och förlorade
+<lb/>jämvikten. Han log ett brandgult leende, som han
+<lb/>själv trodde var älskvärt. Och han försökte lägga sina
+<lb/>ord så menlöst som möjligt. Men han måste ju säga
+<lb/>sin mening, och hans mening var att en kvinna med
+<lb/>kortklippt hår omöjligt kunde göra ett tilldragande
+<lb/>intryck på en verklig man.</p>
+<p rend="indfirst">Hur orden föllo, minns jag inte. Men alltid när
+<lb/>jag senare läst Axels replik i Kamraterna (till Abel):
+<lb/>»styr inte ut er så, att man måste tänka på strafflagen,
+<lb/>när man ser er», har den ringt i mina öron som ett eko
+<lb/>av Strindbergs första ord till fru Gaugin.</p>
+<pb n="107"/>
+<p rend="indfirst">Senare följde Pontoppidan och jag Strindberg till
+<lb/>ett annat näringsställe vid Kongens Nytorv, och där
+<lb/>övertogs han av direktör Hunderup med sällskap. Min
+<lb/>framställning av vad som tilldrog sig framåt småtim&#x00AD;
+<lb/>marna, grundar sig alltså på andras utsago. Men Strind&#x00AD;
+<lb/>berg själv förnekade aldrig den hjälteroll han spelat i
+<lb/>nattens lustspel.</p>
+<p rend="indfirst">Mörkret ruvade över Kongens Nytorv. Framför
+<lb/>Det Kongelige Theater skymtades »Hästen», den kung&#x00AD;
+<lb/>liga ryttarstatyn, som vid gjutningen blev så olyckligt
+<lb/>blybemängd, att bronsen i gångarns ben inte i längden
+<lb/>motstått tyngden av den kunglige ryttarens kropp. Han
+<lb/>knäar djupare för vart år.</p>
+<p rend="indfirst">Kring järninhägnaden stod ett glatt sällskap. Vid
+<lb/>Östergades mynning stod en poliskonstapel och en
+<lb/>annan stod vid Bredgades mynning.</p>
+<p rend="indfirst">Plötsligt löser sig en skugga ur den glada gruppen,
+<lb/>hoppar över inhägnaden, kravlar sig upp på sockeln
+<lb/>och därifrån upp på den knäande hästen. Strindberg slår
+<lb/>armarna kring bröstet på den kunglige bronsgubben.</p>
+<p rend="indfirst">Poliskonstaplarna störta till. Med våldsamma ord
+<lb/>och armrörelser mana de upprorsmannen mot ordnings&#x00AD;
+<lb/>stadgan att stiga ner och följa med till polisvaktkontoret.
+<lb/>Han lyder. Poliserna fram för att lägga hand på honom.</p>
+<p rend="indfirst">Då säga kumpanerna, enstämmigt och högtidligt:</p>
+<p rend="indfirst">— Rör inte honom. Det är Strindberg, Sveriges
+<lb/>störste diktare!</p>
+<pb n="108"/>
+<p rend="indfirst">Och poliserna låta armarna falla. Strindberg med
+<lb/>sällskap avtågar.</p>
+<p rend="indfirst">Något senare sitter han, alltjämt omgiven av sina
+<lb/>trogna, i en soffa på den bekanta nattrestaurangen
+<lb/>Rydbergs källare. I fickan har han fru Hunderups lilla
+<lb/>revolver, som han avlockat henne en gång, då han
+<lb/>upptäckte att en revolver var nästan lika oklädsam
+<lb/>för en kvinna, som kortklippt hår.</p>
+<p rend="indfirst">Den revolvern var hans stolthet. Han trodde sig
+<lb/>ha ställt en del till rätta i det Hunderupska äktenskapet
+<lb/>genom att ta gadden av den lilla frun.</p>
+<p rend="indfirst">I den höga stämning, vari han nu befann sig, fick
+<lb/>han lust att triumfera. Han lyfte vapnet och sköt två
+<lb/>skott i taket.</p>
+<p rend="indfirst">Det blev en uppståndelse. Källarsalen var full av
+<lb/>gäster och kypare, som störtade fram.</p>
+<p rend="indfirst">Men kumpanerna upprepade enstämmigt och hög&#x00AD;
+<lb/>tidligt:</p>
+<p rend="indfirst">— Rör inte honom! Det är Strindberg, Sveriges
+<lb/>störste diktare!</p>
+<p rend="indfirst">Där fanns många tidningsmän bland gästerna. Inte
+<lb/>en av dem förrådde honom. Tvärtom, de telefonerade
+<lb/>för att hindra nyheten komma med i pressen, därest den
+<lb/>skulle ha hittat dit på andra vägar. Inte en enda av
+<lb/>Köpenhamns många sensationslystna tidningar hade
+<lb/>dagen efter ett ord om uppträdet.</p>
+</div2>
+<pb n="109"/>
+<div2 rend="chapter" xml:id="StrindbergOchErnstAhlgren">
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<head rend="chapterenumeration center">X.</head>
+<head rend="chaptername center">Strindberg och Ernst Ahlgren.</head>
+<p>»<hi rend="decorInit">S</hi>trindberg är kommen», skrev Victoria Benedicts&#x00AD;
+<lb/>son i sin annotationsalmanacka den 7 nov. 1887.
+<lb/>Den 14 antecknade hon, att hon sett Fadren; den 22 att
+<lb/>hon skulle ha ätit middag med Strindberg och mig,
+<lb/>men fått förhinder; den 29 att jag besökt henne och
+<lb/>»talade om att Strindberg tycker bra om Fru Marianne».</p>
+<p rend="indfirst">Han hade lånat boken av mig, och den behagade
+<lb/>honom. (Han brukade gärna det talesättet.) Den unga
+<lb/>damen, som omvände sig och blev mannen underdånig,
+<lb/>väckte angenäma känslor i hans sympatiska nervsystem.
+<lb/>Det enda, som oroade honom, var tanken på, att Ernst
+<lb/>Ahlgren, som skrev så förnuftigt, var en kvinna.</p>
+<p rend="indfirst">När de träffades, var han blyg och nyfiken. Han
+<lb/>förstod sig inte på henne. Naturligtvis låg en hund
+<lb/>begraven i det där kamratskapet mellan henne och mig.
+<lb/>Själva ordet hade för honom en föraktlig innebörd (där&#x00AD;
+<pb n="110"/>
+<lb/>för döpte han också Griller till Kamraterna, sedan han
+<lb/>frigjort sig och skipat rättvisa). Vänskap mellan man
+<lb/>och kvinna var för honom ett onaturligt begrepp. Det
+<lb/>måste bero på lögn och förställning. Han misstänkte
+<lb/>att vi försökte dra honom och hela världen vid näsan.</p>
+<p rend="indfirst">Han bad att få låna Pengar. På titelbladet fanns
+<lb/>en tillägnan, däri det lömska ordet gick igen. Och un&#x00AD;
+<lb/>der läsningen har han säkert funnit alla sina värsta miss&#x00AD;
+<lb/>tankar bekräftade. När jag återfick boken, var den
+<lb/>försedd med många randanmärkningar av hans hand.</p>
+<p rend="indfirst">Särskilt slutkapitlet, uppgörelsen mellan Selma och
+<lb/>hennes man. Den har tydligen upprört Strindberg så,
+<lb/>att han måst ge uttryck åt sin samkänsla med den
+<lb/>förfördelade. När patronen, i stället för att lyssna till
+<lb/>sin hustrus allvarsord, framställs som »helt upptagen av
+<lb/>att rensa hummer», klappar Strindberg honom förstå&#x00AD;
+<lb/>ende på axeln och utbrister: »Skönt!» Och när pa&#x00AD;
+<lb/>tronen höjer sitt ölglas, har Strindberg till den grad
+<lb/>hunnit bli ett med honom, att han, i enlighet med sin
+<lb/>egen smak, förvandlar »öl» till »porter». Han upp&#x00AD;
+<lb/>tar också med förtjusning ordstriden med patronens
+<lb/>unga hustru. Mestadels litet för mycket i patronens
+<lb/>egen anda. Som t. ex. när Strindberg till Selmas
+<lb/>yttrande att lagen behövde ändras (hon hävdar, att ingen
+<lb/>kvinna borde få gifta sig innan hon blivit myndig) fogar
+<lb/>den förmodligen skämtsamt tänkta slutsatsen: »Även
+<pb n="111"/>
+<lb/>för pojkar, som vill gifta sig vid tolv år!» Lika litet
+<lb/>som patronen erkänner Strindberg, att kvinnan behöver
+<lb/>något annat livsinnehåll, än det mannen ger henne.
+<lb/>Patronen säger: »Livsinnehåll? Prat! Hur många
+<lb/>kvinnor leva inte tills de nå sina sextio år utan att ha
+<lb/>något livsinnehåll för det? Låt dem gifta sig först,
+<lb/>så kommer nog livsinnehållet — —» Strindberg under&#x00AD;
+<lb/>stryker orden och utbrister: »Bra sagt, herr patron!
+<lb/>Utmärkt! Bravo!»</p>
+<p rend="indfirst">Mycket krasst bemöter han Selmas: »Hus och hem
+<lb/>skulle styras bättre, om kvinnorna fingo använda de där
+<lb/>fyra fem åren till att lära sig vad som erfordras.» Han
+<lb/>understryker »vad som erfordras» och skriver: »Hoc est:
+<lb/>ekonomi, förlossningskonst och — —» Med andra ord,
+<lb/>han förordar en fostran av samma art, som geishorna få
+<lb/>i Japan, och avfärdar med ett: »Nix ma chère!» Sel&#x00AD;
+<lb/>mas tal om »hur rika för ens inre utveckling de åren
+<lb/>mellan sexton och tjugu bruka vara».</p>
+<p rend="indfirst">Patronen suger tyst sin cigarr och gitter inte svara
+<lb/>på Selmas enligt hans mening orimliga sats, att samma
+<lb/>moral borde gälla för kvinnor som för män. Men Strind&#x00AD;
+<lb/>berg svara: »Nej, inte densamma 1:o därför att man&#x00AD;
+<lb/>nen ej kan få barn, 2:o därför att han betalar kalaset.»
+<lb/>Och mot Selmas: »Det blir aldrig en plikt att under&#x00AD;
+<lb/>kasta sig ömhetsbetygelser, mot vilka hela ens varelse
+<lb/>uppreser sig», protesterar han med ett kraftigt »jo!»
+<pb n="112"/>
+<lb/>Han brukar starka ord mot Selmas kätterska meningar.
+<lb/>»Vrövel» är ett av de mildaste. När hon återkommer
+<lb/>med sitt yrkande, att kvinnorna inte borde få ingå
+<lb/>äktenskap förr än vid myndiga år, invänder han: »Får
+<lb/>man veta så satans mycket vid 21 år? Nej, först sedan
+<lb/>man varit gift! Då är det så dags!» Och han rycker
+<lb/>på axlarna åt hennes tal om innehåll i ett äktenskap.
+<lb/>Innehåll? »Was ist das?»</p>
+<p rend="indfirst">Ändå var han vid bästa lynne, när han läste Pengar
+<lb/>och nedskrev sina randanmärkningar. De vittna bara
+<lb/>om, att hans syn på kvinnan bestämdes av solflätan.
+<lb/>Detta könstänkande led av en inre brist på följdriktig&#x00AD;
+<lb/>het. Han jublade över upptäckten, att kvinnorna hade
+<lb/>en svanskota mer än männen. Det betydde, att de
+<lb/>stodo närmare djuren! Därav drog han den slutsatsen,
+<lb/>att de inte voro mogna för frihet och självbestämnings&#x00AD;
+<lb/>rätt. Men om han kunnat skapa om dem, skulle han
+<lb/>säkert ha begåvat dem med ännu ett par svanskotor.</p>
+<p rend="indfirst">Han misstänkte att kvinnornas kamp för mänskliga
+<lb/>rättigheter skulle medföra inskränkning av mannens
+<lb/>könsliga rättigheter. Därmed skulle millioner män i
+<lb/>framtiden dömas till samma kval, som ödelagt hans liv.
+<lb/>Det var deras talan han trodde sig föra, när han
+<lb/>slungade sina kraftord mot en kvinna, vars liv ödelagts
+<lb/>av de missförhållanden, han försvarade.</p>
+<p rend="indfirst">Så stodo den samtida nordiska litteraturens star&#x00AD;
+<pb n="113"/>
+<lb/>kast och djupast kännande personligheter mot varandra
+<lb/>utan att fatta varandras lidande.</p>
+<p rend="indfirst">Victoria Benedictsson var mitt inne i den kris som
+<lb/>ledde till självmordsförsöket natten mellan den 8 och
+<lb/>9 januari. Det föll sig så att Strindberg kommit
+<lb/>till staden och bodde på Leopolds hotell.</p>
+<p rend="indfirst">I det stora rummet mot gården, där Strindberg
+<lb/>några veckor tidigare skrivit sitt avskedsbrev till mig,
+<lb/>låg nu Victoria Benedictsson och brottades med döden.</p>
+<p rend="indfirst">Jag visste det. I mitt lilla rum på andra sidan
+<lb/>korridoren gick jag halva natten av och an. Jag led
+<lb/>av ett omanligt begär att avlasta något av min spän&#x00AD;
+<lb/>ning på en annan levande varelse. Strindberg fanns
+<lb/>inom räckhåll. Det var frestelsen, som jag med sam&#x00AD;
+<lb/>manbitna tänder värjde mig mot.</p>
+<p rend="indfirst">Det knackade. Dörren öppnades. Utanför stod
+<lb/>Victoria Benedictsson i vit nattdräkt och så blek, att an&#x00AD;
+<lb/>siktet lyste i skymningen.</p>
+<p rend="indfirst">Flämtande av hjärtats oro sade hon att hon tagit
+<lb/>giftet. (Det var morfin.) Hennes beslut att dö stod
+<lb/>fast, men hon kände en obetvinglig ångest och bad att
+<lb/>jag skulle vaka över henne.</p>
+<p rend="indfirst">Jag följde in i hennes rum, och hon gick åter till
+<lb/>sängs. Hur tiden led har jag intet minne av. Tala
+<lb/>kunde väl ingen av oss. Men jag minns, att mina tan&#x00AD;
+<lb/>kar bland annat kretsade kring det kommande polis&#x00AD;
+<pb n="114"/>
+<lb/>förhöret. Lagen stadgade fängelsestraff för underlåten&#x00AD;
+<lb/>het att hindra självmord. Under närmast föregående
+<lb/>veckor hade jag gjort allt vad i min förmåga stod för
+<lb/>att rädda Victoria Benedictsson åt livet. Men att gripa
+<lb/>till våld var oförenligt med min rättsuppfattning. Enligt
+<lb/>lagen skulle just det nu ha varit min plikt. Men det
+<lb/>skulle vara att svika ett förtroende, som, hur tungt det
+<lb/>än var att bära, getts mig i gränslös förtröstan till min
+<lb/>goda vilja. Här stod samvetslagen i öppen strid mot
+<lb/>den borgerliga lagen. För mig fanns ingen annan möj&#x00AD;
+<lb/>lighet än att bryta mot den borgerliga lagen och ta mitt
+<lb/>straff.</p>
+<p rend="indfirst">Plötsligt märkte jag, att svår oro kom över den lev&#x00AD;
+<lb/>nadströtta, som jag trodde döende. Jag förstod inte
+<lb/>strax, att hon känt mina tankar. Hon reste sig i bädden
+<lb/>och bad mig gå. Då jag vägrade, blev hon så utom
+<lb/>sig av ångest, att jag måste göra henne till viljes. Jag
+<lb/>hörde henne regla dörren bakom mig.</p>
+<p rend="indfirst">Jag trevade mig genom korridoren till Strindbergs
+<lb/>dörr. När jag steg in, for han upp ur sömnen och
+<lb/>stirrade vilt på mig. Jag sade honom, att jag inte längre
+<lb/>kunde vara ensam och varför. Jag anförtrodde honom
+<lb/>mer än jag hade rätt att yppa av Victoria Benedictssons
+<lb/>lidandes historia.</p>
+<p rend="indfirst">Han lyssnade med ett uttryck, som alltid står in&#x00AD;
+<lb/>bränt i mitt minne, ett obönhörligt och grymt män&#x00AD;
+<pb n="115"/>
+<lb/>niskoätareintresse utan minsta skymt av mänsklig med&#x00AD;
+<lb/>känsla.</p>
+<p rend="indfirst">Under tiden utförde naturen själv det räddnings&#x00AD;
+<lb/>verk, som en läkare skulle ha föreskrivit. På morgonen
+<lb/>berättade uppasserskan, att fru Benedictsson varit myc&#x00AD;
+<lb/>ket sjuk under natten och att herr Strindberg gått tidigt
+<lb/>ut. Framåt förmiddagen fick jag veta, att han förrått
+<lb/>mitt förtroende.</p>
+<p rend="indfirst">Jag sade mig själv, att han var otillräknelig just
+<lb/>på det område, där jag av svaghet gjort honom till min
+<lb/>förtrogne. Jag berättade sedan allt för Victoria Bene&#x00AD;
+<lb/>dictsson. Hon dömde ingen. Mitt förstånd och mitt
+<lb/>hjärta frikände honom. Men mina nerver kunde aldrig
+<lb/>glömma.</p>
+<p rend="indfirst">På middagen for han ut igen till Klampenborg och
+<lb/>skrev som om ingenting annat hänt, än att han fått
+<lb/>låna 500 kr. av August Lindberg.</p>
+<lb/>
+<p rend="ind2">Axel Lundegård,</p>
+<lb/>
+<p rend="indfirst">Lindberg kom till Nimb med 500 kronor och var
+<lb/>ond och ledsen på mig. Jag reste och andades åter
+<lb/>när jag såg skogen.</p>
+<p rend="indfirst">Oh! Och sjön!</p>
+<p rend="indfirst">Det finns bestämt ett grand sant i mitt kulturhat!
+<lb/>Storstaden är ju ett rudiment från barbariska tider med
+<pb n="116"/>
+<lb/>de trånga gatorna afsedda för ett försvar som nu är
+<lb/>onödigt när det finns god polis m. m.</p>
+<p rend="indfirst">Hur är med fru Benediktsson?</p>
+<p rend="indfirst">Hvad gör hon och hvad ämnar hon?</p>
+<lb/>
+<p rend="indfirst">Nu får du hvila upp dig från mina litanier och ana&#x00AD;
+<lb/>lyser!</p>
+<p rend="indfirst">Lef väl och låt mig höra något om operationerna
+<lb/>med Margit (och Fru B—n.).</p>
+<p rend="indfirst">Din tillgifne</p>
+<p rend="ind8"><hi rend="spaced">August Strindberg</hi>.</p>
+<p rend="ind dateline">Klpbg 9/1 88.</p>
+<lb/>
+<p rend="indfirst">(»Margit» — Herr Bengts hustru. I dansk över&#x00AD;
+<lb/>sättning inlämnad till Det Kongelige Theater.)</p>
+<p rend="indfirst">Två dar senare var han vid ännu bättre lynne.
+<lb/>Han skrev:</p>
+<p rend="indfirst">Sommarluft, Öresundsblått vatten med parande må&#x00AD;
+<lb/>sar, öppet fönster, trampande höns, färsk bringa med
+<lb/>pepparrotssås — lifvet är skönt!</p>
+<p rend="indfirst">Men ingen Politik i dag eller går! Käre, sänd mig
+<lb/>den i korsband tills jag får från Red.</p>
+<p rend="indfirst">Och klipp i andra blad om du ser något som kan
+<lb/>gagna mig!</p>
+<p rend="indfirst">Hur går det fru B.? Här skulle hon bo någon&#x00AD;
+<pb n="117"/>
+<lb/>stans i en familj, annan än min, ty i ensamheten är man
+<lb/>aldrig så ensam som i hopen.</p>
+<p rend="indfirst">Och fru M(argit)?</p>
+<p rend="indfirst">Stephensen vid Casino motiverade inställningen
+<lb/>af deras Faderturné med att jag »hindrat» den genom
+<lb/>att »sälja» den åt Lindberg. Hindra? Sälja? Har jag&#x00AD;
+<lb/>sålt den? Hvar äro då pengarna?</p>
+<p rend="indfirst">Farväl och låt höra något om fru B., vars Pengar
+<lb/>jag läst med ögon uppspeltade af nyfikenhet.</p>
+<p rend="indfirst">Din</p>
+<p rend="ind10"><hi rend="spaced">Aug</hi>. S—g.</p>
+<p rend="indfirst">Klampenborg, 11 Jan. 1888.</p>
+<p rend="indfirst">(Stephensen, den skådespelare vid Casino, som
+<lb/>spelat Pastorn, hade planerat en landsortsturné med
+<lb/>Fadren.)</p>
+<p rend="indfirst">Dagen efter skrev han åter:</p>
+<p rend="ind2">Axel Lundegård.</p>
+<p rend="indfirst">I morgon 13:e går Fadren i Stockholm. Får Poli&#x00AD;
+<lb/>tiken telegram? Kan jag således i öfvermorgon få veta
+<lb/>hur det gick? Egentligen skulle det vara mig likgiltigt,
+<lb/>då jag vet hvad stycket är värdt! Och går det ej, blir det
+<lb/>deras skam! Undrar ibland, om ej det är de andra, les
+<lb/>autres, som gjort dikten till diktad = påhittad, verklighet.</p>
+<p rend="indfirst">Nu kokar det i min gryta; hvad det blir, vet jag ej.
+<lb/>Ingen är så ofri som diktaren. Men bredvid skrifbor&#x00AD;
+<pb n="118"/>
+<lb/>det sitter den odödbara svarta katten med de gula
+<lb/>ögonen och heter Nöd!</p>
+<p rend="indfirst">Men Nöden kan tyvärr ej ställa om min stora
+<lb/>hjerna! Tyvärr! Praktiska hänsyn, skrifva för pengar,
+<lb/>nonsens! Om jag kunde! bara!</p>
+<p rend="indfirst">Njutit tre tallrikar gula ärter med en half mark
+<lb/>fläsk och drammar och Bajrar. Men har ingenting att
+<lb/>läsa. Har ej pengar köpa.</p>
+<p rend="indfirst">D’abord, kan jag ej få låna fru B:s.resterande.
+<lb/>Från Skåne och Småbilder, Telefon etc. etc. Puis,
+<lb/>Stuk, Surrogat, Skandal, ensuite La Terre, Mensonges,
+<lb/>Revue Independante.</p>
+<p rend="indfirst">Hohlenberg bjöd i morse på Politiken och Social&#x00AD;
+<lb/>Demokraten!</p>
+<p rend="indfirst">Vill ni inte hjelpa mig med lektyr! Kan jag ej
+<lb/>få ett lån på ett lånebibliotek eller hur! Jag dör af
+<lb/>inanition eljest!</p>
+<p rend="indfirst">Hur har fru B. det?</p>
+<p rend="indfirst">Nu sjunger jag Dolce Napoli selv med Guitarr!</p>
+<p rend="indfirst">Kan du inte någon vacker vårdag narra ut Dig och
+<lb/>några intelligenser att berusa sig i vårluft och sam&#x00AD;
+<lb/>vrövel på Bellevue.</p>
+<p rend="indfirst">Farväl till återseende</p>
+<p rend="ind11">Din vän</p>
+<p rend="ind10"><hi rend="spaced">Aug</hi>. S—g.</p>
+<p rend="ind dateline">Klampenborg d. 12 Jan. 88.</p>
+<pb n="119"/>
+<p rend="indfirst">Och fyra dar senare, efter ett nytt besök i Köpen&#x00AD;
+<lb/>hamn:</p>
+<p rend="ind2">Axel Lundegård,</p>
+<p rend="indfirst">Tack för besök och godt samsnack!</p>
+<p rend="indfirst">Bed fru B. läsa medföljande och sedan säga om det
+<lb/>är sant! Det vill säga: om det är rätt gissat? (Det
+<lb/>säger hon inte, förstås!)</p>
+<p rend="indfirst">Kunde vi ej slå litet småmynt ur Vivisektionerna
+<lb/>här och hvar? Ny jord, Nutiden etc.!</p>
+<p rend="indfirst">Hjernornas kamp är modernism! Men titulera så,</p>
+<p rend="center">Hjernornas Kamp,</p>
+<p>(Ur: <hi rend="spaced">Vivisektioner</hi>, efter en läkares berättelser</p>
+<p rend="center">av Aug. S—g.)</p>
+<p rend="indfirst">Har i dag skrifvit till Lindberg och anhållit få igen
+<lb/>mitt papper. Vill göra mina affärer sjelf! Och fann
+<lb/>L:s sista vigg obehaglig, röjande dåliga affärer! Tro
+<lb/>inte för mycket! Människor kunna lika lätt komma i
+<lb/>oförtjent godt, som dåligt rykte.</p>
+<p rend="indfirst">Vorsicht!</p>
+<p rend="indfirst">Farväl och vörds. helsningar till fru B. och små&#x00AD;
+<lb/>flickorna, som behagade mig.</p>
+<p rend="ind10">Din</p>
+<p rend="ind9"><hi rend="spaced">Aug</hi>. S—g.</p>
+<p rend="indfirst">P. S. I dag fått mycket vackert korr. på Père. Fint
+<lb/>och franskt! Få se!</p>
+<p rend="ind dateline">Klampenborg d. 16 Jan. 88.</p>
+<pb n="120"/>
+<p rend="indfirst">(Vad det var han ville, att Ernst Ahlgren skulle läsa,
+<lb/>minns jag inte längre. Hans affärer med August Lind&#x00AD;
+<lb/>berg höllo tydligen på att glida in i misstrons skede.
+<lb/>Småflickorna, som behagade honom, hade han träffat
+<lb/>vid sitt besök i Köpenhamn, i sällskap med Victoria
+<lb/>Benedictsson och mig.)</p>
+<p rend="indfirst">Hans nästa brevlapp lydde:</p>
+<p rend="ind2">K. L.</p>
+<p rend="indfirst">Du har väl ej qvar det franska klippet om alla, som
+<lb/>skrifvit om Paternité’ten?</p>
+<p rend="indfirst">Sände dig i dag olästa svenska tidningar om
+<lb/>Fadren.</p>
+<p rend="indfirst">Vet du hur det »går». Hur många gånger har den
+<lb/>gått nu?</p>
+<p rend="indfirst">Konsumerat alla böckerna.</p>
+<p rend="indfirst">Skrifver intet. Låt mig veta, huru och hvar ett lån
+<lb/>tas på böcker.</p>
+<p rend="indfirst">Kommer om ett par dagar in för att söka fransman
+<lb/>till korrektur på Père, som nu är i gång; fint och vackert
+<lb/>tryckt. Håll i ordning adress på fransmannen! Kanske
+<lb/>minister Andersen kunde hjelpa oss till någon vid lega&#x00AD;
+<lb/>tionen med litterära intressen.</p>
+<p rend="indfirst">18 Jan. 88.</p>
+<p rend="ind10"><hi rend="spaced">Vänl</hi>. <hi rend="spaced">Aug</hi>. S—g.</p>
+<p rend="indfirst">»Minister Andersen» var amerikanske ministern,
+<lb/>som han under synnerligen olyckliga omständigheter
+<pb n="121"/>
+<lb/>gjort bekantskap med. Strindberg räknade likafullt
+<lb/>med att han skulle stå till tjänst. Han utgick från att
+<lb/>hela världen skulle tjäna honom.</p>
+<lb/>
+<p rend="ind2">Käre Lundegård,</p>
+<p rend="indfirst">Nu måste du ändtligen hjelpa mig få fatt en <hi rend="spaced">frans&#x00AD;
+<lb/>man</hi> som ögnar igenom detta korrektur, men en äkta.
+<lb/>Lektorn i Helsingborg var okunnig och tvärsäker och
+<lb/>ändrade till orätt hvad som rätt var. Men inga ändringar
+<lb/>i texten, såvida ej rent Unsinn är der; mest accenterna
+<lb/>och skiljetecknen! Jag tror ej många fel finnas!</p>
+<lb/>
+<p rend="indfirst">Österling kommer till stan i dag! Har lofvat mig
+<lb/>100 kr. i denna dag. Sviker naturligtvis; men träffar
+<lb/>Du honom så pressa honom, ty — det går illa med
+<lb/>Fadren i Stockholm! 40 kronor! —</p>
+<p rend="indfirst">Sänder min hustru emedan det blir billigare än
+<lb/>att jag sitter på Nimb i 12 timmar.</p>
+<p rend="indfirst">Farväl och hjelp!</p>
+<p rend="ind10"><hi rend="spaced">Aug</hi>. <hi rend="spaced">Sg</hi>.</p>
+<p rend="ind dateline">Klpbg d. 21 Jan. 88.</p>
+<lb/>
+<p rend="indfirst">Kan inte Krohn se fotografierna som prof på ko&#x00AD;
+<lb/>stymerna; eller lindrig påminnelse?</p>
+<p rend="indfirst">(Redaktör Hans Österling hade av intresse för
+<lb/>Strindberg åtagit sig att trycka Fadren, liksom senare
+<pb n="122"/>
+<lb/>Père och Kamraterna. De fotografier, Strindberg ville
+<lb/>förelägga Det Kgl. Theatrets inspektör (Krohn) före&#x00AD;
+<lb/>ställde fru Siri Strindberg i Herr Bengts hustru, som
+<lb/>Strindberg alltjämt hoppades få uppförd på Det Kgl.
+<lb/>Theater.)</p>
+<p rend="ind2">Axel Lundegård,</p>
+<p rend="indfirst">Inne i Kbhvn i går! utan att finna Dig som Du vet!</p>
+<p rend="indfirst">Var nu snäll och sänd Christian med fracken till
+<lb/>en fin skräddare som styfvar upp slagen med någon
+<lb/>kanfas, samt sätter i sidensarge i kilarne, som Ess&#x00AD;
+<lb/>man hade.</p>
+<p rend="indfirst">Låt samme Christian ombesörja uttagning af detta
+<lb/>paket och affockning hit; är du djeflig beskedlig!</p>
+<p rend="indfirst">Hastel. till Gensyn.</p>
+<p rend="ind10"><hi rend="spaced">August Sg</hi>.</p>
+<p rend="indfirst">Klpbg, 24 Jan. 88.</p>
+<p rend="indfirst">(Christian hette borstarn på Leopolds hotel.)</p>
+<p rend="indfirst">Fyra dagar senare stod nöden åter för dörren:</p>
+<p rend="ind2">Axel Lundegård,</p>
+<p rend="indfirst">Skrifver, skrifver praktfullt, som aldrig, mitt Oeuvre,
+<lb/>fritt, herrligt utan tanke på Mamsell Albert Bonnier; det
+<lb/>knastrar i hjernan när det rätta ordet skall födas på
+<lb/>det fremmande språket, men denna ansträngning ger
+<lb/>full vision af det upplefvade. Dock första februari
+<pb n="123"/>
+<lb/>nalkas! Ekonomiska situationen hopplös närmast. Såg
+<lb/>ett halmstrå i ditt Sk. Aftonblad. Kan jag ej öppna el&#x00AD;
+<lb/>den på Langhoff, antingen genom att låta honom läsa
+<lb/>det skrifna af Oeuvret: eller i hast skrifva en samling
+<lb/>fina moderna skärgårdsnoveller att utkomma på Danska
+<lb/>och Svenska samtidigt. Finns någon antaglig distribu&#x00AD;
+<lb/>tör i Malmö?</p>
+<p rend="indfirst">Eller medan vi vänta, med Philipsens skriftliga till&#x00AD;
+<lb/>stånd, sälja Fadren i Danmark för 100 kronor hvar.</p>
+<p rend="indfirst">Träffar Du Hunderup eller Buntzen så fråga om
+<lb/>Fadren i Aarhus gaf något?</p>
+<p rend="indfirst">En Nordbagling i Skien skref till Hunderup och
+<lb/>bad få köpa Fadren. Jag svarade! — Intet svar!</p>
+<p rend="indfirst">Kan ingen undsättning från Helsingfors komma?</p>
+<p rend="indfirst">Vill ej fru B., mon cher confrère, be Geijerstam
+<lb/>frampressa något ur M. Olof derstädes af vännen Axel
+<lb/>Lille direktör?</p>
+<p rend="indfirst">Du sa: res in till oss oftare! Ja, svarade jag ej,
+<lb/>jag har icke råd och tigga blyges jag!</p>
+<p rend="indfirst">Lifvets enklaste njutningar äro mig förvägrade, att
+<lb/>icke tala om andlig nödtorft i ett boklån, en utländsk
+<lb/>revy, då det dagliga brister, så barnen gå trasiga och
+<lb/>jag inga tofflor har, utan måste lägga trasor i mina
+<lb/>bottenlösa!</p>
+<p rend="indfirst">Ja, detta är en litania, men hvad skall jag göra?
+<lb/>Was thun?</p>
+<pb n="124"/>
+<p rend="indfirst">Det fins saker som intet kunna åtgöras, och man
+<lb/>får lefva ändå! Men denna kunde väl något!</p>
+<p rend="indfirst">Hvad säger Edv. B. om Margit och K. T. Fins
+<lb/>ej hopp, sändes Dagmar.</p>
+<p rend="indfirst">Tänk på mig något litet.</p>
+<p rend="indfirst">Din vän</p>
+<p rend="ind8"><hi rend="spaced">August Strindberg</hi>.</p>
+<p rend="ind dateline">Klampenborg d. 28 Jan. 1888.</p>
+<lb/>
+<p rend="indfirst">Då jag berättade för Victoria Benedictsson att
+<lb/>Strindberg satt med fötterna instoppade i bottenlösa,
+<lb/>trasbelagda tofflor, erbjöd hon sig att sy honom ett
+<lb/>par bättre. Detta avböjer han i följande brev. Jag
+<lb/>har uteslutit några meningslösa oanständigheter. Varpå
+<lb/>han syftar med 5:o har jag nu glömt. Hela brefvet
+<lb/>varslar om att de onda makterna inom honom höllo
+<lb/>på att få överhand.</p>
+<p rend="ind2">Axel Lundegård,</p>
+<p rend="indfirst">1:o. En stadsresa kostar vanligen 36 kronor utom
+<lb/>eventuella rättegångskostnader för skottlossning och
+<lb/>läkarvård —</p>
+<p rend="indfirst">2:o. Philipsens lof ha vi att sälja Fadren. Du
+<lb/>behöfver alltså bara sittande i en vällustig schaggsoffa
+<lb/>på Bernina stöta på Langhoff eller Levysohn (Svenska
+<lb/>Öden) så har du hundralappen — —.</p>
+<pb n="125"/>
+<p rend="indfirst">3:o. Tyvärr utbröt min otillfredsställda könsdrift
+<lb/>i ett ovettigt bref på Lindberg, så nu är den hackan
+<lb/>förlorad.</p>
+<p rend="indfirst">4:o. Sådana tofflor jag behöfver kan ingen qvinna
+<lb/>af man född lave. Nu har jag min »kamrats» som&#x00AD;
+<lb/>markappa om fötterna.</p>
+<p rend="indfirst">5:o. Bombardemanget med Gillets Hemlighet kan
+<lb/>ådra mig 6 månaders enkelt fängelse för förfalsknings&#x00AD;
+<lb/>brott och ryslig blamage.</p>
+<p rend="indfirst">6:o. Qvartupplagan av M. Olof, mitt ex., ligger
+<lb/>hos Olof Poulsen.  — — —</p>
+<p rend="indfirst">Kan inte fru Z. komma ut till mig i stället och tala
+<lb/>om öfversättningen af Hemsöborna. Hon är skön men
+<lb/>Mll. Y. lär vara djefligt ful.</p>
+<p rend="indfirst">Vill inte Lindberg <hi rend="spaced">nu</hi> spela Kamraterna, så vore
+<lb/>väl fan. Han tycks tillhöra det folk, som ska spottas
+<lb/>ner för att bli vänskapliga.</p>
+<p rend="indfirst">En annan sak! Kan du inte slänga en breflapp till
+<lb/>Tavaststjerna om M. Olof. Det vore enklast, sluppe
+<lb/>vi den der G. af G.</p>
+<p rend="indfirst">(Denna mening är överstruken och försedd med ett
+<lb/><hi rend="i">ϑ</hi> i marginalen.)</p>
+<p rend="indfirst">Fru B. står i Allehanda för Folket uppräknad som
+<lb/>Handske-qvinna!</p>
+<p rend="indfirst">Figaro (icke Le) afrifver alla ’opponenterna’ mot
+<lb/>referat och ’Oskar Levertran’ och Ernst Ahlgren och
+<pb n="126"/>
+<lb/>alla andra. Jörgen flåsar af tillfredsställd brunst att få
+<lb/>gå lös på Unga Sverge.</p>
+<p rend="indfirst">Kan inte Casino ta Kamraterna så jag får »läsa
+<lb/>roln» med N. N. i Leopolds N:r 16? Jag har nemligen
+<lb/>som du vet ingenting att »läsa».</p>
+<p rend="indfirst">Oh! nu kom 100 kronor från Molander!!! Ah! Räd&#x00AD;
+<lb/>dad för några dagar!</p>
+<p rend="indfirst">Härmed Philipsens dokument! Sälj nu Fadren
+<lb/>för 200 så dela vi rofvet.</p>
+<p rend="indfirst">Farväl igen så länge.</p>
+<p rend="indfirst">Din vän</p>
+<p rend="ind6"><hi rend="spaced">August Strindberg</hi>.</p>
+<p rend="indfirst">Taarbæk d. 1 Februari 1888.</p>
+</div2>
+<pb n="127"/>
+<div2 rend="chapter" xml:id="HurVåraVägarSkildes">
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<head rend="chapterenumeration center">XI.</head>
+<head rend="chaptername center">Hur våra vägar skildes.</head>
+<p><hi rend="decorInit">S</hi>trindbergs sista brev till mig ge knappast någon
+<lb/>föreställning om bristande vänskap från hans sida.
+<lb/>Själva uppsägelsebrevet följdes av många bjudningar
+<lb/>till vänskaplig samvaro. Jag har senare i livet ångrat,
+<lb/>att jag inte följde dem. Jag kom sålunda aldrig
+<lb/>till Skovlyst och saknar all personlig kännedom
+<lb/>om, vad han där upplevde. Det var Tschandala. Han
+<lb/>blev stämd inför domstol av tattaren, flög till Köpen&#x00AD;
+<lb/>hamn med eld i håret och bad att jag skulle ledsaga
+<lb/>honom till stadens förnämligaste hotell. Där tog han
+<lb/>in för att skaffa sig hemortsrätt bland herreklassen,
+<lb/>när nu lagens arm sökte honom å parians vägnar.</p>
+<p rend="indfirst">Då var det länge sedan vi hört av varandra. Vi
+<lb/>skildes, när jag inte längre med samma ungdomliga
+<lb/>hängivenhet som förr kunde gå hans ärenden. Jag
+<lb/>behövde vila från honom. Men vi skildes utan fiend&#x00AD;
+<lb/>skap. I den stora uppgörelsen med alla de missgär&#x00AD;
+<pb n="128"/>
+<lb/>ningsmän, han mött i livet — de blå böckerna — riktar
+<lb/>han inga anklagelser mot mig och jag har alltid be&#x00AD;
+<lb/>varat min ungdoms kärlek till hans livsgärning. Men
+<lb/>jag har aldrig velat återknyta det personliga förhållan&#x00AD;
+<lb/>det oss emellan. Jag betraktade den förtrolighet, var&#x00AD;
+<lb/>om dessa blad bära vittne, som något en gång för alla
+<lb/>avslutat.</p>
+<p rend="indfirst">I det första brevet här nedan spelar han ännu på
+<lb/>de gamla strängarna:</p>
+<p rend="ind2">Axel Lundegård,</p>
+<p rend="indfirst">Hvad fan är detta? Är det ej i dag först den 13:de?
+<lb/>Smid nu med detta telegram så att vi få jernet varmt
+<lb/>ånyo, och att geld kan slås, ty förbanna mig jag står
+<lb/>ut eljes att sitta och laga succèser på 500 kronor
+<lb/>stycket. Kan inte nu turné arrangeras? Kan inte
+<lb/>Bergenserna ryckas i kragen? Hunderup uppgalvani&#x00AD;
+<lb/>seras? Hansen, Lindberg, Göteborg, Helsingfors trum&#x00AD;
+<lb/>mas opp! Jag spränges eljes!</p>
+<p rend="indfirst">Krediten härute slut! Allt kontant! 50 kronor i
+<lb/>kassan! Fadren i Stockholms honorar uppätet.</p>
+<p rend="indfirst">Hemsödramatiken tar 2 månader! Was thun?</p>
+<p rend="indfirst">I hast vänligen</p>
+<p rend="ind8"><hi rend="spaced">August Strindberg</hi>.</p>
+<p rend="ind dateline">Taarbaek d.?? Jan. 1889 (?).</p>
+<p rend="ind2 dateline">? dag?</p>
+<pb n="129"/>
+<p rend="indfirst">Men snart började avskedsbrevet kasta sin skugga
+<lb/>framför sig:</p>
+<p rend="indfirst">B. Br. Var snäll och sänd mig (kopia eller origi&#x00AD;
+<lb/>nal) av det bref Du vet jag gaf Dig före Fadrens gif&#x00AD;
+<lb/>vande (jemte förordnanden). Brefvet i fråga citeras
+<lb/>en längre tid som källa (nu sist i Amerika). Det är
+<lb/>derför af vigt för mig veta hvad jag skref — i sin
+<lb/>helhet.</p>
+<p rend="indfirst">Hastel. Vänl.</p>
+<p rend="ind10"><hi rend="spaced">Aug</hi>. <hi rend="spaced">Sg</hi>.</p>
+<p rend="ind dateline">Taarbæk 29/11 88.</p>
+<lb/>
+<p rend="indfirst">Jag svarade, som sanning var, att brevet aldrig
+<lb/>lämnat mina gömmor, och bad om vidare upplysningar.
+<lb/>Men historien var alltför barnsligt hopspunnen för att
+<lb/>tåla vid några förklaringar. Strindberg teg tre veckor.
+<lb/>Sedan skrev han:</p>
+<p rend="ind8 dateline">Taarbaek, 20 Mars 1888.</p>
+<p rend="ind2">Axel Lundegård,</p>
+<p rend="indfirst">När jag snart lemnar Danmark, så skrifver jag några
+<lb/>ord till Dig, som jag gaf allt mitt förtroende utan att
+<lb/>få något igen — förtroende nemligen, annat ville</p>
+<p>jag ej.</p>
+<p rend="indfirst">Jag drog mig tillbaka rädd, när jag en dag upp&#x00AD;
+<lb/>täckte att jag talat för dig i tre månader utan att få
+<pb n="130"/>
+<lb/>ett svar! Jag kan inte erinra mig att Du sagt ett ord
+<lb/>som jag behållit i minnet, men väl uppträtt två gånger
+<lb/>till försvar för mina afgjorda fiender!</p>
+<p rend="indfirst">Lindberg misshandlade mig och bedrog mig —
+<lb/>och du ställde dig på hans sida — alltså emot mig.
+<lb/>Sist på Nimbs, antydde du öppet att den som ödelagt
+<lb/>mitt lif och rykte skulle ha varit i sin rätt! Medgifvet
+<lb/>att vi ha rätt bestjäla, bedra, lönnmörda, så skulle äfven
+<lb/>revancherätt följdriktigt ha tillfallit mig, eller med andra
+<lb/>ord rätt att återställa jemvikten — eller helt enkelt —
+<lb/>försvara mig!</p>
+<p rend="indfirst">Derpå blef jag tyst!</p>
+<p rend="indfirst">Förvånar det Dig?</p>
+<p rend="indfirst">Allt detta drar jag ett streck öfver, och ber få
+<lb/>glömska öfver det som varit! bedjande att endast få
+<lb/>stanna som din</p>
+<p rend="ind8">litterära vän</p>
+<p rend="ind7"><hi rend="spaced">August Strindberg</hi>.</p>
+<p rend="ind12">V(erte).</p>
+<p>(På andra sidan.)</p>
+<p rend="indfirst">P. S. Hvad Lindberg beträffar, så stämplas han af
+<lb/>Edv. Brandes som min »afundsman» (skiden gycklare!)
+<lb/>och hans uppförande som origtigt.</p>
+<p rend="indfirst">Derför skall jag hindra så mycket jag kan L. i
+<lb/>hans väg i Stockholm, precis lika mycket som han sökte
+<lb/>hindra mig här, och skada hans anseende precis lika</p>
+<pb n="131"/>
+<p>mycket som han skadat mitt, men ändock icke snyta
+<lb/>honom på pengar, som skulle bli min skam.</p>
+<lb/>
+<p rend="indfirst">Dagen efter kom ett brevkort med följande post&#x00AD;
+<lb/>skriptum. Han driver på för att få ut Fadren i min
+<lb/>danska översättning. Stinck var namnet på en bok&#x00AD;
+<lb/>handlare vid Ströget. Av obekant anledning hade
+<lb/>Strindberg fått för sig, att han var kvinnohatare och
+<lb/>alltså lämplig förläggare till Fadren. Hotelsen med
+<lb/>Peter Nansen satte Strindberg i verket. »Fadren» ut&#x00AD;
+<lb/>kom på Salomonsens förlag i Nansens översättning.</p>
+<p rend="ind2">P. S.</p>
+<p rend="indfirst">Om nu inte Du (eller Buntzen) skynda Er, så ska jag
+<lb/>sätta Peter Nansen bagefter Er som en svärmare, för det
+<lb/>är en flink fyr, som inte går på tjärad näfver. Och så
+<lb/>till Gensyn. Skyll Er sjelfva!</p>
+<p rend="indfirst">Vänl.</p>
+<p rend="ind10"><hi rend="spaced">Aug</hi>. <hi rend="spaced">Sg</hi>.</p>
+<p rend="ind dateline">21 Mars 1888.</p>
+<lb/>
+<p rend="indfirst">Stinck är ju qvinnohatare! Schopenhauer?</p>
+<lb/>
+<p rend="indfirst">Fyra dar senare kom ett nytt brevkort:</p>
+<p rend="indfirst">Ville Du vara god låta mig veta om det är Albert B.
+<lb/>som är i byn.</p>
+<p rend="indfirst">I min tidning stod endast Bonnier, Sverges störste
+<lb/>förläggare.</p>
+<pb n="132"/>
+<p rend="indfirst">Kunde varit Adolf som eger Sverges Klassiska För&#x00AD;
+<lb/>fattare.</p>
+<p rend="ind8"><hi rend="spaced">Vännen</hi> <hi rend="spaced">Aug</hi>. <hi rend="spaced">Sg</hi>.</p>
+<lb/>
+<p rend="indfirst">Skrif mig hvad Eder synes om »Heidenstam».</p>
+<lb/>
+<p rend="indfirst">Vallfart och vandringsår, som han nyss fått med
+<lb/>hälsning och tillägnan från förf., sysselsatte för tillfället
+<lb/>hans inbillning. Muntligen förklarade han senare, att
+<lb/>den nye förf. »kastat en hästlort» efter sin gamle
+<lb/>mästare. Min oförmåga att hitta kastvapnet, upptog
+<lb/>Strindberg med stor misstro.</p>
+<p rend="indfirst">På mer än en månad hörde jag ingenting från ho&#x00AD;
+<lb/>nom. Men 1 maj skrev han:</p>
+<p rend="indfirst">I dag reste familjen till Lyngby-Skovlyst och jag
+<lb/>sitter här till i öfvermorgon, sannolikt. Har du tid och
+<lb/>lust nu medan vädret är skönt prata bort en stund är
+<lb/>jag tacksam.</p>
+<p rend="indfirst">Vänl.</p>
+<p rend="ind10"><hi rend="spaced">Aug</hi>. <hi rend="spaced">Sg</hi>.</p>
+<p rend="indfirst">Jag kunde inte efterkomma hans inbjudning. Och
+<lb/>nästa gång han skrev var han inne i Tschandala. Där&#x00AD;
+<lb/>om nämner han dock intet i de återstående tre brev&#x00AD;
+<lb/>lapparna.</p>
+<p rend="indfirst">Den första lydde:</p>
+<pb n="133"/>
+<p rend="ind">Axel Lundegård,</p>
+<p rend="indfirst">Jag ser af bladen att Casino grasserar landsorten
+<lb/>med din och min Fader. Hunderup uppgaf Hansen vara
+<lb/>arrangör. Men H. har ej sport mig och ej besvarat bref.</p>
+<p rend="indfirst">Vi bli troligen snutna båda af Hunderup som är
+<lb/>omöjlig att ha relationer med; då han ej besvarar bref.</p>
+<p rend="indfirst">Hvad skall göras? Förbjuda är synd om perso&#x00AD;
+<lb/>nalen!</p>
+<p rend="indfirst">Har Du lust att komma ut?</p>
+<p rend="indfirst">Vänligen</p>
+<p rend="ind8"><hi rend="spaced">August Strindberg</hi>.</p>
+<p rend="ind dateline">Skovlyst 4 Juni 1888.</p>
+<lb/>
+<p rend="indfirst">Den andra:</p>
+<lb/>
+<p rend="ind2">Axel Lundegård,</p>
+<p rend="indfirst">Jag skref dig för åtta dagar sedan på adress Fred&#x00AD;
+<lb/>riksbergs allé, men tog troligen miste på nummer. Bref&#x00AD;
+<lb/>vet innehöll en klagovisa öfver att Hunderup stal Fad&#x00AD;
+<lb/>ren och turnerade utan att göra upp något; angaf C. F.
+<lb/>Hansen som arrangör, men denne har icke svarat på
+<lb/>två bref.</p>
+<p rend="indfirst">Har du lust att se ut till mig?</p>
+<p rend="indfirst">Hastel. Vänl.</p>
+<p rend="ind10"><hi rend="spaced">Aug</hi>. <hi rend="spaced">Sg</hi>.</p>
+<p rend="ind dateline">Skovlyst-Lyngby 11/6 88.</p>
+<pb n="134"/>
+<p rend="indfirst">Den tredje:</p>
+<p rend="ind2">B. Br.</p>
+<p rend="indfirst">Låt mig veta per kort när Du reser till Stockholm,
+<lb/>så att jag kan få sällskap, när jag skall dit snart.</p>
+<p rend="indfirst">Saken voxer.</p>
+<p rend="indfirst">Din&#x2003;&#x2003;&#x2003;&#x2003;<hi rend="spaced">Aug</hi>. <hi rend="spaced">Sg</hi>.</p>
+<p rend="ind dateline">Holte d. 16 Nov. 1888.</p>
+<p rend="indfirst">Gif mig Ola H:s adress fullständigt, är Du god!</p>
+<p rend="indfirst">Och ditt teaterstycke! eller ’en!</p>
+<p rend="indfirst">Saken som han trodde stadd i tillväxt var väl
+<lb/>»Le Messager du Nord» och teaterstycket, som han
+<lb/>efterlyser, förmodligen en sedan förkommen enaktare,
+<lb/>som han ville införa i något av de första numren och
+<lb/>därför bett mig låta översätta till franska »på Revuens
+<lb/>bekostnad».</p>
+<p rend="indfirst">I Stockholm besökte jag honom en enda gång.
+<lb/>Han bodde då, om jag minns rätt, i ett hus vid Horns&#x00AD;
+<lb/>tull.</p>
+<lb/>
+<p rend="center">*</p>
+<!-- ornament här -->
+<lb/>
+<p rend="indfirst">Alla som någon tid stått i närmre förhållande till
+<lb/>Strindberg ha visst mottagit uppsägelsebrev av samma
+<lb/>art, som det han sände mig, oftast med ännu mer hår&#x00AD;
+<lb/>resande beskyllningar. Huvudanklagelsen mot mig
+<lb/>vederlägger han själv i samma andedrag, varmed han
+<pb n="135"/>
+<lb/>utslungar den. Något har han i varje fall behållit i
+<lb/>minnet av vad jag sagt till försvar för två människor,
+<lb/>som menat honom väl.</p>
+<p rend="indfirst">Jag kan inte annat än erkänna, vad han tillvitar mig.
+<lb/>Tvivelsutan har jag sagt, att August Lindberg varken
+<lb/>misshandlat eller bedragit honom. Tvivelsutan har jag
+<lb/>också öppet uttalat en från Strindberg avvikande me&#x00AD;
+<lb/>ning om hans äktenskapliga förhållanden. Jag har
+<lb/>sagt, att han inte ensam hade rätten på sin sida mot
+<lb/>den kvinna, som ofrivilligt ödelagt hans liv, och vars liv
+<lb/>han lika ofrivilligt ödelagt. Jag tror till och med
+<lb/>att han erkänt detta, fast han glömt det sedan. Mitt
+<lb/>omdöme grundade sig i varje fall på vad han själv
+<lb/>berättat.</p>
+<p rend="indfirst">Jag minns en morgon, han kom mycket tidigt in
+<lb/>till mig och såg fullständigt sinnesförvirrad ut. Han
+<lb/>sade sig den natten ha sprängt dörren till sin hustrus
+<lb/>sovrum, där hon förskansat sig med barnen, som vaknat
+<lb/>vid skrällen, rest sig i sina sängar och med vettskrämda
+<lb/>ögon stirrat på sin far. Då greps han av blygsel och
+<lb/>smög ut igen. Han älskade sina barn. Nu led han
+<lb/>av samvetskval över att ha grumlat deras själar.
+<lb/>Särskilt förföljde honom den lille minstes, sonens,
+<lb/>ögon.</p>
+<p rend="indfirst">Ett uppträde som detta, skildrat av honom själv
+<lb/>med hjärtslitande ruelse, kastar ljus över mycket, som
+<pb n="136"/>
+<lb/>hans hustru haft att utstå. Hon älskade en man, som
+<lb/>hon visste var sinnessjuk just på sinnelivets område,
+<lb/>och vars könshat hon kände som avigsidan av hans
+<lb/>kärlek. Ju hetare han tryckte henne till sitt hjärta,
+<lb/>dess starkare måste hon ha känt ångesten, att han
+<lb/>skulle strypa henne i sin kärleks övermått.</p>
+<p rend="indfirst">En gång fann jag honom i mycket upphetsad sin&#x00AD;
+<lb/>nesstämning, krampaktigt klamrande sig till sitt skriv&#x00AD;
+<lb/>bord i villan på Klampenborg.</p>
+<p rend="indfirst">— Hur är det med dig? frågade jag.</p>
+<p rend="indfirst">— Såg du henne? sade han.</p>
+<p rend="indfirst">— Vem?</p>
+<p rend="indfirst">— Min hustru. Hon gick nyss förbi mitt fönster.
+<lb/>Hon var i stass. Ska in till stan. Jag fick hålla mig
+<lb/>fast i bordet för att inte fara upp, störta efter henne
+<lb/>och göra mig löjlig.</p>
+<p rend="indfirst">Ingen utomstående kunde se det sinnesberusande
+<lb/>hos denna stackars lidande kvinna, som redan börjat
+<lb/>vissna. Strindberg älskade henne med sin egen sinnes&#x00AD;
+<lb/>sjuka lidelse. I sinnelivets lidande och lycka har också
+<lb/>hela hans vittra alstring sina rötter. Hans skaparkraft
+<lb/>var våldsam utlösning av övermänsklig känslostyrka.
+<lb/>Hans snille var, som krutets ande, bunden spräng&#x00AD;
+<lb/>kraft.</p>
+<p rend="indfirst">Vad är snille? De, som oftast leka med ordet,
+<pb n="137"/>
+<lb/>fatta sällan begreppet. Minst av allt är snille en lyck&#x00AD;
+<lb/>lig egenskap, som en rikt begåvad människa ständigt
+<lb/>går och bär på. Samma människa, som på natten gett
+<lb/>liv åt ett snillefoster, kan på morgonen tala salig
+<lb/>Dumboms språk och förefalla mindre kvick än Bileams
+<lb/>åsna. Snillet var hos Strindberg själva urladdningen
+<lb/>mellan två högspännskrafter, blixten av högsta klok&#x00AD;
+<lb/>het och högsta vanvett. När molnen skingrats, är luften
+<lb/>åter vardagligt blå.</p>
+<p rend="indfirst">Under mitt förtroliga umgänge med honom, blev
+<lb/>det mig mer och mer klart, att han led av en sinnes&#x00AD;
+<lb/>sjukdom, som tidtals gjorde honom otillräknelig. Men
+<lb/>det är bara i mycket enkla fall, som gränsen mellan
+<lb/>sinnessjukdom och sinneshälsa kan bestämmas med
+<lb/>ett kritstreck. Strindbergs sjukliga misstänksamhet var
+<lb/>samtidigt av utomordentligt skarpsinne. Han försvarade
+<lb/>sina tvångstankar med slående skäl, och hans hand&#x00AD;
+<lb/>lingar vittnade mestadels om underjordisk klokhet, ja
+<lb/>slughet. Mätt med den allmänna sedelagens längdmått
+<lb/>blir han obegriplig. Han var varken ond eller god —
+<lb/>bara en människa som kände livets orätt med sju mäns
+<lb/>styrka.</p>
+<p rend="indfirst">Sedan våra vägar skilts, möttes vi aldrig och väx&#x00AD;
+<lb/>lade inga brev. Men han mottog en hälsning från
+<lb/>mig genom de hyllningsord, jag ägnade honom i an&#x00AD;
+<lb/>ledning av uppropet, att till sextioårsdagen hedra honom
+<pb n="138"/>
+<lb/>med ett litet Nobelpris från handens och andens ar&#x00AD;
+<lb/>betare i Sverige.</p>
+<p rend="indfirst">Underrättelsen om hans död kom mig att känna,
+<lb/>hur tomt det blev i världen efter honom. Käre, sin&#x00AD;
+<lb/>nessjuke felfinnare, mycket av min egen ungdom gick
+<lb/>i graven med dig.</p>
+</div2>
+<pb n="139"/>
+<div2 rend="chapter" xml:id="Efterskrift">
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<head rend="chapterenumeration center">XII.</head>
+<head rend="chaptername center">Efterskrift.</head>
+<p><hi rend="decorInit">D</hi>en andliga utveckling, som stod bakom våra åttio&#x00AD;
+<lb/>talsförfattares strävan att lyfta sin dikt över jord&#x00AD;
+<lb/>bunden verklighetshärmning, har aldrig blivit klarlagd
+<lb/>av våra litteraturhistorieskrivare. Bengt Lidforss sökte
+<lb/>visa, att det var Georg Brandes »som gav signalen till
+<lb/>att utrymma de under åttiotalet intagna positionerna».
+<lb/>(»Gammal radikalism och ny» i »Utkast och Silhuetter».)
+<lb/>I en artikel, tryckt i »Aftontidningen» 9 juni 1910 (»Det
+<lb/>vittra decimalsystemet») sökte jag göra gällande, att
+<lb/>andliga rörelser oftast ha ett mindre militäriskt förlopp,
+<lb/>och att den längtan efter sol och luft, som i detta fall
+<lb/>var främsta förutsättningen, fanns hos flertalet av de på
+<lb/>80-talet mycket unga svenska författare, som vid mog&#x00AD;
+<lb/>nare år skrevo den svenska litteraturen under 90-talet.
+<lb/>Om Strindberg föllo orden så:</p>
+<p rend="indfirst">»Strindberg skapade redan under det, enligt nu
+<pb n="140"/>
+<lb/>gängse dogmatik, förhistoriska 70-talet »Mäster Olof»
+<lb/>och »Röda rummet»; hade för övrigt sitt enskilda nittiotal
+<lb/>med historisk diktning och fantasikonst redan under
+<lb/>åttiotalet. Åttiotalisterna Levertin, Geijerstam och Tor
+<lb/>Hedberg utvecklade sig med åren till typiska nittio&#x00AD;
+<lb/>talister, Selma Lagerlöf berättar i »Sagan om en saga»,
+<lb/>att Gösta Berling, innan han framträdde i sin roman&#x00AD;
+<lb/>tiska sagoskrud, haft ett realistiskt målbrottsstadium,
+<lb/>och Verner von Heidenstam har i den självdeklaration,
+<lb/>han lämnat sin jubelbiograf, erkänt sitt underjordiska
+<lb/>åttiotal. Frödings torde ligga begravet i Karlstads&#x00AD;
+<lb/>tidningen.</p>
+<p rend="indfirst">Den stora brytningen i vår vitterhet kom med
+<lb/>Strindberg i slutet av 70-talet. Sedan har, litteratur&#x00AD;
+<lb/>historiskt sett, ingenting hänt annat än vad som i logi&#x00AD;
+<lb/>ken brukar betecknas med termerna progress, kulmen
+<lb/>och regress.»</p>
+<p rend="indfirst">Med detta mitt uttalande råkade jag utan att ana
+<lb/>det in i den fejd, som två dagar tidigare inletts av
+<lb/>Strindberg själv med artikeln »Två konungar». Den
+<lb/>rasade länge med oerhörd våldsamhet och mynnade
+<lb/>året efter ut i ett upprop till insamling av en svenska
+<lb/>folkets hedersgärd åt Strindberg.</p>
+<p rend="indfirst">I likhet med flertalet av nittiotalets författare kände
+<lb/>jag snarast beklämning inför det mesta av Strind&#x00AD;
+<lb/>bergs senare alstring. Nu då stridslarmet kring hans
+<pb n="141"/>
+<lb/>namn tystnat, och lidelsernas lyktgubbar inte längre
+<lb/>dansa kring vart hans verk, är det lättare att se, var&#x00AD;
+<lb/>för. Han gav oss mestadels stenar i stället för bröd,
+<lb/>och vi krävde bröd av honom just därför, att vi innerst
+<lb/>bevarat så mycket av vår ungdoms beundran och kärlek
+<lb/>till den gamle mästaren.</p>
+<p rend="indfirst">Dagens Nyheter frågade: »Varför har Ni under&#x00AD;
+<lb/>tecknat Strindbergsuppropet». Mitt svar blev:</p>
+<p rend="indfirst">»<hi rend="spaced">Strindberg</hi> är banbrytarn, som röjt väg för
+<lb/>oss alla (även om jag läst mest av hans fel);</p>
+<p rend="indfirst"><hi rend="spaced">Strindbergs verk</hi> är, stort sett, det största i
+<lb/>vår nutida vitterhet (ehuru min beundran icke räcker
+<lb/>till för mer än en bråkdel);</p>
+<p rend="indfirst"><hi rend="spaced">Strindbergs andliga fysionomi</hi> har en
+<lb/>lidandets aura, som kastar ljus till och med över hans
+<lb/>snilles snedsprång, liksom det sanningslidelsens allvar,
+<lb/>varom hans drag bära vittne, försonar mig med hans
+<lb/>ivran, även i de fall, han icke övertygar mig om san&#x00AD;
+<lb/>ningen av vad han för tillfället kallar sanning.»</p>
+<p rend="indfirst">Dessa synpunkter utvecklade jag vidare i följande
+<lb/>uttalande, tryckt i <hi rend="spaced">Aftontidningen</hi> (6 april 1911).</p>
+<lb/>
+<p rend="center">Hedersgärden åt Strindberg.</p>
+<p rend="indfirst">I dessa dagar går en maning över landet om bidrag
+<lb/>till en hedersgåva, avsedd att överlämnas åt August
+<lb/>Strindberg nästinstundande födelsedag.</p>
+<pb n="142"/>
+<p rend="indfirst">Uppropet är fullkomligt sakligt avfattat. Meningen
+<lb/>har tydligen varit att lyfta denna handling av erkänsam&#x00AD;
+<lb/>het över dagens tvister. Diktarens gärning kännetecknas
+<lb/>med stillsamt starka ord, vilkas gällande kraft ingen
+<lb/>kan jäva, som med någon uppmärksamhet och kärlek
+<lb/>följt vår vitterhet under den mansålder, Strindbergs
+<lb/>diktning präglat med sitt någon gång leende, oftast
+<lb/>bistert lidelsefulla Protevsansikte.</p>
+<p rend="indfirst">Men denne diktare är än i dag, vid mannaårens
+<lb/>gräns, den stridens man han alltid varit, och han har
+<lb/>stritt i alla läger, dit överretad känslighet, rättfärdig&#x00AD;
+<lb/>hets- och sanningslidelse kunna driva en ivrare. Det
+<lb/>är mänskligt att många, som nyligen med glädje sett
+<lb/>hans mäktiga panna lyst av flammorna kring den läger&#x00AD;
+<lb/>eld, där de själva alltjämt hålla vakt, med harm sett
+<lb/>honom vända ryggen till skenet och försvinna i mörk&#x00AD;
+<lb/>ret. Veterligt har han aldrig heller väjt för att slå en
+<lb/>verklig eller inbillad fiende, som nyss var hans vän,
+<lb/>och ofta har han i sin blinda vrede brukat vapen,
+<lb/>som blodat hans egna händer. Det är mänskligt, att
+<lb/>de som sårats, i hastigt mod slå igen. Men för den
+<lb/>skull höves det ingen att förneka eller söka förringa
+<lb/>August Strindbergs livsgärning.</p>
+<p rend="indfirst">Att erkänna den är varken att blint beundra vart
+<lb/>hans verk eller bifalla varje hans minsta handling. Det
+<lb/>är bara att se stort på det som är stort.</p>
+<pb n="143"/>
+<p rend="indfirst">Hans hågvändningar ha varit många och över&#x00AD;
+<lb/>raskande, men mot sig själv var han alltid ärlig, och
+<lb/>någon annans fana har han aldrig svurit. Han var all&#x00AD;
+<lb/>tid hövding själv, även när han gick ensam. Vilden går
+<lb/>dit den inre rösten kallar och handlar som instinkten
+<lb/>bjuder: däri ligger både hans styrka och hans svag&#x00AD;
+<lb/>het. En sådan man blir alltid farlig, därigenom att han
+<lb/>icke, som alla andra, inskränker sina strövtåg till den
+<lb/>antagna stadsplanens stråkvägar, utan ofta hänsyns&#x00AD;
+<lb/>löst trampar mitt i rabatterna. Inhägnader gälla icke
+<lb/>för honom, helt enkelt därför, att han inga hinder
+<lb/>känner.</p>
+<p rend="indfirst">Lika hänsynslöst växer Strindbergs diktning ge&#x00AD;
+<lb/>nom 70-, 80-, 90-, 00- och 10-talens vedertagna
+<lb/>årsringar. Hans vilda vinghäst hoppar i ett enda skutt
+<lb/>genom alla det vittra decimalsystemets pappersklistrade
+<lb/>tunnband, otillgänglig för litteraturskolmästarnes klass&#x00AD;
+<lb/>indelning.</p>
+<p rend="indfirst">Sedelärarn, som med väpnat öga bit för bit gran&#x00AD;
+<lb/>skar hans väldiga verk och fördömer ovederhäftigheten i
+<lb/>dessa och dessa uppgifter, raseriet i dessa och dessa
+<lb/>anfall på levande och döda, kan icke nog förundra
+<lb/>sig över missgärningsmannens obestridliga folkgunst;
+<lb/>ty för närsyntheten förblir all storhet oöverskådlig.</p>
+<p rend="indfirst">Strindberg har alltid haft sin lust i att säga ordet
+<lb/>som icke får sägas. När det blev mycket kvavt, var
+<pb n="144"/>
+<lb/>han åskvädret, som rensade luften. Blixt och dunder
+<lb/>verkade alltid bländande och befriande, även om vi
+<lb/>icke längre tro, att allvisheten själv därmed förkunnar
+<lb/>någon evig sanning.</p>
+<p rend="indfirst">När ett åskväder rasat ut, brinna många gårdar
+<lb/>i landet, men den väldiga kraft, som tände dem, inger
+<lb/>därför icke mindre beundran.</p>
+<p rend="indfirst">På en liknande värdesättning grundar sig uppen&#x00AD;
+<lb/>bart Strindbergs folkgunst. Folket anar i honom sin
+<lb/>största andliga kraft. Och bakom honom skönja vi en
+<lb/>alstring, vars like i omfång vår svenska odlings hi&#x00AD;
+<lb/>storia aldrig förr kunnat uppvisa — en blånande
+<lb/>bergskedja med många toppar, bländande vita av
+<lb/>evig snö. Men blott i sagorna äro bergen alltig ge&#x00AD;
+<lb/>nom av guld.</p>
+<p rend="indfirst">August Strindberg har skänkt sitt folk verk som
+<lb/>sent skola vittra, hur vind och väder än må skifta i
+<lb/>vitterhetens värld. I sin diktarkrafts lyckligaste ögon&#x00AD;
+<lb/>blick når han rymder, där alla skolbeteckningar mista
+<lb/>sin giltighet. Ord som realism och idealism ha alltid
+<lb/>en begränsad innebörd, som ingen tillämplighet äger
+<lb/>på verk av första, ordningen; ty storhet har alla di&#x00AD;
+<lb/>mensioner.</p>
+<p rend="indfirst">Så högt når ingen utan kostsamma insatser av
+<lb/>kraft och personlighet. Och om August Strindberg
+<lb/>gäller säkert mer än om andra diktare, att pärlan föds
+<pb n="145"/>
+<lb/>av musslans sjukdom. Många av hans verk äro skri,
+<lb/>som övermänskligt lidande avtvingat honom. Han har
+<lb/>icke endast skrivit Inferno. Han var där.</p>
+<p rend="indfirst">För den skull blir hans livsgärning varken större
+<lb/>eller mindre än den är i och för sig. Men att han lidit
+<lb/>mycket förtjänar att stå till minnes; ty så länge en dik&#x00AD;
+<lb/>tare lever, döma vi honom alltför lätt efter vad vi veta
+<lb/>eller tro oss veta om hans person. Ofta stirra vi oss
+<lb/>blinda på hans födslomärken, sår och ärr. Allt för
+<lb/>ofta se vi honom ur våra egna fördomars synvinkel.
+<lb/>En oss osympatisk gestalt kan då skymma det största
+<lb/>livsverk, en sympatisk kan synas oss stor utan något
+<lb/>betydande livsverks bakgrund. Först när döden fällt
+<lb/>gestalten, se vi klart.</p>
+<p rend="indfirst">Men då varsna vi omedelbart tomrummet, som
+<lb/>en andens storman lämnat efter sig, och vår kärlek
+<lb/>flammar aldrig högre, än när den icke längre kan nå
+<lb/>honom.</p>
+<p rend="indfirst">Låt oss för en enda gång visa tacksamhet i hand&#x00AD;
+<lb/>ling, medan ännu dag är. Ingen vet, när natten kom&#x00AD;
+<lb/>mer, då vår gåva icke längre når fram.</p>
+<p rend="indfirst">Några månader efter det hedersgåvan överlämnats
+<lb/>till Strindberg, på hans födelsedag den 22 jan. 1912,
+<lb/>var han död. Begravningsdagen offentliggjorde
+<lb/><hi rend="spaced">Aftontidningen</hi> mitt farväl till hans stoft:</p>
+<pb n="146"/>
+<div3 rend="lyrik">
+<head rend="center">Bortom sista grinden.</head>
+<lg rend="ind4"><lg><l>Nyss kom budet: Siarn</l>
+<l>lagt sitt brinnande huvud till ro;</l>
+<l>har somnat i sin barndoms tro,</l>
+<l>välsignande befriarn.</l></lg>
+<lb/>
+<lg><l>Jag andas djupt och säger</l>
+<l>mig själv: hans arbetsdag var slut.</l>
+<l>Vad mer? Men smärtan väger</l>
+<l>tungt. Jag måste ha luft. Jag går ut.</l></lg>
+<lb/>
+<lg><l>Vandrar vanda stigen</l>
+<l>uppåt, mot bergets kam,</l>
+<l>skymtar grönt, där jag går fram,</l>
+<l>anar fågelkvitter.</l>
+<l>Glitter, glitter, glitter!</l></lg>
+<lb/>
+<lg><l>Solfallsglansen flammar</l>
+<l>våldsamt mot skogens stammar.</l>
+<l>Furan står feberröd.</l>
+<l>Inom mig hör jag ständigt samma</l>
+<l>stämma stamma:</l>
+<l><hi rend="spaced">Strindberg är död</hi>.</l></lg>
+<lb/>
+<lg><l>Jag vänder mig. Ögat speglar</l>
+<l>själlöst solnedgångsljuset.</l>
+<pb n="147"/>
+<l>Djupt under brinken seglar</l>
+<l>genom solvägens glöd</l>
+<l>Visingsö</l>
+<l>i sin sjö.</l>
+<l>Som i en dröm förnimmer jag</l>
+<l rend="ind7">vildduvans kuttrande.</l>
+<l>Inom mig hör jag, som ett fruset</l>
+<l>entonigt huttrande</l>
+<l>ständigt samma</l>
+<l>stämma stamma:</l>
+<l><hi rend="spaced">Strindberg är död</hi>.</l></lg>
+<lb/>
+<lg><l>Stirrande stint, som en nyligen vaknad,</l>
+<l>knyter jag hand mot min egen saknad,</l>
+<l>säger mig åter på trots: Vad mer?</l>
+<l>Hararne vitna, som du ser,</l>
+<l>var vinter. Livet skiftar skenbart.</l>
+<l>Men dess färg är icke enbart</l>
+<l>varken vit eller röd:</l>
+<l><hi rend="spaced">Strindberg är icke död</hi>!</l></lg>
+<lb/>
+<lg><l>Därmed går jag vidare, vänder</l>
+<l>hemåt. Mellan al och björk</l>
+<l>ringlar stigen utför. Mörk</l>
+<l>reser sig åsen mot himmelsranden,</l>
+<pb n="148"/>
+<l>Bakom och över skogens bryn</l>
+<l>svinner solen och tänder</l>
+<l>eld i den svävande, svarta skyn.</l>
+<l>Där, i ljuset från himmelsbranden,</l>
+<l>ser jag en syn.</l></lg>
+<lb/>
+<lg><l>Utmed vägen bortom sista grinden</l>
+<l>böljar en oändlig människovåg.</l>
+<l>Röda fanor vaja i vårkvällsvinden</l>
+<l>över en skamfilad kista,</l>
+<l>som av ett folk i högtidligt tåg</l>
+<l>vaktas in i det sista.</l></lg>
+<lb/>
+<lg><l>Buret högt på starka unga</l>
+<l>skuldror, stiger ett stoft mot skyn</l>
+<l>— skyn, som tänts över skogens bryn —</l>
+<l>medan sorgtunga</l>
+<l>stämmor sjunga:</l></lg>
+<lb/>
+<lg><l>»Diktare, i livet våra tankars bärare,</l>
+<l>tidsandans lunga,</l>
+<l>de förtrycktes talande tunga,</l>
+<l>folkets själ, i döden oss ännu kärare!</l>
+<l>Hell dig! Du har vridit</l>
+<l>dina händer, du som vi,</l>
+<l>du har älskat, du har lidit,</l>
+<l>hatat, syndat, du som vi;</l>
+<pb n="149"/>
+<l>ty du var i ont som gott</l>
+<l>svensk, om än av större mått</l>
+<l>än de fleste av oss.</l>
+<l>Tack för allt, du gav oss!</l></lg>
+<lb/>
+<lg><l>I en tid av mycket ljugande</l>
+<l>blev du sanningskravet, som gnisslade.</l>
+<l>I en tid av mycket bugande</l>
+<l>blev du rackarn, som gisslade.</l>
+<l>I en värld av lättlynt gycklande</l>
+<l>ljumhet, feghet, lamhet, hycklande,</l>
+<l>blev ditt blanka ord som stålet</l>
+<l>blixtrande mot målet.</l></lg>
+<lb/>
+<lg><l>Biktare! Att nöden dig</l>
+<l>skulle följa som skuggan, var givet.</l>
+<l>Diktare! Varde döden dig</l>
+<l>blidare än livet!</l></lg>
+<lb/>
+<lg><l>Mellertid gick solen ned.</l>
+<l>Men i västerled</l>
+<l>flammade ännu bålet, som tänts</l>
+<l>kring den ensamma skyn,</l>
+<l>just som hade en hövding bränts</l>
+<l>i världsrymden över hemlandsskogens bryn.</l></lg></lg>
+<lb/>
+<figure rend="center"><graphic url="/bilder/ornament/littornbar.svg"/></figure>
+<!-- ornament här -->
+</div3>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

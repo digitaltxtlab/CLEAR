@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- $Id: lb2040506-etext-workdb.xml 123342 2015-12-12 11:31:25Z slaca $ -->
+<LBwork version="1.2.2">
+  <lbworkid>lb2040506</lbworkid>
+  <librisid>2040506</librisid>
+  <mediatype>etext</mediatype>
+  <authorid>BoyeK</authorid>
+  <titleid>Astarte</titleid>
+  <title>Astarte</title>
+<texttype>roman</texttype>
+
+  <provenance>
+    <signum>Litt Sv</signum>
+    <library>GUB</library>
+  </provenance>
+  <startpagename>3</startpagename>
+  <endpagename>235</endpagename>
+  <sourcedesc>Prisbelönad i den stora nordiska romanpristävlan. Stockholm. Albert Bonniers förlag. 1931
+
+   <errata><table><tr><td>144</td><td>lust och ektas – lust och extas </td></tr></table></errata>
+
+   </sourcedesc>
+  <imported>2012-01-16</imported>
+  <work-updated>2012-04-05</work-updated>
+  <workdb-updated>2015-12-12</workdb-updated>
+  <show>true</show>
+  <publisher>
+    <name>Albert Bonniers förlag</name>
+    <place>Stockholm</place>
+    <country>SE</country>
+  </publisher>
+  <imprintyear>1931</imprintyear>
+  <edition>1</edition>
+  <language>swe</language>
+  <searchable>true</searchable>
+  <proofread>true</proofread>
+   <fraktur>false</fraktur>
+  <printed>true</printed>
+  <modernized>false</modernized>
+  <license>cc-by-nc-sa</license>
+ <epub>
+    <license>cc-by-nc-sa</license>
+  </epub>
+  <part>
+    <titleid>Presentation</titleid>
+    <title>Presentation</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>5</startpagename>
+    <endpagename>18</endpagename>
+  </part>
+  <part>
+    <titleid>Ylle</titleid>
+    <title>Ylle</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>19</startpagename>
+    <endpagename>28</endpagename>
+  </part>
+  <part>
+    <titleid>RiltunaVäxer</titleid>
+    <title>Riltuna växer</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>29</startpagename>
+    <endpagename>40</endpagename>
+  </part>
+  <part>
+    <titleid>VitaMöbler</titleid>
+    <title>Vita möbler</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>41</startpagename>
+    <endpagename>50</endpagename>
+  </part>
+  <part>
+    <titleid>Chimären</titleid>
+    <title>Chimären</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>51</startpagename>
+    <endpagename>64</endpagename>
+  </part>
+  <part>
+    <titleid>Illusion</titleid>
+    <title>Illusion</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>65</startpagename>
+    <endpagename>74</endpagename>
+  </part>
+  <part>
+    <titleid>EnHeltAnnanVärld</titleid>
+    <title>En helt annan värld</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>75</startpagename>
+    <endpagename>88</endpagename>
+  </part>
+  <part>
+    <titleid>Sakrament</titleid>
+    <title>Sakrament</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>89</startpagename>
+    <endpagename>102</endpagename>
+  </part>
+  <part>
+    <titleid>FramåtUppåt</titleid>
+    <title>Framåt - uppåt</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>103</startpagename>
+    <endpagename>114</endpagename>
+  </part>
+  <part>
+    <titleid>TageRäddad</titleid>
+    <title>Tage räddad</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>115</startpagename>
+    <endpagename>126</endpagename>
+  </part>
+  <part>
+    <titleid>Spetsar</titleid>
+    <title>Spetsar</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>127</startpagename>
+    <endpagename>140</endpagename>
+  </part>
+  <part>
+    <titleid>EldenOchAltaret</titleid>
+    <title>Elden och altaret</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>141</startpagename>
+    <endpagename>150</endpagename>
+  </part>
+  <part>
+    <titleid>ÅrtusendenBärFrukt</titleid>
+    <title>Årtusenden bär frukt</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>151</startpagename>
+    <endpagename>162</endpagename>
+  </part>
+  <part>
+    <titleid>Invigning</titleid>
+    <title>Invigning</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>163</startpagename>
+    <endpagename>174</endpagename>
+  </part>
+  <part>
+    <titleid>GåUnder</titleid>
+    <title>Gå under?</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>175</startpagename>
+    <endpagename>184</endpagename>
+  </part>
+  <part>
+    <titleid>NaturligtUrval</titleid>
+    <title>Naturligt urval</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>185</startpagename>
+    <endpagename>196</endpagename>
+  </part>
+  <part>
+    <titleid>GenomPrövningen</titleid>
+    <title>Genom prövningen</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>197</startpagename>
+    <endpagename>206</endpagename>
+  </part>
+  <part>
+    <titleid>Siden</titleid>
+    <title>Siden</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>207</startpagename>
+    <endpagename>220</endpagename>
+  </part>
+  <part>
+    <titleid>DenVitaDrömmen</titleid>
+    <title>Den vita drömmen</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>221</startpagename>
+    <endpagename>233</endpagename>
+  </part>
+  <part>
+    <titleid>Innehåll</titleid>
+    <title>Innehåll</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>innehållsförteckning</texttype>
+    <startpagename>235</startpagename>
+    <endpagename>235</endpagename>
+  </part>
+</LBwork>

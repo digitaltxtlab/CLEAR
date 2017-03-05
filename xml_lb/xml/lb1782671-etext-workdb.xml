@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- $Id$ -->
+
+<LBwork version="1.2.2">
+   <lbworkid>lb1782671</lbworkid>
+   <librisid>1782671</librisid>
+   <mediatype>etext</mediatype>
+   <authorid>OlssonHagar</authorid>
+   <titleid>MrJeremias</titleid>
+   <title>Mr Jeremias söker en illusion</title>
+   <shorttitle>Mr Jeremias söker en illusion</shorttitle>
+   <sortkey>Mr Jeremias söker en illusion</sortkey>
+<texttype>roman</texttype>
+<keyword>Finlandssvenskt</keyword>
+<!-- <authorkeyword></authorkeyword> -->
+<!-- <picture></picture> -->
+<!-- <pictureinfo></pictureinfo> -->
+
+<provenance>
+    <library>GUB</library>
+</provenance>
+<provenance>
+    <library>SLS</library>
+</provenance>
+<!-- <workintro></workintro> -->
+      <startpagename>3</startpagename>
+      <endpagename>105</endpagename>
+   <sourcedesc>Helsingfors. Holger Schildts förlag. 1926
+
+   <errata/>
+
+   </sourcedesc>
+<imported>2016-01-25</imported>
+<work-updated>2016-01-25</work-updated>
+<workdb-updated>2016-01-27</workdb-updated>
+    <show>true</show>
+    <publisher>
+       <name>Holger Schildts förlag</name>
+       <place>Helsingfors</place>
+       <country>FI</country>
+    </publisher>
+<imprintyear>1926</imprintyear>
+  <edition>1</edition>
+  <language>swe</language>
+<searchable>true</searchable>
+<proofread>true</proofread>
+<fraktur>false</fraktur>
+<printed>true</printed>
+<modernized>false</modernized>
+
+<license>lb-2-20120306</license>
+  <epub>
+    <license>lb-2-20120306</license>
+  </epub>
+
+
+
+<part>
+<titleid>JeremiasLäserTidn</titleid>
+<title>1. Jeremias läser tidningar och gör några frågor</title>
+<navshow>true</navshow>
+<listshow>none</listshow>
+<texttype>kapitel</texttype>
+<startpagename>7</startpagename>
+<endpagename>32</endpagename>
+</part>
+
+<part>
+<titleid>JeremiasFärdasPåLandsväge</titleid>
+<title>2. Jeremias färdas på landsvägen</title>
+
+<navshow>true</navshow>
+<listshow>none</listshow>
+<texttype>kapitel</texttype>
+<startpagename>33</startpagename>
+<endpagename>44</endpagename>
+</part>
+
+<part>
+<titleid>JeremiasVaknarDansUneDeSe</titleid>
+<title>3. Jeremias vaknar dans une de ses humeurs noires och finner en annons</title>
+
+<navshow>true</navshow>
+<listshow>none</listshow>
+<texttype>kapitel</texttype>
+<startpagename>45</startpagename>
+<endpagename>58</endpagename>
+</part>
+
+<part>
+<titleid>DenTredjeJeremiasHäpnarÖv</titleid>
+<title>4. Den tredje Jeremias häpnar över sig själv</title>
+
+<navshow>true</navshow>
+<listshow>none</listshow>
+<texttype>kapitel</texttype>
+<startpagename>59</startpagename>
+<endpagename>76</endpagename>
+</part>
+
+<part>
+<titleid>JeremiasSerISpegelnEttFrä</titleid>
+<title>5. Jeremias ser i spegeln ett främmande ansikte</title>
+
+<navshow>true</navshow>
+<listshow>none</listshow>
+<texttype>kapitel</texttype>
+<startpagename>77</startpagename>
+<endpagename>91</endpagename>
+</part>
+
+<part>
+<titleid>JeremiasFårEttBrådskandeT</titleid>
+<title>6. Jeremias får ett brådskande telegram!</title>
+
+<navshow>true</navshow>
+<listshow>none</listshow>
+<texttype>kapitel</texttype>
+<startpagename>92</startpagename>
+<endpagename>101</endpagename>
+</part>
+
+<part>
+<titleid>Aeroplanet</titleid>
+<title>7. Aeroplanet</title>
+<navshow>true</navshow>
+<listshow>none</listshow>
+<texttype>kapitel</texttype>
+<startpagename>102</startpagename>
+<endpagename>104</endpagename>
+</part>
+
+<part>
+<titleid>Innehåll</titleid>
+<title>Innehåll</title>
+<navshow>true</navshow>
+<listshow>none</listshow>
+<texttype>innehållsförteckning</texttype>
+<startpagename>105</startpagename>
+<endpagename>105</endpagename>
+</part>
+
+
+</LBwork>

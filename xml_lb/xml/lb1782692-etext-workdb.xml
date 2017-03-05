@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- $Id$ -->
+
+<LBwork xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="file:/Users/alfalfa/Litteraturbanken/littb-repositorium/red/etc/xsd/LBwork.xsd"
+ version="1.2.2">
+   <lbworkid>lb1782692</lbworkid>
+   <librisid>1782692</librisid>
+   <mediatype>etext</mediatype>
+   <authorid>OlssonHagar</authorid>
+   <titleid>KvinnanOchNåden</titleid>
+   <title>Kvinnan och nåden</title>
+   <shorttitle>Kvinnan och nåden</shorttitle>
+   <sortkey>Kvinnan och nåden</sortkey>
+<texttype>roman</texttype>
+<keyword>Finlandssvenskt</keyword>
+<!-- <authorkeyword></authorkeyword> -->
+<!-- <picture></picture> -->
+<!-- <pictureinfo></pictureinfo> -->
+
+<provenance>
+    <library>GUB</library>
+</provenance>
+<provenance>
+    <library>SLS</library>
+</provenance>
+<!-- <workintro></workintro> -->
+      <startpagename>3</startpagename>
+      <endpagename>73</endpagename>
+   <sourcedesc>Stockholm. Albert Bonniers förlag. 1919
+
+   <errata>
+   <table>
+   <tr><td>25</td><td>skrämde henne icke längre, - skrämde henne icke längre.</td></tr>
+   </table>
+   </errata>
+
+   </sourcedesc>
+<imported>2016-01-25</imported>
+<work-updated>2016-01-25</work-updated>
+<workdb-updated>2016-01-27</workdb-updated>
+    <show>true</show>
+    <publisher>
+       <name>Albert Bonniers förlag</name>
+       <place>Stockholm</place>
+       <country>SE</country>
+    </publisher>
+<imprintyear>1919</imprintyear>
+  <edition>1</edition>
+  <language>swe</language>
+<searchable>true</searchable>
+<proofread>true</proofread>
+<fraktur>false</fraktur>
+<printed>true</printed>
+<modernized>false</modernized>
+
+<license>lb-2-20120306</license>
+  <epub>
+    <license>lb-2-20120306</license>
+  </epub>
+
+</LBwork>

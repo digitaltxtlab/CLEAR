@@ -1,0 +1,3403 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="littbank_KORRPRINT.css" ?>
+<!-- $Id: lb1439322.xml 123307 2015-12-11 08:58:01Z slaca $ -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:lb="http://litteraturbanken.se/ns/nonTEI" xmlns:its="http://www.w3.org/2005/11/its">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text xml:id="lb1439322">
+<front>
+
+
+<div1 rend="center" type="smutstitelsida">
+<pb n="1"/>
+<p rend="between1"><hi rend="i">DAN ANDERSSON</hi></p>
+<lb/>
+<lb/>
+<p rend="big between2">CHI-MO-KA-MA</p>
+
+
+<pb n="2"/><!-- blanksida -->
+<lb/>
+<lb/>
+<lb/>
+<figure rend="center"><graphic url="/bilder/ornament/littblank.svg"/></figure>
+</div1>
+<div1 rend="center" type="titelsida">
+<pb n="3"/>
+<div2 type="titleAuthorBlock">
+<p rend="big title">CHI-MO-KA-MA</p>
+<lb/>
+<lb/>
+<p rend="title_subTitle">BERÄTTELSER FRÅN NORRA AMERIKA</p>
+<lb/>
+<lb/>
+<p rend="between3">AV</p>
+<lb/>
+<lb/>
+<p rend="spaced author"><hi rend="i">DAN ANDERSSON</hi></p>
+</div2>
+<lb/>
+<!-- logga här -->
+<div2 type="logotyp">
+<lb/>
+<lb/>
+<p><figure><graphic url="/txt/lb1439322/ande01_chimok01_001.jpg"/></figure></p>
+<lb/>
+<lb/>
+</div2>
+
+<div2 type="pubBlock">
+<p rend="publisherPlace">STOCKHOLM</p>
+<p><lb:separator content="_" count="20"/></p>
+<p rend="spaced publisher">ALBERT BONNIERS FÖRLAG</p>
+</div2>
+</div1>
+
+<div1 rend="center" type="tryckortssida">
+<pb n="4"/>
+<p rend="small imprinter">STOCKHOLM. ALB. BONNIERS BOKTRYCKERI 1920</p>
+</div1>
+</front>
+
+
+<body>
+<div1>
+<div2 type="chapter" xml:id="Kap01">
+<pb n="5"/>
+<head rend="big center chaptername">I.</head>
+<lb/>
+<p rend="indfirst">Jag var ännu en yngling, när jag första
+<lb/>gången träffade indianen Charlie Day, alias
+<lb/>Röda Suggan, vilket namn han fått av ny&#x00AD;
+<lb/>byggarna vid Rice Lake, som ligger ungefär i
+<lb/>centrum av järnvägstriangeln Brainerd–Duluth
+<lb/>– Bemidji, alldeles som i en väldig ask, med
+<lb/>norra Minnesotas klarblå himmel till lock.
+<lb/>Han kittlade mig under hakan med gevärs&#x00AD;
+<lb/>mynningen, inte fientligt alls, utan leende som
+<lb/>en nymåne, och frågade på dålig engelska
+<lb/>vems son jag var, var jag ägde fader och
+<lb/>moder och i vems sällskap jag jagade. Han
+<lb/>var som de övriga försupna, förfallna in&#x00AD;
+<lb/>dianerna, villig att mörda vilken vit som helst
+<lb/>för brännvin. Men det sade han inte. Han
+<lb/>påstods ha mördat tre gånger i sitt liv, för
+<lb/>jaktmarkens skull, som svenskarna och tyskarna
+<lb/>naturligtvis förstört. Vartill han hatade den
+<lb/>av statens landkontor utsedde skogvaktaren
+<lb/>med allt hat som kan döljas under en chippe&#x00AD;
+<pb n="6"/>
+<lb/>was leende, och var besluten att mörda honom.
+<lb/>Skogvaktaren, eller gamewarden, som han egent&#x00AD;
+<lb/>ligen kallades, brukade därför högst sällan låta
+<lb/>någon veta, att han innehade denna befatt&#x00AD;
+<lb/>ning.</p>
+<p rend="indfirst">Well, jag svarade med att visa mekanismen
+<lb/>på mitt gevär, som var en fyrtiofyra-Wessen,
+<lb/>varpå han drog sig tillbaka, leende ännu efter&#x00AD;
+<lb/>tryckligare, det vill säga, han steg baklänges
+<lb/>för att betrakta mig närmare. Han frågade
+<lb/>mig om jag ville köpa hans kanot, men jag
+<lb/>ville inte. Till sist kom det fram, visste jag
+<lb/>vem gamewarden var?</p>
+<p rend="indfirst">Nej, då, det visste jag inte. Varpå han för&#x00AD;
+<lb/>svann.</p>
+<p rend="indfirst">En dag söp han så mycket brännvin, att
+<lb/>han glömde hämta de hästar vid Madens
+<lb/>timmer-camp han var skickad efter och styrde
+<lb/>kurs på svensken Hedstroms blockhus med
+<lb/>sitt gula brännvinskrus i ena handen och ge&#x00AD;
+<lb/>väret i den andra. På den tiden bodde jag
+<lb/>hos Hedstrom.</p>
+<p rend="indfirst">När han kom upp till stockstängslet stannade
+<lb/>han och tittade. På gården stod Hedstrom i
+<lb/>egen person och plockade dunen av en rapp&#x00AD;
+<lb/>höna, varav Röda Suggan slöt att Hedstrom
+<lb/>jagade på olovlig tid. Åter igen av denna om&#x00AD;
+<lb/>ständighet slöt han, att Hedstrom inte kunde
+<pb n="7"/>
+<lb/>vara gamewarden. Därför sköt han honom
+<lb/>inte bakifrån, utan hoppade över stockstängslet
+<lb/>och gick fram och hälsade på engelska.</p>
+<p rend="indfirst">Hedstrom vände fram ett brunt och glatt
+<lb/>skinande ansikte. Han synade indianens gummi&#x00AD;
+<lb/>skor med ett gillande leende.</p>
+<p rend="indfirst">– Oh, see, by Cripes allmighty – hela juggen
+<lb/>med whisky, but var you got them fine rub&#x00AD;
+<lb/>bers?</p>
+<p rend="indfirst">– Dom var äkta Golden Seal agent i Aitkin
+<lb/>sälja, men vet du vem är gamewarden detta år?</p>
+<p rend="indfirst">– Såå, på det viset, sätt dig en stund, gosse,
+<lb/>jaså, du vill ha reda på skogvaktaren du –
+<lb/>hm, jag ska gå in och fråga pojken, han kanske
+<lb/>vet.</p>
+<p rend="indfirst">Han gick fort bort från indianen, som hukat
+<lb/>sig ned på en huggklump, och kom in i block&#x00AD;
+<lb/>huset, där jag satt och laddade patroner.</p>
+<p rend="indfirst">– Röda Suggan är på vedbacken, sade han
+<lb/>lågmält. Han vill tala med den <hi rend="i">chi-mo-ka-ma,</hi><ptr target="#n1" n="*"/>
+<lb/>som vaktar skogen. Han är full och har ge&#x00AD;
+<lb/>väret. Gå ut och skjut honom så betalar jag
+<lb/>en <hi rend="i">dime,</hi> tillade han skrattande.</p>
+<p rend="indfirst">Vi gingo ut, men indianen var försvunnen.
+<lb/>Och eftersom vi visste att Fred Nelson var
+<lb/>gamewarden, beslöto vi oss för att gå dit och
+<lb/>titta om Suggan gått dit. Ty Fred skötte sin
+
+<note xml:id="n1" n="*" place="foot" rend="small">= vit man.</note>
+<pb n="8"/>
+<lb/>syssla som jaktuppsyningsman som en hel
+<lb/>karl, det vill säga, han köpte upp allt vilt vi
+<lb/>sköt på förbjuden tid, och sålde det i Tamrack,
+<lb/>så att han var bra att ha kvar.</p>
+<p rend="indfirst">Freds farm låg en bit uppåt Pond River, där
+<lb/>den flyter genom de vildaste skogar. Den har
+<lb/>under tidernas lopp grävt sig en djup dal
+<lb/>genom sanden och är nästan torr under hög&#x00AD;
+<lb/>sommaren, då man kan fiska med bara hän&#x00AD;
+<lb/>derna i gölarna. Vid högvatten kan man med
+<lb/>framgång meta lax där.</p>
+<p rend="indfirst">I närheten av Freds homestead, som låg ett
+<lb/>stenkast från floden, fanns en <hi rend="i">saltlick,</hi> som
+<lb/>indianerna ursprungligen besuttit, men som en
+<lb/>oförskämd tysk timmerhandlare övertagit med
+<lb/>våld. En saltlick är bara litet salt nedgrävt i
+<lb/>marken, så att hjortar och rådjur kunna gå
+<lb/>dit och slicka, samt en ställning i ett träd i
+<lb/>närheten att sitta i och skjuta dem, när de
+<lb/>söka efter saltet.</p>
+<p rend="indfirst">Tysken hette Holman eller något sådant, och
+<lb/>tänkte ursprungligen stjäla bort hela Kanada,
+<lb/>men efter sedan han en gång kört bort en in&#x00AD;
+<lb/>dian från ännu en saltlick, stal han inte vidare.
+<lb/>Han skulle stiga i en liten kanot och paddla
+<lb/>över till Island of the Devils, där han nyss
+<lb/>lyckligen hängt upp tre råbockar i en ek,
+<lb/>men han hann bara sätta ena foten i båten,
+<pb n="9"/>
+<lb/>när en stålmantlad kom och kysste hans
+<lb/>röda och skalliga huvud bakom ett av hans
+<lb/>stora öron. Han föll i kanoten, och Hedstrom,
+<lb/>som stod och såg på, sade att han liknade en
+<lb/>gris.</p>
+<p rend="indfirst">Well, vi kom fram till Freds nybygge klockan
+<lb/>sex och det syntes inte till någon drucken
+<lb/>indian där, och insen annan heller, för resten.
+<lb/>Vi sköt ett skott, men ingen tittade ut, vi
+<lb/>knackade på den bommade dörren, men ingen
+<lb/>svarade. Hedstrom trodde då att Fred redan
+<lb/>mördats, fast han hade inget skäl att tro det.
+<lb/>Jag, som alltid skämtade vid kritiska tillfällen,
+<lb/>för att inbilla de andra att jag var kallblodig,
+<lb/>sade att han möjligen gått och hängt sig av
+<lb/>fruktan att bli skjuten. Hedstrom svor och
+<lb/>hoppade upp på väggstocken under fönstret
+<lb/>och tittade in.</p>
+<p rend="indfirst">– Han sover fyllan av sej eller också är
+<lb/>han död, sade han lugnt. Sedan bröt vi loss
+<lb/>fönstret och kröp in.</p>
+<p rend="indfirst">Fred sov verkligen, men inte i sängen utan
+<lb/>på golvet, med rocken om huvudet. Vi väckte
+<lb/>honom, varvid han en stund stirrade på oss
+<lb/>som om han övervägt fördelen av begagna tälj&#x00AD;
+<lb/>kniven, som låg helt nära hans armbåge, varpå
+<lb/>han beslöt sig för att i stället gäspa. Hans
+<pb n="10"/>
+<lb/>skäggiga blonda ansikte var något blekt och
+<lb/>urlakat.</p>
+<p rend="indfirst">Vi sade honom att Röda Suggan var på
+<lb/>krigsstigen och ville ta hans skalp, varåt han
+<lb/>fnyste föraktfullt och tankspritt.</p>
+<p rend="indfirst">När vi ingående berättat alla nyheterna för
+<lb/>honom stövlade han upp och började koka
+<lb/>kaffe. Han påstod att en viss Mygarrvu varit
+<lb/>där och narrat honom att koka choke cherrys
+<lb/>i mjölk och blanda det i whiskyn, därför att
+<lb/>det skulle vara bra mot kopporna. De hade
+<lb/>kommit på det när de druckit en timme, och
+<lb/>ingen av dem hade kommit att tänka på, att
+<lb/>det inte gjorde något gott, när ingen hade
+<lb/>kopporna. Fred sade att han gett Mygarrvu
+<lb/>fem slags droppar som han köpt på ett apotek
+<lb/>i Carlton, och Mygarrvu hade druckit ur allt&#x00AD;
+<lb/>sammans och fått kolik så att Fred måst smeta
+<lb/>ut det sista av sin franska senap på näsduken
+<lb/>och lägga det på Mygarrvus mage, varvid den
+<lb/>sjuke hade vrålat ännu värre. Till sist hade
+<lb/>bägge somnat, och Fred kunde inte minnas
+<lb/>om han sett Mygarrvu gå eller ej.</p>
+<p rend="indfirst">– Fy för fadren, fortsatte Fred spottande,
+<lb/>en är som vilda djur i skogarna, när det kom&#x00AD;
+<lb/>mer en fattig djävul som är lika dum som en
+<lb/>själv och hälsar på en har en ingenting att
+<lb/>språka om, ingenting att skratta åt, en bara
+<pb n="11"/>
+<lb/>fyller sej så fort en kan för å glömma bort
+<lb/>hur egentligen tjyvtjockt en har det. Ett kvinn&#x00AD;
+<lb/>folk har jag inte sitt på sju veckor, om jag
+<lb/>undantar squaws, å dom liknar ju mest tattare
+<lb/>nu för tiden, och lika farligt är det å ha något
+<lb/>med dom å göra.</p>
+<p rend="indfirst">Han berättade därefter åtskilliga små historier
+<lb/>om små kärleksaffärer, med den mystiskt hän&#x00AD;
+<lb/>förda min med vilken män tala om kvinnor,
+<lb/>när de varit utan dem länge. Han gjorde det
+<lb/>med en rask fart, då och då blåsande i elden
+<lb/>under pannan. På en kvart fick jag sanner&#x00AD;
+<lb/>ligen veta mer om hur kvinnan är danad och
+<lb/>hur hon skall handhavas, än om jag läst alla
+<lb/>böcker i ämnet. Det var bara en sak som
+<lb/>oroade honom: att han inte ännu fått ligga
+<lb/>hos en indianflicka. Han försökte i fjol tre
+<lb/>gånger, med den följd att han alla tre gångerna
+<lb/>fick stryk. Han var riktigt ledsen när han
+<lb/>tänkte på det. Indianerna hade skurit itu
+<lb/>hans rock på ryggen och vikit bitarna åt sidan,
+<lb/>varefter »den unga flickan» slagit honom med
+<lb/>ett vasst ris.</p>
+<p rend="indfirst">– Naturligtvis var jag full, förklarade han
+<lb/>saktmodigt, annars hade jag väl aldrig kommit
+<lb/>dit.</p>
+<p rend="indfirst">När vi drack kaffet berättade han om sin
+<lb/>friarfärd till indianbyn.</p>
+<pb n="12"/>
+<p rend="indfirst">– Den där dansken Hansen hade brännvin,
+<lb/>förstås, å vi låg i Gramlings camp å söp.
+<lb/>Det fanns ingen enda käft där mer än Han&#x00AD;
+<lb/>sen å jag å den där skojaren Petterson, ni
+<lb/>vet, han som narrade Blomstroms Elis att
+<lb/>dricka sitt ege urin som botemedel mot olyck&#x00AD;
+<lb/>lig kärlek. Jag vet inte riktigt var han har
+<lb/>kommit ifrån, den där Petterson, men full
+<lb/>av Håle är han. Som när han var kock i
+<lb/>Hammolds camp å chefen inte ville ge honom
+<lb/>fri resa till Aitkin, sa han, pass opp du, Wil&#x00AD;
+<lb/>liamson, sa han, så du inte får fri resa en hel
+<lb/>natt! Williamson skulle aldrig ha ätit soppa
+<lb/>den kvällen, för det var ett springande hela
+<lb/>natten för honom, ut å in, in å ut, och för
+<lb/>varenda gång Williamson var oppe å skulle
+<lb/>ta på sej skorna, kom Petterson opp ur sitt
+<lb/>bås å bjöd honom mer soppa, för det var
+<lb/>inte bra att ha magen alldeles tom vid sådana
+<lb/>tillfällen, sade han. På mårron var Petterson
+<lb/>på benen å tog hela Campen till vittne att
+<lb/>han inte stod till svars med att låta chefen
+<lb/>ligga här och dö, utan nu for han till Aitkin
+<lb/>efter en doktor, det fick bokhållarn skriva var
+<lb/>han ville, men Campen betalade, han menade
+<lb/>avverkarna, förstås. Sen talade han om att
+<lb/>han hällt en viss läkedomssaft i soppan, så
+<lb/>chefen skulle bli bra snart. När han kom
+<pb n="13"/>
+<lb/>ifrån stan hade han ingen doktor med sej,
+<lb/>men en kagge öl, å det vart aldrig mer tal
+<lb/>på saken. Så nog är Petterson en – – – </p>
+<p rend="indfirst">– Men vad hade han att göra med ditt
+<lb/>frieri ?</p>
+<p rend="indfirst">– Tyst, kid, det var han som satte i mej
+<lb/>att gå dit. Han sa, du är en åsna om du går
+<lb/>här å längtar, sa han, när det finns så mycke
+<lb/>fruntimmer i närheten. Var då, sa jag. Vid
+<lb/>Rice Lake, sa han. Indianerna, sa jag, dom
+<lb/>törs inte jag på. Jag ska följa med dej, sa
+<lb/>han, å så gick vi, bra fulla va vi när vi kom
+<lb/>dit, å han visade mej en koja, som såg ut
+<lb/>som om den växt opp av sig själv i dyngan,
+<lb/>som ett sorts svamp, å bredvid flera stycken,
+<lb/>å alla såg lika illa ut. Tycker du, sa jag, det
+<lb/>sa jag verkligen, tycker du, att det där är ett
+<lb/>ställe för mister Fred Nelson från Duluth att
+<lb/>lägga sej till i? Tycker du, sa jag, att en kan
+<lb/>tänka på kärlek så som här sir ut?</p>
+<p rend="indfirst">– Skräp, sa han, du ska si, dom har riktigt
+<lb/>snyggt när du kommer in, å han visade mäj
+<lb/>den allra eländigaste å ruttnaste å svartaste
+<lb/>kojan, en hälften jord- å hälften tältkula, som
+<lb/>ni vet, å sa, att där bodde den sköna Helena,
+<lb/>sa han, den skojarn, som var döpt å hade gått
+<lb/>för prästen å allting, men som inte ännu har
+<lb/>någon friare.</p>
+<pb n="14"/>
+<p rend="indfirst">Hur ska jag säja, sa jag, när jag kommer
+<lb/>in, för jag kan ju inte deras språk. Å då sa
+<lb/>han att jag skulle säja nånting som lät ungefär
+<lb/>som så här: <hi rend="i">chi-nok-wa vo-ta-ta,</hi> å sen skulle
+<lb/>jag ta å dra i väg genast med den där He&#x00AD;
+<lb/>lena.</p>
+<p rend="indfirst">Hon stod för resten å rostade ris på en
+<lb/>kopparplåt när jag kom in, inte vet jag om
+<lb/>det var den rätta, men jag såg inte mer än
+<lb/>en, å jag skrek de där orden som Petterson
+<lb/>lärt mäj, å då kom en gammal gubbe fram å
+<lb/>sa till mäj på engelska, att jag fått mycket,
+<lb/>mycket whisky å att jag skulle sova litet så
+<lb/>gick det över. Sedan pekade han på en stor
+<lb/>hög av skinn å trasor som han själv hade
+<lb/>legat på, å menade att jag skulle lägga mäj
+<lb/>där, å under tiden sprang Helena ut, å då
+<lb/>sprang jag efter.</p>
+<p rend="indfirst">Jag hann fatt henne, för hon saktade
+<lb/>gången, å sprang inte undan, men – ja, jag
+<lb/>minns inte riktigt hur det var, i alla fall så
+<lb/>kom det fyra unga män å tecknade åt mäj
+<lb/>att gå min väg, å det gjorde jag inte. He&#x00AD;
+<lb/>lena sa inte ett ord, hon bara talade å viskade
+<lb/>med dom andra, å när jag ville språka med
+<lb/>henne stod hon å liksom ansträngde säj att
+<lb/>fatta vad jag menade, det minns jag, å när
+<lb/>inte annat hjälpte, så skulle jag ta henne under
+<pb n="15"/>
+<lb/>armen å gå min väg, men då vart det oväsen
+<lb/>värre, å somliga såg elaka ut, men den gamle
+<lb/>gubben kom ut å ropade att jag var »drunk»
+<lb/>å jag <hi rend="i">var</hi> inte nykter heller, jag måtte ha burit
+<lb/>mäj konstigt åt eftersom dom spöade mäj när
+<lb/>jag skulle somna, när jag hade ramlat kull i
+<lb/>ett bås där Helena brukade ligga.</p>
+<p rend="indfirst">När jag fått sova ruset av mäj kom den där
+<lb/>jäkla Petterson dit å talade med den gamle
+<lb/>gubben, vad dom sa, det vet jag inte, men
+<lb/>Petterson han sa, att om jag nu ville, så kunde
+<lb/>jag få ta Helena med mäj. Den där agan be&#x00AD;
+<lb/>rodde på ett litet missförstånd, sa han. Gubben
+<lb/>var nöjd med att jag fick Helena, men han
+<lb/>ville ha en häst och brännvin.</p>
+<p rend="indfirst">– Än Helena då, sa jag, vad vill hon? Det
+<lb/>frågas aldrig efter, sa han, tror du att kvinn&#x00AD;
+<lb/>folken bestämmer sånt? Då har du inte läst
+<lb/>några böcker om indianer, sa han, nej, du
+<lb/>köper helt enkelt hövdingens dotter, å efter
+<lb/>vad jag hör här, har du visst redan gått så
+<lb/>långt med henne att du rent av blir <hi rend="i">tvungen</hi>
+<lb/>att köpa henne.</p>
+<p rend="indfirst">Jo, det var en skön ordning, sa jag, först
+<lb/>friar jag, å då får jag rätt och slätt en risbastu
+<lb/>för det jag hedrat stammen, sa jag, med mitt
+<lb/>anbud, sa jag, å sen är jag tvungen att betala
+<pb n="16"/>
+<lb/>för hustrun. För resten har jag ingen häst att
+<lb/>ge dom. Fy fan, sa jag.</p>
+<p rend="indfirst">Då sa han att jag skulle bjuda Helenas far
+<lb/>en gris i stället. Han skulle uträtta det åt
+<lb/>mäj. Han gav mäj mer brännvin, så jag tänkte
+<lb/>aldrig så mycke över det där, utan jag sa, ja,
+<lb/>gå å säj dom att dom får en gris å tre
+<lb/>höns av Plymouthras, tuppen behåller jag, för
+<lb/>jag å Helena ska väl också leva. Å då gick
+<lb/>han, vad han sa, det vet jag inte.</p>
+<p rend="indfirst">Om en stund kom han tillbaka å ville att
+<lb/>jag skulle gå å tala med Helena, som tagit
+<lb/>på sig en röd bomullsklänning å satt fram&#x00AD;
+<lb/>för kåtan deras å tjurade. Men kära Petter&#x00AD;
+<lb/>son, sa jag, du menar väl aldrig att vi ska
+<lb/>göra allvar av det här? Jag var bra full, å
+<lb/>jag var nästan färdig att gråta, å Petterson
+<lb/>han skrattade å slog säj på knäna så tårarna
+<lb/>rann, å han sa, att nu var jag måg åt den
+<lb/>store hövdingen Bökande Tjuren, sa han, aldrig
+<lb/>har jag sitt en sån skojare förr! Men jag
+<lb/>kravlade i väg så långt bort i skogen jag kunde
+<lb/>å sov länge, å sen lunkade jag hem. Sen
+<lb/>fick jag höra att alltihopa var skoj av Petter&#x00AD;
+<lb/>son, å att han själv friat till den där sköna
+<lb/>Helena.</p>
+<p rend="indfirst">Nu, ifall nån är värd ett kok stryk, tänkte
+<pb n="17"/>
+<lb/>jag, så är det den där Petterson. Men jag
+<lb/>tänkte att han får nog sitt, om han stannar
+<lb/>länge hos Helena. Å så en vacker dag kom
+<lb/>Petterson hit opp å var sjuk. Han påstod
+<lb/>att dom försökt förgifta honom.</p>
+<p rend="indfirst">Det hade gått utmärkt så länge han hade
+<lb/>brännvin att ge gubben och så länge han inte
+<lb/>rörde flickan. Men när han gjort det, efter
+<lb/>vad han sa, så var de rätt ingående, hade de
+<lb/>blivit hett om öronen. Men han lugnade dom
+<lb/>med att prata om hur många hästar han hade,
+<lb/>å till sist vart det alldeles moltyst, ingen sa
+<lb/>ett ord åt honom på två dagar, inte flickan
+<lb/>heller, annat än att hon försäkrade att hon
+<lb/>älskade honom. En morron vaknade han och
+<lb/>kände häftiga plågor i magen, å då stack han
+<lb/>med samma. Nu törs han aldrig visa säj på
+<lb/>trakten mer.</p>
+<p rend="indfirst">Det var nästan mörkt när Fred slutat denna
+<lb/>historia.</p>
+<p rend="indfirst">Jag gick ut och lyssnade på stormen och
+<lb/>undrade vad Helena tänkte på och hur hon
+<lb/>kände det, när hon blev nykter.</p>
+<p rend="indfirst">Jag antar att hon inte var stort nöjdare än
+<lb/>Petterson.</p>
+<p rend="indfirst">Vi somnade snart, sedan vi bestämt oss för
+<pb n="18"/>
+<lb/>att gå på så kallad lykt-jakt samma natt.
+<lb/>Hedstrom skulle emellertid stanna hemma och
+<lb/>steka fläsk, koka kaffe och invänta vår åter&#x00AD;
+<lb/>komst i dagningen.</p>
+<pb n="19"/>
+</div2>
+<div2 type="chapter" xml:id="Kap02">
+<head rend="big center chaptername">II.</head>
+<lb/>
+<p rend="indfirst">Om ni inte varit i norra Amerikas skogar
+<lb/>åt det hållet där all naturen börjar bli äkta
+<lb/>kanadisk, och där roat er med att gå ute under
+<lb/>de hetaste och mörkaste nätterna under hög&#x00AD;
+<lb/>sommaren, så kan ni inte heller veta hur under&#x00AD;
+<lb/>bart trolsk en sådan natt är, när sköldpaddorna
+<lb/>i de hundratals sjöarna runt om gå upp på
+<lb/>dyiga stränder och i tusental sjunga sin en&#x00AD;
+<lb/>toniga sång: prummm porommppr-rum rumm-
+<lb/>purrrummp!</p>
+<p rend="indfirst">Natten där har intet långt eko, det är bara
+<lb/>mellan de skogiga landen sången skallar och
+<lb/>återstudsar, medan miljoner av eldflugor svärma
+<lb/>nära marken i det meterhöga gräset. Det kan
+<lb/>också hända att ni får höra en ensam stackars
+<lb/>fågel sjunga rent och klockklart innan mörkret
+<lb/>blir alltför tätt, men det är visst inte den där
+<lb/>Whip poor Will som ni läste i indianböckerna
+<lb/>om, utan en liten herre med blått bröst och
+<lb/>svarta vingar som kallas The Singer – rätt
+<pb n="20"/>
+<lb/>och slätt. Vad han heter på de lärdas tungo&#x00AD;
+<lb/>mål bekymrade mig ej, när jag såg honom,
+<lb/>och om ni vill veta det, eller för övrigt begär
+<lb/>vetenskapliga notiser om de djur av två- och
+<lb/>fyrfota slag jag kommer att berätta om i denna
+<lb/>bok, så kan jag inte hjälpa er nyfikenhet på
+<lb/>minsta sätt. Alla dessa varelser jag mötte där
+<lb/>ute voro lika fåfängliga och mot döden linkande
+<lb/>kräk som vi här hemma äro, de sökte sin matbit
+<lb/>i all anspråkslöshet och voro roliga och märk&#x00AD;
+<lb/>värdiga och elaka allt eftersom de ansågo det
+<lb/>fördelaktigt.</p>
+<p rend="indfirst">Nå väl, jag befann mig i sällskap med Fred
+<lb/>samma natt i dessa skogar, närmare bestämt i
+<lb/>närheten av Pond River, som flyter upp i de
+<lb/>ödsliga träsken någonstädes i Itasca eller Leesh
+<lb/>Lake och rinner ut i den lergula Mississippi.</p>
+<p rend="indfirst">Vi hade ett litet tält som han bar hoprullat
+<lb/>på ryggen, och inuti tältpacken hade vi te, salt,
+<lb/>potatis och bröd. Vi hade gummiskor av Golden
+<lb/>Sealtyp för att kunna gå mjukt och tyst, och
+<lb/>vi hade var sin lykta med Bulls Eye glas fästad
+<lb/>i var sin rem av sämskat hjortskinn som bands
+<lb/>om huvudet, och var sin hagelbössa, laddad
+<lb/>med varghagel, stuvade i majsmjöl, som höll
+<lb/>ihop haglen, så att de inte spritade för mycket
+<lb/>när man fyrade av.</p>
+<p rend="indfirst">Det var nästan mörkt, när vi hittade kanoten,
+<pb n="21"/>
+<lb/>som var uppdragen i en bäck mellan två tjocka
+<lb/>hasselsnår. Fred tog paddelåran och satte sig
+<lb/>– man orkar inte stå på knä och paddla om
+<lb/>man inte är född till det – och jag satt hop&#x00AD;
+<lb/>krupen bakom honom. Den här kanoten var
+<lb/>ingen riktig sådan, utan ett slags mellanting
+<lb/>mellan ökstock och kanot, gjord av ytterst tunna
+<lb/>granbräder, och kunde bära fyra man i nödfall.</p>
+<p rend="indfirst">Vi paddlade oss så tyst vi kunde över till
+<lb/>en liten holme, där vi slogo upp tältet och
+<lb/>kokade te. Medan Fred gjorde eld berättade
+<lb/>han om sitt första kärleksäventyr. Han be&#x00AD;
+<lb/>skrev det med en viss barnslig hänförelse. Han
+<lb/>talade alltid om fruntimmer när han lagade
+<lb/>mat, det hörde till de lätt förklarliga egenheter
+<lb/>han drogs med i detta liv. Nu anförtrodde
+<lb/>han mig även alla detaljer vid den första upp&#x00AD;
+<lb/>levelsen, och med stolt uppsyn tillade han att
+<lb/>det var i en helt vanlig fälada det hände.</p>
+<p rend="indfirst">– Vid såna tillfällen fäster en sej inte så
+<lb/>mycket vid att det inte är så rasande fina
+<lb/>tapeter på väggarna, sade han och kastade alla
+<lb/>våra potatisar i glöden. Du, som är ung, fort&#x00AD;
+<lb/>satte han, du kan ha mycke att lära av min
+<lb/>erfarenhet.</p>
+<p rend="indfirst">Han talade också om hur många kvinnor
+<lb/>han blivit bedragen av, men det gjorde ingen&#x00AD;
+<lb/>ting, sade han, och dorn fick alla sin lön, sitt
+<pb n="22"/>
+<lb/>straff för falskhet, och efter vad jag kunde för&#x00AD;
+<lb/>stå menade han, att straffet bestått i att de
+<lb/>inte fått gifta sig med honom.</p>
+<p rend="indfirst">När vi ätit sovo vi, eller snarare försökte sova,
+<lb/>ty vi hade sjuhundranittio miljoner myggor att
+<lb/>slåss med. Fred låg och dillade om Värmland,
+<lb/>där han var född. Han hade varit här i tjugu
+<lb/>år nu, kom hit när han var tjugu, och hade
+<lb/>upplevat mer än han orkade minna sig på.
+<lb/>När mörkret blev tätare och vi släckt elden
+<lb/>slutade myggen att bitas så mycket, varför vi
+<lb/>hade det trevligt, och jag hade kanske sovit
+<lb/>en timme, när han väckte mig.</p>
+<p rend="indfirst">– Inte språka – tysta som råttor! viskade
+<lb/>han. Här har du kallt te, så blir du vaken.</p>
+<p rend="indfirst">Sömndrucken såg jag honom stå på knä,
+<lb/>tändande lyktorna. Jag drack mitt te, som
+<lb/>smakade illa, och spände remmen om huvudet.
+<lb/>Den ena lyktan måste vara sluten, annars kunde
+<lb/>den lysa upp kring kamraten. Eftersom Fred
+<lb/>skulle gå före, hade han sin lykta öppen, så
+<lb/>att den kastade en liten skarp ljusfläck framför
+<lb/>honom.</p>
+<p rend="indfirst">– Du får aldrig gå så, att du kommer i ljus&#x00AD;
+<lb/>fläcken, viskade han, för då ser dom dej, å
+<lb/>när du kommer i båten så blindar jag min
+<lb/>lykta, å du slår opp din, jag som ska paddla
+<lb/>behöver inte se – å du sitter så att ljusfläcken
+<pb n="23"/>
+<lb/>faller mot stranden – dom går ut i vassen –
+<lb/>å du får inte säja ett ord, å när dom sir ljus&#x00AD;
+<lb/>fläcken men inte oss, då får du si deras ögon
+<lb/>lyser å dom står å undrar – å då höjer du
+<lb/>bössan sakta – å visslar svagt – då vänder
+<lb/>jag stammen åt det håll du riktar bössan – å
+<lb/>du väntar tills du tycker att ögonen ha natur&#x00AD;
+<lb/>ligt avstånd – från varann, å sen – – – </p>
+<p rend="indfirst">Jag visste det nästan lika bra förut, och hade
+<lb/>hört sättet diskuteras i oändlighet. Ljudlöst
+<lb/>satte vi oss i båten, jag sköt skyddet från min
+<lb/>lykta, och Fred paddlade fullkomligt ljudlöst
+<lb/>ut i vassen.</p>
+<p rend="indfirst">Sköldpaddorna hade nästan tystnat, natten
+<lb/>var beckmörk, och jag satt hopkrupen i fram&#x00AD;
+<lb/>stammen med min hoprullade rock under mig,
+<lb/>bössan lagd på tvären över stammen och såg
+<lb/>den lilla ljusfläcken från min lykta flytta sig
+<lb/>sakta över det svarta vattnet. Fred rodde så
+<lb/>tyst, att det nästan var hemskt att försöka
+<lb/>lyssna efter det Ibland kunde jag nästan höra
+<lb/>honom dra ett otåligt andetag när han tagit
+<lb/>åran för häftigt ur vattnet, så att ett par droppar
+<lb/>föllo ned från den. Vi flyttade oss runt sjön,
+<lb/>höllo oss några famnar utom vassen, och Fred
+<lb/>rodde alltid så, att min lykta vändes mot land.
+<lb/>Ibland vände han tvärt och for tillbaka samma
+<lb/>väg vi kommit. Jag kunde se det på stickor
+<pb n="24"/>
+<lb/>och avbruten vass som låg stilla på vattnet.
+<lb/>Ibland stannade han och vi sutto stilla länge,
+<lb/>men så gick vi runt igen. Det började san&#x00AD;
+<lb/>nerligen bli långsamt, tyckte jag, och inte en
+<lb/>plaskning hade vi hört, inga ögon hade lyst.
+<lb/>Men han fortsatte alltjämt att paddla lika en&#x00AD;
+<lb/>vist och ljudlöst. Stundom kom vi så nära
+<lb/>land att jag såg lyktskenet bland träden, som
+<lb/>sågo jättestora och skrämmande ut. Stundom
+<lb/>hörde vi rassel som av avbrutna grenar långt
+<lb/>inne i skogen. Vi stannade då mycket långa
+<lb/>stunder där utanför. Till sist tyckte jag, när
+<lb/>jag såg uppåt, att himlen började gråna. Vi
+<lb/>hade rott förgäves. Just då såg jag rakt mitt
+<lb/>emot lyktan två dimmigt blanka punkter, och
+<lb/>hörde Fred dra ett häftigt andetag. Fram&#x00AD;
+<lb/>stammen var vänd mot de lysande punkterna,
+<lb/>och jag höjde sakta bössan tills ljusfläcken
+<lb/>sken längs pipan och jag kunde se kornet klart.
+<lb/>Jag siktade så noga jag kunde mitt emellan de
+<lb/>blanka punkterna, och sköt.</p>
+<p rend="indfirst">Ett vansinnigt plaskande och sparkande i
+<lb/>vattnet hördes, men när det hördes allt längre
+<lb/>bort, började Fred ro efter det. Han rodde
+<lb/>inte tyst nu, vattnet riktigt skummade kring
+<lb/>framstammen. Jag såg att det var blod i vattnet,
+<lb/>och Fred hade öppnat sin lykta just när vi
+<lb/>stötte emot kroppen av en fullväxt hjort. Han
+<pb n="25"/>
+<lb/>levde ännu. Fred hoppade i vattnet till midjan
+<lb/>och sköt, efteråt svärjande över stöten från
+<lb/>bössan.</p>
+<p rend="indfirst">Vi togo upp hjorten i kanoten och rodde till
+<lb/>ön, där vi tände en eld. Fred sade att vi skulle
+<lb/>skära ut hjärtat först och sätta det under svansen
+<lb/>på djuret. Det brukades så, och var bra för
+<lb/>framtida lycka. Han gjorde det också, fast jag
+<lb/>tyckte det var bra oförnuftigt. Vi drogo skinnet
+<lb/>av den och styckade den, och Fred stekte ett
+<lb/>stort stycke, som han först skar upp på alla
+<lb/>kanter och strödde salt i.</p>
+<p rend="indfirst">När vi ätit var det dager, och aldrig har jag
+<lb/>sett en så belåten människa som Fred var, där
+<lb/>han låg och vräkte sig vid elden och rökte.
+<lb/>Inte nog med, att han påstod, att det var den
+<lb/>största hjort som fällts i trakten på många år,
+<lb/>han påstod också, att det var ett särskilt slags
+<lb/>hjort som ingen förr hade skjutit. Det syntes
+<lb/>på hornen, sade han, att det var en sällsynt
+<lb/>ras, för de voro mörkare än vanligt. Han låg
+<lb/>också och skröt över vilken säker jägare jag
+<lb/>skulle bli. Fick jag bara vara i skogarna en
+<lb/>tio år, så förbanna vore inte jag lika styv som
+<lb/>han. Han frågade om jag inte alls varit rädd,
+<lb/>och jag svarade att i det ögonblicket jag höjde
+<lb/>bössan hade jag känt mig så säker som om
+<lb/>jag tänkt klämma fast en lus mot en tapet,
+<pb n="26"/>
+<lb/>varvid han nickade, beundrande min fräckhet,
+<lb/>och stoppade sin pipa på nytt. Jag skulle
+<lb/>snart få följa med honom och fälla en björn,
+<lb/>sade han, han var särskilt livad på björnar
+<lb/>den där morgonen. Han frågade om jag hade
+<lb/>lust att slåss med vargar ett tag, och jag sade,
+<lb/>att jag längtat efter det i hela mitt liv, att far
+<lb/>min var en väldig björnjägare och att mor min
+<lb/>dödade en björn när hon gick havande med
+<lb/>mig. Då teg han en stund.</p>
+<p rend="indfirst">Men så började han sitt skrävel igen. Det
+<lb/>var inte första gången en ung och oerfaren
+<lb/>hunter hade haft nytta på Freds fina rodd och
+<lb/>säkra sällskap. Å, han hade varit med! Han
+<lb/>sade att han skjutit bortåt ett tusen hjortar
+<lb/>här uppe, att han hatades av indianerna för att
+<lb/>han ensam ödade ut deras jaktmarker, att han
+<lb/>gjort större bragder än själve Daniel Boon
+<lb/>gjorde i sin tid. Sedan började han på om
+<lb/>hur stark hans bror var, hur förståndiga kusiner
+<lb/>han hade och slutade med att han aldrig träffat
+<lb/>någon som var så litet rädd för åskan som han
+<lb/>själv. Under hela tiden rökte och spottade
+<lb/>han som en het kamin i takdropp.</p>
+<p rend="indfirst">De mest sympatiska av alla jordens skrävel&#x00AD;
+<lb/>makare ha det gemensamt, att om man låter
+<lb/>dem ljuga ut riktigt och bara tiger och be&#x00AD;
+<lb/>undrar, fattas de till slut av ett slags medlidande
+<pb n="27"/>
+<lb/>med åhöraren, som inte är så märkvärdig.
+<lb/>Fred var en sådan. När han skrävlat i två
+<lb/>timmar började han se vänligt nedlåtande ut,
+<lb/>och gav mig många frågor för att höra om det
+<lb/>ändå inte fanns vissa, fast ringa drag av stor&#x00AD;
+<lb/>het även hos mig. Det värsta man kan göra
+<lb/>då, är att servera dem en tio gånger starkare
+<lb/>soppa än de kunna åstadkomma själva, att
+<lb/>riktigt ljuga i kull dem. Därför gjorde jag det.
+<lb/>Jag skröt och ljög för övrigt så mycket därute,
+<lb/>att det är mig en verklig botgöring att endast
+<lb/>hålla mig till sanningen i denna bok.</p>
+<p rend="indfirst">Jag bar tältet och Fred en del av köttet när
+<lb/>vi gingo hem. Fred hade aldrig varit med om
+<lb/>sådan tyngd på kött förr, sade han.</p>
+<p rend="indfirst">När vi kommo hem hade Hedstrom gått och
+<lb/>han hade skrivit med en krita på väggen att
+<lb/>han gav fan i att vänta längre. Men det hade
+<lb/>vi nog förstått ändå, fast han inte skrivit det.</p>
+<pb n="28"/>
+</div2>
+<div2 type="chapter" xml:id="Kap03">
+<head rend="big center chaptername">III.</head>
+<lb/>
+<p rend="indfirst">Långt uppe mot Kanadas gräns träffade jag
+<lb/>Stammering Frank i ett läger av timmerhuggare.
+<lb/>Han var mera intressant som död än som levande,
+<lb/>och detta är orsaken varför jag berättar om
+<lb/>honom.</p>
+<p rend="indfirst">Av vilken nationalitet han var, fick jag aldrig
+<lb/>riktigt klart. Han kunde tala hjälplig tyska,
+<lb/>engelska och svenska – det vill säga, han
+<lb/>kunde svärja på dessa tre språk, och med det
+<lb/>kan man komma långt, verka respekt och
+<lb/>undgå många olyckor. På svenska kunde han
+<lb/>aldrig lära sig mer än tre svordomar: »djä&#x00AD;
+<lb/>vulen take mik», »fan gale mik» och »fan
+<lb/>gnugga mik». Men med det förrådet klarade
+<lb/>han det mesta, i vardagslag åtminstone. När
+<lb/>han stammade fram någon av dessa talets
+<lb/>pepparkorn, hade svenskarna oerhört muntert,
+<lb/>men bäst när han någon gång i ilskan tog alla
+<lb/>tre efter varandra. Det tog honom så lång tid
+<lb/>att få fram dem, att den sista alltid överröstades
+<lb/>av skrattsalvorna.</p>
+<pb n="29"/>
+<p rend="indfirst">Jag talade aldrig med honom mera än det
+<lb/>nödvändigaste. Det enda drag av tillgivenhet
+<lb/>jag såg hos honom var, att han så ofta han
+<lb/>blev utsatt för gyckel kom och satte sig nära
+<lb/>intill mig. Möjligen ville han att jag skulle
+<lb/>ingripa till hans försvar, något som jag inte
+<lb/>kunnat, utan att göra saken ännu värre där&#x00AD;
+<lb/>igenom.</p>
+<p rend="indfirst">Campen, som vi höll till i, var en jättestor
+<lb/>sådan, med väldiga byggnader för manskapet
+<lb/>och stall i samma huslänga. Alla männen ut&#x00AD;
+<lb/>spisades på avverkarens bekostnad, särskild
+<lb/>kock var anställd, och Frank var »andra hand»
+<lb/>i köket.</p>
+<p rend="indfirst">Hos oss fanns alla typer av arbetare, frans&#x00AD;
+<lb/>män, holländare, tyskar och skandinaver. Vi
+<lb/>voro åttio man, utom kocken och Frank.</p>
+<p rend="indfirst">Frank tröttnade emellertid på att gå där uppe
+<lb/>och ta skällsord av kocken på dagarna och
+<lb/>av manskapet på kvällarna. Han tog ut sin
+<lb/>lön en månad före jul och försvann fullständigt
+<lb/>från campen.</p>
+<p rend="indfirst">En sluskig Kentuckyman, som vi kallade
+<lb/>Base Ball, hade samtidigt avvikit. Någon hade
+<lb/>sett honom på en ölkrog i Sunny River, där
+<lb/>han visat pengar och skrävlat om tur i poker.</p>
+<p rend="indfirst">Ingen hade sett när någondera lämnat lägret,
+<lb/>men vi antogo att Base Ball mördat Frank
+<pb n="30"/>
+<lb/>alldeles utanför väggarna våra, sedan vi hittat
+<lb/>Franks knyte kastat i en lergrop bakom stallet.
+<lb/>Men av Frank själv hittade vi inte ett spår.
+<lb/>Sheriff Hullerman var också dit och tittade.
+<lb/>Han tog Franks knyte med sig och for sin
+<lb/>väg utan ett ord, vilket var det klokaste han
+<lb/>kunde göra.</p>
+<p rend="indfirst">Jag sörjde Frank på sätt och vis. Han var
+<lb/>ettrig och otålig som en bålgeting och lat som
+<lb/>en fet katt. Hans ansikte var avlångt och ut&#x00AD;
+<lb/>tryckte alltid den mest hejdlösa förvåning
+<lb/>över allting han såg, ögonen stodo på skaft
+<lb/>och munnen gapade, varför han var rolig att
+<lb/>titta på.</p>
+<p rend="indfirst">Nu var han i alla fall borta, med all säker&#x00AD;
+<lb/>het mördad för den lilla penningsmulans skull.
+<lb/>Jag kände ganska stor lust att gråta då, jag
+<lb/>vet inte varför, men det harmade mig att han
+<lb/>inte fått leva. Jag erinrade mig alla drag hos
+<lb/>honom så, som vi gör bara när det gäller en
+<lb/>död. Så länge han lever äro vi liksom generade
+<lb/>av att erkänna hans personliga värde.</p>
+<p rend="indfirst">Jag snokade runt i skogen och försökte
+<lb/>tänka ut vad det blivit av hans kropp, men
+<lb/>förgäves. Ingen hade heller kommit sig för
+<lb/>med att öppna och titta i hans knyte, innan
+<lb/>sheriffen tog det.</p>
+<p rend="indfirst">Nu satt varenda lumberjack varenda kväll
+<pb n="31"/>
+<lb/>och språkade om hur ärlig och redbar och
+<lb/>märkvärdig på alla vis Frank varit, så att det
+<lb/>nästan inte fanns en dygd på jorden som inte
+<lb/>kunde tillskrivas honom. Will Hegens påstod
+<lb/>till och med, att han inte var stam alls, utan
+<lb/>bara spelade, för att dölja vem han var. Han
+<lb/>misstänkte att Frank var en »bättre person»,
+<lb/>som var lärd och allting, men Smoker bad
+<lb/>Hegens dra åt skogen med sina dumheter, det
+<lb/>var väl nog om Frank var en någorlunda bra
+<lb/>karl, fast man inte gjorde honom till doktor
+<lb/>på en gång. Smoker var den, som varit mest
+<lb/>elak mot Frank, därför ville han nu inte
+<lb/>efteråt ha upp honom så högt.</p>
+<p rend="indfirst">Kocken, som påstod sig vara fransman, fast
+<lb/>född i Amerika, sade, att han en gång hört
+<lb/>Frank läsa högt ur en fransk bok, och med
+<lb/>riktigt uttal till på köpet. Men det var ingen
+<lb/>som trodde att kocken var fransman, det är
+<lb/>nämligen en svaghet hos alla kockar i västern
+<lb/>att vilja vara det. Remington-Andrew trodde
+<lb/>att Frank hängt sig uppe vid flodbanken, där
+<lb/>var det alldeles ypperliga grenar att hänga i,
+<lb/>sade han, och bara kroppen ruttnat ned, skulle
+<lb/>vi få se Frank komma igen efter sitt knyte, ty
+<lb/>alla döda gå och tänka på det dom lämnat
+<lb/>efter sig.</p>
+<p rend="indfirst">Harry Heward, som var den skämtsammaste
+<pb n="32"/>
+<lb/>i laget, tänkte sig att Base Ball stoppat in
+<lb/>Franks kropp i en ihålig fura. Där får han
+<lb/>stå i många hundra år, innan trädet multnar
+<lb/>sönder, så att han kan ramla ut.</p>
+<p rend="indfirst">Envar hade sin mening, men alla visste vi
+<lb/>att Frank blivit mördad.</p>
+<p rend="indfirst">Och vintern gick och en sommar också.</p>
+<p rend="indfirst">Hösten därpå, en kall och mörk och stormig
+<lb/>dag, trampade jag och en irländare som vi
+<lb/>brukade kalla Johannes dit upp för att ligga i
+<lb/>den tomma campen över natten. Johannes
+<lb/>skulle spika upp ett anslag på en tall mitt inne
+<lb/>i skogen, fem svenska mil från människo&#x00AD;
+<lb/>boningar, ty han var den ende som visste be&#x00AD;
+<lb/>stämt var det skulle sitta. Anslaget lydde, att
+<lb/>om inte en viss Jimson inom en viss tid visade
+<lb/>att han brukade och använde den jord varpå
+<lb/>trädet med anslaget stod, skulle etthundra&#x00AD;
+<lb/>tjugu acres odlingsbar jord återfalla till re&#x00AD;
+<lb/>geringen, Jimson för alltid gå förlustig den&#x00AD;
+<lb/>samma och någon annan ha rätt att »jumpa»
+<lb/>hans homestead.</p>
+<p rend="indfirst">Varken Johannes eller jag hade den ringaste
+<lb/>aning om vem Jimson var eller var han var
+<lb/>eller om han brydde sig om att komma och
+<lb/>läsa på anslaget, men vi spikade upp det och
+<lb/>det tog sig mycket bra ut där mitt i skogen.
+<lb/>När vi sett och beundrat dess verkan, sågo vi
+<pb n="33"/>
+<lb/>oss om efter Jimsons blockhus, men det hade
+<lb/>aldrig funnits något, åtminstone kunde vi ej
+<lb/>hitta det, och eftersom vi hade Gramlins logg&#x00AD;
+<lb/>camp intill, gick vi dit för att leta efter Stam&#x00AD;
+<lb/>mering Frank.</p>
+<p rend="indfirst">Johannes var en tystlåten, hetsint, misstänk&#x00AD;
+<lb/>sam, stark, trofast och pålitlig kamrat, som slog
+<lb/>till både när det behövdes och när det var över&#x00AD;
+<lb/>flödigt. Han var ett bra sällskap, men han
+<lb/>hade inte ett spår av humor. Dessutom var
+<lb/>han vidskeplig till otrolighet. Men han var,
+<lb/>så vitt jag då kunde fatta, aldrig rädd ens för
+<lb/>djävulen själv. Han spelade »The Devils
+<lb/>dream», »Irish washerwoman» på fiol rätt bra,
+<lb/>och sjöng ofta om »The Wild Irish Rose».
+<lb/>Hans ansikte var rött, kroppen var en jättes
+<lb/>och han kunde varken läsa eller skriva.</p>
+<p rend="indfirst">När vi kom fram till Campen gjorde vi vår
+<lb/>lägereld i lä utanför ena långväggen och beslöt
+<lb/>att övernatta där, i stället för att krypa in i
+<lb/>de dunkla och mögliga båsen därinne. Det
+<lb/>var redan mörkt. Vi lagade vår mat och pra&#x00AD;
+<lb/>tade. Johannes föreslog, att vi skulle sätta
+<lb/>eld på hela härligheten innan vi gick därifrån
+<lb/>i morgon, ty, sade han, dom brukar göra så
+<lb/>med campar som inte ska användas mer. Dom
+<lb/>står annars och ruttnar ner och hästarna som
+<lb/>går på bete kan komma på att gå in och bli
+<pb n="34"/>
+<lb/>i fällan. Jag sade, att det skulle vara mycket
+<lb/>roligt att tutta på det, men undrade om det
+<lb/>var lagligt, vartill Johannes svarade, att inte
+<lb/>fanns det några lagar mot att tända eld på
+<lb/>hus, inte.</p>
+<p rend="indfirst">Det var en ödslig och nästan högtidlig ro
+<lb/>över den gamla planen, där jag vintern förut
+<lb/>hört så många stockkedjor rassla och så många
+<lb/>mustiga svordomar rullas fram på fyra eller
+<lb/>fem olika språk. I natt var det mycket tyst,
+<lb/>med undantag för östanvinden, som tjöt och
+<lb/>pep i den gamla baracken värre än orgeln
+<lb/>brukade väsa där hemma i Råmora kyrka,
+<lb/>när den svartmuskige prosten stod och hojtade
+<lb/>åt vår Herre framme vid altaret.</p>
+<p rend="indfirst">Johannes pratade inte om fruntimmer så där
+<lb/>som Fred. Johannes hade varit gift ett par
+<lb/>år och ville inte tala om sådant. Hans fru
+<lb/>var innehaverska av en matservering i Brainerd,
+<lb/>på vilken jag en gång blev bestulen på mina
+<lb/>stövlar, som jag för tillfället och på grund av
+<lb/>hettan tagit av mig och ställt att svalna på
+<lb/>verandan. Just nu delade jag mina tankar
+<lb/>mellan Stammering Franks öde och dessa stöv&#x00AD;
+<lb/>lar. Ibland undrade jag om han som tagit
+<lb/>dem hade så stora fötter som jag, eller om
+<lb/>han lagt dubbla filtsulor i dem. Kanske han
+<lb/>sålt dem – de voro bra sort, sydda i Sverige
+<pb n="35"/>
+<lb/>på den hederlige Agaton Nybergs verkstad i
+<lb/>Göteborg. Han kanske kunde ha fått två dol&#x00AD;
+<lb/>lars för dem. Ibland undrade jag om vi inte
+<lb/>snart skulle få höra Stammering Franks tjut i
+<lb/>vinden, just som Base Balls <hi rend="i">piivi</hi><ptr target="#n2" n="*"/> träffat honom
+<lb/>i huvudet.</p>
+<p rend="indfirst">Så småningom blandade jag allt mer ihop
+<lb/>dessa saker, mina stulna stövlar och Base Ball
+<lb/>och Stammering Frank. Jag erinrade mig att
+<lb/>jag druckit för mycket öl på Hennegans
+<lb/>boardinghouse strax förut, och att jag nästan
+<lb/>varit drucken när den gamle tyske smeden
+<lb/>läxade upp mig, för det jag inte lärt ett yrke
+<lb/>innan jag for från Sverge. Smeden låg full
+<lb/>på ett golv och lallade. Det var då någon tog
+<lb/>stövlarna. Jag kunde se det nu, där jag låg,
+<lb/>och ibland förekom det mig som om det inte
+<lb/>kunde vara någon annan än Base Ball som
+<lb/>stulit mina skor, de enda skor jag hade, så att
+<lb/>jag fått åka på godstågsbuffertarna mellan
+<lb/>Brainerd och Bemidji i strumplästen, och ändå
+<lb/>fått ge konduktören femti cent för att han inte
+<lb/>skulle låta anhålla mig. Den skurken! Jag
+<lb/>visste inte då, att det inte var något straff på
+<lb/>att åka på buffertar i Förenta staterna!</p>
+<p rend="indfirst">Johannes låg och stirrade ut i mörkret, där
+<lb/>skuggor av rök och små gnistor dansade in
+
+<note xml:id="n2" n="*" place="foot" rend="small">Båtshake.</note>
+<pb n="36"/>
+<lb/>och gömde sig. Stundom hörde vi ett skott
+<lb/>långt borta, någon som jagade med lykta i
+<lb/>träsken uppåt Saskatchewan, och då undrade jag
+<lb/>vem det var, om han var ensam i den vilda
+<lb/>svarta natten, om han inte var rädd. Kanske
+<lb/>det var någon som mördades där?</p>
+<p rend="indfirst">Det blandade alltsammans ihop sig när jag
+<lb/>halvsovande glömde var jag var. Frank stal
+<lb/>mina stövlar, Base Ball jagade med lykta och
+<lb/>Johannes tog sin piivi för att mörda allihop.
+<lb/>Sedan kom konduktören och ville ha femti
+<lb/>cent för att inte mörda mig, men jag sköt
+<lb/>honom och sprang i strumplästen mellan Be&#x00AD;
+<lb/>midji och Brainerd ...</p>
+<p rend="indfirst">– Åhopp! Halloh! Ro-o-ll out!</p>
+<p rend="indfirst">Det var Johannes som väckte mig med att
+<lb/>skaka min arm.</p>
+<p rend="indfirst">– Han är här nu, sade han ivrigt, jag visste
+<lb/>att han skulle komma. Jag såg honom. Han
+<lb/>höll huvudet så här – Johannes satte hakan
+<lb/>mot bröstet med hängande tunga och stirrade
+<lb/>rakt ner. Hu, han såg hemsk ut!</p>
+<p rend="indfirst">– Hör du, hör du, viskade han, hur han
+<lb/>dumpar där borta i mörkret!</p>
+<p rend="indfirst">Fast jag på en gång erinrade mig att Jo&#x00AD;
+<lb/>hannes var oerhört okunnig och vidskeplig,
+<lb/>ryste jag. Vi befunno oss så långt borta från
+<lb/>människor, och vi lågo kanske på det ställe
+<pb n="37"/>
+<lb/>där stackars Frank stupat, just som han lämnat
+<lb/>baracken för att uppsöka hyggligt folk.</p>
+<p rend="indfirst">Johannes såg mera intresserad än rädd ut,
+<lb/>när jag tydligt i nästa ögonblick hörde en dov
+<lb/>dumpning ur mörkret från andra ändan av
+<lb/>byggnaden. Jag grep, urfånigt nog, efter min
+<lb/>bössa, men Johannes skakade på huvudet.</p>
+<p rend="indfirst">– Det <hi rend="i">kan</hi> vara en häst, sade han, och för
+<lb/>resten, varför skulle vi skjuta på ett spöke?</p>
+<p rend="indfirst">På den frågan kunde jag inte svara, men
+<lb/>jag tyckte det var elakt av Frank att försöka
+<lb/>skrämma oss, som aldrig gjort honom något
+<lb/>illa. Då tog Johannes upp en stor sten och
+<lb/>slungade den åt det håll, där vi hört de dum&#x00AD;
+<lb/>pande stegen. Vi väntade att få höra den
+<lb/>falla ned, men den föll aldrig, inte ett ljud
+<lb/>hördes. Det var som om någon stått där ute i
+<lb/>mörkret och fångat den för att slunga den
+<lb/>tillbaka. Vi väntade verkligen på att få den
+<lb/>i skallen på oss. Men när det inte hände,
+<lb/>skickade Johannes i väg med en till. Inte
+<lb/>heller denna gång kunde vi höra om den nådde
+<lb/>marken. Det var som om den fortsatt genom
+<lb/>rymden och för alltid skulle fortsätta. Det var
+<lb/>då jag fann på ett bra förslag, som på en gång
+<lb/>skulle lösa hela gåtan: jag bad Johannes
+<lb/>kasta dit en <hi rend="i">eldbrand,</hi> så kunde vi åtminstone
+<lb/>se vart den tog vägen. Men aldrig har jag
+<pb n="38"/>
+<lb/>sett en lysande idé i form av en eldbrand
+<lb/>mottagas med så stort förakt. Det fick man
+<lb/>inte, sade han, om man slungade eld bort
+<lb/>från lägerstället, kunde man råka illa ut. Det
+<lb/>var lika farligt som att döda en fisk med en
+<lb/>kniv, i stället för att slå den mot paddeln.
+<lb/>Jag frågade om jag fick kasta dit den då,
+<lb/>så skulle jag ta risken, men han syntes
+<lb/>verkligen rädd för det, så det måste ju vara.
+<lb/>Han skar ett kors med kniven i en ved&#x00AD;
+<lb/>klump och sade att han skulle märka den och
+<lb/>sedan kasta den för att höra om den inte slog
+<lb/>ned då. På morgonen kunde vi sedan lätt se
+<lb/>efter, om den låg där vi kastat den.</p>
+<p rend="indfirst">Han gjorde det, den slog aldrig ned på
+<lb/>marken, den heller. Han kastade dit flera, så
+<lb/>att vi till sist hade hela vårt vedförråd utkastat
+<lb/>i den eviga rymden, utan hopp om att få det
+<lb/>tillbaka.</p>
+<p rend="indfirst">Well, det blev morgon, och det första vi
+<lb/>sågo var den ofantliga, nästan uppruttnade hö&#x00AD;
+<lb/>stack, på vilken Johannes slängt upp så många
+<lb/>klumpar med och utan kors. Han skrattade
+<lb/>inte, han såg ond ut, och följaktligen skrattade
+<lb/>inte jag heller. Vi snokade runt campen och
+<lb/>hittade ett stycke bort i skogen en lergrop,
+<lb/>övertäckt med en tom fläsklåda. Johannes
+<lb/>sparkade bort lådan. Gropen var fylld med
+<pb n="39"/>
+<lb/>ris och stenar. Han sade inte ett ord, men
+<lb/>han tittade på mig.</p>
+<p rend="indfirst">– Tror du? sade jag för att säga något.</p>
+<p rend="indfirst">– Den kan inte vara djup, svarade han
+<lb/>grubblande, det är lätt att titta efter. Om
+<lb/>Base Ball slog ihjäl honom och stoppade ner
+<lb/>honom här, var han dum. Då var det bara
+<lb/>en slump att dom inte tittade hit. Det här är
+<lb/>en vanlig grop som dom grävde när dom rap&#x00AD;
+<lb/>pade kåkarna. Blir du med, gosse, så gräver
+<lb/>vi opp honom?</p>
+<p rend="indfirst">Jag tyckte inte det var roligt alls, men det
+<lb/>var dagsljus nu, och allting föreföll mindre
+<lb/>hemskt. Men ett ruttet lik var ju inte trevligt
+<lb/>att leta efter, varför jag försökte avstyra.</p>
+<p rend="indfirst">– Va ska vi med de att göra? sade jag
+<lb/>sorgset. Han har de bäst som han har de, å
+<lb/>vi kan inte blåsa liv i han igen.</p>
+<p rend="indfirst">Jag gick på som en hästhandlare och till
+<lb/>sist gav han med sig, och vi gav oss i väg
+<lb/>mot floden, där vi skulle jaga med lykta natten
+<lb/>efter. Vi gjorde det också, Johannes sköt två
+<lb/>råbockar samma natt, och vi hängde upp dem
+<lb/>på en stång, lagd mellan grenarna på två bok&#x00AD;
+<lb/>träd, och beslöto att försöka vår lycka ännu
+<lb/>en natt.</p>
+<p rend="indfirst">Under hela tiden talade Johannes bara om
+<lb/>Stammering Frank och hur säker han var på,
+<pb n="40"/>
+<lb/>att han låg och sov i lergropen. Jag kände
+<lb/>mig inte alls så säker, men jag bråkar inte
+<lb/>med folk som har fixa idéer. Det ska man
+<lb/>aldrig göra, man ska för resten låta var och
+<lb/>en idiot hålla på med sina dumheter i fred,
+<lb/>det lärde jag mig där ute, och mådde alltid bra
+<lb/>av det. Den som vill uppfostra och rätta och
+<lb/>tillrättavisa andra råkar förr eller senare i
+<lb/>slagsmål, och det är det dummaste som finns.</p>
+<p rend="indfirst">Efter den tiden hade Johannes nästan lika
+<lb/>många syner som hans namne i Nya testa&#x00AD;
+<lb/>mentet. Han såg Stammering Frank var han
+<lb/>än låg, hemma eller i skogen, och han påstod
+<lb/>att Frank ville att Johannes skulle ta reda på
+<lb/>hans lik. Han skulle inte få någon ro innan
+<lb/>han gjort det.</p>
+<p rend="indfirst">Vi skildes sedan, och inte vet jag om Jo&#x00AD;
+<lb/>hannes hittade hans lik eller om han någonsin
+<lb/>grävde upp den gamla lergropen.</p>
+<p rend="indfirst">Jag vet bara ett: att jag mötte Stammering
+<lb/>Frank en höstdag uppe vid Brainerd, utanför
+<lb/>svensken Swan Bloomburgs Drug Store. Jag
+<lb/>har ännu inte gjort mig klart, vad han vill
+<lb/>mig, eller om han slutat att visa sig för Jo&#x00AD;
+<lb/>hannes. Jag frågade om han inte var död,
+<lb/>om han inte mördats av Base Ball o. s. v.
+<lb/>Vartill han svarade:</p>
+<p rend="indfirst">– D-d-d-d-d-om d-d-d-amn-dd i-ddi-oter all
+<pb n="41"/>
+<lb/>of them, s-s-som säjer j-j-j-j-agg är d-död!
+<lb/>F-f-an g-gale mig! B-B-base Ball hit å B-base&#x00AD;
+<lb/>ball dit å mmmå djävulen ta – – – </p>
+<p rend="indfirst">– Men sheriffen, han tog ditt knyte.</p>
+<p rend="indfirst">Stammering Frank spärrade upp ögonen i
+<lb/>pur oförståelse.</p>
+<p rend="indfirst">– J-J-J-Jagg h-h-adde-de inget k-k-nyte, -jagg,
+<lb/>f-fan gale mäj. D-då tog h-h-han B-b-aseballs
+<lb/>över-h-halars å B-base Balls k-k-kalsongor som
+<lb/>Base Ball t-t-ook hop i ett k-k-nyte, f-f-f-an
+<lb/>g-gale m-m-äj.</p>
+<p rend="indfirst">– Hade ni bägge sällskap från campen?
+<lb/>nästan vrålade jag fram.</p>
+<p rend="indfirst">– Oh yes, sure-sure, fine fellow, Base B-b-ball,
+<lb/>fan gnugge m-m-äj. M-m-men lump-perna s-som
+<lb/>sh-sh-sheriff tock var f-full av l-lus! N-n-nu
+<lb/>nu-nu you have a slunk-k o’ beer, f-f-fan
+<lb/>g-g-gale mäj!</p>
+<pb n="42"/>
+</div2>
+<div2 type="chapter" xml:id="Kap04">
+<head rend="big center chaptername">IV.</head>
+<lb/>
+<p>»Och nog så är jag gammal och mina gråa hår
+<lb/>de skall snart bäddas neder uti graven,
+<lb/>och mellan mig och min faders gamla gård
+<lb/>går de stora vilda stormar uppå haven ...»</p>
+<lb/>
+<p rend="indfirst">Det var den lille veke gubben Paul Peter
+<lb/>Sonberg som sjöng detta just som jag en kväll
+<lb/>kom upp till hans blockhus. Han hade sol&#x00AD;
+<lb/>bitet ansikte, med otaliga ärr efter kopporna
+<lb/>och långt skägg. Han satt på stockstängslet
+<lb/>en bit bakom stallet och höll en arm om var&#x00AD;
+<lb/>dera av halsarna på två nästan vilda hästar,
+<lb/>som ibland kommo upp till inhägnaden och
+<lb/>som ingen annan fick komma nära, därunder
+<lb/>sjungande den anförda sången. Men han kunde
+<lb/>också ibland dra till med Napoleons marsch,
+<lb/>»A farmers boy, hoe out your row», och, om
+<lb/>han var riktigt i tagen, den gamla äktsvenska:
+<lb/>»Å när som jag kommer till vännen min, för
+<lb/>nionde nio-nio-nio-nio-nionde-milli-millijon»,
+<pb n="43"/>
+<lb/>o. s. v. Men nu sjöng han liksom i ett slags
+<lb/>hemlängtan, han hade varit fyrtio år i landet,
+<lb/>men man glömmer inte, man kommer ibland
+<lb/>att liksom tänka på en del ... De långhåriga
+<lb/>hästarna blundade åt hans sång och hans
+<lb/>breda basröst skallade ut i den ljumma kvällen,
+<lb/>kring vattenmelonlandet där eldflugorna dan&#x00AD;
+<lb/>sade. En ljum vind spelade från sjön. Gubben
+<lb/>lösgjorde sig försiktigt från hästarna, hoppade
+<lb/>ned från stängslet och sade:</p>
+<p rend="indfirst">– Längtar du hem, gosse?</p>
+<p rend="indfirst">– Nej, sade jag och drog mig tillbaka ett
+<lb/>steg, ty hästarna skyggade, och ni då, farbror
+<lb/>Sonberg? Tycker det låter så?</p>
+<p rend="indfirst">– By Gallys, no sir! Ett tag gjorde jag det,
+<lb/>men nu får det vara. Har du sett min för&#x00AD;
+<lb/>mögenhet, gosse? Jag har visst inte visat däj
+<lb/>min förmögenhet? Jag har den där bakom
+<lb/>corn-cribben, vänta – så så, behave you, Dolly,
+<lb/>shame on you, Queen, nu får ni gå! Kan du
+<lb/>tänka däj, gosse, att den där gamla stiliga
+<lb/>märren, Queen, den har jag fått i present av
+<lb/>en svensk luffare!</p>
+<p rend="indfirst">– En som luffade till häst? undrade jag.</p>
+<p rend="indfirst">Han smålog stilla och följde mig bakom
+<lb/>majsladan, pekande på en hög med järnskrot,
+<lb/>delar av en arbetsvagn, järn ur selar, rostiga
+<lb/>spikar, bitar av förstörda skjutgevär, skruvar,
+<pb n="44"/>
+<lb/>brutna rör av stål – allt i en färg som om
+<lb/>det haft med eld att göra, fast länge sedan. Jag
+<lb/>satte mig på ett gammalt smedstäd vid ändan
+<lb/>av majsladan och tittade ut över sjön, som
+<lb/>svartnade under en sky som beck. Långt
+<lb/>bortåt Ilands Lake brakade en gevärssalva
+<lb/>loss.</p>
+<p rend="indfirst">– Det är turisterna – bokhållarna från
+<lb/>Duluth, som skjuter <hi rend="i">bluejades</hi> och sparvar, fnös
+<lb/>Sonberg. Skrämmer bort hjortarna ur trakten
+<lb/>– skulle hängas. Jo, det här är min för&#x00AD;
+<lb/>mögenhet, här ser du allt jag har fått över av
+<lb/>fyrtio års möda, jag har haft otur, jag. Jag
+<lb/>och Julius Ekberg, som var studerande men
+<lb/>inte skötte säj så han måste rymma hit – vi
+<lb/>kom till Chicago, det var hårda tider, han var
+<lb/>vekare än jag, och det var nån som tyckte
+<lb/>synd om stackarn så han fick sitta på såg&#x00AD;
+<lb/>verkskontoret medan jag arbetade på sågen,
+<lb/>men han förstörde alla sina pengar på whisky
+<lb/>och horor, och han fick sparken och vart tak&#x00AD;
+<lb/>lös i stan, vintern vart skarp år sjuttifyra i
+<lb/>Chicago, och fast jag hade bara ett rum och
+<lb/>familj, så fick jag låta aset ligga hos mäj på
+<lb/>nätterna. Och så kom sommarn – det var
+<lb/>så hett på sågen, där jag stod i mitt arbete
+<lb/>flöt svetten under mäj ner i transportbandet,
+<lb/>så det var jämt rötvått av svett i spånen, och
+<pb n="45"/>
+<lb/>jag trillade en gång och kom på sjukhus, och
+<lb/>så måste jag sluta, jag skulle bli farmare och
+<lb/>jag fick låna till en resa söderut, men Ekberg
+<lb/>var försvunnen, och jag var glad vara av med
+<lb/>honom; när jag fick min första farm vid Forest
+<lb/>Lake tyckte jag han kunde kommit och hjälpt
+<lb/>mäj, för pojkarna var i skolan då än, men
+<lb/>han var borta, trodde han var död. Well, jag
+<lb/>ska inte beskriva allting för däj, för det hör
+<lb/>inte hit, hur jag jobbade dag och natt och hur
+<lb/>jag krälade mäj opp ur den allra värsta fattig&#x00AD;
+<lb/>domen tum för tum. Det kom en dag när
+<lb/>jag inte behövde köra släpdon mer, jag köpte
+<lb/>vagn. Det må du tro är ett framsteg i skogen,
+<lb/>det. Jag hade en farm ändå och pesten tog
+<lb/>bägge mina hästar och kopporna tog Maria
+<lb/>så jag sålde landet och köpte en jordbit med
+<lb/>ett hus längre norr, det var inte riktiga papper
+<lb/>på det, så jag fick gå min väg efter två års
+<lb/>arbete. Nu hade jag bara mitt fattiga lösörebo,
+<lb/>och jag drog i väg hit och jag fick kvartera
+<lb/>in mina två hästar jag köpt på nytt i Draggers
+<lb/>camp vid Gin Lake. Och så när jag börjat
+<lb/>få opp blockhuset här – å jag arbetade, jag
+<lb/>var alltid ensam, och gjorde all clearing själv
+<lb/>och högg ihop timret, för barnen hade jag i
+<lb/>Minneapolis tills kojan skulle få tak över säj,
+<lb/>jo, och då hade jag tagit dit, till Draggers camp,
+<pb n="46"/>
+<lb/>mina tjugu höns och skulle bygga ett bark&#x00AD;
+<lb/>skjul åt dem, för nätterna var kalla. Så en
+<lb/>kväll när jag var trött och hade tänt en eld
+<lb/>där borta framför cribben och låg och tänkte
+<lb/>på att jag snart skulle vara som en kung här.
+<lb/>För hästar och vagn och plog och harvar –
+<lb/>allting – å seldon och en bra sats havre, det
+<lb/>hade jag nu i den gamla campen vid Draggers.</p>
+<p rend="indfirst">Sonberg halvlåg intill elden, så mycket i
+<lb/>röken som möjligt för att rädda sig undan
+<lb/>moskiterna. Hans magra ansikte med det gråa
+<lb/>skägget hade fått ett uttryck av hoppressad
+<lb/>smärta, men han såg inte en enda gång på
+<lb/>mig.</p>
+<p rend="indfirst">– Jo – och då kom Jimsons pojke sprin&#x00AD;
+<lb/>gande och skrek någonting där uppe i gläntan.
+<lb/>Jag trodde han hittat färska hjortspår – och
+<lb/>så – och så hörde jag vad han sa – han sa
+<lb/>att <hi rend="i">Draggers camp brann!</hi> Jag fick tag i pojken,
+<lb/>jag skakade honom och skrek, jag trodde inte,
+<lb/>tills han slet sig loss och sprang och vrålade
+<lb/>dessa ord: – Skynda däj då, gubbe, för allt du
+<lb/>har brinner åt hell, sade han. – Är där ingen,
+<lb/>ingen som kan få ut hästarna, skrek jag i det
+<lb/>jag löpte som en råbock genom snåren. – Jag
+<lb/>vet inte, svarade han, för han flämtade så han
+<lb/>kunde inte tala, men han sa att det var en
+<lb/><hi rend="i">tramp</hi> där, och han hade varit in flera gånger
+<pb n="47"/>
+<lb/>men inte fått ut nånting ännu, för hästarna
+<lb/>gick förstås inte ut.</p>
+<p rend="indfirst">Det var, du må tro mäj eller inte, så var
+<lb/>det Julius Ekberg som var där, och han låg
+<lb/>illa bränd utanför på backen och ingen hade
+<lb/>tid att syssla med honom. Han hade fått ut
+<lb/>den ena av hästarna, den andra tog brasan
+<lb/>med säj. Har du hört en häst skrika inne i
+<lb/>en eldsvåda? Det har jag hört, det låter inte
+<lb/>bra. Allt det jag hade brann upp. Den där
+<lb/>skrothögen du såg, det vart kvar, och så Queen,
+<lb/>den gamla märren. Och så var det detta med
+<lb/>Ekberg, som fått alldeles nog, men så mycke
+<lb/>hann han säja, så jag förstod att han kommit
+<lb/>vägen upp för att höra om han fick arbeta åt
+<lb/>mäj, och så hade nån tuttat på strax förut,
+<lb/>och pojken, Jimsons kid, han sa, att trampen
+<lb/>– det var Ekberg, det – hade varit in gång
+<lb/>på gång i stallet. Och nu tyckte han att vi
+<lb/>var liksom kvitt, för han hade liksom nu tackat
+<lb/>mäj för han fick ligga på golvet när vintern
+<lb/>var så där hård sjuttifyra. – Jag har skänkt
+<lb/>däj en häst, sa han, och det är inte så litet
+<lb/>mitt i skogen. Och den andra dagen vart han
+<lb/>kvitt, det var inte möjligt att få honom till
+<lb/>station eller få nån läkare. Och sir du, gosse,
+<lb/>hur det kan komma säj, att man får en häst
+<lb/>till skänks av en tramp!</p>
+<pb n="48"/>
+<p rend="indfirst">Gubben Sonberg tiger, han bär mer ved på
+<lb/>elden och tänder sin majskolvspipa, och han
+<lb/>smågnolar litet för sig själv, medan han rör i
+<lb/>elden. Natten, norra Minnesotas, den kanadiska
+<lb/>gränsens underbara natt kommer tung över de
+<lb/>väldiga skogarna, och sjön där borta försvinner
+<lb/>allt mer, tills månen, stilla som en stadigt
+<lb/>brinnande lampa, står upp bakom cederskogen
+<lb/>och lyser på ändlösa hav av myrland, kullar,
+<lb/>bok och ek och furu. Små dova virvlar av
+<lb/>en trumma höras från den lilla indianbyn vid
+<lb/>Rice Lake.</p>
+<pb n="49"/>
+</div2>
+<div2 type="chapter" xml:id="Kap05">
+<head rend="big center chaptername">V.</head>
+<lb/>
+<p rend="indfirst">Den vildsintaste man jag någonsin sett var
+<lb/>irländaren Pat Collie från Arizonatrakten. Jag
+<lb/>träffade honom i en övergiven loggcamp vid
+<lb/>Parrs Creek, som ligger i det allra nordligaste
+<lb/>Minnesota, på ungefär 48 gr. n. br. och 92 gr.
+<lb/>v. längd. Om ni tänker er var dessa linjer
+<lb/>skära varandra, är ni några mil söder om
+<lb/>platsen. Jag hade gått ut från min mycket
+<lb/>gode vän Simmons loggcamp och gått vilse, och
+<lb/>vart mycket glad när jag fick se att det rökte
+<lb/>ur det gamla rucklet. Jag gick in och fann
+<lb/>Collie sittande framför en fräsande fläskpanna,
+<lb/>och om en timme var vi de bästa vänner i
+<lb/>världen. Han var en ovanligt stor och stark
+<lb/>karl, och besatt en sällsynt färdighet i att ljuga
+<lb/>och att laga mat, två dygder som han uppövat på
+<lb/>skilda platser, mest vid Yukon, påstod han. I
+<lb/>alla fall kunde han steka fläsk efter en särskild
+<lb/>metod, så att det blev mörare än vanligt.</p>
+<p rend="indfirst">Han berättade mig hela sin historia i all
+<pb n="50"/>
+<lb/>korthet. Hans far var farmare i Arizona och
+<lb/>Pat var född där. Modern hade dött i smitt&#x00AD;
+<lb/>kopporna när han var tolv år, och fadern hade
+<lb/>då flyttat tillbaka till den gröna ön igen, var&#x00AD;
+<lb/>emot Pat stannat kvar hos en släkting tills
+<lb/>han blev fjorton, då han rymde och började
+<lb/>sitt liv. Han hade slagit ihjäl några människor
+<lb/>och skadskjutit många, sade han, och han rådde
+<lb/>inte för att hans humör var sådant. Emeller&#x00AD;
+<lb/>tid har jag aldrig träffat en vänligare män&#x00AD;
+<lb/>niska än Collie. Han gav mig sin bästa
+<lb/>madrass att ligga på, lagade mat för oss bägge
+<lb/>och vi delade vår tobak och vårt kaffe som
+<lb/>bröder. Vi låg hela nätterna och pratade om
+<lb/>våra upplevelser och vi fiskade gäddor i Parrs
+<lb/>Creek på dagarna.</p>
+<p rend="indfirst">Han skrattade åt att jag kunnat gå vilse och
+<lb/>komma så långt bort, och rådde mig att stanna
+<lb/>och vila mig en månad där uppe, men då jag
+<lb/>visste att Simmons var orolig för mig, togo vi
+<lb/>oss före med att gå hem och taga honom med
+<lb/>hit upp. Så att inom en vecka voro vi tre
+<lb/>där, och jag försäkrar att vi inte fann tillvaron
+<lb/>ledsam alls.</p>
+<p rend="indfirst">Hjortjakten var ganska givande där ännu,
+<lb/>och vi hade gott om kött och fisk. Däremot
+<lb/>hade vi ont om tre saker: bröd, kaffe och krut.
+<lb/>Irländaren hade ingenting emot att ha gemen&#x00AD;
+<pb n="51"/>
+<lb/>sam egendom med kamraterna, utom när det
+<lb/>gällde krutet, om vilket han var så rädd och
+<lb/>snål, att han aldrig lånade bort eller gav bort
+<lb/>ens ett korn. Han förvarade sitt krutförråd i
+<lb/>en låda av bleckplåt, och vid det tillfälle när
+<lb/>jag gjorde mig till ovän med honom, hade han
+<lb/>den gömd under bädden.</p>
+<p rend="indfirst">När jag en dag kom hem från skogen var
+<lb/>Collie borta, men Simmons berättade att han
+<lb/>laddat elva patroner med mitt krut, så att ej
+<lb/>mer var kvar än ungefär till tre. Jag skulle
+<lb/>inte ha sagt något därom om han ej varit den
+<lb/>han var, men i fråga om krutet var han aldrig
+<lb/>vår kamrat, och vi vågade aldrig låna av honom.
+<lb/>Nu beslöt jag dumt nog att hämnas. Jag dök
+<lb/>in under hans säng och tog ut blecklådan, där
+<lb/>fanns åtminstone ett halvt kilogram krut, och
+<lb/>det var mig en fullständig gåta varför han tagit
+<lb/>mitt. Men Simmons påstod att det var ett
+<lb/>sorts vansinne, han hade träffat en sådan tok
+<lb/>förut, en hästhandlare från Connecticut, som
+<lb/>stulit skogar i Kanada och sålt, suttit i Still&#x00AD;
+<lb/>water två månader och sedan släppts fri. Han
+<lb/>tålde allting här i världen och var jordens
+<lb/>ärligaste människa, utom när det gällde krut, då
+<lb/>stal han alltid av kamraterna allt han kom över.</p>
+<p rend="indfirst">Simmons rådde mig att låta saken vara, men
+<pb n="52"/>
+<lb/>jag fick den vansinniga idén att bota Collie
+<lb/>för hans sjukdom.</p>
+<p rend="indfirst">Ute på stallbacken låg en bit av en ofantligt
+<lb/>grov pipa, som ursprungligen kommit dit för
+<lb/>att användas som slägga. Den var ungefår två
+<lb/>fot lång, sluten i ena ändan och hade ett hål
+<lb/>på sidan där. Vi hade många gånger skämtat
+<lb/>om att använda den som kanon, om vi bara
+<lb/>haft rikligt nog med krut för att göra för&#x00AD;
+<lb/>söket. Simmons hade hittat en kula som
+<lb/>passade precis till pipan, och vi hade ofta
+<lb/>diskuterat hur pass långt den kunde gå, om
+<lb/>kanonen laddades ordentligt.</p>
+<p rend="indfirst">Simmons blev rädd när han såg vad jag
+<lb/>gjorde, men han visste att det inte lönade att
+<lb/>tala med mig när jag fått något i huvudet. Nu
+<lb/>skulle jag visa irländaren vad jag tordes: inte
+<lb/>bara ta hans krut, men också skjuta av det
+<lb/>på lek. Jag var ovanligt stor och stark, men
+<lb/>i jätten Collies händer var jag en leksak. Det
+<lb/>visste jag, men jag laddade »kanonen» lika&#x00AD;
+<lb/>fullt. Jag visste knappast i de dagarna vad
+<lb/>rädsla ville säga, mitt övermod gränsade till
+<lb/>vansinne. Simmons var en fyrtio års man och
+<lb/>han nästan grät, när han såg vad jag gjorde.
+<lb/>Han hade känt min far och höll nästan av
+<lb/>mig som en son. Men Collies oförskämdhet
+<lb/>att även i de mest kritiska situationer vägra
+<pb n="53"/>
+<lb/>att dela med sig sitt krut, för att sedan stjäla
+<lb/>mitt i onödan, hade retat mig så att jag nu
+<lb/>satte mitt liv på spel för att hämnas, och det
+<lb/>på ett mycket barnsligt sätt.</p>
+<p rend="indfirst">Simmons deltog inte i mina förberedelser.</p>
+<p rend="indfirst">Jag tog hela Collies återstående krutförråd,
+<lb/>lämnande blott lika mycket som han lämnat
+<lb/>kvar av mitt, och hällde det i den gamla rostiga
+<lb/>järnpipan. Sedan stampade jag ihop det hårt
+<lb/>med en trästav, pressade in en massa trasor till
+<lb/>förladdning och lade i kulan. Jag bar ut
+<lb/>»kanonen» på backen och naglade fast den på
+<lb/>en ofantlig trästubbe med rälsspik, varpå jag
+<lb/>förfärdigade en lunta av trassel och fotogen,
+<lb/>på det sättet att jag dränkte trasseln i fotogen
+<lb/>och virade den om ett metspö. Jag bröt av
+<lb/>metspöet så att det var ungefär tre yards långt
+<lb/>och ordnade så att jag kunde lägga ifrån mig
+<lb/>luntan med dess ännu ej brinnande ända i
+<lb/>fänghålet, ty jag trodde att pipan skulle springa
+<lb/>och ville ej ha järnskrotet i ögonen.</p>
+<p rend="indfirst">Jag föreslog att vi inte skulle tända kanonen
+<lb/>innan Collie kom hem, men eftersom vi inte
+<lb/>kunde veta hur länge det kunde dröja, riktade
+<lb/>jag in den så gott jag kunde mot en sandbank
+<lb/>etthundra yards bort – jag inbillade mig att
+<lb/>kulan skulle kunna gå så långt – och så lade
+<lb/>jag dit luntan, tände på och steg ett bra stycke
+<pb n="54"/>
+<lb/>ifrån, men inte längre än att jag kunde se,
+<lb/>avståndet var kanske sex meter, längre ansåg
+<lb/>jag mig inte behöva gå för att vara skyddad,
+<lb/>och så stod jag där och såg hur rasande hastigt
+<lb/>trasslet brann runt käppen, jag nästan inte
+<lb/>hann tänka, innan jag hörde en ganska ilsken
+<lb/>smäll.</p>
+<p rend="indfirst">Jag vaknade på samma plats jag fallit och
+<lb/>undrade om jag var blind, men så såg jag
+<lb/>stjärnorna tindra. Då tog jag mig om huvudet,
+<lb/>ty jag tog för givet att jag var sårad, men jag
+<lb/>kunde ej finna att jag skadat mig alls. Säkert
+<lb/>hade jag träffats i bröstet eller maggropen av
+<lb/>en bit av kanonen. Nu reste jag mig upp och
+<lb/>ropade på Simmons, som kom ut. Han var
+<lb/>arg över hela tillställningen och sade att det
+<lb/>varit det bästa om jag skjutit ihjäl mig själv,
+<lb/>så att Collie sluppit göra det. Irländaren kunde
+<lb/>vara att vänta när som helst, och Simmons
+<lb/>tog avsked av mig, så säker var han att något
+<lb/>skulle ske. Jag visste också, att om Collie
+<lb/>sköt mig, skulle Simmons skjuta Collie, och
+<lb/>jag började tycka det var otäckt.</p>
+<p rend="indfirst">När Collie kom hem saknade han inte sitt
+<lb/>krut genast. Ingen av oss sade ett ord om det
+<lb/>krut han tagit från mig. Inte heller kunde vi
+<lb/>tänka på att ge oss i väg, då skulle han genast
+<pb n="55"/>
+<lb/>ta fram sitt krut för att ladda innan han följde
+<lb/>oss på väg.</p>
+<p rend="indfirst">Dagen efter satt jag framför spiseln och rökte,
+<lb/>när Collie tog fram blecklådan. Jag tänkte
+<lb/>skynda mig att kasta ut hans bössa genom
+<lb/>den öppna dörren, men så kom jag ihåg att
+<lb/>den var oladdad. Simmons stod i ett hörn av
+<lb/>rummet och iakttog Collie noga. Irländarens
+<lb/>ansikte uttryckte först en omåttlig förvåning,
+<lb/>därefter såg han på mig, och troende att jag bara
+<lb/>gömt krutet för att reta honom sade han med
+<lb/>låg, nästan viskande röst:</p>
+<p rend="indfirst">– Ta hit det, genast!</p>
+<p rend="indfirst">Aldrig har jag sett något så skälvande av
+<lb/>både raseri och förskräckelse, som hans an&#x00AD;
+<lb/>sikte då. Men trots att jag kände mig lyftad
+<lb/>alldeles inpå näsan av döden kunde jag ej låta
+<lb/>bli att ge honom salvan:</p>
+<p rend="indfirst">– Det har jag skjutit bort i kanonen, vi
+<lb/>talade på i går.</p>
+<p rend="indfirst">Jag ville inte se på hans ansikte nu, jag
+<lb/>fortsatte att röka, och jag hörde Simmons andas
+<lb/>häftigt i sitt hörn. Men något susade förbi
+<lb/>mitt öra och slog sönder en tackjärnspanna
+<lb/>vid dörren när det föll ned. Jag behövde inte
+<lb/>titta vad det var: det var det lilla gjutjärns&#x00AD;
+<lb/>städet, det vägde sex pounds. Jag såg inte
+<pb n="56"/>
+<lb/>upp, jag väntade, men han rörde sig inte. Om
+<lb/>jag ser på honom, tänkte jag, så dödar han
+<lb/>mig. Han skakade så att jag hörde det. Därpå
+<lb/>rusade han ut.</p>
+<p rend="indfirst">Vi befunno oss i en oerhörd, stilla spänning
+<lb/>medan vi väntade på, att han skulle döda oss
+<lb/>bägge. Han hade lämnat bössan kvar i rummet,
+<lb/>och vi kunde ej göra oss en föreställning om
+<lb/>vad han gjorde ute i mörkret så länge.</p>
+<p rend="indfirst">När vi lagt oss – vi lågo fullt påklädda och
+<lb/>med var sin revolver – kom han in, gnolande
+<lb/>en gammal vaggvisa, under det han tände en
+<lb/>liten blecklampa och gick omkring, stökande
+<lb/>med något. Han skulle lyfta en tunna med
+<lb/>vatten i från spiseln, men den var för tung för
+<lb/>honom, varför jag gick upp och hjälpte honom.
+<lb/>Han föreföll ovanligt munter och glad, men
+<lb/>såg inte upp på mig en enda gång. Jag antar,
+<lb/>att vi bägge skämdes ungefär lika mycket och
+<lb/>försoningen verkställdes så, att jag dagen därpå
+<lb/>undervisade honom i nätbindning, varunder
+<lb/>han föreföll ovanligt uppmärksam och läraktig.</p>
+<p rend="indfirst">En gång sköt han tätt förbi mitt huvud
+<lb/>i ilskan över att jag bommat på en råbock,
+<lb/>som han i tre kvarts timme motat genom
+<lb/>kärren mot mitt posthåll. Det säger jag ingen&#x00AD;
+<lb/>ting om, man kan bli arg för mindre.</p>
+<p rend="indfirst">En annan gång tänkte han dränka mig genom
+<pb n="57"/>
+<lb/>att tippa båten med oss bägge och eftersom
+<lb/>jag var klen simmare, men så fort vi kommit
+<lb/>i vattnet räddade han mig genom att åter ta
+<lb/>upp mig i båten.</p>
+<p rend="indfirst">Den sista gången jag var i delo med Collie
+<lb/>hade han med all säkerhet mördat mig, krossat
+<lb/>mitt huvud, men den gången sprang jag, ty
+<lb/>jag liksom kände på mig att det var fråga om
+<lb/>den senare delen. Jag hörde honom flåsa allt
+<lb/>närmare mig och jag kände att jag inte skulle
+<lb/>orka många steg mer, när jag plötsligt märkte
+<lb/>att han blivit efter. Då vände jag och tittade.
+<lb/>Han låg och jämrade. Han hade trampat på
+<lb/>en krokig och spetsig stör, som rest sig på
+<lb/>ända och trängt in i hans ena ljumske. Jag
+<lb/>vårdade honom i tre dagar, varunder han hade
+<lb/>feber och dillade om att jag skulle gå till
+<lb/>Dublin och köpa surkål åt honom, ty han
+<lb/>menade att det stillade plågorna. Jag gav
+<lb/>honom brännvin och konjak och whisky efter
+<lb/>vartannat, ur hans eget förråd, och ehuru jag
+<lb/>inte hade feber drack jag nästan lika mycket
+<lb/>som han, vilket han högeligen gillade. Han
+<lb/>sade att eftersom han och jag trivdes så bra
+<lb/>ihop, skulle jag, som var skrivkunnig, under&#x00AD;
+<lb/>handla med kanadiska dominionens landkontor
+<lb/>i Red Wing, så skulle vi sälja trettio skinn och
+<lb/>köpa jord för ungefär femton dollars att börja
+<pb n="58"/>
+<lb/>med. Den kostade för resten ingenting, sade
+<lb/>han, varvid han menade de frihemman som
+<lb/>utdelas i varje vilt township till verkliga ny&#x00AD;
+<lb/>byggare, men om vi köpte av Hudson Bay&#x00AD;
+<lb/>bolaget kunde vi få tre tunnland odlad jord
+<lb/>för trettio dollars, och han påstod sig ha reda
+<lb/>på var den bästa jorden fanns.</p>
+<p rend="indfirst">Jag sade honom att jag var mycket livad för
+<lb/>saken, men varför skulle vi fara så långt bort?
+<lb/>Det gick ju an att få etthundrasexti acres fritt
+<lb/>och odlingsbart land gratis här i norra Min&#x00AD;
+<lb/>nesota, men han sade att den här staten sköttes
+<lb/>så förbannat illa. Han sade att det var judar
+<lb/>som sutto på regeringens landkontor, och att
+<lb/>han en gång var i färd med att gå in på land&#x00AD;
+<lb/>agentens kontor i Aitkin, men vart hundbiten
+<lb/>på trappan, så inte kom det på fråga att stanna
+<lb/>här inte. Nej, Kanada det var platsen, där
+<lb/>kunde man jaga älg, rådjur, änder, gäss, svanar,
+<lb/>lommar och pelikaner.</p>
+<p rend="indfirst">– Men alla de där finns här också, sade jag.</p>
+<p rend="indfirst">– Det kan väl hända, sade han, men dom
+<lb/>är större där.</p>
+<p rend="indfirst">När han blev fullt återställd hade han glömt
+<lb/>bort att han skulle bli farmare i Kanada.
+<lb/>Simmons, som vi inte sett på en vecka, kom
+<lb/>till oss en dag och pratade om att skatteindri&#x00AD;
+<lb/>varen gick omkring nere i Sparta och skrävlade
+<pb n="59"/>
+<lb/>om att det måtte bli slut på lösdriveriet här
+<lb/>uppe. Vi sålde så många skinn per år hade
+<lb/>han sagt, att vi gott kunde skattskriva oss. Vi
+<lb/>visste nog vad det var för ett Sparta han me&#x00AD;
+<lb/>nade, och jag sade att det var lika bra att han
+<lb/>gav sig i väg till Aten, det intresserade oss lika
+<lb/>mycket, ty ända hit upp hittade han inte. Men
+<lb/>Collie var ond och beslöt på stället att mörda
+<lb/>skattemannen, vartill vi önskade honom all
+<lb/>framgång.</p>
+<p rend="indfirst">Simmons hade i sitt sällskap en av de
+<lb/>värsta lösdrivare som väl trampat kring i norra
+<lb/>staterna. Han var klädd i mockasiner och
+<lb/>byxor av sämskat skinn med fransar nedtill,
+<lb/>som han själv klippt med en sax. Dessa byxor
+<lb/>räckte ungefär två tum över knäna, och benen
+<lb/>betäcktes av ett par grova raggstrumpor. Han
+<lb/>hade en sådan skinnjacka på sig som indianerna
+<lb/>förfärdiga och sälja till de vita, när de få besök
+<lb/>av dem i indianreservationerna, men som de
+<lb/>aldrig bära själva. Mannen försökte göra sig
+<lb/>genom att verka indian, och det skulle heller
+<lb/>inte ha missklätt honom om han burit stjärten
+<lb/>av en påfågel i hatten, där han nu i stället
+<lb/>hade revolverpatronerna instuckna innanför
+<lb/>bandet, med stålmantlarna uppåt. Han bar ett
+<lb/>repetergevär, kaliber 32, över axeln, och tyckte
+<lb/>inte om att Simmons kallade den råttbössa.
+<pb n="60"/>
+<lb/>(Varje kaliber under 44 anses mindervärdig
+<lb/>där uppe.) Han jagade tydligen den lagade
+<lb/>maten med större iver, än det kött som ännu
+<lb/>sprang i skogen, fast han skrävlade om sina
+<lb/>jakter värre än Fred Nelson. Måhända att han
+<lb/>uppnått fyrtio år, han var mager, såg härdig
+<lb/>ut och kunde blåsa träpipa. En sak var viss:
+<lb/>han avskydde arbete som pesten och vandrade
+<lb/>från camp till camp för att skrävla för mat. I
+<lb/>Australien kallas typen för »solnedgångaren»,
+<lb/>därför att han uppträder i lägret alltid mot
+<lb/>kvällen. Här har han intet särskilt öknamn,
+<lb/>men han uppgav sitt rätta namn vara Frederick
+<lb/>Blackbury från Alberta. Hans enda dygd var
+<lb/>att han kunde berätta historier.</p>
+<p rend="indfirst">Vi sutto framför elden i den gamla timmer&#x00AD;
+<lb/>kojan vid Parrs Creek och vi hade druckit
+<lb/>något och rökt mycket. Vi hade mat i över&#x00AD;
+<lb/>flöd. Utanför väggarna dundrade vinden, som
+<lb/>tjutit över Po-gon-vi-se-be, innan den nått vår
+<lb/>lugna vrå mellan sandåsarna. Frederick satt
+<lb/>och tuggade och sög på sin tobak, spottande
+<lb/>hela massor av saliv över sina egna skor och
+<lb/>talade:</p>
+<p rend="indfirst">– Det ska jag säja er, att den natten var
+<lb/>inte något hästskoparti, fast jag då varit med
+<lb/>när dom gjort ringers kring halsarna på var&#x00AD;
+<lb/>andra på tre meters avstånd, nej, den natten
+<pb n="61"/>
+<lb/>var ovanligt livlig. Vi låg oppe i Saskatchewan
+<lb/>och sköt på älgarna och lommarna, allt efter&#x00AD;
+<lb/>som det passade, bara för att ha något att
+<lb/>göra, och vi slog läger vid Little Lake och
+<lb/>lyktjagade därikring. Det var en natt vi hörde
+<lb/>coyoterna morra, dom där små vargarna, ni
+<lb/>vet, som kan bli så fördömt hungriga ibland,
+<lb/>fast dom annars inte just bits i första taget.
+<lb/>Laban, kanadensaren, sa, att vi skulle paddla
+<lb/>ut det fortaste vi kunde på sjön till Koppar&#x00AD;
+<lb/>holmen och lägga oss där, men vi hann inte.
+<lb/>Det bästa är ju att tända opp eld, men vi hann
+<lb/>inte det heller, och så ställde vi oss med ryg&#x00AD;
+<lb/>garna ihop och lyktorna vända utåt, åt två
+<lb/>håll, och gevären färdiga, och det var beck&#x00AD;
+<lb/>mörkt och blåste litet, och ibland tyckte vi
+<lb/>dom var alldeles inpå, och dessemellan tyckte
+<lb/>vi att dom grälade och tjöt och gläfste på andra
+<lb/>sidan viken, och när vi försökte gå en bit, så
+<lb/>hörde vi dom närmare, och då stod vi stilla
+<lb/>igen, och på det viset Hyttade vi oss in längre
+<lb/>i skogen, där det fanns torra kvistar, och Laban
+<lb/>hittade en näver och satte eld på den och spar&#x00AD;
+<lb/>kade ihop litet ris och kastade eld i det med
+<lb/>den där nävern, och sen så tog vi fram våra
+<lb/>filtar och rev ihop torr ved och ökade på elden
+<lb/>och låg där hela natten. Då var vi säkra, så
+<lb/>länge elden brann, men vi fick höra på musiken
+<pb n="62"/>
+<lb/>deras hela natten, och det låter inte så precis
+<lb/>vackert. Det är alltid som ni vet minst fem
+<lb/>som gläfser svagt medan dom övriga sjunger,
+<lb/>så att det är ett slags förbannat barbarisk kon&#x00AD;
+<lb/>sert, förstås, men det gör ingenting.</p>
+<p rend="indfirst">På natten föll det litet snö, och vi gick till&#x00AD;
+<lb/>baka och tittade i våra spår, där vi gått förut,
+<lb/>och efter vad jag kan förstå hade dom nosat
+<lb/>oss ganska tätt i hälarna ibland.</p>
+<p rend="indfirst">Han sade att han varit gift med en indian&#x00AD;
+<lb/>kvinna i tre veckor, men sedan hade hon blivit
+<lb/>otrogen, och när han ville spöa henne hade en
+<lb/>av hennes bröder stuckit honom i ryggen med
+<lb/>en bordskniv, vilket gjorde mer ont än om han
+<lb/>stuckit dit en korkskruv, påstod han, och han
+<lb/>hade hämnats på det viset att han skurit ett
+<lb/>kors i pannan på henne med pennkniven och
+<lb/>strött snus i såret.</p>
+<p rend="indfirst">Frederick påstod att hos honom fanns inte
+<lb/>mer än ett själsligt lyte, vilket bestod i att så
+<lb/>fort han vart allt för full allt för länge tyckte
+<lb/>han sig vara ett eller annat djur. För när&#x00AD;
+<lb/>varande var han alldeles säker att om han söp
+<lb/>i tre dygn skulle han tycka sig vara en giraff.</p>
+<p rend="indfirst">– Det är alldeles förbannat, sade han. Men
+<lb/>jag tycker halsen blir så lång att jag skulle
+<lb/>kunna äta toppskotten på tamrackträden. Jim
+<lb/>Garnet tyckte alltid att hans huvud svällde ut
+<pb n="63"/>
+<lb/>så att det uppfyllde hela trakten. Jim vart
+<lb/>också vansinnig, det är ett säkert tecken, när
+<lb/>huvudet sväller så där. Jag minns hur Jim
+<lb/>skrek att vi skulle gå ur vägen, så att han fick
+<lb/>plats för huvudet, det var otäckt. Men jag
+<lb/>tycker bara att halsen förlänges.</p>
+<p rend="indfirst">– Då kan du ju titta över alla trädtopparna
+<lb/>och jaga ungefär som en hök, menade Collie.
+<lb/>Blir inte träden högre då?</p>
+<p rend="indfirst">– Naturligtvis. Allting blir högre. Jag önskar,
+<lb/>darn you, jag var så där stor i verkligheten,
+<lb/>då skulle jag ställa till! Det ligger i släkten,
+<lb/>jag hade en faster som trodde att hon skulle
+<lb/>bli dödad av elektrisk ström. Hon satt alltid
+<lb/>på en stol och höll fötterna i en glasskål, så
+<lb/>att inte strömmen skulle kila opp för benen,
+<lb/>och läste i en bönbok. Ända till dess hon
+<lb/>dog satt hon så, natt och dag. Hon ramla ur
+<lb/>stolen och sparka sönder skålen en natt, doktorn,
+<lb/>han sa, darn you, sir det inte ut som om blixten
+<lb/>slagit död på henne.</p>
+<p rend="indfirst">Han talade också om att han helt nyligen
+<lb/>besökt en av de Stora Wiregrasscamps i Min&#x00AD;
+<lb/>nesota, inte för att arbeta åt Wiregrassbolaget,
+<lb/>utan för att byta klockor och bössor med det
+<lb/>slödder av hundra man ungefär som samlats där.</p>
+<p rend="indfirst">– De röda, sade han nästan viskande, är
+<lb/>numera ena riktiga svin, som super och tigger
+<pb n="64"/>
+<lb/>snus och rullar säj i lorten allt dom orkar,
+<lb/>men det finns nåra av dom allra äldsta gub&#x00AD;
+<lb/>barna och nåra av dom yngre pojkarna, som
+<lb/>det i alla fall ä en sorts stil på, det har jag
+<lb/>sitt prov på. Jag såg det nu och det i en så
+<lb/>pass civiliserad håla som Mac Gregor är, ni
+<lb/>vet. Järnvägen går ju förbi, och hotell och
+<lb/>post och bank har dom, nåja, det där vet ni,
+<lb/>och ett stycke ifrån bor några dussin röda kvar,
+<lb/>i all sin uselhet, och nu har dom lärt sej göra
+<lb/>äktenskapsbrott lika bra som vita, och det är
+<lb/>en del som inte tål det där riktigt, well, nu
+<lb/>hade gamle Billi Torsdag gett bort sin dotter
+<lb/>Karolina – dom är kristna allihop indianerna
+<lb/>– och så vart mågen, han hette Stord, för&#x00AD;
+<lb/>bannad på Karolina, för han hade kommit
+<lb/>underfund med att hon tuggade tobak, och när
+<lb/>han sade till henne det var hon inte riktigt
+<lb/>nykter, utan spottade litet oförsiktigt omkring
+<lb/>sej, så att det träffade Stord på hakan, och då
+<lb/>– ja, först slog han henne och sedan gick han
+<lb/>och gav gubben igen henne, och alltihop hade
+<lb/>gått bra om han inte hade gjort det en röd
+<lb/>inte hade gjort, han söp sej full och våldtog
+<lb/>henne, och det var ju i och för sej ingenting
+<lb/>att bråka om, men han var en vit man. Sedan
+<lb/>han på det viset pressat allt nöje ur henne
+<lb/>han kunde få, gick han och slog sej i lag med
+<pb n="65"/>
+<lb/>en halvblodskvinna nere i Gregor, en sån där
+<lb/>som lägger sej till med vem som helst bara
+<lb/>hon får brännvin och tobak, och nu hade hans
+<lb/>frånskilda hustru en annan älskare, som liksom
+<lb/>fått stå på sidan litet förut, och då hände det
+<lb/>här, som jag såg med mina öppna ögon och
+<lb/>som är så sant som att daggen faller.</p>
+<p rend="indfirst">Den där älskaren smög ett långt tag omkring
+<lb/>sågen vid Mac Gregor, och vi såg honom i flera
+<lb/>dagar. Ibland var jag i sällskap med Stord,
+<lb/>som var full och skrävlade, men aldrig sa han
+<lb/>ett ont ord åt Stord. Men Stord var så pass
+<lb/>rädd att han schappade, utan att Chel fick veta
+<lb/>det, och medan Chel gick där nere och drev,
+<lb/>kom Karolina – eller, som dom kallade henne,
+<lb/>Linnie – dit med sin syster och en annan
+<lb/>indian, en ung kille med fint ansikte och snygga
+<lb/>kläder, en sån där som varit på skola och kan
+<lb/>allting. Men nu upptäckte Chel att systern
+<lb/>var förkläde, och att Linnie hittat den där unga
+<lb/>killen medan Chel var borta för att hämnas.
+<lb/>Åtminstone trodde Chel så, fast det är kanske
+<lb/>otroligt att det var så, jag vill inte tro att hon
+<lb/>var så pass försejkommen, men emellertid så
+<lb/>stod vi en kväll på stationen i Mac Gregor, och
+<lb/>den där unga indianen, han var väl tjugu år,
+<lb/>som Chel var svartsjuk på, han stod och vän&#x00AD;
+<lb/>tade på tåget för att åka ut till – jag minns
+<pb n="66"/>
+<lb/>inte vad det var – i alla fall så kom Chel dit
+<lb/>och skar opp hans bröst med en kniv, full var
+<lb/>han, Chel, men han gjorde det så ordentligt,
+<lb/>att Roberts, så hette han som vart skuren, nära
+<lb/>på vek ihop sej nere på spåret, och Chel tog
+<lb/>vi medsamma, han gjorde inget motstånd, och
+<lb/>Roberts han släppte inte så mycke som en
+<lb/>suck ur sina vita tänder en gång, utan han
+<lb/>gick opp och ställde sig och stödde sig mot
+<lb/>väggen av stationshuset, och där stod han och
+<lb/>sa inte ett ljud, och blodet rann och rann utför
+<lb/>hans vita skjorta, som var oppriven, och på
+<lb/>hans blåa byxor med skolränderna på, och
+<lb/>han ville inte att dom skulle bry sig om honom,
+<lb/>men han var bra blek, ska jag säja, och inte
+<lb/>var han många timmar mer i den här jakt&#x00AD;
+<lb/>marken, dom tog förstås och körde honom till
+<lb/>doktorn, och jag frågade honom om han ville
+<lb/>att jag skulle strypa den där Chel innan dom
+<lb/>hann till fängelset me’n, men han bara tittade
+<lb/>på mej och sade »ca-o-in»<ptr target="#n3" n="*"/>, med sin mjuka
+<lb/>röst. Han såg så nöjd ut, att inte ens Chel
+<lb/>kunde se nöjdare ut.</p>
+<p rend="indfirst">– Och hur vart det med Linnie? frågade
+<lb/>jag, när Frederick för ett ögonblick hämtade
+<lb/>andan för att tända en pipa, under det Collie
+
+<note xml:id="n3" n="*" place="foot" rend="small">= icke alls.</note>
+<pb n="67"/>
+<lb/>och Simmons började spela kort med en tom
+<lb/>sillkagge som bord.</p>
+<p rend="indfirst">– Hon sa heller inte ett ljud, men dom
+<lb/>häktade visst henne också sedan. Det var ett
+<lb/>as, ett riktigt fullfjädrat as. Jag har allt prövat
+<lb/>dom, ska ni tro, så jag vet vad dom går för.
+<lb/>Nog gick det an att ha dom ett tag, men i
+<lb/>längden så tröttnar en på dom. Aldrig visar
+<lb/>dom vad dom tänker, och aldrig tänker dom
+<lb/>nånting heller, för resten. Som den jag hadde!
+<lb/>När hon tjurade eller inte tjurade, det var lika
+<lb/>bra, för hon var ungefär så tyst som en hö&#x00AD;
+<lb/>säck. När dom blir gamla käringar snattrar
+<lb/>dom som höns, men bara en vit kommer i
+<lb/>närheten börjar dom tjura igen, dom med. Nej,
+<lb/>det är ingenting att ha.</p>
+<p rend="indfirst">Jag var med på Hinkleybranden, fortsatte
+<lb/>han i stor självbeundran, jag var med när vi
+<lb/>tog de sista bävrarna ur Minnesotas alla skogar,
+<lb/>jag var med och stakade linjen när dom mätte
+<lb/>opp regeringsjorden mellan White Sana River
+<lb/>till White Loon Lake och jag har trampat
+<lb/>genom Södern bara för att titta efter hur dom
+<lb/>sköter sej där. Ett handtag här och ett där
+<lb/>har jag nog gjort, förstås, men för de mesta
+<lb/>hinner en just inte med så mycke om en ska
+<lb/>arbeta samtidigt, de blir bara att slava och
+<lb/>slava, och en har inte stor nytta på att en
+<pb n="68"/>
+<lb/>lever. Nej, pojkar, en ska flytta sej ofta, mycke
+<lb/>ofta, inte är det bra heller att stanna, sen en
+<lb/>har skött affärderna på ett ställe. Som till
+<lb/>exempel när jag var i Duluth och höll på att
+<lb/>svälta ihjäl där? Vet ni, vad jag gjorde? Det
+<lb/>kan ni aldrig gissa, jo, jag satte opp med skinn-
+<lb/>och pälsvaruaffär utan ett öre, vet ni hur det
+<lb/>går till, nej, om ni så levde i hundra år vet
+<lb/>ni inte, jo, jag lurade svenskarna, dom är alltid
+<lb/>bäst att ha affärer med om en vill ha snabb
+<lb/>omsättning och någorlunda god förtjänst. Jag
+<lb/>lejde en jude att gå omkring och dela ut bitar
+<lb/>av ett hjortskinn, bra nog stora, gratis åt var&#x00AD;
+<lb/>enda svensk som ville ha. Om dom bestämde
+<lb/>sej för att köpa ett berett skinn, lika med provet,
+<lb/>för ett orimligt billigt pris, så skulle dom bara
+<lb/>lämna in skinnbiten tillika med namn och
+<lb/>adress på mitt kontor, och vi hadde bara fem
+<lb/>skinnbitar, men vi ordnade det så, att vi fick
+<lb/>igen dom tre första på en gång och lämnade
+<lb/>ut dem på prov åt andra och satte ut ny tid.
+<lb/>Sedan sålde vi också de enda skinn vi hade,
+<lb/>tre stycken, lika med provet, utom att dom
+<lb/>var större, förstås, och det gjorde verkan ska
+<lb/>jag säja. Dom lämnade in betalningen i för&#x00AD;
+<lb/>skott, och vi skulle leverera alla skinnen en
+<lb/>fredag, och efter den dagen tog vi inte emot
+<lb/>flera order, och på fredag lät vi kontoret stå
+<pb n="69"/>
+<lb/>öppet och provbitarna låg på ett bord, och
+<lb/>med vars och ens namn på. Men då var juden
+<lb/>och jag långt nere i landet redan och tog opp
+<lb/>order på en krönika i fem stora band som
+<lb/>skulle handla om alla nybyggarnas öden, när
+<lb/>dom kom till landet, på vilket årtal dom byggde
+<lb/>om sina hönshus, och så vidare. Det kostade
+<lb/>en dollar i förskott, och en och femtio om
+<lb/>någon ville ha sitt porträtt i boken. Jag var
+<lb/>inte klädd så här då, utan som en riktig city-
+<lb/>hobo, så dom trodde på oss ganska bra, en
+<lb/>del, och några ville ge oss stryk. Men det var
+<lb/>ett jädrans arbete för juden att sitta och fråga
+<lb/>om allting, som han inte brydde sej ett smack
+<lb/>om, och låtsa som han skrev opp allt skräp,
+<lb/>och såna massor med fotografier vi tog emot,
+<lb/>av mest bara gamla gubbar och gummor, men
+<lb/>ibland av hela familjer och gårdar och kreatur
+<lb/>och allting.</p>
+<p rend="indfirst">Till sist hittade juden på, att om någon ville
+<lb/>ha en särskilt utförlig personalia i boken, så
+<lb/>kostade det tre dollars, och om någon ville
+<lb/>ha sitt namn tryckt med fetstil fem dollars
+<lb/>och så vidare, tills den tokstollen vart så i
+<lb/>tagen, att han erbjöd en farmare att om
+<lb/>han ville lägga ut tjugu dollars skulle hela den
+<lb/>tjocka boken bara komma att handla om
+<lb/>honom. På det stället kastade dom ut oss,
+<pb n="70"/>
+<lb/>men vi fortsatte ett bra tag, så vi fick ihop
+<lb/>ettusen dollars och sjuhundrafemti porträtt.</p>
+<p rend="indfirst">– Well, hur fan gick det med boken?</p>
+<p rend="indfirst">Frederick spärrade upp ögonen i stor för&#x00AD;
+<lb/>skräckelse.</p>
+<p rend="indfirst">– Hur skulle vi kunna göra en bok, sade
+<lb/>han, då skulle vi haft ett par hundra ark papper
+<lb/>och en tryckpress, minst. Nej, vi delade för&#x00AD;
+<lb/>tjänsten, och jag föreslog att han skulle ge mej
+<lb/>ett hundra mer, om jag överlät porträtten åt
+<lb/>honom, varvid han vart så arg att jag skrattade
+<lb/>i fem veckor. Han hoppade opp och ner
+<lb/>som en tok och ropade på både Abraham och
+<lb/>fan, och han satte inte ett smul värde på
+<lb/>porträtten.</p>
+<p rend="indfirst">– Vad gjorde ni med dom, då?</p>
+<p rend="indfirst">– Vänta, ska du höra! Vi satt länge och
+<lb/>undrade om vi inte skulle sätta opp dom i en
+<lb/>skyltlåda och ge oss ut för fotografer, men hur
+<lb/>vi funderade, fick vi det inte att gå ihop. Vis&#x00AD;
+<lb/>serligen är det förskottsbetalning, men vi kunde
+<lb/>inte beräkna så många kunder första dagen,
+<lb/>att det lönade mödan, och att fortsätta nån
+<lb/>längre tid va ju inte att tänka på. Men sedan
+<lb/>tog juden och gjorde lyckobrev av alltihop.</p>
+<p rend="indfirst">– Vad för något? ropade Collie storskrat&#x00AD;
+<lb/>tande, i det han välte sig ner på sin säck&#x00AD;
+<lb/>madrass i stor välmåga. Vad gjorde ni?</p>
+<pb n="71"/>
+<p rend="indfirst">– Vi gjorde lyckobrev, det vill säga vi be&#x00AD;
+<lb/>ställde kuvert med bilder utanpå, och beskriv&#x00AD;
+<lb/>ning att inuti brevet fann köparen en bild av
+<lb/>den man eller kvinna han skulle få gifta sej
+<lb/>med en gång. Och sedan sålde juden hela
+<lb/>skräpet för tio cents stycket. Aldrig har jag
+<lb/>sett en sån sniken räv förr. Men nog var
+<lb/>många av dom där fästmansbilderna bra skäg&#x00AD;
+<lb/>giga, för att inte tala om alla dom gamla vit&#x00AD;
+<lb/>håriga farmargummorna.</p>
+<p rend="indfirst">När Frederick hade talat om allt detta, frå&#x00AD;
+<lb/>gade han Collie efter brännvin. Han tyckte
+<lb/>väl att han förtjänat en sup, och eftersom det
+<lb/>fanns en skvätt whisky kvar, fick han dricka
+<lb/>ur den, varunder han blev så glad att han
+<lb/>sjöng en smädevisa om irländarna, vars refräng
+<lb/>var ungefär:</p>
+<lb/>
+<lg><l>For we kept the pig in the parlour,</l>
+<l>and that was irish too.</l>
+<l>And the flies and the lice, they were many and</l>
+<l rend="ind10">nice,</l>
+<l>ya, they were irish too.</l></lg>
+<lb/>
+<p rend="indfirst">Jag vart mycket rädd att det nu snart var
+<lb/>tiden när irländaren skulle klå upp och kasta
+<lb/>ut den där skrävlaren, som dock hade upp&#x00AD;
+<lb/>levat mer än någon av oss, och som säkerligen
+<lb/>också skulle försvara sig ganska tappert. Så
+<pb n="72"/>
+<lb/>att jag försökte avleda Collies uppmärksamhet
+<lb/>från visan med att spela kort med honom.
+<lb/>Men han bara gäspade, märkvärdigt nog, och
+<lb/>skrattade åt sången. Han visste att hans krut
+<lb/>var i säkerhet, och då kunde inga smädevisor
+<lb/>rubba hans jämvikt. Frederick sjöng tills han
+<lb/>somnade på golvet framför brasan och snar&#x00AD;
+<lb/>kade hela natten som en häst, så att jag ej
+<lb/>kunde sova. Jag låg vaken och hörde hur
+<lb/>Collie ibland smågnolade i sömnen och hur
+<lb/>den uppruttnade porten till de tomma stallarna
+<lb/>där ute slog och smällde i stormen.</p>
+<pb n="73"/>
+</div2>
+<div2 type="chapter" xml:id="Kap06">
+<head rend="big center chaptername">VI.</head>
+<lb/>
+<p rend="indfirst">Wili Woolrich var en gammal holländare
+<lb/>som bodde där civilisationen börjar och slutar,
+<lb/>vad Norra Minnesota beträffar, i trakten av
+<lb/>Snow Lake. Han hade kommit in samtidigt
+<lb/>med andra nybyggare, men hade hela sitt liv
+<lb/>idkat gårdfarihandel och letat guld i främmande
+<lb/>länder. När jag träffade honom förbluffades
+<lb/>jag över hans smuts. Han tvättade sig aldrig,
+<lb/>sades det. Varenda en av nybyggarna tycktes
+<lb/>hata honom för hans gnidighet och hans ocker.
+<lb/>Han var nämligen rik, och lånade ut pengar
+<lb/>mot blodig ränta, krävde betalning till sista
+<lb/>öret och jämrade högt över sin fattigdom.
+<lb/>Trakten omkring där han hade sin stuga var
+<lb/>ganska odlad och tätt bebyggd, och han hade
+<lb/>ursprungligen varit ägare till hela härligheten.
+<lb/>Han köpte in all jord på ett område mellan
+<lb/>Forest Lake och S:t Paul innan järnvägen
+<lb/>byggdes. Han hade då kommit långt ifrån,
+<lb/>och han sålde åter jorden när banan drog
+<lb/>fram. Han var tjugu eller tjugufem år då.</p>
+<pb n="74"/>
+<p rend="indfirst">En dag strövade jag på måfå omkring i
+<lb/>trakten. Jag hade ljustrat fisk i en liten bäck
+<lb/>och försökt skjuta några änder. (Detta allt
+<lb/>hände på mycket civiliserade trakter.) I en
+<lb/>dunge av väldiga ekar mitt ute på en sandig
+<lb/>slätt hittade jag en grå liten stuga med ett
+<lb/>rum och ett fönster. Dörren stod öppen, och
+<lb/>jag klev in för att titta, sedan jag ställt mina
+<lb/>fiskredskap utanför. Jag fann ett så svart
+<lb/>och smutsigt rum, att jag först trodde golvet
+<lb/>bestå av jord. En träsäng full av trasor och
+<lb/>en stol utan sits, det vill säga stoppningen var
+<lb/>fallen ur ramen, ett stort ämbar, till brädden
+<lb/>fullt av exkrementer och slaskvatten samt en
+<lb/>låda under fönstret, på vilken några stinkande,
+<lb/>odiskade bleckflaskor stodo, det var möblerin&#x00AD;
+<lb/>gen, och i sängen satt den smutsige, gulhyade
+<lb/>och bentorre Wili Woolrich rökande sin majs&#x00AD;
+<lb/>kolvspipa. Han såg misstänksamt upp och
+<lb/>frågade mig på bruten engelska vad jag ville.</p>
+<p rend="indfirst">Jag frågade honom efter vägen till Rings
+<lb/>Wing, men han skakade på huvudet. Han
+<lb/>sade att han var »mycke mycke gammal och
+<lb/>minnas klent». Frågade mig »om jag var främ&#x00AD;
+<lb/>ling och om jag arbetade nära här?» varpå jag
+<lb/>svarade att jag sökte arbete.</p>
+<p rend="indfirst">Vi kommo så småningom mycket bra över&#x00AD;
+<lb/>ens, och när jag gått visste jag rätt mycket
+<pb n="75"/>
+<lb/>om honom. Men det mesta berättade han först
+<lb/>när vi blev mer bekanta. Han fattade ett stort
+<lb/>förtroende för mig, han inbillade sig att jag
+<lb/>tänkte bli affärsman »och göra en ställning,
+<lb/>och hopar, hopar av pengar.» »Lots and lots
+<lb/>of money,» det var hans lösenord, som han
+<lb/>uttalade med tindrande ögon.</p>
+<p rend="indfirst">En dag på högsommaren satt jag utanför
+<lb/>udden vid Forest Lake och läste i Pioneer
+<lb/>Press om alla morden och röverierna i västern,
+<lb/>så att jag nästan började längta dit, när gamle
+<lb/>Woolrich kom linkande. Han visste aldrig
+<lb/>när vi träffades på en gång vem jag var, utan
+<lb/>jag måste åter och åter påminna honom om
+<lb/>att vi träffats förut och hur vi då talat, och så
+<lb/>vidare. Nu slog han sig ned och vi började
+<lb/>igen. Och så småningom mindes han hur
+<lb/>han fattat tycke för mig, och att han själv var
+<lb/>mycket fattig, att jag behövde många råd för
+<lb/>att skapa mig en ställning i landet, och att
+<lb/>han skulle ge mig dem, ty han trodde att jag
+<lb/>var förståndigare än de där unga farmar&#x00AD;
+<lb/>pojkarna, som drevo med honom över hans
+<lb/>smuts.</p>
+<p rend="indfirst">– Du är ung man, sade han med hackig
+<lb/>och skakande röst, mycke ung man och har
+<lb/>tiden framför dig, och du kan göra mycke
+<lb/>pengar, mycke pengar. Men köp inte land,
+<pb n="76"/>
+<lb/>gräv inte guld, det lönar inte. Gawd, om jag
+<lb/>vetat då vad jag nu vet, Gawd, om du visste
+<lb/>vad jag vet nu, gosse, hela tiden har lärt mäj.
+<lb/>Holland är det bästa land på jorden, by Gawd,
+<lb/>det bästa, bästa land på jorden, men jag kunde
+<lb/>inte göra pengar där, inte mycke pengar, jag
+<lb/>var så fattig där, men jag for till Afriky på de
+<lb/>där skeppen, och letade guld där, å, jag har här
+<lb/>min Bamboo (han slog i luften med sin käpp av
+<lb/>bambu), å jag har den här pipan, Gawd, dom
+<lb/>är ända ifrån Afriky, där var jag, som snart
+<lb/>ska dö, å, snart grävas ner, ge mäj si, då jag
+<lb/>var tjugu. Då var mycket, mycket annat att
+<lb/>se på, jag tänkte köpa skepp, och göra som
+<lb/>min bror Davy, köra bomull med fartyg från
+<lb/>Afriky till Frisco, nej, vad säger jag, till Am&#x00AD;
+<lb/>sterdam, som är finast stad i hela världen.
+<lb/>Men, Gawd, jag var icke i skola, jag kunde
+<lb/>ingenting, jag fick inte lära den stora handeln
+<lb/>och så fick jag hålla på med den lilla. Gawd,
+<lb/>gå med säck och vara peddler, Gawd, hunger
+<lb/>och törst och dålig väg, fattig, fattig, men jag
+<lb/>köpte allt, allt landet här, det var en gång
+<lb/>mitt, han pekade ut i luften med käppen
+<lb/>och de korpsvarta ögonen brunno, men jag
+<lb/>skulle köpa skepp, ett stort skepp i England,
+<lb/>i London, när Robertson kom och varnade.
+<lb/>Förstår du redarebusiness, sa han, kan du
+<pb n="77"/>
+<lb/>sköta folk, sa han, kan du våga allt du har
+<lb/>på ett ruttet fartyg, sa han, å Gawd, jag tordes
+<lb/>inte, jag såg var det låg hopar av pengar,
+<lb/>hopar av pengar, men jag tordes inte ta dom.
+<lb/>Farmers dom hatar mäj, by Gallys, som sitt
+<lb/>hela världen, dom har sitt ingenting. Jag
+<lb/>brändes av solen i Afriky, jag som frös på
+<lb/>landsvägarna, å efter mej ropade gatpojkar
+<lb/>chinny i S:t Paul och Stillwater, men jag bar
+<lb/>min säck och sålde och sålde, dom trampa på
+<lb/>mäj, dom spotta på mäj, men när jag köpte
+<lb/>allt, allt, allt landet imellan Stillwater och
+<lb/>Fredlins, då skrattade dom inte – de gjorde jag
+<lb/>med min säck på ryggen. Å, du är ung och
+<lb/>du kan skriva och räkna, du behöver inte vara
+<lb/>peddler, å, Gawd, om jag vore ung! Dom här
+<lb/>farmers var inga smarta män, idioter, idioter
+<lb/>alla, dom tänker bara, så och så många kor,
+<lb/>så och så många höns, så och så mycke land
+<lb/>kan föda så många kor, men å, Gawd, om jag
+<lb/>haft skola, om jag haft skola, jag tänkte, era
+<lb/>nöt, jag ska visa er va en man kan göra av
+<lb/>jorden medan ni påtar i dyngan, men jag hade
+<lb/>inte edukation, ser du det, och jag hann inte
+<lb/>innan jag vart så gammal, så förfärligt gammal,
+<lb/>så jag minns inte.</p>
+<p rend="indfirst">Dom tänkte på tie dollars och dom skratta,
+<lb/>för jag var så trasig, men jag tänkte en miljon
+<pb n="78"/>
+<lb/>dollars, å, men sen skrattar ni inte. En miljon
+<lb/>och skepp och kontor – men jag hade ingen
+<lb/>skola. Jag tänkte, när dom nu lånar pengar
+<lb/>av mäj, dom som spottat åt mäj, att jag skulle
+<lb/>ge dom ...</p>
+<p rend="indfirst">Han reste sig upp och skakade av raseri och
+<lb/>skrek, svängande sin käpp mot farmarbyn:</p>
+<p rend="indfirst">– Haj, ni dumma devils there! Om jag
+<lb/>vore ung som den gossen, jag skulle visa er
+<lb/>vem som höll i piskan åt ungarna era! Jag
+<lb/>skulle göra en fabrik och sota ner er så ni
+<lb/>blir svarta som synd, Gawd, mjölkätande fånar
+<lb/>där, som skäller och vill heta gentilmen!</p>
+<p rend="indfirst">Han satte sig och nästan grät. – Du är ung
+<lb/>man, sade han, mycke ung man, du skall ar&#x00AD;
+<lb/>beta, arbeta, arbeta, så skinne går ur händerna,
+<lb/>du lägger pengar till pengar och bygger fabrik
+<lb/>här, väveri, spinneri, du får kontor, du tar
+<lb/>farmarna i kragen, Gawd, om jag vore ung,
+<lb/>och kunde, men du är ung, du kan.</p>
+<p rend="indfirst">– Ge mig pengar att sätta opp en fabrik
+<lb/>med, svarade jag oförfärat, så sätter vi genast
+<lb/>opp den i Stillwater.</p>
+<p rend="indfirst">Han teg och molstirrade på mig, därpå mum&#x00AD;
+<lb/>lade han:</p>
+<p rend="indfirst">– Woolrich är utfattig, han är gammal. Han
+<lb/>kan inte få en kruka beer mer från Stillwater.
+<lb/>Farmarna är gudliga, dom har söndagsskola,
+<pb n="79"/>
+<lb/>dom säjer jag får inte dricka beer. Damned,
+<lb/>idioter!</p>
+<p rend="indfirst">Och så följde jag med till Forest Lake och
+<lb/>bjöd gamle Woolrich på beer, två stora krus.
+<lb/>Det var så billigt. Ju fullare han blev, dess
+<lb/>mer jämrade han över sin fattigdom, han sludd&#x00AD;
+<lb/>rade att han var en tiggare. Men han kunde
+<lb/>inte släppa tanken på att äta upp alla farmarna
+<lb/>i trakten. Han låg sedan till kvällen och sov
+<lb/>under en ek bakom värdshuset. När han vak&#x00AD;
+<lb/>nade, ville han ha mer öl, men då han fann
+<lb/>att jag gått, gick han hem till sin kula, svär&#x00AD;
+<lb/>jande över människornas hårdhet.</p>
+<pb n="80"/>
+</div2>
+<div2 type="chapter" xml:id="Kap07">
+<head rend="big center chaptername">VII.</head>
+<lb/>
+<p rend="indfirst">I sällskap med de två luffarna Cotling och
+<lb/>Hotling, av vilka jag träffat den ene på Olson-
+<lb/>Tronbergs krog i Duluth, och den andre träffat
+<lb/>oss på järnvägsbanken, i skuggan av en lind,
+<lb/>bortåt Kelsey till, träffade jag en dag på efter&#x00AD;
+<lb/>sommaren Fred; som vanligt bar han sitt hop&#x00AD;
+<lb/>rullade tält på ryggen. Sedan Cotling och
+<lb/>Hotling försökt råna oss bägge två, men stran&#x00AD;
+<lb/>dat på Freds sätt att sparkas i magen, över&#x00AD;
+<lb/>gåvo vi dem och slog upp Freds tält i skogen
+<lb/>för att övernatta.</p>
+<p rend="indfirst">När Freds tekök kom i gång inne i tältet,
+<lb/>berättade han, att han rest genom hela Assini&#x00AD;
+<lb/>boia sedan jag träffade honom sist, och hade
+<lb/>kommit på den stolta Canadian Pacificjärn&#x00AD;
+<lb/>vägen – varöver han syntes mycket högfärdig
+<lb/>– från Saskatchewan och närmare bestämt
+<lb/>Eagle Hill, där han tittat efter land, till Regina,
+<lb/>där han träffat en av regeringens lantmätare,
+<lb/>vilken lovat honom jobb i tre månader som
+<pb n="81"/>
+<lb/>biträde, det vill säga, han skulle väl bära tältet
+<lb/>åt ingenjören, fast han själv inte ville tänka
+<lb/>så lågt om sin person. Nu ville han på rak
+<lb/>arm anställa mig som <hi rend="i">sitt</hi> biträde, men något
+<lb/>så vansinnigt hade jag inte hört förr, och jag
+<lb/>frågade honom om jag också fick ta en man
+<lb/>i min tjänst, något som han högeligen tillrådde.
+<lb/>Jag frågade honom varför han rest denna
+<lb/>långa väg hit upp till Kelsey, och då sade
+<lb/>han, att han skulle invänta lantmätaren här,
+<lb/>något som jag fann högst besynnerligt. Jag
+<lb/>visste att han spekulerat på att bli homesteather
+<lb/>i Assiniboia, att han passade tillfället till tre
+<lb/>månaders extra stor inkomst – han skulle få
+<lb/>fem dollars per dag – det begrep jag också,
+<lb/>men inte varför han skulle möta kartritaren
+<lb/>här. Alldeles ofrivilligt satte jag det i förbin&#x00AD;
+<lb/>delse med Charley Days hot att mörda honom,
+<lb/>trodde att han ljugit om Assiniboia, och att
+<lb/>han rymt hit, måhända efter att ha sett döden
+<lb/>i vitögat.</p>
+<p rend="indfirst">Han gick emellertid på och pratade om
+<lb/>landet han sett, om nät som glittrat av fisk i
+<lb/>Assiniboiafloden, om Forth Pelly och de stora
+<lb/>träsklanden mellan prärierna där solrosorna
+<lb/>bölja. Å, Assiniboiafloden gick som en jätte&#x00AD;
+<lb/>orm genom dalarna, sade han. Det fanns
+<lb/>änder i massor där, dom hade flugit opp ur
+<pb n="82"/>
+<lb/>träsken i tusental och stänkt ett regn av dy
+<lb/>över honom där han gått fram. Han talade
+<lb/>om »präriedjungeln», som om det varit fråga
+<lb/>om paradiset, han hade ätit busktranbär och
+<lb/>han sade att han sett slätter på många kvadrat&#x00AD;
+<lb/>mil alldeles översållade av mikaelitusenskönor.
+<lb/>Och morning glories, sedan! Jag hade aldrig
+<lb/>vetat av förut, att Fred tyckt så mycket om
+<lb/>blommor. När han inte hade mer att säja om
+<lb/>Assiniboia, började han på om Sverge. Han hade
+<lb/>ett stort krus brännvin med sig och drack
+<lb/>ganska mycket, varmt te och brännvin rusar
+<lb/>oerhört i ett varmt tält. Han bad mig hälsa
+<lb/>till alla han kände, ifall »vargarna skulle äta
+<lb/>honom i Kanada».</p>
+<p rend="indfirst">Men när han blev drucknare talade han om
+<lb/>följande historia.</p>
+<p rend="indfirst">Han hade kommit, inte direkt från Assini&#x00AD;
+<lb/>boia, utan från Peeman Lake. Han hade en
+<lb/>faster där, som handlade med stickylle, påstod
+<lb/>han, och där hade han stannat i två dagar.
+<lb/>Men det vart långsamt där, och så andra dagen
+<lb/>hade han lånat en bössa och gett sig i väg
+<lb/>uppåt Peemanskogarna. Han hade aldrig varit
+<lb/>åt det hållet förut, och råkade gå vilse.</p>
+<p rend="indfirst">– Nu så hade jag kompass, förstår du, men
+<lb/>kan du tänka däj, han visade fel på efter&#x00AD;
+<lb/>middan, och hur jag skakade och vände på’n
+<pb n="83"/>
+<lb/>så visade han söder för norr och norr för
+<lb/>söder, hela tiden, och så vart jag arg och
+<lb/>slängde den i en bäck, så att den fick blöta
+<lb/>säj. Nu var det naturligtvis så, att det var
+<lb/>jag som var fel och kompassen som var rätt,
+<lb/>men det gör detsamma, i alla fall fick Kankas
+<lb/>upp ett spår och jag hörde honom driva, och
+<lb/>jag visste inte vad det var, för han drev rakt
+<lb/>ut mot slätten, du vet, och sen vart skallet
+<lb/>allt svagare. Det här var i skymningen. Jag
+<lb/>gick förstås åt samma håll som drevet, och
+<lb/>tappade i alla fall bort riktningen, när Kankas
+<lb/>slutade skälla. Jag blåste i en tom gevärs&#x00AD;
+<lb/>hylsa och väntade, nog var det fulla tio mi&#x00AD;
+<lb/>nuter, men ingen Kankas kom, och jag blåste
+<lb/>igen. Det tjänade ingenting till att gå vidare,
+<lb/>så jag satt på backen och rökte, jag tänkte
+<lb/>just ge tusan i hunden och försöka gå hem
+<lb/>ensam. Nu var det nästan mörkt, och i alla
+<lb/>fall gav jag mäj i väg i den riktningen jag
+<lb/>trodde drevet gått, och när jag aldrig såg någon
+<lb/>ändring i terrängen, beslöt jag att övernatta,
+<lb/>för jag hade tändstickor och mat – – – </p>
+<p rend="indfirst">Fred drack ännu mera brännvin. Han halv&#x00AD;
+<lb/>låg och petade i elden med en min som om
+<lb/>han inte orkat få fram det han ville säga.
+<lb/>– Skål, sade han sluddrigt, jag har visst glömt
+<lb/>att du skulle ha tio dollars – – –  </p>
+<pb n="84"/>
+<p rend="indfirst">– Vad har det med historien att göra, då?
+<lb/>Vad går det för resten åt däj, du sir blek ut?
+<lb/>Well, än sedan då?</p>
+<p rend="indfirst">– Sedan är det så förbannat, det som hände
+<lb/>sedan. Jag fick bud från Röda Suggan, att
+<lb/>han levde och – – – </p>
+<p rend="indfirst">– Kom han dit? Vart tog hunden vägen?</p>
+<p rend="indfirst">– Ge mäj mer brännvin! Nej, ur den andra
+<lb/>flaskan. Det var den kvällen jag gjorde eld
+<lb/>och väntade på Kankas. Har jag talat om
+<lb/>det? Kankas kom inte på länge. Han kom
+<lb/>– fram emot klockan tolv på natten – jag
+<lb/>kunde höra hur han gnällde, han hade fastnat
+<lb/>i någon sax och slitit säj loss och gjort säj
+<lb/>illa. Du vet hur det är, i alla fall, du vet nog
+<lb/>– natten är mörk, en ligger me en eld, och
+<lb/>det är tio mil till folk – och så hör en, mitt
+<lb/>i natten, så hör en ett sånt där ynkligt gnäl&#x00AD;
+<lb/>lande, och en vet att det är ens egen hund,
+<lb/>och så blir en ändå så där satans rädd – – – </p>
+<p rend="indfirst">– Jo, jag vet, men berätta! Kom Kankas
+<lb/>fram till elden?</p>
+<p rend="indfirst">– Vänta, du ska höra från början, jag
+<lb/>låg bara och tänkte, var är Kankas nu, har
+<lb/>han sprungit hem, eller har han fastnat, och
+<lb/>vad Kankas ska vara ledsen, om han inte
+<lb/>hittar mäj. Och jag låg och stirrade rakt in i
+<lb/>kolmörkret, och det rägnade litet, och då kom
+<pb n="85"/>
+<lb/>ett djur framhoppande till mäj, jag visste först
+<lb/>inte vad det var – jag springer opp och får
+<lb/>tag i bössan, då såg jag – då såg jag blod,
+<lb/>som rann, och djuret kom och slickade min
+<lb/>stövel – de va Kankas, och bägge ögonen var
+<lb/>utrivna. Jag sköt Kankas, nu ligger han i
+<lb/>kanten av Peemanträsket och sover.</p>
+<p rend="indfirst">Kommer du ihåg, att jag – kallat Röda
+<lb/>Suggan en ögonlös hund – när han sköt älgen
+<lb/>för vårt drev och – det gör detsamma, nu
+<lb/>visste jag var jag hade Suggan. Han hade
+<lb/>flyttat till Peeman.</p>
+<p rend="indfirst">Jag höll förstås skarp look out, hela natten,
+<lb/>men det hände ingenting mer, förrän på mårron,
+<lb/>när jag gick upp till sjön och tog in riktningen
+<lb/>efter solen. Då sköt dom en kula alldeles förbi
+<lb/>mitt öra, det var inte bara Röda Suggan, aldrig
+<lb/>hade han kommit på det där med hunden och
+<lb/>– och ögonen, det var en – en <hi rend="i">svensk</hi> buse
+<lb/>med, tro mäj om du vill. Dom har beslutat
+<lb/>att jag ska dö, och nu håller du bara käften
+<lb/>med det här, om inte jag skjuter först, så
+<lb/>skjuter dom. – Nu – dricker vi mer brännvin,
+<lb/>och du skall hälsa alla jag känner, och om du
+<lb/>inte träffar mäj mer, så kom ihåg och håll
+<lb/>skarp utkik i alla fall.</p>
+<p rend="indfirst">Nu visste jag varför han längtade till Assini&#x00AD;
+<lb/>boia.</p>
+<pb n="86"/>
+<p rend="indfirst">Tidigt nästa morgon for jag ifrån honom.
+<lb/>Han skulle ligga kvar i Kelsey två dagar, sade
+<lb/>han.</p>
+<p rend="indfirst">Jag har inte sett Fred sedan, och när jag
+<lb/>frågade mig för i Fort Pelly, hade ingen av
+<lb/>nybyggarna reda på honom. Han och hans
+<lb/>tält försvunno, uppslukades av de stora öde&#x00AD;
+<lb/>markerna. Kanske Röda Suggan vet, och kanske
+<lb/>Fred dyker upp en dag, liksom Stammering
+<lb/>Frank. Det kanske också är lika bra för honom
+<lb/>att sova i den svarta matjorden i Assiniboia,
+<lb/>med en oväns bly i hjärtat och tusenskönor
+<lb/>och vilda vinbär på graven.</p>
+<pb n="87"/>
+</div2>
+<div2 type="chapter" xml:id="Kap08">
+<head rend="big center chaptername">VIII.</head>
+<lb/>
+<p rend="indfirst">Gubben Harrot höll på att sprätta upp en
+<lb/>kanin, när jag träffade honom i en övergiven
+<lb/>timmerkoja några mil från handelsbodar och
+<lb/>hönshus och sådan civilisation. Han hade ett
+<lb/>gult och skrynkligt ansikte med ärr efter kop&#x00AD;
+<lb/>porna och en och annan kniv. Jag tror han
+<lb/>kunde vara bortåt en sjuttio år eller så, men han
+<lb/>var rask och rörlig som en pojke. Han var
+<lb/>den mest inbitne svenskhatare jag sett, och
+<lb/>bara han fick klart för sig att jag tillhörde
+<lb/>denna framstående nation, började han spotta
+<lb/>omkring sig som en brandspruta.</p>
+<p rend="indfirst">Han påstod att han aldrig träffat en svensk
+<lb/>som inte velat stjäla de fattiga rovor han sått
+<lb/>bakom det gamla murkna stallet, som inte
+<lb/>vetat att lägga sina nät precis där Harrot
+<lb/>skulle lägga sina, som inte ville ta ifrån honom
+<lb/>allting och slutligen mörda, ja, just mörda
+<lb/>gamle Harrot, som fick fly från den ena gamla
+<lb/>campen till den andra för att få vara i fred
+<lb/>för dumma människor.</p>
+<pb n="88"/>
+<p rend="indfirst">Han kunde aldrig lära sig att säja repeter&#x00AD;
+<lb/>gevär eller winchester eller något sådant för&#x00AD;
+<lb/>nuftigt, utan han kallade alla gevär som lad&#x00AD;
+<lb/>dades med mer än två skott för patentbössor.
+<lb/>Om mitt gevär var laddat, så skulle jag ögon&#x00AD;
+<lb/>blickligen ta ur skotten, för han tålde inga
+<lb/>laddade skjutvapen inom det här området.
+<lb/>Varför jag satte patronutkastaren i snabb rörelse
+<lb/>så att de utflygande patronerna hoppade kring
+<lb/>hans flottiga stövelskaft, varåt han spottade
+<lb/>ännu värre och sade, att jag var ett svin.</p>
+<p rend="indfirst">– Du har patentbössa, gnällde han, sånt
+<lb/>har inte jag råd med. Vad vill du, då? Vill
+<lb/>du ha min mat? Vill du veta var jag fiskar?
+<lb/>Vill du ha reda på min saltlick? Vill du
+<lb/>jaga mig härifrån? Tre gånger har svenskarna
+<lb/>jagat mig från hus och hem, men den fjärde,
+<lb/>då ska jag stoppa dem så fulla av bly så dom
+<lb/>inte orkar gå sin väg, fast jag inte har patent&#x00AD;
+<lb/>bössa. Vad vill du?</p>
+<p rend="indfirst">På dessa frågor svarade jag så nöjaktigt att
+<lb/>han till sist bad mig stiga in och titta hur en
+<lb/>stackars hemlös, hatad och förföljd gammal
+<lb/>man hade det. Han gick före mig in och satte
+<lb/>sig i närheten av spiseln, där en ilsken liten
+<lb/>racka till hund låg och morrade.</p>
+<p rend="indfirst">Nu talade han om för mig att han var all&#x00AD;
+<lb/>deles säker på att det var svensken Nilson som
+<pb n="89"/>
+<lb/>tuttat på rucklet Harrot bodde i förut. Jag
+<lb/>svarade att jag inte visste vem Nilson var, och
+<lb/>då talade Harrot om det för mig. Under hela
+<lb/>tiden han talade, såg den lilla hunden åt mitt
+<lb/>håll och morrade.</p>
+<p rend="indfirst">Svensken Nilson, fick jag veta, det var den
+<lb/>där som försnillat en stor summa pengar i
+<lb/>Sverge och flytt hit för annars hade dom hals&#x00AD;
+<lb/>huggit honom, förstås. Det var han som vart
+<lb/>bas för ett reparationslag vid Canadian Pacific
+<lb/>först, och sedan för alla timmertjuvar i hela
+<lb/>Kanada. Han som sålde brännvin åt indianerna,
+<lb/>fast det var fängelsestraff på det, han som satte
+<lb/>eld på hela sågverk för att hans gelikar och
+<lb/>han själv skulle få arbete med att bygga upp
+<lb/>dem igen. Det var han som söp så förskräck&#x00AD;
+<lb/>ligt, och drog kniv i fyllan. Nog måtte jag ha
+<lb/>hört om den? Svensken Nilson, han som lagade
+<lb/>till sitt matsnus själv för att det skulle bli nog
+<lb/>starkt, han som blev påfösare överallt i alla
+<lb/>jobb, vart han kom, och som levde på att för&#x00AD;
+<lb/>trycka alla fatttiga. Han hade krog i S:t Paul,
+<lb/>fast då hette han förstås Smith eller Jenkins.
+<lb/>Där söp han sina landsmän fulla och plockade
+<lb/>ur det dom hade i fickorna. Han kommer hit
+<lb/>upp till skogarna och jagar ibland, och då
+<lb/>bränner han och skövlar och stjäl. Men sen
+<lb/>far han tillbaka och säljer brännvin, tills han
+<pb n="90"/>
+<lb/>får ihop till en päls, sen far han hem till sitt
+<lb/>land och tar hit fem till sådana krögarfrön.
+<lb/>Ibland sitter han i Stillwater med kedjor kring
+<lb/>benen, där skulle han vara jämt! Nog fan
+<lb/>känner en till Nilson, alltid.</p>
+<p rend="indfirst">Jag påstod att jag inte träffat någon sådan,
+<lb/>och när jag såg att Harrot började ordna med
+<lb/>kaffepannan, gick jag och tog ned hans gamla
+<lb/>fiol som hängde på en spik nära dörren och
+<lb/>frågade:</p>
+<p rend="indfirst">– Spelar ni på den ofta?</p>
+<p rend="indfirst">– Så ofta jag vill, svarade han buttert. Det
+<lb/>är ingen viss tid utsatt när jag spelar och inte
+<lb/>spelar, om det är det du menar.</p>
+<p rend="indfirst">Aldrig i mitt liv hade jag sett en sån tvär&#x00AD;
+<lb/>vigg förr.</p>
+<p rend="indfirst">– Pass opp, om du träffar Nilson, sade
+<lb/>han, i det han skakade något svart pulver i
+<lb/>kaffepannan. Vet du hur han sir ut?</p>
+<p rend="indfirst">Det hade jag ingen aning om.</p>
+<p rend="indfirst">– Han är rödbrusig, och snor opp mustascher&#x00AD;
+<lb/>na, så här! Harrot snodde förtvivlat på sina
+<lb/>tagelgrova, stripiga borst. Och så har han
+<lb/>mage, för han dricker öl som en usling. Han
+<lb/>har ringar på alla fingrarna. Han har blå
+<lb/>näsa och stora öron och snövitt hår. Ja, så
+<lb/>sir han ut, Nilson.</p>
+<p rend="indfirst">– Kommer han ofta hit upp?</p>
+<pb n="91"/>
+<p rend="indfirst">– Han kommer då och då, och när han
+<lb/>inte har tid, så kommer Peterson och Lynd&#x00AD;
+<lb/>strom och Sjustrom och alla de andra. Dom
+<lb/>är likadana allihop.</p>
+<p rend="indfirst">När vi drack kaffe talade han om att han
+<lb/>aldrig fått lära sig läsa eller skriva, vilket han
+<lb/>syntes högfärdig över.</p>
+<p rend="indfirst">Men det roligaste av alltsammans var när
+<lb/>jag slutligen narrade honom att spela på fiolen,
+<lb/>varvid jag upptäckte att han kunde ett enda
+<lb/>stycke, »The Devils dream». Han spottade
+<lb/>även när han spelade, hela tiden.</p>
+<p rend="indfirst">Han talade om för mig att han suttit här ett
+<lb/>helt år nu, och att han grävt upp ett litet åker&#x00AD;
+<lb/>land bakom kåken, där han skulle ha potatis.
+<lb/>Men, sade han, han hade försökt det där en
+<lb/>gång förut, bara hans potatisland blev nog
+<lb/>stort, så då kom där en sån där Nilson och
+<lb/>mutade in sina etthundrasexti acres och potatis&#x00AD;
+<lb/>land och alltihop, och då fick Harrot dra i väg
+<lb/>igen. För det här var sån där homestead&#x00AD;
+<lb/>jord alltihop. Jag frågade honom varför han
+<lb/>inte slog sig ned på ett homestead själv, men
+<lb/>han sade att han gjort det två gånger och sålt
+<lb/>jorden, och sen fick man ingen jord av rege&#x00AD;
+<lb/>ringen mer.</p>
+<p rend="indfirst">– Si, sade han, si på det här! Jag är gammal
+<lb/>och ensam och begär inte bättre än att få sitta
+<pb n="92"/>
+<lb/>här i min lort och äta mitt fläsk, och den lilla
+<lb/>skada jag gör, det är fisken jag tar. Men vem
+<lb/>är dom avundsjuka på? Jo, just på mig, på
+<lb/>mitt potatisland, dom går här och snokar med
+<lb/>sina patentbössor och vill suga i sig alltihop.
+<lb/>Letar jag reda på ett bra posthåll och tänker:
+<lb/>i morron, innan de ska vara ljust ska du vara
+<lb/>där och stå i trailen, och huttra och frysa, och
+<lb/>kanske skjuta en liten hjortkossa för besväret
+<lb/>– vad händer, tror du? Jo, just som jag
+<lb/>kommer ut och gör mej i ordning och vänder
+<lb/>näsan åt det hållet, så börjar ett förbannade
+<lb/>ettrigt smällande. Då är Nilson och Ändersun
+<lb/>och Mylburg och hela packet, ja, just packet,
+<lb/>där med sina patentbössor och skjuter så
+<lb/>kvistarna ramlar av träden. Du vill väl ha
+<lb/>kaffe? Jag har just inge fint att bjuda på,
+<lb/>men slätt kaffe duger väl, skulle jag tro. Om
+<lb/>du vill ha konjak i så får du kosta på det
+<lb/>själv.</p>
+<p rend="indfirst">– Jaså, fransmännen? Jo, jo, det var just
+<lb/>rätta sorts packet det! Dom håller ihop me
+<lb/>Nilson, de är just va dom gör. Den där My&#x00AD;
+<lb/>gurvy (Magarvie?), som är så sugen, så han
+<lb/>dricker varm rådjursblod, och så fin så han
+<lb/>sätter opp hjorthornen, förgyllda och målade
+<lb/>ovanför ingången till stallet, den är en idiot.
+<lb/>Fast nog är han hundra gånger bättre än Nilson.
+<pb n="93"/>
+<lb/>Tyskarna? Jaså, jo, det går för sej, det! Men
+<lb/>dom är ju flottiga om ryggen och dom talar
+<lb/>som snörvlande ångskopor. Har du hört såna
+<lb/>namn dom har, Varuhus och Vinkelhake och
+<lb/>Snorkenhyvel och sånt där. Och så är dom
+<lb/>lortigare än Nilson och Mygurvy.</p>
+<p rend="indfirst">– Jag har legat i timmercampar i lag med
+<lb/>alla världens nationer i hela mitt liv, så jag
+<lb/>vet nog, må du tro.</p>
+<p rend="indfirst">– När jag var tio år körde dom ut mej att
+<lb/>ta reda på matbiten själv. Det var länge sedan,
+<lb/>det var söder ut. Jag vart dräng hos en ox&#x00AD;
+<lb/>handlare som smugglade med negrer mellan
+<lb/>södern och staterna. Han slog mej varenda
+<lb/>dag och ibland kom han opp och dängde mej
+<lb/>om nätterna. Han sa att han såg att jag var
+<lb/>ämne till en bra karl, bara han fick först piska
+<lb/>fan ur mej, och det kunde han inte. En
+<lb/>dag, när jag var litet större, slog jag in tän&#x00AD;
+<lb/>derna på’n och laska i väg. Han va inte värd
+<lb/>bättre.</p>
+<p rend="indfirst">– Sen gav jag mej i väg upp åt norden, och
+<lb/>jag var bland dom första som tog in land här,
+<lb/>och de ska jag säja, jag minns när bävrarna var
+<lb/>kvar och gick här och stretade, jag minns när
+<lb/>prärievargarna tjöt varenda natt bakom Porqu&#x00AD;
+<lb/>pine Island. Jag har varit nybyggare jag med,
+<pb n="94"/>
+<lb/>jag har ensam huggit opp basvägen mellan
+<lb/>Hammolds Camp och Tamarack, när varken
+<lb/>Nilson eller Ändersun tordes gå opp i – – – </p>
+<p rend="indfirst">– Stopp, gubbe, nu är du för svår mot
+<lb/>svenskarna, nog kan du säja att dom är svin
+<lb/>och både ett och annat, men att dom är rädda,
+<lb/>de får du hålla tätt med!</p>
+<p rend="indfirst">Jag tyckte att jag var skyldig mitt land och
+<lb/>min nation något försvar mot detta utskällande.
+<lb/>Men Harrot fann sig.</p>
+<p rend="indfirst">– Tacka för de, nu, när dom har patent&#x00AD;
+<lb/>bössor, då går det nog an att vara stor i truten,
+<lb/>å brassa på med de ena skotte så tätt tätt efter
+<lb/>de andra, så pipan blir så het så de tar ell i
+<lb/>gräse när dom lägger den ifrån sej. Men, gosse,
+<lb/>jag var med och motade undan coyoterna ur
+<lb/>vägen för hederligt folk på Savish Lake, och
+<lb/>vi hade var sitt skott i bössen bara, och satans
+<lb/>nätt me tid att ladda om. Då var det inte
+<lb/>att trycka på en knapp så fort man orkade
+<lb/>och skicka i väg ett tjog stålkulor i stöten och
+<lb/>tänka, alltid är de nån av dom som träffar,
+<lb/>nej, sirree, då gällde de att <hi rend="i">sikta</hi> innan man
+<lb/>sköt. Och sen skottet gått, kunde de bli
+<lb/>fråga om att slåss med kolven. Vänta, ska
+<lb/>du si!</p>
+<p rend="indfirst">Han larvade bort i ett hörn och kom tillbaka
+<pb n="95"/>
+<lb/>med en gammal grovkalibrad karbin och räckte
+<lb/>mig den med lysande ögon.</p>
+<p rend="indfirst">– Sir du ärren i stocken, gosse, sir du, när
+<lb/>jag köpte den där, då var det liksom oroligt i
+<lb/>skogen emellanåt. Nu tycker du de är som
+<lb/>en hel upplevelse ifall du möter en igelkott
+<lb/>eller en röd ekorre – dom gråa, dom var jag
+<lb/>med och gjorde slut på – å så brakar du i
+<lb/>väg med en salva, och tycker du gjort ett kap.
+<lb/>Jaså, inte, men så gör Nilson. Han skjuter
+<lb/>gråsparvar och bär stjärtfjädrarna i hatten, han.</p>
+<p rend="indfirst">Nu tyckte jag det kunde räcka med beskriv&#x00AD;
+<lb/>ningen om Nilson, och jag frågade Harrot av
+<lb/>vilken nationalitet han var utgången.</p>
+<p rend="indfirst">– Som om jag skulle veta de, snäste han,
+<lb/>när en är född i södern och aldrig sett sina
+<lb/>föräldrar och aldrig varit skattskriven. Va kan
+<lb/>en då veta va en är för folk? Dom sa att mor
+<lb/>min inte visste det heller, för hon kom hit till
+<lb/>landet när hon var ett år gammal, och hennes
+<lb/>mor drunknade i Michigansjön, och det var
+<lb/>just desamma. Men att jag inte är svensk,
+<lb/>det syns väl på utanskriften. Alla mina för&#x00AD;
+<lb/>fäder ha drunknat, och jag kommer också att
+<lb/>drunkna. Det är eget de där.</p>
+<p rend="indfirst">– Då kommer du säkert att drunkna i Sunny
+<lb/>River, sade jag, för där fiskar du ju.</p>
+<p rend="indfirst">– Angår de dej var jag fiskar? Jag ville
+<pb n="96"/>
+<lb/>bara säja, att de öde en är bestämd för, de
+<lb/>kan en inte undgå, om en också har patent&#x00AD;
+<lb/>bössor och gummiskor och laddningsapparater
+<lb/>och full fickorna i dynamit, och bälte och
+<lb/>revolvrar och skräp. Ska du hängas, så
+<lb/>kommer du att hängas fast du lever som en
+<lb/>ärlig man. Och är det bestämt att du ska leva
+<lb/>och skinna andra människor, så går de för sej.</p>
+<p rend="indfirst">– Men om du får si Nilson, fortsatte han,
+<lb/>under det han kröp upp i bädden och tog sin
+<lb/>rock över axlarna, så hälsa’n från Harrot – du
+<lb/>kan ligga i den andra bunken, där, ve spiseln,
+<lb/>om du vill – – – </p>
+<p rend="indfirst">Om en stund låg jag och hörde hur Harrot
+<lb/>vred sig av och an borta i sitt hörn, men han
+<lb/>tycktes inte kunna sova. Vi hade stängt dörren
+<lb/>och den morrande hunden var tyst. Jag såg
+<lb/>genom gluggen åt väster månen gå upp över
+<lb/>myrarna och träsken. En jättelik, halvtorr
+<lb/>gran stack upp sin tvådelade topp som en fisk&#x00AD;
+<lb/>stjärt mot skyn, svart som om den varit av
+<lb/>järn. Jag trodde att Harrot sov, och greps av
+<lb/>det ödsligas och ensammas storhet tills jag
+<lb/>tyckte mig själv liten, liten som en svala sväva
+<lb/>bort över de ändlösa skogarna. Jag såg små
+<lb/>städer under mig, och tvärs genom de maje&#x00AD;
+<lb/>stätiska ödemarkerna blänkte mil och mil av
+<lb/>glimmande räls, och de svarta tågen ormade.
+<pb n="97"/>
+<lb/>Under mig glittrade sjöarna, de tusen tjärnen
+<lb/>med vilda stränder. Så kom slätten, med my&#x00AD;
+<lb/>riader av solrosor som gungade sina hattar av
+<lb/>guld i stormen, ändlösa prärier med laguner
+<lb/>där vita, ulliga blomster lyste som snö över
+<lb/>den mörka, mjuka dyn. Här och där såg jag
+<lb/>jättestora kors, förmultnade och lutande, och
+<lb/>jag undrade hur gamla dessa gravar voro, och
+<lb/>vem som hade rest korsen. Tappra människor,
+<lb/>som sett döden tätt under ögonen sovo där i
+<lb/>den kanadiska leran, men jag flög vidare –
+<lb/>vidare – – – </p>
+<p rend="indfirst">Jag vaknade till och fann att blockhusdörren
+<lb/>stod öppen och i öppningen stod Harrot med
+<lb/>bössan, kikande ut åt alla håll och spottande som
+<lb/>vanligt. När han tittat noga, kom han in och
+<lb/>stängde dörren.</p>
+<p rend="indfirst">– Jag skulle bara si om de va nån djävul
+<lb/>där, sade han lugnt.</p>
+<pb n="98"/>
+</div2>
+<div2 type="chapter" xml:id="Kap09">
+<head rend="big center chaptername">IX.</head>
+<lb/>
+<p rend="indfirst">En dag senare tog jag farväl av min kusin
+<lb/>Sam Thropers, en söndag när han satt bakom
+<lb/>bönhuset i Mac Gregor och spelade kort med
+<lb/>några andra, och van Seyed, luffaren av börd,
+<lb/>och jag gåvo oss i väg till Mahony, ett såg&#x00AD;
+<lb/>verkssamhälle nära Duluth. Där söp Seyed
+<lb/>upp allt han förtjänat, varefter han sålde sin
+<lb/>rock, sin klocka och sin revolver och köpte
+<lb/>whisky för alltsammans. I en vecka gick han
+<lb/>i ett ständigt rus, varunder jag inbillade honom
+<lb/>att mina pengar voro slut. Jag söp ungefär
+<lb/>fjärdedelen mot honom. Vi hade inget rum
+<lb/>att bo i, utan höllo till mellan ett par plank&#x00AD;
+<lb/>staplar. Nätterna voro bitande kalla, någon
+<lb/>eld fick vi förstås inte ha, och ofta fick jag gå
+<lb/>fram och åter på den ödsliga landsvägen för
+<lb/>att hålla mig vid liv, under det Seyed tycktes
+<lb/>sova gott med endast en tunn filt om axlarna.</p>
+<p rend="indfirst">Han var en enastående god människa, och
+<lb/>jag ville vara i hans sällskap hur länge som
+<pb n="99"/>
+<lb/>helst, bara han var nykter. Hela kvällarna
+<lb/>låg han och talade om sitt hem i Alleghany&#x00AD;
+<lb/>bergen, om den skola han gått i och hur våld&#x00AD;
+<lb/>samt han levat. Han var aldrig pjunkig, han
+<lb/>låg som drömmande och talade liksom för sig
+<lb/>själv, utan rörelse, utan bitterhet, och brydde
+<lb/>sig inte det minsta om om jag hörde på eller
+<lb/>ej. Mycket av vad han sade röjde att han var
+<lb/>ovanligt begåvad, och jag väntade otåligt på
+<lb/>att alla hans resurser till mera sprit skulle
+<lb/>vara slut, så att vi tillsammans skulle få resa
+<lb/>till Chicago. Men jag började tro att han icke
+<lb/>passade för den staden.</p>
+<p rend="indfirst">Det var i synnerhet på eftermiddagarna han
+<lb/>talade, mot kvällen låg han alltid bara och
+<lb/>smågnolade för sig själv. Det led mot hösten,
+<lb/>himlen var oftast klar och solen värmde på
+<lb/>dagarna ganska bra. Jag skall aldrig glömma
+<lb/>den bleke, storväxte och halvrusige Seyed, där
+<lb/>han satt, mild som ett barn med sin trasiga
+<lb/>filt över axlarna, ryggen lutad mot plankstapeln
+<lb/>och ögonen blickande i fjärran, whiskykruset
+<lb/>vid sidan och halmhatten i gräset. Ibland såg
+<lb/>han ut som en skulptur, så orörlig, så mejslat
+<lb/>rena drag och hy av brons, när ruset började.</p>
+<p rend="indfirst">Flera gånger beslöt jag mig för att rymma
+<lb/>ifrån honom, men kunde ej förmå mig att
+<lb/>skiljas vid hans sällskap. En hel vecka pågick
+<pb n="100"/>
+<lb/>detta: jag sov på förmiddagarna och vakade
+<lb/>på nätterna. Han sjöng visor för mig, när jag
+<lb/>bad honom, och gjorde allt för att jag skulle
+<lb/>stanna. Men livet på detta sätt blev till sist
+<lb/>outhärdligt, och jag gick min väg en dag. Det
+<lb/>sista jag hörde var den visa han ofta sjöng
+<lb/>när han ej var allt för drucken.</p>
+<p rend="indfirst">Jag hade i hemlighet köpt litet matvaror och
+<lb/>gömt dem på brädgården, en middag när han
+<lb/>höll på att tala om barndomsbergen igen. Som
+<lb/>vanligt hoppade han från sak till sak, och
+<lb/>pratade om allting. Jag skulle hämta en butelj
+<lb/>whisky till, och jag hade beslutat att gå min
+<lb/>väg då.</p>
+<p rend="indfirst">– Jag tror att ditt land är lika som mitt,
+<lb/>sade han. Det växer björkar där. Du skall
+<lb/>hämta whisky åt Seyed, snart, så sjunger han
+<lb/>– men du skall höra visan innan du går –
+<lb/>jag har börjat frysa, inte frös jag förr. Det
+<lb/>där slöddret i Wiregrass skall du fly från, du
+<lb/>är för klen för sådant, du skulle komma på
+<lb/>ett stort kontor. Jag har en bror som rår om
+<lb/>sex fartyg, va säjs om de? Han var i Kali&#x00AD;
+<lb/>fornien på bröllopsresa när jag frös fast i Fox
+<lb/>Land. Är det tid att gå till Hennegans efter
+<lb/>öl nu? Dom öppnar så här dags, tror du
+<lb/>inte?</p>
+<p rend="indfirst">Han tycktes bli allt slöare, talade allt mer
+<pb n="101"/>
+<lb/>sakta, och som om han drömt om något annat
+<lb/>under tiden.</p>
+<p rend="indfirst">– Äventyret lockar, det lockar – äventyret,
+<lb/>men i och för sig är det ingenting, gosse, tro
+<lb/>aldrig att det är något i det. Rör aldrig sprit
+<lb/>heller, om du kan låta bli, hör på ett råd,
+<lb/>Seyeds råd, han har varit med på många fler
+<lb/>äventyr än du – på så stygga äventyr, så han
+<lb/>är tvungen att supa, annars äter samvetet opp
+<lb/>honom. Det kommer som en varg och äter.
+<lb/>Du har inte gått, har du? Vänta, jag ska
+<lb/>sjunga visan som du sade var så bra – – – </p>
+<p rend="indfirst">Han tog sig ett tag över pannan och sjöng:</p>
+<lb/>
+<lg><l>Go east and west and southerly,</l>
+<l>go far away to roam.</l>
+<l>But tell my dear old mother</l>
+<l>that I’m not coming home.</l>
+<l>The wallys are all a’blooming,</l>
+<l>I’m dying in the dark,</l>
+<l>I’ve sinned an’ stained my jacket</l>
+<l>with spots of blood to mark.</l>
+<lb/>
+<l>I’ve seen her in my dreams to night,</l>
+<l>an she is ever waiting by day an’ eve an’</l>
+<l rend="ind8">morn – – – </l>
+<l>them yonder bells a’ringing</l>
+<pb n="102"/>
+<l>an’ skye’s blue an’ soft – – – </l>
+<l>her hair is thin an’ withered as straws among</l>
+<l rend="ind8">the corn.</l>
+<lb/>
+<l>I’m roving in the wilderness,</l>
+<l>I’ll never see you more –</l>
+<l>you dig me deep beneath the stones</l>
+<l>at Carol River shore.</l>
+<l>I’ll beg you shovel the sand on me –</l>
+<l>ho – scents of parsley-bloom!</l>
+<l>You tell them all, you say them all</l>
+<l>that I’m not coming home.</l></lg>
+<lb/>
+<p rend="indfirst">När Seyed hade slutat visan var jag så långt
+<lb/>borta att han ej kunde se mig mer.</p>
+<p rend="indfirst">Jag slängde den tomma whiskybuteljen i ett
+<lb/>dike och smög mig bort till stationen, med en
+<lb/>kylande känsla i ryggen, och något tjockt som
+<lb/>proppat sig i halsen.</p>
+<p rend="indfirst">Men Seyed har jag aldrig mer sett.</p>
+<pb n="103"/>
+</div2>
+<div2 type="chapter" xml:id="Kap10">
+<head rend="big center chaptername">X.</head>
+<lb/>
+<p rend="indfirst">När jag stötte ihop med svensken Henrik
+<lb/>Petterson en solskensdag utanför hotellet i Mac
+<lb/>Gregor, satt han och täljde på en trähäst. Han
+<lb/>var en ung man, brunbränd, van att vandra,
+<lb/>lätt klädd i endast lågskor, skjorta, överhalare
+<lb/>och linnerock, skämtsam och underhållande.</p>
+<p rend="indfirst">– Nu har jag varit i det här landet fyra
+<lb/>år, sade han och höll i detsamma upp den
+<lb/>oformliga träbiten i luften liksom för att kunna
+<lb/>bedöma den bättre på litet avstånd, men, <hi rend="i">in
+<lb/>spite of the deuce,</hi> sir, om jag någonsin kom
+<lb/>att tänka på det förr.</p>
+<p rend="indfirst">– Tänka på vad, på trähästen?</p>
+<p rend="indfirst">– Det ena med det andra, förstås, nu när&#x00AD;
+<lb/>mast trähästen. Tro mäj, du unga svenska
+<lb/>medborgare, som kommit hit för att blodet
+<lb/>må rinna av däj i sinom tid, tro mäj, jag kom
+<lb/>hit till byn i går och var hungrig som en
+<lb/>varg. Det skulle inte löna säj att tigga här –
+<lb/>och så för resten, alla människor tror att jag
+<pb n="104"/>
+<lb/>kom från Sverge förra veckan, men det är där&#x00AD;
+<lb/>för att jag inte språkar rotvälska som dom
+<lb/>andra bönderna. Antingen talar jag svenska
+<lb/>eller engelska. Bara svordomarna, dom gör
+<lb/>jag alltid på engelska, för dom låter bättre på
+<lb/>det viset. Darn your bluddy soul, sir, om jag
+<lb/>kom att tänka på det förr. Jag satt här bakom
+<lb/>brädhögen och torkade i natt, och jag visste
+<lb/>inte ett dugg om jag skulle svälta ihjäl i dag
+<lb/>eller inte, för jag har inte ätit på rätt länge.
+<lb/>Jag satt och vart pjunkig och, på ren svenska,
+<lb/>gråtmild, tänkte på gamla minnen, på Sverge
+<lb/>och min gamla far, som tror att jag är välbeställd
+<lb/>bokhållare på Great Northerns kontor. Jag
+<lb/>gick igenom gamla barndomsminnen – jag
+<lb/>kom ihåg allting, hur vi åkte sparkstötting
+<lb/>och skidor, hur vi – men det går jag inte
+<lb/>igenom en gång till. I alla fall kom jag ihåg
+<lb/>trähästarna vi köpte av dalkarlarna, som for
+<lb/>omkring och sålde laggkärl på vintrarna –
+<lb/>och bäst det var, så reste jag mig opp bakom
+<lb/>plankstapeln, slog mig själv en lagom mag&#x00AD;
+<lb/>hoppare och sa, nu ska du inte vara dum,
+<lb/>utan gör trähästar, måla dom som dalkarlarna
+<lb/>målade dom, och sälj dom åt svenskar som
+<lb/>har små ungar!</p>
+<p rend="indfirst">Och nu sitter jag här och övar mäj. Det
+<lb/>här är den tredje – och titta där i spånorna
+<pb n="105"/>
+<lb/>– där är den första, är det inte framsteg? Det
+<lb/>blir värst med målningen, det blir så, att när
+<lb/>jag får ett dussin hästar gjorda – jag har be&#x00AD;
+<lb/>räknat det ska gå på två dagar – så får jag
+<lb/>sitta i fyra veckor och vänta på en målare
+<lb/>som kan – – hör nu, gosse, det skulle väl
+<lb/>inte vara så, att du är målare, född i Dalarna,
+<lb/>och enkom av Herren hitsänd för att bemåla
+<lb/>trähästar? Svara, yngling, om du någonsin
+<lb/>rört ihop kimrök med olja är du min man!</p>
+<p rend="indfirst">– Vi ska försöka, svarade jag. Han såg så
+<lb/>glad ut att det smittade även mig. Har du –
+<lb/>att köpa litet, litet färg för?</p>
+<p rend="indfirst">Jag hade ungefär en dollar, men för försik&#x00AD;
+<lb/>tighets skull sade jag att jag skulle gå och
+<lb/>handla färg for mina sista femtio cents, var&#x00AD;
+<lb/>efter han tog till med arbetet med en rent ra&#x00AD;
+<lb/>sande fart.</p>
+<p rend="indfirst">Jag kilade in i svensken Svansons drugstore
+<lb/>och köpte för tio cent olja. Det var med
+<lb/>yttersta nöd jag fick gubben att sälja så litet.
+<lb/>Svart, gult och blått för femton cent. O, ni
+<lb/>alla Amerikas feta och skalliga grosshandlare,
+<lb/>om ni visste hur det kännes att börja ett före&#x00AD;
+<lb/>tag med så ungdomlig hänförelse, som jag och
+<lb/>den okände trähästmakaren började vårt.</p>
+<p rend="indfirst">Han hade hästen nästan färdig, när jag kom
+<pb n="106"/>
+<lb/>tillbaka, och det var sannerligen en hemslöjd
+<lb/>han inte behövde skämmas för.</p>
+<p rend="indfirst">– Tagel till svans, tagel till svans! ropade
+<lb/>han. Skaffa tagel, gå in i hotellstallet, riv
+<lb/>håret av en indian, gosse, jag ska ha tagel!
+<lb/>Sen ska vi höra efter var det finns svenskar
+<lb/>med ungar – sss! det finns överallt. Femti
+<lb/>cent för hästen. Ack, måla nu du, så får den
+<lb/>torka i solen, medan vi skaffar tagel till rum&#x00AD;
+<lb/>pan.</p>
+<p rend="indfirst">Jag började minna mig på hur jag sett dessa
+<lb/>hästar målade, och jag rörde till färg på en
+<lb/>glasbit, under det Petterson såg på med tind&#x00AD;
+<lb/>rande ögon. Han frågade var jag lärt det,
+<lb/>om det var mycket svårt, och hur jag skulle
+<lb/>ställa mig till kompaniskap med honom.</p>
+<p rend="indfirst">Jag målade en prydlig sadel i blått och gult,
+<lb/>med brunröda remmar och svarta tyglar. För
+<lb/>övrigt gjorde jag hästen snövit, med en mörk
+<lb/>ring kring vänstra frambenet. Petterson jublade.
+<lb/>Och vi gjorde sedan en svans av tagel, som
+<lb/>han stal ur Svansons stall, ställde vår skapelse
+<lb/>på en undangömd plats i solen och larvade i
+<lb/>väg till Breenburgs boardinghus för att äta
+<lb/>middag på min bekostnad. Jag lät förstå att
+<lb/>jag hittat sjuttiofem cents i rockfodret.</p>
+<p rend="indfirst">När vi kommo tillbaka var trähästen ännu
+<lb/>inte riktigt torr, så vi satte oss ner och be&#x00AD;
+<pb n="107"/>
+<lb/>undrade den en timme. Petterson sade, att
+<lb/>det, by Gosh, var den enda sak han gjort
+<lb/>färdig i hela sitt liv. Under tiden började han
+<lb/>tälja en till. – Det var tur, att jag inte supit
+<lb/>opp kniven, sade han. Då hade det varit hopp&#x00AD;
+<lb/>löst.</p>
+<p rend="indfirst">Om en stund funderade han på, att det
+<lb/>kunde vara på tid att sälja ut lagret innan
+<lb/>det blev kväll, och med vår granna häst i ett
+<lb/>tidningspapper traskade han i väg upp till ho&#x00AD;
+<lb/>tellet.</p>
+<p rend="indfirst">Jag kan se det ännu från min plats vid
+<lb/>brädstapeln. Nu är han framme vid Svansons
+<lb/>glasveranda, här kommer Svanson, och – o
+<lb/>himmel, du är dock vår vän! – där kommer
+<lb/>Svansons grabb springande. Svanson tar hästen
+<lb/>och synar den, och jag kan förstå, att Petter&#x00AD;
+<lb/>son under tiden pratar ofantligt, fast jag inte
+<lb/>hör det. Nu vinkar Svanson avvisande med
+<lb/>handen, nu tar Petterson tillbaka trähästen
+<lb/>med en nonchalant gest. Säkert spelar han
+<lb/>alldeles likgiltig. Det är måhända den sista
+<lb/>av det stora från Sverge komna lagret, han
+<lb/>bjuder ut. Kanske han själv är lika glad att
+<lb/>behålla den liksom till ett minne? Men nu
+<lb/>ingriper grabben tydligen, Svanson tar tillbaka
+<lb/>trähästen. Jag börjar nästan svettas. Grabben
+<lb/>talar med far sin, som skrattar. Vad säjer
+<pb n="108"/>
+<lb/>Svanson till sin son? Kanske att i Duluth
+<lb/>finnes en hel butik full med sådana hästar till
+<lb/>fem cents stycket. Gode Gud, give du att
+<lb/>Svanson aldrig varit i Duluth! Eller om han
+<lb/>varit i Duluth, att han dock inte skådat Smitt
+<lb/>Olsburgs leksakshandel, som ligger vid gatan
+<lb/>till Omahastationen.</p>
+<p rend="indfirst">Kanske Svanson lovar sin son att han nöjer
+<lb/>sig utan trähäst en vecka skall han köpa en
+<lb/>bättre åt honom i S:t Paul, hos Saul Moss &amp;
+<lb/>Son, som har gunghästar till femtio cents, med
+<lb/>riktiga tömmar på? Vad vet jag, som sitter
+<lb/>här vid plankhögen och kallsvettas. Nu tar
+<lb/>Petterson trähästen på nytt, och gör min av
+<lb/>att gå. Svanson hejdar honom. De gå in i
+<lb/>huset. Jag har ingen ledtråd mer, nu kan vad
+<lb/>som helst inträffa.</p>
+<p rend="indfirst">Men om en stund kom Petterson, utan trä&#x00AD;
+<lb/>häst, och sjuttiofem cents rikare. Han kunde
+<lb/>inte själv begripa hur han fått så mycket, men
+<lb/>han trodde att herrskapet Svansons längtade
+<lb/>hem, eftersom dom kunde vara så tokiga i
+<lb/>svenska trähästar. Han hade sagt att han inte
+<lb/>kunde ett ord engelska, att träet, som han
+<lb/>gjort hästen av, var en planka ur botten på
+<lb/>hans egen svenska reskoffert, växt således i
+<lb/>Dalarna i Sverge. Han hade sagt att taglet i
+<pb n="109"/>
+<lb/>svansen var knyckt ur en fiolstråke från Sverge,
+<lb/>för han, Petterson, var spelman också.</p>
+<p rend="indfirst">De följande två dagarna gjorde vi sex trä&#x00AD;
+<lb/>hästar, och på den tredje dagen sålde Petter&#x00AD;
+<lb/>son dem. Han fick nog femti cents stycket,
+<lb/>minst. Jag kan ännu se honom där han larvar
+<lb/>i väg till staden med hästarna i en låda. Jag
+<lb/>väntade honom i tre timmar, och mot kvällen
+<lb/>den dagen hittade jag honom på en krog, där
+<lb/>han satt i ett hörn och sjöng Du gamla, du
+<lb/>fria. Men kompanjonskapet upphörde.</p>
+<p rend="indfirst">Jag hade beslutat att ensam och till fots till&#x00AD;
+<lb/>ryggalägga järnvägssträckan mellan Bemidji och
+<lb/>Brainerd, men blev ensam blott till Tronton
+<lb/>Creek, där jag upphann en lumberjack, som
+<lb/>för något år sedan fått vänstra benet amputerat.
+<lb/>Vi sov på nätterna utmed järnvägsbanken, så
+<lb/>fort mörkret befriade oss från moskiterna.</p>
+<p rend="indfirst">Naturen här är av en nästan obeskrivlig
+<lb/>ödslig skönhet, och på mig verkade den då
+<lb/>som något ångestmättat, skräckinjagande som
+<lb/>en mardröm, särskilt när månen stod likvit
+<lb/>och hängde över träsken.</p>
+<p rend="indfirst">Vi kunde också fortsätta att trampa längs
+<lb/>de glimrande skenorna genom halvmörkret,
+<lb/>och vi kokade kaffe på banken av en liten
+<lb/>flod, vars namn jag glömt, under det blåsten
+<lb/>susade i de taggiga, halvtorra träskträden, pep
+<pb n="110"/>
+<lb/>och ven och jämrade, och telegraftrådarna spe&#x00AD;
+<lb/>lade som orgelverk i halvstormen. Ibland
+<lb/>stannade vi vid kanten av en väldig swamp,
+<lb/>och jag kände mig nästan förintad vid åsynen
+<lb/>av dessa döda myrlandskap med sin bentorra
+<lb/>skog på underligt fantastiskt formade öar. Här
+<lb/>och där hade stormen vräkt ikull träd, de lågo
+<lb/>avbarkade, blänkande som jättebenrangel med
+<lb/>hälften av de kala grenarna nedkörda i dyn
+<lb/>och den andra hälften spritande uppåt bön&#x00AD;
+<lb/>fallande, likt lemmarna av djur som drunkna
+<lb/>i kvicksand.</p>
+<p rend="indfirst">Ännu tio mil till Brainerd. By Gosh! Här ha
+<lb/>vi expressen, han kommer som en pil, stor&#x00AD;
+<lb/>tjutande som en mistlur med två toner sam&#x00AD;
+<lb/>tidigt, brusar som en jätteorgel ut sin varnings&#x00AD;
+<lb/>sång över hjortarnas öar och sköldpaddornas
+<lb/>träsk. Jag hoppar åt sidan och sätter mig på
+<lb/>en trädstam och tittar på odjuret. Jag hinner
+<lb/>knappt se de väldiga bokstäverna G. N. på
+<lb/>loket, innan lyxvagnarna rusa förbi mig som
+<lb/>onda andar. Deras väggar av glas lysa upp
+<lb/>ödemarken med all himlens härlighet, och
+<lb/>säkert sitter där mången trött tvålagent med
+<lb/>hustru och tre rum i Duluth eller Chicago
+<lb/>och glädes, att han slipper fotvandra i dessa
+<lb/>trakter. Det prasslar i snåren bakom mig,
+<lb/>någon liten mård, som jagat råttor i natt på
+<pb n="111"/>
+<lb/>järnvägsbanken – de vimla vid varje sten&#x00AD;
+<lb/>trumma mellan träsken, där banan slagit bro
+<lb/>– tar nu några skutt bakåt för att beundra
+<lb/>Great Northern Limited.</p>
+<p rend="indfirst">Och så slå vi läger igen. Min »rumskamrat»
+<lb/>kan konsten att koka mat i ödemarken, bara
+<lb/>han som nu hittat någon som kan köpa råvaran
+<lb/>i sågverkssamhällena och bära den åt honom.
+<lb/>Han hoppar på en grov krycka av järnek, som
+<lb/>han snickrat själv. Han är svensk, och han
+<lb/>förtvivlar aldrig. Svenskarna är ett duktigt
+<lb/>folk, var man än träffar dem. Aldrig får man
+<lb/>av dem samma intryck av löst pack, hur
+<lb/>fattiga och hemlösa de än äro, som av italienare,
+<lb/>fransmän och gärna tyskar i samma belägen&#x00AD;
+<lb/>het, fast tyskarna äro packet som man aldrig
+<lb/>eller sällan hittar trasigt, hellre med fickorna
+<lb/>fulla av handelskram och skenet av gentleman
+<lb/>över den flottiga habiten.</p>
+<p rend="indfirst">Min kamrat hade för närvarande inga andra
+<lb/>önskningar i denna värld än ett bra och snyggt
+<lb/>konstgjort ben, så att han skulle slippa kryckan.
+<lb/>Det fanns i Aitkin, men dom var så hutlöst
+<lb/>dyra, och Kalle Larssons pengar var hopplöst
+<lb/>slut. Bara han fick ihop till ett ben, skulle
+<lb/>han starta en frukthandel i S:t Paul och bli
+<lb/>rik. Det fanns ingenting som fordrade så litet
+<lb/>startkapital som frukthandel, sade han, hans
+<pb n="112"/>
+<lb/>ansikte lyste upp när han tänkte på det. När
+<lb/>han fått handeln i gång skulle han gifta sig,
+<lb/>om han bara kunde komma över benet skulle
+<lb/>han gifta sig först, för fästmön skulle få lov
+<lb/>vara förmögen, men han kunde inte, sade han,
+<lb/>komma hoppande till en rik och fin dam på
+<lb/>ett ben.</p>
+<p rend="indfirst">När han somnade såg jag hans rödbrusiga
+<lb/>ginansikte lysa som skurad koppar i dunklet.
+<lb/>Myggen bet som helvetet, och trotsade rök och
+<lb/>eld för vårt blods skull. Larsson jämrade
+<lb/>smått i sömnen och ropade på någon kär och
+<lb/>fjärran varande. Han drömde säkert om Små&#x00AD;
+<lb/>land.</p>
+<p rend="indfirst">Den natten smög jag mig från honom, sedan
+<lb/>jag stuckit en smörgås i den gapande fickan
+<lb/>på hans kavaj som han krängt över huvudet
+<lb/>för moskiternas skull.</p>
+<p rend="indfirst">Morgontimmarna mellan Holy Rock och Lake
+<lb/>Beaver skall jag aldrig glömma. Hela träsk&#x00AD;
+<lb/>landet låg drömmande i en tunn ånga av blått
+<lb/>och silver, ur vilken kolsvarta trädtoppar stucko
+<lb/>upp som cypresser ur blomhöljda snår. Här
+<lb/>gingo skenorna ormande genom en bredbottnad
+<lb/>dal, där ett slags gula vallmo höllo på att dö
+<lb/>för året. Sedan började den mil och åter mil
+<lb/>långa cederskogen, mild och mjuk och evigt
+<pb n="113"/>
+<lb/>grön, och genom den for västan och sjöng och
+<lb/>viskade.</p>
+<p rend="indfirst">Mitt inne i en lund hittade jag en bäver&#x00AD;
+<lb/>damm med klart vatten. Jag satt där länge
+<lb/>och önskade jag kunnat bygga en svensk kol&#x00AD;
+<lb/>koja med tak av näver och mur av gråsten
+<lb/>vid dammens bank så att jag kunde bo där
+<lb/>och se cedrarna tyngas av den första snön när
+<lb/>träskvinden bet skarpt och all marken strecka&#x00AD;
+<lb/>des av spår efter älg, varg och hjort.</p>
+<lb/>
+<p rend="center">*</p>
+<lb/>
+<p rend="indfirst">Tre månader därefter mottog jag i Göteborg
+<lb/>följande brev:</p>
+<lb/>
+<lb/>
+<p rend="ind indfirst">»Tjära vän.</p>
+<lb/>
+<p rend="indfirst">Du tror väl inte jag kan skriva men dett
+<lb/>kan jag fast nu har jag inte skrivat eller räjtat
+<lb/>på flira år. Jag fick brev att du liksom var
+<lb/>uti Göteborg fast jag vet inte om dett är någon&#x00AD;
+<lb/>ting att äta där.</p>
+<p rend="indfirst">Simmons ska gifta säj sedan bliver jag
+<lb/>väll ensam som en uggla här i brushen. I
+<lb/>vinter har dom en camp å hugger ner Vare-
+<lb/>Hausers skog och sälger det vet inte Vare&#x00AD;
+<lb/>hauser ett dugg om, det är Simmons och den
+<pb n="114"/>
+<lb/>där hetlevrade irländaren du vet dom hadde
+<lb/>alltihop i Simmons namn för han var minst
+<lb/>tjinkig ifall det geck åt hällvett, som det hetter
+<lb/>uti Vermland, men det gjorde det inte utan
+<lb/>dom klarade opp hela lorten som rakt ingen&#x00AD;
+<lb/>ting å sålde tusen slipers därtill som dom tog
+<lb/>på Holmans skog simmons ska ha en camp
+<lb/>nästa år också, säjer han, med femti hästar
+<lb/>och sen så blir dett nog inte mycket kvar åt
+<lb/>Big Haggel att schäla nästa vinter for ved dis
+<lb/>täjm har nog Simmons stulit bort hela Aitkin
+<lb/>county för han har köpat en liten landbit
+<lb/>som är bra att ha campen på och sen så
+<lb/>tar han bara miste på var rågången går så det
+<lb/>går nog bra.</p>
+<p rend="indfirst">Jag är nu utsedd till detta tanets jösstis å
+<lb/>pis, så jag har rättighet att viga folk nu så
+<lb/>om du kommer hit å ska gifta däj så vet du
+<lb/>vart du ska liksom gå jag ska även stifta frid
+<lb/>när det behövs och är liksom högsta ämmbetts&#x00AD;
+<lb/>man i den här lansdelen.</p>
+<p rend="indfirst">Ja kom bara Simmons han frågar nu går
+<lb/>du väll kring i gamla Dalarna och har stärks&#x00AD;
+<lb/>schorta och näck täj och ljuger om oss och
+<lb/>skryter utav alla braggder du gjort här och
+<lb/>dett är bra, men du går väll inte och läser
+<lb/>för prästen jag minns du hadde det ojort men
+<lb/>blir dom jäkliga så kom hit du for kommer
+<pb n="115"/>
+<lb/>dom efter hit me sin körka å kakes och debet&#x00AD;
+<lb/>sedlar och milvedshuggning och salt å brö å
+<lb/>vatten då smäller dä åt dom, teknar</p>
+<lb/>
+<p rend="ind6 indfirst">Hedstrom esq.»</p>
+</div2>
+<div2 type="chapter" xml:id="Kap11">
+<pb n="116"/>
+<head rend="spaced center chaptername">SVENSK-AMERIKANSKAN TELMA
+<lb/>JOHANSSON.</head>
+<lb/>
+<p rend="indfirst">Ett år efter min hemkomst från Staterna
+<lb/>hittade jag min gamle vän och skolkamrat
+<lb/>Richard Sand i en timmerkoja uppe i Bergs&#x00AD;
+<lb/>lagen. Han var annars en studerad man nu
+<lb/>för tiden, men tjuvskytt fortfarande, vilket
+<lb/>gladde mig högeligen. Jag visste mer än väl
+<lb/>varför han låg där, det var ju i älgtiden, och
+<lb/>som han också visste varför jag kom dit, be&#x00AD;
+<lb/>hövde vi inte fråga varandra om någonting.
+<lb/>Men när det nu bara störtregnade i två dygn
+<lb/>och vi inte led brist på mat och kaffe, be&#x00AD;
+<lb/>rättade vi historier under tiden.</p>
+<p rend="indfirst">Richard sade att jag gått miste om mycket,
+<lb/>när jag inte lärt känna kvinnorna som han.
+<lb/>Särskilt hade han träffat en rolig svensk-ameri&#x00AD;
+<lb/>kansk fru, och med henne upplevat ett helt
+<lb/>underverk. Han berättade sedan följande hi&#x00AD;
+<lb/>storia.</p>
+<p rend="indfirst">Hon kom direkt från New York, där hon
+<pb n="117"/>
+<lb/>ingått äktenskap med en bokhållare från Omaha,
+<lb/>när hon överfölls av en gräslig hemlängtan och
+<lb/>narrade mannen att bekosta henne en tripp
+<lb/>hem hit till Sverge. När hon tittat sig om&#x00AD;
+<lb/>kring här ett slag, beslöt hon att logera in sig
+<lb/>på det lilla pensionat där jag på grund av en
+<lb/>slump råkade bo just då. Det var ett av de
+<lb/>många pensionaten i Stockholms utkanter, vad
+<lb/>det hette kan kvitta. I alla fall kom hon dit
+<lb/>två dagar senare än jag och tycktes fatta ett
+<lb/>slags, som det syntes, systerlig kärlek för mig
+<lb/>ensamme främling.</p>
+<p rend="indfirst">På den där inrättningen bodde utom oss två
+<lb/>polackare, två ogifta damer av värld och i den
+<lb/>farliga åldern och ej alls vackra, tre unga män
+<lb/>av prästståndet, två backfischar och en tjugu&#x00AD;
+<lb/>årig bankirdotter. Som du hör så var vi ett
+<lb/>slags blandat sällskap. Jag vart dödligt kär,
+<lb/>först i den där svensk-amerikanskan, men efter
+<lb/>hand allt mer i bankirdottern, du vet hur sånt
+<lb/>där går till, så jag behöver inte förklara. Hon
+<lb/>hette Elsa och något borgerligt i tillnamn.
+<lb/>Den där frun från Amerika hette Telma. Du
+<lb/>kan inte tro hur hon såg ut, med sin utskjutna
+<lb/>underläpp, sitt förläget söta ansikte och sin
+<lb/>runda haka. Figuren var något hängig och lös,
+<lb/>hennes klänning satt löst, hon gick – ja, för&#x00AD;
+<lb/>låt, lösaktigt, och med en svängande rörelse
+<pb n="118"/>
+<lb/>på de lösa höfterna. Hon talade med många
+<lb/>tusen o my, oh, ack, ’s that so – som du vet,
+<lb/>så en kunde bli galen av det. Och det värsta
+<lb/>var att hon var så ädel. Har du träffat
+<lb/>en riktigt ädel kvinna, jag menar en som är
+<lb/>ädel i munnen, utom när hon är arg? Har du
+<lb/>gett akt på att såna alltid går snett på skorna?
+<lb/>Förbaskat snett. Och den här Telma hon
+<lb/>hade – tja, du kanske inte sätter värde på
+<lb/>sånt, men hon hade vackra ben och fötter,
+<lb/>så det var en fröjd att se det, men hon för&#x00AD;
+<lb/>därvade alltihop med att gå i kull bägge sko&#x00AD;
+<lb/>klackarna. Och så var hon, som sagt, ädel
+<lb/>och barmhärtig. Hon drog mig med ut på
+<lb/>månskenspromenader, och då talade hon om
+<lb/>stora och ädla män och kvinnor. Hon sade
+<lb/>att hon egentligen bara kunde med två för&#x00AD;
+<lb/>fattare, det var Maeterlinck och Blicher Clau&#x00AD;
+<lb/>sen. Hon satte dem högst av alla, sade hon.
+<lb/>Det var en sån hög syn de hade på tingen.
+<lb/>Hon brukade sitta på ett stängsel och se på
+<lb/>månen, och då talade hon om fredsrörelsen.
+<lb/>Hon kunde inte med Amerika för att där inte
+<lb/>fanns några högre vyer.</p>
+<p rend="indfirst">Hon talade om sina höga ideal evinnerligen,
+<lb/>så att när jag första gången kysste henne höll
+<lb/>hon på med Maeterlinck igen. Hon tycktes
+<pb n="119"/>
+<lb/>inte bli det allra minsta störd i sina funderingar
+<lb/>på mänsklighetens väl av att jag satte mig på
+<lb/>en tuva och tog henne i knäet, snarare tycktes
+<lb/>det sätta hennes ädlare känslor i en väldig
+<lb/>fart, så att – tja, du vet väl hur en brukar
+<lb/>göra med dem, så det där går jag inte igenom
+<lb/>nu, i alla fall, litet närgången var jag, men
+<lb/>inte mer än att jag behöll min sans och hjälpte
+<lb/>henne på traven hela tiden med att beundra
+<lb/>teosoferna. När jag insåg att jag ingenting be&#x00AD;
+<lb/>grep av den här slags sorten fruntimmer, slu&#x00AD;
+<lb/>tade jag och vi talade om Indien. Jag vet
+<lb/>inte så värst mycket om Indien, inte ens som
+<lb/>du, och hon visste ingenting. Men vi gick
+<lb/>tämligen noga igenom alltsammans ändå, och
+<lb/>mer till, så att hon i alla fall såg litet ansträngd
+<lb/>ut när vi reste oss och gick hem, men inte
+<lb/>tycktes hon det ringaste medveten om att vi
+<lb/>på något sätt närmat oss varandra. Hon såg
+<lb/>mig lika oskuldsfullt mitt in i ögonen och
+<lb/>ackade och o ja-ade lika som förr, och drog
+<lb/>på om målare och bildhuggare och såna som
+<lb/>ägnat hela sitt liv åt högre syften.</p>
+<p rend="indfirst">Så vart där en annan vind, och jag vart all&#x00AD;
+<lb/>varligt kär i den där bankirdottern, som under
+<lb/>tiden blivit intim vän med Telma, så att de
+<lb/>inte hade några hemligheter för varandra. Och
+<lb/>eftersom jag hade fast beslutat mig för att gifta
+<pb n="120"/>
+<lb/>mig med Elsa, bankirdottern, som jag inte vill
+<lb/>beskriva alls, därför att jag verkligen älskade
+<lb/>henne, och sådant tiger man med, så följde
+<lb/>jag henne ut en kväll i parken och friade och
+<lb/>fick ja, varpå hon, som aldrig varit kär förr,
+<lb/>efter vad jag vet, i yrande glädje sprang och
+<lb/>berättade, blyg och fröjdefull, sin lycka för
+<lb/>Telma.</p>
+<p rend="indfirst">Jag trodde förut att jag något så när förstod
+<lb/>mig på fruntimmer, och jag menade att nu
+<lb/>borde Telma inte bli så ädel mot mig mer.
+<lb/>Dels hade jag alldeles försummat henne en
+<lb/>vecka, åtminstone hade vi inte kommit till
+<lb/>något vidare intimt förhållande, och, som sagt,
+<lb/>under en tid av en vecka hade jag ej varit i
+<lb/>hennes sällskap. Jaha, dels det – och så
+<lb/>tänkte jag hon skulle surna litet i alla fall –
+<lb/>en inbillar sig mycke, när en är ung. Nu
+<lb/>insåg jag att jag inte begrep någonting, för
+<lb/>Telma kom och gratulerade allt hon orkade.
+<lb/>Hon ville, som hon sa, bara få rå om mig en
+<lb/>timme, innan jag alldeles blev upptagen, och
+<lb/>den timmen skulle hon promenera med mig
+<lb/>utåt sjön och språka om så mycket.</p>
+<p rend="indfirst">Jag blev litet förbryllad och frågade Elsa om
+<lb/>lov. Jo, så gärna, hon var inte alls svartsjuk
+<lb/>på sin Richard, gå bara, ni, jag känner Telma,
+<lb/>bättre sällskap kan du inte komma i, för <hi rend="i">hon</hi>
+<pb n="121"/>
+<lb/>är en verkligt upphöjd kvinna. Ja, då så fick
+<lb/>jag väl luffa med.</p>
+<p rend="indfirst">Nog går det an att vara riktigt kär och ändå
+<lb/>ha en smula humor i kroppen. Va? Tror du
+<lb/>inte? Jag försäkrar, att min själ var så full av
+<lb/>skratt denna minnesrika dag, att jag trodde
+<lb/>den skulle spricka. På samma gång förbrylla&#x00AD;
+<lb/>des jag, när jag fann, att Telma inte alls grät
+<lb/>eller var vemodig eller liksom ville säga far&#x00AD;
+<lb/>väl. Hon gick på som förr och pratade om
+<lb/>allting hon inte hade ett dugg reda på.</p>
+<p rend="indfirst">Hon stod vid min sida i en dunge vid sjö&#x00AD;
+<lb/>stranden. Hon höll bägge mina händer och
+<lb/>bad mig vara snäll mot Elsa, som var hennes
+<lb/>bästa vän. Sedan lutade hon sig utan att vara
+<lb/>rörd på något sätt emot min axel och såg hur
+<lb/>solen gick ner. Hon var alldeles för nära mig.
+<lb/>Så började hon på om Sverges vackra natur
+<lb/>och höll liksom en liten predikan för mig om
+<lb/>hur den vackra naturen föder ädla känslor.
+<lb/>Men nu blev jag inte full av skratt mer. Jag
+<lb/>säger dig hon var för nära. Jag kände hennes
+<lb/>lösa, mjuka kropp mot min, och jag tog henne
+<lb/>i famn och kysste henne många gånger, och
+<lb/>hon låtsade inte om det ett dugg, hon bara
+<lb/>pratade. Det här inträffade samma dag jag
+<lb/>friat till den andra. Jag säger, hon kom
+<lb/>för nära mig. Jag är väl ändå bara en stackars
+<pb n="122"/>
+<lb/>karl – vad vill man begära av mig. Något
+<lb/>mer och värre hände inte, den gången.</p>
+<p rend="indfirst">Mot min förmodan viskade hon inte alls om
+<lb/>det där till Elsa. Hon gick sedan och drog
+<lb/>med en av ryssarna; och talade Maeterlinck
+<lb/>med honom, medan jag drog omkring med
+<lb/>min. Vi möttes ofta på våra utflykter, och då
+<lb/>skrattade ryssen var gång han såg mig. En
+<lb/>sån kanalje!</p>
+<p rend="indfirst">På pensionatet betraktades vi numera som
+<lb/>förlovade, bägge paren, och fick vara tämligen
+<lb/>ogenerade. En månad gick, och så märkte jag
+<lb/>att Telma började se oroligt på mig. Jag anade
+<lb/>att något skulle komma. Skandal, avslöjande,
+<lb/>farväl med kärlek. Men jag bedrog mig igen.</p>
+<p rend="indfirst">Genom min fästmö lät hon en dag hälsa
+<lb/>mig att hon hade nånting förfärligt viktigt att
+<lb/>tala med mig om. Elsa var själv mycket ange&#x00AD;
+<lb/>lägen att vi skulle träffas. En dag när pen&#x00AD;
+<lb/>sionatet var öde så när som på oss två, Elsa
+<lb/>och jag nämligen, samt Telma, ryssen och en av
+<lb/>backfischarna, som ryssen flirtade smått med.
+<lb/>Det tycktes nämligen vara slut på det goda för&#x00AD;
+<lb/>hållandet mellan Telma och ryssen. Min fästmö
+<lb/>skickade upp Telma till mig i mitt rum, och i
+<lb/>ett hörn satt ryssen med sin backfisch, vilket
+<lb/>inte bekom Telma ett dugg. Jag hade litet
+<lb/>huvudvärk och låg på sängen, Telma kom och
+<pb n="123"/>
+<lb/>satte sig på sängkanten, mild och ädel som
+<lb/>vanligt.</p>
+<p rend="indfirst">Hon talade om allt stort och skönt i livet,
+<lb/>till och med om Gud. Jag sade därför åt ryssen
+<lb/>att han skulle lämna oss, och det gjorde han
+<lb/>så gärna, och han tog backfischen med sig
+<lb/>när han gick.</p>
+<p rend="indfirst">För det första så ska du komma ihåg, att
+<lb/>det jag nu berättar, så underbart det än är, så
+<lb/>är det sant, för det andra, att Telma var ganska
+<lb/>täck, där hon satt och filosoferade vid min
+<lb/>säng.</p>
+<p rend="indfirst">Hon ville bara genom att språka med mig
+<lb/>förvissa sig om att jag hade rena avsikter med
+<lb/>Elsa. Det var alltsammans. Hon var så ömt
+<lb/>fästad vid Elsa, så hon ville skydda henne.
+<lb/>Hon trodde att vi möjligen hade litet hett blod
+<lb/>bägge två – o my, det var skönt att jag var
+<lb/>så pass klok att det gick an att tala med mig
+<lb/>om såna saker. Hon kände till världens ondska,
+<lb/>och fast hon inte precis trodde jag var en
+<lb/>skurk, så i alla fall, för Elsas skull – – – </p>
+<p rend="indfirst">Jag försäkrade henne att inga känslor kunde
+<lb/>vara renare än mina, varvid hon fick tårar i
+<lb/>ögonen av glädje. Jag tog hennes hand och
+<lb/>lovade henne att vara en gentleman. Om jag inte
+<lb/>älskade Elsa med en ren kärlek, så skulle jag
+<lb/>inte heller hyckla, sade hon. Ännu tycktes
+<pb n="124"/>
+<lb/>hon inte vara riktigt belåten, hon satt där och
+<lb/>tjatade en hel timme. Till sist vart hon ivrig
+<lb/>och lutade sig över mig för att se i mina ögon
+<lb/>om jag talade sanning. Allt närmare mig kröp
+<lb/>hon, fortfarande talande för Elsas lycka. Det
+<lb/>fanns så många sätt att dölja lögnen, sade
+<lb/>hon, hon hade sett så mångas lycka grusad
+<lb/>genom brutna löften. När hon talade om detta
+<lb/>hade jag dragit henne till mig så att hon nästan
+<lb/>kom över mig, stirrande ned mot kudden.
+<lb/>Hennes andedräkt brände min panna. Hon
+<lb/>sade att hon skulle dö av sorg om Elsa skulle
+<lb/>råka i olycka. Jag hade då även med en för&#x00AD;
+<lb/>färligt måttfull och fint avpassad manöver fått
+<lb/>upp hennes ben i sängen, så att vi lågo där,
+<lb/>nästan i varandras armar. Hon sade att hon
+<lb/>alltid hoppats att jag var en ädel man, som
+<lb/>för mitt samvetes skull inte – hon rodnade
+<lb/>och smålog ansträngt – som inte bara strä&#x00AD;
+<lb/>vade efter »det där» – hon sade att hon nog
+<lb/>inte behövde säga vad det var, jag begrep nog
+<lb/>ändå. Men ville jag lova henne att inte så
+<lb/>där på en gång »lägga an» på Elsa? Jag viskade
+<lb/>i hennes öra, att jag ville att kärleken skulle
+<lb/>vara vitt skild från alla låga lidelser, och då
+<lb/>syntes hon djupt rörd, hon liksom smög sej
+<lb/>fastare intill mig och såg mej in i ögonen. Jag
+<lb/>försökte läsa något i hennes blick – liksom
+<pb n="125"/>
+<lb/>spionera ut henne – men, som förut en gång,
+<lb/>jag var alldeles för nära. Jag hörde inte allt
+<lb/>hon under tiden viskade i mitt öra. Jag lade
+<lb/>hennes armar om min hals, och hon lät mej
+<lb/>göra det, och jag minns att då viskade hon
+<lb/>något om ädla hjärtans kamp mot det låga
+<lb/>och nedriga. Hon vred sej lite oroligt under
+<lb/>tiden, och flämtade fram något djupt ord då
+<lb/>och då. Mellan var gång jag kysste henne
+<lb/>sade hon något om kärlek för kärlekens egen
+<lb/>skull, som jag inte minns. Men då hade jag
+<lb/>slutat att svara henne. Vi var för nära var&#x00AD;
+<lb/>andra, vi såg inte alls på varandra, men vi
+<lb/>brottades en liten smula, och sen så pratade
+<lb/>vi inte mer, det vart alldeles tyst ett tag. Hon
+<lb/>satte sej opp sedan, tog med händerna bakåt
+<lb/>nacken, fick tag i en hårnål, som hon stoppade
+<lb/>i munnen, och så sa hon:</p>
+<p rend="indfirst">– Oh, my, så du rufsat till mej, då!</p>
+<p rend="indfirst">Sen så gick hon bort och reglade dörren, så
+<lb/>att ingen skulle kunna överraska henne, när
+<lb/>hon kammade sej framför min spegel. Jag
+<lb/>skrattade lågt – kunde jag annat, jag väntade
+<lb/>på bannor, men det kom inga, utan hon sade
+<lb/>att hon inte kunde med ryssen, han var för
+<lb/>sinnlig.</p>
+<p rend="indfirst">När hon var i dörren och skulle gå, sade
+<lb/>hon, att om hon tvivlat på mina rena avsikter
+<pb n="126"/>
+<lb/>med den andra förut, så nu tvivlade hon inte
+<lb/>mer. Hon sade att hon liksom lärt känna mej
+<lb/>litet bättre, nu. Hon önskade oss all möjlig
+<lb/>lycka och så vidare.</p>
+<p rend="indfirst">Hon började sjunga en sång, när hon gick
+<lb/>sin väg, och hennes ansikte strålade av en
+<lb/>själens tillfredsställelse, vilken endast kunde
+<lb/>härröra från minnet av de ädla ting, hon nyss
+<lb/>så underbart låtit oss bägge fröjdas åt.</p>
+</div2>
+</div1>
+</body>
+</text>
+
+</TEI>

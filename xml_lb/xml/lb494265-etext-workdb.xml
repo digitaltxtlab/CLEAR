@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- $Id: lb494265-etext-workdb.xml 123343 2015-12-12 12:00:09Z slaca $ -->
+<LBwork version="1.2.2">
+  <lbworkid>lb494265</lbworkid>
+  <librisid>494265</librisid>
+  <mediatype>etext</mediatype>
+  <authorid>BergmanHj</authorid>
+  <titleid>ViBookarKrokarochRothar</titleid>
+  <title>Vi Bookar Krokar och Rothar</title>
+  <shorttitle>Vi Bookar Krokar och Rothar</shorttitle>
+  <navtitle>Vi Bookar Krokar och Rothar</navtitle>
+  <sortkey>Vi Bookar Krokar och Rothar</sortkey>
+<texttype>roman</texttype>
+
+  <provenance>
+    <!--    <signum></signum>  -->
+    <library>GUB</library>
+  </provenance>
+  <startpagename>3</startpagename>
+  <endpagename>416</endpagename>
+  <sourcedesc>Albert Bonniers förlag, Stockholm 1912.
+
+
+  <errata><table><tr><td>114–116</td><td>[sidorna är omkastade i trycket, här korrigerade]</td></tr><tr><td>342</td><td>räta ut ryggarna, – räta ut ryggarna.</td></tr></table></errata>
+
+  </sourcedesc>
+  <imported>2008-04-22</imported>
+  <work-updated>2012-10-18</work-updated>
+  <workdb-updated>2015-12-12</workdb-updated>
+  <show>true</show>
+  <publisher>
+    <name>Albert Bonniers förlag</name>
+    <place>Stockholm</place>
+    <country>SE</country>
+  </publisher>
+  <imprintyear>1912</imprintyear>
+  <edition>1</edition>
+  <language>swe</language>
+  <searchable>true</searchable>
+  <proofread>true</proofread>
+  <fraktur>false</fraktur>
+  <printed>true</printed>
+  <modernized>false</modernized>
+  <license>cc-by-nc-sa</license>
+  <epub>
+    <license>cc-by-nc-sa</license>
+  </epub>
+  <part>
+    <titleid>Personregister</titleid>
+    <title>Personregister</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>index</texttype>
+    <startpagename>5</startpagename>
+    <endpagename>8</endpagename>
+  </part>
+  <part>
+    <titleid>Kap01</titleid>
+    <title>I. BLEKÄNGEN</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>9</startpagename>
+    <endpagename>151</endpagename>
+    <part>
+      <titleid>Kap02</titleid>
+      <title>Faster Mimmis och stadens historia</title>
+      <navshow>true</navshow>
+      <listshow>none</listshow>
+      <texttype>kapitel</texttype>
+      <startpagename>17</startpagename>
+      <endpagename>42</endpagename>
+    </part>
+    <part>
+      <titleid>Kap03</titleid>
+      <title>Broms &amp; Krok</title>
+      <navshow>true</navshow>
+      <listshow>none</listshow>
+      <texttype>kapitel</texttype>
+      <startpagename>43</startpagename>
+      <endpagename>71</endpagename>
+    </part>
+    <part>
+      <titleid>Kap04</titleid>
+      <title>Råttkriget</title>
+      <navshow>true</navshow>
+      <listshow>none</listshow>
+      <texttype>kapitel</texttype>
+      <startpagename>72</startpagename>
+      <endpagename>89</endpagename>
+    </part>
+    <part>
+      <titleid>Kap05</titleid>
+      <title>Ingenjör Krok badar ihjäl Blekängsbarnen. Broms gör förluster. Och Aposteln vakar</title>
+      <navshow>true</navshow>
+      <listshow>none</listshow>
+      <texttype>kapitel</texttype>
+      <startpagename>90</startpagename>
+      <endpagename>120</endpagename>
+    </part>
+    <part>
+      <titleid>Kap06</titleid>
+      <title>J. A. Broms gör bokslut</title>
+      <navshow>true</navshow>
+      <listshow>none</listshow>
+      <texttype>kapitel</texttype>
+      <startpagename>121</startpagename>
+      <endpagename>151</endpagename>
+    </part>
+  </part>
+  <part>
+    <titleid>Kap07</titleid>
+    <title>II. BACKARNA</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>153</startpagename>
+    <endpagename>287</endpagename>
+    <part>
+      <titleid>Kap08</titleid>
+      <title>Apostelns äfventyr</title>
+      <navshow>true</navshow>
+      <listshow>none</listshow>
+      <texttype>kapitel</texttype>
+      <startpagename>159</startpagename>
+      <endpagename>191</endpagename>
+    </part>
+    <part>
+      <titleid>Kap09</titleid>
+      <title>Herr Vickberg och galne Johnsson</title>
+      <navshow>true</navshow>
+      <listshow>none</listshow>
+      <texttype>kapitel</texttype>
+      <startpagename>192</startpagename>
+      <endpagename>201</endpagename>
+    </part>
+    <part>
+      <titleid>Kap10</titleid>
+      <title>Abraham odlar jorden. Det brinner i staden. Och Gusten tillverkar ett alibi</title>
+      <navshow>true</navshow>
+      <listshow>none</listshow>
+      <texttype>kapitel</texttype>
+      <startpagename>202</startpagename>
+      <endpagename>216</endpagename>
+    </part>
+    <part>
+      <titleid>Kap11</titleid>
+      <title>Apostelns femte äfventyr</title>
+      <navshow>true</navshow>
+      <listshow>none</listshow>
+      <texttype>kapitel</texttype>
+      <startpagename>217</startpagename>
+      <endpagename>234</endpagename>
+    </part>
+    <part>
+      <titleid>Kap12</titleid>
+      <title>Julius Krok utstår många vedervärdigheter och växer några tum</title>
+      <navshow>true</navshow>
+      <listshow>none</listshow>
+      <texttype>kapitel</texttype>
+      <startpagename>235</startpagename>
+      <endpagename>273</endpagename>
+    </part>
+    <part>
+      <titleid>Kap13</titleid>
+      <title>Julius Krok blir millionär och växer ytterligare några tum</title>
+      <navshow>true</navshow>
+      <listshow>none</listshow>
+      <texttype>kapitel</texttype>
+      <startpagename>274</startpagename>
+      <endpagename>287</endpagename>
+    </part>
+  </part>
+  <part>
+    <titleid>Kap14</titleid>
+    <title>III. STRIDEN OM BLEKÄNGEN</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>289</startpagename>
+    <endpagename>416</endpagename>
+    <part>
+      <titleid>Kap31</titleid>
+      <title>1.</title>
+      <navshow>true</navshow>
+      <listshow>none</listshow>
+      <texttype>kapitel</texttype>
+      <startpagename>291</startpagename>
+      <endpagename>311</endpagename>
+    </part>
+    <part>
+      <titleid>Kap32</titleid>
+      <title>2.</title>
+      <navshow>true</navshow>
+      <listshow>none</listshow>
+      <texttype>kapitel</texttype>
+      <startpagename>312</startpagename>
+      <endpagename>331</endpagename>
+    </part>
+    <part>
+      <titleid>Kap33</titleid>
+      <title>3.</title>
+      <navshow>true</navshow>
+      <listshow>none</listshow>
+      <texttype>kapitel</texttype>
+      <startpagename>332</startpagename>
+      <endpagename>357</endpagename>
+    </part>
+    <part>
+      <titleid>Kap34</titleid>
+      <title>4.</title>
+      <navshow>true</navshow>
+      <listshow>none</listshow>
+      <texttype>kapitel</texttype>
+      <startpagename>358</startpagename>
+      <endpagename>370</endpagename>
+    </part>
+    <part>
+      <titleid>Kap35</titleid>
+      <title>5.</title>
+      <navshow>true</navshow>
+      <listshow>none</listshow>
+      <texttype>kapitel</texttype>
+      <startpagename>371</startpagename>
+      <endpagename>392</endpagename>
+    </part>
+    <part>
+      <titleid>Kap36</titleid>
+      <title>6.</title>
+      <navshow>true</navshow>
+      <listshow>none</listshow>
+      <texttype>kapitel</texttype>
+      <startpagename>393</startpagename>
+      <endpagename>403</endpagename>
+    </part>
+    <part>
+      <titleid>Kap37</titleid>
+      <title>7.</title>
+      <navshow>true</navshow>
+      <listshow>none</listshow>
+      <texttype>kapitel</texttype>
+      <startpagename>404</startpagename>
+      <endpagename>416</endpagename>
+    </part>
+  </part>
+</LBwork>

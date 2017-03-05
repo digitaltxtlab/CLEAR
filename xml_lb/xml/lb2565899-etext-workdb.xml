@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- $Id: lb2565899-etext-workdb.xml 115689 2015-04-28 05:56:42Z litdc $ -->
+
+<LBwork version="1.2.2">
+   <lbworkid>lb2565899</lbworkid>
+   <librisid>2565899</librisid>
+   <mediatype>etext</mediatype> 
+   <authorid>BjörlingG</authorid>
+   <titleid>DetOomvändaAnletet</titleid>
+   <title>Det oomvända anletet</title>
+   <shorttitle>Det oomvända anletet</shorttitle>
+   <sortkey>Det Oomv</sortkey>
+<texttype>diktsamling</texttype>
+<!-- <keyword></keyword> -->
+<!-- <authorkeyword></authorkeyword> -->
+<!-- <picture></picture> -->
+<!-- <pictureinfo></pictureinfo> -->
+      
+<provenance>
+    <signum>Litt. Sv.</signum>
+    <library>GUB</library>
+</provenance>
+<provenance>
+    <library>SLS</library>
+</provenance>
+<!-- <workintro></workintro> -->
+      <startpagename>3</startpagename>
+      <endpagename>94</endpagename>
+   <sourcedesc>Söderström &amp; C:o förlagsaktiebolag, Helsingfors 1939. 
+
+   <errata>
+   <table> 
+   <tr><td>82</td><td>men om oinskänkt uppodlas     –     men om oinskränkt uppodlas</td></tr>
+   </table>
+   </errata>
+
+   </sourcedesc>
+
+  <imported>2015-04-22</imported>
+  <work-updated>2015-04-22</work-updated>
+  <workdb-updated>2014-04-22</workdb-updated>
+  <show>true</show>
+  <publisher>
+    <name>Söderström &amp; C:o förlagsaktiebolag</name>
+    <place>Helsingfors</place>
+    <country>FI</country>
+  </publisher>
+  <imprintyear>1939</imprintyear>
+  <edition>1</edition>
+  <language>swe</language>
+  <searchable>true</searchable>
+  <proofread>true</proofread>
+  <fraktur>false</fraktur>
+  <printed>true</printed>
+  <modernized>false</modernized>
+  <license>lb-2-20120306</license>
+  <epub>
+    <license>lb-2-20120306</license>
+  </epub>
+
+
+
+
+
+<part>
+<titleid>DelI</titleid>
+<title>I</title>
+<navshow>true</navshow>
+<listshow>none</listshow>
+<texttype>del</texttype>
+<startpagename>5</startpagename>
+<endpagename>24</endpagename>
+</part>
+
+<part>
+<titleid>DelII</titleid>
+<title>II</title>
+<navshow>true</navshow>
+<listshow>none</listshow>
+<texttype>del</texttype>
+<startpagename>25</startpagename>
+<endpagename>38</endpagename>
+</part>
+
+<part>
+<titleid>DelIII</titleid>
+<title>III</title>
+<navshow>true</navshow>
+<listshow>none</listshow>
+<texttype>del</texttype>
+<startpagename>39</startpagename>
+<endpagename>58</endpagename>
+</part>
+
+<part>
+<titleid>DelIV</titleid>
+<title>IV</title>
+<navshow>true</navshow>
+<listshow>none</listshow>
+<texttype>del</texttype>
+<startpagename>59</startpagename>
+<endpagename>78</endpagename>
+</part>
+
+<part>
+<titleid>DelV</titleid>
+<title>V</title>
+<navshow>true</navshow>
+<listshow>none</listshow>
+<texttype>del</texttype>
+<startpagename>79</startpagename>
+<endpagename>94</endpagename>
+</part>
+
+</LBwork>

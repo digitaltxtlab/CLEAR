@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- $Id: lb1335979-etext-workdb.xml 236129 2016-03-16 14:25:38Z slaca $ -->
+<LBwork version="1.2.2">
+  <lbworkid>lb1335979</lbworkid>
+  <librisid>1335979</librisid>
+  <mediatype>etext</mediatype>
+  <authorid>SöderbergH</authorid>
+  <titleid>ResanTillRom</titleid>
+  <title>Resan till Rom. Noveller</title>
+  <shorttitle>Resan till Rom</shorttitle>
+  <sortkey>Resan till Rom</sortkey>
+  <provenance>
+    <signum>Litt. Sv.</signum>
+    <library>GUB</library>
+  </provenance>
+  <startpagename>3</startpagename>
+  <endpagename>249</endpagename>
+  <sourcedesc>Albert Bonniers förlag, Stockholm 1929.
+
+   <errata><table><tr><td>21</td><td>Om jag åtminminstone – Om jag åtminstone    fel i samband med radbrytning</td></tr><tr><td>123</td><td>Däremot har den luterska missionen – Däremot har den lutherska missionen</td></tr></table></errata>
+
+
+
+   </sourcedesc>
+  <imported>2012-01-18</imported>
+  <work-updated>2012-04-05</work-updated>
+  <workdb-updated>2016-03-16</workdb-updated>
+  <show>true</show>
+  <publisher>
+    <name>Albert Bonniers förlag</name>
+    <place>Stockholm</place>
+    <country>SE</country>
+  </publisher>
+  <imprintyear>1929</imprintyear>
+  <edition>1</edition>
+  <language>swe</language>
+  <searchable>true</searchable>
+  <proofread>true</proofread>
+   <fraktur>false</fraktur>
+  <printed>true</printed>
+  <modernized>false</modernized>
+  <license>cc-by-nc-sa</license>
+ <epub>
+    <license>cc-by-nc-sa</license>
+  </epub>
+  <part>
+    <titleid>ResanTillRomNovell</titleid>
+    <title>Resan till Rom [novell]</title>
+    <navtitle>Resan till Rom</navtitle>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>novell</texttype>
+    <startpagename>5</startpagename>
+    <endpagename>68</endpagename>
+  </part>
+  <part>
+    <titleid>Aprilviolerna</titleid>
+    <title>Aprilviolerna</title>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>novell</texttype>
+    <startpagename>69</startpagename>
+    <endpagename>113</endpagename>
+  </part>
+  <part>
+    <titleid>SkaldenJubalak</titleid>
+    <title>Skalden Jubalak</title>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>novell</texttype>
+    <startpagename>115</startpagename>
+    <endpagename>146</endpagename>
+  </part>
+  <part>
+    <titleid>Misstagssonaten</titleid>
+    <title>Misstagssonaten</title>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>novell</texttype>
+    <startpagename>147</startpagename>
+    <endpagename>170</endpagename>
+  </part>
+  <part>
+    <titleid>Åge</titleid>
+    <title>Åge</title>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>novell</texttype>
+    <startpagename>171</startpagename>
+    <endpagename>190</endpagename>
+  </part>
+  <part>
+    <titleid>SåSantMigGudHjälpe</titleid>
+    <title>Så sant mig Gud hjälpe…</title>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>novell</texttype>
+    <startpagename>191</startpagename>
+    <endpagename>202</endpagename>
+  </part>
+  <part>
+    <titleid>Paraplyn</titleid>
+    <title>Paraplyn</title>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>novell</texttype>
+    <startpagename>203</startpagename>
+    <endpagename>218</endpagename>
+  </part>
+  <part>
+    <titleid>EnOkändSoldat</titleid>
+    <title>En okänd soldat</title>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>novell</texttype>
+    <startpagename>219</startpagename>
+    <endpagename>236</endpagename>
+  </part>
+  <part>
+    <titleid>Kyrkogårdsarabesk</titleid>
+    <title>Kyrkogårdsarabesk</title>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>novell</texttype>
+    <startpagename>237</startpagename>
+    <endpagename>248</endpagename>
+  </part>
+  <part>
+    <titleid>Innehåll</titleid>
+    <title>Innehåll</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>innehållsförteckning</texttype>
+    <startpagename>249</startpagename>
+    <endpagename>249</endpagename>
+  </part>
+</LBwork>

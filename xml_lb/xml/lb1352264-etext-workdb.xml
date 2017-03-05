@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- $Id: lb1352264-etext-workdb.xml 123328 2015-12-12 08:11:21Z slaca $ -->
+<LBwork version="1.2.2">
+  <lbworkid>lb1352264</lbworkid>
+  <librisid>1352264</librisid>
+  <mediatype>etext</mediatype>
+  <authorid>BoyeK</authorid>
+  <titleid>MeritVaknar</titleid>
+  <title>Merit vaknar</title>
+  <provenance>
+    <signum>Litt. Sv.</signum>
+    <library>GUB</library>
+  </provenance>
+  <startpagename>3</startpagename>
+  <endpagename>169</endpagename>
+  <sourcedesc>Stockholm. Albert Bonniers förlag. 1933
+
+   <errata>
+   </errata>
+
+   </sourcedesc>
+  <imported>2012-01-19</imported>
+  <work-updated>2012-04-05</work-updated>
+  <workdb-updated>2015-12-12</workdb-updated>
+  <show>true</show>
+  <publisher>
+    <name>Albert Bonniers förlag</name>
+    <place>Stockholm</place>
+    <country>SE</country>
+  </publisher>
+  <imprintyear>1933</imprintyear>
+  <edition>1</edition>
+  <language>swe</language>
+  <searchable>true</searchable>
+  <proofread>true</proofread>
+  <fraktur>false</fraktur>
+  <printed>true</printed>
+  <modernized>false</modernized>
+  <license>cc-by-nc-sa</license>
+  <epub>
+    <license>cc-by-nc-sa</license>
+  </epub>
+  <part>
+    <titleid>DenVärldenSomVårHerre</titleid>
+    <title>[Den världen som Vår Herre skapar …]</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>5</startpagename>
+    <endpagename>17</endpagename>
+  </part>
+  <part>
+    <titleid>IAllaFallBlevDet</titleid>
+    <title>[I alla fall blev det en orolig kväll …]</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>18</startpagename>
+    <endpagename>29</endpagename>
+  </part>
+  <part>
+    <titleid>DetVarLängeSedanMeritHade</titleid>
+    <title>[Det var länge sedan Merit hade …]</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>30</startpagename>
+    <endpagename>38</endpagename>
+  </part>
+  <part>
+    <titleid>NästaMorgonVaknadeMerit</titleid>
+    <title>[Nästa morgon vaknade Merit …]</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>39</startpagename>
+    <endpagename>49</endpagename>
+  </part>
+  <part>
+    <titleid>MeritsHemligaHopp</titleid>
+    <title>[Merits hemliga hopp …]</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>50</startpagename>
+    <endpagename>55</endpagename>
+  </part>
+  <part>
+    <titleid>EnVeckaSenare</titleid>
+    <title>[En vecka senare …]</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>56</startpagename>
+    <endpagename>69</endpagename>
+  </part>
+  <part>
+    <titleid>NumeraSneddadeMerit</titleid>
+    <title>[Numera sneddade Merit …]</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>70</startpagename>
+    <endpagename>91</endpagename>
+  </part>
+  <part>
+    <titleid>VäggenOvanförSkrivbordet</titleid>
+    <title>[Väggen ovanför skrivbordet …]</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>92</startpagename>
+    <endpagename>113</endpagename>
+  </part>
+  <part>
+    <titleid>ÖverMeritsGång</titleid>
+    <title>[Över Merits gång …]</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>114</startpagename>
+    <endpagename>122</endpagename>
+  </part>
+  <part>
+    <titleid>DagenDärpåGickMerit</titleid>
+    <title>[Dagen därpå gick Merit …]</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>123</startpagename>
+    <endpagename>131</endpagename>
+  </part>
+  <part>
+    <titleid>FörFörstaGången</titleid>
+    <title>[För första gången …]</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>132</startpagename>
+    <endpagename>142</endpagename>
+  </part>
+  <part>
+    <titleid>HanFannsDärJuInte</titleid>
+    <title>[Han fanns där ju inte.]</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>143</startpagename>
+    <endpagename>150</endpagename>
+  </part>
+  <part>
+    <titleid>DubrovnikSeptember</titleid>
+    <title>[Dubrovnik, september]</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>151</startpagename>
+    <endpagename>158</endpagename>
+  </part>
+  <part>
+    <titleid>NärHonStegUt</titleid>
+    <title>[När hon steg ut …]</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>159</startpagename>
+    <endpagename>169</endpagename>
+  </part>
+</LBwork>

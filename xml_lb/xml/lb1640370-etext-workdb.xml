@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- $Id: lb1640370-etext-workdb.xml 123329 2015-12-12 08:18:11Z slaca $ -->
+<LBwork version="1.2.2">
+  <lbworkid>lb1640370</lbworkid>
+  <librisid>1640370</librisid>
+  <mediatype>etext</mediatype>
+  <authorid>SöderbergH</authorid>
+  <titleid>DenTalangfulla</titleid>
+  <title>Den talangfulla draken. Historier</title>
+  <shorttitle>Den talangfulla draken</shorttitle>
+  <sortkey>Den talangfulla draken</sortkey>
+<texttype>novellsamling</texttype>
+  <provenance>
+    <signum>Litt. Sv.</signum>
+    <library>GUB</library>
+  </provenance>
+  <startpagename>3</startpagename>
+  <endpagename>235</endpagename>
+  <sourcedesc>Albert Bonniers förlag, Stockholm 1913.
+
+   <errata><table><tr><td>58</td><td>rättat sitt skinn – räddat sitt skinn</td></tr><tr><td>201</td><td>inte inte precis – inte precis</td></tr><tr><td>221</td><td>DOKTORN – DOKTORN.</td></tr><tr><td>235</td><td>4 – 5</td></tr></table></errata>
+
+
+
+
+   </sourcedesc>
+  <imported>2012-01-16</imported>
+  <work-updated>2012-04-05</work-updated>
+  <workdb-updated>2015-12-12</workdb-updated>
+  <show>true</show>
+  <publisher>
+    <name>Albert Bonniers förlag</name>
+    <place>Stockholm</place>
+    <country>SE</country>
+  </publisher>
+  <imprintyear>1913</imprintyear>
+  <edition>1</edition>
+  <language>swe</language>
+  <searchable>true</searchable>
+  <proofread>true</proofread>
+   <fraktur>false</fraktur>
+  <printed>true</printed>
+  <modernized>false</modernized>
+  <license>cc-by-nc-sa</license>
+ <epub>
+    <license>cc-by-nc-sa</license>
+  </epub>
+  <part>
+    <titleid>DenTalangfullaDraken</titleid>
+    <title>Den talangfulla draken</title>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>novell</texttype>
+    <startpagename>5</startpagename>
+    <endpagename>36</endpagename>
+  </part>
+  <part>
+    <titleid>EnGråVästEllerRättvisanIM</titleid>
+    <title>En grå väst eller Rättvisan i München</title>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>novell</texttype>
+    <startpagename>37</startpagename>
+    <endpagename>51</endpagename>
+  </part>
+  <part>
+    <titleid>HvemÄrJag</titleid>
+    <title>Hvem är jag?</title>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>novell</texttype>
+    <startpagename>53</startpagename>
+    <endpagename>72</endpagename>
+  </part>
+  <part>
+    <titleid>Svipdagarna</titleid>
+    <title>Svipdagarna</title>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>novell</texttype>
+    <startpagename>73</startpagename>
+    <endpagename>83</endpagename>
+  </part>
+  <part>
+    <titleid>FilosofenFrånKyrene</titleid>
+    <title>Filosofen från Kyrene</title>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>novell</texttype>
+    <startpagename>85</startpagename>
+    <endpagename>97</endpagename>
+  </part>
+  <part>
+    <titleid>Cherebert</titleid>
+    <title>Cherebert</title>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>novell</texttype>
+    <startpagename>99</startpagename>
+    <endpagename>108</endpagename>
+  </part>
+  <part>
+    <titleid>Barnföreställning</titleid>
+    <title>Barnföreställning</title>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>novell</texttype>
+    <startpagename>109</startpagename>
+    <endpagename>117</endpagename>
+  </part>
+  <part>
+    <titleid>HalfRakning</titleid>
+    <title>Half rakning</title>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>novell</texttype>
+    <startpagename>119</startpagename>
+    <endpagename>127</endpagename>
+  </part>
+  <part>
+    <titleid>EnSommarsaga</titleid>
+    <title>En sommarsaga</title>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>novell</texttype>
+    <startpagename>129</startpagename>
+    <endpagename>137</endpagename>
+  </part>
+  <part>
+    <titleid>GeneralkonsulnsFBåtsmidda</titleid>
+    <title>Generalkonsulns f-båtsmiddag</title>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>novell</texttype>
+    <startpagename>139</startpagename>
+    <endpagename>156</endpagename>
+  </part>
+  <part>
+    <titleid>KristianOchFredrik</titleid>
+    <title>Kristian och Fredrik</title>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>novell</texttype>
+    <startpagename>157</startpagename>
+    <endpagename>165</endpagename>
+  </part>
+  <part>
+    <titleid>Aftonstjärnan1913</titleid>
+    <title>Aftonstjärnan [1913]</title>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>drama</texttype>
+    <startpagename>167</startpagename>
+    <endpagename>222</endpagename>
+  </part>
+  <part>
+    <titleid>EgyptensPräster</titleid>
+    <title>Egyptens präster</title>
+    <navshow>true</navshow>
+    <listshow>some</listshow>
+    <texttype>novell</texttype>
+    <startpagename>223</startpagename>
+    <endpagename>233</endpagename>
+  </part>
+  <part>
+    <titleid>Innehåll</titleid>
+    <title>Innehåll</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>innehållsförteckning</texttype>
+    <startpagename>235</startpagename>
+    <endpagename>235</endpagename>
+  </part>
+</LBwork>

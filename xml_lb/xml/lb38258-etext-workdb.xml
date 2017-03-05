@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- $Id: lb38258-etext-workdb.xml 123343 2015-12-12 12:00:09Z slaca $ -->
+<LBwork version="1.2.2">
+  <lbworkid>lb38258</lbworkid>
+  <librisid>38258</librisid>
+  <mediatype>etext</mediatype>
+  <authorid>SjöbergB</authorid>
+  <titleid>KvartettenSomFörra</titleid>
+  <title>Kvartetten, som sprängdes. Förra delen</title>
+  <shorttitle>Kvartetten, som sprängdes I</shorttitle>
+  <sortkey>Kvartetten, som 1</sortkey>
+<texttype>roman</texttype>
+
+  <provenance>
+    <!-- <signum></signum>  -->
+    <library>Litteraturbanken</library>
+  </provenance>
+
+  <startpagename>3</startpagename>
+  <endpagename>371</endpagename>
+  <sourcedesc>Albert Bonniers förlag, Stockholm 1924. Tionde upplagan
+
+   <errata><table><tr><td>63</td><td>så att vi kan gifta oss. – så att vi kan gifta oss.”</td></tr><tr><td>80</td><td>unga Åvik – unge Åvik</td></tr><tr><td>94</td><td>ett vacker erbjudande – ett vackert erbjudande</td></tr><tr><td>135</td><td>en ny diktsamling – en ny diktsamling,</td></tr><tr><td>156</td><td>mot damerna – – –     –     mot damerna – – –”</td></tr><tr><td>277</td><td>; Därborta – ; därborta</td></tr></table></errata>
+
+</sourcedesc>
+  <imported>2007-09-18</imported>
+  <work-updated>2013-02-20</work-updated>
+  <workdb-updated>2015-12-12</workdb-updated>
+  <show>true</show>
+  <publisher>
+    <name>Albert Bonniers förlag</name>
+    <place>Stockholm</place>
+    <country>SE</country>
+  </publisher>
+  <imprintyear>1924</imprintyear>
+  <edition>10</edition>
+  <language>swe</language>
+  <searchable>true</searchable>
+  <proofread>true</proofread>
+  <fraktur>false</fraktur>
+  <printed>true</printed>
+  <modernized>false</modernized>
+  <license>cc-by-nc-sa</license>
+  <epub>
+    <license>cc-by-nc-sa</license>
+  </epub>
+  <part>
+    <titleid>AsträngenSpringer</titleid>
+    <title>1. A-strängen springer – ett dåligt förebud</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>5</startpagename>
+    <endpagename>15</endpagename>
+  </part>
+  <part>
+    <titleid>KarlLudvigs</titleid>
+    <title>2. Karl Ludvigs tre förhinder</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>16</startpagename>
+    <endpagename>25</endpagename>
+  </part>
+  <part>
+    <titleid>KvartettenOch</titleid>
+    <title>3. Kvartetten och Triangeln</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>26</startpagename>
+    <endpagename>35</endpagename>
+  </part>
+  <part>
+    <titleid>FyraMusketörer</titleid>
+    <title>4. Fyra musketörer i livsfara</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>36</startpagename>
+    <endpagename>46</endpagename>
+  </part>
+  <part>
+    <titleid>FattigPåMynt</titleid>
+    <title>5. Fattig på mynt, piastrar och riksdaleros, men rik på kärlek</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>47</startpagename>
+    <endpagename>57</endpagename>
+  </part>
+  <part>
+    <titleid>Nordqvists</titleid>
+    <title>6. Nordqvists sorgmarsch</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>58</startpagename>
+    <endpagename>68</endpagename>
+  </part>
+  <part>
+    <titleid>Backlund</titleid>
+    <title>7. Backlund och Stoltz</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>69</startpagename>
+    <endpagename>77</endpagename>
+  </part>
+  <part>
+    <titleid>FrånFamiljen</titleid>
+    <title>8. Från familjen Åviks hus, där en främling ropar i porten</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>78</startpagename>
+    <endpagename>92</endpagename>
+  </part>
+  <part>
+    <titleid>Pastorn</titleid>
+    <title>9. Pastorn</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>93</startpagename>
+    <endpagename>103</endpagename>
+  </part>
+  <part>
+    <titleid>FörstaFiolen</titleid>
+    <title>10. Första fiolen skänker Electrical girl ett kärleksbläckhorn med tuppfjäder och står slutligen som segrare</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>104</startpagename>
+    <endpagename>114</endpagename>
+  </part>
+  <part>
+    <titleid>Feberdrömmar</titleid>
+    <title>11. Feberdrömmar</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>115</startpagename>
+    <endpagename>126</endpagename>
+  </part>
+  <part>
+    <titleid>SvanPåLugntVatten</titleid>
+    <title>12. »Svan på lugnt vatten», oljemålning av Eugen A:son Renard</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>127</startpagename>
+    <endpagename>138</endpagename>
+  </part>
+  <part>
+    <titleid>Pensionatet</titleid>
+    <title>13. Pensionatet Koludden</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>139</startpagename>
+    <endpagename>149</endpagename>
+  </part>
+  <part>
+    <titleid>Pensionatskurken</titleid>
+    <title>14. Pensionatskurken</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>150</startpagename>
+    <endpagename>162</endpagename>
+  </part>
+  <part>
+    <titleid>Fiskafänget</titleid>
+    <title>15. Fiskafänget</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>163</startpagename>
+    <endpagename>173</endpagename>
+  </part>
+  <part>
+    <titleid>TantKlara</titleid>
+    <title>16. Tant Klara</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>174</startpagename>
+    <endpagename>187</endpagename>
+  </part>
+  <part>
+    <titleid>IngenjörPlanertz</titleid>
+    <title>17. Ingenjör Planerts’ karlatag och de rödvita bolstervarsbyxorna</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>188</startpagename>
+    <endpagename>196</endpagename>
+  </part>
+  <part>
+    <titleid>DartagnanUtrustar</titleid>
+    <title>18. D’Artagnan utrustar en expedition för att rädda Edmund från matematikläraren</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>197</startpagename>
+    <endpagename>204</endpagename>
+  </part>
+  <part>
+    <titleid>EnFlaggaPå</titleid>
+    <title>19. En flagga på halv stång och en ödesdiger badning</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>205</startpagename>
+    <endpagename>212</endpagename>
+  </part>
+  <part>
+    <titleid>FarISkåpet</titleid>
+    <title>20. Far i Skåpet</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>213</startpagename>
+    <endpagename>223</endpagename>
+  </part>
+  <part>
+    <titleid>SvartMässa</titleid>
+    <title>21. Svart mässa</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>224</startpagename>
+    <endpagename>232</endpagename>
+  </part>
+  <part>
+    <titleid>HälsningFrån</titleid>
+    <title>22. Hälsning från Pensionatskurken och ett möte med en sorgklädd fröken</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>233</startpagename>
+    <endpagename>245</endpagename>
+  </part>
+  <part>
+    <titleid>BlandHögaHattar</titleid>
+    <title>23. Bland höga hattar och svarta flor smög en amorin</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>246</startpagename>
+    <endpagename>256</endpagename>
+  </part>
+  <part>
+    <titleid>Illusionistens</titleid>
+    <title>24. Illusionistens sista nummer</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>257</startpagename>
+    <endpagename>266</endpagename>
+  </part>
+  <part>
+    <titleid>Sorgen</titleid>
+    <title>25. Sorgen</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>267</startpagename>
+    <endpagename>272</endpagename>
+  </part>
+  <part>
+    <titleid>TreLättsinniga</titleid>
+    <title>26. Tre lättsinniga barns vandring till skolan</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>273</startpagename>
+    <endpagename>282</endpagename>
+  </part>
+  <part>
+    <titleid>Timglaset</titleid>
+    <title>27. Timglaset leker med sin son</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>283</startpagename>
+    <endpagename>292</endpagename>
+  </part>
+  <part>
+    <titleid>KarlLudvigDrager</titleid>
+    <title>28. Karl Ludvig drager ut för att söka tacksamma hjärtan, men finner endast delikatesser</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>293</startpagename>
+    <endpagename>307</endpagename>
+  </part>
+  <part>
+    <titleid>TreSätt</titleid>
+    <title>29. Tre sätt att söva sig själv och ett sätt att njuta lantlivets lycka</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>308</startpagename>
+    <endpagename>318</endpagename>
+  </part>
+  <part>
+    <titleid>GörDetDuIcke</titleid>
+    <title>30. »Gör det du icke kan … »</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>319</startpagename>
+    <endpagename>324</endpagename>
+  </part>
+  <part>
+    <titleid>FörstaFiolenHar</titleid>
+    <title>31. Första fiolen har svårt för att vakna, men blir slutligen väckt</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>325</startpagename>
+    <endpagename>336</endpagename>
+  </part>
+  <part>
+    <titleid>Casanovas</titleid>
+    <title>32. Casanovas rendezvous med högvälborna fröken S. av B.</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>337</startpagename>
+    <endpagename>349</endpagename>
+  </part>
+  <part>
+    <titleid>JungfrunIDet</titleid>
+    <title>33. Jungfrun i det gröna</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>350</startpagename>
+    <endpagename>358</endpagename>
+  </part>
+  <part>
+    <titleid>EnLivsduglig</titleid>
+    <title>34. En livsduglig potatis</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>359</startpagename>
+    <endpagename>370</endpagename>
+  </part>
+  <part>
+    <titleid>Innehåll</titleid>
+    <title>Innehåll</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>innehållsförteckning</texttype>
+    <startpagename>371</startpagename>
+    <endpagename>372</endpagename>
+  </part>
+</LBwork>

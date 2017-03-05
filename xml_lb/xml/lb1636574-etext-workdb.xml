@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- $Id: lb1636574-etext-workdb.xml 113635 2015-03-18 15:32:49Z martin $ -->
+<LBwork version="1.2.2">
+  <lbworkid>lb1636574</lbworkid>
+  <librisid>1636574</librisid>
+  <mediatype>etext</mediatype>
+  <authorid>LundegårdA</authorid>
+  <titleid>DenStoraDagen</titleid>
+  <title>Den stora dagen</title>
+  <shorttitle>Den stora dagen</shorttitle>
+  <sortkey>Den stora dagen</sortkey>
+  <provenance>
+    <signum>Litt. Sv.</signum>
+    <library>GUB</library>
+  </provenance>
+  <startpagename>3</startpagename>
+  <endpagename>228</endpagename>
+  <sourcedesc>Albert Bonniers förlag, Stockholm 1911.
+
+
+
+   </sourcedesc>
+  <imported>2012-05-23</imported>
+  <work-updated>2012-05-23</work-updated>
+  <workdb-updated>2014-02-10</workdb-updated>
+  <show>true</show>
+  <publisher>
+    <name>Albert Bonniers förlag</name>
+    <place>Stockholm</place>
+    <country>SE</country>
+  </publisher>
+  <imprintyear>1911</imprintyear>
+  <edition></edition>
+  <language>swe</language>
+  <searchable>true</searchable>
+  <proofread>true</proofread>
+  <fraktur>false</fraktur>
+  <printed>true</printed>
+  <modernized>false</modernized>
+  <license>cc-by-nc-sa</license>
+  <epub>
+    <license>cc-by-nc-sa</license>
+  </epub>
+  <part>
+    <titleid>HvadGamleEliasLästeTänkte</titleid>
+    <title>Hvad Gamle Elias läste, tänkte och såg på Doggersbank, natten före den stora dagen</title>
+    <navtitle>1. Hvad Gamle Elias läste, tänkte och såg på Doggersbank, natten före den stora dagen</navtitle>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>5</startpagename>
+    <endpagename>31</endpagename>
+  </part>
+  <part>
+    <titleid>HufvudsakligenHvadGulaGaz</titleid>
+    <title>Hufvudsakligen hvad Gula Gazetten i London delgaf sina läsare samma natt om och i anledning af Trollsländans affärd från Hornsey</title>
+    <navtitle>2. Hufvudsakligen hvad Gula Gazetten i London delgaf sina läsare samma natt om och i anledning af Trollsländans affärd från Hornsey</navtitle>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>32</startpagename>
+    <endpagename>58</endpagename>
+  </part>
+  <part>
+    <titleid>NågotLitetAfHvadDeTvåUnga</titleid>
+    <title>Något litet af hvad de två unga kände, tänkte och sågo under sin åttatimmarsfärd genom luften öfver Nordsjön</title>
+    <navtitle>3. Något litet af hvad de två unga kände, tänkte och sågo under sin åttatimmarsfärd genom luften öfver Nordsjön</navtitle>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>59</startpagename>
+    <endpagename>80</endpagename>
+  </part>
+  <part>
+    <titleid>HurDenStoreMannenOchDenLi</titleid>
+    <title>Hur den store mannen och den lilla kvinnan vaknade i stora koffen på Valaskjalf tidigt den stora dagen; hur skalden såg den främmande fågeln; hur Lohmander kom att uppbåda herremakten i Flundrestrand och något litet af hvad senare hände</title>
+    <navtitle>4. Hur den store mannen och den lilla kvinnan vaknade i stora koffen på Valaskjalf tidigt den stora dagen; hur skalden såg den främmande fågeln; hur Lohmander kom att uppbåda herremakten i Flundrestrand och något litet af hvad senare hände</navtitle>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>81</startpagename>
+    <endpagename>107</endpagename>
+  </part>
+  <part>
+    <titleid>NågotOmVärldsberömdhetOch</titleid>
+    <title>Något om världsberömdhet och flugor och en ångerfull faders bref</title>
+    <navtitle>5. Något om världsberömdhet och flugor och en ångerfull faders bref</navtitle>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>108</startpagename>
+    <endpagename>118</endpagename>
+  </part>
+  <part>
+    <titleid>OmDenStoraDagensStoraMidd</titleid>
+    <title>Om den stora dagens stora middag, och det stora barnets skiftande stämningar, jämte prof på olika slag af vältalighet</title>
+    <navtitle>6. Om den stora dagens stora middag, och det stora barnets skiftande stämningar, jämte prof på olika slag af vältalighet</navtitle>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>119</startpagename>
+    <endpagename>161</endpagename>
+  </part>
+  <part>
+    <titleid>HurDeUngaInfördesIAndensV</titleid>
+    <title>Hur de unga infördes i Andens värld, och hvad de där sågo och hörde</title>
+    <navtitle>7. Hur de unga infördes i Andens värld, och hvad de där sågo och hörde</navtitle>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>162</startpagename>
+    <endpagename>175</endpagename>
+  </part>
+  <part>
+    <titleid>GunnarGripsTestamente</titleid>
+    <title>Gunnar Grips testamente</title>
+    <navtitle>8. Gunnar Grips testamente</navtitle>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>176</startpagename>
+    <endpagename>205</endpagename>
+  </part>
+  <part>
+    <titleid>Slutet</titleid>
+    <title>Slutet</title>
+    <navtitle>9. Slutet</navtitle>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>206</startpagename>
+    <endpagename>226</endpagename>
+  </part>
+  <part>
+    <titleid>Innehåll</titleid>
+    <title>Innehåll</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>innehållsförteckning</texttype>
+    <startpagename>227</startpagename>
+    <endpagename>228</endpagename>
+  </part>
+</LBwork>

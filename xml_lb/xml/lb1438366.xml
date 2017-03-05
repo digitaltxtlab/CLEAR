@@ -1,0 +1,3856 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="littbank_KORRPRINT.css" ?>
+<!-- $Id: lb1438366.xml 123307 2015-12-11 08:58:01Z slaca $ -->
+<!-- finns som epub -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:lb="http://litteraturbanken.se/ns/nonTEI" xmlns:its="http://www.w3.org/2005/11/its">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text xml:id="lb1438366">
+<front>
+
+
+<div1 rend="center" type="titelsida">
+<pb n="1"/>
+<div2 type="titleAuthorBlock">
+<p rend="author">DAN ANDERSSON</p>
+<p><lb:separator content="‗" count="13"/></p>
+<lb/>
+<lb/>
+<p rend="big title">DET KALLAS
+<lb/>VIDSKEPELSE</p>
+</div2>
+<lb/>
+<lb/>
+<div2 type="pubBlock">
+<p rend="publisher">TIDENS FÖRLAG</p>
+<p rend="publisherPlace">STOCKHOLM</p>
+</div2>
+</div1>
+
+<div1 type="tryckortssida" rend="small center">
+<pb n="2"/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<p rend="imprintPlace">STOCKHOLM 1916.</p>
+<p rend="imprinter">Stockholms Bokindustri A.-B:s Boktr.</p>
+</div1>
+</front>
+    <body>
+<pb n="3"/>
+<div1>
+<div2 type="poem" xml:id="Kap01">
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<head rend="b center chaptername">Företal.</head>
+<lb/>
+<p rend="center"><lb:separator content="_" count="4"/></p>
+<lb/>
+<lg><lg><l>Jag ska hälsa från Laolands uggla,</l>
+<l>som åldras i granklädd vrå.</l>
+<l>Hennes hundraårsgamla ögon</l>
+<l>se grönt mot himmelen blå.</l>
+<l>Hon minns alla ben som vitnat,</l>
+<l>där räven sitt nattmål fått<choice><sic>,</sic><corr resp="litlolo">.</corr></choice></l>
+<l>Hon har hört alla hesa skators skratt,</l>
+<l>under alla år som gått.</l></lg>
+<lb/>
+<lg><l>Hon har jagat i fredlösa nätter,</l>
+<l>över gråberg och becksvart sjö,</l>
+<l>och lyssnat till mjuka fötter,</l>
+<l>som tassat i blodig snö.</l>
+<l>Hennes minne kan aldrig blekna,</l>
+<l>hennes visdom är djup och tung,</l>
+<l>och nu drömmer hon slött när jakten</l>
+<l>går hett över frasande ljung.</l></lg>
+<pb n="4"/>
+<lg><l>Hon minns det viskande mörkret,</l>
+<l>kring byn som var obygd förr,</l>
+<l>där hon väntat i dystra nätter,</l>
+<l>framför döende skogsmäns dörr.</l>
+<l>Hon har flyktat till Laolands hålor,</l>
+<l>där ingen den gamla ser,</l>
+<l>och boksynt folk i byarna,</l>
+<l>de tro att hon finns ej mer.</l></lg>
+<lb/>
+<lg><l>Hon tror att folk blivit dummare,</l>
+<l>av allt de hört och läst,</l>
+<l>att upplysningsfödan till syra</l>
+<l>i deras magar jäst.</l>
+<l>Hon täljde om tysta spöken,</l>
+<l>och gastar och fula ting,</l>
+<l>och skrattande andar som dansa</l>
+<l>om natten i svingande ring.</l></lg>
+<lb/>
+<lg><l>Hon bad mig skriva om heliga berg</l>
+<l>där kunniga trollmän bo,</l>
+<l>vid kärr där den sista finnen</l>
+<l>har tappat sin näversko.</l></lg>
+<lb/>
+<pb n="5"/>
+<lg><l>Och de som snusa förnumstigt</l>
+<l>åt ting som de ej förstå,</l>
+<l>ska jag hälsa från Laolands uggla,</l>
+<l>som grinar i granklädd vrå.</l></lg></lg>
+<lb/>
+<p rend="center"><lb:separator content="_" count="8"/></p>
+<lb/>
+<pb n="6"/>
+</div2>
+<div2 type="part" xml:id="Kap02">
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<head rend="big center chaptername">När djävulen for ner i Vessman.</head>
+<lb/>
+<p rend="indfirst">»När numera framlidne skogvaktaren Bo&#x00AD;
+<lb/>berg var fjorton år gammal, sysselsatte han
+<lb/>sig en lördagskväll på ett potatisland där po&#x00AD;
+<lb/>tatisen var upptagen, och arbetet bestod i att
+<lb/>han trädde kvarlämnad, rutten potatis på en
+<lb/>kläpp och slungade dem ut i sjön. Om en
+<lb/>stund fick han höra ett dånande i luften och
+<lb/>jorden darrade och allt var förfärligt hemskt,
+<lb/>och då sprang pojkbytingen hem, för han
+<lb/>trodde det var åska.</p>
+<p rend="indfirst">Hemma på gården strök kattan kring
+<lb/>stormhattbuskarna med resta rygghår, och kal&#x00AD;
+<lb/>varna vid fägatan drynade så det lät som jäm&#x00AD;
+<lb/>mer, och hönsen hade hafsat sig in genom
+<lb/>gödselgluggen för att vara säkra, och järn&#x00AD;
+<pb n="7"/>
+<lb/>pilen på taket svängde fram och åter fast det
+<lb/>inte blåste, och så stacks en gul, vissen hand
+<lb/>ut och stängde kökskammarfönstret. Det klir&#x00AD;
+<lb/>rade gällt av spjäll som stängdes, kattan gnäll&#x00AD;
+<lb/>de tills hon blev insläppt av pojken, som gick
+<lb/>tillbaka till åkern när ingen vidare åska hördes
+<lb/>av, för att kasta fler ruttna potatis i sjön.
+<lb/>Det ven så roligt, när dom satte i väg, och
+<lb/>han såg belåten hur de svarta skrumpna bol&#x00AD;
+<lb/>larna for i bågar ut över vattnet.</p>
+<p rend="indfirst">Då såg han underliga moln gå för solen,
+<lb/>och dom var röda som kvällsmoln, och hela
+<lb/>fjärden låg i skugga av rödgul skymning, som
+<lb/>kom vattnet att likna lortig kopparplåt.</p>
+<p rend="indfirst">Och till sist så kom det en förfärligt stor
+<lb/>människa utan underkropp farande genom luf&#x00AD;
+<lb/>ten i riktning med landsvägen och med huvud&#x00AD;
+<lb/>hår som ruttna havrekärvar, och hon stannade
+<lb/>vid Marbacka haggrind och tog sats och for
+<lb/>med visslande jämmer rakt ut i de koppar&#x00AD;
+<lb/>skinande böljorna, och på stället bubblade en
+<lb/>virvel i rött och vitt och grönt som en jättes
+<lb/>bykgryta.»</p>
+<p rend="indfirst">Detta berättades av en ung man, som i
+<lb/>all sin bleka och slätrakade magerhet satt upp&#x00AD;
+<pb n="8"/>
+<lb/>krupen på en tom såptunna utanför byhand&#x00AD;
+<lb/><choice><sic>lere</sic><corr resp="litlolo">lare</corr></choice> Falkèns bod i Kokklo. Han skakade sitt
+<lb/>huvud, så att lockarna snodde runt kring tin&#x00AD;
+<lb/>ningarna och såg sig noga omkring, men när
+<lb/>han bara möttes av beundrande ögon, knep
+<lb/>han till med ett brett flin, knäppte hop de
+<lb/>magra, smala händerna under knäna, sköt rygg
+<lb/>liksom katten han talat om och tillade:</p>
+<p rend="indfirst">– Detta, min kärälskelige, är sanning,
+<lb/>och den enda underbara tilldragelse som lära&#x00AD;
+<lb/>ren O. W. Domquist inte kan förklara på na&#x00AD;
+<lb/>turlig väg.</p>
+<p rend="indfirst">En rödkindad och grovlemmad ung man
+<lb/>kom ut ur handelsboden och satte sig still&#x00AD;
+<lb/>samt på en låda att lyssna. Den magre be&#x00AD;
+<lb/>traktade honom mycket medlidsamt.</p>
+<p rend="indfirst">– Har du sett ett spöke någon gång,
+<lb/>Hjalmar, frågade han så spefullt, att den röd&#x00AD;
+<lb/>kindade försökte bli ännu rödare.</p>
+<p rend="indfirst">– Du vet att jag inte befattar mej med
+<lb/>spöken annat än som –</p>
+<p rend="indfirst">– Som kulturhistoriskt studium, avslu&#x00AD;
+<lb/>tade mannen på tunnan förtjust. Jag visste
+<lb/>det. Har Domquist och du avslutat era psy&#x00AD;
+<lb/>kologiska studier ännu?</p>
+<pb n="9"/>
+<p rend="indfirst">Den tillfrågade reste sig.</p>
+<p rend="indfirst">– Därför att en fattig djävul försöker
+<lb/>skaffa säj litet bildning behöver du inte håna!
+<lb/>bröt han ut.</p>
+<p rend="indfirst">– Så – så! Den magre viftade otåligt
+<lb/>men glatt med vänstra foten. Du ska inte
+<lb/>svära, för det verkar obildat, och du får inte
+<lb/>vara from och inte bedja, för det är obildat,
+<lb/>och du får inte säja det svenska namnet på
+<lb/>gödsel, utan du ska säja latrin, ja, det ska du,
+<lb/>för så säjer alltid Domquist. Den magre hop&#x00AD;
+<lb/>pade ner från tunnan och försökte se elakare
+<lb/>ut än han kunde.</p>
+<p rend="indfirst">– Åh – åh – den Domquist! <hi rend="spaced">Den</hi> Dom&#x00AD;
+<lb/>quist! Har ni hört hur han säjer, när jag
+<lb/>råkar säja något som inte precis är idiotiskt,
+<lb/>men som han inte orkat tänka ut själv? Åh –
+<lb/>då tittar han skyggt, då vinkar han och då
+<lb/>viftar han med sina stora ögonlock, och så här
+<lb/>säjer han:</p>
+<p rend="indfirst">»Yah – Yah – Yah ha, yah! Dä har
+<lb/>ni rätt i, dä är alldeles riktit anmärkt – så dä
+<lb/>har ni rätt i, dä – alldeles rätt i» – – Visst
+<lb/>fan har jag alldeles rätt – det har alla män&#x00AD;
+<lb/>niskor – men varför säjer han yah, yah? På
+<pb n="10"/>
+<lb/>det viset bräker åsnorna i Österlandet, men han
+<lb/>är väl ingen riktig åsna. Vart ska du gå,
+<lb/>Hjalmar?</p>
+<p rend="indfirst">– Du, din valp, svarade Hjalmar rasande.
+<lb/>Jag ska inte gå innan jag sagt dig att du är den
+<lb/>oförskämdaste, mest obildade – – – </p>
+<p rend="indfirst">– Du behöver inte gå sedan du sagt
+<lb/>det, heller. Säj mäj, hur mycke psykologi ska
+<lb/>man kunna innan man är allmänbildad?</p>
+<p rend="indfirst">Men den tilltalade var redan ute på vägen,
+<lb/>gående mot söder, och han bar i sin ena hand
+<lb/>några kilo sill som han köpt.</p>
+<p rend="indfirst">Den magre kröp åter upp på tunnan och
+<lb/>tände en cigarrett.</p>
+<p rend="indfirst">– Det är egentligen synd om honom,
+<lb/>mumlade mannen som satt på trappan till han&#x00AD;
+<lb/>delsboden med en fotogenkanna mellan knäna.
+<lb/>För han har ett gott huvud.</p>
+<p rend="indfirst">Den magre såg noga på fotogenkannan.
+<lb/>Den var så blank, den, så, och ett lappat byx&#x00AD;
+<lb/>knä på vardera sidan.</p>
+<p rend="indfirst">– Det är egentligen mest synd om Hjal&#x00AD;
+<lb/>mar därför att han skaffar sig kunskaper om
+<lb/>allt möjligt. Egentligen är jag mest förbannad
+<lb/>på honom, därför att han inte tror på spök&#x00AD;
+<pb n="11"/>
+<lb/>historier. Det kommer sig av lärare Dom&#x00AD;
+<lb/>quists studiecirkel. Och sen törs han inte
+<lb/>dricka brännvin, inte röka, inte gå hos flickor,
+<lb/>och om han kommer i sjönöd, ser du, och allt
+<lb/>hopp är ute, så törs han inte be till Gud ens,
+<lb/>bara för det han gått i studiecirkel. På det
+<lb/>där viset tillverkar dom fruntimmer och barn
+<lb/>av karlar nu för tiden. Om dom möter mäj
+<lb/>i sällskap med en hög fulla glada bypojkar,
+<lb/>så straxt talar dom om så synd det är, för jag
+<lb/>har så gott huvud. He, he! Jo, du, jag också
+<lb/>har ett gott huvud – det trodde du inte, du
+<lb/>med fotogenet mellan knäna – men mäj kan
+<lb/>dom inte med – och det kommer allt, allt,
+<lb/>av den där studiecirkeln.</p>
+<p rend="indfirst">Han sträckte i trött patos sina armar uppåt
+<lb/>med något, som liknade förtvivlan, men sänkte
+<lb/>dem åter, påminnande sig något helt plötsligt.</p>
+<p rend="indfirst">– Den roligaste människan på den här
+<lb/>trakten är galne David, smedens pojke, fort&#x00AD;
+<lb/>for Olle. Jag har berättat för honom om hur
+<lb/>djävulen for ner i Vessman, och han riktigt
+<lb/><hi rend="spaced">åt</hi> i säj den historien. Jag försäkrar däj –
+<lb/>nu går han och inbillar säj att han sett var&#x00AD;
+<lb/>enda dugg. »Men jag kan en, som är värre!»
+<pb n="12"/>
+<lb/>skrek David och fäktade med sina benrangels&#x00AD;
+<lb/>armar i luften. »Har du hört om ormdjuret?»
+<lb/>frågade han. Men det hade jag förstås inte.
+<lb/>Vi var i smedjan i Marbo, då, och jag ska
+<lb/>säja – det var en syn att se David. Det
+<lb/>var i mörkningen. David, ser du, han hop&#x00AD;
+<lb/>pade opp på en tunna – precis som jag har
+<lb/>gjort – och skrek och tjöt om det där orm&#x00AD;
+<lb/>djuret, och han hade ena hälften av ansiktet
+<lb/>i skuggan och den andra i skenet från ässjan,
+<lb/>och det var lågt i taket och jag såg ett stort,
+<lb/>dammigt spindelnät, som hängde likt en glo&#x00AD;
+<lb/>ria kring galningens hjässa, och hans halva
+<lb/>ansikte var vitt som vällhett järn – han
+<lb/>slängde och viftade med armarna och skakade
+<lb/>i hela kroppen och slog och krafsade med sina
+<lb/>korpsvarta händer. Och Liss Lars och An&#x00AD;
+<lb/>ders Matts och alla byns fäder var i smedjan.</p>
+<p rend="indfirst">»Vafför säjer ni, att dä’ va’ en varg?»
+<lb/>vrålade han. »Nä’ dä’ va’ ingen mer än jag
+<lb/>som såg’en å jag säjer, att dä’ va’ en orm –
+<lb/>många ormar va’ dä’, som satt ihop som en
+<lb/>garnhärva! En varg – en varg – har ni sett
+<lb/>en varg, som har gått som en orm? Har ni?
+<lb/>Men dä’ gick som många ormar, som hundra
+<pb n="13"/>
+<lb/>ormar, och kroppen var lång som själva djä&#x00AD;
+<lb/>vulens rumpa, säjer jag – men ni tror inte dä
+<lb/>finns nå’n djävul, fast jag har sitt han många
+<lb/>gånger – säjer jag – och varenda bit ormade
+<lb/>som en orm och kröp framåt å bakåt på samma
+<lb/>gång, säjer jag, och dä’ va’ tusen vita, gröna
+<lb/>ögon och tusen svarta tungor – – »</p>
+<p rend="indfirst">»Tyst!» röt smeden. »Å gå ner å dra bäl&#x00AD;
+<lb/>gen!» Och då kröp han ner som en hutad
+<lb/>hund, och drog bälgen, så den rangliga krop&#x00AD;
+<lb/>pen hävdes opp och ner som en pumpkolv
+<lb/>och axlarna sköt opp som två tvära, svarta
+<lb/>hyllor, men jag såg, hur ögonen lyste – nog
+<lb/>hade han sett någonting, alltid!</p>
+<p rend="indfirst">William, ynglingen på lådan, nickade och
+<lb/>skruvade otåligt på sig.</p>
+<p rend="indfirst">– Men besinna då, att galne David <hi rend="spaced">är</hi>
+<lb/>galen! sade han, oroligt mönstrande den bleke,
+<lb/>som tänt en ny cigarrett. Den bleke klev
+<lb/>ner, gick helt nära William och viskade i hans
+<lb/>öra:</p>
+<p rend="indfirst">– Men han ser nånting – han ser nån&#x00AD;
+<lb/>ting – och då kan du väl begripa, att han
+<lb/>är intressantare än du, som inte ser nånting
+<lb/>– och alla andra, som inte ser nånting.</p>
+<pb n="14"/>
+<p rend="indfirst">– Är du andeskådare? frågade William en
+<lb/>smula ängsligt.</p>
+<p rend="indfirst">– Jag hör och ser så mycket, som inte
+<lb/>varken du eller doktorn eller prästen har nys
+<lb/>om. Jag vet inte, vad det är – men det
+<lb/>ä’ mycke’ spännande. Ibland ser jag fjärr&#x00AD;
+<lb/>syner – jo, du, städer och slott och processio&#x00AD;
+<lb/>ner – – </p>
+<p rend="indfirst">– Sir du himmeln öppen nån gång då?
+<lb/>William såg helt allvarlig ut. Hans huvud
+<lb/>arbetade med att söka förstå sig på detta
+<lb/>slags människa. Han hade hört om fjärr&#x00AD;
+<lb/>skådare – han var mycket fattig och hade
+<lb/>slitit mycket ont i denna värld – skulle det
+<lb/>inte vara roligt att veta, om inte den bleke såg
+<lb/>något vackert någon gång – som var skö&#x00AD;
+<lb/>nare än denna värld av jordkojor, bondstu&#x00AD;
+<lb/>gor, tarvlig mat och kalla golv.</p>
+<p rend="indfirst">– Jag vill inte tala om det – det är som
+<lb/>att – ja, jag tror det inte är till för att tala
+<lb/>om. Och så blir jag strax rörd – jag vill
+<lb/>inte bli rörd. Det är alltid så – så opas&#x00AD;
+<lb/>sande tid och plats. Men – hur kan en veta,
+<lb/>ändå, om jag inte är lika galen som David?</p>
+<p rend="indfirst">– Du bär däj inte så åt!</p>
+<pb n="15"/>
+<p rend="indfirst">– Du sade det! Vi ha var sitt sätt –
+<lb/>David och jag.</p>
+<p rend="indfirst">Han stod med händerna nervöst nerkörda
+<lb/>i sina tomma fickor.</p>
+<p rend="indfirst">– Du skulle väl inte kunna låna mäj en
+<lb/>krona på ett par dar, gamla skogskamrat? frå&#x00AD;
+<lb/>gade han plötsligt. Jag har inte fått mat på
+<lb/>en hel dag, nu.</p>
+<p rend="indfirst">– Du får aldrig mat, därför att du al&#x00AD;
+<lb/>drig arbetar. Varför skaffar du däj inte ar&#x00AD;
+<lb/>bete, gosse? frågade William. Han tog opp
+<lb/>en krona och lade den i den blekes smala
+<lb/>hand.</p>
+<p rend="indfirst">– Arbetar jag inte? Jo, du, jag har ett
+<lb/>väldigt styvt knog, jag har arbetat som en
+<lb/>galning i dag, fast ingen ser det – det är inom
+<lb/>mäj allt det där arbetet, där finns det hjul
+<lb/>och kuggar, som jämrar och gnäller jämt, och
+<lb/>ibland är det som musik av många, många
+<lb/>spelmän – men det förstår du inte. Men
+<lb/>arbetar gör det – sliter och river och maler
+<lb/>sönder – det sliter ut mäj, gosse, ibland är
+<lb/>jag alldeles förbi. Och jag blir så hälsikes
+<lb/>trött av det.</p>
+<p rend="indfirst">Han hängde sig med bröstet mot tun&#x00AD;
+<pb n="16"/>
+<lb/>nan och lät huvudet sjunka ned mellan axlarna.
+<lb/>Och så gråter det, och förbannar – jo, du,
+<lb/>nog har jag fått min del – – </p>
+<p rend="indfirst">Nu rätade han plötsligt på sig, det syntes
+<lb/>som ville han skaka sig fri från något. Och
+<lb/>han tacklade kamraten med ett hårt handslag
+<lb/>och gick sjungande sin väg.</p>
+<lb/>
+<p rend="center"><lb:separator content="_" count="8"/></p>
+<lb/>
+<pb n="17"/>
+</div2>
+<div2 type="part" xml:id="Kap03">
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<head rend="big center chaptername">Karigos underverk.</head>
+<lb/>
+<p rend="indfirst">Hän över ödsliga skogar, sanka kärr och
+<lb/>gula myrar syntes Ramnåsen som en kolsvart
+<lb/>jättefisks rygg när solljuset brann kvällnings&#x00AD;
+<lb/>rött bakom. En ensam stenig stig ledde dit,
+<lb/>med ruttna kavelbroar i kärren och hala, slipp&#x00AD;
+<lb/>riga stänger över dysvarta, ormande bäckar.</p>
+<p rend="indfirst">På åsens nordsida bodde Karigo, troll&#x00AD;
+<lb/>mannen, som fjärrskådade i vatten och bränn&#x00AD;
+<lb/>vin, såg syner och troll, talade med de döda,
+<lb/>traktens skräck och medicinman och den eviga
+<lb/>förargelseklippan för allt civiliserat folk.</p>
+<p rend="indfirst">På vägen dit vandrade Olle en höstkväll.
+<lb/>Han bar en blåsvart sliten kavajkostym, norr&#x00AD;
+<lb/>bottenspjäxor och sjömanströja, hatten litet
+<lb/>avsiktligt på sned och händerna djupt nere
+<pb n="18"/>
+<lb/>i rockfickorna, var slätrakad och blek som
+<lb/>alltid. Han såg inte upp för vattenpölarna,
+<lb/>utan steg ner gång på gång, fick gula träsk&#x00AD;
+<lb/>stänk på byxorna, och skorna, som för länge&#x00AD;
+<lb/>sedan voro genomblöta, glappade och tjafsade
+<lb/>vid vartenda steg. Han bar ett paket omlin&#x00AD;
+<lb/>dat med tidningspapper under ena armen och
+<lb/>såg mycket drömmande ut och stannade gång
+<lb/>på gång för att se omgivningen så noga som
+<lb/>möjligt. Vid Fata Mo klättrade han upp i
+<lb/>en fura för att få utsikt. Hans smala, smidiga
+<lb/>kropp slingrade sig med en apas vighet från
+<lb/>gren till gren, och till sist, med ryggen stödd
+<lb/>mot den bruna stammen några meter nedanför
+<lb/>toppen satt han där lik en svart jätteuv, skug&#x00AD;
+<lb/>gande ögonen med handen och pratande för
+<lb/>sig själv.</p>
+<p rend="indfirst">Längst borta och närmast såg han milsvid,
+<lb/>sövande ödslighet av torra furor och stupande
+<lb/>bärg med svart skog, ett svallande hav av
+<lb/>böljande mörkgrönt.</p>
+<p rend="indfirst">Karigos kammarfönster gnistrade i det
+<lb/>sjunkande ljuset borta kring Ramnåsen. Olle
+<lb/>skulle dit för att se spöken och trolldom i natt.
+<lb/>Han brukade hjälpa Karigo att blanda medi&#x00AD;
+<pb n="19"/>
+<lb/>cin av örter. Karigo var obildad och kan&#x00AD;
+<lb/>ske dum, tänkte han, men han hade respekt
+<lb/>för Karigo. Han hade inte haft det för ett
+<lb/>år sedan, men då hände det. En liten flicka
+<lb/>hade legat till sängs i många år i svår värk.
+<lb/>Karigo hade sett på den sjuka och tittat i ett
+<lb/>brännvinsglas och ingenting sagt på en lång
+<lb/>stund. Han tycktes kämpa med något invär&#x00AD;
+<lb/>tes, han skakade i hela kroppen och svetten
+<lb/>bröt ut på hans ärriga panna, men då, just
+<lb/>då, började plågorna släppa. Hu, han min&#x00AD;
+<lb/>des, hur Karigo satt och lät båda händerna
+<lb/>hänga, tills de voro fulla av blod och röda
+<lb/>som köttklubbor, och hur hans bröst arbetade,
+<lb/>så att han miste talförmågan. – Men tösen
+<lb/>blev frisk, och när dokton hörde det, sa’ han:</p>
+<p rend="indfirst">»Hypnotism».</p>
+<p rend="indfirst">Olle hade varit till sjöss i tre år, och en
+<lb/>gång hade han sett skeppsläkaren på Santa
+<lb/>Anna hypnotisera en galen mulatt. Men han
+<lb/>bar sig inte åt som Karigo. Mulatten blev
+<lb/>i alla fall också frisk. Det var underliga ting,
+<lb/>alltsammans, ting, som ingen begrep. Det var
+<lb/>bäst att inte sätta något namn på dem.</p>
+<p rend="indfirst">På gården stannade han och tittade. Ja,
+<pb n="20"/>
+<lb/>det var sant, som doktorn brukade säga, det
+<lb/>var som ett rus att se en sådan trollgubbes
+<lb/>urgamla gård, med hundraåriga lindar med
+<lb/>mossgula starholkar, med murkna uthus och
+<lb/>branta, slitna trappor och broar, svalen och
+<lb/>lider i alla riktningar. Han ville sätta sig på
+<lb/>en sten och dricka in detta rus.</p>
+<p rend="indfirst">Ja, en gammal vanlig gård var det –
+<lb/>men inte lik någon annan gård ändå. Den där
+<lb/>boddörren, den breda, järnbeslagna luckan, var
+<lb/>hon inte lik ett levande ting, och den svarta
+<lb/>gluggen innanför – hu! den tittade riktigt
+<lb/>ut i ljuset som ett bottenlöst, svart öga med
+<lb/>det mossbelupna brädet ovanpå som ett grönt
+<lb/>ögonbryn, och den murkna bron med lutande
+<lb/>stolpar, den riktigt stirrade omkring sig.
+<lb/>Gårdsplanen var öde och tom, men likväl
+<lb/>trycktes allt av något levande, något som såg
+<lb/>på allting med mörka ögon utan att själv ses.
+<lb/>Det kom och sträckte fram hundra armar ur
+<lb/>luften för att gripa om allt, röra på allt. Det
+<lb/>jämrade under golv i sällskap med vinden
+<lb/>som klagade, och råttorna som frasade ...</p>
+<p rend="indfirst">Han satt med halvöppen mun och drack
+<lb/>vinden som spelade i det höstvåta gräset mel&#x00AD;
+<pb n="21"/>
+<lb/>lan stenarna. Ett rus var det – en fest! Han
+<lb/>njöt det som vin – och tänkte på att när tu&#x00AD;
+<lb/>risterna och de, som skrevo böcker om det,
+<lb/>sutto här, så åto de det ungefär som pann&#x00AD;
+<lb/>kaka – gammal och skämd och onyttig för
+<lb/>magen, men som de åto ändå, för den sma&#x00AD;
+<lb/>kade gammalt. Det gamla var modernt nu.</p>
+<p rend="indfirst">Det här gick över mänskligt förstånd –
+<lb/>så skräckinjagande vackert var det. Man skulle
+<lb/>bara sitta stilla, se och höra och tiga. Det
+<lb/>fanns inga böcker om vildmarken, som hand&#x00AD;
+<lb/>lade om det här. Detta var den gamla byg&#x00AD;
+<lb/>dens, gårdens och husens själ, och detta var
+<lb/>själen av dessa som levat och dött här. De
+<lb/>kommo ofta hit och talade med tingens själ
+<lb/>om det gamla. Karigo hade sett dem, och
+<lb/>Olle själv hade en gång sett gamla Knas,
+<lb/>soldaten, som varit död i femton år nu, stå
+<lb/>vid stalldörren och le mot Olle, som var ett
+<lb/>barn då, och lekte mjölnare vid ett par stora,
+<lb/>spruckna kvarnstenar på gården. Hans hår
+<lb/>var som en imma av vitt och ögonen spelade
+<lb/>muntert ut ur de djupa hålorna, och så för&#x00AD;
+<lb/>svann han, och när Olle beskrev det för Anna,
+<pb n="22"/>
+<lb/>farmodern, sa’ hon att det var säkert man&#x00AD;
+<lb/>nen hennes. Så var det – ibland kommo
+<lb/>de dödas andar igen, och så var det inte bara
+<lb/>deras andar utan den stora anden, alltings
+<lb/>själ, som var i vinden och viskade i gräset
+<lb/>och fanns överallt, ända bort till stjärnorna!
+<lb/>Och över alla stjärnornas själar var Gud, och
+<lb/>allt var härligt och stort, och allt var som en
+<lb/>saga. Sagan var ful ibland och rolig ibland,
+<lb/>och det fanns onda andar också. De mäktade
+<lb/>inte mycket, de, mot alla de goda. Även allt
+<lb/>det onda och mögliga och ruttna och fula och
+<lb/>elaka hade sin själ – det onda självt, och det
+<lb/>man såg var bara uttrycket. Visst var det så –
+<lb/>han såg mot stjärnorna. Vem visste vad de
+<lb/>voro – när ingen ens visste vad han själv var?
+<lb/>Men de voro vackra. Vinden for fram under
+<lb/>dem och spelade på det daggiga gräset. De
+<lb/>voro vackra – och då måste de vara själ, vara
+<lb/>andar, som allt annat. Allt var själ ...</p>
+<p rend="indfirst">Han satt och grubblade, glömde att han
+<lb/>var hungrig och att trollkarlen väntade på ho&#x00AD;
+<lb/>nom. Han lutade huvudet i händerna och
+<lb/>så småningom gled stämningen bort, som det
+<pb n="23"/>
+<lb/>alltid gick, när han suttit länge med halvöppen
+<lb/>mun, glänsande ögon och glödande kinder.</p>
+<lb/>
+<figure rend="center"><graphic url="/bilder/ornament/littthreenewstars.svg"/></figure>
+<lb/>
+<p rend="indfirst">– Va fan sitter du å tjurar efter? frå&#x00AD;
+<lb/>gade en grov röst uppifrån fönstret. Det var
+<lb/>Karigo, som tittat ut och fått syn på honom.
+<lb/>Olle steg upp och skakade med en rysning
+<lb/>bort det mulna rusk som krupit på honom. En
+<lb/>ohygglig leda steg upp i hans hals, mest över
+<lb/>Karigo, denne okunnige snålvarg med sitt
+<lb/>kalvskinnsgula ansikte.</p>
+<p rend="indfirst">Han steg in, och studsade mot rummets
+<lb/>rökmättade halvskymning. Detta, som såg
+<lb/>utan att synas, var överallt härinne. Det
+<lb/>glimtade vitt som bitar av segel ur de mörka
+<lb/>hörnens skräpiga rusk, det liknade vita, trasiga
+<lb/>ögon... Det satt där och stirrade. Och lät
+<lb/>det inte som jämmer, när moraklockan slog?
+<lb/>Vad var det? Och vad hade han med det
+<lb/>att göra, när han var trött och hungrig?</p>
+<p rend="indfirst">Den osande fotogenlampans röda låga
+<lb/>skälvde borta vid bordet. Karigos gamla hus&#x00AD;
+<lb/>hållerska satt vid den väldiga järnspiseln med
+<pb n="24"/>
+<lb/>en snörvlande kritpipa mellan sina tandlösa kä&#x00AD;
+<lb/>kar. Hon sneglade lömskt under lugg och
+<lb/>spottade då och då ut i askhögen.</p>
+<p rend="indfirst">Gamla drake! Försöker nog se så full av
+<lb/>satan ut hon kan – men inte skrämmer hon
+<lb/>mäj, tänkte Olle, överlägset nickande åt den
+<lb/>gamla. Instängd luft, dålig tobak, lukt av mö&#x00AD;
+<lb/>gel, skämd mat och sopor. Dörren till Karigos
+<lb/>kammare stod halvöppen och han hörde någon
+<lb/>hosta därinne. Alltsammans såg bara lortigt
+<lb/>och fånigt ut nu. Han skulle gå in och håna
+<lb/>Karigo, säga att all hans »vetenskap» var skoj
+<lb/>och alla hans syner inbillningar. Men det tor&#x00AD;
+<lb/>des han ändå inte – Karigo kunde sätta ett
+<lb/>spöke att jaga honom! Och hu! Att vara en&#x00AD;
+<lb/>sam på ett sånt här ställe! Men han var
+<lb/>hungrig – han skulle ha mat nu. Van vid
+<lb/>husets plägseder gick han fram till häxan vid
+<lb/>spiseln och sade med mycket hög röst ifrån,
+<lb/>att han var hungrig, och med ett föga hugne&#x00AD;
+<lb/>samt grin nickade den gamla åt honom, steg
+<lb/>upp och stultade bort över golvet. I skenet
+<lb/>från taklampan, som var trasig och droppade
+<lb/>fotogen mitt på bordet, dukade hon fram kallt
+<lb/>kött, sill, potatis och ett krus öl. Olle åt upp
+<pb n="25"/>
+<lb/>alltsammans och drack ur ölet under många
+<lb/>grimaser. Det var hemmagjort, tjockt och
+<lb/>beskt och smakade bättre än det brukade, och
+<lb/>så här mycket på en gång hade han väl knap&#x00AD;
+<lb/>past druckit förr.</p>
+<p rend="indfirst">Han började känna en viss trevnad, trots
+<lb/>allt. Den gamla krokiga gumman, som åter&#x00AD;
+<lb/>tagit sin plats vid spiseln, var bestämt rolig att
+<lb/>se på från ryggsidan. Hon var allt något till
+<lb/>dum, den där! Ja, Karigo var inte stort klo&#x00AD;
+<lb/>kare, han heller. Gent emot Karigo kunde
+<lb/>han, Olle, känna sig som doktorn mot Olle.
+<lb/>Det var så där – var och en kunde se sin
+<lb/>stackare över axeln – ifall man tyckte det var
+<lb/>roligt, men det var det inte jämnt, heller. En
+<lb/>fånig inrättning, alltsammans.</p>
+<p rend="indfirst">Dä’ ölet smakade mer, men kanske det
+<lb/>gick an att få ändå bättre? Han hostade,
+<lb/>skrapade med foten, vinkade åt gumman och
+<lb/>pekade, smackande som åt en häst, bortåt
+<lb/>hörnskåpet, och den gamla började motvilligt
+<lb/>röra på sig. Han fick ett stort glas brännvin,
+<lb/>och sväljde det i en blinkning.</p>
+<p rend="indfirst">Sedan satt han en stund och funderade.
+<lb/>Rummet började se trevligt ut, den instängda
+<pb n="26"/>
+<lb/>luften var visst borta. Det började sjunga
+<lb/>inom honom, men han måste hålla sig lugn, så
+<lb/>att inte Karigo begrep, att han druckit ur hans
+<lb/>brännvin. Gubben fnös redan otåligt därinne.
+<lb/>Olle tände sin pipa och gick in.</p>
+<p rend="indfirst">Den lilla kammaren var fylld av en stark
+<lb/>lukt av bränt horn. Karigo satt vid ett upp&#x00AD;
+<lb/>slaget fällbord, fullt av flaskor, burkar och
+<lb/>halvöppnade paket, kringstängda skedar med
+<lb/>rött och brunt fasttorkat inuti, knivar, tidnings&#x00AD;
+<lb/>papper och annat skräp. Han höll ett stycke
+<lb/>brunbränt horn, fästat vid en järntråd, i lamp&#x00AD;
+<lb/>lågan, och såg som vanligt inte upp, när Olle
+<lb/>steg in, och utan vidare slog sig ner på en stol
+<lb/>för att röka i allsköns frid, med armarna i kors
+<lb/>över bröstet och ett sken av oändlig, mild för&#x00AD;
+<lb/>dragsamhet mot allt och alla i sitt lugna an&#x00AD;
+<lb/>sikte. Efter ett par minuters tystnad vände
+<lb/>sig gubben till hälften om på stolen, kastade
+<lb/>hornbiten i en skål och frågade:</p>
+<p rend="indfirst">– Å-å – va säjer präst’n om mäg?</p>
+<p rend="indfirst">Olle log ett förstående leende.</p>
+<p rend="indfirst">– Han säjer, han, att det här nästet är
+<lb/>en skam för hela socknen, svarade han, vårds&#x00AD;
+<pb n="27"/>
+<lb/>löst sparkande med ena foten i en hög spå&#x00AD;
+<lb/>nor på golvet.</p>
+<p rend="indfirst">– Oh-ho-he! Karigo tog åter upp horn&#x00AD;
+<lb/>biten och förde den till lågan.</p>
+<p rend="indfirst">– Å-å – va säjer han som lägger opp
+<lb/>böcker, om mäg?</p>
+<p rend="indfirst">Olle gapskrattade, fick hornröken i hal&#x00AD;
+<lb/>sen och hostade.</p>
+<p rend="indfirst">– Jäkla rök – va bränner du horn för,
+<lb/>– gamla torkstrut – – jo, han säjer, att
+<lb/>du och din stuga är kulturhistoriska värdeföre&#x00AD;
+<lb/>mål – – kuriosum – – </p>
+<p rend="indfirst">– Ska dä vara skällsnamn, dä?</p>
+<p rend="indfirst">– Ånej, inte precis. Det betyder unge&#x00AD;
+<lb/>fär, att du är så pass galen, att – du kunde
+<lb/>visas för pengar.</p>
+<p rend="indfirst">– Kors i hälsicke! Dä va mäg en sju&#x00AD;
+<lb/>tusan! Kommer han hit, då?</p>
+<p rend="indfirst">– Troligen.</p>
+<p rend="indfirst">– Oh, ho! Då ska vi – – Å, va säjer
+<lb/>han mer om mäg?</p>
+<p rend="indfirst">– Sen säjer han ingenting mer.</p>
+<p rend="indfirst">– Vet du, va’ du ska göra nu?</p>
+<p rend="indfirst">Olle flinade, tänkte ett ögonblick och ta&#x00AD;
+<lb/>lade sedan långsamt.</p>
+<pb n="28"/>
+<p rend="indfirst">– Sätta opp en skrivelse, du får skriva
+<lb/>under på, där du förbinder däj att inte vidare
+<lb/>ta’ mot sjukbesök, så ger jag den åt doktorn,
+<lb/>så blir vi kvitt dom.</p>
+<p rend="indfirst">Karigo hoppade upp och blev röd som
+<lb/>koppar.</p>
+<p rend="indfirst">– Du ska skriva i renaste helvete! Åc&#x00AD;
+<lb/>ken vill dä där?</p>
+<p rend="indfirst">Olle grinade fult.</p>
+<p rend="indfirst">– Jag vill det. Annars blir du fast för
+<lb/>kvacksalveri.</p>
+<p rend="indfirst">Karigos ögon glimmade vasst, han slu&#x00AD;
+<lb/>kade Olle med blicken för att läsa hans innersta
+<lb/>tankar, men där var ej mycket att se i detta
+<lb/>lugna, spotska ansikte med de nästan horn&#x00AD;
+<lb/>gröna ögonen.</p>
+<p rend="indfirst">Den gamla gumman kom i dörren och
+<lb/>anmälde ett besök. En främmande röst ta&#x00AD;
+<lb/>lade därute, Vainos-Kari, tyckte Olle på mål&#x00AD;
+<lb/>föret. Han ljusnade; nu blev här någonting
+<lb/>att se och höra.</p>
+<p rend="indfirst">Karigo makade glasögonen med de skar&#x00AD;
+<lb/>vade, illa lödda bågarna högre upp på näsan,
+<lb/>harklade, skrapade med stövelklacken i golvet
+<lb/>och såg grym ut. Han grep något föremål på
+<pb n="29"/>
+<lb/>bordet, (en utdragen tand, tycktes det) och
+<lb/>låtsades syna det noga. Vid järnkaminen satt
+<lb/>Olle fortfarande kvar med benen i kors och
+<lb/>pipan i munnen. Han såg på Karigo, vars
+<lb/>anletsdrag blivit stela, ansiktet blodlöst, med
+<lb/>små krampaktiga ryckningar kring munnen.
+<lb/>Olle såg spänt på detta ansikte – han ville
+<lb/>se varenda skugga och linje i detta skägg&#x00AD;
+<lb/>stubbiga, stela, – garvade – – </p>
+<p rend="indfirst">En medelålders, mörkhårig kvinna steg
+<lb/>in i rummet, långsamt och med skygga steg,
+<lb/>utan att Karigo ens nu såg upp. Olles ansikte
+<lb/>spändes hårt, och han spratt till, när trollkarlen
+<lb/>utan vidare började tala, hela tiden stirrande
+<lb/>i en ärggrön mässingsskål med någon vätska i.</p>
+<p rend="indfirst">– Du geck om när Lars Ols – över
+<lb/>bäcken – dä ska du inte göra – för där ä’
+<lb/>dä ont ute å går om kvällarna.</p>
+<p rend="indfirst">Olle tog hastigt pipan ur munnen, höjde
+<lb/>axlarna och försökte titta i Karigos skål, och
+<lb/>ett överraskat »åhå!» undslapp honom, men
+<lb/>han fick en stingande blick av gubben och
+<lb/>sjönk åter ihop till dödsblekt lugn.</p>
+<p rend="indfirst">Kvinnan såg rädd och lömsk ut på en
+<lb/>gång; för ett ögonblick såg Olle intresserat på
+<pb n="30"/>
+<lb/>henne. Hon hade en nött kappa av svart tyg,
+<lb/>hårt åtknäppt kring sin magra kropp och en
+<lb/>skallig gammal vintermössa på huvudet. Hen&#x00AD;
+<lb/>nes ansikte, som skiftat i vitt och rött, när
+<lb/>hon kom in, var blått och gredelint nu, och
+<lb/>munnen höll hon halvöppen, som om hon stän&#x00AD;
+<lb/>digt ämnat tala, men aldrig kom sig för. Hon
+<lb/>andades så hårt, att Olle hörde det.</p>
+<p rend="indfirst">Det listiga i Karigos ansikte hade kastat
+<lb/>om till grymhet, och på samma gång såg han
+<lb/>oupphörligt överraskad ut, ständigt stirrande
+<lb/>i mässingsskålen. Olle såg tydligt det upp&#x00AD;
+<lb/>skruvade högmodet hos Karigo, men nu käm&#x00AD;
+<lb/>pade det med överraskningen vid något han
+<lb/>såg. Han började avundas Karigo.</p>
+<p rend="indfirst">– Dä är så – så är dä allt! pressade
+<lb/>kvinnan fram med ansträngning. Inte kan en
+<lb/>veta ändå, når ont är ute och går. I detsamma
+<lb/>började hon en jeremiad över sitt sjuka ben.</p>
+<p rend="indfirst">– Dä är jusom åt kvällarna jag li’r mest,
+<lb/>å då, når ja’ binder om mä trasor, så dä blir
+<lb/>riktigt hett – å så håller riktigt stilla så tycker
+<lb/>ja’ jusom att då lindras dä, men moler gör
+<lb/>dä – hela natta, förstås – ja – ä full gikta,
+<lb/>kan en förstå – – </p>
+<pb n="31"/>
+<p rend="indfirst">Karigo avbröt med hård röst:</p>
+<p rend="indfirst">– Dä är inte påsatt av nå’n. Du har
+<lb/>fassnat för dä här. Jag sir – skulle gå över
+<lb/>häcken – halt på roan – slant, och körde
+<lb/>ner ena bene’ – vart rädd, nästan så blo’n
+<lb/>stanna i ådrorna på däj – å så kom du inte
+<lb/>ihåg å tänka på att du vart rädd.</p>
+<p rend="indfirst">– Just så! skrek Vainos-Kari vresigt.
+<lb/>Jag minns!</p>
+<p rend="indfirst">Karigo nickade, men nu fick han syn på
+<lb/>något nytt i skålen och fortsatte sin profetia.</p>
+<p rend="indfirst">– Du är lik en satan åt karn din – men
+<lb/>dä ska du inte vara, han blir inte gammal mer
+<lb/>– sjuk blir han å död – jag sir en svart kista
+<lb/>efter en mörkbrun kamp – dä ringer – dom
+<lb/>begraver ve’ Risanka – men dä är en ti’ än
+<lb/>te dess – du hinner göra mycke djävulskap
+<lb/>du, än, men i bene’ blir du allri bra – allri’
+<lb/>ska du sova riktigt lugnt mer – jo, en gång
+<lb/>ska du sova nog så stilla – dä är någon som
+<lb/>säjer »Vainos-Kari, kommer du inte snart?
+<lb/>Vainos-Kari – skynda på mä julbaket» – å
+<lb/>mycke ont går ut som rök – grön rök går
+<lb/>ut från två gårdar – å jag sir dä som är sju&#x00AD;
+<lb/>fallt värre än allt hat å mord å alla djävlars
+<pb n="32"/>
+<lb/>blod, å dä är gammal synd – gammal synd
+<lb/>med levrat, svartnat blod – går opp som en
+<lb/>ånga av rigolvet, rigolvet – dä ligger en grå
+<lb/>plankbit lös där – satan och perkele – dä rik&#x00AD;
+<lb/>tigt skakar mäj – å från kärret ve Lasso – åhå
+<lb/>– där springer ett barnkräk där – å ropar
+<lb/>mor! mor! Där är bruna tuvor mä hundbärs&#x00AD;
+<lb/>ris å hjortronblanvitt – vitt, som is – va’ är
+<lb/>där för lakan ute nu – håhå! – dä där hör
+<lb/>inte hit – så ta inte åt däj – men dä här, nu,
+<lb/>dä är ditt – ditt, hör du, – dö’n är ute å
+<lb/>vallar dina får, å sir nog efter däj mä – å
+<lb/>helvetes millioner – va nu då? – en hund
+<lb/>slickar ett svart ben – en hund, du – som
+<lb/>sir ut som gul, torkad synd – som gul – – </p>
+<p rend="indfirst">Karigo steg häftigt upp, sköt från sig
+<lb/>skålen och var blek och sträng.</p>
+<p rend="indfirst">– Jag bryr mäj inte om däj mer – ditt
+<lb/>satans mörker är bäst inte lysa på – men du
+<lb/>behöver inte vara rädd – för en är den, som
+<lb/>sir och dömer, en annan den som sir och för&#x00AD;
+<lb/>bannar – – Bed ditt Fader vår så gott du
+<lb/>kan! Och gå, nu!</p>
+<p rend="indfirst">Vainos-Kari skalv till och fick en grön
+<lb/>glimt i ögonen, men tordes inte se på Karigo.</p>
+<pb n="33"/>
+<p rend="indfirst">– Du djävul! gnisslade hon. Djävla
+<lb/>gubbe, du! Du är i bolag med fan! Hon
+<lb/>spottade som en ilsken katta bortåt bordet.</p>
+<p rend="indfirst">– Så’ mycke’ bättre underrättelser har
+<lb/>han väl då, föll Olle in. Han var mycket vit
+<lb/>i ansiktet.</p>
+<p rend="indfirst">– Vad var det fråga om? sporde Olle
+<lb/>ivrigt, när Vainos-Kari gått.</p>
+<p rend="indfirst">– Gammalt – ingen vet, hur länge sen
+<lb/>– jag tror jag såg dagar av en annan tid.
+<lb/>Den där gården är rent förbannad – och du
+<lb/>ä’ mycke för ung för å rota i – i det som
+<lb/>är skabbigare än satan.</p>
+<p rend="indfirst">– Jag själv har känt nånting underligt
+<lb/>vid den gården. Har jag aldrig berättat om
+<lb/>Milusnatten, när åtta sov och var vakna på
+<lb/>en gång?</p>
+<p rend="indfirst">– Nääj – och dä gör för rästen dä&#x00AD;
+<lb/>samma. Du ljuger allti hälften. Egentligen
+<lb/>ljuger du alltihop – ljuger som en satan.</p>
+<p rend="indfirst">– Åh, nej, säj hellre som en liten gud,
+<lb/>ibland. Olle satte sig på en vedklump framför
+<lb/>kaminen och stirrade in bland de svarta, sval&#x00AD;
+<lb/>nade bränderna. Han ryste – en slocknad
+<lb/>brandhög var något alldeles ohyggligt – all&#x00AD;
+<pb n="34"/>
+<lb/>ting som inte fick brinna riktigt ut – då blev
+<lb/>det pipiga gångar och mögelfärgade små
+<lb/>kamrar och gravar med vita väggar, ramlande,
+<lb/>håliga väggar – hallar med stupande kolon&#x00AD;
+<lb/>ner, spetälskeätna och ändå inte uppätna –
+<lb/>råtthål med falaska, som kilade ut och in som
+<lb/>små, gråa råttor – och kors och tvärs kring&#x00AD;
+<lb/>brända vedpinnar, som ben och armar på rik&#x00AD;
+<lb/>tigt uthungrat folk, och inskärningar – djupa
+<lb/>streck med vitt i som knivhugg i rått kött,
+<lb/>och längst in två röda glöd som sura, onda
+<lb/>ögon – det var otäckt med en eld, som dött
+<lb/>mitt i sin gärning utan att göra rent efter sig.</p>
+<p rend="indfirst">Han slog igen kaminluckan med en skräll,
+<lb/>så att Karigo hoppade till.</p>
+<p rend="indfirst">– Får jag se i den där gröna skålen?</p>
+<p rend="indfirst">Karigo betraktade honom hånfullt, och
+<lb/>Olle drog en stol till bordet.</p>
+<p rend="indfirst">– Vem ska jag tänka på? frågade han.</p>
+<p rend="indfirst">– På Marja från Vano, svarade gubben
+<lb/>utan att fundera. Olle mörknade, Marja från
+<lb/>Vano – henne ville han visst inte tänka på,
+<lb/>när han tittade i Karigos gröna skål. Fy –
+<lb/>att se hennes bild i den smutsiga vätskan –
+<lb/>den lilla veka Marja, som han låg hos i jung&#x00AD;
+<pb n="35"/>
+<lb/>frukammaren på Blågård varje lördagsnatt.
+<lb/>Men nu tänkte han i alla fall på Marja – det
+<lb/>gick inte att få bort henne ur hjärnan nu.
+<lb/>Han var rädd för att se henne. Hon kanske
+<lb/>såg ut som en död i den här skålen? Som
+<lb/>luktade zink och svavel och bränt horn och
+<lb/>Gud vete vad! Han stirrade förstrött ner i
+<lb/>den simmiga vätskan; han såg två fläckar på
+<lb/>botten, två svarta fläckar. Han tog sig för
+<lb/>att se på dem, och han kände sig hela
+<lb/>tiden medveten om Karigos ögon, som en&#x00AD;
+<lb/>vist och ihärdigt stirrade på honom. Fortfa&#x00AD;
+<lb/>rande var det bara två svarta fläckar, men så
+<lb/>blev det flera; nu var hela bottnen full av
+<lb/>dem. Det var rött någonstädes i ett djup
+<lb/>bakom dem, tills de svarta smälte ihop – nu
+<lb/>såg han inte vätskan mer, bara en mörk him&#x00AD;
+<lb/>mel med svarta kronor av tallar, som gungade
+<lb/>mot det mörka – men ännu anade han de
+<lb/>blanka konturerna på skålen, som en ram av
+<lb/>guld kring allt svart – nu stormade molnen
+<lb/>framåt – nu ordnades det hela och tog form,
+<lb/>nu skedde här en skapelse av ting – fram ur
+<lb/>töcknet. Men här var ingen Marja. Han an&#x00AD;
+<lb/>dades lättare. Han såg ett snöfält – och nå&#x00AD;
+<pb n="36"/>
+<lb/>gon mörk punkt rörde sig i snön. En män&#x00AD;
+<lb/>niska som höll på att gå sig trött, och nu stan&#x00AD;
+<lb/>nade det mörka. En gammal man med en
+<lb/>yxa på armen stupade omkull och vart lig&#x00AD;
+<lb/>gande i snön. Yxan föll rakt ut åt ena sidan,
+<lb/>och en arm låg utsträckt åt den andra, och allt&#x00AD;
+<lb/>sammans liknade ett svart kors mot snön.
+<lb/>Han hade bara en känsla: att springa fram –
+<lb/>ja, visst – nu sprang han genom den djupa
+<lb/>snön, men kom aldrig ditbort, där det mörka
+<lb/>låg, fast bröstet arbetade som en ångkolv och
+<lb/>svetten dröp från pannan. Och så sprang han
+<lb/>allt fortare – skulle väcka den gamle som sov
+<lb/>sig i döden – men så stannade han tvärt,
+<lb/>scenen byttes, det var sommar nu och löven
+<lb/>sjöngo vid en sjöstrand, och en bofink drillade.
+<lb/>En båt rodde ut med kraftiga årtag och köl&#x00AD;
+<lb/>vattnet porlade ... Han stod stilla – hjärtat
+<lb/>bultade ännu hårt, men han hörde ännu bo&#x00AD;
+<lb/>finken sjunga. Båten svängde om en udde,
+<lb/>där en man stod och metade. Allt var förun&#x00AD;
+<lb/>derligt – här var luften så lätt att andas,
+<lb/>här var bestämt himmelen. Här låg en känsla
+<lb/>av vår i rymden, i skogen, på sjön. Ett
+<lb/>mörkt moln drog över himlen och vattnet blev
+<pb n="37"/>
+<lb/>svart. Vattnet delade sig. Det blev svarta
+<lb/>fläckar, mellan dem krusades vattnet av vin&#x00AD;
+<lb/>den. Det mörknade allt mer. Horisonten var
+<lb/>en ring av guld kring det svarta, nu var det
+<lb/>två fläckar. Ringen av guld var skålens glän&#x00AD;
+<lb/>sande brädd, och den simmiga vätskan låg grå
+<lb/>och död som kall välling.</p>
+<p rend="indfirst">Han försökte röra på sig. Han var stel
+<lb/>i hela kroppen. Han slöt ögonen, det gjorde
+<lb/>ont i dem. Han vred sig med ansträngning
+<lb/>helt om och öppnade ögonen. Där satt Karigo
+<lb/>och stirrade som förut. Och rummet var mörkt
+<lb/>och ruskigt och grått, och han tyckte att Ka&#x00AD;
+<lb/>rigo var ful som en djävul.</p>
+<lb/>
+<p rend="center"><lb:separator content="_" count="8"/></p>
+<lb/>
+<pb n="38"/>
+</div2>
+<div2 type="part" xml:id="Kap04">
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<head rend="big center chaptername">Den röda marschen.</head>
+<lb/>
+<lg rend="small ind6"><lg rend="i"><l>Vi äro en röd värld, vi, i en stuguskym&#x00AD;</l>
+<l rend="ind2">ning grå.</l>
+<l>Och vi dricka vår del av det späda blod,</l>
+<l rend="ind2">tills trollmannen ber oss gå.</l>
+<l>Vi ha spänt vårt skinn med livets saft,</l>
+<l>på jakt bland smuts och lump.</l>
+<l>Och en underlig man med en underlig</l>
+<l rend="ind2">kraft</l>
+<l>har befallt oss att dö i en sump.</l></lg></lg>
+<lb/>
+<p rend="indfirst">Det var en ljus sommarnatt, så ljus att
+<lb/>Karigo och Olle kunde se varenda liten vit
+<lb/>kiselsten i den trampade, hundraårsgamla vä&#x00AD;
+<lb/>gen de gingo. Den vägen snodde i ormande
+<lb/>bukter över backar och berg, sneddade och
+<lb/>gick på slänt i blomdoftande dalsänkor, höljda
+<lb/>av daggigt gräs, gick åter ut på skogarna,
+<lb/>steg i vindlar över ett fjäll, gick neråt
+<lb/>igen, ömsom mjuk, ömsom hård, stundom hal
+<lb/>av visset barr, ibland igenväxt av skräpig
+<pb n="39"/>
+<lb/>ljung, och slutade vid en röd liten stuga med
+<lb/>gråa uthus i backsluttningen av det höga Ke&#x00AD;
+<lb/>rasso, där stigmän påstå att en örn haft sitt
+<lb/>rede en sommar och där Karigo en gång skju&#x00AD;
+<lb/>tit en älg i olaga tid och vänt syn på krono&#x00AD;
+<lb/>jägaren så att han inte såg slaktplatsen fast
+<lb/>den låg alldeles under hans näsa. Kerasso,
+<lb/>det kala ödeberget, med en spets som en
+<lb/>skrockig stövel. De båda hunno fram, och
+<lb/>Karigo slängde av sig sin skinnväska utanför
+<lb/>dörren och satte sig på trappan. Ett barn
+<lb/>skrek därinne och en gäll käringröst trätte,
+<lb/>det var inte roligt att gå in. Och de sutto där
+<lb/>och sågo gårdens katt leka med en fångad
+<lb/>råtta.</p>
+<p rend="indfirst">Djuret var illa bitet och rivet men gick
+<lb/>ändå närapå en hel halvmeter var gång missan
+<lb/>släppte, och sölade ner det liggande, våta
+<lb/>hundgräset och vattenvålman med blod, och
+<lb/>vart fast igen och hållet mellan två bruna,
+<lb/>små, spända käftar. Missan höll i säkert, och
+<lb/>ögonen lyste som fosforved och morrhåren
+<lb/>stodo ut som styva borst – och nu var krav&#x00AD;
+<lb/>lingen fast igen och kravlade i väg, suddande
+<lb/>och rullande, ett litet blint, dödsdömt sönder&#x00AD;
+<pb n="40"/>
+<lb/>bitet svart bylte, och när det gick för långt
+<lb/>slog en slät tass ner, och så en vass tass – och
+<lb/>så tog missen tag med tunnspända käftar –
+<lb/>och släppte igen och tog i igen och klämde
+<lb/>till på det blinda byltets mitt, så att två vita,
+<lb/>trasade punkter nästan kröp ut och hängde i
+<lb/>ögonhåren, som klibbade av rött, smetigt –
+<lb/>och sen åt missan sitt knastrande mål – och så
+<lb/>var det en väg, en röd väg tillkavlad bland
+<lb/>hundäxing och våt, vild vallmo, och det såg
+<lb/>Olle och hörde hur missan åt och hur ungen
+<lb/>skrek därinne och hur käringen trätte. Och
+<lb/>solen höll just på att gå ner.</p>
+<p rend="indfirst">– Va ska vi egentligen göra här? Är det
+<lb/>någon besatt därinne? frågade Olle med hu&#x00AD;
+<lb/>vudet stött i händerna. Han plirade mellan
+<lb/>de smala fingrarna på Karigo, som inte låtsade
+<lb/>höra hånet, utan snodde gräs kring händerna,
+<lb/>teg och såg på missan som ätit upp och lämnat
+<lb/>något blått kvar i gräset.</p>
+<p rend="indfirst">– Ska vi sitta här länge? Är det inte
+<lb/>gärningars tid ännu, o du store trollkarl? Har
+<lb/>inte solen gått ner? Eller längtar den store
+<lb/>medecinmannen efter sin hembygds kvinnor,
+<lb/>säd och vin?</p>
+<pb n="41"/>
+<p rend="indfirst">– Håll käften! svarade Karigo eldhett.
+<lb/>Om du inte vore – om jag inte behövde –</p>
+<p rend="indfirst">– Om du inte behövde mäj, så, så skulle
+<lb/>du förvandla mäj till en sågbock. Men du
+<lb/>behöver mäj.</p>
+<p rend="indfirst">– Och ger däj föda och husrum för det,
+<lb/>så var tyst och l<choice><sic>ä</sic><corr resp="litlolo">å</corr></choice>t mäj tänka!</p>
+<p rend="indfirst">Olle sjönk ihop i butter ensamhet. Inte
+<lb/>ens nöjet att få skoja med någon. Jämt var
+<lb/>allt så bistert högtidligt, så dödgrinande all&#x00AD;
+<lb/>varligt.</p>
+<p rend="indfirst">Det var nog ingen sjuk som skulle botas
+<lb/>i kväll – åtminstone var då inte den där ungen
+<lb/>bröstsjuk, som gallskrek på det där viset. Men
+<lb/>Karigo – han såg så högtidlig ut som om
+<lb/>han tänkt mässa för råttans själ. Hå, hå, ja, ja!</p>
+<p rend="indfirst">– Jag tror allting är urfånigt! bröt han
+<lb/>ut så högt att Karigo släppte sina grässtrån.
+<lb/>Just då öppnades dörren och en sträv, öd&#x00AD;
+<lb/>mjuk röst sade:</p>
+<p rend="indfirst">– Ni skä full vassågoa å stig in.</p>
+<p rend="indfirst">Det gjorde de, och då skrek ungen ännu
+<lb/>värre, men teg, när Karigo hötte med sin
+<lb/>svarta näve.</p>
+<pb n="42"/>
+<p rend="indfirst">– Nu ska du titta – titta på sängarna
+<lb/>– titta riktigt – på bordet – i alla hörn –
+<lb/>i varenda springa – å kom sen å säj vad du
+<lb/>såg! viskade Karigo hest.</p>
+<p rend="indfirst">Olle lydde förvånad och nickade långsamt
+<lb/>med sitt ljusa huvud, gick sedan till sängen,
+<lb/>en svart brädlåda med halm och trasor i, gick
+<lb/>till spiseln, dörren, synade bordet, såg uppåt
+<lb/>taket och kom rysande tillbaka till trollkarlen.</p>
+<p rend="indfirst">– Alla djävlars bleka blod! viskade han
+<lb/>långsamt och eftertryckligt. Att folk kan bo
+<lb/>här!</p>
+<p rend="indfirst">– Dom kan ju inte, ilskades Karigo. För
+<lb/>då vore väl inte <hi rend="spaced">vi</hi> här!</p>
+<p rend="indfirst">Nu följde en lång, jämrande historia från
+<lb/>kvinnan – hur det åts blod – hur det kröp
+<lb/>och sög – hur det förstörde och pumpade
+<lb/>ut – hur de små klagade och stönade i söm&#x00AD;
+<lb/>nen. Och Karigo svor och sade att det där
+<lb/>visste han förut. Nu skulle han göra sitt, och
+<lb/>sedan gå, kvinnan fick ta sina barn och gå
+<lb/>ut, om hon ville och stanna inne om hon ville
+<lb/>se på, bara inte knysta ett ljud ur sin magra
+<lb/>strupe. Men hon stannade nyfiket och mo&#x00AD;
+<lb/>digt kvar, och satt blek och urskrapad i den
+<pb n="43"/>
+<lb/>svarta spiseln, med sina jämrande ungar om&#x00AD;
+<lb/>kring sig.</p>
+<p rend="indfirst">– Var ska jag sitta – så jag ser bäst?
+<lb/>frågade Olle intresserad.</p>
+<p rend="indfirst">– Sitt där vid dörren, på golvet – och
+<lb/>rör däj inte ur fläcken och tala inte ett ord,
+<lb/>innan du hör mig gå över golvet.</p>
+<p rend="indfirst">Han satte sig ner där Karigo anvisat plats.
+<lb/>Herregud – det var allvar, det här – det
+<lb/>var värre än döden – åh – millioner av röda
+<lb/>små, mitt i all denna vitt skrikande fattigdom!
+<lb/>Han satt med ryggen vänd mot Karigo och
+<lb/>såg ej vad han gjorde, om han nu ens gjorde
+<lb/>något; i alla fall rörde han sig inte.</p>
+<p rend="indfirst">Det blev långsamt att vänta. Dörren stod
+<lb/>öppen. En vind som gått över det våta gräset
+<lb/>kom in, fuktig och sval, och nedanför trappan
+<lb/>surrade en humla och en sparv kvittrade i
+<lb/>ett äppelträd. Så underligt! Satt Karigo också
+<lb/>på golvet bakom honom? Satt ännu kvin&#x00AD;
+<lb/>nan kvar med sina gulbleka ungar i den ga&#x00AD;
+<lb/>pande, ohyggliga spiseln? Han stirrade slött
+<lb/>mitt i den breda, ljusa randen, där nattens
+<lb/>mjuka ljus föll in genom den glappande
+<lb/>dörren.</p>
+<pb n="44"/>
+<p rend="indfirst">Han tänkte på allting, men undrade mest
+<lb/>om detta var rent nonsens. Då ryste han
+<lb/>plötsligt – där kommo de – där gick den
+<lb/>röda marschen! En linierak, röd strimma av
+<lb/>glänsande punkter, röda, blod – åh blod gick
+<lb/>ut i natten att ruttna i sumparna! Den röda
+<lb/>randen sprang allt snabbare – han tänkte
+<lb/>börja räkna dessa små röda pärlor – han var
+<lb/>rädd att de skulle vika av och han få de röda
+<lb/>över sig. Någonting kallt strök hans nacke
+<lb/>och hans rygg blev stel – men den röda linien
+<lb/>bara gick och gick – ut genom dörren, nedför
+<lb/>trappan – den skälvde, den darrade av lust
+<lb/>att komma i väg – han kunde inte se, vart
+<lb/>den gick, men här på golvet rann den och rann
+<lb/>– nu visste han vad det var – det var de
+<lb/>röda som gingo. Karigo hade förbannat dem
+<lb/>och bett dem gå att dö – varenda en hade en
+<lb/>droppe av dessa svultna ungars blod under
+<lb/>sitt spända skinn, och gick bort i natten med
+<lb/>det – åh, så många droppar, så glänsande
+<lb/>stinna – var det inte slut än? Var fanns
+<lb/>Karigo och varför var allt så tyst? Hur många
+<lb/>timmar skulle det ta’ innan alla gått? Det
+<lb/>skymde allt mer – och han kunde ej slita
+<pb n="45"/>
+<lb/>sina ögon från det röda bandet som rann –
+<lb/>som vandrade i väg med allt blodet – blodet
+<lb/>– han tänkte – det blodet har kostat – åh,
+<lb/>så många gånger fars rygg krökts och mors
+<lb/>armar slitit för maten som det blodet blivit
+<lb/>av – så hejdlöst mycket myllrande, blankt
+<lb/>blod ur halsar och kinder – och små blåa
+<lb/>smala vador! Så lustigt det rann ut i dör&#x00AD;
+<lb/>ren – aldrig vilade det – det var en röd,
+<lb/>springande linie, som löpte förbi – så has&#x00AD;
+<lb/>tigt – ett rött snöre – som kom så nära,
+<lb/>hans ögon – som skar ögonen – ett slipande,
+<lb/>rött, blodigt snöre, som skar i hans ögon
+<lb/>som en fil – en jättelång mask med röda
+<lb/>leder, som dansade i väg. – Han ryste –
+<lb/>fy fan att sitta här och se på allt det springande
+<lb/>blodet! Att inte kunna ta sina ögon från denna
+<lb/>löpande sträng av ont och rött! Han såg ej
+<lb/>golvet och dörren mer – men den ilande
+<lb/>strimman löpte förbi – förbi – den gjorde
+<lb/>ont – den stack, varför blev det aldrig slut?
+<lb/>Och så blev allt svart, som beck, och det röda,
+<lb/>det lyste som eld genom mörkret – – –  men
+<lb/>nu skulle det bli bättre, nu, för Keris-Kerstis
+<lb/>barn, nu, när inte allting gick åt till blod, som
+<pb n="46"/>
+<lb/>sögs upp och spändes in i dessa små, stinna
+<lb/>bollar – nu blev bättre att leva, nu – när
+<lb/>inte myriader små röda sög, sög små ungars
+<lb/>vita, vissna bröst – nu när de röda djäv&#x00AD;
+<lb/>larna gick ut i natten att dö i någon sump,
+<lb/>med små ungars och gammalt utlevat, svart
+<lb/>blod i sig – för sista gången! Åh – han ha&#x00AD;
+<lb/>tade dem – han ville springa upp och stampa
+<lb/>och trampa till smask den röda linien – han
+<lb/>knöt händerna, han rasade – han ville upp,
+<lb/>men kom ej ur fläcken – han ville böja sig
+<lb/>framåt och bita av den röda ormen, den ring&#x00AD;
+<lb/>lande blodormen – men något kallt som järn
+<lb/>kylde hans nacke och kroppen blev stelare –
+<lb/>han kom inte ur fläcken – ville sparka åt
+<lb/>det röda – ville hoppa och förbanna – åh,
+<lb/>så mycket ungt blod och gammalt, gulnat blod
+<lb/>ur gubbens skallrande knän – blod, som skulle
+<lb/>bli kött och ben och muskler och sköna krop&#x00AD;
+<lb/>par – nu gick det ändå ut i natten – nu skulle
+<lb/>här bli annat av – nu ingen liten skrikande
+<lb/>jämmer i mörk natt, när de röda kommo ur
+<lb/>vinklar och vrår för att leta efter mjukt kött
+<lb/>och varmt att dricka. I mörk natt ingen stö&#x00AD;
+<pb n="47"/>
+<lb/>nande gråt under den svarta fällen när de
+<lb/>små sög – – – </p>
+<p rend="indfirst">Och det röda rann, och det mörka vart
+<lb/>mörkare och allt var tyst, bara hur golvet fra&#x00AD;
+<lb/>sade under alla små heta fötter! Huj – så det
+<lb/>gick! Och ibland blåste det mjukt genom
+<lb/>mörkret, men det röda rann och rann. Satan!
+<lb/>Så skulle alla små röda djävlar springa –
+<lb/>nu blev det hälg här! Och inga prickar efter
+<lb/>utkramat blod på arm och hals – Gud i him&#x00AD;
+<lb/>len – skulle det aldrig stanna – var linien
+<lb/>ändlöst lång och natten den längsta på året?
+<lb/>Han slöt med våld ögonen och föll baklänges
+<lb/>mot det svarta plankgolvet.</p>
+<p rend="indfirst">Karigo ropade något och höll en hand
+<lb/>över hans ansikte. Då vaknade han.</p>
+<p rend="indfirst">– Ha alla gått? frågade han dödsblek.</p>
+<p rend="indfirst">Karigo skrattade.</p>
+<p rend="indfirst">– Vi går hem nu. Vi behöva varsin sup
+<lb/>– eller hur?</p>
+<p rend="indfirst">Olle reste sig skälvande om och såg kvin&#x00AD;
+<lb/>nan sitta i den kalla spiseln. Tre barn sova
+<lb/>på hällen, tätt tillvarandra. Han steg rag&#x00AD;
+<lb/>lande ut och kastade sig raklång i det våta
+<lb/>gräset.</p>
+<pb n="48"/>
+<p rend="indfirst">Över bärget kom morgonen, och den var
+<lb/>inte röd, den var gul. Det flammade som eld
+<lb/>av vaknande prästkragar och daggdrickande
+<lb/>vallmo, och det kom som ett rus i brisen,
+<lb/>östanfrån.</p>
+<lb/>
+<p rend="center"><lb:separator content="_" count="8"/></p>
+<lb/>
+<pb n="49"/>
+</div2>
+<div2 type="part" xml:id="Kap05">
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<head rend="big center chaptername">Midnatt vid Varma Källorna.</head>
+<lb/>
+<lg rend="small ind6"><lg rend="i"><l>”En gång blir källan en åker, där säden</l>
+<l rend="ind">böljar för vinden –</l>
+<l>ting, som man offrat vid midnatt skola</l>
+<l rend="ind">skrapa mot plöjarens plog.”</l></lg></lg>
+<lb/>
+<p rend="indfirst">Han stannade hänförd vid kanten av
+<lb/>Varma Källorna och såg drömmande ut över
+<lb/>myren. Så här såg majnatten ut, när den
+<lb/>skymde över trolldomens och andarnas äng,
+<lb/>och hela dalen mellan Kerasso och Vaimula
+<lb/>ångade som en jättegryta, och den milda luf&#x00AD;
+<lb/>ten smekte huden som ett ljumt bad!</p>
+<p rend="indfirst">Han satte sig på ett klipputsprång med
+<lb/>benen dinglande nedför stupet. Under hans
+<lb/>fötter skimrade de tre heliga källorna, där troll&#x00AD;
+<lb/>dom förövats i hundratals år, och dit ingen
+<lb/>gick för nöjes skull. Det var här Karigo »kastat
+<pb n="50"/>
+<lb/>ut» och besvurit de gula kärrens andar om
+<lb/>regn, och förbi här hade han i tre år gått »års&#x00AD;
+<lb/>gång». Detta var en helig och mystisk och
+<lb/>tilldragande plats, och här rökte Olle sin
+<lb/>pipa och lät benen svänga rytmiskt som
+<lb/>pendlar mot den mosslupna bergväggen.</p>
+<p rend="indfirst">Så småningom började han känna sig un&#x00AD;
+<lb/>derlig till mods. Högt bakom honom, nästan
+<lb/>mot himlen, låg gården där han sett den röda
+<lb/>marschen, och han försökte tänka över vad
+<lb/>som skett då. Det hade säkert hänt något som
+<lb/>ingen begrep – kanske om han stannade här
+<lb/>finge han se något mer som ingen begrep?
+<lb/>Varför hade det obegripliga en sådan lockelse,
+<lb/>och varför var han så vanvettigt rädd för
+<lb/>att få en historia naturligt förklarad? Han
+<lb/>kunde ej förstå det, och inte heller detta att
+<lb/>han saknade den spökrädsla, som till och med
+<lb/>de upplysta ibland besvärades av?</p>
+<p rend="indfirst">Det skymde allt mer och blev tröttsamt
+<lb/>att sitta däruppe. Han hoppade ner och sprang
+<lb/>lustigt ut på de gungande tuvorna. Foten
+<lb/>stötte emot något hårt och han tog upp det;
+<lb/>det var en liten kruka av hård, ärgig metall,
+<lb/>säkert koppar. Han skrapade den med slidkni&#x00AD;
+<pb n="51"/>
+<lb/>ven – ja, det var koppar, och i den hade
+<lb/>säkert jord från kyrkogården burits hit nå&#x00AD;
+<lb/>gon gång i tider som gått. Han skulle ta
+<lb/>den med sig hem och förvara den som ett
+<lb/>minne av denna natt. Så vacker den var –
+<lb/>med en hamrad, djup inskärning runt kanten.
+<lb/>Den var ej tung – han vägde den i handen
+<lb/>– rymde kanske ett halvt skålpund jord.</p>
+<p rend="indfirst">Små, spetsiga, gula lågor lyste ute på vatt&#x00AD;
+<lb/>net – det var näckrosorna, som ännu ej som&#x00AD;
+<lb/>nat, deras bladkronor stodo ännu som öppna
+<lb/>munnar, andande in de varma ångorna som
+<lb/>smögo över sumphålen därute. Han visste, att
+<lb/>om man efter midnatt speglade sig i det beck&#x00AD;
+<lb/>svarta vattnet, såg man inte sin egen bild, utan
+<lb/>sin älskades. Han började undra över om han
+<lb/>älskade någon. Eller vad den såg för något,
+<lb/>som aldrig älskat.</p>
+<p rend="indfirst">Han gick försiktigt längre ut, böjde sig
+<lb/>ned och började tvätta den gröna kopparkru&#x00AD;
+<lb/>kan i vattnet. På dess botten låg ännu något
+<lb/>svart, och lossnade och flöt ut och färgade
+<lb/>det grumliga vattnet grönt och vitt. Om detta
+<lb/>var riktig kyrkogårdsjord, då var det delar,
+<lb/>små smulor av döda, som nu blandade sig med
+<pb n="52"/>
+<lb/>vattnet. Så lustigt att tänka sig, att få en del
+<lb/>av sin kropp blandad med vattnet i en pöl,
+<lb/>långt borta från vägar och bygd! Men för
+<lb/>övrigt, så kanske det inte alls var något un&#x00AD;
+<lb/>derligt, bara litet mindre vanligt. Nu höll han
+<lb/>på att tappa krukan, och gjorde en rörelse för
+<lb/>att återvinna balansen. Stranden gungade
+<lb/>lustigt, och i nästa ögonblick låg han i vattnet.
+<lb/>Han skrattade, slängde den ärgiga krukan
+<lb/>långt upp på land, vände sig på rygg och
+<lb/>flöt sakta ut på djupet. Han var endast klädd
+<lb/>i skjorta och byxor, det besvärade inte myc&#x00AD;
+<lb/>ket. Så roligt att få ett bad! Förnöjd låg han
+<lb/>och kände det dyiga vattnet omsluta kroppen,
+<lb/>och kände doften av ungt gräs och björk
+<lb/>komma strykande ned från Kerasso. Det var
+<lb/>säkert hit de röda gått, när Karigo drev ut dem
+<lb/>ur den fattiga stugan. I detta vatten hade
+<lb/>allt samlat ont hällts ut i många hundra år.
+<lb/>Det var som att bada i trolldom!</p>
+<p rend="indfirst">Han kom upp, frustande som en delfin,
+<lb/>och kastade av sig kläderna, som kylde, när
+<lb/>han ej längre låg i vattnet, tog upp krukan,
+<lb/>och med de våta kläderna under armen gick
+<lb/>han ut mot fasta marken. Där var en hög
+<pb n="53"/>
+<lb/>häll av granit med gulbrun mossa, och
+<lb/>sedan han hängt upp kläderna på en halvtorr
+<lb/>gran, satte han sig med uppdragna knän på
+<lb/>hällen och stirrade ut över vattnet, som ännu
+<lb/>krusades av den oro, han åstadkommit där.
+<lb/>Det var säkert midnatt nu, inte en enda fågel
+<lb/>sjöng och myren var grå som tjärad se&#x00AD;
+<lb/>gelduk. Det var tre hål i duken, och de
+<lb/>glänste som oformliga ögon, stirrande upp
+<lb/>mot den violetta skyn, som så småningom
+<lb/>grånade.</p>
+<p rend="indfirst">Då hörde han steg och vände sig om.
+<lb/>En ensam man kom snabbt utför berget och
+<lb/>när han fick se en naken människa sittande
+<lb/>på hällen, blev han rädd och stannade, men
+<lb/>Olle, som genast sett att det var en nordskogs&#x00AD;
+<lb/>människa, ropade på honom och frågade efter
+<lb/>tändstickor.</p>
+<p rend="indfirst">Men karlen bara stirrade. Han visste, att
+<lb/>detta var en förbannad plats, där man såg
+<lb/>allt möjligt.</p>
+<p rend="indfirst">– Men så stig då hit, för djävulen, och
+<lb/>känn på min kropp, jag är allt en så riktig män&#x00AD;
+<lb/>niska som du, fast jag råkat ramla i, där borta,
+<pb n="54"/>
+<lb/>och måste torka mina kläder innan jag går
+<lb/>hem!</p>
+<p rend="indfirst">Nordskogsmannen såg inte så värst över&#x00AD;
+<lb/>tygad ut, men kom i alla fall litet närmare och
+<lb/>kastade med stor ängslan en ask tändstickor
+<lb/>bort till Olle, som helt glad nappade åt sig
+<lb/>den och ropade:</p>
+<p rend="indfirst">– Stor tack! Visst är jag ett spöke –
+<lb/>jag är ett jävla spöke. Inte finns det folk,
+<lb/>som sitter här nakna, inte!</p>
+<p rend="indfirst">Nu kände han lust att skoja med nord&#x00AD;
+<lb/>skogsmannen, som ännu höll sig på respekt&#x00AD;
+<lb/>fullt avstånd och tummade kolven till sin
+<lb/>bössa.</p>
+<p rend="indfirst">– Om du skjuter och skjuter fel, ropade
+<lb/>han skrattande, så stoppar jag ned dig i den
+<lb/>heliga källan!</p>
+<p rend="indfirst">När han sagt detta gav han skall som en
+<lb/>hund och satte i väg som en pil ut över my&#x00AD;
+<lb/>ren, tog sats och dök med ett väldigt hopp
+<lb/>rakt ner i det mörka vattnet. Nordskogsman&#x00AD;
+<lb/>nen stod som förstenad och stirrade på lan&#x00AD;
+<lb/>den, som ännu gungade efter Olles tunga
+<lb/>tramp, men så vände han och sprang jäm&#x00AD;
+<lb/>rande bort genom snåren, långt innan Olle
+<pb n="55"/>
+<lb/>ännu efter uppkomsten fått vattnet ur ögonen
+<lb/>var han försvunnen, för att i den lyssnande
+<lb/>bygden plantera ut en ny, underbar sä&#x00AD;
+<lb/>gen om de heliga källorna.</p>
+<p rend="indfirst">Midnatten var över, och han hade ännu
+<lb/>ej fått tid att se den älskades bild i vattnet.
+<lb/>Det började bli kyligare nu, och han måste
+<lb/>gå och tända eld och torka kläderna. När han
+<lb/>hoppade upp ur vattnet hörde han något som
+<lb/>liknade en vargs glävs långt borta på myren.
+<lb/>Det var människohunden, som drack källor&#x00AD;
+<lb/>nas vatten och gav skall i byn var gång en
+<lb/>människa skulle dö.</p>
+<p rend="indfirst">Nu snart flammade en eld borta på häl&#x00AD;
+<lb/>len, en liten sprakande brasa av torrkvistar,
+<lb/>som kastade ett främmande, gult ljus ut i
+<lb/>majnatten. På två snett ställda störar
+<lb/>hängde hans kläder medan han själv låg nära
+<lb/>elden. Hans vita kropp tecknade sig mjukt
+<lb/>mot mossan, och han såg sig själv ligga där
+<lb/>och önskade att någon mera sett, hur vackert
+<lb/>det var, att så blanda ihop sig med nat&#x00AD;
+<lb/>ten och våren och känna sig som en under&#x00AD;
+<lb/>bar del av det underbara, vilda skogslandet.
+<lb/>Hans tanke lekte med att helt förintas och
+<pb n="56"/>
+<lb/>gå upp i omgivningen – ja, om det kändes
+<lb/>så, om det kändes så att dö, då hade han ingen&#x00AD;
+<lb/>ting emot att dö i natt.</p>
+<p rend="indfirst">Han sträckte ut sig och låg med ena ar&#x00AD;
+<lb/>men under nacken och kroppen rytmiskt böjd,
+<lb/>tätt utmed hällen, drickande nattens svaga bris
+<lb/>med öppen mun. Han tyckte att ett rött moln
+<lb/>sam fort över himlen västerut, och från
+<lb/>molnet brusade en stark vind fram och
+<lb/>spelade som en orkester. Det kastade djupa
+<lb/>skuggor över myrens källor och skymde
+<lb/>bort Kerasso, och stugan däruppe, där de små
+<lb/>fattiga barnen sovo. Den röda skyn var så
+<lb/>vacker, och människolivet var så fult och fat&#x00AD;
+<lb/>tigt. Han hade läst om rika ädlingar, som
+<lb/>mitt uppe bland sina slavars fattigdom levde
+<lb/>sitt liv för sig själva, och gjorde det till en
+<lb/>njutning att leva. Han skrattade, han
+<lb/>själv var en sådan furste. Som drack
+<lb/>våren och livet som vin, under det allt
+<lb/>folket i de små gråa stugorna arbetade, svet&#x00AD;
+<lb/>tades och svulto och plågades av att finnas.</p>
+<p rend="indfirst">Nu ljusnade det över myren. En gammal
+<lb/>saga oroade honom, sagan om att han var en
+<lb/>fattig lösdrivare som ofta hungrade. Prästen i
+<pb n="57"/>
+<lb/>Vanhälla hade spått honom hungerdöden, om
+<lb/>han inte arbetade, doktorn dårhuset, ifall han
+<lb/>inte slutade med att tänka på spöken. Det var
+<lb/>så länge sedan allt detta hände. Nu var han
+<lb/>en konung, som låg vid en eld.</p>
+<p rend="indfirst">Alla de underliga människorna borta vid
+<lb/>kyrkan och skolan funnos ej mer. Han
+<lb/>hade intet med dem att göra. Han var en
+<lb/>son av trolldomslandet och skogen. Deras upp&#x00AD;
+<lb/>lysning bet inte på honom, han hade sitt rike
+<lb/>för sig, och han skulle aldrig skaffa sig några
+<lb/>kunskaper och bli lik dem.</p>
+<p rend="indfirst">Solen kom upp som en röd jätteros. Då
+<lb/>klädde han sig och gick med krukan i handen
+<lb/>längre in åt skogen.</p>
+<p rend="indfirst">Han hörde röster, stoj och skratt och bör&#x00AD;
+<lb/>jade förbanna folk, som inte respekterade käl&#x00AD;
+<lb/>lornas hälgd. Det hördes som en hel skock
+<lb/>av grovröstade barn.</p>
+<p rend="indfirst">Han gömde sig längre in i skogen för
+<lb/>att se vad detta oväsen betydde. Nedför Ke&#x00AD;
+<lb/>rasso stormade en flock barn och framför
+<lb/>dem gick en yngling, klädd som en jägare, men
+<lb/>utan bössa. Ynglingen tog upp en sång och
+<lb/>hela skaran sjöng:</p>
+<lb/>
+<pb n="58"/>
+<lg><l>»Vi gå över daggstänkta bärg,</l>
+<l>som lånat av smaragderna sin färg,</l>
+<l>å sorger ha vi inga, våra glada visor klinga,</l>
+<l>när vi gå över daggstänkta bärg.»</l></lg>
+<lb/>
+<p rend="indfirst">Han smög sig längre fram, försiktigt, spe&#x00AD;
+<lb/>jande. Nu stannade den gropkindade anföraren,
+<lb/>och tog upp en liten sten och visade den, och
+<lb/>alla de unga männen flockade sig omkring
+<lb/>honom. Han talade om stenen. Det var kalk&#x00AD;
+<lb/>spat, sade han, och alla barnen fingo
+<lb/>hålla den i handen och se hur kalkspat såg
+<lb/>ut. De hade varsin stav i handen. Nu pekade
+<lb/>den gropkindade ut mot källorna och sade nå&#x00AD;
+<lb/>got. Han blev allt mera högtidlig och hög&#x00AD;
+<lb/>röstad och höll en lång predikan om forna
+<lb/>dagars mörka vidskepelse. Och han slutade
+<lb/>med att föreslå, att de skulle sjunga sången
+<lb/>om frihet och ljus, och så sjöngo de igen
+<lb/>under det de återvände uppför berget.</p>
+<p rend="indfirst">De hade försvunnit och nu flög morgonen
+<lb/>hastigt fram och allt blev så nyktert. Den
+<lb/>ensamme satt länge kvar vid en mörk klippa,
+<lb/>som ännu hade kvar litet av nattens färg, och
+<lb/>for smekande med händerna över kopparkru&#x00AD;
+<lb/>kan. Han satte sig att stirra ned i dess bot&#x00AD;
+<pb n="59"/>
+<lb/>ten, och såg något vitt röra sig djupt ner.
+<lb/>Det var en liten mask, som fallit från något
+<lb/>blad högt uppe. Han skakade ut den och kros&#x00AD;
+<lb/>sade den med bottnen av krukan mot en sten.
+<lb/>Han gjorde det omedvetet och utan att känna
+<lb/>någon glädje över att döda. Han tänkte, att
+<lb/>den gropkindade möjligen visste vad den mas&#x00AD;
+<lb/>ken hetat på latin – men det kunde göra det
+<lb/>samma nu, när masken inte fanns mer.</p>
+<p rend="indfirst">Han gick på nytt ut till hällen,<choice><sic>.</sic><corr resp="litlolo"/></choice> där han
+<lb/>legat, och blåste liv i kolen efter elden. Se&#x00AD;
+<lb/>dan bar han på mera torrkvistar och lade sig
+<lb/>på nytt ner att röka i ensamheten.</p>
+<p rend="indfirst">Solen hade stigit högt redan, och källorna
+<lb/>därute lågo silverblanka och granna. Elden
+<lb/>värmde hans kropp och solen vad den
+<lb/>kunde. Han skulle snart gå hem, men först
+<lb/>tumla om i den största och djupaste av
+<lb/>källorna.</p>
+<p rend="indfirst">Han klädde av sig och lämnade kläderna
+<lb/>kvar vid elden, och i nästa minut stod han
+<lb/>på stranden och tog ett jättehopp ut i vattnet.
+<lb/>Sedan dök han, men kom inte så långt ner att
+<lb/>det ens blev riktigt mörkt, varför han hoppade
+<lb/>upp och gjorde om försöket. Nu kom han
+<pb n="60"/>
+<lb/>ner – han dök allt djupare – nu var mörkret
+<lb/>fullkomligt, och hans vidöppna ögon stirrade
+<lb/>som blinda ut i det svarta – allt längre ner
+<lb/>– detta var det fullkomliga mörkret – här
+<lb/>fanns ju ingen botten – då stötte hans huvud
+<lb/>mot något löst och mjukt som gav efter –
+<lb/>– den första bottnen – nu var det bara att
+<lb/>gå på – så skulle hans sägen ändas – han
+<lb/>grep med händerna, fick fatt i den lösa bott&#x00AD;
+<lb/>nen och hans lungor riktigt jämrade efter luft.
+<lb/>Ett ögonblick till, så skulle han nog börja
+<lb/>dricka detta grumliga vatten. Ett ögonblick
+<lb/>bara – det var lustigt att leka med döden –
+<lb/>och så kom han upp och låg om en stund som
+<lb/>en död på gungflyet, tvärs över en rotspira.
+<lb/>När han såg upp såg han ännu elden lysa
+<lb/>rött borta på granithällen.</p>
+<p rend="indfirst">Han reste sig och såg med ett matt le&#x00AD;
+<lb/>ende ned i vattnet.</p>
+<p rend="indfirst">– Jag lurade dig den här gången. Jag
+<lb/>var för stark, sade han.</p>
+<lb/>
+<p rend="center"><lb:separator content="_" count="8"/></p>
+<lb/>
+<pb n="61"/>
+</div2>
+<div2 type="poem" xml:id="Kap06">
+<head rend="big center chaptername">Spådomen om Varma Källorna.</head>
+<lb/>
+<lg><lg><l>Bleka och hatande män ha lutat sig ner över</l>
+<l rend="ind8">vattnet,</l>
+<l>läst i vårt grumliga djup och bedit om hem&#x00AD;</l>
+<l rend="ind8">liga ting.</l>
+<l>Öst av vårt heliga vatten över de blodade</l>
+<l rend="ind8">händerna,</l>
+<l>smitt vid vår dyiga våg på det ändlösa ödets</l>
+<l rend="ind8">ring.</l></lg>
+<lb/>
+<lg><l>Svarta och blanka vi sova tryggt mellan gun&#x00AD;</l>
+<l rend="ind8">gande öar,</l>
+<l>tyst tog vårt sväljande djup emot var nersö&#x00AD;</l>
+<l rend="ind8">lad kniv,</l>
+<l>tysta vi speglade skyn och stränder av gun&#x00AD;</l>
+<l rend="ind8">gande ängar,</l>
+<l>sakta gick jägarna hit att offra för byte och liv.</l></lg>
+<lb/>
+<lg><l>En gång var källan ett hav där i solvita stor&#x00AD;</l>
+<l rend="ind8">mar,</l>
+<l>irrisskimrande dansen gick yr genom skum&#x00AD;</l>
+<l rend="ind8">mande våg<choice><sic>,</sic><corr resp="litlolo">.</corr></choice></l>
+<pb n="62"/>
+<l>Då var sommaren het och blå och beskådad</l>
+<l rend="ind8">av ingen,</l>
+<l>osedd i vildhavet speglade åskmolnens svart&#x00AD;</l>
+<l rend="ind8">röda tåg.</l></lg>
+<lb/>
+<lg><l>En gång blir källan en åker, där säden böljar</l>
+<l rend="ind8">för vinden,</l>
+<l>ting som man offrat vid midnatt, skola skrapa</l>
+<l rend="ind8">mot plöjarens plog.</l>
+<l>Då skola människor offra till järnets och trum&#x00AD;</l>
+<l rend="ind8">mornas gudar<choice><sic>,</sic><corr resp="litlolo">.</corr></choice></l>
+<l>Då skall tomheten vaka och sorgen sjunga i</l>
+<l rend="ind8">skog.</l></lg></lg>
+<lb/>
+<p rend="center"><lb:separator content="_" count="8"/></p>
+<lb/>
+<pb n="63"/>
+</div2>
+<div2 type="part" xml:id="Kap07">
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<head rend="big center chaptername">Lasse Udd berättar.</head>
+<lb/>
+<p rend="indfirst">I kolarkojan vid Mattna sitter en gammal
+<lb/>gubbe framför den tända brasan varje kväll,
+<lb/>och varje kväll är Olle där, såvida han inte är
+<lb/>på bönemöte i stugan med de skymmande
+<lb/>asparna utanför fönstren, där vildmarksmis&#x00AD;
+<lb/>sionären Andersson predikar bättring och dom
+<lb/>bakom sina två flämtande, hemstöpta ljus.</p>
+<p rend="indfirst">Den här gubben, Lasse Udd, går aldrig
+<lb/>på bönemöten, han är aldrig rädd för do&#x00AD;
+<lb/>men eller för spöken, och hans trygga, bärg&#x00AD;
+<lb/>fasta lugn smittar även Olle, som annars bär
+<lb/>på ett hett och rolöst hjärta. Han vill ha reda
+<lb/>på vad Lasse tror – inte bara om spöken, utan
+<lb/>om död och dom och helvete, och allt som
+<lb/>Andersson predikar om, och han börjar med
+<pb n="64"/>
+<lb/>att fråga Lasse om han, vaken eller i dröm
+<lb/>eller nykter eller berusad sett ett spöke.</p>
+<p rend="indfirst">Elden brinner, blåsten sliter i dörren, och
+<lb/>granriset de sitta på, glänser som daggigt gräs
+<lb/>i maj. I ett hörn nära härden ligger en klump
+<lb/>murken lysved och glimmar.</p>
+<p rend="indfirst">– Ja, du gosse, jag har sett den onde
+<lb/>bränna opp sig själv!</p>
+<p rend="indfirst">– Den stora hunden med eldglimtande
+<lb/>käft, som Tor-Anders såg? Och som alla
+<lb/>människor ha sett?</p>
+<p rend="indfirst">– Nej, inte den – den här var en
+<lb/>flamma av eld, den hade skapnad som en
+<lb/>människa och lyste grönt.</p>
+<p rend="indfirst">Olle såg mot hörnet, där lysveden låg.
+<lb/>Där lyste också grönt.</p>
+<p rend="indfirst">– Det är längesen nu, det hör till det
+<lb/>man inte glömmer. Vet du var människoste&#x00AD;
+<lb/>nen på Svarta bärget är, den stenen där Kumi
+<lb/>från Vaxhälla offrade ett får för att få nya
+<lb/>tänder, därför att en spåkäring sagt, att det
+<lb/>var lika omöjligt för honom att lyckas här i
+<lb/>världen som att få nya tänder vid femtio år
+<lb/>– den stenen liknar en femfingrad hand –
+<lb/>nu var jag trött och satte mig att vila där –
+<pb n="65"/>
+<lb/>det var mitt i natten och bra nog tät skym&#x00AD;
+<lb/>ning, men bra nog framlidet på våren, så det
+<lb/>var inte beckmörkt. Jag såg någonting, som
+<lb/>liknade ett vitt papper mot den mörka mos&#x00AD;
+<lb/>san några alnar bort, och det satt jag och
+<lb/>tittade på, för jag hade just ingenting annat
+<lb/>att titta på, och när det gått om en stund, såg
+<lb/>jag, hur den stora stenen vart mindre och
+<lb/>mindre och krympte ihop, tills den liknade en
+<lb/>liten vit hand, och handen höll en liten grön
+<lb/>låga mot det vita, och där var bara en hand
+<lb/>och när den vita fläcken börjat brinna, för&#x00AD;
+<lb/>svann handen, och nu brann allt med en smal,
+<lb/>slickande låga och en lång, grågrön rök som
+<lb/>ur en jätterökpipa, och det vart till ungefär
+<lb/>en mans höjd, och sedan brann röken,
+<lb/>slingrade och ormade och brann. Jag tänkte:
+<lb/>det finns malm i bärget. Så var i den gröna
+<lb/>elden en underlig, slingrande kropp, som oupp&#x00AD;
+<lb/>hörligen steg opp ur bärget och dansade och
+<lb/>brann, och förbrändes till rök och sedan brann
+<lb/>röken – det var ett huvud av rök och grön
+<lb/>låga med vita, blinda ögon som urgrävt ler
+<lb/>och med horngrönt hår. Jag minns – det var
+<lb/>så, som jag säger – allt som var mörkt på
+<pb n="66"/>
+<lb/>en människa var vitt och gräsgrönt på <hi rend="spaced">det</hi> –
+<lb/>och när en lång arm slingrade säj ut från krop&#x00AD;
+<lb/>pen, vart där en svart grop efter, en fåra med
+<lb/>vita streck i – och allt vart mörkare och
+<lb/>mörkare och försvann, och då gick jag nära
+<lb/>människostenen för att se, men där fanns intet
+<lb/>vitt papper, och när jag sparkade i mossan,
+<lb/>hittade jag bara benen efter en duva, som hö&#x00AD;
+<lb/>ken hade hackat köttet av för länge, länge
+<lb/>sedan.</p>
+<p rend="indfirst">Olle satt och såg på en gråsten ovanför
+<lb/>kojhärden. Där kröp just nu en envingad fluga
+<lb/>över den. Hon hade blivit väckt av värmen
+<lb/>och illa bränd, men hon kravlade lustigt på
+<lb/>för att komma undan livets besvärligheter.</p>
+<p rend="indfirst">– Det var konstigt, sade han fundersamt.
+<lb/>Skräckvitt och spökgrönt och en död duvas
+<lb/>bleka ben. Underliga voro i sanning tingen
+<lb/>och tingens skuggor.</p>
+<p rend="indfirst">De sutto en stund och rökte i stilla frid
+<lb/>och hörde på vinden, och när Olle såg, hur
+<lb/>den stackars flugan föll i elden, tände han
+<lb/>en ny pipa och berättade:</p>
+<p rend="indfirst">– Jag var åt Rävsjöhållet och hörde ef&#x00AD;
+<pb n="67"/>
+<lb/>ter arbete där, du vet, den där tre mil långa,
+<lb/>ödsliga vägen, över Stenhara och Stora och
+<lb/>Lilla Vargbärget, och Vargbärget är den enda
+<lb/>stugan på hela vägen. Jag fick inget att äta
+<lb/>på ett par dar – hur det nu var, var nära att
+<lb/>stupa på hemvägen. Mitt i natten kom jag till
+<lb/>Vargbärget – det var sent på sommaren och
+<lb/>bra skumt, men genom granskogen såg jag
+<lb/>ljus lysa ur stugfönstret och var glad att folk
+<lb/>var oppe, jag skulle gå in och tigga en bröd&#x00AD;
+<lb/>kant, jag skulle be dom vara hyggliga – så
+<lb/>skulle jag göra dom en tjänst en annan gång
+<lb/>– och så visste jag, att det var rysligt fattigt
+<lb/>folk, så jag var säker på att få mat där, fast
+<lb/>jag inte kände dom – och jag släpade mig
+<lb/>fram till fönstret och hur trött jag än var,
+<lb/>var jag tvungen att stanna och se efter, vad
+<lb/>det var för ett hälsikes stök därinne så sent
+<lb/>på natten, folk som skymtade förbi fönstret
+<lb/>som hastiga skuggor, och folk som talade hårt
+<lb/>och trätte. Jag såg in – en gammal gumma
+<lb/>satt vid spiseln och ungfolket sysslade med
+<lb/>bak – mitt i natten – nå – det var ju inte
+<lb/>så underligt – jag såg, att ugnen var eldad,
+<lb/>degtråget stod vid spiseln och småttingarna
+<pb n="68"/>
+<lb/>lekte på golvet – det var värre att förstå<choice><sic/><corr resp="litlolo">.</corr></choice>
+<lb/>Och jag hörde unga far säja till unga mor:
+<lb/>»Ska du baka vitt brö nu igen – tycker du
+<lb/>det är kalastider nu?» Och jag såg unga mors
+<lb/>svarta ögon, när hon vände säj om och sva&#x00AD;
+<lb/>rade: »Nog räcker dä i din tid – så håll
+<lb/>mun!» För min del gav jag tusan i deras
+<lb/>gräl – nu skulle jag få varmt bröd – och
+<lb/>det var huvudsaken, och grubblade inte vidare
+<lb/>utan gick in i farstun, där var ingen dörr för
+<lb/>den utan bara ett stycke säckväv, som hängde
+<lb/>i trasor, och jag knackade hårt på dörren och
+<lb/>väntade på svar, men ingen svarade – jag
+<lb/>lyssnade, men inte ett ljud. Och så steg jag in
+<lb/>– dom blev rädda och teg, tänkte jag, kanske
+<lb/>dom trodde det var tattare som kom – – </p>
+<p rend="indfirst">Jag väntade en hel ström av ljus emot
+<lb/>mig – tänkte, att lampan slocknade av dra&#x00AD;
+<lb/>get, och jag gick in och hälsade god afton
+<lb/>hårt och rent genom mörkret. Men där var
+<lb/>ingen lukt av bak, bara utdunstningar från so&#x00AD;
+<lb/>vande, och jag hörde en man snarka hårt
+<lb/>borta vid västra väggen – och – jag smög
+<lb/>mig ut helt tyst och gick min väg och kom till
+<pb n="69"/>
+<lb/>ett rovland, där jag stillade den värsta hun&#x00AD;
+<lb/>gern.</p>
+<p rend="indfirst">Lasse såg slött in i elden. Olle talade:</p>
+<p rend="indfirst">– Det är inte så underligt, som man
+<lb/>skulle kunna tro, det har nog sin riktiga för&#x00AD;
+<lb/>klaring, men nu för tiden törs folk inte tänka
+<lb/>på det som dom inte kan förklara med natur&#x00AD;
+<lb/>läran.</p>
+<p rend="indfirst">– Dä kom en liten en – han var väl
+<lb/>bara ett par fot hög, å gick över snön vid
+<lb/>Kejso-Lasso – å jag hälsade, men han
+<lb/>svarade inte, men när jag kom nära, sa jag:
+<lb/>God kväll, är du ute å går så sent? men
+<lb/>han svara ingenting, jag såg också i snön,
+<lb/>men där blev inga spår efter han – men det
+<lb/>här var bara en början på historien, å en vecka
+<lb/>efter var farbror min död, å så en månad
+<lb/>efter börja han gå å skrota hemma, å vi
+<lb/>fick aldrig fre för’n – å jag kan inte lägga ut
+<lb/>dä som du kan, å ingen tror det här – han
+<lb/>sa’, att snart är det svart kväll för däj mä, å
+<lb/>att jag snart skulle slippa ifrån det här – jag
+<lb/>brukar aldrig ljuga annars – varför skulle jag
+<lb/>ljuga nu? Som sakt – varenda natt, å ibland
+<lb/>mitt på ljusa dan, var han i rummet – å
+<pb n="70"/>
+<lb/>han skratta å grät å var som om han le&#x00AD;
+<lb/>vat –</p>
+<p rend="indfirst">– Nu för tiden tror dom inte – jo, kan&#x00AD;
+<lb/>ske dom inte är så säkra, som det låter – men
+<lb/>dom skäms för dä – sir du, att tro på det som
+<lb/>inte kan vägas som sill å mätas med me&#x00AD;
+<lb/>terstock nu – det är som att ha skabb i skal&#x00AD;
+<lb/>len: dom vill inte gärna ta av mössan, för
+<lb/>då syns skorven, å på det viset får vi allri
+<lb/>si annat än mössan – men vi kan ge oss den
+<lb/>på att skorven sitter där, lika förbannat!</p>
+<p rend="indfirst">När Lasse sagt detta kröp han i hörnet
+<lb/>och sög sakta sin snörvlande pipa. Olle satt
+<lb/>länge och såg, hur allt därinne blev mörkare.
+<lb/>Men när han tog avsked, satte sig Lasse upp
+<lb/>stödd på armbågen och sade:</p>
+<p rend="indfirst">– Jag bryr mej inte om sånt där. Får
+<lb/>jag bara vara i fre’ för spöken tills jag blir ett
+<lb/>spöke själv, så må det vara hänt. Men jag
+<lb/>vet nog – nog har jag sitt – allti – inte
+<lb/>lurar dom mäj, inte!</p>
+<lb/>
+<p rend="center"><lb:separator content="_" count="8"/></p>
+<lb/>
+<pb n="71"/>
+</div2>
+<div2 type="part" xml:id="Kap08">
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<head rend="big center chaptername">Sällskapsliv.</head>
+<lb/>
+<p rend="indfirst">Skolsalen hade varit festsmyckad och över&#x00AD;
+<lb/>lärare Domquist hade hållit föredrag över äm&#x00AD;
+<lb/>net »En sund själ i en sund kropp». Olle hade
+<lb/>suttit i ett hörn av den enbuskprydda salen
+<lb/>och sett talarens ansikte, som passade till före&#x00AD;
+<lb/>draget ungefär lika bra som tranbär till söt
+<lb/>mjölk.</p>
+<p rend="indfirst">Föreläsningsföreningen i kyrkbyn hade
+<lb/>inte råd att kosta på Finnmarken andra före&#x00AD;
+<lb/>läsare, och när det var med ett tjog skioptikon&#x00AD;
+<lb/>bilder och uppläsning ur Topelius’, »Ljung»
+<lb/>på slutet, kunde det väl duga, och finnarna
+<lb/>voro minst av allt bortskämda på vad Dom&#x00AD;
+<lb/>quist kallade andlig föda. Gubbar och gum&#x00AD;
+<lb/>mor och små barn hade roligt åt bilderna, som
+<pb n="72"/>
+<lb/>Domquist visade, och sedan var det grafiska
+<lb/>tabeller på slutet, som visade, hur förfärligt
+<lb/>allting steg, när det steg, och hur det sjönk,
+<lb/>när det sjönk, och alldeles på slutet en våd&#x00AD;
+<lb/>ligt stor öltunna bredvid en förfärligt liten råg&#x00AD;
+<lb/>brödskaka, som visade, att den lilla kakan var
+<lb/>mycket kraftigare än den stora tunnan. Och
+<lb/>sedan sjöngs »du gamla, du fria» och följet
+<lb/>tågade ut och det var bjudning inne hos
+<lb/>lärarinnan och Olle var också bjuden.</p>
+<p rend="indfirst">– – – </p>
+<p rend="indfirst">Det var ett lågt rum med vita, kalla möb&#x00AD;
+<lb/>ler och lika vita gardiner för de låga fönstren.</p>
+<p rend="indfirst">Samlingen var inte stor, men räckte till.
+<lb/>Utom Domquist och Olle var det fyra lä&#x00AD;
+<lb/>rarinnor, alla lika unga och lika nyss komna
+<lb/>till trakten, Domquists son, Herman, som nyss
+<lb/>blivit kontorsbiträde, samt fru Domquist, vörd&#x00AD;
+<lb/>nadsvärd och grå och talande med len och
+<lb/>löpande röst. Hon bar en schalett om ax&#x00AD;
+<lb/>larna och en mängd bruna kammar i håret.
+<lb/>Hon var en bruksförvaltares dotter och kunde
+<lb/>skicka sig även i prästfamiljen.</p>
+<p rend="indfirst">Där tillämpades ingen rangordning vid
+<lb/>bordet, så att Olle kom att sitta mellan Dom&#x00AD;
+<pb n="73"/>
+<lb/>quist och en liten kvittrande lärarinna, som
+<lb/>bjöd omkring kakor. Domquist måste abso&#x00AD;
+<lb/>lut äta den ena sockersållade pepparkakan efter
+<lb/>den andra, fast han försäkrade, att han hade
+<lb/>ihåliga tänder, som inte tålde smetet, och fast
+<lb/>Olle påstod, att han redan ätit sex, måste han
+<lb/>(med tillfredsställelse) sluka även den sjunde.
+<lb/>Kring bordet böljade skyar av ljust och skärt
+<lb/>bomullstyg, och mitt emot såg han den korrekt
+<lb/>svartklädde kontoristens mörka kropp sticka
+<lb/>upp lodrätt, som ett järnspett i en blom&#x00AD;
+<lb/>mande äng. Hans tal var endast ja och nej
+<lb/>till alla utom flickan till vänster, på vilken
+<lb/>han ibland såg med sitt ena öga och sade:
+<lb/>»tackar!» Och när hans mor räckte honom
+<lb/>sockerskålen, såg han på henne med det andra
+<lb/>ögat, men sade ingenting, och Domquists stora
+<lb/>arm med en knäppande manschett vid arm&#x00AD;
+<lb/>leden var alltid i vägen för Olle, när han
+<lb/>skulle ta något, och Domquist kallade alltid
+<lb/>Olle »unge man», när han tilltalade honom och
+<lb/>när Olle sade något, så att allas ögon riktades
+<lb/>mot honom, spred sig en imma av försagdhet
+<lb/>kring alla dessa vemodsmilda ögon och kring
+<lb/>allt luftigt bomullstyg, och det blev så tyst då,
+<pb n="74"/>
+<lb/>ty Olle hade en så smutsig krage. Men det
+<lb/>var bra, så länge man fick sitta vid bordet
+<lb/>ändå, tänkte han, för då såg dom inte skorna.</p>
+<p rend="indfirst">Det var undanstökat till sist, efter en halv
+<lb/>timmes nästan ordlöst drickande och tug&#x00AD;
+<lb/>gande, blåsande och smaskande, men man fick
+<lb/>ju inte ge sig i väg på en gång ändå, för
+<lb/>då såg det ut, som om man inte trivdes. Åtta
+<lb/>pinnstolar flyttades samtidigt bakåt och skra&#x00AD;
+<lb/>pade mot golvet och åtta ansikten spejade
+<lb/>efter värdinnan, som kvittrade »ingen orsak»
+<lb/>åt varje huvud som nickade och varje rygg
+<lb/>som krympte och strax styvnade igen. Och
+<lb/>det gällde att placera sig igen, och Olle kröp
+<lb/>bort till ett sybord i ett hörn; där fick han
+<lb/>plats för stolen och där fanns en bok som
+<lb/>hette: »Vad en ogift flicka bör veta», och en
+<lb/>annan som hette: »Skepp som mötas i nat&#x00AD;
+<lb/>ten», och en tredje som var populärvetenskap&#x00AD;
+<lb/>lig och handlade om tiden före alltings ska&#x00AD;
+<lb/>pelse. Det gick an att slå ihjäl en stund med
+<lb/>den. När han bläddrat i den, och med myc&#x00AD;
+<lb/>ket djup min låtsat fastna på en av sidorna,
+<lb/>hörde han ett mummel myllra sig ut från
+<pb n="75"/>
+<lb/>hörnen av rummet. Och mumlet steg till ett
+<lb/>mulet sorl, och något som liknade samtal
+<lb/>kunde urskiljas ibland, och någon särskilt vass
+<lb/>röst skar upp i det mulna ibland, och Olle
+<lb/>var hela tiden medveten om att någon såg
+<lb/>på hans grova skor, som han försökte dra in
+<lb/>under stolen, något som inte gick an, för det
+<lb/>satt en slå på tvären.</p>
+<p rend="indfirst">Domquist hade stått en lång stund vid
+<lb/>kakelugnen och talat om några farliga baciller,
+<lb/>som hette Perpe eus tuba, och som liknade en
+<lb/>kringvriden och åter rätt vänd korkskruv,
+<lb/>fast mycket mindre, förstås. Han kunde också
+<lb/>tala vackert om stjärnorna, och det tyckte Olle
+<lb/>var roligare, varför han såg upp från boken
+<lb/>och sade:</p>
+<p rend="indfirst">– Dessa oändliga rymder är i alla fall
+<lb/>ganska häpnadsväckande.</p>
+<p rend="indfirst">Domquist vände sig helt hastigt.</p>
+<p rend="indfirst">– Ni menar stjärnerymden, unge man,
+<lb/>sade han, belåtet lekande med sina rockskört.
+<lb/>Jag har verkligen haft förmånen studera
+<lb/>dessa saker just under den lärde mans
+<lb/>ledning, som skrivit just den bok, ni där hål&#x00AD;
+<pb n="76"/>
+<lb/>ler i er hand. En mycket stor förmåga, ett
+<lb/>gott huvud – och därtill en fattig yngling,
+<lb/>som <hi rend="spaced">arbetat</hi> sig upp.</p>
+<p rend="indfirst">– Det oändligt stora och det oändligt
+<lb/>lilla, fortsatte han med begrundande ton, är
+<lb/>det mest underbara. Jag talade nyss om ba&#x00AD;
+<lb/>ciller. Jag talade om dem, därför att de äro
+<lb/>så små. De tillhöra det oändligt lilla. Å andra
+<lb/>sidan hava vi dessa omätliga himlakroppar,
+<lb/>om vilka vi aldrig kunna göra oss en riktig
+<lb/>föreställning. De äro det oändligt stora.</p>
+<p rend="indfirst">– Vilken av dessa rymdens strålande
+<lb/>vandrare älskar ni mest, herr Domquist? frå&#x00AD;
+<lb/>gade Olle med en djupt allvarlig gungande
+<lb/>rörelse på sitt unga huvud.</p>
+<p rend="indfirst">– Så frågar den som ännu ej lämnat det
+<lb/>enskilda för att övergå till de allt omfattande
+<lb/>begreppen, svarade Domquist, i det han såg
+<lb/>omkring sig med minen av en lärare bland
+<lb/>mycket små barn. Det gäller här som alltid
+<lb/>att söka sig fram till helhetsbegreppen, eller
+<lb/>med andra, kanske något svårförståeligare ord,
+<lb/>uppfattningen <hi rend="spaced">in summa</hi> – fast det må jag
+<lb/>säga: Mars intresserar mig ofantligt.</p>
+<pb n="77"/>
+<p rend="indfirst">– Och vad är er åsikt om kanalerna?</p>
+<p rend="indfirst">– Kanalerna, unge man, äro säkert de
+<lb/>bästa stöd vi ha för hypotesen om mänsklig
+<lb/>verksamhet där uppe. När jag går allena ute
+<lb/>i de mörka kvällarna och skådar dit upp, tän&#x00AD;
+<lb/>ker jag ofta på om paradiset månde vara be&#x00AD;
+<lb/>läget där.</p>
+<p rend="indfirst">Han blinkade skälmskt mot fröken Hamm,
+<lb/>när han sade detta, vilket skulle betyda,
+<lb/>att han på grund av sin moderna upplysning
+<lb/>aldrig nämnde paradiset annat än på skämt.</p>
+<p rend="indfirst">– Men det skulle ju kunna hända att de
+<lb/>där rutorna i Mars bara är planetens grad&#x00AD;
+<lb/>nät, inflätade Olle snabbt och nervöst.</p>
+<p rend="indfirst">– I alla fall torde de antyda någon verk&#x00AD;
+<lb/>samhet, fortfor Domquist, utan att låtsas höra
+<lb/>skämtet. Han grep eldgaffeln och rörde ner&#x00AD;
+<lb/>vöst i brasan.</p>
+<p rend="indfirst">– Oh, ja, riktiga kanaler – riktig verk&#x00AD;
+<lb/>samhet, utropade fröken Hamm. Hon fattade
+<lb/>ett vilt beslut att kasta in samtalet
+<lb/>på något annat. Men nu ska Olle berätta
+<lb/>en historia. Jag har hört han ska berätta så
+<lb/>bra, tillade hon bedjande.</p>
+<pb n="78"/>
+<p rend="indfirst">Olle tittade hastigt på Domquist, som
+<lb/>hastigt tittade på klockan, och »oh, ja» skreks
+<lb/>det från fem hörn. »En riktigt ryslig spök&#x00AD;
+<lb/>historia!»</p>
+<p rend="indfirst">Han bläddrade förvirrad i boken och smög
+<lb/>sig att titta på Domquist, som högg i:</p>
+<p rend="indfirst">– Man kan ju inte berätta, om man inte
+<lb/>är i den rätta stämningen. Om vi skulle gå
+<lb/>ut och se på detta härliga månljus vari hela
+<lb/>nejden badar.</p>
+<p rend="indfirst">Men det blev genast protester. Lampan
+<lb/>skulle släckas och bara brasan lysa. Man
+<lb/>skulle sätta sig på golvet var som helst och
+<lb/>Olle <hi rend="spaced">måste</hi> berätta. Och så blev det, lampan
+<lb/>släcktes i en hast och brasan ordnades och
+<lb/>Domquist fick inte gå, fast han redan var på
+<lb/>väg. Han måste sätta sig, men inte på gol&#x00AD;
+<lb/>vet utan på en stol, vilket ansågs på grund av
+<lb/>hans mognade ålder och ansvarsfulla kallelse
+<lb/>honom mera värdigt.</p>
+<p rend="indfirst">Olle drog sin stol nära brasan och såg
+<lb/>oroligt omkring sig. Jo, de hade ställt till!
+<lb/>Där sutto de nu, eller lågo, som hopkrupna
+<lb/>vita höns.</p>
+<pb n="79"/>
+<p rend="indfirst">Vita höns!</p>
+<p rend="indfirst">Men han måste väl börja nu. Och så
+<lb/>stirrade han in i glöden och började historien
+<lb/>om skolhuset i Dombo.</p>
+<p rend="indfirst">– Den här historien är det farligt att tala
+<lb/>om, för den har det felet att inte vara så gam&#x00AD;
+<lb/>mal, att den kan räknas till kulturhistorien.
+<lb/>Han blinkade åt Domquist och skrattade
+<lb/>mycket dämpat.</p>
+<p rend="indfirst">– Det var vid Dombo fattighus – ni vet
+<lb/>väl, var det är – annars, om ni inte vet, så
+<lb/>ligger det ungefär, där solen går upp i maj
+<lb/>månad, fast inte fullt så långt bort. Där är
+<lb/>ett skolhus, som hör fattiggården till, ett stort,
+<lb/>högt skolhus med gammalmodigt tegel på ta&#x00AD;
+<lb/>ket, och ett lågt, brett fattighus är det, med
+<lb/>mossigt spåntak och lortiga trappor och
+<lb/>skumma fönster. Och det kan just göra det&#x00AD;
+<lb/>samma, för dom som kommer dit ä’ inte vana
+<lb/>just vid nåra finesser i fråga om bostad – det
+<lb/>hör inte hit – där bor många kvinnor med
+<lb/>barn utan far, och många gamla kvinnor och
+<lb/>gamla män och alla är just jämnt upp så pass
+<lb/>härdade i fattigdom förut, så det biter ingen&#x00AD;
+<pb n="80"/>
+<lb/>ting på dom – annat än det alldeles rakt
+<lb/>förbannat ovanliga.</p>
+<p rend="indfirst">Se så! Nu gick han på och svor och var
+<lb/>ohövlig mitt i societeten igen! Dom mum&#x00AD;
+<lb/>lade – han fick lov skynda på med historien,
+<lb/>så dom glömde bort det här. Han letade för&#x00AD;
+<lb/>tvivlat i västfickan med högra handens tumme
+<lb/>och pekfinger.</p>
+<p rend="indfirst">– Och dit kom en ny lärarinna, och det
+<lb/>ska ni inte fästa er vid, för det här handlar
+<lb/>inte om lärarinnor, utan om spöken. Den här
+<lb/>lärarinnan var dum – bry er inte om det, för
+<lb/>det var bara hon, som var dum, och inte var
+<lb/>hon så värst ung heller, och inte så värst vac&#x00AD;
+<lb/>ker, men det rår ju inte jag för, och så var
+<lb/>hon övertygad om att hon var en rent av
+<lb/>hälsikes specialist på uppfostran och det är
+<lb/>ju möjligt att hon var (nu svor jag igen) och
+<lb/>det var i alla fall en liten fattig flicka, som
+<lb/>gick i den här skolan. Och hon hade ingen
+<lb/>mor, bara en mormor – och så hade hon så
+<lb/>där skygga ögon som somliga små ha, jag
+<lb/>vet inte varför. Och så hade hon svårt för
+<lb/>att lära, kunde aldrig läxorna – – </p>
+<pb n="81"/>
+<p rend="indfirst">Han letade på nytt i västfickan och såg
+<lb/>sig om med hjälplös iver.</p>
+<p rend="indfirst">– Som sagt, aldrig har det funnes en
+<lb/>dummare barnunge än den, inte, hon var idiot,
+<lb/>förstår ni – – tråkigt ord, det där, men det
+<lb/>måtte vara tråkigare att vara det – – och den
+<lb/>här lärarinnan var sträng som Gud fader och
+<lb/>kall som järn om vintern, och fast nu mormo&#x00AD;
+<lb/>dern grät och bad och gjorde vad hon kunde,
+<lb/>så begrep ändå inte lärarinnan riktigt, hur
+<lb/>fallet skulle behandlas – – men det är ju
+<lb/>förklarligt, för seiminariekursen är ju fyraårig
+<lb/>och på den tiden hinner en glömma mycke’
+<lb/>av det här livet, som en kan förut, och det
+<lb/>fanns en likbod vid fattighuset, och den hade
+<lb/>vitkalkade väggar inuti, men inga fönster, utan
+<lb/>var mörk som en riktig grav, och nu hittade
+<lb/>lärarinnan på att stänga in den här lilla flic&#x00AD;
+<lb/>kan där, för att hon skulle få bättre lust att
+<lb/>lära sig, sedan – det skulle bli ett straff, som
+<lb/>rev och bet – och det hände sig, att hon
+<lb/>släpade dit den lilla – hon skrek mot i dör&#x00AD;
+<lb/>ren förstås, men vart inslängd –</p>
+<p rend="indfirst">Kan ni tänka er, hur det var? Men det
+<lb/>kan ni inte – – jag vet hur det var, för jag
+<pb n="82"/>
+<lb/>har känt det – – där är det knappnålar som
+<lb/>ramlat ur svepningar, full hela golvet – och
+<lb/>där är inbiten lukt av kött som ruttnat – –
+<lb/>och där står en stor bår i ett hörn – – och
+<lb/>där ligger en hög gamla blekblåa lakan, och
+<lb/>allt det där har ett barn stått i den öppna
+<lb/>dörren en solskensdag och <choice><sic>titta</sic><corr resp="litlolo">tittat</corr></choice> in på och
+<lb/>låtit sin tanke leka med alla dessa föremål
+<lb/>och ryst och tänkt på den största av alla fasor
+<lb/>– – att vara tvungen vara ensam här – och
+<lb/>ni säjer det här var ju ingen märkvärdig hi&#x00AD;
+<lb/>storia, men jag tror, det är den märkvärdigaste
+<lb/>jag kan – och så, att handlöst slängas dit in
+<lb/>och få dörren stängd efter sig – det är att
+<lb/>linda in en liten barnunges själ i ett sådant
+<lb/>där lakan – att sticka i en liten virrig hjärna
+<lb/>med alla nålar, som ramlat ur alla gamla svep&#x00AD;
+<lb/>dukar – och om en hinner tänka, så kom&#x00AD;
+<lb/>mer hundra historier, som tisslats och tasslats
+<lb/>av käringar vid gårdens brunn i halvmörkret,
+<lb/>när allt är inrullat i fasa och små barn lyssna
+<lb/>– och som bitit sig fast i en dimmig liten
+<lb/>hjärna och gjort den slö och rädd – nej, så
+<lb/>mycket på en gång kan jag inte tala om och
+<lb/>inte ni tänka er – när dörren slogs i lås,
+<pb n="83"/>
+<lb/>föll hon ihop och då stod hennes hjärta så
+<lb/>stilla, som stenarna står på alla gravarna i
+<lb/>Bro – och när dom släppte ut henne tittade
+<lb/>hon mörkt och vilt med ögonen – och det
+<lb/>fanns ingen hjälp mer och där var bara en
+<lb/>gammal gumma kvar, som höll på att dö och
+<lb/>innan hon gjorde det, förbannade hon allt
+<lb/>och alla, så att inte ens föreståndaren uthär&#x00AD;
+<lb/>dade att vara vid bädden, utan skickade bud
+<lb/>på lärarinnan och sade, att den gamla ville
+<lb/>tala med henne – och hon kom. Det var
+<lb/>den lillas mormor, som låg där och förban&#x00AD;
+<lb/>nade, och när hon kom dit reste den gamla
+<lb/>sig opp i sängen och skrek vid alla djävlar
+<lb/>som fanns i dödsriket att hon skulle hämnas.
+<lb/>Han letade i fickorna. Inte ens en bit
+<lb/>tobak att stilla den värsta nikotinhungern med.
+<lb/>Han började tycka illa om sig själv, men fort&#x00AD;
+<lb/>satte i helt vårdslös och lekande ton, hän&#x00AD;
+<lb/>gande vräkigt över stolskarmen med armarna.</p>
+<p rend="indfirst">– Och sedan dog hon och vart begraven,
+<lb/>och när någon vecka gått kom hennes ande
+<lb/>igen och hälsade på i lärarinnans rum. Hon
+<lb/>kom oftast vid midnatt eller strax efter och
+<lb/>dansade en häxdans framför Kaja Enes säng.
+<pb n="84"/>
+<lb/>Och Kaja skrek och bad till Gud, men det var
+<lb/>ju också honom hon syndat mot, så han hörde
+<lb/>henne inte. Det blev värre och värre för var
+<lb/>natt, och så en gång hade hon den lilla flickan
+<lb/>med sig och då såg Kaja, att det inte var hen&#x00AD;
+<lb/>nes rum längre, utan likboden, och där låg
+<lb/>den gamla på båren och där dansade den lilla
+<lb/>omkring med förvridet ansikte. Och av allt
+<lb/>detta blev Kaja till slut vansinnig och måste
+<lb/>sluta skolan, men först var skolrådet dit och
+<lb/>tittade, och då kastades alla bänkarne om i
+<lb/>skolsalen. Så att alla de höga fäderna på
+<lb/>en gång fick se, att något galet var på färde,
+<lb/>och så kom saken in i tidningen och fem
+<lb/>turister reste dit och en av dem sov inne i
+<lb/>skolsalen en natt, och på morgonen hade han
+<lb/>ett svart märke på halsen. Det var som in&#x00AD;
+<lb/>bränt och ville inte gå ur – – – </p>
+<p rend="indfirst">– Jag tror, sade Domquist med något
+<lb/>nervös värdighet, att ni, min unge man, beha&#x00AD;
+<lb/>gat servera oss en historia, varav det mesta
+<lb/>försiggått i er fantasi.</p>
+<p rend="indfirst">– Än sen då? utbröt Olle förtrytsamt,
+<lb/>duger kanske inte min fantasi åt er?</p>
+<p rend="indfirst">Det blev plötsligt mycket tyst, och Olle
+<pb n="85"/>
+<lb/>kände, hur något oväder drog ihop sig ur
+<lb/>hörnen och steg ut i rummet. Här var det
+<lb/>väl bäst att komma med åskvädret på en gång.</p>
+<p rend="indfirst">– Jag ska bara be att få sluta min hi&#x00AD;
+<lb/>storia – – – </p>
+<p rend="indfirst">– Men det låter, som om ni själv trodde
+<lb/>på spöken.</p>
+<p rend="indfirst">– Ja, svarade Olle i det han reste sig
+<lb/>upp och såg på Domquist, jag tror på dum&#x00AD;
+<lb/>hetens och skenhelighetens och populärveten&#x00AD;
+<lb/>skapens stora spöke. Jag tror på ert förnufts
+<lb/>lilla enögda gud, som skrapat ut all verklig
+<lb/>hjärna ur er huvudskål och ersatt den med
+<lb/>stjärnkunskap, som handlar om baciller. Men
+<lb/>jag tror att det finns hopp för er, om ni i en&#x00AD;
+<lb/>fald lyssnar till vist folk, när de tala.</p>
+<p rend="indfirst">– Vad behagas? Är ni en vis man?</p>
+<p rend="indfirst">– Tja, jag är ju inte fullkomlig – – – </p>
+<p rend="indfirst">– Nej, det ska Gud veta, inföll en vårds&#x00AD;
+<lb/>lös röst från dörren ur mörkret. Olle spratt
+<lb/>till. Det var Hugo, som nu kom som den räd&#x00AD;
+<lb/>dande ängeln.</p>
+<p rend="indfirst">Hugo steg långsamt fram och for sökande
+<lb/>med blicken omkring i rummet, tills han för&#x00AD;
+<pb n="86"/>
+<lb/>säkrat sig om att han befann sig endast bland
+<lb/>kända människor. Han såg ut, som om han
+<lb/>gått lång väg, skorna voro uppblötta och den
+<lb/>slitna kavajen hängde slapp och våt över de
+<lb/>kantiga axlarna. Håret låg framsmetat över
+<lb/>pannan och ansiktet var blekt och trött. Nu
+<lb/>kramade han förläget hatten mellan händerna
+<lb/>och såg med ett betydelsefullt grin på Olle.</p>
+<p rend="indfirst">– Jag ber om ursäkt att jag kommer och
+<lb/>stör, sade han med en hastig blick på flickorna,
+<lb/>som ännu sutto på golvet. Det är visst nå&#x00AD;
+<lb/>got slags föreställning här, efter jag hör Olle
+<lb/>underhåller. Ja, ja, jag ska inte bli länge, jag
+<lb/>hörde av Lasse, att du var här, och jag måste
+<lb/>träffa däj i kväll och så kom jag på att gå hit.</p>
+<p rend="indfirst">– Så du har träffat Lasse! Ja, jag ska
+<lb/>gå nu – var har jag min hatt – jaså – å,
+<lb/>tack, fröken Hamm, tack, farväl, allesam&#x00AD;
+<lb/>mans, jag har visst sårat herr Domquist –
+<lb/>men jag fick ju inte berätta min historia.</p>
+<p rend="indfirst">De bägge gingo hastigt ut och kommo
+<lb/>ner på landsvägen.</p>
+<p rend="indfirst">– Nu har du sagt dumheter igen! Du
+<lb/>ska låta bli att säga dumheter.</p>
+<pb n="87"/>
+<p rend="indfirst">– Men hur i fridens namn ska jag bära
+<lb/>mig åt då? Ska jag höra och tiga?</p>
+<p rend="indfirst">– Naturligtvis, så gör jag, och jag har
+<lb/>aldrig obehag av det.</p>
+<p rend="indfirst">– Men det betyder väl så föga, om dom
+<lb/>där är onda på mäj eller inte.</p>
+<p rend="indfirst">– Det betyder vad det betyder! Jag
+<lb/>ville inte vara i ditt ställe nu.</p>
+<p rend="indfirst">– Det ger jag fanen! Hur var det med
+<lb/>Lasse?</p>
+<p rend="indfirst">– Jo, ser du, jag ville inte tala om det
+<lb/>därinne, för det blir ett sånt kacklande. Vår
+<lb/>vän Lasse är inte mer ...</p>
+<p rend="indfirst">Olle tvärstannade och stirrade på kam&#x00AD;
+<lb/>raten utan att kunna fatta.</p>
+<p rend="indfirst">– Vad säjer du, människa? Lasse är
+<lb/>väl inte – – – </p>
+<p rend="indfirst">– Jo, då, det är han. Han har hittats
+<lb/>död i sin koja på Vidi-Vidi. Troligtvis är
+<lb/>det slag.</p>
+<p rend="indfirst">Det blev tyst mycket länge. Slutligen
+<lb/>sade Olle med låg röst:</p>
+<p rend="indfirst">– Men du sa ju att du hört av Lasse,
+<lb/>att jag var här. Hur kunde du säga det?</p>
+<pb n="88"/>
+<p rend="indfirst">– Därför att han dog för en timme se&#x00AD;
+<lb/>dan och för tre timmar sedan var jag i hans
+<lb/>koja. Och nu farväl, jag skall på det här
+<lb/>hållet, du går väl hem kan jag tro – – – 
+<lb/>han hälsade till däj – – </p>
+<p rend="indfirst">Olle svarade ingenting. Han gick ner&#x00AD;
+<lb/>böjd och krokig genom mörkret och ensam&#x00AD;
+<lb/>heten och kände tungt, att han var mera en&#x00AD;
+<lb/>sam än förr.</p>
+<lb/>
+<p rend="center"><lb:separator content="_" count="8"/></p>
+<lb/>
+<pb n="89"/>
+</div2>
+<div2 type="part" xml:id="Kap09">
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<head rend="big center chaptername">I ödestugan vid Blybärg.</head>
+<lb/>
+<p rend="indfirst">När Moris kom in i ödestugan vid Bly&#x00AD;
+<lb/>bärg såg han en tegelsten gå över golvet åt
+<lb/>spiseln till, där den stannade. Han gick fram
+<lb/>och tog upp stenen och synade den. Det
+<lb/>var en vanlig röd tegelsten, skrubbad och stött
+<lb/>i kanterna. Alldeles säkert hade den legat
+<lb/>i någon mur en ganska lång tid, ty den var
+<lb/>svart på ena sidan av rök. När Moris lade
+<lb/>den på spiseln och tände sin pipa för att i
+<lb/>lugn och ro se, vad den vidare hade för av&#x00AD;
+<lb/>sikter, märkte han att den icke var rätvinklig
+<lb/>som tegelstenar bruka vara, utan sned och vind
+<lb/>och, som Moris uttryckte det, jävlig på alla
+<lb/>vis.</p>
+<pb n="90"/>
+<p rend="indfirst">Moris gjorde eld i spiseln, reglade dör&#x00AD;
+<lb/>ren, och satte sig neder att tänka.</p>
+<p rend="indfirst">Han hade hyrt stugan av bonden på Tejo
+<lb/>för en halv månad och skulle nu bo här medan
+<lb/>han fiskade aborrar och laxöring och gillrade
+<lb/>fågel, allt olagligt, förstås.</p>
+<p rend="indfirst">En gång för länge sedan hade en man
+<lb/>hängt sig här i rummet, och nu gick hans
+<lb/>ande omkring här och stökade. En konstig
+<lb/>en, tänkte Moris, som kunde finna nåt nöje
+<lb/>i att gå och rota i allt det här skräpet i åra&#x00AD;
+<lb/>tal. Men han hade väl inget annat att ta sig
+<lb/>till. Och nu skulle Moris bo här, om det också
+<lb/>gick sexti tegelstenar över golvet varenda
+<lb/>kväll!</p>
+<p rend="indfirst">För resten var han rasande. Hans slöa
+<lb/>hjärna hade för en gångs skull råkat i upp&#x00AD;
+<lb/>ror: skogvaktaren hade förbjudit honom att
+<lb/>ha hunden med sig. Han skulle nog – men
+<lb/>vänta! Han skulle allt ta’ hit hunnrackan och
+<lb/>visa att han inte krusade.</p>
+<p rend="indfirst">Brasan brann så lustigt, att det riktigt
+<lb/>skrattade av flammande ljus kring rummet,
+<lb/>och tegelstenen låg så beskedligt stilla, där
+<lb/>han lagt honom. Han såg sig om i rum&#x00AD;
+<pb n="91"/>
+<lb/>met. Här såg ut! Ben och lump och gammalt
+<lb/>järnskrot i stora drivor kring golvet, och en
+<lb/>gryta med två fötter mitt i all härligheten.
+<lb/>Den där grytan retade honom, och han spot&#x00AD;
+<lb/>tade åt den.</p>
+<p rend="indfirst">– Har du gått från spiseln på egen hand,
+<lb/>kunde du lika gärna gått bort i ett hörn, din
+<lb/>djävul, sade han buttert. Han hade en flaska
+<lb/>med sig till styrknings i ensamheten, och han
+<lb/>drog upp den ur fickan. Då knackade det på
+<lb/>dörren.</p>
+<p rend="indfirst">Tre dova slag! Det var naturligtvis skog&#x00AD;
+<lb/>vaktaren, som kom för att se, om han hade
+<lb/>hunden med sig, och med verkligt raseri grep
+<lb/>han tegelstenen och slängde den i dörren.</p>
+<p rend="indfirst">Då skrattade det utanför dörren – ett
+<lb/>rått, tokigt skratt, men tegelstenen vart lig&#x00AD;
+<lb/>gande där han låg, och tycktes inte ha lust
+<lb/>att komma tillbaka på egen hand, men skrattet
+<lb/>nästan skrämde Moris. Det där var antingen
+<lb/>satan själv eller också någon annan, som hade
+<lb/>onda avsikter, och i ett nu blevo alla fönstren
+<lb/>blodröda, som om <choice><sic>skogsselden</sic><corr resp="litlolo">skogselden</corr></choice> brunnit utan&#x00AD;
+<lb/>för, och Moris rasade: tänkte dom bränna
+<lb/>honom inne?</p>
+<pb n="92"/>
+<p rend="indfirst">Då knackade det på dörren igen och då
+<lb/>bet Moris ihop tänderna, tog en yxa i ena
+<lb/>handen och gick bort och öppnade, och där
+<lb/>utanför susade tallskogen svagt i blåsten och
+<lb/>ovanför lyste stjärnor så fridfullt och ingen
+<lb/>eld brann. Moris gick ut och ställde sig
+<lb/>på den ruttna träbron för att svalka sig.
+<lb/>Om han åtminstone tagit någon med sig,
+<lb/>– att vara ensam i detta satans näste gick
+<lb/>väl an, men var inte roligt. Skulle han gå
+<lb/>tillbaka till byn igen? Då skulle folk skratta
+<lb/>– han hade ju svurit att bli här ensam.</p>
+<p rend="indfirst">Han tog den stora grytan och flyttade den
+<lb/>till spiseln och började plocka ihop och ordna.
+<lb/>När han rörde i allt detta gamla, kom han
+<lb/>att tänka på idel obehagliga saker. Vad var
+<lb/>det för ben – och hur hade de kommit hit?
+<lb/>Han skulle kasta ut alltsammans och började
+<lb/>plocka det i en säck. Den var trasig, och
+<lb/>när han fått den full, stack avbrutna, trasiga
+<lb/>benpipor ut över allt. Inte för att det gjorde
+<lb/>något, men det såg otäckt ut. Han tog säc&#x00AD;
+<lb/>ken och ämnade kasta ut den. Då knackade
+<lb/>det tredje gången.</p>
+<pb n="93"/>
+<p rend="indfirst">Moris var ingen rädd man, men det här
+<lb/>började bli retfullt. Han såg mot fönstren,
+<lb/>men nu voro de svarta som natten utanför.
+<lb/>Kanske det ändå var någon människa utanför
+<lb/>denna gång? Och han lät säcken stå och drog
+<lb/>ut sin långa morakniv och gick bort och öpp&#x00AD;
+<lb/>nade, och där stod Olle i dörren och be&#x00AD;
+<lb/>traktade den dragna kniven med ett brett le&#x00AD;
+<lb/>ende.</p>
+<p rend="indfirst">Jaså, den där spolingen, tänkte Moris,
+<lb/>men i alla fall bra att få sällskap. Men det
+<lb/>gick inte an att låta honom veta om tegelste&#x00AD;
+<lb/>nen, för då kunde han tro att Moris var galen.</p>
+<p rend="indfirst">– Gå in och sätt däj – och vill du ha en
+<lb/>sup, så står flaskan där – på golvet. Här
+<lb/>har du en kaffekopp att dricka ur.</p>
+<p rend="indfirst">Moris hade hört, att Olle inte var rädd
+<lb/>av sig, och han var glad över att ha fått ett
+<lb/>åsyna vittne till allt, som skulle tima här i natt.
+<lb/>Och när Olle druckit ungefär en tekopp bränn&#x00AD;
+<lb/>vin, började han se sig om i rummet, och
+<lb/>fick syn på säcken.</p>
+<p rend="indfirst">– Vad är det där för lösören? frågade
+<lb/>han och sparkade på säcken. Tänk om det
+<lb/>skrikit inuti säcken, när jag sparkade på den!</p>
+<pb n="94"/>
+<p rend="indfirst">– Lumpsäckar skriker inte, fast tegel&#x00AD;
+<lb/>stenarna går kring golvet.</p>
+<p rend="indfirst">– Går tegelstenar?</p>
+<p rend="indfirst">– Inte vet jag – vi får alltid se, om vi
+<lb/>väntar.</p>
+<p rend="indfirst">– Det kan du min själ ha rätt i. Han
+<lb/>började gå och snoka kring stugan och synade
+<lb/>allting, från taket till golvet. Han såg efter,
+<lb/>att allt satt riktigt fast och inte av sig självt
+<lb/>kunde komma i rörelse. Där fanns gamla ta&#x00AD;
+<lb/>peter, som hängde lossrivna, stora flagor. Han
+<lb/>rev ner dem och slängde dem i ett hörn.
+<lb/>Så öppnades dörren och de vräkte ut lump&#x00AD;
+<lb/>säcken långt ut i mörkret. Nu fanns bara
+<lb/>ett bord, två stolar och en kärlhylla kvar i
+<lb/>rummet. Det såg naket och tomt ut.</p>
+<p rend="indfirst">– Egentligen bär vi oss åt som dum&#x00AD;
+<lb/>bommar. Nu har ju spöket ingenting kvar att
+<lb/>röra i, menade Olle. Han satt framför brasan
+<lb/>och läste i en gammal svart lunta, som han
+<lb/>hittat i kärlhyllan. Moris smorde sin bössa
+<lb/>och såg belåten ut.</p>
+<p rend="indfirst">– Vad är det för bok? frågade han ny&#x00AD;
+<lb/>fiket och sömnigt på en gång.</p>
+<pb n="95"/>
+<p rend="indfirst">– Svenska psalmboken, tryckt på tjugu&#x00AD;
+<lb/>ett, svarade Olle, ska jag läsa en psalm för dig?</p>
+<p rend="indfirst">– Det var väl den han läste i, innan han
+<lb/>hängde säj. Nej, läs inte, jag tänker för
+<lb/>resten gå och lägga mäj.</p>
+<p rend="indfirst">– För resten så tror jag inte ett dugg på
+<lb/>de här spökhistorierna. Har du sett något?
+<lb/>Olle såg skarpt på Moris, som vände ansiktet
+<lb/>ur eldskenet.</p>
+<p rend="indfirst">– Nej, inte ett dugg – jag tror inte jag,
+<lb/>heller – – </p>
+<p rend="indfirst">– Karigo påstår att det är lögn. Och
+<lb/>han är ju ett sorts specialist på sånt här. Han
+<lb/>tror att det ska finnas nånting under golvet,
+<lb/>som alstrar giftig gas, och som gör att en
+<lb/>ser och hör galet.</p>
+<p rend="indfirst">– Giftig gas som knackar på dörren – – </p>
+<p rend="indfirst">– Knackar det?</p>
+<p rend="indfirst">– Så säjer dom, inte vet jag – – </p>
+<p rend="indfirst">Men Olle hade sett uttrycket i Moris an&#x00AD;
+<lb/>sikte och anat något bakom. Var Moris en
+<lb/>kamrat att lita på, som inte vart vettskrämd
+<lb/>och i sömnen tog Olle för den hängdes ande
+<lb/>och sköt honom död som en köttklump? Mo&#x00AD;
+<pb n="96"/>
+<lb/>ris hade underliga ögon. Tänk om han inte
+<lb/>var fullt klok? Det var något fasansfullt att
+<lb/>vara ensam med en man, som man inte riktigt
+<lb/>visste vad han gick för, men att gå sin väg
+<lb/>kom inte på fråga.</p>
+<p rend="indfirst">– Det ligger två halmsäckar ute i ved&#x00AD;
+<lb/>bon. Vi tar in dom och värmer dom framför
+<lb/>brasan. Vi kan ju ligga i var sitt hörn, så
+<lb/>kan vi hålla reda på vad som händer, före&#x00AD;
+<lb/>slog Moris.</p>
+<p rend="indfirst">Och så gingo de ut efter halmsäckarna
+<lb/>och reste upp dem mot muren. Sedan sutto
+<lb/>de länge tysta och, men efter att ha styrkt
+<lb/>sig med buteljen några gånger började Olle
+<lb/>plåga Moris med historier. Och till sist tog
+<lb/>Olle fram ett papper varpå han skrivit upp
+<lb/>följande historia, som gärna kan bli ett nytt
+<lb/>kapitel.</p>
+<lb/>
+<p rend="center"><lb:separator content="_" count="8"/></p>
+<lb/>
+<pb n="97"/>
+</div2>
+<div2 type="part" xml:id="Kap10">
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<head rend="big center chaptername">Historien om en fredlös.</head>
+<lb/>
+<lg rend="small ind4"><l rend="i">Det var husbonn min som på bockfot stod,</l>
+<l rend="i">när jag svor vid kyrkljus, när jag svor vid blod,</l>
+<l rend="i">men aldrig i ugnen till plågan går jag in,</l>
+<l rend="i">och jag släpper aldrig taget kring släggan min.</l></lg>
+<lb/>
+<p rend="indfirst">»Det bodde för mycket länge sen en man
+<lb/>i en stuga långt österut, och han hette Sichanka
+<lb/>och sades vara av rysk-finsk härkomst,
+<lb/>men det vet ingen. Jag tror att han var
+<lb/>svensk, fast han av någon anledning lagt bort
+<lb/>sitt rätta namn.</p>
+<p rend="indfirst">Sichanka jagade och fiskade och gillrade
+<lb/>i de stora skogarna, som ligga norr om Vill&#x00AD;
+<lb/>mora klint, och när han levat där en tid kom
+<lb/>en tiggarkvinna vandrande och började laga
+<lb/>hans mat, och hon vart där länge och födde
+<lb/>många barn åt Sichanka, som inte var så värst
+<pb n="98"/>
+<lb/>glad var gång en ny röst skrek i hans mörka
+<lb/>rökstuga.</p>
+<p rend="indfirst">Med sockenmännen var han jämt osams,
+<lb/>och en dag gick han till en trollgubbe i Vrin&#x00AD;
+<lb/>bärg och pekade ut sin värsta fiende och ville
+<lb/>att Karis-Janken skulle förgöra honom och
+<lb/>göra all hans boskap sjuk, och det lovade
+<lb/>trollkarlen, och det gjorde han också, för först
+<lb/>sjuknade boskapen i Ninas lagård, och sen
+<lb/>vart Ninas dotter Vilma vansinnig och fick föras
+<lb/>bort, ingen vet så noga vart; men innan hon
+<lb/>fördes i väg berättade hon för Ninas alla bov&#x00AD;
+<lb/>streck han gjort som ung, och det var inte
+<lb/>litet, och det var så svarta synder, att Ninas
+<lb/>skalv, när han hörde det, och Vilma kunde
+<lb/>inte fås att tiga, fast gubben bad och svor och
+<lb/>grät och hotade, och när han slog henne grät
+<lb/>modern, och då började Vilma med hennes syn&#x00AD;
+<lb/>daregister. Då kom det fram att tiggarkvin&#x00AD;
+<lb/>nan stulit kyrksilver och strypt barn, och det
+<lb/>var ändå inte det värsta, för där satt en blind
+<lb/>tiggare i en fattiggård i Södermanland och
+<lb/>förbannade det ändlösa mörkret, och han hade
+<lb/>blivit blind i tiggarkvinnans sällskap en gnist&#x00AD;
+<lb/>rande julnatt. Han visste inte vad tiggarkvin&#x00AD;
+<pb n="99"/>
+<lb/>nan gjort, men det hade hänt i sömnen, och
+<lb/>det var hans straff, för det han förrått hem&#x00AD;
+<lb/>ligheter. Och när Ninas hörde allt detta vart
+<lb/>han så rädd om sitt anseende, att han tänkte
+<lb/>mörda Vilma, som inte var hans barn, men
+<lb/>han tordes inte för modern, som alltid sov
+<lb/>med slidkniven i sin ena strumpa. Så fick han
+<lb/>då sitta i tre veckor och höra på alla sina
+<lb/>svarta synder, och Vilma vandrade fram och
+<lb/>tillbaka på golvet och vevade med händerna,
+<lb/>som om hon nystat garn, och dörren fick hål&#x00AD;
+<lb/>las stängd, annars sprang hon ut, och när
+<lb/>hon slutligen fördes bort nämnde hon namn
+<lb/>på tre män, som Ninas aldrig känt, och sade
+<lb/>att en av dem skulle bota henne, och talade om,
+<lb/>var den ene mannen fanns, och det var långt
+<lb/>borta. En mörk natt var Ninas hos Karis-
+<lb/>Janken och begrät sitt elände, och Janken tog
+<lb/>en flaska med brännvin, som Ninas haft med
+<lb/>sig, och Ninas såg några röda strimmor simma
+<lb/>däri, men vad Janken såg, det visste han inte.
+<lb/>Men han fick en säck att ligga på, och vaknade
+<lb/>inte förr än vid midnatt.</p>
+<p rend="indfirst">Då kände han hela huset darra, och såg
+<pb n="100"/>
+<lb/>tre grenljus brinna på fällbordet. Det var
+<lb/>hemskt bara att se dessa ljus, och bakom dem
+<lb/>det svarta dubbelfönstret, där de tre lågorna
+<lb/>speglades och mångdubblades. Men han såg
+<lb/>och hörde ingen människa, och han trodde, att
+<lb/>Janken tänt dem, och just då fick han se Jan&#x00AD;
+<lb/>ken komma ut och fråga om Ninas var vaken,
+<lb/>men Ninas torde inte svara; tyst låg han och
+<lb/>såg på, hur Janken tog en stol och satte sig
+<lb/>framför de nio flämtande lågorna och såg ut
+<lb/>som om han kämpade med osynliga. Men
+<lb/>när en stund gått läste Janken Fader vår och
+<lb/>välsignelsen, inte baklänges, som Ninas hade
+<lb/>trott att han skulle göra, utan rätt fram och
+<lb/>mycket högtidligt, fast med låg röst. »Och
+<lb/>Herre Gud i himmelen», sade han, »detta går
+<lb/>icke utan genom din kraft».</p>
+<p rend="indfirst">Då visste Ninas med ens var hemligheten
+<lb/>med Jankens kraft satt, han hörde till dessa,
+<lb/>som i Guds kraft många gärningar göra, men
+<lb/>om vilken herren på den sista dagen skulle
+<lb/>säga: jag kände eder aldrig. Så tänkte Ninas,
+<lb/>och han tyckte mycket bättre om honom nu,
+<lb/>när han visste att han ej hade hjälp av djävu&#x00AD;
+<lb/>len. Men vad de tre grenljusen betydde,
+<pb n="101"/>
+<lb/>visste han ej, och han hostade lätt, och när
+<lb/>Janken hörde, att han var vaken, vände han
+<lb/>sig till bädden och sade:</p>
+<p rend="indfirst">– Du kan gå när du vill. Du behöver
+<lb/>inte vara rädd. Det gamla duger inte i kväll.
+<lb/>Och din dotter blir bra – men hon förlorar
+<lb/>sitt minne, och det vill du helst.</p>
+<p rend="indfirst">Och Ninas steg upp och tackade och ville
+<lb/>betala, men Janken tog inte emot.</p>
+<p rend="indfirst">– Tacka Gud i stället, sade han.</p>
+<p rend="indfirst">Men när Ninas gått fick Janken ingen frid
+<lb/>mer. Han var ju på den breda vägen, som
+<lb/>leder till helvetet, och fast hans tro hjälpte ho&#x00AD;
+<lb/>nom att med herrens kraft hela sjuka, så var
+<lb/>han dock en förtappad man.</p>
+<p rend="indfirst">En gång i sin ungdom hade han önskat,
+<lb/>att djävulen måtte bistå honom, och sedan
+<lb/>hade han lyckats. Han hade botat många och
+<lb/>fördärvat många. Hans kraft hade varit stor,
+<lb/>hans ondska större. Var det för sent nu, att
+<lb/>bli en annan?</p>
+<p rend="indfirst">Det var värst med den stränge Guden,
+<lb/>som satt där uppe och såg allting och skrev
+<lb/>i sin stora bok. Och Janken mindes, att han
+<lb/>en gång lovat djävulen att bli hans för alltid.
+<pb n="102"/>
+<lb/>Det hade skett under vissa åtbörder och var
+<lb/>bestyrkt av en blodröd ed. Var det djävulen
+<lb/>han såg den gången? Kunde något annat se
+<lb/>ut så? Men var det nu han – då var allt för&#x00AD;
+<lb/>lorat.</p>
+<p rend="indfirst">Det berättas att Janken grubblade över
+<lb/>detta, tills han vart vansinnig. Då var han
+<lb/>förlorad för denna världen. De gamla säga,
+<lb/>att de i sin ungdom sågo en vitskäggig gubbe
+<lb/>driva omkring på de höstruskiga vägarna med
+<lb/>en järnklubba i handen. Han stannade här
+<lb/>och var och slog med den på stenarna, och for&#x00AD;
+<lb/>made gubbar av våt lera mellan händerna.
+<lb/>De säga att han hade stora, håliga ögon och
+<lb/>långt, tillrufsat hår, och att han aldrig gjorde
+<lb/>något illa åt någon. Men var gång han såg
+<lb/>grenljus tändas, då grät han. En strof min&#x00AD;
+<lb/>nas de, som han sjöng i takt till slagen av
+<lb/>släggan:</p>
+<lg><l>I de svartaste nätter, vid det rödaste ljus,</l>
+<l>i de gungande skogar, i de gråaste hus,</l>
+<l>skall jag hamra mina klippor, skall jag leka</l>
+<l rend="ind4">med mitt ler</l>
+<l>och jag somnar vid min slägga när solen går</l>
+<l rend="ind4">ner.</l></lg>
+<lb/>
+<pb n="103"/>
+<p rend="indfirst">Det påstås att han dog någonstädes i
+<lb/>Värmlands finnskogar, och att det var med
+<lb/>nöd man fick släggskaftet ur hans järnstyva
+<lb/>händer.»</p>
+<lb/>
+<figure rend="center"><graphic url="/bilder/ornament/littthreenewstars.svg"/></figure>
+<lb/>
+<p rend="indfirst">När denna historia var ändad, hade bra&#x00AD;
+<lb/>san brunnit ner, och Moris frågade sömnigt,
+<lb/>hur det gick, om den tokiga flickan vart bättre.</p>
+<p rend="indfirst">– Visst vart hon bra – hon vart bra
+<lb/>då strax, svarade Olle otåligt, annars hade det
+<lb/>väl inte varit nån’ mening med historien. Ska’
+<lb/>vi lägga oss nu? Han såg modstulet omkring
+<lb/>i stugan och makade sig närmare glöden, un&#x00AD;
+<lb/>der det Moris steg upp och lade sin halmsäck
+<lb/>tillrätta i hörnet nära <choice><sic>spisen</sic><corr resp="litlolo">spiseln</corr></choice>, och Olle lade
+<lb/>sin åt andra sidan. Men va ska du ta’ över
+<lb/>däj? undrade Moris. Jag brukar ta rocken,
+<lb/>men dä’ kanske du inte är van? Annars har
+<lb/>jag en skinnpäls här, den kan du få låna.</p>
+<p rend="indfirst">Olle hade redan krupit ihop på säcken och
+<lb/>tagit av sig kavajen och lagt den över sig, och
+<lb/>förstärkte nu täckelset med den sotiga skinn&#x00AD;
+<lb/>päls Moris slängt dit.</p>
+<pb n="104"/>
+<p rend="indfirst">– Det är någonting underligt med att
+<lb/>krypa ihop i en mörk vrå med en hög lump
+<lb/>över sig, hördes Olles röst under pälsen, som
+<lb/>han dragit över huvudet. I all synnerhet när
+<lb/>en är led åt hela världen. Det är som att vara
+<lb/>begraven. Det finns knappt något förargligt
+<lb/>i livet, som kan hitta in i ett sådant mörkt
+<lb/>hörn, eller gå igenom en så gammal päls.</p>
+<p rend="indfirst">– Jag tycker inte dä just är nånting så
+<lb/>storartat. En säng är nog bättre.</p>
+<p rend="indfirst">– En säng – men det finns inga sängar
+<lb/>som det inte är vägglös i. Åtminstone har
+<lb/>inte jag legat i någon – utom det året jag
+<lb/>var till sjöss.</p>
+<p rend="indfirst">Moris svarade inte, förmodligen av rädsla
+<lb/>att behöva höra flera historier. Han snarkade
+<lb/>svagt. Men Olle låg länge vaken. Han låg
+<lb/>och tänkte på alla historierna om detta hus,
+<lb/>han kände sig nästan ensam nu, när Moris
+<lb/>somnat. Han satte sig upp och lyssnade. Ja,
+<lb/>Moris sov nu ganska tungt där borta, och
+<lb/>stugan låg i mörker, och vinden ruskade på
+<lb/>dörren – något – var det rägn? – föll mot
+<lb/>fönstret. Men ingenting tassade över golvet,
+<lb/>ingen tung suck ljöd från något hörn, ingen
+<pb n="105"/>
+<lb/>grovt hes röst skrattade utanför. Bestämt bara
+<lb/>historier han hört – och för övrigt var ju
+<lb/>Moris här, och han såg då ut kunna tåla en
+<lb/>hel del.</p>
+<p rend="indfirst">Det var bortåt midnatt och han låg ännu
+<lb/>vaken. Han kunde inte ha rocken över hu&#x00AD;
+<lb/>vudet, det blev för varmt. Men han började
+<lb/>känna sig sömnig. Det var så tyst nu, så
+<lb/>tyst att han hörde Moris minsta rörelse bortom
+<lb/>spiseln. Om bara stormen inte lagt sig, om
+<lb/>den ännu ville ruska på dörren, om Moris
+<lb/>ändå ville snarka tillräckligt hårt – men
+<lb/>den här tystnaden var vanvettig.</p>
+<p rend="indfirst">Månen hade säkert gått upp, det var lju&#x00AD;
+<lb/>sare nu, han kunde se papper och skräp på
+<lb/>golvet.</p>
+<p rend="indfirst">Då hackade en ihålig, skrällande, skarp
+<lb/>hosta genom rummet. Han satte sig hastigt
+<lb/>upp. Han frös i varenda millimeter av krop&#x00AD;
+<lb/>pen. Och med nästan onaturlig ansträngning
+<lb/>fick han fram som ett hårt stönande:</p>
+<p rend="indfirst">– Var det du som hostade, Moris?</p>
+<p rend="indfirst">Moris satt upprätt på sin halmbädd. Han
+<lb/>strök eld på en tändsticka och tände ett spån
+<lb/>i spiseln.</p>
+<pb n="106"/>
+<p rend="indfirst">– Förbanna mäj, om ja dä gjorde, sva&#x00AD;
+<lb/>rade han. Olle, kan du nån bön, så läs den,
+<lb/>innan han hostar en gång till. Han måtte ha
+<lb/>lungsot, den där. De stego båda upp och
+<lb/>tände en ny brasa.</p>
+<p rend="indfirst">– Sov du? Kanske du hostade i söm&#x00AD;
+<lb/>nen?</p>
+<p rend="indfirst">– Jag – jag har inte sovit en blund, jag
+<lb/>har bara legat och lyssnat.</p>
+<p rend="indfirst">De sutto sedan framför brasan tills det,
+<lb/>blev morgon, och de turade om att dricka
+<lb/>brännvin, tills buteljen var tom, men blevo inte
+<lb/>ens yra i huvudet. Till sist kröpo de på nytt
+<lb/>ner på sina säckar och somnade och sovo, tills
+<lb/>dagsljuset lekte i spiseln. Då lagade de sin
+<lb/>frukost under djup tystnad.</p>
+<p rend="indfirst">– Jag minns en historia som Fager be&#x00AD;
+<lb/>rättade, började Olle försiktigt. Han var ut&#x00AD;
+<lb/>tråkad på tystnaden, som rådde. – Den där
+<lb/>gamla kolaren, du vet. Moris blängde ilsket
+<lb/>mot dörren, energiskt tuggande på en seg
+<lb/>fläskbit.</p>
+<p rend="indfirst">– Han var ute på tjuvskytte, han och
+<lb/>Axel Hejd, du vet, och hade gjort en eld i
+<pb n="107"/>
+<lb/>Pallmadalen och satt där i höstslasket och åt
+<lb/>kväll, och då såg dom skogsrået valla sin bo&#x00AD;
+<lb/>skap, nio svarta kor gick åt ena sidan och nio
+<lb/>vita åt den andra, och råhanda själv gick före
+<lb/>och en grönrandig karl gick efter, och hela
+<lb/>dalen ekade av lockrop, och skällorna lät dovt
+<lb/>och strävt och korna stannade länge i dalen,
+<lb/>men Hejd och Fager såg dom bara några mi&#x00AD;
+<lb/>nuter –</p>
+<p rend="indfirst">– Varför dä då, frågade Moris.</p>
+<p rend="indfirst">– Därför, du otrogna fähund – därför
+<lb/>att röken slog ner åt två sidor mitt i dimman
+<lb/>och låg som en fäll över dalen – röken från
+<lb/>elden, förstår du, och bakom röken låg bärget
+<lb/>och skogen och bakom skogen stod himlen
+<lb/>röd som en vägg av glödande järn – och
+<lb/>trollen var i röken, förstår du, det var klart,
+<lb/>och så när röken skingrade sig, såg dom inte
+<lb/>trollen mer, men dom såg ett svart bylte till
+<lb/>tiggarunge springa som en pil över ljungen,
+<lb/>och han hade svart hår som en hästs hår, och
+<lb/>alldeles för stora skor. –</p>
+<p rend="indfirst">– Och sen slog väl röken ner igen, kan
+<lb/>jag förstå –</p>
+<pb n="108"/>
+<p rend="indfirst">– Du är omöjlig, gosse, ja, visst slog
+<lb/>han ner, och sen såg dom –</p>
+<p rend="indfirst">– Nu går vi till byn. Är där inget bränn&#x00AD;
+<lb/>vin kvar?</p>
+<p rend="indfirst">– Inte en droppe.</p>
+<p rend="indfirst">De gjorde sig i ordning att gå, men i
+<lb/>dörren stannade Olle och såg osäkert prö&#x00AD;
+<lb/>vande på Moris.</p>
+<p rend="indfirst">– Du, som är en erfaren karl! sade han
+<lb/>långsamt och med svävande röst. Det syn&#x00AD;
+<lb/>tes som ville han fram med något ömtåligt han
+<lb/>hade på hjärtat. Han såg på en gång rädd
+<lb/>och förväntansfull ut. Du minns den där hi&#x00AD;
+<lb/>storien jag läste för däj, den som jag hade
+<lb/>skrivit på det här papperet, tycker du inte
+<lb/>att den var – bra skriven?</p>
+<p rend="indfirst">– Det var en konstig fråga! Inte begri&#x00AD;
+<lb/>per jag sånt! Men du kunde ju visa den för
+<lb/>nån som kan skriva. Det kan inte jag. Min
+<lb/>mor kunde bara läsa, men inte skriva. Du
+<lb/>ska visa den för nån lärd kar –</p>
+<p rend="indfirst">– Till exempel –</p>
+<p rend="indfirst">– Till exempel Domquist.</p>
+<p rend="indfirst">Olle steg tillbaka, för att riktigt betrakta
+<lb/>Moris.</p>
+<pb n="109"/>
+<p rend="indfirst">– O, du heliga, enfaldiga gamla uv! ro&#x00AD;
+<lb/>pade han. Om du visste, hur klokt du ta&#x00AD;
+<lb/>lade, skulle du vara Paindalens stoltaste män&#x00AD;
+<lb/>niska! Men, Israel, din visdom är de fåvitskes
+<lb/>och dina konungar le åt det, som de icke
+<lb/>förstå!</p>
+<p rend="indfirst">Moris var redan i andra tankar. Vid
+<lb/>Mattna Drainas timmerväg skilldes de och
+<lb/>Olle försvann åt Kangsåshållet.</p>
+<lb/>
+<p rend="center"><lb:separator content="_" count="8"/></p>
+<lb/>
+<pb n="110"/>
+</div2>
+    <div2 type="part" xml:id="Kap11">
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<head rend="big center chaptername">Bekymmer.</head>
+<lb/>
+<lg rend="small ind6"><l rend="i">Säg mig ingenting om kärlek,</l>
+<l rend="i">tala ej till mig om lycka,</l>
+<l rend="i">nämn mig blott en plats där jag får ligga</l>
+<l rend="i">ensam, höljd av mina trasor.</l></lg>
+<lb/>
+<p rend="indfirst">När Olle en dag strövade landsvägen
+<lb/>framåt hann han upp en trasig landstrykare
+<lb/>med magra lemmar och urskrapat ansikte.
+<lb/>Kring ögonen, som lågo långt in och inte just
+<lb/>uttryckte något, hade så småningom bildats
+<lb/>gula fält, och käkbenets kantighet syntes
+<lb/>skarpt genom den blekblåa huden. Han gick
+<lb/>med korta och stötande steg och kutad rygg
+<lb/>och såg stadigt ner i marken, grubblande som
+<lb/>det syntes över att nödgas gå på något så hårt.
+<lb/>Han såg upp helt likgiltigt när Olle hälsade.</p>
+<p rend="indfirst">– Hur långt kan det vara till närmaste
+<lb/>gård? frågade han slött.</p>
+<pb n="111"/>
+<p rend="indfirst">– En halv mil.</p>
+<p rend="indfirst">Främlingen suckade.</p>
+<p rend="indfirst">– Jag borde ha stannat i Bro, sade han
+<lb/>helt för sig själv. Hurudant är folket där&#x00AD;
+<lb/>borta?</p>
+<p rend="indfirst">– Somliga är fattiga, och därtill ganska
+<lb/>obarmhärtiga. Andra ha det bättre, och är
+<lb/>lika obarmhärtiga ändå.</p>
+<p rend="indfirst">– Alltså är det bara vanligt folk, sva&#x00AD;
+<lb/>rade luffaren, i det han såg upp mot ett elakt
+<lb/>grin. Tror ni jag kan få ligga över natten hos
+<lb/>någon?</p>
+<p rend="indfirst">– En mycket kinkig fråga! Herre Gud,
+<lb/>vad det måtte vara obehagligt att jämt få lov
+<lb/>tugga på det bekymret.</p>
+<p rend="indfirst">– Obehagligt! Ja, ni har rätt, det är
+<lb/>verkligen mycket obehagligt. Det är bara så
+<lb/>underligt – jag har verkligen aldrig tänkt
+<lb/>på att det var obehagligt.</p>
+<p rend="indfirst">– Ni hade tänkt att det var förbannat!</p>
+<p rend="indfirst">– Alldeles rakt förbannat!</p>
+<p rend="indfirst">De fortsatte en stund tysta,</p>
+<p rend="indfirst">– Ni har väl inte en slant att ge mig?
+<lb/>frågade luffaren plötsligt med fräckare upp&#x00AD;
+<lb/>syn.</p>
+<pb n="112"/>
+<p rend="indfirst">Olle grävde i västfickan och fann en fem&#x00AD;
+<lb/>öring.</p>
+<p rend="indfirst">– Skulle ni ha någon användning för
+<lb/>den? frågade han i det han noga studerade
+<lb/>den trasiges hela person. Det är verkligen
+<lb/>allt vad jag har för tillfället.</p>
+<p rend="indfirst">– Och när får ni nästa löning? Frågan
+<lb/>kom litet spefullt och följdes av ett ännu
+<lb/>elakare grin. Olle skrattade.</p>
+<p rend="indfirst">– Nästa löning! Det har jag verkligen
+<lb/>inte tänkt på. Jag undrar verkligen när jag
+<lb/>får nästa löning. Men vill ni inte ha slan&#x00AD;
+<lb/>ten?</p>
+<p rend="indfirst">– Jo, för all del! Han tog den och stop&#x00AD;
+<lb/>pade den i västfickan helt vårdslöst. Trodde
+<lb/>ni jag var besvärad av några ömma skrupler?</p>
+<p rend="indfirst">– Jag trodde bara, ni räknade efter hur
+<lb/>många ni hade förut, och om tillägget skulle
+<lb/>komma summan att nå upp till brännvin.</p>
+<p rend="indfirst">– Ni är inte så dum som ni ser ut. Det
+<lb/>når verkligen upp till brännvin nu.</p>
+<p rend="indfirst">– Jag gratulerar! – Vad slags yrke
+<lb/>har ni?</p>
+<p rend="indfirst">– Luffare.</p>
+<p rend="indfirst">Det var då svar på tal. Olle började
+<pb n="113"/>
+<lb/>tycka att mannen var rolig. Han skulle visa
+<lb/>honom en lada att ligga i där det gick att
+<lb/>sova alldeles utmärkt.</p>
+<p rend="indfirst">– Jag skall åta mig skaffa nattlogi!</p>
+<p rend="indfirst">– Åt oss bägge?</p>
+<p rend="indfirst">– Ni är inte på riktigt rätt spår. Jag
+<lb/>har verkligen ett hem att gå till.</p>
+<p rend="indfirst">Den trasige såg mycket road ut.</p>
+<p rend="indfirst">– Jag har verkligen ett hem! härmade
+<lb/>han entonigt, verkligen ett hem! Det var
+<lb/>inte så litet det. Har ni hustru och barn med?</p>
+<p rend="indfirst">– Hustru – ibland, men inga barn.</p>
+<p rend="indfirst">– Då har ni inte så långt gått. Jag har
+<lb/>både hustru och barn, jag.</p>
+<p rend="indfirst">– Då räcker inte femöringen långt.</p>
+<p rend="indfirst">– Nej, han räcker aldrig, därför har jag
+<lb/>gett hushållet på båten. Käringen skrek och
+<lb/>trätte, och tyckte hon var för god åt mig,
+<lb/>sen jag kommit ut från tukthuset, och så gav
+<lb/>jag mig i väg.</p>
+<p rend="indfirst">– Så att ni har prövat på åtskilligt!</p>
+<p rend="indfirst">Den trasige gjorde en trött åtbörd.</p>
+<p rend="indfirst">– Jag har levat, svarade han överlägset.</p>
+<p rend="indfirst">– Hur länge var ni på tukthuset?</p>
+<p rend="indfirst">– Egentligen angår det er inte. Men
+<pb n="114"/>
+<lb/>jag kan ju ljuga för er: jag var där bara i
+<lb/>två år.</p>
+<p rend="indfirst">Olle betraktade honom nyfiket.</p>
+<p rend="indfirst">– Mördade eller stal?</p>
+<p rend="indfirst">– Gjorde bara inbrott och höll på att
+<lb/>kväva en sjuttio års gammal man, som skrek
+<lb/>och var oanständig på alla vis.</p>
+<p rend="indfirst">– Nu är det snart höst, fortsatte han
+<lb/>med iskall röst, och jag har inte huggit min
+<lb/>ved och skurit mitt korn. Det blir snart regn&#x00AD;
+<lb/>nätter, och jag har inte bärgat mitt hö.</p>
+<p rend="indfirst">Olle nickade och började undra om man&#x00AD;
+<lb/>nen var rubbad.</p>
+<p rend="indfirst">– Och det blir vinter, och huset är inte
+<lb/>byggt än, och den som skall bygga bor hos
+<lb/>andra.</p>
+<p rend="indfirst">– Har ni tänkt bygga en gång?</p>
+<p rend="indfirst">– Jag försöker varje höst bygga ett hus
+<lb/>åt mig – men så fort snön kommer märker
+<lb/>jag att jag är hemlös.</p>
+<p rend="indfirst">– Jag begriper – vad bygger ni av för
+<lb/>närvarande?</p>
+<p rend="indfirst">Hat och hån – men det håller inte så
+<lb/>länge att jag hinner pröva det i ovädret.</p>
+<p rend="indfirst">Vägen låg lerig och grå och gropig med
+<pb n="115"/>
+<lb/>ruttnade, gult vatten i dikena. Små, gråa
+<lb/>sparvar surrade hungriga kring den torra, röda
+<lb/>hästspillningen, flygande undan steg för steg
+<lb/>framför de tungt trampande männen. Hjul&#x00AD;
+<lb/>spåren lågo fulla av brunt vatten, och för&#x00AD;
+<lb/>sökte spegla skyn ovanför. Kvällen var halv&#x00AD;
+<lb/>våt och kall, och ur granskogen kom mörkret
+<lb/>vältande, tryckande, tungt, tröttande. De båda
+<lb/>talade då och då, med trötta, släpande röster
+<lb/>och med hakorna nersjunkna mot brösten,
+<lb/>ackompanjerade av skornas glavs mot det sme&#x00AD;
+<lb/>tiga gruset och gnisslet av den trasiges blank&#x00AD;
+<lb/>slitna rockärm, som svängde av och an mot
+<lb/>kroppen som om den varit en pendel och reg&#x00AD;
+<lb/>lerat gången.</p>
+<p rend="indfirst">När de lågo gömda i höladans mörker
+<lb/>kände de sig som gamla kamrater och började
+<lb/>tala öppenhjärtigt. Landstrykaren berättade
+<lb/>sin historia, lika svart som mörkret omkring
+<lb/>dem.</p>
+<p rend="indfirst">– Jag stal redan som pojke och försökte
+<lb/>strypa en man när jag var fjorton år. Det
+<lb/>lyckades inte, han lever ännu, och går visst
+<lb/>kring som jag.</p>
+<p rend="indfirst">– Hatar han er för det?</p>
+<pb n="116"/>
+<p rend="indfirst">– Jag vet inte. Det är mig alldeles lik&#x00AD;
+<lb/>giltigt. Jag har fått uppfostran och lärt mig
+<lb/>att samvetet är en sjukdom.</p>
+<p rend="indfirst">– Då har ni också fått lära er att Gud
+<lb/>är ett spöke.</p>
+<p rend="indfirst">– Alldeles riktigt! Men jag har glömt
+<lb/>den lärdomen.</p>
+<p rend="indfirst">– Hade ni några förhoppningar?</p>
+<p rend="indfirst">– Ja, kvinnorna.</p>
+<p rend="indfirst">– Fann ni någon?</p>
+<p rend="indfirst">– Jag bodde tre år tillsamman med en
+<lb/>mörderska.</p>
+<p rend="indfirst">– Vacker?</p>
+<p rend="indfirst">– Gudomlig! Dessutom hade hon ett
+<lb/>mycket gott hjärta.</p>
+<p rend="indfirst">– Har ni några önskningar? Längtar ni
+<lb/>efter kärlek. Tror ni på ett kommande liv?</p>
+<p rend="indfirst">– Jag har en önskan, jag längtar inte
+<lb/>efter kärlek och jag tror på ett kommande liv.</p>
+<p rend="indfirst">När jag snokat upp en lada att sova i
+<lb/>är det alltid mitt bekymmer att den som äger
+<lb/>ladan skall komma och köra bort mig, innan
+<lb/>jag sovit mig nöjd. Ni kan inte tro, vad det
+<lb/>trycker mig, att aldrig få sova riktigt länge.</p>
+<p rend="indfirst">Som nu, när jag svept trasorna om
+<pb n="117"/>
+<lb/>mig! Jag har inga behov. Jag har inga önsk&#x00AD;
+<lb/>ningar. Jag är inte rädd för polisen. Jag
+<lb/>skulle kunna mörda er. Men jag darrar som
+<lb/>ett barn, när jag i morgon hör stegen av bon&#x00AD;
+<lb/>den som kommer och kör bort mig!</p>
+<p rend="indfirst">– Ni kunde mörda bonden!</p>
+<p rend="indfirst">– Nej, jag blir svag av rädsla att ej få
+<lb/>sova ut. Och tror ni jag finge sova längre om
+<lb/>jag mördade honom?</p>
+<lb/>
+<p rend="indfirst">Är ni inte rädd för mig? Att jag skall
+<lb/>mörda er?</p>
+<p rend="indfirst">– Nej, ni har ju fått femöringen.</p>
+<p rend="indfirst">– Ni har rätt. Är ni aldrig rädd för
+<lb/>någon.</p>
+<p rend="indfirst">– När jag var barn var jag rädd för
+<lb/>Gud och för domen.</p>
+<p rend="indfirst">– Ni får oftast sova i fred?</p>
+<p rend="indfirst">– Oftast.</p>
+<p rend="indfirst">– Lycklige! Vad lever ni av?</p>
+<p rend="indfirst">– Ingenting.</p>
+<p rend="indfirst">– Det är det bästa. Då får ni inte fett&#x00AD;
+<lb/>bildning kring hjärtat.</p>
+<p rend="indfirst">Midnatt.</p>
+<p rend="indfirst">Olle ligger vaken och hör hur tungt den
+<pb n="118"/>
+<lb/>hemlöse sover. Men om en stund vaknar han
+<lb/>och mumlar: Ge mig en plats – där ingen
+<lb/>väcker mig. Och Olle tänker: Hans enda be&#x00AD;
+<lb/>kymmer!</p>
+<lb/>
+<p rend="center"><lb:separator content="_" count="8"/></p>
+<lb/>
+<pb n="119"/>
+    </div2>
+    <div2 type="poem" xml:id="Kap12">
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<head rend="big center chaptername">En landstrykares morgonsång
+<lb/>till solen.</head>
+<lb/>
+<lg><lg><l>Sol, har du redan stigit över tjärnen och</l>
+<l rend="ind10">heden?</l>
+<l>Skrattar du redan bredmunt med ditt ansikte</l>
+<l rend="ind10">gula?</l>
+<l>Kom nu, så får du lysa på slavsande trasor,</l>
+<l>fattiga äro barnen dina, magra och fula.</l></lg>
+<lb/>
+<lg><l>Sol, vill du höra visor om isen och natten,</l>
+<l>vägarna äro hårda och stängda äro husen.</l>
+<l>Nattrampet är jag trött av, och morgonen är</l>
+<l rend="ind10">min plåga.</l>
+<l>Sol, dina små prinsessor äro rädda för busen.</l></lg>
+<lb/>
+<lg><l>Sol, varför är du vass som en rispande skära,</l>
+<l>finns intet moln du kan smyga bakom?</l>
+<l>Säj, varför kommer ljuset så oförskämt nära?</l>
+<l>Tar du dock kanske trasor för blad och blom?</l></lg>
+<lb/>
+<pb n="120"/>
+<lg><l>Sol, jag är nog en blomma, en vandrande</l>
+<l rend="ind10">blomma,</l>
+<l>gifthus det har jag också, bakom trasiga blad.</l>
+<l>Lys mig på mina vägar – du är dock min</l>
+<l rend="ind10">moder!</l>
+<l>Död och brott blommar i ditt bländande bad.</l></lg>
+<lb/>
+<lg><l>Stackare mig som blott har dig till moder!</l>
+<l>Sol, du som föder tusen små stinkande liv!</l>
+<l>Sol, du är blott en måne på hemlösas vägar!</l>
+<l>Sol, för de syndsvarta är du skarp som en</l>
+<l>kniv!</l></lg>
+<lb/>
+<lg><l>Sol, jag är full av hädelse, skynda dig, göm</l>
+<l rend="ind10">dig!</l>
+<l>skälvande må jag krypa hop här i skuggan</l>
+<l rend="ind10">och gråta,</l>
+<l>sol, om du är min moder, gå undan och</l>
+<l rend="ind10">glöm mig,</l>
+<l>sol, vill du inte torka mig – kinderna äro</l>
+<l rend="ind10">våta!</l></lg></lg>
+<lb/>
+<p rend="center"><lb:separator content="_" count="8"/></p>
+<lb/>
+<pb n="121"/>
+</div2>
+    <div2 type="part" xml:id="Kap13">
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<head rend="big center chaptername">Bönemötet på Kavelås.</head>
+<lb/>
+<p rend="indfirst">Det var det största mötet som hållits på
+<lb/>Kavelås, och det var höstens sista. Nu kunde
+<lb/>man ej hålla till på logen hos Hermanson, han
+<lb/>hade i stället upplåtit sina tre rum på nedre
+<lb/>botten av stugan, och de lågo alla i en fil,
+<lb/>så att när dörrarne mellan dem stodo öppna
+<lb/>kunde alla i de tätt packade rummen höra
+<lb/>predikantens röst.</p>
+<p rend="indfirst">Från alla de vilda bergen kommo åhörar&#x00AD;
+<lb/>na, gamla och unga, över halvmilslånga myrar
+<lb/>och blåsiga fjäll, och packade ihop sig som
+<lb/>ett fiskstim, redan en timme före utsatt tid.
+<lb/>Där satt enbente Klas från Lerberget, skoma&#x00AD;
+<lb/>karen, som på sin grova grankrycka hoppat
+<lb/>fram en mils väg genom de ödsliga skogarna,
+<lb/>och där satt hans far, med sitt allvarliga pro&#x00AD;
+<lb/>fetansiikte och det böljande vita skägget över
+<pb n="122"/>
+<lb/>vadmalsvästen, och Klas mor, och alla de röd&#x00AD;
+<lb/>hylta pigorna från Hobärg och Håbärg. Där
+<lb/>satt längst fram på träbänken Lars Eriksson,
+<lb/>fritänkaren och lennstrandianen, med sitt nya
+<lb/>testamente och en blyertspenna, och mitt emot
+<lb/>honom hans gamla fromma mor, med det vita
+<lb/>ansiktet inramat i svart hälgdagssilke. Trap&#x00AD;
+<lb/>pan och farstun fylldes av unga flickor och
+<lb/>pojkar, och där blev så varmt att dörren fick
+<lb/>stå öppen och där blev så fullt av kolsyra,
+<lb/>att gamla brösttunga gubbar flämtade med
+<lb/>halvöppen mun, och från leriga stövlar och
+<lb/>våta kläder och kroppar gick ånga och lukt av
+<lb/>svett, och Hermanssons pojke öppnade ett fön&#x00AD;
+<lb/>ster, som genast stängdes igen, för korsdra&#x00AD;
+<lb/>gets skull.</p>
+<p rend="indfirst">Där rådde ett mycket dämpat sorl, och en
+<lb/>grovnackad smed, som spordes vad klockan
+<lb/>var, höll upp sitt cylinderur ovanför huvudet
+<lb/>och vände och vred det åt alla håll, för att
+<lb/>slippa tala högt. Ibland lutade två kvinnor
+<lb/>sina dukklädda huvuden mot varandra och läp&#x00AD;
+<lb/>parna rördes, och gamla tunga kroppar vag&#x00AD;
+<lb/>gades fram och åter på bräderna, lagda över
+<pb n="123"/>
+<lb/>grova pinnbockar, och stubbiga, hårt skurna
+<lb/>hakor stöddes mot knotiga käppkryckor.</p>
+<p rend="indfirst">Helt nära den vitlimmade järnkaminen
+<lb/>slog en dalklocka halv åtta, och när tio mi&#x00AD;
+<lb/>nuter därtill gått kom Stor-Andersson, predi&#x00AD;
+<lb/>kanten, ned från övre våningen och trängde
+<lb/>sig med sin bibel under armen väg genom det
+<lb/>fnissande ungfolket vid dörren. Han bar grova
+<lb/>skor och var klädd som en bonde, hans långa
+<lb/>hår låg i lockar ned över en brun och nött
+<lb/>rockkrage, och när hans stadiga, stränga ögon
+<lb/>för en sekund överfor församlingen, for en
+<lb/>skugga av respektfull förväntan över de still&#x00AD;
+<lb/>samma ansiktena.</p>
+<p rend="indfirst">Olle satt mitt i värsta trängseln och såg
+<lb/>noga på predikantens ansikte. Han tänkte på
+<lb/>det gåtfulla allvaret däri. Det var inte skogs&#x00AD;
+<lb/>mannens vilda allvar inför döden, det lugn
+<lb/>som däri fanns, det fanns även här, men där&#x00AD;
+<lb/>till något annat. Det här allvaret var som Ka&#x00AD;
+<lb/>rigos, när han tittade in i en annans själ, lika
+<lb/>omutligt, långt ifrån så hopplöst ändå! Det
+<lb/>var tron i detta ansikte som gjorde skillna&#x00AD;
+<lb/>den – om inte det funnits tro i detta ansikte,
+<lb/>skulle det ha varit en bödels – men Gud
+<pb n="124"/>
+<lb/>vare lov för all tro, som fanns kvar i denna
+<lb/>svarta tidsålder!</p>
+<p rend="indfirst">Stor-Andersson hade kortklippt skägg och
+<lb/>begagnade nervikt krage med stor, gammal&#x00AD;
+<lb/>dags kravatt. Där det jämna, gråa skägget
+<lb/>glesnade kneps en hård och befallande mun
+<lb/>ihop, så att det syntes utanpå käkarna
+<lb/>hur fast tänderna vilade mot varandra, och
+<lb/>de bruna ögonen sågo alltid så långt bort
+<lb/>som om han sett himmelen öppen.</p>
+<p rend="indfirst">Och varenda bit av den mannens kläder
+<lb/>var allvar, och obevekligt sträng var även den
+<lb/>grova arbetshanden, som höll bibeln. Dessa
+<lb/>ögon kunde knappt fästas vid något världs&#x00AD;
+<lb/>ligt utan att skuggas, och det var två djupa
+<lb/>linier under dem, som blevo strängare och
+<lb/>allvarligare när mannen log.</p>
+<p rend="indfirst">Han reste sig och bad med knäppta hän&#x00AD;
+<lb/>der, och då böjdes alla huvuden utom Olles –
+<lb/>han måste ju se allt detta<choice><sic> </sic><corr resp="litlolo"/></choice>! Där satt till vän&#x00AD;
+<lb/>ster en kvinna i ett hörn, och hon var mycket
+<lb/>fattigt klädd och hade ett mycket vackert an&#x00AD;
+<lb/>sikte och lutade sig framåt så att den svart&#x00AD;
+<lb/>klädda ryggen liknade en spant av järn i ett
+<lb/>brovalv. Hon snyftade, och Olle tyckte, att
+<pb n="125"/>
+<lb/>bara hennes smärtfyllda underkastelse borde
+<lb/>beveka Gud till förmån för bara inte henne,
+<lb/>utan alla andra förkrossade. Hon var mager
+<lb/>– han kände henne – hon var en lösdrivande
+<lb/>hjälpgumma. Var det därför hon gått hit, där&#x00AD;
+<lb/>för att här bjöds ut en annan värld? Men Olle
+<lb/>tänkte, att när hon så snyftade i händerna,
+<lb/>borde det varit en gloria kring hennes hår.</p>
+<p rend="indfirst">Stor-Andersson tog upp en sång.</p>
+<lb/>
+<lg rend="ind"><l>»Ingen hinner fram till den eviga ron,</l>
+<l>Som sig ej eldigt framtränger.</l>
+<l>Själen måste utstå en kamp för den tron,</l>
+<l>Varpå vår salighet hänger – – – </l>
+<l>– – – </l>
+<l>Men här gäller tränga, ja, tränga sig fram,</l>
+<l>Annars går himlen förlorad!»</l></lg>
+<lb/>
+<p rend="indfirst">Genom bruset av hopens råa röster hördes
+<lb/>Stor-Anderssons stämma, och den var lika
+<lb/>sträng som det grova klädet i hans svarta
+<lb/>rock. Somliga kvinnor gräto. Om himlen gick
+<lb/>förlorad, då var allt förlorat. Det fanns reson
+<lb/>i att vara fattig och slita ut sig till bara bleka
+<lb/>benen, om det ändå fanns hopp om bättre
+<lb/>tider! Och det fanns ju! Fast ingen kunde leva
+<pb n="126"/>
+<lb/>som Stor-Andersson, han var ju så sträng och
+<lb/>lagisk. Men det fanns ju nåd också!</p>
+<p rend="indfirst">Då steg Stor-Andersson fram och läste upp
+<lb/>texten, och den var sträng som den gamle gu&#x00AD;
+<lb/>den själv. En ung kvinna med ett barn i knäet
+<lb/>skalv till, och utanför fönstret skrapade den
+<lb/>stora aspens grenar gnisslande mot glaset. Nå&#x00AD;
+<lb/>gon hostade, så böjdes ryggarna igen, och den
+<lb/>stränga stämman gick som en lans av järn ge&#x00AD;
+<lb/>nom rummet:</p>
+<p rend="indfirst">»Och om någon kommer till mig och icke
+<lb/>hatar sin fader och moder och hustru och
+<lb/>barn och bröder och systrar och därtill sitt
+<lb/>eget liv, han kan icke vara min lärjunge.»</p>
+<p rend="indfirst">Det var inte många, som fullt fattade den
+<lb/>texten, bara att något ofattbart svårt slungats
+<lb/>ut, ett villkor med en dom bakom. Stor-An&#x00AD;
+<lb/>derssons tal var också bara dom. Han vände
+<lb/>sig till kvinnorna.</p>
+<p rend="indfirst">– Har du nånting du älskar – nånting
+<lb/>du sitter fast vid. Är det pängar du samlar –
+<lb/>är det foder i ladorna – är det dina svultna
+<lb/>kor, som du mjölkar? Kom ihåg att du ska
+<lb/>hata allt dä där – dä menas inte du ska kasta
+<lb/>bort dä – för dä står att du även ska hata
+<pb n="127"/>
+<lb/>ditt eget liv – å dä kan du ju i alla fall inte
+<lb/>kasta bort – däj själv får du dras mä, för du
+<lb/>är tvungen – men liksom du hatar ditt liv å
+<lb/>blir en sökare, som söker nånting högre än
+<lb/>ditt liv – så ska du hata allt som hör ihop
+<lb/>med dä livet – för din själ ska gå sin egen
+<lb/>väg genom mörker och gråt – å den dagen
+<lb/>du hatar mest är du närmast himlen – å
+<lb/>himlen, dä är dä outsägliga å den vet du in&#x00AD;
+<lb/>genting om – den är högre än dä bästa du
+<lb/>tänkt å känt å gjort – å den är inget rum å
+<lb/>ingen grannlåt – den är däsamma som du
+<lb/>själv, när du lärt däj hata ditt eget liv. Å var&#x00AD;
+<lb/>för ska du hata din far å mor? Menas dä att
+<lb/>du ska vara hård mot dom? Nej, men du får
+<lb/>inte älska dom så, att du därför älskar ditt
+<lb/>eget liv – du ska samla ihop å kasta bort
+<lb/>dä sista av all din stora kärlek till de ting som
+<lb/>är av jord, å gå ensam ut till din Gud – men
+<lb/>om du älskar dä blod som drives av ditt hjärta,
+<lb/>å sitter fast vid ting som är sken, så är du
+<lb/>inte ensam, så kan du inte hata, så kan du
+<lb/>allri få det bättre än du har dä nu – å då
+<lb/>har du känt vad helvete är.</p>
+<pb n="128"/>
+<p rend="indfirst">Du vill inte gå den här vägen, för om du
+<lb/>inte får gripa fast i tingen, så kan du inte
+<lb/>reda däj – du kommer på fattighuset. Du
+<lb/>är rädd att svälta ihjäl – då hatar du inte
+<lb/>ditt eget liv – då är du inte på vägen – då
+<lb/>är du inte Kristi efterföljare – du har en
+<lb/>dom över däj.</p>
+<p rend="indfirst">Han tystnade och såg genomträngande på
+<lb/>än den ena, än den andra, och hans blick träf&#x00AD;
+<lb/>fade Olle, som inte stod sig inför dessa ögon,
+<lb/>utan såg ner i golvet.</p>
+<p rend="indfirst">– Du, yngling – vad älskar du och vad
+<lb/>hatar du? Du är ond över att du är fattig –
+<lb/>jag är fattigare – det är en lycka – en har
+<lb/>inte så mycket en behöver lära säj hata då.
+<lb/>Men du har i alla fall ditt eget liv – å du får
+<lb/>allt lära däj hata dä, annars kommer du un&#x00AD;
+<lb/>der lagen å ut i tomheten å straffet – ja,
+<lb/>dom talar om evigt straff – å jag tar Gud
+<lb/>till vittne att jag inte vill rubba en prick eller
+<lb/>bokstav av denna lagens ord – å saker som
+<lb/>är fördolda ska vi inte kivas om – men ett
+<lb/>vet jag, att över alla straff står Herren Gud,
+<lb/>å han är starkare än både djävulen å hela det
+<lb/>rödaste helvetet, å, han är barmhärtigare än
+<pb n="129"/>
+<lb/>den barmhärtigaste människa som gått på jor&#x00AD;
+<lb/>den. Men du går under en dom, om du inte
+<lb/>lär däj hata ditt eget liv – du tänker du är
+<lb/>ung å du hinner, men du kan dö innan månen
+<lb/>gått opp, å vart ska din själ ta’ vägen? Du
+<lb/>tror väl inte du är slut då? Jag säjer däj –
+<lb/>du är kvar, du lever, du tänker, du älskar,
+<lb/>du hatar, då, som förr – men så mycket du
+<lb/>lärt däj hata här, är du kvitt där – – – </p>
+<p rend="indfirst">Din mask skall inte dö, å din eld skall
+<lb/>inte utsläckas – du vill ändå inte in i eldens
+<lb/>gehenna – du tror kanske du renas å går där&#x00AD;
+<lb/>ifrån, men det är bäst att ha klart –</p>
+<p rend="indfirst">En finns som är större – som kan hjälpa
+<lb/>däj att hata och att dö. Föraktar du honom, så
+<lb/>ska allt mörkret famna däj, å redlös ska du
+<lb/>driva ut i avgrunder av elände! Det är så
+<lb/>svårt, å ändå så lätt – – –  å om du tror
+<lb/>har du evigt liv.</p>
+<p rend="indfirst">Han fortsatte allt ivrigare. Olle satt och
+<lb/>såg hur ansiktet spändes och hur glödande
+<lb/>stränga ögonen lyste genom det simmiga dunk&#x00AD;
+<lb/>let. Det var kvävande hett som ett ångbad,
+<lb/>men ingen rörde sig. Det var tystare än gra&#x00AD;
+<lb/>ven mellan varje flämtande ord, varje het&#x00AD;
+<pb n="130"/>
+<lb/>sigt andetag. Till sist slutade han och bad
+<lb/>för dem.</p>
+<p rend="indfirst">Några kvinnor snyftade, några gubbar
+<lb/>krömpo våldsamt ihop, det var dödstyst och
+<lb/>talgdanken flämtade på bordet som en sjuk,
+<lb/>brinnande lunga. En man och en kvinna hade
+<lb/>knäböjt och ropade högt som drunknande om
+<lb/>hjälp. Nu sjönk en ung kvinna ihop framme
+<lb/>vid bordet – var hon avsvimmad eller bad
+<lb/>hon? En stor, grov karl grät som en barn&#x00AD;
+<lb/>unge, och en gammal man böjde sig framåt
+<lb/>och nickade med huvudet som i kramp, och
+<lb/>en vild kolarflicka från bergen skakade som ett
+<lb/>löv när Stor-Andersson såg på henne. Någon
+<lb/>vid dörren rörde sig, en sång sjöngs och de
+<lb/>oberörda troppade av.</p>
+<p rend="indfirst">Där knäböjde en ring av människor kring
+<lb/>Stor-Anders, och några i ringen gräto våld&#x00AD;
+<lb/>samt. Det blev bättre nu, när folket gått och
+<lb/>den friska luften spelade in genom rummet.
+<lb/>Golvet hade floder av träckigt vatten och
+<lb/>smuts och Olle kunde knappt se den knäbö&#x00AD;
+<lb/>jande ringen för ångans skull, men han såg en
+<lb/>tavla med korsfästelsescenen ovanför de bed&#x00AD;
+<pb n="131"/>
+<lb/>jandes huvud. Dess glas var brustet och
+<lb/>av det billiga oljetrycket stack ut en köttröd
+<lb/>kant genom springan.</p>
+<p rend="indfirst">Han såg den fattiga hjälpgumman ännu
+<lb/>sitta i sitt hörn med huvudet i händerna.
+<lb/>Hon vågade säkert inte gå fram – kanske
+<lb/>ville hon det inte heller? Han undrade vad
+<lb/>hon tänkte, och varför hon satt så stilla då alla
+<lb/>andra voro i rörelse. Hennes magra kropp
+<lb/>nästan slukades av mörkret i stugan och vat&#x00AD;
+<lb/>tenångan som fuktade väggarna och immade
+<lb/>fönstret. Hennes kläder sutto fattigt snävt
+<lb/>kring gestalten, och ansiktet doldes fullkom&#x00AD;
+<lb/>ligt av de grova, röda händerna. Och när
+<lb/>Olle sett på henne en stund fann han plöts&#x00AD;
+<lb/>ligt att allt var så långt borta. Den bedjande
+<lb/>ringen hade höljts av mörker och endast en
+<lb/>smula ljus glimmade i det brustna glaset kring
+<lb/>den korsfäste, och den stackars kvinnan var
+<lb/>bara en skarpt kantad figur mot en vit him&#x00AD;
+<lb/>mel, där små svarta moln gungade. Men hon
+<lb/>hade en glänsande ring av guld över det gråa
+<lb/>håret.</p>
+<lb/>
+<p rend="indfirst">– – – </p>
+<pb n="132"/>
+<p rend="indfirst">När han gick hem härjade stormen som en
+<lb/>vilde och slet och rev i träd och hus. I mörk&#x00AD;
+<lb/>ret förbi honom skymtade små flockar av
+<lb/>tysta och trötta människor. De hade försökt
+<lb/>få himmelens dörr litet på glänt, tänkte han,
+<lb/>och nu gingo de hem för att sova och vakna
+<lb/>med det nyktra dagsljuset skinande över all
+<lb/>deras kalla fattigdom. Det var en något un&#x00AD;
+<lb/>derlig Guds gåva att få vara människa!</p>
+<p rend="indfirst">När alla darrande skuggor skymtat förbi
+<lb/>honom och han ensam famlade sig fram ge&#x00AD;
+<lb/>nom mörkret och stormen, tände han sin pipa
+<lb/>och sjöng och smågnolade för sig själv.</p>
+<lb/>
+<p rend="center"><lb:separator content="_" count="8"/></p>
+<lb/>
+<pb n="133"/>
+</div2>
+<div2 type="part" xml:id="Kap14">
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<head rend="big center chaptername">Det gångna är som en dröm och
+<lb/>det närvarande förstår jag icke.</head>
+<lb/>
+<p rend="indfirst">Han låg med ansiktet obetäckt, gult, blekt
+<lb/>och håligt, med nästan vit skäggstubb över
+<lb/>haka och hals, var klädd som kringvandrande
+<lb/>krämare, och ingen visste ännu vem han i
+<lb/>livet varit. Han hade hittats död vid Mattna
+<lb/>och burits till Ramnåsen på en säck, varige&#x00AD;
+<lb/>nom man ränt två störar att bära med. Ej hel&#x00AD;
+<lb/>ler hade där varit några spår av dödskamp.
+<lb/>Han hade funnits vid kanten av ett sump&#x00AD;
+<lb/>hål, där han med stövelklacken sparkat hål
+<lb/>i isen för att dricka, liggande på, magen, med
+<lb/>bröstet mot de frusna tuvorna.</p>
+<p rend="indfirst">– Det är underligt att ha ett lik i huset,
+<lb/>när man ska supa, sade Olle till Karigo och
+<lb/>älgjägaren Strid, som fraktat hem den döde.
+<pb n="134"/>
+<lb/>Det var årets fjärde vecka av storsupning hos
+<lb/>Karigo, och de hade gått halvfulla i två dygn.</p>
+<p rend="indfirst">Men Olle tystades ner av Karigo, som
+<lb/>tyckte att man kunde supa till den dödes åmin&#x00AD;
+<lb/>nelse.</p>
+<p rend="indfirst">– Tja, en behöver förstås inte ta supnin&#x00AD;
+<lb/>gen som ett skoj, funderade Olle, rörande
+<lb/>om med en järnpåk i glöden i Karigos öppna
+<lb/>spis. Egentligen är det det största allvar som
+<lb/>finns – ett rent rakt förbannat allvar. Han
+<lb/>stödde sig mot järnpåken och såg på Strid och
+<lb/>Karigo, som tappade brännvin ur en tjugukan&#x00AD;
+<lb/>norskagge i en kopparskopa.</p>
+<p rend="indfirst">– För när allt kommer omkring, tas det
+<lb/>ändå alltid som medicin mot alla slags lessam&#x00AD;
+<lb/>heter, som inte slagit sig till i ryggen eller
+<lb/>magen. För då hjälper bara trolldom.</p>
+<p rend="indfirst">Karigo låtsades inte höra gliringen.</p>
+<p rend="indfirst">– Tänk på denna döda människa, fort&#x00AD;
+<lb/>satte Olle, detta ostörda avsomnande, ensam
+<lb/>i skogen under furorna, bland ljung som fry&#x00AD;
+<lb/>ser under brinnande stjärnor – – </p>
+<p rend="indfirst">– Hur vet du, att han var ensam? frå&#x00AD;
+<lb/>gade Karigo häftigt.</p>
+<pb n="135"/>
+<p rend="indfirst">Olle sträckte sig bakåt mot den svarta
+<lb/>muren och körde händerna i fickorna, i det
+<lb/>han började läsa i Karigos ansikte. Hans
+<lb/>hjärna arbetade, kinderna färgades rödare och
+<lb/>ögonen glänste genom halvmörkret. Han lu&#x00AD;
+<lb/>tade sig plötsligt framåt och började tala med
+<lb/>frånvarande blick.</p>
+<p rend="indfirst">– Jag kan tänka mig att han inte var
+<lb/>ensam – det var två till – och den ene är
+<lb/>mörk – den andre ljus – och klädda som
+<lb/>landsstrykare – och de gå efter, när den
+<lb/>ensamme går ut från byn – genom Väs&#x00AD;
+<lb/>terfallet och Södra berget – han tar norra
+<lb/>vägen över Södra berget – Olle såg rakt in i
+<lb/>Karigos hårda ögon – över Södra berget och
+<lb/>upp mot Tjäderdalen – och de två gå södra
+<lb/>vägen genom vilda passet – Styggbärgsvä&#x00AD;
+<lb/>gen – och går fort – och den ensamme går
+<lb/>fort också – vänta – nu gå de på var sin
+<lb/>sida om kärret, där Mattna Draina börjar –
+<lb/>nu hinner den ensamme före till sumpen – han
+<lb/>är törstig – han har gått fort – och lägger
+<lb/>från sig sin packe och sparkar hål med stövel&#x00AD;
+<lb/>klacken i isen och lägger sig ner – nu ha
+<lb/>de två hunnit fram – de två, och den ene
+<pb n="136"/>
+<lb/>har hårda nävar – och en håller halsen –
+<lb/>strupen, förstår ni – och den andra kastar
+<lb/>sig över ryggen och prässar den ensamme
+<lb/>fast mot – mot de frusna tuvorna – och två
+<lb/>händer klänga om den gurglande strupen –
+<lb/>det dröjer inte länge – det blir snart tyst –
+<lb/>det är färdigt nu – han sparkar inte ens
+<lb/>mer –</p>
+<p rend="indfirst">– Jag vet, svarade Karigo mörkt, men
+<lb/>det rör oss inte.</p>
+<p rend="indfirst">Olle sjönk tillbaka mot spishällen. Hans
+<lb/>panna var våt av svett och han skälvde, men
+<lb/>såg oavvänt på Karigo.</p>
+<p rend="indfirst">– Om du blir full i natt blir du nog
+<lb/>rolig att höra på, mumlade han. En mängd
+<lb/>av röda syner dansade för hans ögon. Han
+<lb/>knäppte händerna över pannan.</p>
+<p rend="indfirst">Karigos ansikte var redan rött av rus.
+<lb/>Han stampade osäkert i golvet och ögonen
+<lb/>spelade.</p>
+<p rend="indfirst">– Och nu ska vi ha mat! vrålade han
+<lb/>vilt. Var är käringen?</p>
+<p rend="indfirst">Hon kom stultande ut ur sin kammare
+<lb/>och började ordna. Hon såg trött och lik&#x00AD;
+<lb/>nöjd ut, draget kring den breda tandlösa mun&#x00AD;
+<pb n="137"/>
+<lb/>nen var hårt och slappt på en gång och hon
+<lb/>hostade otåligt och såg inte åt någon av män&#x00AD;
+<lb/>nen. Som alla gånger när det söps fick man
+<lb/>bara kall mat. Brännvinet ersatte det varma.
+<lb/>Där fanns också öl i två bruna trästop. De
+<lb/>satte sig ner och åto och drucko.</p>
+<p rend="indfirst">Karigo var snart stupfull.</p>
+<p rend="indfirst">– Hi-hi! skrek han, och visslade mellan
+<lb/>fingrarna, härmande en svala. Är ni inte rädda
+<lb/>för djävulen?</p>
+<p rend="indfirst">Sedan kröp han över golvet på alla fyra.</p>
+<p rend="indfirst">– Är ni inte rädda, era myrlingar? gläf&#x00AD;
+<lb/>sade han. Han höll huvudet rätt upp medan
+<lb/>han kröp, och krafsade med de grova hän&#x00AD;
+<lb/>derna mot golvet. Hans toviga hår stod rätt
+<lb/>upp, ögonen brunno. Strid ryste, och Olle
+<lb/>skrek, att Karigo inte skulle få mer bränn&#x00AD;
+<lb/>vin. Han var själv ganska duktigt berusad.</p>
+<p rend="indfirst">– Skäll, skäll som en hund, du apa, du
+<lb/>skabbiga katt! skrek han från sitt hörn i spi&#x00AD;
+<lb/>sen, där glöden grånade och falaskan dan&#x00AD;
+<lb/>sade i draget. Dä låter fan så mycke bättre
+<lb/>om du skäller som en hund!</p>
+<p rend="indfirst">– Jag kan skäll, jag! skrek Strid gällt.
+<lb/>Han satt vid bordet, hängande huvudet mot
+<pb n="138"/>
+<lb/>bröstet, gungande fram och tillbaka med över&#x00AD;
+<lb/>kroppen som ett vasstrå i landvågor, nickande
+<lb/>och spottande ner mellan de vitt åtskilda be&#x00AD;
+<lb/>nen. Armarna hängde och blodet fyllde hän&#x00AD;
+<lb/>derna tills de liknade klubbor.</p>
+<p rend="indfirst">– Tig – du är en gris, grymtade Olle.
+<lb/>Han blev allt rusigare, hela det svarta rum&#x00AD;
+<lb/>met gungade, Karigo gungade, Strid gungade
+<lb/>och den fotogendrypande taklampan dansade.</p>
+<p rend="indfirst">Nu började Karigo plötsligt sjunga, med
+<lb/>hes och bölande röst, sittande som! en hund
+<lb/>mitt på golvet:</p>
+<lg rend="ind"><l>»En jägare i skogen går –</l>
+<l>pomm pomm!</l>
+<l>Han hittar en duva i gråa snår –</l>
+<l>pomm pomm!»</l></lg>
+<p rend="indfirst">– Det kan du inte! avbröt Olle förakt&#x00AD;
+<lb/>fullt fnysande. Och med någorlunda ren röst
+<lb/>sjöng han:</p>
+<lg rend="ind"><l>»En jägare i skogen går –</l>
+<l>pomm pomm!</l>
+<l>Han hittar en duva vid Mattinalam</l>
+<l>och en döding i Drainas gråa snår</l>
+<l>och bytet för dagen är död mans kött</l>
+<l>som bäres till kyrkjord fram.»</l></lg>
+<pb n="139"/>
+<p rend="indfirst">– Vi ska gå opp – på vinn å si va jag
+<lb/>har där, föreslog Karigo nästan gråtmilt bed&#x00AD;
+<lb/>jande. Si – va – jag – har – på – vinn –</p>
+<p rend="indfirst">De tre raglade mot dörren, som Olle spar&#x00AD;
+<lb/>kade upp. Det var mörkt i farstun och uppför
+<lb/>vindeltrappan kröpo de som kattor, kravlande
+<lb/>och spottande, Strid skrek, att en vit katt gått
+<lb/>förbi dem i mörkret och Karigo sade, att det
+<lb/>var gårdens hund, som dött för en vecka se&#x00AD;
+<lb/>dan, och Olle röt morskt, att det var satan,
+<lb/>och så kröpo de vidare uppför den branta
+<lb/>trappan, lallande och sjungande.</p>
+<p rend="indfirst">Överst stannade Olle, som krupit före de
+<lb/>andra, krafsande på vindsdörren med hän&#x00AD;
+<lb/>derna och bultande sitt huvud mot panelen för
+<lb/>att få upp den.</p>
+<p rend="indfirst">– Hallå därinne, alla andar och gulgröna
+<lb/>gastar och troll och spökhundar! skrek han.</p>
+<p rend="indfirst">Dörren for upp och en rå luft smekte hans
+<lb/>heta huvud. Han reste upp sig och letade i
+<lb/>fickorna efter tändstickor.</p>
+<p rend="indfirst">– Du skulle ha eldat här – o – du
+<lb/>store medicinman – innan du visade dina
+<lb/>ärade gäster hit – – </p>
+<pb n="140"/>
+<p rend="indfirst">Han snavade i detsamma över något och
+<lb/>föll huvudstupa i golvet. Strid strök eld och
+<lb/>lyste på det föremål Olle snavat över. Det
+<lb/>var bara Karigos likkista, som han låtit göra
+<lb/>och förvarade häruppe. Karigo kom krypande.
+<lb/>Tändstickan hade slocknat, men Olle reste sig
+<lb/>svärjande och tände en ny. En gammal gas&#x00AD;
+<lb/>lampa med fot av horn stod på en låda och
+<lb/>Olle tände den med famlande hand, under
+<lb/>det Karigo sluddrade:</p>
+<p rend="indfirst">– Jo – ni – å nu ska jag lägga mäj
+<lb/>– i den här lå – an, å ni ska ta åv locke
+<lb/>å – ta – åv – locke – era fyllsvin – – </p>
+<p rend="indfirst">Strid satt kvar, där han satt och bara stir&#x00AD;
+<lb/>rade, Olle började övermodigt bända i loc&#x00AD;
+<lb/>ket.</p>
+<p rend="indfirst">– Har du nånting ovanligt i den här –?
+<lb/>frågade han misstroget.</p>
+<p rend="indfirst">– En får si – – når en ö-öppnar! Ka&#x00AD;
+<lb/>rigo stod lutad över kistan, gungande och
+<lb/>dreglande för vart ord han pressade fram. Nu
+<lb/>gick locket – och där fanns sängkläder, ma&#x00AD;
+<lb/>drass och kudde.</p>
+<p rend="indfirst">– Sir ni, här sover Karigo middag –
+<pb n="141"/>
+<lb/>här – vänjer han säj ve å vara dö! – – stå
+<lb/>nu åt sidan – så får han vil – a – – </p>
+<p rend="indfirst">Han ramlade i detsamma raklång i kis&#x00AD;
+<lb/>tan och slog sitt lurviga huvud med en plums
+<lb/>mot kudden. Olle gapskrattade.</p>
+<p rend="indfirst">– Du kan gärna ta’ å dö nu, sade han
+<lb/>grinigt, så bränner vi hornlampan en stund
+<lb/>för din okunniga själ.</p>
+<p rend="indfirst">Men Karigo svarade inte, han hade slutit
+<lb/>ögonen. Sov han? Lampan osade. Strid såg
+<lb/>otrevligt full ut. Olle började bli nykter, och
+<lb/>han undrade varför Karigos ansikte var så
+<lb/>blått mot den brunrandiga kudden i kistan.
+<lb/>Hade han druckit för mycket, och skulle han
+<lb/>dö nu? Men han andades ännu och låg som
+<lb/>en svart klump mellan den svarta kistans glän&#x00AD;
+<lb/>sande bräddar.</p>
+<p rend="indfirst">– Ett sånt skoj – tror du, han kan vända
+<lb/>syn, Olle, frågade Strid rysande.</p>
+<p rend="indfirst">Olle ryckte på axlarna.</p>
+<p rend="indfirst">– Han kan tillräckligt för att skrämma
+<lb/>vettet ur däj, åtminstone.</p>
+<p rend="indfirst">– Dä ligger en filt där – vi lägger över
+<pb n="142"/>
+<lb/>han, så han inte fryser, å så går vi ner – så
+<lb/>där, ja – Olle stoppade filten om Karigo.</p>
+<p rend="indfirst">– Ska vi släcka?</p>
+<p rend="indfirst">– Nej – låt brinna – han betalar ju själv
+<lb/>fotogenet – snålhund! Olle sparkade van&#x00AD;
+<lb/>vördigt i kistan och såg på Karigo.</p>
+<p rend="indfirst">– Ser du, hur han grinat opp säj – ser
+<lb/>du, hur grinet stelnat – nu drömmer han nog
+<lb/>nånting – ska vi skälla ett tag, så tror han
+<lb/>att han jagar hare?</p>
+<p rend="indfirst">Strid kände sig plötsligt modig, och i det
+<lb/>han med osäkra steg gick bort mot utgången,
+<lb/>gläfste han som en hund. Hans ansikte blev
+<lb/>plötsligt lika stelt som Karigos, och han ha&#x00AD;
+<lb/>sade sig närmare Olle i vanvettig ångest, stå&#x00AD;
+<lb/>ende med stel, spänd rygg som en fjäder.</p>
+<p rend="indfirst">– Hörde du?</p>
+<p rend="indfirst">– Visst hörde jag! Olle vände bort an&#x00AD;
+<lb/>siktet, som plötsligt blivit kritvitt, men dock
+<lb/>lugnt. Visst hörde jag! Han svarade bara
+<lb/>på ditt hundskall – men jag tyckte det lät
+<lb/>som en räv – i alla fall är han inte vaken
+<lb/>– det var i sömnen, du, var snäll och skäll
+<lb/>en gång till, får jag se på ansiktet hans – – </p>
+<pb n="143"/>
+<p rend="indfirst">Men Strid skalv i hela kroppen och hade
+<lb/>redan öppnat dörren. Olle följde efter, svär&#x00AD;
+<lb/>jande över Strids feghet. I dörren stannade
+<lb/>han och härmade en rävs gnällande skall, men
+<lb/>fick inget svar från kistan.</p>
+<p rend="indfirst">– Men tänk om han dör! oroades Strid,
+<lb/>när de voro i dörren.</p>
+<p rend="indfirst">– Jag tror inte han kan dö – han är
+<lb/>odödlig, skämtade Olle för att få litet luft.
+<lb/>Kom, så går vi ner nu!</p>
+<p rend="indfirst">De rumlade ner för trappan, och Strid
+<lb/>påstod, att den vita hunden gick före dem
+<lb/>hela vägen.</p>
+<p rend="indfirst">– Så sparka’n i ändan då, å försök be&#x00AD;
+<lb/>hålla ditt lilla förnuft en enda gång, svarade
+<lb/>Olle mycket otåligt.</p>
+<p rend="indfirst">– – – </p>
+<p rend="indfirst">Det stora köket var kallt och ruskigt och
+<lb/>Olle började plocka ved i spiseln, medan Strid
+<lb/>satte sig krokig och tillintetgjord borta vid
+<lb/>bordet och började äta av vad som fanns kvar.
+<lb/>Han begagnade varken kniv eller sked utan
+<lb/>grävde direkt i maten med fingrarna och stop&#x00AD;
+<lb/>pade in i munnen med en glupsk fart; Olle
+<lb/>hade fått brasan i ordning och tittade be&#x00AD;
+<pb n="144"/>
+<lb/>undrande på den hungrige. Han åt ju, så att
+<lb/>svetten dröp om honom! Tuggade och smas&#x00AD;
+<lb/>kade, och hans ansikte var ännu stelt som i
+<lb/>kramp och ögonen glanslösa. Till slut var
+<lb/>skålen tom, och då slickade han den direkt i
+<lb/>botten som en hund, flåsande och slafsande.</p>
+<p rend="indfirst">Olle började tröttna på djuret. Strid var
+<lb/>både tråkig och tokig. Hur var det med Ka&#x00AD;
+<lb/>rigo? Borde man inte gå upp och väcka ho&#x00AD;
+<lb/>nom, kanske han låg och kvävdes. Det var
+<lb/>knappast lönt att ta Strid med – nu söp
+<lb/>han ju också mer brännvin – han blev nog
+<lb/>snart redlös, och det var inte roligt att bli all&#x00AD;
+<lb/>deles ensam i detta förhexade näste. I alla
+<lb/>fall – nu borde han övervinna sin feghet
+<lb/>och gå upp och väcka Karigo.</p>
+<p rend="indfirst">Trappan syntes honom mörkare än förr
+<lb/>– och kanske det ännu var flera timmar till
+<lb/>dagningen? Han visste inte vad natten var
+<lb/>liden. Han såg ljus i dörrspringan däruppe,
+<lb/>alltså brann lampan ännu.</p>
+<p rend="indfirst">Han var för slö och kanske ännu litet för
+<lb/>rusig för att direkt besväras av någon rädsla,
+<lb/>öppnade dörren och snubblade fram mellan två
+<lb/>rader av upphängda kläder och kom fram till
+<pb n="145"/>
+<lb/>kistan. Karigo liknade en död och Olle ryste
+<lb/>mot sin vilja. Tänk om han var död! Fat&#x00AD;
+<lb/>tande ett plötsligt vilt beslut att företa sig
+<lb/>något, böjde han sig ner, fattade den sovan&#x00AD;
+<lb/>des arm och lyfte upp den. Karigo gjorde
+<lb/>ej någon rörelse, och Olle ropade i hans öra,
+<lb/>att det var tid att gå upp. Samtidigt röck han
+<lb/>våldsamt i armen. En känsla av iskall kramp
+<lb/>tog tag över Olles bröst, och han släppte
+<lb/>häftigt och raglade stönande mot dörren, kom
+<lb/>ut och nedför trappan med en fart och sprang
+<lb/>högt jämrande in till Strid, som låg raklång
+<lb/>på golvet och lallade i sin ensamhet. Olle
+<lb/>böjde sig ner och skakade honom våldsamt.</p>
+<p rend="indfirst">– Strid – Strid, hör du, du ska vara
+<lb/>nykter nu – du ska höra vad jag säger –
+<lb/>Strid – Stri – i-d!! Djävul och gula råttor
+<lb/>– kan du bli människa igen –</p>
+<p rend="indfirst">Men Strid bara stirrade fånigt på Olle.</p>
+<p rend="indfirst">– Jag skulle dra upp honom ur kistan
+<lb/>och fick armen loss – Karigos arm lossnade
+<lb/>– hör du – den ligger lös nu – svara mig
+<lb/>– åh, dödfulla idiot – – han reste sig i raseri
+<lb/>och sparkade Strid i ryggen. Sedan gick han
+<pb n="146"/>
+<lb/>bort och stirrade fånigt in i elden, medan an&#x00AD;
+<lb/>siktet ömsom blev vitt, ömsom rött.</p>
+<p rend="indfirst">– Armen lossnade, sade han högt för
+<lb/>sig själv, jag fick den i handen – åh, åh –</p>
+<p rend="indfirst">Han rätade plötsligt på sig och skakade
+<lb/>av sig rädslan med en ed. Det här måtte vara
+<lb/>misstag i alla fall, en arm, även på en död,
+<lb/>lossnar inte när man drar i den.</p>
+<lb/>
+<lg><l>»Jag såg din vita duva</l>
+<l>ho – om flög i su – unna-an – vind</l>
+<l>å so-ola sjönk i – i – östa-a-n sko-og –</l>
+<l>så – å rö – so-om Karins – ki-ind»</l></lg>
+<lb/>
+<p>lallade Strid borta på golvet. Han hade bör&#x00AD;
+<lb/>jat krypa nu. Han var förfärlig att se på. Nu
+<lb/>kom Olle att tänka på den döde, som låg på
+<lb/>sitt sista läger därute i svalboden. En ny
+<lb/>känsla av ensam fasa kröp genom hans kropp,
+<lb/>och med ett dödsfånigt grin grep han skopan
+<lb/>och hällde i sig mer brännvin.</p>
+<p rend="indfirst">Det gjorde verkan, och han tog ännu en
+<lb/>klunk, och sjönk som bedövad ner i spiseln
+<lb/>med ryggen mot de röda glöden. Nu hade
+<lb/>Strid somnat, och låg och snarkade med orm&#x00AD;
+<lb/>buktad rygg och utsträckta armar.</p>
+<pb n="147"/>
+<p rend="indfirst">Olle sjönk ihop. Det kändes så bekläm&#x00AD;
+<lb/>mande ensamt ändå. Det där med armen var
+<lb/>nog bara skoj av Karigo, hur det nu hängde
+<lb/>ihop. Det fanns inga spöken. Allt var bara
+<lb/>skoj. Han, Olle var ju den mest upplyste
+<lb/>av dem – han hade ej rättighet att vara rädd.
+<lb/>Men vad var det för en underlig skepnad
+<lb/>borta vid Karigos kammardörr. Nu rörde han
+<lb/>sig med långsamma steg. Det var den döde,
+<lb/>som burits hem av Karigo och Strid.</p>
+<p rend="indfirst">Den svarte stannade mitt på golvet och
+<lb/>sträckte ut en hand, som liknade en kräftklo,
+<lb/>och nu vaknade Strid och skrek, som om han
+<lb/>stuckits med en kniv. Och hela rummet var så
+<lb/>bländande rött, och blåa vågor gungade i det
+<lb/>röda, och en vit hund med hängande tunga
+<lb/>gick över golvet och stannade och nosade på
+<lb/>Strid, som på nytt börjat krypa över golvet.</p>
+<p rend="indfirst">Han såg och hörde med fullkomligt käns&#x00AD;
+<lb/>lolös spänning, men han var för rusig att
+<lb/>vara rädd. Slappt gled han ner på golvet
+<lb/>och med ens blev allt så mörkt – han hade
+<lb/>aldrig sett så tjockt mörker – det riktigt vält&#x00AD;
+<lb/>rade över honom. Men så ljusnade det igen.</p>
+<pb n="148"/>
+<p rend="indfirst">En röst började sjunga och så hörde han,
+<lb/>hur Karigo gick med klumpande, skrällande
+<lb/>steg över golvet ovanför hans huvud. Rös&#x00AD;
+<lb/>ten som sjöng var ung och mjuk som en flic&#x00AD;
+<lb/>kas, men orden hörde han inte, och när han
+<lb/>stirrade skarpt ut i rummet, såg han några
+<lb/>underliga djur dansa kring den krypande,
+<lb/>druckne idioten, som också lallade och sjöng.
+<lb/>Och den svarte stod där och spritade i sin
+<lb/>kloliknande hand och blåste mellan fingrarna,
+<lb/>härmande en svala. Han kände nu ej det min&#x00AD;
+<lb/>sta av rädsla, men han lade sig ner på golvet
+<lb/>för att vila sig från allt detta.</p>
+<p rend="indfirst">Han såg Tignareskogen, och där skym&#x00AD;
+<lb/>tade åsen vid Mattna Draina och stället där
+<lb/>den döde hittats. Där skymtade nattens gastar
+<lb/>– de voro bara skinnjackor med släpande
+<lb/>remmar. De klagade och gräto och långt
+<lb/>bakom dem gick solen upp – eller ner –
+<lb/>han visste inte vilketdera, men i det skumma
+<lb/>ljuset dansade troll och döda människor, som
+<lb/>skrattade och viskade och bannade. Och allt
+<lb/>som hänt i gården och i bygden på hundra
+<lb/>år, allt ont och allt gott, det hände om igen
+<pb n="149"/>
+<lb/>nu. Skyn sorlade som ett vattenfall av stri&#x00AD;
+<lb/>dande makter, och under skyn, djupt i djupen
+<lb/>var ett annat sorl. Det var de ännu levande
+<lb/>som trätte och slogos. Och i det allra längst
+<lb/>ner belägna djupet, under både levande och
+<lb/>döda satt ett ont, fullt djur och skrattade och
+<lb/>skrek att allt var lögn, allt var lögn!</p>
+<lb/>
+<p rend="center"><lb:separator content="_" count="8"/></p>
+<lb/>
+<pb n="150"/>
+</div2>
+<div2 type="poem" xml:id="Kap15">
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<head rend="big center chaptername">Olles förbund med makterna.</head>
+<lb/>
+<lg><lg><l>Jag har skurit ett pilspö där ormarna paras,</l>
+<l>i skäret vid Lasso i torsnattens månljus,</l>
+<l>och lärt mig en vissling som Karigos svalas</l>
+<l>i dalen där Ramnåsen stupar mot Kanga.</l></lg>
+<lb/>
+<lg><l>Jag har skurit mig pinnar av åtta slags vide,</l>
+<l>och doppat dem röda i blod från en trana,</l>
+<l>och skrivit att blodet var blod ur mitt hjärta –</l>
+<l>han tror nog på lögnen – av gammal vana.</l></lg>
+<lb/>
+<lg><l>Snart får jag ett slott och en lustig prinsessa,</l>
+<l>och guld åt mig själv och min fattiga mor,</l>
+<l>och snart får jag bo som konungen bor,</l>
+<l>men när tiden är ute och djävulen bråkar,</l>
+<l>då visas det nog vem var starkast och klokast,</l>
+<l>då, gamle förvillare, ska vi processa!</l></lg>
+<lb/>
+<lg rend="center"><l>*</l></lg>
+<lb/>
+<pb n="151"/>
+<lg><l>Och nu är det midnatt och fåglarna tiga,</l>
+<l>och dagg dricker marken och sommaren sover</l>
+<l>sin sömn tills den rodnande morgonen bräcker.</l>
+<l>Åt avgrundens storman min själ skall jag viga,</l>
+<l>till fröjd åt hans hjärta – så länge det räcker!</l></lg>
+<lb/>
+<lg><l>Nu susar det tungt genom ångande dalar,</l>
+<l>nu susar som stormen hans vagn över fjällen,</l>
+<l>Här sitter jag och röker min pipa på hällen,</l>
+<l>och känner på hur nattvinden smeker och</l>
+<l rend="ind10">hugsvalar.</l></lg>
+<lb/>
+<lg rend="center"><l>*</l></lg>
+<lb/>
+<lg><l>Och kommer han inte så kvittar det lika,</l>
+<l>ty skogen är så härlig och natten är så varm!</l>
+<l>De veta ej, de tröga, de lärda, de rika,</l>
+<l>vad livet är om natten i vildmarkens barm.</l></lg>
+<lb/>
+<lg><l>Vad livet är om natten när födelsen och döden,</l>
+<l>gå dansande och vandrande kring gamla gråa</l>
+<l rend="ind10">hus,</l>
+<l>när makterna ha rådslag och dikta våra öden,</l>
+<l>i sommarnatt, i skugga, i alsnårens sus!</l></lg>
+<lb/>
+<lg><l>Vi födas under smärta och skratta när vi kunna,</l>
+<l>och drömma när vi kunna och tiden han går,</l>
+<l>vi bryta våra blommor och älska dem som dofta</l>
+<l>och somna en gång stilla och glömma våra år.</l></lg></lg>
+<lb/>
+<p rend="center"><lb:separator content="_" count="8"/></p>
+<lb/>
+</div2>
+</div1>
+</body>
+<back>
+<div1 rend="small" type="innehallssida" xml:id="Kap16">
+<pb n="152"/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<head rend="big center">INNEHÅLLSFÖRTECKNING.</head>
+<lb/>
+<p rend="center"><lb:separator content="_" count="8"/></p>
+<lb/>
+<list type="innehall">
+<label>Företal </label><item>3</item>
+<label>När djävulen for ner i Vessman </label><item>6</item>
+<label>Karigos underverk </label><item>17</item>
+<label>Den röda marschen </label><item>38</item>
+<label>Midnatt vid Varma Källorna </label><item>49</item>
+<label>Spådomen om Varma Källorna </label><item>61</item>
+<label>Lasse Udd berättar </label><item>63</item>
+<label>Sällskapsliv </label><item>71</item>
+<label>I ödestugan vid Blybärg </label><item>89</item>
+<label>Historien om en fredlös </label><item>97</item>
+<label>Bekymmer </label><item>110</item>
+<label>En landstrykares morgonsång till solen </label><item>119</item>
+<label>Bönemötet på Kavelås </label><item>121</item>
+<label>Det gångna är som en dröm och det närvarande för&#x00AD;
+<lb/>står jag icke </label><item>133</item>
+<label>Olles förbund med makterna </label><item>150</item>
+</list>
+<lb/>
+<p rend="center"><lb:separator content="_" count="8"/></p>
+<lb/>
+</div1>
+</back>
+</text>
+
+</TEI>

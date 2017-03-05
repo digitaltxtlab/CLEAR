@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- $Id: lb1202930-etext-workdb.xml 121755 2015-10-15 12:43:25Z slaca $ -->
+<LBwork version="1.2.2">
+  <lbworkid>lb1202930</lbworkid>
+  <librisid>1202930</librisid>
+  <mediatype>etext</mediatype>
+  <authorid>MallingM</authorid>
+  <titleid>MinaDagböcker</titleid>
+  <title>Mina dagböcker. Ungdomsdrömmar och ungdomsbekymmer</title>
+  <shorttitle>Mina dagböcker</shorttitle>
+  <sortkey>Mina dagböcker</sortkey>
+  <texttype>roman</texttype>
+  <!-- <keyword></keyword> -->
+  <!-- <authorkeyword></authorkeyword> -->
+  <!-- <picture></picture> -->
+  <!-- <pictureinfo></pictureinfo> -->
+  <provenance>
+    <signum>Biogr. Sv.</signum>
+    <library>GUB</library>
+  </provenance>
+  <!-- <workintro></workintro> -->
+  <startpagename>3</startpagename>
+  <endpagename>VII</endpagename>
+  <sourcedesc>Albert Bonniers förlag, Stockholm 1926.
+
+   <errata><table><tr><td/><td>Bilder har vridits till liggande format på s. I och III.</td></tr></table></errata>
+
+   </sourcedesc>
+  <imported>2013-01-21</imported>
+  <work-updated>2013-01-21</work-updated>
+  <workdb-updated>2015-10-15</workdb-updated>
+  <show>true</show>
+  <publisher>
+    <name>Albert Bonniers förlag</name>
+    <place>Stockholm</place>
+    <country>SE</country>
+  </publisher>
+  <imprintyear>1926</imprintyear>
+  <edition>1</edition>
+  <language>swe</language>
+  <searchable>true</searchable>
+  <proofread>true</proofread>
+  <fraktur>false</fraktur>
+  <printed>true</printed>
+  <modernized>false</modernized>
+  <license>cc-by-nc-sa</license>
+  <epub>
+    <license>cc-by-nc-sa</license>
+  </epub>
+  <part>
+    <titleid>KapI</titleid>
+    <title>I</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>9</startpagename>
+    <endpagename>30</endpagename>
+  </part>
+  <part>
+    <titleid>KapII</titleid>
+    <title>II</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>31</startpagename>
+    <endpagename>46</endpagename>
+  </part>
+  <part>
+    <titleid>KapIII</titleid>
+    <title>III</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>47</startpagename>
+    <endpagename>65</endpagename>
+  </part>
+  <part>
+    <titleid>KapIV</titleid>
+    <title>IV</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>67</startpagename>
+    <endpagename>85</endpagename>
+  </part>
+  <part>
+    <titleid>KapV</titleid>
+    <title>V</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>87</startpagename>
+    <endpagename>118</endpagename>
+  </part>
+  <part>
+    <titleid>KapVI</titleid>
+    <title>VI</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>119</startpagename>
+    <endpagename>148</endpagename>
+  </part>
+  <part>
+    <titleid>KapVII</titleid>
+    <title>VII</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>149</startpagename>
+    <endpagename>164</endpagename>
+  </part>
+  <part>
+    <titleid>KapVIII</titleid>
+    <title>VIII</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>165</startpagename>
+    <endpagename>187</endpagename>
+  </part>
+  <part>
+    <titleid>KapIX</titleid>
+    <title>IX</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>189</startpagename>
+    <endpagename>204</endpagename>
+  </part>
+</LBwork>

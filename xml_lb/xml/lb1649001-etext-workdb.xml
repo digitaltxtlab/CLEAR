@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- $Id: lb1649001-etext-workdb.xml 123342 2015-12-12 11:31:25Z slaca $ -->
+<LBwork version="1.2.2">
+  <lbworkid>lb1649001</lbworkid>
+  <librisid>1649001</librisid>
+  <mediatype>etext</mediatype>
+  <authorid>AnderssonD</authorid>
+  <titleid>DavidRammsArv</titleid>
+  <title>David Ramms arv</title>
+  <shorttitle>David Ramms arv</shorttitle>
+  <sortkey>David Ramms arv</sortkey>
+<texttype>roman</texttype>
+
+  <startpagename>3</startpagename>
+  <endpagename>256</endpagename>
+  <sourcedesc>Tidens förlag, Stockholm 1919.
+
+
+<errata><table><tr><td>37	</td><td>stirrade häpen David – stirrade häpen på David</td></tr><tr><td>42	</td><td>ryckvis den den natten – ryckvis den natten</td></tr><tr><td>50	</td><td>Vet du ,om – Vet du, om</td></tr><tr><td>50	</td><td>rikriga område – riktiga område</td></tr><tr><td>73	</td><td>i det lade omkull – i det han lade omkull</td></tr><tr><td>75	</td><td>som låg på på en av – som låg på en av</td></tr><tr><td>89	</td><td>värre en hallickarna – värre än hallickarna</td></tr><tr><td>92	</td><td>iden- dentisk – iden- tisk</td></tr><tr><td>96	</td><td>avgudade och och åtrådde – avgudade och åtrådde</td></tr><tr><td>97	</td><td>honom sà hastigt – honom så hastigt</td></tr><tr><td>121	</td><td>utan att att se – utan att se</td></tr><tr><td>137	</td><td>- jag vill – - Jag vill</td></tr><tr><td>137	</td><td>sade han – sade han.</td></tr><tr><td>145	</td><td>smällde . – smällde.</td></tr><tr><td>145	</td><td>torgen ,vidare – torgen, vidare</td></tr><tr><td>170	</td><td>snyfta och enstirrade – snyfta och stirrade</td></tr><tr><td>177	</td><td>som som han – som han</td></tr><tr><td>182	</td><td>under bordet. . Till – under bordet. Till</td></tr><tr><td>185	</td><td>lätsinne – lättsinne</td></tr><tr><td>210	</td><td>elandet – eländet</td></tr><tr><td>211	</td><td>XIII. – XIV.</td></tr><tr><td>214	</td><td>blev ren – bliv ren</td></tr><tr><td>219	</td><td>lu- lutad – lutad</td></tr><tr><td>223	</td><td>hur skalle jag – hur skulle jag</td></tr><tr><td>224	</td><td>eget sätt alltid – eget sätt, alltid</td></tr><tr><td>226	</td><td>i det. ändå – i det, ändå</td></tr><tr><td>237	</td><td>rättt – rätt</td></tr><tr><td>242	</td><td>satt han då grubblade så – satt han då grubblande så </td></tr></table></errata>
+   </sourcedesc>
+  <imported>2008-04-21</imported>
+  <work-updated>2012-04-05</work-updated>
+  <workdb-updated>2015-12-12</workdb-updated>
+  <show>true</show>
+  <publisher>
+    <name>Tidens förlag</name>
+    <place>Stockholm</place>
+    <country>SE</country>
+  </publisher>
+  <imprintyear>1919</imprintyear>
+  <edition>1</edition>
+  <language>swe</language>
+  <searchable>true</searchable>
+  <proofread>true</proofread>
+  <fraktur>false</fraktur>
+  <printed>true</printed>
+  <modernized>false</modernized>
+  <license>cc-by-nc-sa</license>
+  <epub>
+    <license>cc-by-nc-sa</license>
+  </epub>
+  <part>
+    <titleid>Kap01</titleid>
+    <title>En kort inledning samt historien om en hammare</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>5</startpagename>
+    <endpagename>12</endpagename>
+  </part>
+  <part>
+    <titleid>Kap02</titleid>
+    <title>Första delen. Vännerna</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>13</startpagename>
+    <endpagename>14</endpagename>
+  </part>
+  <part>
+    <titleid>Kap03</titleid>
+    <title>I. På hemväg</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>15</startpagename>
+    <endpagename>30</endpagename>
+  </part>
+  <part>
+    <titleid>Kap04</titleid>
+    <title>II. Alexander Nilenius och en fridfull vrå i skogen</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>35</startpagename>
+    <endpagename>50</endpagename>
+  </part>
+  <part>
+    <titleid>Kap05</titleid>
+    <title>III. Diakonen</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>51</startpagename>
+    <endpagename>66</endpagename>
+  </part>
+  <part>
+    <titleid>Kap06</titleid>
+    <title>Andra delen. Din broders hustru</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>67</startpagename>
+    <endpagename>68</endpagename>
+  </part>
+  <part>
+    <titleid>Kap07</titleid>
+    <title>IV. Hos de sorglösa</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>69</startpagename>
+    <endpagename>85</endpagename>
+  </part>
+  <part>
+    <titleid>Kap08</titleid>
+    <title>V. Den oändlige</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>86</startpagename>
+    <endpagename>93</endpagename>
+  </part>
+  <part>
+    <titleid>Kap09</titleid>
+    <title>VI. Ziri</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>94</startpagename>
+    <endpagename>110</endpagename>
+  </part>
+  <part>
+    <titleid>Kap10</titleid>
+    <title>VII. En förstående vän</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>111</startpagename>
+    <endpagename>123</endpagename>
+  </part>
+  <part>
+    <titleid>Kap11</titleid>
+    <title>VIII. I haschishland</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>124</startpagename>
+    <endpagename>147</endpagename>
+  </part>
+  <part>
+    <titleid>Kap12</titleid>
+    <title>IX. De lyckliga och deras olyckor</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>148</startpagename>
+    <endpagename>163</endpagename>
+  </part>
+  <part>
+    <titleid>Kap13</titleid>
+    <title>X. Mannen med glasögonen</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>164</startpagename>
+    <endpagename>178</endpagename>
+  </part>
+  <part>
+    <titleid>Kap14</titleid>
+    <title>XI. Monna Lisa och historien om den små snörena</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>179</startpagename>
+    <endpagename>192</endpagename>
+  </part>
+  <part>
+    <titleid>Kap15</titleid>
+    <title>Tredje delen. Mot skymningen</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>193</startpagename>
+    <endpagename>194</endpagename>
+  </part>
+  <part>
+    <titleid>Kap16</titleid>
+    <title>XII. Hos far och mor</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>197</startpagename>
+    <endpagename>203</endpagename>
+  </part>
+  <part>
+    <titleid>Kap17</titleid>
+    <title>XIII. Nilenius sista timmar och testamente</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>204</startpagename>
+    <endpagename>211</endpagename>
+  </part>
+  <part>
+    <titleid>Kap18</titleid>
+    <title>XIV. Det bästa huset förmår</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>211</startpagename>
+    <endpagename>219</endpagename>
+  </part>
+  <part>
+    <titleid>Kap19</titleid>
+    <title>XV. Ur David Ramms skrivbok</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>220</startpagename>
+    <endpagename>238</endpagename>
+  </part>
+  <part>
+    <titleid>Kap20</titleid>
+    <title>XVI. Spökguden</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>239</startpagename>
+    <endpagename>249</endpagename>
+  </part>
+  <part>
+    <titleid>Kap21</titleid>
+    <title>XVII. Lovsången</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>250</startpagename>
+    <endpagename>253</endpagename>
+  </part>
+  <part>
+    <titleid>Kap22</titleid>
+    <title>Innehåll</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>256</startpagename>
+    <endpagename>256</endpagename>
+  </part>
+</LBwork>

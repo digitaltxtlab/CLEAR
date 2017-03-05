@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- $Id: lb1470073-etext-workdb.xml 123328 2015-12-12 08:11:21Z slaca $ -->
+<LBwork version="1.2.2">
+  <lbworkid>lb1470073</lbworkid>
+  <librisid>1470073</librisid>
+  <mediatype>etext</mediatype>
+  <authorid>BergmanHj</authorid>
+  <titleid>FlickanIFrack</titleid>
+  <title>Flickan i frack</title>
+  <shorttitle>Flickan i frack</shorttitle>
+  <sortkey>Flickan i frack</sortkey>
+
+  <provenance>
+    <!-- <signum></signum>  -->
+    <library>GUB</library>
+  </provenance>
+
+  <startpagename>3</startpagename>
+  <endpagename>171</endpagename>
+  <sourcedesc>Albert Bonniers förlag, Stockholm 1925.
+
+	<errata><table><tr><td>24</td><td>den fallgrop. som ständigt lurade – den fallgrop, som ständigt lurade</td></tr></table></errata>
+
+</sourcedesc>
+  <imported>2008-10-08</imported>
+  <work-updated>2015-02-20</work-updated>
+  <workdb-updated>2015-12-12</workdb-updated>
+  <show>true</show>
+  <publisher>
+    <name>Albert Bonniers förlag</name>
+    <place>Stockholm</place>
+    <country>SE</country>
+  </publisher>
+  <imprintyear>1925</imprintyear>
+  <edition>1</edition>
+  <language>swe</language>
+  <searchable>true</searchable>
+  <proofread>true</proofread>
+  <fraktur>false</fraktur>
+  <printed>true</printed>
+  <modernized>false</modernized>
+  <license>cc-by-nc-sa</license>
+  <epub>
+    <license>cc-by-nc-sa</license>
+  </epub>
+  <part>
+    <titleid>Kap01</titleid>
+    <title>I</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>5</startpagename>
+    <endpagename>32</endpagename>
+  </part>
+  <part>
+    <titleid>Kap02</titleid>
+    <title>II</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>33</startpagename>
+    <endpagename>65</endpagename>
+  </part>
+  <part>
+    <titleid>Kap03</titleid>
+    <title>III</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>66</startpagename>
+    <endpagename>90</endpagename>
+  </part>
+  <part>
+    <titleid>Kap04</titleid>
+    <title>IV</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>91</startpagename>
+    <endpagename>113</endpagename>
+  </part>
+  <part>
+    <titleid>Kap05</titleid>
+    <title>V</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>114</startpagename>
+    <endpagename>145</endpagename>
+  </part>
+  <part>
+    <titleid>Kap06</titleid>
+    <title>VI</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>146</startpagename>
+    <endpagename>171</endpagename>
+  </part>
+</LBwork>

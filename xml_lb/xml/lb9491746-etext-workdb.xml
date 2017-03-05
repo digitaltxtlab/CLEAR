@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- $Id: lb9491746-etext-workdb.xml 114284 2015-03-30 11:22:48Z litdc $ -->
+<LBwork version="1.2.2">
+  <lbworkid>lb9491746</lbworkid>
+  <librisid>9491746</librisid>
+  <mediatype>etext</mediatype>
+  <authorid>BergmanHj</authorid>
+  <titleid>MarkurellsIWadköping</titleid>
+  <title>Markurells i Wadköping</title>
+  <shorttitle>Markurells i Wadköping</shorttitle>
+  <sortkey>Markurells</sortkey>
+  <texttype>roman</texttype>
+  <!-- <keyword></keyword> -->
+  <!-- <authorkeyword></authorkeyword> -->
+  <!-- <picture></picture> -->
+  <!-- <pictureinfo></pictureinfo> -->
+  <provenance>
+    <signum>Litt. Sv.</signum>
+    <library>GUB</library>
+  </provenance>
+  <!-- <workintro></workintro> -->
+  <startpagename>3</startpagename>
+  <endpagename>300</endpagename>
+  <sourcedesc>Albert Bonniers förlag, Stockholm 1919. 
+
+   <errata>
+   <table><tr><td>78</td><td>sin p ncené som – sin pincené som</td></tr>
+<tr><td>78</td><td>som som – som</td></tr>
+   <tr><td>110</td><td>Häradshövd ngen begagnade – Häradshövdingen begagnade</td></tr><tr><td>111</td><td>min ås kt – min åsikt</td></tr><tr><td>112</td><td>Betänk att Cal-Magnus – Betänk att Carl-Magnus</td></tr>
+<tr><td>123</td><td>tycker om karn – tycker om karln</td></tr>
+<tr><td>270</td><td>en varietet av en varitetet – en varietet av en varietet</td></tr>
+   <tr><td>274</td><td>inte aneglägen – inte angelägen </td></tr><tr><td>295</td><td>där par borgmästare – där var borgmästare</td></tr>
+   
+      
+         
+            
+   
+   </table></errata>
+   
+
+   </sourcedesc>
+  <imported>2012-11-13</imported>
+  <work-updated>2015-03-30</work-updated>
+  <workdb-updated>2015-03-30</workdb-updated>
+  <show>true</show>
+  <publisher>
+    <name>Albert Bonniers förlag</name>
+    <place>Stockholm</place>
+    <country>SE</country>
+  </publisher>
+  <imprintyear>1919</imprintyear>
+  <edition></edition>
+  <language>swe</language>
+  <searchable>true</searchable>
+  <proofread>true</proofread>
+  <fraktur>false</fraktur>
+  <printed>true</printed>
+  <modernized>false</modernized>
+  <license>cc-by-nc-sa</license>
+  <epub>
+    <license>cc-by-nc-sa</license>
+  </epub>
+  <part>
+    <titleid>Kap1</titleid>
+    <title>1</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>5</startpagename>
+    <endpagename>93</endpagename>
+  </part>
+  <part>
+    <titleid>Kap2</titleid>
+    <title>2</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>94</startpagename>
+    <endpagename>115</endpagename>
+  </part>
+  <part>
+    <titleid>Kap3</titleid>
+    <title>3</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>116</startpagename>
+    <endpagename>140</endpagename>
+  </part>
+  <part>
+    <titleid>Kap4</titleid>
+    <title>4</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>141</startpagename>
+    <endpagename>174</endpagename>
+  </part>
+  <part>
+    <titleid>Kap5</titleid>
+    <title>5</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>175</startpagename>
+    <endpagename>221</endpagename>
+  </part>
+  <part>
+    <titleid>Kap6</titleid>
+    <title>6</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>222</startpagename>
+    <endpagename>255</endpagename>
+  </part>
+  <part>
+    <titleid>Kap7</titleid>
+    <title>7</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>256</startpagename>
+    <endpagename>277</endpagename>
+  </part>
+  <part>
+    <titleid>Kap8</titleid>
+    <title>8</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>278</startpagename>
+    <endpagename>300</endpagename>
+  </part>
+</LBwork>

@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- $Id: lb472691-etext-workdb.xml 123343 2015-12-12 12:00:09Z slaca $ -->
+<LBwork version="1.2.2">
+  <lbworkid>lb472691</lbworkid>
+  <librisid>472691</librisid>
+  <mediatype>etext</mediatype>
+  <authorid>BoyeK</authorid>
+  <titleid>Kallocain</titleid>
+  <title>Kallocain. Roman från 2000-talet</title>
+  <shorttitle>Kallocain</shorttitle>
+<texttype>roman</texttype>
+
+  <provenance>
+    <signum>Litt. Sv.</signum>
+    <library>GUB</library>
+  </provenance>
+  <startpagename>3</startpagename>
+  <endpagename>285</endpagename>
+  <sourcedesc>Stockholm. Albert Bonniers förlag. 1940
+
+   <errata>
+   </errata>
+
+   </sourcedesc>
+  <imported>2012-01-19</imported>
+  <work-updated>2012-04-11</work-updated>
+  <workdb-updated>2015-12-12</workdb-updated>
+  <show>true</show>
+  <publisher>
+    <name>Albert Bonniers förlag</name>
+    <place>Stockholm</place>
+    <country>SE</country>
+  </publisher>
+  <imprintyear>1940</imprintyear>
+  <edition>1</edition>
+  <language>swe</language>
+  <searchable>true</searchable>
+  <proofread>true</proofread>
+   <fraktur>false</fraktur>
+  <printed>true</printed>
+  <modernized>false</modernized>
+  <license>cc-by-nc-sa</license>
+ <epub>
+    <license>cc-by-nc-sa</license>
+  </epub>
+  <part>
+    <titleid>DenBokJagNu</titleid>
+    <title>[Den bok jag nu …]</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>5</startpagename>
+    <endpagename>24</endpagename>
+  </part>
+  <part>
+    <titleid>DetHadeHäntPåEnFest</titleid>
+    <title>[Det hade hänt på en fest …]</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>25</startpagename>
+    <endpagename>39</endpagename>
+  </part>
+  <part>
+    <titleid>MinReaktionBlevSåHäftig</titleid>
+    <title>[Min reaktion blev så häftig …]</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>40</startpagename>
+    <endpagename>47</endpagename>
+  </part>
+  <part>
+    <titleid>InteFörAttDetVarMinVana</titleid>
+    <title>[Inte för att det var min vana …]</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>48</startpagename>
+    <endpagename>85</endpagename>
+  </part>
+  <part>
+    <titleid>ExperimentetTogGenast</titleid>
+    <title>[Experimentet tog genast …]</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>86</startpagename>
+    <endpagename>100</endpagename>
+  </part>
+  <part>
+    <titleid>DåJagKomHem</titleid>
+    <title>[Då jag kom hem …]</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>101</startpagename>
+    <endpagename>117</endpagename>
+  </part>
+  <part>
+    <titleid>JustDenVeckan</titleid>
+    <title>[Just den veckan …]</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>118</startpagename>
+    <endpagename>140</endpagename>
+  </part>
+  <part>
+    <titleid>MuilisMottagning</titleid>
+    <title>[Muilis mottagning …]</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>141</startpagename>
+    <endpagename>145</endpagename>
+  </part>
+  <part>
+    <titleid>FrukostdagsFöljandeMorgon</titleid>
+    <title>[Frukostdags följande morgon …]</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>146</startpagename>
+    <endpagename>159</endpagename>
+  </part>
+  <part>
+    <titleid>ViFickVänta</titleid>
+    <title>[Vi fick vänta …]</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>160</startpagename>
+    <endpagename>169</endpagename>
+  </part>
+  <part>
+    <titleid>JagÄrNästanSäker</titleid>
+    <title>[Jag är nästan säker …]</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>170</startpagename>
+    <endpagename>185</endpagename>
+  </part>
+  <part>
+    <titleid>MinÄventyrslust</titleid>
+    <title>[Min äventyrslust …]</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>186</startpagename>
+    <endpagename>202</endpagename>
+  </part>
+  <part>
+    <titleid>EnTidSenare</titleid>
+    <title>[En tid senare …]</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>203</startpagename>
+    <endpagename>210</endpagename>
+  </part>
+  <part>
+    <titleid>MinSömnHadeAldrig</titleid>
+    <title>[Min sömn hade aldrig …]</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>211</startpagename>
+    <endpagename>223</endpagename>
+  </part>
+  <part>
+    <titleid>MycketSovJagInte</titleid>
+    <title>[Mycket sov jag inte …]</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>224</startpagename>
+    <endpagename>238</endpagename>
+  </part>
+  <part>
+    <titleid>DetGickEnViskning</titleid>
+    <title>[Det gick en viskning …]</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>239</startpagename>
+    <endpagename>250</endpagename>
+  </part>
+  <part>
+    <titleid>SentPåNatten</titleid>
+    <title>[Sent på natten …]</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>251</startpagename>
+    <endpagename>253</endpagename>
+  </part>
+  <part>
+    <titleid>EnTimmeFöreArbetstid</titleid>
+    <title>[En timme före arbetstid …]</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>254</startpagename>
+    <endpagename>270</endpagename>
+  </part>
+  <part>
+    <titleid>DetHadeVaritMinMening</titleid>
+    <title>[Det hade varit min mening …]</title>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>271</startpagename>
+    <endpagename>283</endpagename>
+  </part>
+  <part>
+    <titleid>CensorsEfterskrift</titleid>
+    <title>Censors efterskrift</title>
+    <navtitle>CENSORS EFTERSKRIFT</navtitle>
+    <navshow>true</navshow>
+    <listshow>none</listshow>
+    <texttype>kapitel</texttype>
+    <startpagename>284</startpagename>
+    <endpagename>285</endpagename>
+  </part>
+</LBwork>
