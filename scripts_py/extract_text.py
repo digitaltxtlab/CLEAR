@@ -28,3 +28,4 @@ for filename in file_list:
 	parser.parse(filepath)
 	sys.stdout = orig_stdout
 	f.close()
+ 
