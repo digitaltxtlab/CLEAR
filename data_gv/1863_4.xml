@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Lykke-Varslet.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-26"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="004"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1863">1863</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1863_4_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Lykke-Varslet.</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Lykke-Varslet.</head>
+<lg>
+<l><hi rend="italic"><hi rend="initial">D</hi>er </hi>seiler en Snekke i <hi rend="spaced">Vesterhav</hi>,</l>
+<l>Den bærer en Dronning-Spire,</l>
+<l>Som Olddtnoe-Marken sit Ynde gav,</l>
+<l>Og <hi rend="spaced">Dannebrog</hi> yndig vaier!</l>
+<l>Hvad staaer der i Stjerner at læse?</l>
+</lg>
+<lg>
+<l>Den Snekke, den stævner til <hi rend="spaced">Thæmsens</hi> Nor,</l>
+<l>Den stævner til Auguls Hjerte,</l>
+<l>Thi Lilievaanden som Brud ombord</l>
+<l>Har o Prindsen af Wales* fæstet!</l>
+<l>Hvad staaer der i Stjerner at læse?</l>
+</lg>
+<lg>
+<l>Der seiler en Snekke i <hi rend="spaced">Vendelsø</hi>*),</l>
+<l>Den bærer <hi rend="spaced">Helleners</hi> Konning,</l>
+<l>Dertil blev han vugget ved Skjoldung-0,</l>
+<l>Og Dannebrog dristig vaier!</l>
+<l>Hvad staaer der i Stjerner at læse?</l>
+</lg>
+<lg>
+<l>Den Snekke den stævner til <hi rend="spaced">Phaleros</hi>,</l>
+<l>Til <hi rend="spaced">Parthenons</hi> Ry og Hæder,**)</l>
+<l>Og Bairorne alle den byder Trods,</l>
+<l>Samt hele den Tyske Flaade.</l>
+<l>Hvad staaer der i Stjerner et læse?</l>
+</lg>
+<lg>
+<l>Ja, Sødskende tvende fra <hi rend="spaced">Øresund</hi>,</l>
+<l>Fra deiligste Vang og Vænge,</l>
+<l>De kaldes, de bydes med Baand og Mund,</l>
+<l>Med Kroner hvorhen de seiler.</l>
+<l>Hvad staaer der i Stjerner at læse?</l>
+</lg>
+<lg>
+<l>De Stjerner for os er en lukket Bog,</l>
+<l>Hvor Fremtiden staaer beskrevet,</l>
+<l>Det dages kanskee ved det næste Tog,</l>
+<l>Som <hi rend="spaced">Tyskerne</hi> gier til Maanen.</l>
+<l>1 Luften har Tyskerne hjemme!</l>
+</lg>
+<lg>
+<l>De Nordlys, som skinner til <hi rend="spaced">Vest og Syd</hi>,</l>
+<l>For dem bar dog Norden Øie,</l>
+<l>Om Lysningen hørøs en sagte Lyd</l>
+<l>Ved Lyttehøis Odins Sæde.</l>
+<l>De Nordlys, de skinner i Strime!</l>
+</lg>
+<lg>
+<l>De skinner langt borte fra Rhin og Rom.</l>
+<l>Til <hi rend="spaced">Thæmsen</hi> og til <hi rend="spaced">Athenen</hi>,</l>
+<l>For folkelig Tale og Christendom</l>
+<l>Der findes vel aabne Øren.</l>
+<l>De Nordlys, de skinner i Strime!</l>
+</lg>
+<p>*) Det gammelangelske Navn paa Middelhavet.
+**) <hi rend="spaced">Phaleros</hi> er Navnet paa Athenens gamle Havn, og <hi rend="spaced">Parthenon</hi> hed o<hi rend="spaced">Athenes</hi>* berømte Tempel.</p>
+<lg>
+<l>At <hi rend="spaced">Hellas</hi> med <hi rend="spaced">Tysken</hi> har havt sin Ned,</l>
+<l>Det nemmed endog Kong <hi rend="spaced">Otto</hi>;</l>
+<l>At <hi rend="spaced">Angul</hi> fra Rom fik den sorte Død,</l>
+<l>I <hi rend="spaced">Cambridge</hi> vel brat opdages.</l>
+<l>De Nordlys, de skinner i Strime!</l>
+</lg>
+<lg>
+<l>At <hi rend="spaced">Danmark</hi> og <hi rend="spaced">Norden</hi> fra Rom og Rhin</l>
+<l>Forskrev deres Aag og Plage,</l>
+<l>Det sees, naar istedenfor slet Latin</l>
+<l>Vi godt skriver ud af Munden.</l>
+<l>De Nordlys, de skinner i Strime!</l>
+</lg>
+<lg>
+<l>At <hi rend="spaced">Hellas</hi> og <hi rend="spaced">Norden</hi> og Anguls Ø</l>
+<l>Kan holde al Verden Slangen,</l>
+<l>Naar seile de ter deres egen So,</l>
+<l>Det turde vel Tiden vise.</l>
+<l>De Nordlys, de skinner i Strime!</l>
+</lg>
+<lg>
+<l>Naar <hi rend="spaced">Hjerteligheden</hi> som Danebod</l>
+<l>Ophøies til Angle-Dronning,</l>
+<l>Da ever det Angelske Heltemod</l>
+<l>Det største af Underværker!</l>
+<l>De Nordlys, de skinner i Strime!</l>
+</lg>
+<lg>
+<l>Naar <hi rend="spaced">Friheden</hi> krones som Angle-Drot</l>
+<l>Paa Sletten og mellem Fjelde,</l>
+<l>Da <hi rend="spaced">Skiønheden</hi> faaer sit Græske Slot</l>
+<l>Hvor Freia hun græd Guldtaarer.</l>
+<l>De Nordlys, de skinner i Strime!</l>
+</lg>
+<lg>
+<l>Og krones <hi rend="spaced">Oplysning</hi> som <hi rend="spaced">Grækerdrot</hi>,</l>
+<l>Da straaler det i Athenen,</l>
+<l>Da bygger Kong <hi rend="spaced">Theseus</hi> paany sit Slot,</l>
+<l>Naar fældet er <hi rend="spaced">Minotauros</hi>.</l>
+<l>De Nordlys, de skinner i Strime!</l>
+</lg>
+<lg>
+<l>Da damper <hi rend="spaced">Thiaki</hi>*) til Hellas frit,</l>
+<l>Som fordum til den <hi rend="spaced">Odysseus</hi>,</l>
+<l>Og Visdommens Rygte da gaaer saa vidt,</l>
+<l>Som Aareslag faldt i Bølge!</l>
+<l>De Nordlys, de skinner i Strime!</l>
+</lg>
+<lg>
+<l>Saa tage det <hi rend="spaced">Varsel</hi> da ømt i Favn</l>
+<l>Vi alle, som det omsvæver!</l>
+<l>Da vinder i Løndom en Fødestavn</l>
+<l>Den <hi rend="spaced">Lykke</hi>, det os forjætter.</l>
+<l>De Nordlys, de skinner i Strime!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+<p>*) <hi rend="spaced">Ithaka</hi> hedder nu "Thiaki" og er en af de "<hi rend="spaced">Joniske</hi>
+Øer.</p>
+</div>
+</body>
+</text>
+</TEI>

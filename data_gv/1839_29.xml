@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Mindeqvad</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-22"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="029"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1839">1839</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1839_29_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Mindeqvad</titlePart>
+	<titlePart type="sub">i Anledning af<lb/>Kong Frederik den Sjettes Død.</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+<lg>
+<l>"O Fædreland, Hvad har Du tabt!</l>
+<l>Din gamle Konge sover!</l>
+<l>Et rastloft Liv, til Arbeid skabt,</l>
+<l>Henstylled' Tidens Vover.</l>
+<l>Et Hjerte brast, der banked' ømt</l>
+<l>For Landet og for Folket,</l>
+<l>Et Hjerte brast, der mildt har dømt</l>
+<l>Og Dommen mildt fortolket!</l>
+<l>Og skjønt den Fremtid, Han har skabt,</l>
+<l>Dig rige Frugter lover, -</l>
+<l>O Fædreland, Hvad har Du tabt!</l>
+<l>Din gamle Konge sover!"</l>
+</lg>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace>Kjøbenhavn</pubPlace>Udgivne af V. Johansen. I. Nielsens Forlag.<lb/>P. N. Jørgensens Bogtrykkeri.<lb/>
+<fw type="graphic"/>
+<docDate>1840</docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<pb facs="1839_29_page0002.png"/>
+<fw type="pageNum">39</fw>
+<head>Tanker</head>
+<head>fremkaldte ved Læsningen af Nordmanden A. Munchs Digt i "Fædrelandet" i Anledning af</head>
+<head>Frederik den Sjettes Død*).</head>
+<lg>
+<l><hi rend="initial">H</hi>vad var det for en Røst, der fra Norges Fjelde lod</l>
+<l>Ved Rygtet om vor Konges, vor Sjette Fredriks Dob?</l>
+<l>Var det vor norske Broder, som digted denne Sang?</l>
+<l>Fandt Gjenklang den paa Fjeldet eller her paa danske Vang?</l>
+</lg>
+<lg>
+<l>Eengang var han vor Broder, der sang med denne Røst;</l>
+<l>Han hviled i sin Barndom ved samme Moderbryst,</l>
+<l>Da Norsk til Dansk var knyttet ved arvet Broder-baand,</l>
+<l>Da ei blot Sprog var fælleds, men fælleds Troskabs Aand.</l>
+</lg>
+<lg>
+<l>Ja Mindet om de Dage, om denne skjønne Tid</l>
+<l>Afpresser Danskens Øie saa mangen Taare strid;</l>
+<l>Men, Nordmand! dengang Skiebnen os splitted gru-somt ad.</l>
+<l>Ha! glemte Du din Barndom, saa lykkelig og glad?</l>
+</lg>
+<p>*) Dette Digt sindes Side 34.</p>
+<pb facs="1839_29_page0003.png"/>
+<fw type="pageNum">40</fw>
+<lg>
+<l>Ja Du blev glemsom, Broder! det seer jeg af din Sang!</l>
+<l>Og Du blev utaknemlig - det er jo Verdens Gang -</l>
+<l>Du glemte Barndoms Glæder, Du glemte Barndoms Held;</l>
+<l>Du gjemte ene Mindet om at Du da var "Træl"!</l>
+</lg>
+<lg>
+<l>Og var I dengang Trælle, saa var vort elskte Land</l>
+<l>Jo smeddet end i Lænker og Træl den danske Mand!?</l>
+<l>Det skalst Du have leiet; nei fri er Danmarks Son,</l>
+<l>Og friest under Drotten, som savnes nu i Løn.</l>
+</lg>
+<lg>
+<l>Hvor Loven er for Alle, for Konge og for Folk,</l>
+<l>Hvor Hvermand er hos Fyrsten sit eget Ønskes Tolk;</l>
+<l>Hvor Sandheds sande Venner tor tale djervt og kjækt</l>
+<l>Og Straf kun rammer Ondskab og den, som lyver frækt.</l>
+</lg>
+<lg>
+<l>Hvor Bondens Aag blev knækket, saa i sin egen Jord</l>
+<l>Den gyldne Sæd han lægger i Plovens dybe Spor,</l>
+<l>Og hvor paa Thing han sidder for Kongens første Mand:</l>
+<l>Siig mig, min norske Broder! er det et Trælleland?</l>
+</lg>
+<lg>
+<l>Hvor Fyrsten eisser Folket med Faderkjærlighed</l>
+<l>Og værner med sin Viisdom om indre, ydre Fred;</l>
+<l>Hvor Folket i sin Hersker kun seer en Fader god</l>
+<l>Og offrer ham med Glæde sin sidste Draabe Blod.</l>
+</lg> 
+<pb facs="1839_29_page0004.png"/>
+<fw type="pageNum">41</fw>
+<lg>
+<l>Hvor Fredens Sysler trives, hvor Videnskab og Kunst</l>
+<l>Man blomstre seer, beskjermet saa huldt ved Kongens Gunst;</l>
+<l>Hvor Snillets Frugter fredes, som nogetsteds paa Jord:</l>
+<l>Siig, er det Land at ynke, og er dets Trang saa stor?</l>
+</lg>
+<lg>
+<l>Ja, fattigt er vort Danmark; men Kjærlighed gjør rig,</l>
+<l>Dens stærke Baand jo slynger om Folk og Konge sig,</l>
+<l>Og Folket elsked Fredrik; dets Tro paa ham var stærk,</l>
+<l>Taknemmelig det skued paa mangt hans Hædersværk.</l>
+</lg>
+<lg>
+<l>Og dog skal han nu dadles, ja haanes i sin Død,</l>
+<l>Og det af Een, som fordum hans milde Scepter lød,</l>
+<l>Af Dig, der har ham skuet, der har hans Hjerte kjendt,</l>
+<l>Der alt som Barn har Bønner for ham til Himlen sendt!</l>
+</lg>
+<lg>
+<l>O Broder! hæsligt skurre de Ord mig i din Sang</l>
+<l>At "Fredriks Jordeklokke er Danmarks Morgenklang"</l>
+<l>Mens "tusind Øine tindre og tusind Hjerter slaae</l>
+<l>Til Friheds første Accorder, som gjennem Luften gaae."</l>
+</lg> 
+<pb facs="1839_29_page0005.png"/>
+<fw type="pageNum">42</fw>
+<lg>
+<l>Har Du ei bedre Toner ved Sjette Fredriks Død</l>
+<l>Da Harpen knuus og kast den i Fossens dybe Skjød;</l>
+<l>Og flygted jeg, at Gjenklang de fandt i danske Havn,</l>
+<l>Ved Himlen! da jeg skammed mig ved mit Danne-navn.</l>
+</lg>
+<lg>
+<l>Men nei, o nei! jeg veed det: som Fredriks sidste Bon</l>
+<l>Har været vist for Danmark og for enhver dets Son,</l>
+<l>Saa har hver ærlig Danske med Sjælens dybe Sorg</l>
+<l>Hørt Dødens Budskab lyde fra Fredriks Kongeborg.</l>
+</lg>
+<lg>
+<l>Og tro mig, naar vi hore fra Kirkens Taarn hverDag</l>
+<l>At zittre gjennem Luften de dumpe Klokkestag,</l>
+<l>Da banker vel vort Hierte og Pulsen heftigt slaaer,</l>
+<l>Men det er bitter Veemod, som gjennem Sjælen gaaer!</l>
+</lg>
+<lg>
+<l>Og tro mig, naar de bringe ham ud af Axels By,</l>
+<l>Sig hæve tusind Øine fra Kisten op mod Sky,</l>
+<l>Og tusind Øine tindre, naar Toget gaaer forbi,</l>
+<l>Men det er Barnets Taare, som tindre klart deri!</l>
+</lg>
+<lg>
+<l>I Riddersalen ligger den gamle Konges Lig</l>
+<l>Og trindt om Kongeborgen hans Vorn nu stokke sig;</l>
+<l>Saa stille, lydløst vandre de om i sorten Hal</l>
+<l>At see de elskte Træk, de meer ei skue skal.</l>
+</lg> 
+<pb facs="1839_29_page0006.png"/>
+<fw type="pageNum">43</fw>
+<lg>
+<l>For dem har og Betydning den Jordeklokkes Klang,</l>
+<l>For dem den og betegner en yndig Morgensang</l>
+<l>Den Synger om Hans Morgen, om Evighedens Lys,</l>
+<l>Hvortil ham Englen vækked med Dødens milde Kys.</l>
+</lg>
+<lg>
+<l>Vi dromme ei om Frihedens Sol, som gaaer af Hav;</l>
+<l>Vi lægge ikke Planer ved Fredriks friske Grav;</l>
+<l>Og hvis et lønligt Ønske end hvisked i vor Hu</l>
+<l>Det maatte brat forstumme i dette Sorgens Nu!</l>
+</lg>
+<lg>
+<l>Men Du kan kold og rolig nu sidde i din Vraa</l>
+<l>Og riste Fremtids Runer, som om Du klart den saae!</l>
+<l>Kortsynede! den kjender Du bedre ei end vi!</l>
+<l>Du, som tor Fredrik haane! Ha, frække Nordmand! ti!</l>
+</lg>
+<lg>
+<l>Vi Sørge over Fredrik; thi Hver af os jo veed</l>
+<l>Han elskede os Alle med Faderkjærlighed!</l>
+<l>Hvad Fremtid os vil yde, det veed dog ene Gud</l>
+<l>Og tillidsfuldt og ydmygt vi vente paa Hans Bud!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<head>Sorg og Haab.</head>
+<lg>
+<l><hi rend="initial">D</hi>er gaaer et Bud gjennem Land og By,</l>
+<l>Som Gravens Klokke det klinger:</l>
+<l>See over Danmark drog nys en Sky,</l>
+<l>Et Mørke af Nodens Vinger:</l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

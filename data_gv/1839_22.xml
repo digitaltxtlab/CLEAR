@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Konge-Haand og Folke-Stemme.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-22"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="022"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1839">1839</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1839_22_page0001.png"/>
+			<fw type="pageNum">240</fw>
+				<docTitle>
+	<titlePart type="main"></titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<docImprint>
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<head>2</head>
+<lg>
+<l><hi rend="initial">K</hi>onge-Haand og Folke-Stemme.</l>
+<l>Begge stærke, begge fri,</l>
+<l>De har havt i Danmark hjemme</l>
+<l>Mange hundred Aar för vi;</l>
+<l>Trods al Drost, al Frygt og Fare,</l>
+<l>Gid de vinde maa og vare,</l>
+<l>Skabe i et Gyldenaar</l>
+<l>Gamle Danmark gode Kaar!</l>
+</lg>
+<lg>
+<l>Odin, Kongen i Valhalle,</l>
+<l>Skiondt for kiær ad Lykkespil,</l>
+<l>Holdt dog Thing med Aser alle</l>
+<l>Under Asken Ygdrasil;</l>
+<l>Ei et Haar paa Thor han krummed,</l>
+<l>Ihvor lydt endog han brummed,</l>
+<l>Taalde, ihvorvidt det gik,</l>
+<l>Immer Lokes Naalestik.</l>
+</lg>
+<lg>
+<l>Kongens Haand engang var bundet,</l>
+<l>Folkets Stemme lod omsonst,</l>
+<l>Men i Danmark blev opfundet</l>
+<l>Kiærlighedens skiönne Konst:</l>
+<l>Hvad der vilde Livet binde</l>
+<l>Brast for den, som Traad <hi rend="italic">og </hi>Tvinde;</l>
+<l>Skifteviis hinanden godt</l>
+<l>Lost med den har Folk og Drot!</l>
+</lg>
+<lg>
+<l>Folket löste Fredriks Lænke,</l>
+<l>Fri som hans blev ingen Haand;</l>
+<l>Fredrik, som Man vel kan tænke,</l>
+<l>Folket skar for Tungebaand.</l>
+<l>Kongehaand og Folkestemme!</l>
+<l>Lad det aldrig gaae ad Glemme!</l>
+<l>Eders Frihed kom med Fred,</l>
+<l>Löst er I af Kiærlighed.</l>
+</lg> 
+<pb facs="1839_22_page0002.png"/>
+<fw type="pageNum">240</fw>
+<lg>
+<l>Derfor, Danmark! ei du ligne</l>
+<l>Andre Riger trindt paa Jord!</l>
+<l>Himlen dem ei kan velsigne</l>
+<l>Som den lille Plet i Nord,</l>
+<l>Hvor som Ungdoms-Venner vandre</l>
+<l>Magt og Mildhed med hverandre,</l>
+<l>Hvor vi troer, hvad Alle veed:</l>
+<l>Almagts Liv er Kiærlighed!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

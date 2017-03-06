@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Dane-Kongerne</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-26"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="011"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1863">1863</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1863_11_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Dane-Kongerne</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Dane-Kongerne</head>
+<head>Frederik den Syvende</head>
+<head>og</head>
+<head>Christian den Niende.</head>
+<lg>
+<l>Ingen Skjald i Danevangen</l>
+<l>Kvædet har saa høit og tit,</l>
+<l>Om den Æt med <hi rend="spaced">Skjoldung</hi>-Rangen,</l>
+<l>Aarsæl, fredsæl, kaaret frit,</l>
+<l>Til at arve Skjoldung-Lykken,</l>
+</lg>
+<lg>
+<l>Maatte da, før Aande-Flammen</l>
+<l>Sluktes ud i Skjaldens Bryst,</l>
+<l>Fuglen overleve Stammen,</l>
+<l>Lyde maa vel og dens Røst</l>
+<l>Klagende i Dane-Skoven.</l>
+</lg>
+<lg>
+<l>Ja, er blevet en Vindfælde</l>
+<l>Bøge-Stammen kongelig,</l>
+<l>Mageløs af Aar og Ælde</l>
+<l>Paa det hele Jorderig,</l>
+<l>Hvor end vaier Korsets Banner;</l>
+</lg>
+<lg>
+<l>Christen-Skjalden maa vel klage:</l>
+<l>Stammen, som Guldæblet vandt</l>
+<l>I Aarhundreder tilbage,</l>
+<l>Som i <hi rend="spaced">Folke-Yndest</hi> fandt</l>
+<l>Styrke sin, den faldt i Stormen!</l>
+</lg>
+<lg>
+<l>Kiærlig plantet i dens Skygge</l>
+<l>Blev vort unge <hi rend="spaced">Friheds-Træ</hi>,</l>
+<l>Rodfast kun i <hi rend="spaced">Danmarks Lykke</hi>;</l>
+<l>Kan vel nu det finde Læ?</l>
+<l>Lykken var jo Stammens Krone!</l>
+</lg>
+<lg>
+<l>Nytter Lykken det at friste?</l>
+<l>Var ei <hi rend="spaced">Fredrik Folke-Drot</hi></l>
+<l>Som den <hi rend="spaced">Syvende</hi>, den Sidste?</l>
+<l>Gik ei nys med <hi rend="spaced">Fredriks</hi> Slot</l>
+<l>Op i Luer <hi rend="spaced">Danmarks Lykke</hi>?</l>
+</lg>
+<lg>
+<l>Nei dog, Herren være lovet!</l>
+<l>Han er evig <hi rend="spaced">fredegod</hi>,</l>
+<l>De <hi rend="spaced">Fredsælle</hi> Han har lovet</l>
+<l>For al jordisk Vaande Bod,</l>
+<l>Og fredsælt er Dane-Folket.</l>
+</lg> 
+<pb facs="1863_11_page0002.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Stiger op paa <hi rend="spaced">Fredriks</hi> Throne</l>
+<l>Frændefødt en <hi rend="spaced">Christian</hi>,</l>
+<l>Bære <hi rend="spaced">Thjodrekider</hi> Krone</l>
+<l>End som før i Daneland,</l>
+<l>For os spiller <hi rend="spaced">Danmarks Lykke</hi>.</l>
+</lg>
+<lg>
+<l>Thjodrek*) var ,"den <hi rend="spaced">Lykkellge</hi>"</l>
+<l>Konge-Fader til dét Kuld,</l>
+<l>Som har styret Danmarks Rige</l>
+<l>Og er ei lagt under Muld,</l>
+<l>Mens et Skud er end ilive.</l>
+</lg>
+<lg>
+<l>Skud af <hi rend="spaced">Thjodreks</hi> Konge-Stamme!</l>
+<l>Navner til dens <hi rend="spaced">Førstemand</hi>!</l>
+<l>Danmarks Lykke er den samme</l>
+<l>Under hver dens <hi rend="spaced">Christian</hi>,</l>
+<l>Som sin Byrd vil ihukomme.</l>
+</lg>
+<lg>
+<l><hi rend="spaced">Thjodrek</hi> er paa <hi rend="spaced">Nordens</hi> Tunge</l>
+<l><hi rend="spaced">Folke-Drot</hi>, kom det ihu!</l>
+<l>Da skal Fremtids Skjalde sjunge:</l>
+<l><hi rend="spaced">Folke-Yndest</hi> har endnu</l>
+<l>Dane-Kongen til sin <hi rend="spaced">Styrke</hi>!</l>
+</lg>
+<lg>
+<l>Kaldes skal da Konge-Fader,</l>
+<l>Med den første <hi rend="spaced">Christians</hi> Kaar:</l>
+<l>Dane-Lykkens Arvelader</l>
+<l>Giennem <hi rend="spaced">firehundred</hi> Aar,</l>
+<l><hi rend="spaced">Du</hi> i Nord med <hi rend="spaced">Skjoldung</hi>-Rangen!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+<p>*) Grev Diderik den <hi rend="spaced">Lykkelige af Oldenborg</hi>, Fader til Kong <hi rend="spaced">Christian</hi> den
+<hi rend="spaced">Første i Danmark</hi>.</p>
+</div>
+</body>
+</text>
+</TEI>

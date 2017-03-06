@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Sange ved Sørge-Høitiden over Kong Frederik den Sjette.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-23"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="003"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1840">1840</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1840_3_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Sange<lb/>ved<lb/>Sørge-Høitiden<lb/>over<lb/>Kong Frederik den Sjette.</titlePart>
+</docTitle>
+</titlePage>
+</front>
+<body>
+<div> 
+<pb facs="1840_3_page0002.png"/>
+<fw type="pageNum"></fw>
+<fw type="graphic"/>
+<head>Før Talen.</head>
+<fw type="graphic"/>
+<lg>
+<l>Mel. Hvo veed hvor nær mig er min Ende.</l>
+<l><hi rend="initial">V</hi>elsignet er den Konges Minde,</l>
+<l>Som elsked Ret og Miskundhed!</l>
+<l>Og mens Aarhundreder henrinde,</l>
+<l>Med Æren hviler han i Fred.</l>
+<l>O! Miskundhed er Livvagt god,</l>
+<l>Og Sandhed Thronens gyldne Fod!</l>
+</lg>
+<lg>
+<l>Vort Fædreland var, af Guds Naade,</l>
+<l>Miskundelige Kongers Hjem,</l>
+<l>Som Hjertet lod for Spiret raade;</l>
+<l>Hensovet nys er En af dem!</l>
+<l>O! Miskundhed er Livvagt god,</l>
+<l>Og Sandhed Thronens gyldne Fod!</l>
+</lg>
+<lg>
+<l>Hans Kraft var vel hans Ungdoms Smykke,</l>
+<l>Dets Ædelsteen dog Miskundhed;</l>
+<l>I Kjærlighed Han fandt sin Lykke,</l>
+<l>Hans Lov var Ret, Hans Lyst var Fred!</l>
+<l>O! Miskundhed er Livvagt god,</l>
+<l>Og Sandhed Thronens gyldne Fod!</l>
+</lg> 
+<pb facs="1840_3_page0003.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>For Konger sjelden Taarer rinde</l>
+<l>Saa varme og saa mangefold,</l>
+<l>Velsignes skal den Herres Minde</l>
+<l>Paa Daners Mark fra Old til Old.</l>
+<l>O! Miskundhed er Livvagt god,</l>
+<l>Og Sandhed Thronens gyldne Fod!</l>
+</lg>
+<lg>
+<l>Som Vidnesbyrd af ædle Sjæle,</l>
+<l>Med Taareblik og dæmpet Røst,</l>
+<l>Det være skal hans Eftermæle:</l>
+<l>"Det Rettes Ven, de Ringes Trost."</l>
+<l>O! Miskundhed er Livvagt god,</l>
+<l>Og Sandhed Thronens gyldne Fod!</l>
+</lg>
+<lg>
+<l>For Gud er ingen Mand retfærdig,</l>
+<l>Og daarlig Støvets Roes af Dyd,</l>
+<l>Men Miskundhed er Naaden værdig,</l>
+<l>Og Kjærlighed er Engles Fryd!</l>
+<l>Halleluja! vor Gud er god,</l>
+<l>Hans Miskundhed er Livets Flod!</l>
+</lg>
+<lg>
+<l>Halleluja! Han kom til Jorden,</l>
+<l>Som os forligde med vor Gud!</l>
+<l>Halleluja! Det kom til Norden,</l>
+<l>Det himmelsøde Julebud:</l>
+<l>Nu Sandhed Naaden tog i Favn,</l>
+<l>Guds Fred i <hi rend="spaced">Jesu Christi</hi> Navn!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div> 
+<pb facs="1840_3_page0004.png"/>
+<fw type="pageNum"></fw>
+<head>Etter Talen.</head>
+<fw type="graphic"/>
+<p><hi rend="align(center)">Mel. Jesus han er Syndles Ven.</hi></p>
+<lg>
+<l><hi rend="initial">B</hi>lomsten lig, al jordisk Glands</l>
+<l>Falme skal i Hast og blegne,</l>
+<l>Stolte Kiæmpers Ærekrands</l>
+<l>Hurtig visner allevegne;</l>
+<l>Men, Kong <hi rend="bold">Fredrik</hi>! i vor Favn</l>
+<l>Er ubodeligt dit Navn.</l>
+</lg>
+<lg>
+<l>Bøgen lig, som fæster Rod</l>
+<l>Kongelig i vore Skove,</l>
+<l>Mindet om vor <hi rend="bold">Fredegod</hi></l>
+<l>Voxe skal paa Tro og Love,</l>
+<l>Grønnes lyst i Danevang,</l>
+<l>Aarlig under Fuglesang!</l>
+</lg>
+<lg>
+<l>Fredegod med Fryd opkaldt,</l>
+<l>Friheds Ven paa lovfast Throne,</l>
+<l>Folkelig i Eet og Alt,</l>
+<l>Faderlig med Graahaars-Krone,</l>
+<l>Lever op i Hjertets Priis,</l>
+<l>Hviler født i Paradiis!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

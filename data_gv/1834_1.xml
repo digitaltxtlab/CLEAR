@@ -1,0 +1,733 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Den Nordiske Kirke-Tidende</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2009-12-22"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="001"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1834">1834</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1834_1_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Den Nordiske Kirke-Tidende<lb/></titlePart>
+	<titlePart type="sub">et Uge-Skrift<lb/>for Kirken og Skolen.<lb/></titlePart>
+</docTitle>
+<byline>Udgivet og forlagt af 
+	<docAuthor>Mag. Jac. Chr. Lindberg.<lb/>Trykt hos de Fabritius de Tengnagel.</docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<docEdition>Nr. 4. Søndag Septuagesima 1834</docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace></pubPlace>.<lb/>Maa trykkes. I Kjøbenhavns Politieret den 25 Januar 1834. Thomsen.<lb/>
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<pb facs="1834_1_page0001.png"/>
+<fw type="pageNum"></fw>
+<fw type="graphic"/>
+<head>Gylden-Aaret.</head>
+<lg>
+<l><hi rend="initial">H</hi>vad er det for en Lille,</l>
+<l>Der vugges nu paa Hav,</l>
+<l>Hvor Bølger ikkun trille,</l>
+<l>Hvor alle Storme tav,</l>
+<l>Hvad staaer der i hans Stjerne;</l>
+<l>Hvad slumrer i hans Hjerne;</l>
+<l>Hvad smiler i hans Drøm!</l>
+</lg>
+<lg>
+<l>Skal han som Brødre mange,</l>
+<l>Med stakket Levnets-Løb</l>
+<l>Trods glade Vugge-Sange,</l>
+<l>Henvisne i sit Svøb,</l>
+<l>Og stædes saa til Jorde</l>
+<l>Med Smil, som den der gjorde</l>
+<l>Sit Bedste ved at døe?</l>
+</lg>
+<lg>
+<l>O nei dog, ingenlunde!</l>
+<l>Her paa den jævne Jord,</l>
+<l>Imellem Velt og Sunde</l>
+<l>Den Lille bliver stor,</l>
+<l>Og naar han os forlader,</l>
+<l>Da gaaer han til sin Fader,</l>
+<l>I Ærens Høie-Loft!</l>
+</lg>
+<lg>
+<l>Ja, i sin Middel-Alder</l>
+<l>Han kroner, Gud for Alt,</l>
+<l>Den Ætmand god af Balder,</l>
+<l>Som blev til Styret kaldt</l>
+<l>I gamle Faders Dage,</l>
+<l>Fuldmange Aar tilbage,</l>
+<l>Med <hi rend="spaced">Fredegodes</hi> Navn!</l>
+</lg>
+<lg>
+<l>Saa vox da op, du Spæde,</l>
+<l>Til Helte-Daad i Vaar!</l>
+<l>Og bliv, til Daners Glæde,</l>
+<l>Et Fredens <hi rend="spaced">Gylden-Aar</hi>,</l>
+<l>For Gamle og for Unge,</l>
+<l>I Hjerte og paa Tunge</l>
+<l>I Lund og Høieloft!</l>
+</lg> 
+<pb facs="1834_1_page0002.png"/>
+<fw type="pageNum">51-52</fw>
+<lg>
+<l>Der kom et Skib til Lande,</l>
+<l>I Havn forgangen Host,</l>
+<l>Som bragde over Strande</l>
+<l>Til Daner Fred og Trost,</l>
+<l>Hvor Kongen, frelst fra Døden,</l>
+<l>Stod rank i Aften - Røden</l>
+<l>I Glands med <hi rend="spaced">Dannebrog</hi>!</l>
+</lg>
+<lg>
+<l>Da løfted sig en Stemme,</l>
+<l>Da lod i Sky et Ord,</l>
+<l>Som bedre haver hjemme</l>
+<l>Ei nogensteds paa Jord,</l>
+<l>Og Kongen, dybt bevæget,</l>
+<l>Sig folde vederkvæget,</l>
+<l>Som kongefødt paa Ny!</l>
+</lg>
+<lg>
+<l>Det skal i Guld Du præge,</l>
+<l>Nyfødte Gylden-Aar!</l>
+<l>Til Folk at vederkvæge,</l>
+<l>Saavidt som Ordet gaaer,</l>
+<l>Til for ufødte Slægter</l>
+<l>At vidne, hvad end mægter</l>
+<l>Den Danske Kjærlighed!</l>
+</lg>
+<lg>
+<l>Ja, den skal giemmes længe</l>
+<l>Og findes Ære værd,</l>
+<l>Den sjeldne Skue-Penge,</l>
+<l>Som Hjerte-Præget bær.</l>
+<l>Med Klang som Skjalde kvæde</l>
+<l>Om Danmarks Hjertens-Glæde</l>
+<l>I <hi rend="spaced">Fredriks</hi> Gylden-Aar!</l>
+</lg>
+<lg>
+<l>Der, paa den ene Side,</l>
+<l>Man under Konge-Flag</l>
+<l>Seer Lykke-Skibet stride</l>
+<l>For fulde Seil i Mag,</l>
+<l>Hvor ingen Vinde suse,</l>
+<l>Og ingen Bølger bruse,</l>
+<l>Men Alt er Varmens Værk!</l>
+</lg>
+<lg>
+<l>Og paa den anden Side,</l>
+<l>Med gylden Axe-Krands</l>
+<l>Om Solver-Lokker hvide.</l>
+<l>Staaer Kongen i sin Glands,</l>
+<l>Henpegende paa Røsten</l>
+<l>„Som Glæden er om Høsten"</l>
+<l>Med gylden Konge-Vaand!</l>
+</lg>
+<lg>
+<l>Her er det Kongens Baade</l>
+<l>I Alderdommens Aar</l>
+<l>At hoste hvad han saa'de</l>
+<l>I kraftig ungdoms Vaar;</l>
+<l>Her er det Markens Ære</l>
+<l>En Axe-Krands at bære</l>
+<l>Som Kongen frydes ved!</l>
+</lg>
+<lg>
+<l>Ja, sandt er det at sige,</l>
+<l>Da som en lille pog</l>
+<l>I Dane-Kongens Rige</l>
+<l>Jeg staved slet i Bog,</l>
+<l>Da hørde grandt jeg tale</l>
+<l>Om Ham i Konge-Sale</l>
+<l>Som da var ung og viis!</l>
+</lg>
+<lg>
+<l>Han holdt i hine Dage</l>
+<l>Et Ind-Tog med sin Brud,</l>
+<l>Da maatte Øren brage</l>
+<l>Af høie Ære-Skud</l>
+<l>Og mest fra pige-Munde</l>
+<l>Som sang i Mark og Lunde</l>
+<l>Hans favre Brude-Vers!</l>
+</lg>
+<lg>
+<l>Ja, det er ei at glemme,</l>
+<l>At ved den Høitids-Færd</l>
+<l>Sig loftede en Stemme,</l>
+<l>Som længe tied kvær,</l>
+<l>Det var vor Moders egen,</l>
+<l>Som yndig, halv forlegen</l>
+<l>Paa Ny i Skoven klang!</l>
+</lg>
+<lg>
+<l>Det saa sig maatte fole</l>
+<l>I denne Herres Tid,</l>
+<l>Thi Naade for Hans Øie</l>
+<l>Fandt Sangen jævn og blid,</l>
+<l>Ja, Naade fandt og Hæderr,</l>
+<l>Med Danske Folk og Sæder,</l>
+<l>Vort simple Moders-Maal!</l>
+</lg>
+<lg>
+<l>Thi maa, om end lidt silde,</l>
+<l>Som alle Gylden-Aar,</l>
+<l>Nu komme det „Host-Gilde"</l>
+<l>Der spaa'des om i Vaar,</l>
+<l>Da trindt fra Mark og Vove</l>
+<l>Indhostes Tak til Hove</l>
+<l>Halvtredsindstyve Fold!</l>
+</lg> 
+<pb facs="1834_1_page0003.png"/>
+<fw type="pageNum">53-54</fw>
+<lg>
+<l>Her er slet ikke Talen</l>
+<l>Om meget „Sort paa Hvidt"</l>
+<l>For Dyd i Konge-Salen,</l>
+<l>For Borger-Selskab frit;</l>
+<l>God Gierning selv sig priser,</l>
+<l>Hvad Penne-Strøg beviser</l>
+<l>Det er kun Skrive-Konst!</l>
+</lg>
+<lg>
+<l>Nei, Nødt, paa Hvidt er Arven,</l>
+<l>Vi har fra Heden-Old,</l>
+<l>Og Hvidt paa Nødt er Farven,</l>
+<l>Vi føre i vort Skjold;</l>
+<l>I Hytten og til Hove</l>
+<l>Vi takke, som vi love,</l>
+<l>Kun ret med Haand og Mund!</l>
+</lg>
+<lg>
+<l>Og Kongen af Guds Naade,</l>
+<l>Som høste skal i Lund,</l>
+<l>Ei Blæk med pennen saa'de.</l>
+<l>Men Fro med Haand og Mund</l>
+<l>Til Alt hvad Livet pryder,</l>
+<l>Til Alt hvad Hjertet fryder:</l>
+<l>Til varigt Folke-Held!</l>
+</lg>
+<lg>
+<l>Det hørde jeg forleden,</l>
+<l>I Jubel-Drottens Vaar,</l>
+<l>I Skoven og paa Heden,</l>
+<l>I mine Drenge - Aar,</l>
+<l>I hine Trylle-Dage,</l>
+<l>Da <hi rend="spaced">Prindsen</hi> uden Mage</l>
+<l>Lovpristes vidt om Land!</l>
+</lg>
+<lg>
+<l>Mens selvgjort Lyn og Torden</l>
+<l>I Naad - Huus og paa Val</l>
+<l>Bortskræmmed Fred fra Jorden,</l>
+<l>Udbredte Død og Kval;</l>
+<l>Kun gienlød Danmarks Vange</l>
+<l>Af høie Fryde-Sange</l>
+<l>Til Freds og <hi rend="spaced">Frederiks</hi> Priis!</l>
+</lg>
+<lg>
+<l>Det gienlød vidt paa Jorden</l>
+<l>„Han løser alle Baand"</l>
+<l>Den ædle Prinds i Norden,</l>
+<l>Ham driver Friheds Aand:</l>
+<l>Han binder kun fra Oven</l>
+<l>Urettens Haand med Loven,</l>
+<l>Og Folk med Kiærlighed!</l>
+</lg>
+<lg>
+<l>Da blussed vore Kinder</l>
+<l>Da kom der Rødt paa Hvidt,</l>
+<l>Søm ved vor Ungdoms Minder</l>
+<l>Endnu der kommer tit,</l>
+<l>Det spurgdes over Stranden,</l>
+<l>At stolte af hinanden</l>
+<l>Var Fyrsten og hans Folk!</l>
+</lg>
+<lg>
+<l>Som „deiligst Vang og Vænge"</l>
+<l>Det lille Danmark laae,</l>
+<l>For Ufærd syndes længe</l>
+<l>Det „lukt med Bølgen blaa"</l>
+<l>Til, som saa tit, det hændtes,</l>
+<l>At hvor ei Faren ventes,</l>
+<l>Den snarest kommer fra!</l>
+</lg>
+<lg>
+<l>Det saae jeg giennem Taagen,</l>
+<l>Med stakket Sværd ved Lænd,</l>
+<l>Kun hvæsset slet paa Bogen</l>
+<l>Om „at" og „da" og „men"</l>
+<l>Da Spillet paa <hi rend="spaced">Tre-Kroner</hi></l>
+<l>Med ubekjendte Toner</l>
+<l>Gjenlød i <hi rend="spaced">Axelstad</hi>!</l>
+</lg>
+<lg>
+<l>Det baader ei at glemme</l>
+<l>Gienvordighed paa Jord,</l>
+<l>Alvorlig er dens Stemme</l>
+<l>Og mærkeligt dens Ord,</l>
+<l>Og stort det aldrig duer</l>
+<l>Hvad i en Skærs-Ilds Luer</l>
+<l>Ei luttres men forgaaer!</l>
+</lg>
+<lg>
+<l>Derfor saa god at giæste</l>
+<l>Er, som en prøvet Mand,</l>
+<l>Kong <hi rend="spaced">Frederik</hi> den Bedste</l>
+<l>Og Daners Fødeland,</l>
+<l>Hjemsøgte blev de begge</l>
+<l>Med meer end Odd og Egge:</l>
+<l>Med Harm og Hjerte-Sorg!</l>
+</lg>
+<lg>
+<l>Nærværende Tids - Alder</l>
+<l>Med Skarpt blev her indskudt,</l>
+<l>Det lod for os, som Balder paa Ny til Hel var budt,</l>
+<l>Hans Skib paa Hexe-Ruller</l>
+<l>Udskred med Brag og Bulder</l>
+<l>Saa <hi rend="spaced">Nannas</hi> Hjerte brast!</l>
+</lg> 
+<pb facs="1834_1_page0004.png"/>
+<fw type="pageNum">55-56</fw>
+<lg>
+<l>Da blev der født og baaret</l>
+<l>En Smerte-Søn i Nord,</l>
+<l>Til først i Gylden-Aaret</l>
+<l>At vorde glad og stor:</l>
+<l>Paa Valen stod hans Vugge,</l>
+<l>En Dødning var hans Dukke,</l>
+<l>Hans Hest en Bauta-Steen!</l>
+</lg>
+<lg>
+<l>Dog blev han til en Sanger</l>
+<l>Med sæere Kæmpe-Kaar,</l>
+<l>Som laande <hi rend="spaced">Odins</hi> Ganger</l>
+<l>Og giæsted <hi rend="spaced">Helas</hi> Gaard,</l>
+<l>Kom hjem med Od i ns Lykke,</l>
+<l>Med <hi rend="spaced">Fyllas</hi> Hoved-Smykke</l>
+<l>Og <hi rend="spaced">Nannas</hi> hvide Slør!</l>
+</lg>
+<lg>
+<l>Ham <hi rend="spaced">Balders</hi> Aand omsvæver,</l>
+<l>Hans Borg sig Dag for Dag</l>
+<l>Paa gyldne Suler hæver</l>
+<l>Med blanke Sølver-Tag,</l>
+<l>Han alle Trætter jævner,</l>
+<l><hi rend="spaced">Forsete</hi> Man ham nævner</l>
+<l>Paa Nordens Billed-Sprog!</l>
+</lg>
+<lg>
+<l>Nu er han myndig blevet,</l>
+<l>I <hi rend="spaced">Fredriks</hi> Gylden-Aar;</l>
+<l>Og til han blir udlevet</l>
+<l>Har <hi rend="spaced">Danmark</hi> gyldne Kaar;</l>
+<l>Thi det er Daners Baade</l>
+<l>At høste hvad de saa'de</l>
+<l>I Folke-Livets Vaar!</l>
+</lg>
+<lg>
+<l>Nu skal det aabenbares,</l>
+<l>At gammel Kiærlighed</l>
+<l>I hver en Skærs-Ild klares,</l>
+<l>Og er for Rust i Fred;</l>
+<l>For Levende og Døde</l>
+<l>Kan Daners Hjerter bløde</l>
+<l>Men isne kan de ei!</l>
+</lg>
+<lg>
+<l>Der kom et Skib til Lande,</l>
+<l>I Havn forgangen Høst</l>
+<l>Som bragde over Strande</l>
+<l>Til Daner Fred og Trøst,</l>
+<l>Hvor Kongen, frelst fra Døden,</l>
+<l>Stod rank i Aften-Røden</l>
+<l>I Glands med Dannebrog!</l>
+</lg>
+<lg>
+<l>Da løfted sig en Stemme,</l>
+<l>Da lød i Sky et Ord,</l>
+<l>Som bedre haver hjemme</l>
+<l>Ei nogensteds paa Jord,</l>
+<l>Og Kongen, dybt bevæget,</l>
+<l>Sig følde vederkvæget,</l>
+<l>Som kongefødt paa Ny!</l>
+</lg>
+<lg>
+<l>Det var en deilig Scene,</l>
+<l>Men intet Skue-Spil,</l>
+<l>Med den skal sig forene</l>
+<l>Alt hvad der hører til.</l>
+<l>For klarlig at stadfæste:</l>
+<l>End lever dog det Bedste</l>
+<l>Hos Kongen og Hans Folk!</l>
+</lg>
+<lg>
+<l>End lever Kiærligheden,</l>
+<l>Som aldrig skal forgaae,</l>
+<l>Men klare sig herneden.</l>
+<l>Til Livet at forstaae,</l>
+<l>Til klart Ham at begribe,</l>
+<l>Der evig er i Live,</l>
+<l>Som Kiærligheden selv!</l>
+</lg>
+<lg>
+<l>Saa er da ikke brustet,</l>
+<l>„Fuldkommenhedens Baand"</l>
+<l>Vor Kjæde er ei rustet,</l>
+<l>Den bryder ingen Haand,</l>
+<l>Men af hvert Led udspringer</l>
+<l>En Blomst med Fugle-Vinger</l>
+<l>Til Gylden-Aarets Krands!</l>
+</lg>
+<lg>
+<l>Ja Kjæden af Kiær-Minder</l>
+<l>Man sagtens prise tør:</l>
+<l>Jo stærkere den binder,</l>
+<l>Des friere den giør,</l>
+<l>Jo længer den mon vare,</l>
+<l>Des mindre staaer den Fare,</l>
+<l>Des længere den blir!</l>
+</lg>
+<lg>
+<l>Man længe nok maa fige</l>
+<l>At Kiærlighed er blind,</l>
+<l>Det blir dog Lysets Rige,</l>
+<l>Hvor ret den strømmer ind,</l>
+<l>Og han har aldrig levet,</l>
+<l>Som klog paa det er blevet,</l>
+<l>Han først ei havde kiær!</l>
+</lg> 
+<pb facs="1834_1_page0005.png"/>
+<fw type="pageNum">57-58</fw>
+<lg>
+<l>Fra Arilds-Tid herinde</l>
+<l>Vi elsked „Liv og Fred"</l>
+<l>Ja hos vor Danne-Kvinde</l>
+<l>Vi elsked Kiærlighed,</l>
+<l>Saa, er det Livets Gaade,</l>
+<l>Den sikkert bedst vil raade,</l>
+<l>Fuldvoxne Dannemands</l>
+</lg>
+<lg>
+<l>Ja, du est nær forhaanden,</l>
+<l>Du blide Solskins-Dag!</l>
+<l>Jeg alt dig seer i Aanden</l>
+<l>Forgylde Danmarks Flag,</l>
+<l>Og kaste dine Straaler</l>
+<l>Paa Alt hvad Lyset taaler,</l>
+<l>Mod Alt hvad Lyset skyer!</l>
+</lg>
+<lg>
+<l>Ja, Brage Bænke-Pryder!</l>
+<l>Jeg øiner Dig i Soer,</l>
+<l>Naar klart du det Udtyder,</l>
+<l>Hvad der er <hi rend="spaced">Stort</hi> i Nord,</l>
+<l>Hvad der er <hi rend="spaced">Danmark</hi> givet,</l>
+<l>Hvad der er godt for Livet,</l>
+<l>Og klogt for <hi rend="spaced">Askurs</hi> Æt!</l>
+</lg>
+<lg>
+<l>Et Lys sig da udbreder,</l>
+<l>Som trindt i Mark og Skov</l>
+<l>Om <hi rend="spaced">Liv og Sandhed</hi> freder,</l>
+<l>Forklarer Friheds Lov,</l>
+<l>Som Idræt, Ord og Tanker</l>
+<l>Kun holder saa i Skranker,</l>
+<l>At Frihed kan bestaae!</l>
+</lg>
+<lg>
+<l>For Dannemandens Vie</l>
+<l>Oplade sig da brat</l>
+<l>De gamle Kæmpe-Høie,</l>
+<l>Med mangen jordlagt Skat,</l>
+<l>Og af hvad nu Man spilder</l>
+<l>Udspringe Hielpe - Kilder,</l>
+<l>Som Ingen drømde om!</l>
+</lg>
+<lg>
+<l>Da skal Man <hi rend="spaced">Freden</hi> fatte,</l>
+<l>Som Livets Sommer-Veir,</l>
+<l>Da skal Man Kæmpen skatte,</l>
+<l>Som drog for den sit Sværd,</l>
+<l>Ei Alt i Fred-Leer forme,</l>
+<l>Men vælge Livets Storme</l>
+<l>For Gravens stille Ro!</l>
+</lg>
+<lg>
+<l>Da skal Man Forskiel kiende</l>
+<l>Paa Soel-Skin og paa Lyn,</l>
+<l>Skiøndt Begge de kan brænde</l>
+<l>Og skabe klare Syn;</l>
+<l>Thi, som Fornuften giver,</l>
+<l>Det ene Lys opliver,</l>
+<l>Det Andet slaaer ihjel!</l>
+</lg>
+<lg>
+<l>Jeg skimter i det Fjerne</l>
+<l>Og Dig, hvor høit Du boer,</l>
+<l>Som fødtes til at værne</l>
+<l>Om Gudhjem i vort Nord,</l>
+<l>Dig, Gjallar-Hornets Eier!</l>
+<l>Hvem <hi rend="spaced">Loke</hi> Lurendrejer</l>
+<l>Maa lade <hi rend="spaced">Brysing-Men</hi>!</l>
+</lg>
+<lg>
+<l>Den gamle Gude - Kiender,</l>
+<l>Han saae det førend vi,</l>
+<l>Du skabtes ei med Hænder,</l>
+<l>Men fødtes af de Ni:</l>
+<l>Af <hi rend="spaced">Muserne</hi> fra Tempe</l>
+<l>Og Nordens gamle Kæmpe,</l>
+<l>Med Danmarks Hjerte-Skjold!</l>
+</lg>
+<lg>
+<l>Du fra dig hundred Mile</l>
+<l>Kan see paa hver en Leed,</l>
+<l>O, hvor maa Du ei smile</l>
+<l>Ad vor Kortsynethed,</l>
+<l>Vi for os see kun Haanden,</l>
+<l>Og tage den for Aanden,</l>
+<l>Som raader Gjallar-Horn!</l>
+</lg>
+<lg>
+<l>I dine lyse Dage</l>
+<l>Man for et Æventyr</l>
+<l>Skal fristes til at tage</l>
+<l>Hvad dog er Sandhed dyr:</l>
+<l>At vi har janket Gloser</l>
+<l>Og stoppet dem i Poser</l>
+<l>Og kaldt dem Mimers Brønd!</l>
+</lg>
+<lg>
+<l>Hvor kan det troes i Norden,</l>
+<l>Naar Livets Bølge-Gang</l>
+<l>Fra Slægt til Slægt paa Jorden</l>
+<l>I Raad og Daad og Sang,</l>
+<l>Ja <hi rend="spaced">Virkninger</hi> og <hi rend="spaced">Kræfter</hi></l>
+<l>Er hvad Man spørger efter,</l>
+<l>Og lærer at forstaae!</l>
+</lg> 
+<pb facs="1834_1_page0006.png"/>
+<fw type="pageNum">59-60</fw>
+<lg>
+<l>Men i de Soelskins-Dage</l>
+<l>Før Rogna-Rokes Nat,</l>
+<l>Naar Viet seer tilbage.</l>
+<l>Det kiendes dog fuldbrat,</l>
+<l>At i den aarle Morgen,</l>
+<l>Mens <hi rend="spaced">Fredrik</hi> sad paa Borgen,</l>
+<l>Vi Dagnings - Skiæret saae!</l>
+</lg>
+<lg>
+<l>Ja Skyen seer jeg gløde.</l>
+<l>Hvor Soel mod Nord opstaaer,</l>
+<l>Vist til en Morgen-Røde</l>
+<l>I <hi rend="spaced">Fredriks</hi> Gylden-Aar,</l>
+<l>Saa Dagen alt begynder</l>
+<l>Oplysningens Velynder</l>
+<l>At krone med sit Guld!</l>
+</lg>
+<lg>
+<l>For Fugle-Sang i Skove</l>
+<l>Man klaged alt enstund,</l>
+<l>Man kunde sødt ei sove</l>
+<l>Som før ved Velt og Sund,</l>
+<l>Saa, er ei Solen oppe, .</l>
+<l>Vil brat dog Bøge-Toppe</l>
+<l>Nok lysne i dens Glands!</l>
+</lg>
+<lg>
+<l>Ja, siden <hi rend="spaced">Hjarnes</hi> Dage</l>
+<l>Der sang om <hi rend="spaced">Fredegod</hi>,</l>
+<l>Paa Marken aldrig Mage</l>
+<l>Til Skjalde - Chor opstod,</l>
+<l>Som det der mangetunget</l>
+<l>Har <hi rend="spaced">Frederik</hi> besunget</l>
+<l>Halvtredsindstyve Aar!</l>
+</lg>
+<lg>
+<l>Gik med de Konge-Skjalde</l>
+<l>Jeg mange Aar i Lag,</l>
+<l>Da tor jeg ogsaa kalde</l>
+<l>Kong Fredrik <hi rend="spaced">Atter-Dag</hi>;</l>
+<l>Thi rimed det sig ikke,</l>
+<l>Da var kun værd en Strikke</l>
+<l>Det hele Skjalde-Chor I</l>
+</lg>
+<lg>
+<l>Ja, skred ei Natten sorte,</l>
+<l>Og nærmed sig ei Dag:</l>
+<l>Skin - Faxe vore Porte</l>
+<l>Med gyldent Hoved-Lag,</l>
+<l>Hvortil har det da kimet!</l>
+<l>Hvorom har vi da rimet</l>
+<l>I Draperne omkap!</l>
+</lg>
+<lg>
+<l>Dog, at om vores Frode</l>
+<l>Al Skjalde - Roes var sand:</l>
+<l>Fra <hi rend="spaced">Thaarup</hi> og fra <hi rend="spaced">Tode</hi></l>
+<l>Til efter <hi rend="spaced">Ingemann</hi>,</l>
+<l>Derom tor jeg nok mene,</l>
+<l>Sig Stemmerne forene,</l>
+<l>Derom gaaer Syn for Sagn!</l>
+</lg>
+<lg>
+<l>Var det ei sandt, vi meldte,</l>
+<l>At Fredriks Konge - Vaand</l>
+<l>Med Guder og med Helte</l>
+<l>Opvakde <hi rend="spaced">Nordens Aand</hi>,</l>
+<l>Hvad lofte da vor Tunge,</l>
+<l>Hvad lærde os at sjunge</l>
+<l>I Nørre-Ledens Aand!</l>
+</lg>
+<lg>
+<l>Og tor vel Nogen sige,</l>
+<l>Den Aand paa Mark og Fjeld</l>
+<l>Ei styrker Lysets Rige,</l>
+<l>Men staaer i pagt med Hel!</l>
+<l>Hvormeget drog med Styrke</l>
+<l>Ei alt fra Mulm og Morke</l>
+<l>Den frem til Dagens Lys!</l>
+</lg>
+<lg>
+<l>Var det blot Old-Tids Skrifter,</l>
+<l>Som nu kom for en Dag,</l>
+<l>Var kun af dens Bedrifter</l>
+<l>Vor Sang et Efter-Brag,</l>
+<l>Fandt ei Hvad dybt i Hjerte</l>
+<l>End vækker Fryd og Smerte</l>
+<l>I den sit Liv-Udtryk!</l>
+</lg>
+<lg>
+<l>Frem sprang, som Kæmper ranke</l>
+<l>I lysegrønne Vang,</l>
+<l>Hver ædel Nordisk Tanke</l>
+<l>I Danmarks Skjalde-Sang,</l>
+<l>Og hver en ædel Tone</l>
+<l>Fandt Gjenlyd paa en Throne:</l>
+<l>I Dane-Kongens Bryst!</l>
+</lg>
+<lg>
+<l>Var det kun Aften - Rode,</l>
+<l>Ei Skjær af nyfødt Dag,</l>
+<l>Da Ære med de Døde,</l>
+<l>Men vee det Folke - Vrag,</l>
+<l>Som heller gik tilgrunde,</l>
+<l>End toned nogenlunde</l>
+<l>Sit gamle Konge-Flag!</l>
+</lg> 
+<pb facs="1834_1_page0007.png"/>
+<fw type="pageNum">61-62</fw>
+<lg>
+<l>Dog, bort med Tanker morke!</l>
+<l>Langt Andet varslet blev,</l>
+<l>Da Thor idrog sin Styrke</l>
+<l>Og Holmgangs-Kredsen skrev,</l>
+<l>Da Heimdal stod mod Loke</l>
+<l>I Skjaldskabs Ragnaroke</l>
+<l>Og stilled Freias Graad!</l>
+</lg>
+<lg>
+<l>Ja, hos Kong <hi rend="spaced">Fredriks</hi> Fugle,</l>
+<l>Der sang med Vinge-Slag,</l>
+<l>Søm alt det over Thule</l>
+<l>Var høilys Sommer-Dag,</l>
+<l>Der var et Tone-Møde,</l>
+<l>Af Levende og Døde,</l>
+<l>Som i et Gylden-Aar!</l>
+</lg>
+<lg>
+<l>Af <hi rend="spaced">Urdas</hi> Tone-Kilde</l>
+<l>Udsprang i samlet Strøm</l>
+<l>De Stærke med de Milde:</l>
+<l>En haard, en Anden om,</l>
+<l>En klar som Guld og Navet,</l>
+<l>En dunkeldyb som Havet,</l>
+<l>En høi som Ørnens Vei!</l>
+</lg>
+<lg>
+<l>De sært hinanden krydsed,</l>
+<l>De stridt ei sjelden klang,</l>
+<l>Den fælleds Moder kyssed</l>
+<l>Dog Alle i en Sang,</l>
+<l>Og smeltede med Gammen</l>
+<l>Paa hendes Læber sammen</l>
+<l>Til Fader-Kongens priis!</l>
+</lg>
+<lg>
+<l>De loved hende Glæde,</l>
+<l>De priste hendes Held,</l>
+<l>Med deiligt Dronning-Sæde</l>
+<l>Ved Morgen-Rødens Væld,</l>
+<l>Og med et kronet Hjerte,</l>
+<l>Som under Fryd og Smerte</l>
+<l>Blev til et Konge-Speil!</l>
+</lg>
+<lg>
+<l>Saa vox da op, du Spæde,</l>
+<l>Til Helte-Daad i Vaar!</l>
+<l>Og bliv til Daners Glæde</l>
+<l>Et Fredens Gylden-Aar,</l>
+<l>For Gamle og for unge,</l>
+<l>I Hjerte og paa Tunge</l>
+<l>I Lund og Høie-Loft!</l>
+</lg>
+<lg>
+<l>Ja, i din Middel-Alder</l>
+<l>Du krone, Gud for Alt,</l>
+<l>Den Ætmand god af Balder,</l>
+<l>Som blev til Styret kaldt</l>
+<l>I gamle Faders Dage,</l>
+<l>Fuldmange Aar tilbage,</l>
+<l>Med <hi rend="spaced">Fredegodes</hi> Navn!</l>
+</lg>
+<lg>
+<l>Ja lad, o Gud! opklare</l>
+<l>En Dag, et Gylden-Aar,</l>
+<l>Som ret kan aabenbare,</l>
+<l>Med Nordens gode Kaar</l>
+<l>Det Danske Hjertes Fylde</l>
+<l>Til Graa-Haar at forgylde</l>
+<l>Hos Kongen og hans Folk!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+<fw type="graphic"/>
+</div>
+<div>
+<head>Kirkelige Efterretninger.</head>
+<p><hi rend="initial">D</hi>r. Fr. <hi rend="bold">Plum</hi>, som siden 1811 har været Biskop i Fyens Stift, er afgaaet ved Døden den 18 Januar. Saaledes har i et Tids Rum af mindre end fire Aar alle Danske Stifter— med undtagelse af Als og Ærøe—skiftet Biskopper og Ribe Stift endog to Gange!</p>
+<fw type="graphic"/>
+</div>
+<div>
+<p>Onsdagen d. 22 Januar holdt det forenede Danske og Holsteinborgske Missions-Selskab sit første Vintermode efter Foreningen, i Kjøbenhavn. For en meget talrig Forsamling holdt forst Hr. Pastor <hi rend="bold">H. A. Timm</hi> en Bon om Velsignelse for Missions-Foretagendet. Derpaa blev <hi rend="bold">Ringos</hi> Psalme: „Vær trostig Zion, Jesu Brud" sunget og Hr. Pastor Lie. <hi rend="bold">I. L. Holm</hi> holdt Missions Talen, hvori han viste, hvorledes Betragtningen af at Guds Rige var kommen, maa komme og vil komme, opmuntrede til det evangeliske Missionsværk. Efter Talen blev sungen følgende Psalme, forfattet af Hans Høivelbaarenhed <hi rend="bold">Hr. Friderich Adolph v. Holstein</hi>, Greve til Holsteinborg o. s. v. efter Melodic „Lovpriser Herren den stærke den gode, den vise."</p>
+</div>
+</body>
+</text>
+</TEI>

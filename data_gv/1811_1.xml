@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="txt2tei.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Dansk Litteratur-Tidende</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-19"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="001"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1811">1811</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1811_1_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Dansk<lb/>Litteratur-Tidende</titlePart>
+	<titlePart type="sub">for 1811.</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition>No. 4.</docEdition>
+	<docImprint>
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+
+<p><hi rend="spaced">Taler af Hugh Blair, Doctor i Theologien</hi> og Professor i Veltalenheden og de skjønne Videnskaber i Edinburgh. Efter den attende engelske Udgave paa Dansk oversætte og udgivne af A. B. Birch, Translateur og Candidat i Theologien, 1ste Bind. Kjøbenhavn 1810. Trykt hos E. A. H. Møller, Hof og Universitetsbogtrykker (og sælges til Fordeel for dem, som have lidt Tab ved Kbhavns Bombardement) XXXII. og 404 S. 800. 2 Rd. 24 z. Trykp. hos Schubothe.</p>
+<p><hi rend="initial">D</hi>et var en for vor Litteratur som for vore lidende Landsmænd saare heldig Tanke, der bevægede den ei mindre duelige end menneskekjerlige Oversætter til at udgive paa Dansk disse mesterlige Prædikener. Udførelsen af denne Beslutning fortjener dobbelt Tak, da den for Hr. Birch var forbunden med idelig Erindring om hiin Englændernes skjændige Daad; thi, som han beretter i Fortalen, havde 
+<pb facs="1811_1_page0002.png"/>
+<fw type="pageNum">63</fw>
+ikke er fremstillet overeensstemmende med Sandheden; thi man seer den her støde umiddelbar til Søen og omgiven af Træer, da den dog ligger inde i Byen, med sin Kirkegaard paa alle Sider indsluttet af Huse. Det Begreb, Anskuelsen giver, er saaledes ikke ganske rigtigt, og kunde let foranledige topographiske Vildfarelser. Fordelen af Skriftet, som man med Fornøielse seer understøttet ved et betydeligt Antal Subscribentere, har den agtværdige Forf, bestemt til Aarhuus Fattigvæsens Bedste. Saa meget mindre ber man befrygte, at Forf., Tidsomstændighederne uagtet, skulde nødsages at afbryde et Arbeide, hvis Fortsættelse, vist nok med nogen større Sparsomhed og et strængere Valg, Anm. ikke kan andet end ansee for ønskværdig.</p>
+<fw type="graphic"/>
+</div>
+<div>
+<head><hi rend="spaced">Erklæring</hi>.</head>
+<p><hi rend="initial">D</hi>ersom den Dom, der i Litteratur-Tidendens tvende første Nommere er fældet over mine Arbeider i Nordens Mythologi, var grundet, maatte disse vare aldeles forgæves; thi den Bygning, jeg af de adspredte Klippestykker søgte at reise, svævede da i Luften uden Grundvold. Troede jeg, det var saa, vilde jeg ærlig tilstaa det, thi temmelig upartisk kan jeg fra min nærværende Standpunkt stue tilbage paa en Virksomhed, jeg i visse Henseender misbilliger. Imidlertid kan jeg ingenlunde tro, enten at Vøluspa og de andre gamle eddiske 
+<pb facs="1811_1_page0003.png"/>
+<fw type="pageNum">64</fw>
+Gange, skulde være Gudelærens urette Kilder af anden Rang, eller at Grundideen jeg har fremsat, skulde være mit eget Digt.</p>
+<p>En Afhandling som jeg troer uimodsigelig godtgør de eddiske Sanges og isaer Vøluspas høie Ælde, ligget næsten færdig, og, vil Gud, skal jeg baade fuldføre! den og tillige levere adskillige Bidrag til Opklaring af Punkter som i min Fremstilling kunde synes dunkle eller tvivlsomme.</p>
+<p>I Anledning af den Yttring, at Vøluspa gerne kunde være fra det ellevte Aarhundrede; troer jeg det min Pligt allerede nu at gore opmærksom paa Følgende. Vøluspas Forfatter maatte være en stor Digter, alle Hovedskjaldene fra Harald Haarfagers Tid kende vi, og dog kan Ingen af dem have digtet det. Dette kunne vi ikke blot slutte deraf, at det da upaatvivlelig vilde baaret sin Korfatters Navn, Men især deraf, at det er utroligt, ja næsten umuligt, at et Digt som Vøluspa paa den Tid kunde fremkomme. Ligefra Harald Haarfagers Tid bestod Poesien næsten udelukkende i malende Omskrivninger og konstig Versebygning, og selv hvor denne ikke sindes, Hersker dog stedse hin, men Voluspa derimod har al sin Poesis indvortes, den høieste Simpelhed i Bygning og Udtryk. Føier man nu til, at det ikke blot er eet Digt Spørgsmaalet gælder, men en Række af Digte, som bære de tydeligste Spor af Overgangen fra det Simple til det Konstige, synes Svaret ei at kunne være tvivlsomt.</p>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+<p>Redigeret af <hi rend="spaced">Peter Erasmus Muller</hi>, Professor i Theologien ved Kiøbenhavns Universitet. Trykt hos Forlæggeren <hi rend="spaced">Andreas Seidelin</hi>.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Bibelhistorien</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2009-12-18"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="016"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1845">1845</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1845_16_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Bibelhistorien<lb/></titlePart>
+	<titlePart type="sub">behandlad i sånger.<lb/></titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<fw type="graphic"/>
+				<epigraph>
+<p>(Folkskrift.)</p>
+				<fw type="graphic"/>
+<p>(Profark).</p>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition></docEdition>
+				<docImprint>
+				<pubPlace>Lund</pubPlace>.<lb/>tryckt uti Lundbergska Boktryckeriet.<lb/>
+<fw type="graphic"/>
+<docDate>1845</docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<pb facs="1845_16_page0002.png"/>
+<fw type="pageNum"></fw>
+<p><hi rend="initial">D</hi>et är ej obekant i Swerige, att i Danmark wisat sig en djup rörelse i kraft af Guds ords predikan genom Grundtvigs mund. Mindre känner Swenska folket, att denne man, liksom fordom Luther, genom psalmer och <hi rend="spaced">sånger</hi> understoder predikan och talet. Ur hans <hi rend="spaced">Sangeværk till den Danske Kirke</hi> har Utg. fritt öfwersatt några sånger och om de låta sprida sig bland swenska folket, skola flera följa, derwid bitrade af Assar Lindeblad är att påräkna. De torde lämpa sig till <hi rend="spaced">minnets</hi> uppöfwande i folkskolor, jemte det de inpregla <hi rend="spaced">heliga minnen</hi> i barnets sjal.</p>
+<p>I Oct. 1845.</p>
+<p><hi rend="align(right)">P. Wieselgren.</hi></p>
+<fw type="graphic"/>
+<p><hi rend="align(center)">Optrykt i Kjøbenhavn 1888.</hi></p>
+<pb facs="1845_16_page0003.png"/>
+<fw type="pageNum"></fw>
+</div>
+<div>
+<head>1.</head>
+<head>Ingångssång.</head>
+<p><hi rend="align(center)">(Efter Syrach kap. 44.)</hi></p>
+<lg>
+<l>Kom, låt oss prisa de priswärda man,</l>
+<l>Sjunga förfädernas ära.</l>
+<l>Konungars konung de egde till wän.</l>
+<l>Helgona kronor de bära.</l>
+</lg>
+<lg>
+<l>Ringa de ofta ha warit på jord,</l>
+<l>Ofta förföljde och hädde,</l>
+<l>Feltes dem bröd, dock ej feltes Guds ord,</l>
+<l>Nakne, Guds harnesk dem kladde.</l>
+</lg>
+<lg>
+<l>An såsom hjeltar ur hopen de trädt,</l>
+<l>Store som Wise och Fäder,</l>
+<l>„Med skrifpennan” wårda de sanning och rätt</l>
+<l>Och än deras harpa oss gläder.</l>
+</lg>
+<lg>
+<l>Syndare fordom ha funnits också.</l>
+<l>Warnande minnen behöfwas.</l>
+<l>Derfor i Biblen beskrifne de stå,</l>
+<l>Att wi i synd ej må söfwas.</l>
+</lg>
+<lg>
+<l>Må wi der läsa hwi hjertat är ondt,</l>
+<l>Att för oss sjelfwa wi bäfwa;</l>
+<l>Bäfwande fly till det blod oss försont,</l>
+<l>Att wi i Jesu må lefwa.</l>
+</lg>
+</div>
+<div>
+<head>2.</head>
+<head>Kain och Abel.</head>
+<lg>
+<l>Kain plöjde hvarje wår,</l>
+<l>Och på hosten tänkte ;</l>
+<l>Abel ibland sina får</l>
+<l>Trøgen wård dem skänkte.</l>
+</lg> 
+<pb facs="1845_16_page0004.png"/>
+<fw type="pageNum">4</fw>
+<lg>
+<l>Begge tackade hwar höst</l>
+<l>Gud for winterföda.</l>
+<l>Offrade med låfsångs rost</l>
+<l>Hwar sin förstlingsgröda.</l>
+</lg>
+<lg>
+<l>Kain offrar kärfwens gull,</l>
+<l>Stolt uti sitt sinne.</l>
+<l>Abel offrar lamm med ull;</l>
+<l>Tro wisst låg der inne:</l>
+</lg>
+<lg>
+<l>Tro på loftets ord om den</l>
+<l>Qwinnans son, som skulle</l>
+<l>Ormen trampa, Frölsaren</l>
+<l>For de ångerfulle:</l>
+</lg>
+<lg>
+<l>Det <hi rend="spaced">Guds lamm</hi>, som werldens skuld</l>
+<l>På sig lade. — Neder</l>
+<l>Från sin himmel Gud så huld</l>
+<l>Abel ser, som beder.</l>
+</lg>
+<lg>
+<l>Böjd inwid sin altarrund</l>
+<l>Dit han offret bringar.</l>
+<l>Sjunker ångren än till grund,</l>
+<l>Bonen, den har wingar.</l>
+</lg>
+<lg>
+<l>Kain såg sin broders frid</l>
+<l>Och sin ofrid kände.</l>
+<l>Der wardt afund, att derwid</l>
+<l>Hyn sig helt förwände.</l>
+</lg>
+<lg>
+<l>„Kain, Kain! sade Gud,</l>
+<l>Hwi din hy förwandla;</l>
+<l>Ar du from, så mot mitt bud</l>
+<l>Kan du icke handia."</l>
+</lg>
+<lg>
+<l>„Synden ligger utan för</l>
+<l>Färdig att uppspringa;</l>
+<l>Lyd ej tanken, som dig stor,</l>
+<l>Men dess makt betwinga."</l>
+</lg> 
+<pb facs="1845_16_page0005.png"/>
+<fw type="pageNum">5</fw>
+<lg>
+<l>Abel gick bland sina får</l>
+<l>Sent i aftonstunden,</l>
+<l>Kain slog ett banesår,</l>
+<l>Gräfde graf i lunden.</l>
+</lg>
+<lg>
+<l>„Kain, Kain! ljöd ur skyn,</l>
+<l>Hwar är nu din broder ?</l>
+<l>Hwi ar du så blek i hyn?</l>
+<l>Fader flys och moder?”</l>
+</lg>
+<lg>
+<l>Skrymtarn swarar: „Jag ej wet</l>
+<l>Hwart sin hjord han drifwit.</l>
+<l>Honom wårda, blef wäl det</l>
+<l>Mig i uppdrag gifwit?"</l>
+</lg>
+<lg>
+<l>„Lögnare! sad' Herren god,</l>
+<l>Mördare ock worden!</l>
+<l>Hor jag ej din broders blod</l>
+<l>Ropa högt ur jorden?"</l>
+</lg>
+<lg>
+<l>„Nu förbannad plöj din jord</l>
+<l>För att tornen skörda."</l>
+<l>Föll på Kain detta ord</l>
+<l>Som en klipptung börda.</l>
+</lg>
+<lg>
+<l>„Synden större är, än hon</l>
+<l>Kan förlåtas". (Kande</l>
+<l>Lagens straff, men icke tron,</l>
+<l>Ej till Gud sig wönde).</l>
+</lg>
+<lg>
+<l>„Hwart kan jag for Herren fly?</l>
+<l>Allt hans wilja lyder.</l>
+<l>Hwarje dag ör faran ny.</l>
+<l>Allt mig straffet tyder".</l>
+</lg>
+<lg>
+<l>„Frukta ej, sad Herren då</l>
+<l>Blott för straff till lifwet.</l>
+<l>Ingen menska skall dig slå,</l>
+<l>Nådetid jag gifwit".</l>
+</lg> 
+<pb facs="1845_16_page0006.png"/>
+<fw type="pageNum">6</fw>
+<lg>
+<l>Men den spilides. Stadens glans,</l>
+<l>Hwilken Kain bygger,</l>
+<l>Mördartecknet uti hans</l>
+<l>Bröst ej öfwerskygger.</l>
+</lg>
+</div>
+<div>
+<head>3.</head>
+<head>Esau och Jacob,</head>
+<p><hi rend="align(center)">Esau.</hi></p>
+<lg>
+<l>Esau war en skytt så wild,</l>
+<l>Jacob en herde så stilla.</l>
+<l>Bland lammen blir menskan som lammet mild;</l>
+<l>Bland wilddjur uppfostras man illa.</l>
+</lg>
+<lg>
+<l>Förrn födde de wordo, det war Guds ord:</l>
+<l>„Den större skall tjena den mindre.”</l>
+<l>Aldrig, med all wår makt på jord,</l>
+<l><hi rend="spaced">Wi Gud Allsmäktig</hi> forhindre.</l>
+</lg>
+<lg>
+<l>Det ordet, af Siaren sagdt, så Far</l>
+<l>Som Mor wäl kände; Men icke</l>
+<l>Wi finna det nog, att <hi rend="spaced">kunskap</hi> man har,</l>
+<l>Hwarhelst omkring oss vi blicke.</l>
+</lg>
+<lg>
+<l>Isak var en gammal man,</l>
+<l>Satt i tjället: I hågen .</l>
+<l>Glad, när ett willebråd han fann</l>
+<l>Träffadt af pilen från bågen.</l>
+</lg>
+<lg>
+<l>Minnes sjelf sin Ungdomstid.</l>
+<l>Talar derom wid bordet,</l>
+<l>Då han äter gazellens kid,</l>
+<l>Byter med Esau ordet.</l>
+</lg>
+<lg>
+<l>Wisste dock ej, att sin födsels rätt</l>
+<l>Esau sålt sin broder.</l>
+<l>Detta hans wärf och tänkesätt</l>
+<l>Wisste dock begges moder.</l>
+</lg> 
+<pb facs="1845_16_page0007.png"/>
+<fw type="pageNum">7</fw>
+<lg>
+<l>„Esau! sager Isak en dag,</l>
+<l>„Skjut wildt med de snabba pilar“,</l>
+<l>Och bar din Fader. Ett ord har jag,</l>
+<l>Som ännu inom mig hwilar".</l>
+</lg>
+<lg>
+<l>„Jacob! då sade Moder blid,</l>
+<l>Sin Faderswälsignelse delar</l>
+<l>I dag din fader ut. Twå kid</l>
+<l>Du slakte". Han lyder och — felar.</l>
+</lg>
+<lg>
+<l>Ty modren lär, hur med swek han må</l>
+<l>Till don rätt, som Esau sålde,</l>
+<l>Med Faderswälsignelsen rättighet få.</l>
+<l>Hwad nöd honom sedan det wållde!</l>
+</lg>
+<lg>
+<l>Förswagad war smak, förswagad war syn</l>
+<l>Pa Fadren. Nu Jacob träder</l>
+<l>— Ej fadren såg den rodnande hyn —</l>
+<l>Helt djerft in i Esaus kläder.</l>
+</lg>
+<lg>
+<l>Och handskar af kiden modren sytt,</l>
+<l>I hand honom Fadren tager,</l>
+<l>Hor „ <hi rend="spaced">Jacobs röst</hi>” , men tager på nytt.</l>
+<l>Nu „Esauhanden" bedrager;</l>
+</lg>
+<lg>
+<l>Wälsignade nu „den mindre” och fick</l>
+<l>Så Jacob den rätt, som hans broder</l>
+<l>Föraktligt sålde. Från Fadren han gick</l>
+<l>Till otåligt wäntande moder.</l>
+</lg>
+<lg>
+<l>Esau kom från skogens snar,</l>
+<l>Stekte det wildt, han der fällde,</l>
+<l>Späckade det, och på bordet bar,</l>
+<l>Der fram for sin Far han det ställde.</l>
+</lg>
+<lg>
+<l>Märkte snart, att försent han kom,</l>
+<l>Det månde hans sinne qwälja,</l>
+<l>Att ej för ett mos, som smakat hans gom,</l>
+<l>Sin förstfödslorätt få sälja;</l>
+</lg> 
+<pb facs="1845_16_page0008.png"/>
+<fw type="pageNum">8</fw>
+<lg>
+<l>Och tiga dermed och förmå sin Far,</l>
+<l>Att ändå den rätten förläna.</l>
+<l>Hwad Isak talat, det taladt war.</l>
+<l>Den större den mindre skall tjena.</l>
+</lg>
+</div>
+<div>
+<head>Jacob.</head>
+<lg>
+<l>Upp åt berg och ned åt dal,</l>
+<l>Öfwer sten och strömmar,</l>
+<l>Jacob gick. I natten swal</l>
+<l>Sömnen störts af drömmar.</l>
+<l>I den heta middagsstund</l>
+<l>Sitter han i Palmelund,</l>
+<l>Tänker på sin moder.</l>
+</lg>
+<lg>
+<l>Faders hus och Moders famn</l>
+<l>Wisst ej gerna lemnas;</l>
+<l>Men ej blott med hårda namn</l>
+<l>Esau wille hämnas.</l>
+<l>Jacob ångrar icke <hi rend="spaced">sak</hi>—</l>
+<l>Dertill rätt han egde.</l>
+<l><hi rend="spaced">Sättet</hi>, lärdt i Mors gemak,</l>
+<l>Tungt i sinnet wägde.</l>
+</lg>
+<lg>
+<l>Natten kom. På widsträckt hed</l>
+<l>Jacob går allena</l>
+<l>Med sin staf. Ej hydda spred</l>
+<l>Ljus i qwällen sena.</l>
+<l>Söker upp en sten, hwarpå</l>
+<l>Han sitt hufwud hwila må;</l>
+<l>Ber till Gud och somnar.</l>
+</lg>
+<lg>
+<l>Månen sken på berg och flod,</l>
+<l>Alla stjernor blinka.</l>
+<l>Jacob sof nu sömn så god.</l>
+<l>Honom englar winka.</l>
+<l>Sött uti hans öra sang</l>
+<l>Englaharpors ljufwa klang,</l>
+<l>Sjålens ögon öppnas.</l>
+</lg> 
+<pb facs="1845_16_page0009.png"/>
+<fw type="pageNum">9</fw>
+<lg>
+<l>Stege såg han i sin dröm,</l>
+<l>Som till himlen räckte.</l>
+<l>Wisar Gud så herde öm</l>
+<l>Hwad det stolta slägte</l>
+<l>Uti Bahel fåfängt sökt;</l>
+<l>Fast de byggde torn så högt,</l>
+<l>Hann det ej till himlen.</l>
+</lg>
+<lg>
+<l>Gud kan binda detta hand</l>
+<l>Mellan jord och himmel.</l>
+<l>Menskan ej på hafwets strand</l>
+<l>Bygger till Guds himmel.</l>
+<l>Will hon resa tornmur opp</l>
+<l>Blifwer denna byggnads topp</l>
+<l>En (last en förbistring.</l>
+</lg>
+<lg>
+<l>Sag nu Jacob, som wi sagt,</l>
+<l>Stege stå, som räckte</l>
+<l>Upp från jord till stjernetrakt,</l>
+<l>Hwarest Englars slagte</l>
+<l>Stiger upp och stiger ner,</l>
+<l>Och der öfwerst han nu ser</l>
+<l>Alla kungars konung.</l>
+</lg>
+<lg>
+<l><hi rend="spaced">Jag är</hi>, sades med ett ljud</l>
+<l>Som när Orgeln tonar,</l>
+<l><hi rend="spaced">Abrahams och Isaks Gud, Som i himlen thronar</hi>,</l>
+<l>Dina Faders Gud jag ar,</l>
+<l>Skanker dig det land, som har</l>
+<l>Skådats af ditt öga;</l>
+</lg>
+<lg>
+<l>Och din ätt, oräknelig,</l>
+<l>Som hafssanden gifwer,</l>
+<l>Ja, all werlden uti dig</l>
+<l>Wisst wälsignad blifwer.</l>
+<l>(Hwad nu såddes i hans sjal</l>
+<l>Blomstrar upp — wi se det wäl —</l>
+<l>Uti sotsängstalet.)</l>
+</lg> 
+<pb facs="1845_16_page0010.png"/>
+<fw type="pageNum">10</fw>
+<lg>
+<l>Morgonrodnan redan sken,</l>
+<l>Lärkan sjöng der ofwan,</l>
+<l>Jacob reser upp en sten,</l>
+<l>Offrar modersgåfwan,</l>
+<l>Sade: <hi rend="spaced">här är himlens port</hi>!</l>
+<l>For mig Gud till denna ort</l>
+<l>Åter, tempel bygges!</l>
+</lg>
+<lg>
+<l>Sol nu upprann, lärkan slog</l>
+<l>Mildt i morgonrödan.</l>
+<l>Wandringsstafwen Jacob tog,</l>
+<l>Sörjer ej för födan.</l>
+<l>Ho])pfull så i Herrans namn</l>
+<l>Faders hus och moders famn</l>
+<l>Ryggen nu han wände,</l>
+</lg>
+</div>
+<div>
+<head>4.</head>
+<head>Rachel.</head>
+<lg>
+<l>Solen är het,</l>
+<l>Ej molnet gret,</l>
+<l>Men menskorne greto dess mera.</l>
+<l>De sökt i hwar lund</l>
+<l>En kållas rund;</l>
+<l>Men funno blott sprucken lera.</l>
+<l>Men i hjertat har lifwet sin källa.</l>
+</lg>
+<lg>
+<l>Från Jordans strand</l>
+<l>De Syriers land</l>
+<l>Gick Jacob den unge att gästa.</l>
+<l>Skulle ock der,</l>
+<l>Så tanken år,</l>
+<l>En mo till sin käraste fästa,</l>
+<l>Ty i hjertat har lifwet sin källa.</l>
+</lg>
+<lg>
+<l>Herdar han fann,</l>
+<l>Der solen brann,</l>
+<l>Wid Bethuels brunnen sig lägra.</l>
+<l>Men brunnen med sten,</l>
+<l>En wäldig en,</l>
+<l>War tillyckt, att drycken förwägra.</l>
+<l>Men i hjertat har lifwet sin källa.</l>
+</lg> 
+<pb facs="1845_16_page0011.png"/>
+<fw type="pageNum">11</fw>
+<lg>
+<l>Jacob då spör</l>
+<l>Hvem hjorden tillhör:</l>
+<l>Det ar Labans i Haran, de swara,</l>
+<l>Den hjord der går</l>
+<l>Och herdinnan som står</l>
+<l>Bland fåren hans dotter månd' wara.</l>
+<l>Men i hjertat har lifwet sin kalla.</l>
+</lg>
+<lg>
+<l>Fram Rachel kom</l>
+<l>Och såg sig om</l>
+<l>Hwem stenen kunde aflyfta.</l>
+<l>Sprang Jacob nu fram</l>
+<l>Till tjenst för de lamm</l>
+<l>Han vältar så undan en klyfta.</l>
+<l>Ty i hjertat har lifwet sin källa.</l>
+</lg>
+<lg>
+<l>Sitt namn re'n han sagt,</l>
+<l>Sin helsning han bragt,</l>
+<l>Re'n Laban sin moderbroder</l>
+<l>Besökt i dess täll</l>
+<l>I tidig qväll</l>
+<l>Och helsat från fader och moder.</l>
+<l>Ty i hjertat har lifwet sin källa.</l>
+</lg>
+<lg>
+<l>Han lofwade nu</l>
+<l>I åren sju</l>
+<l>För Rachel dess Fader att tjena.</l>
+<l>Så snabbt förflöt</l>
+<l>Den tid. Ej han bröt</l>
+<l>Sitt lofte, will födan förtjena.</l>
+<l>Ty i hjertat har lifwet sin källa.</l>
+</lg>
+</div>
+<div>
+<head>5.</head>
+<head>„Joseph, min son, lefwer".</head>
+<lg>
+<l>„Gud nåde mig stackars gamle man!</l>
+<l>Jag fostrat mig söner full månge;</l>
+<l>Men sitter nu ensam i hedningaland</l>
+<l>Så sorgsen och krökt som en fånge.</l>
+<l>Men lyckan hon wänder sig ofte om",</l>
+</lg> 
+<pb facs="1845_16_page0012.png"/>
+<fw type="pageNum">12</fw>
+<lg>
+<l>Så klagade Jacob med isgrått har</l>
+<l>Ty borta woro hans söner,</l>
+<l>Han räknar nu hundra och tretti o år,</l>
+<l>Otalige woro hans böner.</l>
+<l>Men lyckan wänder sig ofta om.</l>
+</lg>
+<lg>
+<l>„Wår Fader! wår Fader! Guds fred! god dag!“</l>
+<l>Så ljöd i en blink kring den gamla,</l>
+<l>Och knapt för tårar och famnetag</l>
+<l>Han kunde rätt tankarne samla.</l>
+<l>Så lyckan wänder sig ofta om.</l>
+</lg>
+<lg>
+<l>Från elfwa munnar i täflan det ljöd;</l>
+<l>„Wår lycka än blomman ej fällde.</l>
+<l>Wår broder Joseph han är ej död,</l>
+<l>Han thronar i magt och i waide!“</l>
+<l>Så lyckan hon wänder sig ofta om.</l>
+</lg>
+<lg>
+<l>„Den nådige Herre wi talte om.</l>
+<l>Egypternas hjelp uti nöden,</l>
+<l>Det är wår Broder så god och from,</l>
+<l>Wår räddning från hungers nöden".</l>
+<l>Så lyckan wönder sig ofta om.</l>
+</lg>
+<lg>
+<l>„Han sander det budskap till fader sin:</l>
+<l>Kom snarlig att dela min lycka!</l>
+<l>Jag gifwer dig hem. I Gosen du din</l>
+<l>Så lugna bostad får smycka".</l>
+<l>Så lyckan wander sig ofta om.</l>
+</lg>
+<lg>
+<l>Den gamle han stod, som en resesten,</l>
+<l>Owiss hwad tänka han borde;</l>
+<l>Widunderligt war hwad han bort alltre'n,</l>
+<l>Men derpå ej lita han torde.</l>
+<l>Men lyckan hon wänder sig ofta om.</l>
+</lg>
+<lg>
+<l>Nu Pharaos kuskar med skrall på skrall</l>
+<l>Det låga tjället omringa,</l>
+<l>Med kungliga spann de tolka sitt kall</l>
+<l>Om än rösterna främmande klinga.</l>
+<l>Så lyckan hon wänder sig ofta om.</l>
+</lg> 
+<pb facs="1845_16_page0013.png"/>
+<fw type="pageNum">13</fw>
+<lg>
+<l>Den gamle nu måste tro hvad han ser.</l>
+<l>Nu glödde lians kinder de bleka.</l>
+<l>Han tackar, han kysser, han gråter, han ler.</l>
+<l>Han wille som småbarnen leka.</l>
+<l>Så lyckan hon wänder sig ofta om.</l>
+</lg>
+<lg>
+<l>„Min Joseph, han sade, i lifwet än,</l>
+<l>Skall anlet mot anlet jag skåda,</l>
+<l>Och når jag har kysst hans läppar igen,</l>
+<l>Dödsengeln mig gerna må båda.“</l>
+<l>Så lyckan hon wänder sig ofta om.</l>
+</lg>
+<lg>
+<l>Nu Israel offrar till Isaks Gud</l>
+<l>Och ett ord honom sägs från det höga:</l>
+<l>War tröst, jag wårdar din ätt. Mitt bud</l>
+<l>Haf blott i hjerta, för öga!</l>
+<l>Så lyckan, hon wänder sig ofta om.</l>
+</lg>
+<lg>
+<l>Hwad glädje der blef i Egypti land,</l>
+<l>Ja hvad glädje bland englars skara,</l>
+<l>Det kan ej beskrifwas af menniskohand</l>
+<l>Men hjertan, som älska, bewara.</l>
+<l>Så lyekan, hon wänder sig ofta om.</l>
+</lg>
+</div>
+<div>
+<head>6.</head>
+<head>Sinai.</head>
+<p><hi rend="align(center)">Enligt förklaringar från Sion.</hi></p>
+<lg>
+<l>Gud nedsteg från himmelska thronen</l>
+<l>Och talte från Sinai berg.</l>
+<l>Hans röst war som himmelens thordon</l>
+<l>Hans dragt hade ljungeldens färg.</l>
+</lg>
+<lg>
+<l>Der nedan stod folket och lyddes</l>
+<l>Med andakt och bäfwan i bröst.</l>
+<l>Sjelft berget blef skakadt i grunden;</l>
+<l>Så ljöd den Allsmäktiges röst;</l>
+</lg> 
+<pb facs="1845_16_page0014.png"/>
+<fw type="pageNum">14</fw>
+<lg>
+<l>„<hi rend="spaced">Jag Jehowah jag, som dig förde</hi></l>
+<l><hi rend="spaced">Ur träldomens hus, år din Gud</hi> —</l>
+<l><hi rend="spaced">Den ende — ej Gudar du dyrke</hi>;</l>
+<l><hi rend="spaced">Osynlig — hor derför mitt bud</hi>!“</l>
+</lg>
+<lg>
+<l>„<hi rend="spaced">Ej gör dig beläten. Min afbild</hi></l>
+<l><hi rend="spaced">Ej finnes i sky, ej på jord</hi>,</l>
+<l><hi rend="spaced">Ej i djupet</hi>. Jag ensam kan sända</l>
+<l>Dig den i <hi rend="spaced">det lefwande Ord</hi>.“</l>
+</lg>
+<lg>
+<l>„Och formar din hand än gestalter,</l>
+<l><hi rend="spaced">Tillbed ej och tjena ej dem</hi>.</l>
+<l>Mins, att Hämnaren bor i det höga</l>
+<l>Och Du har i stoftet ditt hem.“</l>
+</lg>
+<lg>
+<l>„<hi rend="spaced">Jag Fädrens missgerningar straffar</hi></l>
+<l><hi rend="spaced">På ätter, som hata sin Gud</hi>,</l>
+<l><hi rend="spaced">Till leden, den tredje och fjerde</hi>,</l>
+<l><hi rend="spaced">Men håller ett slägte mitt bud</hi>,“</l>
+</lg>
+<lg>
+<l><hi rend="spaced">Till tusende leder wälsignar</hi></l>
+<l><hi rend="spaced">Jag dem, som mig älska, och gör</hi></l>
+<l><hi rend="spaced">Barmhertighed</hi>. " Sonen dem sander,</l>
+<l>Med den helige Ande dem ror.</l>
+</lg>
+<lg>
+<l>„<hi rend="spaced">Du skall ej missbruka din Herres</hi>,</l>
+<l><hi rend="spaced">Din Guds högtlofwade namn</hi>,</l>
+<l><hi rend="spaced">Den Guds namn, det helga, missbrukar</hi>,</l>
+<l><hi rend="spaced">Har straffet i häl och i hamn</hi>."</l>
+</lg>
+<lg>
+<l>Att nämna i bon och i lärdom,</l>
+<l>Din Gud, det är bruk, men det är</l>
+<l>Ett <hi rend="spaced">missbruk</hi>, när Ordet blir <hi rend="spaced">ordspråk</hi>,</l>
+<l>När wid Gud eller djefwul du svar.</l>
+</lg>
+<lg>
+<l>Att med Frälsarens blod och forsoning</l>
+<l>Åt krossade hjertan ge tröst,</l>
+<l>Det är bruk, men <hi rend="spaced">missbruk</hi>, när dermed</l>
+<l>Ges stod at förhärdade bröst.</l>
+</lg> 
+<pb facs="1845_16_page0015.png"/>
+<fw type="pageNum">15</fw>
+<lg>
+<l>„<hi rend="spaced">Tank på att du helgar Sabbathen</hi>,</l>
+<l>Och lär så din dotter och son,</l>
+<l>Ja alla." Ty whist af arbete</l>
+<l>Den dagen från mig år ett rån.</l>
+</lg>
+<lg>
+<l>„<hi rend="spaced">Du hedre din fader och moder</hi>."</l>
+<l>Ej finnes ett starkare band,</l>
+<l>Än det mellan fädren och barnen,</l>
+<l>Att hålla tilsamman ett land.</l>
+</lg>
+<lg>
+<l><hi rend="spaced">„Drap icke“ med handen</hi> — det blodet</l>
+<l>Likt Abels nedkallar Guds hämd;</l>
+<l>Ej med tungan; För mordarn med orden</l>
+<l>Är helvetes eld ock bestämd.</l>
+</lg>
+<lg>
+<l>Dråp ej heller med <hi rend="spaced">hatet i hjertat</hi>,</l>
+<l>Mandräpare hatarn ock är</l>
+<l>Om du wredgas, bed Gud att han släcker</l>
+<l>Den elden, förrn solen går ner.</l>
+</lg>
+<lg>
+<l>„<hi rend="spaced">Du hor ej skall göra</hi>“, ej lemmar</l>
+<l>Som Christo tillhöra må bli</l>
+<l>Til skökolemmar förwända;</l>
+<l>Haf själen från otukt ock fri.</l>
+</lg>
+<lg>
+<l>Ej blicken, ej ordet du bruke,</l>
+<l>Att tända ett orent begär.</l>
+<l>Du fordomer den kroppslifwet dräper,</l>
+<l>Själsmordare horkarlen år.</l>
+</lg>
+<lg>
+<l>„<hi rend="spaced">Du skall icke stjäla</hi>“. Ej ensamt</l>
+<l>Från inbrott du hålle din hand.</l>
+<l>War ärlig ännu i det minsta.</l>
+<l>Ur ögat du tage hwart grand.</l>
+</lg>
+<lg>
+<l>Den icke arbetar, han stjäler</l>
+<l>Den mat, som han äter — från Gud,</l>
+<l>Om ock ej från menskor. „Den late</l>
+<l>Ej äte“: så lyder mitt bud.</l>
+</lg> 
+<pb facs="1845_16_page0016.png"/>
+<fw type="pageNum">16</fw>
+<lg>
+<l>„<hi rend="spaced">Falskt wittnesbörd må du ej bära</hi>"</l>
+<l>Mot nästan: blott sanningen säg,</l>
+<l>När tala är pligt och ej tiga.</l>
+<l>Menedarn går afgrundens wäg.</l>
+</lg>
+<lg>
+<l>Af ljuset ej mörker du göre,</l>
+<l>Ej mörker af ljuset. War sann.</l>
+<l>Ej <hi rend="spaced">kärlek af Gudi</hi> bedrager.</l>
+<l>Med lögn I ej älsken hwarann.</l>
+</lg>
+<lg>
+<l>„<hi rend="spaced">Ej lust</hi> i ditt hjerta du hafwe —</l>
+<l><hi rend="spaced">Till hus</hi>, som <hi rend="spaced">ärnastans</hi>. Begär</l>
+<l>Ej hys i ditt bröst till hans maka,</l>
+<l>Hans husfolk och hwad det än är“.</l>
+</lg>
+<lg>
+<l>Ty wet, att den lust som du närer,</l>
+<l><hi rend="spaced">Begären</hi>, du hyser, i sig</l>
+<l>Ha rot till all synd. De fördöma.</l>
+<l>Dem Christus besegre i dig!</l>
+</lg>
+<fw type="graphic"/>
+<lg>
+<l>Guds rost var lik himmelens åska,</l>
+<l>Som bryter ur molnenas krets,</l>
+<l>Lik klangfull basun. Under jordskalf</l>
+<l>I flammor stod Sinai spets.</l>
+</lg>
+<lg>
+<l>Då darrade folket som löfwet</l>
+<l>Och flydde med ångestfullt skri.</l>
+<l>„Ej Gud til oss tale ur molnen!"</l>
+<l>Den bonen låg mycket uti.</l>
+</lg>
+<lg>
+<l>Se'n talte Han ock genom Sonen,</l>
+<l>Wår Frälsare Jesus det war.</l>
+<l>Med <hi rend="spaced">thordönets stämma</hi> gafs lagen,</l>
+<l>Evangelium en <hi rend="spaced">broder</hi> oss bar.</l>
+</lg>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

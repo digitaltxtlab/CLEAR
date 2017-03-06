@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title></title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2009-10-06"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="010"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1808">1808</date>
+			</publicationStmt>
+			 <sourceDesc>
+			  <p>[Source decription]</p>
+			 </sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1808_10_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main"></titlePart>
+</docTitle>
+</titlePage>
+</front>
+<body>
+<div>
+<pb facs="p1808_10_page0001.png"/>
+<p>Selv det vittigste Epigram beviser Intet, uden Forfatterens Vittighed, men har Han Ærefølelse, da er Han stedse rede til at bevise dets Sand- hed   Om Dumhed har Lov til at være feig, for-
+<pb facs="1808_10_page0002.png"/>
+<fw type="pageNum">1573-1574</fw>
+di Naturen naglede den Krafts ved jeg just ikke, men at ingen anden Undskyldning kan gives for de anonyme Rimere i Skilderiet, det veed jeg.</p>
+<p>Imidlertid haaber jeg De ei ville fortryde paa, at jeg, saalænge til De selv navne sig, giver dem Navn efter deres id, og kalder dem skum- lende Uslinge.</p>
+<p>Dette var det eneste Svar de fortjente men kan det fornøie dem, kan jeg jo sagtens svare.</p>
+</div>
+<div>
+<head>Til No. I.</head>
+<lg>
+<l>Ikke jeg  nægter det var en Skygge jeg kæmpede mod;</l>
+<l>Men kun en slet Kompliment gør Du Din Ven som Forfatter.</l>
+<l>Dog, Du Værre endnu mod ham, mod mig er Du     god:</l>
+<l>Briksen Du gav mig hvormed skal Stakkelen nu vække Latter?</l>
+</lg>
+</div>
+<div>
+<head>No. 2.</head>
+<p>Denne Herre  søger meget  naivt at befæste Treen paa der Komiske hos Harlekins Slægt, ved at - sammenlappe Ord og Trykfeil af mit Maskeradebal</p>
+<lg>
+<l>Engellands Niding, lod grave i Jord</l>
+<l><hi rend="align(center)">De Qvinder fra Nord,</hi></l>
+<l><hi rend="align(center)">Og Hundene sled deres Hjerte.</hi></l>
+<l>Harmer det Dig,   saa lyd mit Raad:</l>
+<l>Afsky hver Nidingedaad</l>
+</lg>
+<lg>
+<l>Ikke Du  lider en Bautasten</l>
+<l><hi rend="align(center)">Af Nidingeben</hi></l>
+<l>Paa Dannemarks Grav, naar Dannemark faldt.</l>
+<l><hi rend="align(center)">Gyser Du ved</hi></l>
+<l>At ei Dine Ben skulde hvile i Fred?</l>
+<l><hi rend="align(center)">Hør da mit Raad:</hi></l>
+<l><hi rend="align(center)">Vogt Dig for Nidingedaad!</hi></l>
+</lg>
+<lg>
+<l>Du Snakker om Syner  om Nord</l>
+<l>Og ved at det riimer paa:   fior.</l>
+<l><hi rend="align(center)">Hvis  i Det var trængt Dine Blikke,</hi></l>
+<l><hi rend="align(center)">Du om det vist snakkede ikke.</hi></l>
+<l><hi rend="align(center)">Kunde Du se</hi></l>
+<l>Dannemarks Gravhøi, og le,</l>
+<l><hi rend="align(center)">Mærk da mit Ord:</hi></l>
+<l>Var Du hin argeste Niding paa Jord</l>
+</lg>
+<lg>
+<l>Om jeg Arlichinos Forfatter</l>
+<l><hi rend="align(center)">Misundte den Latter,.</hi></l>
+<l>Han vakte, det viste jeg jo,</l>
+<l><hi rend="align(center)">Da selv jeg lo.</hi></l>
+</lg>
+<p>Nik. Fred. Sev. Grundtvig.</p>
+</div>
+</body>
+</text>
+</TEI>

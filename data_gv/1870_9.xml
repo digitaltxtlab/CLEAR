@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Menneske-Livet</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-26"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="009"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1870">1870</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1870_9_page0001.png"/>
+			<fw type="pageNum">105</fw>
+				<docTitle>
+	<titlePart type="main"><lb/></titlePart>
+	<titlePart type="sub"><lb/></titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<docImprint>
+				<pubPlace></pubPlace>.
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Menneske-Livet</head>
+<head>(1861).</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">M</hi>enneske-Livet er underligt,</l>
+<l>Langt mer end vi kan beskrive;</l>
+<l>Dog lysner det op fra Slægt til Slægt,</l>
+<l>Hvor Mennesket holdes ilive.</l>
+</lg>
+<lg>
+<l>Mennesket er hverken Fisk eller Fugl,</l>
+<l>Kan dog baade svømme og sjunge,</l>
+<l>Han staaer som en Gud i Dyrekreds</l>
+<l>Med Ordet som Lyn paa sin Tunge.</l>
+</lg>
+<lg>
+<l>Fuglene alle med Næb og Kløer,</l>
+<l>Om de lagde Hoveder sammen,</l>
+<l>De hitted dog ei paa det mindste Ord,</l>
+<l>Som hører til Menneske-Stammen.</l>
+</lg>
+<lg>
+<l>Underligst og af Alt paa Jord</l>
+<l>Er Menneske-Røsten i Ørken,</l>
+<l>Med Ord om, hvad intet Øie saae,</l>
+<l>Men hvad dog har Magten og Styrken.</l>
+</lg> 
+<pb facs="1870_9_page0002.png"/>
+<fw type="pageNum">106</fw>
+<lg>
+<l><hi rend="spaced">Menneske-Aanden</hi>, det er et Ord,</l>
+<l>Som Ingen af os kan udgrunde;</l>
+<l>Menneske-Livet dog er dens Værk,</l>
+<l>Med Ordet i Menneske-Munde.</l>
+</lg>
+<lg>
+<l>Menneske-Aanden, det er en Kraft,</l>
+<l>Som kan ikke selv sig forklare;</l>
+<l>Men hvor den findes, i Raad og Daad</l>
+<l>Kan Kraften sig klart aabenbare.</l>
+</lg>
+<lg>
+<l>Sjæle og Kroppe i Tusindtal</l>
+<l>Kan Menneske-Aanden forbinde,</l>
+<l>Dem gjennemtrænge med Ord som Lyn,</l>
+<l>Saa alle de Et faaer isinde.</l>
+</lg>
+<lg>
+<l>Sjæle og Kroppe med Folkemund,</l>
+<l>Som trodse med Ordet mod Aanden,</l>
+<l>De glemme dem selv som Menneske-Børn</l>
+<l>Og blive til Dyr efterhaanden.</l>
+</lg>
+<lg>
+<l>Fugle og Fiske og vilde Dyr</l>
+<l>Da fødes i Menneske-Hammen;</l>
+<l>Og Stene maae græde, naar Folk som Fæ</l>
+<l>Da vil lægge Hoveder sammen.</l>
+</lg>
+<lg>
+<l>Menneske-Livet er underligt</l>
+<l>For Menneske selv som for Myre;</l>
+<l>Men Dyre-Livet i Menneske-Ham,</l>
+<l>Det er et forhexet Uhyre.</l>
+</lg> 
+<pb facs="1870_9_page0003.png"/>
+<fw type="pageNum">107</fw>
+<lg>
+<l>Mennesket er i Guds Billede skabt,</l>
+<l>Med Ordet i Kraft paa sin Tunge,</l>
+<l>Og derfor han kan mellem Træer og Dyr</l>
+<l>Med Guderne tale og sjunge.</l>
+</lg>
+<lg>
+<l>Menneske-Børn i den grønne Lund,</l>
+<l>Hvor Fugle i Bøgene sjunge!</l>
+<l>I skjønne derpaa: det er Guderne ligt</l>
+<l>At tale med Menneske-Tunge!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

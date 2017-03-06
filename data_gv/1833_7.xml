@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Ved POVEL GLAHNS og MARIE BLICHERS Sölv-Bryllup</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-20"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="007"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1833">1833</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1833_7_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Ved<lb/>POVEL GLAHNS</titlePart>
+</docTitle>
+<byline>og<lb/>
+	<docAuthor>MARIE BLICHERS</docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<docImprint>
+				<pubPlace></pubPlace>
+<fw type="graphic"/>
+<docDate>d. 15de Mai 1833.</docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<pb facs="1833_7_page0002.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l><hi rend="initial">S</hi>kal Sangen tone Festen værd,</l>
+<l>Fra <hi rend="italic">Olstrup-Tidens </hi>Skjalde-Tunge,</l>
+<l>Sölv-Bryllupet maa holdes her,</l>
+<l>Hvor midt i Maien Fugle sjunge,</l>
+<l>Hvor Borgen med det höie Tag</l>
+<l>Kun skimtes mellem Böge-Blade,</l>
+<l>Men hulde Smil i Venne-Lag</l>
+<l>Giör öiensynlig Alle glade!</l>
+</lg>
+<lg>
+<l>Det mindes end fuldmangen Giæst,</l>
+<l>Fra lyse, lune Sommer-Dage,</l>
+<l>Det veed kanskee de Unge bedst,</l>
+<l>Som vanskelig vel finde Mage</l>
+<l>Til Stuerne, hvor de var smaa,</l>
+<l>Til Glæderne, som de fandt store,</l>
+<l>Til Borgen mellem Söer blaa,</l>
+<l>Med Bölge-Hegn og Blomster-Flore!</l>
+</lg> 
+<pb facs="1833_7_page0003.png"/>
+<fw type="pageNum">000</fw>
+<lg>
+<l>Men leved <hi rend="italic">De </hi>end hundred Aar,</l>
+<l>Og glemde hvad de vilde sige,</l>
+<l><hi rend="italic">Som </hi>gjæstede den Præste-Gaard,</l>
+<l>Da <hi rend="italic"><hi rend="spaced">Jette</hi> </hi>var en lille Pige,</l>
+<l>Og hörde til det Venne-Lag,</l>
+<l>Som Drotter maatte snart misunde,</l>
+<l><hi rend="italic">De </hi>föle dybt paa denne Dag,</l>
+<l>Hvad aldrig dog de glemme kunde!</l>
+</lg>
+<lg>
+<l>Gid da en Hverdags-Ting det var,</l>
+<l>For Præste-Mænd at sammenvie</l>
+<l>Saa elskeligt et Brude-Par,</l>
+<l>Som <hi rend="italic"><hi rend="spaced">Povel Glahn</hi> </hi>og hans <hi rend="italic"><hi rend="spaced">Marie</hi>!</hi></l>
+<l>Trods Mangel da paa Sölv og Guld,</l>
+<l>Som Kiærligheden overstrider,</l>
+<l>Med kionne, ædle Börne-Kuld,</l>
+<l>Fik gamle <hi rend="italic">Danmark </hi>gyldne Tider!</l>
+</lg>
+<lg>
+<l>Men er det sjeldent, selv i Nord,</l>
+<l>At see et Par som disse Kiære,</l>
+<l>Da lad det kiendes over Bord,</l>
+<l>Desmeer blandt os det gjor dem Ære:</l>
+<l>Med Tak for mangen Time skiön,</l>
+<l>I Deres Kreds vi Skaalen tömme,</l>
+<l>Og onske dem den söde Lön,</l>
+<l>At lige Börn dem bedst berömme!</l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

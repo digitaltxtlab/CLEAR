@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--<?xml-stylesheet type="text/xsl" href="txtXSLT.xsl"?>-->
+<!--<?xml-model href="txtRNC.rnc" type="application/relax-ng-compact-syntax"?>-->
+<?xml-stylesheet type="text/xsl" href="file:/V:/Centre/Grundtvig%20Centeret%20-%20The%20Grundtvig%20Study%20Center/Grundtvig%20Centeret,%20Vartov/xml/xslt/txtXSLT.xsl"?>
+<?xml-model href="file:/V:/Centre/Grundtvig%20Centeret%20-%20The%20Grundtvig%20Study%20Center/Grundtvig%20Centeret,%20Vartov/xml/rnc/txtRNC.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns:TEI="http://www.tei-c.org/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da"  xml:space="preserve">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title rend="part">Villemoes</title>
+            <title rend="shortForm">Villemoes</title>
+            <author>Nicolai Frederik Severin Grundtvig</author>
+            <editor role="editionPhilologist">Vibeke A. Pedersen</editor>
+            <editor role="editionPhilologist">Holger Berg</editor>
+            <editor role="student">Frederik Dreiøe Seidelin</editor>
+            <editor role="student">Maria Wiggers Pedersen</editor>
+            <editor role="student">Anna Poulsen</editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>Version 1.3</edition>
+         </editionStmt>
+         <extent>[filstørrelse]</extent>
+         <noteStmt>
+            <note target="1808_80_txt.xml" type="txt">L&#x00E6;setekst</note>
+            <note xml:id="thisFile" target="1808_80_com.xml" type="com">Punktkommentar</note>
+            <note target="1808_80_intro.xml" type="intro">Indledning</note>
+            <note target="1808_80_txr.xml" type="txr">Tekstredegørelse</note>
+            <note type="noVar">Variant</note>
+         </noteStmt>
+         <publicationStmt>
+            <publisher>Faculty of Arts, Aarhus University</publisher>
+            <distributor>Grundtvig Centeret, Vartov, København</distributor>
+            <idno type="filnavn">80</idno>
+            <date type="dato">www.grundtvigsv&#x00E6;rker.dk, version 1.3, <!--15. december -->2013</date>
+         </publicationStmt>
+         <seriesStmt>
+            <title>[titel]</title>
+            <idno>[udgivelse dato]</idno>
+            <respStmt>
+               <name>[udgiver]</name>
+               <resp>[evt.]</resp>
+            </respStmt>
+         </seriesStmt>
+         <sourceDesc>
+            <bibl>
+               <title type="main/part">[titel]</title>
+               <author>[forfatter] <note>[evt.]</note>
+               </author>
+               <pubPlace>[sted]</pubPlace>
+               <publisher>[trykker] <note>[evt.]</note>
+               </publisher>
+               <date>[år]</date>
+            </bibl>
+            <listWit xml:id="emendation">
+               <witness rend="sigel">[tekstkilde]</witness>
+            </listWit>
+            <listWit xml:id="pageNumber">
+               <witness rend="PS"><hi rend="italic">Poetiske Skrifter</hi> 1</witness>
+               <witness rend="US"><hi rend="italic">Udvalgte Skrifter</hi> 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Grundtvig Centeret er oprettet den 1. januar 2009.</p>
+            <p>Grundtvig Centeret arbejder med:</p>
+            <p>1. En digital og kommenteret udgave af Grundtvigs v&#x00E6;rker</p>
+            <p>2. En forskningsindsats på de felter, hvor Grundtvig s&#x00E6;rligt markerede sig</p>
+            <p>2.a. Teologi og kirke</p>
+            <p>2.b. Demokrati og folkelighed</p>
+            <p>2.c. P&#x00E6;dagogik og folkeoplysning</p>
+            <p>3. Videnudveksling, undervisning og formidling</p>
+         </projectDesc>
+         <editorialDecl xml:id="comGuideLines.xml" n="1.0">Retningslinjer for punktkommentarer til Grundtvigs V&#x00E6;rker</editorialDecl>
+         <editorialDecl xml:id="introGuideLines.xml" n="1.0">Retningslinjer for indledninger til Grundtvigs V&#x00E6;rker</editorialDecl>
+         <editorialDecl xml:id="msGuideLines.xml" n="1.0">Retningslinjer for transskribering af manuskripter til Grundtvigs V&#x00E6;rker</editorialDecl>
+         <editorialDecl xml:id="refGuideLines.xml" n="1.0">Retningslinjer for litteraturhenvisninger til Grundtvigs V&#x00E6;rker</editorialDecl>
+         <editorialDecl xml:id="typoGuideLines.xml" n="1.0">Retningslinjer for gengivelse af typografiske hierarkier i Grundtvigs V&#x00E6;rker</editorialDecl>
+         <editorialDecl xml:id="txrGuideLines.xml" n="1.0">Retningslinjer for tekstredegørelser til Grundtvigs V&#x00E6;rker</editorialDecl>
+         <editorialDecl xml:id="txtGuideLines.xml" n="1.0">Tekstkritiske retningslinjer for Grundtvigs V&#x00E6;rker</editorialDecl>
+         <editorialDecl xml:id="xmlGuideLines.xml" n="1.0">Retningslinjer for XML-m&#x00E6;rkning af Grundtvigs V&#x00E6;rker</editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change xml:id="KSR" who="KSR" when="2012-05-14">txt2tei</change>
+         <change xml:id="AP" who="AP" when="2013-02-08">foretaget 1. kollation efter ex A</change>
+         <change xml:id="MWP" who="MWP" when="2013-03-11">foretaget 2. kollation efter ex A, indsat fodnoter, indsat sidetal, opmærket myth, place og pers, indsat unicodes</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <front>
+            <titlePage>
+               <pb type="text" facs="1808_80_fax999.jpg" ed="A" n=""/>
+               <docTitle>
+                  <titlePart type="main"/>
+               </docTitle>
+            </titlePage>
+         </front>
+         <div>
+            <pb type="text" facs="1808_80_fax999.jpg" ed="A" n="349"/>
+            <!--<p rend="firstIndent">var; saalænge paa Lollands og Langelands Vred de Hytter stande, hvor hans Komme var en Høitid, og hvor jeg selv, røre til Giclen, saae den uforsiilte Taare rinde ved hans Heltedød; saalænge i det rin- gcjie lever hans Minde herligere end deres, som Kon-siens Haand prægede dybt i d:t skinnende Marmor.</p>--><!-- MWP: skal dette fjernes? -->
+            <fw type="shortLine"/>
+         </div>
+         <div>
+            <head>
+               <hi rend="spaced"><persName key="pe99">Villemoes</persName>.</hi>
+            </head>
+            <lg n="1">
+               <l>
+                  <hi rend="initial">V</hi>ed Midnat jeg sad i min enlige Vraa,</l>
+               <l>Og Nutiden veeg fra mit sorgfulde &#x00D8;ie.</l>
+               <l>Ved Stiernernes Glimt paa det hv&#x00E6;lvede Blaa</l>
+               <l>Da Oldtiden steg fra de F&#x00E6;dreneh&#x00F8;ie.</l>
+               <l>Jeg holdt mig saa fast ved dens kraftige Arm,</l>
+               <l>Jeg slynged&#x0027; mig t&#x00E6;t til dens br&#x00E6;ndende Barm,</l>
+               <l>Og pludselig standsed&#x0027; den rindende Taare.</l>
+            </lg>
+            <lg n="1">
+               <l>Med inderlig Tillid til <rs key="myth106" type="myth">Asernes</rs> Magt</l>
+               <l>Jeg bad, at jeg <rs key="myth101" type="myth"><rs type="myth" key="myth59.m">H&#x00E6;rfaders</rs> Sal</rs> maatte skue,</l>
+               <l>Og aaben stod Valhal i herlige Pragt,</l>
+               <l>Bestraalet af Rinmalmens<note type="footnote">Rinmalm er et af Guldets gamle Navne i <placeName key="fak9999">Nord</placeName><!-- Tvivl om, hvilket nummer, det skal opmærkes som -->.</note> skinnende Lue;</l>
+               <l>Som naglet til Jord var min ski&#x00E6;lvende Fod,</l>
+               <l>Beruset, henrykket i Salen jeg<!-- AP: meget sværte på g --> sto<!-- AP: meget sværte på o -->d,</l>
+               <l>Og f&#x00E6;sted&#x0027; mit Blik paa de salige Helte.</l>
+            </lg>
+            <pb type="text" facs="1808_80_fax999.jpg" ed="A" n="350"/><!-- MWP: er dette stadig den rette måde at skrive sidetal på? -->
+            <lg n="1">
+               <l>Dog -<!-- MWP: skal dette være en lang bindestreg? --> ikke for St&#x00F8;v er <rs key="myth110" type="myth">Einheriers</rs> Fryd,</l>
+               <l>Til bittreste Sorg blev min sv&#x00E6;rmende Gl&#x00E6;de.</l>
+               <l>Det gialded. Jeg h&#x00F8;rte en tordnende Lyd</l>
+               <l>Fra <rs type="myth" key="myth59">Odins</rs> det fierne, oph&#x00F8;iede S&#x00E6;de.</l>
+            </lg>
+            <fw type="shortLine"/>
+            <lg n="1">
+               <l rend="right"><rs key="myth59" type="myth">Odin</rs> b&#x00F8;d:</l>
+               <l rend="right">(H&#x00F8;it det l&#x00F8;d)</l>
+               <l>&#x201C;<rs type="myth" key="myth273">G&#x00F8;ndul</rs>!<note type="footnote">En af <rs key="myth117" type="myth">Valkyrierne</rs>.</note> sp&#x00E6;nd dit Sv&#x00E6;rd ved Belte!</l>
+               <l rend="right">Led fra Val</l>
+               <l rend="right">Til min Sal</l>
+               <l>En af <placeName key="fak24">Nordens</placeName> di&#x00E6;rve Helte!&#x201D;</l>
+               <l rend="right">H&#x00F8;it da klang</l>
+               <l rend="right"><rs key="myth59" type="myth">G&#x00F8;nduls</rs> Sang:</l>
+               <l>&#x201C;Hid fra <placeName key="fik411">Nordhavs</placeName> r&#x00F8;de B&#x00F8;lge</l>
+               <l rend="right">Ungersvend,</l>
+               <l rend="right">Kampens Ven,</l>
+               <l>Brat skal <rs key="myth117.a" type="myth">Herjans</rs> <rs type="myth" key="myth112">Norne</rs><note type="footnote"><rs key="myth117" type="myth">Valkyrierne</rs> kaldtes <rs type="myth" key="myth59.k">Herians</rs>, det er <rs key="myth59" type="myth">Odins</rs><!-- AP: meget sværte på s--> <rs type="myth" key="myth112">Norner</rs>, fordi de udf&#x00F8;rte hans Villie, ligesom <rs type="myth" key="myth9999"><rs key="myth103" type="myth">Ygdrasils</rs> M&#x00F8;er</rs> udf&#x00F8;rte <rs key="myth1" type="myth">Alfaders</rs>.</note> f&#x00F8;lge!&#x201D;</l>
+            </lg>
+            <fw type="shortLine"/>
+            <lg n="1">
+               <l>Et Hynde var bredt mellem <persName key="pe454">Norby</persName> og <persName key="pe1078">Skram</persName>,</l>
+               <l>Paa Hiertet da faldt det saa tungt: det er ham,</l>
+               <l>Som <placeName key="fak414">Kongedyb</placeName> vied&#x0027; til B&#x00F8;lgernes Herre.</l>
+            </lg>
+            <pb type="text" facs="1808_80_fax999.jpg" ed="A" n="351"/>
+            <lg n="1">
+               <l>Som natlige Sp&#x00F8;gelse Nutiden steg</l>
+               <l>End <!-- AP: n er utydelig --> sortere kl&#x00E6;dt, for mit sorgfulde &#x00D8;ie.</l>
+               <l>Den kraftige Oldtid for Svagheden veeg,</l>
+               <l>Og skiulte sig atter i F&#x00E6;dreneh&#x00F8;ie.</l>
+               <l>Jeg s&#x00F8;rged&#x0027; ved Nat og jeg s&#x00F8;rged&#x0027; ved Dag,</l>
+               <l>Opfyldt var mit &#x00D8;re af Vaabnenes Brag,</l>
+               <l>Jeg stirred saa vildt mod den nordlige B&#x00F8;lge.</l>
+            </lg>
+            <lg n="1">
+               <l>De Tidender fl&#x00F8;i over S&#x00F8;, over Land,</l>
+               <l>At hisset i <placeName key="fak9999">Nord</placeName><!-- Tvivl om, hvilket nummer, det skal opmærkes som --> vare B&#x00F8;lgerne r&#x00F8;de,</l>
+               <l>At Kristian ki&#x00E6;mped og segned som Mand,</l>
+               <l>Men <persName key="pe99">Villemoes</persName> faldt i det natlige M&#x00F8;de,</l>
+               <l>Da runde de Taarer saa stride i L&#x00F8;n</l>
+               <l>For <placeName key="poet219">Dannemarks</placeName> bolde, elskv&#x00E6;rdige S&#x00F8;n;</l>
+               <l>O <placeName key="fak9999">F&#x00E6;drenenord</placeName>! du mig Svage tilgive!</l>
+            </lg>
+            <lg n="1">
+               <l>O <persName key="pe99">Villemoes</persName>! S&#x00F8;n af den herlige Old,</l>
+               <l>Som kun i et Speil at beskue jeg m&#x00E6;gter!</l>
+               <l>Med glimrende Stave skal <rs key="myth64" type="myth">Saga</rs> paa Skiold</l>
+               <l>Nedsende dit Navn til de sildige Sl&#x00E6;gter;</l>
+               <l>Men l&#x00E6;nge skal Taaren nedrinde i L&#x00F8;n</l>
+               <l>For <placeName key="poet219">Dannemarks</placeName> bolde, elskv&#x00E6;rdige S&#x00F8;n.</l>
+               <l>Din Gravh&#x00F8;i skal blaane af t&#x00E6;tte Ki&#x00E6;rminder.</l>
+            </lg>
+            <lg n="1">
+               <l>Thi du var en S&#x00F8;n af den herlige Old,</l>
+               <l>Som blindede Nutid ei m&#x00E6;gter at skue.</l>
+               <l>Naar Sv&#x00E6;rdene l&#x00F8;d p<!--læderet type -->aa  det buklede Skiold,</l>
+               <l>Da blussed dit Mod, som fort&#x00E6;rende Lue;</l>
+               <l><pb type="text" facs="1808_80_fax999.jpg" ed="A" n="352"/>Og naar du hiemvendte fra Fare og Strid,</l>
+               <l>Da skued du M&#x00F8;en saa ki&#x00E6;rlig, saa blid;</l>
+               <l>Men stundede dog efter Heltenes Leie.</l>
+            </lg>
+            <lg n="1">
+               <l>De Qvinder og M&#x00E6;nd skal i l&#x00F8;bende Aar</l>
+               <l>Paa <placeName key="fak3">Langelands</placeName> H&#x00F8;i og paa Lavlandets Slette,</l>
+               <l>Ops&#x00F8;ge Smaablomster i H&#x00F8;st og i Vaar,</l>
+               <l>Velsigne dit Minde og s&#x00F8;rgende flette</l>
+               <l>Af Taarer bedugget uvisnende Krands;</l>
+               <l>Thi du gik til Striden som M&#x00F8;en til Dands,</l>
+               <l>Og vendte tilbage med elskende Hierte.</l>
+            </lg>
+            <lg n="1">
+               <l>Saa rid da, du &#x00C6;dling! ved Stierner fra Grav</l>
+               <l>Til <rs key="myth101" type="myth">Valhals</rs> og <rs type="myth" key="myth331">Vingolfs</rs> de glimrende Sale,</l>
+               <l>Sig graah&#x00E6;rdet S&#x00F8;mand skal st&#x00F8;tte ved Sta <!-- læderet type-->v,</l>
+               <l>Og Helten og Vennen<!-- MWP: tvivl om det sidste n er et u --> for S&#x00F8;nner afmale;</l>
+               <l>Men Datter skal sidde paa Moderens Ski&#x00F8;d,</l>
+               <l>Og h&#x00F8;re din Daad og begr&#x00E6;de din D&#x00F8;d,</l>
+               <l>Og knyttes saa fast til dit elskende Hierte.</l>
+               <l rend="right">Grundtvig.<!-- MWP: Schwabacher --></l>
+            </lg>
+            <p rend="firstIndent"/>
+            <fw type="longLine"/>
+            <p rend="firstIndent"/>
+         </div>
+      </body>
+   </text>
+</TEI>

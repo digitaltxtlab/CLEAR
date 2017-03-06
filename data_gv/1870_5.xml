@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Tid og Rum.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-26"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="005"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1870">1870</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1870_5_page0001.png"/>
+			<fw type="pageNum">83</fw>
+				<docTitle>
+	<titlePart type="main"><lb/></titlePart>
+	<titlePart type="sub"><lb/></titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<docImprint>
+				<pubPlace></pubPlace>.
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Tid og Rum.</head>
+<head>(1856.)</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">V</hi>erden siger i en Sum</l>
+<l>Om sin Vidskab nuomstunder:</l>
+<l>For den svinder Tid og Rum</l>
+<l>Hardtad ved et stort Vidunder,</l>
+<l>Den omspænder med sit Ord</l>
+<l>I et Nu den hele Jord.</l>
+</lg>
+<lg>
+<l>Kom saa vidt nu Mandevid,</l>
+<l>Skulde man dog nødig tænke,</l>
+<l>At sig Gud af Rum og Tid</l>
+<l>Meer end Verden lod indskrænke;</l>
+<l>Intet Under, om man fandt,</l>
+<l>At for Ham de reent forsvandt!</l>
+</lg>
+<lg>
+<l>Skikker da med Lynets Fart</l>
+<l>Vi vort Ord til Verdens Ende,</l>
+<l>Mon vor Gud ei lige snart</l>
+<l>Bud os kan fra Himlen sende,</l>
+<l>Han, som til alt hvad de skal</l>
+<l>Engle har i Tusindtal!</l>
+</lg> 
+<pb facs="1870_5_page0002.png"/>
+<fw type="pageNum">84</fw>
+<lg>
+<l>Og er det Guds Øiemed,</l>
+<l>At Hans hele Engleskare</l>
+<l>Tjene skal Hans Menighed,</l>
+<l>Staae den bi i Nød og Fare,</l>
+<l>Kan da i vor Bøn til Gud</l>
+<l>Ei med dem vi sende Bud!</l>
+</lg>
+<lg>
+<l>Naar sig Verden troer saa viis,</l>
+<l>At vor Gud den kan undvære, •</l>
+<l>Det forklare skal Hans Priis,</l>
+<l>Tjene Ham til dobbelt Ære,</l>
+<l>Som i alle Verdens Aar</l>
+<l>Vist sin Skabning overgaaer!</l>
+</lg>
+<lg>
+<l>Og naar giennem Tid og Rum,</l>
+<l>Medens Herrens Haand sig vender,</l>
+<l>Christi Evangelium</l>
+<l>Gaaer som Lyn til Verdens Ender,</l>
+<l>Kiendes da det skal, Hvis Ord</l>
+<l>Spænder om den hele Jord!</l>
+</lg>
+<lg>
+<l>Da det sees, at intet Vid</l>
+<l>Kan Guds Viisdoms Raad forhindre:</l>
+<l>Verden er, med Rum og Tid,</l>
+<l>Hverken meer ei heller mindre</l>
+</lg> 
+<pb facs="1870_5_page0003.png"/>
+<fw type="pageNum">85</fw>
+<lg>
+<l>End et Middel i Guds Haand,</l>
+<l>Skueplads for Støv med Aand!</l>
+</lg>
+<lg>
+<l>Af sit Rum og i sin Tid</l>
+<l>Lad da Verdens Viisdom braske!</l>
+<l>Verden dog, trods alt sit Vid,</l>
+<l>Vorder snart kun Støv og Aske.</l>
+<l>Evig Tid og evigt Rum</l>
+<l>Har da Evangelium!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

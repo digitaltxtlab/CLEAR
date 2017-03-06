@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Udvalgte Psalmer</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-25"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="021"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1848">1848</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1848_21_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Udvalgte Psalmer</titlePart>
+	<titlePart type="sub">for<lb/>danske Krigere.</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace>Kjøbenhavn.</pubPlace>Trykt hos Kongl. Hosbogtrykker Bianco Luno.<lb/>
+<fw type="graphic"/>
+<docDate>1848</docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<pb facs="1848_21_page0002.png"/>
+<fw type="pageNum"></fw>
+<p>3. Velsignet være da hans Navn Til Jorderiges Ender! Han tog vort lille Folk i Favn, Brød vore Fjenders Tænder; Og Drot og Folk blev ei til Rov, Vi derfor Herren Priis og Lov Med evig Tal opsender.</p>
+<fw type="graphic"/>
+</div>
+<div>
+<head>Mel. Jeg beder Dig, min Herre og Gud.</head>
+<p>42.	<hi rend="initial">D</hi>ig store Gud og Zebaoth, Vi evig Priis frembære, Vor Klippe, Skjold, vort Værn og Slot, Dit Navn velsignet være! Den Tid vor stærke Fjende kom Med megen Vold og Vrede, Os at omringe rundtenom, Da stod Du for os rede.</p>
+<p>Du samled Folkets Hjerter saa, Som Under var at skue, At hver var færdig ud at gaae Mod Fjendens Sværd og Lue. Og midt i Slagets værste Ild, Der hvor vor Magt var ringe, Hvor Døden var saa vred og vild, Der skjuled os din Vinge.</p>
+<p>Det var dit Værk, dit eget Værk, Vi Dig det Alt tilskrive; Du Gud, som er saa stor og stærk, Hold os med Seir ilive! Fra Børn til Børnebørn skal gaae Din store Frelses Minde, Saalænge Verden end skal staae, Og Vand til Havet rinde.</p>
+<fw type="graphic"/>
+</div>
+<div>
+<head>Mel. Vor Gud han er saa fast en Borg.</head>
+<p>43.	<hi rend="initial">E</hi>i Hærens Tal gjør seierrig. Thi Gud i Himlen raader, Og Lykke har i Fred og 
+<pb facs="1848_21_page0003.png"/>
+<fw type="pageNum"></fw>
+Krig, Hvem han dermed benaader; Om Mange eller Faa, Dem Seiren følge maa, Som deres Mærkesmand Guds Engel gaaer foran, Med ham er Himlens Styrke.</p>
+<p>Nor Fjende rykker frem med Trods, I Støvet os at træde, Men <hi rend="bold">Ret</hi> og <hi rend="bold">Sandhed</hi> er med os, Derfor vi frilig kvæde: Var de som Havets Sand, De skal ei holde Stand; Var vi end nok saa faa, Det skal dog godt forstaae, Med os er Himlens Styrke!</p>
+<p>For vore Fædres <hi rend="bold">Land</hi> og <hi rend="bold">Sprog</hi>, For <hi rend="bold">Danmarks</hi> gamle Rige, Vi kæmpe under <hi rend="bold">Dannebrog</hi>, Vil ei vort Banner svige; Gud hjalp os hidindtil, Han saa herefter vil, Thi han er eiegod, Os giver freidigt Mod, Til Daners Mark at værge!</p>
+<p>Ja, alting Gud i Himlen veed, Han dannede vort Hjerte, Han seer det grandt, vor Lyst er <hi rend="bold">Fred</hi>, Slet Ingens Nød og Smerte; Og han er <hi rend="bold">Fredens</hi> Gud, Hans Ord dens Sendebud, Hans Hjerte røres ved, Vi kæmpe hardt for <hi rend="bold">Fred</hi>. Den <hi rend="bold">Danske Sag</hi> skal seire!</p>
+</div>
+</body>
+</text>
+</TEI>

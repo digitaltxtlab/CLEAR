@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Budstikken.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-26"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="009"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1865">1865</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1865_9_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Budstikken.</titlePart>
+	<titlePart type="sub">Et Folkeskrift til Oplysning og Opbyggelse</titlePart>
+</docTitle>
+<byline>Udgivet af<lb/>
+	<docAuthor> F. E. Boisen<lb/>Præst.</docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<docEdition>Nr. 15. Den 15. August 1865. 14. Aarg.</docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Til Udgiveren.</head>
+<p><hi rend="initial">D</hi>et var et rart Stykke, jeg forleden læste i "Budstikken" af <hi rend="spaced">Hostrup</hi> om Samlingen af "<hi rend="spaced">Mand og Kvinde</hi>" i vor Herre <hi rend="spaced">Jesus Christus</hi>, og da det er en af de bibelske Sandheder, som i den aandløse Bogstav-Dyrkelsestid er aldeles overseet, er det mig en Fornøielse at bidrage min Skjærv til at sætte denne Sandhed i et lidt klarere bibelsk og christeligt Lys.</p>
+<p>Det er jo saaledes meget rigtigt, at naar man betragter Apostlen <hi rend="spaced">Pauli</hi> Udtryk (Gal.3)at iChristus Jesus er hverken Jøde eller Græker, hverken Træl eller Fri, hverken <hi rend="spaced">Hankjøn</hi> eller <hi rend="spaced">Hunkjøn</hi>, i og for sig selv, da synes det let som om Apostlen vilde sige, hvad vore Oversættere lade hans sige, at der <hi rend="spaced">christeligt</hi> talt er siet ingen Forskjel mellem "Mand og Kvinde" men naar man dermed sammenligner, hvad samme "Apostel skriver (1 Cor. 41.) for Resten er der hverken 
+<pb facs="1865_9_page0002.png"/>
+<fw type="pageNum">450</fw>
+<hi rend="spaced">Mand uden</hi> Kvinde eller <hi rend="spaced">Kvinde uden Mand</hi> i Herren", da seer man dog, han mener noget ganske andet, nemlig at i den <hi rend="spaced">anden</hi> Adam, ligesom i den <hi rend="spaced">Første</hi> er Mand og Kvinde sammen <hi rend="spaced">skabte</hi>, da de kun med <hi rend="spaced">hinanden</hi> udgjøre <hi rend="spaced">aandelig og hjertelig</hi> det hele <hi rend="spaced">Menneske</hi> i Guds Billede.  Hertil føier man med Nette, at ligesom den første Adams Skaber sagde: det er ikke godt, at Mennenestet er <hi rend="spaced">eenligt</hi> og dannede derfor en <hi rend="spaced">Mandinde</hi> taget af Manden, saaledes fandt han heller ikke for godt, at den <hi rend="spaced">anden</hi> Adam skulde være et <hi rend="spaced">eenligt</hi> Gud-Menneske paa Jorden, men dannede <hi rend="spaced">Brødre</hi>, (Menigheden) af hans Fylde, hvorfor samme Apostel ogsaa til de Skriftkloges Forbauselse, dristig anvender paa <hi rend="spaced">Herren</hi>, hvad der er sagt fra Begyndelsen: derfor skal <hi rend="spaced">Manden</hi> forlade <hi rend="spaced">Fader og Moder</hi> og hænge ved sin Husfru og de To stal blive til eet <hi rend="spaced">Kjød</hi>, hvad han med Rette kalderen stor <hi rend="spaced">Hemmelighed</hi> om <hi rend="spaced">Christus og Menigheden</hi>, men er dog ei mere end alle værdige Giæster ved Herrens Bord maae troe og bekjende.</p>
+<p>Jeg beder baade <hi rend="spaced">Hostrup</hi> og Dem at optage denne lille bibelske Oplysning ligesaa venlig, som den gives med Glæde over Grund-Tanken om Manden og Kvindens christelige Sammensmeltning i det guddom melige Menneske Begreb.	Deres gamle Ven</p>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

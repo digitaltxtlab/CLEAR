@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Dansk Kirketidende.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-25"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="003"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1857">1857</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1857_3_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Dansk Kirketidende.<lb/></titlePart>
+	<titlePart type="sub"><lb/></titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<epigraph>
+<p>Indhold: N. F. S. Grundtvig, Mennesket. — P. Chr. Kirkegaard, Hyrdebrev. — Fra
+Amerika. — Bog-Nyt. — Udnævnelser og ledige Embeder.</p>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition>Palme Søndag den 3 April.</docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace></pubPlace>.
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Mennesket.</head>
+<head>(efter den 8de Davids-Psalme).</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">N</hi>aar vi seer paa Himmel-Dybet,</l>
+<l>Med de store Lys og smaa,</l>
+<l>Og vi feer imellem Krybet</l>
+<l><hi rend="spaced">Mennesket</hi> paa Jorden gaae,</l>
+<l>Vel vi tænke maae og sige:</l>
+<l>Hvilken Madik i Guds Rige!</l>
+<l>Kommer Gud vel Støv ihu!</l>
+</lg>
+<lg>
+<l>Støv og Aske kun igrunden,</l>
+<l>Skiøre Kar og tidlig graa,</l>
+<l>Som Sangfuglene i Lunden</l>
+<l>Glæde kun i uger faa,</l>
+<l>Og, som Græs og Blomst i Enge,</l>
+<l>Faure vel, men aldrig længe;</l>
+<l>Skulde Gud besige os?</l>
+</lg>
+<lg>
+<l>Dog det ringer for vort Øre,</l>
+<l>Om os taler Himlens Gud,</l>
+<l>Aanden taler, vi kan høre,</l>
+<l>Han hos os gaaer ind og ud;</l>
+<l>Som en Helt til Kamp omgjordet,</l>
+<l>Gaaer igiennem os <hi rend="spaced">Guds-Ordet</hi>,</l>
+<l>Raaber: <hi rend="spaced">Adam</hi>! hvor er du?</l>
+</lg>
+<lg>
+<l>Mon mit Aasyn ei afpræger</l>
+<l>Boldt sig i dit bløde Leer?</l>
+<l>Mon min Aande ei bevæger</l>
+<l>Hvad ei Verdens Gie seer:</l>
+<l>Røsten, Ordet, Talen, Tanken,</l>
+<l>Hamren til din Hjerte-Banken,</l>
+<l>Lignelsen, som jeg har skabt!</l>
+</lg>
+<lg>
+<l>Under Englene en Kiende</l>
+<l><hi rend="spaced">Mennesket</hi> vel er nedsat,</l>
+<l>Men ved alle Dages Ende</l>
+<l>Det for Lyset kommer brat,</l>
+<l>Havens Vogter, Dyrets Tæmmer,</l>
+<l>Han er Englenes Beskæmmer,</l>
+<l>Han til al min Herlighed!</l>
+</lg>
+<lg>
+<l><hi rend="spaced">Fristes</hi> aarle maa og silde</l>
+<l>Han, som har de bedste Kaar,</l>
+<l>Tit og rædsomt sig forvilde,</l>
+<l>For han Himles Himle naaer,</l>
+<l>Over Have, giennem Ørke,</l>
+<l>Giennem Synd og Død og Mørke,</l>
+<l>Naaer han mit Høisæde dog?</l>
+</lg>
+<lg>
+<l>Det er alle Tiders Gaade,</l>
+<l>Det er alle Djævles Gru,</l>
+<l>At Jordklimpen Gud i Naade</l>
+<l>Kommer <hi rend="spaced">faderlig</hi> ihu,</l>
+<l>Saa af Smilet hos den Spæde</l>
+<l>Giennem Sorg „<hi rend="spaced">Vorherres Glæde</hi>"</l>
+<l>Klækkes ud og elskes op!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

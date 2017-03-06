@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Ved den Nordiske Høitid</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-16"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="002"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1848">1848</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1848_2_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Ved den<lb/>Nordiske Høitid</titlePart>
+</docTitle>
+<byline></byline>
+				<fw type="graphic"/>
+				<epigraph>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace></pubPlace>
+<fw type="graphic"/>
+<docDate>13. Jannar 1848.</docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<pb facs="1848_2_page0002.png"/>
+<fw type="pageNum"></fw>
+<head>Mel. Danmark deiligst Vang og Vænge.</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">D</hi>anmark! gamle Skjoldung-Rige,</l>
+<l>Hvor fra Arildstid</l>
+<l>Sunde, Belte, Fjorde, Vige</l>
+<l>Vinked Snekker hid!</l>
+<l>Hils dem fra de grønne Skove</l>
+<l>Mildt paa Øresundets Vove,</l>
+<l>Naar igien de liljehvide</l>
+<l>Vrimle under Lide!</l>
+</lg>
+<lg>
+<l>Blidt, som dine Vover blaane</l>
+<l>Under Sommersky,</l>
+<l>Hils dem under Soel og Maane</l>
+<l>Fra din Skole ny.</l>
+<l>Hvor dit <hi rend="bold">Modersmaal</hi> skal raade,</l>
+<l>Tungen loft Hjertets Gaade,</l>
+<l>Lyset, som dertil er givet,</l>
+<l>Kaste Glands paa Livet!</l>
+</lg> 
+<pb facs="1848_2_page0003.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Syng saa Holt, som dybt du sukked,</l>
+<l>Under bange Kaar!</l>
+<l>Thi som Soel af Hav opdukked</l>
+<l>Nu dit <hi rend="bold">Jubelaar</hi>;</l>
+<l>Det skal til din Ungdom svare,</l>
+<l>Det skal vinde, det stal vare.</l>
+<l>Med vort Modersmaal det sode,</l>
+<l>Som stod op af Døde.</l>
+</lg>
+<lg>
+<l>Dine Froder, dine Skjolde</l>
+<l>Skal nu brat opstaae,</l>
+<l>Dine Bondemænd de bolde,</l>
+<l>De stal ligesaa;</l>
+<l>Dine Hjarner, dine Signer,</l>
+<l>Som Dig lover, som Dig ligner</l>
+<l>Dages stal med Rosen-Kinder,</l>
+<l>Dine som Kiærminder.</l>
+</lg>
+<lg>
+<l>Rygtes stal det vidt paa Jorden</l>
+<l>Atter over So,</l>
+<l>At de Døde høit i Norden</l>
+<l>Leve under Øe,</l>
+<l>At de nye og gamle Helte</l>
+<l>Modes, kiendes, sammensmelte,</l>
+<l>Saa det kommer i det Klare,</l>
+<l>Hvad de Gamle vare.</l>
+</lg> 
+<pb facs="1848_2_page0004.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Da det sees, at Havfru-Ætten</l>
+<l>I det Danske Nord,</l>
+<l>Fostret op af Bøge-Vætten,</l>
+<l>Gik med Fren ombord,</l>
+<l>Paa Stibbladner, som kan bære</l>
+<l>Alt hvad der gier Norden Ære,</l>
+<l>Bære op i Storm og Stille,</l>
+<l>Baade stort og lille.</l>
+</lg>
+<lg>
+<l>Hil dig, gamle Skjoldung-Rige,</l>
+<l>Med din Skole ny!</l>
+<l>Danmarks Roes stal atter stige</l>
+<l>Med vor Sang i Sky;</l>
+<l>Klare stal sig Folkelivet,</l>
+<l>Bølgen blaa og Alfe-Skibet,</l>
+<l>Vaaben-Skjoldet, Løve-Modet,</l>
+<l>Danehjerte-Blodet.</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

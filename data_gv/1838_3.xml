@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Adressecomptoirs Efterretninger</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-14"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="003"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1838">1838</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1838_3_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Kjøbenhavns kongelig alene privilegerede<lb/>Adressecomptoirs Efterretninger</titlePart>
+</docTitle>
+<byline></byline>
+				<fw type="graphic"/>
+				<epigraph>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition>80 Aargang. Nr. 30. Mandagen den 5 Februar, 1838.</docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace></pubPlace>
+<lb/>
+<fw type="graphic"/>
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<pb facs="1838_3_page0001.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Hænder kolde, Hjerter varme</l>
+<l>Er blandt os et gammelt Ord;</l>
+<l>Lad den Valne og den Arme</l>
+<l>See, det gjælder end i Nord !</l>
+<l>Da sig mange Hænder kolde</l>
+<l>For de varme Hjerter folde,</l>
+<l>Offre ham en Takke-Bøn,</l>
+<l>Som, fra sine høie Sale,</l>
+<l>Hvor han seer lidt Smukt i Løn,</l>
+<l>Vil i Lys det godt betale!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig</hi></p>
+</div>
+</body>
+</text>
+</TEI>

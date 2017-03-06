@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Aandelige Digte.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-22"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="024"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1840">1840</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1840_24_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Aandelige Digte.</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Pindse-Sang.</head>
+<lg>
+<l><hi rend="initial">F</hi>ra Himlen kom den Helligaand,</l>
+<l>Helligaand,</l>
+<l>Og løste Jordens Tungebaand.</l>
+<l>Halleluja, Halleluja!</l>
+</lg>
+<lg>
+<l>Han kom med Tunger som af Ild,</l>
+<l>om af Ild,</l>
+<l>Med Røsten varm og stærk og mild.</l>
+<l>Halleluja, Halleluja.</l>
+</lg>
+<lg>
+<l>Den Røst paa alle Tungemaal,</l>
+<l>Tungemaal,</l>
+<l>Kan slukke Sorg og dove Staal.</l>
+<l>Halleluja, Halleluja!</l>
+</lg>
+<lg>
+<l>I Herrens Navn og Troens Ord,</l>
+<l>Troens Ord,</l>
+<l>Der bygger Aanden nu og boer.</l>
+<l>Halleluja, Halleluja!</l>
+</lg> 
+<pb facs="1840_24_page0002.png"/>
+<fw type="pageNum">2</fw>
+<lg>
+<l>Med Ordet Han i allen Stund,</l>
+<l>allen Stund,</l>
+<l>Er i vort Hjerte og vor Mund.</l>
+<l>Halleluja, Halleluja!</l>
+</lg>
+<lg>
+<l>I Hjertet er Han Som en Glød,</l>
+<l>Som en Glød,</l>
+<l>I Mund som Vinen stærk og sød.</l>
+<l>Halleluja, Halleluja!</l>
+</lg>
+<lg>
+<l>For Øret er Han Orgelklang.</l>
+<l>Orgelklang,</l>
+<l>Basune-Lyd og Fuglesang.</l>
+<l>Halleluja, Halleluja!</l>
+</lg>
+<lg>
+<l>For Sjælen er Han Lys og Fred,</l>
+<l>Lys og Fred,</l>
+<l>Og evigt Liv og Salighed.</l>
+<l>Halleluja, Halleluja!</l>
+</lg>
+<lg>
+<l>Livsalig er vor Pindsefest,</l>
+<l>Pindsefest,</l>
+<l>Lyksalig den, der Synger bedst</l>
+<l>Halleluja, Halleluja!</l>
+</lg>
+<lg>
+<l>Halleluja for Livets Aand,</l>
+<l>Livets Aand,</l>
+<l>Som løser alle Dødens Baand!</l>
+<l>Halleluja, Halleluja!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. <hi rend="bold">Grundtvig</hi>.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

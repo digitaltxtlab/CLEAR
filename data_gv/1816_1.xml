@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title></title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2009-10-28"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="001"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1816">1816</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1816_1_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main"></titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+	<docImprint>
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<pb facs="1816_1_page0001.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l><hi rend="initial">P</hi>ropheten spaaer før sand Hr. Wosemose.</l>
+<l>At kvalt han vorder i sin Vaasepose,</l>
+<l>Og saaer end ikke i de <hi rend="spaced">Dødes </hi>Rige</l>
+<l>Det mindste Muk, end sige Ord at sige^</l>
+</lg>
+<p><hi rend="align(right)">Grundtvig .</hi></p>
+</div>
+</body>
+</text>
+</TEI>

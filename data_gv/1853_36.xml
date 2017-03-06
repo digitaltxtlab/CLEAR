@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Dannebrog.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-23"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="036"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1853">1853</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1853_36_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Dannebrog.<lb/></titlePart>
+	<titlePart type="sub">Et Ugeblad for den Danske Forening.<lb/></titlePart>
+</docTitle>
+<byline>Udgivet ved<lb/>
+	<docAuthor>N. F. S. Grundtvig.<lb/></docAuthor>
+				</byline>
+				<fw type="graphic"/>
+				<epigraph>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition>Nr. 38-39. 31. Decbr. 1853.</docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace></pubPlace>.
+<fw type="graphic"/>
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Phenix-Fuglen.</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">B</hi>landt alle <hi rend="spaced">Speil-Taler</hi> paa Jorden,</l>
+<l>Udraabte som "Gudernes Sprog",</l>
+<l>I Østen, i Syden og Norden,</l>
+<l>.,<hi rend="spaced">Fugl-Phenix</hi>" er Perlen forsand.</l>
+<l>Stjernerne tindre paa Himmelens Blaa,</l>
+<l>Der er een over alle de Andre.</l>
+</lg>
+<lg>
+<l>For Floden gik lukt over Bjerge,</l>
+<l>Mens Tankerne raged i Sky,</l>
+<l>Da Kæmper mod os kaldtes Dværge,</l>
+<l>Var hverdags det <hi rend="spaced">vingede Ord</hi>!</l>
+</lg>
+<lg>
+<l>Da heel var den Menneske-Tunge,</l>
+<l>Hvoras vi har Brudstykker kun,</l>
+<l>Og den havde nemmet at sjunge</l>
+<l>Af Fuglene i Paradis!</l>
+</lg>
+<lg>
+<l>Da lod der et underligt Kvæde</l>
+<l>Om <hi rend="spaced">Morgenrøds-Fuglen</hi> især.</l>
+<l>Den Samme i Ny og i Næde,</l>
+<l>Men dog midt imellem fortabt,</l>
+</lg>
+<lg>
+<l>Det Kvad var af <hi rend="spaced">Menneske-Aanden</hi>,</l>
+<l>Sin Bane han spaaede om,</l>
+<l>Sin Vei giennem Ørken og Vaande"</l>
+<l>Tilbage til Guds Paradis.</l>
+</lg>
+<lg>
+<l>Den Morgenrøds-Fugl uden Mage,</l>
+<l>Gult blommet, fra Palmernes Top,</l>
+<l>I Paradis sang alle Dage</l>
+<l>Fra Daggry til Solebjergs-Lag.</l>
+</lg>
+<lg>
+<l>I Paradis-Maanskin og Svale,</l>
+<l>I Mindets og Længselens Takt,</l>
+<l>I Tusindtal slog Nattergale,</l>
+<l>Til Skyhimlen rødmed i Øst.</l>
+</lg>
+<lg>
+<l>For Hørelsens Skyld dog var givet</l>
+<l>Soel-Sangen til Daglysets Fugl,</l>
+<l>Og stakket var Paradis-Livet</l>
+<l>For Menneske-Kiønnet paa Jord.</l>
+</lg>
+<lg>
+<l>Saalænge ved Paradis-Hegnet</l>
+<l>End lyttede Menneskens Vorn,</l>
+<l>Som det var i Stjernerne tegnet,</l>
+<l>Sang Morgenrøds-Fuglen som for.</l>
+</lg>
+<lg>
+<l>Han sang om den Soel i det Høie,</l>
+<l>Som skiød sine Straaler til Muld,</l>
+<l>Usynlige kun for vort Vie,</l>
+<l>Mens Støvgran er Stenen deri.</l>
+</lg>
+<lg>
+<l>Han sang om de Roser saa rode,</l>
+<l>Og alle Smaablomsterne med.</l>
+<l>Han sang om al Jordens Afgrøde,</l>
+<l>Som Straalens og Dugdraabens Frugt.</l>
+</lg>
+<lg>
+<l>Han sang om det Muld, som skal klares.</l>
+<l>Til det skinner selv som en Soel,</l>
+<l>Saa giennem det klart aabenbares</l>
+<l>Hvad dunkelt sig speller deri.</l>
+</lg>
+<lg>
+<l>Han sang om Guds Billed i Støvet,</l>
+<l>Han sang om Guds-Barnet i Løn,</l>
+<l>Som krones for Tids-Levnetsløbet</l>
+<l>Med Evigheds-Blomsternes Krands.</l>
+</lg> 
+<pb facs="1853_36_page0002.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>I Ophav, i Tids Morgenrøde,</l>
+<l>Mens aldrig der Sky gik for Soel,</l>
+<l>Da lytted til Sangen hin søde</l>
+<l>Selv Lever og Tigre med Lyst;</l>
+</lg>
+<lg>
+<l>Da folde det Træer og Blommer,</l>
+<l>At ogsaa i dem der var Liv,</l>
+<l>Som Vaaren til Evigheds-Sommer</l>
+<l>Sig folde letvingede Tid.</l>
+</lg>
+<lg>
+<l>I Blomster og Palmer og Ranker,</l>
+<l>I Fugle og Fiste og Dyr,</l>
+<l>Afbildninger smaa af Guds Tanker</l>
+<l>Saae Mennesket inderlig glad!</l>
+</lg>
+<lg>
+<l>Ak, nu var det Bedste forandret,</l>
+<l>For Himlen al Jorden tunghør.</l>
+<l>Med Sut var til Ørken udvandret</l>
+<l>Selv Mennesket, bange for Gud.</l>
+</lg>
+<lg>
+<l>Ved Sangen hvert Menneske-Hjerte</l>
+<l>Vel hopped i Livet endnu,</l>
+<l>Ved Sangen den dybeste Smerte</l>
+<l>Dog vaagned i Synderens Bryst.</l>
+</lg>
+<lg>
+<l>Da skyede Paradis-Giærdet</l>
+<l>Hardtad hele Menneskens Kiøn,</l>
+<l>Mens Jetter, med Dre forhærdet,</l>
+<l>Mod Paradis-Porten lob Storm.</l>
+</lg>
+<lg>
+<l>Jo farre, der lytted til Sangen,</l>
+<l>Des mattere blev og dens Klang,</l>
+<l>Tungsindig i Paradis-Vangen</l>
+<l>Blev Morgenrøds-Fuglen tilsidst.</l>
+</lg>
+<lg>
+<l>Da graaned af Sorg, som af Ælde,</l>
+<l>Den deilige Morgenrøds-Fugl,</l>
+<l>Til Ørkens de ødeste Fjelde</l>
+<l>Han flygted fra Paradis-Vang.</l>
+</lg>
+<lg>
+<l>Forgiæves han flygted dog længe.</l>
+<l>Ham kiendte hver Sangfugl i Skov,</l>
+<l>Om ham hvisked Blomster i Enge:</l>
+<l>See ham, alle Sangfugles Drot!</l>
+</lg>
+<lg>
+<l>Da Fuglene alle med Vinge,</l>
+<l>Rovfuglene forrest i Rad,</l>
+<l>Om Morgenrøds-Fuglen slog Ringe,</l>
+<l>Som Skjoldborg slaae Kæmper om Drok!</l>
+</lg>
+<lg>
+<l>Tilsidst stat i Sky han forvoven,</l>
+<l>Skiød ned som den vingede Piil,</l>
+<l>Forsvandt saa i Libanons-Skoven,</l>
+<l>Hvor tætte stod Træer som Ror.</l>
+</lg>
+<lg>
+<l>Og der stod i Skoven midtinde</l>
+<l>En Palme, vel tusinde Aar,</l>
+<l>Kun der skulde Rolighed sinde</l>
+<l>Fugl-Phenix og fødes paany.</l>
+</lg>
+<lg>
+<l>Sig Rede han der skulde bygge</l>
+<l>As sødeste Urter paa Jord,</l>
+<l>Dem sanked i Skjul og i Skygge</l>
+<l>Ved Maaneskin Daglysets Fugl!</l>
+</lg>
+<lg>
+<l>Han bygde som Bierne travle,</l>
+<l>Beredte frivillig sit Baal,</l>
+<l>Ham lysted med Ilden at avle</l>
+<l>En Son til Forklarelsens Dag!</l>
+</lg>
+<lg>
+<l>Soelstraalen, som dertil udsendtes,</l>
+<l>Fandt Reden med Fuglen deri,</l>
+<l>Og aldrig en Offer-Ild tændtes,</l>
+<l>Som dufted saa sødt under Sky!</l>
+</lg>
+<lg>
+<l>I Aske sank Morgenrods-Fuglen,</l>
+<l>Var levende dog som en Gnist,</l>
+<l>Brod ud giennem Faldaske-Kuglen</l>
+<l>Til Levnetsløb flunkende nyt!</l>
+</lg>
+<lg>
+<l>Et Kryb Hall lun syndes i Vuggen,</l>
+<l>En Orm blev han kaldt med Foragt,</l>
+<l>Hver Morgen dog, mættet af Duggen,</l>
+<l>Han voxer alt efter sin Art.</l>
+</lg>
+<lg>
+<l>Han først ligner Ørnen hin unge,</l>
+<l>Som prøver sin Vinge i Sky,</l>
+<l>Dog brat han begynder at sjunge,</l>
+<l>Som listigst det lyder i Skov.</l>
+</lg> 
+<pb facs="1853_36_page0003.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Med <hi rend="spaced">Ørnene</hi> gamle han nappes</l>
+<l>I Tvekamp, med Bryst imod Bryst;</l>
+<l>Med Falkene alle han kappes</l>
+<l>Til Priis for det skarpeste Syn!</l>
+</lg>
+<lg>
+<l>Naar Livskilden dybest opvælder,</l>
+<l>Han kiedes ved Kiv og ved Strid,</l>
+<l>Da alle Slagfjedre han fælder,</l>
+<l>Er klarlig <hi rend="spaced">Fugl - Phenix</hi> paany.</l>
+</lg>
+<lg>
+<l>Som <hi rend="spaced">Strudsen</hi> saa stor til at skue.</l>
+<l>Som <hi rend="spaced">Lærken</hi> saa let dog i Flugt,</l>
+<l>Med Dine som Demant i Lue,</l>
+<l>Med Hale som Paa er den Fugl!</l>
+</lg>
+<lg>
+<l>Nu vaagner hans Paradis-Længsel,</l>
+<l>As <hi rend="spaced">Soelsangen</hi> svulmer hans Bryst,</l>
+<l>Al Verden ham vorder et Fængsel,</l>
+<l>Og <hi rend="spaced">Frihed</hi> er Fugle-Attraa!</l>
+</lg>
+<lg>
+<l>Dog tøver med flyvende Tanker,</l>
+<l><hi rend="spaced">Fugl-Phenix</hi> i Skoven enstund,</l>
+<l>Mens Asken i Skrin han opsanker,</l>
+<l>Hans Faders, som han kalder sin!</l>
+</lg>
+<lg>
+<l>Kun een Gang paa Jorden skrinlægges</l>
+<l>En hensmuldret Helgen saa skjønt,</l>
+<l>Kun een Gang med Roser tildækkes</l>
+<l>Taa yndig en Askehob sval!</l>
+</lg>
+<lg>
+<l>Mens Asken han samler med Fliden,</l>
+<l>Mens Skrinet han danner med Konst,</l>
+<l>I Sky toner Phenixfugls-Kviden.</l>
+<l>Vemodig som Guldtaare-Strøm!</l>
+</lg>
+<lg>
+<l>Den toner fra Libanons-Dalen,</l>
+<l>Den Kvide saa smeltende sod,</l>
+<l>Den sjunges af <hi rend="spaced">Skov-Nattergalen</hi></l>
+<l>For <hi rend="spaced">Morgenrøds-Fuglen</hi> saa fiin!</l>
+</lg>
+<lg>
+<l>Hun selv har i <hi rend="spaced">Paradis</hi> hjemme,</l>
+<l>Sang født der hver evige Nat,</l>
+<l>Mens Morgenrøds-Fuglen sin Stemme</l>
+<l>Opløfted, naar Solen opstod!</l>
+</lg>
+<lg>
+<l>Hun fløi over Hav, over Hede,</l>
+<l>Da Morgenrods-Fuglen forsvandt,</l>
+<l>Han var ei paa Jord at oplede,</l>
+<l>Ved <hi rend="spaced">Baalet</hi> dog mødtes de brat.</l>
+</lg>
+<lg>
+<l>I Asie hun sank med den Bolde,</l>
+<l>Med ham hun af Asken opstod,</l>
+<l>Besang over Æmmerne kolde</l>
+<l>Den Skiærsild, hun selv gjennemgik.</l>
+</lg>
+<lg>
+<l>Saa flyver nu Morgenrøds-Fuglen</l>
+<l>Tilbage til sit Paradis,</l>
+<l>Med Skrinet runddanne! som Kuglen,</l>
+<l>Med Phenixfugls-Asken deri!</l>
+</lg>
+<lg>
+<l>Han flyver, som Skyer mon drive,</l>
+<l>Han skues i hele sin Glands,</l>
+<l>Saa Penne det ei kan beskrive,</l>
+<l>Men kappes dog travle derom!</l>
+</lg>
+<lg>
+<l>Da flokker sig alt, som har Vinge,</l>
+<l>Bifluen med Ørn og med Falk,</l>
+<l>Om Phenix de alle staae Ringe,</l>
+<l>Ham tiende med Hylding for Drot;</l>
+</lg>
+<lg>
+<l>Naar han sig til Paradis svinger,</l>
+<l>Slet ingen ham følge dog kan,</l>
+<l>Selv <hi rend="spaced">Ygdrasils Ørn</hi> har ei Vinger,</l>
+<l>Som did ham kan bære med Priis!</l>
+</lg>
+<lg>
+<l>Ved Paradis-Giærdet i Svale</l>
+<l>Sig leirer den Sommernats-Fugl,</l>
+<l>Som deel og i Vaal og i Dvale,</l>
+<l>Giensødtes med Phenix iløn;</l>
+</lg>
+<lg>
+<l>Der lytter hun taus alle Dage</l>
+<l>Til <hi rend="spaced">Soelsangen</hi> flunkende ny,</l>
+<l>Udtoner hver Nat uden Klage</l>
+<l>Sin Længsel, sit Haab og sin Trøst!</l>
+</lg>
+<lg>
+<l>Det alt er Forklarelsens Morgen,</l>
+<l>Og dermed den evige Dag,</l>
+<l>Da Livsglæden slukker al Sorgen,</l>
+<l>Og Natten for evig er glemt!</l>
+</lg> 
+<pb facs="1853_36_page0004.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Saa klarer sig i Nytaars-Tiden,</l>
+<l>Med <hi rend="spaced">Oldtidens</hi> Høisang i Sky,</l>
+<l>Dyb-Sukket i <hi rend="spaced">Mellemtids-Kviden</hi>,</l>
+<l>Sang-Boden for Sang-Banesaar!</l>
+</lg>
+<lg>
+<l>Aands-Ilden i Støv-Hjertets Flammer,</l>
+<l>Deraf bryder Livs-Lyset ud,</l>
+<l>Guld-Nøglen til Aands Gaade-Kammer</l>
+<l>Er <hi rend="spaced">Ordet</hi>, som Lys og som Liv!</l>
+</lg>
+<lg>
+<l>Hvor <hi rend="spaced">Hjerte</hi> og Aand sammenleve</l>
+<l>Til eet i Fuldkommenheds Baand,</l>
+<l>Der fødes af Adam og Eve</l>
+<l>En Sen med <hi rend="spaced">Forklaringens Ord</hi>!</l>
+</lg>
+<lg>
+<l>Trods Faldet og Tabet af "Eden",</l>
+<l>Trods alle Vildfarelsers Frugt,</l>
+<l>Dog Menneske-Hjertet forleden</l>
+<l>Sig aabned for Guds-Aandens Ild!</l>
+</lg>
+<lg>
+<l>Da fodtes en Sen uden Mage,</l>
+<l>Som <hi rend="spaced">Moder</hi> kun havde paa Jord,</l>
+<l>Et <hi rend="spaced">Nytaar</hi> med Evigheds Dage</l>
+<l>I ham fra de Døde opstod!</l>
+</lg>
+<lg>
+<l>Da fødtes med Lyset og Livet</l>
+<l>Til Verden det ægte Guds - Ord,</l>
+<l>Hvoraf det blev Mandevid givet</l>
+<l>At klare hver Hemmelighed!</l>
+</lg>
+<lg>
+<l>Af Ordet paa glødende Tunger,</l>
+<l>Af Troen paa blussende Baal,</l>
+<l>Det kvædes end blandt Øgleunger,</l>
+<l>Kun Aften er levnet os nu;</l>
+</lg>
+<lg>
+<l>Dog alt er af Asken oprundet</l>
+<l>Bog-Ormen ei blot, men en Fugl,</l>
+<l>En Aand, som har kæmpet og vundet</l>
+<l>I Sang som i standende Strid.</l>
+</lg>
+<lg>
+<l>Og ligner end Ørnen og Lærken</l>
+<l>Han meer end Fugl-Phenix maaskee,</l>
+<l>Da brat dog med Brynie-Særken</l>
+<l>Han skyder sin Rovfugle-Hamm,</l>
+</lg>
+<lg>
+<l>Ei længer med Verden han kives,</l>
+<l>Men kvæder sin Paradis-Sang,</l>
+<l>Saa alt hvad den hører, oplives,</l>
+<l>Og Livet sig selv bliver klart!</l>
+</lg>
+<lg>
+<l>Som Asken i Skrinet af Blommer,</l>
+<l>Saa er Mindes-Mærker i Bog,</l>
+<l>Naar Aanden med Lyst ihukommer</l>
+<l>Sit Værk og sin Møie paa Jord!</l>
+</lg>
+<lg>
+<l>Som Nattergal-Slaget i Svale,</l>
+<l>Ved Paradis-Giærdet fuldnær,</l>
+<l>Er Menneske-Hjertets Udtale</l>
+<l>As Saligheds Længsel og Haab!</l>
+</lg>
+<lg>
+<l>Da synger den døende Svane</l>
+<l>Saa sødt, som det hørdes ei før,</l>
+<l>Med Lovsang hun ender sin Bane</l>
+<l>Ved Maalet, som straaler i Glands!</l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

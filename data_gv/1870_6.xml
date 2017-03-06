@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Liv og Død.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-26"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="006"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1870">1870</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1870_6_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main"><lb/></titlePart>
+	<titlePart type="sub"><lb/></titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<docImprint>
+				<pubPlace></pubPlace>.
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Liv og Død.</head>
+<head>(1861.)</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">L</hi>iv og Død, den store Gaade,</l>
+<l>Død for Synd og Liv af Naade,</l>
+<l>Hvad selv Engle knap forstaae,</l>
+<l>Daglig dog jeg tænker paa.</l>
+</lg>
+<lg>
+<l>Thi det er mig selv, det giælder,</l>
+<l>Tiden skrider, Dagen hælder,</l>
+<l>Og os giæster alle brat</l>
+<l>Dødens lange Vinternat!</l>
+</lg> 
+<pb facs="1870_6_page0002.png"/>
+<fw type="pageNum">86</fw>
+<lg>
+<l>Verden tænker, at med Støvet</l>
+<l>Sjælen er al Sands berøvet,</l>
+<l>Død for Lede som for Lyst,</l>
+<l>Det er dog en daarlig Trøst.</l>
+</lg>
+<lg>
+<l>Verden er i Vilderede,</l>
+<l>Lyst kan døe, men ikke Lede,</l>
+<l>Magtesløs og kold og mørk</l>
+<l>Sjælen er i Dødens Ørk.</l>
+</lg>
+<lg>
+<l>Pine er det uden Lige:</l>
+<l>Vide af sig selv at sige</l>
+<l>Som en Sjæl, der evig tabt</l>
+<l>Har al Varme, Lys og Kraft.</l>
+</lg>
+<lg>
+<l>Som Forgift af Edder-Slangen,</l>
+<l>Saa er Død af Synd undfangen;</l>
+<l>Synd med Løgn til Verden kom,</l>
+<l>Har i Død og Nat sin Dom.</l>
+</lg>
+<lg>
+<l>Evigt er, af Glands omgivet</l>
+<l>Som en Sol-Ild, Guddoms-Livet,</l>
+<l>Og fra Gud i Paradiis</l>
+<l>Kom til Støv det straaleviis.</l>
+</lg> 
+<pb facs="1870_6_page0003.png"/>
+<fw type="pageNum">87</fw>
+<lg>
+<l>Vel, fordrevet af Guds-Haven,</l>
+<l>Livet sank med Sorg i Graven;</l>
+<l>Men opvakt i Jesu Grav</l>
+<l>Stod med ham det op deraf.</l>
+</lg>
+<lg>
+<l>Nu trods Død og alle Grave</l>
+<l>Livet er Guds Naadegave,</l>
+<l>Evigt Liv i Aandens Favn,</l>
+<l>Evigt Liv i Jesu Navn!</l>
+</lg>
+<lg>
+<l>Sjælen nu til Dødens Harme</l>
+<l>Lever op med Lys og Varme,</l>
+<l>Magter alt i Jesu Tro,</l>
+<l>Slaaer sig i hans Navn til Ro.</l>
+</lg>
+<lg>
+<l>Støvet til de Dødes Rige</l>
+<l>Synker nu kun for at stige,</l>
+<l>Kaldt tillive af Guds Ord,</l>
+<l>Herlig i sin Frelsers Spor.</l>
+</lg>
+<lg>
+<l>Helved, hvor er nu din Seier!</l>
+<l>Haabet Frygten overveier,</l>
+<l>Dødens Trudsel er kun Tant,</l>
+<l>Sjælens Liv er Støvets Pant.</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

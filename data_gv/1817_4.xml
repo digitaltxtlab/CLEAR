@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Erklæring.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2009-10-28"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="004"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1817">1817</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1817_4_page0001.png"/>
+			<fw type="pageNum">569-570</fw>
+				<docTitle>
+	<titlePart type="main">Erklæring.</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<docImprint>
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<pb facs="1817_4_page0001.png"/>
+<fw type="pageNum">569-570</fw>
+<p><hi rend="initial">U</hi>nder een Betingelse skal det, indtil Videre være samt lige literaire Drenge, saavelsom den snurrige Pation: Athenes Udgiver, fra min Side uformeent at pege fingre og række Tungen Ud ad mig, min Poesie og af min Skrift efter Hjertens-Lyst.. Betingelsen er den, at de afholde sig fra kaad Leeg med det Hellige, og Spot mede Ingemanns Følelse, og vil de ikke det, da tage sig Skade for Hjemgiæld!</p>
+<p>Jeg vil haabe, at mine læsere Intet have mod denne Erklæring, thi harmer de Smaaes lystighed dem, har de jo Lov at frabede sig den og blive da udentvivl forskaanede; finde de den derimod moersom eller ligegyldig, nu saa fortjene de slige Forfattere og de vil let see, jeg var en Nar, om jeg vilde spilde tid og Vid paa at spille med i slig en Concert</p>
+<p>Maaskee var det allerklogest om hver Mand der har ført sin Pen med Æren, nedlagde den nu, saa Læserne kunde faae deres Fornøielse af Løier og Langkaal; men, da dette vel af høiere Grunde, ei lader sig giøre, maa man i det Mindste eengang for alle betyde Publikum, at hvem der tænker og skriver for Alvor, kan ikke hveranden Dag kaste sit Arbeide, for til offentlig morskab at stave med Drenge, som, naar de maae stikke Piben ind, stikke alt med fingeren, ja stikke med Skit og klappe i hænderne.</p>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

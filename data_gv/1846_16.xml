@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Sang i Anledning af Norges Constitutionsdag</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-24"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="016"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1846">1846</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1846_16_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Sang</titlePart>
+	<titlePart type="sub">i Anledning af<lb/>Norges<lb/>Constitutionsdag<lb/>den 17 May.<lb/></titlePart>
+</docTitle>
+<byline></byline>
+				<fw type="graphic"/>
+				<epigraph>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<pb facs="1846_16_page0002.png"/>
+<fw type="pageNum"></fw>
+<head>Mel: Norafjeld med Jokkler blaae.</head>
+<lg>
+<l>Nordens Maj med Skoven grøn,</l>
+<l>Bølgerne fribaarne,</l>
+<l>Fuglesangen klar og skjøn</l>
+<l>Mellem Klippetaarne!</l>
+<l>Dig berømme skal hvert Aar</l>
+<l>Baade Mænd og Kvinder:</l>
+<l>Mageløs er Nordens Vaar,</l>
+<l>Vintrens Overvinder!</l>
+</lg>
+<lg>
+<l>Nordens Maj med Skjønheds Duft</l>
+<l>Og med Kraftens Fylde!</l>
+<l>Sangen fri som Fugl i Luft</l>
+<l>Skal og her Dig hylde,</l>
+<l>Mindes glad Din Høitidsdag,</l>
+<l>Mens fra Norges Fjelde</l>
+<l>Vaier Friheds Kongeflag,</l>
+<l>Trodser Aar og Ælde!</l>
+</lg> 
+<pb facs="1846_16_page0003.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Det er Sagn fra gammel Tid,</l>
+<l>I de dybe Dale:</l>
+<l>Olav bold og Olav blid,</l>
+<l>I de høie Sale,</l>
+<l>Han paa Klippeskrænt med Harm</l>
+<l>Saae en bundet Kæmpe,</l>
+<l>Tog som Lyn ham under Arm,</l>
+<l>Var ham ned med Læmpe!</l>
+</lg>
+<lg>
+<l>Det var Syn paa gammel Viis,</l>
+<l>For Kong Haralds Vie:</l>
+<l>Norges Gran med Norges Pris</l>
+<l>Skjød sig i det Høje,</l>
+<l>Bullen vel var rød som Blod,</l>
+<l>Ondt i Nord man taaler,</l>
+<l>Rundet op af ædel Rod</l>
+<l>Toppen gik i Straaler!</l>
+</lg>
+<lg>
+<l>Nordens Maj! Du løser brat</l>
+<l>Vintrens Baand og Lænke,</l>
+<l>Lærer os som Kattegat</l>
+<l>Frit og høit at tænke;</l>
+<l>Skal og snart med Fuglesang</l>
+<l>Norges Gran omsvæve,</l>
+<l>Og i Kronen ved dens Klang,</l>
+<l>Straaler kun stal bæve.</l>
+</lg>
+<p><hi rend="align(right)"><hi rend="bold">N. F. S. Grundtvig</hi>.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

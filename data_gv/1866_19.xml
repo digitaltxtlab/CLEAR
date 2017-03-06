@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Nornerne.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-25"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="019"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1866">1866</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1866_19_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Nornerne.</titlePart>
+</docTitle>
+<byline>[Af<lb/>
+	<docAuthor>N. F. S. Grundtvig.]<lb/></docAuthor>
+				</byline>
+</titlePage>
+</front>
+<body>
+<div>
+<lg>
+<l><hi rend="spaced">A</hi>sken, som ved Urdas Kilde</l>
+<l>Kødder slog i Tidens Grund,</l>
+<l>Aarle grøn, udgaaet silde</l>
+<l>I den sidste Aftenstund,</l>
+<l>Plantet ud fra Gaade-Landet,</l>
+<l>Af Livs-Kilden altid vandet,</l>
+<l>Hedd i Norden <hi rend="spaced">Ygdrasil</hi>.</l>
+</lg>
+<lg>
+<l><hi rend="spaced">Nornerne</hi>, som Asken vande:</l>
+<l>"<hi rend="spaced">Vorde, Vægrende og Skal</hi>",</l>
+<l>Alle Folk i alle Lande</l>
+<l>Skabe Kaar og Arvetal,</l>
+<l>Regne ud med Runer strage</l>
+<l><hi rend="spaced">Mandhjems</hi> Aar og <hi rend="spaced">Gudhjems</hi> Dage,</l>
+<l><hi rend="spaced">Tidens</hi> Gry, Midtvei og Kvæld!</l>
+</lg> 
+<pb facs="1866_19_page0002.png"/>
+<fw type="pageNum">253</fw>
+<lg>
+<l>Ingensteds fra Hedning-Stader</l>
+<l>Man i Næde eller Ny</l>
+<l>Slige Døttre af <hi rend="spaced">Alfader</hi></l>
+<l>Skimted over Skov i Sky,</l>
+<l>Som, med <hi rend="spaced">Fremsyn</hi> i det Høie,</l>
+<l>Holdt med hele <hi rend="spaced">Tiden</hi> øie,</l>
+<l>Styred Slægtens Levnetsløb.</l>
+</lg>
+<lg>
+<l>Dertil sporedes ei Mage</l>
+<l>Selv i Grækenland og Rom,</l>
+<l>Saa, hvad der i gamle Dage</l>
+<l>Skjalden kaldte <hi rend="spaced">Nornedom</hi>,</l>
+<l>Gjaldt kun Spindet af Livs-Traaden,</l>
+<l>Medens Menneskelivs-Gaaden</l>
+<l>Blev den <hi rend="spaced">blinde</hi> Skiæbnes Værk.</l>
+</lg>
+<lg>
+<l>Ogsaa mellem Nordens Bjerge</l>
+<l>Man sig lod sin Lykke spaae,</l>
+<l>Men til Alfer kun og Dværge</l>
+<l>Regnedes de Norner smaa,</l>
+<l>Der, som efter eget Tykke,</l>
+<l>Hverdags-Liv og Slumpe-Lykke</l>
+<l>Maalte ud i Alenviis.</l>
+</lg>
+<lg>
+<l>Ja, det var kun i <hi rend="spaced">Høinorden</hi>,</l>
+<l>Giennem Skjaldens Hjernespind,</l>
+<l>Irmin-Strædet over Jorden</l>
+<l>Gik i Gimle-Borgen ind,</l>
+<l>Frit sig selv opgav omsider</l>
+<l>Guderne for Aar og Tider,</l>
+<l>Evighedens Mærkesmænd!</l>
+</lg> 
+<pb facs="1866_19_page0003.png"/>
+<fw type="pageNum">254</fw>
+<lg>
+<l>Alle andre Hedning-Guder</l>
+<l>Sig tillyve Evighed,</l>
+<l>Tid for dem har ingen Knuder,</l>
+<l>Om dens Maal de intet veed,</l>
+<l>Menneskene de opfatte</l>
+<l>Kun som Guders Abekatte,</l>
+<l>Skabt til dem at lege med.</l>
+</lg>
+<lg>
+<l>Aser alle ædle Helte,</l>
+<l>Efter deres Prøvetid,</l>
+<l>Vil i <hi rend="spaced">Valhall</hi> sammensmelte,</l>
+<l>Øve til den store Id:</l>
+<l>Selv-Opoffrelse ved Maalet,</l>
+<l>Af Ny-Solen overstraalet:</l>
+<l>Gimle-<hi rend="spaced">Borgens</hi> Gylden-Tag!</l>
+</lg>
+<lg>
+<l>Alle andre Hedning-Stammer,</l>
+<l>Naar de sagte Viisdoms Skat,</l>
+<l>Sagte den i Stumheds Kammer</l>
+<l>Og i Dødens morke Nat,</l>
+<l>Ledte op paa Tomheds Hylde</l>
+<l>Solegran til Rummets Fylde,</l>
+<l>Traad til Livets Labyrint!</l>
+</lg>
+<lg>
+<l>Kun hos <hi rend="spaced">Aser</hi> og hos <hi rend="spaced">Vaner</hi></l>
+<l>Syn der var for <hi rend="spaced">Tidens Tegn</hi>,</l>
+<l>Hvor sig Aanden Heltebaner</l>
+<l>Bryder i hver Himmelegn,</l>
+<l>Og hvor Kæmpen, som <hi rend="spaced">HIorride</hi>,</l>
+<l>Er saavel paa <hi rend="spaced">Jordens</hi> Side</l>
+<l>Som paa <hi rend="spaced">Himmelens</hi> indfødt.</l>
+</lg> 
+<pb facs="1866_19_page0004.png"/>
+<fw type="pageNum">255</fw>
+<lg>
+<l>Døgnets Hedenskab i Verden</l>
+<l>Er, paa Tydsk og paa Latin,</l>
+<l>Blindt for Asa-Herrefærden,</l>
+<l>Her ved Sund, som hist ved Rhin,</l>
+<l>Leder op paa Tombeds Hylde</l>
+<l>Solegran til <hi rend="spaced">Rummets</hi> Fylde,</l>
+<l>Traad til Livets Labyrint.</l>
+</lg>
+<lg>
+<l>Høit udraabes end med Latter:</l>
+<l>"Biblens fem Gang tusind Aar</l>
+<l>Selv for Himlens yngste Datter</l>
+<l>Ei til Vuggetid forslaaer,</l>
+<l>Og hvert Arvetal fra <hi rend="spaced">Eden</hi></l>
+<l>Synker ned i <hi rend="spaced">Bundlosheden</hi></l>
+<l>Som et Fnug i Verdens Alt.</l>
+</lg>
+<lg>
+<l>"Krøniken om Verdens Riger</l>
+<l>Og Halvguders Heltery,</l>
+<l>Der til Stjernerne opstiger.</l>
+<l>Bryder med sin Glands hver Sky,</l>
+<l>Det er Tommelidens Pralen,</l>
+<l>Som vil maale med sin Alen</l>
+<l><hi rend="spaced">Tid</hi> og Rum og <hi rend="spaced">Evighed</hi>.</l>
+</lg>
+<lg>
+<l>"<hi rend="spaced">Pattedyret</hi> med Høinæsen,</l>
+<l>Som gaaer dagligdags paa To,</l>
+<l>Kalder sig et fornemt Væsen:</l>
+<l>"<hi rend="spaced">Menneske</hi>" med Ord og <hi rend="spaced">Tro</hi>,</l>
+<l>Naar han giøer og naar han gaber,</l>
+<l>Er han meer end andre <hi rend="spaced">Aber</hi>?</l>
+<l>Er hans Aande meer end <hi rend="spaced">Damp</hi>?</l>
+</lg> 
+<pb facs="1866_19_page0005.png"/>
+<fw type="pageNum">256</fw>
+<lg>
+<l>"Hvad er det man kalder <hi rend="spaced">Guder</hi>,</l>
+<l>Hvad er det man kalder <hi rend="spaced">Aand</hi>,</l>
+<l>Som skal løse alle Knuder</l>
+<l>Uden Mund og uden Haand!</l>
+<l>Hvad kan de mod "<hi rend="spaced">Dampens</hi>" Vætte</l>
+<l>Med et Aandepust udrette!</l>
+<l>Hvad er de mod Ilt og <hi rend="spaced">Brint</hi>!"</l>
+</lg>
+<lg>
+<l>Kun i Skoven, hvor end blusser</l>
+<l>Hjertets Ild af Aandens Gled,</l>
+<l>Aser vove mod Rimthusser</l>
+<l>Tvekamp end paa Liv og Død,</l>
+<l><hi rend="spaced">Odins Ord</hi> ved Balders-Baalet</l>
+<l>End, som i Vafthrudners-Maalet,</l>
+<l>Knuser Jettens Pandebrask!</l>
+</lg>
+<lg>
+<l>Ja, hvor <hi rend="spaced">Mennesket</hi> paa Jorden</l>
+<l>Vaagner op med Aand og Ord,</l>
+<l>Og hvor Hjertet, som i Norden,</l>
+<l>Slaaer for Daad af <hi rend="spaced">Asa-Thor</hi>,</l>
+<l>Indeklemte mellem Skjolde,</l>
+<l>Arrige som andre Trolde,</l>
+<l>Thusser springe maae i Flint.</l>
+</lg>
+<lg>
+<l>Thi kun hvor i Kæmpe-Kosten</l>
+<l>Larmen dønner høit i Sky,</l>
+<l>Som i Vaaren, saa i Høsten</l>
+<l>Troldene for Lynet flye,</l>
+<l>Maae bekiende, at ophøiet</l>
+<l><hi rend="spaced">Ordets Kraft</hi> er over <hi rend="spaced">Øiet</hi>,</l>
+<l><hi rend="spaced">Følelig</hi> som Tordenslag!</l>
+</lg> 
+<pb facs="1866_19_page0006.png"/>
+<fw type="pageNum">257</fw>
+<lg>
+<l>Ordet med sin Klang i Køsten,</l>
+<l>Med sin Fart til Hjertensgrund,</l>
+<l>Som en Lynilds-Fart fra Østen,</l>
+<l>Slag i Slag fra Mund til Mund,</l>
+<l>Det er Guddoms-Underværket</l>
+<l>Det er <hi rend="spaced">Folke-Kiendemærket</hi></l>
+<l>Mellem Dyr som mellem Steen.</l>
+</lg>
+<lg>
+<l>Mellem Jord og Himmel svinger</l>
+<l>Ordet sig af Munden ud,</l>
+<l><hi rend="spaced">Livet</hi>, som deraf udspringer,</l>
+<l>Har kun <hi rend="spaced">Mennesket</hi> af Gud,</l>
+<l>Deraf sig hos Mand og Kvinde</l>
+<l>Skal et Levnetsløb udspinde,</l>
+<l>Som til Maal har Evighed!</l>
+</lg>
+<lg>
+<l>Derfor ikke Bjergets Alder</l>
+<l>Eller Maanens første Ny</l>
+<l><hi rend="spaced">Tidens Fødsel</hi> Aanden kalder,</l>
+<l>Men Kraft-Ordets Klang i Sky,</l>
+<l>Med det Storværk Tid er givet,</l>
+<l>Og for Mennesket <hi rend="spaced">Ord-Livet</hi></l>
+<l>Er det aandelige Lys.</l>
+</lg>
+<lg>
+<l>Ja, Livs-Ordet er Nat-Lampen</l>
+<l>For vor Slægt, og ei for Dyr,</l>
+<l>I vor Aande har Ord-Dampen</l>
+<l>Magt og Mod som <hi rend="spaced">Thor</hi> og <hi rend="spaced">Tyr</hi>,</l>
+<l>Kan med Liv og Lys udrette</l>
+<l>Meer end hele Rummets Vætte</l>
+<l>Med sin Trældoms blinde Drift.</l>
+</lg> 
+<pb facs="1866_19_page0007.png"/>
+<fw type="pageNum">258</fw>
+<lg>
+<l>Uden "Ordet som det <hi rend="spaced">lyder</hi>,"</l>
+<l>Ord-Skrift er utænkelig,</l>
+<l>Bogstav-Skrift kun Ord betyder,</l>
+<l>Som kan <hi rend="spaced">hørlig</hi> nævne sig,</l>
+<l>Saa naar Ordet var forstummet,</l>
+<l>Ei i hele Verdens-Rummet</l>
+<l>Var et Glimt af Tanke-Lys.</l>
+</lg>
+<lg>
+<l>Eller kan selv Rummets Pave,</l>
+<l>Som fornægter Livets Ord,</l>
+<l>Uden Rest og Runestave</l>
+<l>Raabe ud sin Kløgt paa Jord?</l>
+<l>Eller kan en Tanke fades,</l>
+<l>Uden med en Lyd at medes</l>
+<l>I det Ord, som skaber Lys?</l>
+</lg>
+<lg>
+<l>Kun til Aand kan Ordet svare,</l>
+<l>Gaae i Hjertet ind og ud,</l>
+<l>Kun i Ordet <hi rend="spaced">aabenbare</hi></l>
+<l>Kan sig <hi rend="spaced">Menneske</hi> og <hi rend="spaced">Gud</hi>,</l>
+<l>Kun i Ord kan alt udtrykkes,</l>
+<l>Hvad vi troe og hvad os tykkes,</l>
+<l>Ord og Tanke gaaer i eet.</l>
+</lg>
+<lg>
+<l>Kun i Ord kan Tanker giemmes,</l>
+<l>Kun med Ord de gaae i Arv,</l>
+<l>Derved kun Oplysning fremmes</l>
+<l>Skridt for Skridt til Livets Tarv;</l>
+<l>Kun i <hi rend="spaced">Ordet</hi> Jorderige</l>
+<l>Fundet har en Himmel-Stige,</l>
+<l><hi rend="spaced">Slægten</hi> har et <hi rend="spaced">Levnetsløb</hi>!</l>
+</lg> 
+<pb facs="1866_19_page0008.png"/>
+<fw type="pageNum">259</fw>
+<lg>
+<l>Levnetsløbet i det Store,</l>
+<l>Stykket ud i Baner smaa,</l>
+<l>Hvor Livs-Ordet vi kan spore,</l>
+<l>Læres til vi at forstaae,</l>
+<l>Som en Livs-Vei over Døden,</l>
+<l>Giennem Nat til Morgenroden:</l>
+<l>Valhals-Vei til <hi rend="spaced">Gimleborg</hi>!</l>
+</lg>
+<lg>
+<l>Det er klarlig <hi rend="spaced">Norne-Dommen</hi>,</l>
+<l>Liv og Fred er Urdas Maal,</l>
+<l><hi rend="spaced">Verdand</hi> slaaer med Dødsord Bommen,</l>
+<l><hi rend="spaced">Skulda</hi> drikker Urdas Skaal,</l>
+<l>Eister Runer for Livs-Ordet,</l>
+<l>Som, hvor dybt det end er jordet,</l>
+<l>Staaer med Solen op igien.</l>
+</lg>
+<lg>
+<l>Derom <hi rend="spaced">Gladhjem</hi> s Haner gale</l>
+<l>Høit i Nordens <hi rend="spaced">Asamaal</hi>,</l>
+<l>Det er <hi rend="spaced">Odins</hi> mørke Tale</l>
+<l>Ved Nordlysets Baldersbaal,</l>
+<l>Det er Hjertets Toner ømme,</l>
+<l><hi rend="spaced">Freias</hi> gyldne Taare-Strømme,</l>
+<l>Morgenrødens Moderskiød!</l>
+</lg>
+<lg>
+<l>Ja, <hi rend="spaced">Livs - Ordet</hi> op af Døde</l>
+<l>Stod med ham, som kaldes ret</l>
+<l>"De Opstandnes Førstegrøde,"</l>
+<l>I sin Grav af Gud begrædt,</l>
+<l>I sit Ord til alle Sjæle</l>
+<l>Aandens Røst og Himlens Mæle,</l>
+<l>Selv det evige <hi rend="spaced">Guds-Ord</hi>!</l>
+</lg> 
+<pb facs="1866_19_page0009.png"/>
+<fw type="pageNum">260</fw>
+<lg>
+<l>Med hans Ord til hele Jorden</l>
+<l><hi rend="spaced">Aand</hi> og Liv udgaae paany,</l>
+<l>Som i Østen, saa i Norden</l>
+<l>Svinger Ordet sig i Sky,</l>
+<l>Saa sin Byrd det aabenbarer,</l>
+<l>Thi kun det tilhimmels farer,</l>
+<l>Som fra Himlen daled ned.</l>
+</lg>
+<lg>
+<l>Om <hi rend="spaced">Livs-Ordet</hi> i Høinorden</l>
+<l>Nu der Syn for Sagnet gaaer,</l>
+<l>Om Guds <hi rend="spaced">Forsyns</hi> Vei paa Jorden,</l>
+<l>Om Guds-Folkets Gyldenaar,</l>
+<l>Levnets-Løbet af Livs-Aanden</l>
+<l>Selv sig klarer efterhaanden</l>
+<l>I Guds-Ordets Middags-Lys!</l>
+</lg>
+<lg>
+<l><hi rend="spaced">Folke-Livet</hi>, fra de Døde</l>
+<l>Her opreist med Ungdoms-Mod,</l>
+<l>I sin anden Morgenrøde</l>
+<l>Træder Døden under Fod,</l>
+<l>Og dermed er Pant os givet</l>
+<l>Paa Opstandelse til Livet</l>
+<l>Af det hele Adams-Kiøn!</l>
+</lg>
+<lg>
+<l>Ja, Guds-Ordet i vor Midte</l>
+<l>Giør et Tidens Tegn fuldstort,</l>
+<l>Hvortil Speilet er at hitte</l>
+<l>Kun i Øst ved Nains Port,</l>
+<l>Hvor en <hi rend="spaced">Ungersvend</hi> fra Baaren</l>
+<l>Reiste sig og kyssed Taaren</l>
+<l>Fra sin gamle Moders Kind.</l>
+</lg> 
+<pb facs="1866_19_page0010.png"/>
+<fw type="pageNum">261</fw>
+<lg>
+<l>Og Guds-Ordet ved vor Side</l>
+<l>I sin egen Konge-Stad</l>
+<l>Gier et Tegn som rygtes vide</l>
+<l>Og gier <hi rend="spaced">Menigheden</hi> glad,</l>
+<l>Moder-Hjertet i Guds Rige,</l>
+<l>Moder til den <hi rend="spaced">tolvaars Pige</hi>,</l>
+<l>Som sad op ved Herrens Haand!</l>
+</lg>
+<lg>
+<l>Levnetsløbet i det Store,</l>
+<l>Giennem Slægtens Tusindaar,</l>
+<l>Længe nok var kun at spore</l>
+<l><hi rend="spaced">Til Utidens</hi> Ormegaard;</l>
+<l>Under alle Himmel-Egne</l>
+<l>For udlevet var at regne</l>
+<l><hi rend="spaced">Folke-Livet</hi> trindt paa Jord!</l>
+</lg>
+<lg>
+<l>Asken syntes nys forbandet</l>
+<l>Til at visne og gaae ud,</l>
+<l>Atter dog, af <hi rend="spaced">Norner</hi> vandet,</l>
+<l>Skyder nu den friske Skud;</l>
+<l>Dagligdags dog meer den frønnes,</l>
+<l>Og om end den synlig grønnes,</l>
+<l>Øxen er ved Roden lagt.</l>
+</lg>
+<lg>
+<l><hi rend="spaced">Folke-Livet</hi> trindt paa Jorden,</l>
+<l>Hvor engang det havde Vaar,</l>
+<l>Faaer, saavelsom i vort Norden,</l>
+<l>Høst i samme <hi rend="spaced">Hundredaar</hi>;</l>
+<l>Men, ifølge Himmel-Røsten,</l>
+<l>Alt som Sæden, saa er Hesten,</l>
+<l>Veirets Frugt er Hvirvelvind.</l>
+</lg> 
+<pb facs="1866_19_page0011.png"/>
+<fw type="pageNum">262</fw>
+<lg>
+<l>De, som saaed Støv i Luften</l>
+<l>Til et himmelhøit Kastel,</l>
+<l>De kun høste med Fornuften</l>
+<l>Rulle-Vei med Damp til Hel,</l>
+<l>Det er, hvad de blinde Kræfter</l>
+<l>Pege paa og hige efter,</l>
+<l>Det er deres Dødning-Dands.</l>
+</lg>
+<lg>
+<l>Men hos <hi rend="spaced">Folket i Høinorden</hi></l>
+<l>Nu der Syn for Sagnet gaaer</l>
+<l>Om Guds <hi rend="spaced">Forsyns</hi> Vei paa Jorden</l>
+<l>Og Guds-Folkets Gyldenaar;</l>
+<l>Levnetsløbet med Livs-Aanden</l>
+<l>Her sig klarer efterhaanden</l>
+<l>I Guds-Ordets Middags-Lys!</l>
+</lg>
+<lg>
+<l><hi rend="spaced">Tidens Fødsel</hi>, Tidens <hi rend="spaced">Fylde</hi>,</l>
+<l>Derpaa giætted Nordens Aand,</l>
+<l>Derom han, hvem Engle hylde,</l>
+<l>Giver Svar fra første Haand;</l>
+<l>I Høinorden findes øre</l>
+<l>Til om Tidens Løb at høre</l>
+<l>Klare Ord af Sandheds Mund.</l>
+</lg>
+<lg>
+<l>Livets Kilde, Livets Krone,</l>
+<l>Kiærlighedens Dronning-Stol,</l>
+<l>Skjult i Hjertedybets Tone</l>
+<l>For <hi rend="spaced">Valguders</hi> Vinter-Sol,</l>
+<l><hi rend="spaced">For</hi> den græd i <hi rend="spaced">danske Aarer</hi></l>
+<l><hi rend="spaced">Freia</hi> hemmelig Guld-Taarer,</l>
+<l>Taare-Sæd gav gylden Hast!</l>
+</lg> 
+<pb facs="1866_19_page0012.png"/>
+<fw type="pageNum">263</fw>
+<lg>
+<l>Her paa <hi rend="spaced">Kæmpe-Tungemaalet</hi></l>
+<l>Klarer sig hver Heltedaad,</l>
+<l>Her paa <hi rend="spaced">Hjerte-Modersmaalet</hi></l>
+<l>Købes Hjertets skjulte Baad,</l>
+<l>Klarer sig paa <hi rend="spaced">jordisk</hi> Maade</l>
+<l>Kjærlighedens <hi rend="spaced">Himmel-Gaade</hi>:</l>
+<l>Aandens Frihed, Hjertets Fred!</l>
+</lg>
+<lg>
+<l>Først og sidst sig klarer <hi rend="spaced">Ordet</hi>,</l>
+<l>Aandens Tolk og Kvindens Sæd,</l>
+<l>End ufødt med Kraft omgjordet,</l>
+<l>Men i Moder-Skiødet spæd,</l>
+<l>Som vi nu til Verdens Ende</l>
+<l>Glade troe og frit bekiende</l>
+<l>Om Guds-Ordet, som blev Kiød!</l>
+</lg>
+<lg>
+<l>Sagnet gik for Vind og Vove</l>
+<l>Her paa Bølgen under Ø</l>
+<l>Om et Bur i <hi rend="spaced">Sællands</hi> Skove</l>
+<l>Ved den stille, dybe Sø,</l>
+<l>Hvor i Asernes <hi rend="spaced">Høialder</hi></l>
+<l>Mad til Lægedom for <hi rend="spaced">Balder</hi></l>
+<l>Laved <hi rend="spaced">Norne-Søstre</hi> tre.</l>
+</lg>
+<lg>
+<l>Nu paa Grund er Sagnet drevet,</l>
+<l>Maa behandles som et Vrag,</l>
+<l>Thi sin Helsot overlevet</l>
+<l>Balder har den Dag idag,</l>
+<l>Ladet <hi rend="spaced">Gevars</hi> Datter fare,</l>
+<l>Ægtet <hi rend="spaced">Gefion</hi> den klare,</l>
+<l>Enke-Dronning efter <hi rend="spaced">Skjold</hi>!</l>
+</lg> 
+<pb facs="1866_19_page0013.png"/>
+<fw type="pageNum">264</fw>
+<lg>
+<l>Om med <hi rend="spaced">Gelder</hi> da end <hi rend="spaced">Høder</hi></l>
+<l>Harmelig giør fælles Sag,</l>
+<l>Brat han for sin Kryhed beder,</l>
+<l>Stryge maa sit Fællesflag;</l>
+<l>Thi, hvor tit end Verden skifter,</l>
+<l>Atter dog sit Kys tilvifter</l>
+<l><hi rend="spaced">Lykke-Disen Dannebrog</hi>!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

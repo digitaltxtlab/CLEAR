@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Dansk Kirketidende.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-25"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="008"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1857">1857</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1857_8_page0001.png"/>
+			<fw type="pageNum">365-366</fw>
+				<docTitle>
+	<titlePart type="main">Dansk Kirketidende.<lb/></titlePart>
+	<titlePart type="sub"><lb/></titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<epigraph>
+<p>Indhold: N. F. S. Grundtvig: Det kristelige Skjalde-Folk. — P. Chr. Kirkegaard: Sendebrev til menige Kristne i Aalborg Stift og to Smaadigte. — Bønskrivelse fra Paris. — Udnævnelser, Entledigelse og ledige Embeder.</p>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition>Pindse Sondag den 31 Maj.</docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace></pubPlace>.
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Det Christelige Skjalde-Folk.</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">S</hi>kjalde-Kongen fra Fuglesang,</l>
+<l>Skytten med straalende Bue,</l>
+<l>Vinge-Smeden fra Solevang,</l>
+<l>Beller til Rosen paa Tue,</l>
+<l>Han, som os aander Skjaldskabet paa;</l>
+<l>Hvor er hans Hjem under Skyerne blaa?</l>
+<l>Hvad er hans Navn under Solen?</l>
+</lg>
+<lg>
+<l>Græker-Drømmen om Letos Son,</l>
+<l>Ham, som al Verden udfritter,</l>
+<l>Ham, som byder paa Engen grøn</l>
+<l>Muser til Dands med Chariter,</l>
+<l>Blomsternes Trom fra Jordlivets Vaar</l>
+<l>Drømmes igjen hvert evige Aar,</l>
+<l>Voxer dog aldrig fra Vuggen.</l>
+</lg>
+<lg>
+<l>Gothers Gaade om <hi rend="spaced">Hlidskjalvs Drot</hi>,</l>
+<l>Stamfader til alle Skjalde,</l>
+<l>Bølgeridder, hvor Hav er blaat,</l>
+<l>Seirer, hvor Heltene falde,</l>
+<l>Kæmpernes Gaade høiest i Nord,</l>
+<l>Den bliver aldrig lille paa Jord,</l>
+<l>Rækker dog ikke til Himlen.</l>
+</lg>
+<lg>
+<l>Konge-Skjalden fra Bethlehem,</l>
+<l>Hyrden, som brodes med Bjørnen,</l>
+<l>Indtog holdt i Jerusalem,</l>
+<l>Stak saa i Sky alt som Ornen,</l>
+<l>Efter hans Noder Orglerne gaae,</l>
+<l>Jøder hans Sprog dog ikke forstaae,</l>
+<l>Dove er de for Guld-Harpen.</l>
+</lg>
+<lg>
+<l>Davids-Sønnen fra Bethlehem,</l>
+<l>Skytten med Ord som Lysstraaler,</l>
+<l>Arilds-Kongen i Tonehjem,</l>
+<l>Som Veier Aand i Guldskaaler,</l>
+<l><hi rend="spaced">Christus</hi>, see han er Skjaldenes Drot,</l>
+<l><hi rend="spaced">Urdavælds</hi> Borg er Sangkongens Slot,</l>
+<l>Gaaden er giættet i Norden!</l>
+</lg>
+<lg>
+<l><hi rend="spaced">Skjalde-Kongen fra Bethlehem</hi></l>
+<l>Pustede Liv i det Døde,</l>
+<l>Holdt sit Indtog i Aanders Hjem,</l>
+<l>Krandset med Roserne rode;</l>
+<l>Skiønheden hans er Rosernes lig,</l>
+<l>Bøier for den ei Aanderne sig,</l>
+<l>Brat da forbryde de Livet.</l>
+</lg>
+<lg>
+<l>Skjalde-Kongen fra Gyldenskriin</l>
+<l>Aandede ned paa det Lave,</l>
+<l>Duften, som af den sode Viin,</l>
+<l>Fulgde med Himmelens Gave,</l>
+<l>Skabt der da blev af Skjalde et Folk,</l>
+<l>Som har Guds Aand til Taler og Tolk,</l>
+<l>Høisang til Sognedags-Mæle.</l>
+</lg>
+<lg>
+<l><hi rend="spaced">Christen-Folket</hi> i hver en Vraa,</l>
+<l>Det er <hi rend="spaced">Aands-Folket af Skjalde</hi>,</l>
+<l>Billed-Sproget de nynne paa,</l>
+<l>Naar de som Rollinger talle,</l>
+<l>Dem er det hele <hi rend="spaced">Menneske-Liv</hi></l>
+<l>Skabelse fiin af Gudsmundens Bliv,</l>
+<l>Lignelseviis et <hi rend="spaced">Guds-Rige</hi>.</l>
+</lg> 
+<pb facs="1857_8_page0002.png"/>
+<fw type="pageNum">367-368</fw>
+<lg>
+<l><hi rend="spaced">Hyrde-Livet</hi> med Blomster-Kaar</l>
+<l>Skinner i Skjaldenes Rige,</l>
+<l>Billed-Sproget er som en Hjord,</l>
+<l>Fottet af Skjalde tillige,</l>
+<l>Skjaldenes Drot er Hyrden saa god,</l>
+<l>Som for sin Hjord udgyder sit Blod,</l>
+<l>Giver deraf den at drikke.</l>
+</lg>
+<lg>
+<l><hi rend="spaced">Vingaards-Røgten</hi> i Soelskins-Land</l>
+<l>Yndeligt Speil er for Skjalde,</l>
+<l>Skjaldskabs Gud er en Vingaardsmand,</l>
+<l>Aanden hans Foged vi kalde,</l>
+<l>Skjaldenes Drot er Vinstokken lig,</l>
+<l>Drotten sit Folk indpoder i sig,</l>
+<l>Fælles er de om Vinhosten.</l>
+</lg>
+<lg>
+<l>Navnet <hi rend="spaced">Fader</hi> og Navnet Søn,</l>
+<l><hi rend="spaced">Herre og Tjener</hi> tillige,</l>
+<l>Tanken forer i Lys og Løn</l>
+<l>Opad den himmelske Stige;</l>
+<l><hi rend="spaced">Konninge-Daad</hi> og <hi rend="spaced">Bondemands-Id</hi>,</l>
+<l>Sæd og Indhøstning, alt i fin Tid,</l>
+<l>Tjener til Spejl for Guds-Riget.</l>
+</lg>
+<lg>
+<l><hi rend="spaced">Fisker-Livet</hi> med Net og Vaad,</l>
+<l><hi rend="spaced">Pillegrims-Færden</hi> med Fare,</l>
+<l><hi rend="spaced">Kiøbmands-Bruget</hi> med kloge Raad,</l>
+<l>Helst med de dyreste Vare,</l>
+<l><hi rend="spaced">Styrmandens</hi> Nod og <hi rend="spaced">Pengemænds</hi>Sorg,</l>
+<l><hi rend="spaced">Bygmesterskab</hi> ved Hytte og Borg,</l>
+<l>Alt er til Lignelse blevet.</l>
+</lg>
+<lg>
+<l><hi rend="spaced">Barsel-Kvinden</hi> har Billedvægt,</l>
+<l>Tynger for Glæden til Seier;</l>
+<l>Kvinden laver i Speil til Bægt,</l>
+<l>Leder om Guld, mens hun seier;</l>
+<l>Laver hun Mad og dækker hun Bord,</l>
+<l>Modes i Speilet Himmel og Jord,</l>
+<l>Bryllup der er i Guds Rige.</l>
+</lg>
+<lg>
+<l><hi rend="spaced">Brude-Piger</hi> med Blus og Krands,</l>
+<l>Er ikke heller forglemte;</l>
+<l><hi rend="spaced">Borne-Flokke</hi> med Sang og Dands</l>
+<l>Modes paa Torvet og skiemte;</l>
+<l>Kvinden i Bon, som bliver ei træt,</l>
+<l>For af Uretten hende fleer Ret,</l>
+<l>Det er en Lignelses-Perle.</l>
+</lg>
+<lg>
+<l>Barnet over Guds Billedbog</l>
+<l>Svæver med Morgenrods-Vinger,</l>
+<l>Barnligt klinger vort Billedsprog,</l>
+<l>Er dog saa stærkt som Guds Finger,</l>
+<l>Borneværk ligt, Guds Gierninger dog</l>
+<l>Saaes, hvor Guds Barn med Vingerne slog,</l>
+<l>Helt er fra Vuggen Gudsbarnet!</l>
+</lg>
+<lg>
+<l>Vaabenskifte og Seierskrig,</l>
+<l>Kampen med Vind og med Vove,</l>
+<l>Derom synger saa lystelig</l>
+<l>Fuglene i vore Skove,</l>
+<l><hi rend="spaced">Ragnaroks-Kamp</hi> i Høinordens Stil,</l>
+<l>Derom af Hjertet synger med Smil</l>
+<l>Modre for Heltenes Vugge.</l>
+</lg>
+<lg>
+<l>Skjalde-Kongen fra Bethlehem</l>
+<l>Stikker ei Sværdet i Skeden,</l>
+<l>For i Støvet, som i sit Hjem,</l>
+<l>Aanden kan hvile med Freden,</l>
+<l>Hvile alt som i Sangen det lød:</l>
+<l>Hvil dig nu, Jord, i Himmelens Skjød!</l>
+<l>Stov, sid hos Kongen histoppe!</l>
+</lg>
+<lg>
+<l>Skjalde-Folket i hver en Vraa</l>
+<l>Synger om Seiren og kæmper,</l>
+<l>Verden spotter, og trodser paa,</l>
+<l>Ordet ei Oprøvet dæmper;</l>
+<l>Ikke den veed, at Jorden sin Grund</l>
+<l>Hemmelig har i Hjerte og Mund,</l>
+<l>Lader i dem sig indtage.</l>
+</lg>
+<lg>
+<l>Skjalde-Kongen fra Bethlehem</l>
+<l>Kommer, naar Aanden ham kalder,</l>
+<l>Forer saa Bruden med sig hjem,</l>
+<l>Glad følger <hi rend="spaced">Nanna</hi> sin <hi rend="spaced">Balder</hi>,</l>
+<l>Ager med Fryd i Rodegulds-Karm,</l>
+<l>Har da med eet forvundet sin Harm,</l>
+<l>Lovsynger Drotten for evig.</l>
+</lg>
+<lg>
+<l>Troskab, hun er den væne Mo,</l>
+<l>Som mellem Rose og Lilje,</l>
+<l>Blomstrer yndig paa Verdens Øe,</l>
+<l>Dandser med Engle paa Tilje,</l>
+<l>Skjaldenes Drot med Ord og Aand</l>
+<l>Fæsted til Brud den Lilievaand,</l>
+<l><hi rend="spaced">Livskronen</hi> med sig at bære.</l>
+</lg> 
+<pb facs="1857_8_page0003.png"/>
+<fw type="pageNum">369</fw>
+<lg>
+<l><hi rend="spaced">Christus</hi>, han er den Skjalde-Drot,</l>
+<l>Som har Aands-Ordet at fore,</l>
+<l><hi rend="spaced">Troskab</hi> kiender hans Røst saa godt,</l>
+<l>Hun ingen anden vil høre;</l>
+<l>I hendes Hjerte lignelseviis</l>
+<l>Røsten har skabt et sandt Paradis,</l>
+<l>Kommer end seent det <hi rend="spaced">tilsyne</hi>!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

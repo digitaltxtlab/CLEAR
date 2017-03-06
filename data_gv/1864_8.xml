@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Budstikke i høinorden</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2009-12-20"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="008"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1864">1864</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1864_8_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Budstikke i høinorden<lb/></titlePart>
+	<titlePart type="sub"></titlePart>
+</docTitle>
+<byline>fra<lb/>
+	<docAuthor>Nik. Fred. Sev. Grundtvig.</docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace>Kiøbenhavn.</pubPlace>.<lb/>Karl Schønbergs forlag.<lb/>G. S. Wibes Bogtrykkeri.<lb/>
+<fw type="graphic"/>
+<docDate>1864.</docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<pb facs="1864_8_page0002.png"/>
+<fw type="pageNum"></fw> 
+<pb facs="1864_8_page0003.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l><hi rend="initial">N</hi>u <hi rend="spaced">Tyrkens</hi> Heste alt for godt</l>
+<l>Og alt for let, til Danmarks Spot,</l>
+<l>I <hi rend="spaced">Viborg-Sø</hi> er vandet*).</l>
+<l>Og som for Verden det seer ud,</l>
+<l>Har Bombers og Granaters Gud</l>
+<l>Nu Blod med Tyrken blandet.</l>
+</lg>
+<lg>
+<l>Var da vor Gud ei rigtig stor</l>
+<l>Alt som i Himle, saa paa Jord,</l>
+<l>Da var vi nu forlorne,</l>
+<l>Ja, overgivne uden Haab,</l>
+<l>Med Tungemaal og Tro og Daab,</l>
+<l>Til Slagterbænkens <hi rend="spaced">Norne</hi>;</l>
+</lg>
+<p>*) Det gamle Sagn om Vandingen af Tyrkens Heste i <hi rend="spaced">Viborg-Sø</hi>, har <hi rend="spaced">Preuseren</hi> vist nu bogstavelig opfyldt.</p>
+<pb facs="1864_8_page0004.png"/>
+<fw type="pageNum">4</fw>
+<lg>
+<l>Men Gud skee Lov! Gud fra igaar,</l>
+<l>Som fredet har i Tusindaar</l>
+<l>Om gamle Danmarks Rige,</l>
+<l>Ei blot idag, imorgen med</l>
+<l>Han os vil staae i <hi rend="spaced">Høvdings Sted</hi>,</l>
+<l>I <hi rend="spaced">Faderens</hi> tillige.</l>
+</lg>
+<lg>
+<l>Som Dugg for Soel, opløst i Glands,</l>
+<l>Forsvinde skal ved Smilet Hans</l>
+<l>Nu hver er bitter Taare,</l>
+<l>Og Frygten skal for Haabet flye</l>
+<l>Til Fiendens Leir og Pralets Vy</l>
+<l>At yngle der adaare!</l>
+</lg>
+<lg>
+<l>Som Æspeløv for Vinde just</l>
+<l>Saa dirre for Guds Aandepust</l>
+<l>Maa Himmelen og Jorden,</l>
+<l>Al anden Stormagt er mod Hans</l>
+<l>Som Bakke-Troldes Dødning-Dands</l>
+<l>Mod <hi rend="spaced">Almagts</hi> Lyn og Torden!</l>
+</lg>
+<lg>
+<l>Bevise skal Guds Underværk,</l>
+<l>Hans Haand er høi, Hans Arm er stærk,</l>
+<l>Alt som i <hi rend="spaced">Moses</hi> Dage,</l>
+<l>Da midtveis i det Rode Hav</l>
+<l><hi rend="spaced">Ægypterne</hi> fandt deres Grav,</l>
+<l>Kun Navnet blev tilbage.</l>
+</lg> 
+<pb facs="1864_8_page0005.png"/>
+<fw type="pageNum">5</fw>
+<lg>
+<l>Ja, vort <hi rend="spaced">Høinordens</hi> Folkefærd</l>
+<l>Som <hi rend="spaced">Israels</hi> saa noget nær,</l>
+<l>Med Trældom er omspændte,</l>
+<l>Saa Birtings-Badets røde Hav</l>
+<l>Maa vorde vore Fienders Grav,</l>
+<l>Om <hi rend="spaced">Frihed</hi> er ivente.</l>
+</lg>
+<lg>
+<l>Vi har ei blot et Fosterland</l>
+<l>Ved Østersø og Vesterstrand</l>
+<l>At værge alle Dage,</l>
+<l>Vi har i <hi rend="spaced">aandelig</hi> Forstand</l>
+<l>Et deiligt, os forjættet Land</l>
+<l>At gjæste og indtage.</l>
+</lg>
+<lg>
+<l>Det plages, pløjes som et Rov</l>
+<l>Med Torve-Spade, Trælle-Plov,</l>
+<l>Haarkløveri til Vunden,</l>
+<l>Thi <hi rend="spaced">Aanden</hi> der er fat i Band</l>
+<l>Af grov og <hi rend="spaced">kjødelig</hi> Forstand</l>
+<l>Paa <hi rend="spaced">Haanden</hi> og paa <hi rend="spaced">Munden</hi>.</l>
+</lg>
+<lg>
+<l>Det er <hi rend="spaced">Latiner-Skolens</hi> Vart,</l>
+<l>Som Slangen træsk, som Døden stærk,</l>
+<l>Som Helved uden Ende,</l>
+<l>Den fanger, som en gammel Ræv,</l>
+<l>Aands-Fluer i sin Spindelvæv</l>
+<l>Som ei dens Løndom kjende.</l>
+</lg> 
+<pb facs="1864_8_page0006.png"/>
+<fw type="pageNum">6</fw>
+<lg>
+<l>Og <hi rend="spaced">Tysken</hi>, forn den, sig tilpas,</l>
+<l>Har dreiet og oplyst med Gas,</l>
+<l>Han er nu <hi rend="spaced">Skolemester</hi></l>
+<l>Og giør som Ærke-Jesuit</l>
+<l>Til <hi rend="spaced">Verdens-Lys</hi> Begrebet sit,</l>
+<l>Som Himlens Rum forpester.</l>
+</lg>
+<lg>
+<l>Ja, <hi rend="spaced">Tyskhed</hi> som Ægypti Land</l>
+<l>Den er i <hi rend="spaced">aandelig Forstand</hi></l>
+<l>Netop de <hi rend="spaced">Dødes</hi> Rige,</l>
+<l>Thi Livets Vugge, Livets Svøb,</l>
+<l>Og Mandhjems store Levnetsløb</l>
+<l>Bespotter den tillige.</l>
+</lg>
+<lg>
+<l>Al tyst Oplysning er af Luft,</l>
+<l>Sin egen Gud er <hi rend="spaced">tysk Fornuft</hi>,</l>
+<l>Og lyst den giør derefter;</l>
+<l>Til Selv-Ophøielse og Pral,</l>
+<l>Og til sig selv at gjøre gal,</l>
+<l>Kun dertil har den Kræfter.</l>
+</lg>
+<lg>
+<l>Den er et Ord foruden <hi rend="spaced">Mund</hi>,</l>
+<l>Den er et Mørke uden <hi rend="spaced">Bund</hi>,</l>
+<l>Et Lys af <hi rend="spaced">Moder-Mørke</hi>,</l>
+<l>Som praler med et Klarheds Skin,</l>
+<l>Af Mørket ud, i Mørket ind,</l>
+<l>Saa klart som Regn af Torkel</l>
+</lg> 
+<pb facs="1864_8_page0007.png"/>
+<fw type="pageNum">7</fw>
+<lg>
+<l>Den er det magtesløse „Bliv!"</l>
+<l>Den er det <hi rend="spaced">hjerteløse</hi> Liv,</l>
+<l>Med Grund-Begreb af Luften,</l>
+<l>Det er den aandeløse Aand,</l>
+<l>Den <hi rend="spaced">ubegribelige</hi> Haand,</l>
+<l>Det er paa <hi rend="spaced">Tysk</hi>: Fornuften.</l>
+</lg>
+<lg>
+<l>For den har <hi rend="spaced">Strid</hi> kun Liv i Gjem,</l>
+<l>For den er <hi rend="spaced">Døden Fredens</hi> Hjem,</l>
+<l>Den „<hi rend="spaced">Liv og Fred</hi>" fornægter,</l>
+<l>For den er <hi rend="spaced">Frihed</hi> kun en Trods</l>
+<l>Mod <hi rend="spaced">Kroppen</hi> og mod Gud med os,</l>
+<l>Som med sin Skygge fægter.</l>
+</lg>
+<lg>
+<l>Men „<hi rend="spaced">Liv og Fred</hi>" er Aandens Sands,</l>
+<l>Som hos Sanct <hi rend="spaced">Povel</hi>, hertillands,</l>
+<l>Vi kun for dem vil strides,</l>
+<l>Og kun i <hi rend="spaced">Friheds</hi> Aandedræt</l>
+<l>Vi føler, kiækt og lyst og let</l>
+<l>Kan leves og kan lides.</l>
+</lg>
+<lg>
+<l>Det gode Land med Livets Ord</l>
+<l>I Aandens Verden her paa Jord,</l>
+<l>Som nu vi efterhige,</l>
+<l>Det flyder i sin Frugtbarhed</l>
+<l>Med Melk og Honning, Liv og Fred,</l>
+<l>Har Friheds Lys tillige.</l>
+</lg> 
+<pb facs="1864_8_page0008.png"/>
+<fw type="pageNum">8</fw>
+<lg>
+<l>Og <hi rend="spaced">Friheds</hi> Aand fra Arildstid</l>
+<l>Har lovet os at føre did,</l>
+<l>Naar vi kom til Skiels-Alder,</l>
+<l>Der har og ved det <hi rend="spaced">døde Hav</hi></l>
+<l>Vor Oldefader end sin Grav,</l>
+<l>Som Runemo vi kalder.</l>
+</lg>
+<lg>
+<l>Ja, <hi rend="spaced">Asamaal</hi> og <hi rend="spaced">Gylfeleg</hi>,</l>
+<l>Og Skalda, baade rød og bleg,</l>
+<l>Er Kæmpeaande-Graven,</l>
+<l>Og <hi rend="spaced">Sturlesens</hi> og Saxes Skrift</l>
+<l>Om Høinordboernes Bedrift</l>
+<l>Er Bauta-Runestaven.</l>
+</lg>
+<lg>
+<l>I Aandelivets Hungersnød</l>
+<l>Vi kjøbte dyrt os Havrebrod</l>
+<l>Paa <hi rend="spaced">Tysk</hi> for meer end Penge:</l>
+<l>For <hi rend="spaced">Nordens</hi> Tungemaal og Sang,</l>
+<l>For Odins høie Tankegang</l>
+<l>Og Kæmpelivets Gænge!</l>
+</lg>
+<lg>
+<l>Deraf den <hi rend="spaced">Løgn</hi> drog Tysken ud,</l>
+<l>Vi er hans Trælle, han vor Gud,</l>
+<l>Ei yttre maae selv Længsel</l>
+<l>Vi efter Arildstidens Syn</l>
+<l>Med <hi rend="spaced">Freias</hi> Sang og <hi rend="spaced">Mjølners</hi> Lyn,</l>
+<l>Som sprænger Tankens Fængsel.</l>
+</lg> 
+<pb facs="1864_8_page0009.png"/>
+<fw type="pageNum">9</fw>
+<lg>
+<l>I <hi rend="spaced">Danmark, Freias</hi> Folkevang,</l>
+<l>Med hendes Nattergale-Sang</l>
+<l>I Bøgelunds Skjærsommer,</l>
+<l>Der Længselen dog blev saa stor,</l>
+<l>At den brød ud i stærke Ord</l>
+<l>Og faure Rosensblommer!</l>
+</lg>
+<lg>
+<l>Det hørte Tyskeren i <hi rend="spaced">Hel</hi>,</l>
+<l>Da nede ved hans Grændseskiel</l>
+<l>Det lydt blev eftersunget,</l>
+<l>I <hi rend="spaced">Rødding</hi> og paa <hi rend="spaced">Skamlings-Høi</hi>,</l>
+<l>Ja, selv til <hi rend="spaced">Slien Ordet</hi> fløi</l>
+<l>Paa <hi rend="spaced">Dansk</hi> med Kraft udtunget.</l>
+</lg>
+<lg>
+<l>Som <hi rend="spaced">Grændel</hi> med fin Trolde-Sorg</l>
+<l>Ved Harpeslag paa <hi rend="spaced">Hjerteborg</hi></l>
+<l>Var ved i Flint at springe,</l>
+<l>Saa <hi rend="spaced">Tyskeren</hi>, da, uden Bog</l>
+<l>For <hi rend="spaced">Øren Livets</hi> Skolesprog</l>
+<l>Paa <hi rend="spaced">Dansk</hi> tog til at ringe.</l>
+</lg>
+<lg>
+<l>Ja, <hi rend="spaced">Tyskeren</hi> blev tordengal</l>
+<l>Paa <hi rend="spaced">Bloksbjerg</hi> og i <hi rend="spaced">Sneppedal</hi>*),</l>
+<l>Undsagde Danmarks Rige,</l>
+<l>Og raser nu med Ild og Sværd,</l>
+<l>For <hi rend="spaced">Aanden</hi> ei en Bonne værd,</l>
+<l>Men fælt haandgribelige.</l>
+</lg>
+<p>*) <hi rend="spaced">Schnepfenthal </hi> med den udbasunede Skole for <hi rend="spaced">Almeen-Dannelse</hi> paa <hi rend="spaced">Højtysk</hi>.</p>
+<pb facs="1864_8_page0010.png"/>
+<fw type="pageNum">10</fw>
+<lg>
+<l>Udflette vil af Folketal</l>
+<l>Han <hi rend="spaced">Danskerne</hi> med Tordenskrald</l>
+<l>Og Helvedes-Maskiner,</l>
+<l>Han vier ind med Brand og Baal</l>
+<l>Vort Lykkeskib, vort Modersmaal</l>
+<l>Til alle Helveds Piner.</l>
+</lg>
+<lg>
+<l>Det <hi rend="spaced">Danske Oprør</hi>, siger han,</l>
+<l>Er kun ved en Belejrings-Stand</l>
+<l>I Fødselen at kvæle,</l>
+<l>Derfor maa vige Ret og Skiel,</l>
+<l>Og <hi rend="spaced">Dansken</hi>, ja, fra <hi rend="spaced">Als til Hel</hi></l>
+<l>Den fægte maa med Hæle.</l>
+</lg>
+<lg>
+<l>Nu, Gud skee Lov! til gale Folk,</l>
+<l>Som Aand vil dræbe med en Dolk,</l>
+<l>Har Gud en Spænde-Trøje,</l>
+<l>Den hedder Lungestag og Død,</l>
+<l>Og den, det har flet ingen Nød,</l>
+<l>Faaer Preuseren at døje;</l>
+</lg>
+<lg>
+<l>Men ligefuldt det var en Vee,</l>
+<l>Om Nordens Kæmper kunde see</l>
+<l>Urørt paa Danmarks Kvide;</l>
+<l>Da havde Lykken de forspildt</l>
+<l>At sammensmelte <hi rend="spaced">Kjækt</hi> og <hi rend="spaced">Mildt</hi></l>
+<l>Her under Nørrelide;</l>
+</lg> 
+<pb facs="1864_8_page0011.png"/>
+<fw type="pageNum">11</fw>
+<lg>
+<l>Da havde <hi rend="spaced">Asernes</hi> Stormagt</l>
+<l>I Vanvid brudt den gamle Pagt</l>
+<l>Med <hi rend="spaced">Vane-Folkets</hi> Dise,</l>
+<l>Paa Asamaalets Vintervei</l>
+<l>Da føltes Sommer-Varmen ei</l>
+</lg>
+<lg>
+<l>Af <hi rend="spaced">Hjertets</hi> Kæmpevise.</l>
+<l>Saa springer da til <hi rend="spaced">Jylland</hi> brat,</l>
+<l>Lukt over hele <hi rend="spaced">Kattegat</hi>,</l>
+<l>I <hi rend="spaced">Gøte-Rigets</hi> Løver!</l>
+<l>Høinordens Løve-Kuld i Pagt</l>
+<l>Maa paa den store Ulve-Jagt</l>
+<l>Aflægge Manddoms-Prøver.</l>
+</lg>
+<lg>
+<l>Da Livet <hi rend="spaced">Gøte-Helten</hi> bold</l>
+<l>I Skjoldung-Hall, mod <hi rend="spaced">Grændel Trold</hi></l>
+<l>Alene, turde vove,</l>
+<l>Os <hi rend="spaced">Daner Hjælp</hi> i al vor Nød,</l>
+<l>Til Oste-Kraften var uddød,</l>
+<l>Han hørtes da at love;*)</l>
+</lg>
+<lg>
+<l>Saa høit han skatted <hi rend="spaced">Hrodgars</hi> Priis</l>
+<l>Og Daners Tak paa kiærlig Viis</l>
+<l>Og deres Barne-Glæde,</l>
+<l>Og deres faure Skjalde-Sang,</l>
+<l>Som over alle Bjerge svang</l>
+<l>Sig op til <hi rend="spaced">Norners</hi> Sæde!</l>
+</lg>
+<p>*) Det staaer tydelig at læse i Bjovulfs-Drapen.</p>
+<pb facs="1864_8_page0012.png"/>
+<fw type="pageNum">12</fw>
+<lg>
+<l>Om nu igien saa haardt vi sov,</l>
+<l>At Danmarks Roes blev Tyskens Rov,</l>
+<l>Og Skjoldung-Hallen øde,</l>
+<l>Saa gav dog <hi rend="spaced">Gøters</hi> Løvemod</l>
+<l>For Søvnighed os altid Bod,</l>
+<l>Naar Løve-Brøl gjenløde!</l>
+</lg>
+<lg>
+<l>Og <hi rend="spaced">Norges</hi> Løve „Huggetand"</l>
+<l>Fra Throndhjem og fra Hordeland</l>
+<l>Til Kampen vel udstyret,</l>
+<l>Svøm over Svælget i en Hast,</l>
+<l>Spring dristig paa og bid dig fast</l>
+<l>I Lysken paa Udyret!</l>
+</lg>
+<lg>
+<l>Vi har i fire Hundredaar</l>
+<l>Deelt blide og deelt bange Kaar,</l>
+<l>Som Tvilling-Folk og Rige,</l>
+<l>Lad ei det spørges, at den Dag,</l>
+<l>Da klart det gjælder stilles Sag,</l>
+<l>Vi To hinanden svige!</l>
+</lg>
+<lg>
+<l>Du <hi rend="spaced">Jyske</hi> Løve mørkerød!</l>
+<l>Reis ogsaa dig, kun løjet død,</l>
+<l>Til Kamp for Lande-Freden!</l>
+<l>Da skaades stal, som aldrig før,</l>
+<l>Fra <hi rend="spaced">Grind-Aa</hi> ned til <hi rend="spaced">Ægers Dør</hi>*)</l>
+<l>En Ulvejagt paa Heden.</l>
+</lg>
+<p>*) Grenaa er Grind-Aa (Dørsaa) og Asgers Dor er Ciderens gamle Navn i Norden.</p>
+<pb facs="1864_8_page0013.png"/>
+<fw type="pageNum">13</fw>
+<lg>
+<l>Da støves op, som det sig bør,</l>
+<l>Alt hvad der gaaer paa Ulve-Kløer,</l>
+<l>Er det end spæde Hvalpe,</l>
+<l>I Lammeskind, i Løvehud,</l>
+<l>Alt hvad der tuder fejes ud</l>
+<l>I <hi rend="spaced">Cideren</hi> at skvalpe.</l>
+</lg>
+<lg>
+<l>Først da kan <hi rend="spaced">Frodes</hi> Hovedguld</l>
+<l>Uranet skinne over Muld</l>
+<l>Igien paa <hi rend="spaced">Jelling-Hede</hi>,</l>
+<l>Paa <hi rend="spaced">Frodebjerg</hi> og <hi rend="spaced">Fyrresvold</hi>,</l>
+<l>Som Dannefæ fra Hedenold,</l>
+<l>Oplysning at udbrede.</l>
+</lg>
+<lg>
+<l>Da først vil dages for John Bull,</l>
+<l>At vort Høinordens Lyse-Guld</l>
+<l>Ei længer er at vrage.</l>
+<l>Det skjær i Øjet kun paa Kryb,</l>
+<l>Men kaster Glands paa <hi rend="spaced">Hjertets</hi> Dyb</l>
+<l>Og <hi rend="spaced">Daaden</hi> alle Dage;</l>
+</lg>
+<lg>
+<l>Thi <hi rend="spaced">Dyd</hi> som Dueligheds Rod</l>
+<l>Og <hi rend="spaced">Daad</hi> som Frugt af Kraft og Mod,</l>
+<l>Det er John Bulls Livstykker,</l>
+<l><hi rend="spaced">Deraf</hi> just samled Mandevid</l>
+<l>Høinordens Aand fra Arilds Tid,</l>
+<l><hi rend="spaced">Derpaa</hi> sin Borg han bygger;</l>
+</lg> 
+<pb facs="1864_8_page0014.png"/>
+<fw type="pageNum">14</fw>
+<lg>
+<l>Thi <hi rend="spaced">Nordlys</hi> i Vidskabens Land,</l>
+<l>Kun <hi rend="spaced">seet</hi> i aandelig Forstand,</l>
+<l>Er intet Nyt igrunden,</l>
+<l>As-Odin alt det fik til Leen,</l>
+<l>Med Asamaal, hans Øjesteen,</l>
+<l>Og Harpeleg i Munden.</l>
+</lg>
+<lg>
+<l>Men Lyset sank tilbunds i Hav,</l>
+<l>Den store aabne Kæmpegrav</l>
+<l>For Timeligheds Helte,</l>
+<l>For Syn og Sang, sor Raad og Daad,</l>
+<l>For Vrage-Leg og Freja-Graad</l>
+<l>Og Ving-Thors Styrke-Bælte!</l>
+</lg>
+<lg>
+<l>Dog, i Højnorden boer en Mø,</l>
+<l>Som har det Kaar, hun ei skal døe,</l>
+<l>Mens Timeglas omrendes,</l>
+<l>Paa Gynge-Bænk i Bølge-Gang,</l>
+<l>Paa Idræts-Sagn i Folkevang,</l>
+<l>Som <hi rend="spaced">Saga-Dis</hi> hun kiendes.</l>
+</lg>
+<lg>
+<l>Hun fordum drak med <hi rend="spaced">Odin</hi> Vin</l>
+<l>I Høieloft paa Gylden-Skrin,</l>
+<l>Det muntred op dem Begge,</l>
+<l>Men sunket ned i Trællestand</l>
+<l>Hun drak med os det „sorte Vand"</l>
+<l>Imellem fire Vægge;</l>
+</lg> 
+<pb facs="1864_8_page0015.png"/>
+<fw type="pageNum">15</fw>
+<lg>
+<l>Dog i det store <hi rend="spaced">Jordskælvs Tid</hi>,</l>
+<l>Paa Grændsen mellem hid og did,</l>
+<l>Da oprørt blev Stor-Havet,</l>
+<l>Saa Bølgerne gik høit i Sky,</l>
+<l>Selv her i Bøgeskovens Ly,</l>
+<l>Hvor Lyset laae begravet,</l>
+</lg>
+<lg>
+<l>Da spytted Saga Blækket ud,</l>
+<l>Og sagde som en Konge-Brud:</l>
+<l>Nu drikker jeg kun Aande,</l>
+<l>Til atter jeg paa Gyldenskrin</l>
+<l>Kan med As-Odin drikke Vin</l>
+<l>Og fange Vod for Vaande!</l>
+</lg>
+<lg>
+<l>Og er her nogen Kæmpesøn,</l>
+<l>Som ei er sty for Skrald og Don,</l>
+<l>Men tør vel Skindet vove,</l>
+<l>Vort <hi rend="spaced">Nordlys</hi>, med Idræt tilmunds,</l>
+<l>Det veed jeg godt, hvor gik tilbunds,</l>
+<l>Ved Havfru-Bryst at sove;</l>
+</lg>
+<lg>
+<l>Kom Lyset op og foer til Skyes,</l>
+<l>Da kasted det sit klare Lys</l>
+<l>Paa <hi rend="spaced">Aandens</hi> Jorderige,</l>
+<l>Da faae igien vi <hi rend="spaced">Sleipners</hi> Trav</l>
+<l>Og <hi rend="spaced">Frei af</hi> Karm paa Tidens Hav,</l>
+<l>Med <hi rend="spaced">Valhals</hi> Borg tillige!</l>
+</lg> 
+<pb facs="1864_8_page0016.png"/>
+<fw type="pageNum">16</fw>
+<lg>
+<l>Da sprang fra Sæde <hi rend="spaced">Skjalden</hi> op,</l>
+<l>Sprang ud som en forvoven Krop</l>
+<l>I Tidens Hav at dykke,</l>
+<l>I Kæmpe-Aandens <hi rend="spaced">Øresund</hi>,</l>
+<l><hi rend="spaced">Nordlyset</hi> fandt paa Havets Bund</l>
+<l>Han til Høinordens Lykke.</l>
+</lg>
+<lg>
+<l><hi rend="spaced">Nordlyset</hi>, det er <hi rend="spaced">Sandheds Ord</hi>,</l>
+<l>I Øst og Vest, i Syd og Nord,</l>
+<l>Om Menneske-Idrætter,</l>
+<l>Med Haand og Mund til <hi rend="spaced">Folkegavn</hi>,</l>
+<l>Og et kiærmindekrandset Navn</l>
+<l>I Kamp mod Trold og Jetter.</l>
+</lg>
+<lg>
+<l>Det <hi rend="spaced">Idræts-Ord</hi> er <hi rend="spaced">Tungens</hi> Maal,</l>
+<l>Ei <hi rend="spaced">Pennestrøg</hi> med Fier og Staal,</l>
+<l>Om end de var guldrøde;</l>
+<l>Ei Livets, men kun <hi rend="spaced">Dødens Ord</hi></l>
+<l>I Bøger som i Gravskrift boer,</l>
+<l>Kun <hi rend="spaced">Ormene</hi> til <hi rend="spaced">Føde</hi>!</l>
+</lg>
+<lg>
+<l>Kun Ord, som gaaer i Sagn og Sang</l>
+<l>Fra Mund til Mund i Folkevang</l>
+<l><hi rend="spaced">Opholder</hi> Folkelivet;</l>
+<l>I Folkets egne gamle Ord</l>
+<l>Kun <hi rend="spaced">folkelig</hi> Oplysning boer,</l>
+<l>Af Folke-Aanden givet!</l>
+</lg> 
+<pb facs="1864_8_page0017.png"/>
+<fw type="pageNum">17</fw>
+<lg>
+<l>Og efter Høinordboens Smag</l>
+<l>Er <hi rend="spaced">Liv</hi> og <hi rend="spaced">Lyst</hi> en Hovedsag</l>
+<l>Foruden og forinden.</l>
+<l>Derfor maa <hi rend="spaced">Hjertet</hi> tages med</l>
+<l>I <hi rend="spaced">Skolen</hi> som Oplysnings-Sted,</l>
+<l>Det er <hi rend="spaced">Grund-Lærerinden</hi>!</l>
+</lg>
+<lg>
+<l>Thi <hi rend="spaced">Askurs-Kjønnet</hi> har det Kald,</l>
+<l>Trods Død og Morke, Feil og Fald,</l>
+<l>Sin Art tilbunds at kiende,</l>
+<l>Og Højnordboen stadig troer,</l>
+<l>Det skeet, naar Lys han i sit Ord</l>
+<l>Ved sin Guds Lys mon tænde.</l>
+</lg>
+<lg>
+<l>Han troer, at <hi rend="spaced">Mennesket</hi> hos ham</l>
+<l>Er født i <hi rend="spaced">Vidskabs</hi> Sejers-Ham,</l>
+<l>Til Lys hos sig at finde,</l>
+<l>Om <hi rend="spaced">Askurs</hi> og om Emblas Æt,</l>
+<l>Guds Yndlinger med Børne-Ret,</l>
+<l>Som baade <hi rend="spaced">Mand</hi> og <hi rend="spaced">Kvinde</hi>.</l>
+</lg>
+<lg>
+<l>Ja, Lyst har baade han og hun</l>
+<l>Hos os, til kiækt med Haand og Mund</l>
+<l><hi rend="spaced">Stamtavlen</hi> at <hi rend="spaced">forklare</hi>:</l>
+<l>Af Hjerte-Livet i sit Svøb</l>
+<l>Og af det store Levnetsløb</l>
+<l>Hos Kæmpen i <hi rend="spaced">Livsfare</hi>!</l>
+</lg> 
+<pb facs="1864_8_page0018.png"/>
+<fw type="pageNum">18</fw>
+<lg>
+<l>I <hi rend="spaced">Livets Dyd</hi> og Livets <hi rend="spaced">Daad</hi></l>
+<l>Guds Hjertelag og vise Raad</l>
+<l>Sig selv maa aabenbare;</l>
+<l>Har Han sig skabt hos os et Speil,</l>
+<l>Han ogsaa, det staaer aldrig feil,</l>
+<l>For os sig vil forklare!</l>
+</lg>
+<lg>
+<l>Et <hi rend="spaced">Veirlys</hi> kun er <hi rend="spaced">Tyskens Ord</hi></l>
+<l>Mod Soelskins-Lampen i vort Nord,</l>
+<l>Naar den faaer Lov at brænde,</l>
+<l>Men først maa Tysken fejes ud,</l>
+<l>Thi i hans Blæst som Luftens Gud</l>
+<l>Ei Lampen vi kan tænde.</l>
+</lg>
+<lg>
+<l>Hans Gas er grundfordærvet Luft,</l>
+<l>Sin egen Gud er hans Fornuft,</l>
+<l>Og lyst den giør derefter;</l>
+<l>Til Selv-Ophøielse og Pral,</l>
+<l>Og til sig selv at giøre gal,</l>
+<l>Kun dertil den har Kræfter.</l>
+</lg>
+<lg>
+<l>Den, kommet op af <hi rend="spaced">ingen</hi> Ting,</l>
+<l>Som selv den melder, med et Spring</l>
+<l>Den raned Guds Høisæde,</l>
+<l>Men naar den bedst sit Hoved brod,</l>
+<l>Den skabe kan kun Sorg og Død,</l>
+<l>Den spotter Liv og Glæde.</l>
+</lg> 
+<pb facs="1864_8_page0019.png"/>
+<fw type="pageNum">19</fw>
+<lg>
+<l>Den kalder <hi rend="spaced">virkeligt</hi> og <hi rend="spaced">stort</hi></l>
+<l>Kun sig og hvad den selv har gjort,</l>
+<l>Den laster al Guds — Gierning,</l>
+<l>For den er Mennesket et Dyr</l>
+<l>Men Mandevid en Pokkers Fyr,</l>
+<l>Selvkastet Lykke-Terning!</l>
+</lg>
+<lg>
+<l>Ja, Fru <hi rend="spaced">Natur</hi>, især ved <hi rend="spaced">Rhin</hi>,</l>
+<l>Den kalder vel <hi rend="spaced">Gudmoder</hi> sin,</l>
+<l>Som fødte den med Smerte,</l>
+<l>Men hun dog har fra evig Tid</l>
+<l>Ei Gran af Samling, Sands og Vid,</l>
+<l>Saalidt som <hi rend="spaced">Aand</hi> og <hi rend="spaced">Hjerte</hi>.</l>
+</lg>
+<lg>
+<l>Den stille staaer paa <hi rend="spaced">Lynets</hi> Vei,</l>
+<l>Opskruet over Ja og Nei</l>
+<l>Med <hi rend="spaced">Hegelske</hi> Dunkrafter,</l>
+<l>Den rummer som et Helved-Døgn</l>
+<l>Den <hi rend="spaced">forte</hi> og den hvide Løgn,</l>
+<l>Ja, alt, som Støvleskafter!</l>
+</lg>
+<lg>
+<l>Det er den Afgud fra ifjor,</l>
+<l>Som hyldet blev i hole Nord</l>
+<l>Paa alle <hi rend="spaced">Skole-Stader</hi>,</l>
+<l>Det er den gamle Hunde-Kløgt,</l>
+<l>Alt i <hi rend="spaced">Vafthrudners-Maal</hi> hjemsøgt</l>
+<l>Af <hi rend="spaced">Odin</hi> Sejerfader*).</l>
+</lg>
+<p>*) <hi rend="spaced">Edda</hi> kalder rettelig al <hi rend="spaced">Jette-Vidskaben Hunde-Kløgt</hi>.</p>
+<pb facs="1864_8_page0020.png"/>
+<fw type="pageNum">20</fw>
+<lg>
+<l>Som <hi rend="spaced">Odin</hi> stog den Kløgt ihjel</l>
+<l>Med hvad, da Balder foer til <hi rend="spaced">Hel</hi>,</l>
+<l>Han hvisked ham i <hi rend="spaced">Øre</hi>,</l>
+<l>Skal over Tyskeri i Nord</l>
+<l>Vi Seier vinde ved det <hi rend="spaced">Ord</hi>,</l>
+<l>Som <hi rend="spaced">Hjertet</hi> kun kan høre!</l>
+</lg>
+<lg>
+<l>Ja, Sandheds <hi rend="spaced">Ord</hi> om <hi rend="spaced">Hjertelag</hi></l>
+<l>Og Helte-Folkets Sejers-Flag,</l>
+<l>Det knuser Jette-Pander,</l>
+<l>Thi evig Sandheds Ja og Nei</l>
+<l>Om <hi rend="spaced">Livets</hi> og om <hi rend="spaced">Dødens</hi> Vei</l>
+<l>Kun <hi rend="spaced">Løgnen</hi> sammenblander.</l>
+</lg>
+<lg>
+<l>Hvert <hi rend="spaced">Folkeliv</hi> i Barne-Svøb</l>
+<l>Som i det store Levnets-Løb</l>
+<l>Sin egen Lov bekræfter,</l>
+<l>Thi Lys hos Folk, som Lys hos Gud,</l>
+<l>Der frit af Livet springer ud,</l>
+<l>Sig <hi rend="spaced">retter</hi> Livet <hi rend="spaced">efter</hi>!</l>
+</lg>
+<lg>
+<l>Naar <hi rend="spaced">Folke-Livet</hi> sine Kaar</l>
+<l>Og midt i dem sig selv forstaaer</l>
+<l>Med alle sine Gaader,</l>
+<l>Da folder ud sin Kraft det frit,</l>
+<l>Og giør til Maalet Kæmpeskridt,</l>
+<l>Hvor Helte-Aanden raader.</l>
+</lg> 
+<pb facs="1864_8_page0021.png"/>
+<fw type="pageNum">21</fw>
+<lg>
+<l>Og i det <hi rend="spaced">Danske</hi> Moder-Bryst,</l>
+<l>Hvor Fred er Hjertets Liv og Lyst</l>
+<l>I Læ af Aandens Vinger,</l>
+<l>Der Hjertet sig udvider frit,</l>
+<l>Og Kjærlighed gjør Engle-Skridt,</l>
+<l>Naar Glædens Harpe klinger.</l>
+</lg>
+<lg>
+<l>Mens Rosen har sin søde <hi rend="spaced">Duft</hi>,</l>
+<l>Mens Lærken slaaer i Sommerluft,</l>
+<l>Og Nattergal i Skyggen,</l>
+<l>Smaahelte føder Kjærlighed</l>
+<l>For <hi rend="spaced">Frihed</hi> og livsalig <hi rend="spaced">Fred</hi>,</l>
+<l>Og priser Børne-Lykken!</l>
+</lg>
+<lg>
+<l><hi rend="spaced">Høinordens</hi> gamle <hi rend="spaced">Tungemaal</hi></l>
+<l>Som grønne Træer med Blad og Naal</l>
+<l>Da skyder Top og Krone,</l>
+<l>Med Fugle-Reder altid ny,</l>
+<l>Hvorfra sig svinger Sang i Sky</l>
+<l>Alt med den gamle Tone!</l>
+</lg>
+<lg>
+<l>Da skal man see, at Klarhed boer</l>
+<l>Slet ikke i <hi rend="spaced">bælgmørke Ord</hi></l>
+<l>Og stumme <hi rend="spaced">Tanke-Streger</hi>,</l>
+<l>Men i hvert sandhedskiærligt Bryst,</l>
+<l>Det jævne Ord, den klare Røst,</l>
+<l>Som Livet vederkvæger!</l>
+</lg> 
+<pb facs="1864_8_page0022.png"/>
+<fw type="pageNum">22</fw>
+<lg>
+<l>Det er Høinordens Kald og Kaar,</l>
+<l>Naar ei sig selv i Lyset staaer</l>
+<l>Et Øjeblik det længer,</l>
+<l>Men jager ud den <hi rend="spaced">Tyske Trold</hi>,</l>
+<l>Sig giver frit sin Aand i Vold,</l>
+<l>Som Hjertet efterhænger.</l>
+</lg>
+<lg>
+<l>Vel i den store Verdens-Ørk</l>
+<l>En Viismand er en spæget Tyrk,</l>
+<l>Med Gru for Harpe-Slaget,</l>
+<l>Men Odin, Viismand i <hi rend="spaced">Valhall</hi>,</l>
+<l>Er en hvidhaaret Kæmpe-Skjald,</l>
+<l>Hans Rost som Lure-Braget!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+</div>
+</body>
+</text>
+</TEI>

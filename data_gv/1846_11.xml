@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Paaske-Cantate</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-14"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="011"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1846">1846</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1846_11_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Paaske-Cantate</titlePart>
+</docTitle>
+<byline>af<lb/>
+	<docAuthor>N. F. S. Grundtvig.</docAuthor>
+				</byline>
+				<epigraph>
+<p>Musiken</p>
+<p>af</p>
+<p>Hansen, Organist.</p>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace>Kjøbenhavn.</pubPlace>Trykt i C. G. Schiellerups Officin<lb/>
+<fw type="graphic"/>
+<docDate>1846</docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<pb facs="1846_11_page0002.png"/>
+<fw type="pageNum"></fw>
+<head>Chor.</head>
+<lg>
+<l><hi rend="initial">Æ</hi>re være Gud i det Høie!</l>
+<l>Nu Deden har mistet sin Braad;</l>
+<l>Atter nu funkler det Øie,</l>
+<l>Som brast under Englenes Graad!</l>
+<l>Himmel og Jord!</l>
+<l>Jubler i Chor:</l>
+<l>Natten er svundet,</l>
+<l>Dagen oprundet,</l>
+<l>Paaske-Dagen med Livets Sol!</l>
+<l>Ære være Gud i det Høie!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<head>Solo-Tenor.</head>
+<lg>
+<l>Midnats-Mulm laae over Jorden,</l>
+<l>Frygtelig var Mørkets Magt:</l>
+<l><hi rend="spaced">Jesus Christus</hi>, Verdens Frelser,</l>
+<l>Himlens Lys og Jordens Haab,</l>
+</lg> 
+<pb facs="1846_11_page0003.png"/>
+<fw type="pageNum">000</fw>
+<lg>
+<l>Han, som gav de Blinde Synet,</l>
+<l>Han, som gav de Stumme Røst,</l>
+<l>Han, som Dødninger fra Vaare</l>
+<l>Reiste op med Almagts-Haand,</l>
+<l>Han, som Lazarus fra Graven</l>
+<l>Kaldte frem med Guddoms-Røst;</l>
+<l>Han var bundet, tornekronet,</l>
+<l>Naglet fast til Korsets Træ,</l>
+<l>Han var blegnet, Han var jordet,</l>
+<l>Livets Drot var Dødens Rov,</l>
+<l>Stærkt var Seiglet, stor var Stenen,</l>
+<l>Lukke - Stenen for hans Grav!</l>
+<l>Hvilken Sorg! - Men hvilken Glæde!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<head>Chor.</head>
+<lg>
+<l>Jorden skjalv, og Deden med,</l>
+<l>Mørket sukked, Lyset Med,</l>
+<l>Som en Engel klædt i Lyn,</l>
+<l>Seiglet brast og Stenen rulled,</l>
+<l>Den Korsfæstede opstod,</l>
+<l>Nysted af sig Jordelinet,</l>
+<l>Stod forklaret som Guds-Søn!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<head>Choral</head>
+<lg>
+<l>Som Foraars-Solen morgenrod</l>
+<l>Stov Jesus op af Jordens Skjød,</l>
+<l>Med Lys og kiv tillige;</l>
+<l>Derfor, saalænge Verden staaer,</l>
+<l>Nu efter Vinter kommer Vaar</l>
+<l>Livsalig i Guds Rige!</l>
+</lg> 
+<pb facs="1846_11_page0004.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Som Blomster alle staae i Flor,</l>
+<l>Som Skoven grønnes, Kornet groer,</l>
+<l>Ved Vaarens Kræfter milde,</l>
+<l>Saa blomstrer Alt til Folke-Gavn</l>
+<l>Og bærer Frugt i <hi rend="spaced">Jesu</hi> Navn,</l>
+<l>Som aarle, saa og silde!</l>
+<l>Som Fugle-Chor i Mark og Lund</l>
+<l>Lovsynge Vaar i allen Stund,</l>
+<l>Med deres Toner fede,</l>
+<l>Saa alle Tunger, trindt om Land,</l>
+<l>Lovsynge Dødens Overmand</l>
+<l>Og Paaske-Morgenrøde!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<head>Terzet</head>
+<lg>
+<l>Der var en Tid, den er ei fjern,</l>
+<l>Da Paaske-Sang og Glæde</l>
+<l>For os laae død og magtesløs,</l>
+<l>Som Frelseren i Graven!</l>
+<l>Det var som en Langfredag ny,</l>
+<l>Med Kors, med Sut og Taarer,</l>
+<l>En Dødens Stund i Herrens Huus,</l>
+<l>Midnat ved Middagstide;</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<head>Recitativ.</head>
+<lg>
+<l>Men som i Paaske-Morgengry,</l>
+<l>Da Mørkets Kæmper daaned,</l>
+<l>Da Lynet blev et Engleblik,</l>
+<l>Og sprængde Dødens Lænker;</l>
+</lg> 
+<pb facs="1846_11_page0005.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Saa er for Jesu Navn og Ord</l>
+<l>En Morgen ny oprundet;</l>
+<l>Hvad nys var dødt og magtesløst,</l>
+<l>I Aandens Kraft sig hæver.</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<head>Quintet</head>
+<lg>
+<l>Med Paaske-Sang i høien Sky,</l>
+<l>Opvakt til Sjæle-Glæde,</l>
+<l>Nu Livets Ord i Jesu Navn</l>
+<l>Gaaer over Bjerg og Bølge,</l>
+<l>Gaaer, som det skal, fra Kraft til Kraft,</l>
+<l>Fra Slægt til Slægt paa Jorden,</l>
+<l>Gaaer seierrigt fra Glands til Glands</l>
+<l>Med Lyst til Verdens Ende!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<head>Chor</head>
+<lg>
+<l>Halleluja for Guddoms-Manden,</l>
+<l>Som herlig sprængde Dødens Vaand!</l>
+<l><hi rend="align(center)">Halleluja!</hi></l>
+<l>Han for os Alle er opstanden!</l>
+<l>Hans Ord til os er Liv og Aand!</l>
+<l><hi rend="align(center)">Halleluja!</hi></l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<head>Solo</head>
+<lg>
+<l>Med liflig Vaar og gylden Høst,</l>
+<l>Han er vort Haab, Han er vor Trøst;</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div> 
+<pb facs="1846_11_page0006.png"/>
+<fw type="pageNum"></fw>
+<head>Chor.</head>
+<lg>
+<l>Han er paa Himlens Konge-Sæde</l>
+<l>Vort Liv, vort Lys, vor Lyst og Glæde!</l>
+<l><hi rend="align(center)">Halleluja!</hi></l>
+<l>For <hi rend="spaced">Jesus Christus</hi>, Guddoms-Manden,</l>
+<l>Korsfæstet og opstanden,</l>
+<l><hi rend="align(center)">Halleluja!</hi></l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,539 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Dansk Høiskole i Søer.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2009-11-24"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="032"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1840">1840</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1840_32_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Bøn og Begreb<lb/>om en<lb/>Dansk Høiskole i Søer.</titlePart>
+	<titlePart type="sub"></titlePart>
+				<fw type="graphic"/>
+</docTitle>
+<byline>af<lb/>
+	<docAuthor>Nik. Fred. Sev. Grundtvig.</docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace>Kiøbenhavn</pubPlace>.<lb/>Paa den Wahlske Boghandlings Forlag.<lb/>Trykt hos C. Græbe &amp; Søn.<lb/>
+<docDate>1840</docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<pb facs="1840_32_page0001.png"/>
+<fw type="pageNum"></fw> 
+<pb facs="1840_32_page0002.png"/>
+<fw type="pageNum"></fw> 
+<pb facs="1840_32_page0003.png"/>
+<fw type="pageNum"></fw>
+</div>
+<div>
+<head>Bøn til Majestæten</head>
+<head>for</head>
+<head>Danskhed og Modersmaal.</head>
+<lg>
+<l><hi rend="initial">H</hi>øibaarne Konning over Svane-Vangen,</l>
+<l>Hvor Lykke-Skibets Kiølvand staaer endnu!</l>
+<l><hi rend="spaced">Skjoldungers</hi> Arving til <hi rend="spaced">Valhalla</hi>-Sangen,</l>
+<l>Som Lundens Fugle komme end ihu!</l>
+<l>Jeg har en Bøn til <hi rend="spaced">Danmarks</hi> Folke-Fader,</l>
+<l>Til Mildheds Konge-Speil og Urets Hader,</l>
+<l>O, laan den Øre i beleilig Tid!</l>
+</lg>
+<lg>
+<l>Jeg beder ei om Deel i Magt og Vælde,</l>
+<l>Udeelt de hvile i Kong <hi rend="spaced">Christjans</hi> Haand!</l>
+<l>Vor Konges Haand, selv rystende af Ælde,</l>
+<l>Omvindes kun af <hi rend="spaced">Kiærlighedens Baand</hi>,</l>
+<l>Mens Marken fryder sig i Hegn af Loven,</l>
+<l>Og Spiret grønnes som en Vog i Skoven,</l>
+<l>Og Dag indslumrer sødt ved Aften-Sang!</l>
+</lg>
+<lg>
+<l>Jeg beder ei om Vaand paa nogen Tunge,</l>
+<l>Og ei om Herreskjold for nogen Tro,</l>
+<l>Thi <hi rend="spaced">frit</hi> at troe, at tale og at sjunge,</l>
+<l>Jeg ønsker alle dem, paa Marken boe,</l>
+<l>Og ikkun <hi rend="spaced">Een</hi> tilgavns kan lukke Munde,</l>
+<l>Og ene <hi rend="spaced">Han</hi>, som Hjerter kan udgrunde,</l>
+<l>Har over Tro og <hi rend="spaced">Tanke</hi> Hals og Haand.</l>
+</lg> 
+<pb facs="1840_32_page0004.png"/>
+<fw type="pageNum">4</fw>
+<lg>
+<l>Jeg beder ei om Guld og granne Stove,</l>
+<l>Og endnu mindre om en <hi rend="spaced">Vispe - Stol</hi>;</l>
+<l>Gid kun mit Øie, til jeg skal hensove,</l>
+<l>Som nu tilfreds maa see den gyldne Soel!</l>
+<l>For Vret lyde Fugle-Sang fra Lunden!</l>
+<l>I Hjertet varmt, og Smeltende i Munden,</l>
+<l>Mig være alle Dage <hi rend="spaced">Livets</hi> Ord!</l>
+</lg>
+<lg>
+<l>Jeg beder om Opreisning for en <hi rend="spaced">Dronning</hi>,</l>
+<l>Langt ædlere og sødere end <hi rend="spaced">hun</hi>,</l>
+<l>Der har sin Throne hvor der virkes Honning</l>
+<l>Af Fugle smaa, som kysse Blomstermund;</l>
+<l>Hun trællet har, taalmodig uden Mage,</l>
+<l>For Hexen leed, fra <hi rend="spaced">Valdemarers</hi> Dage,</l>
+<l>Og ventet, <hi rend="spaced">Konge</hi>! paa Dit <hi rend="spaced">Gyldenaar</hi>.</l>
+</lg>
+<lg>
+<l>Den Ømmeste, som Læber end har nævnet,</l>
+<l>Blandt Dronninger, som smiled under Soel,</l>
+<l>For <hi rend="spaced">Barbari</hi> dog sigtet blev og stævnet,</l>
+<l>Med Uret styrtet fra sin <hi rend="spaced">Dronning-Stol</hi>;</l>
+<l>Med „Sort paa Hvidt" frikiendtes hun alt længe,</l>
+<l>Blev Dronning <hi rend="spaced">kaldt i</hi> „deiligst Vang og Vænge,</l>
+<l>Men træller dog for Hexen leed endnu.</l>
+</lg>
+<lg>
+<l>I <hi rend="spaced">Chorets</hi> Navn, som slog Guldharpens Strænge</l>
+<l>For Danmarks Dronning i den grønne Lund,</l>
+<l>Og Krandse bandt af Blomsterne i Enge</l>
+<l>For sode Ord af hendes rode Mund,</l>
+<l>Jeg beder, Konge! lad paa gamle Dage</l>
+<l>Vor Enke-Dronning, Ægteviv af <hi rend="spaced">Brage</hi>,</l>
+<l>Faae Bod for Vaanden i sexhundred Aar!</l>
+</lg> 
+<pb facs="1840_32_page0005.png"/>
+<fw type="pageNum">5</fw>
+<lg>
+<l>I <hi rend="spaced">Kiønnets</hi> Navn, som er vort Hjertes Glæde,</l>
+<l>Og Dane-Vangens bedste Blomster-Krands,</l>
+<l>Som pryder selv det skiønneste Høisade,</l>
+<l>Og kaster end paa Straatags-Hytten Glands,</l>
+<l>Jeg beder, Konge! giør den Dronnings Lykke,</l>
+<l>Hvis Sødhed de saa Smeltende udtrykke</l>
+<l>I hver en Sang paa deres <hi rend="spaced">Moders</hi> Maal!</l>
+</lg>
+<lg>
+<l>I <hi rend="spaced">Bondens</hi> Navn, som Satte Neg paa Node</l>
+<l>Til Konge-Stol for Barne-Drotten <hi rend="spaced">Skjold</hi>,</l>
+<l>I <hi rend="spaced">Deres</hi> Navn, som <hi rend="spaced">Frederik</hi> og <hi rend="spaced">Frede</hi></l>
+<l>Paa varme Hænder bar til Salen kold,</l>
+<l>Jeg beder, Konge! gjør den Dronning Ære,</l>
+<l>Hvis Navn endnu paa <hi rend="spaced">Tungerne</hi> de bære,</l>
+<l>Og elske ommere end selv de veed!</l>
+</lg>
+<lg>
+<l>I <hi rend="spaced">Aandens</hi> Navn, som under Øielaaget</l>
+<l>Har Stjerner klare paa Skyhimmel bleg,</l>
+<l>I Aandens Navn, som elsker Hjertesproget,</l>
+<l>Og kalder det Havfruens Strængeleg,</l>
+<l>Jeg beder, Konge! bliv den Dronnings Værge,</l>
+<l>Hvis Roes sig svinger over alle Bjerge,</l>
+<l>Naar Aanden taler <hi rend="spaced">Hjertets Tungemaal</hi>!</l>
+</lg>
+<lg>
+<l>Der er en Lovsal i Dit Kongerige,</l>
+<l>I <hi rend="spaced">Sællands</hi> Hjerte, ved den blanke Sø,</l>
+<l>Lad der i Mag den Yndige bestige</l>
+<l>Sit grønne Dronning-Sæde under Øe,</l>
+<l>Med Hynde blødt af venlige Kiærminder,</l>
+<l>Som blaane lyst saalænge Blodet rinder</l>
+<l>Og Hjertet banker hos vor Moders Bom!</l>
+</lg> 
+<pb facs="1840_32_page0006.png"/>
+<fw type="pageNum">6</fw>
+<lg>
+<l>Hvor <hi rend="spaced">Axel</hi> blunder under hvalvte Vue,</l>
+<l>Og Danmarks Adel har sin Vaaben-Krands,</l>
+<l>Lad Folket der sin gamle Dronning stue</l>
+<l>Forynget skiønt i Nyaarstidens Glands!</l>
+<l>Lad Sammensmelte der paa Danmarks Tunge</l>
+<l>De gamle Hjerte-Toner med de Unge,</l>
+<l>Til Dronningens og <hi rend="spaced">Danner-Kongens</hi> Priis!</l>
+</lg>
+<lg>
+<l>Ja, hvor i Glands vor gamle Dronning throner,</l>
+<l>I Bøge-Lunden paa Kiærminder blaa,</l>
+<l>Der <hi rend="spaced">Kongens</hi> Priis i Folke-Sangen toner,</l>
+<l>Som Lærker og som Nattergale slaae,</l>
+<l>Der, som i <hi rend="spaced">Valhal</hi>, leve op de Døde,</l>
+<l>Hver Morgenstund ved Hjerte-Toner søde,</l>
+<l>Og bænkes trindt om Bord hos <hi rend="spaced">Christian</hi>.</l>
+</lg>
+<lg>
+<l>O Konge! Du det folde dybt og længe,</l>
+<l>At ægte <hi rend="spaced">Dansk</hi> er intet Barbari,</l>
+<l>Men Tonerne fra Danmarks Harpe-Strænge,</l>
+<l>Dem er der baade Aand og Hjerte i;</l>
+<l>O, lad da, Konge! Aand og Hjerte Seire,</l>
+<l>Som kvæde høit for <hi rend="spaced">Kongerne</hi> i Leire,</l>
+<l>Oprøre sig mod <hi rend="spaced">Keiserne i Rom</hi>!</l>
+</lg>
+<lg>
+<l>Saa ømme Hjerter og saa skimme Minder,</l>
+<l>Saa kongeligt og bildt et Skjalde-Chor,</l>
+<l>Saa bløde Vender og saa søde Kvinder,</l>
+<l>Som <hi rend="spaced">Danevang</hi>, har intet Land paa Jord;</l>
+<l>Giør end Latinerne sig nok saa vrede,</l>
+<l>Lad os med Aand dog ei forgiæves bede</l>
+<l>For <hi rend="spaced">Dronningen</hi> og <hi rend="spaced">Folkets</hi> Tungemaal!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div> 
+<pb facs="1840_32_page0007.png"/>
+<fw type="pageNum"></fw>
+<head>Begreb om en Kongelig Dansk Høiskole.</head>
+<p><hi rend="initial">A</hi>t Modersmaalet i det Mindste bor have <hi rend="spaced">een</hi> Plet i Fædrenelandet, hvor det dyrkes for sin egen Skyld og for de Værkers, som har gjort det navnlundigt, det er den Ene af mine gamle Paastande, som Ingen endnu har stræbt at svække, og det Samme er Tilfældet med den Anden, at naar det skal være andet end Spas, at hos os sidde „Haandværksmænd og Vender" i Stats-Raadet, da maa der dog i det Mindste være <hi rend="spaced">eet</hi> Sted i Danmark, hvor de, der ikke kan andet Sprog end deres Modersmaal, paa det kan oplyses om Alt hvad man behover at vide, for ikke blot at have Sæde men Stemme i Folke-Raadet, og til ei blot at kunne afgive sin Stemme, men giøre den giældende. Vegge disse Ting forudsætter jeg da, som uimodsigelige, og at der dog intet saadant Stev gives, ingen offenlig Anstalt findes hos os, hvor enten Modersmaalet og Værkerne paa Det er Hovedsagen, eller noget Sted, hvor de som kun kan Dansk, finde Leilighed til at oplyses om, hvad de som Danske Borgere, og i sin Tid som Kongens Raadgivere, maatte ønske 
+<pb facs="1840_32_page0008.png"/>
+<fw type="pageNum">8</fw>
+og trængde til at vide, det er ogsaa vist; thi vel stræbde Kong <hi rend="spaced">Frederik</hi> den <hi rend="spaced">Sjette</hi> at aabne „<hi rend="spaced">Sorø Academi</hi>" for <hi rend="spaced">Ustuderede</hi>, men hvordan det end gik til, saa bortfortolkede man det Halve af Tilladelsen, ved at fordre af Vedkommende at de skulde gaae <hi rend="spaced">Drenge-Skolen</hi> igiennem, og tilintetgjorde den anden Halvdeel ved at paanøde de Ustuderende <hi rend="spaced">Latinske</hi> Timer i Skolen, som man endog nylig har <hi rend="spaced">formeret</hi>.</p>
+<p>At imidlertid Kong <hi rend="spaced">Frederik</hi> den <hi rend="spaced">Sjette</hi> med Rette dømde, at Academiet i Soer var Pletten, hvor Dansken fremfor Alt havde Ret til at herske, og Danske Folk billigt Krav paa at finde den Oplysning, de trængde til for at ære og tjene Fædrenelandet, det er ogsaa klart, thi det <hi rend="spaced">Ridderlige Academi</hi>, Kong <hi rend="spaced">Christian</hi> den <hi rend="spaced">Fjerde</hi> her oprettede, <hi rend="spaced">Christian</hi> den <hi rend="spaced">Sjette</hi> fornyede, og <hi rend="spaced">Holberg</hi> berigede, var jo en <hi rend="spaced">Patriotisk Høiskole</hi> efter Tidernes Begreb og Leilighed, der kun ved en Feiltagelse, for ikke fuldt tyve Aar siden, faldt i La-<hi rend="spaced">tinernes</hi> Vold, og vi tør derfor haabe, at „Kongens Nøgel" vil blive brugt anden Gang til at aabne Døren for Dansken, saa Latinerne lade den staae.</p>
+<p>Kun med dette Haab kan jeg endnu engang gribe . Pennen i en Sag, hvori den hidtil synes at have udrettet mindre end Intet, og kun under denne Forudsætning nytter det at tale om, hvordan Sorø Academi kan blive en saadan Kongelig Dansk Høiskole, som Modersmaalet fortjener og Fædrenelandet i alle Hen-
+<pb facs="1840_32_page0009.png"/>
+<fw type="pageNum">9</fw>
+seender, men ret Soleklart for Folkeraadets Skyld, behøver.</p>
+<p>Skal nu Academiet blive en saadan Høiskole, som Dansken kan have Ære og Danmark Nytte af, da maa det allerførst ophøre at være et Anhang til Kiøbenhavns Universitet, saa det ikke alene, som før, faaer sin egen Bestyrelse, men bliver <hi rend="spaced">Latinerne</hi> kvit, som udgaae fra Skoten ved Dets Side; thi saalænge der ved Academiet skal tages første og læses til anden Examen, faaer det aldrig nogen Art med en fri paa den ustuderende Ungdom beregnet folkelig Dannelse.</p>
+<p>Paa tre Maader kan nu Academiet blive Latinerne kvit, enten ved at de afgaae til <hi rend="spaced">Kiøbenhavn</hi>, der jo ligesaa godt kan have det Par Stykker som hele Resten, eller derved, at <hi rend="spaced">Drenge-Skolen</hi> gik ind, hvorved der neppe tabdes Synderligt, da vi har Latin-Skoler nok endda, eller endelig derved, at den omskabdes til en <hi rend="spaced">Dansk</hi> Skole, hvad ogsaa kunde være godt, men vilde for Øieblikket have sine store, maaskee uovervindelige Vanskeligheder.</p>
+<p>Siden derfor denne Drenge-Skole engang er blevet til, og forbundet med et eget Kostgængeri, var det vel bedst den vedblev som lærd Skole, og benyttedes til at vise, hvad der i en Saadan lod sig giøre for Modersmaalet og en naturligere Udvikling, naar den <hi rend="spaced">Latinske Stil</hi>, med alt det <hi rend="spaced">tvungne</hi> Latin-Skriveri og Latin-Snak ved Universitetet, faldt bort. Jeg mener ingenlunde hermed, at det skulde <hi rend="spaced">forby</hi>-
+<pb facs="1840_32_page0010.png"/>
+<fw type="pageNum">10</fw>
+<hi rend="spaced">des</hi> Nogen enten at gjøre Latinsk Stil til første Examen, eller at skrive og snakke saameget Latin vod Universitetet, som han vilde, thi da Endeel af de Lærde endnu har den Tro, at den Latinske Grammatik er „de Vises Steen" og den Latinske Stil Indskrivningen i de tænkende Væseners Vog, saa bor de beholde Leilighed til levende at forfægte deres Mening; og Oplysningen vil immer vinde ved at kunne Sammenligne de <hi rend="spaced">Latinske</hi> og de <hi rend="spaced">blot Danske</hi> Stilisters øvrige Dygtighed og videnskabelige Fremskridt; men Selv for denne Sammenlignings Skyld er det nødvendigt, at man <hi rend="spaced">kan</hi> blive baade Student og Professor uden <hi rend="spaced">Latinsk Stil</hi>, og desuden vil man sikkert finde, at <hi rend="spaced">Dansken</hi> maa stedmoderlig behandles i de offenlige Skoler, naar Drengene skal afrettes til i 17 Aars Alder at skrive et <hi rend="spaced">dødt</hi> fra Dansken vidt afvigende Sprog efter grammatikalske Regler.</p>
+<p>Vist nok er, efter min fulde og jeg tor sige velgrundede Overbeviisning, hele den <hi rend="spaced">Byzantinske</hi> Drenge-Videnskabelighed og hele det <hi rend="spaced">Ghinesiske</hi> Examens-Væsen noget deels saa Tomt og deels saa Unaturligt og Forskruet, at det vil være Menneske-Aandens Triumf og hver Alders Gavn og Glæde, naar det Altsammen Synker i Forglemmelse hos os; men da det altid er en stor Feil, der straffer sig Selv, at ville ved <hi rend="spaced">Magtsprog</hi> forandre det Mindste i Aandens Verden, saa har det vel lange Udsigter med <hi rend="spaced">Grund-Forbedringen</hi> af vort <hi rend="spaced">Skole-Væsen</hi>; thi saalænge næsten alle de, der giælde for Videnskabs-
+<pb facs="1840_32_page0011.png"/>
+<fw type="pageNum">11</fw>
+Mænd, paastaae, de skylde Drenge-Skolen Alt hvad de har, og saalænge baade Lærde og Ulærde sædvanlig troe at <hi rend="spaced">Examiner</hi> kan skabe alleslags duelige Embedsmænd og lærde Folk af Intet eller dog af en ubekvem Materie, <hi rend="spaced">saalænge</hi> vilde enhver Lov derimod aldeles forfeile sin Hensigt. Den eneste virksomme Maade, hvorpaa disse herskende Indbildninger og indgroede Fordomme kan bekæmpes, er da at give Frihed og aabne Leilighed til en naturlig Udvikling og sand Dannelse, som kan uimodsigelig bevise, man tog mærkelig feil, da man paastod, at jo <hi rend="spaced">tidligere</hi> man begyndte at lade Lærd, des grundigere Videnskabs-Mand blev man, og jo flere dove og levende Sprog man fuskede paa, des større Mester blev man i det tilsidesatte Modersmaal, og jo stadigere man hængde over Bøgerne fra Barnsbeen, des klogere blev man paa det Menneske-Liv, man slet ikke befattede sig med. Dette slaaende (praktiske) Beviis kan imidlertid ikke føres, saalænge Latin-Skolerne og den paa dem grundede Høiskole enten er de eneste aandelige Værksteder, eller dog Kilden og Monsteret for dem Alle, saa en reen Dansk, folkelig Høiskole er ikke blot Modersmaalets Ret og Borger-Livets Krav, men ogsaa den eneste rette Forberedelse til en Grund-Forbedring af hele vort Skolevæsen. Hvad der imidlertid, uden at afskaffe Drenge-Videnskabeligheden og Hukommelses-Prøverne, lader sig giøre til at formindske og formilde deres bedrøvelige Følger, burde vist nok ikke undlades, og dertil hører først og fremmerst <hi rend="spaced">Fritagelse</hi> for den <hi rend="spaced">Latin</hi>-
+<pb facs="1840_32_page0012.png"/>
+<fw type="pageNum">12</fw>
+<hi rend="spaced">ske</hi> Stil, da det derved dog bliver mueligt for de Lærere, der veed at skatte <hi rend="spaced">Livet</hi> og <hi rend="spaced">Modersmaalet</hi>, at giøre Drenge-Studeringen langt mindre unaturlig og aandsfortærende. Selv den overflødige Latin-Læsning, som kunde gjemmes til Sidst, lod sig da til Nod bære; men dog vilde ogsaa her en <hi rend="spaced">Fritagelse</hi> for hvem der ønskede den, være en stor Velgierning af Regieringen baade mod Børnene, Folket og sig selv, thi det Meste af den saakaldte <hi rend="spaced">classiske</hi> Skrift paa <hi rend="spaced">Latin</hi> er i Drenge-Aarene kiedsommeligt og ufordøieligt, og hvad der er anderledes, er enten saa konge og folkefiendsk, eller saa hjerteløst, usædeligt og tit ugudeligt, at det maa kaldes Edder og Forgift for alle barnlige Sjæle, hvad der især maa have de sørgeligste Følger, saalænge hardtad alle <hi rend="spaced">Kongelige Embedsmænd</hi> udgaae af den Latinjke Plante-Skole. Vilde man derfor give den lærde Skole i <hi rend="spaced">Sorø</hi> en forbedret Skikkelse, da burde man der ikke blot lade den Latinske Stil bortfalde, men ogsaa indskrænke Latin-Læsningen til nogle faa taalelige Vøger, og derimod lægge Vind paa <hi rend="spaced">Islandsk, Græsk</hi>, og især paa <hi rend="spaced">Modersmaalet</hi>, som baade er det, Drenge lettest kan faae Smag paa og samle Tanker i, og som jo selv for de Lærdeste iblandt os, end sige da for de praktiske Embedsmænd, maa være Udviklingens og Dannelsons faste og levende Grundvold, naar <hi rend="spaced">Danske</hi> Folk og den <hi rend="spaced">Danske</hi> Regiering skal have Nytte og Glæde deraf. At Folket kun skulde være til for Regieringens Skyld, er vist nok en 
+<pb facs="1840_32_page0013.png"/>
+<fw type="pageNum">13</fw>
+<hi rend="spaced">Tyrkisk</hi> Grundsætning, som Ingen kraftigere har fralagt sig end Danmarks seneste Enevolds-Konger; men at baade <hi rend="spaced">Regiering</hi> og Folk kun skulde være til for de gamle <hi rend="spaced">Classikers</hi> og de <hi rend="spaced">Latinske Skolemestres</hi> Skyld, det vilde være Daarekiste-Snak, og dog kunde det blot under denne fortvivlede Forudsætning være hensigtmæssigt fra Barnsbeen at danne de tilkommende Folke-Lærere og Kongelige Embedsmænd til det <hi rend="spaced">Modsatte</hi> af hvad baade Kongen og Folket maae ønske hos dem, og tabe uberegnelig ved at favne: det Modsatte af sortroligt Bekiendtskab med Folke og Borger-Livet, med Modersmaalet og <hi rend="spaced">Dets</hi> Classiske Værker, saa al muelig <hi rend="spaced">Frihed</hi> til at bane bedre Veie er det ligesaavel klogt som billigt at give.</p>
+<p>Hermed har jeg da sagt min Mening om <hi rend="spaced">Latin-Skolen</hi> i Sorø, men da <hi rend="spaced">Friheden</hi> kun giør en bedre Fremgangs-Maade muelig, og jeg ikke veed, hvorvidt Skolen har eller for Øieblikket kunde faae Lærere, med Lyst og Evne til virkelig at følge den, saa kan jeg umuelig sige, om Forandringen vilde nytte, men maa lægge al Vægten derpaa, at <hi rend="spaced">Academiet</hi>, naar det skal være en folkelig Høiskole, paa en eller anden Maade bliver <hi rend="spaced">Latin-Skolen</hi> kvit, og faaer sin egen Bestyrelse i en tilstædeværende Hædersmand, til hvem (ligesom til Hovmesteren fordum) Majestæten tør betroe en saa vigtig Oplysnings-Anstalt, der naturligviis skal være ligesaa <hi rend="spaced">Kongelig</hi> som <hi rend="spaced">folkelig</hi>, ligesaavel i vor <hi rend="spaced">Stats-For</hi>-
+<pb facs="1840_32_page0014.png"/>
+<fw type="pageNum">14</fw>
+<hi rend="spaced">fatnings</hi> som i vort <hi rend="spaced">Folke-Livs </hi>Aand, thi medens det aldrig nytter at ville beherske Oplysnings-Værket i det Hele, der maa gaae sin egen Gang, følger det dog af sig selv, at i de Værksteder for folkelig og borgerlig Oplysning, <hi rend="spaced">Regieringen selv</hi> opretter og bestyrer, maa der <hi rend="spaced">ikke</hi> virkes imod den, men skal af alle Kræfter virkes <hi rend="spaced">for den</hi>. En Regiering og Statsforfatning kan vist nok lettelig tænkes saa slette og ufolkelige, at en Oplysnings-Anstalt umuelig kunde være baade i deres og i Folkets Aand, men deels vil det være yderst sjeldent, deels var det dog lige dumt af en Regiering at undergrave sig selv, og endelig kiender jeg saa meget baade til det Danske Folk og til den Danske Regiering og Stats-Forfatning, at jeg veed, de stemme i Grunden saa ypperlig overeens, at det er kun <hi rend="spaced">Oplysning</hi> om denne herlige Overensstemmelse, vi fattes, for, med Guds Hjelp, at blive saa lykkelige, som det paa Jorden er mueligt. Havde vi derfor blot saalænge havt en Kongelig Dansk Høiskole i Sorø, som den i alt Fald overflødige Universitets-Hale, der kostede store Penge, da er jeg vis paa, al dette Aars Uro og urimelige Forlangender vilde være undgaaet; men Dette hørde vel ogsaa til for at overbevise baade Høie og Lave om, at vi trænge høit til Almeen - Oplysning om den virkelige Beskaffenhed af det Borgerlige Selskab, som hveranden Pen nu vil kalfatre, og dog kun saare faa Øine endnu har seet fra alle Sider, end sige <hi rend="spaced">giennemskuet</hi>, som de 
+<pb facs="1840_32_page0015.png"/>
+<fw type="pageNum">15</fw>
+dog maatte for at anstille en forsvarlig Sammenligning og beregne Følgerne af en Forandring.</p>
+<p>Naar jeg imidlertid siger, at vor folkelige Høiskole maa være i vor <hi rend="spaced">Stats-Forfatnings</hi> Aand, da mener jeg naturligviis <hi rend="spaced">den</hi> Stats-Forfatning, vi nu virkelig har, og hverken den, vi kun engang har havt, eller den, man saa tit i Bladene vil paadutte os, vi har, hverken altsaa i Egenraadighedens (Absolutismens) eller i Trældommens (Servilitetens), men i Enevolds - Magtens og Folke - Raadets Aand; thi uagtet vi kunde ønske Sort paa Hvidt for at <hi rend="spaced">Folke-Raadet</hi> hører <hi rend="spaced">ligesaavæsenlig</hi> til vor Stats-Forfatning, som <hi rend="spaced">Enevolds-Magten</hi>, saa er den Sag dog i Grunden lige vis, og vilde sikkert være gjort „Alle vitterlig," naar Folke-Raadet havde været Dansk oplyst nok til at see, det var den Sikkerhed med Hensyn paa Fremtiden (den statsretlige Garanti) de i Folkets Navn skulde bedet Kongen om. For imidlertid at virke i vor Stats-Forfatnings, baade Kongens og Folkets Aand, maatte <hi rend="spaced">Høiskolen</hi> ogsaa bestyres ligesom Riget, saa <hi rend="spaced">Hovmesteren</hi> (eller hvad Bestyreren skulde hedde) vel, paa eget Ansvar, kunde forordne hvad han vilde, men maatte i alt Vigtigt først høre <hi rend="spaced">Skole-Raadet</hi>, hvis Medlemmer næsten Alle valgdes af <hi rend="spaced">Ungdommen</hi> selv; thi Dette vilde baade i det Hele være Oplysnings-Værket tjenligst, og i Særdeleshed give Stats-Forfatningen langt mere Anskuelighed, Liv og Fasthed hos Folket, medens de valgte Medlemmer vilde finde, det 
+<pb facs="1840_32_page0016.png"/>
+<fw type="pageNum">16</fw>
+var en god Forberedelse til Folke-Raadet. Man veed jo nok, de gamle Skolemester-Nykker stikke i os endnu, skiøndt vi har lagt Parykken, der Horde til, saa vi synes bedst om at Ungdommen hører andægtig paa Alt hvad vi siger og sætter sin Ære i at snakke os efter Munden; men vi maae lære at indsee, det passer slet ikke paa en <hi rend="spaced">folkelig</hi> Høiskole, som Ungdommen hverken drives til med Voder eller lottes til med Levebrod, men kun vil besøge og skatte, naar de finde den baade <hi rend="spaced">nyttig</hi> og <hi rend="spaced">fornøielig</hi>, og om de finde den saaledes, kan Ingen sige uden de Selv, saa dertil maa gives dem en <hi rend="spaced">ordenlig</hi> Leilighed i Skole-Raadet, og hvad de faa at sige eenstemmig er misfornøiede med, kan i visse Henseender desuagtet vel være meget godt, men duer dog ikke paa den folkelige Høiskole.</p>
+<p>Her seer man een af de vigtige Grunde, hvorfor jeg kun nødig indlader mig dybere i Udviklingen af den folkelige Høiskoles Indretning, da det ligger i Sagens Natur, at naar Værket skal lykkes, maa Indretningen ikke være efter Enkelt-Mandens men efter Folkets Hoved, og ligesaameget efter Ungdommens som efter Alderdommens Hjerte, saa man skal, saavidt mueligt, lade Indretningen skabe og udvikle sig selv, hvad man uden al Fare kan, naar <hi rend="spaced">Bestyreren</hi> kun er en <hi rend="spaced">paalidelig</hi> Mand og har fri Haand.</p>
+<p>En anden ligesaa vigtig Grund, hvi jeg hidtil har krympet mig ved at udvikle mine Tanker nøiere om, hvad Oplysnings-Værket skulde omfatte og hvor-
+<pb facs="1840_32_page0017.png"/>
+<fw type="pageNum">17</fw>
+dan det med Held kunde drives, er ligefrem den, jeg har angivet, at enhver Livs og Levnets Beskrivelse, altsaa ogsaa den Folkelige Høiskoles, maa være en <hi rend="spaced">Historie</hi>, der <hi rend="spaced">følger efter</hi> Bedriften og Begivenheden, og kan umuelig <hi rend="spaced">gaae forud</hi>; thi Alt hvad jeg derfor kan sige derom, maa kaldes Spaadom, Giætning, Drom eller Formodning, og jeg er saa vant til at høre mine Formodninger gjort latterlige, at jeg ikke bor knytte flere af dem end høist nødvendig til en i sig selv saa god og klar Sag, der ei maatte lide enten under Dunkelheden af mine Forestillinger eller under Andres Lyst til at spotte med dem. Naar jeg derfor nu vil stræbe at give et tydeligere Omrids af en for hele Landets Ungdom aaben Høiskole, hvor Alt dreiede sig paa <hi rend="spaced">Modersmaalet</hi> om <hi rend="spaced">Fædrenelandet</hi>, da maa jeg dog giøre det kort og holde det svævende, og endda udtrykkelig tilføie, at Eet er <hi rend="spaced">Trangen</hi> til en saadan Anstalt for Ungdommen til Oplysning om Danmark og Danskhed i alle Maader paa Modersmaalet, og noget ganske Andet er <hi rend="spaced">mine Tanker</hi> om, hvad der enten for Øieblikket eller i Længden kan vindes derved, og om Maaden, hvorpaa man helst skal gaae frem; thi disse Tanker kunde være meget tossede, og Indretningen blev dog lige nødvendig.</p>
+<p>Var det en Efterligning paa Dansk af Universitetet, med Examen for og bag, jeg foreslog, da var det vist nok nemt at opregne hvilke Veger, foruden Dansk Grammatik, man maatte have lært udenad 
+<pb facs="1840_32_page0018.png"/>
+<fw type="pageNum">18</fw>
+for at faae Lov til at indgaae i Helligdommen, og i hvilke Fag der skulde holdes Forelæsninger daglig eller ugenlig, hvert Halvaar, og da var det ligesaa let at forudsige Følgen, nemlig at enten slet Ingen frivillig giæstede et saadant Lighuus, eller at dog det Hele snart hensov eller hendøde, uden at have havt meer end Skin af Liv og Aarvaagenhed; men nu er det noget, desværre; blandt os aldeles Nyt, jeg har for Øie, en Oplysnings-Anstalt nemlig, hvorved Folket efterhaanden vaagnede til Selv-Bevidsthed, og hvor Lederne lærde ligesaameget af Ungdommen, som den af dem, en saadan levende Vexel-Virkning og indbyrdes underviisning, hvorved der lagdes Vro over det svælgende Dyb, Hierarchi, Aristokrati, Latinen og honet Ambition har befæstet mellem hardtad hele Folket paa den ene, og Dets Ledere og Lærere, med en Haandfuld saakaldte Dannede dg Oplyste, paa den anden Side, dette svælgende Dyb, hvori ellers snart hele det <hi rend="spaced">Borgerlige Selskab</hi> og al rolig, historisk fremskridende Udvikling Maatte gaae til Grunde. Ingen kan agte Folke-Raadets Oprettelse og dets saakaldte demokratiske og materialistiske (folkelige og grundfaste) Sammensætning for mere betimelig og velbetænkt end jeg, og Stemme-Samlingerne hos Folke-Mængden om Raadets Værd og Tilstrækkelighed nu og herefter, som, hvor urimelige de end maae findes, alt er begyndte, vil neppe ophore; men Følgerne maatte jo blive de sørgeligste, naar ikke <hi rend="spaced">Borger</hi> og <hi rend="spaced">Bonde</hi> baade i og udenfor Folke-Raadet lære at forstaae sig selv og 
+<pb facs="1840_32_page0019.png"/>
+<fw type="pageNum">19</fw>
+os, at tænke paa det Heles Tarv, paa <hi rend="spaced">Fædrenelandet</hi> fordum og herefter, og selv naar Man har størst Overtro paa <hi rend="spaced">Folkets</hi> Boglæsning og <hi rend="spaced">Bogstavers</hi> Magt, maa man kun grue desmeer for den Oplysning, <hi rend="spaced">Folke-Bladene</hi> udbrede. Om der- for end Folkets og Fædrenelandets Sande Venner tvivlede om, at en saadan <hi rend="spaced">folkelig Hoiskole</hi>, som . jeg forestaaer, vilde findes muelig eller kunde lykkes, saa burde man dog, jo for, jo heller, giøre en Prøve, hvorved det var <hi rend="spaced">slet Intet</hi> at <hi rend="spaced">tabe</hi>, Men Ingen veed hvormeget, maaskee <hi rend="spaced">Alt</hi> at <hi rend="spaced">vinde</hi>. Under <hi rend="spaced">fortvivlede</hi> Omstændigheder foretager man sig dog ellers i vore Dage de æventyrligste og tit i borgerlig Henseende de fordærveligste Ting, saa vi maae dog vel have Mod til at prøve saa uskyldig og paa ingen Maade urimelig en Ting, som at oplyse det fredeligste Folk under Solen om hvad der tjener til dets Fred, det kiærligste Folk om hvad <hi rend="spaced">Kiærlighed</hi> til <hi rend="spaced">Fædrenelandet</hi> vil sige, og endelig at oplyse det til alt Muntert og Fornøieligt letnemme Folk om, hvilken Uudtømmelig Kilde til uskyldigt Morskab og fælles Fornøielse de har i dem selv, i gamle og nye Viser, i folkelige Bøger og i „deiligst Vang og Vænge," naar de kun lære at benytte sig deraf.</p>
+<p>Hermed er nu egenlig sagt, hvad der paa den folkelige Høiskole maa stræbes efter, først nemlig: Forstand paa Folket, uden hvilket vi ei kan tiltale dem, saa de forstaae os, og dernæst <hi rend="spaced">Meddelelse</hi> af Alt hvad der til Gavn og Glæde kan være <hi rend="spaced">Fælles</hi>-
+<pb facs="1840_32_page0020.png"/>
+<fw type="pageNum">20</fw>
+gods, og endelig den <hi rend="spaced">Oplysning</hi>, der maa findes hos de bedste Hoveder i alle Kredse, for at Folke-Raadet baade kan vælges og virke til <hi rend="spaced">fælles Bedste</hi>, som maa være den uforanderlige Grundlov i ethvert <hi rend="spaced">Selskab</hi>, der skal bestaae med Folkets Villie og blive gammelt med Æren. Dette er klarlig <hi rend="spaced">Maalet</hi>, og om <hi rend="spaced">Veien</hi> kan der ikke siger stort, da den først skal <hi rend="spaced">banes</hi> og for en stor Deel <hi rend="spaced">brydes</hi>, hvad naturligviis kun vil lykkes i Forhold til Ve Evner, som modes, og den Umage, man vil giøre sig paa <hi rend="spaced">begge</hi> Sider. Nemt er det vist nok at sige, at det baade først og sidst er <hi rend="spaced">Munden</hi>, der maa bruges, deels fordi den er det eneste <hi rend="spaced">levende</hi> Redskab, Aanden har paa Jorden, og deels fordi vi aldrig faae meer tilfælles med Folket end hvad der baade kan rummes i den og af sig selv gaae fra Mund til Mund, og det er ligesaa nemt sagt, at kun i samme Forhold, som <hi rend="spaced">Talen</hi> bliver til en <hi rend="spaced">Sam-Tale</hi>, deels mellem Gamle og Unge, og deels mellem de Unge indbyrdes, kun i samme Forhold lykkes Oplysningen; men hvorvidt Vedkommende vil have Sind til at hjelpes ad og bære over med hverandre, til Munden kommer ret paa Gang, det maa Tiden vise, og skiøndt jeg er sikker paa, Vanskelighederne lade sig overvinde, fordi Munden paa begge Sider dog er gjort til at tale med og kun ved en gal Dreining sprunget i Baglaas, saa veed jeg dog endnu meget vissere, at Vanskelighederne ikke lade sig bortsnakke.</p>
+<p>Naar jeg derfor udlader mig lidt yderligere om 
+<pb facs="1840_32_page0021.png"/>
+<fw type="pageNum">21</fw>
+begge Dele, er det mest kun for at vise, jeg virkelig godt veed, hvad der skulde frem for en Dag, men kun maa være min Uvidenhed bekiendt om hvad Andre kan giøre, da jeg tit ikke veed hvad jeg selv kan enten sige eller giøre, for jeg <hi rend="spaced">prøver</hi> paa det, og naar noget Godt ei findes aldeles umueligt, bliver ved at prøve, til det lykkes.</p>
+<p>Hvad jeg nu først mener ved at forstaae Folket, kan jeg ikke udtrykke mere kort og fyndigt end jeg gjorde alt for sexten Aar siden saaledes:</p>
+<lg>
+<l>Hvo Folket vil træffe</l>
+<l>Tilbunds under Øe,</l>
+<l>Med Folket maa bjæffe,</l>
+<l>Om ei det kan gise,</l>
+<l>Hvo for det vil sjunge,</l>
+<l>Maa laane dets Tunge,</l>
+<l>Og lære at aande paa den.</l>
+</lg>
+<lg>
+<l>Hvad end vi har skrevet,</l>
+<l>Hvad end vi har talt,</l>
+<l>Hvad <hi rend="spaced">Dansk</hi> har fordrevet,</l>
+<l>For <hi rend="spaced">Dansken</hi> er galt;</l>
+<l>Skal Folket opøse,</l>
+<l>Med Bagen af Haand,</l>
+<l>Vor Lærdoms Bundløse</l>
+<l>Af Lyst til vor Aand,</l>
+<l>Da reen er den Regning,</l>
+<l>Vi spildte vor Tegning,</l>
+<l>Men Folket ei spilder sin Tid. *)</l>
+</lg>
+<p>*) Nyaars-Morgen 1824. S. 99-100.</p>
+<pb facs="1840_32_page0022.png"/>
+<fw type="pageNum">22</fw>
+<p>Men da jeg baade har prøvet og lært endeel siden, kan jeg vel nok giøre dot lidt tydeligere, at jeg mener noget ganske Andet end hvad man har kaldt „<hi rend="spaced">Popularitet</hi>" og allerede ved <hi rend="spaced">Navnet</hi> viist, rar noget Udenlandsk, man ei engang kunde fordanske, langt mindre indbilde Folket, man havde lært af dem. Enten stræbde nemlig vore populære Skole-Mestre kun at oplyse Vorn om hvad de godt vidste, men Syndes, var ikke Umagen værdt at tale om: at Grisene havde fire Been, men Hønsene kun To, og at Næsen sad midt imellem begge Vinene og var egenlig gjort til at lugte med, eller de forklarede Morskab ved hvad der var „interessant," Himlen ved „Firmamentet," og Ligegyldighed ved en „Miskiendelse af Gienstandenes Værd og Vigtighed," eller, naar det gik bedst, øvede de sig dog kun i at „snakke for Vorn" hvad ei er at laste, men huer dog hverken Mænd eller Ungersvende, og oplyser intet Folk om sin naturlige Beskaffenhed, Tarv og Trang, Læs og Lykke, Lyst og Nod, og dog er det herom vi skal lære at tiltale dem, saa de forstaae os, og tale med dem, saa det opmuntrer, opliver og oplyser dem.</p>
+<p>For nu at forstaae et Folk, saa vi kan tale ud af Dets Hjerte, maa Folket have Deel i vort Hjerte, og laane os sin Tunge, saa hvis vi ringeagte de Smaa og Modersmaalet, som det er i <hi rend="spaced">Folke-Munde</hi>, da blive vi naturligviis aldrig folkelige; men selv naar ingen af Delene er Tilfældet, og vi med Flid bruge alle baade indvortes og udvortes Hielpemidler til at 
+<pb facs="1840_32_page0023.png"/>
+<fw type="pageNum">23</fw>
+sætte os ind i Folkets naturlige Tankegang og tilegne og, ikke dot Flane, Dræbende og Stedende, men det Levende, Ejendommelige i deres Talemaade, saa giør dog det Fremmede og Unaturlige i vor Dannelse, saavelsom den forte Armod i aandelig Forstand hos Folket, at vi kun meget vanskelig og enstund meget ufuldkommen lære at forstaae hinanden. Hvad mig Selv angaaer, der dog baade som Skjald, som Sællandsfar og Jydefostre, og som en gammel Orm i de Danskeste Bøger, har endeel forud for de Fleste, da maa jeg bekiende, at jeg kun sjelden engang kan tale saa godt Dansk og saa folkelig, som jeg kan strive, og det skulde derfor slet ikke undre mig, om de fleste Ledere i Begyndelsen ret bogstavelig maatte holde „Fore-Læsninger," og naar kun det, de læste for, var tydeligt og folkeligt, vilde ogsaa Det have sin Nytte, men var dog immer en Nødhjelp, der ingenlunde maatte giøres til Regel.</p>
+<p>Saameget om hvad man vilde kalde Lære-Maaden (Methoden,) men hvad jeg kalder Tale-Gaverne, og Folket Forstand paa at belægge sine Ord, og jeg vil kun tilføie, at det lærer man slet ikke af nogen <hi rend="spaced">Dansk Grammatik</hi>, men kun, naar man er folkelig sindet, ved at bruge sine Øren og med Eftertanke læse flittig i saadanne Bøger som den <hi rend="spaced">Danske Rimkrønike</hi> og Peer <hi rend="spaced">Syvs Ordsprog</hi>.</p>
+<p>Komme vi nu til Spørgsmaalet om <hi rend="spaced">hvad</hi> der ved Hjelp af saa livlig Tale, som man kan føre, skal meddeles ungdommen paa den folkelige Høiskole, da 
+<pb facs="1840_32_page0024.png"/>
+<fw type="pageNum">24</fw>
+giver det vist nok ikke stor Oplysning at sige: ingenlunde Alt hvad vi veed, men Alt hvad deraf til Gavn og Glæde kan være <hi rend="spaced">Fællesgods</hi>; men dog lader sig forud ei sige stort mere med Sikkerhed, da Ingen kan give mere end han har, og kun Erfaring kan lære <hi rend="spaced">hvormeget</hi> deraf Folket baade kan finde Smag i og ordenlig fordøie.</p>
+<p>I den korte Grundsætning ligger desuden en Advarsel for den Sædvanlige Skolemester-Feil, at ville proppe selv i Vorn, end sige da i Ungersvende, <hi rend="spaced">A l t</hi> hvad man veed, og især det Tørreste og mest Ufordøielige, saa naar <hi rend="spaced">Professorer</hi> har nogen anden Hensigt med deres Forelæsninger end at holde dem, maa det være at danne ligesaadanne Professorer som de selv er i Sneje og Hundrede-Viis, hvad til Nod gaaer an i <hi rend="spaced">Tydskland</hi>, hvor Universiteternes Navn er Legio, men er fortvivlet i Danmark, hvor Universitetet kun er eet, og Professorerne i de fleste Fag kun fjelden To ad Gangen. Gjorde man nu noget Lignende paa den folkelige Høiskole, i den Tanke, at der hængde dog immer Lidt ved, saa der vandtes et vist <hi rend="spaced">videnskabeligt Anstrøg</hi>, da begik man en uhyre Daarlighed, og plagede de ni Tiendedele af Ungdommen for at giøre den ene Tiendedel enten latterlig eller dog misfornøiet med sin Livs-Stilling og ufrugtbar i den. Men selv naar Dette staaer os levende for Vine, saa vi med Flid stræbe hos os Selv at adskille hvad der kun tilhorer os som <hi rend="spaced">Enkeltmænd</hi>, det være nu en vis Tro og Forkiærlighed, 
+<pb facs="1840_32_page0025.png"/>
+<fw type="pageNum">25</fw>
+eller en vis Lærdom, Konst eller Vidskab, fra hvad vi kan have <hi rend="spaced">tilfælles</hi> med <hi rend="spaced">Folket</hi>, og stræbe kun at meddele Dette, saa er dog Fejltagelser uundgaaelige, og vil især i Begyndelsen være hyppige, saa man giver baade for meget og for lidet, uden at derom er andet at sige, end at man maa Sorge for saa gode Ledere, fem mueligt, og lade dem selv see til, hvordan de komme ud af det, men de maae da ogsaa kunne rore sig frit efter bedste Skiøn.</p>
+<p>Man kan jo saaledes nok, baade efter Sagens Natur og vort Folks Ejendommelighed, forudsige, at det især vil være <hi rend="spaced">Historie</hi> og <hi rend="spaced">Poesi</hi>, og deraf igien Fædrenelandets <hi rend="spaced">Historie</hi> og <hi rend="spaced">Viserne</hi>, der paa vor folkelige Høiskole vil Spille Mester, og det aabner i mine Øine de lyseste Udsigter; thi naar denne Tilbøielighed næres og godt benyttes, da vil Folket see, de har et navnkundigt Fædreneland, hvis Ære er en Arv, do skylde deres Vorn, og Folke-Livet baade i hvor Mands Huus og ved Gilder og Samkvem vil faae et anderledes ædelt og muntert Præg, end i mange Aarhundreder. Men Selv om vi med Rette kunde indskrænke Meddelelsen til Historie og Poesi, saa var dog dermed lidet eller intet Sagt, da Intet er lettere at mishandle, medens rigtig og folkelig Anvendelse beroer paa den Rigdom, Sands og Takt, der findes hos Lederne, og den Erfaring, de efterhaanden indsamle.</p>
+<p>Men ligesom der allerede i denne Henseende vil kiendes mærkelig Forskiel mellem „Sællandsfar og 
+<pb facs="1840_32_page0026.png"/>
+<fw type="pageNum">26</fw>
+Jyde," saaledes kan Høiskolen slet ikke indskrænkes til visse Fag, da der i alt Menneskeligt er endeel Folkeligt, og især maa man ønske, at Folket vil stiænke hele Fædrenelandets <hi rend="spaced">nærværende</hi> Tilstand, Dets Stats-Forfatning, Love og Indretninger, saavelsom dets Handel og Søfart, Næringsgrene og naturlige Beskaffenhed en god Deel af sin Opmærksomhed, hvad i vore Dage heller aldrig kan feile, naar der blot kan findes Sagkyndige, der vil være barmhjertigere end <hi rend="spaced">Juristerne i Roeskilde</hi>, forstaae at giøre hvad de veed anskueligt og levende, og har Vid til at kryddre hvad ellers vilde falde for tørt. Heller ikke her nytter det da forud at ville foreskrive Noget, da Alt beroer paa hvad Vedkommende har at give og hvormegen Umage de vil giøre sig for at oplyse og opmuntre Folket. Opgaven er her saameget vanskeligere, som de bedste Hoveder skulde lære ikke blot at danne sig en tydelig Forestilling om Alt hvad der kan møde dem i <hi rend="spaced">Folke - Raadet</hi>, men ogsaa at udtrykke med Lethed hvad de tænke derom; thi under sin lange Skindød har Folket næsten glemt hele den ædlere Deel af Modersmaalet, og ved at snakke enten os efter Munden eller „tale efter Skriften" som Jyden siger, falder Borger og Bonde nødvendig i en stiv Præke-Tone eller Skolemester-Stil, som klæder dem grumme stygt og berøver deres Ord næsten al Virkning undtagen den Latterlige. Her er gode Naad dyre, men heller død end raadvild, siger Ordsproget, og derved mindes vi om, at' en Levning af Modersmaalets Fynd og Her-
+<pb facs="1840_32_page0027.png"/>
+<fw type="pageNum">27</fw>
+lighed har Folket dog bevaret i <hi rend="spaced">Ordsprøgene</hi>, som her kan komme dem ypperlig tilpas, naar de lære at anvende dem paa Andet end Hverdags-Ting. Her moder nu vel igien den Vanskelighed, at vi kiende for det meste kun lidt til Folkets Ordsprog, og kimse gierne ad dem, men det Sidste er aabenbar en Uvane, vi skal lægge af, og for det Første er der Hjelp; thi deels har vi Øren for at bruge dem, deels mindes vi dog immer endeel gamle Bekiendtere, naar vi stode paa dem hos <hi rend="spaced">Syv</hi> eller <hi rend="spaced">Laale</hi>, og endelig har jeg alt i Ungdommen været saa forsynlig at optegne alle de <hi rend="spaced">Ordsprog</hi> jeg kunde mindes at have <hi rend="spaced">hørt</hi>, og det blev ventelig den første lille Vog, jeg gav ud efter Højskolens Stiftelse, for at bringe min Skiærv og opmuntre Andre til at giøre ligesaa. Mange tænke vel endnu, det er ligegyldigt om man finder et Ordsprog i Munden eller tager det op af en Bog, men deels vil Erfaring lære, det giør hos Folket en mærkelig Forskiel, og deels giver Fornuften, at et Ordsprog, vi aldrig har hørt i Sammenhæng, kan vi selv sjelden eller aldrig giøre levende Brug af,</p>
+<p>Jeg tør nu troe at have viist, at Grunden hvi der ingen egenlige <hi rend="spaced">Forskrifter</hi> lade sig give enten om Indholdet af Meddelelsen, eller om <hi rend="spaced">Fremgangsmaaden</hi> paa den folkelige Høiskole, ligger deri, at det ikke skal være en Skole for Døden men for Livet, saa Alt kommer an paa hvormegen Livskraft der mødes, og hvor godt den anvendes; men det kan vel være, at Mange just derfor vil tænke at 
+<pb facs="1840_32_page0028.png"/>
+<fw type="pageNum">28</fw>
+Vanskelighederne er uovervindelige, og dertil kan jeg blot Svare, at prøver man ikke engang paa det, overvindes de naturligviis ikke, men at det er Feighed at give tabt for en Fiende, for man har prøvet Styrke med ham, og dog er den herskende <hi rend="spaced">Uforstand</hi> paa Livet, parret med latterlig <hi rend="spaced">Selvklogskab</hi>, den frygteligste Fædrenelandets Fiende, der endnu oprandt. At det fra Forst af vil være vanskeligt at finde Ledere, som med den nødvendige Kundskab og Indsigt forbinde Liv og Lyst til at arbeide paa Losningen af den store, men blandt de Lærde sædvanlig foragtede eller forhadte Opgave, det følger af Tidens Pinagtighed; men dog formoder jeg at Endeel af Professorerne i <hi rend="spaced">Sorø</hi> vilde med Fornøielse giøre deres Bedste, nogle gode Medhjelpere vilde ogsaa sikkert findes, og selv skulde jeg, naar det ønskedes, gierne, saalænge jeg kunde, aarlig nogle Maaneder tage Deel i en Kiærligheds-Gierning, jeg er vis paa vilde gavne og glæde Fædrenelandet til de sildigste Slægter og saaledes være sin egen rige Løn. Hvor det imidlertid aldeles kommer an paa Vedkommendes <hi rend="spaced">Liv</hi> og <hi rend="spaced">Lyst, Evner</hi> og <hi rend="spaced">Flid</hi>, om et Storværk skal lykkes eller ikke, der maatte ethvert Misgreb have de sørgeligste Følger, naar det ikke snart og let kunde rettes, og dog maatte det oftere blive Tilfældet, at man skusfedes i sine Forventninger, saa Erfaring viste, at her var Lysten og Fliden uden tilsvarende Evner, og hist Evnerne uden Lysten og Driften unyttige; derfor maatte alle de nye Ledere, der ansattes ved Høiskolen, kun antages 
+<pb facs="1840_32_page0029.png"/>
+<fw type="pageNum">29</fw>
+„indtil videre," uden alt Krav paa nogen Godtgiørelse, hvis man ikke fandt sig tjent Med dem. Dette vilde være saameget nødvendigere, som Lederne, for at kunne opoffre sig til deres Kald, maatte lønnes godt saalænge de var det, og uværdige Personer derfor ved allehaande Midler vilde stræbe at indsnige sig, naar Ansættelserne enten gav „visse Levebrod," eller Net til, naar man fandtes uduelig, at faae Penge for ingen Ting at giøre. Naar derimod Stillingen var uden Nærings-Sorger, saalænge den varede, Men Varigheden uvis, og slet ingen Fordeel fulgde med Aftakkelsen, undtagen naar man forst havde tjent i en Række af Aar (ti eller derover) til Takke, da kunde man være sikker paa i Regelen altid at faae de dueligste Ledere, der fandtes i Riget, og videre kan man naturligviis ikke komme.</p>
+<p>Man kan nu vist nok ogsaa tvivle om, hvorvidt en Høiskole blot for <hi rend="spaced">Danskhed</hi> og <hi rend="spaced">Modersmaal</hi> fra Forst af vilde blive synderlig besøgt; thi paa den ene Tide er der intet Land i Christenheden, hvor man har saa store Tanker om det Fremmede og saa ringe om sit Eget, som i <hi rend="spaced">Danmark</hi>, og paa den anden Side har de Fleste fra Barnsbeen en saadan Rædsel i Vlodet eller dog afgjort Modbydelighed for Alt hvad der hedder <hi rend="spaced">Skole</hi>, at de i Ungdoms - Aarene ei lettelig giæste en saadan Indretning, naar den hverken lover dem visse Levebrod eller Rang og Anseelse for det; men deels har dog ogsaa hos os opvakte unge Mennesker Lyst til at prøve Nyt, hvor 
+<pb facs="1840_32_page0030.png"/>
+<fw type="pageNum">30</fw>
+de kan <hi rend="spaced">frit</hi> gaae ind og ud og skal ikke i „pinligt Forhor", og reels maa <hi rend="spaced">Kiærlighed</hi> til <hi rend="spaced">Fædreneland</hi> og <hi rend="spaced">Modersmaal</hi> dog, trods alle Betænkeligheder, Snart Samle den bedste Deel af Ungdommen, hvor <hi rend="spaced">Fædrenes</hi> Banner vaier og hvor den hører sin <hi rend="spaced">Moders</hi> Røst. Derfor skader det slet ikke, om man kun har Faa at begynde med, thi Selv har vi kun Lidt at begynde med, og maatte vel, om vi saae Folket strømme til os, mismodig tænke: hvad er det iblandt Saamange, saa vi kan have godt af lidt Pusterum, og Folket Meget gost af, at Erfaring laerer os at undgaae de værste Misgreb, for de kunde giøre Skade.</p>
+<p>Endelig kan man ogsaa mene at Høiskolen, selv naar den blev allerbedst, og trindt i Landet skattet efter Fortjeneste, vilde være utilstrækkelig til at oplyse hele Folkets Ungdom, ja, selv naar man husker, hvad nu sædvanlig glemmes, at Høiskolen ingenlunde er til for Kiødhoveder, men kun for de Opvakte, da kan man dog sige, at de uundgaaeige udgifter ved Besøget af Høiskolen vil hindre Mange derfra; men naar kun Værket kommer i Gang og bliver et folkeligt Storværk, da er det kun unyttige Sorger Man giør sig for dets nødvendige ufuldkommenheder, og det er desuden soleklart, at jo længere Høiskolen virker, des flere og des bedre Medhjelpere faaer den trindt i Landet, saa, skiøndt den aldrig bliver overflødig, bliver den dog immer mindre uundværlig. Den naturlige og folkelige Oplysning forholder sig nemlig i alle Maader til den 
+<pb facs="1840_32_page0031.png"/>
+<fw type="pageNum">31</fw>
+Unaturlige og Fremmede, som <hi rend="spaced">Liv</hi> til <hi rend="spaced">Død</hi>, saa de Samme Natur-Love, som giør, at den <hi rend="spaced">Latinske</hi> Oplysning, efterat være drevet af alle Kræfter i <hi rend="spaced">trehundrede</hi> Aar, nu knap er at finde paa <hi rend="spaced">Universitetet</hi> selv, end sige andensteds, de samme Natur-Love vil giøre, at Naar den <hi rend="spaced">Danske</hi> Oplysning er drevet blot med skikkelig Kraft i een Menneske-Alder, da vil Man mode den Selv i Hytterne paa Heden, og Dens Høiskole vil kun staae i Midten, som den store Brændpunkt, hvori alle Straaler Samle sig, for med fornyet Kraft at vende tilbage og oplyse <hi rend="spaced">Livet</hi> og opklare Aasyn i alle Kroge. Hvad man kun lærer for en Examens og et Levebrods Skyld, det skynder man sig naturligviis at glemme, naar Examen er overstaaet og Levebrødet opnaaet, og giør det Med saameget bedre Samvittighed, som man Seer, det ingenlunde oplyser eller forsøder, men fordunklet og forbittrer <hi rend="spaced">Livet</hi>; men hvad Man kun lærer, fordi man har Lyst dertil, det giemmer man i Grunden aldrig, og det stræber man des ivrigere at forplante, jo tydeligere man af Erfaring overbevises om, at det fører til en sand og munter Livs-Anskuelse, giør os dygtigere til vor Gierning og mere tilfreds med vor Stilling end vi ellers vilde været. Derfor vil man finde, at fremfor Alt med en <hi rend="spaced">Kongelig Dansk</hi> Høiskole, hvor <hi rend="spaced">Modersmaalet</hi> udfolder sig i hele sin de Fleste ubekiendte Rigdom og mageløse Utidighed, hvor <hi rend="spaced">Fædrenelandet</hi> i al sin Deilighed, i Lys og Skygge, staaer afbildet for vore Øine, med Veiene til Ære 
+<pb facs="1840_32_page0032.png"/>
+<fw type="pageNum">32</fw>
+og Lykke, som Stier der snoe sig giennem Kornmarker, og hvor alle <hi rend="spaced">Folkets</hi> gamle <hi rend="spaced">Helte</hi> vaagne ved <hi rend="spaced">Kæmpeviserne</hi>, for aandelig at gientage deres Helte-Gierninger, med en saadan Høiskole er det bogstavelig kun det <hi rend="spaced">første</hi> Skridt, der koster. Og <hi rend="spaced">hvad</hi> koster saa vel det første Skridt? <hi rend="spaced">Af Penge</hi> slet ikke Andet end hvad der af Fædrene og deres Konger var bestemt til en „Patriotisk Høiskole" som ikke selv Aarhundreder kunde give <hi rend="spaced">Latinerne</hi> Hjemmel paa, og som de ikke engang upaatalt besad i den laveste Hjemmels-Tid. <hi rend="spaced">Af Kræfter</hi> kun de svage Levninger, som end er tilbage af hvad der opflammede <hi rend="spaced">Danmarks</hi> Landsfædre, Helte, Skjalde, Sagamænd, Kvinder, Borgere og Bønder, til at elske, ære og tjene Fædrenelandet, og til, saavidt de kunde, at sikkre al ædel Daad et priseligt Eftermæle paa Modersmaalet og et kiærligt Minde hos Efterslægten, kun disse Kræfter koster Oprettelsen af den Danske Høiskole, og hvortil kan de bruges bedre end, som et Stød i <hi rend="spaced">Gjallarhornet</hi>, til at vække de hensovne Kæmper til den sidste Strid for Fædreland og Modersmaal, vække hvad nu maa vaagne eller sove den evige Søvn. Og nu endelig Mod, hvoraf vi vist nok Intet har at miste, hvormeget af det skulde der vel behøves for at raabe om Hjelp til at bygge <hi rend="spaced">Dannevirke</hi>? Hvormeget Mod behøve vi, det gamle Danmarks erklærede Venner, eenlige, adspredte, som vi staae, omringede af <hi rend="spaced">Latinismer, Gallicismer</hi> og <hi rend="spaced">Germanismer</hi>, for at samle alt det 
+<pb facs="1840_32_page0033.png"/>
+<fw type="pageNum">33</fw>
+Beslægtede hos Folket omkring os og prøve, om <hi rend="spaced">Dansk</hi> dog ikke endnu er det Stærkeste paa Marken? Havde vi ikke engang saameget Mod, da maatte vi være glade ved de gamle Kæmpers Død, thi de vilde Sparket til os som <hi rend="spaced">Thor</hi> til Dværgen ved Balders - Baalet.</p>
+<p>Altsaa, det første Skridt koster ubetydeligt, og det er Alt, thi mislykkedes det, da var „Historien" ude, og lykkes det, da har vi Seiret, da Seirer med os baade <hi rend="spaced">Nordens Aand</hi> og <hi rend="spaced">Danmarks Hjerte</hi>, og da kan vi ikke sinde det værdt at nævne hvad Seiren kostede, men maae finde, vi for Spotpriis have faaet Deel i den Udødelighed, ingen Himmelegn gav sine Kæmper saa stolt som <hi rend="spaced">Norden</hi> og intet Land sine Kiære saa listig som <hi rend="spaced">Danmark</hi>.</p>
+<p>Her vil jeg standse, thi i Danmarks Skiød er sødt at hvile, saa Selv naar Dannemænd fole, deres Kald er Kamp, vil deres Lyst dog være Hvile, og for nune Øine er Kampen egenlig alt overstaaet og Seieren vundet, saa det kun giælder om at benytte sig mildt men virksomt af den, og i den Danske Høiskole reise et <hi rend="spaced">Dannevirke</hi> ingenlunde paa Strid, men kun til Værn i en Fremtid, der vil have sine store Farer og maa ikke fattes Mod til at see dem under Øine eller famlede Kræfter til at overvinde dem. Alle Danmarks Helte var døde, saa nær som <hi rend="spaced">Holger Danske</hi>, men han slog alt for mine Vine Fienderne af Marken, <hi rend="spaced">Kæmpevisen</hi> var forstummet i Palladserne, og nynnedes kun svagt i Hytterne, 
+<pb facs="1840_32_page0034.png"/>
+<fw type="pageNum">34</fw>
+i Skoven og paa Heden, men under Seiers - Følelsen blev den atter høirøstet trindt paa Marken, og har begyndt paany at udbryde i en Toners Mangfoldighed, som maa forbause alle Lydhøre. Vist nok vil dette Tone-Hav ved en <hi rend="spaced">Dansk Høiskole</hi> baade kiendelig voxe og langt klarere udbrede sig, men at Kæmpevisen endnu for Skolen reiste sig, ved Livs-Kraften i det Danske Hjerte, har overvundet Deden, og sammensmeltet <hi rend="spaced">Fredriks</hi> og <hi rend="spaced">Christjans</hi> Kongenavne med <hi rend="spaced">Skjoldungers</hi> og <hi rend="spaced">Valdemarers, Maries</hi> og <hi rend="spaced">Carolines</hi> med <hi rend="spaced">Dannebods</hi> og <hi rend="spaced">Dagmars</hi>, det er dog en Kiendsgierning, som Efterslægten høilig vil undres over, vore Samtidige kunde oversee, men vil finde, retfærdiggjorde mine dristigste Forventninger om et <hi rend="spaced">Dansk Gyldenaar</hi>, der i <hi rend="spaced">Christian</hi> den <hi rend="spaced">Ottendes</hi> Dage skal fede i Lys hvad i <hi rend="spaced">Frederik</hi> den <hi rend="spaced">Sjettes</hi> undfangedes i Løn, og som et venligt Skyggebillede af denne glædelige Begivenhed, vil jeg her lade et Kvad om <hi rend="spaced">Sorø</hi> komme for Lyset, som, for mange Aar siden, undfangedes i Løn i „Nyaarsmorgen-Stunden."</p>
+<fw type="graphic"/>
+</div>
+<div> 
+<pb facs="1840_32_page0035.png"/>
+<fw type="pageNum"></fw>
+<head>Morgendrøm om Sorø.</head>
+<lg>
+<l><hi rend="initial">Ti</hi>l Kirke din i <hi rend="spaced">Ryaars - Nat</hi> *),</l>
+<l>Du Vy af Kloster-Stene!</l>
+<l>Med viet Lys, paa Syn opfat,</l>
+<l>Jeg gik engang fuldene,</l>
+<l>Og som jeg saae, med Fieder-Stav</l>
+<l>Paa gamle Danmarks Adel-Grav</l>
+<l>Jeg risted Saga-Runer.</l>
+</lg>
+<lg>
+<l>Fra Himlen høit, mig tykdes, klang</l>
+<l>Da Ord om Liv af Døde,</l>
+<l>Og var det saa, betød min Sang</l>
+<l>En Paaske-Morgenrøde,</l>
+<l>En Straale af forklaret Stov,</l>
+<l>En Maidag for det brune Lov</l>
+<l>I Glandsen af Kiærminder.</l>
+</lg>
+<lg>
+<l>Alt fra den Stund fuldmeget Vand</l>
+<l>Vel løbet er til Strande,</l>
+<l>Og end ei saae jeg Stov af <hi rend="spaced">Dan</hi></l>
+<l>Forklaret op at stande;</l>
+<l>Men hvad der fødtes, som mit Haab,</l>
+<l>Af Saga-Aand i Lue-Daab,</l>
+<l>Det trodser Tidens Bølger.</l>
+</lg>
+<p>*) Mit Kvad om „Sorø Kirke" udkom nemlig først i en lille Samling 1810, kaldt „<hi rend="spaced">Nyaars-Nat.</hi>"</p>
+<pb facs="1840_32_page0036.png"/>
+<fw type="pageNum">36</fw>
+<lg>
+<l>Vel speller sig i Verdens Hav</l>
+<l>Gometens vilde Flammer,</l>
+<l>Og Bølgen rødmer til en Grav</l>
+<l>For stolte Folke-Stammer,</l>
+<l>Men i det rode Hav forgaaer</l>
+<l>Kun hvad sin Lid til Verden staaer,</l>
+<l>Gi hvad paa Himlen stoler.</l>
+</lg>
+<lg>
+<l>Den gyldne Soel, hvis Straaler faldt</l>
+<l>Paa Øster-Ledens Høie,</l>
+<l>Sig Speller end i Øster-Salt</l>
+<l>Skinbarlig for mit Øie;</l>
+<l>Med lige sød og liflig Klang</l>
+<l>De Danske Bølgers Havfru-Sang</l>
+<l>End tykkes mig at tone.</l>
+</lg>
+<lg>
+<l>Ja, da med Haanden under Kind,</l>
+<l>Jeg fad paa Kæmpe-Høie,</l>
+<l>Og fæstede ved Lampe-Skin</l>
+<l>Paa Urnerne mit Vie,</l>
+<l>Da tordned det fra Østerled</l>
+<l>Med Lyn i Lyn og stog saa ned</l>
+<l>I Asken af de Giæve.</l>
+</lg>
+<lg>
+<l>Da hørde lydt jeg Hyl og Hvin</l>
+<l>Af tordenslagne Trolde,</l>
+<l>Da steg der som en Straale fin</l>
+<l>Fra Asken af de Volde,</l>
+<l>En Fugl, paa Brystet askegraa,</l>
+<l>Guldtoppet flux jeg stagre saae</l>
+<l>Med regnbufagre Vinger.</l>
+</lg> 
+<pb facs="1840_32_page0037.png"/>
+<fw type="pageNum">37</fw>
+<lg>
+<l>Den fløi kuu lavt og knap saa fast,</l>
+<l>Som Struds paa Jord mon hoppe,</l>
+<l>Holdt Høiden mest med Orlogs-Mast,</l>
+<l>Og <hi rend="spaced">Sællands</hi> Bøge-Toppe,</l>
+<l>Men hvor den fløi, det lysned trindt,</l>
+<l>Og hvor den sang, der sprang i Flint</l>
+<l>Hver Dværg af Jette-Slægten.</l>
+</lg>
+<lg>
+<l>Den sang afbrudt, kun hist og her,</l>
+<l>Hvor der laae Stov af Helte,</l>
+<l>Som fordum bar i Marken Sværd</l>
+<l>Med Sandheds Styrke-Vælte;</l>
+<l>Ved Hanegal og Morgengry</l>
+<l>Da vaagned Kæmper op paany,</l>
+<l>Som havde ret udsovet.</l>
+</lg>
+<lg>
+<l>Hvor vidt Den fløi i Syd og Nord,</l>
+<l>Den Fugl, jeg kan ei fige,</l>
+<l>Men grandt jeg saae, Den kom til Sver,</l>
+<l>Som til de Dødes Rige,</l>
+<l>Der sang den høit, der sad den fast,</l>
+<l>Der Kampesteen og Marmor brast</l>
+<l>Paa Danmarks Adel-Grave.</l>
+</lg>
+<lg>
+<l>Der steg af Aske og af Stov</l>
+<l>Forklaret <hi rend="spaced">Skjalm</hi> hin <hi rend="spaced">Hvide</hi>,</l>
+<l>Og <hi rend="spaced">Æsger Ryg</hi> fra <hi rend="spaced">Fjennesløv</hi>,</l>
+<l>Med <hi rend="spaced">Axel</hi> ved sin Side;</l>
+<l>De steg med Hjelm, med Skjold og Sværd,</l>
+<l>Med Følge prudt til Herrefærd</l>
+<l>Paa Mark og saa paa Bølge.</l>
+</lg> 
+<pb facs="1840_32_page0038.png"/>
+<fw type="pageNum">38</fw>
+<lg>
+<l>Da steg, o <hi rend="spaced">Sorø</hi>! af sit Grus,</l>
+<l>Ved Siden ad din Kirke,</l>
+<l>Dit gamle Klosterskole-Hus,</l>
+<l>Fuldstørre Ting at virke;</l>
+<l>Den Aske-Fugl, der sang det op,</l>
+<l>Med Phenix-Kvad fra Kirke-Top,</l>
+<l>Han blev og Skole-Mester.</l>
+</lg>
+<lg>
+<l>Det var fuldunderligt et Syn,</l>
+<l>Han blev som Mand at stue,</l>
+<l>Med Haar som Aske, Blik som Lyn,</l>
+<l>Og Taare-Smil i Vue;</l>
+<l>Saa skaber Gud hver Gang paany</l>
+<l>Med Straale-Smil i Taare-Sky</l>
+<l>De Regnbu-Farver skiønne.</l>
+</lg>
+<lg>
+<l>Han talde som en Mester klog</l>
+<l>Vel med de Lærdes Tunge,</l>
+<l>Sin Fugle-Art han robed dog</l>
+<l>Ei blot ved lydt at Sjunge,</l>
+<l>Paa Vinger sig hans Ord udsvang,</l>
+<l>Og altid i sin Tanke-Gang</l>
+<l>Han Svæved over Bjerge.</l>
+</lg>
+<lg>
+<l>Hos ham ei Nogen gjaldt for klog</l>
+<l>Paa boglig Konst og Kierne,</l>
+<l>Som fandt ei til hvert Fugle-Sprog</l>
+<l>En Nøgel i sin Hjerne;</l>
+<l>Al Daad er kun en Efter-Klang,</l>
+<l>Al Viisdom kun forklaret Sang,</l>
+<l>Det var hans Indgangs-Tale.</l>
+</lg> 
+<pb facs="1840_32_page0039.png"/>
+<fw type="pageNum">39</fw>
+<lg>
+<l>Men vil paa Sang du vorde klog,</l>
+<l>Det var hans morke Tale,</l>
+<l>Da sæt dig i den Aske-Krog,</l>
+<l>Hvor Fuglen laae i Dvale!</l>
+<l>Al Lærdom er kun Aske-Dom.</l>
+<l>Det viste klart, han ihukom,</l>
+<l>Hvoraf han var oprundet.</l>
+</lg>
+<lg>
+<l>Alt som <hi rend="spaced">Herakles</hi> paa sit Skjold</l>
+<l>Sig lærde Selv at kiende,</l>
+<l>Taa lærde det hver Kæmpe bold</l>
+<l>Ved Blad i Vog at vende,</l>
+<l>Gik hver til Sit, i Mark, om Bord,</l>
+<l>Til Kongens Gaard og Landets Roer,</l>
+<l>Med Liv, med Lys og Styrke.</l>
+</lg>
+<lg>
+<l>Det var min Drom, du Kloster-By</l>
+<l>Fra <hi rend="spaced">Valdemarers</hi> Dage!</l>
+<l>Det er mit Haab, din Glands paany</l>
+<l>Skal vende Snart tilbage;</l>
+<l>Thi over Danmarks Adels-Been</l>
+<l>Du Stander som en Bauta-Steen</l>
+<l>Med Vente-Brev paa Runen.</l>
+</lg>
+<lg>
+<l>Ja, hvor en Æt, som den af <hi rend="spaced">Skjalm</hi>,</l>
+<l>Sit Bede-Sted har lavet,</l>
+<l>Og hvor saamegen ædel Malm</l>
+<l>Er ret med Flid begravet,</l>
+<l>Der Ædlinger maae groe som Guld,</l>
+<l>Der end maa dages over Muld</l>
+<l>En Skat for Land og Rige.</l>
+</lg> 
+<pb facs="1840_32_page0040.png"/>
+<fw type="pageNum">40</fw>
+<lg>
+<l>Hvor Skolen høi for Ridder-Iid</l>
+<l>Blev fat til Mindes-Mærke</l>
+<l>For Ridderne fra fordums Tid,</l>
+<l>Fuldtroe og kæmpestærke,</l>
+<l>Selv naar den sunket er i Grus,</l>
+<l>Det tegner til et <hi rend="spaced">Ridder-Huus</hi></l>
+<l>I Grunden ei desmindre.</l>
+</lg>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

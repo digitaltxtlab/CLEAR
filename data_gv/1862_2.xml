@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Bernhard Severin Ingemann.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-26"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="002"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1862">1862</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1862_2_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Bernhard Severin Ingemann.</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<lg>
+<l><hi rend="initial">M</hi>ellem Nordens Hoved-Skjalde,</l>
+<l>Som jeg hilsed fjern og nær,</l>
+<l>Ingen turde "Ven" jeg kalde,</l>
+<l>Oden ham, som daaned her;</l>
+<l>Mellem Høiolds Bautastene</l>
+<l>Staaer med <hi rend="spaced">Luren</hi> jeg alene!</l>
+</lg>
+<lg>
+<l>Intet dog har jeg at klage:</l>
+<l>I halvtredsindstyve Aar,</l>
+<l>Med de mange tusind Dage,</l>
+<l>Jeg i Vinter som i Vaar</l>
+<l>Fandt hos <hi rend="spaced">Ingemann</hi> en Broder,</l>
+<l>Sen af samme Skjaldemoder!</l>
+</lg>
+<lg>
+<l>Prise maa jeg da min Lykke,</l>
+<l>Vel som <hi rend="spaced">Danmarks</hi> Lykke stor];</l>
+<l>Thi, som meer end Skin og Skygge,</l>
+<l>Dyrt er <hi rend="spaced">Venskab</hi> trindt paa Jord,</l>
+<l>Sjeldnest vel imellem Skjalde,</l>
+<l>Som ei Muser <hi rend="spaced">eens</hi> paakalde!</l>
+</lg>
+<lg>
+<l>Derfor skal paa vore Grave</l>
+<l>Venskabsblomsten yndefuld,</l>
+<l>Rundet op i <hi rend="spaced">Freias</hi> Have,</l>
+<l>Længe dufte over Muld,</l>
+<l>Vidne, at i <hi rend="spaced">Danevangen</hi></l>
+<l>Blomsterduft har Fuglesangen!</l>
+</lg>
+<lg>
+<l>Hjertets Sanger der oplives</l>
+<l>Ved de Boldes Vaabenbrag,</l>
+<l>Daads-Herolden der henrives</l>
+<l>Ved det emme Hjertes Slag,</l>
+<l>Her <hi rend="spaced">jevnsides</hi> Løbebaner</l>
+<l>Har med <hi rend="spaced">Aser</hi> altid <hi rend="spaced">Vaner</hi>!</l>
+</lg>
+<p><hi rend="align(right)">UT. F. S. Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

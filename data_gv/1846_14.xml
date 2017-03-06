@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Stiftelsesdagen i Dronningens Asyl</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-24"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="014"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1846">1846</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1846_14_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Stiftelsesdagen<lb/></titlePart>
+	<titlePart type="sub">i<lb/>Dronningens Asyl<lb/>den 7de Mai 1846</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace>Kjøbenhavn.</pubPlace><lb/>
+<fw type="graphic"/>
+<docDate>Trykt hos J. D. Qvist.</docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<pb facs="1846_14_page0002.png"/>
+<fw type="pageNum"></fw>
+<head>Mel. Der stander et Slot i Østerrig.</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">D</hi>en fattig Fugl, han har det godt,</l>
+<l>Paa Marken og i Skoven,</l>
+<l>Fordi paa Himlens høie Slot</l>
+<l>Han har en Ven foroven;</l>
+</lg>
+<lg>
+<l>Han i sit Neb et lille Straa</l>
+<l>Kun bære kan til Rede,</l>
+<l>Men faaer dog Huus til sine Smaa,</l>
+<l>Histoppe og hernede!</l>
+</lg>
+<lg>
+<l>Saa har det godt og her vi Smaa,</l>
+<l>For høit i Kongesale</l>
+<l>Vi har en Ven, som tænker paa</l>
+<l>De Smaa, der knap kan tale;</l>
+</lg> 
+<pb facs="1846_14_page0002.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Den <hi rend="bold">Danske Dronning</hi> mild og blid,</l>
+<l>Livsalig overmaade,</l>
+<l>Hun sørger for de Smaa med Flid,</l>
+<l>Hun huser os i Naade!</l>
+</lg>
+<lg>
+<l>Den lille Fugl i grønne Lund</l>
+<l>Sin Ven med Toner søde</l>
+<l>Lovsynger høit i Morgenstund,</l>
+<l>Og saa i Aftenrøde;</l>
+</lg>
+<lg>
+<l>Vi nynne kan endnu kun smaat,</l>
+<l>Men Dronning Caroline,</l>
+<l>Som for de Smaa har Hjerte godt,</l>
+<l>Vi alle dog velsigne;</l>
+</lg>
+<lg>
+<l>Og faaer engang vi Fuglemund,</l>
+<l>Med Tone god paa Tunge,</l>
+<l>Om vores Ven i allen Stund,</l>
+<l>Som Fugle smaa vi sjunge!</l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

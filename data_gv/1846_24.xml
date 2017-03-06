@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Dansk Kirketidende</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-25"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="024"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1846">1846</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1846_24_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">1846.  Nr. 61 og 62.<lb/>Dansk Kirketidende,</titlePart>
+</docTitle>
+<byline>udgivet af<lb/>
+	<docAuthor>N. Th. Fenger og C. J. Brandt,<lb/>Candidater i Theologien.</docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition>2det Bind.)</docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace></pubPlace>Første Søndag i Advent, den 29. November. Nr. 9 og 10.<lb/>
+<fw type="graphic"/>
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Luthers Kirke-Sang</head>
+<head>"Sie ist mir lied, die werthe Magd."</head>
+<head>(Nabenb. 12.)</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">G</hi>uds Kirke! hvor du mig er kiær!</l>
+<l>Mit Hjerte du har vundet,</l>
+<l>I Yndighed ei fjern og nær</l>
+<l>Blev Søster til dig fundet,</l>
+<l><hi rend="align(center)">Saa om engang,</hi></l>
+<l><hi rend="align(center)">Ad Stien trang,</hi></l>
+<l><hi rend="align(center)">For dig jeg maa</hi></l>
+<l><hi rend="align(center)">I Ilden gaae,</hi></l>
+<l>Det stal mig ei fortryde,</l>
+<l>Thi du mig elsker, og jeg stal</l>
+<l>Din Kiærlighed vist nyde</l>
+<l><hi rend="align(center)">I Aar foruden Tal.</hi></l>
+</lg>
+<lg>
+<l>Paa Issen du en Krone har,</l>
+<l>Hvori tolv Stjerner tindre,</l>
+<l>Din Kaabe er som Solen klar,</l>
+<l>Dit Aasyn ikke mindre,</l>
+<l><hi rend="align(center)">Fuldmaane fin</hi></l>
+<l><hi rend="align(center)">Er Skammel din,</hi></l>
+<l><hi rend="align(center)">Du Dronning prud,</hi></l>
+<l><hi rend="align(center)">Du Konge-Brud,</hi></l>
+<l>Af Veer nu forsmægtet!</l>
+<l>Du fode stal en Søn saa bold,</l>
+<l>Som for alt Gud-Bestægtet</l>
+<l><hi rend="align(center)">Er baade Sol og Skjold!</hi></l>
+</lg>
+<lg>
+<l>Den gamle Drage spruder Ild,</l>
+<l>Og vil din Søn opsluge,</l>
+<l>Det faaer han dog ei Lykke til,</l>
+<l>Selv i en Dimmel-Uge,</l>
+<l><hi rend="align(center)">Paa Vinger nye</hi></l>
+<l><hi rend="align(center)">Din Søn i Sky,</hi></l>
+<l><hi rend="align(center)">Til Stjernetop</hi></l>
+<l><hi rend="align(center)">Sig svinger op,</hi></l>
+<l>Hvor vredt end Dragen fnyser!</l>
+<l>Du sidder vælgeløs i Sorg,</l>
+<l>Men jeg dog ikke gyser,</l>
+<l><hi rend="align(center)">Gud er din faste Borg!</hi></l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

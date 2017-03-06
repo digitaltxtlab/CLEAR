@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Takketelegram</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-26"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="005"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1871">1871</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1871_5_page0001.png"/>
+			<fw type="pageNum">19</fw>
+				<docTitle>
+	<titlePart type="main"><lb/></titlePart>
+	<titlePart type="sub"><lb/></titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<docImprint>
+				<pubPlace></pubPlace>.
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<p>Helteaand frem til Nutidens Kampe, fordi De har vakt de Kræfter, den Arv fra Fædrene, som slumrede i Folkenes Bryst. Vi takker Dem for, hvad De gjennem et langt Liv har stridt for Folkelighedens Sag, fordi De lige ind i Deres Alderdom har kæmpet med en altid gldende Varme, der er et lysende Forbillede for enhver Student. Vi takker Dem for de Kvad, som er strømmet fra Deres Læber midt under Striden. Deres Digt og Daad vil aldrig glemmes! De omgives i Deres Aften af Fædrelandets og hele Nordens Taknemlighed; men vi veed, at i den glæde, De maa føle herover, blander sig en tung Vemod, og vi har intet bedre Ønske end dette, at De maatte opleve at se den dybeste Smerte lægt, som Deres Fædrelandskjærlighed har lidt, at De maatte se det saarede Danmark helbredet og stærkt. Vi vil søge at tage Arv efter Dem i vort Arbeide for Nordens Fremtid; Faa eller Ingen vil eie Deres Evner og Kraft; maatte hver enkelt Mand og Kvinde i Nordens tre Lande arve om kun en ringe Del af Deres Begeistring og Tro, da vil Deres og vort inderlige Ønske opfyldes. Leve Norden! Det voxe ved folkelig Oplysning og Kraft, ved indbyrdes Kjærlighed!</p>
+<p>Paa det norske Studentersamfunds Vegne.</p>
+</div>
+<div>
+<head>Otto Blehr. Ebbe Hertzberg. W. Faye-Hansen. Kr. Petersen. Nordal. Rolfsen.</head>
+<fw type="graphic"/>
+<p>Biskoppen svarede strax:</p>
+<p>Til det norske Studentersamfund i Christiania.</p>
+<p>Med inderlig Taksigelse for Lykønskningen og i venlig Erindring af Norgesreisen 1851.</p>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

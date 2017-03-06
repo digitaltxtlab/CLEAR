@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Morskabslæsning</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-24"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="002"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1846">1846</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1846_2_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Morskabslæsning</titlePart>
+	<titlePart type="sub">for<lb/>Den Danske Almue.</titlePart>
+</docTitle>
+<byline>Udgivet af <lb/>
+	<docAuthor>H K. Nask.<lb/>Ny Fortsættelse.</docAuthor>
+				</byline>
+				<fw type="graphic"/>
+				<epigraph>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition>Nr. 9.	Juni.	1846.</docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Før og Nu.</head>
+<p><hi rend="initial">D</hi>et skjønneste ved vor Tid er den aabne og sunde Sands, hvormed man ikke alene seer fremad og omkring sig, men ogsaa tilbage paa de svundne Dage, og derved udbreder Lys over mange dunkle Forholde, hvorved oste Forfædrenes Miskiendelse ligesom gjøres god igjen, i det deres Efterkommere give Sandheden cere, og med et sundere og mere uhildet Blik komme til en ny Dom og Mening om Personer og Forholde, der vil beholde Gyldighed og Varighed, fordi de ere sande. Ja vi lære ret i vor Tid, at ikke alt gammelt er godt, at ikke alle gamle Domme ere sande, ikke alle gamle Meninger ere sunde og uhildede af Fordomme og Lidenskaber, men at derimod det gode, sande og sunde maa kunne bestaa for Efterverdenens Domstol, for en sindig og rolig og liden-</p>
+<pb facs="1846_2_page0002.png"/>
+<fw type="pageNum">266</fw>
+<lg>
+<l>Jeg skulde næstendels formode,</l>
+<l>Kritikken blev langt mere let</l>
+<l>For Verdens Børn om Skjønt og Ret,</l>
+<l>Hvis man var enig om det Gode.</l>
+</lg>
+<p>A. Öhlenschläger.</p>
+<fw type="graphic"/>
+<lg>
+<l>Mange paa Haand har Fingre fem,</l>
+<l>Gjør dog ej alle eet med dem:</l>
+<l>En har Fingre til Skovl og Greb,</l>
+<l>En til Silke og En til Reeb</l>
+<l>Somme kun Fingre til en Pen,</l>
+<l>Vaarligt nok endda til den!</l>
+<l>Agt da Læser, ihvo Du est,</l>
+<l>Hvad under Fingrene flyder bedst,</l>
+<l>Og er det Andet end Tyveri,</l>
+<l>Øv dine Fingre med Flid deri!</l>
+<l>Heller en Mester fiin ved Plov</l>
+<l>End paa det Fineste Fusker grov;</l>
+<l>Nedre er hemmeligt Greb paa Gavn</l>
+<l>End kun for Luftspring, Ry og Navn.</l>
+<l>Bedre er brugelig Pølsepind</l>
+<l>End allerkonstigst Pund til Vind.</l>
+<l>Disse Fingre med Fjer til Greb</l>
+<l>Skjevt sædvanlig og kluntet skrev,</l>
+<l>Blev dog gamle ved Vog og Pen,</l>
+<l>Skriver saa det kan læses end;</l>
+</lg> 
+<pb facs="1846_2_page0003.png"/>
+<fw type="pageNum">000</fw>
+<lg>
+<l>Skade ej gjør lidt Hovedbrud,</l>
+<l>Kommer deraf kun Noget ud!</l>
+<l>Hvad der kom ud af Pennen nu,</l>
+<l>Er Du min Læser, veed og Du.</l>
+</lg>
+<p>N F. S. Grundtvig.</p>
+<fw type="graphic"/>
+<lg>
+<l>Hvor lues ensom Sjælens Mod!</l>
+<l>Den er som Planten uden Rod,</l>
+<l>Som Grenen stilt fra Stammen.</l>
+<l>Hvor er paa denne Jord det godt,</l>
+<l>I Liv og Død, i Stort og Smaat.</l>
+<l>At holde trolig sammen!</l>
+</lg>
+<lg>
+<l>Jeg fulgte Bien, der fløj hjem,</l>
+<l>Jeg skued' i Forening dem</l>
+<l>I Kuben bygge Celler;</l>
+<l>Jeg gik paa Myrens stille Vej,</l>
+<l>Og En den anden svigted ej</l>
+<l>I Tuens dunkle Kjælder.</l>
+</lg>
+<lg>
+<l>Og op til Himlens Telt jeg saa,</l>
+<l>Hvor Stjernerne faa klare staa</l>
+<l>Og deres Vaner vandre.</l>
+<l>De bære sammen Verdens Last,</l>
+<l>De holde paa hinanden fast</l>
+<l>Og lyse for hverandre.</l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Længsel.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-25"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="006"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1858">1858</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1858_6_page0001.png"/>
+			<fw type="pageNum">270</fw>
+				<docTitle>
+	<titlePart type="main"><lb/>Længsel.</titlePart>
+	<titlePart type="sub"><lb/></titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<docImprint>
+				<pubPlace></pubPlace>.
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Længsel.</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">N</hi>u hjertelig mig længes</l>
+<l>Alt efter Liv og Fred,</l>
+<l>Hvor Livet meer ei trænges,</l>
+<l>Men Freden varer ved,</l>
+<l>Hvor alle Storme stilles,</l>
+<l>Som os omtumle her,</l>
+<l>Hvor de ei meer adskilles,</l>
+<l>Som har hinanden kjær.</l>
+</lg>
+<lg>
+<l>Den Længsel i mit Hjerte</l>
+<l>Dog under Korsets Tegn</l>
+<l>Har mere Fryd end Smerte</l>
+<l>I Kiærlighedens Egn;</l>
+<l>Thi naar jeg længes efter</l>
+<l>De Liv, som mig har kjær,</l>
+<l>Da faaer min Længsel Kræfter</l>
+<l>Til dem at komme nær.</l>
+</lg>
+<lg>
+<l>Er vi paa Jorden begge</l>
+<l>Af Hav og Land adskilt,</l>
+<l>Da vore Længsler strække</l>
+<l>Sig mod hinanden mildt</l>
+<l>Til de hinanden flimte</l>
+<l>Som Vandre-Stjerner to</l>
+<l>Og synes, som de glimte,</l>
+<l>At synge: „gak til Ro!"</l>
+</lg> 
+<pb facs="1858_6_page0002.png"/>
+<fw type="pageNum">271</fw>
+<lg>
+<l>Er en af os hjemgangen</l>
+<l>Til Hjertets Fædreland</l>
+<l>At boe i Gladhjems-Vangen</l>
+<l>Bag Dødens vilde Strand,</l>
+<l>Dog lige nær vi ere</l>
+<l>I Langskers Medestund,</l>
+<l>Naar „Medhinanden være"</l>
+<l>Er sagt af Hjertens Grund.</l>
+</lg>
+<lg>
+<l>Gudfaders Sen den kjære,</l>
+<l>Som evig holder Ord</l>
+<l>Og vil i Sandhed vare</l>
+<l>Hos Vennerne paa Jord,</l>
+<l>Til alle Længselsfulde</l>
+<l>Han kommer Dag og Nat</l>
+<l>I Varme og i Kulde</l>
+<l>Som sagt, han kommer brat.</l>
+</lg>
+<lg>
+<l>Og med Vorherre kommer</l>
+<l>Kun for et Suk en Ben</l>
+<l>Vort Hjertes Vaar og Sommer</l>
+<l>Med Vennerne i Len,</l>
+<l>Saa alle vore Kjære</l>
+<l>Vi tage kan i Favn,</l>
+<l>Som vilde sammen være</l>
+<l>Med os i Jesu Navn.</l>
+</lg>
+<lg>
+<l>Saa gaae med Længsler milde</l>
+<l>Vi Støvets Sneglegang</l>
+<l>Til sikkert om end silde</l>
+<l>At række Gladhjems Vang,</l>
+</lg> 
+<pb facs="1858_6_page0003.png"/>
+<fw type="pageNum">272</fw>
+<lg>
+<l>Hvor glemt er al vor Møie</l>
+<l>Og samlet al vor Lyst</l>
+<l>Og soleklart vort Vie</l>
+<l>Og Frydesang vor Rest!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

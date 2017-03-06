@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Til Danskhedens Skaal paa Skydebanen</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-24"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="012"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1843">1843</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1843_12_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Til<lb/>Danskhedens Skaal<lb/>paa<lb/>Skydebanen</titlePart>
+</docTitle>
+				<fw type="graphic"/>
+				<docEdition>den 5te November 1843.</docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace>Kjøbenhavn</pubPlace>.<lb/>Trykt hos J. D. Qvist, Bog- og Nodetrykker,<lb/>Badstuestræde Nr. 124.<lb/>
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<pb facs="1843_12_page0002.png"/>
+<fw type="pageNum"></fw>
+<fw type="graphic"/>
+<head>Mel. Danmark, deiligst Vang og Vænge.</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">M</hi>øens Klint og Skamlings Banke,</l>
+<l>Danske Bjerge graa,</l>
+<l>Mellem dem vi ride Ranke</l>
+<l>Over Bølgen blaa;</l>
+<l>Kuling frisk i Velt og Sunde,</l>
+<l>Fuglesang i grønne Lunde,</l>
+<l><hi rend="bold">Moders Maal</hi> paa Folketunge,</l>
+<l>De er altid unge!</l>
+</lg>
+<lg>
+<l>Gaaer i Bjerge, gaaer i Dale,</l>
+<l>Det som Bølgestag,</l>
+<l>"Dansk vi blive ved at tale"</l>
+<l>Det er afgjort Sag,</l>
+<l>Høit og lavt, som det kan falde,</l>
+<l>Ja, saalænge vi har Skjalde,</l>
+<l><hi rend="bold">Dansk</hi>, om saa en Steen vil groede,</l>
+<l>Sjunge vi og kvæde!</l>
+</lg> 
+<pb facs="1843_12_page0003.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l><hi rend="bold">Dannemænd</hi> fra <hi rend="bold">Skamlings-Banke</hi>!</l>
+<l>Sendebud fra Gram!</l>
+<l>Er end graa vor Løve-Manke,</l>
+<l>Munden ei er lam;</l>
+<l>Synke lidt kan <hi rend="bold">Løve-Modet</hi>,</l>
+<l>Ligger dog i <hi rend="bold">Hjerte-Blodet</hi>,</l>
+<l>Reiser sig i Dage klare,</l>
+<l>Og i fælles Fare!</l>
+</lg>
+<lg>
+<l>Derfor hjertelig "Velkommen"</l>
+<l>Over Bølgen blaa!</l>
+<l>Dannemark i Alderdommen</l>
+<l>Skal forynget staae,</l>
+<l>Klarlig mindes <hi rend="bold">Vermunds</hi> Dage,</l>
+<l>Klang af <hi rend="bold">Skrep</hi> og Sang af <hi rend="bold">Brage</hi>,</l>
+<l>Og med <hi rend="bold">Holger Danske</hi> trodse</l>
+<l>Hver en <hi rend="bold">Barbarosse</hi>!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

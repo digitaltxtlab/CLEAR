@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Dansk Kirketidende</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-25"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="004"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1846">1846</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1846_4_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">1883. Nr. 47.<lb/>Dansk Kirketidende</titlePart>
+	<titlePart type="sub">St. Mortensdag, d. ll. November</titlePart>
+</docTitle>
+<byline></byline>
+				<fw type="graphic"/>
+				<epigraph>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace></pubPlace><hi rend="latine">lndhold: M. Luthers Mindefest. - S. Nielsen: Om Adgang til Præsteskolen. - Aarhuus Stifts-Konvents Efteraarsmøde. - Efterretninger. - Kundgjørelse.</hi><lb/>
+<fw type="graphic"/>
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Morten Luther</head>
+<head>(født 10. Novbr. 1483).</head>
+<lg>
+<l><hi rend="spaced">Frihed, Tro og Modersmaal</hi></l>
+<l>Mer end Fred bar Luther kjære,</l>
+<l>Aand mod Ild, og Ord mod Staal</l>
+<l>Voved han, og bandt med Ære.</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

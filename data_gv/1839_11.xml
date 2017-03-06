@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>28de Mai</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-21"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="011"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1839">1839</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1839_11_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">28de Mai</titlePart>
+	<titlePart type="sub">Mel. Hver som ynder skyldfri Glæde.</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<lg>
+<l><hi rend="initial">K</hi>onge-Haand og Folke-Stemme,</l>
+<l>Begge stærke, begge fri,</l>
+<l>De har havt i Danmark hjemme</l>
+<l>Mange hundred Aar før vi.</l>
+<l>Trods al Brøst, al Frygt og Fare,</l>
+<l>Gid de vinde maa og vare.</l>
+<l>Skabe i et Gyldenaar</l>
+<l>Gamle Danmark gode Kaar!</l>
+</lg>
+<lg>
+<l>Odin, Kongen i Valhalle,</l>
+<l>Skiøndt for kiær ad Lykkespil,</l>
+<l>Holdt dog Thing med Aser alle</l>
+<l>under Asken Ygdrasil,</l>
+<l>Ei et Haar paa Thor han krummed,</l>
+<l>Ihvor lydt endog han brummed,</l>
+<l>Taalde, ihvorvidt det gik.</l>
+<l>Immer Lokes Naalestik,</l>
+</lg>
+<lg>
+<l>Kongens Haand engang var bundet.</l>
+<l>Folkets Stemme lod omsonst.</l>
+<l>Men i Danmark blev opfundet</l>
+<l>Kiærlighedens skiønne Konst:</l>
+<l>Hvad der vilde Livet binde</l>
+<l>For den brast som Traad og Tvinde,</l>
+<l>Skifteviis hinanden godt</l>
+<l>Loft med den har Folk og Drot!</l>
+</lg> 
+<pb facs="1839_11_page0002.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Folket løfte Fredriks Lænke,</l>
+<l>Fri som hans blev ingen Haand,</l>
+<l>Fredrik, som Man vel kan tænke,</l>
+<l>Folket skar for Tungebaand,</l>
+<l>Kongehaand og Folkestemme!</l>
+<l>Lad det aldrig gaae ad Glemme!</l>
+<l>Eders Frihed kom med Fred,</l>
+<l>Løst er I af Kiærlighed!</l>
+</lg>
+<lg>
+<l>Derfor Danmark! ei du ligne</l>
+<l>Andre Riger trindt paa Jord!</l>
+<l>Himlen dem ei kan velsigne</l>
+<l>Som den lille Plet i Nord,</l>
+<l>Hvor som Ungdoms-Venner vandre</l>
+<l>Magt og Mildhed med hverandre,</l>
+<l>Hvor vi troer, hvad Alle veed:</l>
+<l>Almagts Liv er Kiærlighed!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

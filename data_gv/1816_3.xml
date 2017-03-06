@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Gaade - Kampen.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2009-11-01"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="003"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1816">1816</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1816_3_page0001.png"/>
+			<fw type="pageNum">168</fw>
+				<docTitle>
+	<titlePart type="main">Gaade - Kampen.</titlePart>
+				<fw type="graphic"/>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+	<docImprint>
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<pb facs="1816_3_page0001.png"/>
+<fw type="pageNum"></fw>
+<p><hi rend="initial">M</hi>edens jeg, som man af de tre foregaaende Digte (der blive nedlagte hos Skilderiets Udgiver) har seet, indtil videre besværede den mig aldeles umættelige Fortsætter af Strøetankerne, indløb en Dag til mig, iblandt andre Skrivelser i Anledning af men Gaade, det evige Sindbillede; følgende mystisk truende, poetiske Brev - uden Navn - i en mig aldeles fremmet Haandskrivt:</p>
+<lg>
+<l>"Gaade - Giætningen</l>
+<l>Du est dig selv en Gaade,</l>
+<l>Det har jeg længe videt,</l>
+<l>Og til den ret at raade.</l>
+<l>Du har kun stakket Frist!</l>
+<l>Ifald du kiender Noget</l>
+<l>Til Ragnarokur - Sproget,</l>
+<l>Da see hvem Gaaden giætted,</l>
+<l>Og hvad dens Sphinx forjætted!</l>
+</lg>
+<pb facs="1816_3_page0002.png"/>
+<fw type="pageNum">169</fw>
+<lg>
+<l>"Let er din Gaade,</l>
+<l>"Gestur blinde!</l>
+<l>"Nemt er, at raade</l>
+<l>,Runen derinde.</l>
+<l>"Salen du fandt</l>
+<l>"Hvor Traadene fine</l>
+<l>"Edderkop spandt</l>
+<l>"Af Tarmene fine."</l>
+</lg>
+<p><hi rend="align(right)">Sudspeki Heidreks.</hi></p>
+<lg>
+<l>Kiender du Bogen</l>
+<l>Bedre end Nogen,</l>
+<l>See, at den Gaaden har giættet!</l>
+<l>Husk, hvad dens Sphinx har forjættet!</l>
+<l>Hvi vil det Hierte du dele?</l>
+<l><hi rend="align(right)">Giv den det Hele!"</hi></l>
+</lg>
+<p>Det faldt mig ikke ind, at drømme om, at Forfatteren af dette Varselbrev kunde være den samme, Som Strøetankernes, uagtet jeg snart fik næsten Vished om, at ovenstaaende var fra Grundtvig. Men hvad er næsten Vished? For det raa Menneske meer end Nok, for det
+<pb facs="1816_3_page0003.png"/>
+<fw type="pageNum">000</fw>
+modne mindre end Intet. Mig foresvævede imidlertid bestandig i alt dette en i Mørket optrædende beslørende Genius - god? eller ond? Ven? eller Fiende? var mig aldeles skiult under den doppelte Maske. kun enkelte Toner syntes at forraade min Muses Bagtaler og mit Hiertes Fordømmer i Litteraturtidenden og i Verdenskroniken. Jeg havde nemlig hidindtil ikke læst Grundtvigs egentlige Nordiske Digte, og kiendte ham blot af nogle mindre betydelige Sange, som af samtlige hans prosaiske Skrivter, hvis naturlige eller kunstige virvar lod mig i en bestandig Tvivl om alt andet end hans, selv i Platheder, umiskiendelige Genie. I denne trefold tykke Taage om Strøetænkeren, Gaadegiætteren, og Grundtvig - forunderlig tiltrakt af dem alle tre, trods alle Maskernes Frastøden, nedskrev jeg, Natten efter Modtagelsen af ovenanførte Trudselbrev, d. 24 November 1815, følgende Svar, som jeg forseglet lod ligge paa mit Bord til Afhentning, efterat have givet min ubekiendte Tilskriver et Vink derom i Aviserne.</p>
+</div>
+</body>
+</text>
+</TEI>

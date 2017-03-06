@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>VELKOMSTSANG til Dronning CAROLINE AMALIE.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-16"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="016"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1856">1856</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1856_16_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">VELKOMSTSANG<lb/>til<lb/>Dronning CAROLINE AMALIE.</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<pb facs="1856_16_page0002.png"/>
+<fw type="pageNum"></fw>
+<head>Mel. Vift stolt paa Codans Bølge.</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">V</hi>i har ei stolte Fjelde</l>
+<l>Og Floder i vort Hjem,</l>
+<l>Ei Borge graa af Ælde</l>
+<l>Og Eventyr om dem ;</l>
+<l>Men vi har Bøgelunden,</l>
+<l>Alt med den blanke Sø,</l>
+<l>Og Mindesang i Munden</l>
+<l>Om Kjærlighedens Ø.</l>
+</lg>
+<lg>
+<l>O, Gud skee Lov, Du kommer</l>
+<l>Hjem til dit "<hi rend="bold">Sorgenfri!</hi>"</l>
+<l>Dig vented Rosens-Blommer,</l>
+<l>Dig vented længe vi;</l>
+<l>De Smaa med røde Kinder,</l>
+<l>Dem Tiden faldt saa lang,</l>
+<l>Din Borg med kjære Minder,</l>
+<l>Din Lund med Fuglesang!</l>
+</lg> 
+<pb facs="1856_16_page0003.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Gid Sorger alle sove!</l>
+<l>Da skeer dem deres Ret.</l>
+<l>Som Fuglene i Skove,</l>
+<l>Saa <hi rend="bold">Glæden</hi> vaagne let!</l>
+<l>Som Fuglene paa Kviste</l>
+<l>Den sjunge i Din Barm!</l>
+<l>Da nydes til det Sidste</l>
+<l>En Sommer lys og varm.</l>
+</lg>
+<lg>
+<l>Vor <hi rend="bold">Dronning</hi> leve længe</l>
+<l>Paa Kjærlighedens 0!</l>
+<l>Mens Fingre slaae paa Strænge,</l>
+<l>Det klinge over Sø:</l>
+<l>See, hvor paa blege Kinder,</l>
+<l>Som af den sorte Jord,</l>
+<l>Ved <hi rend="bold">Dronning-Blik</hi> oprinder</l>
+<l>En deilig Rosens Flor!</l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

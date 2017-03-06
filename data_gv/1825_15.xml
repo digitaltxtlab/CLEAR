@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Dronninge-Stolen</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2009-12-22"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="015"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1825">1825</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1825_15_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Nyeste<lb/></titlePart>
+	<titlePart type="sub">Skilderie af Kjøbenhavn.<lb/></titlePart>
+				<fw type="graphic"/>
+</docTitle>
+<byline>Udgivet og redigeret af Fr. Thaarup, Etatsraad,
+	<docAuthor></docAuthor>
+				</byline>
+				<epigraph>
+<p>Forsendes, i Følge Kongel, allernaadigst Tilladelse, med Brevposterne.</p>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition>Toogtyvende Aargang. No. 86.</docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace></pubPlace>.<lb/>Tirsdagen den 25 October 1825.<lb/>
+<fw type="graphic"/>
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<head>Dronninge-Stolen.</head>
+<fw type="graphic"/>
+<lg>
+<l>Der ligger en Øe i Venne-Vold,</l>
+<l>Omleiret af lyse Kiær-Minder,</l>
+<l>Af Bølgerne blaa fra Heden-Old,</l>
+<l>Af Sagas udkaarne Veninder;</l>
+<l>I Borgen hin gamle, med Tag som Glar,</l>
+<l>Hvor Honning-Dugg gløder i gyldne Kar,</l>
+<l>Derom taler <hi rend="spaced">Odin</hi> med <hi rend="spaced">Saga</hi>!</l>
+</lg>
+<lg>
+<l>Jeg hørde en Fugl om Daners Øe,</l>
+<l>En Lille fuldliflig at sjunge,</l>
+<l>En underlig Rost fra Skov og Sø</l>
+<l>Ved Sangen mig lagdes paa Tunge;</l>
+<l>Og er da hos <hi rend="spaced">Daner</hi> end Alting smaat,</l>
+<l>Tilbunds er det Store kun sjelden godt,</l>
+<l>Derom taler <hi rend="spaced">Odin</hi> med <hi rend="spaced">Saga</hi>!</l>
+</lg>
+<lg>
+<l>Som Biet er til, saa har man Syn,</l>
+<l>Paa Sletter, Saavelsom paa Hole,</l>
+<l>Thi kalder man Stort i Schweits og Fyn,</l>
+<l>Hvad ret falder Smaafolk i Vie;</l>
+<l>Hvad noksom er godt, er og noksom stort,</l>
+<l>Og størst er i Grunden hvad Mest har giort;</l>
+<l>Derom taler Odin med Saga!</l>
+</lg>
+<lg>
+<l>Det ligger i Hav, som Holme smaa,</l>
+<l>Hvad jeg kalder Be uden Mage,</l>
+<l>Thi Blodet er Baand, hvor Aarer gaae,</l>
+<l>Med Hjem-Vee gaae frem og tilbage;</l>
+<l>I Grunden er Bark ikke Troe saa nær.</l>
+<l>Som Fjerne, der have hinanden kiær.</l>
+<l>Derom taler <hi rend="spaced">Odin</hi> med <hi rend="spaced">Saga</hi>!</l>
+</lg>
+<lg>
+<l>Det kiæreste Barn har mangt et Navn,</l>
+<l>Godt Nok er det Bedste til Ben,</l>
+<l>Det mindes hver Svend i Pige-Favn,</l>
+<l>Fuldelskelig klinger det: Møen;</l>
+<l>Hvad Meningen er af det favre Navn,</l>
+<l>Der agtes kun tidt for en Havre-Avn,</l>
+<l>Derom taler <hi rend="spaced">Odin</hi> med <hi rend="spaced">Saga</hi>!</l>
+</lg>
+<lg>
+<l>Der sindes om Land vel knap en Braa,</l>
+<l>Saa naadig med Stene begavet,</l>
+<l>For Store saa fri, saa fuld af Smaa,</l>
+<l>Som Marken, Fuld-Syster til Havet;</l>
+</lg> 
+<pb facs="1825_15_page0002.png"/>
+<fw type="pageNum">1371-1372</fw>
+<lg>
+<l>Og hvordan, som Bølger i Belte gaae,</l>
+<l>Den fødtes til Verden med Høie Smaa,</l>
+<l>Derom taler <hi rend="spaced">Odin</hi> med <hi rend="spaced">Saga</hi>!</l>
+</lg>
+<lg>
+<l>Af Klipper i Alt kun findes Een,</l>
+<l>Som hvidner og vil ei graane,</l>
+<l>Er neppe i Aar med Rulle-Steen,</l>
+<l>End sige med Kullen i Skaane; -</l>
+<l>Men hvad der sig skjuler i Klippens Kridt,</l>
+<l>Kom aldrig for Dagen som Sort paa Hvidt,</l>
+<l>Derom taler Odin med Saga!</l>
+</lg>
+<lg>
+<l>Den Klippe Saa blod, faa Danelig,</l>
+<l>Det Skum af en Paradis-Bølge,</l>
+<l>Som stivned af Gru ved <hi rend="spaced">Lokes</hi> Svig,</l>
+<l>Vel stræber sin Kummer at dølge;</l>
+<l>Men hvad der nedsuser i <hi rend="spaced">Magle-Vand</hi>,</l>
+<l>Og drypper fra <hi rend="spaced">Græderen</hi> tungt i Strand,</l>
+<l>Derom taler Odin med Saga!</l>
+</lg>
+<lg>
+<l>En underlig Haand, til Meer end Zir,</l>
+<l>Af Klippen med Konst haver krystet</l>
+<l>En <hi rend="spaced">Dronninge-Stol</hi>, et <hi rend="spaced">Sommer-Spir</hi>,</l>
+<l>En <hi rend="spaced">Taler</hi> med Tungen i Brystet;</l>
+<l>Hvad det skal betyde paa <hi rend="spaced">Daners</hi> Øe,</l>
+<l>Hvad der monne fødes til ei at døe,</l>
+<l>Derom taler <hi rend="spaced">Odin</hi> med <hi rend="spaced">Saga</hi>!</l>
+</lg>
+<lg>
+<l>Jeg giæsted den Klint i Morgen-Gry,</l>
+<l>At lyde paa Sommernats-Fuglen,</l>
+<l>Jeg glemde, ved Blik paa høirød Sky,</l>
+<l>At end tuder Vinternats Uglen,</l>
+<l>Og hvad jeg da skimted paa Dronning-Stol</l>
+<l>Henperle, og svinde som Dug for Soel,</l>
+<l>Derom taler <hi rend="spaced">Odin</hi> med <hi rend="spaced">Saga</hi>!</l>
+</lg>
+<lg>
+<l>En <hi rend="spaced">Kvinde</hi> jeg saae, Som Lyset skiøn,</l>
+<l>Hun knæled paa Dronninge-Sæde,</l>
+<l>Hun gjord med Graad sin Morgen-Bon,</l>
+<l>Og deg som man sjunger med Glæde;</l>
+<l>paa Kaaben det vrimled af Perler smaa,</l>
+<l>Der tindred som Stjerner paa Himmel-Blaa,</l>
+<l>Derom taler <hi rend="spaced">Odin</hi> med <hi rend="spaced">Saga</hi>!</l>
+</lg>
+<lg>
+<l>En <hi rend="spaced">Kirke</hi> jeg saae, hvor Spiret stod,</l>
+<l>Med Lignelser, mange og klare,</l>
+<l>Af Heltenes Slagt ved Korsets Fod,</l>
+<l>Af Vidnernes hellige Skare;</l>
+<l>Hvordan de forsamles paa Daners Be,</l>
+<l>Hvor Freia skal leve, til Jetter døe.</l>
+<l>Derom taler <hi rend="spaced">Odin</hi> med <hi rend="spaced">Saga</hi>!</l>
+</lg>
+<lg>
+<l>En <hi rend="spaced">Taler</hi> jeg saae i Kjortel hvid,</l>
+<l>Han tykdes af Rædsel forstummet,</l>
+<l>Dog toned fra Barm en Rost saa blid,</l>
+<l>Som aldrig jeg havde fornummet;</l>
+<l>Hvi Læberne taug, og hvi Kvinden grad</l>
+<l>Paa Dronninge-Stolen, paa Klinte-Bredd,</l>
+<l>Derom taler <hi rend="spaced">Odin</hi> med <hi rend="spaced">Saga</hi>!</l>
+</lg>
+<lg>
+<l>Hvi Taleren taug, og Kvinden grad,</l>
+<l>Mig stilledes klarlig for Vie,</l>
+<l>Det voldte en Trold ved Klinte-Bredd,</l>
+<l>Midtveis mellem Lave og Høie,</l>
+<l>Hvorlunde den Jette fra Opsal kom,</l>
+<l>Og grunded paa Klint sit Herredom,</l>
+<l>Derom taler <hi rend="spaced">Odin</hi> med <hi rend="spaced">Saga</hi>!</l>
+</lg>
+<lg>
+<l>En Støtte som Beeg i Luften stod,</l>
+<l>Alt lige for Skyen hin rode,</l>
+<l>Da satte paa Kridt sig Sod ved Sod,</l>
+<l>Af Sort skulde Hvidt lagges ede;</l>
+<l>Fuldiveig den Jette i Klinte-Hul,</l>
+<l>Af Bøgene brændte sig brune Kul,</l>
+<l>Derom taler <hi rend="spaced">Odin</hi> med <hi rend="spaced">Saga</hi>!</l>
+</lg> 
+<pb facs="1825_15_page0003.png"/>
+<fw type="pageNum">1373-1374</fw>
+<lg>
+<l>Fra <hi rend="spaced">Taleren</hi> klang nu Røsten blid:</l>
+<l>O, Dronning! ei længer Du grade!</l>
+<l>Hver Jette paa Jord har stakket Tid,</l>
+<l>Men evig er Asernes Glæde;</l>
+<l>Alt Solen frembryder bag kulsort Sky,</l>
+<l>Som skjuler for Niet end Morgen-Gry,</l>
+<l>Derom taler Odin med Saga!</l>
+</lg>
+<lg>
+<l>Den Støtte som Beeg, den revned brat,</l>
+<l>Hvad mægte Røg-Skyer mod Solen!</l>
+<l>Hvad mægler mod Dag den falske Nat!</l>
+<l>Saa klang det fra Dronninge-Stolen;</l>
+<l>Med glødende Kinder og gyldne Haar</l>
+<l>Sig Dronningen hæved til Magle-Gaard,</l>
+<l>Derom taler <hi rend="spaced">Odin</hi> med <hi rend="spaced">Saga</hi>!</l>
+</lg>
+<fw type="graphic"/>
+
+<lg>
+<l>De Syner vel svandt, men brast dog ei,</l>
+<l>Er Kvinden end ikke forklaret,</l>
+<l>Saa vandrer hun dog paa Klarheds Vel,</l>
+<l>Det vorder engang aabenbaret,</l>
+<l>Naar gylden oprinder den Dag saa skiøn.</l>
+<l>Da Dronningen svinger sig glad fra <hi rend="spaced">Grøn</hi>,</l>
+<l>Derom taler <hi rend="spaced">Ddin</hi> med <hi rend="spaced">Saga</hi>!</l>
+</lg>
+<lg>
+<l>Hun bærer dog alt sit rette Navn</l>
+<l>Paa Dronninge-Stolen med Føie,</l>
+<l>Og aabner dermed sin Moder-Favn</l>
+<l>For Dag-Røden skiøn fra det Høie,</l>
+<l>Og peger dermed paa den Viisdoms Vei,</l>
+<l>Hvor Palmerne grønnes, og visne ei,</l>
+<l>Derom taler <hi rend="spaced">Odin</hi> med <hi rend="spaced">Saga</hi>!</l>
+</lg>
+<lg>
+<l>Et rigere Land jeg kiender ei Paa Dronninger fromme og sine;</l>
+<l>Ei mildere Lys paa Klarheds Vei</l>
+<l>End Moderen til <hi rend="spaced">Caroline</hi>;</l>
+<l>Og hvad der alt spired om Dronning-Stol</l>
+<l>Ved Dronnings-Blikket som Regn og Soel,</l>
+<l>Derom taler <hi rend="spaced">Odin</hi> med <hi rend="spaced">Saga</hi>!</l>
+</lg>
+<lg>
+<l>Ei Stemme jeg har, som Fugl til Sang Om Perler i Høielofts-Sale,</l>
+<l>Men aarker som Skjald dog lydt med Klang</l>
+<l>Om <hi rend="spaced">Danne bod-Stammen</hi> at tale;</l>
+<l>Hvorlunde den grønnes i Kongens Gaard,</l>
+<l>Mens Dronninge-Stolen paa Klinten staaer,</l>
+<l>Derom taler <hi rend="spaced">Odin</hi> med <hi rend="spaced">Saga</hi>!</l>
+</lg>
+<lg>
+<l>De Jublendes Fryd i Livets Land</l>
+<l>Mon lignes ved Gloeden om Høsten, Om Gloeden fuldsod kom Haab til Dan</l>
+<l>Med Dagrød hin favre fra Osten;</l>
+<l>Hvorlunde med Dronningen: <hi rend="spaced">Danmarks Trøst</hi>,</l>
+<l>Skal times Skjoldunger fuldgod en Høst,</l>
+<l>Derom taler <hi rend="spaced">Odin</hi> med <hi rend="spaced">Saga</hi>!</l>
+</lg>
+<lg>
+<l>Det kimer nu brat til Jubel-Aar,</l>
+<l>For Haabet fra <hi rend="spaced">Libanons</hi> Høie,</l>
+<l>Da straaler fuldklart i Kongens Gaard</l>
+<l>Hvad dunkelt stod <hi rend="spaced">Thyra</hi> for Bie;</l>
+<l>Hvad <hi rend="spaced">Dannebod</hi> saaed med Graad i Vang,</l>
+<l>Skal <hi rend="spaced">Dannebod</hi> høste med Fryde-Sang,</l>
+<l>Derom taler <hi rend="spaced">Odin</hi> med <hi rend="spaced">Saga</hi>!</l>
+</lg>
+<lg>
+<l>Da prises med Sang af bedre Skjald</l>
+<l>Den smilende Dronning i Norden,</l>
+<l>Da lyder fra Hav og høien Hald</l>
+<l>De Jublendes Chor som en Torden;</l>
+<l>Og indtil, med Støvets de bedste Kaar,</l>
+<l>Sig <hi rend="spaced">Dannebod</hi> svinger til <hi rend="spaced">Magle - Gaard</hi>.</l>
+<l>Derom taler <hi rend="spaced">Odin</hi> med <hi rend="spaced">Saga</hi>!</l>
+</lg> 
+<pb facs="1825_15_page0004.png"/>
+<fw type="pageNum">1375</fw>
+<lg>
+<l>Hil være den <hi rend="spaced">Diis</hi>, som throner nu</l>
+<l>Livsalig paa Dronninge-Stolen!</l>
+<l>Hun rinde paa Mark hver Skjald i Hu,</l>
+<l>Mens Fuglen sig fryder i Solen!</l>
+<l>At aldrig skal Ætten af Skjoldung-Blod</l>
+<l>Paa Dronning-Stol fattes en <hi rend="spaced">Dannebod</hi>,</l>
+<l>Derom taler <hi rend="spaced">Odin</hi> med <hi rend="spaced">Saga</hi>!</l>
+</lg>
+<lg>
+<l>Belsignet er Hun af Himlens Gud,</l>
+<l>For Alle som Throner beklæde,</l>
+<l>Den Dronning, med Lyst til Engle-Bud,</l>
+<l>Der troende neier med Glæde</l>
+<l>For <hi rend="spaced">Stol-Konge-Barnet som Morgen-Rød</hi>,</l>
+<l>Med Saligheds-Smilet i Moder-Skiød,</l>
+<l>Derom taler <hi rend="spaced">Odin</hi> med <hi rend="spaced">Saga</hi>!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

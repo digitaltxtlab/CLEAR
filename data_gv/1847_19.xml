@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>I Roeskilde</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-25"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="019"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1847">1847</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1847_19_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">I Roeskilde</titlePart>
+	<titlePart type="sub">den 14de Juli 1847.</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<pb facs="1847_19_page0002.png"/>
+<fw type="pageNum"></fw>
+<head><hi rend="italic">Mel. </hi>Vi er eet Folk, vi kaldes Skandinaver.</head>
+<lg>
+<l><hi rend="initial">D</hi>et lille Folk, som kalder sig de Danske,</l>
+<l>Er ei berömt ved Elben eller Rhim</l>
+<l>For dybt at kige eller dybt at granske</l>
+<l>I nogen Verdens Ting undtagen Vin;</l>
+<l>Velkommen skal os dog hver Gransker være,</l>
+<l>Som under Dansk sit Liv og Vin sin Ære,</l>
+<l>Som, hvad han tæller, maaler eller veier,</l>
+<l>Dog önsker Aanden Seier;</l>
+<l>Han gaae med Lynets, gaae med Sneglens Fart,</l>
+<l>Saa er den Gransker dog af Nordisk Art.</l>
+</lg>
+<lg>
+<l>De spinkle Skud, som danne Vinens Ranker</l>
+<l>Og trives kan i Solens Öiesyn,</l>
+<l>Vel synes fremmede for dybe Tanker</l>
+<l>Og tætte Rynker mellem Öienbryn;</l>
+<l>Men fremmed dog for Livet og for Kraften</l>
+<l>Var aldrig, hvor den sprudled, Druesaften,</l>
+<l>Og at til Granskning Evne kun er givet</l>
+<l>Med Kraften og med Livet,</l>
+<l>Det finder Danske Folk, er soleklart</l>
+<l>For hver en Gransker-Sjæl af Nordisk Art.</l>
+</lg> 
+<pb facs="1847_19_page0003.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Det Folkefærd, som Norden kalder Skjalde,</l>
+<l>Med Danmark sluttet har en gammel Pagt,</l>
+<l>Vi tage Tankerne, som de kan falde,</l>
+<l>Maae tage Vinen, som den vorder bragt,</l>
+<l>Med begge Dele, som er intet Under,</l>
+<l>Det falder da lidt tyndt imellemstunder;</l>
+<l>Men altid muntert dog i Bogens Egne</l>
+<l>Paa gamle Danmarks Vegne</l>
+<l>Velkommen byder Fuglemaalet klart</l>
+<l>Alt hvad der er af ægte Nordisk Art.</l>
+</lg>
+<lg>
+<l>Velkommen da hver Gransker fra vort Norden,</l>
+<l>Hvor dybt som Havet er det stille Sind,</l>
+<l>Udvider sig med Himlen og med Jorden,</l>
+<l>Paa Sletten her, som hist paa Fjeldets Tind!</l>
+<l>I ogsaa vel udgransker efterhaanden,</l>
+<l>Hvor nær i Slægt med Livet og med Aanden</l>
+<l>Er Daners Mark og Skjaldes Röst og Vinen,</l>
+<l>Selv naar den groer ved Rhinen!</l>
+<l>Derpaa vi tomme vil nu med en Fart</l>
+<l>Et Velkomstbæger nyt af Nordisk Art!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

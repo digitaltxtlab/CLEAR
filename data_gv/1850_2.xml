@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Adam Oehlenschläger.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-22"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="002"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1850">1850</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1850_2_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Adam Oehlenschläger.<lb/></titlePart>
+	<titlePart type="sub">Den 26. Januar 1850.<lb/></titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<docImprint>
+				<pubPlace></pubPlace>.
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<fw type="graphic"/>
+</div>
+<div>
+<head>1.</head>
+<lg>
+<l>Et Sorgens Budskab Norden gjennemsuser</l>
+<l>Som Vinter-Stormen over Blomster-Grav,</l>
+<l>Det Danneqvindens Hjerte gjennembruser</l>
+<l>Som Vinterstrømmen i det vilde Hav:</l>
+<l>Det Sorgens Budskab: død er <hi rend="spaced">Oehlenschläger</hi>,</l>
+<l>Tre Rigers Yndling, Nordens Hoved-Skjald!</l>
+<l>Hans Mesterhaand ei meer paa Harpen leger,</l>
+<l>Guldharpen med det fulde Tonefald!</l>
+<l>Med ham paany er falmet Oldtids Glands,</l>
+<l>Med ham har Norden tabt sin Laurbærkrands.</l>
+</lg>
+<lg>
+<l>Dog stille! Skjalden er ei død, han sover</l>
+<l>Som Vinter-Marken til en deilig Vaar,</l>
+<l>Som Nordens Aand i Tidens Vinter-Vover,</l>
+<l>Hvoraf paany han seierrig opstaaer;</l>
+</lg> 
+<pb facs="1850_2_page0002.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Thi han opstod i Adam Oehlenschläger,</l>
+<l>Besang sin Kjæmpedaad og Heltedød,</l>
+<l>Og tømte ud det store Bragebæger,</l>
+<l>Saa Kjæmpeløftet trindt i Nord gienlød;</l>
+<l>Han holder Ord, saa atter Holt i Sky</l>
+<l>Skal af hans Ord, som af hans Kvad gaae Ry!</l>
+</lg>
+<lg>
+<l>Og Sjælen, som sig frydet har i Aanden,</l>
+<l>Stormanden, som var Menneske og Skjald,</l>
+<l>Han barnlig fromt sig trosted i Dødsvaanden</l>
+<l>Ved meer end Brage-Harpens Tonefald,</l>
+<l>Ved meer end Krandsene, som Fingre binde,</l>
+<l>Ved meer end Eftermælets Efterklang,</l>
+<l>Ved meer endnu end Hjerternes Kjærminde,</l>
+<l>Som senest visne vil i Dannevang,</l>
+<l>Ved meer end Verdens Kløgt har gransket ud:</l>
+<l>Ved Sjælens Liv for evig hos sin Gud!</l>
+</lg>
+<lg>
+<l>Saa hviil da, Stov af Sjælens skjønne Bolig,</l>
+<l>Til Hvile fulgt som Støvet af en Drot,</l>
+<l>Hvor hjemligt Muld omfavner Dig fortrolig,</l>
+<l>Tildækker Dig med Tæppet Himmelblaat!</l>
+<l>Vi spaae den Sjæl, som sig i Dig har Speilet,</l>
+<l>Saa skjøn en Bolig, som i Aanden tit</l>
+<l>Vor Skjald har seet og malt, og til den beilet,</l>
+<l>Med den at svæve over Jorden frit;</l>
+<l>Thi ham, som os har spaaet Bod for Savn,</l>
+<l>Vi spaae Forklarelsen i Jesu Navn!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

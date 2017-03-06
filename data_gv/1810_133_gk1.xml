@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--<?xml-stylesheet type="text/xsl" href="txtXSLT.xsl"?>-->
+<!--<?xml-model href="txtRNC.rnc" type="application/relax-ng-compact-syntax"?>-->
+<?xml-model href="file:/V:/Centre/Grundtvig%20Centeret%20-%20The%20Grundtvig%20Study%20Center/Grundtvig%20Centeret,%20Vartov/xml/rnc/txtRNC.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-stylesheet type="text/xsl" href="file:/V:/Centre/Grundtvig%20Centeret%20-%20The%20Grundtvig%20Study%20Center/Grundtvig%20Centeret,%20Vartov/xml/xslt/txtXSLT.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:TEI="http://www.tei-c.org/ns/1.0" xml:lang="da" xml:space="preserve">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title rend="main">De Snekker mødtes i Kveld paa Hav</title>
+                <title rend="shortForm">De Snekker mødtes</title>
+                <author>Nicolai Frederik Severin Grundtvig</author>
+                <editor role="editionPhilologist">Vibeke A. Pedersen</editor>
+                <editor role="editionPhilologist">Holger Berg</editor>
+                <editor role="student">Frederik Dreiøe Seidelin</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>1.3</edition>
+            </editionStmt>
+            <extent>7 KB</extent>
+            <noteStmt>
+                <note target="1810_133_txt.xml" type="txt" xml:id="thisFile">Læsetekst</note>
+                <note target="1810_133_com.xml" type="com">Punktkommentar</note>
+                <note target="1810_133_intro.xml" type="intro">Indledning</note>
+                <note target="1810_133_txr.xml" type="txr">Tekstredegørelse</note>
+                <note type="minusVar">Variant</note>
+            </noteStmt>
+            <publicationStmt>
+                <publisher>Faculty of Arts, Aarhus University</publisher>
+                <distributor>Grundtvig Centeret, Vartov, København</distributor>
+                <idno type="1810_133_txt.xml">1810_133</idno>
+                <date type="2013-10-01">www.grundtvigsværker.dk, version 1.3, 1. oktober 2013</date>
+            </publicationStmt>
+            <seriesStmt>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">De Snekker mødtes i Kveld paa Hav</title>
+                    <author>[Nicolai Frederik Severin Grundtvig]</author>
+                    <pubPlace>u.st.: Odden Kirkegård</pubPlace>
+                    <publisher>[Peder Friis]</publisher><!-- Lorentz Fribert bekostede mindestøtten, Peder Friis bestyrede mejslingen, jf. Kvædlinger S. 153. -->
+                    <date>u.å.: 1810</date>
+                </bibl>
+                <listWit xml:id="emendation">
+                    <witness rend="A">Førstetrykket, 1810</witness>
+                    <witness rend="B">2. udgave, <hi rend="italic">Dagen</hi> 1810<!--, nr. 40, 6. marts, s. 2--></witness>
+                </listWit>
+                <listWit xml:id="pageNumber">
+                     <witness rend="PS"><hi rend="italic">Poetiske Skrifter</hi> 1</witness>
+                    <witness rend="US"><hi rend="italic">Udvalgte Skrifter</hi> 1</witness>
+                    <witness rend="VU"><hi rend="italic">V&#x00E6;rker i Udvalg</hi> 7</witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Grundtvig Centeret er oprettet den 1. januar 2009.</p>
+                <p>Grundtvig Centeret arbejder med:</p>
+                <p>1. En digital og kommenteret udgave af Grundtvigs værker</p>
+                <p>2. En forskningsindsats på de felter, hvor Grundtvig s&#x00E6;rligt markerede sig</p>
+                <p>2.a. Teologi og kirke</p>
+                <p>2.b. Demokrati og folkelighed</p>
+                <p>2.c. P&#x00E6;dagogik og folkeoplysning</p>
+                <p>3. Videnudveksling, undervisning og formidling</p>
+            </projectDesc>
+            <editorialDecl xml:id="comGuideLines.xml" n="1.0">Retningslinjer for punktkommentarer til Grundtvigs Værker</editorialDecl>
+            <editorialDecl xml:id="introGuideLines.xml" n="1.0">Retningslinjer for indledninger til Grundtvigs Værker</editorialDecl>
+            <editorialDecl xml:id="msGuideLines.xml" n="1.0">Retningslinjer for transskribering af manuskripter til Grundtvigs Værker</editorialDecl>
+            <editorialDecl xml:id="refGuideLines.xml" n="1.0">Retningslinjer for litteraturhenvisninger til Grundtvigs Værker</editorialDecl>
+            <editorialDecl xml:id="typoGuideLines.xml" n="1.0">Retningslinjer for gengivelse af typografiske hierarkier i Grundtvigs Værker</editorialDecl>
+            <editorialDecl xml:id="txrGuideLines.xml" n="1.0">Retningslinjer for tekstredegørelser til Grundtvigs Værker</editorialDecl>
+            <editorialDecl xml:id="txtGuideLines.xml" n="1.0">Tekstkritiske retningslinjer for Grundtvigs Værker</editorialDecl>
+            <editorialDecl xml:id="xmlGuideLines.xml" n="1.0">Retningslinjer for XML-mærkning af Grundtvigs Værker</editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+          <change xml:id="FDS" who="FDS" when="2013-02-08">Indskrevet teksten ud fra billede af monumentet. Oprettet xml-fil. Kodet tekstens indre hierarki. Udført første kollation.</change>
+            <change who="NHB" when="2013-02-11">gennemset. Ingen rettelser. Videre til Maria</change>
+        <change xml:id="VAP" who="VAP" when="2013-02-15">kortform i titel</change>
+            <change xml:id="MWP" who="MWP" when="2013-03-11">opmærket til baser</change>
+            <change who="FDS" when="2013-03-14">indsat seg-elementer</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <pb type="periText" facs="1810_133_fax001.jpg"/>
+        <body>
+            <div type="[Indskrift]">
+                <p rend="center"><pb type="text" facs="1810_133_fax002.jpg" ed="A" n="1" rend="supp"/>
+                <seg type="com" n="com1"><hi rend="">ORLOGSSKIBET<lb/>
+            PRINDS KRISTIAN</hi></seg><lb/>
+            FØRT AF DEN KIÆKKE <hi rend=""><persName key="pe1080">IESSEN<!-- MWP: den rette Jessen? --></persName></hi><lb/>
+            KÆMPEDE VED <placeName key="fak409">ODDENS</placeName> KYST<lb/>
+            DEN <seg type="com" n="com2">XXII MARTS MDCCCVIII</seg> I III TIMER<lb/>
+            MOD II ENGELSKE LINIE SKIBE<lb/>
+            <hi rend=""><persName key="pe99">WILLEMOES</persName></hi> <seg type="com" n="com3"><placeName key="fak414">KONGEDYBETS</placeName> HELT</seg><lb/>
+            <hi rend=""><persName key="pe1082">DALLRUP</persName></hi> OG <hi rend=""><persName key="pe1087">SOLAND</persName></hi><lb/>
+            MED <seg type="com" n="com4">LXIX</seg> AF MENIG MAND FALDT<lb/>
+            <hi rend=""><persName key="pe1088">ROTHE</persName>. <persName key="pe1083">TOP</persName>. <persName key="pe1084">FERRY</persName>.<lb/>
+            <persName key="pe1079">THOSTERUP</persName></hi><lb/>
+            OG <seg type="com" n="com5">CXXXII</seg> SAAREDES VRAGET<lb/>
+            BLEV EROBRET MEN <placeName key="fak14">DANMARKS</placeName><lb/>
+            SØHÆDER STADFÆSTEDES<lb/></p>
+            <fw type="shortLine"/>
+            <lg n="1">
+                <l>DE SNEKKER MØDTES I KVELD PAA HAV</l>
+                <l>OG LUFTEN BEGYNDTE AT GLØDE</l>
+                <l>DE LEGED ALT OVER DEN AABNE GRAV</l>
+                <l>OG <seg type="com" n="com6">BØLGERNE GIORDES SAA RØDE</seg></l>
+            </lg>
+            <lg n="2">
+                <l>HER ER IEG SAT TIL EN BAUTASTEEN</l>
+                <l>AT VIDNE FOR SLÆGTER I NORDEN</l>
+                <l>DANSKE DE VARE HVIS MORE BEEN</l>
+                <l>UNDER MIG SMULDRE I IORDEN</l><!-- MWP: Er dette en intertekstualitet? Skal det i så fald opmærkes til titelbasen? -->
+                <l>DANSKE AF TUNGE AF ÆT OG AF ID</l>
+                <l>THI SKAL DE NÆVNES I LØBENDE TID</l>
+                <l>FÆDRENES VÆRDIGE SØNNER</l>
+            </lg>
+                </div>
+        </body>
+    </text>
+</TEI>

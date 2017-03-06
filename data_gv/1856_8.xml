@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Dansk Kirketidende.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-25"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="008"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1856">1856</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1856_8_page0001.png"/>
+			<fw type="pageNum">369-370</fw>
+				<docTitle>
+	<titlePart type="main">Dansk Kirketidende.<lb/></titlePart>
+	<titlePart type="sub"><lb/></titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<epigraph>
+<p>Indhold: N. F. S. Grundtvig, Den gamle Kirke. — I. V. Bloch, Brev til V. Birkedal. — F. Helweg, Brev til C. C. Boisen. — Præsten Lammers. — Theologerne i Erlange«. — Kristen-Forfslgelse i Palæstina. — Italiensk prot. Skrift. — Udnævnelser og ledige Embeder.</p>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition>Inden Sendag efter Trinitatis den 1 Juni.</docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace></pubPlace>.
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Den gamle Kirke.</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">D</hi>er er en Kirke fra gammel Tid,</l>
+<l>Og Sagn om den gaaer der allevegne;</l>
+<l>Om havde Liv, den gik hid og did,</l>
+<l>Og sang med Engle i Støvets Egne.</l>
+<l>Den gamle Kirke med Taarne og med Spir!</l>
+</lg>
+<lg>
+<l>Der lød i Kirken en vældig Rost,</l>
+<l>Det var som Lyden af store Vande,</l>
+<l>Om Himlens Naade og Jordens Trost,</l>
+<l>Det høres skulde i alle Lande.</l>
+<l>Om gamle Kirke med Taarne og med Spir!</l>
+</lg>
+<lg>
+<l>Og Kirke-Røsten gienlød i Sky,</l>
+<l>Saa listig hørdes Guds Engle sjunge,</l>
+<l>Fra Muren hørdes en Lovsang ny,</l>
+<l>For i hver Steen var en Psalme-Tunge.</l>
+<l>Den gamle Kirke med Taarne og med Spir!</l>
+</lg>
+<lg>
+<l>Fremdeles melder det gamle Ord,</l>
+<l>Som gik for sandt til de sidste Dage:</l>
+<l>Der var en Kilde, der var et Bord,</l>
+<l>Hvortil i Verden ei fandtes Mage.</l>
+<l>Den gamle Kirke med Taarne og med Spir!</l>
+</lg>
+<lg>
+<l>Hvo i den Kilde tog Døbe-Bad,</l>
+<l>Som nyfødt blev, om end graa af Ælde,-</l>
+<l>Og fik ved <hi rend="spaced">Bordet</hi> han Vin og Mad,</l>
+<l>Ham kunde Døden ei overvælde.</l>
+<l>Den gamle Kirke med Taarne og med Spir!</l>
+</lg>
+<lg>
+<l>End Huse findes med Kirke-Navn,</l>
+<l>I Kirke-Stilen snart allevegne,</l>
+<l>De findes midt i vor Fødestavn</l>
+<l>Saa med de bedste de er at regne.</l>
+<l>Den gamle Kirke med Taarne og med Spir!</l>
+</lg>
+<lg>
+<l>Der stundum høres en loftet Røst</l>
+<l>Som Efter-Klangen af Toner stærke</l>
+<l>Om Himlens Naade og Jordens Trøst,</l>
+<l>Og om det yndigste Jule-Mærke.</l>
+<l>Den gamle Kirke med Taarne og med Spir!</l>
+</lg>
+<lg>
+<l>Og Tale-Røsten gienlyder da</l>
+<l>Fra Orgel-Piber og Barne-Munde,</l>
+<l>Og som et dunkelt Halleluja</l>
+<l>Fra Hjerte-Dybet der høres kunde.</l>
+<l>Den gamle Kirke med Taarne og med Spir!</l>
+</lg>
+<lg>
+<l>Vel og i Huset, hvor <hi rend="spaced">Fonten</hi> staaer,</l>
+<l>Sees som af Springvand en mægtig Straale,</l>
+<l>Men den som Stenen er død og haard,</l>
+<l>Saa Spot den maa af al Verden taale.</l>
+<l>Den gamle Kirke med Taarne og med Spir!</l>
+</lg>
+<lg>
+<l>Paa <hi rend="spaced">Bordet</hi> seer man det famme Brød,</l>
+<l>De samme Perler i Guld-Vinbæger,</l>
+<l>Hvorom fra fordum Sandsagnet lød.</l>
+<l>Men Mad forstenet ei vederkvæger.</l>
+<l>Den gamle Kirke med Taarne og med Spir!</l>
+</lg> 
+<pb facs="1856_8_page0002.png"/>
+<fw type="pageNum">371-372</fw>
+<lg>
+<l>Trohjertig melder det gamle Ord:</l>
+<l>Guds egen Son var her selv tilstæde.</l>
+<l>Han bygde Kirken med Bad og Bord,</l>
+<l>Og alt af Aanden til Liv og Glæde.</l>
+<l>Den gamle Kirke med Taarne og med Spir!</l>
+</lg>
+<lg>
+<l>I Tiders Lob er til Træ og Stem</l>
+<l>Det alt forvandlet ved Konster forte.</l>
+<l>Hvor Engle dandsed, er Dødningbeen,</l>
+<l>Hvor Livet bølged, er Helhjems-Porte.</l>
+<l>Den gamle Kirke med Taarne og med Spir!</l>
+</lg>
+<lg>
+<l>Al Verden siger: det er et Spil</l>
+<l>Af Grund-Naturens sælsomme Kræfter,</l>
+<l>Og Konsten raa, som det tegner til,</l>
+<l>Lidt keitet gjorde Naturen efter.</l>
+<l>Den gamle Kirke med Taarne og med Spir!</l>
+</lg>
+<lg>
+<l>Saa tager Verden sig alting let,</l>
+<l>Hvor Talen falder om <hi rend="spaced">Aands-Vidunder</hi>,</l>
+<l>I alting giver sig selv den Ret,</l>
+<l>Og har til Alvor snart ingen Stunder.</l>
+<l>Den gamle Kirke med Taarne og med Spir!</l>
+</lg>
+<lg>
+<l>Mig <hi rend="spaced">Aanden</hi> mødte engang ifjor,</l>
+<l>Han sagde: troe mig! den gamle Kirke</l>
+<l>Kan lives op med et <hi rend="spaced">Læbe-Ord</hi>,</l>
+<l><hi rend="spaced">Guds Ord</hi> er Grunden til <hi rend="spaced">Gudevirke</hi>.</l>
+<l>Den gamle Kirke med Taarne og med Spir!</l>
+</lg>
+<lg>
+<l>Velmødt, jeg svared, i Aftenstund!</l>
+<l>Udtal det Ord! jeg er lutter Øre,</l>
+<l>Dertil, Han sagde, laan mig din Mund!</l>
+<l>Da Ordet sikkrest du faaer at høre.</l>
+<l>Den gamle Kirke med Taarne og med Spir!</l>
+</lg>
+<lg>
+<l>Det Ord mig ligger paa Tungen nu</l>
+<l>Alt som paa Gløder, det maa udfare,</l>
+<l>Skiondt Slangen Hvisler, kom vel ihu,</l>
+<l>Kan du for Verden det Ord forsvare?</l>
+<l>Den gamle Kirke med Taarne og med Spir!</l>
+</lg>
+<lg>
+<l>Guds-Aanden siger: du veed jo vel,</l>
+<l>Guds Ord kan prægtig sig selv forsvare,</l>
+<l>Det giør af Fonten et Kildevæld,</l>
+<l>Og Livets Flod maa sig selv forklare.</l>
+<l>Den gamle Kirke med Taarne og med Spir!</l>
+</lg>
+<lg>
+<l>Som <hi rend="spaced">Nilen</hi> voxer dm Livets Flod,</l>
+<l>Til Kirke-Taget den oversvømmer,</l>
+<l>Og alt, som haver i Aanden Rod</l>
+<l>Gienfødt til Livet da sammenstrømmer.</l>
+<l>Den gamle Kirke med Taarne og med Spir!</l>
+</lg>
+<lg>
+<l>Da Gud opvækker sig Vorn af Steen</l>
+<l>Og Barne-Engle af Støtter stive,</l>
+<l>En Doms-Basun af hvert Dødningbeen,</l>
+<l>En Lovsang prud af hver Orgelpibe.</l>
+<l>Den gamle Kirke med Taarne og med Spir!</l>
+</lg>
+<lg>
+<l>Af <hi rend="spaced">Bordet</hi> da, som den bedste Jord,</l>
+<l>Med Hveden voxer omkap Vin-Druen,</l>
+<l>Da Kongens Bæger ved Naadens Bord</l>
+<l>Gaaer rundt og rækker sig tit Almuen.</l>
+<l>Den gamle Kirke med Taarne og med Spir!</l>
+</lg>
+<lg>
+<l>Da straaler Kirken paany som før,</l>
+<l>Kun seet fra Oven og ei fra Neden,</l>
+<l>Med Livets Fyrste til Port og Dor,</l>
+<l>Og Kirke-Spiret er Evigheden.</l>
+<l>Den gamle Kirke med Taarne og med Spir!</l>
+</lg>
+<lg>
+<l>Du gamle Kirke! Guds Bedehuus!</l>
+<l>Lad hvad den vil da kun Verden mene!</l>
+<l>I Naade mindes dog Gud dit Gruus,</l>
+<l>Han Velbehag har i dine Stene!</l>
+<l>Den gamle Kirke med Taarne og med Spir!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

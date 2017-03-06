@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Psalmer for Danske Krigere</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-26"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="003"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1864">1864</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1864_3_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Psalmer<lb/>for<lb/>Danske Krigere.</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition>Nyt Oplag.</docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace>Kjøbenhavn,</pubPlace>S. Triers Bogtrykteri.<lb/>
+<fw type="graphic"/>
+<docDate>1864.</docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<pb facs="1864_3_page0002.png"/>
+<fw type="pageNum">62</fw>
+<lg>
+<l><hi rend="initial">H</hi>il dig, vor Fane!
+Kors-Banner hvidt!</l>
+<l>Holde paa Bane</l>
+<l>Med dig vi Stridt,</l>
+<l>Ris er os Krandsen,</l>
+<l>Gyldenaars-Glandsen,</l>
+<l>Danskerne følge dig frit!</l>
+</lg>
+<lg>
+<l>Fjenderne grue,</l>
+<l>Meer end for Sværd,</l>
+<l>Ved dig at skue,</l>
+<l>Plantet dem nær;</l>
+<l>Hvor dig du hæver,</l>
+<l>Seier omsvæver</l>
+<l>Kors-Herrens signede Hær!</l>
+</lg>
+<lg>
+<l>Kjærlig omfavned</l>
+<l>Dig Dannemænd,</l>
+<l>Dannebrogs-Navnet</l>
+<l>Bærer du end,</l>
+<l>Himlen til Ære</l>
+<l>Altid du bære</l>
+<l>Navnet med Seier igjen!</l>
+</lg>
+<lg>
+<l>Hjem-Kjærligheden</l>
+<l>Boer os i Bryst,</l>
+<l>Striden for Freden</l>
+<l>Kun er vor Lyst,</l>
+</lg> 
+<pb facs="1864_3_page0003.png"/>
+<fw type="pageNum">63</fw>
+<lg>
+<l>Odde og Egge</l>
+<l>Kun for dem begge</l>
+<l>Skjærpet vi har til en Dyst!</l>
+</lg>
+<lg>
+<l>Hil dig, vor Fane!</l>
+<l>Kors-Banner hvidt!</l>
+<l>Du paa din Bane</l>
+<l>Overfløi tit,</l>
+<l>Høiere oppe</l>
+<l>Aandernes Troppe,</l>
+<l>Danskerne følge dig frit!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<head>41.</head>
+<lg>
+<l><hi rend="initial">F</hi>orfærdes ei, du lille Hob,</l>
+<l>Skjøndt dine Fjenders Larm og Raab</l>
+<l>Fra alle Sider gjalde;</l>
+<l>De juble ved din Undergang,</l>
+<l>Men deres Fryd ei bliver lang,</l>
+<l>Thi lad ei Modet falde!</l>
+</lg>
+<lg>
+<l>2. I Jesu Navn vort Haab er vist:</l>
+<l>At vore Fjenders Vold og List</l>
+<l>Til Skam og Spot stal blive;</l>
+<l>Vi staae med Gud, og Gud med os,</l>
+<l>Med ham vi byde Døden Trods</l>
+<l>Han vil os Seier give!</l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

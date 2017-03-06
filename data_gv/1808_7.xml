@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Nyeste Skilderie af Kjøbenhavn.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2009-10-07"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="007"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1808">1808</date>
+			</publicationStmt>
+			 <sourceDesc>
+			  <p>[Source decription]</p>
+			 </sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1808_7_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Nyeste<lb/>
+Skilderie af Kjøbenhavn.</titlePart>
+</docTitle>
+<fw type="graphic"/>
+<docEdition>Femte  Aargang.  No. 81.</docEdition>
+<fw type="graphic"/>
+<byline>Udgivet og forlagt af I. Wersel; trykt i Kjøbenhavn,  hos P. H. Höeckes Enke.</byline>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace>Tirsdagen</pubPlace>.
+<docDate>den 19 Julii, 1808.</docDate>.
+</docImprint>
+				<fw type="graphic"/>
+</titlePage>
+</front>
+<body>
+<div>
+<pb facs="1808_7_page0001.png"/>
+<fw type="pageNum"></fw>
+<head>Til min Ven.</head>
+<p>(I Anledning af Brevet fra Sorø *).</p>
+<lg>
+<l>Til Absalons nedsjunkne Grav</l>
+<l>Du gange hen i Kvælde!</l>
+<l>Et Baand omslynger Sværd, og Stav,</l>
+<l>I Andagt luer Vælde.</l>
+</lg>
+<lg>
+<l>Jeg stander i den svundne Old</l>
+<l>Og skuer i dens Indre.</l>
+<l>Mod  Verden vendes brede Skjold</l>
+<l>Og lyse Sværde tindre;</l>
+<l>Men Øiet stiger længselsfuld,</l>
+<l>Didop mod Solens Lue,</l>
+<l>Og Helten sukker dybt fra Mild</l>
+<l>Mod høien Himmelbue.</l>
+</lg>
+<lg>
+<l>Saa stræber Aanden mod sit Hjem,</l>
+<l>Men kæmpende den stræber;</l>
+<l>Da stiger Daad paa Jorden frem,</l>
+<l>Og Sang fra fromme Læber.</l>
+</lg>
+<lg>
+<l>Det Evige forsonet, ned</l>
+<l>En herlig Straale sender,</l>
+</lg>
+<p>*) Se Kiøbenhavns Skilderi no. 79 og 80.</p>
+<lg>
+<l>Og Straalens Navn er Kærlighed,</l>
+<l>Den lyser og den brænder,</l>
+<l>Paa Jord den brænder som en Glød</l>
+<l>Og brændte Fod sig hæver;</l>
+<l>Men blid igennem skumle Død</l>
+<l>Den lysende hensvæver.</l>
+</lg>
+<lg>
+<l>Ak!  at den svandt den skønne Old,</l>
+<l>Kun fængslet halv i Norden!</l>
+<l>Da hæved sig forstandig, kold.</l>
+<l>En anden Tid paa Jorden.</l>
+<l>Man kæmped for at vinde Jord</l>
+<l>Og agted Himlen ringe:</l>
+<l>Saa brat den Straale da opfor</l>
+<l>Alt paa sin lyse Vinge.</l>
+</lg>
+<lg>
+<l>Ei mere tvinger heden Glød</l>
+<l>Vor Fod til, sig at hæve.</l>
+<l>O! skued vi vor store Nød:</l>
+<l>Da maatte vi vist bæve.</l>
+<l>Bag Straalen luktes Porten i</l>
+<l>Som staar for Evigheden,</l>
+<l>Thi drømme vi om Harmoni,</l>
+<l>Om Harmoni herneden.</l>
+</lg>
+<lg>
+<l>Du Ædle! mod den brudne Form</l>
+<l>Saa længselsfuld henskuer.</l>
+</lg>
+<pb facs="1808_7_page0002.png"/>
+<fw type="pageNum">1279</fw>
+<lg>
+<l>Du ser den svøbt i hellig Storm,</l>
+<l>Du vender Dig - og gruer!.</l>
+<l>Din længselstaare tørres hen,</l>
+<l>Og svag Dig selv Du kalder:</l>
+<l>Da Absalons saa hulde Ven</l>
+<l>Lovpriser sjunkne Alder.</l>
+</lg>
+<lg>
+<l>Jeg stander i den svundne Old,</l>
+<l>Og rører Harpens Strænge.</l>
+<l>O, kan da gennem Tidens Vold</l>
+<l>Ei Tonen mere trænge?</l>
+</lg>
+<lg>
+<l>Til Absalons nedsjunkne Grav</l>
+<l>Du gange hen i Kvælde!</l>
+<l>Der vies Sværd af hellig Stav,</l>
+<l>I Andagt luer Vælde.</l>
+<l>Nedknæl!   Bekend!  Den høie Glands</l>
+<l>Den svandt - og maatte svinde.</l>
+<l>Men ei vanhellig Seierskrands.</l>
+<l>For Nutids Prunk Du binde!</l>
+</lg>
+<p><hi rend="align(right)">Nik. Fred. Sev. Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

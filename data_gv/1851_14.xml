@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Den tappre Landsoldat.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-22"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="014"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1851">1851</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1851_14_page0001.png"/>
+			<fw type="pageNum">95</fw>
+				<docTitle>
+	<titlePart type="main"><lb/>Den tappre Landsoldat.</titlePart>
+	<titlePart type="sub"><lb/></titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<docImprint>
+				<pubPlace></pubPlace>.
+<fw type="graphic"/>
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Den tappre Landsoldat.</head>
+<lg>
+<l><hi rend="initial">M</hi>an skal ej stue Hund paa Haar,</l>
+<l>Det er en gammel Tale,</l>
+<l>Som trøsted alt i <hi rend="spaced">Leiregaard</hi></l>
+<l>Den Danske Konges Ka'le;</l>
+<l>Thi Bondesøn drak Leveblod,</l>
+<l>Og Bondesøn fik Heltemod,</l>
+<l>Da <hi rend="spaced">Hotte</hi> blev til <hi rend="spaced">Hjalte</hi>.</l>
+</lg>
+<lg>
+<l>Lad Tysken kun i Pral og Prat</l>
+<l>Fra Alle Prisen vinde!</l>
+<l>Den tappre Danske Landsoldat</l>
+<l>Skal dog ej gaae af Minde:</l>
+<l>Fra <hi rend="spaced">Frederits til Fredriksstad</hi>.</l>
+<l>Staae Mindesmærker tæt paa Rad</l>
+<l>Om Helten under Kofte</l>
+</lg>
+<lg>
+<l>Han vidste knap, hvad det betød,</l>
+<l>At være Billed-Hugger,</l>
+<l>Men sang dog "Sejer eller Død!"</l>
+<l>Mens hele Tyskland sukker,</l>
+<l>Og aldrig stal, den Sag er reen,</l>
+<l>Mens der er Malm og Marmorsteen</l>
+<l>Hans Heltetrak udslettes.</l>
+</lg>
+<lg>
+<l>Den første Gang, han drog afsted</l>
+<l>At værge Land og Rige,</l>
+<l>Hans Fader tav, hans Moder græd,</l>
+<l>Og dødbleg var hans Pige;</l>
+<l>Men da han hjem med Sejer dro',</l>
+<l>Hans Fader græd, hans Moder loe,</l>
+<l>Hans Pige var som Rosen!</l>
+</lg> 
+<pb facs="1851_14_page0002.png"/>
+<fw type="pageNum">96</fw>
+<lg>
+<l>Thi aldrig for det <hi rend="spaced">Danske</hi> Land</l>
+<l>Var stædt i større Fare,</l>
+<l>Og aldrig nogen Dannemand</l>
+<l>Det bedre kan forsvare,</l>
+<l>End Bondeknøsen ærekjærr,</l>
+<l>Da han drog ud i Herrefærd</l>
+<l>Og vandt sit Helterygte.</l>
+</lg>
+<lg>
+<l>Kong <hi rend="spaced">Vermund</hi> sad paa <hi rend="spaced">Ejderbro</hi></l>
+<l>Engang i gamle Dage,</l>
+<l>Hans Søn da kæmped een mod To,</l>
+<l>Det <hi rend="spaced">Uffe</hi> var hin <hi rend="spaced">Spage</hi>,</l>
+<l>Og saa har Landsoldaten spag</l>
+<l>Nu vundet Priis i Kæmpelag</l>
+<l>Som een mod To tilvisse!</l>
+</lg>
+<lg>
+<l>Derfor, saalænge <hi rend="spaced">Danmark</hi> staaer,</l>
+<l>Og Dannebrog kan flyve,</l>
+<l>For Heltene fra Bondens Gaard</l>
+<l>I Skjul skal <hi rend="spaced">Tysken</hi> krybe,</l>
+<l>Thi nu hvergang han Ypper Strid,</l>
+<l>Det gaaer som i Rolv <hi rend="spaced">Krages</hi> Tid,</l>
+<l>Da <hi rend="spaced">Hotte</hi> blev til <hi rend="spaced">Hjalte</hi>.</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+<fw type="graphic"/>
+<p>Til ovenstaaende Digt knytte vi Afbildningen af den Statue, hvormed vor udmærkede Billedhugger Professor Bissen har foreviget den Bedrift, som "<hi rend="bold">den tappre Landsoldat</hi>" har udført i Slaget d. 6te Juli 1849. Velvillige Landsmænds Bidrag have gjort det muligt at faae Statuen støbt i Bronce, og paa denne Maade udført vil den pryde Valpladsen ved Fredericia.</p>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

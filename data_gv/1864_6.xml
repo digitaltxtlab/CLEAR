@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Dannebrog og Niels Juel.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-26"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="006"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1864">1864</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1864_6_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Dannebrog og Niels Juel.</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Dannebrog og Niels Juel.</head>
+<lg>
+<l><hi rend="spaced"><hi rend="initial">D</hi>annebrog</hi>! som, tungt at bære,</l>
+<l>Streget blev med Skam ifjor,</l>
+<l>Heiset blev iaar med Ære,</l>
+<l>Vaied hos "Niels Juel" ombord,</l>
+<l>Blev i Østersø begravet,</l>
+<l>Men stod op i Vesterhavet</l>
+<l>linder "<hi rend="spaced">Morgenrødens</hi>" Smil!</l>
+</lg>
+<lg>
+<l>Seiers-Flaget af Guds Naade</l>
+<l>Gik tilbunds i <hi rend="spaced">Egernvad</hi>,</l>
+<l>Gjenfødt er den <hi rend="spaced">danske Flaade</hi></l>
+<l>Dog paany i Birtingsbad,</l>
+<l>Nær ved <hi rend="spaced">Helgen-Øens</hi> Enge,</l>
+<l>Hvor de første danske Drenge</l>
+<l>Døbtes frit af <hi rend="spaced">Villibrord</hi>*).</l>
+</lg>
+<lg>
+<l>"<hi rend="spaced">Schwarzenberg</hi>", med Kneb bag Øre,</l>
+<l>Og "<hi rend="spaced">Radezky</hi>" ulvegram</l>
+<l>Vilde Dannebrog hjemføre</l>
+<l>Med det danske Paaske-Lam;</l>
+<l>Men "Niels Juel* dem skød i Flugten,</l>
+<l>Langt endnu fra <hi rend="spaced">Kjøge-Bugten</hi>,</l>
+<l>Ei blot der han holder Slag.</l>
+</lg>
+<lg>
+<l>Dengang <hi rend="spaced">først</hi>, i Tid henrundet,</l>
+<l>Søslag der blev holdt i Nord,</l>
+<l>Vist fra Beltet og fra Sundet</l>
+<l><hi rend="spaced">Danske</hi> toned Flag ombord;</l>
+<l><hi rend="spaced">Sidste</hi> Gang vel Egestammer</l>
+<l>Nu paa Hav gik op i Flammer,</l>
+<l><hi rend="spaced">Dannebrog</hi> til Æres-Blus.</l>
+</lg>
+<lg>
+<l>Jernet snart, selv over Havet,</l>
+<l>Vinder nu vel Hals og Haand,</l>
+<l>Da er Sømandskab begravet,</l>
+<l>Søret lagt i Slavebaand,</l>
+<l>Som iland, da, skabt af Smeden,</l>
+<l>Staal fløi ud fra Røver-Reden,</l>
+<l>Slog al Dyd og Daad ihjel!</l>
+</lg>
+<p>*) <hi rend="spaced">V i 11 i b r o r d</hi>, Nord-Tydsklands glemte Apostel, gjaestede ogsaa Danmark og døbte paa Hjemveien tolv danske Drenge paa Helgoland i den hellige Kilde.</p>
+<pb facs="1864_6_page0002.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Dog maaskee, ved Hjælp af Dampen:</l>
+<l><hi rend="spaced">Lykke-Skibets</hi> Alfe-Bør,</l>
+<l>Skal i Nord optages Kampen</l>
+<l>Imod Jetters <hi rend="spaced">Neglefor</hi>,</l>
+<l><hi rend="spaced">Neglefør</hi> kun, fort af Loke,</l>
+<l>Med sig selv i <hi rend="spaced">Ragnaroke</hi></l>
+<l>Bore Alfe-Kjøl i Sænk.**)</l>
+</lg>
+<lg>
+<l>Allenfalds, til Daners Glæde,</l>
+<l>Vaaben-Hvilen skodes ind</l>
+<l>Uden Gny af Pandser-Klæde,</l>
+<l>Hytte-Fade for vort Skind;</l>
+<l>Faur og frisk er Laurbær-Krandsen,</l>
+<l>Som nu efter Vaaben-Dandsen</l>
+<l>Stout "Niels Juel" kan hvile paa!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+<p>**) <hi rend="spaced">Neglefør</hi> er "Naglfar" og <hi rend="spaced">Alfe-Kiøb</hi> er Skidbladner, <hi rend="spaced">Lykke-Skibet</hi>, som Lys-Alferne gav <hi rend="spaced">Frey</hi> paa Vuggen.</p>
+</div>
+</body>
+</text>
+</TEI>

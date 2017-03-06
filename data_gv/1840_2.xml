@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Kirke-Tidende</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-23"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="002"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1840">1840</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1840_2_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Kirke-Tidende</titlePart>
+</docTitle>
+<byline>udgiven af
+	<docAuthor>Jac. Chr. Lindberg</docAuthor>
+				</byline>
+				<fw type="graphic"/>
+				<docEdition>1840 Nordisk No.1<lb/>Ottende Aargang. 5. Jan. Søndag efter Nyaar.</docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<fw type="graphic"/>
+<p><hi rend="align(center)">Maa trykkes. C. Reiersen. Trykt paa Udgiverens Forlag hos C. Groede &amp; Søn.</hi></p>
+<fw type="graphic"/>
+</div>
+<div>
+<head>Kirkesang til Mindetaler efter Ørdlp. 20, 28.</head>
+<fw type="graphic"/>
+<p>Mel. Hvo veed hvor nær mig er min Ende.</p>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">V</hi>elsignet er den Konges Minde,</l>
+<l>Som elsked Ret og Miskundhed!</l>
+<l>Og mens Aarhundreder henrinde.</l>
+<l>Med Æren hviler han i Fred.</l>
+<l>O! Miskundhed er Livvagt god,</l>
+<l>Og Sandhed Thronens gyldne Fod!</l>
+</lg>
+<lg>
+<l>Vort Fædreland var, af Guds Naade,</l>
+<l>Miskundelige Kongers Hjem,</l>
+<l>Som Hjertet lod for Spiret raade;</l>
+<l>Hensovet nys er En af dem!</l>
+<l>O! Miskundhed er Livvagt god,</l>
+<l>Og Sandhed Thronens gyldne Fod!</l>
+</lg>
+<lg>
+<l>Hensovet, Frederik den Sjette</l>
+<l>Er nu til sine Fædre lagt;</l>
+<l>Det Sande var for ham det Nette,</l>
+<l>Ei bedre Mand fik verdslig Magt.</l>
+<l>O! Miskundhed er Livvagt god,</l>
+<l>Og Sandhed Thronens gyldne Fod!</l>
+</lg>
+<lg>
+<l>Hans Kraft var vel Hans ungdoms Smykke,</l>
+<l>Dets Ædelsteen dog Miskundhed;</l>
+<l>I Kjærlighed Han fandt sin Lykke,</l>
+<l>Hans Lov var Ret, Hans Lyst var Fred!</l>
+<l>O! Miskundhed er Livvagt god,</l>
+<l>Og Sandhed Thronens gyldne Fod!</l>
+</lg>
+<lg>
+<l>Som Danmarks Konge af Guds Naade,</l>
+<l>I tredive samfulde Aar,</l>
+<l>Paa Retfærds Vei til Rigets Baade</l>
+<l>Ham kronede de hvide Haar!</l>
+<l>O! Miskundhed er Livvagt god,</l>
+<l>Og Sandhed Thronens gyldne Fod!</l>
+</lg>
+<lg>
+<l>For Konger sjelden Taarer rinde</l>
+<l>Saa varme og saa mangefold,</l>
+<l>Velsignes stal den Herres Minde</l>
+<l>Paa Daners Mark fra Old til Old</l>
+<l>O! Miskundhed er Livvagt godm</l>
+<l>Og Sandhed Thronens gyldne Fod!</l>
+</lg>
+<lg>
+<l>Som Vidnesbyrd af ædle Sjæle,</l>
+<l>Med Taareblik og dæmpet Rost,</l>
+<l>Det være stal Hans Eftermæle:</l>
+<l>"Det Rettes Ven, de Ringes Trøst."</l>
+<l>O! Miskundhed er Livvagt god,</l>
+<l>Og Sandhed Thronens gyldne Fod!</l>
+</lg>
+<lg>
+<l>For Gud er ingen Mand retfærdig,</l>
+<l>Og daarlig Støvets Roes af Dyd,</l>
+<l>Men Miskundhed er Naaden værdig,</l>
+<l>Og Kjærlighed er Engles Fryd!</l>
+<l>Halleluja! vor Gud er god,</l>
+<l>Hans Miskundhed er Livets Flod!</l>
+</lg>
+<lg>
+<l>Halleluja! Han kom til Jorden,</l>
+<l>Som os forligde med vor Gud!</l>
+<l>Halleluja! Det kom til Norden,</l>
+<l>Det himmelsøde Julebud:</l>
+<l>Nu Sandhed Naaden tog i Favn,</l>
+<l>Nu Fred i <hi rend="spaced">Jesu Christi</hi> Navn!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

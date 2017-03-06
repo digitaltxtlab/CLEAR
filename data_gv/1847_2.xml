@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Synger høit, saa det kan høres</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-25"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="002"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1847">1847</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1847_2_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Synger høit, saa det kan høres</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<docImprint>
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Mel. Nu velan var frisk tilmode.</head>
+<lg>
+<l><hi rend="initial">S</hi>ynger høit, saa det kan høres,</l>
+<l>I, som drives af Guds Aand,</l>
+<l>I, for hvem ei Ploven kiøres,</l>
+<l>I, som mættes af Guds Haand!</l>
+<l>Lytter, alle Folkefærd!</l>
+<l>Rigets Tid er kommet nær,</l>
+<l>Travl er Tiden, rig dens Grøde,</l>
+<l>Baar og Høst hinanden møde.</l>
+</lg>
+<lg>
+<l>Flyver, Himlens Fugle, flyver,</l>
+<l>Med et Korn i Neb enhver,</l>
+<l>Med Hans Sæd, som ikke lyver,</l>
+<l>Som har hele Jorden kiær!</l>
+<l>Han vil pløie, Han vil saae,</l>
+<l>Overalt ved Bæk og Aa,</l>
+<l>Med Velsignelse Han mætte</l>
+<l>Bil nu baade Bjerg og Slette.</l>
+</lg>
+<lg>
+<l>Spreder Vinge, Himlens Fugle,</l>
+<l>Med Hans Sæd i Jesu Navn,</l>
+<l>Som vil paa den hele Kugle</l>
+<l>Høste ind til evigt Gavn:</l>
+<l>Overalt, hvor Sjæle boe,</l>
+<l>Ordet saae og høste Tro,</l>
+<l>Høste Alt hvad Engle glade</l>
+<l>Samle kan i Sandheds Lade!</l>
+</lg>
+<lg>
+<l>Straal nu, Soel, med Syvdags-Glandsen!</l>
+<l>Dryp nu, Sky, med Dugg og Regn!</l>
+<l>Kappes saa om Axe-Krandsen</l>
+<l>Under hver en Himmelegn!</l>
+<l>Sammel, Jord, nu al din Kraft,</l>
+<l>Spar ei paa din bedste Saft!</l>
+<l>Fryd dig, Sæd, naar smukt du blegner!</l>
+<l>Sødt i Englefavn du segner.</l>
+</lg> 
+<pb facs="1847_2_page0002.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Du, fra Hvem al Væxten kommer,</l>
+<l>Fader-Gud af Evighed,</l>
+<l>Som har Foraar skabt og Sommer,</l>
+<l>Ene Høstens Time veed!</l>
+<l>Lad det nu til fælles Gavn</l>
+<l>Lykkes ret i Jesu Navn!</l>
+<l>Driv, med Kraft i Guddoms-Røsten,</l>
+<l>Avling din til Gylden-Høsten!</l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

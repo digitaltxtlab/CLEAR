@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Venlig Advarsel.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-20"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="014"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1825">1825</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1825_14_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Venlig Advarsel.</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<p>Da jeg hører, man i Bladene skal have begyndt at tage den alvorlige Sag om <hi rend="spaced">christelig</hi> Tro og Bekiendelse lystig, og i den Anledning giækkes med mig, saa vil jeg nu, <hi rend="spaced">ubeleet</hi>, erindre Modstanderne om, at det er naturlig mit ømme Sted, saa de maae ikke vente at kunne kille mig ret længe, for jeg leer Høit. Da jeg nu er vis paa, de nødig vil see de Leende paa min Side, hvad dog, med saa latterlig en Viisdom, som den jeg Har at bekæmpe, let kunde skee, beder jeg dem holde op i tdide, da det er høistrimeligt, at faaer jeg først begyndt at høste med det krumme Sværd, som jeg ved denne Leilighed nødig vil bruge, turde jeg have ondt ved at ramme Maal og Maade. Denne Advarsel kan jeg give, og nogen Spot kan jeg taale, fordi neppe Nogen tvivler paa, jeg jo fra denne Side kan rede for mig; men saasnart jeg seer, der er Fare for, at Spotten kan overføres fra mig paa den Kirke, jeg tjener, og den Tro jeg forkynder, da vente man ingen Skaansel; thi <hi rend="spaced">sandelig</hi>, det er et Ord, hvormed jeg ikke spøger, da drager jeg Sværdet og bryder Balgen, og hvad der da end times mig, skal Kirken dog, med Guds Hjelp, faae Lov at staae uspottet, saalænge der er Staal i mit Sværd og Pil i mit Kogger!</p>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

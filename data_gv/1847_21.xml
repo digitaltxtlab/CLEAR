@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Tillæg den<hi rend="italic"> Berlingske </hi>politi</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-25"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="021"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1847">1847</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1847_21_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Tillæg den<hi rend="italic"> Berlingske </hi>politi</titlePart>
+</docTitle>
+<byline><lb/><lb/>
+	<docAuthor></docAuthor>
+				</byline>
+				<fw type="graphic"/>
+				<epigraph>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace></pubPlace>Nr. 218.  Løverdagen den<lb/>Abonnementspriis for Kjøbenhavn, 4 Mk. maanedligt eller 2 Rbd. pr. Qvratal.<lb/>
+<fw type="graphic"/>
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Den Kongelige Fødselsdag.</head>
+<lg>
+<l>Lad som Korn opvoxe Knagle,</l>
+<l>Der kan frisk - - -</l>
+<l>- - - om <hi rend="italic">Dannebod </hi>end tale.</l>
+<l>Naar hun er i <hi rend="italic">Drab!</hi></l>
+</lg>
+<p><hi rend="align(right)">Dannebods-Visen.</hi></p>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="italic">"Gak til Kongen af Dannemark!</hi></l>
+<l><hi rend="italic">Han löser Dig af din Kvide."</hi></l>
+<l>Saa over Norden, vidt og bredt,</l>
+<l>Det toned' fra Arildstide.</l>
+</lg>
+<lg>
+<l>Men nu ligger <hi rend="italic">Dannebod </hi>udi Dvale!</l>
+<l>Bolden slog jeg i <hi rend="italic">Dannemark,</hi></l>
+<l>Og; mærked paa <hi rend="italic">Bondens </hi>Tale:</l>
+<l>Gak til Kongen, inaar Du kan,</l>
+<l>Til Hoved og ei til Hale!</l>
+<l><hi rend="italic">Mens </hi>nu ligger <hi rend="italic">Dannebod </hi>udi Dvale!</l>
+</lg>
+<lg>
+<l><hi rend="italic">Bonde-Vennen, </hi>som Krone bar</l>
+<l>I alle min Manddoms Dage,</l>
+<l>"God at snakke og tale med"</l>
+<l>Han dæmper' saamangen Klage:</l>
+</lg>
+<lg>
+<l>Men dog ligger <hi rend="italic">Dannebod </hi>udi Dvale!</l>
+<l>Hjerte havde Kong <hi rend="italic">Frederik</hi></l>
+<l>For alle de Smaa, som græde,</l>
+<l>Ore havde den Folkeven</l>
+<l>For alle, som var tilstede;</l>
+</lg>
+<lg>
+<l>Men dybt ligger <hi rend="italic">Dannebod </hi>udi Dvale!</l>
+<l>Ore har nu paa Marken Faa</l>
+<l>For Det, som er lagt i Dvale,</l>
+<l>Færre for dem fra <hi rend="italic">Gudehjem,</hi></l>
+<l>Som sees ei, skiondt de tale,</l>
+</lg>
+<lg>
+<l>Og dybt ligger <hi rend="italic">Dannebod </hi>udi Dvale.</l>
+<l>Hviskes end der i Dvale omt,</l>
+<l>For Drømme dog kun det gjælder;</l>
+<l>Tale <hi rend="italic">Aander </hi>end aabenlydt,</l>
+<l>For Sværmere dem man skjælder,</l>
+</lg>
+<lg>
+<l>Og dybt ligger <hi rend="italic">Dannebod </hi>udi Dvale!</l>
+<l><hi rend="italic">Gjæst hin Gamle </hi>fra Gudehjem,</l>
+<l>Usynlig ved Soel og Maane,</l>
+<l>Mælende dog, som Bølger gaae,</l>
+<l>Og malende, som de blaane,</l>
+</lg>
+<lg>
+<l>Skiondt nu ligger <hi rend="italic">Dannebod </hi>udi Dvale!</l>
+<l><hi rend="italic">Gjæst hin Gamle, </hi>som Nat og Dag,</l>
+<l>Mens Aarene firti runde,</l>
+<l>Sang for Oret med Bølgesuk,</l>
+<l>I grønne og hvide Lunde:</l>
+</lg>
+<lg>
+<l>Ak nu ligger <hi rend="italic">Dannebod </hi>udi Dvale!</l>
+<l><hi rend="italic">Gjæst hin gamle, </hi>som finder snart</l>
+<l>Hos Skjalden kun Øren dove!</l>
+<l>Før Du tier, som Stenen, kvær,</l>
+<l>Saa gior dog den sidste Prøve,</l>
+</lg>
+<lg>
+<l>Mens end <hi rend="italic">ligger Dannebod </hi>udi Dvale!</l>
+<l><hi rend="italic">Gak til Kongen af Dannemark,</hi></l>
+<l>Hvor Ørenlyd staaer Dig aaben!</l>
+<l>Tal til <hi rend="italic">Ham </hi>for den Dronning prud,</l>
+<l>Som sover i Sølvmors-Kaaben,</l>
+</lg>
+<lg>
+<l>For Dronningen <hi rend="italic">Dannebod </hi>udi Dvale!</l>
+<l><hi rend="italic">Gak til Kongen af Dannemark,</hi></l>
+<l>Hos Hvem end er Tro og Love!</l>
+<l>Bed Ham dristig til <hi rend="italic">Dannebod</hi></l>
+<l>Om Guld og om grønne Skove,</l>
+</lg>
+<lg>
+<l>Mens end ligger <hi rend="italic">Dannebod </hi>udi Dvale!</l>
+<l>Bed ham dristig, som "<hi rend="italic">Folkets Aand"</hi></l>
+<l>Der ikke sit Navn har stjaalet,</l>
+<l>Ikke sin Kraft og Kalk udtømt,</l>
+<l>Om <hi rend="italic">Sorö </hi>til <hi rend="italic">Modersmaalet,</hi></l>
+</lg>
+<lg>
+<l>Til Dronningen <hi rend="italic">Dannebod </hi>udi Dvale!</l>
+<l>Sæt din Ære, dit Liv i Pant</l>
+<l>For <hi rend="italic">Dannebods </hi>Sjæl og Tunge:</l>
+<l>Vaagne skal hun, som Fugl i Lund.</l>
+<l>Og liflig om <hi rend="italic">Kongen, </hi>sjunge,</l>
+<l>Som loskiøbde <hi rend="italic">Dannebod </hi>udaf Dvale!</l>
+</lg>
+<lg>
+<l>Som den <hi rend="italic">Fjerde </hi>Kong <hi rend="italic">Christian,</hi></l>
+<l>Den <hi rend="italic">Ottende </hi>Han har Ore</l>
+<l>Ogsaa for dem, ei Falken seer,</l>
+<l>Naar Ordet med Fynd de fore</l>
+<l>For Dronningen <hi rend="italic">Dannebod </hi>udi Dvale.</l>
+</lg>
+<lg>
+<l>Skynd Dig, Gamle! dit Timeglas.</l>
+<l>Hvis ikke, for brat udrinder,</l>
+<l>Kun forgiæves, naar det udrandt,</l>
+<l>Begræde Dig Dannekvinder;</l>
+<l>Ei Graad vækker <hi rend="italic">Dannebod </hi>opaf Dvale!</l>
+</lg>
+<lg>
+<l><hi rend="italic">Kongen </hi>holder sin <hi rend="italic">Födselsdag,</hi></l>
+<l>Lysalferne Ham omsvæve,</l>
+<l>Aldrig kan i en bedre Stund</l>
+<l>Din Rost Du for <hi rend="italic">Livet </hi>hæve,</l>
+<l>For <hi rend="italic">Livet </hi>til <hi rend="italic">Dannebod </hi>udi Dvale.</l>
+</lg>
+<lg>
+<l>Hører <hi rend="italic">Kongen </hi>det paa din Rost.</l>
+<l>Med Klangen af Guld det røde,</l>
+<l>Du er visselig Nor<hi rend="italic">negjæst,</hi></l>
+<l>Som taler for <hi rend="italic">Danmarks </hi>Døde,</l>
+<l>For Dronningen <hi rend="italic">Dannebod </hi>udi Dvale:</l>
+</lg>
+<lg>
+<l><hi rend="italic">\llan </hi>da giver Dig paa din Ben</l>
+<l>Langt mere end Guld af Kiste:</l>
+<l><hi rend="italic">Soröskoven, </hi>den <hi rend="italic">Glaserlund,</hi></l>
+<l>Hvor Guldet mon groe paa Kviste,</l>
+<l>Dermed løses <hi rend="italic">Dannebod </hi>udaf Dvale!</l>
+</lg>
+<lg>
+<l><hi rend="italic">"Gak til Kongen af Dannemark!</hi></l>
+<l><hi rend="italic">Han loser Din af din Kvide"</hi></l>
+<l>Da over Norden, vidt og bredt,</l>
+<l>Skal tone, mens Tider skride,</l>
+<l><hi rend="italic">For Han löste Dannebod udaf Dvale!</hi></l>
+</lg>
+ <p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

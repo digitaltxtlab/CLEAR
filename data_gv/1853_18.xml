@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Dannebrog.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-22"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="018"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1853">1853</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1853_18_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Dannebrog.<lb/></titlePart>
+	<titlePart type="sub">Et Ugeblad sor den Danske Forening.<lb/></titlePart>
+</docTitle>
+<byline>Udgivet ved <lb/>
+	<docAuthor>Fred. Barfod.<lb/></docAuthor>
+				</byline>
+				<fw type="graphic"/>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<docImprint>
+				<pubPlace></pubPlace>.
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Pen Danske Forening.</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="spaced"><hi rend="initial">D</hi>anske Forening</hi>! dit Navn er det bedste,</l>
+<l>Som fik i Nattergal-Skovene Lyd,</l>
+<l>Som hos din Navner, hos dig sig stadfæste,</l>
+<l>Kiærligheds Duft er Foreningens Dyd!</l>
+<l>Opkaldt er du efter Folket paa Sletten,</l>
+<l>Og er du ægte, du hører til Ætten,</l>
+<l>Viis, end er "<hi rend="spaced">Dansk</hi>" et højadeligt Navn!</l>
+</lg>
+<lg>
+<l>Danske Forening! som Barnet i Vugge</l>
+<l>Du er uskyldig, umyndig og spæd,</l>
+<l>Første Gang Gjøgene over dig kukke,</l>
+<l>Som over Sællands guldkornede Sæd;</l>
+<l>Om dine Aar hvad mon Gisgene kukke?</l>
+<l>Hvad riste <hi rend="spaced">Nornerne</hi> for dig paa Skjold?</l>
+</lg>
+<lg>
+<l>Over dig svæver et kongeligt Banner,</l>
+<l>Mørk er vel Vunden, men Skjoldmærket lyst,</l>
+<l>Over din Pande en Vue det danner,</l>
+<l>Som over hans, der kom spæd til vor Kyst:</l>
+<l>Sønnen af <hi rend="spaced">Odin</hi>, indslumret paa Negen,</l>
+<l>Knæsat af <hi rend="spaced">Dannemark</hi> som hendes egen,</l>
+<l>Alle Skjoldungernes Stamfader: <hi rend="spaced">Skjold</hi>*).</l>
+</lg>
+<lg>
+<l>Han kom til Danmark, som Bølgerne rulle,</l>
+<l>Han kom til Danmark, som Snekkerne gaaer,</l>
+<l>Naar efter Vinterens Morke og Kulde</l>
+<l>Kommer den lyse, livsalige Vaar!</l>
+<l>Han vorde op som en Bog mellem Graner,</l>
+<l>Gale mod ham turde ingen Søhaner,</l>
+<l>De for hans Navn som for <hi rend="spaced">Kronborg</hi> strøg Seil.</l>
+</lg>
+<lg>
+<l>Han kom til Danmark, som Barnet i Vugge,</l>
+<l>Gængerne var dog Havsbølgerne blaa,</l>
+<l>Horde han over sig Gisgene kukke,</l>
+<l>Kunde dog ei deres Maal han forstaae!</l>
+<l>Værgelos tykdes han, svøbt i Langkaaben,</l>
+<l>Fuld var dog Vuggen af blinkende Vaaben:</l>
+<l>Værk af <hi rend="spaced">Lysalfer</hi> til Dannemarks Værn!</l>
+</lg>
+<lg>
+<l>Han vorde op som en Bog i Skovleden,</l>
+<l>Han vorde op som en Helt i det Fri,</l>
+<l>Bjørnen han bandt med sit Bælte paa Heden,</l>
+<l>Det var Livsalighed indvirket i;</l>
+<l>Han gik i Kredsen, som Moer til Gilde,</l>
+<l>Vandt fra Vildtydsken den faure <hi rend="spaced">Ulvilde</hi>:</l>
+<l>Moder til Gram med <hi rend="spaced">Guldkjølven</hi> saa prud!</l>
+</lg>
+<lg>
+<l>Danske Forening! du ei uden Smerte</l>
+<l>Som en <hi rend="spaced">Athene af Hjernen</hi> udsprang,</l>
+<l>Du er en Datter af Havfruens Hjerte,</l>
+<l>Syster til <hi rend="spaced">Heimdal</hi> i Himmelbjergs Vang,</l>
+<l>Men som en Datter af <hi rend="spaced">Skjold</hi> dog med Ære</l>
+<l>Navnet af <hi rend="spaced">Skjold-Mø</hi> stat stadig du bære,</l>
+<l>Dannebrogfarvet, saa rød og saa hvid!</l>
+</lg>
+<p>*) <hi rend="spaced">Danskerne</hi>, siger Sagnet, var engang i Leiervold for en <hi rend="spaced">Konge</hi>, og da kom "<hi rend="spaced">Skjold</hi>" som et lille Barn ganske alene drivende tit Danmark paa et Skib over Havet, slumrende paa en Kornneg, men med fuld Ladning af Klenodier cg Vaaben, og Danmark fik i ham ei blot en mageløs Konge, men ogsaa en kongelig Stamfader paany.</p>
+<pb facs="1853_18_page0002.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Som under Dannebrog Dansken forleden</l>
+<l>Kæmped og seired paa vindaabne Val,</l>
+<l>Saa skal du kæmpe for "Livet og Freden"</l>
+<l>Seire for Dansken i Hytte og Sal,</l>
+<l>Seierrig sjunge med Fuglen i Lunde,</l>
+<l>Sjunge med Svaner i Bælte og Sunde,</l>
+<l>Heltene vække med Guldharpe-Slag.</l>
+</lg>
+<lg>
+<l>Du i dit Skjold fører Danmarks Guldhjerte,</l>
+<l>Troen derpaa er mod Tysken dit Skjold,</l>
+<l>Hjelmen derover med brændende Kierte,</l>
+<l>Det er dit Haab med et Lyn til hver Trold,</l>
+<l>Livet deri er den rullende Bølge:</l>
+<l>Løveblods-Strømmen i Slægternes Følge,</l>
+<l>Løvemods-Kilden med moderligt Skjød.</l>
+</lg>
+<lg>
+<l>Danske Forening! du vore derefter,</l>
+<l>Ei saa du rager som Fjeldet i Sky,</l>
+<l>Men saa du breder med levende Kræfter</l>
+<l>Ud dig som Skoven i Næde og Ny,</l>
+<l>Grønnes hver Maidag som Bogen paa Roden,</l>
+<l>Kysses som Bøgen af Bølgen paa Foden</l>
+<l>For dine Fugles den liflige Sang!</l>
+</lg>
+<lg>
+<l>Som alle Fuglenes Fristed er Skoven,</l>
+<l>Saa alle Skjaldenes Hjem være du!</l>
+<l>Frihed for dig, som for dem er <hi rend="spaced">Grundloven</hi>,</l>
+<l>Trældom er Hjertets som Aandernes Gru;</l>
+<l>Altid paa Marken som Harperne klinge,</l>
+<l>Borde vel ikke, men Hjerterne springe,</l>
+<l>Saa gaaer og Ploven tillands og tilvands!</l>
+</lg>
+<lg>
+<l>Skjaldenes Sang som en straalende Finger</l>
+<l>Rorer Guldhjertet med Soelvarme let;</l>
+<l>Skjaldenes Sang har som Fuglene Vinger,</l>
+<l>Lofter til Skyerne <hi rend="spaced">Dag moders</hi> Æt;</l>
+<l>Skjaldenes Sang er i Hytter og Sale</l>
+<l>Kvægende liflig som Duggen i Dale,</l>
+<l>Sod og som Kjærligheds-Kysset paa Mund!</l>
+</lg>
+<lg>
+<l><hi rend="spaced">Danske Forening</hi> af Mænd og af Kvinder!</l>
+<l>Groe da faa frodig som Græs over Muld!</l>
+<l>Mens Edderkoppen fin Indvold udspinder,</l>
+<l>Spind af Lysstraaler du Silke og Guld!</l>
+<l>Livet er godt, som os Gud det har givet!</l>
+<l>Lyset er godt, naar det klarer os Livet!</l>
+<l><hi rend="spaced">Danskhed</hi> er født til at smelte i Glands!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

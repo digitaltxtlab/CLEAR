@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Dansk Pindse-Psalme</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2009-12-22"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="025"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1826">1826</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1826_25_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main"></titlePart>
+	<titlePart type="sub"></titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<docImprint>
+				<pubPlace></pubPlace>.
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<head>Dansk Pindse-Psalme.</head>
+<fw type="graphic"/>
+<p><hi rend="align(center)">Mel. Nu nærmer sig vor Pindsefest.</hi></p>
+<lg>
+<l><hi rend="initial">O</hi>prundet er vor Pindse-Fest,</l>
+<l>Gud Hellig-Aand! vær Du vor Giæst,</l>
+<l>Saa Bod vi saae for alle Savn,</l>
+<l>Og juble høit i Jesu Navn!</l>
+</lg>
+<lg>
+<l>Med Søn og Fader vel bekjendt,</l>
+<l>Til Christnes Trøst er Du udsendt,</l>
+<l>Som Livets Lys og Ordets Tolk,</l>
+<l>At saliggiøre Herrens Folk!</l>
+</lg>
+<lg>
+<l>Du os gienfødte i vor Daab,</l>
+<l>Til Børne-Ret og Barne-Haab,</l>
+<l>Og voxe skal ved dig de Smaa,</l>
+<l>Saa Herren de til Hoved naae!</l>
+</lg> 
+<pb facs="1826_25_page0002.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Du Melk os gav i Moder-Skiød,</l>
+<l>Du mætter os med Livets Brød,</l>
+<l>Og, som en Foster-Fader fiin,</l>
+<l>Du Manker os med Glædens Viin!</l>
+</lg>
+<lg>
+<l>Du tænder Lyset i Guds Ord,</l>
+<l>Paa Christi Kirkes Alter-Bord,</l>
+<l>Og for dets Klarhed saae vi Syn,</l>
+<l>Kun naar Du rører os som Lyn!</l>
+</lg>
+<lg>
+<l>Du lægger Ordet i vor Mund,</l>
+<l>Som uden dig er Bogstav kun,</l>
+<l>Ved dig kun løses Dødens Baand,</l>
+<l>Thi evig Eet er Liv og Aand!</l>
+</lg>
+<lg>
+<l>Du er hans Røst, som raaber: kom</l>
+<l>Til Fristed mit sor Død og Dom!</l>
+<l>Du sammenknytter, som Guds Haand,</l>
+<l>Hans Menighed med Hjerte-Baand!</l>
+</lg>
+<lg>
+<l>Du river ned hver Mellem-Væg,</l>
+<l>Som gjør splidagtig Lærd og Læg;</l>
+<l>Du tugter Øie, Fod og Haand</l>
+<l>Til Enighed i Fredens Vaand!</l>
+</lg> 
+<pb facs="1826_25_page0003.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Du skaber i os den Forstand,</l>
+<l>At Christus boer saa vidt om Land,</l>
+<l>Som i hans Navn der knæles ned</l>
+<l>Med Tro og Haab og Kiærlighed!</l>
+</lg>
+<lg>
+<l>O, kom da, Aand! og Vidne giv</l>
+<l>I os, at Jesus er vort Liv,</l>
+<l>Saa Hjertet ei af Andet veed,</l>
+<l>End Ham, til Fred og Salighed!</l>
+</lg>
+<lg>
+<l>Kom, Sandheds Aand! og leed os saa,</l>
+<l>At vi paa Klarheds Veie gaae,</l>
+<l>Ei fra vor Troes Klippe-Grund</l>
+<l>Et Haars-Bredd vige nogen Stund!</l>
+</lg>
+<lg>
+<l>Kom, Fredens, Kiærlighedens Aand!</l>
+<l>Kom kraftig, som Guds Høire-Haand</l>
+<l>Og gjør til Eet os fjern og nær,</l>
+<l>Som have Liv og Sandhed kiær!</l>
+</lg>
+<lg>
+<l>Med-Vidne i Guds Fader-Raad!</l>
+<l>Du har begyndt den store Daad,</l>
+<l>Fuldend Du den med Velbehag, ,</l>
+<l>Med Kraft i os til Christi Dag!</l>
+</lg> 
+<pb facs="1826_25_page0004.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Lad Daners Mark, som blomstred bold,</l>
+<l>Og bære Frugter mangefold,</l>
+<l>Saa pindselig vor Fugle-Skov</l>
+<l>Gienlyde maa af Herrens Lov!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

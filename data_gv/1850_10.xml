@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Holger-Danske-Slaget</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-16"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="010"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1850">1850</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1850_10_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Holger-Danske-Slaget</titlePart>
+	<titlePart type="sub">den 25 Juli 1850</titlePart>
+</docTitle>
+<byline>Af<lb/>
+	<docAuthor>N. F. S. Grundtvig.<lb/></docAuthor>
+				</byline>
+				<fw type="graphic"/>
+				<epigraph>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace>Kjøbenhavn.</pubPlace>Trykt hos J. D. Ovist, Bog- og Nodetrykker.<lb/>
+<fw type="graphic"/>
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>  
+<pb facs="1850_10_page0002.png"/>
+<fw type="pageNum"></fw>
+<head>Mel. Danmark, deiligst Vang og Vænge.</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">S</hi>ønder-Jyllands Jomfru Hæde!</l>
+<l>Jomfru <hi rend="spaced">Gloriant</hi>!</l>
+<l>Du maa ikke længer græde,</l>
+<l><hi rend="spaced">Holger Danske</hi> vandt;</l>
+<l><hi rend="spaced">Burmand Trold</hi>, som holdt herude,</l>
+<l>Lad ham fæste Jettebrude!</l>
+<l>Lad ham nu bag Helhjems Porte</l>
+<l>Beile til de Sorte!</l>
+</lg>
+<lg>
+<l>Burmand Trold fra Bloksbjerg-Skoven</l>
+<l>Kom til Daneland,</l>
+<l>Som en Bærsærk han forvoven</l>
+<l>Gik i Ild og Vand;</l>
+<l>Danmarks Skjoldmø under Staalet</l>
+<l>Er dog blod som Modersmaalet,</l>
+<l>Datteren af Dronning <hi rend="spaced">Thyre</hi></l>
+<l>Giøs for det Uhyre!</l>
+</lg> 
+<pb facs="1850_10_page0003.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Holger laae i Baand og Lænker,</l>
+<l>Som i Bolt og Jern,</l>
+<l>Helteaanden, som man tænker,</l>
+<l>Sad i Vætte-Værn;</l>
+<l>Men, skjøn Jomfru, da du kaldte,</l>
+<l>Og da Graad din Stemme kvalte,</l>
+<l>Alt hvad Heltemod kan binde,</l>
+<l>Brast som Traad og Tvinde!</l>
+</lg>
+<lg>
+<l>Burmand Trold og Holger Danske,</l>
+<l>Det var haardt mod haardt,</l>
+<l>Burmands Hals dog holdt ei ganske,</l>
+<l>Lidt den kom tilkort,</l>
+<l>Ilde han derved sig skabde,</l>
+<l>Hoved sit tilsidst han tabde,</l>
+<l>Hovedkulds han foer da heden,</l>
+<l>Hjem til Trolde-Reden!</l>
+</lg>
+<lg>
+<l>Dybt er ogsaa Holger saaret,</l>
+<l>Haard er Trolde-Haand,</l>
+<l>Meget Kjød er af ham skaaret,</l>
+<l>Men ei mindste Aand;</l>
+<l>Lige kjæk og lige spydig,</l>
+<l>Gi til Spot med Trold for dydig,</l>
+<l>Jeg dog, siger han med Gammen,</l>
+<l>Lovlig godt "<hi rend="spaced">holdt sammen</hi>!"</l>
+</lg> 
+<pb facs="1850_10_page0004.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Stakkels Burmand gik det værre!</l>
+<l>Fik han Hovdet med?</l>
+<l>Knap vel faaer den stramme Herre</l>
+<l>Meer det paa sit Sted,</l>
+<l><hi rend="spaced">Muelig</hi> dog det lykkes kunde,</l>
+<l>Hvad kan <hi rend="spaced">Tysken</hi> ei udgrunde!</l>
+<l>Alt han har jo i Fornuften,</l>
+<l>Limer godt med Luften!</l>
+</lg>
+<lg>
+<l>Plei nu <hi rend="spaced">Holger</hi>, Jomfru Hæde!</l>
+<l>Jomfru <hi rend="spaced">Gloriant</hi>!</l>
+<l>Salv hans Saar og gjør ham Glæde,</l>
+<l>For han Seier vandt!</l>
+<l>I, som Heltemod og Ære,</l>
+<l>Altid har hinanden kjære,</l>
+<l>I paany skal vies sammen</l>
+<l>Net med Fryd og Gammen!</l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

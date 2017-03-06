@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Dannebrog.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-23"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="012"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1854">1854</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1854_12_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Dannebrog.<lb/></titlePart>
+	<titlePart type="sub">Et Ugeblad for den Danske Forening.<lb/></titlePart>
+</docTitle>
+<byline><lb/><lb/>
+	<docAuthor><lb/></docAuthor>
+				</byline>
+				<fw type="graphic"/>
+				<epigraph>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition>Fredag den 6 Oktober.</docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace></pubPlace>.<lb/><lb/>
+<fw type="graphic"/>
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Rønnebæksholm.</head>
+<head>(i September 1854).</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">H</hi>er, hvor, nyt paa gamle Dage,</l>
+<l>Oldtids Skjald fandt Huus og Hjem,</l>
+<l>Fandt en Frue uden Mage</l>
+<l>Til hver Dronning-Syssel nem,</l>
+<l>Her, som i en Verden øde,</l>
+<l>Sidder nu jeg hos den Døde.</l>
+</lg>
+<lg>
+<l>Død er hun, som <hi rend="spaced">Diser</hi> daane,</l>
+<l>Skyde Dødeligheds Hamm,</l>
+<l>Sees ei under Soel og Maane</l>
+<l>Meer med <hi rend="spaced">Disers</hi> Glands og Bram,</l>
+<l>Skjule sig for Støvets Øje,</l>
+<l>Svinge sig til <hi rend="spaced">Gudhjems</hi> Høje!</l>
+</lg>
+<lg>
+<l>Seer jeg til de grønne Skove</l>
+<l>Og det røde Rosenblad,</l>
+<l>Seer jeg til den blanke Vove</l>
+<l>Og den lange Bakkerad,</l>
+<l>Øjets Lyst, til <hi rend="spaced">Disen</hi> bundet,</l>
+<l>Er med hendes Glands forsvundet!</l>
+</lg>
+<lg>
+<l>Lytter jeg til hver en Side,</l>
+<l>Hveden mig imøde klang</l>
+<l>Vøluspaa og Gudruns Kvide,</l>
+<l>Vise-Nyn og Psalme-Sang,</l>
+<l>Ørets Fryd, til <hi rend="spaced">Disen</hi> bundet,</l>
+<l>Er med hendes Røst forsvundet!</l>
+</lg>
+<lg>
+<l>Leder jeg om Hjerte-Skjødet,</l>
+<l>Netop til mit Hoved skabt,</l>
+<l>Saa i Aanden, som i Kjødet,</l>
+<l>Gi et Hovedhaar gik tabt,</l>
+<l>Foer jeg end med alle Vinde,</l>
+<l>Det er ei paa Jord at sinde.</l>
+</lg>
+<lg>
+<l>Dog, hvad sidder jeg og siger,</l>
+<l>Hjerteklemt og hovedør,</l>
+<l>Medens ind ad Døren kiger</l>
+<l>Til mig <hi rend="spaced">Disen</hi>, som ei døer,</l>
+<l>Smiler ned fra <hi rend="spaced">Gudhjems</hi> Høje</l>
+<l>Til mig gjennem <hi rend="spaced">Fredriks</hi> Øje!</l>
+</lg>
+<lg>
+<l>Ja, mens jeg min Armod klager,</l>
+<l>Sikkert rig jeg er endnu,</l>
+<l>Lykken giver før hun tager,</l>
+<l>Kom betids mit Tab ihu,</l>
+<l>Derfor <hi rend="spaced">Disen</hi>, sør hun døde,</l>
+<l>Skulde mig sit Liv gjenføde.</l>
+</lg>
+<lg>
+<l>Skikkelsen er kun for Siet,</l>
+<l>Liv og Hjerte gaaer for alt,</l>
+<l><hi rend="spaced">Disen</hi>, med mig sammenføjet,</l>
+<l>Efter begge er opkaldt,</l>
+<l><hi rend="spaced">Disen</hi>, giennem dunkle Gange,</l>
+<l>Dages vil i <hi rend="spaced">Fredrik Lange</hi>!</l>
+</lg>
+<lg>
+<l>End det er kun atten Uger,</l>
+<l>Siden Lyset først han saae,</l>
+<l>Mænd og Kvinder, som dem huger,</l>
+<l>Dristig gjætte kan derpaa:</l>
+<l>Hvem han ligner, hvad han lover,</l>
+<l>Hvad hans <hi rend="spaced">Følgje</hi> ruger over.</l>
+</lg>
+<lg>
+<l>Seer jeg ved hans Smil, det søde,</l>
+<l>Indad Gluggen under Braa,</l>
+<l>End de valne Kinder gløde,</l>
+<l>Og de blege Læber spaae:</l>
+<l>Han, som <hi rend="spaced">Livets Frugt</hi>, den ægte,</l>
+<l>Skal paa Hjerte-Roden slægte!</l>
+</lg>
+<lg>
+<l><hi rend="spaced">Ordet</hi>, som alt Graaben stiller,</l>
+<l>Kalder Engle-Smilet frem,</l>
+<l><hi rend="spaced">Ordet</hi> ham paa Læben spiller,</l>
+</lg> 
+<pb facs="1854_12_page0002.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Tungen laller lærenem,</l>
+<l>Vil, med Hjertet til sin Amme,</l>
+<l>Brat i Aande Ord udstamme;</l>
+</lg>
+<lg>
+<l>Og naar Bladet han fra Munden</l>
+<l>Blæser med sit Aandepust,</l>
+<l>Da en Bavn fra Hjertegrunden</l>
+<l>Sees stal paa Høi opblust,</l>
+<l>Kiendes let det skal paa Flammen,</l>
+<l>Hvad i ham er smeltet sammen!</l>
+</lg>
+<lg>
+<l>Det er <hi rend="spaced">Disen</hi> rosenmundet,</l>
+<l>Øresæl fra Sanger-Hall,</l>
+<l>Uopøselig forbundet</l>
+<l>Med sin gamle Kæmpe-Skjald,</l>
+<l>Det er <hi rend="spaced">Ydun</hi> op ad Dage</l>
+<l>Med Guld-Æblerne til <hi rend="spaced">Brage</hi>!</l>
+</lg>
+<lg>
+<l>Længe dog for Læben svulmer,</l>
+<l>Foder alt hvad Aanden vil,</l>
+<l>Mens kun under Asken ulmer</l>
+<l>Gnisten til den store Ild,</l>
+<l>Ad Løngangen jeg skal finde</l>
+<l>Disen min, hvor hun er inde.</l>
+</lg>
+<lg>
+<l>Ja, forvindes skal min Smerte,</l>
+<l>Naar jeg seer, ved Gnisten rød,</l>
+<l>Faders Aand i Moders Hjerte,</l>
+<l>Hoved hans i hendes Skjød,</l>
+<l>Deres Luer, deres Syner,</l>
+<l>Hvor i Løn de sammenlyner!</l>
+</lg>
+<lg>
+<l>Kom da, <hi rend="spaced">Fredrik</hi>! lad mig trykke</l>
+<l>Som en Drot dig til min Barm!</l>
+<l>Lad mig lofte, som min Lykke,</l>
+<l>Høit dig paa min gamle Arm,</l>
+<l>Kvæde kiækt: jeg vandt dog Prisen,</l>
+<l>Alt er min Guldæble-Disen!</l>
+</lg>
+<lg>
+<l>Gaard og Gavle, Skov og Have,</l>
+<l>Hvad mig her blev kiært tilforn,</l>
+<l>Selve Disens <hi rend="spaced">Vennegave</hi>:</l>
+<l>Sommerhuset med sit Taarn,</l>
+<l>Alt hvad der er ikke hende</l>
+<l>Rolig kan jeg Ryggen vende.</l>
+</lg>
+<lg>
+<l>Til vor Søn jeg frit tør sige:</l>
+<l>Du var hende, hun er dig,</l>
+<l>Aldrig hun fra os kan vige,</l>
+<l>Følger hvor du gaaer med mig,</l>
+<l>Saa alt hvad mit Hjerte savner</l>
+<l>Trøstet jeg i dig omfavner.</l>
+</lg>
+<lg>
+<l>Visnet vel paa Disens Kinder</l>
+<l>Er den rige Rosenflor,</l>
+<l>Dog omblaanet af Kiærminder</l>
+<l>Disen stadig hos mig boer,</l>
+<l>Dem selv Vintren ei kan tvinge,</l>
+<l>Ved hvert Solglimt de udspringe.</l>
+</lg>
+<lg>
+<l>Seer jeg til de grønne Skove</l>
+<l>Og det rode Rosenblad,</l>
+<l>Seer jeg til den blanke Vove</l>
+<l>Og den lange Bakkerad,</l>
+<l>Andre Farver alle svinder,</l>
+<l>Alting blaaner som Kiærminder.</l>
+</lg>
+<lg>
+<l>Som Kiærminden blaalig stammer</l>
+<l>Lyset hver en Aftenstund,</l>
+<l>Naar i <hi rend="spaced">Disens</hi> Sovekammer</l>
+<l>Øjet lukker sig til Blund,</l>
+<l>Og hvert Hovedhaar det mindes,</l>
+<l>Hvad ei meer i Verden findes.</l>
+</lg>
+<lg>
+<l>Og mens end den Port staaer aaben,</l>
+<l>Hvorudad jeg Disen saae,</l>
+<l>For Kiærminder med Dugdraaben</l>
+<l>Giælde Skjaldens Ome blaa,</l>
+<l>Saa om Disens Rosenkinder</l>
+<l>Mindet kun med dem forsvinder.</l>
+</lg>
+<lg>
+<l>Her, hvor, nyt paa gamle Dage,</l>
+<l>Oldtids Skjald fandt Huus og Hjem,</l>
+<l>Fandt en Frue uden Mage</l>
+<l>Til hver Dronning-Syssel nem,</l>
+<l>Her og end er af Høisangen</l>
+<l>Levnet Liv i Efterklangen!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

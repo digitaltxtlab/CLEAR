@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Tolv bibelske og kirkehistoriske Sange</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-26"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="007"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1868">1868</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1868_7_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">TOLV bibelske og kirkehistoriske Sange<lb/>af</titlePart>
+	<titlePart type="sub">N. F. S. Grundtvig,<lb/>componerede<lb/>for een Stemme med Pianoforte</titlePart>
+</docTitle>
+<byline>af<lb/>
+	<docAuthor>Christian Barnekow.<lb/></docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace>Kjøbenhavn.</pubPlace>.<lb/>Schønbergs Forlag.<lb/>Louis Kleins Bogtrykkeri.<lb/>
+<docDate>1868.</docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<pb facs="1868_7_page0002.png"/>
+<fw type="pageNum"></fw>
+<p>J. Samson var Træl i Fi-li-sternes Land, var en pla-get Mand: der lød saa vild en</p>
+<p>2. Høi-tid der hol-des med Pragt og Glands, der er Spil og Dands, til Of-fring blø-de</p>
+<p>Glæ-de, med Suus og Duus, der hør-tes dag-lig kvæ-de i Dagons Huus:</p>
+<p>Ox-er i Hun-dred-Tal, den vil-de Glæ-de vox-er i Af-guds-Hal,</p>
+<p>Dagon vor Gud af det rø-de Guld, Is-ra-els Kæmpe han slog om-kuld, mægted at hin-de</p>
+<p>Skummende Bægre af Bol-len fuld tømmes til <hi rend="italic">Æ </hi>-re for Gud af Guld, støi-en-de skri-ger</p>
+<pb facs="1868_7_page0003.png"/>
+<fw type="pageNum"></fw>
+<p>Sam-son, vor Fjen-de; ved Kvær-nen staaer og for Svø-ben gaaer nu han, som gav Tu-sinder Ba-ne-
+Dren-ge og Pi-ger: det hør sig til, og, som Al-le vil, vi dand-ser en Dands efter Samsons</p>
+<p><hi rend="spaced">Samson</hi>, han stander med Strængeleg,</p>
+<lg>
+<l>Baade rød og bleg,</l>
+<l>Sit Lys, sin Kraft berøvet,</l>
+<l>Til Spot og Skam,</l>
+<l>Han er saa dybt bedrøvet,</l>
+<l>I Hu saa gram,</l>
+<l>Rasende sukker han mangefold:</l>
+<l>Himmelens Gud, som har Alt i Vold!</l>
+<l>Falsk overlistet,</l>
+<l>Styrken jeg misted,</l>
+<l>Laan mig af den</l>
+<l>Kun et Glimt igjen!</l>
+<l>Da fare min Sjæl med Filisternes hen!</l>
+</lg>
+<lg>
+<l>Samson, han kalder ad Smaadreng brat:</l>
+<l>Jeg er træt og mat,</l>
+<l>Hvor staaer de stærke Piller</l>
+<l>Til Rygstød bedst?</l>
+<l>Lad mig, imens jeg spiller,</l>
+<l>Dem stande næst!</l>
+<l>Spottende svares: du seer vel her</l>
+<l>Pillerne tvende, som Huset bær,</l>
+<l>Til dem du læne</l>
+<l>Skuldrene pæne,</l>
+<l>Men, sagte sagt,</l>
+<l>Tag dig vel i Agt,</l>
+<l>Du ikke dem ryste af al din Magt!</l>
+</lg>
+<lg>
+<l>Samson, han stander nu midt i Sal,</l>
+<l>Baade høi og sval,</l>
+<l>Sit Lys, sin Kraft berøvet,</l>
+<l>Til Spot og Skam,</l>
+<l>Han er saa dybt bedrøvet,</l>
+<l>I Hu saa gram,</l>
+<l>Tusinder klæde i Pynten trygt</l>
+<l>Lægteret, høit over Gulvet bygt,</l>
+<l>Pillerne rave,</l>
+<l>Bjelker begrave</l>
+<l>Da brat i Gruus,</l>
+<l>Under Suus og Duus,</l>
+<l>Med <hi rend="spaced">Samson</hi> det hele Filister-Huus!</l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

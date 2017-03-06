@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Sang</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-22"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="003"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1839">1839</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1839_3_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Sang</titlePart>
+	<titlePart type="sub">i Anledning af<lb/>Hans Majestæt Kongens<lb/>høie Fødselsdag<lb/>den 28de Januar 1839,</titlePart>
+</docTitle>
+<byline>af<lb/>
+	<docAuthor>N. F. S. Grundtvig.</docAuthor>
+				</byline>
+				<fw type="graphic"/>
+				<epigraph>
+<p>Afsjungen af Drengene i Nyboders Skoler.</p>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace>Kjøbenhavn.</pubPlace>Trykt hos J. D. Qvist, Bog- og Nodetrykker,<lb/>Østergade Nr. 53.<lb/>
+<fw type="graphic"/>
+<docDate>E</docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<pb facs="1839_3_page0002.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l><hi rend="initial">V</hi>ed Kjøbenhavn der stod et Slag</l>
+<l>I Røg og Damp,</l>
+<l>Det stod i Vaar en Høitidsdag,</l>
+<l>Hvor Nelson gav det glatte Lag,</l>
+<l>Med Lyn paa Lyn, til Tordenstag,</l>
+<l>I Røg og Damp;</l>
+<l>Men Dannebrog Man saae dog grandt</l>
+<l>Som Love staae mod Elefant</l>
+<l>I Kamp.</l>
+</lg>
+<lg>
+<l>Det var i Sjette Fredriks Tid,</l>
+<l>Mens Han var ung,</l>
+<l>Da, efter Freden lang og blid,</l>
+<l>Sin Prøve stod i starpen Strid</l>
+<l>Vor Love, som fra Arildstid</l>
+<l>Er immer ung;</l>
+<l>Thi mens de gyldne Hjerter staae,</l>
+<l>Ei vorder Sølvhaars-Kronen graa</l>
+<l>For tung.</l>
+</lg> 
+<pb facs="1839_3_page0003.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>I Kongedyb en Prøvesteen</l>
+<l>For Heltemod,</l>
+<l>Hvor der var meer end To mod Een,</l>
+<l>Har gjort den Sag som Guld saa rem:</l>
+<l>Paa Dannebrog og Prøvesteen</l>
+<l>Var Heltemod,</l>
+<l>Da Thurah faldt med samme Roes,</l>
+<l>Som Lassen og som Villemoes</l>
+<l>De stod!</l>
+</lg>
+<lg>
+<l>Med Dannebrog da stak i Sky,</l>
+<l>Med Bølgen blaa</l>
+<l>Foer vidt om Land, det stærke Ry,</l>
+<l>At Danmark reiste sig paany,</l>
+<l>Med Love-Brøl i høien Sky,</l>
+<l>Fra Bølgen blaa;</l>
+<l>Kun i den sidste Rog og Damp</l>
+<l>Skal Mindet om Skjærthorsdags Kamp</l>
+<l>Forgaae!</l>
+</lg>
+<lg>
+<l>I Frederik den Sjettes Tid</l>
+<l>Stod Dansken op</l>
+<l>Af Fredens Skjød med Kraft til Strid;</l>
+<l>Med Heltedaad, med Konst og Vid</l>
+<l>Det Danske Navn i Fredriks Tid</l>
+<l>Stod herlig op!</l>
+<l>Det stige nu, trods Veir og Vind,</l>
+<l>Fra Kongedyb til Ærens Tind</l>
+<l>Og Top!</l>
+</lg> 
+<pb facs="1839_3_page0004.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Et Hurraraab for Kongen graa</l>
+<l>Lad runge da,</l>
+<l>Som Æreskud paa Bølgen blaa,</l>
+<l>Fra Orlogsmænd med Seil i Raa,</l>
+<l>For Kongen god og gjæv og graa!</l>
+<l>O ja, o ja!</l>
+<l>Med Fader-Sind og Konge-Blik</l>
+<l>Gid længe leve Frederik!</l>
+<l>Hurra!</l>
+</lg>
+<lg>
+<l>For Kongen og for Dannebrog</l>
+<l>Et langt Hurra!</l>
+<l>Af hver en Mand og hver en Pog,</l>
+<l>Som tale kan det Danske Sprog,</l>
+<l>Og kæmpe vil for Dannebrog,</l>
+<l>Et langt Hurra!</l>
+<l>Vai herlig, Danmarks gamle Flag!</l>
+<l>Svæv høit paa Kongens Fødselsdag!</l>
+<l>Hurra!</l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

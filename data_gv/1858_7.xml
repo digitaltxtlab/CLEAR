@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Dansk Kirketidende.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-25"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="007"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1858">1858</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1858_7_page0001.png"/>
+			<fw type="pageNum">345-346</fw>
+				<docTitle>
+	<titlePart type="main">Dansk Kirketidende.<lb/></titlePart>
+	<titlePart type="sub"><lb/></titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<epigraph>
+<p>Indhold: N. F S. Grundtvig: Englevise; Fadervor.— Fr. Helweg : om Behandlingen af tredie Tros-Artikel (sluttet). — Rebolledos Danske Skove. — Fra Norge og Sverige. — Bognyt. — Roskilde-Landemode. — Roskilde-Præstekonvent. — Udnævnelse og ledige Embeder.</p>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition>Pindse Søndag, 26 Maj.</docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace></pubPlace>.
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Engle-Vise.</head>
+<head>(N. F. S. Grundtvig).</head>
+<fw type="graphic"/>
+<p><hi rend="align(center)">Mel.: Velkommen igjen Guds Engle smaa.</hi></p>
+<lg>
+<l><hi rend="initial">G</hi>uds Engle, de fare hid og did,</l>
+<l>Med Lyst, som Gud det huer,</l>
+<l>Han kalder dem selv fra Arildstid</l>
+<l>Sit Himmerigs Brev-Duer,</l>
+<l>De bare hans Bud med Kraft og Vid,</l>
+<l>Med Krandse af Regnbuer.</l>
+</lg>
+<lg>
+<l>Guds Engle foer ned og de foer op,</l>
+<l>Med Morgensang i Eden,</l>
+<l>De kvæded om ham paa Stjernetop,</l>
+<l>Som lyste mildt Guds-Freden,</l>
+<l>Om Himmelens Aand og Jordens Krop,</l>
+<l>Som kyssedes herneden!</l>
+</lg>
+<lg>
+<l>Guds Engle foer ned og de foer op,</l>
+<l>Ved <hi rend="spaced">Bethel</hi>, som i Dromme,</l>
+<l>Da hvilede sig den tratte Krop</l>
+<l>Paa Steen med Lemmer ømme,</l>
+<l>Den bæved for ham paa Stjernetop,</l>
+<l>Som Jorderig stal domme!</l>
+</lg>
+<lg>
+<l>Guds Engle foer ned og de foer op</l>
+<l>Ved <hi rend="spaced">Bethlehem</hi> med Glæde,</l>
+<l>De kvade om ham fra Stjernetop,</l>
+<l>Indsvøbt i Barneklæde,</l>
+<l>Om Himmelens Aand og Jordens Krop</l>
+<l>Med Kys i Ny og Næde!</l>
+</lg>
+<lg>
+<l>Guds Engle foer ned og de foer op,</l>
+<l>I <hi rend="spaced">Ørken</hi>, paa Alheden,</l>
+<l>Med Paradis-Brod for Sjal og Krop,</l>
+<l>Med Druer fra Guds Eden,</l>
+<l>De <hi rend="spaced">skaffed</hi> for ham fra Stjernetop,</l>
+<l>Som hungred da herneden!</l>
+</lg>
+<lg>
+<l>Guds Engle foer ned og de foer op</l>
+<l>Ved Graven, hvor han blunded</l>
+<l>Som herlig opstod med Sjal og Krop,</l>
+<l>Soelklar og rosenmundet;</l>
+<l>Af Graven med ham fra Stjernetop</l>
+<l>Er Liv og Lys oprundet!</l>
+</lg>
+<lg>
+<l>Guds Engle foer ned og de foer op</l>
+<l>Med ham, som for os døde.</l>
+<l>Men svang sig paany til Stjernetop</l>
+<l>Med Jordens Førstegrøde,</l>
+<l>Som Menneske-Søn med Sjal og Krop,</l>
+<l>Med Kinder rosenrode!</l>
+</lg>
+<lg>
+<l>Guds Engle, de farer op og ned,</l>
+<l>Som over Guddoms-Manden,</l>
+<l>Saa over hans Huus og Menighed,</l>
+<l>Gjenfødt til Naade-Standen,</l>
+<l>Hvor Hjerterne kun af <hi rend="spaced">Christus</hi> veed,</l>
+<l>Og har ei Frelser anden!</l>
+</lg>
+<lg>
+<l>Guds Engle, de farer op og ned</l>
+<l>Med Brod og Viin og Glæde,</l>
+</lg> 
+<pb facs="1858_7_page0002.png"/>
+<fw type="pageNum">347</fw>
+<lg>
+<l>Og lære Vorherres Menighed</l>
+<l>At nynne og at kvæde:</l>
+<l>Hos Herren vi drikke Lys og Fred,</l>
+<l>Og evigt Liv vi æde!</l>
+</lg>
+<lg>
+<l>Guds Engle, de farer op og ned</l>
+<l>I Ørken som i Eden,</l>
+<l>Lovsyngende Hjertens-Kjærlighed</l>
+<l>Histoppe og herneden,</l>
+<l>Som staber af Liv og Lys og Fred</l>
+<l>Et Paradis paa Heden!</l>
+</lg>
+<lg>
+<l>Guds Engle, de farer op og ned,</l>
+<l>Hvem mærker Vinge-Slaget?</l>
+<l>Det Hjertet kun gjør fra Arildstid,</l>
+<l>Som er af Aand indtaget,</l>
+<l>Det gjør nu kun <hi rend="spaced">Christi Menighed</hi>,</l>
+<l>Som har sin Aand opdaget!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

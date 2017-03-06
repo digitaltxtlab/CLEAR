@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Brev til Biskop Martensen</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-25"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="026"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1856">1856</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1856_26_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main"><lb/>Brev til Biskop Martensen</titlePart>
+	<titlePart type="sub"><lb/></titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<docImprint>
+				<pubPlace></pubPlace>.
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<p><hi rend="align(right)">Kjøbenhavn den 20de Mai 1856.</hi></p>
+<p>Under den Samtale D. H. venlig skiænkede mig om Kragballes Sag, der ligesaavel for sin egen som for Personens Skyld ligger mig paa Hjerte, dulgte jeg ikke, at det havde sine store Vanskeligheder med en saadan skriftlig Rettelse som D. H. forlangte, da jeg naturligviis ikke kunde raade Nogen til af verdslige Grunde at tilbagekalde sine Ord om aandelige Ting. Jeg kunde derfor kun gaae ind paa Tanken om en skriftlig Rettelse under den Forudsætning, at naar kun Kragballe aabent erkjendte sin Feiltagelse ved ikke ret at have skjelnet mellem de Fordringer man maa gjøre til Evangeliets Forkyndelse og hvad der udkræves til Sacramenternes gyldige Forrettelse; da vilde D. H. ingen Hindring lægge i Veien for Kragballes Indtrædelse i Lærestanden.</p>
+<pb facs="1856_26_page0002.png"/>
+<fw type="pageNum">5</fw>
+<p>Nu har K. imidlertid forstaaet D. H. saaledes, at De ikke vilde være tilfreds med Rettelsen saadan som K. vilde og som jeg troede, han ærlig kunde og burde stile den, men at D. H. fordrede adskillige Forandringer og Tilsætninger, hvorved Erklæringen blandt Andet maatte ophore at være en frivillig Rettelse og faae Præget af en tvungen Tilbagekaldelse, og skjøndt jeg maa ansee det som en Misforstand paa K.'s Side, saa skylder jeg dog Sagen og D. H. den aabne Erklæring, at noget Saadant kunde jeg aldrig med Raad eller Daad deeltage i eller bidrage til, men maatte tilraade K. ligefuldt kun at lade Rettelsen trykke saaledes som han følte, han ærlig og frivillig kunde vedkjende sig den, og saa overlade Sagen til den Herre om hvis Tjeneste den dog i Grunden dreier sig.</p>
+<p>Det skulde gjøre mig meget ondt, om D. H. ikke troede, De herved kunde lade Sagen beroe, men jeg tor maaskee som en gammel Herrens Tjener udtale den fulde og faste Overbeviisning, at Tagen hverken fra et reent christeligt eller fra noget andet forsvarligt Stade kan vinde ved at drives videre!</p>
+<p><hi rend="align(right)">Med Høiagtelse ærbødigst og venligst N. F. S. Grundtvig.</hi></p>
+<p>Herpaa svarede jeg i følgende Skrivelse til Pastor Grundtvig:</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>MINDE-SANG VED FRU JUTTA RØRDAM`s BORTGANG.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-26"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="002"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1866">1866</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1866_2_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">MINDE-SANG<lb/>VED</titlePart>
+	<titlePart type="sub">FRU JUTTA RØRDAM`s<lb/>BORTGANG.</titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<docImprint>
+				<pubPlace></pubPlace>.
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<pb facs="1866_2_page0002.png"/>
+<fw type="pageNum"></fw>
+<p><hi rend="align(center)">Jesus din søde Forening at smage.</hi></p>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">E</hi>i er det Perler og ei Gyldenstykke</l>
+<l>Ikke Haarfletning og Klædebon rigt,</l>
+<l>Hvormed de hellige Kvinder sig smykke,</l>
+<l>Verdslighed prydes og praler med Sligt;</l>
+<l>Menneske-Hjertet, den himmelske Brud,</l>
+<l>Stille, sagtmodig og ydmyg i Aanden,</l>
+<l>Dyrebart er i sit Skjul det for Gud,</l>
+<l>Det i Hans Øine er Lillievaanden,</l>
+<l>Kiærligheds Datter i Deiligheds Dragt!</l>
+</lg>
+<lg>
+<l>Saadan en Kvinde, som alt de kan fødes,</l>
+<l>Fødes i Daaben af Vand og af Aand,</l>
+<l>Saadan en Kvinde, som alt de kan mødes,</l>
+<l>Hvor sig udspinder Fuldkommenheds Baand,</l>
+<l>Hvor sig skal smykke for Herren hans Brud;</l>
+<l>Saadan en Kvinde i Guds-Menigheden</l>
+<l>Nylig os mødte saa kjærlig og prud,</l>
+<l>Nylig forlod os, gik stille til Eden,</l>
+<l>Som til sin Hjemstavn: Livskildens Udspring.</l>
+</lg> 
+<pb facs="1866_2_page0003.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Savnet er stort, hvor med Fred og med Glæde</l>
+<l>Huset hun pryded, hvor Sorgen nu boer,</l>
+<l>Savnet er stort, hvor i Vennernes Kiæde</l>
+<l>Hjertelig Graad er det gladeste Ord;</l>
+<l>Mild er dog Sorgen, som Mindet er kiært,</l>
+<l>Mild er og Graaden, som Dugg over Enge,</l>
+<l>Hjertet i Eden vort Hjerte er nært,</l>
+<l>Skilsmissen varer for Hjerter ei længe</l>
+<l>Evig forener Fuldkommenheds Baand!</l>
+</lg>
+<lg>
+<l>Kiærlighed, den er Fuldkommenheds-Baandet,</l>
+<l>Kvinden er Hjertet som Lillievaand,</l>
+<l>Hun, som har nylig paa Jorden udaandet,</l>
+<l>Spandt paa Guld-Tenen til Kiærligheds-Baand,</l>
+<l>Forbilled var hun paa Frelserens Brud,</l>
+<l>Derfor er hendas velsignede Minde</l>
+<l>Dyrebart for os, som Hjertet for Gud,</l>
+<l>Det i vort Fællesskab kan os forbinde</l>
+<l>Med den livsalige Paradis-Blomst!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Guds Forsyn.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-26"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="003"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1870">1870</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1870_3_page0001.png"/>
+			<fw type="pageNum">9</fw>
+				<docTitle>
+	<titlePart type="main"><lb/></titlePart>
+	<titlePart type="sub"><lb/></titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<docImprint>
+				<pubPlace></pubPlace>.
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Guds Forsyn.</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">L</hi>ille Guds Barn! hvad skader dig?</l>
+<l>Tænk paa din Fader i Himmerig!</l>
+<l>Han er saa rig, han er saa god,</l>
+<l>Ingen kan staae Hans Magt imod.</l>
+<l>O Gud ske Lov!</l>
+</lg>
+<lg>
+<l>Føden og Kiæden, Huus og Hjem,</l>
+<l>Skulde Guds Børn gaae vild om dem?</l>
+<l>Mennesket lever af Guds Ord,</l>
+<l>Hjemme har Børn, hvor Fader boer.</l>
+<l>O Gud ske Lov!</l>
+</lg>
+<lg>
+<l>Fuglen i Skov, paa Mark og Fjeld,</l>
+<l>Synger i Gry og saa i Kveld,</l>
+<l>Sover saa sødt paa Kampesteen,</l>
+<l>Som under Tag paa Kvist og Green.</l>
+<l>O Gud ske Lov!</l>
+</lg>
+<lg>
+<l>Ikke den pløier eller saaer,</l>
+<l>Lægger ei op fra Aar til Aar,</l>
+<l>Dog hvor Bønder af Hunger døe,</l>
+<l>Finder den lille Fugl et Frø.</l>
+<l>O Gud ske Lov!</l>
+</lg> 
+<pb facs="1870_3_page0002.png"/>
+<fw type="pageNum">10</fw>
+<lg>
+<l>Yndig er Blomsten klædt og bold,.</l>
+<l>Deiligst at see paa Fjeldet goldt,</l>
+<l>Ikke den spinder, ei den syer,</l>
+<l>Dronning er dog dens Dragt for dyr!</l>
+<l>O Gud ske Lov!</l>
+</lg>
+<lg>
+<l>Blomst kommer op, og Blomst gaaer ud,</l>
+<l>Hvad er vel den for Himlens Gud</l>
+<l>Noget at regne mod de Smaae,</l>
+<l>Som for Hans Aasyn evig staae!</l>
+<l>O Gud ske Lov!</l>
+</lg>
+<lg>
+<l>Lille Guds Barn i Verden her!</l>
+<l>Hold dig da til din Fader nær!</l>
+<l>Spørg om Hans Magt og Kjærlighed!</l>
+<l>Stol kun paa Ham og hvil i Fred!</l>
+<l>O Gud ske Lov!</l>
+</lg>
+<lg>
+<l>Føden og Kiæden nok du faaer</l>
+<l>Af Ham imorgen som igaar.</l>
+<l>Og naar Hans Sol for dig gaaer ned,</l>
+<l>Arver du al Hans Herlighed.</l>
+<l>O Gud ske Lov!</l>
+</lg>
+<p><hi rend="align(right)">N.F.S. <hi rend="italic"> Grundtvig</hi></hi></p>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

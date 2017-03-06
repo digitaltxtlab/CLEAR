@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Søde Jesu, Davids Rod!</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-20"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="011"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1831">1831</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1831_11_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Søde Jesu, Davids Rod!</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<docImprint>
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<head>No. 7.</head>
+<head>M e l. Mit Barn, frygt den sande Gud.</head>
+<lg>
+<l><hi rend="initial">S</hi>øde Jesu, Davids Rod!</l>
+<l>Kæmpestærk og barnegod!</l>
+<l>Høvding stor i Engle-Hjem!</l>
+<l>Barnefødt i Bethlehem:</l>
+<l>Du, som giver Nyaar bedst,</l>
+<l>Kom herind og vær vor Gjæst,</l>
+<l>Gjør en liflig Jule-Fest!</l>
+</lg>
+<p><hi rend="bold">Grundtvig</hi>.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Det mindste Frø.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-26"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="004"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1870">1870</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1870_4_page0001.png"/>
+			<fw type="pageNum">136</fw>
+				<docTitle>
+	<titlePart type="main"><lb/></titlePart>
+	<titlePart type="sub"><lb/></titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<docImprint>
+				<pubPlace></pubPlace>.
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Det mindste Frø.</head>
+<head>(1856.)</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">D</hi>et er et Under paa Verdens 0:</l>
+<l>Det største Træ har det mindste Frø,</l>
+<l>Det mindste Frø voxer høiest op</l>
+<l>Med Fugle-Rede og Røst i Top.</l>
+</lg>
+<lg>
+<l>Det Træ, som her rager mest i Sky,</l>
+<l>Det er Guds-Mennesket jo, det ny,</l>
+<l>Gudsmenneske-Frøet er Troens Ord,</l>
+<l>Af mindre Frø intet Træ opgroer.</l>
+</lg>
+<lg>
+<l>Det faure Træ har en herlig Top,</l>
+<l>Guds Engle flyve der ned og op,</l>
+<l>Dem kalder vi Himlens Fuglehær,</l>
+<l>Thi ingen som de er Navnet værd.</l>
+</lg>
+<lg>
+<l>Det faure Træ har en liflig Frugt,</l>
+<l>Med Drue-Smag og med Rosens Lugt,</l>
+<l>Den bærer for alle Frugter Pris,</l>
+<l>Det er Guld-Æblet fra Paradis.</l>
+</lg> 
+<pb facs="1870_4_page0002.png"/>
+<fw type="pageNum">137</fw>
+<lg>
+<l>Det Æble falder i Storm ei ned,</l>
+<l>Er Gjemme-Frugt i al Evighed,</l>
+<l>Og aldrig bides deraf saa hvast,</l>
+<l>Det voxer igjen jo lige fast.</l>
+</lg>
+<lg>
+<l>Ja, Saligheds Frugt paa Træet groer,</l>
+<l>Hvis Frø hernede er Troens Ord,</l>
+<l>Hvis Dugg er Aanden, hvis Saft og Rod</l>
+<l>Er Herrens Legem og Herrens Blod.</l>
+</lg>
+<lg>
+<l>Lad Verden kun spotte det lille Frø,</l>
+<l>Som spirer i Løn paa Verdens Ø!</l>
+<l>Det Træ ikke trænger til Verdens Pris,</l>
+<l>Som bærer sin Frugt i Guds Paradis!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

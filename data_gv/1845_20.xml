@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Færinge-Saga</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-14"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="020"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1845">1845</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1845_20_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Færinge-Saga</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<head>Færinge-Saga.</head>
+<fw type="graphic"/>
+<lg>
+<l>Fru <hi rend="spaced">Saga</hi> hun bygged fra Hedenold,</l>
+<l>Hvor Bølgerne blaane i Norden,</l>
+<l>Hun havde sin Lystborg paa grønne Vold</l>
+<l>I Skoven med Issefjorden!</l>
+<l>Skjøn Havfru hun danser paa Tilje!</l>
+</lg>
+<lg>
+<l>Naar trætte blev Kæmper og Salen hed,</l>
+<l>Og Tungen blev tor i Munden,</l>
+<l>Da <hi rend="spaced">Odin</hi> han immer til Saga red</l>
+<l>Paa Slejpner i Middagsstunden!</l>
+<l>Skjøn Havfru osv.</l>
+</lg>
+<lg>
+<l>Der ventede paa ham en Læskedrik,</l>
+<l>I Sagas det glatte Guldbæger,</l>
+<l>Hun skænkede for ham med yndigt Blik,</l>
+<l>Det Sjælen som Vin vederkvæger.</l>
+<l>Skjøn Havfru osv.</l>
+</lg> 
+<pb facs="1845_20_page0002.png"/>
+<fw type="pageNum">159</fw>
+<lg>
+<l>Hun havde et Spejl af det bedste Glar,</l>
+<l>I det saaes alle Idrætter,</l>
+<l>Det hos sig i Barmen hun lønlig bar</l>
+<l>Og brugte i Maaneskinsnætter!</l>
+</lg>
+<lg>
+<l>Og alt, hvad hun øjned i Spejlet klart,</l>
+<l>Det laa hende brat paa Tunge,</l>
+<l>Og flød fra Læben saa let og rart,</l>
+<l>Som Fugle i Lunden sjunge!</l>
+</lg>
+<lg>
+<l>Men hvor er Fru Saga nu blevet af,</l>
+<l>Er end hun paa Jord at finde,</l>
+<l>Hvad heller hensovet og lagt i Grav,</l>
+<l>Med Runer kun til sit Minde!</l>
+</lg>
+<lg>
+<l>Fra <hi rend="spaced">Island</hi> det Sorgens Budskab lød:</l>
+<l>Hun er ikke mer i Live,</l>
+<l>Hun blegnede ved "den sorte Død,"</l>
+<l>Og lader sig ej opskrive!</l>
+</lg>
+<lg>
+<l>Fra <hi rend="spaced">Færø</hi> dog hid over salten Sø</l>
+<l>Der kom en Fugl lillebitte,</l>
+<l>Og sang, jeg kjender endnu den Ø,</l>
+<l>Hvor <hi rend="spaced">Odin</hi> kan <hi rend="spaced">Saga</hi> hitte.</l>
+</lg>
+<lg>
+<l>Hun legede Skjul med den sorte Død,</l>
+<l>Og pipped ej, naar han kaldte,</l>
+<l>Hun blev vel rynket, men er dog sød</l>
+<l>Og rørig bag Sø den salte.</l>
+</lg>
+<lg>
+<l>Naar Kæmpeviser og gamle Ord</l>
+<l>Te flyde fra hendes Tunge,</l>
+<l>Da springe de Smaa paa Bænk og Bord</l>
+<l>Saa danse de Gamle og Unge!</l>
+</lg>
+<lg>
+<l>Og red kun <hi rend="spaced">Odin</hi> engang i Løn</l>
+<l>Paa Ottebeen over Bølge,</l>
+<l>Da blev Fru Saga vist ung og skjøn,</l>
+<l>Det nænner jeg ej, at dølge:</l>
+</lg> 
+<pb facs="1845_20_page0003.png"/>
+<fw type="pageNum">160</fw>
+<lg>
+<l>Nu, Skolemester! hvad skader dig?</l>
+<l>Faar ondt du af Fuglekvidder?</l>
+<l>Du møder ej Saga paa din Vej,</l>
+<l>End sige da Gudhjems Ridder!</l>
+</lg>
+<lg>
+<l>"Gi bryder jeg mig om Bragesnak.</l>
+<l>Men agter dog paa Tendensen,</l>
+<l>Og Hader tilbunds alt Hedningpak,</l>
+<l>For jeg hedder <hi rend="spaced">Kristen</hi> Jensen!"</l>
+</lg>
+<lg>
+<l>,Jeg lugter det godt, der er en Her,</l>
+<l>Der holder end Pugeskole,</l>
+<l>Hvor Ungerne fniser og slaas og trækk's,</l>
+<l>Og springer paa Borde og Stole!"</l>
+</lg>
+<lg>
+<l>"Men bi til Sommer, du Saga prud!</l>
+<l>Til Kristen da sadler Havhesten;</l>
+<l>Af Halsen jeg river dig Tungen ud,</l>
+<l>Saa snakkes vi siden om Resten!"</l>
+</lg>
+<lg>
+<l>O Skolemester! ihvad du gjør,</l>
+<l>Forgrib dig dog itte saa saare!</l>
+<l>For ellers din Død vi sikkert spor</l>
+<l>Fra Færø med Skibet ad Aare!</l>
+</lg>
+<lg>
+<l>Har Saga narret den sorte Død,</l>
+<l>Og springes der, naar hun sjunger,</l>
+<l>Da har herefter hun ingen Nød,</l>
+<l>Utallige er hendes Tunger!</l>
+</lg>
+<lg>
+<l>Da bygge vi hende en Borg paa Fjæld,</l>
+<l>Til Skue for hele Norden,</l>
+<l>En Lovhytte ved hvert Kildevæsd,</l>
+<l>Og yndigst ved Issefjorden.</l>
+</lg>
+<lg>
+<l>Hun med Guldbæger og Læskedrik</l>
+<l>Skal være vor <hi rend="spaced">Skolefrue</hi>,</l>
+<l>Sit Spejl da hænger med yndigt Blik</l>
+<l>Hun midt i vor Skolestue!</l>
+</lg> 
+<pb facs="1845_20_page0004.png"/>
+<fw type="pageNum">161</fw>
+<lg>
+<l>Der seer vi ingen med Pukkelryg,</l>
+<l>Med Ris og med lange Negle,</l>
+<l>Der seer vi ingen med Pungparyk,</l>
+<l>Der slikkes ej Smør af Hegle!</l>
+</lg>
+<lg>
+<l>Der seer vi Guder og Helte kun,</l>
+<l>I Fløjel og Vadmel sammen,</l>
+<l>Og sluge hvert Ord fra Sagas Mund,</l>
+<l>For Alvor og dog med Gammen!</l>
+</lg>
+<lg>
+<l>Saa, Kristen Jensen, pak du kun ind!</l>
+<l>Stygotius ogsaa vil skifte!</l>
+<l>Og farer saa vel, med første Vind,</l>
+<l>Til Kina, sidt Gavn at stifte!</l>
+<l>Skjøn Havfru hun danser paa Tilje.</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

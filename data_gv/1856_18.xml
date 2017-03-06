@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Rettelse.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-25"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="018"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1856">1856</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1856_18_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main"><lb/>Rettelse.</titlePart>
+	<titlePart type="sub"><lb/></titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<fw type="graphic"/>
+				<epigraph>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace></pubPlace>.
+<fw type="graphic"/>
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Rettelse.</head>
+<fw type="graphic"/>
+<p><hi rend="initial">D</hi>a de to Stykker i „Kirkelig Samler" (2det Binds 1ste og 2det Hefte: „Det er Aanden, der gjør levende" og „Prøv Aanderne, om de er af Gud") har stedt mange Læsere, og da jeg er bleven gjort opmærksom paa, at jeg <hi rend="spaced">tildeels</hi> har sammenblandet de Fordringer, man maa stille til Forkyndelsen af Christi Evangelium, med hvad der udkræves til en gyldig Forrettelse af den hellige Daab, saa vil jeg herved oplyse, at denne Sammenblanding er skeet uvitterlig, da jeg kun vilde modsætte mig den Ligegyldighed, hvormed Mange betragter det Menneske, ved hvem, og den Maade, hvorpaa Daaben forrettes.</p>
+<p>Jeg vilde saaledes ikke nægte, at en Daab kan være christelig gyldig, skiøndt den Person, ved hvem den forrettes, Hverken kan ansees for en sand <hi rend="spaced">Christen i levende og aandelig Forstand</hi>*), eller forretter Daaben nær saa opbyggelig, som man maatte ønske, og som det sig burde, men jeg vilde kun indskærpe, at ingen levende Christen kan være ligegyldig ved, hvem han lader sit Barns Daab</p>
+<p>*) See Side 99 og 133, hvor det udtrykkelig er bemærket.</p>
+<pb facs="1856_18_page0002.png"/>
+<fw type="pageNum">225</fw>
+<p>forrette af, og at der maa dog være en Grændse, udenfor hvilken Daabens christelige Gyldighed ei kan paastaaes eller vil træde i Kraft for den Døbte, om end Alterbogens Forskrift paa en Maade var fulgt med Haand og Mund, thi en aabenbar Jøde, Tyrk eller Hedning kan jo dog umulig forrette en christelig gyldig Daab, og Oplæsningen af Forskriften kan dog vist ogsaa være saa skjødesløs, usømmelig og modbydelig, at intet alvorligt Menneske kan staae Lid til en saaledes afjasket Daab, og dog maae vi jo alle staae Lid til vor egen Daab, naar den skal træde i Kraft hos os.</p>
+<p><hi rend="align(right)">Chr. M. Kragballe.</hi></p>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

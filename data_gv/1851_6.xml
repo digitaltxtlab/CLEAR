@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Hilsen til Norge.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-22"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="006"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1851">1851</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1851_6_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Hilsen til Norge.<lb/></titlePart>
+	<titlePart type="sub"><lb/></titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<docImprint>
+				<pubPlace></pubPlace>.
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<pb facs="1851_6_page0002.png"/>
+<fw type="pageNum"></fw>
+</div>
+<div>
+<head>Mel. Vort Födeland var altid rigt.</head>
+<lg>
+<l><hi rend="initial">V</hi>ær hilset, <hi rend="italic">Norges </hi>Klippeland,</l>
+<l>Med Aase og med Tinder!</l>
+<l>Vær hilset, Kæmpers Födeland,</l>
+<l>Med Dine Storværks-Minder!</l>
+<l>Vær hilset fra den grönne Strand,</l>
+<l>Trofaste, ægte Broderland</l>
+<l>For Marken, som fik Navn af <hi rend="italic">Dan,</hi></l>
+<l>Den Bolde paa det Jævne!</l>
+</lg>
+<lg>
+<l>Vær takket for hver gammel Helt,</l>
+<l>Og dobbelt for de Nye,</l>
+<l>Som slumred ind ved Sund og Belt</l>
+<l>Med <hi rend="italic">Schleppegrell </hi>og <hi rend="italic">Rye,</hi></l>
+<l>Og for den klippefaste Gran,</l>
+<l>Som holdt mod hede Helved Stand</l>
+<l>Paa <hi rend="italic">Ejder-Strömmens </hi>Gyngerand,</l>
+<l>Og grönnes end ved <hi rend="italic">Slien!</hi></l>
+</lg>
+<lg>
+<l>Vær takket for hvert Aandedræt,</l>
+<l>Hver Tanke og hver Tale</l>
+<l>For Danmarks Vel og Nordens Ret,</l>
+<l>Paa Bjerge og i Dale,</l>
+</lg> 
+<pb facs="1851_6_page0003.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>For Mindet om den svundne Tid,</l>
+<l>For Haab om den, som kommer hid</l>
+<l>Med nordisk Alvor, Skjemt og Vid,</l>
+<l>Med Frihed, Fred og Glæde!</l>
+</lg>
+<lg>
+<l>Vær takket for den aabne Favn,</l>
+<l>Du byder gamle Grander!</l>
+<l>I Ungdoms-Dragt fra <hi rend="italic">Kj</hi>ö<hi rend="italic">binghavn</hi></l>
+<l>Det gamle Venskab lander,</l>
+<l>Som gammel Viin og gammel Vej</l>
+<l>Det vinker mildt og sviger ej,</l>
+<l>Det hilser <hi rend="italic">Thor </hi>fra <hi rend="italic">Vana-Frej,</hi></l>
+<l>Og Sysler hans, den væne!</l>
+</lg>
+<lg>
+<l>Hurra for Norges Klippeland</l>
+<l>Og for dets Klippeka'le</l>
+<l>Paa Elven og den vilde Strand</l>
+<l>Paa Bjerge og i Dale!</l>
+<l>Hurra for gammelt Vennelag!</l>
+<l>Hurra for denne Sommerdag,</l>
+<l>Som i det Fri og under Tag</l>
+<l>Skal mindes trindt i Norden !</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>
