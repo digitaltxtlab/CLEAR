@@ -29,3 +29,9 @@ to remote repository
 Create folder **xml_meta** inside **xml_lb**
 
 Move  metadata from **xml** to **xml_meta**
+---
+3/6/2017
+
+Add two python scripts to scripts_py,
+
+which is used to convert file from **xml** to **txt**
