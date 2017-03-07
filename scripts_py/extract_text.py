@@ -15,12 +15,18 @@ cwd=os.getcwd()
 parent_path = os.path.dirname(cwd)
 working_path = parent_path + "\\" +"xml_lb"+"\\"+"xml"
 file_list = os.listdir(working_path)
+
+##these three lines creates an folder called txt within xml_lb
+working_dir = parent_path + "\\" +"xml_lb"
+os.chdir(working_dir)
+os.mkdir("txt")
+##ignore if there have already existed xml_lb\txt
 for filename in file_list:
 	filepath = working_path + "\\" + filename
 	parser.parse(filepath)
 
 	temp = string.replace(filename,".xml",".txt")
-	des_file = parent_path + "\\" + "data_from_xml" + "\\"+temp
+	des_file = parent_path + "\\" + "xml_lb" + "\\"+"txt"+"\\"+temp
 
 	orig_stdout = sys.stdout
 	f = file(des_file, 'w')
