@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Dansk Kirketidende.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-26"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="010"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1864">1864</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1864_10_page0001.png"/>
+			<fw type="pageNum">434</fw>
+				<docTitle>
+	<titlePart type="main">1864.  No.28.<lb/>Dansk Kirketidende.</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace></pubPlace>Ottende Søndag efter Trinitatis den 17de Juli.<lb/>
+<fw type="graphic"/>
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<p>Indhold: H. C. Andersen: Psalme. - N. F. S. Grundtvig: Den 80de Davids-Psalme efterlignet. -
+N. Lindberg: "Evang. Ugeskr." og Folkekirken.- Bognyt (Bedas Kirkehistorie, overf. af Chr.
+M. Kragballe. Sluttet).</p>
+<fw type="graphic"/>
+</div>
+<div>
+<head>Den 80de Davids-Psalme efterlignet.</head>
+<fw type="graphic"/>
+<lg>
+<l>Vorherre! lad lyse dit Aasyn bildt</l>
+<l>Over os, som Dig bønfalde!</l>
+<l>Da sige, da synge med Fryd vi frit,</l>
+<l>Vi er frelste nu med alle.</l>
+</lg>
+<lg>
+<l>Vorherre, den store Hærskares Drot!</l>
+<l>Var ei vred paa os forlænge!</l>
+<l>Dit Folk er nu blevet til Daarers Spot;</l>
+<l>Efter os med Flid de vrænge!</l>
+</lg>
+<lg>
+<l>En Due Du sendte fra Eden hid,</l>
+<l>I dens Neb en Æble-Kierne</l>
+<l>Den groede op her fra Arildstid,</l>
+<l>I vor Muldjord meer end gierne.</l>
+</lg>
+<lg>
+<l>Du elskede op Dig en Abildgaard,</l>
+<l>Skal den ei Guld-Æbler bare!</l>
+<l>Skal Fjenderne hugge den om iaar,</l>
+<l>Skal den dem til Brændsel være!</l>
+</lg>
+<lg>
+<l>Vorherre! den store Hærskares Drot!</l>
+<l>Vær ei vred paa os forlange?</l>
+<l>Dit Folk er nu blevet til Daarers Spot,</l>
+<l>Efter os de Mund tør vrænge!</l>
+</lg> 
+<pb facs="1864_10_page0002.png"/>
+<fw type="pageNum">435</fw>
+<lg>
+<l>Vorherre! lad lyse dit Aasyn bildt</l>
+<l>Over os, som Dig bønfalde!</l>
+<l>Da sige, da synge med Fryd vi frit:</l>
+<l>Vi er frelste nu med alle.</l>
+</lg>
+<lg>
+<l>Der sidder en Mand ved Din Høirehaand,</l>
+<l>Som vor <hi rend="spaced">Frelser</hi> han bekiendes,</l>
+<l>Og han har iblandt os sin Liljevaand,</l>
+<l>Han har Sagt, alt hans er hendes!</l>
+</lg>
+<lg>
+<l>Hans Rige sig strækker, som Du har Sagt,</l>
+<l>Jo til Jorderiges Ender,</l>
+<l>Og under hans Fødder Du alt har lagt</l>
+<l>Lag paa Lag af hans uvenner.</l>
+</lg>
+<lg>
+<l>Men Hegnet er brudt om Din Abildgaard,</l>
+<l>Skal den ei Guld-Æbler bære!</l>
+<l>Skal Fienderne hugge den om iaar</l>
+<l>Skal den dem til Brændsel være!</l>
+</lg>
+<lg>
+<l>Hvor fandtes hans Rige da vel paa Jord,</l>
+<l>Med hans Ret, hans Fred og Glæde,</l>
+<l>Naar længer ei hørdes i hole Nord</l>
+<l>Danske-Tungen født at kvæde!</l>
+</lg>
+<lg>
+<l>Vorherre! lad lyse Dit Aasyn bildt</l>
+<l>Over os, som Dig bønfalde!</l>
+<l>Da sige, da synge med Fryd vi frit:</l>
+<l>Vi er frelste nu med alle.</l>
+</lg>
+<lg>
+<l>Vor Sang da ophøier Dit Fader-Navn,</l>
+<l>I vor <hi rend="spaced">Frelsers</hi> Navn det søde,</l>
+<l>Da modnes og snart i vor Fødestavn</l>
+<l>Ved din Soel Guld-Æbler røde.</l>
+</lg>
+<p>N. F. S. Grundtvig.</p>
+</div>
+</body>
+</text>
+</TEI>

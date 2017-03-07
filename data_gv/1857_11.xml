@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Ved KIRKEMØDET</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-25"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="011"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1857">1857</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1857_11_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Ved<lb/>KIRKEMØDET</titlePart>
+	<titlePart type="sub">den 17de Juli 1857.<lb/></titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<docImprint>
+				<pubPlace></pubPlace>.
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<pb facs="1857_11_page0002.png"/>
+<fw type="pageNum">000</fw>
+<p><hi rend="align(center)">Mel. Vintren rasat ut bland vora fjällar.</hi></p>
+<lg>
+<l><hi rend="spaced"><hi rend="initial">A</hi>samaalet</hi> over Fjeld og Slette</l>
+<l>Gjalded fordum trindt i Høienord,</l>
+<l>Var til Harm og Gru for Trold og Jette,</l>
+<l>Men for Askurs Æt et Gammens-Ord,</l>
+<l>Aabned Øiet for de høie Sale,</l>
+<l>Sølverklare under Gylden-Tag,</l>
+<l>Aabned Øret for den dybe Tale</l>
+<l>Om den døde <hi rend="spaced">Balders</hi> Nytaars-Dag.</l>
+</lg>
+<lg>
+<l><hi rend="spaced">Christendommen</hi> over Fjeld og Slette</l>
+<l>Nu gienlyder trindt i <hi rend="spaced">Høienord</hi>,</l>
+<l>Er til Harm og Gru for Trold og Jette,</l>
+<l>Men for <hi rend="spaced">Askurs</hi> Æt et Gammens-Ord,</l>
+<l>Bygger i vor Barm de høie Sale,</l>
+<l>Sølverklare under Gylden-Tag,</l>
+<l>Løser op i Lys den mørke Tale</l>
+<l>Om Døds-Fangens glade Nytaars-Dag.</l>
+</lg> 
+<pb facs="1857_11_page0003.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Nys det lød som Klagesang af Kvinder:</l>
+<l>Christendommens lyse Gammens-Ord</l>
+<l>Daglig meer forstummer og forsvinder,</l>
+<l>Døer vel ud selv her i <hi rend="spaced">Høienord</hi>,</l>
+<l>Da har Hjertet Vinter uden Sommer,</l>
+<l>Som de gamle Hedning-Skjalde sang,</l>
+<l>Da som Nælder brænde alle Blommer,</l>
+<l>Som Ligklokkens da er Harpens Klang!</l>
+</lg>
+<lg>
+<l>Nu det lyder som et Kvad af Kæmper</l>
+<l>Atter høit dog over breden Bord:</l>
+<l>Af Ulykker, Plager og Ulæmper</l>
+<l>Nok vi har, selv i vort høie Nord,</l>
+<l>Men saalænge dog, som Bjørnen brummer,</l>
+<l>Og saalænge Nattergalen slaaer,</l>
+<l>Christendommen ei hos os forstummer,</l>
+<l>Men udraaber lydt sit <hi rend="spaced">Gyldenaar</hi>!</l>
+</lg>
+<lg>
+<l>Hvad der klang om »<hi rend="spaced">To og Tre</hi>,« som mødes</l>
+<l>I det store alle Navnes Navn,</l>
+<l>Til en Høisang i »det Aar« gienfødes</l>
+<l>Trindt omkring i Kæmpers Fødestavn;</l>
+<l><hi rend="spaced">Nordens Tungemaal</hi> da sammenstemme</l>
+<l>I Omkvædet: <hi rend="spaced">Christendommen vandt</hi>!</l>
+<l>Hjerter alle da det skal fornemme,</l>
+<l>At <hi rend="spaced">Guds-Ordet</hi> er der midt iblandt.</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

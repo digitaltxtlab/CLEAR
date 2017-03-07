@@ -1,0 +1,1391 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Snorros og Saxos Krøniker</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2009-12-01"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="008"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1815">1815</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1815_8_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Prøver<lb/>af</titlePart>
+	<titlePart type="sub">Snorros og Saxos Krøniker <lb/> i en ny Oversættelse<lb/>samt<lb/> et Ord til Danske og Norske </titlePart>
+</docTitle>
+<byline>ved<lb/>
+	<docAuthor>N. F. S. Grundtvig,<lb/>Præst.</docAuthor>
+				</byline>
+				<fw type="graphic"/>
+				<epigraph>
+<p><hi rend="latine">æqve ad religionem pertinere judicans patriæ</hi></p>
+<p><hi rend="latine">facta literis illustrare et res divina conscribere.</hi></p>
+<p><hi rend="align(right)"><hi rend="italic">Saxo Grammaticus.</hi></hi></p>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace>Kiøbenhavn,</pubPlace>.<lb/>Trykt hos Andreas Seidelin<lb/>
+<fw type="graphic"/>
+<docDate>1815.</docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<pb facs="1815_8_page0002.png"/>
+<fw type="pageNum"></fw> 
+<pb facs="1815_8_page0003.png"/>
+<fw type="pageNum"></fw>
+</div>
+<div>
+<head>Mindesang</head>
+<head>paa</head>
+<head>Fædres Gravhøi.</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">S</hi>ving dig over Mark og Skove</l>
+<l>Sving dig over blanken Vove</l>
+<l>Sving dig over Fjeld min Sang</l>
+<l>Tolk som Torden Tidens Brode</l>
+<l>Sænk dig saa i Toner sode!</l>
+<l>Hjerter smelte ved din Klang!</l>
+</lg> 
+<pb facs="1815_8_page0004.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Hist paa Fjeld og her i Skove,</l>
+<l>Vidt og bredt paa blanke Vove</l>
+<l>Færdedes en Slagt saa god,</l>
+<l>Høit vi sande maae og sjunge,</l>
+<l>At paa dobbelt Viis udsprunge</l>
+<l>Børnene af <hi rend="spaced">deres Blod</hi>.</l>
+</lg>
+<lg>
+<l>Deres Blod af slagne Aare</l>
+<l>Sprang og sprudede saa saare,</l>
+<l>Høit paa Val og vidt paa See,</l>
+<l>Bølged som en Grav om Borge</l>
+<l>Bredt om Dannemark og Norge,</l>
+<l>Værged Lund og Fjeld og Øe!</l>
+</lg>
+<lg>
+<l>Ej saa vidt som Havet bø'ger,</l>
+<l>Ei saa vidt os Saga følger,</l>
+<l>Findes skal et Folk paa Jord,</l>
+<l>Hvem det undtes saa at bygge</l>
+<l>Under Skye og Skjold saa trygge,</l>
+<l>Som det Tvilling-Folk i Nord.</l>
+</lg> 
+<pb facs="1815_8_page0005.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Intet Folk og sine Fædre</l>
+<l>Stræbde saa i Grav at hædre,</l>
+<l>Kom saa flittelig ihu,</l>
+<l>Herfor klinger Sang og Sage</l>
+<l>Gjennem mange tunge Dage</l>
+<l>Lystelig til os endnu.</l>
+</lg>
+<lg>
+<l>Men, lyd høit i Nord min Klage,</l>
+<l>Som en Røst fra gamle Dage,</l>
+<l>Som et Vee fra Fædres Grav!</l>
+<l>Kun for døve Øren klinge</l>
+<l>Tonerne, som Bud os bringe</l>
+<l>Fra vort Hjem med Klang og Stav.</l>
+</lg>
+<lg>
+<l>See, der ligge Fædres Skrifter,</l>
+<l>Bind om Fædrenes Bedrifter,</l>
+<l>Jordede i Mulm og Stov!</l>
+<l>Slægten stirrer kun paa Muldet,</l>
+<l>Lytter efter Klang af Guldet,</l>
+<l>Er for <hi rend="spaced">Modersmaalet</hi> døv.</l>
+</lg> 
+<pb facs="1815_8_page0006.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Stumme flyve Oldtids Fugle,</l>
+<l>Finde ikke meer paa Thule</l>
+<l>Lye i Lund og Lyst til Sang,</l>
+<l>Visnet er den gamle Stamme</l>
+<l>Vakler kun sin Rod til Skamme,</l>
+<l>Over Vove, Fjeld og Vang.</l>
+</lg>
+<lg>
+<l>Hører mig, I høie Fjelde,</l>
+<l>Vidnerne til Fortids Vælde,</l>
+<l>Vidner og om dens Bedrift;</l>
+<l>I, hvis haarde Klippe-Gavle</l>
+<l>Fædre glattede til Tavle,</l>
+<l>Tunged ud med Runeskrift!</l>
+</lg>
+<lg>
+<l>Hører mig, I gamle Lunde,</l>
+<l>Som mens Aldrene henrunde</l>
+<l>Horde Oldtids Fuglesang,</l>
+<l>Som i eders Eegebarme</l>
+<l>Gjemde troe med Lyst og Varme</l>
+<l>Gjenlyd af den søde Klang!</l>
+</lg> 
+<pb facs="1815_8_page0007.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Hører mig, I dybe Bølger,</l>
+<l>Som i eders Hjerte dølger</l>
+<l>Stavnespor fra Hedenold,</l>
+<l>Af den Stavn som Norges Syster</l>
+<l>Søgde paa de danske Kyster,</l>
+<l>Af den Stavn som bar Kong Skjold *)!</l>
+</lg>
+<lg>
+<l>Sover I, hvor kan I sove?</l>
+<l>Vaagner Lund og Fjeld og Vove!</l>
+<l>Vaagner, vaagner, raaber Vee!</l>
+<l>Vee den Slægt som her har hjemme,</l>
+<l>Som kan siige Fædre glemme,</l>
+<l>Kan ad slige Minder lee!</l>
+</lg>
+<p>*) Den gamle Mythe om Fornioters Sønner Nor og Gor, der ledte om deres Syster rundt i Norden, og fandt i det mindste gamle Frænder paa de danske Der, sindes i <hi rend="spaced">Funden-Noregur</hi>, og om Skjolds Skib kan læses i Kjøbenhavns Skilderie No. 60 d. A</p>
+<pb facs="1815_8_page0008.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Ja, I Fædre hisset oppe,</l>
+<l>I, hvis Gulv er Stjernetoppe,</l>
+<l>I, Hvis Sjæl er i Guds Haand;</l>
+<l>I det Vee maae selv istemme,</l>
+<l>Over dem som eder glemme,</l>
+<l>Som fornægte eders Aand, .</l>
+</lg>
+<lg>
+<l>Eder ingen Glemsel skader,</l>
+<l>Hvor I boe hos Aanders Fader,</l>
+<l>Dog I tordne maae som Han:</l>
+<l>Ær din Fader og din Moder,</l>
+<l>Om du længe Livets Goder</l>
+<l>Nyde vil i Fædres Land!</l>
+</lg>
+<lg>
+<l>Hører det, I Folk i Norben!</l>
+<l>Fædres Ak og Vee i Torden</l>
+<l>Ruller høit med Brag og Døn,</l>
+<l>Echo er for aabne Vre</l>
+<l>Lydt i Lund og Fjeld at høre,</l>
+<l>Og i Bølgens hule Drøn.</l>
+</lg> 
+<pb facs="1815_8_page0009.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Sover I, hvor kan 3 sove?</l>
+<l>Luft og Lund og Fjeld og Vove</l>
+<l>Tordne ud det Vee med Brag,</l>
+<l>Brat sig flokke Lyn i Flamme,</l>
+<l>Flække, knuse visne Stamme</l>
+<l>I et Bredens Tordenslag.</l>
+</lg>
+<lg>
+<l>Hører dog Trompeten gale</l>
+<l>Høit og hardt fra Kirkesvale,</l>
+<l>Og foragter ei dens Kald!</l>
+<l>Ogsaa mig paa Zions Volde</l>
+<l>Bødes flittig Vagt at holde,</l>
+<l>Vagt som Præst og Vagt som Skjald.</l>
+</lg>
+<lg>
+<l>Med Trompeten for min Gane</l>
+<l>Hvad jeg skue kan og ahne,</l>
+<l>Høit forkynder jeg i Nord:</l>
+<l>Lugen leger over Lande,</l>
+<l>Røde Sværd i Luften stande</l>
+<l>Atter <hi rend="spaced">over Lunde-Chor</hi>.</l>
+</lg> 
+<pb facs="1815_8_page0010.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Sagnet lader sig forlyde</l>
+<l>Med hvad Tegnet maae betyde:</l>
+<l>Blodig <hi rend="spaced">Broderkamp</hi> i Nord *),</l>
+<l>Ak, naar man foragter Fædre,</l>
+<l>Brødre elsker man ei bedre,</l>
+<l>Kroner Synd med <hi rend="spaced">Brodermord</hi>.</l>
+</lg>
+<lg>
+<l>Hører mig, I Folk som hygge</l>
+<l>Trindt i Dovres brede Skygge,</l>
+<l>Trindt i gamle Daneland!</l>
+<l>Hører mig, I kjære Frænder!</l>
+<l>See! jeg tvætter mine Hænder,</l>
+<l>Her i helligt Vievand!</l>
+</lg>
+<lg>
+<l>Jeg har ahnet, jeg har skuet,</l>
+<l>Jeg har varslet, jeg har truet,</l>
+<l>Og jeg beder end med Graad:</l>
+<l><hi rend="spaced">Vender om til</hi> fromme <hi rend="spaced">Fædre</hi>!</l>
+<l>Da vil Gud end Brøsten bedre,</l>
+<l>Stande bi med Raad og Daad.</l>
+</lg>
+<p>*) See Noeskilde-Saga S. 30.</p>
+<pb facs="1815_8_page0011.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>See, jeg staaer ved Fædres Grave</l>
+<l>Med de gamle Runestave,</l>
+<l>Ristede af Fædres Haand;</l>
+<l>Med de gamle Saga-Skrifter,</l>
+<l>Hvori Fædrenes Bedrifter</l>
+<l>Præged sig med Fædres Aand.</l>
+</lg>
+<lg>
+<l>Skal jeg stande her alene,</l>
+<l>Stirre paa de Runestene</l>
+<l>Sukkende og sorrigfuld!</l>
+<l>Skal jeg riste underneden:</l>
+<l><hi rend="spaced">Fædres Aand er foret heden,</hi></l>
+<l>Synker, Stene, ned i Muld!</l>
+</lg>
+<lg>
+<l>Skal jeg her fra Kirkesvale</l>
+<l>Høre Midnatshane" gale</l>
+<l>Over Fædres kjære Land,</l>
+<l>See ved Lyn, hvor Sværde mødes.</l>
+<l>See ved Lyn, hvor Landet ødes,</l>
+<l>See den visne Stammes Brand!</l>
+</lg> 
+<pb facs="1815_8_page0012.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Nei, o nei, I kjære Frænder!</l>
+<l>Rækker mig dog Broderhænder</l>
+<l>Over Velt og Sund og Hav!</l>
+<l>Lad mig dog ei saa alene</l>
+<l>Lofte paa de Bautastene</l>
+<l>Over vore Fædres Grav!</l>
+</lg>
+<lg>
+<l>Kommer! hjelper! lad os lofte</l>
+<l>Høit dem over Svælg og Kløfte</l>
+<l>Lad os stave dem med Lyst,</l>
+<l>Stirre paa de Rune-Belter</l>
+<l>Stadelig, til Hjertet smelter,</l>
+<l>Glødende ved Broderbryst!</l>
+</lg>
+<lg>
+<l>Frænder! Brødre, o saa hører</l>
+<l>Dog hvor Fædres Aand sig rører</l>
+<l>I mit Hjerte og mit Ord!</l>
+<l>Kan I stande kolde, døve?</l>
+<l>Nil I Fædres Aand bedrøve?</l>
+<l><hi rend="spaced">Skal han flygte bort fra Nord?</hi></l>
+</lg> 
+<pb facs="1815_8_page0013.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Vi paa Fjeld, i Dal og Enge</l>
+<l>Saaede i Kjødet længe,</l>
+<l>Høsten blev og Sæden liig;</l>
+<l>Vinteren er fast forhaanden,</l>
+<l>Venner! lad os saae i Aanden!</l>
+<l>O, da vorder Høsten riig.</l>
+</lg>
+<lg>
+<l>Spildt vi har paa vilde Veie</l>
+<l>Fædres Odel, Arv og Eje,</l>
+<l>Haandens Fylde, Hjertets Fred;</l>
+<l>Aldrig komme bedre Dage,</l>
+<l>Har vi ei en Gnist tilbage</l>
+<l>End af Fædres Kjærlighed.</l>
+</lg>
+<lg>
+<l>Sving dig da min Fugl saa fage</l>
+<l>Med et Blad af Nordens Sage</l>
+<l>Gjennem Luft paa Aanders Vei!</l>
+<l>Kald med Kvad og vift med Vinge,</l>
+<l>Vil da Gnisten ei udspringe,</l>
+<l>Ak, da er den der vel ei.</l>
+</lg> 
+<pb facs="1815_8_page0014.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Flyv, min Fugl, nu ud saa fage!</l>
+<l>Fædres Gud vil dig ledsage,</l>
+<l>Trøste dig for Spot og Had;</l>
+<l>Bede vil jeg alle Dage:</l>
+<l>Give Gud du kom tilbage</l>
+<l>Med et grønt <hi rend="spaced">Oliven-Blad!</hi></l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div> 
+<pb facs="1815_8_page0015.png"/>
+<fw type="pageNum"></fw>
+<fw type="graphic"/>
+</div>
+<div>
+<head>Fortale.</head>
+<p><hi rend="initial">D</hi>anske og Norske! det er Tid, ja det er den høie Tid at vi oplade Øinene, see hvad vi fordum vare og hvad vi ere nu, og spørge alvorlig os Selv, hvad det tegner til vi daglig mere vorde, hvilken Fremtid vi berede i vort Fædreneland, i de kiække, giæve, stærke, fromme Fædres Land. Der var en Tid, en ulyksalig Time, da vi indbildte os i Daarskab at vor Tidsalder havde, ikke arvet, nei kraftig skabt og Snild opfundet alt Lys, al Verdens Viisdom, vi lod os det indbilde at naar vi kun dristelig tiltroede os Selv en Guddoms Frihed, Kraft og Viisdom, da havde vi den ogsaa, naar vi kun rask fornægtede hvad der er Sagt og troet om Gud og Frelseren, om vores Blindhed, Afmagt og Elendighed, da var ri høit oplyste, og kunde ei be. skiære vore Børn et bedre Arvegods end denne Viisdom, at der var Intet bag dem værd at ihukomme, Intet over dem at <hi rend="spaced">frygte for og Stole paa</hi>, Intet hisset at <hi rend="spaced">bekymres inderlige" for og længes efter</hi>; at deres usle Selv og denne Verdens for-
+<pb facs="1815_8_page0016.png"/>
+<fw type="pageNum">XVI</fw>
+giængelige Skikkelse var hvad de stedse skulde have for Vie. som Hjemmet for deres Digten og Tragten, Frygt og Haab. Bekymring og Tillid. Der var en saadan Tid ogsaa hos os, tungt at den var, men Gud være lovet! hos os begyndte den dog kun at være, hos os er den ikke længer! den er vel i mangen Enkelt, den er desværre forplantet i den opvoxende Slægt, den forkynder daglig sit Djævleliv i Hovmod, skiben Egennytte og hvad alle de fule Dødstegn hede, som Pine ten Retfærdiges Sjæl, naar han seer, dem for Ble, men jeg siger det alligevel med Glæde, den Tid er ikke længer hos os som Herre, den er her kun som en Misdæder. der maae skjule sin Skiændsel, hvormed den et Øieblik pralede. Herren rørde ved Bespottelsens Tunge, og de" maatte forstumme, tvetunget er Uhyret blevet, i Løn og i Smug udspyer det Giften, men glat som Smørret er dets aabenbare Tale, for krævede det ublue Herredommer, nu taler det om Fred og om Forlig. Men ingen Fred, siger Herren, for den Ugudelige, hvad Samfund haver Lys med Morke, eller hvorledes kan Christus giøre Pagt med Belial? Vi skal vide, vi skal Hulke det, at sove vi, ba vaagner Fien, den, tie vi, da faaer han atter Mæle, kun vert Sværd døver hans, kun den Levende, Virkende i os beskiæmmer den som er i Verden. Vi skal vide at det kun gavner Lidet at Bespottelsen forstummer, naar ei Troen avles, at det er os ikkun til Hom men ei til Gavn, om vi bifalde og bekiende, at vort sande Fæ-
+<pb facs="1815_8_page0017.png"/>
+<fw type="pageNum">XVII</fw>
+dreland er ikke her, men ikkun hist hvorfra vi vente Frelseren, i den paa Evighedens Pillere grundfæstede Stad, hvor de fromme, <hi rend="spaced">desalige Fædre</hi> nu bygge, det dommer, men gavner os ikke, hvis vi ei l<hi rend="spaced">evende</hi> troe det, idelig stunde og stadelig stræbe didop hvor de boe, didop hvorfra Han skal komme og fere os hiem; dersom vi ei lade det udtrykkelig tilsyne i vort Levnet, og i al vor Idræt, at vi ere Hans Slægt, fon? er hellig, at vi ere de fromme Fædres ægte Børn og rette Arvinger. Men ligesom der staaer skrevet: hvorledes skulde de troe hvad de ikke have hørt, saaledes vil jeg og spørge: hvorledes skulde de stræbe at ligne hvem de ikke kiende, og hvad de Fleste iblandt os lidet eller intet kiende, det er, næst Guds hellige Ord, vore Fædres Levnet og Idrætter.</p>
+<p>Nu, det være langt fra mig, at sætte de Ting saa ved hinandens Side, at de skulde agtes som lige fornødne. Nei visselig, hvo som kun holder sig nær til Gud og Hans Ord, han haver og. Samfund med alle salige Aander, og maae i sit Levnet udtrykke en elskelig og faver Lignelse af fromme Forfædre, om han end aldrig fornam en Lyd eller Herte et Navn fra Fædrenes Old, thi Aanden er den Samme; Han virker Alt i alle Guds Vorn. Men det er derfor ikke mindre sandt, at elske vi Gud, da elske vi og Alt hvad som er født af Ham, og af Ham fødtes ei blot de fromme Fædre, men og den ganske Styrelse og Skikkelse i Fortidens Dage; det er ikke mindre vist, at elske vi de 
+<pb facs="1815_8_page0018.png"/>
+<fw type="pageNum">XVIII</fw>
+fromme Fædre, da ønske vi at kiende dem, deres Idræt og Trængsel og Seier i Verden, elske vi den Guddommelige Styrelse, da ønske vi besynderlig i Hiemmet at beskue den, thi inderlig og hemmelig er vort Liv knyttet til vore Fædres, hvoraf det i alle Maader udsprang, det er som deres Hændelser vederfores os selv i en underlig dunkel, men inderlig kiær Barndoms Tid, deres Aand svæver over Skoven de plantede, Marken de dyrkede, Fjeldet de vandrede paa, Havet de befoer. Huset de bygde, Graven som har deres Stov, og over os, deres Børn, deres Kiærligheds Frugt, Fædrenes Aand omsvæver os og tolker deres Hændelser og Idrætter med en Røst, som intet legemligt Øre fornemmer, men som underlig gienlyder i vort Inderste, som beviser sin Kraft ved at klare Øiet for de gamle Dage, og smelte Hjertet til inderlig Medlidenhed og dyb Deeltagelse i Alt, det Mindste med det Største.</p>
+<p>See, derfor kan Ingen sige med Sandhed: jeg ærer og elsker Gud, men mit Fædreland elsker jeg ikke, mine Forfædres Skiebne er mig ligegyldig, saa" lidet kan Nogen sige dette med Sandhed, som om han sagde: jeg elsker Gud, men hader min Fader og Mo" der og Broder; Guds Kiærlighed er Alt, men hvor ikke engang den naturlige Kiærlighed sindes, visselig der er Guds Kiærlighed endnu mindre tilstæde, og naar den kommer, da renser den Alt, men den odelægger Intet som er af Gud, og det er den naturlige Kiær-
+<pb facs="1815_8_page0019.png"/>
+<fw type="pageNum">XIX</fw>
+lighed i sin Rod, om den end t sin Vext er nok saa vanartet.</p>
+<p>Er dette nu Sandhed, som det er, om alle Folk og Tider, hvor øiensynligt maae det da ikke være for os som bygge i Norden? da det er aabenbart, at intet Folk af Naturen har annammet en saadan Kiærlighed til Fædrene, som vi, at der er intet Folk under Himlen der haver været saa underlig bekymret for at giemme Fædrenes Ihukommelse, og overantvorde den til deres Børn, som de Folkefrænder, af hvis Lænder vi udsprang. Lad os dog høre hvad gamle Saxo formelder om den fjerneste Oldtid: de giemde, siger han, Fædrenes Ihukommelse, ikke allene i Riim som ginge fra Mund til Mund, men ogsaa i deres eget Slags Skrift som de indgrov i Kampestene og Klipper, saa stærk var deres Drift til historisk Idræt, at havde de ei Pergament, da toge de Stene, og Fjeldvægge gjordes til Tavler! Lad os dog see paa Saxo selv, som sad i de mange Aars Dage og sankede Sagn fra de forrige Tider, og lagde dem ud med stor Besvær paa det fremmede Maal, for at de ret kunde vinde og vare, saa kommende Slægter og Udenlands-Folk dog ei skulde mene, at Dannemark ei havde baaret og avlet Mænd og Bedrifter, Amindelse værd, eller at Folket derinde var nu saa aldeles indsovet, at de gad ei længere mindes de herlige Fædre! Lad os betragte de Islands Folk, den Sagamandsflok med Snorro i Midten, der sagde saa flittig og snildt hvad de kom ihu og bandt det i 
+<pb facs="1815_8_page0020.png"/>
+<fw type="pageNum">XX</fw>
+Riim, og fæstede det saa klarlig paa Pergamentet, at Sønner i mange Leed kunde læse det grandt, ja at vi endnu, efter Aarhundreders Lob, kan læse den gamle Skrift, som de den satte med egen Haand! Lad os dog lytte til Viser og Sagn, og lære hvad Folk vi til" høre! Lad os dog see, at det var en gruelig Tid med Morke og Ondskab, i hvilken man glemde de fremfarne Dage, at aldrig saa snart kom Lyset og Fromhed tilbage, for Folket igien lod den gamle Kiærlighed til Fædres Amindelse kiende! See vi det ei i det klareste Speil paa Saxos og Snorros fordanskede Bøger, kan vi ei mærke, at den Mester Anders og den Peder Klausen, der kunde tale saa kraftig og liflig om gamle For" fædre, de elskede dem og deres Minde tilvisse! Kan vi ei vide, at de vare mange som elskede saa, aldenstund de Bøger ere saa flittig udgangne, aldenstund de Kiæmpeviser gik med, og mangen Bog ligger end beskrevet om gamle Handler, stundom endog med en adelig Jomfrues Finger.</p>
+<p>Visselig, er det da saa, at vi nu agte haant eller ringe om Fædrenes Minde, da er det ingenlunde vor Dydseller Vittigheds Skyld, nei, da er det fordi vi blev dorske og dovne, og gridske paa Verden, og kolde om Hjertet, og blinde for Storhed, og fremmede for vores Fædreneland, for det som er hist og det som er her, og det nytter slet ikke at dølge; thi Dage tale med Dage derom, saa har det været fat med os, saa er det desværre med Mange endnu, men saavidt er vi dog 
+<pb facs="1815_8_page0021.png"/>
+<fw type="pageNum">XXI</fw>
+komne, at mange, kloge af Skade, kan see, at have de end ikke selv den varme og uegennyttige Kiærlighed til, Næste og Fædreneland, saa er det dog Alt et forloret Spil med Oplysning og Dyd, med Land og med Folk, hvis den er forsvundet og kan ikke vindes tilbage.</p>
+<p>Nu, er den da ogsaa Uigjenkaldelig borte, er den nu ginske udslukt og uddød den Hellige Lue, som varmede Fædrenes Hjerte, er den da ganske forsvundet den dybe, igiennem Aartusinder arvede Kiærlighed til Fædre og Fædreneland, til de gamle Dages Ihukommelse?</p>
+<p>Nei, Gud være lovet! det er ikke saa, mat og døende er Luen vist, men udslukt er den ikke, kiølet og sammenskrympet er Nordens Hjerte, men dog ei isnet og forstenet. End er jo Snorro dog en gammel Ven i mangt et Grandelag blandt Fjeldene, ja i de sidste Dage begyndte jo igien Selv blandt Fornemme og Boglærde en liden Flok, kied af vor Tids den tomme, vandede Roman, at tye til Sagabogen og lede Fædres gamle Venner op igien i Støvet og i Borgestue", hvor de vakkre Gamle taalmodig tovede til vores Ruus var Sovet ud og dampet bort, saa vi kom til Befindelse igien. Ja hvem maae være vissere derpaa, end jeg, at Kiærlighed lil Fædrene er end tilbage mangensteds, dog i det mindste, som en dunkel Ihukommelse.' Veed jeg det ei at Faa kun lide, Mange hade Talen som jeg fører om Guds Ord og Tidens Usselhed og store Skyld og Fare, veed jeg det ikke at de kalde mig en 
+<pb facs="1815_8_page0022.png"/>
+<fw type="pageNum">XXII</fw>
+hjerteløs, hovmodig Sværmer, som elsker kun sig selv og sine Griller? Jo, man har serget for, jeg fik det ret at vide, man viser mig et Billede som ingen Djævel skulde skammes ved at ligne og som dog Folk vel sige er mit rette Contrafei. Og dog, ja desuagtet, naar mit Hjerte boledes mod Fortids Dage, naar det rørdes ved de fromme Fædres Ihukommelse, og sank deri med Kiærligheden, det ei maae ødsle paa Synd og Vantroe, og jeg da rørde Tungen i Tale og Sang om de forrige Dage, o da glemdes det slet ikke sjelden hvem det var som talede, da var de slet ikke mange, som medens de Toner klang dem for Øre vilde sige: han som talde kjender, eier ikke Kjærlighed, og dette er for mig det stærkeste Beviis som gives kan, derpaa, at megen Kjerlighed til Fædrene er end tilbage, thi ellers rørdes man ei længer ved den Kjærlighed som ydes dem, ja det er vist, der er i Norden mangt et Hjerte, der kan slaae høit og ædelt, naar først Skorpen giennembrydes som vorde til og hærdedes i onde Dage.</p>
+<p>Men, er det saa, med hvilket Vaaben kan vi da vente, under Guds Velsignelse, at kjæmpe sejerrigest mod Uhyret der stiler paa at isne eller knuse Nordens Hjerte? Hvormed, uden med det der hos os vækker og forstærker alle ædle Kræfter, som hos os omfatter alle gode Følelser, med Fædrenes Ihukommelse! Ja, for mig er det en Vished, at kunde vi, som end rore Tungen, blot rore vore Sødskendes Hjerter saa de bøiede 
+<pb facs="1815_8_page0023.png"/>
+<fw type="pageNum">XXIII</fw>
+sig mod Fædrenes Dage og forlystedes høilig ved deres Minde, da kunde vi glade nedlægge vor Stav, thi da var Fienden endnu engang slagen af Marken med Kiærligheds Vaaben. Og nu dette Vaaben, det sidder aldrig bedre nogensteds end i de Gamles egne Hænder, hvad der da saares skal ikke fige det var personlig Fjendskab som førde Sværdet, hvad som vækkes, størkes og opmuntres, skal blive dobbelt stærk og glad og vaagen ved at føle at Hjelpen kom fra de gamle Dage, fole sig dobbelt vis derpaa at Sandheds Kraft omfatter alle Tider, og at hvad som, trods alle Tidens og Slægtens Omskiftelser, beholder Kraft til liflig at røre og størke, <hi rend="spaced">det er af Sandhed</hi>.</p>
+<p>See, derfor arbeider jeg med Lyst og Glæde paa en Oversættelse af Saxos og Snorros kostelige Krøniker om Fædrenelandet, derfor er det mit inderlige Ønske at disse kunde saaledes udkomme at de vare den Fattige lige saa lette som den Rige at erholde, at disse Veger ei skulle komme i Boghandleres Haand, og derved blive tabte for dem der elske og behøve dem mest, menig Mand, hvis Vilkaar blive hver Dag trangere. Men Selv og Guld, det Haver jeg ikke, og skiøndt det mangengang under saadanne Tanker tykkes mig ønskeligt, saa er det dog selv i dette Stykke godt at være fattig, thi var jeg riig, vilde jeg saare fristes til at undgaae alle Omsvøb og bekoste de Veger alene, og det var ikke ret, thi de Bøger ere med deres hele - Frændebalk et fælleds Arvegods, og hver Manb har 
+<pb facs="1815_8_page0024.png"/>
+<fw type="pageNum">XXIV</fw>
+samme Ret som jeg til efter sine Vilkaar at tage Deel i den Kiærligheds Gjerning, hvorved Arvegodset skiænkes og skiftes til Folket, og har de Gamle ei saa mange Venner end i Nørreland, at de kan villig og sømmelig udstyres paa denne Maade til Vandring paa Slette og Fjeld, da har det slet ingen Hast, da er der vist ogsaa kun Faa, som vilde byde de Gamle ret inderlig, ærlig Velkommen, og til at sidde paa Snyltegjæsttærskel eller bænkes i Krøgen hos Mol og hos Muus, dertil er de Gamle for gode, de skal i det ringeste ingenlunde lære Nulids Maal og klæde sig op for at favnes saa ilde; lad dem kun saa endnu en Stund samle Stov i de lange gammeldags Skjød, til man lærer at kysse dem Støvet af Mund og finder ei meer sit <hi rend="spaced">Gyldenstykke</hi> for godt til at skaffe dem Klæder af Nye.</p>
+<p>Paa anden Dansk, jeg vil, med Guds Hielp, fortfare at oversætte de to gamle Krøniker, Flid uspart, og jeg vil, saafremt det er mig paa nogen Maade mueligt, gjøre det sor hvad man kalder Intet, og nu spørger jeg Danske og Norske, Norske og Danske Mænd, Een for Begge og Begge for Een, om de har saa meget Hjerte i Livet, at de, hvis de finde den forrige Oversættelse forbedret, som den ved Tidens Fremskridt bor være, i min, om de da, hver efter sin Leilighed vil give Noget, for at de krøniker kan snart og sømmelig udkomme, og sælges saa at sige for Intet, ja jeg maa jo lægge til, for at, om der ei er andet 
+<pb facs="1815_8_page0025.png"/>
+<fw type="pageNum">XXV</fw>
+Raad, jeg kan gjøre et Maaltid paa de gamle Karles Kappe mens jeg stræber at lære dem det ny Tungeslag, thi Dansk lærer jeg af dem.</p>
+<p>Men, vil maaskee Nogen sige, hvorfor beder du ikke Nordmænd bekoste Snorro og Danske Saxo alene, da turde man laane dig mere billigt Øre? Ja upaatvivlelig, er mit Svar, men <hi rend="spaced">just derfor giør jeg det ikke</hi>, kan og maae ikke gjøre det. Hver Dag overbevises jeg mere om, at Dansk og Norsk, hvordan det saa gaaer, er og bliver i Aanden et Ægteskab, saalænge der er noget Ægte deri, det have mange, selv af de Bedre, nuomtide glemt, og derom skal de erindres, og kan vel ei mindes bedre derom end ved Snorro og Saxo, der saa aabenbar ere i alle Maader hinandens Fylde, og er der ikke saamegen Ihukommelse af Frændskab tilbage i Landene, at man vil erkjende og elske Fælledskabet der, hvor det er unægteligt, i <hi rend="spaced">Historien</hi>, nu, saa kan jeg ligesaagodt bukke min Ryg fgr et Par Mæcener som for et Par Folk, hvis jeg sætter nogen Priis paa den Ære at see min Overssettblse trykt og maaskee rost og maaskee læst og lagt paa Hylden til den raadner med Hjerterne, de saftløse, troskede Hjerter.</p>
+<p>Men, det har vel dog, med Guds Hjelp, ingen Nod. For Dannemark svarer jeg, at hvem som har Lyst til at hjelpe Saxo paa Fode, forarges vist ikke derover at Snorro følges med, saalidt som jeg kjedes ved at følge ham paa Vei, ja jeg vil sige mere, ligesom 
+<pb facs="1815_8_page0026.png"/>
+<fw type="pageNum">XXVI</fw>
+jeg var mere end halv færdig med den egenlige Snorro, fer Saxo faldt mig ind sor Alvor og lagde mig saa at sige en af de Danskes gamle Runestene, som vi omtalte for, paa Hjerte, saaledes er jeg vis paa det skulde ej koste mig stort at faae Snorro udgivet uden Norges Hjelp, men kanskee mere at faae Saxo frem, naar jeg, at sige, ikke først veltede ret den omtalte Steen fra mit paa Danmarks Hjerte, thi da havde det vel ingen Fare.</p>
+<p>Men nu Norge! Ja, hvad skal jeg sige, jeg har jo alt længe mærket, og sagt jeg mærkede, at <hi rend="spaced">Agdes</hi> Øre bøiede sig lidt storagtig fra <hi rend="spaced">Vendils Tunge</hi>, og det var i de sidste Dage endda ikke saa lidt, og Gerhard Schønning var ikke den eneste Nordmand som pegede Fingre ad Saxo, hvis Sagn dog syntes ham ret gode at stoppe Huller med i Landfedgatal, naar de kun lod sig flytte over Havet, og fik sig Granestylter for Fuglevinger og Brum for Sang; jeg veed det meget vel, at man i Norge beloe Saxo, mens man i Dannemark ophøiede Snorro, jeg veed det Alt og meget mere, som jeg nødig gad hørt, jeg veed det godt at de kiære Nordmænd er et haardt Folk, og bære baade Hierte og Næse en god Deel høiere end vi, og end det er tilbørligt, men jeg veed ogsaa at ere Nordmænd, at sige de jeg kalder ægte Nordmænd, end tit ei gode just at <hi rend="spaced">faae i Tale</hi>, saa er det og kun derom det giælder meest med dem, thi faaer man dem i Tale, da 
+<pb facs="1815_8_page0027.png"/>
+<fw type="pageNum">XXVII</fw>
+er det og Folk med hvem man kan tale sig til Rette, og bøie de sig kun til at hore, da lade de og Hjertet synke, og da finder Sandheds Røst det paa sit rette Sted. Nu, var det min Hensigt at lokke Penge fra</p>
+<p>. de Nordmænd til Saxo eller mig, da var det flet ikke svart, men da talde jeg ei heller, som jeg taler her, men efterdi nu det er ikke Sagen, men Sagen er at fole dem paa Hjertet, see derfor taler jeg saa frit, det er ei Tiggerbørn og ei Skiftinger, det er ei Vandsnak eller Barnepjat, ei Krap eller Tangsalt hvis Sag jeg taler her, men det er Fædrenes kongelige Sendebud, det er Saxo og Snorro, der staae med Favnen fuld af Fortids Guld, af herlige Klenodier som de vil skiænke, naar kun Dørene oplades, det er disse Adelsmænd, som trænge ei til Nogen, som naar de ei af Kiærlighed til en vanartet Slægt lod sig bevæge til en Aftenvanbring over den vindaabne Mark og de iisklædte Fjelde, kunde anderledes hvile sig paa deres Laurbær end vor</p>
+<p>Tids priste Veteraner og Kiæmper, der mod dem ere Grønskollinger og Dværge, der først maae med dem giennemleve et halvt Aartusinde, styrke, undervise og glæde Millioner, for de naae deres Skuldre; det er saadanne Svende hvis Ærende jeg røgter, i hvis Navn jeg taler, og flet maatte jeg kiende mine Folk, om jeg vilde tigge dem Huslye med sledske Ord, staae krum med Hat i Haand for at sange den usle Skilliug, der dog vel ei kan fare bedre end med saadanne Riddersmænd, for hvem hver en Ædling boler Hovedet, naar 
+<pb facs="1815_8_page0028.png"/>
+<fw type="pageNum">XXVIII</fw>
+han faaer Syn paa Frodes Guldring, og paa Hellig Olavs Hvide Skjold.</p>
+<p>Og nu, Farvel for dennesinde, Danske, Norske Mænd! @@beders Svar paa denne Tale venter jeg med Længsel mellem Frygt og Haab, men rolig dog, fordi jeg har et bedre Haab, som aldrig svigter. Eders Svar, thi Svar maae I give, Tavsded var et himmelraabende Svar, eders Svar, siger jeg, bestemmet foruden det som mere er, hvad og hvordan jeg herefter skal tale til Eder, hvem af Eder jeg tor tiltale venligst, thi den som paa et saadant Spørgsmaal i saadanne Ord svarer mildest, er visselig min nærmeste Frænde.</p>
+<p>Tykkes Eder nu at jeg skreeg for høit, eller huggede for hardt, nu saa lukker dog ei derfor gamle Venner Eders Øre! de kan dog ei derfor, nu da de maae laane sig en Tunge, om den de langt om længe fik er lidt uartig, og I kan troe at i en saa vanartet Tid er. det just ei saa nemt at føre eller sinde Tunger som ere ærlige og rørige og derhos altid hvad man kalder artige og fine. Og naar I, som jeg haaber dog, forlystes ved de gamle Svendes Tale, tilgiver mig da min Uartighed for deres Skyld, og husker saa at det var netop kun for deres Skyld jeg talde, at det var kun til deres lunkne og glemsomme Venner jeg talde et Par haarde Ord, thi hvem der har dem rigtig kjær, han taler med dem selv, og det forarger ham slet ikke hvad jeg siger saa ved Siden til de Andre. Vil I følge dette Raad, da tænker jeg I lukke vel 
+<pb facs="1815_8_page0029.png"/>
+<fw type="pageNum">XXIX</fw>
+den lille Bog med den Bemærkning at der i Grunden ei er saare meget at tilgive mig i dette Stykke. De Sagn de Gamle har i Dag at føre er ikke just de muntrefte, men I kan sagtens tænke de Gubber blev ei muntre ved det Selskab de har for det meste havt nu i den sidste Tid, de vilde endelig fortælle hver sit Sørgespil, og man bør føie slige gamle Folk i Alt hvad muligt er, ei blot fordi man ellers støder dem der fik kun alt for mange Stod i Verden, men og fordi de er en god Dag ældre og en god Deel klogere end vi. Lytter kun til Sørgetalen og I skal da fornemme, hvis I ikke veed det alt, at der er dog en Veemod lil som kun en Daare kunde bytte bort for al Verdens Flyd og Glæde. Seer saa til at I kan muntre Gubberne, og jeg tor love for de muntres, naar I lytte stille, venlig til Sagnene fra deresjunge Dage, og bede dem saa kjønt fortælle meer, og ikke vredes over at I saa længe har forsømt at lade Bret til, hvor der stod Sagamænd tilrede, som havde siige vakre Sagn at fere! Ifald I tjene Eder selv i dette, da vil jeg sagtelig tilføie at jeg er dermed ogsaa tjent, thi jeg tør vædde paa at blive I først gode Venner med disse gamle Dannemænd, da vil de tale saa min Sag, at I betænke Eder for I domme mig saa reent fra Sands og Kjærlighed. See, det er Egennytten, som I vel kan tænke jeg har min Deel af saavelsom I, og jeg vil skrifte ærlig, for, om det er muligt, ikke at be, skyldes for <hi rend="spaced">den Egennytte</hi> som er Tidens Orm, og 
+<pb facs="1815_8_page0030.png"/>
+<fw type="pageNum">XXX</fw>
+min dødelige Fjende, som I blot kan deraf vide, at jeg beder Eder giemme saa paa Fædres Ihukommelse og Kjærlighed, som det er aabenbart den Orm har ret sin Glæde og sin Næring af at gnave og fortære.</p>
+<p>Hvad jeg nu ved denne Leilighed har om min Oversættelse at sige, er kun saare Lidet, men bor dog ei forties. Ikke engang mine egne Ønsker har jeg nær opfyldt, altsaa vel mindre Andres, men deres billige Fordringer, som kiende Arbeidets Vilkaar, haaber jeg at have tilfredsstillet. Det er ikke her Sagen at levere en saadan ordret Oversættelse, som for Historikeren kunde tjene i Grundskriftets Sted, et Arbeide, som om det ogsaa var mueligt, dog ei vilde være Umagen værd, da Ingen bør vove sig lil at være nordisk Historieskriver, uden selv at forstaae saavel Islandsk som Latin. Her er det Hovedsagen at levere de gamle Skrifter i deres eiendommelige Aand, i et let, fatteligt og trohjertigt Sprog, jo nærmere man kan holde sig til Grundskriftets Ord, Vendinger og Talemaader des bedre; thi des troere og fuldstændigere et Billede leverer man, men i Nødsfald skal man lade fare hvad der ei er vigtigt og ei lader sig forene med de ypperste Fordringer. Saaledes tænkde Anders Sørensen og Peder Klausen, og uden den Tænkemaade havde Folket maattet undvære al det Gavn og den Glæde, disse Ædlingers Bøger have skiænket, saaledes tænker ogsaa jeg, ellers maatte jeg lade Arbeidet fare, og jeg lader mig hverken standse ellet nedslaae, men glæder mig 
+<pb facs="1815_8_page0031.png"/>
+<fw type="pageNum">XXXI</fw>
+meget mere ved den Vished, at ligesom jeg seer mig i Stand til, uden Opoffring af det Vigtigste, at komme Grundskrifterne nærmere end mine Forgiængere; saaledes vil, med Guds Hjelp, efter nogen Tids Forlob, en Anden kunne giøre ogsaa i denne Henseende mere end jeg. Lever derimod nu i Norden Nogen, som kan og vil giøre det bedre, da aftræder jeg ham villig Arbeidet, men gives der ingen saadan, da kan jeg med Billighed forlange, skiøndt ei med Rimelighed vente, af de Boglærde, at de uden at fordre den Fuldkommenhed af mit Arbeide, jeg ei kan give og er saare langt fra at tillægge det, optage det mildelig, som et lidet Afdrag paa min store Gield, til det inderlig elskede, velsignede Fædreneland.</p>
+<p>Hvad jeg især kan vente af Somme udlagt til det Værste, er vel den Maade, hvorpaa jeg har behandlet og oversat Versene, saavel de islandske som latinske, thi med dem har jeg ikke taget mig saa liden Frihed; men uagtet jeg maaskee ikke kan overbevise alle dem jeg ønskede om mine Grundes Vægt, er jeg dog slet ikke bange, thi jeg er mig modent Overlæg bevidst, og jeg har med min gode Villie hverken gjort Versene eller Læserne nogen Skade.</p>
+<p>Ikkun for at Ingen skal med Føie troe, at jeg er gaaet videre i Friheden end sandt er, og heller ingen sige, at jeg vil dølge hvad jeg har gjort, kan derfor vil jeg saa klart og bestemt som jeg i Korthed kan, 
+<pb facs="1815_8_page0032.png"/>
+<fw type="pageNum">XXXII</fw>
+angive den rette Sammenhæng, og da lade hver dømme, som han har Forstand og Villie til.</p>
+<p>Stor, ja engang for stor, Ærbødighed har jeg stedse havt sor alle Mindesmærker fra Hedenold, og at forbytte eller forvanske dem kan da vist ikke være i min Aand, ikke heller skal den Kyndige lettelig sinde noget Træk i <hi rend="spaced">Indholden</hi> af de oversætte Riim, som ei sindes i de gamle; men hvad derimod Formen angaaer, har jeg brugt al den Frihed jeg ansaae nødvendig; for efter Evne at giøre dem til ligesaa virkelige nydanske, som de sees eller kiendes at have været gammeldansks Digte. Jeg mener nemlig det er klart, at saa megen Vigtighed den gamle Versebygning, ja tildeels alle Vendinger og Udtryk have for Historikeren, saa skal dog Oversætteren især af Versene i en Folkekrønike, see langt mere paa, at de, uden at tabe deres Aand og Indhold, beholde Livlighed og Velklang, om han end derfor tit maae bruge andre Ord og Vendinger, giøre dem snart kortere og snart længere end dem han har for sig. Dette er især nødvendigt hos Snorro og Saxo; hos Snorro, fordi de fleste Vers han, meest sam historisk Hjemmel, har anført, ei have andet poetisk Værd, end enkelte Billedudtryk og vittige Vendinger, som ligefrem oversætte, vilde tit enten ganske tabe sig eller dog gaae forlorne for de fleste Læsere; hos Saxo, fordi han synlig har snart forlænget, snart forkortet, og næsten altid udsmykket de gamle Vers, deels for at faae dem knebne i et romersk Verft-
+<pb facs="1815_8_page0033.png"/>
+<fw type="pageNum">XXXIII</fw>
+maal, og deels for at giøre dem, efter hans Tanker mere poetiske. Kan eller vil nu en Oversætter ei gaae omtrent den Vei jeg har valgt, da maae han enten, som Peder Klausen- udelade Versene, eller som Anders Vedel, give deres Indhold i Prosa, eller, som Snorros Folioudgave, levere noget, Faa kun forstaae og Ingen gider læst. I den første Deel af Snorro, ligetil Olav Tryggesens Døb, anvendte jeg megen Tid og Flid paa at oversætte de mærkeligste Vers næsten ordret med Riimstaven, men, selv hvor det lykkedes bedst, saae jeg dog at de fleste Læsere, og Versene selv vare kun slet tjente dermed, jeg tog derfor Steen i en anden Haand, og, uden paa nogen Maade at ville nægte, hvad jeg selv ønsker og haaber, at det kan lykkes en anden bedre at forene Klarhed, Liv, Velklang og Nøiagtighed, tør jeg sige, at jeg ingen Flid har sparet, men prøvet alt og valgt efter bedste Skiøn, lad saa Dadlerne giøre det bedre *)! De velvillige Læsere haaber jeg derimod at fornøic især ved Synetaf de gamle danske Vers, som jeg vel ei har kunnet</p>
+<p>*) At der alt imellem sindes Ord i de Snorroske Vers som jeg ikke forstaaer og derfor maae enten overspringe eller give efter Giætning, vil jeg ikke heller fortie, og Skylden er ikke min; men deels de gamle Skjaldes, der ikke bedre har betænkt vor Leilighed, deels Deres Ver ei have udgiver den gamle Olavii Arbeide, hvis det ellers, som man af Snor" ros Folio " Udgave dog ikke skal slutte, er synderlig bevendt.</p>
+<pb facs="1815_8_page0034.png"/>
+<fw type="pageNum">XXXIV</fw>
+<p>give hvad de af Fylde tabde under Saxos Haand, men som jeg dog med Hjiertensfryd har udløft af det latinske Snørliv og Krumlæg, saa de igien kan trække Veiret frit i Fædrelandets Luft, og rette Benene i</p>
+<p>Lov! saadanne ærlige, velvillige Dannemand, der ei kløve Haar, men tage til Takke med hvad en ærlig Mand giver saa godt han det har, dem, og ei de selvgjorte Lærde og Kloge med Sværtekrukken og Roestrompeten, ønsket jeg at tækkes. Lad dem kritikakle og mønstre og rynke Næse, det er hvad de kan, saa lad hver giøre Sit! i Guds Navn giør jeg Mit, og paa hans Velsignelse stoler jeg ene. Kjøbenhavn den 20de August 1815.</p>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+<fw type="graphic"/>
+</div>
+<div> 
+<pb facs="1815_8_page0035.png"/>
+<fw type="pageNum"></fw>
+<fw type="graphic"/>
+</div>
+<div>
+<head>Hellig Olavs sidste Dage.</head>
+<head>(Af Olavø Saga. Kap. 208-240).</head>
+<fw type="graphic"/>
+<p><hi rend="initial">O</hi>m Vaaren mens Kong Olav tøvede i Sverrig, havde han fine Speidere inde i Norge, og de kom alle hjem med den Beskeed, at det var en farlig Sag at færdes der, og raadte ham med een Mund fra at drage ind i Landet; men han blev dog ikke desmindre ved sit Forsæt, et hjemsøge Norge, og spurgde Kong Ønund, hvad Regning han kunde giøre paa hans Hjelp til at indtage sit Odelsrige? dertil svarede Kong Ønund, at Svenskerne var ikke meget for at nappes med de Norske, thi, sagde han, vi veed det alt for godt, at det er haarde Halse og dygtige Karle, saa det Lands Folk er ikke godt paa Strid at giæste; see, derfor skal jeg nu med eet Ord sige dig hvad jeg vil giøre, jeg vil flye dig 
+<pb facs="1815_8_page0036.png"/>
+<fw type="pageNum">2</fw>
+Firehundrede Mand, Karle udaf Vælten, de raskeste Svende jeg har i min Gaard, med Hjelm og med Brynie, og saa desforuden giver jeg dig Lov til at hverve i mit ganske Land saa mange som du kan, og som har Lyst til at giøre dig Selskab. Dette Tilbud tog Kong Olav imod, og lavede sig derpaa til Reisen; men sin Dronning Astrid og sin Daatter Ulfhild vilde han lade blive i Sverrig. Der nu Kong Olav var rejsefærdig, gav han sig paa Nei med de fire hundrede Mand som den svenske Konge lod ham faae, og drog afsted med svenske Veivisere op igjennem Landet til Skovene. Han kom da saaledes til Jarnberaland eller Dalekarlien, og der stødte det Mandskab til ham, der, som sagt, var uddraget af Norge sor at modes med ham, og her fandt han da baade sin Broder Harald og mange andre gamle Venner, saa det var et glædeligt Mode tilgavns, og nu havde Kongen i alt tolv hundrede Mand. Fleer fik han snart, og det fra en Mand, heed Dag, som skal have været en Søn af den Kong Ning, Olav havde gjort landflygtig, og man siger at Ring var en Søn af Dag Ringsen og en Sønnesøns af Harald Haarfager, saa Dag var i Slægt med Kong Olav. Ring og hans Son havde sat sig ned i Sverrig og faaet Lehn i Landet; og der nu Kong Olav var om Foraaret' 
+<pb facs="1815_8_page0037.png"/>
+<fw type="pageNum">3</fw>
+kommet fra Østerleden der til Lands, havde han skikket Bud til Dag, om han vilde gjøre ham Følgeskab til Norge med al den Magt han kunde udrede, paa de Vilkaar, at dersom de fik Overhaand i Landet, da skulde Dag vorde ligesaa mægtig der, som hans Fædre for ham. Dag var ingen dybsindig Mand, ham var det første Indfald det bedste, og hans Hjerte laae paa hans Tunge; men han var rask i Færd og bold i Kamp; derfor klang Kongens Ord godt i hans Vre, og Hjemvee betog ham, saa han fornam stor Hjertens Attraae efter Norge og Odelsriget som hans Fædre havde fordum styret, han sva-, rede da brat som Kongen bad, sankede Folk, og stødte med saa omtrent Tolvhundrede Mand til Kong Olav. End ydermere lod Kongen giøre vitterligt i hver en Bøigd, hvor han kom frem, at hvem der havde Lyst til Bytte og til at arve Kongens Fjender, skulde kun komme og gjøre ham Følgeskab; og paa den Maade fik han en stor Hob Iøse Folk og Røvere imellem. Imidlertid fortsatte han sin Reise giennem Skovbøigden, alt imellem over Ødeland, og de maatte bære eller slæbe Færger med sig, for de mange Vandes Skyld som var i Veien. Saaledes kom han da til Jemteland, og saa fort videre ad Kjølen til, og mangt et Sted hvor han han slog sin Leir, har derved siden saaet 
+<pb facs="1815_8_page0038.png"/>
+<fw type="pageNum">4</fw>
+Navn af Olavsbølle. Al den Stund han nu drog op igjennem Bøigderne hvor ingen Fare var paa Færde, adspredtes Folket vidt og bredt, men naar Haeren skiftedes paa flere Veie, da fulgdes Nordmændene med Kongen ad den ene Vei, Dag var for sig selv med sine Folk, og Svenskerne for sig i den tredie Flok.</p>
+<p>Ved denne Leilighed fortæller man om to Karle, ved Navn Gauka-Thore og Afar-Faste, de var Brødre de samme, større og stærkere end Folk er flæst, og fattedes hverken for Mod eller Dristighed, men det var de argeste Røvere og Stiemænd der kunde være til, og som de var Herrer, saa fulgde dem Svende, tredive Karle i Flok. De hørte nu ogsaa tale om den Hær som drog igiennem Landet, og snakkede om imellem sig selv, at det kunde være et godt Indfald nu at drage til Kongen, og følge ham hjem i sit Land, og forsøge sig engang i et ordentligt Feldtslag, thi de havde aldrig været med hvor man sloges paa Krigsmaneer, og vare nysgierrige efter at see Kongens Slagorden. Det Indfald huede deres Følgesvende, og de droge da samtlig afsted for at sinde Kong Olav. Da de nu kom derhen, stædtes Brødrene for Kongen med samt deres Følge i fuldeste Rustning, og hilsde paa ham. Han spurgde, hvem de var, og saa 
+<pb facs="1815_8_page0039.png"/>
+<fw type="pageNum">5</fw>
+sagde de hvad de heed, og at de havde hjemme der i Landet, tilmed sagde de og deres Ærinde, at de vilde gjerne følges med Kongen. Kongen svarede, seer jeg ret, da er I Karle sor jer Hat, og saadanne Folk, sagde han, er mig altid velkomne, men, sagde han saa, I er dog vel christne Folk? Nei, sagde Gauka-Thore, jeg er hverken Christen eller Hedning, jeg, og vi Kamerader har ingen anden Troeend den, at vi troer paa os selv, og saa paa vor Styrke og gode Lykke, og det slaaer vi os ret godt igiennem med. Da er det stor Skade, svarede Kongen, at saa duelige Krigsmænd ikke troe paa Christ, deres Skabermand. Men Konge! sagde Thore, har du da i hele dit Selskab en eneste christen Mand, der er groet bedre af Skarnet end vi Brødre? Lad I jer nu døbe, sagde Kongen, og annammer den sande Troe! saa maae I følges med, og jeg skal give eder Hæder og Ære; men vil I ikke det, saa gaae I kun tilbage til eders gamle Haandtering! Afar-Faste svarede, at han vilde ingen Christen være, og dermed gik de; men Gauka-Thore sagde: det er dog en stor Skam og Spot den Konge gjør os, at han vil jage os fra Hæren, det timedes mig dog aldrig for, at jeg ikke maatte gaae i Lag med andre Folk, hvor jeg saa kom, og gaae bort med den Beskeed, det gjør jeg ingenlunde. Saa slog 
+<pb facs="1815_8_page0040.png"/>
+<fw type="pageNum">6</fw>
+de sig i Selskab med de andre Fribyttere *) og fulgde Hæren, som nu drog Vester paa ad Kiøle" til.</p>
+<p>Der nu Kong Olav drog over Kislen og kom paa Vesteraasene, saa Landet laae derunder vidt udbredt for hans Øine, da reed hani sine egne Betragninger og stirrede ud over Landet, medens Hæren foer som den kunde, Nogle for og nogle bag efter Kongen, men alle et godt Stykke borte. Kongen var stille, og reed til langt op ad Dagen uden hartad at see til en Side, han talde til Ingen og Ingen til ham. Endelig reed Bispen hen og talde til ham, og spurgde hvad han grublede paa og hvi</p>
+<p>*) <hi rend="latine">Markamenn</hi>. Det kunde synes tvivlsomt om Ordet her betyder Revere eller Indbyggere af de saakaldte Markir nordvest i Sverrig; men da det unægtelig har den første Betydning, Kapitel 230, bliver vel det valgte Ord det bedste. At ellers Ordet Markamenn og det maaskee i begge sine Betyduninger turde have nogen Sammenhæng med <hi rend="spaced">Markomanner</hi>, hører til hvad man kalder mine historiske Grillenfængerier, hvormed jeg naturligviis ikke vil brodere Menigmands Snorro, men jeg siger det kun her sor at glæde Vedkommende, ligesom det Forrige, for at spørge om et godt Raad i Tide.</p>
+<pb facs="1815_8_page0041.png"/>
+<fw type="pageNum">7</fw>
+<p>han var saa tavs; thi Kongen pleiede ellers paa Reisen at vare munter og snaksom med sine Folk, saa det var en Glæde at være ham nær. Da svarde Kongen med stor Alvorlighed, jeg har nu en Stund havt et forunderligt Syn; thi ret som jeg reed og saae ned af Fjeldet ud over Norge, faldt jeg i Tanker om al den Glæde jeg havde havt i det Land saa mangen god Dag, og saa kom det mig for som om jeg saae ud over hele Trøndelagen, og dernæst over alt Norges Land, og jo længere Synet stod mig for Bie, des videre faae jeg, saa at tilsidst laae den hele vide Verden med Land og med Vand aabenlys for mig, jeg kunde rivelig*) kiende alle de Stæder igien hvor jeg havde været, saavel som dem man havde fortalt mig om, men den hele vide Verden med alle de Bøigder og Ørkner som jeg havde aldrig vidst noget af at sige, var mig dog ligesaa velbekiendt som det andet. Da sagde Bispen, at det var et helligt og saare mærkværdigt Syn.</p>
+<p>*) Man skienke mig Ordet, det er en Sjælandsfar som jeg er selv, og bruges kun i denne ene Betydning, beslægtet med det islandske riufa, at adskille, vedrid er rofid, Veiret har klaret sig, Skyerne skilt sig ad.</p>
+<pb facs="1815_8_page0042.png"/>
+<fw type="pageNum">8</fw>
+<p>Som nu Hæren drog ned af Fjeldet, slaae der en Gaard paa deres Vei som heed Sule, og var den øverste Gaard i Værdalen. Veien til Gaarden gik igiennem en Kornmark, og Kongen formanede sine Folk til at fare varligen, saa de ingen Skade gjorde Bondens Korn, det gik da ogsaa godt saalænge Kongen var i Nærværelsen; men de Flokke som kom bagefter, brød sig om ingen Ting, og trampede hele Marken saaledes til, at Kornet laae langs hen ad Jorden *). Bonden som der boede, heed Thorgeir Flek, og havde to karlvorne Sønner, og han tog godt baade imod Kongen og hans Folk, og sagde, at alt hvad han Havde var til Tjeneste. Kongen takkede ham, og spurgde hvordan det stod til i Landet, og om der var gjort nogen Opstand imod ham. Thorgeir fortalte da at der var en stor Hob Folk janket i Trøndelagen med mange Herser og Lehnsmænd, baade sonder fra Landet og nør fra Halogaland, men, sagde han, om de har i Sinde at gaae imod</p>
+<p>*) Hos Peder Klausen staaer: da komme de <hi rend="spaced">Svenske</hi> og traadte Kornet ned i Jorden. Om han har havt en anden Læsemaade eller kun et Horn i Siden paa det Slags Folk, skal jeg lade være usagt.</p>
+<pb facs="1815_8_page0043.png"/>
+<fw type="pageNum">9</fw>
+<p>Eder med den Hær eller de har noget andet sor, det veed ikke jeg. Siden klagede han sin Skade for Kongen og sagde ham hans Folks Uskikkelighed, at de havde traadt og trampet alt hans Korn omkuld. Kongen svarede, at det var ilde man havde gjort ham den Fortred; og siden reed Kongen selv ud paa Marken, og saae at alt Kornet var ganske rigtig traadt ned i Jorden ; men saa reed han Ageren rundt og sagde, jeg har den Troe, Bonde! at vor Herre opretter dig din Skade, og inden Ugen er omme, kommer Ageren sig nok. Det var heller ingen Legn hvad Kongen sagde, der blev det deiligste Korn af Verden. I den Gaard laae da Kongen om Natten, og om Morgenen da han vilde bryde op, bad han Thorgeir Bonde følge med sig. Thorgeir tilbod ogsaa Kongen begge sine Sønner, men han sagde Nei, dem vilde han ikke have med, Knøsene derimod vilde med, og det hjalp ikke alt hvad Kongen bad dem blive; saa vilde hans Hirdmand bundet dem, men da Kongen saae det, sagde han: nei, lad nu fare dem, de kommer saa dog vel hjem igjen, og det gik rigtig med de Knøse, som Kongen spaaede.</p>
+<p>Herfra gik Kongen med Hæren til Stav, da han kom til Stavsmyre gjorde han Holdt, og der fik han vis Beskred om at Bønderne føre med 
+<pb facs="1815_8_page0044.png"/>
+<fw type="pageNum">10</fw>
+Avindskjold imod ham, saa at et Slag maatte være nær forhaanden. Da mønstrede Kongen sin Hær, og ved Mandtallet befandtes at der var over tredive hundrede Mand, men deriblandt ni hundrede Hedninger. Der det kom for Kongen, bad han dem lade sig døbe, og sagde, at han vilde ingen Hedninger have med sig i Slaget, til Hærens Mangfoldighed, sagde han, skal Ingen slaae Lid, men <hi rend="spaced">paa Gud skal vi stole</hi>, thi hans Kraft og Miskundhed raader for Seieren, og jeg vil ikke blande mine Mænd med hedenske Folk. Der nu Hedningerne det hørte, da beraadde de sig derpaa med hinanden, og Enden blev at sire hundrede Mand lod sig døbe, men fem hundrede forsmaaede Christendommen og vendte tilbage til deres Sted. Da treen de Brødre Gauka-Thore og Afar-Faste frem med deres Følge, og tilbod Kong n deres Tjeneste endnu engang. Kongen spurgde om de da nu havde ladet sig døbe? og da Gauka-Thore svarede Nei dertil, sagde han igjen at de skulde annamme Daab og Christendom, eller i andet Fald gaae deres egen Gang. De gik da og taldes ved om hvad Raad de helst skulde gribe til. Da sagde Afar-Faste, hvad mig angaaer, da maae jeg sige, hjem gaaer jeg ingenlunde, og med i Slaget vil jeg, men paa hvis Side det derimod skal være, det 
+<pb facs="1815_8_page0045.png"/>
+<fw type="pageNum">11</fw>
+synes mig kommer ud paa Eet; Nei, sagde Gauka-Thore, skal jeg med l Slaget da vil jeg være paa Kongens Side, thi han trænger haardest til Folk; og skal jeg troe paa en Gud, kan jeg jo ligesaa godt troe paa Hviden Christ som paa en Anden, derfor skal det være mit Naad, at vi lade os døbe, siden det er Kongen saameget om at gjøre, og gaae saa med ham i Slaget. Derom bleve de da alle enige, gik til Kongen, og sagde, at nu vilde de lade Sig døbe, og der det var gjort, beskikkede Kongen dem iblandt sine Hossinder, og Sagde, at de skulde være under hans eget Banner i Slaget.</p>
+<p>Derpaa holdt Kongen en Tale til Folket, og sagde: vi har nu her tilstæde en Krigshær baade stor og strag, og nu vil jeg gjøre alle vitterligt, hvad Orden og Skik jeg vil have blandt Folket. Midt i Hæren lader jeg mit eget Kongebanner vaie, og dertil skal høre først mine Hirdmænd og Gjæstesvende, dernæst det Folk som kom til os fra Opland, og endelig de som have mødt os her i Trøndelagen. Paa den høire Haand af mit Banner, skal Dag Ningsen lade sit Banner reise, og have hos sig alt det Mandskab han bragde os til Undsætning; men paa den venstre Haand skal den Svenske Konges Hjelpetropper staae med deres Banner, og have hos sig alt det Folk der strømmede til os i 
+<pb facs="1815_8_page0046.png"/>
+<fw type="pageNum">12</fw>
+Sverrig. Fremdeles er det min Villie, at Hæren skiftes i visse Selskaber, saa Frænder og Kyndinger blive sammen, thi de skal ei saa lettelig svigte eller tage Feil af hinanden. Saa skal og hver Mand giøre et Kiende paa Hjelm og Skjold, og skrive deri med Bleghvidt, det hellige Korsens Tegn, saa vi have eens Skjoldemærke; og naar vi gaae i Slag, da skal vi og have eens Mundheld, og det skal være: Fram, fram, Christmænd! Korsmand! Konningemænd!</p>
+<p>For Resten, da eftersom vi har mindst Mandskab, komme vi til at fylke tyndt; thi omringe os maae Fjenden ingenlunde. Deler jer nu selv af i Selskaber, og hvert Selskab skal have sit visse Rum i Fylkingen, saa hver kan vide sit Stade, og han maae da selv passe vel paa, hvor langt han skal være fra det Banner han hører til; Ingen maae vige fra sin Fylking eller lægge sin Rustning Nat eller Dag, førend vi veed til hvilken Side det skal blive med os og Bondehæren. Der nu Kongen havde udtalt blev Krigshæren flux skiftet og skikket i Orden, alt efter hans Ord og Villie.</p>
+<p>Imidlertid kom de Mænd tilbage, som Kongen havde udskikket i Herredet for at opdrive Krigs-
+<pb facs="1815_8_page0047.png"/>
+<fw type="pageNum">13</fw>
+folk, og de lom med den Beskeed, at saavidt som de havde faret, var Boigden mest øde for vaabenført Mandskab, thi alting var strømmet til Bondehæren, og hvor de imellem fandt Folk, fik de dog kun en daarlig Trost, thi Svaret var for det meste, at de fad netop hjemme fordi de vilde ingen af Parterne hjelpe, de vilde ikke slaaes med Kongen, men ikke heller med deres egne Frænder. Der nu Kongen saae, at det var ubetydeligt hvad Hjelp han fik paa den Maade, da sammenkaldte han sit Folks Høvedsmand til Husthing, og spurgde dem til Raads om, hvordan man nu bedst skulde stile sin Sag. Find Arnesen tog Ordet, og svarede Kongen saaledes: jeg veed nok, sagde han, hvordan vi skulde bære os ad, naar jeg maatte raade, vi skulde kun fare frem med Hærgeskjold fra Bøigd til Bøigd, plyndre for Fode, Rub og Stub, og brænde hvert Huus saa omhyggelig af, at der blev hverken Stikke eller Stage igjen. Det var-Løn som forskyldt til de Landsforrædere, og jeg skulde mene at mangen Een fik lidt Hjemvee, naar han saae Røg og lys Lue over sin Gaard, og kunde ikke vide saa lige, hvordan det gik med Kone og Børn, eller gamle Forældre og andre Frænder. Og er der lun saa først nogen, siger han, som raader tit Hjemlov, da tænker jeg ver gaaer snart Hul paa 
+<pb facs="1815_8_page0048.png"/>
+<fw type="pageNum">14</fw>
+Fylkingen; thi nybagt Naad er Bondeganning *) Denne Finds Tale blev saare vel optaget af de andre; thi der var mange som huede godt at der blev noget at siske, og alle var de enige om, baade at det var godt nok til Bønderne, og at det udentvivl vilde gaae som Find sagde, at Bondehæren splittedes ad. Thormod Kulsvier-Skjald gjorde ogsaa flux følgende Riim:</p>
+<lg>
+<l>Fram vi gaae med Staal og Bue,</l>
+<l>Freidig vi om Kongen værge.</l>
+<l>Over Tag den røde Lne</l>
+<l>Lyse skal som Bavn paa Bjerge.</l>
+<l>Brænde hid, og Baal i Flamme!</l>
+<l>Thrønderne skal vorde tamme,</l>
+<l>Og for Brynde fange Svale,</l>
+<l>Svale Kul for Bur og Sale.</l>
+</lg>
+<p>Men der Kong Olav mærkede Folkets Hastighed, da slog han til Lyd, tog Ordet og sagde: visselig have Bønderne ei bedre fortjent, end at</p>
+<p>*) Jeg veed ikke om <hi rend="spaced">Ordet Ganning</hi>, som betyder, hvad man finder stor Behag i, bruges uden i Iylland; men jeg veed ei heller noget an" det passende Udtryk, og bruger derfor Ordet frit paa et Sted, hvor det forstaaes af Sammen" hænge". Ventelig kommer det af Gane, og svarer da ret til Romerens palato arridet.</p>
+<pb facs="1815_8_page0049.png"/>
+<fw type="pageNum">15</fw>
+<p>det skulde gaae efter eders Villie; I veed ogsaa jeg har gjort saa meget før, baade brændt dem Huus over Hoved, og tugtet dem paa andre Maader strængelig; men det gjorde jeg dengang, fordi de vare faldne fra Troen og toge Hedenskabet op igjen og vilde ei lyde mine Ord, med at lade Afgudsdyrkelsen fare. Dengang var det altsaa Guds Sag vi havde at forfægte, men den Herresvig de have nu begaaet, ep ingenlunde dermed at ligne, thi det er kun mig de have sveget. Vist nok skikker ogsaa dette sig kun slet for Mænd med Ære i Livet; men ikke desmindre maae jeg finde det sømmeligt at fart lidt læmpeligere med dem nu, da de kun have forbrudt sig mod mig, end før da de vilde stimes med Gud. Det er da min Villie, at I fare fredelig frem og intet Hærværk øve; thi jeg vil først tales ved med Bønderne, og kunde vi komme til Forlig, da faae jeg det helst; men vil de endelig slaaes, da skeet jo Eet af To, enten falde vi i Slaget, og da er det klogest ei at fare heden med Rov, eller vi seire, og da ere vi de Mænds Arvinger som stride imod os; thi hvad enten de saa falde eller flye, have de at deres Odel og Eie forbrudt. See, da er det godt at gaae ind til pæne Huse og til fuld Besætning, da Ingen derimod har Nytte af hvad Ilden nyder, og der er ingen Velsignelse ved Rov, 
+<pb facs="1815_8_page0050.png"/>
+<fw type="pageNum">16</fw>
+det meste gaaer til Spilde. Nu vil vi brede os i Bøigden, hver haandfast Karl vi finde, tage vi med os, og Folket skat have Lov til at tage Slagtenød og anden Kost til Nødtørft, men de maae ellers ingen Skade gjøre, dog har jeg Intet der imod, at man slaaer Bondespeiderne ihjel, naar man kan træffe dem. Dag med sin Trop skal gaae norden om igiennem Dalen, mens jeg følger @@Landev in, men i Aften skal vi mødes og have Natteleie sammen.</p>
+<p>Derpaa brød Kongen op og drog ind ad Dalen til, den ganske Dag. Om Aftenen samledes Hæren og laae om Natten i Skjotdelye under aaben Himmel, men saa snart det blev Dag, stod Kongen op og drog videre med Folket gjennem Dalen. Paa denne Dagrejse strømmede der Bønder til Kongen i Hobetal, de Fleste af dem stødte og til hans Fylking, og de sagde alle med een Mund, at Herserne havde sanket en urimelig Hob Folk, og agtede at slaaes med Kongen. Da tog Kongen Sølv op, mange Mark paa Slump, og gav en Bonde dem til troer Hænde, med de Ord: gjem du den Skilling. Bonde, og skift den saa ud til Kirker og Præster og Almisselemmer, alt som en Gave for de Mænds Sjæle som stride imod os, og falde i Slaget! Men, Konge! sagde Bonden, vil I da flye 
+<pb facs="1815_8_page0051.png"/>
+<fw type="pageNum">17</fw>
+mig Penge desuden til Sjælegave for eders egne Mænd? Nei, svarede Kongen, disse Penge giver jeg for de Mænds Sjæle, som ere paa Bøndernes Side i Slaget, og falde far vore Vaaben; men selv staae vi Last og Brast med alle de Mand som os følge, og falde i Slaget, og deres Sjal er vel forvaret.</p>
+<p>Nu maa, vi gaae lidt tilbage, og høre et Pat mærkelige Sagn.</p>
+<p>Dengang Kong Klav fylkede sin Hær, da be: flikkede han hundrede Mand *) som skulde slaae en Skjoldborg omkring ham, og vare hans Livvagt i Slaget, og dertil valgde han de stærkeste og modigste Karle i Hæren. Derpaa kaldte Kongen ad sine Skjalde, lod dem gaae ind i Skjoldborgen, og sagde: her skal I staae og see selv hvad sig begiver i Slaget, saa har I ikke behov at gaae efter Folkesnak og Iøse Rygter, naar I siden skal digte og rime derom. Saa gik de da dentid, baade Thormod Kulsvier, og Gissur Guldbryn, Hofgaard-Rævs Fosterson, og Thorfind Mund, og Thormod sagde til Gissur: tag dig iagt, min Bro-</p>
+<p>*) I ten trykte Text flanet Mandtallet ikke, men jeg kan dog ikke troe, at Peder Klausen har sat det til paa Beram.</p>
+<pb facs="1815_8_page0052.png"/>
+<fw type="pageNum">18</fw>
+<p>ber, og staae mig ikke saa nær, ellers bliver der ikke Rum til Sighvat Skjald naar han kommer, thi han vil jo altid staae for Kongen, og maae da ogsaa, naar Kongen skal synes det er rigtigt. Kongen hørte hvad han sagde, og svarede: I tør ikke ved at skose Sighvat slet fordi han nu er borte, thi han har fulgt mig som en ærlig Karl saa mangen god Gang, og nu beder han godt for os, det trænge vi ogsaa høiligen til. Lad nu saa være, Konge! svarede Thormod, at Bønner er hvad du nu trænger haardest til, men farlig tyndt vilde der dog see ud om Bannerstagen, hvis alle dine Hirdmænd vare nu paa Romerreise, og det var heller slet ingen Løgn hvad vi ankede paa, at Ingen kunde komme frem for Sighvat, om man ogsaa havde modent Ærende til Eder. Siden snakkede Skjaldene over med hinanden, at det kunde være artigt nok at gjøre nogle Hvæsferiim til Slaget som nu var for Haanden. Først qvad da Gissur:</p>
+<lg>
+<l>Aldrig skal Jomfrue i Bure</l>
+<l>Klageriim efter mig sjunge.</l>
+<l>Men som det gjalder fra Lure</l>
+<l>Lyde det skal fra min Tunge:</l>
+<l>Op, op, I Kjæmper saa bolde!</l>
+<l>Klemmes og knager I Skjolde"</l>
+</lg> 
+<pb facs="1815_8_page0053.png"/>
+<fw type="pageNum">19</fw>
+<lg>
+<l>Hildur! lad Heltene vaagne!</l>
+<l>Hid komme Hedin og Hugne!</l>
+<l>Vi skal om Kongen af Norge</l>
+<l>Stande som Taarne og Borge.</l>
+</lg>
+<p>Saa kom Thorfind Mund med sit Riim:</p>
+<lg>
+<l>Det sortner til en Regn saa sval,</l>
+<l>Og uveir maae vi friste,</l>
+<l>Den Pileskye i Væredal</l>
+<l>Vil over Olav briste;</l>
+<l>Thi lad os vakkert værge ham.</l>
+<l>Og glæde Valens Maage,</l>
+<l>De Thrønder skal faae Last og Skam,</l>
+<l>Og lukte Øielaage.</l>
+</lg>
+<p>Endelig kvad Thormod:</p>
+<lg>
+<l>Pilen nu finder sin Hytte for trang,</l>
+<l>Hopper som Fuglen i Bure,</l>
+<l>Lyster at flyve med Susen og Sang,</l>
+<l>Luften og Fylkingen fure,</l>
+<l>Ikke saa ville vi Kongehalds Fugle</l>
+<l>Nu udi Ørneklo-Timen os skjule,</l>
+<l>Hildur vi hilse som Bjørnene brumme,</l>
+<l>Der hvor de Bløde maae blege forstumme,</l>
+<l>Hvor vi til Thinge med Olav nu fare,</l>
+<l>Sværdene stævne og Skjoldene svare.</l>
+</lg>
+<p>Disse Riim lærte Folk udenad med det Samme.</p>
+<p>Nu var det den Nat, der Kong Olav, som sagt, laae med Haren under aaben Himmel, da 
+<pb facs="1815_8_page0054.png"/>
+<fw type="pageNum">20</fw>
+laae han længe vaagen og bad til Gud for sig og Folket; henimod Dagningen blev han lidt tung og faldt i Slum, men ret der Soel gik op, vaagnede han igjen. Kongen syntes det var hartad for tidlig at vække Hæren, og spurgde hvor Thormod Skjald var henne? han var der i Nærheden og tog derfor selv Ordet, og spurgte, hvad Kongen vilde ham? syng os en Vise! sagde Kongen. Da reisde Thormod sig og kvad i høien Skye, saa det funde høres over hele Leiren, og det var Bjarkemaal det Gamle han istemte, som begynder saaledes;</p>
+<lg>
+<l>Solen over Fjeld sig svinger,</l>
+<l>Hanen slaaer med sine Vinger,</l>
+<l>Klart det lyser, høit det klinger;</l>
+<l>Længer ei, I Kjæmper, lenter,</l>
+<l>Sol og Værk paa eder venter,</l>
+<l>Vaagner, vaagner, Hjertensvenner,</l>
+<l>Hver sin Konges vakkre Tjenner!</l>
+</lg>
+<lg>
+<l>Har hin haarde, Hrolf behænde!</l>
+<l>Adelsmænd og vakkre Svende,</l>
+<l>Som paa Val ei Ryggen vende!</l>
+<l>Vaagner op, men ei til Gilde,</l>
+<l>Ei til Skjemt med Møer milde,</l>
+<l>Op til Leeg med Spyd og Sværde!</l>
+<l>Hildurs Leeg er nu paa Færde.</l>
+</lg> 
+<pb facs="1815_8_page0055.png"/>
+<fw type="pageNum">21</fw>
+<p>I samme god Lag vaagnede Hæren, og der Bisen var ude, fik Thormod saa mangfoldige Tak for sit Kvad, thi de maatte alle hue den Vise saa godt, og tykdes det var ret et kosteligt Ord i Tide, og kaldte den Vise en Kiæmpehvæsser. Kongen selv takkede ham ogsaa for det herlige Moerskab, og tog og gav ham en Guldring, som vog en halv Mark. Thormod annammede Gaven med Taksigelse, og sagde ydermere: god er Kongen vi har nu; det er skjult for os hvormange hans Dage skal være, men, Konge! det er min Bøn, at jeg maa, følge dig i Liv og Død! Vi skal alle følges ad, svarede Kongen, om ellers jeg maae raade, og skilles nogen fra mig er og Skylden hans. Da tor jeg dog vædde. Konge, sagde Thormod, at enten det saa gaaer op eller ned, skal jeg holde Stand med Eder, saalænge jeg mægter, hvad vi saa end' spørge fra Sighvat med det guldprude Sværd. Derpaa gav han sig til ar rime:</p>
+<lg>
+<l>Konge mægtig, Dommer hvas!</l>
+<l>Ved din Fod jeg tager Plads,</l>
+<l>Til det underlig kan mages,</l>
+<l>At de andre Skjalde dages;</l>
+<l>Venter du dem ikke snart?</l>
+</lg> 
+<pb facs="1815_8_page0056.png"/>
+<fw type="pageNum">22</fw>
+<lg>
+<l>Ekade, hvis de kom forsilde</l>
+<l>Fil det store Navnegilde,</l>
+<l>Hvor der skives op saa rart,</l>
+<l>Hvor man drikker til man hikker,</l>
+<l>Og gaaer hjem hvis ei man ligger.</l>
+</lg>
+<p>Saa drog da Kong Olav videre langs ad @@Day len med sin Hær, og det end som før ad tvende Veie, saa Dag var ikke i hans Følge. Kongen holdt ei stille før han kom til Stiklestad, og saae det første Glimt af Bondehæren, som drog frem i slig en Hobenes Mangfoldighed, at der var en Trop lil hver en Stie, foruden mange store Flokke. Dem man først fik Syn paa var en Trop som havde været ude paa Speiderie, og drog nu nedad Værdalen, saa tæt ved Kongens Folk at man kunde tjende dem og see at det var Rut fra Viggie som reed der med tredive Svende. Kongen talte til sine Gjæstekarle, og sagde, at de skulde fare hen og tage Rut af Dage, og til Islænderne i Besynderlighed sagde han: jeg har ladet mig sige, det skal være Skik paa Island at Husbonden giver sine Karle et Slagtefaar til Høstgilde, men nu vil jeg gloe jer en Vædder (thi Rut betyder en Vædder paa Islandsk), Alle hvem Kongen talte til om den Ting, var strax ved Haanden; men Islænherye bleve ret besynderlig gridske paa det Stykke 
+<pb facs="1815_8_page0057.png"/>
+<fw type="pageNum">23</fw>
+Arbeide, foer afsted, og sloge Nut med hele hans Følgeskab.</p>
+<p>Paa Stiklestad gjorde da Kongen Holdt med Hæren, og bød Folket stige af og føre Hestene til Side, og som sagt, saa gjort. Derpaa blev Hæren fylket og Bannerne opstukne, men eftersom Dag var endnu ikke kommet, og Fyldingen altsaa manglede sit høire Fløi, da befoel Kongen Oplænderne at gaae i Stedet og opstikke deres Banner. Nu er det vel det bedste, sagde Kongen saa, at min Broder Harald bliver ude af Slaget, thi han er kun at regne for en Dreng endnu. Nei, svarede Harald, med i Slaget det vil jeg bestemt, men er jeg siig en Skrælling der ei kan føre et Sværd, da skal jeg sige jer et godt Naad, I kan jo binde Hæftet til Haandledden; og det tør jeg sige, Ingen skal have bedre Villie end jeg til at takke Bønderne for Sidst. Kort og Godt, jeg følger Troppen. Harald fik ogsaa sin Villie og kom med i Slaget; og man har et Riim, som han skal have gjort dengang, og lyder faa:</p>
+<lg>
+<l>Skjoldene i Sværde-Støi</l>
+<l>Farve vi saa gramme,</l>
+<l>Trods om jeg paa høire Fløi</l>
+<l>Stande skal til Skamme!</l>
+</lg> 
+<pb facs="1815_8_page0058.png"/>
+<fw type="pageNum">24</fw>
+<lg>
+<l>Oet dog noget trøste kan</l>
+<l>Aasta i sin Enkestand,</l>
+<l>Unger-Skjalden ei er bange</l>
+<l>For i Kjæmpelag at gange,</l>
+<l>Hvor (il Drab de blanke Sværde,</l>
+<l>Ride rap paa Hjelm og Hærde.</l>
+</lg>
+<p>Der nu Kong Olav havde fylket Hæren, da holdt han en Vale til Folket, og sagde: Nu tage Hoer Mod og Mandhjerte til sig! skal vi stride, sagde han, da har vi ogsaa Følgesvende baade mange og sine, og lad saa være, at Bøndernes Hær ere lidt større, det er dog Lykken der raader for Seieren. Det vil jeg nu ogsaa gjøre Eder vitterligt at aldrig skal I see mig flye af dette Slag, enten vil jeg seire eller falde her i Vaabengnye, og det skal være min Bøn til Gud, at han lader mig times hvad mig er tjenligst. Det skal for Resten være vor Trost, at vi have Gud og Retten med os, og naar da Kampen er overstanden, da have vi enten Gud at takke for Seier, Liv og Odel, eller og vi af hans Haand annamme Løn for hvad vi her forlod, og det i større Maal og Maade end vi kan bede og forstaae. Er det mig som kommer til med Seier at føre Ordet, da skal jeg visseligen vide al skjønne paa Enhvers Fortjeneste og gjøre hannem Godt, som han mig gjorde Følgeskab i 
+<pb facs="1815_8_page0059.png"/>
+<fw type="pageNum">25</fw>
+Slaget, og det er aabenbart, at vinde vi, da vorder der og Nok til os at dele, baade Land og Løsøre som vore Fjender nu raade.</p>
+<p>Lad det nu være ei Ord, at vi gaae flux i første Angreb Fjenden hardt paa Klingen, thi der er ingen Tid at spilde, og skal vi vinde Seier mod en saa overlegen Magt, da maae det skee ved raske Skridt, men derimod vil det svie til os, hvis vi arbejde os tratte, aldenstund vi har ikke saaledes Folk at skifte paa som Fjenden der kan stille friske Folk i Spidsen, mens de Andre hvile sig bag Skjold, Kan vi derimod fra Første Færd ængste Fortroppen saa at den vender Ryg, da falde de ovn hinanden, og da, jo fleer i Flok, desværre farne. Nu tav Kongen og Folket prisde Talen og satte Mod i hinanden.</p>
+<p>Om Kongens Rustning er at melde, at paa sit Hoved havde han en gylden Hjelm, i den ene Haand holdt han sit Hvide Skjold hvori Korsets hellige Tegn var med Guld indlagt, og i den anden det Spyd som sees i Christkirken end den Dag i Dag og staaer ved Alteret, Han var omgjordet med et Sværd som kaldtes Hneit, et farligt Sværd og guldbelagt om Hæftet, og han var klædt i Mallebrynie efter Sighvats Ord i dette Riim;</p>
+<pb facs="1815_8_page0060.png"/>
+<fw type="pageNum">26</fw>
+<lg>
+<l>Olav Digre gik i Dands,</l>
+<l>Hvor den rode Sveed mon rinde,</l>
+<l>Han en herlig Seierskrands</l>
+<l>Ventede forvist at vinde;</l>
+<l>Folket faldt saa tykt i Vang</l>
+<l>Hvor den Herres Brynje klang.</l>
+<l>Svenske Hofmænd og, som vare</l>
+<l>Med den milde Gram i Skare,</l>
+<l>Ginge frem paa glatte Gade,</l>
+<l>under blanken Pandser-Plade.</l>
+</lg>
+<p>Thord Folesen var Kong Olavs Mærkesmand som Sighvat Skjald formelder i det Mindekvad, han gjorde om Kong Olav efter Opstands-Krøniken *), og hans Ord ere disse:</p>
+<p>*) <hi rend="latine">stælti eptir Uppreistar sögo (Cap. 224).</hi> Om disse Ords Betydning har jeg været tvivlraadig og Varianten (drapo) synes mere skikket til at indvikle end løse Spørgsmaalet. Kan nu Nogen sige mig et bedre Raad end det seg har fulgt, da siger jeg Tak, thi vel er Tingen ikke saa grumme meget bevendt, men reent Brød er dog det bedste, og bor Ordene saaledes forstaaes at der strax efter Olavs Fald blev skrevet en Saga om Opstanden, da ere de, som Kyndige veed, heel mærkelige.</p>
+<pb facs="1815_8_page0061.png"/>
+<fw type="pageNum">27</fw>
+<lg>
+<l>Thord med Olav gik paa Val,</l>
+<l>Fromme Hjerter var i Følge,</l>
+<l>Hvor han stævnede i Dal</l>
+<l>Svulmede den rode Bølge,</l>
+<l>Banneret paa Gyldenstang</l>
+<l>Høit han bar for Kongens Bringe,</l>
+<l>Gjorde saa med Kjæmpegang</l>
+<l>Fyldest for de favre Ringe.</l>
+</lg>
+<p>Der boede paa Stiklestad en Bonde ved Navn Thorgils Hjalmesen, Fader til Gode-Grim, han tilbod Kongen sin Tjeneste, og vilde gaae med ham i Slaget. Tak den som byder, svarede Kongen, men jeg vil ikke, Bonde, at du skal gaae med i Slaget, gjør du os heller den Tjeneste, at pleie dem af vore Folk som blive saarede i Striden, og stæd dem til Jorde som falde i Slaget! Skulde det nu hænde sig, som let kan skee, at jeg falder felv i denne Strid, da viis mit Liig den sidste Ære og Tjeneste det trænger til, om det ei vorder dig formeent. Thorgils lovede da Kongen at gjøre som han bad.</p>
+<p>Det begav sig ogsaa, da Kong Olav var kommet til Stiklestad, at der kom en Mand til ham, og det var da ikke saa underligt, thi der kom saamange til Kongen allevegne fra, men det mærkværdige ligger deri, at det var en anderledes Mand 
+<pb facs="1815_8_page0062.png"/>
+<fw type="pageNum">28</fw>
+end de andre Mænd som ellers kom til ham. Han var en Karl saa høi, at Ingen af de andre kunde naae ham længere end til hans Skuldre, hans Aa-, syn var deiligt, hans Haar var favert og hans Rustning prægtig, først havde han en Hjelm saa smuk som nogen, saa Ringebrynje, rødt Skjold, et udstafferet Sværd ved Lænd, og i Haanden et langt guldhæftet Spyd, med et Skaft saa tykt, at det var alt det man kunde spænde derom. Samme Mand gik for Kongen at staae, hilsde ham, ogspurgte om Kongen vilde tage mod hans Tjeneste. Kongen spurgde ham da først om hans Navn og Slægt og hvad Landsmand han var, og dertil svarede han, min Slægt har jeg i Jemteland og Helsingeland, og mit Navn er Arnliot Gellina, men hvad jeg helst vil fortælle, er, at det var mig der hjalp de Mænd tilrette, som du forleden sendte til Jemteland at kræve Skat, og jeg flyede dem en Sølvdisk med til et Tegn paa, at jeg vilde være din Ven. Derpaa spurgde Kongen Arnliot, om han var Christen eller ikke, og fik til Svar, at hvad hans Troe angik, da troede han paa sin egen Magt og Styrke, med den Troe, fagde han, har jeg slaaet mig ret godt igiennem hidtil Dags, men nu Konge! har jeg i Sinde heller at troe paa dig. Ja, svarede Kongen, vil du troe paa mig, saa 
+<pb facs="1815_8_page0063.png"/>
+<fw type="pageNum">29</fw>
+maae du ogsaa troe hvad jeg lærer dig, og følgelig skal du troe, at Jesus Christus haver skabt Himmel og Jord og al Menneskenes Slægt, og at til ham opfare alle fromme og troende Mænd, naar de døe. Dertil svarede Arnliot, jeg har nok hørt tale om Hviden Christ, men om hans Handel og Herredom er mig for Resten Intet vitterligt, nu vil jeg troe paa dit Ord alt hvad du siger mig, og lægge al min Velfærd i din Haand. Derpaa blev Arnliot døbt, Kongen lærte ham selv de nødvendigste Troesartikler, og skiklede ham saa til Stade fremmerst i Fylkingen, foran Hovedbanneret, hos Gauka-Thore og Afar-Faste og deres Staldbrødre.</p>
+<p>Dengang nu Kong Olav var færdig med sin Slagtorden, og Bønderne imidlertid ei vare komne det mindste nærmere, da befoel Kongen, at Folket skulde sidde ned og hvile sig, hvorpaa de da alle saavel som Kongen satte sig ned i Magelighed. Kongen fad og lændede sig op til Find Arnesen, lagde sit Hoved paa hans Knæ og faldt i Søvn.. Han sov en Stund, men der man saae Bondehæren i al sin Mangfoldighed komme anstigende med opstukket Banner, da vakte Find Kongen, og sagde ham, at Bønderne vare dem flux paa Hænderne. Der nu Kongen vaagnede, sagde han: hvi vakte du mig, Find, før jeg havde drømt ud? du havde 
+<pb facs="1815_8_page0064.png"/>
+<fw type="pageNum">30</fw>
+aldrig den Drom, svarede Find, at det giordes jo bedre behov, du vaagnede op for at tage mod Fjenden som rykker nu frem, eller seer du ikke Bondehæren hvor den kommer hist? End ere de os dog ikke saa nar, svarede Kongen, at det havde jo været mig kjærere at sove. Men, hvad, drømde du da, Konge, sagde Find, siden du Synes det var saa stor en ulykke, at du ikke blev færdig? Nu fortalte Kongen da hvordan han havde drømt, at han saae en høi Stige, der gik lig? ov til Himmelen, og ad den krøb han op saa høit i Luften, at han kunde see ind i Himmelen, og, sagde han, dengang jeg vaagnede, stod jeg netop lige paa det øverste Trin. Da Synes jeg slet ikke, sagde Find, at den Drom var saa rar som du holder for, thi er det andet end et Gjøglebillede, da mener jeg det var dit Varfel.</p>
+<p>Nu maae vi atter tage fat paa hvad vi før kom fra, og fortælle noget mere om den urimelige Mængde Folk som Herserne forsamlede, saasnart de Spurgte Kongens Vesterfærd fra Garderige og hans Komme ind i Sverrig. Dengang de nu hørde at Kongen var i Jæmteland og agtede sig over Kjølen ind i Væredal, da rykkede de ind i Trøndelagen med den ganske Hær, der maatte alle staae op, baade Herre og Træl, og gjøre dem 
+<pb facs="1815_8_page0065.png"/>
+<fw type="pageNum">31</fw>
+Følgeskab paa deres Færd til Vaeredal. Det var Nu en Krigshær de havde, saa stor, at i hele Norge levede ikke den Mand, der kunde mindes at have seet Mage til Hærs Mangfoldighed, men for Resten var det med den Har forn sædvanligt med saadanne Sværme, den var sat sammen af alle Slags Folk; thi vel var der mange Landshøvdinge og en stor Mængde fornemme Bønder, men Broder-Parten var dog Nips-Raps, Trælle og Lands strygere. Trønderne var Kjærnen af den ganske Hær, og de fnøs især af Hevn og Had imod Kongen.</p>
+<p>Dengang Kong Knud hin Rige, som sagt, underlagde sig hele Norge, og gav det i Hakott Jarls Haand, da overlod han ham ogsaa til Hirdbisp, en vis Sigurd, som var dansk af Æt, og havde længe fulgdes med ham selv. Den samme Biskop var som Fyr og Flamme, og en grov Karl t sin Mund, han talde Kong Knuds Sag af yderste Formue, og var Kong Olavs arrigste Fjende, derfor var han da ogsaa her i Ledtog med, holdt mange Taler til Bønderne og fremmede ei lidet Opstanden mod Kong Olav.</p>
+<pb facs="1815_8_page0066.png"/>
+<fw type="pageNum">32</fw>
+<p>Saaledes stod denne Biskop Sigurd paa et Gadestævne *) i en stov Forsamling, talede og sagde: her har vi nu saa stor en Hær forsamlet, at det er heel forunderligt i dette fattige Land at see paa eet Sted saamange ægte Nordmand sammen, men bruger nu ogsaa den Magt og Styrke tilgavns! thi aldrig gjordes den mere behov end nu, da I see at denne hersens Olav vil end blive ved at hærge jert Land. Det er, som I veed, hans Børnelærdom at røve og myrde, det var det Handværk han reisde paa saa vide om Land, indtil han endelig stævnede hid og begyndte med at yppe Kiv, helst med de Mægtigste og Bedste, fremfor alt med Kong Knud, den Herre, hvem hver som bedst skulde ære og tjene. Kong Knuds Skatlande tog han til sig, Kong Olav Svensker gjorde han samme Skjel, og Jarlerne Svend og Hakon jog han fra Odel og Arv, men sine egne Frænder var han dog allerværst, det fik Oplands Konger, at</p>
+<p>*) Denne Oversættelse af <hi rend="spaced">Husthing</hi> kan vel synes fær, men efter bedste Overlæg veed jeg intet bedre Ord, thi det udtrykker hvad det skal, og at der er flere Folk paa en Krigshærs end paa en Landsbyes Gadestævne gjør jo her Intet til Sagen.</p>
+<pb facs="1815_8_page0067.png"/>
+<fw type="pageNum">33</fw>
+<p>føle, ihvorvel man maae sige, de fik Løn som for: skyldt, thi havde de ikke først brudt Troe og Love mod Kong Knud, og staaet dennehersens Olav bi i alle hans onde Optøier, og det var da ret til Pas, den Ende deres Venskab tog, da Kongen gjorde dem til Krøblinger og deres Rige til sit. Saaledes stræbde han at odelægge al Landets Adel, men det maae I da selv vide bedst, hvordan han siden har handlet med Eders Landshøvdinger, hvordan han slog de Ypperste af dem ihjel, og drev, dem af Landet i Hobetal, fremdeles, hvor han har huseret vidt og bredt her i Landet med sin Røvertrop, brændt for Fode, dræbt og plyndret Folket, ja hvo er den imellem alle disse Adelsmænd, som ere her forsamlede, der ei haver stor og ulidelig Skade paa hannem at hevne. Nu er han underveis hertil med en udlændisk Hær, sat sammen for det meste af Røvere og Stiemænd og andre Skielmer, og mener I vel at han, der foer saa ilde afsted dengang han havde lutter Folk om sig, som raadte ham derfra, mener I at han vil fare nu med Læmpe, nu han er i Flok med lutter Skarns-Folk? Nei, kommer nu Kong Knuds Ord ihu! thi det kalder jeg et godt Raad hvad han raadte Jer at gjøre, hvis Olav vilde atter hjemsøge Landet, og det Raad maae i følge, om I ellers Hat 
+<pb facs="1815_8_page0068.png"/>
+<fw type="pageNum">34</fw>
+den Frihed kjær, Kong Knud Eder gav; han bad Eder stande op som Mænd og skaffe Eder selv det Ondskab af Halsen. Saa, frem nu Folk! ned med det Pak til Brad for ulv og for Ørn! ligge som Fæ hver hvor han falder! uden I heller vil sole dem høit paa Træer og Torne, thi Ingen skal vove sig til i christen Jord at begrave saadanne Vikinger og arrige Skalke, som de manne være, alle tilhobe. Dermed tav han, Folk gjorde meget Væsen af den Tale, og alle raabte med een Mund at saadant skulde det være som han havde sagt.</p>
+<p>Siden holdt Landshøvdingerne en Samling for sig selv, og handlede om hvem af dem der skulde fylke Hæren og være den øverste Stridshøvedsmand. Da sagde Kalv Arnesen at det kom fornemmelig Harek af Thjotøe til at være Hovedmanden her, thi, sagde Kalv, baade er han af Harald Haarfagers Afkom, og til ham bærer Kongen særdeles Nag for Grandkields Drab, saa at, faaer Olav Magten, er Ingen værre faren end han; desforuden er Harek ogsaa en forfaren Krigsmand og vil gjerne have Æren. Dertil svarede Harek, at til en saadan Bestilling vare de bedst skikkede som havde ungdommen, og kunde være paa Færde, jeg derimod, sagde han, er nu gammel og skrøbelig og duer ikke stort til Krigen; desuden er 
+<pb facs="1815_8_page0069.png"/>
+<fw type="pageNum">35</fw>
+jeg nær beslægtet med Kong Olav, og skal jeg end ikke rose af hvad jeg vandt derved, saa skikker det sig dog ingenlunde formig, at være den, der skulde gaae i Spidsen sor hans Fjender. Du, Thore! derimod, du er ret skikket til at være Høvedsmanden her, og føre an mod Kong Olav, og har Nogen Aarsag dertil, da er det dig, thi baade slog han dine Frænder ihjel, og drev dig selv i Landflygtighed som en fredløs Mand, Kong Knud har du svoret, og dine Frænder har du lovet at hævne din Asbjørn, og mener du vel at der times dig nogensinde en bedre Leilighed end nu, til paa eet Bræt at betale Kong Olav for al den Haanhed dig er vederfaret? Thore tog selv Svaret, og sagde: ingenlunde trøster jeg mig til at reise Banner mod Kong Olav, og vare Høvedsmand for denne Hær; thi det er Thrønderne som have her det store Ord, og jeg maatte kiende deres Stolthed slet, om jeg tænkde at de vilde lyde enten mig eller nogen Halei; for Resten tør slet Ingen ved at minde mig om hvad Gjeld jeg er i til Kong Olav, jeg glemmer vist ei hvad jeg tabde dengang Kong Olav tog sirs Mænd af Dage, allesammen Herrer i Vasen og Ædle af Byrd, min Brodersøn Asbjørn, min Svoger Ølver og begge hans Sønner, Thore og Grudgaard, og det er ikke meer end min Pligt at 
+<pb facs="1815_8_page0070.png"/>
+<fw type="pageNum">36</fw>
+hævne dem alle. See, derfor har jeg udsøgt elleve af de raskeste Karle jeg har i min Gaard, og jeg skulde haabe, at kan vi faae Ram til Kong Olav, da skal vi ikke bemøde Andre med at staae for hans Sværd. Derpaa tog Kalv Arnefen til Orde og sagde: det kommer nu derpaa an om det Værk vi har taget os for, og hvortil vi samlede alt dette Folk, skal blive til et Narreværk eller ikke; men skal vi slaaes med Kong Olav, da vil der noget Andet til end som saa, at hver skyder Skjold for sig og Faren paa Andre, thi det maae vi betænke, at har Kong Olav endog kun en Haandfuld Folk imod os, saa er han en Helt som ikke er skye, og de Folk han har, er Karle han kan lide paa, som Hverken blune eller svigte; har derimod selv vi, i hvem Hæren skulde speile sig, lidt Rystelse; vil vi ikke støtte paa Folket, sætte Mod i dem og gaae selv i Spidsen, da kan I troe om I vil, at det vil falde alle vore Helte paa Sinde at Staal bider Kiød, og hver seer da til at han kan hytte sig. Altsaa, vor Krigshær maae være saa stor som den vil, saa, naar vi komme i Kast med Kong Olav og hans Folk, da vil der gaae Syn for Sagn at vi komme til Kort, med mindre vi selv, som er Ophavsmænd til det Hele, har Mod i Bringen og kan sætte Ild i Folket saa de styrte samdrægtelig 
+<pb facs="1815_8_page0071.png"/>
+<fw type="pageNum">37</fw>
+frem. Kan det ikke skee, da gjør vi bedst i intet Slag at vove, og vel kan jeg ikke vide om det just skulde være saa sikkert at stole paa Kong Olavs Miskundhed, eftersom vi syndes han var haard at bede da vi havde mindre forbrudt end nu i hans Øjne, men det veed jeg nok, at eftersom han skatter Folk i sit Følge, blev der vel Raad for mig, hvis jeg bad om Naade. Vil I nu derimod som jeg, da skal du, Svoger Thore, og du Harek, gaae ind og staae ved Hovedbanneret som vi vil alle være lige gode om at reise og følge. Lad os saa med Raskhed og Djærvhed sætte i Værk hvad vi toge os for, og føre Bønderne saaledes an at de ingen Banghed mærke os af, thi da først faaer Almuen Mod i Brystet, naar vi gaae og fylke med glade Ansigter og muntre dem op. Der nu Kalv havde saaledes talt, og sagt sin Mening, da gave de alle hans Ord Magt og sagde at Kalv skulde raade for det Hele, de vilde alle kjende ham for Hovedsmand og tage Stade hvorsomhelst han fandt for godt at tilsige.</p>
+<p>Saa reisde da Kalv Arnefen Banneret, og forordnede til dets Vagt sine egne Huuskarle og Harek af Thjotøe med samt hans Tjenerskab; Thore Hund med sine Karle stod i Spidsen foran Banneret, og havde hos sig paa begge Sider et udsøgt 
+<pb facs="1815_8_page0072.png"/>
+<fw type="pageNum">38</fw>
+Mandskab af djerve og velberustede Svende. Hovedfylkingen, bestaaende af Thrønder og Haleier, var baade bred og dyb, og havde igjen tvende Fløie hvoraf Ryger og Hørder, Fjordinger og Sogneboer udgjorde det venstre, og havde deres eget Banner.</p>
+<p>Nu var der ogsaa iblandt andre en Mand ved Navn Thorstein Knarrasmed eller Skibbygger, en stor og stærk Kavl, en dygtig Kjobmand og Tømmermand, men tillige en stor Slagsbroder og en slem Manddraber; og han var vred paa Kong Olav, fordr han havde taget et stort, nyt Kjøbmandsskib fra ham, som han Selv havde bygget, men det havd Kongen gjort, fordi Thorstein havde ført sig ilde op, og var forfalden i Mandebod. Nu var da denne Thorstein med i Bondehæren og han søgde did foran Banneret, hvor Thore Hund havde sit Stade, og sagde: her er min Plads i Dag, Thore, ved Siden af jer, for det har jeg betænkt, at kan vi mødes, jeg og Kong Olav, og jeg kan komme ham saa nær, da vil jeg være den Første til at bære Vaaben paa ham, saa skal han faae det betalt at han tog mit Skib, den Røver, det var netop et Skib, trods noget, at sige til Kjøbmandsbrug. Thore lod sine Mænd give ham Plads, og saa fulgdes han med dem.</p>
+<pb facs="1815_8_page0073.png"/>
+<fw type="pageNum">39</fw>
+<p>Dengang nu Folket var skiftet og skikket i Orden, da gik Landshøvdingerne omkring, og bad hver især give Agt paa sit Stade, og see vel efter, baade til hvad Banner han Horde, og paa hvilken Side af Banneret og hvorlangt derfra han skulde staae. De bad dem fremdeles at være snilde og hurtige til at søge deres Plads, ifald, som rimeligt kunde være, Fylkingen kom i Ulave underveis, thi de havde endnu et godt Skykke Vei at lægge tilbage. Derpaa ophidsede de Folket, og Kalv sagde, at hver Mand som havde Harm at styre paa Kong Olav, skulde stille sig under Hovedbanneret som var forordnet til at staae mod Kongens eget Banner, han bad dem ydermere huske paa den uret Kongen havde gjort dem, og betænke at de aldrig kunde ønske sig en bedre Leilighed til at faae Hevn for Harm, og sønderbryde Trældomsaaget som han havde lagt paa deres Skuldre. Skam faae den Skrælling', sagde han, der ikke nu tor slaaes som en Mand, med saadanne Fjender for Øine; thi det kan I troe, de spare ikke, hvis de kan faae Ram til jer. Det var en Tale som alle gad bort, og nu kom der Liv i Leiren, den ene var mere høirøstet og gridsk paa Kamp end den anden.</p>
+<p>Nu rykkede da Bondehæren frem med Hovedbanneret som Kalv og Harek lode bare for sig, og 
+<pb facs="1815_8_page0074.png"/>
+<fw type="pageNum">40</fw>
+kom til Stiklestad, hvor Kong Olav havde været alt en Stund, men dog begyndte Slaget ikke strak thi paa begge Sider havde man, hver Sit, at tøve efter. Bønderne vilde ikke begynde, fordi de havde ikke nær alt deres Folk famlet og mange kom drattende bagefter; desuden var Thore Hund med sit Selskab allerbagest, for at Folket ikke skulde løbe, naar de fik Syn paa Fjenden, og hørte Valskriget, og Kalv vilde bie til Thore kom. Kong Olav vilde ikke heller begynde, fordi han ventede paa Dag og hans Følge, og nu kunde man allerede skimte Dag hvor han rykkede frem. Bønderne havde det Ordsprog imellem sig til at muntre hinanden i <hi rend="spaced">Slaget: Fram, fram, Bondemænd</hi>! og det er sagt for Sandhed, at Bondehæren var ikke mindre end ti tufend Mand stærk. I den Anledning siger Sighvat Skjald;</p>
+<lg>
+<l>Klagen min jeg kan ei dølge,</l>
+<l>Over at saa saa i Følge</l>
+<l>Var Kong Olavs tappre Mænd;</l>
+<l>Tre for Een, det maae man sige,</l>
+<l>Gjorde Kampen heel ulige,</l>
+<l>Alt for svar for Folkets Ven;</l>
+<l>Ellers vist ei Bonde-Hæren</l>
+<l>Havde stort sig rost af Æren,</l>
+<l>At engang den kom i Færd,</l>
+<l>Med Kong Olavs Gylden-Spær.</l>
+</lg> 
+<pb facs="1815_8_page0075.png"/>
+<fw type="pageNum">41</fw>
+<p>Der stod da nu Hærene hinanden saa nær, at Folk kunde kjendes, og da raabde Kongen til Kalv, og Sagde: hvor kommer du nu der? skildtes vi ikke venlig og vel forligte paa Møre? Synes du da at det klæder dig godt nu at føre Vaaben mod os og skyde Giækkeskud i vor Hær hvor du har fire af dine Brødre? Ja, Konge, svarede Kalv, paa den Maade er der meget meer end det, som klæder ikke Synderlig godt; men I skildte Eder saa ved os, at der var ikke stort andet for end at følge med Strømmen, og nu nødes vel Enhver til at blive hvor han er; jeg saae imidlertid gjerne endnu, det gik fredeligt af. Ja, sagde Find, det er Kalve den gamle Vane at tale sødt naar han er beesk som Galde. Kan vel være, Kalv, sagde Kongen, at du har Freden kjærest nu, men ellers lader det dog ikke til, I Bønder har de fredeligste Tanker. Ja, svarede Thorgeir af Kvistestad, vi byde jer nu samme Fred som I har budt saa mangen Mand, saa kan I see hvor godt den smager. Tie du kun stille, Thorgeir! svarede Kongen, og vær kun ei saa hidsig paa at komme mig i Tale, dig har jeg loftet af Skarnet til Ære, tænk derfor kun aldrig, at du i Dag skulde blive min Overmand!</p>
+<p>Nu kom Thore Hund, gik Banneret forbi og raabde høit: fram, fram, Bondemænd! da Hunde 
+<pb facs="1815_8_page0076.png"/>
+<fw type="pageNum">42</fw>
+Bønderne Blodskrig *), og skjød med Spyd og med Pile. Kongefolket lod da ogsaa Blodskrig høre, og der det var udraabt, skyndte de hinanden frem og Sagde: fram, fram, Christmærnd, Korsmand, Konningemænd! Det hørde de Bønder som stode yderst paa Fiolet, og raabte det Samme, men da de andre Bønder Horde det, meende de det var af Kongens Folk, og huggede løs paa dem, og saaledes sloges de med sig selv en Stund, og fik ikke Øjnene op, før mange vare slagne. Det var nemlig et deilig klart Solskins Veir den samme Dag, men som Slaget gik an, rodmede Himlen og Solen med, og tilsidst blev det saa sort som Natten.</p>
+<p>Kong Olav havde stillet sig paa et høilændt Sted, derfra styrtede hans Folk ned over Bønderne, og knugede dem saa, at deres Fylking bugnede tilbage, og Kongens Fortrop stod hvor Bondehærens Bagtrop havde staaet. Da var det</p>
+<p>*) <hi rend="latine">herop</hi>. Om dette Ords Oversættelse er jeg uenig med mig Selv. Det skulde være mig kjært at høre Kyndiges Mening om hvorvidt man kunde bruge det gjængse <hi rend="spaced">Ord Feldtskrig</hi>, eller hvilket andet godt dansk Ord man heller skulde vælge.</p>
+<pb facs="1815_8_page0077.png"/>
+<fw type="pageNum">43</fw>
+<p>saa nar som paa et hangende Haar, at Bønderne havde vendt Ryg, men Landshøvdingerne og deres Huskarle holdt Stand, og Striden blev skarp. Sighvat sjunger:</p>
+<lg>
+<l>Ei om Fred var Tordentalen,</l>
+<l>Dengang Bryniefolket foer</l>
+<l>Fram med Bram og Gny paa Valen,</l>
+<l>Dundre maatte norske Jord;</l>
+<l>Ranke Kiæmper, Valens Elme,</l>
+<l>Stævned under blanke Hjelme</l>
+<l>Med at blande Birtings-Bad,</l>
+<l>Vække Storm paa Stiklestad.</l>
+</lg>
+<p>Landshøvdingerne skyndte paa Folket, ja de tvang dem til at gaae frem som Sighvat siger:</p>
+<lg>
+<l>Nu, men forsilde, de Bønder</l>
+<l><hi rend="align(center)">Legen fortrod,</hi></l>
+<l>Jad paa Haleier og Thrønder</l>
+<l><hi rend="align(center)">Banneret brod.</hi></l>
+</lg>
+<p>Nu trængde da Bondehæren frem af alle Kræften, de som fremmerst ginge, sloge til med Sværd, de Følgende siunge med Spyd, og alle de Andre skjød med Bue eller kastede med Slynge, med Spyd, Handøxer og Kiler *). Slaget var blo-</p>
+<p>*) <hi rend="latine">skeptiflettom</hi> et af de <hi rend="spaced">mange Prosaord</hi>, fom trods Recensentens Forsikring, ikke sindes</p>
+<pb facs="1815_8_page0078.png"/>
+<fw type="pageNum">44</fw>
+<p>digt, mange faldt paa begge Sider og deriblandt, alt i den første Hede, Arnliot Gellina, Gauka-Thore, Afar-Faste og hele det Selskab, dog havde hver af dem fældet i det mindste Een eller To, og Somme fleer, for han faldt. Der nu Kongen mærkede at Skaren foran Banneret blev immer tyndere, da befoel han Thord at rykke frem med Hovedbanneret, og Kongen fulgte ham i Hælene, med samt den Adelhob af Hærens djærveste og bedst iklædte Kjæmper som han havde keifet til sin Livvagt under Slaget, og det er hvad Sighvat sigter til i disse Riim:</p>
+<lg>
+<l>Hvor saa over rode Bølge</l>
+<l>Bannerfuglen dristig foer,</l>
+<l>Tæt dog Olav turde følge</l>
+<l>Fuglen i de tunge Spor.</l>
+</lg>
+<p>Dengang nu Kong Olav gik frem af sin Skjoldborg fremmerst i Fylkingespidsen, og Bønderne fik ham at see i hans Ansigt, da bleve de slagne med Rædsel og lode Hænderne Synke, som Sighvat ogsaa formelder og siger:</p>
+<p>i Bjørn Haldorsens Lexikon. Jeg har oversat efter rimelig Formodning og tager gjerne mod Underviisning.</p>
+<pb facs="1815_8_page0079.png"/>
+<fw type="pageNum">45</fw>
+<lg>
+<l>Hænge maatte Næfer høie,</l>
+<l>Uomskaarne Hjerter grue,</l>
+<l>Der man fik paa Val at skue</l>
+<l>Olavs hvasse Løve-Øie;</l>
+<l>Herse-Drotten var saa gram,</l>
+<l>Gruelig og skarp til Spue,</l>
+<l>At naar Thrønder faae paa ham,</l>
+<l>Syntes dem de saae det lyne.</l>
+</lg>
+<p>Skarpt gik det nu ogsaa til i Striden, thi hardt gik selve Kongen frem i Sværdelegen, som og Sighvat sjunger:</p>
+<lg>
+<l>Røde Sværd i Kjæmpehænder</l>
+<l>Smittede det blanke Skjold,</l>
+<l>Der hvor Folket mellem Frænder</l>
+<l>Søgde Folke-Kongen bold;</l>
+<l>Nem i Sværdeleg at sinde</l>
+<l>Nar Kong Olav vennekjær,</l>
+<l>Under Thrønders Hoved-Tinde</l>
+<l>Maled han sit blege Sværd.</l>
+</lg>
+<p>Mens nu Kong Olav streed saa mandelig, damødte han blandt andre, førnævnte Landshøvding Thorgeir af Kvistestad, og huggede ham tvers over Ansigtet, saa Hjelmen Sprang og Hovedet blev hardtad overskaaet under Vinene. Der han nu faldt, sagde Kongen: saaest du det, Thorgeir, om jeg ikke Spaaede ret, at du skulde ikke torde glædes 
+<pb facs="1815_8_page0080.png"/>
+<fw type="pageNum">46</fw>
+ved, om vi mødtes i Dag! I det Samme hellige Øieblik stødte Thord Folesen Bannerflag n saa hardt i Jord at den stod fast, thi Selv havde Thord nu faaet sit Banesaar, og sank under Banneret. Nu i faldt ogsaa to af Skjaldene, baade Thorsind Mund og Gissur Guldbryn; Gissur havde givet sig i Kast med to paa eengang, fældet den Ene og saaret den Anden, førend han faldt, som Hofgaards-Ræv! siger i Visen:</p>
+<lg>
+<l>Gnisterne sprunge og slunked af Staal,</l>
+<l>Knittrende blussede Valfaders Baal,</l>
+<l>Mellem to Kiæmper stod ene saa rask</l>
+<l>Oissur paa Valen som vældige Ask,</l>
+<l>Rystede hardt sine Grene med Gny,</l>
+<l>Draaberne fulde som Steen og som Vlye.</l>
+<l>Fulde saa tunge og bleve saa røde,</l>
+<l>Een maatte falde, og To maatte <hi rend="spaced">bløde</hi>.</l>
+</lg>
+<p>Da skedte det, som sagt, at Solen skjuldes paa den klare Himmel, og der blev Morke over Jorderige, som og Sighvat kvæder om:</p>
+<lg>
+<l>Rygtet mig til Romaborg,</l>
+<l>Forte Bud om Hjertesorg,</l>
+<l>Og om Under over under:</l>
+<l>Solen fæstede sin Ild *),</l>
+</lg>
+<p>*) Jeg veed ikke om det deilige Udtryk, at <hi rend="spaced">fæste</hi> Ilden, som man i Syd-Sjælland, mens jeg</p>
+<pb facs="1815_8_page0081.png"/>
+<fw type="pageNum">47</fw>
+<lg>
+<l>Lukbe Straale-Øiet til</l>
+<l>For Kong Olavs dybe Vunder.</l>
+<l>En velsignet, deilig Dag</l>
+<l>Sortned i det Konge-Slag,</l>
+<l>Og i Blinde Folkets Vrimmel</l>
+<l>Vanked under klaren Himmel.</l>
+</lg>
+<p>I det Samme kom Dag Ringsen med det Folk som hannem fulgde, reisde sit Banner, og begyndte at fylke; men, saadant et Mørke som det var, kunde det ei gaae saa flux med Angrebet; thi man kunde ikke skille Ven fra Fjende, dog kom de tilsidst til at staae for Hørdernes og Rygernes Fylking.</p>
+<p>Alt dette skedte saa omtrent paa eengang, dog det Ene kanskee lidt for og det Andet lidt efter.</p>
+<p>Kalv Arnesen havde to af sine Frænder med, Olav og Kalv, Sønner af Kalve Farbroder, Arnsind Armodsen, og de gik paa den ene Side af ham med mange raske Svende, og paa den anden Side af Kalv gik Thore Hund. Nu huggede Kong Olav til Thore Hund tvers over Skulderne, men Sværdet vilde ikke bide, og det var kun som om</p>
+<p>var Barn, brugde om, i Jesu Navn at dølge den ved Aftenstid i Asken, er almindelig bekjendt.</p>
+<pb facs="1815_8_page0082.png"/>
+<fw type="pageNum">48</fw>
+<p>der røg Støv af Reenskoften. Herom sjunger Sighvat saa:</p>
+<lg>
+<l>Selv fornam den Konge - Balder</l>
+<l>Bedst hvad Finners ramme Galder,</l>
+<l>Med sin Tryllekraft den store,</l>
+<l>Mægted til at frelse Thore,</l>
+<l>Dengang han i Slagets Bulder</l>
+<l>Hunden hamrede paa Skulder,</l>
+<l>Som en Vaand den Klinge døv,</l>
+<l>Koften banket) kun for Stov.</l>
+</lg>
+<p>Thore huggede til Kongen igjen, og saaledes skiftede de adskillige Hug, men hvor Reenskoften sad, vilde Kongens Sværd slet ikke bide, i Haanden derimod @@si. Thore et Saar; derfor kvæder Sighvat videre saaledes:</p>
+<lg>
+<l>Ei var det i Kjempelud</l>
+<l>Hunden barkede sin Hud;</l>
+<l>Større Daad som større Sind,</l>
+<l>Om end ei saa tykt et Skind,</l>
+<l>Saae man paa den Dogg Vold,</l>
+<l>Som ei flygted Finne-Skjold,</l>
+<l>Satte over Groft og Giærde,</l>
+<l>Beed i Thore, Haand for Hærde.</l>
+</lg>
+<p>Da sagde Kongen til Bjørn Staller: slaae den Hund som Jern ei bider! og Bjørn tog flux. sin Øxe sorkeert og slog med Hammeren til Thore 
+<pb facs="1815_8_page0083.png"/>
+<fw type="pageNum">49</fw>
+paa hans Arel, ret et Dommedagsslag, saa Thore stod og ravede. Imidlertid havde Kongen vendt sig mod Kalve Fraender og fældet Olav, men nu løb Thore Hund til Bjørn Staller med et Spyd, gav ham sit Banesaar og Sagde, saa beed vi Bamsen; og Thorstein Knarra-Smed huggede til Kong Olav med sin Øre oven over Knæskallen paa det venstre Been. Find Arnesen kløvede Thorstein i samme hellige. Øieblik, men Kongen segnede ved Saaret ned paa en Steen, kastede Sværdet og befoel sig Gud i Vold. Da stak Thore Hund ham et Spyd nedenfra under Brynien op i Livet, og Kalv huggede ham paa den venstre Side af Halfen, dog er man ikke ganske enig i, om det var Kalv der gav ham det Saar. Det var da de trende Banesaar Kong Olav fik, og der Kongen var slagen, faldt og hardtad hele den Skare som havde fulgt ham.</p>
+<p>Om Kalv Arnesen har man i denne Anledning et Vers af Bjørn Guldbraa-Skjald som lyder saaledes:</p>
+<lg>
+<l>Vaabendjærv i Vaabenbrag</l>
+<l>Værged du mod Olav Landet,</l>
+<l>Gjorde ogsaa, for det Andet,</l>
+<l>Raskeste blandt Konger spag,</l>
+<l>Under Banneret du glad</l>
+<l>Frammerst gik paa Stiklestad,</l>
+</lg> 
+<pb facs="1815_8_page0084.png"/>
+<fw type="pageNum">50</fw>
+<lg>
+<l>Øved Daad som Helten egneb,</l>
+<l>Helmed ei, for Drotten Segned.</l>
+</lg>
+<p>Men om Bjørn Staller siunger Sighvat Skjald:</p>
+<lg>
+<l>Bjørnen under Ørneklo</l>
+<l>Stallare kan lære,</l>
+<l>Hvad det er at følge tro</l>
+<l>Drotten sin med Ære;</l>
+<l>Han der i den hole Sal</l>
+<l>Vogted paa sin Drots Gebærde,</l>
+<l>Lagde sig paa rode Val</l>
+<l>Og ved Kongens Hoved - Gjærbe,</l>
+<l>Som han sad ved Kongens Bord,</l>
+<l>Som han stod paa Folke-Thinget,</l>
+<l>Laae han paa den kolde Jord</l>
+<l>End af Hirden tæt omringet.</l>
+<l>Held Enhver, der saae mon falde,</l>
+<l>Fulgt af Venner, priist af Skjalde!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div> 
+<pb facs="1815_8_page0085.png"/>
+<fw type="pageNum">51</fw>
+<head>Om den Gullandske Kongelinie i Danmark</head>
+<head>eller</head>
+<head>Den Danske Ynglinge-Saga.</head>
+<head>(Af Saxos 7de Bog).</head>
+<p><hi rend="initial">D</hi>er Halvdan Bjerggram døde sønneløs, forordnede han i sin sidste Villie at Kong Yngve paa Gulland skulde arve baade Dresselen og Kongestolen, og uagtet han faldt i Krig mod sin Medbeller Regnald, beholdt dog hans Søn Sigvald Danmarks Rige.</p>
+<p>Den samme Kong Sigvald havde en Daatter, ved Navn Sigrid, som var saa vidunderlig ærbar, at, enddog hun for sin Deiligheds Skyld fik Bellere vel ti for een, saa var hun dog ei at formaae til at see op paa nogen af dem alle, og som hun nu 
+<pb facs="1815_8_page0086.png"/>
+<fw type="pageNum">52</fw>
+stolede paa denne sin Ærbarhed, tog hun det Ord af sin Fader, at Ingen skulde blive hendes Bradgom, uden saa var at han først med Elskovstale kunde lokke hendes Vine til sig.</p>
+<p>Det var Piger vi havde i gamle Dage, der" holdt deres Dienslyst saa flittelig i Ave, for at ikke letfærdige Syn skulde smitte og friste deres rene Sind, men Hjertets Tugtighed forkyndes af et ærbart Ansigt.</p>
+<p>Der var imidlertid dog en vis Odder Ebbesen, som, hvad han saa end stolede paa, enten paa sine store Bedrifter, eller paa sin Artighed og slebne Tunge, fatte stadelig og hæftig an paa den Jomfrue med brændende Kjærlighed. Han lagde da alle Aarer ombord for et Blik, men kunde dog med al sin Konst ei lofte de nedslagne Vine, og maatte langt om længe give tabt med stor Forundring over saa ubøielig en Strænghed i et Pigehjerte. Nu var der og en Jette som beilede til Møen, men her han mærkede at det var spildt umage, sik han for Sølv og Guld en Kvinde til at hjelpe sig, see, hun forstod at sætte sig i Gunst hos Sigrid, og var en Tidlang hendes Følgetene, men fik hende saa engang med Snedighed lokket paa en Afvei langt ud fra hendes Faders Gaard, og der var Jetten strax ved Haanden, og snappede Sigrid 
+<pb facs="1815_8_page0087.png"/>
+<fw type="pageNum">53</fw>
+Og førde hende til sin Jettestue, som han havde i en Bjergklint. Man fortæller det ellers ogsaa paa den Maade, at det skulde have været Jetten selv, som havde skudt sig i Kvinde-Ham, narret Jomfruen bort fra Kongens Gaard, og saa snappet hende. Dette fik imidlertid Odder at spørge, og han havde ingen Noe paa sig, førend han kom afsted og fik randsaget paa Bjerget baade oppe og nede, til han endelig fandt Jomfruen, Jetten slog han da ihjel, og hende tog han med sig, men det var forunderligt nok med hendes Haar, Jetten havde været saa nyttig at flette og filtre de favre, lange Lokker saaledes i Hob, at der hørde Konst til uden Sax at faae de Knuder og Bulker skilt ad igjen. Nu havde da Odder paa nye, som man kan tænke, alle sine Garn ude for at fange sig et Øiekast, men han kunde gjerne sparet sin Uleilighed, thi dødøiet stod det Pigebarn nu som før, og han maatte da tilsidst gaae bort med uforrettet Sag, thi han vilde ingenlunde tvinge Pigen eller beskjæmme en saa høibaaren Møe.</p>
+<p>Nu vankede da Sigrid længe om paa vil" den Mark og kom tilsidst til en Hytte i en Skov, hvor der boede en heslig Ellekvinde, som satte hende til at vogte sine Gledder. Ogsaa der kom 
+<pb facs="1815_8_page0088.png"/>
+<fw type="pageNum">54</fw>
+Odder hen, og bød sig til at frelse hende, og fristede hende end ydermere med saadan Tiltale:</p>
+<lg>
+<l>Lyster dig nu, Pigelil i</l>
+<l>Min at være som jeg vil,</l>
+<l>Eller her at gaae i Skove,</l>
+<l>Bed he stramme Gjedders Bove?</l>
+</lg>
+<lg>
+<l>Arme, deilige Slavinde!</l>
+<l>Flye dog fra den fule Kvinde,</l>
+<l>Tag den Haand, jeg huld dig rækker,</l>
+<l>Følg mig flux til mine Snekker,</l>
+<l>Kald dem dine Bølge-Karme,</l>
+<l>Og vær frie i mine Arme!</l>
+<l>Hvi vil du bag Hjorden sukke?</l>
+<l>Lad de Gjedder med he Bukke</l>
+<l>Bræge, tygge Drøv i Engen,.</l>
+<l>Selv gak du til Brudesengen!</l>
+</lg>
+<lg>
+<l>Længe jeg med Haand og Mund</l>
+<l>Beilede af Hjertens Grund,</l>
+<l>O! saa løn nu al min Møie!</l>
+<l>Loft dog lidt det kydske Øie,</l>
+<l>Skjul dog ikke længer saa</l>
+<l>Under Skye de Sole smaa!</l>
+</lg> 
+<pb facs="1815_8_page0089.png"/>
+<fw type="pageNum">55</fw>
+<lg>
+<l>Lad dem straale lyse, milde</l>
+<l>Som jeg aarle Had og silde!</l>
+<l>Loft kun op de morke Bryn!</l>
+<l>Kun et Blik, og flux som Lyn</l>
+<l>Vingebred min Vindesnekke</l>
+<l>Skal, med dig i høie Stavn,</l>
+<l>Halsen over Bølgen strække,</l>
+<l>Bære dig til Moder-Favn;</l>
+<l>Der du brat i Fædre-Borgen</l>
+<l>Glemmer og forvinder Sorgen.</l>
+</lg>
+<lg>
+<l>Nu jeg har saa mange Fold</l>
+<l>Friet dig af Jettevold,</l>
+<l>Jeg har stræbt og jeg har stunket,</l>
+<l>Meget lidt og Intet vundet,</l>
+<l>Lad min Trofasthed dig bøie!</l>
+<l>Ynkes og luk op dit Øie!</l>
+</lg>
+<lg>
+<l>Hvad har saa forrykt din Hjerne,</l>
+<l>At du heller vogter Kvæg,</l>
+<l>Tvætter Gieddebukke-Skjæg,</l>
+<l>Som en Ellekvindes Terne,</l>
+<l>End hos mig paa Bænken prud</l>
+<l>Sidder som min væne Brud?</l>
+</lg>
+<p>Dog, Odder maatte sige Alt hvad han vilde, saa blev dog Sigrid ved sin Ærbarhed, og skottede 
+<pb facs="1815_8_page0090.png"/>
+<fw type="pageNum">56</fw>
+end ikke det mindste til ham, for ikke kanskee at komme i Fristelse, hvis hun saae hvad hende stod for Øie.</p>
+<p>Hvor maae det dog ei have været forunderlig høviske Møer, de Oldtids Piger, som ikke Elskerens hæftigste Bønner og sødeste Ord kunne faae til endog kun at blinke med Niet!</p>
+<p>Da nu Odder faae at Jomfruens Die og Hjerte end ei kunde røres ved den Hjelp og Tjeneste han nu havde togange ydet, saa gav han Haabet op og gik beskjæmmet og bedrøvet til fine Skibe; men som nu Sigrid atter vankede vildfarende omkring imellem Klipperne, da maatte det saa føie sig, at hun kom just til Ebbes Gaard. Hun bluedes ved sin Armod og Nøgenhed, og gav sig desaarsag ud for et fattigt Tiggerbarn, men Odders Moder lod sig ikke narre hverken af hendes Ord eller af det blege indfaldne Ansigt og de pialtede Klæder, hun saae nok der sad en Rosensblomme under Bladene, thi Møens Skikkelse og Lader forraadte hendes Byrd og Adelskabet lysde hende ud af Hiet. Hun blev da sat til Høibords, og behandlet med ærbødig Dannished, men Odder lod som ingen Ting, og spurgde hende ganske fremmed hvi hun hyllede sit Ansigt saa i Slør? Nu vilde han imidlertid dog vide ret hvad hendes 
+<pb facs="1815_8_page0091.png"/>
+<fw type="pageNum">57</fw>
+Hjerte sagde, derfor lod han, som han holdt Bryllup med en anden Pige, og Sigrid maatte holde Lyset for ham, der han gik i Brudekamret. Der stod da Sigrid, til Lyset hardtad var heel udbrændt og Luen spillede paa Fingerenderne, men hun stod saa vidunderlig taalmodig og holdt sin Haand saa stille, som om hun folde til slet ingen Meen af Heden; det var da den ene Hede, kan jeg troe, som dæmpede den anden, og for Hjertets stærke Lue maatte Lyseflammen give tabt. Endelig bad Odder hende dog vare sine Fingre, og see, nu slog hun da blufærdig sine klare Øine op, og saae saa mildt til ham, at man lod flux det andet Skyggebryllup fare og ledte Sigrid selv i Brudekamret.</p>
+<p>Siden lod vel Sigvald Odder gribe, og vilde hængt ham som den der havde beskjemmet hans Daatter, men Sigrid skyndte sig da at fortælle den rene Sammenhang om Jetten og om alle hendes Hændelser, og saa tog Kongen ikke blot Odder til Naade, men tog ogsaa hans Syster til sin Dronning, og denne underlige Handel endtes da til Glæde med et dobbelt Svogerskab.</p>
+<p>Nogen Hid derefter skedte det, at Sigvald og Regnald kom i Krig med hinanden, de fik sig da begge en Hær paa Benene af de meest udsøgte Folk, og der stod et Slag i Sælland, som var blodigt 
+<pb facs="1815_8_page0092.png"/>
+<fw type="pageNum">58</fw>
+tilgavns, og varede i tre samfelde Dage, uden at man kunde see, hvem der skulde vinde, saa drabelia sloges der paa begge Sider; men hvad enten nu Odder blev kjed af den Langeleeg, eller fik Lyst til at indlægge sig synderlig Ære, nok er det, at ha" med øiensynligste Livsfare brød igiennem de fjendtlige Skarer ind i Kong Regnalds Skjoldborg, og slog ham midt imellem hans tappreste Kjæmper, hvorved han da tog Seieren med en Trumf paa de Danskes Vegne. Det var ellers ogsaa et mærkværdigt Slag med det, at der overgik de Svenske Herrer saadan en uslukkelig Skam, thi der kom saadan en Rystelse over Rigens Pillere, at syrgetive stærke Kjæmper, eftersom mig er fortalt, vendte Ryg i Slaget. Selv Stærkodder, Mesteren for dem alle, som ellers ikke havde for Skik at svige et saadant godt Lag, hvor broget det end gik til, og hvormange de brodne Pander end bleve, han lod sig dog her forskrække af noget, jeg veed ikke hvad, og valgte heller at flye med Flokken end at staae med Æren, saa jeg skulde hardtad troe, det var vor Herre selv der slog ham med den Frygt, for at han ikke skulde blive for indbildsk af sin store Manddom, og mene, at han var en Undtagelse fra alle andre Mennesker; og saaledes er det: uden Lak er her i Verden Ingens Lykke.</p>
+<pb facs="1815_8_page0093.png"/>
+<fw type="pageNum">59</fw>
+<p>Alle disse svenske Herrer tyede som en Kjaempelevning til den navnkundige Søerøver Hale, og gave sig i Ledtog med ham.</p>
+<p>Noget efter døde Kong Sigvald, og havde sin Sen Sig" til sin Eftermand. Denne Kong Sigar havde igjen tre Sønner: Sigvald, Alf og Alger, og een Daatter ved Navn Signe. Alf er bekjendt under Tilnavn af ham med Sølvhaaret, for hans hvide, klare Lokkers Skyld, og han var da i alle Maader, baade, som man siger, i Sind og i Skind, sine Brodles Overmand, og sværmede helst omkring paa Havet med Vikinge-Snekken I de samme Dage levede den Gothiske Kong Sigvard *), som skal have havt to Sønner, Ve-</p>
+<p>*) Saxo kalder Yngve (Ungvin) Rex <hi rend="latine">Gothensium</hi> og Sigvard <hi rend="latine">Rex Gothorum</hi>, Vedel har oveisat paa begge Steder Gyllands (Gullands) Konge, men Forskjel synes her at maatte gjøres, hvorfor jeg ogsaa har kaldt Yngve Gullands og Sigvard Gothlands Konge. Imidlertid er Sagen itte klar, thi vel taler, den forskjellige Endelse for Skilsmissen, men paa Sligt kon man hos Saxo ei bygge stort, især da han ogsaa kalder Ungvins Rige <hi rend="latine">Regnum Gothicum</hi>; vel synes det rime, ligt at Ungvins Ætmænd har beholdt hans Rige, men deels kan han have havt to Sønner, og deels</p>
+<pb facs="1815_8_page0094.png"/>
+<fw type="pageNum">60</fw>
+<p>mund og Østen, og en Datter, ved Navn Alvilde, der hardtad ligefra Vuggen af, var saa bluefærdig, at hun gik med Slør Dag ud og Dag ind, for ikke med sin Deilighed at friste nogen til Elskov. Siden lukte hendes Fader hende inde i sit Fruerbur, og gav hende en Øgle og en Hugorm som hun skulde opføde, og alt som disse uting voxte til, kan der være skeet Skilsmisse i Anledning af den uheldige Krig hvori han faldt. Det skulde glæde mig herom at here Kyndiges Mening, thi jeg agter Sligt ei for saa ubetydeligt, og holder for, at enten skal vi slaae en Streg over Saxos Sagn, eller vi skal troe hans Ord bedre end vore egne Giætninger, Noget man veed er hardtad aflagt af Nordens senere Historieskrivere, hvorfor og Suhm uden Videre, flyttede Ungvin til Slesvig, kaldte ham Hugne, reev ham i alle Maader ud af sin Families Skjød, og undgik derved rigtig nok nogle vanskelige Spørgsmaal, men besvarede dem visselig ikke. Det er vel ved denne Leilighed ikke af Veien at bemærke, hvor høistnødvendig en nye Revision af vore Oldskrifter er for der kan skrives nogen ny Kremte som duer, om de gamle Dage, thi rettes og forenes skal Alt hvad som kan, men hvad man ikke forstaaer, skal man lade staae hvor det er sat af de Gamle.</p>
+<pb facs="1815_8_page0095.png"/>
+<fw type="pageNum">61</fw>
+<p>skulde de være hendes Vagt. Nu, det var ikke heller hver Mands Leilighed at gjæste sligt et Brudekammer hvor der var saadan Laas og Lukke, og da Kongen desuden havde ladet forkynde, at i hvem der prøvede sin Lykke der og kom tilkort, han skulde strax halshugges, og hans Hoved fættes paa en Stage udenfor Buret, saa maatte under de Betragtninger, Lysten vel forgaae selv de Ungersvende, som kunde ellers være hidsige og forvovne nok. Imidlertid forgik den ingenlunde Alf Sigersen, thi han gjorde den Regning, at jo meer at vove, desmere og at vinde, og meldte sig som Beller; og nu skulde han da til at drages med de Udyr, der laae paa Vagt for Jomfrueburet, thi efter Kongens Forordning, skulde den, der kunde overvinde dem, og ingen anden, have Ulvildes Haand. For nu at gjøre Ormene desmere gridske paa sig, aflede han et blodigt Skind, og i den Dragt gik han frem for Borgeledet med en Tang og et gloende Jern i den ene Haand og sit Glavind i den anden. Der nu Øglen kom gabende imod ham, stak han ham Jernet lige ned i Svælget, saa han drattede omkuld og var død. Saa kom Hugormen og bugtede sig nok saa smidig, men ham skjød han i Gabet med sit Spyd, saa han fik ogsaa nok og laae derved. Nu forlangde da Alf hvad 
+<pb facs="1815_8_page0096.png"/>
+<fw type="pageNum">62</fw>
+han havde stridt for, og hvad der ogsaa var ham lovet, men Sigvard Svarede, at det kom ganske an paa hans Daatter, hvem der var hende god nok til Brudgom var og ham til Svoger. Det var da nu kun om Alvilde Samtykke at gjøre, men denne Beller stod slet ikke Moderen an; hun tog derfor Daatteren til sig i Eenrum for at udforske hendes Hjerte, og Alvilde roesde Prindsen varmt for hans store Manddom, men jo meer hun roesde, desflere Utak fik hun, og Moderen skammede hende ud som dem der mod al Ærbarhed lod sig indtage af de smukke Friere, og forraadte et letfærdigt Hjerte, aldenstund hun ikke dømte efter Dyd, men efter Deilighed. Der nu Alvilde fik ved saadan Tale Leede til den danske Prinds, blev hun og kjed af det Kvindelevnet, lod sig Mandsklæder skiære, og blev fra blyeste Pigebarn af til den vildeste Viking. Hun drog da ud tilligemed endeel af sine Terner som fik den samme Lyst/ og kom just til en Flok Vikinger som var i stor Vaande for deres Høvding, de havde mistet i et Slag, og de samme Vikinger bleve saa indtagne i Ulvilde for hendes Deiligheds Skyld, at de valgte hende til deres Høvding, og tog heller ikke Feil, thi det skulde Ingen mærke paa hendes Færd og Bedrift, at hun var en Kvinde. Imidlertid flakkede Alf omkring paa Havet for at sinde 
+<pb facs="1815_8_page0097.png"/>
+<fw type="pageNum">63</fw>
+Ulvilde, og havde mangt et haardt Pust at udholde. Saaledes stødte han om Vinteren sammen med Blakmannernes Flaade *), paa en Tid, da der var saadan Mængde med Driviis i Stranden, at Ingen kunde enten roe eller seile. Imidlertid holdt Frosten ved, og Jiskagerne frøs sammen saa de kunde bære, og nu befoel Alf sine Folk at drage Skoene af og løbe paa Sokkerne, for at staae desfastere paa Glatiisen. Da Blakmannerne saae at de trak saaledes ud, tænkte de det var for at blive deslettere til at fægte med Hælene, og satte derfor efter dem, det kom ogsaa til Slag; men Blakmannerne med deres glatte Skoe, skræntede og snublede hvert Øieblik, da de Danske derimod havde en fast Fod at staae paa, stødte dem lettelig omkuld og finge Overhaand. Siden efter satte Alf sin Kaas ad Finland til, og kom der til en Fjord hvis Munding var kun smal, derfor skikkede han Spei-</p>
+<p>*) Jeg veed jo meget vel at man udlægger Ordet <hi rend="latine">Blacmanni</hi> ved Mænd fra Bleking, har ikke heller det mindste derimod, naar man kan anfsre bedre Grunde derfor end den blotte Lighed i Ordenes Klang, men indtil saalænge holder jeg mere af med Vedel at sætte et Navn jeg ikke kjender! end et bekjendt Navn jeg ei kan svare for.</p>
+<pb facs="1815_8_page0098.png"/>
+<fw type="pageNum">64</fw>
+<p>dere ud som skulde forfare Leiligheden, og de kom igjen med den Beskeed, at der laae nogle saae Skibe som bespændte Løbet. Det var Ulvilde som laae der med sine Snekker, og hun skimlede aldrig saa snart de fremmede Stavne, før hun i en Hast lod gjøre klart, og roe af alle Kræfter lige imod dem, thi efter hendes Mening var det altid bedre, at hente end vente sin Fjende. Alfs Staldbrødre meente, det sømmede sig ikke for dem at slaaes med det Par Skibe, men Alf svarede, at det kaldte han usømmeligt, at nogen skulde komme og fortælle Ulvilde, at han havde dreiet af for saadant et Par Snekker, og efter saa store Bedrifter ladet siig en Smaating sætte Klik paa hans Ære *). Det kom da til Slag, og de Danske kunde ikke noksom forundre sig over Fjendernes Deilighed og smidige Bevægelser, men der nu Alf var kommet op paa Alvildes Skib og havde gjort klart Dæk mellem Stavnene, og hans Stalbroder Borkard kom til at slaae</p>
+<p>*) At mine Formænd ei have truffet Meningen af dette noget vanskelige Sted, det veed jeg, men hvad jeg ikke veed tilvisse, er om jeg selv har været heldigere, dog mener jeg det, og beder Kyndige rette mig, hvis de see hvori Feilen stikker.</p>
+<pb facs="1815_8_page0099.png"/>
+<fw type="pageNum">65</fw>
+<p>Ulvilde hendes Hjelm af Hovedet, da fik han Øie pc. - den glatte Hage, og mærkede vel man maatte skifte Vaaben, bruge Kys for Kaarde, og klappe slig en Fjerde finere end med Staalhandsker. Hvem der nu blev glad, det var da Alf, der saa uventendes fandt hvad han saalænge havde søgt til Lands og Vands utrættelig, og under mange Farer, han annammede sin Fæstemøe med Hjertens Kjærlighed, fik hende til at skifte Dragt, saa hun igjen blev kvindelig, og avlede siden med hende en Daatter, Gyrithe. Borkard fandt sig og en Venneviv iblandt Ulvildes Terner, som heed Gro, og avlede en Søn med hende, som man siden kaldte Harald Hyldetand; men for at man nu ei skal tænke disse jernklædte Møer var et stort Vidunder, bliver det vel bedst at sige et par Ord om Skjoldmøe-Viis og Vilkaar.</p>
+<p>Der var da virkelig i gamle Dage, danske Mø", som lode sig Mandsklæder skjære, og tilbragde hardtad deres hele Levetid under Vaaben, for ei at slappes under Lystighed og bløde Klæder. De havde fattet Lede til alt Kjælenskab, og vilde heller hærde baade Sjal og Legeme i Mode og Smerte, de forsagede al Kvinde-Blodhed og Letsindighed, og paanødte Pigehjertet mandlig Barskhed; men ikke det aleneste, de lagde sig endog saa flit-
+<pb facs="1815_8_page0100.png"/>
+<fw type="pageNum">66</fw>
+tig efter al Krigs-Brug og Øvelse, og nemmede det alt saa vel, at Ingen skulde sige andet, end at de havde skiftet Kjøn med Kjortel, især naar det var muntre, favre, ranke Pigebørn, og dem var det fornemmelig som pleiede at føre sligt et Levnet. Det var da med de Skjoldmøer, som om de havde reent forgjættet Kvinders medfødte Vilkaar, dem huede ei kjælne Toner men det rue Kjæmpemæle, de favnede Sværd og ikke Svende, tørstede ei efter Kys, men Blod, Vaabenlarm var deres Elskovs-Leeg, og Fingrene som skabtes til at lege mellem, Traade, sloge kun Spydstagers Væv, paa Valen redte de sig Brudesenge, og beilede med skarpen Staal til ungersvendene, som skulde sjunket for deres Deilighed.</p>
+<p>Dog, for at komme til Fortællingen igjen, saa skedte det tidlig om Foraaret derefter, at Alf og Alger, som paa Vikinge-Viis foer omkring, saa hist og saa her paa Havet, stødte paa en Smaakonge Hamunds tre Sønner: Helvin, Habor og Hamund, med hundrede Snekker. Der blev da et alvorligt Søslag og kun den sorte Nat adskilte de mordtrætte Kiæmper, men da man nu om Morgenen skulde til at see sig om, mærkede man, at det kunde ikke gaae til i Dag som i Gaar, thi man havde den forrige Dag brugt sig saa vel paa begge 
+<pb facs="1815_8_page0101.png"/>
+<fw type="pageNum">67</fw>
+Sider, at der nu paa ingen af Siderne var synderligt at gjøre med. De forligde sig derfor i Mindelighed, og saaledes kan man sige, at deres Manddom giorde dem spage, og de gjorde en Dyd af en Nødvendighed.</p>
+<p>I de samme Dage var en høivelbaaren Tydsker, som heed Hildegisel. eller Hildigslev *), kommen herind og beilede til Sigars Daatter Signe, ikke fordi han havde nogen Heltebedrifter at rose sig af, men fordi han stolede paa sit Adelskab og glatte Ansigt. Det var imidlertid en gal Regning, den, thi Signe drev kun Spot med den Flødskjæg, som vilde prale med fremmede Fjer og gjøre Lykke med at være sin Faders Søn, da hendes Hjerte derimod slog høit for Hale, den Viking, hvis Hore Bedrifter var i Folkemunde, thi i hendes Rangforordning stod Helten over Skjødehunden, og hende stak ei lyse Farver, men kun klar Bedrift i</p>
+<p>*) Hildegisel (Hildes Straale, @@I-. Helten) er udentvivl hans rette Navn, men jeg sætter det med, som Vedel har brugt, især fordi det passer bedre i Verset. Navnet er ellers ret mærkeligt for sin nordiske Sammensætnings Skyld, og peger som saa meget, paa Saxernes nordiske Herkomst.</p>
+<pb facs="1815_8_page0102.png"/>
+<fw type="pageNum">68</fw>
+<p>Øinene, hun vidste godt at Deilighedens Glimmer falmer brat i Manddoms Glands, og Dyd er ei med Smukhed at opveie. Saaledes finder man dog Piger undertiden, som give helier deres Hjerte til den ædle end til den nette Beller, som skue. Manden ei paa Haar men ind i Siælen, og i hvis Hjerte ikkun Straaler fra det Inderste kan tænde Kjærlighed.</p>
+<p>Imidlertid kom Habor da til Dannemark, og havde fulgdes hjem med Sigars Sønner, men hvad de ikke vidste, var, at han havde faaet deres Syster i Tale, og taget hende saa med Kærligheds Ord, at hun i Lønmed Haand og Mund havde lovet og svoret at være hans Brud. Nu traf det sig engang at Signes Verner kom paa Tale om Ædlinger, hvem der stod øverst, og da fatte hun Hake over Hildegisel, sigende at ved Hildegisel var slet intet Priseligt, undtagen Skabningen, men Hake havde derimod en Blomst i Hjertet, trods den hans Kinder manglede; ja, hun nøiedes end ikke med at rose ham saa løselig, men bandt ham og, som Ordet gaaer, en Ærekrands i disse Riim:</p>
+<lg>
+<l>Rød og hvid er ei hans Kind,</l>
+<l>Men det ædle, kjætke Sind</l>
+</lg> 
+<pb facs="1815_8_page0103.png"/>
+<fw type="pageNum">69</fw>
+<lg>
+<l>Lyser ham af Bie,</l>
+<l>Under Kamp blev Kinden bruun,</l>
+<l>For hans Skiæg de fine Duun</l>
+<l>Maae sig vel nedbøie.</l>
+</lg>
+<lg>
+<l>Hvo som fik den rette Sands,</l>
+<l>Seer at Kiækhed kaster Glands</l>
+<l>Over Saar og Rifter,</l>
+<l>Skam faae hun der elsker ei</l>
+<l>Blomster som paa Kjæmpevei</l>
+<l>Plukkes med Bedrifter?</l>
+</lg>
+<lg>
+<l>Ikke paa den blanke Hud,</l>
+<l>Men i Hjertets Sølverbrud</l>
+<l>Glandsen haver hiemme,</l>
+<l>Under Hjelm i Vaabengny</l>
+<l>Hake vandt sig Roes og Nye,</l>
+<l>Som gaaer seent ad Glemme.</l>
+</lg>
+<lg>
+<l>Hildigslev, hvad er hans Pryd?</l>
+<l>Intet Mod og ingen Dyd,</l>
+<l>Kun et Skin som svinder,</l>
+<l>Graane maae guldfagre Haar,</l>
+<l>Falme maae jo Aar for Aar</l>
+<l>Rosenrode Kinder.</l>
+</lg> 
+<pb facs="1815_8_page0104.png"/>
+<fw type="pageNum">70</fw>
+<lg>
+<l>Folkeroes for siig en Pryd,</l>
+<l>Det er Tant og Bjeldelyd,</l>
+<l>Tale hen i Veiret,</l>
+<l>Længere det mindes dog,</l>
+<l>Hvo paa Val de Tappre vog,</l>
+<l>Hvem i Kreds har seiret.</l>
+</lg>
+<lg>
+<l>Jad da Andre love kun</l>
+<l>Deilighed med Daaremund,</l>
+<l>Glemme ret at domme!</l>
+<l>Ikkun Spot af mig dog faaer</l>
+<l>Glatte Kind og gule Haar,</l>
+<l>Dyd vil jeg berømme.</l>
+</lg>
+<p>Det klang i Ternernes Vre, som om det var Hake hun roesde paa Skrømt, men Habor for Alvor, og der Hildegisel fornam at han maatte hos Signe staae tilbage for Habor, da blev han bister tilgavns, og kjøbde for Penge en blind Mand, ved Navn Bolvise, til at forspilde Venskabet imellem Sigars og Hamunds Sønner. Den samme Bolvise var den Ene af Kong Sigars ypperste Raadgivere, thi saadanne to gamle Mænd havde Kongen altid om sig, og gjorde hardtad aldrig nogen Ting uden efter som de raadte ham; men der var ellers en himmelhøi Forskjel paa de to 
+<pb facs="1815_8_page0105.png"/>
+<fw type="pageNum">71</fw>
+kloge Mands Tænkemaade, thi den Ene gjorde al sin Flid med at tale uvenner til Rette, og forlige dem i Minnelighed; den Anden derimod var aldrig gladere end naar han kunde satte Splid iblandt Venner, og hvor han faae en Tvedragts Gnist, der . puste til som en Øretuder *). Bolvise sværtede nu Hamunds Alt for Sigars Sønner med løgnagtig Bagtale, og forsikrede dem saa ærlig, at det var Folk som aldrig bred sig enten om Troe eller Love, og som man derfor maatte holde i Skranker, ikke med Ord og Forbund, men med Sværdet over Hovedet. Han fik da ogsaa rigtig Ungersvendene sat sammen, og der stod et Slag i Hamundsfjord, hvor baade Helvin og Hamund faldt for Sigars</p>
+<p>*) Til det Mærkelige i denne Fortælling hører ogsaa de to Gamles Navne: <hi rend="spaced">Bolvise</hi> og <hi rend="spaced">Bilvise</hi>, thi det er aabenbar deres Kjendenavne, som en Skjald har givet dem efter deres Klogskabs Vilkaar, Bilvise er den godvise, retvise, af Ordet viis og <hi rend="latine">bile</hi> som endnu sindes i det Angelsaxiske <hi rend="latine">bilehvit simplex, mitis</hi>, og Bolvise veed man betyder ondviis, uretviis; men herved er end at mærke, hvor gammelt altsaa Ordet <hi rend="spaced">viis</hi> er hos os, saavelsom hos Angelsaxerne, der endog have Ordet <hi rend="spaced">Viisdom</hi>, og saadanne Spor skulde Sproggranskere give Agt paa.</p>
+<pb facs="1815_8_page0106.png"/>
+<fw type="pageNum">72</fw>
+<p>Sønner. Habor var dengang langveis borte, men der han spurgde sine Brødres Fald, kom han over Alf og Alger med friske Folk og svalede sin Hevn i deres Blod. Hildegisel blev derimod skudt i Flugten med et Spyd igjennem sin Bag, hvilket gav Anledning til at skose Tydskerne, thi ved slige Leiligheder maae Skam og Skade gjerne følges ad.</p>
+<p>Med saa forrettet Sag tog Habor Kvindeklæder paa og gik til Signe mutters ene, for at minde hende om sit Lofte, sont om han meende ei at have saaret Søsterhjertet der han fældte Brødrene, men Tingen er, at Kjærlighed gjør dristig, og han faae meer paa Hendes Trofasthed end paa sin egen Brøde. For nu imidlertid at gjøre sig et Ærende, gav han sig ud for en af Hakes Skjoldmøer; som havde Bud fra ham til Sigar. Paa den Maneer blev han ladt ind i Fruerburet, og beskikket Natteleje mellem Ternerne, men der han om Aftenen havde tvættet sine Fødder, og Smaapigerne torde ham, fik han det Spørgsmaal, hvoraf det kom sig at hans Been vare saa laadne, og Hænderne saa barkede at fole paa, og dertil svarde han som saa:</p>
+<lg>
+<l>Harver først hvad jeg har pløiet,</l>
+<l>Da I veed hvad jeg har døiet.</l>
+<l>Over Stok og Steen man færdes,</l>
+<l>Sagtens maae da Huden hærdes;</l>
+</lg> 
+<pb facs="1815_8_page0107.png"/>
+<fw type="pageNum">73</fw>
+<lg>
+<l>Følg i Verden Valhals Norne,</l>
+<l>Skuur med Gruus og klap med Torne;</l>
+<l>Sveed og frys og vank i Skove,</l>
+<l>Nipper paa den steile Vove!</l>
+<l>Hop paa Spyd og bands paa Skier!</l>
+<l>See da om ei Saalen svier,</l>
+<l>Om ei mellem Od og Egge</l>
+<l>Eder voxe Haar paa Lægge!</l>
+<l>Mener I, at disse Lemmer,</l>
+<l>Som den snevre Brynje klemmer,</l>
+<l>Som de hvasse Sværde klappe,</l>
+<l>Kan som Eders under Kappe,</l>
+<l>Under Maard og hviden Liin,</l>
+<l>Holde Huden blod og fiin?</l>
+<l>Tænker I, at disse Hænder,</l>
+<l>Hvori Staal for Naal sig vender,</l>
+<l>Være kan saa bløde, hvide,</l>
+<l>Som om jeg ved Eders Side</l>
+<l>Daglig sad i lune Kammer,</l>
+<l>Dreied Rokkehjul og Rammer?</l>
+</lg>
+<p>godt at labe som hun troede hvert Ord, ja sandede det ydermere med ham og sagde *):</p>
+<p>*) Signes Tale er hos Saxo ei sat paa Vers, men fordi han ei har kunnet faae den i Skik paa Latin, bør man jo vel prøve det paa Dansk, saameget mere som en ordret Oversættelse af saa-</p>
+<pb facs="1815_8_page0108.png"/>
+<fw type="pageNum">74</fw>
+<lg>
+<l>Skal man ei være sit Arbeide liig?</l>
+<l>Er der ei Forskjel paa Kys og paa Krig?</l>
+<l>Haanden, som bruger den mægtige Naal,</l>
+<l>Hvormed der spes og sømmes i Staal,</l>
+<l>Haanden, som forer den mægtige Sax,</l>
+<l>Hvormed de Hoveder klippes som Ax,</l>
+<l>Vorder vist ikke i Huden saa fiin,</l>
+<l>Som den der piller paa Uld og paa Liin.</l>
+<l>Fingrene bløde og lidt vilde due,</l>
+<l>Til at faae Bugt med en haardnakket Bue,</l>
+<l>Til at handtere paa skummende Baare</l>
+<l>Begede Takkel og bugede Aare.</l>
+<l>Skjoldmøen haver ei Hvile i Bur,</l>
+<l>Fort maae hun følge den kaldende Lur,</l>
+<l>Spydene slynge og Sværdene svinge,</l>
+<l>Saa ud af Fingrene Blodstraaler springe;</l>
+<l>Husker, at Haanden, saa barket og haard,</l>
+<l>Spinder Bedrifter som vi Spinde Blaar!</l>
+<l>Sagtens maae ogsaa vel Saalerne hærdes,</l>
+<l>Naar baade tidlig og silde man færdes,</l>
+</lg>
+<p>danne oplosse Vers vilde klinge heel tom og svulstig. Paa alle siige Steder har jeg da i Sinde at gjøre som her, og uden andet Hensyn give Talens Indhold i de bedste Riim og Lignelser jeg kan faae fat med Oret vendt mod Oldtids Røst.</p>
+<pb facs="1815_8_page0109.png"/>
+<fw type="pageNum">75</fw>
+<lg>
+<l>Naar man ved Strande paa stenede Bred</l>
+<l>Vanker saa mangt og saa modigt et Fjed;</l>
+<l>Sagtens gjør det ikke Fedder saa fine,</l>
+<l>Som naar de knap over Tærskelen trine,</l>
+<l>Træde paa Gulv og paa blommede Enge,</l>
+<l>Vanke som videst i Jomfruens Vænge.</l>
+</lg>
+<p>Derpaa annammede hun Habor til sig i fin egen Seng, som for at gjøre Ære af den fremmede Møe, og under megen Kiærligheds Tale kom det som af sig selv at Habor tog Ordet og sagde:</p>
+<lg>
+<l>Hvis mig din Fader nu fage</l>
+<l>Ynkelig tager af Dage,</l>
+<l>Vil da du væneste Blomme</l>
+<l>End vores Pagt ihukomme,</l>
+<l>Eller kanskee vil du fæste</l>
+<l>Munter den Første den Bedste?</l>
+<l>Faaer kun din Fader at vide</l>
+<l>Hvem du har her ved din Side,</l>
+<l>Da er ei derpaa at tænke,</l>
+<l>Han skulde Livet mig skiænke,</l>
+<l>Ei hjelper Bod eller Bønner</l>
+<l>Den som har slaget hans Sønner.</l>
+<l>Dem har jeg fældet i Stavn,</l>
+<l>Holder nu dig i min Favn,</l>
+<l>Favner en Konninge-Daatter i Løn;</l>
+<l>Saadant afsoner ei Bod eller Bøn.</l>
+</lg> 
+<pb facs="1815_8_page0110.png"/>
+<fw type="pageNum">76</fw>
+<lg>
+<l>Siig da, min kjæreste Signelil, siig!</l>
+<l>Hvad vilst du gjøre, naar jeg ligger Liig?</l>
+</lg>
+<p>Da svarede Signe:</p>
+<lg>
+<l>O! troe du mig, Kiæreste fiin?</l>
+<l>Din Dødsdag den vorder og min,</l>
+<l>Hvorefter mon leve jeg skulde,</l>
+<l>Naar du ligger kold under Mulde?</l>
+<l>Nei, skalst du sor Øxen dig bøie,</l>
+<l>Ja hvor du saa lukker dit Bie,</l>
+<l>Paa Straa, under blinkende Sværd,</l>
+<l>Hvad heller paa skummende Bølge,</l>
+<l>Ei længer jeg Livet har kjær,</l>
+<l>Mig lyster kun flux dig at følge,</l>
+<l>Og ende paa selvsamme Viis,</l>
+<l>Thi Hjertet kun ønsker den Priis:</l>
+<l>"Sin Habor saa troe liden Signe</l>
+<l>"I Død som i Liv vilde ligne."</l>
+</lg>
+<lg>
+<l>O, troe dog for Vist! ingenlunde,</l>
+<l>Selv ei under Øxe og Sværd,</l>
+<l>I Deden forlade jeg kunde</l>
+<l>Den Svend som jeg elskede her,</l>
+<l>Hvem først jeg min Finger lod kryste,</l>
+<l>Hvem først jeg i Kjærlighed kyste,</l>
+<l>Hvem ene blandt Drotter og Helte</l>
+<l>Jeg undte at loft mit Belte!</l>
+</lg> 
+<pb facs="1815_8_page0111.png"/>
+<fw type="pageNum">77</fw>
+<lg>
+<l>Nei, mener du at hos en Kvinde</l>
+<l>End Troskab er mulig at finde,</l>
+<l>Da troe dog for Eeden jeg svor,</l>
+<l>Din Signelil holder sit Ord!</l>
+</lg>
+<p>Denne Tale vederkvægede Habor igjen, thi efter hans Tanker maatte man vel gjerne gaae @@k Ilden for at faae saa gladeligt et Løfte *). Imidlertid var han forraadt af Signes Terner, og der kom Folk fra Kongens Gaard som skulde fange Fuglen for han fløi af Bure; Habor gjorde dem det braaget nok, slog ned for Fode og værgede sig længe som en Mand, men endelig blev han dog fanget og ledt frem paa Thinge. Der han nu skulde dømmes blev der Splid i Menigheden, Somme Sagde at han skulde skee al Landsens Ulykke, som han den havde voldt, Bolvises Broder, <hi rend="spaced">Bitvise</hi>, derimod og Andre med ham, som brugde <hi rend="spaced">bedre Forstand</hi>, erindrede, at det var bedre, man tog Gavn af slig en Helt, end at tage ham saa ynkelig af Dage. Da stod Bolvise op, talede og sagde: at det var kun et Skarns-</p>
+<p>*) Maae digressio ikke her forstaaes om Habors Udvandring for at gjæste Signe, da maae Oversættelsen forandres lidt, men mig synes det er heel uødvendigt.</p>
+<pb facs="1815_8_page0112.png"/>
+<fw type="pageNum">78</fw>
+<p>Raad at bede Kongen spare, hvor han havde Blod at hævne, og at neddæmpe ved utidig Barmhjertighed en saa retmæssig Vredes stærke Nørelse. Hvor er det dog vel mueligt, sagde han, at Sigar skulde kunne lade sig bevæge til Skaansel her, til Medynk over den som røvede ham først i tvende Sønner Alderdommens Trøst, og lod sig end ei dermed nøie, nei lokkede hans Daatter, beskjæmmede hans hvide Haar! Nu gik hardtad hele Thinget over til hans Mening, og Habor, som i Førstningen var saa godt som næsten frikjendt, fældtes nu eenstemmig og fordømtes til at hænge i en Galge. Reist var Galgen, Dronningen stod med et Bæger, rakde ham det, bad ham nu slukke sin Tørst, og udøsde sin Galde over ham i disse Banderiim:</p>
+<lg>
+<l>Stolten Habor! dømt paa Thinge,</l>
+<l>Lil i Galgen høit at svinge!</l>
+<l>See, hvor jeg dig vederkvæger</l>
+<l>Med det fulde Brage, Væger!</l>
+<l>Sluk din Tørst, du Dødens Mand,</l>
+<l>Drukn din Rædsel om du kan!</l>
+<l>Bold du est, saa frygt kun ikke</l>
+<l>For dit Gravøl selv at drikke!</l>
+<l>Drik, saa du kan drukken fare</l>
+<l>Neb til Helas Helteskare;</l>
+</lg> 
+<pb facs="1815_8_page0113.png"/>
+<fw type="pageNum">79</fw>
+<lg>
+<l>Thi nu stolt du klæde skal</l>
+<l>Bænken i den mørke Hald,</l>
+<l>Give skalst du brat i Vaande</l>
+<l>Navne Brad og Hel din Aande.</l>
+</lg>
+<p>Ungersvenden tog imod Hornet som det ham rakdes, og Sagnet melder at han svarede som følger:</p>
+<lg>
+<l>Hil være Kalken, den Sidste jeg smager!</l>
+<l>Hil være Haanden hvori jeg den tager!</l>
+<l>Den bar og Staalet i Vælde</l>
+<l>Til dine Sønner at fælde.</l>
+</lg>
+<lg>
+<l>Hil mig! thi ei uden priseligt Minde</l>
+<l>Trøstig jeg ganger for Gladheim at sinde,</l>
+<l>Hevnet, jeg uden at grue</l>
+<l>Hærfaders Helte tør skue,</l>
+<l>Skikket jeg haver fra Valen</l>
+<l>Venlige Forbud til Salen,</l>
+<l>Jeg har i Konningeblod</l>
+<l>Badet min Haand og min Fod.</l>
+</lg>
+<lg>
+<l>Vee dig, du rasende Niddinge-Kvinde!</l>
+<l>Vee dig, du raser og spotter i Blinde.</l>
+<l>Sjunke ei for mig i blomstrende Alder</l>
+<l>Svendene som dine Sønner du kalder?</l>
+<l>Hanen, hver Morgen han ryster med Vingen</l>
+<l>Galer for dig: end i Dag kommer Ingen,</l>
+</lg> 
+<pb facs="1815_8_page0114.png"/>
+<fw type="pageNum">80</fw>
+<lg>
+<l>Døden har fanget din Glæde i Gjem</l>
+<l>Aldrig den kommer med Sønnerne hjem,</l>
+<l>Vee dig, o ! vee dig og vrie dine Hænder!</l>
+<l>Ikke saa usæl en Moder jeg kjender.</l>
+</lg>
+<p>Saaledes hevnede han sig over Helveis Trudselen ved at ihukomme de Ungersvendes Fald til Moderens Forsmædelse, saa kastede han Bægeret tilbage imod Dronningen, saa Miøden sprang og sprudede i hendes Ansigt.</p>
+<p>Signe sad imidlertid i Buret imellem de grædende Terner og sagde: har I nu Hjertelag til, Smaapiger! at samtykke mig i det som jeg tænker nu paa? Dertil svarede de, at de vilde være hende følgagtige i Alt hvad hendes Hjerte maatte begjære, og lovede baade med Haand og Mund at blive deres Jomfrue troe. Da brast Signe i Graad og sagde: Saamænd, da har jeg i Sinde at følge i Døden den eneste Mand jeg har favnet i Verden, og vil I som jeg, da saasnart vi faae Bud at de kvæle ham deroppe, da lægge vi Blus under Buret, gjøre vore Slør til Strikker, skyde dristig Skamlerne til Side, og hænge os selv under Loftet. Dertil gav de alle deres Minde, og Signe skjænkede for dem med den klare Viin, for at mildne og formindske Dødsens Angest.</p>
+<pb facs="1815_8_page0115.png"/>
+<fw type="pageNum">81</fw>
+<p>Saa førde de da Habor op paa Høien, som har siden saaet Navn efter ham, men som han nu stod under Galgen, faldt det ham ind, at forsøge sin Kjærestes Troeskab, derfor bad han at hans Kappe maatte hænges først, aldenstund det vilde være ham fornøieligt, paa Gravsens Bred at see, som i en Lignelse, sit Endeligt afbildet. Man føiede ham og i denne Bøn, og Signes Vagt, som tænkde det var Habor selv man hængde op, gav flux sit Tegn til Pigerne derinde, som ogsaa ufortøvet satte Ild paa Buret, skjød Skamlerne tilside, og hængde saa tilhobe under Bjelkerne paa Rad. Dengang nu Habor faae at der var Ild i Kongens Gaard, og faae det velbekiendte kjære Sovekammer staae i Lue, da sagde han, at Dødens Kvide var som ingen Ting imod den Fryd han folde over sin Kjærestes vidunderlige Trofasthed, ja skyndte selv paa Kongens Tjenere, og hvor lidt han ændsede at døe gav han tilkjende med det Riim han gjorde:</p>
+<lg>
+<l>Rask, I Svende! nøler ikke!</l>
+<l>Hænger mig kun Holt i Strikke,</l>
+<l>Sødt det er mig, dig at følge</l>
+<l>Favre Brud paa Lue - Bølge.</l>
+<l>See dog, hvor den klare Lue</l>
+<l>Svinger sig mod Himlens Bue!</l>
+</lg> 
+<pb facs="1815_8_page0116.png"/>
+<fw type="pageNum">82</fw>
+<lg>
+<l>Kjærlighed i disse Flammer</l>
+<l>Blusser ud fra Signes Kammer,</l>
+<l><hi rend="spaced">Og hvad klart i dem afmales,</hi></l>
+<l><hi rend="spaced">Mindes, til hvert Hjerte svales.</hi></l>
+</lg>
+<lg>
+<l>Ord du holdt, o Pige fod!</l>
+<l>Huld og troe i Liv og Død.</l>
+<l>Her vi gaae i Døden sammen,</l>
+<l>Hist vi samles brat i Gammen,</l>
+<l>Uforkrænkelig jeg veed</l>
+<l>Er den første Kjærlighed.</l>
+<l>Hil da hver som i sit Liv</l>
+<l>Vandt en saadan Venneviv!</l>
+</lg>
+<lg>
+<l>Med en Fylgje som den bedste</l>
+<l>Han kan Valhals Guder giæste,</l>
+<l>Han har, sært men sødt at sige,</l>
+<l>Selskab i de Dødes Rige.</l>
+</lg>
+<lg>
+<l>Knytter kun de korte Tømmer!</l>
+<l>Døden mig til Fryd fordømmer,</l>
+<l>Galgen er mig Ganger bedste,</l>
+<l>Signe rider jeg at fæste.</l>
+</lg>
+<lg>
+<l>Skriger kun I sultne Ravne!</l>
+<l>Jeg min Signe gaaer at favne,</l>
+<l>Naar I skrige over Brad,</l>
+<l>Kvæde I mit Brude-Kvad.</l>
+</lg> 
+<pb facs="1815_8_page0117.png"/>
+<fw type="pageNum">83</fw>
+<lg>
+<l>Hører! tvende Verdner sjunge,</l>
+<l>Juble ud med liflig Tunge:</l>
+<l><hi rend="spaced">Lige troe i lige</hi> Gammen</l>
+<l><hi rend="spaced">Hjerterne nu hvile</hi> samment</l>
+</lg>
+<lg>
+<l>Lystig, lystig, op ab Stige!</l>
+<l>Jeg det føler, jeg det veed;</l>
+<l><hi rend="spaced">Selv ei i de Dødes Rige</hi></l>
+<l><hi rend="spaced">Døer den dybe Kjærlighed.</hi></l>
+</lg>
+<p>Det var hans Ord, og <hi rend="spaced">derpaa</hi> døde han i Galgen, og for at Ingen dog skal tænke at hvert Spor af denne Oldtids Handel er saa reent udslettet, maae jeg dog ogsaa formelde, at der gaaer Syn for Sagn endnu den Dag i Dag, thi baade bærer den Vang hvor Galgen stod, endnu Navn efter Habor *), og lidt neden for Sigerstæd seer</p>
+<p>*) At jeg ei, som Vedel, har oversat <hi rend="latine">pago</hi> ved <hi rend="spaced">Landsbye</hi> men ved Vang, er ingenlunde fordi aldrig nogen Bye, saavidt man veed, har baaret Habors Navn, thi det er Saxos Sag, og kjender jeg ham Ret, da vidste han vel Rede til hvad han saaledes skrev; men kun fordi jeg troer, at enten har Saxo paa dette Sted forstaaet Slette eller Vang ved pagus eller og skrevet et</p>
+<pb facs="1815_8_page0118.png"/>
+<fw type="pageNum">84</fw>
+<p>man en Smule Brink, hvor Brokkerne tydelig vise at der @@hr staaet en Bygning i gamle Dage, ja paa selvsamme Sted skal en Bonde der gik og pløiede have sundet en Bjelke, som den der fortalde det til Biskop Absalon sagde, han havde seet med sine egne Øine.</p>
+<p>Hake Hamundsen laae i Hærgefærd under Island, dengang han spurgde disse sørgelige Tidender, og stævnede da flux til Dannemark, med Od og Eg at hævne sine Brødre, men da blev han forladt baade af Sællandsfaren Haagen Vigersen og af Stærkoddet, som nu begge, lige siden Regnalds Fald havde troligen fulgt ham, og at de nu toge Orlov, det kom deraf, at den Ene var vennehuld og den Anden elskede sit Fædreneland, saa de havde skiellig Aarsag til at enes i det Stykke.</p>
+<p>andet Ord, og til den Troe bevæges jeg ei blot ved den <hi rend="latine">planities Haberina</hi> som sindes i Stephanii Noter, men især derved at Saxo her ikke nævner den Bakke han i det Foregaaende har Sagt fik Navn efter Habor, som han vel maatte gjort, hvis den ei indbefattedes under det Ord vi læse pago. Desuden hentyde Ordene: <hi rend="latine">extinctus vocabulum intulerit</hi>, som mig synes, klarlig paa Habors <hi rend="spaced">Dødssted</hi> selv</p>
+<pb facs="1815_8_page0119.png"/>
+<fw type="pageNum">85</fw>
+<p><hi rend="spaced">Kjærlighed</hi> formeende Haagen at bære Avindskjold mod Fædrenelandet, thi han vilde ikke vre den, der mens Fjender droges, sloges med Landsmænd; og nu Stærkodder, han vilde ei gaae i Marken mod gamle Sigar, under hvis gjæstmilde Tag han havde fordum hvilet, thi det tykdes ham, var at betale Godt med Ondt. Saaledes finder man dem, der agte Gjæsteretten saa hellig, at de lade sig for ingen Priis bevæge til at gjøre dem noget Meen, under hvis Tag de komme ihu at have nogensinde annammet Herberge og venlig Tjeneste. . Dog, Hake fandt, at han havde tabt meer i sine Brødre, end han tabde nu i disse Kjæmper, blev derfor ved sit Forfæt og løb med sin Flaade ind i en Havn, som Heder paa Latin exercituum sinus, og Hærvig paa Dansk. Der gjorde han Landgang og slog sin Leir lige paa den selvsamme Stæd, hvor nu den Bye og Befæstning ligger, som Esbern har bygt til et Bolværk for Landsfolket imod de grumme, hedenske Sørøvere, der nu ikke skal lystes ved at komme derind. Derpaa deelde Hake sin Flaade i trende Parter, og lod saa Totrediedelen af Skibene med nogle Roerskarle løbe op ad Susaa, enddog det var en farlig Sejlads den samme for de mange Bugters og Krumningers Skyld som Aaen slaaer, men det gjorde han for at Fodfolket kunde 
+<pb facs="1815_8_page0120.png"/>
+<fw type="pageNum">86</fw>
+kunde have en Tilflugt i Nødsfald *). Med den hele øvrige Hær drog han da landveis op, og holdt sig meest til Skovene, for at fare ubemærket, thi, skal jeg sige os, hvor der nu er brat Agerland med lidt Purskov alt imellem, der var i gamle Dage Skov ved Skov. Hvor nu tilsidst Skoven slap, og den aabne Mark tog fat, der lod Hake sine Folk hugge Grene af Træerne for at bære, saa at sige, Skov og Skygge med sig, og for at de kunde værft deslettere til Beens, lod han dem kaste Balg og Brynje og gaae frem med blotte Sværd, og til en evig Amindelse har baade en Bakke og et Vad faaet Navn deraf. Saaledes sneeg han sig om Nattetide to Vagter forbi, men den tredie blev ham dog vaer, studsede over det Vidunder han saae, løb lige til Sigars Herberge og sagde at han havde en forunderlig Ting at melde, thi, sagde han, for mine Vine at see, kommer der en heel Skov af grønne Smaatræer anstigende, ligesom det kunde</p>
+<p>*) Saaledes at lade copias alene gjælde <hi rend="spaced">Skibene</hi> og oversætte subsidium ved <hi rend="spaced">Tilflugt</hi>, synes mig er den eneste Maade hvorpaa disse Ord kan komme til at rime sig godt mod paucis remigio destinatis og den hele Fortælling; men nu kan Undre see efter.</p>
+<pb facs="1815_8_page0121.png"/>
+<fw type="pageNum">87</fw>
+<p>vre levende Folk der gik. Hvor langt er den Skov vel borte, spurgde Kongen. Tæt herved, svarde Vagten. Ja saa, blev Kongen ved, saa er det min Død, det Vidunder Spaaer, og deraf kommer det at saadan en Rafte med Kviste og Lov heder endnu i Folkemunde en Helstav *). Eftersom nu Sigar var bange for at blive indeklemt i Gyderne, drog han fra Byen ud paa Marken paa en aaben Plads, hvor han med Vaaben i Haand vilde tage mod Fjenden. Der stod da Slaget ved den saakaldte Valbrønd, det er Ligenes eller Neder-</p>
+<p>*) <hi rend="latine">palus lethalis</hi> pleier at oversættes <hi rend="spaced">Mordkjær</hi>, men det lider nu Sammenhængen ingenlunde, men om jeg nu har truffet det Rette ved at tage <hi rend="latine">palus</hi> i sin anden Betydning, er et andet Spørgsmaal, men uagtet Forbindelsen mellem palus og <hi rend="latine">succisorum fruticum</hi> ogsaa her er lidt haard, tvivler jeg dog om den kan gjøres lettere, og Udveien faldt mig ind ved at tænke paa Islændernes <hi rend="latine">Feiknstafr</hi> og især paa gambantein. Den Troldstav Stirner skar, ventelig med Freis Sværd, og brugde til at kyse Garde (<hi rend="latine">För-Skirnis XXXll</hi>). Skulde nu Nogen vide en bedre Forklaring eller kanske et Almueord der minder om palus lethalis, da beder Saxo indstændig at det maatte giøres os vitterligt.</p>
+<pb facs="1815_8_page0122.png"/>
+<fw type="pageNum">88</fw>
+<p>lagets Brønd, thi Sigar kom til Kort i Striden, segnede og faldt der sammesteds.</p>
+<p>Nu var da Hake Seierherre, men han misbrugde Lykken, skammelig til stor Udaad, thi han var saa blodtørstig at han sparede hverken Høi eller Lav, Kjøn eller Alder, og havde ei engang Saameget enten Hjerte eller Ære i Livet, at han skulde bluedes ved at besudle sit Sværd med Kvindeblod, og slagte Smaabørn i Moderens Skjød.</p>
+<p>Der Saadant rygtedes, da kom 'der Liv i Syvald Sigarson, som hidindtil havde siddet dorsk paa Bænk i Faderborgen, men stod nu op saa harmefuld og sankede Folk til Havn. Hake mærkede hvor Folket flokkedes, da blev han ræd og skyndte sig ad Hærvig til med Tredjeparten af sit Folk, for til Søes at frelse sig med Flugten. Stolt-Haagen derimod, hans Hjelpermand, lod ikke Modet falde fordi Hake flydde, dertil var han for stolt af den nylige Seier, vilde og hellere falde end flye. Han blev da nu tilbage som Høvding for den øvrige Hær, og slog fin Leir lidt nedenfor ved Alsted Bye for at bie paa Flaaden, thi den var endnu ikke kommet op af Aaen til sit beskikkede Sted, og bister var Haagen, thi han gav Skibsfolkets Dovenskab Skyld for den Langeleegs Fart.</p>
+<pb facs="1815_8_page0123.png"/>
+<fw type="pageNum">89</fw>
+<p>Imidlertid gjorde Sigars Fald og Syvalds Kjærlighed saa dybt et Indtryk paa det ganske Folk, at hver Mand glødede og greb til Vaaben, ja, det er ingen Løgn, at Kvinder stilde sig hos Mænd paa Rad, at fægte under Danmarks Banner. Der Soel gik op den næste Morgen, begyndte Slaget imellem Haagen og Syvald, to ganske Dage blev der stridt, og stridt med højeste Forbittrelse, Hæren gik i Blod, begge Høvidsmand faldt, men Seierskrandsen smykkede dog Levningen af Danmarks Sønner.</p>
+<p>Natten efter Slaget kom da Hakes Flaade endelig til Stæde og havde smaalig maattet stage sig langs op ad Susaa, thi dengang var der dog en Slags Seilads, nu derimod er det kun sjelden man feer Skibe der, for den Sags Skyld at Ledet er blevet snevrere og Vandet mindre, alt som Brinkerne groede til og Mudderet tog Overhaand. Saasnart det nu dagede, saae Skibsfolket deres Stalbrødres Liig, de gave sig da flux ifærd med at stæde Høvdingen til Jorde, og opkastede derfor en mægtig Høi, som man efter Sagnet viser den og kalder Haagens Begravelse. Imidlertid kom Borkard med de skaanske Ryttere pludseligen over dem, slog hver og een ihjel, bemandede de tomme Skibe, og foer, som Fugl mon flyve, efter Hale Ha-
+<pb facs="1815_8_page0124.png"/>
+<fw type="pageNum">90</fw>
+mundsen. Han greb ham og i Flugten, sloge" med ham og ængstede ham saa, at han med Nod og Neppe frelsde tre af sine Skibe, og undkom til Skotland, hvor han døde to Aar efter.</p>
+<p>Krig og Vanheld havde nu saaledes ødelagt den Kongelige Stamme her i Dannemark, at der var igjen kun et eenlige Skud tilbage, og det var Sigars Sønnedaatter, den <hi rend="spaced">Gyrithe</hi> som Ulvilde havde født Alf Sigarsen, og der nu Folket savnede sin gamle odelsbaarne Kongeslægt, da skildtes Riget ad, og i hvert Landskab kaarede man sig en indfødt Høvding. Saaledes blev da en Ostmar Høvding i Skaane, Hunding i Sjælland, Hane i Fyen, Rørik og Hather i Iylland.</p>
+<fw type="graphic"/>
+</div>
+<div> 
+<pb facs="1815_8_page0125.png"/>
+<fw type="pageNum">91</fw>
+<head>Kundgørelse fra Selskabet for de Nordisse Oldskrifters Udgivelse :c.</head>
+<p><hi rend="initial">H</hi>vad vi i en foreløbig Kundgiørelse, mest bestemt for de Medlemmer af det Kongelige Norske Selskabs Kjøbenhaønske Afdeling, der ei vare tilstæde ved Slutningsmødet den 3die August, have forklaret, gjentage vi her, at nemlig den forrige Kjøbenhaønske Afdeling fandt det nødvendigt med et venligt Farvel at adskille sig fra velbemeldte Selskab, men at de ved Modet nærværende Medlemmer eenstemmig besluttede at oprette et eget Selskab, hvis Ønske var at bidrage til Vedligeholdelse af det aandelige Samfund i Norden, som er skabt igjennem Historien, elskeligt i sin Grund, livsalig i sin Virkning, og hvis egenlige Idræt skulde være at fremme Udgave og Udbredelse af historiske 
+<pb facs="1815_8_page0126.png"/>
+<fw type="pageNum">92</fw>
+Bøger der i Norden kande gjøre Krav paa almeen Interesse.</p>
+<p>Saxos og Snorros herlige Krøniker, der i de forbigangne Aarhundreder have været menig Mand saa tjære, ere Mindesmærker fra Nordens Middelalder tit hvilke intet af Europas Folk kan vise Magen, og ret fortrinlig skabte og skikkede til baade ved Stiil og Indhold at gavne og forlyste ædle Gemytter i Borge og Hytter til at vække og nære den Fædrelandskjærlighed, der, fremforalt i Norden er Folkenes, i de sidste Dage hardtad stemte, Livsaande, disse agte Dannefe maatte naturligviis først og fremmest fængsle Selskabets Øie, og og det saameget mere, som ny Oversættelser af disse den Nordiske Sagas Hovedbøger just nu ere under Arbejde, og den Kjøbenhaønske Afdeling netop havde havt det Hverv at besørge Heimskringla oversat og udgivet.</p>
+<p>Da Selskabet derfor kaarede os til for Øieblikket at betænke dets Tarv, paalagdes det os, som vor første Forretning, at tilskrive Selskabet sor Norges Vel et venligt Afskeds-
+<pb facs="1815_8_page0127.png"/>
+<fw type="pageNum">93</fw>
+brev, og som den anden at udgive en Prene af hine Bøgers nye Oversættelse med et venligt Spørgsmaal til Saxos og Snorros Landsmand, om de, hvis Oversættelsen takkedes dem, vilde bidrage til, at den snart og sømmelig kunde udgaae og sælges for en Smaating.</p>
+<p>Efterat vi nu alt have stræbt at opfylde den første Pligt, ile vi med at opfylde den an" den, i det vi fremlægge Prøven og indbyde Enhver til, efter Lyst og Leilighed at bidrage sin Skjærv enten til Selskabets Forehavende i Almindelighed, eller til disse tvende Bøgers Udgave i Særdeleshed. Vort Ønske er at saa. mange Enkelte i Norden som mueligt skulle bidrage, og saaledes erhverve sig Deelagtighed i hvad der er vort fælleds herlige Odelsgods, og derfor modtages selv de mindste Bidrag med samme Glæde som de største. Høieste-Rets-Advocat <hi rend="spaced">Treschov</hi>, boende i Frederiksberggaden No. 13, modtager indtil Videre saavel Bidrag, som Anmeldelser, hvis Nogen skulde ønske at forsikkre Selskabet om en Understøttelse, dit ei var hans Leilighed strax at yde, og for 
+<pb facs="1815_8_page0128.png"/>
+<fw type="pageNum">94</fw>
+hvert Bidrag af 10 Rbdlr. N. V. og derover, meddeles en Qvittering, der, hvis de anmeldte Bøger ei udkomme, sikkrer Ihændehaveren sit Bidrags Tilbagelevering. For Norge blive andre Anstalter trufne, og snarest mueligt skal vi nævne flere Steder omkring i Landet, hvor Bidrag kan leveres og Qvitteringer modtages, men saavel i Mellemtiden, som fremdeles, vilde det meget fremme Værket, hvis Enhver, der fortrinlig lægger denne Sag paa Hjerte, samlede de Bidrag Venner og Bekjendte vilde yde, fremsendte dem og modtog Beviis enten under Eet fra det Hele eller særskilt efter Behag. Derved vandtes ogsaa det, at der kunde gives Beviser selv for de mindste Bidrag, hvilket, naar de indkomme særskilte, vilde medføre for stor Uleilighed. At der skal vorde aflagt det strængeste offenlige Regnskab, derfor borge vi med Alt hvad der er helligt for sanddru og ordholdne Mænd.</p>
+<p>Fremdeles er det os en kjær Pligt at ved" føie denne Indbydelse al den Oplysning om dette 
+<pb facs="1815_8_page0129.png"/>
+<fw type="pageNum">95</fw>
+Værk og Selskabets Formaal, som vi for Øieblikket kan give.</p>
+<p>Efter vor Betænkning skal saavel Saros som Snorros Krønike udkomme i to Qvartbind. trykkes med stor Skrift, omtrent som Peder Klausens Snorro, og betales med 1 a 2 Sk. Rbp. Arket, blot for ikke til Unytte at kastes ind i Husene. Saxos Bog vil da udgjøre omtrent 100 og Snorros 170 Ark, hvert Ark i et Oplag af 2000 Stykker, der synes passende, vil efter et løseligt Overslag koste 50 Rbdlr. og hele Værket altsaa omtrent 13500 Rhblr. N. V. Kan nu Selskabet betids see Udvei til Hælvden af denne Sum, haaber det endnu i 1816 at kunde udgive de to første Bind, nemlig Saxos 9 første Bøger og Heimskringla til Harald Haardraades Fald. Kunde vi pryde disse Udaaver med Kobberet af Saxos gamle, herlige Tolk Anders Sørensen Vedel, og af en Nordmand der kunde staae i Peder Klausens Sted, da vilde det glæde os, og vi bor ikke tvivle om 
+<pb facs="1815_8_page0130.png"/>
+<fw type="pageNum">96</fw>
+drage til at hædre de Hensovne og smykke Nors dens Folkebøger.</p>
+<p>Finder nu Selskabets Idræt den Understøttelse det var snart til at haabe, og vil være seent til at mistvivle om, da agter det ingenlunde at standse ved dette Værks Slutning, thi har end Saxo og Snorro ingen Brødre saa have de dog Frænder, hvis Tale ei heller bør hendøe, men klinge høilig over Mark og Fjeld, mange islandske Sagaer, af hvilke vi blot vil nævne Knytlinga, Eigla og Nials Saga, fortjene uimodsigelig at være Folkelæsning, Undre saavelsom en stor Deel Oldtidskvad, der ei ere saa skikkede til at læses almindelig, bor dog sikkerlig, læses af Mange paa vor Tids Tungemaal, og efter Evne at fremme Saadant er Selskabets Mening og Lyst. Endelig vil det og, saavidt mueligt, hjelpe til Udgivelse og Udbredelse af Alt hvad det synes kan vække og nære Fædrelandskiærlighed og fortroligt Bekiendtskab med de forrige Tider i Norden, og kunde vi bidrage Noget til at en Fortsættelse 
+<pb facs="1815_8_page0131.png"/>
+<fw type="pageNum">97</fw>
+af Dannemarks og Norges Krønike indtil vore Dage, afpasset efter Menigmands Tarv, kom for Lyset, da turde vi tage en dobbelt Deel i den Glæde, hver Fædrenes ægte Son maatte føle ved at see saa stort og tungt et Savn afhjulpet.</p>
+<p>At ei den mindste Hytte, end sige Borgene i Aandens Rige kan for Penge enten bygges eller kjøbes, det har vi ikke glemt, og kunde intet Øieblik ønske det mueligt, men desto retnæssigere er vort Haab, at de Ædle i Rigerne vil, opvarmede ved Fortids Minder, kappes om med Haand og Mund at yde hver sin Skjærv til en værdig Bautasteen paa Fædres Cravhøi, hvis Syn igjen kan vække og opgløde Børnebørn, naar vi ere samlede til vore Fædre!</p>
+<p>Bredre! Frænder! lad dog Verden lære, at hvad vi her pegede paa, var intet Drømmebillede, men at den Følelse der gløder end hos Tusinder, kun ventede paa at tales 
+<pb facs="1815_8_page0132.png"/>
+<fw type="pageNum">98</fw>
+til, for at opblusse med den gamle Lue, den stadige, den rolige, den rene, som har havt et herligt Hjem i Norden, og er ei meer i Verden, hvis den ei er der.</p>
+<p>Kjøbenhavn d. 9de Septbr. 1815. Selskabets Committerede:</p>
+<p>C. Pram, F. Treschov, N. Grundtvig,</p>
+<p>Etatsraad Højesterets Advocat. Præst.</p>
+<p>og R. af D.</p>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

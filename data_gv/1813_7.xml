@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Skilderie af Kjøbenhavn.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-19"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="007"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1813">1813</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1813_7_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Nyeste.<lb/>Skilderie af Kjøbenhavn</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition>Tiende Aargang. No. 62.</docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace></pubPlace>Udgivet og forlagt af Boghandler S. Soldin<lb/>
+<fw type="graphic"/>
+<docDate>Tirsdagen des 3 Augusti 1813</docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<head>Farvel.</head>
+<head>(Til C. Molbech.)</head>
+<lg>
+<l><hi rend="initial">S</hi>aa er det vist, saa har Du dig udvundet</l>
+<l>Af Vennelykken, som os sammenbandet!</l>
+<l>Saa est Du flygtet fra mig over Sundet,</l>
+<l>Hvor Danmarks Son faa ofte Døden fandt!</l>
+<l>Hvor danske Mø forlorede sin Svend,</l>
+<l>Der ogsaa jeg forlorede en Ven;</l>
+<l>Ei meer at stifte vil med mig Du have;</l>
+<l>Ei heller da den sidste Sjælegave.</l>
+<l>Ei heller da det venlige Farvel?</l>
+</lg>
+<lg>
+<l>O! visselig det gik mig nær til Hjerte,</l>
+<l>O! visselig jeg følte bitter Smerte;</l>
+<l>O! visselig er det heel tung en Lod,</l>
+<l>Naar Fjender fnyse, og naar Farer true,</l>
+<l>I Fjenders Ledtog da sin Ven at skue,</l>
+<l>At saares dybt i Hjerte af hans Braad!</l>
+<l>Dog, Molbech! ei for dig igjen at saare</l>
+<l>Jeg Harpen greb i stille Aftenstund,</l>
+<l>Nei, jeg den greb, for med en Vemodstaare,</l>
+<l>At byde dig: Far vel! af Hjertensgrund.</l>
+</lg>
+<lg>
+<l>Som da jeg t vor forsts Vennesommer</l>
+<l>Dig bad indgaae til Sorøes Altergrav,</l>
+<l>Og skue der de favre, hvide Blommer,</l>
+<l>Der huldt sig slynge om den brudte Stav;</l>
+<l>Dig bad, at ægte hvad Dit Hjerte abner,</l>
+<l>Og fængsles ei af Tidens Tulipaner:</l>
+<l>Saa rolig og saa venlig staaer jeg end,</l>
+<l>Bag sjette Baar i vores Vintersommer,</l>
+<l>Og svarer dig paa bittre Ord: min Ven!</l>
+<l>Gak ind og sku de favre, hvide Blommer!</l>
+<l>Betænk i Fred ved Gorøes Altergrav,</l>
+<l>At brydes skal og vores Vandringsstav!</l>
+<l>Naar da vi ligge under Muldet stille,</l>
+<l>Naar Graven synker, og naar Orme pille,</l>
+<l>Da stal vi der, hvor klare Lys er inde,</l>
+<l>See, hvem der saae, og hvem der gik i Blinde;</l>
+<l>Men tro vi Ham, hvem alle Christne dyrke,</l>
+<l>Vi veed, at hvo sig støder, gaaer i Mørke,</l>
+<l>Hvo Lyset stuer, han sig støder ei.</l>
+</lg>
+<lg>
+<l>Og nu, Far vel! far, som jeg selv vil fare!</l>
+<l>Ak! glat er Stien, som saa vis Du troer,</l>
+<l>Gid Himlens Lys maa Dine Trin bevare!</l>
+<l>Gid ei Du fængsles i de vilde Spor!</l>
+<l>Gid ende Urter ei din Aand forgifte!</l>
+<l>Og naar engang Du ikke meer saa stolt</l>
+<l>Mit Venskab vrager, og bortkaster koldt,</l>
+<l>Et <hi rend="spaced">Hjerte</hi> haver jeg med Dig at <hi rend="spaced">skifte</hi>.</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

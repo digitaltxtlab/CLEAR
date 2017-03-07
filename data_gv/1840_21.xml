@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Kongens Skaal</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2009-12-22"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="021"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1840">1840</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1840_21_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Sange<lb/>for</titlePart>
+	<titlePart type="sub">Vennelaget<lb/>i<lb/>Danske Samfund<lb/>paa<lb/>Kronings-Dagen</titlePart>
+				<fw type="graphic"/>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace>Kjöbenhavn.</pubPlace>.<lb/>Trykt hos F. D. Qvist, Bog- og Nodetrykker,<lb/>Østergade Nr. 53.<lb/>
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<pb facs="1840_21_page0002.png"/>
+<fw type="pageNum"></fw>
+<fw type="graphic"/>
+<head>Kongens Skaal.</head>
+<fw type="graphic"/>
+<p><hi rend="align(center)">Mel. Vi Sømænd gjør ei mange Ord.</hi></p>
+<lg>
+<l><hi rend="initial">D</hi>et er kun Fjas at være Drot</l>
+<l>Hvor alle Mand vil raade;</l>
+<l>Det er ei nemt at gjøre Godt,</l>
+<l>Naar Vrag man slaaer paa Naade;</l>
+<l>Det er en Nød at gjøre Vers,</l>
+<l>End sige at regiøre,</l>
+<l>Hvor Stympere paa Langs og Tvers</l>
+<l>Vil Alting critisere.</l>
+</lg>
+<lg>
+<l>I Danmark dog det er en Lyst</l>
+<l>At rime og at sjunge,</l>
+<l>Naar man har ret sin Moder kyst</l>
+<l>Og arvet hendes Tunge,</l>
+<l>Og har i Bryst og Bringe Mod</l>
+<l>Sin egen So at feile,</l>
+<l>Trods dem, der ret vil raade Bod</l>
+<l>Paa Alting med en Hegle.</l>
+</lg> 
+<pb facs="1840_21_page0003.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>I Danmark er det og en Fryd</l>
+<l>At bære Spir og Krone,</l>
+<l>Naar kun man har den <hi rend="bold">Skjoldungs Dyd</hi></l>
+<l>At nemme Folkets Tone;</l>
+<l>Og elske dm af Hjertens-Grund,</l>
+<l>Som deiligst paa det Jævne,</l>
+<l>Og blæse ad hver Aabenmund,</l>
+<l>Som kun til Blæst har Evne.</l>
+</lg>
+<lg>
+<l>Derfor vi spaae <hi rend="bold">Kong Christian</hi>,</l>
+<l>Paa Danmarks Skjoldung-Sæde,</l>
+<l>Et Hurra fra det hele Land</l>
+<l>Med Fryd og Hjertens-Glæde;</l>
+<l>Han kjender godt det Aandepust,</l>
+<l>Og har det prægtig inde,</l>
+<l>For hvilket her paa Marken just</l>
+<l>Sig lægge alle Vinde.</l>
+</lg>
+<lg>
+<l>Det er det <hi rend="bold">Danske Tungemaal</hi>,</l>
+<l>Med Liv og Aand og Inde,</l>
+<l>Paa det vi her med Kongens Skaal</l>
+<l>Vil gladelig begynde:</l>
+<l>Gid i Hans Øre hver en Dag</l>
+<l>Det sødere maa klinge,</l>
+<l>Og høiere end Skjolvebrag</l>
+<l>Ham Folkets Hylding bringe!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div> 
+<pb facs="1840_21_page0004.png"/>
+<fw type="pageNum">000</fw>
+<head>Dronningens Skaal.</head>
+<fw type="graphic"/>
+<p><hi rend="align(center)">Mel. Hr. Tønne han rider udaf Alsø.</hi></p>
+<lg>
+<l><hi rend="initial">D</hi>er sad en Prindsesse i Dannemark,</l>
+<l>Med Fruer og Frøkener strage,</l>
+<l>Hun talde saamangent et Alvors-Ord</l>
+<l>Om Daaden i forrige Dage.</l>
+<l>Deilig er Dronning-Stolen.</l>
+</lg>
+<lg>
+<l>Hun talde saa gjerne om <hi rend="bold">Balders</hi> Viv,</l>
+<l>Og Skjoldunge-Stammen i <hi rend="bold">Leire</hi>.</l>
+<l>Hun talde som helst om Kong <hi rend="bold">Valdemar</hi>,</l>
+<l>Og om Dronning <hi rend="bold">Dagmar</hi> hin feire.</l>
+<l>Deilig er Dronning-Stolen.</l>
+</lg>
+<lg>
+<l>Hun talde saa kjærlig om Dannemark,</l>
+<l>Med Lover og Hjerter saa blide,</l>
+<l>En Taare vel perled i Dienæst</l>
+<l>Ved Talen om Dannemarks Kvide.</l>
+<l>Deilig er Dronning-Stolen.</l>
+</lg>
+<lg>
+<l>Prindsessen udspurgde en graanet Skjald</l>
+<l>Om Dannemarks kronede Dage;</l>
+<l>Hun spurgde med Vid og med yndigt Smiil:</l>
+<l>„Naar kommer vel <hi rend="bold">Holger</hi> tilbage?"</l>
+<l>Deilig er Dronning-Stolen.</l>
+</lg> 
+<pb facs="1840_21_page0005.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Men nu er Prindsessen vor <hi rend="bold">Dronning</hi> klar,</l>
+<l>Hun skinner paa Dannemarks Throne,</l>
+<l>Paa <hi rend="bold">Hendes</hi> og <hi rend="bold">Valdemars</hi> Fødselsdag</l>
+<l>Vi hilse vort Haab med sin Krone.</l>
+<l>Deilig er Dronning-Stolen.</l>
+</lg>
+<lg>
+<l>Nu veed vi, om <hi rend="bold">Holger</hi> ei kom igaar,</l>
+<l>Han kommer, naar <hi rend="bold">Dronningen</hi> vinker;</l>
+<l>Derpaada, med Dronningens Kronings-Skaal,</l>
+<l>Saa langt vi kan række, vi klinker!</l>
+<l>Deilig er Dronning-Stolen.</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<head>Holger Danskes Skaal.</head>
+<fw type="graphic"/>
+<p><hi rend="align(center)">Mel. Danmark deiligst Vang og Vænge.</hi></p>
+<lg>
+<l><hi rend="initial">H</hi>olger <hi rend="bold">Dunske</hi> tøved længe;</l>
+<l><hi rend="align(center)">Hvem tor nu vel spaae,</hi></l>
+<l>Danmark deiligst Vang og Vænge,</l>
+<l><hi rend="align(center)">Lukt med Bølgen blaa:</hi></l>
+<l>Om i denne Havfru-Sommer,</l>
+<l>Naar, hvordan, hvorvidt han kommer,</l>
+<l><hi rend="align(center)">Hvor han os vil sætte Stævne,</hi></l>
+<l>Mode paa det Jævne?</l>
+</lg> 
+<pb facs="1840_21_page0006.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Dristig, som til Daad en Kæmpe,</l>
+<l><hi rend="align(center)">Er til Kvad en Skjald,</hi></l>
+<l>Lader aldrig Latter dæmpe</l>
+<l><hi rend="align(center)">Deiligt Tonefald,</hi></l>
+<l>Synger frit, at nær for Haanden</l>
+<l>Er, hvad listig ham med Aanden</l>
+<l>Alt berører og omvifter,</l>
+<l><hi rend="align(center)">Saa Han Farve stifter.</hi></l>
+</lg>
+<lg>
+<l>Det gjør <hi rend="bold">Holger Danskes</hi> Aande,</l>
+<l><hi rend="align(center)">Her, som hist i Soer,</hi></l>
+<l>Raadte Bod paa Skjaldes Vaande</l>
+<l><hi rend="align(center)">Ogsaa før ifjor,</hi></l>
+<l>Og hvor Ungersvende tale</l>
+<l>Høit om Dannebod i Dvale,</l>
+<l>Dybt i Danske Belger dukke,</l>
+<l><hi rend="align(center)">Der gaaer <hi rend="bold">Holgers</hi> Vugge.</hi></l>
+</lg>
+<lg>
+<l>Der han vore skal og trives,</l>
+<l><hi rend="align(center)">Som en Kæmpesøn,</hi></l>
+<l>Ungdoms Kraft og Mod oplives.</l>
+<l><hi rend="align(center)">Til i Lys og Løn</hi></l>
+<l>Hjertets Mark og Mundens Vove:</l>
+<l>Danmarks Guld og grønne Skove,</l>
+<l>Som en <hi rend="bold">Holger</hi>, dannis, ægte.</l>
+<l><hi rend="align(center)">Vældig at forfægte.</hi></l>
+</lg> 
+<pb facs="1840_21_page0007.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Trods hver Trumf i Romer-Rige,</l>
+<l><hi rend="align(center)">Og i <hi rend="bold">Rjøbenhavn</hi>,</hi></l>
+<l>„<hi rend="bold">Danske Samfund</hi>" tør vi sige,</l>
+<l><hi rend="align(center)">Er et deiligt Navn,</hi></l>
+<l>Navnet, som den Kreds maa bære,</l>
+<l>Hvor en Helt til Danmarks Ære,</l>
+<l>Som kan Dannekvinder tækkes,</l>
+<l><hi rend="align(center)">Skal med Held opklækkes.</hi></l>
+</lg>
+<lg>
+<l>Tant det er med Titler tomme,</l>
+<l><hi rend="align(center)">Uden Grund og Gavn,</hi></l>
+<l>Men naar kun ihu vi komme</l>
+<l><hi rend="align(center)">Levende vort Navn,</hi></l>
+<l>Som der klinkes, som der klukkes.</l>
+<l>Mellem os skal <hi rend="bold">Holger</hi> vugges,</l>
+<l>Til han gaaer og til han springer,</l>
+<l><hi rend="align(center)">Som han fløi paa Vinger.</hi></l>
+</lg>
+<lg>
+<l>Derfor det sig vel kan sømme,</l>
+<l><hi rend="align(center)">Paa vort Modersmaal,</hi></l>
+<l>Her af Hjertens Grund at tømme</l>
+<l><hi rend="align(center)"><hi rend="bold">Holger Danskes</hi> Skaal;</hi></l>
+<l>Lad ham drilles, lad ham vrages!</l>
+<l>Gid han vore kun og dages</l>
+<l>Som en Helt med Haar paa Tænder,</l>
+<l><hi rend="align(center)">Men med bløde Hænder!</hi></l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

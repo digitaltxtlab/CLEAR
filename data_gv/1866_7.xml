@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Dansk Folketidende.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-26"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="007"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1866">1866</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1866_7_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Dansk Folketidende.<lb/></titlePart>
+	<titlePart type="sub"><lb/></titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<fw type="graphic"/>
+				<epigraph>
+<p>Udgaar hver Fredag og koster 3 Mk. om Fjerdingaaret foruden 10 Sk. i Post- eller Bærepenge. Det bestilles paa nærmeste Posthus men i Kjøbenhavn hos Boghandler Schønberg, Kronprinsensgade Nr. 2, hos hvem ogsaa enkelte Nummere faas for 6 Sk. Bekjendtgjørelser til 3 Sk. for en Linie med Smaaskrift modtages i Bogtrykkeriet, Vingaardstræde 2, 2. Sal. Bidrag modtages af Udgiveren, som i Regelen træffes hver Morgen til Kl. 10, Vesterfælledvej Nr. 6., og betales af ham med 1 Rd. Spalten (100 L.).</p>
+				</epigraph>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace></pubPlace>.
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Til Dronning Caroline Amalie's Fødselsdag</head>
+<head>1866.</head>
+<p><hi rend="align(center)">(Af N. F. S. Grundtvig.)</hi></p>
+<lg>
+<l>Sommerdag i Bøge-Skoven,</l>
+<l>Dronninglige Fødselsdag!</l>
+<l>Naar du, straalende fra Oven,</l>
+<l>Skrider over Borgens Tag,</l>
+<l>Naar du, blomstrende fra Neden</l>
+<l>Minder om det tabte Eden,</l>
+<l>Vær os da et Varsel godt</l>
+<l>For det <hi rend="spaced">Folke-Liv</hi> i Vangen</l>
+<l>Og paa Havet mørkeblaat,</l>
+<l>Som hidtil i Skjalde-Sangen</l>
+<l>Kæmpet har med Blæst og Kuld,</l>
+<l>Trænger høit til Sommer-Varme</l>
+<l>Og til Blomstring yndefuld!</l>
+</lg>
+<lg>
+<l><hi rend="spaced">Varselet</hi> med aabne Arme</l>
+<l>Favne vil den Dronning prud,</l>
+<l>Som har, fremfor Roser alle,</l>
+<l>Pleiet hvad i Sang vi kalde</l>
+<l><hi rend="spaced">Folke-Livets</hi> Rosenstud!</l>
+<l><hi rend="spaced">Varselet</hi> med Glød paa Tunge</l>
+<l>Favner og den gamle Skjald,</l>
+<l>Derfor nu, som de var unge,</l>
+<l>Tonerne faaer Klang og Fald,</l>
+<l>Legende med Blomster spæde</l>
+<l>Springende fra Sorg til Glæde!</l>
+</lg>
+<lg>
+<l>Ja vor alderstegne Dronning</l>
+<l>Med det altid unge <hi rend="spaced">Haab</hi>,</l>
+<l>Rosernes og Sangens <hi rend="spaced">Dronning</hi>,</l>
+<l>Kronet bedst med Fryderaab!</l>
+<l>Ei har Himlen os saa længe</l>
+<l>Sparet Liv og Levelyst,</l>
+<l>For at see, med slagne Enge,</l>
+<l>Stubbene i Efterhost,</l>
+<l>Men at vi, om seent, dog sødt,</l>
+<l>Skue stal i Rosens-Blommer</l>
+<l>Levende opskudt af Dødt,</l>
+<l><hi rend="spaced">Folke-Livets</hi> Eftersommer,</l>
+<l>Gylden-Solens Aftenrødt!</l>
+<l>Ja i deiligst Vang og Vænge,</l>
+<l>Hegnet ind med Skyer blaa,</l>
+<l>Roserne stal groe i Enge,</l>
+<l>Nattergale sammen staae,</l>
+<l><hi rend="spaced">Folke-Livet</hi> staae i Gryde,</l>
+<l>Som i Fredegodes Tid,</l>
+<l>For den gyldne Aftenrøde</l>
+<l>Dysser os i Slummer blid,</l>
+<l>Forer gjennem Skygge-Dale</l>
+<l>Os til Lysets <hi rend="spaced">Konge-Sale</hi>!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<head>Valget til Rigsdagens Landsthing.</head>
+<p>(* foran den Valgtes Nummer betegner, at han kan antages at ville sige Nej til den gjennemsete Grundlov, og * efter Navnet, at han var Medlem af det opløfte Rigsdags-Landsthing.)</p>
+<p>1 Kreds: <hi rend="spaced">København</hi>. Valgsted: København.</p>
+<p>1. Højesteretssagfører Brock* med 178 St.</p>
+<p>2. Højesteretsmedl., fhv. Minister Krieger* med 177 St.</p>
+<p>3. Professor, fhv. Min. Madvig* m. 176 St. 4. Fhv. Minister Orla Lehmann* m. 169 St.</p>
+<p>5. Form. for So- og Handersretten Klein m. 168 St.</p>
+<p>De fleste Stemmer efter de Valgte havde Fabrikejer M. P. <hi rend="spaced">Bruun</hi>* og Orlogskaptejn? fhv. Min. O. <hi rend="spaced">Lütken</hi>, nemlig 12 og 6. I det opløfte Landsthing Havde denne Kreds ogsaa 5 Jaer.</p>
+<p>2 Kreds: Københavns, Frederiksborg og Holbæks</p>
+<p>Amter. Valgsted: Roskilde.</p>
+<p>1. Godsejer van Deurs fra Bødstrupgaard m. 200 St.</p>
+<p>2. Proprietær Thalbitzer* fra Katrinebjerg m. 200 St.</p>
+<p>3. Parcellist L. A. Hækkerup fra Vettersløv m. 198 St.</p>
+<p>4. Arvefæster Fr. Jørgensen* fra Sandlynggaard m. 198 St.</p>
+<p>5. Gaardejer H. P. Larsen fra Søborggaard m. 198 St.</p>
+<p>6. Sgfgd. B. Nielsen fra Gjentofte m. 198 St.</p>
+<p>7. Borgermester Olrik fra Helsingør m. 198 St.</p>
+<p>8. Proprietær Philipsen fra Højagergaard m. 198 St. Efter de Valgte havde Gmd. P. <hi rend="spaced">Hansen</hi>* fra Oppesundby 186, Gmd. L. <hi rend="spaced">Jacobsen</hi> fra Ledøje 181, Prof. Borgen*, Stamhusbesidder <hi rend="spaced">Carlsen</hi>*, Statsrevisor, Overretssagfører B. <hi rend="spaced">Christensen</hi>*, Statsrevisor, Proprietær <hi rend="spaced">H a s l e</hi> * og Gmd. O Nielsen* fra Gjentofte hver 179 samt Grdejer Krogh 175 St. Fyr havde Kredsen 6 Nejer og 2 Jaer.</p>
+<p>3 Kreds: <hi rend="spaced">Sorø</hi> og <hi rend="spaced">Præstø Amter</hi>. Valgsted: Næstved. *1. Fhv. Gaardejer Lüders* fra København m. 183 St. *2. Gaardejer N. Pedersen* fra Skuderløse m. 183 St.</p>
+<p>*3. Gaardfæster I. Andersen fra Skjelby m. 182 St. *4. Sognepræst Fr. Boisen fra Stege m. 182 St. *5. Moller P. Hansen fra Vildsted m. 182 St.</p>
+<p>De fleste Stemmer efter de Valgte havde Justitsminister <hi rend="spaced">Leuning</hi>, Lensgreve <hi rend="spaced">Moltke</hi>, Sgfgd. H. <hi rend="spaced">Jensen</hi> fra Hove. Sgfgd. Rasmussen fra Skafteløv og Grmd. I. <hi rend="spaced">Christensen</hi> fra Næsby, nemlig med 84 til 86 St. Forrige Gang havde Kredsen ogsaa 5 Nejer.</p>
+<p>4 Kreds: <hi rend="spaced">Bornholms Amt</hi>. Valgsted: Rønne.</p>
+<p>Farver Sonne*.</p>
+<p>5 Kreds: <hi rend="spaced">Maribo</hi> Amt. Valgsted: Nykøbing paa Falster.</p>
+<p>1. Proprietær Drejer* m. 98 St.</p>
+<p>2. Grev Frijs* til Juellinge m. 96 St.</p>
+<p>3. Sagfører Muller fra Nykøbing m. 88 St. Derefter havde Gmd. P. <hi rend="spaced">Skytte</hi> fra Havnsø 48,</p>
+<p>Gmd. P. <hi rend="spaced">Rasmussen</hi> Frijs fra Feje 45 og Grmd. P. <hi rend="spaced">Steffensen</hi> fra Alstrup 41 St. Forrige Gang havde Kredsen 2 Jaer og 1 Nej.</p>
+<p>6 Kreds: <hi rend="spaced">Odense og Svendborg</hi> Amter. Valgsted:</p>
+<p>Odense.</p>
+<p>1. Stiftamtmand, fhv. Minister Unsgaard fra Odense m. 221 St.</p>
+<p>2. Sgfd., Gmd. H. Hansen Brødegaard fra Dreslette, m. 216 St.</p>
+<p>3. Sognepræst Strøm* fra Marslev m. 216 St.</p>
+<p>4. Raadmand, Købmand Boesen* fra Odense m. 215 St.</p>
+<p>5. Gmd. P. Nielsen fra Aasum m. 215 St.</p>
+<p>6. Gmd. Kr. Rasmussen fra Ryslinge m. 215 St.</p>
+<p>7. Bladudgiver Ploug* fra København m. 214 St. Derefter havde følgende de fleste Stemmer: Grdejer</p>
+<p>M. Foged* fra Lindelse, Grdejer C. Hansen* fra Vejstrup, Grdfæster R. <hi rend="spaced">Milling</hi>* fra Horne, Bladudgiver, Løjnant Madfen fra Middelfart, Grdejer R. <hi rend="spaced">Rasmussen</hi> fra Kragsbjerggaard, Grdejer N. <hi rend="spaced">Hansen</hi> fra Oure og Grdfæster C. P. <hi rend="spaced">Christensen</hi> fra Lindelse hver med omtrent 135 St. Forrige Gang havde Kredsen 3 Jaer, 3 Nejer og 1, der ikke stemte.</p>
+<p>7 Kreds: <hi rend="spaced">Hjørring</hi> og <hi rend="spaced">Aalborg Amter</hi>. Valgsted:</p>
+<p>Aalborg.</p>
+<p>*1. Gmd Kr. Christensen fra Aaby m. 152 St. *2. Grdejer S. Pedersen* fra Mariendal m. 151 St. *3. Gmd. I. Nielsen fra Svenstrup m. 150 St. *4. Højesteretssekretær Christensen fra København m.</p>
+<p>149 St. *5. Bladudgiver B. Ree m. 140 St.</p>
+<p>Efter dem havde Godsejer Skeel* 102, Moller Jermiin fra Haslevgaad Mølle 101, Godsejer Nyholm fra Baggesvogn 101, Gmd. Kr. <hi rend="spaced">Tvergaard</hi> fra Næsborg 100 og Gmd. L. <hi rend="spaced">Jensen</hi>* fra Lunde 97 St. Forrige Gang var der 4 Jaer og 1 Nej.</p>
+<p>8 Kreds: <hi rend="spaced">Thisted</hi> Amt, den nordvestlige Del af <hi rend="spaced">Viborg</hi> Amt og den nordlige Del af Ringkøbing Amt. Valgsted: Skive.</p>
+<p>1. Moller Brockdorff* fra Aamolle m. 166 St.</p>
+<p>2. Proprietær Knudsen* fra Ulstrup m. 165 St.</p>
+<p>3. Godsejer Tang* fra Nørre Vosborg m. 165 St.</p>
+<p>4. Propr. Brinck-Sejdelin fra Østergaard m. 93 St. Efter dem havde Formand for Sø- og Handelsretten</p>
+<p><hi rend="spaced">Klein</hi> 88, Stamhusbesidder <hi rend="spaced">Carlsen</hi>* 12, Gmd. M. <hi rend="spaced">Povlsen</hi> fra Stallerup og Sognepræst Jensen fra Holstebro hver 10 St. Forrige Gang havde Kredsen 3 Jaer og 1 Nej.</p>
+<p>9 Kreds: <hi rend="spaced">Aarhus og Randers Amter</hi> samt den sydlige og østlige Del af Viborg Amt. Valgsted: Randers. *1. Gmd. N. Rasmussen* fra Lisberg-Terp m. 160 St. *2. Gmd. L. Bønløkke fra Aalsrode m. 156 St. *3. Sgfgd. M. Christiansen fra Beder m. 155 St. *4. Sognepræst Madsen fra Gjødvad m. 155 St. *5. Gmd. I. Nygaard fra Bovlstrup m. 155 St. *6. Gmd. P. Thorup fra Sonder-Vinge m. 155 St.</p>
+<p>Efter dem havde Fabrikejer M. P. <hi rend="spaced">Brnun</hi>* 149, Proprietær <hi rend="spaced">Faurschou</hi>* 147, Indenrigsminister <hi rend="spaced">Estrup</hi> 145, og 3 andre (formodenlig <hi rend="spaced">Vestergaard</hi>*, S. <hi rend="spaced">Møller</hi>*, og Bjerring*) henholdsvis 143, 143 og 142 St. Forrige Gang havde Kredsen 4 Jaer og 2 Nejer.</p>
+<p>10 Kreds: Vejle og <hi rend="spaced">Skanderborg Amter</hi>. Valgsted:</p>
+<p>Horsens.</p>
+<p>*1. Grdejer I. Jørgensen* af Bjerregaard m. 141 St. *2. Gmd. N. Povlsen* fra Regen m. 139 St. *3. Sognepræst Knæckenborg fra Kollerup m. 134. *4. Biskop Grundtvig fra København m. 130 St.</p>
+<p>Derefter havde Konsejlspræsidenten, Grev Frijs til Frijsenborg 122, Grdejer P. <hi rend="spaced">Ingversen</hi> fra Vys 119, Herredsfoged C. M. <hi rend="spaced">Jespersen</hi> 116 og fhv. Minister Orla Lehmann* 111 St. Forrige Gang havde Kredsen 2 Nejer, 1 ja og 1, der ikke stemte (Thingets Formand).</p>
+<p>11 Kreds: Ribe Amt og den sydlige Del af Ring-</p>
+<p><hi rend="spaced">købing Amt</hi>. Valgsted: Varde.</p>
+<p>1. Stiftamtmand Nielsen fra Ribe m. 102 St.</p>
+<p>2. Proprietær Frandsen fra Brejninggaard m. 95 St.</p>
+<p>3. Kirke- og Undervisningsminister Rosenøtrn-Teilmann* fra Rørholm m. 82 St.</p>
+<p>Derefter havde Gmd. A <hi rend="spaced">Simonsen</hi> fra Ravnholt 68, Gmd. Kr. <hi rend="spaced">Sørensen</hi> fra Hanning Hedegaard 55 og Gæstgiver N. I. <hi rend="spaced">Thomsen</hi> fra Vejen 44 St. Forrige Gang havde Kredsen 2 Jaer og 1, der ikke stemte. 12 Kreds: <hi rend="spaced">Færøerne</hi>. Valget ubekjendt.</p>
+<p>I det opløfte Landsthing var der 52 Medlemmer, hvoraf 3 ikke stemte i Forfatningssagen; den ene af dem, M. P. Bruun, var Formand, og de to andre, A. Beck og Moltke-Hvitfeldt, var fraværende. Ingen af dem blev gjenvalgt. Beck bor i den magelagte Del af Ribe Amt og er altsaa ikke længere valgbar, Moltke-Hvitfeldt frabad sig Gjenvalg, og M. P. Bruun fik ikke det foruødne Antal Stemmer.</p>
+<p>Af de 28, der stemte Ja til den gjennemsete Grundlov, er den enes Skæbne (H. C. Müllers fra Færøerne) ubekjendt; 1 (Wessely) var glemt paa Listen over de Valgbare og kunde derfor ikke vælges, 3 (Brix, Simony og Kjellerup) har ikke været paa Valg, 5 (L. Jensen, Skeel, Vestergaard, Faurschou og formod. Bjerring) har ikke faaet det fornødne Antal Stemmer, og ikkun 1? er gjenvalgte.</p>
+<p>Af de 21, der havde stemt Nej til den, er 1 (Johansen) død, 4 (Frølund, A. Larsen, N. Hansen og C. jørgensen) har ikke været paa Valg, og 9 (B. Christensen, O. Nielsen, P. Hansen, Borgen, Hasle, N. Milling, C. Hansen, M. Foged og Carlsen) har ikke faaet det nødvendige Stemmeantal. Det samme var maaske Tilfældet med 1 (S. Møller), som erklærede, at han nu vilde stemme Ja. Ikkun 6 er saaledes gjenvalgte.</p>
+<p>Dette Valg frembhder flere Mærkeligheder. Saaledes den, at kun forholdsvis et lille Antal er gjenvalgt, nemlig 23 af 51, og det uagtet Partiernes Stilling dog er omtrent uforandret, nemlig, foruden Formanden, 30 Jaer og 20 Nejer, istedetfor at der forrige Gang var 28 Jaer, 21 Nejer og 2 fraværende. Grunden dertil ligger i, at der vælges i saa store Kredse, at Flertallet kan indsætte eller forkaste indtil 8 ad Gangen, og at det foreliggende Spørgsmaal har nydt det til at tage et bestemt Parti, enten for lutter Jaer eller for lutter Nejer, uden nogen Overenskomst med Modstanderne. Dette er et Fortrin, og det glæder os, at det er blevet erkjendt af „Dagbladet", som ellers saa ofte vil bringe Vælgerne til at glemme den politiske Anskuelse over den Vedkommendes øvrige Dygtighed, Fortjeneste eller Anseelse. Det siger nemlig, at det „vidner om udviklet politisk Sans, at hver enkelt Valgkreds kun har sendt Repræsentanter af en politisk Farve, hvad det foreliggende Spørgsmaal angaar. Ingen tidligere Fortjeneste, ingen personlig eller lokal Anseelse er, saaledes som dog tildels ved Folkethingsvalgene, kommen i Betragtning ligeoverfor det Hovedpunkt, som det alene giælder om." (Gid Vælgerne for Fremtiden vilde lægge sig disse Ord paa Sinde!) Derimod opstaar der Spørgsmaal om, hvorvidt Valg i saadanne store Kredse af en Mængde Kandidater efter Flertal, saa at Mindretallet bliver aldeles udelukket, er hensigtsmæssigt og rigtigt. „Fædrelandet" har udtalt sig bestemt derimod og anser Valg efter Forholdstal, saaledes at hver Kandidat kun behøver det Tal af Stemmer, der fremkommer ved at dele Valgmændenes med Kandidaternes Antal, for langt at foretrække. Dette er som bekjendt foreslaaet i den gjennemsete Grundlov, og vi for vort Vedkommende anser det ogsaa for et Fortrin, fordi det bringer et sandere Billede af Valgmændenes Anfluelser. Det er jo f. E. urigtigt at Roskilde Kredsen, der var saa delt, at Stemmerne stod næsten lige for og imod, skal sende 8 Mænd af samme Anskuelse, og hvem skulde antage, at de repræsenterede en Befolkning, der var aldeles forskiellig f. E. fra den nordvestjyske, som næsten enstemmig valgte samme Slags Mænd. Havde man indskrænket sin Fordring om Forandringer af Landsthingets Valglov til denne eller lignende, havde der været Mening deri, og vi for vor Del skulde gjerne have gaaet ind derpaa; men mærkeligt er det, at, da Folkepartiet forrige Aar stillede Forslag i denne Retning (se f. C. Nr. 2. Sp. 2 af denne Tidende), forkastedes de af det nationalliberale Parti, endog hvor de blot var Underændringsforslag. Dette Parti kan derfor vel have Ret til at gjøre opmærksom paa, at i denne Henseende er der gjort et Fremskridt ved det ny Forslag, men ingenlunde til at forbeholde sig Eneret paa at have opdaget denne Mangel ved Juni-Loven, og endnu mindre til dermed at besmykke de andre langt større og aldeles overvejende Mangler ved deres Misfoster.</p>
+<p>Med disse to Punkter staar det i Forbindelse, at der blandt de Ikkevalgte er saamange af Partiernes Høddinger. Det er ikke blot det tidligere Landstings Formand M. P. <hi rend="spaced">Bruun</hi>, og begge Viseformændene B. <hi rend="spaced">Christensen</hi> og <hi rend="spaced">Skeel</hi>, som er faldne, men selve Landets fyrste Embeds-</p>
+</div>
+</body>
+</text>
+</TEI>

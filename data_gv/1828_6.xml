@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Blaa-Lysene</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-20"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="006"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1828">1828</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1828_6_page0001.png"/>
+			<fw type="pageNum">79</fw>
+				<docTitle>
+	<titlePart type="main">Blaa-Lysene</titlePart>
+	<titlePart type="sub">(i Anledning af Formælingen d. 1ste Novbr. 1828).</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<docImprint>
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<lg>
+<l>Hvor Blaa-Lys blinke ved Midnats-Tid,</l>
+<l>O, Drot faa blid!</l>
+<l>Som Ordet lød,</l>
+<l>En Skar der ligger i Jordens Skjød:</l>
+<l>En Kjedel fuld</l>
+<l>Af Selv og Guld;</l>
+<l>Af gamle Kroner, som vil paa Ny</l>
+<l>Med Klipper glede i Morgen-Gru,</l>
+<l>Og trille paa Tavle-Borde!</l>
+</lg>
+<lg>
+<l>Det var i denne vor Konges Tid,</l>
+<l>Man grov med Flid,</l>
+<l>(Jeg selv var med,</l>
+<l>Dog som en Digter for Dragen rædd)</l>
+<l>Og Aar for Aar,</l>
+<l>Som Ordet gaaer,</l>
+<l>De skjulte Skatte kom for en Dag,</l>
+<l>Til Sjette Frederiks Velbehag,</l>
+<l>Og Danmarks Priis i Norden.</l>
+</lg>
+<lg>
+<l>Vel Bog-Guld batter kun lidt paa Jord,</l>
+<l>I Syd og Nord,</l>
+<l>Dog klæder godt</l>
+<l>Paa Billedrammen det for en Drot,</l>
+<l>Og Guld-Stev rød</l>
+<l>Kun lidt betød.</l>
+</lg> 
+<pb facs="1828_6_page0002.png"/>
+<fw type="pageNum">80</fw>
+<lg>
+<l>I Tidens Længde mod Gylden-Skrin,</l>
+<l>Vom Mindes-Mærke og Aands-Bedrift,</l>
+<l>Som Ark paa Tidens Bølge!</l>
+</lg>
+<lg>
+<l>Hvor Saga finder sin Præst og Skjald</l>
+<l>I Konge-Hald,</l>
+<l>Der huger bedst</l>
+<l>Det Nordens Vætte at holde Fest,</l>
+<l>Der stydes Skjold</l>
+<l>For Ætten bold;</l>
+<l>Der Stubben skyder for Stammen Green ;</l>
+<l>Der Kronen klarer sin Ædel-Steen.</l>
+<l>Igiennem Fos og Flammer!</l>
+</lg>
+<lg>
+<l>Det rygtes vidt, at Christians-Borg</l>
+<l>Fik Bod og Sorg,</l>
+<l>Da af dens Gruus</l>
+<l>Stod op et Kongeligt Brude-Huus,</l>
+<l>Med Orgel-Klang</l>
+<l>Og Fryde-Sang,</l>
+<l>Hvor Elskov lued paa Rosen-Kind,</l>
+<l>Og Hallen gløded' i Fakkel-Skin,</l>
+<l>Med Døn af Omqvæds-Braget!</l>
+</lg>
+<lg>
+<l>Men Blaa-Lys blinked' ved Midnats-Tid -</l>
+<l>O, Drot saa blid!</l>
+<l>Det klart betød,</l>
+<l>En Skat der ligger i Danmarks Skjød:</l>
+<l>En Glands i Muld</l>
+</lg> 
+<pb facs="1828_6_page0003.png"/>
+<fw type="pageNum">81</fw>
+<lg>
+<l>Som Selv og Guld!</l>
+<l>Et Sået af Kroner, som vil paa Sky</l>
+<l>Med Klippen glede i Morgen-Gry</l>
+<l>Med Skov i Aften-Røde!</l>
+</lg>
+<lg>
+<l>Saa bær, til Harme for Trold og Thus,</l>
+<l>Du Brude-Blus,</l>
+<l>Som Kvinder faa,</l>
+<l>Vor føde Moder i Kjortel blaae;</l>
+<l>Saa af dit Bryst,</l>
+<l>Kjærminde-Lyst,</l>
+<l>I Chor af Sønnernes Fryde-Raab,</l>
+<l>Og blusser blinkende mildt dit Haab,</l>
+<l>Og spaaer om skjulte Skatte.</l>
+</lg>
+<p><hi rend="spaced">Grundtvig</hi>.</p>
+</div>
+</body>
+</text>
+</TEI>

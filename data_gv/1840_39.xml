@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Fugle-Vise til Bonde-Frihedens Priis</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-23"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="039"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1840">1840</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1840_39_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Fugse-Vise<lb/>til<lb/>Bonde-Frihedens Priis</titlePart>
+	<titlePart type="sub">i<lb/>Danske Samfund</titlePart>
+</docTitle>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace>Kiøbenhavn.</pubPlace>.<lb/>Trykt hos J. D. Qvist, Bog- og Nodetrykker,<lb/>Østergade Nr. 53.<lb/>
+<fw type="graphic"/>
+<docDate>1840</docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<pb facs="1840_39_page0002.png"/>
+<fw type="pageNum"></fw>
+<head>Mel. Der stander et Slot i Østerrig.</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">F</hi>or Bønder Himlens Fugle meer</l>
+<l>End for de Store sjunge,</l>
+<l>Som heller lee ad Fuglens Fjer,</l>
+<l>End lytte til hans Tunge.</l>
+</lg>
+<lg>
+<l>Og Skjalden er af Fugle-Art,</l>
+<l>Hans Tankering har Vinger,</l>
+<l>Som Fugl i Luften skyder Fart,</l>
+<l>Han lukt i Sky sig svinger.</l>
+</lg>
+<lg>
+<l>Man klarlig og paa Marken saae,</l>
+<l>Hvor Sangen var i Mode,</l>
+<l>Da Hjarne sang sor Vender graa,</l>
+<l>Som bar om Land Kong Frode.</l>
+</lg>
+<lg>
+<l>Nu længe dog i Danevang,</l>
+<l>Med deilig grønne Skove,</l>
+<l>Uhørt var hardtad Skjalde-Sang</l>
+<l>For dem i Klæder grove.</l>
+</lg> 
+<pb facs="1840_39_page0003.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Med Øre knap for Gjøgens Kuk</l>
+<l>Gik Bondemand bag Ploven,</l>
+<l>Og hørte for sit eget Suk</l>
+<l>Ei Fuglesang fra Oven.</l>
+</lg>
+<lg>
+<l>Men Gud og Danmarks Kongesøn</l>
+<l>De sørged for den Ringe,</l>
+<l>Saa godt kan Sang fra Skoven grøn</l>
+<l>Nu i hans Øren klinge.</l>
+</lg>
+<lg>
+<l>Der staaer en Steen paa Vesterbro,</l>
+<l>Det er en Ære-Støtte</l>
+<l>For Hjertet, som i Kongebo</l>
+<l>Ved Bondens Lænker blødte.</l>
+</lg>
+<lg>
+<l>At loft er nu hans Trællebaand,</l>
+<l>Kan Steen dog ei bevise,</l>
+<l>Men Skjaldesang med Liv og Aand,</l>
+<l>Som Bonde-Læber prise.</l>
+</lg>
+<lg>
+<l>Saasandt vi er af Fugle-Art,</l>
+<l>Og <hi rend="bold">Hjarnes</hi> Skjalde-Stamme,</l>
+<l>Det kjendes maa paa Bønder snart,</l>
+<l>At tændt er Friheds Flamme.</l>
+</lg>
+<lg>
+<l>Igjen da lytter Menigmand</l>
+<l>Til Kvad og Kæmpeviser,</l>
+<l>Og frydes ved sit Fædreland,</l>
+<l>Og Skjaldesangen priser.</l>
+</lg> 
+<pb facs="1840_39_page0004.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Som Fugle i den grønne Lund,</l>
+<l>Vi stal sor Bønder kvæde,</l>
+<l>Saa det kan gaae fra Mund til Mund,</l>
+<l>Fra Slægt til Slægt med Glæde.</l>
+</lg>
+<lg>
+<l>Det være stal vor største Fryd,</l>
+<l>Som Skjalde barneglade,</l>
+<l>Naar hoppe kan ved Sangens Lyd</l>
+<l>Selv bare Been paa Gade.</l>
+</lg>
+<lg>
+<l>Det kaldes stal vor bedste Sang,</l>
+<l>Til evig Roes og Minde,</l>
+<l>Som løber rundt i Danevang</l>
+<l>Naar Piger Negen binde.</l>
+</lg>
+<lg>
+<l>Det være skal vor Hæders-Krands,</l>
+<l>Naar vore Toner milde</l>
+<l>Med Pigerne gaae let i Dands</l>
+<l>Ved hvert et Bønder-Gilde!</l>
+</lg>
+<p><hi rend="align(center)"><hi rend="bold">N. F. S. Grundtvig</hi>.</hi></p>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

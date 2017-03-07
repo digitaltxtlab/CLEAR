@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Vær velkommen Herrens Aar og velkommen herhid!</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-22"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="014"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1849">1849</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1849_14_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main"><lb/>Vær velkommen Herrens Aar og velkommen herhid!</titlePart>
+	<titlePart type="sub"><lb/></titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<docImprint>
+				<pubPlace></pubPlace>.
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<lg>
+<l><hi rend="initial">V</hi>ær velkommen Herrens Aar og velkommen herhid!</l>
+<l>Julenat, da vor Herre blev fød,</l>
+<l>Da tændte sig Lyset i Mørkets Skiød!</l>
+<l>Velkommen Nytaar og velkommen her!</l>
+</lg>
+<lg>
+<l>Vær velkommen Herrens Aar og velkommen herhid!</l>
+<l>Paaskemorgen, da Herren opstod,</l>
+<l>Da Livstræet fæsted i Graven Rod!</l>
+<l>Velkommen Nytaar og velkommen her!</l>
+</lg>
+<lg>
+<l>Vær velkommen Herrens Aar og velkommen herhid!</l>
+<l>Pindsedag, da Guds Aand kom herned,</l>
+<l>Da straaled hans Kraft i vor Skrøbelighed!</l>
+<l>Velkommen Nytaar og velkommen her!</l>
+</lg>
+<lg>
+<l>Vær velkommen Herrens Aar og velkommen herhid!</l>
+<l>Herrens Aar med vor Guds Velbehag</l>
+<l>Nu bringer os Glæde hver Herrens Dag!</l>
+<l>Velkommen Nytaar og velkommen her!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

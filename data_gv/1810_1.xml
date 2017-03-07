@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Subskriptionsplan</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-19"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="001"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1810">1810</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1810_1_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Subskriptionsplan</titlePart>
+	<titlePart type="sub">paa<lb/>en Oversættelse af</titlePart>
+</docTitle>
+<byline>af<lb/>
+	<docAuthor>Sæmunds Edda.</docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<p><hi rend="initial">U</hi>nder Navnet <hi rend="spaced">Sæmunds Edda</hi> eie vi en ærværdig Samling af gamle og for det meste saare poetiske Sange om Guderne og om tvende Helteslægters, Volsungers og Gjukungers Undergang. De mytologiske Sange ere udgivne paa Islandsk og Latin af den magnæanske Kommis sion og oversætte paa Dansk af den fortjente <hi rend="spaced">Sandvig</hi>; men denne Oversættelse er dels ei mer i Boghandlingen, dels kun brugbar for dem, der kende Sangene i Grundsproget. Sagakvadene henligge endnu utrykte og hartad ube-
+<pb facs="1810_1_page0002.png"/>
+<fw type="pageNum"></fw>
+kendte, skøndt de i alle Henseender fortjente at læses selv af Udlændinge*).</p>
+<p>Af alle disse Sange tilbyder jeg herved mine Landsmænd en Oversættelse, forsynet med oplysende Anmærkninger, og Indledninger om Sangenes Ælde, indbyrdes Forhold, Slægtskab med udlændiske Digte o. s. v. Værket udkommer, dersom det finder behørig Understøttelse, i trende Hefter, hvoraf jeg mener hvert vil udgøre om-trent 20 Ark.</p>
+<p>De som ville umage sig med at samle Subskribentere, erholde hvert IIte Exemplar frit, og ombedes at hjemsende Planerne saa snart muligt, da jeg haaber at kunne levere første Hefte endnu i Aar.</p>
+<p>*) Se Kjøbenhavns Skilderi No. 30, hvor en Prøve findes !</p>
+<p>Valkendorfs Kollegium, d. 15de Jan. 1810.</p>
+<p><hi rend="align(right)">N. F. S. <hi rend="spaced">Grundtvig</hi>.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

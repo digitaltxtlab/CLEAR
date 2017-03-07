@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title></title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2009-10-07"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="015"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1808">1808</date>
+			</publicationStmt>
+			 <sourceDesc>
+			  <p>[Source decription]</p>
+			 </sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1808_15_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main"></titlePart>
+</docTitle>
+</titlePage>
+</front>
+<body>
+<div>
+<pb facs="1808_15_page0001.png"/>
+<head>Tilbagesyn paa København.</head>
+<p>(Ved min Færd til Middelsyssel.)</p>
+<lg>
+<l>Sørgelig stander du der,</l>
+<l>Axelstad! syg og lemlæstet.</l>
+<l>hvor er nu Spiret, som høit</l>
+<l>Stræbte fra Jorden mod himlen?</l>
+<l>Uslingens Øie saa stivt</l>
+<l>Stirred og hængte paa Guldet,</l>
+<l>Gerrig han rev det til Jord,</l>
+<l>Men det sig tabte i Støvet,</l>
+<l>Lærte ham: hvad der er Guld</l>
+<l>hist i det Høie, det vorder</l>
+<l>Atter til Støv paa vor Jord.</l>
+</lg>
+<lg>
+<l><hi rend="align(right)">Sørgelig stander du der,</hi></l>
+<l>Axelstad! syg og lemlæstet,</l>
+<l>Røvet din herligste Pryd,</l>
+<l>Nutidens udtrykte Billed,</l>
+<l>Der som en sjunken Ruin</l>
+<l>Vidner om henfarne Tider</l>
+</lg>
+<lg>
+<l><hi rend="align(right)">Tiderne havde et <hi rend="spaced">Spir</hi>,</hi></l>
+<l>Kækt det sig reiste mod himlen,</l>
+<l>Straaled af luende Guld,</l>
+<l>Fæstet i Menneskets Indre;</l>
+<l>Uslinge reve det ned,</l>
+<l>Jorden de vilde forgylde,</l>
+<l>Guldet sig tabte i Støv,</l>
+<l>Støvet sig hvirvled i Luft,</l>
+<l>Blev til en Sky, og vor Alder</l>
+<l>Stirrer paa Skyen saa glad,</l>
+<l>Peger paa den som sin Himmel.</l>
+</lg>
+<lg>
+<l><hi rend="align(right)">Atter kan reises dit Spir,</hi></l>
+<l>Axelstad! men om den Bue,</l>
+<l>Som bliver hvalvt under Spir,</l>
+<l>Kan over <hi rend="spaced">Kristne</hi> sig hvælve;</l>
+<l>Eller om Tidernes Spir</l>
+<l>Atter kan reises, det skjuler</l>
+<l>Fremtidens natlige Slør.</l>
+</lg>
+<lg>
+<l><hi rend="align(right)">Axelstad! hurtig du viger,</hi></l>
+<l>Taagen jeg skuer kun end,</l>
+<l>Taagen, som stadigen ruger</l>
+<l>Over dig, giftig og tung,</l>
+<l>Skjuler den renere Himmel</l>
+<l>For dine gøglende Børn.</l>
+</lg>
+<lg>
+<l>Taageindhyllede By!</l>
+<l><hi rend="spaced">hvad er vel det</hi>, som mig drager</l>
+<l>Til dig saa stærk og saa fast,</l>
+<l>Som, naar for Øiet du svinder,</l>
+<l>Avler i Hjertet et Suk,</l>
+<l>Som, naar dig Øiet opdager,</l>
+<l>Byder det tindre saa mildt,</l>
+<l>Vækker en inderlig Længsel?</l>
+</lg>
+<lg>
+<l><hi rend="align(right)">Det er <hi rend="spaced">det Døde</hi> i dig,</hi></l>
+<l>Som mellem levende Døde</l>
+<l>Lever saa kraftigt et Liv,</l>
+<l>Vækker det Døde til Live.</l>
+<l>Minder fra hensvundne Old</l>
+<l>Fængsle min Sjel og mit Øie,</l>
+<l><hi rend="spaced">Billedet</hi> stirrer jeg paa,</l>
+<l>Blind for de luftige Skygger.</l>
+</lg>
+<lg>
+<l><hi rend="align(right)">Axelstad! <hi rend="align(right)">maatte</hi> jeg da</hi></l>
+<l>Leve i dig til min Død,</l>
+<l>Knyttet til Oldtidens liv,</l>
+<l>Fremmet for Nutidens Død!!!</l>
+</lg>
+<p><hi rend="align(right)">Nik. Fred. Sev. Grundtvig</hi></p>
+</div>
+</body>
+</text>
+</TEI>

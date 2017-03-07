@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--<?xml-stylesheet type="text/xsl" href="txtXSLT.xsl"?>-->
+<!--<?xml-model href="txtRNC.rnc" type="application/relax-ng-compact-syntax"?>-->
+<?xml-model href="file:/V:/Centre/Grundtvig%20Centeret%20-%20The%20Grundtvig%20Study%20Center/Grundtvig%20Centeret,%20Vartov/xml/rnc/txtRNC.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-stylesheet type="text/xsl" href="file:/V:/Centre/Grundtvig%20Centeret%20-%20The%20Grundtvig%20Study%20Center/Grundtvig%20Centeret,%20Vartov/xml/xslt/txtXSLT.xsl"?>
+<TEI xmlns:TEI="http://www.tei-c.org/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da" xml:space="preserve">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title rend="part">Kiækheds Erindring, Willemoes</title>
+            <!-- skal førstelinjer nævnes i teiHeader?-->
+            <title rend="shortForm">Kommer hid, I Piger smaa!</title>
+            <author>Nicolai Frederik Severin Grundtvig</author>
+            <editor role="editionPhilologist">Vibeke A. Pedersen</editor>
+            <editor role="editionPhilologist">Holger Berg</editor>
+            <editor role="student">Frederik Dreiøe Seidelin</editor>
+            <editor role="student">Maria Wiggers Pedersen</editor>
+            <editor role="student">Anna Poulsen</editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>Version 1.3</edition>
+         </editionStmt>
+         <extent>[filstørrelse]</extent>
+         <noteStmt>
+            <note target="1810_144_txt.xml" type="txt">Læsetekst</note>
+            <note xml:id="thisFile" target="1810_144_com.xml" type="com">Punktkommentar</note>
+            <note target="1810_144_intro.xml" type="intro">Indledning</note>
+            <note target="1810_144_txr.xml" type="txr">Tekstredegørelse</note>
+            <note type="noVar">Variant</note>
+         </noteStmt>
+         <publicationStmt>
+            <publisher>Faculty of Arts, Aarhus University</publisher>
+            <distributor>Grundtvig Centeret, Vartov, København</distributor>
+            <idno type="filnavn">144</idno>
+            <date type="dato">www.grundtvigsværker.dk, version 1.3, <!--15. december -->2013</date>
+         </publicationStmt>
+         <seriesStmt>
+            <title>[titel]</title>
+            <idno>[udgivelse dato]</idno>
+            <respStmt>
+               <name>[udgiver]</name>
+               <resp>[evt.]</resp>
+            </respStmt>
+         </seriesStmt>
+         <sourceDesc>
+            <bibl>
+               <title type="main">Danske og Norske historiske Mindesange, samlede og med oplysende Indledninger udgivne</title>
+               <author>Knud Lyne Rahbek <note>udgiver</note>
+               </author>
+               <pubPlace>København</pubPlace>
+               <publisher>[trykker]<!-- tilføj -->
+                  <note>[evt.]</note>
+               </publisher>
+               <date>[år]</date><!--1810-1811?-->
+            </bibl>
+            <listWit xml:id="emendation">
+               <witness rend="A">[tekstkilde]</witness>
+            </listWit>
+            <listWit xml:id="pageNumber">
+               <witness rend="US"><hi rend="italic">Udvalgte Skrifter</hi> 1</witness>
+               <witness rend="VU"><hi rend="italic">V&#x00E6;rker i Udvalg</hi> 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Grundtvig Centeret er oprettet den 1. januar 2009.</p>
+            <p>Grundtvig Centeret arbejder med:</p>
+            <p>1. En digital og kommenteret udgave af Grundtvigs værker</p>
+            <p>2. En forskningsindsats på de felter, hvor Grundtvig særligt markerede sig</p>
+            <p>2.a. Teologi og kirke</p>
+            <p>2.b. Demokrati og folkelighed</p>
+            <p>2.c. Pædagogik og folkeoplysning</p>
+            <p>3. Videnudveksling, undervisning og formidling</p>
+         </projectDesc>
+         <editorialDecl xml:id="comGuideLines.xml" n="1.0">Retningslinjer for punktkommentarer til Grundtvigs V&#x00E6;rker</editorialDecl>
+         <editorialDecl xml:id="introGuideLines.xml" n="1.0">Retningslinjer for indledninger til Grundtvigs V&#x00E6;rker</editorialDecl>
+         <editorialDecl xml:id="msGuideLines.xml" n="1.0">Retningslinjer for transskribering af manuskripter til Grundtvigs V&#x00E6;rker</editorialDecl>
+         <editorialDecl xml:id="refGuideLines.xml" n="1.0">Retningslinjer for litteraturhenvisninger til Grundtvigs V&#x00E6;rker</editorialDecl>
+         <editorialDecl xml:id="typoGuideLines.xml" n="1.0">Retningslinjer for gengivelse af typografiske hierarkier i Grundtvigs V&#x00E6;rker</editorialDecl>
+         <editorialDecl xml:id="txrGuideLines.xml" n="1.0">Retningslinjer for tekstredeg&#x00F8;relser til Grundtvigs V&#x00E6;rker</editorialDecl>
+         <editorialDecl xml:id="txtGuideLines.xml" n="1.0">Tekstkritiske retningslinjer for Grundtvigs V&#x00E6;rker</editorialDecl>
+         <editorialDecl xml:id="xmlGuideLines.xml" n="1.0">Retningslinjer for XML-m&#x00E6;rkning af Grundtvigs V&#x00E6;rker</editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change xml:id="KSR" who="KSR" when="2012-05-14">txt2tei</change>
+          <change xml:id="AP" who="AP" when="2013-02-08">1. kollation</change>
+          <change xml:id="VAP" who="VAP" when="2013-02-15">kortform i titel</change>
+         <change xml:id="MWP" who="MWP" when="2013-02-15">Foretaget 2. kollation, indsat sidetal, opmærket til registre</change>
+         <change xml:id="FDS" who="FDS" when="2013-03-14">Indsat seg-elementer.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <front>
+            <titlePage>
+               <pb type="text" facs="1810_144_fax999.jpg" ed="A" n="166"/>
+               <docTitle>
+                  <titlePart type="main">Kiækheds Erindring, 
+                     <lb/><hi rend="spaced">Willemoes.</hi></titlePart>
+                  <titlePart type="sub"/>
+               </docTitle>
+               <byline>
+                  <docAuthor/>
+               </byline>
+               <epigraph> </epigraph>
+               <docImprint>
+                  <pubPlace/>. . </docImprint>
+            </titlePage>
+         </front>
+         <div type="">
+            <!--<head>Kiækheds Erindring,</head>
+            <head>Willemoes.</head>
+            <fw type="shortLine"/>
+            <p rend="firstIndent">
+               <hi rend="initial">M</hi>ellem dem, Skiærtorsdags Heltekamp overantvordede ikke blot til Fædrelandets men til Fremmedes og Fienders beundrende Høiagtelse, var denne unge Kriger, som med det gernerske Flydebatterie saaledes udmærkede sig, at den engelske Befalingsmand, Seiervinderen ved Abukir, Admiral <hi rend="italic">Nelson</hi> lagde Mærke til ham, og efter Vaabenstilstanden forespurgde sig om ham. Da Engelland giemte det troløse Sværd i Balgen, for at oppebie en beleiligere Time, gik han med Kongelig Tilladelse i russisk Tieneste, men ved Tidenden om det brittiske <pb type="text" facs="1810_144_fax999.jpg" ed="A"  n="167"/>Mordbrandstog ilede han tilbage at hellige sit skiændig overfaldne Fædreland sin Arm og sit Mod. Samme Efteraar udmærkede han sig, forn hans Digter i en kort Indledning til en anden Sang om ham udtrykker sig, ved det Heltemod, hvormed hau trodsede alle Farer, og førte Krigerne midt imellem Bretlands de talrige
+               Snækker.</p>
+            <p rend="firstIndent">Da man i følqende Foraar kaarede Officerer til det ved Carl Iessens Kiækhed og Snildhed biergede Orlogsskib <hi rend="italic">Prinds Christian</hi> faldt Valget, tilligemed de fra Skiærtorsdagskampen hædrede Krigere, Carl Rothe, og Top, ogsaa paa ham.</p>
+            <p rend="firstIndent">I Martio beordredes dette Linieskib til Beltet at giøre det ryddeligt for engelske Krydsere, der vilde giøre de hidbestemte allierede Tropper Overgangen stridig. Underveis blev det indhentet og omringet af engelsk Overmagt, og efter en heltemodig Forsvarskamp omsider erobret, og brændt. I denne Heltekamp fandt den tapre Willemoes Heltedød.</p>
+            <fw type="shortLine"/>-->
+            <lg n="1">
+               <l>
+                  <seg type="com"><hi rend="initial">K</hi>ommer</seg> hid, I Piger smaae!</l>
+               <l>Strængen vil jeg røre,</l>
+               <l>Taarer skal i Øiet staae,</l>
+               <l>Naar min Sang I høre;</l>
+               <l>Om faa bold en Ungersvend,</l>
+               <l>Alle fagre Pigers Ven,</l>
+               <l>Sørgelig jeg siunger.</l>
+            </lg>
+            <pb type="text" facs="1810_144_fax999.jpg" ed="A"  n="168"/>
+            <lg n="2">
+               <l><seg type="com">Vaaren er nu kommet nær</seg>,</l>
+               <l>Dagene sig længe,</l>
+               <l>Vaaren har I Piger kiær,</l>
+               <l>Blomster groe i Enge;</l>
+               <l>Dog I skal i sene Aar</l>
+               <l>Mindes, at I saae <seg type="com">en Vaar</seg></l>
+               <l>Med bedrøvet Øie.</l>
+            </lg>
+            <lg n="3">
+               <l>Ak! thi før sig op af Jord</l>
+               <l>Blomsten kunde trænge,</l>
+               <l>Falmede en Blomst i <placeName key="fak24">Nord</placeName>,</l>
+               <l>Som skal mindes længe;</l>
+               <l><persName key="pe99">Willemoes</persName> var Blomstens Navn,</l>
+               <l>Og ei glemmes tunge Savn</l>
+               <l>Midt i Blomsterflokken.</l>
+            </lg>
+            <lg n="4">
+               <l>Han var Dreng, men stod som Mand,</l>
+               <l>Medens I var spæde,</l>
+               <l>Staae og slaae for Fædreland</l>
+               <l>Var den Unges Glæde.</l>
+               <l>Strømmen gaaer mod <placeName key="fak8">Kiøbenhavn</placeName>,</l>
+               <l><seg type="comStart"/><placeName key="fak414">Kongedyb</placeName> er Strømmens Navn,</l>
+               <l>Der blev Helten viet.<seg type="comEnd"/></l>
+            </lg>
+            <lg n="5">
+               <l>Drengen voxte op til Mand,</l>
+               <l>Barnlig dog i Sinde</l>
+               <l>Maatte han paa Sø og Land</l>
+               <l>Alle Hierter vinde:</l>
+               <l>Sømænd bare ham paa Haand,</l>
+               <l>Og den <seg type="com">fagre Liljevaand</seg></l>
+               <l>Gav ham sin at kysse.</l>
+            </lg>
+            <pb type="text" facs="1810_144_fax999.jpg" ed="A"  n="169"/>
+            <lg n="6">
+               <l>Gierne han paa Haand og Mund</l>
+               <l>Hende kysse vilde,</l>
+               <l>Lod sig og en liden Stund</l>
+               <l>Vel <seg type="com">i Snarer hilde</seg>;</l>
+               <l>Men han var og blev en Mand,</l>
+               <l>Kiæk han drog til fremmed Land</l>
+               <l>Manddoms Værk at øve.</l>
+            </lg>
+            <lg n="7">
+               <l>Sæ<!-- AP: læderet type -->lso<!-- AP: mangler sværte-->mt i hans Aand det lød:</l>
+               <l>Høre<!-- AP: mangler sværte -->r du, det <seg type="com">dønner</seg>!</l>
+               <l><placeName key="poet219">Dannemark</placeName> er stædt i Nød,</l>
+               <l>Kalder sine Sønner.</l>
+               <l>Og som gamle <placeName key="fak14">Danmarks</placeName> Søn</l>
+               <l>Fløi han mod det hule Døn</l>
+               <l>Fædreland at værge.</l>
+            </lg>
+            <lg n="8">
+               <l>Ak! den Giæve kom, og saae</l>
+               <l>Fædrelandet bløde,</l>
+               <l><seg type="comStart"/>Hvor de stolte Snekker laae,</l>
+               <l>Var saa tomt og øde<seg type="comEnd"/>;</l>
+               <l>Disse Snekker var hans Hjem,</l>
+               <l>Han <seg type="com">opvoxed mellem dem</seg>,</l>
+               <l>Stred i dere<!-- AP: ubestemmeligt tegn i enden af deres --> Skygge.</l>
+            </lg>
+            <lg n="9">
+               <l>Dertil var fra Hedenold</l>
+               <l>Hid til sidste Dage</l>
+               <l>Disse Snekker <placeName key="fak14">Danmarks</placeName> <seg type="com">Vold</seg>,</l>
+               <l>Vold foruden Mage;</l>
+               <l>Sorg og Harm i Heltens Sind</l>
+               <l>Maatte da vel <seg type="com">gange</seg> ind,</l>
+               <l>Følge Ham til Graven.</l>
+            </lg>
+            <pb type="text" facs="1810_144_fax999.jpg" ed="A"  n="170"/>
+            <lg n="10">
+               <l><seg type="com">Vinter leed</seg> og Isen brast,</l>
+               <l>Over brede Vande,</l>
+               <l><seg type="comStart"/><seg type="com">Kristjan</seg> med sin høie Mast</l>
+               <l>Lod fra <placeName key="poet415">Norrig</placeName> stande<seg type="comEnd"/>,</l>
+               <l>Helten stod saa rørt i Sind,</l>
+               <l>Store Ta<!-- AP: mangler sværte -->arer faldt paa Kind,</l>
+               <l>Der han Snekken skued.</l>
+            </lg>
+            <lg n="11">
+               <l>Kiære Snekke, hilset vær!</l>
+               <l>Saa tog han til Orde,</l>
+               <l>Sømmelig er vist din Færd</l>
+               <l>Med de <seg type="com">høie Borde</seg>;</l>
+               <l>Ak! men det er Hiertesorg,</l>
+               <l>At kun af den stolte Borg</l>
+               <l>Staaer et enligt Kammer.</l>
+            </lg>
+            <lg n="12">
+               <l>Høie Magter, I som slog</l>
+               <l><placeName key="poet219">Dannemark</placeName> med <!-- MWP: I eller J? -->Iammer,</l>
+               <l>Lad mig til min <seg type="com">Afgang</seg> dog</l>
+               <l>Boe i dette Kammer!</l>
+               <l>Mem skal ogsaa det forgaae,</l>
+               <l>Lad mig først da <seg type="com">Bane</seg> faae</l>
+               <l>Paa dets <seg type="com">røde Tilje</seg>!</l>
+            </lg>
+            <lg n="13">
+               <l>Snekken seiled <seg type="com">under Ø</seg>,</l>
+               <l><seg type="com">Kiæmper</seg> var omborde,</l>
+               <l>Vikinger laae trindt paa Sø,</l>
+               <l>Dog den seile torde.</l>
+               <l>Vikinger sig flokked brat,</l>
+               <l>Leired sig i dunkle Nat</l>
+               <l>Om den prude Snekke.</l>
+            </lg>
+            <pb type="text" facs="1810_144_fax999.jpg" ed="A"  n="171"/>
+            <lg n="14">
+               <l>Hist i Nord gaaer <placeName key="fak409">Odden</placeName> ud</l>
+               <l>Mellem høie Bølger,</l>
+               <l>Der blev Døn af stærke Skud,</l>
+               <l><seg type="com">Kristjan</seg> ei sig dølger;</l>
+               <l>Men som <seg type="comStart" n="com22">gamle <persName key="pe9999">Kristian<!-- MWP: christian 7. eller 8.? --></persName></l>
+               <l>Staaer han fast paa danske Strand,</l>
+               <l>Skiøndt hans Blod udrinder<seg type="comEnd"/>.</l>
+            </lg>
+            <lg n="15">
+               <l><placeName key="his121">Bretlands</placeName> <seg type="com">Viking</seg>, har du Mod</l>
+               <l>Til med mig at sande,</l>
+               <l>At du maatte give Bod</l>
+               <l>Til de danske Vande,</l>
+               <l>Bod til <seg type="comStart"/>gamle Dannebrog,</l>
+               <l>Som du nys uheiset tog</l>
+               <l>Med saa ringe Møie<seg type="comEnd"/>?</l>
+            </lg>
+            <lg n="16">
+               <l>Snart ei saaes meer dit Flag,</l>
+               <l>Om for dine Skibe,</l>
+               <l>Hvad du gav for <seg type="com">Kristjans Vrag</seg>,</l>
+               <l>Prisen skulde blive;</l>
+               <l>Ringe blev paa Hav din Roes,</l>
+               <l>Om du fandt en <persName key="pe99">Willemoes</persName>,</l>
+               <l>Paa hvert Skib du borded.</l>
+            </lg>
+            <lg n="17">
+               <l><persName key="pe99">Willemoes</persName>! du maatte gaae</l>
+               <l><seg type="com">Andet Hiem at finde</seg>,</l>
+               <l>Taarer i vort Øie staae,</l>
+               <l>Men de tør ei rinde;</l>
+               <l>Ak! thi vilde vi, at du</l>
+               <l>Skulde <seg type="com">vanke her endnu</seg>,</l>
+               <l><seg type="com">Kristjan</seg> overleve?</l>
+            </lg>
+            <pb type="text" facs="1810_144_fax999.jpg" ed="A"  n="172"/>
+            <lg n="18">
+               <l>Herren var det, som til sig</l>
+               <l>Kaldte Livets Flammer,</l>
+               <l>Ved hans Tempel til dit Liig</l>
+               <l>Lave vi et Kammer,</l>
+               <l>Over dine <seg type="com">Kiæmpebeen</seg></l>
+               <l><seg type="comStart"/>Reise vi en Bautasteen,</l>
+               <l>Give Stenen Mæle<seg type="comEnd"/>.</l>
+            </lg>
+            <lg n="19">
+               <l><seg type="com">Hører</seg> det, I Piger smaa?</l>
+               <l>I maae ikke græde,</l>
+               <l>Men naar over Eng I gaae</l>
+               <l>Mellem Vaarens Spæde;</l>
+               <l><seg type="com">Binder</seg> da af dem en Krands</l>
+               <l><seg type="com">Parrer</seg> Blomsterne med Sands</l>
+               <l>Til den Faldnes Ære!</l>
+            </lg>
+            <lg n="20">
+               <l>Hvis det rørte Hiertes Sang</l>
+               <l>Hie<!-- AP: mangler sværte -->rtet røre kunde,</l>
+               <l><seg type="com">Siunger</seg> den da mangengang</l>
+               <l>I de stille Lunde;</l>
+               <l><seg type="com">Siunger</seg> den ved <seg type="com">breden Strand</seg></l>
+               <l>Naar hen over hvide Sand</l>
+               <l>Boven sagte triller!</l>
+            </lg>
+               <p rend="right">N.F.S. Grundtvig.</p>
+            <p rend="firstIndent"/>
+            <fw type="shortLine"/>
+         </div>
+      </body>
+   </text>
+</TEI>

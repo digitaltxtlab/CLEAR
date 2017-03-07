@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--<?xml-stylesheet type="text/xsl" href="txtXSLT.xsl"?>-->
+<!--<?xml-model href="txtRNC.rnc" type="application/relax-ng-compact-syntax"?>-->
+<?xml-model href="file:/V:/Centre/Grundtvig%20Centeret%20-%20The%20Grundtvig%20Study%20Center/Grundtvig%20Centeret,%20Vartov/xml/rnc/txtRNC.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-stylesheet type="text/xsl" href="file:/V:/Centre/Grundtvig%20Centeret%20-%20The%20Grundtvig%20Study%20Center/Grundtvig%20Centeret,%20Vartov/xml/xslt/txtXSLT.xsl"?>
+<TEI xmlns:TEI="http://www.tei-c.org/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da"  xml:space="preserve">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title rend="part">Et Par Ord angaaende Revselsen i Politivennen No. 620</title>
+            <title rend="shortForm">Et Par Ord angaaende Revselsen</title>
+            <author>Nicolai Frederik Severin Grundtvig</author>
+            <editor role="editionPhilologist">Vibeke A. Pedersen</editor>
+            <editor role="editionPhilologist">Holger Berg</editor>
+            <editor role="student">Frederik Dreiøe Seidelin</editor>
+            <editor role="student">Maria Wiggers Pedersen</editor>
+            <editor role="student">Anna Poulsen</editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>1.3</edition>
+         </editionStmt>
+         <extent>7 KB</extent>
+         <noteStmt>
+            <note target="1810_136_txt.xml" xml:id="thisFile" type="txt">Læsetekst</note>
+            <note target="1810_136_com.xml" type="com">Punktkommentar</note>
+            <note target="1810_136_intro.xml" type="intro">Indledning</note>
+            <note target="1810_136_txr.xml" type="txr">Tekstredegørelse</note>
+            <note type="minusVar">Variant</note>
+         </noteStmt>
+         <publicationStmt>
+            <publisher>Faculty of Arts, Aarhus University</publisher>
+            <distributor>Grundtvig Centeret, Vartov, København</distributor>
+            <idno type="1810_136_txt.xml">136</idno>
+            <date type="2013-10-01">www.grundtvigsværker.dk, version 1.3, 1. oktober 2013</date>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Dagen</title>
+            <idno>[udgivelse dato]</idno>
+            <respStmt>
+               <name>[udgiver]</name>
+               <resp>[evt.]</resp>
+            </respStmt>
+         </seriesStmt>
+         <sourceDesc>
+            <bibl>
+               <title type="part">Et Par Ord angaaende Revselsen i Politivennen No. 620</title>
+               <author>Grundtvig</author>
+               <pubPlace>København</pubPlace>
+               <publisher>[trykker] <note>[evt.]</note>
+               </publisher>
+               <date>1810</date>
+            </bibl>
+            <listWit xml:id="emendation">
+               <witness rend="A">Førstetrykket, 1810</witness>
+            </listWit>
+            <listWit xml:id="pageNumber">
+               <witness rend="US"><hi rend="italic">Udvalgte Skrifter</hi> 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Grundtvig Centeret er oprettet den 1. januar 2009.</p>
+            <p>Grundtvig Centeret arbejder med:</p>
+            <p>1. En digital og kommenteret udgave af Grundtvigs værker</p>
+            <p>2. En forskningsindsats på de felter, hvor Grundtvig særligt markerede sig</p>
+            <p>2.a. Teologi og kirke</p>
+            <p>2.b. Demokrati og folkelighed</p>
+            <p>2.c. Pædagogik og folkeoplysning</p>
+            <p>3. Videnudveksling, undervisning og formidling</p>
+         </projectDesc>
+         <editorialDecl xml:id="comGuideLines.xml" n="1.0">Retningslinjer for punktkommentarer til Grundtvigs V&#x00E6;rker</editorialDecl>
+         <editorialDecl xml:id="introGuideLines.xml" n="1.0">Retningslinjer for indledninger til Grundtvigs V&#x00E6;rker</editorialDecl>
+         <editorialDecl xml:id="msGuideLines.xml" n="1.0">Retningslinjer for transskribering af manuskripter til Grundtvigs V&#x00E6;rker</editorialDecl>
+         <editorialDecl xml:id="refGuideLines.xml" n="1.0">Retningslinjer for litteraturhenvisninger til Grundtvigs V&#x00E6;rker</editorialDecl>
+         <editorialDecl xml:id="typoGuideLines.xml" n="1.0">Retningslinjer for gengivelse af typografiske hierarkier i Grundtvigs V&#x00E6;rker</editorialDecl>
+         <editorialDecl xml:id="txrGuideLines.xml" n="1.0">Retningslinjer for tekstredeg&#x00F8;relser til Grundtvigs V&#x00E6;rker</editorialDecl>
+         <editorialDecl xml:id="txtGuideLines.xml" n="1.0">Tekstkritiske retningslinjer for Grundtvigs V&#x00E6;rker</editorialDecl>
+         <editorialDecl xml:id="xmlGuideLines.xml" n="1.0">Retningslinjer for XML-m&#x00E6;rkning af Grundtvigs V&#x00E6;rker</editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change xml:id="KSR" who="KSR" when="2012-05-14">txt2tei</change>
+         <change xml:id="AP" who="AP" when="2013-02-08">1. kollation</change>
+         <change xml:id="MWP" who="MWP" when="2013-02-12">2. kollation</change>
+         <change xml:id="NHB" who="NHB" when="2013-02-10">gennemset rettelser, udfyldt mere af teiHeader. Videre til Maria</change>
+         <change who="MWP" when="2013-03-11">opmærket til registre</change>
+         <change xml:id="FDS" who="FDS" when="2013-03-14">Indsat seg-elementer.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <pb type="periText" facs="1810_136_fax001.jpg" ed="A" subtype="column" n="752" rend="supp"/>
+      <body>
+         <div type="[Tekst]">
+            <pb type="text" facs="1810_136_fax002.jpg" ed="A" subtype="column" n="758"/>
+            <head rend="1">Et Par Ord angaaende Revselsen i <rs key="title533" type="title">Politivennen</rs> No. 620.</head>
+            <p rend="noIndent">
+               <seg type="com" n="com1"><rs key="title564" type="title"><hi rend="initial">D</hi>ag<!-- AP: læderet type -->en</rs> og <rs type="title" key="title533">Politivennen</rs> ere to løierlige Karle</seg>, og udmærk<!-- AP: k er utydelig  -->e sig iblandt Andet ved, daglig at <seg type="com" n="com2">kagpidske</seg> Sproget og dog fortælle Folk, det er deres Kæledægge. <seg type="com" n="com3">Deres fælles Hr. Fader</seg> har jeg længe skyldt en Erklæring, og ved denne Leilighed skal han faae den. Hans Ros og Tak frabeder jeg mig herved eengang for alle; har han derimod stundom nogle gamle Ukvemsord tilovers, eller nogle ny, som han ønsker at se paa Prent, maa han gerne bruge dem til mig, men jeg siger ham forud, at de ere spildte.</p>
+            <p rend="firstIndent">Hvad nu <seg type="com" n="com4">hin Revselse</seg> angaaer, da seer Man let, at Uartigheden der er Hovedsagen, men dog vil jeg om de to Stavefeil kundgøre, at jeg i dem har saare liden Del. Jeg har intet Opsyn havt med Indgravningen, at <persName key="pe1079">Thostrups</persName> Navn skulde staa paa Stenen, vidste jeg ei engang da <!-- AP: da læderet--> jeg forfattede Indskriften, og jeg skrev <persName key="pe1082">Dallerup</persName>, fordi jeg ei veed r<!-- AP: r temmelig utydeligt -->ettere end at Navnet stavedes saa i <rs key="title99999" type="title"><!-- MWP: hvilken af årgangene? der er to -->Collegial-Tidenden</rs>. <seg type="com" n="com5">At det ene Navn har faaet det Bogstav det andet mangler, kan jeg ei gøre ved.</seg></p>
+            <p rend="firstIndentRight"><hi rend="spaced">Grundtvig.</hi></p>
+            <p rend="firstIndent"/>
+         </div>
+      </body>
+   </text>
+</TEI>

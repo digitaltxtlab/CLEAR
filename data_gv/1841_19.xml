@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Veiledning til Sand Gudsfrygt</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-23"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="019"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1841">1841</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1841_19_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Veiledning<lb/>til<lb/>Sand Gudsfrygt</titlePart>
+	<titlePart type="sub">ved<lb/>Dr. Ph. Doddridge.</titlePart>
+</docTitle>
+<byline>Oversat<lb/>af<lb/>
+	<docAuthor>H. G. Glahn,<lb/>Catechet ved Holmens Menighed.</docAuthor>
+				</byline>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace>Kjøbenhavn.</pubPlace>.<lb/>Trykt i S. L. Møllers Bogtrykkeri.<lb/>
+<fw type="graphic"/>
+<docDate>1841</docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<pb facs="1841_19_page0002.png"/>
+<fw type="pageNum"></fw>
+<head>Fortale.</head>
+<fw type="graphic"/>
+<p><hi rend="initial">E</hi>t Selskab i Ny-Yorck (A<hi rend="latine">merican Tract Society</hi>) havde tilbudt sig at bekoste en Dansk Oversættelse af nogle gudelige Bøger, og deriblandt denne af en <hi rend="spaced">Engelsk</hi> Forfatter, <hi rend="latine">Dr.</hi> <hi rend="spaced">Philip Doddridge</hi>, som, da den for hundrede Aar siden først kom ud, ikke blot oplevede mange Udgaver i Hjemmet, men blev ogsaa snart oversat baade paa <hi rend="spaced">Hollandsk, Tydsk</hi> og <hi rend="spaced">Fransk</hi>. Det varede heller ikke længe, for vi fik en Dansk Oversættelse, som udkom (1753) med særdeles Anbefaling af Mag. <hi rend="spaced">Hviid</hi>, daværende Holmens Provst i Kiøbenhavn; men skiøndt denne Oversættelse ingenlunde var slet for sin Tid, trængde den dog nu til Forbedring, og Hr. Catechet <hi rend="spaced">Glahn</hi> har, istedenfor at lappe paa den Gamle, udarbeidet en ganske ny, som herved anbefales Danske Læsere. Det var nemlig til den Engelske Charge d'Affaire, Hr. Peter <hi rend="spaced">Browne</hi>, det Americanske Selskab havde betroet dette Anliggende, og denne min ærede Ven ønskede, at jeg skulde have Tilsyn med Arbeidet, som jeg da ogsaa heeligjennem 
+<pb facs="1841_19_page0003.png"/>
+<fw type="pageNum"></fw>
+har havt, og tør give Hr. <hi rend="spaced">Glahns</hi> Oversættelse bet Vidnesbyrd, at den baade er gjort med Flid og hører til de faa gode Oversættelser af gudelige Bøger, vi har paa vort Sprog.</p>
+<p>Hvad nu Bogen i sig selv angaaer, da har Forfatteren vist nok ventet langt mere Frugt deraf, end nogen Bog kan yde, og vi <hi rend="spaced">Lutheraner</hi> maae desuden savne Endeel deri, især om <hi rend="spaced">Naademidlerne</hi>, som hører til Opbyggelse; men dog er den vist nok særdeles stikket til at vække den slumrende Tro og Gudsfrygt, hvor de i Grunden findes, og til at indskærpe den <hi rend="spaced">Alvorlighed</hi> og <hi rend="spaced">indvortes</hi> Renselse, som Kjød og Blod skyer, saa vi trænge alle til at mindes derom. Endelig vil vist alle christelige Læsere føle med mig, at der har været et Liv i den Gamles Tro paa vor Herre <hi rend="spaced">Jesus</hi>, og i hans himmelske Haab, som vi sjelden spore nuomstunder, og derfor desbedre maae skiønne paa. Stode vi hist og her paa Noget, vi ei saa ganske kan bifalde, da maae vi huske, at Opbyggelses-Bøger er ikke <hi rend="spaced">Troes-Artikler</hi>, og have altid Noget ved sig, der ene maa tilregnes Tiden og Stedet hvor de har hjemme.</p>
+<p><hi rend="spaced">Kiøbenhavn</hi>, 20de November,1841.</p>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

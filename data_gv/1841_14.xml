@@ -1,0 +1,791 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Bjovulfs Drape eller det Oldnordiske Heltedigt</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2009-12-07"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="014"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1841">1841</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1841_14_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main"></titlePart>
+	<titlePart type="sub"></titlePart>
+</docTitle>
+<byline><lb/>
+	<docAuthor></docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<docImprint>
+				<pubPlace></pubPlace>.
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<pb facs="1841_14_page0001.png"/>
+<fw type="pageNum"></fw>
+</div>
+<div>
+<head>Bjovulfs Drape eller det Oldnordiske Heltedigt.</head>
+<fw type="graphic"/>
+<p><hi rend="italic">De Danorum rebus gestis seculi III</hi>-<hi rend="italic">IV. </hi>Poema <hi rend="italic">Danicum </hi>dialecto Anglosaxonica. Edidit G. J. Thorkelin. Havniæ MDCCCXV.</p>
+<p><hi rend="italic">Bjowulfs Drape, </hi>et Gothisk Heltedigt fra forrige Aartusinde af Angelsaxisk paa Danske Rim ved N. F. S. Grundtvig. Kjøbenhavn 1820.</p>
+<p>The Anglosaxon poems of <hi rend="italic">Beowulf, </hi>the Travellers song and the battle of Finnesburgh, edited by J. Remble. London 1835.</p>
+<p>A Translation of the Anglosaxon poem of <hi rend="italic">Beowulf, </hi>by J. Kemble. London 1837.</p>
+<p><hi rend="italic">Beowulf, </hi>das älteste <hi rend="italic">deutsche </hi>in angelsächsischer Mundart erhaltene Heldengedicht, betrachtet von H. Leo. Halle 1839.</p>
+<p><hi rend="italic">Beowulf, </hi>Heldengedicht des achten Jahrhunderts, aus dem Angelsachsischen stabreimend übersetzt von L. Ettmuller, Zurich 1840.</p>
+<p>Disse Bogtitler vise, at det <hi rend="italic">Angelsachsiske Digt </hi>om Gothe-Helteii <hi rend="italic">Bjovulf, </hi>som slog Trolde i <hi rend="italic">Danmark </hi>og kiöbdesin sidste Seier, over <hi rend="italic">Gothlands </hi>Ilddrage, i dyre Domme for sit Liv, har været netop <hi rend="italic">femogtyve </hi>Aar om at giöre Reisen fra <hi rend="italic">Kiöbenhavn </hi>over <hi rend="italic">London </hi>til <hi rend="italic">Zurich, </hi>og det maa vel kaldes en Evighed i vore Dage, da man slet ikke kan nöies med at kiöre en Mil i Timen, men det maa vel komme af, at paa sine gamle Dage nødes man til at fare i Mag, saa selv en tusindaarig Helt havde dog maaske ikke heller i kortere Tid 
+<pb facs="1841_14_page0002.png"/>
+<fw type="pageNum">482</fw>
+kunnet tilbagelægge Veien. At derimod selv femogtyve Aar har været for kort et Tidsrum til at giöre <hi rend="italic">Bjovulfs-Drapen </hi>bekiendt i <hi rend="italic">Danmark, </hi>for ei at tale om hele <hi rend="italic">Norden, </hi>det er en Kiendsgierning, der neppe lader sig forklare af Digters Ælde, og endnu langt mindre af dets övrige Beskaffenhed, men kun af vor gode <hi rend="italic">"Romerske Smag " </hi>der virkelig synes at skulle vare til Dommedag. Et meer end tusindaarigt Heltedigt, i en nærbeslægtet Mundart, som ikke blot spiller i Norden, og spiller paa Dets berömté Konge og Helteslægter: <hi rend="italic">Skioldunger, Skilfinger, Ylfinger </hi>og <hi rend="italic">Volsunger, </hi>men dreier sig for en stor Deel om en af<hi rend="italic"> Danmarks </hi>underfulde Redninger paa Undergangens Hand, og skildrer det Nordiske Liv i fordum Tid med levende, deilige Farver, et saadant Oldkvad maatte jo aabenbar, hvor det gik <hi rend="italic">naturligt </hi>til, strax tiltrække sig alle Nordiske og da især Danske <hi rend="italic">Lærdes </hi>Opmærksomhed, <hi rend="italic">og, </hi>saasnart det blev læseligt paa Modersmaalet, findes i alle Huse og blive Læsebog for alle Börn, ja, blive før Norden, efter fattig Leilighed, hvad <hi rend="italic">Iliaden </hi>og <hi rend="italic">Odysseen var </hi>for <hi rend="italic">Grækerne, </hi>saa Ligegyldigheden ved saadant et <hi rend="italic">Dannefee </hi>er ret et soleklart Vidnesbyrd om, hvor rædsom <hi rend="italic">unaturlige </hi>vi er blevne ved at sætte <hi rend="italic">Latinen </hi>over <hi rend="italic">Modersmaalet. *)</hi></p>
+<p>*) Da jeg seer, man endnu paabyrder mig det Galskab at ville, om jeg kunde, uddrive alle <hi rend="italic">fremmede </hi>Sprog af Skolen, maa jeg eriridre om, at jog har oversat <hi rend="italic">Saxo </hi>fra <hi rend="italic">Latin, Snorro </hi>fra <hi rend="italic">Islandsk </hi>og <hi rend="italic">Bjovulfs </hi>Drape fra <hi rend="italic">Angelsachsisk, </hi>og endelig skrevet en Haandbog i <hi rend="italic">Verdens-Historien, </hi>der var umulig uden Kundskab til fremmede Sprog, og maa derfor meget beklage dem af mine Landsmænd, der endnu ikke kan forstaae, at min Iver for at Alt i Danmark skal læres <hi rend="italic">paa Dansk, </hi>og <hi rend="italic">Dansk </hi>fölgelig altid læres <hi rend="italic">först. </hi>er himmel-</p>
+<pb facs="1841_14_page0003.png"/>
+<fw type="pageNum">483</fw>
+<p>Dog, det nytter aldrig at skiænde paa Folk, ford de ikke gider læst en god Bog eller har en slet Smag, medens det maaske dog nu, da man i <hi rend="italic">England </hi>og <hi rend="italic">Tydskland </hi>er bleven opmærksom paa Digter om <hi rend="italic">Bjovulf, </hi>kan nytte, at giöre Nordiske og især Danske Læsere opmærksomme paa, at dette berömte Heltedigt i alle Maader ligger dem langt nærmere end nogen Anden, da det baade bar <hi rend="italic">nordisk </hi>Udspring og har alt i <hi rend="italic">tyve </hi>Aar været tilgængeligt i en <hi rend="italic">Dansk </hi>Oversættelse, der vel, som Alt under Solen, bar sine Feil og Mangler, men lader sig dog med Lethed baade læse og forstaae, hvad hverken er Tilfældet med den Engelske i skiodeslos eller den Tydske i stavbundet Stil.</p>
+<p>Digters <hi rend="italic">Historie, Indhold </hi>og <hi rend="italic">Værd, </hi>som baade den <hi rend="italic">Engelske </hi>og <hi rend="italic">Tydske </hi>Oversætter er löbet over med en Harefod, og som selv <hi rend="italic">Leo </hi>kun tildeels bar fremstillet, vil jeg da ber anbefale til Nordiske Læseres Opmærksomhed. Vel bar jeg allerede tre Gange prövet paa det Samme,*) og alle gode Ting, siger man, er tre, men derfor er dog ikke alle Trillinger gode, og det er o nu desuden over <hi rend="italic">tyve </hi>Aar, siden jeg sidst med Flid yttrede mig om <hi rend="italic">Bjovulfs Drape, </hi>saa, skiondt de <hi rend="italic">Fremmede </hi>ikke er löbet fra mig, uden hvor de bar forlöbet sig, maa jeg dog vel selv i al den Tid være kommet lidt videre baade ved at understige Grundskriftet i <hi rend="italic">London </hi>og ved at bruge Fordanskningen <hi rend="italic">herhiemme.</hi></p>
+<p>vidt forskiellig fra den Dumhed at <hi rend="italic">indskrænke </hi>al Lærdom <hi rend="italic">til </hi>Dansk.</p>
+<p>*) 1815 (i Kiöbenhavns Skilderi Nr. 60-66. 70-72), 1817 (i Dannevirke B. II. S. 267-89) og 1820 (i Indledningen til min Oversættelse).</p>
+<pb facs="1841_14_page0004.png"/>
+<fw type="pageNum">484</fw>
+<p>Da det nu gaaer mig med Böger ligesom med Mennesker, at hvad jeg spörger forst om, er <hi rend="italic">hvad Indhold </hi>de har og hvad de duer til, og kun, naar jeg finder det Umagen værd, lægger mig paa Kundskab om deres Herkomst, Alder og særdeles Omstændigheder, saa vil jeg ogsaa her tage först hvad selv <hi rend="italic">Leo </hi>deels tager sidst og deels forbigaaer, nemlig Digters <hi rend="italic">Indhold </hi>og <hi rend="italic">Færd.</hi></p>
+<p>Hoved-Indholden, seer man strax, er Gothe-Helten <hi rend="italic">Bjovulfs </hi>Bedrifter, thi om ham dreier sig det Hele, og man söger forgiæves nogen anden Eenhed end den, hans Levnets-Lob udtrykker, hvorfor jeg endnu bestandig mener, at <hi rend="italic">Bjovulfs-Drape </hi>er paa Nordisk Helte-Digters eneste rette Navn. Hans Bedrift er imidlertid ogsaa stor nok til at vække hele <hi rend="italic">Nordens </hi>Deeltagelse, thi sit <hi rend="italic">Gothiske </hi>Fædreneland forsvarer han ikke blot tappert mod <hi rend="italic">Svenskerne </hi>og ærer det paa udenlandske Tog, men befrier det fra <hi rend="italic">Uddragen Stærkhjort, </hi>som ellers ei vilde sparet noget levende Öie, og et andet nordisk Land, <hi rend="italic">Danmark, </hi>befrier han ligeledes fra en hardtad ligesaa frygtelig Lande-Plage, i det han dræber <hi rend="italic">Trolden Grændel </hi>og hans Moder, som spöge slemt paa Slottet i Kong Hrodgars (Roes) Tid. Vist nok er hegge disse Helte-Gierninger saa æventyrlige, at Nordboen vist ikke engang i Hedenskabets Dage fristedes til at tage dem efter <hi rend="italic">Bogstaven </hi>som Manddoms-Id, men <hi rend="italic">Odysseen </hi>er i Hoved-Bedriften ikke mindre æventyrlig, og desuagtet stod <hi rend="italic">Odysseus </hi>visselig ikke for Grækerne som en Afgud, men som Kiöd af deres Kiöd og Been af deres Been, saa det er et stort Misgreb, naar <hi rend="italic">Kemble, </hi>og <hi rend="italic">Tydskerne </hi>med ham, paa Grund af det Æventyrlige vil giöre <hi rend="italic">Bjovulf </hi>til en nordisk Afgud, skiondt man 
+<pb facs="1841_14_page0005.png"/>
+<fw type="pageNum">485</fw>
+umulig paa noget Pergament kunde afskildre en Nordisk <hi rend="italic">Kæmpe </hi>med mere naturlige Træk og levende Farver end <hi rend="italic">Bjovulf </hi>er skildret i sin Drape. Saaledes möde vi ham strax paa den <hi rend="italic">danske </hi>Grund, som han hetræder for at brydes med Trolden, og svarer Kystvagten, som kræver ham til Regnskab:</p>
+<lg>
+<l><hi rend="italic">Gother </hi>vi, med gode Kaar,</l>
+<l>Kæmper monne være,</l>
+<l>Tjenende i Kongens Gaard</l>
+<l><hi rend="italic">Higelak </hi>med Ære,</l>
+<l>Jeg mig ved min Byrd og Stand</l>
+<l>Skammer ingenlunde,</l>
+<l>Thi min Fader trindt om Land</l>
+<l>Var i Folkemunde;</l>
+<l>Gubben nu er sovet hen,</l>
+<l>Gik til bedre Egne,</l>
+<l>End dog mindes vise Mænd</l>
+<l><hi rend="italic">Egthjov </hi>allevegne.</l>
+</lg>
+<lg>
+<l>Over Hav med Venne-Hu</l>
+<l>Kom vi for det Bedste,</l>
+<l>Agte derfor ogsaa nu</l>
+<l><hi rend="italic">Halvdans </hi>Son at giæste;</l>
+<l>Modent Ærinde vi har,</l>
+<l>Det er ei at dölge,</l>
+<l>Hvis ei Tant for Sandt os bar</l>
+<l>Rygtet over Bölge.</l>
+<l>Siig os derfor, Skjoldung-Vagt!</l>
+<l>Hvad du vel maa vide:</l>
+<l>Er det sandt hvad os er sagt</l>
+<l>Om din Herres Kvide,</l>
+<l>At til hans og Daners Kval,</l>
+<l>I de sorte Nætter,</l>
+<l>Raser i hans Konge-Sal</l>
+<l>En af Mörkets Vætter,</l>
+</lg> 
+<pb facs="1841_14_page0006.png"/>
+<fw type="pageNum">486</fw>
+<lg>
+<l>Er Drabanterne for stærk,</l>
+<l>Tager Folk af Dage,</l>
+<l>Över Vold og Nidingsværk</l>
+<l>Uden Maal og Mage?</l>
+<l>Er det saa, da vil og kan</l>
+<l><hi rend="italic">Halvdans </hi>Son jeg lære,</l>
+<l>Som Uhyrets Overmand,</l>
+<l>Seier at hjembære ;</l>
+<l>Ja, er Muelighed deri,</l>
+<l>Jeg det saa kan mage,</l>
+<l>Brat det være skal forbi</l>
+<l>Med den Lande-Plage;</l>
+<l>Og kan ikke ved min Daad</l>
+<l>Han sin Harm forvinde,</l>
+<l>Sige tor jeg, intet Raad</l>
+<l>Er mod den at finde,</l>
+<l>Men saalænge Skjoldung-Borg</l>
+<l>Skinner over Tue,</l>
+<l>Dannemænd med Hjertesorg</l>
+<l>Pines maae og grue. *)</l>
+</lg>
+<p>Siden, da han har brudtes med <hi rend="italic">Grændel, </hi>saa baade Arm og Skulderblad gik Hobet, men Troldens Moder næste Nat bar bævnet sig paa <hi rend="italic">Hrodgars </hi>Ven, den gamle <hi rend="italic">Esger, </hi>bore vi Kæmpen sætte Mod i Kongen saaledes:</p>
+<lg>
+<l>Sorg ei, min Drot, saa saaret</l>
+<l>For Venner ei skal vise Mænd</l>
+<l>Udöse mangen Taare,</l>
+<l>Men svinge Sværd</l>
+<l>I Herre Færd,</l>
+<l>Til Hevn og Hæders-Minde.</l>
+</lg>
+<p>*) See fjerde Sang i den <hi rend="italic">Danske </hi>Bjovulfs Drape.</p>
+<pb facs="1841_14_page0007.png"/>
+<fw type="pageNum">487</fw>
+<lg>
+<l>Det er saa dömt i Norners Raad,</l>
+<l>At Döden skal vi lide,</l>
+<l>Thi stræbe hver med ærlig Daad</l>
+<l>At vinde Pris itide!</l>
+<l>Kun Hvile sod</l>
+<l>Har Gravens Skiöd</l>
+<l>For Stöv fra Ære-Sengen.</l>
+</lg>
+<lg>
+<l>Sid op, o Drot! lad Fiende-Spor</l>
+<l>Med Flid os brat forfölge!</l>
+<l>Og troe mig paa mit Æres-Ord,</l>
+<l>Ei skal i bundlos Bölge,</l>
+<l>I Jordens Skiöd,</l>
+<l>I Skov som Glöd,</l>
+<l>Uvætten mig undslippe.</l>
+</lg>
+<lg>
+<l>Nei, i den vide Verden ei</l>
+<l>Den skal et Smuthul finde,</l>
+<l>Hvortil jeg mig jo baner Vei</l>
+<l>For ærlig Pris at vindej</l>
+<l>Bær, som en Mand,</l>
+<l>Jeg veed du kan,</l>
+<l>Da kun i Dag end Sorgen. o)</l>
+</lg>
+<p>Lytte vi endelig til Heltens sidste Ord, da han Lavde kronet sine Bedrifter med Selv-Opoffrelse i Drage-Kampen, og tog Afsked med sin Alderdoms-Stötte, <hi rend="italic">Vinlav, </hi>der viste ham Pröver af Guld-Dyngen, hvorpaa Dragen havde ruget, da hore vi:</p>
+<lg>
+<l>Gud skee Lov!<hi rend="italic"> </hi>den Herre blid</l>
+<l>Over Stjerne-Buer,</l>
+<l>Ærens Drot til evig Tid,</l>
+<l>For hvad her jeg skuer,</l>
+</lg>
+<p>*) See <hi rend="italic">ellevte </hi>Sang i den danske Bjovulfs-Drape;</p>
+<pb facs="1841_14_page0008.png"/>
+<fw type="pageNum">488</fw>
+<lg>
+<l>For de Skatte, som mit Folk</l>
+<l>For min Död jeg med min Dolk</l>
+<l>Mægted at forhverve !</l>
+<l>Prisen dog paa Guldet vist</l>
+<l>Kalder ei jeg ringe,</l>
+<l>Öiets Lys og Livets Lyst</l>
+<l>Maatte for det springe.</l>
+<l>I, som skifte skal min Arv,</l>
+<l>Sorger vel for Landets Tarv!</l>
+<l>Mig det maa nu miste!</l>
+<l>Brat jeg Aske har for Been,</l>
+<l>Da, o Venner giæve!</l>
+<l>Kæmpehöi med Bautasteen</l>
+<l>Over den sig hæve!</l>
+<l>Staae den skal paa <hi rend="italic">Honeklint,</hi></l>
+<l>Hvor mod Landet Bølgen trindt</l>
+<l>Bruser ind fra Dybet;</l>
+<l>Kneise skal min Höi ved Hav,</l>
+<l>Falde flux i Öie,</l>
+<l>Under Navn af <hi rend="italic">Bjovulf s Grav,</hi></l>
+<l>Dem, som Bølgen plöie,</l>
+<l>Staae for dem til Seile-Tegn,</l>
+<l>For mit Folk <hi rend="italic">til </hi>Mindes-Hegn,</l>
+<l>Synlig i det Fjerne.</l>
+</lg>
+<lg>
+<l>Af sin Hals nu <hi rend="italic">Gother s </hi>Ven</l>
+<l>Löste Gylden-Smykket,</l>
+<l>Gav den fuldtro Ungersvend</l>
+<l>Kiærlig Mester-Stykket,</l>
+<l>Brynje-Særk og Finger-Ring,</l>
+<l>Hjelm af Guld det klare,</l>
+<l>Sagde: brug de gode Ting,</l>
+<l>Som du tor forsvare!</l>
+<l>Af <hi rend="italic">Vægmundinger </hi>endnu</l>
+<l>Een er dog tilbage,</l>
+<l>Stammens sidste Skud er du,</l>
+<l>Arven du modtage!</l>
+</lg> 
+<pb facs="1841_14_page0009.png"/>
+<fw type="pageNum">489</fw>
+<lg>
+<l>Ja, saanær min hele Æt</l>
+<l>Sank i Tidens Bølger;</l>
+<l>Modig nu, min Ven, og træt,</l>
+<l>Frænderne jeg fölger.</l>
+</lg>
+<lg>
+<l>Det var <hi rend="italic">Gothens </hi>sidste Ord,</l>
+<l>For til Baal han blegned,</l>
+<l>Hjertet brast og stiv til Jord</l>
+<l><hi rend="italic">Gothe-Keempen </hi>segned;</l>
+<l>Legemet i Klippely</l>
+<l>Luen vented rolig,</l>
+<l>Sjælen sögde over Sky</l>
+<l>Ærens faste Bolig.*)</l>
+</lg>
+<p>Alt dette, seer man let, er saa kæmpemenneskeligt, saa <hi rend="italic">Nordisk </hi>og <hi rend="italic">Gothisk </hi>som mueligt, og giör da alligevel <hi rend="italic">Bjovulfs </hi>Hoved-Bedrifter ham paa en Maade til en <hi rend="italic">mythisk </hi>Person, maa det nödvendig være til en Saadan, som <hi rend="italic">Odysseus </hi>og alle Heltene for <hi rend="italic">Troja, </hi>eller som <hi rend="italic">Sigurd Fofners-Bane </hi>og <hi rend="italic">Stærkodder, </hi>en Folke-Helt altsaa, der i sit æventyrlige Levnetslöb skal udtrykke hele sin Folke-Stammes historiske Bedrift og Heltegierning. Vore Lærde er vel endnu sædvanlig altfor indskrænkede til at fatte saadanne <hi rend="italic">Asamænd </hi>eller <hi rend="italic">Halvguder, </hi>hvori særdeles Nordens Kæmpe-Stammer helst gad speile sig, men kan ikke engang vi poetiske Sildefödninger læmpe os efter de Lærdes Fatteevne, da kunde de gamle Skjalde, der neppe drömde om saadanne Rune-Ristere, det endnu langt mindre, og saavel paa deres, som paa egne Vegne maae vi da hede "Ile</p>
+<p>*) See <hi rend="italic">nittende </hi>Sang i den danske Bjovulfs-Drape.</p>
+<pb facs="1841_14_page0010.png"/>
+<fw type="pageNum">490</fw>
+<p>Lærde Dödbidere, som vil <hi rend="italic">befatte </hi>sig med Bjovuss-Drape, at holde sig til <hi rend="italic">det Gramatikalske </hi>og <hi rend="italic">Kronologiske, </hi>som vi kan alle gnave paa, men smukt holde sig fra det <hi rend="italic">Mythiske </hi>og <hi rend="italic">Poetiske, </hi>som de hverken kan oplöse, fatte eller samle! For Nordiske Læsere derimod, som godt kan föle, der "ligger meget meer i Blodet" end <hi rend="italic">Iglerne </hi>veed, vil en saadan <hi rend="italic">Stamme-Fuldmægtig </hi>slet ikke synes urimelig, og heller ikke dunste bort i Luften, da Skjaldene, som havde Kæmper Nok at vælge imellem, vist heller tog En af de Ypperste til poetisk <hi rend="italic">Mærkes-Mand, </hi>end de greb efter en saadan i Luften. Uagtet jeg derfor seer det samme Nordiske Kæmpe-Folks Storværk speile sig i <hi rend="italic">Bjovulf </hi>som i <hi rend="italic">Stærkodder </hi>og <hi rend="italic">Sigurd Fofnersbane, </hi>vil jeg dog ligesaalidt oplöse de To af dem, som dem alle Tre, i Luft, da Prokustes-Sengen med sin dræbende Ensformighed ligesaa lidt huer mig i Poesien og Mythologien, som i Politiken og Studentmageriet, og hugede vist aldrig nogen Skjald, der drak af den rette Tönde. Ligesom derfor de <hi rend="italic">Danske </hi>vist har havt deres gode historiske Grunde til at kalde <hi rend="italic">Mærkes-Manden Stærkodder</hi>, og Andre deres til at kalde ham <hi rend="italic">Sigurd </hi>eller <hi rend="italic">Sigfred, </hi>saaledes havde de <hi rend="italic">Angelsaxiske </hi>Skjalde vist ogsaa deres gyldige Grunde til at kalde ham <hi rend="italic">Bjovulf, </hi>og derfor er disse tre <hi rend="italic">Gothiske Mærkes-Mænd, </hi>trods al deres Grundighed, dog ikke blot poetisk men ogsaa historisk nemme at skille ad. Grundligheden mellem <hi rend="italic">Sigurd, Stærkodder </hi>og <hi rend="italic">Bjovulf </hi>er nemlig den, at de alle Tre er <hi rend="italic">Gothe-Folkets </hi>æventyrlige Mærkes-Mænd, og ligesom <hi rend="italic">Bjovulf </hi>har <hi rend="italic">Danmarks </hi>Redning tilfælles med <hi rend="italic">Stærkodder, </hi>saaledes har han <hi rend="italic">Gulddrage-Jagten </hi>tilfælles med <hi rend="italic">Sigurd </hi>eller (efter Bjovulfs-Drapen) med hans Fader, <hi rend="italic">Sigmund</hi> 
+<pb facs="1841_14_page0011.png"/>
+<fw type="pageNum">491</fw>
+<hi rend="italic">Volsung, </hi>men dog har de aabenbar <hi rend="italic">poetisk hver </hi>sit eget Ansigt, fordi den stive Ensformighed er alle Skjalde at". Naturen ligesaa forhadt, som den er Grammatikerne dyrebar. <hi rend="italic">Sigurd </hi>er saaledes især kiendelig paa sine <hi rend="italic">Elskovs-Æventyr</hi>, som indvikle hans Skæbne og berede hans Undergang, saa, skiondt han ogsaa har et dunkelt Forhold til <hi rend="italic">Danmark, </hi>hvor han er opfostret og hans <hi rend="italic">Gudrun </hi>finder sit <hi rend="italic">Enkesæde</hi>, saa svarer hans æventyrlige Bedrift dog kun til <hi rend="italic">de udvandrede </hi>Gothers Historiske, da de fældte den store <hi rend="italic">Romerske </hi>Drage, der rugede over al Verdens Skatte, men skiftede saa Kiærlighed som <hi rend="italic">Modersmaal </hi>og fik en sorgelig Undergang. <hi rend="italic">Stærkodder </hi>derimod er kiendelig saavel paa sin Grovhed som paa sin Penge-Gierrighed, og skiöndt de forvovne Hjarne-Skjalde, ved at skiænke ham hele <hi rend="italic">trehundrede </hi>Aar (omtrent fra 450 til 750) og fore ham. ligesaavist omkring, som <hi rend="italic">Gother </hi>gik paa Tog, virkelig har stræbt at sammenpakke hele deres Bedrift baade ude og hjemme i hans Drape, saa har dog i det mindste En af dem fölt, det var for grovt, og har derfor ladt <hi rend="italic">Thor </hi>rykke <hi rend="italic">to Par </hi>Arme af det poetiske Uhyre, saa han kunde komme til at see ud som et andet Menneske, hvad jo paa vort Maal <hi rend="italic">(i Billedsproget) </hi>vil sige saa meget som at <hi rend="italic">Stærkodder </hi>har i Grunden ikke med de <hi rend="italic">Ost- </hi>og <hi rend="italic">Vest-Gother </hi>at bestille, som reiste udenlands paa deres <hi rend="italic">egen </hi>Haand, men kun med Gotherne som <hi rend="italic">Leie-Kæmper </hi>i Kongelig <hi rend="italic">Dansk </hi>og <hi rend="italic">Svensk </hi>Tjeneste, og dette <hi rend="italic">tvetydige </hi>Forhold, der fik en daarlig Ende, er egenlig det Eneste, der <hi rend="italic">æventyrlig </hi>udtrykkes i Stærkodder-Sagnet ved det <hi rend="italic">Guld, </hi>hvorfor Kæmpen sælger sin Ære og kiöber sin Död. Endelig er <hi rend="italic">Bjovulf </hi>kiendelig nok ei blot ved i sig at samle begge de Andrea 
+<pb facs="1841_14_page0012.png"/>
+<fw type="pageNum">492</fw>
+Storværk: <hi rend="italic">Danmarks Redning </hi>og <hi rend="italic">Dragens Ødelæggelse, </hi>©g dertil föie hvad de fattes, sit eget <hi rend="italic">Fædrelands </hi>kraftige <hi rend="italic">Forsvar, </hi>men ogsaa ved sin hardtad overmenneskelige Höimodighed, lydeslöse Reenhed og sit <hi rend="italic">eremitlige </hi>Forhold til det smukke Kiön, hvoraf det Förste rober Skialdens poetiske Overlegenhed, og det Andet saavel hans vitterlige <hi rend="italic">Konst </hi>som hans <hi rend="italic">Engelske </hi>Byrd.</p>
+<p>Naar jeg nu sagde, at disse tre <hi rend="italic">Gothiske </hi>Mærkes-Mænd ikke blot <hi rend="italic">poetisk, </hi>men ogsaa <hi rend="italic">historisk </hi>var nemme at skille ad, da meende jeg vist nok blandt Andet, at baade henviser den poetiske Forskellighed paa Skjalde af forskiellige Stammer, saa <hi rend="italic">Volsungen </hi>er oprindelig skildret blandt de <hi rend="italic">udvandrede </hi>Gother, <hi rend="italic">Storværks </hi>Son blandt de <hi rend="italic">Danske, Svenske </hi>og <hi rend="italic">Gothiske </hi>Stammer i <hi rend="italic">Hjemmet, </hi>og <hi rend="italic">Vægmundingen </hi>blandt de <hi rend="italic">Angelsaxiske </hi>Vikinger; men jeg meende, som sagt, tillige, at de alle Tre har været berömte <hi rend="italic">Gothiske Kæmper, </hi>som stak Skjaldene i Öie, og det er i denne Henseende mærkeligt, at vi i Bjovulfs-Drapen finde <hi rend="italic">Volsungen </hi>sammenlignet med <hi rend="italic">Vægmundingen. </hi>Denne Mærkes-Mændenes <hi rend="italic">historiske </hi>Personlighed giver sig for Resten tilkiende i <hi rend="italic">deres Hierte-Forhold </hi>og den deraf udspringende hver især eiendommelige Bedrift, altsaa i <hi rend="italic">Sigurds </hi>Blodhævn over sin Faders Banemand og i hans Forhold til <hi rend="italic">Brynhild </hi>og <hi rend="italic">Gudrun, </hi>som til <hi rend="italic">Hunner </hi>og <hi rend="italic">Burgunder, </hi>i <hi rend="italic">Stærkodders </hi>Troskab mod den Danske Kong <hi rend="italic">Frode </hi>selv længe efter hans Död, og i <hi rend="italic">Bjovulfs </hi>Forhold til den <hi rend="italic">Gothiske </hi>Kong <hi rend="italic">Higelak </hi>og Son <hi rend="italic">Hardred. </hi>Det Sidste kan vel ved förste Öiekast synes tvivlsomt, fordi vi ikke har en saadan Sagn-Kreds om <hi rend="italic">Bjovulf, </hi>som om <hi rend="italic">Sigurd </hi>og <hi rend="italic">Stærkodder, </hi>ja kiende egenlig slet intet enten til ham eller <hi rend="italic">Hrædlingerne </hi>uden af 
+<pb facs="1841_14_page0013.png"/>
+<fw type="pageNum">493</fw>
+<hi rend="italic">Drapen, </hi>hvis Hoved-Indhold er saa æventyrlig og hvis Kunstighed er saa iöinefaldende, at man let kan fatte Mistanke til den historiske Side, der kun i Forbigaaende stiller sig tilskue, men at Mistanken er aldeles ugrundet, kan man ved at samle de historiske Brudstykker, snart opdage, og Lykken har villet, at Bjovulfs-Drapen ei blot skulde giöre Epoke i Nordens <hi rend="italic">Poesi, </hi>men ogsaa i vor R<hi rend="italic">igs-Historie. </hi>Saasnart vi nemlig samle de temmelig ubehændig indskudte historiske Billinger, da faae vi en <hi rend="italic">Gothisk </hi>Kongerække af <hi rend="italic">Hrædel, Hædkyn Higelak, Hardred, Bjovulf </hi>og <hi rend="italic">Viglaf, </hi>og da der paa samme Tid nævnes en <hi rend="italic">Other </hi>og <hi rend="italic">Adgils </hi>i <hi rend="italic">Sverrig </hi>og <hi rend="italic">Halvdan, Helge, Rodgar </hi>og <hi rend="italic">Rodulf </hi>i Danmark, saa maae vi slutte, at de samtidige Gothe-Kongers Navne kun hidtil var os fremmede, fordi vi ikke har <hi rend="italic">Gothernes </hi>Sagn optegnede af dem selv, medens dog <hi rend="italic">Navnet </hi>"Higelak" i sin islandske Form "Hugleikr" alt pipper frem paa <hi rend="italic">Sverrigs </hi>Throne i <hi rend="italic">Stærkodder-Tiden. </hi>*) Desuden finde vi en Friser-Hövding <hi rend="italic">Hengest </hi>indfort i den danske Kong <hi rend="italic">Halvdans </hi>Tid, der bliver Menneske-Alderen foran den Gothiske Kong <hi rend="italic">Hrædels, </hi>og hos en <hi rend="italic">Angelsachsisk </hi>Skjald maae vi derved nödvendig forstaae den Angelsachsiske Helt af dette Navn, hvorved vi da fores til Midten af det <hi rend="italic">femte </hi>Aarhundrede som <hi rend="italic">Halvdans </hi>Levetid, og maae fölgelig sætte <hi rend="italic">Hrædels </hi>og <hi rend="italic">Higelaks, </hi>saavelsom <hi rend="italic">Hrodgars </hi>derefter. Allerede dette er en historisk Vinding, især for <hi rend="italic">Rolv Krages </hi>Skyld, som vi nu frostig kan give Plads i Begyndelsen af det <hi rend="italic">Sjette </hi>Aarhundrede, men Bjovulfs-Drape giver endnu Anledning til en langt större og sikkrere Oplysning ved at</p>
+<p>*) See Yngling-Sagn i Heimskringle.</p>
+<pb facs="1841_14_page0014.png"/>
+<fw type="pageNum">494</fw>
+<p>sige os, Kong <hi rend="italic">Higelak </hi>faldt paa <hi rend="italic">Frislands </hi>Kyst i et Slag mod <hi rend="italic">Franker </hi>og Frisiske <hi rend="italic">Hetvarer*); </hi>thi naar vi ny læse hos <hi rend="italic">Gregor </hi>af <hi rend="italic">Tours </hi>og i andre <hi rend="italic">Frankiske </hi>Annaler, som vi sikkert veed, var ikke i Ledtog med Nordens Skjalde, at r Begyndelsen af det <hi rend="italic">sjette </hi>Aarhundrede (omt. 515) faldt en <hi rend="italic">Dansk </hi>Konge paa <hi rend="italic">Frislands </hi>Kyst efterat have plyndret <hi rend="italic">Atvarernes </hi>Byer, og <hi rend="italic">faldt </hi>for den <hi rend="italic">Frankiske </hi>Prinds <hi rend="italic">Theudbert, </hi>da sluttede vi med Hefte, det var Kong <hi rend="italic">Higelak, </hi>om det end ikke i det forkvaklede Navn "hilaicus" var saa kiendeligt som det er. **) Nu troe vi altsaa, at <hi rend="italic">Rolv Krage, </hi>med hvem den <hi rend="italic">egenlige Skjoldung-Tid </hi>slutter, levede i Begyndelsen af, det <hi rend="italic">sjette </hi>Aarhundrede, blot ikke længer, fordi han skal komme efter Roe, i hvis Fader Kong <hi rend="italic">Halvdans </hi>Tid, den <hi rend="italic">Hengest </hi>skal have levet, som <hi rend="italic">Beda </hi>skriver kom til England midt i det <hi rend="italic">Femte </hi>Aarhundrede; men nu har vi Sort paa Hvidt fra det <hi rend="italic">Sjette </hi>Aarhundrede for, at Kong <hi rend="italic">Higelak </hi>levede og döde i <hi rend="italic">samme </hi>Aarhundredes Begyndelse, og derved fastsættes <hi rend="italic">ikke </hi>blot <hi rend="italic">Rolvs </hi>Levetid, hvem <hi rend="italic">Bjovulf </hi>alt fandt voxen hos <hi rend="italic">Hrodgar,</hi></p>
+<p>*) Hos <hi rend="italic">Kemble </hi>S. 86. 166-68. 206. og <hi rend="italic">Leo </hi>har alt bemærket, at der i Vidsids-Maal skal læses "Hun Hætwerum."</p>
+<p>**) Disse Efterretninger findes hos Bouquet T. II. p. 187 og 555, og vel seer jeg af <hi rend="italic">Dahlmanns </hi>Danmarks Historie (B. I. S. 17), at han endnu drager Sammenhængen i Tvivl, men det er i mine Öme allerede meget, at han ikke tor <hi rend="italic">nægte </hi>den, og jeg beraaber mig saameget heller paa <hi rend="italic">Kembles, Leos og Ettmiillers </hi>Bifald, som de slet ikke beraabe sig paa mit <hi rend="italic">og </hi>maa følgelig giælde for upartiske. For Resten er "mere wioingas" paa det fortvivlede Sted (hos Ke<hi rend="italic">mble </hi>S. 206 og hos <hi rend="italic">Thorkelin </hi>S. 216) sagtens hverken meer eller mindre end <hi rend="italic">"Merovingerne</hi>," hvortil vi veed Prinds <hi rend="italic">Theudbert hö</hi>rde, <hi rend="italic">og </hi>det giör Sagen complet.</p>
+<pb facs="1841_14_page0015.png"/>
+<fw type="pageNum">495</fw>
+<p>men vi faae tillige derved langt större Sikkerhed end <hi rend="italic">Beda </hi>kunde give os for, at det var véd Midten af det <hi rend="italic">femte </hi>Aarhundrede <hi rend="italic">Hengest </hi>gik paa Tog. Hvilken uberegnelig Vinding en saa umistænkelig Stadfæstelse og et eneste saadant fast Punkt i vore Oldsagn er vil Efterslægten vel först ret indsee og paaskiönne, men, har vi Öine, kan vi dog alt see det, og skiöndt det er urimeligt, at den <hi rend="italic">Angelsaxer </hi>dog ikke med et Par Ord har fulgt <hi rend="italic">tiene/est </hi>til <hi rend="italic">England) </hi>saa er den Engelske Urimelighed dog ogsaa i sin Orden, og istedetfor til ingen Nytte at klamres med den gamle Skaberling (scop) derom, bör vi takke ham for, at <hi rend="italic">Hengest </hi>dog nu ogsaa har faaet sit eget Ansigt, som en <hi rend="italic">Friser-Hövding </hi>i Forbund med den <hi rend="italic">Danske </hi>Konge. Det Tog han tilligemed de <hi rend="italic">Danske </hi>under <hi rend="italic">Hnæfs </hi>Ånförsel gjorde mod en Kong <hi rend="italic">Finn Folkvalds </hi>Son, har vi vel ikke rigtig godt af, fordi den Episode i Drapen har faaet Skam, men Noget om saadan en verdenshistorisk Person er dog bedre end Intet, og ved Hjelp af den Billing, der fandtes i en gammel Præken-Bog, om Slaget ved <hi rend="italic">Finsborgy </hi>kan vi dog finde ud, at <hi rend="italic">Finn </hi>gik paa Ræveklöer og overlod <hi rend="italic">Hnæf </hi>og <hi rend="italic">Hengest </hi>Hælvden af sit Rige, men overfaldt dem saa lumskelig ved Nattetid, saa <hi rend="italic">Hnæf </hi>og mange andre brave Kæmper faldt, men <hi rend="italic">Hengest </hi>slap dog hjem til sit <hi rend="italic">Frisland </hi>og -hevnede Skade næste Aar, saa det sved til <hi rend="italic">Finn.*)</hi></p>
+<p>*) Ovennævnte Brudstykke, hvoraf Haandskriftet er forkommet, findes trykt hos Hickes i hans Thesaurus I. 192. og derfra optrykt i Indledningen til den <hi rend="italic">Danske </hi>Bjovulfs-Drape, og bag efter <hi rend="italic">Kembles </hi>Udgave. Udentvivl er det med mere faldet ud af Drapens saakaldte 16de Sang (hos <hi rend="italic">Thorkelin S.</hi> 84 og hos <hi rend="italic">Kemble </hi>S. 79) efter Ordene "syddan</p>
+<pb facs="1841_14_page0016.png"/>
+<fw type="pageNum">496</fw>
+<p>Under saadanne Omstændigheder bliver det aabenbar et mærkeligt Blad af den <hi rend="italic">Gothiske </hi>Historie i det <hi rend="italic">femte </hi>og <hi rend="italic">sjette </hi>Aarhundrede, vi kan sammensætte af de hist og her indskudte Billinger, og <hi rend="italic">det </hi>begynder med <hi rend="italic">Bjovulfs </hi>Morfader, den gamle Kong <hi rend="italic">Hrædel </hi>og hans tre Sönner: <hi rend="italic">Herebald, Hædkyn </hi>og <hi rend="italic">fligelak, </hi>og det er en sorgelig Begyndelse, thi <hi rend="italic">Hædkyn shiöd feil </hi>ad Skiven og ramde sin ældste Broder <hi rend="italic">med </hi>Pilen, saa han sank död til Jorden, og <hi rend="italic">den </hi>gamle <hi rend="italic">Hrædel </hi>gik af Sorg fra Forstanden,<hi rend="italic"> </hi>klagende bestandig over at hans ene Sön var skudt og den Anden hængt som hans Morder. Det Sidste var kun Indbildning, thi da han havde sörget sig ihjel, fik han virkelig <hi rend="italic">Hædkyn </hi>(Hakon) til sin Eftermand, men nu begyndte der en Hække af blodige Krige med <hi rend="italic">Sverrig, </hi>og i <hi rend="italic">den </hi>Förste faldt <hi rend="italic">Hædkyn </hi>for den vældige Svenske Kong <hi rend="italic">Ongenthjov</hi>, som nær havde indtaget hele Riget, men blev dog fordrevet af <hi rend="italic">Higelak. *) </hi>Denne Kong <hi rend="italic">Hrædels </hi>yngste Son besteg nu Thronen <hi rend="italic">og </hi>fortsatte den <hi rend="italic">Svenske </hi>Krig saalænge til <hi rend="italic">det </hi>kostede den gamle <hi rend="italic">Ongenthjov </hi>Livet, og hans Banemand <hi rend="italic">Jofur Vanraads </hi>Sön fik Kong <hi rend="italic">Higelaks </hi>Datter.**) <hi rend="italic">Ongenthjov </hi>havde efterladt sig to Sönner: <hi rend="italic">Other </hi>og <hi rend="italic">Onela, </hi>men de synes ikke at have vovet no-</p>
+<p>scolde;" da det fölgende "ad" vist er en Skrivfeil for "ad," og <hi rend="italic">Baalet, </hi>som forst kan tændes efter <hi rend="italic">Finns </hi>Seier, kommer aldeles uforberedt, I Brudstykket forvisses vi ved Udtrykket "Hengest <hi rend="italic">selv" </hi>om<hi rend="italic">, </hi>at Skjalden meende den berömte <hi rend="italic">Hengest.</hi></p>
+<p>*) Om <hi rend="italic">Hrædels </hi>sorgelige Skæbne læser man i den danske Bjovulfs-Drape S. 212-15, og om <hi rend="italic">Hædkyns </hi>Fald 215-216 og 249-51.</p>
+<p>**) Om <hi rend="italic">Higelaks </hi>Svenske Krig <hi rend="italic">og Ongenthjovs </hi>Fald S, 251 - 51.</p>
+<pb facs="1841_14_page0017.png"/>
+<fw type="pageNum">497</fw>
+<p>get Tog til <hi rend="italic">Gothland, </hi>thi vi höre forst om et saadant af <hi rend="italic">Others Sönner, </hi>da <hi rend="italic">Higelak </hi>var faldet i <hi rend="italic">Frisland) </hi>og hans Sön <hi rend="italic">Hardred </hi>under Bjovnlfs Værgemaal netop var kommet til Skiels-Alder,*) De fældte vel <hi rend="italic">Hardred, </hi>men maatte dog lade <hi rend="italic">Bjovulf </hi>beholde den <hi rend="italic">Gothiske </hi>Throne, og siden <hi rend="italic">blev </hi>de indbyrdes uenige, saa En af dem, <hi rend="italic">Eadgils, </hi>tyede til <hi rend="italic">Bjovulf, </hi>som lod ham fölge hjem med en <hi rend="italic">Gothe-Hær, </hi>og ved den Leilighed faldt <hi rend="italic">Others </hi>Sön <hi rend="italic">Eanmund </hi>for <hi rend="italic">Vægmundingen Vigsten, </hi>hvis Son <hi rend="italic">Viglaf </hi>siden saa kiækt stod <hi rend="italic">Bjovutf </hi>bi i Drage-Kampen og blev hans Eftermand paa Thronen.**)</p>
+<p>Her ender Drapen, hvoraf vi seer, at <hi rend="italic">Hrædels </hi>Mandslinie (Hrædlingerne) uddöde med hans Sönnesön, <hi rend="italic">Hardred, </hi>tidlig i det <hi rend="italic">sjette </hi>Aarhundrede, og at <hi rend="italic">Vægmundingerne </hi>i det mindste var nærved at uddöe henimod Slutningen af samme Aarhundrede, med <hi rend="italic">Viglaf, Vigsteens </hi>Son, men foruden disse hidtil ubekiendte Herre-Slægter,***) nævner Drapen ogsaa <hi rend="italic">Skyldinger, Skilfinger, Vylfinger, Vælsinger , </hi>og udentvivl <hi rend="italic">Merovinger, </hi>som alt forud var Nordens Sagamænd bekiendte og stille, saa at sige, Borgen for de os hidtil fremmede.</p>
+<p>At saaledes <hi rend="italic">Skyldingerne </hi>er <hi rend="italic">Danmarks </hi>berömte <hi rend="italic">Skjoldunger, </hi>fölger af sig selv, skiöndt Navnet tillægges <hi rend="italic">hale </hi>Folket, og af den Række vi mode: <hi rend="italic">Skyld, Bjovulf, Halfden, Hjörgar, Hrodgar </hi>og <hi rend="italic">Halga, </hi>med</p>
+<p>*) <hi rend="italic">Other og Onela </hi>nævnes som Brødre i Dansken S. 249. og; Toget af <hi rend="italic">Others </hi>Sönner S. 195 <hi rend="italic">og </hi>208.</p>
+<p>**) I Dansken 208-9. <hi rend="italic">og </hi>225-27, hos Thorkelin S. 178-79. 194-95 og hos <hi rend="italic">Remble S. </hi>169-70. 184-85.</p>
+<p>***) Saxo nævner dog (hos Seph. S. 127) en <hi rend="italic">Gothisk </hi>Prinds <hi rend="italic">Femund, </hi>som kan have givet <hi rend="italic">Vægmundingerne </hi>Navn.</p>
+<pb facs="1841_14_page0018.png"/>
+<fw type="pageNum">498</fw>
+<p>deres Satiner: <hi rend="italic">Hjorvard, Hredrik, Hrodmund </hi>og <hi rend="italic">Hrodulf, </hi>er næsten alle Navnene os bekiendte og <hi rend="italic">Skjold, Halvdan, Roe, Helge </hi>og <hi rend="italic">Rolf, </hi>ogsaa efter <hi rend="italic">Saxo </hi>og <hi rend="italic">Snorro, </hi>berömte Danekonger fra Hedenold.</p>
+<p>Om <hi rend="italic">Skjold, </hi>som efter <hi rend="italic">Islænderne </hi>var <hi rend="italic">Odins </hi>og efter <hi rend="italic">Saxo </hi>den myrdede Tyran <hi rend="italic">Löders </hi>(Lothers) Son, spore vi her et ganske eget Sagn, hvorefter han i sin spæde Barndom var drevet tillands, <hi rend="italic">liggende </hi>alene paa et Skib fuldt af Vaaben og andre Klenodier, og modtaget som en Guds Gave af det kongelöse Folk, der i ham opfostrede sig en Drot, som blev enevældig i Norden, men efter Döden bortsendt ligesom han var kommet. Den förste Deel af dette Sagn finder man ogsaa hos <hi rend="italic">Ethelverd </hi>og i andre Engelske Krøniker fra Middelalderen, kun at <hi rend="italic">Barnet </hi>der kaldes <hi rend="italic">Skef, </hi>men da <hi rend="italic">Skef </hi>ellers nævnes som Noahs <hi rend="italic">fjerde </hi>Son födt i <hi rend="italic">Arken, </hi>seer man let, Sagnet passér kun paa Bjovulfs-Drapens <hi rend="italic">Skjold, </hi>der fik Tilnavnet <hi rend="italic">Skefing, </hi>fordi han var en <hi rend="italic">Skef </hi>den <hi rend="italic">Anden, </hi>födt ombord paa Havet, men kaldtes <hi rend="italic">Skjold </hi>(Værn) af Folket, der i ham saae deres <hi rend="italic">Skytsaand. </hi>*) Naar nu <hi rend="italic">Tydskerne </hi>hermed sammenligne alle de Bom, der, efter Sagnet, er trukket op af Vandet, selv om det kun var af et Gadekiær, da fölge de deres Natur, <hi rend="italic">og </hi>bor ikke engang standse ved <hi rend="italic">Moses, </hi>men naar de paa <hi rend="italic">Creuzersk </hi>giör alle disse Sagn til hip som hap, og til en <hi rend="italic">Tydsk </hi>Stam-Mythe,**) da maa vor</p>
+<p>*) <hi rend="italic">Ethelverd </hi>(hos <hi rend="italic">Savil </hi>S. 479) siger nemlig "ut <hi rend="italic">familiarem </hi>diligenti animo eum eustodierunt" og "familiar'' er paa Engelsk eh tjenstagtig Aand, som <hi rend="italic">Shakspear </hi>siger: "love is a familiar."</p>
+<p>**) Exempel paa begge Dele har <hi rend="italic">Leo </hi>i hans "Beottulf'S. 19- 34, men ved Siden ogsaa langt bedre Oplysning.</p>
+<pb facs="1841_14_page0019.png"/>
+<fw type="pageNum">499</fw>
+<p>Lomme lee, og vor Pen minde de Sprænglærde om, hvad der staaer skrevet i en gammel Bog af deres Egne, at det er "de <hi rend="italic">Danske" </hi>ei de <hi rend="italic">Tydske, </hi>der "boe paa Havet." For Resten er det mærkeligt, at <hi rend="italic">Skjold </hi>i <hi rend="italic">Bjovulfs-Drape </hi>vel staaer som Stamfader til en ny Konge-Slægt i Danmark, men ikke som Rigets <hi rend="italic">förste </hi>Konge, thi de græde ei for Guld, som aldrig Guld eiede, og han slukker dog de Danskes. <hi rend="italic">Konge-Sorg</hi>, ligesom der i Drapen selv dunkelt peges paa en <hi rend="italic">ældre </hi>Dansk Konge-Slægt (arskyldingas) blandt hvilke Een hed <hi rend="italic">Eggvela </hi>og havde <hi rend="italic">Hermod i </hi>sin Tjeneste.*) <hi rend="italic">Skjolds </hi>rette Plads i Sagn-Rækken bliver derfor vist efter <hi rend="italic">Frode Fredegod, </hi>ved hvis Död de Danskes Konge-Sorg og Konge-Savn er, saa at sige, blevet verdenshistorisk, thi skiondt <hi rend="italic">Saxo </hi>melder, at <hi rend="italic">Hjarne Skjald </hi>(eet med <hi rend="italic">Brage </hi>af "brægen c: Hjerne") raadte Bod paa begge Dele, fortier han dog ikke, at det maa forstaaes <hi rend="italic">poetisk, </hi>og at den <hi rend="italic">historiske </hi>Bod fandt man först i en <hi rend="italic">uventet Frode-Sön, </hi>der kom fra <hi rend="italic">Rusland, </hi>og sammensmelter for mine Öine med <hi rend="italic">Skefingen Skjold. </hi>Ved at faae de to faste Punkter i <hi rend="italic">Halvdans </hi>og <hi rend="italic">Rolvs </hi>Samtidighed med <hi rend="italic">Hengest </hi>og <hi rend="italic">Higelak, </hi>kan vi nemlig begynde at skielne Sagnene i Danmarks Historie <hi rend="italic">for </hi>Anglernes Udvandring fra dem <hi rend="italic">efter </hi>den, øg, næst det korte Stam-Sagn om Brödrene <hi rend="italic">Dan </hi>og <hi rend="italic">Angel, </hi>er <hi rend="italic">Uffe, Hading </hi>og Fredegod*Sagnet vel de Eneste, vi med Sikkerhed kan regne til Fortiden, da <hi rend="italic">Amlet-Sagnet </hi>svæver mellem <hi rend="italic">Begge </hi>og afbilder sagtens netop J<hi rend="italic">ydernes </hi>Deel i Udvandringen.</p>
+<p><hi rend="italic">Skjolds </hi>Son kaldes i Drapen <hi rend="italic">Bjovulf, </hi>men da der ingen <hi rend="italic">Bedrift </hi>tillægges ham, er derom beller ikke andet</p>
+<p><hi rend="italic">*) H</hi>os <hi rend="italic">Thorkelin </hi>S. 123 og hos <hi rend="italic">Kemble </hi>S. 121.</p>
+<pb facs="1841_14_page0020.png"/>
+<fw type="pageNum">500</fw>
+<p>at sige, end at <hi rend="italic">"Gram," </hi>der hos <hi rend="italic">Saxo </hi>indtager hans Plads og er kiendelig nok, kan have hedt hvad det skal være, da "Gram" aldrig ellers i Nordens Oldsagn findes som Fornavn, men tit (hvad <hi rend="italic">Saxo </hi>selv bemærker) som et Kongeligt <hi rend="italic">Binavn.*)</hi></p>
+<p>Vi komme nu i Drapen til <hi rend="italic">Halvdan </hi>(Healsdene), som gives Tilnavnet "den <hi rend="italic">Höie" </hi>og det stemmer godt overeens med <hi rend="italic">Edda </hi>,**) som kalder ham den höieste eller ypperste <hi rend="italic">Skjoldung </hi>(hæztr Skiöldunga), ligesom vi hos <hi rend="italic">Saxo </hi>virkelig finde en <hi rend="italic">Halvdan, </hi>der er Fader til <hi rend="italic">Ro </hi>og <hi rend="italic">Helge</hi>, Drapens <hi rend="italic">Hrodgar </hi>og <hi rend="italic">Halga. </hi>Hos <hi rend="italic">Saxo </hi>er vel denne <hi rend="italic">Halvdan </hi>rykket længere fra <hi rend="italic">Skjold </hi>og staaer har for Bedrifter, men Drape-Smeden, der levede omtrent <hi rend="italic">femhundrede </hi>Aar for <hi rend="italic">Saxo, </hi>vidste udentvivl bedre Besked med Oldsagerne, saa det kan hverken undre os at bore om det store Tog under <hi rend="italic">Hnæf </hi>og <hi rend="italic">Hengest i </hi>Kong <hi rend="italic">Halvdans </hi>Tid, eller at mode nok en Halvdans-Son (Hjörgar) og en Datter, hvis Navn, desværre, er faldet ud, og hvis Giftermaal med en <hi rend="italic">Skilfing, </hi>ventelig <hi rend="italic">Others </hi>Broder <hi rend="italic">Onela, </hi>vi nu maae giætte os til.***) I Henseende til ovenmeldte Tog af <hi rend="italic">Danske </hi>og <hi rend="italic">Friser </hi>mod Jette-Kongen <hi rend="italic">Finn Folkvalds </hi>Son, har vi alt bemærket det store Uheld, at omtrent Halvdelen af dette Indskud er tabt, og det næsten lige saa store Held, at det Tabte for störste Delen atter fandtes i en</p>
+<p>*) Navnet "<hi rend="italic">Biolfr," </hi>som svarer til "Beovulf," lindes for Resten i <hi rend="italic">Landnamabok </hi>S 292.</p>
+<p>**) <hi rend="italic">Hyndlas </hi>Sang, <hi rend="italic">Sit. </hi>13.</p>
+<p>***) Linien "hyrde ic pæt Elan cwen'' Tb. S. 7. Kbl. S. 5. staaer nemlig ganske forladt, og der har sikkert blandt andet staaet "Onelan cwen," som passer med det fölgende.</p>
+<pb facs="1841_14_page0021.png"/>
+<fw type="pageNum">501</fw>
+<p>gammel Præken-Bog, og da man baade i <hi rend="italic">England </hi>og <hi rend="italic">Tydskland </hi>endnu forvirrer det smukke Sagn, bor det ber ikke savnes. Sjælen i det er Dronning <hi rend="italic">Hildeborg, Hokes </hi>Datter, som fulgde med sine Brødre og Sönner, og mistede dem Alle ved Jetternes Trolöshed, men fördes dog omsider i Triumf tilbage til <hi rend="italic">Danmark. </hi>Sagen var nemlig den, at <hi rend="italic">Finn, </hi>efterat have tabt Slaget og sluttet Forlig, overfaldt <hi rend="italic">Hnæf </hi>og <hi rend="italic">Hengest </hi>ved Nattetid paa <hi rend="italic">Finsborg, </hi>som var dem indrömmet, og skiondt de, kun Tresindtyve i Alt, kiækt forsvarede sig i fem Dage mod en heel Hær, faldt dog omsider baade <hi rend="italic">Hnæf </hi>og hardtad bele Skaren, og vi veed ikke hvordan <hi rend="italic">Hengest) Gudlav </hi>og <hi rend="italic">Oslav </hi>undslippe det almindelige Blodbad. Nu tændes da Baal til de Slagne, og saa grusom er Jetten, at Dronning <hi rend="italic">Hildeborg </hi>maa selv bære sin Son <hi rend="italic">Sveolod </hi>paa sine Skuldre til Baalet, men Hevnen ligger hun i Vinter-Dvale, thi næste Vaar kommer <hi rend="italic">Hengest</hi>, <hi rend="italic">Gudlav </hi>og <hi rend="italic">Oslav </hi>igien fra <hi rend="italic">Frisland) </hi>fælder Kong <hi rend="italic">Finn </hi>midt i hans Skjoldborg, Udplyndrer hans Höielofts-Sale og förer Dronningen triumferende til Danmark.*) <hi rend="italic">Hvis </hi>Dronning <hi rend="italic">Hildeborg </hi>er, kan vi imidlertid ikke sige, thi man kunde vel tænke <hi rend="italic">Hnæfs, </hi>men da hun kaldes <hi rend="italic">Hokes </hi>Datter og <hi rend="italic">Hnæf </hi>i <hi rend="italic">Vidsids-Maal </hi>kaldes <hi rend="italic">Hokingernes </hi>Fyrste, var hun vel snarere hans Syster; kan sætter hun sig selv med Hænder og Födder mod ethvert Belleri fra <hi rend="italic">Jettekongens </hi>Side, hvor</p>
+<p>*) Tb-.82-88 Kbl.76-82, og Stumpen om <hi rend="italic">Finsborg </hi>Slagel, der, trods de mange dunkle Ord, er nu ikke længer en mörk Tale. I <hi rend="italic">Upsals </hi>Dressel fandtes, efter <hi rend="italic">Snorres </hi>Edda, en Brynie <hi rend="italic">Finsleif, </hi>som synes at være <hi rend="italic">Finns </hi>eneste Efterladenska her hjemme.</p>
+<pb facs="1841_14_page0022.png"/>
+<fw type="pageNum">502</fw>
+<p>godt end <hi rend="italic">Engelskmænd og Tydskere </hi>vil tale hans Sag.</p>
+<p>I Henseende til <hi rend="italic">Halvdans-Sönnerne </hi>er Bjovulfs-Drapens Skjald for saavidt enig med <hi rend="italic">Saxo, </hi>at H<hi rend="italic">rodgar </hi>og H<hi rend="italic">alga </hi>aabenbar svare til R<hi rend="italic">oe </hi>og <hi rend="italic">Helge, </hi>og at <hi rend="italic">Boe </hi>blev berömt af det ny <hi rend="italic">Konge-Sæde, </hi>ban grundede, men medens <hi rend="italic">Saxo </hi>fölger <hi rend="italic">Helge, </hi>holder Drape-Skjalden sig til <hi rend="italic">Roe, </hi>og rober kun ved Kiendingen "Bravkarl" at det sisal være <hi rend="italic">Helge </hi>ufortalt.*) Nu er det vel saa, at vi ingenlunde kan lægge <hi rend="italic">historisk </hi>Vægt paa alt <hi rend="italic">det </hi>Deilige, Skjalden fortæller baade om <hi rend="italic">Ilrodgar </hi>og lians Dronning ved <hi rend="italic">Bjovulfs </hi>Besög i <hi rend="italic">Hjorte-Borgen, </hi>da Æventyret med Troldene aabenbar bestaaes paa bele <hi rend="italic">Gothefolkets </hi>Vegne, og <hi rend="italic">Hrodgar </hi>altsaa kun er Vært paa alle <hi rend="italic">Skjoldungers </hi>Vegne, men deels bar den betænksomme Skjald dog vist havt sine gyldige Grunde til at give H<hi rend="italic">rodgar </hi>Æren, og deels bar <hi rend="italic">Hjorte-Borgen, </hi>med Dronning <hi rend="italic">Væltove </hi>(Wealhoeow) og bendes Sönner, med Prindsesse <hi rend="italic">Freyvor </hi>(Freaware), Prinds R<hi rend="italic">olv </hi>(Hro-Zulf), Konge-Vennen <hi rend="italic">Æsger, Irmenlavs </hi>Broder, den skeelöiede Drost <hi rend="italic">Hunferd Eglavsön, </hi>og den höviske <hi rend="italic">Vulfgar </hi>Vendelbo, saa eiendornmeligt et Præg, at man slet ikke kan tvivle om, der jo i det <hi rend="italic">Syvende </hi>Aarhundrede har gaaet mærkelige Sagn om Kong <hi rend="italic">Boe </hi>paa <hi rend="italic">Hjorteborg </hi>eller <hi rend="italic">Hertegaard, </hi>som i det <hi rend="italic">Tolvte </hi>var traadt tilbage for de langt större om R<hi rend="italic">olv i Leire. </hi>Her at gaae ind paa alt det Enkelte vilde fore for vidt, men det dunkle Sagn om Prindsesse <hi rend="italic">Freyvor </hi>dvæler jeg saameget beller ved, som det siden sidst bar faaet ad-</p>
+<p>*) Halga til er nemlig vores Helge Bravkarl.</p>
+<pb facs="1841_14_page0023.png"/>
+<fw type="pageNum">503</fw>
+<p>skillige Oplysninger, der lade os skimte hele Sammenhængen. Den förste Oplysning gav et lille Digt af <hi rend="italic">Exeter-Bogen</hi>, som jeg kalder <hi rend="italic">Fidsids-Maal,*) hvor </hi>blandt mange andre Konger og Fyrster ogsaa <hi rend="italic">Hrodulf </hi>og <hi rend="italic">Hrodgar </hi>nævnes med det Skudsmaal, at af alle Frænder holdt de <hi rend="italic">længst </hi>Fred med hinanden, efterat have fordrevet Vikingerne, böiet <hi rend="italic">lngels </hi>Odd og nedsablet <hi rend="italic">Magiebarderne </hi>(heaoobeardna prym) paa <hi rend="italic">Herthegaard </hi>(æt Heorote), thi heraf saae man klart, at det virkelig var <hi rend="italic">Roes </hi>Datter, som skulde havt Magiebardernes Prinds.. Man sluttede nu ogsaa deraf, at han hed <hi rend="italic">Ingel, </hi>og det saameget sikkrere, som dette Navn ogsaa findes i Drapen, men derved kom man paa Vildspor, thi deels nævnes denne <hi rend="italic">lngel </hi>som et levende Menneske <hi rend="italic">efterat </hi>Magle bardernes Prinds er <hi rend="italic">död**), </hi>og deels faaer man to Fædre til ham, baade <hi rend="italic">Frode </hi>og V<hi rend="italic">ittergild.***) </hi>Hvad enten det derfor har været <hi rend="italic">Vidsids </hi>Mening eller ikke, kan jeg dog see, der aldrig bliver Mening i det Hele, med mindre man tager det saaledes, at <hi rend="italic">Freyvor </hi>var forst lovet til <hi rend="italic">Frodes </hi>lystige Son (vist nok <hi rend="italic">lngel), </hi>men</p>
+<p>*) Dette Digt, först daarlig trykt (under Navn af "The Traveller's Song") hos <hi rend="italic">Conybeare </hi>1826, siden ret godt hos <hi rend="italic">Kemhle </hi>bagved <hi rend="italic">Bjovulf </hi>1835, er af samme Slags som <hi rend="italic">Nornugests </hi>Saga, saa Skjalden lader en <hi rend="italic">Vidsid </hi>(ligesom vidföruJl) opregne alle de berömte Navne, han kiender, og det er löierligt nok, at lærde Mænd kan tage det for en virkelig Reise-Beskrivelse, skiondt Reisen fra <hi rend="italic">Ermanrik </hi>til et godt Stykke forbi <hi rend="italic">Rolv </hi>vilde ikke være stort kortere end Nornegests fra <hi rend="italic">Volsungerne </hi>til <hi rend="italic">Olav Tryggesen</hi></p>
+<p>**)See hos Kbl. v. 4113 og 4124.</p>
+<p>***) Sammesteds v. 4046 og 4098.</p>
+<pb facs="1841_14_page0024.png"/>
+<fw type="pageNum">504</fw>
+<p>siden blev <hi rend="italic">Roe </hi>af andre Tanker*), og vilde til godt Forlig giftet hende med <hi rend="italic">Magiebardernes </hi>her <hi rend="italic">ubenævnte </hi>Prinds, hvis Fader <hi rend="italic">Viltergild </hi>var faldet i et Slag mod de <hi rend="italic">Danske. </hi>Dette Fornuft-Giftermaal forpurrede imidlertid den gamle <hi rend="italic">Maglebard, </hi>der fik saa ondt i Öinene af at see Prindsen gaae over Gulvet med den <hi rend="italic">Danske </hi>Prindsesse, at han holdt for dem, og opæggede Ungersvenden <hi rend="italic">med bidende Ord, til </hi>han foer i Harnisk og fik sin Död. Ventelig vilde nu den forsmaaede <hi rend="italic">lngel </hi>ikke bide paa Krøgen, men bod heller <hi rend="italic">Roe </hi>Spidsen,**) som <hi rend="italic">Vidsid </hi>melder, <hi rend="italic">Rolv </hi>og <hi rend="italic">Roe </hi>dog fik böiet; og hermed passer det godt nok, at <hi rend="italic">Bjovulf </hi>saae <hi rend="italic">Freyvor </hi>gaae for Borde i sin Faders Skænke-Stue. Gift maa I<hi rend="italic">nqel </hi>imidlertid dog nok være blevet, thi den <hi rend="italic">Agner Ingelsön </hi>der skulde været gift med <hi rend="italic">Rolvs </hi>Syster <hi rend="italic">Rude, </hi>men blev paa sin Bryllupsdag usaattes med <hi rend="italic">Bjarke </hi>og faldt smilende for hans Sværd, ligner ham op ad <hi rend="italic">Dage, </hi>og det er morsomt saaledes at see Bjovulfs-Drapen fortsat hos Saxo.***J</p>
+<p>Herved mindes vi om Forholdet mellem <hi rend="italic">Roe </hi>og <hi rend="italic">Rolv, </hi>som vel baade Bjovulfs-Drapen og Vidsids-Maal</p>
+<p>*) V. 4037 hos Kbl. seer nu i Skindbogen saaledes ud ... fas pæs geworden, og da \v er Rimstaven, har der vist staaet "wafaö" af wafian (det Engelske to wave), at vakle eller tilsidesætte, og skiondt jeg ikke tor tage mig paa at helbrede hele den værkbrudne Linie, kan jeg dog see, der maa have staaet om Skjoldung-Vennen, at han gjorde en Streg i Regningen, og fandt det klogt med det Pigebarn at standse en Krig.</p>
+<p>**) Ved v.4123 siger nemlig Rimstaven os, der er i det mindste een Linie borte, saa man maa tale forsigtig.</p>
+<p>***) Saxo hos Steph. S, 30 og 36. Dansken I. 102 og 126<hi rend="italic">,</hi></p>
+<pb facs="1841_14_page0025.png"/>
+<fw type="pageNum">505</fw>
+<p>siger, var <hi rend="italic">længe </hi>meget godt, men som dog efter Begge synes tilsidst at være blevet anderledes, <hi rend="italic">*) </hi>og invikles aabenbar ved de to os hidtil aldeles ubekiendte <hi rend="italic">Roe-Sønnen Rörik (Hreöric) </hi>og <hi rend="italic">Rodmund, </hi>thi da <hi rend="italic">Rolv </hi>var ældre end de, kunde de ikke blive hans Formyndere, og at han <hi rend="italic">blev Roes </hi>egenlige Eftermand, derom tillader Nordens enstemmige Sagn os ikke at tvivle.</p>
+<p>Under disse Omstændigheder han jeg i det mindste ikke læse Visen hos <hi rend="italic">Saxo </hi>om den <hi rend="italic">Rörik, Rolv </hi>gav Staal for Guld, ud<hi rend="italic">en </hi>at tænke paa Kong <hi rend="italic">Roes </hi>ældste Son H<hi rend="italic">redrik) </hi>men vil man, istedenfor uskyldig at benytte Vinket til vore Oldsagns Oplysning, paa Grund heraf smække en Dom af over <hi rend="italic">Rolv Krage </hi>for sort Utaknemmelighed mod sin kongelige Fosterfader, da maa jeg paa den majestætiske Skygges Vegne giöre den <hi rend="italic">juridiske </hi>Indsigelse, at den <hi rend="italic">Rörik</hi>, der synges om hos <hi rend="italic">Saxo) </hi>ei blot er en Niding, men kaldes udtrykkelig Bö<hi rend="italic">-ges, </hi>altsaa <hi rend="italic">ikke Roes </hi>Son.**)</p>
+<p>Hermed maa vi sige Bjovulfs-Drapens <hi rend="italic">Skjoldunger </hi>Farvel, men <hi rend="italic">Roes </hi>Dronning har dog saa smukt et poetisk Ansigt, at man ikke kan være Skjald uden at skænke hende et lille historisk Blik, især da der er noget Fremmed saavel i hendes Ansigt som i hendes Navn, der pirrer Nysgierrigheden. Ligesom nemlig Navnet Wealhpeow ligefrem betyder <hi rend="italic">en Vælsk eller fremmed Slav-</hi></p>
+<p>*) Vel er v. 2320-31 ligesaavist poetisk uægte som galt afdeelte, men sammenholdt med v. 2030 - 32 spaaer det dog ilde, og Dronningen synes selv v. 2357-75 ei ret at troe Freden.</p>
+<p>**) Saxo hos Steph. S. 34. Dansken I. 118-20, hvor <hi rend="italic">Rorik</hi> kaldes "veteris populator acervi."</p>
+<pb facs="1841_14_page0026.png"/>
+<fw type="pageNum">506</fw>
+<p><hi rend="italic">inde, </hi>saaledes er der en Finhed i hendes hele Opførsel og en Ström paa hendes Læber, som slet ikke spores hos <hi rend="italic">Higelaks </hi>Dronning, men tyder hen paa overlegen Dannelse. Hertil komer, at efter <hi rend="italic">Islandske </hi>Sagn skal Kong <hi rend="italic">Roe </hi>havt endeel at bestille i <hi rend="italic">Bretland </hi>(Wales og Cumberland) og have faaet sin <hi rend="italic">Dronning </hi>derfra, som de kalde <hi rend="italic">Ogn </hi>eller <hi rend="italic">Auqn, </hi>der netop ogsaa paa <hi rend="italic">Jydsk </hi>betyder <hi rend="italic">den Fremmede,*') </hi>og naar saa er, opgaaer der et mærkeligt Lys saavel over hendes Finhed som over hendes poetiske Navn, thi at de gamle <hi rend="italic">Britter i </hi>det <hi rend="italic">Sjette </hi>Aarhundrede havde mere <hi rend="italic">Dannelse </hi>end <hi rend="italic">Nordboerne</hi>, veed man, og hun kunde godt være en Konge-Datter og dog, som fanget i Krig, kaldes den Vælske Pige eller Slavinde.</p>
+<p>Vi komme nu til <hi rend="italic">Skilfingerne</hi>, som i Drapen klarlig er Navnet paa den <hi rend="italic">Svenske </hi>Herrestamme, der ellers i vore Sagn kaldes <hi rend="italic">Ynglinger, </hi>men <hi rend="italic">Skilfing-Navnet </hi>var os dog ei ganske ubekiendt, men bruges meget mere i et af de <hi rend="italic">Eddiske Digte </hi>vist istefot for <hi rend="italic">Ynglinger</hi>,**) og efter Bjovulfs-Drapen at slutte, hvor <hi rend="italic">Hrodgnr </hi>kaldes <hi rend="italic">Yngve-Drotten </hi>,***) synes "Ynglinger" mere at have været et Værdigheds end et Stam-Navn, At vi nu ogsaa i Skillingerne <hi rend="italic">Other </hi>og <hi rend="italic">Adgils </hi>let kan opdage <hi rend="italic">Ottar </hi>Vendelkrage og den bekiendte <hi rend="italic">Adils, </hi>som</p>
+<p>*) <hi rend="italic">Suhms </hi>Danmarks-Historie 1.312. <hi rend="italic">3Molbechs </hi>Danske Dialeet-Lexicon S. 2.</p>
+<p>**) <hi rend="italic">Hyndlas </hi>Sang Str. X. og XV., hvor <hi rend="italic">Skilfingerne </hi>nævnes som En af Nordens Konge-Stammer, medens <hi rend="italic">Ynglinger </hi>paa sidste Sted synes indsmuglet for Ylfinger.</p>
+<p>***) Hos Kbl. v. 2082 og 2638 eodor, frea, ingwina, hvor det maa betyde "Hirden" eller Kongens <hi rend="italic">Husfolk,</hi></p>
+<pb facs="1841_14_page0027.png"/>
+<fw type="pageNum">507</fw>
+<p>var <hi rend="italic">Rolvs </hi>Samtidige, er alt bemærket, og da den <hi rend="italic">Svenske </hi>Oldtid er mörk, undrer det mig slet ikke, at <hi rend="italic">Ougenthiov, Onela </hi>og <hi rend="italic">Eanmund </hi>er os aldeles ubekiendte, men dog er det mueligt, at Svenske Skjalde og Oldgranskere kan giöre Opdagelser, thi Enhver bar bedst Öie for sit Eget, naar han kum vil bruge <hi rend="italic">det. </hi>Især til deres Brug vil jeg da kun, som Drapens gamle Bekiendter, give et Par Vink, og da först om <hi rend="italic">Vigllafs </hi>Fader V<hi rend="italic">igsten </hi>(Wihstan), der paa et Sted synes kaldt en <hi rend="italic">Skil/ing,*) </hi>men maa dog, saavelsom hans Sön, være en <hi rend="italic">Vægmunding. </hi>Hans Skilfing-Byrd synes nemlig et andet Sted bekræftet, men det er et Blændværk, thi det var <hi rend="italic">ikke til </hi>sin <hi rend="italic">Brodersøn Eanmund, Others </hi>Broder <hi rend="italic">Onela </hi>gav Jette-Sværdet, men <hi rend="italic">til </hi>lians Banemand <hi rend="italic">Vigsten</hi>, og Skjalden finder det netop mærkeligt, at <hi rend="italic">Onela </hi>ikke brod sig mere om sin Brodersöns Död. **) Grunden har imidlertid sagtens været den, at <hi rend="italic">Other </hi>og siden hans Sön <hi rend="italic">Eanmund </hi>har villet herske alene, og deres Brødre <hi rend="italic">Onela </hi>og <hi rend="italic">Eadgils </hi>bar derfor gjort fælles Sag <hi rend="italic">mod </hi>den Sidste, og kaldt <hi rend="italic">Gotherne </hi>til Hjelp, som da under <hi rend="italic">Vigstens </hi>Anførsel gjorde rask Arbeide og fik Liin derefter. Det Andet giælder <hi rend="italic">Onela </hi>alene, som vist paa en Maade er blevet halshugget i den Linie, der skulde meldt os hans Giftermaal med Kong <hi rend="italic">Roes </hi>Syster, som man klarlig seer, ægtede en <hi rend="italic">Skilfing. </hi>Endnu et tredie Vink vilde jeg nok give om, at det</p>
+<p>*) Hos Kbl<hi rend="italic">. </hi>v. 5203, hvor jeg formoder et Par Linier er faldet ud, skiöndt man intet Hul seer.</p>
+<p>**) Hos Kbl. v.5217-35, hvor man især skal lægge Mærke til, at "him" v. 5229 maa gaae paa <hi rend="italic">Banemanden. Onelas </hi>Broderskab med <hi rend="italic">Other </hi>see v. 5859.</p>
+<pb facs="1841_14_page0028.png"/>
+<fw type="pageNum">508</fw>
+<p>ingenlunde er <hi rend="italic">Hædkyns </hi>Enke, der, ved <hi rend="italic">Onqenthjov </hi>bliver Moder til <hi rend="italic">Other </hi>og Owela, men at det snarere er denne ubenævnte Gunnild Kongemoder, som giver den Gothiske Dronning sin Rest, da <hi rend="italic">Ongenthjov </hi>bar Fældet Kongen men Drapen er paa dette Sted saa mörk, at man maa tage sig vel i Agt, naar man ei skal löbe vild, og med den Bemærkning vil jeg standse.*)</p>
+<p>At nu Drapens <hi rend="italic">Vylfinger </hi>er vore Hjemlige Sagns <hi rend="italic">Ylfinger, </hi>tvivler Ingen om, men ogsaa her bore vi saa lidt om dem, at vi deraf egenlig kun lære, de ikke, som man paa en daarlig Hjemmel har gjort, maa forblandes med <hi rend="italic">Volsungerne.**') </hi>Ventelig er det ogsaa dem, <hi rend="italic">Vidsids-Maal </hi>mener med sine <hi rend="italic">Vnlfinger, </hi>og da de der faae en <hi rend="italic">Hielm </hi>til Konge, kommer man til at lænke paa <hi rend="italic">Hihningerne, </hi>til hvem <hi rend="italic">Hrodgars </hi>Dronning etsteds henföres,***) men det er for los en Giætning til at forfölges. Jeg tænker ellers, at <hi rend="italic">Ylfingerne </hi>bar bort til <hi rend="italic">Norge, </hi>ligesom <hi rend="italic">Skilfingerne </hi>til <hi rend="italic">Sverrig </hi>og <hi rend="italic">Skjoldungerne </hi>til <hi rend="italic">Danmark. </hi>o}-)</p>
+<p>Om <hi rend="italic">Volsungerne </hi>findes vel bel ler ikke Meget i Bjovulfs-Drape, men dog bar den först givet os det rette Navn paa deres Stamfader <hi rend="italic">Volse </hi>(Wælse), ff) og lærer os, at <hi rend="italic">Volsungens </hi>Drage-Kamp var netop i det</p>
+<p>*) Hos Kbl. v. 5855-60, hvor man især maa lægge Mærke til, at "abreot" altid i Draperi bruges om <hi rend="italic">Drab, </hi>thi <hi rend="italic">Ongentjov </hi>kunde dog, ikke Forst dræbe Dronningen og siden have <hi rend="italic">Other </hi>og <hi rend="italic">Onela </hi>med hende.</p>
+<p>**) Hos Kbl, v. 916 og 936.</p>
+<p>***) Hos Kbl. v.1234 ides Helminga.</p>
+<p>+) Vil man see den Tanke udfort, findes det i min "Nordens Mythologi" fra 1832, S. .566-82.</p>
+<p>++) Hos Kbl. v. 1747 <hi rend="italic">og </hi>1787.</p>
+<pb facs="1841_14_page0029.png"/>
+<fw type="pageNum">509</fw>
+<p><hi rend="italic">Syvende </hi>Aarhundrede en af de störste Heltegierninger, man vidste at nævne.*) Da denne <hi rend="italic">Volsung </hi>imidlertid ligefra <hi rend="italic">Island </hi>til <hi rend="italic">Græklands-Havet </hi>er blevet kaldt <hi rend="italic">Sigurd Fofnersbane </hi>eller <hi rend="italic">Sigfred, </hi>maatte man vel troet, at Drapens <hi rend="italic">Sigmund </hi>selv to Gange i Trælk var en Skrivfejl, hvis ikke Systersönnen <hi rend="italic">Fjotle </hi>(Fitela) nævnedes med, men da vi her strax gienkiende <hi rend="italic">Sinfjotle, </hi>som ogsaa i Volsung-Kviderne er <hi rend="italic">Sigmnnds </hi>Systersön, saa er det afgjort at <hi rend="italic">Angel-Saxerne </hi>gav <hi rend="italic">Sigurds </hi>Fader Æren.**)</p>
+<p>Her kan vi da omtrent oversee Bjovulfs-Drapens <hi rend="italic">historiske </hi>Indhold, der visselig ikke fortjener at staae i Skygge, da det ogsaa i denne Henseende er et Stor værk, der föier de Gothiske <hi rend="italic">Hrædlinger </hi>og <hi rend="italic">Vægmundinger </hi>til de fire berömte Nordiske Helte-Slægter: <hi rend="italic">Skjoldunger, Skilfinger, Ylfinger </hi>og <hi rend="italic">Volsunger, </hi>og opgaaer som en Morgenstjerne over Nordens Oldtid ved at oplyse Sammenstödet mellem de Gothiske <hi rend="italic">Hrædlinger </hi>og de Frankiske <hi rend="italic">Merovinger </hi>i Begyndelsen af det <hi rend="italic">Sjette </hi>Aarhundrede. Om <hi rend="italic">Merovingerne </hi>udtrykkelig nævnes, er en Biting, man kan tvistes om, men ogsaa det anseer jeg dog for vist,**) og at der falder et Lysglimt paa den berömte <hi rend="italic">Hengest </hi>som <hi rend="italic">Friser-Hövding</hi></p>
+<p>*) Hos Kbl. v. 1761-93.</p>
+<p>**) Sammesteds v. 1743.52.62.72. Man skulde heraf slutte, at Forlyden "sin" <hi rend="italic">ikke </hi>egenlig horde til <hi rend="italic">Fjotles Navn, </hi>men da J. Grimm nylig (i Haupt's "Zeitschrist f. Deutsehes Alter. thum S. 2-6) har opviist en tilsvarende Tydsk Form i "Sintarfizilo," maa det dog sagtens være hans ægte <hi rend="italic">golhiske </hi>Navn.</p>
+<p>***) Det er i det fortvivlede Ord v. 5837, jeg sporer <hi rend="italic">Mero. vingerne, </hi>og da "milts" hörer dertil, viser Rimstaven i "ungyfeöe," at der i det mindste fattes een Linie.</p>
+<pb facs="1841_14_page0030.png"/>
+<fw type="pageNum">510</fw>
+<p>under Dansk Höihed er alt en lille Vinding, der maaske kan lede til större Opdagelser. Talen om <hi rend="italic">Hermod </hi>(Heremod) er vel alt for kort og dunkel til at give ham et kiendeligt Ansigt, men vi lære dog heraf, at der virkelig var Sagn om ham som En af Nordens <hi rend="italic">ældste </hi>Kæmper, hvad vi for knap kunde giætte os til af hans Berörelse med <hi rend="italic">Sigmund </hi>Volsung i <hi rend="italic">Hyndlas </hi>Sang og hans tvetydige Stilling blandt <hi rend="italic">Aserne, </hi>som <hi rend="italic">Friggas </hi>Sendebud til Helhjem. *) Endelig nævnes ogsaa den berömte <hi rend="italic">Ermanrik </hi>(Jormunric), og skiondt der kun spilles paa en Kiv mellem ham og H<hi rend="italic">ama, </hi>der er os ubekiendt, stode vi dog derved uformodenlig paa et <hi rend="italic">Brysing-Men </hi>(brosingamen) der enten skal være <hi rend="italic">Freyas </hi>berömte Smykke, eller minder dog stærk derom.**)</p>
+<p>Dette historiske Udbytte er nu baade saa stort og saa sikkert, at <hi rend="italic">Bjovulf s-Drapen </hi>herester ved Siden ad <hi rend="italic">Edda </hi>altid maa stilles i Spidsen ved den Nordiske Oldgranskning, og det er i denne Henseende en ubetalelig Skat, thi vi veed ikke alene, at den maa være skrevet <hi rend="italic">for </hi>man begyndte at skrive Bøger her hjemme, men har al muelig Sikkerhed for, at de <hi rend="italic">Nordiske </hi>Sagn, vi her stöde paa, er udvandrede med de Angelsaxiske Vikinger i det <hi rend="italic">Fem te </hi>og <hi rend="italic">Sjette </hi>Aarhundrede, og Drapen smeddet i det <hi rend="italic">Syvende </hi>eller <hi rend="italic">Ottende, </hi>för Oldsagnene gik ad Glemme, for især de <hi rend="italic">Danske </hi>(fra Slutnin-</p>
+<p>*) Hos Kbl. v. 1795-1819 og 8417-42. Hyndlas Sang, St. II.</p>
+<p>**) Hos Kbl. v. 2391-2403, og det er da den <hi rend="italic">Hama, </hi>der nævnes <hi rend="italic">sidst i </hi>Vidsids-Maal, men med den Æres-Erklæring, at han var d<hi rend="italic">og </hi>ikke tabt bag af en Vogn, og nævnes af oi <hi rend="italic">Jornandes </hi>og <hi rend="italic">Edda </hi>som En af den Gothiske Kong <hi rend="italic">Er Manriks </hi>Banemænd.</p>
+<pb facs="1841_14_page0031.png"/>
+<fw type="pageNum">511</fw>
+<p>gen af det <hi rend="italic">Ottende </hi>Aarhundrede) blev Angelsaxerne en Vederstyggelighed, og mens deres Poesi endnu var saa rig og blomstrende, som den ei længe blev efter <hi rend="italic">Kædmunds </hi>og <hi rend="italic">Oldhjelms </hi>Dage.</p>
+<p>Herved mindes vi om Drapens poetiske Side, der vel her som i alt ægte Nordisk er uoplöselig forbundet med den Historiske, men dog fremspringende som i et <hi rend="italic">Konstværk, </hi>hvor det historiske Sagn ikke er lagt til Grund eller behandlet som Hovedsag, men kun brugt til Stötte og Prydelse, eller rettere til Ramme for det <hi rend="italic">Helte-Speil, </hi>Skjalden aabenbar vilde fremstille i <hi rend="italic">Bjovulf.</hi></p>
+<p>At nu dette <hi rend="italic">Gothiske </hi>Heltedigt fra det <hi rend="italic">Ottende </hi>Aarhundrede ei vinder ved at bedömmes efter Kunstens Regle renten i det <hi rend="italic">Attende </hi>eller i det <hi rend="italic">Nittende, </hi>det vilde fölge afsig selv, om man end ikke vidste, hvor daarlig selv det <hi rend="italic">Shakspearske </hi>Drama kan bestaae for dem: men uagtet vi maa smile, og, naar vi blive vildfarende, ærgre os lidt over den Ubehændighed og stundom Smagloshed, hvormed den gamle Drape-Smed indskyder sine fleste Episoder, saa maae vi dog lade ham, at de Oldsagn, han har benyttet, er ikke blot historisk mærkværdige, men ogsaa poetisk deilige, saa vi vilde Intet af dem undvære, men gierne have mange fleer af samme Slags, om de end kom langt mere hovedkulds. Sagen er nemlig den, at "Konsten stiger," men Armoden ogsaa, saa naar vi kan stode paa rige Folk, der <hi rend="italic">ynde </hi>Konsten, tilgive vi dem hjertensgierne, at de selv fuske paa den, da de sætter os istand til at glimre ved den.</p>
+<p>Den poetiske Hoved-Indhold er saaledes to hinanden i <hi rend="italic">Digter </hi>aldeles uvedkommende Æventyr, der kun forbindes ved <hi rend="italic">Helten, </hi>som baade i sin <hi rend="italic">Ungdom </hi>kæm-
+<pb facs="1841_14_page0032.png"/>
+<fw type="pageNum">512</fw>
+per med Trolden <hi rend="italic">Grændel og </hi>hans Moder, og i sin <hi rend="italic">Æderdom </hi>med Ilddrageu <hi rend="italic">Stærkhjort</hi>, men hvert af dem er ikke blot valgt med höipoetisk Sands, men for* talt med en Udförlighed, Klarhed, Liv og Dristighed, der giör dem til to deilige <hi rend="italic">Digte, </hi>og Kampen med <hi rend="italic">Grændel </hi>og med hans Moder adskilles kun ved en mesterlig Skildring af Höitiden i <hi rend="italic">Hertegaard, </hi>hvor vi vel finde en Anstöds-Steen i Episoden om <hi rend="italic">Hengest </hi>og <hi rend="italic">Hnæfs </hi>Tog mod <hi rend="italic">Finn </hi>Jettekonge, men det er aabenbar Skiæbnens ikke Skjaldens Skyld, som vi see paa Slumpen om Slaget ved <hi rend="italic">Jomsborg</hi>, der er nærved at klare Sagen. Vist nok vilde Episoden om <hi rend="italic">Sigmund Volsung, </hi>der fældte Dragen, været langt bedre paa sit Sted ved Bjovulfs Drage-Kamp, der netop afbrydes med uvedkommende Ting, men den stöder dog ikke, hvor den staaer, og vil man see en Prove paa Skjaldens Gaver, da læse man, hvordan han beredte sig til at tage mod <hi rend="italic">Grændel </hi>paa Borgen, hvor han pleiede at spöge.</p>
+<lg>
+<l>Af sig krængde <hi rend="italic">Bjovulf </hi>brat</l>
+<l>Brynje sin den haarde,</l>
+<l>Lofted ned sin Hjelmehat,</l>
+<l>Löste af sin Kaarde,</l>
+<l>Gav det Alt en Svend i Vold,</l>
+<l>Bad ham det i god Behold</l>
+<l>Flittig at forvare.</l>
+</lg>
+<lg>
+<l>Det var Gothe-Helten god,</l>
+<l>End for han sig lagde,</l>
+<l>Store Ord han falde lod,</l>
+<l>Talede <hi rend="italic">og </hi>sagde:</l>
+<l>Ringere end <hi rend="italic">Grændel </hi>jeg</l>
+<l>Være vil i Kiækhed ei,</l>
+<l>Er end han forvoven.,</l>
+</lg> 
+<pb facs="1841_14_page0033.png"/>
+<fw type="pageNum">513</fw>
+<lg>
+<l>Kunde med mit gode Sværd</l>
+<l>Jeg ham end ombringe,</l>
+<l>Aldrig dog i denne Færd</l>
+<l>Vilde jeg det svinge,</l>
+<l>Da ei hugge kan i Skjold</l>
+<l>Skarnet, som er kiæk og bold</l>
+<l>Kun til Nidings-Værker.</l>
+</lg>
+<lg>
+<l>Vaabenlöse, Bryst mod Bryst,</l>
+<l>Om han det tor vove,</l>
+<l>Prove skal vi her en Dyst,</l>
+<l>Medens Andre sove,</l>
+<l>Herren i det höie Slot,</l>
+<l>Som Han finder det for godt,</l>
+<l>Domme os imellem!</l>
+</lg>
+<lg>
+<l>Helte-Bryn og Pande brun</l>
+<l>Skjulde nu den Kiække,</l>
+<l>Sank paa Dyne, sank i Dun,</l>
+<l>Over Kinder begge ;</l>
+<l>Trindt omkring den Herre begge</l>
+<l>Riddersmænd fra Bølgen blaa</l>
+<l>Hvilende i Hallen.</l>
+</lg>
+<lg>
+<l>Duve op mod Elskovs Land!</l>
+<l>Atter over Bölge,</l>
+<l>Det ei haabed nogen Mand</l>
+<l>Af det hele Fölge;</l>
+<l>For dem skjulde Döelens Sky</l>
+<l>Fædreland og Födeby,</l>
+<l>Folket, de tilhörde.</l>
+</lg>
+<lg>
+<l>Hört de havde, at i Hald,</l>
+<l>Hvor de gik til Hvile,</l>
+<l>Dannemænd i Skokketal</l>
+<l>Sank for Dödens Pile,</l>
+<l>Ei de kiendte Herrens Raad,</l>
+<l>Vidste ei, mod Dödens Braad</l>
+<l>Dem et Skjold var givet.</l>
+</lg> 
+<pb facs="1841_14_page0034.png"/>
+<fw type="pageNum">514</fw>
+<lg>
+<l>Ei det Folk fra <hi rend="italic">Viederland</hi></l>
+<l>Tænked nogensinde,</l>
+<l>At de Heltes Avindsmand</l>
+<l>Kunde overvinde,</l>
+<l>At for Alle skulde Een,</l>
+<l>Med den Kraft, han fik til Lehn,</l>
+<l>"Seieren erhverve.</l>
+</lg>
+<lg>
+<l>Sandelig, al Verdens Magt</l>
+<l>Herren har i Hænde,</l>
+<l>Hvem han tage vil i Agt,</l>
+<l>Kan ei Skygger blænde,</l>
+<l>Det man saae, da Fienden fuul</l>
+<l>Kom nu under Skalke-Skjul</l>
+<l>Skridende til Hallen.*)</l>
+</lg>
+<p><hi rend="italic">Drage-Æventyret </hi>er, som sagt, afbrudt og poetisk vanbældet med uvedkommende Indskud, men skiöndt Uddragen endnu længe efter Uoden har stræbt at hævne sig paa sin Banemands Lovtale, er denne dog saavidt frelst som en Brand af <hi rend="italic">Ilden, </hi>at vi godt kan see, det Sidste var ikke ringere end <hi rend="italic">det </hi>Förste, skiondt det i <hi rend="italic">Skindbogen </hi>findes <hi rend="italic">skrevet med </hi>en senere og slettere Pen, Dette viser nu vel alt <hi rend="italic">Bjovulfs </hi>foranförte Afskeds-Tale, men for en Sikkerheds Skyld vil jeg dog ogsaa an före Slutningen om Heltens Baal og Begravelse, der vel har lidt <hi rend="italic">meget, </hi>men med Ære giennemgaaet Skærsilden.</p>
+<lg>
+<l>Nu Brændeved i Favnemaal</l>
+<l>Opstablet blev paa Tue,</l>
+<l>Og hjelmetakt et vældigt Baal</l>
+<l>Kom skyndelig tilskue.</l>
+</lg>
+<p>*) Den danske Bjovulfs-Drape S. 64-06.</p>
+<pb facs="1841_14_page0035.png"/>
+<fw type="pageNum">515</fw>
+<lg>
+<l>Der bænked, efter hans Attraa,</l>
+<l>Nu <hi rend="italic">Gotherne </hi>den Bolde</l>
+<l>1 Kreds af Brynjer lysegraa</l>
+<l>Og brede Kæmpe-Skjolde.</l>
+<l>Mens Bjerg og Bölge höit gienlod</l>
+<l>Af Kæmpers Jammer-Klage,</l>
+<l>Fra Konge-Baal og Brænde-Glöd</l>
+<l>Sig Luen svang saa fage;</l>
+<l>I kulsort Svöb af Rög den steg,</l>
+<l>Af Vinden brat dog klövet,</l>
+<l><hi rend="italic">Den </hi>boltred sig i vilden Leg,</l>
+<l>Til Baalet sank i Stövet,</l>
+<l>Til, under Brag og Jammer-Skrig,</l>
+<l>Hvert Been var knust, den Kiæres Lig</l>
+<l>Opbrændt, oplöst i Aske.</l>
+</lg>
+<lg>
+<l>Fuldmod i Hu med Klagemaal</l>
+<l>Nu <hi rend="italic">Gothlands </hi>Kæmpe-Skare,</l>
+<l>Hvor Drotten smuldred nys paa Baa),</l>
+<l>Hvis Tjenere de vare,</l>
+<l>Opkasted brat til Kæmpegrav</l>
+<l>En Hoi paa Klippe-Tinde,</l>
+<l>Som skinned vidt og bredt paa Hav</l>
+<l>Til <hi rend="italic">Gothe-Heltens </hi>Minde.</l>
+<l>I Dage ni de oste Muld,</l>
+<l>Opreiste Bauta-Stene,</l>
+<l>De oste Hvælvingen og fuld</l>
+<l>Af Grube-Guld det rene;</l>
+<l>Ja, Smykker, Ringe, hvert et Gran,</l>
+<l>Man log fra Edder-Dragen,</l>
+<l>Blev jordet med dens Baueman</l>
+<l>Kom aldrig meer for Dagen,</l>
+<l>Men hviler nu i Jordens Fav</l>
+<l>Ja, skimler nu til Ingens Gav</l>
+<l>Som for, i Mulm og Mörke!</l>
+</lg> 
+<pb facs="1841_14_page0036.png"/>
+<fw type="pageNum">516</fw>
+<lg>
+<l>Ved Heltens Grav et <hi rend="italic">Skjalde-Kor</hi></l>
+<l>Med Sorgen var tilstæde,</l>
+<l>Ja, Skjalde <hi rend="italic">tolv, </hi>med klingre Ord</l>
+<l>Hans Drape höit at <hi rend="italic">hvæde;</hi></l>
+<l>De skildred Landets store Tab</l>
+<l>I dyben Klage-Tone,</l>
+<l>Höiloved Heltens Adelskab,</l>
+<l>ans Daad paa Val og Throne!</l>
+<l>Gid hver en Konning, blid <hi rend="italic">og </hi>brav,</l>
+<l>Naar slukket er hans Kierte,</l>
+<l>Maa fölges saa til skumle Grav</l>
+<l>ed Tunge som med Hjerte!</l>
+<l>Ja, her var Sorg ved Konge-Död;</l>
+<l>Thi hvor man sig henvendte,</l>
+<l>Med Klage höit hans Pris gjenlöd,</l>
+<l>Og Menig-Mand bekiendte:</l>
+<l>n Drot som han, vi jorded her,</l>
+<l>Saa myg paa Konge-Stolen,</l>
+<l>Saa dannis, gild og ærekiær,</l>
+<l>Ei findes under Solen*)!</l>
+</lg>
+<p>Vende vi os nu til Episoderne, da er den Förste, om <hi rend="italic">Skjolds </hi>Ligbegængelse, alt saa berömt, at den knap behover at nævnes, og angaaende Klammeriet mellem Helten og den Danske <hi rend="italic">Drost, Hunferd Eylavsön, </hi>da udmærker det sig vel ikke ved poetisk Skiönhed, men et saadant Mellemspil var dog aabenbar ganske paa sit Sted, selv i det beskedne Danmark, naar en fremmed Kæmpe traadte saa pralende frem og bad om Forlov til <hi rend="italic">ene </hi>at bekæmpe en Fiende, hele Garden ei turde gaae under Öinc. Dronning <hi rend="italic">Hildeborgs </hi>Kvide, som Skjalden lader synge paa Borgen under Festen efter <hi rend="italic">Grændels </hi>Fald, passer meget godt, da hun, lige-</p>
+<p>*) I Dansken S. 263-66.</p>
+<pb facs="1841_14_page0037.png"/>
+<fw type="pageNum">517</fw>
+<p>som <hi rend="italic">Hrodgar, </hi>fik Hevn over sin Fiende, uden dog at kunne faae Bod for sine Börn og Brödre, hun ved Jettekongen Finns Troløshed havde mistet, saa, var Kviden ei lemlæstet, vilde <hi rend="italic">den </hi>ogsaa være en poetisk Prydelse for Drapen. Det er nemlig paa ingen Maade Skjaldens Feil, at baade den <hi rend="italic">Engelske </hi>og <hi rend="italic">Tydske </hi>Oversætter lader Hildeborg offre sin egen Son paa <hi rend="italic">Hnæf s </hi>Baal, thi det er Jettekongen, der nöder den dybt Nedböiede til selv at bære sin faldne Son, som maaske end ikke var rigtig död, paa sine Skuldre og kaste ham paa Baalet*).</p>
+<p>Episoden om <hi rend="italic">Hermod, </hi>som Skjalden lægger <hi rend="italic">Hrodgar </hi>i Munden, da han advarer den seierrige <hi rend="italic">Bjovulf </hi>mod Hovmodens Fristelser, er, som vi finde den, temmelig farvelos, og falder rent igiennem ved Siden ad det mesterlige Læredigt paa fri Haand, og da det netop er i saadanne Læredigte, Angelsaxernes christnede Skjalde har deres Styrke, bor i det mindste Slutningen her finde en Plads.</p>
+<lg>
+<l>Vogt dig da, o Kæmpe god !</l>
+<l>Vogt dig, Bjovulf kiære!</l>
+<l>Forst og sidst for <hi rend="italic">Overmod!</hi></l>
+<l>Lad dig ei besnære!</l>
+<l>Byg paa Evighedens Grund!</l>
+<l>Husk, naar du i Vælde</l>
+</lg>
+<p>*) Begge Oversætterne har desuden ganske forvirret Sagnet ved, uden al Grund, at antage <hi rend="italic">Hildeborg </hi>for <hi rend="italic">Finns </hi>Dronning, og her maa jeg gientage, at der begynder en ny Sætning med v. 2134, der skal læses saaledes: feallan scolde ne, huru Hildeburh, herian porfte, Eotene treowe. See Dansken S. 99 og 103. Det maatte nemlig ikke feile eller fattes i Skjaldens Kvad, hvorlidt <hi rend="italic">Hildeborg </hi>kunde rose <hi rend="italic">Jetternes </hi>og <hi rend="italic">Finns </hi>Troskab.</p>
+<pb facs="1841_14_page0038.png"/>
+<fw type="pageNum">518</fw>
+<lg>
+<l>Blomstret har en liden Stund,</l>
+<l>Blade maa du fælde!</l>
+<l>Aldrig paa din Lykke-Lodd</l>
+<l>Stole du og pukke!</l>
+<l>Snart, om ei for Egg og Odd,</l>
+<l>Ma or Sot du bukke;</l>
+<l>Der, hvor Luen flammer vild,</l>
+<l>Og hvor Bølgen bruser,</l>
+<l>Der, hvor Klingen spruder Ild,</l>
+<l>Og hvor Pilen suser,</l>
+<l>Hyt dig der, ifald du kan!</l>
+<l>Kort er dog din Vælde,</l>
+<l>Ihvor godt du holder Stand,</l>
+<l>Synker du for Ælde;</l>
+<l>Ja, i Alderdommens Nat</l>
+<l>Öiets Glands forsvinder,</l>
+<l>Magtesløs, din Mester brat</l>
+<l>Du i Döden finder*).</l>
+</lg>
+<p>Daarligst har Skjalden vel skildt sig ved den næste Episode om <hi rend="italic">de </hi>to Dronninger, <hi rend="italic">Hugelaks </hi>og' <hi rend="italic">Offas**'), </hi>thi han synes, ligesaalidt som <hi rend="italic">Shakspear, </hi>at have havt Fingre til at tage fint og nænsomt paa <hi rend="italic">Damerne, </hi>men dog er det nok især den <hi rend="italic">ny Afskriver, </hi>som netop denne Episode maatte tjene til Pröve-Klud, der maa hære Skylden med <hi rend="italic">Thorkelin </hi>og <hi rend="italic">Kemble </hi>for <hi rend="italic">det </hi>Vilderede, man he ar fundet***). Udentvivl har Skjalden blot villet kortelig fortælle os, hvordan Kong <hi rend="italic">Higelak </hi>havde faaet sin unge men meget snilde og dannede Dronning,</p>
+<p>*) I Dansken S. 158--59.</p>
+<p>**) Hos Kern! le v. 3840-3920. I Dansken S. 172-75.</p>
+<p>***) Den ny Afskriver har nemlig begyndt v. 3876 og maaske sprunget et lille Stykke over. <hi rend="italic">Thorkelin </hi>oversaae baade Hyg<hi rend="italic">ds </hi>og <hi rend="italic">Offas </hi>Navn, og Ke<hi rend="italic">mble </hi>har af al Magt stræbt at nedmane det Förste igien.</p>
+<pb facs="1841_14_page0039.png"/>
+<fw type="pageNum">519</fw>
+<p><hi rend="italic">Hygd Hæreths </hi>Datter, der, ligesom <hi rend="italic">Thora Heroths </hi>Datter*), synes at have været bevogt f et frygteligt Udyr, hun dog selv vidste at besnære og fælde**). Herved er imidlertid enten samme Skjald eller en Senere kommet i Tanker om, hvilken Grumhed man beskyldte Kong <hi rend="italic">Offas </hi>Dronning for, saa hun er hommet til at staae som et Sidestykke til Kong <hi rend="italic">Higelaks, </hi>men i Bælgmörke, saa man har ondt ved at skille dem ad, end sige da at man skulde kunne sammenligne deres Ansigts-Træk ***), I <hi rend="italic">England </hi>og <hi rend="italic">Tydskland </hi>trættes man nu om, enten <hi rend="italic">Hæreths </hi>Datter maa hedde <hi rend="italic">Hygd </hi>eller ikke, og enten hun forst eller sidst var gift med <hi rend="italic">Offa, </hi>men det Förste har Drapen selv afgjort for længe siden, og da <hi rend="italic">Hygd </hi>aabenbar slet intet har med <hi rend="italic">Offa </hi>at giöre, er den anden Trætte, tor vi haabe, snart jævnet f).</p>
+<p>Episoden om <hi rend="italic">Magiebarderne </hi>og <hi rend="italic">Roes </hi>Datter, lagt i Munden paa <hi rend="italic">Bjovulf, </hi>da han ved Hjemkomsten skal fortælle Nyt om sin Reise, er, som sagt, hullet, og kommer lidt hovedhulds, men upoetisk vil vist Ingen kalde den, som har Öie for <hi rend="italic">Stærkodder </hi>og læser:</p>
+<p>*) Saxo hos Steph. S. 169-70; Dansken II, 247-4". Regner Lodbrogs Saga Kap. 1-3.</p>
+<p>**) Dette staaer temmelig sikkert v. 3859-75.</p>
+<p>***) Man har vel en Engelsk Munke-Krönike om to Offa-Dronninger med sære Hændelser, men Ingen af <hi rend="italic">dem </hi>sigtes dog der for at have staaet sin Mand efter Livet.</p>
+<p>+) At <hi rend="italic">Hygd, Hæreths </hi>Datter, var <hi rend="italic">Higelaks </hi>Dronning, har man Sort paa Hvidt for v. 3849. 3958. 4340 og 4733, og hvem der vil have hende gift med <hi rend="italic">Offa, </hi>enten först eller sidst, maa da vise os, <hi rend="italic">hvor det </hi>staaer skrevet förend i Mr. <hi rend="italic">Rembles </hi>Fortaler, som komme meget for seent til at hjemle saa gamle Tildragelser.</p>
+<pb facs="1841_14_page0040.png"/>
+<fw type="pageNum">520</fw>
+<lg>
+<l><hi rend="italic">Magiebarders </hi>Oldermand</l>
+<l>Holdt ei Tunge meer for Tand,</l>
+<l>Ulvegrum i Sinde,</l>
+<l>Som sin egen Isse-Bleg</l>
+<l>Grandt den lange Sværdeleg</l>
+<l>Droges han til Minde;</l>
+<l>Snur han sad ved Drikkebord,</l>
+<l>Skummelt var hans Öie,</l>
+<l>Og til Sting han sine Ord</l>
+<l>Vidste vel at föie.</l>
+<l>Ungersvendens Kæmpehu</l>
+<l>Vilde han udspeide,</l>
+<l>Vække, hvad der slumred nu,</l>
+<l>Folke-Tvist og Feide.</l>
+<l>Kiender du, min unge Ven!</l>
+<l>Sagde han bedrovet,</l>
+<l>Sværdet, som ved Faderlænd</l>
+<l>Kæmped daad har övet!</l>
+<l>Kiender du det Sværd, han svang</l>
+<l>Over Brynje-Særke,</l>
+<l>Da han kloved sidste Gang</l>
+<l>Hjelme under Mærke,</l>
+<l>Hvor han sank paa Valen træt,</l>
+<l>For de <hi rend="italic">Danske </hi>Vaaben?</l>
+<l>Marken efter Kæmpeslæt</l>
+<l><hi rend="italic">Skjoldunger </hi>stod aaben,</l>
+<l>Og kun de, som den beholdt</l>
+<l>Kunde Valen rane;</l>
+<l>Over Gulv nu ganger stolt</l>
+<l>Veed ei Son, <hi rend="italic">hvis </hi>Bane,</l>
+<l>Kryende af Daaden sig,</l>
+<l>Bærer han som Bytte</l>
+<l>Hvad nedarvet burde dig</l>
+<l>Fölge og beskytte*).</l>
+</lg>
+<p>*) I Dansken S. 183-84.</p>
+<pb facs="1841_14_page0041.png"/>
+<fw type="pageNum">521</fw>
+<p>I sit eget Navn indskyder Skjalden en Fortælling om <hi rend="italic">Drage-Guldets </hi>forrige Eiermænd, som vel historisk har faaet Skam af Ilden<hi rend="italic">, </hi>men giör ham endnu poetisk Ære, thi om ham, der efter alle sine Stalbrödres Död bar det ind i Klippehulen, læse vi:</p>
+<lg>
+<l>Giem nu Grube, Gubben sang,</l>
+<l>Vel hvad du har inde!</l>
+<l>Skiondt det for de Boldes Ven</l>
+<l>Er en pinlig Tanke,</l>
+<l>At til dig de brave Mænd</l>
+<l>Midler skulde sanke.</l>
+<l>1 min Hald og i min Gaard</l>
+<l>Blev der tomt og ode, .</l>
+<l>Kæmperne fik Banesaar,</l>
+<l>De er alle <hi rend="italic">döde;</hi></l>
+<l>Dem ei meer ved breden Bord</l>
+<l>Vinen vederkvæger!</l>
+<l>Stille hviler under Jord</l>
+<l>Nu det gyldne Bæger,</l>
+<l>Der og ligger, nu forladt,</l>
+<l>Hjelmen aldrig klövet,</l>
+<l>Karlen for saa prud en Hat</l>
+<l>Sover, den berövet!</l>
+<l>Brynje-Særken med godt Hold</l>
+<l>Blev paa Val bedaget,</l>
+<l>Trodsed Klingens Overvold</l>
+<l>Tit i Vaaben-Braget}</l>
+<l>Herrelos, af Bust opædt,</l>
+<l>Skal den nu hensmuldre,</l>
+<l>Aldrig færdes vidt og bredt</l>
+<l>Meer paa Kæmpe-Skuldre !</l>
+<l>Der ei toner til Behag</l>
+<l>Strængen under Bue,</l>
+<l>Der ei hores Harpeslag</l>
+<l>I den mörke Stue!</l>
+</lg> 
+<pb facs="1841_14_page0042.png"/>
+<fw type="pageNum">522</fw>
+<lg>
+<l>Kæmpe-Högen aldrig der</l>
+<l>Sig i Kreds mon svinge,</l>
+<l>Droslen vims ei Graven nær</l>
+<l>Vifter let med Vinge!</l>
+<l>Ak, hvor Skæbnen var mig haardt</l>
+<l>Helsot fik <hi rend="italic">og </hi>Banesaar</l>
+<l>Mine Kæmper alle!</l>
+</lg>
+<lg>
+<l>Saa, som eenlig Fugl paa Tag,</l>
+<l>Sang han baade Nat og Dag,</l>
+<l>Tolkede sin Smerte,</l>
+<l>Indtil Dödens Kæmpehaand,</l>
+<l>Sönderrev det seie Baand,</l>
+<l>Knuste Gubbens Hjerte*).</l>
+</lg>
+<p>Hvad nu endelig den lange, men smaalig udstykkede, ubehændig indskudte og paa sine Steder slemt tilredte Episode om den Gothiske Kong <hi rend="italic">Hrædel </hi>og hans Æt angaaer, da maa ve! dens historiske Værd og Vigtighed ikke lukke Skjalde-Öiet for dens svage Side, men baade er dog Sagnet om Kong <hi rend="italic">Hrædel </hi>selv særdeles poetisk, og den Snarensvend, i hvis Mund en god Deel af Hesten er lagt, taler unægtelig langt bedre end han kæmper. Han er nemlig En af dem, der, da Dragen spyede Ild, löb og lod <hi rend="italic">Bjovulf </hi>i Stikken, han kommer til Kongeborgen for at melde hans Död, og faaer kun Skam til Takke for al sin Veltalenhed, der hverken er betimelig eller bringer os til at glemme Krysteren, men smukt er unægtelig hvad han siger:</p>
+<lg>
+<l>Dog ile maae vi nu til Hav,</l>
+<l>Vor Konning der at skue,</l>
+<l>Og bænke ham, som Guld os gav,</l>
+<l>Paa Ærens Seng i Lue.</l>
+</lg>
+<p>*) I Dansken S. 198-200.</p>
+<pb facs="1841_14_page0043.png"/>
+<fw type="pageNum">523</fw>
+<lg>
+<l>Beholder selv kun eders Guld I</l>
+<l>Med Perlen mellem Helte</l>
+<l>Skal hvad der skimled under Muld</l>
+<l>Fra Arildstid <hi rend="italic">kun </hi>smelte.</l>
+<l>Uhyre er den Skat forsand,</l>
+<l>Som Drotten vandt med Ære,</l>
+<l>Men med hans Lig dog hvert et Graa</l>
+<l>Skal Luetand fortære;</l>
+<l>Hvad kun med Drottens Hjerteblod</l>
+<l>Er kiöbt i dyre Domme</l>
+<l>Paa Haand ei bære Kæmpe god,</l>
+<l>Om Hals ei Rosensblomme!</l>
+<l>Nei, favren Glut! fuldmangen Gang,</l>
+<l>Berövet Guld og Glæde,</l>
+<l>Herefter skal med Klagesang</l>
+<l>Af Buret du udtræde ;j</l>
+<l>Thi nu, da han med Helteaand</l>
+<l>Ei smiler meer i Borgen,</l>
+<l>For Guld os rækker Staal i Haand</l>
+<l>Fuldmangen kiölig Morgen ;</l>
+<l>Ei vaagne skal ved Harpeklang</l>
+<l>Nu Kæmper meer i Salen,.</l>
+<l>Men sorten Ravn med Banesang</l>
+<l>Dem vinke skal til Valen,</l>
+<l>Og skvaldrende, med Örn til Ords,</l>
+<l>Udforlig ihukomme,</l>
+<l>Hvor herlig nys, med Ulv tilbords,</l>
+<l>Ham smagde Kæmpe Flomme*)!</l>
+</lg>
+<p>Allerede heraf kan man see, at det poetiske Udbytte af Bjovulfs-Drape er ikke mindre end det Historiske, men da det er lykkedes at give den en poetisk Skikkelse paa et nulevende Nordisk Tungemaal, vil Vindingen være uberegnelig, thi lidt for eller lidt senere vil den</p>
+<p>*) I Dansken S. 255-50.</p>
+<pb facs="1841_14_page0044.png"/>
+<fw type="pageNum">524</fw>
+<p>da blive en Læsebog for utallige Börn i Norden, som derved legende og smilende komme ind i det naturlige Billedsprog og de Nordiske Oldsagn. Vist nok kan jeg selv see, min Fordanskning har sine Feil <hi rend="italic">og </hi>Mangler, og den kan let have endnu langt flere end jeg seer, men deels kan de jo let rettes, naar de opdages, og deels veed jeg, de hindre den ikke fra at falde vore letnemme Börn fornöielig. End mere vilde den blive det, naar Episoderne blev bedre fordelte, men det er en farlig Sag at forbedre gamle Værker, ligesom at flytte gamle Træer, og Barnet bryder sig aldrig om Kunstens Regler. At man for Resten ogsaa i min Betragtning af <hi rend="italic">Bjovulfs-Drapen </hi>kan see min <hi rend="italic">Partiskhed </hi>for <hi rend="italic">Danmark, </hi>som jeg aldrig fragaaer, fölger vel af sig selv; men jeg tor derfor nok paastaae, at <hi rend="italic">Danmarks </hi>Redning af Trolde-Klöer er Noget, man i hele Norden har Grund til at glæde sig over; thi <hi rend="italic">Dansk </hi>er Nordens <hi rend="italic">kvindelige </hi>Element, et Element, ligesaalidt en Folke-Kreds, som en Venne-Kreds til sin Opmuntring og ægte Dannelse kan undvære, og kun naar <hi rend="italic">Dana </hi>er munter og vaagen, slutter hun sig som en Skjoldmö til Norden, men saasnart det lykkes Trolden, som saa tit, at kaste Sövn paa hende, nedsynker hun til en <hi rend="italic">Tydsk Slavinde, </hi>og det er Norden ikke gavnligt, medens Befrielsen aabenbar er langt mere til <hi rend="italic">Gothens </hi>end til <hi rend="italic">Danskernes </hi>Ære. Maatte derfor den Fölelse, at de ikke kan undvære hinanden, hos Nordens tre Smaafolk understötte den svækkede Fölelse af gammelt Slægtskab, saa de uden Misundelse kappedes om at ære Nordens Aand med <hi rend="italic">naturlige </hi>Kæmpeskridt, og forenede deres Kræfter til at afværge alt fremmed Herredomme, ei mindst det V<hi rend="italic">idenskabelige</hi>, under hvilket vi skimle, 
+<pb facs="1841_14_page0045.png"/>
+<fw type="pageNum">525</fw>
+som Oldtids Guld giennem tre Aarhundreder under Ilddragen ! Da skulde ikke alene <hi rend="italic">Bjovulf s-Drape, </hi>som Ingen af os har gjort, gladelig besiddes i Fællesskab, men anderledes modne Konstværker i Nordens Aand fremspringe under vore Hænder.</p>
+<p>Med saadanne Betænkninger er man nu vel allermindst oplagt til at fölge <hi rend="italic">Engelskmand </hi>og <hi rend="italic">Tydsker </hi>paa Jagten efter <hi rend="italic">geografisk </hi>Udbytte af Bjovulfs-Drapen, men om jeg end var nok saa gridsk derpaa, vilde jeg dog kunne skimme, den Jagt lönnede sig ikke, thi dels maae vi huske, at de <hi rend="italic">Nordiske </hi>Sagn, vi her stode paa, var henved et <hi rend="italic">Par hundrede Aar </hi>gamle for de blev optegnede i et fremmed Land, og dels var de Angelsaxiske Vikinger og deres Drape-Smed sagtens ikke stivere og nöiagtigere i <hi rend="italic">Geografien </hi>end de heelbefarne <hi rend="italic">Engelskmænd </hi>og deres <hi rend="italic">Shakspear, </hi>saa paa deres blotte Ord turde jeg ikke engang troe, at <hi rend="italic">Danmark</hi>, <hi rend="italic">Sverrig </hi>og <hi rend="italic">Gothland </hi>laae i <hi rend="italic">Norden, </hi>og langt mindre kunde det falde mig ind efter <hi rend="italic">Bjovulfs-Drapen </hi>at udkaste enten et <hi rend="italic">ethnografisk </hi>eller <hi rend="italic">topografisk </hi>Kort over <hi rend="italic">Nörreleden. </hi>Jeg maa derfor beklage, at <hi rend="italic">det </hi>er <hi rend="italic">faldet </hi>baade Mr. <hi rend="italic">Kemble </hi>og Hr. <hi rend="italic">Leo </hi>ind, af hvilke den Förste lægger alle Aarer ombord for at sætte <hi rend="italic">Gothland </hi>over til <hi rend="italic">Angeln, </hi>og den Anden sparer ingen Möie for, om mueligt, at sammenpresse hele <hi rend="italic">Skandinavien </hi>paa den <hi rend="italic">"Kimbriske Halvöe", </hi>som han naturligviis regner til det store "Germanien," uden at ændse, hvor snevert Rum der da bliver paa Öe<hi rend="italic">rne </hi>alene til Drapens Nord og Syd, Ost og <hi rend="italic">Vest-Daner. </hi>Det er nu vist nok en stor Lykke, at Sort paa Hvidt er langtfra at kunne udrette saa store Ting, som Skriverne og Mange af deres Læsere efter gammel Overtro indbilde sig, saa det har ingen Nod, at 
+<pb facs="1841_14_page0046.png"/>
+<fw type="pageNum">526</fw>
+de Herrers Penne enten forvandle <hi rend="italic">Gothland </hi>til <hi rend="italic">Angeln </hi>eller stikke <hi rend="italic">Dansken </hi>ud i <hi rend="italic">Jylland </hi>men hvad <hi rend="italic">Tydsk </hi>og <hi rend="italic">Engelsk </hi>Sort paa Hvidt, desværre, alt for let kan overkomme, er at <hi rend="italic">gaae igjen </hi>i <hi rend="italic">Norden, </hi>og derfor vilde jeg gierne betids nedmane disse Spögelser. Hvad nu det Engelske <hi rend="italic">Konststykke </hi>angaaer, da hærer John Bull sig gierne ved slige Leiligheder saa kluntet ad, at man maa smile ved det, og naar man seer, at Mr. <hi rend="italic">Kemble </hi>vil flytte <hi rend="italic">Gothland </hi>til <hi rend="italic">Angeln </hi>blot ved Hjelp af sin egen Indbildning om "Hæreths Datter" som <hi rend="italic">Offas </hi>Dronning og af en gammel Kongeliste bos <hi rend="italic">Langebek</hi>, hvor Navnene: <hi rend="italic">Vermund, Uffe </hi>og <hi rend="italic">Huglek </hi>fölge lige efter hinanden, da kunde man godt forsvare at lee höit. Med det <hi rend="italic">Tydske </hi>Erobrings-Forsög er det derimod en anden Sag, thi Krig er <hi rend="italic">Tydskernes </hi>gamle Haandværk, som de nu drive videnskabelig, og det paa Papiret ganske magelöst, saa naar de der trække blank, er der virkelig Fare paa Færde, især for det mageløs <hi rend="italic">fredelige </hi>Danmark, som har det Uheld tildels at være landfast med det mageløs <hi rend="italic">stridbare </hi>Tydskland, og Faren er saameget större, som Tydskerne, skiondt de lægge an paa hele Norden, dog er snilde nok til at lade, som det kun er <hi rend="italic">Danmark, </hi>ja, egenlig kun <hi rend="italic">Jylland, </hi>de paa gyldige Grunde vil have indlemmet i det "Tydske Forbund." Dette Krigspuds maa jeg derfor giöre vore <hi rend="italic">Norske </hi>og<hi rend="italic">Gothisk-Svenske </hi>Frænder opmærksomme paa, thi vel mener jeg, som sagt, at Norden kan ikke undvære <hi rend="italic">Danmark, </hi>saa det var ægte Nordisk at <hi rend="italic">Hakon Jarl </hi>hjalp til at forsvare <hi rend="italic">Dannevirke </hi>mod den <hi rend="italic">Tydske </hi>Keiser, men man er dog sig selv nærmest, saa naar vore Frænder blive vaer, hvor brede de stridbare Tydskere 
+<pb facs="1841_14_page0047.png"/>
+<fw type="pageNum">527</fw>
+videnskabelig giör deres Fingre, tor jeg snarest haabe deres Bistand til <hi rend="italic">Grændsernes </hi>Forsvar.</p>
+<p>Som en klog General stræber nemlig Hr. <hi rend="italic">Leo </hi>at vinde en fast Punkt i Hjertet af Norden, hvorfra han kan oversee det Hele, og med sin <hi rend="italic">Tydske Forbunds-Hær </hi>frit udbrede sig til alle Sider, men han stræber naturligviis at bortlede Opmærksomheden fra den Punkt, han har i Sigte, for ikke der at vække Nordens samlede Styrke, som han endnu ikke føler sig voxen. Han forudsætter derfor hardtad stiltiende, som en af Hr. <hi rend="italic">Remble </hi>afgjort Sag, at <hi rend="italic">Angeln </hi>og <hi rend="italic">Gothland </hi>er ved <hi rend="italic">Hæreths </hi>Datter, <hi rend="italic">Offas </hi>Dronning, der skiænker for <hi rend="italic">Higelaks </hi>Giæster, uadskillelig forbundne, og gaaer strax over til at vise, at hvad der i gamle <hi rend="italic">Tydsk-Latinske </hi>Böger kaldes Scatenauge (og vel rettere Seædenauge) er det Samme som <hi rend="italic">Seedeland </hi>og <hi rend="italic">Seedenigge </hi>i Bjovulfs-Drape, og maa nödvendig forstaaes om <hi rend="italic">Jylland</hi>, i alt Fald med Indbegreb af de "danske Öer" som Skillerummet (Scheidewand) mellem Ö<hi rend="italic">stersböen </hi>og <hi rend="italic">Nordsöen</hi>, hvorfor ogsaa <hi rend="italic">Hrodgar </hi>kaldes den ypperste Konge mellem de "to Söer" eller Have*). Kun i en Anmærkning peger han paa Skrivemaaden <hi rend="italic">Schatanavia, </hi>der virkelig synes ham at være Moderskiödet til <hi rend="italic">"Scandinaviav </hi>hos <hi rend="italic">Paulus Diaconus) </hi>men han lægger endda meget forsigtig til, at <hi rend="italic">altsaa </hi>har man ogsaa ved <hi rend="italic">Skandinavien </hi>oprindelig kun forstaaet Landet mellem de <hi rend="italic">to Have**). </hi>See, vilde vi nu blot indrömme ham det, hvortil selv de <hi rend="italic">Danske </hi>Oldgranskere ei turde findes uvillige, og hvad da let kan synes de <hi rend="italic">Norske </hi>og <hi rend="italic">Svenske </hi>aldeles uskyldigt, da er</p>
+<p>*) <hi rend="italic">Leo's </hi>"Bjovulf" S. 48-60.</p>
+<p>**) Anmærkningen S. 49-50.</p>
+<pb facs="1841_14_page0048.png"/>
+<fw type="pageNum">528</fw>
+<p>for det Förste <hi rend="italic">hele Danmark </hi>videnskabelig forloren, og <hi rend="italic">Gothland </hi>med sine ubestemte Grændser ogsaa flöiten, og det vil siden være lige saa let at indslutte <hi rend="italic">Norge </hi>med mellem de "to Have", som at vise, der ved <hi rend="italic">Skandinavien </hi>forstodes enten <hi rend="italic">Norden </hi>i det <hi rend="italic">Hele </hi>eller dog Norden paa <hi rend="italic">Danmark </hi>nær, og dermed er den <hi rend="italic">geografiske </hi>Erobring ligesaa fuldstændig, som den <hi rend="italic">Lingvistiske </hi>og <hi rend="italic">Ethnografiske </hi>alt længe var, naar man betragtede <hi rend="italic">Nordens </hi>Folkefærd som Grene paa den store <hi rend="italic">Germaniske </hi>Stamme, og dens Mundarter som Spilarter af den stortalende <hi rend="italic">Germaniske </hi>Tunge*).</p>
+<p>Derfor vil <hi rend="italic">jeg </hi>herved itide nedlægge en formelig Protest mod det Hele, og det tor jeg mene, paa gyldige Grunde, thi for det Förste bar <hi rend="italic">Hæreths </hi>Datter i Drapen slet intet med <hi rend="italic">Offa </hi>at giöre, og om hun havde aldrig saameget, kunde man dog paa den Grund umuelig faae Drapens <hi rend="italic">Gothland </hi>tæt ved <hi rend="italic">Sverrig </hi>trukket over til et <hi rend="italic">Angeln, </hi>den slet <hi rend="italic">ikke nævner, </hi>og en<hi rend="italic">delig </hi>maatte der staae i <hi rend="italic">Bjovulf s-Drape, </hi>i <hi rend="italic">Vidsids </hi>- <hi rend="italic">Maal, </hi>og selv hos Kirkefaderen <hi rend="italic">Beda, </hi>hvad der vilde om <hi rend="italic">Offas </hi>Dommedags-Slag ved <hi rend="italic">Eideren, </hi>om <hi rend="italic">Angler </hi>og <hi rend="italic">Gother, </hi>saa gjorde det dog Altsammen ikke mindste Forskiel paa disse Landes virkelige <hi rend="italic">Beliggenhed, </hi>som er os i Norden</p>
+<p>*) Hvor sikker Hr. <hi rend="italic">Leo </hi>er paa sin Erobring, seer man vel <hi rend="italic">bedst </hi>deraf, at han alt (S. 59) har givet sit Tydsk-Jydsk-Skandinaviske Gothe-Rige en ny Hovedstad, kaldet <hi rend="italic">"Hrosnaburg", </hi>som jeg dog er ubarmhjertig nok til strax at lægge i Grus ved den Bemærkning, at Drapens "Hreosna beorh" (v. 4950) aabenbar, naar galt skulde være, snarere kunde blive til "Riesengebürge" end til <hi rend="italic">en Borg, </hi>og at den Gothiske Kongeborg i Drapen v. 5780 og 5916 derimod kaldes "Haga", der meget lettere lod sig finde östenfor Sundet end vestenfor Beltet.</p>
+<pb facs="1841_14_page0049.png"/>
+<fw type="pageNum">529</fw>
+<p>fra Arildstid velbekiendt. For det Andet ligner Drapens "<hi rend="italic">scede landum </hi>in" og: "<hi rend="italic">scedenigge" </hi>mest af Alt to <hi rend="italic">Skrivfeil*)', </hi>men selv naar det var allerkærest viist, at deri stak det Tydske Scatenauge" og det Longobardiske <hi rend="italic">Scandinavia, </hi>saa var dermed dog kun beviist, at de <hi rend="italic">Fremmede </hi>ogsaa i gamle Dage gav <hi rend="italic">Norden </hi>urimelige Navne, hvorefter vi meget skal frabede os at see <hi rend="italic">det </hi>enten ganske eller tildeels föiet til <hi rend="italic">Tydskland.</hi></p>
+<p>At nu Tydskerne, der aldrig har ændset <hi rend="italic">Virkelighedens </hi>Protest mod deres höie <hi rend="italic">Ideer, </hi>langt mindre vil ændse min mod Indlemmelsen i det Tydske Forbund, som er en fix Ide hos dem fra Arildstid, finder jeg hoist rimeligt, men det er ogsaa <hi rend="italic">hun imod, </hi>ingenlunde <hi rend="italic">for </hi>Tydskerne, jeg skriver.</p>
+<p>I Sammenligning med denne store Erobrings-Plan er det kun Smaating, at Drapens Magiebarder (<hi rend="italic">Heaoobeardas) </hi>indkvarteres i Slesvig (<hi rend="italic">Hedeby), </hi>og at dens <hi rend="italic">Finland </hi>eller Jotunheim forlægges til <hi rend="italic">Frisland </hi>**), dels paa Grund af et mörkt Sted, og dels fordi der udtrykkelig staaer i <hi rend="italic">Vidsids-Maal, </hi>at <hi rend="italic">Finn </hi>regierede over <hi rend="italic">Friserne, </hi>og jeg vil i <hi rend="italic">den </hi>Anledning kun bemærke, at han, der har opskrevet Ramsen i <hi rend="italic">Vidsids-Maal</hi>, godt kan have læst og, ligesom Vedkommende, misforstaaet Bjovulfs- Drape ; men at, naar <hi rend="italic">Tydskerne </hi>endelig vil have <hi rend="italic">Finn </hi>og de slemme <hi rend="italic">magiebardiske </hi>Vikinger, som dog ikke spandt Silke hos os, har jeg intet videre derimod at indvende end den <hi rend="italic">Kiendsgierning</hi>, at Bjovulfs-Drapen endnu mindre end <hi rend="italic">Shakspears "</hi>Historier" duer</p>
+<p>*) Ilos <hi rend="italic">Kbl. </hi>v. 38 og 3370.</p>
+<p>**) Var ellers noget Steds Navn kiendeligt i Drapen, maatte "Fresvæle," v. 2133, vist blive det <hi rend="italic">Svenske Fyrresvold.</hi></p>
+<pb facs="1841_14_page0050.png"/>
+<fw type="pageNum">530</fw>
+<p>fil at give geografiske Oplysninger, da man efter den ei engang Lunde see, om Skuepladsen, <hi rend="italic">Danmark </hi>og <hi rend="italic">Gothland, l</hi>aae nærmest ved Syd- eller Nord-Polen. Naar vi kun hverken lader os beherske af dem eller efterligner dem, skader det heller ingenlunde, at de <hi rend="italic">Fremmede</hi>, der ikke hryde sig stort om <hi rend="italic">Poesien </hi>og <hi rend="italic">Historien </hi>i <hi rend="italic">Bjovulfs-Drape, </hi>kaste sig paa dens <hi rend="italic">Geografi, </hi>der er saa uudtömmelig som <hi rend="italic">"Feir-Marken" </hi>baade i det Höie og det Lave; thi derved bliver det herlige gamle Digt baade mere bekiendt og fra alle Sider bearbeidet, ligesom <hi rend="italic">Classikerne, </hi>hvoraf Philologernes Udbytte sædvanlig var ligesaa tarveligt som Hr. <hi rend="italic">Rembles </hi>af Bjovulfs-Drape. For Resten giver jeg Hr. <hi rend="italic">Ettmiiller, </hi>ventelig en <hi rend="italic">Schveitser, </hi>med Fornöielse det Vidnesbyrd, at han ikke blot har leet ad Drømmerierne om <hi rend="italic">Gothlands </hi>Overfart til <hi rend="italic">Angeln, </hi>men ogsaa viist megen Sands for Drapens poetiske Værd.</p>
+<p>Dog, dette horer egenlig til Drapens egen Historie, og skiöndt dens Oldtid endnu er indhyllet i det tykkeste Mörke, har den dog nu vundet sig en ganske lys lille Fortid og gaaer aabenbar en endnu lysere Fremtid imöde, saa dens Historie maa ogsaa skee sin Ret i Norden, enten saa de Fremmede vil ændse <hi rend="italic">den </hi>eller ikke.</p>
+<p>Den første Bog, hvori vi finde Drapen omtalt, er W<hi rend="italic">nleif`s </hi>Catalog over de Angelsaxiske Haandskrifter (som horer til <hi rend="italic">Hickes's </hi>Thesaurus), og det er under Mærket Vitellius A. XV. i den <hi rend="italic">Cottønske </hi>Samling *),</p>
+<p>*) Sir R<hi rend="italic">obert Bruce Cotton </hi>(1570-1631) og <hi rend="italic">Franciseus Junitis </hi>(1589-1677) var de eneste store Samlere paa Angelsaxiske Haandskrifter. <hi rend="italic">Junius </hi>skiænkede sine til det B<hi rend="italic">odleinnske </hi>Bibliothek i <hi rend="italic">Oxford, </hi>og hvad der af <hi rend="italic">Cotlons </hi>gik igiennem Ilden 1731 blev indlemmet i det <hi rend="italic">Brittiske Museum i London.</hi></p>
+<pb facs="1841_14_page0051.png"/>
+<fw type="pageNum">531</fw>
+<p>vi giöres opmærksomme paa en ypperlig poetisk Tractat (tractattus nobilissimus poetice scriptus) om <hi rend="italic">Skjoldungen Bjovulf </hi>og lians Krige med nogle <hi rend="italic">Svenske </hi>Nissekonger. Dette var AU hvad man vidste til længe efter den store Brand i det <hi rend="italic">Cottønske </hi>Museum 1731, saa, var Skindbogen ikke sluppet taalelig igiennem Luerne, hvis Spor den kiendelig nok bærer, da vilde Drapen vist aldrig blevet bekiendt; thi, hvor urimeligt det end maa findes, synes der ikke at være taget en eneste Afskrift.</p>
+<p>Det var forst <hi rend="italic">Islænderen Grim Johnsen Thorkelin </hi>(1752-1829), som fra sin lange Reise i Storbritannien og Irland (1786-91) hjembragte to Afskrifter, der vel endnu 1807, da <hi rend="italic">Thorkelins </hi>Bogsamling brændte, forfulgdes af den <hi rend="italic">Em/elske </hi>Ild, men findes dog uskadte paa det Kongelige Bibliothek i <hi rend="italic">Kiöbenhavn. </hi>Ved Hjelp af disse kom Drapen förste Gang for Lyset her 1815, paa Geheimeraad <hi rend="italic">Bülovs </hi>Bekostning, og skiondt det er sandt, at et skiödeslösere Aftryk af en gammel Text og en uefterretteligere saakaldt Oversættelse af et gammelt Digt maaske neppe vil findes i <hi rend="italic">England</hi>, saa er det dog<hi rend="italic"> </hi>ei mindre uhistorisk end ubilligt, at Hr, <hi rend="italic">Kemble </hi>foran sin Udgave vel bemærker det, men glemmer at tilföie, at baade rettede vi i <hi rend="italic">Danmark </hi>paa Timen de grove Feil, og leverede snart Studier til en ny Udgave, som de Fremmede vel kan tie med, men har hidtil hverken kunnet undvære eller ustraffet hæve sig over. Der gaaer nemlig Syn for Sagn i Anmærkningerne til min <hi rend="italic">Bjovulfs-Drape </hi>1820*), hvilke Hr. <hi rend="italic">Kemble </hi>vel ikke omtaler, men har dog i det mindste <hi rend="italic">een </hi>Gang havt for</p>
+<p>*) See Bjovulfs-Drape S. 209-312.</p>
+ 
+<pb facs="1841_14_page0052.png"/>
+<fw type="pageNum">532</fw>
+<p>Öie*), og skiöndt han i sin Fortale til <hi rend="italic">Udgaven </hi>fortier det, gaaer han dog foran <hi rend="italic">Oversættelsen </hi>til Bekiendelse, at han har havt vor store Sproggrandsker <hi rend="italic">Raske afrettede </hi>Exemplar af Drapen for sig **). Vel takker han ogsaa her kun bagvendt ved at nedsætte "Noterne," men hvem der kiendte <hi rend="italic">Rask, </hi>vil dog nok ligefuldt skrive Mr. <hi rend="italic">Kemble's </hi>Forbedringer af den Thorkelinske Text paa hans og Bommerterne paa Mr. <hi rend="italic">Kembles </hi>egen Regning. Denne Drapens <hi rend="italic">anden </hi>Udgave fra 1835 ***) viser allerede ved sit Aarstal, at <hi rend="italic">Engelskmændene </hi>ei var gridske paa Æren derfor, og mine engelske Reiser (1829-31) lærde mig tilgavns at kiende den Ligegyldighed, hvormed Angelsaxernes Landsmænd (Mr. <hi rend="italic">Kemble </hi>end <hi rend="italic">ikke </hi>undtaget) endnu dengang betragtede <hi rend="italic">Heltedigtet, </hi>saa det var aabenbar först ved min Trudsel, med Flid saa <hi rend="italic">tirrende </hi>som mueligt, om at udgive baade det og meget mere efter deres egne Haandskrifter ****), <hi rend="italic">at </hi>de, halv skamfulde og heel ærgerlige, <hi rend="italic">begyndte at </hi>trække nærmere. Dog, Ave er god for os al/e, naar den kommer itide, og <hi rend="italic">det </hi>skulde derfor været glemt, naar Mr, <hi rend="italic">Kemble </hi>ikke havde kroet sig saa saare, og dog, trods</p>
+<p>*) See Appendixet til hans Oversættelse ved v. 3832, hvor hau, efterat have ladet trykke uon cearbendum," siger rask "there can he no doubt that Grundtvig's suggestion oncerbendum is right."</p>
+<p>**) See Postscriptet <hi rend="italic">foran </hi>Oversættelsen S. LIl. ***) Allerede trykt 1833, men kun som for Venner. I <hi rend="italic">Conybeare's </hi>Illustrations of Anglosaxon Poetry 1826 er vel en lang Udsigt over <hi rend="italic">Drapen </hi>med Udtog, men kun til overflodigt Beviis paa hvor <hi rend="italic">mörk </hi>den var for dens bedste Kiendere.</p>
+<p>****) Bibliotheca Anglosaxonica. Prospectus and Proposals by N. F. S. Grundtvig. London 1831..</p>
+<pb facs="1841_14_page0053.png"/>
+<fw type="pageNum">533</fw>
+<p>gode Hjelpemidler, giort Arbeidet saa maadeligt; men nu, da saa er, da han baade i <hi rend="italic">England </hi>og <hi rend="italic">Tydskland </hi>giælder for et <hi rend="italic">Angelsaxisk </hi>Vidunder, og da Studiet er kommet saaledes i Gang, at det ei kan standse, nu kræver Historien sin Ret, men lader med det Samme gierne Mr. <hi rend="italic">Kemble </hi>vederfares <hi rend="italic">den </hi>Ret, at <hi rend="italic">Glossaret, </hi>hvormed <hi rend="italic">han </hi>har udstyret <hi rend="italic">Oversættelsen, </hi>er i det Hele <hi rend="italic">godt </hi>og vidner om langt mere Flid og Kundskab end baade Text og Oversættelse.</p>
+<p>At giennemgaae disse vilde derfor yde den dygtige Recensent en rig Höst ; men en saadan Dygtighed anvendtes vist nok meget bedre til at skiænke os en <hi rend="italic">tredie </hi>Udgave, der giorde saavel den Anden som <hi rend="italic">den </hi>Förste overflödig, og <hi rend="italic">den </hi>kunde jeg levere imorgen, naar jeg blot vidste, hvem der vilde betale den, og hvem der havde Taalmodighed Nok til at læse alle de Correcturer, som en Angelsaxisk Bog i vore Trykkerier udkræver. Hvor skiödeslöst imidlertid Correcturen ved den <hi rend="italic">anden </hi>Udgave er besörget, det fortæller Mr. <hi rend="italic">Kemble </hi>os selv saa skiödeslöst, at man forud kan vide, det gaaer endnu meget videre end Rettelserne bag <hi rend="italic">Oversættelsen </hi>vise, og at disse, saavelsom Glossaret, er smidt bag ved <hi rend="italic">Oversættelsen, </hi>er meer end skiödeslöst, thi nu maa man kiöbe <hi rend="italic">den </hi>med for at benytte Texten, og <hi rend="italic">halvandet Pund </hi>for en <hi rend="italic">maadelig </hi>Udgave af Drapen er unægtelig dyrt Madkiöb.</p>
+<p>I <hi rend="italic">Kiöbenhavn, </hi>hvor man finder en <hi rend="italic">Efterskrift </hi>af den gamle <hi rend="italic">Skindbog, </hi>da den var lidt mindre smuldret, burde derfor snart en Udgave besörges, der baade kunde sætte <hi rend="italic">Danmarks </hi>Forhold til Drapen i sit rette Lys, og være <hi rend="italic">let </hi>overkommelig i hele Norden, som vel ei kan prale af Heltedigtets Frembringelse, men er dog baade 
+<pb facs="1841_14_page0054.png"/>
+<fw type="pageNum">534</fw>
+<hi rend="italic">Moderskiödet </hi>for dets <hi rend="italic">Aand, Skuepladsen </hi>for dets <hi rend="italic">Begivenheder </hi>og Brændpunktet for dets Oplysning. Den <hi rend="italic">engelske </hi>Oversættelse, som til alle sine Smaasynder lægger den Store at være <hi rend="italic">ulæselig, </hi>kunde man da lade hvile i Fred, og allerede nu vil jeg lade Læseren selv slutte sig til, hvordan den <hi rend="italic">kan </hi>være, da Mr. K<hi rend="italic">emble </hi>har gjort Higelaks Dronning <hi rend="italic">Hygd </hi>til <hi rend="italic">Higelak </hi>selv efter forkortet Maalestok, og ovenikiöbet bragt ham <hi rend="italic">Offas </hi>Dronning paa Halsen<hi rend="italic">, </hi>har desuden slaaet <hi rend="italic">Hermod </hi>sammen med <hi rend="italic">Sigmund Volsung, </hi>som blev hans Eftermand paa Heltelisten *), sammenkoblet den stakkels Dronning <hi rend="italic">Hildeborg </hi>med Kong <hi rend="italic">Finn, </hi>som hun ikke kan udstaae **), og endelig uden al Barmhjertighed slaaet <hi rend="italic">Hengest </hi>ihiel for han kom til England ***). Hvor lidt nu end det Sidste ligner en Engelskmand af <hi rend="italic">Angelsaxisk </hi>Blod, saa har dog- Oversættelsen een Urimelighed, der kun kan findes hos en <hi rend="italic">Engelskmand, </hi>thi baade <hi rend="italic">Helten </hi>og de tolv <hi rend="italic">Skjalde </hi>ved hans Grav er for Löiers Skyld (eller maaske til Bod for Drabet paa <hi rend="italic">Hengest) </hi>gjort (il <hi rend="italic">Styk-Heste </hi>(beasts of war), saa jeg, der ogsaa har sunget ved Graven, slipper i Grunden naadig ved blot at rides tilvands ****;.</p>
+<p>*) Det Förste er alt opvist, og det Andet seer man ved at sammenligne v. 1795-1819 med Oversættelsen S. 38.</p>
+<p>**) Ogsaa foran opvist.</p>
+<p>***) See Udgaven S. 260 under Frisians," og den forvirrede Oversættelse S. 47.</p>
+<p>****) <hi rend="italic">Det </hi>er det uskyldige Adjectiv "liildc- deor" (Hildekiær at brav) som, fordi et Dyr ogsaa hedder "deor," skal giöre <hi rend="italic">Bjovulf </hi>og hans Skjalde til "easts of war," og det skiöndt den adjectiviske Form er umiskiendelig v. 8290 <hi rend="italic">og </hi>det til- svarende Pluralis v. 6333 ganske tydeligt. Det er den haarde Skæbne, mod hvilken man omsonst sig stræber at bevælne, maa vel baade Helten og Digteren sige!</p>
+<pb facs="1841_14_page0055.png"/>
+<fw type="pageNum">535</fw>
+<p>Naar jeg nu giver <hi rend="italic">Ettmüllers </hi>Tydske Oversættelse det Lov, at den hverken giör <hi rend="italic">Bjovulf </hi>til en <hi rend="italic">Stykhest, </hi>skiller <hi rend="italic">Higelak </hi>ved sin Kone, eller giver <hi rend="italic">Sigmund Volsung Hermod </hi>til Paahæng, da er det vist nok kun en tarvelig Roes, men det er dog allerede et Fortrin, der giver en god Formodning, og Læseren vil ikke finde den skuffet; thi vel kunde Hr. <hi rend="italic">Ettmüller </hi>sparet sin Uleilighed med Bogstav Rimene, der vist er spildt, men Oversættelsen er dog i det Hele tro og læselig *). Trættende falder det vel En af os at læse Saameget, der skal være Vers, og er det ikke, men de Tydske Læsere, formoder jeg, er ligesaa utrættelige som Forfatterne, og de mange forældede eller nybagte Ord, som standse og stode os, er maaske alt den Tydske Læseverden bekiendte.</p>
+<p>Saameget er altsaa vist, at <hi rend="italic">Bjovulfs-Drapen </hi>i det Nittende Aarhundrede er udkommet baade paa <hi rend="italic">Angelsaxisk, Dansk, Engelsk </hi>og <hi rend="italic">Tydsk, </hi>og har altsaa de bedste Udsigter til at blive bekiendt og berömt i hele den <hi rend="italic">Gothiske </hi>Læseverden; men naar og* hvordan den forst er kommet til Verden, og hvad den i sin Ungdom har fristet, det er en stor Hemmelighed; saa vi veed kun, at den, ligesom <hi rend="italic">Drage-Guldet, </hi>laae omtrent et <hi rend="italic">Tusindaar </hi>i Jordens Skiöd. <hi rend="italic">Skindbogen </hi>i det Brittiske Museum skal nemlig, efter Kienderes Skiön, være fra det <hi rend="italic">Niende </hi>Aarhundrede, og i Sammenligning med <hi rend="italic">Exeter- Bogen </hi>fra det <hi rend="italic">Ellevte </hi>seer den rigtig nok ud</p>
+<p>*) At ogsaa her <hi rend="italic">Hengest </hi>döer ubetimelig, <hi rend="italic">Hildeborg </hi>smides til <hi rend="italic">Finn og Ofl'as </hi>Dronning prakkes paa <hi rend="italic">Higelak, </hi>er jo rigtig nok sært; thi har Hr. E. virkelig ved <hi rend="italic">sit eget Lys </hi>undgaaet mange at' Mr. <hi rend="italic">Kembles </hi>Anstødsstene, hvorfor da ikke ogsaa. disse ?</p>
+<pb facs="1841_14_page0056.png"/>
+<fw type="pageNum">536</fw>
+<p>som en Pröve-Klud. Forfattet er <hi rend="italic">Drapen </hi>da vist ogsaa i Slutningen af det <hi rend="italic">Syvende </hi>eller Begyndelsen af det <hi rend="italic">Ottende </hi>Aarhundrede, og Nævnelsen af Kong <hi rend="italic">Offa </hi>giör hverken fra eller til, da der baade var adskillige Angelsachsiske Konger af det Navn, og Linierne om ham, der slet ikke har med Digters <hi rend="italic">Begivenheder </hi>at giöre, desuden Jet kunde være en senere Tilsætning. Allerede <hi rend="italic">Thorkelin </hi>meende vel, <hi rend="italic">at Angelsachserne havde </hi>bragt Drapen med sig fra Norden og kun siden gjort nogle <hi rend="italic">christelige </hi>Ændringer, og Mr. Ke<hi rend="italic">mble </hi>er af samme Mening, men det viser, blandt Andet, at Ingen af de Herrer har havt mindste Begreb om, hvilken Grad af Udvikling og Dannelse, der horer til at anlægge og udfore et saadant <hi rend="italic">Konstværk, </hi>der vel viser os Konsten hos Angelsachserne i dens Barndom, men forudsætter dog baade <hi rend="italic">Læse- </hi>og <hi rend="italic">Skrive-Konsten. </hi>Man synes overhovedet at sammenblande to ganske forskiellige Spörgsmaal, <hi rend="italic">det </hi>Ene om de enkelte <hi rend="italic">Sagns </hi>og det andet om hele <hi rend="italic">Drapens </hi>Alder, thi at Angelsachserne har fort alle Sagnene om Norden med sig i en eller anden Sang eller Saga-Form, det fölger vel af sig selv, men at det forst var i <hi rend="italic">Kædmunds </hi>og <hi rend="italic">Oldhjelms </hi>(Aldhelms) Dage, en Hovedskjald med boglig Dannelse enten kunde faae isinde eller mægte at forbinde <hi rend="italic">dem </hi>til et saadant Heltedigt, som vi har for os, det fölger endnu langt vissere af de menneskelige Natur-Love og Forholdet mellem Aarsag og Virkning. Naar derfor Hr. <hi rend="italic">Ettmüller </hi>tænker, at Sporene af <hi rend="italic">Bibel-Kundskab </hi>og den ordrige Udmaling er fra en senere Haand, da tager han mærkelig feil, thi vi maatte vente endnu mere af <hi rend="italic">begge </hi>Dele fra den <hi rend="italic">förste </hi>Haand, der var saadant et Arbeide voxen, som maatte regnes mellem Verdens 
+<pb facs="1841_14_page0057.png"/>
+<fw type="pageNum">537</fw>
+Underværker, hvis det ikke var en meget forklarlig Deel af det store <hi rend="italic">Angelsaxiske Underværk</hi>, hvorved <hi rend="italic">Tydskland </hi>og <hi rend="italic">Norden </hi>indlemmedes i <hi rend="italic">Christenheden, </hi>og den Gamle Verdens Literatur fik en Medbeller i den Ny, som den allerede (naar man undtager <hi rend="italic">Bibelen) </hi>har ondt nok ved at maale sig med. Dette Underværk, der, ligesom <hi rend="italic">Bjovulfs-Drapen, </hi>har ligget skjult i mange Aar" hundreder, vil den nu bringe for Lyset, og det giver den <hi rend="italic">verdenshistorisk </hi>Betydning, som <hi rend="italic">Blomsten </hi>af den ny <hi rend="italic">Tydsk-Nordiske </hi>Udvikling og boglige Konst, for hvilken <hi rend="italic">Angelsaxerne </hi>baade som <hi rend="italic">Prædikanter </hi>og <hi rend="italic">Skribenter </hi>staae i Spidsen.</p>
+<p>Naar man endelig forundrer sig over, at der i andre Angelsachsiske eller Gammel-Engelske Bøger ei findes et Ord om et saadant Mester-Stykke i sin Tid, som <hi rend="italic">Bjovulfs-Drapen</hi>, da skulde man hellere forundre sig over, at England lige til nu har været blind for hele den <hi rend="italic">Angelsachsiske Storhed, </hi>thi i Sammenligning hermed er Tausheden om <hi rend="italic">Bjovulfs-Drapen </hi>ingen Ting i et Land, hvor selv <hi rend="italic">Shakspear </hi>alt i Löbet af et Aarhundrede syntes glemt, og maa takke Fastlandets Ophöielse for det meste af den Hylding, der nu times ham i Hjemmet. For Resten kan <hi rend="italic">Bjovulfs-Drape </hi>meget godt have været den <hi rend="italic">Angelsaxiske </hi>Versebog, Kong <hi rend="italic">Alfreds </hi>Moder, efter <hi rend="italic">Assers </hi>Vidnesbyrd, lokkede ham til Læsning med, thi ogsaa dertil er den endnu særdeles skikket*).</p>
+<p>Til Slutning maa jeg bede mine Nordiske Læsere ei at forarge sig over den <hi rend="italic">Selvroes, </hi>der synes at gaae giennem hele denne Udsigt over Bjovulfs Drape, thi</p>
+<p>*) Min Haandbog i Verdenshistorien, II, 218.</p>
+<pb facs="1841_14_page0058.png"/>
+<fw type="pageNum">538</fw>
+<p>uden at ville giöre mig reen, kan man troe, jeg veed godt, <hi rend="italic">Personen </hi>vinder aldrig ved Sligt, men efter modent Overlæg har jeg fundet, at, som <hi rend="italic">Nordens </hi>eneste Bekiondte <hi rend="italic">Angelsaxer </hi>for Öieblikket, burde jeg hævde Nordens Anskuelse og Fortjeneste af det Nordiske Heltedigt At nu min Person for en Deel er Part i Sagen, giör det vist nok baade vanskeligt om ei umuligt at være upartisk, og giör <hi rend="italic">det let </hi>for <hi rend="italic">de Fremmede </hi>at vække Mistanke om Rigtigheden, men har jeg forivret eller forlöbet mig af Egenkiærlighed, da bliver baade Skammen og Skaden min egen, medens det altid er baade en Ære og en Vinding for Norden, at de Fremmede finde kraftig Modstand, naar de opkaste sig til Dommere over Nordiske Forhold, som de ikke kiende, og Værkerne af <hi rend="italic">Nordens Aand, </hi>som de ikke forstaae.</p>
+<p><hi rend="align(right)">N. F. <hi rend="italic">S. </hi>Grundtvig.</hi></p>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

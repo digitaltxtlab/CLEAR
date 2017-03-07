@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Dansk Kirketidende.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-26"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="002"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1863">1863</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1863_2_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">1863.  No. 22.<lb/>Dansk Kirketidende.</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<docImprint>
+				<pubPlace></pubPlace>Pintse Søndag den 24de Mai.<lb/>
+<fw type="graphic"/>
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<p>Indhold: N. F. <hi rend="spaced">Grundtvig</hi>: Guds-Ordet til os. - Lys-Ordet og Livs-Ordet i Vorherre Jesu Christi
+Menighed. - N. <hi rend="spaced">Lindberg</hi>: Spørgsmaal. -Roeskilde Præstekonvent. - Bognyt. - Udnævnelser,
+Entledigelse og ledige Embeder.</p>
+<fw type="graphic"/>
+</div>
+<div>
+<head>Guds-Ordet til os.</head>
+<fw type="graphic"/>
+<lg>
+<l>Kun ved Badet og ved Bordet</l>
+<l>Hører vi <hi rend="spaced">Guds Ord</hi> til os,</l>
+<l>Evig dog vi med Livs-Ordet</l>
+<l>Synd og Død kan byde Trods,</l>
+<l>Thi med Ordet Aanden følger,</l>
+<l>I Guds-Resten Livet bølger</l>
+<l>Reent og helligt, soleklart!</l>
+</lg>
+<lg>
+<l><hi rend="spaced">Jesus</hi> Christus, Himlens Taler,</l>
+<l>Selv det evige Guds-Ord,</l>
+<l>I sit Munds-Ord til os daler</l>
+<l>Ved sit Bad og ved sit Bord;</l>
+<l>Staaer vor Hjertegrund ham aaben.</l>
+<l>Salighedens Sæd ved Daaben</l>
+<l>Hestes ind til Herrens Bord!</l>
+</lg>
+<lg>
+<l>Han, vor Frelsermand alene,</l>
+<l>Vidner klart, med os i Pagt.</l>
+<l>Ved mit Ord I er nu rene;</l>
+<l>Daabens Ord <hi rend="spaced">til eder</hi> sagt!</l>
+<l>Daabens Ord det er Vand-Badet,</l>
+<l>Herrens Mund er Døbefadet,</l>
+<l>Aanden er i Herrens Rest!</l>
+</lg>
+<lg>
+<l>Fader-Ordet, Livets Fyrste,</l>
+<l>Siger <hi rend="spaced">til</hi> os ved sit Bord:</l>
+<l>Som I hungre, som I tørste.</l>
+<l>Aand og Liv er mine Ord:</l>
+<l>Aanden er i Christus-Brødet,</l>
+<l>Livet er i Christus-Kiødet,</l>
+<l>Ordets Aand og Ordets Liv!</l>
+</lg>
+<lg>
+<l>Saligt derfor hvert et Øre,</l>
+<l>Siger Herren sandelig,</l>
+<l>Som Livs-Ordets Rest kan høre,</l>
+<l>Hører Ordet <hi rend="spaced">talt til</hi> sig!</l>
+<l>Saligt Hjertet, som kan giemme,</l>
+<l>Livets Rest og Himlens Stemme,</l>
+<l>Kiærlighedens Frø og Frugt!</l>
+</lg>
+<lg>
+<l>Troens Ord i Aands-Udraabet</l>
+<l>Det er Kiærlighedens Frø,</l>
+<l>Kiærlighedens Blomst er Haabet</l>
+<l>Om det Liv, som ei kan døe;</l>
+<l>Kiærlighedens Frugt i <hi rend="spaced">Eden</hi></l>
+<l>Livet er i Kiærligheden,</l>
+<l>Evigt Liv i Fællesskab!</l>
+</lg>
+<lg>
+<l>Saa <hi rend="spaced">til</hi> os med Ordet kommer</l>
+<l>Lys og Liv fra Herrens Mund,</l>
+<l>Jordens Vaar og Himlens Sommer,</l>
+<l>Alt paa Kiærlighedens Grund,</l>
+<l>Paa den Grund fra Synd vi tvættes,</l>
+<l>Paa den Grund med Liv vi mættes,</l>
+<l>I Vorherres Jesu Navn!</l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

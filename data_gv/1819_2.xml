@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Til Bernard Ingemann</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-20"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="002"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1819">1819</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1819_2_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Til Bernard Ingemann</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<head>3. Til Bernhard Ingemann</head>
+<head>som "de sorte Ridderes" Skjald.</head>
+<head>(Med "Saxos Danmarks Krønike" 1818.)</head>
+<fw type="graphic"/>
+<lg>
+<l>Her kommer Thorkild Dane</l>
+<l>Med Skaren, du har meldt,</l>
+<l>For paa hans Helte-Bane</l>
+<l>At følge Viduvelt.</l>
+<l>Jeg smedded, som jeg kunde,</l>
+<l>Dem Sværd af Saga-Malm,</l>
+<l>Jeg skiæfted nogenlunde</l>
+<l>De gamle Spyd med Alm,</l>
+<l>Jeg stræbte paa det Bedste</l>
+<l>At blanke Hjelm og Skjold,</l>
+</lg> 
+<pb facs="1819_2_page0002.png"/>
+<fw type="pageNum">43</fw>
+<lg>
+<l>Jeg udtog Rytter-Heste</l>
+<l>Af Syvs og Laales Fold.</l>
+<l>En Hvirvel jeg paa Trommen</l>
+<l>Med mine Stikker slaaer</l>
+<l>For Kæmpe-Alderdommen</l>
+<l>Med Retfærds Sølver-Haar.</l>
+<l>Ei har til Ridder-Kapper</l>
+<l>Jeg Tøi, som kan forslaae,</l>
+<l>Og sammenstukne Lapper</l>
+<l>Maae hele Mænd forsmaae;</l>
+<l>Ei Guld og grønne Skove</l>
+<l>Jeg har til Mai og Meer;</l>
+<l>Til Hjelmens Busk for vove</l>
+<l>Er mine Penne-Fjer.</l>
+<l>Til Anskrig fik jeg Bringe,</l>
+<l>Men intet Bryst til Sang;</l>
+<l>En Klokke kan jeg ringe,</l>
+<l>Men Luth ei give Klang.</l>
+</lg>
+<lg>
+<l>Oplad da Giemmer dine</l>
+<l>For Danmarks bedste Kuld!</l>
+<l>Giv <hi rend="italic">du </hi>dem Kapper fine</l>
+<l>Med Kors af reden Guld!</l>
+<l>Giv <hi rend="italic">du </hi>dem Fugle-Fjere,</l>
+<l>Som vaie kan i Sky!</l>
+<l>Giv <hi rend="italic">du </hi>dem Mai og Mere,</l>
+<l>Som groer i Bøge-Ly!</l>
+<l>O, mød dem under Lide</l>
+<l>Med liflig Sang og Klang!</l>
+<l>Da vil de Sommer ride</l>
+<l>Ad By i Dane-Vang.</l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

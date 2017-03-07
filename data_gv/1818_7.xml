@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Erklæring.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2009-10-28"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="007"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1818">1818</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1818_7_page0001.png"/>
+			<fw type="pageNum">1725</fw>
+				<docTitle>
+	<titlePart type="main">Erklæring.</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+	<docEdition></docEdition>
+	<docImprint>
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<pb facs="1818_7_page0001.png"/>
+<fw type="pageNum">1725</fw>
+<p><hi rend="initial">V</hi>el kun jeg neppe troe, at Tylvten for Alvor venter noget Svar af. en Mand, hvis bekiendte Mening det er, at den har, indtil Videre, udelukt sig selv af den <hi rend="spaced">historift</hi>"danske Literatur, og hvis ligesaa bekjendte Tro det er, at før den Danske Histories Domstol vil Tylvtens Ord, saavel naar det gaaer i Stykker, som naar det løber ud i Eet, tiendes <hi rend="spaced">dødt og magtesløst </hi>at vere re. For imidlertid, om mueligt, at forekomme flere unyttige spørgsmaal, erklærer jeg herved igien, at jeg anseer Tylvten med alt hvad den indeholder før et saadant Nul i den Danske Literatur, at jeg kun i en Kamp mod det Udanske i Danmarks Historie kun andse den, som et Nul, der blot af Tallet, det hjelper til at udtrykke, faaer en vis Betydning.</p>
+<p>Desaarsag kun Tylvten, for min Skyld, <hi rend="spaced">trøstig </hi>gjøre sig saa lystig over min Skrift, som den behager, og <hi rend="spaced">kun som Dannemand </hi>veder jeg Enhver sig i Danmark opholdende at forskaane mig for den Ubehagelighed at forsvare mit borgerlige gode Navn og Rygte!</p>
+<p>Til overflødig Underretning tjener, at om ogsaa <hi rend="spaced">Lammeskinds-Krøniken i alle Universiteters </hi>Øine var ligesaa foragtelig en Ting, som den maa ansees før at være i Tylvtens, skulde den dog i mine beholde den Vigtighed, at jeg ei afbrød mit Arbeids derpaa uden høi Nødvendighed, endsige da før saadanne Spørgsmaals Skyld, hvoraf een Daare kun giøre fleer i en Time, end syv Vise kunde paatage sig i hele ti Aar at besvære, selv om de havde Brev paa at beholde Samlingen saalænge. 23de Decbr. 1818.</p>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

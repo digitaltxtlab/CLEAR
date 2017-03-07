@@ -1,0 +1,5255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Kirke-Psalmer</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2009-11-25"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="002"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1845">1845</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1845_2_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Kirke-Psalmer<lb/>udgivne><lb/>til</titlePart>
+	<titlePart type="sub">Prøve<lb/>Kjøbenhavns geistlige Convents<lb/>Psalme-Comitee.</titlePart>
+</docTitle>
+<byline><lb/>
+	<docAuthor></docAuthor>
+				</byline>
+				<fw type="graphic"/>
+				<epigraph>
+				</epigraph>
+				<docEdition>Andet Oplag.</docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace>Kjøbenhavn.</pubPlace>.<lb/>C. U. Reitzels Forlag.<lb/>Trykt hos Kgl. Hofbogtrykker Bianco Luno.<lb/>
+<fw type="graphic"/>
+<docDate>1848</docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<pb facs="1845_2_page0001.png"/>
+<fw type="pageNum"></fw> 
+<pb facs="1845_2_page0002.png"/>
+<fw type="pageNum"></fw>
+</div>
+<div>
+<head>Indhold.</head>
+<p>Daab og Confirmation		2.</p>
+<p>Skriftemaal og Altergang 	 ..	14.</p>
+<p>Præstevielse		28.</p>
+<p>Brudevielse		33.</p>
+<p>Berettelse og Ligbegængelse		39.</p>
+<p>Julehøitiden		60.</p>
+<p>Paaskehøitiden			79.</p>
+<p>Pindsehøitiden	 		95.</p>
+<fw type="graphic"/>
+</div>
+<div> 
+<pb facs="1845_2_page0003.png"/>
+<fw type="pageNum"></fw>
+<head>Forord.</head>
+<fw type="graphic"/>
+<p><hi rend="initial">K</hi>jøbenhavns geistlige Convent har overdraget os undertegnede at Sammentræde i en Comite for at tilveiebringe en „<hi rend="initial">kirkelig og folkelig Psalmebog</hi> . Vi forelægge herved Conventet en Prøve af vort Arbeide og samtidigen hermed lade vi den med Conventets Samtykke udgaae i en videre Kreds.</p>
+<p>Det var vor Hensigt med dette Prøvehæfte at anskueliggjøre de <hi rend="spaced">Principer</hi>, som vi erkjende for de ledende saavel i <hi rend="spaced">Valget</hi> som i <hi rend="spaced">Bearbeidelsen</hi> af Psalmer til en ny Kirke-Psalmebog. Skulde disse fuldstændige« afspejle sig i en Prøve, maatte denne nødvendig give en, om end kun relativ, Totalitet. De kirkelige Handlinger og Høitider danne et saadant mindre Hele, og de Psalmer, som henhøre til dem, ere i flere Henseender bedst flikkede til at give et tro Billede af hvad vi tilsigte. Dette er, som vi ovenfor have sagt, hvad vi have sor Die med denne Prøve, der naturligviis i Enkeltheder vil kunne modtage Forandringer.</p>
+<p>Til nærmere Forstaaelse af vore Principer ville vi nu i Korthed fremsætte Følgende. Psalmebogen skulde være til kirkeligt Brug; det var derfor de egentlige <hi rend="spaced">Kirke-Psalmer</hi>, som fornemmelig maatte komme i Betragtning, saadanne nemlig, i hvilke Menighedens Forsamling finder det almindelige Udtryk for 
+<pb facs="1845_2_page0004.png"/>
+<fw type="pageNum">IV</fw>
+sit fælleds Troesliv. Vi besidde flere fortrinlige Psalme - Samlinger for den private Andagt, og Enhver vil deri kunne sinde, hvad der i reen subjectiv Henseende tilfredsstiller ham bedst. Dog følger det af den paatænkte Psalmebogs kirkelige Charakteer, at den tager tilbørligt Hensyn til den objective og nødvendige Forbindelse, i hvilken Kirken træder saavel til Huuslivet som til Skolen, og der vil ogsaa i nærværende Samling gives Psalmer til Kirke-Katechisation, Brudevielse i Huset og Berettelse. Efter det anførte Princip henvendte vi først vor Opmærksomhed paa de Psalmer, som ere eller have været i Brug ved den kirkelige Gudstjeneste. Psalmebogen faaer derved den <hi rend="spaced">historiske Charakteer</hi>, som hører væsentlig med til dens Begreb. Hvad Ringeagt for dette Princip maa føre til, beviser den evangeliskchristelige Psalmebog tilstrækkelig. Vi maae her fremhæve, at det netop i nærværende Tidspunct er af Vigtighed at gjøre dette historiske Hensyn gjældende, inden Traditionens levende Kjæde brydes. Thi endnu have vi Flere tilbage af den ældre Slægt, som ere opvoxede med de gamle Psalmer og kunne aflægge Vidnesbyrd om dem fra den Tid, da de ret kjendtes og elskedes. Vi lagde altsaa nærmest de ældre danske Kirke - Psalmebøger til Grund, og hvad der i disse har været og tildeels endnu er fortrinlig yndet og benyttet, maatte vi nødvendig tilkjende en berettiget Adkomst til at optages, om end ikke i aldeles uforandret Skikkelse. Medens vi alene af dette historiske Hensyn have anseet og forpligtede til at optage adskillige af de ældre Kirke-Psalmer, som vi ellers ikke 
+<pb facs="1845_2_page0005.png"/>
+<fw type="pageNum">V</fw>
+vilde have valgt, forholder det sig anderledes med de nyere. Valget af dem kunde kun bestemmes af Hensyn til Psalmens eget Værd, og Erfaring maa nu vise, hvorvidt vi have truffet det Rette. De ere valgte af flere danske Samlinger fra ældre og nyere Tid. At en Forfatter maa komme desto mere i Betragtning, jo kirkeligere han er, Hænger paa det nøieste sammen med vort Princip, der fordrer noget ganske Andet end blot en Anthologie af Psalmer, skjøndt forskjellige Toner her komme til at lyde,</p>
+<p>Psalmebogen hviler paa den christeligkirkelige Grund, og dermed er dens almindelige <hi rend="spaced">dogmatiske Charakteer</hi> angiven. Hvad der indenfor denne Omkreds har formaaet at gjøre sig gjældende som en almindeligere Skikkelse af det christelige Troesliv, vil som en Følge af vort historiske Princip ogsaa her blive repræsenteret, Vi opgive intet Øieblik den Sætning, at Psalmen er kun for Troen; men derfor ville vi heller ikke fratage Nogen hans virkelige Ret til ogsaa i Kirke-Psalmebogen at sinde et udtryk for den Typus af den christelige Fromhed, af hvilken han især føler sig tiltalt. Dommer derfor Nogen om en Psalme, at den er fvrældet, da erindre han, at de christelige Synspuncter, som i den historiske Udvikling successivt have afløst hverandre, endnu i Nærværelsen staae som levende Skikkelser ved Siden af hinanden. Det vil saaledes ikke være vanskeligt at eftervise for Tiden i den danske Kirke de forskjellige Retninger, som i Forhold til hvad der iøvrigt er dem eiendommeligt, ville foretrække enten den kingoske eller den brorsønske eller den 
+<pb facs="1845_2_page0006.png"/>
+<fw type="pageNum">VI</fw>
+evangelisk - christelige Psalmetone, skjøndt disse i Tiden fulgte paa hinanden, og i en vis Forstand den foregaaende er bleven afløst af den efterfølgende.</p>
+<p>Vi ville nu angive de Principer, der ere fulgte ved <hi rend="spaced">Bearbeidelsen</hi> saavel af ældre som nyere Psalmer; men først maae vi vedkiende os den Overbeviisning, at selv de bedste Principer baade for Valget af nye og Bearbeidelse og Rettelse af gamle Psalmer ville ikke føre til noget tilfredsstillende Resultat, uden en Psalmedigter, som kan og vil paatage sig og udfore, hvad kun Digteren kan gjøre. De af vore tidligere Psalmer, som ere Oversættelser, trængte alle til at sammenholdes med Originalerne, og Resultatet blev i de fleste Tilfælde, at en ny Oversættelse var nødvendig. I de ældre originale danske Psalmer var det især Enkeltheder i Indhold og Form, som maatte forandres; men under alle disse Forandringer, saavel i det Større som i det Mindre, har det været Comiteens eenstemmigt anerkjendte Grundsætning at beholde det Gamle overalt, hvor det lod sig gjøre, og at det Nye burde svare til enhver Forfatters Ejendommelighed , saavidt det kunde naaes. Der var et dobbelt Hensyn, som gav denne Deel af Arbeidet en særegen Vanskelighed; thi for det Første skalde de ældre Psalmer <hi rend="spaced">bevares</hi>, nemlig for dem, der allerede tjende dem og have dem kjær; og den Omstændighed, at der endnu ere Menigheder, som bruge de gamle Psalmebøger, paabød desto større Vaersomhed i Forandringer, sor at vi ikke skulde tage istedenfor at give; men paa den anden Side skulde de ældre. 
+<pb facs="1845_2_page0007.png"/>
+<fw type="pageNum">VII</fw>
+Psalmer ogsaa <hi rend="spaced">indføres</hi>, nemlig hos alle dem, der først nu skulle lære at skatte den Rigdom, vi eie i dem, og vi stræbte derfor, saavidt det stod i vor Magt, at borttage, hvad der i Almindelighed vilde være til Anstød. Vi haabe, at det skal erkjendes, at vi ikke have tilsidesat det æsthetiske Hensyn; vi indlemme det al den Gyldighed, der kan tilkomme det ved et Arbeide som det nærværende; men det kan og skal ikke her være det eneste, og dem, der muligen ville anlægge det som den høieste Maalestok for en Psalmebog, minde vi om Herders Udsagn, at Guds Kirke lægger uendelig større Vægt paa Læren, Ordet og Bekjendelsen end paa smukke Vers, og at ingen Christenmenighed kommer sammen for at Sve sig i Poesie, men for at tjene Gud. Vi baade ønskede og arbeidede for, at der ogsaa med Hensyn til Formen maatte være saa lidt ufuldkomment som muligt. Meget vil af ukyndige holdes derfor, skjøndt det ikke er det; men hvad der af Sagkyndige maatte ansees for at være det, haabe vi dog ikke vil kunne henregnes til det Gjennemgribende og Væsentlige; thi hvor vanskeligt det end undertiden har været for Comiteen at enes om Enkeltheder, saa ere vi dog i det Hele aldeles enige, og vi have fulgt det Princip, saavel ved ældre som ved nyere Psalmer, at bevare Psalmens poetiske Eiendommelighed, medens vi søgte at udslette det Tilfældige og reent Particulære. Jøvrigt er det vor Overbeviisning, at ville vi ikke have en ny Psalmebog, førend vi kunne faae en saadan, som i enhver Henseende realiserer Idealet, ville vi aldrig faae den. Med Rettelser i 
+<pb facs="1845_2_page0008.png"/>
+<fw type="pageNum">VIII</fw>
+Enkeltheder kan man gaae i det Uendelige, og Ingen vil nægte os, at Meget tilsidst lommer til at beroe paa et aldeles subjectivt Skjøn. Vi holde os forvissede om, at for Enhver, som bruger disse Psalmer til Andagt og Opbyggelse, vil det Fremmede tabe sig i Forhold til som Fortroligheden med Psalmerne voxer. Men uden den oplader Psalmen ikke sit Indre sor Nogen. De Forandringer, vi have tilladt os med nulevende Forfatteres Arbeider, ville maaskee ikke altid vinde deres Bifald; men Intet skal være os tjærere, end at modtage saadanne Rettelser, som svare til vort Øiemed, fra Forfatternes egen Haand, ligesom det er en Selvfølge, hvis Nogen hellere ønsker, at hans Psalmer udelades end modtage de Forandringer, vi ansee for nødvendige, behøve vi kun at underrettes derom, for at det skal skee.</p>
+<p>Den musikalske Deel af vort Arbeide har Hr. Organist Berggreen godhedsfuldt lovet at ville besørge i sin Tid. Ikke alle Psalmedigtere have forstaaet at vælge Melodier, som svarede til Psalmens Indhold. Dette Misforhold have vi Lofte om at saae rettet ved hans sagkyndige Medvirkning, ligesom ogsaa at faae Melodier, isærdeleshed saadanne, som allerede ere i Kirken, til de Psalmer, der her endnu ikke angive nogen.</p>
+<p>Maatte nu denne Prøve være en virkelig Begyndelse til den nye Psalmebog!</p>
+<p>I Julen 1844.</p>
+<p>I. H. Paulli. N. F. S. Grundtvig.</p>
+<p>H. Martensen. G. B. Kolthoff.</p>
+<p>P. I. Spang.</p>
+<fw type="graphic"/>
+</div>
+<div> 
+<pb facs="1845_2_page0009.png"/>
+<fw type="pageNum"></fw>
+<p><hi rend="align(center)">(620.1</hi></p>
+<lg>
+<l><hi rend="initial">G</hi>iv mist, Gud, en Psalme-Tunge,</l>
+<l>Saa for Dig jeg ret kan sjunge,</l>
+<l>høit og lydelig,</l>
+<l>Saa jeg fole kan med Glæde,</l>
+<l>Sødt det er om Dig at kvæde,</l>
+<l>Uden Skrømt og Svig!</l>
+</lg>
+<lg>
+<l>2. Himlene din Glands forkynde,</l>
+<l>Lad hver Morgen mig begynde</l>
+<l>Dagen med din Priis,</l>
+<l>Og naar Aften-Klokken ringer,</l>
+<l>Lad min Sang paa Lærke-Vinger</l>
+<l>Stige ligerviis!</l>
+</lg>
+<p><hi rend="align(center)">(621.)</hi></p>
+<lg>
+<l><hi rend="initial">H</hi>yggelig, rolig,</l>
+<l>Gud, er din Bolig,</l>
+<l>Inderlig skien!</l>
+<l>O, hvor mit Hjerte</l>
+<l>Længes med Smerte,</l>
+<l>Sutler iløn.</l>
+</lg>
+<lg>
+<l>Efter at giæste din Helligdom prud,</l>
+<l>Efter at boe hos den levende Gud!</l>
+</lg>
+<lg>
+<l>2. Tusinde Degne,</l>
+<l>Verdslige, søgne.</l>
+<l>Gyldne for Kied,</l>
+<l>Kan de vel ligne</l>
+<l>Len Dag af Øine,</l>
+<l>Som vi dem nød,</l>
+</lg>
+<lg>
+<l>Naar under Sang, med det vingede Ord,</l>
+<l>Sjælen afby over Stjernerne foer!</l>
+</lg> 
+<pb facs="1845_2_page0010.png"/>
+<fw type="pageNum">2</fw>
+</div>
+<div>
+<head>Daab og Confirmation.</head>
+<p><hi rend="align(center)">1. (622.)</hi></p>
+<lg>
+<l><hi rend="initial">E</hi>nhver, som troer og bliver døbt,</l>
+<l>Skal vist og salig blive,</l>
+<l>Thi dem har Jesus dyrekiøbt,</l>
+<l>Vil dem i sig indlive,</l>
+<l>Og blandt Gud-Faders Børnetal,</l>
+<l>I Livets Bog, som giælde skal,</l>
+<l>Med Rosensblod indskrive.</l>
+</lg>
+<lg>
+<l>2. Derfor vi alle hjertelig</l>
+<l>Vorherre Tak vil sige,</l>
+<l>Og bede ham saa mindelig:</l>
+<l>O Jesus! lad os stige</l>
+<l>Ved Daabens Kraft i Dyder frem,</l>
+<l>Og sor os saa ved Troen hjem</l>
+<l>Til Dig i Ærens Rige!</l>
+</lg>
+<p><hi rend="align(center)">2. (623.)</hi></p>
+<p><hi rend="align(center)">Mel. Jeg vil Din Priis udsjunge.</hi></p>
+<lg>
+<l><hi rend="initial">M</hi>ig lyster nu at træde</l>
+<l>Hen ned til Jordans Flod,</l>
+<l>Og bade mig med Glæde</l>
+<l>Hvor Herrens Fedder stod,</l>
+<l>At see det store Haab,</l>
+<l>Den Naade, Gud har skiftet,</l>
+<l>Den Pagt, som Han har stiftet</l>
+<l>Med mig udi min Daab.</l>
+</lg>
+<lg>
+<l>2. Der Himmelen staaer aaben,</l>
+<l>Og Faderen i Løn</l>
+<l>Forkynder over Daaben:</l>
+<l>Du er min kiære Son,</l>
+<l>Jeg fødte dig idag)</l>
+<l>Og der fra Himlens Bue</l>
+<l>Neddaler som en Due</l>
+<l>Guds Aand med Velbehag.</l>
+</lg> 
+<pb facs="1845_2_page0011.png"/>
+<fw type="pageNum">3</fw>
+<lg>
+<l>3. Sig vilde Herren bade</l>
+<l>I Jordans blanke Flod,</l>
+<l>For os at efterlade</l>
+<l>Den Kraft, som giver Bod;</l>
+<l>As Vand med Aand og Ord</l>
+<l>Et Sjælebad han skabde,</l>
+<l>Som tvætter de Fortabte</l>
+<l>Til Giæster ved Guds Bord.</l>
+</lg>
+<lg>
+<l>1. Saa er vi da Guds Poder,</l>
+<l>I Jesus ympet ind,</l>
+<l>Hans Kirke er vor Moder,</l>
+<l>Hans Aand vor Trost i Sind,</l>
+<l>Paa Herrens Bøn vor Daab</l>
+<l>Os Himlen sial oplukke,</l>
+<l>Til Frydesang for Sukke,</l>
+<l>Det er vor Tro og Haab!</l>
+</lg>
+<p><hi rend="align(center)">3. (624.)</hi></p>
+<p><hi rend="align(center)">Mel. Frygt mit Barn den sande Gud.</hi></p>
+<lg>
+<l><hi rend="initial">O</hi>ver Vandet Herrens Rost</l>
+<l>Til os lyder end fra Øst,</l>
+<l>Herrens Rost sor Aandens Sands,</l>
+<l>Thi vor Kirkedaab er hans;</l>
+<l>Stiftet har han, saa det staaer,</l>
+<l>Og for ham er tusind Aar</l>
+<l>Ikkun som den Dag igaar.</l>
+</lg>
+<lg>
+<l>2. Da han gik til Fader sin,</l>
+<l>Sagde han: al Magt er min,</l>
+<l>Derfor, mine Sendebud,</l>
+<l>Gaaer nu i al Verden ud!</l>
+<l>Christner, døber paa min Haand!</l>
+<l>Nævner til mit Samfunds-Baand</l>
+<l>Fader, Son og Hellig-Aand!</l>
+</lg>
+<lg>
+<l>3. Lærer alle dem, som troe,</l>
+<l>Alt at lade frit beroe</l>
+</lg> 
+<pb facs="1845_2_page0012.png"/>
+<fw type="pageNum">4</fw>
+<lg>
+<l>Paa mit Ord og paa mit Bud!</l>
+<l>Vare skal de Verden ud.</l>
+<l>De, som holde fast mit Ord,</l>
+<l>De har hjemme hvor jeg boer,</l>
+<l>De skal gaae i mine Spor.</l>
+</lg>
+<lg>
+<l>4. Derpaa op han foer i Sky,</l>
+<l>Rundt om Land gik Pagten ny,</l>
+<l>Altid følger med sin Daab</l>
+<l>Han, som Herlighedens Haab;</l>
+<l>Deilige er Jesu Spor,</l>
+<l>I det Høie han opfoer,</l>
+<l>Følger efter. Folk paa Jord!</l>
+</lg>
+<p><hi rend="align(center)">4. (625.)</hi></p>
+<p><hi rend="align(center)">Mel. Frygt mit Barn den sande Gud.</hi></p>
+<lg>
+<l><hi rend="initial">K</hi>ommer hid kun med de Smaa,</l>
+<l>Som ei Godt og Ondt forstaae,</l>
+<l>I hvis Mund ei sindes Svig!</l>
+<l>Just til dem er Himmerig:</l>
+<l>Deres Sjæl er i Guds Haand,</l>
+<l>De bedrøve ei Hans Aand,</l>
+<l>Laste ei Hans Ledebaand!</l>
+</lg>
+<lg>
+<l>2. Født af Kiedet er dog Kied,</l>
+<l>Frugt af Synd og Sæd til Død,</l>
+<l>Fodsel kun af Vand og Aand</l>
+<l>Løser Synds og Dødens Vaand,</l>
+<l>Herrens Daab, foruden Svig,</l>
+<l>skiænker os vidunderlig</l>
+<l>Indfødsret i Himmerig!</l>
+</lg>
+<lg>
+<l>3. Bærer da de Smaa til ham.</l>
+<l>Som borttog vor Synd og Skam!</l>
+<l>Han Velsigner med Guds Haant,</l>
+<l>Døber med den Hellig-Aand,</l>
+</lg> 
+<pb facs="1845_2_page0013.png"/>
+<fw type="pageNum">5</fw>
+<lg>
+<l>Har i sine Klæder svøbt,</l>
+<l>Har fra Deden dyrekiøbt,</l>
+<l>Hver som troer og bliver døbt!</l>
+</lg>
+<lg>
+<l>4. Jesus falder ad de Smaa,</l>
+<l>Hvo tor dem i Veien staae!</l>
+<l>Tonnen, i sin Faders Navn,</l>
+<l>Aabner dem sin ømme Favn,</l>
+<l>Lukker i sit Himmerig</l>
+</lg>
+<lg>
+<l>For Enhver, som bryster sig,</l>
+<l>Vil ei være Barnet lig.</l>
+<l>5. Naade-Port til Paradis!</l>
+<l>Spring da op til Jesu Priis!</l>
+<l>Livets Flod, som klar i Vaar</l>
+<l>Vandede Guds Urtegaard!</l>
+<l>I Treenighedens Navn,</l>
+<l>Spring du ud af Jesu Favn!</l>
+<l>Raad du Bod paa Støvets Savn!</l>
+</lg>
+<p><hi rend="align(center)">5. (626.)</hi></p>
+<p><hi rend="align(center)">Mel. Enhver som troer og bliver døbt.</hi></p>
+<lg>
+<l><hi rend="initial">A</hi>f Niendes og Spædes Mund,</l>
+<l>For Ordet: Fred med eder,</l>
+<l>Sig Lovsang Gud i allen Stund</l>
+<l>Ved Barnedaab bereder;</l>
+<l>De Spæde aabenbarer Han</l>
+<l>Hvad Verdens Viisdom og Forstand</l>
+<l>Forgiæves efterleder!</l>
+</lg>
+<lg>
+<l>2. Han gaaer med dem i Naadepagt,</l>
+<l>Om Himlens Arv og Eie,</l>
+<l>Han skiænker dem sin Englevagt</l>
+<l>Paa alle deres Veie,</l>
+<l>Og. Jesus-Navnet yndig Klang</l>
+<l>Hver Aften faaer i Vuggesang,</l>
+<l>Ved deres Barne-Leie!</l>
+</lg> 
+<pb facs="1845_2_page0014.png"/>
+<fw type="pageNum">6</fw>
+<lg>
+<l>3. Vi døbe dem i Jesu Navn,</l>
+<l>Trods hvem det vil forhindre,</l>
+<l>Vi lægge dem i Jefu Favn,</l>
+<l>De kan ei blive mindre;</l>
+<l>Gad! lad dem vore ved hans Bryst!</l>
+<l>Gud! lad dem frydes ved hans Rost,</l>
+<l>Saa deres Øine tindre!</l>
+</lg>
+<p><hi rend="align(center)">6. (627.)</hi></p>
+<p><hi rend="align(center)">Mel. I Jesu Navn.</hi></p>
+<lg>
+<l><hi rend="initial">J</hi>eg glæder mig</l>
+<l>O Jesus, ved min Daab,</l>
+<l>Og takker dig, af Hjertet inderlig,</l>
+<l>For det store Livsens Haab,</l>
+<l>Og det Forbund, paa Salighedens Grund,</l>
+<l>Som du med mig har gjort,</l>
+<l>I Himmeriges Port!</l>
+<l>Som mit Skjold jeg for mig bær</l>
+<l>Tilsagn dit, o Jesus kiær,</l>
+<l>At jeg din Medarving er.</l>
+</lg>
+<p><hi rend="align(center)">7. (628.)</hi></p>
+<p><hi rend="align(center)">Mel. Christus kom selv til Jordans Flod.</hi></p>
+<lg>
+<l><hi rend="initial">V</hi>i traadte ind ved Daabens Pagt,</l>
+<l>Min Jesus, i dit Rige,</l>
+<l>Saa Ingen nu tør gaae forsagt,</l>
+<l>Som ei sin Tro vil svige;</l>
+<l>Din Pagt er stærk og evig staaer,</l>
+<l>Saa Intet os kan tage</l>
+<l>Vor Himmel bort, ihvor det gaaer,</l>
+<l>Trods Verdens Pral og Plage,</l>
+<l>Gid Ingen nu forsage!</l>
+</lg>
+<lg>
+<l>2. Ved Daaben drog du Sjæl og Sind</l>
+<l>Til Kirkens Samfunds-Glæde,</l>
+<l>Og skrev mit Navn blandt deres ind,</l>
+<l>Som skal for Thronen træde;</l>
+</lg> 
+<pb facs="1845_2_page0015.png"/>
+<fw type="pageNum">7</fw>
+<lg>
+<l>Nu Vandbad dit i Ordet gjør</l>
+<l>Fra Syndeskyld os rene,</l>
+<l>Hjelp kun, at vi, som det sig bor,</l>
+<l>Det ærlig med dig mene,</l>
+<l>Og elske dig alene!</l>
+</lg>
+<p><hi rend="align(center)">8. (629.)</hi></p>
+<p><hi rend="align(center)">Mel. Sode Jesu vi er her.</hi></p>
+<lg>
+<l><hi rend="initial">J</hi>esus, Herre, som du bod,</l>
+<l>Er ved Daaben vi tilstæde,</l>
+<l>Bringe dig fra Moder-Skiød</l>
+<l>Dette Barn med hellig Glæde;</l>
+<l>Thi vi end dig høre sige:</l>
+<l>Børn tilhorer Himlens Rige!</l>
+</lg>
+<lg>
+<l>2. Ja, for Sjælen redebon,</l>
+<l>Øine dybe Ord gienløde:</l>
+<l>Hvo som ei af Band og Aand</l>
+<l>Her vil lade sig gienføde,</l>
+<l>Kan ei heller, sandt at sige,</l>
+<l>Indgaae i dit Himmerige!</l>
+</lg>
+<lg>
+<l>3. Derfor Barnet aandelig</l>
+<l>Lægge vi paa dine Arme,</l>
+<l>Udgyd nu miskundelig</l>
+<l>Over det din Naade-Varme,</l>
+<l>Saa, velsignet her ilive,</l>
+<l>Det og hist dit Barn maa blive.</l>
+</lg>
+<lg>
+<l>4. Lad en Jordan rinde her,</l>
+<l>Hvor din Hellig-Aand neddaler,</l>
+<l>Lad det høres Hjertet nær</l>
+<l>Hvad i Løn din Fader taler:</l>
+<l>Med min Son, den Elskelige,</l>
+<l>Barn! du arver Himlens Rige!</l>
+</lg> 
+<pb facs="1845_2_page0016.png"/>
+<fw type="pageNum">8</fw>
+<lg>
+<l>5. Fader, tag dit Barn i Favn!</l>
+<l>Hyrde, for dit Lam du raade!</l>
+<l>Viisdoms Aand, i Jesu Navn,</l>
+<l>Viis det Vei til Fred og Naade!</l>
+<l>Viingaardsmand! til Træets Ære</l>
+<l>Megen Frugt lad Grenen bære!</l>
+</lg>
+<p><hi rend="align(center)">9. (630.)</hi></p>
+<p><hi rend="align(center)">Mel. Frygt mit Barn den sande Gud.</hi></p>
+<lg>
+<l><hi rend="initial">F</hi>ader, Sen og Hellig Aand!</l>
+<l>Menigheden, Haand i Haand,</l>
+<l>Sine Spæde bærer frem,</l>
+<l>Gak du selv i Pagt med dem!</l>
+<l>Modtag og velsign de Smaa,</l>
+<l>Lad, for de det Selv forstaae,</l>
+<l>Dem i Himmerig indgaae!</l>
+</lg>
+<lg>
+<l>2. Kiærligheds og Sandheds Aand!</l>
+<l>Knyt vort Christne Samfunds-Baand!</l>
+<l>Styrt det, saa det brister ei</l>
+<l>Paa den tornefulde Vei!</l>
+<l>Led os frem i Jesu Fjed!</l>
+<l>Lys du over os hans Fred!</l>
+<l>For os til hans Salighed!</l>
+</lg>
+<p><hi rend="align(center)">10. (631.)</hi></p>
+<lg>
+<l><hi rend="initial">F</hi>rygt, mit Barn, den sande Gud!</l>
+<l>Misbrug ei hans Navn og Bud!</l>
+<l>Hellighold Vorherres Dag!</l>
+<l>Ær Forældre uden Nag!</l>
+<l>Flye Utugt og Vold og Mord!</l>
+<l>Stjæl ei! vær ei falsk i Ord!</l>
+<l>Skye Begiærlighed paa Jord!</l>
+</lg>
+<lg>
+<l>2. Selv jeg paa Gud-Fader troer,</l>
+<l>Som Alt skabde ved sit Ord,</l>
+<l>Og paa Sønnen, Gud og Mand,</l>
+<l>Præst, Prophet og Konge sand,</l>
+</lg> 
+<pb facs="1845_2_page0017.png"/>
+<fw type="pageNum">9</fw>
+<lg>
+<l>Og paa Aanden med Guds Rost,</l>
+<l>Som os skiænker Haab og Trost,</l>
+<l>Reiser op til Livets Lyst!</l>
+</lg>
+<lg>
+<l>3. Fader vor i Himmelhavn!</l>
+<l>Helligt være os dit Navn!</l>
+<l>Lad os nær dit Rige see!</l>
+<l>Lad din gode Vilje skee!</l>
+<l>Giv os Brødet! vær ei vred!</l>
+<l>Os i Fristelse ei led!</l>
+<l>Fri os fra hvad Ondt Du veed!</l>
+</lg>
+<lg>
+<l>4. Du, som os af Naade stor</l>
+<l>Har gienfødt med Vand og Ord,</l>
+<l>Hjelp, vi bær vort Christen-Navn</l>
+<l>Dig til Ære, os til Gavn;</l>
+<l>Holde troe vor Daabes Pagt,</l>
+<l>Staae mod Fienden godt paa Vagt,</l>
+<l>Stole paa hvad du har sagt!</l>
+</lg>
+<lg>
+<l>5. Mæt min Sjæl, o Jesu sød!</l>
+<l>Med dit Legem, Livets Brod!</l>
+<l>Vederkvæg mig, Frelser min!</l>
+<l>Med dit Blods den klare Vin!</l>
+<l>Tag dit Herberg saa i mig,</l>
+<l>At sor evig jeg hos dig</l>
+<l>Leve maa i Himmerig!</l>
+</lg>
+<p><hi rend="align(center)">14. (632.)</hi></p>
+<p><hi rend="align(center)">Mel. Som den gyldne Soel frembryder.</hi></p>
+<lg>
+<l><hi rend="initial">L</hi>øgnens Fader vi forsage,</l>
+<l>Falsk er al hans Lyst og Pragt;</l>
+<l>Sandheds Fader at behage,</l>
+<l>Vi fornye vor Daabes Pagt;</l>
+<l>Alt Han kan og Alt Han veed,</l>
+<l>Giør dog Alt i Kiærlighed,</l>
+<l>I sit Billed Han os skabde,</l>
+<l>Igienløfte det Fortabte!</l>
+</lg> 
+<pb facs="1845_2_page0018.png"/>
+<fw type="pageNum">10</fw>
+<lg>
+<l>2. Gud os gav sin Sen til Broder,</l>
+<l>Jesus Christus, Gud og Mand,</l>
+<l>Salig prise vi hans Moder,</l>
+<l>Himlens Brud i Jomfrustand,</l>
+<l>Han for os paa Korset leed,</l>
+<l>Død og Helved overstred,</l>
+<l>Deler paa sit Herre-Sæde</l>
+<l>Med os Liv og Lys og Glæde!</l>
+</lg>
+<lg>
+<l>3. Gud os gav sin Aand til Trøster,</l>
+<l>I vor Herres Jesu Navn,</l>
+<l>Han med alle Engle-Røster</l>
+<l>Kalder Folk til Herrens Favn,</l>
+<l>Aander, med vor Frelsers Rost,</l>
+<l>Fred i det beklemte Bryst,</l>
+<l>Lader, med Guds Fader-Stemme,</l>
+<l>Støvet evigt Liv fornemme!</l>
+</lg>
+<lg>
+<l>4. Det er Pagten, som oprettes</l>
+<l>Ved det store Sjælebad,</l>
+<l>Det er Naaden overvættes</l>
+<l>I den store Konges Stad:</l>
+<l>Livets Pant og Troens Grund,</l>
+<l>I vort Hjerte og vor Mund!</l>
+<l>Demant-Skjold mod Lue-Pile,</l>
+<l>Moder-Skiød til Barue-Hvile!</l>
+</lg>
+<lg>
+<l>5. Her er Fuglen, som paa Vinger</l>
+<l>Troen bar med Herrens Rost!</l>
+<l>Her er Ordet, som Guds Finger</l>
+<l>Skriver i hver Christens Bryst!</l>
+<l>Her er Neglen, konstig gjort,</l>
+<l>Til Guds Huus og Himlens Port!</l>
+<l>Her er Lyset paa Guld-Stagen!</l>
+<l>Det gier Natten klar som Dagen.</l>
+</lg>
+<lg>
+<l>6. Fader vor i høie Sale!</l>
+<l>Kom din Pagt med os ihu!</l>
+<l>Sandheds Aand i dybe Dale!</l>
+<l>O bekræft, beseigl den nu!</l>
+</lg> 
+<pb facs="1845_2_page0019.png"/>
+<fw type="pageNum">11</fw>
+<lg>
+<l>Herliggiør med Glands paa Jord</l>
+<l>Frelseren i Troens Ord!</l>
+<l>Giør det klart, at alle Dage</l>
+<l>Mægtig Gud er i de Svage!</l>
+</lg>
+<p><hi rend="align(center)">12. (633.)</hi></p>
+<p><hi rend="align(center)">Mel. Hjelp Gud at jeg nu kunde.</hi></p>
+<lg>
+<l><hi rend="initial">H</hi>an, som paa Jorden beller</l>
+<l>Til Troskab uden Svig,</l>
+<l>Naar vi kun vil, beseigler</l>
+<l>Sin Pagt om Himmerig;</l>
+<l>Han døber med den Helligaand;</l>
+<l>Paa Ord, som aldrig seller,</l>
+<l>Han rækker os sin Haand!</l>
+</lg>
+<lg>
+<l>2. Halleluja for Haanden,</l>
+<l>Som Herren os har rakt!</l>
+<l>Halleluja for Aanden,</l>
+<l>Som Livet os har bragt!</l>
+<l>Halleluja for Ærens Krands,</l>
+<l>For Hvilen efter Vaanden,</l>
+<l>For Glæden i sin Glands!</l>
+</lg>
+<p><hi rend="align(center)">13. (634.)</hi></p>
+<p><hi rend="align(center)"> </hi></p>
+<lg>
+<l><hi rend="initial">B</hi>arne-Livels faure Dage</l>
+<l>Kun forgiæves Folk paa Jord</l>
+<l>Kalde sukkende tilbage,</l>
+<l>Som en Drom de hedenfoer;</l>
+<l>Hjerte hvert dog sole maa:</l>
+<l>Vorde ei vi atter smaa,</l>
+<l>Aldrig meer paa Engle-Stige</l>
+<l>Vinde vi til Himmerige!</l>
+</lg> 
+<pb facs="1845_2_page0020.png"/>
+<fw type="pageNum">12</fw>
+<lg>
+<l>2. Men hvad alle Verdens Vise</l>
+<l>Kun omsonst vil prøve paa,</l>
+<l>Han, som alle Christne prise,</l>
+<l>Har bevist, hans Ord formaae:</l>
+<l>Hver, som troer af Hjertens Grund</l>
+<l>Hvad han os har lagt i Mund,</l>
+<l>De i Daaben fødes atter</l>
+<l>Til Guds Vorn, Hans Sen og Datter.</l>
+</lg>
+<lg>
+<l>3. Vore egne Barne-Dage,</l>
+<l>I det bedste Fader-Hjem,</l>
+<l>Intet er mod dem, vi smage</l>
+<l>Med Guds Sen i Bethlehem,</l>
+<l>Naar, gienfødte i hans Navn,</l>
+<l>Han os tager omt i Favn,</l>
+<l>Og, med meer end Engle-Røster,</l>
+<l>Kalder Broder os og Syster!</l>
+</lg>
+<lg>
+<l>4. Som i Viisdom og i Naade</l>
+<l>Jesus vorde op paa Jord,</l>
+<l>Det er Christen-Livets Gaade,</l>
+<l>Voxe vi paa Jesu Ord,</l>
+<l>I hans Fjed og med hans Aand,</l>
+<l>I Gud-Faders Ledebaand:</l>
+<l>Kiærlighedens Rosenkiæde,</l>
+<l>I hvis Duft er Himmel-Glæde!</l>
+</lg>
+<lg>
+<l>5.	Disse Herrens Barne-Dage,</l>
+<l>De er Evighedens Vaar,</l>
+<l>Vifte bort al Sorg og Klage</l>
+<l>Ogsaa fra de hvide Haar,</l>
+<l>Tale med hinanden lydt</l>
+<l>Om det Maal for Livet nyt,</l>
+<l>Himmelvidt fra Skyggedale:</l>
+<l>Guddoms-Liv i gyldne Sale!</l>
+</lg>
+<lg>
+<l>6.	Dunkle vel er Herrens Veie,</l>
+<l>Mens de giennem Støvet gaae,</l>
+<l>Verdens Klarhed, Arv og Eie,</l>
+<l>Lære dog vi at forsmaae,</l>
+</lg> 
+<pb facs="1845_2_page0021.png"/>
+<fw type="pageNum">13</fw>
+<lg>
+<l>Thi i Jesu Børnehjem</l>
+<l>Skinner, som ved Bethlehem,</l>
+<l>Under Midnats-Julesangen,</l>
+<l>Himlens Klarhed over Vangen!</l>
+</lg>
+<lg>
+<l>7. Derfor lyd, fra Hal og Hytte,</l>
+<l>Barne-Lovsang, høit i Sky!</l>
+<l>Hvor du toner, Hjerter lytte,</l>
+<l>Smage Barndoms Fryd paany.</l>
+<l>Bethlehems Halleluja!</l>
+<l>I den Dal, du stiger fra,</l>
+<l>Der oprinder Kraft-Beviset!</l>
+<l>Der opblomstrer Paradiset!</l>
+</lg>
+<p><hi rend="align(center)">14. (635.)</hi></p>
+<p><hi rend="align(center)">Mel. Vor Gud han er saa fast en Borg.</hi></p>
+<lg>
+<l><hi rend="initial">L</hi>ad Pagtens Dag, o milde Gud,</l>
+<l>For os velsignet være!</l>
+<l>Bind os til dig og dine Bud,</l>
+<l>Til Christen-Navnets Ære!</l>
+<l>See, Fader, til os ned,</l>
+<l>I al din Miskundhed!</l>
+<l>Bekræft med os din Pagt,</l>
+<l>Saa vi faae Lyst og Magt</l>
+<l>Til dig som Børn at ligne!</l>
+</lg>
+<lg>
+<l>2. Sign Ordet i de unges Mund!</l>
+<l>Lad deres Hjerter brænde,</l>
+<l>Naar de vor Tro og Troes-Grund</l>
+<l>Besinde og bekiende!</l>
+<l>Engang de bares frem,</l>
+<l>Vi bad, velsign Du dem!</l>
+<l>De døbdes i dit Navn,</l>
+<l>O lad i Fredens Havn</l>
+<l>Dem Daabens Kraft berømme!</l>
+</lg>
+<lg>
+<l>3. Om de end her fra Fædrebo</l>
+<l>Skal vidt i Verden vanke,</l>
+<l>Giør Pagten dog og Jesu Tro</l>
+<l>Til deres faste Tanke!</l>
+</lg> 
+<pb facs="1845_2_page0022.png"/>
+<fw type="pageNum">14</fw>
+<lg>
+<l>Det styrke, trøste dem,</l>
+<l>De har hos dig et Hjem,</l>
+<l>Og aldrig blev forladt</l>
+<l>Hvo Haab til dig har sat:</l>
+<l>De Faderløses Fader!</l>
+</lg>
+<lg>
+<l>4. Bekræft dem i din Naadepagt!</l>
+<l>Lad Stov dem ei forblinde!</l>
+<l>Og lad det Ja, de selv har sagt,</l>
+<l>Dem aldrig gaae af Minde!</l>
+<l>Veiled dem ved din Haand,</l>
+<l>Og styrk dem med din Aand,</l>
+<l>Saa de, til Enden troe,</l>
+<l>Henslumre maae i Ro,</l>
+<l>Til Salighed opvaagne!</l>
+</lg>
+<p><hi rend="align(center)">15. (636.)</hi></p>
+<p><hi rend="align(center)">Egen Melodi.</hi></p>
+<lg>
+<l><hi rend="initial">D</hi>et er fuldbragt. Du har det hørt,</l>
+<l>O Gud, og Hjertet skuet,</l>
+<l>Bekræftelsen har Sjælen rørt</l>
+<l>Og Hjertet fromt opluet,</l>
+<l>Med Taarer dine Christne smaa</l>
+<l>Velsignet for dit Aasyn staae.</l>
+</lg>
+<lg>
+<l>2. Omsuus dem med dit Vingestag,</l>
+<l>Guds Aand fra Lysets Rige!</l>
+<l>Lad ei dem glemme Pagtens Dag,</l>
+<l>Naar Verdens Længsler stige!</l>
+<l>Omsvæv dem Saligt, hvor de gaae,</l>
+<l>Til hist de for Guds Ansigt staae!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<head>Skriftemaal og Altergang.</head>
+<p><hi rend="align(center)">16. (637.)</hi></p>
+<p><hi rend="align(center)">Mel. Mit Haab og Trost og al Tillid.</hi></p>
+<lg>
+<l><hi rend="initial">J</hi>eg arme Synder træde maa,</l>
+<l>Med høibedrøvet Hjerte,</l>
+<l>Til Naadens Dor og banke paa,</l>
+<l>Og klage der min Smerte,</l>
+</lg> 
+<pb facs="1845_2_page0023.png"/>
+<fw type="pageNum">15</fw>
+<lg>
+<l>At jeg med Synd,</l>
+<l>I Hængedynd,</l>
+<l>Fra Top til Fode-Saale,</l>
+<l>Besmitted mig,</l>
+<l>Saa knapt hos sig</l>
+<l>Min Frelser mig kan taale.</l>
+</lg>
+<lg>
+<l>2. Gud! min Uskiønsomhed er stor,</l>
+<l>Jeg dølger ingenlunde,</l>
+<l>Jeg roste tun med Læbers Ord,</l>
+<l>Og ei af Hjertens-Grunde,</l>
+<l>Din Sen, som Alt</l>
+<l>Har dyrt betalt,</l>
+<l>Da Ink hans Hjerte rørde;</l>
+<l>Thi jeg gik ei</l>
+<l>Den smalle Vei,</l>
+<l>Som til dit Rige førde.</l>
+</lg>
+<lg>
+<l>3. I Laas jeg lukket har min Dor,</l>
+<l>Naar du med Ordets Hammer,</l>
+<l>Tit banked paa og sagde: hør!</l>
+<l>Din Ven staaer for dit Kammer!</l>
+<l>I Veir og Vind</l>
+<l>Jeg af mit Sind</l>
+<l>Da stog hver himmelsk Tanke,</l>
+<l>Det var Giengiæld,</l>
+<l>Om du i Kveld</l>
+<l>Lod mig forgiæves banke!</l>
+</lg>
+<lg>
+<l>4. Naar mig i Hjertet ret derpaa</l>
+<l>Samvittigheden minder,</l>
+<l>Jeg hardtad fra mig selv vil gaae,</l>
+<l>Og al min Kraft forsvinder;</l>
+<l>Hvad Helved er,</l>
+<l>Hvad Helveds Hær,</l>
+<l>Af Pine, Kval og Plage,</l>
+<l>Af Pine, Kval og Plage,</l>
+<l>I Evighed</l>
+<l>At skiænke veed,</l>
+<l>Begynder jeg at smage.</l>
+</lg> 
+<pb facs="1845_2_page0024.png"/>
+<fw type="pageNum">16</fw>
+<lg>
+<l>5. Men du, al Godheds Kildevæld!</l>
+<l>Giv Naadens Lædske-Draaber!</l>
+<l>Her finder du en fattig Sjæl,</l>
+<l>Som hungrer, tørster, haaber.</l>
+<l>O Naade-Soel!</l>
+<l>Jeg for din Stol,</l>
+<l>Og høie Himmel-Throne,</l>
+<l>I Støv for dig,</l>
+<l>Nedkaster mig,</l>
+<l>Med Suk og Sørge-Tone!</l>
+</lg>
+<lg>
+<l>6. I Barmen, Jesus! du hos dig</l>
+<l>Jo har en Naadens Kilde,</l>
+<l>Som du for alle og for mig</l>
+<l>Paa Korset aabne vilde;</l>
+<l>O lad derved</l>
+<l>Mig sinde Fred</l>
+<l>Og Alt hvad Hjertet kvæger!</l>
+<l>O vær min Ven!</l>
+<l>Giv mig af den</l>
+<l>Udødeligheds Bæger!</l>
+</lg>
+<p><hi rend="align(center)">17. (638.)</hi></p>
+<p><hi rend="align(center)">Mel. Søde Jesu vi er her.</hi></p>
+<lg>
+<l><hi rend="initial">S</hi>vag er jeg, men Gud er god,</l>
+<l>Gierne vil han Alt tilgive,</l>
+<l>Det oprette skal mit Mod</l>
+<l>Og min matte Sjæl oplive.</l>
+<l>Hvo er den, som vil forjage!</l>
+<l>Gud er naadig mod den Svage.</l>
+</lg>
+<lg>
+<l>2. Sandheds-Lyset i Guds Orv</l>
+<l>Livets Vei os aabenbarer,</l>
+<l>Hver den, som paa Jesus troer,</l>
+<l>Frelses skal af alle Farer!</l>
+<l>Hvo er den, som vil forsage!</l>
+<l>Gud er mægtig i de Svage.</l>
+</lg> 
+<pb facs="1845_2_page0025.png"/>
+<fw type="pageNum">17</fw>
+<lg>
+<l>3. Naadens Fader! Kraftens Gud!</l>
+<l>Synden skal min Afsky være,</l>
+<l>Da min Lyst til dine Bud</l>
+<l>Styrk\er Du til Jesu Ære;</l>
+<l>Kraften din jo alle Dage</l>
+<l>Skal fuldkommes i de Svage!</l>
+</lg>
+<p><hi rend="align(center)">18. (639.)</hi></p>
+<lg>
+<l>Mel. Jesu dine dybe Vunder.</l>
+<l><hi rend="initial">I</hi>ngen er saa stor en Synder,</l>
+<l>At han jo kan Redning see,</l>
+<l>Jesus Christus det forkynde,.</l>
+<l>For vort Vel han taalde Vee,</l>
+<l>Hvo med ærlig Bod og Bøn</l>
+<l>Troer paa Guds eenbaarne Sen,</l>
+<l>Over ham sig Gud forbarmer,</l>
+<l>Ham som Fader vist omarmer!</l>
+</lg>
+<lg>
+<l>2. Tak, o Jesus, for din Lære!</l>
+<l>Naadens Aand er i dit Ord,</l>
+<l>Evig han vil Trøster være</l>
+<l>For Enhver, som Ordet trøer;</l>
+<l>Høit velsignet være du,</l>
+<l>Aaben staaer os Himlen nu,</l>
+<l>Naar vi aabent Synd bekiende,</l>
+<l>Og med Tro til Gud os vende.</l>
+</lg>
+<p><hi rend="align(center)">19. (640.)</hi></p>
+<p><hi rend="align(center)">Mel. Vee mig at jeg saa mangelund.</hi></p>
+<lg>
+<l><hi rend="initial">G</hi>ud Herren saae til Jorden ned,</l>
+<l>Fra høie Himmel-Sale,</l>
+<l>Og ledte om Retfærdighed,</l>
+<l>Paa Bjerge og i Dale;</l>
+<l>Men trindt paa Jord ei fandtes Een</l>
+<l>For Gud uskyldig, hjertereen,</l>
+<l>Af Verden ubesmittet.</l>
+</lg> 
+<pb facs="1845_2_page0026.png"/>
+<fw type="pageNum">18</fw>
+<lg>
+<l>2. Thi stod jeg som en Synder her,</l>
+<l>Min Skaber, for dit Øie,</l>
+<l>Om end for Verden, reen og skiær,</l>
+<l>Jeg turde mig ophøie;</l>
+<l>Men ak, jeg veed ei heller Tal</l>
+<l>Paa mine Feil og mine Fald,</l>
+<l>De dunkle med de klare!</l>
+</lg>
+<lg>
+<l>3. Men Du vil ingen Synders Død,</l>
+<l>Og Raad har Du udgrundet,</l>
+<l>Derfor det over Jorden lød:</l>
+<l>Den Rene Jeg har fundet;</l>
+<l>Det er min Sen, men dog en Mand,</l>
+<l>Og blive skal for Mig som han</l>
+<l>Enhver som troer paa Sønnen!</l>
+</lg>
+<lg>
+<l>4. Nu Jesu Tro er al min Trost,</l>
+<l>Dog er din store Naade,</l>
+<l>Som Du i Jesu Navn gav Rost,</l>
+<l>For Syndere en Gaade,</l>
+<l>Saa lukke maa med Flid jeg tit</l>
+<l>For Verdens Klarhed Die mit,</l>
+<l>Naar Hjertet skal husvales.</l>
+</lg>
+<lg>
+<l>5. O Du, som skabde Hjerte mit,</l>
+<l>Det dybe, underfulde,</l>
+<l>O	dan det efter Hjerte dit,</l>
+<l>Til Himmel-Speil i Mulde,</l>
+<l>Saa jeg langt meer end selv jeg veed,</l>
+<l>Kan lære af din Kiærlighed</l>
+<l>Om Naadens rige Fylde!</l>
+</lg>
+<lg>
+<l>6. Da skal jeg ret, med Aandens Sands,</l>
+<l>I Lyset fra det Høie,</l>
+<l>Faae Syn paa Støvets Himmelglands</l>
+<l>I Jesu Christi Vie,</l>
+<l>Og finde min Retfærdighed,</l>
+<l>Som af din dybe Kiærlighed</l>
+<l>I ham til mig udspringer!</l>
+</lg> 
+<pb facs="1845_2_page0027.png"/>
+<fw type="pageNum">19</fw>
+<lg>
+<l>7. Naar da, som Vinden Skyer blaa,</l>
+<l>Din Aande bildt mig driver,</l>
+<l>Da skal mit Hjerte godt forstaae,</l>
+<l>Hvordan Du Synd tilgiver,</l>
+<l>Og i det samme Jefu Navn,</l>
+<l>Som raader Bod paa alle Savn,</l>
+<l>Skal Salighed jeg sinde!</l>
+</lg>
+<p><hi rend="align(center)">20. (641.)</hi></p>
+<p><hi rend="align(center)">Mel. Hvo ikkun lader Herren raade.</hi></p>
+<lg>
+<l><hi rend="initial">J</hi>eg vil ei søge Skjul og Klæde,</l>
+<l>Dermed at dække Sjælens Brest,</l>
+<l>Jeg vil som Tolderen indtræde</l>
+<l>I Herrens Huus med Angers Rost;</l>
+<l>Jeg vil, som den forlorne Sen,</l>
+<l>Anklage selv mig i min Bøn.</l>
+</lg>
+<lg>
+<l>2. Og da, i Naadens Morgenrøde,</l>
+<l>Som gryer frem af Korsets Blod,</l>
+<l>Da, Fader, vil du ei bortstøde</l>
+<l>Dit Barn, som knæler ved din Fod,</l>
+<l>Men sige mildt med Faderhu:</l>
+<l>Min Sen var død, men lever nu.</l>
+</lg>
+<p><hi rend="align(center)">21. (642.)</hi></p>
+<p><hi rend="align(center)">Mel. Frygt mit Barn den sande Gud.</hi></p>
+<lg>
+<l><hi rend="initial">J</hi>esus Christus, Livets Drot,</l>
+<l>I den Nat, han blev forraadt,</l>
+<l>Brod han Brødet med sin Haand,</l>
+<l>Signed det med Ord og Aand,</l>
+<l>Sagde: tager, æder frit,</l>
+<l>Eder givet, Legem mit!</l>
+<l>Ihukommer saa mig tit!</l>
+</lg>
+<lg>
+<l>2. Ved den Paaskenadvers-Fest</l>
+<l>Bægeret han tog dernæst,</l>
+</lg> 
+<pb facs="1845_2_page0028.png"/>
+<fw type="pageNum">20</fw>
+<lg>
+<l>Signed det og. sagde saa:</l>
+<l>Drikker Alle nu derpaa!</l>
+<l>Det er Pagtens Bæger nyt,</l>
+<l>I mit Blod for jer udgydt,</l>
+<l>Mindes saa mig aabenlydt!</l>
+</lg>
+<lg>
+<l>3. Saligheds Vidunder stort!</l>
+<l>Han for os har Fyldest gjort,</l>
+<l>Deler med os Livet sit,</l>
+<l>Siger os det høit og frit!</l>
+<l>Har du Øren? hører du?</l>
+<l>Glem, min Sjæl, alt Andet nu!</l>
+<l>Kom for evig ham ihu!</l>
+</lg>
+<p><hi rend="align(center)">22. (643.)</hi></p>
+<p><hi rend="align(center)">Mel. Jesu søde Ihukommelse.</hi></p>
+<lg>
+<l><hi rend="initial">O</hi> Jesus! paa din Alterfod</l>
+<l>Jeg knæler ned, med Bøn om Bod</l>
+<l>For Hjertesorg og bange Kaar,</l>
+<l>For Syndeskyld og Banesaar.</l>
+</lg>
+<lg>
+<l>2. Jeg er idag min Herres Giæst,</l>
+<l>Betænk, min Sjæl, den høie Fest!</l>
+<l>Han byder dig tilbords hos sig</l>
+<l>Og med sig selv bespiser dig!</l>
+</lg>
+<lg>
+<l>3. Æd, drik og vær af Hjertet glad</l>
+<l>Ved denne meer end Englemad!</l>
+<l>Siig for det Bæger evig Tak,</l>
+<l>Hvoraf ei nogen Engel drak!</l>
+</lg>
+<lg>
+<l>4. Seer, I Guds Engle, seer herned!</l>
+<l>Indkiger i den Lønlighed,</l>
+<l>At Jesus ved Guds Høire-Haand</l>
+<l>Er her i Sacramentets Baand!</l>
+</lg>
+<lg>
+<l>5. Hvordan det skeet, det veed jeg ei,</l>
+<l>Han har ei røbet Stov sin Vei,</l>
+</lg> 
+<pb facs="1845_2_page0029.png"/>
+<fw type="pageNum">21</fw>
+<lg>
+<l>Og mig for høit den sig mon snoe.</l>
+<l>Det er mig Nok hans Ord at troe.</l>
+</lg>
+<lg>
+<l>6. Det Bord er bredt af Sandheds Mund,</l>
+<l>Paa Salighedens faste Grund,</l>
+<l>Mit Himmel-Haab der kvæger sig</l>
+<l>Til Liv og Lyst evindelig.</l>
+</lg>
+<lg>
+<l>7. O Jesus! lad mig aldrig gaae</l>
+<l>Fra Bordet med Guds Manna paa, '</l>
+<l>Jeg kaster jo al Verden hen,</l>
+<l>Og længes immer did igien!</l>
+</lg>
+<p><hi rend="align(center)">23. (644.)</hi></p>
+<lg>
+<l><hi rend="initial">H</hi>erre! hvor skal vi gaae hen,</l>
+<l>Gaae fra dig, vor Sjæleven,</l>
+<l>Fra den levende Guds Sen,</l>
+<l>Fra vor Troes store Løn,</l>
+<l>Fra den Eneste paa Jord,</l>
+<l>I hvis Magt er Livets Ord!</l>
+</lg>
+<lg>
+<l>2. Nei, om end det flinger haardt,</l>
+<l>Ei dit Ord os kyser bort,</l>
+<l>Dybt vi føle, at paa Jord</l>
+<l>Deden er det haarde Ord,</l>
+<l>Hvad der aander Liv i Dødt,</l>
+<l>Trods alt Skin er blødt og født.</l>
+</lg>
+<lg>
+<l>3. Æd mit Kied og drik mit Blod,</l>
+<l>Siger Livets Fyrste god,</l>
+<l>Paa mit Ord med Brod og Vin!</l>
+<l>Da sor dig var Døden min;</l>
+<l>Da, opreist af sorten Jord,</l>
+<l>Jeg for dig til Himmels foer.</l>
+</lg>
+<lg>
+<l>4. Hør det, Hjerte, hvor du staaer</l>
+<l>I mit Bryst med bange Kaar!</l>
+<l>Tag Vorherre paa hans Ord!</l>
+<l>Nyd ham ved hans Naadebord!</l>
+</lg> 
+<pb facs="1845_2_page0030.png"/>
+<fw type="pageNum">22</fw>
+<lg>
+<l>Æd hans Kied og drik hans Blod,</l>
+<l>Og stat op som han opstod!</l>
+</lg>
+<lg>
+<l>5. Sjæl og Legem! begge To</l>
+<l>Trænger I tit Liv og Ro,</l>
+<l>Enes om at troe Guds Ord,</l>
+<l>Hvori legemlig Han boer,</l>
+<l>Aanders Gud og Fader kaldt.</l>
+<l>Som er evig Alt i Alt!</l>
+</lg>
+<lg>
+<l>6. Da, som Eet, med Glæde stor,</l>
+<l>Leve skal I af Guds Ord,</l>
+<l>Som, naar Verdens kløgt forgaaer,</l>
+<l>Salig, seierrig bestaaer,</l>
+<l>Deler mild sin Guddoms-Glands</l>
+<l>Med alt Jordisk, som er hans!</l>
+</lg>
+<p><hi rend="align(center)">24. (645.)</hi></p>
+<p><hi rend="align(center)">Egen Melodi.</hi></p>
+<lg>
+<l><hi rend="initial">J</hi>esus, din søde Forening at smage</l>
+<l>Længes og trænges mit Hjerte og Sind,</l>
+<l>Riv mig fra Alt hvad mig holder tilbage!</l>
+<l>Drag mig i dig, min Oprindelse, ind!</l>
+<l>Viis mig ret klarlig min Jammer og Møie!</l>
+<l>Viis mig Fordærvelsens Afgrund i mig!</l>
+<l>Saa sig Naturen maa døende bøie,</l>
+<l>Og jeg i Aanden kan leve for dig!</l>
+</lg>
+<lg>
+<l>2. Styrk mig i Sjælen, saa ret jeg kan finde,</l>
+<l>Hvad du, min Frelser, i Aanden formaaer!</l>
+<l>Tag du til Fange kun Alting derinde!</l>
+<l>Led mig og lok mig, saa villig jeg gaaer!</l>
+<l>Mig og hvad mit er lad gierne mig miste,</l>
+<l>Naar du, min Jesus, i Hjertet vil boe!</l>
+<l>Lad dog omsider paa Dørren sig lifte</l>
+<l>Hvad end forstyrrer min Sjæl i sin Ro!</l>
+</lg> 
+<pb facs="1845_2_page0031.png"/>
+<fw type="pageNum">23</fw>
+<lg>
+<l>3. O hvem der kunde engang det dog lære</l>
+<l>Sig at opoffre med Hjerte og Hu!</l>
+<l>O, maatte Jesus kun Alting mig være!</l>
+<l>Det ak, desværre, er langtfra endnu.</l>
+<l>Jesus, du gav mig et hørende Vre,</l>
+<l>Ræk mig tillige din kraftige Haand,</l>
+<l>Saa jeg mit Levnet herefter maa føre,</l>
+<l>Ret som en Christen i Helligheds Aand!</l>
+</lg>
+<lg>
+<l>4.	Hør dog, o Jesus, din kurrende Due!</l>
+<l>Hyrde, opsøg dit vildfarende Lam!</l>
+<l>Vær i min Ørk mig en lædskende Drue!</l>
+<l>Luttre mit Hjerte fra Synd og fra Skam!</l>
+<l>Lad mig i Bogstavens Væsen ei blive,</l>
+<l>Som kun udvortes giør ærbar og fiin!</l>
+<l>Aanden dit Navn i mit Hjerte indskrive,</l>
+<l>Saa jeg med Sandhed kan kalde mig din!</l>
+</lg>
+<lg>
+<l>5. Jesus! naar vil du dog staffe mig Hvile,</l>
+<l>Bedre end Hvilen, der sindes i Grav?</l>
+<l>Naar skal jeg see dig ret venlig at smile?</l>
+<l>Reis dig at true det brusende Hav!</l>
+<l>Kiærligste Jesus! du maa dig forbarme,</l>
+<l>Skjul dog ei evig dit Ansigt for mig!</l>
+<l>Himmelske Rigdom for aandelig Arme!</l>
+<l>Fyld min udtørrede Kilde med dig!</l>
+</lg>
+<lg>
+<l>6. Lad mig, o Jesus, forgiæves ei raabe!</l>
+<l>See dog, hvor Sjælen er hungrig og træt!</l>
+<l>Lædskes den kan med en Kiærligheds-Draabe,</l>
+<l>Kald mig dm egen, saa bliver jeg mæt!</l>
+<l>Kiærlig du sagde: de maatte forsmægte,</l>
+<l>Dersom jeg lader dem fastende gaae;</l>
+<l>Naade og Sandhed! hvor kan du da nægte</l>
+<l>Sjælene Smuler at styrke sig paa!</l>
+</lg>
+<lg>
+<l>7. Sødeste Jesus! nu vil jeg dig binde</l>
+<l>Ved dine Løfters den hellige Pagt:</l>
+<l>Beder og leder! I faae da og sinde,</l>
+<l>Saa du med Læberne sanddrue har sagt;</l>
+</lg> 
+<pb facs="1845_2_page0032.png"/>
+<fw type="pageNum">24</fw>
+<lg>
+<l>Jeg vil, med Kvinden fra Kanaans Egne,</l>
+<l>Efter dig raabe, til du bliver mild,</l>
+<l>Svarer: jeg vil ei paa Værdighed regne,</l>
+<l>Amen, ja Amen! dig skee, som du vil!</l>
+</lg>
+<p><hi rend="align(center)">25. (646.)</hi></p>
+<p><hi rend="align(center)">Egen Melodi.</hi></p>
+<lg>
+<l><hi rend="initial">V</hi>ær du høilovet og velsignet,</l>
+<l>Jesus, i Venskab aldrig lignet!</l>
+<l>Vi af Kiedet og Blodet dit</l>
+<l>Næres, voxe og leve frit!</l>
+<l>O Kiærligheds Vidunder!</l>
+</lg>
+<lg>
+<l>2. Lader sig større Godhed tænke,</l>
+<l>End at dig selv du os mon stiænke,</l>
+<l>Gik for os til Kors og Grav,</l>
+<l>Leed vor Død og dit Liv os gav!</l>
+<l>O Kiærligheds Vidunder!</l>
+</lg>
+<lg>
+<l>3. Kiærligheds Magt, saa tit besjunget,</l>
+<l>Kiærligheds Magt har dig betvunget,</l>
+<l>Os den tvinge nu, sød og stærk,</l>
+<l>Krone saa sit underværk,</l>
+<l>O Kiærligheds Vidunder!</l>
+</lg>
+<lg>
+<l>4. Gavmildhed din i al sin Fylde</l>
+<l>Skærpe os ind hvad dig vi skylde!</l>
+<l>Broder-Kiærlighedens Ild</l>
+<l>Blusse faurt og brænde mild!</l>
+<l>O Kiærligheds Vidunder!</l>
+</lg>
+<lg>
+<l>5. Evig i Hjertet, med dit Minde,</l>
+<l>Vare Velsignelsen derinde!</l>
+<l>Stadig træde vi i dit Spor,</l>
+<l>Samles gladelig om dit Bord!</l>
+<l>O Kiærligheds Vidunder!</l>
+</lg>
+<lg>
+<l>6. Hellig-Aand din, os sendt i Naade,</l>
+<l>Lære paa Alt os Maal og Maade!</l>
+</lg> 
+<pb facs="1845_2_page0033.png"/>
+<fw type="pageNum">25</fw>
+<lg>
+<l>Han forene i din Fred</l>
+<l>Al den ganske Christenhed!</l>
+<l>O Kiærligheds Vidunder!</l>
+</lg>
+<p><hi rend="align(center)">26. (647.)</hi></p>
+<p><hi rend="align(center)">Mel. Jesu søde Hukommelse.</hi></p>
+<lg>
+<l><hi rend="initial">V</hi>or Herres Jesu Mindefest</l>
+<l>Den Høitid er, som glæder bedst;</l>
+<l>Thi hvor han kommes ret ihu,</l>
+<l>Lyslevende han er endnu.</l>
+</lg>
+<lg>
+<l>2. O, Jesus! du er himmelsød,</l>
+<l>Forsøder selv den bittre Død;</l>
+<l>Gift-Bægeret ei skader den,</l>
+<l>Som Livets skiænker har til Ven.</l>
+</lg>
+<lg>
+<l>3. Du Kildespring til Naadens Flod,</l>
+<l>I dig al Sødme har sin Rod,</l>
+<l>Og kun som Vandet er mod Vin,</l>
+<l>Er Kvinders Kiærlighed mod din!</l>
+</lg>
+<lg>
+<l>4. Den er for Øiet Soleglands,</l>
+<l>Den er for Øret Tonedands,</l>
+<l>Den er for Munden Most og Vin,</l>
+<l>Den er for Hjertet Balsam fin!</l>
+</lg>
+<lg>
+<l>5. Den hilser mildt som Morgenrød,</l>
+<l>Den brænder klart som Solens Glød,</l>
+<l>Den døber Støv med Glædens Daab,</l>
+<l>Den føder Herlighedens Haab!</l>
+</lg>
+<lg>
+<l>6. Den føder Hjertens-Kiærlighed</l>
+<l>Til dig, som Døden for os leed;</l>
+<l>Den føder Kundskab evig sand,</l>
+<l>Om Livets Lys og Livets Land!</l>
+</lg>
+<lg>
+<l>7. Et Lys, som aldrig bliver slukt,</l>
+<l>En Blomst, som altid sætter Frugt,</l>
+<l>En Videnskab, som Gud kun veed,</l>
+<l>Er Livet i din Kiærlighed!</l>
+</lg> 
+<pb facs="1845_2_page0034.png"/>
+<fw type="pageNum">26</fw>
+<lg>
+<l>8. Kun hvo, som elsker, kiender Gud,</l>
+<l>Og dig, Hans Hjertes Sendebud:</l>
+<l>Hans Ord, Hans Billed og Hans Sen,</l>
+<l>Hans Jævnlige i Lys og Løn!</l>
+</lg>
+<lg>
+<l>9. Vaer, Jesus! da mit Liv, min Lyst,</l>
+<l>Den skjulte Perle i mit Bryst!</l>
+<l>Vær du min Trost! vær du min Fred!</l>
+<l>Vær du mit Lys, min Salighed!</l>
+</lg>
+<lg>
+<l>10. Som Faderen, saa ærer dig</l>
+<l>Hvert Engle-Kor i Himmerig,</l>
+<l>Og som du elskes her paa Jord,</l>
+<l>Af Stov opelskes Engle-Kor!</l>
+</lg>
+<lg>
+<l>11. Saa bryd da ud i Fryderaab,</l>
+<l>Du gamle Troe, du unge Haab,</l>
+<l>Og du, som ei af Alder veed,</l>
+<l>Du evigglade Kiærlighed!</l>
+</lg>
+<lg>
+<l>12.	I Jesu Navn, syng Jesu Priis,</l>
+<l>I Ørken og i Paradis,</l>
+<l>Alt hvad som Tunge har og Rost,</l>
+<l>Alt hvad som Hjerte har i Bryst!</l>
+</lg>
+<lg>
+<l>13.	Syng høit og lavt i fulde Kor!</l>
+<l>Syng lavt, du Himmel! høit, du Jord!</l>
+<l>Saa smelte sammen kan i Sky</l>
+<l>Med Jesu Navn en Lovsang ny!</l>
+</lg>
+<lg>
+<l>14.	Den Fælles- Sang sor Gud og Mand,</l>
+<l>Giør Fællesskab paa Himlens Rand</l>
+<l>Imellem alle Aanders Kor</l>
+<l>Og alle Hjertesuk paa Jord!</l>
+</lg>
+<lg>
+<l>15.	Ja, Himmel, gier vort Suk til Nyn</l>
+<l>Paa Lovsang din med Kraft og Fynd!</l>
+<l>Engang skal vi forstærke da</l>
+<l>Dit evige Halleluja!</l>
+</lg> 
+<pb facs="1845_2_page0035.png"/>
+<fw type="pageNum">27</fw>
+<lg>
+<l>l6. Halleluja for Herrens Bord,</l>
+<l>I Himlen hist og her paa Jord!</l>
+<l>Halleluja! far op, far ned,</l>
+<l>For Jesus, i al Evighed!</l>
+</lg>
+<p><hi rend="align(center)">27. (648.)</hi></p>
+<p><hi rend="align(center)">Samme Melodi.</hi></p>
+<lg>
+<l><hi rend="initial">O</hi> Jesus! søde Jesus! dig</l>
+<l>Skee Hjertens-Tak evindelig.</l>
+<l>Som med dit eget Klod og Blod</l>
+<l>Saa kiærlig mig bespise lod!</l>
+</lg>
+<lg>
+<l>2. Bryd ud, min Sjæl, med Fryd, og siig:</l>
+<l>O, hvor er jeg nu blevet rig!</l>
+<l>Min Jesus i mit Hjerte boer,</l>
+<l>Et Himmerig det er paa Jord!</l>
+</lg>
+<p><hi rend="align(center)">28. (649.)</hi></p>
+<p><hi rend="align(center)">Tamme Melodi.</hi></p>
+<lg>
+<l><hi rend="initial">B</hi>eredt er nu til Nadver stor</l>
+<l>Den bedste Konges Naadebord,</l>
+<l>Hans Tjenere paa Veien staae,</l>
+<l>Og byde hver, som vil, indgaae.</l>
+</lg>
+<lg>
+<l>2. Kom hid, hver Sjæl paa Jorderig,</l>
+<l>Som for din Fred bekymrer dig!</l>
+<l>Kom Fyrste, Betler, Store, Smaa!</l>
+<l>Og I husvalte skal bortgaae.</l>
+</lg>
+<lg>
+<l>3. I Naadebrødet er hans Kraft,</l>
+<l>Hans Liv i Kalkens Druesaft,</l>
+<l>Hans Aand i hvert et Hjerte boer,</l>
+<l>Som holder fast paa Livets Ord!</l>
+</lg>
+<lg>
+<l>4. O Jesus Christus! Sjæleven!</l>
+<l>For os du gik i Døden hen,</l>
+<l>I os dog røres, lever du,</l>
+<l>Naar ret vi komme dig ihu.</l>
+</lg> 
+<pb facs="1845_2_page0036.png"/>
+<fw type="pageNum">28</fw>
+<lg>
+<l>5. O Frelser! lever du i mig,</l>
+<l>Jeg evig leve skal i dig,</l>
+<l>Og frelst, naar Dommens Time slaaer,</l>
+<l>Hos dig jeg for Guds Ansigt staaer!</l>
+</lg>
+<p><hi rend="align(center)">29. (650.)</hi></p>
+<p><hi rend="align(center)">Mel. Hvad kan os komme til for Ned.</hi></p>
+<lg>
+<l><hi rend="initial">O</hi> Gud, du feer mig, og du veed</l>
+<l>Alt hvad mit Hjerte glæder,</l>
+<l>Seer, jeg i Tro og Ydmyghed</l>
+<l>Frem til dit Alter træder;</l>
+<l>Opfyld paa mig dit gode Ord,</l>
+<l>Og lad mig finde ved dit Bord</l>
+<l>Velsignelsen, som mætter!</l>
+</lg>
+<p><hi rend="align(center)">30. (651.)</hi></p>
+<p><hi rend="align(center)">Mel. Nu velan vær frist tilmode.</hi></p>
+<lg>
+<l><hi rend="initial">J</hi>esua Christ! du gav mig Livet,</l>
+<l>Dødens Magt du overvandt)</l>
+<l>Ved dit Bord du mig har givet</l>
+<l>Salighedens visse Pant;</l>
+<l>Styrk du mig i Bøn og Tro!</l>
+<l>Giv mig Fred og Sjælero!</l>
+<l>Giør, at jeg din Ære fremmer,</l>
+<l>Over dig mig selv forglemmer!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<head>Praeste-Vielse.</head>
+<p><hi rend="align(center)">31. (652.)</hi></p>
+<p><hi rend="align(center)">Mel. Kom Gud Skaber o Helligaand.</hi></p>
+<lg>
+<l><hi rend="initial">I</hi>vag, paa apostolisk Viis,</l>
+<l>Redskaber nye til Jesu Priis,</l>
+<l>Til Lys og Trost for Herrens Smaa,</l>
+<l>Vi lægge vore Hænder paa!</l>
+</lg> 
+<pb facs="1845_2_page0037.png"/>
+<fw type="pageNum">29</fw>
+<lg>
+<l>2. Igaar vi kom, imorgen alt</l>
+<l>Er vore Dage sammentalt.</l>
+<l>Men Jesus Christus! dine Aar</l>
+<l>Ei løbe ud, mens Verden staaer!</l>
+</lg>
+<lg>
+<l>3. Med Soel og Maane gaaer dit Navn,</l>
+<l>Fra Slægt til Slægt, til Fredens Havn;</l>
+<l>Som Stjernerne i Tal og Glands</l>
+<l>Du skaber dig en Vidne-Krands!</l>
+</lg>
+<lg>
+<l>4. Modtag og disse af vor Haand!</l>
+<l>Udrust dem med din Sandheds-Aand</l>
+<l>Til Vidner om dit Ord, din Fred,</l>
+<l>Din Tro, dit Haab, din Kiærlighed!</l>
+</lg>
+<lg>
+<l>5. O, laan dem Ild af himmelsk Art!</l>
+<l>O, giv dem Lys, som brænder klart!</l>
+<l>O, giv dem Mund, som aander Trost!</l>
+<l>O, laan du dem din egen Røst!</l>
+</lg>
+<lg>
+<l>6. Giv Mod og Kraft til fast at staae,</l>
+<l>Og Viisdom til al kløgt at staae,</l>
+<l>Der sig ophøier mod din Tro,</l>
+<l>Forstyrrer dines Sjælero!</l>
+</lg>
+<lg>
+<l>7. Ja, giv dem Trods paa dine Ord,</l>
+<l>Og Lyst til dine lyse Spor,</l>
+<l>Taalmodighed i Provens Tid,</l>
+<l>Og Seier i den gode Strid!</l>
+</lg>
+<lg>
+<l>8. Vær selv du deres Prædikant!</l>
+<l>Lær dem for dig at skrifte grandt,</l>
+<l>Saa de kan med dit Helgen-Kor</l>
+<l>Gaae værdig selv til Herrens Bord!</l>
+</lg>
+<lg>
+<l>9. Og naar i Alt de sindes troe,</l>
+<l>Lad i dit Huus dem altid boe,</l>
+<l>Gaae ind og ud med Lys og Fred,</l>
+<l>Og frydes ved dets Deilighed!</l>
+</lg> 
+<pb facs="1845_2_page0038.png"/>
+<fw type="pageNum">30</fw>
+<p><hi rend="align(center)">32. (653.)</hi></p>
+<p><hi rend="align(center)">Mel. Jeg beder dig min Herre og Gud.</hi></p>
+<lg>
+<l><hi rend="initial">O</hi> Jesus, Præst i Evighed!</l>
+<l>Her lader du det kiende,</l>
+<l>Hvorfor dig Gud af Himlen ned</l>
+<l>Til Jorden vilde sende:</l>
+<l>At Syndere du kunde med Din Fader ret forlige,</l>
+<l>Og stiænke evigt Hjemmested</l>
+<l>I Herlighedens Rige!</l>
+</lg>
+<lg>
+<l>2. Disiplerne, som vil og skal Dit Lære. Embed fore,</l>
+<l>Saa de paa Jorden Himlens Sal</l>
+<l>Med Sjæle rig kan giøre,</l>
+<l>Dem lærer du at lyse Fred</l>
+<l>Fra dig, al Synds Forsoner,</l>
+<l>udruster dem med Myndighed,</l>
+<l>Og dem med Naade kroner!</l>
+</lg>
+<lg>
+<l>3. Som Faderen har dig udsendt,</l>
+<l>Og salvet over Maade,</l>
+<l>Med Aand og Kraft, for ubekiendt,</l>
+<l>Saa vil du og, i Naade,</l>
+<l>Med Aand og Kraft dem ruste ud,</l>
+<l>Som, til din Faders Ære,</l>
+<l>Skal kaldes dine Sendebud,</l>
+<l>Og Verden Sandhed lære.</l>
+</lg>
+<lg>
+<l>4. Gid Livet i din Lærestand</l>
+<l>Ret christelig maa fores!</l>
+<l>Lad Intet, som forarge kan,</l>
+<l>Om Sandheds Vidner høres!</l>
+<l>Oplys du dem, som Lyset dit</l>
+<l>I Stage din skal sætte,</l>
+<l>Saa med dit Ord ve holde Skridt,</l>
+<l>Og alting vel udrette!</l>
+</lg> 
+<pb facs="1845_2_page0039.png"/>
+<fw type="pageNum">31</fw>
+<lg>
+<l>5. Lad Haand i Haand dem gaae med Fred!</l>
+<l>Og deres Sjæl du glæde,</l>
+<l>Saa altid med Frimodighed</l>
+<l>Og Lyst de kan fremtræde.</l>
+<l>Forkynde høit dit Sandheds-Ord,</l>
+<l>Til Seier din og Ære,</l>
+<l>Saalænge Kirken her paa Jord</l>
+<l>I Kamp og Strid skal være!</l>
+</lg>
+<p><hi rend="align(center)">33. (654.)</hi></p>
+<p><hi rend="align(center)">Egen Melodi.</hi></p>
+<lg>
+<l><hi rend="initial">O</hi> Herre! din er Aanden,</l>
+<l>Med Palmen himmelreen,</l>
+<l>Din Stav i Hyrdehaanden</l>
+<l>Slaaer Væld af Klippesteen;</l>
+<l>Giv Kiærligheden Vinger!</l>
+<l>Smelt Sjæle med dit Ord!</l>
+<l>Frem Livets Kilde springer,</l>
+<l>hvor Livets Konge boer.</l>
+</lg>
+<p><hi rend="align(center)">34. (655.)</hi></p>
+<p><hi rend="align(center)">Egen Melodi.</hi></p>
+<lg>
+<l><hi rend="initial">P</hi>aa Andagts Himmelstige</l>
+<l>Til Herren Loftets Engel foer,</l>
+<l>Og Herren i Guds Rige</l>
+<l>Har hørt fin Tjeners Troskabsord!</l>
+<l>Hans Fred er her tilstede,</l>
+<l>Han er i Kraft os nær,</l>
+<l>I Jesu Navn vi bede.</l>
+<l>Og han er midt iblandt os her.</l>
+</lg>
+<lg>
+<l>2. O du, som Tanken kiender,</l>
+<l>Og ved Disiplens Side Staaer,</l>
+<l>Naar Hjertet i ham brænder,</l>
+<l>Og til dit store Værk han gaaer!</l>
+<l>O du vil ei bortdrage</l>
+<l>Din Haand fra Hyrdens Haand,</l>
+<l>Vær med ham alle Dage,</l>
+<l>Fuldfor hans Gierning med din Aand!</l>
+</lg> 
+<pb facs="1845_2_page0040.png"/>
+<fw type="pageNum">32</fw>
+<p><hi rend="align(center)">35. (656.)</hi></p>
+<p><hi rend="align(center)">Egen Melodi.</hi></p>
+<lg>
+<l><hi rend="initial">E</hi>en Gud og alles Fader!</l>
+<l>Er Hjordens og dens Hyrders Raab.</l>
+<l>Eet Livets Væld os bader,</l>
+<l>Og eet er vore Sjæles Haab!</l>
+<l>Een Rost fra sanddrue Munde!</l>
+<l>Een Aand i Kirkens Rost!</l>
+<l>Een Fred, hvortil vi stunde!</l>
+<l>Een Tro med evig Trøst!</l>
+<l>Een Kiærlighed, een Længsel,</l>
+<l>Een Kamp for Palmen hist!</l>
+<l>Een Udgang af al Trængsel!</l>
+<l>Eet Liv i Jesu Christ!</l>
+</lg>
+<p><hi rend="align(center)">36. (657.)</hi></p>
+<p><hi rend="align(center)">Mel. Lover den Herre den mægtige Konge med Ære.</hi></p>
+<lg>
+<l><hi rend="initial">D</hi>eiligt er Synet og lifligt, hvor Brødrene bygge,</l>
+<l>Bygge og boe under venlige Tage fuldtrygge,</l>
+<l>Lifligt især</l>
+<l>Er det, hvor Brødre, som her,</l>
+<l>Boe i den Høiestes Skygge!</l>
+</lg>
+<lg>
+<l>2. Salvede Brødre! hvor I, under Frelserens Vinger,</l>
+<l>Bygge tilsammen, der Kilden til Livet udspringer,</l>
+<l>Olie-Strøm</l>
+<l>Belger til Klædebons-Søm,</l>
+<l>Dryppende rigt fra Guds Finger!</l>
+</lg>
+<lg>
+<l>3. Bjergboer alle paa Zion, som Himlen bedugger,</l>
+<l>Hvor sig i Palmernes Toppe Velsignelsen vugger!</l>
+</lg> 
+<pb facs="1845_2_page0041.png"/>
+<fw type="pageNum">33</fw>
+<lg>
+<l>Broderlig bildt</l>
+<l>Tomme tilsammen I tit</l>
+<l>Kalken, som Torsten udslukker!</l>
+</lg>
+<lg>
+<l>4. Snorerne for eder faldt paa de liflige Steder,</l>
+<l>Aabenlyst eder beredte er Saligheds Klæder,</l>
+<l>Findes I troe,</l>
+<l>Hos eder bygge og boe</l>
+<l>Her alt de himmelske Glæder!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<head>Brude-Vielse.</head>
+<p><hi rend="align(center)">37. (658.)</hi></p>
+<p><hi rend="align(center)">Mel. Fra Himlen høit kom vi nu her.</hi></p>
+<lg>
+<l><hi rend="initial">L</hi>yksalig, hvo som frygter Gud,</l>
+<l>Og har for Vine Herrens Bud!</l>
+<l>Ham klæder Alt i Verden smukt,</l>
+<l>Han nyder glad sit Arbeids Frugt.</l>
+</lg>
+<lg>
+<l>2. Ham stiænker Gud et stille Liv,</l>
+<l>Ham stiænker Gud en Venneviv,</l>
+<l>Han ei, som eenlig Spurv paa Tag,</l>
+<l>Sorgmodig sidder Nat og Dag.</l>
+</lg>
+<lg>
+<l>3. Hans Hustru blomstrer i hans Bo,</l>
+<l>Som paa Solsiden Ranker groe,</l>
+<l>Hans Børneflok, med blide Vaar,</l>
+<l>Som Ymper i en Abildgaard!</l>
+</lg>
+<lg>
+<l>4. Velsignelse, al Jordens Tarv,</l>
+<l>Velsignelsen er deres Arv,</l>
+<l>Velsignede af Himlens Gud,</l>
+<l>Staaer Brudgom Sen og Datter Brud!</l>
+</lg>
+<lg>
+<l>5. Gudfrygtig Mand i Oldings-Aar</l>
+<l>Omkrandse skiønt de Hvide Haar,</l>
+<l>Naar Bedstefader paa sit Skiød</l>
+<l>Seer Børnebørn med Kinden red!</l>
+</lg> 
+<pb facs="1845_2_page0042.png"/>
+<fw type="pageNum">34</fw>
+<lg>
+<l>6. For ham gaaer Solen deilig ned,</l>
+<l>Han sover hen i Herrens Fred,</l>
+<l>Vejviser er hans Vandringsstav,</l>
+<l>Hans Støv velsignes i sin Grav.</l>
+</lg>
+<lg>
+<l>7. Og hvad er ligt en Moders Lyst,</l>
+<l>Med Sen og Datter ved sit Bryst,</l>
+<l>Naar Naadens Soel i Herrens Fred</l>
+<l>Omstraaler hendes Kiærlighed!</l>
+</lg>
+<lg>
+<l>8. Og hvilken Blomst har Duft saa fod,</l>
+<l>Som Moder from i Liv og Død!</l>
+<l>Hun er en Blomst i Edens Ved,</l>
+<l>Som dufter i al Evighed!</l>
+</lg>
+<p><hi rend="align(center)">38. (659)</hi></p>
+<p><hi rend="align(center)">Mel. Veller Wunder, voller Kunst.</hi></p>
+<lg>
+<l><hi rend="initial">G</hi>læderig og underfuld,</l>
+<l>Rig paa Naad, paa Taal og Trøst,</l>
+<l>Klippefast og tro som Guld,</l>
+<l>Sod i Vaar og fod i Host,</l>
+<l>Dybere end Nogen veed,</l>
+<l>Er den ægte Kiærlighed!</l>
+</lg>
+<lg>
+<l>2. Evas Datter, Adams Sen,</l>
+<l>Vore op i Øst og Vest,</l>
+<l>Drommer ei derom i Len,</l>
+<l>De hinanden huge bedst,</l>
+<l>Mærke, naar de modes, dog,</l>
+<l>Klart er Kiærlighedens Sprog!</l>
+</lg>
+<lg>
+<l>3. Følge hver kun Herrens Haand,</l>
+<l>Hvor den leder, til og fra!</l>
+<l>Som Fuldkommenhedens Vaand,</l>
+<l>Kiærlighed vi sinde da,</l>
+<l>Med Guld-Kiæde Himlens Gud</l>
+<l>Binder Brudgom til sin Brud!</l>
+</lg> 
+<pb facs="1845_2_page0043.png"/>
+<fw type="pageNum">35</fw>
+<lg>
+<l>4. Med den Samme binder Han</l>
+<l>Begge til sin Fader-Favn,</l>
+<l>Signer deres Ægtestand</l>
+<l>I Vorherres Jesu Navn,</l>
+<l>Kroner saa med Fryd og Fred</l>
+<l>Deres Ægte-Kiærlighed!</l>
+</lg>
+<p><hi rend="align(center)">39. (660.)</hi></p>
+<p><hi rend="align(center)">Mel. I Jefu Navn.</hi></p>
+<lg>
+<l><hi rend="initial">O</hi> Ægtestand!</l>
+<l>Du høilyksalig est,</l>
+<l>Naar Gud og Mand:</l>
+<l>Vor Jesus, bydes kan</l>
+<l>Ved dit Bryllup med tilgiæst!</l>
+<l>Ved dit Bryllup med tilgiæst!</l>
+<l>Vil en Ulyd</l>
+<l>Da forstyrre din Fryd,</l>
+<l>Det har dog ingen Nod,</l>
+<l>Hans Stemme, den er sød,</l>
+<l>Og almægtigt er hans Ord,</l>
+<l>Som i Himmel, saa paa Jord,</l>
+<l>Og hans Venlighed er stor.</l>
+</lg>
+<lg>
+<l>2. O Jesus! som</l>
+<l>Giør Viin af Sorgens Aa,</l>
+<l>Vær dog saa from</l>
+<l>Og til hvert Bryllup kom,</l>
+<l>Hvor du bønlig kaldes paa!</l>
+<l>Fattes dem Viin,</l>
+<l>Glæden liflig og sin,</l>
+<l>Da skab den med dit Ord,</l>
+<l>Som hist ved Brudebord!</l>
+<l>Raad paa deres Vaande Bod!</l>
+<l>Lad dem, dybt ved Hjerterod,</l>
+<l>Fele, smage, du er god!</l>
+</lg> 
+<pb facs="1845_2_page0044.png"/>
+<fw type="pageNum">36</fw>
+<p><hi rend="align(center)">40. (661.)</hi></p>
+<p><hi rend="align(center)">Mel. Sorrig og Glæde de vandre tilhobe.</hi></p>
+<lg>
+<l><hi rend="initial">E</hi>ne om Raadet er ene om Sorgen,</l>
+<l>Eenlighed ei er for Mennesket godt,</l>
+<l>Sjeldent er Venskab i Hytten og Borgen,</l>
+<l>Medhjelp behøves til Stort og til Smaat,</l>
+<l>Derfor paa Jord</l>
+<l>I Syd og Nord,</l>
+<l>Ægteskab er et velsignet Ord!</l>
+</lg>
+<lg>
+<l>2. Himmelens Herre og Jordens Forsoner</l>
+<l>Kalder sit troende Samfund sin Brud,</l>
+<l>Derfor i dybe og hellige Toner</l>
+<l>Bryde de Christne ved Vielsen ud,</l>
+<l>Pege med Haand</l>
+<l>Paa Hjerte og Aand,</l>
+<l>Inderlig Eet i Fuldkommenheds Baand!</l>
+</lg>
+<p><hi rend="align(center)">41 (662.)</hi></p>
+<p><hi rend="align(center)">Mel. Af. Høiheden oprunden er.</hi></p>
+<lg>
+<l><hi rend="initial">D</hi>u ledte frem, Algodheds Gud,</l>
+<l>Til første Mand den første Brud,</l>
+<l>I Paradisets Gange,</l>
+<l>De glade lagde Haand i Haand,</l>
+<l>Til Eenhed vied dem din Aand,</l>
+<l>I Kor af Engle-Sange;</l>
+<l>Kiærlig, listig,</l>
+<l>Skabdes Kvinde</l>
+<l>Til Mandinde,</l>
+<l>Til med Blide</l>
+<l>Bly at staae ved Mandens Side!</l>
+</lg>
+<lg>
+<l>2. O, hør os, alle Slægters Gud!</l>
+<l>Velsign den Brudgom og hans Brud,</l>
+<l>Som her for Dig fremtræde!</l>
+<l>Giv Bryllups-Psalmen Efterklang</l>
+<l>Af Paradisets Englesang,</l>
+<l>Til Ægte-Parrets Glæde!</l>
+</lg> 
+<pb facs="1845_2_page0045.png"/>
+<fw type="pageNum">37</fw>
+<lg>
+<l>Din Haand, din Aand,</l>
+<l>Kiærlig bøie,</l>
+<l>Sammenfeje</l>
+<l>Og forbinde</l>
+<l>Dannemand og Dannekvinde!</l>
+</lg>
+<p><hi rend="align(center)">42. (663.)</hi></p>
+<p><hi rend="align(center)">Samme Melodi.</hi></p>
+<lg>
+<l><hi rend="initial">D</hi>e knælede med Ja mod Ja,</l>
+<l>For Dig, o store Jehova,</l>
+<l>Hvis Mund har aldrig leiet!</l>
+<l>De To for Dig er nu som Eet,</l>
+<l>Og stille ad skal Ingen det,</l>
+<l>Som Du har sammensøiet.</l>
+<l>Medgang, Modgang,</l>
+<l>Vinter, Sommer,</l>
+<l>Hvad der kommer,</l>
+<l>Let de bære,</l>
+<l>Sig til Gavn og Dig til Ære!</l>
+</lg>
+<lg>
+<l>2. Dit Lofte er ei Ja og Nei,</l>
+<l>Og Fromhed Du paa Livets Vei</l>
+<l>Har lovet Lys og Naade;</l>
+<l>Velsignelsen i Jesu Navn</l>
+<l>Forklare herlig. Favn i Favn</l>
+<l>Dem Kiærlighedens Gaade:</l>
+<l>Evig, hos Dig,</l>
+<l>Livets Kilde,</l>
+<l>Lovens Fylde,</l>
+<l>Trost i Noden,</l>
+<l>Stærkere ved Dig end Døden!</l>
+</lg>
+<p><hi rend="align(center)">43. (664.)</hi></p>
+<p><hi rend="align(center)">Mel. Enhver som troer og bliver døbt.</hi></p>
+<lg>
+<l><hi rend="initial">D</hi>ig, Alles Fader, Livets Gud!</l>
+<l>I Bønnen nær vi træde,</l>
+<l>Fra dig vor Brudgom med fin Brud</l>
+<l>Tor vente Lys og Glæde;</l>
+</lg> 
+<pb facs="1845_2_page0046.png"/>
+<fw type="pageNum">38</fw>
+<lg>
+<l>Du tænder Ild i ungdoms Barm,</l>
+<l>Du lægger Kraft i Manddoms Arm,</l>
+<l>Du kroner Graahaars-Issen!</l>
+</lg>
+<lg>
+<l>2. Skiøn er din Himmel, skien din Jord,</l>
+<l>Og stien er Havets Bølge,</l>
+<l>Alt skiønt sor dem, som troe dit Ord,</l>
+<l>Og dine Vink tør følge!</l>
+<l>As Vintrens Skiød udspringer Vaar,</l>
+<l>Og Heltemod af bange Kaar,</l>
+<l>Og Rosen groer paa Torne!</l>
+</lg>
+<lg>
+<l>3. Hvem staaer i Vennekredsen her,</l>
+<l>Med Herrens Lys for Øie,</l>
+<l>Og feer ei, baade fjern og nær,</l>
+<l>I Glandsen fra det Høie,</l>
+<l>Al Skiønheds Speil, Algodheds Spor,</l>
+<l>Guds Billed paa den hele Jord,</l>
+<l>Fra Slægt til Slægt Hans Naade!</l>
+</lg>
+<lg>
+<l>4. Blandt os i Dag er Glæden ny,</l>
+<l>Som Vaarens Blomst i Enge!</l>
+<l>Som Skin af Soel og Dugg fra Sky</l>
+<l>Vi kiendte den dog længe;</l>
+<l>Den Yngste selv ei tæller grant</l>
+<l>De Glæder, han paa Veien fandt,</l>
+<l>Som Stjernerne de tindre.</l>
+</lg>
+<lg>
+<l>5. Thi skal vor Lovsang prise Dig,</l>
+<l>Vor Fader i det Høie!</l>
+<l>Og alle vi ydmygelig</l>
+<l>Os for dit Aasyn bøie,</l>
+<l>Bekiende frit, din Miskundhed</l>
+<l>Langt overgaaer hvad Nogen veed;</l>
+<l>Dit Navn høilovet være!</l>
+</lg>
+<lg>
+<l>6. O lad den Dag, os fryder nu,</l>
+<l>Af Dig velsignet være,</l>
+<l>Saa tit den rinder os ihu,</l>
+<l>Med Glæde, Dig til Ære!</l>
+</lg> 
+<pb facs="1845_2_page0047.png"/>
+<fw type="pageNum">39</fw>
+<lg>
+<l>Velsign den skiønne Ægtestand!</l>
+<l>Giør frugtbar den for Huus og Land</l>
+<l>Paa Fromhed, Fred og Lykke!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<head>Berettelse og Ligbegiængelse.</head>
+<p><hi rend="align(center)">44. (665.)</hi></p>
+<lg>
+<l><hi rend="initial">M</hi>ed Sorgen og Klagen hold Maade,</l>
+<l>Og Husk paa den hellige Daab!</l>
+<l>Lad Guds Ord dig trøste og raade!</l>
+<l>Tilegn dig Guds Herligheds Haab!</l>
+</lg>
+<lg>
+<l>2. Hvi giemde du Støvet i Kiste,</l>
+<l>Hvi risted du Navnet i Steen,</l>
+<l>Naar ikke i Troen du vidste,</l>
+<l>At vaagne skal sovende Been!</l>
+</lg>
+<lg>
+<l>3. Lad Legemet kun sig udhvile,</l>
+<l>Og savne med Synet al Sands!</l>
+<l>Det skal baade vaagne og smile,</l>
+<l>Og skinne og stues i Glands!</l>
+</lg>
+<lg>
+<l>4. Saa Kornet utallige Gange</l>
+<l>Har fundet fin Død under Muld,</l>
+<l>Opstod dog i bølgende Vange,</l>
+<l>Og skinned i Solen som Guld!</l>
+</lg>
+<lg>
+<l>5. Saa lagdes din Frelser i Dvale,</l>
+<l>Men veed du ei, hvor han er nu?</l>
+<l>Han throner i Himmerigs Sale,</l>
+<l>Og husker, ved Stov Hænger du.</l>
+</lg>
+<lg>
+<l>6. Modtag da kun, Jord! hvad nu segner,</l>
+<l>Og giem det i moderligt Skiød,</l>
+<l>Men glem ei, at Kinden, som blegner,</l>
+<l>End Ret har til Rosen saa rød!</l>
+</lg> 
+<pb facs="1845_2_page0048.png"/>
+<fw type="pageNum">40</fw>
+<lg>
+<l>7. Ja, glem ei, at Hytten, som hælder.</l>
+<l>Som raver og synker i Gruus,</l>
+<l>I Grav vel sin Brode undgiælder,</l>
+<l>Men bygdes dog til et Guds-Huus!</l>
+</lg>
+<lg>
+<l>8. Guds Ord, det gaaer aldrig af Minde,</l>
+<l>Det hørdes og troedes der,</l>
+<l>Og tit har de leget derinde,</l>
+<l>Smaa-Englene, Gud haver kiær!</l>
+</lg>
+<lg>
+<l>9. Du, Jord, har Guds-Huset i Giemme,</l>
+<l>Sin Herlighed nu det har tabt,</l>
+<l>Men Gud kan dog aldrig forglemme,</l>
+<l>Det blev i Hans Billede skabt!</l>
+</lg>
+<lg>
+<l>10. Du veed ei, naar rødmende Skyer</l>
+<l>Bevidne, at Natten udrandt,</l>
+<l>udraabe, at Morgenen gryer,</l>
+<l>Da Herren vil kræve sit Pant!</l>
+</lg>
+<lg>
+<l>11. Lyksaligste af alle Dage,</l>
+<l>O Muld! naar af dig mylre frem</l>
+<l>Guds Billeder alle saa fage!</l>
+<l>Da Børnene Gud henter hjem!</l>
+</lg>
+<p><hi rend="align(center)">45. (666.)</hi></p>
+<p><hi rend="align(center)">Egen Melodi.</hi></p>
+<lg>
+<l><hi rend="initial">M</hi>ed Fred og Fryd jeg farer hen,</l>
+<l>Naar Gud befaler,</l>
+<l>Saa blidelig, med Gud til Ven,</l>
+<l>Min Soel neddaler;</l>
+<l>Sødt og salig sove hen</l>
+<l>Jeg stal, som han mig loved!</l>
+</lg>
+<lg>
+<l>2. Ja, Herre, mine Øine saae,</l>
+<l>Du os har givet,</l>
+<l>Selv naar vi skal i Døden gaae,</l>
+<l>Udvei til Livet:</l>
+<l>Christus din, vor Frelsermand,</l>
+<l>Han er vort Liv i Døden.</l>
+</lg> 
+<pb facs="1845_2_page0049.png"/>
+<fw type="pageNum">41</fw>
+<lg>
+<l>3 Ham til os Alle Du har sendt,</l>
+<l>Vor Sjæl til Baade,</l>
+<l>Giør hele Verden og bekiendt</l>
+<l>I ham din Naade;</l>
+<l>Vældig Ordet dyrebart</l>
+<l>Nu allevegne runger!</l>
+</lg>
+<lg>
+<l>4. Midt i det blinde Hedenskab</l>
+<l>Er Lys oprundet,</l>
+<l>Et saligt Lys, en Soel i Grav,</l>
+<l>Har Seier vundet</l>
+<l>Israel! dit Haab, din Glands,</l>
+<l>Han er vort Lys, vor Glæde!</l>
+</lg>
+<p><hi rend="align(center)">46. (667.)</hi></p>
+<p><hi rend="align(center)">Mel. Mit Haab og Trøst og al Tillid.</hi></p>
+<lg>
+<l><hi rend="initial">N</hi>aar jeg betænker den Tid og Stund,</l>
+<l>Jeg skal fra Verden fare,</l>
+<l>Min Sjæl sig fryder saa mangelund,</l>
+<l>Som Fugl ved Dag hin klare;</l>
+<l>Med Nod og Trang,</l>
+<l>Og Klagesang,</l>
+<l>Det da forbi skal være,</l>
+<l>Til Hvilen sod,</l>
+<l>I Abrams Skiød,</l>
+<l>Guds Engle mig henbære!</l>
+</lg>
+<lg>
+<l>2. Jeg veed, min Herre, Jesus Christ,</l>
+<l>I Guddoms-Ære lever,</l>
+<l>Han vækker mig af Dove vist,</l>
+<l>Mig op af Graven hæver;</l>
+<l>Med Kiød og Been</l>
+<l>Jeg, uden Meen,</l>
+<l>Opstaaer som Soel hin klare,</l>
+<l>Guds Ansigt bildt</l>
+<l>Skal Die mit</l>
+<l>Beskue aabenbare!</l>
+</lg> 
+<pb facs="1845_2_page0050.png"/>
+<fw type="pageNum">42</fw>
+<lg>
+<l>3. Vi er af Adams faldne Kiøn,</l>
+<l>Vi lægges maae i Jorde,</l>
+<l>Men Døden leed for os Guds Sen,</l>
+<l>Dermed han Fyldest gjorde;</l>
+<l>Den Hyrde mild,</l>
+<l>Han satte til Sit eget Liv for Hjorden!</l>
+<l>Hans Blod saa redt</l>
+<l>Giør, at jeg sødt</l>
+<l>Med Gud forligt er vorden!</l>
+</lg>
+<lg>
+<l>4. Ja, Slangen fik sit Banesaar</l>
+<l>Af Kvindens Sæd den rene,</l>
+<l>Den grumme Død, den Fiende haard,</l>
+<l>Min Frelser tvang alene!</l>
+<l>Al Helveds Magt</l>
+<l>Er ødelagt,</l>
+<l>I Fred skal den mig lade,</l>
+<l>Den bittre Død</l>
+<l>Og Helveds Glød</l>
+<l>Kan Sjælen meer ei stade.</l>
+</lg>
+<lg>
+<l>5. Eia, min Sjæl! vær kiæk og bold!</l>
+<l>Glæd dig i Christ, din Herre!</l>
+<l>Den Død, som for var Syndens Sold,</l>
+<l>En Vinding nu skal være;</l>
+<l>En Afgrund for,</l>
+<l>Er nu en Dor,</l>
+<l>En Gang til Glædens Sale,</l>
+<l>Hvor, langt fra Død,</l>
+<l>Guds Hvile fed</l>
+<l>Mig evig skal husvale!</l>
+</lg>
+<lg>
+<l>6. Spørg derfor ei, hvor du skal hen,</l>
+<l>Naar Verden du maa vige!</l>
+<l>Dig favner trygt en fuldtro Ven,</l>
+<l>Hans Læber ei besvige,</l>
+<l>For dig Guds Son</l>
+<l>Gik selv i Bøn,</l>
+</lg> 
+<pb facs="1845_2_page0051.png"/>
+<fw type="pageNum">43</fw>
+<lg>
+<l>For dig og alle Sine,</l>
+<l>Saa vi skal boe</l>
+<l>Hos ham i Ro,</l>
+<l>Hvor der er ingen Pine!</l>
+</lg>
+<lg>
+<l>7. Et Sovekammer er nu min Grav,</l>
+<l>Der skal mit Legem hvile,</l>
+<l>Men herliggjort staae op deraf</l>
+<l>Og til sin Frelser ile;</l>
+<l>Gak, Hvil, min Aand,</l>
+<l>Dig i Guds Haand!</l>
+<l>Lad Stormen overfare!</l>
+<l>Luk Døren til!</l>
+<l>Gud kan og vil</l>
+<l>Det Skjulte aabenbare!</l>
+</lg>
+<lg>
+<l>8. Eia! saa døer jeg gladelig,</l>
+<l>Jeg frygter ingen Vaade,</l>
+<l>Mit Liv er Christus visselig,</l>
+<l>Min Død er mig til Baade;</l>
+<l>Døer end jeg her,</l>
+<l>Jeg lever der,</l>
+<l>Hvor Livet ret begynder,</l>
+<l>Og Engle-Kor,</l>
+<l>Med Glæde stor,</l>
+<l>Guds Salighed forkynder!</l>
+</lg>
+<p><hi rend="align(center)">47. (668.)</hi></p>
+<p><hi rend="align(center)">Mel. Fader vor udi Himmerig.</hi></p>
+<lg>
+<l><hi rend="initial">V</hi>or Herre Jesus, Gud og Mand,</l>
+<l>Som holdt for mig til Deden Stand,</l>
+<l>Til Korsets Død med Spee og Spot,</l>
+<l>Og giorde dermed Alting godt!</l>
+<l>Hor sor din Pines Skyld min Bøn,</l>
+<l>Og vær mig huld i Lys og Løn!</l>
+</lg>
+<lg>
+<l>2. Engang jeg i den sidste Nod</l>
+<l>Skal drages med den bittre Død,</l>
+<l>Til Viet brister under Bryn,</l>
+<l>Og mig forgaaer al Sands og Syn,</l>
+</lg> 
+<pb facs="1845_2_page0052.png"/>
+<fw type="pageNum">44</fw>
+<lg>
+<l>Til stum slet intet jeg forstaaer,</l>
+<l>Og bristefærdigt Hjertet staaer!</l>
+</lg>
+<lg>
+<l>3. Naar Mennesker ei hjelpe kan,</l>
+<l>O	vær da hos mig, Gud og Mand!</l>
+<l>Vær du mit Syn, vær du min Sands!</l>
+<l>Vær du mit Lys med Himmelglands!</l>
+<l>Forstæk mig Dødens bittre Kval!</l>
+<l>Giør Veien kort til Glædens Sal!</l>
+</lg>
+<lg>
+<l>4. De onde Aander fra mig driv!</l>
+<l>Vær du min Aand, vær du mit Liv!</l>
+<l>Og naar du løser Støvets Baand,</l>
+<l>Tag Sjælen, Herre, i din Haand,</l>
+<l>Til Hvile Sod! mit Stov i Mag</l>
+<l>Sig hvile og til Dommedag!</l>
+</lg>
+<lg>
+<l>5. Og lad mig da med Fryd opstaae!</l>
+<l>Tal selv min Sag, naar Dom skal gaae!</l>
+<l>Paa Synden min ei mere tænk!</l>
+<l>I Naade evigt Liv mig stiænk!</l>
+<l>Ja kom ihu din gode Pagt,</l>
+<l>Og giør det Alt, som du har sagt!</l>
+</lg>
+<lg>
+<l>6. Til evig Tid lad fryde mig</l>
+<l>Dit: sandelig, jeg siger dig,</l>
+<l>Hvo paa mig troer, som skrevet staaer,</l>
+<l>Med ham i Rette ei jeg gaaer,</l>
+<l>Den bittre Død han smager ei,</l>
+<l>Men trodser den paa Livets Vei!</l>
+</lg>
+<lg>
+<l>7. Om af min Vens der Noget døer,</l>
+<l>Min Kæmpehaand, af Dødens Kløer,</l>
+<l>Det vrister ud, til evig frit</l>
+<l>At færdes rundt i Rige mit,</l>
+<l>At smage Liv og aande Fryd</l>
+<l>Med mig ved Seierssangens Lyd!</l>
+</lg>
+<lg>
+<l>8. Halleluja! vor Frelser god,</l>
+<l>Som mild for os udgiød dit Blod!</l>
+<l>Din Naades Ord du gaaer ei fra,</l>
+<l>Dit Lofte er et trofast Ja,</l>
+</lg> 
+<pb facs="1845_2_page0053.png"/>
+<fw type="pageNum">45</fw>
+<lg>
+<l>Thi Ja og Amen er i Dig,</l>
+<l>Gud-Faders Ord evindelig!</l>
+</lg>
+<p><hi rend="align(center)">48. (669.)</hi></p>
+<p><hi rend="align(center)">Mel. See Solens skjønne Lys og Pragt.</hi></p>
+<lg>
+<l><hi rend="initial">J</hi>eg gaaer i Fare, hvor jeg gaaer,</l>
+<l>Min Sjæl, du det betænke,</l>
+<l>At Synden allevegne staaer</l>
+<l>For Døren med sin Lænke!</l>
+<l>Afgrundens Lygtemand</l>
+<l>Mig let forvilde kan,</l>
+<l>Med blide, som med bange Kaar,</l>
+<l>Jeg gaaer i Fare, hver jeg gaaer!</l>
+</lg>
+<lg>
+<l>2. Jeg gaaer blandt Engle, hvor jeg gaaer,</l>
+<l>De kan mig godt bevare,</l>
+<l>Slet intet Helveds Hær formaaer</l>
+<l>Mod Himlens Helte-Skare,</l>
+<l>Den staaer om mig Skjoldborg,</l>
+<l>Lad fare Suk og Sorg!</l>
+<l>Trods, Nogen krummer mig et Haar!</l>
+<l>Jeg gaaer blandt Engle, hvor jeg gaaer!</l>
+</lg>
+<lg>
+<l>3. Jeg gaaer i Trængsel, hvor jeg gaaer,</l>
+<l>Jeg kæmpe maa og stride,</l>
+<l>Og Sjæle-Angest, Hjerte-Saar</l>
+<l>Taalmodig skal jeg lide,</l>
+<l>Tit ingen Vei jeg seer,</l>
+<l>Hvor jeg kan vandre meer,</l>
+<l>Naar Modgangs Belger om mig staaer;</l>
+<l>Jeg gaaer i Trængsel, hvor jeg gaaer.</l>
+</lg>
+<lg>
+<l>4. Jeg gaaer med Jesus, hvor jeg gaaer,</l>
+<l>Han vandrer ved min Side,</l>
+<l>I Kamp og Strid han med mig staaer,</l>
+<l>Forsøder al min Kvide,</l>
+<l>Han lyser for min Fod,</l>
+<l>Han i mig sætter Mod;</l>
+</lg> 
+<pb facs="1845_2_page0054.png"/>
+<fw type="pageNum">46</fw>
+<lg>
+<l>Trods al den Deel, mig ilde Spaaer,</l>
+<l>Jeg gaaer med Jesus, hvor jeg gaaer.</l>
+</lg>
+<lg>
+<l>5. Jeg gaaer til Graven, hvor jeg gaaer,</l>
+<l>Og veed mig aldrig sikker,</l>
+<l>Ved Vuggen alt stod Død med Baar,</l>
+<l>Paa Lur han altid ligger,</l>
+<l>Et lidet Aandefang</l>
+<l>Kan ende Støvets Gang,</l>
+<l>Den morke Nat mig forestaaer,</l>
+<l>Jeg gaaer til Graven, hvor jeg gaaer.</l>
+</lg>
+<lg>
+<l>6. Jeg gaaer til Himlen, hvor jeg gaaer,</l>
+<l>Frimodig da, mit Hjerte!</l>
+<l>Kun did, hvor du en Ende faaer</l>
+<l>Paa Synd og Sorg og Smerte!</l>
+<l>Bort, Verdens Lyst og Pragt!</l>
+<l>Til Himlen staaer min Agt,</l>
+<l>Alt Verdens Væsen jeg forsmaaer</l>
+<l>Og gaaer til Himlen, hvor jeg gaaer.</l>
+</lg>
+<p><hi rend="align(center)">49. (670.)</hi></p>
+<p><hi rend="align(center)">Egen Melodi.</hi></p>
+<lg>
+<l><hi rend="initial">H</hi>vo veed, hvor nær mig er min Ende!</l>
+<l>See, Tiden meget hastig gaaer,</l>
+<l>Hvor let og snart kan det sig hænde.</l>
+<l>At jeg mit Vandre-Budskab faaer!</l>
+<l>O Gud, giør da for Christi Blod</l>
+<l>Min Afskedstime sød og god!</l>
+</lg>
+<lg>
+<l>2. Lær mig at tælle mine Dage,</l>
+<l>Og viselig at bruge dem,</l>
+<l>Saa kun hvad Dig kan velbehage,</l>
+<l>Jeg pønser paa og fører frem!</l>
+<l>Og giør, min Gud, for Christe Blod</l>
+<l>Min Afskedstime sød og god!</l>
+</lg>
+<lg>
+<l>3. Din Søn med Naadens Ord mig kaldte,</l>
+<l>Og han har lovet i min Daab</l>
+<l>Mig Lodd og Deel med de Udvalgte,</l>
+<l>I Jesu Tro, det er mit Haab!</l>
+</lg> 
+<pb facs="1845_2_page0055.png"/>
+<fw type="pageNum">47</fw>
+<lg>
+<l>O Gud, giør da for Christi Blod,</l>
+<l>Min Afskedstime sø\d og god!</l>
+</lg>
+<lg>
+<l>4. Din Søn for mig sit Blod det røde.</l>
+<l>Det hellige, udgiød paa Jord,</l>
+<l>Gav mig til Pant og Sjæleføde</l>
+<l>Sit Kjød og Blod ved Naadens Bord;</l>
+<l>Min Gud, giør da for Christi Blod,</l>
+<l>Min Afskedstime fod og god!</l>
+</lg>
+<lg>
+<l>5. O, lad mit Endeligt ei komme,</l>
+<l>Før Aanden vidner fast i mig,</l>
+<l>At jeg med alle dine Fromme</l>
+<l>Har Arvelodd i Himmerig!</l>
+<l>Min Gud, da giør, for Christi Blod,</l>
+<l>Du Afskedstimen sod og god!</l>
+</lg>
+<p><hi rend="align(center)">50. (671.)</hi></p>
+<p><hi rend="align(center)">Mel. Naar min Tid og Stund er forhaand.</hi></p>
+<lg>
+<l><hi rend="initial">S</hi>om Skyggen Svinder Livet bort,</l>
+<l>Glat er den Sti, vi træde,</l>
+<l>Vor Ungdoms faure Vaar er kort,</l>
+<l>Ustadig al vor Glæde,</l>
+<l>Alt Spirer, blomstrer og forgaaer,</l>
+<l>Syv Gange Ti er Støvets Aar,</l>
+<l>Tit færre, sjelden flere!</l>
+</lg>
+<lg>
+<l>2. Men han, som selv til Himmels foer,</l>
+<l>Hvis Lofter ei kan svige,</l>
+<l>Et evigt Liv, med Guddoms Ord,</l>
+<l>Os loved i sit Rige!</l>
+<l>Der modnes Alt til evigt Gavn,</l>
+<l>Som spired her i Jesu Navn,</l>
+<l>Der blomstrer evig Glæde!</l>
+</lg>
+<lg>
+<l>3 O saligt Haab at frydes ved,</l>
+<l>I hver en Livets Alder!</l>
+<l>O salig Trost, med Himlens Fred,</l>
+</lg> 
+<pb facs="1845_2_page0056.png"/>
+<fw type="pageNum">48</fw>
+<lg>
+<l>Naar Herren os bortkalder!</l>
+<l>Med Sjæl og Legem vi forvist</l>
+<l>I Salighed skal leve hist.</l>
+<l>Ved Herren Jesus Christus!</l>
+</lg>
+<p><hi rend="align(center)">51. (672.)</hi></p>
+<p><hi rend="align(center)">Mel. Hvo veed hvor nær mig er min Ende.</hi></p>
+<lg>
+<l><hi rend="initial">S</hi>aa samles vi til vore Fædre,</l>
+<l>Vel den, som fare kan i Fred!</l>
+<l>Kan nogen Vandring være bedre,</l>
+<l>End den til Himlens Herlighed!</l>
+<l>Hvo tør da ønske hid igien</l>
+<l>Dem, som i Fred er faret hen!</l>
+</lg>
+<lg>
+<l>2. Nei, vi dem ønske ei tilbage,</l>
+<l>Som Engle har ledsaget hjem!</l>
+<l>Os Venner Døden kan fratage,</l>
+<l>Men ei det Haab at mode dem,</l>
+<l>Hvor ingen Død os skiller ad,</l>
+<l>Hvor Ven med Ven er evig glad!</l>
+</lg>
+<lg>
+<l>3. O, lad os da, mens Tiden strider,</l>
+<l>Ei glemme, den udrinder brat,</l>
+<l>Men vandre saa, at vi omsider,</l>
+<l>Med kiærligt Minde efterladt,</l>
+<l>Maae komme, hvor i salig Ro</l>
+<l>De bedste Venner evig boe!</l>
+</lg>
+<p><hi rend="align(center)">52. (673.)</hi></p>
+<p><hi rend="align(center)">Samme Melodi.</hi></p>
+<lg>
+<l><hi rend="initial">M</hi>ed Vemod og med Andagt træde</l>
+<l>Vi trindt omkring den aabne Grav,</l>
+<l>En trofast Ven, vort Haab, vor Glæde,</l>
+<l>Har her nedlagt sin Vandringsstav,</l>
+<l>Vi ære, Gud, dit skjulte Raad,</l>
+<l>Men Sorgen seer Du i vor Graad!</l>
+</lg> 
+<pb facs="1845_2_page0057.png"/>
+<fw type="pageNum">49</fw>
+<lg>
+<l>2. O, naar vor Vandring ret besindes,</l>
+<l>I Verdens Larm og Trylleri</l>
+<l>Vi trænge vist til tit at mindes:</l>
+<l>Alt Timeligt er brat forbi,</l>
+<l>Som Pillegrimmes er vor Færd,</l>
+<l>Vort rette Hjem er ikke her!</l>
+</lg>
+<lg>
+<l>3. Men er det, Gud, dit Raad, at ene</l>
+<l>Vi vandre skal den tunge Vei,</l>
+<l>Da dobbelt Kraft Du os forlene,</l>
+<l>Og Tresten, som udtommes ei:</l>
+<l>At hisset vi skal sees igien,</l>
+<l>Og evig glædes, Ven med Ven!</l>
+</lg>
+<lg>
+<l>4. Og fremfor Alt, naar denne Bolig</l>
+<l>Nedsynke skal i Grav og Gruus,</l>
+<l>Vor Hedenfart da være rolig,</l>
+<l>Som Hjemgang til vor Faders Huus,</l>
+<l>Hvor vi tun til at frydes ved,</l>
+<l>Skal mindes vor udlændighed!</l>
+</lg>
+<p><hi rend="align(center)">53. (674.)</hi></p>
+<p><hi rend="align(center)">Mel. Kommer til mig sagde Guds Sen.</hi></p>
+<lg>
+<l><hi rend="initial">A</hi>t sige Verden ret Farvel,</l>
+<l>I Livets Gry og Livets Kvæld</l>
+<l>Er lige tungt at nemme,</l>
+<l>Det lærdes aldrig her paa Jord,</l>
+<l>Var, Jesus, ei du i dit Ord</l>
+<l>Hos os, som du er hjemme!</l>
+</lg>
+<lg>
+<l>2. Hvor tit hos dig end Trost jeg fandt,</l>
+<l>Naar Hjertet skjalv og Traaden randt,</l>
+<l>Og Verdens Belger bruste,</l>
+<l>Ved Støvet hænger dog min Sjæl,</l>
+<l>Og Slangen bider i min Hæl,</l>
+<l>Skiondt du dens Hoved knuste!</l>
+</lg>
+<lg>
+<l>3. O Jesus, Herre, Broder sod!</l>
+<l>Du kiender bedst den bittre Død,</l>
+</lg> 
+<pb facs="1845_2_page0058.png"/>
+<fw type="pageNum">50</fw>
+<lg>
+<l>Du har den overvundet;</l>
+<l>Vor Skabning grandt og kiender du,</l>
+<l>Veed godt, vi alle seer med Gru</l>
+<l>Vort Timeglas udrundet!</l>
+</lg>
+<lg>
+<l>4. O, kom du, som engang, jeg veed,</l>
+<l>Du i din Faders Herlighed</l>
+<l>Skal klart dig aabenbare;</l>
+<l>Var det i Gry, var det i Kvæld,</l>
+<l>Jeg skyndte mig, med kort Farvel,</l>
+<l>I Sky til dig at fare!</l>
+</lg>
+<lg>
+<l>5. Men kommer Deden førend du.</l>
+<l>Kom da iløn, og kom ihu,</l>
+<l>Hvor mørkt der er i Graven!</l>
+<l>Omstraal mig, saa jeg glemmer den!</l>
+<l>Salv Øiet paa din Syge Ven,</l>
+<l>Saa jeg kan see Guds-Haven!</l>
+</lg>
+<lg>
+<l>6. Kom i den sidste Nattevagt,</l>
+<l>I en af mine Kiæres Dragt,</l>
+<l>Og sæt dig ved min Side!</l>
+<l>Og tal med mig, som Ven med Ven,</l>
+<l>Om hvor vi snart stat sees igien,</l>
+<l>Og glemme al vor Kvide!</l>
+</lg>
+<lg>
+<l>7. Kom, som du vil! jeg veed det vist,</l>
+<l>Du selv har sagt, at her og hist</l>
+<l>Du kiendes vil paa Røsten,</l>
+<l>Den Rost, hvorved, trods Verdens Larm,</l>
+<l>Os Hjertet brænde kan i Barm,</l>
+<l>Og smelte hen i Trøsten!</l>
+</lg>
+<lg>
+<l>8. O lad mig, i min sidste Stund,</l>
+<l>Det høre af din egen Mund,</l>
+<l>Som Aand og Liv kan tale,</l>
+<l>Hvor rart der er i Himmerig,</l>
+<l>Og at du Stol har sat til mig</l>
+<l>I dine lyse Sale!</l>
+</lg> 
+<pb facs="1845_2_page0059.png"/>
+<fw type="pageNum">51</fw>
+<lg>
+<l>9. Før Døden, med sin Iistap-Haand,</l>
+<l>Giør Skiel imellem Stov og Aand,</l>
+<l>Bortvifter Hjertets Varme,</l>
+<l>Indslumre skal jeg da med Lyst,</l>
+<l>Som Barnet ved sin Moders Bryst,</l>
+<l>I dine Frelser-Arme!</l>
+</lg>
+<p><hi rend="align(center)">54. (675.)</hi></p>
+<lg>
+<l><hi rend="initial">H</hi>aabet ogsaa blege Kinder</l>
+<l>Farve kan som Rosenblad,</l>
+<l>Trøst der boer i søde Minder,</l>
+<l>Selv naar Venner stilles ad!</l>
+</lg>
+<lg>
+<l>2. Aand, du kan ei Støvet glemme,</l>
+<l>Som var her din Barndoms Nen,</l>
+<l>Lyt da glad til Haabets Stemme:</l>
+<l>I forbindes skal igien!</l>
+</lg>
+<lg>
+<l>3. Flyver end til fjerne Linde</l>
+<l>Fuglen fra sin Rede her,</l>
+<l>Dog sit Træ den veed at sinde</l>
+<l>Mellem alle Skovens Træer!</l>
+</lg>
+<lg>
+<l>4. Find dig derfor i at savne</l>
+<l>Vennen din i Jordens Dal!</l>
+<l>Thi du skal dog atter favne</l>
+<l>Vennen din i Himlens Sal.</l>
+</lg>
+<p><hi rend="align(center)">55. (676.)</hi></p>
+<p><hi rend="align(center)">Mel. Kommer til mig sagde Guds Søn.</hi></p>
+<lg>
+<l><hi rend="initial">L</hi>ær mig, o Skov, at visne glad,</l>
+<l>Og tænke: trods det gule Blad,</l>
+<l>Et bedre Foraar kommer,</l>
+<l>Da Livets Træ skal herligt staae,</l>
+<l>Og sine dybe Redder slaae</l>
+<l>I Evighedens Sommer-</l>
+</lg> 
+<pb facs="1845_2_page0060.png"/>
+<fw type="pageNum">52</fw>
+<lg>
+<l>2. Lær mig, o lille Trækfugl, du,</l>
+<l>At svinge mig med freidig Hu</l>
+<l>Til ubekiendte Strande!</l>
+<l>Mens Alt er Vinter her og Iis,</l>
+<l>Da skal et evigt Paradiis</l>
+<l>Mig hisset aabent stande!</l>
+</lg>
+<lg>
+<l>3. Lær mig, du lette Sommerfugl,</l>
+<l>At Liv udvikles kan i Skjul,</l>
+<l>Til det sig brat opsvinger!</l>
+<l>Mit Stov, naar det hos Orme boer,</l>
+<l>Stal vente da, i sorten Jord,</l>
+<l>Paa gyldne Purpurvinger!</l>
+</lg>
+<lg>
+<l>4. Lær mig, min Frelser, Jesus Christ!</l>
+<l>At smile, som du smiled hist,</l>
+<l>I Sky, høit over Sorgen,</l>
+<l>Da trindt det klang fra Engle-Kor:</l>
+<l>Langfredags Bitterhed var stor,</l>
+<l>Men sod er Paaske-Morgen!</l>
+</lg>
+<p><hi rend="align(center)">56. (677.)</hi></p>
+<p><hi rend="align(center)">Mel. Som Hjorten med Tørst befangen.</hi></p>
+<lg>
+<l><hi rend="initial">J</hi>esus! giør det for din Pine,</l>
+<l>At, hvor jeg i Verden gaaer,</l>
+<l>Jeg forsigtelig maa trine,</l>
+<l>Medens Graven aaben staaer!</l>
+<l>Lad mig døe med Haab og Tro!</l>
+<l>Lad mig hvile sødt i Ro!</l>
+<l>Lad paa Dommedag mod Ære</l>
+<l>Dit Paulun mig salig bære!</l>
+</lg>
+<p><hi rend="align(center)">57. (678.)</hi></p>
+<p><hi rend="align(center)">Samme Melodi.</hi></p>
+<lg>
+<l><hi rend="initial">J</hi>esus! lad mig dog ei fattes</l>
+<l>Sands for dine dybe Ting!</l>
+<l>Himlen kan mod dig ei skattes,</l>
+<l>Og ei hele Verdens Ning;</l>
+</lg> 
+<pb facs="1845_2_page0061.png"/>
+<fw type="pageNum">53</fw>
+<lg>
+<l>Dog, til Pillegrimmes Tarv,</l>
+<l>Som ei fik med Guds Folk Arv,</l>
+<l>Kiøbdes af en Pottemager</l>
+<l>For dit Blod en Hvile-Ager!</l>
+</lg>
+<lg>
+<l>2. Fremmed var jeg, Gud det bedre!</l>
+<l>Det jeg daglig mindes vel,</l>
+<l>Jeg, saavelsom mine Fædre,</l>
+<l>For Guds Huus og Israel,</l>
+<l>Fik dog, som ved Pilgrims-Fart,</l>
+<l>I Guds Rige Lodd og Part,</l>
+<l>Har mig der et Gravsted fundet,</l>
+<l>Som ved Jesu Blod er vundet!</l>
+</lg>
+<lg>
+<l>3. Pillegrimme, alle Dage,</l>
+<l>Er vi i vort Levnets-Færd,</l>
+<l>Om en liden Stund afdrage</l>
+<l>Stal vi Vandrings-Kjortlen her,</l>
+<l>Og i Graven lægge ned</l>
+<l>Al vor Pragt og Herlighed,</l>
+<l>Jesus! Tak, vi da skal eie</l>
+<l>Ved dit Blod et roligt Leie!</l>
+</lg>
+<lg>
+<l>4. Være det mit Hjertes Glæde,</l>
+<l>Mens jeg boer i dette Leer,</l>
+<l>Ved hvert Fjed, som jeg mon træde,</l>
+<l>At sig nærmer meer og meer</l>
+<l>Stunden, da en hellig Vraa</l>
+<l>I Guds Ager jeg skal faae,</l>
+<l>Hvile der i Haabet rolig,</l>
+<l>Opstaae med forklaret Bolig!</l>
+</lg>
+<p><hi rend="align(center)">58. (679.)</hi></p>
+<p><hi rend="align(center)">Mel. Hjertelig mig nu længes.</hi></p>
+<lg>
+<l><hi rend="initial">D</hi>er er et helligt Værge</l>
+<l>Imod al Verdens Nod:</l>
+<l>Den Tro, som flytter Bjerge,</l>
+<l>Den trøster over Død;</l>
+</lg> 
+<pb facs="1845_2_page0062.png"/>
+<fw type="pageNum">54</fw>
+<lg>
+<l>O, kunde jeg bevare</l>
+<l>Den Tro i fromme Sind,</l>
+<l>Mig Herrens Engle Skare .</l>
+<l>Bar i Guds Himmel ind!</l>
+</lg>
+<lg>
+<l>2. O, hør, min Sjæl, det toner</l>
+<l>Fra Himlen til dig ned:</l>
+<l>Ved Kraftens Haand han troner,</l>
+<l>Som al din Trængsel veed,</l>
+<l>Hans Navn skal du paakalde,</l>
+<l>Og sige: Jesus sød!</l>
+<l>Din Magt vil jeg bønfalde</l>
+<l>Imod al Verdens Nod!</l>
+</lg>
+<lg>
+<l>3. Velan, jeg vil det vove,</l>
+<l>Det er en evig Trost:</l>
+<l>De Døde her kun sove,</l>
+<l>De vækkes ved din Rost;</l>
+<l>O Jesus! vær min Værge</l>
+<l>Imod al Verdens Nod!</l>
+<l>Den Tro, som flytter Bjerge,</l>
+<l>Stiænk mig i Liv og Død!</l>
+</lg>
+<p><hi rend="align(center)">59. (680.)</hi></p>
+<p><hi rend="align(center)">Mel. Af Dybsens Nød vil jeg til Gud.</hi></p>
+<lg>
+<l><hi rend="initial">E</hi>t helligt Liv, en salig Død,</l>
+<l>Hinanden kiærlig møde,</l>
+<l>Som Fuglesangen, sagte sod,</l>
+<l>En listig Aftenrode;</l>
+<l>De To kan aldrig stilles ad,</l>
+<l>Den Helligaand giør Ingen glad,</l>
+<l>Som ei vil helliggiøres!</l>
+</lg>
+<lg>
+<l>2. At have stridt den gode Strid,</l>
+<l>Og vandret Ufortreden</l>
+<l>Paa Fromheds Vei til Endens Tid,</l>
+<l>Kun det er sødt i Døden!</l>
+<l>Vel den, som Herren tro har tjent,</l>
+<l>Guds Vilje gjort, sit Lob fuldendt!</l>
+<l>Han skal i Fred henfare.</l>
+</lg> 
+<pb facs="1845_2_page0063.png"/>
+<fw type="pageNum">55</fw>
+<lg>
+<l>2. O Simeon, du Hjertensmand,</l>
+<l>Det var din Lodd og Lykte!</l>
+<l>Du rolig stod paa Gravens Rand</l>
+<l>I Herrens Vingers Skygge;</l>
+<l>I Dødens Port, med snehvidt Haar,</l>
+<l>Du sang om Evighedens Vaar,</l>
+<l>Som Fugl i Frydens Lunde!</l>
+</lg>
+<lg>
+<l>4. Dengang du Jesus tog i Favn,</l>
+<l>Da aabned sig tillige</l>
+<l>For Die dit, i Jesu Navn,</l>
+<l>Hans søde Himmerige,</l>
+<l>Du sang: nu farer jeg i Fred,</l>
+<l>Thi, Himlens Gud, din Salighed</l>
+<l>Mig svæver alt for Øie!</l>
+</lg>
+<lg>
+<l>5. Saa Freden maa i allen Stund</l>
+<l>Med Jesus favnetages,</l>
+<l>Og til det skeet af Hjertensgrund,</l>
+<l>Der suttes maa og klages;</l>
+<l>Thi aldrig finder Sjælen Ro,.</l>
+<l>For Hjertet med den sande Tro</l>
+<l>Sin Frelsermand omfavner!</l>
+</lg>
+<p><hi rend="align(center)">60. (681.)</hi></p>
+<p><hi rend="align(center)">Egen Melodi.</hi></p>
+<lg>
+<l><hi rend="initial">H</hi>er vil ties, her vil bies,</l>
+<l>Her vil bies, mit svage Sind!</l>
+<l>Høsttiden endtes, her maa da ventes,</l>
+<l>Her maa da ventes paa Foraarsvind!</l>
+<l>Her vil ties, her vil bies,</l>
+<l>Her vil bies, mit svage Sind!</l>
+</lg>
+<lg>
+<l>2. Trange Tider langsom skrider,</l>
+<l>Langsom strider, det har den Art:</l>
+<l>Dagene længes, Vinteren strænges,</l>
+<l>Vinteren strænges, og det er svart!</l>
+<l>Trange Tider, langsom strider,</l>
+<l>Langsom siriver, det har den Art!</l>
+</lg> 
+<pb facs="1845_2_page0064.png"/>
+<fw type="pageNum">56</fw>
+<lg>
+<l>3. Kom, min Due, styv at skue,</l>
+<l>Flyv at stue, bag Giærdet hist!</l>
+<l>Om du derinde Lovspring kan finde.</l>
+<l>Lovspring kan sinde, med Blad paa Kvist!</l>
+<l>Kom, min Due, styv at stue,</l>
+<l>Flyv at stue bag Giærdet hist!</l>
+</lg>
+<lg>
+<l>4. Kom, min Due! lad dig skue,</l>
+<l>Lad dig stue med Oljeblad!</l>
+<l>See, nu er Stunden næsten oprunden,</l>
+<l>Næsten oprunden, som giør mig glad!</l>
+<l>Kom, min Due! lad dig stue,</l>
+<l>Lad dig stue med Oljeblad!</l>
+</lg>
+<lg>
+<l>5. Eia, søde Første-Grøde,</l>
+<l>Førstegrøde af bliden Vaar!</l>
+<l>Lad det kun fryse! lad mig kun gyse!</l>
+<l>Lad mig kun gyse! det snart forgaaer.</l>
+<l>Eia, fede Første-Grøde,</l>
+<l>Førstegrøde af bliden Vaar!</l>
+</lg>
+<lg>
+<l>6. Due, kunde du udgrunde,</l>
+<l>Du udgrunde, hvad nu der skeet!</l>
+<l>Kulden den svækkes, Blomsterne dækkes!</l>
+<l>Blomsterne dækkes, jo meer det sneer!</l>
+<l>Due! kunde du udgrunde,</l>
+<l>Du udgrunde, hvad nu der skeet!</l>
+</lg>
+<lg>
+<l>7. Stormen tuder, Giærdet luder,</l>
+<l>Giærdet luder og falder snart;</l>
+<l>Til os da kommer Evigheds Sommer,</l>
+<l>Evigheds Sommer af himmelsk Art!</l>
+<l>Stormen tuder, Giærdet luder,</l>
+<l>Giærdet luder og falder snart!</l>
+</lg>
+<p><hi rend="align(center)">61. (682.)</hi></p>
+<p><hi rend="align(center)">Mel. Hjertelig mig nu længes..</hi></p>
+<lg>
+<l><hi rend="initial">H</hi>er modes alle Veie</l>
+<l>Paa Gravens bratte Rand,</l>
+<l>Her er vort sidste Leie</l>
+<l>I Skyggers morke Land,</l>
+</lg> 
+<pb facs="1845_2_page0065.png"/>
+<fw type="pageNum">57</fw>
+<lg>
+<l>Her synke alle Hænder,</l>
+<l>Her visner hver en Krands,</l>
+<l>Her samles Muldets Frænder,</l>
+<l>Her falmer Støvets Glands!</l>
+</lg>
+<lg>
+<l>2. Her Levnetsløbet ender</l>
+<l>Sig med en Jordefærd,</l>
+<l>Og naar da synke Hænder,</l>
+<l>Hvis Id var Ære værd,</l>
+<l>At, da maa vi vel klage,</l>
+<l>Begræde Støvets Kaar,</l>
+<l>Om end den Ædles Dage</l>
+<l>Forsølvede hans Haar!</l>
+</lg>
+<lg>
+<l>3. Ja, blomstred for de Døde</l>
+<l>Ei Haab paa Gravens Rand,</l>
+<l>Og glimted Morgenrøde</l>
+<l>Ei hid fra Livets Land,</l>
+<l>Da maatte lydt vi græde,</l>
+<l>Hver Gang vi skulde faa,</l>
+<l>Som nu, til Jorden stæde</l>
+<l>En Ædling af de Faa.</l>
+</lg>
+<lg>
+<l>4. Men han, til hvem, end spæde,</l>
+<l>Hi bares i vor Daab.</l>
+<l>Forbod vor Samfunds-Kiæde</l>
+<l>At sorge uden Haab;</l>
+<l>Engang, naar det mon kime</l>
+<l>Til Paaske høit i Kor,</l>
+<l>Da staaer og Naadens Time</l>
+<l>For Støvet under Jord!</l>
+</lg>
+<lg>
+<l>5. Han, som vor Skabning kiender,</l>
+<l>Og kommer Stov ihu,</l>
+<l>De gamle Almagts-Hænder</l>
+<l>Usvækket har endnu,</l>
+<l>Opfylde vil saa trolig</l>
+<l>Han sit det gode Ord,</l>
+<l>Fornye til Aandebolig</l>
+<l>Med Glands den faldne Jord!</l>
+</lg> 
+<pb facs="1845_2_page0066.png"/>
+<fw type="pageNum">58</fw>
+<lg>
+<l>6. Saa smile da hvert Øie,</l>
+<l>Selv giennem Taaresky,</l>
+<l>Som skimter i det Høie</l>
+<l>Det store Morgengry!</l>
+<l>Saa folde fromt sig Hænder</l>
+<l>I Jesu Christi Navn,</l>
+<l>For Støvets Vei sig ender</l>
+<l>I Herlighedens Havn!</l>
+</lg>
+<p><hi rend="align(center)">62. (683.)</hi></p>
+<p><hi rend="align(center)">Mel. Hvo veed hvor nær mig er min Ende.</hi></p>
+<lg>
+<l><hi rend="initial">S</hi>om Markens Blomst henvisner fage</l>
+<l>Alt hvad af jordisk Rod oprandt,</l>
+<l>Og talte snart er Støvets Dage,</l>
+<l>Selv hvor med Aand det Gud forbandt!</l>
+<l>Kun hvad der kom fra Oven ned</l>
+<l>Kan blomstre i al Evighed!</l>
+</lg>
+<lg>
+<l>2. O, vee da hver, som daarlig bygger</l>
+<l>Sit Haab paa Støvets Blomstertid,</l>
+<l>Og gribe vil i Jordens Skygger,</l>
+<l>Hvad kun i Aanden kommer hid!</l>
+<l>O Daaredrøm om Evighed</l>
+<l>For hvad ei kom fra Oven ned!</l>
+</lg>
+<lg>
+<l>3. Men vel Enhver, som Haabet grunder</l>
+<l>Paa hvad. kun Engles Øine saae,</l>
+<l>Hver Sjæl, som til det Høie stunder,</l>
+<l>Og Verdens Glimmer tør forsmaae!</l>
+<l>Til dem kom det fra Oven ned,</l>
+<l>Som blomstrer i al Evighed!</l>
+</lg>
+<lg>
+<l>4. O, vel da dig, hvis Stov vi bære</l>
+<l>Til Sovekamret under Jord,</l>
+<l>Omringet af de mange Kiære,</l>
+<l>Som trøstes ved det Sandheds-Ord,</l>
+<l>At hvad der kom fra Oven ned,</l>
+<l>Skal blomstre i al Evighed!</l>
+</lg> 
+<pb facs="1845_2_page0067.png"/>
+<fw type="pageNum">59</fw>
+<lg>
+<l>5. Ja, Ordet, som skal evig blive,</l>
+<l>Fordi af Jord det ei oprandt.</l>
+<l>Det holdt med Kraft din Sjæl ilive,</l>
+<l>Saa Deden ei den overvandt;</l>
+<l>Til dig kom det fra Oven ned,</l>
+<l>Som blomstrer i al Evighed!</l>
+</lg>
+<lg>
+<l>6. For dig var Jordens Hæder Møie!</l>
+<l>For dig var Verdens Glimmer Tant!</l>
+<l>For dig var Lys kun fra det Hole,</l>
+<l>Og Herrens Ord kun evig fandt!</l>
+<l>Med det, som kom fra Oven ned,</l>
+<l>Du blomstrer i al Evighed!</l>
+</lg>
+<lg>
+<l>7. Saa hvil da i dit Sovekammer,</l>
+<l>Du Stov af ham, som lever hist.</l>
+<l>Hvor Himmellyset evig flammer,</l>
+<l>Og evig throner Jesus Christ!</l>
+<l>Der han, som kom fra Oven ned,</l>
+<l>Med Sine boer i Herlighed!</l>
+</lg>
+<lg>
+<l>8. Engang skal ogsaa du, forklaret,</l>
+<l>Det skue grandt, med Lys og Lyst,</l>
+<l>Som end ei Stov er aabenbaret,</l>
+<l>Men lever skjult i Christnes Bryst:</l>
+<l>Hos ham, som kom fra Oven ned,</l>
+<l>Har ogsaa Støvet Evighed!</l>
+</lg>
+<p><hi rend="align(center)">63. (684.)</hi></p>
+<p><hi rend="align(center)">Mel. Med Sorgen og Klagen hold Maade.</hi></p>
+<lg>
+<l><hi rend="initial">D</hi>e Toner ei klage saa saare!</l>
+<l>De Taarer ei rinde saa stride!</l>
+<l>Mens Legemet ligger paa Baare,</l>
+<l>Er Sjælen hos Englene blide.</l>
+</lg>
+<lg>
+<l>2. Hvad hviste der Englene hulde!</l>
+<l>Hvad er det, som Herren mon love?</l>
+<l>De Fromme, som boe under Mulde,</l>
+<l>De er ikke døde, de sove!</l>
+</lg> 
+<pb facs="1845_2_page0068.png"/>
+<fw type="pageNum">60</fw>
+<lg>
+<l>3 Det Korn, som i Jorden nedlægges,</l>
+<l>Ei Vinterens Snee skal forøde,</l>
+<l>Ved Vaarsolens Komme det vækkes,</l>
+<l>Til Hostens velsignede Grode!</l>
+</lg>
+<lg>
+<l>4. De smuldrende Lemmer, som hvile</l>
+<l>I Gravene ode og tomme,</l>
+<l>Til dem skal en Evighed smile,</l>
+<l>I Kredsen af Englene fromme!</l>
+</lg>
+<lg>
+<l>5. Saa tag da, o Grav, under Lagen,</l>
+<l>Det Trætte, som blunder, i Giemme!</l>
+<l>Naar Natten maa vige for Dagen,</l>
+<l>Skal herren sit Billed ei glemme!</l>
+</lg>
+<lg>
+<l>6. Da Jorderigs Grundvolde bæve,</l>
+<l>Af Himmelbasunen opkaldte,</l>
+<l>Nyskabte fra Graven sig hæve</l>
+<l>Forklarede Herrens udvalgte!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<head>Jule-Høitiden.</head>
+<p><hi rend="align(center)">64. (685.)</hi></p>
+<p><hi rend="align(center)">Enen Melodi.</hi></p>
+<lg>
+<l><hi rend="initial">F</hi>ryd dig, du Christi Brud!</l>
+<l>Stat op og see herud!</l>
+<l>For Døren er Guds Naade,</l>
+<l>Som dig Profeten spaaede!</l>
+<l>Hosjanna! Hæder og Ære</l>
+<l>Skal denne vor Konning være!</l>
+</lg>
+<lg>
+<l>2. Gak ud af dit Paulun,</l>
+<l>Med Fløite og Basun,</l>
+<l>Med Jubel, Zions Dronning!</l>
+<l>Her rider Ærens Konning!</l>
+</lg> 
+<pb facs="1845_2_page0069.png"/>
+<fw type="pageNum">61</fw>
+<lg>
+<l>Hosjanna! Hæder og Ære</l>
+<l>Skal denne vor Konning være!</l>
+</lg>
+<lg>
+<l>3. Et Asen ham vel bær,</l>
+<l>Dog er det Herrefærd!</l>
+<l>Hans Rustning synes ringe,</l>
+<l>Dog kan han Deden tvinge!</l>
+<l>Hosianna! Hæder og Ære</l>
+<l>Skal denne vor Konning være!</l>
+</lg>
+<lg>
+<l>4. Sagtmodig, from og god,</l>
+<l>Er han af Hjertensrod,</l>
+<l>Har Salighed at føre,</l>
+<l>Som Bruden skal tilhore!</l>
+<l>Hosjanna! Hæder og Ære</l>
+<l>Skal denne vor Konning være!</l>
+</lg>
+<lg>
+<l>5. Luk op nu Port og Dor,</l>
+<l>Saa høit, som aldrig for!</l>
+<l>Dig agter nu at giæste</l>
+<l>Den Største og den Bedste!</l>
+<l>Hosjanna! Hæder og Ære</l>
+<l>Skal denne vor Konning være!</l>
+</lg>
+<lg>
+<l>6. Strøe Mai paa Kongens Vei,</l>
+<l>Og spar din Silke ei!</l>
+<l>Lad Folket bære Palmer</l>
+<l>Og synge Høitids-Psalmer!</l>
+<l>Hosjanna! Hæder og Ære</l>
+<l>Skal denne vor Konning være!</l>
+</lg>
+<lg>
+<l>7. Umyndige og Smaa</l>
+<l>Lad giøre ligesaa!</l>
+<l>Den hele Folkeskare</l>
+<l>Da Skyerne vil svare:</l>
+<l>Hosjanna! Hæder og Ære</l>
+<l>Skal denne vor Konning være!</l>
+</lg> 
+<pb facs="1845_2_page0070.png"/>
+<fw type="pageNum">62</fw>
+<p><hi rend="align(center)">65. (686.)</hi></p>
+<p><hi rend="align(center)">Egen Melodi.</hi></p>
+<lg>
+<l><hi rend="initial">E</hi>t Barn er født i Bethlehem,</l>
+<l>Bethlehem,</l>
+<l>Thi glæde sig Jerusalem!</l>
+<l>Halleluja, Halleluja!</l>
+</lg>
+<lg>
+<l>2. En fattig Jomfru sad i Løn,</l>
+<l>Sad i Løn,</l>
+<l>Og fedte Himlens Kongesøn!</l>
+<l>Halleluja, Halleluja!</l>
+</lg>
+<lg>
+<l>3. Han lagdes i et Krybberum,</l>
+<l>Krybberum,</l>
+<l>Guds Engle sang med Fryd derom:</l>
+<l>Halleluja, Halleluja!</l>
+</lg>
+<lg>
+<l>4. Og Østens Vise offred der,</l>
+<l>Offred der,</l>
+<l>Guld, Røgelse og Myrrha skiær!</l>
+<l>Halleluja, Halleluja!</l>
+</lg>
+<lg>
+<l>5. Forvundet er nu al vor Nød,</l>
+<l>Al vor Nød,</l>
+<l>Os er idag en Frelser fød!</l>
+<l>Halleluja, Halleluja!</l>
+</lg>
+<lg>
+<l>6. Guds kiære Børn vi blev paany,</l>
+<l>Blev paany,</l>
+<l>Skal holde Juul i Himmelby!</l>
+<l>Halleluja, Halleluja!</l>
+</lg>
+<lg>
+<l>7. Paa Stjerne-Tepper lyseblaa,</l>
+<l>Lyseblaa,</l>
+<l>Skal glade vi til Kirke gaae!</l>
+<l>Halleluja, Halleluja!</l>
+</lg>
+<lg>
+<l>8. Guds Engle der os lære brat,</l>
+<l>Lære brat,</l>
+<l>At synge, som de sang i Nat:</l>
+<l>Halleluja, Halleluja!</l>
+</lg> 
+<pb facs="1845_2_page0071.png"/>
+<fw type="pageNum">63</fw>
+<lg>
+<l>9. Da vorder Engle vi som de,</l>
+<l>Vi som de,</l>
+<l>Guds milde Ansigt skal vi see,</l>
+<l>Halleluja, Halleluja!</l>
+</lg>
+<lg>
+<l>10. Ham være Priis til evig Tid,</l>
+<l>Evig Tid,</l>
+<l>For Frelser bold og Broder blid!</l>
+<l>Halleluja, Halleluja!</l>
+</lg>
+<p><hi rend="align(center)">66. (687.)</hi></p>
+<p><hi rend="align(center)">Egen Melodi.</hi></p>
+<lg>
+<l><hi rend="initial">V</hi>elkommen igien, Guds Engle smaa,</l>
+<l>Fra høie Himmel-Sale,</l>
+<l>Med deilige Solskins-Klæder paa,</l>
+<l>I Jordens Skygge-Dale!</l>
+<l>Trods klingrende Frost, godt Aar I spaae</l>
+<l>For Fugl og Sæd i Dvale!</l>
+</lg>
+<lg>
+<l>2. Velmødt under Sky paa Kirkesti,</l>
+<l>Paa Snee ved Midnatstide!</l>
+<l>Udbære vor Juul ei nænner I</l>
+<l>Derpaa tør nok vi lide;</l>
+<l>O, ganger dog ei vor Dor forbi!</l>
+<l>Os volder ei den Kvide!</l>
+</lg>
+<lg>
+<l>3. Med venlige Øine himmelblaa,</l>
+<l>I Vugger og i Senge,</l>
+<l>Vi Puslinger har i hver en Vraa,</l>
+<l>Som Blomster groer i Enge;</l>
+<l>O synger for dem, som Lærker slaae,</l>
+<l>Som hørt vi har ei længe!</l>
+</lg>
+<lg>
+<l>4. Saa drømme de sødt om Bethlehem,</l>
+<l>Og er det end forblummet,</l>
+<l>De dromme dog sandt om Barnets Hjem,</l>
+<l>Som laae i Krybberummet:</l>
+<l>De dromme, de lege Juul med dem,</l>
+<l>Hvis Sang de har fornummet!</l>
+</lg> 
+<pb facs="1845_2_page0072.png"/>
+<fw type="pageNum">64</fw>
+<lg>
+<l>5. Da vaagne de mildt i Morgengry,</l>
+<l>Og tælle meer ei Timer,</l>
+<l>Da hore vi Julesang paany,</l>
+<l>Som sig med Hjertet rimer,</l>
+<l>Da klinger det sødt i høien Sky,</l>
+<l>Naar Jule-Klokken kimer!</l>
+</lg>
+<lg>
+<l>6. Da vandre Guds Engle op og ned</l>
+<l>Paa Psalmens Tone-Stige!</l>
+<l>Da byder Vorherre selv Guds Fred</l>
+<l>Til dem, den efterhige!</l>
+<l>Da aabner sig Himlens Borgeled,</l>
+<l>Da kommer ret Guds Rige!</l>
+</lg>
+<p><hi rend="align(center)">67. (688.)</hi></p>
+<p><hi rend="align(center)">Mel. Et lidet Barn saa lysteligt.</hi></p>
+<lg>
+<l><hi rend="initial">J</hi>eg som et Barn mig glæde vil,</l>
+<l>Og sjunge i det Høie,</l>
+<l>Ei Sorg idag paa Jord er til,</l>
+<l>Som tor min Sjæl nedbøie,</l>
+<l>Idag er fattigst Betler rig,</l>
+<l>Et Paradiis er Jorden mig,</l>
+<l>Til mig Guds Engle kvæde:</l>
+<l>Idag er dig en Frelser fod,</l>
+<l>Idag al Jordens Sorg er død,</l>
+<l>Og født al Jordens Glæde!</l>
+</lg>
+<lg>
+<l>2. Flyv høit min Sjæl, styv barnefro!</l>
+<l>Vær salig i Guds Rige!</l>
+<l>Med Kiærlighed, med Haab og Tro,</l>
+<l>Hans Kraft skal i mig stige:</l>
+<l>I Klude svøbt, i Krybbe lagt,</l>
+<l>Det Barn har over Stjerner Magt,</l>
+<l>Og over Havets Belger!</l>
+<l>Ei Jord, ei Luft, ei Ild, ei Vand,</l>
+<l>Ei Mørkets Magter stade kan</l>
+<l>Den Sjæl, som Herren følger!</l>
+</lg> 
+<pb facs="1845_2_page0073.png"/>
+<fw type="pageNum">65</fw>
+<lg>
+<l>3. Kom Høie, Lave, Store, Smaa,</l>
+<l>Enfoldige og Vise!</l>
+<l>Lad os til Jesu Herberg gaae,</l>
+<l>Og Verdens Frelser prise!</l>
+<l>Forgiæves lyde Røsten ei,</l>
+<l>Som viser os til Krybben Vei!</l>
+<l>Her Himlens Engle kvæde:</l>
+<l>Idag er Verdens Frelser fød!</l>
+<l>Idag al Jordens Sorg er død,</l>
+<l>Og født al Jordens Glæde!</l>
+</lg>
+<p><hi rend="align(center)">68. (689.)</hi></p>
+<p><hi rend="align(center)">Mel. Med Sorgen og Klagen hold Maade.</hi></p>
+<lg>
+<l><hi rend="initial">D</hi>en yndigste Rose er fundet,</l>
+<l>Blandt stiveste Torne oprundet;</l>
+<l>Om Julen, trods Vinterens Kulde,</l>
+<l>Sprang Paradis-Rosen af Mulde!</l>
+</lg>
+<lg>
+<l>2. Saa lønlig den spired derinde,</l>
+<l>Hos Jordens lyksaligste Kvinde!</l>
+<l>Den herlig udsprang, uden Hinder,</l>
+<l>Paa Gudsbarnets deilige Kinder!</l>
+</lg>
+<lg>
+<l>3. Min Rose, den Hvide og rode,</l>
+<l>Oprandt med Gudsbarnet det søde!</l>
+<l>Med Christus, min Frelser, den Kiære,</l>
+<l>Den dufter, hans Kirke til Ære!</l>
+</lg>
+<lg>
+<l>4. Al Verden nu burde sig fryde,</l>
+<l>I Lovsang hver Tunge udbryde i</l>
+<l>Men mange har aldrig fornummet,</l>
+<l>At Paradis-Rosen er kommet!</l>
+</lg>
+<lg>
+<l>5. Forbittrede Torne-Gemytter!</l>
+<l>Hvi staae I saa stive som Støtter?</l>
+<l>Hvi holde I eder saa ranke,</l>
+<l>Og kneise paa Bjerg og paa Banke?</l>
+<l>Banke?</l>
+</lg> 
+<pb facs="1845_2_page0074.png"/>
+<fw type="pageNum">66</fw>
+<lg>
+<l>6. Engang I dog synke og segne,</l>
+<l>O, søger de lavere Egne!</l>
+<l>Der faaer I Gudsbarnet i Tale,</l>
+<l>Thi Roserne vore i Dale!</l>
+</lg>
+<lg>
+<l>7. Min Jesus! ja, der har jeg fundet</l>
+<l>Det Hole i Lavhed oprundet,</l>
+<l>Og du skal evindelig være</l>
+<l>Min Rose, mit Smykke, min Ære!</l>
+</lg>
+<lg>
+<l>8. Lad Verden mig Alting betage!</l>
+<l>Lad Tornene rive og nage!</l>
+<l>Lad Hjertet kun bugne og briste!</l>
+<l>Min Rose jeg aldrig skal miste!</l>
+</lg>
+<lg>
+<l>9. Forgiæves man kaster mig Graven,</l>
+<l>Jeg gaaer med min Rose til Haven,</l>
+<l>Og hører den i Paradiset</l>
+<l>Af alle Smaablomsterne priset!</l>
+</lg>
+<p><hi rend="align(center)">69. (690.)</hi></p>
+<lg>
+<l>Mel. Frygt mit Barn den sande Gud.</l>
+<l><hi rend="initial">S</hi>øde Jesus, Davids Rod,</l>
+<l>Kæmpestærk og barnegod!</l>
+<l>Høvding stor i Englehjem,</l>
+<l>Barnefødt i Bethlehem!</l>
+<l>Du, som giver Nyaar bedst,</l>
+<l>Kom herind og vær vor Giæst!</l>
+<l>Giør en listig Julefest!</l>
+</lg>
+<p><hi rend="align(center)">70. (691.)</hi></p>
+<lg>
+<l>Mel. Et lidet Barn saa lysteligt.</l>
+<l><hi rend="initial">I</hi> denne sode Juletid</l>
+<l>Vil vi os ret fornøie,</l>
+<l>Og bruge al vor Konst og Flid</l>
+<l>Guds Naade at ophøie;</l>
+<l>Ved ham, som er i Krybben lagt,</l>
+<l>Vi inderlig, af al vor Magt,</l>
+</lg> 
+<pb facs="1845_2_page0075.png"/>
+<fw type="pageNum">67</fw>
+<lg>
+<l>Vil os i Sjælen fryde;</l>
+<l>Din Priis skal høres, Frelsermand,</l>
+<l>Saa vidt og bredt i Verdens Land,</l>
+<l>At Bjerg og Dal gienlyde!</l>
+</lg>
+<lg>
+<l>2 En Kongesøn af Davids Rod,</l>
+<l>Som er Guds Sen tillige,</l>
+<l>For vor Ulykkes Skyld forlod</l>
+<l>Sit fede Himmerige;</l>
+<l>Det var ham svart at tænke paa,</l>
+<l>Al Verden skulde undergaae,</l>
+<l>Det star ham i hans Hjerte,</l>
+<l>Og for sin store Kiærlighed,</l>
+<l>Han kom til os paa Jorden ned,</l>
+<l>At dulme al vor Smerte!</l>
+</lg>
+<lg>
+<l>3. Som Natten aldrig er saa fort,</l>
+<l>Den jo for Solen svinder,</l>
+<l>Saa farer al min Kummer bort,</l>
+<l>Naar jeg mig ret besinder</l>
+<l>Paa at Guds Son i Himmerig</l>
+<l>Saa inderlig har elsket mig,</l>
+<l>Og er min Broder vorden,</l>
+<l>Jeg aldrig glemme kan det Ord,</l>
+<l>Som klang fra Himlens Engle-Kor:</l>
+<l>Nu er der Fred paa Jorden!</l>
+</lg>
+<lg>
+<l>4. Vor Tak vi vil frembære da,</l>
+<l>Endskiøndt den er kun ringe,</l>
+<l>Hosjanna og Halleluja</l>
+<l>Skal allevegne klinge;</l>
+<l>Guds Ark er kommet i vor Leir,</l>
+<l>Thi sjunge vi med Fryd om Seir,</l>
+<l>Mens Tungen sig kan rore,</l>
+<l>Vi sjunge om den dybe Fred,</l>
+<l>Saa Helvede skal ryste ved</l>
+<l>Vor Julesang at høre!</l>
+</lg> 
+<pb facs="1845_2_page0076.png"/>
+<fw type="pageNum">68</fw>
+<lg>
+<l>5. Halleluja! vaer endt og glemt,</l>
+<l>Vor Strid, vor Sorg og Klage!</l>
+<l>Hvo vilde mere gaae beklemt</l>
+<l>I disse Juledage.!</l>
+<l>Syng høit i Sky, Guds Børneslok:</l>
+<l>Halleluja! nu har jeg Nok,</l>
+<l>Min Fryd er uden Lige!</l>
+<l>Halleluja! Halleluja!</l>
+<l>Guds Sen er min, jeg gaaer herfra</l>
+<l>Med ham tit Himmerige!</l>
+</lg>
+<p><hi rend="align(center)">71. (692.)</hi></p>
+<p><hi rend="align(center)">Mel. Et Barn er født i Bethlehem.</hi></p>
+<lg>
+<l><hi rend="initial">D</hi>et himmelsk klang i Engle-Kor,</l>
+<l>Engle-Kor:</l>
+<l>Guds Sen, Guds Fred, Guds Fryd paa Jord!</l>
+<l>Halleluja, Halleluja!</l>
+</lg>
+<lg>
+<l>2. Tak, Engle-Kor, for Jule-Bud,</l>
+<l>Jule-Bud!</l>
+<l>Med eder vi vil prise Gud,</l>
+<l>Halleluja, Halleluja!</l>
+</lg>
+<lg>
+<l>3. O, Gud skee Lov for Jule-Nat,</l>
+<l>Jule-Nat!</l>
+<l>Nu kommer Nyaars-Morgen brat.</l>
+<l>Halleluja, Halleluja!</l>
+</lg>
+<lg>
+<l>4. Saa vore vi i Lys og Løn,</l>
+<l>Lys og Løn,</l>
+<l>Som Kongebørn med Davids Sen,</l>
+<l>Halleluja, Halleluja!</l>
+</lg>
+<lg>
+<l>5. Og som Guds Engle kom til Mænd,</l>
+<l>Kom til Mænd,</l>
+<l>Saa kommer vi til dem igien,</l>
+<l>Halleluja, Halleluja!</l>
+</lg> 
+<pb facs="1845_2_page0077.png"/>
+<fw type="pageNum">69</fw>
+<lg>
+<l>6. Fra Bethlehem til Stjerne-Slot,</l>
+<l>Stjerne-Slot,</l>
+<l>Vi kiende Juleveien godt.</l>
+<l>Halleluia, Halleluja!</l>
+</lg>
+<lg>
+<l>7. Den førde Engle ned til Jord,</l>
+<l>Ned til Jord,</l>
+<l>Den fører os til Engle-Kor!</l>
+<l>Halleluja, Halleluja!</l>
+</lg>
+<lg>
+<l>8. Der deilige Guld-Kroner smaa,</l>
+<l>Kroner smaae,</l>
+<l>Vi af Guds Son, vor Broder, faae,</l>
+<l>Halleluja, Halleluja!</l>
+</lg>
+<lg>
+<l>9. Da synge vi med Liv og Lyst,</l>
+<l>Liv og Lyst,</l>
+<l>Med Hei og klar og yndig Rost:</l>
+<l>Halleluja, Halleluja!</l>
+</lg>
+<p><hi rend="align(center)">72. (693.)</hi></p>
+<p><hi rend="align(center)">Mel. Far Verden Farvel.</hi></p>
+<lg>
+<l><hi rend="initial">A</hi>f Midnattens Skiød</l>
+<l>Min Fryd er oprunden! min Frelser blev fød!</l>
+<l>At dybeste Mulm over Bethlehem laae,</l>
+<l>Det minder mig om, jeg kan ei det forstaae,</l>
+<l>Hvordan Guds Eenbaarne, undfanget i Løn,</l>
+<l>Blev Menneskens Sen!</l>
+</lg>
+<lg>
+<l>2. Af Midnattens Skiød</l>
+<l>De himmelske Straaler med Vælde udbrød,</l>
+<l>Som Sole paa Vinger, med Engle i Sky,</l>
+<l>Saa Fuglene sang, som i Morgenens Gry!</l>
+<l>Det minder mig om, tun med Jesus opgik</l>
+<l>Der Lys for mit Blik!</l>
+</lg>
+<lg>
+<l>3. O, hellige Nat!</l>
+<l>I dig har jeg fundet en dyrebar Skat,</l>
+</lg> 
+<pb facs="1845_2_page0078.png"/>
+<fw type="pageNum">70</fw>
+<lg>
+<l>Forgiæves opsøgt i al Verden om Dag!</l>
+<l>Din Glands er mit Lys, og din Sang mit Behag,</l>
+<l>Du foder min Fred, du tilsynger mig Trost</l>
+<l>Med Englenes Rost!</l>
+</lg>
+<p><hi rend="align(center)">73. (694.)</hi></p>
+<p><hi rend="align(center)">Mel. Jeg raaber fast o Herre.</hi></p>
+<lg>
+<l><hi rend="initial">F</hi>orunderligt at sige,</l>
+<l>Og sært at tænke paa,</l>
+<l>At Kongen til Guds Rige</l>
+<l>I Stalden fødes maa,</l>
+<l>At Himlens Lys og Ære,</l>
+<l>Det levende Guds Ord,</l>
+<l>Skal huusvild blandt os være</l>
+<l>Som Armods Sen paa Jord!</l>
+</lg>
+<lg>
+<l>2. En Perle ei forgiettes.</l>
+<l>Men ledes smaalig op;</l>
+<l>Den blanke Demant sættes</l>
+<l>I Kronens gyldne Top;</l>
+<l>Ei kaster man en Drue</l>
+<l>Blandt visne Blade ned;</l>
+<l>Dog Herren jeg maa stue</l>
+<l>I denne Usselhed!</l>
+</lg>
+<lg>
+<l>3. Du havde at befale,</l>
+<l>Hvad end du peged paa,</l>
+<l>Hvi skulde Konge-Sale</l>
+<l>Ei for dig prydet slaae?</l>
+<l>Hvi lod du ei opdukke,</l>
+<l>Af Jordens rige Skiød,</l>
+<l>En gylden Barne-Vugge,</l>
+<l>Med Roser overstrø'o?</l>
+</lg>
+<lg>
+<l>4. Hvi lod du ei udspænde</l>
+<l>En Sky til Himmel-Telt,</l>
+<l>Og Stjerne Lamper tænde,</l>
+<l>Du store Himmel-Helt!</l>
+</lg> 
+<pb facs="1845_2_page0079.png"/>
+<fw type="pageNum">71</fw>
+<lg>
+<l>Hvi kom ei aabenbare,</l>
+<l>Da du i Svøb blev lagt,</l>
+<l>Den himmelske Hærskare</l>
+<l>Til Tjeneste og Vagt!</l>
+</lg>
+<lg>
+<l>5. Selv Spurven har sin Rede,</l>
+<l>Kan bygge der og boe;</l>
+<l>En Svale ei tor lede</l>
+<l>Om Nattely og Ro;</l>
+<l>De vilde Dyr i Hule</l>
+<l>Har hver sin egen Vraa;</l>
+<l>Skal sig min Frelser skjule</l>
+<l>I fremmed Stald paa Straa?</l>
+</lg>
+<lg>
+<l>6. Nei, tom! jeg vil oplukke</l>
+<l>Mit Hjerte, Sjæl og Sind,</l>
+<l>Ja, bede, synge, sulke:</l>
+<l>Kom, Jesus, kom herind!</l>
+<l>Det er ei fremmed Bolig,</l>
+<l>Du den har dyrekiøbt!</l>
+<l>Her skal du hvile rolig,</l>
+<l>I Kiærligheden svøbt!</l>
+</lg>
+<p><hi rend="align(center)">74. (695.)</hi></p>
+<p><hi rend="align(center)">Egen Melodi.</hi></p>
+<lg>
+<l><hi rend="initial">T</hi>ulen har Engk-Lyd,</l>
+<l>Vi med Fryd</l>
+<l>Os barnlig paa Gud-Fader</l>
+<l>Forlader;</l>
+<l>Vi var i Nød saalænge,</l>
+<l>Dog Horde han vor Bøn,</l>
+<l>Han veed, hvortil vi trænge,</l>
+<l>Vor Frelser blev Guds Son;</l>
+<l>Thi vil vi alle sjunge,</l>
+<l>Med Hjerte og med Tunge,</l>
+<l>Et Ære være Gud</l>
+<l>For sit Julebud!</l>
+</lg> 
+<pb facs="1845_2_page0080.png"/>
+<fw type="pageNum">72</fw>
+<lg>
+<l>2. Ret i en salig Tid</l>
+<l>Kom han hid;</l>
+<l>Da glemde deres Mode</l>
+<l>De Døde,</l>
+<l>Da de sik det at vide,</l>
+<l>At født var Folkets Ven,</l>
+<l>Som tog vor Sorg og Kvide</l>
+<l>Og gav os Fryd igien,</l>
+<l>Ja, kom som Morgenroden,</l>
+<l>At frelse os fra Døden!</l>
+<l>Med ham fra Stjernetop</l>
+<l>Livets Soel stod op!</l>
+</lg>
+<lg>
+<l>3 Sorg er til Glæde vendt,</l>
+<l>Klagen endt!</l>
+<l>I Lovsang kiendes Fryden</l>
+<l>Paa Lyden!</l>
+<l>Syng med Guds Engle-Skare,</l>
+<l>Paa Jesu Fødselsdag,</l>
+<l>Om Fred og ingen Fare,</l>
+<l>Gud-Faders Velbehag,</l>
+<l>Som vil al Sorgen vende</l>
+<l>Til Glæde uden Ende,</l>
+<l>Bær os paa Børneviis</l>
+<l>Ind i Paradiis!</l>
+</lg>
+<p><hi rend="align(center)">75. (696.)</hi></p>
+<p><hi rend="align(center)">Mel. Kommer til mig sagde Guds Søn.</hi></p>
+<lg>
+<l><hi rend="initial">O</hi>p, glædes Alle, glædes nu!</l>
+<l>Med Fryd opfylder Sind og Hu</l>
+<l>I Herren, eders Glæde!</l>
+<l>Thi Herren er med Julen nær,</l>
+<l>Og vil, fordi han har os kiær,</l>
+<l>Nu i vort Kiød sig klæde.</l>
+</lg>
+<lg>
+<l>2. Bort Sorg og krænk ei meer vort Sind!</l>
+<l>Guds Glæde lukke vi nu ind,</l>
+</lg> 
+<pb facs="1845_2_page0081.png"/>
+<fw type="pageNum">73</fw>
+<lg>
+<l>Med Jesus vi den favne;</l>
+<l>I ham har Hjertet Fred og Ro,</l>
+<l>I ham vort Haab, vor Bøn og Tro</l>
+<l>Skal Glæden aldrig savne!</l>
+</lg>
+<lg>
+<l>3. O Gud, din Fred, som overgaaer</l>
+<l>Alt hvad end nogen Sjæl forstaaer,</l>
+<l>Vort Sind og Hjerte vare,</l>
+<l>Saa vi i Jesu Christo maae</l>
+<l>Den store Juleglæde saae,</l>
+<l>Som aldrig skal bortfare!</l>
+</lg>
+<p><hi rend="align(center)">76. (697.)</hi></p>
+<p><hi rend="align(center)">Mel. Fryd dig du Christi Brud.</hi></p>
+<lg>
+<l><hi rend="initial">P</hi>aa denne Juledag,</l>
+<l>Fryd dig i Guds Behag.</l>
+<l>Al Jordens Folke-Skare!</l>
+<l>Gud vilde aabenbare</l>
+<l>Sig i vort Kied og Klæde.</l>
+<l>O store Juleglæde!</l>
+</lg>
+<lg>
+<l>2. I Spaadom taled Gud,</l>
+<l>Ved mange Sendebud,</l>
+<l>Til vore gamle Fædre,</l>
+<l>Om saa sig at fornedre,</l>
+<l>Nu er Han her tilstæde.</l>
+<l>O store Juleglæde!</l>
+</lg>
+<lg>
+<l>3. Kun billedlig bekiendt</l>
+<l>I gamle Testament,</l>
+<l>Nu er Han født og baaret,</l>
+<l>Med Christus kom Nyaaret,</l>
+<l>Det er hos os tilstæde.</l>
+<l>O store Juleglæde!</l>
+</lg>
+<p><hi rend="align(center)">77. (698.)</hi></p>
+<p><hi rend="align(center)">Egen Melodi.</hi></p>
+<lg>
+<l><hi rend="initial">L</hi>ovet være du, Herre Christ,</l>
+<l>At du Menneske vorden est,</l>
+</lg> 
+<pb facs="1845_2_page0082.png"/>
+<fw type="pageNum">74</fw>
+<lg>
+<l>Født af en Jomfru reen og skiær,</l>
+<l>Glædelig hilst af Himlens Hær!</l>
+<l>O, Gud skee Lov!</l>
+</lg>
+<lg>
+<l>2. Du, Gud-Faders eenbaarne Son,</l>
+<l>Mand i Lys, men dog Gud i Løn,</l>
+<l>Underlig klædt i Kiød og Blod,</l>
+<l>Kom paa vor Brest at raade Bod.</l>
+<l>O, Gud skee Lov!</l>
+</lg>
+<lg>
+<l>3. Verden gaaer i dit Ledebaand,</l>
+<l>Dig dog svøber en Jomfruhaand;</l>
+<l>Du er den Store, som mægter Alt,</l>
+<l>Blev dog paa Skiød Barnlille kaldt.</l>
+<l>O, Gud skee Lov!</l>
+</lg>
+<lg>
+<l>4. Himlens Lys kom i dig til Jord,</l>
+<l>Skinner til ny Oplysning stor,</l>
+<l>Godt kan vi nu ved Nattetid</l>
+<l>Kiende vor himmelske Fader blid.</l>
+<l>O, Gud skee Lov!</l>
+</lg>
+<lg>
+<l>5. Fattig kom du til Jorden ned,</l>
+<l>Adlede Armod og Usselhed,</l>
+<l>Fattig gjorde du dig med Flid,</l>
+<l>Rige blev vi til evig Tid.</l>
+<l>O, Gud skee Lov!</l>
+</lg>
+<lg>
+<l>6. Konning er du af Arten bedst,</l>
+<l>Aanders Konge blev Støvets Giæst,</l>
+<l>Fører os op fra Skyggedal</l>
+<l>Hjem til sin lyse Kongesal.</l>
+<l>O, Gud skee Lov!</l>
+</lg>
+<p><hi rend="align(center)">78. (699.)</hi></p>
+<p><hi rend="align(center)">Egen Melodi.</hi></p>
+<lg>
+<l><hi rend="initial">E</hi>t lidet Barn saa lysteligt</l>
+<l>Blev af en Jomfru baaret,</l>
+<l>Ei for, ei siden hørdes Sligt,</l>
+<l>Men lun i Jubelaaret,</l>
+</lg>
+ 
+<pb facs="1845_2_page0083.png"/>
+<fw type="pageNum">75</fw>
+<lg>
+<l>I Tidens Fylde, da Guds Søn</l>
+<l>Paa Jord sig fandt en Moder skiøn,</l>
+<l>Lod uden Synd sig føde,</l>
+<l>Fornedrede sig til de Smaa,</l>
+<l>Saa de kan ham til Broder faae,</l>
+<l>Den Himlens Morgenrode!</l>
+</lg>
+<lg>
+<l>2. Høilovet i al Evighed</l>
+<l>Skal Jesus derfor være.</l>
+<l>Og naar sor ham vi knæle ned,</l>
+<l>Det er Gud-Faders Ære,</l>
+<l>Og naar vor Lovsang, altid ny,</l>
+<l>Fra Jord sig svinger let i Sky,</l>
+<l>Med glade Juletoner,</l>
+<l>Vort fattige Halleluja</l>
+<l>Med salig Fryd istemmes da</l>
+<l>As Engles Millioner!</l>
+</lg>
+<p><hi rend="align(center)">79. (700.)</hi></p>
+<p><hi rend="align(center)">Mel. Et lidet Barn saa lysteligt.</hi></p>
+<lg>
+<l><hi rend="initial">V</hi>or Sjæl er frelst fra Synd og Død,</l>
+<l>Os melder Engle-Stemme:</l>
+<l>Os er idag en Frelser fod,</l>
+<l>Hans Navn vi aldrig glemme!</l>
+<l>Nu har en Fader vi og der,</l>
+<l>Hvorfra kom hid Guds Englehær,</l>
+<l>Guds Son, han er vor Broder,</l>
+<l>Hans Himmel er vort Fædreland,</l>
+<l>Og selv er han vor Frelsermand,</l>
+<l>Hans Kirke er vor Moder!</l>
+</lg>
+<p><hi rend="align(center)">80. (701.)</hi></p>
+<p><hi rend="align(center)">Mel. Guds Godhed vil vi prise.</hi></p>
+<lg>
+<l><hi rend="initial">O</hi> Jesus! vor Forsoner.</l>
+<l>Guds Son fra Himmerig!</l>
+<l>Med høie Jubeltoner</l>
+<l>Vi glade prise dig,</l>
+</lg> 
+<pb facs="1845_2_page0084.png"/>
+<fw type="pageNum">76</fw>
+<lg>
+<l>O Store Kiærlighed!</l>
+<l>Vidunder for vort Øie!</l>
+<l>Fra Tronen i det Høie</l>
+<l>Steg du til Støvet ned!</l>
+</lg>
+<lg>
+<l>2. Gaaer ud i Verdens Riger,</l>
+<l>I Herrens Sendebud!</l>
+<l>Til alle Sjæle siger,</l>
+<l>Hvad os er skeet af Gud!</l>
+<l>Os er en Frelser fod,</l>
+<l>En Helt foruden Mage,</l>
+<l>Nu vender Fred tilbage,</l>
+<l>Guds Fred i Liv og Død!</l>
+</lg>
+<lg>
+<l>3. O Glæde uden Lige!</l>
+<l>O Julehøitid skiøn!</l>
+<l>I Herlighedens Rige</l>
+<l>Lovsynges Støvets Son.</l>
+<l>Helv dig, gienløfte Jord!</l>
+<l>Din Fred, din Fryd og Glæde,</l>
+<l>Derom fra Skyen kvæde</l>
+<l>Guds Engle høit i Kor!</l>
+</lg>
+<lg>
+<l>4. O vær til os velkommen,</l>
+<l>Med Lovsang høit i Sky,</l>
+<l>Du, som os Helligdommen</l>
+<l>Oplader mild paany!</l>
+<l>I dit, i Jesu Navn</l>
+<l>Kan frit vi nu indtræde,</l>
+<l>Kan fole Barneglæde,</l>
+<l>Og finde Fredens Havn!</l>
+</lg>
+<lg>
+<l>5. Lov, Tak og Priis og Ære,</l>
+<l>Gud over Englekor!</l>
+<l>Evindelig dig være</l>
+<l>For Himlens Fred paa Jord!</l>
+<l>Og naar vi see dig hist,</l>
+<l>I Herlighedens Rige,</l>
+<l>Skal værdig Tak vi sige</l>
+<l>Dig, Herre Jesus Christ!</l>
+</lg> 
+<pb facs="1845_2_page0085.png"/>
+<fw type="pageNum">77</fw>
+<p><hi rend="align(center)">81. (702.)</hi></p>
+<p><hi rend="align(center)">Mel. Nu velan vær frist tilmode.</hi></p>
+<lg>
+<l><hi rend="initial">H</hi>yrder, I, som vogted Hjorden</l>
+<l>I Guds Klarheds Maaneskin,</l>
+<l>Hørde Serafimers Orden</l>
+<l>Synge Julefesten ind!</l>
+<l>Skal dog ikke jeg engang</l>
+<l>Ogsaa høre Englesang,</l>
+<l>Og i Himmelaanders Kiæde</l>
+<l>Finde salig Juleglæde!</l>
+</lg>
+<lg>
+<l>2. Frelser! jo, den Juleglæde</l>
+<l>Er idag og blevet min,</l>
+<l>I vor Dragt du dig lod klæde</l>
+<l>Kun for os at skiænke din;</l>
+<l>Derfor, meer end Engle lig,</l>
+<l>Jesus! jeg skal ligne dig,</l>
+<l>Dele med dig Fryd og Ære,</l>
+<l>Naar dig prise Himlens Hære!</l>
+</lg>
+<lg>
+<l>3. Tak, med Jubeltoner glade,</l>
+<l>Du, som i det Høie boer!</l>
+<l>Fred paa Jorden! Oljeblade</l>
+<l>Trindt om Ærens Krone groer.</l>
+<l>Høit forkynder Juledag,</l>
+<l>Gud i os har Velbehag;</l>
+<l>Med dig, Jesus! Broder kiære!</l>
+<l>Boe vi skal hos Gud i Ære.</l>
+</lg>
+<p><hi rend="align(center)">82. (703.)</hi></p>
+<p><hi rend="align(center)">Mel. Fra Himlen høit kom vi nu her.</hi></p>
+<lg>
+<l><hi rend="initial">F</hi>ra Himlen høit, med Julebud,</l>
+<l>Paa Engleviis jeg kom fra Gud,</l>
+<l>Saa vidt og bredt paa Jorderig</l>
+<l>Derom skal synges frydelig.</l>
+</lg>
+<lg>
+<l>2. Et Barn er født af Adams Kiøn,</l>
+<l>Hans Moder er en Jomfru skiøn,</l>
+</lg> 
+<pb facs="1845_2_page0086.png"/>
+<fw type="pageNum">78</fw>
+<lg>
+<l>Den Davids Son, saa faur og sin,</l>
+<l>Gud-Fader evig kalder sin.</l>
+</lg>
+<lg>
+<l>3. Hvad I af Gud var skabte til,</l>
+<l>Paany Han eder stiænke vil,</l>
+<l>Derfor er født den Herre Christ,</l>
+<l>Al Verdens Frelsermand forvist.</l>
+</lg>
+<lg>
+<l>4. Til eder i det Lave her Det glade Budskab vi nedbær,</l>
+<l>At med os høit i Himmerig</l>
+<l>I leve skal evindelig.</l>
+</lg>
+<lg>
+<l>5. I Bethlehem, i Davids By,</l>
+<l>I finder ham i Morgengry,</l>
+<l>I Barnesvøb, i Krybbe lagt,</l>
+<l>Som har al Verden i sin Magt.</l>
+</lg>
+<lg>
+<l>6. Saa kvæder sødt om Julenat</l>
+<l>Guds Engel klar, og hos ham brat,</l>
+<l>Fra Engle smaa i Tusindviis,</l>
+<l>Gienlyder høit Vorherres Priis.</l>
+</lg>
+<lg>
+<l>7. Som Hyrderne, med Barnesind,</l>
+<l>Kom, lad os gaae i Hytten ind,</l>
+<l>Og see den Julegave skiøn,</l>
+<l>Vi fik af Gud: Hans egen Sen!</l>
+</lg>
+<lg>
+<l>8. I Krybbe lagt! o see engang!</l>
+<l>Om ham det var, Guds Engle sang,</l>
+<l>Og Jesus Christus hedder han, .</l>
+<l>Vor Frelser, baade Gud og Mand!</l>
+</lg>
+<lg>
+<l>9. Velkommen vær, du ædle Giæst!</l>
+<l>As Kiærlighed du kommen est,</l>
+<l>Fra Himmerig, o Herre sod,</l>
+<l>At frelse os fra Synd og Død!</l>
+</lg>
+<lg>
+<l>10. O, Søn af Verdens Skaber god!</l>
+<l>Hvor fattig du dig fode lod!</l>
+<l>Hvor ydmyg du dig lagde ned</l>
+<l>Paa Hø og Straa i Usselhed!</l>
+</lg> 
+<pb facs="1845_2_page0087.png"/>
+<fw type="pageNum">79</fw>
+<lg>
+<l>11. Var Verden nok saa vid og lang,</l>
+<l>Den dig var dog en Vugge trang,</l>
+<l>Og dig ei værd, om den var fuld</l>
+<l>Af Perler, Ædelsteen og Guld.</l>
+</lg>
+<lg>
+<l>12. For Fløiel dyrt og Silke sin,</l>
+<l>Af Straa er Vuggepude din,</l>
+<l>Men dog iløn, for os og dig,</l>
+<l>Din Krybbe er et Himmerig.</l>
+</lg>
+<lg>
+<l>13. Dig, Herre, det behaged saa</l>
+<l>Med Liv at lære dine Smaa,</l>
+<l>Hvorlidt Guds Børn sig bryder om</l>
+<l>Al Verdens Pragt og Herredom.</l>
+</lg>
+<lg>
+<l>14. Guds liden Søn, saa faur og sin!</l>
+<l>Du, som er Lyst og Glæde min,</l>
+<l>I Hjerte mit, o Herre sod!</l>
+<l>Giør dig en Vugge varm og blød!</l>
+</lg>
+<lg>
+<l>15. Da er derinde Sang og Dands,</l>
+<l>Da er for Vie Himlens Glands,</l>
+<l>Og altid rig er da min Mund</l>
+<l>Paa Julesang af Hjertensgrund.</l>
+</lg>
+<lg>
+<l>16. O Gud skee Lov til evig Tid!</l>
+<l>Guds Sen, han er vor Broder blid!</l>
+<l>Nu lover Englesang i Sky</l>
+<l>Os Himmerig med Nyaarsny!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<head>Paaske-Høitid.</head>
+<p><hi rend="align(center)">83. (704.)</hi></p>
+<p><hi rend="align(center)">Mel. Som Hjorten med Tørst befangen.</hi></p>
+<lg>
+<l><hi rend="initial">H</hi>ører til, I høie Himle!</l>
+<l>Hører til, I Engle-Kor!</l>
+<l>Lytter alle Folke-Vrimle,</l>
+<l>Hvor I stædes trindt paa Jord!</l>
+</lg> 
+<pb facs="1845_2_page0088.png"/>
+<fw type="pageNum">80</fw>
+<lg>
+<l>Hore hver, som høre kan,</l>
+<l>Alt hvad Sands har og Forstand!</l>
+<l>Tier alle Engle-Tunger!</l>
+<l>Jesus, o, vor Jesus sjunger!</l>
+</lg>
+<lg>
+<l>2. O, du Guds Apostel-Skare!</l>
+<l>O, hvor eders Hjertegrund</l>
+<l>Maatte sig med Fryd opklare,</l>
+<l>Da I tog af Jesu Mund</l>
+<l>Israels Halleluja,</l>
+<l>Priste Gud for Frelse fra</l>
+<l>Pharaoners Aag og Plage,</l>
+<l>Og sor Kanaans Frydedage!</l>
+</lg>
+<lg>
+<l>3. O, thi fode Himmel-Toner,</l>
+<l>Jesus, dig paa Tungen laae,</l>
+<l>Da, vor Frelser og Forsoner,</l>
+<l>Deden du for Øine saae;</l>
+<l>Adam ud af Paradis</l>
+<l>Gik med Suk for Vredens Rus,</l>
+<l>Du igien med Sang oplukker</l>
+<l>Paradis, mens Slangen sukker!</l>
+</lg>
+<lg>
+<l>4. Evangelium forkynder</l>
+<l>Saa du for min svage Tro,</l>
+<l>Med din Lovsang alt begynder</l>
+<l>Livets Træ hos mig at groe;</l>
+<l>Ei jeg meer med Ak og Vee</l>
+<l>Skal for Øine Døden see,</l>
+<l>Jeg i dig skal trøstig blive,</l>
+<l>Med din Sang min Død fordrive!</l>
+</lg>
+<lg>
+<l>5. Stem mit Hjerte, rør min Tunge,</l>
+<l>Frelser, med din Guddomshaand,</l>
+<l>Til i Liv og Død at sjunge,</l>
+<l>Med din Rost og med din Aand!</l>
+<l>Syng, min Sjæl, at al din Nod</l>
+<l>Fandt sin Grav ved Herrens Død!</l>
+<l>Syng og troe! saa skal du stige</l>
+<l>Syngende til Himmerige!</l>
+</lg> 
+<pb facs="1845_2_page0089.png"/>
+<fw type="pageNum">81</fw>
+<p><hi rend="align(center)">84. (705.)</hi></p>
+<p><hi rend="align(center)">Mel. Jesu søde Hukommelse.</hi></p>
+<lg>
+<l><hi rend="initial">G</hi>ak under Jesu Kors at staae,</l>
+<l>O kiære Sjæl, og med Attraa</l>
+<l>Vogt paa hans Læber, og giv Magt</l>
+<l>Hvert Ord, han har til Afsted sagt!</l>
+</lg>
+<lg>
+<l>2. Med naglet Haand og naglet Fod,</l>
+<l>Fra Korsets Træ min Jesus lod</l>
+<l>Fremklinge Naadens fulde Rost,</l>
+<l>Mig og enhver til Liv og Trost!</l>
+</lg>
+<lg>
+<l>3. Han først for sine Fiender bad:</l>
+<l>Tilgiv dem, Fader, og forlad!</l>
+<l>Thi hvad de giør, det veed de ei,</l>
+<l>Gaae blinde paa den brede Vei.</l>
+</lg>
+<lg>
+<l>4. O Jesus! beed du og for mig!</l>
+<l>Thi om ei fiendsk, dog skrøbelig</l>
+<l>Jeg er i alt mit Syn og Vært,</l>
+<l>Kun ved din Bøn jeg bliver stærk.</l>
+</lg>
+<lg>
+<l>5. Dernæst han til sin Moder saae,</l>
+<l>Hvor jammerfuld hun monne staae,</l>
+<l>Som stedt igiennem Sjæl og Liv</l>
+<l>Med Dommer-Sværd og Offer-Kniv;</l>
+</lg>
+<lg>
+<l>6. En anden Søn han hende gav</l>
+<l>Til Lindring, Trost og Støttestav:</l>
+<l>Johannes! tag dig hendes Sag,</l>
+<l>Som Moders, an, fra denne Dag!</l>
+</lg>
+<lg>
+<l>7. Om jeg, min Frelser! og skal staae,</l>
+<l>Forladt, forhadt, med Korset paa,</l>
+<l>Ja, vennelos, som Moder din,</l>
+<l>Send et Gudsbarn til Støtte min!</l>
+</lg>
+<lg>
+<l>8. Den Røver, som sin Synd fortrød.</l>
+<l>Og trøsted sig ved Christi Død,</l>
+</lg> 
+<pb facs="1845_2_page0090.png"/>
+<fw type="pageNum">82</fw>
+<lg>
+<l>Sin Miskundhed til evig Priis,</l>
+<l>Han fast tilsagde Paradis;</l>
+</lg>
+<lg>
+<l>9. Lad, Jesus, mig i Dødens Stund</l>
+<l>Og høre af din egen Mund:</l>
+<l>Idag du være skal med mig</l>
+<l>I Paradis, i Himmerig!</l>
+</lg>
+<lg>
+<l>10. Det fjerde Ord var frygteligt,</l>
+<l>Og aldrig Herde Himlen sligt:</l>
+<l>Min Gud! min Gud! hvi Haver Du</l>
+<l>I denne Ned forladt mig nu!</l>
+</lg>
+<lg>
+<l>11. O Frelser, du, i Nod og Nat,</l>
+<l>Blev af din Fader saa forladt,</l>
+<l>Kun for at vi, trods Synd og Død,</l>
+<l>Skal hvile i din Faders Skiød!</l>
+</lg>
+<lg>
+<l>12. Al Verdens Synd bar det Guds Lam,</l>
+<l>Guds Vredes Ild fortæred ham:</l>
+<l>Mig tørster, sagde han, og fik</l>
+<l>Til Lædskelse en Malurt-Drik;</l>
+</lg>
+<lg>
+<l>13. Saa tømde du, med bredfuldt Maal,</l>
+<l>O Frelser min, den bittre Staal,</l>
+<l>Men derfor Kalken liflig sød</l>
+<l>Skal kvæge mig i Liv og Dor.</l>
+</lg>
+<lg>
+<l>14. Han sagde mildt: det er fuldbragt,</l>
+<l>Et bedre Ord blev aldrig sagt,</l>
+<l>Nu aaben staaer mig Himlens Port,</l>
+<l>For mig har Jesus fyldestgiort.</l>
+</lg>
+<lg>
+<l>15. Det sidste Suk, min Frelser gav,</l>
+<l>Det aanded Liv, trods Død og Grav,</l>
+<l>Han sagde: Fader! i din Haand</l>
+<l>Befaler jeg min Sjæl og Aand.</l>
+</lg>
+<lg>
+<l>16. Det Afskeds-Ord sig trænge ind</l>
+<l>Dybt i mit Hjerte, Sjæl og Sind,</l>
+<l>Og blive saa det sidste Ord,</l>
+<l>Jeg tale skal paa denne Jord!</l>
+</lg> 
+<pb facs="1845_2_page0091.png"/>
+<fw type="pageNum">83</fw>
+<p><hi rend="align(center)">85. (706)</hi></p>
+<p><hi rend="align(center)">Essen Melodi.</hi></p>
+<lg>
+<l><hi rend="initial">O</hi>p Sjæl, bryd Søvnen af,</l>
+<l>Og see til Jesu Grav,</l>
+<l>Hvor han er lagt i Dvale,</l>
+<l>Som ene kan husvale!</l>
+<l>O lad din Trøst det være:</l>
+<l>Han stander op med Ære!</l>
+</lg>
+<lg>
+<l>2. Fat Mod og Haab paany!</l>
+<l>Stat op i Morgengry!</l>
+<l>Gak med de fromme Kvinder,</l>
+<l>Gak med de fede Minder,</l>
+<l>Til Graven, hvor nu blunder</l>
+<l>Guds Kiærligheds Vidunder!</l>
+</lg>
+<lg>
+<l>3. Tag med den Salve fiin,</l>
+<l>Som tækkes Herre din,</l>
+<l>Og salv hans Stov med Taarer,</l>
+<l>Som var til Spot for Daarer,</l>
+<l>Men gavmild overmaade</l>
+<l>Paa Liv og Lys og Naade!</l>
+</lg>
+<lg>
+<l>4. Er Stenen stor og svar,</l>
+<l>Hvormed de spærret har</l>
+<l>Din Brudgoms Sovekammer,</l>
+<l>Naar Kiærligheden flammer,</l>
+<l>Da har du i dit Værge</l>
+<l>Den Tro, som flytter Bjerge!</l>
+</lg>
+<lg>
+<l>5. Gak du kun dristig med Til Herrens Lejested!</l>
+<l>For du det veed, bortspringer</l>
+<l>Da Stenen for Guds Finger,</l>
+<l>Og midt blandt sine Kiære</l>
+<l>Staaer Frelseren med Ære!</l>
+</lg> 
+<pb facs="1845_2_page0092.png"/>
+<fw type="pageNum">84</fw>
+<lg>
+<l>6. Hver Steen til Hjerte-Stod</l>
+<l>Skal saa ved Jesu Død</l>
+<l>Og Troens Seier vige,</l>
+<l>Thi Dob og Satans Rige</l>
+<l>Er ødelagt med Ære,</l>
+<l>Guds Navn velsignet være!</l>
+</lg>
+<p><hi rend="align(center)">86. (707.)</hi></p>
+<p><hi rend="align(center)">Samme Melodi.</hi></p>
+<lg>
+<l><hi rend="initial">S</hi>ivsalig Paaskedag!</l>
+<l>Nu vundet er vor Sag,</l>
+<l>Langfredags bittre Minde</l>
+<l>Maa nu saa sødt forsvinde,</l>
+<l>Thi Jesus vandt med Ære,</l>
+<l>Hans Navn velsignet være!</l>
+</lg>
+<lg>
+<l>2. Velkommen, Englebud,</l>
+<l>Som melder os fra Gud,</l>
+<l>Vor Frelser Jesus ikke Skal meer i Graven ligge,</l>
+<l>Men opstaae til Guds Ære!</l>
+<l>Hans Navn velsignet være!</l>
+</lg>
+<lg>
+<l>3. Bort, du beseiglet Steen,</l>
+<l>Som giemmer Jesu Been!</l>
+<l>Du kanst ham ei indlukke,</l>
+<l>Guds Son ei saa vil bukke,</l>
+<l>Du og hans Krast maa tære,</l>
+<l>Hans Navn velsignet være!</l>
+</lg>
+<lg>
+<l>4. O prægtig Morgenglands,</l>
+<l>Som overgaaer al Sands!</l>
+<l>Guds Sen, vor Sol er oppe,</l>
+<l>Han Mørkets Kæmpetroppe</l>
+<l>Adsplittet har med Ære,</l>
+<l>Hans Navn velsignet være!</l>
+</lg> 
+<pb facs="1845_2_page0093.png"/>
+<fw type="pageNum">85</fw>
+<lg>
+<l>5. Trods dig, du Dødens Brodd!</l>
+<l>Nu har du tabt din Odd,</l>
+<l>Trods, alle Gravens Vagter!</l>
+<l>Trods, alle Helvedmagter!</l>
+<l>I tabde med Vanære,</l>
+<l>Guds Navn velsignet være!</l>
+</lg>
+<lg>
+<l>6. O kiære Sjæl, stig op</l>
+<l>Til Himlens Stjernetop,</l>
+<l>Din Seiersang at sjunge,</l>
+<l>Med Hjerte, Mund og Tunge,</l>
+<l>Til den Opstandnes Ære!</l>
+<l>Hans Navn velsignet være!</l>
+</lg>
+<p><hi rend="align(center)">87. (708.)</hi></p>
+<p><hi rend="align(center)">Egen Melodi.</hi></p>
+<lg>
+<l><hi rend="initial">C</hi>hrist stod op af Døde,</l>
+<l>I Paaske-Morgenrode;</l>
+<l>Thi synger lydt og sjæleglad</l>
+<l>Hans Menighed i allen Stad:</l>
+<l>Ære være Gud i det Høie!</l>
+</lg>
+<lg>
+<l>2. Christ stod op af Døde,</l>
+<l>Afsonet er vor Brode;</l>
+<l>Thi synger lydt og sjæleglad</l>
+<l>Hans Menighed i allen Stad:</l>
+<l>Ære være Gud i det Høie!</l>
+</lg>
+<lg>
+<l>3. Christ stod op af Døde,</l>
+<l>I Himlen vi ham mode;</l>
+<l>Thi synger lydt og sjæleglad</l>
+<l>Hans Menighed i allen Stad:</l>
+<l>Ære være Gud i det Høie!</l>
+</lg>
+<p><hi rend="align(center)">88. (709.)</hi></p>
+<p><hi rend="align(center)">Mel. Guds Godhed vil vi prise.</hi></p>
+<lg>
+<l><hi rend="initial">I</hi> Deden Jesus blunded,</l>
+<l>I Graven lagdes ned,</l>
+</lg> 
+<pb facs="1845_2_page0094.png"/>
+<fw type="pageNum">86</fw>
+<lg>
+<l>Har nu dog overvundet</l>
+<l>Al Dødens Bitterhed;</l>
+<l>Nu rinder op saa klar</l>
+<l>Den Soel, med Lys og Glæde,</l>
+<l>Som i sit Jordeklæde</l>
+<l>Saa slet formørket var!</l>
+</lg>
+<lg>
+<l>2. I Gry ved Englestyrke</l>
+<l>Blev Stenen væltet hen,</l>
+<l>Af Gravens Bo hin morke</l>
+<l>udgik vor Sjæleven!</l>
+<l>Seer I, med Had i Hu,</l>
+<l>Som Jesum nys ombragde.</l>
+<l>Som ham paa Korset strakde,</l>
+<l>Han lever dog endnu!</l>
+</lg>
+<lg>
+<l>3. Med Lov vor Mund udbryder</l>
+<l>Om Jesu Herlighed,</l>
+<l>Det hele Land sig fryder,</l>
+<l>Fordi hans Ord er skeet;</l>
+<l>Sit Lofte holdt han vist,</l>
+<l>Thi sjunger alle Munde,</l>
+<l>As dybe Hjertensgrunde:</l>
+<l>Tak skee dig, Herre Christ!</l>
+</lg>
+<lg>
+<l>4. Almægtig Seierherre,</l>
+<l>Som Fiendens hele Magt,</l>
+<l>Dit store Navn til Ære,</l>
+<l>Har under Fedder lagt!</l>
+<l>Lær os at kæmpe saa,</l>
+<l>At naar vor Strid har Ende,</l>
+<l>Vi Palmer kan ihænde</l>
+<l>Og Seiers-Kronen faae!</l>
+</lg>
+<p><hi rend="align(center)">89. (710.)</hi></p>
+<p><hi rend="align(center)">Egen Melodi.</hi></p>
+<lg>
+<l><hi rend="initial">S</hi>om den gyldne Soel frembryder</l>
+<l>Giennem den kulsorte Sky,</l>
+</lg> 
+<pb facs="1845_2_page0095.png"/>
+<fw type="pageNum">87</fw>
+<lg>
+<l>Og sin Straaleglands udskyder,</l>
+<l>Medens Mulm og Morke flye,</l>
+<l>Saa min Jesus af sin Grav,</l>
+<l>Af det dybe Dødens Hav,</l>
+<l>Opstod herlig fra de Døde,</l>
+<l>Med en Paaske-Morgenrøde.</l>
+</lg>
+<lg>
+<l>2. Tak, du store Seierherre,</l>
+<l>Tat, du Livets Himmelhelt,</l>
+<l>At du ei dig lod indspærre</l>
+<l>I det helvedmørke Telt!</l>
+<l>Tak, for aarle du opstod,</l>
+<l>Og fik Døden under Fod!</l>
+<l>Ingen Tunge kan den Glæde</l>
+<l>Med tilbørlig Lov udkvæde.</l>
+</lg>
+<lg>
+<l>3. Jeg kan sinde i mit Hjerte,</l>
+<l>At min Sjæl har Trost deraf,</l>
+<l>Som kan lindre al min Smerte,</l>
+<l>Naar jeg mindes ret din Grav,</l>
+<l>Hvor med Englevagt du laae,</l>
+<l>Tændte Lys i morke Vraa,</l>
+<l>Og stod op med Kraft og Ære,</l>
+<l>Hvad kan større Glæde være!</l>
+</lg>
+<lg>
+<l>4. Snubler jeg paa morke Veie,</l>
+<l>Synker jeg i Armod ned,</l>
+<l>Ligger jeg paa Sygeleje,</l>
+<l>Vaandes jeg i Usselhed,</l>
+<l>Ligger jeg fortrængt, forhadt,</l>
+<l>Og af Verden slet forladt,</l>
+<l>Skal jeg Huus i Graven tage,</l>
+<l>O, der er dog Haab tilbage!</l>
+</lg>
+<lg>
+<l>5. Synd og Død, med alle Pile,</l>
+<l>Som fra Helved skydes kan,</l>
+<l>Ligge brudte ved din Hvile</l>
+<l>I det ode, morke Land;</l>
+<l>Der begrov du dem og gav</l>
+<l>Mig det Ord til Støttestav,</l>
+</lg> 
+<pb facs="1845_2_page0096.png"/>
+<fw type="pageNum">88</fw>
+<lg>
+<l>At til din Opreisnings Ære,</l>
+<l>Jeg skal Seierspalmen bære!</l>
+</lg>
+<lg>
+<l>6. Som Guds Son jeg dig nu kiender,</l>
+<l>Og seer din Almægtighed,</l>
+<l>Din Opstandelse omspænder</l>
+<l>Hvad jeg troer og hvad jeg veed,</l>
+<l>Om Opreisning i min Daab,</l>
+<l>Og om Herlighedens Haab;</l>
+<l>Kun for du stod op af Døde,</l>
+<l>Har min Sjæl en Morgenrøde!</l>
+</lg>
+<lg>
+<l>7. Søde Jesus! giv mig Naade,</l>
+<l>Ved din gode Helligaand,</l>
+<l>At jeg frelses maa af Vaade,</l>
+<l>Og opholdes ved din Haand,</l>
+<l>Saa jeg ei skal falde hen</l>
+<l>I det Dødens Svælg igien,</l>
+<l>Hvoraf du mig dengang rylde,</l>
+<l>Da du Døden undertrykde!</l>
+</lg>
+<lg>
+<l>8. Lad kun Muldet mig bedække,</l>
+<l>Lad kun smuldre mine Been:</l>
+<l>Dog skal mig din Rost opvække,</l>
+<l>Reise op foruden Meen!</l>
+<l>Jord og Luft og Ild og Vand</l>
+<l>Har i dig sin Overmand,</l>
+<l>Trods dem alle, dine Dove</l>
+<l>Faae en Paaske-Morgenrøde.</l>
+</lg>
+<lg>
+<l>9. Tak da for din Fodsels-Glæde!</l>
+<l>Tak for hvert dit Guddoms-Ord!</l>
+<l>Tak for Daabens Dugg og Væde!</l>
+<l>Tak for Altrets Naadebord!</l>
+<l>Tak for Dødens bittre Vee!</l>
+<l>Tak for din Opstandelse!</l>
+<l>Tak, for dig, i Himlen inde,</l>
+<l>Salig jeg skal see og sinde!</l>
+</lg> 
+<pb facs="1845_2_page0097.png"/>
+<fw type="pageNum">89</fw>
+<p><hi rend="align(center)">90. (711.)</hi></p>
+<p><hi rend="align(center)">Mel. Sode Jesus vi er her.</hi></p>
+<lg>
+<l><hi rend="initial">H</hi>ørt har jeg, at han opstod,</l>
+<l>Graven ei min Frelser giemmer,</l>
+<l>Sorg ei længer, Sjæl, sat Mod!</l>
+<l>Herren ei dit Haab beskæmmer,</l>
+<l>Med hans Vidner vil jeg følge,</l>
+<l>Dagens Lys kan ei sig dølge!</l>
+</lg>
+<lg>
+<l>2. Herren lyser paa min Vei,</l>
+<l>Om end Sjælen ei ham kiender,</l>
+<l>Vankelmodig tvivler jeg,</l>
+<l>Men naar Ordets Lys han tænder,</l>
+<l>Naar han Skrifterne oplader,</l>
+<l>Sig i Glands dog Sjælen bader!</l>
+</lg>
+<lg>
+<l>3. Hvad jeg hører, veed jeg ei,</l>
+<l>Sælsom dog det Hjertet rorer!</l>
+<l>Undringsfuld paa Livets Vei</l>
+<l>Herrens Viisdomsord jeg hører,</l>
+<l>Mægtig Hjertet i mig brænder,</l>
+<l>End dog ei ham Viet kiender.</l>
+</lg>
+<lg>
+<l>4. I en hellig Aftenstund</l>
+<l>Taagen falde fra mit Vie!</l>
+<l>Synet, Herre! mig forund:</l>
+<l>Aandesynet fra det Høie!</l>
+<l>Staae for Sjælen aabenbaret,</l>
+<l>Salig, kiærlig og forklaret!</l>
+</lg>
+<p><hi rend="align(center)">91. (712.)</hi></p>
+<p><hi rend="align(center)">Mel. Nu velan vær frist tilmode.</hi></p>
+<lg>
+<l><hi rend="initial">L</hi>yse Morgen er oprunden,</l>
+<l>Endt er Verdens Dødens Nat.</l>
+<l>See, i Paaske-Morgenstunden,</l>
+<l>Solen har sin Grav forladt!</l>
+</lg> 
+<pb facs="1845_2_page0098.png"/>
+<fw type="pageNum">90</fw>
+<lg>
+<l>Hæv dig, Aand, med Priis til Gud!</l>
+<l>Gal fra Dødens Skygger ud!</l>
+<l>Drag mod Øst til urtehaven!</l>
+<l>Gak med Kvinderne til Graven!</l>
+</lg>
+<lg>
+<l>2. Salve de vil Herren bringe,</l>
+<l>Vil ham ære i hans Grav,</l>
+<l>Medens Paaske-Psalmer klinge</l>
+<l>Alt fra Himmel, Jord og Hav!</l>
+<l>Gravens Steen er stor og svær,</l>
+<l>Den opløfter Ingen her,</l>
+<l>O, men see, den er borttagen,</l>
+<l>Graven skinner lys som Dagen!</l>
+</lg>
+<lg>
+<l>3. Englen i de hvide Klæder</l>
+<l>Skinner fra den tomme Grav:</l>
+<l>Glæd dig nu, hver Sjæl, som græder!</l>
+<l>Glæd dig, Himmel, Jord og Hav!</l>
+<l>Støvets Lovsang! bryd nu ud!</l>
+<l>Frelste Verden, pris din Gud!</l>
+<l>Pris din Frelser og Forsoner!</l>
+<l>Englerøst fra Graven toner.</l>
+</lg>
+<lg>
+<l>4. Herren, som de ledte efter,</l>
+<l>Jesus Christus er ei der,</l>
+<l>Han opstod med Guddomskræfter,</l>
+<l>Er nu Sine altid nær.</l>
+<l>Store Daad! du er fuldbragt;</l>
+<l>Afgrund! hvor er nu din Magt?</l>
+<l>Død! vi for din Brodd ei grue,</l>
+<l>Vi skal den Opstandne stue!</l>
+</lg>
+<p><hi rend="align(center)">92. (713.)</hi></p>
+<p><hi rend="align(center)">Mel. Som den gyldne Soel frembryder.</hi></p>
+<lg>
+<l><hi rend="initial">T</hi>ag det sorte Kors fra Graven!</l>
+<l>Plant en Lilje hvor det stod!</l>
+<l>Ved hvert Skridt i Dødninghaven</l>
+<l>Blomster spire for vor Fod!</l>
+</lg> 
+<pb facs="1845_2_page0099.png"/>
+<fw type="pageNum">91</fw>
+<lg>
+<l>Englevinger paa vor Grav,</l>
+<l>For den brudte Vandringsstav!</l>
+<l>Palmefugl for Askekrukke!</l>
+<l>Frydesang sor hule Sukke!</l>
+</lg>
+<lg>
+<l>2. Solen sortned, da han blegned,</l>
+<l>Som sor os udgiød sit Blod,</l>
+<l>Graven lyste, Mørket segned,</l>
+<l>Da forklaret han opstod!</l>
+<l>Ton, vor Lovsang, høit i Sky,</l>
+<l>Sødt i Paaske-Morgengry:</l>
+<l>Jesus Christus er opstanden!</l>
+<l>Evig lever Guddomsmanden!</l>
+</lg>
+<lg>
+<l>3. See Maria Magdalene!</l>
+<l>Hænder nys hun vred i Gru,</l>
+<l>Sukked, til at rore Stene:</l>
+<l>Hvor? ak, hvor er Herren nu?</l>
+<l>See, af Øiets Taareflod</l>
+<l>Morgensolen mildt opstod!</l>
+<l>I den Grav, hvor han har hvilet,</l>
+<l>Hun har sundet Englesmilet!</l>
+</lg>
+<lg>
+<l>4. Brister, alle Helgengrave!</l>
+<l>Herrens Rost, i Dæmring sval,</l>
+<l>Lyder i de Dødes Have,</l>
+<l>Skaber Lys i Skyggedal!</l>
+<l>Herren kalder, men ei nu:</l>
+<l>Synder! Adam! hvor er du?</l>
+<l>Sødt det toner, Engle tie:</l>
+<l>„Her er Frelseren, Marie!"</l>
+</lg>
+<lg>
+<l>5. Ja, han er her, Guddomsmanden,</l>
+<l>Sprængte er nu Dødens Baand!</l>
+<l>Han er visselig opstanden,</l>
+<l>Og hans Ord er Liv og Aand!</l>
+<l>Bod vi fik for alle Savn;</l>
+<l>Staaer nu op, i Jesu Navn,</l>
+<l>Alle Herrens Dvaledøde,</l>
+<l>Med den gyldne Morgenrode!</l>
+</lg> 
+<pb facs="1845_2_page0100.png"/>
+<fw type="pageNum">92</fw>
+<lg>
+<l>6. Stander op og seer Guds Finger</l>
+<l>I den klare Vidnekrands!</l>
+<l>Iler did paa Ørnevinger,</l>
+<l>Hvor han straaler i sin Glands,</l>
+<l>Gaaer paa Sky med lette Fjed,</l>
+<l>Hjem os at berede Sted!</l>
+<l>Der sig aabner i det Høie</l>
+<l>Himlens Dyb for Støvets Vie!</l>
+</lg>
+<lg>
+<l>7. Jord, som af din Vinterdvale</l>
+<l>Vaagner i den milde Vaar!</l>
+<l>Klaret er din morke Tale</l>
+<l>Om et nyt Opreisnings-Aar!</l>
+<l>Nu en Foraarsmorgen stien</l>
+<l>Rinder op for os iløn,</l>
+<l>Og, som Paaske-Psalmen klinger,</l>
+<l>Voxer Sjælens Fuglevinger!</l>
+</lg>
+<p><hi rend="align(center)">93. (714.)</hi></p>
+<p><hi rend="align(center)">Mel. Sode Jesu vi er her.</hi></p>
+<lg>
+<l><hi rend="initial">J</hi>esus lever, Graven brast,</l>
+<l>Han stod op med Guddoms-Vælde!</l>
+<l>Nu det staaer som Klippen fast,</l>
+<l>At hans Kors og Død skal giælde!</l>
+<l>Lynet blinker, Jorden bæver,</l>
+<l>Graven brast og Jesus lever!</l>
+</lg>
+<lg>
+<l>2. Jeg har vundet, Jesus vandt,</l>
+<l>Deden veg for Livets Seier,</l>
+<l>Lyset Mørkheds Fyrste bandt,</l>
+<l>Frihed jeg ved Jesus eier,</l>
+<l>Aaben har jeg Himlen fundet,</l>
+<l>Jesus vandt og jeg har vundet!</l>
+</lg>
+<p><hi rend="align(center)">94. (715.)</hi></p>
+<p><hi rend="align(center)">Mel. Frygt mit Barn den sande Gud.</hi></p>
+<lg>
+<l><hi rend="initial">J</hi>esus! Guds eenbaarne Sen!</l>
+<l>Hør vor Lovsang, hør vor Bøn!</l>
+</lg> 
+<pb facs="1845_2_page0101.png"/>
+<fw type="pageNum">93</fw>
+<lg>
+<l>Evig priset være du,</l>
+<l>Som var død, men lever nu!</l>
+<l>Lys du over os din Fred!</l>
+<l>I dit Hjem os Sted bered!</l>
+<l>Før os til din Herlighed!</l>
+</lg>
+<p><hi rend="align(center)">95. (716.)</hi></p>
+<p>Mel.</p>
+<lg>
+<l><hi rend="initial">V</hi>æltet bort er Kampestenen</l>
+<l>I et helligt Morgengry!</l>
+<l>Engelen med Palmegrenen</l>
+<l>Peger paa den Purpursky,</l>
+<l>Der skal Herren aabenbare,</l>
+<l>Ligesom han saaes opfare:</l>
+<l>Skyen, vi skal rødme i!</l>
+</lg>
+<lg>
+<l>2. Kvinder, I, som taareblændte</l>
+<l>underværket saae ved Lyn,</l>
+<l>Hjem fra Graven trøstig vendte,</l>
+<l>For I saae et Englesyn!</l>
+<l>Er Disiplerne end træge</l>
+<l>Til at troe hvad dem skal kvæge,</l>
+<l>Sjunger dog Halleluja!</l>
+</lg>
+<lg>
+<l>3. Vaagnet op af Dødens Dvale,</l>
+<l>Reiste sig i Aandens Kraft,</l>
+<l>Rører sig i Guddomstale,</l>
+<l>Han, som har vort Samfund skabt,</l>
+<l>Vil lyslevende nu virke,</l>
+<l>Alle Dage, i sin Kirke,</l>
+<l>Himmelsk Lys og evigt Liv!</l>
+</lg>
+<p><hi rend="align(center)">96. (717.)</hi></p>
+<p>Mel.</p>
+<lg>
+<l><hi rend="initial">M</hi>enneskebolig!</l>
+<l>Bæve du maatte, da Frelseren døde,</l>
+</lg> 
+<pb facs="1845_2_page0102.png"/>
+<fw type="pageNum">94</fw>
+<lg>
+<l>Men i Opstandelsens Morgenrode,</l>
+<l>Da blev du rolig!</l>
+<l>Ja, ved Opstandelsens levende Ord,</l>
+<l>Blev du beroliget, Jord!</l>
+<l>Der, hvor du bæved saalænge med Smerte:</l>
+<l>Dybt i det skiælvende Hjerte!</l>
+<l>Halleluja!</l>
+</lg>
+<p><hi rend="align(center)">97. (718.)</hi></p>
+<p>Mel.</p>
+<lg>
+<l><hi rend="initial">V</hi>erdens Igienfødelse</l>
+<l>Glæden igienføder,</l>
+<l>Skiønt fornyet Skabningen</l>
+<l>Den Opstandne møder!</l>
+<l>Øst og Vest og Syd og Nord,</l>
+<l>Ild og Nand og Luft og Jord,</l>
+<l>Synge Paaske-Psalmer!</l>
+</lg>
+<lg>
+<l>2. Seer du op til Hvælvingen,</l>
+<l>Skyerne sig klare;</l>
+<l>Lytter du til Bølgerne,</l>
+<l>Blidelig de svare;</l>
+<l>Mellem begge, morgenglad,</l>
+<l>Fryder sig, med Foraarskvad,</l>
+<l>Hele Fuglekoret!</l>
+</lg>
+<lg>
+<l>3. Seer du, hvor i Skovene</l>
+<l>Alle Træer styde!</l>
+<l>Mærker du, hvor Engene</l>
+<l>Sig i Vaaren fryde!</l>
+<l>Nu det Visne vorder grønt,</l>
+<l>Hvad der falmed, atter skiønt,</l>
+<l>Det giør Paaskemorgen!</l>
+</lg>
+<lg>
+<l>4. Livets Varme, seirende</l>
+<l>Over Dødens Kulde,</l>
+<l>Priser ham, som straalende</l>
+<l>Reiste sig af Mulde!</l>
+</lg> 
+<pb facs="1845_2_page0103.png"/>
+<fw type="pageNum">95</fw>
+<lg>
+<l>Dødens Fyrste ham tog heel,</l>
+<l>Havde i ham ingen Deel,</l>
+<l>Misted hvad han havde!</l>
+</lg>
+<lg>
+<l>5. Fundet har nu Mennesket</l>
+<l>Bod for alt Forliset:</l>
+<l>Sværdet nu, det flammende,</l>
+<l>Svandt fra Paradiset!</l>
+<l>Nu Keruben lofter glad</l>
+<l>Oljegreen med Palmeblad,</l>
+<l>Vinter os til Eden!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<head>Pindse-Høitiden.</head>
+<p><hi rend="align(center)">98. (719.)</hi></p>
+<p><hi rend="align(center)">Mel. Om Himmerigs Rige saa vil vi tale.</hi></p>
+<lg>
+<l><hi rend="initial">M</hi>in Sjæl og Aand, opmuntre dig</l>
+<l>At see hen ind i Himmerig,</l>
+<l>Hvor Jesus, han opstiger!</l>
+<l>Det være hvad du meest attraaer!</l>
+<l>Da Vinger nok din Længsel faaer,</l>
+<l>Til ham at efterhige</l>
+<l>Og ind i Glæden kige!</l>
+</lg>
+<lg>
+<l>2. Den Sty, der ham af Syne log,</l>
+<l>Den følger jeg, og tænker dog.</l>
+<l>Den skal ham ei tildække;</l>
+<l>Kan ei jeg trænge til ham ind,</l>
+<l>I Tro og Haab, med Sjæl og Sind,</l>
+<l>Sin Haand vil han udstrække,</l>
+<l>Og giennem Sky mig række!</l>
+</lg>
+<lg>
+<l>3. I hvideklædte Vidner, som</l>
+<l>Stod hos, hvor til sit Herredom</l>
+<l>Min Frelser saaes opfare!</l>
+<l>I minde mig, jeg op skal staae</l>
+</lg> 
+<pb facs="1845_2_page0104.png"/>
+<fw type="pageNum">96</fw>
+<lg>
+<l>Og frem i Hvide Klæder gaae.</l>
+<l>Naar han mig vil forklare</l>
+<l>Blandt Himlens Engleskare!</l>
+</lg>
+<lg>
+<l>4. Min Høvding foer til Himlen hjem,</l>
+<l>Og jeg, som Jesu Legems Lem,</l>
+<l>Vil glad i Aanden være,</l>
+<l>Thi ogsaa mig indfører han</l>
+<l>Engang med sig i Livets Land,</l>
+<l>Der evig, til hans Ære,</l>
+<l>Min Straaledragt at bære!</l>
+</lg>
+<lg>
+<l>5. Jeg veed og i mit Hjerte troer,</l>
+<l>At som han op til Himmels foer,</l>
+<l>Han saa igien skal komme,</l>
+<l>O kom da, søde Jesus, kom,</l>
+<l>Og aabne Himlens Helligdom</l>
+<l>For alle dine Fromme!</l>
+<l>Da Længslens Tid er omme.</l>
+</lg>
+<p><hi rend="align(center)">99. (720.)</hi></p>
+<p><hi rend="align(center)">Mel. Et Barn er født i Bethlehem.</hi></p>
+<lg>
+<l><hi rend="initial">F</hi>ra Himlen kom den Helligaand,</l>
+<l>Helligaand,</l>
+<l>Og lofte Jordens Tungebaand!</l>
+<l>Halleluja. Halleluja!</l>
+</lg>
+<lg>
+<l>2. Han kom som Jesu Christi Tolk,</l>
+<l>Christi Tolk,</l>
+<l>Med Tunger ny til alle Folk!</l>
+<l>Halleluja, Halleluja!</l>
+</lg>
+<lg>
+<l>3. Han kom med Ild og Kraft fra Gud,</l>
+<l>Kraft fra Gud,</l>
+<l>Til alle Herrens Sendebud!</l>
+<l>Halleluja, Halleluja!</l>
+</lg> 
+<pb facs="1845_2_page0105.png"/>
+<fw type="pageNum">97</fw>
+<lg>
+<l>4. Hvor frit de tale trindt paa Jord,</l>
+<l>Trindt paa Jord,</l>
+<l>Der Aand og Liv er Jesu Ord.</l>
+<l>Halleluja, Halleluja!</l>
+</lg>
+<lg>
+<l>5. Der mærker Vret Herrens Rost,</l>
+<l>Herrens Rost;</l>
+<l>Der føler Hjertet Aandens Trost.</l>
+<l>Halleluja, Halleluja!</l>
+</lg>
+<lg>
+<l>6. Der Sjælen seer i Speilet klart,</l>
+<l>Speilet klart,</l>
+<l>Sin Frelsers Glands og Himmelfart.</l>
+<l>Halleluja, Halleluja!</l>
+</lg>
+<lg>
+<l>7. Der skaber og, til Herrens Priis,</l>
+<l>Herrens Priis,</l>
+<l>Guds Aandepust et Paradis.</l>
+<l>Halleluja, Halleluja!</l>
+</lg>
+<lg>
+<l>8. Der er Guds Stad og Huus paa Jord,</l>
+<l>Huus paa Jord,</l>
+<l>Med Herrens Bad og Herrens Bord.</l>
+<l>Halleluja, Halleluja!</l>
+</lg>
+<lg>
+<l>9. Der lofter sig en Lovsang ny,</l>
+<l>Lovsang ny,</l>
+<l>Paa Englevinger høit i Sky.</l>
+<l>Halleluja, Halleluja!</l>
+</lg>
+<lg>
+<l>10. For Ild og Kraft og Lys og Fred,</l>
+<l>Lys og Fred,</l>
+<l>Da synger Christi Menighed:</l>
+<l>Halleluja, Halleluja!</l>
+</lg>
+<lg>
+<l>11. Da holder med sin høie Giæst,</l>
+<l>Høie Giæst,</l>
+<l>Guds Folk en liflig Pindsefest.</l>
+<l>Halleluja, Halleluja!</l>
+</lg> 
+<pb facs="1845_2_page0106.png"/>
+<fw type="pageNum">98</fw>
+<p><hi rend="align(center)">100. (721.)</hi></p>
+<p><hi rend="align(center)">Mel. Kom Gud Skaber o Helligaand.</hi></p>
+<lg>
+<l><hi rend="initial">K</hi>om, skab os nye, Gud-Helligaand!</l>
+<l>Du er Gud-Faders Høirehaand,</l>
+<l>Den mindes grant hvad den har gjort,</l>
+<l>Beviis paa os, at det er stort!</l>
+</lg>
+<lg>
+<l>2. Du Sjælens Trøster god og mild,</l>
+<l>Du er den rene Alterild,</l>
+<l>Oplysnings Væld og Klarheds Viin,</l>
+<l>Og Glædens Olje liflig, fiin!</l>
+</lg>
+<lg>
+<l>3. Syvfoldig virker du paa Jord,</l>
+<l>I Jesu Navn, med Naadens Ord;</l>
+<l>Vær i vor Mund og i vort Bryst</l>
+<l>Guds Kiærligheds og Sandheds Rost!</l>
+</lg>
+<lg>
+<l>4. Tænd Lys hos os, som bedst du veed,</l>
+<l>Med Flammen af Guds Kiærlighed!</l>
+<l>Paa al vor Skrøbeligheds Savn</l>
+<l>Du raade Bod i Jesu Navn!</l>
+</lg>
+<lg>
+<l>5. Driv langt fra os vor Avindsmand,</l>
+<l>Saa vi med Fred i Livets Land,</l>
+<l>Med Himlens Lys i Sandheds Ord,</l>
+<l>Kan følge dig i Jesu Spor!</l>
+</lg>
+<lg>
+<l>6. En ret Guds-Kundskab du os giv,</l>
+<l>Som er i os et evigt Liv,</l>
+<l>Med Fader, Son og Helligaand,</l>
+<l>Eet i Fuldkommenhedens Baand!</l>
+</lg>
+<lg>
+<l>7. Saa holde ret vi Pindsefest,</l>
+<l>I Evigheden allerbedst,</l>
+<l>Hvor Alt er let, som her var svart,</l>
+<l>Hvor Alt er nyt og soleklart!</l>
+</lg> 
+<pb facs="1845_2_page0107.png"/>
+<fw type="pageNum">99</fw>
+<p><hi rend="align(center)">101. (722.)</hi></p>
+<p><hi rend="align(center)">Mel. Jesu søde Hukommelse.</hi></p>
+<lg>
+<l><hi rend="initial">N</hi>u rinder op vor Pindsefest,</l>
+<l>Gud-Helligaand, vær du vor Giæst!</l>
+<l>Vort Hjerte selv bered du saa,</l>
+<l>At det dit Tempel være maa!</l>
+</lg>
+<lg>
+<l>2. Kom, Sandheds Aand, og Vidne giv</l>
+<l>I mig, at Jesus er mit Liv,</l>
+<l>Saa jeg af intet Andet veed</l>
+<l>End Christus mig til Salighed!</l>
+</lg>
+<lg>
+<l>3. Kom, Viisdoms Aand, og leed os saa,</l>
+<l>At vi paa Klarheds Veie gaae,</l>
+<l>Men aldrig dog fra Troens Grund</l>
+<l>Et Haarsbred vige nogen Stund!</l>
+</lg>
+<lg>
+<l>4. Jeg uden dig ei kiende kan</l>
+<l>Min Gud og søde Frelsermand,</l>
+<l>Lad derfor dine Straaler mig</l>
+<l>I Hjertet falde idelig!</l>
+</lg>
+<lg>
+<l>5. Om jeg i Tryghed slumrer hen,</l>
+<l>O væk mig snarlig op igien!</l>
+<l>Med Kraft din Naade staae mig bi,</l>
+<l>Veilede mig paa Sandheds Sti!</l>
+</lg>
+<lg>
+<l>6. I Kors og Kummer, Trang og Nod,</l>
+<l>I Fare, Fristelse og Død,</l>
+<l>Til Trøster du os given est,</l>
+<l>Vor Tarv du kiender ogsaa bedst!</l>
+</lg>
+<lg>
+<l>7. Om derfor jeg, med Korset paa,</l>
+<l>Skal giennem Verdens Torne gaae,</l>
+<l>Til Himmerig og Livsens Land,</l>
+<l>Vær stærk i mig, min Trøstermand!</l>
+</lg> 
+<pb facs="1845_2_page0108.png"/>
+<fw type="pageNum">100</fw>
+<lg>
+<l>8. O Helligaand! o søde Gud,</l>
+<l>Styrk os, saa vi kan stride ud,</l>
+<l>Opvarm os med din Naades Gled</l>
+<l>Og giør os trøstig i vor Død!</l>
+</lg>
+<lg>
+<l>9. Beseigl den Tro, at Kronen mig</l>
+<l>Opbier hist i Himmerig,</l>
+<l>Hvor jeg skal evig Glæde naae,</l>
+<l>Og salig for Guds Ansigt staae!</l>
+</lg>
+<p><hi rend="align(center)">102. (723.)</hi></p>
+<p><hi rend="align(center)">Mel. Hvad kan os komme til for Nød.</hi></p>
+<lg>
+<l><hi rend="initial">G</hi>ud Helligaand! i Tro os lær</l>
+<l>Vor Frelsermand alene</l>
+<l>Af Hjertet ret at have kiær,</l>
+<l>Og Herren saa at tjene,</l>
+<l>At vi fra Dødens Grumhed maae</l>
+<l>Ved Jesu dybe Vunder faae</l>
+<l>Den Frelse, han fortjende!</l>
+</lg>
+<lg>
+<l>2. Giv, at den funde Lærdoms Kraft</l>
+<l>I Hjertet ret fornemmes!</l>
+<l>Af Ordets Brod og sode Saft</l>
+<l>Vor Salighed lad fremmes!</l>
+<l>Giør Synden magtesløs og død,</l>
+<l>Og i dit Dyb vor Sjæl gienfød,</l>
+<l>I Troen Frugt at bære!</l>
+</lg>
+<lg>
+<l>3. Naar Liv og Aande vil forgaae,</l>
+<l>I Dødens bittre Stunde,</l>
+<l>O, at vi da din Virkning saa</l>
+<l>I Hjertet føle kunde,</l>
+<l>At vi vor Sjæl med god Forstand</l>
+<l>Befale maae i Jesu Hand,</l>
+<l>I evig Ro at giemmes!</l>
+</lg> 
+<pb facs="1845_2_page0109.png"/>
+<fw type="pageNum">101</fw>
+<p><hi rend="align(center)">108. (724.)</hi></p>
+<p><hi rend="align(center)">Mel. Jesus din søde Forening at smage.</hi></p>
+<lg>
+<l><hi rend="initial">A</hi>and over Aander, kom ned fra det Høie!</l>
+<l>Aand, som med Fader og Sem er vor Gud!</l>
+<l>Kom, vore Sjæle tilsammen at føie!</l>
+<l>Kom at berede den himmelske Brud!</l>
+<l>Kalde, forsamle og Jesus forklare,</l>
+<l>Bygge Guds Kirke, oplyse Hans Folk,</l>
+<l>Det er din Gierning, lad os det erfare!</l>
+<l>Vær i vort Hjerte Guds Kiærligheds Tolk!</l>
+</lg>
+<p><hi rend="align(center)">104. (725.)</hi></p>
+<p><hi rend="align(center)">Mel. Skulde jeg min Gud ei prise.</hi></p>
+<lg>
+<l><hi rend="initial">H</hi>elligaand! din Priis udsjunger</l>
+<l>Jordens Kreds og Engles Kor,</l>
+<l>Giv vor Andagt Flammetunger!</l>
+<l>Giv vor Jubel Himmelord!</l>
+<l>Dig forkyndte Skyens Torden,</l>
+<l>Veirets Brusen var dit Bud,</l>
+<l>Naade bragde du fra Gud,</l>
+<l>Bar hans Vidnesbyrd til Jorden;</l>
+<l>Af Apostelskarens Hu</l>
+<l>Drev du vældig Frygt og Gru!</l>
+</lg>
+<lg>
+<l>2. Kraft du over dem udøste,</l>
+<l>Rusted dem til Herrefærd,</l>
+<l>Deres Tungebaand du løfte.</l>
+<l>Gav dem Ordets Flammesværd!</l>
+<l>Altid med din Kraft og Flamme</l>
+<l>Er du Jordens Himmelgiæst,</l>
+<l>Skaber du en Pindsefest,</l>
+<l>Hvor dig Hjertet vil annamme!</l>
+<l>Eet med Fader og med Sen,</l>
+<l>Du opfylder Støvets Bøn!</l>
+</lg> 
+<pb facs="1845_2_page0110.png"/>
+<fw type="pageNum">102</fw>
+<lg>
+<l>3. Lysets Aand! lad dine Luer</l>
+<l>Skinne, saa jeg vildes ei,</l>
+<l>Saa jeg seer og grant beskuer</l>
+<l>Jesu Liv og Jesu Vei!</l>
+<l>Lad det dunkle Bogstav tindre</l>
+<l>For min Sjæl med Stjerneskrift!</l>
+<l>Tvivlens morke Sky bortvift,</l>
+<l>Saa den ei skal Troen hindre!</l>
+<l>Lad mig see, du Synets Aand,</l>
+<l>Christus ved Guds Høirehaand!</l>
+</lg>
+<lg>
+<l>4. Naadens Aand, vær du min Trøster!</l>
+<l>Himmeldue from og blid!</l>
+<l>Kom, naar Hjertestyrken brøster,</l>
+<l>under Modgangs Storm og Strid!</l>
+<l>Vift da med din Straalevinge</l>
+<l>Smertens bittre Taarer bort!</l>
+<l>Giør min Trængsels Time kort!</l>
+<l>Haab og Taalmod du mig bringe!</l>
+<l>Skjul for Verdens Nod og Savn</l>
+<l>Mig i Kiærlighedens Favn!</l>
+</lg>
+<p><hi rend="align(center)">105. (726.)</hi></p>
+<p><hi rend="align(center)">Mel. Enhver som troer og bliver døbt.</hi></p>
+<lg>
+<l><hi rend="initial">F</hi>ra Himlen Herrens Aand nedfoer:</l>
+<l>Jeg glædes vil og sjunge:</l>
+<l>Nu har Guds Kraft paa Jorden Ord,</l>
+<l>Og Ordet Flammetunge!</l>
+<l>Paa Veirets Vinger kom med Brag,</l>
+<l>Som Lynet giennem Tordenstag,</l>
+<l>Det Lys, Gudherren sendte!</l>
+</lg>
+<lg>
+<l>2. Det lyner giennem Sjæl og Sind,</l>
+<l>Sig Hjertets Lue tænder,</l>
+<l>I Øiet farer Straalen ind,</l>
+<l>Paa Issen Flammen brænder!</l>
+<l>Flyv høit, min Sjæl, i Lys dig sving!</l>
+<l>Guds store, underlige Ting</l>
+<l>De lofte Tunger tale!</l>
+</lg> 
+<pb facs="1845_2_page0111.png"/>
+<fw type="pageNum">103</fw>
+<lg>
+<l>3. Hvad Herrens store Vidner saae,</l>
+<l>Al Verden skal fornemme;</l>
+<l>Guds Ord skal Jordens Grændse naae</l>
+<l>Med tusind Tungers Stemme!</l>
+<l>Velkommen, Krafts og Friheds Aand!</l>
+<l>Du løser alle Tungers Baand,</l>
+<l>Og alle Sjæles Lænker.</l>
+</lg>
+<lg>
+<l>4. Fra Sandheds høie Hjem du tom,</l>
+<l>Al Sandhed du os lærer!</l>
+<l>Om Synd, Retfærdighed og Dom</l>
+<l>Du mægtig Vidne bærer,</l>
+<l>Men du dog ogsaa Ordet veed</l>
+<l>Om Naade, Kjærlighed og Fred,</l>
+<l>Forkynd det for al Verden!</l>
+</lg>
+<lg>
+<l>5. Velkommen, Aandl med Tugtens Rost,</l>
+<l>Med Kiærlighedens Stemme!</l>
+<l>O straf og lær, forman og trøst!</l>
+<l>Bliv evig hos os hjemme!</l>
+<l>O lys og brænd i Sjæl og Bryst,</l>
+<l>Indtil Basunens høie Rost</l>
+<l>Til Naadens Dom os kalder!</l>
+</lg>
+<p><hi rend="align(center)">106. (727.)</hi></p>
+<p><hi rend="align(center)">Mel. Fader vor udi Himmerig.</hi></p>
+<lg>
+<l><hi rend="initial">V</hi>or Pindsefest vi holde nu,</l>
+<l>Os rinde sødt, o Gud, ihu,</l>
+<l>Hvad med den Høitid stor og stiøn</l>
+<l>Du virket har i Lys og Løn,</l>
+<l>Hos Folk og Stammer trindt paa Jord,</l>
+<l>Som Du lod hore Livets Ord!</l>
+</lg>
+<lg>
+<l>2. I Tungers glødende Gestalt</l>
+<l>Din Aand paa Jesu Venner faldt,</l>
+<l>Saa hvad de Horde, hvad de saae,</l>
+<l>Dem levende paa Tungen laae,</l>
+</lg> 
+<pb facs="1845_2_page0112.png"/>
+<fw type="pageNum">104</fw>
+<lg>
+<l>Og Læben blev din Naades Tolk</l>
+<l>Med Ild og Lys for alle Folk!</l>
+</lg>
+<lg>
+<l>3. Din Aand Du og til os udgiød,</l>
+<l>Pust op vor Gnist til Lueglød!</l>
+<l>Giv Tungen Sødme, Øiet Lyn!</l>
+<l>Giv Sjælen Vinger, Hjertet Syn!</l>
+<l>Giv Talen Fynd og Psalmen Klang!</l>
+<l>Skab af hvert Suk en Frydesang!</l>
+</lg>
+<lg>
+<l>4. Lad Pindsemai af Bøgeskov</l>
+<l>I Kirken plantes, Dig til Lov,</l>
+<l>Og Modersmaalet, paa sin Viis,</l>
+<l>Forkynde lydt din Godheds Priis,</l>
+<l>Saalænge under Kirketag</l>
+<l>End helligholdes Pindsedag!</l>
+</lg>
+<lg>
+<l>5.	Til evigt Liv en sælsom Lyst</l>
+<l>Fra Vuggen bølged os i Bryst!</l>
+<l>Du har vort Hjerte i din Haand,</l>
+<l>Omdan det med din Helligaand,</l>
+<l>Saa det, i Livets Kilde døbt,</l>
+<l>Fra Død sig føler dyrekiøbt!</l>
+</lg>
+<p><hi rend="align(center)">107. (728.)</hi></p>
+<p><hi rend="align(center)">Mel. Naglet til et Kors paa Jorden.</hi></p>
+<lg>
+<l><hi rend="initial">V</hi>ar I ikke Galilæer!</l>
+<l>Kaldte eder Pharisæer</l>
+<l>Ei med Haan ulærde Mænd,</l>
+<l>I, som bragde først paa Tale</l>
+<l>ham, som laae i Dødens Dvale,</l>
+<l>Men stod herlig op igien!</l>
+</lg>
+<lg>
+<l>2. Jødelands Apostelskare!</l>
+<l>Hvad i Verden kan forklare</l>
+<l>Kraften i dit gamle Ord,</l>
+<l>Som endnu giør underværker,</l>
+<l>Har til stolte Mindesmærker</l>
+<l>Kirker alle trindt paa Jord!</l>
+</lg> 
+<pb facs="1845_2_page0113.png"/>
+<fw type="pageNum">105</fw>
+<lg>
+<l>3. Ja, hvor kan, skiøndt Sproget døde,</l>
+<l>Eders Ord paa Tungen glede,</l>
+<l>Trodse Vidd og Blok og Baal!</l>
+<l>Hvor kan eders Aand i Norden,</l>
+<l>I hver Stad og Vraa paa Jorden,</l>
+<l>Tale Folkets Modersmaal!</l>
+</lg>
+<lg>
+<l>4. Paaskemorgen, Pindsedagen,</l>
+<l>Ikkun de forklare Sagen,</l>
+<l>Gav jer alle Tungers Aand,</l>
+<l>Aanden, som kan Alt udvirke,</l>
+<l>Som i Jesu Christi Kirke</l>
+<l>Løser alle Tungebaand!</l>
+</lg>
+<lg>
+<l>5. Ikke jer det er, som tale,</l>
+<l>Siger han, som kan befale,</l>
+<l>Men det er min Faders Aand;</l>
+<l>Derfor, stiondt I tidlig døde.</l>
+<l>Eders Taler evig glede,</l>
+<l>Smelter alle Sjæles Baand!</l>
+</lg>
+<lg>
+<l>6. Sandelig, det var Guds Finger,</l>
+<l>Som gav Bruden Ørnevinger,</l>
+<l>Midt i Ørken Huus og Gaard,</l>
+<l>Som gav Korsets Ord fra Østen</l>
+<l>Sangerstemme«, Kæmperøsten</l>
+<l>Giennem atten Hundredaar!</l>
+</lg>
+<lg>
+<l>7. Derfor gløde vore Tunger,</l>
+<l>Derfor sødt det i os sjunger,</l>
+<l>Naar vi prise Jesu Navn,</l>
+<l>Og vor Sjæl i Kirkeordet,</l>
+<l>Smeltende ved Naadebordet,</l>
+<l>Synker sødt i Jesu Favn!</l>
+</lg>
+<lg>
+<l>8. Modersmaalet dybt sig bøier,</l>
+<l>Let og listig det sig føier</l>
+<l>Efter Herrens Tankegang;</l>
+<l>Yndigt selv, men blødt derefter,</l>
+</lg> 
+<pb facs="1845_2_page0114.png"/>
+<fw type="pageNum">106</fw>
+<lg>
+<l>Laaner Aand og Ild og Kræfter</l>
+<l>Det af Sions Heltesang!</l>
+</lg>
+<p><hi rend="align(center)">108. (729.)</hi></p>
+<p><hi rend="align(center)">Mel. Var Gud ei med os denne Tid.</hi></p>
+<lg>
+<l><hi rend="initial">D</hi>en Christne Kirkes skiønne Navn</l>
+<l>Vil overalt man bære;</l>
+<l>Men Herrens Folk, til evigt Gavn,</l>
+<l>Det vil dog Faa kun være;</l>
+<l>Sig Kirkens Navn med Uret gav</l>
+<l>Og giver mangen kalket Grav,</l>
+<l>Som Dødningbeen kun giemmer!</l>
+</lg>
+<lg>
+<l>2. Almindelig, det kaldes ret</l>
+<l>Guds Kirke trindt paa Jorden,</l>
+<l>For Tider, Folk og Tankesæt</l>
+<l>I Syden og i Norden;</l>
+<l>Fra hver en Kant, mens Verden staaer,</l>
+<l>Om Hyrden stokkes Hjordens Faar,</l>
+<l>Hvo kan vel det forhindre!</l>
+</lg>
+<lg>
+<l>3. Men Kirken, den er dog kun een,</l>
+<l>Eet Navn i alle Munde,</l>
+<l>Til Grundvold Gud har lagt en Steen,</l>
+<l>Som rokkes ingenlunde,</l>
+<l>Det Samme altid i en Sum</l>
+<l>Er Christi Evangelium,</l>
+<l>Som os mon saliggiøre.</l>
+</lg>
+<lg>
+<l>4. Derfor det første Kirke-Tegn</l>
+<l>Er Livets Ord og Lære,</l>
+<l>For Hjertet Soel og Dugg og Regn,</l>
+<l>Til Jesu Christi Ære,</l>
+<l>Thi hvor det lyder uden Tant,</l>
+<l>Det kiendes og, Guds Ord er sandt,</l>
+<l>Kan uden Frugt ei blive.</l>
+</lg> 
+<pb facs="1845_2_page0115.png"/>
+<fw type="pageNum">107</fw>
+<lg>
+<l>5. At Kirken staaer i Daabens Pagt,</l>
+<l>Det kan ei heller feile.</l>
+<l>Og Herren vil, som han har sagt.</l>
+<l>Sit Vidnesbyrd beseigle,</l>
+<l>Som med sin Aand, vor Trøster god,</l>
+<l>Saa med sit Legem og sit Blod,</l>
+<l>De Christnes Mad og Drikke!</l>
+</lg>
+<lg>
+<l>6. Paa Lydighed mod Jesu Ord</l>
+<l>Det er saa godt at mærke.</l>
+<l>Hvor Gud sit Tempel har paa Jord,</l>
+<l>Og Christus Kæmper stærke,</l>
+<l>Der hører Gud den stille Bøn,</l>
+<l>Der lyder Takke-Sangen skiøn</l>
+<l>I Hjerter og i Munde!</l>
+</lg>
+<lg>
+<l>7. Et helligt Liv i Jesu Tro</l>
+<l>Kan Verden ei behage,</l>
+<l>Saa under Korset Christne boe,</l>
+<l>I Verden alle Dage,</l>
+<l>Men altid har af Herrens Rost</l>
+<l>Hans Kirke-Folk den rige Trost,</l>
+<l>De Himmerig skal arve!</l>
+</lg>
+<lg>
+<l>8. Ukrudt og Klinte findes fast</l>
+<l>Blandt Hveden aabenbare,</l>
+<l>Mundchristne leve i Skam og Last,</l>
+<l>Det Dommedag skal klare;</l>
+<l>Guds Helgen har en kraftig Daab,</l>
+<l>Een Gud, een Drot, een Tro, det Haab</l>
+<l>At samles i Guds Rige!</l>
+</lg>
+<lg>
+<l>9. Saa hav da Tak, o Jesus Christ!</l>
+<l>Vi see heraf med Glæde,</l>
+<l>Den sande Kirke er forvist</l>
+<l>Og her blandt os tilstæde!</l>
+<l>Dit Lys, ved Luther tændt paany,</l>
+<l>Lad skinne her, til du i Sky</l>
+<l>Din Kirke vil forklare!</l>
+</lg> 
+<pb facs="1845_2_page0116.png"/>
+<fw type="pageNum">108</fw>
+<p><hi rend="align(center)">109. (730.)</hi></p>
+<p><hi rend="align(center)">Mel. Frygt mit Barn den sande Gud.</hi></p>
+<lg>
+<l><hi rend="initial">F</hi>red, til Bod for bittert Savn,</l>
+<l>Gav os Gud i Jesu Navn,</l>
+<l>Fred os kiøbde med sit Blod,</l>
+<l>Fred os Jesus efterlod!</l>
+<l>Christendom er i en Sum</l>
+<l>Fredens Evangelium!</l>
+</lg>
+<lg>
+<l>2. Fred er Kirkens Velkomst-Ord,</l>
+<l>Og Farvel paa denne Jord;</l>
+<l>I vor Daab det til os lod,</l>
+<l>Skal gienlyde i vor Død:</l>
+<l>Fred med eder! Herrens Fred,</l>
+<l>Nu og i al Evighed! :,:</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div> 
+<pb facs="1845_2_page0117.png"/>
+<fw type="pageNum">109</fw>
+<head>Register.</head>
+<p>Side</p>
+<p><hi rend="bold">A</hi>and over Aander. N. B	101.</p>
+<p>Af Diendes og Spædes Mund. G. 	5.</p>
+<p>Af Midnattens Skiød. B.	69.</p>
+<p>At fige Verden ret Farvel. G	49.</p>
+<p><hi rend="bold">B</hi>arnelivets faure Dage. G	II.</p>
+<p>Beredt er nu til Nadver stor. I	27.</p>
+<p><hi rend="bold">C</hi>hrist stod op af Døde. gl	85.</p>
+<p><hi rend="bold">D</hi>eiligt er Synet og lifligt. G.	32.</p>
+<p>De knælede med Ja mod Ia. Ps.	37.</p>
+<p>Den Christne Kirkes skiønne Navn. Th...	106.</p>
+<p>Den yndigste Rose er fundet. Br.	65.</p>
+<p>Der er et helligt Værge. I	53.</p>
+<p>Det er fuldbragt du har det hørt. I....	14.</p>
+<p>Det himmelsk klang i Englekor. G	68.</p>
+<p>De Toner ei klage saa saare. L.	59.</p>
+<p>Dig Alles Fader Livets Gud. Ps.	37.</p>
+<p>Du ledte frem Algodheds Gud. Ps.	36.</p>
+<p><hi rend="bold">G</hi>en Gud og Alles Fader. I	32.</p>
+<p>Ene om Raadet er ene om Sorgen. G.	36.</p>
+<p>Enhver som troer og bliver døbt. K	2.</p>
+<p>Et Barn er født i Bethlehem. gl. .	62.</p>
+<p>Et helligt Liv en salig Død. Br	54.</p>
+<p>Et lidet Barn saa lysteligt. M. L	74.</p>
+<p><hi rend="bold">F</hi>ader Son og Helligaand. Ps. 	8.</p>
+<p>Forunderligt at sige laf: Mit Hjerte altid</p>
+<p>vanker). Br	70.</p>
+<p>Fra Himlen Herrens Aand nedfoer. I.	102.</p>
+<p>Fra Himlen høit med Julebud. M. L. ..	77.</p>
+<p>Fra Himlen kom den Helligaand. G....	96</p>
+<p>Fred til Bod for bittert Savn. G	108.</p>
+<pb facs="1845_2_page0118.png"/>
+<fw type="pageNum">110</fw>
+<p>Side</p>
+<p>Fryd dig du Christi Brud. gl	60.</p>
+<p>Frygt mit Barn den sande Gud. gl	8.</p>
+<p><hi rend="bold">G</hi>ak under Jesu Kors at staae. K	81.</p>
+<p>Giv mig, Gud, en Psalme Tunge G. ...	1.</p>
+<p>Glæderig og underfuld. P. G	34.</p>
+<p>Gud Helligaand i Tro os lær. S. I. ..	100.</p>
+<p>Gud Herren saae til Jorden ned. G...	17.</p>
+<p><hi rend="bold">H</hi>aabet ogsaa blege Kinder. Oeh. 	51.</p>
+<p>Han som paa Jorden beller. G	11.</p>
+<p>Helligaand din Priis udsjunger. B	101.</p>
+<p>Her modes alle Veje. G	56.</p>
+<p>Herre hvor skal vi gaae hen. G	21.</p>
+<p>Her vil ties her vil dies. Br. 	55.</p>
+<p>Hvo veed hvor nær mig er min Ende. T.	46.</p>
+<p>Hyggelig, rolig G. . 	1.</p>
+<p>Hyrder I som vogted Hjorden (af: Keiseren</p>
+<p>Augustus byder). N. B	77.</p>
+<p>Hører til I høie Himle. K	79.</p>
+<p>Hørt har jeg at han opstod. I	89.</p>
+<p><hi rend="bold">I</hi>dag paa apostolisk Viis. G	28.</p>
+<p>I denne søde Juletid. Br	66.</p>
+<p>I Deden Jesus blunded. S. I	85.</p>
+<p>Ingen er saa stor en Synder. Ps. .....	17.</p>
+<p>Jeg arme Svnder træde maa. S. I. ...	14.</p>
+<p>Jeg gaaer i Fare hvor jeg gaaer. Br. ..	45.</p>
+<p>Jeg glæder mig o Jesu ved min Daab. K.	6.</p>
+<p>Jeg som et Barn mig glæde vil. I. ...	64.</p>
+<p>Jeg vil ei søge Skjul og Klæde. Tm. ..	l9.</p>
+<p>Jesus Christ du gav mig Livet. Ps. ...	28.</p>
+<p>Jesus Christus Livets Drot. G	19.</p>
+<p>Jesus din søde Forening at smage. H. .	22.
+Jesus giør det for din Pine (af: Pengene</p>
+<p>som Judas slængde). K	52.</p>
+<p>Jesus Guds eenbaarne Søn. Ps.	92.</p>
+<p>Jesus Herre som du bød. Tm	7.</p>
+<p>Jesus lad mig dog ei fattes (af: Pengene</p>
+<p>som Judas slængde). K	52.</p>
+<p>Jesus lever, Graven brast. N. B	92.</p>
+<p>Julen har Englelyd (af: Priis og Ære og</p>
+<p>Dyd). gl	71.</p>
+<p><hi rend="bold">K</hi>ommer hid kun med de Smaa. G. . .	4.</p>
+<p><hi rend="bold">K</hi>om skab os nye Gud-Helligaand. M. L.	98.</p>
+<p><hi rend="bold">L</hi>ad Pagtens Dag o milde Gud. Ps. ..	13.</p>
+<pb facs="1845_2_page0119.png"/>
+<fw type="pageNum">111</fw>
+<p>Side
+Livsalig Paaskedag (af: Op Sjæl bryd</p>
+<p>Søvnen af). K	84.</p>
+<p>Lovet være du Herre Christ. M. L	73.</p>
+<p>Lyksalig hvo som frygter Gud. G	33.</p>
+<p>Lyse Morgen er oprunden I	89.</p>
+<p>Lær mig o Skov at visne glad. Deh. ..	51.</p>
+<p>Løgnens Fader vi forsage. G	9.</p>
+<p><hi rend="bold">M</hi>ed Fred og Fryd jeg farer hen. M. L.	40.</p>
+<p>Med Sorgen og Klagen hold Maade. L.	39.</p>
+<p>Med Vemod og med Andagt træde. Ps.	18.</p>
+<p>Menneskebolig. Or	93.</p>
+<p>Mig lyster nu at træde. K	2.</p>
+<p>Min Sjæl og Aand opmuntre dig. K. ..	95.</p>
+<p><hi rend="bold">N</hi>aar jeg betænker den Tid og Stund. P.	41.</p>
+<p><hi rend="bold">R</hi>u rinder op vor Pindsefest. K	99.</p>
+<p><hi rend="bold">O</hi> Gud du seer mig og du veed. Ps. .	28.</p>
+<p>O Herre din er Aanden. I	31.</p>
+<p>O Jesus paa din Alterfod. K	20.</p>
+<p>O Jesus Præst i Evighed. K	30.</p>
+<p>O Jesus søde Jesus dig. K	27.</p>
+<p>O Jesus vor Forsoner. Ps	75.</p>
+<p>Op glædes alle glædes nu. K	72.</p>
+<p>Op Sjæl bryd Søvnen af. K	83.</p>
+<p>Over Vandet Herrens Røst G	3.</p>
+<p>O Ægtestand. K	35.</p>
+<p><hi rend="bold">P</hi>aa Andagts Himmelstige. I	31.</p>
+<p>Paa denne Juledag (af: Fryd dig i Guds</p>
+<p>Behag). K		73.</p>
+<p><hi rend="bold">S</hi>aa samles vi til vore Fædre. Ps. ....	48.</p>
+<p>Som den gyldne Soel frembryder. K ..	86.</p>
+<p>Som Markens Blomst henvisner fage G.	58.</p>
+<p>Som Skyggen svinder Livet bort. Ps. .	47.</p>
+<p>Svag er jeg men Gud er god Ps. ...	l6.
+Sode Jesus Davids Rod (af: Store Gud</p>
+<p>og Frelsermand). K	66.</p>
+<p><hi rend="bold">T</hi>ag det sorte Kors fra Graven. G	90.</p>
+<p><hi rend="bold">V</hi>ar I ikke Galilæer. G	104.</p>
+<p>Belkommen igien Guds Engle smaa. G.	63.</p>
+<p>Verdens Igienfødelse. L	94.</p>
+<pb facs="1845_2_page0120.png"/>
+<fw type="pageNum">112</fw>
+<p>Side</p>
+<p>Vi traadte ind ved Daabens Pagt laf: D
+hvad er det en Herrestand). Br. .. 6.</p>
+<p>Vor Herre Jesus Gud og Mand. T	 43.</p>
+<p>Vor Herres Jesu Mindefest. G	 25.</p>
+<p>Vor Pindsefest vi holde nu. G	103</p>
+<p>Vor Sjæl er frelst fra Synd og Død. N.B. 75.</p>
+<p>Væltet bort er Kampestenen. G	 93.</p>
+<p>Vær du høilovet og velsignet. M. L	 24.</p>
+<fw type="graphic"/>
+<p>B.	Hr. Pastor Bove.</p>
+<p>Br.	Brorson.</p>
+<p>G.	Grundtvig</p>
+<p>gl.	gammel af ubekiendt Forfatter.</p>
+<p>Gr.	Græsk.</p>
+<p>H.	Biskop Hygom.</p>
+<p>I.	Ingemann.</p>
+<p>S. I.	Søren Jonæsen.</p>
+<p>K.	Ringo.</p>
+<p>L.	Latinsk.</p>
+<p>M. L.	Luther.</p>
+<p>N. B.	Nordahl Brun.</p>
+<p>Oeh.	Øehlenschlager.</p>
+<p>P.	Niels Pedersen.</p>
+<p>P. G.	Paul Gerhard.</p>
+<p>Ps.	Den gængse Psalmebog.</p>
+<p>T.	Tydsk.</p>
+<p>Th.	Hans Thomæsen.</p>
+<p>Tm.	Hr. Pastor Timm.</p>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

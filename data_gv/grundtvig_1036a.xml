@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?DOCTYPE TEI.2 SYSTEM "http://www.pubpub.com/bind/xml/teixlite.dtd"?>
+<TEI.2>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Grundtvig 1036a.</title>
+				<author></author>
+			</titleStmt>
+			<editionStmt>
+				<edition>1</edition>
+			</editionStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<date></date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl></bibl>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+		<div0 type="book">
+		<title></title>
+		<div1 type="booktitle">
+		<title></title>
+		<div2 type="edition">
+		<title></title>
+		<div3 type="chapter" n="1">
+			<title></title>
+			<bibl> </bibl>
+<pb n="1" />
+<p>
+Efter Ovfording af en Deel Væl<lb />
+gere i Sørø Amts 4de Valgkreds ag<lb />
+ter jeg at stille mig i Skjelstør de<lb />
+26de Februar, øg benytter jeg denn<lb />
+Leilighed til forelebig at anbefale mi<lb />
+til alle Vedkommend<lb />
+Kjøbenhavn den 19de Februar 1853<lb />
+</p>
+<signature>
+N. F. S. Grundtvig<lb />
+</signature>
+<pb n="2" />
+</div3>
+</div2>
+</div1>
+</div0>
+</body></text>
+</TEI.2>

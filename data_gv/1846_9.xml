@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Anden April 1846</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-14"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="009"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1846">1846</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1846_9_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Anden April<lb/>1846</titlePart>
+	<titlePart type="sub">(Sang til Danske Samfund).</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace>Kjøbenhavn.</pubPlace>Trykt hos J. D. Qvist.<lb/>
+<fw type="graphic"/>
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<pb facs="1846_9_page0002.png"/>
+<fw type="pageNum"></fw>
+<head>Mel. Vi Sømænd giør ei mange Ord.</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">V</hi>i har et gammelt <hi rend="bold">Fædreland</hi>,</l>
+<l>Gi uberømt paa Jorden;</l>
+<l>Dets Rygte svang sig over Strand</l>
+<l>Med Kæmperøst fra Norden;</l>
+<l>Thi hvor man skued Gother staae.</l>
+<l>Med <hi rend="bold">Angler</hi> og <hi rend="bold">Normanner</hi>,</l>
+<l>Man klarlig Nordens Lever saae</l>
+<l>I Skjold og under Banner!</l>
+</lg>
+<lg>
+<l>Vi har et gammelt <hi rend="bold">Modersmaal</hi>,</l>
+<l>Af Hjertensgrund oprundet,</l>
+<l>Det klang i Sky ved <hi rend="bold">Balders</hi> Baal</l>
+<l>Med Sangen rosenmundet;</l>
+<l>Det Vennebud fra <hi rend="bold">Nolv</hi> og <hi rend="bold">Skjold</hi></l>
+<l>Og <hi rend="bold">Fredegod</hi> os bringer,</l>
+<l>Det bærer Guld fra Old til Old</l>
+<l>Paa Aandedrættets Vinger!</l>
+</lg> 
+<pb facs="1846_9_page0003.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Vi har en gammel <hi rend="bold">Kogevei</hi>,</l>
+<l>Tom gaaer til Verdens Ende,</l>
+<l>Og Færdsel paa den fattes ei,</l>
+<l>Mens vi har Ungersvende;</l>
+<l>De ride tor paa den og gaae</l>
+<l>Lukt over Havfru-Sale,</l>
+<l>Og synge modig: Bølgen blaa</l>
+<l>Har ogsaa Bjerg og Dale!</l>
+</lg>
+<lg>
+<l>Vi har en gammel <hi rend="bold">Stjerne</hi> mild</l>
+<l>Paa Nordens Himmelbue,</l>
+<l>Og hvergang <hi rend="bold">Hekla</hi> spruder Ild,</l>
+<l>Den vorder klar tilskue;</l>
+<l>Den varsler Vod for Banesaar</l>
+<l>I Hytten og paa Borgen,</l>
+<l>Den lover os et Gyldenaar,</l>
+<l>Med Glæden efter Sorgen!</l>
+</lg>
+<lg>
+<l>Ildsprudende oprandt saa brat</l>
+<l>For os <hi rend="bold">Skjærtorsdags-Slaget</hi>,</l>
+<l>Derefter, i den tause Nat,</l>
+<l>Vor Stjerne blev opdaget;</l>
+<l>Den tindrer nu saa mild og klar,</l>
+<l>Som fordum <hi rend="bold">Balders</hi> Øie,</l>
+<l>Og Lykken er til Løbet snar,</l>
+<l>Som Lyset fra det Høie!</l>
+</lg> 
+<pb facs="1846_9_page0004.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Vi har en gammel <hi rend="bold">Kiærlighed</hi>,</l>
+<l>Som ruster ingenlunde,</l>
+<l>Til Fædres Land, til Lys og Fred,</l>
+<l>Til Belter og til Sunde;</l>
+<l>Den blusse op, den bryde ud,</l>
+<l>I Daad, i Sang og Tale!</l>
+<l>Da, som en Beller til sin Brud,</l>
+<l>Til os skal Lykken dale!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

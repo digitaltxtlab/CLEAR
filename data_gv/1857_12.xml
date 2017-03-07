@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Alderdommen.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-25"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="012"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1857">1857</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1857_12_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main"><lb/>Alderdommen.</titlePart>
+	<titlePart type="sub"><lb/></titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<fw type="graphic"/>
+				<epigraph>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace></pubPlace>.
+<fw type="graphic"/>
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Alderdommen.</head>
+<fw type="graphic"/>
+<p><hi rend="align(center)">Ml.: Op dog Zion! seer Du ei.</hi></p>
+<lg>
+<l><hi rend="initial">A</hi>lderdom paa denne Jord</l>
+<l>Er det gamle Sorgens Ord,</l>
+<l>Thi med den i allen Stad</l>
+<l>Frygt og Svaghed følges ad.</l>
+</lg>
+<lg>
+<l>Gud, vor Fader god og from,</l>
+<l>Aldrig dog i Alderdom</l>
+<l>Vil staae Haanden af de Smaa,</l>
+<l>Som har Ham at stole paa.</l>
+</lg>
+<lg>
+<l>Deres Frygt og deres Skræk</l>
+<l>Han som Røgen puster væk,</l>
+<l>Og i deres Afmagt Gud</l>
+<l>Just sin Almagt folder ud.</l>
+</lg>
+<lg>
+<l>Vore Aar i Stokketal</l>
+<l>Raaber Holt, at døe vi skal,</l>
+<l>Men Guds Aand ved Herrens Bord</l>
+<l>Trøster os med Livets Ord.</l>
+</lg> 
+<pb facs="1857_12_page0002.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Aanden siger: han opstod,</l>
+<l>Som dig kjøbde med sit Blod,</l>
+<l>Herren selv, han siger: hør!</l>
+<l>Lev med mig, som aldrig doer!</l>
+</lg>
+<lg>
+<l>Er vi gamle da og graa,</l>
+<l>Dobbelt visse vi er paa,</l>
+<l>Snart os Gud i Jesu Navn</l>
+<l>Samler til sin Fader-Favn!</l>
+</lg>
+<lg>
+<l>Døden vel fra Vuggen af</l>
+<l>Støvet følger til sin Grav,</l>
+<l>Men Guds Aand fra Graven ud</l>
+<l>Støvet forer hjem til Gud!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

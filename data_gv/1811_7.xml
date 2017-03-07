@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Davids Klagesang.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-19"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="007"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1811">1811</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1811_7_page0001.png"/>
+			<fw type="pageNum">487</fw>
+				<docTitle>
+	<titlePart type="main">Davids Klagesang.</titlePart>
+	<titlePart type="sub">(2 Sam. 1.)</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<lg>
+<l>Israel! paa dine Høie</l>
+<l>Ligger dit Smykke besudlet;</l>
+<l>Hvordan er Kiæmperne faldne?</l>
+<l>Lad det ei siger i Gath,</l>
+<l>Mældes paa Askalons Gader,</l>
+<l>At ei Philisterres Døttre</l>
+<l>Sagnet skal vorde til Fryd,</l>
+<l>Paa det, at ei Uomskaarnes</l>
+<l>Qvinder skul glade høvere.</l>
+<l>Eder, I Gilbogs Bierge</l>
+<l>Væde ei Regn, eller Dug!</l>
+<l>Offer ei voxe paa Agren,</l>
+<l>Hvor monne ligge benslængt</l>
+<l>Kiæmpernes Skiold!</l>
+<l>Der ligger rustende Sauls;</l>
+<l>Olien salver den ei.</l>
+<l>Ei af de Saaredes Blod og</l>
+<l>Kiæmpernes Fedme umærket</l>
+<l>Vendte sig Jonathans Bue;</l>
+<l>Ei kom uplettet tilbage</l>
+<l>Sauls det udskikkede Sværd.</l>
+<l>Liflige kiærlige vare</l>
+<l>Saul og hans Jonathan her,</l>
+<l>Sammen de ginge i Livet,</l>
+<l>Døden ei skilte dem ad.</l>
+</lg> 
+<pb facs="1811_7_page0002.png"/>
+<fw type="pageNum">488</fw>
+<lg>
+<l>Lette de vare, som Ørne</l>
+<l>Løverne lige i Kraft.</l>
+<l>Græder, I Israels Døttre!</l>
+<l>Græder for Saul!</l>
+<l>Ham der saa lystelig Svøbte</l>
+<l>Eder i Skarlagenstind;</l>
+<l>Ham, der paa Klædningen lod</l>
+<l>Guldet til Smykke sig strøe.</l>
+<l>Hvorledes fulde de Kiæmper</l>
+<l>Midt udi Striden?</l>
+<l>Israel! det var paa dine</l>
+<l>Høie, at Jonathan faldt.</l>
+<l>Hierteklemt er jeg for dig,</l>
+<l>Jonathan, Broder!</l>
+<l>Liflig du var mig saa saare,</l>
+<l>Og mig din Kiærlighed var</l>
+<l>Mere vidunderlig selv end</l>
+<l>Qvindernes Elskov.</l>
+<l>Hvordan kunde de falde</l>
+<l>Saadanne Helte!</l>
+<l>Hvordan kunde fordærves</l>
+<l>Saadanne Vaaben!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+<p>Ved K. L. Rahbek.
+Trykt hos og forlagt af Andreas Seidelin.</p>
+</div>
+</body>
+</text>
+</TEI>

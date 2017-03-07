@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tre gamle, hidtil utrykte Digte</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2009-10-07"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="002"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1808">1808</date>
+			</publicationStmt>
+			 <sourceDesc>
+			  <p>[Source decription]</p>
+			 </sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1808_2_page0001.png"/>
+			<fw type="pageNum">40</fw>
+				<docTitle>
+	<titlePart type="main">Tre gamle, hidtil utrykte Digte</titlePart>
+</docTitle>
+<byline>
+<docAuthor> af N. F. S, Grundtvig 1).</docAuthor>
+</byline>
+				<fw type="graphic"/>
+</titlePage>
+</front>
+<body>
+<div>
+<pb facs="1818_2_page0001.png"/>
+<fw type="pageNum">40</fw>
+<head>1.   Til Chr. Molbech.</head>
+<p>(Med "Maskeradeballet"  1808.)</p>
+				<fw type="graphic"/>
+<lg>
+<l>Med bange Anelser jeg stirred</l>
+<l>Paa Fremtids dunkle Runestav;</l>
+<l>Da Dværge Runerne forvirred,</l>
+<l>Og Øiet sank i Danmarks Grav,</l>
+<l><hi rend="italic">Og</hi> Øret hørte sælsomt lyde</l>
+<l>Det høie Sørgekvad i Nord.</l>
+<l><hi rend="italic">Det</hi> var det, som jeg vilde tyde,</l>
+<l>Og vække - om jeg kunde - Nord.</l>
+</lg>
+<fw type="graphic"/>
+<p>1) Disse tre Smaadigte meddeles her som literærhistoriske Bidrag Det <hi rend="italic">Første</hi> udtaler kort og rent personlig det Syn og den Stemning, hvormed Forf. aabnede sin Digterbane med "Maskeradeballet i Danmark" 1808. <hi rend="italic">Det Andet</hi> viser Forf.s Blik paa sin Stilling til Samtiden otte Aar senere. <hi rend="italic">Det Tredie</hi> faaer særegen Interesse ved det deri rettede Opraab til <hi rend="italic">Ingemann</hi>, ,;som de sorte Ridderes Skjald", til fra det eventyrlige Epos at gaae over til det fædre -landshistoriske. Opfordringen traf Ingemann i hans dramatiske Periode, der varede til 1822; men efter dens Udløb fulgte han Vinket og begyndte med sin "Valdemar den Store' 1824 den digteriske Virksomhed, som, fortsat ved hans historiske Romaner og afsluttet med "Dronning Margrete" 1836, gav ham den bedste Adkomst til sin Samtids og Eftertids Taknemmelighed.</p>
+<p><hi rend="align(right)">Sv. G</hi>.</p>
+<pb facs="1808_2_page0002.png"/>
+<fw type="pageNum">41</fw>
+<lg>
+<l>For Synet skjalv jeg selv og bad</l>
+<l>Alfader, at det Sørgekvad</l>
+<l>Ei sjunges maa i lange Tider.</l>
+<l>Men - Kraften sover, yppig groe</l>
+<l>De Edder-Urter, - tør jeg troe,</l>
+<l>At ei det hen mod Enden lider?</l>
+</lg>
+<lg>
+<l>O, troer <hi rend="italic">du</hi>, Kraften vaagne kan</l>
+<l>Og stolt fornye de svundne Dage,</l>
+<l>At Solen har for Danmarks Land</l>
+<l>En varig Straale end tilbage, -</l>
+<l><hi rend="italic">Da</hi> deel med mig din søde Tro!</l>
+<l>Og Trøst og Haab og salig Ro</l>
+<l>Skal Frygten af min Barm udjage.</l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

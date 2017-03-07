@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Sang paa Kongens Fødselsdag</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-25"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="012"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1841">1841</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1841_12_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Sang<lb/>paa<lb/>Kongens Fødselsdag</titlePart>
+	<titlePart type="sub">18. September 1841,<lb/>i<lb/>Danske Samfund.</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace>Kjøbenhavn.</pubPlace>Trykt hos J. D. Qvist, Bog- og Nodetrykker.<lb/>
+<fw type="graphic"/>
+<docDate>1841</docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<pb facs="1841_12_page0002.png"/>
+<fw type="pageNum"></fw>
+<head><hi rend="initial">D</hi>ag i Høst med Kongenavn,</head>
+<fw type="graphic"/>
+<lg>
+<l>Kiært i Danevangen!</l>
+<l>Dig i Daners Fødestavn</l>
+<l>Hilser Folkesangen!</l>
+<l>Dannebrog i Bølgedands</l>
+<l>Morgengryet melder,</l>
+<l>Dig en gylden Axekrands</l>
+<l>Bindes til det kvælder!</l>
+</lg>
+<lg>
+<l>Vinterdag med Riim i Haar,</l>
+<l>Speil i Bælt og Sunde,</l>
+<l>Kongelig i mange Aar,</l>
+<l>Glemmes ingenlunde;</l>
+<l>Under Iis var Bølgen blaa,</l>
+<l>Havfrusang dernede,</l>
+<l>Under Sneen, hvid og graa,</l>
+<l>Grøn var Rug og Hvede!</l>
+</lg> 
+<pb facs="1841_12_page0003.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Under Vinters Hjerte laae</l>
+<l>Tvilling-Vaar og Sommer,</l>
+<l>Derfor under Himmel blaa</l>
+<l>Tidlig Høsten kommer;</l>
+<l>Sildig end med Folkerøst</l>
+<l>Prises skal i Sangen</l>
+<l><hi rend="bold">Fredriks</hi> Sæd og <hi rend="bold">Christians</hi> Høst</l>
+<l>Trindt i Danevangen!</l>
+</lg>
+<lg>
+<l>Konge-Dag i Høstens Tid,</l>
+<l>Hjertelig velkommen!</l>
+<l>Raad nu under Himmel blid</l>
+<l>Vod paa Fattigdommen!</l>
+<l>Bring os meer end Selv og Guld!</l>
+<l>Bring os Hjertens-Glæde!</l>
+<l>Hos os straale over Muld</l>
+<l>Freyas gyldne Kiæde!</l>
+</lg>
+<lg>
+<l>Soel! stat stille over Dan,</l>
+<l>Maane! over Møen,</l>
+<l>Over Host i Daneland</l>
+<l>Og paa Østersøen!</l>
+<l>Og naar længer Natten ei</l>
+<l>Lader sig forhindre,</l>
+<l>Stjernehær paa Melkevei</l>
+<l>Over Marken tindre!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Fædrelandet.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-23"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="005"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1853">1853</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1853_5_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Fædrelandet.<lb/></titlePart>
+	<titlePart type="sub">1853<lb/></titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition>14de Aarg.  Mandagen den 21. Februar.  Nr. 43.</docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace></pubPlace>.<lb/>Abonnementspris i Kjøbenhavn 15 Mk. pr. Qvartal, 5 Mk. pr. Maaned; enkelte Nr. 6 Sk.; udenfor Kjøbenhavn 3 Rbd. pr. Qvartal frit i Huset. Hver Søgne-Aften udgaaer et Numer Bladets Comptoir, store Kjøbmagergade Nr. 54, er aabent om Formiddagen Kl. 11-1.<lb/>
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+</div>
+<div>
+<head>Den apokryphiiske Beretning om de syenske Bønder til Hove.</head>
+<fw type="graphic"/>
+<p><hi rend="initial">D</hi>enne løierlige Beretning i <hi rend="spaced">Berlings-Avisen</hi> fra i Løverdags om to fyenske Bønder, som efter deres eget Sigende skal bave stillet det fristende Spørgsmaal til Majestæten: hvilket Parti paa Rigsdagen, enten det 50 eller 45 Mand stærke, Kongen selv boldt med og ønskede forstærket ved de forestaaende Valg, og som paa dette Spørgsmaal skal have faaet et Svar, hvoraf saavel Ministrene som "Bondevennerne" kan være stolte, og hvorved de nok tør haabe, at alle troe Undersaatter skal nødes til at stemme med dem, uden Spørgsmaal om, hvordan det gaaer med <hi rend="spaced">Danmarks Rige</hi> og det <hi rend="spaced">Danske Folk</hi>; denne løjerlige Beretning kalder jeg apokryphisk, fordi del ja ikke kan nytte at trættes om, hvad ingen af os veed Rede til, men er indlysende, at der maa være noget meget Galt i denne aldeles uhjemlede og Upaalidelige Beretning, som vi derfor Allesammen vil giøre rettest i at lade staae ved sit Værd, ved Siden ad Hr. B. <hi rend="spaced">Christensens</hi> rørende og nærgaaende Beretning om, hvordan Tanker og Ord skal falde til Hove.</p>
+<p>Skulde vi imidlertid nødes til at ændse denne apokryphiske Beretning, hvad let kan skee derved, at man maaskee paa Valgdagen rykker frem med den som en <hi rend="spaced">Troes-Artikel</hi>, vi skal bekiende, om vi ikke vil fordømmes, da satte man os vistnok derved i en Slags Forlegenhed, fordi vi kun saare nødig, selv i Forbigaaende, berøre en uansvarlig Konges personlige Ønsker og Anskuelser, der ere Hans ukrænkelige Eiendom; men forlegne for Svar kunde vi dog være, da det jo strax falder i Øinene, at, om hin Beretning var lige saa paalidelig, som den er apokryphisk, da hverken maatte eller kunde den bevæge alvorlige og besindige danske Mænd ti) at vælge andre Rigsdagsmænd, end hvem de troede bedst baade kunde og vilde ramme <hi rend="spaced">Danmarks Riges</hi> og det danske Folks Bedste, saa at, hvis den apokryphiske Beretning, taget som en Troes Artikel, skulde have nogen Indflydelse paa danske Vælgere, da maatte det netop blive den modsatte. Troede vi nemlig, al ikke blot den Vei, vort nærværende Ministerium har slaaet ind, er høist farlig for Danmarks Riges Bestandighed og det danske Folks Velfærd, men at dette Ministerium stod selv Majestæten i Lyset, saa den Konge, der med Rette bar været stolt af at finde sin Styrke i sit danske Folks Kjærlighed, aldeles saae feil i Henseende til Folkets og Rigets sande Tarv, da maatte vi jo være dobbelt omhyggelige for at vælge danske Rigsdagsmænd, der kunde og vilde gjøre den sande Sammenhæng soleklar, først og sidst for Majestæten, hvis sjeldne kongelige Lykke, Hæder og Berømmelse alle trofaste Dannemænd, naar det behøvedes, maaatte kæmpe for med samme Kjærlighed og samme Kjækhed, som for Folket og Fædrelandet.</p>
+<p>Altsaa, del er soleklart, at trænger Danmarks Rige under alle Omstændigheder høilig til fædrenelandskjærlige, veloplyste og frimodige Rigsdagsmænd, da vilde Trangen gaae til det Yderste, hvis vi maatte troe, hvad vi dog, Gud skee Lov! ikke maae troe, at vor folkelige Dankonge selv personlig var saa omtaaget af udanske Anskuelser, som den apokryphiske Beretning, Berlings-Avisen og ventelig en bel Del Andre vilde have os til at troe og daane ved. Gud bevare gamle Danmark, og lade Kong <hi rend="spaced">Frederik</hi> den Syvende fremdeles have stor Glæde, Ære og Berømmelse deraf!</p>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

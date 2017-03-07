@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Psalmer til den stille Uge og Paasken</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-25"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="008"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1846">1846</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1846_8_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Psalmer</titlePart>
+	<titlePart type="sub">til<lb/>den stille Uge og Paasken</titlePart>
+</docTitle>
+<byline>samlede af<lb/>
+	<docAuthor>I. F. og R. Th. Fenger.</docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition>Tredie Udgave.</docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace>Kjøbenhavn.</pubPlace>C. A. Reizels Bo og Arvinger.<lb/>Blanco Lunos Bogtrykkeri.
+<fw type="graphic"/>
+<docDate>1854</docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<pb facs="1846_8_page0002.png"/>
+<fw type="pageNum">93</fw>
+<head>Hele Paasketiden.</head>
+<head>No. 46.</head>
+<lg>
+<l><hi rend="initial">C</hi>hrist stod op af Dyde</l>
+<l>I Paaske-Morgenrøde!</l>
+<l>Thi synger lydt og sjæleglad</l>
+<l>Hans Menighed i allen Stad:</l>
+<l>Ære vare Gud i det Høie!</l>
+</lg>
+<lg>
+<l>Christ stod op af Døde!</l>
+<l>Afsonet er vor Brøde!</l>
+<l>Thi synger lydt og sjæleglad</l>
+<l>Hans Mellighed i allen Stad:</l>
+<l>Ære vare Gud i det Høie!</l>
+</lg>
+<lg>
+<l>Christ stod op af Døde!</l>
+<l>I Himlen vi ham møde!</l>
+<l>Thi synger lydt og sjæleglad</l>
+<l>Hans Menighed i allen Stad:</l>
+<l>Ære være Gud i det Høie!</l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

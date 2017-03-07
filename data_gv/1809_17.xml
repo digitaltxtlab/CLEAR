@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Adam Oehlenschlægers</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2009-10-21"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="017"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1809">1809</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1809_17_page0001.png"/>
+			<fw type="pageNum">191-192</fw>
+				<docTitle>
+	<titlePart type="main">Paa<lb/>
+Adam Oehlenschlægers</titlePart>
+	<titlePart type="sub">Fødselsdag<lb/>
+den  l4de November 1809.
+</titlePart>
+</docTitle>
+<byline></byline>
+				<fw type="graphic"/>
+				<epigraph>
+				</epigraph>
+								<docEdition></docEdition>
+				<docImprint>
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<pb facs="1809_17_page0001.png"/>
+<fw type="pageNum">191-192</fw>
+<lg>
+<l><hi rend="initial">Hisset</hi>, hvor Druerne gro</l>
+<l>Og  modnes i varige Sommer,,</l>
+<l>Hist, hvor sig speile saa fro</l>
+<l>I Floden de dejlige Blommer;</l>
+<l>Der over Høie og Enge</l>
+<l>Sittarens klingende Strænge,</l>
+<l>Toned om Elskov og Lyst.</l>
+</lg>
+<lg>
+<l>Hvor Granen saa sørgelig grøn</l>
+<l>Sig løfter i Vinter og Sommer,</l>
+<l>Hvor sig for Elvenes Drøn</l>
+<l>Skjule de frygtsomme Blommer,</l>
+<l>Lød mellem svarende Fjelde</l>
+<l>Harpen om Kraft og om Vælde,</l>
+<l>Sjelden om Kærligheds Lyst.</l>
+</lg>
+<lg>
+<l>Midt mellem Syden og Nord</l>
+<l><hi rend="spaced">Hersker </hi>ei Vinter, ei Sommer,</l>
+<l>Nærende Urter paa Jord</l>
+<l>Trænge de yndige Blommer.</l>
+<l>Her blev til Høi, hvad i Norden var Fjeld</l>
+<l>Sø blev af Sydens det rislende Væld.</l>
+<l>Vaklende saa mellem Norden og Syd</l>
+<l>Sjelden i Ekko hensvæved en Lyd</l>
+<l>Mat over tause, ombølgede Slette.</l>
+</lg>
+<lg>
+<l>Tiderne runde, og Tonen i Syd</l>
+<l>Slumred som Braget i Norden,</l>
+<l>Atter opvaagnede Braget mod Syd</l>
+<l>Stævned, og Tonen mod Norden,</l>
+<l>Folkene lytted og hørte med Fryd</l>
+<l>Sittar og Harpe i nordlige Syd</l>
+<l>Smeltende, rungende, lyde.</l>
+</lg>
+<lg>
+<l>Midt mellem Syden og Nord</l>
+<l>Breder sig Dannemarks Slette,</l>
+<l>Stundum de Blommer paa Jord</l>
+<l>Saaes i Krands sig at slette,</l>
+<l>Stundum og hørtes fra Norden</l>
+<l>Lyd, som af fjernere Torden.</l>
+</lg>
+<lg>
+<l>Tiden er kommen. O ser</l>
+<l>Og lytter, I Dannemarks Skarer i</l>
+<l>Sletterne tie ei mer,</l>
+<l>Guddommen sig aabenbarer.</l>
+<l>Hører, hvor Bjergelven lyderl</l>
+<l>Ser, hvor den skummende flyder</l>
+<l>Midt gennem blommede Engl</l>
+</lg>
+<lg>
+<l>Dannemark! Fædreland! knæl</l>
+<l>Rørt paa de fædrene Høie!</l>
+<l>Guderne løste din Sjæl,</l>
+<l>Tak dem med taarefuldt Øie!</l>
+<l>Nu tør du blande dig, sydlige Nord!</l>
+<l>Stolt mellem Landenes syngende Kor.</l>
+</lg>
+<lg>
+<l>Dannemark! Fædreland</l>
+<l>Iklæd dig dit herligste Smykkel</l>
+<l>Tak til den bølgende Strand</l>
+<l>Paa Dagen som fødte din Lykke!</l>
+<l>Send over Havet din Elskedes Navn,</l>
+<l>Kald ham tilbage i moderlig Favn!</l>
+</lg>
+<p><hi rend="align(right)">Grundtvig.</hi></p>
+<p>Af dette Blad udkomme ugentlig to Numere; det tilbringes Subskribenterne og betales qvartaliter med 6 Mark. Subskriptionen modtages hos Bogtrykker Høeckes Enke, boende i store Helliggeiststrædet No. 144,</p>
+</div>
+</body>
+</text>
+</TEI>

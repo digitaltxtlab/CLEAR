@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>En ganske ny Vise</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-21"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="016"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1839">1839</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1839_16_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">En ganske ny Vise</titlePart>
+	<titlePart type="sub">om<lb/>den mandhaftige Jydske Ridder,<lb/>Herr Niels Ebbesen</titlePart>
+</docTitle>
+<byline>til<lb/>
+	<docAuthor>Nørreriis</docAuthor>
+				</byline>
+				<epigraph>
+<p>som Aar 1340 slog i Randers den kullede Grev Geert fra Rendsborg, for at udfrie Dannemark af Tyd-skernes Vold, som dengang reves om Riget.</p>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace>Kjøbenhavn.</pubPlace>Udgivet af det Danske Samfund.<lb/>Trykt hos J. D. Qvist.
+<fw type="graphic"/>
+<docDate>1839</docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<pb facs="1839_16_page0002.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l><hi rend="initial">O</hi>m Dannemarks Kvide der lød en Sang,</l>
+<l><hi rend="align(center)">Saa sørgelig:</hi></l>
+<l>Der var ingen Konning i Dannevang,</l>
+<l><hi rend="align(center)">Men Borger-Krig;</hi></l>
+<l>Dansken var fredløs i Skov og paa Hede,</l>
+<l>Herrer vi havde af Himmelens Vrede,</l>
+<l>For Tydskerne reves om Danmark!</l>
+</lg>
+<lg>
+<l>Det voldte en Konning saa svigefuld,</l>
+<l><hi rend="align(center)">Som Skum paa Vand,</hi></l>
+<l>Det voldte to Grever af Jettekuld,</l>
+<l><hi rend="align(center)">I Holsterland;</hi></l>
+<l>Mange om Skylden og Flere om Skaden,</l>
+<l>Fienden paa Borgen og Falskhed paa Gaden,</l>
+<l>Da Tydskerne reves om Danmark.</l>
+</lg>
+<lg>
+<l>Grev Geert var en Kæmpe, en Hals fuldhaard,</l>
+<l><hi rend="align(center)">Som Staal og Jern,</hi></l>
+<l>Og Krigsmænd der strømmede til hans Gaard,</l>
+<l><hi rend="align(center)">Fra nær og fjern;</hi></l>
+<l>Alting han voved for lidet at vinde,</l>
+<l>Spared som Nelden ei Ven eller Fiende,</l>
+<l>Og Tydskerne reves om Danmark.</l>
+</lg> 
+<pb facs="1839_16_page0003.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Grev Hans var en Kræmmer, holdt Huus i Riel,</l>
+<l><hi rend="align(center)">Med Høg og Hund;</hi></l>
+<l>Han kaldtes den Milde, for evigt Smil</l>
+<l><hi rend="align(center)">Var om hans Mund;</hi></l>
+<l>Ræven i Skove og Ulven paa Hede,</l>
+<l>Herrer vi havde af Himmelens Vrede,</l>
+<l>Da Tydskerne reves om Danmark.</l>
+</lg>
+<lg>
+<l>Niels Ebbesen var sig en Riddersmand,</l>
+<l><hi rend="align(center)">Paa Nørreriis,</hi></l>
+<l>Og aldrig forstummer i Hedeland</l>
+<l><hi rend="align(center)">Den Herres Priis;</hi></l>
+<l>Han tog af Dage den tullede Greve,</l>
+<l>Fri vilde han enten døe eller leve,</l>
+<l>Da Tydskerne reves om Danmark.</l>
+</lg>
+<lg>
+<l>Den kullede Greve drog op i Nør,</l>
+<l><hi rend="align(center)">I Herrefærd,</hi></l>
+<l>Han rykkede frem, som han pleied før,</l>
+<l><hi rend="align(center)">Med Ild og Sværd;</hi></l>
+<l>Jyderne alle, fra Randers til Ribe,</l>
+<l>Dandse han bød efter Holsternes pibe,</l>
+<l>For Tydskerne reves om Danmark.</l>
+</lg>
+<lg>
+<l>Niels Ebbesen! sagde Grev Geert paa Jydsk:</l>
+<l><hi rend="align(center)">Din Frist er kort,</hi></l>
+<l>Vil ikke i Galgen du lære Tydsk,</l>
+<l><hi rend="align(center)">Saa pak dig bort!</hi></l>
+<l>Skam stal du faae med Herr Bugge paa Halden,</l>
+<l>Hvormange Heste I saa har paa Stalden,</l>
+<l>For nu raader Tydsken i Danmark!</l>
+</lg>
+<lg>
+<l>Niels Ebbesen svared et Ord i Hast:</l>
+<l><hi rend="align(center)">Hæng Tyv og Skjelm!</hi></l>
+<l>Men Hæng ingen Ridder, før Sværdet brast,</l>
+<l><hi rend="align(center)">Med Skjold og Hjelm!</hi></l>
+<l>Vogt dig for hvem du til Fredløshed dømmer!</l>
+<l>Langt ei fra Børn og fra Hustru jeg rømmer,</l>
+<l>Mens Tydskerne rives om Danmark!</l>
+</lg> 
+<pb facs="1839_16_page0004.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Med Tydskere vrede i Tusindtal,</l>
+<l><hi rend="align(center)">I Kammen kry,</hi></l>
+<l>Den kullede Greve drog ind med Bral</l>
+<l><hi rend="align(center)">I Randers By;</hi></l>
+<l>Ilde han tured og værre det tegned,</l>
+<l>Kvinderne bæved og Børnene blegned,</l>
+<l>For Tydskerne reves om Danmark.</l>
+</lg>
+<lg>
+<l>Niels Ebbesen foer da i Harnisk brat,</l>
+<l><hi rend="align(center)">For Landefred,</hi></l>
+<l>Han giæstede Greven en Foraarsnat,</l>
+<l><hi rend="align(center)">Og Sværdet beed;</hi></l>
+<l>Fri vilde han enten døe eller leve,</l>
+<l>Livet han tog af den kullede Greve,</l>
+<l>Da Tydskerne reves om <hi rend="spaced">Danmark</hi>!</l>
+</lg>
+<lg>
+<l>Sig hævned de Holster ved Skanderborg,</l>
+<l><hi rend="align(center)">Der faldt vor Helt,</hi></l>
+<l>Og sunget der blev om Jyllands Sorg</l>
+<l><hi rend="align(center)">Ved Sund og Bælt;</hi></l>
+<l>Aldrig hans Minde dog lægges i Mulde,</l>
+<l>Han stod i Spidsen for Jyderne hulde,</l>
+<l>Da Tydskerne reves om <hi rend="spaced">Danmark</hi>!</l>
+</lg>
+<lg>
+<l>Forgangne er siden femhundred Aar,</l>
+<l><hi rend="align(center)">I Lyst og Nod,</hi></l>
+<l>End Dannebrog vaier og Danmark staaer</l>
+<l><hi rend="align(center)">I Aften rod;</hi></l>
+<l>Kappes nu, alle Smaafugle i Lunden!</l>
+<l>Nu er til Sang om Niels Ebbesen Stunden.</l>
+<l>Lad Tydskerne græde for <hi rend="spaced">Danmark</hi>!</l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

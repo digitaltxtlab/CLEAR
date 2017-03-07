@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Indbydelse til Vennemødet</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-26"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="012"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1866">1866</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1866_12_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main"></titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<docImprint>
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<p><hi rend="initial">D</hi>e kirkelige Vennemøder, tør vi nok sige, har nu viist sig som et godt og glædeligt Middel til at styrke Samfundsbaandet mellem os og til at udbrede levende Oplysning ikke blot om Menighedens eget Liv, men ogsaa om dens Forhold til Folket, Folkekirken og Folkeskolen. Efter hvad der tillige er gaaet for sig iblandt os siden ifjor, har vi desmere tænkt, at der er Trang og Lyst til at mødes igjen i Aar. Vi indbyde derfor kirkelige Venner til at samles i Kjøbenhavn Mandagen den 10de og Tirsdagen den 11te September. Nærmere Besked om Sted og Tid for Mødet vil Deeltagerne faae, naar de løse Adgangskort hos Pastor <hi rend="spaced">Køster</hi> (Løngangsstræde Nr. 37), som tillige ønsker Underretning om hvem der agter at være med til Mødet, helst inden 1ste September.</p>
+<p><hi rend="spaced">Kjøbenhavn</hi>, den 14de August 1866.</p>
+<p>N. F. S. Grundtvig.	P. A. Fenger.	Kristian Høster.</p>
+<p>N. F. Larsen.	P. Mouritsen.	J. Westberg.</p>
+</div>
+</body>
+</text>
+</TEI>

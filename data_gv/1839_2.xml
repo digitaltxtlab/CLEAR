@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Kjøbenhavnsposten.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-22"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="002"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1839">1839</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1839_2_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Kjøbenhavnsposten.</titlePart>
+	<titlePart type="sub">Redigeret af J. F. Giödwad.<lb/>Udgiven og forlagt af A. P. Liunge.</titlePart>
+</docTitle>
+<byline></byline>
+				<fw type="graphic"/>
+				<epigraph>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition>13de Aarg.</docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace></pubPlace>Forsendes, ifølge Kongelig allernaadigst Tilladelse, med Posten saavel i Danmark som i Hertugdømmerne.<lb/>
+<fw type="graphic"/>
+<docDate>Løverdagen d. 19. Januar 1839. No. 19</docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Til</head>
+<head>Hr. Etatsraad Treschow.</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">S</hi>tod for Troens Frihed Du</l>
+<l>Fast i Folkeraadet nu,</l>
+<l>Vanskelig opveiet,</l>
+<l>Kun fordi, som Rygtet gaaer,</l>
+<l>Gjennem mange Herrens Aar</l>
+<l>Venstab vi har pleiet?</l>
+<l>Nei, fordi fra første Færd</l>
+<l>Aandens Frihed Dig var kjær,</l>
+<l>Derfor vi er Venner.</l>
+</lg>
+<lg>
+<l>Ja, fordi Du væed Aand</l>
+<l>Tankefuld i rette Haand,</l>
+<l>Og Du har et Hjerte,</l>
+<l>Derfor, selv naar jeg foer vild,</l>
+<l>Deeltog Du saa vennemild</l>
+<l>I min Fryd og Smerte,</l>
+<l>Var og blev min gode Ven,</l>
+<l>Medens Nyaar kom igjen</l>
+<l>Ni og tyve Gange.</l>
+</lg>
+<lg>
+<l>Havde ei vi begge To</l>
+<l>Givet fri hinandens Tro,</l>
+<l>Fri hverandres Tanke,</l>
+<l>Hvordan skulde vi i Nord</l>
+<l>Skiftet mangt et Venneord</l>
+<l>Gjennem Aar i Banke,</l>
+<l>Trods saamangen Driveskye</l>
+<l>Trods saamegen Forskjel uy,</l>
+<l>Barret end de Gamle!</l>
+</lg>
+<lg>
+<l>Og hvis ei Du for idag</l>
+<l>Havde trolig fulgt den Sag,</l>
+<l>Du fandt værd at føre,</l>
+<l>Hvordan skulde da omsonst</l>
+<l>Fristeren brugt al sin Konst</l>
+<l>Paa et vildøvt Dre,</l>
+<l>For at vise, det rar bedst</l>
+<l>Du gav op den gale Præst,</l>
+<l>Fienden ad Fornuften!</l>
+</lg>
+<lg>
+<l>Benstab er en Hjertesag,</l>
+<l>Tausere hver Nyaarsdag,</l>
+<l>Det paa Jord tilbringer,</l>
+<l>Rosen-Farven, som fra Kind</l>
+<l>Saa og fra vort Venne-Sind,</l>
+<l>Sig med Tiden svinger;</l>
+<l>Men fik ret vi Aanden kjær,</l>
+<l>Vi dog selv i Aftenstjaær</l>
+<l>For dens Frihed glede.</l>
+</lg>
+<lg>
+<l>Ei da Tak i Venskabs Navn</l>
+<l>For Din Kamp til Folkegavn</l>
+<l>Nys ved Issefjorden;</l>
+<l>Men, med Tryk af Vennehaand,</l>
+<l>Tak fra Kæmpe-Friheds Aand,</l>
+<l>Barnefødt i Norden!</l>
+<l>Tak fra Hjertedybets Grund,</l>
+<l>Ømmere ved Øresund</l>
+<l>End paa hele Jorden!</l>
+</lg>
+<lg>
+<l>Lad kun hvem der vil idag</l>
+<l>Glæde tone Seiers-Flag</l>
+<l>For de fleste Stemmer!</l>
+<l>Men endnu om Hundred Aar</l>
+<l>Mindes, som den Dag igaar,</l>
+<l>Hun, der Godt ei glemmer,</l>
+<l>At for Hjete-Ro i Nord</l>
+<l>Kæmped Du ved Issefjord,</l>
+<l>Som kun Faa det vilde.</l>
+</lg>
+<lg>
+<l>Ja, vi kæmped for de Smaa,</l>
+<l>Som sig selv end ei forstaae,</l>
+<l>Hver med fine Vaaben,</l>
+<l>Kæmped, skjøndt ei eens i Tro,</l>
+<l>For de omme Hjerters Ro</l>
+<l>Og for Barne-Daaben,</l>
+<l>Hjertet seirer dog tilsidst,</l>
+<l>Derfor barnlig mindes vist</l>
+<l>Vi i Kæmpevisen.</l>
+</lg>
+<lg>
+<l>Aandens Frihed, Hjertets Fred,</l>
+<l>Sødt det er at mindes ved,</l>
+<l>Helst i Danevange,</l>
+<l>Skjønt det er at tanke vaa,</l>
+<l>Bedst at kæmpe som de Faa,</l>
+<l>Ikke som de Mange,</l>
+<l>Hjerterum, hvor Freden boer,</l>
+<l>Det er Himmerig paa Jord,</l>
+<l>Der har Glæden hjemme!</l>
+</lg>
+<lg>
+<l>Efter Hjertets Nederlag</l>
+<l>Kommer en Opreisning-Dag</l>
+<l>Snart i Danevange,</l>
+<l>Kommer Seiren, hvid og rød</l>
+<l>Som en Dannekvinde fød,</l>
+<l>Rig paa Folkesange;</l>
+<l>Fri i Tanke, Tro og Ord</l>
+<l>Aanden altid var i Nord.</l>
+<l>Hjertets Sag er Himlens!</l>
+</lg>
+<lg>
+<l>Derfor skal i Tonefavn</l>
+<l>Yndig, svinde sig Di: Navn</l>
+<l>Over Issefjorden;</l>
+<l>Med Din Roeskild-Navner Du</l>
+<l>Kommes stal end seent ihu</l>
+<l>Vist i hele Norden,</l>
+<l>Naar det Inder høit i Sky:</l>
+<l>Hjærer fik sin Ret paany,</l>
+<l>Fri er Tro og Tale!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

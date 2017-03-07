@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Til de Sönderjydske Tydske.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-23"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="010"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1841">1841</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1841_10_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Til de Sönderjydske Tydske*).</titlePart>
+</docTitle>
+				<fw type="graphic"/>
+</titlePage>
+</front>
+<body>
+<div>
+<lg>
+<l>Ick hebbe nycht gedruncken van dem <hi rend="italic">Frankeschen </hi>wine</l>
+<l>Ock nicht ran dem, de da wasset uff dem <hi rend="italic">Rine,</hi></l>
+<l>Dat mach ick hochlichen klagen;</l>
+<l>Ick moet mi nu tovreden genen</l>
+<l>Und dichten unde schriuen up dit mal euen,</l>
+<l>Also mi vader unde moder geleret hauen.</l>
+</lg>
+<p><hi rend="align(right)"><hi rend="italic">Dansk Rimkrönike paa Plattydsk.</hi></hi></p>
+<fw type="graphic"/>
+</div>
+<div>
+<lg>
+<l><hi rend="initial">B</hi>ehold kun 1 jert Eget,</l>
+<l>Hver Lap og Traad og Trævl,</l>
+<l>Thi hvad der er <hi rend="italic">formeget,</hi></l>
+<l>Er dog i Grunden Vrævl!</l>
+</lg>
+<p>*) Ved Efterretningen om <hi rend="italic">den </hi>stærke Begejstring i Sonder jylland for den Tydske Nationalsang "Sie sollen ihn nicht haben," og naturligviis kun stilet til de <hi rend="italic">Begeistrede.</hi></p>
+<pb facs="1841_10_page0002.png"/>
+<fw type="pageNum">285</fw>
+<lg>
+<l>Behold kun I Plattydsken,</l>
+<l>Som I er stolte af!</l>
+<l>Beleer kun Sönderjydsken,</l>
+<l>Som jer vor Herre gav!</l>
+</lg>
+<lg>
+<l>Behold kun I den Tanke,</l>
+<l>Den Sag er heglet reen,</l>
+<l>At Tydsker-Tryk i Banke,</l>
+<l>Det er de Vises Steen!</l>
+</lg>
+<lg>
+<l>Behold kun Deel i Skatten,</l>
+<l>Som Demant og Saphir,</l>
+<l>Til I faae hele Klatten:</l>
+<l>Et <hi rend="italic">Bloksbjerg </hi>af Papir!</l>
+</lg>
+<lg>
+<l>Syng I kun ved jer Lire,</l>
+<l>At Dannemænd er Fæ,</l>
+<l>Som kry he maae paa Fire,</l>
+<l>Til de faae Tydske Knæ!</l>
+</lg>
+<lg>
+<l>Behold kun Kielske Griller,</l>
+<l>Og Lybske Tungebaand,</l>
+<l>Og Nyrnberger-Briller</l>
+<l>For Nordens Kæmpeaand!</l>
+</lg>
+<lg>
+<l>Behold kun I R<hi rend="italic">hinströmmen,</hi></l>
+<l>Med al den Poesi,</l>
+<l>Som, efter <hi rend="italic">Eiderdr</hi>ö<hi rend="italic">mmen,</hi></l>
+<l>Kan fiskes op deri!</l>
+</lg>
+<lg>
+<l>Vi törste, som de <hi rend="italic">Franske,</hi></l>
+<l>Ei efter Rhinfads-Vand,</l>
+<l>Vi nöies med det <hi rend="italic">Danske,</hi></l>
+<l>Og med den hele Strand.</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig</hi></p>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

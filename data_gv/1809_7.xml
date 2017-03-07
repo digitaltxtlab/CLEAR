@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title> Om den ny Udgave af Kæmpeviserne.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2009-11-05"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="007"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1809">1809</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1809_7_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Om den ny Udgave af Kæmpeviserne.</titlePart>
+	<titlePart type="sub"></titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<fw type="graphic"/>
+				<epigraph>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace></pubPlace>
+<fw type="graphic"/>
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<pb facs="1809_7_page0001.png"/>
+<fw type="pageNum">792</fw>
+<p><hi rend="initial">K</hi>ampeviserne, dette tildeels herlige Efterskin af Nordens glandsfulde Tid, have undgaaet den aldeles Glemsel, som blev vore aldre Kvads Lod; fordi det er lettere, at klage over det kraftfulde, harmoniske Livs Tab, end at bevæge sig mellem de Starke forn nød det og Synes at Spotte vor Svaghed. Imidlertid var det naturligviis kun Almuen der i senere Tid agtede det Umagen værd, at mindes disse gamle enfoldige Viser, ja selv Almuen er nu paa mange Steder blevet for oplyst dertil og jeg haaber, at den ny Salmebogs moralske Poesi snart vil aldeles udfeie den gamle poetiske Surdej. Paa en Saadan Tid kan det maaske vare passeligt at byde de finere Folk Viserne, der nu ei tangere ere saa gemene, til en Forandring, i en udgave, der ei lugter af Borgestuen, eller saarer deres pudsede Die. Ingen mistyde Dette, som om jeg ei vidste at skatte de hæderlige Mands Villie, som have forkyndt en ny Udgave af Kampeviserne, jeg vilde blot sige, at jeg næsten ikke veed for hvem den skal vare, derfom den blot skal vare en ny <hi rend="spaced">Udgave</hi>; thi den gamle er jo ikke udsolgt og hvem der ei vil læse dem der, bør ikke læse dem. En anden Sag er det, dersom Udgiverne have i Sinde, hvad der et Sted i Professor Nyrups Fortale til Axel Thordsens Vise Synes henpeget til, at give er <hi rend="spaced">Udvalg </hi>af Middelalderens Sange; thi vist er det, at Viferne uden Sands er mere sammenslængte end samlede. Ville altsaa Udgiverne, styrede af digterisk Sands, vælge de favreste af Sangene hos <hi rend="spaced">Vedel, Syv, Sandvig og Nyrup</hi> samt af de hidtil utrykte, da skylde vi dem Tak, naar de kun ei ville <hi rend="spaced">rette</hi> og ei <hi rend="spaced">vrage </hi>noget Ord eller Vers; men derimod forsyne Viserne med historiske Oplysninger og forskallige Læsemaader hvor Saadanne haves.- Med Hensyn herpaa var det meget at ønske at Udgiverne ville nøiere kundgøre, hvad deres Hensigt er!</p>
+<p><hi rend="align(right)">Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

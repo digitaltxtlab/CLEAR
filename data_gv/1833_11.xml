@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Morgensange</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2009-12-22"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="011"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1833">1833</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1833_11_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Morgensange</titlePart>
+	<titlePart type="sub"></titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<docImprint>
+				<pubPlace></pubPlace>.
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<pb facs="1833_11_page0002.png"/>
+<fw type="pageNum"></fw>
+<fw type="graphic"/>
+<p><hi rend="align(center)">Mel. <hi rend="italic">Nu vel an, vær frisk tilmode,</hi></hi></p>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="italic"><hi rend="initial">L</hi>öoft dig, Sjæl, paa Lysets Vinger,</hi></l>
+<l><hi rend="italic">Fro ved Dagen, født paa ny,</hi></l>
+<l><hi rend="italic">Som sig Morgen-Lærken svinger</hi></l>
+<l><hi rend="italic">Glad med Sang i höien Sky!</hi></l>
+<l><hi rend="italic">Lov den Gud med Liv og Aand,</hi></l>
+<l><hi rend="italic">Som har Lys til Klædebon!</hi></l>
+<l><hi rend="italic">Tak din Gud, som dig paa Tunge</hi></l>
+<l><hi rend="italic">Lagde meer end Lærker sjunge !</hi></l>
+</lg>
+<lg>
+<l><hi rend="italic">I Begyndelsen fra oven</hi></l>
+<l><hi rend="italic">Ordet lod, og Lyset blev,</hi></l>
+<l><hi rend="italic">Sand Oplysning, det er Loven,</hi></l>
+<l><hi rend="italic">Som Guds egen Finger skrev;</hi></l>
+<l><hi rend="italic">Hvor sig spreder Lys i Ord,</hi></l>
+<l><hi rend="italic">Der er altid hellig Jord,</hi></l>
+<l><hi rend="italic">Naar med Lyst vi det annamme,</hi></l>
+<l><hi rend="italic">Da er Skolen Livets Amme!</hi></l>
+</lg>
+<fw type="graphic"/> 
+<pb facs="1833_11_page0003.png"/>
+<fw type="pageNum"></fw>
+<p><hi rend="align(center)">Mel. <hi rend="italic">Hvo veed, hvor nær mig er min Ende,</hi></hi></p>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="italic"><hi rend="initial">U</hi>drundne er de gamle Dage,</hi></l>
+<l><hi rend="italic">Som Floder i det store Hav,</hi></l>
+<l><hi rend="italic">Og hvor sig hviler nu den Svage,</hi></l>
+<l><hi rend="italic">Der fandt den Stærke og sin Grav;</hi></l>
+<l><hi rend="italic">Men lovet være Himlens Gud!</hi></l>
+<l><hi rend="italic">De Ædles Æt doer aldrig ud!</hi></l>
+</lg>
+<lg>
+<l><hi rend="italic">Mens Graven kastes, Vuggen gynger,</hi></l>
+<l><hi rend="italic">Og Liv udsletter Dödens Spor,</hi></l>
+<l><hi rend="italic">Saa immer sig igjen forynger</hi></l>
+<l><hi rend="italic">Hver ædel Slægt i Syd og Nord,</hi></l>
+<l><hi rend="italic">Og Mindet, som Guds Miskundhed,</hi></l>
+<l><hi rend="italic">Forplanter sig i tusind Led!</hi></l>
+</lg>
+<lg>
+<l><hi rend="italic">Saa lad derpaa da Syn os fæste,</hi></l>
+<l><hi rend="italic">Hvad Ædle kaldte Livets Lyst!</hi></l>
+<l><hi rend="italic">Ja, lad os kappes med de Bedste</hi></l>
+<l><hi rend="italic">Og vove kjæk med Död en Dyst!</hi></l>
+<l><hi rend="italic">At byde den og Graven Trods</hi></l>
+<l><hi rend="italic">Kan med Guds Hjælp og lykkes os!</hi></l>
+</lg>
+<fw type="graphic"/> 
+<pb facs="1833_11_page0004.png"/>
+<fw type="pageNum"></fw>
+<p><hi rend="align(center)">Mel. <hi rend="italic">Sving dig op forsagte Sjæl</hi></hi></p>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="italic"><hi rend="initial">M</hi>orgen-Hanen atter goel,</hi></l>
+<l><hi rend="italic">Slog med dugget Vinge,</hi></l>
+<l><hi rend="italic">Lykke os den gyldne Soel</hi></l>
+<l><hi rend="italic">Vil med Lyset bringe,</hi></l>
+<l><hi rend="italic">Naar vi takke Ham i Lön</hi></l>
+<l><hi rend="italic">Over alle Sole,</hi></l>
+<l><hi rend="italic">Som gjör Morgenroden skjön,</hi></l>
+<l><hi rend="italic">Signer Livets Skole!</hi></l>
+</lg>
+<lg>
+<l><hi rend="italic">Dagen Han har skabt til Daad,</hi></l>
+<l><hi rend="italic">Skumringen til Hvile,</hi></l>
+<l><hi rend="italic">Ingen maalde Livets Traad,</hi></l>
+<l><hi rend="italic">Derfor lad os ile,</hi></l>
+<l><hi rend="italic">Gjöre Gavn, mens Dagen gaaer,</hi></l>
+<l><hi rend="italic">Prove vore Kræfter,</hi></l>
+<l><hi rend="italic">Visse paa, at gode Kaar</hi></l>
+<l><hi rend="italic">Rette sig derefter!</hi></l>
+</lg>
+<lg>
+<l><hi rend="italic">Ord i Mund og Skrift i Bog</hi></l>
+<l><hi rend="italic">Skal vor Ungdom lære</hi></l>
+<l><hi rend="italic">Ret at bruge Kraft og Sprog,</hi></l>
+<l><hi rend="italic">Livet til Guds Ære,</hi></l>
+<l><hi rend="italic">Da vor Manddom, klog og stærk,</hi></l>
+<l><hi rend="italic">Svare skal til Navnet,</hi></l>
+<l><hi rend="italic">Krone Skolens Ungdoms-Værk,</hi></l>
+<l><hi rend="italic">Vise, det har gavnet!</hi></l>
+</lg>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

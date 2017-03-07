@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Dansk Kirketidende.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-25"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="006"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1857">1857</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1857_6_page0001.png"/>
+			<fw type="pageNum">269-270</fw>
+				<docTitle>
+	<titlePart type="main">Dansk Kirketidende.<lb/></titlePart>
+	<titlePart type="sub"><lb/></titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<epigraph>
+<p>Indhold: N. F. S. Grundtvig, Nytaarsdag - Aften. — Ytringer af Luther om Daaben. — P. A. Fengers Psalmebogs - Tillæg. — Fra Tyskland. — Evangelisk Alliance. — Karenerne i Birmah.Bog-Nyt. — Entledigelser og Udnævnelse.</p>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition>Første Søndag efter Paaste den 19 April.</docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace></pubPlace>.
+<fw type="graphic"/>
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Nytaarsdags-Aften.</head>
+<head>(et Brudstykke.)</head>
+<fw type="graphic"/>
+<p><hi rend="spaced">„<hi rend="initial">N</hi>ytaars-Nat</hi>" og „<hi rend="spaced">Nytaars-Morgen</hi>!"</p>
+<lg>
+<l>Kiære Navne! gamle Ord!</l>
+<l>Jeg med Sang og ei med Sorgen</l>
+<l>Følger eders Fugle-Spor,</l>
+<l>Seer paa Skjaldens Aar tilbage:</l>
+<l>Lyse Nætter, morke Dage,</l>
+<l>Vinters-Vaar og Sommer-Host!</l>
+</lg>
+<lg>
+<l>Kort er Tiden, naar den flyver,</l>
+<l>Som i Freias <hi rend="spaced">Fjederham</hi>,</l>
+<l>Lang er Tiden, naar den kryber</l>
+<l>Alt som Sneglen krum og lam;</l>
+<l>Immer dog, som Elskovs-Sangen,</l>
+<l>Kort er Tiden <hi rend="spaced">forbigangen</hi>,</l>
+<l>I vort lyse Øieblik!</l>
+</lg>
+<lg>
+<l>Derfor, naar paany det lyner</l>
+<l>For mig, stiondt jeg blev tilaars,</l>
+<l>Nytaars-Nat med Ligfærds-Syner</l>
+<l>Er mig fra i overgaars,</l>
+<l>Nytaars-Morgen, vel at mærke,</l>
+<l>Med de Morgen-Drømme stærke,</l>
+<l>Er mig som den Dag igaar.</l>
+</lg>
+<lg>
+<l><hi rend="spaced">Nytaars-Dagen</hi>, som nu skrider,</l>
+<l>Den bar ogsaa Syn og Sang,</l>
+<l>Skiondt det hardt ad Aften lider</l>
+<l>Med min Dag i Danevang,</l>
+<l>Thi er yndig Soel-Nedgangen,</l>
+<l>Da er sod og Svane-Sangen,</l>
+<l>Klart det sidste Straaleglimt!</l>
+</lg>
+<lg>
+<l>Nytaars-Dagen, Nytaars-Tiden,</l>
+<l>Giennemlyned mig i Kvæld,</l>
+<l>Nat og Dag var Lynet siden</l>
+<l>Alle mine Syners Væld,</l>
+<l>Det Grund-Tonen var i Sangen,</l>
+<l>Giennem alle Strænge Klangen,</l>
+<l>Aanden i hvert Mimers-Ord!</l>
+</lg>
+<lg>
+<l>End jeg Kalken har at tømme,</l>
+<l>Skiænket af det gamle Aar,</l>
+<l>For de stærke Morgen-Drømme</l>
+<l>Om Uvættens Banesaar,</l>
+<l>Og om <hi rend="spaced">Gyldenaarets</hi> Dage,</l>
+<l>Som gaaer aldrig meer tilbage,</l>
+<l>Men er Sommer-Soelhverv kvit.</l>
+</lg>
+<lg>
+<l>Ja, tilbage har jeg Bærmen,</l>
+<l>Drak af Kalken hidtil smaat,</l>
+<l>Har i Mag dog bag Soel-Skiærmen</l>
+<l>Skjalde-Blik end lyst og godt,</l>
+<l>Har en Levning end af Lysten,</l>
+<l>Og en Efterklang af Røsten,</l>
+<l>Som er Skjaldens Liv og Sjæl!</l>
+</lg> 
+<pb facs="1857_6_page0002.png"/>
+<fw type="pageNum">21</fw>
+<lg>
+<l>Derfor jeg, som <hi rend="spaced">Norne-Giæsten</hi>,</l>
+<l>Henter op fra Harpens Bund</l>
+<l>Vætte-Lyset, udbrændt næsten,</l>
+<l>Giemt til Skjaldens Aften-Stund,</l>
+<l>Vitterlig, med egne Hænder,</l>
+<l>Jeg det til mit Lig-Blus tænder,</l>
+<l>Feigt er Knur mod <hi rend="spaced">Norne-Dom</hi>!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

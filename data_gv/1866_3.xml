@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>KALLE</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-26"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="003"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1866">1866</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1866_3_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">KALLE,<lb/>en gave i sang<lb/>til</titlePart>
+	<titlePart type="sub">Det Forenede Velgörenhedssælskabs<lb/>basar.</titlePart>
+</docTitle>
+<byline><lb/><lb/>
+	<docAuthor><lb/></docAuthor>
+				</byline>
+				<fw type="graphic"/>
+				<epigraph>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace>København</pubPlace>.<lb/>Thieles bogtrykkeri.<lb/>
+<fw type="graphic"/>
+<docDate>1866.</docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<pb facs="1866_3_page0002.png"/>
+<fw type="pageNum">77</fw>
+<lg>
+<l>Den skaber Bro og Port og Dør,</l>
+<l>Og Bad og Bede-Skammel,</l>
+<l>Og Gjæstebud som aldrig før</l>
+<l>Paa Jord, for Ung og Gammel!</l>
+</lg>
+<lg>
+<l>I <hi rend="spaced">Jesu</hi> Røst er Aand og Liv,</l>
+<l>Almægtig Vind og Vove,</l>
+<l>Dens lev og døe! dens gak og bliv!</l>
+<l>Er Jords og Himmels Love!</l>
+</lg>
+<lg>
+<l>I <hi rend="spaced">Jesu Navn </hi>er Kirken bygt</l>
+<l>Af <hi rend="spaced">Jesu</hi> Ord med Røsten,</l>
+<l>Paa <hi rend="spaced">Jesu</hi> Tro den hviler trygt,</l>
+<l>Til Soel gaaer ned i Østen!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+<fw type="graphic"/>
+</div>
+<div>
+<head>Himmel-Stigen.</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">D</hi>er er en Himmel-Stige</l>
+<l>For Troen i vor Barm,</l>
+<l>Men det er sært at sige,</l>
+<l>Den gaaer ei op, men ned.</l>
+<l>I Sky mon Tro ei stævne,</l>
+<l>Men hvile paa det Jævne</l>
+<l>Og slaae i Dybet Rod.</l>
+</lg> 
+<pb facs="1866_3_page0003.png"/>
+<fw type="pageNum">78</fw>
+<lg>
+<l>Den sære Himmel-Stige</l>
+<l>De Lærde kiender ei,</l>
+<l>De efter Viisdom hige</l>
+<l>End paa Helleners Viis,</l>
+<l>Paa egen Fod og Fare</l>
+<l>De Troen vil forklare</l>
+<l>Som Røg til Klarheds Sky.</l>
+</lg>
+<lg>
+<l>Men Troens Himmel-Stige</l>
+<l>Den gaaer i Dybet ned</l>
+<l>Til Kiærlighedens Rige,</l>
+<l>Hvor Gud i Lyset boer,</l>
+<l>Hvortil ei Fod har Gænge,</l>
+<l>Og Kløgt kan ei sig trænge,</l>
+<l>Det er Guds-Livets Lys!</l>
+</lg>
+<lg>
+<l>Den Troens Himmel-Stige</l>
+<l>Af Trin har ikkun tre,</l>
+<l>For Øiet, saa at sige,</l>
+<l>Den har endog kun to,</l>
+<l>Thi det, som øverst kaldes,</l>
+<l>Det kun, naar ei der faldes,</l>
+<l>Er Troens Hvilested.</l>
+</lg>
+<lg>
+<l>Paa Troens Himmelstige</l>
+<l>Det er det første Trin,</l>
+<l>Som er med Jorden lige,</l>
+<l>At troe for <hi rend="spaced">Sandheds</hi> Skyld;</l>
+</lg> 
+<pb facs="1866_3_page0004.png"/>
+<fw type="pageNum">79</fw>
+<lg>
+<l>Guds Ordet kan ei glippe,</l>
+<l>Og det er Troens Klippe,</l>
+<l>Dens sikkre Hvilested.</l>
+</lg>
+<lg>
+<l>Paa Troens Himmelstige</l>
+<l>Det er det andet Trin</l>
+<l>Til Hjertets Himmerige</l>
+<l>At troe for <hi rend="spaced">Kraftens</hi> Skyld;</l>
+<l>Thi os med Tro er givet</l>
+<l>Guds Aandepust til Livet,</l>
+<l>Det klare Kraft-Beviis!</l>
+</lg>
+<lg>
+<l>Paa Troens Himmelstige</l>
+<l>Det er det sidste Trin</l>
+<l>I Hjertets Himmerige</l>
+<l>At troe for Glædens Skyld;</l>
+<l>Det skeer, naar Tro Guds-Ordet,</l>
+<l>Som Brud ved Konge-Bordet,</l>
+<l>Indslutter ømt i Favn.</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

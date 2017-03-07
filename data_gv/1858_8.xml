@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title></title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-25"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="008"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1858">1858</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1858_8_page0001.png"/>
+			<fw type="pageNum">347-348</fw>
+				<docTitle>
+	<titlePart type="main"><lb/></titlePart>
+	<titlePart type="sub"><lb/></titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace></pubPlace>.
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Fadervor.</head>
+<head>(N. F. S. Grundtvig).</head>
+<fw type="graphic"/>
+<p><hi rend="align(center)">Mel.: Naar i den største Nød vi staae.</hi></p>
+<lg>
+<l><hi rend="initial">V</hi>or Fader over Skyer blaa,</l>
+<l>I Himle som ei Støvet saae,</l>
+<l>Sambaarne med din ældste Søn,</l>
+<l>Vi beder frit hans egen Bon!</l>
+</lg>
+<lg>
+<l>Han er Guds-Ordet, som blev Kied,</l>
+<l>Gav os sit Liv, tog selv vor Død,</l>
+<l>Han byder os med Børnekaar,</l>
+<l>At bede: Abba! Fader vor!</l>
+</lg>
+<lg>
+<l>Dit <hi rend="spaced">Fader-Navn</hi>, livsaligt sandt,</l>
+<l>Lad helliges foruden Tant,</l>
+<l>Retfærdiggjøres aabenbart</l>
+<l>As Hjertedybet soleklart I</l>
+</lg>
+<lg>
+<l>Dit <hi rend="spaced">Fader-Rige</hi> mageløst,</l>
+<l>Med al Velsignelse udøst,</l>
+<l>Lad komme, som Din Soel opgaaer</l>
+<l>Med Salighedens Gyldenaar!</l>
+</lg>
+<lg>
+<l>Din <hi rend="spaced">Fader-Vilje</hi> eiegod,</l>
+<l>Som Ondskab kun har Knur imod,</l>
+<l>Lad skee paa Jord saa fuldelig,</l>
+<l>Tom evig i dit Himmerig!</l>
+</lg>
+<lg>
+<l>Da Himlens Lys tilgavns har brændt,</l>
+<l>Da Tidens Lob er godt fuldendt,</l>
+<l>Høisaligt alt hvad du har skabt,</l>
+<l>Kun Løgn og Synd og Død fortabt!</l>
+</lg>
+<lg>
+<l>I Verden mellem Liv og Død,</l>
+<l>Til da giv Du os dagligt Brod,</l>
+<l>Og eftergiv os al vor Giæld,</l>
+<l>Som Næsten vi giør samme Skiel!</l>
+</lg>
+<lg>
+<l>Indled os aldrig, sode Gud,</l>
+<l>I Fristelse, men riv os ud,</l>
+<l>Og frels os, som Du har bestemt,</l>
+<l>Fra alt hvad selv Du kalder slemt!</l>
+</lg>
+<lg>
+<l>Dit Ja og Amen, Fader, da</l>
+<l>Opelsker vort Halleluja;</l>
+<l>Thi med Dit Rige og Din Magt</l>
+<l>Har Æren gjort en evig Pagt!</l>
+</lg>
+<lg>
+<l><hi rend="spaced">Halleluja i Jesu</hi> Navn,</l>
+<l>Din egen Sons i Fadersavn!</l>
+<l>Halleluja med Aandens Rost</l>
+<l>Som udgaaer fra Dit Faderbryst!</l>
+</lg>
+<lg>
+<l><hi rend="spaced">Halleluja</hi> i Herrens Fred,</l>
+<l>Som hviler paa hans Menighed!</l>
+<l>Halleluja i saligt Haab,</l>
+<l>Hos os gienfødt af <hi rend="spaced">Christi</hi> Daab</l>
+</lg>
+<lg>
+<l><hi rend="spaced">Halleluja</hi> i Fællesskab</l>
+<l>Med alle dem fra Hav til Hav,</l>
+<l>Som Sandheds Aand med Naadens Ord</l>
+<l>Forsamler om Vorherres Bord!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

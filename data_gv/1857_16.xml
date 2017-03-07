@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Dansk Kirketidende.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-25"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="016"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1857">1857</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1857_16_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Dansk Kirketidende.<lb/></titlePart>
+	<titlePart type="sub">Alle Helgens Dag den i November.<lb/></titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<epigraph>
+<p>Indhold: N. F. S. Grundtvig: Ordet og Troen. — Forhandlinger om „Kirkeraad" i Landsthinget. — Evang. Alliance. — Bognyt. — Udnævnelser og ledige Embeder. — Rettelse.</p>
+				</epigraph>
+				<docEdition></docEdition>
+				<docImprint>
+				<pubPlace></pubPlace>.
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Ordet og Troen.</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">S</hi>ee til den Fugl, som let i Sky</l>
+<l>Svinger sig dristig med Glæde,</l>
+<l>Synger i Kvæld alt som i Gry,</l>
+<l>Ungler i Ny og i Næde!</l>
+<l>Det er den Fugl, som aldrig doer,</l>
+<l>Det er den Fugl, som synger „hør"!</l>
+<l>Det er <hi rend="spaced">Guds-Ordet</hi> med Aanden.</l>
+</lg>
+<lg>
+<l>See til den Blomst, som har sin Rod</l>
+<l>Dybt i de yndigste Dale,</l>
+<l>Dufter i Len ved Livets Flod,</l>
+<l>Trods alle Roser, som prale!</l>
+<l>Det er den Blomst, som visner ei,</l>
+<l>Gjennem dens Rod gaaer <hi rend="spaced">Livets Vei</hi>,</l>
+<l>Det er <hi rend="spaced">Kiød-Hjertet</hi> med <hi rend="spaced">Troen</hi>.</l>
+</lg>
+<lg>
+<l><hi rend="spaced">Ordet</hi> med Aand blev Kiød i Løn,</l>
+<l>Møen bar Mand under Hjerte,</l>
+<l>Moder blev Blomst og Fugl blev Son,</l>
+<l>Fodselen var uden Smerte,</l>
+<l>Alle Guds Engle jubled da:</l>
+<l><hi rend="spaced">Christus</hi> er født. Halleluja!</l>
+<l>Ære den Høieste være!</l>
+</lg>
+<lg>
+<l>See til det skjulte Favnetag,</l>
+<l><hi rend="spaced">Ordets og Troens</hi> det bolde!</l>
+<l>Vent paa den lange Sommerdag,</l>
+<l>Naar de Guldbrylluppet holde!</l>
+<l>Brudgommen er Guds egen Son,</l>
+<l>Bruden Guds Datter født i Løn,</l>
+<l>Salighed Ægtestabs-Glæden.</l>
+</lg>
+<lg>
+<l>Det er en Gaade underfuld,</l>
+<l>Som kun Gud-Fader opløser,</l>
+<l>Naar over Skabning sin af Muld</l>
+<l>Kiærligheds Regn Han udoser</l>
+<l>Rigt paa din Bon og til din Priis,</l>
+<l>,„Løseren" af vort Paradis!</l>
+<l>Ætmand af <hi rend="spaced">Ruth og af Boas</hi>!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

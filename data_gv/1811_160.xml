@@ -1,0 +1,451 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Sandsigeren</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2009-10-25"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="003"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1811">1811</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1811_3_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Sandsigeren<lb/></titlePart>
+	<titlePart type="sub">eller<lb/>
+den danske Huusven.</titlePart>
+</docTitle>
+<byline></byline>
+				<fw type="graphic"/>
+				<epigraph>
+<lg>
+<l>Lynild var hans raske Sprog</l>
+<l>Naar han beskrev dig underlige, høie</l>
+<l>Og aldrig overvundne Dannebrog,</l>
+<l>Og naar han klog paa hine Arilds Dage</l>
+<l>De stolte Dage - Danmarks gyldne Tid</l>
+<l>Mod disses Færd tit førtes ærlig Klage.</l>
+</lg>
+<p><hi rend="align(right)">H. C. Sneedorff.</hi></p>
+	</epigraph>
+				<fw type="graphic"/>
+				<docEdition>No. 18.</docEdition>
+	<docImprint>
+<docDate>Onsdagen den 22de Maj 1811.</docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<pb facs="1811_3_page0001.png"/>
+<fw type="pageNum"></fw>
+<head>Anholtstoget.</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">h</hi>vorledes? er det ikke Danmarks Baade,</l>
+<l>Som væbnede henstævne sig paa Sø</l>
+<l>Mod Anholts Kyst? o, hvilken sælsom Gaade!</l>
+<l>Vil Danske stride mod den danske Ø?</l>
+</lg>
+<pb facs="1811_3_page0002.png"/>
+<fw type="pageNum">274</fw>
+<lg>
+<l>Forundres ei, men vend dit Øie did.</l>
+<l>Hvor før sig løftede fra Taarnets Tinde</l>
+<l>Det klare Skin ved skumle Midnatstid</l>
+<l>For venlig om de blinde Skær at minde!</l>
+<l>Der vaier nu hint Søuhyres Flag,</l>
+<l>Og Snarlig vil Kartovers Tordenbrag</l>
+<l>Forkynde Troldene, Som feige lure</l>
+<l>Med tændte Lunter bag de høie Mure,</l>
+<l>For Ild og Død af Svælget at udlyne</l>
+<l>Naar Dannebrog sig lader kæk tilsyne</l>
+<l>Og høit sig løfter paa sin egen Grund.</l>
+<l>Ja, Seer du hist, hvor op fra Havets Bund</l>
+<l>Sig Skummet vælter bag de bretske Snetter,</l>
+<l>Hvor Stridsmænd vrimle paa de høie Dækker!</l>
+<l>En Kamp hel varm her gives at bestaa</l>
+<l>For danske Mænd og deres Baade smaa.</l>
+</lg>
+<lg>
+<l>Men siig mig dog, er Taarnet hist paa Sand</l>
+<l>Og Kysterne i fierne Engelland</l>
+<l>Et Hlidskjalf vel, hvorfra det klare Øie</l>
+<l>Kan overskue Hav og Jord saa nøie ?</l>
+<l>Hvad heller er de danske Aareslag</l>
+<l>En Lyd Som den af Herrens egen Tunge;</l>
+<l>Thi ikkun den, trods Bølgens hule Brag,</l>
+<l>Kan over Hav i fjerne Bjerge runge.</l>
+</lg>
+<pb facs="1811_3_page0003.png"/>
+<fw type="pageNum">275</fw>
+<lg>
+<l>O, spørg ei saa! ak, veed du det da ei.</l>
+<l>At Storbritannien er Augurbode,</l>
+<l>At Midgardsormen, hendes fule Søn</l>
+<l>Omvinder lumskelig den hele Klode,</l>
+<l>At han, den sledske, lede Helveddrage,</l>
+<l>Som ruger over stjaalne Dynger Guld,</l>
+<l>Har ført Afguderiets Tid tilbage,</l>
+<l>Og reist et Alter af det røde Muld,</l>
+<l>Hvor Jordens Folkefærd med Andagt knæle</l>
+<l>Opoffre blinde deres arme Sjæle,</l>
+<l>Og som en Tilgift Tro og Fædreland!</l>
+<l>Uhyret hvisler over brede Strand</l>
+<l>Hvad Afgudsflokken ham i Løn forraader.</l>
+<l>Den gamle Hex forstaar at skelne Røsten,-</l>
+<l>Der suser hjem fra Syden og fra Østen,</l>
+<l>Og fra det høie Norden.</l>
+</lg>
+<lg>
+<l><hi rend="align(right)">Ak! fra Nord!</hi></l>
+<l>Saa druknede du alt den stærke Thor</l>
+<l>I Ormens Gift og kunde den ei fælde!</l>
+<l>Hvad Fædrene af Bretlands usle Trælle</l>
+<l>Sig købte mandelig for skarpe Staal,</l>
+<l>Det tigge Sønnerne paa Trælleviis af Naade,</l>
+<l>Ved deres eget Blod til Ormen at forraade,</l>
+<l>O, visselig har Gud sin Vredes Staal</l>
+<l>Udøst, hvor før Velsignelsernes Vædske</l>
+</lg>
+<pb facs="1811_3_page0004.png"/>
+<fw type="pageNum">276</fw>
+<lg>
+<l>Fra Himlen drypped over kolde Nord,</l>
+<l>Da nu med Guld kun Sjælene sig lædske,</l>
+<l>Og slige Tidsler voxe op af Jord!</l>
+</lg>
+<lg>
+<l>Ja, hvad var det, som før bevared Blodet</l>
+<l>Saa klart og sundt i Aarerne det stod?</l>
+<l>Hvad var det vel, der saa oplived Modet,</l>
+<l>At hæderlig det leved gennem Død?</l>
+<l>Hvad andet vel end rene Himmelluft,</l>
+<l>Som splittede hver giftig,  jordisk Taage,</l>
+<l>Hvad andet vel end Himmelurtens Duft</l>
+<l>Der flux forjog fra tunge Øielaage</l>
+<l>Den dorske Søvn med fine onde Drømme!</l>
+<l>Da Øiet klart den falske Slange saae.</l>
+<l>Som hyllet under Blomstertæppet laa;</l>
+<l>Da løfted det sig over Støvets Vrimmel</l>
+<l>og stirred dristig ind i Herrens høie Himmel.</l>
+<l>Hint stolte Himmelsyn, som dorske vi beskue</l>
+<l>Og kummerlig benævne Regnens Bue,</l>
+<l>Fordi ei mer det os er Herrens Tegn,</l>
+<l>Men kun et Farvespil af Sol og Regn,</l>
+<l>Det høre vi vort Nordens gamle Skjalde</l>
+<l>Med sindrig kløgt en Bro til Himlen kalde;</l>
+<l>Thi visselig vort Liv er slig en Bro,</l>
+<l>Kun fra dens Top kan Øiet klart ind skue</l>
+<l>I Paradiset bag den stolte Bue;</l>
+</lg>
+<pb facs="1811_3_page0005.png"/>
+<fw type="pageNum">277</fw>
+<lg>
+<l>Men steile Hvælving kan kun de bestige.</l>
+<l>Som vide med en stærk og stadig Tro.</l>
+<l>At det er Veien til Guds Himmerige.;</l>
+<l>De Andre kun forlyste Øiets Sands</l>
+<l>Med Skygger og den tomme Farveglands</l>
+<l>De krybe om ved Buens lave Fod  .</l>
+<l>Og bade, boltre sig i lunkne Flod,</l>
+<l>Til Ebbens korte Vexelstund er omme</l>
+<l>Og skummende de høie Bølger komme;</l>
+<l>Da hvirvles de i Afgrundssvælget ned</l>
+<l>Og lære skælvende: der er en Evighed.</l>
+<l>Hvor skulde de mod Paradiset stunde.</l>
+<l>Tillukke Øiet for det falske Skin</l>
+<l>Og vandre frem med faste raske Trin,</l>
+<l>Som nægte ham, den Eneste, der kunde</l>
+<l>Oplade Porten, som i første Tid</l>
+<l>Tillukkedes af Almagts stærke Finger,</l>
+<l>Den Eneste, som mægter med sit Skjold</l>
+<l>At værge os, naar Kerubimen svinger</l>
+<l>Det hvasse Sværd og alle Hjerter grue</l>
+<l>For Vredens Staal og Staalets blanke Lue?</l>
+<l>Hvorledes kun en hellig Aand opfylde</l>
+<l>Vantrevne Slægt, som længer ei vil hylde</l>
+<l>Ham, Aanders Ypperste, Gud Faders Helligaand,</l>
+<l>Som ene mægter ved sin stærke Haand</l>
+<l>At reise os af Faldets dybe Grav</l>
+</lg>
+<pb facs="1811_3_page0006.png"/>
+<fw type="pageNum">278</fw>
+<lg>
+<l>Og skænke os en trofast Vandringsstav,</l>
+<l>Saa ei vi glide paa den glatte Bue!</l>
+<l>Nei, ret som Stormene,   da med vanhellig Haand</l>
+<l>Man Herrens Plantning ødte, Anholts Land</l>
+<l>Forvandled til ufrugtbar Flyvesand,</l>
+<l>Saa have og de onde lysters Storme</l>
+<l>Europa og selv Danmenk ødelagt.</l>
+<l>Da Tro og Haab, som Kærlighedens Vagt</l>
+<l>Nedhuggedes; nu Rigerne som Huse</l>
+<l>Paa Sand, ei længer staa, men rave kun;</l>
+<l>Naar Havet voxer, og naar Storme suse,</l>
+<l>Sig til en Grav oplader falske Grund,</l>
+</lg>
+<lg>
+<l>Men gamle Jylland, kære Fosterfader!</l>
+<l>Som Dreng du holdt mig i din stærke Haand,</l>
+<l>Da tyktes det mig klart paa dine Lader</l>
+<l>At end i dig var Guds og Nordens Aand</l>
+<l>Fra Øiet lyned end det gamle Mod</l>
+<l>Naar lange Tirren hedede dit Blod,</l>
+<l>Og rede var du til paa Jydeviis,</l>
+<l>Som han din gamle Søn fra Nørreriis,</l>
+<l>Og mangen Gæv, som Saga i sin Bog</l>
+<l>Afmalet har med favre,  røde Stave,</l>
+<l>At løfte Nakken over Trælleaag,</l>
+<l>Og holde Voldsmænd under Tugt og Ave.</l>
+<l>De gamle Sæder var endnu tilhuse</l>
+<l>I Dont og Drik, i Klæder, Tungemaal:</l>
+</lg>
+<pb facs="1811_3_page0007.png"/>
+<fw type="pageNum">279</fw>
+<lg>
+<l>Med Sølverlaaget pranged fulde Kruse,</l>
+<l>Ved Barselgilde spiste du af Skaal</l>
+<l>Dit gode Øl, som i Kong Snios Dage</l>
+<l>Du varmed dig ved aabne Skorsteens Ild</l>
+<l>Og Lyseklynen skinned klar og mild</l>
+<l>Paa dine hardtad aldrig tomme Hænder,</l>
+<l>Hvor Ladheds Søn ei kunde mættet sig.</l>
+<l>Der blev ved Flid og Nøisomhed du rig.</l>
+<l>Men aldrig saae jeg du det Hjerte lukked</l>
+<l>For den som under Armods Byrde sukked.</l>
+<l>Og Pauli Bud du fulgte veltilmøde.</l>
+<l>Med Ordets Tjener deelte du det Gode.</l>
+<l>Det giorde Du, fordi det Guddomsord</l>
+<l>Han dig forkyndte fra den høie Stol,</l>
+<l>Endnu for dig var Livets rette Sol;</l>
+<l>Fordi uhyklet Herrens Naadeboed</l>
+<l>Du agtede for Livets bedste Gilde.</l>
+<l>Ak, er hos dig nu ogsaa Aanden død?</l>
+<l>Er Hæderskrandsen som de lange Tider</l>
+<l>Har giennemblomstret, liflig grøn og rød,</l>
+<l>Nu falmet dog og visnet hen omsider?</l>
+<l>Umuligt vist, den kunde ikke prale.</l>
+<l>Som om den bundet var i Sydens Dale</l>
+<l>Af Laurbærløv og farverige Blommer,</l>
+<l>Thi den som du, var magre Hedes Søn</l>
+<l>Kun brune Lyng og Porsen mørkegrøn.</l>
+</lg>
+<pb facs="1811_3_page0008.png"/>
+<fw type="pageNum">280</fw>
+<lg>
+<l>Men blomstred derfor og ei blot en enkelt Sommer:</l>
+<l>Den mørknedes alt under Vintersky,</l>
+<l>Naar Vaaren kom den lysnede paa ny.</l>
+<l>Du stolt den bar ved Oder Som ved Rin,</l>
+<l>Da Sjællands unge Olding tabte sin;</l>
+<l>Ja til den Gud, jeg saae dig trolig dyrke,</l>
+<l>Jeg har det Haab  han dig vil unde Styrke,</l>
+<l>Saa Troloevid og Jettemagt til Trods</l>
+<l>Du end en Stund dit stolte Arvegods</l>
+<l>Kan gemme trofast i din Egekiste.</l>
+<l>Ei nogen let skal Nøglen dig fravriste.</l>
+<l>Men vogt dig nøie for den gamle Snog,</l>
+<l>Der Som en Lysets Engel gaaer omkring</l>
+<l>Og vil fordærve hele Jordens Ring,</l>
+<l>At han dig ei den skal af Haand udliste.</l>
+</lg>
+<lg>
+<l>Mit Haab mig skuffer ei: i røde Sand</l>
+<l>Et Sanddru Vidnesbyrd jeg seer opskrevet,</l>
+<l>Og om end større ei din Krands er blevet,</l>
+<l>Du med det Blod den dog har lædsket saa.</l>
+<l>At den kun frisk en Tørke gennemgaa.</l>
+</lg>
+<lg>
+<l>Men hvem er det, sig løfter hist i Baad?</l>
+<l>Udkaaret er han i Guds vise Raad,</l>
+<l>Til os i Minde at tilbagekalde</l>
+<l>Hvad liflig kvædes om af Nordens Skjalde;</l>
+</lg>
+<pb facs="1811_3_page0009.png"/>
+<fw type="pageNum">281</fw>
+<lg>
+<l>Thi stander han ei der foruden Skjold</l>
+<l>Og uden Brynje, ret som Odins Balder,</l>
+<l>Omsuset ei af Pile eller Spyd,</l>
+<l>Men hel omhvinet af en værre Lyd!</l>
+<l>De lede Kugler stævne mod hans Bryst</l>
+<l>Men deres Hvislen hører han med Lyst,</l>
+<l>Det lyner tvindt, men Helten dog ei falder,</l>
+<l>De røde Blus fra ikkun sammenvinde</l>
+<l>For hædrende at straale om hans Tinde.</l>
+<l>Nei, bretske Loke dine sule Raad</l>
+<l>Forgæves kun du Skytterne indblæser.</l>
+<l>Et Misteltein dig fattes til din Daad</l>
+<l>Og ingen Hødur ganger dig tilhaande.</l>
+<l>End ei den frygtelige Time lød.</l>
+<l>Som skal forkynde Norden Død,</l>
+<l>Da Danmarks Aser skal i haabløs Vaande</l>
+<l>Paa Banetuen stande,   og tilbage</l>
+<l>Fra Hel med Klippens og med Engens Klage</l>
+<l>Forgæves kalde ham,   hvis høie Aand</l>
+<l>Sig billedlig i Helten aabenbarer:</l>
+<l>Den rette Baldur, som ei mer nedfarer.</l>
+<l>Men farer høit op over alle Himle,</l>
+<l>Naar vi forglemme Faderen i Gimle.</l>
+<l>Den Uheldstime kommer alt for vlst.</l>
+<l>Da vi forlades af forladte Krist,</l>
+<l>Men sikkerlig dog Himlens høi Torden</l>
+</lg>
+<pb facs="1811_3_page0010.png"/>
+<fw type="pageNum">282</fw>
+<lg>
+<l>Før Herren og hans Krask forleder Norden.</l>
+<l>Med stærke Lynslag rammer og udsletter</l>
+<l>Din Slægt og dig, I Babels onde Jetter.</l>
+</lg>
+<lg>
+<l>Dog, hvad er det? eenarmet Helten staaer!</l>
+<l>Saa løfte Kuglerne dog under Stridens Bulder,</l>
+<l>Umærkelig en Arm fra kække Skulder!</l>
+<l>0	nei, vidunderlig den raske Sømand staaer</l>
+<l>Eenarmet kun, fordi os Herren vilde:</l>
+<l>Hin Odins anden Søn i ham afbilde.</l>
+<l>Da ulvens Broder, Midgards sule Orm</l>
+<l>Ved Axelstad Skidbladnir vilde sluge.</l>
+<l>Det vakkre Skib, som trodsed mangen Storm,</l>
+<l>Og mangt et Lyn fra aabne Fiendeluge,</l>
+<l>Saa drabelig hin Ungersvend sin Arm</l>
+<l>I	Ormens Gab indstak, som Tyr sin Haand</l>
+<l>Nedsænkede i Fenrisulvens Strube.</l>
+<l>Ei var tilrede snilde Alfers Baand,</l>
+<l>Og Ormen sig bortsneg med stolte Rov:</l>
+<l>Den bedste Eg i Dannerkongens Skov,</l>
+<l>Men Heltens Id ei Som hans Arm en Grav</l>
+<l>Skal finde i den sule Slanges Gab:</l>
+<l>En af de Mindestene skal den være.</l>
+<l>Som stande tæt og fast paa Nordens Hav,</l>
+<l>For Vidnesbyrd til sene Slægt at bære</l>
+<l>Om Kraften som i Naade Herren gav;</l>
+</lg>
+<pb facs="1811_3_page0011.png"/>
+<fw type="pageNum">283</fw>
+<lg>
+<l>For dorske Børnebørn endnu at lære.</l>
+<l>Hvad der engang i Norden kaldtes være.</l>
+</lg>
+<lg>
+<l>Hvor fødtes denne Helt? maaske</l>
+<l>Imellem gamle Norrigs Kampefjelde;</l>
+<l>Maaske, hvor Hekla under evig Sne,</l>
+<l>Til Trods for den og for sin høie Ælde,</l>
+<l>Ukølnetstaar med Ungdomsild i Barmen?</l>
+<l>Der fødtes og opfofredes jo Han</l>
+<l>Som ligger hist udstrakt paa Anholts Sand:</l>
+<l>Den kække Melsted, trindt med Lig indhegnet.</l>
+<l>Som det en tapper Jydehøvding egned,</l>
+<l>Naar Solen kølnes og naar Havet fryser,</l>
+<l>Naar Nattens Mørke rugen over Jord,</l>
+<l>Da er det jo kun i det høie Nord,</l>
+<l>De blanke Nordlys mægte end at lyse,</l>
+</lg>
+<lg>
+<l>O, sørgeligt, at Norden ei er heel</l>
+<l>At Lemmerne ei have fælles Sjæl</l>
+<l>Ja at, desvære, Nogle have ingen.</l>
+<l>At den er sjelden, som har Mod i Bringen;</l>
+<l>Men, stolte Norrig!  her du dog skal lære</l>
+<l>At Daners Mark kan anden Grøde bære.</l>
+<l>End skøre Ax, og Blomsten fin og spæd.</l>
+<l>At end en Agern, Danmarks gamle Sæd,</l>
+<l>Kan spire og saa dybe Rødder slaa.</l>
+</lg>
+<pb facs="1811_3_page0012.png"/>
+<fw type="pageNum">284</fw>
+<lg>
+<l>Atden i Stormen kun urokket staae.</l>
+<l>Vel Sandt, at ret saa Skovens Ege Svinde,</l>
+<l>Alt sjeldnere en Helt med Egemarv</l>
+<l>Sig løfter kæk, men til et herligt Minde</l>
+<l>Om Svundne Ild og Jyders gamle Arv</l>
+<l>Ved Anholts Kyst du Seer en Egebul</l>
+<l>Som dine Graner ei kan overskygge.</l>
+</lg>
+<lg>
+<l>Men, kække Jyde! vil du sige mig:</l>
+<l>Gik Fædres Gudsfrygt og i Arv til dig?</l>
+<l>Forlorede du uden Suk din Arm,</l>
+<l>Og blottede du djærv din unge Barm,</l>
+<l>Fordi, som KrIsten, Trods du turde bydo</l>
+<l>Til dem der kun kun vort Paulun nedbryde.</l>
+<l>Men ei os Selv tilføie noget Meen;</l>
+<l>Fordi du heller gik til Himmerige</l>
+<l>Enarmee,  ung, end at du vilde svige</l>
+<l>Din Gud, din Ed, din Drot, dit Fædreland?</l>
+<l>O tør jeg tro, at ei din egen Styrke,</l>
+<l>Ei Lykkens Uting, lig nedsjunkne Slægt,</l>
+<l>Du stoled paa, og voved træt at dyrke;</l>
+<l>Men at du Herrens Kraft og Herrens Varetægt</l>
+<l>Tilregner, hvad dig undtes at bestaa,</l>
+<l>Tilregner, hvad dig undtes at undgaa?</l>
+<l>Er det ei saa, da prise andre Skjalde</l>
+<l>Din Idræt høit, naar du maa staa og falde ?</l>
+</lg>
+<pb facs="1811_3_page0013.png"/>
+<fw type="pageNum">285</fw>
+<lg>
+<l>Jeg sukker dybt i Sind og tier kvær,</l>
+<l>Og hvad jeg sang om dig og om din Færd</l>
+<l>Jeg da kun sang om dine qamle Fædre.</l>
+<l>Som Gud ved dig i Graven vilde hædre.</l>
+</lg>
+<lg>
+<l>Ja, danske Sømænd! som i Sund og Belt</l>
+<l>Saa ivrig hige efter Navnet Helt,</l>
+<l>Jeg glædtes tit, naar ved en kæk Bedrift</l>
+<l>I minded mig om Træk i gamle Skrift;</l>
+<l>Men ei min Frygt jeg eder vil fordølge!</l>
+<l>End gynge I paa samme danske Bølge,</l>
+<l>Og tumle eder der saa kækt og trygt.</l>
+<l>Som eders Fædre uden Tvivl og Frygt;</l>
+<l>Men mon I og andægtige beskue</l>
+<l>Fra Bølgetoppen Himlens gamle Bue</l>
+<l>Og mon for ham I ydmyge nedknæle.</l>
+<l>Som holder den og Stormene i Haand?</l>
+<l>Hvad heller er det kun et Eftermæle</l>
+<l>Og Samtids Pris hvad med hovmodig Aand</l>
+<l>I beile til og tykkes værd at vinde?</l>
+<l>Ak, er det saa da er I kun et Minde,</l>
+<l>Som med det Svundne hurtig vil forsvinde</l>
+<l>Et Kraftens Efterskin, som eders lave Baade</l>
+<l>Er Efterskin af Danmarks stolte Flaade,</l>
+<l>Som troende sig løftede mod Sky</l>
+<l>Med høien Mast den kække Orlogsmand,</l>
+</lg>
+<pb facs="1811_3_page0014.png"/>
+<fw type="pageNum">286</fw>
+<lg>
+<l>Naar Storme reistes, ei han søgte Ly</l>
+<l>Men droges med dem paa den vilde Strand;</l>
+<l>Ei er det saa med eders lave Baade,</l>
+<l>Paa glatte Flade af det stille Vand</l>
+<l>I mægte kun med dem at ro og raade,</l>
+<l>Naar Stormen reises, maa i søge Land.</l>
+</lg>
+<p><hi rend="align(right)">N. F.  S.  Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

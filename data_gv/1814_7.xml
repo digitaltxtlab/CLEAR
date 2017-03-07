@@ -1,0 +1,1775 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Roskilde-Saga</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2009-11-24"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="007"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1814">1814</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1814_7_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Roskilde-Saga</titlePart>
+	<titlePart type="sub">til Oplysning af<lb/>Roskilde-Riim</titlePart>
+</docTitle>
+<byline>ved<lb/>
+	<docAuthor>Nik. Fred. Sev. Grundtvig,<lb/>Capellan.</docAuthor>
+				</byline>
+				<fw type="graphic"/>
+				<epigraph>
+<p>Den øde Mark skal fryde sig og blomstre som en Rose, den skal vist blomstre og synge, Libanons Herlighed er givet den, Carmels og Sarons Prydelse, de skal see Je. hovas Herlighed, vor Guds Deilighed, størker de of. mægtige Hænder og stadfæstet de rystende Knæe.</p>
+<p><hi rend="align(right)">Esaias 35.</hi></p>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace>Kjøbenhavn,</pubPlace>.<lb/>Trykt og forlagt af Andreas Seidelin. store Kannikestræde No. 16.<lb/>
+<fw type="graphic"/>
+<docDate>1814</docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<pb facs="1814_7_page0001.png"/>
+<fw type="pageNum"></fw> 
+<pb facs="1814_7_page0002.png"/>
+<fw type="pageNum"></fw>
+<p>Herre! jeg vil svare den, som forhaaner mig for nogen Ting, at jeg haver forladt mig paa Dit Ord, og jeg vil tale om Øine Vidnesbyrd sor Konger og ikke beskæmmes.</p>
+<p><hi rend="align(right)">Ps. 119.</hi></p>
+<pb facs="1814_7_page0003.png"/>
+<fw type="pageNum"></fw>
+</div>
+<div>
+<head>Dig</head>
+<head>Helliges i Haab</head>
+<head>Kong Frederik hin Milde!</head>
+<head>min</head>
+<head>Saga som min Sang</head>
+<head>om</head>
+<head>Nordens Rosenkilde.</head> 
+<pb facs="1814_7_page0004.png"/>
+<fw type="pageNum"></fw> 
+<pb facs="1814_7_page0005.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l><hi rend="initial">S</hi>tormene suse og Bølgerne skumme,</l>
+<l>Vaandefuld sidder vor Moder i Nord,</l>
+<l>Maa ikke Harpen forstumme,</l>
+<l>Hyllet i Flor?</l>
+<l>Hvo tør forvoven end tvinge</l>
+<l>Strænge« til Klang?</l>
+<l>Maa dm ei skurrende springe</l>
+<l>Brat under Trængsel og Tvang?</l>
+<l>Bærer mismodige Skjald</l>
+<l>Harpen, o Drot! til Din Hald,</l>
+<l>Kun for at under Din Throne</l>
+<l>Den i et Suk skal udtone.</l>
+<l>Og i Din Haand</l>
+<l>Maalløs opgive sin Vand?</l>
+</lg> 
+<pb facs="1814_7_page0006.png"/>
+<fw type="pageNum">VI</fw>
+<lg>
+<l>Aarene skifted og Tider tillige,</l>
+<l>Harpen jeg rørde saamangen en Gang,</l>
+<l>Ikkun om Guds og om Skjoldungens Rige</l>
+<l>Strængene klang;</l>
+<l>Springe de maa, hvis de Riger har Ende,</l>
+<l>Springe med Gny,</l>
+<l>Og under Thronen opsende</l>
+<l>Sukket i Scepterets Lye.</l>
+<l>Frederik! vist i Din Hald</l>
+<l>Undte Du sørgende Skjald</l>
+<l>Fred til ved Harpen at græde,</l>
+<l>Dannemarks Liigsang at kvæde.</l>
+<l>Dig og dets Aand</l>
+<l>Gud at befale i Haand.</l>
+</lg>
+<lg>
+<l>Syner jeg skued, og jeg maatte riste</l>
+<l>Runer i Rosens den hellige Vang,</l>
+<l>Og om Saameget som aldrig jeg vidste</l>
+<l>Toned min Sang;</l>
+<l>Glædeligt Kvad om den blomstrende Stamme</l>
+<l>Skjalden frembar,</l>
+<l>Og, som det lod, i det samme,</l>
+<l>Sværdet dens Rod overskar.</l>
+</lg> 
+<pb facs="1814_7_page0007.png"/>
+<fw type="pageNum">VII</fw>
+<lg>
+<l>Konge! ja vist maa jeg tye</l>
+<l>Under Dit Scepter i Lye</l>
+<l>Og, hvis det ikke i Sommer</l>
+<l>Krandses af yndige Blommer,</l>
+<l>Knuse med Sorg</l>
+<l>Harpen, jeg slog i Din Borg.</l>
+</lg>
+<lg>
+<l>Had maa jeg friste og Spot maa jeg lide,</l>
+<l>Verden med Latter vil døve min Sang,</l>
+<l>Dog tør jeg Harpen, mens Timerne skride,</l>
+<l>Stemme til Klang</l>
+<l>Ei til en førgelig Klang, som naar Klokker</l>
+<l>Ringe for Liig,</l>
+<l>Nei til en Klang, som naar Folket sig flokker</l>
+<l>Did hvor det kimer for Høitid og Dig.</l>
+<l>Vinteren, ja, den var kold,</l>
+<l>Revnet er Dannemarks Skjold,</l>
+<l>Sprukken er Dannemarks Krone,</l>
+<l>Fast er dog Frederiks Throne;</l>
+<l>Brøst eller Brud,</l>
+<l>Kan det ei heles af Gud?</l>
+</lg>
+<lg>
+<l>See, hvor det grønnes i Dannemarks Skove!</l>
+<l>Nys var tilsyne kun visnede Riis;</l>
+</lg> 
+<pb facs="1814_7_page0008.png"/>
+<fw type="pageNum">VIII</fw>
+<lg>
+<l>See, hvor den ruller den lyseblaa Vove!</l>
+<l>Nys var den Jis;</l>
+<l>Saa skal en Strøm af den hellige Kilde</l>
+<l>Rulle i Nord,</l>
+<l>Kvæge med Bølgerne milde</l>
+<l>Dannemarks revnede Jord,</l>
+<l>Roser i Flok skal paa ny</l>
+<l>Blomstre i Palmernes Ly.</l>
+<l>Skyde skal og i det Samme</l>
+<l>Fredrik! Din herlige Stamme;</l>
+<l>Danmark Dit Navn</l>
+<l>Giemme med Roser i Favn.</l>
+</lg>
+<lg>
+<l>Timerne svinde og Dagene skride,</l>
+<l>Pindse, den liflige Høitid er nær,</l>
+<l>Vinteren vover med Vaaren at stride,</l>
+<l>Løfter sit Spær,</l>
+<l>Brydes skal vist den vanhellige Landse</l>
+<l>Brydes af Gud;</l>
+<l>Sjølund med gammeldags Mai sig bekrandse,</l>
+<l>Smykkes med Lilier alt som en Brud;</l>
+<l>Skulde da Modet forgaae,</l>
+<l>Om end i Dagene faa</l>
+</lg> 
+<pb facs="1814_7_page0009.png"/>
+<fw type="pageNum">IX</fw>
+<lg>
+<l>Stormene bryde med Størle</l>
+<l>Drive med Skyerne mørke?</l>
+<l>Bier paa Gud!</l>
+<l>Saa lyder Frelserens Bud.</l>
+</lg>
+<lg>
+<l>Dagene skrede, Apostlenes Skare</l>
+<l>Bied paa Herren med Sang og med Bøn,</l>
+<l>Vented det vist, at Han vilde forklare</l>
+<l>I dem Sin Søn;</l>
+<l>Hellig oprandt da den Pindsedags Morgen,</l>
+<l>Aanden nedfoer.</l>
+<l>Brændte paa Tungen, men slukkede Sorgen,</l>
+<l>Aanded og lued i hellige Ord;</l>
+<l>Fjenderne fnysde og Daarerne loe</l>
+<l>Sandhedens Venner annammede Tro,</l>
+<l>Fnysende Fjender og Daarer saamange.</l>
+<l>Reistes og fældtes vel tusinde Gange;</l>
+<l>Kirken ei saa,</l>
+<l>Den var kun reist til at staae.</l>
+</lg>
+<lg>
+<l>Konge! den staaer, om al Jorderigs Helte</l>
+<l>Gav sig forvovne med Muren i Kast,</l>
+<l>Gjordet med Kraftens usynlige Belte</l>
+<l>Stander den fast;</l>
+</lg> 
+<pb facs="1814_7_page0010.png"/>
+<fw type="pageNum">X</fw>
+<lg>
+<l>Men hvad sig ei til dens Mure vil stølte</l>
+<l>Synker i Gruus;</l>
+<l>Kløgten og Vælden ei nytte</l>
+<l>Kongernes Throner og Huus.</l>
+<l>Fredrik! Din Throne i Kirken er bygt,</l>
+<l>Op til dens Mure den hvilede trygt,</l>
+<l>Stammen dens Kilde alene</l>
+<l>Skylder de herlige Grene</l>
+<l>Og i dens Gaard</l>
+<l>Blomsterne vente paa Vaar.</l>
+</lg>
+<lg>
+<l>Stormene suse og Bølgerne skumme</l>
+<l>Vaandefuld sidder vor Moder i Nord,</l>
+<l>Vee os ifald hendes Læber forstumme!</l>
+<l>Hun da bortfoer.</l>
+<l>Kirken er Moder, hun har os opammet</l>
+<l>Ømt i sit Bur,</l>
+<l>Fra hendes Lunde er Spiret udstammet,</l>
+<l>Værn har Marken kun i hendes Mur</l>
+<l>Kronen ved hende kun Glands;</l>
+<l>Blomsten, o Drot! til Din Krands</l>
+<l>Voxer kun i hendes Have,</l>
+<l>Voxer paa Fædrenes Grave;</l>
+</lg> 
+<pb facs="1814_7_page0011.png"/>
+<fw type="pageNum">XI</fw>
+<lg>
+<l>I hendes Væld</l>
+<l>Der er kun Kræfter og Held.</l>
+</lg>
+<lg>
+<l>Murene skride og Haven nedtrædes.</l>
+<l>Troløse Vogtere son og nedbrød,</l>
+<l>Ukrudtet trives og Blomsten nedtrædes.</l>
+<l>Det er vor Nød,</l>
+<l>Elskede Konge; med Spiret Du frede</l>
+<l>Hellige Vang;</l>
+<l>Liflige Blommer Dig bære dens Bede,</l>
+<l>Træerne bære Dig Sang!</l>
+<l>Muren sig selv skal udvide paa Stand,</l>
+<l>Størke Din Throne og værge Dit Land;</l>
+<l>Naar i dens Gaard Du da synker til Hvile</l>
+<l>Sees over Vangen en Stjerne at smile,</l>
+<l>Det er Dit Navn</l>
+<l>Det er Dit Blik fra Fredens Havn.</l>
+</lg>
+<lg>
+<l>Tiderne skifte og Aarene rinde</l>
+<l>Naar da en Skjald udi Roskilde Vang</l>
+<l>Leder om Roser til Krandse at binde,</l>
+<l>Binde med Sang:</l>
+<l>Da skal han, Frederik! see dem i Klynge</l>
+<l>Trindt om Din Grav,</l>
+</lg> 
+<pb facs="1814_7_page0012.png"/>
+<fw type="pageNum">XII</fw>
+<lg>
+<l>Favert Din Lignelse meb dem omslynge</l>
+<l>Alt som de vinde sig op ad hans Stav,</l>
+<l>Rørt skal han skue paa Himmelens Blaa</l>
+<l>Frederik! Din Stjerne saa tindrende staae;</l>
+<l>Fromt sine Knæe han for Altret skal bøie.</l>
+<l>Prise vor Fader og Gud i det Hole,</l>
+<l>Gom ved Kong Frederiks Throne</l>
+<l>Fredede Vangen paa nye,</l>
+<l>Som under Frederiks Krone</l>
+<l>Atter gav Roserne Ly.</l>
+</lg>
+<p><hi rend="align(right)">Allerunderdanigst</hi></p>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+<pb facs="1814_7_page0013.png"/>
+<fw type="pageNum"></fw>
+<fw type="graphic"/>
+</div>
+<div>
+<head>Fortale.</head>
+<fw type="graphic"/>
+<p><hi rend="initial">D</hi>et er sandt at sige, allermeest i Norden, at Sang og Saga fulgdes alle Dage, og det er sømmeligt i dette, som i Mere, at lede om de gamle Stier og at gaae paa dem. Nist er det ei at vente, at Mange nuomtide skulle lystes ved de Riim om Rosenkilden eller ved en eenfoldig Saga om den, men aldenstund jeg veed at de Riim have glædet mig saa mangelund, og det fordi saa favre Glimt af Herrens Herlighed og Lignelser af forbigangne Dage stode mig for Øie, da maa jeg det og mene, at de der have samme Gud og samme Fædre, og vil glædes ved de samme Syn, endog de stande ei saa favre eller klare i det Runespeil, som de mig undtes. Men eftersom jeg det veed, at de sig klare meer og meer, jo meer Man taler ind med Saga, og at desværre! det var ikke Skikken i de sidst forledne Dage at tale ivrige« med hende, da maa jeg tanke, deri vel sindes dem, der see det gierne, at jeg sanker i et kort 
+<pb facs="1814_7_page0014.png"/>
+<fw type="pageNum">XIV</fw>
+Begreb de Sagas Taler, som ringede mig mest for Vre, der jeg sang om Rosenkilden. Det kommer end dertil at Mange mene, Riim er Løgn, om ikke Alt saa dog vist halvt, og denne Saga skal da trolig vidne, at hvor danne Vilkaar Skjaldskab og monne have, saa ere dog de Baand der snoe sig om Runestavene ved Rosenkilden ei vævede med Løgn til Rendegarn. Men at Man altid maatte rende saa, at Sandhed ingenlunde mindst, men allermest skulde være Skjaldes Lys, og Skjold og Role fiin, derom vilde jeg i nogle faa Fortaleriim paaminde. Nu er det vel saa, at ved en synderlig Hændelse ere somme af de Stave brudne og Baandet sønderrevet, men aldenstund det alligevel kan kiendes hvad de skulde være Mærker paa, og hvorhen de stile, sættes de her, som de ere.</p>
+<p>Det skal og denne Saga giøre vitterlig, hvorledes jeg vilde føie mine Ord, om mig nogensinde undtes Frist og Leilighed til det jeg gierne vilde, at beskrive Danmarks Krønike sandfærdig og eenfoldelig til Herrens Ære og Hans Børns Gammen.</p>
+<p>Kbhavn. 15 de Mai 1814. .</p>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+<fw type="graphic"/>
+</div>
+<div> 
+<pb facs="1814_7_page0015.png"/>
+<fw type="pageNum"></fw>
+<head>Fortaleriim.</head>
+<lg>
+<l><hi rend="initial">S</hi>kjalde i den usle Døgn!</l>
+<l>Vist I mene, I tør sjunge</l>
+<l>Løst og fast og Sandt og Løgn,</l>
+<l>Som der kommer Jer paa Tunge,</l>
+<l>Mene, naar kun Eders Kvad</l>
+<l>Klinger godt i Verdens Øre,</l>
+<l>Naar som Vinden Skovens Blad,</l>
+<l>Det kun Hierterne kan røre;</l>
+<l>Da skal prisende vi kalde</l>
+<l>Eder ligegode Skjalde,</l>
+<l><hi rend="spaced">Hvor</hi> saa Hjerterne henvendes.</l>
+<l><hi rend="spaced">Hvilken </hi> Lue der saa tændes!</l>
+<l>Altsaa er da Skjaldskabs Gave</l>
+<l>Lov til Last og Lyvestave?</l>
+<l>Saa udruster Gud en Skjald</l>
+<l>Med det klare, visse Øie.</l>
+<l>Med de Længsler, dybe, høie,</l>
+<l>Med det søde Tonefald,</l>
+</lg> 
+<pb facs="1814_7_page0016.png"/>
+<fw type="pageNum">XVI</fw>
+<lg>
+<l>For at han med falske Dromme</l>
+<l>Skal forvirre Folkets Sind.</l>
+<l>Og forsore Hjerter omme</l>
+<l>Til ved Løgn at væde Kind.</l>
+<l>For at han skal blande snild</l>
+<l>Lys og Morke, Løgn og Sandt.</l>
+<l>For at han skal lede vild</l>
+<l>Hoer, hvis Hjerte Sangen vandt?</l>
+</lg>
+<lg>
+<l>Daarlighed, som knap har Mage?</l>
+<l>Blindhed i de lyse Dage!</l>
+<l>Trods al Verdens kloge Mænd,</l>
+<l>Trods hver Skjald, som Verden lover,</l>
+<l>Om min Rost og farer hen.</l>
+<l>Som de hedenfarne Vover.</l>
+<l>Dog et Fejdebrev jeg maa</l>
+<l>Sende dig i bundne Stave,</l>
+<l>For som Løgner ei at staa,</l>
+<l>Thi og jeg fik Digtergave.</l>
+<l>Horer mig, saa saa, saa mange,</l>
+<l>Som annamme mine Sange,</l>
+<l>Jeg om Skjaldskab Holt vil tale</l>
+<l>Sendt fra høie Kirkesvale.</l>
+</lg>
+<lg>
+<l>Skjalde, Skjalde! ihukommer</l>
+<l>Eders hole Kald og Kaar!</l>
+<l>Herren i Sin Urtegaard</l>
+<l>Satte Eder mellem Blommer,</l>
+<l>For at see med klaret Sie,</l>
+<l>I dem Glandsen fra det Hole;</l>
+<l>For at see, hvor de sig ordne</l>
+</lg> 
+<pb facs="1814_7_page0017.png"/>
+<fw type="pageNum">XVII</fw>
+<lg>
+<l>Til et Gaadenavn, til Hans</l>
+<l>Ved Hvis Bliv de ere vordne.</l>
+<l>Til en hellig Straalekrands</l>
+<l>For Guds Væsens rette Billed,</l>
+<l>Udi Hvem med Guddomsglands,</l>
+<l>Synlig for den skabde Sands</l>
+<l>Klarlig Han Sig Selv fremstilled;</l>
+<l>Til en Krands, der kan omslynge</l>
+<l>Alle, som til Ham sig klynge.</l>
+<l>Alle, som i Ham vil finde</l>
+<l>Livets Grund og Livets Tinde.</l>
+<l>Verdens Skjalde! blues, bæver!</l>
+<l>Seer det Billed, hvor Han svæver</l>
+<l>Over Tiden som en Soel,</l>
+<l>Hvor fra Lysets Kongestol</l>
+<l>Straalende Hans Septer blinker,</l>
+<l>Løftes, bøies, truer, vinker!</l>
+<l>Sees om Hans Fjenders Tinde</l>
+<l>Da en Krands sig sræk at vinde</l>
+<l>Som I bandt i Verdens Sommer,</l>
+<l>Vandt af Herrens stjaalne Blommer,</l>
+<l>Flux ved Septrets Lyn den blegner,</l>
+<l>Ned fra Issen brat den segner.</l>
+<l>Kastes saa, med Løgn til Navn,</l>
+<l>Falmet i Jer egen Favn.</l>
+<l>Seer, hvor Spiret i det Hole</l>
+<l>Løstes for sig vredt at bøje!</l>
+<l>Og paa eders Øielaage</l>
+<l>Leirer sig den tætle Taage,</l>
+<l>Og Guds Blommer, hvor de staa.</l>
+<l>Ei at finde I formaa;</l>
+</lg> 
+<pb facs="1814_7_page0018.png"/>
+<fw type="pageNum">XVIII</fw>
+<lg>
+<l>Ei I see og ei I fandse,</l>
+<l>Og af Straa I binde Krandse.</l>
+<l>Og med Skræpperne paa Rad</l>
+<l>Sidder visne Rosenblad.</l>
+</lg>
+<lg>
+<l>Skjalde! Skjalde! knæler! bæver!</l>
+<l>See, i Soleglands Han svæver.</l>
+<l>Spiret straaler af Hans Haand!</l>
+<l>Sukker dybt i ydmyg Aand!</l>
+<l>See! da ned til Eders Øje</l>
+<l>Spiret venlig sig mon bøje.</l>
+<l>Blommerne i Himmelglands</l>
+<l>Staae sor helliggjorde Sands.</l>
+<l>Dufte, sanke sig i Klynge,</l>
+<l>For ved eders Haand at slynge</l>
+<l>Sig til Krandse mangefold,</l>
+<l>Straale paa den runde Vold</l>
+<l>I hvert fromt andægtigt Sie;</l>
+<l>Glimt af Glandsen i det Høje</l>
+<l>Dufte Varme, Liv og Lyst</l>
+<l>I hvert kiærligt Fraendebryst.</l>
+</lg>
+<lg>
+<l>Reenhed ei vi har ihænde,</l>
+<l>Mens vi Blommerne omspænde.</l>
+<l>Ihvor klart end Øjet funkler,</l>
+<l>Kiodets Varme dog fordunkler;</l>
+<l>Vi i Baand af Støv dem binde.</l>
+<l>Og hvor fiint vi Traaden tvinde,</l>
+<l>Finere end vores Silke</l>
+<l>Ere dog de Blomsterstilke</l>
+</lg> 
+<pb facs="1814_7_page0019.png"/>
+<fw type="pageNum">XIX</fw>
+<lg>
+<l>Og hvor nænsomt end vi bøje,</l>
+<l>Dog de brydes for vort Sie,</l>
+<l>Og i Stilkens rene Saft</l>
+<l>Der er Blommens Duft og Kraft.</l>
+</lg>
+<lg>
+<l>Ja, hvor klart end Øjet funkler,</l>
+<l>Verdens Taage dog fordunkler.</l>
+<l>Valmublad og Brændenelde</l>
+<l>Smitte, slove og vanhelde;</l>
+<l>Men, naar Krandsene sig vinde</l>
+<l>Villige om Helgentinde;</l>
+<l>See! da med sit Straalespir</l>
+<l>Rorer Solen faldne Blade,</l>
+<l>Fro de sig i Lyset bade;</l>
+<l>Som Smaragd og som Saphir</l>
+<l>Lysne de, mens Nelden blegner;</l>
+<l>Kneise, medens Valmu segner,</l>
+<l>Taagen da maa Storken miste,</l>
+<l>Støvets Vaand maa skiørnes, briste,</l>
+<l>Himmelgrøden atter kommer</l>
+<l>I de favre, brudte Blommer;</l>
+<l>Venlige de voxe sammen,</l>
+<l>Ja indgro med hellig Gammen</l>
+<l>I den store Blomsterkrands,</l>
+<l>Som, naar Tiderne udrinde.</l>
+<l>Med saa mild en Sølverglands</l>
+<l>Skinne skal om Brudens Tinde,</l>
+<l>Duftende sig yndig slynge</l>
+<l>Om den ganske Helgenklynge,</l>
+<l>Coig sig i Ham forgylde.</l>
+</lg> 
+<pb facs="1814_7_page0020.png"/>
+<fw type="pageNum">XX</fw>
+<lg>
+<l>Og til Hvem Den <hi rend="spaced">skulde</hi> groe.</l>
+<l>Udi Hvem al Guddomssylde</l>
+<l>Legemlig skal evig boe.</l>
+<l>Ja, det er vort blide Kaar</l>
+<l>Her, som i en tidlig Vaar</l>
+<l>Krandsen vi os kan indbilde,</l>
+<l>Vi med Synets indre Sands</l>
+<l>See os selv i Livets Kilde</l>
+<l>Klarede i Himmelglands.</l>
+<l>Haven Gud os gav herneden</l>
+<l>Grændsen op til Herrens Eden,</l>
+<l>Aandelig det til os vifter</l>
+<l>Giennem Sprinkelværkets Rister</l>
+<l>Og i Anelsen vi sinde</l>
+<l>Duft af det, som er derinde.</l>
+<l>Fryd dig bævende, o Skjald!</l>
+<l>Som dit Kaar er og dit Kald;</l>
+<l>Giennem dig sig skal afbilde</l>
+<l>Hvad du saae i Livets Kilde,</l>
+<l>Gennem dig skal i det Brede</l>
+<l>Rosenduften sig udsprede.</l>
+<l>Du er Livets kaarne Speider.</l>
+<l>Du er Herrens Medarbejder,</l>
+<l>Hvem fik Skjaldskabs Ædelsteen,</l>
+<l>Billedvæv og Silketeen;</l>
+<l>Som sig ei maa dybt nedböie,</l>
+<l>Med det Kaar og Kald for Øie,</l>
+<l>Synge Tak, og Sukke drage.</l>
+<l>Synge, sukke alle Dage:</l>
+<l>Hvo tor sig vel dygtig kalde</l>
+<l>Til det Værk, som egner Skjalde!</l>
+</lg> 
+<pb facs="1814_7_page0021.png"/>
+<fw type="pageNum">XXI</fw>
+<lg>
+<l>Blommer ved Guds Rosenkilde!</l>
+<l>I, hvis Lignelse jeg vilde</l>
+<l>Som ieg saae den, her afbilde,</l>
+<l>I, hvis Duft mig blev tilviftet.</l>
+<l>Og igiennem mig udskiftet!</l>
+<l>Ak! den klare Himmelfarve</l>
+<l>Kunde ei mit Billed arve.</l>
+<l>Og min egen Aandeluft</l>
+<l>Blandet sig med Eders Dust!</l>
+<l>Konger! Riddere og Klerke!</l>
+<l>Blomster i mit Landemærke!</l>
+<l>Skuffed mig maaskee min Sands,</l>
+<l>Blev I Knippe og ei Krands?</l>
+<l>Blomsterkrandse som jeg bandt</l>
+<l>Mon jert Hvilested I fandt,</l>
+<l>Eller maatte I jer vinde</l>
+<l>Om Ugudeliges Tinde,</l>
+<l>For al falde under Klage</l>
+<l>Visne i mit Skiød tilbage?</l>
+<l>Helgne! har jeg eder sandset,</l>
+<l>Saa at Ingen blev ukrandset?</l>
+<l>Bød jeg alle Blomster neie</l>
+<l>For det Hoved dem mon eie?</l>
+<l>Ak! jeg er en syndig Mand</l>
+<l>Hvem o hvem har ret Forsland</l>
+<l>Paa Vildfarelse herneden.</l>
+<l>Og paa Blommer i Guds Eden!</l>
+<l>Havets Sand og mine Fald</l>
+<l>Ei paa dennem veed jeg Tal,</l>
+<l>Det kun veed jeg, i den Stund</l>
+<l>Der jeg saae de Blommer klare</l>
+</lg> 
+<pb facs="1814_7_page0022.png"/>
+<fw type="pageNum">XXII</fw>
+<lg>
+<l>Sig ved Kilden aabenbare,</l>
+<l>Sukked jeg af Hiertens Grund</l>
+<l>Til den Herre, som kan ene</l>
+<l>Syn og Sands og Alt forlene;</l>
+<l>At de til Haas Pris sig slynge</l>
+<l>Maatte i hinandens Favn,</l>
+<l>At de taet sig maatte klynge</l>
+<l>Alle om Hans store Navn;</l>
+<l>Det jeg veed, at mens jeg plukked</l>
+<l>Mens jeg bandt, saa tit jeg sukked</l>
+<l>Naar sig Synerne forvirred</l>
+<l>Og naar Tankerne blev vilde;</l>
+<l>Det jeg veed, at vist jeg stirred</l>
+<l>Paa den klare Livets Kilde.</l>
+<l>Mod den klare Livets Soel,</l>
+<l>Mod den lyse Kongestol,</l>
+<l>Det jeg veed, kun <hi rend="spaced">Sandhed</hi> vilde</l>
+<l>Jeg i Hjerterne indbilde;</l>
+<l>Det jeg veed, at om jeg vidste</l>
+<l>Hvilken Blomst jeg Løgnen gav.</l>
+<l>Flux da skulde Krandsen briste</l>
+<l>For min egen Sagastao.</l>
+<l>Derfor Stave! jeg jer begge</l>
+<l>Overkors tør dristig lægge.</l>
+<l>Overkors i Krandsens Favn</l>
+<l>Som jeg bandt i Jesu Navn,</l>
+<l>I Hans Navn jeg knæler da</l>
+<l>Synger mit Halleluja!</l>
+<l>Priser Ham som lod det lyne.</l>
+<l>Lysne, for min vakte Sands,</l>
+<l>Priser Ham, som lod sin Glands</l>
+</lg> 
+<pb facs="1814_7_page0023.png"/>
+<fw type="pageNum">XXIII</fw>
+<lg>
+<l>For mig Sløvets Søn tilsyne.</l>
+<l>Priser Ham, Hvist Miskundhed</l>
+<l>Sig fornyed hoer en Morgen;</l>
+<l>Gode Gud i du bedst det veed.</l>
+<l>Naar saalidt jeg stod med Sorgen.</l>
+<l>Stirred sorgfuld paa mig selv</l>
+<l>Paa den store, blinde Vrimmel,</l>
+<l>Som i Verdens Edderelv</l>
+<l>Vil oplede sig en Himmel,</l>
+<l>Naar jeg skjalv for dine Domme</l>
+<l>Over Dagene som komme;</l>
+<l>De forgangne Tiders Billed</l>
+<l>Du da blid mig forestilled.</l>
+<l>Lod den store Helgenskare</l>
+<l>Sig for Siet aabenbare,</l>
+<l>Lod mig see din Kraftes Haand,</l>
+<l>Hvordan Tiderne den vender.</l>
+<l>Lod mig fole hvilken Aand</l>
+<l>Øine Kiære du tilsender;</l>
+<l>Duft fra Altret for din Throne,</l>
+<l>Lyd af Engleskarens Sang,</l>
+<l>As de Gamles Harpeklang</l>
+<l>Og af Sphærers Orgeltone</l>
+<l>Lod du suse, lod du aande</l>
+<l>Og bortaande al min Vaande.</l>
+<l>Livets Træ og Livets Krone</l>
+<l>Lod du naadefuld mig skimte.</l>
+<l>Øine Lyn du bod at glimte.</l>
+<l>I uvordne Dage saae</l>
+<l>Jeg din Kirke prud opstaae.</l>
+<l>Hørte fra dens Buegange</l>
+</lg> 
+<pb facs="1814_7_page0024.png"/>
+<fw type="pageNum">XXIV</fw>
+<lg>
+<l>Hjertesuk og Jubelsang?.</l>
+<l>Paa mit Ansigt faldt jeg da,</l>
+<l>Hulked mit Halleluja</l>
+<l>Takker Herren! Han er god</l>
+<l>Evig er Hans Miskundhed!</l>
+<l>Fotte Kraft og helligt Mod</l>
+<l>Til at gaae i Helgenfjed,</l>
+<l>Til, med Øiet paa Guds Eden</l>
+<l>Giennem Strid at vinde Freden,</l>
+<l>O! tilgiv nu Herre sød!</l>
+<l>Hvad jeg bøied, hoad jeg brød,</l>
+<l>Hvad forblindet jeg forsaae,</l>
+<l>Hvad forvirret jeg forlegned.</l>
+<l>Hvad forvildet jeg forregned,</l>
+<l>Naar forvoven at forstaae</l>
+<l>Øine Ord jeg mig tilegned!</l>
+<l>Glem min Brode, dølg min Feil!</l>
+<l>Blank det dunkle Tonespeil!</l>
+<l>Rør med Spiret fra det Høie</l>
+<l>Naadefuld det fromme Øie,</l>
+<l>Saa det skuer Blomst og Billed</l>
+<l>Som mig Du dem forestilled,</l>
+<l>Saa det fromme Hjerte maa</l>
+<l>I min Sang kun Dig forstaa.</l>
+</lg>
+<fw type="graphic"/>
+<lg>
+<l>Hæng nu Speil paa Kirkesvalen!</l>
+<l>Hæng nu Krands i Riddersalen!</l>
+<l>Aabenbar i Jesu Navn</l>
+<l>Hvad dig lagdes udi Favn!</l>
+<l>Lad din Duft i Kirkehaven</l>
+<l>Vifte over Rosengraven!</l>
+</lg> 
+<pb facs="1814_7_page0025.png"/>
+<fw type="pageNum">XXV</fw>
+<lg>
+<l>Størk og trøst og glæd de Fromme!</l>
+<l>Kundgier Verden Herrens Domme!</l>
+<l>Jeg maa vandre, jeg maa ile</l>
+<l>Har i Verden ingen Hvile,</l>
+<l>Jeg maa færdes, jeg maa stride.</l>
+<l>Medens Timerne henskride;</l>
+<l>Men naar Timen er udrunden.</l>
+<l>Gloe Gud i Afskedsstunden</l>
+<l>Jeg i Aanden dig maa skue</l>
+<l>Luttret under Stjernebue,</l>
+<l>Voxet i den store Krands</l>
+<l>Glødet i den rene Glands,</l>
+<l>Blinke, vinke og omvinde</l>
+<l>I Guds Helgenflok min Tindel</l>
+</lg>
+<lg>
+<l>Tie o Harpe! standser Strænge!</l>
+<l>Hvorfor dirre I saalænge?</l>
+<l>O, jeg veed det I fornemme</l>
+<l>Hvad jeg føler dybt i Bryst,</l>
+<l>Naar I klonge saa ned Lyst,</l>
+<l>Er det, som vi alt var hjemme.</l>
+<l>Hjemme der, hvor de vi love</l>
+<l>Under Herrens Alter sove.</l>
+<l>Hjemme der, hvor Glæden bygger</l>
+<l>I de brede Palmeskygger;</l>
+<l>Svundne ere Verdens Taager,</l>
+<l>Muldet sover, Aanden vaager;</l>
+<l>Sagtens maa da Tungen lære</l>
+<l>Peders: her er godt at være.</l>
+<l>Sagtens vilde vi med Glæde</l>
+<l>Lade Styver overklæde.</l>
+</lg> 
+<pb facs="1814_7_page0026.png"/>
+<fw type="pageNum">XXVI</fw>
+<lg>
+<l>Gange uden Dod saa rolig</l>
+<l>Ind i Aandens Himmelbolig;</l>
+<l>Men en Daab vi har tilbage,</l>
+<l>Men en Kalk vi har at smage,</l>
+<l>Vi maa døbes, vi maa dømmes,</l>
+<l>Ja, den Kalk, den maa udtømmes.</l>
+<l>Men, o Gud naar Slangens Vraad</l>
+<l>Saarer, piner med sin Od,</l>
+<l>Raar i Spot os Verden kvæger</l>
+<l>Med det bittre Galdebæger,</l>
+<l>Nask en Draabe, Fader milde?</l>
+<l>Af den søde Rosenkilde;</l>
+<l>Hellig Korses Kildespring</l>
+<l>Med den favre Rosenring!</l>
+<l>Øiet rør, saa det sig hæver,</l>
+<l>Aand paa Strængen saa den bæver,</l>
+<l>Saa i Gienlyd vi fornemme</l>
+<l>Fra det Chor en Englestemme,</l>
+<l>Saa med Sang vi Suk neddæmpe</l>
+<l>Saa den gode Strid vi kiæmpe,</l>
+<l>Stædes ind med Livets Krone</l>
+<l>For dit Ansigt, for din Trone,</l>
+<l>Vorde hvad vi saae herneden:</l>
+<l>Rosenblommer i Dit Eden ! !!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div> 
+<pb facs="1814_7_page0027.png"/>
+<fw type="pageNum"></fw>
+<head>Roskilde-Saga.</head>
+<fw type="graphic"/>
+<p><hi rend="initial">D</hi>ermed begynder Snorro sin de Norske Kongers Krønike, at eftersom man siger, da er Verdens Kreds, som beboes af Menneskens Børn, meget indskaaret paa den Viis, at store Havfjorde indløbe i Landet fra Udsøen af, og det gaaer i dette Stykke, som ellers i saa mange, at det Stores Lignelse er i det Smaa tilsyne, thi og om Sølund, det som nu kaldes Sjælland, er det her først at melde, hvorledes det Vand, som kaldes Isefjord kommer fra Søen og giør et stort Indskaar i Landet. Det er og et Folkesagn, at Sølund hørte for til Sverrigs Skov og laae der, hvor det Indskaar, som kaldes Mælaren, er nu tilsyne, og Snorro siger at alle Næssene i Solund passe end til Søens Vige. Det er da ei utroligt, at en underlig Skilsmisse haver her begivet sig 
+<pb facs="1814_7_page0028.png"/>
+<fw type="pageNum">2</fw>
+i gamle Dage, og dot allermest, fordi det ei er troligt at den Skjald Brage hin Gamle sang om Ingenting, og stod dog til Troende siden, i det han billedlig fortalte at den Kvinde Gefion, som kom herind med Asamanden Odin, pløjede den brede Fure, hvor nu Øresundet er, og havde sire Jettesønner til at drage Plov i Øxneham, men Brage kvad saalunde:</p>
+<lg>
+<l><hi rend="align(center)">Gefion drog fra Gylfe,</hi></l>
+<l><hi rend="align(center)">Grubeglandsens Herre,</hi></l>
+<l><hi rend="align(center)">Danmarks Tllægsager,</hi></l>
+<l><hi rend="align(center)">Damp slog op af Renen.</hi></l>
+<l><hi rend="align(center)">Otte Vandestierner</hi></l>
+<l><hi rend="align(center)">Stod i Hovder sire,</hi></l>
+<l><hi rend="align(center)">Der den kiære Ølund</hi></l>
+<l><hi rend="align(center)">Øxne blev til Bytte.</hi></l>
+</lg>
+<p>Det skal da have været i den næste Old for Herrens Fødsel, der de Romere vare mægtige i Verden, og mange Høvdinger flydde for dem, og Asamanden Odin kom til Fyen, til Odinsø, at Sølund blev adskildt fra Sverrig og eiedes af Gefion, og hun giftede sig med Skjold, som var Odins Søn, efter ham ere Dannemarks Konger kaldte Skjoldunger siden, og han skal have sat Boe paa Leiregaard *).</p>
+<p>*) Heimskringle Fol. 9.</p>
+<pb facs="1814_7_page0029.png"/>
+<fw type="pageNum">3</fw>
+<p>Der gik i gamle Dage et Vandløb inde fra Landet og ud til Isefjord, det skal være der, som Stæden nu kaldes Kornerup Aa, og derpaa kunde Smaaskibe feile ind til Leiregaard, der hvor Kongerne boede, og det fornemste Offersted var, saalænge de Danske holdt ved Afgudsdyrkelse; men det Vandløb er nu heel udtørret, og vel maa det, for al sin Lejligheds Skyld, agtes som et Billede af Asabækken, der engang dog nogenlunde kunde bære det aandelige Skib til Godehavne, men fordærvedes saa under Tidens Løb, at hver som stævnede ad den, forliste visselig.</p>
+<p>Det var end i Hedenold, da sad der paa Leiregaard en Konge som hed Roe, og det er sagt om ham, at Kildevangen, der hvor Isefjorden endes, forlystede ham, og han lagde Grundvold til den By som efter ham blev kaldet Roes Kilde *). Det er blevet til en mærkværdig Bye og en navnkundig Stad i de andre Lande, thi der Herrens Time kom, at de skulde nyde Godt af de hellige Propheters Syn om Galilæas Bæk, som skulde tomme til Havet og bringe Liv og Lægedom til det som deri vrimlede, og om Ørken der skulde arve Sarons Prydelse og blomstre som en Rose **); see da blev Roskilde Danne-</p>
+<p>*) Vedels Saxo 3o.</p>
+<p>**) Ezech. 47. Esa. 35.</p>
+<pb facs="1814_7_page0030.png"/>
+<fw type="pageNum">4</fw>
+<p>marks Hovedstad i alle Maader. Underligt er det derfor ikke heller, at der var en Tid, da man udledte Byens Navn af Rose, thi der spirede Nordens Christne Tornerose, derfra udgik dens Duft over Nørrelande, ja, det ypperste Væld udi Vangen hedder endnu den Dag i Dag: Hellig Korses Kilde, og giver dermed Slædens Leilighed tilkiende. Saalunde skiuler det Aandelige sig i de legemlige Ting, og begge Sammenbindes i Ordet, som vore Midler, men at opdage dette Frændskab og lade det tilsyne, det er Skjaldskabs besynderlige Idræt. Ligger da nu det udtørrede Vandløb ind til Leiregaard for os som et Billede paa Asalæren, da maa det Sagtens rinde os ihu, at Fjorden, som end bred bølger sig til Roskilde Bye, her passelig betegner Christendom, ogsaa for den Sags Skyld, at Ingen veed hvorledes Asatroen kom ind i Norden; men Christendommens Vei er vitterlig, fordi den havde Lyset med, og Lyset aabenbarer Alt.</p>
+<p>Det var over otte hundrede Aar efter Herrens Byrd, da Guds Ord først ved Ansgar blev aaben« bar forkyndt i Nørreland, og mange, mest i Iylland bleve dræbte, og deriblandt var Harald Klak, en Jarl i de jydske Landemærker. Noget efter blev Kong Gorm Leirekonge, ban er kaldt den Gamle og den Grumme, og det ikke uskiels. Der er en gammel Sang paa gammel dansk eller islandsk Tun-
+<pb facs="1814_7_page0031.png"/>
+<fw type="pageNum">5</fw>
+gemaal, som heder Vøluspaa, det er Volas Spaadom, og det er vist, at imellem alle Sange som ere komne til os fra Hedenold, og undervise os om Hedningers Tro, er der ingen fundet, der med saa dyb Alvorlighed toner om de guddommelige Ting, og aabenbarer saa klarlig, at Gud aldrig har ladet sig Selv uden Vidnesbyrd, men baade ladet Sandsagn udbrede sig med Folkenes Slægter og talt dybe Sandheds Ord til de Skjalde, som ydmygelig vendte Viet mod det Høie; Verdens Ned og Verdens Ende, de Ondes evige Pinsel og de Godes Haab om en ny Himmel og en ny Jord, høres der forkyndt i Prophetisk Tale. Det var nu vel saa, at Vøluspaa blev giemt i det mindste der, hvor den vist er slunget først, mellem Norges Fjelde, og agtet sor en Hellig« dom; men det er godt at see paa de andre Sange, som vi har fra Hedenold, at den blev tidlig mørk for Folket, og Skjaldene som fulgde efter, nævne knap det Ypperste, og hvad de nævne, det forvanske de til Eventyr, og blande det med Sagn om Asamanden Odin og hans Følge, som formastelig tiltoge sig en Guddomsværdighed; det gik, som skrevet staaer, de bleve forfængelige i deres egne Tanker og det uforstandige Hjerte blev formærket. Gik det saa i Norge, Skjaldes nordiske Hjem i denne Alder, da kan Man tænke, hvor grovt Afguderiet maatte vorde i Sverrig, hvor, saavidt vi veed, ei nogen Skjald 
+<pb facs="1814_7_page0032.png"/>
+<fw type="pageNum">6</fw>
+har sjunget, og i Dannemark, hvor det laber til, at Skjalde alt vare saare sjeldne ved Christi Fødsels Tid, da Ordet gaaer, at Danmarks Krone da udsættes til en Pris for Ligvers over Frode Fredegode. Vi see det og af Snorros Bog, at svenske Mænd troede paa deres Konger, dyrkede den mest, i hvis Tid de havde rigest Høst, og slagtede først Fæ, saa Mennesker, saa Kongen, naar Aarene slog feil *). Det vidner Helmold, at det var i Dannemark ei meget bedre, og at Mennesker paa gruelige Maader offredes til Djævlene i Leire, og det stadfæster Saxo **), naar han melder om den Konge Gorm som søgte Trøst i Gurrødsgaard, om hvilken der dog ellers synges, at den var onde Aanders Bolig. Det kan vi da forstaae at der var Nød paa Færde, der Christendommen kom herind, og hun kom alt som en Kvinde med Harald Klaks Daatter, Thyra Danebod, det er de Danskes Trost og Bod, som Thyra var i mange Maader og Christendommen blev Mulde. Det Onde stod dog hardt imod, og Thyras Mand, den gamle Gorm, var ret et Billed paa den blodige og vilde Kæmpetro; men der Herrens Engel slog ham midt i sit Palads, da blev Thyras Søn,</p>
+<p>*) Heimskringla Folio 21 og 22.</p>
+<p>**) Vedels Saxo 185.</p>
+<pb facs="1814_7_page0033.png"/>
+<fw type="pageNum">7</fw>
+<p>Harald Blaatand, Konge. Enstund forfulgte han vel Krigen og hørte ikkun Oddesang og Piler@sse, men han stod dog ei Sandhed imod, og der den tydske Kejser Otto hin Røde feidede paa Dannemark seierrig, da lod Harald sig døbe, og flottede sin Kongestol til Roskilde Bye, og byggede der af Træ den første Kirke, den Hellige Trefoldighed til Kre, og her blev han begravet, der han var falden for Palnatokes Piil i Striden med hans egen Søn, Svend Tjugeskiæg. Det fige Saxo og Adam af Bremen, at Harald var Christen i Sind og en hellig Martyr at nævne, men Snorro, og han som skrev den store Olav Trygvasens Saga og flere Islændinge tale heel anderledes om ham, og sige, at han slog sin Broder Knud Dannekiær ihjel, og voldte ligeledes svigefuld sin Brodersøn Guldharald og den norske Konge, Harald Graafeld sin Fostersøn, og Aage, Palnatokes Farbroder, Banesaar, med anden Skalkhed som de lægge ham til Last. Hvad af os kan herom dømmes, er vel dette, at Adam og Saxo har kun sagt det Bedste, og Nordmænd kun det Værste, som de vidste; Saxo maa vel troes i det Stykke, at Knud blev flagen af de Engelske, og allen« falds er det værd at mærke, at al den onde Bedrift tillægges Harald før han blev døbt. Vi maa og betænke hvad Knytlingasaga formelder, at han var ingen storvittig Mand, og at derimod hans onde 
+<pb facs="1814_7_page0034.png"/>
+<fw type="pageNum">8</fw>
+Raadmænd, Fjølner og den norske Hakon Jarl vare besynderlig drevne i al Skalkhed og Underfundighed. Nu at domme Harald efter Nordmænds Ord allene er just det samme som at dømme Constantin den Store efter den Hednings Zozimi Tale, og glemme at Had dog altid sværter værre end Kiærlighed sminker.</p>
+<p>Saa forleed da over Tohundrede Aar, medens Dannemarks Konger mest holdt Huus i Roskilde By, og det meste af denne Tid, det er, indtil Erik Eiegods Dage, vare Roskildes Bisper, saa at tale, Ypperstepræster i Norden. Aldenstund vi nu med Ordets Lys i Haand randsage Kongens Gaard, da maa det tykkes os heel usporligt at Rosen stod saa nær derhos, ja Man kunde vel tvivle, om der og blomstrede ved Isefjord een af de rette. Det er en gruelig Ting, at Tveskiæg bød sin Fosterfader til Giæst og vilde lumskelig ladet ham slaae overborde, og at hans Hofsinder speddede en af Bjørn hin Bretskes Mænd, som var fulgdes med Toke; men det er at mærke, at Tveskiæg var al sin Tid en ond Hedning i Sind, og havde selv i Hjertet flaget sin Fader ihjel, og havde sin Lyst af at øde Kirker og pine Klerker, og rane Helligdomme. Det er end at mærke, at ligesom det vist paa en Maade var den hellige Edmund, det vil sige, en Herrens Engel, der slog den Kirkerøver ihjel, saa kom hans Been 
+<pb facs="1814_7_page0035.png"/>
+<fw type="pageNum">9</fw>
+vel knap i christen Jord, end sige til Hans Hr. Faders i Roskilde; thi det er sagt, at de Medes ind paa Engellands Kyst, men Ingen veed om de landede siden og hvor de sank. Nu maatte Man vel sige, at Store Knud var en Klerkeven og en Kirkebygger og Klosterforgylder, og teede sig derfor ikke desbedre i Roskildegaard, og det er sandt, at det Skaktavl han legede der med Uls Sprakelæg, som Maag, er ei at undskylde og mindre at rose *); men vist er det og usømmeligt, at dømme en Konge i visse Dele, som andre Mænd, og mere at dømme Folket og Tiden efter en eenlig Gierning i Kongens Gaard, enddog deres Vilkaar synes der og kiendes i Kongernes hele Bedrift. Det skal Man da først og</p>
+<p>*) Det maa vel meldes at i Talen om Ulf Jarls Mord ere Saxo og Snorro, som ellers saa tit, heel ueens. Det sige begge, at Knud voldte ham Banesaar, men Saxo melder, at han i sin Drukkenskab begyndte at kvilde Nid om Knud, og blev da mat for Kongens Aasyn ved hans eget Træk, det siger Snorro derimod, at han paa Kongens Ord blev myrdet først Dagen efter i Hellig-Trefoldigheds Huus. Læmpeligst sor Knud er Saxos Tale, men rimeligst er Snorros, kun det skal vi agte, at Begge vidne eens i det, at Ulf forhaanede Kongen, korend hans Død blev beskikket.</p>
+<pb facs="1814_7_page0036.png"/>
+<fw type="pageNum">10</fw>
+<p>fremmest ihukomme, at enddog Synd er altid Synd, og fordømmelig, naar den saa bedrives, saa er det dog ikke tilladt for Menneskens Børn at dømme en Alder saa haardt for den Synd, af hvilken den efter sine Vilkaar mest monne fristes, som for en anden. Ligerviis som vi nu maa have ret Vederstyggelighed til den Ungersvend, der omgaaes med Falskhed og Rænker, men derimod maa ynkes mest, naar han lader sig bedaare engang af Kiødsløst eller Vrede, til usømmelig Handel, saaledes skal vi og betragte de Gamle, der i dette Stykke ere Ungersvende mod os, afskye Tvestiægs Rænker og klage over Knuds Hastighed. Om nu ellers den stormægtige Knud var saa stor, som han lod, eller om det var alt sor øiensynligt i visse Dele, at han var sin Faders Søn og elskeds Engelland mest, det kommer ei saa i Besynderlighed Roskilde ved, men mærkeligt maa det vel nævnes, at hans Been ei heller kom derhen. De stædtes til Jorde i Landet hvor de helst vilde være *), men finge at mærke, at der var bedre Fred li det danske Skur, end under den engelske Hvælving, thi</p>
+<p>*) Saxo synes vel at have sagt, at Knud begroves i Rothemag, men de Engelske maa vel troes, som vidne, at han jordedes hos de sachsiske Konger i St. Peders Kloster i Vinchester. Suhms Danm. Hist. T. 3. S. 150.</p>
+<pb facs="1814_7_page0037.png"/>
+<fw type="pageNum">11</fw>
+<p>det skedte 1642 i Cromvels Dage, da kom en af de galne Sværmere, levende og døde Honningers Fiender, Villiam Valler til Kongernes Grave, brod Kisterne op, og bestrøede Gulvet med Benene og Støvel af christne Konger *).</p>
+<p>Det er et uhæderligt Sagn om Knud, at Thoraren Lostungers bespottelige Omkvæd paa Drapen, det er: Kiæmpevisen om ham: Knud styrer Jorden, som Gud Himmelen, klang godt i hans Øre; men det er et hæderligt, at han giorde sine Hofsinder tilskamme, der de vilde indbilde ham Saadant, og at det er det rette, er i hans Levnet tilsyne, vi mærke det og, naar vi see paa den Præst, han førde med sig vesten over Hav til Roskilde Bye, thi det var den Mand, som ikke tog læmpelig just paa dem i bløde Klæder; det var Vilhelm Engellænder, som blev Bisp i Roskild, og levede med Kong Svend, som Ven med Ven.</p>
+<p>Det er baade mærkelige, og, i visse Dele, morke Taler, som føres til Tidende om Ulf Jarls og Estrids Søn, Knuds Søstersøn, Kong Svend. Det er vitterligt nok, at den mandlige Kongestamme udgik med Knuds Son Hardeknud, og at Danne-</p>
+<p>*) Suhm 3. 3. S. 754: Om det ellers ikke var Knuds lig. der »752 sundes i Steenkisten under Gulvet, maa man vel lade usagt.</p>
+<pb facs="1814_7_page0038.png"/>
+<fw type="pageNum">12</fw>
+<p>mark da lom under Norges Konge, Magnus hin Gode, men derom føres adskillig Tale, hvorledes Svend fik Kongenavn, dog maa det vel kaldes vist, at han enstund var Magni Jarl, og stiftede Navn med Landsfolkets Villie *). Det er tilvisse en gruelig Ting at bryde Tro og Love, men det vidne og Alle, at Svend forglemte i sin Ungdom Herrens Frygt, det kiendes og paa hans Levnet, og det var aldrig Herrens Viis, at giøre sine Tjenere saa mange Dage flygtige for deres Fjenders Aasyn, uden naar de havde grovelig forbrudt sig imod Ham. Det var</p>
+<p>*) Var ikke Snorros Ord saa troværdige, ja i dette Stykke saa lovfaste, at de aldrig kan rokkes med Sandhed, da maatte Man vel tænke at Saxo og Adam af Bremen havde Ret, og at Svend ikke havde svoret Magnus, thi Man vil nødig tro Saadant om stig en Konge. Underlig maa den Ting have hængt sammen, thi at Svend ingen Niding var, det sees af alle Dele og vel vissest deraf, at Magnus havde selv gode Tanker om ham i sin Død, og at de norske Skialde, naar de rose Magnus i hans Handel med Svend. lægge til, at det skal være Svend ufortalt. Rimeligt er det, at Landssolket, som var kiær af en indfødt Konge, selv har ægget Svend til at falde fra Magnus, han er dermed ingenlunde undskyldt, men Ma@ forstaaer paa den Maade bedre hans Færd, og dømmer ham mildere.</p>
+<pb facs="1814_7_page0039.png"/>
+<fw type="pageNum">13</fw>
+<p>ei dermed gjort, at han maatte flye af hvert Slag for Magni Ansigt; men endnu, der denne Herre var hensovet, og hans Farbroder, den onde Harald Haardraade fad paa Norges Kongestol, maatte Svend stye af Striden, og det fornemmelig i det store Slag ved Nisaa under Hallands Side. Der maatte han enlig i en liden Baad tigge Liv og Fred af Norges Jarl, Hakon Iverson, den Mands Søn, som havde myrdet Ulf, men havde været Svends Tiener, der han engang var landflygtig fra Norge. Svend kom i sit Behold til Halland, men der maatte han høre, Hvad man dømte om hans Vanheld saa en Kiærling klagede, at danske Mænd havde nu en Konge, baade ræd og lam, og kaldte ham en Tølper, fordi han toede sig midt paa Haandklædet *). Alligevel blev Svend en hædret Konge paa det Sidste, Skjalde sang om Kap for ham, og Svensken tugtede han, og det, som var det ypperste, han blev en fiin, guds flygtig Herre, som Adam og Saxo vidne, og som er aabenbart af den Handel med Vilhelm, hvorom det Riim er giort efter Saxos bevægelige og sandfærdige Tale **). Han var da den næste Konge efter</p>
+<p>*) Peder Clausens Snorro: S. 327-28. Arilds Krønite S. 79-80.</p>
+<p>**) Vedels Saxo S. 241-44.	.</p>
+<pb facs="1814_7_page0040.png"/>
+<fw type="pageNum">14</fw>
+<p>Harald Blaatand, hvis Been kom til at sove i Roskilde Kirke, og i hans Gravskrift staae de mærkelige Ord:</p>
+<lg>
+<l><hi rend="align(center)">Ei er standhaftig den verdslige Magt</hi></l>
+<l><hi rend="align(center)">Derfor, o Jorderigs Konger!</hi></l>
+<l><hi rend="align(center)">I hige Efter Guds Rige! *)</hi></l>
+</lg>
+<p>Det er Ord, som kunde sømmelig staae over hver Kongeborg og Kongegrav, og skulde staae alle Jorderigs Konger stadelig sor Øine, men de lægges og med god Føie netop den Konge i Mund, der ei allene havde prøvet Lykkens Omskiftelse saa mangefold, men og Sindets til Omvendelse, som ei fortrydes, aldenstund Staven vendes til Guds Rige, og Spiret skyder til en evig Blomme. Det var ogsaa Ord i samme Mening hvilke Gregor den Syvende skrev fra Rom til Svend, der han lagde ham hans Kongekald paa Hjerte, og stilde ham for Hie den Himmelkonges Majestæt, som skal domme Verdens Drotter **).</p>
+<p>*) — <hi rend="latine">qvia stare neqvit, heu, terrena potestas Terrarum Reges, qværite regna Dei</hi>!</p>
+<p>**) Gregors apostoliske Breve til Svend staa paa dansk at læse hos Suhm (D. H. D. 4 S. 451-66) og det er mærkeligt hvad han tilføier: at enddog Paven søgde Svends Venskab, rosde han ham dog ikke, uden i det, som var Roes værd</p>
+<pb facs="1814_7_page0041.png"/>
+<fw type="pageNum">15</fw>
+<p>I de samme Dage var det, at den Hellig Trefoldigheds Kirke blev opmuret af Steen, thi det stedte ved Biskop Vilhelms Omsorg, og ved hans Eftermands, den Svend <hi rend="spaced">Norbagge</hi>, som havde været Kong Svends Capellan, og var et snildt Ho« ved, i Begyndelsen vankundig i de Romeres Tungemaal, men siden en Mester derudi og i boglig Konst efter den Tids Leilighed, der <hi rend="spaced">Dannemarks</hi> Konge havde ladet ham optugte hos boglærde Mænd *). Man maa vel tænke, at Kirken fik Raad til at føre sig saa stadselig op ved det, at Svend bødte sit Brud paa dens Fred med Hælvden af <hi rend="spaced">Stævnsherred</hi>; men skal den, i sin Prægtighed rettelig lignes ved Klinten, da maa Steenkirken staae os for Die som et udvortes Tegn paa den verdslige Anseelse og Nælde, som i de samme Dage begyndte at falde i dens Tjeneres Lod, og da maa</p>
+<p>og formanede hannem frimodig. Deraf sees, at gamle Suhm dømde forstandeligere om Gregor, end dem der sige, at <hi rend="spaced">hans Breve</hi> vidne imod ham, i denstæd, de som læste dem med Eftertanke, vel maa sande med <hi rend="spaced">heeren</hi>, at vidner Noget for ham, da er det just dem.</p>
+<p>*) Vedels Saxo S. 247. her som saa tidt feer Øiet det Enkelte spaa om det Hele, som det siden skal aabenbares.</p>
+<pb facs="1814_7_page0042.png"/>
+<fw type="pageNum">16</fw>
+<p>det være sandt, at Sligt var til Gavn efter Tidernes Lettighed, enddog det er sandt til alle Tider, at Christi Rige er ei af denne Verden. Aldenstund vi nu tænke ret paa de Dages Vilkaar, da store Folk begyndte at bygge sig store Huse og stærke Borge, da Konger og Fyrster rede frem med stadselige Riddere og mangfoldige Svende, saa hver Riddersmand havde sine, saa maa vi vel bekjende, det gjordes behov, at man paa Kirkens Bygning kunde see, den var og en stor Herres Huus, og paa dens Tjenere, at de vare en rig og mægtig Konges Riddere og Svende, ja man maa vel tænke, at, uden det, vare de blevne traadte under Hestehov. Havde kun de Klerke nu bevaret lave Hjerter under høie Huer og elsket kun de høie Hvælvinger, fordi Sangen tonende saa vel derunder og Øiet løftedes saa høit derover, og ikkun fæstet Sværdet over Kirkedør, som Cherubimens til at vogte, og naar de Onde trængte frem med Vold, dog agtet Ordet: stik dit Sværd i Balgen, da var det lysteligt at see Guld og Steen og tosteligt Klenodie at tjene ham, som skabde dem, men stort under vilde det og være, om Klerke stode saa fuldkomne i uskikkelige Tider, aldenstund de fødes og opfostres udi Liden, og ere skrøbelige Mennesker, som og de Andre. Visselig skal Ingen nægte, at der maa sørges meget, naar man seer paa Lærd saavelsom Læg i de følgende Aarhundreder, men det stal 
+<pb facs="1814_7_page0043.png"/>
+<fw type="pageNum">17</fw>
+man alligevel bekiende, at ingensteds i Christi Menighed er Sporene af Herrens Frygt og ædelt Sind saamange, eller gaae saavidt i de onde Dage, som paa Daners Mark.</p>
+<lg>
+<l>Det er sagt</l>
+<l>Der er en Kløft og ikke af de ringe,</l>
+<l>Til Valdemar fra Svend at overspringe,</l>
+</lg>
+<p>og det maa sandes af enhver, som med Krøniken har vandret fra Roskild til Ringsted, at finde Kong Valdemars Grav. Det er vitterligt hvad uchristelig Tvist og anden Uro der yppedes mellem Kongesønner og danske Mænd efter Svend Estridsens Dage; hvorlunde den Søn, han kejsede selv til Dannemarks Rige, Hellig Knud, blev først forskudt ved onde Rænker og sid/n myrdet med ugudelige Hænder for høien Alter i Odense; hver veed og hvor det dog ikkun var en liden Stund at Landet hvilede og glædtes ved hans Broder Erik Eiegod, og hvilket Bulder der opstod, der han nedsank paa Veien til Terusalem og jordedes paa Cypern, ja hvilken Gru det er at see hans Søn, den hellig Knud med Hertugsnavn, i Blod ved Haraldstæd, og ved hans Liig hans Morder og hans Frænde i den samme Mand i Magnus, Søn af Niels, som var Eriks Broder. Skyndelig vil Biet haste fra det Syn af Frændesvig og Borgerkrig, som end fornyes under fule Skikkelfer, mens Knud, Kong Magni Søn, og Knud 
+<pb facs="1814_7_page0044.png"/>
+<fw type="pageNum">18</fw>
+Hertugs Brodersøn, Svend Grathe, og Valdemar hans egen Søn, vilde med Sværd og Spyd og onde Rænker stifte Skjoldungers Arv. Alligevel er der Syn at see i de samme Dage, som heel liflig vederkvæge Niet, naar det ei for skyndelig vil overfare disse onde Dage. Dybt maa Hjerter, som ei er af Steen, bevæges, naar man seer Kong Knud den Hellige at lade Sværdet, som han havde saa mandeligen ført, sidde i sin Balg, og kun uddrage Psalteren af Barmen, der at sinde Skjold mod de Spyd og Pile, som susede omkring ham, og naar man seer de mandelige Faa kiæmpe for den kiære Drot mod de galne Flokke, kiæmpe end for at følges med ham, der hans kolde Liig laae udstrakt over Armekors paa det blege Ansigt. Det er lysteligt at følge Eiegod over Havet paa hans Valfart, thi ikke verdslig Ære men Andagt sidder ved hans Roer, og vist kom da han, om han og døde paa Reisen, vissere dog til det hellige Land, end Mange som badede deres Legem i Jordans Flod og deres Sværde i Musselmænds Blod; ja naar vi see, at han reiste Nordens Erkestol i Lund, da maa vi vente at dens Besidder dog og enstund svøbde sig i helligt Pallium, og at i det Land, hvor Stolen for Nordens Primas fandt det sømmeligste Stade *), var vel og det største Tal</p>
+<p>*) Vel fik Norge ei ret længe efter sin egen Erkestøl i Trondhjem eller Nidaros, og Sverrig</p>
+<pb facs="1814_7_page0045.png"/>
+<fw type="pageNum">19</fw>
+<p>af gudelige og boglærde Mænd. Det er onde Varsler, at mange Klerke faldt ved Fodvig, der de fulgde Magnus Frændemorder, og at Svend Grathe stod paa Bakken naar han skulde holde Thing med Bondemænd, ja det var et grueligt Gilde, det sidste vi læse om, som holdtes i Kongens Gaard i Roskilde By, der Svend stog Knud, sin ene Frænde ihjel med Svig *) <hi rend="spaced">og stemplede mod</hi> den Andens, Kong Valdemars Liv, men naar vi see Knud henslumre saa rolig i Absalons Skjød, see denne Ædling vove Hals for sin Valdemar, og hans behjertede Søstre bore Hul i Grathes Skibe, og staffe Valdemar Frist til at stye og sanke de kiække, ærlige Jyder; da røres vi mildelig, og vente vist, at see endnu et Rolenskud, aldenstund Roden endnu tykkes varm i Kjærlighed, og Safterne stærke udi Kvindeaarer.</p>
+<p>siden ogsaa sin i Upsala, men Lunds var dog den første, og saalænge den stod, var dens Vesidder Sverrigs Primat«, og aav Upsals Ærkebisp det Pallium (Bispekaaben) hvilket han selv kun annammede af Paven i Rom; saa førde han os altid siden Navn af Pavens Legat i Norden.</p>
+<p>*) I den samme Stue, hvor Knuds Fader Magnus gjorde Knud Lavard tryg, med at fige han vilde reise til det hellige Land og overgive Hertugen tand og Huns til troer Hænde.</p>
+<pb facs="1814_7_page0046.png"/>
+<fw type="pageNum">20</fw>
+<p>Der nu det store Slag i Viborg Egn paa Grathe Hede, var overstanden, der den stygtende Svend sank i Mosegynger og faldt for en Bondemands Øre, da blev Valdemar Knudsen Enevoldskonge, og Absalon var hans ypperste Raad, og naar man seer i en Hast paa de Dage, maa man vel tænke, at ligerviis som det er sagt, at en Kilde opsprang hvor Knud Lavards Blod udrandt, saa vilde og af hans Blod en Kilde udspringe til at vande de tørre Enge og fostre Roser paa ny. Visselig maa det og kaldes en god Omskiftelse, at Vinlands Vikinger *) som nys stævnede saa dristelig dybt ind i Isefjord og traadte Kildevangen under Hestehov, nu giæstedes af danske Stavne, og af Korset med, men seer man vissere paa de samme Dage, da vorder man ret underlig vemodig, som ved en kiær og mægtig Herres Jordefærd. Det maa vel med Sandhed siger, at Danmarks Nod og vaandefulde Afgang er i en Lignelse for os tilsyne, denstund vi staae ved Kong Valdemarks Liig og høre og see hvad som er afbildet for os ved Saxos Haand, og i hans bedrøvede Tale. Den lyder saa **): ''Der det spredtes om Lande, at</p>
+<p>*) Venderne fra Rygen, Pommern og Meklenborg som kaldtes Vinland.</p>
+<p>**) Vedels Saxo S. 522 - 23.</p>
+<pb facs="1814_7_page0047.png"/>
+<fw type="pageNum">21</fw>
+<p>Kong Valdemar var død, blev der en stor Sorg, Graad og Bedrøvelse blandt alle Mand. Mange løbe ud imod hans Liig, og beklagede sig, at de havde mist denne ædle Herre, som dem forsvarede saa vel udi sin Velmagt imod Sørøveres Vold og udlændisk Tyranni, at de fad udi god Fred og Ro« lighed i hans Tid. <hi rend="spaced">Bønderne</hi> paa Marken, der som Liget kom frem, overgave deres Arbeid, og græd med høi Rost for hannem. En Part løb til og lagde deres Axel under Ligkisten, at de dermed vilde husvale sig imod <hi rend="spaced">den Ulykke</hi> som de <hi rend="spaced">meende dem skulde foreslaae</hi> efter hans Dob og Afgang. Erkebisp Absalon, der han skulde giøre Tjeneste over Kongens Liig, kunde neppelig røre enten Mund eller Haand for Bedrøvelse, saa at Taarerne runde hannem ogsaa overflødelig af Øinene ned paa Alteret; han blev saa betagen af Sorg, at Pinsel havde nær forkryst hans Hjerte til døde, førend Messen var udsjunge«." Man maa vel tænke, at Rosenkildens Time var nu omme, ikke Roser, men kun røde Bølger kom af Blodkilden, og som det pleier at skee, smaa Violer og Kiærminder, men ei Roser, spirede paa Gravene mellem Tyder og Nelder. Alt forkyndte flig Omskiftelse og det øiensynligst, at Roskildes Hæder forgik og hvad som der havde været forsamlet, adspredtes nu vidt og bredt bver Landet. Kongeborgen, hvor de Herrer havde 
+<pb facs="1814_7_page0048.png"/>
+<fw type="pageNum">22</fw>
+holdt saa ilde Huus, sank i Gruus, efter den Lov, som monne ligge paa Alt, hvad Menneskens Børn giøre deelagtigt i deres Synder; og Valdemar bygde sin Hald paa Dynd i Vordingborg. Kongernes Been, som havde stundet til Roskild, droge til Ringstæd, og ret som Blommen i Efteraar søger Ly udi Skoven og finder dog kun stakket Frist, saa tyede det sidste Rosenskud fra Kildevangen over Sundet, at finde Ly i Lund, under Pallium; ja som man i Krukker i de lune Kamre giemmer smaa Aflæggere, imens de Hvide styve, enddog man veed de blomstre lidt og dufte ei, saa udskiftedes nu og det sidste Rosenstud i Munkebure.</p>
+<p>At Rosenkilden stilede til Lund det er i alse Maader aabenbart, enddog man der maa lede efter den forgiæves, ret som en Bæk vel maatte saare blandes om ei heel opløses, naar den løb igiennem Øresund, men Intet viser dog vel mere øiensynlig Kildens Kaas, end Roskilde Bispevei, thi den gik over Sundet, saalænge Kilden ei var heel udtørret. Det var fra Roskild Adzer kom og indviede Lundestol, og mærkeligt er det, at hans Been endnu stævnede hjem til Kildevangen, og det blev mere mærkeligt ved det, at der de skulde jordes, tykdes intet Sted bekvemt, undtagen Graven, hvor Vils Helmus hvilede. Dengang var det at Hermann, Stiftsprovsten, og Arnfast Skolemester, og Amts- 
+<pb facs="1814_7_page0049.png"/>
+<fw type="pageNum">23</fw>
+provst Isak opgrove den Saliges Liig og handlede saa spottelig med hans Levninger, at de det Siden maatte bitterligt fortryde, og vel maa man fige at, som det var et ondt Varsel for Erkebispernes Bedrifter, saa var det og et usvigeligt Tegn derpaa, at Vantro og Ugudelighed var bleven megen, selv mellem Klerke *). Eskild var den anden Erkebisp, han kom og fra Roskild, men ei blev han der begraven, hans Been hvile langt vester i Verden, i det Kloster Clairveaux i Frankerige, thi der endte han sine Dage i Eenlighed der han var kied af Verdens Væsen og Tvist med Kong Valdemar, og til den Stæd havde han Synderlig Villie og Kiærlighed, for den hellige Bernhards Skyld, som først kom det Kloster paafode, og havde været hans Ven i hans Ungdoms Dage, mens han var i Frankrig at lægge sig efter boglig Konst **). Det var ogsaa ham, som først</p>
+<p>*) Vedels Saxo S. 247 - 48. At de tre Mænd havde en aabenbar sørgelig Helsot, det er vist, aldenstund de døde i Saxos Dage, og han ingen . skamløs Løgner var, og at Gud aabenbarlig mangengang straffer aabenbar Forargelse det er ei Nyt men Godt. At Adzer havde værer Bisp i Roskilde synes klart, og en Adzer nævnes som saadan i Enk Elegods Dage.</p>
+<p>**) Arilds Bispekrønike S. 45 og 52.</p>
+<pb facs="1814_7_page0050.png"/>
+<fw type="pageNum">24</fw>
+<p>indstiftede Klostre eller Munkebure i Dannemark, og deriblandt de to navnkundige i Esrum og Herridsvad, og de første Munke bleve did forskrevne sta Clairveaux, hvor Bernhard havde indført igien god Tugt og rette Munkesæder, og eftersom det var nu saa bestilt med Bisper og Præstemænd i Landet, at de havde for det meste ringe Lærdom, og liden Lyst til at røgte deres Kald med Lærdom og godt Eftersyn, men desmere til at drage i Orlog og Herrefærd, da var det tilvisse gavnligt at der blev Munke, som dog enstund beflittede sig paa Andagt og stille Levnet, Læsning og Skolehold og god Omgængelse. Absalon var den tredie i Tal af Erkebisper, han kom end fra Roskild, men han kom underlig med Heltesværd ved Lænd, og det klæder visselig hver en Bi. stop ilde, enddog det vel maa sandes, at det aldrig klædte nogen Biskop bedre end ham, thi han uddrog det kun mod Hedninge og Landsens Fjender, og glemte ikke Bøn paa Valen eller Kirkens Tarv i Pilemesse. Han gjorde sin Flid med at bestikke ordenlig Gang i Kirketjeneste, og brede Kaaben over den Vankundighed og de Brøst, han ei kunde rette, han indstiftede med store Gaver det Munkebur i Soer, og gjorde det til et synderligt Vilkaar, at Munkene der skulde lade sig sinde flittige tit Landsens Krønike at beskrive. Det pleier altid at være et grandgiveligt Mærke paa en nær Helsot, naar man 
+<pb facs="1814_7_page0051.png"/>
+<fw type="pageNum">25</fw>
+i et Land begynder ivrige <hi rend="spaced">at længes</hi> efter at faae dets Krønike beskrevet; thi det er ret som naar en Gubbe kalder ad Mænd til at beskrive hans sidste Villie, til at tømre hans Kiste og udgrave hans Bautasteen. Underligt er det ei heller, thi aldenstund der har i et Land været mange Mænd, baade gilde og giæve, og tildraget sig Hændelser som ere Ihukommelse værd, da gaae og de Minder enstund udi Arv som Sagn og Sang fra Mand til Mand, og saalænge der er synderlig Evne og Lyst til at ligne de Gamle, da nemmes de Minder heel gierne og let, og det falder Ingen lettelig paa, at de skulde sankes og fæstes i Bog for ikke at glemmes, thi det var jo ret, som man tænkde, det nu var forbi med priselig Idræt, og havde den Tanke at fostre sig Børn med Lyst til at dovne, og glemme de Ting deres Fædre bebreve og helst vilde nemme. Sandt er det ogsaa at sige, at saadan en Slægt maatte vel spørge os ad, for hvem de skulde sanke og strive, om vel de Sange og Sagn vilde mere forlyste vanartede Børn, naar de saae dem i Bog, end naar de hørde dem af deres Fædre. Derimod, naar det først er kommet saavidt, at Faa kun mindes de fremfarne Dage og liden Lyst til Bedrift er tilsyne, da maa det sagtens begive sig saa, at de enkelte Mænd, som endnu komme Fædrene ihu og lystes ved dennem at prise og ligste, vorde heel sør-
+<pb facs="1814_7_page0052.png"/>
+<fw type="pageNum">26</fw>
+gelig tilmode, naar de tænke derpaa at det skiønne Arvegods, som de have annammet og vogtet, vel ogsaa forøget, skal nu komme i Stemmeres Vold, adspredes og plat forgaae, at de selv skal forglemmes med alle deres Frænder. I saadanne Dage, naar bange Ahnelser om de Ting som forestaae, pine de faa Ædlinge som ere tilovers, da avles den stærke Attraa derefter at faae Landsens Krønike sømmelig beskreven. Vel maa det tykkes heel unyttigt, at overantvorde den til en doven og glemsom Slægt, men ret som en Riig, der ei vil udstifte sit Gods mellem usle Børn, og graver det i Jord, sagtens maa tænke at en bedre Huusholder det engang monne sinde, er vel saadant og den Trøst, som størker de synkende Hænder til at holde Sagastaven i de onde Dage, men fornemmelig sysler man ivrig, fordi ligesom der staaer om de Bondemænd, at de lagde deres Axle under Kong Valdemars Kiste, for at husvale sig mod den bange Forventning, saaledes husvaler det ogsaa underlig i saadanne Dage, at sysle med Fædres Idrætter, og om de skal jordes, dog selv være med ved den Jordefærd og belee dem den sidste Æresbeviisning. Det kan da siger i en sandfærdig Lignelse, at Absalon gav Munkene i Soer en Kridtpen af Kirkeklinten, at de med den skulde afridse Dannemarks Lignelse, men det var som det ahnede ham, at de vilde opmale Kridtet kun 
+<pb facs="1814_7_page0053.png"/>
+<fw type="pageNum">27</fw>
+paa Legender og Aarstal og Navne, og det var derfor hans Hjertes Attraa, at sinde en Haand, som end i hans levende Live, og stundom ledsaget af hans, vilde køre den Pen paa sømmelig Viis. Det timedes ham, og medens Svend Aagesen forstandelig grublede paa, hvorlunde man ved at vrage imellem de overantvordede Lignelser kunde sammenføie een med skarpe Omrids, da sad Saxo og tænkte kun paa ei at forgjette hvad han havde seet paa Steen og Pergament eller hørt af letnemme Folk, thi det syndes ham vist, at hvad som var overantvordet, det hørde og til det Forbigangnes Lignelse, om ikke som skeet, saa dog som troet og fortalt. Dernæst var det hans Bekymring at skrive saa om de gamle Dage, at Dannemarks Ære af sit Folks Bedrifter i skulde skiæmmes af dets Krønike, men heller øges, naar det ved hans Bog blev kundbart iblandt lærde Mænd, at ikke blot Guds Ord, men og Latinen havde Kunder her. Kun det behøvedes endnu til at giøre Lignelsen af Krønikens Beskrivelse ved Skattes Nedgravning fuldelig sandfærdig, thi havde man ei reent fortvivlet om at menig Mand vilde ihukomme Fædrene, da havde Saxo visselig ei meer end Snorro kaaret Roms Tungemaal til at tale med om danske Handler. Vist er det sørgeligt i alle Maader, at Danmark skulde faae en saadan Krønike, thi det er ikke dermed nok, at vi tit maa fare 
+<pb facs="1814_7_page0054.png"/>
+<fw type="pageNum">28</fw>
+vild endog om de Stæder og Byer, som dog skulde sindes her hjemme, men vi maa mangengang og fare vild om vore gamle Fædres Handler og Tale og Kvad, da meget maatte underlig dreies og tit forvendes, inden det pyntelig kunde udtrykkes i det Tungemaal, som vidste kun lidt af Saadant at sige. Alligevel er det en kostelig Bog, thi enddog baade Snorro Sturlesen og andre Islændinge havde ladet mangt et Ord falde om danske Handler, og det udi Bøger, som overgaae Saxos vidt i hjertelig Sødhed og høi Enfoldighed, saa haver dog Ingen ret taget sig for at beskrive de Danskes Levnet i Synderlighed, og det de formelde have de ikke saa sjelden med halve Øren fornummet, eller og seet paa Skraa, thi baade er det de Klippebørns Viis, og det meget Bulder imellem de Nordens Sødskendebørn støvede og til at blænde, og maatte sagtens imellem døve Sandheds sagte Mæle. Ingenlunde er det at fortie at Knytlinge Saga, som taler om Knud og hans Ætmænd, taler ret som en Broder mon sømme, og at Saxo taler imellem langt mere uskikkelig om Nordmænd, end Snorro om Danske, og ophøier mangengang fine Landsmænds Dyd og Kongernes Vælde vidt over det, som tilbørligt er, men det er Tingen, at nu kan vi lade de Gamle smukt rette hinanden, og kvitte med Ukvemsord, siden de sindes engang, som ei maatte være. Sært maa det synes i en Hast, at 
+<pb facs="1814_7_page0055.png"/>
+<fw type="pageNum">29</fw>
+saadan en Mand, som Saxo var, kunde glemmes saa reent, at Ingen kan sige hvorfra han var eller bære os nogen Tidende om ham, men naar det rettelig betænkes, da er det sørgeligt kun, ikke sært, thi den sidste Mand i en Stad kan vel efter Evne reise sine Frænder Bautastene, men selv faaer han visselig ingen, uden hau reiser den selv, og hvor skulde han have Sind til at sørge for sin Ihukommelse anderledes end ved at tegne sit Navn paa de Undres. Tidens Tavshed om sit Vies Mund skal da ikkun lære os hvor høilig han og Absalon, men Herren egentlig alene er at love, fordi Landsens Krønike blev beskrevet der det var den høie Tid, thi ellers vare jo de gamle Fædre alle os end mere ubekiendte end Saxo monne være, thi til hannem kiende vi endda slet ikke saalidt, aldenstund det indvortes Levnet tykkes os den ypperste Deel, og at hans Leirestæd, som vi det kunde vente, er i Roskilde Kirke, det er os overantvordet.</p>
+<p>Ret som nu ingen navnkundige Been i togange hundrede Aar begroves i Roskild, maa vi og sige med Sorgen at den Tids Mænd og Idrætter vedkomme ei denne Saga, <hi rend="spaced">Roskilde</hi> Saga, uden saavidt det er mærkeligt at see, hvad der vorde paa Daners Mark, der Rosenkilden var tilstoppet.</p>
+<p>Det er vitterligt, at Valdemar Seier, Kong Valdemars Søn, plantede røde Kors ved Danmarks 
+<pb facs="1814_7_page0056.png"/>
+<fw type="pageNum">30</fw>
+Grav, at Dannebraag, som kaldtes med Sandhed et himmelfalden Banner, saasom Korset staaer deri, dog ingenlunde kom som Seiersbud, men hængdes kun paa Heltegraven som et Vidnesbyrd om den Hensovnes Færd, og sløi kun paa Valen for at minde danske Mænd, om hvad de havde skammelig forgiæt, ja fra den Stund, da Valdemar mod Eed og høi Forpligt drog ud til Bornhøvede at stride, er Danmarks Krønike ikkun at agte som et Vidnesbyrd om, hvordan Herren tugter et vanartet Folk saaledes, at deres egne Synder pine og knuse dem. Det var Peder Jakobsen og Niels Styggesen, Bisper i Roskild, de flydde hen ud af Landet for den Krig, imellem Brødrene, Kong Valdemars Sønner, og den Overvold Kirken af dem maatte lide, da de brøde dens Fred og toge dens Rente, og det er et mærkeligt Sagn at de flydde dog mest, fordi Hr. Peder havde seet et blodigt Sværd svæve over Lundechor *); thi var det Syn og kun en menneskelig Lignelse, saa forkyndtes dog derved, hvor saare de levende Guds Børn maatte grue for den Ondskab, som gik nu i Svang, og de tunge Domme, der sankedes som Tordenskyer over Landet. Grueligt er det og tilvisse, at Abel lod sin Broder Erik sænke udi Slien, og kunde, rod af Broderblod, dog komme op paa Danmarks</p>
+<p>*) Arilds Bispekrønike S. 46.</p>
+<pb facs="1814_7_page0057.png"/>
+<fw type="pageNum">31</fw>
+<p>Kongestol, og sidde uanfægtet, indtil Gud lod Frisens Øxe fælde ham. Den Brodermorders Æt blev vel ei paa Tronen, men Sørgeligt nok er det alle Dage at see paa hans Broders, Christoffers. Om ham er det sagt at han blev forgivet i viet Brød af en Biskop *), men om hans Søn Erik Glipping er det vist, at hans Tjenere svore sig sammen og myrdede ham, hvad aldrig var hørt tilforn i Dannemarks Rige, end ikke mens Hedninge færdedes der, og det blev hans Eftermæle, at stig en Afgang var ikke saa ilde forskyldt med Overvold mod Kirke og Kvinder og fattige Folk. Under hans Son, Erik Menved see vi Levningen af Fædres Kraft fortæres, og maa derved glædes, aldenstund den bærer ikkun Avindskjold imod Guds Kirke og mod Dannemark. Det var Menved og hans Broder som ginge ind i Lundechor og brøde op de Kister med Kirkens Klenodier udi, baade Breve og Guld, Guldet og Sølvet ranede de, og af Kirkens Brevskaber gjorde de Baal for Alteret i høie Chor, fangede saa Erkebisp Jens Gran og Jakob Provst, omgikkes spottelig med dem, og mu-</p>
+<p>*) Tvivler Man og om den Ting er skeet, det er vift alligevel, at den er os fortalt og troet i de gamle Dage, saa Man <hi rend="spaced">troede en Bisp dertil</hi>, og det er nok til Vidnesbyrd om bvilke Vagt der var dengang oppe.</p>
+<pb facs="1814_7_page0058.png"/>
+<fw type="pageNum">32</fw>
+<p>rede dem siden ind i morke Vraaer at forsmægte der *). Det maa nu saa være at Bisp og Provst havde sagtens intet Godt forskyldt af Kongen og hans Broder, men vist er det, at lkkun i ugudelige Dage handles saa med Kirke og Prælat, og det er kun end ydermere Vidnesbyrd om Dagenes Elendighed, naar Man det maa bekiende, at selv fra Klerkene er Gudsfrygt veget bort. I alle Maader er Jens Gran den Mand, som Man skal vel betragte, thi han var udentvivl den sidste navnkundige Mand af de <hi rend="spaced">Hviders</hi> Stamme, og at den havde fordum baaret priselige Frugter, maatte Man vel giætte alt ved at see hvad Kløgt og Storke der var end i ham, enddog de brug@s ikke paa den bedste Maade, men det giøres ei behov at giætte heri, aldenstund Krøniken uolrykkeligen vidner, at det var de Hviders adelige Stamme, som dybt rodfæstet udi Kildevangen, bredte sine Grene ud over al Danmark, gav Rosen Ly, og Kongestolen Fødder, og Saga Skjold, ja sankede paa sine Grene hartad alle Danmarks Blom, mer. Somme sige at den var af Palnatokes Rod, men det er vist, ac dens sørste Skud, som kom tilsyne under Hviders Navn var de Frænder Odinkar, som hjulpe ivrig til at stadfæste Christendom i Landet og</p>
+<p>*) En historisk Beskrivelse om Hin Jens Gran Arilds Krønike D. l.</p>
+<pb facs="1814_7_page0059.png"/>
+<fw type="pageNum">33</fw>
+<p>det blev saa forordnet udi Riber Stift, at alle Bi« sper skulde tages udaf denne Slægt. Af den var udentvivl Svend Trundsen og Adzer Erkebisp, hans Søn, med de fære Pilegrime, som døde ved Jordan *), af den var Eskild Erkebisp og mange andre, men den ypperste Green var dog vel den som bar Hr. Skjalm Hvide, Svend Estridtsens drabelige Mand, og hans Søn Hr. Affer Ryg i Fjenneslev lille, som byggede der sammesteds de tvende Kirketaarne, om hvilke der er sjunget lifligen af Adam Skjald fra Axelstad, og avlede de trende Sønner, Absalon og Sune og Esbern Snare, om hvilke Danmark ei faaer før afsjunget end udsjunget. Hvo som nu betænker, at Sti Marsi, den Hovedmand for Glippings Mordere og Rane Ionsen og vel flere af dem, som svege deres Konge og bare Avindskjold mod deres Fædreland, vare saavelsom Hr. Jens Gran af de Hviders Stamme, han maa vel see, at dens gode Tid var omme og undres ei derover, at Dannemarks det var tillige **). Men hvo som tænker anderledes, han</p>
+<p>*) Adzers Brødre Svend og Mild. Vedel Simonsens Udsigt over nordiske Valfarter S. 102.</p>
+<p>**) At der alligevel var langt mere baade Gudsfrygt og Lærdom tilovers i den danske Kirke nær ved Bonifac. Zdes Dage, sees af mange Tina, og besynderlig af Erkebisp Erlands Brev til</p>
+<pb facs="1814_7_page0060.png"/>
+<fw type="pageNum">34</fw>
+<p>rette sin Leilighed til at see det Bulder og Ustyr og den Sønderstiærelse, som kom tilsyne i Kong Christoffer den Andens Dage, og sige da, hvem hannem lyster at beskue og efterfølge. Konge eller Ridder, Klerk eller Bondemand, eller om de ere ikke alle udi stor Vildfarelse og besklæmmede overmaade. Det have mange meent, at siig en Tid kan komme, naar det saa skal være, og sandt er det udi sin rette Mening; men Feil er det tilvisse, at siig en Tid og siig en Rift kan komme uden Folkets Brode, og at de kan læges som en ringe Skade, og bødes ved et Kongeskifte, saa mange Ord giøres ei behov til at stadfæste:</p>
+<p>Ei atter Dag det blev med Valdemar. Det maa togange siger, at han vedkommer <hi rend="spaced">denne</hi> Saga ingenlunde, thi for Vordingborg vilde han afstaae sin Part i Himmerige, og meende vel det var ei stort at vove *); men hans Daatter, den navn-</p>
+<p>Dannemarks Holk og Lunde Stift, og Forundringen paa Mødet i Lyon 1276 over de danske Klerkes Lærdom. Mendes jeg ret, var Jens Gran imellem dem.</p>
+<p>*) Det er med dette Sagn, og det om hans Brev til Paven, som med alle flige, naar de kom fra gamle Dage og troedes, da sige de og Sandt, om de end ei i alle Maader ere sande, og Man</p>
+<pb facs="1814_7_page0061.png"/>
+<fw type="pageNum">35</fw>
+<p>kundige Margrethe, hun vit ei forgiættes, aldenstund hun tyede til Roskilde Kirkekor, hvor hendes Lignelse i hviden Alabast er end tilsyne. At nu Dana, den gamle Skjoldmø, der var voxet op paa Snekken og havde altid bygget helst ved Fjord og Sund og paa Bølgen blaa, var vorden saare skrøbelig, og høinedes slet ikke men krympedes ved Trillingkronen, det er aabenbart deraf allerede</p>
+<lg>
+<l>At man saae i Danmarks Havne</l>
+<l>Ikkun Steen og Røverstavne,</l>
+</lg>
+<p>men det siger lydelig fra alle Hjørner og paa hvert et Blad af Sagas Bog. Det er hos Arild at læse, hvad Haandfæstning Margretha og Olav, hendes Søn, maatte udgive, om ei at fare saa frem med Overvold, som man kan see havde været Skik hos de fremfarne Konger og mest hos Valdemar, men det er og der at læse, hvor røverisk og heel balstyrig Danmarks Adel var, saa det ei uden Føie var den Dronnings Mundheld: Ablen vil jeg skudde, og stemme Bæk og bryde Bægret, thi hun meende dermed de Abildgaarde, Limbekke og Bekkere, fem paa de Tider vare de mægtigste af Adel *). Det</p>
+<p>tænke kun, om Sligt vel kunde blevet troet og tortalt om Christian den Tredie, eller hvilkensomhelst gudfrygtig Konning Nan vil nævne.</p>
+<p>*) Arilds Krønike D. I. S. 557 - 59. 643.</p>
+<pb facs="1814_7_page0062.png"/>
+<fw type="pageNum">36</fw>
+<p>siger udtrykkelig at den skaanske Adel var nu vorden saa grum og gierrig, at de toge med Magt til sig, hvad dennem lystede af Lunde Domkirkes Gods, og biede ei paa anden Rettergang, ja det er ret en uhørlig Gierning i Nørrelande, at den skaanske Adelsmand Henrik Spæck med Andre indfaldt i Dalum Kloster og gjorde Jomfruerne Overlast *).</p>
+<p>Med Valdemar, som kaldtes Atterdag eller med hans Søn Grev Christoffer, som døde i sin Ungdom, var den danske Kongestamme egentlig udgangen, ligesom den norske alt forhen med den femte Hakon, men hans Dattersøn Kong Magnus Smek af Sverrig giftede sin Søn Hakon med Margrethe, og deres Søn Olav var da den eneste indfødte Prinds af nordisk Kongeblod, saasom Hakons Broder, Erik udi Sverrig, var sønneløs hendød af den Forgift, hans egen Moder, den Frankerigs Blanka hannem gav. Den Olav døde i de unge Aar og jordedes i Soer, som vel maa kaldes Danmarks Begravelse, ei derfor ene, men og fordi at Kongegravene gik did fra Roskild gjennem Ringstæd, og fordi det selv! af Absalon var dertil som beskikket. Paa samme Stæd blev og Margrethes Liig hensat, men Erkebiskop Peder Kruse lod dette flytte næste Aar til Roskild, og det var ikke under, at det</p>
+<p>*) U. K. D. l. S. 564.</p>
+<pb facs="1814_7_page0063.png"/>
+<fw type="pageNum">37</fw>
+<p>maatte did, aldenstund dog Stammens Liv var derfra udgangen, og hun havde Deel deri, og var Danmarks Billed og et bildt Forvarsel om, at Danmark skulde udi gode Maader overleve sig selv, ligesom hun overlevede Olav.</p>
+<p>Nu var da Kildevangen tom for levende Blommer, det syndes, som Dannemarks Time var ganske forbi, og nu læse vi, at Roskilde Kirke afbrændte, som var at vente, men, til Herrens Priis, er, ikke at forgiætte, at det Ord maa tages om hvad som var forskyldt og hængde over Hovedet, og kundgjorde sig i bragende Luer paa Kirkens Hvælving, Meer end om det som timedes, thi vist leed den Kirke stort Afbræk, som dens Brøst var til men Margrethes Lignelse monne bære os det sandfærdige Vidnesbyrd, at dens Grundvold end bestod, og det er trøstelige Ord, som vi læse derefter, at den blev indviet igien der den var bødt og malet, og smykket med Spir, thi det maa vel nævnes hint bedste Varsel, som l Danmark hændtes nogensinde *).</p>
+<p>*) Vel læse vi at Kirken brændte 1282, og det er rimeligt at den hjemsøgdes med Ild i de Aar, før Erik Glippings Mord, men saavel de gamle Graves Tale, som Tavsheden om dens Opbyggelse, borge vel for, at den Ild var mere Varsel end Brand. Det siger og, at den heel af-</p>
+<pb facs="1814_7_page0064.png"/>
+<fw type="pageNum">38</fw>
+<p>Det er et mærkeligt Ord som fortælles om Peder Kruse, den Erkebisp, som flyttede Margrethes Liig til Roskild, at ved den Pas 1416 lod han til Skibs udføre af Skaane moxen al Kirkens Liggendefæ og Sølvkar, dertil ogsaa Erkebispens Lue (Hue) Stav og anden Erkebispens Smykke, som ikke var ringe Penninge værd (om han dette vilde forvare sig selv eller Kirken til Bedste, er uvist) og da er dette Klenodie og Boskab, saameget og hvad det var, kommet Sørøvere til Bytte, og ført til Kiel, ikke uden Kirkens store Skade *); thi det maa man vel kalde et Synderligt Tegn paa Lundestolens Brøst og bratte Fald, og det er togange mærkeligt, fordi just i de Samme Dage det Klerkemøde blev holdt til Costniz hvor Kirken blev erklæret</p>
+<p>brændte 1443, men var det og muligt, at den da til »464 da den igien indviedes, kunde blevet saa kostelig opbygt, saa vidnes dog, som sagt, imod det af Margrethes Kiste, thi den blev indflyttet 1413 og Lignelsen udhuggen 1423, ligeledes af det Ord, at den blev vødt og fik Svir og Taa, endelig af Biskop Olav Daas Gavebrev 1452, hvori den næones som staaende med de Tolv Apostles Alter. A. K. D. 1. 660. 833. D. 2. 901. Danske Magaziu 32te Hefte.</p>
+<p>*) Arilds Bispekrønike S. 83,</p>
+<pb facs="1814_7_page0065.png"/>
+<fw type="pageNum">39</fw>
+<p>hovedløs, og hvor det kom tilsyne at den det ogsaa var i Verden- eftersom dens giæve Tjener Johan Hus blev lagt paa Baal. Det er sagt, at han lod de Ord falde i sin sidste Time: I stege i Dag en Gaas, men om hundrede Aar skal komme en Svane, den maa I lade ustegt *), og dermed være det nu som det kan og maa, men det er vist, at Svanen kom, alt som en Phoenix af den Husses Aske, og værgede sin Rede mandelig med sine Vingefjer, og svang sig over Havet og hid til Kildevangen, og sang saa lystelig, at Roser skiøde sig op paa ny i Vangen.</p>
+<p>Det var i Morten Luthers Dage, men før han end tog paa at slaae med Vingerne, at Niels Skave var Biskop i Roskild, og det mærkeligste man veed om ham er, at han bygde Kirken i Holmsirup, aldeles efter Domkirkens Lignelse, som til et Smaabillede, ifald Ilden engang skulde fuldelig</p>
+<p>*) Det er alt for vitterligt, at flige Ting kaldes nuomtide Løgn uden al Betænkning; men kun efterdi jeg ingen ret Hjemmel veed, kalder jeg den i Tvivl; thi utrolige skal ingen Christen kalde Ordene, men heller tænke paa, at sikkert undte Herren sit ymte Vidne den trøstelige Vished at Guds Ord skulde med det Første vinde Seier, hvad enten han saa med siige Ord udsagde den Vished eller ikke.</p>
+<pb facs="1814_7_page0066.png"/>
+<fw type="pageNum">40</fw>
+<p>faae Overhaand i det Huus, den nys havde hjemsøgt saa gram, men i de Dage der Svanen fløi hid at bade sig i Isefjord, og sjunge i Sjølund, da bare Lave Urne og Jochum Rønnov Bispestaven og giorde deres Flid med at formene hende Vad og Sang, men hun stog med sin Vinge Krumstaven af deres Haand og bygde sin Rede ved Hellig Korses Kilde. Til den der at beskjærme, og til at blomstre gudelig og dufte lifligen ved Isefjord havde Herren skiænket Dannemark en ædel Stamme, et Sidestud fra Roden af gamle Kongetræ, og voxet nu saa høit at det langede til Kronen. End sees Christian den Førstes Kiæmpemaal i Roskilde Kirke og hans Stav paa Rosenborg, det siger Arild ogsaa, at han var udaf Vext, en stærk, høi, lang og fuldkommen Herre, meer end nogen af hans Efterkommere Huve været, og det er ikke Under, at det vor et dygtigt Træ, som skulde styde saamange og saa stærke Grene vidt i Verden, at det vel maa lignes ved det Træ hvilket Harald Haarfaagers Moder, Ragnhild saae udi Drømme. Arild siger end, at han var af Naturen en fiin, mild, gudfrygtig, sagtmodig og tarvelig Herre og Konge og regnes blandt de gode Konger, som dette Rige have forestandet, det kan og hver føle paa sig, aldenstund han betragter den Stamme, at den er runden af ædel Rod. Nist var det godt Varsel, at Gud undte Marken et saadant 
+<pb facs="1814_7_page0067.png"/>
+<fw type="pageNum">41</fw>
+saftigt Træ for den Pommerske Bjelke, og den Baierske Stub, enddog denne er ei at forhaane og sovse i Fred under Domkirkens Gulv, føiet til Stammen i Svogerskab *); men det var end ydermere et saadant, at Kirken blev bods i Christians Dage, og han bygde til hende det Capel som kaldes efter de Hellige Tre Konger, og Haver havt tre mærkelige Kongekister, Kong Christian den Tredies, Kong Frederik den Andens og Christian den Fjerdes, men han kom siden Under Gulv at staae, og flyder sig vel op igien, som første Christian i disse Konger, thi ogsaa han begroves under Gulvet, og Haver kun sin Æt til Mindesmærke i Kirken, som i Rimet. Ikke er her at tale om Kong Hans og Christian den anden i Besynderlighed, thi de vedkomme denne Saga, de vare en stakket, og heel knudret Green, og ikke den, som skulde grønnes i Kildevangen, og deres Been lagdes andensteds, i Graabrødre Kirke, i Odense, og finge end der ikke Fred, men maatte laane sig Huus i en Vraa hos Hellig Knud. Stort er ei heller at melde</p>
+<p>*) Naar Chistoffer af Baiern, som Arild melder, bearoves i Roskilde Kirke 1448, da er det igien et Vidnesbyrd derom, at den ei heel afbrændte ikkun fem Aar forud. A. K. D. 1. S. 841. At Christian den Første agtede Christoffers Enke, er vel alle vitterligt.</p>
+<pb facs="1814_7_page0068.png"/>
+<fw type="pageNum">42</fw>
+<p>om Hr. Frederik den Første, thi han gav kun Svanen Lov til at sjunge over Isefjord som en Trækfugl, men ved Slien lavede han den en Rede, og der lig« ger han mellem de Slesvigs Hertuger. Alligevel er det ei at forgiætte, at Lave Urne var i de Kongers Dage en mærkelig Mand og Rigens Cantsler, og velberømt for Veltalenhed og boglig Konst. Nu er det visselig saa, at saadant Eftermæle times Ingen aldeles uforskyldt; men det er ei derfor desmindre vist, at hans Tale og Konst kun havde lidt at betyde, og naar han da saa høilig berømmes, er det kun derfor, at Tiden var saare grov og vankundig og dens Tanter om Lærdom og Tale vare derefter. Den er endnu til Rede og Syn den Velkomsttale han holdt paa Latin til Frøken Isabelle, af Nederland og spansk Herkomst, der hun inddrog med høviske Fruer at holde sit Bryllup med Kong Christian den Anden. Det var Dagen for Laurentii 1515 at Kongen uddrog i Gyllenkarm med Fruer og Jomfruer at møde sin Fæstemø ved Hvidoure Strand, og saasom det regnede just heel flux, begyndte den Bisp saa pyntelig at tale under aaben Himmel: vi have med stor Attraa forventet denne din lyksalig Tilkommelses Dag, allerædelste og dydeligste over alle dennem i Verden leve, Fyrstinde Elisabeth! ja aldrig haver nogen Dag været Dannemark glædeligere og lyksaligere end denne, paa hvilken denne Regn som falder, betyder os ved 
+<pb facs="1814_7_page0069.png"/>
+<fw type="pageNum">43</fw>
+din Tilkommelse alt Kosteligt paa Jord i Overflødighed, og de 7 den Hellig Aands Gavers runde og rigelige Udgydelse *). Ei er den Vending saa ufornuftig at nævne, som den er skammelig, og mest i en Bispemund, og saaledes ere alle hans Ord kun føiede til at falde vel i Ørne som kløe. Hvad nu hans Lærdom angaaer, da var han sagtens forfaren i Lov og Ret, baade geistlig og verdslig, som og i Latinen, men visselig var det kun maadelig bestilt med hans Kundskab i Bibel og Christendom, anderledes end det en Biskop monne egne og sømme. Det haver han selv vitterliggjort med det Brev som han og Ove Bilde, Aarhuus Bisp, skrev og sendte paa menige Bispers Vegne med Henrik Gierkens til Ingolstadt, at fordre herind for et ærligt og aarligt Stipendium en af de vellærde Mænd Cochlæus eller Eck, til at skrive og stride imod de Lutherske Bøger og Mænd. Det maa Man vel undres over, at Dannemarks Bisper vare saa galne, at de kunde mene, det Hus skulde staae mod Storm og Oxer i Nord, som de skulde kiøbe sig Støtter til i fremmede Lande, og at de trøstede Stolper som brødes i Tydskland her skulde holde, men det er til at forbauses ved over al Maade, at Bisperne skyndte de Mænd herind med de Ord, at Landet er fedt og godt og Kiøbet let, thi dermed be-</p>
+<p>*) A. K. D. 2. S. 1105-6.</p>
+<pb facs="1814_7_page0070.png"/>
+<fw type="pageNum">44</fw>
+<p>kiendte de aabenbar at de vidste, det var ei de tydske Kompaner om Sandhed at giøre, inen kun om fede Mundfulde og kronede Dage *). Det er da det mildeste Man kan dømme om Ove og Lave, at de for verdslig Omhyggeligheds Skyld ei betænkde det ret, hvad de gjorde, og lode sig af de andre Bispe overtale til at beskiæmme deres gode Rygte, mod at lægge deres Navn til siig en Ordsending. At nu Hr. Lave forresten ei plat forgiættede sin Bispedom, det kan Man see paa Kaabertaget, han lod lægge paa Kirke«, paa de Gravskrifter derinde over Svend Estridsen og Saxo, som ham tilskrives, og af de Breve fra Mester Christen Pedersen og Prænteren Jodocus Asiensius, stilede til ham om Saxos Boa, thi deraf Jader det sig kiende, at han dog regnede Danmarks Krønike til Kirkens og til Rigens Prydelse, hvorfor og Saxos Bøger i sit første Bind hannem tilegnet **). Det var i Christian den Andens Dage at den mærkelige Ting begav sig med Saxos Krønike, som blev præntet i Paris ved Mester Christens Omsorg, og vel maa Man bekiende, at Herrens Haand som ved Skriften, thi det holde allerede hardt for Mester Christen at erlange en</p>
+<p>*) A. K. D. 2. S. 1251. 1304.</p>
+<p>**) <hi rend="latine">Stephanii Prolegoru, a. S. Fol. 4-6</hi></p>
+<pb facs="1814_7_page0071.png"/>
+<fw type="pageNum">45</fw>
+<p>duelig Afskrift, og efter Grevens Feide og Klostrenes Forstyrring havde det været forgiæves udentvivl at lede derefter. Saa maa det da og ihukommes, at hvor nødig man læser Danmarks Krønike paa de Romeres Tugemaal, saa maa vi dog, formedelst Tidernes onde Vilkaar love, ei Saxo, men Herren, fordi den sireves paa det, thi sikkerlig var det Latinens Skyld, at den dog stundom udskreves i Klosterne, og vist er det, at var den og paa dansk kommen Mester Christen tilhænde, knap var den dog blevet præntet til Paris i de Dage og saaledes frelst fra Ødelæggelsen.</p>
+<p>Ingenlunde skal da Lave Urne, enddog han som Christen og Biskop er visselig at laste *), lignes ved hans Eftermænd Hr. Jochum eller Jacob Rønnov, thi han var, efter alle Mærker, en forstokket Synder. Han tjende for Ridder i Kong Frederik den Førstes Gaard, og det skal ingen Christen love Kongen for, at han satte siig en Mand paa Sjællands Bispestol, ja solgte ham den aabenbarlig for</p>
+<p>*) Mærkeligt er det tilvisse at slet intet Papisterie er i Laves Gravskrift tilsyne, men netop den Lærdom, for hvilken Luther stridde mest og haardest, thi der staaer: <hi rend="latine">miserere mei Deus, Deus propitius esto mihi péccatori.</hi> (Gud! vær mig Synder naadig!) Marmor Danic. F. 19.</p>
+<pb facs="1814_7_page0072.png"/>
+<fw type="pageNum">46</fw>
+<p>6000 rhinske Gylden *). Derimod tænkde Kongen vel at have frelst Samvittighed, da han betingede Guds Ord Forlov til at røre sin Tunge, ja tog af Jochum den Forpligt, at han skulde bestikke Præstemænd, som forkyndte Evangelium, men det var ei at vente af den Mand, der kiøbde sig en Bispestol med 33 Herregaards, at Han skulde lade uanfægtet, end sige forfremme den Lærdom, som ingenlunde tilstæder en Bilkop at være Herremand, men vil at han skal være Ordets Tjener. Saalænge nu dog Kongen levede, da var det kun i Smug at Bispen trængde Ordets Tjenere, men der den Herre var hensovet, da forsømde han sig ei, og meende vist det dertil at drive, at det Ord, som pinde ham med alle Verdens og Løgnens Venner, skulde med Kong Frederik og hensove. Men der staaer skrevet, at Han, som boer i Himlen leet ad slige Raad, bespotter Verdens Vise og fanger dem i deres Træskhed, og skyder dem i Graven, som de grove til Hans den Tale ej er Skiemt, og at den Herres Mundsværd har flig en Storke, at de stærke Kiæmper styve for dec bort som Avner, det gav Han nu tilkiende her i Dannemark, som alt forud i Saxland. Mester Hans Tavsen, en lovlig bestikket Præst ved St. Nicolai Huus i Kiøbenhavn,</p>
+<p>*) A.K. D. 2. S. 1345.</p>
+<pb facs="1814_7_page0073.png"/>
+<fw type="pageNum">47</fw>
+<p>var en af de ypperste og meest høirøstede Guds Ords Prædikanters i de samme Dage, og det fik Bispen udgjort i Rigens Raad at han skulde Sjælland forvises, men der den Tidende spurgdes, da forsamledes Borgerne for Raadstue« i Mangfoldighed og lode Trudsel høre. Ingenlunde er den Adfærd at love, thi alt Saadant skal ikkun klages for Herren og Herren overgives i Taalmodighed, men det er at love, at Mester Hans Tavsen tog sin Avindsmand ved Haand og fulgte ham tryggelig hjem igjennem den opsætsige Flok, og veeg saa af Øen efter Raadets Ord *). Det stod saa hen enstund og ei ret meget længe, da kuede det Borgerskab Øvrigheden til at kalde Mester Hans tilbage; i Grevens Feide maatte Jochum end betale Bispestolen med 10,000 Mark danske, og skulde dog nu brat den overgive; thi saa nødig end de Bisper vilde, saa maatte de dog hylde Hertug Christian, der var navnkundig som en Ven og stor Forfremmer af Guds Evangelium. Det var Femtenhundrede, Tredive og Sex Aar efter Herrens Byrd at der i Løn beskikkedes, hvorledes alle Danmarks Bisper, skulde annammes og fængslig indsættes den Sendag efter Vor Frue Dag; Jochum Rønnov var i sin Gaard i Kiøbenhavn, der som Studigaarden siden blev og er endnu, dog som et</p>
+<p>*) A. K. D. 2. S. 1400-1.</p>
+<pb facs="1814_7_page0074.png"/>
+<fw type="pageNum">48</fw>
+<p>Vranhstæd, og Torben Bilde, lunds udvalgte Erkebisp var, synderligt nok, hans Giæst den samme Dag. Ham toge do ved Aftenstid, men Hr. Jochum mærkede Uraad, der de stoge Porten i, og sad den Nat paa en Hanebjelke i Skjul, og grebes der om Morgenen, saa det gik med hans Fangenskab som med al hans Handel, og som det altid gaaer i denne Verden, at Skalkhed søger Skjul og kan vel finde det en liden Stund, i Mørkets Time, men naar Lyset kommer, da maa den til egen Skam og Skade aabenbares. Vel stod det hannem frit at komme løs igjen forn og de andre Bispe, og have sømmeligt Underhold af Stiftets Gods, naar han ikkun vilde sig dertil forskrive, ei at yppe nogen Kiv ydermere om hans Bispestol og dens Tilliggende, men han vilde ingenlunde saa afsige, hvad han havde kjøbt saa dyrt, og døde derefter som en fangen Mand *).</p>
+<p>I hans Sted blev indsat den vellærde og gudfrygtige Mand, Mester Peder Plade, eller som han kaldes mest, Palladius, en Borgermands Son fra Ribe, men nu blev Bispestolen flyt til Kiøbenhavn, den Absalons Bye, som alt Christoffer af Baiern havde byttet sig til af Roskilde Bisp og sat Kongestolender, og det maa vel synes at Roskilde Bye</p>
+<p>*) A. K. D. 2. S. 1487.</p>
+<pb facs="1814_7_page0075.png"/>
+<fw type="pageNum">49</fw>
+<p>havde nu forloret sin Herlighed, men det sad dog underlig fast i Sindet hos Konge og Bisp, at den var Christendommens Hovedstad i Danmark, thi naar Sjællands Bisp skulde sankes Med sine Klerke ved St. Hans og Dionysie Tider, da flokkedes Landsens Provster til ham der, og naar Kongerne døde, da udsørdes deres Lig til at jordes ved Isefjord hos Harald og Svend og Margrethe, og Christian den Første. Det skulde nu saa være, sagtens for flere Tings Skyld, end vi kan forstaae, men det kan vi see, at vare de Kongeliig, som man skulde tænkt, hensatte med Bispernes i Frue Huus, da havde de nu været brændte med dem, og at dot ei saa maatte være, det er et ønskeligt Varsel for Diderik den Lyksaliges Herrestamme, saa den skal vist blomstre i Norden, om og Kirkens Skikkelse omskiftes, saalænge Roser end groe ved Hellig Korses Kilde, hvilken og i den Stammes Dage fik det Tilnavn, at den kaldes Kongekilden. Saaledes maatte da Tiden ei fornægte at Roskild var Rosenkildens Hjem i Danmark, og Axelhuus en Udflyttergaard fra den Kirkebye, saa at enddog den Gaard blev med Tiden selv til en By og fik sig en Kirke, ja blev som Kirkeskibets Havn i Vinterstid, saa ginge dog de ypperste Indbyggere til Høimæsse i den Adelbye og stædtes der til Jorde, og intet ret Mærkeligt er skeet i Kongens Gaard eller og paa Daners Mark, hvorom 
+<pb facs="1814_7_page0076.png"/>
+<fw type="pageNum">50</fw>
+man ei kan mindes i den Kildekirke, Det er og ei Kong Christians Kiste ene, som minder der om Løsningen af Guds Ords Tungebaand, thi Støvet af Niels Hemming giemmes og derudi og Haver der paa tvende Maader hjemme, thi enddog han var af Fødsel en Lollik, optugtedes han dog til boglig Konst i Roskilde Skole. Der optugtedes vel ogsaa de to giæve Mænd af de Litlers adelige Stamme, Mathis og Peder, som vare med de første, der prækede Guds rene Ord paa nye med' Mund og Pen, men allenfalds er Navnet, som de toge sig, Rosefontan, et gyldigt Vidne om, at de hørde Roskilde til *). Nu et Ord om Niels Hemming, at tale, da var han i 36 Aar Læsemester ved den Høiskole i Kjøbenhavn, ingen Mand Hat da været med at optugte saamange af de Bispe og Præste, som tjende i Kirken her de to første Slægter efter dens Renselse, og flittelig læsde han over den Hellige Skrift. Han holdt Ligprædiken over de vældige Krigsmænd Otto Rud og Herluf Trolle, man haver og en Sørgetale</p>
+<p>*) Det er Peders Syv, som fortæller, at Peder Laale der først sankede danske Ordsprog i en Bog, ligger begraven under Skolen i Roskild. Heder Litle forkyndte alt 1520 Evangelium og var enstund landflygtig med Christian den Anden. Norms Lexicon D. 2. S. 161-62.</p>
+<pb facs="1814_7_page0077.png"/>
+<fw type="pageNum">51</fw>
+<p>af ham over Chistian den Tredie, og at han tillagde Gud og Hans Ord Æren i Alt er aabenbart, men det er og øiensynligt, at ham fattedes den Aand og Salvelse, som Ingen kan erholde, uden hvo som ret eenfoldig vil bukke sig for Guds Ords Myndighed i alle Dele, og det vilde Hemming ei. Han foer vild i den Lærdom om Nadveren, og enddog deraf intet Bulder opkom herinde, mens hans levede, saa blev dog Frederik den Unden alvorligen paamindt af sin Svoger, Kurfyrst August udi Saxen, at han det ingenlunde maatte lide, at saadan vrang Lærdom førtes aabenlyst, allermest fordi man udenlands besmykkede den med Hemmings Navn. Der han nu for Saadant maatte stande til Rette lovede han og, sig deri at forbedre, men holdt det ei, og blev da forlovet fra Høiskolen 1579 *). Siden levede han stille udi Roskilde hvor hannem var bestikket et Kannikdom til Underhold, og skrev den Udlæggelse af Psalteren, som agtedes længe for et dyrebart Værk. Han døde 1600 eller saa ved Lav, og ligger begraven i Kirkens Adelgang <hi rend="spaced">tæt neden for Choret.</hi></p>
+<p>Store Omskiftelser havde den Mand seet i sine mange Aars Dage, han havde og seet, at idensted under Grevens Feide alt Folket udi Danmark blev ved</p>
+<p>*) Frederik den Andens Krønike. S. 318.</p>
+<pb facs="1814_7_page0078.png"/>
+<fw type="pageNum">52</fw>
+<p>en Haandfuld Holster eller andre Tydske lettelig betvunget, saa maatte i den Syvaarskrig en stor Krigshær bukke for en Haandfuld Danske, Det var Aar 1565 der Daniel Rantzov laae med Dane æren at bestolde Varberg udi Halland, hvilken de Svenske havde indtaget, da spurgde han Tidende om den svenske Krigshær, at den var inddragen over Landemærket og agtede hannem at giæste. Det tykdes ham og andre djærve Høvidsmænd et Gammensbud, thi det var deres Forlængsel at drages med Svensken udi aaben Mark, og de kaarede det mandelige Raad, ei at vige over Svarteraa, enddog der tykdes bedre Leilighed at være, men det skulde Svensten ingenlunde sige, at de Danske flydde for hannem. Den samme Dag ad Aften kom Peder Gyldenstjerne, som var udskikket flux om Morgenen med Rendefanen at bespeide Fjenden, og han førde den Tidende at Svensten var i Nabolaget der med mange Folk, og Mand var han for at føre disse Ord om Saadant, aldenstund han den meste Part af Dagen havde prøvet Fjendens Sværd men og hans Skjolde, og tumlet sig saa stink med Rendefanen, at kom og Svensken end for tidlig, saa blev det dog ham selv og ei de Danske, som maatte det fortryde. Det var den 18de October efter gammel Stiil, mens der var endnu langt til Dag, da goel Trompeten i den danske Leir til Varsel for Enhver at 
+<pb facs="1814_7_page0079.png"/>
+<fw type="pageNum">53</fw>
+have flux sin Rustning klar og berede sig til Strib, men saasnart det gryede af Dag, da udreed Øversten med nogle Høvedsmænd at besee den Egn og mærke Valstæden, da lod han og der et Steendige afbryde saasom det tykdes ham at være til Forhindring. Dernæst lod han alt Krigsfolket slaae Ring, og stod derinde med sine Høvedsmænd og talde selv til Folket med klare og med stærke Ord, om hvad som var paafærde, om Fjenderne som vare nær derhos, om Folkets Skyldighed at holde Eden som de svor ved Kongens Banner, og vogte deres Eftermæle som drabelige Mænd, og om sit eget Forsæt at findes fremmerst udi Hæren og ei holde Livet selv for godt, men føre dem saa an, at han kunde have en god Samvittighed for Gud. Der ban det nu saae, at Folket ved den Tale blev trøstigt og frimodigt, og hørde at de lovede med glædelig Røst at lade sig finde som det tro og ærlige Stridsmænd egnede, og vove Liv og Blod med ham, da bad han dem ei at forgiætte den Gud, som Haver Seieren ihænde, og da gjorde Krigshæren tregange et almindeligt Knæfald og bad den Himmelske Gud om <hi rend="spaced">Naade</hi> og en lykkelig Sejervinding. Flux, der de vare opstandne, udskikkede Daniel sine Trompetere til Svensken og lod hannem udæske til et ærligt og aabenbart Vaabenskifte i Marken, men hen svenske Overste, Johan Hendrichson agtede ringe og spotte-
+<pb facs="1814_7_page0080.png"/>
+<fw type="pageNum">54</fw>
+lig derom, og lob det udblæse i Leiren, at Folket fordt skulde lave sig til, og kun gange trøstig frem, der var ingen Fare paafærde, eftersom de Danske vare kun en ringe Hob, men de selv saamange, at de dem kunde træde under Hestehov. Derhos forordnede han, at eftersom de Danske vare saa overdaadige, at de hannem turde udæske, da skulde Ingen have Fred eller tages til Fange, og det Samme lod han med fem Trompeter de Danske forkynde. Saa begyndtes da det Vaabenskifte paa Falkenberg Hede ved Svarteraa, som skal mindes, mens Danmark staaer og føder sig Mænd til at føre Landse og Pen, thi ei mere mandelig stode og fulde de Græker i Hedenold og de Schmeitsere siden, og ikke saa havde de siige Mænd at bestaae, ei heller stoge de saa deres Lid til den levende Gud, og det skal siger og sjunges saa friligen, der er ikke Mage til slig en Færd undtagen hist ved den hellige Grav, hvor <hi rend="spaced">Jehovah</hi> kiæmpede fordum for Israels Folk, og hvor de Korsede stred i hans Navn under Godefred og Balduin. Som hist, saa her var Regn og Storm, og slog i Førstningen ind paa de Danske, men Vinden vendtes ved Herrens Haand og streed for dem. Det hjalp kun lidt at de Svenske stilde frem deres grove Stykker, thi Kuglerne som ramde var kun faa, Syv Faner danske Ryttere med Maurids Podebusk og Peder Gyldenstjerne og andre Høvdinge i Spidsen 
+<pb facs="1814_7_page0081.png"/>
+<fw type="pageNum">55</fw>
+kastede de sexten svenske, og der det danske mandelige Fodfolk under Brokkenhus leed Nod for de Svenskes Mangfoldighed, da komme Rytterne med Drenge, fanen dennem skyndelig til Hjelp og spildt blev den svenske Orden, da flydde hver som stygte kunde, og de stædtes ei den ganske Nat, før de kom til Frøland, fire Mile op udi Sverrig. Saa vandt de Danske og de havde <hi rend="spaced">fire</hi> Tusind Mand, men de Svenske <hi rend="spaced">fem</hi> og <hi rend="spaced">tive</hi> Tusinder, og det blev vitterligt i Norden, at Herren nu ei meer end i de gamle Dage stifter Seier efter Hærenes Mangfoldighed *). Vel maa man nævne denne Seier dyrekiøbt, naar man kun seer paa den Adelsblomme, som nedsank paa Heden, og Seierssangen maatte falde hen i Sørkekvadet, hvis den Krig var. saa unødvendig og havde saa lidt at betyde, som Ordet monne gaae og man maa synes, naar man seer den Tale om de trende Kroner i de Kongers Vaaben og hvad andet der blev kaldt den Krigs Anledning, men det rr ingenlunde saa. Var Fredrik villig lil at drage Sværdet, som han sagtens var, da var det ilde, men havde han og nødig villet, saa havde dog den galne Erik tvunget ham dertil, thi der Svensken tog de trende Kroner i sit Vaaben, kundgjorde han sin</p>
+<p>*) Frederik den Andens Krønike. S. 135-38.</p>
+<pb facs="1814_7_page0082.png"/>
+<fw type="pageNum">56</fw>
+<p>Hjertens Mening, at sanke dennem paa sit Hoved, det har han siden viist i halvtrediehundrede Aar. Nu er det vel saa at han i Freden beholdt dem i sit Vaaben, Men Dannerkonge«, han beholdt dem og, paa eet Hoved vilde de visselig engang forsamles, naar om vorder legt, skal det sees paa Hvis, Bærsærkens eller Skjoldmøens, Smeks eller <hi rend="spaced">Margrethes</hi>*), men rimeligt er det, at de havde alt siddet paa hans, hvis Daniel es havde vundet, og de brave Riddersmænd offret sig paa Heden, thi for ei om mere at tale, da var det Nederlaget der, som voldte Eriks Raserie, og dermed alle de Omskiftelser som derpaa fulgde, og gav Svensken enstund andet at bestille, end at beile til den Trillingkrone **). Visseligen streed da Daniel og hans troende Flok for den hellige Grav, og det paamindes vi tillige om derved, at en af Ridderne Hr. Axel Valkendorph kom</p>
+<p>*) Det er mærkeligt at Magnus Smek fik Skaane og Norge, saa Man skulde tænkt, at Svensken var lidt nærmere ved Tvillingkronen, end <hi rend="spaced">Christoffer den Andens</hi> Sønnedatter.</p>
+<p>**) Det saae jeg ei for nu, ellers vilde Rimet om den handel klinget mere lysteligt, men hvad jeg laae det lang jeg, og turde ingenlunde siae andet, giorde vel ei heller Nogen dermed lifkiel.</p>
+<pb facs="1814_7_page0083.png"/>
+<fw type="pageNum">57</fw>
+<p>paa de Faldnes Vegne til at hvile sine Been i Rosengraven *).</p>
+<p>Det er lange og heel mærkelige Taler, dem Saga skulde holde ved de Kongekister, ved Frederiks og Christians, naar hun skulde Alt grandgivelig fortælle, hvad som Idunna seer, naar hun over dem mon svæve, men det var Synd af hende i en snever Vending Saadant at forlange, thi saalidt som rappest Fod kan følge Fuglen i sin Flugt, saalidt kan den omstændelige Tale i de samme Timer naae saa vidt som Sangen. Saa flikke da hver, som vil vide grandgivelig Beskeed om de mærkelige Dage, sin Leilighed derefter. Saadant hos Dannemarks Riges Krønike at udspørge, thi ret som de Konninger sad paa Axelhuus denstund de holdt Spiret, og svede Bedrift, og sankedes kun ved Isefjord naar Spiret sank af kolde Hænder, da er det og sømme-</p>
+<p>*) Det er mærkeligt at Daniel faldt 4 Aar derefter just ved Varvierg, og stadfæstede sit Mundheld: diverso tempore diversa fata. Det er og mærkeligt, at Michel Pedersen Gynge, som blev adlet, for sin Manddom i denne Feide og mest ved Svarteraa, fik overst i sit Skjold en rød Rose. Om Slaget er giort en Kiæmpevise, som er den fjortende hos Peder Syv. Hofmans Efterretn. 78-80 hvor ellers Daniels og Dannehærens Færd er jammerlig forhutlet.</p>
+<pb facs="1814_7_page0084.png"/>
+<fw type="pageNum">58</fw>
+<p>ligt at Roskilde Saga kun ihukommer deres Eftermæle, og hvad som synderlig vedkommer Rosen, der Udsprang ved Hellig Korses Kilde, men det kan hun dog ei forgiætte, at Danmarks Lignelse, som sankedes og groves ud ved Saxos Haand, og ved hvis Leie Christen Pedersen til Kiendemærke satte faste Stave, den groves op igjen der Timen kom at Danske kunde kiende deres Moder, og hun uden sig at stamme, kiendes ved dennem igjen. Det var lige ti Aar efter den Strid paa Heden, da udgik den danske Krønike, som Saxo skrev halvfjerdehundrede Aar forleden, og Mester Unders Søfrensen Vedel havde flittigen lært hende at tale igjen det danske Tungemaal, og det skulde Ingen mærke at hun havde været udenlands saalænge, hun talde saa mandelig og gjævt, saa sødt og eenfoldig, som om den Skjoldmø med samt sit Halsbaand af de Hjerter ni, var nys udgangen af sit Fruerbur, og førde Tidende om Heltefærd og Ridderspil, som hun saae til og syede ud med Silke og med Guld derinde. Det var da ikke Løgn de Riim, som Thomas Kingo siden satte under Lignelsen af Mester Anders:</p>
+<lg>
+<l>I denne Skygge staaer <hi rend="spaced">vor Mester</hi>, Anders Vedel,</l>
+<l>Med fordums Ærbarhed, dybsindig, lærd og ædel;</l>
+<l>Som hjalp af mørken Grav de danske Konge Drifter</l>
+<l>I dem han lever end og de udi hans Skuster.</l>
+</lg>
+<p>Det er kun derhos ikke at forgjætte, at det var 
+<pb facs="1814_7_page0085.png"/>
+<fw type="pageNum">59</fw>
+Troen og Guds Ord som virkede det Underværk ved Anders Vedel, som og alle dem der kom tilsyne paaden øde Mark *). Blandt disse Underværker skal det seent forglemmes, som heed paa Jord: Kong Christian den Fjerde, og ligesom han selv gav Himlens Gud Æren i Alt, saa er det i alle Maader aabenbart, at Gud gav Danmark hannem af stor Mistundhed.</p>
+<p>Det var om Efterhøsten, det næste Aar efter at Danmarks Krønike var udgangen med dansk Tungemaal, der Herredagen holdtes til Kallundborg, da kom derover en gammel Bondemand fra Samsø, og gav fore, at en Havfrue der under Lan« det havde givet ham den Tidende at bære for Kongen, at hans Dronning, som nu var frugtsommelig, skulde føde en Son, som skulde arve den Kongelige Krone og blive en ypperlig Herre imellem alle Konger og Fyrster i den Norre Verden, men derhos sagde den Graaskiæg, at det var og hans Ærende</p>
+<p>*) Det er at mærke at Anders Vedel, som og først udgav den Kiæmpevifebog, der vidner bøit om Danmarks Liv og Død, ei jordedes i Velle, men i Ribe hvor ham blev givet Kannikdom til Underhold, der han forlovedes fra Hove, dog vist ei for sin Præken over Frederik den Anden, thi i de Dage taalde Man Guds Ord.</p>
+<pb facs="1814_7_page0086.png"/>
+<fw type="pageNum">60</fw>
+<p>at paaminde hans Naade om at afskaffe den Synd og Ondskab med Drik og Løsagtighed, som gik nu i Svang. Eftersom nu Kongen havde længe, og det omsonst, ønsket sig en Søn og Arving, da maatte han gjerne lide den Bondemands Tidende, talde og selv med hannem paa Andersskov, der Herredagen var ude, lovede at tee sig som det egnede en christen Herre, ved Synd at afskaffe, og gav hannem en fyrstelig Tærepenge til hans Hjemrejse. Om den Handel vare Hjerternes Betænkninger mangfoldige i den samme Time, men hvad saa Bonden talede af, saa talde han dog Sandhed dennesinde, og det var end et underligt Ord, det som han siden fortalde efter den Havfrue, at det var hendes Mormoder som spaaede Kong Valdemar, der Dronning Helvig gik med Margrethe, at hun skulde føde en Daatter, som skulde overgaae sin Fader i Vælde og Regimente, thi visselig var det ingen Daare, som kunde sige om det nyfødte Barn at han skulde vorde, hvad han og blev, det mærkeligste Barn som fødtes i Kongens Gaard siden Valdemars Daatter *). Der det nu stundede til med</p>
+<p>*) Det er vel saa, at hardtad alle nuomtide kalde Saadant Tant, men dermed giøres det slet ikke til Legn, hvad som er upaatvivlelig vist, at den Bondemand talde saa, thi i Frederik den Andens</p>
+<pb facs="1814_7_page0087.png"/>
+<fw type="pageNum">61</fw>
+<p>Dronningens Forløsning, da blev det vidtløftigen eftertænke, hvor Hendes Naade skulde ligge udi Barselseng, og efterdi Frederiksborg var en rolig, og nu med Vaaren, mellem Skovene og Seerne, en meget fund og lystelig Stæd, blev det berammet at hun der skulde være. Der blev da stikket Bud til hendes Fru Moder, Hertuginde Elisabeth af Mekkelborg, som gav sig skyndelig paa Reisen og kom til Frederiksborg den 19de Marts, saa bestildes ogsaa nogle af de ældste og ypperste Fruer her udi Ri-</p>
+<p>Krønike, hvoraf en Part, om ei det Meste, er skrevet for Kong Christian den Fjerdes første svenske Krig (S. 138) og det andet snart derefter, fortælles den handel saa trohjertig og omstændelig, at al Tvivl maa forgaae, allermest naar Man læser om Bonden, der han kom igien det næste Aar og havde ingen gode Tidens der at føre, men kun Paamindelse om Levnets Forbedring, thi da skikkedes han hjem ei med en fyrstelig Tærepenge, men med stor Trudsel. Det er da kun Tingen hvad Man skal tænke om den Havfrue, og dertil er intet Bedre at svare, end hvad som staaer i den Krønike: vi maa bekiende at Guds Gierningers Mangfoldighed overgaaer al menneskelig Fornuft og med stor Beskedenhed domme om saadanne og hans mange andre den fordum Verdens underlige og utrolige Gierninger. F. A. K. S. 302. 308-11.</p>
+<pb facs="1814_7_page0088.png"/>
+<fw type="pageNum">62</fw>
+<p>get, saasom: Inger Oxe, Anna Pasbjerg, Helleberg <hi rend="spaced">Kross og Margrethe Rosenkrands</hi>, at de skulde altid blive tilstæde og vare paa hendes Naade. Medens den Forjættedes Fødsel nu saa forventedes med Længsel, da tænkde Kong Frederik derpaa at vinde mange gode Ønsker om Guds Velsignelse fra glade Hjerter, og skienkede derfor de fattige Bønder omkring Kiøbenhavn en Nytaarsgave, som var Tak og Ære værd, det var al den Landgilde som de stode med, henved atten tusind Tønder Korn. Han gjorde i de samme Dage og et andet Stykke, ikkun til sin Lyst og halv af Overdaadighed, men hvilket dog, som tit mon handes med ubetænkde Handler, har en synderlig Bemærkelse. Hans Majestæt bygde just dengang paa <hi rend="spaced">Kronborg</hi>, og som der nu paa Lappen laae en Steen, uhandelig og grusommelig stor, da tænkde Frederik derpaa at faae den flyttet til sin Borg, og det allermest, fordi den unge Pfalzgreve Ludvig og Nogle af Adel sloge til Væds med hannem, at den kunde ei fløttes ved Menneskehaand. Da lod Kong Frederik sine <hi rend="spaced">Baadsmænd</hi> tage Haand paa den Steen, og den blev fløi hen under Slottet, og siden sat paa det yderste Næs ved Søen at <hi rend="spaced">størke</hi> Grunden.</p>
+<p>Det var da den tolvde Dag April, Aar Femtenhundrede, Halvfjerdsindstive og Syv, at den ædelige Dronning <hi rend="spaced">Sophic</hi> naadelig forløftes med 
+<pb facs="1814_7_page0089.png"/>
+<fw type="pageNum">63</fw>
+den Søn som vorde til den navnkundige Hr. Christian den Fjerde, og flux udskikkede hun en af sine Herremænd til Kongen som var i sit Kammer, i <hi rend="spaced">sine gudelige Bønner</hi>, og takkede sin Gud med Glæden, der han fik den Tidende at spørge at hannem var født en levende og lydesløs Søn. Siden blev Hans Majestæt indkaldt, og annammede sin unge Søn paa Armene, gav Gud Ære med lydelig Stemme og ønskede Drengen al Naade og Velsignelse. Derefter blev beraadslaget om den unge Herres Christendom og et fyrsteligt Barsel, og om fælles Venner at indbyde, og det blev forordnet, at Varselet skulde svære i Kiøbenhavn <hi rend="spaced">Hellig Trefoldigheds</hi> Søndag, men Dronningen skulde blive paa Frederiksborg til <hi rend="spaced">Pindsedag</hi>, og holde da <hi rend="spaced">sin Kirkegang</hi> *). Sødt og underlig maa vel hver, som end haver Hjerte, bevæges ved at indkige i Kongens Gaard og see og høre der saadan hjertelig Gudfrygt og christelig Eenfoldighed, ja det maa man sige: i saadanne Tider og saadanne Sale der fødes saadanne Konger som Christian den Fjerde.</p>
+<p>Der nu Hellig Trefoldigheds Søndag kom med et deiligt Veir og Solskin, da blev den unge Herre døbt i vor Frue Kirke med stor Høitid, dog vilde</p>
+<p>*) Frederiks Krønike. S. 303-5.</p>
+<pb facs="1814_7_page0090.png"/>
+<fw type="pageNum">64</fw>
+<p>Kongen at der med Kirketjeneste« skulde forholdes simpel og eenfoldig efter Ordinansen, uden nogen Pragt og ny Ceremonie *). Stor Lystighed var og til Hove udi mange Dage, og de Høilærde med deres Studenter maatte lege sor Fyrster og Adelsmænd, hvorved da, med en mærkelig Daaredands, og blev legt den mærkelige Seier, som Konning David haver indlagt sig over den mægtige Kiæmpe og Philister Goliath, hvilket vel maa kaldes et Varsel af de mærkelige og af de gode med **).</p>
+<p>Det er vitterligt, at den Fjerde Christian mistede sin Hr. Fader, der han var end et Barn, førde saa i Tredsindstive Aar Kongenavnet, og i mange af dennem Spiret med en trofast og en kraftig Haand, var ingen Helgen i sit Levnet, men dog en ærlig Kiæmpe, og en Nor Forfremmer af Guds Ord og ret boglig Konst og en Christen i sit Hjerte; som han og grandgiveligen lod see naar Ordets Tjenere straffede frimodelig dans egen Synd, og ret uforglemmelig, der Mester Ole Vind Saadant gjorde, som sagt er i Rimet om Hr. Ole***). Store Omskif-</p>
+<p>*) Fred. And. Krønike. S. 306.</p>
+<p>**) <hi rend="latine">lbid</hi>. S. 307.</p>
+<p>***) Zveras Sjællandske Cleresie. S. 588-91. -For en god Vens Skyld skal det her anmærkes, at</p>
+<pb facs="1814_7_page0091.png"/>
+<fw type="pageNum">65</fw>
+<p>telser, stor Bedrift, fære Hændelser, svar Trængsel, megen Fordærvelse, Varsler baade til Glæde og</p>
+<p>isteden for de trende Vets i Hr. Oles Vise, for de Ord: Ja der, saa faldt hans hvasse Ord, til: Og der kom Bud fra Kongens Gaard, var af Begyndelsen kun eet og saa lød det:</p>
+<lg>
+<l>Ja der, saa faldt hans hvasse Ord,</l>
+<l>Der skal man Christne finde!</l>
+<l>Ja Løgn og Leflen, Drik og Hoer,</l>
+<l>Af Sligt er Nok derinde,</l>
+<l>Og allermest det sjette Bud</l>
+<l>Med Ol og Viin er lædsket ud</l>
+</lg>
+<p>Af Herren og hans Svende. Ole Vind var en Sjællandsfar, født i Hyllinge Præstegaard Voldborg herred 1590. Han berømmes for en mægtig Græker, var først Præst ved Hellig Gelstes Huus, blev Stiftsprovst og Præst til Vor Frue 1640, Hofpræst 1645 og døde Aaret derefter. Skrifter har han ei efterladt sig, uden to Liigprækener, hvoraf den ene er over den velbaarne og strænge Nidder Hr. Holger Jørgensen Rosenkrands, og det er baade mærkeligt og glædeligt, at Mester Ole skulde ved hans Grav lafmale de Helliges Levnet og Død efter Ps.73 25 seq. i den Prædiken mærker man ei synderlig den hvasse Tunge, men destomere den inderlige Kiærlighed, dybe Indsigt i Guds Ord og høie Salvelse, og disse Ting udtrykkes i en listig og fyndig dansk Talemaade, der ei giver Vedels meget efter.</p>
+<pb facs="1814_7_page0092.png"/>
+<fw type="pageNum">66</fw>
+<p>Sorg, alt Saadant er klarlig tilsyne i de samme Dage, og underlig vemodig, men dog glad i Herren, vorder en Christen, naar han ret betragter deres Lignelse. Under al den Kiv i Tydskland om menneskelige Meninger og Ord, var Guds Ord her i tvende Slægter forkyndt, men nu yppedes et svart Bulder, og det tegnede heel ilde med Kirkens Fred og de Boglærdes Hensigt; Somme vilde undergrave, og Somme vilde overflyve Kirken. Bistoppen i Fyen, Hans Knudsen; Mester Ole Kok, Præst til St. Nicolai, og andre Flere, mest Niels Hemmings Lærlinge, fore vild om Nadveren, og vilde kun Lidet derom vide, at <hi rend="spaced">Menneskens</hi> Son var Guds Søn, Mester Hans Povelsen Resen, som siden blev Biskop i Sjælland, kom nu frem med mange ny og sære Talemaader, som stilede efter at nægte, at <hi rend="spaced">Guds</hi> Søn var og virkelig <hi rend="spaced">Menneskens Søn</hi>, og gjøre Hans Kiødspaatagelse kun til en Lignelse. Det er da aabenbart, at paa de tvende Haneæg, der tykdes hinanden mest ulige, spraadede det dog for den samme Basilisk, den som engang skulde udblæse Gift mod det Korsens Ord, som er i Verdens Øine en Forargelse og Daarlighed. Aar 1614 blev det navnkundige Tvistemøde holdt til Kolding for den Kivs Skyld imellem Hans Povelsen og Ole Kok, hvor Kongen selv holdt Styr paa sine Klerke, og stog Bom for Krumspring. Saa-
+<pb facs="1814_7_page0093.png"/>
+<fw type="pageNum">67</fw>
+ledes, der Ole Kok ei vilde ændse de Sprog af Bis belen som Mester Hans anførde, men blev ved sit Mundheld: det er en ny Phrase, som Ingen for fandt i Bibelen, da sagde Christian: Mester Oluf! I er galen; I svarer Intet ret, og der han raabde paa de brave Borgermænd som holdt med ham, da sagde Kongen: ja, Søfren Tolder haver bedre Forstand paa at smage en tydsk Øl, end at judicere i saadanne Sager. Det er Sommes Klagemaal, at Kongen, fordi Mester Hans var hannem kiær, med saadan Tale forbluffede Hr. Oluf, og der er Noget i, men aldenstund man betænker, at den Konge, som i Kirkens Handler haver Armbaand, binder dermed Ingens Tunge at han løser sin, og dernæst hører at han og Paaminder Mester Hans at holde sig til Pogen og til Tingen, da har man ikke stort at klage, og det maa man sande, at efter Tidens Leilighed var det fuldbedre, at saadan Tvist blev dæmpet, end ført til Ende *). Uden al Tvivl var Hans</p>
+<p>*) Zvera. S. 140 - 49 Pontoppidans Annales Tb. 3. S. 612-72. Resen havde og Stridighed med Professorerne Stobæus og Aslak, og enddog han i sin egen Trætte havde Uret, saa vare de dog beage halv eller heel calvinske Phillister. Resen var en Præstesøn fra Iylland, og tog sit Navn efter sin Fødebye i Skodbops Herred, Rider Stift.</p>
+<pb facs="1814_7_page0094.png"/>
+<fw type="pageNum">68</fw>
+<p>Povelsen Resen det skarpsindigste Hoved mellem alle Sjællands Bisper, ja kanskee mellem alle danske Præster, og havde i mange Stykker en langt klarere Erkjendelse af Bibelens dybe Taler end nogen Anden i de samme Dage, men som det altid er saa, at Kundskab opblæser, da maatte hans Fristelse være desstørre, og han overvandt den ei for ved Aarenes Tiltagelse. Tungt var det tilvisse, at det i de Dage allerede skulde giøres behov at binde de Høilærde med Eed til den Augsburgske Confession, men glædelig er det dog i Ligning med Saxland, at der kunde læntes saalænge, og endda meer, at i den danske Menighed bundes egenlig Ingen uden til Guds Ord; mærkeligt er det og at Hans Povelsen skulde selv være den, som snoede Baandet, og aldenstund han visselig var et Forbillede paa den Menighed vi vente, da maa det kaldes et Varsel af de bedste, ja et Forvarsel om at danske Klerke, naar de end vorde kloge, dog ei vil det være <hi rend="spaced">over</hi> hvad som skrevet staaer, men vide ret christelig Eenfoldig, hed at holde høit i Ære, og sige med Hans Povelsen: hvis jeg dig glemmer, Luther kiære! og din liden Catechismus, da glemme sig min høire Haand! Hvad som endnu gjør den Forordning mere mærkelig, er, at den stedte ved den unge Herre og udvalgte Konge Christian, som døde før han kom paa Tronen, men efterlod sig dog derved, og 
+<pb facs="1814_7_page0095.png"/>
+<fw type="pageNum">69</fw>
+ved Forordningen om Bede og Bedrings Dage, ugentlig i Byerne og maanedlig paa Landet, et herligt Mindesmærke om at han var Jesper Brochmands Fosterføn *).</p>
+<p>Gaae vi nu af Kirke og kige ind ad Borgeled, da times os ei mindre mærkelige Syn, men ikke af de bedste. Vist er det glædeligt paa Rosenholm at see den lærde Holger imellem Bøgerne, med Bibelen for Øie, at prøve paa at fostre unge Herremønd til Adelsmænd, men det er ikke just det bedste Tegn, naar stig en Mand i sine bedste Aar forsage Rigens</p>
+<p>*) Saa kom de Bededage nu, til hvilke at beskikke den Samsing formanede omsonst Kong Frederik. Det var ogsaa Resen, som udvirkede at 1617 Takkefest blev holdt for Reformationen, og siden aarlig den Oration ved Høiskolen og Mindeprækenen pa i Alle Helgens Dag, hvis Bøn han ogsaa skrev, foruden Bønnen til Nytaarsdag og andre Flere, hans Skrifter ere mange, mest Smaabøger til Opbyggelse, men hvad han sigtedes for, var især hans Disputatser De Deo Triuno og De uno Mediatore, hans Forsvarsskrift kaldes: De sancta fide in Verum Deum, et qvem ille misit, Jesum Christum. (Zverg. S. 150-152 162-63). Det er ei heller umærkeligt, at hans Lug lagdes under samme Steen som <hi rend="spaced">Peder Plades</hi>, og at dans første Hustru ligger i Roskilde Kirke.</p>
+<pb facs="1814_7_page0096.png"/>
+<fw type="pageNum">70</fw>
+<p>Handel og haver travlt med boglig Konst og Skolehold, og gaae vi rundt i Riddersalene, da see vi og, der er langt mere Adelskab paa Væggene i Fædres Lignelse at stue, end i Sønners Færd, ja vandre vi til Glimminge i Skaane og betragte Holgers Navne, da see vi, hvilke onde urter der sadde nu heel <hi rend="spaced">uanfægtede</hi> i Danmarks Rosenkrands, thi det var ham som paa en Markedsdag haandterede saa spottelig sin Biskop, Hr. Mads Jensen Medelfard, fordi han ikke maatte lægge sine Præstekald i sine Terners Skiød *). Det er altid til at sørge over, naar man seer, at de velbaarne Slægter, som have været Rigens Prydelse og Størke, arges saa, og førge maa man overmaade naar alligevel de vanartige Børn beholde under gjæve Fædres Skjold det Vaalen de ikkun besmitte og misbruge. Ingen tænke at der for en Enkelts Brode sluttes saa dumdristelig, om Danmarks og dog mest om Vernes og Skaanes</p>
+<p>*) Zverg. S. 344-46. Det er ellers værd at mærke at Hr. Mads dette maatte lide l den samme Stue, hvor han havde viet Kongen til Fru Kirstine Munk, en Gierning som Man kan vide holdtes for at være utilbørlig, siden Konaen ikke dertil kaldte en af sine caue Præster, men Hr. Mads som da var Præst til St. Nicolai, og blev ved den Leilighed Hofpræst, og fik Adgang til Bispestolen.</p>
+<pb facs="1814_7_page0097.png"/>
+<fw type="pageNum">71</fw>
+<p>gamle Adel, thi det er aabenbart af Rigens og af Borgerstuens Krønike, at Holger havde ei alene, som Kong Christian sagde, alt sor mange Svogre udi Rigens Raad, men alt for mange baade Svogre og Brødre rundt i Rigens Borge; det er aabenbart, at Danmarks Adel, som i det femtende Aarhundrede var dybt fordærvet, bedredes kun i det sextende ved Herrens Ord en liden Stund til at oprejse sig den prude Bautasteen ved Svarteraa og raade Spiret nogenlunde sømmelig i Fjerde Christiansjunge Aar; thi der Niels Kaas, den fromme, lærde og forstandige, var død, da var det moxen og forbi med Danmarks Adel som en Hjørnesteen i Rigens Raadhus og Landsens Taarn og Kongens Borg; alt dengang fad Hr. Arild Hvitfeld paa Hans Naades Slot Dragsholm, som ei for Intet kaldtes siden Adlersborg, og nedgrov som en aarvaagen Cantsler de gamle Brevskaber og andre Pergamenter som han fandt i Rigens Skrin, forseiglede af Riddere og Væbnere i fordum Tid, og man kan sige at ligesom det var en Adelsstik fra Arildstid, at jorde Slægtens Seigl med Adelsmanden, naar han døde sønneløs, saa jordede den sønneløse Arild paa sit Cantslerembeds Vegne Adelsseiglet udi Adelgraven, og forgjæves søgde Holger Danske at opgrave det igjen, han hængde over Graven kun sin Rosenkrands til den Hensovnes 
+<pb facs="1814_7_page0098.png"/>
+<fw type="pageNum">72</fw>
+Ære *). Stam faae den som vil nedrive Krandsen, thi foruden al den Tjeneste den brave Ridder gjorde i Marken og ved Rigens Bestilling, da er det og ham vi have at takke for Saxos og for Vedels Vog, og havde vi ei Arilds, da skulde vi nu ei føre lang og Sandfærdig Tidende om de Dage mellem disse Tvende **). Det maa heller Ingen nægte, at</p>
+<p>*) Det er og mærkeligt, at der blev sjunget ved Holgers Grav paa Latin, som om det var Danmarks i Rose der begroves, ja et af de mange Liigvers over bam, fører endog Navnet: Rosa Daniæ qvæ floruit et reflorescet, og kan hartad heeligiennem læses som et Klagemaal over Danmarks visnede Adelrose, og en Ahnelse af dens Gienfødelse. Disse Liigvers staa at læse bag Ole Vinds Liigpræken.</p>
+<p>**) Den som vil rettelig vurdere Arilds Krønike, han skal først vide dette, at mange mærkelige Brevskaber vare nu ingensteds at finde, om de ei fundes der, derfor skal Herren loves, som ved Arilds haand giemde Brevene til os, som ved Saxos Rim og Sagn; dernæst skal han mærke paa Arilds Fortaler, hvor sint og fyndig han forstod at feie sine Ord; og love Cantsleren, som heller vilde vel forvare Rigens Breve, end vinde Pris ved at sammenskrive en lystelig Krønike, som paa den Tid kunde aldrig blevet, hvad den nu kan vorde, men og kun vorde ved Hr. Arilds Hjelp.</p>
+<pb facs="1814_7_page0099.png"/>
+<fw type="pageNum">73</fw>
+<p>mangt et enkelt Blad har solet sig til Krandsen under Tidens Løb, kun det er Tingen, at aldrig siden var den gamle Adel som en Stamme Rigens Prydelse og Piller, og i Corfits Ulfeld kom dens Vilkaar og deres Undergang i en Lignelse tilsyne.</p>
+<p>Ei er her nu vidt og bredt at tale om Kong Christians Bedrifter, men kun det at melde, at fra den Time han uddrog af Landet at stride mod Guds Kirkes Fjender, syndes det, som Lykken var bortvegen, ja fra den samme Stund begyndte der at falde Steen paa Steen af Tvillingkronen, indtil den endelig adskildes ganske, og den Leding maatte da af Verdsligvise kaldes hin ulyksaligste for Dannemark, og det saameget mere, som hvad Christian udrettede var ikkun at varsle for Gustav Adolphs Hæder og den svenske Vælde som Danmark maatte krandse med Lov og Blommer af de bedste, hun havde i sit Skiød. Alligevel kan Christne godt forstaae, det er ei muligt at den Leding kan være Forleed i en Kiæde af Ulykker, men at naar med den en Vanheldstid begyndte, da var det vist en Tornevej, som maatte trædes for at naae en Rosenborg med favert Spir og klare Glugge paa det høie Taarn, om og den skulde ligge nær ved Tidens Vestervold, og kun forgyldes af dens Aftensoel og overgroes udi Morgenrøden af Rosentræerne i Kongens Have. Det var for i Gaar, at et saadant 
+<pb facs="1814_7_page0100.png"/>
+<fw type="pageNum">74</fw>
+Syn oprandt for gudelige Øine; thi det var netop i den tydske Krig, i Adventstiden, sytten Dage sør Jul, Aar Sextenhundrede og Femogtive, der Kongen laae paa det Slot Rothenburg i Verden, da laae hans Hofprædikant, Morten Madsen Leiet i sine gudelige <hi rend="spaced">Bønner for den christne Kirke</hi>, og da syndes det ham, at Frelseren stod for ham i sin Lidelses Skikkelse med Tornekronen, og trøstede ham dog saa blidelig med Rosen, hvilket Syn Kong Christian lod afmale, som det endnu vel er at see, og det skal være Dannemark et trofast Pant derpaa, at Tornekronen skal ved Herrens Miskundhed udspringe til en Rosenkrands *).</p>
+<p>*)Zverg. S. 553-54. Det er værd hermed at sammenligne hvad Erik Pontoppidan den Ældre siger i verdslig Stiil om Dannemarks Rose:</p>
+<p><hi rend="latine">Non <hi rend="italic">Paphiæ</hi>, een vanse, Deæ devota, virescit</hi>
+<hi rend="latine">At <hi rend="italic">vero</hi> sacrata Deo Rosa</hi> — — —
+<hi rend="latine">Explicitis frondet foliis, et <hi rend="italic">sangvine</hi></hi> — —
+— — — — <hi rend="latine">suffusa nitenti</hi>
+<hi rend="latine">Flore rubet, gratosq, suos diffundit odores</hi>
+<hi rend="latine">Vertice, qveig pulso revalescunt ægra dolore</hi>
+<hi rend="latine">Pectora, et obtusi sensus acuuntur. Odorat</hi>
+<hi rend="latine">Non patrias tantum dulcis fragrantia terras;</hi>
+<hi rend="latine">Ast etiam tractus alio sub sole jacentes.</hi>
+<hi rend="latine">Post multos tandem, qvibus hic ita floruit, annos,</hi></p>
+<pb facs="1814_7_page0101.png"/>
+<fw type="pageNum">75</fw>
+<p>Dog, det var Synd at sige, at Herren kun ved dette Syn aabenbarede sin Miskundhed, og lod det varsle lyst for Danmark i den Kongefaders Dage. Det var ved hans Fødselstid, at hans Hr. Fader lod ved tydske Bjergmænd lede efter Malm i Rorge, men det var Sextenhundrede og Treogtive, da blev ved Kongsberg fundet den første Solvermalm af tvende <hi rend="spaced">Hyrdedrenge</hi> Jacob og Christoffer fra Gaarden Giorvold, og det var etogtive Aar derefter, da sundes først ved Røraas Kaabbermalmen af den Bondemand, Hans Olsen Aasen; og som det var en stærk Paamindelse derom, at det som søges udi Jorden er i Herrens Haand, saa var det og et Var-</p>
+<p>— — <hi rend="latine"><hi rend="italic">Australis </hi>violento flamme venti</hi>
+<hi rend="latine">Infestata cadit fulgente nitentior ostro,</hi>
+<hi rend="latine"><hi rend="italic">Hei Rosa! et emoritur lethali flaccida vermis</hi></hi></p>
+<p><hi rend="latine"><hi rend="italic">Morsu</hi></hi> 	 — 	 —	— —</p>
+<p><hi rend="latine"><hi rend="italic">Haud</hi> moriendo <hi rend="italic">perit</hi>. Vivas prodibit in auras</hi>
+<hi rend="latine">Rursus, et Elysus <hi rend="italic">rediviva virebit in hortis</hi></hi>
+<hi rend="latine">Nec deflorescet</hi>: — — — — — —</p>
+<p><hi rend="latine">Fulgida gemmantes pingent dum sidera coelos,</hi>
+<hi rend="latine">Et genitrix florum producet germina tellus.</hi></p>
+<p>Det er ligefrem at Pontoppidan kun tænkde paa de Rosenkrandsers Slægt i Norden, ogsaa kun paa den tænke vi, men indlemme Blommerne deri, ei efter deres Navn men efter deres Duft, og da først blive Ordene i alle Maader Sandhed.</p>
+<pb facs="1814_7_page0102.png"/>
+<fw type="pageNum">76</fw>
+<p>sel om at Sølverkroner og at Kaabbersværde skulde aandelig engang udspringe af de norske Fjelde til Prydelse for Christian Dannerkonge Isse og til Værge ved hans Lænd, ja at i det høie Norden skal af Hellig Korses Kilde Vandene udgaae som en kaabberstrubet Elv og som en Sølverlaug *).</p>
+<p>Det var i Frederik den Andens Dage Aar 1567 der Svensken belagde Aggershuus, at Osloe brændtes, Somme fige af Slotsherren selv Hr. Christen Munk, men Andre det som rimeligere er, af Svensken, der han maatte flye, og enddog der byggedes paa den igien, saa hjalp det kun føie og den brændte hvad man kalder af sig selv 1624. Da gjorde Kongen selv en Afridsning til den nye Stad som blev kaldet Christiania, og det er vel troeligt at</p>
+<p>*) Frederik den Andens Krønike S. 303. Vings Norges Beskrivelse S. 336. 514. Laug er paa det gamle Tungemaal et Bad og Glaum et klingende Bulder, hvilken Bemærkelse det endnu har i Ordet: <hi rend="spaced">Glamhuller, som Kirke -taarnets Lydhuller</hi> kaldes i Siælland. Glommens gamle Navn: Raum betyder og et Bulder, men et mere vildt og døvende som end kiendes i Ordet: Rummel, og man kan end sige, at Elvens tvende Navne betegne den hedenske og den christne Krast i deres Adskillighed,</p>
+<pb facs="1814_7_page0103.png"/>
+<fw type="pageNum">77</fw>
+<p>ben Høiskole, som der kom siden til at være, kan vorde til et Vandspring nok saa godt, som dem Kong Christian forordnede, ja det er troeligt, at det Kirkeoffer af en Konge til Vor Frue, som var tilsyne i hendes Kirkeseigl i Osloe, nu er paa gode Veie *); og det maa man sige at Didriks Ætmænd havde for det meste Sind til saadant Offer, og gave det tilkiende ved Gudsord at forfremme og udbrede, og Kirkens Tjenere at ære og Kirken at opbygge. I saadan Idræt var og Fjerde Christian den Ypperste, som den Udlæggelse af Bibelen, der ved hans Omsorg og Hans Resens Klid udgik, og den Hellig Trefoldigheds Kirke i Kiøbenhavn, som efter hans Hoved blev opbygget, vidne. Vel maatte det hardtad synes, som om ingen Kirke her i Norden med det Navn kunde trives og bestaae; thi Domkirken i Roskild heed saa af Begyndelsen, men blev siden kaldt St. Lucii og paa dansk St. Luds **), den Trinitatis</p>
+<p>*) Frederik den Andens Krønike S. 168. Danske Magazin XI. Hefte.</p>
+<p>**) Det lod sig fortælle, at der var en Trold i Isefjord, som tog Tiende af alle Skibe, indtil man hentede fra Rom Hovedet af Pave Lucius, der Trolden fik Syn paa det, da flydde han, deraf fik Kirken Navn, og paa den gamle Altertavle var den Seilads afbildet. Marmora Danica</p>
+<pb facs="1814_7_page0104.png"/>
+<fw type="pageNum">78</fw>
+<p>Kirke, Kong Christian lod bygge i Christiania, hun blev ei gammel, før hun brændte, og den i Kiøbenhavn har næsten altid ikkun hedt <hi rend="spaced">den Runde</hi>; men det maa dog vel lykkes paa det Sidste, aldenstund Trefoldigheden er den Første og den Sidste, og derfor maa man vel i Runde Kirke, som blev fuldbygget af Kong Frederik, see som en Tegning til den Kirke, paa hvilken Christian og Frederik har bygget med Guds Ord i de mange Aars Dage, og det saameget desmere, som det Kirkeloft er fuldt af Bøger, og spaaer om den Tid, da det skal sees og bekiendes, at boglig Konst maa hvile sig paa Kirkepillerne ifald den skal bestaae, og opløftes af dem, naar den skal blive høi over Jorden, og derfor, naar den er sanddru, vidne paa det stærkeste om Kirkens faste Grundvold og Samfund med det Himmelske. Ja, man maa vel sige, at Bøgerne i tætte Hylder, som er de Dødes underlige Tunger, med Sværdene og Askekrukkerne fra Hedenold, tyde paa det Tidsrum som er næst forhaanden, da Saga skal frembære sit store Vidnesbyrd om Gud og Ordet, saa Fædres Aske vorder Troende en Helligdom og rustue Kiæmpesværde sjunge høit i Skye over Christians Bautasteen; da det skal sees, at for Intet sankede sig ikke tvende Gange Runestenene ved Rundetaarn, den førstegang opmuredes med dem kun <hi rend="spaced">Klokkerkamre</hi>, men andengang stal de op 
+<pb facs="1814_7_page0105.png"/>
+<fw type="pageNum">79</fw>
+voxe med udvendt Skrift alt til et <hi rend="spaced">Rundetaarn ved Trinitatis Kirke</hi>, hvor Navnet <hi rend="spaced">Jehovah</hi> er klarere at see. Men hist, paa <hi rend="spaced">Kirketaarnets Isse</hi>, hvor man med stedne Glas har prøvet saalænge at kige dybt i Himmelrummet, og drage Stjernerne til Jorden, der varsles om de sidste Dage, da det skal sees, hvad som i Venus af de Gamle er afbildet, at <hi rend="spaced">Korset bærer Kuglen</hi>, og at naar Glasset ikkun slibes og holdes retteligda vorder overalt i Skikkelsens Mangfoldighed det samme Korsens Tegn tilsyne, ja da det endelig skal sees uden Glas, at Himlens Stjerner falde ned til Jorden, og Himlens Bog med Tidens sammensvøbes.</p>
+<p>Meer end halvandethundrede Far ere nu henrundne siden Fjerde Christians Afgang, og end ere Varslerne det Eneste som monne trøste danske Christne over Fædrelandets bange og forsmædelige Kaar; Mellemrummets Hændelser, naar de ei sees udi Herrens Lys, synes ikkun at forkynde og betegne Danmarks Helsot, men, naar de betragtes rettelig, da sees de tilsammen at stile paa, at Soten ingen <hi rend="spaced">Helsot</hi> skulde vorde, men at Guds Søn maatte æres ved den, naar Lazarus, alt stinkende i Graven, udganger paa Hans Ord lyslevende igjen, og kaster Jordelinet og holder Nadvere med Ham.</p>
+<pb facs="1814_7_page0106.png"/>
+<fw type="pageNum">80</fw>
+<p>Der den gamle Adel, som sagt er, var nu heel vanartig, og var dog Rigens Raad, og raadte for det ganske Rige som Odel og som Lehn, da maatte det staae ilde til med Raad og Daad, og der var intet Raad undtagen der kom andre Slægter til at raade; men sligt Omskiftelse var nu slet ikke at formode, aldenstund at Corfits Ulfeld med den tykke, sølvforgyldte Bælg, og med det rænkefulde Hoved og den lange Hale var blevet Markens Herremand og Mesteren til Hove, og axled et Skind af Løvehuden; da det lod som Kongestamme« var sjunket under Tronen med Christians den udvalgde Prindses Kiste, saa Adelhoben kunde nu vel stifte Kronen eller dog dens Ædelstene som et Rov, og smedde den saa trang at den kun pasde til et Barnehoved, og maatte klemme det som større var istykker. Saalunde blev og Kronen ranet og indknebet, før den kom paa Frederiks Hoved, eftersom nu det var dannet efter Bispehuen, og til indvendig Vext, da følde han ei Trykket stort, men Landet følde det, og Haabet tykdes ude, thi ikke var han Kiæmpe til at prøve Storke med de stærke Ringe, og det er vist desuden, at Konger, som vil blokke Kronen ud, de sprænge den, saa den maa revne, om ei sønderspringe. Det var da en Gaade, alt for dyb for Mandevid at løse, hvorledes Kronen kunde saa udvides, at den var passelig til Folkets Hoved, og ei 
+<pb facs="1814_7_page0107.png"/>
+<fw type="pageNum">81</fw>
+som nu ikkun til Adelens Skabildken; men der var dog Een, som kunde løse Gaaden, og at Han vilde det, derpaa gav Frederik sin Troe tilkiende, der han satte paa sin Krone: Herren vil Omsorgen bære *), ja at Han vilde, gav Han selv tilkiende, der Han det gjorde aabenbarlig. Det var den feige Adel selv som udæskede Kong Karl Gustav, og tænkde at den kunde udi Søvne vinde <hi rend="spaced">Lehnene</hi> igjen, som den skammelig forsagede i Christians sidste Dage. Det er vitterligt i hvilken Nød Danmark blev stædt i denne Feide; der Anders Bilde <hi rend="spaced">Rigens Marsk</hi>, i dens Begyndelse, saa skammelig lod Frederids indtage, da kan man sige, at de danske Skjoldmænd i en Lignelse gav Danmark og dets Vaaben udi Fjendens Haand, det var en gruelig Vinter, i hvilken Adelshjerter og Adelsfingre kunde fryse saa, og det er sandt i alle Maader at det var paa frosne Bølger Carl Gustav gik fra Ø til Ø og slog sin Leir i Kildevangen, og nødte saa de frosne Fingre, af hvilke Skiold og Landse faldt, til med Pen at overskiære Danmark og Nørrefjeld og stile Gavebrev til Dannemarks Forræder, og kalde Saadant <hi rend="spaced">Roskilde Fred</hi>. Dog, Herren sørgede, som Frederik sagde, Svensken meende vel,</p>
+<p>*) Frederik den Tredies Valgsprog var: <hi rend="latine">Dominus providebit.</hi></p>
+<pb facs="1814_7_page0108.png"/>
+<fw type="pageNum">82</fw>
+<p>det ganske Rige hængde som en Iistap Junder Fredriks Krone, saa det giordes kun behov at række Haanden ud, for at omspænde den og tøe den op i Svovelluer til et Sommerbad og til en Gammenskalk for ham, men, var den Vinter og heel stræng, og det var den visselig, vare Brøndene i Borgegaard bundfrosne for det meste. Kilderne paa Bakker og i Enge vare det dog ei; Herrens Rosenkilde var det endnu mindre, hen til den tyede nu Dannerfolket, Isen Smeltede og Kilderne oplodes, da varmedes et Bad og skiænkedes en Kalk for Svensken, saa Kiæmpehaarene de svedes af saa mangensteds, og Indvoldene tog til at brænde, og Gothekongen blegnede i Gothaborg det samme Aar, da den Trillingkrone han et Øieblik fik sprængt med sine Jernkiler, smeltet om og luttret, herlig sammenføiet, hvælvede sig vid paa Dannerkongens Isse.</p>
+<p>Ikke er det her at opregne stykkevis, hvorledes Gud kundgjorde overalt sin Miskundhed, hvorledes Folket vaagnede i Kirken og gik til Slaget i Guds fulde Rustning, ei heller at udlægge, at hvad som hændtes da, var end meer som <hi rend="spaced">Varsel</hi> end som et fuldbyrdet <hi rend="spaced">Værk</hi>; men det skal ihukommes, at der Carl brød ugudelig den gjorde Fred, og stormede til Kiøbenhavn, og sagde spottelig, at naar Landet først var vundet, da skulde han kundgiøre Krigens Aarsag; da var Guds Time kommen; da ydmygede 
+<pb facs="1814_7_page0109.png"/>
+<fw type="pageNum">83</fw>
+Kong Frederik og Folket med oprigtig Unger Hjerterne for Herren, begyndte Striden med en <hi rend="spaced">Bededag</hi> og stolede alene paa den Herre Zebaoth, Hærskarernes Gud og Kongernes Herre *). Der nu Folket fornam at Troens Skjold var dog det eneste som duede, da Spurgde de ei længere om Herreskjoldene, forsagede slet ikke, fordi de vare hullede og braadne, men bad og stred og stog og seirede i Herrens Navn. Det skal aldrig glemmes mellem danske Christne, hvor underlig Herren størkede og hjalp, hvordan den stille Konge var blevet til en anden Mand, hvordanne Helte der udginge af det dunkle Værkstæd og Studenternes de snævre Kamre, hvordan Clausholms enlige Taarn med den giæve Hans Friis trodsede Svensken og bredte sig ud over Iylland, hvordan Naskovs Børgere nødte Høvidsmændene til at staae, indtil Krud var ei længer i Byen, hvordan Bornholm og Trondhjem udspyede Svensken, hvorledes Laurids Undahl, sagtens Frænde til Snorros giæve Tolk, kiøbde Bøsser for alle sine Penge og</p>
+<p>*) Mallings store og gode handlinger 21. 93. og det er mærkeligt paa <hi rend="spaced">tvende</hi> Maader, at Talen om Kong Frederiks og Folkets Flugt til Gud, der Kiøbenhavn beleiredes, er det <hi rend="spaced">sidste</hi> Exempel paa Gudsfrygt, som stilles frem i Bogen. Aarsagen er bedrøvelig, men Varselet er godt.</p>
+<pb facs="1814_7_page0110.png"/>
+<fw type="pageNum">84</fw>
+<p>sin Kvindes Klenodier, og vilde aldrig derfor annamme enten Ærestegn eller Skiænk; og endelig hvilken Frelse Herren gav i den store Storm, i Natten til den ellevte i Blidemaaned, Aar Sextenhundrede, Halvtredsindstive og Ni, men tungt er det, at Bededagen, som beskikkedes til denne Frelses Ihukommelse er nu aflagt, og tungere at Ihukommelsen var svag, for Dagen lagdes af *). Der det nu var seet, at Adelstanden var udartet mens Borgeren i Kiøbenhavn</p>
+<p>Stod som en Adelsmand, og vandt sig Adelsnavn, da kunde det skee, som kom tilsyne paa den Rigsdag Aar Sextenhundrede og Treds, at Præst og Borger toge Blad fra Mund, og Vind af Kongens Hænder, og det mon ingenlunde skrives udi Glemmebogen, at udenlands, hvor Kongerne fik Enevælde, der fik de den med Glavind eller langsomt smaalige Rænkespil, i Dannemark alene fik de den, som et Klenodie, der lagdes dem i troer Hænde af Præst og Borger udi Jesu Navn. Det have sagtens mange meent, at det var uforstandighed, og at Landet havde faret bedre, om Rigens Stænder havde skiftet Magten ligelig indbyrdes, men det skulde man dog først og fremmest vide, at hvad som giøres kiærlig og troskyldig udi Herrens Navn er og det Gavnligste i alle Maa-</p>
+<p>*) Mallings Bog S. 85-106.</p>
+<pb facs="1814_7_page0111.png"/>
+<fw type="pageNum">85</fw>
+<p>der og i allenstund, det skulde man derhos betænke, hvad Glædeligt der <hi rend="spaced">i det Tidsrum</hi> er udrettet udenlands ved Stænder og ved Parlamenter, det skulde man og eftertænke, at Magten maatte kom met da til Præsteskabet, fristet og besmittet dem for længe siden, gjort dem forhadte mellem Folket i en vantro Tid, og faldet saa til Ødelæggelse i Mytteres og Pøbels Hænder, i de sidst forløbne Dage. Pri seligt for Danmarks Præsteskab, for Kirkens Svane, er da det Eftermæle, at han stog med sin Vinge Spiret fra Ræven, men rakde det lil Loven, og for langde ingen Magt, undtagen den han havde i sin Vinge, og sin Himmelsang.</p>
+<p>Vel kan det med Nette siger, at det ganske Lutherske Tidsrum er Borgertiden, eftersom det allevegne var Kiøbstædernes Indbyggere der forst annammede og fastest holdt paa Guds Ord, men ret øiensynlig begynder dog den danske Borgertid først med 1660, thi fra den Time var det borgerlige Slægter som med Kongen styrede Landet og gave Staten sin Skikkelse. Anderledes have mange dømt, fordi de saae de høie Embeder beklædte mest af Mænd med adelige Navne, men det er vel at mærke, at de, som forordne, regiere meer end de som føre Ordet eller Tegnet, ei heller at forgiætte, at Borgere som adles med deres hele Æt, for Saga blive ved at være Borgere, og naar Saadant agtes, 
+<pb facs="1814_7_page0112.png"/>
+<fw type="pageNum">86</fw>
+maa al Tvist bortfalde, om hvilken Stand der i det Tidsrum var den ypperste. Egenlig var det tilvisse Præstestanden, thi fra den udginge som Børn eller Fostersønner de fleste ypperlige Mænd, men den var kun igjen Borgerstandens Hoved, eftersom de sleste Præsteflægter have deres Rod i Kiøbstædhuse. Sligt saaes i en Lignelse ret aabenbart paa Sjællands Bi« stop, Jesper Brochmand, som fad i Fjerde Christians og Tredie Frederiks første Dage. Han var en Søn af Rasmus Søvrensen Brochmand, Borgemester udi Kiøge, han var den lærde Holgers synderlig gode Nen, og sørgede som han, ret faderlig for Efterslægten, saa det er Lyst at sammenligne den præstelige Skole i hans Bispegaard med Rosenholms den adelige. Af Holgers Skole udgik vel neppe een Adelsmand, som gjorde Danmark ret aabenbarlig Gavn og Ære, men af Jespers udgik tvende Mænd, hvis Navne seent kan glemmes, den Ene var Øversten Hans Friis, som i den svenske-Feide holdt ei alene mandeligen Skjoldet over Iylland, men sankede og svede de jydske Svende, som ved Nyborg lavede det varme Bad til Svensken *).</p>
+<p>*) Zverg. S. 206. Der Brochmand blev Biskop gjorde han og hans ædle Dannekvinde Sille Tønnesdaatter Balkemburg det andelige Løfte, at, eftersom de havde Velstand og ingen Børn,</p>
+<pb facs="1814_7_page0113.png"/>
+<fw type="pageNum">87</fw>
+<p>Den Anden var Peder Griffenfeld, hvis Greb i Statens Hjul, som Hver maa vide, har virket synlig paa dens Gang, indtil den Dag i Dag, og han var ei blot optugtet udi Bispens Gaard, men blev og af ham Kong Frederik anbefalet, der Kongen var engang til Giæst hos Bispen. Nu maatte man vel spørge, hvad Ære Borgerstanden haver af sin Idræt, og den maa synes liden aldenstund at de mest navnkundige Bedrifter til Søes oa. Lands virkedes endda ved Adelsmænd, og ei engang en listig Krønike om sin Tid og sine Konger har den kunnet sammensætte,</p>
+<p>da vilde de anvende al Bispedommets Indkomst til gudeligt Brug. De holdt det trolig, gave mange fattige Studentere frit Bord, gav 7000 Rdlr. til Vartov, 1000 til Professorers Enker, 1000 til fattige Peblinge i Vor Frue Skole, 500 til Aarhus Hospital og 2000 til et Stipendium for en theologisk Student. Desuden skiænkede Brochmand hardtad 4000 Bøger til en Grundvold for høiskolens Bogsamling, og hans Enke gav 500 Rdlr. til en Underbibliothekar. Zverg. S. 217. Det er ogsaa Brochmand der saa sor« standelig har sanket Sentenserne af Guds Ord i Catechismus, og forfattet de deilige smaa Bønner, hvormed Kirketjenesten endnu begyndes og endes. Hans theologiske System var længe vidt berømt, og er oversat paa Engelst, hans Postil blev flittelig brugt i 100 Aar.</p>
+<pb facs="1814_7_page0114.png"/>
+<fw type="pageNum">88</fw>
+<p>og Modersmaalet lod den blive til Foragt, og holdt det for sin Ære at ombytte eller og forvanske det med fremmed Gods, ja den forlorede det ypperste Klenodie, som Folk kan eie: Christendom. Vift skal da Borgeren ei brøste sig mod Adelsmanden, ei heller bramme af sin Færd, men derfor maa det ei forgjættes, at den ei havde ringe Deel i de første Lutherdages Hæder, ja fødte den i Herrens Frygt, og at dens synlige Regieringstid indfaldt i Dage, som vare onde overalt, og dog ingensteds saa lidet, som i Tvillingriget; derhos maa det og betænkes, at senere kundgiør sig hos Borgeren den høie Kiærlighed til Fædrenes Bedrifter og Følelsen af Eenhed med det Hele, end hos Adelsmanden, hvis Stamtræ bar Bedrifterne som sine Blomster, som i det ganske land saae sin og sine Ahners Odel; først, naar engang paa ny Kraft og Kiærlighed gienfødes udi Hjerterne formedelst Troen, da vil det vel, ei i mange, men i blanke Dage, aabenbares, hvad den danske Borger er, og mægter at frembringe, thi nu har ogsaa han sit arvede Navn og sin Stamtavle, et sikkert Kiendetegn paa den levendegjorde Bevidsthed af den Følelse der knytter det Forbigangne og det Tilkommende til det Nærværende; og den christnede Borger vil paa sit Stamtræ lede mest efter aandelige Frugter, Gudsfrygt og boglig Konst; uden derfor at være enten raadvild eller feig.</p>
+<pb facs="1814_7_page0115.png"/>
+<fw type="pageNum">89</fw>
+<p>Ei er det lysteligt men lærerigt at betragte hel de tvende svenske Feider, som Dannemark begyndte unødvendig under Christian den Femte og Frederik den Fjerde, de førdes begge i den Mening at Skaane og det øvrige Forlorne skulde atter vindes, og Vindingen var efter Sverrigs Vilkaar rimelig, og naaedes dog ingenlunde, og dog maa denne Skuffelse at Haabet kaldes Danmarks store Vinding. Naar man seer de svenske Snekker med deres Admiraler stye paa Bølgen eller og i Luften for Niels Juul, seer ham fra Kiøgebugt forfølge Vraget af den stolte Flaade ind til Malmøes Havn, og hardtad Hælvden af den stævne under Dannebraag til Kiøbenhavn, naar man seer Christian i Lund, og Svenskens Landhær stygtende ved Fehrbellin, da maatte man vel tænke Haabet kunde aldrig glippe, men det glippede, og Dannemark vandt i den Fred til Lund end ei et Straasbred Land. Naar man seer Fjerde Frederik i Pagt med Ruslands Czar, med Polens og med Preusens Konger feide paa sin Naboe, og Sverrig kongeløs, og knælende for Czaren, naae man seer Tordenskjold i Dynekilen, ved Marstrand og ved Gotheborg og paa sin Hukkert, og paa Skaanes Kyst *), og rundt paa Rigens Strømme Gabel, Sehsted, Gyldenløve og Just Juul, og Ivar Hvit-</p>
+<p>*) Mallings Fortællinger S. 180-190. 260.64.</p>
+<pb facs="1814_7_page0116.png"/>
+<fw type="pageNum">90</fw>
+<p>feld over Kløge Bugt med Dannebraag, og Lueskriften over Fredrikssteen, og Karls Liig derunder, da maa man tænke, nu faaer Danmark Vod, og maa dog See, at den paa Fredensborg fik ingen. Men naar man da og feer, at <hi rend="spaced">Skaanes</hi> Adel, gjennem Tidens Løb har avlet mange Frænder af Holger Herremand lil Glimminge, og derhos betænker, at  i det Tidsrum, under hvilket Hovmodighed og Vantro og Vold og Rænker finge Herredom i Landene, da maatte Dannemark og blevet uvillig til Ydmygelse, udygtig til Gienfødelse, hvis Lykken havde føiet hende, og det i siige Handler, om hun var ved sin Arm eller Kløgt blevet Nordens Dronning; da have vi vel med Grund at love Herren, thi i kun den som hun leed, de Vanheld som hun fristede, hvergang hun vilde vorde stor paa Berdens Viis, den Ringhed hun nedsank udi, kun disse Ling have end bevaret saadan Jord i Hjertegrund, at Herrens Ord kan i Hans Time spire og opvoxe der, og bære Evighedsblomster til en Krands om hendes gamle Tinding, og bære Frugter til Fuldkommenhed. At det var Herrens Haand som for« nedrede Danmark og udrev Byttet af hendes Haand, hvergang hun greb derefter, det er ret aabenbart, naar man seer de Laubærkrandse, hendes Sønner bandt Lil hende i de samme Dage, ei hjemme blot, men ogsaa udenlands, naar man seer at medens 
+<pb facs="1814_7_page0117.png"/>
+<fw type="pageNum">91</fw>
+hun blev ringe og berøvet, teede hendes Sønner sig som de drabeligste Mænd i den ganske Verdenspart, vare deres Fjenders Skræk, og deres Venners Tillid. Det var Cort Adeler, den Nordmand, der i Venedigs Tjeneste dæmpede de <hi rend="spaced">sidste</hi> stærke Rørelser af Tyrkerne i Middelhavet, og det var i Tredie Frederiks Dage at han til Forundring og til et <hi rend="spaced">mærkeligt Forvarsel</hi>, lagde <hi rend="spaced">Tyrkens Halvmaane</hi>, Sværd, Skjold og Stridsøxe for Danmarks Fod *). Det var i Fjerde Frederiks Dage at den Fjortende Ludvig befoel sine Høvdinge at holde Slag før de Danske kom til Ramilliers, og maatte dog spørge den Tidende: at de vare ilede did over Kræfterne for at sønderhugge hans Huustropper og bramme med deres Banner. Det var i de samme Dage at den Prinds af Anhalt raabde ved Hochstædt til sine stygtende Preusser: seer I ikke, hvor de Danske holde Stand og hvor tappert de staae; at Prinds Eugen sagde ved Tournai: jeg stoler paa de Danske, at <hi rend="spaced">Marlborough</hi> svarede de Hollands Herrer, som misundte de Danske det gode Underhold der i Flandern var dem lavet: havde de ikke været skulde nu maaskee Ingen af os sidde her; det var dengang at England kuede Irer og Østerrig ungarer ved de Danske, og uden dem havde da ingenlunde Østerrigs Keiser eller Engellands Konge</p>
+<p>*) Malling. S. 246-49.</p>
+<pb facs="1814_7_page0118.png"/>
+<fw type="pageNum">92</fw>
+<p>siddet som de sidde nu. Det var da Sønnerne af det ringe, foragtede Danmark, som i den gruelige Røre stillede Tungen i Europas Vægtskaal, men Gud føiede det saa, at Andre fik Æren og Byttet, og derfor skal danske Christne engang love Ham ligesaa høit, som for den underlige Frelse han gav, hvergang Fjender vilde opsluge Landet *); thi ved Ydmygelse og Tugt, ved Trængsel og ved Fare dreves Kongerne og Folket tilbage til Herren, at stole paa Harmem og trøste sig ved Ham, Vantroes og Ugudeligheds Strøm standsedes af Rosenkildens Bølger og fik aldrig endnu saadan Overhaand paa Daners Mark, som paa den anden Side Danevirke. Ei skal Saadant meldes til at love og undskylde; thi kun Herren er at love, og vi med Fædrene at laste, aldenstund saamange Tugtelser behøvedes og glemdes brat, og virkede ei fuld og fast Omvendelse til Gud, og sloges hen i Veiret paa det Sidste; men til Hers rens Priis skal Saadant meldes, til Vidnesbyrd om det, at efter Israel var intet Folk i Verden saa øiensynlig Herren kiært som just de Danske, ingensteds var Hans Husholdning for Menneskens Øine den i Canaan saa liig som her, det skal da falde os paa Sinde, at forhærdes Dannemark, da maa dets Dom vorde mere gruelig end Tyrt og Sidons, ja end</p>
+<p>*) Mallings Tidender S. 267 - 77.</p>
+<pb facs="1814_7_page0119.png"/>
+<fw type="pageNum">93</fw>
+<p>Sodoms og Gomorras, men det skal og stadfæste den Forvisning i Guds danske Vorn, at intet Folk kan tryggere foragte Verdens Vældige, og stole paa, at lever Herren kun som Landets Lys, da vil Han være og dets Skjold og faste Borg, som i de forbis gangne Tider. Skarpt maa da Staven stiære og haardt maa Tungemaalet være, naar Saga rister og Idunna sjunger om den sidst forløbne Alder, men en hellig Stjerne staaer dog over Rosengraven og naar den glimter mildelig, da smelter Hjertet og Taaren klarer Viet, Kiærminder komme da tilsyne, og Saga skriver deres Lignelse som i en Hvilestund, og Ydun løfter i en Minnesang de faldne Vinger, og det aner hende, at naar Kiærminderne har svangret Luften med Violebuft, skal Rosenstokken spire i den favre, tætte Klynge, og blomstre yndelig i Skoven. Men naar de atter see hvor Skræpper og hvor Nelder flokkes til at kvæle de Smaablommer og fordærve Jorden, ja at de opelskes og Kiærminderne nedtrædes, da maa Saga atter skiærpe Staven til at riste ramme Runer, og Idunna sænke Røsten til et Klagemaal eller hærde den til Varsels og til Trudsels Tolk.</p>
+<p>Hvorsomhelst da Saga vender Niet i den Alder da seer hun Rosenbækken bestandig mattere at kiæmpe imod Strømmen, og stedse blandes mere med dens Vande, og opelske Blommer der stedse dufte mindre 
+<pb facs="1814_7_page0120.png"/>
+<fw type="pageNum">94</fw>
+sødt og prale mere, og vil ei gro paa Torne, men paa bløde Stilke. Seer hun paa Bedrifterne, da kan hun ikke længer afbilde dem i Korsets Rum, om de og øves under Dannebraag, thi ei i Haanden holdes den, men veier frygtelig paa Snekkens Lop, den standses kun i Flugten af de Vine, der, stedse sjeldnere, oplokre sig til den i Vaanden, og flyver synlig op fra Kiøgebugt. Paa Laurbærkrandse stirrede de Fleste, for deres egen Roes og Ære streed de mest, og i det Høieste sor Dannemarks tillige; man læser ei engang at Ivar Hvitfeld befoel sig Gud i Vold, der han opfoer med Dannebraag. Det gjorde han alligevel dog vist, og det er sømmeligt i alle Maader og her at giemme Ihukommelsen af denne <hi rend="spaced">Høitidsfærd</hi>.</p>
+<p>Det var i Sommeren 1710 at Gyldenløve udstævnede i Østresaltet med den danske Flaade, men eftersom den Pestilentse med hvilken Herren slog Folket i de samme lumre Dage, var og stærk paa Skibene, da var han nødtvungen til at ankre flux i Kiøgebugt. Der Svensken spurgte denne Tidende, da meende han det nu var Tid at hævne Skade og hente nu i Kiøgebugt hos Gyldenløve de Skibe som han glemde hos Niels Juul. Did kom da Admiral Vachtmester og hilsde paa sin Viis, men fik det flux at mærke, at enddog de Danske aldrig vunde Roes for Hoflighed, og vare dertil under Soten 
+<pb facs="1814_7_page0121.png"/>
+<fw type="pageNum">95</fw>
+ikkun lidt bekvemme, saa bleve de dog ingen Hilsen skyldige i sligt et Samqvem, han fandt det og, at Hilsnen, skiøndt den var lidt grov, alligevel var lettere at føre hjem end Dannemarks Orlogger, dog var den ham saa tung, at han for Lettelse var tvungen til at lade to af sine fare op i Luften som et Æreskud for Dannebraag. Det Skib der var sit Banners Navne, laae forrest udi Bugten, der de Svenske kom, og Høvidsmanden var Hr. Ivar Hvitfeld. Son af Hr. Tonne til Tomb og Tronstadgaard i Norge, som var igjen en Sønnesøn af Anders, Arilds Broder. Han hilsde da paa Svensken, som han kunde bedst, men underlig begav det sig, at der kom Ild i Skibet af dets egne Stykker, og der han saae, at om han kappede, da drev vel Skibet ind i Danmarks Flaade, og ødte den, da tog han det Raad at holde Stand, blev ved at skyde af Fordækket mens Bagstavnen brændte, og sprang saa i Luften med sin Broder Tønne og med Dannebraag, kun sex Matroser freldes i en liden Baad til Varselstegn, og det er mærkeligt, at de Hvitfelders Vaaben er Dannebraag ligt, thi i det er Baandet hvidt og Feldet rødt *). Det var fem Aar derefter</p>
+<p>*) Det var den 7de October. Mallings Tidender S. 110. Hofmann om danske Adelsmænd D. 1. S. 13 og Stamtavlen derhos.</p>
+<pb facs="1814_7_page0122.png"/>
+<fw type="pageNum">96</fw>
+<p>ia vunde de Danske deres sidste Seier som Orlogsmænd, i Pronevig under Rygen, og just i Seierstimen fik Viceadmiralen Hr. Just Juul sit Banesaar, og eftersom det var den sidste Seier, og Julers Navn for hans og Frænders Skyld var passeligst til at betegne <hi rend="spaced">Stavngiemmeren</hi> i Orlogsfærd, da maatte det og skee, at han ei jordedes hos sine prisde Frænder, men i Roskilde Kirke, hvor ingen af hans Slægt var inde, undtagen Kannike« Hr. Erik Juul, som <hi rend="spaced">druknede i Issefjord</hi> *). Det var kort derefter at Tordenskjold svede sit Rid« derspil i Dynekilen paa de lave Snekker, og det er godt at kiende, at det var mest hans Frænder som ogsaa mest paa lave Snekker svede de Ridderspil til</p>
+<p>*) Det er i mange Maader mærkeligt, at Just Juul erhvervede sit Helterygte i Njorvasund, der han ledsagede Kiøbmandsskibe, og først en engelsk Fregat, siden en Orlogger vilde nøde ham til at stryge sin Vimpel. Fregatten turde ikke længe bie, og efter fem <hi rend="spaced">Timers</hi> Hamp maatte Orlogsmanden dreie af, og Vimpelen blev ved at veie. Det er vitterligt, at noget anderledes gik det siden, men dog ei anderledes, end at det saa kan gaae engang endnu. Mallings Nidender Side 253. Marmor. Danic. F. 24. 39. 276.</p>
+<pb facs="1814_7_page0123.png"/>
+<fw type="pageNum">97</fw>
+<p>Dannebraagens Ihukommelse som ere seete siden paa de danske Strømme *).</p>
+<p>Aldenstund det nu er synligt selv paa Havet, Danskes Element, at Danmarks Kraft hentæredes, da aabenbares det end mere tydelig paa Landet. I de Slag ved Landskrone og ved Lund, hvor Femte Christian stod og slog saa kiæmpelig, var det kun Garden, og dem der bluedes ved Flugt for Kongens Vine, som ginge mandeligen frem; ved Helsingborg slog Magnus Steenbok med sit Landeværn Fjerde Frederiks Krigshær, oo de Fleste lode sig af Kongen selv ved Gadebulk forgiæves bede om et holde Stand, men dog saaes der den mærkelige Ting at en Flok Jyder stod, der al Mangfoldigheden flydde, og vilde heller sønderhugges, end giøre mod Kong Fredriks Bøn, og det vax et lyksaligt Varsel i dette tunge Slag, som var det sidste store, hvilket Danske holdt; og det var end et saadanb, at Steenbok fangedes midt i sit Løb, og maatte døe i Fængsel, fordi han, mildelig behandlet, glemde brat sin Eed, men ikke sine Rænker **).</p>
+<p>*) Uden at tale Nogens Ære for nær kan det vel siger, at Nidderspillene ved Oddens og ved Anbolts Kyst ere de ypperste Bedrifter paa de danske Strømme siden Fierde Frederiks Dage.</p>
+<p>**) Dermed være det ingenlunde sagt, at det var Ret af Erlund saa svigefuld at tilliste sig hans</p>
+<pb facs="1814_7_page0124.png"/>
+<fw type="pageNum">98</fw>
+<p>De Stæder ere desværre mange fra hvilke man grandgivelig kan see, hvorledes Hjertet lunknedes i Herrens Frygt, og Tankerne forvildedes i Verden, og det kan man forud vide, at under Kronen og i Kongens Gaard maa det og give sig tilkiende, enddog det maa bekiendes at der i dette Stykke, som derfor just i Alt, er vidt Forskiel imellem Dannerkongens Gaard og hvorsomhelst man ellers gange vil til Hove. Hardtad til i Midlen af det sidst forløbne, ulyksalige Aarhundrede, da Gud forglemdes næsten overalt, hvor Han ei blev fornægtet og bespottet, bekiendte Danmarks Konger med deres Valgsprog, at Gud var <hi rend="spaced">deres</hi> Gud, og viste det var meer end Læbers Ord, ved at forfremme Herrens Ord og holde det i Ære, men kiendelig er Tidernes Omskiftelse alligevel i Alt, og mest i deres Adfærd mod de Præster, som talde høit mod Syndernes i Kongens Gaard *). Der Mester Ole talde</p>
+<p>Brevskaber, men dertil var det nu kommet, at man meende ar alle Kneb mod Fjender var tilladte. Malling S. 255. 265. 299-307.</p>
+<p>*) Christian den Tredies Valgsprog var: Mein Trost ist Gott allein und anders kein, Frederik den Andens: Meine Hoffnung zu Gott allein, men underlig staar for det Meste her: Treu ist Viloopret; Fierde Christians: Regna firmat Pie-</p>
+<pb facs="1814_7_page0125.png"/>
+<fw type="pageNum">99</fw>
+<p>skarpe Ord; da sagde Christian: Vor Præst skal I nu være. Der <hi rend="spaced">Hofpræsten</hi> Hr. Mads Foss havde prædiget i samme Tone, lod Frederik den Tredie ham tale til ved Cantsleren, som den der blandede sig i Statens Sager og tracterde Personalia, men der Mads Foss, ei som hans Navn mon lyde, men i frimodig Underdanighed gav Kon« gen at betænke, hans store Ansvar som Ordets Mund og Tunge, den Forskiel og som er imellem Statssager og Statens Synder, Personalia og Particularia, lod Kongen det beroe dermed *). Der Sjællands Bisp Hans Bagger prækede frimodig paa en Bededag for Christian den Femte over Davids anden Psalme, da afsatte Kongen ham, og Satte nogle verdslige Mænd til at dømme ham; der Bagger fik Kongen i Tale, talte han den Sag i Lave, men som det synes, ei med sømmelig Frimodighed **). Det er sagt, at der Conradi paamin-</p>
+<p>tas, Tredie Frederiks: <hi rend="spaced">Dominus providebit</hi>, Femte Christians: <hi rend="spaced">Pietate <hi rend="italic">et</hi> lustitia</hi>, Fjerde Frederiks: <hi rend="spaced">Dominus <hi rend="italic">mihi Adjutar</hi></hi>; Sjette Christians: <hi rend="latine">Deo et populo</hi>, og Femte Frederiks:</p>
+<p><hi rend="latine"><hi rend="italic">Prudentia et Constantia</hi></hi>.</p>
+<p>*) Zverg. S. 649-52.</p>
+<p>**) Zverg. S. 339 - 40. Baggers Prædiken, som maaskee end er til, havde saadan Paaskrift af</p>
+<pb facs="1814_7_page0126.png"/>
+<fw type="pageNum">100</fw>
+<p>bebe engang Kong Frederik den Fjerde paa en fyndig Vei, stog Kongen Saadant hen i <hi rend="spaced">Skiemt</hi> *), men det er vist at baade Christian den Femte og Fjerde Frederik havde Præster, skaarne vel for Tungebaand og vilde ikke Andre lide, saasom Peder Jespersen Halei, Launburgeren Frands Lutken, Liflænderen Georg Conradi og Trønde« Peder Hersleb, og at dog ingen Unaade timedes dem **).</p>
+<p>ham selv: <hi rend="latine">pro hac concione tanqvam seditiosa vocatus sum in jus, sed laus Deo sospitanti! Verbum Domini manet iu æternum</hi>!</p>
+<p>*) Min salig Farfader, som havde Leilighed til at vide det, er min Hiemmel for at Conradi, der han ved Nattetid mødte Kongen paa forbudne Veie, sagde dristelig: Stehe Kønig! leh have Gottes Mort an dir zu sagen, og at Kongen der Conradi rogtede sit Ærende, klappede ham paa Skulderen og sagde: Nun, lieder Conradi! nicht so bole!</p>
+<p>**) Det er ret lysteligt at høre, at der Hans Sørensen Leth, hvem Frederik den Tredie havde for hans Dygtigheds Skyld kaldt til Hove fra den Landsbye Ringe i Fyen, var død, da vilde Femte Christian have sig igien en dygtig Landsbyepræst, og der de jydske Præster Henrik Stampe og Es« bern Malling undskyldte sig med deres Alderdom, faldt Valget paa Peer Jespersen i Steenstrup,</p>
+<pb facs="1814_7_page0127.png"/>
+<fw type="pageNum">101</fw>
+<p>Derimod blev Hersleb flux aftakket af Kong Christian den Sjette, han havde alle sine Dage ingen <hi rend="spaced">dansk</hi> Præst, og hardtad ene Bartholomæus Bluhme fra Tøndern af brandenborgsk Herkomst, som heldede nok mere end han stod, og søgde mere at forfremme Kirketugt end Herrens sande Frugt. Alligevel er det mærkværdigt at Sjette Christian Hverken satte ham, ei heller nogen af hans Frænder, men Vittenbergeren Hr. Peder Herslev paa Sjællands Bispestol, der Christen Vorm døde, og vel maa vi erkiende herudi et Synderligt Guds Forsyn, hvorved den danske Kirke frelsdes fra et Bulder og</p>
+<p>hvem Griffenfeld alt for sin Prædiken havde Holt anskrevet. Zverg. 665-68.</p>
+<p>Peder hersleb nedstammede fra Korsbroderen Jens, som blev den første Præst i Herslev ved Kolding, hvoraf hans Sons ene Sønnesøn Jacob Jensen, Foged paa Nordmør tog sit Tilnavn. Hans Søn Hr. <hi rend="spaced">Christoffer</hi> Hersleb, Præst i Stood var Hr. Peders Fader, og denne var Præst i Guuslev paa Falster, da Frederik den Fjerde kaldte ham til Frederiksborg, og sagde, der man indvendte, at Kaldet var ei ledigt: Vi vil have hannem der og Hr. Anders Hoss skal være Stiftsprovst i Christiania. Zverg. S. 384. Stamtavlen blandt Giessings Jubellærere. D. 2. B. 2. S. 260.</p>
+<pb facs="1814_7_page0128.png"/>
+<fw type="pageNum">102</fw>
+<p>et Vilderede, hvis Følger Ingen kan beregne, men alle flimte Nok af for at takke Herren og beundre Hans vise og naadige Styrelse.</p>
+<p>Det er noksom vitterligt at Danmarks Flaade, saa hæderlig dens Færd og havde været i den sidste Feide, dog var, som af sig selv forsvundet, og at den under Sjette Christian syndes ved Frederik af Danneskjold at skabes paa ny, og brede sig med Bram paa Havet, medens Frue Kirke løftede sit Spir af Aften, og Christian byggede den stolte Kongeborg i den gamles Stæd som var fornyet af hans Fader, og af ham nedrevet; men det er ogsaa vitterligt, at som en Skygge stod det og forsvandt; andengang fløi Dannebrog i Luften, fra Kongedybet, Attenhundrede og Eet, Orloggerne forsvandt og havde ingensinde ligget udi Linie, og Frue Kirke sank igien i Aske, og det aldeles; ei sparedes, som førstegang dens <hi rend="spaced">Chor</hi>; og Læsestuerne paa Studigaarden sank med den, og Siællands Biskop lagde sorrigfuld sin Stav, alt tit et Tegn, at Danmarks Kirke var vanhelliget, dens Krone faldet og dens Skjold forloret, at Kirkens Sønner havde myrdet deres Moder. Dvbt bevæges maa en Vægrer vist, som gaaer paa Svalen om det nøgne Fruetaarn og stuer 2delæggelsen, og kommer Timerne ihu. da Spiret kneiede høit i Skye, da Morgenpsalmen vaagnede ved Aftensangens Efterklang, da Kirkeklokken san-
+<pb facs="1814_7_page0129.png"/>
+<fw type="pageNum">103</fw>
+kede de Høie med de Lave ei ene under Hvælvingen, men og i Læsestuer, og da fra dem igjen udginge Kirkens Tunger, da Vimplen vaiede ved Spirets Side, da Skibet hængde med sin Dannebraag i stærke Kiæder under Kirkeloft, og skinnede hos Lysekronen, som Kirkeskibets Lignelse, der under Korsets Banner stævner ind i Choret; bedrøvet maa han sjunge <hi rend="spaced">Midnatsverset</hi> over tomme Kirke, mellem Grus af faldne Huse, hvor ingen Slumrende kan vækkes, og ingen Syge kvæges ved dets høie, trøstefulde Toner. Maanen spiller paa de hvide Marmelstene, der standsede paa Kirkestien, lavere end Kirkerne nedsank i Luer, og de nedsank, mens hine stode ravende og tykdes at hensmuldre af sig selv som Billede af sine Dages aandelige Byg, ningskonst, der kaldte det sin Ære, paa Hængedynd af møre Stene i Leer at mure sig Paladser til stakket Bram og hurtigt Fald og Ødelæggelse, men blev beskiæmmet som den Mand der tog sig for at bygge, og havde ei de Ting som Horde til den Bygning at fuldkomme, og svimlede alt paa de lave Mure, og gav saa Høiden Skyld, og raadte alle hellere herefter at grave sig et Hul i Jorden, som om det var en Vinding ei at <hi rend="spaced">falde</hi> ned i Svælget, men med Flid at grave sig derned.</p>
+<p>Det var Aar Attenhundrede og Tolv, der Klerke mødtes ved St. Hansdags Tider i Roskild efter 
+<pb facs="1814_7_page0130.png"/>
+<fw type="pageNum">104</fw>
+gammel Skik, da var der ogsaa dem, som efter ny og priselig Indstiftelse oplæsde hvad dem tykdes at være sømmeligt alt efter Kirkens Tarv og synderlige Vilkaar, og det er mærkeligt, at trende Stykker læsdes just den samme Gang, der sammenføie sig heel underlig til at afbilde Kirken, som den er nu tilsyne. Det var Prophetens Jeremiæ Klagemaal og Trudsler, det var Apostelens Johannis Spaadomstale om Herrens Domme over Hans forvendte Menighed, og det var en Tale om Oplysning, om den ved hvilken Fædrene paa Gravsens Bred saae Himlen aaben og Jesum deres Frelser hos Guds høire Haand, og, den som viser ikkun Gravens Mørke og Afgrundens Dybde, naar den viser mest, men viser helst kun Gøgleværk og Drømmebilleder til at indvugge Sjælen i et ulyksaligt Blund og binde Øinene til de oplade sig i Helvede i Pinen, om den Oplysning just, som spotter med Opbyggelsen i Christo af Evighedspaladset og bygger paa Babelstaarn, som den beskiæmmet dog maa stygte fra, og see at sinde Skjul som Babels gamle Jetter, i Dyrene og Jordens Skjød. Det var den unge Klerk, som talde saa, han kaldtes ud i Skumringen af Riddersalen, at skue Kirkens blege, høitidelige Skikkelse i Aftensolens Efterglands, og Klerkerne som kaldte ham var mellem Kirkens Fosterfædre og bare Korset ei paa Bryst alene, og længdes efter, 
+<pb facs="1814_7_page0131.png"/>
+<fw type="pageNum">105</fw>
+som han siden hørde, at høre Kvad om Rosenkilden. Saalunde fyldes hvert gudfrygtigt Hjerte nu saatit af Veemod, naar Øiet skuer Kirken og de svundne Tider, det længes efter at skue deres Lignelse afbildet udi Tonespeilet og de faste Stave, og, om de selv ei mærke det, det er dog bange Ahnelser af Undergang og Glemsel, som avle disse Længsler.</p>
+<p>Det var i Efterhøst det samme Aar, der Klerke sankedes igien ved Dionysie, da læsde Klerken i en Aftenstund det Riim om Rosenkilden, hvordan den udsprang og bølgede, og som det lod hentørredes i Norden, og Hjerter rørtes under Præstekjoler, og Taarer randt paa Præstekinder til Vidnesbyrd at over Kirken glimted kys endnu fra Riddersalen, til Varsel om at Rosenkilden aldrig tørredes, men stemde ikkun sine Bølger, fordi, saalænge Isen raader og værger sig mod Solen, kan ingen Pose gro, og vil igjen, i Herrens Time, udstrømme ever Daners Mark til Vederkvægelse og Grode.</p>
+<p>Det var en Morgenstund i Adventstiden, næst derefter, da saae den samme Klerk sin gamle Fader sidstegang at sidde i den Dagligstue, som var hans Værelse i henved fyrgetive Aar. Han havde været her i Verden hardtad firsindstive, og rettelig forkyndt Guds Ord i mere end halvtredsindtive, han 
+<pb facs="1814_7_page0132.png"/>
+<fw type="pageNum">106</fw>
+fad der som et Billede paa Ordets Tunge, der rørde sig halvtreddehundred Aar i Fædrelandet, han fad der med sin Helsot bleg og mat, og Sønnen saae ham tavs og sorrigfuld. Men, der den Gamle spurde om Evangeliet i Gaar, om det ei talde om Johannis Sendebud til Frelseren, og blev saa ved: jeg Heder og Johannes, og Fængsler ere mangeslags og jeg er og i Fængsel; da rørdes Hjertet i den unge Klerk, og Rimet laae der just for Haanden at beredes til sin Vandring, og det havde føiet sig saa underlig, at mod Sædvane havde Præstegubben Intet hørt deraf. Nu faldt det Sønnen ind at dog kanskee de Rüm om Kirken som var den Gamle kiær og velbekiendt fra Ungdomsaar, og om hans Fader gamle Otto, hvem han i Graven ærede og elskede saa overmaade, og om den Stjerne over Christnes. Grave som ledte og som lysde Brødrene til Hvilen, at disse Riim kanskee dog kunde kvæge Oldingen. Den Unge læsde, den Gamle lyttede, og Ungdoms kiære Minder bleve levende, og Hjertet lod, sig op for Ordets Trøst, som var dets velbekiendte Engel, og Gravens Nat forsvandt for Stjernen, og milde Taarer randt paa Kind, og barneglad og høit begeistret bøiede den Gamle sig hen over Sønnen, gav hanp sin Velsignelse, og sagde: saa skal dig Herren trøste i din sidste Time, som du her trøstet mig, thi du sang Israels Gud Psalmer.</p>
+<pb facs="1814_7_page0133.png"/>
+<fw type="pageNum">107</fw>
+<p>Det var vitterligt for alle Christne, at aldrig loves Gud saa høiligen for Mund og Tunge, som naar Han giver Naade til at tale Ord, der gyde Kraft og Trost udi et Hjerte som vaander sig i Dødens Strid, og er det Hjerte nu en Faders, da er den Skjald dog vist langt mere lyksalig end om Verden bekrandsde ham med alle sine Blommer, og naar han sjunger da det samme Kvad sor Fædrelandet i dets sidste Timer, da ringer det ham trøstelig for Vre, at meget Døende skal dog vist størkes og oplives ved de samme Toner, thi hvad Hr. Otto var, en Herrens Tjener med Salvelse og Riddermod og Kjæmpestørke udi Aand og Haand, det er jo dog en sanddru Lignelse af det som Fædrelandet var, og mod de store Verdens Riger ligger Dannemark saa snever og uændset, som <hi rend="spaced">Seiers</hi> og <hi rend="spaced">Vallekilde</hi> i dets Skjød, og var dog meer lyksalig end dem alle, naar Saga engang maatte vidne at det bar med Ære gige Navne *). Det kan man sagtens tænke, at</p>
+<p>*) Otto Grundtvig var en Søn af Hr. Jørgen i Cregome, den første Præst i Slægten, begge hans Forældre faldt ham tidlig fra, og mens han gik i Roskilde Skole, underholdtes han, som saamange fattige Peblinge ved Godtfolks Miskundbed, thi det var fordum Mundheld: af lidet Føl kan vorde Hest, af liden Pebling og en Præst,</p>
+<pb facs="1814_7_page0134.png"/>
+<fw type="pageNum">108</fw>
+<p>enddog ei Skjalden var sig det bevidst, saa maatte dog, der han med flere Ord udførde Rimet, just for den Handels Skyld, des flere gode Varsler svæve ham for Øie, og der er et imellem dem, som ingenlunde maa forgjættes, og allermindst fordi det i en Hast maa synes som et ret vanheldigt Varsel.</p>
+<p>Det var Aar Syttenhundrede og Ni og Fyrgetive, der Trehundrede Aar vare nu forløbne siden</p>
+<p>og det var Gammen for de Fleste, som ikke avlede en Ordets Tjener, at hjelve til en saadan at opfostre. Han havde synderlig baade Lyst og Nemme til Strængeleeg, og stjal sig undertiden ud af Byen med dens Spillemænd til Bryllupper, men kom igien, og lærde sin Bog med de Bedste. Han var siden, som han kaldte det, en Robinson, paa Seiere i 28 Aar, og det var haarde Folk, men den der drog im Kniv imod ham, lod den falde, der han saae Præsten byde frem det blotte Bryst, og han var æret som en Konge, og elsket som en Fader af Gudfryqtlge, det skedte stundom at Unge flygtede fra Hen fra hans Overhøring, men det er ikke længe siden at Oldinge tog Huen af i Baaden, der hans Navn blev nævnet. Han var siden Præst i Vallekilde, hensov 1772 og havde fire Sønner som blev Præster, af hvilke Jørgen og Johan gik og i Roskilde Skole, og med dem som nu leve have Femten af det Navn været danske Præster.</p>
+<pb facs="1814_7_page0135.png"/>
+<fw type="pageNum">109</fw>
+<p>den Høilovlige Oldenborgske Stamme kom paa Danmarks Throne, da lod Kong Frederik den Femte Brev udgaae i alt sit Rige, at paa den 28de October, som var Kong Christian den Førstes Kroningsdag *), da skulde der i alle Kirker holdes Høitid og gjøres Taksigelse med Forbøn **). Det stedte saa, og det gjenlød af Tunger og i Stængeleeg fra Kongens Gaard og alle Kirker: O skore Gud! vi love Dig; men paa den tredie Højtidsdag, da forsamledes med Kongen en mangfoldig Skare i Charlottes Have, og Kongen lagde selv den første Steen til Marmelkirken, der skulde bygges til et Vidnesbyrd om Frederiks og Christians taknemmelige Hjerte imod Herren ***). Der stod da den gamle Biskop, Peder Hersleb, og sagde det saa trofast udaf Jacobs Mund (1 Mos. 28). Denne Steen skal vorde et Guds Huus, og lagde</p>
+<p>*) Det var dog ei paa den Dag, eftersom man havde nu forsaget gammel Stiil; den rette Stammens Jubelfest er da endnu at vente, og vorder sagtens holdt, naar Trehundrede Aar ere vorde forløbne fra Frederik den Førstes Kroning, som var dog Stammens vedste Begyndelse.</p>
+<p>**) Fra Christiania udsendte Kongen Bønnen os Collecten.</p>
+<p>***) Det er mærkeligt, at under denne Høitid vare de Høilærde for sig selv og creerede Doctores.</p>
+<pb facs="1814_7_page0136.png"/>
+<fw type="pageNum">110</fw>
+<p>til: det er ikke mine Ord men Patriarchen Jacobs, og udlagde saa, at dette Ord var gudeligt og kongeligt og glædeligt, og bad tilsidst: Guds Naade være over dem, som i sin Tid, naar Bygningen er færdig, skulle bygge inden for paa Propheternes og Apostlenes Grundvold, hvis Hjørnesteen Christus er, at de ikke maa lægge anden Grundvold, end den som er lagt: Christus Jesus *)! Neppelig tales ved en Guds Mand saadanne Ord over nogen Grundvold, som ei kommer til at bære Alteret engang, og dog kan man sige vist, at aldrig vorder den Steen til et Guds Huus om ikke først i Hjerterne et nyt Guds Huus opbygges, og ret som Grundvolden lagdes een Dag før Allehelgen, saa maa man synes at de Stene staae og vente paa en saadan Time, som den der ihukommes mest af Herrens og Luthers Venner paa Alle Helgens Dag, og vil engang indvies til en Kirkereisnings Høitid. Men eftersom de Stene var nu fra Norges Brud og Hersleb var derfra, og Kraften er saa ringe nu i Dannemark, og større mellem Fjeldene, og man maa tænke der er ogsaa levnet mest af Tro og Herrens Frygt i christelig Eenfoldighed, og det er seet, at Rectorspir og Rectorkappe, Kong <hi rend="spaced">Christian</hi></p>
+<p>*) Rigernes almindelige Jubelglæde ved Peder Hersleb.</p>
+<pb facs="1814_7_page0137.png"/>
+<fw type="pageNum">111</fw>
+<p><hi rend="spaced">ben Treddes</hi> Gave brændte med Vor Frue Kirke, i en Nordmands Værge, og at han, som med Asken flyttede til Fjeldet at oplade der en Fredriks Skole, da maa man sagtens tænke, at Skolen hører end, som altid før til Kirken, og at den Marmelkirke nemmere opbygges saanær ved Gillebek, end i Charlottes Have. Alligevel maa hver bekiende at</p>
+<lg>
+<l>Øine skuffe, Straaler blænde.</l>
+<l>Lignelser sig brat kan vende</l>
+<l>Tyde Sandt og dog fornægte</l>
+<l>hvad at giætte vi kun mægte,</l>
+<l>Altid er den Dag i Morgen</l>
+<l>Dog for Øiet halv forborgen.</l>
+</lg>
+<p>Det er vist at Norges Klipper skal bære Kirken Holt engang, men om de maa umage sig herned til Marken for at røgte den Bestilling, og om deres Time er ei i <hi rend="spaced">alle Maader</hi> kommen før den Kirkebygning, der skal reises, nu atter er nedsjunke«, det kan Ingen vide; men rimeligt er det tilvisse nu, da Saadant haver sig begivet, som Ingen drømde om, da Nordens Tvilling nu er flakt, og det ei lader til der tænkes paa at bygge Klostret op, foruden hvilket Kirkebygningen aldrig lykkes, som i Riim er sagt:</p>
+<lg>
+<l>Mærk dig vel, du gamle Norge!</l>
+<l>Tidens Gang paa Klosteruhret,</l>
+<l>Hartad som med Munkebnret</l>
+<l>Gik det med din Kiærlighed;</l>
+</lg> 
+<pb facs="1814_7_page0138.png"/>
+<fw type="pageNum">112</fw>
+<lg>
+<l><hi rend="spaced">Dette</hi> Kloster maa opbyages,</l>
+<l>Før din Kirkebygning lykkes.</l>
+</lg>
+<p>Det var dengang, da stolte og forsmædelige Ord nedklang fra Fjeldene, og spottede med Markens Urter og med Skovens Krone; og Roskilde-Rimet vilde dog tilfjelds, da lod Skjalden følge med en liden Fugl og sang for ham et lidet Riim der saa mon lyde:</p>
+<lg>
+<l>Du lille Fugl, som Gud mig naadig gav</l>
+<l>Til Tolk af Synerne Han mig forunder,</l>
+<l>Til Sendebud alt over Mark og Hav</l>
+<l>Om hvad jeg føler og hvorpaa jeg grunder;</l>
+<l>Du lille Fugl! udspend nu lette Vinge!</l>
+<l>Lad Søndenvind kun raade for din Kaas,</l>
+<l>Thi over Hav du Tidender skal bringe</l>
+<l>Til Egebjerg og Dovres høie Aas.</l>
+</lg>
+<lg>
+<l>Saa flyv nu flux foruden Tvivl og Frygt!</l>
+<l>Guds Engle vil dig gjennem Luften føre</l>
+<l>Der er et Huus, som du, i Kors opbygt,</l>
+<l>Der dale du, og lade Stemmen høre!</l>
+<l>Og ihukomme skal hver christen Mand</l>
+<l>Naar han dig seer paa helliggjorde Stade,</l>
+<l>At der kom Andet tit fra Sønderland</l>
+<l>End giftig Dunst og Stov og visne Blade.</l>
+</lg>
+<lg>
+<l>Ja, stig kun høit, og blues ei derved,</l>
+<l><hi rend="spaced">Hvorfra</hi> du kom alt over salte Vove!</l>
+<l>Forkynd det frit; naar du har sagt: Guds Fred!</l>
+<l>At der er Syn og Sang i Danmarks Skove.</l>
+</lg> 
+<pb facs="1814_7_page0139.png"/>
+<fw type="pageNum">113</fw>
+<lg>
+<l>At dybere i Dovres brede Sø</l>
+<l>Og vissere i Stjernebogens Blade</l>
+<l>Er keget end fra Lund paa lave Ø,</l>
+<l>End midt paa Dovre fra det Kiæmpestade.</l>
+</lg>
+<lg>
+<l>Forkynd det frit: hvor Gud har Øiet sat,</l>
+<l>Der satte Han og Lyset til at klare,</l>
+<l>At, uden Lys, paa Fjeld i morke Nat,</l>
+<l>Selv Kiæmper raver og maa ilde fare;</l>
+<l>At, uden kys, forgiæves Malmen rod,</l>
+<l>Og Malmen hvid og klare Ædelstene</l>
+<l>hinanden klemme udi Klippeskiød,</l>
+<l>De sindes ei ved Staal og Kiæmpesene.</l>
+</lg>
+<lg>
+<l>Forklar det fiint, eenfoldeligt, at du</l>
+<l>Ved Lys forstaaer kun Ordets blanke Lue,</l>
+<l>At Øiet er, hvad der har sat sin Hu</l>
+<l>Til Alt ikkun i herrens Lys at skue;</l>
+<l>Thi hvad er Lys, som ei kan holde ud</l>
+<l>Dil Dagen gry'r og Phosphoros oprinder,</l>
+<l>Og hvad er Øiet, naar det seer ei Gud?</l>
+<l>Kun Mørfhed, det, hvor det sin Grændse finder.</l>
+</lg>
+<lg>
+<l>Siig saa igjen kun frit og aabenbart</l>
+<l>At Lyset ei er end paa Norges Fjelde</l>
+<l>Thi var det der, da straaled det og klart</l>
+<l>Til Mark og Eng som Solen i sin Vælde.</l>
+<l>Thi Herrens Lys, som Løgtemænd, ei ned</l>
+<l>Kun tye i Sump til Basilisk og Øgle,</l>
+<l>Og hvor det skinner i sin Herlighed</l>
+<l>Maa Løgtemænd vist holde op at giøgle.</l>
+</lg> 
+<pb facs="1814_7_page0140.png"/>
+<fw type="pageNum">114</fw>
+<lg>
+<l>Ja, throned Lyset over Klippeland,</l>
+<l>Da maatte fro mod det sig Fugle svinge,</l>
+<l>Da kvidrede det ei saa hast i Gran,</l>
+<l>Nei, høit og klart i Sky det maatte klinge,</l>
+<l>Da tykdes Granen ei saa lys og bold,</l>
+<l>Og Klipperne ei nær laa himmelhøie,</l>
+<l>Da hviled Taage ei paa Sagas Skjold,</l>
+<l>Forklaret stod dets Billedværk for Øie.</l>
+</lg>
+<lg>
+<l>Ja, straaled Solen over Dal og Fjeld,</l>
+<l>Da kunde Frost ei Elvekiæmpen binde,</l>
+<l>Han iled da fra varme Kildevæld,</l>
+<l>Paa Marken ned i Sø sin Brud at finde;</l>
+<l>Ja, var der kys, da skulde Sol og Sang</l>
+<l>Og Sagas Rost og Hjertets høie Stemme</l>
+<l>Nedpege, lokke til den favre Vang,</l>
+<l>Til Bøgelunden, hvor jeg haver hiemme.</l>
+</lg>
+<lg>
+<l>Saalunde sjung, o Fugl, paa Kirketag!</l>
+<l>Giv flittig Agt paa Die og Gebærde.</l>
+<l>Bil Mænd ei høre dine Toneslag,</l>
+<l>Men klappe stoltelig paa deres Sværde,</l>
+<l>Da vend dig skyndelig til Danevang,</l>
+<l>Thi Graad og Blod skal kolde Klipper svede,</l>
+<l>Med Suk jeg lærer dig en Svanesang,</l>
+<l>Som du skal sjunge paa den brune Hede.</l>
+</lg>
+<lg>
+<l>Men høres du, og rynkes høie Bryn,</l>
+<l>Og spænder Kiæmpen funklende sin Bue,</l>
+<l>Da vogt dig vel, at ikke Pul og Lyn</l>
+<l>Dig kyse til at vredes eller grue,</l>
+</lg> 
+<pb facs="1814_7_page0141.png"/>
+<fw type="pageNum">115</fw>
+<lg>
+<l>Nei, sid lun rolig paa det Kirketag,</l>
+<l>Og meld et Ord om dine løse Vinger!</l>
+<l>Siig du kun: jeg er Nordens Fugt i Dag,</l>
+<l>Da tænker jeg sin Vrede Kiæmpen tvinger.</l>
+</lg>
+<lg>
+<l>Ja, sinng kun du med Tone Hei og klar:</l>
+<l>Hvad vilst du mig, du Einer Tambeskælver?</l>
+<l>Beedst du det ei, at hvo som Vinger har</l>
+<l>Har Kropperum, saa høit sig Himlen hvælver,</l>
+<l>Og Holder Strænge«, sarer »Men op,</l>
+<l>Af Olavs Haand dog Norges Rige brister,</l>
+<l>Thi med mig tager jeg den Kirketop,</l>
+<l>Og hvad er Kronen, naar den Spiret mister</l>
+</lg>
+<lg>
+<l>Mærk vel, o Fugl! om Kiæmpen tankefuld</l>
+<l>Sin Bue lægger eller dog nedspænder,</l>
+<l>Om Siet mærker at det er af Muld,</l>
+<l>Om det sig fromt mod Himmelbuen vender!</l>
+<l>Og, seer du det, da syng <hi rend="spaced">Halleluja</hi>!</l>
+<l>Og syng mit Kirkesyn med dæmpet Stemme!</l>
+<l>Læg Intet til og tag ei heller fra!</l>
+<l>3hi hølere end vi det haver hjemme.</l>
+</lg>
+<lg>
+<l>Naar Amen du har saat i Jesu Navn,</l>
+<l>Naar Synet du høitidelig har tolket,</l>
+<l>Da flyv Enhver, som vinker dig, i Favn!</l>
+<l>Flyv ned af Tag og sæt dig lavt blandt Folket!</l>
+<l>Og syng sor dem! jeg er en fattig Fugl,</l>
+<l>Min Sang og jeg de er mig selv en Gaade,</l>
+<l>Den Rige gav mig ved Sit Alter Skjul,</l>
+<l>Og Syn og Sang jeg har udaf Hans Naade.</l>
+</lg> 
+<pb facs="1814_7_page0142.png"/>
+<fw type="pageNum">116</fw>
+<lg>
+<l>Du kiære Folk! o hør den Rige Fugl</l>
+<l>Gom suser høit alt over Bjerg og</l>
+<l>Dale! han sjunger listig om den sode Jul,</l>
+<l>Om Himmeltonen i den Nattesvale,</l>
+<l>Han sjunger listig om den Paaskefest,</l>
+<l>Han siunger listig om de <hi rend="spaced">Pindseluer</hi>,</l>
+<l>Han er laa villig og saa god en Giæst</l>
+<l>I Kongesale og i Bondestuer.</l>
+</lg>
+<lg>
+<l>O! hør kun ham! o lær kun at forstaa</l>
+<l>De Himmeltoner fra Hans Bibeltunge!</l>
+<l>Da af dit Hjerte skal en Sang udgaa,</l>
+<l>Som jeg kan hore men kan ei udsjunge;</l>
+<l>Ja, kiære Folk! kald mig hvad Fugl du vil,</l>
+<l>Selv bedst jeg veed, at jeg er saare ringe,</l>
+<l>Men lyd min Sang, naar jeg dig raader til</l>
+<l>Med Kiærlighed din Stolthed at betvinge!</l>
+</lg>
+<lg>
+<l>Ja, lyd min Sang, naar jeg med hellig Aand</l>
+<l>Paa herrens Ord dig byder fæste Øiet,</l>
+<l>Os vi adskille med forvoven Haand</l>
+<l>Hvad Gud Almægtigste har sammenføiet!</l>
+<l>Og tro min Sang: mit Fædreland er Nord</l>
+<l>Det Tvillingnord, som Gud har sammenføiet,</l>
+<l>Her under Fjeld jeg sjunge maa: til Jord!</l>
+<l>Paa Marken synger jeg: tilfjelds med Øiet!</l>
+</lg>
+<lg>
+<l>Du lille Fugl! du lette Fjederham,</l>
+<l>Hvori min Aand kan over Bølgen stævne,</l>
+<l>Flyv først og sidst. Hænderne paa ham,</l>
+<l>Som det var Synd, for dig min Fugl! at nævne!</l>
+</lg> 
+<pb facs="1814_7_page0143.png"/>
+<fw type="pageNum">117</fw>
+<lg>
+<l>Flyv ind i Kamret til den Ungersvend,</l>
+<l>Og sæt dig kiærlig paa hans haand til Hvile,</l>
+<l>Og klap hans Kind, og syng saa venlig: Ven!</l>
+<l>At han maa græde og at han maa smile!</l>
+</lg>
+<lg>
+<l>Naar da han klapper dine Vinger smaa,</l>
+<l>Naar han betragter dig vemodig, stille,</l>
+<l>Da syng saa liflig, somidu kan formaae,</l>
+<l>Som du det Horde mig i Hjertet spille!</l>
+<l>Ja, syng mit Hjerte i hans Hjerte ind,</l>
+<l>Gaa han det føler, at de smelte sammens</l>
+<l>Ja, syng Guds Fred ind ji det rørde Sind,</l>
+<l>Saa til din Sang han høit maa svare: Amen!</l>
+</lg>
+<lg>
+<l>Naar da han omt dig trykker i sin Favn,</l>
+<l>Naar Hjertet banker, og dets Kilder briste,</l>
+<l>Da spørg ham kiærlig udi Jesu Navn:</l>
+<l>Om han sin Ven, den danske, vilde miste?</l>
+<l>Om han, hvis Venner i en Vanheldsstund</l>
+<l>Sig kue lod til ham Farvel at byde,</l>
+<l>Om stolt han vilde da med Haand og Mund</l>
+<l>Sin gamle Ven foragte og forskyde?</l>
+</lg>
+<lg>
+<l>Naar da af Øiet du det klart forstaaer</l>
+<l>Langt mær end det. han vilde mig tilgive,</l>
+<l>Da syng igien: mon firehundred Aar</l>
+<l>For Patriarcher ei det Samme blive,</l>
+<l>Hvad fire kun er for et Vennepar,</l>
+<l>Hvis Aar kan voxe indtil firsindstive?</l>
+<l>Naar Hjertet eet kun i dem Begge var,</l>
+<l>Mon de vel da det vilde sonderrive?</l>
+</lg> 
+<pb facs="1814_7_page0144.png"/>
+<fw type="pageNum">118</fw>
+<lg>
+<l>Naar vemodsfuld da til vor Danevang</l>
+<l>Han stirrer ned og op til sine Fielde,</l>
+<l>Og leder der forgjeves mangengang</l>
+<l>Om Kiærligheden i sin høie Valde.</l>
+<l>Da syng: o lad os stride for den Rod,</l>
+<l>Hvoraf endnu opvoxe kan den Blomme!</l>
+<l>O lad os skyndelig dog glore Bod,</l>
+<l>Fer korte Frist og Naadens Tid er omme!</l>
+</lg>
+<fw type="graphic"/>
+<lg>
+<l>Du lille Fugl! naar for den Ungersvend</l>
+<l>Du slunget har saa listig, som du kunde,</l>
+<l>Da styv i Hast op til den klirre Ven,</l>
+<l>Hvis djærve Navn du glemde ingenlunde,</l>
+<l>hvem sør eengang i Dimmeluge« du</l>
+<l>En Paaskesang har over Marken baaret,</l>
+<l>Hvis Tonefald du kommer end ihu,</l>
+<l>Naar sidstegang for mig omskiftes Aaret!</l>
+</lg>
+<lg>
+<l>Endnu som da, jeg veed det ei saa grandt,</l>
+<l>Hvor du min Ven i Paasketid skal finde,</l>
+<l>Men beed den Haand, ved hvilken du ham fandt</l>
+<l>Den første Gang, end hjelpe dennesinde!</l>
+<l>Om Christjanstad vam ikke huser end,</l>
+<l>Saa glem dog Ærendet ei over Sorgen!</l>
+<l>Nei, styv i Hast til Idavøllur hen</l>
+<l>At ønske ham en hellig Paaskemorgen!</l>
+</lg>
+<lg>
+<l>Naar da du kommer til den Kammerdør,</l>
+<l>Da sidder han forvist i dybe Tanker,</l>
+<l>Maaskee l meer urolige end for,</l>
+<l>Og hører ei, naar Nebbet lagte banker:</l>
+</lg> 
+<pb facs="1814_7_page0145.png"/>
+<fw type="pageNum">119</fw>
+<lg>
+<l>Men tab ei Modet, bliv ei heller vred!</l>
+<l>Nei, still din Kaas kun til den klare Rude</l>
+<l>Og staa med Vingerne, und. ham ei Fred,</l>
+<l>Før han det seer, der er en Fugl derude'</l>
+</lg>
+<lg>
+<l>Der Eigil smeddede sit Hovedgald,</l>
+<l>En Fugl i Værket vilde ham forstyrre,</l>
+<l>Men troer min Ven du est af samme Kuld,</l>
+<l>Da syng saa smaat: jeg Heder Olav Kyrre *),</l>
+<l>Og alle Mærker maatte slaae mig feil,</l>
+<l>Om ei, ved Lyden af de Vakkre Navne,</l>
+<l>Han flux sor dig oplod sit Nudespeil,</l>
+<l>Og tog sig Tid til venlig dig at favne.</l>
+</lg>
+<lg>
+<l>Siig saa: Guds Fred! og sæt dig paa en Bog,</l>
+<l>Den deiligste i Kammeret du finder,</l>
+<l>Og hils saa smukt fra gamle Dannebrog,</l>
+<l>Fra Oltids og fra Nutids blaa Kiærminder,</l>
+<l>Fra Halvdan Svarte, Hakon Udelsteen,</l>
+<l>At du har slunget under deres Kroner,</l>
+<l>Og eftersiunget over deres Been</l>
+<l>De gamle Svaners vaandefulde Toner!</l>
+</lg>
+<lg>
+<l>Naar da han lytter, lille Fugl! til dig.</l>
+<l>Hvis Kiæmpeviser var ei ham for gamle,</l>
+<l>Da lyng laa jagte: det var ogsaa mig</l>
+<l>Der hos dig sad alt paa de lave Skamle,</l>
+</lg>
+<p>*) Den Stille.</p>
+<pb facs="1814_7_page0146.png"/>
+<fw type="pageNum">120</fw>
+<lg>
+<l>Ja, det var mig, lom med en Paaskesang</l>
+<l>Kom til dig flyvende i Dimmelugen,</l>
+<l>Der din Regine du i Danevang</l>
+<l>Indsvøbde grædende i Svededugen.</l>
+</lg>
+<lg>
+<l>Det og var mig, tu hørde mild engang,</l>
+<l>Da i Paulunet, mellem Venner fine,</l>
+<l>Jeg nynnede en christen Riddersang,</l>
+<l>Et Klagemaal for Nørrelands Regine,</l>
+<l>Den Riddersang, det høie Klagemaal,</l>
+<l>Det Indgangsvers dog til en Paalkepsalme</l>
+<l>Har nu jeg lært, og seet, at Granenaal</l>
+<l>Saa underfuld blev Roden til en Palme.</l>
+</lg>
+<lg>
+<l>Det er nu skeet, hvad og for dig engang</l>
+<l>Jeg siunget har, at i de Helligdage,</l>
+<l>Naar grønnes skulde Klippens Kildevang,</l>
+<l>Da vilde Gud det vide saa at mage,</l>
+<l>At Stade du fik i den Urtegaard,</l>
+<l>Og Gierningen, hvortil han dig beredte,</l>
+<l>Her kommer jeg med Sang i samme Vaal</l>
+<l>Om Kirkesynet Han for mig udbredte.</l>
+</lg>
+<lg>
+<l>Saa tag dig Tid, den Time ei er spildt,</l>
+<l>At here Riim om Nordens Rosenkilde!</l>
+<l>Thi viid, at Alt paa Fjeld maa voxe vildt,</l>
+<l>Naar ei det vandes af dens Bølger milde!</l>
+<l>Dog, selv. du harmedes saamangengang</l>
+<l>ipaa det Ukrudt, som kvalde Nordens Blomme,</l>
+<l>Saa lyt da, Kiære! til min Kildesang,</l>
+<l>Kun for dit Syn ret klart at ihukomme!</l>
+</lg>
+<lg>
+<l>Naar, Fugl! han da har tottet til din Sang,</l>
+<l>Naar du det saae alt paa hans Øielaage,</l>
+<l>At høit hans Aand fia over Jorden svang,</l>
+<l>Og stirrede igiennem Tidens Laage,</l>
+</lg> 
+<pb facs="1814_7_page0147.png"/>
+<fw type="pageNum">121</fw>
+<lg>
+<l>Ja, naar du faae en Taare paa hans Kind,</l>
+<l>Og mærker vel paa Øiets klare Lue,</l>
+<l>At det har seet med Lyst paa Dovres Tind</l>
+<l>Det Fjeldkapel med kække Marinelbue.</l>
+</lg>
+<lg>
+<l>Naar du ham seer, som du saa tit ham saae,</l>
+<l>For alt Guddommeligt saa høit opflammet,</l>
+<l>Og viis derpaa, at Skjaldetunger spaa,</l>
+<l>Naar Øoet tro har Synerne annammet,</l>
+<l>Og vis derpaa, at for al Verdens Guld</l>
+<l>Du vilde er dm Herres Navn misbruge,</l>
+<l>Men heller tie under sorten Muld</l>
+<l>End sjunge Losne i en Dimmeluge.</l>
+</lg>
+<lg>
+<l>Da let din Fod saa kæmpelig fra Bog,</l>
+<l>Og sæt dig venlig paa den brede Skulder,</l>
+<l>Og Hvist til ham i Jesu Navn, at klog han holder Styr paa Althings vilde Bulder,</l>
+<l>Saa hellig Olav man ei driver ud,</l>
+<l>Ved paa hans Aand hans Hellebard at prøve</l>
+<l>Saa at ei, for at forekomme Gud,</l>
+<l>Lil Jordefærd man kroner Norges Løve!</l>
+</lg>
+<lg>
+<l>Du Kiæmpesøn! saa vend den Hellebaard</l>
+<l>Dig Herren gav, mod Kalf og imod Thore!</l>
+<l>Giv Erling Skjalgsen kun et Skuldersaar</l>
+<l>Og sønderhug kun alle Gyldensnore!</l>
+<l>Byd Loven knæle for sin Frelsermand,</l>
+<l>For Herren Christ paa. høje Himmelthronel</l>
+<l>Betimelig han da som Christian</l>
+<l>Skal Løven smykke med en Trillingkrone.</l>
+</lg>
+<lg>
+<l>Saalunde, Fugl! du siunge sor min Ven,</l>
+<l>langt mere kiærlig end jeg det kan sige;</l>
+<l>Langt sødere, end naar en Ungensvend</l>
+<l>I Vellyd kiælner for sin kiære Pige,</l>
+</lg> 
+<pb facs="1814_7_page0148.png"/>
+<fw type="pageNum">122</fw>
+<lg>
+<l>Langt meer vemodig, end i Bøgelund</l>
+<l>Din Frænde sang om Danemarkens Helte,</l>
+<l>Thi viid, du sjunges i den tunge Stund,</l>
+<l>Da Sværdet svæver over Freias Belte!</l>
+</lg>
+<lg>
+<l>Naar Timeglasset da er løbet ud,</l>
+<l>Naar du igjen udspænde maa dm Vinge,</l>
+<l>At styve hjem, som trofast Sendebud</l>
+<l>Og Norges Mænd forsamle sig paa Thinge,</l>
+<l>Da sjung min Veiret hjerteligt Farvel,</l>
+<l>Ja, om du kan, hver Mand som er paa Thinge!</l>
+<l>Og beed om eet af alle Mand paa Fjeld,</l>
+<l>Som over Hav du kan til Marken bringe!</l>
+</lg>
+<lg>
+<l>Ja, syna kun du: jeg er en fattig Fugl,</l>
+<l>Og daglig tyndes mine Bøgelunde,</l>
+<l>O, give Gud! at I mig Kvist og Skjul</l>
+<l>I Graneskoven vilde kiærlig unde!</l>
+<l>Da skulde jeg, nu er jeg Nordens Fugl,</l>
+<l>For eder sjunge om den hoje Palme i</l>
+<l>Men ei jeg kommer, før I vente Jul,</l>
+<l>Ei for, I siunge vil den Paaskepsalme:</l>
+</lg>
+<lg>
+<l>"I Døden Jesus blunded,</l>
+<l>"I Graveu lagdes ned,</l>
+<l>"Har nu dog overvundet</l>
+<l>"Al Dødens Bitterhed,</l>
+<l>''Nu rinder op saa klar</l>
+<l>''Den Sol med kys og Glæde,</l>
+<l>"Som i sit Jordeklæde</l>
+<l>"Saa slet formærket var."</l>
+</lg>
+<lg>
+<l>"Der brat ved Englestørke</l>
+<l>"Den Steen var væltet ben,</l>
+<l>" Af Gravens Stæd hin morke/hi></l>
+<l>" Opstod vor Sjæleven,</l>
+</lg> 
+<pb facs="1814_7_page0149.png"/>
+<fw type="pageNum">123</fw>
+<lg>
+<l>"Seer, I Blodtørstige!</l>
+<l>" Som Jesum nys ombragde,</l>
+<l>"Som ham paa Korset strakde,</l>
+<l>"Seer Jesum levende.!"</l>
+</lg>
+<lg>
+<l>"Med Lov vor Mund udbryder</l>
+<l>"Om Jesu Herlighed</l>
+<l>" Det hele Land sig fryder</l>
+<l>"Fordi Hans Ord er skeed,</l>
+<l>"Sit Løfte holdt Han vist;</l>
+<l>"Thi siunger alle Munde</l>
+<l>"Af dybe Hjertens Grunde:</l>
+<l>"Lak skee Vig, Herre Christ!"</l>
+</lg>
+<lg>
+<l>"O mægtig Seierherre!</l>
+<l>"Som Fjendens hele Magt,'</l>
+<l>"Dit store Navn til Ære,</l>
+<l>"Har under Fødder lagt;</l>
+<l>"Hjelp os at kiæmpe saa,</l>
+<l>"At, naar vor Strid har Ende,</l>
+<l>" Vi Palmer kan Ihænde</l>
+<l>"Og Seierskrone taae!" *).</l>
+</lg>
+<p>Underlige, forvirrede Nøster have hidtil runget i verdsligt Fald fra Fjeldene, Roskildes Ørn staaer endnu med spredte Vinger paa det danske Bolværk, og holder Nøglerne i Kors **), og det tør kanskee saa være, at Ornen skal</p>
+<lg>
+<l>Bygge Rede end enstund</l>
+<l>her i Danmarks Bøgelund,</l>
+</lg>
+<p>*) Kingos Paaskepsalme.</p>
+<p>**) Ørnen er Roskilde Byes, Nøglerne og Korset Stiftets Seigl.</p>
+<pb facs="1814_7_page0150.png"/>
+<fw type="pageNum">124</fw>
+<lg>
+<l>Og kun Vingerne udbrede,</l>
+<l>For om Korsets Tegn at frede,</l>
+<l>Billedlig, men sandt at sige:</l>
+<l>I skal staa, som jeg, herneden,</l>
+<l>Færdige at flyve heden.</l>
+</lg>
+<p>Underlig monne det føie sig, at enddog der sees en synderlig Lighed mellem Kongeslægten i de gamle Dage, fra Blatan til Margrethe, og den Oldenborgske Stamme fra Christian den Anden til Frederik den Sjette, saa er dog stor Adskillighed imellem dem, fordi Guds Ord var Didriks Æt saa nært og kiært; ei søndersledes Riget i Femte Fredriks Dage, som i Christoffers, ei fik Kiøbmænd, skiøndt de det attraadde, Christians Krone saa i Vold som Valdemars, ei døde Christian sønneløs som han. En anden Skilsmisse monne deri være, at de værdste Tider ere oversprungne, isteden derfor at femhundred Aar henrandt fra Blatan til Margrethe, da strede kun trehundred fra Christian den Anden til vor Frederik, og det er da, i Herrens Navn at vente, at vi</p>
+<lg>
+<l>— — — saae ingen Pommer</l>
+<l>Til vor Hakons Efterkommer,</l>
+<l>At vi slippe for en Alder,</l>
+<l>Som den sta Margrethes Tid</l>
+<l>Hen til Grevens Feide falder.</l>
+</lg>
+<p>Det kommer derpaa an, om Frederik den Sjette af Guds Naade vorder som en Christian den Tredie, om i hans Dage Christendom kan trediegang opreise sin Trone i Norden, om Rosenkildens Bølger nu igjen kan smelte Markens Iis og Snee og kvæge den til Rosengrøde; skeet kun det, da lad kun Drot-
+<pb facs="1814_7_page0151.png"/>
+<fw type="pageNum">125</fw>
+ten falde. Drotten stige, lad kun Danmark ligge som en ringe Tomt, foragtet af de Vældige i Verden, lad kun Verdens Vise spaa os Undergang, lad det Synes kun som Spiret Synker og som Kronen kløves, det er dog kun Prøvelse, og fastere er ingen Jordens Throne, og favrere er ingen Kongekrone, og meer uvisnelig er ingen Rosenkrands, end Kong Frederik den Sjettes.</p>
+<lg>
+<l>Ja, Hans Spir skal grønnes som en Palme,</l>
+<l>Skyde Blomster som en Aaronsstav,</l>
+<l>Hamres skal til ham af ædle Malme</l>
+<l>Hæderskronen, som den Rige gav,</l>
+<l>Til den Drot, der vilde trøstig byde</l>
+<l>Rosenhakken som en Laug at gyde,</l>
+<l>Luttrende og kvægende derhos,</l>
+<l>Over Stub og Lyng og Klippemos.</l>
+</lg>
+<p>Brødre, Frænder! gamle Danmarks Sønner! endnu staaer ved Issefjord den gamle Kirke, og Blomsterbaandet skinner favert under høie Hvælving, og Frelserens Bedrifter staaer i Gyldenskrift paa Altertavlen, og Runer staaer paa Dannerkongernes og vore Fædres Bautastene, som vidne trofast 'at ikkun under Korset virkes stor Bedrift, som Børnebørn med Lueblik og Hjertens Rørelse og milde Taarer kan andægtig ihukomme, og ikkun under Korset slumres rolig, medens Storme suse, Lynet knittrer og Tiderne omskiftes under Brag og Bulder. Nu er Timen kommen, Timen til at kaare, Timen til at frelses eller undergaae; ingen Halten hjelper tænger, enten skal I stædes ind for høien Alter under Kirkehvælving og fornægte Frelseren som eder kiøbde, fornægte Hans Bedrift i Gyldenskriften, fornægte Fædrene og spotte dem, og Mælde dem for 
+<pb facs="1814_7_page0152.png"/>
+<fw type="pageNum">126</fw>
+Løgnere i Graven, eller og I skal nedknæle Anger« givne over Fædres Grave, bøje Knæ i Navnet, forn er over alle Navne, og stirre stadelig paa Herrens Ord, den store, gyldne Altertavle, og ved dens lyse Skin og under Troens Skjold stride eder hjem til Fædrene og alle Aanders Fader. Hører! Mærker! Kaarer! Falder Kirken, da maa Danmark sønderrives saa, at ingen Dan skal samle den evindelig; opbygges den i Hjerterne, skal Marken blomstre og krones saa, som det i Skjoldet er tilsyne, og vi opbygges til et helligt Tempel, som skal aldrig synke, men straale som det evige Jerusalem ved Livets Rosenkilde. Da skal vi ei, mens Timen strider, sørge som Hedninge, der. have intet Haab, ei forfærdes naar vi høre Krig og Rygte om Krig, thi disse Ting maa saaledes være, men under Guds Bingers Skygge er Tryghed og Fred, og i Hans Arm er Kraft til at drage de Mægtige af Stolene og ophøie de Ringe. O Dannemark! vær en Maria, Herrens Tjenerinde! og du skal endnu tomme til at synge: min Sjæl ophøier Herren, og min Aand fryder sig i Gud min Frelser, thi Han Haver seet til Sin Tjenerindes Ringhed, Han Haver gjort store Ting imod mig, og Hans Barmhjertighed varer til alle Slægter efter hverandre hos dem, som ham frygte, Han haver brugt Magt med Sin Arm, Han haver adspredt dem, som ere Hofmodige i deres Hjertes Tanke. Saa skal du sjunge, og see! alle Slægter skal prise dig salig. (Luc. 1.). Amen! i Jesu Navn, Amen!</p>
+<fw type="graphic"/>
+</div>
+<div> 
+<pb facs="1814_7_page0153.png"/>
+<fw type="pageNum"></fw>
+<head>Trykfeil.</head>
+<p>S. XIII. Lin. 18. deri læs: der.</p>
+<p>—	XIV.	— 9. altid læs: aldrig</p>
+<p>— 3.	— 19. andre læs: nørre</p>
+<p>— 4.	— 9. vore læs: deres.</p>
+<p>— —	— 23. dræbte læs: døbte.</p>
+<p>—	6.	—	13.	Gurud Jæs: Geirrød</p>
+<p>—	20.	—	22.	spredtes læs: spurgdes</p>
+<p>—	75.	— 9. Gjorvold læs: Grosvold</p>
+<p>—	94.	— 5.	frygtelig læs: flygtende
+— 	 98 — l.	Stæder læs: Stader.</p>
+<p>—	107. — 10.	Meget læs: Noget.</p>
+<p>—	116. — 19.	vi læs: ei.</p>
+<p>—	121. —	32.	kiælner læs: kiæler</p>
+<p>—	125. — 1.	Drotten læs: Drotter</p>
+<p>—	126.	— 1.	nedkvæle las: nedknæle.</p>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

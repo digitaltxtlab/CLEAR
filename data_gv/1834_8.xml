@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Den Danske Stats-Kirke</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-20"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="008"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1834">1834</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1834_8_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Den Danske Stats-Kirke</titlePart>
+	<titlePart type="sub">upartisk betragtet</titlePart>
+</docTitle>
+<byline>af<lb/>
+	<docAuthor>Nik. Fred. Sev. Grundtvig.</docAuthor>
+				</byline>
+				<fw type="graphic"/>
+				<epigraph>
+<lg>
+<l>Hør mig, Hl. Pabst, jeg være vil</l>
+<l>Din Pestilens, mens jeg er til;</l>
+<l>Naar jeg er død, skal du forgaae,</l>
+<l>Det siger Grundtvig, vogt derpaa!</l>
+</lg>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition>Andet Oplag.</docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace>Kjøbenhavn.</pubPlace>Th. Michaelsen &amp; Tillge.<lb/>(C. G. Iversens Boghandel.)
+<fw type="graphic"/>
+<docDate>1868</docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<pb facs="1834_8_page0002.png"/>
+<fw type="pageNum">55</fw>
+<head>Efterskrift.</head>
+<head>1867.</head>
+<p><hi rend="initial">I</hi> den Menneske-Alder, som nu er forløben, siden Bogen om den Danske Stats-Kirke forst udkom, er der foregaaet en Forandring med den, og ei blot med dens Navn, som er forandret til <hi rend="spaced">Folke-Kirke</hi>, thi ved Troes-Friheden og ved Sognebaandets Losning er den virkelig forandret fra et Fangebuur med mange snevre Aflukker til et folkeligt Samfund med frie Samlag, saa at, hvad der end er tilbage af Tvang og Stavnsbaand, maa betragtes som Levninger af Trældommen, der snarest mulig skal vige sor Frihedens fuldstændige Giennemførelse. Naar en saadan Giennemførelse af Kirke-Friheden, hvorved baade Talere og Tilhørere løses fra alle de verdslige Baand, som <hi rend="spaced">Aanden</hi> undviger, beskyldes for at være en Oplosning af Kirke-Samfundet, da lader man aabenbar uændset, at Talen ei meer kan være om den opløfte Tvangs-Kirke, men om den ny <hi rend="spaced">Frikirke</hi>, som maa stræbe at vinde en tilsvarende Skikkelse, hvad kun kan skee ved frie Menigheder med Fri-Præster, der ei paatage sig noget andet Baand end det, som Herrens Friheds-Aand selv ved Daaben paatager sig og paalægger hele Menigheden.</p>
+<p>Naar man desuagtet raaber sig hæs paa, at vi, som kæmper for Præste-Friheden, stræber formastelig at opløse Kirke-Samfundet fra Arildstid, da enten lyver man med Flid, eller rober en grov kirkehistorisk uvidenhed, baade i det hele og i Henseende til den Danske Kirke især, thi i sin Oprindelse var det christelige Troessamfund aabenbar en Frikirke i den 
+<pb facs="1834_8_page0003.png"/>
+<fw type="pageNum">56</fw>
+Iødiske Kirke-Stat, eftersom baade Apostlerne talte frit i Templet, og det store Raad i Jerusalem svede Myndighed over de Christne af jødisk Byrd, som boede i Damaskus eller andensteds udenfor Jødelandet. Hvad dernæst den Lutherske Statskirke i Danmark angaaer, da finde vi endnu ved dette Aarhundredes Begyndelse Frimenigheder midt i den trindt i Riget, overalt hvor der blot var Enighed om Alter, Tro og Daab, om end Gudstjenesten ei blot forrettedes i et fremmed Tungemaal, men med en egen Psalmebog og andre Kirke-Skikke, end det Danske Ritual foreskriver. Dette viste sig da ogsaa klarlig midt i Hovedstaden, hvor det hørte til de Fremmedes Privilegier, at der fandtes hele tre tydske Kirker med det Lutherske Navn, hvis Medlemmer vare spredte i alle Sogne, Danske saavelsom Tydske, med selvvalgte Præster, der ligefuldt regnedes til den Danske Statskirke og stod under dens Superintendenters Tilsyn. Det samme var Tilfældet med den Lutherske Kirke i Slesvig og Holsten, saa det regnedes da ingenlunde sor en Opløsning af Kirke-Samfundet, at dertil hørte Fri-Menigheder, som ikke var bundne ved den Danske Kirkes særegne Forskrifter. Ligesom da nu ved Sognebaandets Løsning de Indfødte tildeels har opnaaet de Fremmedes Privilegier, saa kan det jo neppe feile, at de jo snart fuldelig vil blive sat i Besiddelse deraf. Dette maa altsaa agtes for et Tids-Spørgsmaal i det smaa af samme Art som det store om den <hi rend="spaced">Romerske Paves</hi> verdslige Magt, saa at ligesom det kun er Spørgsmaal om allerede Pius den Niende eller først hans Efterfølger stal nødes til at opgive den, saaledes er det kun et Tidsspørgsmaal, om allerede <hi rend="spaced">Sjællands</hi> nærværende <hi rend="spaced">Biskop</hi> eller først hans Eftermand vil føle sig bevæget til at indrømme Danske Frimenigheder en Plads i vor Folke-Kirke, og med dette Haab vil vi trøste hverandre.</p>
+</div>
+</body>
+</text>
+</TEI>

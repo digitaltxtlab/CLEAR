@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Kirke-Psalmer</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-24"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="001"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1845">1845</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1845_1_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Kirke-Psalmer</titlePart>
+	<titlePart type="sub">udgivne<lb/>til<lb/>Prøve</titlePart>
+</docTitle>
+<byline>af<lb/>
+	<docAuthor>Kjøbenhavns geistlige Convents<lb/>Psalme-Comitee.</docAuthor>
+				</byline>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace>Kjøbenhavn.</pubPlace>.<lb/>C. A. Reizels Forlag.<lb/>Trykt hos I. D. Qvist.<lb/>
+<fw type="graphic"/>
+<docDate>1845</docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<pb facs="1845_1_page0002.png"/>
+<fw type="pageNum"></fw>
+<head>Indhold.</head>
+<p>Daab og Confirmation		2.</p>
+<p>Skriftemaal og Altergang.........	15.</p>
+<p>Præstevielse		29.</p>
+<p>Brudevielse		31.</p>
+<p>Berettelse og Ligbegængelse		40.</p>
+<p>Julehøitiden		62.</p>
+<p>Paaskehøitiden		81.</p>
+<p>Pindschøitiden		97.</p>
+<fw type="graphic"/>
+</div>
+<div> 
+<pb facs="1845_1_page0003.png"/>
+<fw type="pageNum"></fw>
+<fw type="graphic"/>
+<head>Forord.</head>
+<fw type="graphic"/>
+<p><hi rend="initial">K</hi>jøbenbavns geistlige Convent bar overdraget os Undertegnede at sammentræde i en Comite for at tilveiebringe en "<hi rend="spaced">kirkelig og folkelig Psalmebog</hi>". Vi forelægge herved Conventet en Prøve af vort Arbeide og samtidigen hermed lade vi den lued Conventets Samtykke udgaae i en videre Kreds.</p>
+<p>Det var vor Hensigt med dette Prøvehæfte at anskueliggiøre de <hi rend="spaced">Princip</hi> er, som vi erkjende for de ledende saavel i <hi rend="spaced">Valget</hi> som i <hi rend="spaced">Bearbeidelsen</hi> af Psalmer til en ny Kirke-Psalmebog. Skulde disse fuldstændigen afspeile sig i en Prove, maatte denne nødvendig give en, om end kun relativ, Totalitet. De kirkelige Handlinger og Høitider danne et saadant mindre Hele, og de Psalmer, som henhøre til dem, ere i flere Henseender bedst skikkede til at give et tro Billede af hvad vi tilsigte. Dette er, som vi ovenfor have sagt) hvad vi have for Die med denne Prøve, der naturligviis i Enkeltheder vil kunne modtage Forandringer.</p>
+<p>Til nærmere Forstaaelse af vore Priciper ville vi nu i Korthed fremsætte Følgende. Psalmebogen skulde være til kirkeligt Brug; det var derfor de egentlige <hi rend="spaced">Kirke-Psalmer,</hi> som fornemmelig maatte komme i Betragtning, saadanne nemlig, i hvilke Menighedens Forsamling finder det almindelige Udtryk for 
+<pb facs="1845_1_page0004.png"/>
+<fw type="pageNum">IV</fw>
+sit fælleds Troesliv. Vi besidde flere fortrinlige Psalme-Samlinger for den private Andagt,, og Enhver vil deri kunne finde, hvad der i reen subjectiv Henseende tilfredsstiller ham bedst. Dog følger det af den paatænkte Psalmebogs kirkelige Charakteer, at den tager tilbørligt Hensyn til den objective og nødvendige Forbindelse, i hvilken Kirken træder saavel til Huuslivet som til Stolen, og der vil ogsaa i nærværende Samling gives Psalmer til Kirke-Katechisation, Brudevielse i Huset og Berettelse. Efter det anførte Princip henvendte vi først vor Opmærksomhed paa de Psalmer, som ere eller have været i Brug ved den kirkelige Gudstjeneste. Psalmebogen faaer derved den <hi rend="spaced">historiske Charakteer</hi>, som hører væsentlig med til dens Begreb. Hvad Ringeagt for dette Princip maa føre til, beviser den evangeliskchristelige Psalmebog tilstrækkelig. Vi maae her fremhæve, at det netop i nærværende Tidspunct er af Vigtighed atgiøre dette historiske Hensyn giældende, inden Traditionens levende Kiæde brydes. Thi endnu have vi Flere tilbage af den ældre Slægt, som ere opvoxede med de gamle Psalmer og kunne aflægge Vidnesbyrd om dem fra den Tid, da de ret kjendtes og elskedes. Vi lagde altsaa nærmest de ældre danske Kirke-Psalmebøger til Grund, og hvad der i disse har været og tildeels endnu er fortrinlig yndet og benyttet, maatte vi nødvendig tilkjende en berettiget Adkomst til at optages, om end ikke i aldeles uforandret Skikkelse. Medens vi alene af dette historiske Hensyn have anseet os forpligtede til at optage adskillige af de ældre Kirke-Psalmer, som vi ellers ikke 
+<pb facs="1845_1_page0005.png"/>
+<fw type="pageNum">V</fw>
+vilde have valgt, forholder det sig anderledes med de nyere. Valget af dem kunde kun bestemmes af Hensyn til Psalmens eget Værd, og Erfaring maa nu vise, hvorvidt vi have truffet det Rette. De ere valgte af flere danske Samlinger fra ældre og nyere Tid. At en Forfatter maa komme desto mere i Betragtning, jo kirkeligere han er, hænger paa det nøieste sammen med vort Princip, der fordrer noget ganske Andet end blot en Anthologie af Psalmer, skjøndt forskjellige Toner her komme til at lyde.</p>
+<p>Psalmebogen hviler paa den christeligkirkelige Grund, og dermed er dens almindelige <hi rend="spaced">dogmatiske Charakteer</hi> angiven. Hvad der indenfor denne Omkreds har formaaet at giøre sig giældende som en almindeligere Skikkelse af det christelige Troesliv, vil som en Følge af vort historiske Princip ogsaa her blive repræsenteret. Vi opgive intet Øieblik den Sætning, at Psalmen er kun for Troen; men derfor ville vi heller ikke fratage Nogen hans virkelige Ret til ogsaa i Kirke-Psalmebogen at finde et Udtryk for den Typus af den christelige Fromhed, af hvilken han især føler sig tiltalt. Dommer derfor Nogen om en Psalme, at den er forældet, da erindre han, at de christelige Synspuncter, som i den historiske Udvikling successivt have afløst hverandre, endnu i Nærværelsen staae som levende Skikkelser ved Siden af hinanden. Det vil saaledes ikke være vanskeligt at eftervise for Tiden i den danske Kirke de forskjellige Retninger, som, i Forhold til hvad der iøvrigt er dem eiendommeligt, ville foretrække enten den kingoske eller den brorsønske eller den 
+<pb facs="1845_1_page0006.png"/>
+<fw type="pageNum">VI</fw>
+evangeliskchristelige Psalmetone, skjøndt disse i Tiden fulgte paa hinanden, og i en vis Forstand den foregaaende er bleven afløst af den efterfølgende.</p>
+<p>Vi ville nu angive de Principer, der ere fulgte ved <hi rend="spaced">Bearbeidelsen</hi> saavel af ældre som nyere Psalmer; men først maae vi vedkjende os den Overbeviisning, at selv de bedste Priciper baade for Valget af nye og Bearbeidelse og Rettelse af gamle Psalmer ville ikke føre til noget tilfredsstillende Resultat, uden en Psalmedigter, som kan og vil paatage sig og udfore, hvad kun Digteren kan giøre. De af vore tidligere Psalmer, som ere Oversættelser, trængte alle til at sammenholdes med Originalerne, og Resultatet blev i de fleste Tilfælde, at en ny Oversættelse var nødvendig. I de ældre originale danske Psalmer var det især Enkeltheder i Indhold og Form, som maatte forandres; men under alle disse Forandringer, saavel i det Større som i det Mindre, har det været Comiteens eenstemmigt anerkjendte Grundsætning at beholde det Gamle overalt, hvor det lod sig giøre, og at det Nye burde svare til enhver Forfatters Giendommelighed, saavidt det kunde naaes. Der var et dobbelt Hensyn, som gav denne Deel af Arbeidet en særegen Vanskelighed; thi sor det Første skulde de ældre Psalmer <hi rend="spaced">bevares</hi>, nemlig for dem, der allerede tjende dem og have dem tjær; og den Omstændighed, at der endnu ere Menigheder, som bruge de gamle Psalmebøger, paabød desto større Vaersomhed i Forandringer, for at vi ikke skulde tage istedenfor at give; men paa den anden Side skulde de ældre 
+<pb facs="1845_1_page0007.png"/>
+<fw type="pageNum">VII</fw>
+Psalmer ogsaa <hi rend="spaced">indføres</hi>, nemlig hos alle dem, der først nu skulle lære at skatte den Rigdom, vi eie i dem, og vi stræbte derfor, saavidt det stod i vor Magt, at borttage, kvad der i Almindelighed vilde være til Anstød. Vi baade, at det skal erkjendes, at di ikke have tilsidesat det æsthetiske Hensyn; vi indrømme det al den Gyldighed, der kan tilkomme det ved et Arbeide som det nærværende; men det kan og skal ikke her være det eneste, og dem, der muligen ville anlægge det som delt høieste Maalestok for en Psalmebog, minde vi om Herders Udsagn, at Guds Kirke lægger uendelig større Vægt paa Læren, Ordet og Bekiendelsen end paa smukke Vers, og at ingen Christen-Menighed kommer sammen for at øve sig i Poesie men for at tjene Gud. Vi baade ønskede og arbeidede for, at der ogsaa med Hensyn til Formen maatte være saa lidt Ufuldkomment som muligt. Meget vil af Ukyndige boldes derfor, skjøndt det ikke er det; men hvad der af Sagkyndige maatte ansees for at være det, haabe vi dog ikke vil kunne henregnes til det Giennemgribende og Væsentlige; thi hvor vauskeligt det end undertiden har været for Comiteen at enes om Enkeltheder, saa ere vi dog i det Hele aldeles enige, og vi have fulgt det Princip, saavel ved ældre som ved nyere Psalmer, at bevare Psalmens poetiske Giendommelighed, medens vi søgte at udslette det Tilfældige og reent Particulære. Jøvrigt er det vor Overbeviisning, at ville vi ikke have en ny Psalmebog, førend vi kunne faae en saadan, som i enhver Henseende realiserer Idealet, ville vi aldrig faae den. Med Rettelser i 
+<pb facs="1845_1_page0008.png"/>
+<fw type="pageNum">VIII</fw>
+Enkeltheder kan man gaae i det Uendelige, og Ingen vil nægte os, at Meget tilsidst kommer til at beroe paa et aldeles subjectivt Skjøn. Vi holde os forvissede om, at for Enhver, som bruger disse Psalmer til Andagt og Opbyggelse, vil det Fremmede tabe sig i Forhold til, som Fortroligheden med Psalmerne voxer. Men uden den oplader Psalmen ikke sit Indre for Nogen. De Forandringer, vi have tilladt os med nulevende Forfatteres Arbeider, ville maaskee ikke altid vinde deres Bifald; men Intet skal være os kjærere, end at modtage saadanne Rettelser, som svare til Vort Øiemed, fra Forfatternes egen Haand, ligesom det er en Selvfølge, at hvis Nogen hellere ønsker, at hans Psalmer udelades end modtage de Forandringer, vi ansee for nødvendige, behøve vi kun at underrettes derom, for at det skal skee.</p>
+<p>Den <hi rend="spaced">musikalske</hi> Deel af vort Arbeide har Hr. Organist Berggreen godhedsfuldt lovet at ville besørge i sin Tid. Ikte alle Psalmedigtere have forstaaet at vælge Melodier, som svarede til Psalmens Andhold. Dette Misforhold have vi Løfte om at faae rettet ved hans sagkyndige Medvirkning, ligesom ogsaa at faae Melodier, isærdeleshed saadanne, som allerede ere i Kirken, til de Psalmer, der her endnu ikke angive nogen.</p>
+<p>Maatte nu denne Prøve være en virkelig Begyndelse til den nye Psalmebog!</p>
+<p>I Julen 1844.</p>
+<p><hi rend="align(center)"><hi rend="bold">I. H. Paulli. N. F. S. Grundtvig.</hi></hi></p>
+<p><hi rend="align(center)"><hi rend="bold">H. Martensen. G. V. Kolthoff.</hi></hi></p>
+<p><hi rend="align(center)"><hi rend="bold">P. I. Spang</hi>.</hi></p>
+<fw type="graphic"/>
+</div>
+<div> 
+<pb facs="1845_1_page0009.png"/>
+<fw type="pageNum"></fw>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="bold">G</hi>iv mig, Gud, en Psalme-Tunge,</l>
+<l>Saa for Dig jeg ret kan sjunge,</l>
+<l>Høit og lydelig,</l>
+<l>Saa jeg føle kan med Glæde,</l>
+<l>Sødt det er om Dig at kvæde,</l>
+<l>Uden Skrømt og Svig!</l>
+</lg>
+<lg>
+<l>Himlene din Glands forkynde,</l>
+<l>Lad hver Morgen mig begynde</l>
+<l>Dagen med din Priis,</l>
+<l>Og naar Aften-Klokken ringer,</l>
+<l>Lad min Sang paa Lærke-Vinger</l>
+<l>Stige ligerviis!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<lg>
+<l><hi rend="bold">H</hi>yggelig, rolig,</l>
+<l>Gud, er din Bolig,</l>
+<l>Inderlig skiøn!</l>
+<l>O, hvor mit Hjerte</l>
+<l>Længes med Smerte,</l>
+<l>Sukker iløn,</l>
+<l>Efter at giæste din Helligdom prud,</l>
+<l>Efter at boe hos den levende Gud!</l>
+</lg> 
+<pb facs="1845_1_page0010.png"/>
+<fw type="pageNum">2</fw>
+<lg>
+<l>Tusinde Døgne,</l>
+<l>Verdslige, søgne,</l>
+<l>Gyldne for Klod,</l>
+<l>Kan de vel ligne</l>
+<l>Een Dag af Dine,</l>
+<l>Som vi dem nod,</l>
+<l>Naar under Sang, med det vingede Ord,</l>
+<l>Sjælen afby over Stjernerne foer!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<head>Daab og Confirmation.</head>
+<head>1.</head>
+<lg>
+<l><hi rend="bold">E</hi>nhver, forn troer og bliver døbt,</l>
+<l>Skal vist og Salig blive,</l>
+<l>Thi dem har Jesus dyrekiøbt,</l>
+<l>Vil dem i sig indlive,</l>
+<l>Og, blandt Gud-Faders Børnetal,</l>
+<l>I Livets Bog, som giælde skal,</l>
+<l>Med Rosensblod indskrive.</l>
+</lg>
+<lg>
+<l>Derfor vi alle hjertelig</l>
+<l>Vorherre Tak vil sige,</l>
+<l>Og bede ham saa mindelig:</l>
+<l>O Jesus! lad os stige</l>
+<l>Ved Daabens Kraft i Dyder frem,</l>
+<l>Og for os saa ved Troen hjem</l>
+<l>Til dig i Ærens Rige!</l>
+</lg>
+</div>
+<div>
+<head>2.</head>
+<lg>
+<l>Mel. Jeg vil Din Priis udsjunge.</l>
+<l><hi rend="bold">M</hi>ig lyster nu at træde</l>
+<l>Hen ned lil Jordans Flod,</l>
+<l>Og bade mig med Glæde</l>
+<l>Hvor Herrens Fodder stod,</l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

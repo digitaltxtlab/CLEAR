@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>I Hundrede Aar satte Fienden ei Fod</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-23"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="009"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1840">1840</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1840_9_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">I Hundrede Aar satte Fienden ei Fod</titlePart>
+</docTitle>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Mel. Saa kæmped de Helte af anden April.</head>
+<lg>
+<l><hi rend="initial">I</hi> Hundrede Aar satte Fienden ei Fod</l>
+<l>Paa Danmarks de deilige Kyster,</l>
+<l>Og isnet i Graven var Kæmpernes Blod,</l>
+<l>Som kogde i <hi rend="spaced">Tordenskjolds</hi> Dyster!</l>
+</lg> 
+<pb facs="1840_9_page0002.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Da svømmed af Master en Skov over So,</l>
+<l>For Sang førde med sig den Torden,</l>
+<l>Med Lover og Tigre den kom under Ø,</l>
+<l>At giæste Havfruen i Norden.</l>
+</lg>
+<lg>
+<l>I Konninge-Dybet sig fæsted den Skov,</l>
+<l>Med Torden og Udyr i Kanten,</l>
+<l>Halv Løve, halv Tiger, heel graadig paa Rov,</l>
+<l>I Spidsen bar stolt <hi rend="spaced">Elefanten</hi>.</l>
+</lg>
+<lg>
+<l>Hvor <hi rend="spaced">Dannebrog</hi> vaied, der fandtes dog end</l>
+<l>Af Kæmpeæt modige Drenge,</l>
+<l>Og hurtig i Vaaren de vorde til Mænd,</l>
+<l>Som Blomsterne vore i Enge.</l>
+</lg>
+<lg>
+<l>Saa kæmped de Helte fra anden April</l>
+<l>For Fædreland, Frihed og Ære,</l>
+<l>At række dem maatte den Stolte fra Nil</l>
+<l>En Krands, som de Bedste kun bære!</l>
+</lg>
+<lg>
+<l>De vandt ikke glimrende Seier med Rov,</l>
+<l>Og Lykken de lod sig fraliste,</l>
+<l>Men vandt dog af arrigste Fiende det Lov,</l>
+<l>Fra dem var ei Seiren at vriste!</l>
+</lg>
+<lg>
+<l>Thi blaane Kiærminder paa Heltenes Grav</l>
+<l>Til Krandse, i Morgen at vindes,</l>
+<l>Og Dannebrog vaier med Æren paa Hav,</l>
+<l>Saalænge <hi rend="spaced">Skiær-Thorsdagen</hi> mindes!</l>
+</lg> 
+<pb facs="1840_9_page0003.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Lad Freden kun vare i hundrede Aar!</l>
+<l>I Danmark Fred-Disen har hjemme;</l>
+<l>Mens <hi rend="spaced">Villemoes</hi> mindes som Dagen igaar,</l>
+<l>Vi Kongedybs-Kampen ei glemme.</l>
+</lg>
+<p><hi rend="align(right)"><hi rend="bold">N. F. S. Grundtvig</hi>.</hi></p>
+
+</div>
+</body>
+</text>
+</TEI>

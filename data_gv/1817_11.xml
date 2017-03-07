@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Skilderie af Kjøbenhavn.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2009-10-28"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="011"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1817">1817</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1817_11_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Nyeste<lb/>
+Skilderie af Kjøbenhavn.</titlePart>
+	<fw type="graphic"/>
+</docTitle>
+<byline></byline>
+							<epigraph>
+				</epigraph>
+							<docEdition>Fjortende Aargang. No. 86.</docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace>Udgivet, redigeret og forlagt af S. Soldin.
+</pubPlace>
+<fw type="graphic"/>
+Forsendes, i Følge Kongel. allernaadigst Tilladelse, med Brevposterne.<lb/>
+<fw type="graphic"/>
+<docDate>Tirsdagen den 28 October 1817</docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<pb facs="1817_11_page0001.png"/>
+<fw type="pageNum"></fw>
+<head>Jubel - Psalmer.</head>
+<lg>
+<l><hi rend="initial">S</hi>om den gyldne Soel udbryder</l>
+<l><hi rend="align(right)">Vældig af den sorte Skye,</hi></l>
+<l>Og sin Straaleglands udskyder</l>
+<l><hi rend="align(right)">Indtil Mulm og Mørke flye:</hi></l>
+<l>Saa i helligt Morgengrye,</l>
+<l>Gjennem Pavedømmets Skye,</l>
+<l><hi rend="align(right)">Ordet brød med Lys og Ære.</hi></l>
+<l><hi rend="align(right)">Herrens Navn velsignet være!</hi></l>
+</lg>
+<lg>
+<l>Lover Gud, I Christne fromme!</l>
+<l><hi rend="align(right)">Gjæster ved Hans Naadebord!</hi></l>
+<l>Lad i Sang os ihukomme</l>
+<l><hi rend="align(right)">Herrens Gjerninger paa Jord!</hi></l>
+<l>Himmel - Ordets klare Guld</l>
+<l>Var som sjunket under Muld,</l>
+<l><hi rend="align(right)">Men trods Keiser, Band og Pave</hi></l>
+<l><hi rend="align(right)">Herren lod sit Guld opgrave.</hi></l>
+</lg>
+<lg>
+<l>Sandheds Ord var lagt paa Hylden,,</l>
+<l><hi rend="align(right)">Løgn og Tant i Kirken lød.</hi></l>
+<l>For en Krone, for en Gylden,</l>
+<l><hi rend="align(right)">Himinerig tilfals man bød.</hi></l>
+<l>Lovens Bud og Korsets Ord</l>
+<l>Var som gravet ned i Jord,</l>
+<l><hi rend="align(right)">At de skulde ei fordømme</hi></l>
+<l><hi rend="align(right)">Pave-Løgn og Munke-Drømme.</hi></l>
+</lg>
+<lg>
+<l>Støv ei svækker Herrens Domme,</l>
+<l><hi rend="align(right)">Liv og Kraft er Sandheds Ord;</hi></l>
+<l>Lover Gud, I Christne fromme!</l>
+<l><hi rend="align(right)">Lover Gud, I Engle-Chor!</hi></l>
+<l>Lyset kom, og Mørket veeg.</l>
+<l>Paven sank, og Ordet steeg,</l>
+<l><hi rend="align(right)">Læs af Løgn, som Bjerg at skue,</hi></l>
+<l><hi rend="align(right)">Vælted Biblens Myre-Tue.</hi></l>
+</lg>
+<lg>
+<l>Herrens Raad ei Støv udgrunder,</l>
+<l><hi rend="align(right)">Aldrig Verden dem forstaaer,</hi></l>
+<l>I hans Haand giør Smaating Under,</l>
+<l><hi rend="align(right)">Fattig Munk gjør Jubel-Aar;</hi></l>
+<l>Morten Luther, med Guds Ord</l>
+<l>Tændte Lys igien paa Jord.</l>
+<l><hi rend="align(right)">Og hans Navn skal gaae med Solen;</hi></l>
+<l><hi rend="align(right)">Thi han reiste Naade-Stolen.</hi></l>
+</lg>
+<lg>
+<l>Lover Gud! I Folk! og sjunger:</l>
+<l><hi rend="align(right)">Guds Apostler vidt paa Jord</hi></l>
+<l>Nu igjen med vore Tunger</l>
+<l><hi rend="align(right)">Tale klart Guds dybe Ord!</hi></l>
+<l>Lover, takker, priser Gud,</l>
+<l>Som os drog af Mørket ud!</l>
+<l><hi rend="align(right)">Beder: Gud os vel bevare,</hi></l>
+<l><hi rend="align(right)">Ved sin Aand, for Mørkets Snare!</hi></l>
+</lg>
+<lg>
+<l>Tak, vor Fader i det Høie!</l>
+<l><hi rend="align(right)">Tak i Jesu Christi Navn!</hi></l>
+<l>Naade for Dit Guddoms-Øie</l>
+<l><hi rend="align(right)">Fandt vor ringe Føde-Stavn;</hi></l>
+</lg>
+<pb facs="1817_11_page0002.png"/>
+<fw type="pageNum">1363-1364</fw>
+<lg>
+<l>Til os over Bølgen blaa</l>
+<l>Kraftig bødst Du Ordet gaae ,</l>
+<l><hi rend="align(right)">Reent og klart Du i vor Kirke</hi></l>
+<l><hi rend="align(right)">Bød det lyde, bød det virke.</hi></l>
+</lg>
+<lg>
+<l>Aldrig, Gud, Du det forandre.!</l>
+<l><hi rend="align(right)">Lad i fromme Fædres Fjed</hi></l>
+<l>Os i Lyset trolig vandre,</l>
+<l><hi rend="align(right)">Lyses hjem til Dig i Fred!</hi></l>
+<l>Syndet har vi, Fader kjer!</l>
+<l>Var kun Straf ei Naade værd;</l>
+<l><hi rend="align(right)">Men for Jesu Skyld tilgiv!</hi></l>
+<l><hi rend="align(right)">Dagen helder, hos os bliv!</hi></l>
+<l>Hjertet brænde, Kinden gløde</l>
+<l>I en hellig Aftenrøde!</l>
+</lg>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">G</hi>uds Kirke er saa fast en Borg,</l>
+<l><hi rend="align(right)">Den staaer paa Zions Bjerge;</hi></l>
+<l>Kast kun, min Sjæl, paa Gud al Sorg</l>
+<l><hi rend="align(right)">Han vil med Kraft den værge.</hi></l>
+<l>Som fordum, saa og nul</l>
+<l>Han kommer grandt ihu.</l>
+<l><hi rend="align(right)">Den trænger til Hans Vagt,.</hi></l>
+<l><hi rend="align(right)">Omringet og belagt</hi></l>
+<l>Af Mørkets Helved-Skare.</l>
+</lg>
+<lg>
+<l>Vor egen Kraft, vort Heltemod</l>
+<l><hi rend="align(right)">Det er ei værd at nævne.</hi></l>
+<l>Men derfor Han en Kæmpe god</l>
+<l><hi rend="align(right)">Os gav med Almagts-Evne,</hi></l>
+<l>Med Verden ei forgaaer</l>
+<l>Hans Priis, Hans Jubel-Aar</l>
+<l><hi rend="align(right)">Det i al Evighed</hi></l>
+<l><hi rend="align(right)">Skal tone: Jesus stred.</hi></l>
+<l>Og Seier har han vundet.</l>
+</lg>
+<lg>
+<l>Ja, mylred Djævle end paa Jord,</l>
+<l><hi rend="align(right)">Og stormed Kirkens Volde,</hi></l>
+<l>Vi stole dog paa Jesu Ord,</l>
+<l><hi rend="align(right)">Han Marken skal beholde.</hi></l>
+<l>Lad fnyse Verdens Aand!</l>
+<l>Al Magt er i Guds Haand;</l>
+<l><hi rend="align(right)">Lad rase Mørkets Hær!</hi></l>
+<l><hi rend="align(right)">Lad blinke Blus og Sværd!</hi></l>
+<l>Guds Ord skal aldrig svigte.</l>
+</lg>
+<lg>
+<l>Mei, Ordet skal de lade slaae.</l>
+<l><hi rend="align(right)">Og Utak dertil have,</hi></l>
+<l>Det skal til Verdens Ende gaae</l>
+<l><hi rend="align(right)">Paa. fine Fjenders Gravel.</hi></l>
+<l>Med List, med Vold og Mord-</l>
+<l>Vort Gods, vore kiv paa Jord,</l>
+<l><hi rend="align(right)">Os Verden røve kan;</hi></l>
+<l><hi rend="align(right)">I Chrisures Fadreland</hi></l>
+<l>Vi Kronen døg beholde.</l>
+</lg>
+<lg>
+<l>Oyds Ord det er vort Arvegods,</l>
+<l><hi rend="align(right)">Det skal vor Afkoms være,</hi></l>
+<l>Ded vKrs stak r Grav. vor Noes,</l>
+<l><hi rend="align(right)">Vi holdt det høit i være;,</hi></l>
+<l>Det er vor Hjelp i Nød,.</l>
+<l>Nor Trøst i Liv og Død.</l>
+<l><hi rend="align(right)">O,. Gudl i. hvor Æt gaaer</hi></l>
+<l><hi rend="align(right)">Lad døg, mens Verden slaaer</hi></l>
+<l>Det i vor. Æt nedarves.'</l>
+</lg>
+<p><hi rend="align(right)">N.F.S. Grundtvig.</hi></p>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

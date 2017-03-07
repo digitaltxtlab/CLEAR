@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Hver Ting i Verden har sin Tid</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-26"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="005"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1866">1866</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1866_5_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main"><lb/>Hver Ting i Verden har sin Tid</titlePart>
+	<titlePart type="sub"><lb/></titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<docImprint>
+				<pubPlace></pubPlace>.
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>2.</head>
+<p><hi rend="align(center)">Mel. Er Lyset for de Lærde blot.</hi></p>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">H</hi>ver Ting i Verden har sin Tid,</l>
+<l>Det er en gammel Tale,</l>
+<l>Men her, som Sællandsfarens Vid,</l>
+<l>Den har en lille Hale;</l>
+<l>Thi Alt, hvad der er Noget værd,</l>
+<l>I Ungdom og i Ælde,</l>
+<l>Hos gode Dannemænd især</l>
+<l><hi rend="spaced">Engang</hi> faaer Lov at gjælde.</l>
+</lg>
+<lg>
+<l>Saa lod engang vor Bondestand,</l>
+<l>Især i Sællands Egne,</l>
+<l>Mod Borger, Præst og Adelsmand</l>
+<l>For ingen Ting sig regne;</l>
+<l>Men klarlig sees det dog idag,</l>
+<l>Og klarere imorgen,</l>
+<l>Det fodtes under Bondens Tag,</l>
+<l>Som æret blev paa Borgen.</l>
+</lg> 
+<pb facs="1866_5_page0002.png"/>
+<fw type="pageNum">4</fw>
+<lg>
+<l>Det skimted Kronprinds Frederik,</l>
+<l>I Dagningens Tusmørke,</l>
+<l>At Bonden var, ihvor det gik,</l>
+<l>Det danske Riges <hi rend="spaced">Styrke</hi>;</l>
+<l>Og det var ei til Folke-Held,</l>
+<l>Men gjorde Ondt kun værre,</l>
+<l>At Rigets Styrke var en Træl,</l>
+<l>Og Mathed var dens Herre.</l>
+</lg>
+<lg>
+<l>Det kosted vel en lille Dyst,</l>
+<l>Men brudt blev Bondens Lænke,</l>
+<l>Han opped sig, da det blev lyst,</l>
+<l>Det kan man sagtens tænke;</l>
+<l>Han sidder nu i Rigets Raad,</l>
+<l>Og gi'er sit Ord i Laget;</l>
+<l>Af Styrkens Ord udspringer Daad,</l>
+<l>Hvor ei det bliver vraget.</l>
+</lg>
+<lg>
+<l>Hvor <hi rend="spaced">Folke-Styrkens</hi> Ord faaer Magt,</l>
+<l>Opløses alle Stænder,</l>
+<l>Med fælles Bedste gaae i Pagt,</l>
+<l>Da Hoveder og Hænder;</l>
+<l>Som hver en Ting, da Tiden sin</l>
+<l>Har og den Danske Bonde,</l>
+<l>Det spørges skal til <hi rend="spaced">Spree</hi> og <hi rend="spaced">Rhin</hi>,</l>
+<l>Den er ei af de Onde.</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

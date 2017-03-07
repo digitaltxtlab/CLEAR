@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Skilderie af Kjøbenhavn.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-25"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="001"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1822">1822</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1822_1_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Nyeste<lb/>Skilderie af Kjøbenhavn.</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition>Nittende Aargang. No. 77.</docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace></pubPlace>Udgivet, redigeret og forlagt af S. Soldin.<lb/>Forsendes, i Følge Kongel. allernaadigst Tilladelse, med Brevposterne.
+<fw type="graphic"/>
+<docDate>Tirsdagen den 24 September 1822.</docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Min Moder.</head>
+<lg>
+<l><hi rend="bold">S</hi>aa er nu brudt Din Vandrings-Stav,</l>
+<l>Dit Time-Glas udrundet!</l>
+<l>Saa har Du i den mørke Grav</l>
+<l>Din sidste Boelig fundet!</l>
+<l>Saa har jeg da, o Hjerte-Stød!</l>
+<l>En Noder kun i Jordens Skiød!</l>
+</lg>
+<lg>
+<l>Saa holdt nu Hjertet op at slaae,</l>
+<l>Hvorunder jeg har hvilet!</l>
+<l>Ei meer i Moder-Øine blaae</l>
+<l>Jeg skuer Taare-Smilet!</l>
+<l>I dybe Suk fra klemte Bryst</l>
+<l>Hendøde, kvalt, min Moders Røst</l>
+</lg>
+<lg>
+<l>Nu, hun er lagt i Orme-Gaard,</l>
+<l>Nu er den kæbe tavnet,</l>
+<l>Som kiærlig i de spæde Aar</l>
+<l>Mig lærde Fader-Navnet,</l>
+<l>Mig lærde, paa den mørke Jord,</l>
+<l>At finde Lys i Herrens Ord!</l>
+</lg>
+<lg>
+<l>Mene Bølgen under <hi rend="spaced">Hrone-Klint</hi></l>
+<l>Sin Havfru-Sang istemmer,</l>
+<l>Snart, med Din Kistes sidste Splint,</l>
+<l>hensmuldre Dine Lemmer,</l>
+<l>Ja, dele nu alt bange Kaar</l>
+<l>Med <hi rend="spaced">Prastøe-Vyntens</hi> Kirke-Gaard!</l>
+</lg>
+<lg>
+<l>Og, Moder kiær! ak, fra Din Grav</l>
+<l>Det Ord med sælsom Vælde</l>
+<l>Udfarer over Bugt og Hav,</l>
+<l>Vil Manges Moder giælde;</l>
+<l>Vil tone som en Klage-Sang</l>
+<l>Ved Dronning-Liig i Dane-Vang!</l>
+</lg>
+<lg>
+<l>Ja, gamle Dagmar Danebod!</l>
+<l>Du ogsaa var en Præste-Kvinde,</l>
+<l>Med Taare-Smiil og Adels-Blod,</l>
+<l>Med Skjoldmø-Hegn om bly Kiærminde;</l>
+<l>Du mangt et Hierte-Stød forvandt,</l>
+<l>Og seent Dit Time-Glas udrandt!</l>
+</lg>
+<lg>
+<l>Men, ak, tilsidsk det dog udrandt,</l>
+<l>Og knukket er nu Vandrings-Staven.</l>
+<l>Dit sidste Herberg Du og fandt</l>
+<l>I Orme-Gaarden, Dødning-Haven;</l>
+<l>I dybe Suk, fra klemte Bryst,</l>
+<l>Hendøde, kvalt, Din gamle Røst!</l>
+</lg>
+<lg>
+<l>Mens Bølgen under høie Klinter</l>
+<l>Besynger Dine Fienders Død,</l>
+<l>Hensmuldrer Du i Høst og Vinter</l>
+<l>I <hi rend="spaced">Saga-Gravens</hi> dunkle Skiød,</l>
+<l>Og deler der fuldbange Kaar</l>
+<l>Med Præstøe-Pyntens <hi rend="spaced">Kirke-Gaard</hi>!</l>
+</lg>
+<lg>
+<l>Dog, Vie! Tak, end i Din Grav,</l>
+<l>For hvad Du har udstraalet!</l>
+</lg> 
+<pb facs="1822_1_page0002.png"/>
+<fw type="pageNum">1219-1220</fw>
+<lg>
+<l>Tak, Læber, som bog, før I tav, .</l>
+<l>Mig lærde Moders-Maalet!</l>
+<l>Tak, Du, som fødte mig til Daab,</l>
+<l>Indpræntede mig Livets Haab!</l>
+</lg>
+<lg>
+<l>Min <hi rend="spaced">Frelser lever, og jeg veed</hi>,</l>
+<l><hi rend="spaced">Han vil til Støv nedtræde</hi>.</l>
+<l><hi rend="spaced">Hvor dybt end Orme-Tand mig beed</hi>,</l>
+<l><hi rend="spaced">Skal jeg Ham see med Glæde</hi>!</l>
+<l>O! dybt det Ord Du prænted ind,</l>
+<l>Paa Moders-Maal, i Barne-Sind!</l>
+</lg>
+<lg>
+<l>Det Livets Ord jeg bygger paa,</l>
+<l>Trods Orme, Vind og Bove:</l>
+<l>Af Muld skal Dødninger opstaae</l>
+<l>Og Frelseren høikove,</l>
+<l>Naar Luren drøner saa i Skye,</l>
+<l>At Stjerner falde, Bjerge flye!</l>
+</lg>
+<lg>
+<l>Naar Herren under Hoved-Guld</l>
+<l>Fra Himken aabenbares,</l>
+<l>For i sit hele Helgen-Kuld</l>
+<l>Paa Jorden at forklares,</l>
+<l>Alt hvad med Ham var Eet i Aand</l>
+<l>Opstaaer i Lysets Klædebon!</l>
+</lg>
+<lg>
+<l>Det er et Haab, o Moder siin!</l>
+<l>Som Hjertet kan husvale;</l>
+<l>Et Varsel er det Jorde-Lin,</l>
+<l>Du lagdes med i Dvale,</l>
+<l>For Straale - Kjortlen let og prud,</l>
+<l>Du bære skal som Christi Brud!</l>
+</lg>
+<lg>
+<l>Dit Taare-Smil ei sank i Grav,</l>
+<l>Din Afkom det skal arve;</l>
+<l>Min spæde Søn Du mild det gav</l>
+<l>Med Hjertets Regnbue-Farve;</l>
+<l>Det følge ham, og Ætten haus,</l>
+<l>Til det opgaaer i Sole-Glands!</l>
+</lg>
+<lg>
+<l>Saa er Din Røst ei heller død.</l>
+<l>Hvor Hjerte raader Tunge,</l>
+<l>Din Æt med den, i Lyst og Nød,</l>
+<l>Skal tale, bede, sjunge;</l>
+<l>Dit Hierte-Suk med Psalme-Klang</l>
+<l>Kun endes stal i Inbel-Sang!</l>
+</lg>
+<lg>
+<l>O, Moder! løst fra Sotte-Seng,</l>
+<l>Igien hos Fader hjemme,</l>
+<l>Du aander paa min Harpe-Stræng,</l>
+<l>Det kan jeg grandt benemme;</l>
+<l>Den toner over Bugt og Hav</l>
+<l>Ved alle Danskes Moder-Grav</l>
+</lg>
+<lg>
+<l>Ja, Olde-Moder faur og siin!</l>
+<l>I Dødens Skygge-Dale,</l>
+<l>Du lagdes, med Dit jorde-Lin,</l>
+<l>Kun og i Vinter-Dvale;</l>
+<l>Til Venne-Fryd og Fiende-Skam</l>
+<l>Du stiger snart i Svane-Ham!</l>
+</lg>
+<lg>
+<l>Naar Lynet knittrer, Luren gaaer,</l>
+<l>Forkynder Herrens Komme,</l>
+<l>Af Graven Du med Fryd opstaaer,</l>
+<l>At høre Herrens Domme,</l>
+<l>Som Eet med Ham i Sandheds Aand</l>
+<l>At bære Lyfets Klædebon!</l>
+</lg>
+<lg>
+<l>Vel faldt Dit Maal paa Sotte-Seng,</l>
+<l>Men sank dog ei i Graven,</l>
+<l>Det gienlød i Din Psalter-Stræng,</l>
+<l>Laae skjult i Rime-Staven,</l>
+<l>Der fandtes det af ham, Du blid</l>
+<l>Gav, Taare-Smil i Nødens Tid!</l>
+</lg>
+<lg>
+<l>Det klinger nu paa Kirke-Gaard</l>
+<l>Fra Sønne-Sønnens Tunge,</l>
+<l>Som gladelig, naar Du opstaaer,</l>
+<l>Skal Svane-Psalmen sjunge,</l>
+<l>Paa gammelt Dansk, til over Skye</l>
+<l>Han nemmer i Guds Huus det Nye!</l>
+</lg>
+<lg>
+<l>Saa priis, min Sjæl, den Herres Navn,</l>
+<l>Som endte Dødens Dage,</l>
+<l>Som kom fra Graven, os tit Gavn,</l>
+<l>Med Lys og Liv tilbage,</l>
+<l>Som med sit Ord, før vi det veed,</l>
+<l>Opvækker Støv til Herlighed!</l>
+</lg> 
+<pb facs="1822_1_page0003.png"/>
+<fw type="pageNum">1221</fw>
+<lg>
+<l>Omsvævet af min Moders Aand</l>
+<l>Jeg føler det med Glæde,</l>
+<l>At hvad der er i Herrens Haand,</l>
+<l>Er altid nær tilstæde,</l>
+<l>Med Livets Haab, med kys og Trøst</l>
+<l>Hvor Hjertet slaaer i Christen Bryst.</l>
+</lg>
+<lg>
+<l>O Moder-Støv og Moder-Aanb!</l>
+<l>Mit-Hieetes Tat D u have,</l>
+<l>Som lærde mig, i Lede-Baand,</l>
+<l>Paa Herrens Ord athave,</l>
+<l>At stave, grunde, bygge paa</l>
+<l>Det Ord, som aldrig skal forgaae!!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

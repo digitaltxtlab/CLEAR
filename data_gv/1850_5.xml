@@ -1,0 +1,1274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Fest-Psalmer.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2009-12-14"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="005"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1850">1850</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1850_5_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Fest-Psalmer.</titlePart>
+	<titlePart type="sub"></titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace>Kjøbenhavn.</pubPlace>.<lb/>Faaes hos Boghandler Iversen, store Kjøbmagergade Nr. 9.<lb/>
+<fw type="graphic"/>
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<pb facs="1850_5_page0002.png"/>
+<fw type="pageNum"></fw> 
+<pb facs="1850_5_page0003.png"/>
+<fw type="pageNum"></fw>
+<fw type="graphic"/>
+<head>Julen.</head>
+<fw type="graphic"/>
+<head>619.</head>
+<lg>
+<l><hi rend="initial">V</hi>ær velkommen Herrens Aar</l>
+<l><hi rend="align(right)">og velkommen herhid!</hi></l>
+<l>Julenat, da vor Herre blev fød,</l>
+<l>Da tændte sig Lyset i Mørkets skiød!</l>
+<l>Velkommen Nytaar og velkommen her!</l>
+</lg>
+<lg>
+<l>Vær velkommen Herrens Aar</l>
+<l><hi rend="align(right)">og velkommen herhid!</hi></l>
+<l>Paaskemorgen, da Herren opstod,</l>
+<l>Da Livstræet fæsted i Graven Rod!</l>
+<l>Velkommen Nytaar og velkommen her!</l>
+</lg>
+<lg>
+<l>Vær velkommen Herrens Aar</l>
+<l><hi rend="align(right)">og velkommen herhid!</hi></l>
+<l>Pindsedag, da Guds Aand kom herned,</l>
+<l>Da straaled hans Kraft i vor Skrøbelighed!</l>
+<l>Velkommen Nytaar og velkommen her!</l>
+</lg>
+<lg>
+<l>Vær velkommen Herrens Aar</l>
+<l><hi rend="align(right)">og velkommen herhid!</hi></l>
+<l>Herrens Aar med vor Guds Velbehag</l>
+<l>Nu bringer os Glæde hver Herrens Dag!</l>
+<l>Velkommen Nytaar og velkommen her!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div> 
+<pb facs="1850_5_page0004.png"/>
+<fw type="pageNum">4</fw>
+<head>620.</head>
+<lg>
+<l>Guds Engle i Flok! synger liflig i Kor,</l>
+<l>Som den første Jul,</l>
+<l>Om Barnet, Gudsbarnet, som fødtes paa Jord,</l>
+<l>Om Jesus, vor Helt og vor Herre!</l>
+<l>Guds-Folket paa Jord! tager Barnet i Favn,</l>
+<l>Som den første Jul!</l>
+<l>Med Fred kom vor Frelser i Faderens Navn:</l>
+<l>Vor Jesus, vor Helt og vor Herre!</l>
+</lg>
+<lg>
+<l>Al Æren er Guds over høieste Sky</l>
+<l>For den glade Jul,</l>
+<l>I Billede sit har Han skabt os paany</l>
+<l>Med Jesus, vor Helt og vor Herre!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<head>621.</head>
+<lg>
+<l>Et Barn er født i Betlehem,</l>
+<l>Thi glæde sig Jerusalem! Halleluja.</l>
+</lg>
+<lg>
+<l>En fattig Jomfru sad i Løn,</l>
+<l>Og fødte Himlens Kongesøn! Halleluja.</l>
+</lg>
+<lg>
+<l>Han lagdes i et Krybberum,</l>
+<l>Guds Engle sang med Fryd derom:</l>
+<l>Halleluja!</l>
+</lg>
+<lg>
+<l>Og Østens Vise offred der</l>
+<l>Guld, Nøgelse og Myrrha skiær! Halleluja!</l>
+</lg>
+<lg>
+<l>Forvunden er nu al vor Nod,</l>
+<l>Os er idag en Frelser fod! Halleluja!</l>
+</lg> 
+<pb facs="1850_5_page0005.png"/>
+<fw type="pageNum">5</fw>
+<lg>
+<l>Guds kiære Vorn vi blev paany,</l>
+<l>Skal holde Jul i Himmelby! Halleluja!</l>
+</lg>
+<lg>
+<l>Paa Stjerne-Tepper lyseblaae,</l>
+<l>Skal glade vi til Kirke gaae! Halleluja!</l>
+</lg>
+<lg>
+<l>Guds Engle der os lære brat,</l>
+<l>At synge, som de sang i Nat: Halleluja!</l>
+</lg>
+<lg>
+<l>Da vorder Engle vi som de,</l>
+<l>Guds milde Ansigt skal vi see, Halleluja!</l>
+</lg>
+<lg>
+<l>Ham være Priis til evig Tid,</l>
+<l>For Frelser bold og Broder blid! Halleluja!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<head>622.</head>
+<lg>
+<l>Julen har Engle-Lyd,</l>
+<l>Vi med Fryd</l>
+<l>Os barnlig paa Gud-Fader</l>
+<l>Forlader;</l>
+<l>Vi var i Nod saalænge,</l>
+<l>Dog hørte han vor Bøn,</l>
+<l>Han veed, hvortil vi trænge,</l>
+<l>Vor Frelser blev Guds Son;</l>
+<l>Thi vil vi alle sjunge,</l>
+<l>Med Hjerte og med Tunge,</l>
+<l>Et Ære være Gud</l>
+<l>For sit Julebud!</l>
+</lg>
+<lg>
+<l>Ret i en salig Tid</l>
+<l>Kom han hid;</l>
+<l>Da glemte deres Mode</l>
+<l>De Døde,</l>
+<l>Da de fik det at vide,</l>
+<l>At født var Folkets Ven,</l>
+<l>Som tog vor Sorg og Kvide</l>
+<l>Og gav os Fryd igien,</l>
+</lg> 
+<pb facs="1850_5_page0006.png"/>
+<fw type="pageNum">6</fw>
+<lg>
+<l>Ja, kom forn Morgenroden,</l>
+<l>At frelse os fra Døden!</l>
+<l>Med ham fra Stjernetop</l>
+<l>Livets Soel stod op!</l>
+</lg>
+<lg>
+<l>Sorg er til Glæde vendt,</l>
+<l>Klagen endt!</l>
+<l>I Lovsang kiendes Fryden</l>
+<l>Paa Lyden!</l>
+<l>Syng med Guds Engle-Skare</l>
+<l>Paa Jesu Fødselsdag, Om Fred og ingen Fare,</l>
+<l>Gud-Faders Velbehag,</l>
+<l>Som vil al Sorgen vende</l>
+<l>Til Glæde uden Ende,</l>
+<l>Bær os paa Børneviig</l>
+<l>Ind i Paradiis!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<head>623.</head>
+<lg>
+<l>Lovet være du, Herre Christ,</l>
+<l>At du Menneske vorden est,</l>
+<l>Født af en Jomfru reen og skiær.</l>
+<l>Glædelig hilst af Himlens Hær!</l>
+<l>O, Gud skee Lov!</l>
+</lg>
+<lg>
+<l>Du, Gud Faders enbaarne Son,</l>
+<l>Mand i Lys, men dog Gud i Len,</l>
+<l>Underlig klædt i Kied og Blod,</l>
+<l>Kom paa vor Brøst at raade Bod!</l>
+<l>O, Gud skee Lov!</l>
+</lg>
+<lg>
+<l>Verden gaaer i dit Ledebaand,</l>
+<l>Dig dog svøber en Jomfruhaand!</l>
+<l>Du er den Store, som mægter Alt,</l>
+<l>Blev dog paa Skiød Barnlille kaldt!</l>
+<l>O, Gud skee Lov!</l>
+</lg> 
+<pb facs="1850_5_page0007.png"/>
+<fw type="pageNum">7</fw>
+<lg>
+<l>Himlens Lys kom i dig til Jord,</l>
+<l>Skinner til ny Oplysning stor,</l>
+<l>Godt kan vi nu ved Nattetid</l>
+<l>Kiende vor himmelske Fader blid!</l>
+<l>O, Gud skee Lov!</l>
+</lg>
+<lg>
+<l>Fattig kom du til Jorden ned,</l>
+<l>Adlede Armod og Usselhed,</l>
+<l>Fattig gjorde du dig med Flid,</l>
+<l>Rige blev vi til evig Tid!</l>
+<l>O, Gud skee Lov!</l>
+</lg>
+<lg>
+<l>Konning er du af Arten bedst,</l>
+<l>Aanders Konge blev Støvets Giæst,</l>
+<l>Forer os op fra Skyggedal</l>
+<l>Hjem til sin lyse Kongesal!</l>
+<l>O, Gud skee Lov!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<head>624.</head>
+<lg>
+<l>O, Son af Verdens Skaber god!</l>
+<l>Hvor fattig du dig fode lod!</l>
+<l>Hvor ydmyg du dig lagde ned</l>
+<l>Paa Ho og Straa i Usselhed!</l>
+</lg>
+<lg>
+<l>Velkommen vær, du ædle Giæst!</l>
+<l>Af Kiærlighed du kommen est,</l>
+<l>Fra Himmerig, o Herre sod,</l>
+<l>At frelse os fra Synd og Død!</l>
+</lg>
+<lg>
+<l>Var Verden nok saa vid og lang,</l>
+<l>Den dig var dog en Vugge trang,</l>
+<l>Da dig ei værd, om den var fuld</l>
+<l>Af Perler. Ædelsteen og Guld!</l>
+</lg>
+<lg>
+<l>O Gud skee Lov til evig Tid!</l>
+<l>Guds Son, han er vor Broder blid!</l>
+</lg> 
+<pb facs="1850_5_page0008.png"/>
+<fw type="pageNum">8</fw>
+<lg>
+<l>Nu lover Englesang i Sky</l>
+<l>Os Himmerig med Nytaarsny!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<head>625.</head>
+<lg>
+<l>Glæden hun er født idag,</l>
+<l>Himmeriges Glæde,</l>
+<l>Ved Gud-Faders Velbehag</l>
+<l>Fryde sig de Spæde;</l>
+<l>Han, som var frygtelig</l>
+<l>Og utilgængelig</l>
+<l>I sin høie Bolig,</l>
+<l>Han nu i Barnedragt</l>
+<l>Har sig i Krybben lagt,</l>
+<l>Med vort Stov fortrolig.</l>
+</lg>
+<lg>
+<l>Født er ban ved Midnatstid,</l>
+<l>Skabde Soel og Maane,</l>
+<l>Han, som eier Verden vid,</l>
+<l>Hus i Stald mon laane;</l>
+<l>Han, som paa Skyerne</l>
+<l>Ager blandt Stjernerne,</l>
+<l>Svøbes som de Spæde,</l>
+<l>Han, som tit Dommedag</l>
+<l>Taler med Tordenbrag,</l>
+<l>Nu malt hører græde.</l>
+</lg>
+<lg>
+<l>Født er af en Jomfru skiær</l>
+<l>Son med Guddoms-Vilje;</l>
+<l>Til Forundring springer her Rose ud af Lilje;</l>
+<l>Almagten virkede,</l>
+<l>Aand giennemstraalede</l>
+<l>Stov igien herneden,</l>
+<l>Fader vor Adam ny</l>
+<l>Havde kun over Sky,</l>
+<l>Alt som han i Eden!</l>
+</lg> 
+<pb facs="1850_5_page0009.png"/>
+<fw type="pageNum">9</fw>
+<lg>
+<l>Hyrder, som paa Nattevagt</l>
+<l>Laae i Blomstervange,</l>
+<l>Bud dem blev fra Himlen bragt</l>
+<l>Vrat med Englesange:</l>
+<l>Født er paa Jorderig</l>
+<l>Kongen af Himmerig,</l>
+<l>Frelseren fra Døden,</l>
+<l>Hviler i Krybberum,</l>
+<l>Har dog alt Herredom,</l>
+<l>Skiøn som Morgenroden!</l>
+</lg>
+<lg>
+<l>Herre! dine Hænders Værk</l>
+<l>Er vi allesammen,</l>
+<l>Vi er svage, du er stærk,</l>
+<l>Du er Ja og Amen;</l>
+<l>Til os du dalede,</l>
+<l>Lad os til Himlene</l>
+<l>Nu med dig opfare!</l>
+<l>Taarer du her udgiød,</l>
+<l>Lær os nu Sangen sod</l>
+<l>Med din Engleskare!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<head>626.</head>
+<lg>
+<l>Af Høiheden oprunden er</l>
+<l>En Morgen-Node klar og skiær</l>
+<l>Guds <hi rend="spaced">Sandhed</hi> og Guds <hi rend="spaced">Naade</hi>!</l>
+<l>Du Himlens Morgen-Røde skiøn,</l>
+<l>Gud Faders og Marias Son,</l>
+<l>Mig fryder overmaade,</l>
+<l>Liflig, venlig, stor og herlig,</l>
+<l>Hjertenskiærlig,</l>
+<l>Med Du Haver</l>
+<l>Lys og Liv til Nyaars-Gaver!</l>
+</lg>
+<lg>
+<l>Du Kvindens Sæd og Davids Son,</l>
+<l>Som bær Almægtighed i Løn,</l>
+<l>O Du høibaarne Konning!</l>
+</lg> 
+<pb facs="1850_5_page0010.png"/>
+<fw type="pageNum">10</fw>
+<lg>
+<l>En Throne er dit Krybbe-Rum,</l>
+<l>Dit Riges Evangelium</l>
+<l>Er sødt som Mælk og Honning!</l>
+<l>Herre, Kiære! Hjertets Manna!</l>
+<l>Hosianna!</l>
+<l>Dig til Ære</l>
+<l>Glad i Aanden vil jeg være!</l>
+</lg>
+<lg>
+<l>Du Soel, som smelter Hjertets Iis,</l>
+<l>Lad Livets Flod nu til din Priis</l>
+<l>I Brystet mit udspringe,</l>
+<l>Saa, <hi rend="spaced">Jesus</hi>, Dig i allen Stund</l>
+<l>Jeg elsker ret af Hjertens Grund,</l>
+<l>Din Kiærlighed mig tvinge,</l>
+<l>Saa jeg evig Dig maa bære</l>
+<l>Tak og Ære,</l>
+<l>For Du vilde</l>
+<l>Lædske mig af Livets Kilde!</l>
+</lg>
+<lg>
+<l>O Gud skee Lov! jeg skal ei døe!</l>
+<l>Min Frelsermand er @ og @,</l>
+<l>Begyndelse og Ende!</l>
+<l>Han fører mig paa Brudgoms-Viis</l>
+<l>Til Himmerig, til Paradiis,</l>
+<l>Fra Jammer og Elende!</l>
+<l>Amen! Amen! Kom, Du Milde,</l>
+<l>Gi for silde!</l>
+<l>Kom, Du Kiære!</l>
+<l>Kun hos Dig er godt at være!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<head>627.</head>
+<lg>
+<l>Fra Himlen kom en Engel klar,</l>
+<l>For Hyrders Øine aabenbar,</l>
+<l>Han sang saa sødt: nu giver Agt</l>
+<l>Paa Barnet svøbt, i Krybben lagt!</l>
+</lg> 
+<pb facs="1850_5_page0011.png"/>
+<fw type="pageNum">11</fw>
+<lg>
+<l>I Betlehem, i Davids Stad,</l>
+<l>Som skrevet stod paa Spaadoms Blad,</l>
+<l>Der fødtes nu den Herre bold,</l>
+<l>Som være vil jer Soel og Skjold.</l>
+</lg>
+<lg>
+<l>Det er den Herre Jesus Christ,</l>
+<l>Og juble maae I ganske vift,</l>
+<l>Thi Eet er blevet Gud og Mand,</l>
+<l>Saa eders Broder er nu Han!</l>
+</lg>
+<lg>
+<l>Hvad mægter nu vel Synd og Død,</l>
+<l>Naar Hjertet er Guds Moder-Skiød!</l>
+<l>Lad storme nu al Helveds Magt!</l>
+<l>Guds Son med eder staaer i Pagt!</l>
+</lg>
+<lg>
+<l>Slaaer nu til Ham kun al jer Lid,</l>
+<l>Han svigter ei til evig Tid!</l>
+<l>Byd dem kun Trods, som prøve paa</l>
+<l>Imellem Bark og Træ at gaae!</l>
+</lg>
+<lg>
+<l>Lad fnyse her, lad rase hist!</l>
+<l>Guds Slægt dog seire maa tilsidst!</l>
+<l>O, tak da Gud af Hjertens Grund,</l>
+<l>Taalmodig, glad i allen Stund!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<head>628.</head>
+<lg>
+<l>Et lidet Barn saa lysteligt</l>
+<l>Blev af en Jomfru baaret,</l>
+<l>Gi for, ei siden hortes Sligt,</l>
+<l>Men kun i Jubelaaret,</l>
+<l>I Tidens Fylde, da Guds Son</l>
+<l>Paa Jord sig fandt en Moder skiøn,</l>
+<l>Lod uden Synd sig fode,</l>
+<l>Fornedrede sig til de Smaa,</l>
+<l>Saa de kan ham til Broder faae,</l>
+<l>Den Himlens Morgenrode!</l>
+</lg> 
+<pb facs="1850_5_page0012.png"/>
+<fw type="pageNum">12</fw>
+<lg>
+<l>Høilovet i al Evighed</l>
+<l>Skal Jesus derfor være,</l>
+<l>Og naar for ham vi knæle ned,</l>
+<l>Det er Gud-Faders Ære,</l>
+<l>Og naar vor Lovsang altid ny</l>
+<l>Fra Jord sig svinger let i Sky,</l>
+<l>Med glade Juletoner,</l>
+<l>Vort fattige Halleluja</l>
+<l>Med salig Fryd istemmes da</l>
+<l>Af Engles Millioner!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<head>629.</head>
+<lg>
+<l>Vær velkommen Herrens Aar</l>
+<l><hi rend="align(right)">og velkommen herhid!</hi></l>
+<l>Sandheds Gud! lad dit hellige Ord</l>
+<l>Oplive, oplyse det høie Nord!</l>
+<l>Velkommen Nytaar og velkommen her!</l>
+</lg>
+<lg>
+<l>Vær velkommen Herrens Aar</l>
+<l><hi rend="align(right)">og velkommen herhid!</hi></l>
+<l>Naadens Gud! lad dit Soelskin i Vaar</l>
+<l>Os skiænke paa Marken et gyldent Aar!</l>
+<l>Velkommen Nytaar og velkommen her!</l>
+</lg>
+<lg>
+<l>Vær velkommen Herrens Aar</l>
+<l><hi rend="align(right)">og velkommen herhid!</hi></l>
+<l>Fredens Gud! den livsalige Fred</l>
+<l>Du skiænke vort Land til at blomstres ved!</l>
+<l>Velkommen Nytaar og velkommen her!</l>
+</lg>
+<lg>
+<l>Vær velkommen Herrens Aar</l>
+<l><hi rend="align(right)">og velkommen herhid!</hi></l>
+<l>Fader-Gud! os til Glæde og Gavn</l>
+<l>Nytaaret henskride i <hi rend="spaced">Jesu</hi> Navn!</l>
+<l>Velkommen Nytaar og velkommen her!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div> 
+<pb facs="1850_5_page0013.png"/>
+<fw type="pageNum">13</fw>
+<head>630.</head>
+<lg>
+<l>Guds Godhed vil vi prise,</l>
+<l>De Store med de Smaa,</l>
+<l>Den bedste Nyaars-Vise,</l>
+<l>Som vi kan finde paa,</l>
+<l>Er Tak af Hjertens-Grund</l>
+<l>For Gave god fuldmangen</l>
+<l>Til os i Aar forgangen,</l>
+<l>As Gud saa rig og rund!</l>
+</lg>
+<lg>
+<l>Nu Fader i det Høie,</l>
+<l>Som var i Aar saa mild!</l>
+<l>Vi Naade for dit Die Har fundet hidindtil;</l>
+<l>I Jesu Christi Navn</l>
+<l>Vi bede dig saa saare:</l>
+<l>Vær dobbelt mild ad Aare!</l>
+<l>Raad Vod paa alle Savn!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<head>631.</head>
+<lg>
+<l>Deilig er den Himmel blaa,</l>
+<l>Lyst det er at see derpaa,</l>
+<l>Hvor de gyldne Stjerner blinke,</l>
+<l>Hvor de smile, hvor de vinke</l>
+<l>Os fra Jorden op til sig!</l>
+</lg>
+<lg>
+<l>Det var midt i Jule-Nat,</l>
+<l>Hver en Stjerne glimted mat,</l>
+<l>Men med Eet der blev at skue</l>
+<l>En saa klar paa Himlens Bue,</l>
+<l>Som en lille Stjerne-Soel.</l>
+</lg>
+<lg>
+<l>Stjernen ledte vise Mænd</l>
+<l>Til nyfødte Konge hen,</l>
+<l>Vi har og en saadan Stjerne,</l>
+</lg> 
+<pb facs="1850_5_page0014.png"/>
+<fw type="pageNum">14</fw>
+<lg>
+<l>Og naar vi den feige gierne,</l>
+<l>Komme vi til Jesum vist!</l>
+</lg>
+<lg>
+<l>Denne Stjerne lys og mild,</l>
+<l>Som kan aldrig lede vild,</l>
+<l>Er Hans Guddoms-Ord det klare,</l>
+<l>Som Han lod os aabenbare</l>
+<l>Til at lyse sor vor Fod!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<head>Paasken.</head>
+<fw type="graphic"/>
+<head>632.</head>
+<p><hi rend="align(center)">Mel. Jesu sode Ihukommelse.</hi></p>
+<lg>
+<l>Vor Herres Jesu Mindefest</l>
+<l>Den Høitid er, som glæder bedst;</l>
+<l>Thi hvor han kommes ret ihu,</l>
+<l>Lyslevende han er endnu.</l>
+</lg>
+<lg>
+<l>Vær, Jesus! da mit Liv, min Lyst,</l>
+<l>Den skjulte Perle i mit Bryst!</l>
+<l>Vær du min Trosti vær du min Fred!</l>
+<l>Vær du mit Lys, min Salighed!</l>
+</lg>
+<lg>
+<l>Et Lys, som aldrig bliver slukt,</l>
+<l>En Blomst, som altid sætter Frugt,</l>
+<l>En Videnskab, som Gud kun veed,</l>
+<l>Er Livet i din Kiærlighed!</l>
+</lg>
+<lg>
+<l>Som Faderen, saa ærer dig</l>
+<l>Hvert Engle-Kor i Himmerig,</l>
+<l>Og som du elskes her paa Jord,</l>
+<l>Af Stov opelskes Engle-Kor!</l>
+</lg>
+<lg>
+<l>Saa bryd da ud i Fryderaab,</l>
+<l>Du gamle Tro, du unge Haab,</l>
+<l>Og du, som ei af Alder veed,</l>
+<l>Du evigglade Kiærlighed.</l>
+</lg> 
+<pb facs="1850_5_page0015.png"/>
+<fw type="pageNum">15</fw>
+<lg>
+<l>I <hi rend="spaced">Jesu</hi> Navn, syng Jesu Priis,</l>
+<l>I Ørken og i Paradiis,</l>
+<l>Alt hvad som Tunge har og Røst,</l>
+<l>Alt hvad som Hjerte har i Bryst!</l>
+</lg>
+<lg>
+<l>Halleluja for Herrens Bord,</l>
+<l>I Himlen hist, og her paa Jord!</l>
+<l>Halleluja! far op, far ned,</l>
+<l>For Jesus, i al Evighed!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<head>633.</head>
+<lg>
+<l>Gat under Jesu Kors at staae,</l>
+<l>O kiære Sjæl, og med Attraa</l>
+<l>Vogt paa hans Læber og giv Magt</l>
+<l>De Ord, han har til Afsked sagt!</l>
+</lg>
+<lg>
+<l>Han først for sine Fiender bad:</l>
+<l>Tilgiv dem, Fader, og forlad!</l>
+<l>Thi hvad de giør, det veed de ei,</l>
+<l>Gaae blinde paa den brede Vei.</l>
+</lg>
+<lg>
+<l>O	Jesus, beed du og for mig!</l>
+<l>Thi om ei fiendsk, dog skrøbelig</l>
+<l>Jeg er i alt mit Syn og Værk,</l>
+<l>Kun ved din Bøn jeg bliver stærk.</l>
+</lg>
+<lg>
+<l>Den Røver, som sin Synd fortrød,</l>
+<l>Og trosted sig ved Christi Død;</l>
+<l>Sin Miskundhed til evig Priis,</l>
+<l>Han fast tilsagde Paradis!</l>
+</lg>
+<lg>
+<l>Lad, Jesus, mig i Dødens Stund</l>
+<l>Og høre af din egen Mund:</l>
+<l>Idag du være skal med mig</l>
+<l>I Paradis, i Himmerig!</l>
+</lg> 
+<pb facs="1850_5_page0016.png"/>
+<fw type="pageNum">16</fw>
+<lg>
+<l>Det sidste Suk, min Frelser gav,</l>
+<l>Det aanded Liv, trods Død og Grav,</l>
+<l>Han sagde: Fader, i din Haand</l>
+<l>Befaler jeg milt Sjæl og Aand!</l>
+</lg>
+<lg>
+<l>Det Afskeds-Ord sig trænge ind</l>
+<l>Dybt i mit Hjerte, Sjæl og Sind,</l>
+<l>Og blive saa det sidste Ord,</l>
+<l>Jeg tale skal paa denne Jord!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<head>634.</head>
+<lg>
+<l>Christ stod op af Døde,</l>
+<l>I Paaske Morgenrode!</l>
+<l>Thi synger lydt og sjæleglad</l>
+<l>Hans Menighed i allen Stad:</l>
+<l>Ære være Gud i det Høie!</l>
+</lg>
+<lg>
+<l>Christ stod op af Døde,</l>
+<l>Afsonet er vor Vrode!</l>
+<l>Thi synger lydt og sjæleglad</l>
+<l>Hans Menighed i allen Stad:</l>
+<l>Ære være Gud i det Hoie!</l>
+</lg>
+<lg>
+<l>Christ stod op af Døde!</l>
+<l>I Himlen vi ham mode!</l>
+<l>Thi synger lydt og sjæleglad</l>
+<l>Hans Menighed i allen Stad:</l>
+<l>Ære være Gud i det Høie!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<head>635.</head>
+<lg>
+<l>Livsalig Paaskedag!</l>
+<l>Nu vundet er vor Sag,</l>
+<l>Langfredags bittre Minde</l>
+<l>Maa nu saa sødt forsvinde,</l>
+</lg> 
+<pb facs="1850_5_page0017.png"/>
+<fw type="pageNum">17</fw>
+<lg>
+<l>Thi Jesus vandt med Ære,</l>
+<l>Hans Navn velsignet være!</l>
+</lg>
+<lg>
+<l>Velkommen, Englebud!</l>
+<l>Som melder os fra Gud,</l>
+<l>Vor Frelser Jesus ikke</l>
+<l>Skal meer i Graven ligge.</l>
+<l>Men opstaae til Guds Ære!</l>
+<l>Hans Navn velsignet være!</l>
+</lg>
+<lg>
+<l>Bort, du beseiglet Steen,</l>
+<l>Som giemmer Jesu Been!</l>
+<l>Du kanst ham ei indlukke.</l>
+<l>Guds Son ei saa vil bukke.</l>
+<l>Du og hans Kraft maa lære,</l>
+<l>Hans Navn velsignet være!</l>
+</lg>
+<lg>
+<l>O prægtig Morgenglans,</l>
+<l>Som overgaaer al Sands!</l>
+<l>Guds Son, vor Soel er oppe,</l>
+<l>Han Mørkets Kæmpetroppe</l>
+<l>Adsplittet har med Ære,</l>
+<l>Hans Navn velsignet være!</l>
+</lg>
+<lg>
+<l>Trods dig, du Dødens Brodd!</l>
+<l>Nu bar du tabt din Odd,</l>
+<l>Trods, alle Gravens Vagter!</l>
+<l>Trods, alle Helvedmagter!</l>
+<l>I tabte med Vanære,</l>
+<l>Guds Navn velsignet være!</l>
+</lg>
+<lg>
+<l>O, kiære Sjæl, stig op</l>
+<l>Til Himlens Stjernetop,</l>
+<l>Din Seiersang at sjunge.</l>
+<l>Med Hjerte, Mund og Tunge,</l>
+<l>Til den Opstandnes Ære!</l>
+<l>Hans Navn velsignet være!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div> 
+<pb facs="1850_5_page0018.png"/>
+<fw type="pageNum">18</fw>
+<head>636.</head>
+<lg>
+<l>Tag det forte Kors fra Graven!</l>
+<l>Plant en Lilje, hvor det stod!</l>
+<l>Ved hvert Skridt i Dødninghaven</l>
+<l>Blomster spire for vor Fod!</l>
+<l>Englevinger paa vor Grav,</l>
+<l>For den brudte Vandringsstav!</l>
+<l>Palmefugl for Askekrukke!</l>
+<l>Frydesang for hule Sukke!</l>
+</lg>
+<lg>
+<l>Solen sortned, da han blegned,</l>
+<l>Som for os udgiød sit Blod,</l>
+<l>Graven lyste, Mørket segned,</l>
+<l>Da forklaret han opstod!</l>
+<l>Ton, vor Lovsang, høit i Sty,</l>
+<l>Sødt i Paaske-Morgengry:</l>
+<l>Jesus Christus er opstanden!</l>
+<l>Evig lever Guddomsmanden!</l>
+</lg>
+<lg>
+<l>See Maria Magdalene!</l>
+<l>Hænder nys hun vred i Gru,</l>
+<l>Sukked, til at rore Stene:</l>
+<l>Hvor? ak, hvor er Herren nu?</l>
+<l>See, af Øiets Taareflod</l>
+<l>Morgensolen mildt opstod!</l>
+<l>I den Grav, hvor han har hvilet.</l>
+<l>Hun har fundet Englesmilet!</l>
+</lg>
+<lg>
+<l>Vrister, alle Helgengrave!</l>
+<l>Herrens Røst, i Dæmring sval,</l>
+<l>Lyder i de Dødes Have,</l>
+<l>Skaber Lys i Skyggedal,</l>
+<l>Herren kalder, men ei nu:</l>
+<l>Synder! Adam! hvor er du?</l>
+<l>Sødt det toner, Engle tie:</l>
+<l>"Her er Frelseren, Marie!"</l>
+</lg> 
+<pb facs="1850_5_page0019.png"/>
+<fw type="pageNum">19</fw>
+<lg>
+<l>Ja, han er her, Guddomsmanden!</l>
+<l>Sprængte er nu Dødens Vaand!</l>
+<l>Han er visselig opstanden,</l>
+<l>Og hans Ord er Liv og Aand!</l>
+<l>Nu en Foraarsmorgen skion</l>
+<l>Rinder op for os iløn,</l>
+<l>Og som Paaske-Psalmen klinger,</l>
+<l>Voxer Sjælens Fuglevinger!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<head>637.</head>
+<p><hi rend="align(center)">Mel. Nu velan vær frisk tilmode.</hi></p>
+<lg>
+<l>Tak, du store Seierherre,</l>
+<l>Tak, du Livets Himmelhelt,</l>
+<l>At du ei dig lod indspærre</l>
+<l>I det helvedmørke Telt!</l>
+<l>Tak, for aarle du opstod,</l>
+<l>Og fik Døden under Fod!</l>
+<l>Ingen Tunge kan den Glæde</l>
+<l>Med tilbørlig Lov udkvæde!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<head>638.</head>
+<p><hi rend="align(center)">Mel. Tag det sorte Kors fra Graven.</hi></p>
+<lg>
+<l>Gud os gav fin Aand til Trøster,</l>
+<l>I vor Herres Jesu Navn,</l>
+<l>Han med alle Engle-Røster</l>
+<l>Kalder Folk til Herrens Favn,</l>
+<l>Aander, med vor Frelsers Røst,</l>
+<l>Fred i det beklemte Bryst,</l>
+<l>Lader, med Guds Fader-Stemme,</l>
+<l>Støvet evigt Liv fornemme!</l>
+</lg>
+<lg>
+<l>Her er Fuglen, som paa Vinger</l>
+<l>Troen bar med Herrens Røst!</l>
+</lg> 
+<pb facs="1850_5_page0020.png"/>
+<fw type="pageNum">20</fw>
+<lg>
+<l>Her er Ordet, som Guds Finger</l>
+<l>Skriver i hver Christens Bryst!</l>
+<l>Her er Neglen kunstig gjort,</l>
+<l>Til Guds Huus og Himlens Port!</l>
+<l>Her er Lyser paa Guld-Stagen!</l>
+<l>Det gier Natten klar som Dagen.</l>
+</lg>
+<lg>
+<l>Fader vor i hole Sale!</l>
+<l>Kom din Pagt med os ihu!</l>
+<l>Sandheds Aand i dybe Dale!</l>
+<l>O bekræft, beseigl den nu!</l>
+<l>Herliggiør med Glands paa Jord</l>
+<l>Frelseren i Troens Ord!</l>
+<l>Giør det klart, at i de Svage</l>
+<l>Gud er mægtig alle Dage!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<head>639.</head>
+<p><hi rend="align(center)">Mel. Hjelp Gud at jeg nu kunde.</hi></p>
+<lg>
+<l>Han, som paa Jorden beller</l>
+<l>Til Troskab uden Svig,</l>
+<l>Naar vi kun vil, beseigler</l>
+<l>Sin Pagt om Himmerig,</l>
+<l>Han døber med den Helligaand;</l>
+<l>Paa Ord, som aldrig seller,</l>
+<l>Halt rækker os sin Haand!</l>
+</lg>
+<lg>
+<l>Halleluja for Haanden,</l>
+<l>Som Herren os har rakt!</l>
+<l>Halleluja for Aanden,</l>
+<l>Som Livet os har bragt!</l>
+<l>Halleluja for Ærens Krands,</l>
+<l>For Hvilen efter Vaanden,</l>
+<l>For Glæden i sin Glands!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div> 
+<pb facs="1850_5_page0021.png"/>
+<fw type="pageNum">21</fw>
+<head>Pludsem.</head>
+<fw type="graphic"/>
+<head>640.</head>
+<lg>
+<l>Guds Menighed, syng for vor Skaber i Len,</l>
+<l>-	Engle synge med -</l>
+<l>Som gav os til Frelser sin enbaarne Søn.</l>
+<l>Taa liflig lege vi for vor Herre!</l>
+</lg>
+<lg>
+<l>Slaae Harpen, du fromme Psalmist paa Jord,</l>
+<l>-	Strængen er af Guld -</l>
+<l>For Jesus vor Konge, Guds levende Ord.</l>
+<l>Saa liflig lege vi for vor Herre!</l>
+</lg>
+<lg>
+<l>Da høres de glødende Tungers Røst,</l>
+<l>-	Aanden er os nær -</l>
+<l>Som bringer os altid den evige Trost.</l>
+<l>Saa liflig lege vi for vor Herre!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<head>641.</head>
+<lg>
+<l>Sin Vogn giør Han af Skyer blaa,</l>
+<l>I Aag Hall Storme spænder,</l>
+<l>Den ganske Jord med Klipper graa</l>
+<l>Tom Vor er i hans Hænder,</l>
+<l>Hans Sværd er hvast, hans Spir er godt,</l>
+<l>Hans Folk er vi, delt Drotters Drot,</l>
+<l>Hans Navn er Jesus Christus!</l>
+</lg>
+<lg>
+<l>Guld-Kronen bærer han iløn</l>
+<l>Og Sværdet helst i Skede,</l>
+<l>Og, som den bedste Faders Ton,</l>
+<l>Hans Lyst det er at bede:</l>
+<l>For alle Sjæle beder Han,</l>
+<l>Og beder dem, med Bud om Land,</l>
+<l>Gi at forsmaae Hans Krone!</l>
+</lg> 
+<pb facs="1850_5_page0022.png"/>
+<fw type="pageNum">22</fw>
+<lg>
+<l>Hans Bøn er stærk, Hans Bud er godt,</l>
+<l>Med Gud os at udsone;</l>
+<l>Med dog, fordi Han her med Spot</l>
+<l>Kun bærer Torne-Krone:</l>
+<l>Er Verdens Daarer til Foragt</l>
+<l>Hans Julebud, Hans Kongemagt,</l>
+<l>Hans Fred og Glands og Glæde!</l>
+</lg>
+<lg>
+<l>Men naar tilbage aabenlyst,</l>
+<l>Som Han opfoer, Han kommer,</l>
+<l>Og uaar Basunens Dron giør tyst</l>
+<l>For Ham, al Verdens Dommer,</l>
+<l>Da, vel Enhver, Han kiendes ved,</l>
+<l>I Guds sin Faders Herlighed!</l>
+<l>Dem vis er Livets Krone!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<head>642.</head>
+<p><hi rend="align(center)">Mel. Tag det sorte Kors fra Graven.</hi></p>
+<lg>
+<l>Val nu Dannebrog paa Voven,</l>
+<l>Rul nu Bølge himmelblaa!</l>
+<l>Spring nu ud, hver Bog i Skoven,</l>
+<l>Sjunger alle Fugle smaa!</l>
+<l>Lilier, i Høitids Dragt,</l>
+<l>I, som fik, trods Konger, Pragt,</l>
+<l>Samler eder, som vi synge,</l>
+<l>Mens det kimer, tæt i Klynge!</l>
+</lg>
+<lg>
+<l>Han, der under Vinters Hjerte</l>
+<l>Fødtes under Hytte-Tag,</l>
+<l>Han der vaanded sig i Smerte,</l>
+<l>Under Jevndøgns-Stormens Brag,</l>
+<l>Støvets Son med Kiod og Blod,</l>
+<l>Han af Gravens skiød opstod,</l>
+<l>Ja, opstod, som Blomst udspringer</l>
+<l>Stak i Sky paa Ørnevinger!</l>
+</lg> 
+<pb facs="1850_5_page0023.png"/>
+<fw type="pageNum">23</fw>
+<lg>
+<l>Fole skal det Folke-Vrimlen,</l>
+<l>Ja og Amen er Guds Ord!</l>
+<l>Jorden loftet er mod Himlen,</l>
+<l>Himlen sænket er mod Jord!</l>
+<l>Stigen reist til Engle-Gang,</l>
+<l>Under Støvets Fryde-Sang,</l>
+<l>Tone-Stigen fra vor Tunge,</l>
+<l>Didop, hvor Serapher sjunge!</l>
+</lg>
+<lg>
+<l>Ja, vort Hoved er deroppe,</l>
+<l><hi rend="spaced">Jesus Christus</hi> Gud og Mand,</l>
+<l>Over alle Stjerne-Toppe</l>
+<l>Throner Holt i Vælde Han,</l>
+<l>Kalder os, som troe hans Ord,</l>
+<l>Legem Sit og Lys paa Jord;</l>
+<l>Frit blandt Engle det fortælles:</l>
+<l>Stov med Gud har Aand tilfælles!</l>
+</lg>
+<lg>
+<l>Derfor kommer Han tilbage</l>
+<l>Aabenlyst, som han opfoer,</l>
+<l>Kroner herlig sine Dage,</l>
+<l>Vækker Døde med Sit Ord,</l>
+<l>Vinker mildt, med Kalken ny,</l>
+<l>Legem Sit til Sig i Sky,</l>
+<l>Peger paa sit Ære-Sæde,</l>
+<l>Siger: hvil i salig Glæde!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<head>643.</head>
+<p><hi rend="align(center)">Mel. Om Himmeriges Rige saa ville vi tale.</hi></p>
+<lg>
+<l>Min Høvding foer til Himlen hjem,</l>
+<l>Og jeg, som Jesu Legems Lem,</l>
+<l>Vil glad i Aanden være,</l>
+<l>Thi ogsaa mig indforer han</l>
+<l>Engang med sig i Livets Land,</l>
+<l>Der evig, til hans Ære,</l>
+<l>Min Straaledragt at bære!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div> 
+<pb facs="1850_5_page0024.png"/>
+<fw type="pageNum">24</fw>
+<head>644.</head>
+<p><hi rend="align(center)">Mel. Jeg vit din Priis udsjunge.</hi></p>
+<lg>
+<l>Drag ind ad disse Porte,</l>
+<l>Vor høie Pindse-Giæst!</l>
+<l>Forjag de Skygger sorte,</l>
+<l>Som skjule vil din Fest,</l>
+<l>Og giør det soleklart,</l>
+<l>At Hedninger som Jøder</l>
+<l>I Daaben du gienføder</l>
+<l>Til Støvets Himmelfart!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<head>645.</head>
+<lg>
+<l>Fra Himlen kom den Helligaand, Helligaand,</l>
+<l>Og lofte Jordens Tungebaand</l>
+<l>Halleluja, Halleluja!</l>
+</lg>
+<lg>
+<l>Han kom som Jesu Christi Tolk,</l>
+<l>Med Tunger ny til alle Folk! Halleluja!</l>
+</lg>
+<lg>
+<l>Han kom med Ild og Kraft fra Gud,</l>
+<l>Til alle Herrens Sendebud! Halleluja!</l>
+</lg>
+<lg>
+<l>Hvor frit de tale trindt paa Jord,</l>
+<l>Der Aand og Liv er Jesu Ord! Halleluja!</l>
+</lg>
+<lg>
+<l>Der mærker Øret Herreus Røst,</l>
+<l>Der føler Hjertet staudens Trost! Halleluja!</l>
+</lg>
+<lg>
+<l>Der Sjælen seer i Speilet klart</l>
+<l>Sin Frelsers Glands og Himmelfart! Halleluja!</l>
+</lg>
+<lg>
+<l>Der skaber og, til Herreus Priis,</l>
+<l>Guds Aandepust et Paradis! Halleluja!</l>
+</lg>
+ 
+<pb facs="1850_5_page0025.png"/>
+<fw type="pageNum">25</fw>
+<lg>
+<l>Der er Guds Stad og Huus paa Jord,</l>
+<l>Med Herrens Vad og Herrens Bord! Halleluja!</l>
+</lg>
+<lg>
+<l>Der lofter sig en Lovsang ny,</l>
+<l>Paa Englevinger Høit i Sky! Halleluja!</l>
+</lg>
+<lg>
+<l>For Ild og Kraft og Lys og Fred</l>
+<l>Da synger Christi Menighed: Halleluja!</l>
+</lg>
+<lg>
+<l>Da holder med sin høie Giæst,</l>
+<l>Guds Folk en liflig Pindsefest! Halleluja!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<head>646.</head>
+<lg>
+<l>Den signede Dag med Fryd vi seer,</l>
+<l>Af Havet til os opkomme;</l>
+<l>Den lyse paa Himlen, meer og meer,</l>
+<l>Os alle til Lyst og Fromme!</l>
+<l>Det kiendes paa os, som Lysets Vorn,</l>
+<l>At Natten hun er nu omme!</l>
+</lg>
+<lg>
+<l>Den signede Stund, den Midnats-Tid,</l>
+<l>Vor Herre han lod sig fode,</l>
+<l>Da klared det op i Øster-Lid</l>
+<l>Til deiligste Morgen-Stode:</l>
+<l>Da Lyset oprandt, som Jordens Bold</l>
+<l>Skal lysne udi og gløde!</l>
+</lg>
+<lg>
+<l>Om levende blev hvert Træ i Skov,</l>
+<l>Og var saa hvert Blad en Tunge,</l>
+<l>De kunde dog ei Guds Naades Lov</l>
+<l>Med værdelig Røst udsjunge;</l>
+<l>Thi evig nu skinner Livets Lys</l>
+<l>For Gamle og saa for Unge!</l>
+</lg>
+<lg>
+<l>Thi takke vi Gud, vor Fader god,</l>
+<l>Lom Lærken i Morgenklode,</l>
+</lg> 
+<pb facs="1850_5_page0026.png"/>
+<fw type="pageNum">26</fw>
+<lg>
+<l>For Dagen, Han os oprinde lod,</l>
+<l>For Livet, Han gav af Døde;</l>
+<l>Den signede Dag, i Jesu Navn,</l>
+<l>Os alle vort Liv forsøve!</l>
+</lg>
+<lg>
+<l>Nu sagtelig skrid, Du Pindse-Dag,</l>
+<l>Med Straaler i Krands om Tinde!</l>
+<l>Hver Time, til Herrens Velbehag,</l>
+<l>Som Bække i Eng henrinde,</l>
+<l>Til frydelig sig tilsidst de snoe</l>
+<l>Op under de grøne Linde!</l>
+</lg>
+<lg>
+<l>Saa reise vi til vort Fædre-Land,</l>
+<l>Der ligger ei Dag i Dvale,</l>
+<l>Der stander en Borg saa prud og grand,</l>
+<l>Med Gammen i gyldne Sale,</l>
+<l>Saa frydelig der, til evig Tid,</l>
+<l>Med Venner i Lys vi tale!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<head>Reformationsfest.</head>
+<fw type="graphic"/>
+<head>647.</head>
+<p><hi rend="align(center)">Mel. Op al den Ting som Gud har gjort.</hi></p>
+<lg>
+<l>Der sad en Svend i Munkebur</l>
+<l>Det var ved Midnatstide,</l>
+<l>Hans Lampe brændte mat iløn,</l>
+<l>Og mørkt det var saa vide.</l>
+</lg>
+<lg>
+<l>Ja Troens Lampe brændte mat</l>
+<l>I Hjertet, under Viften,</l>
+<l>Som Lampen paa det lille Bord,</l>
+<l>Hvor <hi rend="spaced">Luther</hi> sad med <hi rend="spaced">Skriften</hi>!</l>
+</lg>
+<lg>
+<l>Men Han, som os i Paradis</l>
+<l>Indblæste Liv og Aande,</l>
+<l>Han kommer end vort Stov ihu</l>
+<l>Og røres ved dets Vaande!</l>
+</lg> 
+<pb facs="1850_5_page0027.png"/>
+<fw type="pageNum">27</fw>
+<lg>
+<l>Vi Sank tilbage i vort Stov</l>
+<l>Ved Syndefald til Deden,</l>
+<l>Men Gud os gav sin Son og Aand</l>
+<l>Til Hjelp og Trost i Noden.</l>
+</lg>
+<lg>
+<l>Da Aandens Lys var nær udslukt</l>
+<l>I Pavedommets Morke,</l>
+<l>Da <hi rend="spaced">Jesu</hi> Tro i <hi rend="spaced">Luthers</hi> Bryst</l>
+<l>Paany fik Lys og Styrke!</l>
+</lg>
+<lg>
+<l>Saa ved Guds milde Aandepust</l>
+<l>Blev Lampen til en Stjerne,</l>
+<l>Han sagde: skin som Himmellys.</l>
+<l>Paa Jorden til det Fjerne!</l>
+</lg>
+<lg>
+<l>Og som en Stjerne <hi rend="spaced">Luthers</hi> Tro</l>
+<l>Har Skinnet over Jorden,</l>
+<l>I meer end tregang hundred Aar</l>
+<l>Den tindrede i <hi rend="spaced">Norden</hi>!</l>
+</lg>
+<lg>
+<l>Ved den saamangen Vandringsmand</l>
+<l>Har fundet Vei i Natten,</l>
+<l>Og mangen Kvinde ved dens Lys</l>
+<l>Har fundet Himmel-Skatten!</l>
+</lg>
+<lg>
+<l>Og Smaa som Stjernerne i Tal</l>
+<l>Den tindred klart i Øie,</l>
+<l>Til de saae lukt. i Himlen ind,</l>
+<l>Saae <hi rend="spaced">Jefus</hi> i det Høie!</l>
+</lg>
+<lg>
+<l>Saa skin da, Morgenstjerne klar!</l>
+<l>I Mørket Ufortreden,</l>
+<l>Til Herren bryder giennem Sky</l>
+<l>Med Glands som Morgenroden!</l>
+</lg>
+<lg>
+<l>Og naar du blegner, hør det da,</l>
+<l>Hvor sødt Guds Engle kvæde:</l>
+<l>Forlober for den gyldne Soel!</l>
+<l>Gak til din Herres Glæde!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div> 
+<pb facs="1850_5_page0028.png"/>
+<fw type="pageNum">28</fw>
+<head>648.</head>
+<p><hi rend="align(center)">Mel. Som den gyldne Soel frembryder.</hi></p>
+<lg>
+<l>Herrens Raad ei Stov udgrunder,</l>
+<l>Verden aldrig dem forstaaer,</l>
+<l>I Hans Haand giør Smaating Under,</l>
+<l>Tiggermunk giør Gyldenaar;</l>
+<l><hi rend="spaced">Morten Luther</hi> med Guds Ord</l>
+<l>Tændte Himmellys paa Jord,</l>
+<l>Læs af Legn, som Bjerg tilskue,</l>
+<l>Vælted liden <hi rend="spaced">Bibeltue</hi>:</l>
+</lg>
+<lg>
+<l>Lover Gud, I Folk, og sjunger:</l>
+<l>Guds Apostler vidt paa Jord</l>
+<l>Nu igien med <hi rend="spaced">vore Tunger</hi></l>
+<l>Tale Holt Guds rene Ord,</l>
+<l>Hjertesproget nu paany</l>
+<l>Hores skal i høien Sky,</l>
+<l>Tunger gløde, Hjerter brænde</l>
+<l>Ved Guds Ord til Verdens Ende!</l>
+</lg>
+<lg>
+<l>Tak, vor Fader i det Høie!</l>
+<l>Tak i <hi rend="spaced">Jesu Christi</hi> Navn,</l>
+<l>Naade for dit Guddomsøie</l>
+<l>Fandt vor ringe Fødestavn;</l>
+<l>Ordet over Bølgen blaa</l>
+<l>Bod i Aandens Kraft du gaae,</l>
+<l>Lønlig i vor lave Kirke</l>
+<l>Liv og Salighed at virke!</l>
+</lg>
+<lg>
+<l>Aldrig, Gud! Du det forandre!</l>
+<l>Lad i fromme Fædres Fjed,</l>
+<l>I dit Ansigts Lys os vandre,</l>
+<l>Lyses hjem til Dig i Fred!</l>
+<l>Dagen hælder, hos os bliv,</l>
+<l>Du, som er vort Lys og Liv!</l>
+<l>Maet vor Sjal og mindsk vor Mode,</l>
+<l>Giør en liflig Aftenrode!</l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

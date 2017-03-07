@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Sang i anledning af Majestæternes Sølvbryllup</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-21"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="012"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1840">1840</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1840_12_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Sang<lb/>i Anledning af<lb/>Majestæternes Sølvbryllup</titlePart>
+	<titlePart type="sub">den 22de Mai 1840.</titlePart>
+</docTitle>
+<byline>Af<lb/>
+	<docAuthor>N. F. S. Grundtvig.</docAuthor>
+				</byline>
+				<fw type="graphic"/>
+				<epigraph>
+<p>Afsungen af Drengene i Nyboders Skoler.</p>
+			</epigraph>
+				<fw type="graphic"/>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace>Kjøbenhavn.</pubPlace>Trykt hos J. D. Qvist, Bog- og Nodetrykker, Østergade Nr. 53.<lb/>
+<fw type="graphic"/>
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<pb facs="1840_12_page0002.png"/>
+<fw type="pageNum"></fw>
+<head>Mel. Danmark, deiligst Vang og Vænge.</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">M</hi>eget Vand der løb til Strande,.</l>
+<l>Siden <hi rend="bold">Frodes</hi> Tid,</l>
+<l>ødelagt er mange Lande</l>
+<l>Nu i Storm og Strid,</l>
+<l>Som i Fredegodes Dage</l>
+<l>Blomstred, glimred uden Mage;</l>
+<l>Immer dog er holdt vedlige</l>
+<l>Gamle Danmarks Rige.</l>
+</lg>
+<lg>
+<l>Indig grønnes vore Skove</l>
+<l>End den Dag i Dag,</l>
+<l>Vaier paa den blanke Vove</l>
+<l>Og det Danske Flag;</l>
+<l>Rolig her vi boe og bygge</l>
+<l>I den gamle Thrones Skygge,</l>
+<l>Navne stiftes vel med Smerte,</l>
+<l>Men ei Konge-Hjerte.</l>
+</lg> 
+<pb facs="1840_12_page0003.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l><hi rend="bold">Fredrik</hi> elsket var af Sine,</l>
+<l>Og Hans Dronning prud;</l>
+<l><hi rend="bold">Christian</hi> og <hi rend="bold">Caroline</hi></l>
+<l>Gav os Himlens Gud,</l>
+<l>Gid de throne maae i Vælde,</l>
+<l>Glæde see paa Aar og ælde,</l>
+<l>Blomstre med de Danske Vange,</l>
+<l>Mellem Fugle-Sange!</l>
+</lg>
+<lg>
+<l>Meget Vand der lob til Strande, Fem og Tyve Aar,</l>
+<l>Blomstrende dog end De stande I en Konge-Vaar;</l>
+<l>Indig er Sølvbryllups-Krandsen,</l>
+<l>Soler sig i Krone-Glandsen,</l>
+<l>Og naar den deraf forgyldes,</l>
+<l>Danmarks Bon opfyldes.</l>
+</lg>
+<lg>
+<l>Nul nu ud, du Konge-Navne, Kongens Bryllupsdag!</l>
+<l>Ton i dine hole Stavne</l>
+<l>Danmarks Konge-Flag!</l>
+<l>Freed om Danmarks Kyst og Ære!</l>
+<l>Hvor du havner Bud du bære,</l>
+<l>Frydefuldt i Hurra-Raadet:</l>
+<l>Her ei skuffes Haabet!</l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tør Taaren af, imens den flyder</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-05"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="004"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1838">1838</date>
+			</publicationStmt>
+			 <sourceDesc>
+			  <p>[Source decription]</p>
+			 </sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1838_4_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main"></titlePart>
+</docTitle>
+</titlePage>
+</front>
+<body>
+<div>
+<lg>
+<l>Tør Taaren af, imens den flyder</l>
+<l>Og mens dertil Gud giver Held!</l>
+<l>Det er Principet, Hjertet lyder,</l>
+<l>Som Lyst har til at gjøre vel,</l>
+<l>Og hvert Princip, som Godt vil hemme,</l>
+<l>Lad fare did, hvor det har hjemme!</l>
+</lg>
+<p><hi rend="align(right)">Nik. Fred. Sev. Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

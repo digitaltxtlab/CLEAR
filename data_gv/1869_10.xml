@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Jacob Christian Lindberg.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-26"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="010"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1869">1869</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1869_10_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Jacob Christian Lindberg.<lb/></titlePart>
+	<titlePart type="sub"><lb/></titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<docImprint>
+				<pubPlace></pubPlace>.
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<pb facs="1869_10_page0002.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l><hi rend="initial">V</hi> i saae en vældig Stridsmand</l>
+<l>For Aanden med Guds Ord,</l>
+<l>Vi saae en vældig Stridsmand</l>
+<l>For Folk og Drot i Nord,</l>
+<l>Hans Kamp og saa har gavnet</l>
+<l>At Jacob-Lindbergs-Navnet</l>
+<l>Ei glemmes maa i Hast!</l>
+</lg>
+<lg>
+<l>Da stødt der blev i Luren,</l>
+<l>Hvor Fjendens Hær man saae,</l>
+<l>Den første Mand paa Muren</l>
+<l>Var han i Kjortel graa,</l>
+<l>Mod Lue-Pile hærdet</l>
+<l>Saa svang han Aande-Sværdet,</l>
+<l>At vi saae Glands deraf.</l>
+</lg>
+<lg>
+<l>Naar nu iblandt os throner</l>
+<l>Det levende Guds-Ord</l>
+<l>Med søde Lovsangstoner</l>
+<l>Fra Hierterne i Nord,</l>
+<l>Da skal det kiærlig mindes,</l>
+<l>Saa gode Seire vindes</l>
+<l>Der kun paa <hi rend="bold">Lindbergs</hi> Vei!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+<fw type="graphic"/> 
+<pb facs="1869_10_page0003.png"/>
+<fw type="pageNum">714</fw>
+<lg>
+<l>Paa Mindestenen staar mob Syd</l>
+<l>REJST AF</l>
+<l>DANSKE BØNDER</l>
+<l>TIL MINDE OM</l>
+<l>JACOB CHRISTIAN</l>
+<l>LINDBERG</l>
+<l>GUDS OG FOLKETS</l>
+<l>MAND.</l>
+</lg>
+<p>Paa Siderne af Stenen staar hans Fødsels- og Dødsdag.</p>
+</div>
+</body>
+</text>
+</TEI>

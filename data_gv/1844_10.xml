@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Confirmations-Sang</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-14"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="010"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1844">1844</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1844_10_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Confirmations-Sang</titlePart>
+	<titlePart type="sub">paa<lb/>Tuborg.</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace>Kjøbenhavn.</pubPlace>Trykt hos J. D. Qvist, Bog- og Nodetrykker,<lb/>Badstuestræde Nr. 124.<lb/>
+<fw type="graphic"/>
+<docDate>1844</docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>  
+<pb facs="1844_10_page0002.png"/>
+<fw type="pageNum"></fw>
+<head>Mel. Lov og Tak og evig Ære.</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">B</hi>arne-Livets faure Dage</l>
+<l>Kun forgiæves Folk paa Jord</l>
+<l>Kalve fukkende tilbage,</l>
+<l>Som en Drom de hedenfoer;</l>
+<l>Hjerte hvert dog føle maa:</l>
+<l>Vorde ei vi atter smaa,</l>
+<l>Aldrig meer paa Engle-Stige</l>
+<l>Vinde vi til Himmerige!</l>
+</lg>
+<lg>
+<l>Men hvad alle Verdens Vise</l>
+<l>Kun omsonst vil prøve paa,</l>
+<l>Jesus, Herren, her vi prise,</l>
+<l>Har bevist, Hans Ord formaae;</l>
+<l>Hver, som troer af Hjertens-Grund</l>
+<l>Hvad han os har lagt i Mund,</l>
+<l>De i Vaaben fødes atter</l>
+<l>Til Guds Børn: Hans Søn og Datter.</l>
+</lg> 
+<pb facs="1844_10_page0003.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Vore egne Barne-Dage,</l>
+<l>I det bedste Folke-Hjem,</l>
+<l>Intet er mod dem, vi smage</l>
+<l>Med Guds Søn i Bethlehem,</l>
+<l>Naar, gjenfødte i Hans Navn,</l>
+<l>Han os tager mildt i Favn,</l>
+<l>Og, med meer end Engle-Røster,</l>
+<l>Nævner Broder os og Søster!</l>
+</lg>
+<lg>
+<l>Som i Viisdom og i Naade</l>
+<l>Selv Han vorde op paa Jord,</l>
+<l>Det er Christen-Livets Gaade,</l>
+<l>Vore vi vaa Herrens Ord;</l>
+<l>I hans Fjed og med Hans Aand,</l>
+<l>I Gud-Faders Ledebaand:</l>
+<l>Kiærlighedens Rosenkiæde,</l>
+<l>I hvis Duft er Himmel-Glæde!</l>
+</lg>
+<lg>
+<l>Disse Herrens Barne-Dage,</l>
+<l>De er Evighedens Vaar,</l>
+<l>Vifte bort al Sorg og Klage</l>
+<l>Ogsaa fra de Hvide Haar,</l>
+<l>Tale med hinanden lydt</l>
+<l>Om det Maal for Livet nyt,</l>
+<l>Himmelvidt fra Skygge-Dale:</l>
+<l>Guddoms-Liv i gyldne Sale!</l>
+</lg> 
+<pb facs="1844_10_page0004.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Verden raaber: yndig sværmet,</l>
+<l>Deilig drømt ved høilys Dag!</l>
+<l>Ryster Barnet dog af Ærmet!</l>
+<l>Klarhed nu er Hovedsag;</l>
+<l>Men i <hi rend="spaced">Jesu</hi> Børne-Hjem</l>
+<l>Skinner, som ved Bethlehem,</l>
+<l>Under Midnats-Julesangen,</l>
+<l>Himlens Klarhed over Vangen!</l>
+</lg>
+<lg>
+<l>Derfor, lyd, fra Hall og Hytte,</l>
+<l>Christnes Lovsang! høit i Sky!</l>
+<l>Hvor du toner, Hjerter lytte,</l>
+<l>Nyde Barndoms-Fryd paany!</l>
+<l>Troendes Halleluja!</l>
+<l>I den Dal, du stiger fra,</l>
+<l>Der udvikles Kraft-Beviset:</l>
+<l>Der opblomstrer Paradiset!</l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

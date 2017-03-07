@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Dansk Kirketidende.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-25"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="020"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1856">1856</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1856_20_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Dansk Kirketidende.<lb/></titlePart>
+	<titlePart type="sub"><lb/></titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<epigraph>
+<p>Indhold: N. F. S. Grundtvig, Psalme. — F. Helweg, Filosofen. Schelling (sluttet). — Roskilde-
+Landemodes Forhandlinger (fortættes). — Ledigt Embede.</p>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition>Sextende Søndag ester Trinitatis den 7 September.</docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace></pubPlace>.
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<pb facs="1856_20_page0001.png"/>
+<fw type="pageNum"></fw>
+</div>
+<div>
+<head>Vorherres Gloede.</head>
+<fw type="graphic"/>
+<p><hi rend="align(center)">Mel. Deilig er den Himmel blaa.</hi></p>
+<lg>
+<l><hi rend="initial">A</hi>lt staaer i Guds Faderhaand,</l>
+<l>Hvad Han vil, det gjør Hans Aand,</l>
+<l>Af Guds Naade, til Guds Ære,</l>
+<l>Evig glade vi skal være,</l>
+<l>I Vorherres <hi rend="spaced">Jesu</hi> Navn!</l>
+</lg>
+<lg>
+<l>Sikkre paa, vor Arv og Løn</l>
+<l>Er med Guds eenbaarne Son,</l>
+<l>Af Guds Naade, til Guds Ære,</l>
+<l>Evig glade vi stal være,</l>
+<l>I Vorherres <hi rend="spaced">Jesu</hi> Navn!</l>
+</lg>
+<lg>
+<l>Sikkre paa hans Liv og Fred,</l>
+<l>Lys og Kraft og Herlighed,</l>
+<l>Af Guds Naade, til Guds Ære,</l>
+<l>Evig glade vi stal være,</l>
+<l>I Vorherres <hi rend="spaced">Jesu</hi> Navn!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

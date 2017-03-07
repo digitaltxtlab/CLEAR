@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Ved Sölv-Brylluppet</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-20"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="003"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1828">1828</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1828_3_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Ved<lb/>Sölv-Brylluppet</titlePart>
+	<titlePart type="sub">den 4de Mai 1828.</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<docImprint>
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<pb facs="1828_3_page0002.png"/>
+<fw type="pageNum"></fw>
+<head><hi rend="italic">Mel. </hi>Førstkommende Maidag vort Bryllup skal staae.</head>
+<lg>
+<l><hi rend="initial">F</hi>or stærke er aldrig de <hi rend="italic"><hi rend="spaced">levende</hi> </hi>Baand,</l>
+<l>For skiore ei heller de döde,</l>
+<l>Og Kiærlighed virker med Lilie-Haand</l>
+<l>De levende, lette og blöde;</l>
+<l>:,: De vinked os hid i det venlige Lag</l>
+<l>Til Ære for dem lyde Sangen i Dag! :,:</l>
+</lg>
+<lg>
+<l>De levende Baand giör ei Haarene graa,</l>
+<l>De blege ei blussende Kinder,</l>
+<l>Saa Aarene har, naar i Snese de gaae,</l>
+<l>Til Mærker kun smilende Minder;</l>
+<l>:,: Det see vi paa <hi rend="italic"><hi rend="spaced">Dem</hi>, </hi>der, med blomstrende Kaar,</l>
+<l>Kun tælle sig gamle paa Börnenes Aar! :,:</l>
+</lg> 
+<pb facs="1828_3_page0003.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Til Lykke da nu med det levende Baand,</l>
+<l>I <hi rend="italic"><hi rend="spaced">Brude-Folk</hi> </hi>unge og gamle!</l>
+<l>Hvad Kiærlighed virked med Lilie-Haand</l>
+<l>End gladere Vennerne samle</l>
+<l>:,: Naar kiærlig I <hi rend="spaced">juble</hi>, trods Haarene graa:</l>
+<l>Förstkommende Maidag vort Bryllup skal staae!;,:</l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

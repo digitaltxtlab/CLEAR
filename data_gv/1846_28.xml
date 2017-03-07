@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Dansk Kirketidende,</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-25"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="028"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1846">1846</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1846_28_page0001.png"/>
+			<fw type="pageNum">209-210</fw>
+				<docTitle>
+	<titlePart type="main">1846.  Nr. 66.<lb/>Dansk Kirketidende,</titlePart>
+</docTitle>
+<byline>udgivet af<lb/>
+	<docAuthor>R. Th. Fenger og C. J. Brandt,<lb/>Candidater i Theologien.</docAuthor>
+				</byline>
+				<fw type="graphic"/>
+				<epigraph>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition>2det Bind.</docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace></pubPlace>] Sendag imellem Juul og Nytaar, den 27. December. [Nr. 14.<lb/>
+<fw type="graphic"/>
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Nytaars-Sang.</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">H</hi>ar Nogen Lyst at kiende,</l>
+<l>I Livets Høst og Vaar,</l>
+<l>Begyndelse og Ende</l>
+<l>Paa et lyksaligt Aar,</l>
+<l>Han lytte, hvor det lyder,</l>
+<l>Det Navn, som Engle fryder,</l>
+<l>Som er, hvad det betyder,</l>
+<l>En sikker Frelse-Havn:</l>
+<l>Vorherres <hi rend="spaced">Jesu</hi> Navn!</l>
+</lg>
+<lg>
+<l>Ja, hører alle Sjæle,</l>
+<l>Som soge Bod for Savn!</l>
+<l>Enhver, som ret vil knæle</l>
+<l>I <hi rend="spaced">Jesu Christi</hi> Navn,</l>
+<l>Han gladelig befinder,</l>
+<l>For ham saa brat oprinder</l>
+<l>Et Aar med Rosenkinder,</l>
+<l>Med Smil, som Lykke spaae,</l>
+<l>Med Øine himmelblaa.</l>
+</lg>
+<lg>
+<l>Og Aaret, som begynder</l>
+<l>Saa godt i <hi rend="spaced">Jesu</hi> Navn:</l>
+<l>Stat op, du arme Synder,</l>
+<l>Og gak til Fredens Havn!</l>
+<l>Det holder hvad det lover,</l>
+<l>Her vinder han, som vover,</l>
+<l>Ei under, men langt over</l>
+<l>Hvad han, i Kvæld og Gry,</l>
+<l>Har drømt om Nytaars-Ny.</l>
+</lg>
+<lg>
+<l>Thi hvordan sig og vender</l>
+<l>I Løbet Vind og Blad,</l>
+<l>Det Aar dog salig ender</l>
+<l>I Lykkens Hovedstad,</l>
+<l>Hvor Himlens Port ei lukkes,</l>
+<l>Hvor Livets Lys ei slukkes,</l>
+<l>Hvor Glæden, som nu vugges,</l>
+<l>Omstraaler som en Soel</l>
+<l>Sin høie Dronningstol.</l>
+</lg>
+<lg>
+<l>Det volder han, som raader</l>
+<l>I Himmel og paa Jord,</l>
+<l>Opløser alle Gaader</l>
+<l>Med Naadens Almagts-Ord:</l>
+<l>Den Første og den Sidste,</l>
+<l>Som alting Saae og vidste,</l>
+<l>Som lod sit Hjerte briste,</l>
+<l>At det i mange Smaa</l>
+<l>Med Fryd kan evig staae!</l>
+</lg>
+<lg>
+<l>Han fødtes i det Lave,</l>
+<l>Blev der og kistelagt,</l>
+<l>Men i de Dødes Have</l>
+<l>Han blomstred op med Pragt,</l>
+<l>Lyslevende han throner</l>
+<l>Høit over alle Kroner,</l>
+<l>Hvor evig lydt det toner:</l>
+</lg> 
+<pb facs="1846_28_page0002.png"/>
+<fw type="pageNum">211</fw>
+<lg>
+<l>I <hi rend="spaced">Jesu Christi</hi> Navn</l>
+<l>Or Bod sor alle Savn! ,</l>
+</lg>
+<lg>
+<l>Oprind da nu for Mange,</l>
+<l>Lyksaligste blandt Aar!</l>
+<l>Kom, hilst af Englesange,</l>
+<l>Med en livsalig Vaar!</l>
+<l>Guldlokket kom fra Østen,</l>
+<l>Med Gloedens Væld i Røsten,</l>
+<l>Med Rosenhaab om Hosten,</l>
+<l>Med Bod sor alle Savn</l>
+<l>I <hi rend="spaced">Jesu Christi</hi> Navn!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

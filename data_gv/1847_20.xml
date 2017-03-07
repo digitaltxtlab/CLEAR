@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Ved BERNHARD INGEMANNS og LUCIE MANDIX'S Sølvbryllup</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-25"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="020"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1847">1847</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1847_20_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Ved<lb/>BERNHARD INGEMANNS</titlePart>
+	<titlePart type="sub">og<lb/>LUCIE MANDIX'S<lb/>Sølvbryllup</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace>KJÖBENHAVN.</pubPlace>Trykt i Bianco Lunos Bogtrykkeri.<lb/>
+<fw type="graphic"/>
+<docDate>30te Juli 1847.</docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<pb facs="1847_20_page0002.png"/>
+<fw type="pageNum"></fw>
+<head>Mel. Vintern rasat ut bland vora fjäller.</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">V</hi>ed den blanke Sö i Bögeskygge</l>
+<l>Deilig er den sommerlange Dag,</l>
+<l>Löber let med Munterhed og Hygge,</l>
+<l>Fugle-Sving i Sky og Harpeslag,</l>
+<l>Men der er dog ei paa hele Jorden</l>
+<l>Nogen Plet med Sorølundens Kaar,</l>
+<l>Thi paa denne Bogeholm i Norden</l>
+<l>Varer Dagen femogtyve Aar.</l>
+</lg>
+<lg>
+<l>Ja, saalænge vared Sommerdagen,</l>
+<l>Med Guldregnen og med Rosen-Flor,</l>
+<l>Liflig toned Nattergale-Klagen</l>
+<l>Med en Morgenlærke-Sang i Kor,</l>
+<l>Smelted under Hyrdeflöiten sammen,</l>
+<l>Hvor i Skygge og i Sommer-Glands</l>
+<l>Bernhard og Lucie sad med Gammen,</l>
+<l>Bandt hver Morgen sig en Brudekrands!</l>
+</lg> 
+<pb facs="1847_20_page0003.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Hil da Eder: Skjald med din Hyrdinde,</l>
+<l>Som sad her den lange Sommerdag</l>
+<l>I Lovsalen under Bog og Linde,</l>
+<l>Mellem Fuglesang og Harpeslag,</l>
+<l>Og saa med al Deilighed for Öie,</l>
+<l>Og med Öie for al Deilighed,</l>
+<l>Som fra Dybet og som fra det Höie</l>
+<l>Til os stiger op og daler ned!</l>
+</lg>
+<lg>
+<l>Sommer-Kvælden nu paa Slöret væver,</l>
+<l>Tæt besaaet med gyldne Stjerner smaae,</l>
+<l>Lærken stille om sin Rede svæver,</l>
+<l>Lader Nattergalen ene slaae,</l>
+<l>Men som i en deilig Sommer-Aften</l>
+<l>Sangens Toner over stille So,</l>
+<l>Let hensvævende sig hviler Kraften</l>
+<l>Her paa Nordens magelöse Öe!</l>
+</lg>
+<lg>
+<l>Sommer-Kvæld med Nattergale-Klagen,</l>
+<l>Med Dagrödmen under Slör i Nord!</l>
+<l>Lign kun du i Længde Sommerdagen!</l>
+<l>Lign i Yndighed det stille Soer!</l>
+<l>Brudekrands af immerfriske Blommer!</l>
+<l>Duft om hvide som om gule Haar!</l>
+<l>Magelos som Bogeholmens Sommer,</l>
+<l>Duft nu södt i femogtyve Aar!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

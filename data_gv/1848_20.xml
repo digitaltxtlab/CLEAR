@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Udvalgte Psalmer</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-25"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="020"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1848">1848</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1848_20_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Udvalgte Psalmer</titlePart>
+	<titlePart type="sub">for<lb/>danske Krigere.</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace>Kjøbenhavn.</pubPlace>Trykt hos Kongl. Hosbogtrykker Bianco Luno. 1848.<lb/>
+<fw type="graphic"/>
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<pb facs="1848_20_page0001.png"/>
+<fw type="pageNum">28</fw>
+<head>Mel. Kommer til mig, sagde Guds Søn.</head>
+<p>36. <hi rend="initial">G</hi>jør Alting klart ombord til Slag, Og ton det røde Korsets Flag Og hold Kanonen rede! I Jesu Navn med draget Sværd Vi rustet staae til Orlogsfærd, Og om hans Hjælp vi bede.</p>
+<p>Vel mangt et Hoved synke vil, Og mangt et Die lukkes til, For Kampen gaaer til Ende. Det gaae, som Gud vil, det skal gaae, Men trøstig vil med ham vi staae, Trods Fjenderne derhenne.</p>
+<p>Saasandt han er vor sterrke Gud, Saasandt han drager med os ud, Hvis Kors i Flaget vaier; Saasandt stal, mellem Lig og Blod, Vi staae som vore Fædre stod Og faae en herlig Seier.</p>
+<p>Mel. Vor Gud han er saa fast en Borg.</p>
+<p>37. <hi rend="initial">G</hi>ud! Danmark, lukt med Bølgen blaa, Et Land, som intet bedre, Udskifted Du fra Oldtid graa Til os og vore Fædre; Mod Fjender nær og fjern Er Orlogsmænd dets Værn, Gid, som til denne Dag, De tone Danmarks Flag, Med Manddom og med Ære!</p>
+<p>2. Vi Bølgen pleie helst med Fred, I Kamp med Vind og Vove, Som mange Liv opholdes ved Her mellem grønne Skove; Men nu kom Feidebud, Vi Snekken redte ud Og 
+<pb facs="1848_20_page0003.png"/>
+<fw type="pageNum">29</fw>
+heised Kongeflag Til Lyn og Tordenslag, Til Skræk for Danmarks Fjender!</p>
+<p>3. Vor Fjendes Guld, vor Fjendes Blod Slet ikke vi begiære, Men giv os, Gud! med Kraft og Mod At hævde Danmarks Ære, At frede trindt paa Strand Om gjæve Fædres Land, At vinde paa hvert Tog Ny Glands til <hi rend="bold">Dannebrog</hi> Og takke Dig med Glæde!</p>
+<fw type="graphic"/>
+</div>
+<div>
+<head>Mel. Jeg beder Dig, min Herre og Gud.</head>
+<p>38.	<hi rend="initial">O</hi> Gud, som mægtig er og viis Og Alting har ihænde, Du Krigens store Tugtes Riis I Naade snart afvende! Giv Du vor Stridshær Kraft og Mod, At den maa Seier vinde, Saa Danmark komme kan paa Fod Og stærk ved Dig sig sinde!</p>
+<fw type="graphic"/>
+</div>
+<div>
+<head>Mel. Naar jeg betænker den Tid og Stund.</head>
+<p>39.	<hi rend="initial">E</hi>r Gud med os i denne Tid, Da tør vi ei forsage; Til ham Enhver kan fæste Lid I Nøds og Trængsels Dage. Han staaer os bi, den gode Gud! Og fører os af Noden ud, Naar Frelsens Time kommer.</p>
+<p>2.	O Gud! det har Du ofte gjort, Naar derpaa mindst vi tænkte; Tidt over os var Himlen sort, Du Solskin atter skjenkte. Naar
+vi ei turde haabe meer, Just da, o Herre, var Du nær, Og Hjælp og Redning sendte.</p>
+<p>3.	Du er den samme Gud endnu, Og lige</p>
+</div>
+</body>
+</text>
+</TEI>

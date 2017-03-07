@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Bøgelunden.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-26"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="015"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1869">1869</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1869_15_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main"><lb/>Bøgelunden.</titlePart>
+	<titlePart type="sub"><lb/></titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<docImprint>
+				<pubPlace></pubPlace>.
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Bøgelunden.</head>
+<head>(1856).</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">I</hi> den lille Bøgelund,</l>
+<l>Hvor jeg boer og bygger,</l>
+<l>Med min Høg og med min Hund,</l>
+<l>Mellem Lys og Skygger,</l>
+<l>Følger mig Sangfugle to:</l>
+<l>En mig synger blidt til Ro,</l>
+<l>En mig tidlig vækker,</l>
+<l>Giøgen mig ei giækker.</l>
+</lg> 
+<pb facs="1869_15_page0002.png"/>
+<fw type="pageNum">35</fw>
+<lg>
+<l><hi rend="spaced">Mindet</hi> er min Nattergal,</l>
+<l>Synger lavt paa Kviste,</l>
+<l>Om hvad Kiærlighed med Kval</l>
+<l>Maa i Verden miste,</l>
+<l>Men beholder over Grav</l>
+<l>Tonen dog og Duften af:</l>
+<l>Vennerne i Nøden,</l>
+<l>Stærkere end Døden!</l>
+</lg>
+<lg>
+<l><hi rend="spaced">Haabet</hi> er min Morgenfugl,</l>
+<l>Er min Ager-Lærke,</l>
+<l>Den i Skyen har sit Skjul</l>
+<l>Og sit Landemærke,</l>
+<l>Synger om, hvad Ingen saae,</l>
+<l>Men hvad sødt dog ventes paa:</l>
+<l>Al vor Lyst og Gammen</l>
+<l>Smeltet himmelsk sammen!</l>
+</lg>
+<lg>
+<l>I min Lund er, til min Trøst,</l>
+<l>Kun Aarstider trende:</l>
+<l>Efter Vaar og Sommer Høst,</l>
+<l>Vaar ved Høstens Ende;</l>
+<l>Stundom baade Hagl og Snee</l>
+<l>Maa jeg paa det Grønne see,</l>
+<l>Dybt de dog ei saarer,</l>
+<l>Smelte hen som Taarer!</l>
+</lg> 
+<pb facs="1869_15_page0003.png"/>
+<fw type="pageNum">36</fw>
+<lg>
+<l>Vintren, naar han foer i Blæst</l>
+<l>Over Mark og Enge,</l>
+<l>Tuded: snart jeg er din Giæst,</l>
+<l>Baade tit og længe,</l>
+<l>Gjorde mig for Alvor ræd,</l>
+<l>Naar iiskold han trued med:</l>
+<l>Prøves maa omsider</l>
+<l><hi rend="spaced">Alle</hi> Aarets Tider.</l>
+</lg>
+<lg>
+<l>Lærken dog mig trøsted brat,</l>
+<l>Sang, som den det vidste:</l>
+<l>Her den første Vinternat</l>
+<l>Vorder og den sidste,</l>
+<l>Saa i næste Morgengry</l>
+<l>Bedre Fugle over Sky,</l>
+<l>Hvor ei Vintren kommer,</l>
+<l>Melde dig Skiærsommer!</l>
+</lg>
+<lg>
+<l>Derfor selv i Efterhøst,</l>
+<l>Om end Storme tude,</l>
+<l>Mine Fugle smaa har Røst</l>
+<l>Indenfor og ude,</l>
+<l>Synge lavere, men sødt:</l>
+<l>Intet Kiært er rigtig dødt,</l>
+<l>Klart det alt gienføde</l>
+<l>Vil Guds Morgenrøde!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Fædrene-Aaret</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2009-11-18"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="003"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1815">1815</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1815_3_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Fædrene-Aaret</titlePart>
+	<titlePart type="sub">Dannekvad<lb/>til<lb/>Hans Majestæt<lb/>Kong Frederik den Slette</titlePart>
+</docTitle>
+<byline>ved<lb/>
+	<docAuthor>N. F. S. Grundtvig,<lb/>Prast.</docAuthor>
+				</byline>
+				<fw type="graphic"/>
+				<epigraph>
+<p>Mit Hjerte uogyder en god Tale, en Gang jeg haver gjort til en Konge.</p>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace>Kiøbenhavn</pubPlace>.<lb/>Trykt hus Andreas Seidelin,<lb/>
+<fw type="graphic"/>
+<docDate>1815</docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<pb facs="1815_3_page0001.png"/>
+<fw type="pageNum"></fw>
+<pb facs="1815_3_page0002.png"/>
+<fw type="pageNum"></fw>
+<pb facs="1815_3_page0003.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l><hi rend="initial">V</hi>elkommen tilbage</l>
+<l>Du Konge saa prud:</l>
+<l>Velkommen tilbage!</l>
+<l>Velsigne Dig Gud!</l>
+<l>Velkommen tilbage</l>
+<l>Fra fremmede Land!</l>
+<l>Velkommen tilbage</l>
+<l>Til Dannemarks Strand,</l>
+<l>Til Østersalts Vove,</l>
+<l>Til Dannemarks Skove,</l>
+<l>Til Skjoldungens Konningehye!</l>
+</lg>
+<pb facs="1815_3_page0004.png"/>
+<fw type="pageNum">4</fw>
+<lg>
+<l>Med stygtende Sommer</l>
+<l>Du foer over Sund,</l>
+<l>Nu hilser Skiærsommer</l>
+<l>Dig atter i Lund,</l>
+<l>Nu grønnes de Vange,</l>
+<l>Du gule forlod,</l>
+<l>Og Bygblade prange</l>
+<l>Hvor Stubbene stod,</l>
+<l>Nu leger Skiærsommer</l>
+<l>Med duftende Blommer,</l>
+<l>Og Fuglene fløite i Lund.</l>
+</lg>
+<lg>
+<l>Som Fader til Vaaren,</l>
+<l>Sin Skaber til Spot,</l>
+<l>Besynger kun Daaren</l>
+<l>En æresyg Drot,</l>
+<l>Ni veed, over Solen</l>
+<l>Han bygger i Løn,</l>
+<l>Som klæder Fiolen</l>
+<l>Og Lilien skiøn,</l>
+<l>Som Skovene kroner,</l>
+<l>Og listige Toner</l>
+<l>Indaander i Fuglenes Bryst.</l>
+</lg>
+<pb facs="1815_3_page0005.png"/>
+<fw type="pageNum">5</fw>
+<lg>
+<l>Hen Herre vi love</l>
+<l>For Vaaren saa mild,</l>
+<l>Den Herre vi love</l>
+<l>For Kongen saa gild,</l>
+<l>Den Herre vi love</l>
+<l>For Stammen saa prud</l>
+<l>I Dannemarks Skove</l>
+<l>Med herlige Skud:</l>
+<l>For Fredrik hin Milde,</l>
+<l>Og Fædrene gilde.</l>
+<l>For Ætten af Dan og af Skjold.</l>
+</lg>
+<lg>
+<l>Den Herre vi prise,</l>
+<l>Som vilde i Lund</l>
+<l>Et Varsel os vise</l>
+<l>For store Miskund,</l>
+<l>Thi blomstrende Dage</l>
+<l>Det lover og spaaer,</l>
+<l>Al Kongen tilbage</l>
+<l>Nu kommer i Aar,</l>
+<l>Mens <hi rend="spaced">Egene skyde</hi>,</l>
+<l>Og Lundene lyde</l>
+<l>As Sang fra den blommede Bog.</l>
+</lg>
+<pb facs="1815_3_page0006.png"/>
+<fw type="pageNum">6</fw>
+<lg>
+<l>Ja, blomstrende Dage</l>
+<l>Det lover og spaaer,</l>
+<l>At end kom tilbage</l>
+<l>En <hi rend="spaced">Fædrene-Vaar</hi>,</l>
+<l>Med Kongen den kommer</l>
+<l>Tilbage i Aar,</l>
+<l>En liflig Skiærsommer</l>
+<l>Den lover og spaaer,</l>
+<l>Ja Fædrenes Dage</l>
+<l>De komme tilbage,</l>
+<l>2g Konge! de komme med Dig.</l>
+</lg>
+<lg>
+<l>Lad Verden kun haane</l>
+<l>Vort Fædreneland!</l>
+<l>Kiærminderne blaane</l>
+<l>For Skiold og for Dan,</l>
+<l>Og Skjoldungen finder</l>
+<l>Sit Dannemark troe,</l>
+<l>Saalænge Kiærminder</l>
+<l>I Skovene groe,</l>
+<l>Ja, glade vi flette</l>
+<l>Kong Fredrik den Sjette</l>
+<l>En Krands af Kiærminderne blaa.</l>
+</lg>
+<pb facs="1815_3_page0007.png"/>
+<fw type="pageNum">7</fw>
+<lg>
+<l>Ja milde Skiærsommer</l>
+<l>Fra Fædrenes Old</l>
+<l>Udklækker og Blommer</l>
+<l>Til Kongen saa bold,</l>
+<l>Thi de hore sammen</l>
+<l>I Æt og i Kaar,</l>
+<l>Dem Begge med Gammen</l>
+<l>Vi hilse i Aar,</l>
+<l>Ni maatte undvære</l>
+<l>Dem lidt for at lære</l>
+<l>At længes derefter igien.</l>
+</lg>
+<lg>
+<l>Det lød over Vange</l>
+<l>Fra Keiserens Stad,</l>
+<l>Om Kongerne mange,</l>
+<l>Som ginge paa Rad;</l>
+<l>Da svaret) den Frue,</l>
+<l>Den Mark under Liin:</l>
+<l>Lad glimre og lue!</l>
+<l>Lad hver tage sin i Jeg Ingen misunder,</l>
+<l>Jeg længes og stunder</l>
+<l>Kun efter mit Skioldungeskud.</l>
+</lg>
+<pb facs="1815_3_page0008.png"/>
+<fw type="pageNum">8</fw>
+<lg>
+<l>Det, Konge! tillige</l>
+<l>Jeg søler paa Stav,</l>
+<l>For Keiserens Rige</l>
+<l>Ei Marken Du gav;</l>
+<l>Ja, for mig det klinger,</l>
+<l>Du mangen en Gang</l>
+<l>Paa Længselens Ninger,</l>
+<l>Til Marken Dig svang,</l>
+<l>Og lysted at skue</l>
+<l>Dens Høieloftsbue,</l>
+<l>Ut stue det troeste Folk.</l>
+</lg>
+<lg>
+<l>Som Lykke og Seier,</l>
+<l>Som blæsende Vind,</l>
+<l>Saa vender og dreier</l>
+<l>Sig Daarernes Sind,</l>
+<l>I Dag de ophøje</l>
+<l>En Herre til Skye,</l>
+<l>I Morgen med Møie</l>
+<l>De unde ham Lye;</l>
+<l>Men trofast i Noden,</l>
+<l>Ja, troe indtil Deden</l>
+<l>Er Danmark denstund det er dansk.</l>
+</lg>
+<pb facs="1815_3_page0009.png"/>
+<fw type="pageNum">9</fw>
+<lg>
+<l>Lad Orne sig flokke</l>
+<l>Hil blodige Dyft,</l>
+<l>Hvor Ligene lokke</l>
+<l>Paa Fjeld og paa Kyst!</l>
+<l>Dog Løven ei bæver</l>
+<l>For Øruenes Kloe,</l>
+<l>Hvor Dannebrog svæver,</l>
+<l>Er Seier og Roe;</l>
+<l>Hvor Bogen sig maier.</l>
+<l>Der Dannebrog vaier</l>
+<l>Kong Frederik! over Din Stoel.</l>
+</lg>
+<lg>
+<l>Ja, flyttes end Bjerge,</l>
+<l>Og sortner end Soel,</l>
+<l>Skal Dannebrog værge</l>
+<l>Din Mark og Din Stoel,</l>
+<l>Naar Herren os finder</l>
+<l>Derunder med Troe,</l>
+<l>Saalænge Kiærminder</l>
+<l>I Skovene groe,</l>
+<l>Og Sønner skal binde</l>
+<l>Saamangen Kiærminde</l>
+<l>I Krands for der Banner fra Gud.</l>
+</lg>
+<pb facs="1815_3_page0010.png"/>
+<fw type="pageNum">10</fw>
+<lg>
+<l>Dog, Konge! mig tynger</l>
+<l>En eneste Sorg,</l>
+<l>Og sukkende synger</l>
+<l>Jeg end for Din Borg:</l>
+<l>Gud give Dig Naade,</l>
+<l>Du Konge saa god!</l>
+<l>Med Viisdom at raade</l>
+<l>Paa Jammeren Bod!</l>
+<l>Ak! det er vor Jammer,</l>
+<l>At troende stammer</l>
+<l>Ei Hiertet af Kiærlighed meer.</l>
+</lg>
+<lg>
+<l>O! hør hvor de raabe</l>
+<l>Paa Sølv og paa Guld,</l>
+<l>Og stole og haabe</l>
+<l>Paa Støv og paa Muld?</l>
+<l>O! see det med Smerte</l>
+<l>At Fædrenes Troe</l>
+<l>Og Fædrenes Hjerte</l>
+<l>I Gravene boe!</l>
+<l>O see det med Smerte</l>
+<l>At Dannemarks Hjerte</l>
+<l>Det banker saa boende svagt!</l>
+</lg>
+<pb facs="1815_3_page0011.png"/>
+<fw type="pageNum">11</fw>
+<lg>
+<l>Ak, derfor vor Moder</l>
+<l>Fik Sorrig og Harm,</l>
+<l>Ak, derfor vor Broder</l>
+<l>Blev slidt fra vor Barm,</l>
+<l>Ak, derfor vi favne</l>
+<l>Den Kvist af Din Rod,</l>
+<l>Kong Christians Navne</l>
+<l>Af Christians Blod,</l>
+<l>Som skulde indtage</l>
+<l>I kommende Dage</l>
+<l>Vort Hjerte, Din Mark og Din Stoel.</l>
+</lg>
+<lg>
+<l>O! vel man vi sande,</l>
+<l>Hvad Fædrene sang,</l>
+<l>At tætte ei stande</l>
+<l>De Stene i Vang,</l>
+<l>Hvis Sønnen ei stander</l>
+<l>Ved Faderens Grav,</l>
+<l>Hvis Kongen til Grande</l>
+<l>Maa række sin Stav;</l>
+<l>Ja dødt er et Rige,</l>
+<l>Naar Spiret maae vige</l>
+<l>Til Side fra Konningerad.</l>
+</lg>
+<pb facs="1815_3_page0012.png"/>
+<fw type="pageNum">12</fw>
+<lg>
+<l>Din Stamme er lignet,</l>
+<l>O Konge saa prud!</l>
+<l>Ved Davids, og signet</l>
+<l>Af Fædrenes Gud,</l>
+<l>Saa Søn efter Fader</l>
+<l>Paa Kongestoel sad,</l>
+<l>Og hvis nu aflader</l>
+<l>Den Konningerad,</l>
+<l>For Synderne mange</l>
+<l>Fra Dannemarks Vange</l>
+<l>Er veget Guds store Miskund.</l>
+</lg>
+<lg>
+<l>O gid dog at Sorgen</l>
+<l>Derover blev stor</l>
+<l>I Hytten og Borgen,</l>
+<l>I Fædrenenord,</l>
+<l>Saa Unge og Gamle,</l>
+<l>Saa Store og Smaa</l>
+<l>Sig vilde forsamle</l>
+<l>Til Kirke at gaae,</l>
+<l>Med Anger og Smerte,</l>
+<l>Med blødende Hjerte,</l>
+<l>Og bede om Fædrenes Troe!</l>
+</lg>
+<pb facs="1815_3_page0013.png"/>
+<fw type="pageNum">13</fw>
+<lg>
+<l>0 kommer, ja kommer</l>
+<l>Ei Fædrenes Troe,</l>
+<l>Da monne vor Dommer</l>
+<l>I Fædrene boe,</l>
+<l>Da Fædrene Svinge</l>
+<l>Sig fra deres Børn,</l>
+<l>Da spreder sin Vinge</l>
+<l>Den graadige Ørn,</l>
+<l>Da brister i Smerte</l>
+<l>Det døende Hjerte,</l>
+<l>Og aldrig det banker igien.</l>
+</lg>
+<lg>
+<l>Ja, skulde hensove</l>
+<l>Den hellige Troe,</l>
+<l>Da aldrig i Skove</l>
+<l>Kiærminderne groe,</l>
+<l>Da flygter den Fane</l>
+<l>Vi finge fra Gud,</l>
+<l>Da saares til Bane</l>
+<l>Vor Løve saa prud,</l>
+<l>Og Skjoldungestammen</l>
+<l>Nedsynker i Flammen</l>
+<l>Af Dannemarks Dednjngebaal</l>
+</lg>
+<pb facs="1815_3_page0014.png"/>
+<fw type="pageNum">14</fw>
+<lg>
+<l>Dog, Gud det kan bedre,</l>
+<l>Skiøndt Faren er stor,</l>
+<l>Kun som Øine Fædre</l>
+<l>Du elske Hans Ord!</l>
+<l>Da Ordet skal vække</l>
+<l>Den slumrende Troe,</l>
+<l>Og trindt skal ved Bække</l>
+<l>Kiærminderne groe,</l>
+<l>Dem Sønner skal flette</l>
+<l>For Fredrik den Sjette</l>
+<l>Og for Hans Maria i Krands.</l>
+</lg>
+<lg>
+<l>Ja, fromme Marie,</l>
+<l>Du Konningebrud!</l>
+<l>Ja, milde Sophie,</l>
+<l>Du Dronningeskud!</l>
+<l>O, vær Du vor Tunge!</l>
+<l>O, vær Du vor Tolk!</l>
+<l>Og giennem Dig sjunge</l>
+<l>Det troeste Folk:</l>
+<l>"Med Fædrenes Sommer</l>
+<l>"Og Hjerte Du kommer,</l>
+<l>"Velkommen Du Konge saa kiær!"</l>
+</lg>
+<pb facs="1815_3_page0015.png"/>
+<fw type="pageNum">15</fw>
+<lg>
+<l>Med Dig vi forene</l>
+<l>Da ogsaa vor Bøn,</l>
+<l>At Gud vil forlene</l>
+<l>Vor Konge en Son,</l>
+<l>De Døttre en Broder</l>
+<l>At tage i Favn!</l>
+<l>Saa <hi rend="spaced">Konningemoder</hi></l>
+<l>Maa <hi rend="spaced">vorde Dit Navn</hi>;</l>
+<l>Saa end paa det Sidste</l>
+<l>Med hellige Kviste</l>
+<l>Maae skinne det Skjoldungetræ!</l>
+</lg>
+<lg>
+<l>Ja, giver i Norden</l>
+<l>Kun Troen et Skud,</l>
+<l>Som dristig fra Jorden</l>
+<l>Sig hæver til Gud;</l>
+<l>O! da tør jeg sige,</l>
+<l>Om Hiertet saa let:</l>
+<l>Ei <hi rend="spaced">Spiret skal vige</hi></l>
+<l><hi rend="spaced">Fra Frederiks</hi> Æt,</l>
+<l><hi rend="spaced">Saalænge i Norden</hi></l>
+<l><hi rend="spaced">Sig loft er fra Jorden</hi></l>
+<l><hi rend="spaced">En Throne paa Mark og paa Fjeld.</hi></l>
+</lg>
+<pb facs="1815_3_page0016.png"/>
+<fw type="pageNum">16</fw>
+<lg>
+<l>Ja, hvis Du omvinder,</l>
+<l>O Konge saa bold!</l>
+<l>Dit Spir med Kiærminder</l>
+<l>Fra Christians Old;</l>
+<l>Da tør jeg forjætte,</l>
+<l>Om Hjertet saa let,</l>
+<l>Kong Fredrik den Sjette</l>
+<l>En Kongelig Æt,</l>
+<l>Og Spiret, forynget,</l>
+<l>Med Palmer omslynget,</l>
+<l>Skal blomstrende gange i Arv.</l>
+</lg>
+<lg>
+<l>Vel synes forvoven,</l>
+<l>O Konge, min Sang,</l>
+<l>Men Toner fra Oven</l>
+<l>I Hjerte mig klang,</l>
+<l>Jeg saae i det Dunkle</l>
+<l>Dit Spir med sin Krands,</l>
+<l>Saae Kronerne funkle</l>
+<l>Paa Ætten i Glands,</l>
+<l>Og glad maae min Tunge</l>
+<l>De Syner udsjunge,</l>
+<l>Som ei <hi rend="spaced">jeg begriber men troer</hi>.</l>
+</lg>
+<pb facs="1815_3_page0017.png"/>
+<fw type="pageNum">17</fw>
+<lg>
+<l>O høibaarne Konning.</l>
+<l>Af Skjoldungerod!</l>
+<l>O frugtbare Dronning</l>
+<l>Af Skjoldungcblod!</l>
+<l>Sig Tonerne svinge</l>
+<l>Lil Hallen fra Vang,</l>
+<l>O, lader indklinge</l>
+<l>I Hjertet min Sang!</l>
+<l>Hvis troelig den giemmes,</l>
+<l>Den aldrig beskiæmmes,</l>
+<l>Thi den er undfanget i Troe.</l>
+</lg>
+<lg>
+<l>Det klarer, det klarer</l>
+<l>Saa høit under Pol,</l>
+<l>Og brat aabenbaret</l>
+<l>Sig Dannemarks Soel,</l>
+<l><hi rend="spaced">O! Konge hin Giæve</hi>!</l>
+<l>Du vorde kun froe!</l>
+<l>Lad Dannebrog svæve</l>
+<l>Paa Hallen og troe!</l>
+<l>Da Sorgen forsvinder,</l>
+<l>Da voxe Kiærminder</l>
+<l>I Rosenborg-Have paa nye.</l>
+</lg>
+<pb facs="1815_3_page0018.png"/>
+<fw type="pageNum">18</fw>
+<lg>
+<l>Paa Christians Kist"</l>
+<l>Den dalende Soel</l>
+<l>Dig kaldte den Sidste</l>
+<l>Paa Konningestoel;</l>
+<l>Men over Dit Rige,</l>
+<l>Som over Din Grav</l>
+<l>Skal Solen opstige</l>
+<l>Saa gylden fra Hav,</l>
+<l>Og aldrig neddale,</l>
+<l>For hellige Svale</l>
+<l>Forkynder den evige Soel.</l>
+</lg>
+<lg>
+<l>Fra Oldtidens Dage,</l>
+<l>O Konge saa bold!</l>
+<l>Der klinger en Sage</l>
+<l>Om Ætten af Skjold,</l>
+<l>At gierne den hørde</l>
+<l>Paa kvædende Skjald,</l>
+<l>Naar Tungen han rørde</l>
+<l>I Høielofts Hald,</l>
+<l>Ut Skjaldene ginge</l>
+<l>Med Sværde og Ringe</l>
+<l>Men aldrig tomhændet af Hald.</l>
+</lg>
+<pb facs="1815_3_page0019.png"/>
+<fw type="pageNum">19</fw>
+<lg>
+<l>Ei Ring jeg behøver,</l>
+<l>Thi Ringen saa bold,</l>
+<l>Som Dannemarks Løver</l>
+<l>Omringer i Skiold,</l>
+<l>Mig idelig minder</l>
+<l>Om Skjoldungekuld,</l>
+<l>Mig fastere binder</l>
+<l>End Ringe af Guld,</l>
+<l>Ja, Fædrenes Minde .</l>
+<l>Og Kiærlighed binde</l>
+<l>Mig fast til min Fædrenedrot.</l>
+</lg>
+<lg>
+<l>Ei Sværd med Guldfæste</l>
+<l>Jeg ønsker til Lod,</l>
+<l>Et Sværd som det bedste</l>
+<l>Med Eg og med Od,</l>
+<l>Det haver jeg fundet</l>
+<l>I Kiærligheds Ord,</l>
+<l>Det har jeg ombundet</l>
+<l>Med Sandhedens Gjord,</l>
+<l>Til Sværdet ei Brage</l>
+<l>Selv eiede Mage,</l>
+<l>I Brageløn vindes det ei.</l>
+</lg>
+<pb facs="1815_3_page0020.png"/>
+<fw type="pageNum">20</fw>
+<lg>
+<l>Nei, Guldstøv og Ære</l>
+<l>Ei kan eller maae</l>
+<l>Den Brageløn være,</l>
+<l>Mig lysted at faae;</l>
+<l><hi rend="spaced">Kun Rum til at tale</hi></l>
+<l>Guds <hi rend="spaced">hellige</hi> Ord</l>
+<l><hi rend="spaced">I Kirkelofts Sale</hi></l>
+<l>Til Frelse for Nord,</l>
+<l>Saa Fædrenes Dage</l>
+<l>Maae vende tilbage,</l>
+<l>Saa vi maae forsamles til dem!</l>
+</lg>
+<lg>
+<l>Man tænker at Ordet</l>
+<l>Som vandred saa vidt,</l>
+<l>Nu gammelt er vordet,</l>
+<l>Og sygt og forslidt,</l>
+<l>Men salige Fædre</l>
+<l>Paa Skjoldungestoel</l>
+<l>De kiendte heel bedre</l>
+<l>"Den Aandernes Soel,</l>
+<l>Hvis glødende Tunge</l>
+<l>Kan evig indsjunge</l>
+<l>Guds Kraft og Guds Fred udi Sind.</l>
+</lg>
+<pb facs="1815_3_page0021.png"/>
+<fw type="pageNum">21</fw>
+<lg>
+<l>Med Fædrenes Hjerte</l>
+<l>Du sidder paa Stoel,</l>
+<l>Og skuer med Smerte</l>
+<l>Den dalende Soel,</l>
+<l>O føl! <hi rend="spaced">vi behøve</hi></l>
+<l>Et Fædrene-Aar!</l>
+<l>O lad mig dog prøve</l>
+<l>Hvad Ordet formaaer!</l>
+<l>Dog nei, ikkun prøve</l>
+<l>Om Dannemarks Love</l>
+<l>Har <hi rend="spaced">Loven af Iuda</hi> forglemt!</l>
+</lg>
+<lg>
+<l>Jeg raaber, jeg raaber</l>
+<l>Til Kongen saa prud,</l>
+<l>Jeg haaber, jeg haaber</l>
+<l>Paa Himmelens Gud,</l>
+<l>O, lad ikke lyde</l>
+<l>Forgiæves min Sang!</l>
+<l>Engang skal den fryde</l>
+<l>Din Sjæl med sin Klang,</l>
+<l>Naar Skyerne vige,</l>
+<l>Og <hi rend="spaced">over Dit Rige</hi></l>
+<l><hi rend="spaced">Du seer den opstigende Soel</hi>.</l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

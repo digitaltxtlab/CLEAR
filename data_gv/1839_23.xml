@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Er Lyset for de Lærde blot</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-22"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="023"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1839">1839</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1839_23_page0001.png"/>
+			<fw type="pageNum">231</fw>
+				<docTitle>
+	<titlePart type="main">Er Lyset for de Lærde blot</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<docImprint>
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Mel. Vi Sømænd gjør ej mange Ord.</head>
+<lg>
+<l>Er Lyset for de Lærde blot</l>
+<l>Til ret og galt at stave?</l>
+<l>Nej, Himlen under Flere godt,</l>
+<l>Og Lys er Himlens Gave,</l>
+<l>Og Solen staaer med Bonden op,</l>
+<l>Slet ikke med de Lærde,</l>
+<l>Oplyser bedst fra Taa til Top,</l>
+<l>Hvem der er mest paafærde.</l>
+</lg>
+<lg>
+<l>Er Lyset i Planeter kun,</l>
+<l>Søm ej kan see og mæle?</l>
+<l>Er ikke Ordet i vor Mund</l>
+<l>Et Lys for alle Sjæle!</l>
+<l>Det giver os for Aander Syn,</l>
+<l>Som Solens Skin for Kroppe,</l>
+<l>Det slaaer i Sjælen ned som Lyn</l>
+<l>Fra Skyerne histoppe.</l>
+</lg>
+<lg>
+<l>Er Lys paa visse Vilkaar blot</l>
+<l>Saa halvvejs at ophøje?</l>
+<l>Gjør det ej allevegne Godt!</l>
+<l>Er Lys ej Livets Øje!</l>
+<l>Skal for Misbrugens Skyld maaskee,</l>
+<l>Paa Aandens Himmelbue,</l>
+<l>Vi heller Mulm og Morke see</l>
+<l>End Solens blanke Lue!</l>
+</lg>
+<lg>
+<l>Nej, aldrig spørges det fra Nord,</l>
+<l>Vi Lyset vil fordunkle!</l>
+<l>Som <hi rend="spaced">Nordlys</hi> i fribaarne Ord</l>
+<l>Det saaes paa Himlen funkle,</l>
+</lg> 
+<pb facs="1839_23_page0002.png"/>
+<fw type="pageNum">232</fw>
+<lg>
+<l>Og sees det stal ved Nordens Pol,</l>
+<l>Ej blot i Kroppens Rige:</l>
+<l>Midsommerens den bolde Sol</l>
+<l>Vil ei for Midnat vige!</l>
+</lg>
+<lg>
+<l>Oplysning være stal vor Lyst,</l>
+<l>Er det saa kun om Sivet,</l>
+<l>Men først og sidst med Folkerøst</l>
+<l>Oplysningen om <hi rend="spaced">Livet</hi>;</l>
+<l>Den springer ud af <hi rend="spaced">Folkedaad</hi>,</l>
+<l>Og voxer som den vugges.</l>
+<l>Den straale i vort <hi rend="spaced">Folkeraad</hi></l>
+<l>Til <hi rend="spaced">Aftenstjernen</hi> slukkes!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig</hi></p>
+</div>
+</body>
+</text>
+</TEI>

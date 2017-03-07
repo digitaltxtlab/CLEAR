@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Dannebrog.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-22"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="025"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1853">1853</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1853_25_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Dannebrog.<lb/></titlePart>
+	<titlePart type="sub">Et Ugeblad for den Danske Forening.<lb/></titlePart>
+				<fw type="graphic"/>
+</docTitle>
+<byline>Udgivet ved<lb/>
+	<docAuthor>Fred. Barfod.<lb/></docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition>Nr. 7. 1. Juli 1853.</docEdition>
+				<docImprint>
+				<pubPlace></pubPlace>.
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Frejas Løvsal.</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">B</hi>øgeskov i Dane-Hjemmet,</l>
+<l>Lysegrøn paa Sællands Kyst,</l>
+<l>Du, som alt paa Moderskjødet</l>
+<l>Var min Barndoms Liv og Lyst!</l>
+<l>Blomster-Hegn og Fugle-Sæde,</l>
+<l>Du, som var min Ungdoms Glæde!</l>
+<l>Svar end til min Oldings-Røst!</l>
+</lg>
+<lg>
+<l>Bøgeskov paa Sællands-Holmen,</l>
+<l>Paa Livsalighedens Ø!</l>
+<l>Du er Sommer-Fruerburet</l>
+<l>For den Dus, som ei stal døe:</l>
+<l><hi rend="spaced">Vana-Disen i As-Gaar'en</hi>,</l>
+<l>Hjerte-Fruen med Guldtaaren,</l>
+<l>Lyst i Fred af <hi rend="spaced">Askens Mø</hi>!*)</l>
+</lg>
+<lg>
+<l><hi rend="spaced">Frejas</hi> Lyst er Jomfru-Majen,</l>
+<l>Lys og yndig, faur og fiin,</l>
+<l><hi rend="spaced">Frejas</hi> Fugl er Nattergalen,</l>
+<l>Som for Suk sit Sangen sin,</l>
+<l><hi rend="spaced">Frejas</hi> Suk er Aftenvinden,</l>
+<l>Der, som Aftenrode-Kinden,</l>
+<l>Kjøler mildt og Lumring din.</l>
+</lg>
+<lg>
+<l>Men hvad er saa Vana-Disen,</l>
+<l>Med Guldtaaren paa sin Kind?</l>
+<l>Hvad er Nordens Gudelege</l>
+<l>Andet vel end Hjernespind?</l>
+<l>Hvad er meer end Mundsveir Talen</l>
+<l>Om <hi rend="spaced">Skjøn-Freja</hi> i Lovsalen,</l>
+<l>Som hos os gaaer ud og ind?</l>
+</lg>
+<lg>
+<l>Hvilken Tid for Danmarks Skjalde,</l>
+<l>Hvilken Tid for Nordens Aand,</l>
+<l>Da man vil paa <hi rend="spaced">Asamaalet</hi></l>
+<l>Fole med den valne Haand,</l>
+<l>Da man vil i Skaaler veje,</l>
+<l>Hvad kun Hjertet har i Eje</l>
+<l>Hos den faure Liljevaand!</l>
+</lg>
+<lg>
+<l>Dog, saa ædru var <hi rend="spaced">As-Brage</hi></l>
+<l>Midt i Kæmperusens Tid,</l>
+<l>Og os sildefødte Skjalde</l>
+<l>Danmarks Lykke er saa blid,</l>
+<l>At i rene Ord og jævne</l>
+<l>Vi paa ringe Fatte-Evne</l>
+<l>Hjelpe kan med Konst og Flid.</l>
+</lg>
+<lg>
+<l>Takket være Dannekvinden</l>
+<l>Med den dybe Kiærlighed,</l>
+<l>Som i hendes Varm Livskilden</l>
+<l>Er til meer end mange veed!</l>
+<l>Søger <hi rend="spaced">Freja</hi> du i Grunden,</l>
+<l>Hvoraf Kilden er oprunden,</l>
+<l>Da du naaer dit Øjemed.</l>
+</lg>
+<lg>
+<l>Da du seer, at Kildespringet</l>
+<l>Til Guld-Taarerne paa Kind,</l>
+</lg>
+<p>*) <hi rend="spaced">Askens eller Ygdrasils</hi> Meer kaldes ellers Norner, og betyder paa <hi rend="spaced">Asamaalet</hi>, som er vort Nordens Billedsprog: det guddommelige <hi rend="spaced">Forsyn</hi>.</p>
+<pb facs="1853_25_page0002.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>For Lysalfen og Livsglæden,</l>
+<l>Er langt meer end Hjernespind,</l>
+<l>Saa i Dannekvinde-Barmen</l>
+<l>Med Livskilden og Livsvarmen</l>
+<l>Gaaer <hi rend="spaced">Skjøn-Freja</hi> ud og ind.</l>
+</lg>
+<lg>
+<l>Derfor, mens hos Dannekvinden:</l>
+<l>Moder, Syster, Hjertenskiær,</l>
+<l>Hjertet staaer i Takt med Aanden,</l>
+<l>Elsker Helten fjern og nær,</l>
+<l>Boer, med Taarerne guldrøde,</l>
+<l>Som kan Sorg og Savn forsøde,</l>
+<l>Hjerte-Fruen, <hi rend="spaced">Freja</hi>, her.</l>
+</lg>
+<lg>
+<l>Og saalænge Bøgeskoven,</l>
+<l>Med sin Mai og med sin Røst,</l>
+<l>Med sin Nattergale-Stemme</l>
+<l>End er Dannekvindens Lyst,</l>
+<l>Over alle Skove Prisen</l>
+<l>Vinder den hos <hi rend="spaced">Vana-Disen</hi>*)</l>
+<l>Og er hendes Sommerlyst.</l>
+</lg>
+<lg>
+<l>Og saalænge Bøgen grønnes</l>
+<l>Paa Livsalighedens Ø,</l>
+<l><hi rend="spaced">Sælland</hi> kaldes skal i Sangen</l>
+<l>Perle fiin i Østersø,</l>
+<l>Og Saalænge Dannekvinden,</l>
+<l>Skjøn foruden og forinden,</l>
+<l>Skal i Lunden ei uddøe.</l>
+</lg>
+<lg>
+<l>Og Saalænge efter <hi rend="spaced">Torsdag</hi></l>
+<l>Kommer <hi rend="spaced">Fredag</hi> trindt i Nord,**)</l>
+<l>Freia høit i Asgaards-Salen</l>
+<l>Bænkes stal ijævne Thor,</l>
+<l>Som, naar han har længst omturet,</l>
+<l>Længes efter Fruerburet,.</l>
+<l>Hvor Skjøn-Freja yndig boer.</l>
+</lg>
+<lg>
+<l><hi rend="spaced">Thor</hi> har Føre kun paa Skien,</l>
+<l>Hammer kun til Thurs og Trold,</l>
+<l><hi rend="spaced">Freja</hi> let i Fjederhammen</l>
+<l>Færdes over Jordens Vold,</l>
+<l>Og i hvert et Hjertekammer</l>
+<l>Banker paa hun med Guldhammer,</l>
+<l>Lukkes ind fra Old til Old!</l>
+</lg>
+<lg>
+<l>Og saalænge Danmarks Hjerte</l>
+<l>Slaaer i Takt med Nordens Aand,</l>
+<l>Han paa Fjeld og Hun i Skoven</l>
+<l>Række mildt hinanden Haand,</l>
+<l>Virke af det Vintergrønne,</l>
+<l>Virke af det Sommerskjønne</l>
+<l>Mellem sig et yndigt Baand</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+<fw type="graphic"/>
+<p>*)<hi rend="spaced">Vana-Disen</hi> er nemlig et af <hi rend="spaced">Frejas</hi> gamle Tilnavne, og da "<hi rend="spaced">Freja</hi>" er paa Dansk "<hi rend="spaced">Fruen</hi>," saa udlydes alt, hvad der tillægges hende, om den <hi rend="spaced">Danske Fruelighed</hi> eller <hi rend="spaced">Kvindelighed</hi> i sit Grundvæsen.</p>
+<p>**) <hi rend="spaced">Fre - Dag</hi> er nemlig opnævnet efter <hi rend="spaced">Freja</hi>, ligesom <hi rend="spaced">Tors-Dag</hi> ester <hi rend="spaced">Thor</hi>.</p>
+</div>
+</body>
+</text>
+</TEI>

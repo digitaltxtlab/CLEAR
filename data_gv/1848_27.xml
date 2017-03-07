@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>KØBENHAVNS PRÆSTEKONVENT</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-22"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="027"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1848">1848</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1848_27_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">KØBENHAVNS PRÆSTEKONVENT<lb/></titlePart>
+	<titlePart type="sub">(KIØBENHAVNS GEISTLIGE CONVENT)<lb/>1843-1943</titlePart>
+</docTitle>
+<byline>VED<lb/>
+	<docAuthor>NIELS MUNK PLUM<lb/>BISKOP, DR. THEOL.</docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<docImprint>
+				<pubPlace>KØBENHAVN</pubPlace>.<lb/>UDGIVET AF KØBENHAVNS PRÆSTEKONVENT<lb/>
+<fw type="graphic"/>
+<docDate>1943</docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<pb facs="1848_27_page0002.png"/>
+<fw type="pageNum">57</fw>
+<p>til Rigsdagen i Anledning af "Grundlovens uklare Bestemmelser": Kirkens Stilling er blevet daarligere. Embedsbesættelserne sker uden kirkelig Medvirken, Kirkeformuer og Gejstlighedens Indtægter er givet i Ministerens Haand. Tidligere var der dog et Kollegium, hvori flere havde Stemme. - Før Marts havde de forskellige Grene af Statsstyrelsen deres Repræsentanter, - Kirken havde ingen; "thi Biskopperne hverken var eller er det." "Det er - alt andet fraset - klart, at naar Kirken før har underordnet sig Staten, da den var kristelig og identificerede Kirke og Stat, da kan Kirken <hi rend="italic">nu </hi>ingenlunde gøre det samme, da Staten har forandret sit Standpunkt, ja gør det lovligt muligt, at Kirkestyrelsen kan gaa over i aldeles ukristelige Hænder."</p>
+<p><hi rend="italic">Grundtvig </hi>var enig "i det hele"; "men saa længe en Folkekirke skal bestaa, maa Øvrigheden forbeholde sig tre Ting: Indflydelse paa 1) de Gejstliges Dannelse, 2) paa Embedernes Besættelse og 3) Opsynsret. Før var Kirken et lukket Hus, af hvilket ingen kunde gaa ud; men nu er den blevet et aabent Hus, i hvilket man kun behøver at blive, saa længe man har Lyst ... Staten bør ikke blot opgive en herskende Kirke, men ogsaa sit Herredømme over Præsternes Lærdom og Kirkens Tro. Med Hensyn til Indtægter, Forholdet til den verdslige Øvrighed o. s. v. maa Staten kunne sige: disse er mine Vilkaar; vil I paa dem være i min Kirke, saa er det godt; hvis ikke, kan I træde ud. Naar Staten indrømmer denne sidste Frihed, da er den i sin fulde Ret ved iøvrigt at ordne dette Forhold ..."</p>
+<p>Til Spørgsmaalet om Kirkens Ejendomsret indhentede man et privat Responsum fra Professor juris ecclesiastici <hi rend="italic">Kolderup-Rosenvinge, </hi>der konkluderede i, at "hvis Kirke og Stat vilde blive sammen og ordne deres Samliv friere og bedre, da er det <hi rend="italic">en Selvfølge, </hi>at Staten maa sørge for Kirkens timelige Fornødenheder, da ellers hverken Statens eller Kirkens Formaal opnaaedes. Men her kan ingen ensidig Bestemmelse træffes, da begge er Medejere og Medbrugere af en for saa vidt dem begge tilhørende Ejendom. Hvis Grundloven derfor bestemmer, at den evange-lisk-lutherske Kirke "som Folkekirke" understøttes eller</p>
+</div>
+</body>
+</text>
+</TEI>
