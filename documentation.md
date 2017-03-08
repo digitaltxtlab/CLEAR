@@ -29,9 +29,30 @@ to remote repository
 Create folder **xml_meta** inside **xml_lb**
 
 Move  metadata from **xml** to **xml_meta**
+
 ---
 3/6/2017
 
 Add two python scripts to scripts_py,
 
 which is used to convert file from **xml** to **txt**
+
+---
+3/8/2017 - Line
+
+Run python script generate.py on pc,
+
+seems to work, except with authors whose surnames contain æ, ø and å:
+
+$ python generate.py Hjortø
+Traceback (most recent call last):
+  File "generate.py", line 52, in <module>
+    corpus_name=string.replace(file_list[1],".txt","_") #       create the new folder's name using an unique id
+IndexError: list index out of range
+
+Also possibly a problem with extracting all files from authors,
+
+for example generating a Kingo folder gives 635 files, while searching 
+
+for Kingo in ADL_metadata.txt gives 640 hits.
+
