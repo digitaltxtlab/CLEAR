@@ -1,0 +1,3964 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI PUBLIC "-// NSL Norge //EN" "http://www.bokselskap.no/tekstkoding/NSL_tei_xinclude.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="NB_Mellomalderballadar_TSB_C">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Nasjonalbiblioteket/bokselskap.no, 2015
+<lb/><hi rend="italic">Norske mellomalderballadar</hi>: Historiske balladar (TSB C-gruppa)
+<lb/>Redaksjon: Velle Espeland, B&#x00F8;rge Nordb&#x00F8;, Liv Kreken, Elin Pr&#x00F8;ysen, Astrid Nora Ressem, Olav Solberg, Ellen Nessheim Wiger</title>
+</titleStmt>
+<publicationStmt><p>Publiseres som digital tekst av Nasjonalbiblioteket/bokselskap.no 2015.</p></publicationStmt>
+<sourceDesc>
+<p>NV_Mellomalderballadar_TSB_C_3.xml, NV_Mellomalderballadar_TSB_C_5.xml, NV_Mellomalderballadar_TSB_C_8.xml, NV_Mellomalderballadar_TSB_C_11.xml, NV_Mellomalderballadar_TSB_C12_13.xml, NV_Mellomalderballadar_TSB_C_15.xml, NV_Mellomalderballadar_TSB_C_17.xml, NV_Mellomalderballadar_TSB_C_18.xml, NV_Mellomalderballadar_TSB_C_22.xml, NV_Mellomalderballadar_TSB_C_25.xml, NV_Mellomalderballadar_TSB_C_27.xml og NV_Mellomalderballadar_TSB_C_33.xml</p>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<tagsDecl>
+<namespace name="http://www.tei-c.org/ns/1.0">
+<tagUsage gi="name">
+<persName type="collector" xml:id="saATR">Aasmund T. Rui</persName>
+<persName type="collector" xml:id="saGTK">Gunhild T. Kivle</persName>
+<persName type="collector" xml:id="saHR">Hans Ross</persName>
+<persName type="collector" xml:id="saJB">Johanna Berge</persName>
+<persName type="collector" xml:id="saJS">Johannes Skar</persName>
+<persName type="collector" xml:id="saLML">Ludvig Mathias Lindeman</persName>
+<persName type="collector" xml:id="saMBL">Magnus Brostrup Landstad</persName>
+<persName type="collector" xml:id="saOMS">Ole M&#x00F8;rk Sandvik</persName>
+<persName type="collector" xml:id="saSB">Sophus Bugge</persName>
+<persName type="collector" xml:id="saTH">Torleiv Hannaas</persName>
+<persName type="source" xml:id="kiAAL">Anne &#x00C5;nundsdotter Lilleg&#x00E5;rd</persName>
+<persName type="source" xml:id="kiGKS">Gunhild Kjetilsdotter Sundsli</persName>
+<persName type="source" xml:id="kiHNB">Halvor Nielsen Braaten</persName>
+<persName type="source" xml:id="kiHOA">H&#x00E6;ge Olsdotter &#x00C5;rmote</persName>
+<persName type="source" xml:id="kiJKB">Jorunn Knutsdotter Bj&#x00F8;nnemyr</persName>
+<persName type="source" xml:id="kiLHL">Lars Haraldsson Lofthus/K&#x00E5;sa</persName>
+<persName type="source" xml:id="kiMKB">Margrete Knutsdotter Borgji</persName>
+<persName type="source" xml:id="kiNB">Nils Beitohaugen</persName>
+<persName type="source" xml:id="kiNN">ukjend songar</persName>
+<persName type="source" xml:id="kiOKS">Olav Kjetilsson Stigen</persName>
+<persName type="source" xml:id="kiSGN">Signe Gjermundsdotter Napper</persName>
+<persName type="source" xml:id="kiSR">Svein Bendiksson Rindebakken/Rui</persName>
+<persName type="source" xml:id="kiST">Svein Tveiten</persName>
+<persName type="source" xml:id="kiTRG">Torstein Reiarsson Gv&#x00E5;le</persName>
+</tagUsage>
+</namespace>
+</tagsDecl>
+</encodingDesc>
+<revisionDesc>
+<change who="ENW" when="2016-12-21">Lagt inn noen rettelser.</change>
+<change who="ENW" when="2015-12-15">G&#x00E5;tt gjennom noter, skrivem&#x00E5;te oppgitt -> oppgjeven, litteraturliste og prinsipper og samkj&#x00F8;rt med TSB A og TSB B. Validering. Oppdatert visning p&#x00E5; bokselskap.no og laget nye nedlastningsfiler.</change>
+<change who="ENW" when="2015-04-16">Lagt inn rettelser etter B&#x00F8;rges gjennomlesning av hele samlefilen. Entiteter, validering og kodekontroll.</change>
+<change who="ENW" when="2015-03-02">Lagt inn rettelser i innledningene (etter Olavs og Velles gjennomlesninger av egne tekster). Filen klar for siste gjennomlesning (B&#x00F8;rge) f&#x00F8;r publisering. GJENSTÃ…R: ENTITETER, KODEKONTROLL</change>
+<change who="ENW" when="2015-02-20">Flyttet alle forkortelseslister og litteraturlister til et samlet kapittel sist i filen.</change>
+<change xml:id="ENW" who="ENW" when="2015-01-23">Samlet de 13 TSB-C-enkeltfilene i en fil. Noe omkoding. Validering og kodekontroll. Gjenst&#x00E5;r: info om NB kilder hvis den skal ut der med en gang.....</change>
+</revisionDesc>
+</teiHeader>
+<text xml:id="NB_Mellomalderballadar_TSB_C_gruppa" type="songs">
+<front>
+<titlePage type="main">
+<docTitle>
+<titlePart type="sub">NORSKE MELLOMALDERBALLADAR</titlePart>
+<titlePart type="main">Historiske balladar</titlePart>
+<titlePart type="sub">(TSB C)</titlePart>
+</docTitle>
+<lb/><docDate>Nasjonalbiblioteket/bokselskap.no<lb/>Oslo 2015</docDate>
+</titlePage>
+<div xml:id="contents">
+<list type="contents_main">
+<item><ref target="chapter_1" xml:id="contents_1">TSB C 3 Dronning Dagmar og junker Strange</ref></item>
+<item><ref target="chapter_2" xml:id="contents_2">TSB C 5 Kong Sverker</ref></item>
+<item><ref target="chapter_3" xml:id="contents_3">TSB C 6 Dronning Dagmars d&#x00F8;d</ref></item>
+<item><ref target="chapter_4" xml:id="contents_4">TSB C 8 Vreta klosterrov</ref></item>
+<item><ref target="chapter_5" xml:id="contents_5">TSB C 11 H&#x00E5;kon H&#x00E5;konssons d&#x00F8;d</ref></item>
+<item><ref target="chapter_6" xml:id="contents_6">TSB C 12/13 Alv ligg i &#x00D8;resund</ref></item>
+<item><ref target="chapter_7" xml:id="contents_7">TSB C 15 Falkvor Lommansson &#x005B;Magnus Algotssons brurerov&#x005D;</ref></item>
+<item><ref target="chapter_8" xml:id="contents_8">TSB C 17 Mindre Alvs d&#x00F8;d</ref></item>
+<item><ref target="chapter_9" xml:id="contents_9">TSB C 18 Herre Karl lever fredlaus</ref></item>
+<item><ref target="chapter_10" xml:id="contents_10">TSB C 22 Margjit Runarborgi</ref></item>
+<item><ref target="chapter_11" xml:id="contents_11">TSB C 25 Nils Ebbesen</ref></item>
+<item><ref target="chapter_12" xml:id="contents_12">TSB C 27 Dronning Margrete</ref></item>
+<item><ref target="chapter_13" xml:id="contents_13">TSB C 33 Kong Hans&#x0027; bryllaup</ref></item>
+<item><ref target="chapter_14" xml:id="contents_14">Forkortingar og litteratur</ref></item>
+</list>
+</div>
+</front>
+<body>
+<div type="chapter" n="1" xml:id="TSB_C_3">
+<head type="main"><ref type="contents" target="contents_1" xml:id="chapter_1">TSB C 3 Dronning Dagmar og junker Strange</ref></head>
+<div type="uchapter" subtype="intro">
+<head type="sub">Innleiing</head>
+<p>Kong Valdemar sender junker Strange til Beiarland for &#x00E5; fri til Dagmar for han. Ho f&#x00F8;lgjer Strange til Danmark, men p&#x00E5; reisa sp&#x00F8;r ho han om kongen er like vakker som Strange sj&#x00F8;lv. D&#x00E5; ho fr&#x00E5; skipet ser kongen kome ridande ned til stranda, blir ho forskrekka over kor stygg han er. Ho &#x00F8;nskjer at ho var heime og hadde junker Strange p&#x00E5; sin arm.</p>
+<p>Ho blir gift med kongen og blir sv&#x00E6;rt popul&#x00E6;r, sidan ho ber for fattige, enkjer og foreldrelause born. Dessutan ber ho om at fangane b&#x00F8;r sleppast ut.</p>
+<p>Sophus Bugge har skrive opp to variantar fr&#x00E5; Fyresdal etter Gunhild Kjetilsdotter Sundsli og &#x00C5;sne Gunleiksdotter Spokkelid. Dessutan har Torleiv Hannaas og Rikard Berge skrive opp nokre strofer etter Svein Tveiten i Setesdal.</p>
+<p>Alle oppskriftene er p&#x00E5;verka av <title rend="italic">Kjempeviseboka</title>, men har ogs&#x00E5; element som kjem fr&#x00E5; andre kjelder. I setesdalsversjonen segler Strange og Dagmar tilbake til hennar land. I &#x00C5;sne Spokkelis versjon drep junker Strange kongen, og Dagmar f&#x00E5;r liggje p&#x00E5; junkerens arm. Slike moment finst ogs&#x00E5; i variantar fr&#x00E5; F&#x00E6;r&#x00F8;yane og Sverige.</p>
+<lb/><p><hi rend="bold">Historisk bakgrunn</hi>
+<lb/>Kong Valdemar II Seier regjerte i Danmark fr&#x00E5; 1202 til han d&#x00F8;ydde i 1241. Bryllaupet med Dagmar (Dragomir) av B&#x00F8;hmen stod i 1205. D&#x00E5; kan ho ha vore omlag 18 &#x00E5;r gamal. I 1209 f&#x00F8;dde ho ein son, Valdemar den unge, som d&#x00F8;ydde 22 &#x00E5;r gamal. Dagmar d&#x00F8;ydde i 1212. If&#x00F8;lgje ei anna folkevise (<ref type="external" target="http://www.bokselskap.no/boker/historiskeballadar/tsb_c6_dronningdagmar">TSB C 6 Dronning Dagmars d&#x00F8;d</ref>) d&#x00F8;ydde ho i barnseng. To &#x00E5;r seinare gifte kongen seg med Bengerd (Berengaria) av Portugal.</p>
+<p>Kong Valdemar var faktisk einauga, slik det blir sagt i visa. Han hadde mist auga i slaget ved Bornh&#x00F8;ved i 1227, men det var 14 &#x00E5;r etter Dagmars d&#x00F8;d.</p>
+<p rend="noIndent">Utsyn 192<lb/>DgF 132</p>
+</div>
+<div type="uchapter" subtype="song" xml:id="BIN1180">
+<head type="sub">Oppskrift A</head>
+<p>TSB C 3: Dronning Dagmar og junker Strange</p>
+<p>Oppskrift: <date when="1864">1864</date> av <name type="collector" corresp="saSB">Sophus Bugge</name> etter <name type="source" corresp="kiGKS">Gunhild Kjetilsdotter Sundsli</name>, <name type="place">Fyresdal, Telemark</name>.</p>
+<p>Orig. ms.: NFS S. Bugge VIII, 25&#x2013;28 (reinskrift i anna hand, med Sophus Bugges hand i rettingar og i overskrifta)</p>
+<p>Oppgjeven tittel: Junker Strange og Jomfru Dagmor</p>
+<figure rend="asterisk"/>
+<lg>
+<l n="1">1. Kungen &#x00E5; <name>junker Strangji</name> dei sat over b&#x00F3;r</l>
+<l n="ref">&#x2013; M&#x00E6; so mangen forgyllande fl&#x00F8;yi &#x2013;</l>
+<l>dei snakka so mangt et gammalt &#x00F3;r.</l>
+<l n="ref">&#x2013; Han sigler junker Strangji m&#x00E6; jomfr&#x00FA;va <name>Dagm&#x00F3;r</name> &#x2013;</l>
+</lg>
+<lg>
+<l>2. H&#x00F8;yr de J&#x00F3;nker Strangji kot eg b&#x00E9;e deg</l>
+<l>d&#x00FA; ska reise te Beiarland &#x00E5; hente Dagm&#x00F3;r ti meg.</l>
+</lg>
+<lg>
+<l>3. Kossi kan eg te <choice><expan>B<ex>eiarland</ex></expan><abbr>B:</abbr></choice> fare,</l>
+<l>eg tor &#x0027;kje m&#x00E6; Beiarlandsk&#x00F3;ngen tale. &#x2013;</l>
+</lg>
+<lg>
+<l>4. Men h&#x00F8;yr de <choice><expan>j<ex>unker</ex> S<ex>trangji</ex></expan><abbr>j: S.</abbr></choice> koss eg b&#x00E9;e deg</l>
+<l>du ska&#x0027; reise te <choice><expan>B<ex>eiarland</ex></expan><abbr>B:</abbr></choice> for meg. &#x2013;</l>
+</lg>
+<lg>
+<l>5. Ska&#x0027; no eg te <choice><expan>B<ex>eiarland</ex></expan><abbr>B:</abbr></choice> fare</l>
+<l>&#x00E5;tte par kl&#x00E6;ir so vi&#x0027; eg have.</l>
+</lg>
+<lg>
+<l>6. 8 par kl&#x00E6;ir &#x00E5; n&#x00ED;e par sk&#x00F3; &#x2013;</l>
+<l>so plagar kongjen kl&#x00E6; sitt f&#x00F3;kk.</l>
+</lg>
+<lg>
+<l>7. <choice><expan>S<ex>trangji</ex></expan><abbr>S:</abbr></choice> han kom seg ti <choice><expan>B<ex>eiarland</ex></expan><abbr>B.</abbr></choice> fram</l>
+<l>&#x00E5; k&#x00F3;ngen han r&#x00F8;kkte han kv&#x00ED;ten hand.</l>
+</lg>
+<lg>
+<l>8. Her site d&#x00FA; Beiarlands konge over brede b&#x00F3;r</l>
+<l>&#x00E5; kungen af Danemark sender deg bo.</l>
+</lg>
+<lg>
+<l>9. Han sender deg bo &#x00E5; blie tale</l>
+<l>han vil d&#x00ED; D&#x00F3;tter Dagm&#x00F3;r ti hustr&#x00FA; have. &#x2013;</l>
+</lg>
+<lg>
+<l>10. Kungen han sveiper sitt hove &#x00ED; skinn,</l>
+<l>so gjenge han seg for Dagm&#x00F3;r inn. &#x2013;</l>
+</lg>
+<lg>
+<l>11. Eg helsar deg Dagmor kj&#x00E6;r datteren min</l>
+<l>vil d&#x00FA; fylge <choice><expan>j<ex>unker</ex> S<ex>trangji</ex></expan><abbr>j: S:</abbr></choice> til Danemark?</l>
+</lg>
+<lg>
+<l>12. Dagmor h&#x00F3; svora alt s&#x00F3;m h&#x00F3; kann</l>
+<l>eg haver aldrig sett den mann. &#x2013;</l>
+</lg>
+<lg>
+<l>13. Kungen han svora av si forstand</l>
+<l>du skal fylge <choice><expan>j<ex>unker</ex> S<ex>trangji</ex></expan><abbr>j: S:</abbr></choice> fram. &#x2013;</l>
+</lg>
+<lg>
+<l>14. Silkje &#x00E5; skarlak p&#x00E5; j&#x00F3;r&#x00E6; blei breitt</l>
+<l>Dagm&#x00F3;r h&#x00F3; blei ne at str&#x00E5;nd&#x00E6; le&#x00ED;dd.</l>
+</lg>
+<lg>
+<l>15. D&#x00E5; som dei kom seg p&#x00E5; vegjen fram,</l>
+<l>d&#x00E5; spyr h&#x00F3; <choice><expan>j<ex>unker</ex> S<ex>trangji</ex></expan><abbr>j: S:</abbr></choice> kot de va&#x0027; te mann.</l>
+</lg>
+<lg>
+<l>16. H&#x00F8;yr de <choice><expan>j<ex>unker</ex> S<ex>trangji</ex></expan><abbr>j: S:</abbr></choice> eg spyr deg &#x00ED; tr&#x00FA;</l>
+<l>&#x00E6; Danemarkskungen so v&#x00E9;ne som d&#x00FA;. &#x2013;</l>
+</lg>
+<lg>
+<l>17. Dagm&#x00F3;r &#x00E5; Dagm&#x00F3;r d&#x00FA; snakk inkje slikt</l>
+<l>n&#x00E5;r &#x00E6; t&#x00E9;naren sin herren l&#x00ED;k. &#x2013;</l>
+</lg>
+<lg>
+<l>18. D&#x00E5; som de skout si snekje fra land</l>
+<l>d&#x00E5; kom Danemarksk&#x00F3;ngen n&#x00E9; te strand. &#x2013;</l>
+</lg>
+<lg>
+<l>19. &#x00C5; h&#x00F8;yr <choice><expan>j<ex>unker</ex> S<ex>trangji</ex></expan><abbr>j: S:</abbr></choice> eg talar ti deg</l>
+<l>kot &#x00E6; de for ein fussi som her kjeme hit.</l>
+</lg>
+<lg>
+<l>20. Dagm&#x00F3;r &#x00E5; <choice><expan>D<ex>agmor</ex></expan><abbr>D:</abbr></choice> d&#x00FA; snakk inkje so,</l>
+<l>de &#x00E6; den herren, som d&#x00FA; ska f&#x00E5;. &#x2013;</l>
+</lg>
+<lg>
+<l>21. Han va&#x0027; b&#x00E5;de gr&#x00F3;v &#x00E5; h&#x00E6;rel&#x00FA;t</l>
+<l>&#x00E5; de h&#x00F8;gre auga va&#x0027; sprukkji ut. &#x2013;</l>
+</lg>
+<lg>
+<l>22. Gud gj&#x00F8;ve eg va&#x0027; p&#x00E5; min faders land</l>
+<l>eg ha deg <choice><expan>j<ex>unker</ex> S<ex>trangji</ex></expan><abbr>j: S:</abbr></choice> upp&#x00E5; min arm.</l>
+</lg>
+<lg>
+<l>23. Han tog hende &#x00ED; h&#x00E5;nden med &#x00E6;re,</l>
+<l>d&#x00E5; sille ho Danemarkes dronning v&#x00E6;ra.</l>
+</lg>
+<figure rend="asterisk"/>
+<p><hi rend="italic">Strofene er unummererte i manuskriptet.</hi></p>
+</div>
+<div type="uchapter" subtype="song" xml:id="BIN1181">
+<head type="sub">Oppskrift B</head>
+<p>TSB C 3: Dronning Dagmar og junker Strange</p>
+<p>Oppskrift: <date when="1864">1864</date> av <name type="collector" corresp="saSB">Sophus Bugge</name> etter <name type="source" corresp="kiAGS">&#x00C5;sne Gunleiksdotter Spokkeli</name>, <name type="place">Fyresdal, Telemark</name>.</p>
+<p>Orig. ms.: NFS S. Bugge q, s. 20&#x2013;22 (kladd)</p>
+<p>Oppgjeven tittel: Junker Strange og Jomfru Dagmaar<note type="criticalApp"><hi rend="italic">Tittel i reinskrifta:</hi> Junker Strange og Jomfru Dagmaar</note></p>
+<figure rend="asterisk"/>
+<lg>
+<l n="1">1. &#x00C5; ska&#x0027; no eg ti Beiarland fara</l>
+<l n="ref">&#x2013; M&#x00E6; mange forgyllandes fl&#x00F8;y &#x2013;</l>
+<l>&#x00E5;tte kl&#x00E6;epar de m&#x00E5; eg have.</l>
+<l n="ref">&#x2013; So sigler <name>junkar Strangjil</name> at hente jomfru <name>Dagm&#x00F8;y</name> &#x2013;</l>
+</lg>
+<lg>
+<l>2. Kungen hev seg ein fiskardam,</l>
+<l>der hentar langt flere enn kungens land.</l>
+</lg>
+<lg>
+<l>3. <choice><expan><ex>Kungen hev seg</ex></expan><abbr>&#x2013;</abbr></choice> eit fiskardikji</l>
+<l><choice><expan><ex>der hentar langt flere enn kungens</ex></expan><abbr>&#x2013;</abbr></choice> r&#x00ED;kji.</l>
+</lg>
+<lg>
+<l>4. D&#x00E5; dei kom sigland ti land</l>
+<l>d&#x00E5; kom kungen rennand<note type="footnote"><hi rend="italic">Over ordet st&#x00E5;r:</hi> gangand?</note> p&#x00E5; hv&#x00ED;dan sand.</l>
+</lg>
+<lg>
+<l>5. Hot &#x00E6; de for ein skj&#x00E5;ge svein</l>
+<l>som spretter gj&#x00FA;ra kring hestebein.</l>
+</lg>
+<lg>
+<l>6. Kj&#x00E6;re mi Dagm&#x00F8;y du snakk inkje s&#x00E5;,</l>
+<l>de &#x00E6; den herren d&#x00FA; ska f&#x00E5;.</l>
+</lg>
+<lg>
+<l>7. Gud gj&#x00E6;ve eg ha vori p&#x00E5; min faders land</l>
+<l>&#x00E5; havt han herr Strangjil p&#x00E5; min arm.</l>
+</lg>
+<lg>
+<l>8. <choice><expan><ex>Gud gj&#x00E6;ve eg ha vori</ex></expan><abbr>&#x2013;</abbr></choice> &#x00ED; <choice><expan><ex>min faders</ex></expan><abbr>&#x2013;</abbr></choice> rikje</l>
+<l><choice><expan><ex>&#x00E5; havt han herr Strangjil</ex></expan><abbr>&#x2013;</abbr></choice> innved min sie.</l>
+</lg>
+<lg>
+<l>9. Strangjil han drog sin k&#x00E5;ri bl&#x00E5;,</l>
+<l>so hoggji han kungen i lytinne tv&#x00E5;.</l>
+</lg>
+<lg>
+<l>10. No heve skj&#x00F8;n Dagm&#x00F8;y forvunni<note type="criticalApp"><hi rend="italic">Alternativ lesem&#x00E5;te:</hi> forvundet</note> sin harm</l>
+<l><del rend="overstrike">ho</del> kv&#x00E6;r n&#x00E5;tt sove h&#x00F3; p&#x00E5; Strangjils arm.</l>
+</lg>
+<lg>
+<l>11. <choice><expan><ex>No heve skj&#x00F8;n Dagm&#x00F8;y forvunni</ex></expan><abbr>&#x2013;</abbr></choice> sin kvide,</l>
+<l><choice><expan><ex>kv&#x00E6;r n&#x00E5;tt sove h&#x00F3;</ex></expan><abbr>&#x2013;</abbr></choice> m&#x00E6;<note type="criticalApp"><hi rend="italic">Alternativ lesem&#x00E5;te:</hi> ved</note> <choice><expan><ex>Strangjils</ex></expan><abbr>&#x2013;</abbr></choice> s&#x00ED;e.</l>
+</lg>
+<figure rend="asterisk"/>
+<p><hi rend="italic">Strofene er unummererte i manuskriptet.</hi></p>
+<p><hi rend="italic">Reinskrift: NFS S. Bugge VI, s. 111</hi></p>
+</div>
+<div type="uchapter" subtype="song" xml:id="BIN1182">
+<head type="sub">Oppskrift C</head>
+<p>TSB C 3: Dronning Dagmar og junker Strange</p>
+<p>Oppskrift: <date when="1913">1913</date> av <name type="collector" corresp="saTH">Torleiv Hannaas</name> etter <name type="source" corresp="kiST">Svein Tveiten</name>, <name type="place">Bykle, Setesdal, Aust-Agder</name>.</p>
+<p>Orig. ms.: EFA T. Hannaas 425, 52</p>
+<p>Oppgjeven tittel: Herr Strangji</p>
+<figure rend="asterisk"/>
+<lg>
+<l n="1">1. &#x00AB;Hott &#x00E6; de fy ein den sorte mann</l>
+<l>som rie sin gangar p&#x00E5; kvitan sand?&#x00BB;</l>
+<l n="ref">&#x2013; I dag sigler junkar Strangji</l>
+<l>mot a skj&#x00F8;n dronning<note type="criticalApp"><hi rend="italic">Alternativ lesem&#x00E5;te:</hi> Jomfru</note> <hi rend="underlined">Dagm&#x00F8;y</hi>. &#x2013;</l>
+</lg>
+<lg>
+<l>2. &#x00AB;Kj&#x00E6;re mi jomfru (du) tala kji so</l>
+<l>for de &#x00E6; den herren som du ska f&#x00E5;.&#x00BB;</l>
+</lg>
+<lg>
+<l>3. &#x00AB;Nei eg vi kje hava den sorte mann</l>
+<l>men du Strangji du sit&#x0027;e so fast i mi hond.&#x00BB;</l>
+</lg>
+<lg>
+<l>4. O <choice><expan>S<ex>trangji</ex> h<ex>an</ex></expan><abbr>S h</abbr></choice> snudde sitt skjip umkring</l>
+<l>h(an) siglde ti bakars i mote-vind.</l>
+</lg>
+<lg>
+<l>5. O <choice><expan>S<ex>trangji</ex> h<ex>an</ex></expan><abbr>S h</abbr></choice> strama sin segl</l>
+<l>. . .</l>
+</lg>
+<figure rend="asterisk"/>
+<p><hi rend="italic">Strofene er unummererte i manuskriptet.</hi></p>
+<p><hi rend="italic">Til venstre for oppskrifta st&#x00E5;r:</hi> Kongen hadde sendt S. av og skulde henta jomfrui <del rend="overstrike">Kongen siglde av og vilde faa jomfrui. Strangji saag paa daa kongen reid paa land</del> S. hadde kytt upp Kongen. Men ho vilde kje ha denne Svartingjen. S. siglde til hennar land att</p>
+<p><hi rend="italic">Under tittelen st&#x00E5;r:</hi> (Etter Knut Bjaai)</p>
+<figure rend="shortHorizRule"/>
+</div>
+</div>
+
+<div type="chapter" n="2" xml:id="TSB_C_5">
+<head type="main"><ref type="contents" target="contents_2" xml:id="chapter_2">TSB C 5 Kong Sverker</ref></head>
+<div type="uchapter" subtype="intro">
+<head type="sub">Innleiing</head>
+<p>Etter at kong Sverker den gamle d&#x00F8;ydde i 1156, kom det ein periode der sverker&#x00E6;tta og eriks&#x00E6;tta kjempa om konged&#x00F8;met i Sverige. D&#x00E5; eriks&#x00E6;tta kom til makta, vart Sverker den unge sendt til Danmark der han voks opp hos mors&#x00E6;tta si. D&#x00E5; kong Knut Eriksson av erikss&#x00E6;tta d&#x00F8;ydde i 1195, s&#x00F8;rgde den mektige jarlen Birger Brosa for at Sverker vart henta heim til Sverige og gjort til konge der. Eriks&#x00E6;tta hadde fleire kongsemne som slo seg saman og s&#x00F8;kte hjelp i Noreg. I januar 1208 kom dei over grensa med ein stor norsk leigeh&#x00E6;r. Sverker den unge hadde f&#x00E5;tt hjelp fr&#x00E5; Danmark &#x2013; kong Valdemar Seier kunne godt tenkje seg &#x00E5; f&#x00E5; ein del av S&#x00F8;r-Sverige som takk.</p>
+<p>Dei to h&#x00E6;rane m&#x00F8;ttest ved Lena kongsgard i vestre G&#x00F6;taland. Gamle kjelder seier at Sverkers h&#x00E6;r var p&#x00E5; 18 000 mann, mens erikss&#x00F8;nene berre hadde 10 000. Desse tala er sikkert overdrivne, men det m&#x00E5; ha vore fleire tusen mann p&#x00E5; kvar side. Arkeologar har funne restar av v&#x00E5;pen, reiskapar og menneskebein over eit sv&#x00E6;rt stort omr&#x00E5;de. Dette skal ha vore eit hardt og sv&#x00E6;rt blodig slag &#x2013; det verste som til d&#x00E5; hadde vore sett i Sverige. Erikss&#x00F8;nene fekk siger, og dei flyktande danskane vart massakrerte. Avgjerande for sigeren var nok at dei norske og svenske soldatane var meir vane med &#x00E5; sl&#x00E5;st i sn&#x00F8;drev og kulde enn dei danske troppane. Sverker den yngre slapp unna med livet, men fall to &#x00E5;r seinare i slaget ved Gestilren. Vi veit ikkje lenger kvar Gestilren er, men det ligg truleg ikkje s&#x00E5; langt unna Lena.</p>
+<p>I motsetning til andre historiske balladar, fortel denne visa dei historiske fakta ganske n&#x00F8;kternt. Sverker ber danskekongen om hjelp til &#x00E5; hemne drapet p&#x00E5; far sin. Han f&#x00E5;r med seg ein h&#x00E6;r fr&#x00E5; Danmark, og dei dreg over &#x00D8;resund og oppover Sverige til Lena. Kampen er hard og Sverker tapar.</p>
+<p>Ei strofe fr&#x00E5; denne visa har vorte spesielt kjend:</p>
+<lg>
+<l>De fruer stande i h&#x00F8;yeloft,</l>
+<l>de vente deres herre skal komme.</l>
+<l>Hestene kommer blodige hjem,</l>
+<l>Og salene de er tomme.</l>
+</lg>
+<p>Denne strofa inspirerte Christian Skredsvig til &#x00E5; m&#x00E5;le biletet &#x00AB;Ballade&#x00BB; i 1881:
+<figure><graphic url="Skredsvig_Ballade.jpg"/></figure></p>
+<p>Visa er kjend i Noreg gjennom <title rend="italic">Kjempeviseboka</title>. I 1860 skreiv Lindeman opp eit vers med melodi etter Torstein Reiarsson Gv&#x00E5;le i Tuddal.</p>
+<p rend="noIndent">DgF 136<lb/>SMB 56</p>
+</div>
+<div type="uchapter" subtype="song" xml:id="BIN6242">
+<head type="sub">Oppskrift A</head>
+<p>TSB C 5: Kong Sverker</p>
+<p>Oppskrift: <title rend="italic">Kjempeviseboka</title>, Anden Part, XX, s. 192&#x2013;197.</p>
+<p>Oppgjeven tittel: Unger Sverke, Konning udi Sverrig.</p>
+<figure rend="asterisk"/>
+<lg>
+<l n="1">1. Det var unge <name>Sverke</name>,</l>
+<l>gaar for Dan Konning at stande;</l>
+<l>Min &#x00E6;dle Herre I det ikke fortryde,</l>
+<l>jeg klager for eder min Vaande.</l>
+<l n="ref">&#x2013; Thi f&#x00F8;re de Riddere deres Skiolde, der gr&#x00E6;der saa mangen. &#x2013;</l>
+</lg>
+<lg>
+<l>2. Min Fader er slagen ihiel med Svig,</l>
+<l>og jeg af Landet dreven:</l>
+<l>Dan Konning I laane mig af eders M&#x00E6;nd,</l>
+<l>jeg kand det &#x00E6;rligen hefne.</l>
+</lg>
+<lg>
+<l>3. Jeg vil laane dig af mine M&#x00E6;nd,</l>
+<l>baade S&#x00E6;dlandsfar og Jude,</l>
+<l>disse ere de beste M&#x00E6;nd,</l>
+<l>som baade kand hugge og skiude.</l>
+</lg>
+<lg>
+<l>4. Jeg vil laane dig <name>Engelbret</name>,</l>
+<l>og der til Herr <name>Carl</name> graa;</l>
+<l>Der er ingen i Sverriges Land,</l>
+<l>som eene kand mod hannem staa.</l>
+</lg>
+<lg>
+<l>5. Jeg vil laane dig Herr <name>Offe Dyre</name>,</l>
+<l>med sit forgyldte Horn;</l>
+<l>Han hugger ned for Foed i Striid,</l>
+<l>som B&#x00F8;nder de meye Korn.</l>
+</lg>
+<lg>
+<l>6. Det var om en hellig S&#x00F8;ndag,</l>
+<l>der Messen var goed at h&#x00F8;re;</l>
+<l>Sverke han rider til &#x00D8;resund,</l>
+<l>han lader sit Folk overf&#x00F8;re.</l>
+</lg>
+<lg>
+<l>7. De lagde ud med deres Snekker fra Lande,</l>
+<l>det var saa faur en Flode;</l>
+<l>De vare vel siu og siusindstive,</l>
+<l>foruden de andre smaa Baade.</l>
+</lg>
+<lg>
+<l>8. Ungeste Sverke stander i fremmer Stavn,</l>
+<l>og seer han ud i Sunde:</l>
+<l>HErre GUd lad os enten Seyer vinde,</l>
+<l>eller siunke her ned til Bunde.</l>
+</lg>
+<lg>
+<l>9. Saa kaste de deres Anker,</l>
+<l>alt paa den hvide Sand;</l>
+<l>Og det var unge Konning Sverke,</l>
+<l>han tr&#x00E6;n der f&#x00F8;rst paa Land.</l>
+</lg>
+<lg>
+<l>10. F&#x00F8;rst drog ungen Engelbret,</l>
+<l>og saa han Herr Carl graa;</l>
+<l>Saa kom ungeste Sverke selv,</l>
+<l>hans Banner var guul og blaa.</l>
+</lg>
+<lg>
+<l>11. Det meldte han ungen Engelbret,</l>
+<l>og saa tog han paa:</l>
+<l>Heer Sverke I sende vore Fiender Bud,</l>
+<l>I lade dem Feide-Bref faa.</l>
+</lg>
+<lg>
+<l>12. Bort da reed den raske Smaadreng,</l>
+<l>hannem skinde Guld paa H&#x00E6;nde:</l>
+<l>Der kunde hverken H&#x00F8;g eller Hund,</l>
+<l>f&#x00F8;lge hannem Dag til Ende.</l>
+</lg>
+<lg>
+<l>13. Ind da kom den liden Smaadreng,</l>
+<l>og steddis han for Bord:</l>
+<l>Han var snild og streng i Tale,</l>
+<l>han kunde vel f&#x00F8;ye sine Ord.</l>
+</lg>
+<lg>
+<l>14. Det da meldte han uden Gammen,</l>
+<l>der til gav han goed Efne:</l>
+<l>Sverke min Herre haver sendt eder Bud,</l>
+<l>sin Faders D&#x00F8;d at hefne.</l>
+</lg>
+<lg>
+<l>15. Hure da t&#x00F8;r du uselige Dreng,</l>
+<l>biude mig Eggen hin hvide;</l>
+<l>Hans Fader stoed mig ikke uden et Hug,</l>
+<l>han bier mig ikke udi Striid.</l>
+</lg>
+<lg>
+<l>16. H&#x00F8;re I Sverrings H&#x00F8;fding bolde,</l>
+<l>I kunde det ikke forunde;</l>
+<l>Op da voxer den liden Hund,</l>
+<l>med hvassen Tand udi Munde.</l>
+</lg>
+<lg>
+<l>17. Det da var den liden smaa Dreng,</l>
+<l>han sprang til Ganger r&#x00F8;ed;</l>
+<l>Det vel jeg for Sandhed eder sige,</l>
+<l>han reed som Fuglen Fl&#x00F8;y.</l>
+</lg>
+<lg>
+<l>18. Hil sidde I unge Konning Sverke,</l>
+<l>og K&#x00E6;mper saa have I fromme;</l>
+<l>I sadle eders Hest, I drage imod,</l>
+<l>eders Fiender monne nu komme.</l>
+</lg>
+<lg>
+<l>19. De droge ad Bierge og Lide,</l>
+<l>og Lene monne de det kalde;</l>
+<l>Der lagde de af deres Kaaber blaa,</l>
+<l>de f&#x00F8;rde sig i Brynie alle.</l>
+</lg>
+<lg>
+<l>20. Tilsammen da droge de &#x00E6;dle Herrer,</l>
+<l>det var saa ynkelig en Leeg;</l>
+<l>Det var ont at stande udi Striid,</l>
+<l>som S&#x00F8;nnen Faderen sveg.</l>
+</lg>
+<lg>
+<l>21. Frem da rede de Danske Hofm&#x00E6;nd,</l>
+<l>de f&#x00F8;rde saa got et Moed;</l>
+<l>De sloge ned de Vester Gyllands M&#x00E6;nd,</l>
+<l>hvor de fore frem for Foed.</l>
+</lg>
+<lg>
+<l>22. Konning Sverke hug og Sverting bed,</l>
+<l>der giordes saa varmt om H&#x00E6;nde;</l>
+<l>Det var saa ynksommelig en Striid,</l>
+<l>som Faderen ikke S&#x00F8;nnen kiende.</l>
+</lg>
+<lg>
+<l>23. Konning Sverke hug og Sverting bed,</l>
+<l>og Hielmene de giordes r&#x00F8;de.</l>
+<l>Det var stoer Ynk i Striden at staa,</l>
+<l>som S&#x00F8;nnen slog Faderen til d&#x00F8;de.</l>
+</lg>
+<lg>
+<l>24. Det var unge Herr Engelbret,</l>
+<l>bl&#x00E6;ser i forgyldene Horn:</l>
+<l>Saa vog han de Vester Gyllands M&#x00E6;nd,</l>
+<l>som B&#x00F8;nder de meye Korn.</l>
+</lg>
+<lg>
+<l>25. Det var Sverriges H&#x00F8;fding saa brad,</l>
+<l>han hug med Sverd saa fast;</l>
+<l>Ikke kunde ungen Sverke andet gi&#x00F8;re</l>
+<l>end b&#x00F8;de for de Kast.</l>
+</lg>
+<lg>
+<l>26. Nu haver jeg standen dig femten Hug,</l>
+<l>ja fleere og ikke ferre;</l>
+<l>Du stander mig et for alle dem,</l>
+<l>alt for din H&#x00F8;fdings &#x00C6;re.</l>
+</lg>
+<lg>
+<l>27. Det var unge Konning Sverke,</l>
+<l>han der ikke lenger b&#x00F8;dte:</l>
+<l>Han hug den H&#x00F8;fding i forgyldte Hielm,</l>
+<l>at Odden i Sadelen m&#x00F8;dte.</l>
+</lg>
+<lg>
+<l>28. De Danske de stoede saa Mandelig bi,</l>
+<l>de Svenske til liden Fromme:</l>
+<l>Langt heller de vilde paa steden d&#x00F8;e,</l>
+<l>end fra Herr Sverke r&#x00F8;mme.</l>
+</lg>
+<lg>
+<l>29. De Svenske vare to og tre mod en,</l>
+<l>thi blev i Krigen stor N&#x00F8;d:</l>
+<l>Saa mangen Ridder der blegnet om Kind,</l>
+<l>saa mangen Hofmand blev d&#x00F8;d.</l>
+</lg>
+<lg>
+<l>30. De vare dem vel otte tusinde Mand,</l>
+<l>der de af Danmark fore hen;</l>
+<l>Vel neppelig Fem og Femtig Mand,</l>
+<l>Komme hiem til Landet igien.</l>
+</lg>
+<lg>
+<l>31. Imellem baade Bierge og dybene Dale,</l>
+<l>der gielder baade Ugle og &#x00D8;rn;</l>
+<l>Der gr&#x00E6;der saa mangen Ydske Enke,</l>
+<l>og halv fleere Faderl&#x00F8;se B&#x00F8;rn.</l>
+</lg>
+<lg>
+<l>32. Imellem de Bierge og dybe Dale,</l>
+<l>der gielder baade Ugle og Ravn.</l>
+<l>Der gr&#x00E6;der saa mangen smuk Festem&#x00F8;e</l>
+<l>haver mist sin Festemand.</l>
+</lg>
+<lg>
+<l>33. De Fruer de stande udi H&#x00F8;yeloft,</l>
+<l>de vente deris Herre skal komme;</l>
+<l>Hestene de komme blodige hiem,</l>
+<l>og Sadlene de vare tomme.</l>
+</lg>
+<lg>
+<l>34. Konning Sverke vinker gjennem gyldene Hielm,</l>
+<l>Haver nu denne Striid en Ende;</l>
+<l>Flygtig Mand ey mister sit Mod,</l>
+<l>han kand engang omvende.</l>
+</lg>
+<lg>
+<l>35. Mine Fiender ere slagen,mine Maue ere d&#x00F8;de,</l>
+<l>det gi&#x00F8;r mig Hiertens Vaande:</l>
+<l>Men lever han Sverke Aar og Dag,</l>
+<l>han kommer igien til Lande.</l>
+</lg>
+<lg>
+<l>36. Her er tabt og her er vunden,</l>
+<l>her forgis paa begge Sider:</l>
+<l>Saa vel troer jeg Dan Konning god,</l>
+<l>til hannem jeg henrider.</l>
+</lg>
+<lg>
+<l>37. Min Fader er slagen med Falsk og Svig,</l>
+<l>og skal jeg Landet r&#x00F8;mme:</l>
+<l>Saa ilde skal det de Opl&#x00E6;ndiske B&#x00F8;nder,</l>
+<l>og deris Medf&#x00F8;lg bekomme.</l>
+</lg>
+<lg>
+<l>38. Og f&#x00F8;rre da skal jeg lade mit unge Liv,</l>
+<l>og Blod og Aand opgive:</l>
+<l>F&#x00F8;rend jeg skal tr&#x00E6;de fra Kongeligt Navn,</l>
+<l>Mine Fiender det overgive.</l>
+</lg>
+<lg>
+<l>39. Indbyrdes Hofferd og hemmelig Had,</l>
+<l>Ford&#x00E6;rvelsens Roed monne v&#x00E6;re:</l>
+<l>En Moder til Kiv, til Kamp og Striid,</l>
+<l>som tager bort Liv og &#x00C6;re.</l>
+</lg>
+<lg>
+<l>40. Den eene den anden ford&#x00E6;rver i Grund,</l>
+<l>naar tvende tilsammen fegtes:</l>
+<l>Saa kommer den Tredie og tager det bort,</l>
+<l>uden Sverdslag hannem ey negtes.</l>
+</lg>
+<figure rend="asterisk"/>
+<p><hi rend="italic">Strofene er nummererte i oppskrifta. Over balladen st&#x00E5;r ei innleiing om den historiske bakgrunnen.</hi></p>
+</div>
+<div type="uchapter" subtype="song" xml:id="BIN4299">
+<head type="sub">Oppskrift B</head>
+<p>TSB C 5: Kong Sverker</p>
+<p>Oppskrift: <date when="1869">1869</date> av <name type="collector" corresp="saLML">Ludvig Mathias Lindeman</name> etter <name type="source" corresp="kiTRG">Torstein Reiarsson Gv&#x00E5;le</name>, <name type="place">Tuddal, Telemark</name>.</p>
+<p>Orig. ms.: NB Mus ms 2456/1860:203, nr. 55, Lindemans manuskriptsamling, her gjengitt etter Ressem 2011.</p>
+<p>Utan oppgjeven tittel.</p>
+<figure rend="asterisk"/>
+<lg>
+<l n="1">1. Fruga stander i h&#x00F8;ia Loft,</l>
+<l>hun ventar sin Herre at komme,</l>
+<l>men Hestene komme saa blodige hjem,</l>
+<l>og Salen&#x0027; dei vare tome.</l>
+<l n="ref">&#x2013; De f&#x00F8;rer de Riddare i deres Skjolde <del rend="overstrike">og</del> der gr&#x00E6;der saa mange. &#x2013;</l>
+</lg>
+<figure rend="asterisk"/>
+<p><hi rend="italic">Strofa er unummerert i manuskriptet.</hi></p>
+<figure rend="shortHorizRule"/>
+</div>
+</div>
+<div type="chapter" n="3" xml:id="TSB_C_6">
+<head type="main"><ref type="contents" target="contents_3" xml:id="chapter_3">TSB C 6 Dronning Dagmars d&#x00F8;d</ref></head>
+<div type="uchapter" subtype="intro">
+<head type="sub">Innleiing</head>
+<p>Dronning Dagmar ligg i barnseng, men f&#x00F8;dselen kjem ikkje i gang. Ho sender bod etter kyndige kvinner som kan hjelpe henne mot smertene, men det blir berre verre, og dei sender bod etter kongen. Men n&#x00E5;r han kjem, er Dagmar alt d&#x00F8;d. Barnet har dei likevel berga. I si sorg ber kongen kvinnene om at dei m&#x00E5; be saman med han om at ho m&#x00E5; livne opp att, og dei blir b&#x00F8;nh&#x00F8;yrde. Dagmar vaknar opp att og kjem med nokre sp&#x00E5;domar og gode r&#x00E5;d, f&#x00F8;r himmelens klokkar kallar p&#x00E5; henne.</p>
+<p>Dagmar fr&#x00E5; B&#x00F8;hmen var kong Valdemar Sejers f&#x00F8;rste hustru. Ho var berre 25 &#x00E5;r da ho d&#x00F8;ydde i barnseng 24. mai 1212. I dansk tradisjon blir ho skildra som mild, god og heiderleg. I visa ber ho om at kongen skal setje alle fangane fri.</p>
+<p>Ho vart hugsa slik utover mellomalderen ogs&#x00E5;, p&#x00E5; grunn av dei fire balladane om henne.</p>
+<lb/><p><hi rend="bold">Datering</hi>
+<lb/>Tidlegare vart balladen om dronning Dagmars d&#x00F8;d brukt som prov p&#x00E5; at det vart dikta balladar i Norden alt tidleg p&#x00E5; 1200-talet. Ein meinte at denne visa m&#x00E5;tte ha vore dikta rett etter hendinga.</p>
+<p>Den svenske forskaren Karl-Ivar Hildeman begynte &#x00E5; tvile p&#x00E5; det. I visa seier Dagmar at sonen hennar, Knut, ogs&#x00E5; m&#x00E5; f&#x00E5; bli konge; men her er det noko som ikkje stemmer. Dagmar hadde f&#x00F8;dd ein son, Valdemar den unge, men denne Knut var ikkje Dagmars son. Han var kongens uekte son med ei jarledotter fr&#x00E5; Sk&#x00E5;ne. Dette visste folk i samtida, og Hildeman meinte at diktaren av visa har henta kunnskapen sin om kongefamilien fr&#x00E5; kongegravene i klosterkyrkja i Ringsted. Der ligg kongen med dei to dronningane p&#x00E5; kvar side. Utanfor Beingjerd ligg hennar tre s&#x00F8;ner, og utanfor Dagmar ligg den uekte sonen, Knut, som om han skulle vore Dagmars son. I omkvedet til visa blir det nettopp vist til grava hennar: &#x00AB;I Ringsted hviles dronning Dagmar&#x00BB;. Hildeman meinte dette kunne bety at visa kunne ha vore dikta hundrevis av &#x00E5;r seinare enn hendinga.</p>
+<p>Visa har vore kjend i Noreg gjennom Peder Syvs kjempevisebok. Lindeman har skrive opp to melodiar til visa: den eine etter Olea Pedersdatter J&#x00F8;lstad, Brandval, den andre etter Samuel Hellen, Vestfold. Catharinus Elling har skrive opp ein melodi etter ein ukjend songar i Tuddal.</p>
+<p rend="noIndent">DgF 135<lb/>SMB 57<lb/>CCF 77</p>
+</div>
+<div type="uchapter" subtype="song" xml:id="BIN6235">
+<head type="sub">Oppskrift A</head>
+<p>TSB C 6: Dronning Dagmars d&#x00F8;d</p>
+<p>Oppskrift: <title rend="italic">Kjempeviseboka</title> II, nr. 25</p>
+<p>Oppgjeven tittel: Dronning Dagmars d&#x00F8;delige Afgang.</p>
+<figure rend="asterisk"/>
+<lg>
+<l n="1">1. Dronning <name>Dagmar</name> ligger i Ribe siug.</l>
+<l>til Ringsted monne de hende vente;</l>
+<l>Alle de Fruer i Danmark ere,</l>
+<l>dem lader hun til sig hente.</l>
+<l n="ref">&#x2013; Udi Ringsted hviles Dronning Dagmar.&#x2013;</l>
+</lg>
+<lg>
+<l>2. I hente mig fire, I hente mig fem,</l>
+<l>I hente mig af de Vise:</l>
+<l>I hente mig liden <name>Kirstine</name>,</l>
+<l>og Herre <name>Carls</name> S&#x00F8;ster af Rise.</l>
+</lg>
+<lg>
+<l>3. I hente mig unge, I hente mig gamle,</l>
+<l>I hente mig af de L&#x00E6;rde;</l>
+<l>I hente mig liden Kirstine bold,</l>
+<l>all &#x00C6;re saa er hun v&#x00E6;rd.</l>
+</lg>
+<lg>
+<l>4. Ind kom liden Kirstine ad D&#x00F8;er,</l>
+<l>hun skinde saa r&#x00F8;ed af Guld;</l>
+<l>Hun kunde ikke Liuset paa Krunen see,</l>
+<l>hendis &#x00D8;yne vare Taarefuld.</l>
+</lg>
+<lg>
+<l>5. Liden Kirstine ind ad D&#x00F8;rren tr&#x00E6;n,</l>
+<l>med Tugt og fauren Sinde;</l>
+<l>Dronning Dagmar staar hende op igien,</l>
+<l>saa vel hun faunede hende.</l>
+</lg>
+<lg>
+<l>6. Kand du l&#x00E6;se og kand du skrive,</l>
+<l>og kand du l&#x00F8;se min Pine;</l>
+<l>Da skalt du slide Skarlagen r&#x00F8;ed,</l>
+<l>og ride paa Gangerne mine.</l>
+</lg>
+<lg>
+<l>7. Kunde jeg l&#x00E6;se og kunde jeg skrive,</l>
+<l>Jeg giorde det jo saa gierne;</l>
+<l>Det vil jeg for Sanden sige,</l>
+<l>eders Pine er haarder end Jern.</l>
+</lg>
+<lg>
+<l>8. Det var liden Kirstine,</l>
+<l>tog Bogen og der udi saae;</l>
+<l>Hielpe Eder GUd Fader i Himmerig,</l>
+<l>eders Pine er haarder end Staal.</l>
+</lg>
+<lg>
+<l>9. Hun tog Bogen udi sin Haand,</l>
+<l>saa s&#x00F8;rgelige derudi l&#x00E6;ste;</l>
+<l>Hielp os Christ i Himmerig,</l>
+<l>at I eders Liv kunde skrifte.</l>
+</lg>
+<lg>
+<l>10. Hun tog L&#x00E6;sten og den hellige Bog,</l>
+<l>hun l&#x00E6;ste alt hvad hun kunde;</l>
+<l>Det vil jeg for sandingen sige,</l>
+<l>saa saare hendes &#x00D8;yne de runde.</l>
+</lg>
+<lg>
+<l>11. De fulde hende ud, de fulde hende ind,</l>
+<l>det lide jo lenger jo verre:</l>
+<l>Medens det kand ikke nu bedre v&#x00E6;re,</l>
+<l>I sende Bud efter min Herre.</l>
+</lg>
+<lg>
+<l>12. Viil GUd det have, det maa saa skee,</l>
+<l>og D&#x00F8;den stander mig fore;</l>
+<l>I sende strax Bud til Skanderborg,</l>
+<l>I finde min Herre der.</l>
+</lg>
+<lg>
+<l>13. Det da var den liden smaa Dreng,</l>
+<l>han loed ikke lenger forlide;</l>
+<l>Og han rygte Sadel fra Bielken ned</l>
+<l>og lagde paa &#x00D8;rs hin hvide.</l>
+</lg>
+<lg>
+<l>14. Og det var den anden smaa Dreng,</l>
+<l>sette sig til Ganger r&#x00F8;ed;</l>
+<l>End reed han langt hastigere frem,</l>
+<l>end snaren Falk han fl&#x00F8;y.</l>
+</lg>
+<lg>
+<l>15. Kongen han stander paa H&#x00F8;yelofts Broe,</l>
+<l>og seer han ud saa vide;</l>
+<l>Og hisset seer jeg min liden smaa Dreng,</l>
+<l>saa s&#x00F8;rgelig monne han qvide.</l>
+</lg>
+<lg>
+<l>16. Hisset seer jeg den liden smaa Dreng,</l>
+<l>saa s&#x00F8;rgelig monne han traa:</l>
+<l>Nu raade GUd Fader i Himmerig,</l>
+<l>alt bure det monnt med Dagmar gaa.</l>
+</lg>
+<lg>
+<l>17. Ind da kom den liden smaa Dreng,</l>
+<l>og stedes han for Bord;</l>
+<l>Hun var snild i Tale,</l>
+<l>han kunde vel f&#x00F8;ye sine Ord.</l>
+</lg>
+<lg>
+<l>18. Dronning Dagmar haver mig til eder send,</l>
+<l>med eder taler hun saa gierne:</l>
+<l>Hun lenges baade fast og overbrat,</l>
+<l>saa saare monne hun sig v&#x00E6;ne.</l>
+</lg>
+<lg>
+<l>19. Dan Konning han slog Taflebord sammen,</l>
+<l>at alle de Terning siunge:</l>
+<l>Forbiude det GUD Fader i Himmerig,</l>
+<l>at Dagmar skulde d&#x00F8;e saa ung.</l>
+</lg>
+<lg>
+<l>20. Der Kongen drog af Skanderborg,</l>
+<l>da fulde hannem hundrede Svenne;</l>
+<l>Og der han kom til Gridstedbro,</l>
+<l>fulde hannem ikkun Dagmars Dreng.</l>
+</lg>
+<lg>
+<l>21. Der han reed over Randbyl Hede,</l>
+<l>da fulde hannem femten Svenne:</l>
+<l>Der han kom over Riber Bro,</l>
+<l>da var den Herre aleene.</l>
+</lg>
+<lg>
+<l>22. Der var stor Ynk i Fruer-Stue,</l>
+<l>der alle de Fruer gr&#x00E6;de:</l>
+<l>Dronning Dagmar d&#x00F8;de i liden Kirstins Arm,</l>
+<l>der Kongen reed op ad Str&#x00E6;de.</l>
+</lg>
+<lg>
+<l>23. Det var Danner Konning,</l>
+<l>han ind ad D&#x00F8;ren treen:</l>
+<l>Det var liden Kirstine hin bolde,</l>
+<l>hun rakte hannem Haanden igien.</l>
+</lg>
+<lg>
+<l>24. Og h&#x00F8;re I Herre og naadige Kong,</l>
+<l>I skulle hverken s&#x00F8;rge eller qvide:</l>
+<l>Og I have faaet en S&#x00F8;n i Dag;</l>
+<l>er skaaren af Dagmars Side.</l>
+</lg>
+<lg>
+<l>25. Jeg beder eder alle Jomfruer og M&#x00F8;er,</l>
+<l>jeg beder eder hver og alle:</l>
+<l>I bede en B&#x00F8;n for Dagmars Si&#x00E6;l,</l>
+<l>at hun maatte med mig tale.</l>
+</lg>
+<lg>
+<l>26. Jeg beder eder Fruer og H&#x00F8;viske Qvinder,</l>
+<l>saa mange som her er inde:</l>
+<l>I bede en Christen B&#x00F8;n for mig,</l>
+<l>at jeg maatte tale med hende.</l>
+</lg>
+<lg>
+<l>27. Saa fulde de paa deres bare Kn&#x00E6;,</l>
+<l>saa mange som der var inde:</l>
+<l>Dem h&#x00F8;rde deres B&#x00F8;n og Kongelig Graad,</l>
+<l>han monne hende levendis finde.</l>
+</lg>
+<lg>
+<l>28. Dronning Dagmar reyser sig op af Baare,</l>
+<l>hendes &#x00D8;yne vare blodige r&#x00F8;de:</l>
+<l>Ah min &#x00C6;dle Herre Kong Valdemar,</l>
+<l>hvi gi&#x00F8;r I mig denne M&#x00F8;de.</l>
+</lg>
+<lg>
+<l>29. Her t&#x00F8;r ingen Mand reddes for mig,</l>
+<l>jeg haver ikke andet Ont giort:</l>
+<l>End at jeg min Silke-Ermer smaa,</l>
+<l>om S&#x00F8;ndagen haver sn&#x00F8;rd.</l>
+</lg>
+<lg>
+<l>30. Den f&#x00F8;rste B&#x00F8;n den jeg eder beder,</l>
+<l>den vide I mig saa gierne:</l>
+<l>alle Fredl&#x00F8;se M&#x00E6;nd, dem give I Fred,</l>
+<l>og lade alle Fanger af Jern.</l>
+</lg>
+<lg>
+<l>31. Den anden B&#x00F8;n jeg beder om,</l>
+<l>den kommer eder selv til fromme:</l>
+<l>I tage ikke ved <name>Berngerd</name> i Aar,</l>
+<l>hun er saa beesk en Blomme.</l>
+</lg>
+<lg>
+<l>32. Den tredie B&#x00F8;n og st&#x00F8;rste Begiere,</l>
+<l>I tage saa vel til vare:</l>
+<l>I lade ikke vor ki&#x00E6;re yngste S&#x00F8;n,</l>
+<l>I Aar udi Ledning fare.</l>
+</lg>
+<lg>
+<l>33. I lade hannem Konning i Danmark v&#x00E6;re,</l>
+<l>naar I gaae selv til d&#x00F8;de:</l>
+<l>Berngerd vil eder en anden f&#x00F8;de,</l>
+<l>som hannem agter at for&#x00F8;de.</l>
+</lg>
+<lg>
+<l>34. I tage liden Kirstine til eders Viv,</l>
+<l>hun er saa stolt en Jomfru:</l>
+<l>Men gaar det eder anderledes i H&#x00E6;nde,</l>
+<l>da kommer I mig i Hu.</l>
+</lg>
+<lg>
+<l>35. Denne B&#x00F8;n som I nu bede mig om,</l>
+<l>den vider jeg eder saa gierne:</l>
+<l>Jeg tager aldrig liden Kirstine til Viv,</l>
+<l>eller nogen Verdens Terne.</l>
+</lg>
+<lg>
+<l>36. Ville I ikke &#x00E6;gte liden Kirstine,</l>
+<l>og ey nogen Jorderigs Terne:</l>
+<l>Da skulle I fare til Portugal,</l>
+<l>alt efter saa beesk en Veene.</l>
+</lg>
+<lg>
+<l>37. Havde jeg ikke mine Ermer om S&#x00F8;ndag sn&#x00F8;rd,</l>
+<l>og ikke der Striger paa sat:</l>
+<l>Da havde jeg ikke syndet der med,</l>
+<l>og havt saa ond en Nat.</l>
+</lg>
+<lg>
+<l>38. H&#x00F8;re I det min &#x00E6;dle Herre,</l>
+<l>ville I meere af mig vide;</l>
+<l>Der sidde Guds Engle i Himmerigs Rige,</l>
+<l>de monne fast efter mig lide.</l>
+</lg>
+<lg>
+<l>39. Nu er det Tid jeg farer herfra,</l>
+<l>jeg maa ikke lenger dv&#x00E6;le:</l>
+<l>Himmerigs Klokker de ringe efter mig,</l>
+<l>mig lenges hen til de Si&#x00E6;le.</l>
+</lg>
+</div>
+<div type="uchapter" subtype="song" xml:id="BIN1186">
+<head type="sub">Oppskrift B</head>
+<p>TSB C 6: Dronning Dagmars d&#x00F8;d</p>
+<p>Oppskrift: <date when="1913">1913</date> av <name type="collector" corresp="saJB">Johanna Berge</name> etter <name type="source" corresp="kiSR">Svein Bendiksson Rindebakken/Rui</name>, <name type="place">Fyresdal, Telemark</name>.</p>
+<p>Orig. ms.: TGM R. Berge CCLIII, s. 35 f.</p>
+<p>Oppgjeven tittel: Dronning Dagmar</p>
+<figure rend="asterisk"/>
+<p>Ho gjore bars&#x00F8;l aa s&#x00F3; blei d&#x00E6; allt v&#x00E6;rre aa v&#x00E6;rre.</p>
+<lg>
+<l n="1">1. Di ledte henne ut, de lette henne inn</l>
+<l>Jo lengre jo v&#x00E6;rre</l>
+<l>aa blive d&#x00E6; inkje onno raa,</l>
+<l>so sende b&#x00F3; ette vor herre.</l>
+<l n="ref">&#x2013; Udi Ringste hviler dronning <name>Dagmor</name> &#x2013;</l>
+</lg>
+<lg>
+<l>2. Den eine rykte salen a bjelken n&#x00E9;</l>
+<l>aa den aen sette sig te aa rie</l>
+<l>Aa han rei s&#x00F3; f&#x00F3;rt</l>
+<l>som den ville fugl monne flyge</l>
+</lg>
+<p>Da s&#x00E5;gn&#x0027;n <add place="above">kongjen</add> Dagmars dreng kom rians. S&#x00F3; resste kongjen heim ti droningji.</p>
+<lg>
+<l>3. Vil du kje take liti <name>Kjersti</name> t&#x00ED; viv</l>
+<l>ei heller noko ve<add place="above">r</add>dens terne</l>
+<l>S&#x00F3; reiser du<del rend="overstrike">g</del> deg t&#x00ED; Portogal</l>
+<l>etter den beske v&#x00E9;rne</l>
+</lg>
+<figure rend="asterisk"/>
+<p><hi rend="italic">Strofene er unummererte av samlaren.</hi></p>
+<p><hi rend="italic">Etter teksten st&#x00E5;r det:</hi> D&#x00E6; va ein aen vise. Hann resste ti Portugal aa tok den vonde. Ho var eitt troll.</p>
+<lg>
+<l>&#x00AB;&#x00C6; du vonde smaa</l>
+<l>Helvete sk&#x00F2; du vente</l>
+<l>Men &#x00E6; du snille m&#x00E6; b&#x00F2;nni mi</l>
+<l>Bea sk&#x00F2; eg f&#x00E9; sjeli di</l>
+<l n="ref">&#x2013; Tongt &#x00E6; d&#x00E6; aa tr&#x00F2; dansen onde m&#x00F3;llen. &#x2013;</l>
+</lg>
+</div>
+<div type="uchapter" subtype="song" xml:id="BIN6236">
+<head type="sub">Oppskrift C</head>
+<p>TSB C 6: Dronning Dagmars d&#x00F8;d</p>
+<p>Oppskrift: <date when="1915">1915</date> av <name type="collector" corresp="saGTK">Gunhild T. Kivle</name> (for Rikard Berge) etter <name type="source" corresp="kiNN">ukjend songar</name> (Eivind Aasen, Seljord?).</p>
+<p>Orig. ms.: TGM R. Berge CCLXVIII, s. 70&#x2013;73</p>
+<p>Utan oppgjeven tittel.</p>
+<figure rend="asterisk"/>
+<lg>
+<l n="1">1. Aa de va <name>Valdemar</name> Danekongen</l>
+<l>til <name>Dagmars</name> baare han tren</l>
+<l>og det va liten <name>Kirsten</name></l>
+<l>bolde hun ragte ham haaden ijen</l>
+<l n="ref">&#x2013; Udi Ringsted hviler draaningen Dagmar</l>
+</lg>
+<lg>
+<l>2. Og h&#x00F8;r i min herre og konge prud</l>
+<l>i t&#x00F8;r ikke klage aa kvinde</l>
+<l>for i havet faaet en s&#x00F8;n i dag</l>
+<l>er skaaret af Dagmars side</l>
+</lg>
+<lg>
+<l>3. Jeg beder eder alle jomfruer og m&#x00F8;r</l>
+<l>jeg beder eder ver og alle</l>
+<l>i beder en b&#x00F8;n for dagmars sj&#x00E6;l</l>
+<l>at hun maate med mig tale</l>
+</lg>
+<lg>
+<l>4. Saa falde de ned paa deres kn&#x00E6;</l>
+<l>saa mange som der var inde</l>
+<l>for mindelig b&#x00F8;n og kongelig graad</l>
+<l>lad Dagmar sig levende finde</l>
+</lg>
+<lg>
+<l>5. Dronning Dagmar reste sig op paa baar</l>
+<l>hendes &#x00F8;ine var blodige r&#x00F8;de</l>
+<l>Min &#x00E6;delig herre kong Valdemar</l>
+<l>hui jorde de mig den m&#x00F8;de</l>
+</lg>
+<lg>
+<l>6. Dog ingen t&#x00F8;r vel reddes for mig</l>
+<l>jeg haver ei andet misjort</l>
+<l>en at mine silkesermer smaa</l>
+<l>jeg haver om s&#x00F8;ndagen sn&#x00F8;rt</l>
+</lg>
+<lg>
+<l>7. Den f&#x00F8;rste b&#x00F8;n jeg beder nu</l>
+<l>den undes mig som eg tenker</l>
+<l>alle fredlyse men den giver i fred</l>
+<l>og l&#x00F8;s alle fanger af lenker</l>
+</lg>
+<lg>
+<l>8. Den anden b&#x00F8;n jeg beder om</l>
+<l>den er eder selv til fromme</l>
+<l>i tager ei <name>Bengerd</name> udi favn</l>
+<l>hun er saa besk en blomme</l>
+</lg>
+<lg>
+<l>9. I tager liden <name>Kirsten</name> til eders viv</l>
+<l>hun er saa baald en jomfru</l>
+<l>men falder det anderledes i haand</l>
+<l>da kommer i mig i hu</l>
+</lg>
+<lg>
+<l>10. Den f&#x00F8;rste b&#x00F8;n i beder mig om</l>
+<l>den under jeg eder saa j&#x00E6;rne</l>
+<l>men jeg tager ei liten Kirstin til viv</l>
+<l>heller nogen verdens t&#x00E6;rne</l>
+</lg>
+<lg>
+<l>11. Vil ikke i tage liden Kirstin til viv</l>
+<l>eller nogen verdens t&#x00E6;rne</l>
+<l>saa farer i til portugal</l>
+<l>alt efter saa besk en v&#x00E6;rne</l>
+</lg>
+<lg>
+<l>12. Min &#x00E6;delig herre nu har jeg talt</l>
+<l>vil mer af mig i vide</l>
+<l>der sider Guds engle i Himmerik</l>
+<l>de maa fast efter mig lide</l>
+</lg>
+<lg>
+<l>13. Nu er det tid jeg farer her fra</l>
+<l>jeg maa ikke lenger dv&#x00E6;le</l>
+<l>Himmeriks klokker de ringe for mig</l>
+<l>mig l&#x00E6;nges til frome sj&#x00E6;le</l>
+</lg>
+<figure rend="asterisk"/>
+<p>Strofene er unummererte av samlaren.</p>
+<figure rend="shortHorizRule"/>
+</div>
+</div>
+<div type="chapter" n="4" xml:id="TSB_C_8">
+<head type="main"><ref type="contents" target="contents_4" xml:id="chapter_4">TSB C 8 Vreta klosterrov</ref></head>
+<div type="uchapter" subtype="intro">
+<head type="sub">Innleiing</head>
+<p>Kong Magnus av Sverige har sett dotter si, Elin eller Helene, i Vreta kloster. I ein draum f&#x00E5;r ho likevel eit varsel om at ho skal bli gift med Sune Folkesson. Mens kong Magnus ligg for d&#x00F8;den, kjem Sune og mennene hans og tek Elin ut av klosteret.</p>
+<p>Ho f&#x00E5;r tre d&#x00F8;trer med Sune, men ho f&#x00E5;r ikkje lov til &#x00E5; sj&#x00E5; borna sine. P&#x00E5; d&#x00F8;dssenga ber ho om &#x00E5; f&#x00E5; sj&#x00E5; jentene og ta avskil med dei. Sune ber henne om &#x00E5; tilgje han, men ho nektar.</p>
+<p>Denne visa har vorte karakterisert som den svenske balladediktingas flaggskip, og visa er ei av dei som har vore mest diskutert mellom forskarane. B&#x00E5;de Elin Sverkersdotter og Sune Folkesson er historiske personar, og dei var gifte med kvarandre, men visa er full av feil og inneheld episodar som m&#x00E5; ha vorte dikta til i seinare tid. Elin var kongsdotter, men far hennar het ikkje Magnus, men Sverker Karlsson, og det er ingen historiske kjelder som tyder p&#x00E5; at Sune r&#x00F8;va henne fr&#x00E5; klosteret. Det er heller ikkje sannsynleg; dersom han hadde r&#x00F8;va kongsdottera, kunne ein venta seg ein kraftig reaksjon fr&#x00E5; kongen og hans menn.</p>
+<p>Derimot vart dotter til Sune og Elin, Benedikta, r&#x00F8;va av Lars Pettersson i 1244 eller 1245, og dotterdottera var Ingrid Svantepolksdotter som vart r&#x00F8;va av Folke Algotsson (son til lagmannen Algot Brynolfsson) i 1288. B&#x00E5;e desse bruderova er skildra i balladar, og <ref type="external" target="http://www.bokselskap.no/boker/historiskeballadar/tsb_c15_falkvor">visa om Folke Lagmannsson (TSB C 15)</ref> er mellom dei mest popul&#x00E6;re i Noreg.</p>
+<p>Visa om Vreta klosterrov har vore kjend i Noreg gjennom Peder Syvs kjempevisebok.</p>
+<p>Olav Kjetilsson Stigen fr&#x00E5; Tuddal song femte verset av denne visa for L. M. Lindeman, og Torstein Reiarsson Gv&#x00E5;le i Tuddal song f&#x00F8;rste verset til ein annan melodi.</p>
+<p rend="noIndent">DgF 138<lb/>SMB 59</p>
+</div>
+<div type="uchapter" subtype="song" xml:id="BIN6237">
+<head type="sub">Oppskrift A</head>
+<p>TSB C 8: Vreta klosterrov</p>
+<p>Oppskrift: <title rend="italic">Kjempeviseboka</title>, Fjerde Part, nr. 13, s. 433&#x2013;437</p>
+<p>Oppgjeven tittel: Som Begyndelsen, saa og gemeenligen Enden.</p>
+<figure rend="asterisk"/>
+<lg>
+<l n="1">1. <name>Magnus</name> var Kong i Sverrig,</l>
+<l>Og aatte de D&#x00F8;ttre to;</l>
+<l>De vare dem baade unge og smaa,</l>
+<l>Der dem falde Moder fra.</l>
+<l n="ref">&#x2013; Saa vide da legge de Helte deres veye over Sverrig. &#x2013;</l>
+</lg>
+<lg>
+<l>2. H&#x00F8;r du stolten <name>Ellen</name>,</l>
+<l>Og kiere Doeter min,</l>
+<l>Vilt du give dig i Kloster,</l>
+<l>For kiere Moder din?</l>
+</lg>
+<lg>
+<l>3. Ja saam&#x00E6;nd min kiere Fader,</l>
+<l>Det maa vel saa v&#x00E6;re;</l>
+<l>Jeg vil give mig i Vrede-Kloster,</l>
+<l>Der vil jeg leve med &#x00E6;re.</l>
+</lg>
+<lg>
+<l>4. Det var stolten Ellen,</l>
+<l>Hun skrev de Breve paa stand,</l>
+<l>Hun sende dem Kongen af Spanien,</l>
+<l>De kom Herr Sonne til Haand.</l>
+</lg>
+<lg>
+<l>5. Saa vide legge de Helte deres veye,</l>
+<l>Saa vide over Sverriges land;</l>
+<l>Saa ilde giorde <name>Sonne Folkersen</name>,</l>
+<l>Han br&#x00F8;d den jomfrues brev.</l>
+</lg>
+<lg>
+<l>6. Det var Sonne Folkersen,</l>
+<l>Han taled til sin broder <name>Knud</name>,</l>
+<l>Vi ville os nu fare af sted,</l>
+<l>Og ride til Oplanden ud.</l>
+</lg>
+<lg>
+<l>7. De rede i saa saare,</l>
+<l>Alt til Oplanden ud,</l>
+<l>De komme for den Storeport,</l>
+<l>De b&#x00F8;de Kong Magnus ud.</l>
+</lg>
+<lg>
+<l>8. Det da svarede den Portener,</l>
+<l>Og en af Kongens M&#x00E6;nd,</l>
+<l>Kongen ligger i sin Helsot,</l>
+<l>Han tael ikke med eder meere.</l>
+</lg>
+<lg>
+<l>9. Saa glade vare de Herrer to,</l>
+<l>Der de h&#x00F8;rde tidende fro;</l>
+<l>End skal vi aften gieste</l>
+<l>Den Allerski&#x00F8;nneste jomfru.</l>
+</lg>
+<lg>
+<l>10. De rede dem saa flux af sted,</l>
+<l>Hen til Oplanden ind,</l>
+<l>De komme for den Kloster-port,</l>
+<l>De rysted' udi den ring.</l>
+</lg>
+<lg>
+<l>11. De rede for den Kloster-port;</l>
+<l>Og rysted&#x0027; i den Ring:</l>
+<l>Stat op liden porte-pige,</l>
+<l>Og lad os snart herind.</l>
+</lg>
+<lg>
+<l>12. Den tid de komme i Kloster,</l>
+<l>Udi den omgang ind,</l>
+<l>Der m&#x00F8;der liden tienestem&#x00F8;,</l>
+<l>Hun var vel sv&#x00F8;bt i skind.</l>
+</lg>
+<lg>
+<l>13. H&#x00F8;r du liden tienestem&#x00F8;,</l>
+<l>Hvad jeg vil nu sige dig,</l>
+<l>Veedstu hvor den jomfru er,</l>
+<l>Du d&#x00F8;lg det ikke for mig.</l>
+</lg>
+<lg>
+<l>14. Huset er af Marmor,</l>
+<l>Og Taget udaf bly,</l>
+<l>Sengen er med silke bredt,</l>
+<l>En jomfru sover der i.</l>
+</lg>
+<lg>
+<l>15. Der vare de i dage,</l>
+<l>De vare der i to,</l>
+<l>De kunde ikke i kammeret komme,</l>
+<l>For Kongens taffelsvenne smaa.</l>
+</lg>
+<lg>
+<l>16. De kunde ikke i Kammeret komme,</l>
+<l>For god&#x0027; eller onde ord,</l>
+<l>F&#x00F8;rend de hugge de taffelsvenne tolv,</l>
+<l>Saa de fulde d&#x00F8;de til jord.</l>
+</lg>
+<lg>
+<l>17. Saa snart da blev den kammerd&#x00F8;r,</l>
+<l>Saa snart af hengsler l&#x00F8;st;</l>
+<l>Og det vare stolten Ellen,</l>
+<l>Hun blev af sengen rykt.</l>
+</lg>
+<lg>
+<l>18. Hvo bryder Vrede-kloster,</l>
+<l>Og hvo saa gaar her ind,</l>
+<l>og hvo t&#x00F8;r slukke de natte-lys,</l>
+<l>Alt over hin stolte <name>Ellin</name>.</l>
+</lg>
+<lg>
+<l>19. Herr Sonne han bryder Vrede-kloster,</l>
+<l>De Riddere gaae der ind,</l>
+<l>Selv slykker jeg de nat-lys,</l>
+<l>Alt over hin stolte Ellin.</l>
+</lg>
+<lg>
+<l>20. Oben-hoved og barfoded,</l>
+<l>Og saa kom hun af d&#x00F8;r,</l>
+<l>Aldrig h&#x00F8;rde jeg noget Konge-barn,</l>
+<l>saa usel af klosteret f&#x00F8;rdt.</l>
+</lg>
+<lg>
+<l>21. Hun var hos ham i vintre,</l>
+<l>Hun var hos hannem i ni,</l>
+<l>Aldrig var hende saa vee eller vel,</l>
+<l>Hun taled med ham i di.</l>
+</lg>
+<lg>
+<l>22. Det var stolten Ellin,</l>
+<l>Hun lagdes i longe traa,</l>
+<l>Hun sendte bud efter Herr Sonne,</l>
+<l>Bad han skulde til hende gaa.</l>
+</lg>
+<lg>
+<l>23. L&#x00E6;nge stod Herr Sonne,</l>
+<l>Og tenkte han ved sig;</l>
+<l>Hvi monne stolte Ellin,</l>
+<l>Nu sende bud efter mig?</l>
+</lg>
+<lg>
+<l>24. Ind saa kom Herr Sonne,</l>
+<l>Og stedes han for Bord,</l>
+<l>Hvad vil i nu stolt Ellin,</l>
+<l>Hvi haver i sendt mig ord.</l>
+</lg>
+<lg>
+<l>25. Jeg haver faaet min helsot,</l>
+<l>Jeg veed jeg skal nu d&#x00F8;e,</l>
+<l>Jeg takker GUd Fader i Himmerig,</l>
+<l>Som mig haver l&#x00F8;st af n&#x00F8;d.</l>
+</lg>
+<lg>
+<l>26. Han tog hende i sin Arm,</l>
+<l>Klapped hende ved hviden kind,</l>
+<l>Forlader j mig al br&#x00F8;de,</l>
+<l>Hiertallerkiereste min.</l>
+</lg>
+<lg>
+<l>27. Jeg kan eder ikke forlade,</l>
+<l>Alt for saa megen vee;</l>
+<l>Jeg haver med eder de d&#x00F8;ttre tre,</l>
+<l>Jeg maatte dem aldrig see.</l>
+</lg>
+<lg>
+<l>28. Lader j nu den sorten jord,</l>
+<l>Hen over med silke brede,</l>
+<l>Og lader j nu de ski&#x00F8;nne jomfruer,</l>
+<l>For deres moder indlede.</l>
+</lg>
+<lg>
+<l>29. Der da var den sorte jord,</l>
+<l>Hun blev med silke bredt,</l>
+<l>Det da var de ski&#x00F8;nne jomfruer,</l>
+<l>De bleve i stuen ledt.</l>
+</lg>
+<lg>
+<l>30. Velkommen stolten <name>Ingerlild</name>,</l>
+<l>Alt med det faure haar,</l>
+<l>Og velkommen stolten <name>Karen</name>,</l>
+<l>Og Kongens Festemaar.</l>
+</lg>
+<lg>
+<l>31. Velkommen liden <name>Kirstin</name>,</l>
+<l>Og yngste Dotter min,</l>
+<l>Viltu give dig i kloster</l>
+<l>For kiere Moder din.</l>
+</lg>
+<lg>
+<l>32. Svarede det liden Kirsten,</l>
+<l>jeg siger det paa min sand:</l>
+<l>H&#x00F8;r j min kiere Moder,</l>
+<l>Jeg lover mig heller en Mand.</l>
+</lg>
+<lg>
+<l>33. Det var stolten Ellen,</l>
+<l>Hun gr&#x00E6;d af angest og harm:</l>
+<l>Maatte mig ikke vides en b&#x00F8;n</l>
+<l>Udaf mit eget barm.</l>
+</lg>
+<lg>
+<l>34. Svarede det liden Kirsten,</l>
+<l>Hende rand taare paa kind;</l>
+<l>Jeg vil mig gierne i kloster give,</l>
+<l>Fra kiere Moder min.</l>
+</lg>
+<lg>
+<l>35. Bliver du der indgiven</l>
+<l>Udi en fille-serk,</l>
+<l>End bliver du der uddragen,</l>
+<l>Alt med stor hiertens verk.</l>
+</lg>
+<lg>
+<l>36. Han tog hende anden gang i sin arm,</l>
+<l>Klapped hende ved hviden kind,</l>
+<l>Forlader mig al br&#x00F8;den,</l>
+<l>Hiert-allerkieriste min.</l>
+</lg>
+<lg>
+<l>37. Jeg kan eder ikke forlade,</l>
+<l>Alt for saa megen Harm;</l>
+<l>I haver taget min tienesteqvinde,</l>
+<l>Og lagd hende i eders Arm.</l>
+</lg>
+<lg>
+<l>38. I haver taget min tienesteqvinde,</l>
+<l>Lagd hende paa bolster blaa,</l>
+<l>Mig haver j af sengen skudt,</l>
+<l>udi de bare straa.</l>
+</lg>
+<lg>
+<l>39. Han tog hende tredie gang i sin arm,</l>
+<l>Klapped hende ved hviden kind,</l>
+<l>forlader i mig al br&#x00F8;den,</l>
+<l>Hiert-allerkieriste min.</l>
+</lg>
+<lg>
+<l>40. Hun tog Guldringene af sine H&#x00E6;nder,</l>
+<l>Slog dem mod sorten jord;</l>
+<l>I tog mig ud af kloster,</l>
+<l>Mig selv saa meget imod.</l>
+</lg>
+<lg>
+<l>41. I tog mig af kloster,</l>
+<l>Mig selv saa meget imod,</l>
+<l>I slog de taffelsvenne tolv,</l>
+<l>Der gik endnu aldrig for bod.</l>
+</lg>
+<lg>
+<l>42. Frem da ginge de Jomfruer tre,</l>
+<l>Og dem rand taare paa kind,</l>
+<l>Saa bade de strax Venskab,</l>
+<l>Deres Fader af Moder sin.</l>
+</lg>
+<lg>
+<l>43. Det var stolten Ellen,</l>
+<l>Hun legges til veggen i dvale,</l>
+<l>Det vil jeg for sandingen sige,</l>
+<l>Hun d&#x00F8;de ved den tale.</l>
+</lg>
+<lg>
+<l>44. Saa toge de stolt Ellen,</l>
+<l>Lagde hende i sorten jord,</l>
+<l>Saa saare s&#x00F8;rgede Herr Sonne,</l>
+<l>For han var hend&#x0027; ikke god.</l>
+</lg>
+<figure rend="asterisk"/>
+<p><hi rend="italic">Strofene er nummererte i oppskrifta.</hi></p>
+<p><hi rend="italic">Etter viseteksten st&#x00E5;r denne forklaringa:</hi> Dette synes ikke at have v&#x00E6;ret nogen anden Konning, end K. Magnus Ladelaas, enddog der vare og andre Konger i Sverrig af Magni Navn. / K. Magnus lod bygge mange Klostere, og blant dem eet, hvorudi han s&#x00E6;tte sin Dotter, siu Aar gammel, med andre Kvinner, som f&#x00F8;lgede S. Franses Regel. Men det Kloster var ved Stokholm, og blev kaldet S. Clar&#x00E6; Kloster. Han kaldtes Ladelaas, fordi der var god Fred i hans Tid, saa man havde ey behov at s&#x00E6;tte Laas for Laden &#x2026; / Om denne Herr Sonne, og ander som her findes, angaaende denne Voldt&#x00E6;gt, veed jeg intet mig at have l&#x00E6;st nogensteds i de Svenske Kr&#x00F8;niker. Det skeer ofte, som jeg erindrede tilforn, at der findes allehaande Historisk i Viserne, som ey engang i de rette Historier.</p>
+</div>
+<div type="uchapter" subtype="song" xml:id="BIN1192">
+<head type="sub">Oppskrift B</head>
+<p>TSB C 8: Vreta klosterrov</p>
+<p>Oppskrift: <date when="1860">1860</date> av <name type="collector" corresp="saLML">Ludvig Mathias Lindeman</name> etter <name type="source" corresp="kiOKS">Olav Kjetilsson Stigen</name>, <name type="place">Tuddal, Telemark</name>.</p>
+<p>Orig. ms.: NB Mus ms 2456/1860:203, nr. 26, Lindemans manuskriptsamling, her gjengitt etter Ressem 2011.</p>
+<p>Utan oppgjeven tittel.</p>
+<figure rend="asterisk"/>
+<lg>
+<l n="1">1. Saa vide de leika de<note type="criticalApp"><hi rend="italic">retta fr&#x00E5;:</hi> deres</note> Heltar</l>
+<l>deres Vei<note type="criticalApp"><hi rend="italic">retta fr&#x00E5;:</hi> Vei saa vide</note> over Sveriges Land</l>
+<l>saa ilde gjore Hr. <name>Sone Folkvardson</name></l>
+<l>han br&#x00F8;t de Jomfruers Brev.</l>
+<l n="ref">&#x2013; Saa vide de leika de Heltar deres Vei over Svergje. &#x2013;</l>
+</lg>
+<figure rend="asterisk"/>
+<p><hi rend="italic">Strofa er unummerert i manuskriptet.</hi></p>
+</div>
+<div type="uchapter" subtype="song" xml:id="BIN1193">
+<head type="sub">Oppskrift C</head>
+<p>TSB C 8: Vreta klosterrov</p>
+<p>Oppskrift: <date when="1860">1860</date> av <name type="collector" corresp="saLML">Ludvig Mathias Lindeman</name> etter <name type="source" corresp="kiTRG">Torstein Reiarsson Gv&#x00E5;le</name>, <name type="place">Tuddal, Telemark</name>.</p>
+<p>Orig. ms.: NB Mus ms 2456/1860:203, nr. 63, Lindemans manuskriptsamling, her gjengitt etter Ressem 2011.</p>
+<p>Utan oppgjeven tittel.</p>
+<figure rend="asterisk"/>
+<lg>
+<l n="1">1. <name>Magnus</name> va Kongje i Svergje</l>
+<l>han aatte dei D&#x00F8;ttan to</l>
+<l>og dem va baade unge og smaa</l>
+<l>da dem falder Moderen fra</l>
+<l n="ref">&#x2013; Saa vide leika de Helta saa vidt ivi Svergje. &#x2013;</l>
+</lg>
+<figure rend="asterisk"/>
+<p><hi rend="italic">Strofa er unummerert i manuskriptet.</hi></p>
+<figure rend="shortHorizRule"/>
+</div>
+</div>
+<div type="chapter" n="5" xml:id="TSB_C_11">
+<head type="main"><ref type="contents" target="contents_5" xml:id="chapter_5">TSB C 11 H&#x00E5;kon H&#x00E5;konssons d&#x00F8;d</ref></head>
+<div type="uchapter" subtype="intro">
+<head type="sub">Innleiing</head>
+<p>Denne visa er berre kjend fr&#x00E5; eit dansk visehandskrift skriven om lag 1580. Den danske historikaren Anders S&#x00F8;rensen Vedel pynta litt p&#x00E5; teksten og la til fem strofer for &#x00E5; f&#x00E5; henne til &#x00E5; henge betre saman. Denne teksten sette han inn i Hundreviseboka. Derifr&#x00E5; vart han trykt oppatt i Peder Syvs kjempevisebok. Innhaldet i visa tyder likevel p&#x00E5; at ho er norsk, ogs&#x00E5; fordi det er fleire norske ord i teksten. Vi har ikkje noko som tyder p&#x00E5; at visa har vore sungen korkje i Noreg eller Danmark etter mellomalderen.</p>
+<p>Visa slik ho er no m&#x00E5; vere eit fragment. Dei 19 f&#x00F8;rste strofene fortel om kong H&#x00E5;kon H&#x00E5;konssons tokt til Skottland for &#x00E5; forsvare Suder&#x00F8;yane (Hebridane), som skottekongen hadde gjort krav p&#x00E5;. H&#x00E5;kon H&#x00E5;konsson d&#x00F8;ydde oppunder jul 1263 mens fl&#x00E5;ten l&#x00E5;g i vinterkvarter p&#x00E5; Orkn&#x00F8;yane.</p>
+<p>Den andre delen av teksten m&#x00E5; ha vore fr&#x00E5; ei anna vise, for ho fortel om barnebarnet H&#x00E5;kon V Magnussons d&#x00F8;d i 1319. Teksten kallar han &#x00AB;Hellede Hogen Koning&#x00BB;, og H&#x00E5;kon Magnusson vart faktisk &#x00E6;ra som helgen. Dyrkinga var godkjend av Pave Leo X.</p>
+<p>N&#x00E5;r kongen i visa ber om &#x00E5; bli gravlagt i Mariakyrkja, m&#x00E5; det vere H&#x00E5;kon V Magnusson. Han vart gravlagd i Mariakyrkja i Oslo, mens bestefaren H&#x00E5;kon H&#x00E5;konsson vart frakta heim fr&#x00E5; Orkn&#x00F8;yane og gravlagd i Kristkyrkja p&#x00E5; Holmen i Bergen.</p>
+<p rend="noIndent">Utsyn 179<lb/>DgF 142</p>
+</div>
+<div type="uchapter" subtype="song" xml:id="BIN1194">
+<head type="sub">Oppskrift A</head>
+<p>TSB C 11: H&#x00E5;kon H&#x00E5;konssons d&#x00F8;d</p>
+<p>Oppskrift: <date when="1580">ca 1580</date> etter &#x00AB;Rentzels h&#x00E5;ndskrift&#x00BB;, nr. 32, gjengitt i DgF 142 A.</p>
+<p>Utan oppgjeven tittel.</p>
+<figure rend="asterisk"/>
+<lg>
+<l n="1">1. Thett er nu skiedt,</l>
+<l>som spaait haffuer veritt for lange</l>
+<l>om hin hellige <name>Hogen</name> koning:</l>
+<l>Norige haffuer hand fangit.</l>
+<l n="ref">&#x2013; Och saar er mi<hi rend="italic">n</hi> handt aff then brimie. &#x2013;</l>
+</lg>
+<lg>
+<l>2. Biuder hand udt aff Norie</l>
+<l>saa mangen gumstig mandt</l>
+<l>bode met kost och werie:</l>
+<l>til Skaatlandt achter handt.</l>
+</lg>
+<lg>
+<l>3. Bynder hand ud aff Norie</l>
+<l>saa mangen som suerdt kunde bere:</l>
+<l>war ther nogen mi<hi rend="italic">n</hi>de-mandt,</l>
+<l>tha haffde hand loff hiemme att were.</l>
+</lg>
+<lg>
+<l>4. Thett war hellige Hogen koning,</l>
+<l>hand seer &#x00F8;ffuer alt sin ledt:</l>
+<l>&#x00AB;Huor er <name>Olluff Andfinssen</name>?</l>
+<l>hui f&#x00F8;lger handt icke meg?&#x00BB;</l>
+</lg>
+<lg>
+<l>5. Suarith till lidell sma-dreng,</l>
+<l>hand stander kongin hiaa:</l>
+<l>&#x00AB;Olluff komir y samme stundt,</l>
+<l>wy lader voris feste l&#x00F8;s slaa.&#x00BB;</l>
+</lg>
+<lg>
+<l>6. De lagde udt fram Bremne,</l>
+<l>och udt fra Brenne-brou:</l>
+<l>sielcke-segell war slagen till raa,</l>
+<l>och under war bomechtid blaa.</l>
+</lg>
+<lg>
+<l>7. &#x00AB;H&#x00F8;er thu, <name>Magnus,</name> s&#x00F8;nin myn,</l>
+<l>thu skalt werre hiemme:</l>
+<l>raade skalt tu for waare huss,</l>
+<l>och Norie skalt tu giemme.&#x00BB;</l>
+</lg>
+<lg>
+<l>8. &#x00AB;H&#x00F8;er y, sellige fader myn,</l>
+<l>y gi&#x00F8;rer meg iche then wonnde!</l>
+<l>ieg er saa unger och faa-kunndig,</l>
+<l>for deilig en almu att stande.&#x00BB;</l>
+</lg>
+<lg>
+<l>9. &#x00AB;Thu kledt thig snartt, thu kled thig braatt,</l>
+<l>om tu vilt mett meg f&#x00F8;llie:</l>
+<l>thett bliffuer thig till wande lagdt,</l>
+<l>thu komer y the stercke b&#x00F8;lle.&#x00BB;</l>
+</lg>
+<lg>
+<l>10. Thy lagde udt fram Berme,</l>
+<l>och udt fram Berne-bryge:</l>
+<l>alt thett folck, paa brygen stodt,</l>
+<l>thy felde saa modige taare.</l>
+</lg>
+<lg>
+<l>11. Der the kom for Lindessnis,</l>
+<l>och b&#x00F8;llen lecte for buorde:</l>
+<l>thaa stodt skibbet y blidende b&#x00F8;r,</l>
+<l>som thett haffde standit y grunde.</l>
+</lg>
+<lg>
+<l>12. Thett war hellige Hogen koning,</l>
+<l>hand st&#x00F8;der sig widt suar:</l>
+<l>&#x00AB;Er her enthen lig eller lerdt,</l>
+<l>som sige kand aff thene ferdt?&#x00BB;</l>
+</lg>
+<lg>
+<l>13. Det war <name>Nicolaus N&#x00F8;thernes,</name></l>
+<l>hand ser offui<hi rend="italic">r</hi> alt then leedt:</l>
+<l>&#x00AB;Her er feeger mader y worum ferdt,</l>
+<l>Gud lade thett iche koning widt!&#x00BB;</l>
+</lg>
+<lg>
+<l>14. Thett war hellige Hogen koning,</l>
+<l>hand seer off<hi rend="italic">uer</hi> alt sin leedt:</l>
+<l>&#x00AB;Huor er Olluff Andfinssen?</l>
+<l>hui er hand iche huss meg?&#x00BB;</l>
+</lg>
+<lg>
+<l>15. Suarith till liden smaadreng,</l>
+<l>hand stander koning<hi rend="italic">en</hi> hiaa:</l>
+<l>&#x00AB;Oluff liger y snecken siug,</l>
+<l>saa saare illde hand maa.&#x00BB;</l>
+</lg>
+<lg>
+<l>16. Thett war hellige Hogen koning,</l>
+<l>hand ganger for Olluff att stande:</l>
+<l>&#x00AB;Huor lider tig, Olluff Andfinss&#x00F8;n?</l>
+<l>huor ganger thig y hande?&#x00BB;</l>
+</lg>
+<lg>
+<l>17. &#x00AB;Ieg haffuer saa ontt y brystedt mi<hi rend="italic">n</hi>,</l>
+<l>meg tockis, mi<hi rend="italic">n</hi> hierte vill suide:</l>
+<l>then almectist Gudt, alting haffuer skafft,</l>
+<l>hand giffuet, thenne nat matte lide!&#x00BB;</l>
+</lg>
+<lg>
+<l>18. The wagitt offuer Olluff Andfinss&#x00F8;n,</l>
+<l>och vell y natther II:</l>
+<l>thett var hellig Hogen koning,</l>
+<l>sit bane mon handt th<hi rend="italic">er</hi> faa.</l>
+</lg>
+<lg>
+<l>19. Dett war Olluff Andfinss&#x00F8;n,</l>
+<l>hand gaff th<hi rend="italic">er</hi> op sin andt:</l>
+<l>thett var hellig Hogen koning,</l>
+<l>hand holt hano<hi rend="italic">m</hi> wax-liss y handt.</l>
+</lg>
+<lg>
+<l>20. &#x00AB;H&#x00F8;er thu, Magnus, s&#x00F8;nnen min,</l>
+<l>huad ieg sig<hi rend="italic">er</hi> theg:</l>
+<l>warde skalt tu for ware huss,</l>
+<l>y Norie vere koning epth<hi rend="italic">e</hi>r mig.</l>
+</lg>
+<lg>
+<l>21. Holt well stercke quinde-fridt!</l>
+<l>och ladt thett vare lenge!</l>
+<l>fredl&#x00F8;ss mandt then giffuer du fridt!</l>
+<l>och tiffuen lader thu ophenge!</l>
+</lg>
+<lg>
+<l>22. En b&#x00F8;n<hi rend="italic">n</hi> will ieg tig bede,</l>
+<l>en anden aff tig tige:</l>
+<l>ladt meg begraffuis y Marie-kircke,</l>
+<l>som konger pleir att lige!&#x00BB;</l>
+</lg>
+<lg>
+<l>23. Der kom budt for Oslo indt,</l>
+<l>och ingen mandt theno<hi rend="italic">m</hi> kiende:</l>
+<l>d&#x00F8;dt war hellige Hogen koning,</l>
+<l>santh Olluff kongens frende.</l>
+</lg>
+<lg>
+<l>24. D&#x00F8;dt war hellige Hogen koning,</l>
+<l>och Gud kallit hano<hi rend="italic">m</hi> aff dage:</l>
+<l>hand bleff f&#x00F8;rdt y Oslo indt,</l>
+<l>y Maria-kircke lad<hi rend="italic">is</hi> hand y graffue.</l>
+<l n="ref">&#x2013; Saer er mi<hi rend="italic">n</hi> handin aff then brimie. &#x2013;</l>
+</lg>
+<figure rend="asterisk"/>
+<p><hi rend="italic">&#x00AB;Rentzels h&#x00E5;ndskrift&#x00BB;:</hi> KBK GKS 2397 kvart. Manuskriptets tittel: &#x00AB;En Samling af gamle danske Viser med adskillige H&#x00E6;nder, omtrent af samme Tid (Sec. XVI). Paa det f&#x00F8;rste Blad staar Valentin Rentzel&#x00BB;.</p>
+<p><hi rend="italic">Over oppskrifta i DgF st&#x00E5;r:</hi> Denne Vise om den norske Konge Hakon den gamle er trykt hos Vedel, II, Nr. 40; derefter optrykt hos Abr., Nr. 59 og oversat paa islandsk. &#x2026; / Vedels Ord i Indledningen: at Visen &#x00AB;haffuer v&#x00E6;ret brugelig her vdi Riget&#x00BB;, indeholde n&#x00E6;ppe Sandhed, naar vi ved &#x00AB;Riget&#x00BB; forstaa Danmark; thi Sproget i den har saa st&#x00E6;rkt et Pr&#x00E6;g af Norskhed, at den n&#x00E6;ppe her kan v&#x00E6;re sungen saaledes. Visen er indskreven i Rentzels Hdskr. med samme Haand som en R&#x00E6;kke af Viser, der ere rent danske; saa det er n&#x00E6;ppe nogen Normand, der her har f&#x00F8;rt Pennen. Den maa da <hi rend="italic">enten</hi> v&#x00E6;re afskreven efter en norsk Optegnelse, <hi rend="italic">eller</hi> optegnet af en dansk efter en Normands Sang eller Tilsigelse; og denne sidste Antagelse synes mig at have mest for sig, dog saaledes, at vi i Rentzels Hdskr. ikke have den originale Optegnelse, men kun en Afskrift af denne. Herpaa tyde L&#x00E6;semaader som &#x00AB;saa kunndig&#x00BB; for faakundig i V 8; &#x00AB;lerdt&#x00BB; f. leedt og &#x00AB;worum&#x00BB; f. vorre i V. 13; den forskjellige Skrivemaade af Stedsnavnet i V. 6 og 10; Mangelen paa Rimord i V. 10 og 11, samt den formodede Fejl i 2den Linie af V. 22. / At Visen saaledes som den er kommen til os er meget forskjellig fra, hvad den engang har v&#x00E6;ret, derom kan vel ingen tvivle. Den bestaar nu egentlig af to Brudstykker: V. 1&#x2013;19 og V. 20&#x2013;24; mellem dem fattes da hele Beretningen om det skotske Tog. Den udf&#x00F8;rligste Underretning om dette findes i P. A. Munchs Det norske Folks Hist., V, S. 387&#x2013;424. <gap/></p>
+</div>
+<div type="uchapter" subtype="song" xml:id="BIN1195">
+<head type="sub">Oppskrift B</head>
+<p>TSB C 11: H&#x00E5;kon H&#x00E5;konssons d&#x00F8;d</p>
+<p>Oppskrift: <date when="1591">1591</date> etter Vedel II, nr. 40, gjengitt i DgF 142 B.</p>
+<p>Utan oppgjeven tittel.</p>
+<figure rend="asterisk"/>
+<lg>
+<l n="1">1. DET er nu skeed vdi vor tid,</l>
+<l>som spaad haffuer v&#x00E6;ret for lange:</l>
+<l>Den &#x00E6;dle Helled Herre Hogen</l>
+<l>hand haffuer vnder sig Norge fangen.</l>
+<l n="ref">&#x2013; Oc saar er min Haand aff den Brynie. &#x2013;</l>
+</lg>
+<lg>
+<l>2. Biuder hand vd offuer Norges Rige</l>
+<l>saa mangen Velbyrdig Mand:</l>
+<l>Baade met Skib oc Verie god</l>
+<l>han agter sig til Skotland.</l>
+</lg>
+<lg>
+<l>3. Biuder hand vd offuer Norge saa vide</l>
+<l>saa mange som Suerd kunde b&#x00E6;re:</l>
+<l>Vaar nogen iblant, som mindre vaar</l>
+<l>hand haffde loff hiemme at v&#x00E6;re.</l>
+</lg>
+<lg>
+<l>4. Det vaar Helled Hogen Koning,</l>
+<l>hand seer offuer alle de Led:</l>
+<l>&#x00AB;Huor er <name>Oluff Andfindss&#x00F8;n?</name></l>
+<l>hui f&#x00F8;lger hand icke met?&#x00BB;</l>
+</lg>
+<lg>
+<l>5. Suarede det den liden Smaadreng,</l>
+<l>hand stander icke langt der fra:</l>
+<l>&#x00AB;Oluff hand kommer vdi samme stund,</l>
+<l>i lade vore Feste l&#x00F8;ss slaa.&#x00BB;</l>
+</lg>
+<lg>
+<l>6. Saa lagde &#x005B;de&#x005D; vd fra Bergens By,</l>
+<l>oc vd fra Berger Bro:</l>
+<l>Silcke Seyl vaar slagen til Raa,</l>
+<l>oc vnder vaar Bonedet blaa.</l>
+</lg>
+<lg>
+<l>7. &#x00AB;H&#x00F8;r du, ki&#x00E6;re <name>Magnus,</name> min S&#x00F8;n,</l>
+<l>oc du skalt v&#x00E6;re hiemme:</l>
+<l>Du skalt raade for Bergen oc Varhuss,</l>
+<l>der met skalt Norge giemme.&#x00BB;</l>
+</lg>
+<lg>
+<l>8. &#x00AB;H&#x00F8;re i, aller ki&#x00E6;riste Fader min,</l>
+<l>i gi&#x00F8;re mig icke den vaande!</l>
+<l>Ieg er for vnger oc meget faakundig,</l>
+<l>saadane Almue faar stande.&#x00BB;</l>
+</lg>
+<lg>
+<l>9. &#x00AB;Du kl&#x00E6;de dig snart, du kl&#x00E6;de dig brat!</l>
+<l>om du vilt met mig f&#x00F8;lge:</l>
+<l>Du kant icke lide den salte S&#x00F8;</l>
+<l>oc saa den stercke B&#x00F8;lge.&#x00BB;</l>
+</lg>
+<lg>
+<l>10. De lagde vd fra Bergens By,</l>
+<l>oc vd fra Vogen saa silde:</l>
+<l>Oc alt det Folck, paa Bryggen stod,</l>
+<l>saa modige taare de felde.</l>
+</lg>
+<lg>
+<l>11. Oc der de komme for Lindesnes,</l>
+<l>oc B&#x00F8;lgen legte aff Bonde:</l>
+<l>Alt stod Skibet i bliden B&#x00F8;r,</l>
+<l>som det haffde standen i grunde.</l>
+</lg>
+<lg>
+<l>12. Oc det vaar Helled Hogen Koning,</l>
+<l>hand st&#x00F8;dte sig ved sit Suerd:</l>
+<l>&#x00AB;Oc er her enten l&#x00E6;g eller l&#x00E6;rd,</l>
+<l>kand sige mig aff denne Ferd?&#x00BB;</l>
+</lg>
+<lg>
+<l>13. Oc det vaar <name>Nilaus N&#x00F8;dernes,</name></l>
+<l>hand saae offuer all den lide:</l>
+<l>&#x00AB;Her er feger Mader i vorum Ferd,</l>
+<l>Gud lade det Kongen icke vide!&#x00BB;</l>
+</lg>
+<lg>
+<l>14. Det vaar Hellede Hogen Koning,</l>
+<l>saa saare hand grem<hi rend="italic">m</hi>ede sig:</l>
+<l>&#x00AB;Huor er Oluff Andfinds&#x00F8;n?</l>
+<l>hui er hand icke hoss mig?&#x00BB;</l>
+</lg>
+<lg>
+<l>15. Suarede det den liden Smaadreng,</l>
+<l>oc hand stod Kongen fra:</l>
+<l>&#x00AB;Oluff ligger i boncken siug,</l>
+<l>saa saare ilde hand maa.&#x00BB;</l>
+</lg>
+<lg>
+<l>16. Oc det vaar Hellede Hogen Kongen,</l>
+<l>hand ganger for Oluff at stande:</l>
+<l>&#x00AB;Hure da lider dig, Oluff Andfindss&#x00F8;n,</l>
+<l>oc hure gaar dig i haande?&#x00BB;</l>
+</lg>
+<lg>
+<l>17. &#x00AB;Ieg haffuer saa ont i Bryste min,</l>
+<l>mig tyckis, mit Hierte monne suide:</l>
+<l>Den gode Gud, som alting haffuer skabt,</l>
+<l>hand giffue, denne Nat maatte lide!&#x00BB;</l>
+</lg>
+<lg>
+<l>18. De vogede offuer Oluff Andfindss&#x00F8;n,</l>
+<l>oc vel vdi Netter tho:</l>
+<l>Men det vaar Hellede Hogen Kongen,</l>
+<l>sin bane monne hand der faa.</l>
+</lg>
+<lg>
+<l>19. Oc det vaar Oluff Andfindss&#x00F8;n,</l>
+<l>hand gaff der op sin Aand:</l>
+<l>Det vaar Hellede Hogen Koning,</l>
+<l>holt han<hi rend="italic">n</hi>em Voxliuss i Haand.</l>
+</lg>
+<lg>
+<l>20. Da harmede hand sig Koning Hogen mest,</l>
+<l>sin sorg kunde hand ey lade:</l>
+<l>Hand fick sot, oc siug hand bleff,</l>
+<l>hans Raad de bleffue wglade.</l>
+</lg>
+<lg>
+<l>21. &#x00AB;Nu haffue i vunden baade Seyr oc Priss</l>
+<l>vdi disse fremmede Lande:</l>
+<l>Skulde i her d&#x00F8; oc gange oss fra,</l>
+<l>saa ilde gick oss i Haande.&#x00BB;</l>
+</lg>
+<lg>
+<l>22. &#x00AB;Min tid er kommen, ieg kand icke vige,</l>
+<l>mit Testament i scriffue!</l>
+<l>I holde det fast alt effter min d&#x00F8;d,</l>
+<l>huad ieg en huer vil giffue!</l>
+</lg>
+<lg>
+<l>23. Min S&#x00F8;n Kong Magnus ieg raade vil,</l>
+<l>hand haffuer Guds Low for &#x00D8;yne:</l>
+<l>Hand elske Dom og Retf&#x00E6;rdighed,</l>
+<l>saa vel skal det hannem r&#x00F8;ne.</l>
+</lg>
+<lg>
+<l>24. Prester oc Encker skal hand forsuare,</l>
+<l>saa bliffuer hand Konning lenge:</l>
+<l>En Fredl&#x00F8;ss mand hand giffue ey Fred,</l>
+<l>oc Tiuffuen lade hand ophenge!</l>
+</lg>
+<lg>
+<l>25. En B&#x00F8;n vil ieg vdaff eder bede,</l>
+<l>den anden vil ieg tigge:</l>
+<l>I lade mig leggis i Mari&#x00E6; Kircke,</l>
+<l>som Kongerne pleye at ligge!&#x00BB;</l>
+</lg>
+<lg>
+<l>26. Der kom Bud for Bergen ind,</l>
+<l>oc ingen Mand det kiende:</l>
+<l>D&#x00F8;d vaar den &#x00E6;dle Koning Hogen,</l>
+<l>hand vaar S. Oluffs Frende.</l>
+</lg>
+<lg>
+<l>27. Paa Orken&#x00F8; d&#x00F8;de den Koning god,</l>
+<l>en Leffuerdag monne det v&#x00E6;re</l>
+<l>Nest effter S. Luci&#x00E6; dag for vist,</l>
+<l>de miste deris Koning oc Herre.</l>
+</lg>
+<lg>
+<l>28. Fra Kirckeuog lagde de vd met Skib,</l>
+<l>til Bergen monne de seyle:</l>
+<l>Der bleff vndfangen den Herris Ljg,</l>
+<l>som hand begerede at huile.</l>
+</lg>
+<lg>
+<l>29. Hand vaar en Koning fregder oc bold,</l>
+<l>som mand veed aff at sige:</l>
+<l>Der findis ey mange paa denne dag,</l>
+<l>met rette kunde v&#x00E6;re hans lige.</l>
+<l n="ref">&#x2013; Oc saar er min Haand aff den Brynie. &#x2013;</l>
+</lg>
+<figure rend="asterisk"/>
+<p><hi rend="italic">Over oppskrifta i DgF st&#x00E5;r:</hi> OM Norske Konger ere lagde mange ski&#x00F8;ne Dict aff Landsens indf&#x00F8;dde Skialdrer. Som wi det befinde vdi den gamle Norske Kr&#x00F8;nicke, at fast paa huert Blad indf&#x00F8;res oc fremdrages Vidner aff saadanne Norske Poeter om Kongernis Bedrifft. Denne Vise om Kong <name>Hogen Hogenss&#x00F8;n</name>, haffuer v&#x00E6;ret brugelig her vdi Riget, som synes, dog den icke beskedenlig fort&#x00E6;ller huorledis til er gaaet met denne hans Ferd oc Skotiske Tog, som hand giorde ind i Skotland met to hundrede Skib, oc indlagde der stor Prjss oc &#x00E6;re. Men ingen ting er fuldkom<hi rend="italic">m</hi>en her paa Jorden. Der hand haffde Sagen best fat, oc agtet at ligge Vinterleje vdi Kirckeuog paa Orcken&#x00F8; at fuldende sit Krigs Tog vdi Foraaret, See da bliffuer hand d&#x00F8;dsiug, oc kort tid der effter d&#x00F8;de der den 15. dag Decemb. Aar effter Guds Byrd 1262. Liget bleff f&#x00F8;rd til Bergen oc begraffuet i Domkircken Tredie dag for vor Frue dag i Faste.</p>
+<figure rend="shortHorizRule"/>
+</div>
+</div>
+<div type="chapter" n="6" xml:id="TSB_C_12_13">
+<head type="main"><ref type="contents" target="contents_6" xml:id="chapter_6">TSB C 12/13 Alv ligg i &#x00D8;resund</ref></head>
+<div type="uchapter" subtype="intro">
+<head type="sub">Innleiing</head>
+<p>Den norske adelsmannen og sj&#x00F8;r&#x00F8;varen Alv Erlingsson legg til havs med ein skipsfl&#x00E5;te. Han segler s&#x00F8;rover, og utanfor K&#x00F8;benhavn oppdagar han ni tyske koggar. Alv tek sjansen p&#x00E5; &#x00E5; ro aleine i ein liten skipsb&#x00E5;t mot koggane. Han praiar dei og sp&#x00F8;r kva mannskapet har i sinne. Dei svarar at dei er p&#x00E5; leiting etter herr Alv. &#x00AB;Kva vil de gje den som kan vise dykk kvar herr Alv held til?&#x00BB; sp&#x00F8;r han og f&#x00E5;r til svar at vedkomande kan vente seg b&#x00E5;de gull, s&#x00F8;lv og annan rikdom i l&#x00F8;n; men Alv og mennene hans vil det g&#x00E5; ille med, seier dei. D&#x00E5; fortel Alv kven han eigentleg er, og saman med soldatane sine, g&#x00E5;r han laus p&#x00E5; fienden:</p>
+<lg>
+<l>Herr Alff hand hug, til hand vaar mod:</l>
+<l>hand stod i Femtan Ridders Blod</l>
+<l>(DgF III: 434).</l>
+</lg>
+<p>Herr Alv tek alle dei ni koggane, og i Rostock m&#x00E5; enkjer og farlause gr&#x00E5;te over lagnaden til dei falne tyske sj&#x00F8;mennene.</p>
+<p>Alv Erlingsson (den yngre) var ein norsk stormann, baron og jarl, som spela ei sentral rolle i utanrikspolitikken i 1280-&#x00E5;ra. I ein konflikt mellom norske styresmakter og nordtyske handelsmenn, stod han i spissen for ein dristig konfrontasjonspolitikk og dreiv kaperkrig og rein sj&#x00F8;r&#x00F8;varverksemd mot tyske handelsskip; men d&#x00E5; han vende v&#x00E5;pna mot sine eigne og herja i Oslo, kom han naturleg nok p&#x00E5; kant med hertug H&#x00E5;kon Magnusson og vart lyst fredlaus. I 1290 fall han i danskanes hender og vart avretta, deretter i van&#x00E6;re lagd p&#x00E5; stegl og hjul utanfor K&#x00F8;benhavn.</p>
+<p>Denne historiske balladen vart skriven opp etter ei ukjend kjelde i Andebu i Vestfold, og etter Talleiv Olsson Rui (1840&#x2013;1919) fr&#x00E5; Fyresdal i Telemark. Begge desse versjonane g&#x00E5;r tilbake p&#x00E5; den s&#x00E5;kalla <title rend="italic">Kjempeviseboka</title> til Peder Syv.</p>
+<p>Peder Syv bygde si utg&#x00E5;ve p&#x00E5; <title rend="italic">It Hundrede vduaalde Danske Viser</title> ved Anders S&#x00F8;rensen Vedel. Denne samlinga kom ut f&#x00F8;rste gongen i 1591. I f&#x00F8;reordet til visa om Alv Erlingsson seier Vedel at han trykkjer visa &#x2013; og ei anna vise om Alv Erlingsson &#x2013; slik som &#x00AB;wi haffue dennem funden for oss&#x00BB;. Vedel siterer dessutan ei einskildstrofe fr&#x00E5; <hi rend="italic">ei tredje vise</hi> om Alv Erlingsson:</p>
+<lg>
+<l>Oc S&#x00F8;nden seyle de Tydske Mend</l>
+<l>alt baade met Meel oc Malt:</l>
+<l>Men Alff hand ligger i &#x00D8;resund,</l>
+<l>hand tager det fra dennem alt</l>
+<l>DgF III: 433).</l>
+</lg>
+<p>Denne strofa har Vedel etter alt &#x00E5; d&#x00F8;me fr&#x00E5; Bergens-humanisten Absalon Peders&#x00F8;n Beyers historieskrift <title rend="italic">Om Norgis Rige</title> (1567). Skriftet vart rett nok ikkje trykt f&#x00F8;r p&#x00E5; slutten av 1700-talet, men Vedel kan ha sett ei avskrift eller kanskje f&#x00E5;tt visa tilsend. I Absalons skrift blir Alv Erlingsson kalla ein modig sj&#x00F8;krigar som s&#x00E6;rleg dreiv piratverksemd i &#x00D8;resund. I Landstads vise &#x00AB;Hermo&#x00F0; ille&#x00BB; finn vi elles den same strofa, noko som tyder p&#x00E5; at den tredje visa om Alv Erlingsson har vore velkjend i Telemark tidlegare:</p>
+<lg>
+<l>Tyrkin kem i s&#x00F6;ndri sj&#x00F6;</l>
+<l>han f&#x00F6;rer rug og malt,</l>
+<l>men etter kem han Ille Hermo&#x00F0;,</l>
+<l>han teke de&#x00F0; af &#x0027;an alt</l>
+<l>(Landstad &#x005B;1853&#x005D; 1968: 199).</l>
+</lg>
+<p>I balladediktinga blir Alv Erlingsson gjerne kalla <hi rend="italic">mindre Alv</hi>. Epitetet <hi rend="italic">mindre</hi> er ei omsynging av <hi rend="italic">milde</hi>, ein heidrande og heroiserande karakteristikk som vart bruka om stormenn i mellomalderen.</p>
+<p rend="noIndent">Utsyn 188<lb/>DgF 150</p>
+</div>
+<div type="uchapter" subtype="song" xml:id="BIN6238">
+<head type="sub">Oppskrift A</head>
+<p>TSB C 12/13: Alv ligg i &#x00D8;resund</p>
+<p>Oppskrift: <title rend="italic">Kjempeviseboka</title> IV, nr. 13.</p>
+<p>Oppgjeven tittel: Minder Herr Alf, Greve af Tunsberg, steylet for Helsingborg.</p>
+<figure rend="asterisk"/>
+<lg>
+<l n="1">1. Herr <name>Alf</name> han er en Edeling,</l>
+<l>baade til Stevne og saa til Ting</l>
+<l n="ref">&#x2013; Kiende I Alf. &#x2013;</l>
+</lg>
+<lg>
+<l>2. Herr Alf han lader en Snekke bo,</l>
+<l>han vil baade r&#x00F8;ve og roe.</l>
+</lg>
+<lg>
+<l>3. Hr. Alf han lader de Snekker gi&#x00F8;re,</l>
+<l>han vil en S&#x00F8;er&#x00F8;vere v&#x00E6;re.</l>
+</lg>
+<lg>
+<l>4. Han skrev Kredsen paa den Sand,</l>
+<l>og saa sprang han i fremmer Stafn.</l>
+</lg>
+<lg>
+<l>5. Alf han staaer i fremmer Stafn,</l>
+<l>han seer de Kogger for Ki&#x00F8;benhavn.</l>
+</lg>
+<lg>
+<l>6. Alf han seer udi S&#x00F8;en saa vide,</l>
+<l>han veed de Stie som Skibene monne skride.</l>
+</lg>
+<lg>
+<l>7. Hilset seer jeg de Kogger ni,</l>
+<l>det bliver mit Gods som der er udi.</l>
+</lg>
+<lg>
+<l>8. Han s&#x00E6;tte sig alleene i Baad,</l>
+<l>og saa roer han de Kogger imod.</l>
+</lg>
+<lg>
+<l>9. Vel m&#x00F8;dt, vel m&#x00F8;dt raske Hofm&#x00E6;nd,</l>
+<l>hvor ville I udi Havne ind.</l>
+</lg>
+<lg>
+<l>10. Vi seyle os til den Havn ind,</l>
+<l>som vi kunde genisten.</l>
+</lg>
+<lg>
+<l>11. Hvad ville I da give den Mand,</l>
+<l>som eder Hr Alf vise kand.</l>
+</lg>
+<lg>
+<l>12. Vi ville give hannem Guld og S&#x00F8;lv,</l>
+<l>Pendinge, saa mange han have vil.</l>
+</lg>
+<lg>
+<l>13. Ad Gave og Skienck skal han ey lede,</l>
+<l>Sneken med all sin gandske Rede.</l>
+</lg>
+<lg>
+<l>14. Kiere Hofm&#x00E6;nd, hvad ville I Alf gi&#x00F8;re,</l>
+<l>om I kunde hannem opsp&#x00F8;re.</l>
+</lg>
+<lg>
+<l>15. Hans Svenne dem ville vi hugge og slaa,</l>
+<l>hannem legger vi selv den Bolte paa.</l>
+</lg>
+<lg>
+<l>16. Her skulle I Minder Alf finde,</l>
+<l>saa liden Seyr I af mig vinde.</l>
+</lg>
+<lg>
+<l>17. Vel op, vel op, I raske Drenge,</l>
+<l>I hugge s&#x00F8;nder baade Tov og Strenge.</l>
+</lg>
+<lg>
+<l>18. Herr Alf han hug til han var mod,</l>
+<l>han stod i femten Ridders Blod.</l>
+</lg>
+<lg>
+<l>19. Saa tog han alle de Kogger ni,</l>
+<l>og seylede dermed til Danmark fri.</l>
+</lg>
+<lg>
+<l>20. Og der kom Tidend til Rostock ind,</l>
+<l>der blegnet saa mangt et Rosens Kind.</l>
+</lg>
+<lg>
+<l>21. Der gr&#x00E6;de Enker og der gr&#x00E6;de B&#x00F8;rn,</l>
+<l>dem havde giort fattig denne skadelig &#x00D8;rn.</l>
+</lg>
+<lg>
+<l>22. Dog de maatte lide denne Harm og Meen,</l>
+<l>deres B&#x00F8;n falt ikke paa Stok eller Steen.</l>
+</lg>
+<figure rend="asterisk"/>
+<p><hi rend="italic">Strofene er nummererte i oppskrifta.</hi></p>
+<p><hi rend="italic">I viseboka st&#x00E5;r det ei innleiing med historiske fakta.</hi></p>
+</div>
+<div type="uchapter" subtype="song" xml:id="BIN6239">
+<head type="sub">Oppskrift B</head>
+<p>TSB C 12/13: Alv ligg i &#x00D8;resund</p>
+<p>Oppskrift: <date when="1913">1913</date> av <name type="collector" corresp="saATR">Aasmund T. Rui</name> (for Rikard Berge) etter <name type="source" corresp="kiTR">Talleiv Olsson Rui</name>, <name type="place">Fyresdal, Telemark</name>.</p>
+<p>Orig. ms.: TGM R. Berge CCCVI, s. 170&#x2013;173</p>
+<p>Oppgjeven tittel: Mindre Alv.</p>
+<figure rend="asterisk"/>
+<lg>
+<l n="1">1. Hr <name>Alv</name> han lader de snekker j&#x00F8;re</l>
+<l>for han vil en sj&#x00F8;r&#x00F8;ver v&#x00E6;re.</l>
+<l n="ref">&#x2013; Kjender i Alv. &#x2013;</l>
+</lg>
+<lg>
+<l>2. Hr Alv han lader de snekker bo</l>
+<l>for han vil <add place="above">baade</add> r&#x00F8;ve og ro.</l>
+</lg>
+<lg>
+<l>3. Hr Alv han ser sig ud saa vide</l>
+<l>han ser de skibe frem monne skride.</l>
+</lg>
+<lg>
+<l>4. Hr Alv han sprang i fremre stavn</l>
+<l>han ser de skibe fra K&#x00F8;benhavn.</l>
+</lg>
+<lg>
+<l>5. Hiset ser jeg de kogger ni</l>
+<l>det blir mit gods som er deri</l>
+</lg>
+<lg>
+<l>6. Hr Alv han sprang i en liden baat</l>
+<l>saa rode han de kogger i mot.</l>
+</lg>
+<lg>
+<l>7. Godmorgen godag i raske m&#x00E6;nd</l>
+<l>og hvor agter i i hovmen ind.</l>
+</lg>
+<lg>
+<l>8. Vi agter oss i den havnen ind</l>
+<l>hvor vi allerhelst kan Mindre Alv finde.</l>
+</lg>
+<lg>
+<l>9. Hvad vilde i Mindre Alv j&#x00F8;re</l>
+<l>Alt om i kunde han op s&#x00F8;ge.</l>
+</lg>
+<lg>
+<l>10. Hans svende ville vi hugge og slaa</l>
+<l>og han selv legge vi boldterne paa.</l>
+</lg>
+<lg>
+<l>11. Hvad vilde i give den mand</l>
+<l>som eder kan vise Mindre Alv.</l>
+</lg>
+<lg>
+<l>12. Og han vil vi give guld og s&#x00F8;lv</l>
+<l>og peng saa mange han have vil</l>
+</lg>
+<lg>
+<l>13. Ja her skulde i Mindre Alv finde.</l>
+<l>Saa liden seier i av mig skal vinde</l>
+</lg>
+<lg>
+<l>14. Her op Her op i raske drenge</l>
+<l>i hugger s&#x00F8;nder baade taug og strenge.</l>
+</lg>
+<lg>
+<l>15. Hr Alv han hogge til han var mo</l>
+<l>han sto i femten Kjempers blo</l>
+</lg>
+<lg>
+<l>16. Der k&#x00E5;m tidend til Rostok ind</l>
+<l>der bleknad so mangt et Rosenskind</l>
+</lg>
+<lg>
+<l>17. Der gret ekjar aa der gret born</l>
+<l>dei ha bliv tugtet av den skadelig &#x00F8;rn.</l>
+</lg>
+<figure rend="asterisk"/>
+<p><hi rend="italic">Strofene er unummererte av samlaren.</hi></p>
+<p><hi rend="italic">Teksten ligg saman med eit brev til Rikard Berge utan underskrift. Under teksten st&#x00E5;r det:</hi> Dette her er alt det far kan av denne visa.</p>
+<figure rend="shortHorizRule"/>
+</div>
+</div>
+<div type="chapter" n="7" xml:id="TSB_C_15">
+<head type="main"><ref type="contents" target="contents_7" xml:id="chapter_7">TSB C 15 Falkvor Lommansson &#x005B;Magnus Algotssons brurerov&#x005D;</ref></head>
+<div type="uchapter" subtype="intro">
+<head type="sub">Innleiing</head>
+<p>I ein gammal svensk annal st&#x00E5;r det under &#x00E5;ret 1288:</p>
+<quote><p>I m&#x00E5;naden mars r&#x00F8;va herre Folke, son av Algot lagmann for vestg&#x00F8;tane, jomfru Ingrid dotter av herre Svantepolk, trulova med herre David Torsteinsson fr&#x00E5; Danmark, og r&#x00F8;mde med henne til Noreg. P&#x00E5; grunn av dette vart herre Algot, far hans, og herre R&#x00F8;rik, bror hans, tekne til fange same m&#x00E5;naden. Dei andre br&#x00F8;rne hans: herre Peter kanslar, Benedikt og Karl r&#x00F8;mde til Noreg og vart mottekne av den norske kongen.</p></quote>
+<p>Sj&#x00F8;lv om namna har endra seg gjennom hundre&#x00E5;ra, kjenner vi dei att: Folke, son til lagmannen, har vorte til Falkvor Lommannsson, David Torsteinsson har vorte til Torstein Davidsson, og jomfru Ingrid har vorte til Vendelin, Mendelin eller Bendeli. Det kan ikkje vere tvil om at denne visa er dikta om dette bruderovet.</p>
+<p>I visa blir bruderovet skildra romantisk, men n&#x00E5;r vi f&#x00E5;r klarlagt omstenda, kan ein f&#x00E5; ein mistanke om at det var meir brutalt, kanskje var det rett og slett ei politisk valdtekt. Kong Magnus Ladul&#x00E5;s oppfatta det i alle fall slik. Han tok dei slektningane han fekk tak i til fange, og d&#x00E5; herr Karl, bror til Folke, drog tilbake til Sverige, vart han straks halshoggen.</p>
+<p>Bruderovet kan ikkje ha kome overraskande p&#x00E5; jomfru Ingrid. B&#x00E5;de mor og bestemor hennar hadde opplevd det same. Mor hennar vart r&#x00F8;va av herr Lars, som r&#x00F8;mde med henne til Noreg. Bruder&#x00F8;varen Lars d&#x00F8;ydde ikkje s&#x00E5; lenge etter, og mora, Benedikta Sunesdotter, gifte seg p&#x00E5; nytt med Svantepolk, som vart Ingrids far. Bestemora Elin er ein av hovudpersonane i den mektigaste av dei svenske bruderovsvisene, <ref type="external" target="http://www.bokselskap.no/boker/historiskeballadar/tsb_c8_vreta">&#x00AB;Vreta klosterrov&#x00BB;</ref>.</p>
+<lb/><p><hi rend="bold">Kvifor vart desse jomfruene r&#x00F8;va?</hi>
+<lb/>Ingrid Svantepolksdotter var sonedotter av kong Valdemar Sejer av Danmark, og oldefar p&#x00E5; morssida var kong Sverker av Sverige. Folke Algotsson var ogs&#x00E5; fr&#x00E5; ei riddarslekt, og ein son av desse to kunne bli ein tronarving som kunne samle dei som var fiendar av Magnus Ladul&#x00E5;s.</p>
+<p>Folke og Ingrid fekk ein son i Noreg, Knut Folkesson. Han vart riksr&#x00E5;d i Sverige, men kronpretendent vart han ikkje. Etter at Folke d&#x00F8;ydde ca. 1310, drog Ingrid tilbake til Sverige og gjekk i Vreta kloster. Der vart ho etter kvart abbedisse.</p>
+<lb/><p><hi rend="bold">Datering</hi>
+<lb/>Denne visa har vore viktig for dateringa av balladesjangeren. Bruderovet var naturlegvis ei storhending i samtida, men likevel kan ikkje visa ha vore dikta mange ti&#x00E5;ra etter hendinga. Dessutan var det p&#x00E5; denne tida eit milj&#x00F8; av svenske adelsfolk i eksil ved hoffet i Bergen, og det er nettopp dette milj&#x00F8;et som hadde interesse av &#x00E5; skildre bruderovet som romantisk. Hadde visa vore dikta i Sverige, kunne rovet vorte skildra meir brutalt. Bruderovsvisa om Ingrids mor var ikkje skildra romantisk.</p>
+<p>I Innsamlingstida var denne visa godt kjend. Den eldste dokumentasjonen vi har er oppskrifter av M.B. Landstad og Olav T. Grasberg. Landstad skreiv opp visa etter Anne Lilleg&#x00E5;rd fr&#x00E5; Eidsborg i 1846, og sidan vart visa skriven opp av andre innsamlarar p&#x00E5; fleire stader i Telemark og Agder.</p>
+<p>Lindeman skreiv opp to melodiar til visa, ein etter Olea Cr&#x00F8;ger og ein etter Samuel Hellen fr&#x00E5; Vestfold.</p>
+<p rend="noIndent">Utsyn 186 og 187<lb/>DgF 181<lb/>SMB 60</p>
+</div>
+<div type="uchapter" subtype="song" xml:id="BIN1208">
+<head type="sub">Oppskrift A</head>
+<p>TSB C 15: Falkvor Lommansson</p>
+<p>Oppskrift: <date when="1846">1846</date> av <name type="collector" corresp="saMBL">Magnus Brostrup Landstad</name> etter <name type="source" corresp="kiAAL">Anne &#x00C5;nundsdotter Lilleg&#x00E5;rd</name>, <name type="place">Eidsborg, L&#x00E5;rdal, Telemark</name>.</p>
+<p>Orig. ms.: NFS M. B. Landstad 5, 8&#x2013;9</p>
+<p>Oppgjeven tittel: Falkvor Lommanson</p>
+<figure rend="asterisk"/>
+<lg>
+<l n="1">1.De&#x00F0; <del rend="overstrike">F. L.</del> var arle om morgun</l>
+<l>Soli hon ryr i dalar,</l>
+<l>up stende <name><choice><expan>F<ex>alkvor</ex> L<ex>ommanson</ex></expan><abbr>F L</abbr></choice></name></l>
+<l>legge p&#x00E1; forgylte salar</l>
+<l n="ref">&#x2013; Riddaren v&#x00E1;gar han live sit fer <del rend="overstrike">ei</del><add place="above">den</add> Jomfru &#x2013;</l>
+</lg>
+<lg>
+<l>2. Ut keme honoms k&#x00E6;re moder</l>
+<l>feller hon t&#x00E1;rir p&#x00E1; kinn</l>
+<l>hori aktast du hen idag</l>
+<l>du <choice><expan>F<ex>alkvor</ex></expan><abbr>F</abbr></choice> k&#x00E6;re sonen min. &#x2013;</l>
+</lg>
+<lg>
+<l>3. H&#x00F8;yre du ded min k&#x00E6;re moder</l>
+<l>ded er meg no aller vesst</l>
+<l>eg vil no taka atte vivet de&#x00F0;</l>
+<l>som <name>Tostein <choice><expan>Davids<ex>on</ex></expan><abbr>Davids.</abbr></choice></name> hev fest</l>
+</lg>
+<lg>
+<l>4. Ded var <choice><expan>F<ex>alkvor</ex> L<ex>ommanson</ex></expan><abbr>F L</abbr></choice></l>
+<l>han seg udaf garde burtreid</l>
+<l>de&#x00F0; grodde ki grasi p&#x00E1; 15 Aar</l>
+<l>der hans graa gangare steig</l>
+</lg>
+<lg>
+<l>5. Ded var <choice><expan>F<ex>alkvor</ex> L<ex>ommanson</ex></expan><abbr>F L</abbr></choice></l>
+<l>han kom seg ridand i g&#x00E1;rd</l>
+<l><del rend="overstrike">ute s&#x00E1; bant han hesten sin</del></l>
+<l>in sa springe den liten smaadreng</l>
+<l>segir han tiden&#x00F0; ifr&#x00E1;.</l>
+</lg>
+<lg>
+<l>6. In sa spring den liten Smaadreng</l>
+<l>segir han tidend ifr&#x00E1;</l>
+<l>her stende fult toni med herkl&#x00E6;dde menn</l>
+<l>alle som duvune gr&#x00E1;</l>
+</lg>
+<lg>
+<l>7. De&#x00F0; var fruga <name>Mendelin</name></l>
+<l>hon ut igjennom vindauga s&#x00E1;g</l>
+<l>ded er no <choice><expan>F<ex>alkvor</ex> L<ex>ommanson</ex></expan><abbr>F L</abbr></choice></l>
+<l>han hev meg l&#x00E6;ngstom <hi rend="underlined">tr&#x00E1;tt</hi></l>
+</lg>
+<lg>
+<l>8. Der taka af meg mit hovudgull</l>
+<l>etc.</l>
+</lg>
+<lg>
+<l>9. Der taka af meg mit hovudgull</l>
+<l>og bin&#x00F0; up med <hi rend="underlined">striki</hi> sm&#x00E1;<note type="footnote"><hi rend="italic">I margen st&#x00E5;r:</hi> (Snorer)</note></l>
+<l>kem han inn etc. &#x2013; sj&#x00E1;</l>
+</lg>
+<lg>
+<l>10. In kem <choice><expan>F<ex>alkvor</ex> L<ex>ommanson</ex></expan><abbr>F L</abbr></choice></l>
+<l>med r&#x00F8;de gullband i hende</l>
+<l>helsar til fruga <choice><expan>M<ex>endelin</ex></expan><abbr>M</abbr></choice></l>
+<l>saa vel eg deg no kenn&#x00E6;r</l>
+</lg>
+<lg>
+<l>11. H&#x00F8;yrer du <choice><expan>fr<ex>uga</ex> M<ex>endelin</ex></expan><abbr>fr. M</abbr></choice></l>
+<l>du skal deg no enki l&#x00F8;yne</l>
+<l>hestane stande i Adelsg&#x00E1;rd</l>
+<l>i dag skal du &#x0027;n r&#x00F8;yne</l>
+</lg>
+<lg>
+<l>12. H&#x00F8;yrer du <choice><expan>fr<ex>uga</ex></expan><abbr>fr.</abbr></choice> Mendelin</l>
+<l>du skal deg ki no s&#x00E1; dylje</l>
+<l>hestane stande i Adelsg&#x00E1;rd<note type="footnote"><hi rend="italic">I margen st&#x00E5;r:</hi> (sk&#x00E1;r)</note></l>
+<l>idag skal du meg fylgje.</l>
+</lg>
+<lg>
+<l>13. Ded var <choice><expan>F<ex>alkvor</ex> L<ex>ommanson</ex></expan><abbr>F L</abbr></choice></l>
+<l>han gordest i h&#x00F3;ndo sterk</l>
+<l>han tok <choice><expan>fr<ex>uga</ex> M<ex>endelin</ex></expan><abbr>fr. M</abbr></choice></l>
+<l>og sette&#x0027;a p&#x00E1; h&#x00F8;gan hest</l>
+</lg>
+<lg>
+<l>14. Ded var <choice><expan>F<ex>alkvor</ex> L<ex>ommanson</ex></expan><abbr>F L</abbr></choice></l>
+<l>han lyfter paa h&#x00F8;gan Hat</l>
+<l>farvel Tostein Davidson</l>
+<l>og hav no tusin god nat.</l>
+</lg>
+<lg>
+<l>15. In s&#x00E1; spring den liten smaadreng</l>
+<l>og segir han tiden&#x00F0; ifr&#x00E1;</l>
+<l>ute er <choice><expan>F<ex>alkvor</ex> L<ex>ommanson</ex></expan><abbr>F L</abbr></choice></l>
+<l>reiser af med unge bru&#x00F0; v&#x00E1;r.</l>
+</lg>
+<lg>
+<l>16. Up vaknad <choice><expan>T<ex>ostein</ex> D<ex>avidson</ex></expan><abbr>T D</abbr></choice></l>
+<l>han ropar iver al sin g&#x00E1;rd</l>
+<l>der stande up alle mine gode hofmenn</l>
+<l>kl&#x00E6;d dikkon i brynjune bl&#x00E1;.</l>
+</lg>
+<lg>
+<l>17. H&#x00F8;yrer di alle mine gode hofmenn</l>
+<l>der kl&#x00E6; dikkon uten fals</l>
+<l>der kenner vel <choice><expan>F<ex>alkvor</ex> L<ex>ommanson</ex></expan><abbr>F L</abbr></choice></l>
+<l>ded er no ein v&#x00E1;gehals</l>
+</lg>
+<lg>
+<l>18. Silde var de&#x00F0; om sondags aften</l>
+<l>da kveste dei sine spjut</l>
+<l>arle var ded om mondags morgon</l>
+<l>da reid dei her-kempur ut</l>
+</lg>
+<lg>
+<l>19. Ded var <choice><expan>F<ex>alkvor</ex> L<ex>ommanson</ex></expan><abbr>F L</abbr></choice></l>
+<l>han s&#x00E1;g seg att ivir h&#x00E6;r</l>
+<l>etter keme <choice><expan>T<ex>ostein</ex> D<ex>avidson</ex></expan><abbr>T D</abbr></choice></l>
+<l>vor herre v&#x00E6;r i mi f&#x00E6;r!</l>
+</lg>
+<lg>
+<l>20. Dei m&#x00F8;ttes up&#x00E1; Demanhei&#x00F0;i</l>
+<l>uti s&#x00E1; tykk ein gnyr</l>
+<l>branden beit og brynja sleit</l>
+<l>sto&#x00F0; r&#x00F8;ykin alt up under sky.</l>
+</lg>
+<lg>
+<l>21. Dei m&#x00F8;ttes up&#x00E1; Demanheidi</l>
+<l>uti sa tyk ein moi.</l>
+<l>Soli fek einki p&#x00E1; heidane skine</l>
+<l>for r&#x00F8;yken af manneblo&#x00F0;i.</l>
+</lg>
+<lg>
+<l>22. Dei stridde der i dagar</l>
+<l>og vel i dagane tv&#x00E1;</l>
+<l>atte stod <choice><expan>T<ex>ostein</ex> D<ex>avidson</ex></expan><abbr>T D</abbr></choice></l>
+<l>hans folket ded falt ifr&#x00E1;.</l>
+</lg>
+<lg>
+<l>23. Heimte reid <choice><expan>T<ex>ostein</ex> D<ex>avidson</ex></expan><abbr>T D</abbr></choice></l>
+<l>med mange mennar og s&#x00E1;re</l>
+<l><choice><expan>F<ex>alkvor</ex></expan><abbr>F</abbr></choice> spila&#x00F0; f&#x00F8;r bergi nord</l>
+<l>alt med sin keraste k&#x00E1;te.</l>
+</lg>
+<lg>
+<l>24. Heimte reid <choice><expan>T<ex>ostein</ex> D<ex>avidson</ex></expan><abbr>T D</abbr></choice></l>
+<l>med mange salar og tome</l>
+<l><choice><expan>F<ex>alkvor</ex></expan><abbr>F</abbr></choice> spelar fer bergjo nord</l>
+<l>alt med si rosens blome</l>
+</lg>
+<lg>
+<l>25. Ded var no <choice><expan>T<ex>ostein</ex> D<ex>avidson</ex></expan><abbr>T D</abbr></choice></l>
+<l>han s&#x00F8;rjir no ei s&#x00E1; s&#x00E1;rt</l>
+<l>her er no s&#x00E1; mange dei stolte jomfrugur</l>
+<l>som sj&#x00F8;nnune fylgjer n&#x00E1;t.</l>
+</lg>
+<figure rend="asterisk"/>
+<p><hi rend="italic">Strofene er unummererte i manuskriptet.</hi></p>
+</div>
+<div type="uchapter" subtype="song" xml:id="BIN1206">
+<head type="sub">Oppskrift B</head>
+<p>TSB C 15: Falkvor Lommansson</p>
+<p>Oppskrift: <date when="1863">1863</date> av <name type="collector" corresp="saSB">Sophus Bugge</name> etter <name type="source" corresp="kiJKB">Jorunn Knutsdotter Bj&#x00F8;nnemyr</name>, <name type="place">Mo, Telemark</name>.</p>
+<p>Orig. ms.: NFS Sophus Bugge d, 281&#x2013;285 (kladd)</p>
+<p>Utan oppgjeven tittel<note type="criticalApp"><hi rend="italic">Tittel i reinskrifta:</hi> Falkus Lommansson og Tostein Davidson</note></p>
+<figure rend="asterisk"/>
+<lg>
+<l n="1">1. De va <name>Falkus Lommanson</name></l>
+<l>de va h&#x00E5;noms st&#x00F8;ste kv&#x00ED;e</l>
+<l>han blev fra sin festarm&#x00F8; dreven</l>
+<l>den t&#x00ED;d &#x0027;en var so l&#x00ED;ten.</l>
+<l n="ref">&#x2013; Riddaren v&#x00E5;gar en<note type="criticalApp"><hi rend="italic">Alternativ lesem&#x00E5;te:</hi> han</note> l&#x00ED;ve sitt for ei jomfr&#x00FA; &#x2013;</l>
+</lg>
+<lg>
+<l>2. De <choice><expan><ex>va Falkus Lommanson</ex></expan></choice></l>
+<l><choice><expan><ex>de va h&#x00E5;noms st&#x00F8;ste</ex></expan><abbr>&#x2013;</abbr></choice> harm</l>
+<l><choice><expan><ex>han blev fra sin festarm&#x00F8; dreven</ex></expan></choice></l>
+<l><choice><expan><ex>den t&#x00ED;d</ex></expan><abbr>&#x2013;</abbr></choice> han var et barn.</l>
+</lg>
+<lg>
+<l>3. De va d&#x00E5; <name>T&#x00F3;stein Davids&#x00F3;n</name></l>
+<l>han lete<note type="footnote"><hi rend="italic">Over ordet st&#x00E5;r:</hi> (aab e)</note> ti bryllaups bera,</l>
+<l>de va d&#x00E5; <choice><expan>F<ex>alkus</ex> L<ex>ommanson</ex></expan><abbr>F. L.</abbr></choice></l>
+<l>han lete seg ringsk&#x00F3; gjera.</l>
+</lg>
+<lg>
+<l>4. De <choice><expan><ex>va d&#x00E5; T&#x00F3;stein Davids&#x00F3;n</ex></expan></choice></l>
+<l><choice><expan><ex>han lete ti bryllaups</ex></expan><abbr>&#x2013;</abbr></choice> reie,</l>
+<l>de <choice><expan><ex>va d&#x00E5; Falkus Lommanson</ex></expan></choice></l>
+<l><choice><expan><ex>han lete</ex></expan><abbr>&#x2013;</abbr></choice> sine<note type="criticalApp"><hi rend="italic">Alternativ lesem&#x00E5;te:</hi> si&#x0027;</note> hestar skormeite.</l>
+</lg>
+<lg>
+<l>5. De va d&#x00E5; <choice><expan>F<ex>alkus</ex> L<ex>ommanson</ex></expan><abbr>F. L.</abbr></choice></l>
+<l><choice><expan><ex>han lete ti bryllaups</ex></expan><abbr>&#x2013;</abbr></choice> bj&#x00F3;e</l>
+<l><choice><expan><ex>de va d&#x00E5; Falkus Lommanson</ex></expan></choice></l>
+<l><choice><expan><ex>han lete sine hestar</ex></expan><abbr>&#x2013;</abbr></choice> ringsk&#x00F3;e.</l>
+</lg>
+<lg>
+<l>6. De va d&#x00E5; <choice><expan>F<ex>alkus</ex> L<ex>ommanson</ex></expan><abbr>F. L.</abbr></choice></l>
+<l>han springe p&#x00E5; gangaren gr&#x00E5;</l>
+<l>de va d&#x00E5; h&#x00E5;noms l&#x00ED;ten sm&#x00E5;dreng</l>
+<l>han springe deratta p&#x00E5;.</l>
+</lg>
+<lg>
+<l>7. Inn so kj&#x00E6;me den l&#x00ED;ten sm&#x00E5;dreng</l>
+<l>&#x00E5; seie han t&#x00ED;end &#x00ED;fr&#x00E5;</l>
+<l>her kj&#x00E6;m ei hoff&#x00E6;r &#x00ED; v&#x00E5;rs g&#x00E5;r,</l>
+<l>&#x00E5; adde m&#x00E6; brynja bl&#x00E5;.</l>
+</lg>
+<lg>
+<l>8. Her <choice><expan><ex>kj&#x00E6;m ei hoff&#x00E6;r i v&#x00E5;rs g&#x00E5;r,</ex></expan><abbr>&#x2013;</abbr></choice></l>
+<l>&#x00E5; adde hev<note type="criticalApp"><hi rend="italic">Alternativ lesem&#x00E5;te:</hi> m&#x00E6;</note> ringsk&#x00F3;dde hestar</l>
+<l>&#x00E5; s&#x00F3; rider no dei</l>
+<l>at j&#x00F3;ri den tiss d&#x00E5; breste.</l>
+</lg>
+<lg>
+<l>9. De va fr&#x00FA;va <name>Ven&#x00ED;sli</name><note type="footnote"><hi rend="italic">I margen st&#x00E5;r:</hi> (aab i)</note></l>
+<l>ho<note type="criticalApp"><hi rend="italic">Alternativ lesem&#x00E5;te:</hi> hun</note> tok dei &#x00F3;re<note type="criticalApp"><hi rend="italic">Alternativ lesem&#x00E5;te:</hi> de oren</note> &#x00ED;agt</l>
+<l>de &#x00E6; <choice><expan>F<ex>alkus</ex> L<ex>ommanson</ex></expan><abbr>F. L.</abbr></choice></l>
+<l>han hev meg lengji umsagt.<note type="footnote"><hi rend="italic">Over ordet st&#x00E5;r:</hi> (sic)</note></l>
+</lg>
+<lg>
+<l>10. De ta<hi rend="underlined">kje</hi> av meg mitt hoveg&#x00FA;ll</l>
+<l>setje meg &#x00ED;blandt anna kvendi</l>
+<l>&#x00E5; kjem en inn <choice><expan>F<ex>alkus</ex> L<ex>ommanson</ex></expan><abbr>F. L.</abbr></choice></l>
+<l>han m&#x00E5; meg inkji kjenne.</l>
+</lg>
+<lg>
+<l>11. Inn kom <choice><expan>F<ex>alkus</ex> L<ex>ommanson</ex></expan><abbr>F. L.</abbr></choice></l>
+<l>m&#x00E6; sv&#x00E6;ri &#x00ED; h&#x00F3;rri hendi</l>
+<l>han helsa ti fr&#x00FA;va <name>Vendeli</name></l>
+<l>m&#x00E6; r&#x00F8;degullband kring h<hi rend="underlined">en</hi>di.</l>
+</lg>
+<lg>
+<l>12. De va d&#x00E5; <choice><expan>F<ex>alkus</ex> L<ex>ommanson</ex></expan><abbr>F. L.</abbr></choice></l>
+<l>han l&#x00FA;tte over brede b&#x00F3;r</l>
+<l>han talar ti br&#x00FA;re</l>
+<l>eitt skjemtan &#x00F3;r.</l>
+</lg>
+<lg>
+<l>13. De va d&#x00E5; fruva Vendeli</l>
+<l>ho renner<note type="criticalApp"><hi rend="italic">Alternativ lesem&#x00E5;te:</hi> h&#x00E6;ne rennest</note> t&#x00E5;rir p&#x00E5; kinn</l>
+<l>mange dei gj&#x00F8;r ette fremmundes<note type="criticalApp"><hi rend="italic">Alternativ lesem&#x00E5;te:</hi> fremmunde</note> r&#x00E5;</l>
+<l>&#x00E5; tykkes det siden v&#x00E6;re ilde.</l>
+</lg>
+<lg>
+<l>14. Skamm so fari den unge br&#x00FA;gom</l>
+<l>so l&#x00ED;ti han t&#x00F3;r freiste<note type="criticalApp"><hi rend="italic">Alternativ lesem&#x00E5;te:</hi> driste</note></l>
+<l>han sto attafyr den h&#x00F8;ie lofts d&#x00F8;r</l>
+<l>d&#x00E5; br&#x00FA;re av gari reiste<note type="criticalApp"><hi rend="italic">Alternativ lesem&#x00E5;te:</hi> ho steig ti hesti</note></l>
+</lg>
+<lg>
+<l>15. Skamm <choice><expan><ex>so fari den unge br&#x00FA;gom</ex></expan></choice></l>
+<l><choice><expan><ex>so l&#x00ED;ti han t&#x00F3;r</ex></expan><abbr>&#x2013;</abbr></choice> v&#x00E5;ge</l>
+<l><choice><expan><ex>han sto attafyr den h&#x00F8;ie lofts d&#x00F8;r</ex></expan></choice></l>
+<l><choice><expan><ex>d&#x00E5; br&#x00FA;re</ex></expan><abbr>&#x2013;</abbr></choice> h&#x00F3; rei av g<hi rend="underlined">ar</hi>i.</l>
+</lg>
+<lg>
+<l>16. Fredagjen &#x00E5; laurdagjen</l>
+<l>d&#x00E5; sl&#x00ED;par T&#x00F3;stein sitt sv&#x00E6;r,</l>
+<l>tileg<add place="above">t</add> um m&#x00E5;ndags morg&#x00F3;en</l>
+<l>rider han &#x00ED; Falkus f&#x00E6;r.</l>
+</lg>
+<lg>
+<l>17. Dei m&#x00F8;ttes no i hei&#x00F3; n&#x00F3;r</l>
+<l>m&#x00E6; m&#x00FD;r &#x00E5; mykjen gn&#x00FD;r</l>
+<l>branden beit &#x00E5; brynja sleit</l>
+<l>&#x00E5; r&#x00F8;yken sto undi sk&#x00FD;.</l>
+</lg>
+<lg>
+<l>18. Dei m&#x00F8;ttest <choice><expan><ex>no i hei&#x00F3; n&#x00F3;r</ex></expan></choice></l>
+<l><choice><expan><ex>m&#x00E6; m&#x00FD;r</ex></expan><abbr>&#x2013;</abbr></choice> &#x00E5; st&#x00F3;re m<hi rend="underlined">&#x00F3;</hi>i</l>
+<l>branden <choice><expan><ex>beit &#x00E5; brynja sleit</ex></expan></choice></l>
+<l><choice><expan><ex>&#x00E5; r&#x00F8;yken</ex></expan><abbr>&#x2013;</abbr></choice> st&#x00F3; av <hi rend="underlined">bloe</hi>.</l>
+</lg>
+<lg>
+<l>19. Heimte r&#x00ED;e <choice><expan>T<ex>ostein</ex> D<ex>avidson</ex></expan><abbr>T. D.</abbr></choice></l>
+<l>m&#x00E6; sj&#x00FA;ke mennar &#x00E5; s&#x00E5;re</l>
+<l>&#x005B;men&#x005D; Falkus han spilar &#x00ED; heio nor</l>
+<l>alt m&#x00E6; si br&#x00FA;re k<hi rend="underlined">&#x00E5;t</hi>e.</l>
+</lg>
+<lg>
+<l>20. Heimte <choice><expan><ex>rie Tostein Davidson</ex></expan><abbr>&#x2013;</abbr></choice></l>
+<l>m&#x00E6; brotne salar &#x00E5; tome,</l>
+<l>&#x00E5; <choice><expan>F<ex>alkus</ex></expan><abbr>F.</abbr></choice> <choice><expan><ex>han spilar &#x00ED; heio</ex></expan><abbr>&#x2013;</abbr></choice> n&#x00F3;r</l>
+<l>alt m&#x00E6; si rosensplome.</l>
+</lg>
+<lg>
+<l>21. Bryllaupi hava me drukkji</l>
+<l>&#x00E5; brure den hava me mist</l>
+<l>so s&#x00E5;re syrgjer <choice><expan>T<ex>ostein</ex> D<ex>avidson</ex></expan><abbr>T. D.</abbr></choice></l>
+<l>som fuglen<note type="criticalApp"><hi rend="italic">Alternativ lesem&#x00E5;te:</hi> turtelduen</note> p&#x00E5; lindekvist.</l>
+</lg>
+<figure rend="asterisk"/>
+<p><hi rend="italic">Strofene er unummererte i manuskriptet.</hi></p>
+<p><hi rend="italic">Reinskrift: NFS Sophus Bugge VI, 5&#x2013;7</hi></p>
+</div>
+<div type="uchapter" subtype="song" xml:id="BIN1203">
+<head type="sub">Oppskrift C</head>
+<p>TSB C 15: Falkvor Lommansson</p>
+<p>Oppskrift: <date when="1864">1864</date> av <name type="collector" corresp="saSB">Sophus Bugge</name> etter <name type="source" corresp="kiGKS">Gunhild Kjetilsdotter Sundsli</name>, <name type="place">Fyresdal, Telemark</name>.</p>
+<p>Orig. ms.: NFS Sophus Bugge f, 20&#x2013;26 (kladd)</p>
+<p>Utan oppgjeven tittel.</p>
+<figure rend="asterisk"/>
+<lg>
+<l n="1">1. De va <name>Tostein Davison</name></l>
+<l>de va kungens fr&#x00E6;ndi</l>
+<l>han fester &#x00E6; jomfr&#x00FA; <name>Bendeli</name></l>
+<l>han gjev&#x00E6; no gull &#x00ED; hendi.</l>
+<l n="ref">&#x2013; Riddaren v&#x00E5;gar han l&#x00ED;ve sitt for den jomfr&#x00FA; &#x2013;</l>
+</lg>
+<lg>
+<l>2. Han fester &#x00E6; jomfr&#x00FA; Bendeli</l>
+<l>han fl&#x00FD;t &#x00E6; no heim &#x00FA;t&#x00ED; borgjir</l>
+<l>men etti tr&#x00F8;r <name>Falkus Lommanss&#x00F3;n</name></l>
+<l>han aukar &#x00E6; angest &#x00E5; sorgjir.</l>
+</lg>
+<lg>
+<l>3. De va <choice><expan>F<ex>alkus</ex> L<ex>ommanss&#x00F3;n</ex></expan><abbr>F. L.</abbr></choice></l>
+<l>han inn for si m&#x00F3;der g&#x00E5;r</l>
+<l>eg fester &#x00E6; jomfr&#x00FA; <name>Vendeli</name><note type="footnote"><hi rend="italic">Over namnet st&#x00E5;r:</hi> (sic)</note></l>
+<l>um eg ska d&#x00F8;y &#x00ED;&#x00E5;r.</l>
+</lg>
+<lg>
+<l>4. Eg fester &#x00E6; <choice><expan>j<ex>omfru</ex> B<ex>endeli</ex></expan><abbr>j B</abbr></choice></l>
+<l>um eg &#x00ED; morg&#x00F3; ska d&#x00F8;y</l>
+<l>her gr&#x00E6;t inkje sm&#x00E5;bonn&#x00E6; ette meg</l>
+<l>&#x00E5; inkji mi festarm&#x00F8;y.</l>
+</lg>
+<lg>
+<l>5. Ti svara hass kj&#x00E6;re m&#x00F3;der</l>
+<l>gulli bar h&#x00F3; &#x00FA;ti hendi</l>
+<l>gjer inkje de Falkus Lommanss&#x00F3;n</l>
+<l>fyr Tostein &#x00E6; k&#x00F3;ngens fr&#x00E6;ndi.</l>
+</lg>
+<lg>
+<l>6. De va <choice><expan>F<ex>alkus</ex> L<ex>ommanss&#x00F3;n</ex></expan><abbr>F. L.</abbr></choice></l>
+<l>han salar sin gangar gr&#x00E5;,</l>
+<l>so r&#x00ED;e han so mandeleg</l>
+<l>ti jomfr&#x00FA; Vendelis g&#x00E5;r.</l>
+</lg>
+<lg>
+<l>7. De va jomfr&#x00FA; Bendeli</l>
+<l>h&#x00F3; &#x00FA;t igjenom vindouga s&#x00E5;g</l>
+<l>no s&#x00E9;r eg <choice><expan>F<ex>alkus</ex> L<ex>ommanss&#x00F3;n</ex></expan><abbr>F. L.</abbr></choice></l>
+<l>s&#x00F3;m eg hev vor&#x0027; stol&#x00E6; &#x00ED;fr&#x00E5;.</l>
+</lg>
+<lg>
+<l>8. D&#x00ED; tak no av meg mitt hovegull</l>
+<l>&#x00E5; kl&#x00E6;der mig so ringe</l>
+<l>inn kjem han <choice><expan>F<ex>alkus</ex> L<ex>ommanss&#x00F3;n</ex></expan><abbr>F. L.</abbr></choice></l>
+<l>han ska meg sl&#x00E9;tt inkje kjenne.</l>
+</lg>
+<lg>
+<l>9. D&#x00ED; <choice><expan><ex>tak no av meg mitt</ex></expan><abbr>&#x2013;</abbr></choice> hovegull,</l>
+<l>set p&#x00E5; meg ei silkjel&#x00FA;e</l>
+<l>inn kjem han <choice><expan>F<ex>alkus</ex> L<ex>ommanss&#x00F3;n</ex></expan><abbr>F. L.</abbr></choice></l>
+<l>han helsar meg fyr ei fr&#x00FA;e.</l>
+</lg>
+<lg>
+<l>10. Inn kom <choice><expan>F<ex>alkus</ex> L<ex>ommanss&#x00F3;n</ex></expan><abbr>F. L.</abbr></choice></l>
+<l>hatten bar han &#x00FA;t&#x00ED; hendi,</l>
+<l>eg helsar deg jomfr&#x00FA; <choice><expan>B<ex>endelin</ex></expan><abbr>B.</abbr></choice></l>
+<l>so v&#x00E6;l m&#x00F3;nne eg deg kjenne.</l>
+</lg>
+<lg>
+<l>11. H&#x00F8;yrer de <choice><expan>F<ex>alkus</ex> L<ex>ommanss&#x00F3;n</ex></expan><abbr>F. L.</abbr></choice></l>
+<l>du hels inkji h&#x00ED;t ti meg</l>
+<l>eg &#x00E6; ei fatike tenestpike<note type="footnote"><hi rend="italic">Over ordet st&#x00E5;r:</hi> (aab.)</note></l>
+<l>eg &#x00E6; nyss kom&#x00E6; her.</l>
+</lg>
+<lg>
+<l>12. H&#x00F8;yrer de jomfr&#x00FA; <choice><expan>B<ex>endelin</ex></expan><abbr>B.</abbr></choice></l>
+<l>du tar inkje fyr meg l&#x00F8;yne</l>
+<l>min gangaren stend &#x00ED; r&#x00F3;sanlund</l>
+<l>&#x00ED; morg&#x00F3; ska&#x0027; du han r&#x00F8;yne.</l>
+</lg>
+<lg>
+<l>13. Han tok &#x00E6; jomfru <choice><expan>V<ex>endeli</ex></expan><abbr>V.</abbr></choice></l>
+<l>han sveipte &#x00E6; &#x00ED; k&#x00E5;pa bl&#x00E5;,</l>
+<l>de vil eg for sannhet&#x00E6; seie</l>
+<l>han sette &#x00E6; p&#x00E5; gangaren gr&#x00E5;.</l>
+</lg>
+<lg>
+<l>14. De va <choice><expan>j<ex>omfru</ex> V<ex>endeli</ex></expan><abbr>j. V.</abbr></choice></l>
+<l>h&#x00F3; gr&#x00E9;t sine hendar h&#x00F3; sl&#x00F3;,</l>
+<l>ha eg meg no so tr&#x00FA;gen en venn,</l>
+<l>som kann bere bo&#x00E6; ti Tostein Davison.</l>
+</lg>
+<lg>
+<l>15. De va hennes liten sm&#x00E5;dreng</l>
+<l>han steig p&#x00E5; gangaren r&#x00F8;,</l>
+<l>de vil eg for sannhet&#x00E6; seie</l>
+<l>han rei f&#x00F3;rtare hell fuglen fl&#x00F8;i.</l>
+</lg>
+<lg>
+<l>16. Her site du <choice><expan>T<ex>ostein</ex> D<ex>avison</ex></expan><abbr>T. D.</abbr></choice></l>
+<l>&#x00E5; drikke mj&#x00F8;yr &#x00E5; v&#x00ED;n</l>
+<l>imens han <choice><expan>F<ex>alkus</ex> L<ex>ommanss&#x00F3;n</ex></expan><abbr>F. L.</abbr></choice></l>
+<l>dreg av landi m&#x00E6; jomfr&#x00FA;a d&#x00ED;.</l>
+</lg>
+<lg>
+<l>17. De va <choice><expan>T<ex>ostein</ex> D<ex>avison</ex></expan><abbr>T. D.</abbr></choice></l>
+<l>han fram &#x00ED;fr&#x00E5; b&#x00F3;ri sprang</l>
+<l>de vi eg <choice><expan>f<ex>or</ex> s<ex>annhet&#x00E6;</ex> s<ex>eie</ex></expan><abbr>f s s</abbr></choice></l>
+<l>at sporen p&#x00E5; f&#x00F3;ten klang.</l>
+</lg>
+<lg>
+<l>18. De va <choice><expan>T<ex>ostein</ex> D<ex>avison</ex></expan><abbr>T. D.</abbr></choice></l>
+<l>han r&#x00F3;par ivi allt sitt h&#x00FA;s</l>
+<l>vakne n&#x00F3; upp m&#x00ED;ne raske hommenn</l>
+<l>no &#x00E6; visst dagjen lj&#x00FA;s.</l>
+</lg>
+<lg>
+<l>19. D&#x00E5; han reiste ifr&#x00E5; sin g&#x00E5;r,</l>
+<l>d&#x00E5; ha en tr&#x00E6;dive menn,</l>
+<l>men fyr han kom &#x00ED; r&#x00F3;san lund</l>
+<l>d&#x00E5; ha en inkje kot ein.</l>
+</lg>
+<lg>
+<l>20. De va <choice><expan>F<ex>alkus</ex> L<ex>ommanss&#x00F3;n</ex></expan><abbr>F. L.</abbr></choice></l>
+<l>han &#x00FA;t &#x00ED;gjenom vindouga s&#x00E5;g</l>
+<l>no s&#x00E9;r eg mange raske hommenn</l>
+<l>er kommen &#x00FA;t&#x00ED; v&#x00E5;r g&#x00E5;r.</l>
+</lg>
+<lg>
+<l>21. De va <choice><expan>F<ex>alkus</ex> L<ex>ommanss&#x00F3;n</ex></expan><abbr>F. L.</abbr></choice></l>
+<l><choice><expan><ex>han ut igjenom vindouga</ex></expan><abbr>&#x2013;</abbr></choice> sprang,</l>
+<l>han rudde de romi</l>
+<l>som fyr ha vori so trangt.</l>
+</lg>
+<lg>
+<l>22. Fyste hoggji han <choice><expan>T<ex>ostein</ex> D<ex>avison</ex></expan><abbr>T. D.</abbr></choice></l>
+<l>&#x00E5; sia adde hass menn</l>
+<l>&#x00C5; gangje no heimatte kv&#x00E6;r ti seg</l>
+<l>di f&#x00E6;r inkje br&#x00FA;r&#x00E6; enn.</l>
+</lg>
+<lg>
+<l>23. Heimatt rei adde Tosteins menn</l>
+<l>mennanne sj&#x00FA;ke &#x00E5; s&#x00E5;re</l>
+<l>av landi dr&#x00F3;g <choice><expan>F<ex>alkus</ex> L<ex>ommanss&#x00F3;n</ex></expan><abbr>F. L.</abbr></choice></l>
+<l>m&#x00E6; skj&#x00F8;naste jomfr&#x00FA;a v&#x00E5;re.</l>
+</lg>
+<figure rend="asterisk"/>
+<p><hi rend="italic">Strofene er unummererte i manuskriptet.</hi></p>
+<p><hi rend="italic">Reinskrift/avskrift i anna hand: TGM R. Berge DCVI, s. 8ff.</hi></p>
+<figure rend="shortHorizRule"/>
+</div>
+</div>
+<div type="chapter" n="8" xml:id="TSB_C_17">
+<head type="main"><ref type="contents" target="contents_8" xml:id="chapter_8">TSB C 17 Mindre Alvs d&#x00F8;d</ref></head>
+<div type="uchapter" subtype="intro">
+<head type="sub">Innleiing</head>
+<p>Den norske baronen og sj&#x00F8;r&#x00F8;varen Alv Erlingsson har forkledd seg som messedreng, men han blir gjenkjent og arrestert. Som fredlaus m&#x00E5; han rekne med &#x00E5; miste livet. Han blir f&#x00F8;rd til Helsingborg, og der d&#x00F8;mer den danske dronninga Alv til &#x00E5; leggjast p&#x00E5; stegl og hjul. F&#x00F8;r han blir avretta, angrar han syndene sine:</p>
+<lg>
+<l>Gud v&#x00E6;re mig blid oc miskundelig,</l>
+<l>der effter monne ieg forlange:</l>
+<l>At ieg effter denne her haanlige D&#x00F8;d</l>
+<l>det euige Liff maatte fange.</l>
+<l>Fordi kl&#x00E6;der Alff baade Steyle oc Hiul</l>
+<l>saa h&#x00F8;yt faar &#x00D8;resund</l>
+<l>(DgF III: 438).</l>
+</lg>
+<p>Det ligg historiske hendingar til grunn for denne balladen. Alv Erlingsson var ein norsk stormann som herja i Danmark, stort sett p&#x00E5; eige initiativ. Han gjekk ogs&#x00E5; til &#x00E5;tak p&#x00E5; Oslo og fanga og drap hertug H&#x00E5;kons h&#x00F8;vedsmann i byen. I 1290 vart han vart fanga av danskane og avretta, slik visa seier. To &#x00E5;r seinare vart leivningane frakta til T&#x00F8;nsberg og gravlagde.</p>
+<p>Det har truleg funnest ei eldre norsk form av balladen om Alv Erlingssons avretting, men berre omkvedet er att: &#x00AB;f&#x00E6; d&#x00E6; kl&#x00E6;der Elv baade Staggel&#x0027; aa Hjul saa h&#x00F8;gt over &#x00D8;rsund&#x00BB; (Ressem 2011: 311&#x2013;312). Dette omkvedet skreiv Lindeman opp (1851) saman med f&#x00F8;rste strofe og melodi, etter telemarkssongarane Jon Jonsson Myre (1799&#x2013;1872) fr&#x00E5; Sauland og Olav Kjetilsson Stigen (1809-1887) fr&#x00E5; Tuddal (1861) (Jonsson &#x0026; Solberg 2011: 179&#x2013;180, 186&#x2013;187). Dei relativt f&#x00E5; norske tekstane g&#x00E5;r tilbake p&#x00E5; Vedels viseform (1591) og ikkje minst Peder Syvs kjempevisebok.</p>
+<p>Alv Erlingsson hadde ei s&#x00E6;rleg tilknyting til T&#x00F8;nsberg og Vestfold, og segntradisjonen om han heldt seg lenge der (Eriksen 2002: 147&#x2013;166).</p>
+<p>I tradisjon og balladedikting blir Alv Erlingsson gjerne kalla <hi rend="italic">mindre</hi> Alv. Epitetet <hi rend="italic">mindre</hi> er ei omsynging av <hi rend="italic">milde</hi>, ein heidrande karakteristikk som vart bruka om stormenn i mellomalderen.</p>
+<p rend="noIndent">Utsyn 182<lb/>DgF 151</p>
+</div>
+<div type="uchapter" subtype="song" xml:id="BIN6208">
+<head type="sub">Oppskrift A</head>
+<p>TSB C 17: Mindre-Alvs d&#x00F8;d</p>
+<p>Kjempeviseboka III 15, s. 370&#x2013;372</p>
+<p>Oppgjeven tittel: Den anden Vise om Minder Herr Alf, Gr&#x00E6;ve udi Tunsbierg.</p>
+<figure rend="asterisk"/>
+<lg>
+<l n="1">1. <name>Alf</name> han er i Norge land f&#x00F8;d,</l>
+<l>hannem lyster der intet at v&#x00E6;re:</l>
+<l>Han haver vel femten Herreder i Leen,</l>
+<l>han kand sig deraf n&#x00E6;re.</l>
+</lg>
+<lg>
+<l>2. Alf han ganger paa gr&#x00F8;nnen Vold,</l>
+<l>og l&#x00E6;ser han der sin Tide;</l>
+<l>Der m&#x00F8;der hannem <name>Bendit Rimaards&#x00F8;n</name>,</l>
+<l>hans Ski&#x00E6;ben var hannem ikke blide.</l>
+</lg>
+<lg>
+<l>3. God Morgen, god Dag, liden <name>Milde Alf</name>,</l>
+<l>du est saa modig en Herre:</l>
+<l>Men bliver du kongens Fange i Dag,</l>
+<l>ikke staar Landet disverre.</l>
+</lg>
+<lg>
+<l>4. Ikke saa er jeg <name>Mindre Herr Alf</name>,</l>
+<l>du t&#x00F8;r det ikke vente:</l>
+<l>Jeg er en liden Messe-Dreng,</l>
+<l>skal Viin for Pr&#x00E6;sten hente.</l>
+</lg>
+<lg>
+<l>5. Saa l&#x00F8;ste han op hans h&#x00F8;ye Hat,</l>
+<l>og saae hannem i sin Pande:</l>
+<l>Alt est du Norske Herr <name>Minder Alf</name>,</l>
+<l>om jeg kand ret forstande.</l>
+</lg>
+<lg>
+<l>6. Du haver v&#x00E6;ret en Klerk med mig,</l>
+<l>det maa jeg sige for sande:</l>
+<l>Jeg kiendte dig i det Skole-Huus,</l>
+<l>du giorde os andre stor Vaande.</l>
+</lg>
+<lg>
+<l>7. Og est du Bendit Rimaards&#x00F8;n,</l>
+<l>og da est du min Frende:</l>
+<l>Du sv&#x00E6;r en Eed for mig i Dag,</l>
+<l>det du mig aldrig kiende.</l>
+</lg>
+<lg>
+<l>8. Saa toge de hannem Minder Herr Alf,</l>
+<l>de sloge hannem Bolten om Foed:</l>
+<l>F&#x00F8;rde de hannem til <name>Helsingborg</name>,</l>
+<l>den Danske Dronning imod.</l>
+</lg>
+<lg>
+<l>9. Tage I nu Minder Herr Alf,</l>
+<l>lade hannem i Stuen indgange:</l>
+<l>I lade de Fruer og stolte Jomfruer,</l>
+<l>skue saa riig en Fange.</l>
+</lg>
+<lg>
+<l>10. Det da svarede den Danske Dronning,</l>
+<l>det f&#x00F8;rste hun Minder Alf saae:</l>
+<l>Er det ikke andet for en Mand,</l>
+<l>der saadanne Safn gaar fra.</l>
+</lg>
+<lg>
+<l>11. Enddog jeg er paa Vexten liden,</l>
+<l>dog er jeg Mandelig ki&#x00F8;n:</l>
+<l>Men aldrig lever du saa god en Dag,</l>
+<l>at du f&#x00F8;der saadan en S&#x00F8;n.</l>
+</lg>
+<lg>
+<l>12. Jeg gav dertil min Kaabe blaa:</l>
+<l>er skaaren i Roser og Lille:</l>
+<l>Jeg maatte ikkun en Nat hos eder sove,</l>
+<l>om det var saa eders Villie.</l>
+</lg>
+<lg>
+<l>13. Maatte jeg en Nat ikkun hos eder sove,</l>
+<l>det viste ikke uden eders Terne:</l>
+<l>Det vil jeg for sanden sige,</l>
+<l>I bade for mig saa gierne.</l>
+</lg>
+<lg>
+<l>14. Det svarede hannem Dansker Dronning,</l>
+<l>hun slog sin Haand imod Bord:</l>
+<l>Du skalt kl&#x00E6;dde en Steyle i Morgen,</l>
+<l>f&#x00F8;rend Folk de gaae til Bord.</l>
+</lg>
+<lg>
+<l>15. Hvi steylede du ikke <name>Knud af S&#x00F8;nderborg</name>,</l>
+<l>ikke <name>Iver af Holstebroe</name>.</l>
+<l>Ikke da vare de meget bedre end jeg,</l>
+<l>dog de vare dig nest tro.</l>
+</lg>
+<lg>
+<l>16. Toge de liden Greve Herr Alf,</l>
+<l>lode hannem af Stuen udgange:</l>
+<l>Nok saa have Fruer og stolte Jomfruer,</l>
+<l>skued denne Skalkagtige Fange.</l>
+</lg>
+<lg>
+<l>17. Og de ledde Minder Greve Herr Alf,</l>
+<l>&#x00D8;sten for Helsingborg ud:</l>
+<l>Sine Synder han kiendes saa klagelig,</l>
+<l>saa fast raabte han til Gud.</l>
+</lg>
+<lg>
+<l>18. Jeg raader hver &#x00E6;rlig Danne-Quindes S&#x00F8;n,</l>
+<l>han tragte efter Heder og &#x00C6;re:</l>
+<l>Han bliver i Land og teer sig vel,</l>
+<l>med Lige kand han sig n&#x00E6;re.</l>
+</lg>
+<lg>
+<l>19. Nu haver jeg tagen og r&#x00F8;vet med skiel,</l>
+<l>saa mangen god Dag og Aar:</l>
+<l>Hvad mand med Synd og Ur&#x00E6;t bekommer,</l>
+<l>med Skam og Sorg det gaar.</l>
+</lg>
+<lg>
+<l>20. En Gr&#x00E6;ve var jeg af Ellings Art,</l>
+<l>ove <name>Tunsberg</name>s L&#x00E6;n det rige:</l>
+<l>Det volte mig Fald og Vedermod,</l>
+<l>jeg vilde for ingen Mand vige.</l>
+</lg>
+<lg>
+<l>21.. F&#x00F8;rst da bedrev jeg grueligt Mord,</l>
+<l>paa hver som jeg fik i Sinde:</l>
+<l>Saa sparde jeg hverken Quinde eller M&#x00F8;e,</l>
+<l>jeg dem baade laste og skende.</l>
+</lg>
+<lg>
+<l>22. Jeg tog den fattig Borgere fra,</l>
+<l>sit Gods og Liv tillige:</l>
+<l>Det klager baade Enke og Faderl&#x00F8;s Barn,</l>
+<l>saa h&#x00F8;yt til GUd monne skrige.</l>
+</lg>
+<lg>
+<l>23. GUd v&#x00E6;re mig blid og miskundelig,</l>
+<l>der efter monne jeg forlange:</l>
+<l>At jeg efter denne her haanlige D&#x00F8;d,</l>
+<l>det &#x00E6;vige Liv maatte fange.</l>
+</lg>
+<figure rend="asterisk"/>
+<p><hi rend="italic">I Kjempeviseboka st&#x00E5;r denne etter ei vise med tittelen:</hi> Minder Herr Alf, Greve af Tunsberg, steylet for Helsingborg.</p>
+<p><hi rend="italic">Som innleiing til visa st&#x00E5;r det:</hi> Hvad denne Gr&#x00E6;ve Herr Alf Ellings&#x00F8;ns Historie er anr&#x00F8;rendes, er tilforn noksom omtalet. Man mener han skulde haft en Bef&#x00E6;stning ved Skaan&#x00F8;r, og der haft sin Tilflugt til og fra, ikke langt fra S&#x00F8;ekanten, hvorom der intet formeldes andet, end hvorledes han blev fangen af Herr Bendix Rimaars&#x00F8;n, som haver uden Tvivl v&#x00E6;ret tilforn i Staalbroder Laug i Ungdommen med hannem. Maa vel skee, v&#x00E6;ret saa god paa Haandv&#x00E6;rket som han, som det finnes af Herr Jon Rimaars&#x00F8;ns Handel, som tilforn blev r&#x00F8;rt. Saa beder man undertiden best, den eene Ref med den anden &#x005B;<gap/>&#x005D; Men det er raadeligt at f&#x00F8;lge den vise Davids Raad, Ps. 37. Haabe paa Herren, og gi&#x00F8;r got, bliv i Landet og n&#x00E6;re dig r&#x00E6;delig.</p>
+</div>
+<div type="uchapter" subtype="song" xml:id="BIN1227">
+<head type="sub">Oppskrift B</head>
+<p>TSB C 17: Mindre-Alvs d&#x00F8;d</p>
+<p>Oppskrift: <date when="xxxx">Udatert</date> av <name type="collector" corresp="saSB">Sophus Bugge</name> etter <name type="source" corresp="kiSGN">Signe Gjermundsdotter Napper</name>, <name type="place">Skafs&#x00E5;, Mo, Telemark</name>.</p>
+<p>Orig. ms.: NFS S. Bugge IV, s. 239</p>
+<p>Oppgjeven tittel: Mindre Herr Alv.</p>
+<figure rend="asterisk"/>
+<lg>
+<l n="1">1. = Syv V. 1.</l>
+<l>L. 3: han haver sig de Sn&#x00E6;kker syv.</l>
+<l n="ref">&#x2013; Fordi tr&#x00E6;der Alv p&#x00E5;<note type="footnote">O<hi rend="italic">ver ordet st&#x00E5;r:</hi> &#x005B;sic!&#x005D;</note> steiel &#x00E5; hjul s&#x00E5; h&#x00F8;it over &#x00D8;rsund. &#x2013;<note type="footnote"><hi rend="italic">Samlarkommentar:</hi> &#x005B;Den samme Eftersl&#x00E6;ng til Visen brugte H&#x00E6;ge Aarmotes Fader, o.fl.&#x005D;</note></l>
+</lg>
+<lg>
+<l>2. = Syv, V. 4. L. 1: Jeg er ikke liden mindre&#x2013;.</l>
+<l>L. 2: det t&#x00F8;rst du ikke t&#x00E6;nke.</l>
+</lg>
+<lg>
+<l>3. = Syv V. 13.</l>
+</lg>
+<lg>
+<l>4. Det var danske droningji,</l>
+<l>hun blev s&#x00E5; ille derved:</l>
+<l>&#x00AB;Du skal kl&#x00E6;de en steiel idag,</l>
+<l>f&#x00F8;r solen den g&#x00E5;r ned.&#x00BB;</l>
+</lg>
+<lg>
+<l>5. S&#x00E5; hugge de hannem hovedet af</l>
+</lg>
+<figure rend="asterisk"/>
+<p><hi rend="italic">Over oppskrifta st&#x00E5;r det:</hi> &#x005B;Hun kjendte Visen fra Kj&#x00E6;mpebogen, men sagde, at den ogsaa blev kv&#x00E6;det paa en anden Maade, men mindedes kun nogle Vers.&#x005D;</p>
+<figure rend="shortHorizRule"/>
+</div>
+</div>
+<div type="chapter" n="9" xml:id="TSB_C_18">
+<head type="main"><ref type="contents" target="contents_9" xml:id="chapter_9">TSB C 18 Herre Karl lever fredlaus</ref></head>
+<div type="uchapter" subtype="intro">
+<head type="sub">Innleiing</head>
+<p>Herr Karl har gjort oppr&#x00F8;r mot kongen, men mislukkast, og kongen kjem seg med naud og neppe unna. Kongen gjev soldatane sine ordre om &#x00E5; setje herr Karl i fengsel, i dei &#x00AB;t&#x00E5;rni bl&#x00E5;&#x00BB;. Fru Ingebj&#x00F8;rg, festarm&#x00F8;ya til herr Karl, ber for livet hans og tilbyr kongen rike g&#x00E5;ver, men kongen nektar &#x00E5; h&#x00F8;yre p&#x00E5; henne. F&#x00F8;rst n&#x00E5;r ho trugar med &#x00E5; brenne land og rike, set kongen herr Karl fri.</p>
+<p>I den norske tradisjonen finst det berre &#x00E9;i nokolunde heilsleg oppskrift av denne balladen. Denne oppskrifta gjorde Sophus Bugge i 1857 etter H&#x00E6;ge Olsdotter &#x00C5;rmote (1787&#x2013;1860) fr&#x00E5; Mo.<note type="footnote">(Biografi: Jonsson &#x0026; Solberg 2011: 466&#x2013;469)</note> Dei andre sv&#x00E6;rt fragmentariske oppskriftene er ogs&#x00E5; fr&#x00E5; Mo. Bugge sende H&#x00E6;ge Olsdotters tekst til Svend Grundtvig, og han trykte han i <title rend="italic">Danmarks gamle Folkeviser</title>.<note type="footnote">(DgF III: 754)</note> Bugges oppskrift st&#x00E5;r elles i antologien <title rend="italic">Norske balladar</title>.<note type="footnote">(Blom &#x0026; B&#x00F8; 1981: 131&#x2013;132)</note> Knut Liest&#x00F8;l har trykt ei rekonstruert form av balladen.<note type="footnote">(<title rend="italic">Norsk Folkedikting</title> VII. <title rend="italic">Folkeviser</title> II: 211&#x2013;214)</note></p>
+<p>Det finst fleire danske oppskrifter fr&#x00E5; 1500- og 1600-talet av denne balladen, med fyldigare handling og tragisk utgang. Vi h&#x00F8;yrer at ikkje berre festarm&#x00F8;ya, men ogs&#x00E5; Karls fire br&#x00F8;r, ber for han, utan at det hjelper. Herr Karl blir halshoggen: &#x00AB;saa hug di hans huode aff/offuer hans forgylte skiold&#x00BB;.<note type="footnote">(DgF III: 756)</note></p>
+<p>Sidan Grundtvigs tid har det vore vanleg &#x00E5; identifisere herr Karl i balladen som den svenske stormannen Karl Algotsson fr&#x00E5; V&#x00E4;sterg&#x00F6;tland. Han var bror til Folke Algotsson, og d&#x00E5; denne i 1288 &#x2013; med Karls hjelp &#x2013; r&#x00F8;va den h&#x00F8;g&#x00E6;tta Ingrid Svantepolksdotter fr&#x00E5; Lind&#x00F6;n og r&#x00F8;mde til Noreg med henne, fylgde Karl og andre br&#x00F8;r med. Brurerovet var eit alvorleg slag mot den svenske kongens politikk, for det var meininga at Ingrid skulle gifte seg med den danske drottseten David Torstensson og slik skape grunnlag for ein svensk-dansk allianse. Folke Algotsson v&#x00E5;ga seg aldri tilbake til Sverige, men det gjorde Karl. Det skulle han ikkje gjort, for han vart gripen og halshoggen. Om Folke Algotsson og Ingrid Svantepolksdotter vart det dikta ein ballade: &#x00AB;Falkvor Lommannsson&#x00BB;.</p>
+<p>Det finst enkelte likskapstrekk mellom dei historiske hendingane og &#x00AB;Herre Karl lever fredlaus&#x00BB;, f&#x00F8;rst og fremst i dei danske viseformene. Men historisk i eigentleg meining er balladen ikkje.</p>
+<p rend="noIndent">Utsyn 188<lb/>DgF 182</p>
+</div>
+
+
+<div type="song" xml:id="BIN1230">
+<head type="sub">Oppskrift A</head>
+<p>TSB C 18: Herre Karl lever fredlaus</p>
+<p>Oppskrift: <date when="1857">1857</date> av <name type="collector" corresp="saSB">Sophus Bugge</name> etter <name type="source" corresp="kiHOA">H&#x00E6;ge Olsdotter &#x00C5;rmote</name>, <name type="place">Mo, Telemark</name>.</p>
+<p>Orig. ms.: NFS S. Bugge a, s. 300&#x2013;302 (kladd)</p>
+<p>Utan oppgjeven tittel<note type="criticalApp"><hi rend="italic">Tittel i reinskrifta:</hi> Here Kall liver frelaus.</note></p>
+<figure rend="asterisk"/>
+<lg>
+<l n="1">1. Den eine sk&#x00F3;ren fekk kungen p&#x00E5; f&#x00F3;t,</l>
+<l>den are treiv han &#x00ED; hendi</l>
+<l>men d&#x00E5; m&#x00E5;tte han p&#x00E5; sk&#x00F3;gjen r&#x00F8;me,<note type="criticalApp"><hi rend="italic">Alternativ lesem&#x00E5;te i reinskrifta:</hi> renne</note></l>
+<l>fy here Kall m&#x00E5;tte han renn<unclear>e</unclear></l>
+<l n="ref">&#x2013; Men here Kall &#x00E5; han liver frelaus. &#x2013;</l>
+</lg>
+<lg>
+<l>2. Kungen talar ti sine<note type="footnote"><hi rend="italic">Over lina st&#x00E5;r:</hi> (aab.)</note> drengjer</l>
+<l>han talar ti sveinar sm&#x00E5;:</l>
+<l>&#x00AB;De<note type="criticalApp"><hi rend="italic">Alternativ lesem&#x00E5;te i reinskrifta:</hi> Di</note> sete han unge here Kall</l>
+<l>alt &#x00FA;t&#x00ED; de t&#x00E5;rni bl&#x00E5;!&#x00BB;</l>
+<note type="footnote"><hi rend="italic">Under strofa st&#x00E5;r:</hi> &#x00AB;(fruva Ingebj&#x00F8;r)&#x00BB;</note>
+</lg>
+<lg>
+<l>3. H&#x00F8;yr du danske kon&#x00FA;ngjen,</l>
+<l>hot eg seie d&#x00E9;:</l>
+<l>eg by&#x0027;e fy here Kall min festarmann,</l>
+<l>b&#x00E5; gull &#x00E5; de liggendes f&#x00E9;.</l>
+</lg>
+<lg>
+<l>4. &#x00AB;Nei gakk burt fruva Ingebj&#x00F8;r,</l>
+<l>den b&#x00F8;n kann d&#x00FA; alli f&#x00E5;,</l>
+<l>d&#x00FA; l&#x00F8;yser inkje here Kall din festarmann</l>
+<l>her &#x00F3;t&#x00F3; de t&#x00E5;rni bl&#x00E5;.&#x00BB;</l>
+</lg>
+<lg>
+<l>5. Eg b&#x00FD;e fyr h&#x00E5;nom ein myllaredamm,</l>
+<l>som sv&#x00ED;ve &#x00ED; femta gullkvennar,</l>
+<l>l&#x00E5;sanne dei &#x00E6; av r&#x00F8;de gull</l>
+<l>&#x00E5; myllunne l&#x00F8;ype i j&#x00F8;nn&#x00F3;.</l>
+</lg>
+<lg><note type="footnote"><hi rend="italic">I reinskrifta st&#x00E5;r:</hi> 6.&#x003D;4.</note>
+<l>6. <choice><expan><ex>&#x00AB;Nei gakk burt fruva Ingebj&#x00F8;r,</ex></expan><abbr>&#x00AB;Nei gje&#x00BB;.</abbr></choice></l>
+<l><choice><expan><ex>den b&#x00F8;n kann d&#x00FA; alli f&#x00E5;,</ex></expan></choice></l>
+<l><choice><expan><ex>d&#x00FA; l&#x00F8;yser inkje here Kall din festarmann</ex></expan></choice></l>
+<l><choice><expan><ex>her &#x00F3;t&#x00F3; de t&#x00E5;rni bl&#x00E5;.&#x00BB;</ex></expan></choice></l>
+</lg>
+<lg>
+<l>7. Eg b&#x00FD;e fyr h&#x00E5;nom so st&#x00F3;rt eitt syllstaup</l>
+<l>som stende p&#x00E5; femta gullf&#x00F8;tar,</l>
+<l>der sv&#x00ED;v&#x0027;e inni ei l&#x00ED;ti syllkoks,</l>
+<l>som hev gjengji &#x00ED; n&#x00ED;e manns b&#x00F8;tar</l>
+</lg>
+<lg><note type="footnote"><hi rend="italic">I reinskrifta st&#x00E5;r:</hi> 8.&#x003D;4.</note>
+<l>8. <choice><expan><ex>&#x00AB;Nei gakk burt fruva Ingebj&#x00F8;r,</ex></expan><abbr>&#x00AB;Nei &#x0026;c.&#x00BB;</abbr></choice></l>
+<l><choice><expan><ex>den b&#x00F8;n kann d&#x00FA; alli f&#x00E5;,</ex></expan></choice></l>
+<l><choice><expan><ex>d&#x00FA; l&#x00F8;yser inkje here Kall din festarmann</ex></expan></choice></l>
+<l><choice><expan><ex>her &#x00F3;t&#x00F3; de t&#x00E5;rni bl&#x00E5;.&#x00BB;</ex></expan></choice></l>
+</lg>
+<lg>
+<l>9. Eg hev bo&#x0027;i fy Here Kall min festarmann</l>
+<l>b&#x00E5; gull &#x00E5; peningar mange,</l>
+<l>du sko&#x0027; alli liva den herredag,</l>
+<l>du sk&#x00F3; bl&#x00ED; boen mei fy ein fangji.<note type="criticalApp"><hi rend="italic">Alternativ lesem&#x00E5;te:</hi> fan-ji</note></l>
+</lg>
+<lg>
+<l>10. <gap/><note type="footnote"><hi rend="italic">Dei to f&#x00F8;rste linene av strofa manglar (manglar &#x00F2;g i reinskrifta).</hi></note></l>
+<l><gap/></l>
+<l>so sko eg lata ell &#x00E5; r&#x00F8;de logji</l>
+<l>leike ivi land &#x00E5; r&#x00ED;kji.</l>
+</lg>
+<lg>
+<l>11. Eg sko <choice><expan><ex>lata ell &#x00E5; r&#x00F8;de logji</ex></expan></choice></l>
+<l><choice><expan><ex>leike ivi land &#x00E5;</ex></expan><abbr>-</abbr></choice> r&#x00ED;kji</l>
+<l>de passar eg s&#x00F3; l&#x00ED;ti p&#x00E5;,</l>
+<l>kven som leng&#x0027;e av okkon sko&#x0027; liva.</l>
+</lg>
+<lg>
+<l>12. De va danske konungjen</l>
+<l>han talar ti sveinar sm&#x00E5;,</l>
+<l>di l&#x00F8;yser &#x0027;en unge Herekall</l>
+<l>alt &#x00F3;t&#x00F3; de t&#x00E5;rni bl&#x00E5;&#x0027;</l>
+</lg>
+<figure rend="asterisk"/>
+<p><hi rend="italic">Teksten er streka over med store kryss. Strofene er unummererte i manuskriptet.</hi></p>
+<p><hi rend="italic">Reinskrift: NFS S. Bugge IV s. 268&#x2013;269</hi></p>
+<figure rend="shortHorizRule"/>
+</div>
+</div>
+<div type="chapter" n="10" xml:id="TSB_C_22">
+<head type="main"><ref type="contents" target="contents_10" xml:id="chapter_10">TSB C 22 Margjit Runarborgi</ref></head>
+<div type="uchapter" subtype="intro">
+<head type="sub">Innleiing</head>
+<p>Den norske kongen Eirik Magnusson sender dotter si, Margrete, over havet for &#x00E5; vere dronning i eit anna land. Stormannen Audun Hugleiksson og Ingebj&#x00F8;rg Erlingsdotter, s&#x00F8;ster til jarlen Alv Erlingsson, f&#x00F8;lgjer med henne. Skipet blir liggjande og drive i skodde, men til slutt n&#x00E5;r det land i Tyskland. Audun og Ingebj&#x00F8;rg r&#x00F8;var ei vakker tysk kvinne, Katrin keypmannsd&#x00F3;ttir, og tek henne med p&#x00E5; skipet. Dei avtalar dessutan &#x00E5; selje Margrete til greven av Bl&#x00E5;land og segler dit. Greven betaler Margretes vekt i gull for henne. Deretter tek Audun og Ingebj&#x00F8;rg livet av Katrin keypmannsd&#x00F3;ttir og segler til Noreg, der dei p&#x00E5;st&#x00E5;r overfor kong Eirik at det er den d&#x00F8;de dotter hans dei har med seg p&#x00E5; skipet. Til &#x00E5; byrje med trur ikkje kongen dette, men n&#x00E5;r tolv mann gjer eid p&#x00E5; at den d&#x00F8;de kvinna er Margrete, gjev han etter. Same natt blir kongen sjuk og d&#x00F8;yr, og det blir sendt bod til tronf&#x00F8;lgjaren, H&#x00E5;kon Magnusson, bror til kongen. F&#x00F8;r han d&#x00F8;yr, seier Eirik at om det er s&#x00E5; at Margrete lever og kjem til landet, skal ho arve halve riket.</p>
+<p>I Bl&#x00E5;land har Margrete dr&#x00F8;ymt vonde draumar om at far hennar er d&#x00F8;d, og ho gjer i stand eit skip og segler til Bergen, den norske hovudstaden. Her g&#x00E5;r ho fram for kong H&#x00E5;kon og fortel kven ho er. Kongen krev at ho skal skaffe vitne, og Margretes fosterfar vitnar at ho talar sant. Men det gjer ikkje fostermor hennar, som er kj&#x00F8;pt og betalt av Ingebj&#x00F8;rg Erlingsdotter. Kongen gjev ordre om at Margrete skal brennast p&#x00E5; Nordnes. Jamvel om tre tj&#x00F8;ret&#x00F8;nner blir sett p&#x00E5; b&#x00E5;let, har Margrete kraft til &#x00E5; tale. Ho sp&#x00E5;r at det skal g&#x00E5; Ingebj&#x00F8;rg Erlingsdotter ille, ein sp&#x00E5;dom som seinare sl&#x00E5;r til, og ho ber kong H&#x00E5;kon reise ei kyrkje p&#x00E5; b&#x00E5;lstaden. Gjer han ikkje det, skal han miste vitet tre gonger f&#x00F8;r han d&#x00F8;yr. Margrete viser seg i draume for sonen sin i Bl&#x00E5;land. Han rustar ut ein fl&#x00E5;te p&#x00E5; femten skip og segler av stad for &#x00E5; ta hemn. Men Margrete &#x00F8;nskjer ikkje &#x00E5; hemnast og ber Gud om at skipa m&#x00E5; g&#x00E5; under og sjelene frelsast. Dette skjer.</p>
+<p>Handlingsreferatet byggjer p&#x00E5; den f&#x00E6;r&#x00F8;yske forma av balladen om Margrete Eiriksdotter: &#x00AB;Margretu kv&#x00E6;&#x00F0;i&#x00BB;. Det er ei lang vise p&#x00E5; 166 strofer, som kan ordnast i &#x00E5;tte sekvensar. Av den norske balladen er det dessverre ikkje mykje att. Johannes Skar skreiv opp to-tre strofer fr&#x00E5; to setesdalssongarar, med prosatillegg som gjer det klart at den norske tradisjonen kring 1900, og ikkje minst eit par generasjonar tidlegare, kjende visa i meir fullstendig form. Folk mintest at det var ei lang vise. Og visa var s&#x00E5; &#x00AB;syndleg&#x00BB; &#x005B;syrgjeleg&#x005D;, &#x00AB;det var mange som gret, fyrst dei kom dei syndlege versi&#x00BB; (Liest&#x00F8;l 1941: 170). Eit par stev i Landstads <title rend="italic">Norske Folkeviser</title> kan vere reststrofer fr&#x00E5; balladen om Margrete (Solberg 2003: 185&#x2013;187).</p>
+<p>Truleg er det dansefunksjonen som har halde liv i visa p&#x00E5; F&#x00E6;r&#x00F8;yane s&#x00E5; lenge. For dette er ein gammal ballade, etter alt &#x00E5; d&#x00F8;me dikta meir eller mindre samstundes med dei hendingane som visa fortel om. Bakgrunnen er ekteskapspolitikken som vart driven ved det norske hoffet p&#x00E5; slutten av 1200-talet. Margrete, dotter til Eirik Magnusson og den skotske kongsdottera Margrete Aleksandersdotter, vart godkjend som skotsk dronning og arving og skulle gifte seg med den engelske tronarvingen Edvard. I 1290 vart Margrete send over havet, men ho d&#x00F8;ydde p&#x00E5; Orkn&#x00F8;yane. Det vart alts&#x00E5; ikkje noko av det planlagde og politisk motiverte ekteskapet.</p>
+<p>Men i &#x00E5;ret 1300 kom det ei kvinne til Bergen fr&#x00E5; Tyskland som p&#x00E5;stod at <hi rend="italic">ho</hi> var Margrete. Dette er dokumetert i dei islandske Flat&#x00F8;y-annalane, der det heiter:</p>
+<quote><p>Da kom fr&#x00E5; Tyskland den kvinna som seier at ho er dotter til kong Eirik og Margrete, dotter til kong Aleksander av Skottland. Ho seier at ho har vore seld av Ingebj&#x00F8;rg Erlingsdotter. (Solberg 2003: 174)</p></quote>
+<p>Dei norske styresmaktene trudde ikkje noko p&#x00E5; dette, og kvinna vart d&#x00F8;md til d&#x00F8;den, slik det st&#x00E5;r i Flat&#x00F8;y-annalane for &#x00E5;ret etter:</p>
+<quote><p>Da vart den same kvinna brend, ho som sa at ho var dotter til kong Eirik, og mannen hennes vart halshoggen (Solberg 2003: 174).</p></quote>
+<p>Dermed kunne saka vore ute av verda, men folk trudde p&#x00E5; det kvinna hadde sagt. Ho var inga falsk Margrete slik styresmaktene p&#x00E5;stod, men den verkelege, sanne Margrete! Det hjelpte ikkje at Bergens-biskopen let lese opp brev i alle kyrkjer i byen med &#x00E5;tvaring mot &#x00E5; dyrke den brende kvinna. Avrettinga vart, som Svale Solheim skriv, &#x00AB;utgangspunkt for ei folkeleg protest-r&#x00F8;rsle mot hoffet og styresmaktene&#x00BB; (Solheim 1973: 107). Sidan Margrete hadde lide martyrd&#x00F8;den p&#x00E5; b&#x00E5;let, vart det reist ei kyrkje p&#x00E5; Nordnes til &#x00E6;re for henne. Det var nok inga stor kyrkje, kanskje eit trekapell, men ho stod i alle fall til 1500-talet. Absalon Pederss&#x00F8;n Beyer nemner kyrkja og visa.</p>
+<p>Det er enkelt i ettertid &#x00E5; trekkje p&#x00E5; skuldrene av folk som trur at ei eldre kvinne, gr&#x00E5; og kvit i h&#x00E5;ret, kunne vere dotter til den unge kong Eirik &#x2013; n&#x00E5;r den verkelege Margrete vitterleg hadde d&#x00F8;ydd p&#x00E5; Orkn&#x00F8;yane seinhaustes 1290, mellom hendene p&#x00E5; biskop Narve, og den d&#x00F8;de lekamen seinare hadde vorte granska av faren og gode menn i Bergen. Men b&#x00E5;let, brannen og den grufulle avrettinga har sett kjenslene i sving. Folk hadde sine mistankar til styresmaktene, og dei trudde det dei ville tru. Ein inspirert diktar skreiv visa om dei dramatiske hendingane og om elden som til sist slukte Margrete:</p>
+<lg>
+<l>Ta&#x00F0; var fr&#x00FA;gvin Margreta,</l>
+<l>ri&#x00F0;ur fram undir b&#x00FD;,</l>
+<l>eld s&#x00E1; hon &#x00E1; Nor&#x00F0;nesi</l>
+<l>og logan undir sk&#x00FD;.</l>
+</lg>
+<lg>
+<l>Eld s&#x00E1; hon i Nor&#x00F0;nesi</l>
+<l>og logan undir sk&#x00FD;:</l>
+<l>&#x00AB;Gud n&#x00E1;&#x00F0;i hesi beinini,</l>
+<l>sum har skulu hv&#x00ED;la &#x00ED;!&#x00BB;</l>
+<l>(CCF III: 195).</l>
+</lg>
+<p rend="noIndent">Utsyn 183<lb/>CCF 77</p>
+</div>
+<div type="uchapter" subtype="song" xml:id="BIN1239">
+<head type="sub">Oppskrift A</head>
+<p>TSB C 22: Margjit Runarborgi</p>
+<p>Oppskrift: <date when="xxxx">Udatert</date> av <name type="collector" corresp="saJS">Johannes Skar</name> etter <name type="source" corresp="kiNN">ukjend songar</name>, <name type="place">Austad, Vest-Agder</name>.</p>
+<p>Orig. ms.: NFS Johs. Skar 1, s. 21&#x2013;22</p>
+<p>Oppgjeven tittel: Margit Runarborginn.</p>
+<figure rend="asterisk"/>
+<lg>
+<l n="1">1. De va <name>Augunn</name> aa <name>Yngjebj&#x00F8;r</name>.</l>
+<l>Dai truddi me addre best&#x00E9;.</l>
+<l>Men de heve m&#x00E9; i Draumo bori:</l>
+<l>Dai svike meg addre mest&#x00E9;.</l>
+</lg>
+<lg>
+<l>2. Eg ha tenkt, at mi Dotter ha gulare Haar.</l>
+</lg>
+<lg>
+<l>3. Hu hev so lengi i Sjo&#x00E8; drivi<note type="criticalApp"><hi rend="italic">Alternativ lesem&#x00E5;te:</hi> drevi</note>,</l>
+<l>Aa myrkna heve hennis Haar.<note type="footnote"><hi rend="italic">Etter lina st&#x00E5;r det:</hi> (Austad)</note></l>
+</lg>
+<lg>
+<l>4. Aa de va Margit Runarborgj&#x00E6;</l>
+<l>Hu treffte so vond ai Boye.<note type="footnote"><hi rend="italic">Etter lina st&#x00E5;r det:</hi> (Bygand.)</note></l>
+</lg>
+<figure rend="asterisk"/>
+<p><hi rend="italic">Strofene er unummererte i manuskriptet.</hi></p>
+<p><hi rend="italic">I margen ved tittelen st&#x00E5;r det:</hi> Bugge nr. 11 og Visen om Fru Margrete.</p>
+<p><hi rend="italic">Under oppskrifta st&#x00E5;r det:</hi> <hi rend="underlined">Visen</hi> skal have fortalt om, at Margit blev f&#x00F8;rt over Havet og solgt. Man dr&#x00E6;bte hendes Terne; f&#x00F8;rte Liget tilbage til Kongen, Margits Far, og foregav at det var Liget av hans Datter som skulde have druknet. &#x2013; Andre sige at Margit d&#x00F8;de, da hun havde f&#x00F8;dt Tvillinger. &#x2013; &#x00AB;Dai ha vori paa Sj&#x00F8;e, va de likt ti; der seldi dai Margit. So draape dai Terna hennis aa ha Liki haim, aa sa de va Liki aa Margit; hu ha <del rend="overstrike">ha</del> d&#x00F8;yt, sa dai. Daa sa Fairen, han ha tenkt hu ha gulare Haar. &#x2013; Hu ero so syndlege denni Visa. De va mange som grete fyst dai kome dai syndlege Vers&#x00E6;.&#x00BB;</p>
+<figure rend="shortHorizRule"/>
+</div>
+</div>
+<div type="chapter" n="11" xml:id="TSB_C_25">
+<head type="main"><ref type="contents" target="contents_11" xml:id="chapter_11">TSB C 25 Nils Ebbesen</ref></head>
+<div type="uchapter" subtype="intro">
+<head type="sub">Innleiing</head>
+<p>Grev Gert av Holstein har rykt inn i Jylland med eit stort krigarf&#x00F8;lgje og lagt landet under seg. Greven rid til Randers, jamvel om det er sp&#x00E5;dd at han skal miste livet der. Han sender bod til den danske adelsmannen Nils Ebbesen og lovar han fritt leide. Nils Ebbesen m&#x00F8;ter fram. I samtala mellom dei skuldar grev Gert den danske stormannen for &#x00E5; ha mange fleire menn med seg enn han har l&#x00F8;yve til &#x2013; med andre ord tenkjer Nils Ebbesen p&#x00E5; &#x00E5; svike greven, noko Nils Ebbesen nektar for. Grev Gert gjev d&#x00E5; Nils Ebbesen valet, anten &#x00E5; r&#x00F8;me landet eller bli hengd:</p>
+<lg>
+<l>H&#x00F8;r thu det, Niels Ebbiss&#x00F8;n,</l>
+<l>du snacker alt-for lenge:</l>
+<l>du skalt enthen aff Danmarck r&#x00F8;mme,</l>
+<l>eller ieg skall lade dig henge</l>
+<l>(DgF III: 524).</l>
+</lg>
+<p>Nils Ebbesen skundar seg heim og r&#x00E5;df&#x00F8;rer seg med sin &#x00AB;venne h&#x00F8;stru&#x00BB;. Kva skal han gjera i denne vanskelege situasjonen? Ho r&#x00E5;r han til &#x00E5; sl&#x00E5;st med greven, og Nils Ebbesen samlar mennene sine og rid til Randers der greven held til. Saman med mennene sine trengjer han inn i slottet og tek grev Gert til fange. Kort tid etter let dei greven halshogge, og deretter r&#x00F8;mmer Nils Ebbesen fr&#x00E5; byen.</p>
+<p>P&#x00E5; norsk grunn finst det berre ein kort tekstvariant p&#x00E5; &#x00E9;i strofe, med melodi, av denne danske balladen. Det er ei oppskrift som Ole M&#x00F8;rk Sandvik gjorde (1917) etter Nils Nilsson Beitohaugen (1863&#x2013;1927), gardbrukar og spelemann fr&#x00E5; &#x00D8;ystre Slidre i Valdres. Nils Beitohaugen hadde teksten etter Peder Syvs kjempevisebok (Ressem 2011: 313). P&#x00E5; dansk finst balladen om Nils Ebbesen i fleire renessanseoppskrifter.</p>
+<p>Niels/Nils Ebbesen var i det verkelege livet ein dansk l&#x00E5;gadelsmann som tok livet av grev Gerhard III av Holstein, den s&#x00E5;kalla <hi rend="italic">kullede</hi>, eller skalla greven. Drapet skjedde i 1340, d&#x00E5; greven hadde trengt inn i Jylland med fleire tusen mann for &#x00E5; sikre eigedomane han hadde til gode i eit pantsett Danmark. Med berre ein liten h&#x00E6;rstyrke p&#x00E5; kring 50 mann, greidde Nils Ebbesen &#x00E5; kome seg inn i huset der greven budde og halshogge han. Seinare p&#x00E5; &#x00E5;ret miste Nils Ebbesen sj&#x00F8;lv livet i eit slag mot ein holsteinsk styrke. I dansk historieskriving er Nils Ebbesen blitt nasjonalhelten framfor nokon. Under den tyske okkupasjonen av Danmark under siste verdskrigen, skreiv Kaj Munk (1898&#x2013;1944) skodespelet <title rend="italic">Niels Ebbesen</title> mot nazismen.</p>
+<p>Balladen er ikkje &#x2013; slik Grundtvig meinte &#x2013; dikta kort tid etter hendingane, men tidleg p&#x00E5; 1500-talet. Bengt R. Jonsson argumenterer godt for denne oppfatninga, blant anna p&#x00E5; bakgrunn av at ei ordtaksbasert formulering i &#x00AB;Nils Ebbesen&#x00BB; m&#x00E5; vere l&#x00E5;nt fr&#x00E5; ein annan historisk ballade: <ref type="external" target="http://www.bokselskap.no/boker/historiskeballadar/tsb_c27_dronningmargrete">&#x00AB;Dronning Margrete&#x00BB;</ref> (Jonsson 1990&#x2013;1991: 263&#x2013;269, 298&#x2013;306).</p>
+<p rend="noIndent">DgF 156</p>
+</div>
+<div type="uchapter" subtype="song" xml:id="BIN6243">
+<head type="sub">Oppskrift A</head>
+<p>TSB C 25: Nils Ebbesen</p>
+<p>Oppskrift: <title rend="italic">Kjempeviseboka</title>, Anden Part, XLI, s. 262&#x2013;270</p>
+<p>Oppgjeven tittel: Greve <name>Geert</name> af Holsten bliver slagen af Herr <name>Neels Jeps&#x00F8;n</name> udi Randers.</p>
+<figure rend="asterisk"/>
+<lg>
+<l n="1">1. Greven samler alle sine M&#x00E6;nd,</l>
+<l>han drager af Sleszvig frem;</l>
+<l>Og aldrig saae nogen Mand herre slig,</l>
+<l>enten f&#x00F8;r eller siden dem.</l>
+</lg>
+<lg>
+<l>2. Greven drog i Danmark ind,</l>
+<l>hannem fulde saa faur en Skare;</l>
+<l>Fire Bannere og Fire og Tive</l>
+<l>hvo torde imod hannem fare.</l>
+</lg>
+<lg>
+<l>3. Greve <name>Gert</name> han vilde til Randers ride,</l>
+<l>og did lod han sig raade;</l>
+<l>Det var hannem for langen Tiid spaad,</l>
+<l>han skulde sit Liv der lade.</l>
+</lg>
+<lg>
+<l>4. Ikke vilde han lade det blive fordi,</l>
+<l>hannem lystede det at friste;</l>
+<l>Riddere og Svenne, B&#x00F8;nder og Bom&#x00E6;nd,</l>
+<l>dennem vilde han hiemme gieste.</l>
+</lg>
+<lg>
+<l>5. De vare vel 18 tusinde Skytter,</l>
+<l>foruden Ridder og fribaarne M&#x00E6;nd,</l>
+<l>tilsammen fyrretyve tusinde,</l>
+<l>og hvo kunde stride mod dem.</l>
+</lg>
+<lg>
+<l>6. Greven sende <name>Niels Ebbes&#x00F8;n</name> Bud,</l>
+<l>at han skulde til hannem ride;</l>
+<l>Han sagde hannem Fred og Fredlighed til,</l>
+<l>saa tryg skulde v&#x00E6;re den Leide.</l>
+</lg>
+<lg>
+<l>7. Greven han m&#x00F8;dte Niels Ebbes&#x00F8;n,</l>
+<l>Norden ved Randers Strande;</l>
+<l>I v&#x00E6;re velkommen Niels Ebbes&#x00F8;n,</l>
+<l>og hure gaar eder i Haande.</l>
+</lg>
+<lg>
+<l>8. Greven ragte Niels Ebbes&#x00F8;n Haand,</l>
+<l>dermed de taledes sammen;</l>
+<l>Saa lidet da var der Skemt iblant,</l>
+<l>og end fast mindre Gammen.</l>
+</lg>
+<lg>
+<l>9. H&#x00F8;r du ki&#x00E6;re Niels Ebbes&#x00F8;n,</l>
+<l>du v&#x00E6;re velkommen her;</l>
+<l>Hure staar Hoven i N&#x00F8;rre Jutland,</l>
+<l>hvad er for Tidende der.</l>
+</lg>
+<lg>
+<l>10. Hure lider dine Frender og Mave saa rige,</l>
+<l>der til din Hiertens Ki&#x00E6;r:</l>
+<l>Hvad heller ville I fegte med mig,</l>
+<l>eller Fred af mig begi&#x00E6;re.</l>
+</lg>
+<lg>
+<l>11. Vel staar Hoven i N&#x00F8;rre Jutland,</l>
+<l>baade Man er tr&#x00F8;st og fro;</l>
+<l>Kommer I Herrer med Feide eller Fred,</l>
+<l>hvad skulle vi lide paa.</l>
+</lg>
+<lg>
+<l>12. End haver jeg nu i N&#x00F8;rre Jutland,</l>
+<l>baade Frender og rige Mave;</l>
+<l>Eders Raade de skulle tilrede v&#x00E6;re,</l>
+<l>ville I det af dem have.</l>
+</lg>
+<lg>
+<l>13. Niels Ebbesen du est en konstig Mand,</l>
+<l>og der til est du from;</l>
+<l>Hure du kand ikke den rette Vey dr&#x00E6;be,</l>
+<l>du rider saa langt der om.</l>
+</lg>
+<lg>
+<l>14. H&#x00F8;r du Herr Niels Ebbes&#x00F8;n,</l>
+<l>vilt du mit &#x00C6;rende bortride:</l>
+<l>Hvor mange Svenne haver du med dig,</l>
+<l>som du t&#x00F8;r vel paa lide.</l>
+</lg>
+<lg>
+<l>15. End haver jeg nu iblant Juderne hin faste,</l>
+<l>baade Ven og der til Frende:</l>
+<l>Saa gierne da skulle de f&#x00F8;lge med,</l>
+<l>og mod deres Fiender stande.</l>
+</lg>
+<lg>
+<l>16. Alt haver jeg tredive Svenne med mig,</l>
+<l>saadanne som de nu ere:</l>
+<l>Hvad helder de ere fleere eller ferre,</l>
+<l>jeg haver dem alle lige ki&#x00E6;re.</l>
+</lg>
+<lg>
+<l>17. Og haver du tredive Karle med dig,</l>
+<l>da er det vel til Maade:</l>
+<l>I gaar holt du i Herr <name>Bugge</name>s Gaard,</l>
+<l>med hundrede Heste i Plade.</l>
+</lg>
+<lg>
+<l>18. Niels Ebbes&#x00F8;n svarede saa overbrat,</l>
+<l>han trinde en Fod tilbage:</l>
+<l>Og er det enten Ridder eller Svend,</l>
+<l>som mig den L&#x00F8;gn paa sagde.</l>
+</lg>
+<lg>
+<l>19. Og er det enten Mand eller Qvinde,</l>
+<l>mig det t&#x00F8;r sige til;</l>
+<l>Jeg skal aldrig vige for hannem en Fod,</l>
+<l>f&#x00F8;rre jeg fanger svaret der til.</l>
+</lg>
+<lg>
+<l>20. H&#x00F8;r du ki&#x00E6;re Herr Niels Ebbes&#x00F8;n,</l>
+<l>vi ville der om ey tale;</l>
+<l>Du rider hen til Herr Bugge din Ven,</l>
+<l>om han vil Troskab holde.</l>
+</lg>
+<lg>
+<l>21. Skal jeg eders &#x00C6;rende fare herfra,</l>
+<l>og til Herr Bugge henride;</l>
+<l>Hvad skal jeg hannem paa eders Vegne,</l>
+<l>det lader I mig f&#x00F8;rst vide.</l>
+</lg>
+<lg>
+<l>22. Herr Bugge han haver mig lenge undsagt,</l>
+<l>Ogsaa hin unge <name>Povel Glob</name>;</l>
+<l>Her <name>Anders Forst</name> er en af dem,</l>
+<l>og fremmet udi eders Hob.</l>
+</lg>
+<lg>
+<l>23. Og selv haver du Niels Ebbes&#x00F8;n,</l>
+<l>nogle Hofm&#x00E6;nd ride hos dig;</l>
+<l>Og du have v&#x00E6;ret udi mit Br&#x00F8;d,</l>
+<l>og ere nu r&#x00F8;mte fra mig.</l>
+</lg>
+<lg>
+<l>24. F&#x00F8;rst er han hin unge <name>Eske Frost</name>,</l>
+<l>og saa hans Br&#x00F8;dre to:</l>
+<l>Foruden min Ja, foruden min Minde,</l>
+<l>de af min Tieneste drog.</l>
+</lg>
+<lg>
+<l>25. End fleere jeg haver til Villie giort,</l>
+<l>dog de mig nu forsmaa:</l>
+<l>I liude fast paa Herr Bugges Raad,</l>
+<l>I see hure det vil gaa.</l>
+</lg>
+<lg>
+<l>26. Herr Bugges Raad veed jeg ikke af,</l>
+<l>hvad han vil lade eller gi&#x00F8;re:</l>
+<l><name>Anders Frost</name> haver v&#x00E6;ret eders Tienere tro,</l>
+<l>I skulle ikke andet sp&#x00F8;r.</l>
+</lg>
+<lg>
+<l>27. Herr <name>Anders Forst</name> den duelig Mand,</l>
+<l>forsvarer saa vel sin &#x00C6;re:</l>
+<l>Ville han af eder Orlov have,</l>
+<l>hvi vilde I hannem det veire.</l>
+</lg>
+<lg>
+<l>28. Det haver v&#x00E6;ret s&#x00E6;d i Danmark,</l>
+<l>I t&#x00F8;r det ikke saa klage:</l>
+<l>At hvilken Svend som ikke vil tiene,</l>
+<l>da maa han Orlov tage.</l>
+</lg>
+<lg>
+<l>29. Og der er ingen tilsammen viet,</l>
+<l>uden Munken og han Kappe:</l>
+<l>Hofmand rider og Hofmand bier,</l>
+<l>hvor han kand tiene til Takke.</l>
+</lg>
+<lg>
+<l>30. Det da svarede hannem Greve Herr <name>Gert</name>,</l>
+<l>hannem lystet det ikke at h&#x00F8;re.</l>
+<l>Ingen maa fra sin Herre bortfare,</l>
+<l>naar han lyster hannem at f&#x00F8;re.</l>
+</lg>
+<lg>
+<l>31. H&#x00F8;r du det ki&#x00E6;re Niels Ebbes&#x00F8;n,</l>
+<l>du snakker alt for lenge:</l>
+<l>Enten skalt du af Danmark r&#x00F8;mme,</l>
+<l>eller jeg skal lade dig henge.</l>
+</lg>
+<lg>
+<l>32. Fredelig est du hen kommen til mig,</l>
+<l>Fredelig maa du henride:</l>
+<l>Lod jeg det ikke alt for min Tro,</l>
+<l>du skulde faa andet at vide.</l>
+</lg>
+<lg>
+<l>33. En F&#x00F8;rstelig Leyde have I mig given,</l>
+<l>om jeg den ellers maa nyde:</l>
+<l>Have I Greve Gert noget ont i sinde,</l>
+<l>det kand eder selv fortryde.</l>
+</lg>
+<lg>
+<l>34. Tyve maa I udi Galgen lade h&#x00E6;nge,</l>
+<l>baade for Ravn og &#x00D8;rn;</l>
+<l>Saa lettelig jeg ud af Dannemark,</l>
+<l>ey r&#x00F8;mmer fra Hustru og B&#x00F8;rn.</l>
+</lg>
+<lg>
+<l>35. Men skal jeg r&#x00F8;mme af F&#x00E6;derne Land bort,</l>
+<l>fra Hustru og fra B&#x00F8;rn saa smaa:</l>
+<l>Uselig skulle I vist sige der af,</l>
+<l>at I mig nogen Tiid faae.</l>
+</lg>
+<lg>
+<l>36. Rider du bort Niels Ebbes&#x00F8;n,</l>
+<l>jeg vil dig ingenlunde h&#x00F8;re:</l>
+<l>Eller jeg bryder min Brynie paa dig,</l>
+<l>som jeg t&#x00F8;r fuld vel gi&#x00F8;re.</l>
+</lg>
+<lg>
+<l>37. Aldrig saa nogen mig end saa red,</l>
+<l>jeg torde jo fuld vel skelve:</l>
+<l>H&#x00F8;re I Greve Gert, I see vel til,</l>
+<l>og Mandelige vogte eder selv.</l>
+</lg>
+<lg>
+<l>38. Du snakker mig meget til Meen og Mod,</l>
+<l>Niels Ebbes&#x00F8;n efter din Villie:</l>
+<l>Til i Morgen est du Fredlig for mig,</l>
+<l>til Solen ganger til hvile.</l>
+</lg>
+<lg>
+<l>39. Denne Dag ogsaa den anden til qvelde,</l>
+<l>dem maa du have til frist;</l>
+<l>Er jeg en &#x00E6;gte Greves S&#x00F8;n,</l>
+<l>jeg bliver saa snart din Gest.</l>
+</lg>
+<lg>
+<l>40. Greve Gert I er en hastig Mand,</l>
+<l>der til en Herre saa from:</l>
+<l>Hvor I med Magt kunde ikke komme frem,</l>
+<l>I ride en anden Vey om.</l>
+</lg>
+<lg>
+<l>41. Bortreed herr Niels Ebbes&#x00F8;n,</l>
+<l>slog op med hviden Haand:</l>
+<l>Greve Gert I lade eder mindes vel,</l>
+<l>saa snart kommer jeg igien.</l>
+</lg>
+<lg>
+<l>42. Niels Ebbes&#x00F8;n reed ad Veyen frem,</l>
+<l>han hug sin Hest med spore:</l>
+<l>og efter holt Greven og alle hans M&#x00E6;nd,</l>
+<l>og ingen hannem f&#x00F8;lge torde.</l>
+</lg>
+<lg>
+<l>43. Saa reed han bort ned snaren Ferd,</l>
+<l>kom hiem udi sin Gaard:</l>
+<l>Han klagede sig for sin v&#x00E6;ne Hustru,</l>
+<l>spurde hende om bedste Raad.</l>
+</lg>
+<lg>
+<l>44. Hil side I ki&#x00E6;re Moder min,</l>
+<l>og hvad give I for Raad:</l>
+<l>Greven vil mig af Landet uddrive,</l>
+<l>han undsagde mig i Gaar.</l>
+</lg>
+<lg>
+<l>45. Tvende Kaar lagde han mig for uden skemt,</l>
+<l>den Tredie var ikke god:</l>
+<l>Jeg skulde hannem sverie eller r&#x00F8;mme af Land,</l>
+<l>eller henges, hans Ord saa stod.</l>
+</lg>
+<lg>
+<l>46. Hvad Raad kand jeg opt&#x00E6;nke eller give,</l>
+<l>jeg er en blysom Qvinde;</l>
+<l>De verste Raad de bleve eders beste,</l>
+<l>kunde I dem ellers paafinde.</l>
+</lg>
+<lg>
+<l>47. De verste Raad de ere nu best,</l>
+<l>kunde vi dem ellers paafinde;</l>
+<l>Enten den Greve ihiel at slaa,</l>
+<l>eller Huset over hannem brende.</l>
+</lg>
+<lg>
+<l>48. I lade eders Heste til Smidie skikke,</l>
+<l>og lade dem der beslaa;</l>
+<l>Alle de Hager dem vende I frem,</l>
+<l>eders Spore ingen kiende maa.</l>
+</lg>
+<lg>
+<l>49. Alle de Hager dem vende I ind,</l>
+<l>paa Sporet kand eder ingen kiende:</l>
+<l>I lade det aldrig nogen Mand vide,</l>
+<l>I l&#x00E6;rde det af en Qvinde.</l>
+</lg>
+<lg>
+<l>50. I &#x00E6;de og drikke min Dannes Svenne,</l>
+<l>hver gi&#x00F8;r sig fro og glade!</l>
+<l>Naar denne Nat forgangen er,</l>
+<l>da fange vi Dagen i Stad.</l>
+</lg>
+<lg>
+<l>51. Ikke kommer Dagen f&#x00F8;rend Soelen Skin,</l>
+<l>saa faa vi Tidende ny;</l>
+<l>Hvilken Svend sin Herre er fast og tro,</l>
+<l>han maa ikke fra hannem fly.</l>
+</lg>
+<lg>
+<l>52. Op da stode de Hovm&#x00E6;nd saa tr&#x00F8;ste,</l>
+<l>de toge der Tieneste paa ny;</l>
+<l>For uden Nield Ebbes&#x00F8;ns S&#x00F8;ster S&#x00F8;n,</l>
+<l>han vilde da fra hannem fly.</l>
+</lg>
+<lg>
+<l>53. De Hovm&#x00E6;nd sore saa h&#x00F8;y en Eed,</l>
+<l>de vilde ops&#x00E6;tte deris Liv;</l>
+<l>Og ride med hannem saa dristelige frem,</l>
+<l>hvor han vilde yppe den Kiv.</l>
+</lg>
+<lg>
+<l>54. Saa rede de dem til Fruerlund,</l>
+<l>der bunde de deres Heste;</l>
+<l>Saa ginge de dem i Randers By,</l>
+<l>den kullede Greve der at g&#x00E6;ste.</l>
+</lg>
+<lg>
+<l>55. Det var Herr Niels Ebbes&#x00F8;n,</l>
+<l>han kom til Randers Bro:</l>
+<l>Hvilken Svend som ikke vil f&#x00F8;lge med,</l>
+<l>han tage sig Orlov nu.</l>
+</lg>
+<lg>
+<l>56. Frem da gik han liden Svend Tr&#x00F8;st,</l>
+<l>han trode hannem allerbest;</l>
+<l>Min Herre I give mig Orlog paa Stand,</l>
+<l>og dertil Sadel og Hest.</l>
+</lg>
+<lg>
+<l>57. Han begi&#x00E6;rede Orlog og fik,</l>
+<l>der til baade Sadel og Hest;</l>
+<l>Den samme Dag f&#x00F8;rend Aften kom,</l>
+<l>han tiente sin Herre best.</l>
+</lg>
+<lg>
+<l>58. Niels Ebbes&#x00F8;n selv til D&#x00F8;rren reed,</l>
+<l>som han fik da i sinde;</l>
+<l>Han st&#x00F8;tte der paa med skarpen Spiud,</l>
+<l>som Greven selv var inde.</l>
+</lg>
+<lg>
+<l>59. I stande op Herre af S&#x00F8;fvn saa brat,</l>
+<l>I lade mig til eder ind;</l>
+<l>Eders ki&#x00E6;re broder Greve <name>Henrich</name>,</l>
+<l>han haver mig til eder send.</l>
+</lg>
+<lg>
+<l>60. Est du hid sendt af Broder min,</l>
+<l>du lad dig ikke forlange;</l>
+<l>M&#x00F8;de mig i Morgen udi Kloster-Kirke,</l>
+<l>mellem Messe og Ottesang.</l>
+</lg>
+<lg>
+<l>61. I lade eders Dreng til D&#x00F8;rren gaa,</l>
+<l>tage Brevet som eder er send;</l>
+<l>Og nu er Ribe saa hart belagt,</l>
+<l>og Colding den er brend.</l>
+</lg>
+<lg>
+<l>62. Ribe er bestaaldet en saa hart,</l>
+<l>Colding og Vedel er brend;</l>
+<l>Det vil jeg for sanden sige,</l>
+<l>Niels Ebbes&#x00F8;n han er hengt.</l>
+</lg>
+<lg>
+<l>63. Og er det sanden du siger for mig,</l>
+<l>da ere de Tidende gode;</l>
+<l>Du skalt holdes i &#x00C6;re og Agt,</l>
+<l>saa lenge vi leve baade.</l>
+</lg>
+<lg>
+<l>64. I lade nu op, I t&#x00F8;ve for lenge,</l>
+<l>I lade det Bud indgaa;</l>
+<l>Seyer er vundet, og Landet er tvingt,</l>
+<l>er det som han siger fra.</l>
+</lg>
+<lg>
+<l>65. Greven han ud af Vinduet saae,</l>
+<l>han saae de blanke Spiude;</l>
+<l>Saa usel jeg til Danmark kom,</l>
+<l>Niels Ebbes&#x00F8;n holder her ude.</l>
+</lg>
+<lg>
+<l>66. De st&#x00F8;tte paa D&#x00F8;rren med Skiold og Spiud,</l>
+<l>de Nagler ginge alle i stykke;</l>
+<l>Est du her inde du kullede Greve,</l>
+<l>en Skaale vi dig vil drikke.</l>
+</lg>
+<lg>
+<l>67. Du sidde her ned Niels Ebbes&#x00F8;n,</l>
+<l>vi ville os bedre forlige;</l>
+<l>Sende vi Bud efter Hertug Henrich,</l>
+<l>og saa Herr <name>Claus Krumdige</name>.</l>
+</lg>
+<lg>
+<l>68. Ikke da sagde du saa udi gaar,</l>
+<l>alt ud ved Randers Strand;</l>
+<l>Du vilde da enten lade mig henge,</l>
+<l>eller jeg skulde r&#x00F8;mme af Land.</l>
+</lg>
+<lg>
+<l>69. Det svarede Grevens liden smaa Dreng,</l>
+<l>han var Niels Ebbesens Frende:</l>
+<l>Lader du dig med Ord saa giekke,</l>
+<l>hver Mand da blive I skiende.</l>
+</lg>
+<lg>
+<l>70. Og det da meldte den sorte Svend,</l>
+<l>fordi han var ikke hvid;</l>
+<l>Vi legge nu ned denne lange Tale,</l>
+<l>vi lade de Sv&#x00E6;rde bide.</l>
+</lg>
+<lg>
+<l>71. Ikke haver jeg Slotte eller faste Borge,</l>
+<l>At giemme saa riig en Fange;</l>
+<l>I spare nu ikke de skarpe Sv&#x00E6;rde,</l>
+<l>saa fast I lade dem gange.</l>
+</lg>
+<lg>
+<l>72. Saa toge de den haarde Voghals,</l>
+<l>udi sin gule Lok;</l>
+<l>Saa hugde de hannem sit Hovet fra,</l>
+<l>alt over den Senge-Stok.</l>
+</lg>
+<lg>
+<l>73. Den Tiid at Greven var slagen ihiel,</l>
+<l>og da sloge de paa Tromme;</l>
+<l>De var Herr Niels Ebbes&#x00F8;n,</l>
+<l>han vilde af Byen gange.</l>
+</lg>
+<lg>
+<l>74. Han hastede strax ad Byen ud,</l>
+<l>han torde ey lenger bie;</l>
+<l>Der m&#x00F8;dte hannem Herr <name>Ove Hals</name>,</l>
+<l>han vilde hannem det forbiude.</l>
+</lg>
+<lg>
+<l>75. Og h&#x00F8;r du det Herr Ove Hals,</l>
+<l>du gi&#x00F8;r mig ingen Skade;</l>
+<l>Du est min Svoger huld og tro,</l>
+<l>du maa os fare lade.</l>
+</lg>
+<lg>
+<l>76. Fuld vel veed jeg vort Svogerskab,</l>
+<l>saa n&#x00E6;r som de monne v&#x00E6;re;</l>
+<l>Men du haver slagen min Herre ihiel,</l>
+<l>jeg lader dig ikke fare.</l>
+</lg>
+<lg>
+<l>77. Faaret breger og Gaasen k&#x00E6;ger,</l>
+<l>og Hanen gal paa Halde:</l>
+<l>Herr Ove Hals blev Veyen trang,</l>
+<l>ad de Holster monne han kalde.</l>
+</lg>
+<lg>
+<l>78. Han kunde de Danske ey lenger bestaa,</l>
+<l>ad de Holster monne han kalde;</l>
+<l>Greven blev om Dagen slagen,</l>
+<l>og ikke om Natten med alle.</l>
+</lg>
+<lg>
+<l>79. Saa droge de ud deres gode Sverd,</l>
+<l>Niels Ebbes&#x00F8;n vilde ikke vige;</l>
+<l>Herr Ove Hals han Hovedet fra hug,</l>
+<l>saa lagde de det tillige.</l>
+</lg>
+<lg>
+<l>80. Niels Ebbes&#x00F8;n kom til Randers Bro,</l>
+<l>der vanket saa gode Hug;</l>
+<l>Det fant han da hin liden Svend Tr&#x00F8;st,</l>
+<l>som f&#x00F8;re Orlog tog.</l>
+</lg>
+<lg>
+<l>81. Niels Ebbes&#x00F8;n gaar over Randers Bro,</l>
+<l>de Holster efter hannem haste;</l>
+<l>Efter gaar han hin liden Svend Tr&#x00F8;st,</l>
+<l>og Broen han efter hannem kaste.</l>
+</lg>
+<lg>
+<l>82. Tak have Niels Ebbes&#x00F8;ns S&#x00F8;ster S&#x00F8;n,</l>
+<l>han var sin Morbroder tro;</l>
+<l>Han kaste i Fiorden de Fieler saa brat,</l>
+<l>de Holster funde ingen Bro.</l>
+</lg>
+<lg>
+<l>83. Niels Ebbes&#x00F8;n, geste sig en Kierling,</l>
+<l>hun havde ikkun toe Leve;</l>
+<l>Den eene gav hun Niels Ebbes&#x00F8;n,</l>
+<l>han slog den kullede Greve.</l>
+</lg>
+<lg>
+<l>84. Gud bevare din Si&#x00E6;l Niels Ebbes&#x00F8;n,</l>
+<l>Du varst en Dansker Held;</l>
+<l>Saa gi&#x00E6;rne havde du dit F&#x00E6;derne Land,</l>
+<l>ved fremmede Gi&#x00E6;ster skild.</l>
+</lg>
+<lg>
+<l>85. Christ signe og hver god Danne Svend,</l>
+<l>som baade med Mund og Haand,</l>
+<l>Uden Skempt og Tant med Flid og Tro,</l>
+<l>vil tiene sit F&#x00E6;derne Land.</l>
+</lg>
+<figure rend="asterisk"/>
+<p><hi rend="italic">Strofene er nummererte i oppskrifta. Over balladen st&#x00E5;r ei innleiing om den historiske bakgrunnen.</hi></p>
+</div>
+<div type="uchapter" subtype="song" xml:id="BIN3833">
+<head type="sub">Oppskrift B</head>
+<p>TSB C 25: Nils Ebbesen</p>
+<p>Oppskrift: <date when="1917">1917</date> av <name type="collector" corresp="saOMS">Ole M&#x00F8;rk Sandvik</name> etter <name type="source" corresp="kiNB">Nils Nilsson Beitohaugen</name>, <name type="place">&#x00D8;ystre Slidre, Valdres, Oppland</name>.</p>
+<p>Orig. ms.: NB Mus ms a 1815:1048, nr. 47, Sandviks manuskriptsamling (reinskrift), her gjengitt etter Ressem 2011.</p>
+<p>Utan oppgjeven tittel.</p>
+<figure rend="asterisk"/>
+<lg>
+<l n="1">1. H&#x00F8;re du kj&#x00E6;re <name>Nils Ebbes&#x00F8;n</name>,</l>
+<l>du v&#x00E6;re velkommen her;</l>
+<l>hure staar hoven i N&#x00F8;rre Jutland</l>
+<l>hvad er for Tidend&#x0027; der.</l>
+</lg>
+<figure rend="asterisk"/>
+<p><hi rend="italic">Strofa er unummerert i manuskriptet.</hi></p>
+<figure rend="shortHorizRule"/>
+</div>
+</div>
+<div type="chapter" n="12" xml:id="TSB_C_27">
+<head type="main"><ref type="contents" target="contents_12" xml:id="chapter_12">TSB C 27 Dronning Margrete</ref></head>
+<div type="uchapter" subtype="intro">
+<head type="sub">Innleiing</head>
+<p>Den svenske kongen Albrekt planlegg eit krigstog i Sk&#x00E5;ne. Han skriv eit forn&#x00E6;rmande brev til dronning Margrete der han utfordrar henne til krig, kallar henne <hi rend="italic">munkedeie</hi> &#x005B;tenestekvinne i munkekloster&#x005D; og lovar ikkje &#x00E5; ta noka hette p&#x00E5; hovudet f&#x00F8;r han har lagt Danmark under seg. Dronning Margrete ber p&#x00E5; si side ein av riddarane sine om &#x00E5; f&#x00F8;re h&#x00E6;ren hennar, men denne &#x2013; tyske &#x2013; riddaren nektar. I Vedels versjon av balladen heiter det d&#x00E5; ogs&#x00E5; at &#x00AB;hand vaar en mand saa falsk&#x00BB; (DgF III: 588). Deretter vender dronninga seg til den danske riddaren Iffuer Lycke, og det viser seg at han er trufast og utan svik og lovar &#x00E5; sl&#x00E5;st for dronninga. Slaget endar med siger for dronning Margrete. Kong Albrekt blir teken til fange:</p>
+<lg>
+<l>Saa bleff hand fangen, det vaar vden skemt,</l>
+<l>de spente hannem Boien om Foed:</l>
+<l>Saa f&#x00F8;rde de hannem til Helsingborg,</l>
+<l>den Danske Droning imod</l>
+<l>(DgF II: 590).</l>
+</lg>
+<p>Kong Albrekt blir f&#x00F8;rd fram for dronninga og ber om n&#x00E5;de, men m&#x00E5; ta si straff. Han blir sett i fengsel og f&#x00E5;r den van&#x00E6;rande tilleggsstraffa &#x00E5; bli kledd i blyk&#x00E5;pe. Dessutan set dei p&#x00E5; han ei diger, degraderande struthette (hette som smalnar i ein spiss).</p>
+<p>Bakgrunnen for denne balladen er slaget ved Falk&#x00F6;ping i V&#x00E4;sterg&#x00F6;tland (1389) mellom Albrekt av Mecklenburg, svensk konge fr&#x00E5; 1364, og Margrete (1353&#x2013;1412), dotter til Valdemar Atterdag. Margrete var norsk, dansk og svensk dronning under Kalmarunionen. Etter at Albrekts tyske leigeh&#x00E6;r tapte slaget ved Falk&#x00F6;ping, sat den tidlegare svenske kongen innesperra i fengsel til 1395.</p>
+<p>Grundtvig meinte at balladen er s&#x00E5; historisk &#x00AB;som det vel er muligt&#x00BB; og at &#x00AB;den maa v&#x00E6;re bleven til strax efter Begivenhederne&#x00BB; (DgF III: 567). Men andre forskarar, f&#x00F8;rst og fremst den danske historikaren Kristian Erslev, har p&#x00E5;vist ei rekkje feil og misforst&#x00E5;ingar i visetekstane, noko som &#x00AB;gj&#x00F8;r det utroligt, at Folkevisen er digtet f&#x00F8;r ved Midten af det femtende Aarhundrede&#x00BB; (Hildeman 1950: 59&#x2013;60). I nyare tid har b&#x00E5;de Karl-Ivar Hildeman og Bengt Jonsson arbeidd med dateringsproblematikken, utan &#x00E5; kome til sikre resultat (Hildeman 1950: 72&#x2013;73. Jonsson 1990&#x2013;1991: 246&#x2013;250).</p>
+<p>Det finst berre nokre brotstykke av den opphavleg danske balladen &#x00AB;Dronning Margrete&#x00BB; p&#x00E5; norsk grunn. Etter alt &#x00E5; d&#x00F8;me er Peder Syv kjelda for dei norske variantane, som er oppskrivne av Sophus Bugge og Hans Ross. L. M. Lindeman skreiv opp to melodiar til visa, ein fr&#x00E5; Tuddal og ein fr&#x00E5; Valdres. Ei av dei strofene som Bugge skreiv opp, etter to songarar fr&#x00E5; Fyresdal og Vr&#x00E5;dal, er trykt i Danmarks gamle Folkeviser:</p>
+<lg>
+<l>Dei kaddar meg Magret Munkedeigja,</l>
+<l>d&#x00E6; monne dei paa meg lj&#x00FA;ge:</l>
+<l>eg hev &#x0027;kje legji m&#x00E6; Munkjen eg,</l>
+<l>b&#x00E6;re f&#x00ED;re Nettar &#x00E5; tj&#x00FA;ge</l>
+<l>(DgF III: 566).</l>
+</lg>
+<p>Ho som kunne mest av &#x00AB;Dronning Margrete&#x00BB;, jamvel om det ikkje var s&#x00E5; mykje, bar sj&#x00F8;lv det same namnet og heitte Margrete Knutsdotter Borgji (1800&#x2013;1888). Margrete Knutsdotter var fr&#x00E5; Fyresdal og song nokre fleire balladar i tillegg til denne (Jonsson &#x0026; Solberg 2011: 576&#x2013;577).</p>
+<p rend="noIndent">Utsyn 194<lb/>DgF 159</p>
+</div>
+<div type="uchapter" subtype="song" xml:id="BIN6240">
+<head type="sub">Oppskrift A</head>
+<p>TSB C 27: Dronning Margrete</p>
+<p>Oppskrift: <title rend="italic">Kjempeviseboka</title> (Peder Syv), II, nr LXIV (trykkfeil for XLIV), s. 282&#x2013;286.</p>
+<p>Oppgjeven tittel: Dronning Margrete Valdemars Daatter, overvinder og fanger Konning Albret af Sverrige.</p>
+<figure rend="asterisk"/>
+<lg>
+<l n="1">1. En standende Strid i Sverrige,</l>
+<l>ogsaa i Vester Gytland:</l>
+<l>Konning <name>Albret</name> og hans gode Hovm&#x00E6;nd,</l>
+<l>da agte sig ud af Land.</l>
+<l n="ref">&#x2013; Fordi da ligger Svenden udi Bojen. &#x2013;</l>
+</lg>
+<lg>
+<l>2. Og det springer nu saa vide,</l>
+<l>saa vide om Sverrigs Krone:</l>
+<l>Konning Albret med Rytter og Knegte,</l>
+<l>Og de ville ind tiil Skaane.</l>
+</lg>
+<lg>
+<l>3. De sparede ikke Kirker, de sparede ikke Kloster,</l>
+<l>og intet hvad GUd tilh&#x00F8;rde:</l>
+<l>Der maatte undgielde saa mangen Mand,</l>
+<l>som aldrig ilde giorde.</l>
+</lg>
+<lg>
+<l>4. Konning Albret sidder paa Axelvold,</l>
+<l>han lader de L&#x00F8;nbreve skrive:</l>
+<l>Sender han dem til Helsingborg,</l>
+<l>Dronning <name>Margrete</name> at overgive.</l>
+</lg>
+<lg>
+<l>5. Det svarede hun Dronning Magrete,</l>
+<l>der hun de Feyde-Breve saae:</l>
+<l>Nu raade GUd Fader i Himmerig,</l>
+<l>mig haabes det bedre skal gaae.</l>
+</lg>
+<lg>
+<l>6. Og det forbiude den &#x00F8;verste GUd,</l>
+<l>den Sorrig skulde mig h&#x00E6;nde:</l>
+<l>Men vil GUD og de Danske M&#x00E6;nd,</l>
+<l>paa Veyen vi hannem vende.</l>
+</lg>
+<lg>
+<l>7. Og hun skrev hannem et andet igien,</l>
+<l>som GUd gav hende tilraade:</l>
+<l>Udi Medelby i Vester Gytheland,</l>
+<l>der skulle I finde vor Naade.</l>
+</lg>
+<lg>
+<l>8. Han skrev hende et andet igien,</l>
+<l>som han fik i Hu og Sinde:</l>
+<l>Det skal aldrig mine Landsm&#x00E6;nd sp&#x00F8;rge,</l>
+<l>jeg redes for nogen Qvinde.</l>
+</lg>
+<lg>
+<l>9. Det var Dronning Margrete saa brad,</l>
+<l>hun heder paa Svenne to:</l>
+<l>I tale til Tydske Herr <name>Paro</name>,</l>
+<l>bede hannem for mig indgaa.</l>
+</lg>
+<lg>
+<l>10. Og h&#x00F8;re I ki&#x00E6;re Herr Paro</l>
+<l>ville I hielpe mig af Vaande:</l>
+<l>Og ville I drage i Striden for mig,</l>
+<l>udi min Sted at stande.</l>
+</lg>
+<lg>
+<l>11. Det svarede han Herr Paro,</l>
+<l>han var en Mand saa falsk:</l>
+<l>Ikke drager jeg til Sverrig udi Strid,</l>
+<l>for tredive tusinde Mark.</l>
+</lg>
+<lg>
+<l>12. Det var hin &#x00E6;dle Dronning Magrete,</l>
+<l>hun lod det L&#x00F8;nbrev skrive:</l>
+<l>Sende hun det til Skanderborg,</l>
+<l>herr Iver Lykke at give.</l>
+</lg>
+<lg>
+<l>13. Saa silde om en Aftens Stund,</l>
+<l>da bleve de Breve udsende:</l>
+<l>Saa aarle om anden Morgen Tid,</l>
+<l>de komme den Herre til H&#x00E6;nde.</l>
+</lg>
+<lg>
+<l>14. Ind kom han Herr Iver Lykke,</l>
+<l>og steddes han for Bord:</l>
+<l>Ville I mig noget min naadigste Frue,</l>
+<l>hvorfore sende I mig Ord.</l>
+</lg>
+<lg>
+<l>15. Og h&#x00F8;re du det Herr <name>Iver Lykke</name>,</l>
+<l>saa venlige beder jeg dig:</l>
+<l>Og vil du fare til Sverriges Land,</l>
+<l>at stande i Strid for mig.</l>
+</lg>
+<lg>
+<l>16. Svarede der til herr Iver Lykke,</l>
+<l>han var en Mand uden Falsk:</l>
+<l>Og jeg vil drage til Sverrige i Aar,</l>
+<l>skulle det end koste min Hals.</l>
+</lg>
+<lg>
+<l>17. Saa skrev hun Kong Albret igien,</l>
+<l>og hverken bedre eller verre:</l>
+<l>For Axelvold i Gytheland,</l>
+<l>der m&#x00F8;de vi med vor H&#x00E6;r.</l>
+</lg>
+<lg>
+<l>18. Det svarede han Konning Albret,</l>
+<l>han agtede den Seyer at vinde:</l>
+<l>Vilde hun ikkun den gode Frue,</l>
+<l>sidde hos sin Rok at spinde.</l>
+</lg>
+<lg>
+<l>19. Og han taler til sine gode Hovm&#x00E6;nd,</l>
+<l>alt over sit breede Bord:</l>
+<l>Dronning Magrete og de Danske M&#x00E6;nd,</l>
+<l>saa mangt et spottefuldt Ord.</l>
+</lg>
+<lg>
+<l>20.Vi ville forlove vor Kl&#x00E6;de-S&#x00E6;d,</l>
+<l>og Hetten ville vi ey b&#x00E6;re,</l>
+<l>F&#x00F8;rre vi saa vunden all Danmark,</l>
+<l>til Sverrig med stor &#x00C6;re.</l>
+</lg>
+<lg>
+<l>21. Vi ville forlove vor Kl&#x00E6;de-S&#x00E6;d,</l>
+<l>aldrig med Sverd udride;</l>
+<l>F&#x00F8;rre vi saa vunden all Danmark,</l>
+<l>og sove hos Dronningens Side.</l>
+</lg>
+<lg>
+<l>22. Og de rede ud af Axelvold,</l>
+<l>med fire tusinde Heste;</l>
+<l>De havde saa skadelig i Hu og Sind,</l>
+<l>de Danske vilde de gieste.</l>
+</lg>
+<lg>
+<l>23. Og de rede over de gr&#x00F8;nne Enge,</l>
+<l>vel atten tusinde i Skare:</l>
+<l>De h&#x00F8;rde ey Messe den signet S&#x00F8;ndag,</l>
+<l>saa ilde monne de fare.</l>
+</lg>
+<lg>
+<l>24. De Danske sig og ey s&#x00F8;mme lode,</l>
+<l>de m&#x00F8;dtes al paa den Hede:</l>
+<l>At stride og sigte mod Kong Albret,</l>
+<l>det var deres st&#x00F8;rste Gl&#x00E6;de.</l>
+</lg>
+<lg>
+<l>25. Det skeede om en hellig S&#x00F8;ndag,</l>
+<l>der de monne Messen h&#x00F8;re:</l>
+<l>Siden fore de til &#x00D8;resund,</l>
+<l>og lode sig over f&#x00F8;re.</l>
+</lg>
+<lg>
+<l>26. Og de rede over de Skaanske Bierge,</l>
+<l>og over de gr&#x00F8;nne Enge:</l>
+<l>Det var stor Lyst at see der paa,</l>
+<l>hvorledes deres Heste monne springe.</l>
+</lg>
+<lg>
+<l>27. Og de rede ind over Sverriges Grentze,</l>
+<l>de vare i Modet saa tr&#x00F8;st:</l>
+<l>Og der stod Folk og undrede paa,</l>
+<l>Jorden ey under dem bryste.</l>
+</lg>
+<lg>
+<l>28. Meldte det Herr <name>Fikke Olufs&#x00F8;n</name></l>
+<l>han saae de Danske M&#x00E6;nd komme:</l>
+<l>Ikke ville vi stride mod dem i Dag,</l>
+<l>det gaaer os lidet til fromme.</l>
+</lg>
+<lg>
+<l>29. Det meldte Herre Konning Albret,</l>
+<l>han reed under gr&#x00F8;nnen Leide:</l>
+<l>Est du redder for Dansk Mands Sv&#x00E6;rd,</l>
+<l>da rid hen til en Side.</l>
+</lg>
+<lg>
+<l>30. Aldrig saae I mig v&#x00E6;re saa red,</l>
+<l>jeg torde jo fuld vel skelve;</l>
+<l>Konning Albret I see vel til i Dag,</l>
+<l>I kunde forvare eder selve.</l>
+</lg>
+<lg>
+<l>31. Ikke skal det nogen Tid sp&#x00F8;rres om mig,</l>
+<l>jeg torde jo yppe den Kiv;</l>
+<l>Den fremmeste Mand jeg v&#x00E6;re vil,</l>
+<l>der f&#x00F8;rst skal vogte sit Liv.</l>
+</lg>
+<lg>
+<l>32. Da meldte han det Herr Iver Lykke,</l>
+<l>Han saae de Svenske komme:</l>
+<l>I holde fast sammen I Danske Hovm&#x00E6;nd,</l>
+<l>de Svenske skulle for os r&#x00F8;mme.</l>
+</lg>
+<lg>
+<l>33. Det var Herr Fikke Olufs&#x00F8;n,</l>
+<l>sin Hest kunde han vel ride;</l>
+<l>Saa dristelig reed han de Danske imod,</l>
+<l>sit Glavende f&#x00F8;rst at bryde.</l>
+</lg>
+<lg>
+<l>34. De Pile stunke saa h&#x00F8;yt i Sky,</l>
+<l>de Glavende ginge i stykke;</l>
+<l>I tr&#x00E6;de nu frem I Danske Krigsm&#x00E6;nd,</l>
+<l>saa raabte herr Iver Lykke.</l>
+</lg>
+<lg>
+<l>35. Det f&#x00F8;rste Rid de sammen reed,</l>
+<l>de Heldte vare alle saa sterke;</l>
+<l>De Svendske maatte vige og give sig tabt,</l>
+<l>de miste der Kongens Merke.</l>
+</lg>
+<lg>
+<l>36. Meldte det Herr Konning Albret,</l>
+<l>jeg maa paa Steden blive;</l>
+<l>Den f&#x00F8;rste Mand udi all denne H&#x00E6;r,</l>
+<l>jeg vil mig fangen give.</l>
+</lg>
+<lg>
+<l>37. Saa blev han fangen, det var uden Skemt,</l>
+<l>de spente hannem Bojen om Foed;</l>
+<l>Saa f&#x00F8;rde de hannem til Helsingborg,</l>
+<l>den Danske Dronning imod.</l>
+</lg>
+<lg>
+<l>38. Det var Herr Konning Albret,</l>
+<l>han ind ad D&#x00F8;rren tr&#x00E6;n:</l>
+<l>Det var hans Frenke Dronning Margrete,</l>
+<l>hun stoed hannem op igien.</l>
+</lg>
+<lg>
+<l>39. I v&#x00E6;re velkommen Konning Albret,</l>
+<l>mig haver fast efter eder langet:</l>
+<l>I skulle v&#x00E6;re Fadder ad det Barn,</l>
+<l>jeg haver ved Munken fanget.</l>
+</lg>
+<lg>
+<l>40. I Fior vi eder til Barsel bade,</l>
+<l>og da vilde I ikke komme;</l>
+<l>Nu ere I kommen til Kirkegang,</l>
+<l>eder selv til liden fromme.</l>
+</lg>
+<lg>
+<l>41. I kalde mig Margrete Munke-Deje,</l>
+<l>den vil jeg ikke v&#x00E6;re:</l>
+<l>Det s&#x00F8;mmer fuld ilde en fattig Qvinde,</l>
+<l>end siden en Dronning monne v&#x00E6;re.</l>
+</lg>
+<lg>
+<l>42. I kallede mig Margrete Munke-Deje,</l>
+<l>det monne I paa mig lyve;</l>
+<l>Saa sandelig hielpe mig GUd af N&#x00F8;d,</l>
+<l>det kom mig aldrig i Hue.</l>
+</lg>
+<lg>
+<l>43. I have forsoren eders Kl&#x00E6;de-S&#x00E6;de,</l>
+<l>at Hetten skulde I ey b&#x00E6;re:</l>
+<l>F&#x00F8;rre I fik vundet all Danmark til Sverrige,</l>
+<l>med stor &#x00C6;re.</l>
+</lg>
+<lg>
+<l>44. Den Kongelig Eed som I have soret,</l>
+<l>den skulle I ikke bryde:</l>
+<l>I skulle os gieste paa alle vore Slotte,</l>
+<l>og Taarnet skulle I nyde.</l>
+</lg>
+<lg>
+<l>45. Svarede han hende Konning Albert,</l>
+<l>I ere en Velbyrdig Frue:</l>
+<l>Beviser mig Naade, I ere vor Byrd,</l>
+<l>saa liden er min Formue.</l>
+</lg>
+<lg>
+<l>46. Min ki&#x00E6;re Hertug I sige nu saa,</l>
+<l>det skulde I have sagt os f&#x00F8;rre:</l>
+<l>Der I skrev ud den Spot og Spee,</l>
+<l>som I uden Sag lod h&#x00F8;re.</l>
+</lg>
+<lg>
+<l>47. I hente mig ind femten Alne Vadmel,</l>
+<l>lader sk&#x00E6;re denne Herre en Hette:</l>
+<l>Saa f&#x00F8;re vi hannem til Mekelborg,</l>
+<l>og lade der Striden tils&#x00E6;tte.</l>
+</lg>
+<lg>
+<l>48. Kong Albret gaaer ad Ki&#x00F8;benhavns Gade,</l>
+<l>hannem s&#x00F8;mmer baade Pris og &#x00C6;re:</l>
+<l>Og femten af de Svenske Riddere,</l>
+<l>den Skrud monne efter hannem b&#x00E6;re.</l>
+</lg>
+<lg>
+<l>49. Hun lagde over hannem en Kaabe saa tung,</l>
+<l>og den var st&#x00F8;bt af Bly:</l>
+<l>Hun bad hannem sidde der under saa l&#x00E6;nge,</l>
+<l>til han spurde de Tidende ny.</l>
+</lg>
+<lg>
+<l>50. Og der sad han udi Vinter siu,</l>
+<l>hun lod sig da miskunde:</l>
+<l>Saa drog han hiem baade fro og glad,</l>
+<l>og d&#x00F8;de paa Mekelborgske Grunde.</l>
+</lg>
+<figure rend="asterisk"/>
+<p>Strofene er nummererte i oppskrifta.</p>
+</div>
+<div type="uchapter" subtype="song" xml:id="BIN4296">
+<head type="sub">Oppskrift B</head>
+<p>TSB C 27: Dronning Margrete</p>
+<p>Oppskrift: <date when="1860">1860</date> av <name type="collector" corresp="saLML">Ludvig Mathias Lindeman</name> etter <name type="source" corresp="kiLHL">Lars Haraldsson Lofthus/K&#x00E5;sa</name>, <name type="place">Tudal, Telemark</name>.</p>
+<p>Orig. ms.: NB Mus ms 2456/1860:203, nr. 31, Lindemans manuskriptsamling, her gjengitt etter Ressem 2011.</p>
+<p>Oppgjeven tittel: Kong Albret.</p>
+<figure rend="asterisk"/>
+<lg>
+<l n="1">1. I v&#x00E6;re velkommen Kong <name>Albret</name></l>
+<l>mig haver fast efter eder l&#x00E6;nges,</l>
+<l>I skulde v&#x00E6;re Fadder ad dette Barn</l>
+<l>jeg haver med Munken fanget.</l>
+<l n="ref">&#x2013; For Idag ligger Svenden udi Boien. &#x2013;</l>
+</lg>
+<figure rend="asterisk"/>
+<p>Strofa er unummerert i manuskriptet.</p>
+</div>
+<div type="uchapter" subtype="song" xml:id="BIN4408">
+<head type="sub">Oppskrift C</head>
+<p>TSB C 27: Dronning Margrete</p>
+<p>Oppskrift: <date when="1865">1865</date> av <name type="collector" corresp="saLML">Ludvig Mathias Lindeman</name> etter <name type="source" corresp="kiHNB">Halvor Nilsson Br&#x00E5;ten</name>, <name type="place">H&#x00F8;llldalseige, Nordre-Aurdal, Valdres, Oppland</name>.</p>
+<p>Orig. ms.: NB Mus ms 6862a:578, nr. 37, Lindemans manuskriptsamling (kladd), her gjengitt etter Ressem 2011.</p>
+<p>Utan oppgjeven tittel.</p>
+<figure rend="asterisk"/>
+<lg>
+<l n="1">1. Ifjor jeg dig til Bars&#x00F8;l ba</l>
+<l>da vilde du ikke komme,</l>
+<l>og nu er du kommen til Kirkegang</l>
+<l>dig selv til liden Fromme</l>
+<l n="ref">&#x2013; Fordi da saa ligger den Svennen udi B&#x00F8;jen.<note type="footnote">Under ordet st&#x00E5;r det: Vuggen</note></l>
+</lg>
+<figure rend="asterisk"/>
+<p>Strofa er unummerert i manuskriptet.</p>
+</div>
+<div type="uchapter" subtype="song" xml:id="BIN1243">
+<head type="sub">Oppskrift D</head>
+<p>TSB C 27: Dronning Margrete</p>
+<p>Oppskrift: <date when="xxxx">Udatert</date> av <name type="collector" corresp="saHR">Hans Ross</name> etter <name type="source" corresp="kiMKB">Margrete Knutsdotter Borgji</name>, <name type="place">Moland, Fyresdal, Telemark</name>.</p>
+<p>Orig. ms.: NFS Hans Ross II, 17</p>
+<p>Oppgjeven tittel: Margret Munkedeigja</p>
+<figure rend="asterisk"/>
+<lg>
+<l n="1">1. De du kadder meg Munkedeigja</l>
+<l>de mone du paa meg ljuge</l>
+<l>for eg hev&#x0027; inki m&#x00E6; Munkanne sovi</l>
+<l><hi rend="underlined">kon</hi> N&#x00E6;tanne fir &#x0027;aa tjuge.</l>
+</lg>
+<lg>
+<l>2. I hente mig fimten Alnir Vallmaal</l>
+<l>jeg vil skjere den Herre en Hette</l>
+<l>so fylgjer vi ham til Skaane By</l>
+<l>aa later<note type="criticalApp"><hi rend="italic">Alternativ lesem&#x00E5;te:</hi> leter</note> Strula(r)<note type="criticalApp"><hi rend="italic">Alternativ lesem&#x00E5;te:</hi> Struten</note> paasette.</l>
+</lg>
+<figure rend="asterisk"/>
+<p>Strofene er unummererte i manuskriptet.</p>
+<figure rend="shortHorizRule"/>
+</div>
+</div>
+<div type="chapter" n="13" xml:id="TSB_C_33">
+<head type="main"><ref type="contents" target="contents_13" xml:id="chapter_13">TSB C 33 Kong Hans&#x0027; bryllaup</ref></head>
+<div type="uchapter" subtype="intro">
+<head type="sub">Innleiing</head>
+<p>Kong Hans sit p&#x00E5; K&#x00F8;benhavns slott og let skrive hemmelege brev til den jyske stormannen Erik Ottesen. Han skal reise utanlands og fri til ei hertugdotter p&#x00E5; kongens vegner. Erik Ottesen f&#x00E5;r med seg eit stort f&#x00F8;lgje og segler til &#x00AB;Misen Land&#x00BB;, der hertugen og dotter hans held til. Den danske sendemannen f&#x00E5;r hertugen i tale og legg fram &#x00E6;rendet sitt, men hertugen vil ikkje gje noko sikkert svar med det same. Etter at danskane har venta i lang tid, g&#x00E5;r Erik Ottesen p&#x00E5; nytt fram for hertugen, og det blir bestemt at det skal kastast terning om den vakre hertugdottera. Erik Ottesen har lukka med seg og vinn henne for danske-kongen:</p>
+<lg>
+<l>Den f&#x00F8;rste Guld Terning, paa Bordet rand,</l>
+<l>den l&#x00F8;b, som det skulde v&#x00E6;re:</l>
+<l>Den Danske Hoffmester den Iomfru vandt</l>
+<l>til Kongens Hiertens ki&#x00E6;re</l>
+<l>(DgF III: 629).</l>
+</lg>
+<p>Det finst fleire danske renessanseoppskrifter av denne seine, historiske balladen (DgF III: 616&#x2013;634), og han er ogs&#x00E5; oppskriven fr&#x00E5; nyare dansk tradisjon (DgF X: 413&#x2013;415). Vedel trykte ein lett redigert tekst i si visebok (1591), og fr&#x00E5; Vedel og sikkert fyrst og fremst Peder Syvs visebok (1695) har denne danske balladen kome inn i norsk tradisjon. Lindeman skreiv s&#x00E5;leis opp den f&#x00F8;rste strofa etter tre Telemarks-songarar (Ressem 2011: 316&#x2013;318). Ein av desse songarane, Olav Kjetilsson Stigen (1809&#x2013;1887) fr&#x00E5; Tuddal, kunne ti balladar, som vart oppskrivne av Lindeman (1860) og av Bugge (1874). Heile tre av visene Olav Kjetilsson kunne var historiske (Jonsson &#x0026; Solberg 2011: 186&#x2013;187).</p>
+<p>Den danske unionskongen Hans (1455&#x2013;1513) gifte seg i 1478 med Christine av Sachsen, og det er opptakten til deira bryllaup balladen skildrar. Ei tid etter bryllaupet har s&#x00E5; visa blitt til. Bengt Jonsson tenkjer seg at dette har skjedd i byrjinga av 1500-talet, blant anna fordi det nedertyske ordet <hi rend="italic">fr&#x00F8;ken</hi> er bruka i teksten, eit ord som ikkje er belagt i svensk f&#x00F8;r i 1502 og i dansk noko seinare (Jonsson 1990&#x2013;1991: 275&#x2013;276).</p>
+</div>
+<div type="uchapter" subtype="song" xml:id="BIN6241">
+<head type="sub">Oppskrift A</head>
+<p>TSB C 33: Kong Hans' bryllaup</p>
+<p>Oppskrift: <title rend="italic">Kjempeviseboka</title> (Peder Syv), Anden Part XLVII, s. 292&#x2013;296</p>
+<p>Oppgjeven tittel: Konning <name>Hans</name> f&#x00E6;ster Fr&#x00F8;iken <name>Kirstine</name> Churfyrstens Hertug <name>Ernst</name>es Daatter af Saxsen.</p>
+<figure rend="asterisk"/>
+<lg>
+<l n="1">1. Konning <name>Hans</name> han sidder paa Ki&#x00F8;benhavn,</l>
+<l>han lader de L&#x00F8;nnebreve skrive:</l>
+<l>Og sender han dennem til N&#x00F8;rre Jutland,</l>
+<l>Herr Erick Ottes&#x00F8;n at giefte.</l>
+<l n="ref">&#x2013; Der kom aldrig saa rig en Jomfru til Danmark. &#x2013;</l>
+</lg>
+<lg>
+<l>2. Det var Herr Erick Ottes&#x00F8;n,</l>
+<l>der han de L&#x00F8;nbreve saae:</l>
+<l>Han sk&#x00F8;d Vartaffel og Terning fra sig,</l>
+<l>bad sadle Ganger graae.</l>
+</lg>
+<lg>
+<l>3. Og de ledde ud hin ski&#x00F8;nne &#x00D8;rk,</l>
+<l>lagde paa forgyldene Mile;</l>
+<l>End reed han til Ki&#x00F8;benhavn,</l>
+<l>f&#x00F8;rend han lystet at hvile.</l>
+</lg>
+<lg>
+<l>4. Ind kom Herr Erick Ottes&#x00F8;n,</l>
+<l>og steddes han for Bord:</l>
+<l>Hvad ville I mig min naadige Herre,</l>
+<l>hvi have I sendt mig Ord.</l>
+</lg>
+<lg>
+<l>5. H&#x00F8;re I herr Erick Ottes&#x00F8;n,</l>
+<l>I ere vor egen Mand:</l>
+<l>I skulle fare til Misen i Aar,</l>
+<l>bede om den Lillie Vand.</l>
+</lg>
+<lg>
+<l>6. Og det var Herr Erick Ottes&#x00F8;n,</l>
+<l>han blev saa brat at svare:</l>
+<l>Skal jeg ind til Misen Land,</l>
+<l>jeg kand ikke eene fare.</l>
+</lg>
+<lg>
+<l>7. Herr <name>Verner Paszbierg</name> af Holbeck-Huus,</l>
+<l>befaler jeg med eder fare:</l>
+<l>Herr Claus R&#x00F8;nnaw paa Oringborg,</l>
+<l>eder f&#x00F8;lger saa faur en Skare.</l>
+</lg>
+<lg>
+<l>8. Der blev udlagt de Skib paa Strande,</l>
+<l>De Baadsm&#x00E6;nd gl&#x00E6;des derved:</l>
+<l>Den blide B&#x00F8;r saa herlig stod,</l>
+<l>saavel deres Skib fremskred.</l>
+</lg>
+<lg>
+<l>9. Og vunde de op deres Silke-Seyl,</l>
+<l>saa h&#x00F8;yt i forgyldene Raa:</l>
+<l>De s&#x00E6;tte Dannebroge i fremmer Stafn,</l>
+<l>de lode til Saxen staa.</l>
+</lg>
+<lg>
+<l>10. Kongen stander paa h&#x00F8;yen V&#x00E6;rn,</l>
+<l>og seer han ud fra Lande:</l>
+<l>Hisset seer jeg de Danske Skib,</l>
+<l>de f&#x00F8;re forgyldne Brande.</l>
+</lg>
+<lg>
+<l>11. Jeg seer saa mange af de Danske Skibe,</l>
+<l>de f&#x00F8;re forgyldene Brande:</l>
+<l>Christ signe hende liden Kirstine,</l>
+<l>de agte hende vist til Haande.</l>
+</lg>
+<lg>
+<l>12. Og de lagde ind udi den Havn,</l>
+<l>kaste Anker paa hviden Sand:</l>
+<l>De &#x00E6;dle Herrer af Danmark,</l>
+<l>de trine der f&#x00F8;rst paa Land.</l>
+</lg>
+<lg>
+<l>13. Midt udi den Borgegaard,</l>
+<l>der agslede de deres Skind:</l>
+<l>Og saa gaae de i H&#x00F8;yeloft,</l>
+<l>for Hertugen af Saxen ind.</l>
+</lg>
+<lg>
+<l>14. Hil sidde I Marggreven af Misen-Land</l>
+<l>baade I og eders Ki&#x00E6;re:</l>
+<l>Den unge Konning af Dannemark,</l>
+<l>beder om eders Daatter med &#x00C6;re.</l>
+</lg>
+<lg>
+<l>15. Han tog til sig de lukte Breve,</l>
+<l>og l&#x00E6;ste han der paa:</l>
+<l>Lov v&#x00E6;re GUd i Himmerig,</l>
+<l>at jeg denne Daatter faa.</l>
+</lg>
+<lg>
+<l>16. I &#x00E6;dle Riddere, I tage Vand,</l>
+<l>I gaae med os til Bord:</l>
+<l>I t&#x00F8;ve hos os en liden Tiid,</l>
+<l>vi vide eder Ansvar god.</l>
+</lg>
+<lg>
+<l>17. Vare de dem der udi Maanet,</l>
+<l>og de varede i tre;</l>
+<l>Ikke kunde de Fr&#x00F8;iken Kirstine faae</l>
+<l>alt med deres &#x00D8;yne at see.</l>
+</lg>
+<lg>
+<l>18. Den klare Dag dages for &#x00D8;sten,</l>
+<l>og B&#x00F8;lgen den bl&#x00E6;sz blaa:</l>
+<l>De &#x00E6;dle Riddere udaf Dannemark,</l>
+<l>de gaae for Hertugen at staae.</l>
+</lg>
+<lg>
+<l>19. Det var Hertug Ernst af Misen Land</l>
+<l>han kalder paa Drosten sin;</l>
+<l>I lede hin unge Fr&#x00F8;iken Kirstine</l>
+<l>for os i Sahlen ind.</l>
+</lg>
+<lg>
+<l>20. Og otte da vare de Misenske Fruer,</l>
+<l>hendes haar baade b&#x00F8;rste og flette:</l>
+<l>Fire da vare de &#x00E6;dle F&#x00F8;rstinder,</l>
+<l>hendes Hovet Guld paas&#x00E6;tte.</l>
+</lg>
+<lg>
+<l>21. De s&#x00E6;tte paa hende det Hovet-Guld,</l>
+<l>det skinde som en Lue:</l>
+<l>Det var belagt med dyrebare Steene,</l>
+<l>det s&#x00F8;mte den ski&#x00F8;nne Jomfrue.</l>
+</lg>
+<lg>
+<l>22. Det var liden Kirstine saa bold,</l>
+<l>hun ind ad D&#x00F8;rren tr&#x00E6;n,</l>
+<l>hendes Fader og hendes Farbr&#x00F8;dre tre,</l>
+<l>de stande hende op igien.</l>
+</lg>
+<lg>
+<l>23. Hendes Fader og hendes Farbr&#x00F8;dre tre,</l>
+<l>De stande hende op igien;</l>
+<l>De &#x00E6;dle Riddere af Danmark,</l>
+<l>de ragte hende Haanden uden Meen.</l>
+</lg>
+<lg>
+<l>24. Det var Hertug Ernst af Misen-Land,</l>
+<l>han heder paa Smaa-Svend sin;</l>
+<l>I hente Terning og Vartaffel,</l>
+<l>b&#x00E6;re det i Stuen ind.</l>
+</lg>
+<lg>
+<l>25. Hertugen kaste de Terning fra sig,</l>
+<l>De vare af r&#x00F8;den Guld;</l>
+<l>I kaste Herr Verner Paszberg,</l>
+<l>thi I ere Kongen huld.</l>
+</lg>
+<lg>
+<l>26. Det var Herr Verner Paszberg</l>
+<l>han ski&#x00F8;d de Terning fra sig:</l>
+<l>Kaste I for mig Herr Claus R&#x00F8;nnaw,</l>
+<l>thi I ere &#x00E6;ldre end jeg.</l>
+</lg>
+<lg>
+<l>27. Og det var Herr Claus R&#x00F8;nnaw,</l>
+<l>han s&#x00E6;tte de Terning fra sig:</l>
+<l>Kaste I Danmarkes Hofmester for mig,</l>
+<l>I ere langt ypper end jeg.</l>
+</lg>
+<lg>
+<l>28. Det var Herr Erick Ottes&#x00F8;n,</l>
+<l>tog Terning i sin Haand;</l>
+<l>Hielp nu GUd Fader i Himmerig,</l>
+<l>jeg vinder den Lillie Vand.</l>
+</lg>
+<lg>
+<l>29. Den f&#x00F8;rste Guld-Terning paa Bordet rand,</l>
+<l>den l&#x00F8;b som det skulde v&#x00E6;re;</l>
+<l>Den Danske Hofmester den Jomfrue vandt</l>
+<l>til Kongens Hiertens Ki&#x00E6;re.</l>
+</lg>
+<lg>
+<l>30. L&#x00E6;nge t&#x00E6;nkte Fr&#x00F8;iken Kirstine ved sig,</l>
+<l>og hende rand Taare paa Kind:</l>
+<l>Skal jeg fare til Danmark ind,</l>
+<l>saa langt fra Moder min.</l>
+</lg>
+<lg>
+<l>31. Det var Hertugen af Saxen Land,</l>
+<l>han tager sin Daatter at l&#x00E6;re;</l>
+<l>Det vil jeg for sanden sige,</l>
+<l>det var af Tugt og &#x00C6;re.</l>
+</lg>
+<lg>
+<l>32. V&#x00E6;r ki&#x00E6;r at Juder ki&#x00E6;re Daatter min,</l>
+<l>de ere baade trygge og tro;</l>
+<l>Stunde du ey efter Sverriges Krone,</l>
+<l>uden du den med Lempe kand faa.</l>
+</lg>
+<lg>
+<l>33. Du bede got for fattige Enker,</l>
+<l>som Faderl&#x00F8;se B&#x00F8;rn skulle f&#x00F8;de;</l>
+<l>Du bede got for de fattige Fanger,</l>
+<l>lad dem i Taarnet ikke d&#x00F8;e.</l>
+</lg>
+<lg>
+<l>34. Og skatte du ikke den fattige Bonde,</l>
+<l>jeg det ikke have vil;</l>
+<l>Men fattes dig enten Guld eller S&#x00F8;lv,</l>
+<l>du sige din Fader til.</l>
+</lg>
+<lg>
+<l>35. Saa snart da var den sorte Jord,</l>
+<l>med Silke saa vit overbred:</l>
+<l>Det var Fr&#x00F8;iken Kirstine lille,</l>
+<l>hun blev til Karm udled.</l>
+</lg>
+<lg>
+<l>36. De bl&#x00E6;ste saa sterk i Trommeter,</l>
+<l>i deres forgyldene Liud;</l>
+<l>Saa f&#x00F8;rde de den Fr&#x00F8;iken i Strand,</l>
+<l>de kallede hende Danmarkes Brud.</l>
+</lg>
+<lg>
+<l>37. Saa vunde de op deres Silke Seyl,</l>
+<l>saa h&#x00F8;yt i forgyldene Raa:</l>
+<l>Saa seylede de dem til Danmark,</l>
+<l>fast mindre end Uger toe.</l>
+</lg>
+<lg>
+<l>38. De str&#x00F8;ge Seyl, lod Anker falde,</l>
+<l>alt paa den hvide Sand;</l>
+<l>De &#x00E6;dle Riddere af Danmark,</l>
+<l>de l&#x00F8;fte den Jomfru paa Land.</l>
+</lg>
+<lg>
+<l>39. Den gr&#x00F8;nne Jord blev vit og bret,</l>
+<l>med Silke og Sindal str&#x00F8;d;</l>
+<l>Den unge Konning med Riddere Skare,</l>
+<l>drog sin ki&#x00E6;re Brud imod.</l>
+</lg>
+<lg>
+<l>40. De m&#x00F8;dtes paa den gr&#x00F8;nne Vold,</l>
+<l>Christ give det bliver til Gavn;</l>
+<l>Den Herre fra Hest, den Jomfru fra Karm,</l>
+<l>de toge hver anden i Favn.</l>
+</lg>
+<figure rend="asterisk"/>
+<p><hi rend="italic">Strofene er nummererte i oppskrifta.</hi></p>
+</div>
+<div type="uchapter" subtype="song" xml:id="BIN4292">
+<head type="sub">Oppskrift B</head>
+<p>TSB C 33: Kong Hans' bryllaup</p>
+<p>Oppskrift: <date when="1860">1860</date> av <name type="collector" corresp="saLML">Ludvig Mathias Lindeman</name> etter <name type="source" corresp="kiOKS">Olav Kjetilsson Stigen</name>, <name type="place">Tuddal, Telemark</name>.</p>
+<p>Orig. ms.: NB Mus ms 2456/1860:203, nr. 18, Lindemans manuskriptsamling, her gjengitt etter Ressem 2011.</p>
+<p>Utan oppgjeven tittel.</p>
+<figure rend="asterisk"/>
+<lg>
+<l n="1">1. Kong <name>Hansen</name> sidder paa Kj&#x00F8;benhavn,</l>
+<l>han lader de L&#x00F8;ndebrev skrive,</l>
+<l>saa sender han dem til nordre Jutteland</l>
+<l><name>Erik Ottesen</name> at gj&#x00E6;ste.</l>
+<l n="ref">&#x2013; De f&#x00F8;re ellers saa rike Jomfruge til Dannemark. &#x2013;</l>
+</lg>
+<figure rend="asterisk"/>
+<p><hi rend="italic">Strofa er unummerert i manuskriptet.</hi></p>
+<p>Opplysningar om andre trykte utg&#x00E5;ver finst i Ressem 2011. Der finst &#x00F2;g to oppskrifter til av Lindeman, men tekstane i dei to skil seg lite fr&#x00E5; Olav Kjetilsson Stigens variant.</p>
+<figure rend="shortHorizRule"/>
+</div>
+</div>
+
+<div type="chapter" subtype="litlist">
+<head type="main"><ref type="contents" target="contents_14" xml:id="chapter_14">Forkortingar og litteratur</ref></head>
+<p rend="noIndent">CCF: <title rend="italic">Corpus Carminum F&#x00E6;roensium. F&#x00F8;roya kv&#x00E6;&#x00F0;i</title> I&#x2013;VI. Red.: S. Grundtvig m. fl. K&#x00F8;benhavn 1941&#x2013;1972</p>
+<p rend="noIndent">DgF: <title rend="italic">Danmarks gamle Folkeviser</title> I&#x2013;XII. Red.: S. Grundtvig m. fl. K&#x00F8;benhavn 1853&#x2013;1863 (ny utg. 1966)</p>
+<p rend="noIndent">EFA: Etno-folkloristisk arkiv, Seksjon for kulturvitenskap, Institutt for arkeologi, historie, kultur- og religionsvitskap, Universitetet i Bergen</p>
+<p rend="noIndent">NB: Nasjonalbiblioteket, Oslo</p>
+<p rend="noIndent">NFS: Norsk Folkeminnesamling, Institutt for kulturstudier, Universitet i Oslo</p>
+<p rend="noIndent">SMB: <title rend="italic">Sveriges Medeltida Ballader</title> 1&#x2013;5. Red.: B. Jonsson m. fl. Stockholm 1983&#x2013;2001</p>
+<p rend="noIndent">TGM: Telemark og Grenland museum</p>
+<p rend="noIndent">Utsyn: <title rend="italic">Utsyn yver gamall norsk folkevisedikting</title>. Red.: L. Heggstad m. fl. Kristiania 1912</p>
+
+<figure rend="asterisk"/>
+
+<p rend="noIndent">Beyer, Absalon Peders&#x00F8;n (red.) 1928. <title rend="italic">Om Norgis Rige</title>. Utgave ved Harald Beyer. Bergen. F. Beyers Forlag.</p>
+<p rend="noIndent">Blom, &#x00C5;del Gj&#x00F8;stein og Olav B&#x00F8; (red.) 1981. <title rend="italic">Norske balladar</title>. Oslo. Det Norske Samlaget.</p>
+<p rend="noIndent">Eriksen, Anne 2002. &#x00AB;Mindre-Alv Erlingsson. Historie, sagn og andre fortellinger&#x00BB;. I: Arne Bugge Amundsen m. fl. (red.): <title rend="italic">Sagnomsust. Fortelling og virkelighet.</title> Oslo. Novus.</p>
+<p rend="noIndent">Grundtvig, Svend, J&#x00F8;rgen Bloch og Chr. Matras (red.) 1941&#x2013;1972. <title rend="italic">F&#x00F8;roya kv&#x00E6;&#x00F0;i : Corpus carminum Faeroensium</title> I&#x2013;VI. K&#x00F8;benhavn. Munksgaard.</p>
+<p rend="noIndent">Grundtvig, Svend, Axel Olrik m. fl. (red.) &#x005B;1853&#x2013;1863&#x005D; 1966. <title rend="italic">Danmarks gamle Folkeviser</title> I&#x2013;XII. K&#x00F8;benhavn. Gyldendalske Boghandel.</p>
+<p rend="noIndent">Heggstad, Leiv og H. Gr&#x00FC;ner-Nielsen 1912. <title rend="italic">Utsyn yver gamall norsk folkevisedikting</title>. Kristiania. Olaf Norlis Forlag.</p>
+<p rend="noIndent">Helle, Knut 1999. &#x00AB;Alv Erlingsson.&#x00BB;. I: <title rend="italic">Norsk Biografisk Leksikon</title>. Oslo. Kunnskapsforlaget.</p>
+<p rend="noIndent">Hildeman, Karl-Ivar 1950. <title rend="italic">Politiska visor fr&#x00E5;n Sveriges senmedeltid</title>. Stockholm. Hugo Gebers F&#x00F6;rlag.</p>
+<p rend="noIndent">Hildeman, Karl-Ivar 1985. <title rend="italic">Tillbaka till balladen.</title> Stockholm. Svenskt visarkiv.</p>
+<p rend="noIndent">Hildeman, Karl-Ivar 1985. &#x00AB;Vreta klosterrov&#x00BB; I: <title rend="italic">Tillbaka till balladen: uppsatser och ess&#x00E4;er</title>. Stockholm. Svenskt visarkiv.</p>
+<p rend="noIndent">Hundreviseboka, sj&#x00E5; Vedel, Anders S&#x00F8;rensen 1851.</p>
+<p rend="noIndent">Jonsson, Bengt R. 1990&#x2013;1991. &#x00AB;Br&#x00E5;valla och Lena. Kring balladen SMB 56. II. Kap. 7 A. Lenavisan och forskningen: fr&#x00E5;n Vedel till Sch&#x00FC;ck. Kap. 7 B. Historiska ballader fr&#x00E5;n 1400- och 1500-talen: intertextualitet, influens, tendens&#x00BB;. I: <title rend="italic">Sumlen. &#x00C5;rsbok f&#x00F6;r vis- och folkmusikforskning.</title> Stockholm. Svenskt Visarkiv &#x0026; Samfundet f&#x00F6;r Visforskning.</p>
+<p rend="noIndent">Jonsson, Bengt R., Margareta Jersild og Sven-Bertil Jansson (red.) 1983&#x2013;2001. <title rend="italic">Sveriges Medeltida Ballader</title> 1&#x2013;5. Stockholm. Almquist &#x0026; Wiksell.</p>
+<p rend="noIndent">Jonsson, Bengt R. og Olav Solberg 2011. <title rend="italic">&#x00AB;Vil du meg lyde&#x00BB;. Ballads&#x00E5;ngare i Telemark p&#x00E5; 1800-talet.</title> Oslo. Novus.</p>
+<p rend="noIndent">Jonsson, Bengt R., Svale Solheim og Eva Danielson 1978. <title rend="italic">The Types of the Scandinavian Medieval Ballad</title>. Oslo-Bergen-Troms&#x00F8;. Universitetsforlaget.</p>
+<p rend="noIndent">Kjempeviseboka, sj&#x00E5; Syv, Peder 1695.</p>
+<p rend="noIndent">Landstad, Magnus B. &#x005B;1853&#x005D; 1968. <title rend="italic">Norske Folkeviser</title>. Oslo. Norsk Folkeminnelag/Universitetsforlaget.</p>
+<p rend="noIndent">Liest&#x00F8;l, Knut 1941. &#x00AB;Margit Runarborgi&#x00BB;. I: <title rend="italic">Saga og folkeminne</title>. Oslo. Olaf Norlis Forlag.</p>
+<p rend="noIndent">Liest&#x00F8;l, Knut Moltke Moe &#x005B;1920&#x2013;1924&#x005D; 1958&#x2013;1959. <title rend="italic">Norsk folkedikting. Folkeviser</title> I&#x2013;II. Ny utg&#x00E5;ve ved Olav B&#x00F8; og Svale Solheim. Oslo. Samlaget.</p>
+<p rend="noIndent">Ressem, Astrid Nora (red.) 2011. <title rend="italic">Norske middelalderballader. Melodier.</title> Bind 1. Oslo. Norsk visearkiv/Norsk Folkeminnelag/Aschehoug.</p>
+<p rend="noIndent">Rubow, Paul V. (red.) 1927. <title rend="italic">Anders S&#x00F8;rensen Vedels Folkevisebog</title> II. K&#x00F8;benhavn. Holbergselskabet af 23. september. J. J&#x00F8;rgensen &#x0026; Co. Bogtrykkeri.</p>
+<p rend="noIndent">Solberg, Olav 2003. <title rend="italic">Forteljingar om drap. Kriminalhistorier fr&#x00E5; seinmellomalderen</title>. Bergen. Fagbokforlaget.</p>
+<p rend="noIndent">Solheim, Svale 1973. &#x00AB;Historie og munnleg historisk visetradisjon&#x00BB;. I: <title rend="italic">Norveg</title> 16. Oslo. Universitetsforlaget.</p>
+<p rend="noIndent">Syv, Peder 1695. <title rend="italic">Et Hundrede udvalde Danske Viser om allehaande merkelige Krigs Bedrivt oc anden seldsom Eventyr, som sig her udi Riget ved gamle K&#x00E6;mper, navnkundige Konger og ellers fornemme Personer begivet haver af Arilds Tid til denne n&#x00E6;rv&#x00E6;rende Dag. For&#x00F8;gede med det Andet Hundrede Viser om Danske Konger, K&#x00E6;mper og Andre samt hosf&#x00F8;yede Antegnelser til Lyst og L&#x00E6;rdom.</title> Ki&#x00F8;benhavn. P.M. H&#x00F8;vffner.</p>
+<p rend="noIndent">Vedel, Anders S&#x00F8;rensen 1591. <title rend="italic">It Hundrede vduaalde Danske Viser, Om allehaande Merckelige Krigs Bedrifft, oc anden seldsom Euentyr, som sig her vdi Riget, ved Gamle Kemper, Naffnkundige Konger oc ellers forneme Personer begiffuet haffuer, aff arilds tid indtil denne neru&#x00E6;rendis Dag</title>. Ribben. Hans Brun.</p>
+</div>
+</body>
+</text>
+</TEI>

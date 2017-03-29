@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://www.nslnorge.no/tekster/NSL_texts.xsl"?>
+<!DOCTYPE TEI PUBLIC "-// NSL Norge //EN" "http://www.nslnorge.no/tekster/NSL_tei_xinclude.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="BS_Bjornson_Faderen">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>bokselskap.no. Bj&#x00F8;rnstjerne Bj&#x00F8;rnson: &#x00AB;Faderen&#x00BB;. Utgave ved Gry Berg.</title>
+</titleStmt>
+<publicationStmt><p>Publiseres som digital tekst av bokselskap.no.</p></publicationStmt>
+<sourceDesc>
+<p>synpotisk_faderen.doc (Gry Berg)</p>
+</sourceDesc>
+</fileDesc>
+<revisionDesc>
+<change who="ENW" when="2011-08-18">Kodekontroll.</change>
+<change xml:id="ENW" who="ENW" when="2011-08-15">Kodet tekst.</change>
+</revisionDesc>
+</teiHeader>
+<text xml:id="BS_Bjornson_Faderen_tekst" type="collection">
+<front>
+<titlePage type="main">
+<byline><docAuthor>Bj&#x00F8;rnstjerne Bj&#x00F8;rnson</docAuthor></byline>
+<docTitle>
+<titlePart type="main">&#x00AB;Faderen&#x00BB;</titlePart>
+</docTitle>
+<docDate>1859</docDate>
+</titlePage>
+<div type="chapter" subtype="illustration">
+<figure><graphic url="Faderen.jpg"/></figure>
+</div>
+</front>
+<body>
+<div type="chapter">
+<note type="commentary">&#x00AB;Faderen&#x00BB; ble skrevet i 1859 og trykt samme år i den svenske utgivelsen <hi rend="italic">Nya nordiska Dikter och Skildringar &#x2013; af finska, danska, norska och svenska f&#x00F6;rfattare</hi>. I Norge ble fortellingen f&#x00F8;rste gang trykt i samlingen <hi rend="italic">Smaastykker</hi> i 1860. Versjonen i bokselskap.no f&#x00F8;lger 1860-utgivelsen. Det er ingen tekstvariasjon mellom de to versjonene fra 1859 og 1860. Eneste forskjell er at ortografien er modernisert (f.eks. <hi rend="italic">å</hi> for <hi rend="italic">aa</hi>, <hi rend="italic">mann</hi> for <hi rend="italic">Mand</hi>, små forbokstaver i substantiver) i den &#x00AB;svenske&#x00BB; versjonen.</note>
+<p>Den m&#x00E6;gtigste Mand i det Pr&#x00E6;stegj&#x00E6;ld, hvorom her skal fort&#x00E6;lles, hed<note type="criticalApp">Den (...) hed] <hi rend="italic">B.T.3.1868 har</hi> Den Mand, hvorom her skal fort&#x00E6;lles, var den m&#x00E6;gtigste i sit Pr&#x00E6;stegjeld; han hed</note> Thord &#x00D8;veraas. Han stod en Dag i Pr&#x00E6;stens Kontor, h&#x00F8;i og alvorlig; &#x00AB;jeg har faaet en S&#x00F8;n&#x00BB;, sagde han, &#x00AB;og vil have ham over Daaben&#x00BB;. &#x2013;&#x00AB;Hvad skal han hede?&#x00BB; &#x2013; &#x00AB;Finn efter Fader min.&#x00BB; &#x2013; &#x00AB;Og Fadderne?&#x00BB; &#x2013; De blev n&#x00E6;vnede og var da Bygdens beste M&#x00E6;nd og Kvinder af Mandens Sl&#x00E6;gt. &#x00AB;Er der ellers noget?&#x00BB; spurgte Pr&#x00E6;sten, han saa op. Bonden stod lidt; &#x00AB;jeg vilde gjerne have ham d&#x00F8;bt for sig selv&#x00BB;, sagde han. &#x2013; &#x00AB;Det vil sige paa en Hverdag?&#x00BB; &#x2013; &#x00AB;Paa L&#x00F8;rdag f&#x00F8;rstkommende, 12 Middag.&#x00BB; &#x2013; &#x00AB;Er der ellers noget?&#x00BB; spurgte Pr&#x00E6;sten. &#x00AB;Ellers er der ingen-ting&#x00BB;; Bonden dreiede Huen, som vilde han gaa. Da reiste Pr&#x00E6;sten sig; &#x00AB;endnu dog dette&#x00BB;, sagde han og gik lige bort til Thord, tog hans Haand og saa ham ind i &#x00D8;inene: &#x00AB;give Gud, at Barnet maa blive dig til Velsignelse!&#x00BB;</p>
+<p>Sexten Aar efter den Dag stod Thord i Pr&#x00E6;stens Stue. &#x00AB;Du holder dig godt, du Thord&#x00BB;, sagde Pr&#x00E6;sten, han saa ingen Forandring paa ham. &#x00AB;Jeg har heller ingen Sorger&#x00BB;, svarede Thord. Hertil taug Pr&#x00E6;sten, men en Stund efter spurgte han: &#x00AB;Hvad er dit &#x00C6;rinde i Kveld?&#x00BB; &#x2013; &#x00AB;I Kveld kommer jeg om S&#x00F8;nnen min, som skal konfirmeres imorgen.&#x00BB; &#x2013; &#x00AB;Han er en flink Gut.&#x00BB; &#x2013; &#x00AB;Jeg vilde ikke betale Pr&#x00E6;sten, f&#x00F8;r jeg h&#x00F8;rte, hvad Nummer han fik paa Kirkegulvet.&#x00BB; &#x2013; &#x00AB;Han skal paa<note type="criticalApp">paa] <hi rend="italic">B.T.3.1868 har</hi> staa</note> Nummer l.&#x00BB; &#x2013; &#x00AB;Jeg h&#x00F8;rer dette, &#x2013; og her er 10 Daler til Pr&#x00E6;sten.&#x00BB; &#x2013; &#x00AB;Er der ellers noget?&#x00BB; spurgte Pr&#x00E6;sten, han saa paa Thord. &#x2013; &#x00AB;Ellers er der intet.&#x00BB; &#x2013;Thord gik.</p>
+<p>Atter l&#x00F8;b otte Aar hen, og saa h&#x00F8;rtes der St&#x00F8;i en Dag foran Pr&#x00E6;stens Kontor; thi mange Mand kom, og Thord f&#x00F8;rst. Pr&#x00E6;sten saa op og kjendte ham: &#x00AB;Du kommer mandst&#x00E6;rk i Kveld.&#x00BB; &#x2013; &#x00AB;Jeg vilde begj&#x00E6;re Lysning for S&#x00F8;nnen min; han skal giftes med Karen Storliden, Datter af Gudmund, som her staar.&#x00BB; &#x2013; &#x00AB;Dette er jo Bygdens rigeste Gjente.&#x00BB; &#x2013; &#x00AB;De siger saa&#x00BB;, svarede Bonden, han str&#x00F8;g Haaret op med den ene Haand. Pr&#x00E6;sten sad en Stund og som i Tanker, han sagde intet, men f&#x00F8;rte Navnene op i sine B&#x00F8;ger, og M&#x00E6;ndene skrev under. Thord lagde tre Daler paa Bordet. &#x00AB;Jeg skal blot have en&#x00BB;, sagde Pr&#x00E6;sten. &#x2013;&#x00BB; Ved det nok; men han er mit eneste Barn; vilde gjerne gj&#x00F8;re det vel.&#x00BB; &#x2013; Pr&#x00E6;sten tog mod Pengene. &#x00AB;Det er tredie Gang, du paa S&#x00F8;nnens Vegne staar her nu, Thord.&#x00BB; &#x2013; &#x00AB;Men nu er jeg ogsaa f&#x00E6;rdig med ham&#x00BB;, sagde Thord, lagde sin Tegnebog sammen, sagde Farvel og gik &#x2013; M&#x00E6;ndene langsomt efter.</p>
+<p>Fjorten Dage efter den Dag roede Fader og S&#x00F8;n i stille Veir over Vandet til Storliden for at samtale om Brylluppet. &#x00AB;Den Toften ligger ikke sikkert under mig&#x00BB;, sagde S&#x00F8;nnen og reiste sig forat l&#x00E6;gge den tilrette. I det samme glider den Tilje,<note type="commentary">Tilje] planke eller brett</note> han staar paa; han slaar ud med Armene, giver et Skrig og falder i Vandet. &#x2013; &#x00AB;Tag i Aaren!&#x00BB; raabte Faderen, han reiste sig op og stak den ud. Men da S&#x00F8;nnen havde gjort et Par Tag, stivner han. &#x00AB;Vent lidt!&#x00BB; raabte Faderen, han roede til. Da v&#x00E6;lter S&#x00F8;nnen bagover, ser langt paa Faderen &#x2013; og synker.</p>
+<p>Thord vilde ikke ret tro det, han holdt Baaden stille og stirrede paa den Pletten, hvor S&#x00F8;nnen var sunken ned, som skulde han komme op igjen. Der steg noen Bobler op, endnu nogle, saa bare en stor, der brast &#x2013; og speilblank laa atter S&#x00F8;en.</p>
+<p>I tre Dage og tre N&#x00E6;tter saa Folk Faderen ro rundt om denne Pletten uden at tage Mad eller S&#x00F8;vn til sig; han soknede<note type="commentary">sokne] dregge, lete med krok etter en som er druknet</note> efter sin S&#x00F8;n. Og paa den tredie Dag om Morgenen fandt han ham og kom b&#x00E6;rende opover<note type="criticalApp">opover] <hi rend="italic">B.T.5.1900 har</hi> over</note> Bakkerne med ham til sin Gaard.</p>
+<p>Det kunde vel v&#x00E6;re gaaet et Aar hen siden hin Dag. Da h&#x00F8;rer Pr&#x00E6;sten sent en H&#x00F8;stkveld nogen rusle<note type="commentary">rusle] r&#x00F8;re seg (om lyden)</note> ved D&#x00F8;ren ude i Forstuen og famle varsomt efter Laasen. Pr&#x00E6;sten aabnede D&#x00F8;ren og ind traadte en h&#x00F8;j, foroverb&#x00F8;iet Mand, mager og hvid af Haar. Pr&#x00E6;sten saa l&#x00E6;nge paa ham, f&#x00F8;r han kjendte ham; det var Thord. &#x00AB;Kommer du saa sent?&#x00BB; sagde Pr&#x00E6;sten og stod stille foran ham. &#x00AB;Aa ja; jeg kommer sent&#x00BB;, sagde Thord, han satte sig ned. Pr&#x00E6;sten satte sig ogsaa, som han ventede; det var l&#x00E6;nge stilt. Da sagde Thord: &#x00AB;Jeg har noget med, som jeg gjerne vilde give til de fattige&#x00BB;,<note type="criticalApp">fattige&#x00BB;,] <hi rend="italic">B.T.3.1868 har</hi> Fattige; det skulde gj&#x00F8;res til et Legat og b&#x00E6;re min S&#x00F8;ns Navn,&#x00BB;</note> &#x2013; han reiste sig, lagde Penge paa Bordet og satte sig atter. Pr&#x00E6;sten t&#x00E6;llede dem op; &#x00AB;det var mange Penge&#x00BB;, sagde han. &#x2013; &#x00AB;Det er Halvten af min Gaard; jeg solgte den idag.&#x00BB; Pr&#x00E6;sten blev siddende i lang Stilhed; han spurgte endelig, men mildt: &#x00AB;Hvad vil du tage dig for?&#x00BB;<note type="criticalApp">du tage dig for] <hi rend="italic">B.T.3.1868 har</hi> du nu tage dig for, Thord</note> &#x2013; &#x00AB;Noget bedre.&#x00BB; &#x2013; De sad der en<note type="criticalApp">sad der en] <hi rend="italic">B.T.4.1873 har</hi> sad en</note> Stund, Thord med &#x00D8;inene mod Gulvet, Pr&#x00E6;sten med &#x00D8;inene paa ham. Da sagde Pr&#x00E6;sten sagte og langt: &#x00AB;Nu t&#x00E6;nker jeg, at S&#x00F8;nnen din endelig er bleven dig til Velsignelse.&#x00BB; &#x2013; &#x00AB;Ja, nu t&#x00E6;nker jeg det ogsaa selv&#x00BB;, sagde Thord, han saa op, og to Taarer randt tunge nedover hans Ansigt.</p>
+</div>
+</body>
+</text>
+</TEI>

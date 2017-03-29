@@ -1,0 +1,1148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI PUBLIC "-// NSL Norge //EN" "http://www.bokselskap.no/tekstkoding/NSL_tei_xinclude.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="BOB_Grieg_SteneStrommen">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Bergen Offentlige Bibliotek/bokselskap.no, 2014
+<lb/>Nordahl Grieg: <hi rend="italic">Stene i str&#x00F8;mmen</hi> (1925)
+<lb/>Teksten i bokselskap.no f&#x00F8;lger 1. utgave, 1925, digitalisert av Bergen Offentlige Bibliotek som en del av prosjektet <hi rend="italic">&#x00C5;nd eies av alle &#x2013; Nordahl Grieg digitalisert</hi> (http://bergenbibliotek.no/nordahlgrieg).</title>
+</titleStmt>
+<publicationStmt>
+<p>Digitalisert av Bergen Offentlige Bibliotek, publiseres av bokselskap.no.</p>
+</publicationStmt>
+<sourceDesc>
+<p>stene.xml (mottatt fra Bergen Offentlige Bibliotek, februar 2014).</p>
+</sourceDesc>
+</fileDesc>
+<revisionDesc>
+<change xml:id="ENW" who="ENW" when="2014-03-05">Kodet om litt. Validert. Entiteter. Kodekontroll.</change>
+</revisionDesc>
+</teiHeader>
+<text xml:id="BOB_Grieg_SteneStrommen_tekst" type="poems">
+<front>
+<titlePage type="main">
+<byline><docAuthor>Nordahl Grieg</docAuthor></byline>
+<docTitle>
+<titlePart type="main">Stene i str&#x00F8;mmen</titlePart>
+<titlePart type="sub">Digte</titlePart>
+</docTitle>
+<docDate>1925</docDate>
+</titlePage>
+<div xml:id="contents">
+<list type="contents_main">
+<item><ref target="part_1" xml:id="contents_1">I</ref>
+	<list>
+	<item><ref target="chapter_1_1" xml:id="contents_1_1">Josef</ref></item>
+	</list>
+</item>
+<item><ref target="part_2" xml:id="contents_2">II</ref>
+	<list>
+	<item><ref target="chapter_2_1" xml:id="contents_2_1">Morgen</ref></item>
+	<item><ref target="chapter_2_2" xml:id="contents_2_2">B&#x00F8;lgen</ref></item>
+	<item><ref target="chapter_2_3" xml:id="contents_2_3">B&#x00F8;n</ref></item>
+	<item><ref target="chapter_2_4" xml:id="contents_2_4">Farvel</ref></item>
+	<item><ref target="chapter_2_5" xml:id="contents_2_5">Tytteb&#x00E6;rsyltet&#x00F8;i</ref></item>
+	<item><ref target="chapter_2_6" xml:id="contents_2_6">To smaa stene i str&#x00F8;mmen</ref></item>
+	<item><ref target="chapter_2_7" xml:id="contents_2_7">Hav</ref></item>
+	<item><ref target="chapter_2_8" xml:id="contents_2_8">Melodi</ref></item>
+	<item><ref target="chapter_2_9" xml:id="contents_2_9">Graagj&#x00E6;s</ref></item>
+	</list>
+</item>
+<item><ref target="part_3" xml:id="contents_3">III</ref>
+	<list>
+	<item><ref target="chapter_3_1" xml:id="contents_3_1">Kapellet i Wadham College</ref></item>
+	<item><ref target="chapter_3_2" xml:id="contents_3_2">Kvinden, D&#x00F8;den og Jehova</ref></item>
+	</list>
+</item>
+<item><ref target="part_4" xml:id="contents_4">III</ref>
+	<list>
+	<item><ref target="chapter_4_1" xml:id="contents_4_1">Vestlandsregn</ref></item>
+	<item><ref target="chapter_4_2" xml:id="contents_4_2">Hotelrum i Oslo</ref></item>
+	<item><ref target="chapter_4_3" xml:id="contents_4_3">Oktoberaften paa Karl Johan</ref></item>
+	<item><ref target="chapter_4_4" xml:id="contents_4_4">Sangernuten</ref></item>
+	<item><ref target="chapter_4_5" xml:id="contents_4_5">Natt nedover Tana</ref></item>
+	<item><ref target="chapter_4_6" xml:id="contents_4_6">Aftensang om vaaren</ref></item>
+	<item><ref target="chapter_4_7" xml:id="contents_4_7">Suomi</ref></item>
+	<item><ref target="chapter_4_8" xml:id="contents_4_8">Hjemme igjen</ref></item>
+	</list>
+</item>
+</list>
+</div>
+</front>
+<body>
+<div type="part" n="1">
+<head><ref type="contents" target="contents_1" xml:id="part_1">I</ref></head>
+<div type="chapter" n="1_1">
+<head><ref type="contents" target="contents_1_1" xml:id="chapter_1_1">Josef</ref></head>
+<lg>
+<l>Den er ikke endnu vaaknet til dag,</l>
+<l>den lille s&#x00F8;vnige by,</l>
+<l>men Josef staar ved sin flittige sag</l>
+<l>i det livsalige gry.</l>
+</lg>
+<lg>
+<l>Hans hjerte nynner en munter sang &#x2013;</l>
+<l>Josef skal giftes iaar &#x2013;</l>
+<l>og derfor synger han dagen lang</l>
+<l>mens sagen og h&#x00F8;vlen gaar!</l>
+</lg>
+<lg>
+<l>Og Josef blir kold av et lykkelig gys,</l>
+<l>da d&#x00F8;ren blir aapnet med ett,</l>
+<l>mens stjernerne blegner for morgenens lys,</l>
+<l>som blusser mot Nazareth.</l>
+</lg>
+<lg>
+<l>Det er Maria! Og Josef er</l>
+<l>et eneste skinnende smil,</l>
+<l>lar sagen staa dirrende fast og ler:</l>
+<l>Ja nu kan den ta sig en hvil!</l>
+</lg>
+<lg>
+<l>Men kvinden staar blek mot den lukkede d&#x00F8;r</l>
+<l>og n&#x00F8;ler med at gaa ind,</l>
+<l>og hvor er de smil og de kj&#x00E6;rtegn fra f&#x00F8;r,</l>
+<l>som blomstret fra hendes sind?</l>
+</lg>
+<lg>
+<l>Hvad er det Maria? Hvad er der vel h&#x00E6;ndt?</l>
+<l>Du er saa forandret og rar &#x2013;</l>
+<l>Josef stirrer bekymringsfuldt sp&#x00E6;ndt:</l>
+<l>Jeg ber dig Maria &#x2013; svar!</l>
+</lg>
+<lg>
+<l>Saa taler hans kvinde med mange ord</l>
+<l>om himmelske syner hun saa.</l>
+<l>Josef l&#x00E6;ner sig tungt til sit bord,</l>
+<l>og intet kan han forstaa.</l>
+</lg>
+<lg>
+<l>Der sitter hans kvinde, b&#x00F8;iet og skj&#x00F8;n,</l>
+<l>i morgenens gyldne glans &#x2013;</l>
+<l>en r&#x00F8;st har fortalt hun skal f&#x00F8;de en s&#x00F8;n,</l>
+<l>en s&#x00F8;n som ikke er hans?</l>
+</lg>
+<lg>
+<l>Men saa gaar han pludselig frem et skridt</l>
+<l>i gulvets knitrende spaan.</l>
+<l>Det godslige ansigt er haardt og hvidt,</l>
+<l>og stemmen er ond av haan:</l>
+</lg>
+<lg>
+<l>Du lyver Maria; jeg vet hvad det er.</l>
+<l>Din uskyld stod altsaa for fald &#x2013; &#x2013; &#x2013;</l>
+<l>Jeg vil ikke h&#x00F8;re, si ikke mer!</l>
+<l>Jeg tror at forstaa hvad jeg skal.</l>
+</lg>
+<lg>
+<l>Men ut av mit hus! og kom aldrig igjen &#x2013;</l>
+<l>Og Josef l&#x00F8;fter sin haand,</l>
+<l>og peker mot d&#x00F8;ren: gaa til din ven,</l>
+<l>din elsker, den Hellige Aand!</l>
+</lg>
+<lg>
+<l>Men kvinden sitter i solstripens skin,</l>
+<l>i stille r&#x00F8;rende tro,</l>
+<l>og langsomt vaakner i Josefs sind</l>
+<l>mindene mellem de to.</l>
+</lg>
+<lg>
+<l>Og han som stod der saa streng og stiv</l>
+<l>blir n&#x00E6;sten barmhjertig og mild:</l>
+<l>Du som jeg elsket mer end mit liv &#x2013;</l>
+<l>hvorledes gik dette til?</l>
+</lg>
+<lg>
+<l>Jeg kan ikke fatte hvad du har m&#x00F8;dt,</l>
+<l>du var saa uskyldig og ren.</l>
+<l>Men v&#x00E6;r ikke r&#x00E6;d, jeg blev ikke f&#x00F8;dt</l>
+<l>til at kaste den f&#x00F8;rste sten.</l>
+</lg>
+<lg>
+<l>Du var den svake, men n&#x00E6;vn mig dog ham</l>
+<l>hvis gl&#x00E6;de var bare at ta.</l>
+<l>Den fattige hadde et eneste lam</l>
+<l>og det fik jeg ikke ha.</l>
+</lg>
+<lg>
+<l>Din dunkle fort&#x00E6;lling er sv&#x00E6;r at forstaa,</l>
+<l>jeg er en enfoldig mand,</l>
+<l>det budskap du h&#x00F8;rte, de syner du saa</l>
+<l>er over min ringe forstand.</l>
+</lg>
+<lg>
+<l>Men selv om du ogsaa fik tusene bud,</l>
+<l>saa er der &#x00E9;n ting jeg vet:</l>
+<l>At ingen har lov, om mand eller gud,</l>
+<l>at kr&#x00E6;nke min kj&#x00E6;rlighet.</l>
+</lg>
+<lg>
+<l>Og selv om verden b&#x00F8;r frelses helst</l>
+<l>av ham som har daarlig den skapt,</l>
+<l>saa har ikke verden lov at bli frelst,</l>
+<l>naar verden for mig gaar tapt.</l>
+</lg>
+<lg>
+<l>Jeg vet det Maria &#x2013; jeg b&#x00F8;ier mig snart</l>
+<l>for smertens b&#x00F8;n i dit blik.</l>
+<l>Men endnu ser jeg saa bitterlig klart</l>
+<l>den sorg og den dom jeg fik. &#x2013;</l>
+</lg>
+<lg>
+<l>Utenfor gl&#x00F8;det den knugende dag</l>
+<l>over en &#x00F8;rken av ler.</l>
+<l>Josef grep atter sin flittige sag,</l>
+<l>men Josef sang ikke mer.</l>
+</lg>
+</div>
+</div>
+<div type="part" n="2">
+<head><ref type="contents" target="contents_2" xml:id="part_2">II</ref></head>
+<div type="chapter" n="2_1">
+<head><ref type="contents" target="contents_2_1" xml:id="chapter_2_1">Morgen</ref></head>
+<lg>
+<l>Jorden vaakner og gyser</l>
+<l>i gryets kuldskj&#x00E6;re stund.</l>
+<l>Ogsaa dens Himmel fryser</l>
+<l>med dugg paa sin bleke mund!</l>
+<l>De skj&#x00E6;lver efter hverandre,</l>
+<l>men f&#x00F8;rst maa stjernene vandre</l>
+<l>til hvile paa nattens bund.</l>
+</lg>
+<lg>
+<l>Et bjerg i den f&#x00F8;rste r&#x00F8;de,</l>
+<l>&#x2013; et kyss paa et snehvitt bryst . . .</l>
+<l>Saa kan de elskende gl&#x00F8;de!</l>
+<l>Der brister et skrik av lyst.</l>
+<l>Og Jorden favnes med Luften</l>
+<l>og segner i blomsterduften,</l>
+<l>som staar fra den gyldne kyst!</l>
+</lg>
+<lg>
+<l>Hvor lyset spr&#x00E6;nger vort kammer,</l>
+<l>ved vinduet, staar du og ser.</l>
+<l>Det er som du t&#x00E6;ndes og flammer</l>
+<l>med i det vilde veir,</l>
+<l>som med et favntak begraver</l>
+<l>alle de vaarlige haver</l>
+<l>med elskovsr&#x00F8;dmende tr&#x00E6;r!</l>
+</lg>
+<lg>
+<l>Den brandgule morgenkjolen,</l>
+<l>som b&#x00F8;lger saa silkefin,</l>
+<l>aapner du ut mot solen:</l>
+<l>ta mig sol, jeg er din!</l>
+<l>Du l&#x00F8;fter de l&#x00E6;ngtende arme</l>
+<l>i bruset av bl&#x00E6;st og varme</l>
+<l>ut mot en luft av vin!</l>
+</lg>
+<lg>
+<l>Jeg staar saa n&#x00E6;r ved din side,</l>
+<l>og stirrer, bl&#x00E6;ndet og stum.</l>
+<l>Din morgen gaar vist saa vide,</l>
+<l>min morgen er dette rum.</l>
+<l>Og n&#x00E6;sten i angst jeg kjender</l>
+<l>der flyver mot mine h&#x00E6;nder</l>
+<l>et brusende silkeskum!</l>
+</lg>
+<lg>
+<l>Da synker jeg ned og slynger</l>
+<l>armene om dit kn&#x00E6;,</l>
+<l>og f&#x00F8;ler hvor pulsen synger</l>
+<l>bak hudens nyfaldne sne!</l>
+<l>Saa d&#x00E6;mrer den morgen herinde,</l>
+<l>da Adam tok med sin kvinde</l>
+<l><hi rend="italic">en blomst</hi> fra et &#x00E6;bletr&#x00E6;!</l>
+</lg>
+</div>
+<div type="chapter" n="2_2">
+<head><ref type="contents" target="contents_2_2" xml:id="chapter_2_2">B&#x00F8;lgen</ref></head>
+<lg>
+<l>En verden av glans,</l>
+<l>et hav av turkis,</l>
+<l>som gynger i dans</l>
+<l>med solskin og bris,</l>
+<l>ind hvor vi ligger paa sanden</l>
+<l>og lytter til b&#x00F8;lgens spil.</l>
+<l>Altid den samme b&#x00F8;lge</l>
+<l rend="indent_2">brister i sol og ild,</l>
+<l>knuses til skum mot stranden &#x2013;</l>
+<l>Saa springer den atter til!</l>
+</lg>
+<lg>
+<l>Et snefjeld, et skred</l>
+<l>av skum og krystal</l>
+<l>og alt rives med</l>
+<l>av det brusende fald,</l>
+<l>og vi som kj&#x00E6;mpet derute</l>
+<l>skyltes herind tilsist!</l>
+<l>B&#x00F8;lge &#x2013; aa lad mig ofte</l>
+<l rend="indent_2">kjende din magt og din brist,</l>
+<l>hvile paa sandens pute</l>
+<l>og kysse en fin liten vrist!</l>
+</lg>
+<lg>
+<l>Og kommer jeg hit</l>
+<l>en anden vaar,</l>
+<l>&#x00E6;ldet og hvit</l>
+<l>efter onde aar,</l>
+<l>h&#x00F8;rer jeg endnu bruse</l>
+<l>samme velsignede sang!</l>
+<l>Saa faar da heller veien</l>
+<l rend="indent_2">bli stenet og tung og lang &#x2013;</l>
+<l>b&#x00F8;lgen vil altid bruse,</l>
+<l>at vi var unge engang!</l>
+</lg>
+</div>
+<div type="chapter" n="2_3">
+<head><ref type="contents" target="contents_2_3" xml:id="chapter_2_3">B&#x00F8;n</ref></head>
+<lg>
+<l>Du kysset mine &#x00F8;ine,</l>
+<l>og from av fryd jeg ber</l>
+<l>at usselhet og ondskap</l>
+<l>maa ikke findes mer,</l>
+</lg>
+<lg>
+<l>men at et v&#x00E6;ld av godhet</l>
+<l>fra nu maa straale frem</l>
+<l>og m&#x00F8;te mine &#x00F8;ine,</l>
+<l>fordi du kysset dem!</l>
+</lg>
+</div>
+<div type="chapter" n="2_4">
+<head><ref type="contents" target="contents_2_4" xml:id="chapter_2_4">Farvel</ref></head>
+<lg>
+<l>Du stod saa hvit da toget gik,</l>
+<l>og begge visste</l>
+<l>at dette tapte &#x00F8;ieblik</l>
+<l>var livets sisste</l>
+</lg>
+<lg>
+<l>&#x00AB;Det var som d&#x00F8;de vi den kveld&#x00BB;,</l>
+<l>kan begge skrive.</l>
+<l>Men trods den d&#x00F8;d og det farvel &#x2013;</l>
+<l>er vi ilive.</l>
+</lg>
+<lg>
+<l>Det dype saar er grodd igjen</l>
+<l>og hjertet sover.</l>
+<l>Aa, ingen sorg er ond som den</l>
+<l>at <hi rend="italic">alt gaar over!</hi></l>
+</lg>
+</div>
+<div type="chapter" n="2_5">
+<head><ref type="contents" target="contents_2_5" xml:id="chapter_2_5">Tytteb&#x00E6;rsyltet&#x00F8;i</ref></head>
+<lg>
+<l>Der sat vi, to landsm&#x00E6;nd, og snakket</l>
+<l>foran en engelsk kamin.</l>
+<l>Der funklet en dr&#x00F8;m i vor vin,</l>
+<l>mens ilden i halvm&#x00F8;rket flakket.</l>
+<l>Vi talte om norske veninder</l>
+<l>til hjertet blev stort av savn,</l>
+<l>og tungt av forelskede minder!</l>
+<l>Saa blev der taust, ved et navn.</l>
+</lg>
+<lg>
+<l>Men stilheten kom da til ende,</l>
+<l>du spurte: &#x00AB;kan du forstaa</l>
+<l>hvad jeg bestandig maa t&#x00E6;nke paa</l>
+<l>hvergang jeg t&#x00E6;nker paa hende?&#x00BB;</l>
+<l>Da r&#x00F8;bet vi, ven, vore smerter,</l>
+<l>for samtidig svarene fl&#x00F8;i</l>
+<l>fra begge de rammede hjerter:</l>
+<l>paa tytteb&#x00E6;rsyltet&#x00F8;i!</l>
+</lg>
+<lg>
+<l>Herren maa besst vite grunden!</l>
+<l>Er det den frodige gl&#x00F8;d,</l>
+<l>saa frisk, saa dugget og r&#x00F8;d,</l>
+<l>den nypeblodige munden,</l>
+<l>er det de &#x00F8;iekast blanke</l>
+<l>som tindrer i smil og sk&#x00F8;i, &#x2013;</l>
+<l>der gav os den venlige tanke</l>
+<l>av tytteb&#x00E6;rsyltet&#x00F8;i?</l>
+</lg>
+<lg>
+<l>Aa nei, det er hvite smaa krukker</l>
+<l>paa kj&#x00F8;kkenet, rad efter rad,</l>
+<l>mens duften slaar syrlig og glad</l>
+<l>mot syltepapiret som lukker!</l>
+<l>Der staar hun! hvor h&#x00F8;stsolen varmer,</l>
+<l>fra himlen saa blaa og saa h&#x00F8;i</l>
+<l>og r&#x00F8;rer med halvn&#x00F8;kne armer</l>
+<l>i tytteb&#x00E6;rsyltet&#x00F8;i!</l>
+</lg>
+<lg>
+<l>Og <hi rend="italic">hjemmet</hi> lever i ordet,</l>
+<l>med stilhet og s&#x00F8;ndagskos,</l>
+<l>r&#x00F8;dvin og ryper i fl&#x00F8;tesos</l>
+<l>og bare os to ved bordet!</l>
+<l>Og her i vor stille stue,</l>
+<l>fjernt fra hverdagens st&#x00F8;i,</l>
+<l>spiser jeg dig, lille frue</l>
+<l>av tytteb&#x00E6;rsyltet&#x00F8;i!</l>
+</lg>
+</div>
+<div type="chapter" n="2_6">
+<head><ref type="contents" target="contents_2_6" xml:id="chapter_2_6">To smaa stene i str&#x00F8;mmen</ref></head>
+<lg>
+<l>Da vi var smaa var det prestekraver</l>
+<l>som vakte vor fryd</l>
+<l>i haver</l>
+<l>mot syd!</l>
+<l>Ivaar er det b&#x00E6;kken &#x2013;</l>
+<l>den klinger saa ren</l>
+<l>og springer paa sten</l>
+<l>og slipper bestandig med skr&#x00E6;kken!</l>
+</lg>
+<lg>
+<l>Og to smaa stene i str&#x00F8;mmen,</l>
+<l>saa silrende klar,</l>
+<l>er dr&#x00F8;mmen</l>
+<l>jeg har!</l>
+<l>De smiler mot luften</l>
+<l>og solflekkers dryss</l>
+<l>og smaasj&#x00F8;ers kyss</l>
+<l>og tr&#x00E6;rne og dagen og duften!</l>
+</lg>
+<lg>
+<l>Om vi var de hvite smaa stene,</l>
+<l>som laa der saa fro,</l>
+<l>alene</l>
+<l>vi to!</l>
+<l>Og b&#x00E6;kken fik vandre</l>
+<l>forbi og forbi,</l>
+<l>men vi skulde bli,</l>
+<l>og v&#x00E6;re saa glad i hverandre!</l>
+</lg>
+</div>
+<div type="chapter" n="2_7">
+<head><ref type="contents" target="contents_2_7" xml:id="chapter_2_7">Hav</ref></head>
+<lg>
+<l>Din sj&#x00E6;l er et stille, enfoldig hav,</l>
+<l>hvor intet er v&#x00E6;rd at forstaa.</l>
+<l>Men &#x00F8;iet har glimt av det gule rav,</l>
+<l>og det maa jeg t&#x00E6;nke paa.</l>
+</lg>
+<lg>
+<l>Dit hjerte gaar jevnt som en d&#x00F8;nnings fald</l>
+<l>og undrer aldrig mit sind.</l>
+<l>Men munden er r&#x00F8;d som den r&#x00F8;de koral</l>
+<l>og flammet engang mot min.</l>
+</lg>
+<lg>
+<l>Og det er det &#x00F8;de og d&#x00F8;de hav,</l>
+<l>hvor stumheten ruger gold.</l>
+<l>Men hav, for din prakt av koral og av rav</l>
+<l>gir jeg mig dig i vold.</l>
+</lg>
+</div>
+<div type="chapter" n="2_8">
+<head><ref type="contents" target="contents_2_8" xml:id="chapter_2_8">Melodi</ref></head>
+<lg>
+<l>Der skj&#x00E6;lver angst og minder med</l>
+<l>den cellom&#x00F8;rke melodi,</l>
+<l>og hjertet jages fra sin fred</l>
+<l>mot aar jeg trodde var forbi,</l>
+<l>en sommernatt, en &#x00F8;de hei,</l>
+<l>som drog sit sus om dig og mig.</l>
+</lg>
+<lg>
+<l>Og mens vi sat der paa vor knaus,</l>
+<l>saa jeg med ett, din kind var vaat</l>
+<l>og at du var saa fjern og taus.</l>
+<l>Jeg spurte angst for hvad du graat.</l>
+<l>Du stirret paa den kveldsgraa hei,</l>
+<l>og hvisket lavt: Jeg graat for dig.</l>
+</lg>
+<lg>
+<l>Din sorg blev kysset god igjen,</l>
+<l>for hjertet mitt maa glemme fort . . . .</l>
+<l>Men svandt der mer end sorgen hen?</l>
+<l>Kan kj&#x00E6;rlighet bli kysset bort?</l>
+<l>Jeg kysset dig og kysset dig</l>
+<l>og glemte at du graat for mig.</l>
+</lg>
+<lg>
+<l>Men jeg som siden da har ledd</l>
+<l>og glemt hver dr&#x00F8;m jeg har bedratt,</l>
+<l>jeg staar iaften hvit og r&#x00E6;d</l>
+<l>i gufset fra en stormsvart natt,</l>
+<l>og alt er tapt, hvert lys, hver vei,</l>
+<l>fordi du engang graat for mig.</l>
+</lg>
+</div>
+<div type="chapter" n="2_9">
+<head><ref type="contents" target="contents_2_9" xml:id="chapter_2_9">Graagj&#x00E6;s</ref></head>
+<lg>
+<l>Der bakser en graagaas langs skogen hen</l>
+<l>og pl&#x00F8;ier saa mange mile.</l>
+<l>Naar den tilslut skal hvile,</l>
+<l>flyr den tilbake igjen.</l>
+</lg>
+<lg>
+<l>Der hungrer og t&#x00F8;rster en fattig sj&#x00E6;l</l>
+<l>efter det elskede hjerte.</l>
+<l>Da det blev hans i smerte,</l>
+<l>slo han det straks ihjel.</l>
+</lg>
+</div>
+</div>
+<div type="part" n="3">
+<head><ref type="contents" target="contents_3" xml:id="part_3">III</ref></head>
+<div type="chapter" n="3_1">
+<head><ref type="contents" target="contents_3_1" xml:id="chapter_3_1">Kapellet i Wadham College</ref></head>
+<p><hi rend="italic">Oxford.</hi></p>
+<lg>
+<l>Orgelet bruser i smerte, og alle de unge viljer</l>
+<l>b&#x00F8;ies i angst og &#x00F8;mhet dit hen hvor vi intet vet.</l>
+<l>Lysene flakker i m&#x00F8;rket som kuldskj&#x00E6;re paaskeliljer,</l>
+<l>der stiger en salme mot taket om Gud som er kj&#x00E6;rlighet.</l>
+</lg>
+<lg>
+<l>Saa synker den storm av Herren ned fra en blekr&#x00F8;d stjerne,</l>
+<l>men endnu ruller en br&#x00E6;nding av orgelets skj&#x00F8;nne brus,</l>
+<l>og presten l&#x00F8;fter sin stemme til ord som er hvite og fjerne:</l>
+<l>&#x00AB;O, mindes alle de d&#x00F8;de, de faldne av dette hus&#x00BB; . . .</l>
+</lg>
+<lg>
+<l>En endel&#x00F8;s sorg av navne, viet til blod og taarer,</l>
+<l>unge smilende navne h&#x00F8;rer vi gjennem hans r&#x00F8;st,</l>
+<l>venner som lo paa elven i slit med lyseblaa aarer,</l>
+<l>mens poplene skjalv langs Cherwell op i den h&#x00F8;ie h&#x00F8;st!</l>
+</lg>
+<lg>
+<l>Jern og r&#x00E6;dsler og kulde i &#x00F8;rkesl&#x00F8;shet og krampe,</l>
+<l>det var den skj&#x00F8;nne ungdom dere blev git tildel.</l>
+<l>Saa hven det av bly i luften, og kroppen ravet i krampe,</l>
+<l>et lik som raatnet, men sj&#x00E6;len? venner, hvor gik deres sj&#x00E6;l?</l>
+</lg>
+<lg>
+<l>Jeg husker en bror av dere, som bar den dr&#x00F8;m i sit hjerte:</l>
+<l>at faa sig en r&#x00F8;k en aften over en hvitmalt grind . . .</l>
+<l><hi rend="italic">Han</hi> kom hjem til sin l&#x00E6;ngsel, men altid f&#x00F8;lte han smerte:</l>
+<l>at dere ikke fik staa der, en sommerkveld lun og lind.</l>
+</lg>
+<lg>
+<l>Men Gud som er kj&#x00E6;rligheten og gav ham hans dr&#x00F8;m i eie,</l>
+<l>husker vel ogsaa dere, br&#x00F8;dre av savn og n&#x00F8;d.</l>
+<l>Han streifer omkring i blaaet paa stjernenes hvite veie</l>
+<l>og ser at enhver faar leve; saa er det tid for d&#x00F8;d.</l>
+</lg>
+<lg>
+<l>Vi kn&#x00E6;ler i orgelbruset for d&#x00F8;de, ukjendte venner,</l>
+<l>hvis unge forpinte sj&#x00E6;le sank ned i den store ro.</l>
+<l>Er de i live bak d&#x00F8;den, i land som vi ikke kjender?</l>
+<l>Min Gud, hvis min tro kan hj&#x00E6;lpe, da skal mit hjerte tro.</l>
+</lg>
+<lg>
+<l rend="indent_2">Slik er min b&#x00F8;n</l>
+<l rend="indent_2">om den evighet</l>
+<l rend="indent_2">saa dyp og skj&#x00F8;n</l>
+<l rend="indent_2">som mit hjerte vet:</l>
+</lg>
+<lg>
+<l rend="indent_2">den fred som er</l>
+<l rend="indent_2">over al forstand,</l>
+<l rend="indent_2">blandt blide tr&#x00E6;r</l>
+<l rend="indent_2">i et aftenland,</l>
+</lg>
+<lg>
+<l rend="indent_2">med st&#x00E6;refl&#x00F8;it</l>
+<l rend="indent_2">over kl&#x00F8;verduft</l>
+<l rend="indent_2">og stjerner h&#x00F8;it</l>
+<l rend="indent_2">i den disblaa luft,</l>
+</lg>
+<lg>
+<l rend="indent_2">og hjertet mildt</l>
+<l rend="indent_2">av den pris og takk</l>
+<l rend="indent_2">som stiger stilt</l>
+<l rend="indent_2">fra en kj&#x00E6;r tobak,</l>
+</lg>
+<lg>
+<l rend="indent_2">og Gud er med</l>
+<l rend="indent_2">i det lette spind,</l>
+<l rend="indent_2">og Gud er fred</l>
+<l rend="indent_2">ved en hvitmalt grind.</l>
+</lg>
+</div>
+<div type="chapter" n="3_2">
+<head><ref type="contents" target="contents_3_2" xml:id="chapter_3_2">Kvinden, d&#x00F8;den og Jehova</ref></head>
+<lg>
+<l>Den siste granat slaar fra himlen ned,</l>
+<l>det raller i endnu en strupe.</l>
+<l>Likene skjules, og det er fred</l>
+<l>for dem som blev spart for at stupe.</l>
+<l rend="indent_1">&#x2013; &#x2013; &#x2013;</l>
+</lg>
+<lg>
+<l>Saa blaaner en kveld i en gr&#x00F8;nsket egn</l>
+<l>ved hjemmets skaanede kyster.</l>
+<l>Markene dier den varme regn</l>
+<l>fra tusen usynlige bryster.</l>
+</lg>
+<lg>
+<l>Der driver en ange av muld og sj&#x00F8;</l>
+<l>i mainattens bl&#x00F8;te vinde.</l>
+<l>Langsmed den groende, gr&#x00F8;nne b&#x00F8;</l>
+<l>gaar der en mand og kvinde.</l>
+</lg>
+<lg>
+<l>Og kvinden hvisker: Min egen gutt,</l>
+<l>mit eget deilige hjerte,</l>
+<l>jeg kan ikke fatte at den er slutt,</l>
+<l>den evig nagende smerte.</l>
+</lg>
+<lg>
+<l>De lange angstfulde aar av savn,</l>
+<l>med l&#x00E6;ngslene, unge og &#x00F8;mme . . . .</l>
+<l>Saa haabl&#x00F8;st skalv i min tomme favn</l>
+<l>de moderlig kj&#x00E6;re dr&#x00F8;mme!</l>
+</lg>
+<lg>
+<l>Jeg skapte det dog i de lange aar,</l>
+<l>vort uf&#x00F8;dte barn, du kj&#x00E6;re,</l>
+<l>den deilige gutt, som snart skal bli vor,</l>
+<l>jeg vet hvordan han skal v&#x00E6;re!</l>
+</lg>
+<lg>
+<l>Da svarte manden: Jeg tror som du,</l>
+<l>det er en s&#x00F8;n du skal f&#x00F8;de.</l>
+<l>Vort land blev sykt under krigens gru,</l>
+<l>elendig, beskj&#x00E6;mmet og &#x00F8;de.</l>
+</lg>
+<lg>
+<l>Men opgj&#x00F8;rets dag vil komme igjen,</l>
+<l>om de eller vi skal leve.</l>
+<l>Da tr&#x00E6;nger vi tusener unge m&#x00E6;nd</l>
+<l>til jern i vor pansrede n&#x00E6;ve.</l>
+</lg>
+<lg>
+<l>Min egen ven — vi skal begge be</l>
+<l>med br&#x00E6;ndende fromme b&#x00F8;nner</l>
+<l>om at Gud Herren i miskund vil se</l>
+<l>og gi os en rad av s&#x00F8;nner.</l>
+</lg>
+<lg>
+<l>Men kvindens l&#x00E6;ngtende modertr&#x00E6;k</l>
+<l>sluknet med ett i jammer.</l>
+<l>Hun svarte ikke, hun stirret v&#x00E6;k.</l>
+<l>Saa gik de ind til sit kammer.</l>
+</lg>
+<lg>
+<l>Men kvinden n&#x00F8;lte at blusse op,</l>
+<l>hun laa i en ordl&#x00F8;s vaande,</l>
+<l>det var som der g&#x00F8;s langs den unge krop</l>
+<l>en isnen av d&#x00F8;dens aande.</l>
+</lg>
+<lg>
+<l>Det visnet i avsky det higende bryst</l>
+<l>ved grep av knoklede h&#x00E6;nder,</l>
+<l>og favnen som b&#x00E6;vet av l&#x00E6;ngsel og lyst</l>
+<l>blev lammet av d&#x00F8;dningel&#x00E6;nder.</l>
+</lg>
+<lg>
+<l>Til <hi rend="italic">det</hi> var den ment, den uf&#x00F8;dte skatt,</l>
+<l>til hatets og hevnens kvaler.</l>
+<l>Og gjennem den st&#x00F8;nnende, bitre natt</l>
+<l>vet hun at d&#x00F8;den taler:</l>
+</lg>
+<lg>
+<l>&#x00AB;<hi rend="italic">Jeg</hi> ligger med i din elskovsseng,</l>
+<l>ti d&#x00F8;dens barn skal du avle.</l>
+<l>Min ljaa skal kutte den fine streng</l>
+<l>fra dig og til barnets navle.</l>
+</lg>
+<lg>
+<l><hi rend="italic">Jeg</hi> str&#x00F8;mmer med i det sp&#x00E6;de blod</l>
+<l>som pulser i ungens aarer.</l>
+<l>Hvad nytter det saa om din gutt blir god</l>
+<l>eller sin mor til taarer?</l>
+</lg>
+<lg>
+<l>Alt du har haapet og elsket og dr&#x00F8;mt</l>
+<l>blir en av de tusen d&#x00F8;de.</l>
+<l>Du l&#x00E6;ngtende daare, dit barn er d&#x00F8;mt.</l>
+<l>Et voksent lik skal du f&#x00F8;de!&#x00BB;</l>
+</lg>
+<lg>
+<l>Da vred hun sig bort som en d&#x00F8;dspint aal,</l>
+<l>og h&#x00E6;st med et hundyrs snerren</l>
+<l>reiste hun sig og skrek: Gi taal!</l>
+<l>Jeg ber jo en b&#x00F8;n til Herren.</l>
+</lg>
+<lg>
+<l>Jeg ber ikke l&#x00E6;nger til Jesus Krist</l>
+<l>med nagleborede vunder.</l>
+<l>To tusen aar er saa lang en frist.</l>
+<l>Hvad gavnet det hele under?</l>
+</lg>
+<lg>
+<l>Jeg ber til Jehova, for hevnen er din</l>
+<l>og du er en Gud av vrede.</l>
+<l>Tramp mellem stjerner, d&#x00F8;v, stum og blind</l>
+<l>mot menskenes &#x00F8;glerede.</l>
+</lg>
+<lg>
+<l>La rummets orkan gaa kvass som en kniv,</l>
+<l>og slukke dig jord, som en kjerte,</l>
+<l>for da vil det deilige liv av mit liv</l>
+<l>slukne under mit hjerte.</l>
+</lg>
+</div>
+</div>
+<div type="part" n="4">
+<head><ref type="contents" target="contents_4" xml:id="chapter_4">IV</ref></head>
+<div type="chapter" n="4_1">
+<head><ref type="contents" target="contents_4_1" xml:id="chapter_4_1">Vestlandsregn</ref></head>
+<lg>
+<l>Raatnende tangplanter gaar i mit blod,</l>
+<l>svaiende d&#x00F8;sig i ebbe og flod,</l>
+<l>en jodfarvet klase, som bitter og syk</l>
+<l>mudrer mit blod hvor det f&#x00F8;r gik i stryk!</l>
+</lg>
+<lg>
+<l>Og ind imot vinduet knuger sig n&#x00E6;r</l>
+<l>en bugnende banke av graadige tr&#x00E6;r,</l>
+<l>tungt svulmer de paa og kr&#x00E6;ver sin plass,</l>
+<l>som lem&#x00E6;n av l&#x00F8;v i min hjernes morass!</l>
+</lg>
+<lg>
+<l>Et landskap av older og tang er min sj&#x00E6;l!</l>
+<l>Og brudden av gikt pines dagen ihjel.</l>
+<l>Men under de drivende blodlegmers lik</l>
+<l>st&#x00F8;nner en b&#x00F8;n, st&#x00F8;nner et skrik:</l>
+</lg>
+<lg>
+<l>Giv mig en mund at m&#x00F8;te,</l>
+<l>hvis tunges spillende orm</l>
+<l>gaar i mit blod som et rasende gys</l>
+<l>av elskovens tropestorm!</l>
+</lg>
+<lg>
+<l>Giv mig en dom til d&#x00F8;den</l>
+<l>en mur som jeg klamrer mig til,</l>
+<l>og siktende paa mig en stum peleton &#x2013;</l>
+<l>hvad n&#x00F8;ler I efter? Giv ild!</l>
+</lg>
+</div>
+<div type="chapter" n="4_2">
+<head><ref type="contents" target="contents_4_2" xml:id="chapter_4_2">Hotelrum i Oslo</ref></head>
+<lg>
+<l>Her sitter jeg paa sengen i et fremmed, koldt hotel,</l>
+<l>og min haand er fuld av l&#x00E6;ngsel mot en anden haand ikveld.</l>
+</lg>
+<lg>
+<l>Ensomheten slaar fra gaten, aldrig f&#x00F8;r saa bittert ny,</l>
+<l>fottrin, skygger, buelamper, suset fra den m&#x00F8;rke by.</l>
+</lg>
+<lg>
+<l>Der blir menske m&#x00F8;dt av menske, med et rop, et blik, et smil.</l>
+<l>Mellem mig og dem dernede er det tusinde av mil.</l>
+</lg>
+<lg>
+<l>Ja, jeg sitter her saa ensom at det hvisker i mit sind:</l>
+<l>er det sandt jeg <hi rend="italic">nogensinde</hi> holdt en anden haand i min?</l>
+</lg>
+<lg>
+<l>Men blandt alle &#x00F8;de skygger er det som jeg inderst vet:</l>
+<l>aldrig har mit hjerte elsket f&#x00F8;r i denne ensomhet!</l>
+</lg>
+<lg>
+<l>La de andre bare m&#x00F8;tes, la dem gaa forlovet hjem</l>
+<l>til det aftensbord som venter tusen aftener paa dem!</l>
+</lg>
+<lg>
+<l><hi rend="italic">Mine</hi> l&#x00E6;ngsler seiler l&#x00E6;nger, over hav og kveld og gry.</l>
+<l>Jeg beh&#x00F8;ver ingen sporvogn klokken syv til Homansby!</l>
+</lg>
+<lg>
+<l>Men er rikere end disse som hver l&#x00F8;s og ledig stund</l>
+<l>kan faa ta sin elsktes h&#x00E6;nder eller kysse hendes mund.</l>
+</lg>
+</div>
+<div type="chapter" n="4_3">
+<head><ref type="contents" target="contents_4_3" xml:id="chapter_4_3">Oktoberaften paa Karl Johan</ref></head>
+<lg>
+<l>Hjertet blir r&#x00F8;dt og svimmelt, naar skridtene hurtig skraaner</l>
+<l>fra Slotsparkens regngraa taake mot gatens eventyrland.</l>
+<l>De bl&#x00E6;ndende buelamper er hundrede hvite maaner</l>
+<l>som stivnet paa flugt i rummet her over Karl Johan!</l>
+</lg>
+<lg>
+<l>Regnen synker mot gaten, hvor lyset glinser tilbake,</l>
+<l>der stripes en triks lanterner mellem de vaate tr&#x00E6;r.</l>
+<l>Og luende lysbokstaver over de m&#x00F8;rke take</l>
+<l>gynger i tigerrytme mot h&#x00F8;stkveldens silkeskj&#x00E6;r!</l>
+</lg>
+<lg>
+<l>Der rulles i fosforlyset en m&#x00F8;rk og sydende br&#x00E6;nding,</l>
+<l>det evige dragsug av ungdom langs husenes kolde kyst.</l>
+<l>Det er som om luften dirrer av en elektrisk sp&#x00E6;nding,</l>
+<l>av n&#x00F8;lende angstfuld l&#x00E6;ngsel, av spot og forstenet lyst!</l>
+</lg>
+<lg>
+<l>O, her er vor egen gate, hvis n&#x00E6;tter beruser og piner,</l>
+<l>hvor hjertene svirrer mot lyset og br&#x00E6;nder sig i dets ild,</l>
+<l>hvor nervene spiles til d&#x00F8;de og synger som violiner</l>
+<l>i trods og smertelig jubel, fordi vi endnu er til!</l>
+</lg>
+</div>
+<div type="chapter" n="4_4">
+<head><ref type="contents" target="contents_4_4" xml:id="chapter_4_4">Sangernuten</ref></head>
+<lg>
+<l>M&#x00F8;rket tasser over fjeld,</l>
+<l>&#x00F8;det svulmer tungt av gru &#x2013;</l>
+<l>Skrek der &#x00E9;n paa myren nu?</l>
+<l>Mulmet lever, blodet iser!</l>
+<l>I de lodne bakkeheld</l>
+<l>glimter steiner frem og gliser</l>
+<l>som en varg en graadig kveld,</l>
+<l>snerrende mot m&#x00F8;rket selv!</l>
+<l>Raatt gaar gufs i elvefaret.</l>
+<l>Fossen buldrer ned fra skaret</l>
+<l>med en klang av <hi rend="italic">sagn</hi> i r&#x00F8;sten</l>
+<l>som i dr&#x00F8;n fra br&#x00E6;</l>
+<l>og sne</l>
+<l>varsler h&#x00F8;sten!</l>
+</lg>
+<lg>
+<l>Bare Sangernuten staar</l>
+<l>rolig over nattegyset</l>
+<l>som en blond, forundret vaar,</l>
+<l>kysset av det siste lyset!</l>
+</lg>
+<lg>
+<l>Som en dr&#x00F8;m om at forsone!</l>
+</lg>
+<lg>
+<l>Men en fjeldtops blide tone,</l>
+<l>hvad er den mot m&#x00F8;rkets sang?</l>
+</lg>
+<lg>
+<l>Vild gaar elven natten lang.</l>
+</lg>
+<lg>
+<l>Der er istid i dens gang!</l>
+<l>Br&#x00E6;ens haarde, frosne splinter</l>
+<l>males i dens grove fang</l>
+<l>som en l&#x00F8;snet fimbulvinter!</l>
+</lg>
+<lg>
+<l>Stod med samme sang i sind,</l>
+<l>her paa skraaningen kanh&#x00E6;nde,</l>
+<l>ensom yngling, kl&#x00E6;dt i skind,</l>
+<l>slik en &#x00F8;dslig kveld som denne?</l>
+</lg>
+<lg>
+<l>Bort fra hulen, bort fra angsten</l>
+<l>var han styrtet som i blinde.</l>
+<l>For en kveld han kom fra fangsten</l>
+<l>var der ingen mer derinde!</l>
+<l>Noget gustent svarte ikke.</l>
+<l>Noget brustent svarte ikke!</l>
+<l>Og han styrtet ut paa br&#x00E6;en &#x2013;</l>
+<l>var hun kanske der at finde?</l>
+</lg>
+<lg>
+<l>Dager d&#x00E6;mret, dager svandt,</l>
+<l>mens han stavret frem i sneen.</l>
+<l>Storm og sno var alt han fandt!</l>
+</lg>
+<lg>
+<l>Men saa skedde det ikveld:</l>
+<l>braatt han stanset, for et fjeld.</l>
+</lg>
+<lg>
+<l>Dalen aander angst av natt,</l>
+<l>og han graater under gyset.</l>
+<l>Men en fjeldtop staar i lyset,</l>
+<l>ensom, smertelig forlatt!</l>
+<l>Og han kjender som i sang:</l>
+<l>han har sett den f&#x00F8;r engang!</l>
+</lg>
+<lg>
+<l>Noget rent og stilt og &#x00F8;mt,</l>
+<l>som han fordum vist har dr&#x00F8;mt,</l>
+<l>noget fjernt og fint og tyst,</l>
+<l>noget blidt forsagt og l&#x00F8;nlig,</l>
+<l>noget hj&#x00E6;lpel&#x00F8;st og b&#x00F8;nlig</l>
+<l>som en liten pikes bryst . . .</l>
+</lg>
+<lg>
+<l>Noget som han eiet selv</l>
+<l>sittrer om det fjerne fjeld!</l>
+<l>Og med ett han synker ned</l>
+<l>og hans vilde hjerte segner</l>
+<l>i en stum og hellig fred,</l>
+<l>for det blide bjerg som tegner</l>
+<l>sig saa &#x00F8;mt i aftengl&#x00F8;den,</l>
+<l>er en seier over d&#x00F8;den!</l>
+</lg>
+<lg>
+<l>Det er <hi rend="italic">hendes</hi> milde sj&#x00E6;l</l>
+<l>som i fjeldets linjer lever,</l>
+<l>et barmhjertig bud som b&#x00E6;ver</l>
+<l>gjennem taakene fra H&#x00E9;l!</l>
+<l>Dette bjerg, det disblaa kj&#x00E6;rtegn,</l>
+<l>gav hans kvinde ham som j&#x00E6;rtegn!</l>
+<l>&#x2013; &#x2013; &#x2013;</l>
+</lg>
+<lg>
+<l>Slekter kom og gik i grav.</l>
+<l>Mindet svandt lik br&#x00E6; som braaner.</l>
+<l>Men i solens siste rav</l>
+<l>staar et ensomt fjeld og blaaner</l>
+<l>over viddens m&#x00F8;rke hav!</l>
+</lg>
+<lg>
+<l>Og da d&#x00E6;mrer og for os,</l>
+<l>gjennem bitter tvil og trods,</l>
+<l>noget av den samme dr&#x00F8;m,</l>
+<l>evig ung og fin og &#x00F8;m,</l>
+<l>om den blonde, blide kvinde,</l>
+<l>som vi altid s&#x00F8;ker finde!</l>
+</lg>
+</div>
+<div type="chapter" n="4_5">
+<head><ref type="contents" target="contents_4_5" xml:id="chapter_4_5">Natt nedover Tana</ref></head>
+<lg>
+<l>Vandene seiler saa stille</l>
+<l>mellem de gr&#x00F8;nne fjeld.</l>
+<l>Dr&#x00F8;mmene svulmer saa milde</l>
+<l>ut i den tyste kveld.</l>
+</lg>
+<lg>
+<l>Den blide forsagte skj&#x00E6;lven</l>
+<l>gjennem de sp&#x00E6;de tr&#x00E6;r,</l>
+<l>aarenes dyp i elven,</l>
+<l>er alle de ting som sker.</l>
+</lg>
+<lg>
+<l>Et baal mellem sennegr&#x00E6;sset,</l>
+<l>en ensom eventyrild, &#x2013;</l>
+<l>saa driver vor baat bak n&#x00E6;sset,</l>
+<l>og ingenting mer er til.</l>
+</lg>
+<lg>
+<l>Det siste liv er forstummet</l>
+<l>og hjertet vugges til ro.</l>
+<l>Men skj&#x00E6;lvende gaar i rummet</l>
+<l>suset fra Hoangho!</l>
+</lg>
+<lg>
+<l>H&#x00F8;r &#x2013; vandenes moder str&#x00F8;mmer</l>
+<l>med himlens natt i sit skj&#x00F8;d,</l>
+<l>og vandenes moder dr&#x00F8;mmer</l>
+<l>om stjernenes hvite gl&#x00F8;d.</l>
+</lg>
+<lg>
+<l>I haven under pagoden</l>
+<l>vandrer den blomst Sang Li,</l>
+<l>og lytter fortapt til floden</l>
+<l>som skyller sit sus forbi.</l>
+</lg>
+<lg>
+<l>Hun gaar langs de skj&#x00F8;nne strande,</l>
+<l>hvor blomstenes r&#x00F8;de dryss</l>
+<l>m&#x00F8;ter de sorte vande</l>
+<l>og gl&#x00E6;der dem ved sitt kyss.</l>
+</lg>
+<lg>
+<l>Sang Li, lille dr&#x00F8;m, lille pike &#x2013;</l>
+<l>alle smaa hjerters ven</l>
+<l>i kirseb&#x00E6;rblomstenes rike,</l>
+<l>kjender du mig igjen?</l>
+</lg>
+<lg>
+<l>Du glemte ikke de kvelde</l>
+<l>ved bredden av Hoangho,</l>
+<l>naar m&#x00F8;rkets brusende v&#x00E6;lde</l>
+<l>sv&#x00F8;pte sig om os to?</l>
+</lg>
+<lg>
+<l>Dit blik blir saa blankt av gl&#x00E6;de.</l>
+<l>Du sier et ord. Det er sang.</l>
+<l>H&#x00E6;ndene er saa sp&#x00E6;de</l>
+<l>og munden for f&#x00F8;rste gang!</l>
+</lg>
+<lg>
+<l>Og alle de blide r&#x00F8;ster</l>
+<l>av blomster og dugg og sus,</l>
+<l>skj&#x00E6;lver om liljens s&#x00F8;ster</l>
+<l>som et konkyliebrus . . . .</l>
+</lg>
+<lg>
+<l>Mange dage og n&#x00E6;tter,</l>
+<l>tusene tr&#x00E6;tte mil</l>
+<l>av bjerge og hav og sletter</l>
+<l>skilte mig fra dit smil.</l>
+</lg>
+<lg>
+<l>Men l&#x00E6;ngsel og savn og smerte,</l>
+<l>inatt er det alt forbi.</l>
+<l>Gi mig din haand, og mit hjerte</l>
+<l>er i den haand, Sang Li.</l>
+</lg>
+</div>
+<div type="chapter" n="4_6">
+<head><ref type="contents" target="contents_4_6" xml:id="chapter_4_6">Aftensang om vaaren &#x2013; til en liten smaapike</ref></head>
+<lg>
+<l>Det var en deilig, deilig dag,</l>
+<l>men t&#x00E6;nk nu er den over,</l>
+<l>og alle som er riktig snil,</l>
+<l>de ligger nu og sover!</l>
+</lg>
+<lg>
+<l>Og himlen som var bli og blaa</l>
+<l>med mange tusen smil i,</l>
+<l>begynder f&#x00F8;rst at le igjen</l>
+<l>engang imorgen tidlig!</l>
+</lg>
+<lg>
+<l>Og ingen knopper gr&#x00E6;sser mer</l>
+<l>paa himlens solblaa enge,</l>
+<l>de blev saa tr&#x00E6;tte, stakkars smaa,</l>
+<l>nu skal de sove l&#x00E6;nge!</l>
+</lg>
+<lg>
+<l>Og alle hvite s&#x00F8;te lamm,</l>
+<l>de ligger paa en laave,</l>
+<l>og slikker paa en liten bror,</l>
+<l>og hyss, nu skal de sove!</l>
+</lg>
+<lg>
+<l>Og alle stjerner blir saa gla,</l>
+<l>for alle stjerner liker</l>
+<l>en knopp i blund, et lamm i ro,</l>
+<l>og sovende smaa piker!</l>
+</lg>
+</div>
+<div type="chapter" n="4_7">
+<head><ref type="contents" target="contents_4_7" xml:id="chapter_4_7">Suomi</ref></head>
+<lg>
+<l>Et hvin i svarte furutr&#x00E6;r</l>
+<l>og naaler fyker ned som rust!</l>
+<l>Det svulmer av en m&#x00F8;rk august,</l>
+<l>av raaset, regnforpisket veir,</l>
+<l>og angstens tid er n&#x00E6;r.</l>
+<l>Det bruser som en elvebaat,</l>
+<l>som selve natten graat!</l>
+</lg>
+<lg>
+<l>Og det blir sol paa mo og fjeld</l>
+<l>og dagen b&#x00F8;lger som en dis!</l>
+<l>Det er saavidt en dr&#x00F8;m av bris</l>
+<l>faar kruse sj&#x00F8;ens speil mot kveld,</l>
+<l>naar solen er paa held.</l>
+<l>Det hvisker i et bjerkekratt</l>
+<l>en guldblek sammernatt!</l>
+</lg>
+<lg>
+<l>Aa land, de tusen sj&#x00F8;ers land,</l>
+<l>ha takk for lyse n&#x00E6;tters dr&#x00F8;m,</l>
+<l>for elvef&#x00E6;rd i skumhvit str&#x00F8;m,</l>
+<l>og ensom marsj langs blide vand</l>
+<l>mot fjernblaa fjeldes rand,</l>
+<l>men mest for fem minutters sorg</l>
+<l>i Gamla Bj&#x00F8;rneborg . . . .</l>
+</lg>
+<lg>
+<l>Her var det toget gjorde stans,</l>
+<l>og kvelden var saa blank som s&#x00F8;lv,</l>
+<l>og hvem var ikke t&#x00F8;rst paa &#x00F8;ll?</l>
+<l>Vi sprang langs toget som til dans</l>
+<l>i aftensolens glans.</l>
+<l>Men bak den n&#x00E6;rmeste buffet,</l>
+<l>der fik jeg <hi rend="italic">dig</hi> at se!</l>
+</lg>
+<lg>
+<l>Et haar saa gult som korn i h&#x00F8;st,</l>
+<l>to &#x00F8;ine blaa som dugget luft,</l>
+<l>og blusen fuld av blomsterduft!</l>
+</lg>
+<lg>
+<l>Og <hi rend="italic">Eva</hi> nynnet i din r&#x00F8;st</l>
+<l>sin morgensang mot &#x00F8;st &#x2013;</l>
+<l>som sus i skog, som b&#x00E6;k paa sprang,</l>
+<l>det var Suomis sang!</l>
+</lg>
+<lg>
+<l>Og i det samme &#x00F8;ieblik</l>
+<l>saa visste jeg at det var <hi rend="italic">dig</hi>,</l>
+<l>som l&#x00E6;ngslen skjalv om paa min vei,</l>
+<l>den dr&#x00F8;m om kj&#x00E6;rlighet jeg fik,</l>
+<l>min stjerne hvor jeg gik.</l>
+<l>Her stod du ung og s&#x00F8;t og frisk</l>
+<l>og skj&#x00E6;nket bak en disk!</l>
+</lg>
+<lg>
+<l>Hvad hj&#x00E6;lper det at nu jeg vet</l>
+<l>den ene ting jeg burde gjort:</l>
+<l>at ha kn&#x00E6;lt ned og tat dig bort</l>
+<l>fra stedet hvor du stod og slet,</l>
+<l>mit liv, min kj&#x00E6;rlighet!</l>
+<l>Aa, vi skal straffes til vi d&#x00F8;r</l>
+<l>for alt vi <hi rend="italic">ikke</hi> gj&#x00F8;r.</l>
+</lg>
+<lg>
+<l>Da var det som du hvisket: &#x00AB;Bli!</l>
+<l>Min elskte, det er skj&#x00E6;bnens bud!&#x00BB;</l>
+<l>Men stanset jeg? Ak nei, min Gud!</l>
+<l>Jeg vraket alt du vilde gi</l>
+<l>og gik et liv forbi.</l>
+<l>Jeg gav dig i mit siste blik</l>
+<l>et kyss; og toget gik.</l>
+</lg>
+<lg>
+<l>Og mange, mange tog skal gaa</l>
+<l>fra dr&#x00F8;m og haap, det maa vel ske.</l>
+<l>Jeg sitter i en tom kup&#x00E9;</l>
+<l>og ofte maa jeg t&#x00E6;nke paa</l>
+<l>i natten, tr&#x00E6;tt og graa &#x2013;</l>
+<l>en sommernatt, en hjertesorg</l>
+<l>i Gamla Bj&#x00F8;rneborg!</l>
+</lg>
+</div>
+<div type="chapter" n="4_8">
+<head><ref type="contents" target="contents_4_8" xml:id="chapter_4_8">Hjemme igjen</ref></head>
+<lg>
+<l>Hjulene synger mot jernet, altid mot vest, mot vest!</l>
+<l>De brede, uvenlige bygder, h&#x00E6;rdet av kulden og sneen,</l>
+<l>er glemt i det svulmende m&#x00F8;rke som suser ind i kup&#x00E9;en &#x2013;</l>
+<l>Vestlandets eget m&#x00F8;rke av regnveir og muld og bl&#x00E6;st!</l>
+<l>Lysene ute i natten smiler som gamle venner,</l>
+<l>og luften er fyldt av r&#x00F8;ster hvis hemmeligheter jeg kjender.</l>
+</lg>
+<lg>
+<l>Saa staar jeg igjen paa perronen, fortapt i de dunkle lyd,</l>
+<l>som gror overalt omkring mig: elvenes bl&#x00F8;te toner,</l>
+<l>mennesker nede paa veien, syngende furukroner,</l>
+<l>og luft som gir muld at die i b&#x00E6;vende moderfryd.</l>
+<l>Og nattens venlige susen blir til min barndoms stemme:</l>
+<l>Her er dit sted paa jorden. Lyt til min sang. Du er hjemme!</l>
+</lg>
+<lg>
+<l rend="indent_1">O, vandring op imot grinden</l>
+<l rend="indent_1">langs verdens eneste vei.</l>
+<l rend="indent_1">Jeg smiler mot nattevinden</l>
+<l rend="indent_1">som hvisker: Jeg husker dig.</l>
+</lg>
+<lg>
+<l rend="indent_1">Birken deroppe og huset,</l>
+<l rend="indent_1">to elskende kind mot kind,</l>
+<l rend="indent_1">nikker i vestensuset:</l>
+<l rend="indent_1">Vor s&#x00F8;n, han er din og min.</l>
+</lg>
+<lg>
+<l rend="indent_1">Og hjertet begynder at vandre</l>
+<l rend="indent_1">avsted med den vaate natt,</l>
+<l rend="indent_1">en bl&#x00F8;t akkord blandt de andre,</l>
+<l rend="indent_1">et sus gjennem muld og kratt.</l>
+</lg>
+</div>
+</div>
+</body>
+</text>
+</TEI>

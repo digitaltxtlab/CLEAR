@@ -1,0 +1,960 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://www.nslnorge.no/tekster/NSL_texts.xsl"?>
+<!DOCTYPE TEI PUBLIC "-// NSL Norge //EN" "http://www.nslnorge.no/tekster/NSL_tei_xinclude.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="BS_Sivle_Sogor">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Per Sivle: <hi rend="italic">Sogor</hi> (1890). Teksten i bokselskap.no f&#x00F8;lger annenutgaven fra 1890 og er basert p&#x00E5; skannet og ocr-lest txt-fil mottatt fra NB/bokhylla.no.</title>
+</titleStmt>
+<publicationStmt><p>Publiseres som digital tekst av bokselskap.no.</p></publicationStmt>
+<sourceDesc>
+<p>digibok_2008040204067.txt (mottatt fra NB/bokhylla.no mars 2011).</p>
+</sourceDesc>
+</fileDesc>
+<revisionDesc>
+<change xml:id="ENW" who="ENW" when="2011-03-21">Kodet om filen til bokselskap-xml.</change>
+</revisionDesc>
+</teiHeader>
+<text xml:id="BS_Sivle_Sogor_tekst" type="shortStories">
+<front>
+<titlePage type="main">
+<docTitle>
+<titlePart type="main">Sogor</titlePart>
+<titlePart type="sub">Ein bundel <lb/>fortald av</titlePart>
+</docTitle>
+<byline><docAuthor>Per Sivle</docAuthor></byline>
+<docDate>1890<note type="footnote">Teksten i bokselskap.no f&#x00F8;lger annenutgaven fra 1890 og er basert p&#x00E5; skannet og ocr-lest txt-fil mottatt fra NB/bokhylla.no.</note></docDate>
+</titlePage>
+<div type="chapter" subtype="illustration">
+<figure><graphic url="PerSivle.jpg"/></figure>
+</div>
+<div xml:id="contents">
+<list type="contents_main">
+<item><ref target="chapter_1" xml:id="contents_1">Ein Triskiling</ref></item>
+<item><ref target="chapter_2" xml:id="contents_2">Berre ein Hund</ref></item>
+<item><ref target="chapter_3" xml:id="contents_3">Fanta-Nils</ref></item>
+<item><ref target="chapter_4" xml:id="contents_4">Heimad&#x00F8;ypt</ref></item>
+<item><ref target="chapter_5" xml:id="contents_5">Hjelpelaus</ref></item>
+</list>
+</div>
+</front>
+<body>
+<div type="chapter" n="1">
+<head><ref type="contents" target="contents_1" xml:id="chapter_1">EIN TRISKILING.</ref></head>
+<div type="chapter" subtype="uchapter">
+<head><pb n="9"/>I.</head>
+<p>Soga, som eg no vil fortelja, kjem til krinsa um ein Triskiling. Men skulde nokon finna, at Soga vert for lang etter ein Krins so vesal, so f&#x00E6;r han hugsa, at um Triskilingen var liten, so var han daa rund; og i slik ei Runda kann snaapaste Foten springa lenge, fyrr han stend skorfast.</p>
+<p>&#x2013; Paa Lag ein halv Fjordungs Veg fraa Heimen min ligg det ein Gard, dei kallar Vindheim, der det heve voret Skjusskifte mange Mannaminne nedigjenom. Garden er vidgjeten nog, skulde eg tru &#x2013; som no inkje Under er; for Utsyn so villt og stort som <emph>der</emph> kann snaudt nog annan Bustad i Norge bjoda Maken til. &#x2013; Dei hev bygt eit stort, grust Hotel der, no &#x2013; uppe paa Haugen, der Potet- Aakren hennar Lars-Brita laag i gamle Dagar.</p>
+<p>Det er &#x2013; lat meg sjaa &#x2013; tjugo Aar sidan; <pb n="10"/>for no er eg nio og tjugo, og den Tid var eg berre godt og v&#x00E6;l dei nio.</p>
+<p>So var det daa ein Dagen fram paa Sumaren &#x2013; eg hugsar ikkje Tidi n&#x00E6;mare, og det kann no og vera det sama. Visst er det, det var blenkjande Solskin, steikjande heitt i Vedret og so turrt i Vegen, at den graabruna Dumba stod h&#x00F8;gt etter kvar Kjerra, som k&#x00F8;yrde.</p>
+<p>Burte paa Vindheim hadde Folk det annsamt, den Dagen. Jau, for det var komet eit heilt Fylgje med Storfantar og Fentor &#x2013; kvar dei no var ifraa &#x2013;, som skulde hava fjore, fem Hestar og Kjerror i Skjuss. &#x2013; Og der foor dei og flaug, alle desse, taut og buldrad og skreik, so der snaudt nog til Manna-Maal var h&#x00F8;yrande, dragsad og drog paa Kistor og Byltar og alt det som til kunde vera. Han gamle Ola Vindheim sprang med sine krokutte Kne i sylvspenda Skinnbroki kring millom dei, greidde og retleidde alt han vann. &#x2013; Medan dei tvo einaste, som i denna kavande Mylska enno saag ut til kunna taka Verdi nokoleine med Tol, var Grannaguten og Jameldringen min, han Sjur-Ola, og so eg sj&#x00F8;lv; og eg heiter no Per, eg.</p>
+<p>Eg var lett um Hjartat og lett paa Foten den Tid, &#x2013; som inkje Under var; eg hadde inkjevetta syta fyre, og daa Skjorta og den vesla Skinn<pb n="11"/>broki med Boti paa h&#x00F8;gre Kneet var alle dei Ploggi, eg paa Kroppen hadde, skulde det just ikkje tyngja so stort, det heldr.</p>
+<p>Han Sjur-Ola er no longo faren til Amerika, han, ja. Han var ikkje meir en attan Aar, dengong han gifte seg og strauk av Garde. Vaarherre maa vita, um han enno liver og hugsar meg. &#x2013; Han var den beste Venen min i denna Verdi. So gode Vener var me endaa til, at alt det me hadde aatte me i Hop, var tvo um det. Og eg skal tru, det var ikkje so reint lite me aatte, heldr; uppe i Urdi rudde me oss den eine glupe Garden etter den andre, og Hus og Hyttor bygde og grov me oss baade her og der burtetter. Kyr og Geitr dreiv me Drift etter Drift heim av fraa Elvagranden, der det var N&#x00F8;gdi av fine Kusle-Steinar; og Hestar stod me heldr ikkje i Beit for &#x2013; me spikkad dei sj&#x00F8;lve, dei. &#x2013; Dei eldre Gutarne, vissa han Salamon R&#x00F8;ysi, hadde titt og traatt freistat gjera Ugreida millom oss, so me kunde koma til slaast; men jamen vart det liti Lika for Umaken, dei <emph>der</emph> fekk! At me tvo kunde vera anna en gode Bussar, det sveiv oss visst aldri korgje.</p>
+<p>&#x2013; No ja, som me daa stend der med Handi i Broklumma og bisnar burte i Tunet paa Vindheim han Sjur-Ola og eg, der veit me kje Ordet <pb n="12"/>av, fyrr det kjem ei Stormannsgjenta trippande beint bust innpaa og gjev seg til prata. Eg minnes henne enno so ljos livande; ung var ho, og bleik var ho, smal um Midja, som du skulde seet ein Kvefs, og so med eit heilt R&#x00F8;yve av svart krullut Haar kring Hovudet.</p>
+<p>Men inkje Ordet til Svar fekk ho, og det av den gode Grunnen, at me inkje forstod eit einaste Mukket, ho sa. Han Ola saag paa <emph>meg</emph>, og <emph>eg</emph> saag paa <emph>honom</emph>; so stakk <emph>eg</emph> Sleikjefingren i Munnen, og so gjorde han det sama; og der stod me.</p>
+<p>Det kann no endaa raaka den skripnaste, det, aa kjenna seg klumsad, naar han stend framfyre ei ung v&#x00E6;n Jenta; og visst er det, eg ofta sidan paa mi Livsferd, naar Tilh&#x00F8;vet var det sama, heelt paa fara plent likeins aat.</p>
+<p>Nei, kor ho daa log! &#x2013; og fina, kvite Tennr hadde ho, det saag eg &#x2013;. Tok ho so til svalla paa nytt Lag, peikad og gjorde Minor, alt det ho berre vann hitta paa. Og so skynad me daa seint um sidan, at det nog var Meiningi, me skulde stad leita uppattr eitkvart, ho maatte hava misst paa Vegen uppyver. &#x2013; Jau, det var me viljuge til paa Timen. Og bortetter lagde me, so Dumba rauk um dei berre, solbrende Leggjerne vaare.</p>
+<p>Lika ved Vindheim svingar Postvegen kring <pb n="13"/>ein stor, rund Haug, medan ein Snarveg sting tvert yver. Dit fram var me komne, daa me h&#x00F8;yrde, det ropad attum oss:&#x00BB;Benveien! Benveien!&#x00BB;</p>
+<p>Benveien? &#x2013; kva var <emph>det</emph> for noko?</p>
+<p>Jau, det maatte vel vera det sama som&#x00BB;beine Vegen&#x00BB;, det, meinte han Sjur-Ola, og tok Foten fat aa nyo.</p>
+<p>Men kor det so bar til, anten no eg var litevetta meir maal-gl&#x00F8;gg, eldr ein Ande kviskrad meg noko i &#x00D8;yrat, nog er det, Augneblinken etter foor eg kilande Snarvegen upp. Og der, &#x00F8;vst paa Haugen, kom eg frampaa ein fin Klut eldr noko sovoret, som eg strakst skynad var <emph>det</emph>, eg skulde hava Tak i.</p>
+<p>Den, som vart fegen, var eg!</p>
+<p>So attende i tanande Spranget.</p>
+<p>Gjenta, ho vart no so blid som ei Sm&#x00F8;r&#x00F8;skja, ho, maavita, daa ho fekk Kluten sin attr, klappad den raude runda Kinni mi med den fina, kvita Handi si, og sa, at eg var &#x00AB;en s&#x00F8;d, rask lille Dreng&#x00BB;, &#x2013; det einaste av Pratet hennar eg med Naudi forstod.</p>
+<p>Og so var det daa, at ho i Finningsl&#x00F8;n gav meg <emph>Triskilingen</emph>.</p>
+<p>De maa no inkje tru, det berre var ein slik ein, som Triskilingar var det flestalle. Sj&#x00F8;lv hadde <pb n="14"/>eg aldri i mine Dagar Maken seet, og han gamle Ola Vindheim og S&#x00F8;nerne hans, han Knut og han Jens, sa for <emph>seg</emph> det sama, endaa so mangfelde Skilingar som no <emph>dei</emph> fekk Fat i, av Folk som etter Vegen reiste og rak.</p>
+<p>Eg ser honom endaane den Dagen idag so klaart framfyre meg, slik som han laag der i Handi mi og glimde i Solskinet, so blank, so glitrande blank. Paa den eine Sida stod der ei L&#x00F8;va med ei &#x00D8;ks i Labbo og beint uppyver var der ei Rosa, som dei sagde meg var Kongen si eigi Kruna. Men paa den andra Sida stod der eit stort 3-Tal, som var so framifraa sp&#x00F8;kje laget, at ikkje fyrr var Skilingen snudd halvt rundt, fyrr 3-Talet vart til ein &#x00AB;&#x021D;&#x00BB;, paa Lag Maken til dei, han gamle Lars, Skulemeistaren, skreiv. &#x2013; Det varad lenge, fyrr eg kom etter, at det sama nog leet seg gjera med andre 3-Tal og.</p>
+<p>Jau, her var just Brigde med Mynti i dei Dagar, det seinsta framfyre at me fekk Krunor og &#x00D8;re, og no var det fyrsta Gongi, me der i Bygdi fekk dei nye Sylvskilingarne aa sjaa. Kanhenda var detta fraa fyrstunne av mykje Grunnen til den brennande Elsken, eg lagde paa den Triskilingen.</p>
+<p>&#x2013; No, so kom daa han Sjur-Ola, han og ei Gong, attende. Litevetta flat um Nosi var han, <pb n="15"/>etter di han inkjenoko hadde funnet; men daa han so fekk h&#x00F8;yra og sjaa, kor mykje heppnare <emph>eg</emph> hadde voret, jau, daa vart det Gleda paa Guten.</p>
+<p>Det stakk meg i Hjartat, og eg kjende som ein tung Stein siga meg inn paa Bringa; &#x2013; for eg kunde berre altfor v&#x00E6;l skyna, han trudde det var noko sj&#x00F8;lvsagt noko, at Triskilingen og var med i Sameiga.</p>
+<p>Inkje den Ting paa Guds gr&#x00F8;na Jord tottest eg vita meg, som eg ikkje gjerna var halvt med honom um, &#x2013; naar berre, berre, eg fekk eiga denne eine for meg sj&#x00F8;lv.</p>
+<p>Og endeleg so tok eg, hakkande og stamande, <emph>til</emph>, orda <emph>ut</emph> um, at eg laut hava honom aaleina. Men paa det &#x00D8;yrat vilde ikkje han Sjur-Ola h&#x00F8;yra &#x2013; ikkje so aa forstaa, at me skulde byta <emph>sund</emph> og so skifta, &#x2013; var det likt seg! &#x2013; nei, men me kunde hava honom kvar sin Dag, vel? eldr kvar si Vika? &#x2013; eldr og g&#x00F8;yma honom einkvar Staden, der me baade tvo kunde ganga sjaa honom, so ofta me hadde Hug?</p>
+<p>Eg veit, eg gjorde kva eg kunde, eg, til aa faa honom Ola paa andre Tankar; ei gamal Massingslira og ein avbroten Lummekniv &#x2013; tvo av dei dyraste Eignaluterne vaare &#x2013; baud eg honom hava fritt for <emph>meg</emph>. Men meiner du, det batad, det heldr &#x2013; han stod st&#x00F8;d paa sitt det sama, han.</p>
+<p><pb n="16"/>&#x00AB;Ja, men du veit daa det, vesle Ola, at det var <emph>eg</emph>, som <emph>fekk</emph> honom.&#x00BB; <emph>Fekk</emph> honom? &#x2013; ja, berre han og hadde komet paa dette med den fille &#x00AB;<emph>Benveien</emph>&#x00BB;, kunde altid han voret lika so n&#x00E6;r som eg; so Skilingen var ikkje meir min en hans, meinte han.</p>
+<p>So tok det eine Ordet det andre, daa.</p>
+<p>Og stutt er aa segja, at ein Augneblink etter hende det utrulege: me fauk i Toppen paa kvarandre og slost, so beistende illsinnad som berre dei beste Bussarne kann det, naar fyrsta det bryt laust dei imillom.</p>
+<p>Noko sovoret som ei Lumma fanst inkje paa min synduge Kropp; so eg var trugad lata Munnen g&#x00F8;yma Triskilingen, daa eg skynad, der vart anna Bruk for Nevarne.</p>
+<p>Du, og du, so me nappast! &#x2013; Haarfillorna berre fauk burtetter. Eg f&#x00E6;lar, at han var v&#x00E6;l so evlug, han; men so var eg mykje meir spretten, eg. Best som daa dette stod paa, der var eg eldande snaap setja til slaa Krok; og der laag me baade tvo, han under og eg uppaa. Men fekk han so ikkje Tak med Tennrna i eine Armen min, meiner du, og beit <emph>i</emph>, so det var, som skar det meg tvert igjenom. Eg var lika ved skulde setja i gaula, men hugsad paa, at daa vilde Skilingen strjuka sin Veg med sama. Beit <pb n="17"/>eg so Tennrna i Hop, sette honom Tumalstottarne attum &#x00D8;yro, og klemde til, alt det eg orkad. &#x2013; Og det munad; han sleppte Taket og sette <emph>i</emph> ei forf&#x00E6;lande Beijing. &#x2013; Eg upp og av Garde, og han etter, greet gjorde han, bannad, trugad og grytte Stein; men i Laup var det honom Uraad naa meg.</p>
+<p>Burte i Vindheims -Hagen torde eg endeleg stogga og anda <emph>ut</emph>. Blodet tok smaatt um Senn til kolna, Armen sveid so brennande illt, og eg kjende ei diger Klump veksa fram i Halsen min, naar eg hugsad, at no var eg og han Sjur-Ola ikkje Vener lengr. &#x2013; Men kor som var, Triskilingen hadde eg bergat; og so fekk det andre vera som det kunde.</p>
+<p>Eg kann her med sama segja ifraa, at med honom Sjur-Ola og meg greidde det seg att vonom fyrr; endaa eg f&#x00E6;ler Venskapen vaar etter den Dagen aldrig var so fulltrygg.</p>
+<p>Jau, eg var daa endeleg heima attr. &#x2013; Og der vart Bisning paa Skilingen, skulde eg tru! <emph>Taka</emph> i honom var det med Naudi nokon fekk; men synte honom fram, gjorde eg, snudde og vende honom paa alle Leider framfyre Augo deira. &#x2013; Nei, so det var slik, dei nye Pengarne saag ut. &#x2013; Og byrg var <emph>eg</emph>!</p>
+<p>Han Ola, Lausekaren, vilde sittupp k&#x00F8;ypa <pb n="18"/>honom av meg &#x2013; han var no jamt so snak, han, etter alt, som berre der var noko serlage ved. Fyrst baud han meg tvo Skiling, Gnikaren! so tri, og sidan endaa fjore. Men eg er viss paa, eg vilde have sputtat etter Handel, um han so hadde bodet meg alle dei svarte Koparpengarne, han g&#x00F8;ymde i den store Laaspungen sin.</p>
+</div>
+<div type="chapter" subtype="uchapter">
+<head>II.</head>
+<p>Den Sumaren skulde Bispen koma halda Visntas der i Prestegjeldet. Og daa skulde der m&#x00F8;tast paa Kyrkjegolvet og gjerast Greida for kva baade Skulemeistarar og Born kunde.</p>
+<p>So ei Stund etter eg var heimattkomen, den Dagen, der kjem han gamle Lars, Skulemeistaren, stigande inn i Stova, med vesla raudmaala Skrinet sitt i eina Handi. &#x2013; For me skulde hava Skule ei Vikes Tid til aa friska uppattr, fyrr Bispen kom. &#x2013; Skulen var paa Umgang den Tid endaane, og no skulde han haldast der i Huset hjaa oss.</p>
+<p>&#x2013; Han gamle Lars, Skulemeistaren, ja! &#x2013; eg lyt fortelja litevetta um honom. Det var mykje til Kar, det. Sine gode tri Alner h&#x00F8;g var han, endaa han longo var yver dei sjautti Aari. Han var heldr tunn og skrinn av Vokstr, hadde eit reinskoret Andlit, der tvo utifraa klaare og milde <pb n="19"/>Augo lyste upp framigjenom dei store, runde, sylvgjerde Brilleglosi; og make til R&#x00F8;yst som hans, so traust og blid og god samstundes, hev eg enno snaudt nog h&#x00F8;yrt. &#x2013; Ei serlaga Gaava hadde han til aa taka Livet med Tol, baade i Sorg og Gleda. Men so var det daa heldr inkje korkje Vitet elder L&#x00E6;rdomen, som vantad, trur eg! Dei vilde vite, han kunde Bibelen utanbok fraa Perm til Perm; &#x2013; so inkje Presten sj&#x00F8;lv jamvel turvte koma <emph>der</emph> k&#x00F8;ypa Saapa! &#x2013; Han vilde gjerna supa litevetta, naar det raakad vera Tilh&#x00F8;ve; men fyrsta han fekk noko i Hovudet, vart han no so makelaust lentug, daa, at han fekk det til vera berre Moro og L&#x00F8;gje alt i Hop. &#x2013; Det var gode halvhundrad Aar, no, sidan han tok til vera Skulemeistar og Klokkar; so flestalle der i Bygdi hadde voret Skuleborni hans. Og heelt utav honom gjorde dei, kvar han kom; det vart H&#x00F8;gtid i Huset, naar han gamle Lars, Skulemeistaren, synte seg i Dyri.</p>
+<p>Eg, for meg, var no so reint framifraa gode Venen hans, eg. Naar Skulen var heime hjaa oss, var det kje Raad for anna, en at me skulde liggja i sama Seng um Notti, me tvo. Og so forviten og snak etter alt han kunde fortelja var eg, at endaa so svevnkj&#x00E6;r eg var elles um Kveldo, kunde eg liggja ljos vaken lyda <emph>etter</emph> til langt <pb n="20"/>frampaa, naar han laag r&#x00F8;ykte paa Pipa si og svallad og svallad. Og inkje min eigen Far jamvel hadde eg so hugheil ei Tru til som til honom Lars.</p>
+<p>&#x2013; Ja, so kom daa Kvelden &#x2013; men sam stundes og ei ny M&#x00F8;da; for no stod det um inkje mindr en eit G&#x00F8;ymsle, der eg ottalaust torde lata Triskilingen vera Notti yver.</p>
+<p>Fyrst lagde eg honom i ei liti &#x00D8;skja, som eg sette burt i Kraaskaapet, innanfyre den stora blomemaala Lummeflaska hans Far, &#x2013; daa eg visste, at nokon kvar der i Huset tok seg vara koma n&#x00E6;mare en dei turvte innaat <emph>henne</emph>. &#x2013; Nei, so dugde inkje <emph>det!</emph> &#x2013; Kleiv eg upp paa Kleva-Loftet, sette honom i ei Veggjasprunga innst i myrka Kraai attum Peispipa. Aa nei! &#x2013; det varad inkje lenge, fyrr eg <emph>attr</emph> tok honom til meg. &#x2013; Men eg skynar inkje, kor det bar til, at eg sidan fann paa balla honom v&#x00E6;l inn i ei Filla, som eg so g&#x00F8;ymde i Taai paa ein gamal Sko ute i Gangen. Endaa truleg maa eg vel hava tenkt, at seinast vilde nokon finna paa leita <emph>der</emph>.</p>
+<p>&#x2013; Jau, so lagde me oss, daa. &#x2013; Skulemeistaren var sakta tr&#x00F8;yt, for han sovnad med sama, han.</p>
+<p>Men for fyrste Gongi i Livet heelt Umsuti for dei Ting, som h&#x00F8;yrer denne Verdi til, Augo <pb n="21"/>mine opne; &#x2013; eg laag tenkte paa Triskilingen. Det rann meg i Minne ein lang, f&#x00E6;l Fant med ein stor Sekk paa Ryggen, som hadde voret der um Dagen, og som nog kunde vera truande til noko av kvart. Kva <emph>han</emph> var god til nasa upp, og kvar <emph>han</emph> no heelt til &#x2013; det maatte Pokkeren vita! &#x2013; So tok Hunden og Katten paa slaast ute i Gangen, og halda eit Syndaleven med alt som der laust laag. &#x2013; Eg stod inkje <emph>i</emph> det lengr, eg laut upp og ut. &#x2013; Skilingen fann eg v&#x00E6;l bergad, der eg hadde lagt honom; men til aa vera heiltupp trygg, tok eg honom med <emph>inn</emph> og under Hovudputa. &#x2013; Og so endeleg sovnad eg.</p>
+<p>&#x2013; Det var langt fram paa Dag, daa eg vaknad Morgonen etter; &#x2013; Skulemeistaren var alt upprisen, han. &#x2013; Fyrste Tanken min gjekk til Triskilingen; &#x2013; og Hovudputa upp. &#x2013; &#x2013; &#x2013; Kva? &#x2013; &#x2013; &#x2013; kvaslag? &#x2013; &#x2013; &#x2013; han var der inkje?! Eg kjende som Hjartat mitt stoppad og so hamrad laust attr, som skulde Bringa sprikka, medan kaldt og heitt gjekk i Elingar nedyver meg. &#x2013; Og tru no nokon kann gissa, kva ein Devel so kom mullad meg i &#x00D8;yrat? &#x2013; jau, inkje noko korkje galnare eldr vitugare, en at Skulemeistaren var Tjov.</p>
+<p>Eg skundad meg strakst syna Freistaren Vettravegen; men han var inkje bljug, han kom <emph>attr</emph> <pb n="22"/>han. Fekk han meg so til tr&#x00E6;tta <emph>med</emph> seg, finna fram alle dei Grunnar imot, som eg berre var Kar hitta paa. &#x2013; Men daa varad det heldr inkje lenge, fyrr han heiltupp hadde meg i Lamma si. Det var inkje beda fyr anna, Skulemeistaren laut og laut vera Tjoven. &#x2013; For &#x2013; kvar hinn! &#x2013; kunde elles Skilingen vera stadkomen? &#x2013; Og kvifyre var han just idag so tidleg uppe, Gamlingen? &#x2013; han var no inkje van vera Morgonfugl, visste eg. Huhh, so det var grusjelegt! Eg hadde aldri endaane kjent, kor ilt duld Styggetru kann gnaga; og no var det endaa til min eigen kj&#x00E6;re gamle Skulemeistar, som den vonde i L&#x00F8;yndatanken beit seg Tak i.</p>
+<p>&#x2013; Eg var no so ung eg, enno, at eg inkje for den Saki si Skuld turvte m&#x00F8;ta fyre Bispen; men dei hadde skipat det so, at eg likav&#x00E6;l skulde.</p>
+<p>Fram paa Dagen vart det Skule, og det var ute i Nystova.</p>
+<p>Stillvoret og trufast gjorde Skulemeistaren fyrst ei liti B&#x00F8;n; endaa eg totte, han kremtad seg, fyrr han tok til, meir en han var van. So song me eit Salmavers; &#x2013; og eg var kje viss um daa, at han inkje skolv noko undarleg i Maalet.</p>
+<p>Sidan tok me Fat paa Kakisma.</p>
+<p>&#x2013; &#x2013; &#x2013; &#x00AB;Kann du, Sjur Hagen, lesa meg <pb n="23"/>det syvende Bud?&#x00BB; raakad Skulemeistaren til spyrja.</p>
+<p>&#x2013; Det foor igjenom meg, og eg kjende, kor eg raudnad heilt opp i &#x00D8;yro, daa eg endeleg tok meg i Hop saag honom inn i Anlitet. &#x2013; Tru inkje, Samvitet no skulde slaa honom? &#x2013; Nei, der var inkje noko merkjande til <emph>dess</emph>, inkje; dei klaare Augo hans skein meg imote igjenom Brilleglosi so rolege og blidlege som nokosinne. &#x2013; &#x2013;</p>
+<p>&#x2013; Var det Raad, at eg likav&#x00E6;l tok i Miste? &#x2013; aa T&#x00F8;v! &#x2013; for korleine so, etter som heile Tilh&#x00F8;vet var? &#x2013; &#x2013; &#x2013; Men du, aa du, so upplagd og sl&#x00F8;g den Karen maatte vera!</p>
+<p>&#x2013; &#x00AB;Nu, Sjur? &#x2013; nu? &#x2013; &#x2013; Hev du reint gl&#x00F8;ymt din Katikismus, no? &#x2013; &#x2013; &#x2013; Lat h&#x00F8;yra, kanhenda <emph>du</emph>, vesle Per, kunde gjera Skamm av honom, endaa so stor og lang han er.&#x00BB;</p>
+<p>&#x2013; Men det var meg plent Uraad faa so mykkje som eit einaste Mukket fram or Munnen.</p>
+<p>&#x2013; &#x2013; &#x2013; &#x00AB;Det syvende Bud, Per? &#x2013; &#x2013; det syvende Bud? &#x2013; &#x2013; Du &#x2013; &#x2013; skal &#x2013; &#x2013; no daa? &#x2013; &#x2013; du skal&#x00BB; &#x2013;</p>
+<p>&#x00AB;Du skal inkje stela!&#x00BB; braut det utor meg, medan eg tok til bivra yver heile Kroppen.</p>
+<p>&#x2013; &#x00AB;Det var rigtig, ja! &#x2013; Du skal inkje stela! &#x2013; &#x2013; du skal ikke stjele &#x2013; &#x2013; ikke &#x2013; sjele<note type="footnote">feil for <hi rend="italic">stjele</hi>?</note> &#x2013; &#x2013; saadan er det, ja.</p>
+<p><pb n="24"/>&#x2013; &#x2013; &#x2013; Er du kje frisk, vesle Per?&#x00BB; sa han.</p>
+<p>&#x2013; Nei &#x2013; &#x2013; eg &#x2013; &#x2013; hadde litevetta vondt i Hovudet.</p>
+<p>&#x2013; Ja, so skulde eg hava Lov ganga ut, daa. Men meiner du, eg var god til vera lang Stundi ute heldr! Det var som noko drog og drog meg tilbaka; og snart sat eg inne paa Benken attr.</p>
+<p>Eg passad sidan um Dagen trutt paa halda meg der Skulemeistaren var.</p>
+<p>&#x2013; Men kvar kunde han vel &#x2013; gamla Tjonet! hava g&#x00F8;ymt den stolne Skilingen? &#x2013; Det var detta, eg grundad paa.</p>
+<p>Fram ved Middagsleite kom der ein Kramkar reikande. Skulemeistaren k&#x00F8;ypte ein Blyant, han, og den som hadde Augo med seg, daa han tok upp gamle Skinnpungen sin skulde bitala, det var <emph>eg</emph>, det. Men daa han ristad Pengarne ut i Handi si, var det vandelaust sjaa, at der var Triskilingen inkje imillom.</p>
+<p>So burte i Skrinet hans, daa! upp i L&#x00E6;diken! &#x2013; Den som no berre kunde faa Tak i Lykelen!</p>
+<p>&#x2013; Han gjekk allst&#x00F8;dt kl&#x00E6;dd i ein sid, blaa Frakk, gjorde Skolemeistaren, og eg visste fraa fyrr av, han plagad hava den Lykelen i ei liti Baklumma utanpaa eine Flaket; det var endaa Klaff med ein Knapp i nedyver.</p>
+<p><pb n="25"/>Jau, daa han so sat fekk seg Nonsmaten sin, og me tvo var aaleine inne, der vart eg stird, at Frakken hans hekk so framifraa laglega ned attanfyre Benken.</p>
+<p>Det saud meg fyre &#x00D8;yro, det slog Trumbeslag i Brjostet, og eg kjende, som nykkte og stakk det meg i Fingratupparne. &#x2013; Det fekk inkje hjelpa, eg laut freista!</p>
+<p>Gjekk eg der daa attr og fram, sullad og trallad og leest som inkjevetta, krabbad paa Golvet med Leiko mine, &#x2013; til eg smaatt um Senn var komen stad, dit eg vilde. &#x2013; Men jamen kippte eg baade ei og tvo Gonger Handi til meg attr, som hadde eg brent meg paa den Lumma. &#x2013; Endeleg so var daa Knappen l&#x00F8;yst; &#x2013; &#x2013; sakta &#x2013; sakta med tvo Fingrar nedi, &#x2013; &#x2013; &#x2013; og der kjem litle Lykelen upp og er g&#x00F8;ymd i Knytteneven min, &#x2013; utan at Skulemeistaren hadde merkt Dusti. &#x2013; &#x2013; At han daa inkje kunde eigong faa etet <emph>ifraa</emph> seg! &#x2013; nei, aa nei, so eg stundad! Eg talde Bitarne <emph>i</emph> honom, og dei vart mange, og syrgjeleg seint gjekk det. &#x2013; So var han seint og sidar reidug, daa. Men so var det denna fille Pipa! &#x2013; han blees, og han karad <emph>ut</emph>, han karad <emph>ut</emph>, og han blees, so eg trudde, det aldri skulde faa Ende. &#x2013; &#x2013; Eg heelt inkje ut aa sjaa paa lengr, eg skundad meg paa Dyri.</p>
+<p><pb n="26"/>Jau, der kom han ruslande, og tok Vegen burtetter Grindateigen.</p>
+<p>Eg inn, Lykelen fram og i Laasen; skunda meg skulde eg, og skolv gjorde eg, so Handi mi dillad. &#x2013; Men meinar du so, det var Raad faa den Fillelaasen upp! &#x2013; Laag der ein liten Kjepp; den stakk eg inn i Lykelaugat og vreid <emph>til</emph>. &#x00AB;Knakk!&#x00BB; &#x2013; der sat Lykelen fast. &#x2013; No fyrsta vart eg r&#x00E6;dd, so det munad, reiv og sleit i Lykelen gjorde eg, alt det eg evlad; men han sat, som var han skruvad, han. &#x2013; Tig no! &#x2013; der h&#x00F8;yrde eg nokon ute i Gangen; og den som so tok Foten til Vara, det var <emph>eg</emph>.</p>
+<p>Ei Stund etter kom Skulemeistaren tilbaka, hadde &#x00C6;rend ned i Skrinet sitt, &#x2013; og kom sa etter, at Lykelen sat i Laasen, pinnande fast.</p>
+<p>Og der vart eit Leven! det var, som heile Garden kom til staa paa Ende, daa det vart spurt, at nokon hadde voret i Kast med Skulemeistaren sitt Skrin. Dei tok <emph>meg</emph> og fyre seg; &#x2013; eg! var det likt seg! &#x2013; og daa eg aldri var van ljuga, slapp eg med sovoret.</p>
+<p>Slutten vart, at han vesle Jens R&#x00F8;ysi, Son til eine Husmannen vaar, fekk Skuldi. &#x2013; Far hans stod slog paa ein Teig strakst nedan Husi, og han Jens og ho Anne, Syster hans, var jamt vane vera med, dei tvo, naar Foreldri var i Ar<pb n="27"/>beid hjaa <emph>oss</emph>; for der vankad gjerne einkvar Godbiten daa.</p>
+<p>Det hjelpte inkje, alt det vesale Gutungen lagde Skuldi fraa seg og tutad og greet so hjartaleg illt. Ho Kari, Sumarjenta, kunde segja ifraa, ho hadde seet honom ganga lurra for seg sj&#x00F8;lv inne i Huset for ei Stund sidan; &#x2013; og so var det no detta, at han var av Tjovaslag og, maavita. &#x2013; Jau, der kjem Faren sendande; for ho Anna hadde sprunget stad sagt det, ho. &#x2013; Aa du, aa du, for Lyvjing og Gauling! Han hadde sakta sleget Stakkaren reint helselaus, hadde inkje Skulemeistaren lagt seg imillom. &#x00AB;For fyrr vil eg sjaa honom liggja daud paa Flekken framfyre meg, fyrr han skal enda i Graatr&#x00F8;ya, som Morfar hans gjorde!&#x00BB; skreik han.</p>
+<p>Eg kjende ei Pina, der eg stod, so det var, som brann det under Foto mine. Honom vesle Jens, Armingen, &#x2013; eg visste inkje alt det goda, eg vilde gjera honom, no etterpaa; eg stakk til honom Sukkerbitar og Leikor, og freistad tr&#x00F8;ysta honom, alt det eg vann. Men daa han tuslad heimattr, kunde eg endaane lang Veg attende h&#x00F8;yra, kor hjartavondt han hikstad og greet, der han gjekk.</p>
+<p>&#x2013; Medan detta stod paa, var ho Olina, Tenestejenta, inne i Nystova og reidde Sengi upp; <pb n="28"/>jamen laag so Triskilingen der paa Sengjatilet. &#x2013; Glad vart eg, det skal vera visst!</p>
+<p>Men samstundes vart og Samvitet vaket, so det forslog. Eg hadde no elles inkje for Vis vera so beinkasam just; men det var reint umframt, so eg den Kvelden stod paa Naalar fyre gamle Skulemeistaren. Pipa laut han lata meg blaasa ut, stappa og kveikja alt i eitt, so eg paa Seinsten heldt paa brjota meg av al den Tobakssmaken. &#x2013; Og Blekhuset hans &#x2013; ein Ervelut etter gamle Provsten Koren &#x2013; tiggad eg meg Lov til aa reinska. Annsam som eg var, sleppte eg no det ned, so det rauk i Bitar. Men det var daa likav&#x00E6;l altsaman so utifraa v&#x00E6;l meint.</p>
+</div>
+<div type="chapter" subtype="uchapter">
+<head>III.</head>
+<p>Eg kjem <emph>no</emph> i Soga mi til den Bolken um Kj&#x00E6;rleiken; for dessa Kvinnfolki lyt no gjerna vera med i alt her i denna Verdi.</p>
+<p>Jau, det var just paa denna Tidi, at Hugen min fyrsta Gongi stod i Loga for ei Jenta si Skuld.</p>
+<p>Eg kunde gjerna fortelja, at sovoret aldri sidan heve hendt meg; men Folk er no jamt so kloke, dei, maavita, og daa eg f&#x00E6;ler, dei inkje <pb n="29"/>vilde tru meg, kor som er, var det liten Mun, &#x2013; so eg vil heldr lata det vera.</p>
+<p>Eg hev tidt og traadt baade h&#x00F8;yrt og leset, at Kvinna er det glupaste, Skaparen hev lagat, &#x2013; Og detta kann gjerna so vera. &#x2013; Visst er det. at noko so fint og i alle Luter framifraa som ho vesla Eli Lunde kunde <emph>eg</emph> inkje fyre Augo mine sjaa den Gongi. Ho var paa Lag eit Aar yngre, ho, en eg, og det var i Skulen Vetteren framfyreaat, at ho fekk so fast eit Feste i Hjartat mitt.</p>
+<p>Eg hugsar henne vissa, som ho ein Morgon, ho og Systeri, kom inn i Skulestova. Kaldt i Vedret var det, og innefuggad var ho, so snaudt nog Nasatippen var sjaaande. Men daa ho so fekk l&#x00F8;yst av seg den store, graarututte Hovudduken og stod der blenkjande med sitt sim&#x00F8;rgula Haar, rundlagd og raud i Kjako som eit Eple, lumsig og god, men endaa so sprettande hortig, i gula Skinntr&#x00F8;ya si med kvite Ullfalden nedantil, og med stutte, blaae Stakken sprikjande kring Leggjerne, som i h&#x00F8;graude Sokkar stakk upp or dei tvo Halvstyvlarne, &#x2013; ja, daa var eg seld med sama! Fraa den Stundi stod det naglfast i Hugen min, at <emph>ho</emph> og ingi onnor skulde vera Jenta mi.</p>
+<p>Eg kunde kje anna, eg laut hava ein fortelja det til; og det sagde seg daa sj&#x00F8;lv, at det vart han Sjur-Ola.</p>
+<p><pb n="30"/>&#x00AB;Ja, so kunde <emph>eg</emph> taka henne Aasa, eg,&#x00BB; sa han; &#x2013; det var Systeri det.</p>
+<p>Jau, det maatte han meir en gjerna; og me tvo Svograrne gav daa kvarandre Handi paa detta, aalvorslegt og st&#x00F8;dlega, som dei vaksnaste Karar.</p>
+<p>Eg hadde H&#x00F8;gtid, eg, naar eg kunde vera der ho Eli var; det vart som Sundag med Sol um Sumaren, berre eg saag henne Var andre i Laget med, vart det med Naudi, eg fekk Maalet upp for Blygsla; men h&#x00F8;vde det so, me var for sj&#x00F8;lve oss, daa kann det vel henda, der var Liv baade i Prat og Leik! Vera henne hjelpen og beinkesam, bera Tina hennar, br&#x00F8;yta Veg igjenom Snjoskavlarne, naar me gjekk i Skulen saman, det var min st&#x00F8;rste Hugnad. Var det noko ho bad meg um &#x2013; og det var ho inkje bljug for &#x2013;, var det sjeldan eldr aldri eg vann segja nei. Ho skynad nog berre altfor v&#x00E6;l, Trollet, at eg likad henne serlaga. Og som ho kunde finna paa pina meg, naar det fyrsta sveiv henne! Det var soleine ein Dagen fram paa Vaaren, at Lensmanns-Sonen, han Knut, var burte paa Lunde i Fylgje med Far sin; og eg var der og. Me var Jameldringar, eg og han Knut. &#x2013; Jau, so var ho so stor paa det, daa, at ho inkje leest sjaa til den Sida, der <emph>eg</emph> var, eingong, berre gjekk dragsa med <emph>honom</emph>, skulde syna baade detta og detta; det <pb n="31"/>saag endaa ut, som eg snaudt nog skulde have Lov vera <emph>med</emph>, eg. Paa Seinsten vart eg so arg, at eg eglad meg i Basketak med honom Knut og smurde honom dugeleg upp. So vart det paa Timen eg daa, som var henne den likaste.</p>
+<p>&#x2013; Og eg dr&#x00F8;ymde og dr&#x00F8;ymde &#x2013; vakne Draumar um henne og meg, og meg og henne. Tidaste var det ein Kjelke med Vengjer, me hadde oss; ho sat framanfyre og eg bakpaa, og so fauk me stad vidan yver Fjell og Hav, baade til Island, Amerika og Nordpolen, der me slumpad inn i alle dei Hendingar <emph>til</emph> kunde vera og v&#x00E6;l so det.</p>
+<p>H&#x00F8;vde det seg, naar me var ute leikad, at nokon gjorde henne Meinka i eitkvart, so jamen var eg reidug paa Flekken, eg og! Mangt eit blaat Auga fekk eg for hennar Skuld, og likaso mange gav eg. Um det endaa var st&#x00F8;rre og sterkare Gutar, so raakad det gjerna, dei likav&#x00E6;l fekk Smurning; for han Sjur-Ola var jamnaste tilstader, og det inkje ein evlad, det kunde tvo. &#x2013; &#x2013; &#x2013; No, daa so Sundagen kom, og eg v&#x00E6;l hadde biskat og flitt meg, lagde eg iveg burtetter til Lunde, skulde syna henne Eli Triskilingen.</p>
+<p>Eg raakad henne nedan L&#x00F8;da, der ho og Systeri heelt paa spila Tolvstein.</p>
+<p>Og ho totte no det, at Skilingen, den var <pb n="32"/>reint makalaus gild. &#x2013; Um ho inkje maatte faa Lov halda honom i Handi? Jau &#x2013; &#x2013; ho fekk vel det.</p>
+<p>Stod ho daa der fiklad og fingrad med honom, nidglante honom paa alla Leider.</p>
+<p>&#x00AB;Du, vesle Per&#x00BB;? sagde ho, smeikjande blid som ein Rjomakling.</p>
+<p>&#x00AB;Jau?&#x00BB;</p>
+<p>&#x00AB;Du kunde gjerna gjeva meg denne Skilingen, du.&#x00BB;</p>
+<p>&#x2013; &#x2013; &#x2013; Det var som kjende eg ei Rennelykkja sn&#x00F8;ra Halsen min ihop.</p>
+<p>Ho saag nog, eg inkje var so reidug, som eg plagad, til aa dansa etter som <emph>ho</emph> spilad; &#x2013; og der visste eg inkje Ordet av, fyrr ho foor piltande stad uppyver. &#x2013; &#x2013; Kj&#x00E6;rleiken eldr Triskilingen! &#x2013; &#x2013; &#x2013; Og Triskilingen vann. Etter henne kilad eg og greip henne; rembde seg og skreik gjorde ho, beit meg og i eine Fingeren, so Blodet tippad; men det hjelpte inkje, eg vreid Handi hennar upp og tok Skilingen til meg attr.</p>
+<p>Endaa jamen var eg likav&#x00E6;l tung um Hjartat, daa eg sidan foor labbande paa Heimveg.</p>
+<p>&#x2013; Men Triskilingen vart meg fraa no av kj&#x00E6;rare en nokosinne; eg visste, kva han hadde kostat meg. &#x2013; For aa vera so trygg, det berre var Raad, saumad eg honom fast under ei Bot til <pb n="33"/>Brokaliningi; men laut fleira Gonger um Dagen spretta uppattr, aa sjaa um han var der.</p>
+</div>
+<div type="chapter" subtype="uchapter">
+<head>VI.</head>
+<p>Gjekk der eit Par Dagar i Skulen attr. Netupp som me so ein Eftan vart fri, kom han vesle Hans Lundahaugen, skulde sud til Kr&#x00E6;maren k&#x00F8;ypa Tobak aat Far sin.</p>
+<p>&#x00AB;Du var gjerna Kar k&#x00F8;ypa meg og ein Rul, du?&#x00BB; sa han Far.</p>
+<p>Jau, han var daa det.</p>
+<p>Men som no han Far tok Pungen sin fram talde etter, hadde han inkje nog Smaapengar.</p>
+<p>&#x00AB;Hev <emph>du</emph> Per aa laana meg so lenge?&#x00BB; spurde han; for eg plagad jamnan tene meg einkvar Skilingen ved aa selja B&#x00E6;r.</p>
+<p>Nei, det h&#x00F8;vde seg, eg hadde kje solaga, no.</p>
+<p>Ho Olina og eg, me tvo var som tidaste inkje plent dei beste Bussarne, og passad gjerne paa gjera kvarandre all den Smaameinka, me kunde. Um eg inkje hadde? meinte ho; en den gruse Triskilingen, daa, som eg gjekk med i Brokaliningi?</p>
+<p>&#x00AB;So berre hit med honom!&#x00BB; tok han Far frami; der vart snart N&#x00F8;gdi av sovorne no leet han.</p>
+<p>Eg forstod det peikad ein galen Veg, detta, og tok so smaatt paa halda meg burtaat Dyri.</p>
+<p><pb n="34"/>Men han Far skynad for v&#x00E6;l, kva eg hadde i Tankar, og gripen vart eg, just som eg alt stod paa Spranget.</p>
+<p>Eg veit, eg skreik, som var ein Kniv stungen meg i Kroppen. Kva meir eg gjorde kann no vera det sama; men visst er det, han sleppte meg attr, og det sn&#x00F8;gt.</p>
+<p>Eg ut, og uppetter den stora Urdi, so fort F&#x00F8;trne berre vann bera meg.</p>
+<p>Strakst ovan Garden er der ein hardla h&#x00F8;g, bratt Hamar; men fremst framme paa Floget stend det her ei stor Bj&#x00F8;rk, som t&#x00F8;ygjer seg lika ut yver Djupni, greinutt og breid.</p>
+<p>Dit upp paa Hamaren foor eg og kleiv ut i Bj&#x00F8;rki, &#x2013; eit Vaagaspil eg hadde freistat nokra Gonger fyrr, men som nog baade den eine og den hin der paa Garden skulde lata vera gjera meg etter.</p>
+<p>&#x2013; Sat eg so der millom Himmel og Jord, medan dei heita Harm-Taaror brann meg paa Kjako, og saag ned yver Verdi, som ho laag breidde seg under meg, so urettvis og so vond.</p>
+<p>Ein galen Tanke steig meg upp i Hausen: um eg no berre ein Augnablink slepte Taket, &#x2013; so kunde dei sidan hava Takk for meg!</p>
+<p>Og eg tok til dr&#x00F8;yma meg, korleis det so vilde ganga: Fram mot Kvelden vart dei illehugad, skulde stad leita. Men naar dei fann meg der i <pb n="35"/>Urdi nedanfyre, sundslegen, blodutt og livlaus, &#x2013; jau, so kunde det vel henda, der vilde verta Syrgjing og Tuting!</p>
+<p>Maalad og meg vidare ut, korleis dei ein Dag k&#x00F8;yrde ei liti Likkista or Tunet. Men han Far gjekk baketter, vreid Hendr og greet: &#x00AB;nei, aa nei! &#x2013; einaste Son min, du Vesle Per, du Vesle-Per! &#x2013; at eg daa kunde vera so ill med deg!&#x00BB;</p>
+<p>Og eg log ved Tanken ein Laatt so haas og stygg, at det risste i meg sj&#x00F8;lv av F&#x00E6;lske. &#x2013; Men so kom eg til hugsa paa henne Mor, som <emph>no</emph> var med Buskapen uppe paa Fjellst&#x00F8;len, &#x2013; kor hjartaleg vondt det vilde gjera henne, kor illt ho vilde koma til sitja graata. &#x2013; Og inkje anna i Verdi kunde faa Hugen min so reint vidje-mjuk, som at eg fekk sjaa Taarorna taka til blenkja henne Mor i Augo.</p>
+<p>&#x2013; So var det og den nya Luva med dei tvau Flugsi i Nakken og blanka Massing- Ankaret paa Sida. Det var han Per, Morbror min, Siglaren, som hadde sendt meg henne heim fraa Bergen; og eg hadde no endaa stundat mykje etter aa syna meg <emph>i</emph> henne ved Kyrkja Bispedagen.</p>
+<p>&#x2013; Men det versta av alt var detta, at eg for nokre Dagar sidan hadde fenget Fat i &#x00C6;ventyrboki hans Moe og hans Asbj&#x00F8;rnsen, og hadde <pb n="36"/>enno inkje naatt lengr ut en til &#x00AB;Grimsborken&#x00BB;, som eg hadde h&#x00F8;yrt skulde vera so framifraa morosam. &#x2013; Herre Gud, &#x2013; det var daa likav&#x00E6;l for tungt skula segja Verdi farv&#x00E6;l, naar her var so mykje aa liva for!</p>
+<p>&#x2013; Og Dagen gjekk sin Veg smaatt ura Senn; og plent det sama gjorde Motet mitt og. Eg kjende meg med eitt so gaulande svolten, og ein liten Fristar tok til kviskra: &#x00AB;gjeve Gud, eg torde gaa ned faa meg Mat!&#x00BB;</p>
+<p>Men verre vart det, daa det tok paa dimmast; for eg var so forf&#x00E6;lande myrkr&#x00E6;dd.</p>
+<p>Jau, so var eg endeleg nedre or Bj&#x00F8;rki attr, etter at Triskilingen fyrst var godt og v&#x00E6;l g&#x00F8;ymd i eit Trepikkar-Hol.</p>
+<p>Og alt som Solstripa kraup uppyver den store Snjo-Tinden i Sud, kraup eg nedyver mot Garden, l&#x00F8;ynande meg, so mykje Raad var, attum Stuvar og Steinar.</p>
+<p>Vart det daa umsidar so dimmt, at eg for harda Livet inkje torde vera ute lengr. Og no fekk det skura! Munaleg Stryk kom eg sagta til faa; men Triskilingen kunde dei no, kor som var, bita seg i Gomarne etter!</p>
+<p>Ottasam og stillvoren som ein Tjov smatt eg meg innum Dyri; &#x2013; nei, inkje nokon leest ei gong sjaa meg. Eg byrjad so smaatt faa Voni <pb n="37"/>upp; for eg hadde jamen ventat meg anna i V&#x00E6;lkoma. &#x2013; Daa det leid um litet, vaagad eg meg burtaat Bordet, fekk <emph>i</emph> meg noko Graut og Mj&#x00F8;lk.</p>
+<p>So smatt eg ut i Nystova, smaug i Seng, og takkad, fyrr eg sovnad, Vaarherre, som hadde lagat det so godt alt ihop.</p>
+<p>&#x2013; Men den Takka-B&#x00F8;ni kunde eg gjerna hava ventat med, til det betre var H&#x00F8;ve; for <emph>so</emph> reint snikalaust var det heldr inkje Meiningi, eg skulde sleppa.</p>
+<p>Eg var som Smaagut ein &#x00E6;rekj&#x00E6;r Gnasse, og noko sovoret som aa faa Tukt i Skulen var eg r&#x00E6;dd som Dauden sj&#x00F8;lv. No visste han Far detta, og hadde daa voret so utifraa meinsleg beda Skulemeistaren &#x00AB;setja meg attr&#x00BB; Dagen etter, til Bot for Traaskapen min.</p>
+<p>Fj&#x00F8;ren og glad som ein Fugl kom eg i Skulen um Morgonen. Eg kunde paa mine Fingrar kvar Dusti eg vart spurd, las tridje Artikelen i Kakisma og um Saul i Bibelsoga, so det berre <emph>saud</emph> etter, og visste inkje av vondt aa segja, eg, fyrr fram ved Middagsleite.</p>
+<p>&#x00AB;Ja,&#x00BB; sa Skulemeistaren, &#x00AB;no f&#x00E6;r de taka Fritimen dykkar, Born; &#x2013; men du, Per, kann faa Lov sitja <emph>her</emph>, du,&#x00BB; lagde han til.</p>
+<p>&#x2013; &#x2013; &#x2013; Eg vart berre standande munnopen glana honom upp i Augo.</p>
+<p><pb n="38"/>&#x00AB;Du forstend vel, det er Meiningi, du skal sitja <emph>attr</emph> idag?&#x00BB;</p>
+<p>&#x2013; Sitja attr? &#x2013; &#x2013; &#x2013; eg? Jau, so med ei Gong skynad eg, korleis det hekk ihop.</p>
+<p>Men so saarad og illsinnad som eg <emph>daa</emph> vart, vil eg ynskja, eg aldri meir maa kjenna meg.</p>
+<p>Ned attr sette eg meg paa Flekken, og vart sitjande Timen til Enda, med Hendo under Hoka, nidstira i Bordet. Tisking og Knising h&#x00F8;yrde eg ikring; for det var dei, som var ovundsjuke paa meg, etter di eg st&#x00F8;dt stod meg so godt med Skulemeistaren, og no totte dei, detta foor v&#x00E6;l, maavita.</p>
+<p>Borni fekk Bod taka Nista med ut paa Bakken, og Skulemeistaren sj&#x00F8;lv gjekk aat hinare Stova, skulde faa Maten sin der, den Dagen. &#x2013; Um ei Rid kom han ut i Nystova attr, gjorde ei Snuning innyver Golvet, men gjekk so sin Veg utan aa m&#x00E6;la eit Ord.</p>
+<p>Jau, endeleg var Kvila til Enda og Ungarne ropad inn attr. Naar alle hadde sessat seg, kjem Skulemeistaren hit, bed meg lesa det fjorde av Bod-Ordi.</p>
+<p>&#x2013; Aldri Knystet fekk han h&#x00F8;yra.</p>
+<p>So las han det sj&#x00F8;lv, tok sidan til leggja ut um dei &#x00AB;som h&#x00E6;drer Fader og Moder&#x00BB;, at &#x00AB;de skulle lenge leve i Landet&#x00BB;, og sluttad med aa <pb n="39"/>spyrja, um eg no inkje hjartaleg tregad, at eg igaar var so ureipen mot honom Far, som av Vaarherre sj&#x00F8;lv var sett yver meg &#x00AB;til at byde og raade&#x00BB;.</p>
+<p>Men her raakad han just slaa paa Knall-Perla. Det var detta, som argad meg so beiskeleg, at dei vilde velta all Skuldi yver paa <emph>mi</emph> Sida, medan eg sj&#x00F8;lv etter Guds og Mannsens Log inkje kunde skyna betre, en at Retten var min.</p>
+<p>Sinnad burtimot Vitl&#x00F8;ysa spratt eg upp, slo i Bordet det vesla eg orkad, og skar i med eit M&#x00E6;le som dirrad og peip av Ov-Illska: &#x00AB;nei, koke meg, so gjere!&#x00BB;</p>
+<p>&#x2013; Det vart stilt i Stova, so du kunde h&#x00F8;yrt ei Knappenaal detta.</p>
+<p>So gjekk Skulemeistaren med vyrdsame Stig burtetter Golvet og ut.</p>
+<p>Eg visste med sama, kva detta hadde paa seg; for vart endr og daa Ukjurskapen altfor stor, vankad der gjerna Stryk paa Ne var ne.</p>
+<p>Men eg berre beit Tennrna i Hop, daa han kom innattr med eit munalegt Ris i Handi.</p>
+<p>&#x00AB;Kom so med Hendrna, Per,&#x00BB; sa han.</p>
+<p>Og det gjorde eg, paa den Maaten, at eg stakk honom baade Knyttenevarne beint uppunder Nosi.</p>
+<p>&#x2013; Han steig fjetren eit Stig attende, saag <pb n="40"/>eit litet Bil paa meg, &#x2013; braut so Buska sund og gjekk stad stakk henne inn i Omnen.</p>
+<p>No fyrsta bar det i Graat med meg &#x2013; ein Graat so skakande sterk, som eg enno aldri hadde graatet; og det gjorde baade varad og rokk, fyrr eg kunde halda upp attr hiksta og hikka.</p>
+<p>&#x2013; Frampaa Kvelden, som eg sat attum Smidja, kavande med Tankar so myrke og so saare, visste eg inkje Ordet av, fyrr Skulemeistaren stod framfyre meg.</p>
+<p>&#x00AB;Er du sint paa meg, vesle Per?&#x00BB; sa han. Eg svarad inkje, &#x2013; kunde det ikkje heldr, for eg kjende meg so undarleg tjukk i Halsen.</p>
+<p>&#x00AB;Heve eg voret vond ved deg? Men eg vilde deg det berre so v&#x00E6;l kor som var, &#x2013; &#x2013; &#x2013; for du veit daa det, at eg held so utav deg.&#x00BB;</p>
+<p>So braut Graaten min laust aa nyo.</p>
+<p>Skulemeistaren tok meg paa Fanget; og korleis me tvo no sat snakkad saman, det vil eg ikkje eigong freista mana fram attr. Men det veit eg, at aldri korkje fyrr eldr sidan saag eg ei Taara trilla honom gamle Lars Skulemeistaren or Augat.</p>
+<p>Og paa Seinsten sovnad eg der paa Fanget hans, med ei takksam Kjensla av Lukka og Fred; men so tr&#x00F8;ytt, aa, so tr&#x00F8;ytt, so tr&#x00F8;ytt.</p>
+</div>
+<div type="chapter" subtype="uchapter">
+<head><pb n="41"/>V.</head>
+<p>Leid det fram til Laurdagen kom; og den Dagen var det, me skulde m&#x00F8;ta fyre Bispen.</p>
+<p>Tidleg um Morgonen vaknad eg, var ute or Sengi og burt fekk i meg Bisken i ein Ruff; og so bar det aat Bekken til vaska og skura, so Gr&#x00F8;nsaapa sveid i Augo. Sidan paa med Kyrkjeploggi, sprettande nye fraa Topp til Taa, so Hendrna mine vart maalad blaa av Loddaliten, berre eg strauk meg nedetter den skinande, sylvknappa Tr&#x00F8;ya.</p>
+<p>Vesle-Brunen var Folunge den Tid; men endaane han ikkje var meir enn godt og v&#x00E6;l ei Vika gamal, so jamen dansad han, so det slatt etter, der me k&#x00F8;yrde burtetter Vegen med Mor hans fyre Stolkjerra. Han visste inkje, Stakkar, at han um nokre Dagar skulde verta morlaus.</p>
+<p>Det var han Far sj&#x00F8;lv, som k&#x00F8;yrde meg, og eg skal tru, eg inkje var litet byrg, daa me svingad ned framum Kyrkja, der det alt stod Bygdarfolk store og smaa i Mengd.</p>
+<p>&#x00AB;Ja lat meg no sjaa, eg inkje f&#x00E6;r Skamm av deg idag, Guten min,&#x00BB; sa han Far og kostad Dumba av Tr&#x00F8;yi mi.</p>
+<p>&#x2013; Jau, best det var, der kjem Bispen gangande, b&#x00F8;ygd og bleik, med sylvkvitt Haar ned <pb n="42"/>under h&#x00F8;ge Hatten, og med Gullkrossen blenkjande paa den svarte Kjolen.</p>
+<p>Men bakum honom kom Presten, feit og breid, um inkje plent so h&#x00F8;gt i Vedret med Nosi som han var van. Og so endeleg den tunna Prestafruva med fem elder seks av Borni deira trippande etter.</p>
+<p>Hattar og Huvor vart lyfta, der Fylgjet skreid frammum og inn Kyrkjedyri; so str&#x00F8;ymde me andre same Vegen til.</p>
+<p>&#x2013; Skulemeistaranne stellte seg upp aa Kyrkjegolvet, kvar med sine for seg.</p>
+<p>Og so vart der Beding og Syngjing og Lesing og Yverh&#x00F8;yring.</p>
+<p>Det var inkje greidt aa vera Skulemeistar heldr, daa.</p>
+<p>Han Ola Seim var den, som fyrst laut i Fikten, og endaa so kipen ein Kar han elles vilde vera, so jamen var det sjaaande, kor han den Gong dillad i Knei, aldri so litet han raakad staa still.</p>
+<p>Nei, so var han Anders Jakobsen anna til Kl&#x00F8;yvar. Fraa fyrst av var han no berre fatike Husmannsungen paa ein Plass under Lunde. Men eit Par Aar etter han var framsloppen slog Presten og nokre Bygdarmenn seg i Hop kostad honom paa L&#x00E6;rar-Skule, og sidan endaa paa Klokkar-<pb n="43"/>Skulen sud paa Storden. Daa han so kom heimattr hadde stadet ut L&#x00E6;ra og vart Klokkar i den hinare Sokni, jau, daa var han Storkaren fraa Ende til annan; &#x2013; du skulde kje anna sjaa en Haaret stroket upp som en Hanakamb, kvit Krage og svart Kjole med Kluft baki, og eit Maal snakkad han, som du skulde h&#x00F8;yrt Spurnaboki sj&#x00F8;lv.</p>
+<p>Det var Gut, som inkje var klumsad framfyre Bispen heldr, det. Daa Tidi kom, spratt han fram paa Golvet som ein annan Hallingdansar, gjekk so der svingad seg paa H&#x00E6;lo og sveivad med Armo, medan han spurde og preikad og, preikad og spurde.</p>
+<p>&#x2013; Men han gamle Lars akslad seg og kremtad seg og tok det med Tol, som han plagad, han.</p>
+<p>&#x2013; Naar Skulemeistaranne v&#x00E6;l var reiduge med sitt, kom Bispen sj&#x00F8;lv tok til h&#x00F8;yra oss yver. Eg totte han saag so god ut, at eg var ikkje r&#x00E6;dd heldr, daa eg endeleg hadde honom der beint framfyre.</p>
+<p>&#x00AB;Kan du, min lille Gut, fort&#x00E6;lle mig noget om Jesu F&#x00F8;dsel?&#x00BB;</p>
+<p>Og det var no, som tok han Bandet av ein Ertra-Sekk, det. &#x2013; Jau, so var daa det so bra.</p>
+<p>&#x00AB;Naa! &#x2013; Nattevagt over deres Hjord &#x2013; &#x2013; &#x2013; ved du saa, hvad Hjord er?&#x00BB;</p>
+<p><pb n="44"/>&#x00AB;Det &#x2013; maa vera ein <emph>B&#x00F8;ling</emph>, det,&#x00BB; svarad eg.</p>
+<p>&#x00AB;B&#x00F8;ling?&#x00BB; &#x2013; ja, kva vilde <emph>det</emph> segja? &#x2013; han snudde seg til Skulemeistaranne, som hadde sett seg i Stolen strakst nedanfyre.</p>
+<p>Og han Anders Jakobsen upp med sama: &#x00AB;Hr. Biskopen maa undskylde, de taler desv&#x00E6;rre saa bondeagtigt, disse B&#x00F8;rn.&#x00BB;</p>
+<p>&#x00AB;Jeg &#x00F8;nsker at vide, hvad &#x00AB;<emph>B&#x00F8;ling</emph>&#x00BB; er,&#x00BB; sa Bispen, og det so det beit.</p>
+<p>&#x00AB;Jo,&#x00BB; svarad han gamle Lars, &#x00AB;en B&#x00F8;ling er det same som en Samling af Kv&#x00E6;g.&#x00BB;</p>
+<p>No, eg hadde daa svarat so serlaga glupt. Og Bispen strauk meg yver Haaret med den turra, skjelvande Handi si; &#x00AB;det var kvik, flink Gut!&#x00BB; sa han. &#x2013; Men daa kann det vel henda, eg voks, der eg stod, eg og!
+<figure rend="shortHorizRule"/></p>
+<p>Nei, at eg no kan faa Fat attr i rette Traaden i Soga mi, so var det detta, eg vilde fortelja, at naar me gjekk ut or Kyrkja, kom der ein framand Mann stad helsad paa honom Far. Kl&#x00E6;dd var han halvt som Bonde og halvt som Byfant, hadde Brillor paa flata Nosi med den uppetterbretta Tippen, og det tunna, rauda Skjegget hekk langt nedyver Bringa paa honom.</p>
+<p>&#x00AB;Er <emph>det</emph> han Torstein Kvaale?&#x00BB; sa han laagvoret og langdraget.</p>
+<p><pb n="45"/>Jau, det var daa det.</p>
+<p>&#x00AB;Og mit Navn er Missions-Emiss&#x00E6;r Anton Samuelsen fra Ryfylke.&#x00BB;</p>
+<p>&#x00AB;Det kann raaka, det ja,&#x00BB; svarad han Far.</p>
+<p>Ja, han reiste kring sankad Studnad til Missjonen nedre i Zululandet. Han skulde i Kveld halda Samling paa Uppheim, Garden der Kyrkja ligg; men so var det detta, um han inkje maatte faa Lov gjera det sama Kvelden etter heima hjaa os?</p>
+<p>Aa jau, der fekk verta ei Raad med <emph>di</emph>, meinte han Far, lovad og paa likaste Maaten gjera det kunnigt der i Heimreppen, og tok endaa Skreppa hans med i Kjerra, daa me sidan k&#x00F8;yrde heimattr.</p>
+<p>&#x2013; Fram paa Sundags Eftan kom Karen reikande. Og etter som det leid, tok Folket fraa Grannegardo til sankast inne i Stova, sessad seg paa Benker og i Senger og kvar dei elles kunde koma til.</p>
+<p>Store Hoggestabben vaar vart rullad inn burt paa Golvet; det var Preikestolen.</p>
+<p>Det byrjad med, at Framandkaren gav Bod slaa upp ei Salma; daa so ho var sungi, steig han paa Stabben tok til leggja ut.</p>
+<p>Og jamen var det Gut, som fekk R&#x00F8;ysti upp, daa! Det var, som det berre dirrad og ylte gjenom <pb n="46"/>Stova, medan han manad fram det heita Helvitet, kor grusjelegt dei ufrelste Saalerna hadde det der, kor dipple dei skar Tennr, bannad og skreik, naar den svarte Fan og Englarne hans slo Kl&#x00F8;rna i dei og duppad dei ned i brennande Svavel-Sjoen, so blaabrandutte Logarne skolad og skvatt.</p>
+<p>Men med eitt vart han so mjuk og mild i Maalet, daa han tok til fortelja um Vaarherre i Himmeriket, kor god han var, kor ovlega dei s&#x00E6;le vart fagna hjaa honom uppe i den ljose Staden med Gator av Gull, der dei gjekk ikring i lange kvite Kl&#x00E6;de, med Gullkruna paa Hovudet og Palmegreiner i Hendo, medan den eine Gudsengelen fagrare en den andre fauk til og ifraa, leikande paa Gullhorpa og syngjande den nye Songen um Lambet som var slagtat.</p>
+<p>Og no vilde han beda oss kvar og ein velja, anten me vilde h&#x00F8;yra heima der nedre eldr der uppe, naar Tidi kom, at det vart aa segja farv&#x00E6;l til denna Jordhytta her.</p>
+<p>Men det laut me v&#x00E6;l hugsa paa, at berre den fekk Ervelut med Kristus, som skipad seg etter Bodi hans; og no var dette Kristi klaara Bodord til os: at leida dei arme Heidningar ut or Villa og attende &#x00AB;til hans Hjord og sande Faaresti&#x00BB;.</p>
+<p>Las han upp or ei Bok og ordad vidare ut <pb n="47"/>um, kor &#x00F8;gjeleg det stod til der ute hjaa Heidningo, og kor naudturvelegt det var koma dei til Hjelp, som heelt paa str&#x00E6;vad og kavad kveikja Ljos i detta forf&#x00E6;lande Myrkret.</p>
+<p>&#x2013; Der var, daa han sluttad, snaudt nog eit turrt Auga inne i Stova; og som han so leet Hatten gaa ikring, tok baade den eine og den andre til leita Pungen fram or Lumma.</p>
+<p>&#x2013; Eg for meg veit, at inkje Ordet av heila Tala gjekk meg i Miste, der eg sat paa vesle Krakken min beint nedan Stabben, og kl&#x00F8;kkt i Hugen var eg sovisst som nokon.</p>
+<p>&#x2013; Fram paa Kvelden h&#x00F8;vde det seg so, at Preikaren og eg kom til prata.</p>
+<p>&#x00AB;Elsker du Jesus, du, Gutten min?&#x00BB; sa han.</p>
+<p>&#x2013; &#x2013; Jau &#x2013;&#x2013; eg gjorde nog det.</p>
+<p>&#x2013; Ja, for Jesus var so snild, han, og heelt vissa so mykkje utav alle dei smaae.</p>
+<p>Eg kunde no segja ifraa, eg, at eg hadde fem Br&#x00F8;dr deruppe hjaa honom.</p>
+<p>&#x2013; Um so inkje eg og hadde Hug koma der? &#x2013; For han vilde vona, der endaane inkje var noko, som heelt mitt Hjarta burte fraa Jesus.</p>
+<p>Men kor han kom til venda og snu, nog er det, han fekk endeleg vita, at eg hadde slik ein makalaus Triskiling, som var meg so serlage kj&#x00E6;r.</p>
+<p><pb n="48"/>Ja, den laut eg segja meg laus fraa; for yver Durstokken i Gudsriket kom ingen med framande Gudar i Hjartat.</p>
+<p>Eg spurde handfallen, um mindre inkje kunde gjera det. Eg hadde ein sliten Vest, som var vorten meg heldr liten og; men eina Lumma var endaane plent lika god som ny. Naar eg no bad meg Lov gjeva den Vesten til honom vesle Mons Bakken &#x2013; han hadde korkje Far eldr Mor, han Stakkar! &#x2013; tru ikkje <emph>det</emph> vilde gjera god Mun? &#x2013; medan eg tenkte med sj&#x00F8;lve meg, at Knapparne kunde eg daa likav&#x00E6;l spretta utor.</p>
+<p>Nei, det vilde kje bata Dusti, det, leet han; <emph>alt eldr inkjevetta</emph>, det var Kravet, og <emph>det</emph> var inkje aa rikka. &#x2013; Tok han so upp or Frakklumma ei rund, hardla h&#x00F8;g Massing-&#x00D8;skja, gav seg til skruva Loket ifraa; ho var paa Lag til Helvti full av Koparpengar, og dei skulde vera &#x2013; fortalde han &#x2013; &#x00AB;til en Skole for de arme smaa sorte Hedningeb&#x00F8;rn, som springer n&#x00F8;gne omkring og spiser hinanden der nede i Zululandet.&#x00BB; &#x2013; Um eg no sleppte Triskilingen nedi der? &#x2013; &#x2013; so kunde han og fortelja andre Born, der han foor fram, kva <emph>den</emph> vesle Guten havde gjort for dei stakars Heidningo.</p>
+<p>Detta var just aa taka meg paa meinaste Stellet; naar eg so og samstundes kom so v&#x00E6;l <pb n="49"/>inn i det med Vaarherre, &#x2013; &#x2013; ja, daa fekk det inkje hjelpa, eg laut lata staa til!</p>
+<p>Men jamen vart det meg likav&#x00E6;l ein tung Gang uppetter til Trepikkar-Holet; og eg kjende det, som vilde F&#x00F8;trne inkje fly tja seg under meg, daa eg endeleg var paa Nedvegen. Stadnad gjorde eg, rett som det var, saag paa Skilingen, blenkte honom paa Tr&#x00F8;yeermi, og var fleira Gonger if&#x00E6;rd med aa snu. &#x2013; Men so tok eg meg saman, gjekk med st&#x00F8;de Stig beint inn til Preikaren, snudde Andlitet ifraa &#x2013; &#x2013; &#x2013; og strakst etter h&#x00F8;yrde eg Triskilingen fara klingrande ned i Penge-&#x00D8;skja.</p>
+<p>&#x2013; Men det kann vel vera, at eg kjende meg byrg og heppen, no, naar det fyrst var gjort! Eg totte, eg hadde stridt den gode Strid og vunnet Siger, og eg er r&#x00E6;dd, at hadde nokon av Grannagutungo den Kvelden neitat meg Retten til Gudsriket, vilde der vankat all den Stryk, eg kunde gjeva.</p>
+<p>Eg gav meg inkje, fyrr eg fekk Lov vera Sengjafelag med Preikaren um Notti; eg totte, det kunde h&#x00F8;va det, etter som no han var eit Guds-Menne, han og. &#x2013; Og snart sov eg den rettvise sin Svevn.</p>
+<p>&#x2013; Fram i Graalysingi vaknad eg med ei us&#x00E6;l Kjensla av, at nokon heelt paa strypa meg.</p>
+<p><pb n="50"/>&#x2013; Preikaren, han laag sov, raut, so du skulde h&#x00F8;yrt ei Kaffikvern.</p>
+<p>Daa med eitt datt det yver meg med ei forf&#x00E6;lande Tyngd, at Triskilingen inkje var min lengr!</p>
+<p>Nog freistad eg med sama leita fram attr dei Grunnar, som igaarkveld hadde so stort eit Evle; nei, det vart som aa gripa i R&#x00F8;yk, det.</p>
+<p>Det rann meg i Minne, alt eg hadde sett inn paa den Eignaluten; &#x2013; og no! &#x2013; &#x2013; at eg daa kunde vera slik ein Braavim!</p>
+<p>&#x2013; &#x00D8;skja stod der straks framfyre meg paa Fota-Fj&#x00F8;li og blinkad; &#x2013; &#x2013; der var han!</p>
+<p>&#x2013; &#x2013; Naar berre eg torde! &#x2013; &#x2013; For det var no inkje sagt, Mannen med sn&#x00F8;ggaste fann paa sjaa <emph>etter</emph>, eldr um so skulde henda, daa illetru <emph>meg;</emph> &#x2013; so sakta kom han til fara kring skryta <emph>av</emph> meg plent lika godt.</p>
+<p>&#x2013; Og Vaarherre, som var so god, so god, vilde nog sleppa meg inn til seg kor som var, naar eg angrad hjartaleg etterpaa og var snild og lydug Gut.</p>
+<p>&#x2013; Pokkern maatte elles vita, kven han <emph>var</emph> for ein, denne Framandkaren! Kanhenda, naar alt kom til alt, han stakk Pengarne i si eigi Lumma, Landlauparen!</p>
+<p>&#x2013; &#x2013; &#x2013; Og hadde nokon raakat koma inn <pb n="51"/>i Nystova paa Kvaale um ei Rid, vilde han hava funnet meg i berra Skjorta standande paa Knei i Sengi, iferd med aa skruva Loket av Penga-&#x00D8;skja. &#x2013; Jau, so varad det heldr inkje lengje, fyrr eg aa nyo hadde Triskilingen millom Fingro. Han var lett nog kjenna, der han laag i Kopardungen blenkte og skein.</p>
+<p>&#x2013; Men inkje fyrr fekk eg smetta meg under Feiden attr, fyrr Samvitet vaknad med ofsa Magt. Skilingen brann meg i Handi, som var han glodande, eg hadde Kjensla av, at Maken til Styggedom visste eg meg inkje, og meir en gjerna vilde eg hava lagt honom tilbaka, men torde inkje rikka meg av Flekken, daa eg f&#x00E6;lte, Hin-Mannen skulde koma fakka meg med sama. Skolv gjorde eg som eit Ospelauv, Kaldsveitten taut fram yver heile min Kropp, og endeleg braut Stridgraaten laust.</p>
+<p>&#x2013; Preikaren vaknad, og spurde undren, kva som var tiss. Hakkande og hikkande kom eg so fram med, kva illt eg hadde gjort, og bad og velsignad honom taka den us&#x00E6;le Triskilingen attende.</p>
+<p>&#x00AB;Nei, mit Barn,&#x00BB; svarad han, &#x00AB;det v&#x00E6;re din Straf, at du selv maa beholde den S&#x00F8;lvpenning, for hvilken du som Judas Ischkarioth har solgt din Herre og Frelser.&#x00BB;</p>
+<p><pb n="52"/>Aa jau! tutad eg, &#x2013; han maatte, han maatte! for utan fekk eg aldri meir ein glad Time! &#x2013; han laut! &#x2013; han laut!</p>
+<p>Og paa Seinsten vart det so, at han gav etter. &#x2013; Men det veit eg, det var med Hugen heilt annorleis audmjuk og smaalaaten, eg denne Gongi h&#x00F8;yrde Skilingen fara klingrande ned i &#x00D8;skja.</p>
+<p>&#x2013; &#x2013; &#x2013; Eg vart lenge liggande vaken den Morgonen frametter, eg laag tenkte og grundad paa so mykje og mangt.</p>
+<p>Og daa eg endeleg sovnad attr, med sama det ljosa Solaugat blenkte fram yver Li-Nipa og keik inn gjenom Ruta, daa hadde eg lovat Vaarherre, at eg vilde verta Missjon&#x00E6;r.</p>
+<p>&#x2013; Men at den Lovnaden aldri vart Liv, &#x2013; <emph>det</emph>, likav&#x00E6;l, er inkje Triskilingen si Skuld.</p>
+<figure rend="shortHorizRule"/>
+</div>
+</div>
+<div type="chapter" n="2">
+<head><ref type="contents" target="contents_2" xml:id="chapter_2"><pb n="53"/>BERRE EIN HUND.</ref></head>
+<div type="chapter" subtype="uchapter">
+<head><pb n="55"/>I.</head>
+<p>Han Hall var inkje anna han, Stakkar, han var berre ein Hund.</p>
+<p>Men um han no og berre var ein Hund, so var han daa kor som er ein framifraa Hund; han var framifraa baade stor og klok, og livde dertil sit Hundaliv so framifraa utbytt av Lagnaden millom Lukka og Ulukka, at Livssoga hans, vissa for meg, eig fullt so v&#x00E6;l Krav paa aa minnast som mangt eit Mannsliv.</p>
+<p>Men fyrr eg no held vidare fram, lyt eg fyrst faa Lov ganga noko attende og fortelja litevetta um Nystova heima paa Kvaale, og kor det bar til, ho vart bygd.</p>
+<p>Godfar min, han gamle Per Kvaale, var innpaa fem og seksti Aar gamal, daa han fylgde andra Kjeringi si til Jordi. Men der var Livseld og Livshug i Gamlen endaane; inkje lengr til en Aaret etter kom det upp, han hadde i Tankar aa <pb n="56"/>gifta seg attr, og det med ei Taus paa godt og v&#x00E6;l dei tvo og tjugo.</p>
+<p>Same Sumaren var det, han fekk bygt seg Nystova. &#x00AB;F&#x00E6;r du ein gamal Mann, so skal du no likav&#x00E6;l faa deg ny Stova, Mari,&#x00BB; sa han Godfar.</p>
+<p>Nystova var bygd inn ved den gamla, der Far min, som no hadde teket imot Garden, skulde halda Hus; der var Dyri imillom.</p>
+<p>Ho var reint namngjeti fraa fyrstunne av, denna Stova hans Godfar, hev eg h&#x00F8;yrt segja, med di ho var det einaste maala Huset, som fanst paa long Leid. Blodraud som ho var, gl&#x00F8;ste og glimde det av henne uppe paa Kvaalshaugen, synberr som ho laag der framfyre heila Bygdi.</p>
+<p>Det fyrsta som eg minnest, var no han Godfar longo g&#x00F8;ymd under Torva; Ekkja hans var fari til Amerika, til ei Syster ho der hadde, og Nystova var komi i Far min si Eiga.</p>
+<p>Ho var no inkje just so glimande aa sjaa paa no lengr, Bordkl&#x00E6;dningi var sprukki, og Maalingi bleiknad, der ho inkje var avdotti. Men endaa var no Nystova paa Kvaale haldi for aa vera den gildaste Stova der i Bygdi.</p>
+<p>Og inni var ho rett fin, etter H&#x00F8;vet. Golvet var jamnaste reinskurat, medan dei andre Stovegolvi i Grendi kunde takka til, fekk dei seg ei Laug til kvar H&#x00F8;gtid. Tvo v&#x00E6;luppreidda Sengjer <pb n="57"/>stod der altid, og dei kom mang ei Gong v&#x00E6;l med, naar Presten eldr Skrivaren eldr og einkvar Turisten skulde hava Hus for Notti i Hallvardsreppen.</p>
+</div>
+<div type="chapter" subtype="uchapter">
+<head>II.</head>
+<p>Ja, so var det daa den Vaaren, eg hadde fyllt mit tolvte Aar, &#x2013; det var endaa den same Vaaren Morbror min, han Ivar Lunde, bleiv i L&#x00F8;nsosen.</p>
+<p>Det var ein Dag framunder Jonsok, og me sat endaa aa dogurda oss heima paa Kvaale, daa me, best som det var, h&#x00F8;yrde Gardshunden vaar, han Passupp, taka paa halda eit Syndaleven nedre paa Vegen. Han illg&#x00F8;ydde, og han kvein og bar seg so det var reint ulikt. Men endr og daa kom der med innimillom eit Glufs so grovt og holt, at det var dipple aa h&#x00F8;yra.</p>
+<p>&#x00AB;Nei, men so spring daa ut, du Per,&#x00BB; sa ho Mor, &#x00AB;aa sjaa kva det er Hunden baskar med!&#x00BB;</p>
+<p>Men endaane fyrr eg v&#x00E6;l hadde fenget lagt Skeidi fraa meg og komet meg fram fraa Bordet, h&#x00F8;yrde me Stig ute paa Tunet.</p>
+<p>So tok det i Klinka, og inn igjenom Dyrglytten stakk det med sama eit Mannlikan, slikt at eg endaane aldri Maken hadde seet.</p>
+<p><pb n="58"/>Lang var han og smal var han som eit Riveskaft; Hatten hans var liten og striputt, Andlitet tunnt og treturrt, med Nasaklemba og uhorveleg langt, ljost Kinnskjegg; Tr&#x00F8;ya og Knebroki var roglelita som ei R&#x00F8;y, Sokkarne graae, og Sn&#x00F8;restyvlar hadde han uppetter dei tvo Pipestylkarne til Smalleggjer.</p>
+<p>Han vart standande eit &#x00F8;rlitet Bil med Klinka i Handi og bisna paa oss; so nikkad han, kr&#x00F8;kte seg under Tverstokken og steig inn.</p>
+<p>&#x00AB;Aa nei, aa nei!&#x00BB; sa ho Mor, og flutte seg lengr inn paa Benken.</p>
+<p>&#x00AB;Jau, beiske deg!&#x00BB; tok han Salamon, Tenestedrengen, i, heldr noko laagt.</p>
+<p>Men daa eg so samstundes vart stird framum honom, som inn var komen, kunde eg inkje halda meg fraa setja i eit Illskrik av R&#x00E6;dsla.</p>
+<p>For der attum honom stod med Labbarne paa D&#x00F8;rstokken og glodde in i Stova eit Ubeist so skr&#x00E6;melegt, at eg inkje kjende F&#x00F8;trne under meg, so f&#x00E6;len vart eg.</p>
+<p>Trollet tottest meg vera lika so stort som ei liti Kviga; det var brungult paa Lit, med noko myrkare Ragg framme paa Halsen, og so hadde det ein Kjeft med slik ein Tanngard, som det stod der og tevad og hengde med Tunga, at det maatte kunna tyggja ein Slipestein.</p>
+<p><pb n="59"/>Eg var viss paa, det inkje mindre kunde vera en ei L&#x00F8;va, ein Tigerkatt eldr eit annat av dei glupande Udyri, eg just hadde leset um i &#x00AB;Jagthistorier fra Afrika&#x00BB;, som i dei Dagar fylgde med &#x00AB;Almuevennen&#x00BB;, og eg ventad meg inkje betre, en at me paa raude Rappen skulde verta sunderrivne og uppetne alle i Hop.</p>
+<p>Men so galet gjekk det no inkje heldr, og daa eg saag, Rakken for det fyrste vart standande der han stod, kr&#x00F8;kte eg meg upp under Kraaskaapet og slog meg tiltols, so godt eg kunde.</p>
+<p>Medande so hadde han, Reklet, stroket Hatten av Hovudet og sj&#x00F8;klat fram yver Golvet.</p>
+<p>Han Far var den, som fyrst fekk Maalet upp; &#x00AB;Kvar er denne Karen ifraa daa?&#x00BB; spurde han.</p>
+<p>Men der var inkje Meining skapad i det, som Sp&#x00F8;kjelse svarad, det leet som berre &#x00AB;viski vaski ruski raski&#x00BB;, altsaman. Og so log han og riste paa Hovudet og bar seg, so eg inkje kunde halda meg fraa aa l&#x00E6;, endaa saa r&#x00E6;dd som eg var.</p>
+<p>&#x00AB;Aa snakka dit Morsmaal, Kar, og statt inkje so og skapa deg!&#x00BB; meinte han Salamon.</p>
+<p>Men Fanten leest aldri h&#x00F8;yra, han, gjeng fyrst burt og glytter inn i Kleven, snur seg so mot Nystova, der han gjeng inn, med det stora gule Ubeistet labbande etter seg.</p>
+<p>&#x00AB;Kva hinn er daa detta for noko,&#x00BB; foor no <pb n="60"/>han Far upp, greip til Sida der Kniven hekk, og steig fram fraa Bordet.</p>
+<p>&#x00AB;Aa Gud betre meg, no skal du sjaa, han stel Sylvskeiderna mina!&#x00BB; tutrad ho Mor.</p>
+<p>Men daa kjem Villtysket i det sama inn atr, dreg upp Setlaboki si og legg ein Tidalarsetel burt i Vindaugat framfyre honom Far. Og so peikad han mot Nystova og nikkad og log atr, so det var inkje anna aa tru, en han maatte vera komen beint fraa Galehuset.</p>
+<p>Samstundes kj&#x00F8;yrde der ei Kjerra upp fyre Dyri, og han Lars Haugen, Skjussmannen nedre i Dalen, steig inn.</p>
+<p>&#x00AB;Gudag i Huset og takk for sidst!&#x00BB; helsad han. &#x00AB;Eg ser, Fanten er alt fyrekomen,&#x00BB; sa han; &#x00AB;han kluftad ifraa meg nedre i Bakkarne, daa eg peikad, det var hit, me skulde.&#x00BB;</p>
+<p>Gudag og sj&#x00F8;lv takk for sidst!&#x00BB; sa han Far. &#x00AB;Men er det du, Lars, som er ute og fer med Jolebukk no ved Jonsoktider?&#x00BB;</p>
+<p>&#x00AB;Ja, du maa so segja,&#x00BB; svarad han Lars. &#x00AB;Skr&#x00E6;mde han inkje mest Vitet av baade Kjering og Born heima hjaa meg, daa han kom der i Dag med Skrubben sin! &#x2013; Han hadde med seg Brev til meg fraa Futen Thorsen paa Eide. Futen skriv, det er ein Engelsmann, som skal vera her Sumaren frametter aa fljuga um i Fjelli, kva hinn <pb n="61"/>no det skal vera godt for! So bed han meg finna honom Husrom, og so tenkte eg, kanhenda du, Torstein, kunde hava Raad med di. &#x2013; Pengar hev han flust av, skriv Futen, so du f&#x00E6;r deg godt bitalad.&#x00BB;</p>
+<p>Ho Mor var no inkje vidare modad paa hava korkje Fanten eldr Skrubben hans i Husi sine. Men kor som var, so vart det no so paa Resten, dei skulde faa Lov til aa vera. &#x00AB;Pengar er Pengar, og tent er tent,&#x00BB; sa han Far, &#x2013; han hadde det Ordt&#x00F8;ket.</p>
+<p>Og soleis gjekk det til, at &#x00AB;Mester Johnson&#x00BB;, som Engelsmannen namngav seg, eldr &#x00AB;Meistaren&#x00BB;, som han snart vart heitande i Bygdi, kom til aa bu i Nystova, baade han og Hunden hans. &#x2013; For det varad no inkje lenge, fyrr eg forstod so mykje, at Beistet likev&#x00E6;l berre var ein Hund, og det endaa ein snild Hund, som inkje baud paa vera nokon til Meinka.</p>
+</div>
+<div type="chapter" subtype="uchapter">
+<head>III.</head>
+<p>Men den Hunden, det var han Hall, som eg talad um, &#x00AB;Master Hall&#x00BB;, som Husbonden hans jamt kallad honom.</p>
+<p>Ja, det var mykje til Greidor med den velsigna Hunden. Eg kann just inkje segja, ho Mor <pb n="62"/>vart vidare blid, daa ho saag, Engelsmannen gav honom av den beste Mat paa Bordet fanst, og leet honom eta or ein av hennar finaste Talkar. Men daa han so tok det gildaste T&#x00E6;pet hennar, ei Brudargaava fraa Mor si eigi Syster, og leet Hunden reida seg Bol paa, gjorde ho baade greet og leet, og det var ikkje meir eldr so, Mester Johnson vann b&#x00F8;ta Skaden med ein Femdalarslapp.</p>
+<p>Han Passupp vart noko som ein avsett Lensmansdreng han, Stakkar, fraa den Tidi han Hall kom i Huset. Det var med Naudi, han endr og daa vaagad seg inn i Stova til aa faa Maten sin, so trygg og heimakomen han der hadde voret; og aldri fyrr fekk han Auga paa den gule engelske Storkaren, som truleg var altfor storlaaten til aa bry seg vidare um <emph>honom</emph>, fyrr han kr&#x00F8;kte Rygg og piltad smaaknurrande burtetter med Rova millom Bakfoto.</p>
+<p>Me hadde i fyrstunne ottast mykje for, det vilde verta so paa Lag umogelegt for Engelsmannen og oss aa skyna kvarandre. Men det gjekk inkje so illa med detta endaa. Det var reint utrulegt, som han vann greida seg med Fakter og Minor, og som det leid, kom han no etter mangt av Maalet vaart og.</p>
+<p>Han var i det heila ein snild og godlynd Mann, denne Mester Johnson, endaa so vimen <pb n="63"/>han var. For Maken til Skruve skulde du aldri hava seet, naar Ridi kom paa honom; han kunde bera seg daa, som var han rispande galen og v&#x00E6;l so det. Soleine andre Sundagen etter han var komen. Dreg han so paa seg Sundagsbunaden, som endaane hekk etter honom Godfar, og gjev seg, Gud forsyne meg, paa Kyrkjeveg i Raudluva, kvit gr&#x00F8;nkantad Vampe, raud Vest, gul Skinnbrok og sylvspennde Sko, jamvel med Piggstaven hans Godfar i Handi.</p>
+<p>Det var v&#x00E6;l Bisning paa Kyrkjebakken, skulde eg tru, daa han soleine budd, h&#x00F8;g og stiv, steig fram millom Aalmugen.</p>
+<p>Ein Dag hadde han voret ute paa Veiding, men inkje funnet Livande aa l&#x00F8;ysa Skot paa. Kom han so paa Heimvegen nedre i Lidi frampaa den staute Gjeldbukken hans Ola, Lausekaren vaar. Og dermed so klembde Mester Johnson til, han, og skaut, so Bukkan trillad daud nedetter. &#x2013; Aa ja, inkje for di, at han Ola tapte paa det, Bukken vart nog b&#x00F8;tt, skulde eg meina.</p>
+<p>Eg gl&#x00F8;ymer aldri eit Spikk han gjorde, daa eg eingong ein solvarm Sumardag var med honom uppe i St&#x00F8;lsfjellet. Best som det var, raakar me der frampaa ein gamall Tatarfant som kom raklande hitetter med Sekken paa Ryggen. Fantakroken bad um Tobak, han, og det fekk han, og <pb n="64"/>endaa ein dugeleg Dram attaat. Han var inkje so spar paa sovoret, Mester Johnson. Men kor det no bar til, nog er det, han fann paa taka upp tvo, eldr det var tri, Dalarsetlar, som han baud Gamlen, um han vilde dansa spildrande naken paa ein Snjofonn der laag. &#x2013; Og Tatarfanten so gjorde, han, kastad av seg Fillorna sina og hoppad og krukte seg ei Stund, so godt han kunde, Stakkar, med Snjoen under dei berre F&#x00F8;trne sine; medan stod Engelsmannen, so aalvorsam som han var i Kyrkja, og ritad honom av i Boki si.</p>
+<p>Eg kom snart til aa verta som ein Tenar eldr ei Fullmegt hjaa Mester Johnson, eg. Eg sprang &#x00C6;render for honom, gjekk paa Posthuset og so burtetter; fylgde honom gjorde eg og som tidaste.</p>
+<p>Og inkje at eg skulde have Meinlika for det, trur eg! Pengar fekk eg av honom rett so det var, Bil&#x00E6;te og god Mat og, so det var reint H&#x00F8;gtid for meg no frametter.</p>
+<p>Det var ingjen Faare, um han Far baud paa smyrja meg upp heldr, naar Engelsmannen var heima; eg flaug berre uti til honom daa, og sa var eg bergad.</p>
+<p>Mest til kvar einaste Dag var Mester Johnson ute og flaug og kleiv i Berg og Nutar. Og der er no endaa N&#x00F8;gdi av sovoret heima, skulde eg tru; <pb n="65"/>ein skal hava vondt for aa sjaa so ville og sunderrivne Fjell som der. Og jammen var han mykje verre en den verste Berggeiti. Det var reint umogelegt tru det farande for Folkefot der <emph>han</emph> kl&#x00F8;dde seg fram. Han saag inkje Faaren fyre seg, kor det saag ut.</p>
+<p>&#x00AB;Aa ja, han gjev seg inkje, fyrr han f&#x00E6;r sleget seg ihel,&#x00BB; sa Folk i Grendi.</p>
+<p>No var eg, um eg sj&#x00F8;lv skal segja det, ein rask, ur&#x00E6;dd Gut, nokolunde kjend var eg og der i Heimfjelli, der eg hadde faret um etter Sauder og Geitr eldr etter Kraakegull og Siseljerot baade tidt og traatt; so Engelsmannen jamnaste inkje brydde seg um hava nokon annan med seg en meg.</p>
+<p>Men det stod hardt, fyrr eg fekk Lov av henne Mor til aa vera med paa dessa agalausa Ferderna. Eg maatte lova, baade med Hand og Munn, eg skulde sjaa meg v&#x00E6;l fyre, og inkje ganga etter der det var faarlegt.</p>
+<p>Og Mester Johnson var sv&#x00E6;rt so r&#x00E6;dd um meg, han og, soleine. Bar det paa Livet laust, fekk eg aldri Lov vera med, men maatte vera att einkvar Staden med Hunden og Nisteskreppa. Det kunde daa vara mest heile Dagen, fyrr me saag likt til honom attr.</p>
+<p>I dessa Stunderna var det, den trufaste Vinskapen millom meg og honom Hall kom upp.</p>
+<p><pb n="66"/>Me laag no aa skjeglad heldr framand til kvarandre, fyrstundes; men daa me vel baade tvo fann detta hardla stusslegt i Lengdi, maatte me noko finna paa, vilde me faa Tidi til ganga.</p>
+<p>Og endaa so vyrdsam og gamalklok i all si Ferd Hunden var, naar Husbonden var tilstadar, vart det snart ingen Ende paa alt det l&#x00F8;glega, han kunde hitta paa, naar me var paa Tvomannshand soleine. Han bykste g&#x00F8;yande etter dei Steinar og Paakar eg kastad, flaug endr og daa uppetter meg, lagde Labbarne paa Akslerna mina, og so bar det i Tak med oss, so me rullad Koll i Koll burtetter. &#x2013; Men vaar beste Moro hadde me av aa grava etter Mysr og Lemende under Steinar og Tubbor, so berre Moldspruten stod.</p>
+<p>Det var no og reint makalaust til Vit der sat i den Hundehausen. Ei Gong me var uppe i Fjellet ei Mils Veg heimanifraa, batt Engelsmannen Reiseflaska si, med ein liten Setel attved, um Halsen paa Hunden, og bad honom ganga. Eg trur inkje det varad yver ein Times Tid, fyrr han var der attr, med Flaska full av Viin og med Namnet hans Far paa Setelen.</p>
+<p>Mester Johnson fortalde endaa, so vidt eg vann skyna honom, han eigong i Engeland fekk &#x00AB;Master Hall&#x00BB; til aa symja med den eine Enden av eit Reip i Kjeften ut til ein Mann, som laag <pb n="67"/>og baskad i Elvi og heldt paa aa bliva. Og Mannen vardt bergad han soleine, h&#x00F8;yrdest det ut til.</p>
+</div>
+<div type="chapter" subtype="uchapter">
+<head>IV.</head>
+<p>Ja, det var hugnarsame Dagar, desse. Det var berre Synd, dei skulde faa Slutt so braatt, og so paa slik ein uheppen Maate, som det dermed bar til.</p>
+<p>Der stend so paa Lag ein Fjordungs Veg nordanfyre Kvaale ein Nut dei kallar Jordbergnuten. Han er namngjeten vida, baade innan- og utanlands, denne Nuten. Men so er det no og ein Ovkar aa sjaa til. Han er yver sine fjore tusund Fot h&#x00F8;g, og sting ende i Vedret paa dei tri Sidorna, jamnlagd mest som han var hoggen; men uppe er han so fint svarvad, som det skulde vera ein Sukkertopp. Til den fjorde Kanten, der han heng saman med Fjelli innanfyre, er Floget korkje so h&#x00F8;gt eldr so bratt, og upp der er det ingen vidare Vande naa Toppen.</p>
+<p>Midt uppe i Veggen, som snur ned mot Dalen, er der i denne Nuten eit trillande rundt stort Hol innigjenom Berget, og der, segjer Segni, held ein Drake Hus.</p>
+<p>So langt Folk kann minnast attende, hev <pb n="68"/>berre tvo Menne voret uppe i dette Holet, og det var endaa han Hans Kvaale, Farbror min, og so han Ola Teigen, Sonen paa Grannagarden. Dei kom ifraa det med Livet, baade tvo; men han Farbror sa ofta det, at so r&#x00E6;dd som den Gongi hadde han aldri voret, korkje fyrr eldr sidan. Og han meinte paa di, det hadde fulla gjenget dei verre enn illa, um han inkje i versta Naudi paa Nedvegen hadde lovat tvo Geitaprimostar og ein Saudaskrott til dei fatike, sosannt Vaarherre leet dei koma heilskapa ned attr.</p>
+<p>Um Drakahidet kunde han ikkje st&#x00F8;rre segja, en at det saag ut til aa ganga myrka Berget stadbeint innigjenom; men daa dei inkje hadde Ljos med, torde dei inkje ganga lengr, enn dei hadde Ljosken av Dagsskimten.</p>
+<p>Detta Drakaholet i Jordbergnuten hadde Mester Johnson gjenget og teket Sikte paa, lika fraa han til Bygdi kom. Eigong pr&#x00F8;vde han paa ganga upp der han Farbror og Teigsguten hadde gjenget. Men der laut han snu paa halv Veg; for ei Steinskrida hadde Aaret framfyreaat teket med seg alt, som til Fodfeste brukande var.</p>
+<p>So var det daa at Ulukka vilde, han skulde faa Auga paa ei smal Skor, som dreg seg som ein myrk Traad upp og fram tvers yver den Nutveggen, som vender mot Hallvardsreppen, og endaa <pb n="69"/>heilt um paa den andra Sida, burtimod der Drakaholet er.</p>
+<p>Men midt under denna Tverskori, djupt, djupt nedre, er det &#x00AB;Helvite&#x00BB; ligg, &#x2013; for det er Namnet, me der heima hev paa det tronge, forf&#x00E6;lande Braadjupet millom Jordbergnuten i Nord og Teigsstupet i Sud.</p>
+<p>Og Namnet kann for so vidt h&#x00F8;va og, som der i Manns Minne er faret baade Folk og Fe derned, men endaane inkje Beinet komet fram attr i Dagsens Ljos, mindr det daa skulde vera, at Jordbergelvi, som fysser derigjenom, bar einkvar Molen ut med seg i det vaata Fanget sitt.</p>
+<p>Burtetter denna Skori var det, Engelsmannen so hadde sett seg i Hausen aa naa fram til Holet. Han laag i samfulle tvo Dagar keik i Kikaren sin framfyreaat, til aa merkja seg ut Vegen, han hadde aa ganga.</p>
+<p>&#x00AB;Bed deg Gud til Hjelp, og vis den freistande Fan fraa deg, Menneskje!&#x00BB; sa han Far. &#x00AB;Men hev han so stor Magt yver deg, at du sittupp lyt gjera av med deg, so gakk heldr stad byks utfyre med sama.&#x00BB;</p>
+<p>Men Engelsmannen vilde det han vilde, han; og ein speglande fin Morgon, tvo Maanar paa Lag etter han var hitkomen, tok me iveg.</p>
+<p><pb n="70"/>Eg og Hunden fylgde so langt som fram paa Teigstupet; der skulde me vera att, me.</p>
+<p>Men var det inkje plent, som Hunden skulde hava ottast for ei Ulukka! Han plagad no alltid roa seg hjaa meg; men den Dagen vilde han inkje slaa seg tiltols. Han kraup burt til F&#x00F8;trne aat Husbonden sin, dillad med Rova, saag upp paa honom og kvein, so det var reint gr&#x00F8;telegt; der maatte endaa mynduge Ord til, fyrr han vilde lita.</p>
+<p>So gjekk Mester Johnson upp um Fossen og yver Brui, han, startad seg uppetter Berget, til han naadde Tverskori, og tok so paa f&#x00F8;ta seg tverbergs hitetter Nuten.</p>
+<p>Fyrstundes gekk det so radt, ein berre kunde ynskja. Men etter lengr han kom fram og upp, var det likt til, at Skori vart smalere og verre aa ganga.</p>
+<p>Smaatt um senn hadde han likavel rokket so langt, at det berre var Glapet, so paa Lag eit Byrseskot breidt, beint yver millom honom og oss, so eg saag honom naudande v&#x00E6;l og kunde fylgja med Augo kvart Stiget han tok.</p>
+<p>Hunden sat og stirde, so Augo i honom glimde som berre Gl&#x00F8;dr, og gav seg illa gjorde han, rett som det var. Eg for meg kann segja, eg var so paa Livet, at eg knapt torde anda.</p>
+<p><pb n="71"/>Der var ein liten Bergknatt, Engelsmannen laut framum, som saag ut til aa vera honom mykje til Meins. Han freistad baade ei og tvo Gonger, men laut jamt draga Foten til seg attr. &#x2013; Eg vart glad, daa eg saag, han gjekk nokre Fet attende. &#x00AB;Gudskjelov, no skal du sjaa han snur!&#x00BB; tenkte eg. Men det vart inkje noko av med sovoret, inkje; han stod berre eit litet Bil og kvilte seg, liksom, gjekk so i Veg aa nyo. Han trivlad etter Tak uppetter og nedetter Knausen, leitad med Taatippen etter Fotafeste, og Tume for Tume hadde han soleine dreget seg fram, so eg alt trudde honom yver det versta der.</p>
+<p>Daa med eit ramlad han laus, tok fyrst inn paa Fjellet tett nedanfyre, gjorde eit Par Kast i Lufti, og so stupte han med Hovudet fyre og Armarne vidt utslegne lika lukt ned i myrka Djupni.</p>
+<p>Eg minnest som i ein Draum, at eg h&#x00F8;yrde eit skr&#x00E6;melegt Yl innved meg; so hugsar eg inkje vidare, fyrr eg kom sendande heim paa Slaatteteigen og skreik, at Engelsmannen var faren utfyre.</p>
+<p>&#x00AB;Gud tr&#x00F8;yste meg, kva er det du segjer!&#x00BB; ropad ho Mor, og leet Grasfanget detta.</p>
+<p>&#x00AB;Kvar helst, Gut?&#x00BB; spurde han Far hardt.</p>
+<p>&#x00AB;Aa.. han.. han.. datt i Helvite!&#x00BB; tutad og hikkad eg.</p>
+<p><pb n="72"/>&#x00AB;Ja, so f&#x00E6;r han nog i Guds Namn vera der og daa, sovisst som Mannemagt er faafengd&#x00BB;, sa han Far med dirrande M&#x00E6;le. &#x00AB;Eg kunde tenkja, det var noko, han balad etter.&#x00BB;</p>
+<p>Han og han Salamon treiv kvar sitt Reip, og burtetter bar det, endaa me altfor v&#x00E6;l maatte vita, der inkje var tenkjande paa Berging eigong. &#x2013; Det einaste Minne um Mester Johnson, me der burte saag, var Hunden hans.</p>
+<p>Ja, han Hall, Stakkar! han var reint som ifraa seg, han. G&#x00F8;yande og ylande flaug han attr og fram nedre paa Stupet, gjorde endr og Gong i tanande Laup ein Snert upp um Brui, og so attende. Paa Seinsten drog han seg fram paa Floget, nedfyre der me fyrr hadde setet, so langt som berre han koma kunde, og laag so og stirde enda ned fyre seg i det gapande Sluket. Det var inkje Raad faa honom der ifraa, med alt det me lokkad. &#x2013; Ut paa Kveldkanten gjekk eg dit burt med litevetta Mat; men han vilde inkje smaka Biten.</p>
+<p>Han vart verande der ved den djupa Gravi aat Husbonden i samfelde tri D&#x00F8;gr, og Kveldarne utyver kunde me endaa lika heim til Kvaale h&#x00F8;yra Omen millom Fjelli av dei uhugnarslege Yli, han stundom sette i.</p>
+<p>Men tridje Dagen, daa eg fram paa Eftansida <pb n="73"/>kom og kallad paa honom, kraup han seg endeleg frametter til meg, merkt soleis av den vonlausa Sorgi, at eg, hugsjuk som eg sj&#x00F8;lv var i mitt mjuka Barnahjarta, slog Armarne um honom og greet, som eg skulde vera dengd.</p>
+<p>Fraa den Stundi av heelt han seg til meg med ein Truskap, som var reint vedkj&#x00F8;meleg. Det var, som han visste, han no inkje hadde nokon annan en meg, som brydde seg um honom.</p>
+<p>Han fylgde med heim.<note type="footnote">sv&#x00E6;rt uklar "i" i <hi rend="italic">heim</hi></note> &#x2013; Daa me kom inn i Stova, var det som han livnad upp; han flaug mot Nystovedyri, g&#x00F8;ydde og gnistrad, og gav seg inkje fyrr han slapp uti. Han snusad og leitad Romet rundt fleira Gonger. Dermed var det likasom han seig i Hop attr, og so gjekk han sin Veg. &#x2013; Sidan baud han aldri paa koma uti Nystova meir.</p>
+<p>... &#x00AB;Nei men so gjev daa Stakkars Dyret noko aa liva av!&#x00BB; sagde eg.</p>
+<p>&#x00AB;So laga til Graut og Mj&#x00F8;lk aat honom i Koppen hans Passupp, du!&#x00BB; svarad han Far.</p>
+<p>&#x00AB;Men... eg er r&#x00E6;dd, han inkje vil hava det!&#x00BB;</p>
+<p>&#x00AB;Jaja, so f&#x00E6;r han eta den Maten, han sj&#x00F8;lv hev daa,&#x00BB; meinte Gamlen. &#x00AB;Der vert inkje gjort st&#x00F8;rre Krus med honom heretter. Men er han svolten, gjeng det nog ned.&#x00BB;</p>
+<p>Mj&#x00F8;lki var sur som Brim, og den sleipe Kop<pb n="74"/>pen luktad verre en illa. Inkje fyrr hadde Hunden snusat til det, fyrr han snudde seg ifraa, og saag upp paa meg med eit Augnalag, som vilde han spyrja, um det kunde vara Meiningi mi, han skulde eta so ufysen Mat. Han var inkje van med sovoret, han, skulde eg tru, og Vanen er vond aa venda for baade Folk og Fe. &#x2013; Men eg hadde inkje betre aa bjoda, eg, raadlaus, som eg stod, med Graaten i Halsen. &#x2013; Endeleg pr&#x00F8;vde han med eit Par Bitar, gjekk deretter burt og ringlad seg i Hop paa Golvet ved Peisen. &#x2013; Det vart Brorsparten av min eigen Sm&#x00F8;rkling, som gjekk i honom, daa fyrst han Far v&#x00E6;l var ute av Stova.</p>
+<p>Det vart mi st&#x00F8;rsta Umsut i dei fjora, fem Vikorna, som no gjekk, detta aa finna honom Hall Mat. Sj&#x00F8;lv skiftad eg no altid trufast med honom, jamv&#x00E6;l fekk eg no og tiggat laust eitkvart Kj&#x00F8;tbeinet, og daa han dertil, som det leid, laut venja seg taka til Takkar med Grauten, vart det endaa so han bergad seg.</p>
+<p>Men han var inkje lengr den staute, sj&#x00F8;lvbyrge Karen, han fyrr hadde voret. Han gjekk der og drog seg som ein Skugge, og leet seg lita med nokoson&#x00E6;r alt. Sneist etter vart han jamnan av dei vaksne der paa Garden; men han baud <pb n="75"/>aldri paa setja upp. Han smatt berre undan og heelt seg or Vegen, so godt det var gjerande.</p>
+<p>Sj&#x00F8;lv han Passupp, den Kr&#x00F8;kja, vart smaatt um senn so modug, at han vaagad seg til retta Rova i Vedret og bysta seg, naar han gjekk framum honom.</p>
+</div>
+<div type="chapter" subtype="uchapter">
+<head>V.</head>
+<p>Men so hev eg no aa fortelja, at um Uheppa med Mester Johnson vart der, same Dagen han var utfyrefaren, send Bod til Lensmannen, og ein Dag i Vika kom Stevnemennerne og skreiv upp alt som etter honom var.</p>
+<p>Ein Maanad paa Lag leid; so leet Lensmannen oss vita, at Eignarlutarne etter Engelsmannen, med Undantak av nokre B&#x00F8;ker og anna smaatt, som vart aa senda yver til Engeland, skulde seljast paa ein Auksjon, som komande Vika var tillyst heima paa Kvaale etter han gamle Hans Krokelid, Husmannen vaar hadde voret, men avliden Vaaren framiyreaat.</p>
+<p>&#x00AB;Du f&#x00E6;r kaupa Hunden, du Per, daa,&#x00BB; sa lian Salamon og log.</p>
+<p>&#x00AB;Det er daa inkje sannt, Far?&#x00BB; spurde eg handfallen.</p>
+<p>&#x00AB;Kva Slag?&#x00BB;</p>
+<p><pb n="76"/>&#x00AB;At han Hall skal seljast um Maandagen?&#x00BB;</p>
+<p>&#x00AB;Nei, du vilde kanhenda, me skulde hava honom gangande her paa Gjestabodskost lengr, du?&#x00BB; svarad han. &#x00AB;Eldr kanskje du trur, det svarar Rekning for Gj&#x00F8;dslehaugen si Skuld?&#x00BB; lagde han til og kaldflirte.</p>
+<p>Eg sn&#x00F8;ggad meg paa Dyri, so fort eg kunde. Arme Hall! korleis skulde det so verta med honom.</p>
+<p>Med Hovudet hans i Fanget mitt laag eg til fram imot Kvelden uppi i Urdi og grundad paa Raad. Eg kjende det, som det var ei heilag Plikt eg hadde paa meg, aa berga honom. Men kva kunde, kva skulde eg gripa til? Ei Ort og tvo og ein halv Skiling var alle dei Pengar eg aatte; og endaa sa han Salamon det, at Tvoskilingen igrunnen inkje var nokon Tvoskiling, men av ei utanlands Mynt, som inkje gjekk her hjaa oss.</p>
+<p>Og um eg no og fekk k&#x00F8;ypt Hunden for desse Pengarne, kva hadde eg so aa f&#x00F8;da honom med! &#x2013; Eg hadde aldri fyrr visst, kor vondt det er likav&#x00E6;l aa kjenna seg kj&#x00F8;vd av detta aa vera for liten og for magtlaus, so hugheil Viljen endaa kann vera.</p>
+<p>Det var inkje anna fyre, eg fekk freista med honom Far attr, so liti Von eg i Grunnen hadde, <pb n="77"/>og so r&#x00E6;dd eg og var hans kalde, bitande Spe. Eg lagad ihop ei heil liti Tala, eg vilde koma med. &#x2013; Og daa eg lagde meg um Kvelden, var det seinsta eg gjorde aa beda, so hjartaleg eg vann, til Vaarherre, at han maatte hjelpa meg; so skulde eg verta so snild Gut! &#x2013; aa, so snild, so snild!</p>
+<p>&#x00AB;Far!&#x00BB; sagde eg, so smeikjande eg kunde, daa eg Dagen etter kom ned paa Aakeren til honom.</p>
+<p>&#x00AB;No daa?&#x00BB;</p>
+<p>&#x00AB;Far... kunde inkje du k&#x00F8;ypa Hunden um Maandagen?&#x00BB;</p>
+<p>Han stod eit liti Bil og kaldgrein burt til meg, med eine Munnviki uppdregi.</p>
+<p>&#x00AB;Jau, eg skulde det! Det er inkje nog med det du sj&#x00F8;lv Aaret rundt kostar meg i F&#x00F8;da og Kl&#x00E6;de, eg skulde halda Hund aat deg og tykkjer du?&#x00BB;</p>
+<p>&#x00AB;Men... men... eg skulde vera so lydug... og so trottug til at arbeida,...!&#x00BB;</p>
+<p>&#x00AB;Eg raader deg til, du held upp med det Riktet, medan Tidi er god, Gut!&#x00BB; tok han i med eit Maalfelle som eg meir en v&#x00E6;l kjende.</p>
+<p>Inkje Ordet m&#x00E6;lte eg vidare, lab bad meg berre uppyver og heim.</p>
+<p>&#x2013; So var daa endeleg Maandagen komen <pb n="78"/>og med den Lensmannen, og av Bygdarfolk so mange at Stova var full mest.</p>
+<p>Han Hall stod banden etter eit Tog burte ved Omnen. &#x2013; Han let dei stella med seg som dei vilde, Armingen.</p>
+<p>Det varad til framyver Non, fyrr det vart uppropat, det, som etter Engelsmannen var. Byrsa vart seld, so Kl&#x00E6;desploggi og dei tvo Kistorna.</p>
+<p>&#x00AB;Ja&#x00BB;, ropad Lensmannen endeleg, &#x00AB;so hev me her ein Hund, som endaa til kann ganga for baade Bamse og Skrubb. &#x2013; Gjer Bod!&#x00BB;</p>
+<p>&#x00AB;Ei Ort for Skinnet til Styvels-Leggjer!&#x00BB; skreik han Lars Lunde.</p>
+<p>Eg kjende, der eg stod, kvart Ordet stinga meg i Hjartat, som det skulde vera Syls-Oddar.</p>
+<p>&#x00AB;Ei Ort er bodi! Ei Ort! &#x2013; Ingjen betre?</p>
+<p>... Ein halv Dalar daa, for baade Skinn og Skrov!&#x00BB;</p>
+<p>&#x00AB;Ja, daa maa Lensmannen v&#x00E6;l hava honom for meg!&#x00BB; tok han Lars Lunde frami.</p>
+<p>&#x00AB;Ein halv Dalar! Tridja og sidsta Gongi, ein halv Dalar! &#x2013; No sl&#x00E6;r eg!&#x00BB;</p>
+<p>&#x00AB;Ja, slaa du!&#x00BB; sa han Far.</p>
+<p>Og Lensmannen lyftad den litle Hamaren sin. &#x2013; Eg heelt det inkje ut inne lengr, eg skundad meg til Dyrar; men med sama eg foor yver Durstokken, fekk eg det gnella, kvassa Ljodet av <pb n="79"/>Hamarslaget etter meg. &#x2013; Eg tok Foten aat H&#x00F8;yl&#x00F8;da, kastad meg ned, reiv og sleit i H&#x00F8;yet, greet og skreik, bannad til, som eg no aldri var van, slikt at eg mest vart f&#x00E6;len for meg sj&#x00F8;lv. Eg var sinnad, so eg berre kokad, sinnad paa alle, paa Lensmannen, paa honom Far og... ja, eg totte no endaa, Vaarherre gjerna kunde hava voret meg noko litet til Hjelp, han, som hadde so godt for det.</p>
+<p>Daa leet Duren av ei Kjerra nedre paa Vegen. Eg keik ut gjenom eit Navarshol; &#x2013; og der k&#x00F8;yrde Lensmannen, med Hunden slunkande baketter Kjerra, bunden etter Toget til det eina Stoljarnet.</p>
+<p>Herregud, at han daa inkje, so sterk som han var, reiv seg laus, og beit og sleit dei sundr alle i Hop!</p>
+</div>
+<div type="chapter" subtype="uchapter">
+<head>VI.</head>
+<p>Men det varad inkje lengr enn godt og v&#x00E6;l Notti yver, fyrr eg hadde honom hjaa meg attr. Eg stod enddaa attum Stabburet og l&#x00F8;dde Staur um Morgonen, daa eg med eitt fekk sjaa honom koma langbyksande hitetter Storaakeren.</p>
+<p>Aa, du for Fagnad det vart! Eg trudde, Hunden skulde verta galen av berre Gleda, og <pb n="80"/>sj&#x00F8;lv var eg so fegen, eg baade hoppad og dansad med honom.</p>
+<p>So trugad eg honom til leggja seg, medan eg stillte meg inn paa Stabburet og stakk under Tr&#x00F8;ya den tjukkaste og feitaste Rullepylsa eg fann. Eg totte, han kunde trenga til ein Godbit no, Stakkar.</p>
+<p>Men daa var det, Ulukka lagad det slikt, at han Far gjekk framum, just som eg steig ut attr.</p>
+<p>&#x00AB;Kva hev du der inne aa gjera?&#x00BB;</p>
+<p>&#x00AB;Aa... eg... eg skulde berre inn... etter ein Spikar,&#x00BB; stamad eg, &#x2013; daa eg, med det sama hugsad paa, at Spikarkassen stod der inne.</p>
+<p>&#x00AB;Det er vel den Spikaren eg ser der under Tr&#x00F8;ya di daa, kanhenda?&#x00BB;</p>
+<p>Eg saag nedetter meg,... aa! der stakk den fille Rullepylsa fram nedanfyre Tr&#x00F8;yekanten! Eg vart so r&#x00E6;dd med sama, at eg sleppte henne, so ho rullad ned etter Staburstroppi og vart liggjande framfyre F&#x00F8;trne paa honom Far.</p>
+<p>&#x00AB;Kvar skulde du so slaa den Spikaren inn?&#x00BB; spurde han langt.</p>
+<p>Eg slapp for aa svara, med di at han Hall nettupp daa kom stingande fram med Novi.</p>
+<p>&#x00AB;Haa haa! eg kunde mest tenkja det!&#x00BB; tok han Far i, treiv ein Stein og grytte i Hunden, <pb n="81"/>so han ylande og hinkrande lagde i Laup upp etter Bakkarne.</p>
+<p>Og so vart eg gripen i Luggen og leidd burt i Vidhuset, der eg fekk slik Stryk, at eg var saar og striputt av det i fleire Dagar etter. &#x2013; Og so fekk eg, daa eg endeleg var sleppt, noko attaat, som sveid mykje lengr enn al Lyvjingi; og det var desse Ordi av honom Far: &#x00AB;Lat meg no berre raaka deg paa Tjovaveg oftare!&#x00BB;</p>
+<p>Fraa Lensmannen fekk me sidan h&#x00F8;yra, at Hunden hadde fylgt viljugt med heim, der det var Meiningi aa halda honom som Bandhund ute i Tunet. Men Morgonen etter hadde han sleget seg reint vill, rivet og slitet i Bandet til han kom laus; og burte var han.</p>
+<p>Kvar han no heelt til var vandt aa vita. Eg var tvo Gonger uppetter og leitad, men gjorde korkje saag eldr h&#x00F8;yrde til honom.</p>
+</div>
+<div type="chapter" subtype="uchapter">
+<head>VII.</head>
+<p>Me buf&#x00F8;rde heim fraa St&#x00F8;len paa denna Tidi, og Buskapen var slept i Heimamarki.</p>
+<p>Og no bar det so til, at Hunden, som det leid, meir og meir gjekk meg utor Tankar for ein annan Firf&#x00F8;ting si Skuld, &#x2013; eit Vedralamb, eg Vaaren framfyreaat hadde fenget av Gudmor <pb n="82"/>mi, ho gamla Ingjebj&#x00F8;rg Seim. &#x2013; Det hadde endaa misst Mor si, vesla Kreket, daa eg fekk det og ol det frametter, til det vart sleppt aat Fjellet.</p>
+<p>Det var mykje som vesle Votten hadde komet seg um Sumaren. Var han inkje vorten slik ein Lubbe, at det var reint morosamt aa sjaa! Og tvo smaae Nubbar til Horn hadde han fenget seg uppe i Skolten, der det berre hadde voret som tvo Ertr aa kjenna um Vaaren.</p>
+<p>Og so kj&#x00E6;len og kynd som han var daa! Det varad inkje mange Dagarne, fyrr Kjennskapen vaar var den gamle gode; berre han saag meg, kom han kinkande seg, dillad med vesle Sp&#x00E6;len sin og kravde etter einkvar Godbiten.</p>
+<p>&#x2013; Det leet so, det var nog allt anna en tryggt for Udyr uppe i Marki den Hausten. Fraa Grannagrendi fekk me soleis h&#x00F8;yra, dei hadde funnet tvau Lomb og ei vaksi Geit sundrivne og halvt uppetne seinsta Vika.</p>
+<p>Eg vart illehugad for Lambungen min, strakst eg fekk vita detta, so mykje meir som han gjerna hadde for Vane, so som Ale-Lomb plagar, aa halda seg for seg sj&#x00F8;lv noko ute fraa Dotten; eg lo vad meg paa, at Dagen etter skulde han verta innsett.</p>
+<p>Og eg hadde kje ottast for inkje noko; for endaa same Kvelden fram imot Myrkningi kom Saudaflokken setjande heim i slik ei vitlaus <pb n="83"/>R&#x00E6;dsla, som han skulde vera skr&#x00E6;md av Bamsen sj&#x00F8;lv.</p>
+<p>Men vesle Vederen min var inkje med.</p>
+<p>Eg gjekk med bivrande Hjarta og leitad Dotten yver tridja Gongi, daa han Ola, Lausekaren, som hadde voret uppe i Marki og hoggat Famnaved um Dagen, kom kluftande nedetter, med Augo i Haargarden.</p>
+<p>&#x00AB;Jau,&#x00BB; skreik han, &#x00AB;no hev eg daa endeleg fenget Syn for, kva Udyr det er! Er det inkje denne Helvites Hunden etter Engelsmannen kanskje!&#x00BB;</p>
+<p>&#x00AB;Han Hall? &#x2013; Det er daa inkje Raad!&#x00BB;</p>
+<p>&#x00AB;Ja ja, gakk berre upp under Kvitaberg, du, Far min, so f&#x00E6;r du sjaa! Vil du finna Lambet ditt, so ligg det der, so daudt det verta kann, og so sundrivet, at det er gr&#x00F8;telegt! &#x2013; Det var inkje meir en som so, han vilde ryma for &#x00D8;ksi, Trollet, som han stod der yver det og grein mot meg, daa eg kom springande til!&#x00BB;</p>
+<p>Det Ubeistet. Aa det Ubeistet! &#x2013;Aa Lambet mitt! &#x2013; det einaste Lambet mitt!</p>
+<p>&#x00AB;Jagu fekk du Takk for Umaken, du Per og no!&#x00BB; flirte han Salamon.</p>
+<p>&#x2013; Eg var inkje lenge um faa paa meg Helgarploggi mine um Morgonen, daa eg vart <pb n="84"/>paalagd ganga til Lensmannen for aa beda honom koma gjera ei Greida med Hunden sin.</p>
+<p>Men det tregad meg harmeleg aa sjaa, kor skalkutt han Far kneip Leparne i Hop, daa han saag, kor annsamt eg hadde det med aa koma av Garde. &#x2013; Nei, aa nei, for ein Tull, for ein Tull eg hadde voret!</p>
+<p>Lensmannen bannad, so det berre gneistad um honom, daa eg hadde boret Bodi fram; for det vilde kor som var verta hans Sak aa b&#x00F8;ta Skaden.</p>
+<p>Tidleg Dagen etter kom han k&#x00F8;yrande, og han og han Salamon og tri andre Karar, med kvar si Rifla paa Oksli og med fjore Hundar i Fylgje, tok til Skogs.</p>
+<p>Utpaa Kvelden kom dei heimattr til Kvaale.</p>
+<p>Dei kunde segja ifraa, at Hundarne seint um sidar hadde fenget Teven av R&#x00F8;varen &#x00F8;vst uppe i Lundaleinerna og jagat honom fram. Men han Frigar hans Ola Teigen, som vaagad seg for langt innpaa, vart liggjande att, med uppriven Mage.</p>
+<p>Sidan hadde han Hall &#x2013; saarad, som dei trudde, av eikvor av dei fem Kulorna dei sende honom &#x2013; teket Laupet inn imillom ville Fjelli, burtetter Sygnaleidi, og det gjorde baade varad og rokk, fyrr dei andre Hundarne kom tilbaka.</p>
+<p>Ja ja, han hadde inkje fortent det betr heldr! <pb n="85"/>&#x2013; Men var det kje endaa so eg inkje var god for lata vera hava vondt av honom likav&#x00E6;l, Tjonet!</p>
+<p>Sidan um Hausten var det inkje merkjande til anna, en at Kreturi fekk ganga i god Fred for Udyr. &#x2013; Og Hunden vart korkje h&#x00F8;yrd eldr spurd, so vissa laag han longo daud einkvar Staden uppe millom Knausarne.</p>
+</div>
+<div type="chapter" subtype="uchapter">
+<head>VIII.</head>
+<p>Det var mykje til fina milda Haustvedr me fekk det Aaret. Geitrna bergad seg sj&#x00F8;lve ute til fram i Desember, og Sauderne med, naar eg gav dei litevetta Morgon og Kveld. &#x2013; Ho gamla Sigrid Krokelid sa, ho inkje slik Haust kunde minnast, sidan den Gongi han Hans braut Beinet sit i L&#x00F8;nskleivi, og det var tvau Aar fyrr han Sjur Son deira kom til; men han Sjur var no innpaa dei tvau Tjug, inkje rettare ho hugsad.</p>
+<p>So endeleg ein Dag, paa Lag tri Vikor fyre Jol, fekk me tjukkt Snjovedr, og um Morgon var det strjukande Ondraf&#x00F8;re.</p>
+<p>Den som var glad var eg. Ondrarne mine hekk alt longo med sine nye Fotbond ferdige paa Nabben sin attum Smidje-Ramen. Eg hadde aldri fyrr fenget Bisken i meg, fyrr eg vassad i Veg <pb n="86"/>uppyver etter dei; &#x2013; for Smidja heima ligg, som Skikken gjerna er, eit Stykkje fraa dei andre Husi, for Eldsfaaren si Skuld.</p>
+<p>Eg hadde alt fenget F&#x00F8;trne i Bondi og skulde til sleppa laust nedetter, daa eg fekk h&#x00F8;yra noko likasom gnistrad og jamrad seg burte i ein Bordhaug der laag.</p>
+<p>Eg vart undren yver detta, steig av og gjekk burtaat og vilde sjaa, kva det no kunde vera Uhh! so eg kvakk nied sama!... Men... var det Raad?... jau, det kunde... inkje anna vera, det maatte vera han Hall, som laag der!</p>
+<p>Men nei, aa nei, som han saag ut! Han kunde inkje eigong segjast vera Skinn og Bein. At Beini var der, var vandalaust aa sjaa, det var inkje so, at Kj&#x00F8;tet var til Hinders; men Skinnet, det var Skurva i Skurva og Saar i Saar yver heile hans Kropp, slikt eg ofta hadde seet det paa Sauder, som hadde gjenget for lenge ute og froset og svoltet haustadags.</p>
+<p>Men i same Blinken var alt, eg imot honom hadde, gl&#x00F8;ymt, som det aldri skulde hava voret. Han var attr berre den ulukkelege Venen min, som eg var reidug taka meg av, alt det eg evlad.</p>
+<p>Eg passad paa, som eg ingen saag ute i Tunet, aa faa honom inn i Smidja; men han var so utarm, det inkje var meir en som so, han <pb n="87"/>vann kreka seg etter meg. &#x2013; Yver ein Aas hekk det ein gamall Skinnfeld; den breidde eg under Smidjebenken og leet honom leggja seg paa.</p>
+<p>Og so &#x2013; ja eg fekk vaaga det, endaa Hjartat hamrad styggt i Bringa mi &#x2013; paa Staburet attr etter ei Rullepylsa. Og eg slapp snikkalaust fraa det og, denna Gongi. &#x2013; Baketter stillte eg meg jamv&#x00E6;l inn i Fjoset og mjolkad full ei stor Svinablaasa, som eg sidan t&#x00F8;mde i ein Tresko uppe i Smidja.</p>
+<p>Han fille Passup kom rennande uppetter ut paa Dagen, g&#x00F8;ydde og brukad Kjeft, alt det han orkad; men jammen fekk han Skjuss nedattr, so han inkje baud paa det meir!</p>
+<p>&#x00AB;Nei, kva er det daa du Per hev det so annsamt med uppe i Smidja idag?&#x00BB; spurde han Far.</p>
+<p>Jau... det var daa ein Kjelke, eg skulde gjera meg. &#x2013; Og so hamrad eg innimillom laust paa baade det eine og andra deruppe, so dei skulde tru, det var Arbeide eg hadde fyre meg.</p>
+<p>Eg torde inkje tenkja paa, korleine detta i Lengdi vilde ganga; eg fekk lata kvar Stund syta for seg, at eg inkje reint skulde missa Motet.</p>
+<p>Det gjekk no alt baade godt og v&#x00E6;l den Dagen til Endes. &#x2013; Morgonen etter, daa eg attr, med ein Fleskebit i Lumma, steig inn i Smidja, fann eg Hunden i god Ro paa same Staden.</p>
+<p><pb n="88"/>Nei, so glad han vart, daa han fekk sjaa meg, smaakvein og veiftad med Rova, og so blidt som han saag paa meg med dei v&#x00E6;ne brune Augo sine, som no heelt paa faa Liv og Eld attr; det var merkjande, han alt hadde komet seg mykje.</p>
+<p>Jamv&#x00E6;l den Dagen frametter bergad me oss fint. &#x2013; Det tok alt til aa dimmast av Kvelden so smaatt, og eg sat nettupp nedre i Stova og fekk meg Nonsmaten min.</p>
+<p>Men daa vart det, at ho Olina kom farande hovudstupa inn og skreik, at den Vonde sj&#x00F8;lv var uppe i Smidja. &#x2013; Det var, som eg hadde fenget ei kald Vassbytta yver meg med sama. &#x2013;</p>
+<p>&#x00AB;Aa T&#x00F8;v!&#x00BB; meinte han Far</p>
+<p>&#x00AB;Aa jau, jau!&#x00BB; &#x2013; tutad ho &#x2013; det var so sannt, so sannt, som ho stod der ein Syndar! Ho skulde upp i Smidja etter Is-&#x00D8;ksi, og sat han ikkje so der under Smidjebenken og glodde paa henne med tvau Augo so store som Talkar, so vilde ho ynskja, ho inkje kom livande av Flekken!</p>
+<p>&#x00AB;Ja so!&#x00BB; sa han Far turrt og gjekk til Dyrar.</p>
+<p>Fram foor eg ifraa Bordet, framum honom ute i Gangen, og so upp, smelte halvopna Smidjedyri i.</p>
+<p>&#x00AB;Du kjem inkje inn! Du kjem inkje inn!&#x00BB; skreik eg honom imote.</p>
+<p><pb n="89"/>&#x00AB;Er du galen, Gut!&#x00BB; sagde han, treiv meg i Armen, kastad meg til Sida og gjekk paa.</p>
+<p>Men aldri fyrr fekk han Dyrglytten upp, fyrr Hunden innanfyre sette i med ei forf&#x00E6;lande G&#x00F8;ying og kom dundrande mot Dyri, just som han Far sn&#x00F8;ggad seg slaa henne i attr.</p>
+<p>&#x00AB;Menn... kva hinn!... det er daa vel aldri...!&#x00BB;</p>
+<p>&#x00AB;Aa jau, jau!&#x00BB; skreik eg, &#x00AB;det er han Hall! &#x2013; Men du <emph>maa</emph> ikkje gjera honom noko! &#x2013; kj&#x00E6;re Far, du <emph>maa</emph> ikkje...!&#x00BB;</p>
+<p>&#x00AB;Salamon!&#x00BB; ropad han; &#x00AB;Salamon!&#x00BB;</p>
+<p>&#x00AB;Jau!&#x00BB; svarad han Salamon nedre i Stalldyri.</p>
+<p>&#x00AB;Hev du Byrsa di ladd?&#x00BB;</p>
+<p>&#x00AB;Ja!&#x00BB;</p>
+<p>&#x00AB;So kom med henne daa! &#x2013; og det paa fljugande Flekken!&#x00BB;</p>
+<p>Og so kom han Salamon byksande med Rifla si i Handi.</p>
+<p>&#x00AB;Kva er tiss?&#x00BB;</p>
+<p>&#x00AB;Aa, gakk berre upp tak Luka fraa Smidjegluggen, saa f&#x00E6;r du sjaa!&#x00BB; sa han Far.</p>
+<p>&#x00AB;Ja du kann berre pr&#x00F8;va!&#x00BB; skreik eg, &#x00AB;du kan berre pr&#x00F8;va, torer du!...eg skal skamslaa deg!... eg skal... aa, eg skal drepa deg, skal eg...!&#x00BB;</p>
+<p>&#x00AB;A, ditt Narr,&#x00BB; tok han Far frami, greip <pb n="90"/>meg og meinheelt meg, daa eg alt var paa Spranget med ein diger Staurende i Lufti, &#x2013; medan han Salamon steig upp, tok Luka ifraa og keik inn.</p>
+<p>&#x00AB;Haa haa!&#x00BB; ropad han, &#x00AB;er det du, din Rakkar! &#x2013; Ja, bida no, so skal du faa varme Maten din, skal du!&#x00BB;</p>
+<p>So inn med Byrsa; og so small det.</p>
+<p>Daa dei leet upp Dyri, laag han Hall daud paa Golvet innanfyre.</p>
+<p>Eg kastad meg ned yver honom, reint som ifraa meg. Eg greet, stridgreet, hikkegreet, so eg plent heelt paa missa Anden.</p>
+<p>Han Salamon stod attved og flirte og log</p>
+<p>Men han Far kom burt og lyftad meg &#x2013; slett inkje hardt &#x2013; upp etter Tr&#x00F8;yekragen.</p>
+<p>&#x00AB;Bed Gud bevara deg, og bruk Vitet ditt!&#x00BB; sagde han mykje mildare en han var van, likasom halvt baade undren og otteful; &#x00AB;for du veit daa det, Barn, det er berre ein Hund!&#x00BB;</p>
+<figure rend="shortHorizRule"/>
+</div>
+</div>
+<div type="chapter" n="3">
+<head><ref type="contents" target="contents_3" xml:id="chapter_3"><pb n="91"/>FANTA-NILS.</ref></head>
+<div type="chapter" subtype="uchapter">
+<head><pb n="93"/>I.</head>
+<p>Han var paa Aldr med meg sj&#x00F8;lv, og eg var ein Gut millom trettan og fjortan Aar, daa han kom der til Bygdi.</p>
+<p>&#x2013; Det var ein Dagen fram paa Hausten, kaldt i Vedret, so det tok Tid for Solaugat aa tina Hela upp, der ho laag graakvit burtetter alle B&#x00F8;ar.</p>
+<p>Han Far og han Salamon var ved Kverni, og eg og ho Mor var tvau-eine inne i Stova.</p>
+<p>Ho var iferd med ei Kirning, ho, og eg hjelpte henne. Ho hadde str&#x00E6;vat fraa Morgonen tidleg; men endaa det longo leid fram yver Middag, var det enno inkje sjaaande likt til Sm&#x00F8;r paa Krossen. Rjomen berre aukad og aukad, so ho laut ausa upp i Skaaler, rett som det var.</p>
+<p>&#x00AB;Eg skynar inkje detta,&#x00BB; sa ho; &#x00AB;berre det inkje maa vera framfyre noko illt noko. Eg er so ottasam for henne Linderos.&#x00BB; &#x2013; Ho Linderos, besta Kui vaar, stod bui skulde bera.</p>
+<p><pb n="94"/>Daa var det, han synte seg i Dyrglytten.</p>
+<p>&#x00AB;So jamen er no der ein Fant attr,&#x00BB; mullad ho Mor.</p>
+<p>Det var med Naudi, han fekk Maalet upp til eit vesalt &#x00AB;gudag&#x00BB;. So vart han standande burte i Peiskraai, utan aa segja eit Ord; medan ho Mor dreiv paa Kirna.</p>
+<p>&#x00AB;No hev eg aldri set Fantagut bljug fyrr,&#x00BB; sa ho sakta.</p>
+<p>So fillutt ei Menneskja hev eg inkje skodat korkje fyrr eldr sidan. Det var som eine Traven berre slo etter den andre nedyver heile hans Likam. Det skein jamvel inn paa Skinnet sume Stader, og paa Foto hadde han kje anna en Leistar, som Botnen var sliten utor, so ein saag vaata Faret etter T&#x00E6;no hans, der han hadde stiget paa Golvet.</p>
+<p>&#x00AB;Er du ute beder deg?&#x00BB; spurde ho Mor endeleg.</p>
+<p>Jau, det var nog so</p>
+<p>&#x00AB;Er du aaleina?&#x00BB;</p>
+<p>&#x00AB;Nei, ho Mor og Syskeni mine &#x2013; &#x2013; og so han Anton gjekk framum nedre paa Vegen, dei.&#x00BB;</p>
+<p>Kven han Anton var.</p>
+<p>Og det var &#x2013; &#x2013; Far hans, det.</p>
+<p>&#x00AB;Ja, eg f&#x00E6;r vel finna deg litevetta i Posen din, daa,&#x00BB; sa ho. &#x00AB;No kann du hjelpa honom <pb n="95"/>Per, du, aa kirna, so gjeng eg stad ser til Kui med sama.</p>
+<p>&#x2013; &#x00AB;Kva heiter du?&#x00BB; spurde eg.</p>
+<p>&#x00AB;Eg heiter Nils.&#x00BB;</p>
+<p>&#x00AB;Nei, h&#x00F8;yr no, Nils,&#x00BB; sa eg, &#x00AB;no skal me n&#x00F8;yta oss, so me f&#x00E6;r Sm&#x00F8;r, til ho Mor kjem inn attr; for daa kann du tru, det vankar Kirnebite som duger!&#x00BB;</p>
+<p>Ja, det var han strakst med paa. Eg heelt Kirna, og <emph>han</emph> brukad Krossen, so Rjomen berre durad og saud.</p>
+<p>Men anten no eg var for slepphendt, eldr han lagde for stort eit Evle i, &#x2013; nog er det, me visste ikkje Ordet av, fyrr Kima var velt, Loket ifraa, og Rjomen flaumande kvit og feit utyver Golvet.</p>
+<p>Sanselaus tok eg Laupet, so Kirningi sprutad og skvatt meg um Leggjerne, ut i Gangen, upp paa Kovaloftet, &#x2013; og han Nils etter.</p>
+<p>Jau, der h&#x00F8;yrde me henne Mor koma.</p>
+<p>Nei, aa nei, desse Gutungarne, desse Gutungarne!&#x00BB; skreik ho.</p>
+<p>Det var henne vandelaust sjaa Rjomafaret etter os paa Nabbarne Veggen upp.</p>
+<p>&#x00AB;So det er der, de er, Skarvarne!&#x00BB;</p>
+<p>&#x2013; Inkje ein Knyst.</p>
+<p>&#x00AB;Ja ja, bida berre, til han Far din kjem, so <pb n="96"/>f&#x00E6;r daa du Per ditt; og Fantatraven kann no lita paa, han skal i Lensmannsholet, han.&#x00BB;</p>
+<p>&#x00AB;Gud tr&#x00F8;yste og betre meg! &#x2013; det er likaso godt, eg spring i Fossen strakst&#x00BB;, hikstad han Nils so hjartasaart, at det var kj&#x00F8;vande h&#x00F8;yra.</p>
+<p>Eg kjende som ein varm Straum stiga meg upp fyre Bringa. &#x2013; &#x00AB;Mor&#x00BB;, sa eg, &#x00AB;det var eg som gjorde det.&#x00BB;</p>
+<p>&#x00AB;Aa, eg tenkjer endaa, de var lika gode um det, baade tvo.&#x00BB;</p>
+<p>&#x00AB;Nei, Skuldi var mi &#x2013; &#x2013; og du skal faa alle Skilingarne mine &#x2013; &#x2013; og eg skal vera so lydug og beinkasam &#x2013; &#x2013; og du kann gjerna faa Lov lugga meg, og &#x2013; &#x2013; &#x2013; berre, berre du inkje vil gita det til honom Far!&#x00BB;</p>
+<p>&#x00AB;Ja kom daa ned attr, Tjonsungar!&#x00BB; sa ho; men eg h&#x00F8;yrde paa Maalet, at det versta med henne alt var yver.</p>
+<p>No bar det til ausa Rjomen upp, turka og fli. Dei, som stod seg paa Leiken, det var Grisen og han Passupp.</p>
+<p>&#x2013; Og han Far aldri fekk vita Dusti, han, daa han kom heimattr um Kvelden.</p>
+<p>Han Nils fekk munalegt baade i Sekken under Bringa og Sekken paa Ryggen, fyrr han gjekk.</p>
+<p>Men eg gl&#x00F8;ymer inkje, kor audmjukt takk<pb n="97"/>samt han saag meg inn i Andlitet, daa eg skildest med honom burte ved Grindi.</p>
+<p>Det sveiv oss visst inkje i Tankar, daa, at me sidan skulde koma til hava so mykje oss imillom.</p>
+</div>
+<div type="chapter" subtype="uchapter">
+<head>II.</head>
+<p>For det gjekk so, at Fylgjet vart verande der i Reppen.</p>
+<p>&#x2013; Uppe i Seimslidi, paa Lag ein Fjordungs Veg ifraa Folk, ligg ein liten Plass heiter Harkahaugen, der ingen hadde butt, sidan ho gamla Synneva kom i Legd.</p>
+<p>Og den skarve R&#x00F8;ykstova der fekk so han Anton leigt seg.</p>
+<p>Han var Rokkasvarvar og Massingasmed, og elles paa Tatarvis kunnig til noko av kvart.</p>
+<p>Og Tataren var han fraa Ende til annan. Eg hugsar honom som ein lang, skonkutte Rekel, med blaasvarte Haarluggen vaksen nedyver laage Skallen, brungul i Skinnet, med Augo som var halvt dulde under Augnaloki og laag glimde som glodande Kol, jamnaste skjeglande undan og til Sida, same Vegen skeive Nasatippen peikad; og Tunga gjekk honom i Munnen verre en ein Kvernakall.</p>
+<p>Kjeringi hans, ho Birta, var sterkvaksi og <pb n="98"/>lumsig, heiltupp ljot, so skrukkutte og vesegul i Andlitet som eit gamalt, utmj&#x00F8;lkat Kujur. Det var ikkje til aa taka imiste, at ho var av reina Tatarslaget, ho og.</p>
+<p>Dei hadde tvau Smaaborn, ho Tina og han Elias &#x2013; ei triaars Jenta og ein aarsgamal Gut.</p>
+<p>Og so var det han Nils. &#x2013; Han var inkje lik dei hine, han. Haaret var paa Lit som bleikraud Oska, Hudi ljos, Skallen h&#x00F8;g og klaar, der laag ei Driva av bruna Freknor yver Kinnknutarne og den kvassa, linnt b&#x00F8;ygda Nosi, og Munnen og Hoka var so fint skorne, som nokon dei vilde sjaa.</p>
+<p>Det einaste ved honom som gav Minne um Tatarblodet var den brennande, skiftande Liten i Augo; men Augnalaget var godt og truvoret, endaa so bljugt og so skr&#x00E6;mt. Smaalaaten og sakt var han alst&#x00F8;dt; naar han snakkad, h&#x00F8;yrdest det, som aat han noko av Ordi sine <emph>i</emph> seg attr, og Maalet hadde gjerna eitkvart attaatt som ei Rikting nedre i Halsen. Det var fyrsta daa me vart umframt v&#x00E6;l kjende, eg kom etter, at R&#x00F8;ysti hans kunde vera baade fager og sterk. &#x2013; Av Vokstr var han reint ein Kjempekar, breid yver Aksler og Rygg, og godt og v&#x00E6;l eit halvt Hovud h&#x00F8;gre enn eg, endaa han var ikkje vidare en ein Maanad eldre.</p>
+<p><pb n="99"/>Det var inkje berre s&#x00F8;te Dagarne, han hadde, Stakkar. Med Mat og Kl&#x00E6;de fekk det ganga, som det kunde; men Svolt og Frost og Stryk var der jamnan N&#x00F8;gdi av. Ute med Tiggarposen laut han strjuka Bygdi kring, um Vedret og F&#x00F8;ret var aldrig so galet. Sume gav honom gjerna flust, so mykje heldr som han aldri kunde faa Munnen upp til aa beda; og vissa var no ho Mor serlage med honom. Men andre leet honom ganga sin Veg attr, so snaud han var komen, naar han hadde stadet ei Rid innantil Dyri.</p>
+<p>&#x2013; Ein Dagen, som eg skulde stad til Tataren med ei sundbroti Rokkasnelda, naadde eg honom Nils uppe i Lidi, der han sat paa ei Bj&#x00F8;rkerot sturde med Andlitet i Loko.</p>
+<p>&#x00AB;Kva vantar deg?&#x00BB; spurde eg.</p>
+<p>Jau, han torde inkje gaa heimattr; for han var r&#x00E6;dd, dei reint skulde skamslaa honom, daa han mest inkjevetta hadde <emph>med</emph> i Sekken.</p>
+<p>Kvifyre han so inkje hadde gjenget heim til Kvaale?</p>
+<p>Nei, der var han igaar, der.</p>
+<p>&#x00AB;Aa, kom no, du!&#x00BB; meinte eg. &#x00AB;Han sl&#x00E6;r deg inkje, naar <emph>eg</emph> er med.&#x00BB;</p>
+<p>Det var kje meir en som so, han leit seg til smetta etter meg inn i Stova. &#x2013; Ufjelgare Rom skulde du snaudt kunna sjaa; draup fraa Taket <pb n="100"/>gjorde det baade her og kvar, paa Golvet krabbad Ungarne kring, lortutte som Griser, i V&#x00E6;ta, Rusk og Styggedom, medan ho Birta sat uflidd og halvnaki paa ein Krakk burte ved Peisen, der Kaffikjetelen hekk oste og saud. Tvo av dei fira Ruto i vesla Glaset var ute, nokre fillutte Sokkar og ei gomol Brok dyttad i Holi; og der burteved heelt han Anton, sotutte og bustutte, paa med eitkvart Arbeidet.</p>
+<p>Eg var just i Ferd greida ut &#x00C6;rendi mi, daa Kjeringi tok til bruka seg paa den fille Slya, som inkje blygdest koma heim med tome Posen.</p>
+<p>Og upp flaug Mannen paa rauda Rappet, treiv honom Nils i Luggen og til lyvja honom med Nevo kring &#x00D8;yro, so det small og sokk etter.</p>
+<p>&#x00AB;No skal du l&#x00E6;ra kjenna Far din, Letingen!&#x00BB; skar det honom or Kjeften.</p>
+<p>&#x00AB;Du er inkje Far min, du!&#x00BB; kveste han Nils i, trassug med eitt, og freistad slita seg laus.</p>
+<p>&#x00AB;Seg det ei Gong til, det der!&#x00BB;</p>
+<p>&#x00AB;Du er inkje Far min! &#x2013; du er inkje Far min!&#x00BB;</p>
+<p>Eg hadde stadet reint som fjetren, eg, medan detta gjekk paa. Men daa eg so saag honom Anton retta Neven etter ein Jarntein der laag, kokad Ovsinnet i meg upp. Eg treiv ein Hamar fraa Bordet, og hadde sovisst klembt honom i <pb n="101"/>svarta Tatarskjelta med alt mitt Evle, hadde ikkje ho Birta gripet Armen min.</p>
+<p>Sleppte han honom Nils, gjorde Ubeistet, og hadde sakta roket lika paa meg, um inkje Kjeringi var sprungi imillom.</p>
+<p>&#x00AB;Aa lat honom berre freista!&#x00BB; skreik eg; &#x00AB;du kan lita paa, du skal til Lensmanden, din kolutte Devel du er! Han spurde honom Far etter deg igaar, so han hev endaa Auga med deg, kann du tru!&#x00BB;</p>
+<p>Men aldri fyrr hadde eg teket Lensmannen paa Tunga, fyrr Ukjura var mjuk som ei Vidja.</p>
+<p>Aa nei, det var nog so langt ifraa Meiningi hans leggja Hand paa so bra Folks Born som Son hans Torstein Kvaale, leet han um. Han vontest no og, eg inkje vilde fortelja detta heima. &#x2013; Men var det kanhenda Raad anna en arga seg paa den Slauren; &#x2013; ja, for eg skulde berre vita, kor ureipen han var, endaa so sleikje-fin han visste gjera seg, naar han var framande.</p>
+<p>Men eg for meg lovad, at det <emph>fyrsta</emph> eg fekk nasa upp, dei foor illa med Guten, skulde jamen baade han Far og Lensmannen faa Greida paa alt saman.</p>
+<p>&#x2013; Eg kom i Skulen Dagen etter.</p>
+<p>Han var vorten avsett, han gamle Lars, den Hausten. Ein ny Skulemeistar var komen, ein <pb n="102"/>ung Seminarist, som heitte Sjur Uppheim, og ei Stova burte paa Seim var leigd til Skulehus. &#x2013; Det er endaa ei heil Soga um detta, og; men ho f&#x00E6;r no vera denna Gongi.</p>
+<p>Skulemeistaren spurde, kor det vart med honom Nils, &#x2013; um eg inkje hadde h&#x00F8;yrt, han skulde til ganga i Skulen; for det var daa vel inkje Meiningi, han skulde veksa seg til Heidning heldr. &#x2013; Det var han Far, som var Tilsynsmann der i Skulekrinsen. &#x2013;</p>
+<p>Nei, eg kundo inkjevetta segja ifraa um detta, eg.</p>
+<p>&#x2013; Men same Kvelden ruslad Skulemeistaren uppetter til Harkahaugen; og eg fylgde honom.</p>
+<p>&#x2013; Aa &#x2013; meinte han Anton &#x2013; det var liti Botavon hava i Skule ein sovoren ein som han Nils. Dei hadde endaa str&#x00E6;vat, det dei kunde, baade Faren og Mori, prenta i honom Kunskap og Kristendom. Men det var som aa slaa Vatn paa Gaasi, det, vilde han segja.</p>
+<p>Men Skulemeistaren dreiv paa sitt, tok paa Seinsten til orda ut um Logbrot. Og daa gav Tataren seg trast.</p>
+<p>&#x2013; Den som vart glad, det var han Nils. Han visste seg inkje h&#x00F8;gre Ynskje en koma i Skulen og l&#x00E6;ra; men no hadde det i yver tri Aar inkje voret Raad.</p>
+<p><pb n="103"/>Det skipad seg so heima, at eg fekk Lov gjeva honom nokre av gamle Ploggi mine til Skulekl&#x00E6;de; det var reint H&#x00F8;gtidsbunad fyr <emph>honom</emph>, det, endaa noko smaavorne var dei. &#x2013; Det vart og snakkat soleine, at <emph>eg</emph> skulde hava Skulemat med til oss baade tvo.</p>
+<p>&#x2013; Fyrste Morgonen hans i Skulen sessad han seg ytst paa Benken nedre ved Dyri. Men daa Lesetimen kom, og ingjen annan vilde lata honom sjaa <emph>med</emph> seg i Boki, fekk han Plassen sin uppe ved meg. B&#x00F8;kr hadde han inkje; men dei laante eg honom so gjerna, rettleidde og hjelpte honom elles og, alt eg visste.</p>
+<p>&#x2013; Det synte seg snart, at der fanst inkje opnare &#x00D8;yra i Skulestova en han Nils sitt. Og framifraa gl&#x00F8;gg og vitug var han, med eit Minne, so naar berre han h&#x00F8;yrde noko, sat det, som var det honom klinkat i Hausen.</p>
+<p>&#x2013; Me vart betre og betre Vener, me tvo, di lengr det leid. Inkje eigong han Sjur-Ola stod meg no jamsides med honom Nils.</p>
+<p>Endaa sumt var der <emph>ved</emph> honom, som baud meg imot. Kl&#x00E6;di hans luftad jamnan so illa ufjelgt; og ein Dagen saag eg ei stor Lus krjupa honom nedetter fillutte raude Halskluten. &#x2013; Men naar eg so hugsad, kor subbutte det var i Heimen hans, kunde eg segja meg sj&#x00F8;lv, at det var honom <pb n="104"/>raadlaust halda seg rein, Stakkar. &#x2013; So berre eg tok meg i Vara, men vaktad grant etter, at han inkjevetta skulde merkja.</p>
+<p>&#x2013; Eg tok so smaatt til lesa Tysk og Engelsk den Vetteren. &#x2013; Det var Skulemeistaren som seint um sidar fekk detta drivet igjenom hjaa honom Far. Tvo Gonger i Vika gjekk eg sud til Lensmannen, der dei hadde Husl&#x00E6;rar.</p>
+<p>Men aldri fyrr fekk eg Fat paa honom Nils, fyrr eg pumpad i honom, kva eg sj&#x00F8;lv l&#x00E6;rde etter kvart.</p>
+<p>Det var dei gildaste Draumarne vaare, at naar me vart vaksne Karar, skulde <emph>eg</emph> verta Bisp og <emph>han</emph> Prest; og so kunde det vel vera, me skulde hava fagna Dagar!</p>
+<p>Det logad i Augo hans Nils, naar eg soleine heelt paa maala ut.</p>
+<p>At han heldt av meg og trudde meg v&#x00E6;l framfyre nokon, det var vandalaust nemja. Beinken fann eg honom altid, aldri so lite eg andad Ordet. Og hendug som han var, lagad han aat meg so det eina og so det andra, som han kunde tru vilde fagna meg.</p>
+<p>&#x2013; Naar me andre Borni foor ute leikad oss, var det sjeldan, han var med i Laget. Antan sat han inne med Boki, eldr og stod han gjerna smaalog og saag paa.</p>
+<p><pb n="105"/>Eg hadde ofta freistat faa r&#x00F8;yna honom i Ryggjatak; men det var jamnan, at han bar seg undan. So var det ei Gong, eg inkje gav meg, fyrr han laut til. Og eg kjende strakst det, at han stod traust. Me baskad eit Bilet, <emph>han</emph> berre varde seg, alt medan det at eg vart fusare og fusare. &#x2013; Jau, der saag eg meg Syn setja Fot fyre, so eg fekk honom paa Rygg ned i Snjoen.</p>
+<p>&#x00AB;No tapte du!&#x00BB; ropad eg byrg.</p>
+<p>&#x00AB;Ja, eg gjorde <emph>det</emph>,&#x00BB; svarad han lognt, som <emph>det</emph> brydde han seg inkje vidare um. Eg baud paa taka Taket uppattr, eg; men han vilde kje meir.</p>
+<p>&#x00AB;Han f&#x00E6;ler, han tapar,&#x00BB; tenkte eg, og leet honom vera i Fred.</p>
+<p>&#x2013; Det bar so til fram paa Vetteren, at han fortalde meg, korleine det var, det hekk saman med Folket hans.</p>
+<p>Han var tung i Hugen den Dagen, og eg kunde sjaa, han hadde graatet. Fyrst svarad han lite eldr inkje, daa eg fraagad kva som vantad. Men so lyftad han Andlitet.</p>
+<p>&#x00AB;Ja, du skal likav&#x00E6;l faa vita det, du Per; for eg veit, du inkje vil segja det til nokon,&#x00BB; sa han.</p>
+<p>Han hadde elles altid gjenget utanum, naar eg etlad meg inn paa, kva han hadde meint med <pb n="106"/>det, at han Anton inkje var Far hans. Men no fekk eg Greida paa heila Hekla.</p>
+<p>Rette Faren hans, som var avliden fem Aar sidan, aatte heima aust i Valdris, der han var Skulemeistar. Henne Birta tok han til seg or eit Fantafylgje; ho var berre tolv-trettan Aar den Tid. Naar ho so vart vaksi, gifta han seg med henne.</p>
+<p>Han Nils var einaste Barnet deira.</p>
+<p>Faren, h&#x00F8;yrdest det, hadde voret ein Fagnamann i alle Lutar. Det var Tanken hans kosta Sonen paa Storskule. &#x00AB;Um eg kunde liva den Dagen, eg fekk styra Songen i Kyrkja, der du Nils stod med Prestakragen paa!&#x00BB; sa han ein Kvelden, han sat ruggad Gutungen paa Fanget.</p>
+<p>Men so d&#x00F8;ydde han. &#x2013; Og daa vart det Slutt med Lukkedagarne hans Nils.</p>
+<p>Tvo Aar seinare kom han Anton reikande. Han gav seg til der i Grendi um Sumaren. &#x2013; So vart ho Birta umhende.</p>
+<p>Fram paa Hausten skundad ho seg gjera i Pengar alt ho aatte, stal seg sidan ut or Bygdi med honom Anton; og han vesle Nils laut slaa Fylgje.</p>
+<p>Dei hadde raklat vida ikring paa Fantastig, mest nordan- og vestanfjells. Vigde vart han Anton og ho Birta inkje. Eldsta Barnet deira <pb n="107"/>kom til uppe vid R&#x00F8;ros, det andre burte paa Strilalandet. Faren auste Vatn paa dei og gav dei Namn; i Kyrkja hadde dei inkje voret.</p>
+<p>Det var gr&#x00F8;tande so illt arme Gutakroken hadde slitet, og reint ut dipple h&#x00F8;yra, kor beistaleg han Anton hadde dengt honom for aa faa honom til segja &#x00AB;Far&#x00BB;.</p>
+<p>&#x00AB;Og han hatar meg. &#x2013; &#x2013; For han veit, eg hev frett, at han nedre i Dramn &#x2013; &#x2013; &#x2013;. Aa, men bida, bida berre, til eg vert stor! &#x2013; &#x2013; eg skal brjota kvart Beinet i hans forbannade Kropp &#x2013; &#x2013; den &#x2013; &#x2013; den Devels Rakkaren!&#x00BB; skreik Guten, flaug upp, tvibykste i Galden og knytte dei dirrande Nevarne, so det kvitnad um kvar Knuven.</p>
+<p>Eg vart reint f&#x00E6;len, eg, og varde meg v&#x00E6;l spyrja vidara etter.</p>
+<p>&#x2013; &#x00AB;Fekk han Anton vita, at eg hev fortalt detta, so slog han meg daud,&#x00BB; sa han, daa han sidan hadde lognat seg, og me gjekk saman burtetter Vegen.</p>
+<p>&#x00AB;Du veit, du kann lita paa <emph>meg</emph> som paa deg sj&#x00F8;lv, Nils,&#x00BB; svarad eg og gav honom Handi til V&#x00E6;lliva burte ved Vegaskilet.</p>
+</div>
+<div type="chapter" subtype="uchapter">
+<head><pb n="108"/>III.</head>
+<p>Det var nog so, at Venskapen millom oss tvo Gutarne etter kvart hadde tvinnat seg traustare og traustare.</p>
+<p>&#x2013; Og likav&#x00E6;l gaadde eg, som det leid, at ei Kjensla av anna Slag steig fram i Hugen min.</p>
+<p>Eg kjende henne fyrstundes berre som ein vesall Flugestyng, som eg hadde kje bjo bry meg det Slag um.</p>
+<p>&#x2013; Men denne Flugestyngen bolnad til ein Svull og opnad seg til eit Saar, som eg enno hev Mein av.</p>
+<p>Jau, for &#x00E6;resjuk var eg, so det forslog. Og eg var aldri van anna en vera so reint utan Tvika den likaste av Skuleborni, baade i N&#x00E6;me og i Kunnskap; eg f&#x00E6;ler det endaa var komet til, at eg tok detta paa Lag som ein Serret.</p>
+<p>Men no var det noko, Ovmodet mitt fekk Teven av, og som eg um sidar inkje lengr kunde dylja for meg sj&#x00F8;lv, at han Nils var i minsto likaso gl&#x00F8;gg og hugsen som eg.</p>
+<p>&#x2013; Flugestyngen kjende eg, men heldr inkje vidare.</p>
+<p>Og mot honom Nils var eg den same, kanhenda endaane raustare, samstundes med at eg tok til n&#x00F8;yta meg meir med Lesingi.</p>
+<p><pb n="109"/>Daa hende det, eg ein Kvelden lydde paa, at Skulemeistaren og han Far sat svallad.</p>
+<p>&#x00AB;Ja, der sit eit makalaust Hovud paa den Nilsen,&#x00BB; sa Skulemeistaren; &#x00AB;aldri hev eg funnet eit betre. Han kunde naa h&#x00F8;gt, han, var det ikkje for Kostnaden si Skuld.&#x00BB;</p>
+<p>Det stakk meg i Hjartat, so det gjorde vondt.</p>
+<p>&#x2013; Flugestyngen trotnad.</p>
+<p>Det er mest som eg f&#x00E6;ler, at fraa <emph>mi</emph> Sida var Samlivet sidan nokon kaldare.</p>
+<p>Endaa eg veit, eg str&#x00E6;vad imot. Det var daa berre bra det, sa eg med meg sj&#x00F8;lv, at Guten hadde goda Gaavor. Og hadde Vaarherre gjevet dei, var det vel Meiningi, dei skulde brukast, og. So det var Gud til Vilja, eg gjorde, naar eg var honom Nils hjelpen, og <emph>det</emph> kunde daa inkje verta <emph>meg</emph> til Meinka.</p>
+<p>Men korleine det no var, visst er det, eg var inkje lenger so forhippen paa aa raaka honom, kvar Gongi eg hadde voret stad til Husl&#x00E6;raren.</p>
+<p>Eg kom samstundes og til nemja som aldri fyrr, kor ulidande ufysi ho var, den Lukti av Kl&#x00E6;di hans; og naar eg tenkte paa den Lusi, &#x2013; &#x2013; uhh! so totte eg, det var mest Uraad hava sovoret ved Sida.</p>
+<p>&#x2013; Men so var det, i Slutten av Februar, at Presten kom heelt Skuleeksamen.</p>
+<p><pb n="110"/>Det h&#x00F8;vde seg so i Yverh&#x00F8;yringa, at Skulemeistaren bad meg reikna upp ymse Slogi av l&#x00F8;yveleg Kj&#x00E6;rleike. Og det klaarad eg flust; det var den til Gud, den til Medmenneskja og den til oss sj&#x00F8;lve.</p>
+<p>Visste eg fleire?</p>
+<p>Ja, &#x2013; Fedrelandskj&#x00E6;rleike.</p>
+<p>Um eg kunde nemna eit D&#x00F8;me?</p>
+<p>Og eg kom daa fram med Olav den heilage.</p>
+<p>Aa ja, det var v&#x00E6;l nog, tok Presten frami.</p>
+<p>Men hadde eg inkje h&#x00F8;yrt gjetet honom, som leet seg sprengja i Lufti nedre i Kj&#x00F8;gebugt.</p>
+<p>Jau daa, jau daa!</p>
+<p>Kva var det so, <emph>han</emph> heitte?</p>
+<p>Han heitte &#x2013; &#x2013; han heitte &#x2013; &#x2013; &#x2013;. Nei, aa nei, som det tregad meg, at eg inkje var Kar koma paa Namnet, endaa det laag meg paa Tunga!</p>
+<p>Um nokon av dei andre visste det?</p>
+<p>&#x00AB;Ivar Huitfeldt?&#x00BB; svarad han Nils med sama.</p>
+<p>&#x00AB;Det var bra, Guten min!&#x00BB; tok Presten i, gjekk stad strauk honom nedetter Haaret, &#x2013; medan Andlitet hans Nils skein og log av Lukka.</p>
+<p>&#x2013; Eg totte, der vart so myrkt inne i Stova; eg kjende, som seig Bringa mi full med Graastein, og eg var lika ved gjeva Graaten laus.</p>
+<p><pb n="111"/>Men so skar det yver i Sinne; du og du, so etande harm eg vart!</p>
+<p>Den Fantasleikja! &#x2013; &#x2013; hadde eg kanhenda inkje sj&#x00F8;lv fortalt honom det for nokra Vikor sidan! &#x2013; &#x2013; Og no sat eg der til Spott og Spe for baade Presten og dei hine, &#x2013; det var Takki! &#x2013; &#x2013; &#x2013; Ja ja, bida no! bida no!</p>
+<p>&#x2013; Flugestyngen var vorten Svull, og Svullen alt vorten gr&#x00F8;n i Toppen.</p>
+<p>&#x2013; Det betre Samvitet mitt m&#x00E6;lte imot. Guten hadde daa inkje anna gjort en svarat paa det Presten spurde. &#x2013; Men eg skundad meg setja Dott i <emph>den</emph> Bj&#x00F8;lla, berre sat argad meg upp meir og meir, til dess eg naadde Kaldsinnet; daa vart eg lognare og hemnhard.</p>
+<p>&#x2013; Det var i eit faam&#x00E6;lt Storl&#x00E6;te, eg synte meg, daa han Nils sidan um Dagen heelt seg innaatt meg, ventande, som eg kunde skyna, aa finna eit opet Venahjarta for Lukka si.</p>
+<p>Han vart standande lite bisna paa meg, undren og uviss. So med eitt seig der honom som ei Skodda nedyver Andlitet, Taarorna tok til blenkja um Kvarmarne, og dei sorgalt bedande Augo hans syntest meg fortelja, at han forstod, kva som bilad meg.</p>
+<p>Eg var lika paa Nippet skjemmast, og lata alt vera godt. Men daa reitad det meg upp aa <pb n="112"/>nyo, verre en alt anna, detta, at han truleg skynad, kva det var for Tankar eg gjorde meg.</p>
+<p>So trugad eg meg sj&#x00F8;lv til vera tydleg og gladvoren. Og eg tok inkje i Miste, at eg snart hadde honom heiltupp road attr.</p>
+<p>&#x2013; Ja, no fekk me sjaa.</p>
+<p>&#x2013; Og det varad berre til Dagen etter, fyrr det rauk Hol paa den Ilskesvullen, som eg gjekk med i Hjartat.</p>
+<p>Den nye Skulemeistaren h&#x00F8;yrdest vanleg so smerende s&#x00F8;t i Maalet; og det var komet meg fyre &#x00D8;yra, at Felagarne hans paa Seminarien hadde gjevet honom H&#x00E6;denavnet &#x00AB;<emph>S&#x00F8;teprimen</emph>&#x00BB;.</p>
+<p>No ja, me hadde um Esau og Jakob i Bibelsoga, den Dagen.</p>
+<p>&#x00AB;Lindser?&#x00BB; segjer Skulemeistaren, veit de kva <emph>det</emph> er for noko? &#x00AB;</p>
+<p>&#x00AB;S&#x00F8;teprim&#x00BB;, kviskrad eg.</p>
+<p>&#x00AB;S&#x00F8;teprim!&#x00BB; svarad han Nils, h&#x00F8;gt og trygt, &#x2013; som han jamt var van, naar han svarad etter kva eg kviskrad.</p>
+<p>Skulemeistaren spratt enda upp burte paa Golvet.</p>
+<p>&#x00AB;Jau, no skal du faa smaka S&#x00F8;teprim!&#x00BB; foor han i, med eit M&#x00E6;le som skolv og skar av Sinne.</p>
+<p>Og han til med baade Nevarne hednelugga honom Nils, so Tennrna hakkad og Haari fauk, <pb n="113"/>drog honom sidan fram paa Golvet og stellte honom upp burte i Peiskraai.</p>
+<p>&#x00AB;Men &#x2013; &#x2013; han Per &#x2013; &#x2013; sa det&#x00BB;, greet Stakkaren.</p>
+<p>&#x00AB;Er det sannt, Per?&#x00BB;</p>
+<p>Eg skjemdest, so eg kjende, eg vart glodande raud, daa eg svarad: &#x00AB;nei!&#x00BB;</p>
+<p>Det gjekk som ein Skugge yver Andlitet hans Nils med sama, det var, som drog Andlitsdragi seg i Hop og storknad; og Graaten stoggad han med ei einaste Gong.</p>
+<p>&#x00AB;Ja so, du vil ljuga i Skulen, og, din Tatartamp!&#x00BB;</p>
+<p>No vart der Buskestrok paa Nevarne, til dess dei var raude som Blod.</p>
+<p>Inkje eigong det knatt i Guten.</p>
+<p>Sidan laut han standa med Soplingen miilom Hendo, til Timen var ute, og me fekk Middagskvildi.</p>
+<p>So vilde han ganga sin Veg; men Skulemeistaren meinte nei.</p>
+<p>&#x2013; No hadde eg daa fenget Hemn. Men det skal vera visst, at eg kjende meg alt anna en forn&#x00F8;gd; eg kunde hava gjevet mykje for aa faa gjort vera ugjort.</p>
+<p>Noko stormannsleg stiv og stutt &#x2013; som det vonde Samvitet gjerna syner seg, naar det hev <pb n="114"/>Aalmannameiningi paa <emph>si</emph> Sida &#x2013; gjekk eg um sidar stad baud honom Nils Mat.</p>
+<p>Han inkje eigong svarad.</p>
+<p>Eg forstod, han vanvyrde meg, og eg kjende, han hadde Rett til gjera det. Men di meir gnog og tergad det meg.</p>
+<p>&#x00AB;Aa, du kann gjerna eta,&#x00BB; sa eg; &#x00AB;han er likaso god Maten min, idag, som han fyrr hev voret.&#x00BB;</p>
+<p>Han snudde seg og gjekk paa Dyri.</p>
+<p>Eg var inkje Kar faa einaste Biten ned, eg heldr; so lagde eg ut etter.</p>
+<p>Han gjekk stad sette seg nedan L&#x00F8;da. &#x2013; Det var, som eitkvart trugad og dreiv, so mine eigne F&#x00F8;tr tok same Vegen.</p>
+<p>&#x00AB;Kyifyre vil du inkje hava Mat, Nils?&#x00BB; &#x2013; visste sj&#x00F8;lv berre meir en v&#x00E6;l. &#x2013;</p>
+<p>&#x00AB;Aa nei &#x2013; &#x2013; eg f&#x00E6;r no freista berga meg <emph>deg</emph> forutan heretter.&#x00BB;</p>
+<p>&#x2013; At Ordi, som kom meg paa Tunga til Svar, var verre en harkavorne, det hadde eg Kjensla av; men mitt saarade Storl&#x00E6;te skauv paa med eit Helvites Evle, og mest fyrr eg sj&#x00F8;lv visste <emph>av</emph> og vilde det, rullad Steinen.</p>
+<p>&#x00AB;Aa ja &#x2013; &#x2013; det kann so vera; &#x2013; &#x2013; naar &#x2013; &#x2013; naar ein hev ein Far &#x2013; &#x2013; som han Anton aa stydja seg til &#x2013; &#x2013; so&#x00BB; &#x2013; &#x2013; &#x2013;</p>
+<p>Eg kom inkje lengr, fyrr han Nils flaug upp <pb n="115"/>og i Bringa paa meg, kastad meg ned, som var eg eit Reivabarn, og so til gjeva meg Smurning, slik at eg aldri i mine Dagar Maken hadde smakat.</p>
+<p>Dei andre Skuleborni str&#x00F8;ymde til etter Skriken, nokre av dei sterkaste Gutarne reiv honom Nils av meg, kastad honom vidopen under seg og heelt honom soleine.</p>
+<p>Eg sprang upp som galen, bl&#x00F8;dde gjorde eg i baade Munn og Nos, og flaug stad vilde setja honom Foten i Skjelta. &#x2013; Men det fekk eg inkje Lov til.</p>
+<p>So tok eg paa bruka Kjeften.</p>
+<p>Og eg skal inkje tru, eg heelt attr korkje med Lortalukti av Kl&#x00E6;di eldr Lusi paa Halskluten.</p>
+<p>&#x00AB;Du segjer, du vil berga deg <emph>meg</emph> forutan heretter?&#x00BB; skreik eg. &#x00AB;So riv av deg Ploggi dine daa; for av meg hev du fenget dei, endaa til Skjorta, &#x2013; og gakk naken heimattr til Horehytta der uppe paa Harkahaugen, Landlauparen du er!&#x00BB;</p>
+<p>&#x2013; Der kom Skulemeistaren.</p>
+<p>&#x00AB;Jau, du Per ser ut!&#x00BB; sa han.</p>
+<p>&#x00AB;Ja, det hev han, Tataren der, gjort, det!&#x00BB; svarad eg. &#x00AB;Eg baud honom Mat <emph>med</emph> meg, som eg plagar, &#x2013; og so flaug han paa meg.&#x00BB;</p>
+<p>&#x00AB;Gakk din Veg!&#x00BB; skar Skulemeistaren i til honom Nils, &#x00AB;og lat meg aldri sjaa deg fyre Augo meir!&#x00BB;</p>
+<p><pb n="116"/>Gutarne hadde sleppt honom, Armingen, han kom seg seinleg paa Fot, tok Luva si i Handi og sjanglad burtetter Vegen, b&#x00F8;ygd i Ryggen og med lutande Hovud.</p>
+<p>&#x2013; Daa kastad eg meg gruve ned, og greet og tutad og tutad og greet. &#x2013; Dei trudde eg var galen, dei som stod i Kring um. Dei saag inkje, korleine det var Barnet <emph>i</emph> meg, som laag meinbrotet hikstad utanfyre stengda Dyri si eigi.</p>
+<figure rend="shortHorizRule"/>
+<p>Etter den Dagen saag me lite til honom Nils der i Grendi. Men me h&#x00F8;yrde segja, at han gjekk um med Posen i den hinare Sokni.</p>
+<figure rend="shortHorizRule"/>
+<p>So h&#x00F8;vde det um eit Bil, at han Anton var i Arbeid burte paa Seim.</p>
+<p>Kjem det daa ein annan Fant rekande.</p>
+<p>&#x00AB;Nei &#x2013; &#x2013; er det inkje han Anton? &#x2013; Gudag, gudag! &#x2013; er <emph>du</emph> her?&#x00BB; sa han.</p>
+<p>Han Anton vart som var han klumsad.</p>
+<p>&#x00AB;Ja, eg kann helsa fraa Dramn,&#x00BB; tok den andre i attr, og flirte.</p>
+<p>Og snart sagt, ei Stund seinare korn Lens mannen k&#x00F8;yrande, skulde hava Tak i Tatarfylgjet. &#x2013; Han fortalde um Brev fraa Dramn, der han <pb n="117"/>Anton hadde Kona og tri Born paa Fatikkassa, sidan han sj&#x00F8;lv var rymd, skuldig i Tjovsbrot.</p>
+<p>&#x2013; Tataren var inkje aa finna. &#x2013; Han vart sidan gripen burte ved Bergen. &#x2013; Men ho Birta laut fylgja med Lensmannen og vart sett i Holet. &#x2013; Dei tvo Smaaungarne maatte Bygdi taka seg av.</p>
+<p>Han Nils vart aaleina attr, uppe paa Harkahaugen; han vontest greida seg sj&#x00F8;lv, sa han.</p>
+<p>Han dreiv mykje paa med Snore- Veiding, tok Rjupor og Harar, som han selde til Kr&#x00E6;maren, og fekk litevetta til Livemaate att i Staden.</p>
+<p>Det h&#x00F8;vde inkje so til, at me tvo raakast.</p>
+</div>
+<div type="chapter" subtype="uchapter">
+<head>IV.</head>
+<p>Vetteren var hard og kald, med ovmykje Snjo.</p>
+<p>Paaskehelgi kom so tidleg, det Aaret; der var enno full Vettrakj&#x00F8;ld.</p>
+<p>Men Langafredagen slog det um i Lyvedr. Trei stod kvite, lavande av Frynserim, og den eine tunge, dysjeblaa Skybolken etter den andre steig upp um Kaldafjell og seig fram yver Himmelen.</p>
+<p>Ut paa Kvelden bar det til ausrigna, som du skulde sleget Vatn i eit Saald.</p>
+<p>&#x00AB;Der spyrst inkje v&#x00E6;l allestader i Morgon, er eg r&#x00E6;dd,&#x00BB; sa han Far.</p>
+<p><pb n="118"/>&#x00AB;Ja Gud hjelpe dei, som i Faaren sit!&#x00BB; svarad ho Mor til.</p>
+<p>Det var Snjoskridorna, dei meinte paa.</p>
+<p>Og best som me sat med Kveldsmaten vaar, der h&#x00F8;yrde me, det dunde nedre i Dalen. Duren vart sterkare og sterkare, so Grunnen paa Seinsten riste og skolv. &#x2013; Det var Storeskrida; me kjende henne paa Maalet.</p>
+<p>So small Juvaskrida laus &#x2013; ho var no so kvassm&#x00E6;lt, ho &#x2013; og sidan Breidskrida og enno fleira. &#x2013; Det heelt paa dynja og skaka alt i eitt.</p>
+<p>Eg vart svevnug, eg, og smaug i Seng. Men dei vaksne vart sitjande uppe.</p>
+<p>Det seinsta eg saag og h&#x00F8;yrde, fyrr eg sovnad, var henne Mor, som sat med Salmeboki si og song.</p>
+<p>&#x2013; Eg vaknad fjamseskr&#x00E6;md ved, at eg vart riven or Sengi og boren avstad. Og daa eg rett sansad meg, var eg komen aat Kjellaren, der han Far og ho Mor og Huslyden stod halvnakne ikring paa blauta Jordgolvet.</p>
+<p>Kvinnfolki ankad seg og tutad, og Kararne var heldr bleike og smaalaatne.</p>
+<p>&#x2013; Jau, der hadde gjenget ei Skrida ned trast vestan Garden, sakta var nokre av Husi skamf&#x00F8;rde, &#x2013; og ingen kunde vita, kva som i n&#x00E6;maste Blinken vilde henda.</p>
+<p><pb n="119"/>&#x2013; For endaa Kvaale ligg i Livd under Fjoshamaren, sagde Segni, at Garden for tvau Hundrad Aar sidan vart riven av ei Snoskrida.</p>
+<p>&#x2013; Men der var sidan um Notti heiltupp skridekyrrt. Og i Graalysingi gjekk me uppattr i Stova.</p>
+<p>Der saag illa ut paa Bustaden, daa Dagen var komen. Smidja var stroken sin Veg, Govet hadde rivet halve Fjostaket av, endaa til ei munaleg Flengja av Stovetaket; og N&#x00E6;vri foor fluksad og fauk i Vinden burtetter Haugar og Dekkr.</p>
+<p>&#x2013; I den hinare Sokni hadde tvo Gardar og tretten Menneskjor faret illa, spurdest det ved Kyrkja Paaskadagen.</p>
+<p>Men her i Grendi hjaa oss var det sjaaande, at det hadde gjenget Vono likare.</p>
+<p>&#x2013; Det leid alt fram yver Dugurd, daa han Kolbein Hagen kom med Bod, at Harkahaugen hadde gjenget ut, og at han Nils, inkje rettare Folk visste, hadde voret heima.</p>
+<p>Eg vart, der eg sat, som naamevalen yver heile Kroppen. Aa, du Nils, du vesle Nils!</p>
+<p>&#x2013; Ein eldr tvo Karar fraa kvar Gard staakad iveg uppetter, med Rekor og Grev paa Okslo.</p>
+<p>&#x2013; Det var, som krabbad F&#x00E6;lska meg nedetter Ryggen, berre eg drog meg i Tankar Harkahaugen og honom Nils. Men likav&#x00E6;l var det <pb n="120"/>meg inkje Raad vera heima, anna eitkvart dreiv og dreiv meg av Garde. Og so gjekk eg med, eg og.</p>
+<p>&#x2013; Av Husi der uppe var inkje anna aa sjaa en einkvar Stokken og Fj&#x00F8;li, som stakk upp av Snjogyrja Bakkerne nedetter.</p>
+<p>Kararne tok til grava, der dei trudde Stova hadde stadet. Dei naadde og nedpaa, men fann inkjevetta anna en berra Tufti.</p>
+<p>Ja, so var det uvisst leita. Dei spredde seg, gjekk rotad og grov i Snjoen baade her og kvar.</p>
+<p>Eg fylgde honom Salamon, eg. &#x2013; Best som det var, han stod st&#x00F8;yrde med Reka, der vart eg var nedre i Snoen ein Snip av eit graarututte Kl&#x00E6;desplagg, med ein stor, blank Knap paa.</p>
+<p>Og inkje at eg tok i Miste av anten Plagget eldr Knappen; den Tr&#x00F8;ya hadde i si Tid voret mi.</p>
+<p>Eg sette i med eit skjerande Illskrik, og skundad meg ifraa, so fort dei skjelvande Knei vann bera meg.</p>
+<p>&#x00AB;Her hev me honom, Karar!&#x00BB; ropad han Salamon.</p>
+<p>&#x2013; Og det var han Nils, som laag der, illareidd, so det var med Naudi han hekk saman, daa dei lagde honom yver fjore Bj&#x00F8;rkestaurar og bar honom imillom seg nedetter.</p>
+<p>Han Lars Seim sagad sund nokre Bord, slog <pb n="121"/>i Hop ei Kista, og lagde Liket nedi med sama; aa kl&#x00E6;da <emph>av</emph> og fli var Uraad, sundsleget og brotet som det var. &#x2013; Likbl&#x00E6;ja, det vart Gamlekl&#x00E6;di mine.</p>
+<p>So spikrad dei Kista.</p>
+<p>Tridje Paaskadagen kom ho i Kyrkjegarden paa Uppheim.</p>
+<p>&#x2013; Og so hadde han Fantanils Fred.</p>
+<figure rend="shortHorizRule"/>
+</div>
+</div>
+<div type="chapter" n="4">
+<head><ref type="contents" target="contents_4" xml:id="chapter_4"><pb n="123"/>HEIMAD&#x00D8;YPT.</ref></head>
+<div type="chapter" subtype="uchapter">
+<head><pb n="125"/>I.</head>
+<p>Fred, det var meir en <emph>eg</emph> hadde etter den Tilburden med honom Nils. Brotet vart liggjande tyngja som ein kaldvaat Skoddedott, som eg inkje kunde evla koma meg utor.</p>
+<p>Det var, som han Nils fylgde meg trutt, <emph>kvar</emph> eg so heelt til. Eg hugsar, kor eg stundom spratt i Vedret og saag attum meg, med so skili ei Nemjing, at eg hadde honom der strakst i Ryggen.</p>
+<p>Vissa var det no den Lukti av Kl&#x00E6;di hans, som eg inkje fekk ifraa meg.</p>
+<p>Det hende fleira Gonger, naar eg laag sov, at eg skvatt upp vitskr&#x00E6;md i Ferd med aa kovna. Daa var det han Nils som laag meg paa Bringa og strypte og strypte.</p>
+<p>H&#x00F8;vde det seg, eg laut framum Vegen til Harkahaugen, lagde eg jamt i Laup, det sn&#x00F8;ggaste eg vann.</p>
+<p><pb n="126"/>Ein Sundag, eg var ved Kyrkja, kjende eg, som vart eg nomen i Knei, daa eg steig inn paa Kyrkjegarden og hugsad, at det var her han Nils laag.</p>
+<p>Og Langsleden hans Lars Seim gjekk eg jamnan Umveg fyre, der han stod i Tunet, naar eg kom skulde i Skulen; for paa den Sleden var det, dei k&#x00F8;yrde honom Nils til Gravi.</p>
+<p>Det vart alt verre, di lengr det leid. &#x2013; Eg freistad beda til Vaarherre. Men der stod han Nils stengjande og skr&#x00E6;mde B&#x00F8;ni munnvali att ende; han stod der klagad og klagad meg fyre honom den rettvise Hemnaren, som hadde Evle kalla meg til Domen kva Tid og Time han vilde. Og berre altfor v&#x00E6;l tottest eg vita, kva eg so kunde venta meg.</p>
+<p>&#x2013; Men var der Bergingsvon, vart det daa likav&#x00E6;l Vaarherre eg maatte ganga til. Eg laut pr&#x00F8;va venda um og verta eit Guds Barn.</p>
+<p>At detta var ein tung, vand Veg, det hadde eg baade h&#x00F8;yrt og leset meg til. &#x2013; Og eg visste, det var ein hjarteleg Anger, som bar fram til Vegen sin fyrste Milestolpe.</p>
+<p>Eg totte endaa so, at eg hadde tregat Vondska mi beiskeleg. Men naar cg no tok til naglafara meg sj&#x00F8;lv og leita etter, vart det st&#x00F8;dt til, at den rette Angeren inkje var aa finna. Og di meir eg <pb n="127"/>trugad meg sj&#x00F8;lv til aa trega, di hardare og kaldare kjende eg meg i Hjartat.</p>
+<p>Segja seg laus fraa denna Verdi, <emph>det</emph> og var Kravet til dei som etlad seg den smale Stigen &#x2013; &#x2013;. Men <emph>den</emph> Bakken vart meg tung koma upp.</p>
+<p>Naar eg um Sundagen sat inne las i B&#x00F8;naboki eldr Huspostilen, fysste og saud den friske Barnafysna etter Leik meg i Hugen. &#x2013; Eg visste, at no heelt dei andre Gutarne paa &#x2013; &#x2013; synda seg <emph>burt</emph> med aa kasta Skothella nedre i Vegaskilet. Og <emph>det</emph> vart no verst for dei sj&#x00F8;lve, det. Eg hadde fenget Augo upplatne, eg, og hugsad kva tridja Bodordet baud. &#x2013; &#x2013; Men nei aa nei, so tr&#x00F8;ysamt dei likav&#x00E6;l maatte hava det!</p>
+<p>Det bar daa tidaste soleine til, at eg um sidar skundad meg med dirrande Hand stinga Salmeboki eldr Kakisma i Fikka, til aa hava som eit Plaaster eldr Muleband paa Samvitet, naar eg lagde av Garde i fljugande Tan.</p>
+<p>Og ingjen var sidan fusnare midt upp i Leiken en eg, til dess det var myrke Kvelden.</p>
+<p>&#x2013; So fekk eg annsamt med aa trega Brotet og lova Vaarherre og meg sj&#x00F8;lv, det skulde vera seinsta Gongi, eg leet den Freistaren lokka meg.</p>
+<p>Men naar Sundagen kom, tok det gjerna sama Leidi &#x2013; og detta uppattr og uppattr.</p>
+</div>
+<div type="chapter" subtype="uchapter">
+<head><pb n="128"/>II.</head>
+<p>Tidi skreid, til Pinsehelgi var yver.</p>
+<p>Daa var det, der kom ein Klokkesmid reikande og gav seg <emph>til</emph> framme paa Hauge.</p>
+<p>Det var nog so, han aatte heima nedre i Stavanger fraa det fyrsta, men hadde &#x2013; sa han &#x2013; i fleire Aar voret utanlands, baade i Engeland og Amerika. &#x2013; Han var ein vesal, skrinn Mann, med svart Haar og Skjegg og myrke, sterke Augo.</p>
+<p>Det spurdest snart, at han var med Lesaro. Sundagen etter han var komen heelt han Samling i Stova hans Torbj&#x00F8;rn Hauge; og dei som hadde voret der var sams um, at Make til kl&#x00F8;kkjande Preikar hadde dei aldri h&#x00F8;yrt.</p>
+<p>Det varad inkje lenge, fyrr han preikad mest til kvar einaste Kvelden, antan i vaar eigi eldr og Grannabygdi. Folk tok til kvekkjast upp or Syndasvevnen baade her og kvar, og Klokkesmeden vart alst&#x00F8;dt fagnad som eit reint serlaga Gudsmenne.</p>
+<p>&#x2013; Nei, der var det ein Sundagseftan han talad burte paa Seim. Men eg skal tru, der kom Undring og St&#x00F8;kk i Mugen, daa han paa Seinsten i Preiki si ordad ut um, at det var v&#x00E6;l nog, nokon kvar tok til s&#x00F8;kja den tronge Vegen til Gudsriket, &#x2013; berre det inkje vart eit Str&#x00E6;v i <pb n="129"/>Faafengdi, naar det var paa sj&#x00F8;lvvisa Gjerdi vaar eigi, me gjekk fram. Alle saman kjende me Bodet: <emph>fyrst Tru, og sidan Daup!</emph> &#x2013; soleine var det, Vaarherre vilde hava det. Men var det kanhenda likav&#x00E6;l inkje den vanlege Visi aa freista trengje seg inn gjenom Porten trass imot desse Ordi, som ingjen kunde ynskja seg klaarare. &#x2013; Endaa <emph>han</emph> vilde so langt ifraa setja seg upp paa Domarestolen; det fekk Vaarherre gjera, han med Naaden h&#x00F8;gre en alle Himlar. &#x2013; Men kor som var: den, som paa rette Maaten vilde yver Gudsriket sin Durstokk, laut <emph>fyrst</emph> tru, og <emph>so</emph> verta d&#x00F8;ypt. Og til dei som var d&#x00F8;ypte fyrr dei enno evlad tru, vilde han segja: <emph>lit</emph> inkje paa Barnadaupen dykkar! gakk heldr stad lat dykk d&#x00F8;ypa uppattr!</p>
+<p>&#x2013; Eg skal berre med Harafot snerta innpaa alt det Uppstyret, som detta gav St&#x00F8;yten til der i Heimkrinsen, korleine Bygdarfolket sankad seg i tvo Hopar, ein st&#x00F8;rre, som heelt Preikaren for ein Satan sin Utsending, og ein mindre som fann honom vera burtimot ein Engel fraa Vaarherre, &#x2013; at Presten og Attrd&#x00F8;yparen paa nokre M&#x00F8;te, dei heelt, kjeftast so det fauk etter; og meir sovoret. Nog er det, at han Torbj&#x00F8;rn Hauge og han Ola, Son hans, og so han Jens Teigen vart <pb n="130"/>uppattrd&#x00F8;ypte, fyrr Klokkesmiden strauk sin Veg utpaa Hausten.</p>
+</div>
+<div type="chapter" subtype="uchapter">
+<head>III.</head>
+<p>Men det var dette eg vilde draga fram, at i Hugen min eigen, saar som han alt var det, tok Attrd&#x00F8;ypartankarne seg Meintak, &#x2013; og det kunde dei so mykje meir, som det var meg kunnigt, at eg inkje var d&#x00F8;ypt plent soleine som flestalle andre.</p>
+<p>Jau, for eg hadde h&#x00F8;yrt fortelja, at der nog var lite sjaaande Liv <emph>i</emph> meg, daa eg kom her til Verdi: og so klembde dei i ein Ruff til d&#x00F8;ypte meg med sama, daa dei f&#x00E6;lte, eg snart skulde slokna. Men kor rettugt det med detta var tilgjenget, det maatte Vaarherre vita!</p>
+<p>Eg byrjad so smaat fretta <emph>etter</emph> hjaa henne Mor, &#x2013; og fekk so Greida paa, at det var Godmor som d&#x00F8;ypte meg, daa ingen likare var tilstadar!</p>
+<p>Ho gamle Godmor! &#x2013; tungh&#x00F8;yrd og stutthugsi som eg mintest henne! &#x2013; &#x2013; aa ja, det var kje betre ventande daa, en at det kunde hava gjenget ymist!</p>
+<p>So naar alt korn til alt, stod eg kanhenda lika med sj&#x00F8;lve Heidningo, eg Og galne Vegen <pb n="131"/>peikad det, um eg aldri so mykje freistad verta eit Guds Barn; for Daupen var no Dyri, han, kor so.</p>
+<p>Hadde eg berre stadet jamsides alle dei hine, &#x2013; voret kyrkjed&#x00F8;ypt! &#x2013; eldr d&#x00F8;ypt av Mannshand endaane! &#x2013; det kunde likav&#x00E6;l fenget skura for meg som for andre daa. &#x2013; Men denna gamla Kjeringi! &#x2013; &#x2013; du skulde aldri i Verdi Maken til Tusseskap hava h&#x00F8;yrt!</p>
+<p>At dei bar meg aat Kyrkja ein Sundagen seinare og leet Presten lesa yver meg &#x2013; hm! <emph>det</emph> var der jamen liten Bate i, naar det lika godt var paa den Gudmordaupen, eg var kristna Menneskja.</p>
+<p>&#x2013; Eg kjende meg us&#x00E6;l og illa, som hadde eg &#x00E6;veleg Ulukka hangande i eit Haar yver Hovudet. <emph>Ei</emph> Greida laut der paa einkvar Maaten verta; for detta var inkje til aa halda ut.</p>
+<p>Og som det leid, greip det meg meir og meir ein brennande Hug til aa faa tala med Klokkesmiden.</p>
+<p>&#x2013; Jau, der ein Eftan smeit eg meg av Garde; &#x2013; for han Far var sinnad paa Attrd&#x00F8;yparen som paa honom Gaml-Eirik sj&#x00F8;lv.</p>
+<p>Eg var so heppen aa finna Mannen heima og endaa til aaleina; for Gardsfolki var enno ute paa Slaatteteigen.</p>
+<p><pb n="132"/>Det var med Skjelte um Hjartat og dirrande Kne, eg steig inn og fekk ei vesal Helsing or Munnen.</p>
+<p>Kva &#x00C6;rend eg hadde? spurde han.</p>
+<p>Og seint um sidar fekk han Meiningi av stamande Ordi mine sankad i Hop.</p>
+<p>Um eg hadde gjenget fyre Presten?</p>
+<p>Nei, eg skulde ikkje fyre komande Aaret.</p>
+<p>Han heelt paa ei heil Stund spyrja <emph>etter</emph> um baade detta og detta. Sidan tok han til leggja ut um, kor s&#x00E6;l den var, som skundad seg or Sodoma og rymde til Zoar, fyrr Eldflaumen kom, &#x2013; og endaa ei heil Regla, som eg lite skynad, men di meir kjende meg agad av. So gav han meg nokra Smaab&#x00F8;ker, og bad meg koma <emph>til</emph> seg attr. &#x2013;</p>
+<p>Heima stal eg meg Stunder til grunda B&#x00F8;kerna igjenom. Eg tottest finna greidare og greidare Meiningi <emph>i</emph> dei etter kvart, og det vart meg alt vissare, dei synte retta Leidi.</p>
+<p>Men samstundes seig det meg tyngre og tyngre inn paa Hugen, kor forf&#x00E6;lande det vilde vera, um det likav&#x00E6;l paa Seinsten skulde syna seg, at Presten og dei hine hadde Rett.</p>
+<p>Daa spurdest i Bygdi Attrdaupen hans Torbj&#x00F8;rn Hauge. &#x2013; Og detta aukad Elden under Traai mi eigi. Det vart inkje onnor Raad, eg laut lata staa <emph>til</emph>, eg og.</p>
+<p><pb n="133"/>Kunde eg berre faa einkvar Kjenningen min med! &#x2013; eg vilde likasom vera meir ankalaus, daa, totte eg.</p>
+<p>Um eg no freistad gjera R&#x00F8;ynsla med honom Sjur-Ola.</p>
+<p>&#x2013; Han hadde vokset seg baade stor og sterk, han Ola, hadde vissa i dei tvau seinste Aari reint vunnet Munen fyre <emph>meg</emph>. Eldende braadsinnad var han, naar noko bar imot, og det batad aldri taka honom med Trumf; men med Finleike og Fyretola kunde eg jamnaste faa honom litug som ein Saud.</p>
+<p>&#x2013; Og som me so ein Dagen raakast, tok eg til styra R&#x00F8;da inn paa &#x00C6;velengdi sine Leider.</p>
+<p>&#x00AB;Du,&#x00BB; sa eg, &#x00AB;nedre i Helvite, der maa vera &#x00F8;gjelegt, der.&#x00BB;</p>
+<p>Ja, det h&#x00F8;yrdest so, svarad han.</p>
+<p>&#x00AB;Berre me endaane slapp koma der, <emph>eg</emph> og du, Ola!&#x00BB;</p>
+<p>Jau, han vilde daa vonast <emph>det</emph>.</p>
+<p>Men um det no var Sanningi, detta som Attrd&#x00F8;yparen sa? &#x2013; so jamen kunde det knipa for nokon kvar. &#x2013; Og eg so til etter dessa B&#x00F8;kerna leggja ut um Barnadaup og Attrdaup.</p>
+<p>Det var sjaaande, kor han meir og meir vart &#x00E6;ttavill.</p>
+<p><pb n="134"/>Jau, so kom det eit Motm&#x00E6;le svivande honom paa Tunga.</p>
+<p>&#x00AB;Men du kann daa vita, at Presten skynar det betre, han, en den Klokkesmiden!&#x00BB;</p>
+<p>Presten! &#x2013; &#x2013; var det kanhenda ikkje just Prestarne som fekk Vaarherre sj&#x00F8;lv hengd upp paa Krossen? &#x2013; so <emph>dei</emph> var rette Gutarne lita paa!</p>
+<p>Eg veit ikkje, kvar eg hadde fenget Fat paa Tanken soleine skoren. Men nog er det, at detta gjorde det <emph>av</emph> med honom Ola, samstundes som det gav St&#x00F8;dleike i mit eiget Tiltak.</p>
+<p>Og fyrr me skildest, hadde me snakkat <emph>av</emph>, at me baade tvo i al mogeleg L&#x00F8;ynd skulde ganga stad faa oss uppattrd&#x00F8;ypte.</p>
+<p>&#x2013; Nokre Dagar seinare gjekk Klokkesmiden framum, nord til Teigen; daa han so ut paa Eftansida kom attr, vaktad me honom upp framme i L&#x00F8;nalunden.</p>
+<p>Og den som inkje lengr var bljug og fjamsen, det var <emph>eg</emph>. &#x2013; Han Ola berre sa ha og ja, han, medan <emph>eg</emph> gjorde Greida for baade honom og meg.</p>
+<p>&#x00AB;Ja,&#x00BB; tok Attrd&#x00F8;yparen frami, &#x00AB;jeg tror, I nu med Rette kan sige med hin Kammersvend fra Morland: her er Vand, hvad hindrer os i at blive d&#x00F8;bte?&#x00BB;</p>
+<p>Det var eit Tj&#x00F8;rntrakst inne i Skogen, heitte <pb n="135"/><emph>L&#x00F8;na-Demma</emph>, han meinte paa. <emph>Der</emph> var det og, at han <emph>fyrr</emph> hadde d&#x00F8;ypt.</p>
+<p>Han ut av Vegen, og me etter.</p>
+<p>Men med sama eg fekk sjaa Vatnet blenkja millom Stuvo, kom der yver meg ein f&#x00E6;lskeleg Skjelte, so det var med Naudi eg vann halda meg paa Fot.</p>
+<p>Me fekk Bod taka av oss Kl&#x00E6;di.</p>
+<p>Ja, han Ola skal fyrst! meinte eg.</p>
+<p>Kvifyre det?</p>
+<p>Jau &#x2013; &#x2013; han &#x2013; &#x2013; han var fjortan Dagar eldre, han! &#x2013; Eg fann inkje i Sn&#x00F8;ggvenda nokon likare Grunn.</p>
+<p>No ja, tok so han Ola til kl&#x00E6;da <emph>av</emph> seg, utan aa m&#x00E6;la Ordet, berre glanande munnopen fram fyre seg, reint som trollfjetrad.</p>
+<p>&#x2013; Klokkesmiden skilde seg <emph>av</emph> med Nedre-Ploggi sine, tok Guten i Handi, og dei vassad fine Sandbotnen utetter, til Vatnet naadde dei ein Stubbe ovan Kneet.</p>
+<p>So vart han Ola duppad fyrsta Rappet.</p>
+<p>Han hikstad stygt etter Anden, daa han kom uppattr, og var heldr stiv i Ryggen, som han andra Gongi vart duppad.</p>
+<p>Men daa han skulde hava den tridje Duppen, startad han trass imot.</p>
+<p>D&#x00F8;yparen paa <emph>si</emph> Sida &#x2013; brennande i Andi <pb n="136"/>som han sagta var &#x2013; tok paa r&#x00F8;yna; og daa inkje anna vilde bata, slog han Krok, so Guten kom veggjande vidopen ned i Vattnet.</p>
+<p>Men aldri fyrr var han Ola paa Fot attr, fyrr han flaug beint bust i Bringa paa Attrd&#x00F8;yparen; og Augneblinken etter bar det i Koll med dei baade tvo.</p>
+<p>Nei, daa eg so saag skitne Pulderen slaa saman yver dei, daa ramlad eg laus i ei L&#x00E6;gjing, so eg vart liggjande kr&#x00F8;kja meg paa Bakken.</p>
+<p>Eg skrattad, som skulde eg kovna, daa dei reis og vassad iland, skrattad, daa Klokkesmiden &#x2013; silande vaat som ein Hund i Regnvedr &#x2013; tok til bannlysa yver oss, skrattad, daa han Sjur-Ola &#x2013; som var i Ferd med aa kl&#x00E6;da seg paa &#x2013; i berra Skjorta flaug upp jagad honom inn igjenom Skogen og so heiv Broki, Sokkarne og Styvlarne hans paa Vatnet, &#x2013; skrattad, daa so Guten paa eit hengjande Haar var reidug gjeva meg Smurning, meg og, &#x2013; skrattad og rullad meg og rullad meg og skrattad. &#x2013; Og endaane daa eg um sidan laag heima i Sengi mi frampaa Notti, vart det endr og Gong ved nykkja og klukka <emph>i</emph> meg, trass eg var saar i Magen som ein Kaun.</p>
+<p>&#x2013; Han Ola var paa Heimvegen eitrende vond og gav illt fraa seg, bannad baade Attrd&#x00F8;yparen og meg og heile Hurven, so det berre logad.</p>
+<p><pb n="137"/>&#x2013; Men naar Vegerne skildest, og eg sidan foor ruslande aaleina i Sumarskvelden millom Bj&#x00F8;rkerna i Kvaalshagen, daa vart eg Tak um Bil standande lyda, kor fagert det leet, naar Sysvorti song. &#x2013; Det var, som eg inkje fyrr hadde h&#x00F8;yrt henne det Aaret.</p>
+<figure rend="shortHorizRule"/>
+</div>
+</div>
+<div type="chapter" n="5">
+<head><ref type="contents" target="contents_5" xml:id="chapter_5"><pb n="139"/>HJELPELAUS.</ref></head>
+<div type="chapter" subtype="uchapter">
+<head><pb n="141"/>I.</head>
+<p>Naar eg ligg um Notti aa inkje f&#x00E6;r sova, daa er det at Minni kjem paa Vitjing. Eitt etter eit kjem dei strjukande framum det Vindaugat, Saali mi hev ut mot den Tidi, som hev voret.</p>
+<p>Og eg kjenner dei so v&#x00E6;l, dei med Ange av Skog og Dur av Foss, dei med Eim af Tobak og Surr av staakande Hopar, her eit L&#x00E6;te og der eit Likan, &#x2013; kjenner dei so naudende v&#x00E6;l alle saman, nokre endaa berre altfor v&#x00E6;l.</p>
+<p>Men endr og Gong hender det, at so den og so detta av det lettf&#x00F8;tte Fylgjet stoggar i Laupet, sviv til, og helsar gjenom Ruta.</p>
+<p>Det er sume som eg daa retter Armarne til V&#x00E6;lkoma, med B&#x00F8;n aa bida di lengr di betr. Og det er andre som eg h&#x00F8;yrer og ser nett lika godt, trass alt eg g&#x00F8;ymer Augo og &#x00D8;yro inn-under Puta.</p>
+<p>&#x2013; No her i Nott var det vissa nokre Kjenn<pb n="142"/>ingar eg longo hadde gl&#x00F8;ymt, som stanad utanfyre og glytte inn. Det var tri Par Augo.</p>
+<p>Og desse tri Augnapari er det, som idag manar meg til fortelja denna Soga.</p>
+</div>
+<div type="chapter" subtype="uchapter">
+<head>II.</head>
+<p>Den Sumaren eg gjekk fyre Presten lagad det seg so, at eg fekk meg ei Byrsa.</p>
+<p>Han Per Seim, Trimenningen min, skulde fara til Amerika. Fyrr han strauk, kom han hit til Kvaale, bad V&#x00E6;lliva, og daa hadde han vesla Hagla si med; henne skulde <emph>eg</emph> hava til eit Minne, sa han.</p>
+<p>&#x2013; Endaane same Kvelden laut han Salamon l&#x00E6;ra meg lada og taka Sigte. Og fyrr det vart myrkt, hadde eg alt sett inn den eina Hagldriva jamnsides den andra Smidjeveggen burtyver.</p>
+<p>&#x2013; Dagen etter var det Sundag. &#x2013; Det var inkje til aa halda ut, so leid og keid eg vart den langa Preiki han Far las upp or gamle Huspostillen hans Jesper Brockmann; Byrsa leikad meg i Tanken heila Tidi.</p>
+<p>Og daa eg v&#x00E6;l hadde Dogurden i meg, var eg inkje sein taka Byrsa og leggja Vegen uppetter Lidi.</p>
+<p>Eg hadde so hugheil ei Von, at mindre en <pb n="143"/>ein Rev kom eg inkje heimattr med. Ja, kven kunde vita, &#x2013; kanhenda raakad eg fram paa Bamsen sj&#x00F8;lv, so eg fekk gjeva honom eit Skot inn i &#x00D8;yra. Det var soleine han gjorde det, Guten uppe i Nordland, som det stod lesa i Bladet um.</p>
+<p>Eg skal lova, eg brukad baade &#x00D8;yro og Augo, der eg gjekk.</p>
+<p>Eg jagad upp ei Kraaka. Men henne var eg for storfelt til aa bry meg vidare um.</p>
+<p>H&#x00F8;gt uppe saag eg &#x00D8;rni sigla paa sine breide Vengjer i Krins kring Nuten, der ho hadde Reidret sitt, &#x2013; trygg i Verdi si eigi, dit Mannemagt rokk inkje.</p>
+<p>Men ingen Bamse fekk eg Auga paa, og ingen Rev, inkje eigong ein vesal Hare.</p>
+<p>Skogen laag mosen og lat i Solsteiken, naut si Sundagskvild, og berre Songfuglarne uppe millom Greino gav livande L&#x00E6;te i Stilla.</p>
+<p>&#x2013; Soli heelt alt paa luta den runde raude Kjaken sin ned til Fjellet i Vest, daa eg snudde og ruslad nedetter, utan at eg hadde l&#x00F8;yst Skotet.</p>
+<p>Og myrk i Hugen var eg, der eg gjekk. Eg keik til alle Sidor etter ei Kraaka eldr Skjor, um det ikkje var anna; eg hadde meir en gjerna teket til Takka no. Men i Faafengdi vart det.</p>
+<p>&#x2013; Daa h&#x00F8;vde det, eg vart var ein liten Fugl i ein Krake strakst burtanfyre. Han saag <pb n="144"/>so glad og so godtruen ut, som han sat der paa Greini og kinkad seg og smaatrallad.</p>
+<p>&#x2013; Eg hadde elles jamt voret slik ein Ven med alle Smaafuglar, hadde endaa meir en ei Gong lagt meg imillom, naar einkvar Gutungen etlad seg gjera dei Meinka. Men no fekk Vondska Yvertaket i Hugen min med ei Fysna etter aa drepa, so eg lagde Byrsa til Kjaken og klembde laust.</p>
+<p>R&#x00F8;yken sveiv undan. &#x2013; Men eg skal tru, eg vart undren, daa eg so fekk sjaa, at vesle Fuglen sat der paa same Staden. Eg gjekk n&#x00E6;mare til; men sitjande vart han, med Velet stydjande ned paa Greini.</p>
+<p>Eg kunde sjaa, kor hardt ho str&#x00E6;vad, den fina, graakvita Bringa, endr og Gong gjekk der ein Bivr gj&#x00F8;nom vesle Kroppen, og nedre under eine Vengen kom der fram ei liten h&#x00F8;geraud Prikk.</p>
+<p>Eg vart standande handfallen saag paa. Men di lengr eg saag, di meir var det dei tvau Fugl-Augo, som reint klumsad meg.</p>
+<p>Dei var runde og blanke som Vassdropar; men det var Liv, som blenkte i dei, blenkte og blinkad nedigj&#x00F8;nom ei svart, botnalaus Djupn.</p>
+<p>Byrsa datt meg ut or Nevo. &#x2013; Og etter kvart skipad det seg, som der inkjevetta anna fanst, der framfyre, en desse Augo.</p>
+<p><pb n="145"/>Paa Seinsten vart det til di, at eg inkje berre saag, men paa einkvar Maaten endaatil tilh&#x00F8;yrde dei. Eg gaadde dei kje livd-bedande, heldr inkje hemn-ropande, &#x2013; anna det var som gav dei ifraa seg ein Straum av Kviskring, som eg sterkare og sterkare kjende dirra og skjelva meg inn i Samvitet, der han lagad seg til ei skili, kj&#x00F8;vande Kjensla av <emph>hjelpelaus</emph>.</p>
+<p>&#x2013; Daa med eit skar den Tanken meg gjenom Hugen, at eg vart galen, um eg inkje reiv meg laus og fekk desse tvo Augo ut or Verdi.</p>
+<p>Snaapt som Eldingen treiv eg ein Lurk og dreiv til Fuglen, so han foor trillande nedetter Bratta.</p>
+<p>Men eg gav meg inkje med detta, eg slog so Moldi sprutad, slog og trakkad og trakkad og slog, reint som var eg rasande, heelt paa so lenge der var Fj&#x00F8;r i aa sjaa.</p>
+<p>So treiv eg Byrsa og lagde nedetter i tanande Sprang, som hadde eg den vonde sj&#x00F8;lv jagande i H&#x00E6;lo etter meg.</p>
+<p>&#x2013; Men trudde eg soleine aa hava tynt dei tvo Augo, tok eg imiste. Det varad lenge, at dei Tak um Bil kom svivande og skr&#x00E6;mde meg, anten eg so var vaken eldr sovande.</p>
+<p>Og det veit eg, at inkje eit einaste Skotet meir skaut eg med den Byrsa.</p>
+</div>
+<div type="chapter" subtype="uchapter">
+<head><pb n="146"/>III.</head>
+<p>Det var fem Aar seinare. Eg var komen til Kristiania, daa, og dreiv paa med &#x00AB;<emph>mensa</emph>&#x00BB; og slikt noko.</p>
+<p>H&#x00F8;vde det seg so ein Dagen, at eg hadde &#x00C6;rend upp paa Hegdehaugen.</p>
+<p>Det var Slabbevedr, so det forslog. Det smaaregnde, og Skodda laag breidde seg kaldvaat og tung med Tev av Steinkolsr&#x00F8;yk og onnor Ufysa, so det med Naudi var Eaad til anda.</p>
+<p>Uppe paa Fortoget f&#x00F8;tad Folk seg taatippa framum kvarandre i Sufset, og berre einkvar Skuleguten traskad stad, so det skranglad i Skreppa hans, medan S&#x00F8;yla stod honom i Driva um Styvleleggjerne.</p>
+<p>Ute i Gata var det som ei einaste Elta av Mold og Snjo og V&#x00E6;ta; det slafsad og skvatt um kvar Hestahoven som staukad og um kvar Kjerra som k&#x00F8;yrde.</p>
+<p>&#x2013; Ovan Halde-Plassen saag eg ei Vogn med eit munalegt Mursteinslass. Ho kom inkje av Flekken; for Hjuli hadde bitet seg fast nedre i Surpa.</p>
+<p>K&#x00F8;yrekaren saag ut til vera ein Vaterlands-Slusk av Velten. Full var han, so han sjanglad.</p>
+<p><pb n="147"/>Hesten var ein brun tunnvoren ein. Han str&#x00E6;vad det han vann, han; graakvita Skumet valt honom nedetter Sidorna, nedan Hyvret synte der seg jamvel Blod i, so <emph>der</emph> var han sakta broten, Stakkar. &#x2013; Det var sjaaande, kor han spende alla Sinar, kvar Gongi han lagde seg i Selen og nykte og nygte, <emph>no</emph> enda fram, <emph>so</emph> til den eina Sida og <emph>so</emph> til den andra.</p>
+<p>Men Mannen berre skreik og bannad og brukad Svipa alt i eitt.</p>
+<p>So var det, som Hesten gav seg reint yver. Han stod ei Bil og hengde med Hovudet, tevad og tevad, berre bivrad og kr&#x00F8;kte seg, kvar Gongi</p>
+<p>Svipa kom sjugande gjenom Lufti.</p>
+<p>Men bedst som det var braadskaut han seg attende, og so frami attr, so du skulde tru Bein og Bunor hadde brostet. Han tevlad og sparkad, berre gav <emph>paa</emph> og gav <emph>paa</emph>. Men det hjelpte inkje, &#x2013; Vogni rikkad seg kje eigong.</p>
+<p>Daa glatt Taket undan Framfoto, so han kom paa Knei ned i blauta Gyrja. Og soleine vart han standande still framstupa, utan so mykje som aa freista koma seg uppattr, med alt det Karen skreik og slog verre en nokosinne.</p>
+<p>Det var ved detta Leitet, at eg gjekk burtaat. &#x2013; Og der i den Hestahausen vart eg var tvo Augo, som fekk kvar Strengen i Saali mi <pb n="148"/>til aa dirra Eg kann enno i Minnet mana meg fram attr Livet <emph>i</emph> dei som ein blikrande Ljoske gjenom tvo dimma Hornrutor. &#x2013; Endaa det vart inkje berre at eg saag dei, eg tottest h&#x00F8;yra dei og, &#x2013; h&#x00F8;yrde dei kviskra meg inn i Saali denne kj&#x00F8;vande Kjensla av <emph>hjelpelaus</emph>.</p>
+<p>&#x2013; Um sovoret var Folkaferd med eit um&#x00E6;lande Dyr?! busad eg ut.</p>
+<p>&#x2013; Um eg vilde vera so god passa meg sj&#x00F8;lv og elles halda min forbannade Kjeft?! meinte Mannen. Kva kom <emph>han</emph> og Hesten hans <emph>meg</emph> ved? Eldr kanhenda eg hadde Hug smaka Svipa, eg og? &#x2013; so skulde der endaa verta Raad med <emph>di</emph>; for det h&#x00F8;vde seg just, han i so Maate hadde Spander-Broki paa seg, &#x2013; leet han.</p>
+<p>&#x2013; Men kva so <emph>eg</emph> gjorde? &#x2013; jau, eg flaug strakst stad fekk Fat i ein Politimann, og han drog aat Byen med baade Karen og Hesten. &#x2013; Det var det seinsta eg saag dei.</p>
+</div>
+<div type="chapter" subtype="uchapter">
+<head>IV.</head>
+<p>Eg hadde ein Ven som budde beint yver Gata ifraa &#x00AB;<emph>Mangels-Gaarden</emph>&#x00BB; dei kallar &#x2013; dit dei fatike i Kristiania dreg seg stad bankar paa, naar alle andre Dyrer er stengda &#x2013;.</p>
+<p><pb n="149"/>Hjaa denne Venen min hadde eg voret uppe ein grusjen November-Dag, daa eg gaadde, med sama eg steig utattr gjenom Gatedyri, eit Kvinnfolka-Likan med Andlitet i Hendo, som sat ihopakr&#x00F8;kt paa kalda Steintroppi.</p>
+<p>Eg fetad fyrst framum, men snudde, og spurde kva som vantad.</p>
+<p>Ho leest inkjevetta gaa.</p>
+<p>So gjekk eg tettare innaat, og spurde uppattr.</p>
+<p>Daa lyftad ho Hovudet tungt og saag upp.</p>
+<p>&#x2013; Men Augo hennar, som eg i den Stundi hadde dei vidopne der trast framfyre meg, blenkjande, inkje i Taare-Gidr, men med ein blaagraa Kald-Glitr, som naar Vatn haustdags tek til stinkla av Frosten, &#x2013; &#x2013; det var attr denna kj&#x00F8;vande Kjensla av <emph>hjelpelaus</emph>, dei dirrad meg inn fyre Bringa.</p>
+<p>&#x00AB;Eg &#x2013; &#x2013; er &#x2013; &#x2013; sjuk,&#x00BB; h&#x00F8;ste ho, &#x00AB;hev leget &#x2013; &#x2013; ute i Nott &#x2013; &#x2013; &#x2013; &#x2013; inkje smakat &#x2013; &#x2013; Biten idag.&#x00BB;</p>
+<p>Kvar det var, ho h&#x00F8;yrde heima eldr etlad seg <emph>stad?</emph></p>
+<p>Ho peikad burt imot &#x00AB;Mangels-Gaarden&#x00BB;. &#x00AB;Men so fekk eg &#x2013; &#x2013; so vondt &#x2013; &#x2013; so vondt.&#x00BB;</p>
+<p>&#x2013; Ja, eg hadde kje betre triva til, eg, en taka arma Kjeringi og halvt bera halvt stydja henne yver Gata.</p>
+<p><pb n="150"/>Eg ringde; og der kom ein Kar leet upp. Eg skundad meg stinga henne ein Tolvskiling i Neven.</p>
+<p>Og Porten small <emph>i</emph> etter henne.</p>
+<p>So snudde eg og bautad meg fram gjenom Folkastraumen i Gatorna; eg var missn&#x00F8;gd med meg sj&#x00F8;lv og med heila Verdi og eg kom te tenkja: kor s&#x00E6;lt aa kunna eiga, likasom Vaarherre, Evle etter Ynskje til aa hjelpa den hjelpelause.</p>
+<figure rend="shortHorizRule"/>
+</div>
+</div>
+</body>
+</text>
+</TEI>

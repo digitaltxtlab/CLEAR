@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://www.nslnorge.no/tekster/NSL_texts.xsl"?>
+<!DOCTYPE TEI PUBLIC "-// NSL Norge //EN" "http://www.nslnorge.no/tekster/NSL_tei_xinclude.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="BS_Vinje_UtvalgteDikt">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>bokselskap.no, 2011
+<lb/>Aasmund Olavsson Vinje: <hi rend="italic">Utvalgte dikt</hi></title>
+</titleStmt>
+<publicationStmt><p>Publiseres som digital tekst av bokselskap.no.</p></publicationStmt>
+<sourceDesc>
+<p>digibok_2009071303002.txt (mottatt fra Nasjonalbiblioteket/Bokhylla.no, 2011)</p>
+</sourceDesc>
+</fileDesc>
+<revisionDesc>
+<change who="ENW" when="2011-05-05">F&#x00F8;rt inn korrekturresultatene. Kodekontroll.</change>
+<change xml:id="ENW" who="ENW" when="2011-04-12">Transkribert og kodet. Filen klar for korrektur.</change>
+</revisionDesc>
+</teiHeader>
+<text xml:id="BS_Vinje_UtvalgteDikt_tekst" type="collection">
+<front>
+<titlePage type="main">
+<byline><docAuthor>Aasmund Olavsson Vinje</docAuthor></byline>
+<docTitle>
+<titlePart type="main">Utvalgte dikt</titlePart>
+</docTitle>
+<docDate>1864<note type="footnote">Tekstene er hentet fra <hi rend="italic">Diktsamling</hi>, 1864 og basert p&#x00E5; fil mottatt fra Nasjonalbiblioteket/Bokhylla.no.</note></docDate>
+</titlePage>
+<div type="chapter" subtype="illustration">
+<figure><graphic url="Vinje.jpg"/></figure>
+</div>
+<div xml:id="contents">
+<list type="contents_main">
+<item><ref target="chapter_1" xml:id="contents_1">Vaaren</ref></item>
+<item><ref target="chapter_2" xml:id="contents_2">Ved Rundarne</ref></item>
+<item><ref target="chapter_3" xml:id="contents_3">Den S&#x00E6;rde</ref></item>
+<item><ref target="chapter_4" xml:id="contents_4">Langs ei Aa</ref></item>
+<item><ref target="chapter_5" xml:id="contents_5">Leitande efter Blaamann</ref></item>
+</list>
+</div>
+</front>
+<body>
+<div type="chapter" subtype="poem" n="1">
+<head><ref type="contents" target="contents_1" xml:id="chapter_1">Vaaren.</ref></head>
+<lg>
+<l>Enno ein Gong fekk eg Vetren at sjaa for Vaaren at r&#x00F8;ma;</l>
+<l>Heggen med Tre som der Blomar var paa eg atter saag bl&#x00F8;ma.</l>
+<l>Enno ein Gong fekk eg Isen at sjaa fraa Landet at fljota,</l>
+<l>Snjoen at braana, og Fossen i Aa at fyssa og brjota.</l>
+<l>Graset det gr&#x00F8;ne eg enno ein Gong fekk skoda med Blomar;</l>
+<l>enno eg h&#x00F8;yrde at Vaarfuglen song mot Sol og mot Sumar.</l>
+<l>Enno ein Gong den Velsignad eg fekk, at Gauken eg h&#x00F8;yrde,</l>
+<l>enno ein Gong ut paa Aakren eg gjekk, der Plogen dei kj&#x00F8;yrde.</l>
+<l>Enno ein Gong fekk eg skoda meg varm paa Lufti og Engi;</l>
+<l>Jordi at sjaa som med lengtande Barm at sukka i S&#x00E6;ngi.</l>
+<l>Vaarsky at leika der til og ifraa, og Skybankar krulla,</l>
+<l>so ut av Banken tok Tora til slaa og kralla<note type="footnote">den sagte, afbrudte Duren</note> og rulla.</l>
+<l>Saagiddren<note type="footnote">Af giddra, leika up og ned. Vaareimen, Dunsten, som leikar paa Vaarbakken liksom eit S&#x00E6;dekast.</note> endaa meg unntes at sjaa paa Vaarbakken dansa,</l>
+<l>Fivreld<note type="footnote">Fj&#x00E6;ril, Sommerfugl.</note> at floksa og fjuka ifraa der Blomar seg kransa.</l>
+<l>Alt dette Vaarliv eg atter fekk sjaa, som sidan eg miste.</l>
+<l>Men eg er tungsam og spyrja meg maa: tru det er det siste?</l>
+<l>Lat det so vera: Eg myket av V&#x00E6;nt i Livet fekk njota.</l>
+<l>Meire eg fekk enn eg havde fortent, og Alting maa trjota.</l>
+<l>Eingong eg sj&#x00F8;lv i den vaarlege Eim,<note type="footnote">Damp.</note> som mettar mit Auga,</l>
+<l>eingong eg der vil meg finna ein Heim og symjande lauga.</l>
+<l>Alt det som Vaaren im&#x00F8;te meg bar, og Blomen eg plukkad&#x0027;,</l>
+<l>Federnes Aander eg trudde det var, som dansad&#x0027; og sukkad&#x0027;.</l>
+<l>Derfor eg fann millom Bj&#x00F8;rkar og Bar i Vaaren ei Gaata;</l>
+<l>derfor det Ljod i den Fl&#x00F8;yta eg skar, meg tyktes at graata.</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem" n="2">
+<head><ref type="contents" target="contents_2" xml:id="chapter_2">Ved Rundarne.</ref></head>
+<lg>
+<l>No seer eg atter slike Fjell og Dalar,</l>
+<l>som deim eg i min f&#x00F8;rste Ungdom saag,</l>
+<l>og sama Vind den heite Panna svalar;</l>
+<l>og Gullet ligg paa Snjo, som f&#x00F8;r det laag.</l>
+<l>Det er eit Barnemaal, som til meg talar,</l>
+<l>og gjer meg tankefull, men endaa fjaag</l>
+<l>Med Ungdomsminne er den Tala blandad:</l>
+<l>Det str&#x00F8;ymer paa meg, so eg knapt kan anda.</l>
+</lg>
+<lg>
+<l>Ja, Livet str&#x00F8;ymer paa meg, som det str&#x00F8;ymde,</l>
+<l>naar under Snjo eg saag det gr&#x00F8;ne Straa.</l>
+<l>Eg dr&#x00F8;ymer no, som f&#x00F8;r eg altid dr&#x00F8;ymde,</l>
+<l>naar slike Fjell eg saag i Lufti blaa.</l>
+<l>Eg gl&#x00F8;ymer Dagsens Strid, som f&#x00F8;r eg gl&#x00F8;ymde,</l>
+<l>naar eg mot Kveld af Sol eit Glimt fekk sjaa.</l>
+<l>Eg finner vel eit Hus, som vil meg hysa,</l>
+<l>naar Soli heim mot Notti vil meg lysa.</l>
+</lg>
+<lg>
+<l>Alt er som f&#x00F8;r, men det er meir forklaarat,</l>
+<l>so Dagsens Ljos meg synes meire bjart,</l>
+<l>og det, som beit og skar meg, so det saarat,</l>
+<l>det gjever sj&#x00F8;lve Skuggen mindre svart:</l>
+<l>sj&#x00F8;lv det, som til at synda tidt meg daarat,</l>
+<l>sj&#x00F8;lv det gjer harde Fjellet mindre hardt.</l>
+<l>Forsonad&#x0027; koma atter gamle Tankar:</l>
+<l>det sama Hjarta er, som eldre bankar.</l>
+</lg>
+<lg>
+<l>Og hver ein Stein eg som ein Kjenning finner,</l>
+<l>for slik var den, eg flaug ikring som Gut.</l>
+<l>Som det var Kj&#x00E6;mper spyr eg, hvem som vinner</l>
+<l>af den og denne andre haage Nut.</l>
+<l>Alt minner meg; det minner, og det minner,</l>
+<l>til Soli ned i Snjoen sloknar ut.</l>
+<l>Og in i siste Svevn meg eingong huggar</l>
+<l>dei gamle Minne og dei gamle Skuggar.</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem" n="3">
+<head><ref type="contents" target="contents_3" xml:id="chapter_3">Den S&#x00E6;rde.</ref></head>
+<lg>
+<l>Mit Hjarta har voret i Livets Strid</l>
+<l>og mangteit Saar har det fengjet;</l>
+<l>det laag sjukt og saart i somangei Rid,</l>
+<l>men endaa det har til denne Tid</l>
+<l>fraa Leiken med Livet gjenget.</l>
+</lg>
+<lg>
+<l>Men Er paa Er efter Saar paa Saar,</l>
+<l>der er paa hver einast&#x0027; Sida,</l>
+<l>og up dei brjota hver evig Vaar,</l>
+<l>naar Louvet spretter og Isen gaar,</l>
+<l>og Gauken gjeler i Lida.</l>
+</lg>
+<lg>
+<l>Men Blomar bl&#x00F8;ma i desse Er,</l>
+<l>og bl&#x00F8;mande Blom er taaret.</l>
+<l>Det soleids ogso med Jorden er:</l>
+<l>naar Regn og Dogg hun fraa Himlen f&#x00E6;r,</l>
+<l>so vexa Blomar i Saaret.</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem" n="4">
+<head><ref type="contents" target="contents_4" xml:id="chapter_4">Langs ei Aa.</ref></head>
+<lg>
+<l>Du Skog! som b&#x00F8;ygjer deg imot</l>
+<l>og kysser denne svarte Aa,</l>
+<l>som grever af di Hjarterot</l>
+<l>og ned i Fanget vil deg faa,</l>
+<l>lik deg eg Mangein munde sjaa</l>
+<l>og allerhelst i Livsens Vaar,</l>
+<l>at han den Haandi kyste paa,</l>
+<l>som slog hans verste Hjartesaar.</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem" n="5">
+<head><ref type="contents" target="contents_5" xml:id="chapter_5">Leitande efter Blaamann.</ref></head>
+<lg>
+<l>&#x00AB;Blaamann&#x00BB;, &#x00AB;Blaamann&#x00BB;, Bukken min!</l>
+<l>t&#x00E6;nk paa vesle Guten din!</l>
+</lg>
+<lg>
+<l>Bj&#x00F8;rnen med sin lodne Feld</l>
+<l>kan deg taka seint i Kveld.</l>
+</lg>
+<lg>
+<l>Gamle &#x00AB;Lykle&#x00BB;, Moder di,</l>
+<l>seint kom heim med Bj&#x00F8;lla si.</l>
+</lg>
+<lg>
+<l>So ikring seg hun mund sjaa,</l>
+<l>liksom der var Faare paa.</l>
+</lg>
+<lg>
+<l>Det saag ut, som der var Naud,</l>
+<l>kanskje no du ligger daud.</l>
+</lg>
+<lg>
+<l>Tidt du dansad kringom meg,</l>
+<l>mangt eg r&#x00F8;dde daa med deg.</l>
+</lg>
+<lg>
+<l>Naar eg laag som blind og dauv,</l>
+<l>grov du paa meg med di Klauv.</l>
+</lg>
+<lg>
+<l>Ja, du vilde vekkja meg</l>
+<l>up til Leiken din med deg.</l>
+</lg>
+<lg>
+<l>Du var spr&#x00E6;k og glad og god,</l>
+<l>all min Ros du vel forstod.</l>
+</lg>
+<lg>
+<l>Tidt du veit eg sa&#x0027; til deg:</l>
+<l>&#x00AB;han veit meir enn mata seg&#x00BB;.</l>
+</lg>
+<lg>
+<l>&#x00AB;Blaamann&#x00BB;, &#x00AB;Blaamann&#x00BB;, svar meg no,</l>
+<l>m&#x00E6;kre med dit kjende Ljod!</l>
+</lg>
+<lg>
+<l>Ikke enno &#x00AB;Blaamann&#x00BB; min,</l>
+<l>maa du d&#x00F8;y fraa Guten din.</l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

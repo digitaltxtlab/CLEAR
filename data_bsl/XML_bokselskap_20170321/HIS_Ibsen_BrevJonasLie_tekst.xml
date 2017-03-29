@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://www.nslnorge.no/tekster/NSL_texts.xsl"?>
+<!DOCTYPE TEI PUBLIC "-// NSL Norge //EN" "http://www.nslnorge.no/tekster/NSL_tei_xinclude.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="HIS_Ibsen_BrevJonasLie">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Henrik Ibsens skrifter/bokselskap.no 2012
+<lb/>Henrik Ibsen: Brev til Jonas Lie</title>
+</titleStmt>
+<publicationStmt><p>Publiseres som digital tekst av Henrik Ibsens skrifter/bokselskap.no.</p></publicationStmt>
+<sourceDesc>
+<p>Filer (B1844-71ht.xml, B1871-79ht.xml, B1880-89ht.xml, B1890-1905ht.xml) mottatt fra HIS/UiO januar 2012.</p>
+</sourceDesc>
+</fileDesc>
+<revisionDesc>
+<change xml:id="ENW" who="ENW" when="2012-02-09">Kodet om filen til bokselskap-xml. Kodekontroll.</change>
+</revisionDesc>
+</teiHeader>
+<text xml:id="HIS_Ibsen_BrevJonasLie_tekst" type="collection">
+<front>
+<titlePage type="main">
+<byline><docAuthor>Henrik Ibsen</docAuthor></byline>
+<docTitle>
+<titlePart type="main">Brev til Jonas Lie</titlePart>
+</docTitle>
+<docDate>1879-1900<note type="footnote">Digitaliseringen er basert p&#x00E5; xml-filer mottatt fra Henrik Ibsens skrifter, UiO. P&#x00E5; nettstedet Henrik Ibsens skrifter (http://ibsen.uio.no/brev.xhtml) er alle Ibsens kjente brev tilgjengelig. Her har vi samlet alle brevene til Jonas Lie. Lies brev til Ibsen kan leses i tre-bindsverket <hi rend="italic">Jonas Lie Brev 1851-1908</hi>, utgave ved Anne Grete Holm-Olsen, Det norske spr&#x00E5;k- og litteraturselskap, Novus, Oslo 2009.</note></docDate>
+</titlePage>
+<div type="illustration"><figure><graphic url="HenrikIbsen.jpg"/></figure></div>
+<div xml:id="contents">
+<list type="contents_main">
+<item><ref target="chapter_1" xml:id="contents_1">25. mai 1879</ref></item>
+<item><ref target="chapter_2" xml:id="contents_2">22. juni 1882</ref></item>
+<item><ref target="chapter_3" xml:id="contents_3">&#x005B;sommeren 1882&#x005D;</ref></item>
+<item><ref target="chapter_4" xml:id="contents_4">&#x005B;2. januar 1884&#x005D;</ref></item>
+<item><ref target="chapter_5" xml:id="contents_5">20. november 1884&#x005D;</ref></item>
+<item><ref target="chapter_6" xml:id="contents_6">&#x005B;oktober/november 1885&#x005D;</ref></item>
+<item><ref target="chapter_7" xml:id="contents_7">27. januar 1887</ref></item>
+<item><ref target="chapter_8" xml:id="contents_8">28. desember 1888</ref></item>
+<item><ref target="chapter_9" xml:id="contents_9">&#x005B;1891&#x005D;</ref></item>
+<item><ref target="chapter_10" xml:id="contents_10">6. november 1893</ref></item>
+<item><ref target="chapter_11" xml:id="contents_11">30. mars 1895</ref></item>
+<item><ref target="chapter_12" xml:id="contents_12">15. januar 1900</ref></item>
+</list>
+</div>
+</front>
+<body>
+<div type="chapter" subtype="letter" n="1">
+<head><ref type="contents" target="contents_1" xml:id="chapter_1">25. mai 1879</ref></head>
+<p><hi rend="italic">Konvolutt:</hi>
+<lb/>Dem norwegischen Schriftsteller Herrn Jonas Lie
+<lb/>z. Z. in Stuttgart.
+<lb/>Germania.
+<lb/>fr:</p>
+<figure rend="asterisk"/>
+<p>Rom, den 25. Maj 1879.</p>
+<p>K&#x00E6;re Jonas Lie!</p>
+<p>Jeg har gjort mig skyldig i en stor uefterrettelighed ved s&#x00E5; l&#x00E6;nge at uds&#x00E6;tte med besvarelsen af dit brev. Tidt og ofte har jeg t&#x00E6;nkt, at nu skulde jeg skrive Dig til, men desv&#x00E6;rre er jeg hidtil bleven st&#x00E5;ende ved det gode fors&#x00E6;t.</p>
+<p>Du &#x00F8;nsker et r&#x00E5;d ang&#x00E5;ende eders fremtidige opholdssted i Tyskland. Rimeligvis kommer nu r&#x00E5;det for sent, da Du vel allerede har truffet dit valg; men jeg vil alligevel sige Dig, hvad jeg ved. Dresden var, da vi i 1868 ankom did, et billigt levested; men efter krigen steg priserne p&#x00E5; husleje og alle andre forn&#x00F8;denheder s&#x00E5;ledes at vi i de sidste &#x00E5;r vi tilbragte der, indtil v&#x00E5;ren 1875, &#x00E5;rlig brugte omtrent dobbelt<note type="footnote">dobbelt&#x005D; <hi rend="italic">HIS,</hi> dobelt</note> s&#x00E5; meget, som det bel&#x00F8;b, der i den f&#x00F8;rste del af vort ophold dersteds havde v&#x00E6;ret tilstr&#x00E6;kkeligt. Jeg vil dog tilf&#x00F8;je at vi i den senere tid levede adskillig flottere end f&#x00F8;r. Men billigt er der under ingen omst&#x00E6;ndighed nu l&#x00E6;nger i Dresden, medmindre priserne siden min afrejse skulde v&#x00E6;re g&#x00E5;et ned igen. Jeg har imidlertid ikke h&#x00F8;rt tale om at s&#x00E5; skal v&#x00E6;re tilf&#x00E6;ldet. Derimod er klimatet om vinteren i Dresden i regelen meget mildt og behageligt og om sommeren er der rigelig anledning til i en af de mange n&#x00E6;rliggende sm&#x00E5;byer og landsbyer langs Elben at finde et b&#x00E5;de billigt og let tilg&#x00E6;ngeligt logis i den herligste natur og i en frisk og styrkende luft. Navnlig henleder jeg din opm&#x00E6;rksomhed p&#x00E5; Pillnitz, en times dampskibsfart fra Dresden. De indf&#x00F8;dte Dresdenere omg&#x00E5;es ikke synderlig med fremmede, og disse sidste indbyrdes heller ikke meget, ialfald kun nationsvis; men om vinteren lever der jo i regelen en hel del norske der.</p>
+<p>At tage sommerophold i Salzburg vil jeg bestemt frar&#x00E5;de Dig. Byen ligger s&#x00E5;ledes, at der enten er trykkende hedt eller ogs&#x00E5; megen og s&#x00E6;rdeles langvarig regn. Da vilde det v&#x00E6;re meget hensigtsm&#x00E6;ssigere at v&#x00E6;lge et af nabostederne, enten Reichenhall eller det billigere og landligere Berchtesgaden. Begge steds findes mineralbade, og Du vilde antagelig kunne undg&#x00E5; at rejse til Gastein. Skulde Du bestemme Dig for Berchtesgaden, s&#x00E5; vil jeg anbefale Dig at forh&#x00F8;re Dig om logis hos Wagemeister Hasenknopf eller hos Bergmann Jakob Kurz; det er j&#x00E6;vne simple folk, men brave og gode, og jeg er viss p&#x00E5; at I vilde finde jer tilfreds der. Naturen omkring Berchtesgaden er noget af det herligste man kan t&#x00E6;nke sig; Königsee ligger en times spadsertur borte; anledning til mangfoldige udflugter forresten. &#x2013;</p>
+<p>Men sig mig nu en ting: har Du aldrig t&#x00E6;nkt p&#x00E5; at fors&#x00F8;ge München som opholdssted? Klimatet er vistnok om vinteren h&#x00E5;rdere end i Dresden, men jeg ved at mange rheumatiske personer trives meget vel i München; hovedsagen er at v&#x00E6;lge et logis p&#x00E5; solsiden. Jeg for mit vedkommende befinder mig udm&#x00E6;rket vel i Münchens klima, der er sund styrkende bergluft, man sporer tydeligt alpernes n&#x00E6;rhed. München er billigere end Dresden. Ogs&#x00E5; der findes et meget godt polytechnikum, hvor mange norske studerer. Der er efter min erfaring lettere adgang til selskabelighed i München end i Dresden og der er et rigere og interessantere offentligt liv. I sommerm&#x00E5;nederne be<gap/><note type="footnote"><gap/>&#x005D; 4-5 linjer er klippet vekk</note> lidt over et d&#x00F8;gn kan man rejse til Rom.</p>
+<p>Dette har jeg dog villet henlede din opm&#x00E6;rksomhed p&#x00E5;. Noget r&#x00E5;d er det naturligvis ikke; thi jeg kan jo ikke vide, hvad der er forenligt med din helbredstilstand.</p>
+<p>Hvad os ang&#x00E5;r, da tilbragte vi sidste sommer i Tyrol og kom hid i September. Til h&#x00F8;sten m&#x00E5; vi igen v&#x00E6;re i München. Min s&#x00F8;n, der f&#x00F8;r vor afrejse blev student dersteds og som dette &#x00E5;r har studeret ved det romerske universitet, skal nemlig fra Oktober forts&#x00E6;tte sine studeringer et par &#x00E5;r i München; derefter vil det jo blive n&#x00F8;dvendigt at han fuldf&#x00F8;rer dem i Kristiania. Om vi da ledsager ham did er endnu uvisst; jeg har ikke synderlig lyst dertil. Livet herude i Europa er dog friere og friskere og st&#x00F8;rre.</p>
+<p>Jeg er i denne tid besk&#x00E6;ftiget med et nyt dramatisk arbejde, som jeg h&#x00E5;ber at f&#x00E5; f&#x00E6;rdigt om en m&#x00E5;neds tid. Jeg har h&#x00F8;rt sige, at<note type="footnote">at&#x005D; <hi rend="italic">HIS,</hi> og</note> Du ogs&#x00E5; arbejder p&#x00E5; noget nyt.</p>
+<p>Meget k&#x00E6;rt skulde det v&#x00E6;re os om vi snart kunde tr&#x00E6;ffe eder et eller andet sted; og vi h&#x00E5;ber at s&#x00E5; vil ske. Indtil da sender vi vore bedste hilsener til eder alle.</p>
+<p><gap/><note type="footnote">hilsen og signatur er klippet vekk</note></p>
+</div>
+
+<div type="chapter" subtype="letter" n="2">
+<head><ref type="contents" target="contents_2" xml:id="chapter_2">22. juni 1882</ref></head>
+<p><hi rend="italic">Konvolutt:</hi>
+<lb/>Dem norwegischen Schriftsteller Herrn Jonas Lie,
+<lb/>Ritter m. h. Ord:
+<lb/>Steindamm 14.
+<lb/>Hamburg.
+<lb/>(Germania.)
+<lb/>fr:</p>
+<figure rend="asterisk"/>
+<p>Rom, den 22. Juni 1882.</p>
+<p>K&#x00E6;re Jonas Lie!</p>
+<p>Nu t&#x00F8;r jeg ikke l&#x00E6;nger ops&#x00E6;tte med at skrive Dig til; jeg har til min skam opsat det altfor l&#x00E6;nge; men hvad brevskriveri ang&#x00E5;r, f&#x00F8;ler jeg at jeg desv&#x00E6;rre<note type="footnote">desv&#x00E6;rre&#x005D; <hi rend="italic">HIS,</hi> desv&#x00E6;re</note> er s&#x00E5; omtrent uforbederlig.</p>
+<p>Lad mig da f&#x00F8;rst og fremst af mit ganske hjerte takke Dig og &#x00F8;nske Dig til lykke med din nye bog. Den er et nyt vidnesbyrd om at p&#x00E5; sj&#x00F8;fort&#x00E6;llingens omr&#x00E5;de gives der i hele samtiden ikke en eneste digter, som kan t&#x00E6;nke p&#x00E5; at ta&#x0027; det op med dig. Billederne fra sildefisket er fuldendte mesterv&#x00E6;rker i enhver henseende; de l&#x00E6;gger beslag p&#x00E5; alle sanser; jeg lugtede grangiveligt sild da jeg l&#x00E6;ste dem, jeg s&#x00E5; sildesk&#x00E6;l glittre for &#x00F8;jnene hvor jeg vendte mig, jeg syntes jeg tr&#x00E5;dte i slejp sildeslo, hvor jeg gik og stod. S&#x00E5;ledes skal det g&#x00F8;res!</p>
+<p>Ja, denne bog har Du da naturligvis ogs&#x00E5; allerede havt megen gl&#x00E6;de af. Her kan da vel meningerne ikke godt v&#x00E6;re delte; de kritiske vr&#x00F8;vlere i aviserne vil n&#x00E6;ppe finde noget at krangle over. S&#x00E5; vidt jeg har set, har da udtalelserne ogs&#x00E5; v&#x00E6;ret enstemmige.</p>
+<p>Tak skal Du ogs&#x00E5; ha&#x0027; for de breve, Du gl&#x00E6;dede mig med da krigen mod &#x00AB;Gengangere&#x00BB; raste p&#x00E5; det v&#x00E6;rste. Det er g&#x00E5;t som Du dengang skrev; stormen har lagt sig, og der er p&#x00E5; mange hold tegn til en sindigere betragtning af bogen. I Sverig har den fremkaldt en hel literatur af brochyrer og tidsskriftartikler. Fejgest af alle viste Norm&#x00E6;ndene sig dengang som ellers; og de fejgeste blandt de fejge var naturligvis de s&#x00E5;kaldte liberale. De var som p&#x00E5; sit liv for at fral&#x00E6;gge sig mistanken om noget slags samstemmighed med mig.</p>
+<p>Iforg&#x00E5;rs fuldf&#x00F8;rte jeg et nyt dramatisk arbejde i fem akter. Jeg er endnu ikke viss p&#x00E5; om jeg skal betegne det som lystspil eller som skuespil; det har noget af begge dele eller ligger midt imellem; det blir trykt i l&#x00F8;bet af sommeren, men udkommer ikke f&#x00F8;r senh&#x00F8;stes.</p>
+<p>Ig&#x00E5;r var Sigurd oppe til anden afdeling af juridisk examen og stod sig udm&#x00E6;rket i alle fag. Om en 14 dages tid tager han den tredje og sidste afdeling, den s&#x00E5;kaldte laureatexamen, og umiddelbart derefter skal han forsvare sin afhandling for den juridiske doktorgrad; disputatsen er allerede godkendt og handler om &#x00AB;f&#x00F8;rstekammerets stilling i de repr&#x00E6;sentative statsforfatninger&#x00BB;; den udg&#x00F8;r over 100 t&#x00E6;tskrevne kvartsider.</p>
+<p>N&#x00E5;r disse historier er tilende bryder vi forel&#x00F8;big op fra Rom for at tilbringe sommeren i Tyrol. Til h&#x00F8;sten rejser vi hid ned igen.</p>
+<p>Og hvad planer har s&#x00E5; Du og dine for sommeren? Er der kanske en mulighed for at vi kunde tr&#x00E6;ffes? Det skulde gl&#x00E6;de mig ganske overordentlig. Oprindelig havde vi t&#x00E6;nkt at rejse til Norge i&#x00E5;r; men da examen falder s&#x00E5; sent at den bedste sommertid g&#x00E5;r tabt, har vi m&#x00E5;ttet opgive den plan, eller udsat den til n&#x00E6;ste &#x00E5;r.</p>
+<p>M&#x00E5;ske tr&#x00E6;ffer dette brev Dig ikke i Hamburg, men jeg h&#x00E5;ber at det alligevel kommer Dig ih&#x00E6;nde. Hils din fortr&#x00E6;ffelige hustru fra os, og ligeledes b&#x00F8;rnene! Jeg fort&#x00E6;ller ofte om det hyggelige samv&#x00E6;r i Berchtesgaden.</p>
+<p>Din hengivne ven</p>
+<signed>Henrik Ibsen.</signed>
+</div>
+
+<div type="chapter" subtype="letter" n="3">
+<head><ref type="contents" target="contents_3" xml:id="chapter_3">&#x005B;1882&#x005D;</ref></head>
+<p>K&#x00E6;re Jonas Lie!</p>
+<p>Tak for al venlighed imod min hustru.</p>
+<p>Gossensass er, hvad Berchtesgaden engang var &#x2013; et ideelt arbejdssted uden nysgerrige bladfolk eller bebrillede litteraturdyrkere. Det eneste jeg savner er vore hyggelige l&#x00F8;rdagsaftener hos Dig og Din frue.</p>
+<p>Din hengivne</p>
+<signed>Henrik Ibsen.</signed>
+</div>
+
+<div type="chapter" subtype="letter" n="4">
+<head><ref type="contents" target="contents_4" xml:id="chapter_4">&#x005B;2. januar 1884&#x005D; (telegram)</ref></head>
+<p>JONAS LIE RUE POISON 12 PARIS</p>
+<p>HJERTELIG TAK! MANGE HILSENER</p>
+<signed>HENRIK IBSEN</signed>
+</div>
+
+<div type="chapter" subtype="letter" n="5">
+<head><ref type="contents" target="contents_5" xml:id="chapter_5">20. november 1884</ref></head>
+<p><hi rend="italic">Konvolutt:</hi>
+<lb/>Herrn Jonas Lie.
+<lb/>Berchtesgaden.
+<lb/>in Bayern.
+<lb/>(Germania.)
+<lb/>fr:</p>
+<figure rend="asterisk"/>
+<p>Rom, den 20. november 1884.</p>
+<p>K&#x00E6;re Jonas Lie!</p>
+<p>Hjertelig tak for brevet, som nu netop kom mig ih&#x00E6;nde hersteds! Din adresse i Paris kender jeg ikke, og derfor sender jeg dig straks disse linjer i det h&#x00E5;b at de endnu vil tr&#x00E6;ffe dig i Berchtesgaden.</p>
+<p>Du kan vel t&#x00E6;nke dig hvor h&#x00F8;jlig det m&#x00E5;tte gl&#x00E6;de mig her i ensomheden at modtage et s&#x00E5;dant budskab fra dig og din hustru i anledning af &#x00AB;Vildanden&#x00BB;. Hvorledes den vil blive set p&#x00E5; og bed&#x00F8;mt hjemme, ved jeg endnu ikke.</p>
+<p>Du kan tro vi ofte har t&#x00E6;nkt p&#x00E5; eder og talt om eder i den senere tid. Et rygte havde berettet at du endnu havde en hel del af din nye fort&#x00E6;lling tilbage, s&#x00E5; det var tvilsomt om den kunde udkomme i betids f&#x00F8;r jul. Men nu er du jo f&#x00E6;rdig, og vi &#x00F8;nsker dig af hjertet til lykke. Jeg h&#x00E5;ber og venter at du ogs&#x00E5; denne gang m&#x00F8;der frem med en digtning som st&#x00E5;r p&#x00E5; lige h&#x00F8;jde med dine to seneste mesterv&#x00E6;rker, &#x00AB;Livsslaven&#x00BB; og &#x00AB;Familjen p&#x00E5; Gilje&#x00BB;.</p>
+<p>Men n&#x00E5;r skal endelig den tid komme, da vi fuldt ud f&#x00E5;r nyde frugterne af vort arbejde ogs&#x00E5; udenfor de skandinaviske lande? Der snakkes om at man nu hjemme t&#x00E6;nker p&#x00E5; muligens at afslutte internationale konventioner. Men derved alene b&#x00F8;der man ikke p&#x00E5; den beg&#x00E5;ede uretf&#x00E6;rdighed imod os &#x00E6;ldre forfattere. Staten pligter at forh&#x00F8;je vore digtergager, og jeg synes, du nu burde foretage et eller andet skridt i den anledning inden storthinget tr&#x00E6;der sammen. Er det virkelig noget alvorligt bevendt med den nye regerings frisind og tidsm&#x00E6;ssige opfatning, s&#x00E5; burde den ikke et &#x00F8;jeblik v&#x00E6;re i tvil om, hvad der her er dens simple skyldighed.</p>
+<p>Jeg beklager meget at du ikke kunde v&#x00E6;re tilstede ved m&#x00F8;det i Schwaz isommer. Der var adskillige emner, som ikke fik den udredning, de kunde have f&#x00E5;t, om vi alle tre havde v&#x00E6;ret samlet. For &#x00F8;vrigt er jeg s&#x00E6;rdeles glad over sammenkomsten med Bj&#x00F8;rnson; jeg er kommen til at forst&#x00E5; ham langt bedre end f&#x00F8;r.</p>
+<p>Nu vil jeg bare &#x00F8;nske at koleraen ikke m&#x00E5; g&#x00F8;re eder opholdet i Paris altfor ubehageligt for vinteren. Den synes jo for &#x00F8;jeblikket at v&#x00E6;re i tilbagegang og desuden er kulden indtr&#x00E5;dt, hvilket l&#x00E6;gerne jo ansér for &#x00F8;nskeligt. Hersteds st&#x00E5;r alle hoteller tomme, men sundhedstilstanden er god.</p>
+<p>Og s&#x00E5; endnu en gang tak for brevet og til lykke med din nye bog! Min hustru beder mig sende sine bedste hilsener til eder begge. Jeg forener mine med hendes.</p>
+<p><gap/><note type="footnote">siste del av brevet er klippet vekk</note></p>
+</div>
+
+
+<div type="chapter" subtype="letter" n="6">
+<head><ref type="contents" target="contents_6" xml:id="chapter_6">&#x005B;oktober/november 1885&#x005D;</ref></head>
+<p>K&#x00E6;re Jonas Lie!</p>
+<p>Tak for underretningen. Vi gl&#x00E6;der os hjertelig til at tr&#x00E6;ffe <gap/> <emph>Maxi</emph><gap/>, 2<hi rend="raised">den</hi> etage. <gap/> til <emph>Kanalstrasse</emph> og derfor er indgangsporten i <emph>denne</emph> gade. Velkommen.</p>
+<p>Din <gap/><note type="footnote">underskriften og deler av teksten er klippet vekk</note></p>
+<note type="commentary">4. november 1885 skriver Lie til Henrik og Susanna Ibsen og takker for seg, jf. Lie 2009, b. 2, s. 901.</note>
+</div>
+
+
+<div type="chapter" subtype="letter" n="7">
+<head><ref type="contents" target="contents_7" xml:id="chapter_7">27. januar 1887</ref></head>
+<p><hi rend="italic">Konvolutt:</hi>
+<lb/>Monsieur Jonas Lie.
+<lb/>Avenue de la Grande-Armée, 7.
+<lb/>Paris.</p>
+<figure rend="asterisk"/>
+<p>München, den 27. Januar 1887.</p>
+<p>K&#x00E6;re Jonas Lie!</p>
+<p>Dag for dag har jeg t&#x00E6;nkt p&#x00E5; at skrive dig til. Men, som s&#x00E6;dvanligt med mig, er der altid kommet noget i vejen. Nu vil jeg imidlertid skubbe alt andet til side og sende dig nogle linjer.</p>
+<p>F&#x00F8;rst og fremst vil jeg da i min hustrus og mit eget navn bede dig modtage en hjertelig lyk&#x00F8;nskning i anledning af &#x00AB;Kommand&#x00F8;rens d&#x00F8;ttre&#x00BB;. Du kan vel selv t&#x00E6;nke dig, hvilken gl&#x00E6;de det var for os to ensomme herude at modtage dette talende budskab fra hjemmet. Ingen af os har nogensinde v&#x00E6;ret i land p&#x00E5; de kanter, hvor det meste af begivenhederne foreg&#x00E5;r; men lige fra begyndelsen af bogen syntes vi at vi var ligesom fuldt lokaliserte der. Og s&#x00E5; menneskene fremfor alt! Vi ser dem og vi kender dem. Det er for os nu, som om vi havde kendt dem lange, lange tider i forvejen. Jan og Marte har vor dybeste medf&#x00F8;lelse. Og s&#x00E5;ledes, som det er g&#x00E5;et os ved l&#x00E6;sningen af denne digtning, s&#x00E5;ledes synes jeg det m&#x00E5; g&#x00E5; enhver l&#x00E6;ser, der ejer spor af plastisk fantasi og syn.</p>
+<p>Og s&#x00E5; vil jeg dern&#x00E6;st takke dig for det venlige brev, som du for et par m&#x00E5;neder siden gl&#x00E6;dede mig med. I denne mellemtid har jeg v&#x00E6;ret sv&#x00E6;rt opkavet, og tildéls frav&#x00E6;rende p&#x00E5; rejser. Men efterd&#x00F8;nningerne heraf g&#x00F8;r sig endnu g&#x00E6;ldende i skikkelse af en hel hob brevskrivning, som jo til og med n&#x00E6;sten udelukkende m&#x00E5; f&#x00F8;res p&#x00E5; tysk, hvilket jo altid for&#x00F8;ger arbejdet en del. At jeg under disse omst&#x00E6;ndigheder skulde f&#x00E5; tid og sindsro nok til alvorligt at gi&#x0027; mig i kast med nogle nye dramatiske galskaber er ikke til at t&#x00E6;nke p&#x00E5;. Men jeg f&#x00F8;ler adskillige s&#x00E5;danne rumstére inde i mit hode, og henover v&#x00E5;ren h&#x00E5;ber jeg nok at f&#x00E5; sat dem i system.</p>
+<p>Vi t&#x00E6;nker st&#x00E6;rkt p&#x00E5;, hvis alt g&#x00E5;r efter &#x00F8;nske, at tilbringe den kommende sommer oppe ved Skagen. Stedet har jo l&#x00E6;nge v&#x00E6;ret s&#x00F8;gt af malere og det store &#x00E5;bne hav drager os m&#x00E6;gtigt. Helt op til Norge g&#x00E5;r i hvert fald jeg ikke. Forholdene, &#x00E5;nden og tonen deroppe, synes jeg, har lidet tiltr&#x00E6;kkende ved sig. Det er h&#x00F8;jst pinligt at se med hvilken glubsk ivrighed de kaster sig over alskens sm&#x00E5;ting, ret som om det var h&#x00F8;jvigtige sager.</p>
+<p>Vi har her en passelig mild vinter med klart vejr og befinder os vel i enhver henseende. Forh&#x00E5;bentlig er det samme tilf&#x00E6;ldet i din kreds. N&#x00E5;r du f&#x00E5;r anledning til at se Bj&#x00F8;rnson, beder jeg dig hilse og takke ham for det brev, han sidst sendte mig og som jeg nu skal se til at besvare. Men f&#x00F8;rst og fremst, hils din hustru og b&#x00F8;rnene p&#x00E5; det hjerteligste fra os begge. Lev vel alle sammen!</p>
+<p>Din hengivne</p>
+<signed>Henrik Ibsen.</signed>
+</div>
+
+<div type="chapter" subtype="letter" n="8">
+<head><ref type="contents" target="contents_8" xml:id="chapter_8">28. desember 1888</ref></head>
+<p><hi rend="italic">Konvolutt:</hi>
+<lb/>Monsieur Jonas Lie.
+<lb/>Avenue de la Grande Armée, 7.
+<lb/>Paris.</p>
+<figure rend="asterisk"/>
+<p>München, den 28. December 1888.</p>
+<p>K&#x00E6;re Jonas Lie!</p>
+<p>Jeg beder dig herved modtage og bringe medunderskriverne vor hjerteligste tak for telegrammet julaften. Jeg vilde naturligvis straks have svaret ad samme vej; men uheldigvis havde jeg forlagt din adresse og kunde ikke med bestemthed erindre den. F&#x00F8;rst ig&#x00E5;raftes fandt jeg den da endelig. Dette m&#x00E5; tjene til min undskyldning.&#x00A0;&#x2013; Ligeledes takker jeg dig for dine to venlige breve, som <gap/><note type="footnote">deler av teksten er klippet vekk</note> &#x005B;m&#x005D;odtage siden vi sidst var sammen med eder.&#x00A0;&#x2013; Som f&#x00F8;lge af den uhyre juletrafik hersker der stor forvirring ved de tyske pakkepostanstalter og kanské ogs&#x00E5; ved de danske. Jeg har derfor endnu ikke modtaget den for julen vanlige bogpakke fra K&#x00F8;benhavn og har s&#x00E5;ledes heller ikke f&#x00E5;t l&#x00E6;st din nye bog endnu. Men vi venter den med hver post. Og for resten har vi jo h&#x00F8;rt og l&#x00E6;st s&#x00E5; meget godt om den at vi trygt kan gratulere dig p&#x00E5; forh&#x00E5;nd og gl&#x00E6;de os til den nydelse, som vi har i vente.&#x00A0;&#x2013; Julen har ellers for mig v&#x00E6;ret en travl tid. &#x00AB;Die Frau vom Meere&#x00BB; er i Berlin allerede udkommet i 3<hi rend="raised">die</hi> oplag og har derved p&#x00E5;f&#x00F8;rt mig meget skriveri. Sigurd er hos os men m&#x00E5; tilbage i overmorgen.&#x00A0;&#x2013; Og modtag s&#x00E5;, du <unclear>og dine samt vennerne vore hjer</unclear>teligste &#x00F8;nsker om <gap/><note type="footnote">deler av teksten er klippet vekk</note></p>
+</div>
+
+<div type="chapter" subtype="letter" n="9">
+<head><ref type="contents" target="contents_9" xml:id="chapter_9">&#x005B;1891&#x005D;</ref></head>
+<p>Jernbane fra Neapel til Castelamare (omtr. 1&#x00BC; time) derfra videre med banen til Vietri (2&#x2013;2&#x00BD; time, tror jeg.). Fra Vietri med vogn til Amalfi, (1&#x00BD;&#x2013;2 timer.). Vil man til Sorento, kan man g&#x00E5; direkte<note type="footnote">direkte&#x005D; <hi rend="italic">HIS,</hi> dirkte</note> did fra Neapel<note type="footnote"><hi rend="italic">Ibsen har tilf&#x00F8;yd:</hi> med dampskib.</note> eller ogs&#x00E5; med vogn fra Castelamare (2&#x2013;2&#x00BD; time)</p>
+<p>I Amalfi anbefales p&#x00E5; det varmeste Albergo di Luna. Bed om mit fordums logis.</p>
+<p>Hils hjerteligst v&#x00E6;rtinden i Albergo di Luna, donna Marietta Barbaro.</p>
+</div>
+
+<div type="chapter" subtype="letter" n="10">
+<head><ref type="contents" target="contents_10" xml:id="chapter_10">6. november 1893</ref></head>
+<p>Kristiania 6.11.1893.</p>
+<p>K&#x00E6;re Jonas Lie!</p>
+<p>Modtag hjertelige hilsener fra mig. Mit varmeste &#x00F8;nske overfor dig er at du i mange gode fremtids&#x00E5;r m&#x00E5; virke med hele dit &#x00E5;bne, &#x00E6;rlige digter&#x00F8;re, og at din kraft og vilje udelukkende rettes mod det omr&#x00E5;de b&#x00E5;de tillands og tilvands, p&#x00E5; hvilket du er den ubestridte og ubestridelige stormester.</p>
+<p>Din trofast hengivne ven</p>
+<signed>Henrik Ibsen.</signed>
+</div>
+
+<div type="chapter" subtype="letter" n="11">
+<head><ref type="contents" target="contents_11" xml:id="chapter_11">30. mars 1895</ref></head>
+<p><hi rend="italic">Konvolutt:</hi>
+<lb/>Herr Jonas Lie.</p>
+<figure rend="asterisk"/>
+<p>30.3.95.</p>
+<p>K&#x00E6;re Jonas Lie!</p>
+<p>Overbringeren heraf er min gode, trofaste ven, dr. Julius Elias fra Berlin. Han kender grundigt vor literatur, forst&#x00E5;r vort sprog og &#x00F8;nsker at g&#x00F8;re dit bekendtskab. For mig er han en utr&#x00E6;ttelig hj&#x00E6;lper i mine tyske liter&#x00E6;re anliggender og jeg skylder ham overordentlig meget. &#x2013;</p>
+<p>Hjertelige hilsener til dig og dine fra din hengivne</p>
+<signed>Henrik Ibsen.</signed>
+</div>
+
+<div type="chapter" subtype="letter" n="12">
+<head><ref type="contents" target="contents_12" xml:id="chapter_12">15. januar 1900</ref></head>
+<note type="commentary">Brevet er et svar p&#x00E5; brev fra Lie til Ibsen 29. desember 1899 (jf. Lie 2009, b. 3, s. 1512).</note>
+<p><hi rend="italic">Konvolutt:</hi>
+<lb/>Illustrissimo Signore Commendatore Jonas Lie,
+<lb/>H&#x00F4;tel d&#x0027; Europe, San-Remo.
+<lb/>Italia.</p>
+<figure rend="asterisk"/>
+<p>Kristiania, den 15.1.1900.</p>
+<p>K&#x00E6;re Jonas Lie!</p>
+<p>Du er da alts&#x00E5; fremdeles den samme trofaste og p&#x00E5;lidelige brevskriver, som du altid &#x2013; og jeg desv&#x00E6;rre aldrig &#x2013; har v&#x00E6;ret. Tak for brevet og liges&#x00E5; hjertelig tak for din nye bog, som du sendte mig. Det gl&#x00E6;der mig at den har fundet en s&#x00E5; udélt, varm og vel bef&#x00F8;jet modtagelse og p&#x00E5;sk&#x00F8;nnelse ogs&#x00E5; hertillands, hvor forst&#x00E5;elsen just ikke altid er s&#x00E5; s&#x00E6;rdeles dybtg&#x00E5;ende. &#x2013; T&#x00E6;nker du ikke p&#x00E5; at dramatisere historien om Faste? Jeg synes den ypperligt m&#x00E5;tte egne sig til et folkeskuespil. H&#x00F8;r nu bare!</p>
+<list>
+<item>1. akt: Faste som halvvoksen gut, spisende n&#x00E5;dsensbr&#x00F8;d og tumlende med storhedsdr&#x00F8;mme.</item>
+<item>2. akt: Fastes kamp i byen.</item>
+<item>3. akt: Fastes sejr i byen.</item>
+<item>4. akt. Fastes nederlag og flugt fra landet.</item>
+<item>5. akt: Fastes hjemkomst som sejrende digter. Han har fundet sig selv.</item>
+</list>
+<p>Det kunde blive et eventyrligt livsl&#x00F8;b at skildre dramatisk. Men f&#x00F8;rst m&#x00E5;tte du naturligvis komme lidt mere p&#x00E5; afstand fra fort&#x00E6;llingen. <emph>Nu</emph> synes du kanské dette her er et brutalt og barbarisk forslag. Men alle dine fort&#x00E6;llinger rummer en dramatisk k&#x00E6;rne indeni sig.</p>
+<p>Men lad mig nu ikke fantasere l&#x00E6;ngere. &#x2013; Det gl&#x00E6;der os inderligt at alt st&#x00E5;r s&#x00E5; vel til hos eder. Kanske vi kunde m&#x00F8;des til sommeren heroppe? I&#x00E5;r t&#x00E6;nker jeg at unde mig nogen ferietid og s&#x00E5; kunde det jo v&#x00E6;re pr&#x00E6;gtigt at f&#x00E5; passiare om l&#x00F8;st og fast ligesom i Berchtesgaden for omtrent 20 &#x00E5;r siden.</p>
+<p>Hils din hustru mange gange fra os. Og min uudslukkelige flamme, Elisabeth, specielt fra <emph>mig!</emph> Gratulerer med udbyttet fra Monte-Carlo. N&#x00E5;r kaptejnen kommer hjem h&#x00E5;ber jeg at f&#x00E5; h&#x00F8;re flere gode nyheder fra<note type="footnote">fra&#x005D; <hi rend="italic">HIS,</hi> fr</note> eder.</p>
+<p>Din hengivne <gap/><note type="footnote">signaturen er klippet vekk</note></p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://www.nslnorge.no/tekster/NSL_texts.xsl"?>
+<!DOCTYPE TEI PUBLIC "-// NSL Norge //EN" "http://www.nslnorge.no/tekster/NSL_tei_xinclude.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="BS_Nygard_UtvalgteDikt">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>bokselskap.no, 2011
+<lb/>Olav Nygard: <hi rend="italic">Utvalgte dikt</hi></title>
+</titleStmt>
+<publicationStmt><p>Publiseres som digital tekst av bokselskap.no.</p></publicationStmt>
+<sourceDesc>
+<p>.</p>
+</sourceDesc>
+</fileDesc>
+<revisionDesc>
+<change xml:id="ENW" who="ENW" when="2011-05-30">Transkribert og korrekturlest (mot førsteutgavene). Kodekontroll.</change>
+</revisionDesc>
+</teiHeader>
+<text xml:id="BS_Nygard_UtvalgteDikt_tekst" type="collection">
+<front>
+<titlePage type="main">
+<byline><docAuthor>Olav Nygard</docAuthor></byline>
+<docTitle>
+<titlePart type="main">Utvalgte dikt</titlePart>
+</docTitle>
+<docDate>1915&#x2013;23<note type="footnote">Tekstene i bokselskap.no er transkribert fra diktsamlingene <hi rend="italic">Kv&#x00E6;de</hi> (1915) og <hi rend="italic">Ved vebande</hi> (1923).</note></docDate>
+</titlePage>
+<div type="chapter" subtype="illustration">
+<figure><graphic url="OlavNygard.jpg"/></figure>
+</div>
+<div xml:id="contents">
+<list type="contents_main">
+<item><ref target="chapter_1" xml:id="contents_1">D&#x00F8;yande gallar</ref></item>
+<item><ref target="chapter_2" xml:id="contents_2">No reiser kvelden seg</ref></item>
+<item><ref target="chapter_3" xml:id="contents_3">Eg andar hol i kvitan is</ref></item>
+<item><ref target="chapter_4" xml:id="contents_4">Eg tr&#x00F8;yter dei dimsvale dagar</ref></item>
+<item><ref target="chapter_5" xml:id="contents_5">Til &#x00AB;ljaamannen&#x00BB;</ref></item>
+</list>
+</div>
+</front>
+<body>
+<div type="chapter" subtype="poem" n="1">
+<head><ref type="contents" target="contents_1" xml:id="chapter_1">D&#x00F8;yande gallar</ref></head>
+<note type="commentary">Utgitt i diktsamlingen <hi rend="italic">Kv&#x00E6;de</hi>, 1915.</note>
+<lg>
+<l>Det brenn som eld i stungen barm</l>
+<l>der livsens kjelde braut sitt b&#x00E6;gje;</l>
+<l>i eige blod han finn sitt l&#x00E6;gje,</l>
+<l>men held seg upp paa spana arm.</l>
+<l>I augo under sterke bruner</l>
+<l>brenn endaa livsens ofse-eld</l>
+<l>og lyser upp i daudsens deld</l>
+<l>paa l&#x00F8;ynde livs og lagnads runer.</l>
+</lg>
+<lg>
+<l>Men blode renn i bylgje-straum</l>
+<l>or sine kvelvde brotne borgjer</l>
+<l>lik djupe tj&#x00F8;nn i h&#x00F8;gfjells-horgjer</l>
+<l>der grunnen brest og l&#x00F8;yser flaum.</l>
+<l>Hans hovud sig, og augo starar</l>
+<l>i dulde taake-heimar inn</l>
+<l>med spursmaal, og paa munn og kinn</l>
+<l>glid fram eit solfalls-drag som svarar.</l>
+</lg>
+<lg>
+<l>Ein skugge av ein spotte-smil</l>
+<l>med helferds-mod og trass seg blandar,</l>
+<l>d&#x0027;er livsens rike son som vandar</l>
+<l>aa dylje seg fyr daudsens pil.</l>
+<l>Hans hovud sig, men armen ranar</l>
+<l>hans siste kraft og held seg rak;</l>
+<l>i bringa gjeng eit bivre-tak;</l>
+<l>men smilen sit; og bive svanar.</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem" n="2">
+<head><ref type="contents" target="contents_2" xml:id="chapter_2">No reiser kvelden seg</ref></head>
+<note type="commentary">Utgitt i diktsamlingen <hi rend="italic">Ved vebande</hi>, 1923</note>
+<lg>
+<l>No reiser kvelden seg i vesterbrun,</l>
+<l>han tr&#x00F8;r paa lette f&#x00F8;ter gjenom tun</l>
+<l>og skuggeveven fjell imillom hengjer.</l>
+<l>Det gjeng ei kviskring gjenom kj&#x00F8;rr og lyng,</l>
+<l>og talatrasten skifter ljod og syng</l>
+<l>med avdagsskjelven under sine strenger.</l>
+</lg>
+<lg>
+<l>Men dagen tek sin gangar fast i taum,</l>
+<l>tek ferdakaapa paa med gullrend saum</l>
+<l>og burt fraa blaane etter blaane skundar<note type="footnote">punktum mangler</note></l>
+<l>Det gular gjenom svale dal og lid</l>
+<l>der skuggen ventar natta, brura si,</l>
+<l>og &#x00F8;r i sine elskhugsdraumar blundar.</l>
+</lg>
+<lg>
+<l>Med linne andardrag stig natta inn,</l>
+<l>med myrke lokkar kringum hals og kinn</l>
+<l>og herdaduk av alvelette eimar.</l>
+<l>Og kl&#x00F8;kke lundar, &#x00E6;olsharpe-klang,</l>
+<l>ris bljugt som gjenteborn or moderfang</l>
+<l>og sviv paa lettan fot i svale heimar.</l>
+</lg>
+<lg>
+<l>Det gjeng ein s&#x00E6;lebiv imillom fjell</l>
+<l>so fr&#x00E6;a emnar seg og hamsar fell</l>
+<l>og undrings-&#x00F8;re augo upp seg vender:</l>
+<l>Or djupe himlar sl&#x00E6;r ein baaregong</l>
+<l>av evig skapings-gir og sf&#x00E6;resong</l>
+<l>som helsar frendeblidt mot d&#x00F8;kke strender.</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem" n="3">
+<head><ref type="contents" target="contents_3" xml:id="chapter_3">Eg andar hol i kvitan is</ref></head>
+<note type="commentary">Utgitt i diktsamlingen <hi rend="italic">Ved vebande</hi>, 1923</note>
+<lg>
+<l>Eg andar hol i kvitan is paa rute,</l>
+<l>legg eine auga aat og gl&#x00F8;ser ut.</l>
+<l>Seg losnar du ell dregst du til, du knute</l>
+<l>som knytte deg ein dag daa dimd og grut</l>
+<l>og gygreskodde la meg bleik paa pute</l>
+<l>og gav meg blundedrykken beisk som lut.</l>
+<l>Aa, hjarta var for sterkt, eg fekk kje blunde;</l>
+<l>men drykken vann daa verk: eit liv vart bunde.</l>
+</lg>
+<lg>
+<l>Eg andar hol paa isen: Sol og klaare,</l>
+<l>eit hav av blaatt med gyllte render paa;</l>
+<l>slik himel daa, &#x2013; det er som alt var bore</l>
+<l>av englevengjer, stillt i flog! Aa sjaa</l>
+<l>paa fjella! Her hev meister skore</l>
+<l>eit relief &#x2013; ei hand med gudetraa,</l>
+<l>med hugsynsbivring, brand i bein og sansar;</l>
+<l>d&#x0027;er berre grjot, &#x2013; men fjell og dalar dansar!</l>
+</lg>
+<lg>
+<l>Sjaa dagen hev kje hov i sine hender;</l>
+<l>d&#x0027;er sylv som drys, d&#x0027;er gull &#x2013;. I svaneham</l>
+<l>sig burt ei skarlakssky; um himmelstrender</l>
+<l>glid violette bylgjur att og fram;</l>
+<l>d&#x0027;er fredlyst alle himlar, alle grender,</l>
+<l>ei h&#x00F8;gtidstille, skir og undersam.</l>
+<l>Naar verda sine villskerider gl&#x00F8;ymer</l>
+<l>ho er eit voggebarn som smiler, dr&#x00F8;ymer.</l>
+</lg>
+<lg>
+<l>Men sjukestova tyngjer; gr&#x00E6;mestunder</l>
+<l>sit naglefast i veden; kvar den skaut,</l>
+<l>kvar stokk der augo laag daa feberblunder</l>
+<l>som raude bylgjur gjenom sj&#x00E6;la braut,</l>
+<l>dei ber eit minne, livfullt som eit under</l>
+<l>men tungt som mara; det var blod som gaut</l>
+<l>den raude rygd i dette bil&#x00E6;tfylgje</l>
+<l>som dansar yver vegg lik draug paa bylgje.</l>
+</lg>
+<lg>
+<l>Eg gjeng til d&#x00F8;rs og kjenner smil paa munnen,</l>
+<l>d&#x0027;er bylgjekambar av den gledeflaum</l>
+<l>som bryt seg songfr&#x00E6;g gjenom hjartebrunnen</l>
+<l>i bringedjuve, riv med stryk og straum</l>
+<l>dei graae vettebol som raadde grunnen,</l>
+<l>og skirest som ein blaa&#x00F8;ygd morgondraum.</l>
+<l>Det tonar inn som spana svalevengjer</l>
+<l>i flog strauk yve hundra harpestrengjer.</l>
+</lg>
+<lg>
+<l>Eit m&#x00E6;le vaknar liksom sus i skogen;</l>
+<l>eg kvekk med hand paa d&#x00F8;ralaasen lagd.</l>
+<l>Daa sp&#x00F8;r det stilt og fast: &#x00AB;Seg er du mogen</l>
+<l>fyr dagsens glede, fyr den store bragd?&#x00BB;</l>
+<l>Eg stamar: &#x00AB;Mogen &#x2013; sj&#x00F8;lve barnehugen</l>
+<l>er skapt fyr glede &#x2013;.&#x00BB; Eg vert nedatt tagd:</l>
+<l>&#x00AB;Kann du sjaa draugedans med smil paa munne?</l>
+<l>Du stod nok strid, men du hev ikkje vunne.</l>
+</lg>
+<lg>
+<l>Du r&#x00F8;mer og vil drukne dine minne;</l>
+<l>men dette rom skal sjaa den same strid</l>
+<l>sin annan gong.&#x00BB; &#x00AB;Men skal eg sitje inne</l>
+<l>i draugelag mi heile livetid?&#x00BB;</l>
+<l>&#x00AB;Til denne tunge striden du kann vinne.&#x00BB;</l>
+<l>&#x00AB;Daa ligg eg bleik, daa drys det dogg i lid.&#x00BB;</l>
+<l>&#x00AB;Daa ligg du bleik i smil; daa hev du bunde</l>
+<l>ein krans til livsens drott; daa kann du blunde.&#x00BB;</l>
+</lg>
+<lg>
+<l>Eg b&#x00F8;ygjer hovud, tegjer, freistar berre</l>
+<l>aa lyfte hand til livd som fyr eit slag;</l>
+<l>men avgjerdsstunda ek seg n&#x00E6;r og n&#x00E6;rre,</l>
+<l>eg lyt nok velje, velje same dag.</l>
+<l>&#x00AB;Du strenge bodords-berar, hels din herre</l>
+<l>eg vel meg gl&#x00F8;ymsle fram fyr draugelag.</l>
+<l>Det lyt vel heite at eg vilde r&#x00F8;me;</l>
+<l>men staupe var for djupt og beiskt aa t&#x00F8;me.&#x00BB;</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem" n="4">
+<head><ref type="contents" target="contents_4" xml:id="chapter_4">Eg tr&#x00F8;yter dei dimsvale dagar</ref></head>
+<note type="commentary">Utgitt i diktsamlingen <hi rend="italic">Ved vebande</hi>, 1923</note>
+<lg>
+<l>Eg tr&#x00F8;yter dei dimsvale dagar</l>
+<l>med tanken sit saarhendt og ror</l>
+<l>til solhulde hangande hagar</l>
+<l>der smil liksom vaarblomar gror.</l>
+</lg>
+<lg>
+<l>I linnstillte lengslur eg smiler;</l>
+<l>ein blaad&#x00E6;md og svaneskir draum</l>
+<l>sig s&#x00F8;t gjenom hugen og kviler</l>
+<l>i sus som ein idande straum.</l>
+</lg>
+<lg>
+<l>Eg lengtar i blaad&#x00E6;mde n&#x00E6;ter</l>
+<l>og kjenner ein varm-ande sl&#x00E6;r</l>
+<l>i mot meg i bivrande &#x00E6;ter,</l>
+<l>ei helsing som vaknar og fer.</l>
+</lg>
+<lg>
+<l>Eg lengtar til hangande hagar</l>
+<l>der staupe med nektaren gjeng</l>
+<l>i kj&#x00E6;rvene-lag, og dei dagar</l>
+<l>sig kveldblidt i draumenatt-seng.</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem" n="5">
+<head><ref type="contents" target="contents_5" xml:id="chapter_5">Til &#x00AB;ljaamannen&#x00BB;</ref></head>
+<note type="commentary">Utgitt i diktsamlingen <hi rend="italic">Ved vebande</hi>, 1923</note>
+<lg>
+<l>Stig fram or lauvhengl&#x00F8;yne der du kviler</l>
+<l>med blomeband &#x2013; er det din d&#x00F8;lne ljaa?</l>
+<l>Det er kje staalglim &#x2013; tj&#x00F8;rnblaa rosur smiler</l>
+<l>i alle gluggar; aa eg kan nok sjaa</l>
+<l>kor hjelpelaust du harde munndrag spiler</l>
+<l>te lage smil &#x2013; bryt taareperlur paa</l>
+<l>i tome augneholur? Kann du tvinge</l>
+<l>slikt gull or bleike bein og blodlaus bringe?</l>
+</lg>
+<lg>
+<l>Aa ver kje bljug av dine ljote lender,</l>
+<l>av gnagelaaten i ditt turre kne;</l>
+<l>din elsk er hjartemild, i dine hender</l>
+<l>ber elskhugsgaavunn bod om s&#x00E6;ld og fred.</l>
+<l>Kvi skjelv ditt viv? Aa, mildt som mor du sender</l>
+<l>ditt brudlaupsbod med livsens helsing ved.</l>
+<l>Den r&#x00E6;dde m&#x00F8;y! Ho utan deg laut lide</l>
+<l>i jomfrubur den st&#x00F8;rste kj&#x00E6;rleikskvide.</l>
+</lg>
+<lg>
+<l>Stig fram or dine l&#x00F8;yndomsfulle dalar,</l>
+<l>du er ein kjenning ifraa ungdoms tid;</l>
+<l>eit gamalt sigersminne endaa hjalar</l>
+<l>i evigt dvergemaal her under i</l>
+<l>mi sj&#x00E6;l; i den ekstase-bylgja svalar</l>
+<l>eg etterverken av so stor ein strid.</l>
+<l>Og vemodsfull eg ser kor live vimlar</l>
+<l>i villsvarm fyrr det stig mot kveldblaa himlar.</l>
+</lg>
+<lg>
+<l>Du veit, du veit kor lite eg hev vunne</l>
+<l>aa byggje livsverk av min ungdoms draum;</l>
+<l>du veit kor tusund meinkl&#x00F8;r traatt hev spunne</l>
+<l>meg fast og alltid fastar i sin taum.</l>
+<l>Og venenn, venenn som eg skulde funne &#x2013;</l>
+<l>aa var eg sj&#x00F8;lv slikt vatn uti straum?</l>
+<l>Men dei som let meg sjaa Guds varme tanke</l>
+<l>i venskap, dei laut sj&#x00F8;lve manna sanke.</l>
+</lg>
+<lg>
+<l>Men etter alt ligg livsens leid forklaara</l>
+<l>og bivrar barneskirt i sylvsl&#x00F8;rd sol;</l>
+<l>fraa morgonlidenn sl&#x00E6;r den raude baara</l>
+<l>av heilag livstraa kring min svanestol.</l>
+<l>Og yve dvalemoann hev det vaara</l>
+<l>med roseflod i alle audebol.</l>
+<l>D&#x0027;er same staupa som eg fordom t&#x00F8;mde,</l>
+<l>men draumdrykk skin der blodrus-vinen bl&#x00F8;mde.</l>
+</lg>
+<lg>
+<l>Attende i ditt fang eg hovud hallar,</l>
+<l>eg blundar av so eg kann betre sjaa,</l>
+<l>og h&#x00F8;yre naar i lauvsus lognt du svallar</l>
+<l>og svevnsyng som med kvitkoll-tungur smaa.</l>
+<l>Aa det er s&#x00F8;te ungdomssviv som kallar</l>
+<l>meg heimatt, heim der eg drog ut i fraa.</l>
+<l>Og ringen renn i hop; i songmod hjalar</l>
+<l>min fyrste vaar igjenom austerdalar.</l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

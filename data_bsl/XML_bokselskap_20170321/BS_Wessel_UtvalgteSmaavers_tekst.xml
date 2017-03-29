@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://www.nslnorge.no/tekster/NSL_texts.xsl"?>
+<!DOCTYPE TEI PUBLIC "-// NSL Norge //EN" "http://www.nslnorge.no/tekster/NSL_tei_xinclude.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="BS_Wessel_UtvalgteSmaavers">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>bokselskap.no 2011
+<lb/>Johan Herman Wessel: <hi rend="italic">Utvalgte sm&#x00E5;vers</hi>
+<lb/><lb/>Tekstene i bokselskap.no f&#x00F8;lger <hi rend="italic">J.H. Wessels samlede Digte</hi> fra 1862. Digitaliseringen er basert p&#x00E5; skannet og ocr-lest fil mottatt fra Nasjonalbiblioteket/Bokhylla.no.</title>
+</titleStmt>
+<publicationStmt><p>Publiseres som digital tekst av bokselskap.no.</p></publicationStmt>
+<sourceDesc>
+<p>digibok_2009092103009 (mottat fra Nasjonalbiblioteket/Bokhylla.no 2010).</p>
+</sourceDesc>
+</fileDesc>
+<revisionDesc>
+<change who="ENW" when="2011-10-30">F&#x00F8;rt inn korrekturresultatene. Kodekontroll.</change>
+<change xml:id="ENW" who="ENW" when="2011-10-28">Kodet grunnstruktur i xml.</change>
+</revisionDesc>
+</teiHeader>
+<text xml:id="BS_Wessel_UtvalgteSmaavers_tekst" type="poem">
+<front>
+<titlePage type="main">
+<byline><docAuthor>Johan Herman Wessel</docAuthor></byline>
+<docTitle>
+<titlePart type="main">Utvalgte sm&#x00E5;vers</titlePart>
+</docTitle>
+<docImprint>
+<docDate>&#x005B;1770-&#x00E5;rene&#x005D;<note type="footnote">Tekstene i bokselskap.no f&#x00F8;lger <hi rend="italic">J.H. Wessels samlede Digte</hi> fra 1862. Digitaliseringen er basert p&#x00E5; skannet og ocr-lest fil mottatt fra Nasjonalbiblioteket/Bokhylla.no.</note></docDate>
+</docImprint>
+</titlePage>
+<div type="illustration"><figure><graphic url="Wessel.jpg"/></figure></div>
+<div xml:id="contents">
+<list type="contents_main">
+<item><ref target="chapter_1" xml:id="contents_1">&#x005B;Den, som aldrig turde drikke&#x005D;</ref></item>
+<item><ref target="chapter_2" xml:id="contents_2">&#x005B;For Kierlighed er Viin&#x005D;</ref></item>
+<item><ref target="chapter_3" xml:id="contents_3">&#x005B;Naar jeg formaaer, jeg gierne vil&#x005D;</ref></item>
+<item><ref target="chapter_4" xml:id="contents_4">&#x005B;Alt det, som i Ungdommen gleede os kan&#x005D;</ref></item>
+<item><ref target="chapter_5" xml:id="contents_5">&#x005B;M&#x00E6;rk derpaa!&#x005D;</ref></item>
+<item><ref target="chapter_6" xml:id="contents_6">&#x005B;Afholdenhed! du Vises Dyd&#x005D;</ref></item>
+<item><ref target="chapter_7" xml:id="contents_7">&#x005B;Afholdenhed er en deilig Dyd&#x005D;</ref></item>
+<item><ref target="chapter_8" xml:id="contents_8">I en Stambog</ref></item>
+<item><ref target="chapter_9" xml:id="contents_9">Impromptu over Tandpine</ref></item>
+<item><ref target="chapter_10" xml:id="contents_10">Kierlighed og Sm&#x00F8;rrebr&#x00F8;d</ref></item>
+<item><ref target="chapter_11" xml:id="contents_11">Gravskrifter</ref></item> 
+</list>
+</div>
+</front>
+<body>
+<div type="chapter" subtype="poem" n="1">
+<head><ref type="contents" target="contents_1" xml:id="chapter_1">&#x005B;Den, som aldrig turde drikke&#x005D;</ref></head>
+<lg>
+<l>Den, som aldrig turde drikke,</l>
+<l>Turde aldrig noget stort;</l>
+<l>&#x00C6;gte Helte lade ikke</l>
+<l>Vandet skylle Modet bort.</l>
+<l><hi rend="italic">Chorus.</hi></l>
+<l>Krigeren, for han er Helt,</l>
+<l>Takker Vinen i sit Telt.</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem" n="2">
+<head><ref type="contents" target="contents_2" xml:id="chapter_2">&#x005B;For Kierlighed er Viin&#x005D;</ref></head>
+<lg>
+<l>For Kierlighed er Viin</l>
+<l>En daarlig Medicin;</l>
+<l>Thi, naar de komme sammen,</l>
+<l>For&#x00F8;ges altid Flammen;</l>
+<l>Og, naar de sammen kommer,</l>
+<l>Saa blier der dobbelt Sommer;</l>
+<l>Men Sommeren er heed,</l>
+<l>Som Gud og hver Mand veed.</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem" n="3">
+<head><ref type="contents" target="contents_3" xml:id="chapter_3">&#x005B;Naar jeg formaaer, jeg gierne vil&#x005D;</ref></head>
+<lg>
+<l>Naar jeg formaaer, jeg gierne vil</l>
+<l>En Draabe drikke af og til;</l>
+<l>Om hver en Mand og hver Madame</l>
+<l>Kun foretoge sig det samme,</l>
+<l>De klamredes da ei saa tidt</l>
+<l>Om Dit og Dat, og Fias og Sk&#x2013;.</l>
+</lg>
+<lg>
+<l>Hvis nogentid jeg faaer i Sinde</l>
+<l>(Som neppe skeer) mig at beqvinde,</l>
+<l>Da skal et evigt, evigt Ruus</l>
+<l>Stadfeeste Freden i mit Huus. &#x2013;</l>
+<l>Men over denne Impromptu</l>
+<l>Jeg alt undseelig er og bly.</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem" n="4">
+<head><ref type="contents" target="contents_4" xml:id="chapter_4">&#x005B;Alt det, som i Ungdommen gleede os kan&#x005D;</ref></head>
+<lg>
+<l>Alt det, som i Ungdommen gl&#x00E6;de os kan,</l>
+<l>En Kone os giver, os giver en Mand;</l>
+<l rend="indent_1">Man m&#x00E6;rke, at Bacchus her menes ved Manden,</l>
+<l rend="indent_1">Og at jeg Fru Venus forstaaer ved den anden.</l>
+<l>Man veed, at for Venus her D&#x00F8;ren er lukt;</l>
+<l rend="indent_1">For ikke med Smerte at savne Madamen,</l>
+<l>Saa troer jeg, det er baade billigt og smukt,</l>
+<l rend="indent_1">At drikke en Draabe, imens vi er sammen.</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem" n="5">
+<head><ref type="contents" target="contents_5" xml:id="chapter_5">&#x005B;M&#x00E6;rk derpaa!&#x005D;</ref></head>
+<lg>
+<l>M&#x00E6;rk derpaa!</l>
+<l>For det f&#x00F8;rste</l>
+<l>Skal du t&#x00F8;rste,</l>
+<l>Drikke saa.</l>
+<l>Siden, naar</l>
+<l>Viin er drukket,</l>
+<l>T&#x00F8;rsten slukket,</l>
+<l>Nok en Taar.</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem" n="6">
+<head><ref type="contents" target="contents_6" xml:id="chapter_6">&#x005B;Afholdenhed! du Vises Dyd&#x005D;</ref></head>
+<lg>
+<l>Afholdenhed! du Vises Dyd,</l>
+<l>Som jevn og seig, men varig Fryd</l>
+<l rend="indent_1">I et langvarigt Liv os byder!</l>
+<l>Du tager vel ei ilde op,</l>
+<l>At jeg dog heller i Galop,</l>
+<l rend="indent_1">I kort, men heftig Lyst mig fryder.</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem" n="7">
+<head><ref type="contents" target="contents_7" xml:id="chapter_7">&#x005B;Afholdenhed er en deilig Dyd&#x005D;</ref></head>
+<lg>
+<l>Afholdenhed er en deilig Dyd,</l>
+<l>Men Uafholdenhed gi&#x0027;er st&#x00F8;rre Fryd;</l>
+<l>Maaskee for jeg ei bedre vidste,</l>
+<l>Jeg lider nok saa godt den sidste.</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem" n="8">
+<head><ref type="contents" target="contents_8" xml:id="chapter_8">I en Stambog</ref></head>
+<lg>
+<l>Lev vel og forn&#x00F8;iet!</l>
+<l>Hav stedse for &#x00D8;iet,</l>
+<l rend="indent_1">Du ei er ret frisk.</l>
+<l>For meget af Ki&#x00F8;det</l>
+<l>Saa mangen har d&#x00F8;det,</l>
+<l rend="indent_1">Spiis derfor helst fisk.</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem" n="9">
+<head><ref type="contents" target="contents_9" xml:id="chapter_9">Impromptu over Tandpine</ref></head>
+<lg>
+<l>Du T&#x00E6;ndernes uh&#x00F8;flig&#x0027; Giest,</l>
+<l>Al Roeligheds og Friheds Pest,</l>
+<l>Du er paa Jorden Vice-Fanden,</l>
+<l>Og halve v&#x00E6;rre end den anden;</l>
+<l>Men siig mig, naar du plage skal,</l>
+<l>Hvi falder just paa mig dit Val,<note type="footnote">Linie 7: Val, eeldre Form for Valg, paa Wessels Tid endnu i Brug i  Talelproger.</note></l>
+<l>Paa mig, som seer kun sorte Dage,</l>
+<l>Og sorte haver lagt tilbage;</l>
+<l>Paa mig, som meer ei Kiole har,</l>
+<l>Og har den ubetalt, jeg bar;</l>
+<l>Hvis Krop knap fire Skilling gielder,</l>
+<l>Hvis Aand Bekymring daglig f&#x00E6;lder,</l>
+<l>Hvis Creditorer er en Flok?</l>
+<l>Er dette dig ei Plager nok?</l>
+<l>Paa denne Suppe kom en J&#x00E6;vning</l>
+<l>Af Mandags og af Torsdags St&#x00E6;vning. &#x2013;</l>
+<l>See der gaaer <emph>Meldahl</emph> glad og feed,</l>
+<l>Som nu af ingen Plage veed;</l>
+<l>Forlad du mig, tag ham i Steden,</l>
+<l>Og lad ham faae lidt Sorg blandt Gl&#x00E6;den.</l>
+</lg>
+ </div>
+<div type="chapter" subtype="poem" n="10">
+<head><ref type="contents" target="contents_10" xml:id="chapter_10">Kierlighed og Sm&#x00F8;rrebr&#x00F8;d</ref></head>
+<lg>
+<l>At Sm&#x00F8;rrebr&#x00F8;d er ikke Mad,</l>
+<l>Og Kierlighed er ikke Had,</l>
+<l>Det er for Tiden hvad jeg veed</l>
+<l>Om Sm&#x00F8;rrebr&#x00F8;d og Kierlighed.</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem" n="11">
+<head><ref type="contents" target="contents_11" xml:id="chapter_11">Gravskrifter</ref></head>
+<lg>
+<head>I.</head>
+<l>Herunder hviler Krigsraad Neergaard, den Store,</l>
+<l rend="indent_1">Store, Store,</l>
+<l>Kun Himlen veed, hvad godt han giorde,</l>
+<l rend="indent_1">Giorde, giorde.</l>
+<l>At tale om hans kiere Frue,</l>
+<l>Da var hun venlig som en Due;</l>
+<l>At tale om hans tvende S&#x00F8;nner,</l>
+<l>Det ei Umagen l&#x00F8;nner;</l>
+<l>Men naar jeg t&#x00E6;nker paa hans Datter,</l>
+<l>Kan jeg ei bare mig for Latter.</l> 
+</lg>
+<lg>
+<head>II.</head>
+<l>Jeg, salig Ove Gierl&#x00F8;v Meyer,</l>
+<l>Begik Sottiser, som jeg pleier,</l>
+<l>Men denne Gang begik jeg fem,</l>
+<l>Den sidste var dog v&#x00E6;rst blandt dem;</l>
+<l>Thi gik jeg hiem, skar ud min Strube,</l>
+<l>Og sidder her i Helveds Grube,</l>
+<l>Hvor nu den lede Satan eier</l>
+<l>Mig, salig Ove Gierl&#x00F8;v Meyer.</l> 
+</lg>
+<lg>
+<head>III.</head>
+<l>Her ligger Lieut&#x0027;nant Stabel,</l>
+<l>O vee, heel miserabel</l>
+<l>I Veiret med sin Snabel,</l>
+<l>Og er ei nu capabel,</l>
+<l>At bruge meer sin Sabel,</l>
+<l>Som var ham meest aimabel</l>
+<l>N&#x00E6;st Br&#x00E6;ndeviin og Fabel.</l> 
+</lg>
+<lg>
+<head>IV.
+<lb/>Over Brygger Walt.</head>
+<l>Her ligger <emph>Walt</emph>,</l>
+<l>Han giorde Malt,</l>
+<l>Og det var Alt.</l>
+</lg>
+<lg>
+<head>V.
+<lb/>Under Londemanns Portrait.</head>
+<l>Man sukker, for han er ei meer,</l>
+<l>Man husker hvad han var, og leer.</l>
+</lg>
+<lg>
+<head>Under Digterens Portrait
+<lb/><hi rend="italic">skrevet af ham selv</hi>.</head>
+<l>Han syntes s&#x00F8;d til Bagateller,</l>
+<l>Og noget stort han blev ei heller.</l> 
+</lg>
+<lg>
+<head>Digterens Gravskrift over sig selv.</head>
+<l>Han aad og drak, var aldrig glad,</l>
+<l>Hans St&#x00F8;vleh&#x00E6;le gik han skieve;</l>
+<l>Han ingen Ting bestille gad,</l>
+<l>Tilsidst han gad ei heller leve.</l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,1173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://www.nslnorge.no/tekster/NSL_texts.xsl"?>
+<!DOCTYPE TEI PUBLIC "-// NSL Norge //EN" "http://www.nslnorge.no/tekster/NSL_tei_xinclude.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="NSL_Wergeland_Blomsterstykke">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Det norske spr&#x00E5;k- og litteraturselskap. <hi rend="italic">Henrik Wergeland: Brevene til Amalie</hi>. Utgave ved Leiv Amundsen. Det norske spr&#x00E5;k- og litteraturselskap, 1974</title>
+</titleStmt>
+<publicationStmt><p>Publiseres som trykt og digital tekst av NSL/BS.</p></publicationStmt>
+<sourceDesc>
+<p>Det norske spr&#x00E5;k- og litteraturselskap.
+<lb/><hi rend="italic">Henrik Wergeland: Brevene til Amalie</hi>. Utgave ved Leiv Amundsen. Det norske spr&#x00E5;k- og litteraturselskap, 1974.</p>
+</sourceDesc>
+</fileDesc>
+<revisionDesc>
+<change xml:id="ENW" who="ENW" when="2011-08-15">Kodekontroll.</change>
+<change who="AAH" when="2011-05-29">Ført inn rettelser etter korrektur.</change>
+<change xml:id="AAH" who="AAH" when="2011-04-07">Kodet tekst.</change>
+</revisionDesc>
+</teiHeader>
+<text xml:id="NSL_Wergeland_BrevAmalie_tekst" type="collection">
+<front>
+<titlePage type="main">
+<byline><docAuthor>Henrik Wergeland</docAuthor></byline>
+<docTitle>
+<titlePart type="main">Brevene til Amalie</titlePart>
+<titlePart type="sub">Utgave ved Leiv Amundsen</titlePart>
+</docTitle>
+<docDate>1974</docDate>
+</titlePage>
+<div type="chapter" subtype="illustration">
+<figure><graphic url="BrevAmalie.jpg"/></figure>
+</div>
+<div xml:id="contents">
+<list type="contents_main">
+<item><ref target="chapter_1" xml:id="contents_1">Forord ved Leiv Amundsen</ref></item>
+<item><ref target="chapter_2" xml:id="contents_2">Henrik Wergeland og Amalie Bekkevold</ref></item>
+</list>
+</div>
+</front>
+<body>
+<div type="chapter" subtype="preface">
+<head><ref type="contents" target="contents_1" xml:id="chapter_1">FORORD VED LEIV AMUNDSEN</ref></head>
+<p><pb n="5"/>I &#x00E5;rene efter 1940, da utgaven av Henrik Wergelands &#x00AB;Samlede skrifter&#x00BB; forel&#x00E5; avsluttet i 23 bind, fremkom endel nytt materiale, som blev trykt i forbindelse med &#x00AB;Brev til Henrik Wergeland&#x00BB; i 1956. At nu enda et supplement kan legges frem, skyldes i alt vesentlig h&#x00F8;yesterettsadvokat <hi rend="italic">Jonas Skougaard</hi> (1896&#x2013;1968), Norges st&#x00F8;rste boksamler og kyndigste bibliofil i v&#x00E5;rt &#x00E5;rhundre.</p>
+<p>Wergelands diktning og liv hadde hatt en stor plass i Skougaards interesser fra ungdommen av, og det lyktes ham i &#x00E5;renes l&#x00F8;p ikke bare &#x00E5; skape en praktisk talt fullstendig samling av dikterens trykte produksjon, men med utrettelig sporsans hadde han ogs&#x00E5; sikret seg et betydelig utvalg av manuskripter og breve fra hans h&#x00E5;nd. I sitt testamente hadde Skougaard bestemt at den norske del av hans h&#x00E5;ndskriftsamling skulle tilfalle Universitets biblioteket i Oslo, og dermed fikk dette den siste store samling Wergelandiana som ennu til da hadde befunnet seg i privat eie.</p>
+<p>Skougaard hadde noen tid f&#x00F8;r sin d&#x00F8;d betrodd undertegnede &#x00E5; utgi hans Wergeland-manuskripter, og n&#x00E5;r skriftet her fremlegges, skjer det i dyp takknemlighet for den gener&#x00F8;se tillid som han alltid viste den som syslet med studiet av v&#x00E5;r kj&#x00E6;reste dikter.</p>
+<p>Brevene til Amalie Bekkevold blev f&#x00F8;rst benyttet av Hartvig Lassen, som offentliggjorde bruddstykker fra dem i sin bok &#x00AB;Breve fra Henrik Wergeland&#x00BB; (1967); derfra er disse gjengitt i &#x00AB;Samlede skrifter&#x00BB; 5:1. H. Eitrem s&#x00E5; brevene &#x00AB;blandt endel gulnede familiepapirer&#x00BB; (Samtiden 1907 s. 317), og de var ogs&#x00E5; kjent av Fredrik Paasche. N&#x00E5;r de nu blir trykt i sin helhet, har <pb n="6"/>det syntes naturlig &#x00E5; knytte dem sammen med kilder som ellers foreligger, i en fortl&#x00F8;pende kommentar. Den vil belyse bakgrunnen for den skj&#x00F8;nneste krans poesier som v&#x00E5;r diktning eier, og gi glimt av det lykkelige samliv i Damstredet-Grotten-Hjerterum, hvor kj&#x00E6;rligheten var lyskilden, og hun som fast hadde &#x00AB;klynget til det vilde Fjeld sit Liv&#x00BB;, kunne sprede kamp-&#x00E5;renes sorte skyer &#x00AB;med det s&#x00F8;de Solskin i eet af sine &#x00D8;iekast&#x00BB;.</p>
+</div>
+<div type="chapter" subtype="part">
+<head><ref type="contents" target="contents_2" xml:id="chapter_2">HENRIK WERGELAND OG AMALIE BEKKEVOLD</ref></head>
+<div type="chapter" subtype="commentary">
+<p><pb n="7"/>I de sm&#x00E5; aviser som utkom i Christiania frem til midten av forrige &#x00E5;rhundre, meldes det stadig om jekter og galeaser og lignende sm&#x00E5;fart&#x00F8;yer som var ankommet fra danske byer eller l&#x00E5; seilklare for Danmarks-farten. De bes&#x00F8;rget frakten av korn og ost og sm&#x00F8;r og kj&#x00F8;ttvarer og tok leilighetsvis reisende med seg. I krigs&#x00E5;rene 1807-14 blev denne seilasen prek&#x00E6;r, livsviktig som den var for landets forsyning.</p>
+<p>Den f&#x00F8;rste sj&#x00F8;mann som v&#x00E5;get seg ut efter krigsutbruddet for &#x00E5; f&#x00F8;re korn og fetevarer til Christiania, het <hi rend="italic">Peter Svendsen Bekkevold</hi>. Han var f&#x00F8;dt i 1781, d&#x00F8;pt i Nordby kirke 12. august, s&#x00F8;nn av Svend Petersen fra plassen Neset; familien m&#x00E5; siden v&#x00E6;re flyttet syd til naboplassen Bekkevold innerst ved Bunnefjorden og ha tatt sitt navn derfra, men en tradisjon fortalte at slekten i sin tid var kommet fra V&#x00E4;rmland. B&#x00E5;de Peter og hans yngre bror Frederik slog seg ned som fraktemenn og h&#x00F8;kere p&#x00E5; Moss; Peter fikk borgerskapsbrev der i byen 29. februar 1808. Begge blir ofte nevnt i beretninger fra disse tider som foretaksomme sj&#x00F8;folk. Seilasen l&#x00F8;p ikke av uten eventyr.</p>
+<p>I august 1809 seilte Peter med frakteb&#x00E5;ten &#x00AB;Redeligheden&#x00BB; fra Vall&#x00F8; med salt til Klitm&#x00F8;lle i Vestjylland og fikk ombord 80 t&#x00F8;nner korn til Christiania. P&#x00E5; tilbaketuren blev b&#x00E5;ten 18. september tatt av en svensk kaper og f&#x00F8;rt til Mollesund nord for Marstrand. Peter klarte &#x00E5; r&#x00F8;mme og kom seg hem til Moss, mens de tre andre norske blev fanger hos svensken. B&#x00E5;t og ladning gikk tapt. To andre b&#x00E5;ter blev ham &#x00AB;frataget af Fienden&#x00BB; i de n&#x00E6;rmeste &#x00E5;r. Det betydde for Peter et tap p&#x00E5; 4 000 riksdaler, og 3. oktober 1811 m&#x00E5;tte han inngi sitt bo til skifteretten. Saken <pb n="10"/>trakk ut; imens kom pengereduksjonen i 1813; innbo, l&#x00F8;s&#x00F8;re og et hus han hadde kj&#x00F8;pt i Moss, blev solgt p&#x00E5; auksjon. Boet blev f&#x00F8;rst oppgjort i februar 1815 og viste 662 daler aktiva mot 2 763 daler gjeld. Men Peter fortsatte ufortr&#x00F8;dent seilasen p&#x00E5; Danmark i disse &#x00E5;r, og senh&#x00F8;stes 1813 var han heldigere enn f&#x00F8;r.</p>
+<p>Han var da med p&#x00E5; broren Frederiks jakt &#x00AB;Fors&#x00F8;rgeren&#x00BB; for &#x00E5; hente en kornlast fra Aalborg. Ombord var foruten br&#x00F8;drene to handelsmenn og en sj&#x00F8;mann, Helge, alle fra Moss. Frederik og de to handlende eide hver sin &#x00E5;ttendedel av ladningen, resten var kj&#x00F8;pt for et interessesentskap i hjembyen. De seilte fra Fladstrand (Frederikshavn) 26. oktober om kvelden, kom ut i en voldsom storm fra vest med sv&#x00E6;r sj&#x00F8;gang og t&#x00E5;ke, og b&#x00E5;ten sprang lekk. Det var ingen annen r&#x00E5;d enn &#x00E5; s&#x00F8;ke inn til svenskekysten for &#x00E5; berge b&#x00E5;t og last. De heiste svensk flagg og tok en svensk fisker ombord; men han loset dem inn til Kungshamn, hvor det l&#x00E5; en svensk skj&#x00E6;rg&#x00E5;rdsflotille, og dermed var de tatt, skipspapirene blev beslaglagt og en vakt p&#x00E5; fem mann satt ombord &#x2013; jakten og nordmennene skulle f&#x00F8;res til Uddevalla. Det blev en besv&#x00E6;rlig seilas. Tre dager l&#x00E5; de v&#x00E6;rfast et sted som heter Fiskertangen, kom s&#x00E5; til Korn&#x00F6;, og i farvannet deromkring var Peter kjent fra tidligere tokter. De norske avtalte seg imellem at s&#x00E5; de noen chanse til &#x00E5; komme unda, skulle den tas. Peter overtalte svenskene til &#x00E5; s&#x00F8;ke havn ved Korn&#x00F6; for natten; han og hans kamerater fikk g&#x00E5; i land og f&#x00E5; losji, bare Helge blev ombord. Mens det ennu var lyst, gikk Peter en tur og &#x00AB;afpeilede Landet&#x00BB; mens de andre &#x00AB;holdt Svenskene med godt Snak&#x00BB;, heter det. Klokken 12 om natten gikk Peter igjen ut og ned til b&#x00E5;ten. Der s&#x00E5; det ut til at alt var stille; men da han kom inn p&#x00E5; dekket, dukket en av svenskene opp fra akterluken. Peter kom seg straks p&#x00E5; land igjen og stilte seg bak en sj&#x00F8;bod til han s&#x00E5; at mannen trakk luken over seg og forsvant. Nu gikk Peter opp til losjiet og gav tegn gjennem kammersvinduet hvor kameratene var innenfor &#x2013; det var avtalen for &#x00E5; varsle at de kunne komme. P&#x00E5; bordet la de efter seg et brev og penger til verten for hvad de hadde fort&#x00E6;rt. &#x00AB;Da det formedelst Nattens Stille var meget lydt, trak de alle St&#x00F8;vlerne af sig og gik saaledes ned ombord paa Jagten&#x00BB;, kastet trossen, l&#x00F8;ste ankertauet og lot det sakte g&#x00E5; i <pb n="11"/>sj&#x00F8;en. &#x00C9;n tok post ved forluken, Peter og annen ved akterluken, Helge heiste klyveren. Ved dette blev det uro under dekk; men nu viste det seg &#x00E5; v&#x00E6;re s&#x00E5; heldig at det bare var to svensker ombord &#x2013; de andre overnattet iland. De to blev truet p&#x00E5; livet og gav seg uten slagsm&#x00E5;l. Et kvarter bar det nu utover for bare klyveren, f&#x00F8;r de tente lys ved natthuset for kompasset og satte alle seil. I to timer gikk seilasen gjennem brott og brann i svarte natten i et grumset og farlig farvann. Da revnet plutselig storseilet tvers over og m&#x00E5;tte reves ovenfra ned til riftet; det blev 1 1&#x002F;2 favn mindre og var siden til liten nytte. Ved daggry var de kommet vel 3 mil av F&#x00E6;rder (Storef&#x00E6;rder), som de passerte klokken 11; klokken 3 la de bi ved Larkollen for slapp vind, og dagen efter, 3. november, fort&#x00F8;yet de i Moss. Svenskene blev overlevert til l&#x00F8;ytnant Diechmann sammen med et forseglet brev de hadde med til kommandanten i Uddevalla, og en &#x00E5;pen instruks for det svenske mannskaps leder. Forklaring blev opptatt og innberetning sendt stattholderskapet &#x2013; Christian Frederik &#x2013; om de norskes raske d&#x00E5;d. De fikk beholde 5 svenske sabler og 5 pistoler. Og det blev stilt i utsikt at Peter som leder av aksjonen skulle f&#x00E5; Dannebrog. Men f&#x00F8;r det kunne skje fra K&#x00F8;benhavn, var det jo andre og viktigere saker som denne vinter kom iveien. I familien blev det ofte siden talt om disse hendelsene fra krigens tid; selv nevnte Peter Bekkevold dem sjelden; Wergeland nevner dem i det brev han f&#x00F8;rte i pennen for Bekkevold ang&#x00E5;ende friplass for s&#x00F8;nnen Frederik p&#x00E5; Christiania katedralskole (1843, S.S.6:2:282 f.). Alt i alt mistet Bekkevold i krigs&#x00E5;rene 5 fart&#x00F8;yer som han hadde part i.</p>
+<p>Han fortsatte efter krigen som fraktemann. Hans kone Anne Sophia Hansdatter d&#x00F8;de. Som enkemann med to mindre&#x00E5;rige s&#x00F8;nner, Svend og Christian Frederik, giftet han sig 19. november 1818 med Gunhild Marie Ihlen, som var f&#x00F8;dt p&#x00E5; Landfald&#x00F8;en ved Drammen 28. februar 1800. Hennes mor, Oline Ihlen, f&#x00F8;dt 1764, var av den kjente slekt fra g&#x00E5;rden Ihlen p&#x00E5; Modum. Da hennes mann, Even Gundersen Engelstad eller Kj&#x00F8;lstad forsvant, tok hun igjen sitt pikenavn og flyttet med datteren til hjembygden. De bodde p&#x00E5; plassen Stalsberg (under Ihlen); &#x00AB;gjestgiver Peder Bekkevold fra Christiania&#x00BB; star som eier av plassen fra 1818 til 1831. Men alt i april 1819 kom han med <pb n="12"/>familie til Moss; hvor hans bror Frederik var kj&#x00F8;bmann. Peter fortsatte som h&#x00F8;ker &#x2013; sm&#x00E5;handler, is&#x00E6;r med husholdningsvarer &#x2013; samtidig med farten p&#x00E5; Danmark, og han slog seg godt opp p&#x00E5; den. Han blir titulert &#x00AB;skipper og h&#x00F8;ker&#x00BB;.</p>
+<p>Den 9. juli 1819 kom datteren <hi rend="italic">Amalia Sophia</hi> til verden og blev hjemmed&#x00F8;pt; den 1. desember blev hun b&#x00E5;ret til Moss kirke og fikk innskrevne faddere: skipskaptein Kock, kontroll&#x00F8;r Beenrud og kj&#x00F8;bmann Laurentzen fra Horsens, samt Petronelle Tronsen, tanten Helene Bekkevold (gift med Frederik) og jomfru Ellen Kock fra Larkollen. Siden f&#x00F8;dte madame Bekkevold noks&#x00E5; regelmessig et barn hver annet &#x00E5;r, og p&#x00E5; en n&#x00E6;r levde de opp. Det var: Petter Christian 10&#x002F;10 1821 (d&#x00F8;d sped), Peder Christian Balzar 23&#x002F;11 1823, Elise Olava 29&#x002F;9 1825, Caroline Cecilia 27&#x002F;7 1827, Frederik August 18&#x002F;3 1830, Helene Gjertsine 24&#x002F;11 1832, Niels Julius Liontar 24&#x002F;12 1834 og Gunda Marie Dorothea 10&#x002F;10 1837.</p>
+<p>De forholdsvis gode &#x00E5;r p&#x00E5; Moss tok slutt. Et dansk firma hvor Bekkevold hadde tilgodehavender, gikk fallit og trakk ham med seg. Han strevet siden med &#x00E5; betale sine kreditorer. (En gjeld p&#x00E5; vel 84 specidaler til statskassen fikk han eftergitt av Stortinget 28. februar 1848.) Kort f&#x00F8;r 1830 flyttet familien til Christiania og bodde tilleie i Tollbodgaten, senere i Kirkegaten, inntil Bekkevold i 1834 etablerte seg som fraktemann i skipskaptein Brinchs g&#x00E5;rd nederst i Skippergaten (nr. 3) ved Revieret ved bryggene. Han kj&#x00F8;pte og lot delvis selv bygge en del store lasteprammer som fraktet inn til byen sand til bruk som ballast i skutene. 27. mai 1836 fikk han borgerskap som h&#x00F8;ker (og trakt&#x00F8;r) i Christiania. Slitet p&#x00E5; sj&#x00F8;en i yngre &#x00E5;r hadde merket Peter, som nu selv hadde begitt farten. Men blant sine tidligere kolleger jekteskipperne hadde han mange kamerater, som frekventerte huset og fikk seg en toddy eller shrubb &#x2013; brennevin med varmt vann og portvin. Om vinteren, n&#x00E5;r b&#x00E5;tene var lagt opp, kunne smalhans melde seg. I sm&#x00E5;handelen hadde han b&#x00F8;nder som kunder; stallen i bakg&#x00E5;rden hadde spilltau til hestene deres under bybes&#x00F8;k.</p>
+<p>Blant husets venner var en mann i satt alder, Johan Simen Waaler, f&#x00F8;dt i 1806, student fra 1828 og stud.theol., men noen embedseksamen tok han aldri. N&#x00E5;r han gjerne blev titulert <pb n="13"/>&#x00AB;candidat&#x00BB;, var det som cand.philos., med anneneksamen. Han var tydelig betatt av den vakre, snart 19 &#x00E5;r gamle Amalie, og det later ikke til at hans frieri har v&#x00E6;rt ukj&#x00E6;rt hverken for henne eller for gamle Bekkevold. Waaler var en holden mann; ved makeskifte blev han i 1842 eier av g&#x00E5;rden Nedre&#x00E5;s i &#x00C5;s. Waaler var det som en sommerdag i 1838 innf&#x00F8;rte sin to &#x00E5;r yngre bekjent, Henrik Wergeland, i huset &#x2013; med skjebnesvangre f&#x00F8;lger. &#x2013;</p>
+<p>La oss nu minnes det muntre kapittel i &#x00AB;Hassel-N&#x00F8;dder&#x00BB;: &#x00AB;Endelig slaaer ogsaa min Klokke&#x00BB; og hvad som gikk forut for det som der fortelles: &#x00AB;Campbeller&#x00BB;-slaget i januar med den beske avispolemikk som fulgte, m&#x00E5;ned efter m&#x00E5;ned, beneficeforestillingen i februar, som brakte Wergeland 390 daler og lengselen efter &#x00E5; f&#x00E5; seg en hytte og en flekk jord til have, rideturen med Veslebrunen s&#x00F8;ndag den 13. mai gjennem Gamlebyen; orgeltonene og sangen l&#x00F8;d ut til ham fra kirken, fjorden speilblank, lerkesang i luften. Og endelig ved den &#x00F8;verste stue i Gr&#x00F8;nlien, et lite stykke opp p&#x00E5; Ekeberg: &#x00AB;Hvilken Udsigt over Fjorden og Akershuus og Byen og Landet! Man kunde see Maridalsfjeldene. Og Musiken h&#x00F8;rtes saa tydeligt over fra F&#x00E6;stningen. Og her paa denne Plet laa en Hytte, en Hytte af &#x00E6;gte Sort, liden og skr&#x00F8;belig i h&#x00F8;ieste Grad, saa jeg kanskee kunde blive dens Ejer naar jeg b&#x00F8;d ret dr&#x00F8;it og kontant.&#x00BB; To dager efter var hytten med uthus og have hans for 150 daler, hvorav 100 kontant, og han var sjeleglad. Mandagen hadde han hevet sin fars kvartalsgasje som hoffpredikant med 60 daler, s&#x00E5; han var for &#x00F8;yeblikket vel besl&#x00E5;tt med mynt.</p>
+<p>(Hytten blev siden matrikulert under Ljabroveien 42, solgt til bortflytning i 1847.)</p>
+<p>17. mai er han formann i Akers sogneselskaps festkomit&#x00E9; til feiring av dagen, sammen med blikkenslagermester Rolfsen og g&#x00E5;rdbruker Huseby p&#x00E5; T&#x00E5;sen; om kvelden fester han i Fru Deists restaurant i Kirkegaten. Dagen derp&#x00E5; kommer innkalling til politiet i anledning av en knust rute hos Kloed i nabog&#x00E5;rden, noe Wergeland var ganske uskyldig i; om aftenen igjen i Deists kaf&#x00E9;, hvor en ham ukjent mutt og tverr person var i den grad utiln&#x00E6;rmelig og efter hvert forn&#x00E6;rmelig i sine ytringer at Wergeland til slutt drev til ham. Det viste seg efterp&#x00E5; &#x00E5; v&#x00E6;re Kloeds <pb n="14"/>fetter, myntguardein Sinding (siden bergmester og i senere &#x00E5;r far til kunstnerbr&#x00F8;drene Otto, Stephan og Christian).</p>
+<p>&#x00AB;Endnu har jeg aldrig st&#x00F8;dt paa noget haardere, hevngjerrigere og min T&#x00E6;nkemaade i lignende Forhold mere modstridende Gemyt,&#x00BB; skrev Wergeland, som ville gj&#x00F8;re opp i mindelighet &#x00AB;det Lapperi Tingen dog egentlig var&#x00BB;, og tilb&#x00F8;d simple b&#x00F8;ter, &#x2013; bergkandidaten insisterte p&#x00E5; forlikelseskommisjon og rettssak, og stevning ved Bernhard Dunker blev forkynt 18. juni med m&#x00F8;te i retten den 28de. Det blev flere slike m&#x00F8;ter &#x2013; for motstanderne var jo dette en ny, kj&#x00E6;rkommen anledning til &#x00E5; ramme den forhatte.</p>
+<p>Imens var opprydningen og planlegningen og reparasjonene i gang ute i Gr&#x00F8;nlien. Henrik skriver 5. juni til den danske komponist Hartmann: &#x00AB;Mens Bladene ere fulde <hi rend="italic">pro &#x0026; contra</hi> Henr. W &#x2013; er jeg alene beskj&#x00E6;ftiget med Opbygningen af et lille Landsted, hvor jeg vil indrette mig <hi rend="italic">&#x00E0; mon aise</hi>, for at skrive &#x2013;&#x00BB;, han ville ha Hartmann med p&#x00E5; &#x00E5; lage en opera. P&#x00E5; f&#x00F8;dselsdagen den 17. juni stod diktet &#x00AB;I det Gr&#x00F8;nne&#x00BB; i Morgenbladet:</p>
+<lg>
+<l>I Solskin smelter alt mit Nag.</l>
+<l>Sligt Ord er ei i B&#x00F8;lgens Slag.</l>
+<l>Jeg lytter til de Strandens Toner &#x2013;</l>
+<l>Hvor mildt du, s&#x00F8;de Chor, forsoner!</l>
+<l>&#x2013; &#x2013; &#x2013;</l>
+<l>Og du min kj&#x00E6;re, hvide H&#x00E6;g,</l>
+<l>trofaste Ven af Hyttens V&#x00E6;g,</l>
+<l>du laane Vreden ei din Skygge!</l>
+<l>I den t&#x00F8;r ingen Sorger bygge.</l>
+</lg>
+<p>Ett savn nevner han, og det sammen med d&#x00F8;dstanken, som aldrig er ham fjern:</p>
+<lg>
+<l>Til n&#x00E6;ste Vaar du skal maaskee</l>
+<l>bestr&#x00F8; min Gravh&#x00F8;i med din Sne;</l>
+<l>kanh&#x00E6;nde den i Begret drysser,</l>
+<l>som jeg, der <hi rend="italic">Brud ei har jo</hi>, kysser.</l>
+</lg>
+<p>Fra kl. 9 til 2 var han, flittig og pliktoppfyllende, som amanuensis p&#x00E5; Universitetsbiblioteket i byens eldste hus, R&#x00E5;dhusgaten 17, spiste derefter middag i sitt losji hos blikkenslager Rolfsen i Dronningensgate fra 1&#x002F;2 3 til 4, og s&#x00E5; bar det til Gr&#x00F8;nlien. Men <pb n="15"/>veien om Gamlebyen tok for lang tid; han skaffet seg en b&#x00E5;t for &#x00E5; ro over isteden. &#x00AB;Men Aarer og Seil vilde man stj&#x00E6;le bort fra mig ved bybryggen om jeg ikke havde et Sted at s&#x00E6;tte dem ind i N&#x00E6;rheden&#x00BB;, og dette problem l&#x00F8;ste Waaler ved &#x00E5; presentere Wergeland for Bekkevolds, hvor han kunne deponere dem. &#x00AB;Dette gav igjen Anledning til at jeg fik see og tale med hans &#x00E6;ldste Datter Amalie Sofie, og dette gav igjen Anledning til at jeg hver Dag f&#x00F8;r jeg tog over kom i hans Stue og sad der og blev siddende der f&#x00F8;rst under Paaskud af at jeg var tr&#x00E6;t og siden som en Ven af Huset.&#x00BB;</p>
+<p>&#x00AB;Werthers Tilbedede gjorde ikke heftigere Indtryk paa ham, naar han saae hende skj&#x00E6;re Sm&#x00F8;rrebr&#x00F8;d og dele ud til sine Smaas&#x00F8;skende, end denne unge Pige paa mig, naar hun syslede med sine. De elskede hende som Moder og S&#x00F8;ster. Sine &#x00D8;ines Herlighed kunde hun ligesaa lidt skjule, som man kan s&#x00E6;tte en Lysh&#x00E6;tte over Vesuv. Hendes Godhed var jeg daglig Vidne til, om den ikke havde lagt ligesaa aabenbare over hendes Ansigt som Solskinnet over Marken en Dag, som fortjener Navn af vakker, og om Fortr&#x00E6;ffeligheden af hendes Forstand overtydedes jeg ved hvert Ord jeg h&#x00F8;rte.&#x00BB;</p>
+<p>Jomfru Albertine T&#x00F8;nsager fra Eidsvoll, som Henrik i sin tid hadde sv&#x00E6;rmet sterkt for, var sammen med sin far stortingsmannen p&#x00E5; bybes&#x00F8;k og bodde hos h&#x00F8;ker A. Knudsen i Store Vognmannsgate (nu Karl XII&#x0027;s gate). Knudsen var en bekjent av b&#x00E5;de Waaler og Wergeland, og Albertine var en venninne av Amalie. F&#x00F8;r Henrik ennu var flyttet inn i sin hytte, innb&#x00F8;d han de to venninner til et bes&#x00F8;k derute; T&#x00F8;nsager fikk om han ville, komme landeveien &#x2013; Wergelands farkost var vel ikke s&#x00E6;rlig rommelig, later det til.</p>
+<p>Sankthansaften hadde han igjen selskap i det lille r&#x00F8;dmalte huset. Denne gang hadde han buden et par av sine egne unge venner sammen med Amalie. Det var den 17 &#x00E5;r gamle Lovise Bang, som siden blev gift med Wergelands gamle kjenning gartner Moe ved den botaniske have p&#x00E5; T&#x00F8;yen, og Ambrosia Henriksen, 16 &#x00E5;r, datter av kj&#x00F8;bmann Gudbrand Henriksen, som ogs&#x00E5; h&#x00F8;rte til Wergelands bekjentskapskrets; hun blev siden gift med hans l&#x00E6;rer og venn, botanikeren M. N. Blytt. Fru Moe mintes siden i livet at husets utstyr ennu var s&#x00E6;rdeles primitivt: /<pb n="16"/>&#x00AB;Sengen var en briks med Riis i og Bordet var en Fj&#x00E6;l som han lagde over 2 Tr&#x00E6;stoler, med en Dug som han havde kj&#x00F8;bt paa Auktion.&#x00BB; Om kvelden kom det &#x00F8;sende regnv&#x00E6;r, og damene lot sine fine nye sommerhatter bli igjen for ikke &#x00E5; f&#x00E5; dem spolert p&#x00E5; hjemturen. Wergeland hadde lagt Amalies over en vindusrose, og om morgenen var blomsterknopper sprunget ut under den. Det gav motivet til et dikt: &#x00AB;Den Elskedes Hat&#x00BB;, den &#x00AB;f&#x00F8;rste Kj&#x00E6;rlighedserkl&#x00E6;ring af nogen Tydelighed&#x00BB; som han brakte henne, &#x00AB;skj&#x00F8;ndt det allerede l&#x00E6;nge var klart, at jeg sad i over begge &#x00D8;rene&#x00BB;. Han gjorde rett i aldri &#x00E5; la det trykke, for diktet er ingenlunde vellykket som poesi betraktet:</p>
+<lg><l>Himmel, er Hun mig n&#x00E6;r?</l>
+<l>Har da Hun, jeg har kj&#x00E6;r,</l>
+<l>Selv bevogtet med &#x00D8;mhed min Slummer?</l>
+<l>Har hun b&#x00F8;jet sig tyst</l>
+<l>til mit bankende Bryst,</l>
+<l>mens idr&#x00F8;mme det glemte sin Kummer?</l>
+<l>&#x2013; &#x2013; &#x2013;</l>
+<l>O forvild ei min Aand!</l>
+<l>Disse lyseblaae Baand,</l>
+<l>denne Hat jeg for vel jo maa kjende?</l>
+<l>&#x2013; &#x2013; &#x2013;</l>
+<l>Jeg har slumret inat</l>
+<l>med en dyrebar Skat.</l>
+<l>Derfor svang sig min Dr&#x00F8;m i det H&#x00F8;je.</l>
+<l>Paa en Rosenbusk sat</l>
+<l>var den Elskedes Hat</l>
+<l>n&#x00E6;r mit vaagne skj&#x00F8;ndt slumrende &#x00D8;je.</l>
+<l>&#x2013; &#x2013; &#x2013;</l>
+</lg>
+<p>Og s&#x00E5; videre. Stilen minner om slike viser som man kan tenke seg Amalie sang til guitaren. Enkelte vers levet videre i muntlig overlevering, til diktet blev utgitt s&#x00E6;rskilt av Jonas Skougaard i 1944 (UBOslo ms. fol. 3385).</p>
+<p>Kort efter reiste Amalie med sin mor p&#x00E5; bes&#x00F8;k til onkelen p&#x00E5; Moss. Dit gikk nu brev p&#x00E5; brev n&#x00E5;r leilighet gav seg. Det eldste bevarte er datert &#x00AB;S&#x00F8;ndag Eftermiddag&#x00BB; &#x2013; det m&#x00E5; efter all sannsynlighet v&#x00E6;re skrevet 1. juli.</p>
+</div>
+<div subtype="letter">
+<p>UBOslo ms. 584 fol. F 41. S.S.5:1:207 f.</p>
+<div type="chapter" subtype="letterpart">
+<dateline><pb n="17"/>S&#x00F8;ndag Eftmddg.</dateline>
+<p>Dette, kj&#x00E6;reste Amalie, skriver jeg et Par Timer efter Indlagte, og i min Ensomhed. Jeg har sendt Bud efter Deres Fader paa et Glas Porter for dog at kunne tale om Dem, og det alvorligt. Der var intet Brev med Posten; altsaa stoler jeg og venter paa Deres Moder. Jeg l&#x00E6;nges efter hende, skj&#x00F8;ndt jeg vel under hende et langt Hvilerum for hendes huuslige Byrder. Amalie, smukke ungdommelige Amalie, skal De engang blive som hende? O ikke saa nedb&#x00F8;jet, om saa &#x2013; hvilket Gud give! &#x2013; skal skee, at jeg skal afvende Livets Sorger fra Deres skj&#x00F8;nne Sjel. Ved den Alder kan Kj&#x00E6;rlighed endnu v&#x00E6;re lykkelig. Og min F&#x00F8;lelse for Dem er af den Art, at mit Hjerte, skj&#x00F8;ndt sandseligt og med sit Blod, slaaer fyrigere ved Tanken om Deres Aandelige og Indre end ved Synet af den Ynde, som har fortryllet mit Blik. Jeg kan ikke give Slip paa den, skj&#x00F8;ndt den ikke gj&#x00F8;r mig lykkelig under den qv&#x00E6;lende Uvished om hvordan den i Tiden vil blive besvaret. Det er vist, at min Kj&#x00E6;rlighed for Dem, huldeste Amalie, gj&#x00F8;r mig bedre og giver mig et Had til alt Andet end hvad der kan behage Deres rene Sjel.</p>
+<p>Jeg satte Pennen til denne Side, fordi den Tanke faldt mig ind, at mine lidenskabelige men inderligt oprigtige Udbrud kunde synes Dem som udrundne af den Tro, at jeg havde nogen Ret til Deres Hjerte. Elskede, nei &#x2013; De er fri. Jeg vilde mindst af Alle &#x00F8;ve nogen Vold paa Deres F&#x00F8;lelser. Medlidenhed er mig ikke nok. Jeg forlanger, hvad De ikke kan give uden De har den fuldeste Tro til mig og Deres f&#x00F8;lelser have taget den retning &#x2013; jeg forlanger mine F&#x00F8;lelserer besvarede saaledes at vore Sjele ere eet, vor Gl&#x00E6;de og Sorg f&#x00E6;lleds. O Amalie, jeg f&#x00F8;ler den umaadelige Kraft min Aand vilde faae, naar den havde en saadan Himmel at tye til. Min Muse vilde faae et ukjendt Sving, og Amalie skulde dele mine Triumpher, Amalie</p>
+<lg>
+<l>&#x00AB;den Perle, jeg har funden</l>
+<l>ivaar paa vilden Strand,</l>
+<l>reen som Demantens Vand,</l>
+<l>som Graad fra Engels &#x00D8;je runden.&#x00BB;</l>
+</lg>
+<p><pb n="18"/>Jeg afbrydes af bes&#x00F8;g &#x2013; Amalie, huldeste, s&#x00F8;deste Pige Levvel! Gud velsigne Dig og bevare Dig for din trofasteste, varmeste Ven</p>
+<signed>Henr. W-</signed>
+</div>
+<div type="chapter" subtype="postscript">
+<p>P.S.</p>
+<p>Jeg er i saadan Angst for at Peter Holm, til hvem jeg addresserede det f&#x00F8;rste Brev (under &#x00C6;resl&#x00F8;fte om Taushed) ikke skal have v&#x00E6;ret i Mos, at jeg nu midt paa Natten er staaet op for at bede Dem i saa Tilf&#x00E6;lde<note type="footnote">I saa Tilf&#x00E6;lde vises Deres Onkel dette Postscriptum.</note> at vise Deres Onkel denne Bemyndigelse til at modtage Brevet. Ellers beh&#x00F8;ver jo ikke Deres Onkel at v&#x00E6;re iblandet mit Hjerteanliggende.</p>
+<p>Godnat, kj&#x00E6;re Amalie! Godnat! Kom mig ihu den Aften, De har faaet dette ih&#x00E6;nde!</p>
+<signed>hw.</signed>
+</div>
+<div type="chapter" subtype="envelope">
+<p>&#x005B;Utenp&#x00E5;:&#x005D;<address><addrLine>S.T. Jomfru A. S. Bekkevold (Ki&#x00F8;bmand Bekkevold) Mos.</addrLine>
+<addrLine>Betalt.</addrLine></address></p>
+</div>
+</div>
+<div type="chapter" subtype="commentary">
+<p>Mellemmannen Peder Holm var en av Wergelands kjenninger, student fra 1830, cand.theol. fra 1836, s&#x00F8;nn av kj&#x00F8;bmann L. C. Holm p&#x00E5; Moss.</p>
+<p>Verset i brevet er tydelig den f&#x00F8;rste spire til det f&#x00F8;rste fullb&#x00E5;rne i rekken av de elskovsdikt som nu str&#x00F8;mmet p&#x00E5;: &#x00AB;Den Navnl&#x00F8;se&#x00BB;. Tidlig om morgenen den 7. juli var det ferdigskrevet med tittelen: &#x00AB;Den Navnl&#x00F8;st Elskede&#x00BB;:<note type="criticalApp">Skougaards gave: Ms. in fol. 3386. Det er dette ms. som omtales S.S.6:2:71. Overskrift: Til den Navnl&#x00F8;st Elskede. Undertegnet: (Til AB. fra HW) 7de Juli. Tidligt. &#x2013; Varianter: <hi rend="italic">Vers</hi> 1,2: Stranden! 3: hun Selv, selv 4: ikke komma tilslutt <hi rend="italic">Vers</hi> 2,2: t&#x00F8;mme, 4: Stjerne 6: til Regentens Krones Skat. <hi rend="italic">Vers</hi> 3,1: Elskte Navnl&#x00F8;s! &#x2013; thi 3: tyst. 4: Han, han skulde 5&#x002F;6: Lad, for reent for Verdens Munde, &#x002F; det kun tone i mit Bryst! <hi rend="italic">Vers</hi> 4,1: Elskte Navnl&#x00F8;s! om du skulde 2: dit ikke fremhevet, ikke komma 3: sat, <hi rend="italic">Vers</hi> 6,1: &#x2013; Vee, sin Komma efter qv&#x00E6;le 3: O! men Verden ei jeg troer. 8: Tausheds Eed 10: han Straaleh&#x00E6;nget drager 11: ikke : 12: om &#x005B;jeg&#x003E;&#x005D; de Taushedtvungne 13: det rette Navn lod kjende? 16: ikke anf&#x00F8;rselstegn 17: Straal for dem kun i min Graad!</note></p>
+<lg>
+<l>Kun Hun Selv, og ingen Anden,</l>
+<l>vide Hvad jeg fandt paa Stranden,</l>
+<l>kun Hun Selv &#x2013; Selv uden Navn,</l>
+<l>Perlen liig, der, uopdaget,</l>
+<l>endnu ei er bleven taget</l>
+<l>ind i Diademets Favn!</l>
+<l>&#x2013; &#x2013; &#x2013;</l>
+<l><pb n="19"/>&#x2013; Elskte &#x00AB;Navnl&#x00F8;s!&#x00BB; thi jeg vover</l>
+<l>selv for Vennen, naar han sover,</l>
+<l>ei dit Navn at n&#x00E6;vne tyst:</l>
+<l>Han, selv Han skal mig misunde.</l>
+<l>Det, for reent for Verdens Munde,</l>
+<l>tone skal kun i mit Bryst.</l>
+<l>&#x2013; &#x2013; &#x2013;</l>
+<l>Hedd da &#x00AB;Navnl&#x00F8;s&#x00BB; for dem Alle!</l>
+<l>&#x00AB;Navnl&#x00F8;s Perle&#x00BB; de Dig kalde!</l>
+<l>Perle, reen som Engles Graad!</l>
+</lg>
+<p>Samme dag har han renskrevet diktet &#x00AB;Den Elskedes Overfart&#x00BB;. Han sitter hjemme i Gr&#x00F8;nlien og minnes n&#x00E5;r han ventet bes&#x00F8;k og det var hun som f&#x00F8;rte &#x00E5;rene:</p>
+<lg>
+<l>&#x2013; Tys! det pladsker over Vandet.</l>
+<l>Det er Hende! Det er Hende!</l>
+<l>Hendes Forbud er alt landet:</l>
+<l>denne glade Angst for hende.</l>
+<l>Aaretakten kan jeg kjende:</l>
+<l>uden Regel, uden Lag</l>
+<l>som mit eget Hjertes Slag.</l>
+</lg>
+<lg>
+<l>B&#x00F8;lge! B&#x00F8;lge! skyd bagefter</l>
+<l>sikkert, men med milde Kr&#x00E6;fter!</l>
+<l>&#x2013; &#x2013; &#x2013;</l>
+<l>Hulde Stjerne, over Vigen</l>
+<l>maa du trofast lyse Pigen.</l>
+<l>&#x2013; &#x2013; &#x2013;</l>
+<l>Lyser Du med trofast Styrke,</l>
+<l>da jeg evigt dig vil dyrke.</l>
+<l>Jeg Bassin vil Kilden bryde,</l>
+<l>mine Blomster duggbegyde,</l>
+<l>at jeg Speile nok kan byde</l>
+<l>Dig og Hende, der saa liig</l>
+<l>er i Blik og Reenhed Dig.</l>
+</lg>
+<p>S&#x00F8;ndag den 8. skriver han sent p&#x00E5; natt sin f&#x00F8;dselsdagshilsen til henne: &#x00AB;Til den Elskedes F&#x00F8;dselsdag. Til Amalie, 19 Aar, 9de Juli&#x00BB; st&#x00E5;r det p&#x00E5; manuskriptet.</p>
+<lg>
+<l><pb n="20"/>Om en Time F&#x00F8;dselsstunden</l>
+<l>For min Elskte er oprunden:</l>
+<l>Kj&#x00E6;rlighed, med Gaver kom!</l> 
+<l>Du, den rige, er saa tom?</l>
+<l>Har du intet Bedre funden</l>
+<l>end en Taares Fattigdom?</l>
+<l>&#x2013; &#x2013; &#x2013;</l>
+</lg>
+<lg>
+<l>Intet vilde Hende kl&#x00E6;de</l>
+<l>bedre end et Stjernekj&#x00E6;de</l>
+<l>slynget om det blonde Haar.</l>
+<l>Skynd dig! ned Orion gaaer.</l>
+<l>Skynd dig! Beltet allerede</l>
+<l>l&#x00F8;ses f&#x00F8;r du Skyen naaer.</l>
+</lg>
+<lg>
+<l>F&#x00F8;rst Hun vilde ret fortrylle,</l>
+<l>naar du kunde Hende hylle</l>
+<l>ind i finest Morgenrødt.</l>
+<l>O, hvor Skyens Silke bl&#x00F8;dt</l>
+<l>vil om disse Former skylle,</l>
+<l>hvorpaa Gud sin Kunst har &#x00F8;dt!</l>
+<l>&#x2013; &#x2013; &#x2013;</l>
+</lg>
+<lg>
+<l>Ak, jeg frygter, at Du skryder,</l>
+<l>naar om Magt din Tale lyder.</l>
+<l>Hvorfor vil Du eje meer</l>
+<l>end dit Hjerte, som det er?</l>
+<l>Hvad, om <hi rend="italic">den</hi> Present Du byder</l>
+<l>da idag din Hjertenskj&#x00E6;r?</l>
+</lg>
+<p>Av et annet brev er bare et bruddstykke bevart. Wergeland har nok ikke v&#x00E6;rt trygg p&#x00E5; hvordan fader Bekkevold ville stille seg til en forbindelse mellem ham og Amalie &#x2013; Waaler var saktens en mere akseptabel kandidat.</p>
+</div>
+<div subtype="letter">
+<p>UBOslo, Skougaards gave. Ms. in fol. 3407,1.</p>
+<div type="chapter" subtype="letterpart">
+<p>&#x005B;&#x2013; &#x2013; &#x2013;</p>
+<p>Dette var det F&#x00F8;rste, som gjorde mig opm&#x00E6;rksom paa Deres skj&#x00F8;nne Sjel, at De, uagtet dette,&#x005D; uagtet han stundom ikke behandlede Dem med Delicatesse, dog var saa &#x00E6;rb&#x00F8;dig mod ham. Ak, Amalie, min Elskede, jeg haaber han ikke vilde have imod en Forbindelse mellem os, naar De bare kunde gjengjelde min F&#x00F8;lelse, og naar Vi saa fik et smukt Hjem og tog Olava eller <pb n="21"/>en anden af de Smaa til Os?; &#x2013; han vilde ikke have noget herimod heller. O Amalie, bedste kj&#x00E6;reste! lad mig sv&#x00E6;rme v&#x00E6;k og bygge mine luftige Slotte indtil de enten forsvinde eller De giver dem Virkelighed.</p>
+<p>&#x2013; Jeg afbrydes. Hurtigt ind da Lap, og saa Gud veed hvori jeg nu skal faae den afsted. Nu har De 3 Breve med 2 Poster og 2, 3 i den ene Convolut. Ikke saa? ellers er noget borte.</p>
+<p>Levvel! Naar seer jeg Dem? Gid Deres Moder kom i Aften! Levvel, mildeste, fagre Amalie og glem ikke</p>
+<signed>&#x005B;Henr. W-&#x005D;</signed>
+</div>
+<div type="chapter" subtype="postscript"><p>P.S.</p>
+<p>Naar De kommer, skal De see et smukt (saa haaber jeg) Digt til Dem.</p>
+</div>
+</div>
+<div type="chapter" subtype="commentary">
+<p>S&#x00F8;ndag den 15. juli kom hun hjem igien med dampskibet &#x00AB;Prinds Carl&#x00BB;. Hver morgen pleide han nu &#x00E5; ha blomster med til henne fra sin have i Gr&#x00F8;nlien. En dag kom det et dikt isteden:</p>
+<lg>
+<l>Fagre, hvor arm er din Elsker idag! Thi Han, som saa gjerne</l>
+<l>med Diamanter og Guld din D&#x00F8;rt&#x00E6;rskel vilde bestr&#x00F8;e,</l>
+<l>ak! Han ejer idag</l>
+<l>ei vante Bouqvet til dit Vindu.</l>
+</lg>
+<lg>
+<l>Nelliken holder jomfruligen stolt sig lukt i sit B&#x00E6;ger.</l>
+<l>Blomsten har seet din Mund; nu blegner den heller iskjul.</l>
+<l>Ak, jeg ejer idag</l>
+<l>ei vante Bouqvet til dit Vindu!</l>
+<l>&#x2013; &#x2013; &#x2013;</l>
+</lg>
+<lg>
+<l>Fagre, dog ejer din Elsker en Blomst, hvis fyrige Flamme</l>
+<l>evig som Stjernernes er: ud&#x00F8;delig Kj&#x00E6;rligheds Blomst.</l>
+<l>Dit velsignende Blik</l>
+<l>har saaet den selv i mit Hjerte.</l>
+<l>&#x2013; &#x2013; &#x2013;</l>
+</lg>
+<lg>
+<l>Hvilte Du kun en Sekund ved mit Bryst, da skulde Du f&#x00F8;le</l>
+<l>b&#x00E6;vende Liv i dens Blad, der fik af en Skjalds Fantasi</l>
+<l>al sin himmelske Pragt.</l>
+<l><hi rend="italic">Den</hi> Blomst jeg dig skj&#x00E6;nker, min Elskte.</l>
+</lg>
+<p><pb n="22"/>Hjemme i Gr&#x00F8;nlien kretser tankene selvsagt stadig om henne:<note type="criticalApp">Skougaards gave. Ms. in fol. 3387. Dette ms. har v&#x00E6;rt kjent av Lassen, se S.S.6:2:71. Overskrift: &#x005B;Hvad? Hvorfra?&#x003E;&#x005D; Fantasier. Undertegnet: (Til AB: fra HW&#x005D; Versene nummerert 1&#x2013;9. Varianter: <hi rend="italic">Vers</hi> 1, 7&#x002F;8: St&#x00E6;rke Aander har til Grunden &#x002F; l&#x00E6;nket fast mit Bryst <hi rend="italic">Vers</hi> 2,6: ikke komma 7: seer jeg klart og sikkert bare <hi rend="italic">Vers</hi> 3,1: &#x005B;D&#x003E;&#x005D; Qvellen 2: meer end vaagne Viisdoms 3: ikke komma 6: hun 7: ikke strek <hi rend="italic">Vers</hi> 4,7: Hellas&#x0027;s 8: Aphroditer <hi rend="italic">Vers</hi> 5,7: &#x005B;Mod&#x003E;&#x005D; Perle&#x005B;glandsen&#x005D;ns Glindsen, <hi rend="italic">Vers</hi> 6,1: skj&#x00F8;nfantastisk 5: maj&#x00E6;st&#x00E6;tiskt, <hi rend="italic">Vers</hi> 7,6: f&#x00F8;r en Br&#x00E6;ndingsb&#x00F8;lge fatter &#x002F; dig, og drager ud dig atter &#x002F; i den vilde Sj&#x00F8;! <hi rend="italic">Vers</hi> 8,8: Grib. <hi rend="italic">Vers</hi> 9,3: &#x005B;din Elsker&#x003E;&#x005D; min Elskte 4: Flugt! 6: os skal da den Samme d&#x00F8;lge!</note></p>
+<lg>
+<l>Muntre Raab fra Fyrreskoven,</l>
+<l>Klang af Horn og Skud deroven</l>
+<l>kald mig ikke op fra Voven</l>
+<l>ved den lave Kyst!</l>
+<l>Der hvor jeg min M&#x00F8; har funden</l>
+<l>maa jeg dv&#x00E6;le tryllebunden.</l>
+<l>L&#x00E6;nker ned i Klippegrunden</l>
+<l>l&#x00F8;be fra mit Bryst.</l>
+</lg>
+<lg>
+<l>Stranden troer I gold og &#x00F8;de?</l>
+<l>Ak, I see da ei de r&#x00F8;de</l>
+<l>Roser, som i Sandet gl&#x00F8;de</l>
+<l>frem i hendes Spor!</l>
+<l>Eders &#x00D8;ine er ei klare:</l>
+<l>hvor I see kun Tang og Tare,</l>
+<l>grant og sikkert seer jeg bare</l>
+<l>unge Blomsters Flor.</l>
+<l>&#x2013; &#x2013; &#x2013;</l>
+<l>Skj&#x00F8;nne Havfru, lad dig fange</l>
+<l>da af mine Elskovssange!</l>
+<l>Byt din B&#x00F8;lge med den bange</l>
+<l>Banken i min Barm?</l>
+<l>R&#x00F8;dere dens Blodstr&#x00F8;m flyder</l>
+<l>end Korallen, Dybet yder,</l>
+<l>Perlens Glindsen, som dig pryder,</l>
+<l>mod min Graad er arm.</l>
+<l>&#x2013; &#x2013; &#x2013;</l>
+</lg>
+<p>&#x00AB;Henrik har kj&#x00F8;bt sig et lille Huus ved Alunv&#x00E6;rket, som han meublerer pr&#x00E6;gtig,&#x00BB; skriver s&#x00F8;steren Camilla fra Eidsvoll til <pb n="23"/>broren Oscar i Paris. &#x00AB;Gud veed hvor l&#x00E6;nge den Herlighed varer, han bliver vel snart kjed af det.&#x00BB;</p>
+<p>Venner trasket den lange vei til hans hytte og fant huset tomt &#x2013; han satt jo hos Bekkevolds daglig. De begynte &#x00E5; ane ur&#x00E5;d, og &#x00AB;da mit Tilholdssted var en Leilighed ligeved Jorden, opdagede en uforskammet Gloer mig. Nu kom da Rygtet ud pandekagevarmt om min Forlovelse l&#x00E6;nge f&#x00F8;r jeg selv havde mindste Haab; &#x2026; og jeg fik af mine bedste Venner Navn af en uforbederlig gammel Abekat, som nu i mit tredivte Aar satte Kronen paa alle mine Galskaber ved at forgabe mig i en fattig og dertilmed en temmelig simpel Mands Datter.&#x00BB; Den 21. juli gav han Amalie et nytt dikt: &#x00AB;Til Amalie Sofie fra hendes trofasteste Ven paa Jorden Henr. Wergeland.&#x00BB; Det hadde tittelen &#x00AB;Min Hjertensmening om Amalie Sophie&#x00BB;:</p>
+<lg>
+<l>Guld er St&#x00F8;v og Purpur Pjalt,</l>
+<l>&#x00C6;delsind er det ei Alt?</l>
+<l>Kan jeg st&#x00F8;rre Rigdom finde</l>
+<l>da end hos min tro Veninde?</l>
+</lg>
+<lg>
+<l>&#x00C6;delsindets Tankers Flod</l>
+<l>det er himmelskt Adelsblod.</l>
+<l>Kan jeg bedre Adel finde</l>
+<l>da end hos min tro Veninde?</l>
+</lg>
+<p>Dagen efter, s&#x00F8;ndag kveld, var de p&#x00E5; et danseball sammen p&#x00E5; forlystelsesstedet &#x00AB;Dronningbjerget&#x00BB; p&#x00E5; Bygd&#x00F8;, og en &#x00AB;gammel pyntelig Mand&#x00BB; kommer bort til dem &#x00AB;midt i Sv&#x00E6;rmen&#x00BB; og gratulerer dem &#x00AB;med megen Omst&#x00E6;ndelighed&#x00BB;. Det blev for meget for den unge piken, hun blir kold og avvisende mot sin kavaller, og han synker ned i bunnl&#x00F8;s fortvilelse; det er lett &#x00E5; tenke seg hvad han har s&#x00F8;kt sin tr&#x00F8;st i, b&#x00E5;de da og dagen derp&#x00E5;. Nu skulle det til uhell treffe at hans far og Camilla just kom inn fra Eidsvoll for &#x00E5; h&#x00F8;re Ole Bull, som skulle gi sin f&#x00F8;rste konsert i Christiania Theater om mandagen, hjemvendt fra sine fantastiske triumfer ute i Europa. Prosten hadde skrevet og bedt Henrik s&#x00F8;rge for billetter &#x2013; og Henrik var ingensteds &#x00E5; se. Konsertdagen gikk, og til slutt m&#x00E5;tte prosten tilh&#x00F8;kre seg billetter til uhyre priser av en sjauer. F&#x00F8;rst da de skulle g&#x00E5; i teatret, m&#x00F8;tte de Henrik, &#x00AB;men i en Tilstand der vistnok maatte forbittre os <pb n="24"/>enhver Nydelse,&#x00BB; skriver Camilla. &#x00AB;Han havde v&#x00E6;ret i et Lag, hedte det &#x2013;.&#x00BB; Prostens hum&#x00F8;r blev sort, og de to reiste hjem til Eidsvoll neste dag, p&#x00E5; tross av Camillas t&#x00E5;rer og b&#x00F8;nner, og skj&#x00F8;nt de hadde meget bedre billetter til Bulls annen konsert.</p>
+<p>Om den egentlige grunn til den fatale episode med Henrik ante de ingen ting, f&#x00F8;r det i begynnelsen av august kom et nytt hefte av m&#x00E5;nedsskriftet &#x00AB;Bien&#x00BB;. Her stod de seks f&#x00F8;rste &#x00AB;Poesier&#x00BB;, de kj&#x00E6;rlighetsdikt som hittil er nevnt. De talte et tydelig nok sprog.</p>
+<p>Amalies kulde var heldigvis forbig&#x00E5;ende, men med enkelte tilbakefall, og Wergelands sinn svinget mellem de lyseste forh&#x00E5;pninger, som han straks klatret til himmels p&#x00E5;, og stundevis sort fortvilelse. Hver morgen fortsatte hans blomsterhilsener; en dag kom et dikt med tilskriften: &#x00AB;<hi rend="italic">Selam</hi>. Med en Blomsterbog og en Bouquet&#x00BB;. Det var de skj&#x00F8;nne vers:</p>
+<lg>
+<l>Den har ei Sjel, som ikke troer,</l>
+<l>Naturen er en aaben Bog,</l>
+<l>at Mossens blege Klippeflor</l>
+<l>saa vel som Rosen har sit Sprog.</l>
+</lg>
+<lg>
+<l>Det kjender Du, min Elskte, vel.</l>
+<l>Du Dr&#x00F8;mmen seer i Klokkens Bund.</l>
+<l>Du fatter Liljens tause Sjel</l>
+<l>og Ordene fra Rosens Mund.</l>
+<l>&#x2013; &#x2013; &#x2013;</l>
+</lg>
+<p>&#x2039;Blomsterbogen&#x203A; var i samme genre som &#x00AB;Flora, eller Blomster- og Bladesproget&#x00BB;, et miniatyrhefte som dengang kom i opplag efter opplag fra Mallings boktrykkeri. Da Amalie s&#x00E5; igjen var p&#x00E5; et kort bes&#x00F8;k hos sine slektninger p&#x00E5; Moss &#x2013; hun reiste dit med &#x00AB;Constitutionen&#x00BB; den 2. august &#x2013;, kunne han legge inn &#x00AB;Blomstbrev&#x00BB; i sine daglige brev til erstatning for morgenbuketten; men for sikkerhets skyld f&#x00F8;yet han selv til hvad hans blomster hadde &#x00E5; fortelle. Innlagte seddel fra 5. august m&#x00E5; hun ha lest med forskrekkelse. Ak, det var noe annet enn de banaliteter hun hadde funnet om hun hadde tydet blomstersproget efter &#x2039;Flora&#x203A;&#x0027;s oppskrift! Der kunne hun tydet &#x2039;Lyngblomst&#x203A; som: &#x00AB;Kun Din Velvillie &#x00F8;nsker jeg; &#x2013; og jeg er forn&#x00F8;iet dermed&#x00BB;, og &#x2039;Blaaklokke&#x203A;: &#x00AB;Dine Ord ere skj&#x00F8;nne, men Dit Hjerte?&#x00BB;, o.s.v.</p>
+</div>
+<div subtype="letter">
+<p><pb n="25"/>UBOslo, Skougaards gave. Ms. in fol. 3407,2.</p>
+<div type="chapter" subtype="letterpart">
+<p><hi rend="italic">Blomstbrev til Amalie</hi>.</p>
+<list>
+<item>To r&#x00F8;de Nelliker &#x2026;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0; &#x0254;: Skj&#x00F8;ndt min Kj&#x00E6;rlighed tiltager.</item>
+<item>To hvide Nelliker &#x2026;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0; &#x0254;: voxer min Tungsindighed.</item>
+<item>En blomstl&#x00F8;s Rosenqvist &#x2026;&#x00A0;&#x00A0;&#x00A0;&#x00A0;Min Kj&#x00E6;rlighed er gl&#x00E6;del&#x00F8;s.</item>
+<item>Lyngqvist &#x2026; &#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;Jeg er forbandet.</item>
+<item>Blaaklokke &#x2026; &#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;Jeg ahner i min Fantasie</item>
+<item>Valmue &#x2026; &#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;Vanvid eller</item>
+<item>Gr&#x00E6;sstraae &#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;D&#x00F8;den.</item>
+</list>
+<dateline>5 Aug.</dateline> 
+<signed>H W</signed>
+</div>
+</div>
+<div type="chapter" subtype="commentary">
+<p>Men hun kjente saktens allerede stormkastene hos ham. Hans mismod fikk ikke r&#x00E5;de lenge. Han <hi rend="italic">ville</hi> tro at Amalie skulle bli hans. Og som s&#x00E5; ofte ved h&#x00F8;ydepunkter i hans dikterliv melder d&#x00F8;dstanken seg med styrke. Ved denne tid blev diktet &#x00AB;Min Grav&#x00BB;<note type="criticalApp">Skougaards gave. Ms. in fol. 3388. Benyttet av Lassen, se S.S.6:2:71. Overskrift: Min Grav. Undertegnet: Til A.S. fra HW- Versene nummerert 1&#x2013;8. Varianter: <hi rend="italic">Vers</hi> 1,1: hjertensglad! 3: Hevn <hi rend="italic">Vers</hi> 3,1: Sk&#x00E6;l&#x00F8;jde Nid, der mest beqvemt &#x002F; Du l&#x00E6;ser mine Qvad. &#x002F; Der vil du 4: Jeg, <hi rend="italic">Vers</hi> 4,3: i Haanden, reent &#x002F; som Liljens er mod Hvad du meent <hi rend="italic">Vers</hi> 5,1: Grav! 2: Du Ikke komma. 3: somom Du <hi rend="italic">Vers</hi> 6,1: Hun ikke uthevet. Ikke komma. Pindsefest 5: &#x2013; O, Plet,
+<hi rend="italic">Vers</hi> 7,1: Da, Bogfink, syng i Pilens Top! &#x002F; Spring ud, Jasmin! spring ud! &#x002F; Har Gravens Rosentr&#x00E6; en Knop, &#x002F; da lukke den sin L&#x00E6;be op 5: Brud. <hi rend="italic">Vers</hi> 8,1: kort, 2: mit 4: ikke komma.</note> til, et motstykke til v&#x00E5;rdiktet &#x00AB;I det Gr&#x00F8;nne&#x00BB;. Momenter kommer igjen, men nu i annet overlys, med annen fortoning over fremtiden.</p>
+<lg>
+<l>Hvor er jeg glad, ja hjerteglad!</l>
+<l>Thi alt jeg seer det Sted,</l>
+<l>hvor halten H&#x00E6;vn og blinden Had,</l>
+<l>som med min Skygge fulgtes ad,</l>
+<l>skal synke tr&#x00E6;tte ned.</l>
+<l>&#x2013; &#x2013; &#x2013;</l>
+<l>Har <hi rend="italic">Hun</hi> ei lovt, hver Pintsefest</l>
+<l>mig at bes&#x00F8;ge der?</l>
+<l>Skj&#x00E6;rsommers&#x00F8;ndagen dern&#x00E6;st</l>
+<l>Hun atter v&#x00E6;re skal min Gj&#x00E6;st.</l>
+<l>O Plet, hvor kj&#x00E6;r du er!</l>
+<l>&#x2013; &#x2013; &#x2013;</l>
+</lg>
+<p><pb n="26"/>Om han enn nu var tryggere p&#x00E5; &#x00E5; eie Amalies kj&#x00E6;rlighet, kunne ennu tanken p&#x00E5; fader Bekkevold og husvennen Waaler engste ham. Dette siste kunne jo v&#x00E6;re en noe delikat aff&#x00E6;re. Men han &#x00F8;yner en utvei: han finner &#x2013; at han jo kan r&#x00E5;de Amalie hvordan hun best kan angripe saken! Hans brev er bevart i en (ortografisk un&#x00F8;yaktig) avskrift.</p>
+</div>
+<div subtype="letter">
+<p>UBOslo, Skougaards gave. Ms. in fol. 3407,3.</p>
+<div type="chapter" subtype="letterpart">
+<salute>Min elskede Amalie!</salute>
+<p>Jeg troer Du veed eller troer om mig, at jeg er en ligesaa varm Ven af alt skj&#x00F8;nt som aaben Fiende af alt ondt. Jeg er saaledes, som Du ganske vist har m&#x00E6;rket, en Ven af de uskyldige Blomster. &#x2013; Og jeg minder dig herom, kj&#x00E6;reste Amalie, fordi jeg nu, da <hi rend="italic">jeg</hi> venter med det f&#x00F8;rste et Blomsterbrev fra <hi rend="italic">dig</hi>, for f&#x00F8;rste Gang f&#x00F8;ler nogen Frygt for de s&#x00F8;de smaae Skabninger, som vist ellers ikke vilde gj&#x00F8;re nogen noget ondt. Lad da ikke dine Blomster dr&#x00E6;be mig eller pine mig, og dog beder jeg om Sandhed, selv om den skulde dr&#x00E6;be, at Du vil sige mig, om Du kan elske den, der elsker dig saa gr&#x00E6;ndsel&#x00F8;st. &#x2013; Jeg vil ikke d&#x00F8;lge for dig Amalie, min umistelige, tilbedte Pige, at jeg n&#x00E6;rer et ligesaa godt Haab om, at Du vil b&#x00F8;je dit Hjerte til mig, som at mine For&#x00E6;ldre vil tilstede min Lykke. Jeg er salig i dette Haab, som jeg beder Gud og dig om ikke at ber&#x00F8;ve mig, jeg er glad, jeg er rolig, men alvorlig &#x2013; jeg f&#x00F8;ler noget af den h&#x00F8;jtidelige, behagelige Huuslighed, som eengang, naar Du bliver min, vil gj&#x00F8;re vor Foreeningsdag til den saligste og alvorligste i mit Liv. &#x2013;</p>
+<p>Ber&#x00F8;v mig ikke disse skj&#x00F8;nne F&#x00F8;lelser, der ere dig v&#x00E6;rdige, min &#x00E6;dle, reene Amalie, og de gj&#x00F8;re mig saa godt. V&#x00E6;n dig til at t&#x00E6;nke dig mig som din Elskede. Et Brev til V&#x005B;aaler&#x005D; og min Samtale med ham vil bevare os hans Venskab og maaskee Omgang. Om min heftige Kj&#x00E6;rlighed til dig og dens Oprigtighed er han forvisset, saa at det ikke overrasker ham, om det bliver ham venligen sagt, &#x00AB;at Du er bleven saa overtydet derom, at Du f&#x00F8;ler en st&#x00E6;rkere Tilb&#x00F8;jelighed til den, der har elsket dig saa uforanderligt, samt at han ikke vil kunne negte, (om jeg maa sige det her i Fortrolighed) at jeg besidder aandige Fortrin ved Naturens tilf&#x00E6;ldige Gave, som han, hans Egenskaber i &#x00C6;re, ikke <pb n="27"/>har, og at min poetiske og romantiske &#x00D8;mhed endelig er bleven erkjendt&#x00BB;. &#x2013;</p>
+<p>Saaledes omtrent, Amalie, i din hjertelige Stiil eller ogsaa sagt ham i al Fortrolighed af mig &#x2013; saa er jeg overbeviist om, &#x2013; at Venskabet reddes, om Kj&#x00E6;rligheden maa oph&#x00F8;re. &#x2013;</p>
+<p>Siig mig ved Leilighed, hvad Du t&#x00E6;nker derom. Til da levvel, min s&#x00F8;de, hulde Amalie! min Sjels kaarne, min S&#x00F8;ster, min Veninde, min Bud! min Brud!</p>
+<signed>Henrik Wergeland.</signed>
+</div>
+</div>
+<div type="chapter" subtype="commentary">
+<p>Hvor langt Amalie fulgte dette veltalende r&#x00E5;d, vet vi ikke. S&#x00E5; meget er visst at Waaler overlevde, bekjentskapet fortsatte, og det kan i parentes tilf&#x00F8;yes at han i 1840 holdt bryllup med Hanne Dorothea Chrystie fra Moss, en fjern frende av Wergeland. Siden bodde Waaler som g&#x00E5;rdeier og propriet&#x00E6;r i Christiania til sin d&#x00F8;d i 1880.</p>
+<p>S&#x00E5; kom hun tilbake. I disse hektiske dagene skrev han diktet &#x00AB;Amalies Haandtryk&#x00BB;:</p>
+<lg>
+<l>Din Puls har banket min imod.</l>
+<l>Forente var vi Blod i Blod.</l>
+<l>Det var i faa Sekunder bare.</l>
+<l>Ei l&#x00E6;nger Salighed kan vare.</l>
+<l>&#x2013; &#x2013; &#x2013;</l>
+<l>O, vore Hjerter l&#x00E6;nger maae</l>
+<l>ei skilte ad, min Elskte, slaae.</l>
+<l>De h&#x00F8;je Stjerner saae og taalte,</l>
+<l>at deres Aarer sammenstraalte.</l>
+<l>&#x2013; &#x2013; &#x2013;</l>
+</lg>
+<p>Og endelig, avgj&#x00F8;relsen. P&#x00E5; Universitetsbiblioteket skrev han torsdag den 9. august f&#x00F8;rste vers av sin jublende dityrambe:</p>
+<lg>
+<l>Kommer nu Sorger! knuger mit Bryst,</l>
+<l>at det ei spr&#x00E6;nges af jublende Lyst!</l>
+<l>Himmel med Uheld, Helved! med Qvaler</l>
+<l>t&#x00E6;mmer dets B&#x00F8;lger! Thi der har hun hvilt!</l>
+<l rend="indent_1">Fiendenag</l>
+<l>aabne dets Aarer! din Piilodd kun svaler.</l>
+<l rend="indent_1">Thi ved dets Slag</l>
+<l>har nun jo zittret og smilt.</l>
+</lg>
+<p><pb n="28"/>Dagen efter var diktet renskrevet for Amalie p&#x00E5; et prydelig kvartark. Men der kom enda et vers &#x2013; det vakreste av dem alle:</p>
+<lg>
+<l>Dengang du laa ved mit Hjerte, min Brud,</l>
+<l>var det som Blomster sprang derifra ud:</l>
+<l>Blomster, som levte, dr&#x00F8;mte og t&#x00E6;nkte.</l>
+<l>Mandel og Abild ei vajer saa fuld.</l>
+<l rend="indent_1">Solen sit Blod</l>
+<l>ikke saa rigt over Roserne spr&#x00E6;ngte.</l>
+<l rend="indent_1">Sjelen sit Muld</l>
+<l>dr&#x00F8;mmende saligt forlod.</l>
+</lg>
+<p>Det blev f&#x00F8;yet inn som det nest siste. Det er skrevet p&#x00E5; en av bibliotekets katalogsedler.</p>
+<p>Familien hjemme p&#x00E5; presteg&#x00E5;rden var straks blitt underrettet om forlovelsen. &#x00AB;Det er umueligt at t&#x00E6;nke sig noget mere gl&#x00F8;dende lidenskabelig, noget mere dybt bev&#x00E6;get end hans Breve til Fader og hans Digte,&#x00BB; skrev Camilla til bror Oscar. Prosten svarte omg&#x00E5;ende:</p>
+</div>
+<div subtype="letter">
+<p>UBOslo, Skougaards gave. Ms. in fol. 3409.</p>
+<div type="chapter" subtype="letterpart">
+<dateline>Eidsvold 10 August 1838.</dateline>
+<salute>Kj&#x00E6;re Henrik.</salute>
+<p>Dine For&#x00E6;ldre have intet inderligere &#x00D8;nske end at vide dig lykkelig. Vi kunne derfor intet have imod, at du forbinder dig med en saa elskv&#x00E6;rdig Pige, naar du troer dig istand til at sikkre hende en anst&#x00E6;ndig Fremtid. Vil hun, med sine For&#x00E6;ldres Samtykke, v&#x00E6;re din, skal hun ogsaa v&#x00E6;re vores, og modtages med aabne Arme som en kj&#x00E6;r Datter.</p>
+<signed>N. Wergeland</signed>
+</div>
+<div type="chapter" subtype="envelope">
+<p>&#x005B;Utenp&#x00E5;:&#x005D;<address><addrLine>S:T:</addrLine>
+<addrLine>Hrr: Cand: Theol: Henrik Wergeland.</addrLine>
+<addrLine>betalt: Christiania. &#x2013;</addrLine></address></p>
+</div>
+</div>
+<div type="chapter" subtype="commentary">
+<p>Da gav ogs&#x00E5; fader Bekkevold sitt samtykke til forlovelsen, som blev offentlig s&#x00F8;ndag den 12. august. Dagens dikt blev &#x00AB;Det f&#x00F8;rste Kys&#x00BB;:</p>
+<p><pb n="29"/><hi rend="italic">Elskeren</hi>:</p>
+<p>Hvor er du, min Elskte? Hvi lod du mig ene? Hvi har du dig skjult bag de ludende Grene?</p>
+<p><hi rend="italic">Elskerinden</hi>:</p>
+<p>Se her ved dit Hjerte, kun skjult af din &#x00F8;mme omfavnende Arm vil din Elskede dr&#x00F8;mme.</p>
+<p><hi rend="italic">Elskeren</hi>:</p>
+<p>Jeg h&#x00F8;rer din Stemme, som Engle dig l&#x00E6;rte Men sv&#x00E6;rg, at du h&#x00F8;rer mit bankende Hjerte!</p>
+<p>Jeg ellers maa troe, at Henrykkelsen dyssed i D&#x00F8;den det ind, da du, Elskte, mig kyssed. &#x2013; &#x2013; &#x2013;</p>
+<p><hi rend="italic">Elskerinden</hi>:</p>
+<p>Jeg sv&#x00E6;rger, jeg h&#x00F8;rte dit Hjerte at banke. Men nys stod det stille, da standste min Tanke. &#x2013; &#x2013; &#x2013;</p>
+</div>
+<div type="chapter" subtype="commentary">
+<p>Mandag var de to ute p&#x00E5; Ekeberg ovenfor huset i Gr&#x00F8;nlien &#x00AB;sammen med Mauritz Hansen, en anden god Ven og et Par Flasker Champagner&#x00BB;, tirsdag var ringene ferdige. Blomstbrevene fortsatte, nu nok sammen med morgenbuketten:</p>
+<list>
+<item>Blaaklokke............Er det blot en fager Dr&#x00F8;m,</item>
+<item>Bringeb&#x00E6;r.............at Du vil skj&#x00E6;nke mig det S&#x00F8;deste Du ejer:</item>
+<item>Rosenknop............din jomfruelige Kj&#x00E6;rlighed?</item>
+<item>Verbena................Min Lykke beruser mig.</item>
+<item>Kl&#x00F8;ver....................Gud vil velsigne</item>
+<item>Kartoffelblomst......n&#x00F8;isomme Hjerter.</item>
+<item>Aster....................Og jeg vil bevare min Kj&#x00E6;rlighed til den sildigste Alder.</item>
+</list>
+<p>&#x00AB;N&#x00F8;isomme hjerter&#x00BB; ville det saktens bli behov for: Wergelands faste inntekt som amanuensis ved Universitetsbiblioteket bel&#x00F8;p seg til 200 specidaler om &#x00E5;ret (800 kroner), &#x2013; hvad kunne hans forfatterskap innbringe? Det var vel med tanke p&#x00E5; en samlet nyutg&#x00E5;ve at han just nu l&#x00E5;nte en del av sine egne farcer fra Universitetsbiblioteket. En gammel tysk bok han samtidig l&#x00E5;nte, gav ham id&#x00E9;en til dramaet &#x00AB;Venetianerne&#x00BB;. Han tilbyr &#x2013; riktignok uten hell &#x2013; Morgenbladets redakt&#x00F8;r &#x00E5; redigere avisens artikler om Sverige. Men bekymringer for fremtiden fikk ikke gj&#x00F8;re noe sk&#x00E5;r i dagens lykkefest:</p>
+<p><pb n="30"/>Blaab&#x00E6;rblomst (Slaaer n&#x00E6;sten aldrig feil) Qvist med <hi rend="italic">B&#x00E6;rret</hi> Jordb&#x00E6;rblomt Qvist med <hi rend="italic">B&#x00E6;rret</hi> Tytteb&#x00E6;rblomst Qvist med <hi rend="italic">B&#x00E6;rret</hi> Tejeb&#x00E6;r</p>
+<p>Jeg lover ikke meget, men det, jeg lover, skal jeg holde. Her har Du mig som jeg er. Du skal snart l&#x00E6;re at kjende mig bedre. Er Du nu forn&#x00F8;jet med mig? O hvor min Fattigdom smerter mig? Tro mig, vi skulle have Bryllup inden Juul, saa fattige vi ere. Skj&#x00F8;n Jomfru, din Brudekrands er f&#x00E6;rdig, naar Du behager.</p>
+</div>
+<div type="chapter" subtype="commentary">
+<p>Med glad fortr&#x00F8;stning kunne han synge om &#x00AB;Kj&#x00E6;rlighed og N&#x00F8;d&#x00BB;:</p>
+<lg>
+<l>Se, min Elskte, Roserne r&#x00F8;dme</l>
+<l>som Smiil henover de haarde Klipper,</l>
+<l>de s&#x00F8;de Jordb&#x00E6;r groe paa gjerrige H&#x00F8;jder!</l>
+</lg>
+<lg>
+<l>Saa den haarde Skjebne modvillig</l>
+<l>vor unge Kj&#x00E6;rligheds Fryd skal b&#x00E6;re.</l>
+<l>O N&#x00F8;d, hvor skj&#x00F8;n bestraalt af salige Taarer.</l>
+<l>&#x2013; &#x2013; &#x2013;</l>
+<l>Frygt ei, Viv, min Sang skal forstumme.</l>
+<l>Min Sved kun friske skal gamle Laurer,</l>
+<l>om blodig Graad end risler indenfor &#x00D8;jet.</l>
+</lg>
+<lg>
+<l>Kun en snebar Stribe beh&#x00F8;ver</l>
+<l>den kloge St&#x00E6;r for sig selv og sin Mage.</l>
+<l>Stort meer ei, Brud! Geni og Kj&#x00E6;rlighed tr&#x00E6;nger.</l>
+</lg>
+<p>Hjemme p&#x00E5; presteg&#x00E5;rden ventet gamle og unge med spenning p&#x00E5; det f&#x00F8;rste bes&#x00F8;k av de nyforlovede:</p>
+</div>
+<div subtype="letter">
+<p>UBOslo, Skougaards gave. Ms. in fol. 3409.</p>
+<div type="chapter" subtype="letterpart">
+<dateline>Eidsvold 18 Aug: 1838. Kl: 11 F.M.</dateline>
+<salute>Kj&#x00E6;re Amalia.</salute>
+<p>I dette &#x00D8;jeblik fik jeg Deres kj&#x00E6;re f&#x00F8;rste Brev, og iler derfor med, for endnu at kunne benytte Dagens Post, at nedskrive et Par Ord.</p>
+<p>Vi vente Dem med L&#x00E6;ngsel. Kom her op! Kom endelig endnu i n&#x00E6;ste Uge! Lev vel saal&#x00E6;nge.</p>
+<signed>Deres kj&#x00E6;rlige</signed> 
+<signed>Wergeland.</signed>
+</div>
+<div type="chapter" subtype="letterpart">
+<salute><pb n="31"/>Kj&#x00E6;re Henrik.</salute>
+<p>Du maa endelig i n&#x00E6;ste Uge komme her op med din Forlovede. Moder, jeg, Camilla, ja ogsaa de gode Fr&#x00F8;kener Diriks l&#x00E6;nges efter at gj&#x00F8;re hendes Bekjendtskab. &#x2013; Hvis det ikke var mig en reen Umuelighed formedelst den travle og i Aar meget besv&#x00E6;rlige H&#x00F8;eaand, skulde jeg sendt min Voiture efter Eder. Men det lader sig ikke gj&#x00F8;re denne Gang. Du maa selv s&#x00F8;rge for Befordringen. &#x2013;</p>
+<p>I Hast &#x2013;</p> 
+<signed>D. k. F.</signed> 
+<signed>W-d. &#x2013;</signed>
+</div>
+<div type="chapter" subtype="envelope">
+<p>&#x005B;Utenp&#x00E5;:&#x005D;<address><addrLine>Til</addrLine>
+<addrLine>Hrr: Cand: Theol: Henrik Wergeland:</addrLine>
+<addrLine>betalt: Christiania.</addrLine></address></p>
+</div>
+</div>
+<div type="chapter" subtype="commentary">
+<p>S&#x00F8;ndag den 19. preket Henrik til h&#x00F8;ymesse i Gamlebyens kirke, med mange tilh&#x00F8;rere. Og fra 22. til 28. fikk han fri fra biblioteket og var hjemme i Eidsvoll med Amalie. I &#x00AB;Hassel-N&#x00F8;dder&#x00BB; forteller han om ankomsten (som han virkningsfullt rykker n&#x00E6;rmere forlovelsesdagen!) og om sin elskede mors glede. Camilla gir bror Oscar beretning om deres nve svigerinne: &#x00AB;Hun er af Middelst&#x00F8;rrelse, rank, fyldig Skabning, er meget blond, og har et blomstrende, fyldigt Ansigt, hvis fornemste Udtryk er Godmodighed. &#x00D8;inene ere det smukkeste. Hun er af dem der ville blive vakrere med Aarene, ved at tabe lidt Fedme, og naar Charakteren mere eiendommelig afpr&#x00E6;ger sig i Tr&#x00E6;kkene, hun er jo kun 19 Aar.&#x00BB; Det er tydelig at den unge piken fra det meget enkle og strenge sm&#x00E5;borgermilj&#x00F8; i Skippergaten har vunnet alle p&#x00E5; presteg&#x00E5;rden ved sin tillidsfulle, naturlige charme. &#x00AB;Hun har naturligviis ingen Dannelse,&#x00BB; skriver Camilla, &#x00AB;men erstatter den ved en naturlig god Forstand og Aandslivlighed og ved et aldeles unbefanget V&#x00E6;sen &#x2013; Dertil har hun noget blidt og h&#x00F8;ist insinuant af den Sort som Du veed Fader s&#x00E6;tter saadan Priis paa, og som desv&#x00E6;rre ingen af os har kunnet erhverve os, jeg mener denne ydre Venlighed og Varme som mangler saa aldeles vor Familie. Hvad jeg meest beundrer hos hende, er en rigtig F&#x00F8;lelse, en naturlig Takt og Delicatesse, <pb n="32"/>der er h&#x00F8;ist beundringsv&#x00E6;rdig i hendes Stilling og Omgivelser. Mod Henrik viser hun megen Fasthed og en vis undselig Tilbageholdenhed, der nu n&#x00E6;sten er for streng, men jo altid kan formildes. Det er et lykkeligt Instinkt hos hende at behandle ham paa den Maade, den eneste hvorpaa hun kan regjere et saa lidenskabeligt Gemyt som Henriks.&#x00BB;</p>
+<p>Ham selv gav dette gjensyn med hans barndoms og ungdoms hjembygd, nu i samv&#x00E6;r med henne han elsket, en sterk f&#x00F8;lelse av at han stod ved et vendepunkt i sitt dikterliv. Kj&#x00E6;re minner str&#x00F8;mmet p&#x00E5; fra hans f&#x00F8;rste diktnings rike inspirasjonskilde: skogen med dens tonende ensomhet, elv og foss, Skreia i det fjerne. Hans vers f&#x00E5;r gjenklang fra ungdomsdiktene:</p>
+<lg>
+<l>Se, atter over mig suser den Piil,</l>
+<l>som rysted nedover</l>
+<l>min Barndoms seirrige Lege</l>
+<l>de laureglindsende Blade.</l>
+</lg>
+<lg>
+<l>Bekrandste Eensomhed feirer som f&#x00F8;r</l>
+<l>i Skyggen sin H&#x00F8;itid</l>
+<l>&#x2013; den kj&#x00E6;re Dr&#x00F8;mmer, som bredte</l>
+<l>hver Qvel sit Teppe paa Engen.</l>
+</lg>
+<lg>
+<l>Som forhen toner den grenede Top</l>
+<l>den Vindenes Harpe,</l>
+<l>der nynned ind i mit Hjerte</l>
+<l>en s&#x00F8;d Tungsindigheds Sange.</l>
+<l>&#x2013; &#x2013; &#x2013;</l>
+<l>Hvor &#x00F8;m og trofast du stolte Natur</l>
+<l>mig m&#x00F8;der herhjemme!</l>
+<l>Ei Blad har Pilene mistet,</l>
+<l>og Engen ikke et Blomster.</l>
+</lg>
+<lg>
+<l>Kun Dig jeg savner, Genius, Dig,</l>
+<l>i Eensomhed f&#x00F8;dt af</l>
+<l>Naturens H&#x00F8;ihed og Ynde.</l>
+<l>Hvi er Du ei under Pilen?</l>
+<l>&#x2013; &#x2013; &#x2013;</l>
+<l>Ak, kommer der ei min Elskede selv?</l>
+<l>Ved Himlen! der sv&#x00E6;ver</l>
+<l>et Elskovsdigt over L&#x00E6;ben,</l>
+<l>en Ode br&#x00E6;nder i &#x00D8;jet?</l>
+</lg>
+<lg>
+<l><pb n="33"/>Fort&#x00E6;t din Skygge, min Piil, thi jeg har</l>
+<l>min Genius fanget.</l>
+<l>Den vist i Himlen har v&#x00E6;ret,</l>
+<l>thi Jorden har ei dens Blidhed.</l>
+</lg>
+<lg>
+<l>Lud ned, min Piil! Thi jeg vil paa min Mund</l>
+<l>fra hendes aftrykke</l>
+<l>det Elskovsqv&#x00E6;de og l&#x00E6;se</l>
+<l>den Ode &#x00D8;je til &#x00D8;je.</l>
+</lg>
+<p>Slik avrunder &#x00AB;Hjemme&#x00BB; den vidunderlige diktkrans som denne sommers h&#x00E5;p og lykke har skapt.</p>
+<p>&#x00AB;Det er m&#x00E6;rkv&#x00E6;rdigt alligevel hvilken Magt denne simple udannede Pige allerede har havt over Henrik,&#x00BB; skriver Camilla noen uker senere fra Christiania til Oscar. &#x00AB;Du vilde ikke kjende vor Broder igjen, saa douce er han bleven i sit V&#x00E6;sen. Denne Mildhed og Forsonlighed udtaler sig i alle hans seneste Digte &#x2026; Saagar til hans Toilette har denne lykkelige Forandring strakt sig, han gaaer nu med Hat og fine Kl&#x00E6;der. Paa hans Opf&#x00F8;rsel skal hans arrigste Fiender nu neppe mere finde at uds&#x00E6;tte, han er det ordentligste, spagf&#x00E6;rdigste Menneske, hele Formiddagen er han paa Bibliotheket, om Eftermiddagen skriver han, derpaa tilbringer han Aftenen hos Amalies For&#x00E6;ldre, hvor han dog aldrig maae blive l&#x00E6;nger end til 9, thi Faderen er en streng spitsborgerlig Mand, af den Sort der vilde choceres meget ved at see Henrik kysse sin Kjereste &#x2026; Hun er virkelig at betragte som en Velsignelse for vor Familie. Den korte Tid hun var hjemme var der kommen en uvant Hygge, et vist Sammenhold i den. Fader var i saa godt Humeur som jeg ikke har seet ham paa l&#x00E6;nge.&#x00BB; Og prosten melder forn&#x00F8;yet til Oscar at Henriks kj&#x00E6;rlighet &#x00AB;har foraarsaget, at han har givet al sin Politik L&#x00F8;bepas, og han vil nu af al Magt s&#x00F8;ge at komme i et Embede&#x00BB;.</p>
+<p>P&#x00E5; ny preket han ved gudstjenesten i Gamlebyen kirke den 16. og 30. september, &#x00AB;med stor Tilstr&#x00F8;mning&#x00BB;, og fikk en varmt anerkjennende attest fra sin sogneprest, Iver Hesselberg. Og 12. november innleverer han sin ans&#x00F8;kning om Nannestad residerende kapellani, &#x00AB;Landets knappeste Embede&#x00BB;, som han sier.</p>
+<p>Nye kj&#x00E6;rlighetsdikt s&#x00E5; lyset:</p>
+<lg>
+<l><pb n="34"/>Hun slumrer . . Tys! Hun slumrer.</l>
+<l>Ei meer de bl&#x00F8;de Fingre besvare mit Haandtryk.</l>
+<l>Lig Qvisten, af hvide Roser for tung</l>
+<l>i yndig Skj&#x00F8;desl&#x00F8;shed de h&#x00E6;nge.</l>
+<l>&#x2013; &#x2013; &#x2013;</l>
+<l>Ve mig, af Hjertets Banken</l>
+<l>min Skulder skj&#x00E6;lver, hvortil hun h&#x00E6;lded sit Hoved.</l>
+<l>Hun dr&#x00F8;mmer sig vist paa gr&#x00F8;nnende H&#x00F8;i,</l>
+<l>og h&#x00F8;rer Alfer hamre derinde.</l>
+<l>&#x2013; &#x2013; &#x2013;</l>
+<l>Meer let end ellers sv&#x00E6;ver</l>
+<l>henover Hendes &#x00D8;ienlaag, livlige Dr&#x00F8;mme!</l>
+<l>Thi under dets fine melkblaa Emalj</l>
+<l>er Perler gjemte, Smykker for Engle.</l>
+</lg>
+<p>Den 18. oktober fulgte Amalie med Camilla hjem til presteg&#x00E5;rden for &#x00E5; bli der til over nytt&#x00E5;r, og han nytter enhver leilighet som byr seg, til &#x00E5; sende henne brev. I dikt efter dikt fra denne tid er den elskede med. Han forteller henne om sin f&#x00F8;rste kj&#x00E6;rlighet, sin &#x00AB;Attenaarselskov&#x00BB; til Emilie Selmer, den vakre unge piken som d&#x00F8;de, og hvis genius f&#x00F8;lger ham i hans dr&#x00F8;mme (diktet &#x00AB;De to Veninder&#x00BB;); der melder seg en gjenklang fra hans f&#x00F8;rste dikt til Amalie Sofie:</p>
+<lg>
+<l>En Rosenbusk stod ved mit Leje med fem</l>
+<l>halvtudsprungne Roser; medeet da fra dem</l>
+<l>et alfagtigt Lys str&#x00F8;mmed ud, saa jeg grant</l>
+<l>hvert Tr&#x00E6;k i den Elskedes Aasyn gjenfandt,</l>
+<l>da &#x00F8;mt hun sig b&#x00F8;jed og jubled: &#x00AB;min Ven,</l>
+<l>v&#x00E6;r rolig! Sofie dig elsker igjen.</l>
+<l>Som jeg Hun dig elsker! I denne Sekund</l>
+<l>jeg h&#x00F8;rte dit Navn fra den Dr&#x00F8;mmendes Mund.</l>
+</lg>
+<p>En venninne har for&#x00E6;rt ham en gjengivelse av et gammelt nederlandsk maleri: en harpespillerske, og de tyste toner som str&#x00F8;mmer fra bildet, binder sammen Amalies og hans egne dr&#x00F8;mmer. (&#x00AB;Damen med Harpen.&#x00BB;)</p>
+<p>Dagens politiske situasjon her i landet kunne han tross alt ikke se p&#x00E5; med sinnsro. Resultatet av valgmannsvalgene som forberedte det kommende stortingsvalg, fylte ham med dyp pessimisme. I det store dikt &#x00AB;Norges Fjelde. Paa Egeberg&#x00BB; tegner han et dystert bilde av landets fremtid, og ender:</p>
+<lg>
+<l><pb n="35"/>Gid jeg Selv f&#x00F8;r Klippe blev!</l>
+<l>Smerten grov deri en Klev.</l>
+<l>Gid en Steen jeg blev fortryllet,</l>
+<l>h&#x00F8;jt paa Fjeld af Havet skyllet.</l>
+</lg>
+<lg>
+<l>Ak, jeg veed, min Brud, da hvad</l>
+<l>du af Himlens Gunst dig bad:</l>
+<l>Hybnen liig, den rosenfulde,</l>
+<l>lude over mig du skulde.</l>
+</lg>
+<p>Samme tunge stemning &#x00E5;nder gjennem diktet &#x00AB;Svanernes H&#x00F8;stflugt&#x00BB;:</p>
+<lg>
+<l>Nu de vilde Svaners H&#x00E6;r</l>
+<l>flyer fra Norges sidste Skj&#x00E6;r.</l>
+<l>Se, liig flygtende Stjerner,</l>
+<l>hist, se hist sig Toget fjerner!</l>
+<l>&#x2013; &#x2013; &#x2013;</l>
+<l>O, at flye fra denne Kyst!</l>
+<l>O, hvor let! Kun spr&#x00E6;ngt mit Bryst.</l>
+<l>Jeg f&#x00F8;r Svanerne kunde</l>
+<l>hvile mig i Palmelunde.</l>
+</lg>
+<lg>
+<l>Derfor, Elskte, fast mig favn!</l>
+<l>Ellers Sjelen af sit Savn</l>
+<l>udaf stirrende &#x00D8;jne</l>
+<l>efter de Bortfl&#x00F8;jne.</l>
+</lg>
+<p>I presteg&#x00E5;rden blev Amalie mottatt med &#x00E5;pne arme. At omplantningen til det nye sosiale milj&#x00F8; ikke alltid har v&#x00E6;rt lett for henne, er rimelig nok; hennes l&#x00E6;renemhet og hennes naturlige godhet hjalp henne. Henrik er vel forn&#x00F8;yet med de efterretninger han f&#x00E5;r hjemmefra. Bare to av hans mange breve fra disse uker er bevart.</p>
+</div>
+<div subtype="letter">
+<p>UBOslo, Skougaards gave. Ms. in fol. 3407,4.</p>
+<div type="chapter" subtype="letterpart">
+<dateline>Kristiania 10 Decdr. &#x005B;1838&#x005D;.</dateline>
+<p>Min Amalie, min dyrebare Elskerinde, hvor det Str&#x00F8;g i dit Brev henrykker mig hvor Du taler om Camillas Brevl&#x00E6;sning for dig og din store Lyst til at udvexle dine Tanker i den Form med Flid og Opm&#x00E6;rksomhed paa Stilen. Jeg har &#x2013; jeg maatte det &#x2013; <pb n="36"/>l&#x00E6;st det for Olavsen<note type="commentary">Wergelands venn Christian Olafsen (1811&#x2013;72), dengang kopist i Finansdepartementet.</note>, der bragte mig Brevet imorges, og for Thaulow,<note type="commentary"><hi rend="italic">Thaulow</hi>: enten Johan Friederich Th. (1804&#x2013;90), ogs&#x00E5; kopist i samme departement, eller Harald Conrad Th. (1815&#x2013;81), ansatt ved Universitetets kjemiske laboratorium, senere eier av L&#x00F8;veapoteket.</note> min F&#x00E6;tter, der laaner mig dette Papiir. Det r&#x00F8;bede saamegen Forstand, Aand og yndig beskeden Natur, at jeg ikke kunde holde min Gl&#x00E6;de tilbage. Du er <hi rend="italic">mig</hi> god nok som Du er, min hulde forstandige Kj&#x00E6;reste; men hvad Dannelse, Du &#x2013; vel at m&#x00E6;rke uden at tabe din Naturlighed og at blive affecteret, som Du ikke i mindste Maade er &#x2013; kan erhverve, er naturligviis Gevinst for din Aand og vil skaffe baade Dig Selv og mig som din Mand mange Gl&#x00E6;der i det Tilkommende NB. just ikke i Himlen mener jeg, men i det Liv, vi skulle f&#x00F8;re sammen Hjerte ved Hjerte, og da is&#x00E6;r, om det bliver imellem Mennesker, der just ikke ere vore Aandslige.</p>
+<p> Jeg vil da med den Oprigtighed, jeg skylder Dig, sige Dig, at den f&#x00F8;rste Betingelse for at skrive smukke Breve (som en Marqvise de S&#x00E9;vign&#x00E9; og Rahel v. Ense)<note type="commentary">Til Camillas lesning h&#x00F8;rte de ber&#x00F8;mte brevsamlinger fra Marie de Rabutin-Chantal, marquise de <hi rend="italic">S&#x00E9;vign&#x00E9;</hi> (1626&#x2013;90) og Rahel Antonie Friederike Varnhagen von Ense, geb. Levin (1771&#x2013;1833).</note>har Du allerede, nemlig en naiv, letbev&#x00E6;gelig, ugenert Aand, der ikke sl&#x00E6;ber sig stivt hengjennem Linjerne, men afpr&#x00E6;ger sig let med enhver B&#x00F8;jning i Tankegangen. Vittighed mangler Du heller ikke, troer jeg, men jeg gj&#x00F8;r ikke synderlig af den hos Piger. H&#x00F8;jere end til Ordspil maa det gode Hjerte ikke drive det; og et saadant ret morsomt (Gud forlade mig min Synd!) er det om &#x00AB;Pinestolen&#x00BB;. I et hemmeligt Cursus skal jeg selv til Julen paatage mig at gj&#x00F8;re dig sadelfast i Ortografien; og saa &#x2013; ja saa Amalie, skal et pr&#x00E6;gtigt Brev gaae af Stabelen til Fr&#x00F8;ken Diriksene.<note type="commentary">Amalie hadde truffet Camillas fortrolige venninner Emilie og Natalie Diriks ved sitt f&#x00F8;rste bes&#x00F8;k i Eidsvoll.</note> Et Svar foranlediger et Gjensvar og saa &#x2013; hei vil Du gaa! saa er Tappen af T&#x00F8;nden og en Korrespondence mellem to dannede Damer i Gang.</p>
+<p>Hvad der ogsaa gl&#x00E6;dede mig var at kunne pumpe Olafsen l&#x00E6;nds mundtlig paa Efterretninger om dig. Han var ganske charmeret i dig, og sagde, at Camilla omgikkes dig paa saa peen og s&#x00F8;sterlig en Maade. Derfor vil jeg hjertelig takke hende. Derimod din Tandpine, s&#x00F8;de Amalie; den gj&#x00F8;r mig med forstyrret i Hovedet; men dog mest af Alt din Rasenhed at lade Bondeqvaksalveren med sine Hesteinstrumenter komme dig n&#x00E6;r. Jeg kan deraf, ligesom og af at Du beqvemmede dig til Igler, slutte mig til dine Lidelser. Olafsen lovede mig Pariserdraaberne til Middag, og saa skal den gaae afsted. Men Kreozot da? Har Moer ikke. Og er Du og</p>
+<p>&#x005B;Noen ord overstr&#x00F8;ket.&#x005D;</p>
+<p><pb n="37"/>Her har General Birch<note type="commentary">Filantropen generalmajor og generalkrigskommiss&#x00E6;r Paul Hansen <hi rend="italic">Birch</hi> (1788&#x2013;1863) var en av initiativtagerne til opprettelsen av barneasylet. I 1838 utgikk &#x00AB;Opfordring til For&#x00E6;ldre, der ei kunne have dagligt Tilsyn med deres B&#x00F8;rn, om at sende dem til det af Selskabet for Christiania Byes Vel oprettede Pr&#x00F8;veasyl&#x00BB;. Dette blev &#x00E5;pnet i Vaterland 16. desember 1838, senere flyttet til Gr&#x00F8;nland. &#x2013; Ogs&#x00E5; &#x00AB;Underst&#x00F8;ttelsesselskabet for Husarme&#x00BB; i Christiania skyldes Birch. Dets f&#x00F8;rste beretning gjaldt &#x00E5;ret 1838&#x002F;39.</note> siddet og t&#x00F8;vet mig en heel Time bort om Asylet og N&#x00F8;dhj&#x00E6;lpsselskabet, saa jeg neppe har fem Minutter tilbage, om jeg vil have dette afsted idag; og det maa Flasken, om jeg skal leje Expresse. Jeg tilgiver ham det for hans Godhjertigheds Skyld.</p>
+<p>Min senere Historie er i al Korthed f&#x00F8;lgende: I L&#x00F8;verdags var jeg hjemme om Aftenen, hvor jeg l&#x00E6;ste i min Marryat<note type="commentary">Lesningen av Frederick <hi rend="italic">Marryats</hi> sj&#x00F8;romaner har satt spor i Wergelands stykke &#x00AB;S&#x00F8;kadetterne iland&#x00BB;, som han innleverte til Christiania Theater 2. mai 1839.</note> &#x2013; om S&#x00F8;ndag Formiddag (hvilket Du maa fort&#x00E6;lle) kom Tydskeren Fein<note type="commentary">Om den tyske politiske flyktning Georg <hi rend="italic">Fein</hi> se Brev til Henr. Wergeland s. 98, 155 ff., 269, 343, og Camilla Collett: Breve fra ungdoms&#x00E5;rene s. 370. &#x00AB;Fain, fra Brunsvig&#x00BB; st&#x00E5;r blant anmeldte reisende i Hotel du Nord 10. desember.</note> til mig efter en 7 Dages Overreise fra London til Dr&#x00F8;bak med Capt. Larsens Skib. Han har 18 Kister med forskjellige Sager med sig, sin Formue og vil saa neds&#x00E6;tte sig her. Siig Far og Moer, at han seer rask og veltilmode ud. Han har i Sommer v&#x00E6;ret i Skotland, England, paa Helgoland og 1 &#x00E0; 2 N&#x00E6;tter skjult i Hamborg.</p>
+<p>Da vi gik til Byen pikkede Capt. Aubert<note type="commentary">Wergelands fetter Henrik Arnold <hi rend="italic">Aubert</hi> (1798&#x2013;1863) bodde dengang p&#x00E5; Alunverket.</note> os ind, hvor vi da fandt Duborghs<note type="commentary">Om familien <hi rend="italic">Duborgh</hi>, se s. 118.</note>, der spurgte efter Dig. Paa Broen traf jeg W&#x005B;aaler&#x005D;, hvem jeg bragte din Hilsen. Da han sagde, at han havde indbudet mig til sit Balselskab, og jeg saaledes maatte slutte at han var mig velsindet, gjorde jeg en Visit hos Knudsens paa Udtouren, hvor jeg da spillede Boston hele Aftenen. Jeg hilste fra dig. Amalie laa syg af Tandpine.</p>
+<p>Jeg vil see til at kunne reise n&#x00E6;ste S&#x00F8;ndag; men vent Breve forud om at m&#x00F8;de mig. Vil Du, kj&#x00E6;re, gode Amalie?</p>
+<p>Kongen er i Torsdags reist fra Stholm. Vor Skjebne er i hans Haand, idetmindste om vi skulle forenes snart og paa Landet. Hvor det bliver &#x2013; bliver jeg din lykkelige, lyksalige</p>
+<signed> Henrik &#x2013;</signed>
+</div>
+<div type="chapter" subtype="postscript">
+<p>P.S.</p>
+<p>Kl. 4.</p> 
+<p>Hos dine For&#x00E6;ldre skriver jeg dette, Amalie, mens Olafsen er ude efter de franske Draaber.</p>
+<p>Men h&#x00F8;r nu efter (at sige om de f&#x00F8;lge med, da det kommer an paa om han tr&#x00E6;ffer En):</p>
+<p>De brune Draaber dryppes &#x2013; et Par blot &#x2013; paa Knusk og l&#x00E6;gges indpaa Tanden. Hj&#x00E6;lpe ikke de tages Tilflugt til hos f&#x00F8;lgende hvide, der bruges paa samme Maade. Disse bruges sidst fordi de skulle v&#x00E6;re rasende skarpe, saa de tage Huden af Tandkj&#x00F8;det. <pb n="38"/>Derfor maa Du og Camilla v&#x00E6;re forsigtige. De brune franske hj&#x00E6;lpe visse Constitutioner.</p>
+<p>Kj&#x00E6;reste Amalie &#x2013; maa jeg ikke l&#x00E6;se Brevene til din Moder? Hvert Tr&#x00E6;k fra dig er mig kj&#x00E6;rt. De, som bringe dig Breve, beh&#x00F8;ver Du slet ikke at betale, da det er blot en Uvane, og jeg har gjort dem de Tjenester igjen. Heri har Du imidlertid hvad jeg har vedhaanden. Giv heller Fattigb&#x00F8;rn nogle Skillinger imellem.</p> 
+<signed>Din, din, din</signed>
+<signed>Henr-</signed>
+</div>
+</div>
+<div subtype="letter">
+<p>UBOslo, Skousgaards gave. Ms. in fol. 3407,5.</p>
+<div type="chapter" subtype="letterpart">
+<dateline>Torsdag Middag. 13 Decbr. &#x005B;1838&#x005D;.</dateline>
+<p>Der er noget, kj&#x00E6;re Amalie, jeg kanskee burde underrette Camilla om (og da gjennem Dig som jeg da faaer skrevet til) nemlig at Farvekjellingen ikke vil slippe Kjolerne fra sig uden for Contanter, og det er 16 Mk tilsammen. Sig hende, at jeg nok kan l&#x00E6;gge ud og tage dem med, dersom hun bare er accurat. Men det Vigtigste for Os er at jeg, saavidt jeg endnu kan see <pb n="39"/>efter det Arbeide, jeg har igjen, vil kunne tr&#x00E6;ffe Dig, min Gl&#x00E6;de og min Lyst! paa Elstadmoen<note type="commentary"><hi rend="italic">Elstadmoen</hi>, n&#x00E6;r Trandum.</note> n&#x00E6;ste Onsdag Efter&#x005B;middag den&#x005D; 19de, at sige om Du kan reise ud for Tandpine. Reiser &#x005B;Du mig im&#x00F8;de,&#x005D; saa tag Bredsl&#x00E6;de, at vi kan kj&#x00F8;re hjem sammen. Vil Du &#x005B;ikke kj&#x00F8;re saa&#x005D; langt, saa m&#x00F8;d mig paa Raaholt.<note type="commentary"><hi rend="italic">Raaholt</hi> omtrent midtveis herfra til Eidsvoll presteg&#x00E5;rd.</note> Jeg haaber Du &#x005B;har faaet Draa&#x005D;berne &#x2013; Manden var betalt &#x2013; og Far et Brev Dagen efter &#x005B;og der var natur&#x005D;ligviis Brev med til Dig.</p>
+<p>I &#x005B;forgaars havde&#x005D; jeg Blikkenslager Rolfsens<note type="commentary">F&#x00F8;r er nevnt blikkenslagermester Engebret Frantzen <hi rend="italic">Rolfsen</hi>; han var gift med Kirstine Olsen Huseby. Blant hans barn var Ole Ambrosius, dengang 12 &#x00E5;r, 1884&#x2013;1906 sorenskriver i Lier, R&#x00F8;ken og Hurum, stortingsmann.</note> (Mand, Kone og Barn) hos mig. &#x005B;Jeg trakterede med&#x005D; Alkesteg. Og igaar en svensk Magister.<note type="commentary">Blant &#x00AB;Anmeldte Reisende&#x00BB; 5. desember forekommer &#x00AB;<hi rend="italic">Magister</hi> Thome, samt Studenterne C. og G. Hammerhjelm, fra Upsala&#x00BB;. Muligens Gustaf Thom&#x00E9;e (1812&#x2013;67), senere journalist i Stockholms Dagblad.</note> W&#x005B;aaler&#x005D; og Knudsen have ladet sig melde, og komme vist i Aften, skj&#x00F8;ndt jeg har noget at bestille saa jeg ret var ligeglad.</p>
+<p>Skj&#x00F8;ndt jeg troer Du nu har noget tilovers for min lille brune Pandekagehue, kan jeg dog forn&#x00F8;je Dig med at den nu troner paa Johannes&#x0027;s<note type="commentary"><hi rend="italic">Johannes</hi>, Wergelands &#x00AB;Oppasser&#x00BB;, som han nevner i &#x00AB;Hassel-N&#x00F8;dder&#x00BB;, kap. XXIV, om en eftermiddag i Gr&#x00F8;nlien.</note> Lurveparyk, mens min er bed&#x00E6;kket af en moderne Lapsevinterhue. Dette er vistnok af de &#x00AB;Nedstemte Breve&#x00BB; (en Bem&#x00E6;rkning, jeg lider hos Dig) men jeg troer enhver Bagatel om og fra mig er dig kj&#x00E6;r. Thi nu veed jeg at Du elsker mig &#x2013; at min Lykke er fuldkommen &#x2013; at Du elsker mig s&#x00F8;de Amalie med den Kj&#x00E6;rlighed, jeg n&#x00E6;rer for Dig, og som gj&#x005B;&#x00F8;r det&#x005D; Mindste fra Dig dyrebart og vigtigere end noget Andet. &#x005B;Du skal siden&#x005D; nok faae ordentligere, h&#x00F8;jere stemte Breve; &#x2013; men ihvordan de &#x005B;ere, komme&#x005D; de fra et Sind, der er opfyldt med den reneste inderligste &#x005B;Kj&#x00E6;rlighed til&#x005D; Dig, min gode, &#x00E6;dle, tilbedte Pige.</p>	
+<signed>Din &#x005B;Henrik&#x005D;</signed>
+</div>
+<div type="chapter" subtype="postscript"><p>P.S.</p>
+<p>Men Kjolen din da, Barn? Jaconette<note type="commentary"><hi rend="italic">Jaconet</hi>, et slags bomullst&#x00F8;y, s&#x00E6;rlig impregnert, til bruk ved gr&#x00F8;tomslag o. lign.; her vel i anledning av damenes tannpine.</note> skal jeg &#x005B;s&#x00F8;ge at skaffe.&#x005D; Komme ikke Kjexene f&#x00F8;r, skal jeg tage dem med.</p>
+</div>
+</div>
+<div type="chapter" subtype="commentary">
+<p><pb n="40"/>Wergeland blev allikevel i byen til efter Carl Johans ankomst den 21. desember. Sine f&#x00F8;lelser da han stod, sammen med offiseren Hans Helgesen, ved den illuminerte &#x00E6;report om aftenen og s&#x00E5; den kongelige kortesje passere, har han skildret i &#x00AB;Hassel-N&#x00F8;dder&#x00BB;, kap. XXXXIV. Han tenkte p&#x00E5; hvor ofte hans politiske fremferd i de senere &#x00E5;r hadde forbitret kongen. &#x00AB;Det er umuligt, at Carl Johan nu kunde b&#x00E6;re over med mig mere&#x00BB;; &#x2013; og nu, da han var forlovet og ans&#x00F8;ker til Nannestad kapellani &#x2013; &#x00AB;ak, nu ere vi ulykkelige begge To, og Skylden er min, min!&#x00BB; Men senere p&#x00E5; kvelden, da Helgesen og han forfrosne varmet seg og bestilte toddy i Hotel du Nord, kom inspirasjonen: han f&#x00F8;lte det som &#x00AB;min gode Genius sad ved min Side og hviskede mig ind de digterske Inspirationer, der havde betaget mig. Digtet &#x00AB;Kongens Ankomst&#x00BB; var allerede blevet til. Jeg reciterede det paastedet i den f&#x00F8;rste raa Tankeform &#x2026; dette Digt, der br&#x00E6;ndte af Enthusiasme uden at ryge af Smiger.&#x00BB;</p>
+<p>Dagen efter reiste han hjem, og lille julaften var de unge i visitt nos naboene p&#x00E5; Linl&#x00F8;kken, jomfru Engel Sophie Dahlin (1792&#x2013;1862), som drev landhandel, og hennes s&#x00F8;ster Laurentse Marie (1789&#x2013;1869). Camilla forteller: &#x00AB;Henrik, Amalie og jeg i Pilen &#x002F;Henriks Baad&#x002F; med samt Brunen og Bella; jeg kj&#x00F8;rte og H. og A. sad bag, idyllisk!&#x00BB; &#x2013; Om juleuken &#x2013; den siste festlige jul preget av glad ungdom p&#x00E5; presteg&#x00E5;rden i Wergelandstiden &#x2013; beretter b&#x00E5;de prosten i brev til Oscar i Paris og Camilla i et brev gjengitt nedenfor (s. 48ff.); og minnet om en m&#x00E5;neskinnstur nytt&#x00E5;rsaften er bevart i Wergelands eventyr &#x00AB;Annalina&#x00BB;, som opprinnelig het &#x00AB;Emmalvina&#x00BB; (se s. 122&#x2013;25).</p>
+<p>Morgenen efter fikk Amalie dette brev overrakt:</p>
+</div>
+<div subtype="letter">
+<p>UBOslo, Skougaards gave. Ms. in fol. 3407,6.</p>
+<div type="chapter" subtype="letterpart">
+<dateline>Eidsvold Pr&#x00E6;stegaard Nytaarsdags Morgen 1839.</dateline>
+<salute>Amalie, min Elskede!</salute>
+<p>Det Aar, hvori Du gav mig dit Hjerte, tilh&#x00F8;rer nu kun Erindringen; et begynder, der ligeledes skal forsvinde, men idet det forsvinder, overtyde os om, at vor Kj&#x00E6;rlighed ikke tilh&#x00F8;rer <pb n="41"/>Aarene, men Evigheden. Lader os idag udvexle denne Tro med hinanden! Det er vore Gaver, en aandig Ring imellem vore Sjele.</p>
+<p>Ja, min Amalie Sofie, som har min Sjels H&#x00F8;jagtelse og mit Hjertes hele Kj&#x00E6;rlighed, Forsikkringen om at Du stedse vil besidde disse under Aarenes Flugt, er min Gave til Dig idag, saa simpelt fremsat som her forat Du des f&#x00F8;r maa troe det. Og Du gj&#x00F8;r det!</p>
+<p>Bevar dette Papiir imellem vor Kj&#x00E6;rligheds Erindringer. Jeg skal ikke blues, om Du viser mig det paa min sidste Dag.</p>
+<signed>Din Henrik</signed>
+</div>
+<div type="chapter" subtype="envelope">
+<p><address><addrLine>Til</addrLine>
+<addrLine>Amalie Sofie</addrLine></address></p>
+</div>
+</div>
+<div type="chapter" subtype="commentary">
+<p>Efter nytt&#x00E5;r reiste Henrik og Amalie til Christiania og siden til Moss for &#x00E5; bes&#x00F8;ke hennes onkel med familie. Dit kom ogs&#x00E5; hennes far. Henrik m&#x00E5;tte tilbake da universitetsferien var slutt og biblioteket skulle &#x00E5;pne, men Amalie blev igjen. Han f&#x00E5;r h&#x00F8;re at hun ikke er frisk, og blir grensesl&#x00F8;st fortvilet:</p>
+</div>
+<div subtype="letter">
+<p>UBOslo ms. fol. F 42. S.S.5:1:220 f.</p>
+<div type="chapter" subtype="letterpart">
+<dateline>Tirsd. Fmddg. 15 Jan. &#x005B;1839.&#x005D;</dateline>
+<p>Det er muligt, min s&#x00F8;de tilbedede Amalie, at jeg selv overr&#x00E6;kker Dig disse Linjer; thi jeg har foreslaaet din Moder at m&#x00F8;de Dig i Bunden<note type="commentary"><hi rend="italic">Bunden</hi>: p&#x00E5; Mosseveien ved Bunnefjorden.</note> imorgen mod Aften, dersom Du ikke kommer idag. Da venter jeg dig, om &#x2013; hvad Gud forbyde, om han nogentid vil b&#x00F8;nh&#x00F8;re mig &#x2013; Du skulde have havt Anfald igjen af denne nye Syge, der forf&#x00E6;rder mig i samme Forhold som den for&#x00F8;ger min &#x00D8;mhed. Ihvordan det nu bliver med mit M&#x00F8;de, saa kan kun min Forkj&#x00F8;lelse, om den bliver ved det samme, som den nu er, afholde mig fra at omfavne min Elskede nogle Timer f&#x00F8;r ved min M&#x00F8;dereise. Og under alle Omst&#x00E6;ndigheder, kj&#x00E6;reste Amalie, saa t&#x00E6;nker jeg, idet jeg slutter fra mig selv, at mine Linjer ville v&#x00E6;re dig kj&#x00E6;rkomne. Kl. 7 var jeg alt hos din gode Moder, der bedr&#x00F8;vedes meget ved at h&#x00F8;re dit Sygdomstilf&#x00E6;lde, som jeg ikke kunde tie med. Det laae og ligger mig for tungt paa Hjerte. Din Moder trakterede mig med varm Aftensmad og <pb n="42"/>Punsch samt med Natteleje i din Faders Seng, som bekom mig vistnok bedre end i Gr&#x00F8;nliekulden.</p>
+<p>Siden har jeg idag v&#x00E6;ret paa Bibl&#x005B;iotheket&#x005D;, hvor jeg kom forsaavidt tidsnok som det f&#x00F8;rst skal aabnes paa Thorsdag. Dette skrives hos din Moder, hvor jeg venter Gl&#x00F8;ersen.<note type="commentary"><hi rend="italic">Gl&#x00F8;ersen</hi>: Wergelands gode venn depotforvalter Ole Christian G. (1802&#x2013;70).</note> Jeg har fortalt ham om hvor godt jeg leed din Familie paa Moss uden Undtagelse, og at jeg for Eftertiden vil heller tie end ved Svar give Anledn&#x005B;ing&#x005D; til Uvenskab med din Fader. Saaledes skal nok alt gaae godt, Amalie; og Intet i Verden skal kunne tr&#x00E6;nge fiendtligen indimellem vore Hjerter.</p>
+<p>Gid jeg nu bare fik dette idag nedlagt paa Bunden. Det vilde overtyde dig om min L&#x00E6;ngsel og at Du inderligen &#x2013; og nu &#x00E6;ngstligen &#x2013; elskes af</p>
+<signed>Din</signed>
+<signed>Henrik &#x2013;</signed>
+</div>
+</div>
+<div subtype="letter">
+<p>UBOslo, Skougaards gave. Ms. in fol. 3407,7.</p>
+<div type="chapter" subtype="letterpart">
+<dateline>Torsd. Morgen 17de Jan &#x002F;39.</dateline>
+<p>Min elskede Amalie! Jeg skriver dette hjemme hos din gode Moder, hvor jeg Nat og Dag har v&#x00E6;ret siden. Min Sindsstemning, idet jeg uafbrudt har v&#x00E6;ret opfyldt med den qvalfuldeste Angest for dig, har ikke tilladt mig at v&#x00E6;re hjemme hos mig Selv, hvor min Indbildningskraft vilde v&#x00E6;re endnu mere behersket af min Frygt for hvorledes Du, mit Liv og min Sjel har det. Som en Hund vogter jeg paa de Tomter, hvor Du skulde v&#x00E6;re, og som vor Kj&#x00E6;rlighed har helliget. Ak, Ingen, selv Du neppe har Begreb om Hvad jeg f&#x00F8;ler for Dig. Kanskee Du ikke vil fatte det f&#x00F8;r jeg, i den n&#x00E6;rmeste Forbindelse med Dig, har viist hvorledes jeg vil b&#x00E6;re Dig paa H&#x00E6;nderne og vie mit Liv til at fjerne ennver sjelelig og legemlig Lidelse fra Dig, min Tr&#x00F8;st og Gl&#x00E6;de, hvortil mit Liv er knyttet.</p>
+<p>Jeg vil ikke beskrive de Skr&#x00E6;kkebilleder, som uvilkaarlig have fremstillet sig. Synet af Dig da Du leed var selv ikke det v&#x00E6;rste. <pb n="43"/>Og nu igaar, da din Moder, lille Nils<note type="commentary"><hi rend="italic">Lille Nils</hi>: Amalies bror, vel 4 &#x00E5;r gammel.</note> og Jeg ventede Dig i Bekkensteen<note type="commentary"><hi rend="italic">Bekkensteen</hi>: jfr. den gamle g&#x00E5;rd Bekkensten ved Ingierstrand.</note> forgj&#x00E6;ves, da forbandede jeg at jeg skiltes fra Dig saavelsom min Skjebne, der binder mig hertil siden Bibl&#x005B;iotheket&#x005D; aabnes idag. Men selv Uds&#x00E6;ttelsen for at miste min Post skal ikke afholde mig fra at ile til Dig om Du skulde ligge syg hvor Du er. O Amalie, lad Intet afholde Dig fra at troe, at Du elskes saa h&#x00F8;jt menneskelig Lidenskab kan stige. Din Sygdom har for&#x00F8;get min &#x2013; den, jeg troede ikke kunde voxe. Gjengjeld den kun halvt, og jeg er lykkelig, om jeg selv vidste at vi skulde d&#x00F8;e f&#x00F8;r vi forenedes.</p>
+<p>Tr&#x00E6;ffer dette dig i Moss, og Du er syg, saa besv&#x00E6;rger jeg Dig ikke at reise, men blot at lade mig vide Sandheden af din Tilstand. Jeg skal da komme; saa grusomme kunne mine Befalende ikke v&#x00E6;re at negte mig det, og skeer det, saa &#x2013; Intet skal binde mig. Tr&#x00E6;ffer det dig paa Vejen, nu saa t&#x00E6;nk paa et Gl&#x00E6;desgjensyn med din trofaste Elsker, som maaskee ogsaa idag fors&#x00F8;ger at m&#x00F8;de dig.</p>
+<p>Til vi sees da Levvel! Lewell min bedste, inderligen elskede Amalie fra din Moder og</p>
+<signed>din Henrik.</signed>
+</div>
+<div type="chapter" subtype="postscript"><p>P.S.</p>
+<p>Din Moder beder sagt din Fader, at Iversen er reist Fjorden ud &#x2013; efter Fisk. Til Sverrig ventelig.</p>
+</div>
+<div type="chapter" subtype="envelope">
+<p>&#x005B;Utenp&#x00E5;:&#x005D;<address><addrLine>S.T:</addrLine>
+<addrLine>Jomfru Amalie S. Bekkevold</addrLine>
+<addrLine>Anbefalt Hr Juveleer M&#x00F8;rch<note type="commentary">Juveler <hi rend="italic">L. M. M&#x00F8;rch</hi>: Tollbodgaten i Christiania.</note> til Overleverelse enten paa Moss eller ved M&#x00F8;de paa Vejen.</addrLine>
+<addrLine>forbintl. fra Henr. Wergeland 17 Jan &#x002F;39</addrLine></address></p>
+</div>
+</div> 
+<div type="chapter" subtype="commentary">
+<p>Den 10. januar stod diktet &#x00AB;Kongens Ankomst&#x00BB; i Morgenbladet. Carl Johan fikk seg det straks oversatt p&#x00E5; fransk av Wergelands velynder statssekret&#x00E6;r Frederik Due og grev Lewenhaupt og fant det meget vakkert. &#x00AB;Fra det &#x00D8;jeblik, han havde <pb n="44"/>ladet sig Digtet forel&#x00E6;se, skj&#x00E6;nkede han mig sin Huldrighed for bestandig,&#x00BB; heter det i &#x00AB;Hassel-N&#x00F8;dder&#x00BB;. &#x00AB;Jeg blev endog underrettet om, at jeg skulde faae mit Kapellani &#x2026;&#x00BB;</p>
+<p>&#x00AB;&#x00AB;Amalie&#x00BB; &#x2013; jublede jeg min Forlovede im&#x00F8;de &#x2013; &#x00AB;Nordens baade Nordstjerne og Karlsvogn bestraale os. Jeg faaer Nannestad Kapellani! &#x2026; Men siig mig, veed Du, om der skal v&#x00E6;re M&#x00F8;belauktion i denne Uge?&#x00BB; Vi maa t&#x00E6;nke paa Sligt nu. Velsignelser over den &#x00E6;dle Konge stege op fra et uskyldigt Hjerte trykket til mit. &#x00AB;Det kommer af, at Carl Johan har Sands for Poesi&#x00BB;, bem&#x00E6;rkede jeg stolt. &#x00AB;Nei af at han er saa god&#x00BB;, sagde min Brud. &#x00AB;Ve mig om jeg n&#x00E6;gtede det, udtalte jeg med H&#x00F8;itidelighed. Gud ham velsigne!&#x00BB; &#x00AB;Amen!&#x00BB; hviskede det ved mit Bryst.&#x00BB;</p>
+<p>Prost Wergeland og Camilla reiste inn til Christiania den 19. januar. Som hoffpredikant s&#x00E5; han det som sin plikt &#x00E5; gj&#x00F8;re Hans Majestet sin oppvartning. Han blev meget n&#x00E5;dig mottatt og fant at kongen ikke var ugunstig stemt mot Henrik; allikevel tvilte han p&#x00E5; at h&#x00E5;pet om kapellaniet ville g&#x00E5; i oppfyllelse, s&#x00E5; sterk aversjon mot Henrik som b&#x00E5;de stattholder L&#x00F8;venskiold og kirkestatsr&#x00E5;den, P. C. Holst, la for dagen. Imidlertid l&#x00E5;nte han Henrik 100 daler til m&#x00F8;belkj&#x00F8;p den 1. februar, f&#x00F8;r han vendte hjem til Eidsvoll. Camilla blev igjen i byen p&#x00E5; bes&#x00F8;k hos sin venninne Adolphine Colban.</p>
+<p>Et par dager efter fikk Amalie et kj&#x00E6;rlig brev fra prostinnen:</p>
+</div>
+<div subtype="letter">
+<p>UBOslo, Skougaards gave. Ms. in fol. 3409.</p>
+<div type="chapter" subtype="letterpart">
+<p>Jeg takker Dig min gode Amalie, for dine 2 Breve. Du maa ikke regne det saa n&#x00F8;ie om jeg ikke altid kan besvare dem strax, du ved hvad jeg har at tage vare. I den sidste Tid som Camilla var hjemme var her meget at bestille, Mad. Nissen,<note type="commentary"><hi rend="italic">Mad. Nissen</hi>: Caroline Nissen f. Hagerup, enke efter kj&#x00F8;bmann Nis Marcus N., bodde p&#x00E5; sin g&#x00E5;rd Sanderud, eide siden ogs&#x00E5; Minne.</note> Gunild og en skr&#x00E6;dder syede, og saa al den vadsking og strygning, nu er her saa &#x005B;stille&#x005D;, den ene Dag gaar som den anden. Forige S&#x00F8;ndag var vi rigtignok indbudne til Kaasens<note type="commentary"><hi rend="italic">Kaasens</hi>: lensmann Ole K. og Anne Dorothea f. Bay, i sin tid husjomfru p&#x00E5; presteg&#x00E5;rden. De bodde p&#x00E5; Langvegg.</note> til Middag. Det var Afskedts Selskab for Fru Siisner<note type="commentary"><hi rend="italic">Sissener</hi>: oberstl&#x00F8;ytnant Wilhelm (Guillaume) S., som til da hadde bodd p&#x00E5; Brensm&#x00F8;rk i Eidsvoll, var forfremmet til oberst og kommandant p&#x00E5; Kongsvinger festning. G.m. Maren f. Hals.</note>, en af Dagene var og saa Fru S. med sine B&#x00F8;ren og nogle flere til Middag.</p>
+<p>Det gjorde mig saa inderlig ondt da jeg fik at vide at Du var bleven syg paa Moss. Aldrig syntes jeg man kan more sig saa <pb n="45"/>godt paa noget st&#x00E6;d, som paa ens F&#x00F8;dest&#x00E6;d,<note type="commentary"><hi rend="italic">F&#x00F8;dested</hi>: efter avreisen i 1817 gjens&#x00E5; fru Wergeland Christiansand bare &#x00E9;n gang, under reisen for &#x00E5; bes&#x00F8;ke Ved&#x00F8;es i juni 1833, da dampskibet &#x00AB;Constitutionen&#x00BB; gjorde et kort opphold der.</note> hvor tusinde kj&#x00E6;re Barendoms-Erindringer minder en. Den Lykke er kuns bleven mig til Deel Engang, og det var saa kort, kuns 1 1&#x002F;2 Dag.</p>
+<p>I gaar havde vi den gl&#x00E6;de at faa min kj&#x00E6;re Mand frisk og vel igjen. I morgen tidlig reiser Olsen.<note type="commentary"><hi rend="italic">Olsen</hi>: Ole Severin O., prostens personellkapellan fra nov. 1836.</note> If&#x00F8;lge med Mad. Nissen, Albertine T&#x00F8;nsager,<note type="commentary"><hi rend="italic">T&#x00F8;nsager</hi>: stortingsmann Lars Thorstensen T.s barn: Albertine, som f&#x00F8;r er nevnt, og flere s&#x00F8;nner.</note> hendes Broder. De vil ind til Markedt. Naar vil du nu bes&#x00F8;ge os kj&#x00E6;re Amalie? Du skal faa Fl&#x00F8;degr&#x00F8;d og Vaffler. Nu har vi Melk. Naar du selv vil, saa v&#x00E6;r velkommen.</p>
+<p>Din Fader forstaar sig ypperlig paa at kj&#x00F8;be Fisk, tak ham mange Gange for sin Uleilighed dermed. Naar vort Bud har selv kj&#x00F8;bt, saa har de bedraget ham saa skammelig. Hils dine For&#x00E6;ldre saa meget fra mig. Ligeledes din Henrik, sig ham at jeg i dag ikke kan skrive ham til men med det f&#x00F8;rste. Han skrev mig forleden til og rosede dig som flink V&#x00E6;rtinde for sit lille Selskab.</p>
+<p>Lev nu vel kj&#x00E6;rest Amalie, du er altid med Kj&#x00E6;rlighed Erindret af den som s&#x00E6;tter sin Gl&#x00E6;de i at kaldes</p>
+<signed>Din Moder A. W.</signed>
+</div>
+<div type="chapter" subtype="envelope">
+<p>&#x005B;Utenp&#x00E5;:&#x005D;<address><addrLine>Til</addrLine>
+<addrLine>Jomfru Bekkevold</addrLine>
+<addrLine>i Cap. Brincks Gaard</addrLine>
+<addrLine>Christiania.</addrLine></address></p>
+</div>
+</div> 
+<div type="chapter" subtype="commentary">
+<p>Prosten fikk rett. &#x00AB;Kapellaniet forvandles til en vakker r&#x00F8;d Sky.&#x00BB; Og Wergeland ville vel knapt blitt utnevnt til embedet <pb n="46"/>selv om ikke den nye fatale episode var inntruffet, det reglementsstridige bes&#x00F8;k i kongens vaktstue om kvelden og natten 12. februar. Vakthavende offiser, Wergelands venn l&#x00F8;ytnant Gamborg, blev satt under krigsrett. Henrik var &#x00AB;ganske sl&#x00F8;v af Sorg&#x00BB;. &#x00AB;Hvad feiler dig dog i disse Dage, Henrik?&#x00BB; spurgte min Kj&#x00E6;reste mig da vi S&#x00F8;ndagen efter &#x005B;17. febr.&#x005D; spadserede paa Isen. Nu maatte Hemmeligheden frem. &#x00AB;Amalie!&#x00BB; sagde jeg. &#x00AB;Jeg faaer ikke Kapellaniet; kanske aldrig noget. Men se der disse deilige r&#x00F8;de Skyer, hvor Solen nu gaaer ned, der er mit Sognekald! Den glimrende enkelte Straale der er Spiret paa den Kirke, jeg faaer.&#x00BB; Nu gr&#x00E6;d hun; mit &#x00D8;je funklede. Hun fik den smukke Scene endnu samme Aften saaledes beskreven:</p>
+<lg>
+<l>&#x00AB;Se hist, min Elskede, hist hvor Dagen</l>
+<l>til Hvile l&#x00E6;gger sig paa Skarlagen,</l>
+<l>hvor Solen dalte</l>
+<l>blandt Skyer gyldne og purpurmalte! &#x2026;</l>
+<l>Se der i Vest</l>
+<l>i hine sv&#x00F8;mmende skj&#x00F8;nne Lande,</l>
+<l>f&#x00F8;rst der, kan h&#x00E6;nde, sit Vuggel&#x00F8;fte vil Skj&#x00E6;bnen sande:</l>
+<l>at jeg, din Elsker, skal blive Pr&#x00E6;st.&#x00BB;&#x00BB;</l>
+</lg>
+<p>Carl Johan var snar til &#x00E5; blusse opp, men uv&#x00E6;ret kunne hurtig gi seg igjen. Mange &#x00E5;r senere fortalte Amalie at &#x00AB;da de gik op fra Bryggen og kom til Pal&#x00E6;et, saa de Kongen staa i Hj&#x00F8;rnevinduet; han hilsede dem venlig, men truede paa samme Tid med Pegefingeren, som om han vilde sige: har du nu v&#x00E6;ret ude igjen? Han vedblev at gaa fra Vindu til Vindu, fra V&#x00E6;relse til V&#x00E6;relse, ligetil Hj&#x00F8;rnevinduet, da sendte han dem atter en Hilsen &#x00AB;og et af de Blikke som aldrig glemmes&#x00BB;.&#x00BB; Kort tid efter kunne statssekret&#x00E6;r Due meddele Henrik at kongen, &#x00AB;i Mangel af Kapellaniet&#x00BB;, tilb&#x00F8;d ham 200 daler av sin egen kasse &#x00E5;rlig i to &#x00E5;r for det f&#x00F8;rste, og Wergeland tok med takk mot tilbudet dersom han m&#x00E5;tte gjengjelde det med frittvalgte arbeider for almuens opplysning.</p>
+<p>S&#x00E5; kunne det allikevel bli bryllup denne v&#x00E5;r. Alt f&#x00F8;r Henrik og Amalie reiste p&#x00E5; p&#x00E5;skebes&#x00F8;k p&#x00E5; presteg&#x00E5;rden de siste dagene <pb n="47"/>i mars, hadde han leiet en &#x00AB;ret smuk Beqvemmelighed&#x00BB; (som Camilla sier) i hjulmaker Meyers g&#x00E5;rd ved Akersveien (nu Damstredet 1) med have og lysthus og stall for Veslebrunen, og han underhandlet om et fordelaktig salg av hytten i Gr&#x00F8;nlien; det brakte ham 360 daler, hvorav 100 kontant. L&#x00F8;rdag den 27. april viet prosten brudeparet i Eidsvoll kirke. De to, Camilla og Amalies p&#x00E5;r&#x00F8;rende var kommet fra Christiania dagen i forveien. Camilla pyntet bruden p&#x00E5; sitt v&#x00E6;relse: &#x00AB;Hendes smukke Haar var lagt i to tykke Fl&#x00E6;tninger i en phantastisk Slyngning, Kr&#x00F8;llerne foran vare meget smukke, ved h&#x00F8;ire Side en Bouquet af Myrther med smaae fine, hvide Blomster, der gik i en Krands hen til Fl&#x00E6;tten til Venstre, hvor den endte i en Bouquet, m&#x00F8;rkegr&#x00F8;n Grodinapelskjole, syed af min Syerske Caren, i Brystet en Bouquet af deilige Aurikler og Reseda, en Gave af Harald. Da hun kom ned, var ikke Henrik forn&#x00F8;ied med Krandsen, den skulde v&#x00E6;re tyk og gaae rundt om Hovedet som B&#x00F8;nderpigerne bruge den.&#x00BB; V&#x00E5;ren kom sent dette &#x00E5;r: &#x00AB;Brud og Brudgom pladskede foran i en Bredsl&#x00E6;de&#x00BB; p&#x00E5; veien til kirken, gjestene kj&#x00F8;rte i vogn. De blev over til tirsdag den 30.; den dag var Henrik allerede p&#x00E5; sin post p&#x00E5; Universitetsbiblioteket.</p>
+<p>&#x00AB;Henrik er en af dem der maae styres, ledes,&#x00BB; skrev Camilla til bror Oscar &#x2013; en noe besv&#x00E6;rlig oppgave, m&#x00E5; man si! &#x2013; &#x00AB;og Amalie har mange Anl&#x00E6;g til at gj&#x00F8;re dette paa den rette Maade, men de ere endnu ikke nok udviklede hos hende, det stakkels Barn er ikke 20 Aar endnu. Hun har megen Magt over ham, og er Gud skee Lov ikke saa forelsket i ham at hun kan byde hans stormende F&#x00F8;lelser Stangen i en vis Roe og Tilbageholdenhed, derved conserverer hun dem naturligviis hos ham. Det vil nok gaae godt.&#x00BB; Denne hennes sp&#x00E5;dom sannet seg i hvert fall. Ekteskapet blev lykken i hans liv, og hans forelskelse i sin vakre hustru varte til hans siste stund.</p>
+<p>Det nye hjem stod &#x00E5;pent for Wergelands venner, og den f&#x00F8;rste store fest var p&#x00E5; Amalies f&#x00F8;dselsdag 9. juli, med &#x00AB;Blomsterilluminasjon&#x00BB;, underholdning av sangere, blant dem den storhertuglige badenske hoffsanger Schmuckert og &#x2013; ekstraordin&#x00E6;rt &#x2013; salutt fra 4 &#x00AB;gevaltige Svingbasser&#x00BB;, avfyrt av glade ubudne gjester utenfor husets vinduer klokken 2 om natten. Fra prosten kom en vennlig hilsen:</p>
+</div>
+<div subtype="letter">
+<p><pb n="48"/>UBOslo, Skougaards gave. Ms. in fol. 1309.</p>
+<div type="chapter" subtype="letterpart">
+<salute>Kj&#x00E6;re S&#x00F8;nnekone.</salute>
+<p>Paa denne din 20de f&#x00F8;dselsdag modtage Du Forsikkringen om min Agtelse og Kj&#x00E6;rlighed, min faderlige Veisignelse og medf&#x00F8;lgende liden For&#x00E6;ring.</p>
+<dateline>9 Julii 1839.</dateline> <signed>N. Wergeland</signed>
+</div>
+<div type="chapter" subtype="envelope">
+<p><address><addrLine>Til Amalie Sophie Wergeland.</addrLine></address></p>
+</div>
+</div>
+<div type="chapter" subtype="commentary">
+<p>Da Camilla kom hjem til Henriks bryllup, hadde hun en m&#x00E5;neds tid v&#x00E6;rt hemmelig forlovet med cand.jur. Peter Jonas Collett, den riddersmann som blev hennes redning. Brevvekslingen mellem de to forteller om hans utrettelige, oppofrende strev for &#x00E5; gi henne nytt livsmod og mane bort de minner som forfulgte henne om hennes ulykkelige ungdomskj&#x00E6;rlighet til Welhaven. Collett mente det ville v&#x00E6;re godt for henne en tid &#x00E5; komme vekk fra b&#x00E5;de Eidsvoll og Christiania, og 24. september reiste hun til K&#x00F8;benhavn for &#x00E5; bli der vinteren over.</p>
+</div>
+<div subtype="letter">
+<p>UBOslo, Skougaards gave. Ms. in fol. 3111.</p>
+<div type="chapter" subtype="letterpart">
+<dateline>K&#x00F8;benhavn den 18 Nov. &#x005B;1839.&#x005D;</dateline>
+<p>Det er af puur Egoisme jeg skriver Dig disse Linier, kjere Amalie, det er mindre fordi jeg venter at de ville gl&#x00E6;de Dig end i det Haab at de ville opmuntre Dig til et lille Svar. Jeg har saa lidt at fort&#x00E6;lle Dig om mit Ophold hernede der virkelig vil kunne interessere Dig, jeg deeltager saa lidt i den Verden der ligger udenfor mig, Komedie og Selskaber undgaaer jeg saa meget som mueligt, og hvad der ellers angaaer mig, min huuslige F&#x00E6;rd, min Omgivelse, mine Beskj&#x00E6;ftigelser vil Du tilstr&#x00E6;kkelig faae at vide naar Du henvender Dig til Emilie D&#x005B;iriks&#x005D;, til hende henviser jeg alle, der maatte &#x00F8;nske dens Slags Oplysninger; altsaa min kjere Amalie, I deroppe lide ingen N&#x00F8;d i denne Henseende, derimod tr&#x00E6;nger jeg i h&#x00F8;ieste Grad til at h&#x00F8;re fra Eder. Vil Du troe at jeg endnu ikke har faaet en eneste <hi rend="italic">venlig</hi> Linie hjemme fra, undtagen 2 Breve fra Fader der ere skrevne i hans allerv&#x00E6;rste <pb n="49"/>Humeur og derfor lidet skikkede til Opmuntring for en stakkels l&#x00E6;ngtende Sjel. Jeg indseer ikke hvormed jeg har fortjent denne Kulde og Forglemmelse. Oscar, Henrik, Moder kunde dog gjerne spandere et Par Ord paa mig, jeg har bedet derom men det har ikke frugtet. Men Du, min Amalie, du gode venlige Sjel! vil vist ikke lade Dig bede forgjeves. Skriv mig ret snart om alt hvad Du vil, hvorledes Du har det nu i denne triste H&#x00F8;sttid. Er Du endnu forn&#x00F8;iet med Huus og Have og Henrik, som i Sommer da Haven blomstrede, V&#x00E6;ggene skinnede i det nye Huus og alting var nyt og skinnende ligefra Themaskinen indtil Kjerligheden. Hvorledes staaer til med Hvedebr&#x00F8;dsdagene? Ere de allerede ringed ud ligesom Markedsdagene? jeg vil haabe nei, og for dem der rigtig elske hinanden b&#x00F8;r de hverken ringes ud eller ind, men skal aldrig merke nogen Overgang. Fort&#x00E6;l mig Alt, hvad tager H&#x005B;enrik&#x005D; sig fore nu. Hils ham fra mig, er han i godt Humeur. Fort&#x00E6;l mig alt nyt som Du kan opdrive. Det allerubetydeligste faaer V&#x00E6;rd hernede. Jeg skulde give Guld for en Flig af Morgenbladet eller Nella,<note type="commentary"><hi rend="italic">Nella</hi>: avisen &#x00AB;Den Constitutionelle&#x00BB;.</note> og havde jeg en Intelligenzseddel vilde jeg l&#x00E6;se den med den dybeste Andagt. Her i Kj&#x00F8;benhavn skal jeg sige Dig kjere Amalie, er alle norske Blade forbudne. Da man aldrig er vant til i danske Blade at tage Bladet fra Munden og sige sin Mening, taaler de det heller ikke i andre, men derfor ere de danske Blade saa vamle og kjedsommelige at jeg gjerne skulde give dem alle for et retskaffent grovt Morgenblad.</p>
+<p>Kan Du erindre det var netop paa denne Tid for et Aar siden at vi begge havde vor Tandpine. Hvorledes gaaer det Dig denne H&#x00F8;st med denne Plage, jeg staaer mig godt endnu og det kommer vel fornemmelig af Klimatet hernede, bedre Huse. Jeg h&#x00E6;rder mig desuden paa alle Maade, baade Morgen og Aften vadsker jeg mig med iskoldt Vand med en Svamp over hele Legemet, og gnider mig med Uld, det styrker ualmindelig og bevarer for al Slags Gigt. Jeg har aldrig v&#x00E6;ret saa rask som nu, jeg er bleven saa feed at jeg maae l&#x00E6;gge mine Kjoler ud 2 Finger. Det var lidt senere at Olavson bes&#x00F8;gte os i Fjor. Erindrer Du den f&#x00F8;rste Aften Du maatte ind og v&#x00E6;re aimabel medens jeg sad i ulidelige Smerter indenfor og h&#x00F8;rte lidt af Conversationen? den anden Dag stjal jeg mig ned i Stuen i min Tandpineneglig&#x00E9;e, da <pb n="50"/>jeg troede han var reist! Du maa hilse Olafson at det ikke var smukt af ham, blot at afgive Visitkort og ikke komme indenfor, den Eftermiddag jeg pakkede ind, det lignede ikke ham at v&#x00E6;re saa stiv, og til Straf derfor paal&#x00E6;gger jeg ham et ordentlig Bes&#x00F8;g hos os til Sommeren. Maaskee var det de mange Damestemmer indenfor der skr&#x00E6;mmede ham. Den derimod, der ikke lod sig skr&#x00E6;mme, var vor Lieutnant fra i Sommer, Hr Adolph M&#x00F8;ller,<note type="commentary"><hi rend="italic">M&#x00F8;ller</hi>: l&#x00F8;ytnant i 2. Akershusiske infanteribrigade Johan Adolph Nicolai M.</note> han vovede sig lige ind i Ilden og blev der en god halv Time, men kom vist ganske uskadt ud igjen.</p> 
+<p>Vi havde det dog ret hyggeligt sammen i Fjor, naar jeg undtager hine Smertensdage. Jeg erindrer mig alt saa levende som om jeg var midt inde i hiin Tid. Hvorledes vi l&#x00E6;ste for af Stjernetyderen,<note type="commentary"><hi rend="italic">Stjernetyderen</hi>: Walter Scott: Guy Mannering eller Sjernetyderen. Overs. ved W. Hviding. D. 1&#x2013;3. Kbh. 1823.</note> hvorledes vi spadserte i M&#x00F8;rkningen gjennem begge V&#x00E6;relser, hvorledes vi sang, hvorledes vi grublede over Capellanens Gaadefuldhed, og hvor dydige vi vare oppe tidlig om Morgenen og spandt, og Julen, Amalie! Det var dog en deilig Juul, en <hi rend="italic">complet</hi> Juul, ikke sandt. Der var alt hvad der udfordres til en Juul, der ikke saa let vil forglemmes. Vi pr&#x00F8;vede jo Alt, havde jo Alt, Komedie og Dands, Kanefarter og Forlibelse og Digtere og Maaneskin og Capellaner og Kj&#x00E6;lkebakke, der manglede intet. Gud veed hvordan den n&#x00E6;ste Juul bliver. Du reiser formodentlig hjem med H&#x005B;enrik&#x005D;. Oscar maae v&#x00E6;re en god Erstatning, men jeg er bange I ville komme til at savne Pernille,<note type="commentary"><hi rend="italic">Pernille</hi>: i julen 1838 oppf&#x00F8;rte de unge p&#x00E5; presteg&#x00E5;rden Holbergs &#x00AB;Den forvandlede Brudgom&#x00BB;, hvor Henrik spilte Kirsten Giftekniv, en av fr&#x00F8;knene Petersen eller Diriks Pernille, Camilla Terentia.</note> og kanskee en eller anden en Smule Fru Terentia. Den Juul jeg vil faae hernede vil blive af en ganske anden Sort. Men n&#x00E6;ste! maaskee vi da samles glade med hinanden igjen! ja til n&#x00E6;ste Juul hvorledes er da Alt?</p>
+<p>Lev nu vel, min kjere Amalie og glem ikke min B&#x00F8;n til Dig, jo mere uforbeholdent jo vidtl&#x00F8;ftigere jo bedre. Skriv om Alt, der er intet der mere vil gl&#x00E6;de mig end at Du endnu t&#x00E6;nker venlig paa mig, at Du holder lidt af</p>
+<signed>din Camilla.</signed>
+</div>
+<div type="chapter" subtype="postscript">
+<salute>Hils dine for&#x00E6;ldre &#x2013; din Moder is&#x00E6;r.</salute>
+</div>
+<div type="chapter" subtype="envelope">
+<p><address><addrLine>Til Madame Amalie Wergeland.</addrLine></address></p>
+</div>
+</div>
+<div type="chapter" subtype="commentary">
+<p><pb n="51"/>Amalie svarte p&#x00E5; oppfordringen, og leilighetsvis sendte ogs&#x00E5; Henrik sin s&#x00F8;ster en seddel. Til Jonas Collett skriver Camilla 20. mars: &#x00AB;Fra Henrik! havde jeg et lille Brev &#x2013; Gud hvilket Menneske han er, jeg troer ikke han har Idee om det Slags V&#x00E6;sen som jeg. Amalie maae virkelig have st&#x00E6;rke Nerver, hun skrev mig til, at han var meget god og kj&#x00E6;rlig mod hende, og at hun havde det godt; jeg begriber ikke en saadan Natur, mig vilde han knuse. Hans Sp&#x00F8;g, hans venligste Ord ere sande K&#x00F8;lleslag, naar de overraske os i et Brev, og man ikke har ham selv ved Haanden, thi da mildnes det rigtignok betydelig!&#x00BB; Julen hadde han og Amalie tilbrakt p&#x00E5; presteg&#x00E5;rden sammen med Oscar.</p>
+<p>Henriks eldste s&#x00F8;ster, Augusta, som var prestekone i Jelsa i Rogaland, har begynt &#x00E5; veksle brev med sin svigerinne i hovedstaden og gitt henne diverse oppdrag &#x00E5; bes&#x00F8;rge. Fra Eidsvoll er g&#x00E5;rdsdrengen <hi rend="italic">Erik</hi> Christiansen (1818&#x2013;55) det stadige bud til de unge i Christiania med brev og sendinger fra presteg&#x00E5;rden og tilbake.</p>
+</div>
+<div subtype="letter">
+<p>UBOslo, Skougaards gave. Ms. in fol. 3409.</p>
+<div type="chapter" subtype="letterpart">
+<salute>Kj&#x00E6;re Amalia.</salute>
+<p>Det er mig en inderlig Gl&#x00E6;de, at erfare af dit kj&#x00E6;re Brev, at din Moder kommer sig igjen, og jeg beder at hilse kj&#x00E6;rligst dine gode For&#x00E6;ldre. Henrik har nu et Aar v&#x00E6;ret paa Pr&#x00F8;ve. Jeg troer han har skikket sig vel, og at I paa begge Sider ere forn&#x00F8;jede med hinanden. Det er en usigelig stor Lykke i denne Verden, som man for enhver Priis maa s&#x00F8;ge at bevare, og som jeg haaber vil vedblive indtil D&#x00F8;den mellem Eder, mine kj&#x00E6;re B&#x00F8;rn. &#x2013;</p>
+<p>Af Augustas Brev, som hermed tilbagesendes, seer jeg, at hun har faaet min sidste Skrivelse til hende, hvorom jeg var i nogen Tvivl. Hun har ogsaa bebyrdet dig igjen med Comissioner; men som jeg er vis paa du s&#x00F8;ger at udf&#x00F8;re paa det aller bedste efter din vanlige Godhed, saa at jeg ikke beh&#x00F8;ver at tilf&#x00F8;je nogen Anmodning derom fra min Side. Jeg har endnu ikke <pb n="52"/>faaet nogen Fortegnelse fra hende om hvad hun &#x00F8;nsker. Men da hun opgiver adskillige Gjenstande i Brevet til dig, saa kunde du h&#x00F8;re dig for i Kramboderne og udsee noget, og saa underrette hende om, hvorvidt hun kan faae alle de Ting for saa faa Penge, naar de skulle v&#x00E6;re nogenledes hyggelige. &#x2013; Imidlertid vil jeg benytte denne Lejlighed til at bringe dig de 14 Sp: 60 s: i H&#x00E6;nderne. Jeg indslutter heri tillige 12 Spr: 63 s: til Liqvidation af Wettergreens<note type="commentary">Wettergreen: kj&#x00F8;bmann (agent) Bartholomeus Gram W., Kirkegaten 46; konkursboauksjon.</note> indlagte Auctions-Regning, som du kunde sende Erik hen med at faae qvitteret. Fra Camilla skal jeg hilse; hun kommer i Slutningen af Mai. Vi maa aftale at samles engang paa Eidsvold i Sommer.</p>
+<p>Lev imidlertid vel, min kj&#x00E6;re Svigerdatter, og troe mig</p>
+<signed>Din hengivne Fader,<lb/>Wergeland.</signed>
+<dateline>30 April 1840.</dateline> 
+</div>
+</div>
+<div type="chapter" subtype="commentary">
+<p>I et langt brev til sin svenske beundrerinne Fredrika Bremer forteller Wergeland om sommerens liv i hjemmet i Damstredet i hus og have, om gjester som gikk inn og ut &#x2013; dikterbr&#x00F8;drene Bjerregaard og Mauritz Hansen, unge venner og venninner, folk som s&#x00F8;kte hans r&#x00E5;d og hjelp. Camilla kom til Christiania fra K&#x00F8;benhavn 17. mai og blev i byen til 7. juni, p&#x00E5; bes&#x00F8;k hos sine venninner; sist i m&#x00E5;neden var prosten og hun igjen inne for &#x00E5; gj&#x00F8;re innkj&#x00F8;p til hennes utstyr. Det blev ikke noe av Henriks Eidsvollstur denne sommer, men midt i august reiste Amalie til presteg&#x00E5;rden sammen med Sophie Sch&#x00F8;yen, som var forlovet med prostens s&#x00F8;sters&#x00F8;nn, l&#x00F8;ytnant Nicolai Wergeland. Camillas venninner Emilie og Natalie Diriks var samtidig g&#x00E5;rdens gjester, som vanlig om sommeren. Camilla skriver til sin forlovede om samv&#x00E6;ret i disse dagene: &#x00AB;Hvis Amalie havde Dannelse, vilde hun staae paa et meget h&#x00F8;it Trin, nu erstatter hun den ved en reen Naturlighed og en h&#x00F8;ist elskv&#x00E6;rdig Qvindelighed. Hun kan undertiden v&#x00E6;re overordentlig smuk, Panden og &#x00D8;inene og de lange lyse Lokker ere complett smukke og meget noble, Underdelen af Ansigtet mere simpel, thi her strander gjerne Vorherres Kunst. Men der er noget St&#x00E6;rkt, Oprindeligt og Naivt ved hende; jeg vilde &#x00F8;nske De kjendte hende.&#x00BB;</p>
+<p><pb n="53"/>Det var f&#x00F8;rste gang Henrik holdt hus alene som ektemann. Han hadde 12. februar s&#x00F8;kt det nyopprettede embede som riksarkivar og ventet med spenning p&#x00E5; hver post fra Stockholm, om der skulle foreligge nytt om utnevnelser i statsr&#x00E5;d.</p>
+</div>
+<div subtype="letter">
+<p>UBOslo, Skougaards gave. Ms. in fol. 3407,8.</p>
+<div type="chapter" subtype="letterpart">
+<dateline>Chria 20 Aug. Thorsd. Fmdd. &#x002F;40.</dateline>
+<salute>Kj&#x00E6;re Kone!</salute>
+<p>Jeg har med Forskr&#x00E6;kkelse h&#x00F8;rt af et Par Reisende, Jess og Schou<note type="commentary"><hi rend="italic">Schou</hi>: forpakter, senere propriet&#x00E6;r Peter Schou eide g&#x00E5;rden Hovin i Ullensaker. Den hadde f&#x00F8;r v&#x00E6;rt skriverg&#x00E5;rd, til sorenskriver Johan Korens d&#x00F8;d i 1825 (g.m. Christiane f. Diderichsen, den kjente &#x00AB;Moer Koren&#x00BB;). Deres s&#x00F8;nn Jess Diderichsen K. var lensmann i Nes p&#x00E5; Romerike; hans s&#x00F8;nn av samme navn var i 1840 10 &#x00E5;r gammel.</note> paa Hovind, at Dere efter 7 Timers Forl&#x00F8;b kun vare avancerede 2 Miil, ligesom jeg veed, at Eidsvold naaedes f&#x00F8;rst den anden Dag. Regnen har vel holdt Dere i Huus. Mit Liv siden Du reiste har v&#x00E6;ret fuldt af altformange Adspredelser. S&#x00F8;ndag Formiddag i mit bedste Lysthuusarbeide fik jeg en Deputation af Skuespillerne<note type="commentary"><hi rend="italic">Skuespillerne</hi> ved Christiania Theater: Christian Ludvig J&#x00F8;rgensen (1812&#x2013;69), g.m. Cecilie (Sille) Marie f. Gade (1814&#x2013;90), Christian Christopher Giebelhausen (1807&#x2013;85), Jean Pierre (Peter) Louis Nielsen (1808&#x2013;1900), jomfru Frederikke Helene Schwirtz (1819&#x2013;70), senere g.m. bokhandler J. W. Cappelen, jomfru Elisabeth Wilhelmine Luplau (1813&#x2013;69), 1843 g.m. skuespiller Theodorus Robertus Findanus Rasmussen (1814&#x2013;93).</note> J&#x00F8;rgensen, Giebelh&#x005B;ausen&#x005D; og Nielsen fra det hele mandlige og qvindelige Personale om at forsvare dem i den C&#x005B;on&#x005D;st&#x005B;itutio&#x005D;nelle mod et Stykke fra Direktionen, der bebreidede Personalet, at det var Aarsag i at Publicum ikke fik S&#x00F8;vngj&#x00E6;ngersken<note type="commentary"><hi rend="italic">&#x00AB;S&#x00F8;vng&#x00E6;ngersken&#x00BB;</hi>: ballett i tre akter av D. F. E. Auber, arrangert av August Bournonville, musikken av L. J. F. H&#x00E9;rold; oppf&#x00F8;rt f&#x00F8;rste gang p&#x00E5; Christiania Theater 14. august 1840. &#x2013; I ferietiden hadde ballettmesteren Bournonville og solodanserinnen Caroline Vilhelmine Fjeldsted (1821&#x2013;81) (senere g.m. violoncellisten Christian Laurentzius Kellermann, 1815&#x2013;66) fra Det kgl. teater i K&#x00F8;benhavn gjestet med ballettscener, dans og scener av skuespill i ukene 29. juli til 14. august, med assistanse av en del av Christianiateatrets personale og alltid for fulle hus. Om konflikten forteller Wergeland i en korrespondanse til T&#x00F8;nsberg Merkur: uaktet Bournonville har gjort glimrende aff&#x00E6;rer her, &#x00AB;har han dog sat en Plet paa sin Liberalitet ved at forlange 100 Spd. forat danse paa en Benefice for Skuespillerne, der den hele Tid have staaet Balletparret til Tjeneste. Skuespillerne afslog, som man kunde vente, Direktionens Propos, at dele med Orchesteret d.e. dividere Udbyttet med omtrent 60. Dette vilde, under Foruds&#x00E6;tning af fuldeste Huus, afgivet for Hver omtrent til et Aftensmaaltid. Orchesteret havde da en Benefice for sig selv i Onsdags &#x005B;12. aug.&#x005D;, men uden synderligt Held.&#x00BB; Da s&#x00E5; direksjonen ville la &#x00AB;S&#x00F8;vng&#x00E6;ngersken&#x00BB; bli gitt til inntekt ikke for skuespillerne, men for teatrets underst&#x00F8;ttelses- og pensjonsfond, nektet skuespillerne &#x00E5; medvirke. Dette avslag meddelte direksjonen publikum i en artikkel i Den Constitutionelle s&#x00F8;ndag 16. aug., med en redegj&#x00F8;relse som kunne stille skuespillerne i et uheldig lys. De opps&#x00F8;kte straks Wergeland for &#x00E5; f&#x00E5; hjelp &#x2013; han hadde hatt diverse konflikter med teaterdireksjonen i de siste &#x00E5;r. Det svar han f&#x00F8;rte i pennen for dem, kom i samme avis tirsdag 18. aug. (trykt i S.S.III:3:438 ff.). Direksjonen tok til gjenm&#x00E6;le i en ny oppsats i bladet for 21. aug. og kritiserte is&#x00E6;r regiss&#x00F8;ren Giebelhausen, som de mente hadde gitt sine kolleger en misvisende tolkning av direksjonens hensikt. Herimot lot personalet innrykke en kort protest og en tid senere &#x2013; 29. aug. &#x2013; en utf&#x00F8;rligere &#x00AB;Duplik&#x00BB;; om Wergeland har hjulpet til ogs&#x00E5; med denne, lar seg ikke avgj&#x00F8;re. Da direksjonen avsluttet avisfeiden med et innlegg i Den Const. 3. september, leverte Wergeland i Morgenbladet to dager senere et par epigrammer som et punctum finale (S.S.III:3:448). Og i T&#x00F8;nsberg Merkur for 15. oktober kan han fortelle at &#x00AB;En F&#x00F8;lge af Uenigheden mellem Theaterdirekt&#x00F8;rer og Skuespillere var de F&#x00F8;rstes Aftakkelse.&#x00BB;</note> paa Mandag. Det gjorde jeg da. Mandag Middag blev jeg i Forbigaaende indbuden til Giebelh&#x005B;ausen&#x005D;, hvor jeg spiste med Jfr. Schwirz, Luplau og Mad. J&#x00F8;rgensen. Aftenen opholdt jeg mig i Byen for Korrekturs Skyld paa Stykket. Tirsdag Aften gik jeg ned i Frimurerlocalet, hvor der var Musik. Der blev jeg forestillet for en smuk skotsk Miss Mary Campbell,<note type="commentary"><hi rend="italic">Campbell</hi>: blant anmeldte reisende i Hotel du Nord: &#x00AB;Mr. Rieves og Mr. Campbell fra London og Capitaine Lorentzen med Kone fra Drammen.&#x00BB; Kaptein og skipsreder J&#x00F8;rgen &#x005B;egentl. George Monefeldt&#x005D; L. (1788&#x2013;1861); hans hustru var av den skotske slekt Campbell.</note> der var i en Skibscapt. Lorenzens F&#x00F8;lge fra Drammen. Til dem blev jeg da invitert at spise Middag i Hotellet igaar, hvorefter jeg til Aften var buden i Selskab til Andr. Bergh<note type="commentary"><hi rend="italic">Bergh</hi>: kj&#x00F8;bmann Andreas Bergh, nevnt blant Wergelands gjester S.S.V:1:232.</note> i Anledning af Broderens N&#x00E6;rv&#x00E6;relse og hans egen 12 Aars Bryllupsdag. Men nu skal man ikke faae mig ud f&#x00F8;r Du igjen er hos mig, s&#x00F8;de Amalie. Minas tiltagende Sygdom forvolder mig megen Uleilighed ellers. Da jeg kom hjem inat traf jeg Sollners Pige, ventende paa mig, da Hun havde taget Igler og var kr&#x00F8;ben op paa Qvisten, som hun dog forlod Kl 3 inat og gik til sin Far, hvorefter jeg nu har v&#x00E6;ret paa Hospitalet med hende. Hun skal nu have Gr&#x00F8;domslag f&#x00F8;r der skrides til Tandtr&#x00E6;kning, og saaledes kan vel endnu et Par Dage gaae hen.</p>
+<p>Imidlertid var din gode Moder saa snild at see til mig idagmorges <pb n="54"/>(Karbonade) hvoretter Olava gaaer op og rydder i dette &#x00D8;jeblik.</p>
+<p>Naar Du kommer, skal Du faae see fem herlige Stykker jeg har faaet paa V&#x00E6;ggen &#x0254;: 53 smaae fine Gibsbasreliefs efter Thorvaldsens store Basreliefs og andre store antike Billedhugger-mesterstykker. I dybe sorte Rammer f&#x00E6;stes de bl&#x00E6;ndende, gemmefine smaa Friser paa blaat Fl&#x00F8;jel med Liim. Det er en ny Italiener, Lorenzo Bartoli,<note type="commentary"><hi rend="italic">Bartoli</hi>: gipsarbeider Lorenzo B. fra Lucca i Italia, blant ankomne reisende 11. aug. 1840.</note> som har slige. De koste 4 Sp; men jeg fik dem tilligemed nogle andre Medaillons for 2 Sp. Da Mad. Egeberg<note type="commentary"><hi rend="italic">Egeberg</hi>: Anna Sophie E., f. Muus (1775&#x2013;1862), enke efter grosserer Westye E.</note> sendte mig ind et Glasfad med Moreller, lod jeg et Par Medaillons forestillende Nat og Dag efter Thorvaldsen f&#x00F8;lge med. L&#x00E6;s om disse Sager for Far.</p>
+<p>Naar Du skriver mig til, kj&#x00E6;reste Amalia-mi&#x0027;! saa lad mig vide 1) Hvorledes Du reiste og lever 2) Hvorledes Mor og Far lever 3) Om Far snart skal reise paa Visitaz 4) Om Du f&#x00F8;lger med (NB. Om det ikke varer for l&#x00E6;nge) 5) Hvad Du og de Andre bestille. 6) Om Du er frisk og morer dig 7) Om Vellingen 8) Om Viserne i den lille Pakke ere uddelte.</p>
+<p>Kommer der noget for&#x00F8;nsket med St&#x005B;ock&#x005D;h&#x005B;o&#x005D;lmsposten idag, reiser jeg til Dig imorgen Eftmdd. Imidlertid maa Du ikke vente. Jeg burde kanskee ikke have skrevet saa, behold det imidlertid for dig selv og dybt i dit Hjerte din gamle Kj&#x00E6;rlighed og &#x00D8;mhed, som Du, mit kj&#x00E6;reste Liv, mit lever og bevares i din</p>
+<signed><hi rend="italic">Henriks</hi>.</signed>
+</div>
+<div type="chapter" subtype="postscript"><p>P.S.</p>
+<p>Lad mig til 9de og sidst ogsaa vide hvad Du omtrent af Penge beh&#x00F8;ver. Midt i n&#x00E6;ste Uge maa Du vel t&#x00E6;nke paa Hjemreisen. Hils Far og Mor paa det bedste og inderligste, ligesom Du ogsaa hilser C&#x005B;amilla&#x005D; &amp; S&#x005B;ophie&#x005D; &amp; H&#x005B;arald&#x005D; &amp; L&#x005B;aura&#x005D;.<note type="commentary"><hi rend="italic">Laura</hi>: prostens brordatter Laura Augusta (1822&#x2013;95), som bodde p&#x00E5; presteg&#x00E5;rden efter at begge hennes foreldre var d&#x00F8;de; senere g.m. overrettssakf&#x00F8;rer O. S. Arnesen.</note></p>
+<p>Siig Moer &#x2013; hvad hun neppe er glad for &#x2013; at Tante Caroline<note type="commentary"><hi rend="italic">Caroline</hi>: Caroline Henriette Tugendreich Thaulow, f. Looft (1777&#x2013;1852), enke efter fru Wergelands bror, amtsforvalter i Aabenraa Johan Frederik Th.</note> har yttret, at hun nu vil tage igjen hvad hun ifjor fors&#x00F8;mte, da hun ikke fik bes&#x00F8;gt Eidsvold.</p>
+<p>Din Moder beder at hilse.</p>
+</div>
+<div type="chapter" subtype="envelope">
+<p>&#x005B;Utenp&#x00E5;:&#x005D;<address><addrLine>S.T.</addrLine>
+<addrLine>Madame Amalie</addrLine>
+<addrLine><hi rend="italic">Eidsvold Pgd</hi></addrLine>
+<addrLine>Anbefalt Madame Evensen, Eidsvoldbakken<note type="commentary"><hi rend="italic">Eidsvoldsbakken</hi>: eier var Mads Evensen Rogneby (fra Toten), d&#x00F8;de i 1841; g.m. Helene Evensen. De grunnla Eidsvold Bad, som stedet nu blev kalt, og drev ogs&#x00E5; landhandel. Badet skyldtes den mineralske kilde som Henrik Wergeland oppdaget i 1834 eller noe f&#x00F8;r.</note></addrLine></address></p>
+</div>
+</div>
+<div type="chapter" subtype="commentary">
+<p><pb n="56"/>Wergelands forh&#x00E5;pninger om &#x00E5; bli riksarkivar steg i den tid som nu fulgte. Sist i september fikk han brev fra statssekret&#x00E6;r Due om at kongen hadde forlenget sitt bidrag til hans folkeopplysningsarbeide, s&#x00E6;rlig utgivelsen av bladet &#x00AB;For Arbeiderklassen&#x00BB;, og &#x00F8;ket bel&#x00F8;pet til 300 daler &#x00E5;ret for to &#x00E5;r dersom han ikke &#x00AB;desforinden erholder et Levebr&#x00F8;d&#x00BB;, og Wergelands bror Oscar kunne fortelle at kongen gjentagne ganger hadde uttalt at han nu var meget tilfreds med Henrik. Men ukene gikk uten at meddelelsen fra statsr&#x00E5;det kom. Amalie gjorde alvor av planen om &#x00E5; f&#x00F8;lge prosten p&#x00E5; hans visitasreise i november, slik Camilla hadde v&#x00E6;rt med ham to &#x00E5;r tidligere. Utnevnelsen skjedde i statsr&#x00E5;d i Stockholm fredag 14. november. I Christiania var selvsagt ekspedisjonssekret&#x00E6;r i Finansdepartementet Carl Fougstad &#x2013; som skulle bli Wergelands n&#x00E6;rmeste overordnede i hans nye stilling &#x2013; en av de f&#x00F8;rste som fikk sikker beskjed. Prosten og Amalie var imidlertid kommet til Vinger presteg&#x00E5;rd hos sognepresten Ole Gaarder Rynning (1800&#x2013;65).</p>
+</div>
+<div subtype="letter">
+<p>S.S.5:1:281, p&#x00E5; grunnlag av H. Lassens utgave av Wergelands breve.</p>
+<div type="chapter" subtype="letterpart">
+<dateline>Kristiania 20 Nov. &#x005B;1840&#x005D; Kl. 5 1&#x002F;2 Morgen.</dateline>
+<salute>Min kj&#x00E6;re, kj&#x00E6;re Amalie!</salute>
+<p>Dersom Du finder tre Blyantskors etsteds paa dette Brev, saa er min Udn&#x00E6;vnelse til Rigsarkivar kommen igaaraftes, og Du dermed til bestalter Frue. Alle forsikkre og gratulere i de sidste Dage. Selv den Constitutionelles Korrekt&#x00F8;r og Overs&#x00E6;tter <pb n="57"/>kom ind derfor paa Bibliotheket iforgaars, da han havde det fra Fougstad, at Udn&#x00E6;vnelsen alt var skeet.</p>
+<p>Hos dine For&#x00E6;ldre var jeg i S&#x00F8;ndags for at fort&#x00E6;lle om Reisen efter dit Brev. Fra Capt. Olsen fik jeg gjennem din Moder til For&#x00E6;ring en stor spansk Sukkermelon, hvoraf jeg har sendt Moer det Halve tilligemed et Gr&#x00E6;skar. Idag skal jeg til at sylte. Jeg v&#x00E6;kkes om Morgenen af kurrende Duer, hvoraf jeg igaar kj&#x00F8;bte to, som jeg har i et Buur her i Kammeret. Jeg har uafbrudt v&#x00E6;ret hjemme siden du reiste; men har kanskee paa S&#x00F8;ndag et Bostonparti. Dog det er sandt, hos &#x005B;&#x2013;&#x005D; har jeg maattet spille en Aften, men uden synderlig at more mig. De vare saa &#x00E6;rgerlige paa &#x00AB;Dramatikken&#x00BB;<note type="commentary"><hi rend="italic">Dramatikken</hi>: Det dramatiske Selskabs teater i Grensehaven; her holdt et borgerlig ballselskap, stiftet i opposisjon til det fornemme og eksklusive &#x2039;Selskabet af 28de December 1838&#x203A; &#x00AB;Kringla&#x00BB;, sine danseaftener.</note> fordi de altid maatte dandse med hinanden, at de have besluttet aldrig at gaae der.</p>
+<p>Men nu, kj&#x00E6;reste Amalie, om din Tilbagekomst, hvorefter jeg ret alvorlig l&#x00E6;nges? Og strax maa du da sige, hvor jeg skal hente dig.</p>
+<signed>Din elskede</signed>
+<signed>Henrik.</signed>
+</div>
+</div>
+<div type="chapter" subtype="commentary">
+<p>Brevet som kom dagen efter, hadde ikke tre, men &#x00E5;tte kors! &#x2013; Camillas forlovede P. J. <hi rend="italic">Collett</hi> var ans&#x00F8;ker til et lektorat i lovkyndighet ved Universitetet; han fikk f&#x00F8;rst sin utnevnelse 8. mai det f&#x00F8;lgende &#x00E5;r, efter &#x00E5; ha holdt pr&#x00F8;veforelesninger. &#x2013; I utenp&#x00E5;skriften retter Wergeland &#x2039;Rynning&#x203A; til &#x2039;<hi rend="italic">Tommelstad</hi>&#x203A;: det er Ole Johan T., dengang postmester p&#x00E5; Kongsvinger.</p>
+</div>
+<div subtype="letter">
+<p>UBOslo, Skougaards gave. Ms. in fol. 3407,11.</p>
+<div type="chapter" subtype="letterpart">
+<dateline>Kristiania L&#x00F8;rdag Morgen &#x005B;21. November 1840&#x005D;.</dateline>
+<salute>Kj&#x00E6;reste Amalie!</salute>
+<p>&#x2020; &#x2020; &#x2020; &#x2020; &#x2020; &#x2020; &#x2020; &#x2020;</p>
+<signed>Din kj&#x00E6;rlige</signed>
+<signed>Henrik</signed>
+</div>
+<div type="chapter" subtype="postscript">
+<p>&#x002F;verte</p>
+<p><pb n="58"/>&#x005B;P&#x00E5; neste side:&#x005D;<lb/>P.S.</p>
+<p>Mit Brev sendt med Posten igaar til Sognepr&#x00E6;st Rynning paa Vinger har vel naaet did; hvori Du vil finde disse Korse&#x0027;s Betydning, ligesom ogsaa Udenpaaskrivten vil forklare det.</p>
+<p>Imorgen maa jeg ret savne dig, da jeg maa diske op &#x2013; jeg t&#x00E6;nker med et Oxebryst, Ost og Portviin.</p>
+<p>Nu er Du med Gud og &#x00C6;re Fru Wergeland.</p>
+<p>Colletts Udn&#x00E6;vnelse h&#x00F8;res ikke om &#x2013;</p><signed>Din</signed>
+<signed>H.</signed>
+</div>
+<div type="chapter" subtype="postscript">
+<p>S&#x00F8;ndag Middag.</p>
+<p>Her har v&#x00E6;ret Gratulationer, der trakteredes med Bryst, &#x00C6;g &amp;c. Port &amp; Maderaviin. Igaaraftes var jeg hele Aftenen hjemme hos Dere hvor vi havde Shrub etc. alt vel undtagen din Mangel! Men skriv naar og hvor Du skal hentes. &#x2013;</p>
+</div>
+<div type="chapter" subtype="envelope">
+<p>&#x005B;Utenp&#x00E5;:&#x005D;
+<address><addrLine>S.T.</addrLine>
+<addrLine>Fru Amalie Sofie Wergeland</addrLine>
+<addrLine>(Provst Wergeland) Kongsvinger</addrLine>
+<addrLine>Anbefalet Hr &#x005B;Sogneprest Rynning&#x005D; Tommelstad fra</addrLine>
+<addrLine>Henr. W.</addrLine></address></p>
+<p>&#x005B;Med general Birchs h&#x00E5;nd:&#x005D;</p>
+<p>Ledsages med de &#x00E6;rb&#x00F8;digste Hilsener fra Birch, paa hvis Contoir den glade Bureauchef forsegler dette Brev, da han ikke har sit eget Signet ved Haanden! &#x2013;</p>
+</div>
+</div>
+<div type="chapter" subtype="commentary">
+<p>Wergeland tiltr&#x00E5;dte som riksarkivar 1. januar 1841. Med de &#x00F8;kede inntekter han nu fikk, steg lysten hos ham til igjen &#x00E5; skaffe seg eget hus og have istedenfor &#x00E5; bo tilleie. Amalie forteller: &#x00AB;En Dag, vi vare ude og kj&#x00F8;rte, kom vi forbi Slotsparken, til den Plet hvor vi senere boede. Wergeland blev saa indtagen af den smukke Udsigt, at han ligesom efter en pludselig Indskydelse spurgte mig: Skulde du ikke synes om at bo her? Jeg havde naturligvis intet at indvende derimod, og paa Hjemvejen var han indom hos den Mand, som ejede Tomten, fik Handelen sluttet i en Fart og engagerede strax derefter en Bygmester.&#x00BB; Eieren var <pb n="59"/>kj&#x00F8;bmann S. Jacobsen og 13. januar blev det holdt oppm&#x00E5;lingsforretning p&#x00E5; tomten.</p>
+<p>Det s&#x00E5; en tid ut til at hans utnevnelse som byr&#x00E5;sjef &#x2013; det var den offisielle tittel &#x2013; skulle f&#x00E5; passere uten offentlig kritikk, selv om det blev skumlet i det stille b&#x00E5;de blant fiender og venner om denne nye kongelige n&#x00E5;de som Wergeland hadde oppn&#x00E5;dd. Men det varte ikke lenge f&#x00F8;r angrepet kom, og det fra hans beste venn i ungdoms&#x00E5;rene, Ludvig Kristensen Daa. I sitt blad &#x00AB;Granskeren&#x00BB; betegnet Daa ham som &#x00AB;frafallen&#x00BB; &#x2013; en som &#x00AB;anvendte sine Talenter&#x00BB; imot &#x00AB;halvofficiel Bel&#x00F8;nning&#x00BB;. F&#x00F8;r jul hadde Wergeland sendt ut to farser i anledning av feider han da var innblandet i: &#x00AB;Lyv ikke! eller Dompapen&#x00BB;, en overgiven harsellas mot troppistenes venn Johan Dahl og P. J. Colletts bror Holger, og &#x00AB;Verden tilh&#x00F8;rer Os Jurister!&#x00BB;, en besk satire mot de unge jurister i kretsen om Den Constitutionelle. Nu pr&#x00F8;vde han &#x00E5; svare p&#x00E5; Daas angrep med en sp&#x00F8;k: farsen &#x00AB;Engelsk Salt&#x00BB; &#x2013; som bare gjorde Daa enda mere bisk og rasende. I nummer efter nummer av &#x00AB;Granskeren&#x00BB; gikk han l&#x00F8;s p&#x00E5; Wergeland og s&#x00F8;kte &#x00E5; bevise hans &#x00AB;frafall&#x00BB;, fra radikal republikanisme til han nu var havnet i den usmakeligste kongedyrkelse; med hans dikterliv var det slutt for alltid. Morgenbladets redakt&#x00F8;r A. B. Stabell gjorde felles sak med Daa og skrev at &#x00AB;Hr. Wergelands Forhold i den senere Tid har forskj&#x00E6;rtset ham de Sympathier hos Folket, som han f&#x00F8;r havde for sig&#x00BB;. Wergeland forsvarte seg, og det fulgte en avisfeide, mere hatefull og bitter enn noensinne f&#x00F8;r i hans kampfylte liv. Til slutt blev Christianiaavisene stengt for Wergeland, og artikler og dikt m&#x00E5;tte han sende til provinsaviser som stilte seg p&#x00E5; hans side, &#x00AB;Drammens Adresse&#x00BB; og &#x00AB;Christianssandsposten&#x00BB;.</p>
+<p>Hans foreldre p&#x00E5; prestegarden var ofte fortvilet over dagens hovedstadsaviser:</p>
+</div>
+<div subtype="letter">
+<p>UBOslo, Skougaards gave. Ms. in fol. 3409.</p>
+<div type="chapter" subtype="letterpart">
+<dateline>Eidsvold de&#x005B;n April&#x005D; 1841.</dateline>
+<p>Om det ikke var for and&#x005B;et jeg i Brev vil hilse&#x005D; lidt paa dig min bedste Ama&#x005B;lie var det for at skjende&#x005D; paa dig fordi du skriver s&#x005B;aa sjelden. Jeg har&#x005D; ikke kundet udlet aarsagen dertil. <pb n="60"/>&#x005B;Du lever jo&#x005D; i Hovedstaden og har nok at skrive om. Med mig er det en anden Sag, her er aldrig Noget at skrive om, baade Humeuret og &#x00D8;jnene saa vel som Tiden er derimod.</p>
+<p>Eer det nu saa at dere skal fl&#x00F8;tte til en bestemt Tid, saa kunde &#x005B;du&#x005D; saa n&#x00E6;mt tilbringe den Tid hos os til dit Eget Huus blev ferdig. Din Mand kunde io heller saa l&#x00E6;nge h&#x00E6;nte Spiise hos dine For&#x00E6;ldre, og leie sig et V&#x00E6;relse saa l&#x00E6;nge. Aavervei det, Du ved kj&#x00E6;re Amalie at du er velkommen, du kunde da blive h&#x00E6;r med det same, naar du kommer op til Camillas Bryllop,<note type="commentary"><hi rend="italic">Camillas</hi> bryllup blev utsatt til 14. juli.</note> som jeg forudser bliver i n&#x00E6;ste Maaned.</p>
+<p>O! hvor har det gjort mig ondt at se Henrik saa medtaget i alle Bladene, bed ham for alting ikke skrive flere Farcer, for hver &#x005B;Farce han skrive&#x005D;r, tager han et Aar af min Leve&#x005B;tid. Det er umu&#x005D;elig baade for hans Fader og &#x005B;for mig at tage saa&#x005D;dant Ligegyldigt. Hvad maa de &#x005B;ikke t&#x00E6;nke i&#x005D; Udlandet?</p>
+<p>&#x005B;Der er, kj&#x00E6;re Amali&#x005D;a, Mange No. af Nat og Dag<note type="commentary"><hi rend="italic">Nat og Dag</hi>, et Maanedsskrift for Morskabsl&#x00E6;sning, utkom i &#x00E5;rene 1840&#x2013;44. Utgiver og redakt&#x00F8;r var Carl August Guldberg.</note> som &#x005B;nu er udko&#x005D;mmet, som vi ikke har faaet og i dem er der smaa stykker aaversat af Harald, uden at faa det Minste derfor, bed H&#x005B;enrik&#x005D; endlig skaffe ham nogle Penge. Sch&#x00F8;dt<note type="commentary"><hi rend="italic">Schj&#x00F8;th</hi>: Anton C. G. S. (1807&#x2013;72), en av Wergelands venner, fullmektig i Revisjonsdepartementet og samtidig redakt&#x00F8;r av Christiania Intelligentssedler.</note> og Malling<note type="commentary"><hi rend="italic">Malling</hi>: Peter Tidemand M. (1807&#x2013;78), boktrykker og forlegger, bl. a. av flere av Wergelands skrifter; prostens &#x00AB;Den franske Stilist&#x00BB; var p&#x00E5; denne tid under trykning hos Malling. Hvilke stykker Harald W. har oversatt for avisen og m&#x00E5;nedsskriftet, lar seg nu ikke avgj&#x00F8;re.</note> maa v&#x00E6;re nogle Bedragere, er der ingen vei man kan gaa for at faa dem? Vi maa nu for at benytte F&#x00F8;ret s&#x00E6;nde adskilligt af Camillas t&#x00F8;i ind, og med vores Bud tilbage venter jeg Henrik er saa snild og sender nogle penge, saa vel som alle de No. som vi ikke har faaet af Nat og Dag. Sig ham mange Tak for Drammens Adressen, og bed om alle Christiansands Poster han har lovet mig. Bladerne f&#x00F8;lger med. For Citronerne, som du bes&#x00F8;rget for mig takker jeg, de havde lidt lidt af Frosten underveis. Paa Lindel&#x00F8;kken sp&#x00F8;rger de altid flittig til Eder. De lever alle vel. Olsens<note type="commentary"><hi rend="italic">Olsen</hi>: kapellanen blev gift med Anne Nicoline Glatved (1805&#x2013;86), datter av fl&#x00F8;tningsinspekt&#x00F8;r G.</note> Kj&#x00E6;reste med sin S&#x00F8;ster fra Ringeriget skal ligge ved Badet. Fru Iversen har et smukt Logie, der er saadan deilig Udsigt fra hendes V&#x00E6;relse. De &#x00F8;nskede saa meget hos Evensen at Lector Thaulow<note type="commentary"><hi rend="italic">Thaulow</hi>: prostinnens brors&#x00F8;nn, lektor ved Universitetet Moritz Christian Julius Th. (1812&#x2013;50) skrev i Den Constitutionelle 1841 nr. 143, 23. mai: &#x00AB;Om Sundhedsbr&#x00F8;nden i Eidsvold.&#x00BB;</note> vilde indf&#x00F8;re i Bladerne Noget om Badet. I denne Tid har jeg travelt med at Udtrede til at V&#x00E6;ve, jeg har sadt 2 i Arbeide. Hvordan staar det til hos dine For&#x00E6;ldre? Hils dem naar du ser dem.</p>
+<p>Lev nu vel kj&#x00E6;reste Amalia. Du og din Henrik er paa det kj&#x00E6;rligste hilset af Eders Moder</p>
+<signed>A. W.</signed>
+</div>
+<div type="chapter" subtype="envelope">
+<p><pb n="61"/>&#x005B;Utenp&#x00E5;:&#x005D;<address><addrLine>til</addrLine>
+<addrLine>Fru Amalia Wergeland</addrLine>
+<addrLine>i</addrLine>
+<addrLine>Christiania.</addrLine></address></p>
+</div>
+</div>
+<div type="chapter" subtype="commentary">
+<p>I sitt brev nevner fru Wergeland intet om den bitre skuffelse som rammet dem alle p&#x00E5; presteg&#x00E5;rden da posten den 23. mars fortalte at prosten ikke var blitt biskop i Christiansand. Hans melankoli hadde i de senere &#x00E5;r stadig tiltatt; nu knekket forbig&#x00E5;elsen hans livsmot for alltid; han overlot mest mulig av embedsforretningene til kapellanen og isolerte seg p&#x00E5; sitt studerv&#x00E6;relse i dyster ensomhet. Nye sorger kom til: Henrik led den uh&#x00F8;rte krenkelse &#x00E5; bli nektet opptagelse i leseselskapet Athen&#x00E6;um p&#x00E5; den stormende generalforsamling 1. mai; her fant hans fiender leilighet til &#x00AB;at st&#x00F8;de en Glassplint&#x00BB; i hans hjerte, &#x00AB;som endnu v&#x00E6;rker der&#x00BB;, skriver han i &#x00AB;Hassel-N&#x00F8;dder&#x00BB;. Han fikk underretningen om hvad som var skjedd, mens han satt &#x00AB;paa et herligt gyldent L&#x00F8;vetandteppe&#x00BB; utenfor sitt midlertidige losji p&#x00E5; Slottsplassen og lekte med en rev, forteller han.</p>
+<p>Alt i begynnelsen av april var han og Amalie flyttet fra Damstredet og hadde leiet seg inn i boktrykker Carl L. Roshauw&#x0027;s lille hus i n&#x00E6;rheten av &#x00AB;Grotten&#x00BB;. Herfra kunne han f&#x00F8;lge byggearbeidet fra dag til dag, og selv gikk han straks i gang med &#x00E5; planere tomten, fylle jord mellem fjellknausene og anlegge have. Den 17. mai kunne de flytte inn i sitt nye hjem, med Veslebrunen, <pb n="62"/>hunden, kattene, den tamme rev og kr&#x00E5;ken Kari, blomsterplantene &amp;c. &amp;c. Det blev en dobbelt festdag.</p>
+<p>De siste ukene i juni var Amalie p&#x00E5; bes&#x00F8;k i presteg&#x00E5;rden.</p>
+</div>
+<div subtype="letter">
+<p>UBOslo, Skougaards gave. Ms. in fol. 3407,10.</p>
+<div type="chapter" subtype="letterpart">
+<dateline>Chnia Mandag Fdd &#x005B;21. Juni&#x005D; &#x002F;41.</dateline>
+<salute>Kj&#x00E6;reste Kone!</salute>
+<p>Dit Brev modtog jeg nu Kl 10 af Schwensen,<note type="commentary"><hi rend="italic">Schwensen</hi>: antagelig l&#x00F8;ytnant i 2. Akershusiske infanteribrigade Carl Fredrik S.</note> hvorpaa jeg bes&#x00F8;rgede Fars. Jeg finder mig i at Du bier til n&#x00E6;ste Mandag, og bliver det vist paa den Dag, saa skulde jeg m&#x00F8;de dig paa Kalbakken t&#x00E6;t ved Grorud. Dog herom faae vi vel endnu vexle et Brev. Br&#x00F8;nden har Du vel benyttet mens Du har v&#x00E6;ret deroppe? Jeg er ogsaa af den Tanke at den burde v&#x00E6;re dig god og isaafald fik jeg nok finde mig i at undv&#x00E6;re dig. Til Du kommer, samt til Fars Ankomst,<note type="commentary"><hi rend="italic">Ankomst</hi>: prost Wergeland st&#x00E5;r blant anmeldte reisende i Hotel de Scandinavie 29. juni.</note> haaber jeg at Facaden skal v&#x00E6;re malt, og Altanen istand.</p>
+<p>Igaar var Iversen<note type="commentary"><hi rend="italic">Iversen</hi>: Carl Oluf I. (1813&#x2013;66), senere oberstl&#x00F8;ytnant, kammerherre, g.m. Cathinca (Stinken) Gertrud Hofmann, comtesse af Trampe (1812&#x2013;57).</note> og jeg budne til Tischendorffs.<note type="commentary"><hi rend="italic">Tischendorffs</hi>: artillerikaptein Carl August Ferdinand T. (1814&#x2013;68), g.m. Sofie Caroline f. Hetting (1813&#x2013;1900); de hadde 5 s&#x00F8;nner.</note> Mandfolkene (Dertil Lieut. Knudsen<note type="commentary"><hi rend="italic">Knudsen</hi>: premierl&#x00F8;ytnant Ole K.</note> og Hagerup)<note type="commentary"><hi rend="italic">Hagerup</hi>: premierl&#x00F8;ytnant Henrik Steffens H. (1806&#x2013;59), senere kapteinl&#x00F8;ytnant, statsr&#x00E5;d (Marinedepartementet).</note> gik over til mig og spillede Keglbillard &#x2013; et Spil der skulde findes i Eidsvoldsbakken &#x2013; og der indfandt sig da ogsaa Damerne, der besaae sig. Jeg trakterede med Punsch og B&#x00F8;rnene med Kager. Du skriver ikke om Fars og Mors Humeur. Skriv mig da derom. Idag kunde jeg ikke komme til Olsen for nu skal Du h&#x00F8;re. Jeg vilde berede General Birch en Overraskelse, og saa arrangerede jeg det da saaledes: Idag Kl 9 indfandt jeg mig hos ham somom ingen Ting var, men strax efter kom en Deputation af B&#x00F8;rn med Skolemesteren i Spidsen og Blomsterqvaste i H&#x00E6;nderne og overrakte ham Sangen<note type="commentary"><hi rend="italic">Sangen</hi>: Asylb&#x00F8;rnenes Sang til sin Velgj&#x00F8;rer, Generalmajor Birch, paa Skj&#x00E6;rsommerdagen 1841, S.S.1:2:348 ff.</note> samt en Krands. De afsang nogle af Versene. I Eftermiddag Kl 5 kommer Generalen ud i Asylet, hvor Sangen skal blive afsjungen og hvor hans Portr&#x00E6;t er blomsterkrandset samt andre Blomsterkrandse anbragte. Fruerne Iversen og Gamborg<note type="commentary"><hi rend="italic">Gamborg</hi>: Else Margrethe G. f. Borgen, g.m. l&#x00F8;ytnant og examinatus juris Peter Christian G.</note> samt Saxild<note type="commentary"><hi rend="italic">Saxild</hi>: r&#x00E5;dmann Erik S. (1787&#x2013;1846).</note> assistere dermed. Tischendorffs gaae ogsaa derud. Hvad synes Du herom? Jeg savner dig, min kj&#x00E6;re Amalie.</p>
+<p>Er Portr&#x00E6;tet<note type="commentary"><hi rend="italic">Portret</hi>: mon det litograferte portrett av Wergeland i bureauchefuniform, utf&#x00F8;rt hos Em. B&#x00E6;rentzen i K&#x00F8;benhavn og utgitt av Guldberg &amp; Dzwonkowski? De portretter som prosten lot den danske maler Carl Peter Lehmann utf&#x00F8;re av en rekke av familien, bl. a. av Henrik og Amalie (nu i Norsk folkemuseum, Thaulow-museet), er fra 1842.</note> forandret i Eidsvoldbakken? I Anledning av et Par Svaler, der har f&#x00E6;stet Rede i et af vore Udhuse, har jeg skrevet indlagte, hvis latinske Overskrift betyder: &#x00AB;godt Varsel!&#x00BB;<note type="commentary"><hi rend="italic">Varsel</hi>: Omen accipio, S.S.1:2:347.</note></p>
+<p>Manden med Kaniner har ikke seet til, da jeg ikke var <pb n="63"/>hjemme da han kom; men jeg vil ikke have at Harald skal l&#x00E6;gge noget ud. Har han gjort det, kan det gaae ind i vor &#x00F8;vrige Mellemregning i Anledning af Overs&#x00E6;ttelserne fra Tydsk.</p>
+<p>Jeg studerer endnu paa den Br&#x00F8;nddrikning for dig, og bebreider mig, at jeg ikke st&#x00E6;rkere indprentede dig at benytte dig deraf, for jeg troer ganske vist, at Du ikke har drukket deraf regelm&#x00E6;ssig. Men drik Velling hver Morgen, bedste Amalie. Jeg vil gj&#x00F8;re den til vor Morgendrik, saa vi skulle blive saa runde og fede som Sm&#x00F8;rklumper.</p>
+<p>Altsaa til Mandag. Men endnu dog et Brev fra dig betids f&#x00F8;r!</p>
+<p>Ved Badet burde v&#x00E6;re et Lejebibliothek. Jeg l&#x00E6;nges ret efter at see det V&#x00E6;sen, men i den Tro, at der er lidet muntert hjemme i Huset, har jeg ikke Lyst dertil. Skriv mig dog hertil derom.</p>
+<p>Min &#x00D8;mhed skal kurere dig, om du har glemt Badet. Jeg skulde</p>
+<p>&#x005B;noen ord overstr&#x00F8;ket.&#x005D;</p>
+<p>Mit Portr&#x00E6;t haaber jeg skal komme op f&#x00F8;r Du reiser ind.</p>
+<p>Med uforandret Kj&#x00E6;rlighed og Hilsener til Moder og Fader</p>
+<signed>Din</signed>
+<signed>Henrik</signed>
+</div>
+<div type="chapter" subtype="envelope">
+<p>&#x005B;Utenp&#x00E5;:&#x005D;<address><addrLine>S.T.</addrLine>
+<addrLine>Fru Amalie Wergeland, <hi rend="italic">Eidsvold Pr&#x00E6;stegd</hi> Ved Even Siggerud.<note type="commentary"><hi rend="italic">Siggerud</hi>: Even J&#x00F8;rgensen fra g&#x00E5;rden Siggerud, &#x00D8;stg&#x00E5;rden, i Eidsvoll.</note></addrLine></address></p>
+</div>
+</div> 
+<div type="chapter" subtype="commentary">
+<p><pb n="64"/>Han hilste Amalie med et dikt da hun kom tilbake, denne gang som s&#x00E5; ofte i hans kj&#x00E6;rlighets f&#x00F8;rste m&#x00E5;neder. Med henne fulgte gleden, lykken, som forsoner med all livets motgang:</p>
+<lg>
+<l>Gudskelov, min hulde Hustru!</l>
+<l>Gudskelov, du engang kommer!</l>
+<l>O, Velsignede, velkommen!</l>
+<l>O velkommen tusind Gange,</l>
+<l>var dit Frav&#x00E6;r ei slig Sorg!</l>
+<l>O med tusind Kys velkommen,</l>
+<l>da dit Frav&#x00E6;r er slig Sorg!</l>
+<l>&#x2013; &#x2013; &#x2013;</l>
+<l>Jeg har l&#x00E6;ngtes, til jeg blegned,</l>
+<l>til mit karske Hjerte sygned,</l>
+<l>aabnet Favnen, fanget Luften,</l>
+<l>til min st&#x00E6;rke Arm nedsegned.</l>
+<l>Du maa troe det &#x2013; ja ved alle</l>
+<l>denne Midnats vaagne Aander! &#x2013;</l>
+<l>skj&#x00F8;ndt imorgen ved dit Hjerte,</l>
+<l>Elskte, du min Kind vil finde</l>
+<l>blussende af Gl&#x00E6;dens Sundhed.</l>
+</lg>
+<p>Om deres lykkelige husliv forteller Amalie: &#x00AB;En af Wergelands kj&#x00E6;reste Sysler var at stelle Haven, og da vi havde faaet vor egen Plet af Jord, havde han det hele Sommeren igjennem meget travelt med at plante og anl&#x00E6;gge Blomsterbed. En frisk Blomst, en om Natten udsprungen Rose, kunde s&#x00E6;tte ham i et sandt festligt Hum&#x00F8;r. S&#x00E6;dvanligvis kom han efter dette Morgenarbejde ind til mig med en liden Buket, som vi delte mellem os &#x2013; selv maatte han som bekjendt altid have en Blomst i Knaphullet.&#x00BB; Svalene hadde festet bo hos ham samtidig med at han selv flyttet inn i &#x00AB;Grotten&#x00BB;, &#x2013; et godt varsel for huset! En tidlig, tidlig sommermorgen blant havens blomster gav inspirasjonen til det skj&#x00F8;nne eventyr om <hi rend="italic">Svalen</hi> som bringer lindring til alle som s&#x00F8;rger og lider. En av dem var hans s&#x00F8;ster p&#x00E5; Jelsa presteg&#x00E5;rd, Augusta Antoinette, hvis lille datter Alethe var d&#x00F8;d:</p>
+</div>
+<div subtype="letter">
+<p><pb n="65"/>UBOslo, Skougaards gave. Ms. in fol. 3409.</p>
+<div type="chapter" subtype="letterpart">
+<salute>Kj&#x00E6;re Svigerinde!</salute>
+<p>Jeg kan ikke nok takke Dem og paaski&#x00F8;nne Deres inderlige Godhed, uagtet Deres eget Huusv&#x00E6;sen paahviler Dem, gjentagne Gange at bes&#x00F8;rge indkj&#x00F8;bt saamange smukke Sager til mig. Det er Alt baade billigt og smukt og til min bedste Tilfredshed; og det saameget mere da jeg selv har fors&#x00F8;mt hvad der var min Pligt at skrive Dem til og takke Dem hjertelig forhen. Forl&#x00E6;ngesiden er jeg helbredet i Foden for den Skavank jeg havde slaaet paa Skinnebenet, som altid er vanskelig til at heles, jeg gik saaledes med det i 9 Uger, uden at smerte saa vilde det ikke l&#x00E6;ges men da jeg blot laae rolig i 2&#x2013;3 Dage saa var det halvejes l&#x00E6;get og i 14 Dage fuldkommen, siden var jeg strax som f&#x00F8;r. Havde jeg ikke v&#x00E6;ret nedsunket i dyb Sorg saa havde det nok kostet mig stor Overvindelse at holde mig rolig, men i den Tilstand var det mig let. I Sandhed den Moder som kunde standse Taarerne og ikke idelig t&#x00E6;nke paa sit hensovede Barn i det f&#x00F8;rste halve Aar, kunde ikke kaldes at s&#x00F8;rge. I de f&#x00F8;rste Uger bag efter var mit Sind omtaaget og mit Hjerte beklemt, men jeg havde saa mange Andre Plager, nemlig at holde de Andre B&#x00F8;rn inde i flere Uger efter Charlagens Feberen, som man med M&#x00F8;je kunde den vakre Vaar og andre Ting som jeg ikke her kan n&#x00E6;vne, men senere da Alt havde jevnet sig og blot min Hjertesorg, det uerstattelige Tab var i mine Tanker idelig og jeg havde Rolighed til at gjennemgaae den mindste Smaating tydelig i Erindringen saa gik jeg som i Dr&#x00F8;mme gr&#x00E6;dende, ved enhver Ting sammenblanded sig Tanken om den bortfarne Engel. I denne sidste Deel af Ugen har jeg f&#x00F8;rst t&#x00E6;nkt tydeligt over En Stund forinden hun d&#x00F8;de. Omtrent en knap 1&#x002F;2 Time forinden det var forbi, laae hun saa rolig og aandet saa let og jeg arme Moder troede at hun var bedre og havde det bedste Haab da jeg haabede at naar det h&#x00F8;jeste af Natten var over saa var hun redded; hendes &#x00D8;jne vare aabne og klare og straalede som Diamanter da Lyset faldt i det &#x00D8;jeblik imod hende, endski&#x00F8;ndt hun havde lyse klare &#x00D8;jne &#x2013; men ak da saae hun sidste gang i denne Verden med Bevidsthed, thi kort f&#x00F8;r havde hun sagt &#x00AB;jeg kommer vist til at d&#x00F8;e&#x00BB; og Ved&#x00F8;e havde nylig tr&#x00F8;stet mig med at det gjerne er det modsatte <pb n="66"/>naar Syge selv siger det. Strax efter begyndte Aandedr&#x00E6;ttet at blive tungere og snart stod jeg ved mit knuste Haab!! Den Alm&#x00E6;gtige! lade mig aldrig leve saadan skr&#x00E6;kkelig Maj Maaned.</p>
+<p>Naar For&#x00E6;ldre elske de gjenstridige B&#x00F8;rn, o! saa kunde man sikkert aldrig nok elske de lydige, taalmodige gode af Hjerte og Gemyt. Derfor kan jeg ikke bebreyde mig at have gjort mit Barn mindre godt end enhver Moder som et saa uventet Slag rammer, men det korte unge Liv naar man vidste at man skulde have denne Gl&#x00E6;de saa kort, saa vilde man gj&#x00F8;re hver Dag til En Festdag en Geburtsdag for dem. Men &#x2013; hvorfor tale om dette vildfarende, dunkle Liv hvor man med aabne og dog tilbundne &#x00D8;jne gaar i et bundl&#x00F8;st Hav af Sorger. Forsynet som ligesom lader En fejle af Vildfarelse, l&#x00E6;gger vel ikke tungere paa end man kan b&#x00E6;re. Fader bebrejder mig ja ski&#x00E6;nder paa mig for min uforanderlige Sorg og siden er det som at jeg er noget mere let tilmode. Jeg vilde &#x00F8;nske at denne gode kj&#x00E6;re Fader ogsaa maatte tage sine Sorger lettere is&#x00E6;r siden han nu virkelig har Gl&#x00E6;de af mange af sine B&#x00F8;rn seer dem vel gifte og boesatte i N&#x00E6;rheden af sig. Det bliver vel ikke saal&#x00E6;nge inden at Nicolaj kan gifte sig heller. &#x2013; Det gl&#x00E6;der mig at De gode Amalie vel snart kan forn&#x00F8;je Dem i at have Deres nye Huus f&#x00E6;rdigt. Til n&#x00E6;ste Vaar skal vi ogsaa begynde at bygge paa vort, Grundmuren er i Sommer lagt. Men Posten venter og det er derfor paa h&#x00F8;j Tid at jeg ender, derfor Lev vel kj&#x00E6;re Amalie og hils min kj&#x00E6;re Broder Henrik fra Deres hengivne og Forbundne</p>
+<signed>Augusta A: Ved&#x00F8;e</signed>
+<dateline>Jels&#x00F8;e l5 Aug. 1841.</dateline>
+</div>
+<div type="chapter" subtype="envelope">
+<p>&#x005B;Utenp&#x00E5;:&#x005D;<address><addrLine>S:T:</addrLine>
+<addrLine>Frue Amalie Wergeland</addrLine>
+<addrLine>bet. a&#x002F;Christiania.</addrLine></address></p>
+</div>
+</div>
+<div type="chapter" subtype="commentary">
+<p>Camilla og Peter Jonas Collett var nu bosatt i Christiania. Prostens s&#x00F8;sters&#x00F8;nn Nicolai Storm Wergeland, som var oppvokset p&#x00E5; presteg&#x00E5;rden i Eidsvoll, feiret bryllup med Sophie Sch&#x00F8;yen den 13. oktober. Noen n&#x00E6;rmere selskabelig omgang mellem disse familier og Henrik og Amalie kunne det ikke bli &#x2013; dertil <pb n="67"/>var motsetningene for dyptg&#x00E5;ende, omgangskretsene for forskjellige.</p>
+<p>Svalen hadde den sommermorgenen ogs&#x00E5; kretset et &#x00F8;yeblikk over Wergeland selv &#x2013; i kampens bitterhet kunne nok ogs&#x00E5; han stundom trenge tr&#x00F8;st &#x2013;; men</p>
+<lg>
+<l rend="indent_1">da den medeet fik see,</l>
+<l rend="indent_1">at jeg endnu kunde lee,</l>
+<l rend="indent_2">at min Vrede</l>
+<l rend="indent_1">i mit Bryst, det blomsterkrandste,</l>
+<l rend="indent_2half">aldrig over Aftnen levte,</l>
+</lg>
+<p>da fl&#x00F8;y den videre.</p>
+<p>Intet kunne knekke hans freidige natur. Men motstanderne n&#x00E5;dde dennegang langt i fors&#x00F8;kene p&#x00E5; &#x00E5; mistenkeliggj&#x00F8;re og isolere ham. Wergelands dypeste sorg var at Daa, hans fordums venn, nu med koldt blod ville &#x00F8;delegge ham som dikter og patriot. Wergelands smerte og harme gav seg s&#x00E5; ville og lidenskabelige uttrykk at hans far fortvilet m&#x00E5;tte samstemme med &#x00AB;Den Constitutionelle&#x00BB; n&#x00E5;r bladet skrev: &#x00AB;Gud bevare hans Forstand!&#x00BB;</p>
+<p>Men i samme blad stod 16. september 1841, under den tyngste kamp, diktet &#x00AB;Min Hustru&#x00BB;, hun som, glad og sikker, &#x00AB;fast har klynget til det vilde Fjeld sit Liv&#x00BB;. Ravnene kan kretse om fjellet, sorte skyer leire seg over det. Men</p>
+<lg>
+<l>&#x2026; hvor kan min Pande skr&#x00E6;mme</l>
+<l>dig med sine Skyers Hast,</l>
+<l>naar du bort dem kan fortrylle,</l>
+<l>deres vrede Rullen t&#x00E6;mme</l>
+<l>med det s&#x00F8;de Solskin i</l>
+<l>eet af dine &#x00D8;iekast?</l>
+</lg>
+<lg>
+<l>Thi hvad er de Skyer andet</l>
+<l>Panden saa omskumles med,</l>
+<l>end kun Skygger af Sekunder,</l>
+<l>som tilh&#x00F8;re Verdens Kivs</l>
+<l>D&#x00F8;gnforl&#x00F8;b, men ei vort livs</l>
+<l>altbegyndte Evighed?</l>
+</lg>
+<p>Efter hvert stilnet de voldsomme feider i aviene av. Om det lykkelige husliv i &#x00AB;Grotten&#x00BB; i de &#x00E5;r som fulgte, om Wergelands <pb n="68"/>vennekrets og husets andre gjester er fortalt i Lassens bok om ham og i innledningen til Folkeutgaven av hans skrifter, bind 7.</p>
+<p>I juleuken og midtsommers h&#x00F8;rte vanligvis et bes&#x00F8;k i Eidsvoll til &#x00E5;rets program. Camilla Collett forteller i &#x00AB;I de lange N&#x00E6;tter&#x00BB; at ved et sjeldent tilfelle var alle barn og svigerbarn sommeren 1843 samlet p&#x00E5; presteg&#x00E5;rden; men her svikter hukommelsen henne. Ved&#x00F8;es var hele sommeren i sitt hjem p&#x00E5; Vestlandet. Oscar hadde v&#x00E6;rt hjemme p&#x00E5; bes&#x00F8;k med sin forlovede, Alethe Sem, en ukes tid i juni, Henrik og Amalie var ogs&#x00E5; en tid der oppe, Camilla med sine to sm&#x00E5; s&#x00F8;nner var presteg&#x00E5;rdens gjester fra sankthanstid av, og leilighetsvis kom Collett til. Da hendte det ufattelige at prestefruen, den &#x00AB;&#x00F8;mme, elskelige, skj&#x00F8;nne Moder&#x00BB;, om morgenen den 14. august sovnet inn i d&#x00F8;den, efter et par dages febersygdom som ingen trodde var alvorlig. Det blev Camilla som sendte s&#x00F8;steren Augusta d&#x00F8;dsbudet. Til Amalie skrev Augusta:</p>
+</div>
+<div subtype="letter">
+<p>UBOslo, Skougaards gave. Ms. in fol. 3409.</p>
+<div type="chapter" subtype="letterpart">
+<salute>Kj&#x00E6;re gode Svigerinde!</salute>
+<p>Hvorledes skal jeg takke Dem for Deres kj&#x00E6;rlige &#x00F8;mhedsfulde Linier! Ja gode Amalie vi betroe Dem med Gl&#x00E6;de vor Rosa. V&#x00E6;r De hendes Moder, og Henrik hendes Fader. Gud give Dem endnu den Gl&#x00E6;de at blive virkelig Moder! Hun er endnu ung og vil h&#x00E6;nge som Et Barn ved Dem. De vil modtage hende naar Dampbaaden kommer sidstegang. Hun var rejsef&#x00E6;rdig forrige gang og skulde rejst til Stavanger med Ved&#x00F8;e forrige Mandag, for at afgaae om Tirsdagen, men her rasede en sand Orkanagtig Storm, saa de f&#x00F8;rst kom af om Tirsdagen. Vi haabede halvejs at Dampbaaden ikke heller var kommen og afgaaet; Ved&#x00F8;e lod hende da v&#x00E6;re tilbage hos Mad. Lie disse 3 Uger og hun lovede at hun skulde faae fuldkommen godt Rejse-Selskab da hun ventede sin F&#x00E6;tter Doctor Didriksen<note type="commentary"><hi rend="italic">Dietrichson</hi>: Peter Wilhelm Krejdahl D. (1817&#x2013;95), cand.med. 1841, g. 1844 m. Canuta Pauline Ditlevine Due.</note> (netop ham som var i Eidsvold, og saaledes bekjendt med Familien) med den imidlertid ankomne Dampbaad, som bringer sin Kj&#x00E6;reste til Bes&#x00F8;g for i Vinter hos sin Familie og derpaa rejser den sidste gang. Jeg er derfor temelig tryg at vor Rosa kommer godt frem. <pb n="69"/>Maaskee han f&#x00F8;rer hende f&#x00F8;rst op til Colletts, og enten der eller paa Bryggen vil De gode Amalie og Henrik finde hende. Gud give at nun maa komme til at gj&#x00F8;re sig fortient til Deres og Faders Kj&#x00E6;rlighed!</p>
+<p>Naar De har seet, kj&#x00E6;re Svigerinde! de andre B&#x00F8;rns Sorg ved vor &#x00F8;mme, opofrende kj&#x00E6;rlige Moders uforventede D&#x00F8;d, saa kan De ogsaa tydelig gj&#x00F8;re Dem Idee om mine F&#x00F8;lelser som Datter, da dette Sorgens Budskab blev mig bragt. Ikke sandt gode Amalia at tvende Ting som Moder og D&#x00F8;d! at der beh&#x00F8;ves n&#x00E6;sten mere end Overbeviisning til at foreene dette. Forgj&#x00E6;ves l&#x00E6;ste jeg Camillas sortforseglede Brev om igjen gjentagne gange i over En Uge, og ligesom dr&#x00F8;mmende fattede jeg undertiden den Troe at det maatte v&#x00E6;re Et V&#x00E6;rk af min egen Indbildning at det inde &#x005B;holdt&#x005D; dette rystende Budskab, men allerede de 3 f&#x00F8;rste Ord maatte gj&#x00F8;re mig denne s&#x00F8;rgelige Sandhed indlysende. Ak! aldrig skal hendes blide &#x00D8;je hvile paa os idet hun svingede paa sig idet hun gik ind ad D&#x00F8;ren &#x2013; &#x2013; Taarerne over vor Moder, saa vel skikked til at leve, har badet mit Ansigt mange gange, men maaskee jeg alligevel med mere Fatning end de Andre har baaret dette Tab, da jeg forhen var h&#x00E6;rdet i dyb Sorg; dengang jeg med mindst Resignation har t&#x00E6;nkt derpaa, var de Dage efter at vi modtog Haralds den stakkels Haralds lange sorgfulde Brev, Henriks med tvungen Fatning og andre Papirer, da fik mine Taarer frit L&#x00F8;b og det af flere Grunde, idet jeg t&#x00E6;nkte mig mine stakkels S&#x00F8;dskende, saalidt Vant til D&#x00F8;d og N&#x00F8;d, omgivne af Alt det s&#x00F8;rgelige i det f&#x00F8;r saa glade Hjem, som is&#x00E6;r i de senere Aar siden jeg var der maa have v&#x00E6;ret det. Gid Den Alm&#x00E6;gtige! styrke dem Alle, ved Troen paa Et bedre hisset, til at b&#x00E6;re dette Savn for os Alle saa smerteligt indtil Tiden lindrer og l&#x00E6;ger.</p>
+<p>Hvor gjerne jeg endnu vilde forl&#x00E6;nge dette Brev gode Amalie, saa da jeg skal skrive til Faer, saa maa jeg slutte med de kj&#x00E6;rligste Hilsener til Dem og Broder. Dog det er sandt noget temmelig n&#x00F8;dvendigt maa jeg endnu tilf&#x00F8;ye. Rosa er som De vist snart vil gj&#x00F8;re Dem bekjendt med meget fors&#x00F8;mt, da jeg til Haand Arbejder ikke har havt Tid at holde hende til nogen Stadighed, is&#x00E6;r har hun denne Sommer formedelst mine mangfoldige Forretninger og fordi hun har havt denne reise i Hovedet ikke v&#x00E6;ret i Stadighed nogensinde, men v&#x00E6;ret meget vimset, <pb n="70"/>hendes hele L&#x00E6;rdom bestaar i at kunne l&#x00E6;se ret godt, Nogen Religjons Kundskab, skrive lidt, Geographie har hun endnu ikke begyndt paa, dog er hun ikke alligevel fuldkommen uvidende heri, men Ved&#x00F8;e har ikke &#x00F8;nsket at hun skulde l&#x00E6;se virkelig endnu. Strikning og S&#x00F8;m er hun meest ustadig ved. Det er derfor mit &#x00D8;nske at De gode Svigerinde! vil see at faae hende indsat i En Pige-Skole, hvor de ikke allene begynde paa Perle-Arbejde og andet lignende overfladisk, men hvor hun kan faae En grundig Underviisning i de simple solide HaandArbejder og Bogkundskaber. Da de vist kan have Valget af flere Steder, og min gode Fader vil s&#x00F8;rge for hende som sit eget Barn, saa er jeg fuldkommen tryg for at mit &#x00D8;nske i denne Henseende opnaaes. Lev da vel kj&#x00E6;reste Svigerinde.</p>
+<dateline>Jels&#x00F8; 13de Aug. &#x005B;&#x0254;: Sept.&#x005D; 1843</dateline> <signed>Deres Augusta Ved&#x00F8;e</signed>
+</div>
+<div type="chapter" subtype="envelope">
+<p>&#x005B;Utenp&#x00E5;:&#x005D;<address><addrLine>Til Frue Amalia Wergeland</addrLine>
+<addrLine>franco a&#x002F; Christiania</addrLine></address></p>
+</div>
+</div>
+<div type="chapter" subtype="commentary">
+<p>Rosalie Ved&#x00F8;e kom til Christiania med &#x00AB;Prinds Carl&#x00BB; den 8. oktober; hun bodde hos sin morfar inntil januar 1844 og derefter et &#x00E5;r i pensjon hos fru Kirstine Aas i Christiania mens hun gikk p&#x00E5; en pikeskole, og siden igjen p&#x00E5; Eidsvoll presteg&#x00E5;rd. Men i &#x00AB;Grotten&#x00BB; bodde en annen skoleelev fra han fylte 7 &#x00E5;r: Wergelands s&#x00F8;nn fra f&#x00F8;r hans ekteskap, Olaf Knudsen (f. 18. sept. 1835, d. 5. mars 1921). Wergeland fikk ham innmeldt p&#x00E5; Nissens skole. I samv&#x00E6;ret med faren i hus og have las grunnen til guttens blomsterkj&#x00E6;rlighet. Hans have p&#x00E5; N&#x00F8;tter&#x00F8;, hvor han var l&#x00E6;rer i 56 &#x00E5;r, blev ber&#x00F8;mt, og han var den f&#x00F8;rste her i landet som tok opp arbeidet for skolehaver. Ogs&#x00E5; Amalies bror Frederiks skolegang tok Wergeland seg av; i flere &#x00E5;r betalte han skolepengene for gutten p&#x00E5; Katedralskolen. Frederik Bekkevold (f. 18. mars 1830, d. 17. jan. 1911), som snart skulle bli en kjent og h&#x00F8;yt beundret sanger, forteller som gammel mann i et brev til fru Elisabeth Brochmann:</p>
+</div>
+<div subtype="letter">
+<p><pb n="71"/>UBOslo, Skougaards gave. Ms. in fol. 3411.</p>
+<div type="chapter" subtype="letterpart">
+<dateline>Christiania 10&#x002F;8 09.</dateline>
+<p>&#x2026; &#x00AB;Jeg var rigtignok Wergelands svoger, men da jeg var opdraget hos min bedstemor &#x2013; af Ihlenslegten &#x2013; og denne for&#x00F8;vrigt pr&#x00E6;gtige kvinde troede at burde st&#x00E6;nge mig helt ude fra enhver smittende omgang med jevnaldrende, var jeg efterhaanden bleven saa menneskesky, at jeg n&#x00E6;sten med magt maatte tvinges til at bes&#x00F8;ge min svoger, hvis djerve, robuste v&#x00E6;sen skr&#x00E6;mte mig.</p>
+<p>Denne sygelige skyhed s&#x00F8;gte W&#x005B;ergeland&#x005D; paa alle maader at modarbeide; han fik mig ind paa Kathedralskolen som frielev, og da han &#x2013; for at bruge mors udtryk &#x2013; havde opdaget min r&#x00F8;st og merket, at naar jeg sang, var jeg ligesom mere frigjort, bad han mig ikke sjelden om at synge smaastumper og folkemelodier, af nationalsange og viser, og min s&#x00F8;ster akkompagnerede mig da stundom paa pianoet. Da han var frisk, h&#x00F8;rte altid &#x00AB;Marseillaisen&#x00BB; til repertoiret, men forresten havde jeg baade paa skolen og af bedstemor l&#x00E6;rt tekst og melodi til ikke faa digte af Oehlenschl&#x00E4;ger, Grundtvig og Ingemann. Hvad jeg sang ved hans d&#x00F8;dsleie, husker jeg ikke med bestemthed; men det var kun et par strofer, jeg magtede at b&#x00E6;re frem.</p>
+<p>Og naar jeg nu t&#x00E6;nker tilbage paa Henrik Wergeland, da ser jeg ham lyslevende for mig, som han laa der paa d&#x00F8;dsleiet med forklaret ro over de &#x00E6;dle, fine tr&#x00E6;k og det milde barnesmil om l&#x00E6;ben. Det var en skj&#x00F8;nhedsaabenbaring. Aldrig vil jeg heller glemme, hvad min mor siden meddelte mig, at under deres sidste samtale havde han beklaget, at han ikke, som han havde haabet og &#x00F8;nsket, kunde blive en st&#x00F8;tte og veileder for mig i studietiden med dens mange og store krav og fristelser. Velsignet v&#x00E6;re hans minde!&#x00BB;</p>
+</div>
+</div>
+<div type="chapter" subtype="commentary">
+<p>1844 &#x2013; det skjebnesvangre &#x00E5;r &#x2013; begynte som vanlig i &#x00AB;Grotten&#x00BB;: rastl&#x00F8;st arbeid, diktning, forsvar mot avisangrep p&#x00E5; Wergelands hylling av Carl Johan i prosa og vers. Dertil kom den overhengende trusel om gjelden efter sluttoppgj&#x00F8;ret i Praem-prosessen og en ny alvorlig konflikt som skyldtes et h&#x00F8;yst ubetenksomt skritt fra Wergelands side mot erkefienden Praem. <pb n="72"/>Men innimellem kamp og travel virksomhet falt glade festdager: &#x00AB;Henrik ruster sig til Maskeraden,&#x00BB; forteller Oscar i januar, &#x00AB;han vil agere S&#x00F8;ndagsj&#x00E6;ger, det vil sige en meget vel bev&#x00E6;bnet og bebrillet og gr&#x00F8;n Person uden Vildt. Det bliver nok en elegant Fest.&#x00BB; Mellem 13. februar og 5. mars oppf&#x00F8;rte Det dramatiske Selskab fem ganger Bjerregaards &#x00AB;Fjeldeventyret&#x00BB; til inntekt for dikterens efterlatte og for Gr&#x00F8;nlands asyl. Amalie spilte ungpiken Ragnhilds rolle, &#x2013; en tolv&#x00E5;ring som fikk v&#x00E6;re med i teatret, byfogd Thraps s&#x00F8;nn Daniel, kunne aldri siden glemme hvor vakker hun var p&#x00E5; scenen.</p>
+<p>2. mai m&#x00E5; Wergeland g&#x00E5; tilsengs, med lungebetennelse og derefter lungetuberkulose. Hans gigantiske &#x00E5;ndskrefter utfolder seg som aldri f&#x00F8;r i hans lange kamp med d&#x00F8;den. Efter menneskelige m&#x00E5;l synes det n&#x00E6;r sagt ufattelig hvad han n&#x00E5;dde &#x00E5; f&#x00E5; utrettet under sitt sykeleie; det var ogs&#x00E5; mere enn han selv regnet med i stunder n&#x00E5;r h&#x00E5;pet om helbredelse sviktet. Endog det herkulesarbeid som l&#x00E5; ham s&#x00E6;rlig p&#x00E5; hjerte, fikk han gjennemf&#x00F8;rt: &#x00E5; omarbeide sitt ungdomsverk &#x00AB;Skabelsen, Mennesket og Messias&#x00BB;, rense ut dets &#x00AB;Forml&#x00F8;sheder og Dunkelheder&#x00BB;, slik at det kunne gi et sannere og klarere uttrykk for hvad han hadde villet, hans syner og fremtidsh&#x00E5;p og tro. Da kirkeklokkene ringet julen inn, skrev han det nye slutningsdikt i verket, &#x00AB;Jesu aandige Opstandelse&#x00BB;, om menneskehetens vei i kommende sekler frem mot paradiset.</p>
+<p>Men han rustet seg, uten frykt, mot d&#x00F8;dens komme. Nytt&#x00E5;rsaften blev den unge jurist Paul Peter Vilhelm Breder, svigers&#x00F8;nn til Wergelands gamle venn presten Iver Hesselberg, tilkalt til &#x00AB;Grotten&#x00BB;:</p>
+</div>
+<div subtype="letter">
+<p>UBOslo, Skougaards gave. Ms. in fol. 3406.</p>
+<div type="chapter" subtype="letterpart">
+<p><hi rend="italic">Niels Andreas Thrap</hi>, Byfoged og Notarius publicus i Christiania, Ridder af Nordstjerne Ordenen, Gj&#x00F8;r vitterligt: at Aar 1844 den 31te December indfandt Notarius publicus sig ved sin eedsvorne Fuldm&#x00E6;gtig, Candidatus juris W. <hi rend="italic">Breder</hi> med tiltaget Vidne hos Bureauchef Wergeland for efter Reqvisition at modtage hans og hans Hustrues sidste Villies-Erkl&#x00E6;ring.</p>
+<p>Hvor da:</p>
+<p>Bureauchef Henrik Wergeland fandtes sengeliggende <pb n="73"/>men ved sin Fornufts fulde Brug ligesom hans Hustru Amalie Sophie Wergeland, f&#x00F8;dt Bekkevold. Begge &#x00C6;gtefolk afgave derpaa f&#x00F8;lgende testamentariske Bestemmelse som deres ufravigelige sidste Villie: &#x00AB;Da vi hidtil i vort &#x00C6;gteskab ingen B&#x00F8;rn have ilive, saa have vi besluttet, ligesom vi herved under Forventning af kongelig naadigst Approbation beslutte, at, naar En af os ved D&#x00F8;den afgaaer, da skal den L&#x00E6;ngstlevende uden Registrering og Skifte eller anden Rettens Mellemkomst og uden Indsigelse af vore Arvinger v&#x00E6;re berettiget til at beholde vort F&#x00E6;lledsboes samtlige faste og l&#x00F8;se Eiendele, af hvad Navn n&#x00E6;vnes kan, Forlagsrettighed til Skrivter derunder indbefattet, med fuld og uindskr&#x00E6;nket Eiendomsret. Naar vi begge ved D&#x00F8;den ere afgaaede, da skulle den L&#x00E6;ngstlevendes Arvinger efter Loven v&#x00E6;re alene arveberettigede til det hele Bo, saafremt ikke den L&#x00E6;ngstlevende ved Testament maatte have disponeret over samme. Det er derhos en Selvf&#x00F8;lge, at saafremt vi efterlade os sammenavlede B&#x00F8;rn, tr&#x00E6;der dette Testamente ud af Kraft.&#x00BB;</p>
+<p>Efterat det Tilførte var opl&#x00E6;st og paany vedtaget at Bureauchef Henrik Arnold Wergeland og Hustru Amalie Sophie, f&#x00F8;dt Bekkevold som et lovgyldigt Testamente, blev Forretningen sluttet.</p>
+<signed>Breder. Som Notarialvidne: A. O. Western.</signed>
+</div>
+<div type="chapter" subtype="postscript">
+<p>Saaledes at v&#x00E6;re passeret bekr&#x00E6;ftes under Haand og Embedssegl. For Notarius publicus Breder edsv: Fuldm. Herfor er betalt: Beskrivelse 40 s, Bekreftning 4o s. Er: otti Skilling. I sal&#x00E6;r er forhen betalt 2 &#x2013; 3 ort &#x2013;&#x00BB; Spd. Breder.<note type="footNote">Lest Chra. byting 14&#x002F;8 1845; kgl. konfirmasjon 14&#x002F;7 1845, undertegnet av L&#x00F8;venskiold og statsr&#x00E5;der; betalt med 40 specidaler.</note></p>
+</div>
+</div>
+<div type="chapter" subtype="commentary">
+<p>Han m&#x00E5;tte tenke p&#x00E5; &#x00E5; sikre Amalies fremtid n&#x00E5;r han falt fra, og for &#x00E5; bedre &#x00F8;konomien besluttet han seg med tungt hjerte til &#x00E5; selge deres kj&#x00E6;re hus. Diktet om en tenkt &#x00AB;Auktion over &#x2039;Grotten&#x203A;&#x00BB; blev sendt hans venn Nils C. T&#x00F8;nsberg; smerten ved oppdruddet vil hun hjelpe &#x00E5; b&#x00E6;re:</p>
+<lg><l rend="indent_1"><pb n="74"/>Kom, kj&#x00E6;re Viv!</l>
+<l rend="indent_1">Din Haand mig giv!</l>
+<l>Paany begynde vi et Liv.</l>
+<l>Men er det v&#x00E6;rd? Hvis Du er tr&#x00E6;t,</l>
+<l>da lad os gaa til Gud.</l>
+<l>&#x2026;</l>
+<l>O! Stjernen blinked ikke saa,</l>
+<l>saa blaaned S&#x00F8;en ei,</l>
+<l rend="indent_1">som hendes Blik;</l>
+<l rend="indent_1">en Straale kvik</l>
+<l>mod Himlen skj&#x00F8;d, en &#x00F8;m jeg fik &#x2026;</l>
+<l>Kom, Viv! nu kan vi tr&#x00F8;stig gaa</l>
+<l>i Verden ud vor Vei.</l>
+</lg>
+<p>T&#x00F8;nsberg kj&#x00F8;pte &#x00AB;Grotten&#x00BB;. Takket v&#x00E6;re salget kunne Wergeland kj&#x00F8;pe tomt og f&#x00E5; bygget &#x00AB;Hjerterum&#x00BB; ved Pilestredet; planleggelsen og byggingen moret ham, og voldte ham mange &#x00E6;rgrelser, over de uetterrettelige h&#x00E5;ndverkere. Amalie m&#x00E5;tte stadig se efter hvordan arbeidet gikk der nede.</p>
+<p>I breve til sin far forteller han om dagens bekymringer og dens gleder. Av og til overtar Amalie brevskrivningen:</p>
+</div>
+<div subtype="letter">
+<p>UBOslo ms. in fol. 584 D 4.</p>
+<div type="chapter" subtype="letterpart">
+<dateline>1st Paaskedag &#x005B;23. mars 1845.&#x005D;</dateline>
+<salute>Kj&#x00E6;re Far!</salute>
+<p>Jeg maa &#x00D8;ieblikkelig fortelle Far det gl&#x00E6;delige der hendtes os i Gaar &#x2013; i Skumringen kom Kammerherre S&#x00F8;rensen op, med de venligste Hilsener og Tak for det smukke Digt &#x2013; og overrakte en Ring som Dronningen havde levert ham &#x2013; og bedet sige at de &#x00F8;nskede Henrik vilde b&#x00E6;re den som Erindring om Majest&#x00E6;terne. &#x2013; Intet om Henriks og min Gl&#x00E6;de, thi Far vil f&#x00F8;le det samme &#x2013; den er endnu smukkere end Brystnaalen og sikkert af h&#x00F8;iere V&#x00E6;rdi &#x2013; En Ametyst og 50 smaa Diamanter omkring &#x2013; kj&#x00E6;re Far; jeg kan ikke takke Gud nok, hvor Henrik under sin Sygdom har saa meget der opmuntrer ham. Henrik har vel skrevet til Far at jeg i Gr&#x00F8;nlands Asyl var saa lykkelig at faa tale med de Kongelige og at Dronningen for hvem Damerne var forestilt naadigst spurgte til Henrik og &#x00F8;nsket god Bedring. Kongen talte jeg endnu l&#x00E6;ngere med uden at han vidste mit Navn &#x2013; <pb n="75"/>men t&#x00E6;nk min Gl&#x00E6;de, kj&#x00E6;re Far, da hans Majest&#x00E6;t ved Kammerherren lod mig sige han ikke f&#x00F8;rend han sad i Vognen fik vide jeg var Wergelands Kone, ellers vilde han mundtlig &#x00E6;rkyndiget sig om Henrik og sendt sin Hilsen. &#x2013; Jeg har bes&#x00F8;gt de Damer Henrik har skrevet til Far om &#x2013; de er overmaade elskv&#x00E6;rdige og t&#x00E6;kkelige, is&#x00E6;r den blinde. De har bedet om Tilladelse til oftere at bes&#x00F8;ge os som naturligviis er os en stor Forn&#x00F8;ielse &#x2013;. De 2 Damer boer i Kongegaarden &#x2013; og Demoaselle Zuck ved siden af &#x2013; men jeg traf dem samlet hos Fr&#x00F8;ken B&#x00F6;ttiger. Jeg har maatte love at komme ned endnu en Gang, maaskee jeg da kan faa see de Kongelige &#x2013; thi da jeg var der, var de ude og kj&#x00F8;rte. &#x2013; Far synes vel jeg skulde begyndt mit Brev med det vigtigste, Henriks Tilstand, men den er aldeles ved det samme, ikke v&#x00E6;rre kj&#x00E6;re Far og jeg haaber trods L&#x00E6;gens Udsagn det bedste &#x2013; vi har rigtignok en frygtelig Vind i disse Dage &#x2013; og den generer Henrik meget selv da han var aldeles frisk &#x2013; Om vort Huus kan jeg kun sige jeg haaber det bliver f&#x00E6;rdigt endskj&#x00F8;ndt det endnu ikke er Tag paa &#x2013; og lader den gode Gud Henrik leve &#x2013; skal vi nok faae det hyggeligt der &#x2013; skulde Huuset mod al Forventning ikke blive f&#x00E6;rdigt til Flyttedag vil Henrik for en 8te Dags Tid flytte paa Hospitalet &#x2013; og jeg, kj&#x00E6;re Far, vil idetmindste v&#x00E6;re der fra tidlige Morgen til Aften hvis jeg ikke kan blive der om Natten. &#x2013; Tusind Tak for Kubbestolene jeg finder dem &#x00E6;rv&#x00E6;rdige. &#x2013;</p>
+<p>Lev vel gode kj&#x00E6;re Fader og v&#x00E6;r kj&#x00E6;rligst<lb/>hilset fra begge Eders B&#x00F8;rn.</p>
+</div>
+<div type="chapter" subtype="postscript"><p>P.S.</p>
+<p>Madame Knudsen fra Eidsvold var oppe med Camilla og jeg i Byen &#x2013; men Henrik sagde dem at jeg var et &#x00C6;rende for ham &#x2013; jeg var nemlig henne og kj&#x00F8;bte et par Kakkelovne, thi det er meget vi selv maa see ud endskj&#x00F8;ndt vi har Akort, men han betaler ofte saa dyrt vi frygter han kommer tilkort.</p>
+<p>Henrik beder Far istedenfor Kalvekj&#x00F8;d som De var saa god at love ham, at sende lidt r&#x00F8;get Faarekj&#x00F8;d eller Fisk &#x2013;</p>
+</div>
+<div type="chapter" subtype="envelope">
+<p>&#x005B;Utenp&#x00E5;:&#x005D;<address><addrLine>S.T.</addrLine>
+<addrLine>Hr Provst Wergeland</addrLine></address></p>
+</div>
+</div>
+<div type="chapter" subtype="commentary">
+<p><pb n="76"/>&#x00AB;Amalie har smukke &#x00D8;ine og Esprit, saa hun klarer sig godt under slige Omstendigheder&#x00BB;, skriver Henrik hjem til prosten. Han forteller om gavene fra kong Oscar og dronning Josephine, om Amalies samtaler med dem og visittene av hoffpersonale: dronningens overhoffmesterinne, den blinde dame Babette Z&#x00FC;ch, kammerfruen fr&#x00F8;ken Augusta B&#x00F6;ttiger, kammerherren oberst (senere generalmajor&#x005D; Frederik Moltke S&#x00F8;renssen. Han visste hvor h&#x00F8;yt alt dette ville glede den gamle. Barndomsvenninnen Wilhelmine (Mina) Knudsen f&#x00F8;dt Sissener har selv fortalt om sitt bes&#x00F8;k hos den syke (&#x00AB;Minner fra Eidsvoll&#x00BB;, 1946, s. 56 ff.).</p>
+<p>Flyttedagen kom, og 15. april var det meningen at han skulle b&#x00E6;res til Rikshospitalet for &#x00E5; bli der til &#x00AB;Hjerterum&#x00BB; var fullstendig innredet. Amalie forteller: &#x00AB;Aldrig har jeg gaaet en tungere Gang. Da vi kom til Huset, lod han Port&#x00F8;rerne stanse udenfor; han vilde se sit Hjem &#x2013; saaledes kaldte han det allerede &#x2013; og gik nok saa rask md ad Porten. Jeg havde flyttet hans Seng, Fuglebur, Blomster o.s.v., og gjort alt for at han skulde modtage et godt Indtryk; thi jeg anede at han vilde derind. Men han vilde heller ikke l&#x00E6;nger; &#x00AB;Her vil jeg d&#x00F8;,&#x00BB; sagde han.&#x00BB;&#x00BB; Imidlertid fant dr. Conradi det altfor risikabelt for den syke &#x00E5; ligge i det uferdige hus, ennu r&#x00E5;tt og med st&#x00F8;y fra h&#x00E5;ndverkere, og for dagene 20. til 30. april m&#x00E5;tte patienten allikevel flyttes til hospitalet. &#x00AB;Hvor glad han blev den Dag jeg meldte ham, at han kunde flytte hjem! Han syntes atter i nogle Dage at blive bedre, og begyndte paany at arbeide.&#x00BB;</p>
+</div>
+<div subtype="letter">
+<p>UBOslo ms. in fol. 584 D 4.</p>
+<div type="chapter" subtype="letterpart">
+<salute>Kj&#x00E6;re gode Fader!</salute>
+<p>Det gl&#x00E6;der inderlig Henrik og mig at see at Far t&#x00E6;nker paa at komme til Byen &#x2013; jeg skal vist gj&#x00F8;re alt for at Far kan finde sig godt i vort lille Hjerterum. &#x2013; Jeg kan ikke sige hvor det gl&#x00E6;der og opmuntrer mig naar vi faae Brev hjemme fra. Det forekommer mig ogsaa som Fars Hilsen til mig i den sidste Tid aander mere Kj&#x00E6;rlighed end jeg et Aars Tid har v&#x00E6;ret vant til. Det r&#x00F8;rer mig usigelig og jeg velsigner min kj&#x00E6;re Fader tusinde Gange, og jeg skal aldrig gj&#x00F8;re mig uv&#x00E6;rdig til at elskes af min <pb n="77"/>Henriks Fader. &#x2013; Da Far fik Henriks sidste Brev, var han meget daarlig, men som Far formoder, det var is&#x00E6;r Veiret der havde saa slette Indflydelse, og lidt bedre er han Gudskelov nu. Ingen kan bedre end En &#x00F8;m Fader vide hvad en Kone lider der seer en elsket Mand i saa lang Tid f&#x00E6;ngslet til Sygeleiet &#x2013; min eneste Tr&#x00F8;st at Henrik f&#x00F8;ler jeg gjerne vilde opofre Alt for ham &#x2013; og jeg er istand til at gj&#x00F8;re ham tilpas. &#x2013; Jeg vilde i Dag sendt Far 12 Appelsiner, men da Erik havde ondt for at faa dem med og Camilla fortalte hun nylig havde sendt Far nogle, bies til bedre Leilighed &#x2013; &#x2013; Nu er Veiret godt og jeg haaber alt deraf. Fremmede Folk gaar ud og ind, derfor den kj&#x00E6;rligste Hilsen &#x2013; (maaske Henrik skriver) &#x2013; og velkommen. &#x2013; Far bedes i et Par Ord lade mig vide Dagen De kan ventes af &#x2013;</p>
+<dateline>&#x005B;22&#x002F;5.&#x005D;</dateline>
+<signed>Eders Amalie.</signed>
+</div>
+</div>
+<div type="chapter" subtype="commentary">
+<p>Prosten var gjest i det nye hjem fra de siste dagene i mai til 7. juni. Kvinnelige slektninger fra Christiansand kom p&#x00E5; sykevisitt, bes&#x00E5; &#x00AB;Hjerterum&#x00BB; &#x2013; Henriks &#x00AB;nydelige Dukkehuus&#x00BB; &#x2013; og fant den gamle herre &#x00AB;sidde ved et brilliant Frokostbord, nok saa vel tilfreds&#x00BB;.</p>
+<p>Fra presteg&#x00E5;rden kom stadig Erik med brev og sendinger &#x2013; til og med en levende liten gris. Henrik takker for den i sitt brev den 29. juni: &#x00AB;Tak for den s&#x00F8;de lille Dronning Pomarre! Hun lever i h&#x00F8;jeste Velgaaende, og hvem kunde ogsaa slagte et saadant Vidunder af Skj&#x00F8;nhed.&#x00BB;</p>
+<p>Lektor ved Universitetet og overl&#x00E6;ge ved Rikshospitalet dr. Andreas C. Conradi hadde avl&#x00F8;st John Andreas Lie som Wergelands l&#x00E6;ge. &#x2013; Presten Nils Nilss&#x00F8;n Dahl, res. kapellan til Melhus, var denne tid i Christiania som stortingsmann &#x2013; Wergelands gode venn; h&#x00F8;sten forrige &#x00E5;r hadde han skrevet et varmtf&#x00F8;lt dikt til den syke, og Wergeland hadde svart med dikt:</p>
+<lg>
+<l>Giv mig en Flaske Sundhedsviin,</l>
+<l>og tag mit Renomee!</l>
+<l>&#x2026;</l>
+<l>Men giv du mig dit Hjertelag,</l>
+<l>og tag saa mit igjen!</l>
+<l>Det Bytte troer jeg saa omtrent</l>
+<l>gaaer op i op, min Ven.</l>
+</lg>
+</div>
+<div subtype="letter">
+<p><pb n="78"/>UBOslo ms. in fol. 584 D 4.</p>
+<div type="chapter" subtype="letterpart">
+<salute>Kj&#x00E6;re Fader!</salute>
+<p>For lang Tid siden skulde jeg skrevet og takket Far for den lille Gris, som Henrik fandt saa vakker, at den blev skj&#x00E6;nket Livet &#x2013; &#x2013;</p>
+<p>Vi har haft nogle frygtelige Dage ikke at tale om N&#x00E6;tterne, og da Lie var bortreist sendte jeg Bud til Conradi &#x2013; thi Lie havde ikke givet mig det mindste til Henrik hvor voldsom Hosten end blev &#x2013; men af Conradi har jeg faaet Draaber baade styrkende og beroligende saa jeg med mindre Frygt &#x005B;har&#x005D; seet Natten im&#x00F8;de. Pr&#x00E6;sten Dahl er en velsignet Mand som jeg er meget glad ved daglig bes&#x00F8;ger Henrik &#x2013; En Pause da Conradi var her &#x2013; han har lovet mig at see hid n&#x00E6;sten daglig &#x2013; og Far kan aldrig troe hvor glad jeg er derfor, thi jeg seer godt den gode Indflydelse Conradis N&#x00E6;rv&#x00E6;relse ud&#x00F8;ver paa Henrik &#x2013; is&#x00E6;r paa hans Sind. Jeg havde saa meget at skrive Far til om, men &#x005B;Ord&#x005D; vilde &#x005B;blive&#x005D; tomme &#x2013; og det vilde blodt nedstemme Dem, min kj&#x00E6;re gode Far. Henriks Appetit er fremdeles udm&#x00E6;rket. For Sm&#x00F8;ret takkes meget.</p>
+<p>Lev vel, kj&#x00E6;re far, og hav i venlig Erindring</p>
+<signed>Deres <hi rend="italic">Amalie</hi></signed>
+<dateline>&#x005B;Ca. 29. juni 1845.&#x005D;</dateline>
+</div>
+</div>
+<div type="chapter" subtype="commentary">
+<p>9. juli skrev Wergeland den siste av sine livsskisser i &#x00AB;Hassel-N&#x00F8;dder&#x00BB;. Dagen efter ville han diktere noen rettelser til det siste lille skuespill han hadde syslet med, &#x00AB;Fjeldstuen&#x00BB;; men Amalies bevegelse overveldet henne: &#x00AB;jeg kunde ikke selv l&#x00E6;se hvad jeg skrev&#x00BB;, og da sa han: &#x00AB;Jeg har altid forlangt formeget; tilgiv mig.&#x00BB;</p>
+<p>Som f&#x00F8;rste punkt i sin &#x00AB;sidste Vilje&#x00BB; skrev Wergeland en dag i juni 1845: &#x00AB;Skulde min Fader ikke v&#x00E6;re tilstede naar Gud kalder mig, bedes min Broder Oscar at overbringe ham Budskabet. Hans N&#x00E6;rv&#x00E6;r vil maaskee hindre, at den svage Livstraad brister.&#x00BB;</p>
+<p>I sommerukene var l&#x00F8;ytnant Oscar p&#x00E5; eksersis med kadettene. Da prosten fikk et brev i hende, med sort lakksegl og sendt med ilbud fra svigers&#x00F8;nnen Collett, skj&#x00F8;nte han nok hvad det inneholdt:</p>
+</div>
+<div subtype="letter">
+<p><pb n="79"/>UBOslo ms. in fol. 584.</p>
+<div type="chapter" subtype="letterpart">
+<dateline>L&#x00F8;verdag 12te Juli 1845.</dateline>
+<p>I Oscars Frav&#x00E6;relse er den Lod falden paa mig at bringe Provsten Efterretningen om Henriks Henfart, en Efterretning, paa hvilken jeg veed Provsten er fattet, i hvor tung den end altid maa v&#x00E6;re, naar den endelig kommer. Han d&#x00F8;de idag Morges Kl 1 1&#x002F;2. I de to sidste Dage have hans L&#x00E6;ger &#x2013; Lie og Conradi &#x2013; fra &#x00D8;ieblik til &#x00D8;ieblik ventet hans Opl&#x00F8;sning, hans st&#x00E6;rke Natur har dog beseiret D&#x00F8;den lige indtil nu. En st&#x00E6;rk Anvendelse af Opium og Nafta har dog vel bidraget meget til at vedligeholde den svage Livsgnist saa l&#x00E6;nge. I det sidste D&#x00F8;gn har han med en enkelt Afbrydelse v&#x00E6;ret uden Smerter, ligesom Bevidstheden ikke forlod ham f&#x00F8;r i de sidste &#x00D8;ieblikke. Han var for et Par Dage siden meget &#x00E6;ngstelig for at skulle d&#x00F8; ved Qv&#x00E6;lning, en D&#x00F8;d, der skal v&#x00E6;re meget smertefuld formedelst den &#x00C6;ngstelse, hvoraf den er ledsaget; dette indtraf dog ikke; han slumrede ganske roligt og let hen. &#x2013; Endnu igaar skrev han nogle Linier; han har i de sidste Dage beskj&#x00E6;ftiget sig med et lidet Skuespil saavelsom med sine Livsskizzer. Amalie har i de sidste Dage v&#x00E6;ret i en meget heftig og exalteret Sindsstemning; nu er hun dog meget rolig og fattet; hun har lidt meget Stakkel, Gud veed hvor mange N&#x00E6;tter hun har v&#x00E6;ret paafode i Rad; hendes Moder og S&#x00F8;ster have dog redeligen staaet hende bi. Jeg var hos hende i dette &#x00D8;ieblik. T&#x00F8;nsberg har Henrik selv valgt til hendes Laugsv&#x00E6;rge og han vil sikkert v&#x00E6;re hende til stor Assistance i <hi rend="italic">denne</hi> Tid, hvori Oscar er frav&#x00E6;rende og jeg beskj&#x00E6;ftiget paa Universitetet lige fra Morgenen til langt paa Eftermiddagen. &#x2013; Provsten kommer formodentlig herind om faa Dage; hvis De i den Tid vil tage tiltakke hos os, vil Camilla gj&#x00F8;re det saa beqvemt for Dem som muligt; des n&#x00E6;rmere er De S&#x00F8;rgehuset. Tager De Laura med, er der vist Plads for hende hos Alette. &#x2013; Camilla hilser paa det Venligste.</p>
+<signed>Deres</signed>
+<signed>J. Collett</signed>
+</div>
+<div type="chapter" subtype="envelope">
+<p>&#x005B;Utenp&#x00E5;:&#x005D;<address><addrLine>Hr.</addrLine>
+<addrLine>Provst Wergeland</addrLine>
+<addrLine>Ved Expresse. Eidsvold Pr&#x00E6;steg.</addrLine></address></p>
+</div>
+</div>
+<div type="chapter" subtype="commentary">
+<p><pb n="80"/>Imidlertid kom ogs&#x00E5; Oscar inn fra Sandviken:</p>
+</div>
+<div subtype="letter">
+<dateline>Christiania L&#x00F8;rdag 12te Juli 1845.</dateline>
+<salute>Kj&#x00E6;re Fader!</salute>
+<p>Da jeg kom til Byen en Tour idag underrettet Alethe mig om, at Henrik inat Kl. 3 hensov i en rolig D&#x00F8;d. Jeg gaaer snart hen til Amalie, men vil forinden melde Dig denne s&#x00F8;rgelige Efterretning, for om muligt at faae den afsted idag, da jeg i modsat Fald maa vente til Tirsdag. Maaskee Amalie er upasselig, saaat hun ikke kan skrive.</p>
+<p>Da jeg reiste til Kj&#x00F8;rboe, sagde jeg rigtignok Henrik Farvel, og han troede ikke at kunne leve til idag, men jeg haabede dog at see ham endnu engang; men jeg blev skuffet.</p>
+<p>Alethe tilf&#x00F8;ier, at han havde en ganske mild D&#x00F8;d og at han havde sin Bevidsthed indtil sidste &#x00D8;jeblik. Pastor Dahl var hos ham.</p>
+<p>V&#x00E6;r nu ikke altfor bedr&#x00F8;vet kj&#x00E6;re Faderl Henrik havde ikke v&#x00E6;ret tilfreds med et l&#x00E6;ngere Liv uden Helbred. Han &#x00F8;nskede jo ogsaa selv at d&#x00F8;e.</p>
+<signed>Din hengivne S&#x00F8;n</signed>
+<signed>Oscar.</signed>
+</div>
+<div type="chapter" subtype="commentary">
+<p>En almuesmann i Eidsvoll, Carl Jensen Dokkenmoen, skrev til prosten: &#x00AB;Jeg Antager at selve Dyrene og fuglene maatte give sin s&#x00F8;rge sang over Hans Grav Naar de af Natturen havde sanser dertil.&#x00BB;</p>
+<p><figure rend="shortHorizRule"/></p>
+<p>I Wergelands &#x00AB;Min sidste Vilje&#x00BB; heter det til slutt: &#x00AB;Jeg tager det kj&#x00E6;rligste Levvel fra min elskede herligt udrustede Hustru. Det er mit &#x00D8;nske, at hun maatte erholde og modtage et v&#x00E6;rdigt Tilbud.&#x00BB;</p>
+<p>Den 21. august 1846 blev Amalie Wergeland viet til den prest som hadde forrettet ved Wergelands begravelse, dav&#x00E6;rende hjelpeprest hos stiftsprosten i Christiania, Nils Andreas Bi&#x00F8;rn (1807&#x2013;87; Bi&#x00F8;rn var siden mai 1844 selv enkemann, med fem barn).</p>
+</div>
+<div subtype="letter">
+<p><pb n="81"/>UBOslo, Skougaards gave Ms. in fol. 3409.</p>
+<div type="chapter" subtype="letterpart">
+<salute>Kj&#x00E6;re Amalie.</salute>
+<p>Din forestaaende Forbindelse med en saa v&#x00E6;rdig Mand anseer jeg for en Lykke for dig. Jeg har derfor modtaget denne Efterretning med Gl&#x00E6;de.</p>
+<p>Ved din Laugv&#x00E6;rge er nu alt opgjort imellem os, og, som han forsikkrede mig, til din fuldkomne Tilfredshed.</p>
+<p>Ogsaa dermed er jeg ret forn&#x00F8;jet, da vort Mellemv&#x00E6;rende hidtil ogsaa har v&#x00E6;ret en Gjenstand for mine Bekymringer.</p>
+<p>Laura og Rosa og Jeg hilse<lb/>venligst. &#x2013;</p>
+<dateline>Eidsvold 14 Juli 1846. &#x2013;</dateline>
+<signed>N. Wergeland.</signed>
+</div>
+<div type="chapter" subtype="envelope">
+<p>&#x005B;Utenp&#x00E5;:&#x005D;<address><addrLine>S:T:</addrLine>
+<addrLine>Fru Amalie Wergeland</addrLine>
+<addrLine>Hjerterum</addrLine>
+<addrLine>Chrstiania.</addrLine></address></p>
+</div>
+</div>
+<div type="chapter" subtype="commentary">
+<p>P&#x00E5; brevet har Amalie Bi&#x00F8;rn skrevet: &#x00AB;Fars sidste Brev &#x2013; da jeg skulde giftes med Bi&#x00F8;rn &#x2013;&#x00BB;</p>
+<p>Bi&#x00F8;rn blev sogneprest til Leksvik i Nord-Tr&#x00F8;ndelag 1850 og til Nordre Aurdal i Valdres 1863. Amalie blev enke for annen gang 14. august 1887. Hun d&#x00F8;de 27. oktober 1889. Ekteparet Bi&#x00F8;rn fikk &#x00E5;tte barn. Den f&#x00F8;rstef&#x00F8;dte kom til verden 16. mai 1847 og blev d&#x00F8;bt i Vor Frelsers kirke 7. juli med navnet Henrik Arnold Wergeland.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

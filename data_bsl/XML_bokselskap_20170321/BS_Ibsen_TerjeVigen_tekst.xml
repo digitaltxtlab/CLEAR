@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://www.nslnorge.no/tekster/NSL_texts.xsl"?>
+<!DOCTYPE TEI PUBLIC "-// NSL Norge //EN" "http://www.nslnorge.no/tekster/NSL_tei_xinclude.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="BS_Ibsen_TerjeVigen">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>bokselskap.no
+<lb/>Henrik Ibsen: <hi rend="italic">Terje Vigen</hi></title>
+</titleStmt>
+<publicationStmt><p>Publiseres som digital tekst av bokselskap.no.</p></publicationStmt>
+<sourceDesc>
+<p>Tekst hentet fra runberg.org/ibsen/.</p>
+</sourceDesc>
+</fileDesc>
+<revisionDesc>
+<change xml:id="ENW" who="ENW" when="2011-02-22">Kodet om filen til xml. Kjapp korrektur p&#x00E5; FU. Kodekontroll.</change>
+</revisionDesc>
+</teiHeader>
+<text xml:id="BS_Ibsen_TerjeVigen_tekst" type="collection">
+<front>
+<titlePage type="main">
+<byline><docAuthor>Henrik Ibsen</docAuthor></byline>
+<docTitle>
+<titlePart type="main">Terje Vigen</titlePart>
+</docTitle>
+<docDate>1862<note type="footnote">Teksten i bokselskap.no f&#x00F8;lger <hi rend="italic">Samlede v&#x00E6;rker</hi> (&#x00AB;Folkeudgaven&#x00BB;), bind 4, 1899, og er basert p&#x00E5; tekst hentet fra Runeberg-prosjektet (runeberg.org/ibsen).</note></docDate>
+</titlePage>
+<div type="chapter" subtype="illustration">
+<figure><graphic url="images/TerjeVigen.jpg"/></figure>
+</div>
+</front>
+<body>
+<div type="chapter" subtype="poem">
+<lg>
+<l>Der bode en underlig gr&#x00E5;spr&#x00E6;ngt en</l>
+<l>p&#x00E5; den yderste, n&#x00F8;gne &#x00F8;; &#x2013;</l>
+<l>han gjorde visst intet menneske m&#x00E9;n</l>
+<l>hverken p&#x00E5; land eller sj&#x00F8;;</l>
+<l>dog stundom gnistred hans &#x00F8;jne stygt, &#x2013;</l>
+<l>helst mot uroligt vejr, &#x2013;</l>
+<l>og da mente folk, at han var forrykt,</l>
+<l>og da var der f&#x00E5;, som uden frygt</l>
+<l>kom Terje Vigen n&#x00E6;r.</l>
+</lg>
+<lg>
+<l>Siden jeg s&#x00E5; ham en enkelt gang,</l>
+<l>han l&#x00E5; ved bryggen med fisk;</l>
+<l>hans h&#x00E5;r var hvidt, men han lo og sang</l>
+<l>og var som en ungdom frisk.</l>
+<l>Til pigerne havde han sk&#x00E6;mtsomme ord,</l>
+<l>han sp&#x00F8;gte med byens b&#x00F8;rn,</l>
+<l>han svinged sydvesten og sprang ombord;</l>
+<l>s&#x00E5; hejste han fokken, og hjem han foer</l>
+<l>i solskin, den gamle &#x00F8;rn.</l>
+</lg>
+<lg>
+<l>Nu skal jeg fortelle, hvad jeg har h&#x00F8;rt</l>
+<l>om Terje fra f&#x00F8;rst til sidst,</l>
+<l>og skulle det stundom falde lidt t&#x00F8;rt,</l>
+<l>s&#x00E5; er det dog sandt og visst;</l>
+<l>jeg har det just ej fra hans egen mund,</l>
+<l>men vel fra hans n&#x00E6;rmeste kreds, &#x2013;</l>
+<l>fra dem, som stod hos i hans sidste stund</l>
+<l>og lukked hans &#x00F8;jne til fredens blund,</l>
+<l>da han d&#x00F8;de h&#x00F8;jt opp&#x0027;i de treds.</l>
+</lg>
+<lg>
+<l>Han var i sin ungdom en vild krabat,</l>
+<l>kom tidlig fra far og mor,</l>
+<l>og havde alt d&#x00F8;jet mangen dravat</l>
+<l>som yngste jungmand ombord.</l>
+<l>Siden han r&#x00F8;mte i Amsterdam,</l>
+<l>men l&#x00E6;ngtes nok hjem tilslut.</l>
+<l>og kom med &#x00AB;Foreningen&#x00BB;, kaptejn Pram;</l>
+<l>men hjemme var ingen, som kendte ham,</l>
+<l>der rejste som liden gut.</l>
+</lg>
+<lg>
+<l>Nu var han vokset sig smuk og stor,</l>
+<l>og var dertil en velkl&#x00E6;dt kn&#x00E6;gt.</l>
+<l>Men d&#x00F8;de var b&#x00E5;de far og mor,</l>
+<l>og sagtens hans hele sl&#x00E6;gt.</l>
+<l>Han stured en dag, ja kanh&#x00E6;nde to, &#x2013;</l>
+<l>men s&#x00E5; rysted han sorgen af.</l>
+<l>Han fandt ej, med landjorden under sig, ro;</l>
+<l>nej, da var det bedre at bygge og bo</l>
+<l>p&#x00E5; det store b&#x00F8;lgende hav!</l>
+</lg>
+<lg>
+<l>Et &#x00E5;r derefter var Terje gift, &#x2013;</l>
+<l>det kom nok p&#x00E5; i en hast.</l>
+<l>Folk mente, han angred p&#x00E5; den bedrift,</l>
+<l>som bandt p&#x00E5; et s&#x00E6;t ham fast.</l>
+<l>S&#x00E5; leved han under sit eget tag</l>
+<l>en vinter i sus og dus &#x2013;</l>
+<l>sk&#x00F8;nt ruderne skinned, som klareste dag,</l>
+<l>med sm&#x00E5; gardiner og blomster bag,</l>
+<l>i det lille r&#x00F8;dmalte hus.</l>
+</lg>
+<lg>
+<l>Da isen l&#x00F8;sned for lindvejrs b&#x00F8;r,</l>
+<l>gik Terje med briggen p&#x00E5; rejs;</l>
+<l>om h&#x00F8;sten, da gr&#x00E5;g&#x00E5;sen fl&#x00F8;j mod s&#x00F8;r,</l>
+<l>han m&#x00F8;dte den undervejs.</l>
+<l>Da faldt som en v&#x00E6;gt p&#x00E5; matrosens bryst:</l>
+<l>han kendte sig st&#x00E6;rk og ung,</l>
+<l>han kom fra solskinnets lysende kyst,</l>
+<l>agter l&#x00E5; verden med liv og lyst, &#x2013;</l>
+<l>og for bougen en vinter tung.</l>
+</lg>
+<lg>
+<l>De ankred, og kammeraterne gik</l>
+<l>med landlov til sus og dus.</l>
+<l>Han sendte dem endnu et l&#x00E6;ngselsblik,</l>
+<l>da han stod ved sit lille hus.</l>
+<l>Han glytted ind bag det hvide gardin, &#x2013;</l>
+<l>da s&#x00E5; han i stuen to, &#x2013;</l>
+<l>hans kone sad stille og hespled lin,</l>
+<l>men i vuggen l&#x00E5;, frisk og r&#x00F8;d og fin,</l>
+<l>en liden pige og lo.</l>
+</lg>
+<lg>
+<l>Der sagdes, at Terjes sind med et</l>
+<l>fik alvor fra denne stund.</l>
+<l>Han tr&#x00E6;lled og sled og blev aldrig tr&#x00E6;t</l>
+<l>af at vugge sit barn i blund.</l>
+<l>Om s&#x00F8;ndagskvelden, n&#x00E5;r dansen klang</l>
+<l>vildt fra den n&#x00E6;rmeste g&#x00E5;rd,</l>
+<l>sine gladeste viser han hjemme sang,</l>
+<l>mens lille Anna l&#x00E5; p&#x00E5; hans fang</l>
+<l>og drog i hans brune h&#x00E5;r.</l>
+</lg>
+<lg>
+<l>S&#x00E5; lakked og led det til krigens &#x00E5;r</l>
+<l>i attenhundred og ni.</l>
+<l>Endnu g&#x00E5;r sagn om de tr&#x00E6;ngsels-k&#x00E5;r,</l>
+<l>som folket da stedtes i.</l>
+<l>Engelske krydsere st&#x00E6;ngte hver havn,</l>
+<l>i landet var misv&#x00E6;kst og n&#x00F8;d,</l>
+<l>den fattige sulted, den rige led savn,</l>
+<l>to kraftige arme var ingen til gavn,</l>
+<l>for d&#x00F8;ren stod sot og d&#x00F8;d.</l>
+</lg>
+<lg>
+<l>Da stured Terje en dag eller to,</l>
+<l>s&#x00E5; rysted han sorgen af;</l>
+<l>han mindtes en kending, gammel og tro:</l>
+<l>det store b&#x00F8;lgende hav.&#x2013;</l>
+<l>Der vester har endnu hans gerning liv</l>
+<l>i sagnet, som djerveste d&#x00E5;d:</l>
+<l>&#x00AB;da vinden kuled lidt mindre stiv,</l>
+<l>Terje Vigen rode for barn og viv</l>
+<l>over havet i &#x00E5;ben b&#x00E5;d!&#x00BB;</l>
+</lg>
+<lg>
+<l>Den mindste sk&#x00E6;gte, der var at f&#x00E5;,</l>
+<l>blev valgt til hans Skagensfart.</l>
+<l>Sejl og mast lod han hjemme st&#x00E5;, &#x2013;</l>
+<l>sligt tyktes han bedst bevart.</l>
+<l>Han mente nok, Terje, at b&#x00E5;den bar,</l>
+<l>om sj&#x00F8;en kom lidt p&#x00E5;tvers;</l>
+<l>det jydske rev var vel sv&#x00E6;rt at g&#x00E5; klar, &#x2013;</l>
+<l>men v&#x00E6;rre den engelske &#x00AB;Man of war&#x00BB;</l>
+<l>med &#x00F8;rne&#x00F8;jne fra mers.</l>
+</lg>
+<lg>
+<l>S&#x00E5; gav han sig tr&#x00F8;stig lykken i vold</l>
+<l>og tog til &#x00E5;rerne hvast.</l>
+<l>Til Fladstrand kom han i god behold</l>
+<l>og hented sin dyre last.</l>
+<l>Gud v&#x00E9;d, hans f&#x00F8;ring var ikke stor:</l>
+<l>tre t&#x00F8;nder byg, det var alt;</l>
+<l>men Terje kom fra en fattig jord, &#x2013;</l>
+<l>nu havde han livsens frelse ombord;</l>
+<l>det var hustru og barn det gjaldt.</l>
+</lg>
+<lg>
+<l>Tre n&#x00E6;tter og dage til toften bandt</l>
+<l>den st&#x00E6;rke, modige mand;</l>
+<l>den fjerde morgen, da solen randt,</l>
+<l>han skimted en t&#x00E5;get rand.</l>
+<l>Det var ikke flygtende skyer han s&#x00E5;,</l>
+<l>det var fjelde med tinder og skar;</l>
+<l>men h&#x00F8;jt over alle &#x00E5;sene l&#x00E5;</l>
+<l>Imen&#x00E6;s-sadlen bred og bl&#x00E5;.</l>
+<l>Da kendte han, hvor han var.</l>
+</lg>
+<lg>
+<l>N&#x00E6;r hjemmet var han: en stakket tid</l>
+<l>han holder endnu vel ud!</l>
+<l>Hans hjerte sig l&#x00F8;fted i tro og lid,</l>
+<l>han var n&#x00E6;r ved en b&#x00F8;n til Gud.</l>
+<l>Da var det som ordet fr&#x00F8;s p&#x00E5; hans mund;</l>
+<l>han stirred, han tog ikke fejl, &#x2013;</l>
+<l>gennem skodden, som letted i samme stund,</l>
+<l>han s&#x00E5; en korvett i Hesn&#x00E6;s-sund</l>
+<l>at duve for bakkede sejl.</l>
+</lg>
+<lg>
+<l>B&#x00E5;den var r&#x00F8;bet; der l&#x00F8;d et signal,</l>
+<l>og det n&#x00E6;rmeste l&#x00F8;b var lukt;</l>
+<l>men solgangsvinden blafrede skral, &#x2013;</l>
+<l>mod vester gik Terjes flugt.</l>
+<l>Da firte de jollen fra r&#x00E6;lingens kant,</l>
+<l>han h&#x00F8;rte matrosernes sang, &#x2013; &#x2013;</l>
+<l>med f&#x00F8;dderne stemte mod sk&#x00E6;gtens spant</l>
+<l>han rode s&#x00E5; sj&#x00F8;en fossed og brandt,</l>
+<l>og blodet fra neglerne sprang.</l>
+</lg>
+<lg>
+<l>G&#x00E6;slingen kaldes de blinde sk&#x00E6;r</l>
+<l>lidt &#x00F8;stenfor Homborg-sund.</l>
+<l>Der bryder det stygt i p&#x00E5;landsvejr,</l>
+<l>under to fod vand er der bund.</l>
+<l>Der spr&#x00F8;jter det hvidt, der glitrer det gult,</l>
+<l>selv stilleste havbliksdag; &#x2013;</l>
+<l>men g&#x00E5;r end d&#x00F8;nningen aldrig s&#x00E5; hult,</l>
+<l>indenfor er det som tidest smult,</l>
+<l>med br&#x00E6;kkede b&#x00F8;lgedrag.</l>
+</lg>
+<lg>
+<l>Didind Terje Vigens sk&#x00E6;gte foer</l>
+<l>lig en pil mellem br&#x00E5;tt og brand;</l>
+<l>men bag efter ham, i k&#x00F8;lvandets spor,</l>
+<l>jog jollen med femten mand.</l>
+<l>Da var det han skreg gennem br&#x00E6;ndingens sus</l>
+<l>til Gud i sin h&#x00F8;jeste n&#x00F8;d:</l>
+<l>&#x00AB;inderst derinde p&#x00E5; strandens grus</l>
+<l>sidder min viv ved det fattige hus,</l>
+<l>og venter med barnet p&#x00E5; br&#x00F8;d!&#x00BB;</l>
+</lg>
+<lg>
+<l>Dog, h&#x00F8;jere skreg nok de femten, end han:</l>
+<l>som ved Lyng&#x00F8;r, s&#x00E5; gik det her.</l>
+<l>Lykken er med den engelske mand</l>
+<l>p&#x00E5; rov mellem Norges sk&#x00E6;r.</l>
+<l>Da Terje t&#x00F8;rned mod b&#x00E5;ens top,</l>
+<l>da skured og jollen p&#x00E5; grund;</l>
+<l>fra stavnen b&#x00F8;d officeren &#x00AB;stop!&#x00BB;</l>
+<l>Han h&#x00E6;ved en &#x00E5;re med bladet op</l>
+<l>og hug den i sk&#x00E6;gtens bund.</l>
+</lg>
+<lg>
+<l>Spant og planker for hugget brast,</l>
+<l>sj&#x00F8;en stod ind som en fos;</l>
+<l>p&#x00E5; to fod vand sank den dyre last,</l>
+<l>dog sank ikke Terjes trods.</l>
+<l>Han slog sig gennem de v&#x00E6;bnede m&#x00E6;nd</l>
+<l>og sprang over &#x00E6;singen ud, &#x2013;</l>
+<l>han dukked og sv&#x00F8;mmed og dukked igen;</l>
+<l>men jollen kom los; hvor han vendte sig hen</l>
+<l>klang sabler og rifleskud.</l>
+</lg>
+<lg>
+<l>De fisked ham op, han f&#x00F8;rtes ombord,</l>
+<l>korvetten gav sejerssalut;</l>
+<l>agter p&#x00E5; hytten, stolt og stor</l>
+<l>stod chefen, en atten&#x00E5;rs gut.</l>
+<l>Hans f&#x00F8;rste batallie gjaldt Terjes b&#x00E5;d,</l>
+<l>thi knejste han nu s&#x00E5; k&#x00E6;k;</l>
+<l>men Terje vidste ej l&#x00E6;ngere r&#x00E5;d, &#x2013;</l>
+<l>den st&#x00E6;rke mand l&#x00E5; med b&#x00F8;n og gr&#x00E5;d</l>
+<l>ikn&#x00E6; p&#x00E5; korvettens d&#x00E6;k.</l>
+</lg>
+<lg>
+<l>Han k&#x00F8;bte med t&#x00E5;rer, de solgte ham smil,</l>
+<l>de &#x00E5;gred med spot for b&#x00F8;n.</l>
+<l>Det kuled fra &#x00F8;ster, tilhavs med il</l>
+<l>stod Englands sejrende s&#x00F8;n.</l>
+<l>Da taug Terje Vigen; nu var det gjort,</l>
+<l>nu tog han sin sorg for sig selv.</l>
+<l>Men de, som ham fanged, fandt s&#x00E6;rt hvor fort</l>
+<l>et noget var ligesom vejret bort</l>
+<l>fra hans pandes skyede hv&#x00E6;lv.</l>
+</lg>
+<lg>
+<l>Han sad i &#x00AB;prisonen&#x00BB; i lange &#x00E5;r,</l>
+<l>der siges i fulde fem;</l>
+<l>hans nakke b&#x00F8;jed sig, gr&#x00E5;t blev hans h&#x00E5;r</l>
+<l>af dr&#x00F8;mmene om hans hjem.</l>
+<l>Noget han bar p&#x00E5;, men gav ej besked, &#x2013;</l>
+<l>det var som hans eneste skat.</l>
+<l>S&#x00E5; kom attenhundred og fjorten med fred;</l>
+<l>de norske fanger, og Terje med,</l>
+<l>f&#x00F8;rtes hjem p&#x00E5; en svensk fregat.</l>
+</lg>
+<lg>
+<l>Hjemme ved bryggen han steg iland</l>
+<l>med kongens patent som lods;</l>
+<l>men f&#x00E5; kun kendte den gr&#x00E5;spr&#x00E6;ngte mand,</l>
+<l>der rejste som ung matros.</l>
+<l>Hans hus var en fremmeds; hvad der blev av</l>
+<l>de to, &#x2013; han derinde erfor:</l>
+<l>&#x00AB;da manden forlod dem og ingen dem gav,</l>
+<l>s&#x00E5; fik de til slutning en f&#x00E6;lles grav</l>
+<l>af kommunen i fattigfolks jord.&#x00BB; &#x2013; &#x2013;</l>
+</lg>
+<lg>
+<l>&#x00C5;rene gik og han r&#x00F8;gted sin dont</l>
+<l>som lods p&#x00E5; den yderste &#x00F8;;</l>
+<l>han gjorde visst intet menneske ondt,</l>
+<l>hverken p&#x00E5; land eller sj&#x00F8;;</l>
+<l>men stundom gnistred hans &#x00F8;jne stygt,</l>
+<l>n&#x00E5;r det br&#x00F8;d over b&#x00E5;er og sk&#x00E6;r, &#x2013;</l>
+<l>og da mente folk; at han var forrykt,</l>
+<l>og da var det f&#x00E5;, som uden frygt</l>
+<l>kom Terje Vigen n&#x00E6;r.</l>
+</lg>
+<lg>
+<l>En m&#x00E5;neskinskveld med p&#x00E5;landsvind</l>
+<l>kom der liv i lodsernes flok;</l>
+<l>en engelsk yacht drev mod kysten ind</l>
+<l>med revnet storsejl og fok.</l>
+<l>Fra fortoppen sendte det r&#x00F8;de flag</l>
+<l>et n&#x00F8;dskrig foruden ord.</l>
+<l>Lidt indenfor gik der en b&#x00E5;d over stag,</l>
+<l>den vandt sig mod uvejret slag for slag,</l>
+<l>og lodsen stod stout ombord.</l>
+</lg>
+<lg>
+<l>Han tyktes s&#x00E5; tryg, den gr&#x00E5;spr&#x00E6;ngte mand;</l>
+<l>lig en k&#x00E6;mpe i rattet han grep; &#x2013;</l>
+<l>yachten lystred, stod atter fra land,</l>
+<l>og b&#x00E5;den svam efter p&#x00E5; sl&#x00E6;b.</l>
+<l>Lorden, med lady og barn i arm,</l>
+<l>kom agter, han tog til sin hat:</l>
+<l>&#x00AB;jeg g&#x00F8;r dig s&#x00E5; rig, som du nu er arm,</l>
+<l>hvis frelste du b&#x00E6;r os af br&#x00E6;ndingens larm.&#x00BB; &#x2013;</l>
+<l>Men lodsen slap ror og rat.</l>
+</lg>
+<lg>
+<l>Han hvidned om kinden, det lo om hans mund,</l>
+<l>lig et smil, der omsider f&#x00E5;r magt.</l>
+<l>Indover bar det, og h&#x00F8;jt p&#x00E5; grund</l>
+<l>stod lordens pr&#x00E6;gtige yacht.</l>
+<l>&#x00AB;Den svigted kommando! I b&#x00E5;dene ned!</l>
+<l>Mylord og mylady med mig!</l>
+<l>Den sl&#x00E5;r sig i splinter, &#x2013; jeg v&#x00E9;d besked &#x2013;</l>
+<l>men indenfor ligger den trygge led;</l>
+<l>mit k&#x00F8;l-spor skal vise jer vej!&#x00BB;</l>
+</lg>
+<lg>
+<l>Morilden br&#x00E6;ndte der sk&#x00E6;gten fl&#x00F8;j</l>
+<l>mod land med sin dyre last.</l>
+<l>Agter stod lodsen, st&#x00E6;rk og h&#x00F8;j,</l>
+<l>hans &#x00F8;je var vildt og hvast.</l>
+<l>Han skotted i l&#x00E6; mod G&#x00E6;slingens top,</l>
+<l>og til luvart mod Hesn&#x00E6;s-sund;</l>
+<l>da slap han ror og stagsejl-strop,</l>
+<l>han svinged en &#x00E5;re med bladet op</l>
+<l>og hug den i b&#x00E5;dens bund.</l>
+</lg>
+<lg>
+<l>Ind stod sj&#x00F8;en med skumhvidt spr&#x00F8;jt &#x2013; &#x2013;</l>
+<l>der raste p&#x00E5; vraget en strid &#x2013;;</l>
+<l>men moderen l&#x00F8;fted sin datter h&#x00F8;jt</l>
+<l>p&#x00E5; armen, af r&#x00E6;dsel hvid.</l>
+<l>&#x00AB;Anna, mit barn!&#x00BB; hun skreg i sin ve;</l>
+<l>da b&#x00E6;vred den gr&#x00E5;spr&#x00E6;ngte mand;</l>
+<l>han fatted om sk&#x00F8;det, drev roret i l&#x00E6;,</l>
+<l>og b&#x00E5;den var fast som en fugl at se,</l>
+<l>slig foer den i br&#x00E5;tt og brand.</l>
+</lg>
+<lg>
+<l>Den t&#x00F8;rned, de sank; men havet var smult</l>
+<l>derindenfor br&#x00E6;ndingens kreds;</l>
+<l>opover rak sig en langgrund skjult,</l>
+<l>der stod de i vand tilkn&#x00E6;s.</l>
+<l>Da r&#x00E5;bte lorden: &#x00AB;kend &#x2013; b&#x00E5;ens ryg &#x2013;</l>
+<l>den svigter, &#x2013; det er ingen flu!&#x00BB;</l>
+<l>Men lodsen smilte: &#x00AB;nej v&#x00E6;r De tryg;</l>
+<l>en sunken sk&#x00E6;gte med tre t&#x00F8;nder byg</l>
+<l>er b&#x00E5;en, som b&#x00E6;r os nu.&#x00BB;</l>
+</lg>
+<lg>
+<l>Der jog et minde om halvglemt d&#x00E5;d</l>
+<l>lig et lyn over lordens tr&#x00E6;k &#x2013;,</l>
+<l>han kendte matrosen, som l&#x00E5; med gr&#x00E5;d</l>
+<l>ikn&#x00E6; p&#x00E5; korvettens d&#x00E6;k!</l>
+<l>Da skreg Terje Vigen: &#x00AB;alt mit du holdt</l>
+<l>i din h&#x00E5;nd, og du slap det for ros.</l>
+<l>Et &#x00F8;jeblik endnu, og geng&#x00E6;ld er voldt &#x2013; &#x2013;&#x00BB;</l>
+<l>da var det den engelske stormand stolt</l>
+<l>b&#x00F8;jed kn&#x00E6; for den norske lods.</l>
+</lg>
+<lg>
+<l>Men Terje stod st&#x00F8;ttet til &#x00E5;rens skaft,</l>
+<l>s&#x00E5; rank som i ungdommens &#x00E5;r;</l>
+<l>hans &#x00F8;jne brandt med ub&#x00E6;ndig kraft,</l>
+<l>for vinden flommed hans h&#x00E5;r.</l>
+<l>&#x00AB;Du sejled imag p&#x00E5; din store korvet,</l>
+<l>jeg rode min ringe b&#x00E5;d;</l>
+<l>jeg tr&#x00E6;lled for mine til d&#x00F8;den tr&#x00E6;t,</l>
+<l>du tog deres br&#x00F8;d, og det faldt dig s&#x00E5; let</l>
+<l>at h&#x00E5;ne min bittre gr&#x00E5;d.</l>
+</lg>
+<lg>
+<l>Din rige lady er lys som en v&#x00E5;r,</l>
+<l>hendes h&#x00E5;nd er som silke fin, &#x2013;</l>
+<l><emph>min</emph> hustrus h&#x00E5;nd den var grov og h&#x00E5;rd;</l>
+<l>men hun var nu alligevel min.</l>
+<l><emph>Dit</emph> barn har guldh&#x00E5;r og &#x00F8;jne bl&#x00E5;,</l>
+<l>som en liden Vorherres g&#x00E6;st;</l>
+<l><emph>min</emph> datter var intet at agte p&#x00E5;,</l>
+<l>hun var, Gud bedre det, mager og gr&#x00E5;,</l>
+<l>som fattigfolks b&#x00F8;rn er flest.</l>
+</lg>
+<lg>
+<l>Se, <emph>det</emph> var min rigdom p&#x00E5; denne jord,</l>
+<l>det var alt, hvad jeg kaldte for mit.</l>
+<l>Det tyktes for mig en skat s&#x00E5; stor;</l>
+<l>men det vejed for dig s&#x00E5; lidt. &#x2013;</l>
+<l>Nu er det geng&#x00E6;ldelsens time sl&#x00E5;r, &#x2013;</l>
+<l>thi nu skal du friste en stund,</l>
+<l>som vel kommer op mod de lange &#x00E5;r,</l>
+<l>der b&#x00F8;jed min nakke og blegte mit h&#x00E5;r</l>
+<l>og s&#x00E6;nkte min lykke p&#x00E5; grund.&#x00BB;</l>
+</lg>
+<lg>
+<l>Barnet han greb og svinged det frit,</l>
+<l>med den venstre om ladyens liv.</l>
+<l>&#x00AB;Tilbage, mylord! Et eneste skridt, &#x2013;</l>
+<l>og det koster dig barn og viv!&#x00BB;</l>
+<l>P&#x00E5; sprang stod Britten til kamp p&#x00E5;ny;</l>
+<l>men armen var veg og mat; &#x2013;</l>
+<l>hans &#x00E5;nde br&#x00E6;ndte, hans &#x00F8;jne var sky,</l>
+<l>og hans h&#x00E5;r &#x2013; s&#x00E5; kendtes ved f&#x00F8;rste gry &#x2013;</l>
+<l>blev gr&#x00E5;t i den eneste nat.</l>
+</lg>
+<lg>
+<l>Men Terjes pande bar klarhed og fred,</l>
+<l>hans bringe gik frit og stilt.</l>
+<l>&#x00C6;rb&#x00F8;dig l&#x00F8;fted han barnet ned,</l>
+<l>og kyssed dets h&#x00E6;nder mildt.</l>
+<l>Han &#x00E5;nded, som l&#x00F8;st fra et f&#x00E6;ngsels hv&#x00E6;lv,</l>
+<l>hans stemme l&#x00F8;d rolig og j&#x00E6;vn:</l>
+<l>&#x00AB;nu er Terje Vigen igen sig selv.</l>
+<l>Indtil <emph>nu</emph> gik mit blod som en stenet elv;</l>
+<l>for jeg <emph>m&#x00E5;tte</emph> &#x2013; jeg <emph>m&#x00E5;tte</emph> ha&#x0027;e h&#x00E6;vn!</l>
+</lg>
+<lg>
+<l>De lange &#x00E5;r i &#x00AB;prisonens&#x00BB; kvalm,</l>
+<l>de gjorde mit hjerte sygt.</l>
+<l>Bagefter l&#x00E5; jeg som hejens halm,</l>
+<l>og s&#x00E5; i et br&#x00E5;dyb stygt.</l>
+<l>Men nu er det over; vi to er kvit;</l>
+<l>din skyldner foer ej med svig.</l>
+<l>Jeg gav det jeg havde, &#x2013; du tog alt mit,</l>
+<l>og kr&#x00E6;v, om du tror du har uret lidt,</l>
+<l>Vorherre, som skabte mig slig.&#x00BB; &#x2013; &#x2013;</l>
+</lg>
+<lg>
+<l>Da dagningen lyste var hvermand frelst;</l>
+<l>yachten l&#x00E5; l&#x00E6;ngst i havn.</l>
+<l>Med nattens saga taug de nok helst,</l>
+<l>men vidt foer dog Terjes navn.</l>
+<l>Dr&#x00F8;mmenes uvejrsskyer gr&#x00E5;</l>
+<l>fejed en stormnat v&#x00E6;k;</l>
+<l>og Terje bar atter s&#x00E5; rank, som f&#x00E5;</l>
+<l>den nakke, der kr&#x00F8;gtes hin dag han l&#x00E5;</l>
+<l>ikn&#x00E6; p&#x00E5; korvettens d&#x00E6;k.</l>
+</lg>
+<lg>
+<l>Lorden kom, og mylady med,</l>
+<l>og mange, mange med dem;</l>
+<l>de rysted hans h&#x00E5;nd til farvel og Guds fred,</l>
+<l>der de stod i hans ringe hjem.</l>
+<l>De takked for frelsen da stormen peb,</l>
+<l>for frelsen fra sj&#x00F8;gang og sk&#x00E6;r;</l>
+<l>men Terje str&#x00F8;g over barnets sl&#x00E6;b:</l>
+<l>&#x00AB;nej, den som frelste, da v&#x00E6;rst det kneb,</l>
+<l>det var nok den lille <emph>der?</emph>&#x00BB; &#x2013; &#x2013;</l>
+</lg>
+<lg>
+<l>Da yachten drejed for Hesn&#x00E6;s-sund,</l>
+<l>den heiste det norske flag.</l>
+<l>Lidt l&#x00E6;ngere vest er en skumkl&#x00E6;dt grund, &#x2013;</l>
+<l><emph>der</emph> gav den det glatte lag.</l>
+<l>Da tindred en t&#x00E5;re i Terjes blik;</l>
+<l>han stirred fra hejen ud:</l>
+<l>&#x00AB;stort har jeg mistet, men stort jeg fik.</l>
+<l>Bedst var det, kan h&#x00E6;nde, det gik, som det gik, &#x2013;</l>
+<l>og s&#x00E5; f&#x00E5;r du ha&#x0027;e tak da, Gud!&#x00BB;</l>
+</lg>
+<lg>
+<l>Slig var det jeg s&#x00E5; ham en enkelt gang,</l>
+<l>han l&#x00E5; ved bryggen med fisk.</l>
+<l>Hans h&#x00E5;r var hvidt, men han lo og sang,</l>
+<l>og var som en ungdom frisk.</l>
+<l>Til pigerne havde han sk&#x00E6;mtsomme ord,</l>
+<l>han sp&#x00F8;gte med byens b&#x00F8;rn;</l>
+<l>han svinged sydvesten og sprang ombord,</l>
+<l>s&#x00E5; hejste han fokken, og hjem han foer</l>
+<l>i solskin, den gamle &#x00F8;rn.</l>
+</lg>
+<lg>
+<l>Ved Fj&#x00E6;re kirke jeg s&#x00E5; en grav,</l>
+<l>den l&#x00E5; p&#x00E5; en vejrh&#x00E5;rd plet;</l>
+<l>den var ikke sk&#x00F8;ttet, var sunket og lav,</l>
+<l>men bar dog sit sorte br&#x00E6;t.</l>
+<l><emph>Der</emph> stod &#x00AB;Th&#x00E6;rie Wiighen&#x00BB; med hvidmalt skrift,</l>
+<l>samt &#x00E5;ret, han hvile fandt. &#x2013;</l>
+<l>Han lagdes for solbrand og vindes vift,</l>
+<l>og derfor blev gr&#x00E6;sset s&#x00E5; stridt og stivt,</l>
+<l>men med vilde blomster iblandt.</l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

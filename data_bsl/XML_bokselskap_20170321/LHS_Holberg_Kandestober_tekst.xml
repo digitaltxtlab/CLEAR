@@ -1,0 +1,1399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI PUBLIC "-// NSL Norge //EN" "http://www.bokselskap.no/tekstkoding/NSL_tei_xinclude.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="LHS_Holberg_Kandestober">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>bokselskap.no/Ludvig Holbergs Skrifter 2014
+<lb/>Ludvig Holberg: <hi rend="italic">Den Politiske Kandstøber</hi>
+<lb/><lb/>Teksten f&#x00F8;lger <hi rend="italic">Hans Mikkelsens Comoedier</hi>, tome I, 1723 og er basert p&#x00E5; xml-fil mottatt fra Ludvig Holbergs skrifter. For tekstkritisk apparat, kommentarer og innledning om tilblivelse, bakgrunn etc., se <ref type="external" target="http://holbergsskrifter.no/holberg-public/view?docId=skuespill/Den_Politiske_Kandstoeber/Kandst.page">Ludvig Holbergs skrifter</ref>.</title>
+</titleStmt>
+<publicationStmt><p>Publiseres som digital tekst av Ludvig Holbergs Skrifter/bokselskap.no.</p></publicationStmt>
+<sourceDesc>
+<p>Fil (Kandst.page) mottatt fra Ludvig Holbergs Skrifter november 2014.</p>
+</sourceDesc>
+</fileDesc>
+<revisionDesc>
+<change xml:id="ENW" who="ENW" when="2014-11-28">Kodet om filen til bokselskap-xml. Kodekontroll.</change>
+</revisionDesc>
+</teiHeader>
+<text xml:id="LHS_Holberg_Kandestober_tekst" type="drama">
+<front>
+<titlePage type="main">
+<byline><docAuthor>Ludvig Holberg</docAuthor></byline>
+<docTitle>
+<titlePart type="main">Den Politiske Kandstøber</titlePart>
+<titlePart type="sub">Com&#x0153;die</titlePart>
+</docTitle>
+<docDate>1723</docDate>
+<lb/><lb/><docImprint>bokselskap.no/Ludvig Holbergs Skrifter 2014</docImprint>
+</titlePage>
+<div xml:id="contents">
+<list type="contents_main">
+<item><ref target="chapter_1" xml:id="contents_1">Act. I.</ref></item>
+<item><ref target="chapter_2" xml:id="contents_2">Act. II.</ref></item>
+<item><ref target="chapter_3" xml:id="contents_3">Act. III.</ref></item>
+<item><ref target="chapter_4" xml:id="contents_4">Act. IV.</ref></item>
+<item><ref target="chapter_5" xml:id="contents_5">Act. V.</ref></item>
+</list>
+</div>
+<div type="chapter" subtype="castlist">
+<castList>
+<head>Hoved-Personerne udi Com&#x0153;dien:</head>
+<castItem><role>Herman</role> <roleDesc>von Bremen.</roleDesc> <actor>M. Ulsø.</actor></castItem>
+<castItem><role>Geske</role> <roleDesc>hans Hustru.</roleDesc> <actor>Mad. Montaigu.</actor></castItem>
+<castItem><role>Engelke</role> <roleDesc>hans Datter.</roleDesc> <actor>Mad. Coffre.</actor></castItem>
+<castItem><role>Antonius</role> <roleDesc>hendes Beiler.</roleDesc> <actor>M. Piloi.</actor></castItem>
+<castItem><role>Henrich</role> <roleDesc>Tieneren.</roleDesc> <actor>M. Wegner.</actor></castItem>
+<castItem><role>Anecke</role> <roleDesc>Piigen.</roleDesc> <actor>Mad. Lerke.</actor></castItem>
+</castList>
+</div>
+</front>
+<body>
+
+<div type="chapter" subtype="act" n="1">
+<head type="main"><ref type="contents" target="contents_1" xml:id="chapter_1">ACT. I.</ref></head>
+
+<div type="chapter" subtype="scene" n="1_1">
+<head type="main"><ref type="contents" target="contents_1_1" xml:id="chapter_1_1">Sc. 1.</ref></head>
+<sp><speaker>Antonius.</speaker>
+<p>Jeg kand svære paa, at mit Hierte sidder mig i min Hals; thi jeg skal tale med Mester Herman, og begiære hans Datter, som jeg lenge har været forlovet med, men hemmelig. Dette er den tredie gang jeg har været paa Veyen, men er gaaen tilbage igien. Var det icke for Skam skyld og den Bebreydelse jeg maa lide af min Moor, saa gick det ligesaa til denne gang. Det er en naturlig Feyl og Frygtagtighed, som jeg icke let kand overvinde; hver gang jeg vil bancke paa Dørren, er det ligesom een vil holde min Haand tilbage. Men frisk Mod, Antonius, er halv Tæring, det hielper icke, du maa dertil. Jeg maa pynte lidt paa mig først; thi Folck siger, at Mester Herman er bleven curiøsk paa nogen Tid.</p>
+<stage>Hand tar sin Hals-Klud af, og binder den om igien, tar en Kam af Lommen og kemmer sit Haar, bøster sine Skoe.</stage>
+<p>Nu troer jeg nock, at jeg saa vidt kand passere, nu maa jeg bancke paa. See! saa sant jeg er ærlig, er det icke ligesom een holder min Haand. Ej! corrasi Antonius, jeg veed, du har jo intet ondt giort: jeg kand jo icke faa meer end ney.</p>
+<stage>Bancker paa.</stage></sp>
+</div>
+<div type="chapter" subtype="scene" n="1_2">
+<head type="main"><ref type="contents" target="contents_1_2" xml:id="chapter_1_2">Sc. 2.</ref></head>
+<stage>Henrich. Antonius.</stage>
+<sp><speaker>Henrich</speaker>
+<stage>ædende paa et Smørre-Brød.</stage>
+<p>Serviteur Mester Antoni, hvem vil I tale med?</p></sp>
+<sp><speaker>Antonius.</speaker>
+<p>Jeg vilde tale med Mester Herman, om hand var alleene.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Jo mænd, hand er endelig alleene, men sidder og læser.</p></sp>
+<sp><speaker>Antonius.</speaker>
+<p>Da er hand meer gudfrygtig end jeg.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Dersom der kom en Forordning ud, at Herculus skulle være en Postill, saa troer jeg, hand skulle kunde præke, naar det skulle være.</p></sp>
+<sp><speaker>Antonius.</speaker>
+<p>Men har hand saa Stunder formedelst sit Arbeyd at læse i saadane Bøger?</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>I skal agte, at Hosbond har toe Bestillinger: Hand er baade Kandestøber og Politicus.</p></sp>
+<sp><speaker>Antonius.</speaker>
+<p>Det riimer sig meget lidet sammen.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Vi har og mercket det samme; thi naar hand giør noget Arbeyd, som siælden skeer, saa seer det saa politisk ud, at vi maa støbe det om igien; men vil I ellers tale med ham, saa kand I gaa lige ind i daglig Stuen.</p></sp>
+<sp><speaker>Antonius.</speaker>
+<p>Jeg har et vigtigt Ærende, Henrich: thi, mellem os at sige, saa vil jeg begiære hans Datter, som jeg saa lenge har været forlovet med.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Det er sandt; det er min Troe et vigtigt Ærende: men hør Mester Antoni! I maa icke tage ilde op, at jeg varer jer om en Ting: vil I tencke paa, at jer Ansøgning skal lyckes, da maa I sætte jere Ord paa Skruer og føre en ziirlig Tale; thi hand er bleven forbandet curiøsk paa nogen Tid.</p></sp>
+<sp><speaker>Antonius.</speaker>
+<p>Nej saa mænd giør jeg ey Henrich; jeg er en god ærlig Handvercksmand, som ingen Complimentationer har lærdt. Jeg siiger kun slet og ret, at jeg har Elskov til hans Datter, og begierer hende til Hustrue.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Icke andet! Ja saa skal jeg give min Hals, om I faaer hende. I det ringeste maa I begynde jer Tale af det Ord: Saasom eller Eftersom; I skal agte Mester Antoni, at I har med en studeret Mand at bestille, der læser Dag og Nat politiske Bøger, saa hand maa blive gall. Det meste, hand paa nogen Tid har haft at dadle paa Folckene her i Huuset, er, at der er saadant gemeent Væsen hos os alle, besynderlig hos mig, hvilken hand aldrig nevner, uden hand kalder mig: Din liiderlige gemeene Slyngel. Hand vilde endelig med Dievels Magt forleeden Uuge, at Mutter skulle gaae med Adriane, skiønt hand kom ingen Vej dermed; thi Mutter er en Gudfrygtig gammeldags Kone, som heller lood sit Liv, end lagde sin flasked Trøye af. Hand gaar frugtsommelig med noget, hvad Pocker det ogsaa er; derfor, om I vil lyckes i jer Frieratz, saa maa I følge mit Raad.</p></sp>
+<sp><speaker>Antonius.</speaker>
+<p>Jeg agter min Troe ingen Slingring, men gaar liige til.</p></sp>
+</div>
+<div type="chapter" subtype="scene" n="1_3">
+<head type="main"><ref type="contents" target="contents_1_3" xml:id="chapter_1_3">Sc. 3.</ref></head>
+<sp><speaker>Henrich</speaker>
+<stage>alleene.</stage>
+<p>Den største Vanskelighed ved at frie er at hitte paa, hvorledes mand skal begynde sin Tale; Jeg har self eengang gaaet paa Frierie, men kunde i fiorten Dage icke hitte paa hvad jeg skulle sige. Jeg vidste nock, at mand skulle begynde Talen af det Ord saasom eller eftersom, men det var Ulycken, at jeg icke kunde hitte paa andre Ord at hefte til dette saasom. Jeg gad derfor icke plave mig lenger dermed, men gick hen og kiøbte mig en Formular hos Jacob Skoele-Mester for 8 &#x00DF;, thi hand selger Stycket saaledes; men det løb forbandet galt af for mig; thi da jeg kom midt udi Talen, kunde jeg icke hitte paa Resten, og jeg undsaae mig ved at tage Papiiret op af Lommen: Jeg har kundet profect føre den Tale baade før og siden, som mit Fader Vor, men da jeg skulde bruge den for alvor, kom den i baglaas for mig. Den var saaledes:</p>
+<p>Nest tienstlig Salutems Hilsen er jeg Henrich Andersen af velberaad Hu, Drift og Tilskyndelse hid kommen at lade eder viide at jeg er ey meer af Stock og Steen end andre, og saasom alting i Verden finder hos sig Elskov endogsaa u-mælende Beester; altsaa er jeg med GUD og Æren hidkommen u-værdig at begiære og forlange eder til min hiertens Allerkiæriste. Synes jer icke Mossiørs at den var 8 &#x00DF;. værd, vil nogen ellers af jer give mig mine 8 &#x00DF;. igien, da vil jeg gierne overlade jer den; thi jeg bilder mig ind, at hvo der kand føre samme Tale vel, kand faa hvilken brav Mands Datter hand vil begiære. Vil I give mig 6 &#x00DF;. da? jeg har min Troe selv givet 8 &#x00DF;. for den: skam der selger den ringere. Men der kommer Vatter, jeg maa løbe.</p></sp>
+</div>
+<div type="chapter" subtype="scene" n="1_4">
+<head type="main"><ref type="contents" target="contents_1_4" xml:id="chapter_1_4">Sc. 4.</ref></head>
+<stage>Herman von Bremen. Antonius.</stage>
+<sp><speaker>Herman.</speaker>
+<p>Hand skal have Tack, Monsieur Antonius, for sit goode Tilbud, hand er en smuck skickelig Karl; jeg troer nock min Datter kunde være vel holden med ham. Men jeg vilde gierne have en til Sviger-Søn, der har studeret sine Politica.</p></sp>
+<sp><speaker>Antonius.</speaker>
+<p>Min kiære Monsieur Herman von Bremen. Men mand kand icke føde Kone og Børn dermed.</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Icke det? meener I, at jeg har i Sinde at døe Kandstøber? I skal see det, inden et halv Aar gaar til Ende. Jeg haaber, naar jeg har læset den Europæiske Herold igienem, at mand skal nøde mig til at tage en Plads an i Raadet. Den Politiske Nachtisch kand jeg allereede paa mine Fingre; men den vil icke forslaa; Skam faa Autor, hand maatte have giort den noget vitløftigere. I kiender vel den Bog?</p></sp>
+<sp><speaker>Antonius.</speaker>
+<p>Nej jeg giør icke.</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Da skal jeg laane jer min, den er saa god, som den er liden, ald min heele Politica har jeg af den Bog, samt af Hercules og Herculiscus.</p></sp>
+<sp><speaker>Antonius.</speaker>
+<p>Den sidste er jo kun en Roman?</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Ja det er sandt nock, gid Verden var fuld af saadane Romaner. Jeg var paa en vi&#x00DF; Sted forgangen Dag, hvor en fornemme Mand hviskede mig i Ørene: Hvo der har læset den Bog med Forstand, kand forestaae den største Bestilling, ja regiere et heelt Land.</p></sp>
+<sp><speaker>Antonius.</speaker>
+<p>Ja Vatter; naar jeg skal slaae mig til Læsning, forsømmer jeg mit Handværck dermed.</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Jeg siger jer Monsieur: Jeg agter icke lenge at blive ved Kandstøberiet, jeg burdte for lenge siden at have forladt det; thi hundrede brave Mænd her i Byen har sagt mig: Herman von Bremen! I burde være noget andet: Ja det er icke lenger siden end forgangen Dag, at en Bormester lod i Raadet falde disse Ord: Herman von Bremen kunde nock tiene til andet end Kandstøber, den Mand har det inde, som mange af os i Raadet selv maa leede efter, hvoraf I kand slutte, at jeg icke døer Kandstøber. Vil derfor gierne have en til Sviger-Søn, der legger sig efter Stads-Sager, saasom jeg haaber med Tiden, at baade hand og jeg skal komme i Raadet. Vil I nu begynde paa den politiske Nachtisch, saa vil jeg examinere jer hver Løverdag-Aften hvor vidt I er avancered.</p></sp>
+<sp><speaker>Antonius.</speaker>
+<p>Nej! min Troe vil jeg icke, jeg er for gammel til at gaae i Skoele igien paa nye.</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Ja saa er I og icke skabt til at være min Sviger-Søn. Adieu.</p></sp>
+</div>
+<div type="chapter" subtype="scene" n="1_5">
+<head type="main"><ref type="contents" target="contents_1_5" xml:id="chapter_1_5">Sc. 5.</ref></head>
+<stage>Geske von Bremenskone. Antonius.</stage>
+<sp><speaker>Geske.</speaker>
+<p>Det er forskreckeligt med min Mand, hand er aldrig inde og tar vare paa sit Arbejde; jeg vilde give noget got til, at jeg kunde faa at viide, hvor hand har sin gang. Men see! Monsieur Antonius! gaaer hand her allene. Vil hand icke komme ind.</p></sp>
+<sp><speaker>Antonius.</speaker>
+<p>Nej tack Mutter, jeg er for ringe dertil.</p></sp>
+<sp><speaker>Geske.</speaker>
+<p>Ej! hvad er det for Snack?</p></sp>
+<sp><speaker>Antonius.</speaker>
+<p>Jer Mand har faaet politiske Griller, og gaar med en Bormerster i Maven. Hand kaster paa Nakken af Handvercks-Folck som jeg og mine Liige; hand bilder sig ind, at hand er klogere end Notarius Politicus selv.</p></sp>
+<sp><speaker>Geske.</speaker>
+<p>Den Nar, den Gæck, vil I agte ham. Jeg troer før, hand bliver Staader og kommer til at betle sit Brød, end hand blir Bormester. Kiære Antonius! I skal icke agte ham, og lad icke den Godhed falde, som I har for min Datter.</p></sp>
+<sp><speaker>Antonius.</speaker>
+<p>Von Bremen svær paa, at hun skal ingen have uden en Politicus.</p></sp>
+<sp><speaker>Geske.</speaker>
+<p>Jeg skal før vride Halsen om paa hende, end hun skal faa en Politicus. I gamle Dage kaldte mand jo en Skielm en Politicus.</p></sp>
+<sp><speaker>Antonius.</speaker>
+<p>Jeg agter icke heller at blive saadan een; jeg vil nære mig reedelig med mit Hiulmageri. Det gav min Salig Fader sit daglig Brød, og jeg haaber det skal ogsaa føde mig. Men her kommer en Dreng, som vil vist tale med jer.</p></sp>
+<sp><speaker>Geske.</speaker>
+<p>Hvad vil I mit Barn?</p></sp>
+<sp><speaker>Drengen.</speaker>
+<p>Jeg vilde gierne tale med Mester Herman.</p></sp>
+<sp><speaker>Geske.</speaker>
+<p>Hand er icke hiemme, vil I siige mig det.</p></sp>
+<sp><speaker>Drengen.</speaker>
+<p>Jeg skulde høre fra vor Madame, om det Fad var færdig, som hun bestilte for 3 Uuger siden; vi har haft ti og ti Bud derom, men man opholder os kun med Snack.</p></sp>
+<sp><speaker>Geske.</speaker>
+<p>Beed jer Madame, min Søn, at hun icke bliver vred, det skal blive vist færdig til i Morgen.</p></sp>
+<sp><speaker>En anden Dreng.</speaker>
+<p>Jeg skulde fornemme eengang for alle, om de Tallerckener kand blive færdige. De kunde have været giordt og opslidte, siden vi bestilte dem. Mutter svor paa, at I faar icke saa hastig Arbejde for os igien.</p></sp>
+<sp><speaker>Geske.</speaker>
+<p>Hør mit hierte Barn! naar I bestiller noget herefter, skal I bestille det hos mig: min Mand har somme Tiider nogle Sviin paa Skoven, saa det giør ingen goode at tale med ham derom. Troe mig paa mine Ord det skal blive færdigt paa Løverdag. Adieu.</p>
+<p>Her seer I min kiære Antonius, hvorledes det gaar til i vort Huus. Vi mister ved min Mands Forsømmelse et Arbejd efter et andet.</p></sp>
+<sp><speaker>Antonius.</speaker>
+<p>Er hand da aldrig hiemme?</p></sp>
+<sp><speaker>Geske.</speaker>
+<p>Sielden; og naar hand er hiemme, bygger hand Casteller i Luften, saa at hand har ingen Tancke til Arbejd: Jeg forlanger intet af ham, uden at hand vil have Indseende med Folckene; thi naar hand giør noget, maa Svennene giøre det om igien; see! der er Peiter, hand skal tilstaa mine Ord.</p></sp>
+</div>
+<div type="chapter" subtype="scene" n="1_6">
+<head type="main"><ref type="contents" target="contents_1_6" xml:id="chapter_1_6">Sc. 6.</ref></head>
+<stage>Peiter. Geske. Antonius.</stage>
+<sp><speaker>Peiter.</speaker>
+<p>Her er Manden ude, Mutter, som skal have Penge for de 8 Tønder Kull, vi fick i gaar.</p></sp>
+<sp><speaker>Geske.</speaker>
+<p>Ja, hvor skal jeg tage Pengene fra? hand faar at bie til min Mand kommer hiem; kand du icke sige mig, Peiter, hvor min Mand har sin gang om Dagen?</p></sp>
+<sp><speaker>Peiter.</speaker>
+<p>Omtrendt ved disse Tider er hand i et Viinhuus hos Jacob von Lubek ved Mulhenbruck. Der holdes alle Dage et Collegium, som de kalder Collegium Polemiticum, hvor over tolv Personer kommer sammen og snacker om Staats-Sager. Jeg var der inde i gaar, men i en anden Stue, og saae dem sidde alle ved et Bord, og Hosbond ved Bord-Enden.</p></sp>
+<sp><speaker>Geske.</speaker>
+<p>Kiendte du nogle af dem?</p></sp>
+<sp><speaker>Peiter.</speaker>
+<p>Ja mænd, jeg kiender dem alle, lad see: Hosbond og Verten i Huuset var toe, Frandtz Parykmager 3. Christopher Maler 4. Gilbert Tapetmager 5. Christian Farver 6. Gert Bundtmager 7. Henning Brygger 8. Sivert Posekiiger 9. Niels Skrivemester 10. David Skoelemester 11. og Richart Bøstenbinder 12.</p></sp>
+<sp><speaker>Antonius.</speaker>
+<p>Det er alle nogle feede Karle, at tale om Staats-Sager; hørdte I icke, hvad de talede?</p></sp>
+<sp><speaker>Peiter.</speaker>
+<p>Jeg hørdte det nock; men jeg forstood kun lidt deraf, jeg hørdte nock, at de satte Keysere, Konger og Chuur-Førster af, og andre i deres Sted igien. Nu talede de om Told, nu om Accise og Comsumption, nu om udygtige Folck, som var i Raadet, nu om Hamburgs Opkomst og Handelens Forfremmelse, nu kastede de op i Bøger, nu kiigede de udi Landkorte. Richart Bøstenbinder sad med en Tandsticker i Haanden, saa jeg troer hand maa være Secreteer i Raadet.</p></sp>
+<sp><speaker>Antonius.</speaker>
+<p>Ha ha ha. Det første jeg møder ham, skal jeg, min Troe, siige, god Dag Her Secreteer!</p></sp>
+<sp><speaker>Peiter.</speaker>
+<p>Ja, men icke mine Ord igien, gid Fanden have med de Folck at bestille, som kand sætte Konger og Førster, ja Bormester og Raad selv af.</p></sp>
+<sp><speaker>Geske.</speaker>
+<p>Taler min Mand ogsaa med?</p></sp>
+<sp><speaker>Peiter.</speaker>
+<p>Icke meget, hand sidder kun og grunder, og tar Snustoback, medens de andre taler, og, naar de har udtalet, deciderer hand.</p></sp>
+<sp><speaker>Geske.</speaker>
+<p>Kiendte hand dig icke da?</p></sp>
+<sp><speaker>Peiter.</speaker>
+<p>Hand saae mig icke; thi jeg var i en anden Stue, og omendskiønt hand hafde seet mig, saa hafde hans Høyhed icke tilladt ham at kiende mig; thi hand hafde en Mine, som en Kreds-Oberst, som den øverste Bormester, naar hand gir Audience til en Minister. Folck, saa snart de komme i Collegier, faar ligesom en Taage for Øynene, saa de icke kand see end deres beste Venner.</p></sp>
+<sp><speaker>Geske.</speaker>
+<p>Ach! jeg arme Menniske! den Mand fører os vist i Ulycke, om Bormester og Raad faar at viide saadant, at hand sidder og reformerer Staten. De gode Mænd vil ingen Reformation have her i Hamborg. See kun til, om vi icke faar Vagt for vort Huus, førend vi veed et Ord deraf, og min gode Herman von Bremen blir træcket i Fengsel.</p></sp>
+<sp><speaker>Peiter.</speaker>
+<p>Det kand nock skee; thi Raadet har aldrig haft meer at siige end nu, siden den Tid Kreds-Tropperne laae udi Hamburg. Det heele Borgerskab er icke mægtig til at tage ham i Forsvar.</p></sp>
+<sp><speaker>Antonius.</speaker>
+<p>Lapperie! Det er kun at lee af saadane Karle; hvad kand en Kandestøber, en Mahler, eller Borstenbinder vide af Staats-Sager. Raadet vil heller divertere sig end blive bange derover.</p></sp>
+<sp><speaker>Geske.</speaker>
+<p>Jeg vil derhen samme Øyeblick, og læse Texten for dem alle. Kom lad os gaae.</p></sp>
+</div>
+</div>
+<div type="chapter" subtype="act" n="2">
+<head type="main"><ref type="contents" target="contents_2" xml:id="chapter_2">ACT. II.</ref></head>
+
+<div type="chapter" subtype="scene" n="2_1">
+<head type="main"><ref type="contents" target="contents_2_1" xml:id="chapter_2_1">Sc. 1.</ref></head>
+<stage>Collegium Politicum præsenteres i et Wertshuus.</stage>
+<sp><speaker>Gert Buntmager.</speaker>
+<p>Det vil altsammen give sig paa neste Rigsdag; gid jeg var der en Time. Jeg vilde viske Chur-Fyrsten af Mayntz noget i Ørene, som hand skulde tacke mig for. De got Folck veed icke, hvorudi Tysklands Interesse bestaar. Hvor har mand nogen Tid hørt en Keyserlig Residentz Stad som Wien uden Flode eller i det ringeste uden Gallejer? de kunde nock holde en Krigs-Flode til Rigets Forsvar, der gives jo nock Krigssteur og nock Romer-Monathen dertil. See om icke Tyrcken er klogere. Vi kand aldrig lære bedre at føre Krig end af ham. Der er jo Skove nock baade i Øster-Rige og Prag, dersom mand kun vil bruge dem enten til Skibe eller Master. Hafde vi en Flode i Øster-Rige eller Prag, da lod nock Tyrcken eller Frantzmanden fare at belejre Wien, og vi kunde gaae lige til Constantinopel. Men ingen tencker paa saadant.</p></sp>
+<sp><speaker>Sivert Pose-Kiger.</speaker>
+<p>Nej aldrig nogen Moors Siæl; vore Forfædre har været langt klogere. Det kommer alt paa Anstalter. Tyskland er icke større nu end det var i gamle Dage, da vi icke alleene forsvarede os berømmelig mod alle vore Naboer, men end og tog ind stoore Stycker af Franckerige, og beleyrede Paris selv baade til Lands og Vands.</p></sp>
+<sp><speaker>Frantz Parykmager.</speaker>
+<p>Men Paris er jo ingen Søe-Sted?</p></sp>
+<sp><speaker>Sivert Pose-Kiger.</speaker>
+<p>Saa maa jeg da forstaa mit Landkort meget ilde. Jeg veed nock hvor Paris ligger. Saaledes ligger jo Engeland ret her hvor jeg holder min Finger, her løber jo Canellien, her ligger Bordeus, og her Paris.</p></sp>
+<sp><speaker>Frantz Parykmager.</speaker>
+<p>Nej Bruder her ligger jo Tyskland og her strax ved Frankerig, som er landfast med Tyskland, <hi rend="italic">ergo</hi> kand jo Paris ingen Søe-Sted være.</p></sp>
+<sp><speaker>Sivert.</speaker>
+<p>Er der da intet Hav ved Franckerig?</p></sp>
+<sp><speaker>Frantz</speaker>
+<p>Nej vist; en Frandsmand, som icke har reyst uden Lands, veed aldrig hvercken af Skibe eller Baade at sige, spør kun Mester Herman: Er det icke, som jeg siger. Mester Herman?</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Jeg skal strax skille Trætten. Her Vert! laan os jer Landkort over Europa. I har jo Danckwarts Landkorte.</p></sp>
+<sp><speaker>Verten.</speaker>
+<p>Der har I eet, men det er noget i Stycker.</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Det vil icke sige, jeg veed nock hvor Paris ligger, men vil kun have Landkortet for at overbevise de andre. Seer I nu Sivert her ligger Tyskland.</p></sp>
+<sp><speaker>Sivert.</speaker>
+<p>Det er ret nock; jeg kand see det paa Donaustrømmen som ligger her.</p></sp>
+<stage>I det hand peeger paa Donaustrømmen, støder hand Kruset om med Albuen, saa at Landkortet forderves.</stage>
+<sp><speaker>Verten.</speaker>
+<p>Den Donaustrømmen løb noget for sterck.</p></sp>
+<stage>De leer allesammen. Ha, ha, ha.</stage>
+<sp><speaker>Herman.</speaker>
+<p>Hør got Folck vi taler saa meget om fremmede Sager, lad os tale noget om Hamborg. Den Materie kand flye os nock at bestille; Jeg har tit tenckt paa, hvoraf det kommer, at vi ingen Steder har udi Indien: men skal kiøbe de Varer af andre. Det er en Sag, som Bormester og Raad nock burdte betencke.</p></sp>
+<sp><speaker>Richart Børstenbinder.</speaker>
+<p>Tal icke om Bormester og Raad, skal vi bie, til de tencker derpaa, kommer vi til at bie lenge. Her udi Hamborg berømmes en Bormester alleene deraf, at hand kand holde det lovlige Borgerskab i Tvang.</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Jeg meener I goode Mænd, at det endnu icke er for sildig; thi hvorfor skulde icke Kongen af Indien unde os saa vel Handel som Hollænderne, hvilcke har intet at føre did hen uden Ost og Smør, som gemeenligen blir fordervet paa Vejen. Jeg holder for, at vi giorde vel, om vi indgav et Forslag til Raadet derom. Hvor mange er vi her samlede?</p></sp>
+<sp><speaker>Verten.</speaker>
+<p>Vi ere kun 6; thi de andre 6 troer jeg icke kommer meere.</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Det er alt nock; hvad er jer Meening Hr. Vert? lad os votere.</p></sp>
+<sp><speaker>Verten.</speaker>
+<p>Jeg er ganske icke for det Forslag; thi slige Reyser bringer mange got Folck af Staden, som jeg har en daglig Skilling af.</p></sp>
+<sp><speaker>Sivert Pose-Kiger.</speaker>
+<p>Jeg holder for, mand bør see meer paa Stadens Opkomst, end sin egen Interesse, og at Mester Hermans Forslag er det ypperligste, som nogen Tid kand giøres, jo meere Handel vi driver, jo meer maa jo Staden florere; jo fleere Skibe der kommer hid, jo bedre er det ogsaa for os smaa Betientere. Dog det sidste er icke meest Aarsag, at jeg raader til dette Forslag, men Stadens Tarv og Fremgang driver mig alleene til, at recommendere saadant.</p></sp>
+<sp><speaker>Gert Buntmager.</speaker>
+<p>Jeg kand aldeeles icke samtycke dette Forslag, men raader heller til Compagniers Oprættelser paa Grønland og Strat Davids, thi saadan Handel er Staden langt nyttigere og bedre.</p></sp>
+<sp><speaker>Frantz Knivsmed.</speaker>
+<p>Jeg mercker, at Gertes Votum sigter meer til egen Nytte end Republiqvens Beste; thi til de Indianske Reyser trenger mand icke saa meget til Bundtmageren, som til de Nordiske Reyser. Jeg for min Part holder for, at den Indianske Handel overgaar alle udi Vigtighed; thi udi Indien kand mand undertiden for en Kniv, Gaffel eller Sax faa af de Vilde et Stycke Guld, som vejer ligesaa meget. Vi maa mage det saa, at de Forslag vi gier ind for Raadet icke lugter af egen Nytte; thi ellers kommer vi ingen Vej dermed.</p></sp>
+<sp><speaker>Richart Børstenbinder.</speaker>
+<p>Jeg er af samme Meening, som Niels Skriver.</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Du voterer som en Børstenbinder: Niels Skriver er jo icke tilstæde. Men hvad vil den Qvinde herinde. Det er, min Troe, min Koene.</p></sp>
+</div>
+<div type="chapter" subtype="scene" n="2_2">
+<head type="main"><ref type="contents" target="contents_2_2" xml:id="chapter_2_2">Sc. 2.</ref></head>
+<stage>Geske. Collegium Politicum.</stage>
+<sp><speaker>Geske.</speaker>
+<p>Er det her mand skal finde jer, Dagdriver, det var nock saa got, at I var hiemme og arbejdede noget, eller i det ringeste, at I hafde Indseende med jer Folck, vi mister et Arbejd efter et andet ved jer Forsømmelse.</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Tie stille Koene, du blir Frue Bormesters, før du veedst et Ord deraf; meener du, at jeg gaar ud for Tids Fordriv? jo jo! jeg har ti gange meer Arbeyde end I alle udi Huuset; I andre arbeyde kun med Hænderne, men jeg med Hiernen.</p></sp>
+<sp><speaker>Geske.</speaker>
+<p>Alle galne Folck giør ligeledes, de bygge, som I, Casteller i Luften, og bryder Hiernen med Gallskab og Giækkerie, indbildende sig at giøre vigtige Ting, da de dog i sig selv er intet.</p></sp>
+<sp><speaker>Gert Bundtmager.</speaker>
+<p>Var det min Kone, hun skulde icke tale meer end eengang.</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Ej Gert! det maa en Politicus icke agte. For et Aar eller 3 hafde jeg smurdt min Koenes Ryg for saadane Ord. Men siden den Tid jeg har begynt at kiige i politiske Bøger, har jeg lærdt at foragte saadant. <hi rend="italic">Qvi nescit simulare, nescit regnare</hi> siger en gammel Politicus, som ingen Giæck var; jeg troer hand heedte Agrippa eller Albertus Magnus; thi det er Fundament til alle Politik i Verden, thi hvo der icke kand taale at høre et ondt Ord af en hidsig og gall Koene, duer icke til nogen høy Bestilling; Kaaldsindighed er den allerstørste Dyd, og den Ædelsteen, som meest pryder Regenter og Øvrighed. Derfor holder jeg for, at ingen burdte komme her i Staden at sidde udi Raadet, førend hand hafde giort Prøver paa sin Kaaldsindighed, og ladet see, at hand baade kunde tage imod Skielsord, Hug og Ørefigen. Jeg er af Naturen hidsig, men jeg stræber at overvinde det ved Studering. Jeg har læset udi Fortalen af en Bog, som heeder Der Politische Stockfisch, at naar en blir overvældet af Vrede, skal hand tælle til tyve, imidlertid gaar ofte Vreden over.</p></sp>
+<sp><speaker>Gert.</speaker>
+<p>Det kunde icke hielpe mig, om jeg taalte til hundrede.</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Ja saa duer I icke til andet end til at være Subaltern. Hr. Vert giv min Koene et Kruus Øll ved det lille Bord.</p></sp>
+<sp><speaker>Geske.</speaker>
+<p>Ej! du Slyngel, meener du at jeg er kommen hid for at dricke.</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. nu er det alt over; hør Mutter, du maa icke tale saa haardt til din Mand, det lader saa farlig gemeent.</p></sp>
+<sp><speaker>Geske.</speaker>
+<p>Er det da fornemme at betle? har enhver Koene icke Aarsag til at skielde, naar hun har saadan Dagdriver til Mand, der saaledes forsømmer sit Huus, og lader Hustrue og Børn lide Nød.</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Hr. Vert giv hende da et Glas Brende-Viin; thi hun har forivret sig.</p></sp>
+<sp><speaker>Geske.</speaker>
+<p>Hr. Vert, giv min Mand, den Slyngel, et par Ørefigen.</p></sp>
+<sp><speaker>Verten.</speaker>
+<p>Det maa I selv giøre; jeg betacker mig ellers for saadan Commission.</p></sp>
+<sp><speaker>Geske.</speaker>
+<p>Saa tør jeg giøre det selv.</p></sp>
+<stage>Hun gier ham Ørefigen.</stage>
+<sp><speaker>Herman.</speaker>
+<p>1. 2. 3. 4. 5. til 20.</p>
+<stage>Hand lader som hand vil slaae, men begynder paa nye at tælle til 20.</stage>
+<p>Havde jeg icke været en Politicus saa skulde du have faaet Skam.</p></sp>
+<sp><speaker>Gert Bundtmager.</speaker>
+<p>Vil I icke holde jer Koene i Ave, saa skal jeg. Fort her ud. Her ud.</p></sp>
+<stage>Gieske skielder uden for.</stage>
+</div>
+<div type="chapter" subtype="scene" n="2_3">
+<head type="main"><ref type="contents" target="contents_2_3" xml:id="chapter_2_3">Sc. 3.</ref></head>
+<stage>Collegium Politicum.</stage>
+<sp><speaker>Gert Bundtmager.</speaker>
+<p>Jeg skal lære hende at holde sig smuckt hiemme en anden gang. Det bekiender jeg, er det politisk, at lade sig træcke efter Haaret af sin Koene, saa blir jeg aldrig Politicus.</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Ach! ach! <hi rend="italic">qvi nescit simulare, nescit regnare</hi>, det er let talt, men icke ret let practiseret. Jeg bekiender det var en stor Spot min Koene giorde mig; jeg troer jeg løber endnu ud efter hende og prygler hende paa Gaden; dog 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. nu er det over; lad os nu tale om andre Sager.</p></sp>
+<sp><speaker>Frantz.</speaker>
+<p>Qvindfolck har alt formeget at sige her i Hamborg.</p></sp>
+<sp><speaker>Gert.</speaker>
+<p>Ja det er sandt; jeg har tit tenckt paa at giøre et Forslag derom. Men det er vanskeligt at legge sig ud med dem; Forslaget er ellers got nock.</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Hvorledes er det Forslag?</p></sp>
+<sp><speaker>Gert.</speaker>
+<p>Det bestaar af faae Artikler. 1. Vilde jeg, at Egteskabs Contract skulle icke være ævig, men giøres paa visse Aar. Saa at naar Manden var icke fornøyet med sin Kone, kunde hand slutte nye Contract med en anden, men skulle være forbunden ligesom med Huus-Leje at sige hende op et fierding Aar før Fardag, som skulde være ved Paaske eller Michaelis Tider; hvis hand var fornøjet med hende, kunde Contracten forlenges; troe mig, om saadan Lov blev giort, der skulde icke findes en ond Kone i Hamborg, men enhver skulde beflitte sig paa at gaa sin Mand under Øyen for at have Contracten forlenget. Har I gode Mænd noget at sige imod den Artikel? Frantz! du smiiler saa skalkagtig, du har vist noget at sige derimod, lad os høre.</p></sp>
+<sp><speaker>Frantz.</speaker>
+<p>Men kunde icke en Kone undertiden finde sin Regning ved, at blive skildt ved en Mand, som enten var ond imod hende, eller som var en Dagdriver, der alleene aad og drack, og intet vilde arbejde til Kones og Børns Underhold. Eller hun kunde faa Lyst til en anden, og giøre Manden alting saa broget, at hand mod sit Forset lod hende fare. Jeg holder for at større Uleiligheder kand reyse sig af saadant. Der er jo Midler til at tvinge en Kone med. Vilde enhver, som I, M. Herman, naar hand faar et Ørefigen, give sig til at tælle til tyve, saa fik vi en Hob skiønne Koner. Jeg holder uforgribelig for, det beste Middel er, naar en Kone er balstyrisk, at Manden truer hende med at ligge alleene, og ingen Seng at søge med hende, indtil hun bedrer sig.</p></sp>
+<sp><speaker>Gert Bundtmager.</speaker>
+<p>Det kunde jeg icke holde. Mangen Mand kand lige saa lidet skicke sig derudi, som Konen.</p></sp>
+<sp><speaker>Frantz.</speaker>
+<p>Saa kand jo Manden gaa extra.</p></sp>
+<sp><speaker>Gert.</speaker>
+<p>Saa kand jo Konen og gaa extra.</p></sp>
+<sp><speaker>Frantz.</speaker>
+<p>Men Gert, lad os høre de andre Artikler.</p></sp>
+<sp><speaker>Gert.</speaker>
+<p>Ja see, om hand giorde det, du har maa skee Lyst at skiemte meere; intet er saa got, mand jo har noget at sige derimod.</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Lad os nu tale om andre Sager. Folk, som hørdte os tale, skulle tencke vi holdt Consistorium eller Tamper-Ret. Jeg tenkte paa i Nat, da jeg icke kunde sove, hvorledes Regieringen i Hamborg best kunde indrettes, saa visse Familier, hvor udi Folk hid til dags, ligesom fødes til Bormestere, og Raads-Herrer kunde udeluckes fra den højeste Øvrigheds Værdighed, og en fuldkommen Frihed indføres. Jeg tenkte, mand skulde vexelviis tage Bormestere nu af et Laug, nu af et andet, saa blev samptelige Borgerskab deelagtig udi Regieringen, og alle Stender kom til at florere; thi for Exempel, naar en Guld-Smid blev Bormester, saae hand paa Guld-Smeddenes Interesse. En Skredder paa Skreddernes Opkomst, en Kandstøber paa Kandstøbernes, og ingen skulde være Borgemester lenger end en Maaned, paa det at et Laug skulde icke florere meer end et andet. Naar Regieringen saaledes blev indrettet, kunde vi kaldes et ret frit Folk.</p></sp>
+<sp><speaker>Tutti.</speaker>
+<p>Det Forslag er herligt; Mester Herman, I taler som en Salomon.</p></sp>
+<sp><speaker>Frantz Kniv-Smed.</speaker>
+<p>Det Forslag er got nok. Men &#x2013; &#x2013; &#x2013;</p></sp>
+<sp><speaker>Gert Bundtmager.</speaker>
+<p>Du kommer altid med dit Men, jeg troer enten din Far eller Moor har været Mennist.</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Lad ham kun sige sin Meening. Hvad vilt du sige? Hvad meener du med det Men?</p></sp>
+<sp><speaker>Frantz.</speaker>
+<p>Jeg tencker, mon det icke skulle være vanskeligt iblant at faa en god Bormester af et hver Handtvercks-Laug, Mester Herman er god nok; thi hand er vel studeret, men hvor finder vi, naar hand er død, blant Kandstøberne en anden, der duer til saadant Regimente; thi, naar Republiqven er kommen paa Knæ, er det icke saa let at støbe den om igien i en anden Form, som at støbe en Tallercken eller en Kande om, naar den er fordervet.</p></sp>
+<sp><speaker>Gert.</speaker>
+<p>Ach! Packetel! vi finder nok dygtige Mænd end ogsaa blant Handtverks-Folk.</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Hør Frantz, du est endnu en ung Mand, og derfor icke kand see saa dybt udi en Ting endnu, som vi andre, hvorvel jeg mercker, du har et got Hovet, og med Tiden kand blive til noget. Jeg vil kun kortelig forrestille dig, at denne din Instantz har ingen Grund alleene af vore Personer: vi ere udi dette Laug over 12 Personer alle Handtverks-Folk; enhver af os kand jo see hundrede Feil, som begaaes af Raadet. Forrestill dig nu, at en af os blef Bormester, og endrede de Feil, som vi saa tit har talt om, og som Raadet icke kand see; mon Hamborger Stad vilde tabe noget med saadan Bormester? dersom I gode Herrer ere saa sindede, da vil jeg give det Forslag ind.</p></sp>
+<sp><speaker>Tutti.</speaker>
+<p>Ja vist.</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Men nok om de Materier. Tiden gaar bort, og vi har icke læset Aviserne endnu. Her Vert. Lad os faa de sidste Aviser.</p></sp>
+<sp><speaker>Verten.</speaker>
+<p>Her er de sidste Aviser.</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Flye dem til Richart Børstenbinder, som plejer læse.</p></sp>
+<sp><speaker>Richart.</speaker>
+<p>Mand skriver fra Hovet-Lejeren ved Rihn-Strømmen, at mand venter Recruter.</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Ej! det har mand skreven 12 gange i rad. Spring over Rihn-Strømmen. Jeg kand ærgre mig ihiel, naar jeg hør tale om de Sager. Hvad skriver mand fra Italien?</p></sp>
+<sp><speaker>Richart.</speaker>
+<p>Fra Italien skrives, at Printz Eugenius har brudt op med sin Leyr, passered over den Flod Padus, og gaaet forbi alle Festninger for at overrumple Fiendens Armee, som der udover i største hast er retireret 4 Miil tilbage. Duc de Vendosme skiendte og brendte allevegne udi sit eget Land udi Retiraden.</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Ach, ach! Hans Durchleutighed er slagen med Blindhed, vi er om en Hals; jeg vil icke give 4 &#x00DF;. for den heele Armee i Italien.</p></sp>
+<sp><speaker>Gert Bundtmager.</speaker>
+<p>Jeg holder min Troe for at Prindsen giorde ret; thi det har altid været mit Forslag, sagde jeg det icke forgangen Frantz Kniv-Smed? at mand burde giøre saaledes.</p></sp>
+<sp><speaker>Frantz.</speaker>
+<p>Nej! jeg kand icke erindre det.</p></sp>
+<sp><speaker>Gert.</speaker>
+<p>Jo min Troe har jeg sagt det 100 gange; thi hvorfor skal Armeen ligge og lunte? Prindsen har min Troe giort ret. Det tør jeg forsvare mod hvem det skal være.</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Hr. Vert! giv mig et Glas Brendeviin. Jeg kand svære paa Ihr Herren, at det blev soort for mine Øyne, da jeg hørte læse disse Tidender. Jeres Skaal Mussiørs. Nu det bekiender jeg. Det kalder jeg en Hoved-Forseelse, at gaa forbi Festninger.</p></sp>
+<sp><speaker>Sivert Pose-Kiger.</speaker>
+<p>Jeg havde, min Troe, giort det samme, om Armeen havde været mig betroed.</p></sp>
+<sp><speaker>Frantz Kniv-Smed.</speaker>
+<p>Ja du skal nok see, at mand giør Pose-Kigere til Generaler.</p></sp>
+<sp><speaker>Sivert.</speaker>
+<p>Du har icke behov at spotte, jeg torde blive saa god som en anden.</p></sp>
+<sp><speaker>Gert.</speaker>
+<p>Der i har, min Troe, Sivert ret, at Prindsen har giort vel at gaa lige løs paa Fienden.</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Ej! min gode Gert, I er alt for selvklog, I faar lære noget endnu.</p></sp>
+<sp><speaker>Gert.</speaker>
+<p>Da skal jeg icke lære det af Frantz Kniv-Smed.</p></sp>
+<stage>De komme i sterck Skielderie og taler en i Munden paa en anden, reiser sig af Stoelene, truer og stoier. Herman slaar imod Bordet og raaber:</stage>
+<sp who="Herman">
+<p>Stille, stille Ihr Herren. Lad os icke tale meer om det, hver kand beholde sin Meening. Hør I Herren, gier dog Lyd. Meener I vel at det er af Frygt at Duc de Vendosme har retireret sig og sat Ild paa Landet. Nej den Karl har læset Alexander Magnuses Krønicke, thi saa giorde hand, da Darius forfuldte ham, og derudover vandt en Sejer ligesaa stor, som den vi vant for Hochstedt.</p></sp>
+<sp><speaker>Verten.</speaker>
+<p>Nu slog Klocken 12 paa Postmesterens Verck.</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Saa maa vi da gaa.</p></sp>
+<stage>Paa Vejen disputerer de og stoier om det forrige.</stage>
+</div>
+</div>
+<div type="chapter" subtype="act" n="3">
+<head type="main"><ref type="contents" target="contents_3" xml:id="chapter_3">ACT. III.</ref></head>
+
+<div type="chapter" subtype="scene" n="3_1">
+<head type="main"><ref type="contents" target="contents_3_1" xml:id="chapter_3_1">Sc. 1.</ref></head>
+<stage>Abrahams. Sanderus. Christoffer. Jochum.</stage>
+<sp><speaker>Abrahams.</speaker>
+<p>Nu skal jeg fortælle ham et Eventyr, som vil divertere heele Staden. Veed I? hvad jeg har overlagt med 3. fire fornemme Folk her i Byen.</p></sp>
+<sp><speaker>Sanderus.</speaker>
+<p>Nej! jeg veed icke.</p></sp>
+<sp><speaker>Abrahams.</speaker>
+<p>Kiender I icke Herman von Bremen?</p></sp>
+<sp><speaker>Sanderus.</speaker>
+<p>Det er vist den Kandstøber, som er saa stor Politicus.</p></sp>
+<sp><speaker>Abrahams.</speaker>
+<p>Det er den samme; jeg var nylig i Selskab med nogle af Raadet, som ivrede sig meget mod samme Karl, efterdi hand talede saa dristig udi Verts-Huus imod Regieringen, og reformerede alting. De samme holt det tienligt at udskicke Spioner, for at vidne paa hans Mund, at hand kunde blive refset, andre til Exempel.</p></sp>
+<sp><speaker>Sanderus.</speaker>
+<p>Det var at ønske saadane Karle engang kunde blive straffede; thi de sidder og criticerer over et Krus Øl Konger, Fyrster, Øvrighed og Generaler, saa det er forskreckeligt at høre paa. Det er ogsaa farligt; thi den gemeene Almue har icke den Skiønsomhed, at den kand eftertencke, hvor uriimeligt det er, at en Kandstøber, Hattemager, eller Børstenbinder kand tale med ringeste Grund om slige Sager, og see de Ting, som et heelt Raad icke kand see.</p></sp>
+<sp><speaker>Abrahams.</speaker>
+<p>Det er sant; thi samme Kandstøber kand reformere det heele Romerske Riige, medens hand støber en Tallercken, og agere baade Landstøber og Kandstøber paa engang: Men mig behagede icke samme Raads-Herrers Forretagende; thi at straffe eller arrestere saadan Mand opvæcker kun Oprør iblant Almuen, og giør saadan Gæk meer anseelig. Min Meening var derfor at spille heller en Comoedie med ham, som skulde have bedre Virckning.</p></sp>
+<sp><speaker>Sanderus.</speaker>
+<p>Hvor i skulde den bestaa?</p></sp>
+<sp><speaker>Abrahams.</speaker>
+<p>At skicke ham Deputerede, som fra Raadet, for at gratulere ham med Bormesterskab, og fly ham strax nogle vanskelige Ting at forrette, saa skal mand see, hvor elendig hand vil blive, og hand selv skal mercke, hvor stor Forskiæl der er imellem at raisonnere om en Bestilling, og at forrestaa den.</p></sp>
+<sp><speaker>Sanderus.</speaker>
+<p>Men hvad vil deraf følge?</p></sp>
+<sp><speaker>Abraham.</speaker>
+<p>Deraf skal følge, at hand enten af Desperation skal forløbe Byen, eller ydmygeligen bede om sin Afskeed, og tilstaa sin Udygtighed; jeg er derfor alleene kommen til Monsr. Sanderus for at begiere hans Hielp i at i Verk sætte denne Machine. Saasom jeg veed, han er beqvem til saadant.</p></sp>
+<sp><speaker>Sanderus.</speaker>
+<p>Det kand lade sig giøre, vi vil selv agere slige Deputerede og strax gaa til ham.</p></sp>
+<sp><speaker>Abraham.</speaker>
+<p>Ja her er hans Huus, Jochum eller Christopher bank paa, og siig, at der 2 Raads-Herrer er her ude, som vil tale med Herman von Bremen.</p></sp>
+<stage>De bancker paa.</stage>
+</div>
+<div type="chapter" subtype="scene" n="3_2">
+<head type="main"><ref type="contents" target="contents_3_2" xml:id="chapter_3_2">Sc. 2.</ref></head>
+<stage>Herman. Abrahamsen. Sanderus. Jochum. Christoffer.</stage>
+<sp><speaker>Herman.</speaker>
+<p>Hvem vil I tale med?</p></sp>
+<sp><speaker>Jochum.</speaker>
+<p>Her er tvende Raads-Herrer, som vil have den Ære at opvarte ham.</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Hillement, hvad er det? jeg seer skiden ud, som et Svin.</p></sp>
+<sp><speaker>Abrahams.</speaker>
+<p>Underdanigste Tiener, Velbaarne Hr. Bormester; vi ere hid skickede af Raadet for at gratulere ham med et Bormester-skab her i Staden; thi Raadet har anseet meer hans Meriter end hans Stand og Vilkor, og udvalt ham til Bormester.</p></sp>
+<sp><speaker>Sanderus.</speaker>
+<p>Raadet holt det ubilligt, at saadan viis Mand skulde occuperes med saadane slette Forretninger, og grave sit store Pund ned i Jorden.</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Ihr Herren Collegæ, aflegger min Hilsen og Taksigelse til det lovlige Raad og forsikrer dem om min Protection. Det er mig kiert, at man er falden paa de Tancker, alleene for Stadens skyld, icke for min egen Persons; thi havde jeg skiøttet om Høyhed, havde jeg, maa skee, lenge siden været noget.</p></sp>
+<sp><speaker>Abraham.</speaker>
+<p>Velbaarne Hr. Bormester; Raadet og Borgerskabet kand icke vente andet end Stadens Velstand under saadan en høy viis Øvrighed.</p></sp>
+<sp><speaker>Sanderus.</speaker>
+<p>Og derfor har forbigaaet saa mange andre rige og fornemme Mænd, der har ansøgt om den høye Magistrat.</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Ja, ja; jeg haaber de skal ey heller fortryde paa dette Val.</p></sp>
+<sp><speaker>Abrahams og Sanderus.</speaker>
+<p>Vi recommenderer os da samptlige udi Hr. Bormesters Bevaagenhed.</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Det skal være mig en Fornøjelse, at giøre dem nogen Tieniste. Om Forladelse, at jeg følger dem icke lenger.</p></sp>
+<sp><speaker>Sanderus.</speaker>
+<p>Ej! det kand ej heller staa Hr. Bormester an at gaa videre.</p></sp>
+<sp><speaker>Herman</speaker>
+<stage>kalder paa en af Laqvaierne.</stage>
+<p>Hør I Cammerat, der har I til en Kande Øll.</p></sp>
+<sp><speaker>Laqvein.</speaker>
+<p>Ach! vi giør det icke Jeres Velbaarenhed.</p></sp>
+</div>
+<div type="chapter" subtype="scene" n="3_3">
+<head type="main"><ref type="contents" target="contents_3_3" xml:id="chapter_3_3">Sc. 3.</ref></head>
+<stage>Herman. Geske.</stage>
+<sp><speaker>Herman.</speaker>
+<p>Geske! Geske!</p></sp>
+<sp><speaker>Geske</speaker>
+<stage>(indenfor)</stage>
+<p>Jeg har icke Stunder.</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Herud, jeg har noget at siige dig, som du aldrig drømte om din Livs-Tid.</p></sp>
+<sp><speaker>Geske.</speaker>
+<p>Nu, hvad er paa færde?</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Har du noget Caffee i Huset?</p></sp>
+<sp><speaker>Geske.</speaker>
+<p>Hvad Snack! naar brugte jeg Caffee sidst?</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Du kommer at bruge det herefter da, inden en halv Time faar du Visit af alle Raads-Herrernes Fruer.</p></sp>
+<sp><speaker>Geske.</speaker>
+<p>Jeg troer den Mand drømmer.</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Ja jeg drømmer saaledes, at jeg har drømt os et Bormester-skab paa Halsen.</p></sp>
+<sp><speaker>Geske.</speaker>
+<p>Hør Mand! giør mig icke vred igien, du veedst hvor det gik sidst.</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Saae du icke de toe Herrer med deres Laqveier, som gik her forbi.</p></sp>
+<sp><speaker>Geske.</speaker>
+<p>Jo jeg saae dem.</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>De vare her inde, og lod mig vide fra Raadet, at jeg er bleven Bormester.</p></sp>
+<sp><speaker>Geske.</speaker>
+<p>I er Fanden heller.</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Lad nu see, kiere Kone, at du beflitter dig herefter paa et meere fornemme Væsen, og at ingen af de gamle Kandstøber-Nøcker blir tilbage hos dig.</p></sp>
+<sp><speaker>Geske.</speaker>
+<p>Ach! er det vist min hierte Mand?</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Det er saa vist, som jeg staar her. Ret lige nu har vi Huset fuld af Gratulationer; af skyldigste Tiennere og Tiennerinder, af Jemerecommaner og Baselemaner.</p></sp>
+<sp><speaker>Geske</speaker>
+<stage>(paa Knæ)</stage>
+<p>Ach! min hierte Mand! forlad mig, om jeg har giort dig noget imod tilforn.</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Aldt forladt; beflit dig kun paa at være noget fornemme herefter, saa skal du have min Naade. Men hvor skal vi faa en Tienner i en hast?</p></sp>
+<sp><speaker>Geske.</speaker>
+<p>Vi kommer til at kaste nogle af jere Klæder paa Henrich, indtil vi kand faa kiøbt Liberi. Men hør min Hierte, eftersom I nu er bleven Bormester, saa vilde jeg bede, at Gert Bundtmager maa straffes for den Tort, hand giorde mig i Dag.</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Ej! min hierte Kone, Bormesters Frue maa icke tencke paa, at hevne den Uret, som er vederfaret Kandstøberens Kone. Lad os faa Henrich her ind.</p></sp>
+</div>
+<div type="chapter" subtype="scene" n="3_4">
+<head type="main"><ref type="contents" target="contents_3_4" xml:id="chapter_3_4">Sc. 4.</ref></head>
+<stage>Geske. Herman. Henrich.</stage>
+<sp><speaker>Geske.</speaker>
+<p>Henrich!</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Hey!</p></sp>
+<sp><speaker>Geske.</speaker>
+<p>Henrich, du maa icke svare saa herefter, veedst du icke hvad os er vederfaret.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Nej! jeg veed icke.</p></sp>
+<sp><speaker>Geske.</speaker>
+<p>Min Mand er bleven Bormester.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Hvor over?</p></sp>
+<sp><speaker>Geske.</speaker>
+<p>Hvor over? over Hamborg.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Hand er Pocker heller, det var jo et Fandens Spring af en Kandstøber.</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Henrich! tal meere med Beskeed; du skal vide, du est Laqvei hos en stor Mand nu.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Lakei! saa avancerer jeg icke nær saa meget.</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Du skal nok avancere. Du kand med Tiden blive Reutendiener. Tie kun still. Du kommer paa nogle Dage at agere Lakei, indtil jeg kand faa en Tienner. Hand kommer til at bære min brune Kiole, min Hierte, indtil vi kand faa Liberi færdig.</p></sp>
+<sp><speaker>Geske.</speaker>
+<p>Men jeg frygter, den vil blive alt for lang.</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Ja vist er den forlang; men man faar at hielpe sig i en hast, som mand kand.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Ach Herre Jeh! den ræcker mig ned til Hælene. Jeg vil see ud som en Jøde-Præst.</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Hør Henrich!</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Ja Mester.</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Du Slyngel, kom mig icke med slige Titler meere, du skal herefter, naar jeg raaber paa dig, svare: Herre! og naar nogen kommer at spørge efter mig, skal du sige: Bormester von Bremenfeld er hiemme.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Skal jeg svare saaledes, enten Herren er hiemme eller ej?</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Hvilken Snack! naar jeg icke er hiemme, skal du svare: Hr. Bormester von Bremenfeld er icke hiemme: og naar jeg icke vil være hiemme, skal du svare: Bormesteren gier icke Audience i Dag. Hør min Hierte, du maa strax lave til noget Caffee, du skal have noget at tractere Raads-Herrernes Fruer med, naar de kommer; thi der i vil vor Reputation bestaa her efter, at mand kand sige: Bormester von Bremenfeld gier gode Raad, og hans Frue god Caffee. Jeg er saa bange, min Hierte, at I forseer jer i noget, førend I blir vandt til den Stand, I er kommen udi. Henrich spring du ud efter et Thee-Bord med nogle Kopper, og lad Pigen springe efter fire Skilling udi Caffee; mand kand altid siden kiøbe meer. Det skal være jer en Regel, min Hierte, til videre, at I icke taler meget indtil I lærer at føre honnet Discours. I skal ey heller være alt for ydmyg; men staa paa jer Respect, og for alting arbeide paa, at faa det gamle Kandstøber-Væsen af Hoveded, og bilde jer ind, at I har været Bormesters Frue i mange Aar. Om Morgenen skal der et Thee-Bord være decket for Fremmede, som kommer, om Eftermiddag et Caffee-Bord; og derpaa spilles Kort. Det er et vist Spill, som kaldes Allumber; jeg vilde give 100 Rixdaler til, at I og vor Datter Frøichen Engelche forstod det. I maa derfor give flittig agt, naar I seer andre spiller, at I kand lære det. Om Morgenen skal I ligge til Klocken ni eller halvgaaen ti; thi det er kun gemeene Folk, som staar op om Sommeren med Soelen, dog om Søndagene maa I reise jer noget tiligere, saasom jeg paa de Dage agter at medicinere. En smuk Snustobaks-Daase maa I legge jer til, som I maa lade ligge paa Bordet hos jer, naar I spiller Kort. Naar nogen dricker paa jeres Sundhed, skal I icke sige Tack, men <hi rend="italic">tres humble Servitør</hi>. Og naar I gaber, skal I icke holde for Munden; thi det er icke meer brugelig blant fornemme Folk; endelig, naar I er i Compagnie, skal I icke være for meget peen, men sætte Honneteteten noget til Side &#x2013; &#x2013; &#x2013; &#x2013; &#x2013; &#x2013; &#x2013; &#x2013; Hør jeg glemte noget: I skal ogsaa legge jer en Skiøde-Hund til, hvilken I skal elske som jer egen Datter; thi det er ogsaa fornemme. Vor Naboe-Kone Arianke har en smuk Hund, som hun nok laaner jer, til vi kand selv faa en. Hunden skal I give et fransk Navn, som jeg nok skal hitte paa, naar jeg faar Stunder at tencke mig om. Den skal idelig ligge i jer Skiød, og I skal i det ringeste en halv Snees gange kiøsse den, naar der er Fremmede.</p></sp>
+<sp><speaker>Geske.</speaker>
+<p>Nej! min hierte Mand, det kand jeg umuelig giøre; thi man veed icke altid, hvor en Hund har lagt og søled sig. Man kand derudover enten faa Munden fuld af Skarn eller Lopper.</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Ej! ingen Snak! vil I være Frue, saa maa I og have Frue Noeder. Saadan Hund kand derforuden ogsaa give jer Anledning til Discours; thi naar I ingen Anledning har til Materie, kand I fortælle om jers Hunds Qvaliteter og Dyder. Giør kun som jeg siger min Hierte. Jeg forstaar mig paa den fornemme Verden bedre end I. Speiler jer kun i mig. I skal see, at der icke skal være de ringeste gamle Levninger hos mig tilbage. Det skal icke gaa mig som det gik en vis Slagter, som blev Raadmand, hvilken, naar hand havde skrevet en Side ud og skulde vende Bladet om, satte Pennen i Munden, som hand var vant at giøre med Slagter-Kniven.</p></sp>
+<stage>De gaar alle ud.</stage>
+</div>
+</div>
+<div type="chapter" subtype="act" n="4">
+<head type="main"><ref type="contents" target="contents_4" xml:id="chapter_4">ACT. IV.</ref></head>
+
+<div type="chapter" subtype="scene" n="4_1">
+<head type="main"><ref type="contents" target="contents_4_1" xml:id="chapter_4_1">Sc. 1.</ref></head>
+<sp><speaker>Henrich</speaker>
+<stage>alleene.</stage>
+<stage>Har Lisser paa begge Ermene af sin Kiol, som gaar ham til Hælene, og er borderet med hvit Papiir.</stage>
+<p>Jeg er en Hundsvot, om jeg kand begribe, hvorledes Raadet er falden paa de Tanker at giøre min Huusbond til Bormester; thi jeg seer ingen Overeensstemmelse imellem en Kandstøber og saadan høy Embedsmand, uden maa skee det kommer deraf, at ligesom en Kandstøber kaster gamle Tallerkner og Fader udi en Form, og støber dem om til nye, saa kand ogsaa en god Bormester ved gode Love støbe Republiqven om igien, naar den forfalder. Men de gode Mænd har icke taget i agt, at min Husbond var den sletteste Kandstøber udi Hamborg, og derfor, om de ellers har udvalt ham paa det Fundament, vil blive ogsaa den sletteste Bormester, vi har haft. Den eeneste Nytte ved dette Val er, at jeg blir Reutendiener derved; thi det er en Bestilling, som jeg har naturalier og Lyst til. Thi fra jeg var et Barn, har jeg kundet glæde mig ved, at see Folk træckes i Arrest. Det er ogsaa en god Bestilling for en, der veed at snoe sig lidt derudi; thi først maa jeg lade som jeg har meget at sige hos Bormester, og naar Folk faar den Troes Artickel i Hovedet, vinder Henrich i det ringeste 100 Daler eller 200 derved om Aaret, som jeg icke vil imodtage af Gierighed, men alleene for at lade see, at jeg forstaar min Embede og Reutendienerat. Vil nogen tale med Bormester, siger jeg hand er icke hiemme. Siger de, at de saae ham i Vinduet, svarer jeg, det vil intet sige, hand er dog icke hiemme. Folk i Hamborg veed strax, hvad saadan Svar betyder: De sticker Henrich en Daler i Haanden, saa kommer Herren strax hiem, er hand upasselig, saa blir hand strax frisk, er der Fremmede hos ham, saa gaar de strax bort; ligger hand, saa staar hand strax op. Jeg omgaaes undertiden med fornemme Laqveier, jeg veed nok, hvor der tilgaar udi slige Huse. I gamle Dage, da Folk var dumme, som Heste og Esler, da kaldte mand saadant Nefas, men nu heeder det extra Dricke-Penge, eller u-visse Indkomster. Men see der kommer Anneke, hun veed endnu intet af denne Forandring; thi hun har saadan gemeen Kandstøberske Mine og Gang endnu.</p></sp>
+</div>
+<div type="chapter" subtype="scene" n="4_2">
+<head type="main"><ref type="contents" target="contents_4_2" xml:id="chapter_4_2">Sc. 2.</ref></head>
+<stage>Anneke. Henrich.</stage>
+<sp><speaker>Anneke.</speaker>
+<p>Ha, ha, ha. Nej see hvor det Spøgelse seer ud; jeg troer, det er en Adriane, hand har faaet paa sig.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Hør du Kandstøber Carronie, har du icke seet et Liberi eller en Laqvei tilforn. Disse gemeene Folk ere min Troe ligesom Beester, de staar og gaber ligesom Køer, naar de seer et Menniske en Dag udi andre Klæder end en anden Dag.</p></sp>
+<sp><speaker>Anneke.</speaker>
+<p>Nej! eet Skiemt, og andet Alvor; veedst du icke, at jeg har lærdt at spaa i Dag; her var en gammel Kone i Dag, som seer Folk i Hænderne, hende gav jeg et stycke Brød, hvorfor hun lærde mig den Kunst, at see i Folckes Hænder, hvad dem skal vederfares. Maa jeg see dine Hænder, saa skal jeg strax sige dig din Skiebne.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Ja, ja, Anneke, Henrich er icke saa taabelig som du bilder dig ind. Jeg lugter alt Lunten. Du har faat et Nys om den Forfremmelse, som i Dag er mig lovet.</p></sp>
+<sp><speaker>Anneke.</speaker>
+<p>Nej, min Troe, veed jeg icke af noget at sige.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>See ickun, hvor gode Mine hun kand holde, jo, min Troe, har du hørt det, og derfor har du og got ved at spaae. Nej Henrich har gammel Been i Panden, hand er icke saa let at tage ved Næsen.</p></sp>
+<sp><speaker>Anneke.</speaker>
+<p>Jeg kand giøre min høyeste Eed paa, at jeg icke har hørt ringeste Ting af saadant som du siger.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Har du icke talt med Frue Bormesters nylig?</p></sp>
+<sp><speaker>Anneke.</speaker>
+<p>Jeg troer den Dreng er gall, kiender jeg Frue Bormesters?</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Saa har, min Troe, Frøikenen sagt dig det.</p></sp>
+<sp><speaker>Anneke.</speaker>
+<p>Ej! holt da op engang med saadant Narrerie, Henrich.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>See! der Anneke har du min Haand, spaa nu saa meget som du vil. Jeg mercker nok, at du har faat et Nys om Sagerne, skiønt du stiller dig saa fremmet an. Men det kand icke skade, at du est saa polisk; vor heele Huus bør være saa herefter. Nu! hvad saae du nu i min Haand?</p></sp>
+<sp><speaker>Anneke.</speaker>
+<p>Jeg seer, Henrich, at Fatters Custos, som henger bag Kackelovnen, vil dantze en lystig Galiath paa din Ryg i Dag. Er det icke uforskammet at gaa saaledes at spøge sig ud, da her er saa meget Arbeid at giøre i Huset, og at reede Fatters Kiole saa til.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Hør Anneke, jeg kand spaa foruden at see i Hænderne: Jeg spaar dig, at du est en Carnali, og at du for din uforskammede Mund faar et par Ørfigen eller to (ligesom det kand falde sig til) see der! der har du Spaadommen opfylt.</p>
+<stage>Gier hende Ørefigen.</stage></sp>
+<sp><speaker>Anneke.</speaker>
+<p>Au, au, au, det skalt blive dig dyre Ørefigen.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Lær saa en anden gang at bære Respect for en stor Herres Lakei.</p></sp>
+<sp><speaker>Anneke.</speaker>
+<p>Bie kun, nu kommer Mutter strax.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>For Bormesters fornemmeste Tienner.</p></sp>
+<sp><speaker>Anneke.</speaker>
+<p>Hun vil hevne det paa din Ryg.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>For en Reutendiener.</p></sp>
+<sp><speaker>Anneke.</speaker>
+<p>Jo, jo, jeg siger endnu, at det skal blive dig dyre Ørefigen.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>For en Person, der har stor Gehør hos Bormester.</p></sp>
+<sp><speaker>Anneke.</speaker>
+<p>Ach! ach! jeg er icke bleven slagen her i Huset tilforn.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Som heele Borgerskabet vil giøre Caresser og Baselemaner til herefter.</p></sp>
+<sp><speaker>Anneke.</speaker>
+<p>Jeg troer den Dreng er bleven gandske gall, hej Mutter! Mutter, kom ind.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>St. st. st. du faar vist din Ulycke med din Mutter. Jeg mercker nok, du veedst icke, hvad her er passeret; derfor tilgier jeg dig, som en Christen, din Forseelse. Raadet har ved de fleeste Stemmer udvalt Hosbond til at være Bormester, Mutter til at være Bormesterinde, dømt Engelke fra sit Jomfrueskab, og benaadet hende med Frøkens Titel. Derfor kand du let begribe, at det icke kand staa mig an, at arbeyde meer. Derfor bær jeg ogsaa dette Liberi, som du seer.</p></sp>
+<sp><speaker>Anneke.</speaker>
+<p>Ej! staa icke og fixere mig oven i Kiøbet.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Det er som jeg siger, Anneke; see der kommer Frøicken, som skal sande mine Ord.</p></sp>
+</div>
+<div type="chapter" subtype="scene" n="4_3">
+<head type="main"><ref type="contents" target="contents_4_3" xml:id="chapter_4_3">Sc. 3.</ref></head>
+<stage>Engelke. Anneke. Henrich.</stage>
+<sp><speaker>Engelke.</speaker>
+<p>Ach! Gud bedre mig arme Menniske, nu seer jeg ald Forhaabning er ude.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Ej! Frøiken, er det nu Tid at græde, da jere Forældre ere komne udi saadan Velstand.</p></sp>
+<sp><speaker>Engelke.</speaker>
+<p>Hold din Mund, Henrich, jeg vil ingen Frøichen være.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Hvad skal I da være? I er jo icke Jomfrue meere, saa maa I jo være Frøiken. Det er jo den næste Æres Trin, man stiger op, naar man skiller sig ved sin Jomfruedom.</p></sp>
+<sp><speaker>Engelke.</speaker>
+<p>Jeg vilde heller være en Bonde-Daatter, saa var jeg vi&#x00DF; paa, at kunde faa den, til hvilken jeg engang her bortgivet mit Hierte.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Eja! er det icke andet Frøickenen græder for, end hun vil giftes. Nu kand hun jo allersnarest blive gift, og faa hvilken Mand hun peeger paa; thi den halve Bye vil storme til Huset for at blive Bormesters Svoger.</p></sp>
+<sp><speaker>Engelke.</speaker>
+<p>Jeg vil ingen have uden Antonius, som jeg eengang har lovet Egteskab.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Ej! fy Jomfrue! vil I have nu en Hiulmager, hvilken neppe jeg, som er kun Reutendiener kand gaa i Lav med. Nej! I maa have anden Ambition herefter.</p></sp>
+<sp><speaker>Engelke.</speaker>
+<p>Hold du din Mund, din Tølpel, jeg vil før miste mit Liv, end lade mig tvinge til nogen anden.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Nu gier jer tilfreds Velbaarne Frøiken, vi vil see til, jeg og Bormesteren, om vi kand hielpe Antonius til en Bestilling, og saa kand I gierne faa ham.</p></sp>
+<stage>Anneke græder.</stage>
+<sp><speaker>Henrich.</speaker>
+<p>Hvorfor græder du Anneke?</p></sp>
+<sp><speaker>Anneke.</speaker>
+<p>Jeg græder af Glæde over den Lycke, som er vederfaret vor Huus.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Det er sant nok, Anneke, du har Aarsag at glæde dig; hvem Fanden skulde have tenkt, at saadan Soe, som du est, skulde have kundet blive Mammeselle.</p></sp>
+<sp><speaker>Anneke.</speaker>
+<p>Hvem Pocker skulde ogsaa have kundet tenkt, at saadan Sviin, som du, skulde kunde blive Reutendiener.</p></sp>
+<sp><speaker>Henrick.</speaker>
+<p>Hør Børn lille, jeg har icke Stunder at tale videre med dem denne gang; Frue Bormesters venter Fremmede. Jeg skal lave Caffee til; see der er hun, lad os gaa; jeg maa løbe at hente Caffee-Bordet.</p></sp>
+</div>
+<div type="chapter" subtype="scene" n="4_4">
+<head type="main"><ref type="contents" target="contents_4_4" xml:id="chapter_4_4">Sc. 4.</ref></head>
+<stage>Henrich. Geske.</stage>
+<stage>Henrich kommer ind med Caffee-Bordet, og er meget beskæftig.</stage>
+<sp><speaker>Geske.</speaker>
+<p>Hør Henrich! er der kommen Sirup udi Caffeen?</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Nej Mutter!</p></sp>
+<sp><speaker>Geske.</speaker>
+<p>Ingen Fatter eller Mutter meer, Henrich; det siger jeg dig eengang for alle; spring ud efter noget Sirup, og kom det i Potten.</p>
+<stage>(Henrich gaar ud)</stage>
+<p>Ald den Allarm var jeg foruden tilforn. Men jeg kand troe, naar jeg blir vant dertil, falder det mig lettere.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Her er Sirupen.</p></sp>
+<sp><speaker>Geske.</speaker>
+<p>Slaa den udi Potten: Hillement! det bancker. Nu skal mand nok see, at Raads-Herrernes Fruer kommer.</p></sp>
+<sp><speaker>Henrich</speaker>
+<stage>(ved Dørren)</stage>
+<p>Hvem vil I tale med?</p></sp>
+<sp><speaker>En Pige.</speaker>
+<p>Siig din Mester, at hand kand lyve saa sterck, som 10 Kandstøbere. Jeg har slidt op et par Skoe alleene med at løbe efter det Mad-Spand.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Jeg siger: Hvem vil I tale med?</p></sp>
+<sp><speaker>Pigen.</speaker>
+<p>Jeg vil tale med Mester Herman.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Du løber med Liim-Stangen. Her boer Bormester von Bremenfeld.</p></sp>
+<sp><speaker>Pigen.</speaker>
+<p>Det er forskreckeligt, mand kand icke faa sine Sager færdige, og skal lade sig narre oven i Kiøbet af en lumpen Kandstøber.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Har du noget at klage paa Kandstøberne, da maa du komme paa Raad-Stuen, der faar du nok rett, om jeg ellers kiender Bormester von Bremenfeld.</p></sp>
+<sp><speaker>To Lakeier.</speaker>
+<p>Vore Fruer vilde gierne fornemme, om det falt Bormesterinden beleiligt, saa vilde de have den Ære at opvarte hende.</p></sp>
+<sp><speaker>Henrich</speaker>
+<stage>Til Pigen:</stage>
+<p>Hør du nu Carnaille, at der ingen Kandstøber boer her.</p>
+<stage>Til Tienerne.</stage>
+<p>Jeg vil fornemme om Frue Bormesters er hiemme.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<stage>Til Geske.</stage>
+<p>Her er to Raads-Herrinder ude, som vil tale med Mutter.</p></sp>
+<sp><speaker>Geske.</speaker>
+<p>Lad dem komme ind.</p></sp>
+</div>
+<div type="chapter" subtype="scene" n="4_5">
+<head type="main"><ref type="contents" target="contents_4_5" xml:id="chapter_4_5">Sc. 5.</ref></head>
+<stage>Madame Abrahamsens. Mad. Sanderus. Geske. Henrich.</stage>
+<stage>De kiøsse begge paa hendes Forklæde.</stage>
+<sp><speaker>Mad. Abrahamsens.</speaker>
+<p>Vi ere hidkomne i Dag for at aflegge vor underdanige Gratulation og temoignere den hiertens Glæde og Fornøjelse, vi har over deres Avancement. Iligemaade at recommendere os udi deres Affection og Bevaagenhed.</p></sp>
+<sp><speaker>Geske.</speaker>
+<p>Tres humble Servitør. Jeg veed icke, om de vil behage at dricke en Skaal Caffee.</p></sp>
+<sp><speaker>Mad. Abrahamsens.</speaker>
+<p>Vi tacker Bormesterinden, vi er kun denne gang kommen for at gratulere.</p></sp>
+<sp><speaker>Geske.</speaker>
+<p>Tres humble Servitør. Men jeg veed nok de dricke gierne Caffee. De vil maa skee lade sig nøde. Vær saa god at sidde ned; Caffeen er gandske færdig. Henrich.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Velbaarne Frue!</p></sp>
+<sp><speaker>Geske.</speaker>
+<p>Har du kommen Sirupen i Caffeen?</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Ja jeg har.</p></sp>
+<sp><speaker>Geske.</speaker>
+<p>Vær saa god, I gode Madamer, at tage til Tacke.</p></sp>
+<sp><speaker>Mad. Sanderius.</speaker>
+<p>Frue Bormesters er saa god, at excusere os, vi dricker aldrig Caffee.</p></sp>
+<sp><speaker>Geske.</speaker>
+<p>Ej! hvilken Snak er det. Jeg veed nok bedre. De behager at sidde.</p></sp>
+<sp><speaker>Mad. Abrahamsens.</speaker>
+<p>Ach masoeur. Jeg er færdig at kaste op, naar jeg tencker paa den Sirup.</p></sp>
+<sp><speaker>Geske.</speaker>
+<p>Henrich! kom hid, og skienck i Kopperne.</p></sp>
+<sp><speaker>Mad. Sanderius.</speaker>
+<p>Det er alt nok Cammerad. Jeg kand kun dricke en halv Koppe.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Jeg skulde bede Bormesterinden komme ind et Øyeblick til Bormesteren.</p></sp>
+<sp><speaker>Geske.</speaker>
+<p>Forlader mig I gode Fruer, jeg maa gaa bort et Øyeblick. De skal strax have den Ære at see mig igien.</p></sp>
+</div>
+<div type="chapter" subtype="scene" n="4_6">
+<head type="main"><ref type="contents" target="contents_4_6" xml:id="chapter_4_6">Sc. 6.</ref></head>
+<stage>Raads-Herinderne alleene.</stage>
+<sp><speaker>1. Raads-Herinde.</speaker>
+<p>Ha ha ha ha ha ha ha ha ha, hvem bliver nu meest fixered Søster; enten hun, som vi sidder og beleer i vore Hierter, eller vi som maa dricke Caffee med Sirup udi.</p></sp>
+<sp><speaker>2. Raads-Herinde.</speaker>
+<p>Tal for Guds skyld icke meere om den Sirup, Søster, min Mave sidder mig op i min Hals, naar jeg tencker derpaa.</p></sp>
+<sp><speaker>1. Raads-Herinde.</speaker>
+<p>Gav du agt paa hvilken Mine hun giorde, da vi kyssede paa hendes Forklæde ha ha ha ha ha, jeg glemmer aldrig saa lenge jeg lever det Tres humble Serviteur ha ha ha ha ha ha ha.</p></sp>
+<sp><speaker>2. Raads-Herinde.</speaker>
+<p>Lee icke saa høyt, Søster! jeg er bange de kand høre det.</p></sp>
+<sp><speaker>1. Raads-Herinde.</speaker>
+<p>Ach Søster! det er just Konsten at kunde holde sig for Latter. Var det icke ogsaa en allerkieriste Hund hun havde paa Armen. Den skiønneste Lencke-Hund nogen vil forlange; jeg er vis paa, at den blir kaldet Joli oven i Kiøbet. Ach Himmel! er det dog icke sant, som mand siger, at intet Menniske er mere hofmodig, end det, som af Skarnet kommer strax til stor Værdighed: Derfore er intet farligere, end slige hastige Forandringer. Een, der er kommen af fornemme Folk, og har haft een adelig Optugtelse, blir gierne den samme, ja undertiden forfremmes udi Ydmyghed, ligesom den forfremmes udi Høyhed. Men de Mennisker som af intet voxe saa hastig op, som Champinjoner, i dem har Hoffærdighed som sit rette Sæde.</p></sp>
+<sp><speaker>2. Raads-Herinde.</speaker>
+<p>Hvad mon kand være Aarsag til saadant, mig siunes slige Folk burde heller blive ydmyge, naar de tenkte paa deris forrige Stand.</p></sp>
+<sp><speaker>1. Raads-Herinde.</speaker>
+<p>Aarsagen dertil maa være denne: De som ere af fornemme Folk har ingen mistenkt at foragte sig, og derfor bekymrer sig icke om, hvorledis de blive begegned. Gemeene Folk derimod have alle mistenkt, de synes hvert Ord, hver Mine sigter hen til at bebreide dem deris forrige Tilstand, og derfor søger at handthæve deris Værdighed ved Myndighed og Tyrannie. Troe mig, hierte Søster, det er noget i det, at være kommen af got Folk. Jeg kiger lidt udi Historier iblant, naar jeg har Leilighed, og finder adskillige Exempler baade udi høje og lave Øvrigheds Personer, som styrcker min Meening, ja jeg læser udi den Bog, Daglig Erfarenhed, det selv samme. Jeg har læst udi en gammel Rommerske Historie, som er oversat paa Tydsk, at den gemeene Almue udi en vi&#x00DF; Republiqve antastede Regieringen, og vilde ingen have til Regimentet uden gemeene Haandverks-Folk, forregivende, at derudi bestod den rette Frihed. Men de bleve formedelst samme Regenters Haardhed og Fremfusenhed selv snart kiede deraf, og forlangede den forrige Regierings-Form igien; thi &#x2013; &#x2013; &#x2013; Men der kommer Drengen tilbage; det er best at tie.</p></sp>
+</div>
+<div type="chapter" subtype="scene" n="4_7">
+<head type="main"><ref type="contents" target="contents_4_7" xml:id="chapter_4_7">Sc. 7.</ref></head>
+<stage>Henrich. 2. Raads-Herinder.</stage>
+<sp><speaker>Henrich.</speaker>
+<p>De gode Mardamer lader dem Tiden icke falde lang. Hendes Velbaarenhed kommer strax ind igien. Bormester har foræret hende et nyt Halsbaand til hendes Hund, men det var noget for viidt, hvorfor Skræderen er inde at tage Maal af Hundens Hals; saa snart det er bestilt kommer hun ind igien. Men I gode Mardamer tar icke ilde op, at jeg beder dem om noget; de er vel saa god og tencker paa mig med en liden Discretion; thi jeg har stoor Arbeide, og slæber som et Bæst her i Huset.</p></sp>
+<sp><speaker>1. Raads-Herinde.</speaker>
+<p>Gierne Kammerat! der er en Gylden, om hand icke vil forsmaae.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Ach største Tacksigelse. Jeg vilde ønske at jeg kunde tiene dem igien. Nu skal de som Mænd dricke brav, mens Fruen er ude; hun blir som mænd icke vred derfor, og hvis saa er, skal jeg nok giøre det got igien.</p></sp>
+<sp><speaker>1. Raads-Herinde.</speaker>
+<p>Ach! Kammerat, den største Tieneste I kand giøre os, det er icke at nøde os.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Som jeg siger, Velbaarne Mardamer, Fruen tar det min Troe icke ilde op; de skal som mænd dricke. Maa skee det er icke sødt noch, saa skal vi faa meer Sirup. Men der kommer Fruen selv.</p></sp>
+</div>
+<div type="chapter" subtype="scene" n="4_8">
+<head type="main"><ref type="contents" target="contents_4_8" xml:id="chapter_4_8">Sc. 8.</ref></head>
+<stage>Bormesterinden. 2. Raads-Herinder. Henrich.</stage>
+<sp><speaker>Bormesterinden.</speaker>
+<p>Om Forladelse jeg blev saa lenge ude: Fruerne har jo intet drucket imidlertid. Vi skal min Troe have Kanden tømmed, og siden, naar vi faar drucket Caffee, skal de smage vort Øll, det er saa got, uden at rose det, som nogen steds i Byen.</p></sp>
+<sp><speaker>Mad. Sanderus.</speaker>
+<p>Ach jeg faar saa hiertelig ont, Fru Bormesters pardonnerer mig, at jeg icke kand blive lenger, min Søster bier nok og tar til Tacke.</p></sp>
+<sp><speaker>Mad. Abrahamsens.</speaker>
+<p>Nej det var Synd, at jeg skulle forlade min Søster. Vi recommenderer os i Bormesterindens Affection.</p></sp>
+<sp><speaker>Gieske.</speaker>
+<p>I skal saa min Troe have et Glas Brendeviin, saa blir I strax frisk igien, det fordriver Vinde. Henrich, spring hen efter et Glas Janever, Fruen er icke vel.</p></sp>
+<sp><speaker>Mad. Sanderus.</speaker>
+<p>Nej excusere mig Fru Bormesters, jeg maa gaa.</p></sp>
+</div>
+<div type="chapter" subtype="scene" n="4_9">
+<head type="main"><ref type="contents" target="contents_4_9" xml:id="chapter_4_9">Sc. 9.</ref></head>
+<stage>En anden Raads-Herinde. Gieske. Henrich.</stage>
+<sp><speaker>Raads-Herinden.</speaker>
+<p>Underdanige Tienerinde velbaarne Frue. Jeg kommer efter min Skyldighed, at aflegge min Lyck-Ønskning.</p></sp>
+<stage>Geske recker hende Haanden at kysse, og hun kysser paa Haanden.</stage>
+<sp><speaker>Geske.</speaker>
+<p>Det skal være mig en Fornøjelse, om Jeg eller Bormester kand være dem til Tieneste. Vil hun icke sætte sig ned, vær saa god. Hun skal ingen Complimenter bruge, men bilde sig ind, at hun er hos hendes Lige.</p></sp>
+<sp><speaker>Raads-Herinden.</speaker>
+<p>Jeg tacker skyldigst, velbaarne Frue.</p>
+<stage>Sætter sig ned.</stage></sp>
+<sp><speaker>Geske.</speaker>
+<p>Her var nogle af hendes Med-Colleginder nylig, og drack Caffee med mig; jeg troer nok at her er et par Kopper til overs, om dem behager; det beste er ved Bunden. Jeg kand min Troe icke dricke meer, thi jeg har allereede faat saa meget til Lifs, at min Mave staar som en Tromme.</p></sp>
+<sp><speaker>Raads-Herinden.</speaker>
+<p>Jeg siger underdanigst Tack; jeg har nylig drucket Caffee.</p></sp>
+<sp><speaker>Geske.</speaker>
+<p>Efter Behag; Vi fornemme Folk nøder ingen. Men hør min kiere Madam, veed hun ingen Franzoise at recommendere mig til Frøikenen, jeg vilde at hun skulle lære Fransøsk.</p></sp>
+<sp><speaker>Raads-Herinden.</speaker>
+<p>Jo! Velbaarne Frue, jeg kiender een, som er meget artig.</p></sp>
+<sp><speaker>Geske.</speaker>
+<p>Got; men det vil jeg hun maa viide forud, at jeg taaler icke hun kalder mig Madam, som de Franske Folk plejer at giøre. Icke fordi jeg er storagtig, men jeg har saa mine Betenckende derved.</p></sp>
+<sp><speaker>Raads-Herinden.</speaker>
+<p>Nej det maa icke være. Men, maatte jeg ogsaa icke have den Naade, at kysse paa Frøkenens Hænder.</p></sp>
+<sp><speaker>Geske.</speaker>
+<p>Hiertelig gierne. Henrich kald paa Frøikenen, og siig, at her er en Raads-Herinde, som vil kysse paa hendes Hænder.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Jeg troer icke hun kand komme, thi hun sidder og saaler paa hendes Strømper.</p></sp>
+<sp><speaker>Geske.</speaker>
+<p>Hør eengang, hvorledes den Tølper staar, og taler hen i Taaget. Ha ha ha hand vilde sige baldyre.</p></sp>
+<sp><speaker>Arianke Grovsmids,</speaker>
+<stage>som er en forklæd Mands-Person kommer ind.</stage>
+<p>Ach min leeve Søster Geske! er det sant, at din Mand er bleven Bormester. Det er mig saa kiert, som een havte givet mig 2 Mark. Lad nu see, at du icke blir storagtig, men kiendes ved dine gamle Du-Søstre.</p></sp>
+<stage>Geske svarer icke et Ord.</stage>
+<sp><speaker>Arianke.</speaker>
+<p>Naar blev din Mand Bormester, Søster.</p></sp>
+<stage>Geske tier stille igien.</stage>
+<sp><speaker>Arianke.</speaker>
+<p>Du sidder i Tancker, Søster, jeg spør, naar din Mand blev Bormester.</p></sp>
+<sp><speaker>Raads-Herinden.</speaker>
+<p>I maa bruge lidt meer Respect, lille Madam, for Bormesterinden.</p></sp>
+<sp><speaker>Arianke.</speaker>
+<p>Nej min Troe bruger jeg ingen Complimenter med Søster Gieske; thi vi har været ligesom et Liv og Siæl. Men hvor er fat Søster, mig synes dog, at du er bleven noget storagtig.</p></sp>
+<sp><speaker>Geske.</speaker>
+<p>Moor lille, jeg kiender hende icke.</p></sp>
+<sp><speaker>Arianke.</speaker>
+<p>Saa kiender vor HErre mig da. Naar du har trengt til Penge, saa har du nok kiendt mig. Du kandst icke vide, min Mand kand blive det samme, som din endnu, førend hand døer.</p></sp>
+<stage>Geske faar ont, tar et Hoved-Vands-Eeg og lugter til.</stage>
+<sp><speaker>Henrich.</speaker>
+<p>Her ud din Smeede-Kielling, meener du, at du staar i en Smeede, og taler.</p>
+<stage>Tar hende ved Haanden, og leeder hende ud.</stage></sp>
+<sp><speaker>Geske.</speaker>
+<p>Ach! Madam, det er en Piine, at omgaaes med disse gemeene Folk; Henrich! du skal faa en Ulycke, dersom du indlader nogen Borger-Kone herefter.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Hun var drucken den Soe; thi Brende-Viinen stod hende af Halsen.</p></sp>
+<sp><speaker>Raads-Herinden.</speaker>
+<p>Den Hendelse giør mig hiertelig ont; thi jeg er bange, at Bormesterinden har forivret sig; fornemme Folk taaler icke meget. Jo højere mand kommer i Stand, jo meere delicat blir eens Legeme.</p></sp>
+<sp><speaker>Geske.</speaker>
+<p>Ja jeg kand sværge Fruen til, at jeg har, langt fra, icke den Hilsen nu, som jeg havde i min forrige Stand.</p></sp>
+<sp><speaker>Raads-Herinden.</speaker>
+<p>Jeg troer det nok, Hendes Velbaarenhed kommer herefter til at medicinere hver Dag, saa har alle andre Bormester-Fruer giordt.</p></sp>
+<sp><speaker>Henrich</speaker>
+<stage>til Spectatores.</stage>
+<p>Mig synes Mare ogsaa, at jeg har icke den Helbred, siden jeg blev Reutendiener, som tilforn. Jeg har faaet et Sting aa aa ret her i min venstre Side. I leer der af got, men det er min Troe dog Alvor. Jeg er ma foi bange inden jeg veed et Ord deraf, at jeg har en Podagra paa Halsen.</p></sp>
+<sp><speaker>Raads-Herinden.</speaker>
+<p>Bormesterinden maa ogsaa tage sig an en Doctor Aar-viis for sit heele Huus, der kand give hende nogle Draaber, som hun altid i det ringeste maa lade staa i en Flaske, enten hun vil bruge dem eller ej.</p></sp>
+<sp><speaker>Geske.</speaker>
+<p>Ja jeg vil min Troe ogsaa efterleve hendes Raad. Henrich! du skal siden springe hen til Doctor Hermelin, og bede ham, naar hand faar Leilighed, at giøre sin Opvartning hos mig.</p></sp>
+<sp><speaker>Raads-Herinden.</speaker>
+<p>Jeg maa nu tage Afskeed, Velbaarne Frue, og recommendere mig i hendes Affection.</p></sp>
+<sp><speaker>Geske.</speaker>
+<p>Alt recommenderet, min kiere Fru Raads-Herinde, hun har kun at tale mig og Mester Herman, jeg siger Bormester von Bremenfeld frit til; hvad vi kand være hende og hendes Kiereste til Tieneste, skal icke manqvere.</p></sp>
+<stage>Raads-Herinden kysser paa Forklædet og siger underdanigste Tienerinde.</stage>
+<sp><speaker>Geske.</speaker>
+<p>Adios.</p>
+<stage>Gaar ud.</stage></sp>
+</div>
+</div>
+<div type="chapter" subtype="act" n="5">
+<head type="main"><ref type="contents" target="contents_5" xml:id="chapter_5">ACT. V.</ref></head>
+
+<div type="chapter" subtype="scene" n="5_1">
+<head type="main"><ref type="contents" target="contents_5_1" xml:id="chapter_5_1">Sc. 1.</ref></head>
+<stage>Henrich. 2. Advocater.</stage>
+<sp><speaker>Henrich.</speaker>
+<p>Hillemend nu vil min Ploug gaa, nu er Audientz-Timen. Nu skal I see I got Folk, om nogen, der har været i 20 Aar i Tieniste kand bedre skicke sig derudi, end jeg; der hører jeg det bancker: Med hvem vil de gode Mænd tale.</p></sp>
+<sp><speaker>Advocat:</speaker>
+<p>Vi ville gierne have den Ære, at tale med Bormester.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Hand er endnu icke opstaaen.</p></sp>
+<sp><speaker>Advocat:</speaker>
+<p>Icke opstaaen Klocken 4re om Eftermiddagen?</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Jo hand er nok opstaaen, men hand er gaaen ud.</p></sp>
+<sp><speaker>Advocat:</speaker>
+<p>Nu møtte vi jo en Mand nys i Dørren, som talede med ham.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Hand er endelig inde, men hand er icke vel.</p>
+<stage>Sagte</stage>
+<p>Disse Karle ere dumme som Beester, de kand icke fatte min Meening.</p></sp>
+<sp><speaker>Advocat:</speaker>
+<stage>(sagte)</stage>
+<p>Jeg mercker nok Mon Frere, at den Karl vil lade sig smørre, vi maa sticke ham en Gylden i Næven, saa kommer nok Bormesteren strax. Hør Cammerat vil I icke forsmaae et par Gylden, at dricke paa vor Sundhed.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Nej I gode Herrer, jeg tar saa mænd aldrig mod Gaver.</p></sp>
+<sp><speaker>Advocat:</speaker>
+<p>Hvad skal vi da giøre Monfrere, saa maa vi gaa bort til en anden gang.</p></sp>
+<sp><speaker>Henrich</speaker>
+<stage>(vincker ad dem)</stage>
+<p>Hej Messiørs! de ere saa meget hastige. For deres Skyld vil jeg tage imod de tvende Gylden, de skulde ellers tencke at jeg var storagtig, og vort Huus derudover skulde blive talt ilde om.</p></sp>
+<sp><speaker>Advocat:</speaker>
+<p>See der Cammerat er 2 Gylden, om I icke vil forsmaae dem, nu er I saa god og skaffer os Audientz.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Ydmygste Tiener! for deres Skyld vil jeg giøre alt hvad jeg kand. Bormester er endelig frisk nok som en Hest, men dog ej saa vel, at hand kand tale med enhver. Men efterdi det er dem Messiørs, saa er det en anden Sag, vilde de behage at bie et Øjeblick Messiørs, saa skal jeg melde dem an. Men der bancker igien. Hvem vil I tale med min ærlig Mand.</p></sp>
+<sp><speaker>En Mand</speaker>
+<stage>gribende i sin Buxe-Lomme.</stage>
+<p>Jeg vilde gierne have den Ære at tale med Bormester.</p></sp>
+<sp><speaker>Henrich</speaker>
+<stage>(sagte)</stage>
+<p>Den Mand veed at leve, hand griber strax til Lommen.</p>
+<stage>Høyt.</stage>
+<p>Ja min Herre hand er hiemme, nu skal I strax faa ham i Tale.</p></sp>
+<stage>Henrich recker Haanden frem, men den anden, i Stæden for Penge, tar kun sit Uhrværck op, og siger, jeg seer Klocken er alt fire.</stage>
+<sp><speaker>Henrich.</speaker>
+<p>Hvem var det Monsieur vilde tale med.</p></sp>
+<sp><speaker>Manden.</speaker>
+<p>Med Bormester.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Hand er icke hiemme Monsiør.</p></sp>
+<sp><speaker>Manden.</speaker>
+<p>I sagde jo nylig, at hand var hiemme.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Kand nok være Messiør, men saa har jeg fortalt mig.</p></sp>
+<stage>Manden gaar bort.</stage>
+<sp><speaker>Henrich</speaker>
+<stage>(sagte)</stage>
+<p>Seer I vel til den Snydere; du skal nok see, at Bormester staar paa Pinde for dig.</p>
+<stage>Til Advocaterne.</stage>
+<p>Nu skal jeg strax melde dem an.</p></sp>
+<sp><speaker>Advocat:</speaker>
+<p>See ickun til den Dreng, hvor vel hand allereede veed at snoe sig i sin Bestilling. Holt nu gode Miner Monfrere, vi ere de som skal giøre Begyndelse til at plage denne gode Kandestøber. Vore Cammerater skal fuldføre Historien. Men see der kommer hand.</p></sp>
+</div>
+<div type="chapter" subtype="scene" n="5_2">
+<head type="main"><ref type="contents" target="contents_5_2" xml:id="chapter_5_2">Sc. 2.</ref></head>
+<stage>Bremenfeld. 2. Advocater. Henrich.</stage>
+<sp><speaker>1. Advocat.</speaker>
+<p>Vi ønsker af inderste Hiertens Grund Velbaarne Her Bormester Lycke til denne høje Værdighed udi vor Stad, og haaber, at hand i Mildhed, Forsigtighed og Aarvaagenhed icke skal give nogen af sine Formænd efter, saasom hans Velbaarenhed har baned sig Vejen til dette høje Embede, icke ved Rigdom, Slægt, eller Venner, men alleene ved sine bekiendte store Dyder, Lærdom og Erfarenhed udi Stats-Sager.</p></sp>
+<sp><speaker>Bremenfeld.</speaker>
+<p>Tres humble Serviteur.</p></sp>
+<sp><speaker>2. Advocat.</speaker>
+<p>I sær glæder vi os over, at have faat saadan Øvrighed, der icke alleene har fast Guddommelig Forstand &#x2013; &#x2013; &#x2013; &#x2013; &#x2013;</p></sp>
+<sp><speaker>Bremenfeld.</speaker>
+<p>Jeg tacker Gud.</p></sp>
+<sp><speaker>2. Advocat.</speaker>
+<p>Men som har Navn for at være venlig mod alle, og giøre til sin største Fornøjelse, at høre Folckes Klagemaal, og hielpe dem til rette; thi jeg kand sige at jeg var nær daaned af Glæde, da jeg først hørdte de Tidender, at Vallet var falden paa Her Bormester von Bremen.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>I skal sige von Bremenfeld Messiørs.</p></sp>
+<sp><speaker>2. Advocat.</speaker>
+<p>Jeg beder underdanig om Forladelse, jeg vilde sige Bormester von Bremenfeld. Nu er vi i Dag hidkommen først for at aflegge vor underdanige Lyck-Ønskning. Dernest at raadføre os med hans Velbaarenhed udi en Tvistighed, som har reiset sig imellem vore Principaler, hvilken Tvistighed vi havde begge beslutted at lade dømmes udi ved Lands-Lov og Ret, men vi har betenckt os siden, og for at undgaa den Tids-spilde, og de Omkostninger, som fødes af Rettergang, at underkaste os Her Bormesters Sigelse. Hvorved vi lover, at lade det blive.</p></sp>
+<stage>Bremenfeld sætter sig ned og lader de andre staa.</stage>
+<sp><speaker>1. Advocat.</speaker>
+<p>Begge vore Principaler ere Naboer, men der er et flydende Vand, som skiller deres Jorde fra hinanden. Nu er hendet sig for 3 Aar siden, at Vandet har løset et stort stycke Jord fra min Principals Grund, og ført det hen til min Contraparts Agre; Skal hand nu beholde det? heeder det icke: <hi rend="italic">nemo alterius damno debet locupletari.</hi> Her vil jo hans Principal berige sig med min Principals Skade, hvilket strider aperte mod <hi rend="italic">æqvitatem naturalem</hi>. Er dette icke saa Her Bormester.</p></sp>
+<sp><speaker>Bremenfeld.</speaker>
+<p>Jo det er jo ubilligt, at begiere saadant, I har ret Monsieur.</p></sp>
+<sp><speaker>2. Advocat.</speaker>
+<p>Men Justinianus siger jo udtryckelig <hi rend="italic">libro secundo Institutionum titulo primo de Alluvione</hi>.</p></sp>
+<sp><speaker>Bremenfeld.</speaker>
+<p>Hvad Pocker bryder mig, hvad Justinianus eller Alexander Magnus siger, som levede maa skee nogle tusende Aar førend Hamborg blev bygt, hvor kand de dømme i Sager, som icke var til i deres Tid.</p></sp>
+<sp><speaker>2. Advocat.</speaker>
+<p>Jeg haaber dog icke at Eders Velbaarenhed forkaster de Love, som heele Tydskland har underkastet sig.</p></sp>
+<sp><speaker>Bremenfeld.</speaker>
+<p>Det var icke saa jeg meente, I forstod mig icke ret, jeg vilde kun sige &#x2013;</p>
+<stage>Hand hoster imellem.</stage>
+<p>Vær saa god at sige videre frem eders Paastand.</p></sp>
+<sp><speaker>2. Advocat.</speaker>
+<p>Saadane er Justiniani Ord: <hi rend="italic">qvod per alluvionem agro tuo</hi> <hi rend="italic">flumen adjecit, jure gentium tibi acqviritur.</hi></p></sp>
+<sp><speaker>Bremenfeld.</speaker>
+<p>Her Advocat, I taler saa forbandet hastig, siig mig det meer tydelig.</p></sp>
+<stage>Advocaten repeterer det samme langsom.</stage>
+<sp><speaker>Bremenfeld.</speaker>
+<p>Ej Monsieur, I har en forbandet gal Ud-Tale i det Latinske Sprog, tael jers Moors Maal, det kommer I bedre af med; jeg siger det icke derfor, at jeg er en Hader af Latin; thi jeg sidder undertiden heele Timer, og taler Latin med min Tiener. Er det icke sant Henrich.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Det er forunderligt at høre Herren tale Latin, thi jeg kand sværge paa, at Taarene staar mig i Øynene, naar jeg tencker derpaa. Det er ligesom I hører Erter kaage i en Gryde, saa hastig løbe Ordene ham ud af Munden. Fanden kand icke begribe, hvordan et Menniske kand tale saa expedit. Men hvad giør icke den lange Øvelse.</p></sp>
+<sp><speaker>2. Advocat.</speaker>
+<p>Justiniani Ord Velbaarne Her Bormester ere saaledes: Hvad som en Flod river fra en andens Ager og kaster til din, det bliver dit.</p></sp>
+<sp><speaker>Bremenfeld.</speaker>
+<p>Ja Justinianus har saa vidt ret, thi det var en brav Mand. Jeg har ald for stoor Respect for ham, at jeg skulde underkiende hans Domme.</p></sp>
+<sp><speaker>1. Advocat.</speaker>
+<p>Men, Her Bormester, min Contrapart læser Loven, ligesom Fanden læser Bibelen. Hand glemmer det som følger strax paa: <hi rend="italic">per alluvionem autem videtur id adjici, qvod ità paulatim adjicitur, ut intelligi non possit, qvantum qvoqvo temporis momento adjicitur.</hi></p></sp>
+<sp><speaker>Bremenfeld.</speaker>
+<p>Messieur om Forladelse, jeg maa op paa Raadhuset; nu slog Klocken halvgaaen fem. Henrich see du til, at du kandst forlige Sagen med dem i Gangen.</p></sp>
+<sp><speaker>1. Advocat.</speaker>
+<p>Ach; Her Bormester, siig os da med et Ord hans Meening.</p></sp>
+<sp><speaker>Bremenfeld.</speaker>
+<p>Messieurs I har ret begge toe, hver paa sin Maade.</p></sp>
+<sp><speaker>2. Advocat.</speaker>
+<p>Hvorledes kand vi have ret begge to. Jeg meener, at, naar jeg har ret, saa har min Contrapart uret, Justiniani Lov er udtryckelig for mig.</p></sp>
+<sp><speaker>Bremenfeld.</speaker>
+<p>Forlader mig, jeg maa strax op paa Raadhuset.</p></sp>
+<sp><speaker>1. Advocat</speaker>
+<stage>Holdende paa Bormesteren.</stage>
+<p>Jeg har jo beviset, at Justiniani Ord er for mig.</p></sp>
+<sp><speaker>Bremenfeld.</speaker>
+<p>Ja det er sant, Justinianus er for jer begge, hvorfor Dievelen forliger I da icke Sagen. I kiender icke Justinianus, saa vel som jeg, naar hand henger Kaaben paa begge Sider, saa er det ligesaa meget, som hand vilde sige disse Ord: gaar hen I Skabhalse, og forliger Sagen.</p></sp>
+<sp><speaker>2. Advocat.</speaker>
+<p>Her Bormester! for at begribe Lovgiverens Meening ret, maa mand jo conferere en Artickel med en anden; staar der icke i nestfølgende Paragrapho? <hi rend="italic">qvòd si vis fluminis de tuo prædio.</hi></p></sp>
+<sp><speaker>Bremenfeld.</speaker>
+<p>Ej slipper mig I Ting-Stude! I hører jo, at jeg skal op paa Raadhuset.</p></sp>
+<sp><speaker>1. Advocat.</speaker>
+<p>Ej Her Bormester! et Øyeblick? lad os nu høre hvad Hugo Grotius siger.</p></sp>
+<sp><speaker>Bremenfeld.</speaker>
+<p>Jeg gier baade jer og Hugo Grotius Døden og Dievelen, hvad har jeg med Hugo Grotius at bestille, hand var en Armenianer, hvad kommer os de Love ved, som Folk giør, Fanden i Vold hen i Armenien. Henrich! leed dem strax paa Dør.</p></sp>
+<stage>De gaar ud.</stage>
+<stage>Henrich klamrer ude i Gangen og kommer ind paa sit Hoved, efterfuld af en Kielling, som maa være en forklæd Mands-Person.</stage>
+<sp><speaker>Kiellingen</speaker>
+<stage>tar Bormesteren for Brystet raabende:</stage>
+<p>Ach! er det Øvrighed, som gier saadane forbandede Love ud, at en Mand maa have to Koner; meener I vel, at Guds Straf er icke over jer.</p></sp>
+<sp><speaker>Bremenfeld.</speaker>
+<p>Er du gal Kielling, hvem Pocker har tenkt paa saadant.</p></sp>
+<sp><speaker>Kiellingen.</speaker>
+<p>Hej, hej, hej, jeg skal icke gaa bort, før jeg seer dit Hierte-Blod.</p></sp>
+<sp><speaker>Bremenfeld.</speaker>
+<p>A &#x2013; &#x2013; &#x2013; &#x2013; &#x2013; hielp. Henrich! Peiter!</p></sp>
+<stage>Peiter kommer ind og træcker Kiellingen ud; Henrich som var løbet i Skiul hielper endelig til med.</stage>
+</div>
+<div type="chapter" subtype="scene" n="5_3">
+<head type="main"><ref type="contents" target="contents_5_3" xml:id="chapter_5_3">Sc. 3.</ref></head>
+<stage>Bremenfeld. Henrich.</stage>
+<sp><speaker>Bremenfeld.</speaker>
+<p>Henrich du skal faa en Ulycke, om du indlader Kiellinger eller Advocater oftere, thi hver af dem dræber mig paa sin Maade. Dersom der kommer andre, og vil tale med mig, skal du sige dem, at de maa tage sig vare for icke at tale Latin, saasom jeg for en vi&#x00DF; Aarsag har forsvoret det.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Jeg har ogsaa forsvoret det for samme Aarsag.</p></sp>
+<sp><speaker>Bremenfeld.</speaker>
+<p>Du kandst sige, at jeg taler icke uden Grædsk.</p></sp>
+<stage>Der bancker igien.</stage>
+<stage>Henrich gaar til Dørren, og kommer ind med en stoor Packe Papiir.</stage>
+<sp><speaker>Henrich.</speaker>
+<p>Her er en Hob Papiir fra Syndicus, som Bormesteren skulde giennemsee og give sine Betenckende over.</p></sp>
+<stage>Bormesteren sætter sig ned ved et Bord, og rager udi Papirerne.</stage>
+<sp><speaker>Bremenfeld.</speaker>
+<p>Det er icke saa læt at være Bormester, som jeg tenckte, Henrich: Jeg har faat her nogle Sager at igiennemsee, som Fanden selv icke kand hitte Reede udi.</p>
+<stage>Begynder at skrive, reiser sig op, og tørrer Sveden af sig, sætter sig ned igien, og stryger ud, hvad hand har skrevet tilforn.</stage>
+<p>Henrich!</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Her Bormester!</p></sp>
+<sp><speaker>Bremenfeld.</speaker>
+<p>Hvad er det for Allarm du giør? kand du icke staa stille?</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Jeg rører mig icke af Steden Her Bormester.</p></sp>
+<sp><speaker>Bremenfeld.</speaker>
+<stage>Hand reiser sig op igien, tørrer Sveden af sig, som tilforn, og kaster sin Peruqve paa Gulvet, paa det hand disbedre kand meditere med blott Hoved. Spadtzerer over Peruqven, og spender den til Side, sætter sig ned at skrive igien. Raaber:</stage>
+<p>Henrich!</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Her Bormester.</p></sp>
+<sp><speaker>Bremenfeld.</speaker>
+<p>Du skal faa en Ulycke, staar du icke stille, det er den anden gang du har forstyrret mine Concepter.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Jeg giorde min Troe icke andet, end jeg stack min Skiorte ind, og maalede paa mine Been, hvor meget min Liberi-Kiol var for lang.</p></sp>
+<sp><speaker>Bremenfeld.</speaker>
+<stage>Reiser sig op igien, og bancker paa sin Hierne med Haanden for at faa Concepter.</stage>
+<p>Henrich!</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Her Bormester!</p></sp>
+<sp><speaker>Bremenfeld.</speaker>
+<p>Gak ud og siig til de Kiellinger, som raaber paa Gaden med Østers, at de maa icke raabe i denne Gade, hvor jeg boer; thi det forstyrrer mig i mine politiske Forretninger.</p></sp>
+<sp><speaker>Henrich</speaker>
+<stage>Raaber ved Dørren disse Ord tree gange:</stage>
+<p>Hør I Østers-Kiellinger! I Carnalier! I Caronier! I uforskammede Tasker! I Ægtemænds Horer! er der ingen Skam i jer, at I tør raabe saadan udi Bormesterens Gade, og forstyrre ham i hans Forretninger?</p></sp>
+<sp><speaker>Bremenfeld.</speaker>
+<p>Henrich!</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Her Bormester!</p></sp>
+<sp><speaker>Bremenfeld.</speaker>
+<p>Holt op igien dit Beest.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Det giør og ingen gode at jeg raaber meere, thi Byen er fuld af saadane Folk, saa snart een er gaaen forbi, kommer en anden strax i Stæden; thi dersom &#x2013;</p></sp>
+<sp><speaker>Bremenfeld.</speaker>
+<p>Ingen Snack meer, staa still og holdt Munden.</p>
+<stage>Sætter sig ned, og stryger ud, hvad hand har skrevet igien, skriver paa nye, reiser sig op, og stamper af Vrede paa Gulvet, raaber:</stage>
+<p>Henrich!</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Her Bormester.</p></sp>
+<sp><speaker>Bremenfeld.</speaker>
+<p>Jeg var tilfreds det Bormesterskab var Fanden i Vold. Vil du være Bormester i min Sted?</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Skam der giør. <stage>(sagte)</stage> Og ligesaa faa den der det begierer.</p></sp>
+<sp><speaker>Bremenfeld.</speaker>
+<stage>Vil sætte sig ned, at skrive igien, men sætter sig feil i Tancker og falder paa Gulvet, raaber</stage>
+<p>Henrich!</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Her Bormester!</p></sp>
+<sp><speaker>Bremenfeld.</speaker>
+<p>Jeg ligger paa Gulvet.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Jeg seer det nok.</p></sp>
+<sp><speaker>Bremenfeld.</speaker>
+<p>Hid, og hielp mig op igien.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Bormester har jo sagt, at jeg icke maa røre mig af Stædet.</p></sp>
+<sp><speaker>Bremenfeldt.</speaker>
+<p>Det er en forbandet Dreng.</p>
+<stage>Reiser sig selv op igien.</stage>
+<p>Bancker der icke paa Dørren?</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Jo! hvem vil I tale med.</p></sp>
+<sp><speaker>En Borger.</speaker>
+<p>Jeg er Oldermand for Hattemagerne, jeg har noget at klage for Bormester.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Her er Oldermanden for Hattemagerne med nogle Besværinger.</p></sp>
+<sp><speaker>Herman von Bremenfeld.</speaker>
+<p>Ej! jeg kand icke have meere end en Ting i Hoved paa engang, spørg ham hvad det er.</p></sp>
+<sp><speaker>Borgeren.</speaker>
+<p>Det er for vitløftigt. Jeg maa tale med Bormester selv; det kand være giort paa en Time; thi mine Klagemaal bestaar kun i 20 Puncter.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Hand siger, hand maa tale med Bormester selv; thi hans Puncter bestaar kun i 20 Klagemaal.</p></sp>
+<sp><speaker>Bremenfeld.</speaker>
+<p>Ach! Gud bedre mig arme Mand, jeg er gandske fortumlet i mit Hoved allereede, lad ham komme ind.</p></sp>
+<sp><speaker>Borgeren.</speaker>
+<p>Ach! Her Bormester, jeg fattig Mand har liidt stoor Uret, som Bormester nu strax skal begribe, naar hand faar det at høre.</p></sp>
+<sp><speaker>Bremenfeld.</speaker>
+<p>I maa forfatte det skriftlig.</p></sp>
+<sp><speaker>Borgeren.</speaker>
+<p>Her har jeg forfattet det paa fire Ark.</p></sp>
+<sp><speaker>Bremenfeld.</speaker>
+<p>Henrich! der bancker igien.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Hvem vil I tale med?</p></sp>
+<sp><speaker>En anden Borger.</speaker>
+<p>Jeg har noget at klage for Bormester mod Oldermanden for Hattemagerne.</p></sp>
+<sp><speaker>Bremenfeld.</speaker>
+<p>Hvem var det Henrich!</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Det er denne Mands Contrapart.</p></sp>
+<sp><speaker>Bremenfeld.</speaker>
+<p>Lad ham fly dig sit Indgivende, bliver kun begge I gode Mænd i Forstuen saa længe. Henrich!</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Ja Herre.</p></sp>
+<sp><speaker>Bremenfeld.</speaker>
+<p>Kand du icke hielpe mig noget til rette, jeg veed icke, hvilket jeg skal giøre først. Læs op for mig Hattemagerens Paastand.</p></sp>
+<stage>Henrich: læser op, det som følger,</stage>
+<sp>
+<p>Velbaarne, Høylærde</p>
+<p>Strenge faste Her Borgemester</p>
+<p>Af denne herlige Byes lovlige Borgerskabs anseelige Laug, fremstiller sig som en Første-grøde jeg underskrefne N. N. uværdig Oldermand for det anseelige Hattemagers Laug, og næst forhen aflagt saa ærbødig som kierlig Gratulation over at see een saa værdig og høy opliust Mand ophøjet, til en saa høy Høyhed, andrager i dybeste Ydmyghed en af de største, farligste, og vederstyggeligste Misbruge, som de vanartige Tider, og meere vanartige Mennisker have ført i Brug her i denne Stad, i Haab, at Eders Herlighed derpaa vil raade Bod. Sagen er denne, at Kremmerne her i Staden bær aldeles ingen Frygt eller Undseelse for, offentlig at sælge, og falholde heele Stycker af et Slags Klæde, som de lade væve af Castor, ja falde og til den gruelige Dumdristighed, at de deraf lade væve Strømper, da det dog er bekient, at Beverhaar hører alleene vor Profession til, hvorudover vi arme Hattemagere icke med Penge kand opveje de til vor Nærings Fortsættelse behøvende Haar, saa got Folk derover kommer i saadan Vane, at faae nu meere vil give 10 <hi rend="italic">à</hi> 20 Rdlr. for en Hat, vores Handverk til ubodelig Skade paa Reputation og Indkomme. Naar det nu maatte behage min Her Bormester at overveje efterfølgende 24 vigtige Aarsager og Raisons, hvorefter vi Hattemagere formodentlig formeene os alleene at være berettigede til Arbeide af Castor, nemlig (1) at det af Alders Tiid har været en almindelig Skik og Landsbrug, ej alleene her, men over heele Verden, at bære Castor-Hatte, som med mangfoldige Citationer af Historien, som og lovlig derover førte Tings-Vidne kand bevises. 1. Af Historien &#x2013; &#x2013; &#x2013; &#x2013; &#x2013;</p></sp>
+<sp><speaker>Bremenfeld.</speaker>
+<p>Spring over Historien.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>2. Af Tings-Vidner, at Adrian Nilsen gl. 79 Aar kand erindre sig, sin Faders Oldefader har sagt &#x2013; &#x2013; &#x2013; &#x2013; &#x2013;</p></sp>
+<sp><speaker>Bremenfeld.</speaker>
+<p>Spring ogsaa over, hvad hand har sagt.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>(2) At det er en umaadelig Overdaadighed, at bruge saa kostbare Haar til Strømper og Klæder, som strider imod ald god Orden og Skik, besynderlig siden der hidføres saa mange kostbare fine Klæder fra Engeland, Franckerig og Holland, at man vel derved kunde lade sig nøje, uden at falde en ærlig Mand i sin Næring.</p></sp>
+<sp><speaker>Herman von Bremenfeld.</speaker>
+<p>Nok nok Henrich. Jeg begriber at Oldermanden har ret.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Men jeg har hørt, at en Øvrighed altid maa høre begge Parterne, førend hand felder Dom, skal jeg derfor icke ogsaa læse Contrapartens Svar.</p></sp>
+<sp><speaker>Bremenfeld.</speaker>
+<p>Ja nok.</p></sp>
+<stage>Hand flyer ham efterfølgende Contrapartens Besværing.</stage>
+<sp><speaker>Henrich</speaker>
+<stage>læser:</stage>
+<p>Høybaarne Excellentz
+<lb/>Høy oplyste og høyst politiske 
+<lb/>Her Borgemester.</p>
+<p>Saa høyt som Eders Forstand stiger over andres, saa høyt gaar min Glæde over andres, nu jeg har hørt, at I er bleven Bormester; men det jeg kommer for, er for Hattemagerne giør mig Fortred, og vil icke jeg maa sælge Stoffe og Strømper af Castor. Jeg forstaar nok hvad de vil, de vil have Handelen paa Castor alleene, og at mand skal icke bruge Castor til andet end til Hatte; men de forstaar det intet. Det er taabeligt at bære en Castors Hat; den gaar mand med under Armen, den hverken varmer eller nytter, og en Straaehat var af samme Nytte. Castor-Strømper og Klæder derimod er baade varme og bløde, og havde Her Bormester kun forsøgt det, som med Tiden kand skee, skulde I bekiende det selv.</p></sp>
+<sp><speaker>Bremenfeld.</speaker>
+<p>Holt op det er nok, denne har jo ret ogsaa.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Men jeg veed jo, at de kand icke have ret og begge.</p></sp>
+<sp><speaker>Bremenfeld.</speaker>
+<p>Hvem har da ret.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Det maa vor HErre og Borgemester vide.</p></sp>
+<sp><speaker>Bormesteren</speaker>
+<stage>reiser sig op og spatzerer.</stage>
+<p>Dette er noget forbandet Tøy. Henrich! kand dit dumme Beest icke sige mig, hvem der har ret. Hvorfor skal jeg give din Hund Kost og Løn.</p>
+<stage>Derpaa følger Allarm i Gangen, og hand spør:</stage>
+<p>Hvad er det for Allarm i Gangen?</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>De to Borgere er i Haar sammen.</p></sp>
+<sp><speaker>Bremenfeld.</speaker>
+<p>Gak ud og bed dem have Respect for Bormesterens Huus.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Det er best, Herre, de slaaes, saa, maa skee, de blir dis snarere gode Venner igien. Hillemend jeg troer, de vil bryde ind; hør hvor de trommer paa Dørren.</p></sp>
+<stage>Herman von Bremenfeldt kryber under Bordet og skiuler sig.</stage>
+<sp><speaker>Henrich.</speaker>
+<p>Hvem bancker?</p></sp>
+<sp><speaker>En Lakei.</speaker>
+<p>Jeg er fra en fremmed Resident, min Herre har noget at tale med Bormester, som er vigtigt.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Hvor Pocker blev der af Bormester. Mon Fanden tog Bormesteren. Her Bormester!</p></sp>
+<sp><speaker>Bormesteren</speaker>
+<stage>under Bordet, gandske sagte,</stage>
+<p>Henrich, hvem var det.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>En fremmed President vil tale med Herren.</p></sp>
+<sp><speaker>Bremenfeld.</speaker>
+<p>Beed ham komme igien om en halv Time, og siig, at der er to Hattemagere hos mig, som jeg maa expedere. Henrich! beed ogsaa Borgerne gaa bort til i Morgen. Ach! Gud bedre mig arme Mand, jeg er saa fortumled i mit Hoved, at jeg veed icke selv, hvad jeg siger eller giør. Kand du icke hielpe mig noget til rette Henrich!</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Jeg veed icke bedre Raad for Her Bormester, end at hand henger sig op.</p></sp>
+<sp><speaker>Bremenfeld.</speaker>
+<p>Gak ud og hent mig den politiske Stock-Fisk, som ligger paa daglig Stue-Bordet, det er en Tydsk Bog i hvidt Bind, maa skee jeg kand finde derudi, hvorledis jeg skal tage imod fremmede Presidenter.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Vil Bormester have Senep og Smør dertil.</p></sp>
+<sp><speaker>Bremenfeld.</speaker>
+<p>Nej, det er en Bog i hvidt Bind.</p></sp>
+<stage>Medens Henrich er ude, gaar Bormesteren og river i Tancker Hattemagerens Document i stycker.</stage>
+<sp><speaker>Henrich.</speaker>
+<p>Her er Bogen. Men hvad er det Herren river i stycker; det er min Troe Oldermandens Klagemaal.</p></sp>
+<sp><speaker>Bremenfeld.</speaker>
+<p>Ach! jeg giorde det i Tancker.</p>
+<stage>Hand tar Bogen og kaster mod Gulvet.</stage>
+<p>Jeg troer Henrich, det er best, at jeg henger mig, efter dit Raad.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Hej saa! nu bancker det igien.</p>
+<stage>Gaar ud, kommer ind igien grædende.</stage>
+<p>Ach! Her Bormester! hielp Her Bormester!</p></sp>
+<sp><speaker>Bremenfeld.</speaker>
+<p>Hvad er paa Færde?</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Der er et heelt Regiment Matrodser uden for Dørren, som raaber, faar vi icke ret, da skal vi slaa alle Bormesters Vindver ind. En af dem slog mig med en Steen udi Ryggen: au &#x2013; au &#x2013; au &#x2013;</p></sp>
+<sp><speaker>Bormesteren</speaker>
+<stage>kryber under Bordet igien.</stage>
+<p>Henrich; beed Frue Bormesters komme ud, at holde Styer paa dem, maaskee de har Respect for Fruentimmeret.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Jo, jo, I skal nok see, at Baadsmænd har Respect for Fruentimmeret, kommer hun ud, saa maa skee de tar hende med Vold, og det sidste blir da verre end det første.</p></sp>
+<sp><speaker>Bremenfeld.</speaker>
+<p>Ej! det er jo en gammel Kone.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Matrodser ere icke saa delicate, jeg vovede icke min Kone paa det samme, der bancker det igien; skal jeg lucke op?</p></sp>
+<sp><speaker>Bremenfeld.</speaker>
+<p>Nej, jeg er bange, at det er Baadsfolcket. Ah! gid jeg var i Graven. Henrich, spring hen til Dørren, at høre hvo det er.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>See her: De gaa min Troe lige ind, det er to Raads-Herrer.</p></sp>
+</div>
+<div type="chapter" subtype="scene" n="5_4">
+<head type="main"><ref type="contents" target="contents_5_4" xml:id="chapter_5_4">Sc. 4.</ref></head>
+<stage>Abrahams. Sanderus. Herman. Henrich.</stage>
+<sp><speaker>Abraham.</speaker>
+<p>Er Bormester icke hiemme?</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Jo hand sidder vist under Bordet.</p></sp>
+<sp><speaker>Sanderus.</speaker>
+<p>Hvad? sidder hand under Bordet Her Bormester?</p></sp>
+<sp><speaker>Herman von Bremenfeld.</speaker>
+<p>Ah! I gode Herrer, jeg har jo aldrig søgt om at blive Bormester; hvorfor har I bragt mig i denne Ulycke?</p></sp>
+<sp><speaker>Abraham.</speaker>
+<p>Hand har jo engang taget derimod; kom kun frem Her Bormester; vi ere hidkomne for at forestille ham den store Feil, hand har begaaet imod den fremmede Minister, som hand saa haanlig har viset bort; hvorover Staden kand komme i Fortred: Vi tenckte, Her Bormester bedre forstod Jus publicum og Ceremonialier.</p></sp>
+<sp><speaker>Bremenfeld.</speaker>
+<p>Ah! I gode Herrer! I kand jo sætte mig af, saa blir jeg reddet fra denne Byrde, som jeg er for svag til at bære, og den fremmede Minister faar Satisfaction tillige.</p></sp>
+<sp><speaker>Sanderus.</speaker>
+<p>Det være langt fra, Her Bormester, at vi skulde sætte ham af: Hand maa følge os strax til Raadhuset, for at overlegge med Syndico, hvorledes denne Forseelse kand gotgiøres.</p></sp>
+<sp><speaker>Bormesteren.</speaker>
+<p>Jeg gaar icke til Raadhuset, om mand træckede mig end efter Haaret, jeg vil icke være Bormester, jeg har og icke søgt om at være det; I maa heller tage Livet af mig; jeg er Kandestøber med Gud og Æren, jeg vil og døe Kandestøber.</p></sp>
+<sp><speaker>Sanderus.</speaker>
+<p>Vil I da fixere det heele Raad? Hør Monfrere! tog hand icke mod Bormesterskabet?</p></sp>
+<sp><speaker>Abraham.</speaker>
+<p>Jo vist, det er jo noget, som vi allereede har rapporteret.</p></sp>
+<sp><speaker>Sanderus.</speaker>
+<p>Vi skal nok faa Raad dertil; det heele Senat lar sig icke saaledes prostituere.</p></sp>
+</div>
+<div type="chapter" subtype="scene" n="5_5">
+<head type="main"><ref type="contents" target="contents_5_5" xml:id="chapter_5_5">Sc. 5.</ref></head>
+<stage>Herman. Henrich.</stage>
+<sp><speaker>Herman von Bremenfeld.</speaker>
+<p>Henrich!</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Her Bormester!</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Hvad meener du vel, disse Raads-Herrer vil giøre ved mig?</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Jeg veed det icke, Herre, de vare meget vrede, det saae jeg nok, mig undredes, at de torde bruge saadan en viis Mund i Bormesters Stue; havte jeg været Bormester, jeg havde min Troe paa en god Maade sagt dem: Holder jer Snude til I Skabhalse, I skal sticke Fingeren paa Gulvet, og lugte, hvad Huus I er udi.</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Gid du var Bormester, Henrich! gid du var Bormester ah! ah! Ah!</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Om jeg maatte falde ind udi Herrens Forretninger, saa vilde jeg ydmygst bede om en Ting; nemlig, at jeg maatte kalde mig von Henrich herefter.</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Ej! din uforskammede Knægt! er det nu Tiid at komme med saadan Snack? nu du seer, at jeg er omspendt med lutter Ulycker og fortrædelige Forretninger.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Jeg giør det parrol icke af nogen Ærgierighed, men alleene for at have nogen Respect i Huset af mine Medtienere, besynderlig af Anneke, som &#x2013;</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Hvis du icke holder din Mund, skal jeg træde dit Hals-Been i stycker. Henrich.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Her Bormester.</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Kand du icke hielpe mig noget til rette, din dumme Hund. See der! giør mine Sager klar for mig eller du skal faa en Ulycke.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Det er dog underligt, at Herren vil begiere saadant af mig; hand som er saadan klog Mand, og alleene for sin Viisdom er bleven udvalt til dette høje Embede.</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Vil du fixere mig oven i Kiøbet.</p>
+<stage>Tar Stolen og vil slaae ham med. Henrich løber ud.</stage></sp>
+</div>
+<div type="chapter" subtype="scene" n="5_6">
+<head type="main"><ref type="contents" target="contents_5_6" xml:id="chapter_5_6">Sc. 6.</ref></head>
+<sp><speaker>Herman von Bremenfeld</speaker>
+<stage>(alleene.)</stage>
+<stage>Sætter sig ned med Hænderne under Kinden, og grunder længe: Springer op af Alteration, og siger: Banckede det icke, gaar sagte hen til Dørren, men seer ingen. Sætter sig ned at grunde igien, falder i Graad, og tørrer Øynene med Papirerne, af Alteration igien springer op, som udi Raseri, og raaber:</stage>
+<p>En heel Byldt Forestillinger af Syndicus: Hattemagernes Oldermand; Oldermandens Contrapart; Klagemaal i 20 Puncter! Oprør af Matrodser! fremmed President; Tiltale af Raadet! Trudsler! mon her intet Reeb er ved Haanden; jo jeg troer vist, at der er et bag Kackelovnen.</p>
+<stage>Tar Rebet og laver det til.</stage>
+<p>Det er spaaet mig, at jeg ved mine poliske Studia skal ophøjes. Den Spaadom blir sand, om Reebet ellers vil holde. Lad saa Raadet komme med alle deres Trudsler, jeg blæser af dem, naar jeg er død: En Ting vilde jeg dog ønske, nemlig at see Author til den politiske Stockfisk henge ved Siden af mig med 16 Stads-Cabineter og politiske Nach-Tisker om Halsen.</p>
+<stage>Tar Bogen af Bordet, og river den i stycker.</stage>
+<p>Du Canaille skal aldrig forføre nogen ærlig Kandestøber meer, saa! det er dog en liden Trøst, før jeg døer. Nu maa jeg leede efter en Krog at henge mig paa. Det blir besynderlig merckværdigt at sige efter min Død: Hvilken Bormester i Hamborg var meer aarvaagen end Herman von Bremenfeld, der udi sit heele Bormesterskab icke sov et Øjeblick.</p></sp>
+</div>
+<div type="chapter" subtype="scene" n="5_7">
+<head type="main"><ref type="contents" target="contents_5_7" xml:id="chapter_5_7">Sc. 7.</ref></head>
+<stage>Antonius. Herman.</stage>
+<sp><speaker>Antonius.</speaker>
+<p>Hey! hey! hvad Pocker bestiller I?</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Jeg har icke i Sinde at bestille noget; men for at undgaa Bestilling vil henge mig. Vil I giøre Compagnie med, skal det være mig en Fornøjelse.</p></sp>
+<sp><speaker>Antonius.</speaker>
+<p>Nej min Troe vil jeg icke; men hvad bringer jer til saadant fortvilet Forsæt?</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Hør Antoni, det giør ingen gode, at I taler derom; jeg skal henges, skeer det icke i Dag, saa skeer det i Morgen; jeg vil kun bede &#x2013; &#x2013; &#x2013; &#x2013; &#x2013; at I formælder min Respect til Frue Bormesters og Frøikenen, og befaler dem at giøre mig saadan Gravskrift:</p>
+<lg>
+<l>Stat stille Vandrings-Mand</l>
+<l>Her henger Bormester von</l>
+<l>Bremenfeld. Som i sit heele</l>
+<l>Bormesterskabs Tiid intet</l>
+<l>Minut sov.</l>
+<l>Gak du bort og giør ligesaa.</l>
+</lg>
+<p>I veed maa skee icke, kiere Antoni, at jeg er bleven Bormester, at jeg har faat et Embede, hvorudi jeg veed icke, hvad hvidt eller sort er og hvortil jeg finder mig gandske udygtig; thi jeg har merket af adskillige Fortrædeligheder, som allereede har mødt mig, at det er stoor Forskiel paa at være Øvrighed, og at raisonnere om Øvrighed.</p></sp>
+<sp><speaker>Antonius.</speaker>
+<p>Ha ha ha ha ha ha.</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Belee mig icke Antoni I har Synd deraf.</p></sp>
+<sp><speaker>Antonius.</speaker>
+<p>Ha ha ha. Nu mercker jeg hvor det henger sammen; jeg var nyelig paa et Verts-Huus, hvor jeg hørte Folk spricke af Latter over en Comoedie, som mand havte spillet Herman von Bremen i det, at nogle unge Mennisker havte bildet ham ind, at hand var bleven Bormester, for at see hvorledes hand kunde skicke sig derudi; det giordte mig hiertelig ont, da jeg hørte saadant. Gik derfor strax hid, for at advare jer derom.</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Ah! er jeg da icke Bormester?</p></sp>
+<sp><speaker>Antonius.</speaker>
+<p>Nej det er puur opspunden Tøy, for at venne jer af med jer Galskab at raisonnere over høje Ting, som I icke forstaar.</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Ah! er det ej heller sant om den fremmede President?</p></sp>
+<sp><speaker>Antonius.</speaker>
+<p>Nej vist icke.</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Ej heller om Hattemagernes Oldermand?</p></sp>
+<sp><speaker>Antonius.</speaker>
+<p>Det er altsammen opspundet.</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Ej heller om Matrodserne?</p></sp>
+<sp><speaker>Antonius.</speaker>
+<p>Nej, nej.</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Gid Fanden henge sig da! Gieske! Engelke! Peiter! Henrich! herud allesammen.</p></sp>
+</div>
+<div type="chapter" subtype="scene" n="5_8">
+<head type="main"><ref type="contents" target="contents_5_8" xml:id="chapter_5_8">Sc. 8.</ref></head>
+<stage>Herman. Antonius. Geske. Engelke. Peiter. Henrich.</stage>
+<sp><speaker>Herman.</speaker>
+<p>Min hierte Kone! gaa hen til dit Arbeid igien; vor Bormesterskab er alt til ende.</p></sp>
+<sp><speaker>Geske.</speaker>
+<p>Til ende?</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Ja, ja, det er til ende, nogle Skalke har rottet sig sammen for at fixere os.</p></sp>
+<sp><speaker>Geske.</speaker>
+<p>Fixere os, da skal de faa en Ulycke, som har fixeret os, og du med.</p>
+<stage>Hun gier ham Ørefigen.</stage></sp>
+<stage>Herman prygler hende dygtig.</stage>
+<sp><speaker>Geske.</speaker>
+<p>Ah! min hierte Mand slaa mig icke meer, ah! min hierte Mand holdt op.</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Du skal vide Kone, at jeg er icke Politicus længer, og derfor icke tæller meer til tiuve, naar jeg faar Ørefigen. Jeg agter at føre et andet Levnet herefter; kaste mine Bøger paa Ilden, og tage alleene vare paa mit Handtverk herefter. Jeg varer ogsaa ad engang for alle, at dersom jeg seer nogen af jer læser i en politisk Bog, eller bringer nogen i mit Huus, da skal det bekomme dem ilde.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Jeg for min Part har ingen Fare derfor Her Bormester, thi jeg kand hverken læse eller skrive.</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Lad kun den første Stavelse være ude, og kald mig slet og ret Mester som tilforn; thi jeg er Kandestøber, og vil døe Kandestøber. Hør Monsieur Antoni: Jeg veed, at I har haft Godhed for min Datter. Mine forrige Capricer har hindret Jers Kierlighed. Nu har I baade hendes Faders og Moors Samtycke, saa at hvis I er ved samme Sind og Forset, er ald Hinder ophevet.</p></sp>
+<sp><speaker>Antonius.</speaker>
+<p>Ja jeg blir ved mit Forset, og beder at hun maa blive min Hustrue.</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Gier du dit Samtycke dertil ogsaa Geske.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Ah! det er icke at spørge om, Frue Bormesters har altid været for det Partie.</p></sp>
+<sp><speaker>Geske.</speaker>
+<p>Holt Munden til Giek; jeg kand nok svare selv. Jeg har, min hierte Mand, givet mit Samtycke dertil for 3 Aar siden.</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Jeg vil icke spørge dig Engelke; jeg veed, du er saa forliebt i ham, som en Rotte i en Ost; er det icke sant.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Svar Frøiken.</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Vidste jeg, at du gav disse Titler af Malice, skulde det bekomme dig ilde.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Nej min Troe giør jeg icke Mester; men mand kand icke saa hastig komme af Vanen igien.</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Gier I To da hinanden Hænder. Saa! nu er det got, i Morgen skal vi holde Bryllup. Henrich.</p></sp>
+<sp><speaker>Henrich.</speaker>
+<p>Her Bormester, om Forladelse, ja Mester.</p></sp>
+<sp><speaker>Herman.</speaker>
+<p>Du skal brænde mig op alle mine politiske Bøger; thi jeg kand icke see det for mine Øjen meer, som har bragt mig i slige Griller.</p>
+<lg>
+<l>Vi Øvrighed med Munden slaa</l>
+<l rend="indent">Kand dog selv intet giøre;</l>
+<l>Et er et Søe-Kort at forstaa,</l>
+<l rend="indent">Et andet Skib at føre,</l>
+<l>Af en politisk Bog mand kand</l>
+<l rend="indent">Vel lære raisonnere</l>
+<l>Men til at forrestaa et Land</l>
+<l rend="indent">Udfordres andet meere.</l>
+<l>Af hvad som mig i Dag er skeed</l>
+<l rend="indent">Hver Handvercks-Mand kand lære,</l>
+<l>At den der retter Øvrighed</l>
+<l rend="indent">Just selv den ej kand være,</l>
+<l>Thi naar en Kandestøber til</l>
+<l rend="indent">Bormesters Embed løber,</l>
+<l>Er som naar Stats-Mand blive vil</l>
+<l rend="indent">I hast en Kandestøber.</l>
+</lg></sp>
+</div>
+</div>
+</body>
+</text>
+</TEI> 

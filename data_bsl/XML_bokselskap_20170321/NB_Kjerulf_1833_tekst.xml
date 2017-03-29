@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI PUBLIC "-// NSL Norge //EN" "http://www.bokselskap.no/tekstkoding/NSL_tei_xinclude.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="Kjerulf_1833">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>
+<lb/>Halfdan Kjerulf: <title rend="italic">Dagbok 1833</title>
+<lb/>Utgitt ved Jorid Nordal Baumann og Margrethe St&#x00F8;kken Bue
+<lb/>NB kilder 5:1
+<lb/>Nasjonalbiblioteket/bokselskap.no, Oslo 2015
+<lb/>ISBN: 978-82-7965-243-4 (digital utgave, bokselskap.no), <lb/>978-82-7965-244-1 (epub), 978-82-7965-245-8 (mobi)
+</title>
+</titleStmt>
+<publicationStmt>
+<p>Publiseres som digital tekst av Nasjonalbiblioteket/bokselskap.no 2015.</p>
+</publicationStmt>
+<sourceDesc>
+<p>Transkribert ved Nasjonalbiblioteket 2015.</p>
+</sourceDesc>
+</fileDesc>
+<revisionDesc>
+<change who="ENW" when="2015-10-16">Lagt inn ISBN, innledning og prinsipper.</change>
+<change who="ENW" when="2015-10-12">Kodekontroll, validering. Klar for publisering.</change>
+<change who="MB" when="2015-10-XX">Koding, innf&#x00F8;ring av korrektur.</change>
+<change who="BN" when="2015-01-21">Oppretta.</change>
+</revisionDesc>
+</teiHeader>
+<text xml:id="HKD_1833" type="diary">
+<front>
+<titlePage type="main">
+<byline><docAuthor>Halfdan Kjerulf</docAuthor></byline>
+<docTitle>
+<titlePart type="main">Dagbok 1833</titlePart>
+<lb/><titlePart type="sub">Utgitt ved Jorid Nordal Baumann og Margrethe St&#x00F8;kken Bue</titlePart>
+</docTitle>
+<lb/><docDate>NB kilder 5:1<lb/>Nasjonalbiblioteket/bokselskap.no<lb/>Oslo 2015</docDate>
+</titlePage>
+<div xml:id="contents">
+<list type="contents_main">
+<item><ref target="chapter_01" xml:id="contents_01">Innledning</ref></item>
+<item><ref target="chapter_02" xml:id="contents_02">Prinsipper for utvalg og transkripsjon</ref></item>
+<item><ref target="chapter_1" xml:id="contents_1">&#x005B;innledende dikt&#x005D;</ref></item>
+<item><ref target="chapter_2" xml:id="contents_2">Januar Maaned.</ref></item>
+<item><ref target="chapter_3" xml:id="contents_3">Februar</ref></item>
+<item><ref target="chapter_4" xml:id="contents_4">Martz</ref></item>
+<item><ref target="chapter_5" xml:id="contents_5">April</ref></item>
+<item><ref target="chapter_6" xml:id="contents_6">Mai</ref></item>
+<item><ref target="chapter_7" xml:id="contents_7">Juni</ref></item>
+<item><ref target="chapter_8" xml:id="contents_8">Juli Maaned</ref></item>
+</list>
+</div>
+</front>
+<body>
+<div type="chapter">
+<head type="main"><ref type="contents" target="contents_01" xml:id="chapter_01">Innledning</ref></head>
+<div type="uchapter">
+<head type="sub">Norsk komponist av internasjonalt format</head>
+<p>Halfdan Kjerulf, f&#x00F8;dt 17. september 1815, var den f&#x00F8;rste store, norske komponisten, men også den f&#x00F8;rste norske komponisten av internasjonalt format. Han hadde stor betydning for Rikard Nordraak, Edvard Grieg og andre komponister utover på 1800-tallet som bygde videre på det Kjerulf grunnla. Flere av hans verker ble gitt ut i Tyskland, og de ble framf&#x00F8;rt i Sverige, Danmark og Frankrike.</p>
+<p>Studier og opphold bl.a. i K&#x00F8;benhavn, Leipzig og Paris ga ham kjennskap til europeiske str&#x00F8;mninger i kunst og musikk, men norsk folkemusikk inspirerte ham også. Kjerulf kombinerte nasjonale og europeiske elementer i sine komposisjoner, bl.a. arrangerte han norsk folkemusikk for klaver. Han skapte den norske romansen og det norske romantiske, lyriske klaverstykket, og han la grunnlaget for mannskorsangen i Norge. Sanger som &#x00AB;Syng, syng nattergal du&#x00BB;, &#x00AB;Brudef&#x00E6;rden i Hardanger&#x00BB;, &#x00AB;Synn&#x00F8;ves sang&#x00BB; og &#x00AB;Ingrids vise&#x00BB; er velkjente for mange.</p>
+<p>Kjerulf virket ved siden av komponeringen som dirigent, klaverl&#x00E6;rer, redakt&#x00F8;r, journalist og musikk-kritiker i Christiania. Bl.a. var han den f&#x00F8;rste dirigenten til Den norske Studentersangforening, og Agathe Backer Gr&#x00F8;ndahl tok klavertimer hos ham. Hans virksomhet som journalist, flittig brevskriver og dagbokforfatter gir innblikk i hans liv og samtid.</p>
+<p>I dagb&#x00F8;kene skrev Kjerulf om at han var &#x00AB;haardt plaget af Hoste&#x00BB;. Han led av tuberkulose i mange år, og d&#x00F8;de i en alder av 52 år den 11. august 1868.</p> 
+</div>
+<div type="uchapter">
+<head type="sub">Dagboka fra 1833 (<ref type="external" target="http://urn.nb.no/URN:NBN:no-nb_digimanus_257082">Ms 8&#x00B0; 867</ref>)</head>
+<p>&#x00AB;Saa var det &#x00F8;vrige Spil under al Critik&#x00BB;, kommenterte Halfdan Kjerulf i sin dagbok 14. juni 1833 etter å ha sett teaterstykket <title rend="italic">Hakon Jarl</title> på Christiania Theater. Og han f&#x00F8;yde nådel&#x00F8;st til: &#x00AB;Det v&#x00E6;rste af alt var dog Maskineriet, som var i h&#x00F8;i Grad scandaleust&#x00BB;.</p>
+<p>Allerede i denne dagboka, den f&#x00F8;rste av Halfdan Kjerulfs dagb&#x00F8;ker som er bevart, vurderer og kommenterer han konserter og teaterforestillinger. Han var da bare 17 år. Men den unge Kjerulf skrev også om andre hendelser i spennet mellom rent private opplevelser og dagsaktuelle nyheter. 25. januar skriver han eksempelvis at et avhugget hode av en mann skulle v&#x00E6;re funnet under isen, noe som for &#x00F8;vrig viste seg å v&#x00E6;re &#x00AB;puur L&#x00F8;gn&#x00BB;, mens han 8. februar skriver om forbryteren Ole H&#x00F8;iland som hadde r&#x00F8;mt, men var funnet igjen.</p>
+<p>F&#x00F8;dselsdager, d&#x00F8;dsfall, åpning av Stortinget, konfirmasjoner og v&#x00E6;ret blir dessuten nevnt i denne dagboka som gir et innblikk i Halfdan Kjerulfs liv fra 1. januar til utpå sommeren 1833.</p>
+</div>
+<div type="uchapter">
+<head type="sub">Om utgivelsesprosjektet</head>
+<p>Nasjonalbiblioteket &#x00F8;nsker å utgi Halfdan Kjerulfs dagb&#x00F8;ker og reisejournaler i sin helhet som nedlastbare e-b&#x00F8;ker i serien NB kilder. Dagb&#x00F8;kene gir et unikt innsyn i Halfdan Kjerulfs liv og Christianias og Norges musikkliv og kulturhistorie. Reisejournalene gir oss dertil unike innblikk i europeisk kunst, kultur og historie.</p>
+<p>Planen er å utgi alle Halfdan Kjerulfs dagb&#x00F8;ker i Nasjonalbibliotekets eie. I f&#x00F8;rste omgang utgis dagb&#x00F8;kene for 1833, 1840 og 1850. De andre dagb&#x00F8;kene er planlagt utgitt kronologisk fremover med ca. to utgivelser i året. Fordi det er til dels store sprang i tid mellom de bevarte dagb&#x00F8;kene blir de utgitt hver for seg i kronologisk rekkef&#x00F8;lge.</p>
+<p>Deler av dagb&#x00F8;kene har tidligere blitt publisert. Wladimir Moe utga i 1917 dagboka fra 1833 og utdrag fra dagb&#x00F8;kene 1840 og 1850. I 1990 ble dagb&#x00F8;kene fra 1833, 1840, 1850 og 1851 utgitt av Nils Grinde, &#x00D8;yvind Norheim og B&#x00F8;rre Qvamme.</p>
+<p>Utgangspunktet for den aktuelle utgivelsen er Nils Grindes transkripsjoner gjort i perioden 1988&#x2013;2009. Vi har v&#x00E6;rt så heldige å få bruke disse transkripsjonene som grunnlag for vår utgivelse, og transkripsjonene har blitt redigert slik at de samsvarer med de generelle prinsippene som ligger til grunn for utgivelser i NB kilder. Grinde skrev ut forkortelser, endret i tegnsetting og rettet skrivefeil. I denne utgaven i NB kilder er derimot Kjerulfs egen skrivemåte beholdt. Prinsippene for utgivelsen av dagb&#x00F8;kene er beskrevet n&#x00F8;yere her: &#x00AB;Prinsipper for utvalg og transkripsjon&#x00BB;.</p>
+<p>De tre f&#x00F8;rste dagb&#x00F8;kene er tilrettelagt og korrekturlest ved utgiverne, Jorid Nordal Baumann og Margrethe St&#x00F8;kken Bue. B&#x00F8;rge Nordb&#x00F8; har konvertert Grindes Word-fil til XML, og i denne utgaven har han også lest korrektur.</p>
+<p>Utgiverne vil s&#x00E6;rlig takke Mette Refslund Witting for råd i edisjonsfilologiske sp&#x00F8;rsmål. En stor takk til redakt&#x00F8;r i Bokselskap.no, Ellen Nessheim Wiger, som har bistått med gode råd og stor tålmodighet.</p>
+</div>
+<div type="uchapter">
+<head type="sub">Om materialet og redigeringen</head>
+<p>I Nasjonalbiblioteket er det bevart 19 dagb&#x00F8;ker, men man regner med at det også har eksistert dagb&#x00F8;ker for de årene som mangler, til sammen 17 stykker. Årene de bevarte dagb&#x00F8;kene dekker er: 1851, 1852, 1854, 1856, 1857, 1859, 1860, 1862, 1863, 1864&#x2013;65, 1866&#x2013;67, 1868. I tillegg er det reisejournaler fra årene 1860, 1865 og 1867. Dagb&#x00F8;kene og reisejournalene er fordelt på 17 hele b&#x00F8;ker, ett sett med l&#x00F8;sblad (1833) og en del av en dagbok (1840). To av dagb&#x00F8;kene går over to kalenderår (1864&#x2013;65 og 1866&#x2013;67). Dagb&#x00F8;kene og reisejournalene ble gitt som gaver til Nasjonalbiblioteket (dengang Universitetsbiblioteket) i tre omganger: Dagb&#x00F8;kene fra 1833, 1840 og 1850 ble gitt av Carl Kjerulf i 1929, dagb&#x00F8;kene fra perioden 1851&#x2013;1868 av Halfdan Kierulf i 1978, og reisejournalene fra 1860, 1865 og 1867 av Christian F. Kierulf i 1988.</p> 
+<p>Arbeidet med Halfdan Kjerulfs dagb&#x00F8;ker har budt på noen problemstillinger. Selv om Halfdan Kjerulfs håndskrift er relativt lettlest, er det en del variasjoner i n&#x00F8;yaktighet, blekk og kvalitet på pennesplitt og papir. Til tross for stort tidsspenn er dagb&#x00F8;kene på mange måter sv&#x00E6;rt like, men det kan synes som det er en klarere struktur og mer ryddig håndskrift etter som årene går.</p>
+<p>Rettskrivningen i dagb&#x00F8;kene f&#x00F8;lger ikke alltid datidens norm. Det er mye skrivefeil, slurv og forglemmelser: Ordet &#x00AB;gjorde&#x00BB; staves både &#x00AB;giorde&#x00BB; og &#x00AB;gjorde&#x00BB;, det samme gjelder andre gj-ord. Det varieres mellom &#x00AB;Propheten&#x00BB; og &#x00AB;Profeten&#x00BB;, forkortelsen for &#x00AB;Slesvig-Holstein&#x00BB; varierer med &#x00AB;Sl.H.&#x00BB;, &#x00AB;Sles.-Holst.&#x00BB;, &#x00AB;Schl.H.&#x00BB;. Ord og navn staves tidvis feil, ord utelates og ord gjentas, ord strykes ut og legges til. Parenteser startes uten å avsluttes, tekst markeres med ulike understrekninger. Det settes punktum f&#x00F8;r en setning er slutt, og det varierer mellom enkelt ( . ) og dobbelt ( : ) punktum. Ordenstall skrives på en rekke ulike måter, med og uten punktum etter tallet, med og uten hevet endelse og med og uten d, d., den f&#x00F8;r dato. Stor eller liten forbokstav i substantiv varierer. Alt dette gjengis slik Kjerulf selv skrev det.</p>
+<p>Noen av dagb&#x00F8;kene er paginert, andre er ikke. Enkelte dagb&#x00F8;ker har feil paginering, og i dagboka fra 1840 er f&#x00F8;rste side paginert 69. Siden dette er dagb&#x00F8;ker, og dermed har naturlige skiller i teksten ved skifte av dato, er det ikke gjengitt eller lagt til paginering.</p>
+<p>Flere av dagb&#x00F8;kene er almanakker med innlagte notatsider. Almanakksidene er tidvis notert på og alle disse sidene gjengis som faksimiler for å yte dem rettferdighet. Det samme gjelder regnskap, elevlister, timeplaner, lister over musikkverk og forestillinger.</p>
+<p>Dagb&#x00F8;kene er n&#x00E6;rmere 200 år gamle, og inneholder derfor ord og uttrykk som ikke er i bruk i moderne norsk/dansk, og omtaler personer, steder og hendelser som ikke er allmennkunnskap i dag. Mengden av slike ord og navn er så stor at det ikke er lagt inn kommentarer eller noter. Mange av personene er identifisert eller fors&#x00F8;kt identifisert i Grindes transkripsjon, som kan sees på i Nasjonalbiblioteket.</p>
+</div>
+<div type="uchapter">
+<head type="sub">Litteratur</head>
+<p rend="noIndent">Moe, Wladimir (1917): <title rend="italic">Halfdan Kjerulf. Af hans efterlatte papirer 1831&#x2013;1847</title>. Jacob Dybwads Forlag, Kristiania.</p>
+<p rend="noIndent">Moe, Wladimir (1918): <title rend="italic">Halfdan Kjerulf. Af hans efterlatte papirer 1847&#x2013;1868</title>. Jacob Dybwads Forlag, Kristiania.</p>
+<p rend="noIndent">Grinde, Nils, &#x00D8;. Norheim og B. Qvamme (1990): <title rend="italic">Halfdan Kjerulfs dagb&#x00F8;ker</title>. Bind 1. Oslo.</p>
+<p rend="noIndent">Grinde, Nils (2003): <title rend="italic">Halfdan Kjerulf. Nordmann og europeer: En komponist og hans tid</title>. Musikk-Husets Forlag A/S, Oslo.</p>
+<p rend="noIndent">Qvamme, B&#x00F8;rre (2010): <title rend="italic"><ref type="external" target="http://www.hf.uio.no/imv/forskning/prosjekter/norgesmusikk/musikkhistarkiv/kjerulf/kjerulf_opera.html">Halfdan Kjerulf og operaen</ref></title></p>
+</div>
+</div>
+<div type="chapter">
+<head type="main"><ref type="contents" target="contents_02" xml:id="chapter_02">Prinsipper for utvalg og transkripsjon</ref></head>
+<p>1. Alle dagb&#x00F8;ker og reisejournaler som befinner seg i Nasjonalbiblioteket, tas med i denne publiseringen. De utgis kronologisk.</p>
+<p>2. Transkripsjonen er n&#x00F8;yaktig og bokstavrett, det vil si at Halfdan Kjerulfs rettskrivning er beholdt. Skrivefeil er ikke rettet. Dette gjelder også manglende parenteser og anf&#x00F8;rselstegn.</p>
+<p>3. Regnskap, elevlister, elevtimeplaner og teater- og konsertlister transkriberes ikke, men gjengis som faksimiler.</p>
+<p>4. Håndskriften er lett å lese. Noen tvil kan likevel forekomme, og slurvete bokstaver og ord er derfor transkribert velvillig ut fra sammenhengen. Det har i noen tilfeller v&#x00E6;rt n&#x00F8;dvendig å markere usikker lesning med spisse klammer &#x2039;&#x00A0;&#x203A;, og helt uleselig tekst markeres slik: &#x2039;...&#x203A;.</p>
+<p>5. I noen tilfeller er det vanskelig å avgj&#x00F8;re om en bokstav er stor eller liten. Det gjelder spesielt d/D, m/M og k/K. Her velges den form som f&#x00F8;lger normen.</p>
+<p>6. Tekst som er str&#x00F8;ket, er markert med gjennomstreking.</p>
+<p>7. Tilf&#x00F8;yd tekst gjengis som plassert i originalen, over eller under linjen. </p>
+<p>8. Når tekst er rettet ved at noe er skrevet oppå noe annet slik at opprinnelig tekst er dekket, transkriberes den sist skrevne teksten, mens den opprinnelige gjengis i note.</p>
+<p>9. Tekst som er understreket eller uthevet på annet vis, gjengis med kursiv, og det skjelnes ikke mellom typografisk og retorisk utheving. </p>
+<p>10. Bindestrek som ser ut som =-tegn gjengis som vanlig bindestrek.</p>
+<p>11. m/n med nasalstrek (liten strek over bokstaven) gjengis med m<hi rend="italic">m</hi>/n<hi rend="italic">n</hi>.</p>
+<p>12. Kr&#x00F8;llestreker og andre markeringer i margen er utelatt.</p>
+<p>13. Ord delt ved linjeslutt uten bindestrek gjengis stilltiende som ett ord. </p>
+<p>14. Ulike former for avsnittsmarkering gjengis så n&#x00E6;rt opptil originalen som mulig.</p>
+<p>15. Sideskift er ikke markert, og gjentagelse av dato ved sideskift er ikke tatt med.</p>
+<p>16. Paginering er ikke gjengitt eller lagt til.</p>
+<p>17. Dobbelt punktum ( : ) gjengis som kolon.</p>
+<p>18. Senere endringer eller tilf&#x00F8;yelser gjort med annen hånd, transkriberes ikke.</p>
+</div>
+<div type="chapter" subtype="illustration">
+<p rend="center"><figure><graphic url="1833_forside_utsnitt.jpeg"/></figure></p>
+</div>
+<div type="chapter" subtype="poem">
+<head type="main"><ref type="contents" target="contents_1" xml:id="chapter_1">&#x005B;innledende dikt&#x005D;</ref></head>
+<p rend="center"><figure><graphic url="1833_dikt_utsnitt.jpeg"/></figure></p> <lg>
+<l>&#x2013; La&#x00DF;et keine Nachtigall</l>
+<l>Unbehorcht verstummen,</l>
+<l>Keine Bien’ im Fr&#x00FC;hlingsthal</l>
+<l>Unbelauscht entsummen.</l>
+<l>Schmekt, so lang’es Gott erlaubt,</l>
+<l>K&#x00FC;ss und s&#x00FC;sse Trauben,</l>
+<l>Bis der Tod, der alles raubt,</l>
+<l>Kommt, auch Sie zu rauben. &#x2013;</l>
+</lg>
+<p rend="indent_2">&#x00AB;H&#x00F6;ltys Lebenspflichten&#x00BB;</p>
+</div>
+<div type="chapter" subtype="part" xml:id="januar">
+<head type="main"><ref type="contents" target="contents_2" xml:id="chapter_2">Januar&#x2013;Maaned.</ref></head>
+<p><date when="1833-01-01">Jan 1&#x2013;7.</date> &#x2013; Indtil den 3die har jeg v&#x00E6;ret paa Grini. Den 6te, da det var min Tante Kajas F&#x00F8;dselsdag, tillige Fru Fuglsangs, havde vi om Formiddagen en Kanefart, arrangeret af Lieutenant Morgenstierne, som paa denne Tid opholder sig her. &#x2013;</p>
+<p><date when="1833-01-07">" &#x2013; 7.</date> Begyndte Skolegangen igjen; det Haab, vi havde n&#x00E6;ret i Julen, at Bugge skulde blive Rector og tiltr&#x00E6;de idetmindste f&#x00F8;r <del rend="overstrike">Paaske</del><hi rend="raised">Februar</hi> &#x2013; skuffedes; man taler om, at Rosted skal fungere til Paasken &#x2014;</p>
+<p><date when="1833-01-09">" 9.</date> B&#x00F8;rnebal hos Statsraad Sibbern.</p>
+<p><date when="1833-01-14">" &#x2013; 14.</date> Idag reiser Christian Morgenstierne; Wilhelm skal f&#x00F8;lge ham til Kongsvinger, hvor han skal v&#x00E6;re hos sin Broder i Quarantainen.</p>
+<p>" &#x2013; Efterretning om gamle Fuglsangs D&#x00F8;d i Slagelse; Dagen erindrer jeg ikke, men han d&#x00F8;de i Slutningen af forrige Aar.</p>
+<p><date when="1833-01-18">" &#x2013; 18 &#x2013;</date> Tante Ottilias F&#x00F8;dselsdag.</p>
+<p><date when="1833-01-19">" &#x2013; 19 &#x2013;</date> Paa Lyceet, hvor gaves: a. 1) Ouverture til Fieldeventyret. 2 Variations af Herz udf. af Jfr Egeberg. Krigssang af Panny. b. 1. Ouverturen til Adolph og Clara. 2. Cavatine af la Fianc&#x00E9;e, udf. af Skuespiller Wienecke. Ouverture af l. Fiance.</p>
+<p><date when="1833-01-20">" &#x2013; 20.</date> Barnebal hos Prof. Hansteen.</p>
+<p><date when="1833-01-22">" &#x2013; 22.</date> D&#x00F8;de min Klassekammerat O.C. Wulff af de saakaldte Sortekopper efter meget kort Sygdom; vi faae formodentlig ei Tilladelse til at f&#x00F8;lge ham til Graven, da det under saadanne Omst&#x00E6;ndigheder er smitsomt.</p>
+<p><date when="1833-01-25">" &#x2013; 25.</date> Theatret: &#x00AB;Bortf&#x00F8;relsen af Seraillet, Oper af Mozart (!).</p>
+<p>" &#x2013; I disse Dage har der gaaet det Rygte, at et afhugget Hoved af en dr&#x00E6;bt Mand skal <del rend="overstrike">f</del> v&#x00E6;re funden under Isen oppe ved Saugene; men &#x2013; vel at m&#x00E6;rke &#x2013; det befandtes siden at v&#x00E6;re &#x2013; puur L&#x00F8;gn.</p>
+<p><date when="1833-01-30">" 30.</date> Opf&#x00F8;rtes paa det Dramatiske Selskabs Theater: Dyveke af Sams&#x00F8;e. Udf&#x00F8;relsen var maadelig nok.</p>
+<figure rend="shortHorizRule"/>
+</div>
+<div type="chapter" subtype="part" xml:id="februar">
+<head type="main"><ref type="contents" target="contents_3" xml:id="chapter_3">Februar</ref></head>
+<p><date when="1833-02-01">Febr. 1.</date> Traadte Storthinget sammen.</p>
+<p><date when="1833-02-04">" 4.</date> Paa Theatret, hvor gaves: Hoffnarren mod sin Villie. 2 Act. derpaa Heibergs Vaudeville: <hi rend="italic">Kj&#x00E6;rligheds Dr&#x00F8;mme</hi>, som interesserer meget, is&#x00E6;r ved <hi rend="italic">Jfr. P&#x00E6;tges’s og Hr. Wieneckes</hi> gode Spil. Personerne ere: <hi rend="italic">Dormevil: Hr. J&#x00F8;rgensen.</hi>
+<hi rend="italic">Ernestine</hi> (Sonnambulen): <hi rend="italic">Jfr. P&#x00E6;tges.</hi> <hi rend="italic">Gustav: Wienecke, Frederik: Berg, Maria: Jfr. Humbach, Baptist: Giebelhausen, Notarius: Balling.</hi> Musikken er ualmindelig godt valgt.</p>
+<p><date when="1833-02-05">" 5.6.7.</date> MarkedsDage. Markedet er iaar som altid, h&#x00F8;ist ynkeligt, og en Hovedstad ganske uv&#x00E6;rdigt; vare ikke Comedier og Baller i denne Tid, kunne vel neppe Fj&#x00E6;lleboderne paa Torvet drage saamange Reisende til Byen. Paa Theatret opf&#x00F8;res: 6. Frierens Bes&#x00F8;g samt de Uadskillelige. d 7. Hans Sachs. <hi rend="italic">d 8.</hi> Seer Jer i Speil, Supplicanten og Aprilsnarrene. d.8 Ole H&#x00F8;iland, der var bortr&#x00F8;mt, fangen paa Skydsjordet.</p>
+<p><date when="1833-02-10">" 10.</date> Theatret: den f&#x00F8;rste Kj&#x00E6;rlighed samt Recensenten og Dyret.</p>
+<p><date when="1833-02-13">" 13.</date> Aabnes Storthinget af Statsraad Collett. Bestemt til Opf&#x00F8;relse: Kunstnerlig og Vennernes Fest, af hvilke dog kun det sidste blev givet, da ikke dHr Weyse og Wimmer vilde spille i det f&#x00F8;rste, dersom de ei fik lige Deel i Indkomsten, da der denne Aften spilledes til Fordeel for Skuespillerne. De bleve derfor kaldte frem og modtagne med en velfortient Piben: Familien Riquebourg blev opf&#x00F8;rt istedet.</p>
+<p><date when="1833-02-15">" 15.</date> skal Mad. Weyse v&#x00E6;re bleven udpeben, da hun var Aarsag i Spektaklerne d. 13.</p>
+<p><date when="1833-02-16">" 16.</date> <hi rend="italic">Lycee</hi>, hvor gaves tre Ouverturer; et Pianof. Nummer af Hummel, udf af Fru Schilling., Trio for Mandsstemmer, samt Fl&#x00F8;itevariations af F&#x00FC;rstenau, udf af Hals.</p>
+<p><date when="1833-02-18">" 18.</date> Cosmorama (hvor jeg var) De opstillede Stykker vare: 1. Hjelmodalen 2. Guldbrandsdalen imel Viig og Breiden. 3 Venedig. 4. Leerfossen. 5. Tronfieldet. 6. Trollh&#x00E4;ttan med Sluserne. 7. Karasiok. 8. Moskow. 9. Vindhellen paa Bergensveien.&#x2013;</p>
+<p><date when="1833-02-24">" 24.</date> Paa Theatret: 1. Et Feiltrin, et Drama af Scribe, et smudsigt Thema, nydeligt og fiint behandlet (fordeelagtig recenseret i Oehlenschl&#x00E4;gers Prometheus). Grevinden gaves af Jfr. P&#x00E6;tges. 2. Hovmesteren i Knibe, e<del rend="overstrike">t</del>n latterlig<del rend="overstrike">t</del> Vaudeville af Th. Overskou; ihvilket Stykke is&#x00E6;r Mad Schrumpf som Ane og Giebelhausen som Thrane, udm&#x00E6;rkede sig.</p>
+</div>
+<div type="chapter" subtype="part" xml:id="mars">
+<head type="main"><ref type="contents" target="contents_4" xml:id="chapter_4">Martz.</ref></head>
+<p><date when="1833-03-02">Martz. 2.</date> Paa Lyceet, hvor gaves: 2 Ouverturer og 1 Symphonie. Variations af Herz udf af den &#x00E6;ldre Fr&#x00F8;ken Thygeson. Aria af Titus udf af Mad. Schrumpf. Sextet af Titus. Duetto af Robert le Diable udf af Kaja og Julie Lasson.</p>
+<p><date when="1833-03-04">" &#x2013; 4.</date> Begyndte de saakaldte Candidatferier.</p>
+<p><date when="1833-03-05">" &#x2013; 5.</date> General WedelJarlsberg har faaet sin Afskeed som Commandant paa Aggershuus F&#x00E6;stning.</p>
+<p><date when="1833-03-10">" &#x2013; 10.</date> Tante Julies F&#x00F8;dselsdag, tilbragt paa Grini</p>
+<p><date when="1833-03-16">" &#x2013; 16.</date> Lycee, hvor gaves: 3 Ouverturer, Violinpotpourri udf af Berg o.sv. De fleste Nummere gik us&#x00E6;dvanligt slet &#x2013; en F&#x00F8;lge af at Schrumpf meldte sig syg, det &#x00D8;ieblik, Damerne gik ind i Salen. Hummel Trio, som Ottilia Lasson skulde spilt gik des aarsag ind.</p>
+<p><date when="1833-03-17">" 17.</date> Fru Hielms Geburtsdag. Aften tilbragt hos Morgenstiernes.</p>
+<p><date when="1833-03-22">" 22.</date> <hi rend="italic">kom Brev fra Dr. Leithoff, hvori han siger, at Ida kan hentes allerede i Juni.</hi></p>
+<p><date when="1833-03-23">" 23.</date> Christian Morgenstiernes Geburtsdag. &#x2013; Efterretning om, at Kronpr. Oscar d. 28 Juni skal komme til Christiania og derpaa gi&#x00F8;re en Reise til Bergen. Man taler ogsaa om, at Prindsessen med 2 Prindser skulle f&#x00F8;lge med.</p>
+<p><date when="1833-03-24">" 24.</date> Fru Falsen og Henriette F. fra Hoen i Visit hos os. Em. paa Cosmorama; af nye Stykker vare opstillede Gaupnefjord; et andet Karasjok, et andet Trolh&#x00E4;tta sluser. Skagast&#x00F6;ls&#x00E6;tre.</p>
+<p><date when="1833-03-28">" 28.</date> Musicalsk Soiree hos Lassons. Af fremmede Musicerende vare: Thygesons Familie Fru Hofgaard, Wienecke, Hagbarth Falch og Wetterstrand. Der gaves: 3 Nummere af Lulu, Ouverturen til Samme udf af Begge fr&#x00F8;kener Thygeson. Hummels Trio (Ottilia) Variationer af Herz paa et Thema af Joseph, udf af Charlotte Thygeson. Duett af Robert (Jffr. Lasson) Chor af den Stumme, Terzett af Elisabeth. Terzett af de to Dage ofl.</p>
+<p><date when="1833-03-29">" 29.</date> Opf&#x00F8;res paa Theatret Tragoedien Masaniello. Hans Rolle udf. af Berg. &#x2014;</p>
+<p><date when="1833-03-30">" 30.</date> Bedstefaders, Theodors samt Emilie Lassons F&#x00F8;dselsdag. Stang og Augusta Morgenstiernes Bryllupsdag. Lycee, blot een Afdeling, og Dands istedetfor den anden. Idag tog gamle Rosted Afskeed med os. Det er nu et almindeligt Haab, snarest mulig at faae Bugge til Rector.</p>
+<p><date when="1833-03-31">" 31.</date> Caroline Lassons F&#x00F8;dselsdag.</p>
+</div>
+<div type="chapter" subtype="part" xml:id="april">
+<head type="main"><ref type="contents" target="contents_5" xml:id="chapter_5">April</ref></head>
+<p><date when="1833-04-04">April. 4.</date> D&#x00F8;de Fru Generalinde Aubert, omtrent Et Aar efter sin sal Mand og sin S&#x00F8;n Conrectoren.</p>
+<p><date when="1833-04-08">&#x2013; 8.</date> Opf&#x00F8;rtes paa Theatret B&#x00F8;chers Aandprodukt, den h&#x00F8;ist elendige Vaudeville &#x00AB;Doubletterne&#x00BB;. Bal hos Petersens paa deres Landsted.</p>
+<p><date when="1833-04-11">" 11.</date> D&#x00F8;de Fr&#x00F8;ken Aubert, otte Dage efter Moderen. Cand. mag. L. Aubert skal l&#x00E6;se Rosteds Fag og Prof. er flyttet i Harleffs Gaard, hvor Conrad L. Aubert d&#x00F8;de ifjor. &#x2013; Gid dog dette ei maatte v&#x00E6;re et Varsel om en snar D&#x00F8;d for Oldingen!</p>
+<p><date when="1833-04-14">" 14.</date> blev Carl Kierulf confirmeret i Garnisonskirken; Middag og Aften hos Kierulfs. Bl andre Confirmanter: Thora Hansteen, Cecilia Andresen. Sophie Aars hindredes fra at confirmeres ved Sygdom.</p>
+<p><date when="1833-04-16">" 16.</date> Kom et h&#x00F8;ist uventet Brev i mine H&#x00E6;nder fra en Person, der i henimod tre Aar, ski&#x00F8;nt jeg n&#x00E6;sten daglig har seet <add place="above">ham</add>, har v&#x00E6;ret mig ligesom fremmed og fiendsk, skj&#x00F8;nt han engang var min n&#x00E6;rmeste Bekiendte.</p>
+<p><date when="1833-04-21">" 21.</date> Blev Professor S.B. Bugge udn&#x00E6;vnt til Rector, og vil snarest mulig tiltr&#x00E6;de, men tillige holde Forel&#x00E6;sninger ved Universitetet.</p>
+<p><date when="1833-04-24">" 24.</date> Paa Theatret, hvor gaves: Den f&#x00F8;rste Ki&#x00E6;rlighed af Scribe, en af Jfr P&#x00E6;tges’s heldigste Pr&#x00E6;stationer, som Emmeline (og som Ernestine i Ki&#x00E6;rligheds Dr&#x00F8;mme). Derpaa: Guldbryllupsfrierne.</p>
+</div>
+<div type="chapter" subtype="part" xml:id="mai">
+<head type="main"><ref type="contents" target="contents_6" xml:id="chapter_6">Mai</ref></head>
+<p><date when="1833-05-01">Mai 1.</date> Moders F&#x00F8;dselsdag; Selskab hjemme; Fader ikke frisk</p>
+<p><date when="1833-05-03">" &#x2013; 3.</date> Prinds Carls F&#x00F8;dselsdag.</p>
+<p><date when="1833-05-05">" &#x2013; 5.</date> Kom Constitutionen. Fader sengeliggende.</p>
+<p><date when="1833-05-08">" 8.</date> Bugge tiltraadte idag sit Rectorembede.</p>
+<p><date when="1833-05-12">" 12.</date> Ankom Constitutionen med noget over 100 Passagerer i temmeligt haardt Veir.</p>
+<p><date when="1833-05-16">" &#x2013; 16.</date>Christi-Himmelfartsdag. Om Aftenen paa Theatret, hvor gaves Dronningen paa 16 Aar, samt Vaudevillen Skibet.</p>
+<p><date when="1833-05-17">" &#x2013; 17.</date> Kl 8 Morgen afsl&#x00F8;redes Kroghsst&#x00F8;tten under en forsamling af mange Mennesker. Henrik Wergeland (!) holdt Talen, som l&#x00F8;d meget h&#x00F8;ittravende og billedriig; paa Asker skal der v&#x00E6;re Middagsselskab for Patrioter. Studenter h&#x00F8;itideligholdt Dagen paa en af &#x00D8;erne. Poppe en ivrig Frihedsmand, forlovet med Fru Heiberg havde Selskab, hvor Wergeland var. Paa Theatret <del rend="overstrike">Theatret</del> opf&#x00F8;rtes Bierregaards &#x00AB;Magnus Barfods S&#x00F8;nner. Wergeland skal paa Theatret have raabt: &#x00AB;Jens B&#x00F8;cher, Skaber af danske Skueplads paa norske Grund (han sigtede til Doubletterne) kom frem; herpaa fulgte Piben, Hyssen, Klappen. Derpaa viste Repr&#x00E6;sentanten Rector Boye sig fra Galleriet og sagde: &#x00AB;Retsind b&#x00F8;d Normannakongen fra Skuepladsen &#x2013; Retsind byder Norges Love; hvorpaa Wergeland taug.&#x2014;</p>
+<p><date when="1833-05-20">" &#x2013; 20.</date> Giacomo Brocattos Udstilling af Kobbere. Sangeren Ronniger fra Wien.&#x2014;</p>
+<p><date when="1833-05-24">" &#x2013; 24.</date> Ronnigers <del rend="overstrike">Concert.</del>Forestilling i forbindelse med Skuespillerne.</p>
+<p><date when="1833-05-30">" &#x2013; 30.</date> Sign. Cesare Gobbis (fra Neapel) forestilling i forening med Theaterpersonalet. Han synger Duetter, Bas og Sopran med en Slags Fistuleren. &#x2013; Bestemmelse med Hensyn til Ida, at, da Fader fremdeles er sengeliggende, hun skal komme hjem alene enten 16 el 23. Juni.</p>
+</div>
+<div type="chapter" subtype="part" xml:id="juni">
+<head type="main"><ref type="contents" target="contents_7" xml:id="chapter_7">Juni.</ref></head>
+<p><date>Juni. d.2.</date> Kom Instructeur Nielsen og Hr Winsl&#x00F8;w fra Kj&#x00F8;benhavn for at give her et Par Gi&#x00E6;steroller og i Bergen flere.</p>
+<p><date when="1833-06-07">" &#x2013; 7.</date> Paa Theatret, hvor gaves. Prolog, Taarepilen paa Sct Helena, Julelegen, og &#x2013; efter Opfordring &#x2013; Min S&#x00F8;n vil did &amp;c (norma morum) altsammen fremsagt af Nielsen, derpaa: Hans Sachs af Deinhardstein, hvor H. S. udf. af Nielsen, Runge af Winsl&#x00F8;w jun.</p>
+<p><date when="1833-06-08">" &#x2013; 8.</date> Bestemtes at Torkildsen, Olsen og Poulsen bleve demitterede fra den l&#x00E6;rde Skole, og at jeg skulde bie til n&#x00E6;ste Aar till Collett og Br&#x00F8;gger.</p>
+<p><date when="1833-06-09">" 9.</date> Kom Doctor Ryge, Instructeur og Skuespiller ved det Danske Theater herop for alene at give Gi&#x00E6;steroller; thi der skal v&#x00E6;re Uenighed imel ham og de forhen Ankomne, som Dr. R. selv skal have v&#x00E6;ret Aarsag til</p>
+<p><date when="1833-06-10">" 10.</date> Opf&#x00F8;rtes: R&#x00F8;verne af Schiller, hvor Carl Moors Partie udf&#x00F8;rtes med Held af Nilsen, og Franz Moors Parti udf&#x00F8;rtes mesterlig og til st&#x00F8;rste Fuldkommenhed efter Pluralitetens Dom af Winsl&#x00F8;w jun &#x2013; I n&#x00E6;ste Uge skal Begge disse reise til Bergen, men man siger at de ved Tilbagekomsten agte at give nogle Gi&#x00E6;steroller (Tordenskjold f. Ex)</p>
+<p><date when="1833-06-12">" 12.</date> Oscars Ankomst med Prinds Carl (Dampskibet) fra Gothenborg er ansat til 18 Juli og hans Dampfart til Bergen til d. 2 Aug. &#x2014;</p>
+<p><date when="1833-06-14">" 14.</date> Paa Theatret, hvor gaves Hakon Jarl. Den rasende Tr&#x00E6;ngsel om Formiddagen ved Billetcontoiret vars<del rend="overstrike">s</del>lede om en endnu st&#x00F8;rre ved selve Indgangen. Da kun den halve Bagd&#x00F8;r var aabnet for den sig indtr&#x00E6;ngende Masse, foraarsagede dette en frygtelig Trykken, Qvalmen for Damerne, Tr&#x00E6;tte, ja endog knytte N&#x00E6;ver; f&#x00F8;rst skreg man: &#x00AB;op med D&#x00F8;ren!&#x00BB;, men da dette ikke frugtede sprengtes den af Publicum; &#x2013; Neppe fik man ved selve Forestillingen Skadeserstatning for Qvalmerne ved D&#x00F8;ren; thi, naar undtages Hakon selv, som Ryge mesterligt fremstilte, og Olaf og Einar, som gaves ret taalelig af J&#x00F8;rgensen og Berg &#x2013; og til N&#x00F8;d Thora, som gaves af Jfr P&#x00E6;tges, saa var det &#x00F8;vrige Spil under al Critik. Det v&#x00E6;rste af alt var dog Maskineriet, som var i h&#x00F8;i Grad scandaleust</p>
+<p><date when="1833-06-15">" 15.</date> Torden, Lynild og en rasende Haglbyge. &#x2013;</p>
+<p><date when="1833-06-16">" 16.</date> <hi rend="italic">Kom Ida fra L&#x00FC;beck</hi> med Dampskibet, kl 12 om Natten, temmelig uventet, efter kun at have havt een Dag til at gi&#x00F8;re sig f&#x00E6;rdig paa.</p>
+<p><date when="1833-06-23">" 23.</date> St Hans Aften. Familien herfra og paa Grini (jeg ogsaa) paa B&#x00E6;rum, hvor der dandsedes til kl henimod 5. Deels inde af Selskabet, deels ude om Maistangen af Folket (Drengene i S&#x00E6;kken &#x2013; Grotten &#x2013; Kanonskud)</p>
+<p><date when="1833-06-24">" 24.</date> I Dagens Morgenblad er officiel Beretning om at Kronprindsen <del rend="overstrike">paa</del> under sit Ophold skal udf&#x00F8;re en Vicekonges Functioner.</p>
+<p><date when="1833-06-28">" 28.</date> Paa Theatret, hvor J&#x00E6;gerne af Iffland opf&#x00F8;rtes. Warberger gaves
+<hi rend="italic">mesterlig</hi> og fuldendt af Dr Ryge, ligeledes spilled flere af de herv&#x00E6;rende Acteurer ret godt; is&#x00E6;r Berg, Mad Voltz, Mad Schrumpf, Giebelhausen.</p>
+</div>
+<div type="chapter" subtype="part" xml:id="juli">
+<head type="main"><ref type="contents" target="contents_8" xml:id="chapter_8">Juli Maaned</ref></head>
+<p><date when="1833-07-01">Juli. 1&#x2013;13.</date> Examen paa Chr. l&#x00E6;rde Skole. I denne Tid har Ryge givet flere Roller i Niels Ebbesen, Erasmus Montanus (Peer Degn) Amors Geniestreger, Christian 4 i Chr 4<add place="above">des</add> Dom af S&#x00F8;etoft.</p>
+<p><date when="1833-07-15">" &#x2013; 15.</date> Efterretning om at Kongen har v&#x00E6;ret syg, men er nu bedre. &#x2013; Ankom General Wedel og Fritz Wedel fra Stockholm (d. 7 ankom Baron&#x00E6;ssen med Datter og Gouvernante (fra Odense) med Dampskibet fra Ki&#x00F8;benhavn.) &#x2013; Det Rommerigske Infanteriecorps indrykket i Staden. &#x2013; Opf&#x00F8;res paa Theatret: &#x00D8;stergade og Vestergade. Golz gives af Dr Ryge.</p>
+<p><date when="1833-07-16">". 16.</date> Arbeides ved Bryggerne paa en Broe paa Prammer og paa 2de Obelisker bekl&#x00E6;dte med Granbar til Prindsens Modtagelse. Igaar ankom Kadetcorvetten; ligeledes ere 3 af Prindsens Rideheste, og ingen Kj&#x00F8;reheste, ankomne.&#x2014;</p>
+</div>
+</body>
+</text>
+</TEI> 

@@ -1,0 +1,812 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI PUBLIC "-// NSL Norge //EN" "http://www.bokselskap.no/tekstkoding/NSL_tei_xinclude.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="BS_Angell_Vikinger">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>bokselskap.no, 2015
+<lb/>Henrik Angell: <hi rend="italic">Vikinger og Skrællinger paa Bygdø</hi>
+<lb/>Teksten i bokselskap.no f&#x00F8;lger 1. utgave, 1908 (H. Aschehoug &#x0026; Co., Kristiania). Digitaliseringen er basert p&#x00E5; fil fra Nasjonalbiblioteket (nb.no).
+<lb/>ISBN: 978-82-8319-204-9 (digital, bokselskap.no), 978-82-8319-205-6 (epub), 978-82-8319-206-3 (mobi)
+</title>
+</titleStmt>
+<publicationStmt>
+<p>Publiseres som digital tekst av bokselskap.no.</p></publicationStmt>
+<sourceDesc>
+<p>Henrik_Angell_Vikinger og skrællinger paa Bygdø2.epub (mottatt fra August Fredriksen 2014)</p>
+</sourceDesc>
+</fileDesc>
+<revisionDesc>
+<change who="ENW" when="2015-01-26">Fjernet (etter hans eget ønske, jf epostutveksling 23/1) August Fredriksens navn fra filer og visninger.</change>
+<change who="ENW" when="2015-01-21">Ført inn korrekturrettelser. Lagt inn sidereferanser og entiteter. Kodekontroll og validering.</change>
+<change xml:id="ENW" who="ENW" when="2014-11-21">XML-koding. Klar for korrektur.</change>
+</revisionDesc>
+</teiHeader>
+<text xml:id="BS_Angell_Vikinger_tekst" type="novel">
+<front>
+<titlePage type="main">
+<byline><docAuthor>Henrik Angell</docAuthor></byline>
+<docTitle>
+<titlePart type="main">Vikinger og Skrællinger paa Bygdø</titlePart>
+<titlePart type="sub">skrevet med blod og tegnet med blæk av vikingen Leiv Hugleikson Litle (da han var tretten somre gammel)</titlePart>
+</docTitle>
+<docDate>bokselskap.no<lb/>2015</docDate>
+</titlePage>
+<div type="chapter" subtype="illustration">
+<p rend="center"><figure><graphic url="tittelblad_1908.jpg"/></figure></p>
+</div>
+<div xml:id="contents">
+<list type="contents_main">
+<item><ref target="chapter_1" xml:id="contents_1">Vikinger og skrællinger.</ref></item>
+<item><ref target="chapter_2" xml:id="contents_2">John og Atle paa krigsstien.</ref></item>
+<item><ref target="chapter_3" xml:id="contents_3">Kampen om Johnsborg. Dens brand.</ref></item>
+<item><ref target="chapter_4" xml:id="contents_4">Sjøslaget.</ref></item>
+<item><ref target="chapter_5" xml:id="contents_5">Mørkets gjerninger eller John og Sorte Slange i kaninkassen.</ref></item>
+<item><ref target="chapter_6" xml:id="contents_6">&#x00AB;Skøierne&#x00BB;.</ref></item>
+<item><ref target="chapter_7" xml:id="contents_7">Det store slag.</ref></item>
+<item><ref target="chapter_8" xml:id="contents_8">Fred og forsoning. Tapperhetsmedaljen.</ref></item>
+</list>
+</div>
+</front>
+<body>
+<div type="chapter" subtype="illustration">
+<p rend="center"><figure><graphic url="kart.jpg"/></figure><lb/>KART OVER VIKINGELAND, SKRÆLLINGELAND OG SKØIERNES LAND</p>
+</div>
+<div type="chapter" n="1">
+<head type="main"><ref type="contents" target="contents_1" xml:id="chapter_1">Vikinger og skrællinger.</ref></head>
+<p><pb n="1"/>Det som her skal fortælles er hændt for lange tider siden. Nu er det over 4 aar siden, kan hænde ind paa det femte. Men tidens hjul ruller fort.</p>
+<p>Det er hændt alt sammen ute paa den store ø eller halvø som heter Bygdø. Den ligger i bunden av Kristianiafjorden. Ginnungagap heter havet omkring øen, og det er saa stort, at man kun i klart veir kan se over til vikingernes gamle land Vestre-Aker, nu kaldet West-End. Kun fra øens høieste fjelde kan man se over til Gyljanda, skrællingernes gamle land, nu kaldet Peberwiighen. Kun sjelden sees de gamle lande, Nivlheims røk og taake hviler over dem.</p>
+<p rend="center"><figure><graphic url="s1.jpg"/></figure></p>
+<p>Det er skrevet ned i vikingen Atles sagabøker, <pb n="2"/>og den som endnu kan tyde de halvt ulæselige runer indimellem arithmetiske regnestykker, tyske og engelske gloser, han vil der kunne finde mange heltehistorier fra den gang, da de første landnaamsmænd tok land paa Bygdø, da endnu vikingerne kunde frit øve strandhugg fra Bygdønes til Sæterhytten, omkring Herbern, Huk og ut forbi Kongeskogene like til Bygdø bad.</p>
+<p>I hine svundne dage saa meget anderledes ut paa øen. 1905 var ikke kommet med pigtraad omkring den gamle kongsgaard og dens marker og skoge. Gols stavekirke og de gamle bondehuse fra Telefylke og Sætesdal kunde frit benyttes til blokhuse og borge, elektrisk lys var ikke nedlagt, ophængt og indlagt, aarhundreders mørke hvilet endnu inde i urskogene, de var ikke ryddet og pudset som nu, da hørtes vikingernes glade kamprop og skrællingernes vilde krigshyl.</p>
+<p>Vikingernes rette hjem var paa begge sider av Hukavende, saa kaldet for der vender veien over øen til Granli, Rutli og Huk. Nu heter den &#x00AB;Huk Avenue&#x00BB;. En av de andre vikingebygder var i Vendernes dal, saa kaldet for der hadde de vendiske sjørøvere draget hver gang de herjet Konungaro. Endnu mindes man det gamle navn om end forvandsket i veien gjennem dalen: &#x00AB;Benneckes vei&#x00BB;. Granli er blit til Grande, veien dit heter nu All&#x00E9;e Grande. Øverst paa Hukavende laa en gammel borg, det var Konungaro, nu Christiansroe.</p>
+<p>Paa Konungaro bodde to av de mest navngjetne vikinger. Om dem kommer mangt og meget i denne saga at handle.</p>
+<p><pb n="3"/>Det var John og broren Frithjov. Men Karle Olavsson Odd het far deres. Han hadde faret meget i vikingefærd i sine yngre dage, faret i vesterveg, ofte til Bretland og hadde herjet i Erik Blodøkses fogderi, Nord-Timberland.</p>
+<p>John og Frithjov var som faren vidt bereiste, hadde flere ganger været i vikingefærd til Bretland, hadde ført med sig rikt bytte som vælske brynjer og hjelme, nyzelandske buer og pile. Det kosteligste bytte var dog en lykte som brandt uten ild, men som lyste bare man trykket paa den.</p>
+<p>Sæl er den som faar vidt fare og eie det som ingen andre i landet.</p>
+<p>Baade John og Frithjov kunde tale angelsaksisk, hvilket aldrig har været nogen mand til skade paa Bygdø. De hadde ogsaa andre høvdingeegenskaper, de var gavmilde, lyse i sind, men trodsige, vaabendjerve og saare tapre.</p>
+<p>John hadde intet tilnavn, men Frithjov som var dristigere og djervere og frækkere til at se selv den største fare like i øinene kaldtes gjerne for &#x00AB;hin frøkne&#x00BB; eller paa dansk: &#x00AB;den frække&#x00BB;.</p>
+<p>Johns bedste ven var Atle Herbrandsson Krok. Han bodde paa den anden side av Hukavende oppe paa et høit bjerg og dypt inde i storskogen. Stedet het før &#x00AB;Knausen&#x00BB;, nu &#x00AB;Krokenhus&#x00BB; eller Huk Avenue nr. 19. Atles far hadde ogsaa været meget i vikingefærd likesom alle nordmænd i hine tider. Fra Miklagard hadde han tat med hjem et speiderrør som var saa kunstig indrettet, at saa <pb n="4"/>man gjennem det fra en kant, da flyttet alt, man saa, sig like ind paa en og blev saare stort og tydelig; men saa man gjennem det fra den anden kant blev alt saa fjernt og smaat. Det hadde Atle faat og brukte meget naar han var i hærfærd. Men ingen paa øen kunde tyde rørets vidunderlige egenskap.</p>
+<p>Atle hadde en søster, hun het Ragnhild. Men om hende er det litet at nævne i denne saga. Kvinder var velkomne med mat, men ellers ikke velsete hverken hos vikinger eller skrællinger. Thi faa er det som ei har sandet, at megen uvenskap, had og bitterhet er opstaat mellem venner for kvindeøines skyld. Og al tale med kvinder gjør krigernes hjerter veike. Ven sviker ven, kriger flyr fra merket for den daarende magt som ned er lagt i kvindens dype blik. Ingen har endnu kunnet grunde de øines dybde.</p>
+<p>Atle var spælemmet, ikke saa sterk som en viking pleier at være, men han var raadsnar og vel set i krigsraadet. Han kunde riste runer bedre end de fleste, han laget sætninger som var saa lange som hans fars formaninger og saa indviklede som et tredobbelt reguladetristykke. Hans sagabøker var skrevne som &#x00AB;lettere tyske stiløvelser&#x00BB;, saa de var saare vanskelige at tyde. Men dette er tegnet paa den store sagaskrivning. Atle var rask i løp om end ikke den aller raskeste mellem vikinger, men i høiden hoppet ingen over ham. Han hoppet i fuld rustning sin egen høide &#x2013; paa lite nær. Han kaldtes derfor Atle hin mjove.</p>
+<p>Nu er at fortælle om skrællingerne. De var de indfødte. De paastod selv at være urindvaanerne og øens rette herrer, baade skogens, strandens og havets. Men fra Gyljandas dunkle strande var dog de fleste ættet. De saa paa vikingerne som indbrytende <pb n="5"/>snobber, som vasket sig næsten hver eneste dag, ja enkelte av de fornemste pudset sig endog saa inde i munden, og derfor fortjente de juling naarsomhelt og hvorsomhelst. Mange blodige kampe kom da til at staa mellem de indfødte og vikingerne. Megen lumskhet og feig grusomhet blev utøvet, men og saa utvist meget sandt heltemot, opofrelse og ædelt venskap.</p>
+<p>Det var særlig to stammer av skrællingerne som var farlige. Det var Austerbygdens og Vesterbygdens paa øens sydende. Indbyrdes var de likesom vikingerne ofte uenige, men i kampen mot de fælles fiender altid enige som kraakeflokker og hang sammen som erteris. Austerbygdens merkeligste mand var Charles Sleiven, Vesterbygdens het Imil, men han likte helst at man kaldte ham &#x00AB;Havets skræk&#x00BB;.</p>
+<p>Mellem de to stammer laa Granli og Rutli. Der hadde John odelsret, thi far hans hadde der først tat land, da han flyttet til øen. Her var store skoge, høie fjeld og dype dale med borge, blokhuse og forter fra gammel tid.</p>
+<p>Og her begynder Johns og Atles saga.</p>
+<p rend="center"><figure><graphic url="s5.jpg"/></figure></p>
+</div>
+<div type="chapter" n="2">
+<head type="main"><ref type="contents" target="contents_2" xml:id="chapter_2">John og Atle paa krigsstien.</ref></head>
+<p><pb n="6"/>Det var en vakker høstkveld i aaret 4 efter 1900 eller 1 før 1905. Oppe paa Granliaasen saaes to krigere snike sig frem fra busk til busk, fra træ til træ, uavladelig stansende, uavladelig lyttende. De bar begge spyd i haanden og sverd ved belte. Det var vikinger. Lydløst var de komne frem til en lysning, hvorfra man kunde se utover det speilblanke Ginnungagap. Da gjør den første et tegn, og begge lægger sig flate ned, med øret mot jorden, lyttende, om noget skulde høres.</p>
+<p>De visste, at ikveld var skrællingerne paa krigsstien, og nu hadde de set luskende skikkelser nede ved Pytten.</p>
+<p>Pludselig hører de en lyd derfra. Det var som om en bøffelko trak sit høire bakben op av det sumpige morads &#x2013; og saa hørte de flere raske lyd som om en gut hurtig i for store sko gik nede paa den vaate brede vei langs Pytten.</p>
+<p>Krigere maa lære alle skogens og vandenes lyd, forstaa fuglenes skrik, kunne efterligne dem, kunne forstaa og tale naturens hemmelige sprog. Derfor sa den ældste kriger til sin kamerat:</p>
+<p><pb n="7"/>&#x00AB;Atle! &#x2013; Hvad tror du, du nu hørte?&#x00BB;</p>
+<p>&#x00AB;Kjærestefolk som kysser hinanden.&#x00BB;</p>
+<p>&#x00AB;Ung kriger, unge tanker,&#x00BB; svarte den ældste misbilligende, men dog venlig, &#x00AB;Det var en skrælling, du hørte.&#x00BB;</p>
+<p>&#x00AB;En skrælling? Var det ikke kan hænde nattens hendøende sukke?&#x00BB;</p>
+<p>&#x00AB;Dem skal jeg vise dig en anden gang. Dette var en skrælling, sier jeg. Imorgen naar sol staar op, skal du faa se sporene. Jeg er gammel her, jeg kjender alle nattens og dagens toner her fra Granliaasens top. En skrælling er i mørket traadt utenfor stien dernede, er sunket i. Jeg kan si dig mere. Det er en ung og uerfaren skrælling eller en som er veik av sind. Tankeløst eller ubehersket trak han foten hurtig op, saa det hørtes, og forfærdet over denne lyd er han sprunget nedover mot sine kamerater. De maa da være ret nedfor her, maaske ikke 40 skridt fra os. Jeg har hørt fottrin i nedfaldent løv.&#x00BB;</p>
+<p>&#x00AB;Du er i sandhed en stor høvding, John,&#x00BB; sa den yngre og med den varmeste beundring i sin stemme.</p>
+<p>&#x00AB;Saadant lærer man ikke paa en sommer og kun i et par krige,&#x00BB; svarte den ældre velvillig smilende.</p>
+<p>&#x00AB;Bare det nu maa bli meget krig herefter,&#x00BB; sa Atle.</p>
+<p>&#x00AB;Faar du ikke for haarde hugg og træffer skrællingernes pile dig ikke altfor dypt, vil du nok kunne faa opleve mange krige, du som er saa ung,&#x00BB; svarte John uhørlig sukkende, tænkende paa hvor <pb n="8"/>ungdommen hurtig svinder og dermed krigens vilde men glade lek.</p>
+<p>&#x00AB;Hvor mange er der?&#x00BB; spurte Atle.</p>
+<p>&#x00AB;Det kan jeg endnu ikke si. Men der er flere end 3, det vet jeg. To hvisket sammen og den tredje var han med den vaate fot. Hvis vi visste, der ikke var mere end 3&#x2013;4 av dem, gik vi pludselig paa dem og jog dem fra vore enemerker. De har intet her at gjøre. Kanske kunde vi ogsaa faa fanget en, saa vi kunde faa vite hans stamme.&#x00BB;</p>
+<p>&#x00AB;Vikinger tæller aldrig fiendernes skarer,&#x00BB; svarte Atle. &#x00AB;Det var aldrig normanna vis.&#x00BB;</p>
+<p>&#x00AB;Det er sandt. Og hør unge kriger. Angrep og pludselig i nattens mørke eller i skog jager selv talrigste fiende paa flugt. Husk paa det.&#x00BB;</p>
+<p>&#x00AB;Hys &#x2013; stille!&#x00BB;</p>
+<p>De kunde med øret mot jorden og med tilbakeholdt aandedræt tydelig høre, at der krøp op over aaskanten ret mot dem flere skrællinger. Der maatte være mange.</p>
+<p>&#x00AB;Under hyllebusken,&#x00BB; hvisket John &#x2013; &#x00AB;men stille, de er for mange allikevel.&#x00BB;</p>
+<p>Neppe var de to vikinger komne godt i skjul bak hyllen førend der kunde skimtes skrælling paa skrælling, 6 i tallet. De samlet sig borte ved Johns store hytte, &#x00AB;Johnsborg&#x00BB; kaldet, den som han og Frithjov hadde laget av nedhugne furu- og grangrene fra de store kongens skoge.</p>
+<p>Der reiste skrællingerne sig og holdt raad.</p>
+<p>En av dem blev sendt frem paa speiding mot Granlihusene. Han kom snart tilbake, hadde intet fiendtlig set. En anden, tydeligvis en ældre og <pb n="9"/>modigere gik saa frem; han gik helt ind paa gaardspladsen og gjennem haven, kom tilbake med huen fuld av frugt. Man kunde tydelig høre smaskingen, naar de spiste, slik som skik er hos skrællingerne.</p>
+<p>&#x00AB;Der er ikke en eneste idiot paa Granli ikveld,&#x00BB; hørte John tydelig speideren si. Han maatte opby al sin beherskelse for ikke at bryte frem og la skrællingerne faa føle hans gode sverd.</p>
+<p>Men han betvang sig.</p>
+<p>Mørket var faldt paa. Man skimtet kun de luskende skikkelser, man hørte kun hviskende skrællingernes lumske tale, men man kunde ikke sikkert kjende den enkelte. Om det var mænd fra Auster- eller Vesterbygd var ikke godt at si. John og Atle maatte vite dette, thi det var farlig og uretfærdig senere at beskylde den ene stamme for det som den anden hadde gjort. Ingen haan var værre end over den som hadde kastet ut falsk beskyldning.</p>
+<p>&#x00AB;Kunde jeg bare faa nappet en skalp,&#x00BB; sa John, &#x00AB;saa jeg hadde sikkert kjendemerke og bevis senere. Intet er skrællingen kjærere end skalpen. Jeg har set dem kjæmpe med skalpen mellem tænderne.&#x00BB;</p>
+<p>Atle drømte bare om at erobre skalper.</p>
+<p>&#x00AB;Vi vikinger bryr os ellers ikke om skalper, lat skrællingerne beholde sine skitne, fedtete skalper. &#x2013; &#x2013; Men lat os nu se, hvad de mere vil gjøre, saa har vi kanske ikke ligget her i kveld forgjæves og blit vaat paa knæ og kold om mave.&#x00BB;</p>
+<p>De fik snart se, hvad skrællingerne vilde.</p>
+<p>Det gjaldt &#x00AB;Johnsborg&#x00BB;. Den skulde ned. Thi den var en torn i øiet paa alle skrællinger. Det var noget nyt som disse elendige snobber og spradebasser <pb n="10"/>&#x00AB;vikinger&#x00BB; hadde fundet paa oppe i deres gamle skoge og jagtmarker. Skrællingerne er hevngjerrige og blodtørstige, færdige til alskens ondt hærverk.</p>
+<p>Og nu maatte John, den gamle viking, la sin nye unge ven Atle Herbrandsson se paa, at hans hænders møisommelige arbeide blev revet ned, trampet paa, kastet nedover aasen. Og intet kunde de gjøre. &#x2013; Borgen var snart nede. Og saa tok med en gang, som paa kommando, alle seks i hver sin av de store grene, som dannet husribberne, og saa bar det med hele greia ned over skrænten.</p>
+<p>Da kunde ikke en av skrællingerne bare sig for at rope høit: &#x00AB;Nu sank Idiotenborg igrus!&#x00BB;</p>
+<p>Da lo og kniset det ut av mange munde.</p>
+<p>Men da kunde heller ikke John længer styre sig. Rødt flammet for hans øine, hat, hevn og det djerveste kampmot luet i hans barm. Han grep Atle i armen. &#x00AB;Frem! gaa paa!&#x00BB; hvisket han. De grep fast om sine sverd og med et vældigt hærskrik, som gjaldet i den stille skog, styrtet de begge frem.</p>
+<p>&#x00AB;Hug ned! Slaa ned!&#x00BB; skrek John &#x2013; ute av sig av raseri. Og skrællingerne kjendte hans røst; de skalv for hans kjendte kamprop og for hans kvasse sverd. Mange braadne pander, blaa øine, røde næser og avrevne skalper hadde John viking paa sin samvittighet.</p>
+<p>Men &#x00E9;n mot seks, &#x2013; to mot seks!</p>
+<p>Da viste Atle sin snarraadighet. Han sprang ikke like frem, men lidt utover mot Pytten og ropte: &#x00AB;Reidar! Tommen! hitover, ta dem! Frithjov!&#x00BB; Og <pb n="11"/>saa skrek han værre end en ulykke, næsten som en hel hær. Uhyggelig lød hans rop, thi han var netop begyndt med stemmeskiftningen tiltrods for sine unge aar.</p>
+<p>Skrællingerne hadde straks sluppet sit bytte, de styrtet ned over den bratte skrænt. Men med den medfødte sprækhet og letvinte maate hvorpaa disse urskogens vilde sønner færdes selv i det vanskeligste lænde, kom de vel fra det. De tænkte vel ogsaa paa at samle sig og ta imot de dristige vikinger, men saa hørte de: &#x00AB;Reidar! Tommen! o&#x2013;hoi!&#x00BB; Og ganske rigtig: der kom nogen farende gjennem buskerne og de hørte: &#x00AB;Ja&#x2013;vel! o&#x2013;hoi &#x2013;oi&#x2013;i! i&#x2013;y&#x2013;oh!&#x00BB; &#x2013; Det var vikingernes kjendingssignal. Det skar i fistel, det var Frithjovs stemme, trodde de.</p>
+<p>Da satte skrællingerne ogsaa i med sit krigsskrik, et hyl, frygtelig at høre ved nattetide, et hyl som kan bringe selv en tapper viking til at skjælve; men det efterfulgtes av et hyl til. Det var signalet til flugt. De flygtet ad sjøen til.</p>
+<p>&#x00AB;Vov-vov!&#x00BB; gneldret det efter dem.</p>
+<p>Frithjov hadde en blodhund av spansk race, som var vel kjendt over hele øen. Den var ikke saa farlig som den saa ut til, men i mørke kunde selv &#x00AB;Bruno&#x00BB; være glubsk som helhunden &#x00AB;Garm&#x00BB;. Nu efterlignet Atle dens bjæffen.</p>
+<p>Da Atle atter mødte John, var det første som John sa: &#x00AB;Saa du om det var austerbygds eller vesterbygds gutter? Fik du tak i noen skalp?&#x00BB;</p>
+<p>&#x00AB;Jeg trodde ikke, vikinger tok skalpe!&#x00BB; svarte Atle.</p>
+<p><pb n="12"/>&#x00AB;Sandt nok, men jeg vilde gjerne ha set stammen, vet du.&#x00BB;</p>
+<p>&#x00AB;Det var sikkert vesterbygds skrællinger,&#x00BB; mente Atle.</p>
+<p>&#x00AB;Hvorav vet du det, Atle Herbrandson?&#x00BB;</p>
+<p>&#x00AB;Hørte du ikke den skrælling som gik nede ved Pytten, hvor han kom fra?&#x00BB;</p>
+<p>&#x00AB;Det glæder mig, Atle, at du øver dig i krigens vanskelige kunst og prøver at lægge sammen og stave. Men hadde du den samme erfaring som jeg, da vilde du ikke ha været saa sikker i dine slutninger. Austerbygds skrællingerne kan vel ha latt en av sine mænd gaa over aasen paa en bakvei; med vilje har han traadt utenfor stien, med vilje har han røbet sig. En slik ugjerning som at rive Johnsborg ned, det skulde saa føres over paa en anden stamme. Saa skulde de selv rigtig more sig over vore kampe og al den bitterhet som dermed følger. Derfor deres forsigtige færd, forsigtigere end ellers, derfor viste de sig paa denne side av borgen, den side som vender mot Granli, derfor deres voldsomme flugt. Din krigslist med at rope paa kamerater var god; men neppe narrer vi skrællinger. Men neppe narrer de mig heller. Jeg tror nu det var austerbygds skrællinger.&#x00BB;</p>
+<p>Om lidt sa John videre: &#x00AB;Atle, hørte du om skrællingernes hyl gik mot Ro eller Herbern?&#x00BB;</p>
+<p>&#x00AB;Tydelig mot Ro.&#x00BB;</p>
+<p>&#x00AB;Hm. &#x2013; De kan ha sprunget langs stranden til Ro, men det kan ogsaa ha været krigslist. &#x2013; Lat os gaa gjennem Roskogen og høre om det er stilt i skrællingernes wigvammer.&#x00BB;</p>
+<p><pb n="13"/>Javel. De to gik forbi Pytten, over aasen, gjennem et par haver, hvor der ingen blodhunder var, og kom ned til skrællingernes leir. Men stilhet hersket overalt. Kun en hund hørtes gjø langt borte mot Kongeskogen, en anden svarte ved Folkemuseet.</p>
+<p>Saa satte de sig ned paa en mistbænk, og John fortalte om kampe og krigspus som han og skrællingerne hadde været ute for, da de bodde paa Granli og ingen hjælp hadde av Hukavendes vikinger.</p>
+<p>Det var da ofte slemt nok. &#x00AB;Ikke fordi jeg jo liker kampen,&#x00BB; sa John, &#x00AB;kampen for kampens skyld. Thi fred er ei det bedste,&#x00BB; sier en gammel skald, &#x00AB;men at man vil dygtig slaas.&#x00BB;</p>
+<p>Det var sent paa kveld, da de to gik hjemover til Hukavende. Noget overfald frygtet de ikke netop, men de gik dog forsigtigere end de pleiet, thi skrællingerne har lov til at færdes ute til langt senere paa kveld end vikingerne.</p>
+<p>&#x00AB;Det er skammelig,&#x00BB; sa John, &#x00AB;thi natten er bedst til alskens krig og til at hærde vikingernes sjæl. Da prøves de unge krigere.&#x00BB;</p>
+<figure rend="asterisk"/>
+<p>Næste dag da sol stod op av hav, da det var ved det 11te hanegal, stod allerede John og Atle ved Pytten paa Granli for at speide. De gik til stien, fandt hullet hvor skrællingen var plumpet i, og saa fotsporene videre.</p>
+<p>Da tok begge vikingerne til at le storligen. Skrællingen hadde hat jernbeslag under saalerne, <pb n="14"/>saadanne smaa stykker, som man sætter under for at spare paa læret.</p>
+<p>&#x00AB;Det er nok flere som har slike,&#x00BB; sa Atle, &#x00AB;men det er bare Petter Tosjællingen som har saa spidse snuter.&#x00BB;</p>
+<p>&#x00AB;Det er altsaa en austerbygds da,&#x00BB; sa John fornøiet. &#x00AB;Det var nok det jeg tænkte.&#x00BB;</p>
+</div>
+<div type="chapter" n="3">
+<head type="main"><ref type="contents" target="contents_3" xml:id="chapter_3">Kampen om Johnsborg. Dens brand.</ref></head>
+<p><pb n="15"/>Ved Langviksbugten laa Sjøtun. Der bodde Arnesønnerne, store vikinger allesammen. De hadde mange langskibe, baade kuttere og skjegter, badehus og baathus. De var saare mægtige. Reidar Arneson var den yngste. Han var liten av vækst, men faa var raskere og djervere end han, nævehændig, utholdende, kjapptænkt, skyende ingen fare og ufølsom for smerter. Han kunde svømme som en fisk, klatre som en ekorn og fare paa ski som en tele.</p>
+<p>Hvor Vendernes vei støter sammen med Hukavende laa Trihøgdarborg. Det var den eneste borg paa 3 høgd eller etager. (Nu: Huk Avenue nr. 6). Den var fuld av djerve vikinger. Først er at nævne Tormod Skramme, &#x00AB;Tommen&#x00BB; kaldet. Han var høi og meget sterkvoksen for sin alder, sterk og modig som en bjørn. Ingen tok Tormod Skramme i sprang, derfor kaldtes han ogsaa Tormod Spræklæg. Han var en stor mester i at skyte med bue og med salonrifle. Her bodde ogsaa Erling Vidkunson Straume. Endda han var av de yngste i hæren var han dog navngjeten som viking. Han kjendte ingen frygt og stod støt paa ski.</p>
+<p><pb n="16"/>Men den mest navngjetne av alle vikinger var dog Torleiv Kaareson. Han var skrællingernes skræk for sin vældige styrke og sit ubændige mot. Hvor han gik frem, veg alt unda; selv &#x00AB;Havets Skræk&#x00BB;, &#x00AB;Den rasende Tiger&#x00BB; og Kræsjan i Vælta gik nødig til kamp mot Torleiv. Han var &#x00AB;berserk&#x00BB;, det vil si, han kjæmpet aldrig med harnisk, hjelm eller skjold. Han brugte bare næverne. Ellers var han sjelden med i flokkerne, gik sjelden under sveitjarmerket, gik helst sine egne veie. Men i spidsen for en svinefylking var ingen bedre. Hans veie gik mest paa havet. Han hadde eget langskib; det het &#x00AB;Ormen Stutte&#x00BB;, thi det var kort og rundt. Skrællingerne kaldte det haanende &#x00AB;Padda&#x00BB;, og under det navn blev skibet siden berømt. Det gik like saa let med som mot vinden, ja det gik ogsaa i stilla. Troldom var smurt under kjølen, fandensmagt i seilene. Torleiv red engang paa en hjulhest ned gjennem trapperne paa Framnesbryggen ved Skjellebæk og red like ombord paa den store dampknorr eller færge, som der ligger. Det hadde ingen gjort før ham og det er spaadd at ingen gjør det efter ham. Frygt fandtes ikke i hans sjæl; han utdannes nu til hærhøvding eller officer.</p>
+<p>Av andre vikinger bør nævnes Oddvard av Hanaa, Osvalde og Gunnar Olavssønner til Lidarende, Torkel hin lange, Haavard Skald hin digre, Sigurd og Finn Sverressønner til Hov. Der var mange mange flere, men de nævnte er de som har gjort sig fortjent til at optegnes i sagabøkerne.</p>
+<p>Vikingerne hadde en lov og kun en eneste. Den <pb n="17"/>var skreven og det var den eneste, de kunde bli forligt om. Den lød:</p>
+<quote><p>§1. &#x00AB;Vi er alle høvdinger. Over os kan ingen raade.</p>
+<p>Enhver har sin egen frie vilje.&#x00BB;</p></quote>
+<p>Flere paragraffer var der ikke.</p>
+<p>Saaledes fortæller de gamle sagabøker at det var da vikingerne, vore forfædre drog til Bjarmeland, Island, Færøerne, Grønland, Vinland, Hjaltland og Irland, til Nord-Timberland og Nordmandi, til Serkland og Jorsal. Alle var høvdinger. Av fri vilje gik de sammen til fælles maal, naar de tykte det var rigtig. Derfor var de oftest uenige og henfaldt ikke til dvask likegyldighet.</p>
+<p>Bygdøs vikinger var ægte sønner av hine gamle og like saa uenige, &#x2013; saa der var altid anledning til krig og juling dem imellem, om det skulde være saa uheldig, at evig fred var sluttet for nogen dage med skrællingerne.</p>
+<p>Nu maa fortælles, at Johnsborg blev snart ført op igjen, større og finere end før. Det manglet kun merkestang og merke. Vikingernes merke var næsten slik som det som deres gjeveste forbillede Olav Trygvason hadde seilet under, da han kom fra Bretland og da han kastet sig i havet ved Svolder. Det var rødt med hvidt kors, slik som Danebrog kom til at se ut. Vikingerne satte blaat det hvite kors for at skille sig ut fra danerne. De regnet sig for at være kristne, om end enkelte trodde mest paa sin egen styrke. Skrællingerne var noen store hedninger. De hadde mangfoldige <pb n="18"/>guder; derfor svor enkelte av dem ved &#x00AB;sju tusan&#x00BB;, som var det høieste tal.</p>
+<p>En dag stod skrevet paa borgens dør:</p>
+<p>&#x00AB;Naar sol er gaat trende gange ned, skal borgen synke i grus.&#x00BB;</p>
+<p>Det var let at regne ut, at dette maatte bety: Kamp om borgen førstkommende søndag eftermiddag.</p>
+<p>Den dag klædde John sig i hærklær, bandt sit bretlandssverd &#x00AB;Kvernbit&#x00BB; om sig og tok spydet &#x00AB;Hævner&#x00BB; i haand. Frithjov bar vælsk sverd og bretlandsk hjelm og panser. Paa armen bar han et straalende skjold av ægte metal, prydet med gyldent kors. Det var let og sterkt. Det kunde bæres i rem over ryggen og hadde remme til armene. Med den slags skjold kunde man kjæmpe like saa let som uten. Runer var hugne ind i skjoldet, der stod: MADE IN GERMANY. Det var angelsaksisk og viste, at det var ægte bretlandsk.</p>
+<p>Atle hadde sverd, spyd, bue og koggeret fuldt av pile.</p>
+<p>John gik med Atle og Frithjov til Sjøtun. Der stod Reidar i høienloftssvalen og arbeidet paa et sverd, da John traadte hen til ham.</p>
+<p>&#x00AB;Heil og sæl! Reidar Arneson!&#x00BB;</p>
+<p>&#x00AB;Heil og sæl igjen, John Odd!&#x00BB;</p>
+<p>&#x00AB;Du venter hærfærd ser jeg, Reidar?&#x00BB;</p>
+<p>&#x00AB;Ingen vet, naar ravnene skriker.&#x00BB;</p>
+<p>&#x00AB;Da hørte Atle Herbrandsson og jeg dem idag 8 dage siden, da sol sank under aas.&#x00BB;</p>
+<p>&#x00AB;Og hvor?&#x00BB; spurte Reidar raskt.</p>
+<p>&#x00AB;Paa Granli, da Johnsborg blev revet.&#x00BB;</p>
+<p>&#x00AB;Var det auster- eller vesterbygdsskrællinger?&#x00BB;</p>
+<p><pb n="19"/>&#x00AB;Det var austerbygds, saa sandt mit navn er John Odd. Petter Tosjællingen var med. Men nu er borgen bygget op igjen, og nu snart skal dens styrke prøves. Skrællingerne er paa krigsstien.&#x00BB;</p>
+<p>Da stak Reidar kniv i bælte, grep sine vaaben og var straks med.</p>
+<p>Fra Sjøtun gik de til Trihøgdarborg. Der stod Tormod Skramme og øvet sig i at bli sterk. Intet er mere priselig for en viking. Han drev paa med svingstang og ringer. Kun Tormod var hjemme. Han grep straks sine vaaben og fulgte John.</p>
+<p>Mange andre vikinger, men av mindre kjendt navn og byrd sluttet sig til John. Med et straalende følge drog toget op gjennem Hukavende.</p>
+<p>Paa &#x00AB;Knausen&#x00BB; eller &#x00AB;Krokenhus&#x00BB; stod Ragnhild Herbrandsdotter.</p>
+<p>&#x00AB;Blir vi længe borte, maa du komme med proviant,&#x00BB; ropte Atle.</p>
+<p>&#x00AB;Jeg er ingens træl!&#x00BB; svarte Ragnhild stolt.</p>
+<p>&#x00AB;Husk, vi er mange, og lag matposen stor!&#x00BB; ropte Atle.</p>
+<p>&#x00AB;Matgla vikinger!&#x00BB; svarte Ragnhild med en gjeip.</p>
+<p>&#x00AB;Jaala!&#x00BB; ropte Atle.</p>
+<p>Ragnhild svarte ikke; hun kastet paa hodet og slog en krøl paa næsen. Saadant kan kun ganske unge og uerfarne kvinder gjøre.</p>
+<p>Saa stort og fagert mandskap hadde sjelden John set i sit følge; det lyste av blanke pansere, det glitret av sverdenes sølverne fæste, det klirret pilenes koggere. Overmodig gik vikingerne frem den brede vei til Granli, streifende Austerbygdens lave huse.</p>
+<p><pb n="20"/>Her bodde like paa grænsen av Auster- og Vesterbygd en navngjeten kriger. Det var Jens i Putten. Som hans mesopotamiske navn viser var han skrælling av fødsel, men han gik dog ofte med vikingerne. Blandt dem hadde han mange venner. Jens hørte ikke til nogen stamme, derfor kjæmpet han snart paa det ene snart paa det andet parti. Og dog kaldtes han aldrig forræder. Thi ærlighet var hans karakter. Vakrere kar og djervere idrætsmand, bedre speider var ikke paa øen. Han hadde fint ansigt, aapne, klare øine som en viking, var smidig og haardfør som en skrælling. Ingen var bedre kjendt end han i de dype skoge, langs med havskjærene, og ute paa det endeløse Ginnungagap. Han kaldtes almindelig &#x00AB;Sorte Slange&#x00BB;, endda han var lyslet og smilende at se til. Glad var det parti som hadde ham med sig. Det seiret altid. Han var seiersæl.</p>
+<p>Hadde John den dag nedladt sig til at se indom &#x00AB;Sorte Slanges&#x00BB; wigvam og faat ham med sig, da hadde ganske vist solen gaat ned over vikingernes seier og borgens lykke; nu kom den til at se en hær i skjændselens nederlag og med borgfløien i støvet.</p>
+<p>Vikingehæren leiret sig omkring borgen. Mangt og meget var endnu at gjøre ved den, og glade gik alle til sit arbeid. En vældig furu stod i midten av borgen, omkring den var et rundt bord og langs væggene laa kvist og løv til løibænke for vakten og de saarede. En peis fandtes ogsaa til bruk i de mørke, kolde høstkvelde.</p>
+<p>Det manglet tilslut kun at reise merkesstangen. <pb n="21"/>Den sattes paa høieste punkt, der hvor vakten stod. Saa heistes vikingernes merke under vældige hurrarop.</p>
+<p>I det samme kom en viking ved navn Trygve Torvaldeson springende. Han hadde en lang træflis i haanden og saa ut som han hadde spurt nyt.</p>
+<p>John saa længe paa den. Saa sa han mørkt: &#x00AB;Hvor fandt du den?&#x00BB;</p>
+<p>&#x00AB;Den stod i høgsætesstolpen.&#x00BB;</p>
+<p>&#x00AB;Da har en skrælling været her og luret, mens vi heiste merket. Det dages mig for, at dette vil bringe ulykke. Skrællingerne er nær!&#x00BB;</p>
+<p>Alle grep sine vaaben og de samlet sig om John som sin naturlige høvding. Han stod endnu med flisen i haanden som i dype tanker.</p>
+<p>&#x00AB;Det er en skrællings verk! De urskogens vilde sønner bruker ofte en træflis hvor vikingerne bruker papir. Hør hvad her staar skrevet:</p>
+<lg>
+<l>&#x00AB;Reiser du borgen,</l>
+<l>blir det til sorgen;</l>
+<l>som eggeskal</l>
+<l>den knuses skal.&#x00BB;</l>
+</lg>
+<p>Jeg visste ikke der fandtes skalde blandt skrællingerne,&#x00BB; sa John harm. Han stod raadvild et øieblik. Saa ropte han: &#x00AB;Haavard skald!&#x00BB;</p>
+<p>Frem av krigernes rækker traadte en sværlemmet viking, diger at skue, med vandblaa drømmende øine, haaret sat op paa amerikansk, det var Bygdøs største skald.</p>
+<p>&#x00AB;Nu er skogene fulde av skrællinger; de lurer paa os med øine, hvasse som den stripete panter, <pb n="22"/>de hører paa os med ører som den plettete hyæne. Vi maa svare paa digtet. Nu Haavard! Digt! &#x2013; Saa skal Tormod rope det ut.&#x00BB;</p>
+<p>Haavard Digre gik bort og søgte et enslig sted, men da han ikke fandt noget saadant sted, ukjendt som han var, satte han sig under merket og her skrev han i mindre end en halv time:</p>
+<lg>
+<l>&#x00AB;Helte fra Hukavende</l>
+<l>bud dig vil sende</l>
+<l>om juling her at finde</l>
+<l>saa blodet rødt skal rinde.&#x00BB;</l>
+</lg>
+<p>Tormod Skramme hadde en røst som bisonoksens naar den brøler i dødens sidste stund, og han skrek nu saa det hørtes som en ulykke over land og strand.</p>
+<p>Men ikke en lyd kom som gjenklang. Skogene laa svarte og hemmelighetsfulde som for aartusener tilbake. Kraaker svævet med gridske klør henover træernes toppe, langt ute paa havet saaes en enslig drages hvite vinger med balonklyver og topseil sat.</p>
+<p>&#x00AB;Kanske er det ikke nogen skrælling som har skrevet digtet?&#x00BB; sa Atle til John halvt hviskende.</p>
+<p>John saa paa flisen, rakte den til Atle og sa:</p>
+<p>&#x00AB;Lugt!&#x00BB;</p>
+<p>Tobakslugten var tydelig, thi skrællingerne, indianernes nære frænder, har altid været meget gridske efter denne indianske plante.</p>
+<p>Og under verset fandtes et par dypbrune flekker som efter en som har spyttet ofte og ivrig.</p>
+<p>&#x00AB;Jeg kan læse, at det er ikke en almindelig skrælling som har skrevet digtet. Det er en høvding, <pb n="23"/>kun høvdinger spytter saa brunt. Og er det austerbygdsmænd, da er det enten Kræsjan Dundramitten eller Kal Ormedræper. Jeg visste forresten ikke, at der var skalde blandt skrællingerne. &#x2013; Mange mand har vi endnu ikke mot os, thi skrællingerne kan aldrig la være med at hyle. Men de kan bli mange forinden sol gaar ned. &#x2013; Og nu til arbeid.&#x00BB;</p>
+<p>Nede i dalen, fra Rutlidammen langs aasen under borgen og helt ned til sjøen gik en lang rad med pallisader. De bestod av tynde, mandshøie granspirer, sat saa tæt, at hverken hund eller skrælling kunde komme gjennem. Paa flere steder var imidlertid pallisaderne bøiet tilside eller knækket. Det var skrællingers onde verk. Disse pallisader blev nu gjort istand, nye sat ind og staaltraad bundet omkring.</p>
+<p>Nu kunde skrællingerne komme.</p>
+<p>I det samme kom en viking springende til John. Han hadde været oppe i borgen for at hente nogen smørrebrød. Han var blek. Han hadde fundet en ny flis i høgsætesstolpen.</p>
+<p>John læste:</p>
+<lg>
+<l>&#x00AB;Juling, sa gutten,</l>
+<l>faar du paa slutten</l>
+<l>paa raumala truten</l>
+<l>du vikingestuten.&#x00BB;</l>
+</lg>
+<p>Tænderskjærende stod vikingerne og hørte paa dette. De knuget sine vaaben saa det hvitnet om de senete knoker. Røde flækker kom og gik paa deres kinder, øinene rullet vildt.</p>
+<p>&#x00AB;Her maa være speidere, forrædere, som ligger <pb n="24"/>og lurer, som haaner os i vor egen borg,&#x00BB; ropte John. &#x00AB;Grip til spydene, jag dem ind i hver busk, og lat forræderen dø.&#x00BB;</p>
+<p>Alle som spyd hadde gjorde som John sa. En flok under Tormod Skramme gik langs pallisaderne. Men intet mistænkelig saaes. Kun Ragnhild Herbrandsdotter saaes i det fjerne med en kurv paa armen. Det var provianten. Da glemte alle hvad de nys hadde oplevet, thi proviantglade var alle vikinger. Vakten blev avløst, og de satte sig rundt det flammende baal, som lystig knitret paa peisen.</p>
+<p>Nu er at fortælle, at &#x00AB;Sorte Slange&#x00BB; den hele tid hadde været vikingerne nær. Han hadde listet sig efter de sorgløse vikinger, og da han hadde hørt deres hovmodige tale om Hukavendes kjække vikinger, hadde han sprunget til Kræsjan Dundramitten og Olaves Flyndra, to høvdinger i Austerbygd og for talt tidender. De var med engang enige om overfald og mord, hævn over nederlaget for 8 dage siden. Mens Kræsjan skulde samle hele Austerbygdens vaabenføre mænd, skulde Olaves og Sorte Slange speide. Sorte Slange var vel kjendt paa Granli og visste, at der tæt ved borgen stod et stort vedskur sammen med et andet litet hus med gardin for vinduet. Nu bodde ingen paa Granli, og det kunde vel hænde, at en dør stod aapen. Saa var imidlertid ikke tilfældet. Men Sorte Slange som aldrig var raadløs hadde altid sine egne veie, og hvor ingen andre kom frem, der kom han. Han kom iethvertfald ind i det lille hus og bak gardinet saa og hørte han alt. Olaves kunde ikke gaa Slangens veie, han <pb n="25"/>var for bred og svær. Saa la han sig under en nøttebusk utenfor pallisaderne men tæt ved Slangens tilholdssted. &#x00AB;Sorte Slange&#x00BB; var flere gange borte hos Olaves og denne var det som hadde fundet paa det med flisen. Men ind i borgen var det Slangen som hadde krøpet hver gang.</p>
+<figure rend="asterisk"/>
+<p>Vi forlot vikingerne sittende omkring baalet og nytende sit tarvelige maaltid. Det tok til at skumre og Ragnhild Herbrandsdotter vilde til at gaa hjem. Men i det samme hørtes langt borte i skogen et langt hyl, som bragte vikingerne til at fare op. De kjendte det allesammen. Det var et hyænehyl, skrællingernes signal.</p>
+<p>Men saa var alt atter stille.</p>
+<p>Snart efter hørtes vaktens utrop: &#x00AB;Til vaa&#x2013;pen!&#x00BB;</p>
+<p>Da sprang alle vikingerne op, grep sine vaaben og samlet sig under merket.</p>
+<p>Vakten hadde set skikkelser bak pallisaderne, mange og paa flere steder samtidig.</p>
+<p>&#x00AB;Lat os rope hærrop!&#x00BB; sa John.</p>
+<p>Vikingerne saa gjorde. Det ljomet og klang som modige mænds glade kampsang. Øinene straalet av stridslyst. Mange følte det, sa de bakefter, som om de ikke ret var paa jorden, de blev saa lette paa foten.</p>
+<p>&#x00AB;Gladir rida Norigs menn til Hildarthing&#x00BB; sang begeistret Haavard skald. Og alle tænkte de paa Olav Trygvason og hans Svolderslag, og alle var de stolte av at synge paa færøisk, ægte norsk. Nu skulde de slaas, saa det stod i sagaen 1000 aar efter.</p>
+<p><pb n="26"/>&#x00AB;Kampmotet er dog en herlig ting, den herligste av al følelse, det er det som har skapte al historie, git glans til dens falmende blade,&#x00BB; saa skriver Atle viking i sine bøker.</p>
+<p>Neppe var vikingernes hærrop døet hen i ekkoets klagende toner, førend lange ilhyl hørtes. Det var skrællingernes kampskrik, det lød langs pallisaderne, fra dammen til sjøen og op igjen.</p>
+<p>&#x00AB;Sultne er vargerne nu,&#x00BB; sa John.</p>
+<p>&#x00AB;Ravnene skriker efter døde mænd. Mænd som kjæmpet med sverd ved lænd,&#x00BB; svarte Haavard i et digt.</p>
+<p>&#x00AB;Nu fra digt til prosa!&#x00BB; ropte John. &#x00AB;Pas vel paa pallisaderne! Du Tormod med dine folk passer paa ved sjøen, du Atle med Sjøtuns mænd søker ned mot dammen. Her staar jeg med reserven, og her blir du Haavard for at kunne besynge striden, om vi overlever den.&#x00BB;</p>
+<p>Tormod og Atle sprang med sine mænd til pallisaderne. En regn av raatne epler, poteter, neper, kaalhoder, kastanjer og sten stod som et uveir mot dem. Der stupte Erling Straume, Atle Herbrandson blev allerede alvorlig saaret av et ildelugtende kaalhode der som en bombe sprang like i ansigtet paa ham. Saa begyndte pileregnen, og mange blev slemt saaret paa begge sider. Men gjennem pallisaderne kom ingen skrælling. Vel var vikingerne faa, men de hadde bedre vaaben, gode buer og lange spyd.</p>
+<p>Frygtelige hyl skar gjennem luften, da skrællingerne merket at al deres overmagt intet nyttet. Ved dammen kommanderte selve Charles Sleiven, høvdingen for alle austerbygdsmændene. Under hans <pb n="27"/>hyl gik skrællingerne djervt frem, men to av hans bedste mænd stupte snart, det var Petter Tosjællingen og Søren Casimir Flæsket, begge kjække karer. Da hylte Charles længe og langt &#x2013; og med engang standset angrepet. Skrællingerne trak sig tilbake, vikingerne pustet ut.</p>
+<p>Men hvad nu?</p>
+<p>Charles Sleiven samlet om sig alle sine krigere og vikingerne skjønte at nu lagdes raad op. Snart efter saaes skrællingerne springe til dammen og der rote og grave. De samlet fæle, vaate, slimete torvklumper. Og saa var avtalen den, at mens den ene halvdel kastet torv og de som kunde tygge tobak skulde spytte, saa skulde den anden halvdel bryte pallisader ned.</p>
+<p>De gik saa frem paany og nu blev det saa haard en kamp, og det gik baade saa varmt og vaadt til, at vikingerne veg unda. Gang paa gang gik Atle og hans mænd frem, de kjæmpet med den største foragt for alle slagets farer, men mot skrællingernes indianske krigskunst kunde de ikke staa sig &#x2013; de veg unda tilslut, og pallisaderne faldt en for en.</p>
+<p>Da maatte John og Frithjov frem med sin sveit for at drive skrællingerne ut. De skred ned for bakken og styrtet sig ind i kampen. Frithjov var særlig djerv i at holde frem; naar han blev sint, bet intet paa ham. Skrællingerne maatte atter ut.</p>
+<p>Nede ved sjøen holdt Tormod sin post mot alle angrep.</p>
+<p>Allerede trodde vikingerne seieren deres. Men da hørtes pludselig vesterbygdsskrællingernes kamprop i vikingernes ryg, oppe ved borgen. Det var <pb n="28"/>Sorte Slange og Olaves Flyndra som ropte vesterbygdshærrop. Sorte Slange hadde set fra det lille hus hele kampen. Nu fandt han det var paa tide at gripe ind. Begge sprang frem og vilde ta merket, hvor kun en viking holdt vakt, derpaa vilde de falde vikingerne i ryggen. Men da Olaves sprang forbi borgen saa han det endnu brænde paa peisen. Han kom i tanker om vikingernes mat og om at bytte var at hente. Ingen mat smaker skrællingerne bedre end vikingernes, helst den de kan erobre hos disse matkjære krigere. Olaves styrtet ind i borgen. Sorte Slange mot merket.</p>
+<p>Nu er at fortælle om Ragnhild Herbrandsdotter.</p>
+<p>Hun hadde aldrig set et slag og skrællingernes krigshyl forfærdet hende saare. Hun hadde søgt ind i borgen og hørte herfra med gru paa den vilde kamptummel. I borgen var hun jo tryg.</p>
+<p>Da skingrer Sorte Slanges og Olaves Flyndras hyl like i hendes øren og hun hørte nogen komme springende mot døren.</p>
+<p>Skulde nu borgen taes ved list og overrumpling? Hun var dens eneste forsvarer. Hun saa sig om. Der stod ved furuen et ganske kort, let spyd, midt mellem langspyd og kastespyd, &#x00AB;attgeir&#x00BB; kaldes det. Det grep hun, stillet sig bak døren og ventet med bankende hjerte. Neppe var hun kommet paa post, før hun ser en kjæmpesvær skrælling smyge sig ind. Hun tar sigte og støter attgeiren i ham. &#x00AB;Hupp!!&#x00BB; skrek skrællingen og satte i en styg &#x00AB;bælj&#x00BB; &#x2013; og forsvandt fortere end han var kommet ind.</p>
+<p>Han hadde visselig faat banesaar.</p>
+<p>Det viste sig ogsaa, at han hadde faat attgeiren <pb n="29"/>i maven og var haardt saaret. Han drog sig nedover bakken hen til en stikkelsbærbusk; han var meget blek og led svære smerter. Men han maatte dog smile. Thi nu seiret skrællingerne over hele linjen. Vikingerne saa kampen oppe ved merkesstangen mellem S. Slange og vakten, de hørte Olaves Flyndras gyselige &#x00AB;bælj&#x00BB;, de trodde sig angrepne av vesterbygdsskrællingerne, de opgav pallissaderne, flygtet i panik, i uordnede flokker strømmet de tilbake op mot borgen. John gav endelig samlingssignal og ved merket mødte han Tormod og hans mænd. De kom tidsnok til at fri merkesmanden ut av Sorte Slanges klør. S. Slange laa allerede over merkesmanden og rev og slet i ham, slog og dængte for at faa tak i merket, som merkesmanden med sit liv forsvarte ved at lægge sig paa maven over det.</p>
+<p>Denne merkesmand var en viking av ringe byrd, het Ole Sivertsen og var av sørlandsk æt. Fra denne dag av het han Olav Sigurdson og skulde altid være merket nærmest. Ved sin tapperhet hadde han erhvervet sig norsk adelsnavn, ja navn som en av de gamle norske konger. Da agter man ikke flærrer i skind og klær.</p>
+<p>Skrællingerne samlet sig ogsaa. De brøt pallisader ned og mange væbnet sig med dem som spyd.</p>
+<p>Olaves Flyndra kom langsomt mot dem.</p>
+<p>&#x00AB;Har du ondt i magen?&#x00BB; spurte Charles Sleiven.</p>
+<p>&#x00AB;Jeg var inde i borgen ...&#x00BB; begyndte Olaves.</p>
+<p>&#x00AB;Og saa har du forspist dig paa vikingernes <emph>blødkage</emph> med syltetøi paa,&#x00BB; sa en haanlig.</p>
+<p>&#x00AB;Var der nogen viking i borgen da?&#x00BB; spurte Charles.</p>
+<p><pb n="30"/>&#x00AB;Om der var nogen viking, det vet jeg ikke, men at der var en attgeir der, det fik jeg føle, thi den og ikke &#x00AB;<emph>blødkagen</emph>&#x00BB; værker i magen min,&#x00BB; sa Olaves. Han tok sig for livet, satte sig ned og var ikke mere med i denne kamp. Alle saa, at han var haardt saaret og at attgeiren hadde truffet vel, thi der var hul i buksen. Men hvor dypt attgeiren var trængt ind, det kunde ingen si.</p>
+<p>Omkring merkesstangen kom nu den strideste kamp til at staa. Skrællingerne hadde ikke let for at vinde fast fot paa bakken; thi efterhvert som de kravlet op i smaa flokker, f&#x00F4;r nogen av de djerveste vikinger frem og drev dem ned igjen.</p>
+<p>Her gik det saare ilde for en navngjeten skrælling som het Dtschjaan<note type="footnote">Dtschjaan] <hi rend="italic">rettet fra:</hi> Dtschaan</note> eller John Pindsvinet. Han var med i den sidste rid og blev mødt av Reidar Arneson. De vekslet flere hugg, thi sverd hadde de begge. Dtschjaan blev tilslut saa sint, at han grep sverdet med begge hænder og vilde kløve Reidar i to. Men Reidar sprat tilside med et hop, kastet skjoldet like i synet paa Dtschjaan og hug saa til ham over armen av al magt. Dtschjaan slap i smerte sit sverd, blev staaende paa et ben, slynget det andre en tre&#x2013;fire gange rundt om det første og gned sig op og ned paa den saarede arm mens raseriets taarer stod ham i øinene. Da sa Reidar: &#x00AB;Jo, det er som dig synes, det gjør ondt i armen, og nu skal du ogsaa faa ondt i foten.&#x00BB; Han huket sig ned og hugg Dtschjaan over skinnebenet, saa han stupte. Men før han stupte hadde han endnu saa megen kraft at han kunde hyle og bælje aldeles forfærdelig. Fra den dag het han Dtschjaan Bæljen.</p>
+<p><pb n="31"/>Men det var skrevet i skjæbnens bok, at vikingerne den dag ikke skulde bære seier hjem.</p>
+<p>Skrællingerne hadde væbnet sig med pallisader, og nu brøt de frem i samlet flok og i retning av selve borgen. Nu blev det en saare kvass strid foran borgporten. Vikingernes vaaben var lette, thi vikinger har altid været angrepets mænd, men nu skulde de verge sig og det mot svære, tunge pallisader. Mot disse vaaben dugde ikke vikingernes bedste sverd. Skrællingerne slog ret ned foran sig. Skridt for skridt dreves vikingerne med blodige pander og hænder ind i borgen.</p>
+<p>Da ropte skrællingerne seiersskrik, thi nu var valpladsen deres, nu var igrunden vikingerne fangne i deres egen hule.</p>
+<p>Og nu skulde borgen ned over hodet paa de forhadte vikinger. Men hvergang en skrælling tok i en av borgens grene eller bjelker, kom en attgeir eller et andet av vikingernes tynde spyd ut og et hyl fortalte, at en skrælling var blit truffet.</p>
+<p>I vaapenkisten laa endnu nogen pilebundter. Ut gjennem borgens skyteskaar kunde endnu gode skud gjøres, om skrællingerne vilde vaage ved lange stænger og brandhaker at rive borgen ned.</p>
+<p>Saa stilnet kampen av. Men kun for snart at blusse op igjen med ny kraft.</p>
+<p>Endel av skrællingerne var gaat ned til stranden for at hente sten. Nu skulde borgen ordentlig beleires og bombarderes.</p>
+<p>Pludselig hørtes et signal. Det hv&#x00EA;n i luften og en regn av sten suset mot borgen. Men den holdt, der var ingen fare. Ragnhild blev sat bort til vaabenkisten, <pb n="32"/>hvor det var tryggest, &#x2013; saa kunde skrællingerne bombardere saa meget de lystet.</p>
+<p>Men skrællingerne har mange lumske raad.</p>
+<p>&#x00AB;Lat os kaste ildspyd!&#x00BB; ropte en. &#x00AB;Røke dem inde!&#x00BB;</p>
+<p>&#x00AB;Eller røke dem ut!&#x00BB;&#x00BB; ropte en anden.</p>
+<p>Da skalv Ragnhild og flere vikinger blegnet. De saa paa hinanden; hvad skulde gjøres? Mot ild og røk kunde de ikke kjæmpe.</p>
+<p>Da sa Reidar Arneson: &#x00AB;Her er intet andet at gjøre end at slaa sig igjennem. Hør her: Jeg vet et godt raad, thi nu maa noget gjøres. Du Tormod stiller dig under furuen her, jeg klyver op paa skuldrene dine, og saa med engang hjælper alle mig op gjennem ljorhullet og op i furuen. Der oppe er mange tørre og sorte grene. De er lette at knække i smaa stykker, de er tunge som sten og er ypperlige som kasteskyts. Saalænge jeg er i træet og har skyts, vaager ingen skrælling sig til med ildgreierne sine. Paa givet signal bryter dere ut og slaar dere gjennem. Jeg skal da gjøre det hedt for dem. &#x2013; Helst om jeg kunde faa en kurv med sten og bue og pile heist op til mig.&#x00BB;</p>
+<p>Reidar lo bare ved tanken, thi han var en stridbar mand, for hvem kamp er livets skjønneste lyst.</p>
+<p>Da sa John: &#x00AB;Raadet er godt og duger dog ikke. Vor uskrevne lov lyder slik: Et skal gaa over os alle &#x2013; Vi forlater ikke Reidar.&#x00BB;</p>
+<p>&#x00AB;Jeg skal nok klare mig,&#x00BB; sa Reidar. &#x00AB;Jeg blir paa min post selv til svarteste nat; ingen skrælling trætter mig ut.&#x00BB;</p>
+<p>&#x00AB;Vel,&#x00BB; ropte alle, &#x00AB;lat Reidar faa sin vilje. Han vinder heltenavn og borgen berges.&#x00BB;</p>
+<p><pb n="33"/>Haavard skald steg frem og kvad &#x00AB;Reidarskvædet&#x00BB;, som det siden blev kaldet.</p>
+<lg>
+<l>&#x00AB;Fienderne hyler!</l>
+<l>Det farer som syler</l>
+<l>gjennem ræd mands sjæl.</l>
+<l>Vikingeskare!</l>
+<l>Lat mig nu fare</l>
+<l>saa er jeg glad og sæl.&#x00BB;</l>
+</lg>
+<p>Saa satte Tormod sin sterke ryg til, op kom Reidar, og under skrællingernes rasende hyl klatret han op i træet. Nu fik skrællingerne andet at gjøre end tænde ildspyd. I nakken paa en suset en tyk furugren, og det blev hans bane. Paa lignende vis gik det flere. Men saa hadde Reidar snart ikke mere at skyte med, og vikingerne hadde ikke saa meget som ordnet sig til utfald. Reidar kastet da ned tauget for dermed at hale op kurven med sten. Men skrællingerne som nu ikke længer selv blev beskudt, nyttet øieblikket, de samlet sig og en hagl av sten suset mot Reidar. En traf ham like i albuspidsen med stor kraft. Det sortnet for ham, han slap taket og faldt ned. Det var hele 3 spydlængder ret ned. Borgtaket tok mot støtet noget, men Reidar kom paa hodet gjennem huset, faldt med den ene skulder mot vaabenkisten og blev liggende som i uvite. Han hadde knækket kravebenet.</p>
+<p>Skrællingerne hylte som besatte.</p>
+<p>Endelig slog Reidar øinene op. Han var blek som en falden mand, men han klaget ikke.</p>
+<p>Nu var der ingen redning mere. Snart vilde borgen staa i lys lue. Man maatte slaa sig gjennem.</p>
+<p><pb n="34"/>Da sa John:</p>
+<p>&#x00AB;Nu er her kun en vei til frelse. Vi maa bryte os vei gjennem fiendernes flok. Atle, Frithjov og jeg gaar først, saa kommer Reidar og Ragnhild med Haavard og Erling. Tormod gaar sidst. De andre følger hver sin høvding. Du Tormod faar det værst, som gaar sidst, thi paa dig vil flest hugg falde; men du taaler mest &#x2013; og ingen tar dig i spranget, om du tilslut maa flygte.&#x00BB;</p>
+<p>Det var viselig talt. Alle stillet sig op, og da de første brændende spyd blev kastet mot borgen brøt vikingerne ut.</p>
+<p>Skrællingerne kastet straks sine brandsaker og styrtet frem til kamp med vilde skrik. Men da de saa Reidars bleke ansigt og Ragnhilds angstfulde øine, stod de alle med en gang stille, de sænket sine vaaben, og vikingerne gik i fred gjennem deres rækker.</p>
+<p>I det samme tok borgen til at brænde &#x2013; og i belysning av det flammende vældige baal drog vikingerne bort og ut i den sorte stormfulde nat.</p>
+<figure rend="asterisk"/>
+<p>Skrællingerne var nu herrer paa borgen. Ogsaa ind i Granli trængte de. Der bodde ingen nu. Forladt stod de mange huse, skogen, parken &#x2013; og haven. Alt laa hen som urskogen i den første landnaamstid.</p>
+<p>At erobre tilbake borgen og vikingernes gamle herligheter var ikke let. Austerbygdens mænd hadde slaat sig sammen med Vesterbygdens. Mot to saa sterke stammer i forening var ingen seier at vente. Vikingerne vilde jo gjerne slaas, men naar det kun blev <pb n="35"/>til juling bare de viste sig, saa var det bedst at vente til skrællingerne likesom vikingerne kunde bli indbyrdes uenige. Saalænge der fandtes en æplekart igjen i Rutlis og Granlis haver var det imidlertid lite haap om uenighet; da var de som brødre.</p>
+<p>Vikingerne hadde god greie paa skrællingerne. Det var Sorte Slange som var speider. Han syntes at skrællingerne ikke hadde git ham nok ære for borgens erobring og heller ikke delt de tagne æpler. Han hadde derfor gaat i vikingernes tjeneste.</p>
+<p>John og Atle tænkte længe over, hvorledes de skulde ta igjen det tapte land.</p>
+</div>
+<div type="chapter" n="4">
+<head type="main"><ref type="contents" target="contents_4" xml:id="chapter_4">Sjøslaget.</ref></head>
+<p rend="center"><figure><graphic url="s36.jpg"/></figure></p>
+<p><pb n="36"/>Av &#x00AB;Sorte Slange&#x00BB; fik John og Atle vite, at hverken Auster- eller Vesterbygdens skrællinger var videre sterke i skibe og paa sjøen. En gammel vastrukken pram var Austerbygdens eneste langskib, en gammel skibsjolle Vesterbygdens. Da fattet John og Atle den dristige plan at dra mot Rutli og Granli over havet og tilby skrællingerne sjøslag.</p>
+<p>Skib maatte bygges. Dette var alle vikinger enige i. Alle skulde hjælpe til at bygge, alle skulde komme med det virke, de kunde finde, bjelker, træstammer, bord, planker, kasser, spiker, taugverk og seilduk. Al eiendomsret blev i den anledning erklæret ophævet.</p>
+<p>God hjælp blev dem lovet av Torleiv Kaareson. Han skulde være bygmester, men vilde selv ikke <pb n="37"/>være med i færden. Han seilet helst sine egne veie og helt ut paa Ginnungagap.</p>
+<p>Nede ved sjøen, hvor Hukavende begynder, skulde skibet bygges. Her ligger Drotningarholm (det nuværende &#x00AB;Dronningen&#x00BB;).</p>
+<p>8de dagen efter borgens brand laa langskibet færdig. Og det sa alle at saa stort skib hadde aldrig været bygget paa de kanter. De kaldte det derfor uten skam for &#x00AB;Ormen lange&#x00BB;. Det var 20 fot langt og 10 fot bredt, bygget som flaate.</p>
+<p>Det hadde mast og svært raaseil &#x2013; samt mange aarer. Det var saa stort at det kunde bære hele vikingehæren med proviant, telte m. v.</p>
+<p>Tidlig da det gryet ad dag var allerede mange vikinger samlet ved skibet. Og flere kom uavladelig. Helt fra byen kom navngjetne mænd for at være med. Blandt dem var den vilde berserk Laurentzius Herlofson til Bakkerne, &#x00AB;Lasse&#x00BB; kaldet. Han hadde ikke noget vikingenavn og mange knurret over at ha slik en med. Men han var viden berømt for sin styrke og sit mot &#x2013; og han hadde med sig et forfærdelig stort stykke elgekjøt som niste (thi faren var vældig veidemand).</p>
+<p>Alle kom med proviant, nogen med 5 stykker smørrebrød, andre med 10, ja nogen med 20 stykker. Der var saa meget mat, at ingen ved det hanegal kunde skjønne, hvorledes alt skulde bli fortæret.</p>
+<p>Sorte Slange hadde John faat med. Han var vel kjendt som lods. Og han var jo seiersæl.</p>
+<p>Da alt var klart, blev seil sat, taug kastet los, og saa styret &#x00AB;Ormen lange&#x00BB; ut paa sin merkelige færd. I løftingen stod John Karleson Odd, ved <pb n="38"/>hans side &#x00AB;Lasse&#x00BB;, Tormod Skramme, Oddvard av Hanaa samt Haavard Skald. Som stavnbo stod Atle Herbrandson til Krokenhus og &#x00AB;Sorte Slange&#x00BB;. Sammen med dem Frithjov Karleson, Erling Vidkunson til Straume og brødrene Osvald og Gunnar Olavssønner til Lidarende. Ved aarerne sat vikinger av mindre navn og lavere byrd. Men fribaarne var de alle.</p>
+<p>Samtidig la ogsaa Torleiv Kaareson ut med &#x00AB;Ormen stutte&#x00BB; eller &#x00AB;Padda&#x00BB;.</p>
+<p>Ut Frognerkilen stod en svak nordlig vind saavidt vandet kruset sig. Ved seil og aarer gled det svære skib raskt frem.</p>
+<p>De kom forbi &#x00AB;Odden&#x00BB;. Der bodde Gunhild Eiriksdotter Gaute. Hun var Bygdøs kjækkeste jente. Det var saa vist, at det kunde ikke engang bli slagsmaal om den ting. Det var ikke frit for andet end at mange vikinger gjerne vilde ha hende med, og man visste, at hun gjerne var med paa den dristigste færd. Men efter vikingebalken maatte ikke kvinder være med paa hærskib. Kvinder skulde aldrig kjæmpe. Kun naar arnens fred eller selve vikingelandet kom i fare, kunde man opby &#x00AB;folk av huse&#x00BB;, ellers var det &#x00AB;mand av huse&#x00BB;. Hun hadde ikke stemmeret og var viet til hjemmets og fredens sysler, som at lage mat, skjænke den mødige kriger læskende drik og hele de saar som slaget slaar. &#x2013; Saa har det været fra umindelige tider og saa maa det være til unævnelige. Det er greit det.</p>
+<p>Gunhild hadde sydd det merke som nu stolt vaiet fra Ormens mast. Det var rødt med en hvit orm indsydd i mange bugter. Vikingerne satte i sit vældigste hærrop til ære for hende.</p>
+<p><pb n="39"/>De kunde nu se ind Langvikbugten til Sjøtun. Der sat Reidar Arneson saaret fra siste slag. Han hilstes ogsaa med høie skrik.</p>
+<p>Videre seilet vikingerne. De hadde nu land paa styrbord side helt til solen stod over Hovedøens graabrødrekloster. Da var de ved Bygdønes. Her bøier landet av mot syd. Vinden gav endnu bør og man slap at slite saa haardt med aarerne.</p>
+<p>Nu saa de langt. Oslo, Harald Haardraades stad, skimtedes under et blaanende berg. Der inde kjæmpet kong Sverre Sigurdson paa selve isen, her tumlet bagler bjerkebeiner, varbælger og tryneskafter ordentlig med hinanden. Alle vilde gjerne ha levet da &#x2013; eller helst, om de kunde faa vælge, paa Harald Haardraades tid. Dengang var der nordmænd. Da kunde en rask mand ordentlig faa slaas og se sig om, fare til Serkland eller i Bretlandsfærd. Med ham hadde de gjerne seilet like til Vinland. Ja, hvad hadde ikke hændt, om Haralds mænd ved Standford bro hadde været samlet og været i fuld væbning? Hele England, Skotland og Irland norsk. Og dermed de skotske øer, og Færøerne, Island, Grønland, Jamtland, Herjedalen, Bahuslen, Normandi &#x2013; norsk. Norsk alt ihop! Der skulde blit juling for nogen hver!</p>
+<p>De hadde fremdeles landet paa styrbord side, fjorden aapner sig, hele Ginnungagap stod midt imot. De seilet dog videre frem, forbi øer og halvøer, Store og Lille Herbern, de saa vældige skoge, vikingevillaer og skrællingewigvammer.</p>
+<p>Ved Store Herbern gaar sjøen salt og frisk, og her hoppet alle mand overbord. De skulde hærdes <pb n="40"/>ved svømmeidræt. Koldt var vandet, men desto større ære at være første mand paa hodet.</p>
+<p>Sulten tok nu haardt paa dem, og snart var det kun elgekjøttet som hang urørt.</p>
+<p>Videre seilet de, forbi Skrællingeskjær og ind det trange sund ved Huk brygge. Ingen fiender var at se, men skrællingelandet laa nu like ved, og vikingerne var visselig forlængst set.</p>
+<p>Ved Rutlibakken stevnet &#x00AB;Ormen lange&#x00BB; iland. Her var meget drivtømmer, og landet let at værge. Av tømret bygget de snart op mot en fjeldvæg en god borg. Ved fandt de til ild, vand var i tjernet paa Rutli, og snart var alle leiret ved et vældig knitrende baal. Vakt var naturligvis sat paa høieste pynt. Herfra kunde vakten se ikke alene utover odder og skjær bortover til Austerbygden men ogsaa op gjennem dalene og skogene mot Vesterbygden.</p>
+<p>Vikingerne hadde stekepande med og snart var den herligste elgebeaf færdig. Poteter og løk fandt Frithjov paa Granli. Saa sultne var krigerne, at mange spiste kjøttet halvstekt, saa blodvandet randt ut gjennem mundvikerne. Det var noksaa krigersk. Enkelte stekte sit kjøtstykke paa pinde ved ilden.</p>
+<p>Kun poteter var tilslut igjen av provianten. Saa stekte de dem i asken. Men da sulten fremdeles herjet dem, tok en del av de flittigste og samlet sine hjelme fulde av blaaskjæl og stekte dem ogsaa i asken.</p>
+<p>Det var en indiansk drik som vikingerne desværre hadde vænnet sig til, den var sort og av stygt utseende, kaldes endnu kaffe. Det var ikke frit for andet end at enkelte var vel forsynet med <pb n="41"/>det brune grus, som kaffe lages av. Sorte Slange fik tak i kjedel.</p>
+<p>Det var allerede ved tredje vaktskifte, at Sorte Slange kom springende tilbake fra speiderfærd og meldte, at hele Austerbygden var under vaaben.</p>
+<p>&#x00AB;Nu vil jeg gi dere et godt raad,&#x00BB; sa S. Slange.</p>
+<p>&#x00AB;Lat os høre,&#x00BB; ropte alle.</p>
+<p>&#x00AB;Alle maa nu holde godt sammen. Sluk ilden, saa ingen skrælling faar se leirpladsen.&#x00BB;</p>
+<p>&#x00AB;Har du ikke bedre raad,&#x00BB; sa enkelte haanlig.</p>
+<p>&#x00AB;Jo,&#x00BB; sa S. Slange rolig, &#x00AB;vi tænder baal paa to andre steder, ute paa Hukanes og ute paa Skrællingskjær, vi sætter et filletelt ute paa skjæret, kaster fra os matrester og andet skrap. Saa farer de dit og kanske deler hæren sin i to.&#x00BB;</p>
+<p>Vikingerne fandt raadet godt, og de skyndte sig sig ut i to partier. Nogen for til Skrællingskjær, andre til Hukanes. Baal blev tændt, tang kastet paa, saa røken blev svær.</p>
+<p>Det gik som S. Slange hadde spaadd. Ikke længe efter saa vakten, at et stort langskib kom frem forbi odden, fuldt mandet med væbnede mænd. De satte kurs for Skrællingskjær, gik iland og var der en tid. Nogen eggeskal, æplekart og poteter var alt det de fandt &#x2013; og et fillet telt. Om en stund saaes en del av dem ta skibet, &#x00AB;Alligatoren&#x00BB; kaldet og ro over til Hukanes, resten vilde bli og steke blaaskjæl.</p>
+<p>&#x00AB;Nu har vi splittet skrællingerne i to flokke,&#x00BB; sa S. Slange. &#x00AB;Nu gjælder det at slaa dem før de har faat forenet sig.&#x00BB;</p>
+<p>&#x00AB;Men &#x00AB;Alligatoren&#x00BB; seiler fortere end Ormen,&#x00BB; sa en viking.</p>
+<p><pb n="42"/>&#x00AB;Den<note type="footnote">&#x00AB;Den] <hi rend="italic">rettet fra:</hi> Den</note> tar vi og uten blodsudgydelse,&#x00BB; sa S. Slange. &#x00AB;Giv mig blot den mand, jeg ber om.&#x00BB;</p>
+<p>Det skulde han faa.</p>
+<p>Han bad om at faa Frithjov, og han var straks villig til hvad som helst. &#x00AB;Nu er min plan den,&#x00BB; sa S. Slange, &#x00AB;at klæ Frithjov ut som jente. Søster mi er av samme høide og Frithjov kan godt skape sig til.&#x00BB;</p>
+<p>&#x00AB;Jo, det kunde han nok,&#x00BB; mente han.</p>
+<p>&#x00AB;Saa gaar frøken Frithjov til Hukanes, tar &#x00AB;Alligatoren&#x00BB; og ror hit med den. Saa har vi splittet skrællingerne. Ute paa Skrællingskjær er de sterkeste og største, de skal bade sig &#x2013; og da vet enhver at vi har god tid.&#x00BB;</p>
+<p>Det var saa godt et raad, at sjelden er bedre git paa Bygdø.</p>
+<p>Frithjov og S. Slange skyndte sig avsted.</p>
+<p rend="center"><figure><graphic url="s42.jpg"/></figure></p>
+<p>Ikke en halv time efter saaes en lyslet liten pike komme med en kurv paa armen ned mot Hukanes. Hun plukket en blomst av og til, saa ut over sjøen og hoppet fra sten til sten. Hun var like borte hos skrællingerne, neiet, la hodet paa skakke, blinket med øinene og var saa koket som kun pikebørn i vikingeland kan være. Hun hørte godt hvad skrællingerne talte om. De mente at nu snart maatte <pb n="43"/>vikingerne komme tilbake til sine matfat. Da skulde skrællingerne hente kameraterne paa skjæret og saa skulde det bli krig. Det skulde bli sjøslag som hadde vasket sig. Og alle lo fælt.</p>
+<p>Men den vesle jenten gik ned til stranden hun og saa paa &#x00AB;Alligatoren&#x00BB;. Den laa ganske løst. Hun gik op i den og bort i agterskottet. Da seg den av sig selv fra land.</p>
+<p>&#x00AB;La bli &#x00AB;Alligatoren,&#x00BB; ropte en skrælling.</p>
+<p>Hun hørte ikke, la bare aarerne ut.</p>
+<p>&#x00AB;La bli &#x00AB;Alligatoren&#x00BB;, sier jeg, &#x2013; Jaala!&#x00BB;</p>
+<p>Men &#x00AB;Alligatoren&#x00BB; seg ganske rolig ut paa dypet. Den var nu kommet saa langt ut, at den var skudfri. Da sprat Frithjov op paa toften og hylet ut sit vikingerop. Han danset som besat omkring i baaten. Da ulet skrællingerne stygt.</p>
+<p>Men Frithjov rodde &#x00AB;Alligatoren&#x00BB; ind i Rutlibugten, der hvor sivene staar tættest. Thi der laa &#x00AB;Ormen lange&#x00BB;.</p>
+<p>&#x00AB;Nu til angrep!&#x00BB; ropte John.</p>
+<p>De grep sine vaaben og fylket sig.</p>
+<p>I det samme saaes to smaa skrællinger springe avsted med kaffekjedlen til vikingerne. Det var to speidere, som hadde sneket sig ind i leiren. Men i det samme styrtet ogsaa Tormod Skramme avsted efter dem. Ingen løper fra ham, og han vendte snart tilbake med to fanger og kaffekjedlen.</p>
+<p>De to skrællinger blev bundne til hvert sit træ. De trodde, at de skulde pines efter slaget, stekes ved en langsom ild. Men saadant gjør ikke vikinger.</p>
+<p>Da satte de to skrællinger i at ule og bælje som om ilden allerede brændte dem led for led.</p>
+<p rend="center"><figure><graphic url="s44.jpg"/></figure></p>
+<p><pb n="44"/>&#x00AB;Det er synd at skræmme livet av slike smaa karer, som endnu ikke er krigshærdede,&#x00BB; tænkte S. Slange. Dermed luret han sig bort og sprang gjennem doktor G.s have hen til de to skrællingers hjem. Der sat mødrene til de to og nød sin eftermiddagskaffe, da S. Slange kom listende ind og fortalte om den forfærdelige skjæbne som nu var ivente for Arthur og Petter. Op fra bordet sprang straks baade fru Indianna Kosten og fru Kathinka Labben (&#x00AB;dampveivalsen&#x00BB; kaldet) og nu kom de farende som to uveir til Rutlibugten. Allerede en halv mil derfra hørte de sine elskede skrællinger hyle, og saa fort for begge fruerne, at paa 5 minutter var de der. Baandene blev løste og Arthur og Petter er dermed ute av sagaen. De to fruer kom tidsnok til at faa se avslutningen av slaget ved Skrællingskjær. Men at delta i det slag, hvilket S. Slange hadde haapet, kom de ikke til. &#x00AB;Det hadde været et syn,&#x00BB; sa altid S. Slange senere.</p>
+<p rend="center"><figure><graphic url="s45.jpg"/></figure></p>
+<p>Nu er at fortælle, at vikingerne rykket fylking mod de skrællinger som var ved Hukanes. Vikingerne rykket frem spyd med spyd, skjold ved <pb n="45"/>skjold, og skrællingerne maatte vige. Mange av deres bedste mænd var paa skjæret, her vilde bli ynkelig nederlag, juling. Men ingen bad om fred, enhver ventet med ro sin skjæbne. De blev trængt ind mot en fjeldvæg, og derfra var ingen utvei.</p>
+<p>Da traadte John frem.</p>
+<p>&#x00AB;Jeg byr fred paa rimelige vilkaar!&#x00BB;</p>
+<p>Skrællingerne sa intet, de bare var færdige til kamp.</p>
+<p>&#x00AB;Jeg byr fred og &#x00AB;Alligatoren&#x00BB; tilbake uskadt. Men hver mand lægger vaaben ned og lover med haandslag paa mit sverd &#x00AB;Kvernbit&#x00BB;, at han holder fred fra denne stund og i 6 &#x2013; seks &#x2013; dage. Rutli og Granli er vikingernes land i denne tid.&#x00BB;</p>
+<p>Mange vikinger knurret, de syntes vilkaarene var for rimelige. Men de syntes ogsaa det var en skam at jule op en saa faatallig skare. Skrællingerne knurret ogsaa ... men endelig gik en mand frem. Det var Olaves Flyndra. &#x00AB;Haarde vilkaar tykkes mig dette at være&#x00BB;, sa han. &#x00AB;Men de kunde ha været værre. &#x2013; Jeg tar i vikings sverd, freden er det værd.&#x00BB;</p>
+<p><pb n="46"/>Han var skrællingernes eneste men ganske dygtige skald.</p>
+<p>Mand for mand gik nu frem, la vaaben ned og tok i &#x00AB;Kvernbit&#x00BB;. Skrællingerne gik bedrøvet ut av Rutlis og Granlis land.</p>
+<p>Nu gjaldt det skrællingerne paa skjæret.</p>
+<p>Ormen blev mandet og &#x00AB;Alligatoren&#x00BB; tat paa slæp. De stævnet mot skjæret. Her danset skrællingerne rundt av bare raseri, de hylet og bar sig som rasende. Men de tagnet da lidt efter lidt eftersom Ormen nærmet sig. Kun Charles Sleiven var fremdeles rasende og bad dem komme allesammen. En pil suset i det samme fra Atles bue og sat dypt i det tykke av læggen hos Charles. Han hoppet høit i veiret og blev endnu sintere, da han saa blod flyte. Det saa ut til kamp nu og det av vildeste slags, thi baade Charles og Kal Ormedræper og Søren Casimir Flæsket samt Kræsjan Dundramitten var vældige krigere.</p>
+<p>Da ropte John &#x00AB;den fredsæle&#x00BB;, som han fra den dag kaldtes:</p>
+<p>&#x00AB;Hør krigere! Denne gang har vi været de heldige. Vi ønsker ikke en ulik kamp. Jeg tilbyr fred.&#x00BB;</p>
+<p>Skrællingerne tidde stille.</p>
+<p>&#x00AB;Hvad byr du da&#x00BB;, sa Charles endelig.</p>
+<p>&#x00AB;Det som jeg bød de andre&#x00BB;, og han fortalte fredsvilkaarene.</p>
+<p>&#x00AB;Er &#x00AB;Alligatoren&#x00BB; uskadt?&#x00BB;</p>
+<p>&#x00AB;Det er den &#x2013; og den overleveres her.</p>
+<p>&#x00AB;6 dage?&#x00BB; sa Charles, &#x00AB;det var svært længe det.&#x00BB;</p>
+<p><pb n="47"/>&#x00AB;6 dage fra kl. 5 i ettermiddag&#x00BB;, sa John.</p>
+<p>&#x00AB;Vi har vel lov til at gaa gjennem Granli og Rutli?&#x00BB;</p>
+<p>&#x00AB;I lovlig ærind, ja.&#x00BB;</p>
+<p>Endnu betænkte skrællingerne sig, &#x2013; men gav sig tilslut. De utleverte sine vaaben, tok i &#x00AB;Kvernbit&#x00BB;, og fik &#x00AB;Alligatoren&#x00BB; igjen. De rodde hjem og syntes, de hadde været ute paa daarlig færd. Lite hæder var hentet paa det tog.</p>
+<p>Med Ormen drog vikingerne tilbake for at nyde seierens frugter og fredens velsignelser.</p>
+<p>Men S. Slange hadde igjen været ute paa speiding. Nu kom han og meldte, at vesterbygdsskrællingerne var under samling. De hadde faat spurlag om det store vikingeskib, og nu vilde de erobre det og jage vikingerne hjem igjen med braadne pander og rundjuling. De visste, at Austerbygdens mænd ogsaa var paa krigsstien. Nu skulde vikingerne angripes fra to kanter &#x2013; og seieren var dem viss.</p>
+<p>Da vikingerne fik høre, at vesterbygdsskrællingerne snart var ventendes, lo mange av dem høit av glæde. Mange hoppet og danset, thi fred er godt men kjedelig for friske og raske mænd, som har sundt og rødt blod i sine aarer.</p>
+<p>&#x00AB;Glad skal hver mand gaa frem til han finder sin bane.&#x00BB;</p>
+<p>Vikingerne satte ut dobbeltpost paa odden nord om Rutlibakken. Derfra kunde signaliseres, naar skrællingerne saaes kommende med sit fine skib &#x00AB;Svanen&#x00BB;, hvitmalet og høibordet.</p>
+<p>Da Lasse Herlofson til Bakkerne hørte om <pb n="48"/>&#x00AB;Svanen&#x00BB;, sa han: &#x00AB;Jeg har nu et forslag at gjøre. Her ligger en stor bjelke, meget spids i den ene ende. Den lægger vi paa &#x00AB;Ormen&#x00BB; og benytter den som &#x00AB;spore&#x00BB; eller &#x00AB;vædder&#x00BB; til at støte ind siden paa &#x00AB;Svanen.&#x00BB;</p>
+<p>&#x00AB;Men &#x00AB;Ormen&#x00BB; er tungrodd.&#x00BB;</p>
+<p>&#x00AB;Det vet jeg, men her er langgrundt. Nu tar hver mand en pallisadestang og staar færdige ombord. Naar signalet gives om at &#x00AB;Svanen&#x00BB; kommer, da stikkes ut. &#x00AB;Ormen&#x00BB; ligger lavt og kan ikke sees, førend fienden er forbi nesset. I det samme sætter alle mand av med pallisaderne saa haardt de kan, faar &#x00AB;Ormen&#x00BB; godt i siig, griper saa til aarer og vaaben.&#x00BB;</p>
+<p>Det var godt raad, det skjønte de alle, og glade gik de til &#x00AB;Ormen&#x00BB;. Bjelken blev lagt ombord, og alle gik til sine pladse.</p>
+<p>Da sa S. Slange: &#x00AB;Sidst i kampen om Borgen saa jeg en baadshake. Den vilde være god nu til at hake &#x00AB;Svanen&#x00BB; fast med.&#x00BB;</p>
+<p>Erling Straume sendtes efter den og fandt den.</p>
+<p>Vesterbygdsskrællingerne hadde forlængst speidet ut vikingerne, men til angrepsplanen kjendte de intet &#x2013; og de tok det med ro.</p>
+<p>Ventetiden syntes vikingerne svært lang, og Haavard Skald satte sig da hen for at digte. Aanden arbeider altid lettere, naar store begivenheter forestaar. Nu kvad han et høvdingedraapa:</p>
+<lg>
+<l>&#x00AB;Ut paa vældige hav</l>
+<l>i vildende kav</l>
+<l>farer vikingesnekker</l>
+<l>med stavnen saa smekker.</l>
+<l><pb n="49"/>Ormen hin lange</l>
+<l>vær ikke bange</l>
+<l>i løftingen agter</l>
+<l>viking-John fegter.&#x00BB;</l>
+</lg>
+<p>Det var ikke rigtig rim i enden, men ingen kunde klare det bedre. Det blev til: &#x00AB;i løftningen agter staar John med sine fagter&#x00BB;, men det likte ikke John.</p>
+<p>Saa meget hadde Haavard aldrig digtet paa en gang. Det kom paa ham i mindre end en halv time. Men saa er det: Store tider skaper store mænd med store tanker.</p>
+<p>Men det var ikke bare med skaldeskap de drev. Høvdingerne tænkte meget paa slagets vordende gang. Alt maatte gjennemtænkes.</p>
+<p>Den lange støtbjelke voldte mange betænkeligheter. Lasse fandt paa noget rent framifraa. En tverstang blev lagt under bjelken forrest i stavnen. Saa skulde efter sammenstøtet Tormod, Osvalde og og han selv gripe i bjelken, føre spidsen under &#x00AB;Svanen&#x00BB; og saa vippe op og overende hele fiendeskibet. Under den forvirring som herved opstod, skulde pile og kastespyd suse over skrællingerne og &#x00AB;Svanen&#x00BB; bli let at rydde. &#x00AB;Men vaate paa føtterne vilde nok enkelte bli&#x00BB;, sa Lasse haanende.</p>
+<p>&#x00AB;Vi kan vente meget stenkast,&#x00BB; sa John. &#x00AB;Lat os derfor lage skjoldborg og vente med entringen, til de har skudt sig læns.&#x00BB;</p>
+<p>I det samme saaes signal fra odden. Skrællingerne kommer.</p>
+<p>Alle gik ombord.</p>
+<p>Ventestunden blev lang, men endelig saaes <pb n="50"/>&#x00AB;Svanen&#x00BB; sige frem. Den var saa lang, at vikingerne aldrig hadde trodd at den kunde være saa lang, og den var saa tæt mandet med krigere, at de ikke hadde trodd der var saa mange skrællinger til hele Vesterbygden. Der saaes mange djerve vel kjendte krigere. Der var &#x00AB;Sorte Panter&#x00BB;, &#x00AB;Staalarm&#x00BB;, &#x00AB;Rapfot&#x00BB;, &#x00AB;Dæljen&#x00BB;, &#x00AB;Spikeren&#x00BB;, Henry Kaka og Adolf Labben. Men høit i løftingen agter ved roret stod selve &#x00AB;Havets Skræk&#x00BB;. Det var den sterkeste og vildeste kriger som vel Bygdø nogensinde har set. Modig og saare vaabendjerv var han, skyende hverken vaadt eller tørt og med en ubændig kamplyst. Faa kunde tygge saa meget tobak paa en dag som han.</p>
+<p>&#x00AB;De kommer til at staa hverandre i veien i sjøslaget,&#x00BB; sa John. &#x00AB;Og nu frem!&#x00BB;</p>
+<p>De utstødte krigsrop og skrællingerne svarte.</p>
+<p>Alle vikingerne stødte fra med stakerne og &#x00AB;Ormen&#x00BB; gled frem. Skrællingerne stanset roingen, de vendte sig alle for at se det vældige krigsskib.</p>
+<p>&#x00AB;Kast stakerne! Grip aarerne!&#x00BB; kommanderte John.</p>
+<p>Vikingerne saa gjorde.</p>
+<p>&#x00AB;Ta i med styrbordsaarer!&#x00BB;</p>
+<p>&#x00AB;Styrbord skal være!&#x00BB;</p>
+<p>En hagl av sten slog imot dem. Men skjoldbærerne dækket roerne.</p>
+<p>&#x00AB;Mere med de styrbords aarer!&#x00BB;</p>
+<p>&#x00AB;Styrbord skal være!&#x00BB;</p>
+<p>&#x00AB;Vel rodd! Lat siige! &#x2013; Til bjelken!&#x00BB;</p>
+<p>Under den tætteste kugleregn seg &#x00AB;Ormen&#x00BB; frem med sin frygtelige vædder. Men støtet gled av mot <pb n="51"/>&#x00AB;Svanens&#x00BB; buede sider. Og &#x00AB;Ormen&#x00BB; var for sen og tungrodd.</p>
+<p>&#x00AB;Op med bjelken!&#x00BB; skrek Lasse.</p>
+<p>Hans folk grep i, bjelkespidsen blev sænket, og nu vippet vikingerne til alt det de orket. Det saa da stygt ut for &#x00AB;Svanen&#x00BB;. Den krænget over og der kom uro mellem skrællingerne. Stenkastene holdt op, vand tok til at strømme ind. Men &#x00AB;Ormen&#x00BB; tok og vand ind. Den taalte ikke det svære pres, den gik under med forenden og alt fløt i vand like til masten. Da fik mange vikinger støvler og sko fulde av vand og uro grep dem ogsaa. I det samme saaes &#x00AB;Havets Skræk&#x00BB; bryte sig vei. Med et frygtelig brøl satte han fra &#x00AB;Svanens&#x00BB; stavn i et eneste sprang ned paa &#x00AB;Ormen&#x00BB;. Hadde han faat fotfæste hadde han visselig ryddet hele forskibet med en gang.</p>
+<p rend="center"><figure><graphic url="s51.jpg"/></figure></p>
+<p>Vikingerne kunde jo ha kastet sig over &#x00AB;Havets Skræk&#x00BB;, alene som han var, om de bare hadde været forberedt paa angrep, men det hele kom som alle dristige angrep overraskende og lammende.</p>
+<p>&#x00AB;Havets Skræk&#x00BB; gik like mot John. Han stod i løftingen; den var laget av 3 margarinkasser. Saa uventet kom angrepet og saa daarlig var løftingen laget av moderne kultur og overcivilisation at det hele røk i filler. Det knaket stygt, da kjæmperne <pb n="52"/>bar ihop; løftingen revnet og røk, der var ikke fast spændtak at faa &#x2013; og John gik bakover i sjøen. Men han hadde saa fast tak i bringen paa skrællingen, at denne maatte bli med til havets dyp.</p>
+<p>Da stilnet al kamplarm, alle stirret ut i sjøen efter de to kjæmper.</p>
+<p>Op kom først John. Vandet gik ham til skulderen. Saa kom &#x00AB;Havets Skræk&#x00BB;. Og saa bar det paa hinanden. Det var en vanskelig kampplads. Der var gjørme i bunden, og føtterne stod fast. Vandet gik dem til skuldrene, saa de kunde ikke rigtig faa bruke sig. Kun næverne gik. Men i boksing var John, som hadde været i Bretland, mindst like saa god som &#x00AB;Havets Skræk&#x00BB;, og kampen blev længe uavgjort.</p>
+<p>Vikingerne kunde fra &#x00AB;Ormen&#x00BB; ha kastet sig med spyd og sverd over &#x00AB;Havets Skræk&#x00BB;, som stod fast i gjørmen; men det regnes for litet høvelig at bruke vaaben, naar man kjæmper &#x00AB;berserk&#x00BB;. Slag blev git og slag blev mottat og længe var kampen uvis. Hvor svære slag der end blev git, kunde man intet se paa krigernes ansigter, thi det er det store ved al kamp: man glemmer sig selv. Og det er sundt. Man biter smerten i sig og sætter viljen ind. Og det er med viljen man seirer.</p>
+<p>Men saa træffer John &#x00AB;Havets skræk&#x00BB; midt i næsen. Og for meget er for meget. Da blev &#x00AB;Havets skræk&#x00BB; rasende. Blod og vand og mørje og grønske og fæle skrik stod i et kav og rote. &#x00AB;Havets skræk&#x00BB; fik den ene foten ut av dyndet, grep saa John i vrangstrupen og dermed bar det overende med dem begge to.</p>
+<p><pb n="53"/>Da hylte skrællingerne av glæde.</p>
+<p rend="center"><figure><graphic url="s53.jpg"/></figure></p>
+<p>Men Frithjov hin frøkne kastet skjold og sverd og satte i et sprang paa sjøen. Han var heldigvis saa liten at han ikke naadde bund, han svømmet et par tak og kom uventet over &#x00AB;Havets skræk&#x00BB;, klemte ham om halsen og sat fast som en igle. Da slap &#x00AB;Havets skræk&#x00BB; taket sit. Han vilde vende sig mot sin nye angriper, men magtet det ikke, for han stod fast i gjørmen. Da skjønte &#x00AB;Havets skræk&#x00BB; at slaget var tabt for ham. Han tok til at brøle: Hjælp! hjælp! Men ingen hjælp var at faa. &#x00AB;Jeg skal tryne dere imorgen,&#x00BB; ropte &#x00AB;Havets skræk&#x00BB;. Men ingen hjælp kom. Skrællingerne kunde ha kastet med sten, men da kunde de like saa godt ha truffet sin egen høvding som de to fiender. Og paa &#x00AB;Ormen&#x00BB; stod vikingerne med spyd ved spyd.</p>
+<p>John var kommet sig paa fot, og nu tok de to brødre og &#x00AB;vasket&#x00BB; Havets skræk slik, at han bare fik puste stundom til og yderst sjelden. Han rev sig løs &#x2013; og spyttende og sprutende, drivende av vand og gjørme kom han sig iland. John og Frithjov kom med endel besvær op paa &#x00AB;Ormen&#x00BB;, hvor de hilstes med jubel.</p>
+<p>Skrællingerne hadde ikke vidst hvad de skulde gjøre, men nu tok vikingerne atter til med slaget, og hver skrælling grep til sine vaaben og agtet at <pb n="54"/>verge sig vel, selv om høvdingen var dødelig saaret.</p>
+<p>Av og til hørte man gjennem slagets larm Havets skræk brøle som vildeste brændings brus.</p>
+<p>Nu er at fortælle, at &#x00AB;Svanen&#x00BB; laa med bredsiden til, og &#x00AB;Ormen&#x00BB; med stavnen. Skrællingerne hadde da al fordelen paa sin side. De kunde komme til med flere folk, og uvisst var det hvorledes det var gaat, thi &#x00AB;Svanen&#x00BB; var høibordet. Men Oddvard av Hanaa grep baatshaken og kastet den som stavnljaa over i &#x00AB;Svanen&#x00BB;s stavn og huket til. Det kostet ham og flere baade spydstik og stenkast; men &#x00AB;Svanen&#x00BB; drev da over, og nu laa &#x00AB;Ormen&#x00BB; til med bredsiden.</p>
+<p>Da fik skrællingerne kampen haardt at føle. Pile, spyd og sten, kastanjer, poteter, kaalhoder fløi tæt i luften. Osvalde Olavson grep to gange spyd i luften og slynget dem tilbake. Erling Straume grep et kaalhode og drev det i synet paa &#x00AB;Sorte Panter&#x00BB;, saa han mistet synet i lang tid. Men Lasse til Bakkerne gik saa nær ind under &#x00AB;Svanen&#x00BB; at han fik banehugg og kunde ikke være med mere i dette slag.</p>
+<p>Da sa Atle til John:</p>
+<p>&#x00AB;Dette blir der ingen ende paa. Men nu skal vi ta til aarerne og drive baade &#x00AB;Svanen&#x00BB; og &#x00AB;Ormen&#x00BB; hen imot skjæret ved odden. Naar &#x00AB;Svanens&#x00BB; agterdel naar dit bort, er jeg sikker paa, at mange skrællinger hopper iland for at hente sten eller derfra bedre at kunne kjæmpe mot os med pil og bue. Men naar en del er kommet iland, ror vi tilbake og tar &#x00AB;Svanen&#x00BB; med. Saa er skrællingerne ogsaa denne gang splittet.&#x00BB;</p>
+<p><pb n="55"/>&#x00AB;Det var et herlig raad!&#x00BB;</p>
+<p>Da ropte John:</p>
+<p>&#x00AB;Vi vil holde ordentlig sjøslag! Ut paa dypet! Roere, til aarerne! Skjolddragere, skjærm roerne og stavnljaaholderne!&#x00BB;</p>
+<p>Alt gik som Atle hadde sagt.</p>
+<p>Begge skib gled ut paa dypet. Tormod og John stelte det slik at &#x00AB;Svanen&#x00BB; gled mot skjæret. Og med en gang sprang næsten halve skrællinghopen iland efter sten.</p>
+<p>Men i det samme skrek og John:</p>
+<p>&#x00AB;Skaat med aarerne, karer! &#x2013; alle ta i &#x2013; ta i!&#x00BB;</p>
+<p>Og &#x00AB;Svanen&#x00BB; og &#x00AB;Ormen&#x00BB; gled bort fra skjæret.</p>
+<p>Da skrek &#x00AB;Havets Skræk&#x00BB; værre end en ulykke. I raseri kastet han sig i sjøen og svømmet ut til skjæret. Men splittet var og splittet blev skrællingerne. Og nu maatte de som stod paa skjæret se paa, hvorledes &#x00AB;Svanen&#x00BB; blev ryddet, hver mand hugget ned.</p>
+<p>Da ropte vikingerne seierskrik.</p>
+<p>Da alt var stille, ropte John over til skjæret: &#x00AB;Vil dere ha fred og forlik?&#x00BB;</p>
+<p>&#x00AB;Nei,&#x00BB; brølte &#x00AB;Havets Skræk&#x00BB;. &#x00AB;Jeg tar ikke fred av dig. Før skal jeg ligge paa havets bund.&#x00BB;</p>
+<p>&#x00AB;Han mener nede paa gjørmen,&#x00BB; sa flere vikinger haanende.</p>
+<p>Da ropte Atle:</p>
+<p>&#x00AB;Tar du mot fred av mig da?&#x00BB;</p>
+<p>De to hadde aldrig slaas.</p>
+<p>&#x00AB;Det kommer an paa, hvad du kræver og byr.&#x00BB;</p>
+<p>&#x00AB;Vi kræver og vi byr det samme som vi krævde <pb n="56"/>og bød dine brødre austerbygdsmændene før idag. Ingen behøver at skamme sig over de vilkaar.&#x00BB;</p>
+<p>&#x00AB;La høre da.&#x00BB;</p>
+<p>&#x00AB;Vi kræver, at Granli og Rutli erklæres fredlyst i 6 dage &#x2013; seks dage &#x2013; fra kl. 5 eftermiddag idag, fred sluttes mellem os i den samme tid. Vaaben beholder dere; det fik ikke Austerbygden, thi med dem var der ingen kamp. Og &#x00AB;Svanen&#x00BB; leveres tilbake slik som den er.&#x00BB;</p>
+<p>Da skrællingerne hørte det om vaaben og om &#x00AB;Svanen&#x00BB;, var de fleste tilbøielige til fred, og de som sa de vilde slaas, mente igrunden ikke stort med det. &#x00AB;Havets Skræk&#x00BB; mumlet noget om at han vilde slaas til sidste filla.</p>
+<p>Om skrællingerne er videre at fortælle at de rodde hjemover litet glade i hugen. De herjet frygtelig kysten ved Kongeskogen og satte kursen mot kongevillaerne. De stod tomme nu og var som skapt til at huse hele høsten utover skrællingernes vilde skarer. (Efter det sørgelige Karlstadforlig i 1905 er skrællingerne hjemløse paa de kanter). Gjennem et aapent kjøkkenvindu slap de ind i Villa &#x00AB;Victoria&#x00BB;, og snart braste et lystig baal paa den kongelige peis. De trængte at tørke sig efter sjøslaget. &#x00AB;Sorte Slange&#x00BB; som vel kjendte skrællingernes smuthuller, krøp ogsaa ind gjennem samme vindu og la sig under en seng i &#x00AB;kavalerværelset&#x00BB;. Døren stod aapen til salonen, og &#x00AB;Sorte Slange&#x00BB; kunde se og høre alt inde hos skrællingerne.</p>
+<p>Saa stor morro hadde Sorte Slange sjelden hat, fortalte han, som da han hørte skrællingerne fortælle om sine bedrifter. Alle skrøt og løi, den ene <pb n="57"/>værre end den anden. Da hørte han en skrælling, som het Eugen eller Augen Lapskausen, si: &#x00AB;Jeg sigtet og traf Jens i Putten, han som vikingerne kalder Sorte Slange, midt i magen, jeg, og pilen sat saa haardt, at Jens gav sig rent over, satte sig ned, og graat gjorde han saa det randt.&#x00BB; Da lo alle skrællingerne og de syntes det var godt gjort. De sat og talte videre om at Sorte Slange maatte være utenfor fredsbetingelserne, da han hverken var viking eller en av deres.</p>
+<p>&#x00AB;Utenfor fredsbetingelserne&#x00BB; er han, det er greit det,&#x00BB; sa Lapskausen, &#x00AB;og jeg skal paata mig at dænge ham ordentlig.&#x00BB;</p>
+<p>&#x00AB;Han regnes ikke med i freden,&#x00BB; ropte mange.</p>
+<p>&#x00AB;Det er vel det!&#x00BB; sa en kriger, som ingen hadde lagt merke til, der de sat rundt baalet og fordi han hadde staat i skyggen av skjorten til &#x00AB;Havets Skræk&#x00BB;.</p>
+<p>&#x00AB;Og her skal du faa noget at graate for!&#x00BB; Det var Sorte Slange som sa det. Og i det samme langet han ut efter Lapskausen, først en i synet og saa en i maven.</p>
+<p>Og da gik det som Lapskausen hadde fortalt om en anden og slik som S. Slange hadde spaadd: Lapskausen satte sig ned og graat &#x2013; ja bæljet saa det randt.</p>
+<p>Men S. Slange var ute av døren i samme blinken, han slog døren i efter sig og var ute gjennem vinduet førend skrællingerne vel hadde besinnet sig.</p>
+<p>Om vikingerne er at fortælle, at de atter la iland i Rutlibugten. De tændte et vældig baal av de ødelagte dele av Ormens løfting, av pallisader, stokker, <pb n="58"/>grener m. m. Kaffekjedlen kom paa, og alle syntes de, at de aldrig hadde levet som idag. Det var som om hver og en hadde været i en høiere og renere sphære eller luftlag. De kjendte næsten ikke jorden under sig, de maatte reise sig uavladelig og hoppe i veiret, de knyttet hænderne og saa paa sine vaaben, de stirret ut til odden og skjæret, og en strøm av herlige minder gled dem forbi. Saa rike syntes de aldrig at ha været. Nu kunde de komme hjem og med ære. Selv ved juleblots tider, da glæden staar høit, syntes de ikke det var saa vidunderlig som nu.</p>
+<p>Haavard skald hadde følt stemningen komme saa betagende over sig, at han maatte gaa hen for sig selv og digte. Da baalet tok til at slukne, kom han tilbake og saa kvad han:</p>
+<lg>
+<l>&#x00AB;Havet ligger tyst og stille.</l>
+<l>Bølger ind mot stranden trille.</l>
+<l>Skogen suser,</l>
+<l>Stormen bruser,</l>
+<l>Vikingsnekken gynger op og ned.&#x00BB;</l>
+</lg>
+<p>Det var alle enige om, at Haavard var en større skald end nogen før hadde tænkt. Mange vilde, at han skulde la sine samlede kvad komme i trykken. &#x00AB;Vikingekvad&#x00BB; skulde de hete. Haavard vilde bli endnu mere berømt end han var &#x2013; og tjene en masse penger.</p>
+<p>Da smilte Haavard glad og saa store skaldesyner.</p>
+<p>Beskedent sa han, at han ikke skulde ha brukt saa lang tid, om han ikke var kommet bort i et andet kvad samtidig. Han vilde gjerne læse op det digt ogsaa.</p>
+<lg>
+<l><pb n="59"/>&#x00AB;Paa havet er det stille av og til.</l>
+<l>Man hører bølgens spil</l>
+<l>og stormens susen gjennem takkelagen</l>
+<l>ved natten som ved lyse dagen.&#x00BB;</l>
+</lg>
+<p>Om dette opstod en længere literær diskussion eller ordskifte. Ingen syntes at saadan diskussion var morsom, men de maatte ogsaa dyrke lidt kulturen og civilisationen, syntes de.</p>
+<p>&#x00AB;Underlig at ha faat fred,&#x00BB; sa en. &#x00AB;Her kan vi sitte uten vakt og uten sverd ved lænd.&#x00BB;</p>
+<p>&#x00AB;Ja, det er underlig,&#x00BB; sa en anden.</p>
+<p>&#x00AB;Det er godt for en liten stund, men det er fælt kjedelig i længden.&#x00BB;</p>
+<p>&#x00AB;Ja, det er visst!&#x00BB; ropte næsten alle som en mand. Igrunden hadde de talt pent om freden, fordi de visste at det var svært paa moden. &#x2013; Hvad hygge var det vel at være viking, være ung og sterk og saa ikke faa bruke kræfterne sine til rigtig at slaas. Alle glædet sig over, at freden dog ikke kunde komme til at vare længer end 6 dage. Det var meningsløst længe, men John hadde vel hat sine grunde. Man skulde vel høste æplerne paa Rutli og Granli i den uke som kom og da være sikker mot skrællingernes herjinger.</p>
+<p>Men gjort var gjort. Og ingen kunde vite, om der ikke blev en liten anledning til fredsbrud; thi avtaler og fredstraktater er altid i historien skrevne for at bli brudt, saa folk kan komme til at faa slaas igjen. I alle de historiebøker som vikingerne hadde læst varte aldrig freden længer end fra den ene side til den anden. &#x2013; Det kan forresten enhver se sort paa hvidt for.</p>
+<p><pb n="60"/>I haap om snarlig krig igjen vilde vikingerne avslutte dagen med at danse vaabendansen. Det er den gamle norske folkedans, som endnu danses paa Færøerne og paa Island. Alle tar hinanden i hænderne, brorskapskjede bindes og saa trædes dansen. Paa leikarvollen paa folkemuseet hadde vikingerne ofte set den. De kunde forresten alle sammen baade enkevals og skottisk, wasjington post, daysybell-vals og kvæsarvals, hopsa og fransaise, langsjer og pappiljongpolka, pa dø katter og pa despanje; &#x2013; for alt saadant hører til vor tids vikingkultur. Men de foragtet sig selv bare ved tanken om enkevals eller pa dø katter paa slik en dag.</p>
+<p>&#x00AB;Gladir rida Norigs menn til Hildarting!&#x00BB; sang de til vaabendansen. Saa gik alle mand ombord paa &#x00AB;Ormen hin lange&#x00BB;, saa heistes seil, og for en frisk kveldsbris fra syd strøk de seirende vikinger hjem.</p>
+</div>
+<div type="chapter" n="5">
+<head type="main"><ref type="contents" target="contents_5" xml:id="chapter_5">Mørkets gjerninger eller John og Sorte Slange i kaninkassen.</ref></head>
+<p><pb n="61"/>48 timer var allerede hengangne og fred og kjedelige dage hersket mellem vikinger og skrællinger. Men saa kom der nogen æpler iveien, og saa blev det ordentlig ufred igjen &#x2013; mere skulde det ikke til.</p>
+<p>Paa Granli og Rutli var der store æplehager, og de laa nu næsten ubeskyttet, da ingen bodde der længer. Kun en gammel skrøpelig kriger saa indom av og til. Der var bygget pallisader og hængt pigtraad op mot skrællingernes vilde herjinger, men lite hjalp det, thi de fandt vei overalt.</p>
+<p>Johns far eide Granli, og John hadde tænkt paa æplerne, da han sluttet saa rimelig en fred nu sidst søndag med skrællingerne. De maatte ikke komme paa Granli og Rutli uten i lovlig ærinde; det hadde de lovet med haand paa hans sverd.</p>
+<p>Men der er enkelte folkeslag likesom enkelte mennesker, særlig store statsmænd, for hvem ingen fred eller avtale gjælder. Blandt saadanne mænd kan nævnes Otto von Bismarck, Olaves Flyndra og <pb n="62"/>dennes nærmeste kamerat Fredrik Frantz eller Fransse-Fredrikssen, som man kaldte ham for korthets skyld. Disse to var saa diplomatisk utspekulerte, at hverken gjærde eller pigtraad eller neutral sone kunde holde dem ute. De saget hul paa pallisaderne og smøg gjennem. De satte hullet istand igjen slik, at ingen kunde ane, at nogen hadde brugt sag og fil. Og de var hver eneste kveld inde paa Granli efter æpler.</p>
+<p>Men Sorte Slange saa det, som ingen anden saa. Han visste vel om hullet. Han kunde ha benyttet sig selv av det. Men det vilde han ikke. Han syntes det var lumpent av Olaves Flyndra at bryte fred og bryte ind paa Granli, hvor der altid hadde været snille, godhjertede mennesker.</p>
+<p>Sorte Slange lurte da ut noget rigtig fælt. John og han skulde ta julemasker paa sig, lægge sig i bakhold i Granlihagen, og saa skræmme de to æpletyver slik, at de skulde huske det. Thi en fæl maske ved nattens tid kan skræmme selv tapre krigere og helst naar den onde samvittighet ogsaa er med.</p>
+<p>John blev rent lei, da han fik høre, hvor skammelig fredstraktaten var blit brudt &#x2013; allerede kvelden efter sjøslaget. Han gik gjerne ind paa S. Slanges plan.</p>
+<p>Tirsdag kveld var John og S. Slange i Granlihagen. Men det var fuldmaaneskin og ikke saa let at gjemme sig, thi Olaves og hans kamerat var temmelig lure. John vilde opsætte vakten til en anden kveld, naar det var overskyet, og han mente ogsaa, at tyvene ikke vaaget komme, naar det var saa lyst. &#x00AB;Saa <pb n="63"/>længe der findes et æple, kommer de,&#x00BB; sa S. Slange, &#x00AB;og nu i fredlysningen er de alene om hagen.&#x00BB;</p>
+<p>&#x00AB;Her er en stor kasse,&#x00BB; sa S. Slange.</p>
+<p>Den hadde Frithjov benyttet til kaninhus dengang forældrene bodde paa Granli. Den var paa 2 etager eller høider.</p>
+<p>&#x00AB;Den tar vi,&#x00BB; sa John, &#x00AB;og slaar ut mellemgulvet.&#x00BB;</p>
+<p>&#x00AB;Og saa slæper vi den ned til det bedste æpletræ,&#x00BB; sa S. Slange, &#x00AB;kaster kaalblade og andet rask omkring, saa ser det ut som om nogen er begyndt med kaniner igjen. Saa sætter vi os i kassa, lukker igjen og kan se gjennem sprækkerne alt. Og saa kan vi springe frem, naar vi selv vil.&#x00BB;</p>
+<p>Det var en storartet plan. Bare ikke Fransse-Fredrikssen anet uraad. Han var saa var og forsigtig.</p>
+<p>Kassens mellemgulv blev revet ut, og saa drog de to avsted med den til et glasæpletræ, som var sellende fuldt av modne æpler. Kaalblade, halm og andet rusk blev strøet rundt kassen, og saa satte de to sig ind. Der var ikke rigtig god plads, men en høidot under enden og nogen smørrebrød i lommen gjorde stillingen ikke saa værst endda.</p>
+<p>Paa kassens forside var der staaltraadnetting, John hang en gammel sæk bak, altsaa paa indsiden. Saa kunde de selv se ut saa meget de vilde, men ingen se ind til dem. Kassens laak var laget av bakhunbord, saa der var sprækker imellem. Nogen høidotter blev puttet ind imellem.</p>
+<p>Saa sad de to krigere der baade godt og vel. De ventet og ventet i syv lange og syv brede, men <pb n="64"/>ingen skrælling kom. De kikket ut mellem staaltraadnettingen alt i et; men hagen laa like vakker og fredelig hen som før.</p>
+<p>Klokken blev 8&#x00BD;, den blev 9, den blev 9&#x00BD;, den gik til 10. Da trodde John at ryggen vilde til at gaa tvert av paa ham, saa træt var han. S. Slange sa ingenting. Smørrebrødet var opspist, nogen sure æpler likeledes.</p>
+<p>&#x00AB;Nei, nu gaar vi hjem,&#x00BB; sa John, træt og søvnig.</p>
+<p>&#x00AB;Aa nei, vent lidt endda,&#x00BB; bad S. Slange.</p>
+<p>Saa sat de der endnu en stund.</p>
+<p>&#x00AB;Nei, kommer de ikke nu, &#x2013; &#x2013;&#x00BB; sa John.</p>
+<p>&#x00AB;Saa venter vi endnu en stund,&#x00BB; sa S. Slange. &#x00AB;Tys &#x2013; der kommer nogen paa strandveien.&#x00BB;</p>
+<p>De lyttet og stirret.</p>
+<p>Jo, ganske rigtig. Der var nogen bak gjærdet og haktornhækken. Nu standset de. Der hørtes hvisken, og om lidt saaes nogen krype gjennem hullet i gjærdet. Det var Olaves Flyndra. Saa kom Fransse-Fredrikssen. De holdt sig længe i hækkens skygge, men saa blev de modigere og kom fremover ind i hagen.</p>
+<p>&#x00AB;Olaves,&#x00BB; hvisket Fransse-Fredrikssen. &#x00AB;Her er kommet kaniner i hagen, get!&#x00BB;</p>
+<p>Olaves kom hen mot kassen.</p>
+<p>&#x00AB;Lat os se paa dem,&#x00BB; sa Fransse-Fredrikssen.</p>
+<p>Og saa gik de like hen til kassen.</p>
+<p>&#x00AB;Det er nok ordentlig kaninhus dette,&#x00BB; sa Olaves.</p>
+<p>&#x00AB;Men her er hængt noget foran, saa vi kan ikke se dem. &#x2013; Paa indsiden &#x2013; det var da merkelig,&#x00BB; sa han eftertænksomt.</p>
+<p><pb n="65"/>&#x00AB;Vi faar pirke lidt i dem,&#x00BB; sa Franse-Fredrikssen.</p>
+<p>Han tok en pinde og stak ned mellem en av sprækkerne. Og saa rotet han med pinden frem og tilbake, saa det sved i ansigterne paa John og S. Slange.</p>
+<p>&#x00AB;Her er da liv herinde,&#x00BB; sa Franse-Fredrikssen.</p>
+<p>&#x00AB;De er svarte og kvite,&#x00BB; sa han videre efter at ha kikket længe ned gjennem et hul. &#x00AB;Det er visst to av dem.&#x00BB;</p>
+<p>&#x00AB;Det er altid par,&#x00BB; sa Olaves. &#x00AB;Det er franske vædderkaniner. De er svarte og kvite.&#x00BB;</p>
+<p>Saa gav Franse-Fredrikssen kassen et spark. Men dermed blev det.</p>
+<p>&#x00AB;Her er fineste glasæplerne,&#x00BB; sa Olaves. &#x00AB;Og nu har de stillet kasse op for os ogsaa.&#x00BB;</p>
+<p>Dermed kløv Olaves op paa kassen og ut paa en av de nærmeste grene. Æple paa æple hørtes dumpe ned. Tilsidst kom Olaves selv dættende ned. De samlet op byttet i hver sit lommetørklæde og fyldte ogsaa huerne sine. Derpaa satte de sig paa kassen for at spise et par æpler i fællesskap og i brorskap.</p>
+<p>&#x00AB;En sitter aldrig tryggere end midt inde i flæsket, sa musa.&#x00BB; Olaves lo saa han hikset.</p>
+<p>&#x00AB;Dette var aparte gode æpler. Altfor gode til at hænge her og raatne, og endda mere altfor gode til at dætte ned i magen paa denne hovne John,&#x00BB; sa Olaves videre. &#x00AB;Ha, ha, husker du ham søndag med sine fredsbetingelser og vilkaar og fredlyst bælte og lovlig ærend .... ha, ha!&#x00BB;</p>
+<p>&#x00AB;Har han planta træerne kanske?&#x00BB;</p>
+<p>&#x00AB;Lovlig ærend! Jeg skal bryne næseskafte <pb n="66"/>hans jeg, kommer han paa min vei oftere. Jeg skal raumala ham. Ha, ha! Raumala ja! ....&#x00BB;</p>
+<p>De lo begge, saa de hadde besvær med at holde sig nogenlunde stille.</p>
+<p>John hadde hat vanskelig for at styre sig, men nu tok han kniven frem. En halv tomme tyk er kassebordet, &#x2013; det er saa langt paa knivsbladet, maalte han; en halv tomme op i flæsket paa tykke Olaves er saa langt og en halv tomme til op i kjøttet &#x2013; det blir akkurat passelig. Han maalte nøie, satte tommelfingeren paa bladet, listet kniven op gjennem en sprække like under Olaves, der hvor han hadde mest kjøtt og flæsk og hvor han manglet en del paa opdragelsen. Og mot det klare maaneskin kunde han tydelig skjønne hvor Olaves sat.</p>
+<p>&#x00AB;Han er en iddejot,&#x00BB; sa Olaves, &#x00AB;rægtigen iddejot.&#x00BB;</p>
+<p>I det samme kjørte John kniven til og av godt hjertelag &#x2013; og traf der, hvor han hadde beregnet støtet.</p>
+<p>Op sprat Olaves og slog op en bælj saa fæl som om en hugorm og ikke en kanin hadde bidt ham.</p>
+<p rend="center"><figure><graphic url="s66.jpg"/></figure></p>
+<p>&#x00AB;Vov &#x2013; vov! vov &#x2013; vov!&#x00BB; sa det fra kassen, et fint og et grovt maal.</p>
+<p>Og ut av hagen f&#x00F4;r skrællingerne saa fort, at de, da de kom til hullet i gjærdet, blev begge sittende en lang stund og sprælle og slaa og puffe hverandre. <pb n="67"/>Begge vilde være første mand ut. &#x2013; Julemaskerne behøvdes ikke for at faa de to til at skynde sig.</p>
+<p>Huerne laa igjen med æpler og to knytter med samme slag. Knytterne var røde og gule. Paa det ene stod den hellige romerske keiser Wilhelm avbildet i panser og plade og med skjegget sat op med bartebind. Det var et herlig bytte.</p>
+<p>&#x00AB;Nu deler vi byttet,&#x00BB; sa John, da de vel var krøpne ut av kassen og faat rettet lemmerne sine. &#x00AB;Huerne er lovlig tagne skalper, men da de er tagne i fredstid, vil jeg helst bli kvit dem.&#x00BB;</p>
+<p>S. Slange tilbød sig at hænge dem op paa skrællingernes dørklinker allerede samme kveld.</p>
+<p>&#x00AB;Men lommetørklæderne beholder vi. De skal heises paa &#x00AB;Ormen Lange&#x00BB; som erobrede merker.&#x00BB;</p>
+<p>Og saa blev gjort.</p>
+<p>Det kom til at koste blodige slag dette; men i denne saga er der ikke plads til at fortælle om dem.</p>
+</div>
+<div type="chapter" n="6">
+<head type="main"><ref type="contents" target="contents_6" xml:id="chapter_6">&#x00AB;Skøierne&#x00BB;.</ref></head>
+<p><pb n="68"/>Næste søndag hadde alle ventet store begivenheter, stort slag mellem vikinger og skrællinger. Mange spaadde vikingernes undergang.</p>
+<p>Det skulde nok bli til kamp den dag, men ikke mellem vikinger og skrællinger.</p>
+<p>En ny fiende viste sig paa krigens skueplads, en ny og farlig fiende for de faatallige vikinger.</p>
+<p>Det var en indianerstamme, som den dag hadde malet sig med krigsmaling og tat krigsstien fat. Det var &#x00AB;Skøierne&#x00BB;. De bodde ved Schøien, inderst inde ved Frognerkilen, var av indiansk æt, næst søskenbarn til skrællingerne. De var ikke mindre tapre og forvovne end skrællingerne; de var store idrætsmænd; dygtige skogsmænd var de næsten alle. Deres største høvding var &#x00AB;Røde Ørn&#x00BB;. Andre var &#x00AB;Røde Falk&#x00BB; og &#x00AB;Røde Slange&#x00BB;. Petter i Pina, Albert Lakrisstang, Martinius Skrythals og Richard Løverompe var ogsaa vel kjendte krigere. De hadde som krigsfarve: rødt. De hadde røde haarbaand, hvori sat ørnefjær, rødt banner, hvori to tomahavker saaes i kors.</p>
+<p>Det var først paa det sidste, at skøierne var begyndt <pb n="69"/>at vise sig utover Bygdø. Men nu var de set først henimot Kongsgaarden, saa i skogene der; videre var de trængt frem til Golskirken og Telemarken. Det blev dem sagt av vikingerne, at her hadde de intet at gjøre. Men da hadde de kun fliret og spottet vikingerne og sagt, at de snart skulde lægge under sig selve vikingeland og dænge vikingerne som aldrig nogen før.</p>
+<p>De hadde saa nær holdt ord.</p>
+<p>De rustet sig under sin store høvding Røde Ørn. Han hadde lovet sine røde krigere, at de skulde faa herje hele Hukavende og ta fine skalper. Og skøierne hadde svunget sine tomahavker og utstødt sine frygtelige indianske hyl: &#x00AB;Ug! ug!&#x00BB; Hvilket vil si &#x00AB;utmærket godt.&#x00BB;</p>
+<p rend="center"><figure><graphic url="s69.jpg"/></figure></p>
+<p>Det var nu bare lørdag eftermiddag, men man kunde godt gjøre en hel del ugagn den dag ogsaa. Og &#x00AB;Røde Ørn&#x00BB; hadde forlængst lagt sin krigsplan &#x2013; den bedste som endnu er utfundet paa Bygdø. Lørdag skulde hans krigere herje mest mulig, tirre og erte vikingerne til raseri. Intet slag skulde holdes. Kun spredt fegtning. Men paa søndag, da <pb n="70"/>skulde vikingerne lokkes i bakhold, omringes og rundjules.</p>
+<p>Paa lite nær gik denne herlige plan i opfyldelse.</p>
+<p>Da vikingerne den lørdags kveld kom hjem efter tog til Granlis og Rutlis æplehager spurte de snart tidender. Skøierne hadde vist sig først ved Ontariosjøen (nu næsten uttørret og heter Øvredammen) og Eriesjøen (nu Museumsdammen), derpaa hadde de i smaaflokke været inde i skogene ved Hukavende og helt nede i Vendernes dal. De faa vikinger de traf, hadde de truet paa livet, sendt pile efter dem; de hadde svunget sine tomahavker og hylet og bæljet frygtelig.</p>
+<p rend="center"><figure><graphic url="s70.jpg"/></figure></p>
+<p>Saadant hadde ikke engang skrællingerne vaaget.</p>
+<p>Og nu kom Ragnhild Herbrandsdotter og fortalte, at vikingernes stolteste borg &#x00AB;Haatlandaborg&#x00BB; var næsten jevnet med jorden. Taket var først revet ned. Det var laget av siderne paa en pianofortekasse og spikret godt fast til ordentlige tømmerstokker, som var laftet ind i hverandre. Skøierne hadde slæpt baade tak og bjelker op paa aasen og sendt dem utover de stupbratte bakker ned til de store sjøer.</p>
+<p>Vikingerne kunde næsten ikke tale av bare sinne. De bare lynte med øinene, bet tænderne sammen og hylte indvendig.</p>
+<p>Længe sat de oppe den kveld i raadslagning. <pb n="71"/>De blev enige om, at næste dag før messe blev ringet skulde Haatlandaborg atter være opbygget. Det maatte være deres faste tilflugtssted, om skrællinger og skøiere skulde slaa sig sammen. Med skrællingerne vilde de helst leve i fred den dag og skulde ikke tirre dem paa mindste maate. Ingen viking maatte vise sig i skrællingeland.</p>
+<p>Næste morgen søndag blev &#x00AB;Haatlandaborg&#x00BB; bygget op paany. Færdig stod den med tind og taarn da klokkerne ringet til messe. Avtale blev saa gjort, at vikingerne skulde samles ved borgen om eftermiddagen kl. 5 for da samlet at rydde kongsgaardskogene for skøiere og by dem kamp, hvor man traf dem.</p>
+<p>Men skøierne var dem for snar, og det blev skøierne som angrep &#x2013; og det er altid heldigst i krig.</p>
+<p>Nu er at fortælle om skøierne, at de hadde som vi vet rigtig faat ertet vikingerne op. Det bare gjaldt at holde ved, saa de i sin hidsighet gik like i bakholdet. Dette blev lagt tæt ved det nuværende folkemuseum, inde i skogen tæt ved Sætesdalsstuen. Her tok Røde Ørn med hovedhæren stilling. Røde Falk skulde drage med utvalgte folk vest om Kongsgaarden, gjennem skog og hager søke at komme ned i Vendernes dal og i Hukavende og her herje, plyndre og rundjule slik, at de ivrigste og hidsigste vikinger løp fra middagsbordene og tok til kamp. Røde Falk vilde nok klare sig en stund, men selvfølgelig bli slagen. Det var netop det han skulde. Men han og hans folk skulde nok faa erstatning. Baade ære og berømmelse vilde de hente &#x2013; og en <pb n="72"/>forfærdelig mængde juling vilde de hovne vikinger faa, naar de i sit hovmot forfulgte Røde Falk og saa datt i bakholdet.</p>
+<p>Alle skøierne var inde i planen. Og saa ivrige, saa djerve var de, at Røde Falk bare kunde peke paa en kriger, saa var han straks villig. Det var ikke netop de sterkeste Røde Falk valgte. Det var de raskeste, djerveste og de mest haardføre, de som bedst kunde taale hugg og slag og allikevel kunde kjæmpe videre.</p>
+<p>Merket skulde Røde Falk ha med. Det vilde bringe vikingerne til at tro, at det var hele hæren de nu kom ikast med, og det vilde bringe vikingerne til at forfølge desto djervere.</p>
+<p>Skøierne spiste middag kl. 1&#x2013;2; men vikingerne spiste ikke før kl. 3&#x00BD;&#x2013;4, og de sat længe ved bordet. Helst om søndagen; thi da spiste de &#x00AB;istervomme&#x00BB; sig &#x00AB;søndagsmætte&#x00BB;, som de sa. Røde Ørn hadde beregnet, at mellem kl. 4 og 5 var vikingerne døsigst, mens skøierne da var paa det bedste. Paa det tidspunkt vilde det ogsaa være vanskelig at faa samlet vikingerne, idet mange endnu sat og slikket sig om munden efter &#x00AB;deserten&#x00BB;. Det sidste var en mat som vikingerne var overordentlig glad i, tiltrods for at det var dem forbudt sirupskrukker slikke, blødekager smaske.</p>
+<p>Røde Falk drog da ut med sine mænd. De var alle sterkt malet og i krigspuds. Petter i Pina bar merket. Han var frygtelig sterk. Han vasket sig aldrig godvillig paa næverne, thi som han sa: alle sterke gutter er svarte paa næverne. Mange var enige med ham i dette.</p>
+<p><pb n="73"/>To smaaskøiere blev sendt i forveien som speidere. Den ene het Søren Sur-i-øie og nævnes her ved navn, fordi han paa sin færd kom til at fare høiere i luften end folk flest, naar de blir tat i nakken og samtidig faar et spænd i enden. Sin luftfart kunde han takke Sorte Slange for.</p>
+<p>Sorte Slange var altid paa færde. Nu gik han netop og utspeidet nogen stikkelsbærbusker tæt ved Lidarende og et hul som var i gjærdet like ved, da han pludselig faar se to ørnefjær og samtidig de funklende øine fra indianeren Søren Sur-i-øie. En mindre erfaren kriger vilde med engang ha kastet sig i grøften tæt ved eller paa anden maate luret sig bort. Men S. Slange skjønte vel, at han allerede var opdaget, og at han selv maatte se til at faa mere at vite om Sørens veie og hvad der kom bak efter skøieren. S. Slange blev rolig staaende, gjorde som om han spiste stikkelsbær &#x2013; og forsvandt saa under busken og krøp gjennem hullet i gjærdet ind i hagen paa Lidarende.</p>
+<p>Søren Sur-i-øie var ikke sen med at følge efter for at se hvor S. Slange var blit av. Gjennem Lidarende kunde skøieren skyte benvei &#x2013; og dermed smat han gjennem hullet i gjærdet han og. Forsigtig smøg han sig langs bærbuskene fremover gjennem hagen.</p>
+<p>Dette hadde S. Slange beregnet. Paa Lidarende bodde som gartner en gammel kriger fra Svialand, Pontus Kopparsjerne eller &#x00AB;Pontoppidan&#x00BB; kaldet. Han laa nu og snorket middag, da S. Slange pludselig skrek ham i øret: &#x00AB;Der er en tyv i hagen!&#x00BB; Og op og ut f&#x00F3;r Pontoppidan som en utskjuten <pb n="74"/>granat. &#x00AB;Der!&#x00BB; sa S. Slange, og pekte paa de to ørnefjær, som saaes av og til vippe op og ned bak buskene. I næste øieblik var Søren Sur-i-øie grepet av to kraftige arme og &#x2013; førend han hadde anelse om det, var han høit oppe i luften. Med en pinlig fornemmelse i sin mangelfulde opdragelsesanstalt befandt han sig sittende i en berberisbusk paa den anden side av Lidarendes hagegjærde.</p>
+<p rend="center"><figure><graphic url="s74a.jpg"/></figure></p>
+<p>Kun et øieblik overlot Søren Sur-i-øie sig til indtrykket av sine smerter. Pligten kaldte, og han skyndte sig tilbake til sin høvding, til hvem han avla den rapport, at gjennem Lidarende var det ikke værdt at fare.</p>
+<p>Sorte Slange hadde benyttet sig av Pontoppidans midlertidige velvilje til at bli i hagen en liten stund og hadde derpaa kunnet snike sig langs frugtbusker og gjennem en potetaker hen til det sted, hvor han hørte Søren <pb n="75"/>Sur-i-øie avgi sin jammerlige beretning. Der fik han se alle Røde Falks mænd, og han skjønte av deres tale og færd, at det gjaldt et overfald paa vikingerne. Han skjønte ogsaa, at skøiernes hele hær ikke kunde være med nu, og at der visselig maatte være noget lureri og fanteri med i spillet.</p>
+<p rend="center"><figure><graphic url="s74b.jpg"/></figure></p>
+<p>S. Slange fulgte derfor Røde Falks mindste bevægelser. Han saa skøierne sende nye speidere frem mot Vendernes dal og mot Hukavende. Da disse kom tilbake, rykket skøierne frem mot Haatlandaborg. De utfoldet sit merke og gik frem med en dristighet som var meget paafaldende. Snart hørte S. Slange seiershyl fra Haatlandaborg. Der var ingen besætning, og nu tok borgen for anden gang at synke i grus. Skøiernes blodbanner vaiet fra murene.</p>
+<p>Dette var det frækkeste og modigste S. Slange hadde set.</p>
+<p>Snart saa han ogsaa vikinger komme farende ut fra sine lune blødagtige hjem og mætte og fete om truten, nogen med vaaben, nogen uten, nogen med hærklær,<note type="footnote"><hi rend="italic">Forfatternote:</hi> &#x00AB;Hærklær&#x00BB; vil si utslidte klær, som taaler hugg, stik, søle, blaalere m. m.</note> andre uten, altsaa i sin bedste søndagspuds. Og ind imellem vikingernes forvirrede rop hørtes Røde Falks haanende latter. De røde vilde hoppet omkring, svinget sine tomahavker og truet hver viking de saa med juling saa blodet skulde flyte. Røde Falk hadde et eget slags signalhorn, det lød som vore dages automobilers. Det lød uhyggelig ind mellem braken av bjelker og bord og kasselaak &#x2013; og de vildes hyl.</p>
+<p><pb n="76"/>Snart var imidlertid vikingerne saa mange at indianerne fandt, at borgens ruiner maatte opgis &#x2013; ellers blev de selv fangne. Røde Falk lot hornet gjalde og indianerne samlet sig paa toppen av Hukavende, like ut for Konungaro, der hvor veien gaar til de store sjøer og folkemuseet. Nu skulde Røde Falk vise vikingerne veien til nederlag. Han fylket sine mænd under merket og saa rolig vikingerne komme. Enhver indianer visste, hvad det nu gjaldt &#x2013; en haard ulike kamp, at juling var at faa for uforskammet tunge og hærverk paa borgen, men ogsaa uhørt ære og berømmelse. Nu maatte hver mand gjøre sin pligt. De var blit rolige allesammen.</p>
+<p rend="center"><figure><graphic url="s76.jpg"/></figure></p>
+<p>Det var vikingerne som nu bar sig som rasende. De var som fra sig, hylet og skrek, nogen sprang etter vaaben, andre efter mere mandskap, andre igjen efter sine hærklær. Endelig var en passende hop samlet og John mente, at nu fik vikingerne lære skøierne, hvor kong David Salomonsen kjøpte tyndt øl.</p>
+<p><pb n="77"/>Her maa sagaskriveren fortælle noget om sig selv. Han har ikke set alle vikingernes bedrifter med egne øine, men kampen utenfor Konungaro saa han. Og han føler sig glad i hugen den dag idag, naar han tænker paa det slag. Det var en festlig stund. De gamle krokete, skaldete vikingefædre maatte forlate bordene for at se de unge gaa til strid. Og de glædet sig, saa det var rørende at se og vemodig at tænke paa, at de ikke kunne selv faa være med i den vilde kamplek.</p>
+<p rend="center"><figure><graphic url="s77.jpg"/></figure></p>
+<p>Særlig glæde vakte Frithjov Karleson Odd. Han hadde nu i en hel uke levet i fred og makelighet, intet oplevet, ikke øvet nogen nævneværdig skøierstrek &#x2013; og saa stod med en gang en hel hær av de vildeste indianere i al sin stas med skalp og fjær like utenfor hans stuedør &#x2013; &#x2013; &#x2013; og ventet paa at faa slaas, og det med ham! Noget saa morsomt hadde han aldrig oplevet og den unge viking danset rundt og rundt, hoppet ende ret op i luften, skrek og lo om hinanden, slik som kun ganske unge vikinger kan gjøre, hvem glæden overvælder.</p>
+<p><pb n="78"/>Ja, sagaskriveren maa endnu smile indvortes ved tanken paa den herlige kamp.</p>
+<p>Vikingernes flok øket. Men like rolig stod indianerne der freidige, utfordrende. Deres merke stod dog i andenrække.</p>
+<p rend="center"><figure><graphic url="s78.jpg"/></figure></p>
+<p>&#x00AB;Skjuler indianerne merket sit nu,&#x00BB; spurte en viking haanlig.</p>
+<p>&#x00AB;Er du blind du? Eller skal jeg aapne øinene paa dig,&#x00BB; ropte Røde Falk. &#x00AB;Kom an!&#x00BB;</p>
+<p>&#x00AB;Op med merket,&#x00BB; ropte en anden viking.</p>
+<p>&#x00AB;Inden sol gaar ned, skal det vaie her over din skalp!&#x00BB;<note type="footnote">skalp] <hi rend="italic">rettet fra:</hi> ska!p</note></p>
+<p>&#x00AB;Gaa hjem og læg dere!&#x00BB; ropte Atle Herbrandson.</p>
+<p>&#x00AB;Vi har sovet middag vi, men det høres ikke ut, som dere er vaakne endnu,&#x00BB; svarte en skøier, som het &#x00AB;Tryne&#x00BB;, ogsaa Absalon &#x00AB;Sidbukse&#x00BB; eller &#x00AB;Godhjerte&#x00BB; kaldet.</p>
+<p>&#x00AB;Byg op igjen borgen vor!&#x00BB; sa John.</p>
+<p>&#x00AB;Den var lidt for høi for slike smaagutter. Sjønner du ikke det, da?&#x00BB; sa Røde Falk.</p>
+<p>Men nu fik det være nok, syntes vikingerne, nu fik indianerne faa, hvad de trængte og længe nok hadde længtet efter.</p>
+<p><pb n="79"/>&#x00AB;Her skal dere faa se, smaagutter,&#x00BB; ropte vikingerne som en mand, og dermed stormet de frem.</p>
+<p>Saa haardt gik de frem, at det var som om hele indianerhopen gik overende og ned i sandgraven, som laa like bak indianernes stilling. Indianerne slog godt fra sig, men vikingerne hadde ventet andet til kamp efter alt det skryt. Med et jublende skrik satte vikingerne efter indianerne ned i sandgraven og pukstenhaugene som der laa. Her gik det blodigere for sig.<note type="footnote"><hi rend="italic">Forfatternote:</hi> Endnu kan man finde i sandgraven rester av vaaben, som minder om dette slag.</note> Men snart var indianerne atter slagne.</p>
+<p>Det hadde bare været skryt fra skøiernes side, det var greit, og vikingerne gik sorgløst videre frem, beruset av sin lette seir. Midt mellem de store sjøer samlet Røde Falk paany sine folk ved at blæse i sit horn, og hans folk lystret med en merkelig mandstugt. Vikingerne kunde ikke andet end beundre indianernes faste lydighet mot sin høvding.</p>
+<p>Vikingerne gik paany frem &#x2013; og indianerne tapte. Paany flygtet indianerne. De tok flugten hen over veien forbi folkemuseet. De stanset gang paa gang, gik frem til smaa angrep, egget og haanet vikingerne alt det de kunde. Og vikingerne drev frem, sættende efter indianerne, som f&#x00F3;r avsted til alle kanter, tilsynelatende i uorden.</p>
+<p>Nu kommer hele den kjæmpende hop ut for museumsskogen (omtrent ret ut for Sætesdalsstuen). Da er det som om det blev liv bak hvert træ, hver busk, og frem bryter selve Røde Ørn med sine folk i ryggen paa vikingerne.</p>
+<p><pb n="80"/>Slikt nederlag hadde vikingerne aldrig oplevet. Forvirring paa alle kanter, al flugt umulig. Slaa sig gjennem? Hvorhen? De saa kun den visse ødelæggelse i øinene. Rundt omkring hylte indianerne, seierssikre, overmægtige. Mand for mand av vikingerne fik nu føle skøiernes svarte næver og rødmalte tomahavker. De rullet rundt de kjæmpende, de reiste sig, de slog omkring sig &#x2013; og juling fik vikingerne. Men de kjæmpet med fortvilelsens mot og raseri, og mangen indianer fik føle, hvad kampvante vikinger kunde by paa.</p>
+<p>Men mere juling hadde vikingerne faat, hvis ikke i dette øieblik hjælp var kommen.</p>
+<p>Vi maa da høre om S. Slanges færd.</p>
+<p>Han hadde set Haatlandaborg synke i grus, han hadde anet skøiernes hele krigsplan. Saa sprang han avsted for at hente hjælp.</p>
+<p>Øverst oppe i Vendernes dal ligger Hov. Her bodde de to vældige vikinger, Sigurd og Finn Sverressønner. Fik han bare de to med. Finn stod paa tunet og saa efter de mange langskibe, som nu styret ut og ind paa Ginnungagap til Gyljanda og til Frysjuaaens vik (nu Bjørviken).</p>
+<p>&#x00AB;Nu er det stort slag mellem vikingerne og skøierne&#x00BB;, sa S. Slange. &#x00AB;Hører du ikke kamplarmen?&#x00BB;</p>
+<p>Finn lydde efter, og ganske rigtig, der hørtes et mægtig vaabengny.</p>
+<p>&#x00AB;Hvis jeg ikke vilde regnes for heimføing, gik jeg hen for at se paa,&#x00BB; sa S. Slange haanende. Og dermed sprang han videre. Han visste nok at Finn blev med.</p>
+<p><pb n="81"/>S. Slange sprang videre og indom Haavard skald. Han hadde ikke anelse om ufred eller fare, han var oppe i en eller anden syvende himmel i digtersyner. Han sat netop ute i svalgangen og &#x00AB;nød&#x00BB; noget umandig noget, det var schel&#x00E9; med krem til.</p>
+<p>&#x00AB;Nu er vikingehæren alt fylket og i slag,&#x00BB; sa S. Slange.</p>
+<p>&#x00AB;Jeg har ikke faat noget bud,&#x00BB; sa den matgla Haavard.</p>
+<p>&#x00AB;Saa faar du det nu da. Og det skal du vite, at aldrig faar en skald et ypperligere emne at digte om.&#x00BB;</p>
+<p>Da tok Haavard hin digre sig sammen og med store digtersyner inde i sig fulgte han S. Slange. Men denne sprang fort.</p>
+<p>&#x00AB;Her maa alle med som brukes kan,&#x00BB; tænkte S. Slange. Han husket det djerve folk paa Odden. Sprang han saa dit. Og pludselig stod han midt inde paa det fagre tun med de rødgyldne furustammer. Der stod Harald Eirikson hin unge og øvet sig i at skyte grankongler av trætopperne.</p>
+<p>Vil du skyte efter bedre maal&#x00BB;, sa S. Slange.</p>
+<p>&#x00AB;Det vil jeg,&#x00BB; sa Harald og lo. &#x2013; For skytning var hans største lyst.</p>
+<p>&#x00AB;Vil du skyte indianere?&#x00BB;</p>
+<p>Da lyste det av Harald hin unges øine.</p>
+<p>&#x00AB;Vis mig dem bare.&#x00BB;</p>
+<p>&#x00AB;Følg mig!&#x00BB;</p>
+<p>Men der kom Gunhild og Liv Eiriksdøtre. De saa bare spørgende paa S. Slange.</p>
+<p>&#x00AB;Ja, nu var det bra om alle hjalp til, for nu dræper skøierne hver eneste viking. Følg mig!&#x00BB;</p>
+<p>Alle sprang avsted, tok Haavard igjen og saa bar <pb n="82"/>det gjennem Trihøgdarborg. Her tok de uten videre Tormod Skramme og Erling Straume med sig.</p>
+<p>Ved de store sjøer saaes kun, at en kamp hadde staat. Men bortenfor hørtes vældig slagtummel, støvskyen stod høit, indianske hyl og vikingeskrik hørtes som i en dur.</p>
+<p>I det samme kom ogsaa Finn Sverreson springende til.</p>
+<p>Men Gunhild Eiriksdotter sprang fortest. Det gule haar flagret i vinden, de blaa øine lyste, kinderne var røde, hun og søsteren saa ut som valkyrjer, som iler til strid.</p>
+<p>Det var et saare skjønt syn.</p>
+<p>Det var nu næsten ute med vikingerne, juling hadde de faat saa dugelig, at de næsten var færdig. Da saa man hvorledes Gunhild banet sig vei ind mot tætteste flokken eller møljen. Med den ene haand kastet hun merkesmanden til jorden, med den anden grep hun merkesstangen, hun svang den over sit hode, knækket saa stangen og kastet stumperne omkring. Finn, Tormod, Haavard og Erling fulgte efter i striden og slog ned rundt omkring sig. Skøierne fik haarde hugg. Og det var som om de hadde mistet sit gamle mot og, da de saa merket falde.</p>
+<p>Det hele var med en gang avgjort. Indianerne var og blev slagne. Og nu blev det vikingernes tur til at betale tilbake og med renter hvad de nys hadde faat. Enkelte av de mindste skøiere tok alt paa at liste unda og ind i skogen, flere og flere fulgte efter. Tilslut vendte storhopen sig til flugt. Kun Røde Ørn, Røde Falk og Røde Slange og et par av de tapreste holdt endnu stand. Det var om merket striden nu <pb n="83"/>stod. Haavard hadde grepet selve merkesduken. Men pludselig faar han et vældig slag midt mellem øinene, saa han baade saa digtersyner og en hel del moderne fyrverkerisaker som sole, stjerner, planeter, maaner og romerske lys tindre for sine øine. Røde Ørn grep i det samme duken og flygtet. Da fulgte ham alle skøierne som endnu var igjen.</p>
+<p>De f&#x00F3;r til alle kanter og sjelden saaes to og to sammen, mest en og en og alle var de paa ret vei hjem til deres land Schøien.</p>
+<p rend="center"><figure><graphic url="s83.jpg"/></figure></p>
+<p>Det meste av merkesstangen laa igjen. Den var prydet med røde baand og guldnagler og var et kostelig kunstverk. Der hang rester av tagne skalper endnu ved guldnaglerne.</p>
+<p>Denne seierstrofæ gav vikingerne til Gunhild Eiriksdotter &#x2013; og med hende i spidsen rykket vikingerne tilbake til Hukavende. Nogen forfølgelse av skøierne blev det ikke av, vikingerne var fornøiet med den dags kamp.</p>
+<p>Resten av dagen stod forresten vikingerne under vaaben. De ventet angrep av skrællingerne. Men S. Slange kom ut paa kvelden fra speiderfærd og kunde fortælle, at alle skrællinger ogsaa var samlet, de <pb n="84"/>ventet paa vikingerne. Saa stod de to hære begge og ventet paa hinanden.</p>
+<p>Videre er at fortælle, at S. Slange blev meget berømmet for sin færd. Men mest ære fik Gunhild, den hun ogsaa hadde vel fortjent. Ved sit eksempel hadde hun ildnet krigerne til de største heltegjerninger.</p>
+<p>Stor jubel blev der, da Haavard kom tilbake fra en tur hjem for at vaske blodet av sig, og han fortalte, at han hadde digtet en draapa til Gunhilds ære.</p>
+<p>&#x00AB;Lat høre, lat os høre!&#x00BB; ropte alle.</p>
+<lg>
+<l>&#x00AB;Hvor Valkyrjer fremrider</l>
+<l>i kampen henskrider</l>
+<l>der blegner indianerkriger</l>
+<l>i blodet det røde nedsiger.</l>
+<l>Gunhild er den ypperste blandt valkyrjer.&#x00BB;</l>
+</lg>
+<p><pb n="85"/>Det var det ypperste digt, Haavard hadde laget. Og det til ære for en kvinde. Slikt var aldrig hændt før.</p>
+<p>Og Gunhild fortjente det.</p>
+<p>Men mange hadde den dag ønsket sig skaldegave.</p>
+<p rend="center"><figure><graphic url="s84.jpg"/></figure><lb/>Richard Løverompe og Martinius Skrythals fortæller om sine bedrifter.</p>
+</div>
+<div type="chapter" n="7">
+<head type="main"><ref type="contents" target="contents_7" xml:id="chapter_7">Det store slag.</ref></head>
+<p><pb n="86"/>Da det ryktedes over paa den anden side Frognerkilen, at paa Bygdø var der slag og vaabendaad næsten til hver eneste dag og i alle fald hver søndag eftermiddag, strømmet mange byvikinger over. Mange bad John om at faa være med, saa ogsaa de kunde høste ære og utmerkelse. Det hadde været liten anledning hele sommeren igjennem til at holde sig i øvelsen, thi den store vikingeborg i West-End, hvor man mest slaas, hadde lukket sine porte.</p>
+<p>Nu maa tales om denne store borg.</p>
+<p>Den kaldtes og heter endnu &#x00AB;Vestheim skole.&#x00BB; Der samles hver eneste yrkedag fra høst til vaar flere hundrede vikinger for at lære av gamle høvdinger hvad krigere trænger. Først og fremst lærer de naturligvis at slaas. 5 gange om dagen blir alle sluppen ut paa et stort tun under høvdingers overledelse for at slaas, og det gjør de saa busta fyker og man kan høre vaabengnyet og kamplarmen som en fossedur langt utover West-End. En time av dagen brukes til at lære at staa i rad og række, samtidig løfte armer og ben, dreie paa hodet o.s.v., alt sammen saare vigtig for en vordende kriger. <pb n="87"/>For selve slaget lærer de at staa paa hodet, springe op gjennem væggerne, bøie sig og vride sig, saa de kan bli myke og lette i sine dvaske skrotter.</p>
+<p>Noget som var mindre nyttig, og som mange vikinger ikke brød sig noget videre om, det var at lære hvorledes fremmede folkeslag talte. De lærte derfor to slags dansk, dansk-norsk og norsk-dansk med 20 forskjellige retskrivninger (her i denne saga er benyttet den 21de), desforuten tysk, engelsk og fransk. Naar vikingerne ikke længer var vikinger, men var blit gymnasiaster, maatte de ogsaa lære latin, græsk og mesopotamisk.</p>
+<p>De gamle høvdinger forklarte, at det var nødvendig at lære alle disse underlige sprog. Det kunde hænde, at en dansker, tysker, franskmand, engelskmand kom hit for at se paa vikingernes land, og da vilde det være flaut ikke at kunne snakke om end aldrig saa litet med dem. Gymnasiasterne kunde komme til at fare til Roma, Miklagard eller Jorsal.</p>
+<p>Det var meget som de unge krigere ikke skjønte paa den borg. Men det er altid saa, at det ikke er de unge givet at skjønne det, som de gamle høvdinger i sin visdom har utgrundet. Skjønte de unge det, saa var de gamle ikke saa vise.</p>
+<p>Alle gode ting kan overdrives. For at ikke vikingerne skulde slaas altfor meget hadde man fundet paa at la vikingerne læse en hel del i nogen kjedelige bøker. &#x2013; Denne læsning kaldes pugning; og det er visst at den som puger mest slaas mindst. Men det er ogsaa visst, at de som puget mest var de dummeste idioter paa hele borgen. Saa læsning kunde ogsaa overdrives.</p>
+<p><pb n="88"/>Naar en viking rigtig hadde utmerket sig paa kamppladsen, f. eks. slaat et øie ut eller en tand ind paa en motstander, som ikke hadde vet til at passe paa slike kostelige gjenstande, blev han høitidelig ført ind paa borgens inderste rum, kontoret eller &#x00AB;kastellet&#x00BB;.</p>
+<p>Der sat en gammel overhøvding. Vikingen fik da et eller flere slag av et træsverd og blev klappet av den gamle paa skulderen. Jo flere slag jo mere ære. Ofte var den gamle saa bevæget ved at tænke paa sin egen krigerske ungdom, at man saa en taare blinke i hans øie. Vikingen var den dag borgens helt, alle talte om den djerve og ønsket sig selv saa stor ære.</p>
+<p>Da vikingerne paa Vestheim fik høre Atle fortælle om de store slag paa Bygdø, lovet de sig selv, at næste søndag skulde skrællingerne og indianerne faa se, hvorledes ordentlig utdannede krigere kunde slaas. Særlig var det to vilde vikinger, som gjerne vilde avsted. Det var Erling Myra og Eyvind Stoga eller Tritunga, saa kaldet fordi han talte tre gange saa fort som andre. De andre vilde gaa under deres merke. Og avtalen var, at hvis skrællingerne og indianerne ikke vaaget sig at lægge til slag, saa skulde de to flokke slaas indbyrdes. Thi man maa skynde sig at lære og nytte hvert øieblik i sin ungdom til at bli sterk og djerv. Snart kommer de onde dage, da stemmen skifter, saa man snart taler som et litet barn, snart som en gammel mand, man konfirmeres, blir gymnasiast, faar dumme klodsete lange poser til bukser, faar stive vonde snipper om halsen, skalk paa hodet, blir lang og skranglet, hulbrystet, slap, søvnig o.s.v.</p>
+<p><pb n="89"/>Av vikingerne, som skulde fare til Bygdø, bør nævnes Arngrim Thorvaldeson Barfot, Sveinung Aslakson Tele, Kjartan Hjørleivson Rygg og Asgeir Thoroddson til Nes.</p>
+<p>Det ryktedes snart over hele Bygdø, at to vældige vikingeflokke vilde komme. Da blev der skaaret hærrør eller hærpil og den gik fra grande til nærmeste grande over hele skrællingeland baade i Austerbygd og i Vesterbygd. Havets Skræk blev valgt til overhøvding. Han sendte bud til Røde Ørn, og denne samlet ogsaa sine krigere. Kommende søndag kl. 5 eftermd. paa prærien mellem Lidarende og Valhal, altsaa lidt i vest for de store sjøer, skulde slaget staa, og Havets Skræk bød alle vikinger der stevne.</p>
+<p>Nu rustet man sig paa begge sider til det store slag.</p>
+<p>Slagmarken eller valen maa beskrives.</p>
+<p>Ute paa prærien mellem Lidarende og de store sjøer ligger den dag idag et vældig rødt hus, saa stort som et vikingehov eller kirke. Det heter nu Pariserhallen, men i vikingetiden het det Valhal. Det var bygget for at der gamle vikinger som var trætte kunde samles og ha det hyggelig. Derfor var Valhal fint utstyrt med &#x00AB;oldnordiske&#x00BB; dragehoder og ormeslyng. Hvalrosser, isbjørne, firfisler, tigre og løver og andre oldgermanske dyr var utskaarne rundt omkring, saa folk kunde tro, de saa selve Norges helligdom Nationaltheatret for sig. Inde i hallen sat dengang en kvinde fra Danevang og slog paa en strengelek (nu kaldes det pianoforte. Strengeleken er endnu at se paa loftet). Hun slog paa <pb n="90"/>nationale strenge, saa folk strømmet til helt fra den anden side Ginnungagap. Der sat man og drak en ny slags suttungsmjød som heter Læmænd Sguaaschj, hvis klangfulde navn var en nydelse at ta paa sin tunge.</p>
+<p>Mellem Valhal og den mindste av de store sjøer kom slaget til at staa. Det bør nævnes, at tvers over valpladsen gik en dyp grøft halvt fuld av vand. Den gik fra syd til nord og endte tvers av nordost. Grøften er endnu at se og vandet i den likeledes.</p>
+<p>Allerede kl. 4&#x00BD; var John, Erling og Eyvind med sine skarer samlet i Hukavende og rykket nu frem i 3 fylkinger. Da var hele prærien fuld av skrællinger og indianere. Saa mange fiender hadde ikke byvikingerne tænkt sig, ja ikke engang drømt om.</p>
+<p>&#x00AB;Her blir det ordentlig slag!&#x00BB; ropte alle 3 høvdinger som en mand.</p>
+<p>Selv Erling syntes, at dette oversteg hans dristigste forventninger. Erling var ofte blit utmerket paa Vestheim ved at faa sverdslag paa kontoret, men dette tegnet til end større hæder. En sterk fryd gik gjennem ham, for nu skulde han vise, at han ikke hadde faat sine sverdslag for intet. Han sprat i den anledning flere fot op i luften og da han kom ned igjen, ønsket nok mange vikinger, at de stod under slik en høvding.</p>
+<p>S. Slange kunde den dag ikke være med, saa ondt det end var. Han hadde to brødre i skrællingernes hær og vilde ikke bære vaaben mot dem. Men da han saa at skrællingerne og skøierne var talrige som havets sand og nattens stjerner, frygtet <pb n="91"/>han for, at vikingerne altfor snart kunde komme til at ligge under og kampen altfor fort være tilende. Derfor sprang han avsted efter forsterkning. Det var nu begge Sverressønnerne som manglet; og de var gode for ti.</p>
+<p>Da han kom ind paa tunet paa Hov, stod netop begge brødrene og gjorde sig færdig til at seile ut paa Ginnungagap.</p>
+<p>&#x00AB;Alle skrællinger og indianere er nu samlet til slag nede ved Valhal,&#x00BB; sa S. Slange.</p>
+<p>Sigurd og Finn sa intet.</p>
+<p>&#x00AB;Og saa er der kommet 2 hope med byvikinger hit.&#x00BB;</p>
+<p>&#x00AB;Da blir her ordentlig slag,&#x00BB; sa Finn.</p>
+<p>&#x00AB;Det skulde være morro at se paa,&#x00BB; sa Sigurd.</p>
+<p>De klædde sig straks i hærklær og skyndte sig til krigsskuepladsen.</p>
+<p>S. Slange sprang ned til Drotningarholm. Der laa Torleiv hin sterke og kapseilet med &#x00AB;Le petit bleu&#x00BB;, Brand I, Brand II, Brand III, Magda I, Magda II og Magda X, Nordens hurtigste racere. Torleiv skulde den høst konfirmeres, saa han brydde sig ikke om at slaas med skrællinger, likte bedre at kapseile.</p>
+<p>S. Slange ropte:</p>
+<p>&#x00AB;Torleiv, hoi!&#x00BB;</p>
+<p>Men Torleiv slog netop &#x00AB;Brand III&#x00BB; og hørte intet.</p>
+<p>&#x00AB;Padda hoi!&#x00BB;</p>
+<p>Da hørte Torleiv og styret til land.</p>
+<p>Torleiv var ikke blid over slik at heftes, men sa intet. S. Slange hvisket saa hemmelighetsfuldt som mulig: &#x00AB;Ja, nu faar du skynde dig, for nu er <pb n="92"/>det slikt et slag paa prærien at ikke har jeg set det større og ikke faar du se maken.&#x00BB;</p>
+<p>Torleiv lyttet.</p>
+<p>&#x00AB;Og nu er alle vikingerne fra &#x00AB;Vestheim&#x00BB; komne.&#x00BB;</p>
+<p>Da sprat Torleiv op av baaten, kastet fanglinen om en pæl, lot seilene staa og sprang avsted. Nu maatte han være med. Og avsted bar det op gjennem Hukavende. Han var klædt i fine hvite sjømandsbukser, hadde blaa trøie og søndagsslips samt hue med det &#x00AB;Kongelige norske jaktelags&#x00BB; merke. Det var et skjønt skue. Han saa næsten ut som en ægte sjømand.</p>
+<p>Da Torleiv kom op til Konungaro saa han hærene fylke sig. Der var saa mange skrællinger og indianere, at han blev rigtig glad over, at han var kommen i god tid.</p>
+<p>Men skulde det ikke bli til bare røre og rot, maatte vikingerne ta en bedre stilling end den de hadde. Dette sa han til John, som den der var bedst kjendt. Saa gik alle vikingerne mot nordvest og stillet sig slik, at de hadde ryggen til folkemuseets gjærde; høire fløi var støttet til Valhal, venstre til Eriesjøen. Nu kunde skrællingerne og indianerne ikke komme dem i ryggen eller overfløie dem med sine talrike skarer.</p>
+<p>Vikingerne kom videre til at fylke slik, at bygdømændene stod paa høire fløi, Erlings mænd i midten og Eyvinds paa venstre fløi. De sterkeste stod i første række, de andre i anden. Foran gik høvdingerne og brukte store og opmuntrende ord som skik var. Finn og Sigurd Sverressønner gik for sig selv, uvisse om hvor de helst skulde slaa til. <pb n="93"/>Men Torleiv saa sig straks ut Havets Skræk som en værdig motstander.</p>
+<p>Nu kom skrællingerne og indianerne og stillet sig op foran vikingerne i 3 hope. Austerbygdens mænd stod like mot bygdøvikingerne, Vesterbygdens mot Erlings og skøierne mot Eyvinds sveit.</p>
+<p>Hos vikingerne var det nu tyst og stille, de saa rolig sine fiender rykke frem og fylke sig. Det var skrællingerne som hadde utfordret dem, de fik begynde. Havets Skræk gik fra den ene flok til den anden og kommanderte og huserte. Olaves Flyndra sa ikke videre, men hadde tat sigte paa John. Derfor var det laget slik at Austerbygden stod like overfor Bygdø. Olaves var endnu ikke rigtig god igjen efter knivstikket og var lidt stiv i det ene bakbenet, men han tænkte, at han nok blev myk igjen, naar han bare fik slaas ordentlig. Og nu skulde han gjø lidt i ørene paa John, for det var vistnok John som hadde ligget i kaninkassen den kveld.</p>
+<p>Alle bygdøvikinger var i hærklær (paa Torleiv nær), men det var ikke byvikingerne, og dette kom til at indvirke meget paa slagets gang, ja hadde næsten ført til vikingernes knusende nederlag.</p>
+<p>Nede ved Eriesjøen stod skøierne. De var snartænkte og meget krigsvante i terrænget, mens vikingerne og da særlig byvikingerne hadde lite vett paa terrængets rette bruk. Paa de store skoleborge og i de trange borggaarde lærte de ikke at ta hensyn til terrænget. Eriesjøens sumpige bredder med lergrøften laa som skapt foran indianernes føtter. Røde Ørn gav straks befaling til at alle de som stod i bakerste rækker skulde forsyne sig og sine kamerater <pb n="94"/>med torvstykker, lerklumper og andre lignende let haandterlige skytssorter.</p>
+<p>&#x00AB;For nu vil det vise sig&#x00BB;, sa Røde Ørn, &#x00AB;at blekansigterne med søndagsslips og spradebukser ikke taaler indianernæverne for nær&#x00BB;.</p>
+<p>Eyvind Tritunga og hans folk skjønte endelig, hvad indianerne hadde fore, men da var det for sent at gjøre noget, og da nogen av Eyvinds mænd vilde fare frem, kom allerede de første kugler susende.</p>
+<p>Haavard var Eyvinds bedste ven. Han stod bak Eyvinds sveit for at digte om ham. Han hadde allerede laget et vers:</p>
+<lg>
+<l>&#x00AB;Nu Eyvind Tritunge</l>
+<l>om dine øren vil sjunge</l>
+<l>ikke Vestheims fodboller</l>
+<l>men indianske lerboller&#x00BB;.</l>
+</lg>
+<p>I det samme suste den første kugle, og den var rettet mot Eyvind. Men denne huket sig ned og kuglen traf den, som mindst hadde ventet det, og det var Haavard skald. Han stod netop med et nyt rim i halsen, da torvstykket vaadt og svart traf ham midt i planeten. Haavard stupte og digtet ikke mere i dette slag.</p>
+<p>Haavard var hærklædt, saa kuglen gjorde ikke saa stor ulykke paa ham endda. Værre var det med Eyvind og hans mænd. Jord, søle, lere, torv suset ned over dem, saa snipper, slips og skjønne utenlandske klær snart var ynkelige at skue. Mange av Eyvinds mænd brøt linjen og vilde unda. Da utstødte indianerne et vældig hærrop og stormet frem med lere i næverne og frygtelige i sin krigsmaling. <pb n="95"/>Dette var byvikingerne ikke vante til fra Vestheims krigsskole, og de veg tilbake. Dog ikke længer end til museumsgjærdet, &#x2013; thi længer kunde de ikke komme. Derfor blev striden her staaende.</p>
+<p>Kvinden fra Danevang hadde længe præluderet<note type="footnote"><hi rend="italic">Forfatternote:</hi> Hvad det er for noget, vet jeg ikke; men det staar her, for det tar sig saa godt ut i en slagskildring.</note> svenske folkeviser saasom: &#x00AB;Paa solen jag ser&#x00BB;. Nu tok hun i med &#x00AB;Finske rytteriet marscherer mot Athen&#x00BB;. Det jog som ild de krigerske toner i vikingernes sjæl.</p>
+<p>Da John saa Eyvinds flok vike, gik han frem med hele sin sveit; med ham fulgte Sverressønnerne, og nu blev det til forfærdelig men herlig slag over hele linjen.</p>
+<p>Hele vikingehæren kom til at svinge frem med sin høire fløi og drog dermed ogsaa en del av centrum med sig. Dette blev til avgjørende held for vikingerne, thi dermed blev tilslut mange av skrællingerne drevne ned mot Eriesjøen. Og da blev det indianerne til skade det som før hadde været dem til held.</p>
+<p>Olaves og John tørnet straks sammen. De fik tak i hinanden og der blev stor kamp, saa trøier revnet og filler føk. Ofte blev kampen staaende mellem dem, men ofte blev den rullende ogsaa. Sigurd og Finn brød vældig frem, skrællingerne likesom trykkedes tilbake. De to brødre væltet og slog ned hvad der kom dem iveien.</p>
+<p>Sagaskriveren saa selv dette slag. (Stedet hvor han sat og stod findes endnu. Det var under den <pb n="96"/>store furu oppe i Hukavendeaasen). Slaget var saa stort, at han ikke rigtig kan beskrive alle enkeltheter, og man kan ikke bakefter stole utelukkende paa deltagernes fortællinger. Den simple soldat ser lite i et slag. Bakefter vet han bare at han har skudt, stukket ned saa og saa mange fiender. Lægger man saa sammen tallet paa de faldne, saa viser det sig, at hver fiende er skudt ihjel mindst 5 gange og git banehugg mindst 10 gange.</p>
+<p>Men hvad sagaskriveren saa selv, det saa han. Han saa, at nu gik Havets Skræk frem. Mot ham stod Erling Myra. Endda Erling saa mange gange hadde været paa kontoret og haapet endnu mange gange at opnaa den ære, saa var det næsten saa det saa stygt ut, da Havets Skræk kom sættendes frem med vilde fagter og med et brøl som en løve. Erling tænkte paa alskens knep og vilde netop spænde ben for Havets Skræk for dermed at faa ham i grøften, da Torleiv hin sterke bryter frem. Ingen anden var værdig til at ta kampen op mot Havets Skræk. Nu skulde det da endelig bli avgjort hvem som var den sterkeste kriger paa Bygdø.</p>
+<p>Her kom da dagens haardeste strid at staa. Og her var det let at følge kampens gang; thi Torleivs hvite bukser var længe let at se. Efter som det led blev det værre. Da slaget var forbi, var Torleivs bukser ikke hvitere end de andres, saa da var det vanskelig at se, hvorledes det ret gik til. &#x2013; Det var som om man hørte et drøn, da de to kjæmper tørnet sammen. Men saa tæt stod nu skrællinger og vikinger mot hinanden og om hinanden, saa ivrige var alle for at komme hinanden ret ind paa <pb n="97"/>livet, at det var længe umulig at faa se hvert slag, hvert knep som Havets Skræk og Torleiv gjorde. Kun saaes med en gang at de begge aldeles forsvandt, som om jorden hadde slukt dem. De var gaat i grøften begge to. Men op igjen og ned igjen, op og ned bar det, saa lere, vand, mørje, søle og grønske sprutet høit i veiret.</p>
+<p>Det gik da slik, at i midten eller centrum av valen omkring de to dannet sig akkurat som en stor haug, hvilket paa vikingemaal kaldes &#x00AB;mølje&#x00BB;. Her saa man kun arme, ben, kroppe, hoder, støvler, sko, knytnæver som i en bundt, og derfra hørtes alle de krigens frygtelige hyl, brøl, lyder og ulyder, bæljing og uling og tuting som kan glæde alle som endnu kan mindes Norges storhetstid. Da kom de ut fra Valhal alle de gamle krigere; de maatte høre de kjendte toner og se sin ungdoms kjæreste billede paany. De blev saa lette av sind, at de saaes trippe op og ned av bare glæde og spænding. Inde i Valhal blev der nu spillet til ære for dagen nordmændenes &#x00AB;oldnordiske&#x00BB; nationalsang: Kong Kristian stod i røg og damp.</p>
+<p>Nede ved sjøen sloges de ogsaa bra. Der blev skrællinger og indianere om hinanden drevne mere og mere ut i vandet. Og nu nyttet det ikke mere for indianerne at bruke skytevaaben. Nu var vikingerne blit saa rasende, at de ikke skydde nogen ting, og værst f&#x00F4;r de nu frem som hadde hat de fineste klær. De kunde ikke bli værre end de var, og saa gik de slik frem, at baade Vestheim og deres fædre og mødre kan være stolte af dem.</p>
+<p>Slik holdt de paa, vikinger, skrællinger og skøiere <pb n="98"/>&#x2013; og slik hadde de vist holdt paa om ikke til denne dag saa i alle fald saa længe som de kunde se at tryne og gulve hinanden. Men saa blev det slut, akkurat som de hadde det som bedst.</p>
+<p>Meget folk hadde samlet sig for at se paa slaget, og alle glædet sig saare. Men saa kom der nogen ældgamle mennesker (kvinder) ogsaa til. De hadde aldrig været med i slag, kunde i alle fald ikke mindes at de ogsaa engang hadde været unge og ufordærvede, hadde glemt hvilken velopdragende betydning mot, djervhet, haardførhet, vilje, raskhet har for ungdommen. De gav sig til at jamre og bære sig, som om det var de som fik juling og ikke skrællinger, indianere og andre hedninger.</p>
+<p>&#x00AB;Er her ikke politi?&#x00BB; ropte de.</p>
+<p>Men ingen svarte.</p>
+<p>Da kom eieren eller forpagteren av prærien gaaende. Han var ellers forfærdelig sint, naar vikinger og skrællinger drev krig ut over jorderne. Og nu ventet alle, at han skulde kaste sig ind i slaget. Men forpagteren var fra Svialand og av sviarnes stridbare folk. Han tyktes ikke ha set saa megen morro siden han selv var soldat paa Liflinga hed. Han bare lo og gned sig i hænderne.</p>
+<p>&#x00AB;Nu faar de, tusan millioner, al den julingen, som de skulde hat for hele sommeren. Jag faar sagtens lægge marken til, naar de besørger julingen sjølve&#x00BB;.</p>
+<p>Imens sat politiet oppe i Hukavendeaasen faa skridt fra sagaskriveren og lo saa det klukket ham. Han hadde akkurat samme mening som den sviapagter.</p>
+<p><pb n="99"/>&#x00AB;Politi! politi!&#x00BB; skrek de før nævnte gamle mennesker.</p>
+<p>Ja, da maatte jo politiet lette paa sig. Men han gik ikke bent frem. Det gjaldt at vinde tid. Paa politivis ruslet han saa langsomt som mulig først ned til Hukavende og saa &#x2013; akkurat som ganske tilfældig kom han stigende frem paa valpladsen. Og akkurat som av eget initiativ eller handlekraft ropte han:</p>
+<p>&#x00AB;Nu faar dere slutte nu!&#x00BB;</p>
+<p>Det kom mildt og rolig.</p>
+<p>Men ingen hørte eller vilde høre.</p>
+<p>Saa maatte han gaa imellem de kjæmpende og slite dem fra hinanden.</p>
+<p>Værst var det at faa skilt Røde Ørn og Eyvind, Havets Skræk og Torleiv, Olaves og John. De røk paa hinanden gang paa gang.</p>
+<p>Tilslut var det forresten ikke stor morro at se paa dem længer, for de saa slik ut, at man ikke altid var viss paa hvem var hvilken.</p>
+<p>Slik krigsmaling skulde du aldrig ha set.</p>
+<p>Havets Skræk trængte at vaske sig endnu mere end sidst søndag, og Torleiv maatte lure sig ind i Valhal og der vente til Tormod Skramme hadde været i Trihøgdarborg og fundet en bukse til ham.</p>
+</div>
+<div type="chapter" n="8">
+<head type="main"><ref type="contents" target="contents_8" xml:id="chapter_8">Fred og forsoning. Tapperhetsmedaljen.</ref></head>
+<p><pb n="100"/>Efter det store slag stilnet krigen mellem vikinger, skrællinger og indianere betydelig av for en tid. Det blev saa ekkelt og fugtig i veiret, at det var lite hygge med at slaas. Men da vinteren kom med leikarvoll paa skøitebane og i skibakke tok krigen sig op igjen, og da levertes der slag og da utvistes der heltemot, som rent stiller alle Atle vikings beretninger i skygge. Der kunde fortælles om skrællingernes seier paa Eriesjøens is og om stormen samme kveld paa Konungaro; om S. Slange, da han stjal fra Krokenhus&#x0027;s tak selve vikingernes romerske keiserbanner, da han i taug firte sig utfor taket paa det høie hus og kom levende ned ad den bratte fjeldvæg i Hukavende; om den gang da S. Slange sammen med 5 vikinger klatret ind gjennem vinduet i 2den etage til Havets Skræk og tok skalpen hans, som hang paa sengestolpen, mens han sov, og derpaa bandt ham, kneblet ham og bar ham ut; om Frithjov, da han paa sit speidertog dumpet gjennem taket paa en skrællingborg og ret ned i fiendernes flok, men allikevel greide sig; om branden av Austerbygdens borg paa Skrællingskjær, da vikingerne laget Ormen <pb n="101"/>Lange om til undervandsbaat; om indianernes beleiring av Hovestuborgen i Telemarken, da S. Slange reddet de beleirete ved at krype op gjennem ljoren og vaage dødsspranget fra det høie tak; om den skjulte hule i Kongeskogen osv., osv.</p>
+<p>Som man ser øvedes der endnu mange skjønne bedrifter paa Bygdø. Men da Atle viking ikke hadde flere kladdebøker til at skrive runer i, saa staar alt dette kun nedtegnet paa smaa løsrevne pergamentstykker, og det er derfor uraad at sætte det hele sammen.</p>
+<p>Til slutning skal kun fortælles om, hvorledes vikinger og skrællinger den vinter kom til fred og forsoning for en tid, takket være en av Torleiv hin sterkes bedrifter. Dette staar ikke hos Atle viking, men findes indskrevet i det Kongelige Norske Indredepartements tykke skindbøker, kaldet dokumenter.</p>
+<p>Saa høit i navnkundighet kan nemlig en bygdøviking naa. Og det være sagt til baade vikingers og skrællingers og indianeres ros, at ingen misundte Torleiv hans berømmelse. Men det kan ogsaa sies, at ikke en av hine djerve krigere hadde betænkt sig paa at ha gjort likedan som Torleiv. Slik er det at faa en krigers gode opdragelse.</p>
+<p>Saaledes fortælles endnu om Torleiv: Isen laa speilblank ut over Ginnungagap. Den laa der som en eneste stor smilende leikarvoll. Og vikinger og skrællinger saaes daglig tumle sig derute paa skøiter. Snart øvet de sig i kunstløp, snart i kapløp, saa f&#x00F3;r de utover til fiskeme for at stirre ned i ishullet, saa f&#x00F3;r de langs raakerne, som isbryterne slog, og prøvet hvem der længst kunde danse paa flakene uten at <pb n="102"/>plumpe ut i. Det kaldtes at &#x00AB;løpe seier&#x00BB;. I den sidste kunst var skrællingerne mestere, og mere end en vaat bukse og trøie med blev hentet mellem isflakene. Skrællingerne var de mest uvørne og var altid der at finde, hvor isen var farligst. Vikingerne hadde nok samme lyst og samme mot, men de hadde strengere love i hjemmene sine, og de love hadde de lovet at følge. En av lovene het: ikke at fare ut paa nattegammel is. Og den lov kunde kun brytes, hvis nogen faldt i isen og man for at hjælpe ham maatte ut paa den tynde is. Selv om det da gjaldt livet, maatte man ut.</p>
+<p>Saa var det en dag, at der var slik herlig raak ret ut for Bygdønes. Der var aapent vand langt utover. Men ved den gamle iskant hadde der om natten dannet sig fin nyis. Ved raakkanten stod to fiskere i sine svære vinterklær og passet snørene sine. Saa kommer skrællingen Oscar Letvindten farende paa skøiter. Det gik tungt paa den gamle is. Men der laa jo nyis. Han prøvet den, &#x2013; jo, den bar; den gynget under ham, &#x2013; desto større morro. Det er en skam at være dumdristig, men det tænkte ikke Oscar paa.</p>
+<p>Fiskerne skrek til ham og bad ham akte sig; men han lot staa til.</p>
+<p>Der brast den tynde is &#x2013; og Oscar Letvindten gik under. Han tok tak i iskanten, prøvde at faa sig op igjen, men isen brast; han spændte i og la sig fremover isen, men han hadde ikke noget at holde sig fast med, &#x2013; og det bar under paany.</p>
+<p>Fiskerne kom til, de prøvde at gaa ut paa nyisen, &#x2013; men de var for tunge selvsagt. De vaaget ikke <pb n="103"/>krype utover. De saa sig om efter hjælp. Der var jo folk rundt omkring. Saa tok de til at rope: &#x00AB;hjælp! hjælp!&#x00BB; Der kom Eirik Gaute fra Odden springende. Han hadde trukket saa mange op av sjøen. Men der kom Torleiv Kaareson ogsaa. Han var saa glad i salt vand, at selv om vinteren gik han og lugtet paa sjøen .... og saa var han da ogsaa idag nede ved stranden og ruslet henover isen. Han hørte fiskernes rop, saa Eirik springe &#x2013; og saa f&#x00F3;r han avsted som en viking.</p>
+<p>Til iskanten kom han, og der laa Oscar Letvindten utmattet og hadde nok med bare at holde armene fremme over den tyn de is. Han holdt paa at miste kræfterne.</p>
+<p rend="center"><figure><graphic url="s103.jpg"/></figure></p>
+<p>Hjælpen maatte komme snart, og Torleiv betænkte sig ikke, krøp utover tyndisen, fik tak i Oscar, &#x2013; men i det samme gik isen itu og Torleiv kom ogsaa i vandet. Men Torleiv var sterk. Med den ene haand hjalp han Oscar med at holde sig oppe, med den anden slog han isen under sig, væltet sig fremover og søkte at naa den faste iskant. Det var ikke længer farlig, folk stod færdig til at kaste ut til dem taug av sammenbundne trøier; en lang stang blev ogsaa langet ut, og da er man berget.</p>
+<p>Kort at fortælle: Oscar blev reddet. Hverken <pb n="104"/>skrælling eller viking hadde noget ondt av badet. Hærdede krigere taaler altid en liten dukkert. Sygdom ansees som en skam.</p>
+<p>Torleivs redningsdaad kom det kongelige norske indredepartement<note type="footnote"><hi rend="italic">Forfatternote:</hi> Departement er noget stort noget. Der bor gamle folk som slaas med selve de mænd, som er i den store borg Storthinget. Men der findes Norges største krigere.</note> for øre, og en dag fik Torleiv den store utmerkelse at skulle ind paa Vestheims kastel eller &#x00AB;kontoret&#x00BB;. Men kastellet var den dag indrettet i den store vaabensal, og alle høvdinger og krigere var her forsamlet.</p>
+<p>Alle ventet de, at Torleiv nu skulde faa mange sverdslag og hædrende omtale. Talen fik han, men intet sverdslag. Overhøvdingen tok frem en liten æske, og der laa noget blankt som en ny tokrone &#x2013; og med vikingernes egne farver.</p>
+<p>Overhøvdingen sa, at det var redningsmedaljen, den hang i rødt-hvidt-blaat, det var verdens vakreste farver. Vikingerne følte sig alle stolte og varme om hjertet, da de hørte det om farverne sine. De saa alle paa overhøvdingen, og de saa, at han hadde blinkende taarer i sine øine av begeistring og glæde over at ha opdraget slik en viking paa sin borg. Den gamle høvding sa ogsaa, at det var det største paa jord at sætte sit liv ind for andre, og det hadde Torleiv gjort som en brav kriger. Hadde det været nødvendig, hadde han som soldaten faldt paa valen. Slik skulde alle vikinger være, djerve og raske og sætte livet ind, om det krævtes.</p>
+<p>Vikinger og skrællinger la efter denne historie vaabnerne ned for en tid. Ja, de kom endog sammen <pb n="105"/>til stort raadsmøte eller generalforsamling. Med al den rike erfaring som de hadde fra is og vand, besluttet de at sætte op regler for de yngre og mindre erfarne for hvorledes man skal redde den der er falden gjennem tyndis, saa at ikke den skandale skulde hænde, at nogen &#x00AB;blev&#x00BB; i isen.</p>
+<p>Det blev straks besluttet: Det er en skandale, om en blir i isen, naar der er nogen i nærheten som kan række en hjælpende haand. Ja, mange stemte for at erklære det som en skandale, om nogen blev i isen, selv om der ingen var i nærheten som kunde hjælpe.</p>
+<p>Et ekstraraad blev sat, og i det kunde kun de sitte, som mindst en gang hadde plumpet gjennem isen. Det skulde skrive regler for livberging paa is.</p>
+<p>Raadet delte sig straks i to: A) de som var gaat gjennem is og var kommet sig iland ved egen hjælp; B) de som var gaat gjennem is og var reddet ved andre.</p>
+<p>Reglerne deres ser da slik ut:</p>
+<quote>
+<p><hi rend="bold">Regler for livberging paa is:</hi></p>
+<p>A. <hi rend="italic">Uten andres hjælp</hi>:</p>
+<p rend="noIndent">1. Mist ikke vettet dit; det er ikke saa farlig som det ser ut til.</p>
+<p rend="noIndent">2. Hvis det ikke er like ved land eller fast iskant, nytter det ikke at slaa i isen og bryte den ned med albuerne. Du bare matter dig ut.</p>
+<p rend="noIndent">3. Dra tollekniven.</p>
+<p rend="noIndent">4. Læg dig helst paa ryg, faa nakken over iskanten, armene ut, hugg i med kniven, spænd <pb n="106"/>fra med føtterne alt det du orker. Husk paa at isen nylig bar dig, da du stod paa den, den bærer dig nok, naar du ligger flat paa den.</p>
+<p rend="noIndent">5. Er du ikke kar for at lægge dig paa ryg, da prøv at faa arme og bryst op paa isen. Hugg i med kniven, læg dig saa flat som mulig, spænd i med føtterne og prøv paa at sige ind paa isen. Ta det med ro, du kommer nok ind paa sterkere is.</p>
+<p rend="noIndent">6. Reis dig ikke paa albuer og knær, om du er kommet et litet stykke ind paa bærende is. Du kan let komme til at trykke den ned og lage et nyt hul. Kryp bortover paa ryg eller mave, eller rul dig bortover, og kom saa lidt efter lidt paa fot. Du hører nok, om isen bærer dig.</p>
+<p rend="noIndent">Har du ikke tollekniv, da kan du nok klare dig da ogsaa, men med den er du sikker. Bær den som fjeldfolkene paa høire side; hvorfor ligge og famle efter den paa venstre side, det er klodset og hæfter.</p>
+<p>B. <hi rend="italic">Skal du hjælpe en kamerat</hi>:</p>
+<p rend="noIndent">1. Spring ikke fra kameraten for inde paa land at søke efter toug, stige eller andet, som du ikke finder før det er forsent. Kan du kaste en stake, en lang stok eller lignende ut til ham og du har den like ved haanden, saa gjør det. En lang stang er god til at lægge over hullet for den som er faldt i; den kan ogsaa være god til at trække i for den som skal hjælpe.</p>
+<p rend="noIndent">2. Skynd dig ut mot ham. Træk underveis trøien av, gjerne skjorten (det er koldere for ham som <pb n="107"/>er i vandet), bind to ærmer sammen, saa har du toug om det end ikke er av det sterkeste. Naar isen tar til at knake for stygt, læg dig da ned, saa flat som mulig, og kryp ut mot ham. Det er ikke farlig for dig, thi isen bar jo netop kameraten, da han stod opreist, og nu ligger du jo flat.</p>
+<p rend="noIndent">Op med kniven, hugg fast med høire haand og kast med venstre ytterste ærme ut til kameraten. Se ham rolig og smilende i øinene; pas paa ham, saa han ikke napper for haardt til. Ak dig bakover lidt efter lidt, se ham i øinene, si ham, at han ikke skal gjøre noget andet end at spænde i med føtterne. &#x00AB;Læg dig flat!&#x00BB; si &#x2013; og drag lidt efter lidt indover.</p>
+<p rend="noIndent">3. Er dere flere, da alle mand ligg ned saa flat som mulig, arme og ben ut &#x2013; og lag levende toug. Den ene tar i den andens ankel eller skøitejern; ytterste, bedstemanden benyt trøien som før nævnt. Alle drar sig langsomt indover.</p>
+<p rend="noIndent">Men ikke reis dere for tidlig.</p>
+<p rend="noIndent">4.Telefoner, spring hjem eller til nærmeste hus for at faa tørre tæpper, opvarmet seng og varm melk.</p>
+<figure rend="asterisk"/>
+<p rend="noIndent">Som sidste regel: Husk paa, at det er din pligt at vaage dit liv for at redde en andens; ellers er du en usling.</p>
+</quote>
+<p>&#x00AB;Men om han, som faldt gjennem isen, ikke kan svømme?&#x00BB;</p>
+<p>&#x00AB;Her er ingen viking eller skrælling som ikke kan svømme,&#x00BB; blev svaret.</p>
+<p><pb n="108"/>Det vilde ogsaa være for stor skam, om gutter (og jenter med) ikke kunde svømme. For slike ukyndige tosker er der ikke andet raad, end at de faar bruke de samme regler som de andre &#x2013; og forresten stole paa, at kamerater sætter livet ind for dem.</p>
+<p>Ingen kan mindes, at en viking eller skrælling er druknet eller er kommet i livs skade. Det maa komme av, at de er raske, djerve, raadsnare gutter med godt kameratskap, alt utviklet i mange slag og haarde kampe, ute paa prærien, i de store skoge og paa det vilde hav.</p>
+<p>Og med de ord ender vikingernes og skrællingernes saga.</p>
+</div>
+</body>
+</text>
+</TEI>

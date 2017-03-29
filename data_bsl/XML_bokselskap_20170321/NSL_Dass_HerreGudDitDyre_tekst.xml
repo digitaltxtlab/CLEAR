@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://www.nslnorge.no/tekster/NSL_texts.xsl"?>
+<!DOCTYPE TEI PUBLIC "-// NSL Norge //EN" "http://www.nslnorge.no/tekster/NSL_tei_xinclude.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="NSL_Dass_HerreGudDitDyre"> 
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Det norske spr&#x00E5;k- og litteraturselskap:
+<lb/>Petter Dass: Herre Gud! dit dyre Navn og &#x00C6;re</title>
+</titleStmt>
+<publicationStmt><p>Publiseres som digital tekst av NSL/bokselskap.no.</p></publicationStmt>
+<sourceDesc>
+<p>HGDDNOØ Ellen.doc (word-fil mottatt fra Jon Haarberg 19.05.2011)</p>
+</sourceDesc>
+</fileDesc>
+<revisionDesc>
+<change xml:id="ENW" who="ENW" when="2011-04-19">Kodet om filen til xml. Kodekontroll.</change></revisionDesc>
+</teiHeader> 
+<text xml:id="NSL_Dass_HerreGudDitDyre_tekst" type="poem">
+<front>
+<titlePage type="main">
+<byline><docAuthor>Petter Dass</docAuthor></byline>
+<docTitle>
+<titlePart type="sub">Herre Gud! dit dyre Navn og &#x00C6;re</titlePart>
+</docTitle>
+</titlePage>
+<div type="chapter" subtype="illustration">
+<figure><graphic url="PetterDass.jpg"/></figure>
+</div>
+</front>
+<body>
+<div type="chapter">
+<head>Den Anden Sang
+<lb/>Helligt<note type="commentary"><hi rend="italic">Helligt vordet dit Navn</hi>&#x005D; Resen 1616, s. 80: &#x00AB;Den f&#x00F8;rste B&#x00F8;n. Helligt vorde dit Naffn.&#x00BB; Forklaringen: &#x00AB;Guds Naffn er vel ved sig selff aldelis helligt, Men wi bede, at det hoss oss maatte ocsaa helliges, Huilcket da skeer, naar Guds Ord l&#x00E6;res purt oc rent, Oc wi, som det s&#x00F8;mmer sig Guds B&#x00F8;rn, lade det udtryckeligen til siune i vort Leffnit, huilcket at maa skee, giff du oss O Fader i Himlene. De som icke l&#x00E6;re (andre) Guds Ord, oc ey leffue effter det forskreffne Guds Ord, de vanhellige Guds Naffn iblant oss, Huilcket icke at skulle skee, forhindre du O Himmelske Fader.&#x00BB;</note> vorde dit Navn</head>
+<lb/><lb/><p>Siungis under sin egen <hi rend="italic">Melodie</hi>.<note type="commentary"><hi rend="italic">under sin egen Melodie</hi>&#x005D; Manuskriptene oppgir &#x00AB;Vill ey bonden laate vell etc&#x00BB; som forelegg, en ukjent, norsk(?) og etter alt &#x00E5; d&#x00F8;mme verdslig vise. Antallet registrerte folkemelodier er for denne sangen iflg. Ivar Roger Hansen h&#x00F8;yere enn for noen annen katekismesang, dvs. ca 50. Antallet registereringer har &#x00F8;kt etter at Hansen skrev om dette f&#x00F8;rste gang (1986). Blant Petter Dass&#x0027; sanger har bare Jefta-visen flere (ca 80).
+Sangen er ofte blitt ber&#x00F8;mmet for sine overd&#x00E5;dige klangeffekter; spesielt rimene blir fremhevet: midtrim (Navn-Savn), parrim (&#x00C6;re-v&#x00E6;re), tiraderim (Si&#x00E6;le-Tr&#x00E6;le-Geselle-fort&#x00E6;lle), og omsluttende rim (v&#x00E6;re-&#x00C6;re) (Sejersted og Vassenden 2007, s. 45).</note></p>
+<lg>
+<head>1.</head>
+<l>HErre GUD! dit dyre<note type="commentary"><hi rend="italic">dyre</hi>&#x005D; dyrebare</note> Navn og &#x00C6;re</l>
+<l>Over Verden h&#x00F8;yt i Savn<note type="commentary"><hi rend="italic">Savn</hi>&#x005D; ry; jf. Sal 8.1 og 8.10 (likelydende): &#x00AB;HErre, vort Herskab, hvor herligt er dit Nafn ofver all Jorden.&#x00BB;</note> maa v&#x00E6;re,</l>
+<l>Og alle Si&#x00E6;le,<note type="commentary"><hi rend="italic">Si&#x00E6;le</hi>&#x005D; mennesker; jf. 1 Mos 2.7: &#x00AB;Oc GUd HErren hafde giort Mennisket (af) St&#x00F8;f, af Jord, oc bl&#x00E6;st en lefvende Aande i hans N&#x00E6;se, Oc Mennisket blef til en lefvendis Siel&#x00BB; og Sal 150.6: &#x00AB;Alt det som hafver Aande, lofver HErren, Haleluja.&#x00BB;</note> og alle Tr&#x00E6;le<note type="commentary"><hi rend="italic">Tr&#x00E6;le</hi>&#x005D; slitere, personer av lav sosial status som utf&#x00F8;rer hardt, manuelt arbeid</note></l>
+<l>Og hver Geselle<note type="commentary"><hi rend="italic">Geselle</hi>&#x005D; h&#x00E5;ndverkssvenn</note> de skal fort&#x00E6;lle<note type="commentary"><hi rend="italic">fort&#x00E6;lle</hi>&#x005D; Jf. Sal 96.3: &#x00AB;Fort&#x00E6;ller hans &#x00C6;re iblant Hedningene: hans underlige Gierninger iblant alle Folck.&#x00BB;</note></l>
+<l><seg rend="rightAligned">Din &#x00C6;re.</seg></l>
+</lg>
+<lg>
+<head>2.</head>
+<l>Det er smugt<note type="commentary"><hi rend="italic">smugt</hi>&#x005D; som seg h&#x00F8;r og b&#x00F8;r</note> og kaasteligt<note type="commentary"><hi rend="italic">kaasteligt</hi>&#x005D; av stor verdi, herlig; jf. Sal 92.2: &#x00AB;Det er got, ad tacke HErren: oc ad siunge dit Nafn Lof, du H&#x00F8;yeste.&#x00BB;</note> at h&#x00F8;re,</l>
+<l>At mand GUD sin L&#x00E6;bers Pligt<note type="commentary"><hi rend="italic">sin L&#x00E6;bers Pligt</hi>&#x005D; Jf. Sal 63.6: &#x00AB;&#x005B;&#x2026;&#x005D; oc min Mund skal lofve (dig) med prjsende L&#x00E6;be.&#x00BB;</note> monn&#x0027; gi&#x00F8;re;</l>
+<l>De dyb Afgrunder,<note type="commentary"><hi rend="italic">De dyb Afgrunder</hi>&#x005D; de store havdyp; jf. Sal 107.26: &#x00AB;De &#x005B;b&#x00F8;lgene&#x005D; fore op mod Himmelen, de fore ned i Afgrunden, Ad deres Si&#x00E6;l smeltedis for ulycke&#x00BB; og Sal 148.7: &#x00AB;Lofver HErren af Jorden: I Drager oc alle Afgrunde.&#x00BB; Afgrund (som gjengir gr. &#x00E1;byssos) konkurrerer med dyb i Chr IVs Bibel. Ordet (b&#x00E5;de det greske og det danske) brukes &#x00F2;g om Helvete, jf. Luk 8.31: &#x00AB;Oc de &#x005B;djevlene&#x005D; bade hannem &#x005B;Jesus&#x005D;, ad hand skulde icke biude dem fare i Afgrunden.&#x00BB; I 2.3 st&#x00E5;r &#x00AB;De dyb&#x0027;Afgrunder&#x00BB; i tydelig motsetning til landjordens &#x00AB;gr&#x00F8;nne Lunder&#x00BB;.</note> de gr&#x00F8;nne Lunder<note type="commentary"><hi rend="italic">de gr&#x00F8;nne Lunder</hi>&#x005D; Jf. TA 1.31.</note></l>
+<l>Skal HErrens Vunder<note type="commentary"><hi rend="italic">Vunder</hi>&#x005D; undergjerninger; jf. vers 1, linje 4 over.</note> hver Tid og Stunder<note type="commentary"><hi rend="italic">hver Tid og Stunder</hi>&#x005D; alltid; uttrykket med tid og stund(er) (&#x00AB;litt etter litt&#x00BB;) er hyppig belagt, men uttrykket her synes &#x00E5; v&#x00E6;re et produkt av rimtvang; det mangler balanse i sideordningen: jf. hver tid og alle stunder (el. allen stund).</note></l>
+<l><seg rend="rightAligned">Udf&#x00F8;re.<note type="commentary"><hi rend="italic">udf&#x00F8;re</hi>&#x005D; utbre, utsi</note></seg></l>
+</lg>
+<lg>
+<head>3.</head>
+<l>Om sig<note type="commentary"><hi rend="italic">sig &#x005B;&#x2026;&#x005D; anstille</hi>&#x005D; vise seg</note> Folk anstille vil saa slemme,<note type="commentary"><hi rend="italic">slemme</hi>&#x005D; onde, skjendige</note></l>
+<l>GUds Navn slet<note type="commentary"><hi rend="italic">slet</hi>&#x005D; helt</note> at tie still<note type="commentary"><hi rend="italic">tie still</hi>&#x005D; fortie</note> og glemme,</l>
+<l>Saa skal dog Stene<note type="commentary"><hi rend="italic">Stene</hi>&#x005D; Luk 19.40: &#x00AB;Oc hand &#x005B;Jesus&#x005D; svarde, oc sagde til dem, Jeg siger eder, ad dersom disse tie, da skulle Steene raabe.&#x00BB;</note> og t&#x00F8;rre Bene<note type="commentary"><hi rend="italic">t&#x00F8;rre Bene</hi>&#x005D; I Esek 37.1&#x2013;15 ser profeten for seg hvordan en stor mengde ben, av lik, som ligger str&#x00F8;dd rundt omkring i en dal, blir levende. Dette profetsynet tolkes som en prefigurasjon av oppstandelsen: &#x00AB;Oc hand &#x005B;Herren&#x005D; sagde til mig &#x005B;profeten&#x005D;, Spaa om disse Been, oc sig til dem: I t&#x00F8;rre Been, h&#x00F8;rer HErrens Ord: Saa sagde den HErre om disse Been, See, Jeg vil lade komme Aand i eder, oc j skulle lefve&#x00BB; (v. 4&#x2013;5). Anders Arrebos s&#x00F8;nn utga i 1681 i alt femten prekener faren i sin ungdom hadde skrevet p&#x00E5; grunnlag av dette stedet hos Esekiel. Ett av Arrebos poenger er at skapningen selv vitner om oppstandelsen: &#x00AB;Sandelig alle Creature maa v&#x00E6;re Pr&#x00E6;dicantere &#x005B;&#x2026;&#x005D;&#x00BB;; jf. TA 11.2&#x2013;8.</note></l>
+<l>Ey v&#x00E6;re seene hands Navn det reene<note type="commentary"><hi rend="italic">det reene</hi>&#x005D; som ikke er beheftet med synd</note></l>
+<l><seg rend="rightAligned">At fremme.<note type="commentary"><hi rend="italic">fremme</hi>&#x005D; skaffe fremgang, befordre; jf. 2 Tess 3.1: &#x00AB;FRemdelis, Br&#x00F8;dre, beder for os, ad HErrens Ord maa hafve sit l&#x00F8;&#x00F8;b, oc prjsis, lige som oc hos eder.&#x00BB;</note></seg></l>
+</lg>
+<lg>
+<head>4.</head>
+<l>Ja f&#x00F8;r GUD sin &#x00C6;re skal forlise,<note type="commentary"><hi rend="italic">forlise</hi>&#x005D; miste</note></l>
+<l>F&#x00F8;r skal Hav og grommen<note type="commentary"><hi rend="italic">grommen</hi>&#x005D; den farlige, glupske; adjektivformen grummen for den grumme tilh&#x00F8;rer folkevisestilen; jf. Sk 2, s. 363.</note> Hval ham prise,<note type="commentary"><hi rend="italic">F&#x00F8;r skal Hav og grommen Hval ham prise</hi>&#x005D; Sal 148.7: &#x00AB;Lofver HErren af Jorden: I Drager oc alle Afgrunde&#x00BB;; Chr. IVs bibel (1633) har &#x00AB;Lofver HERREN paa Jorden, I Hualfiske oc alle dyb &#x00AB;. Malling refererer en legende i tilknytning til den gamle lovsangen &#x00AB;Te Deum&#x00BB; (&#x00AB;O store Gud, vi lover deg&#x00BB;): Dersom man fremf&#x00F8;rte sangen om bord p&#x00E5; et skip, kom delfiner sv&#x00F8;mmende og fulgte skipet et langt stykke (Malling 1964, bd 4, s. 261).</note></l>
+<l>Samt og<note type="commentary"><hi rend="italic">Samt og</hi>&#x005D; og videre </note> Tanteyen,<note type="commentary"><hi rend="italic">Tanteyen</hi>&#x005D; OdS gjengir en naturfaglig kilde fra 1624 som opplyser at islendingene kaller det &#x00AB;Tanthage&#x00BB;, som fiskere fra &#x00C5;benr&#x00E5; kaller &#x00AB;Oerschwin&#x00BB; (&#x00F8;resvin), dvs. den vanligste delfinarten. &#x00AB;Tunfisk&#x00BB; (makrellst&#x00F8;rje) er en annen betydningsmulighet, men sammenhengen her favoriserer delfinen, som, i motsetning til makrellst&#x00F8;rjen&#x00BB;, er en nysgjerrig skapning som gjerne f&#x00F8;lger b&#x00E5;ttrafikken. Vanlige delfinarter i dikterens n&#x00E6;romr&#x00E5;de ville v&#x00E6;re kvitskjeving og kvitnos (se Haarberg 1998, s. 89).</note> som l&#x00F8;ber Leyen,<note type="commentary"><hi rend="italic">Leyen</hi>&#x005D; leia, da. leden, skipsleden; en norvagisme; jf. Jakobsen 1952, s. 127.</note></l>
+<l>Steenbiid og Seyen og Torsk og Skreyen.</l>
+<l><seg rend="rightAligned">Og Niise.<note type="commentary"><hi rend="italic">Niise</hi>&#x005D; Nisen er fremdeles den mest utbredte hvalarten langs norskekysten, selv om stammen er betydelig redusert i l&#x00F8;pet av de siste ti&#x00E5;rene.</note></seg></l>
+</lg>
+<lg>
+<head>5.</head>
+<l>GUD er GUD, om alle Land laa &#x00F8;de,</l>
+<l>GUD er GUD, om alle Mand var d&#x00F8;de,<note type="commentary"><hi rend="italic">GUD er GUD, om alle Mann var d&#x00F8;de</hi>&#x005D; Jf. Sal 90.2: &#x00AB;F&#x00F8;r end Biergene blefve til, Oc du skickede Jorden oc Jorderjge: ja fra &#x00C6;vighed til &#x00C6;vighed est du Gud.&#x00BB;</note></l>
+<l>Om Folk forsvimler,<note type="commentary"><hi rend="italic">forsvimler</hi>&#x005D; Ordet finnes ikke i ordb&#x00F8;kene. Forstavelsen <hi rend="italic">for-</hi>  m&#x00E5; her forst&#x00E5;s i betydningen &#x00AB;helt ut&#x00BB; som i <hi rend="italic">forl&#x00F8;be</hi>, &#x00AB;svinne hen&#x00BB;; dermed blir <hi rend="italic">forsvimle</hi> (<hi rend="italic">svimle</hi> i betydningen &#x00AB;gj&#x00F8;re svimmel&#x00BB;) &#x00E5; oppfatte som en evfemisme for &#x00AB;&#x00E5; d&#x00F8;&#x00BB;. P&#x00E5; tysk finnes det tilsvarende verbet <hi rend="italic">verschwiemeln</hi> belagt i betydningen &#x00AB;for&#x00F8;de&#x00BB; (<hi rend="italic">sein Geld verschwiemeln</hi>) (Grimm). Se ogs&#x00E5; ms-variant til TA 6.8.3&#x2013;4.</note> i HErrens Himler</l>
+<l>Utallig vrimler,<note type="commentary"><hi rend="italic">utallig vrimler</hi>&#x005D; Jf. &#x00C5;p 7.9: &#x00AB;Der efter saa jeg, Oc see, en stoor Skare, hvilcken som ingen kunne t&#x00E6;lle, af alle Hedninge, oc Stammer, oc Folck oc Tungemaal, som stoode for Stoolen oc for Lammet, kl&#x00E6;dde med hvide lange Kl&#x00E6;der, oc (der vare) Palmer i deris H&#x00E6;nder.&#x00BB; I og for seg lar antallet seg bestemme n&#x00F8;yaktig. If&#x00F8;lge TA 9.19.2 ligger det fast, og Johannes &#x00E5;penbareing (14.1) setter antallet utvalgte til 144.000. </note> som slaer paa Cimler<note type="commentary"><hi rend="italic">Cimler</hi>&#x005D; bekken (av <hi rend="italic">cymbel</hi>); jf. Sal 150.5: &#x00AB;Lover hannem med klingende Cimbler: Lofver hannem med fryde Cimbler.&#x00BB;</note></l>
+<l><seg rend="rightAligned">Hin S&#x00F8;de.<note type="commentary"><hi rend="italic">S&#x00F8;de</hi>&#x005D; vellydende, liflige</note></seg></l>
+</lg>
+<lg>
+<head>6.</head>
+<l>Skulle HErren fattis Bram<note type="commentary"><hi rend="italic">Bram</hi>&#x005D; prakt, lovprisning</note> og Svenne?<note type="commentary"><hi rend="italic">Svenne</hi>&#x005D; unders&#x00E5;tter; tjenere, soldater</note></l>
+<l>See, ti tusind<note type="commentary"><hi rend="italic">See, ti tusind</hi>&#x005D; Dan.7.10: &#x00AB;Der var en Ildstr&#x00F8;m, som langs udski&#x00F8;d oc gick fra hans &#x005B;Guds&#x005D; Ansict , Tusinde gange Tusinde tjente hannem, oc ti tusinde gange ti tusinde stoode for hannem&#x00BB;; jf. &#x00C5;p 5.11.</note> staar for ham og tienne,</l>
+<l>Ja tusind gange ti tusind mange,</l>
+<l>Hvis smukke Sange med Klang kand prange<note type="commentary"><hi rend="italic">prange</hi>&#x005D; falle i &#x00F8;ynene ved sterk glans eller prakt; her brukt synestetisk om h&#x00F8;rselsinntrykk.</note></l>
+<l><seg rend="rightAligned">Der henne.</seg></l>
+</lg>
+<lg>
+<head>7.</head>
+<l>Thi for GUD skal alle Kn&#x00E6; sig b&#x00F8;ye,<note type="commentary"><hi rend="italic">alle Kn&#x00E6; sig b&#x00F8;ye</hi>&#x005D; Fil 2.10: &#x00AB;Ad i det navn JEsu, skal hvert Kn&#x00E6;, deris som ere i Himmelen oc paa Jorden b&#x00F8;ye sig&#x00BB;: jf. Jes 45.23 og Rom 14.11. En anonym katekismesang over Faderv&#x00E5;r fra ca 1613 uttrykker dette slik: &#x00AB;For huilckit Naffn alle Kn&#x00E6; sig maa b&#x00F8;je, / Under oc paa Jorden oc i det h&#x00F8;je&#x00BB; (<hi rend="italic">Faderv&#x00E5;r, tre versjoner</hi>, 1613). Fredrik IVs alminnelige husandakt gj&#x00F8;r det klart at knelingen i og for seg kan begrense seg til det spr&#x00E5;klige uttrykket: &#x00AB;Vi b&#x00F8;je vore Hierters og Legemers Kn&#x00E6; for dig &#x005B;...&#x005D;&#x00BB; (<title>Den Almindelige Kirke- og Huus-Andagt</title> 1700).</note></l>
+<l>De som boor i Himlene hin h&#x00F8;ye,</l>
+<l>Og de paa Jorden i S&#x00F8;r og Norden,</l>
+<l>Samt Dievlers Orden, som d&#x00F8;mt er vorden<note type="commentary"><hi rend="italic">som d&#x00F8;mt er vorden</hi>&#x005D; Matt 25.41: &#x00AB;Da skal hand oc sige til dem hos den venstre (Side), Gaar bort fra mig, I forbandede, i den &#x00E6;vige Ild, som er beridt Djevelen oc hans Engle.&#x00BB; Se ogs&#x00E5; manuskriptenes strofe 8.</note></l>
+<l><seg rend="rightAligned">Til M&#x00F8;ye.<note type="commentary"><hi rend="italic">M&#x00F8;ye</hi>&#x005D; besv&#x00E6;r; evfemistisk for <hi rend="italic">pine</hi></note></seg></l>
+</lg>
+<lg>
+<head>8.</head>
+<l>H&#x00F8;yen Hald<note type="commentary"><hi rend="italic">h&#x00F8;yen Hald</hi>&#x005D; den h&#x00F8;ye klippe el. fjelltopp; poetisk fast forbindelse, adjektivet b&#x00F8;yd som i folkevisene (som &#x00AB;dyben Dal&#x00BB; i 8.2 ndf.); jf. Sk 2, s. 363.</note> og dyben Dal skal vige,<note type="commentary"><hi rend="italic">vige</hi>&#x005D; flytte seg, la seg fortrenge; Mi 1.3&#x2013;4: &#x00AB;Thi see HErren skal gaa du fra sin sted, oc nedfare oc tr&#x00E6;de paa H&#x00F8;yene i Landet, Oc Biergene skulle smelte under hannem oc Dalene skulle refne, som voxet for Ilden, som Vand, der flyder hastig ned ad.&#x00BB;</note></l>
+<l>Jord og Himmel falde skal<note type="commentary"><hi rend="italic">Jord og Himmel falde skal</hi>&#x005D; Jf. 2 Pet 3.12: &#x00AB;&#x005B;Dere&#x005D; Som vente oc haste til Guds Dagis tilkommelse? Paa hvilcken Himlene, som blifve gloende, forgaae, oc Elementerne, som smeltes, br&#x00E6;nde.&#x00BB; Vilh. Andersen (1951. s. 71&#x2013;72) h&#x00F8;rer et ekko fra Horats (Od. 1.34.12&#x2013;13) her.</note> tillige,<note type="commentary"><hi rend="italic">tillige</hi>&#x005D; samtidig</note></l>
+<l>Hver Bierg<note type="commentary"><hi rend="italic">Bierg</hi>&#x005D; Ordet ser ikke ut til &#x00E5; v&#x00E6;re belagt i hannkj&#x00F8;nn annetsteds.</note> og Tinde<note type="commentary"><hi rend="italic">Tinde</hi>&#x005D; fjelltopp</note> skal slet forsvinde,</l>
+<l>Men HErrens Minde<note type="commentary"><hi rend="italic">HErrens Minde</hi>&#x005D; bevisstheten el. erindringen om Herren (obj.gen.)</note> til tusind Sinde</l>
+<l><seg rend="rightAligned">Skal stige.<note type="commentary"><hi rend="italic">stige</hi>&#x005D; (lik b&#x00F8;nnen) bevege seg mot Gud i Himmelen</note></seg></l>
+</lg>
+<lg>
+<head>9.</head>
+<l>Vil de Gamle v&#x00E6;re stiv<note type="commentary"><hi rend="italic">v&#x00E6;re stiv</hi>&#x005D; vise trass, nekte &#x00E5; b&#x00F8;ye seg (knele); jf. 7.1 ovf.</note> og sove,<note type="commentary"><hi rend="italic">sove</hi>&#x005D; v&#x00E6;re sl&#x00F8;v el. uoppmerksom; jf. 1 Kor 16.13 og Luk 22.46. Se Kingos salme over sistnevnte sted, &#x00AB;SOver I? Hvor kand I sove?&#x00BB; (fra <title>Vinter-Parten</title>, 1689, opptatt i kirkesalmeboken, 1699, <title>Digtning i Udvalg</title>, s. 324) og Naurs <title>Golgotha paa Parnasso</title> (1973), s. 38. Vi kan merke oss at soving i kirken, alts&#x00E5; soving i en helt bokstavelig forstand, var forbudt i henhold til kongebrevet av 22. april 1645: &#x00AB;Paa det och den stoore uskickelighed, som med soffuen udj kiercherne begaais, kan forekommis och affschaffis, er woeris naadigste wilge, at der folck schal tilforordnes, som kand gaae om med lange kiepper til at slaae dennem  paa hoffuidet med, som soffuer vnder predicken&#x00BB; (sitert etter Glebe-M&#x00F8;ller 1980, s. 120).</note></l>
+<l>Da skal B&#x00F8;rn i Moders Liv GUD love;<note type="commentary"><hi rend="italic">Da skal B&#x00F8;rn i Moders Liv GUD love</hi>&#x005D; Retorisk <hi rend="italic">adynaton</hi>, en &#x00AB;umulighet&#x00BB; fremsatt ironisk for &#x00E5; gi et emfatisk bidrag til en forsikring, slik ogs&#x00E5; i str. 3 og 4 ovf. Uttrykksm&#x00E5;ten blir av Thomsen (1971, s. 191) kalt &#x00AB;et af Bordings virtuos-specialer&#x00BB;. Jf. Sal 8.3: &#x00AB;Af de unge oc djende  B&#x00F8;rns Munde grundfeste du en Mact, for dine Fienders skyld, ad stille Fienden oc Hefneren.&#x00BB;</note></l>
+<l>De Halte, Lamme, Maal-l&#x00F8;se, Stamme<note type="commentary"><hi rend="italic">De Halte, Lamme, Maal-l&#x00F8;se, Stamme</hi>&#x005D; Jf. Matt 15.30: &#x00AB;Oc der kom meget Folck til hannem &#x005B;Jesus&#x005D;, som hafde med sig Halte, Blinde, Stumme, Kr&#x00F8;blinge, oc mange andre, oc kaste dem for JEsu F&#x00F8;dder, oc hand helbredede dem. Saa ad Folcket forundrede sig, der de saae, ad de Stumme talede, Kr&#x00F8;blinge vare helbrede, Halte ginge, oc de Blinde saae: Oc de prisede Israels Gud.&#x00BB;</note></l>
+<l>Gi&#x00F8;r og det samme, de Gromme,<note type="commentary"><hi rend="italic">Gromme</hi>&#x005D; grusomme, onde</note> Gramme<note type="commentary"><hi rend="italic">Gramme</hi>&#x005D; forbitrede, onde</note></l>
+<l><seg rend="rightAligned">Og Grove.<note type="commentary"><hi rend="italic">Grove</hi>&#x005D; udannede, us&#x00F8;mmelige; bokstavrimet i adjektivene her betyr antakelig mer enn adjektivenes betydningsnyanser.</note></seg></l>
+</lg>
+<lg>
+<head>10.</head>
+<l>Naar jeg mig fra Top til Fod<note type="commentary"><hi rend="italic">fra Top til Fod</hi>&#x005D; Uttrykket synes &#x00E5; v&#x00E6;re en kontaminasjon av <hi rend="italic">fra top til taa og fra isse til fod</hi>, muligens fremtvunget av innrimet (Fod-god).</note> betragter,</l>
+<l>Ingen Lem<note type="commentary"><hi rend="italic">Ingen Lem</hi>&#x005D; Felleskj&#x00F8;nn er kurant, slik ogs&#x00E5; hos Kingo.</note> paa mig for god jeg agter,</l>
+<l>Var de saa smukke som Silke-Dukke,<note type="commentary"><hi rend="italic">Silke-Dukke</hi>&#x005D; bunter av silketr&#x00E5;d; slik ogs&#x00E5; hos Leonora Christina (1998, s. 113). Man kan likevel ikke helt utelukke den sekund&#x00E6;re (og moderne) betydningen av <hi rend="italic">dukke</hi>, men det virker urimelig at en hel dukke skal tjene til sammenligning med &#x00E9;n enkelt menneskelig kroppsdel. </note></l>
+<l>De jo<note type="commentary"><hi rend="italic">jo</hi>&#x005D; allikevel</note> skal bukke<note type="commentary"><hi rend="italic">bukke</hi>&#x005D; Jf. Jes 2.9: &#x00AB;Oc der b&#x00F8;yede et Menniske sig, oc der buckede en Mand, oc du &#x005B;Gud&#x005D; skalt icke spare dem.&#x00BB;</note> med ydmyg Sukke</l>
+<l><seg rend="rightAligned">Og Facter.<note type="commentary"><hi rend="italic">Facter</hi>&#x005D; geberder; for eksempel folding av hender og andre tegn p&#x00E5; b&#x00F8;nnfallelse og underkastelse.</note></seg></l>
+</lg>
+<lg>
+<head>11.</head>
+<l>Men &#x00F4; Mennisk&#x0027; t&#x00F8;r du vel det meene?</l>
+<l>At GUds Navn skeer R&#x00E6;t og Skel<note type="commentary"><hi rend="italic">GUds Navn skeer R&#x00E6;t og Skjel</hi>&#x005D; rett skjer fyldest for Guds navn; invertert ordstilling. Jf. uttrykket <hi rend="italic">Gud skje lov</hi>.</note> allene,</l>
+<l>For<note type="commentary"><hi rend="italic">For</hi>&#x005D; fordi</note> Pr&#x00E6;st og Bonde med blotte Munde<note type="commentary"><hi rend="italic">med blotte Munde</hi>&#x005D; med munnen alene: kan oppfattes b&#x00E5;de som dat. ent. og obl. flt. Jf. Jak 1.22: &#x00AB;Men vorder Ordens Gi&#x00F8;rere, oc icke alleeniste H&#x00F8;rere, med hvilcket I bedrage eder self&#x00BB;, Rom 2.13: &#x00AB;Thi icke Lovsens H&#x00F8;rere (ere) retf&#x00E6;rdige for Gud, men Lovsens Gi&#x00F8;rere, skulle retf&#x00E6;rdiggi&#x00F8;res&#x00BB; og Rom 10.9:  &#x00AB;Thi dersom du faar bekiendt den HErre JEsum med din Mund, oc troit i dit Hierte, ad Gud opreiste hannem fra D&#x00F8;de, da blifver du salig.&#x00BB; I samtidens litteratur ser man av og til betegnelsen &#x00AB;Hierte-Christne&#x00BB; satt opp imot &#x00AB;Mund-Christne&#x00BB;, som i Jens Godsens dedikasjon av sin Bunyan-oversettelse til dronning Charlotta Amalia (Bunyan 1704, &#x00AB;Dedicatio&#x00BB;) . Anders Hi&#x00F8;rring (1643, s. 285) opererer i sin katekisme med <hi rend="italic">tre</hi> veier til helligholdelse av Guds navn: &#x00AB;1. Naar Guds Ord retsindelig pr&#x00E6;dickis oc l&#x00E6;ris. 2. Naar mand l&#x00E6;rer oc l&#x00E6;ser Guds Ord oc leffuer der effter. 3. Naar mand affstaaer Synden, oc aff andre Guds B&#x00F8;rns Raad oc Exempel bevegis til at Tiene oc &#x00C6;re Gud, met tancker Ord oc Gierninger.&#x00BB; Knud Sevaldsen Bang (1681, s. 48) bestemmer <hi rend="italic">fire</hi> m&#x00E5;l for Faderv&#x00E5;r: &#x00AB;Vi bede 1. At Guds Nafn maa helliges hos oss: 2. At GUD vil dertil giffve os tro L&#x00E6;rere, 3. Flittige Tilh&#x00F8;rere, 4. Sin Aands Hielp hertil offver Pr&#x00E6;st oc Tilh&#x00F8;rere.&#x00BB; I <title>The Pilgrim&#x0027;s Progress</title> (1678) iscenesetter Bunyan den som lever ut sin religion &#x00AB;med blotte Munde&#x00BB; i skikkelse av personifikasjonen Sladder (<hi rend="italic">Talkative</hi>). &#x00AB;Den Christne&#x00BB;, dvs. hovedpersonen selv, fremstiller ham som en bedrager: &#x00AB;&#x005B;&#x2026;&#x005D; kom ihu det Ordsprock: De siger oc de gi&#x00F8;r icke, men Guds Rige er icke i Ord men i Magt&#x00BB;  (Bunyan 1704, s. 120). Kirkeordinansen (1607, s. 2v) p&#x00E5;peker at barnel&#x00E6;rdommen, dvs. katekismen, skal bidra til moralsk opprustning, det vil si at man gjennom den skal f&#x00E5; &#x00AB;kundskab paa Synder og gode gierninger&#x00BB;, men samtidig poengteres troens forrang i henhold til den lutherske teologi: &#x00AB;At huer maa forstaa huad Troen er, oc huad hun udretter, huorledis wi hende bekomme, oc huilckelunde Mennisken bliffuer retferdig, Ja ocsaa huad mening Predickerne skulle selffue derom haffue, oc huorledis de Predicke skulle.&#x00BB; </note></l>
+<l>Ham love kunde? ney, ingenlunde<note type="commentary"><hi rend="italic">ingenlunde</hi>&#x005D; slett ikke</note></l>
+<l><seg rend="rightAligned">Det eene.<note type="commentary"><hi rend="italic">Det eene</hi>&#x005D; bare det</note></seg></l>
+</lg>
+<lg>
+<head>12.</head>
+<l>HErrens Navn hos os paa Jord kand ikke</l>
+<l>Helligis ikkun med Ord og Nikke;<note type="commentary"><hi rend="italic">Nikke</hi>&#x005D; gjentatte ganger &#x00E5; b&#x00F8;ye hodet i tilsynelatende ydmyk b&#x00F8;nn</note></l>
+<l>Ney; hvor<note type="commentary"><hi rend="italic">hvor</hi>&#x005D; hvor enn</note> du sv&#x00E6;ver<note type="commentary"><hi rend="italic">sv&#x00E6;ver</hi>&#x005D; streifer, flakker omkring</note> og hvor du str&#x00E6;ver,<note type="commentary"><hi rend="italic">str&#x00E6;ver</hi>&#x005D; higer, lengter (etter helliggj&#x00F8;relsen)</note></l>
+<l>See til du lever, som GUds Ord kr&#x00E6;ver</l>
+<l><seg rend="rightAligned">Til Prikke.<note type="commentary"><hi rend="italic">Til Prikke</hi>&#x005D; fullt ut; jf. <hi rend="italic">til punkt og prikke</hi>.</note></seg></l>
+</lg>
+<lg>
+<head>13.</head>
+<l>Lad dit Lius<note type="commentary"><hi rend="italic">dit Lius</hi>&#x005D; Luk 11.33: &#x00AB;Ingen t&#x00E6;nder et Lius, oc s&#x00E6;tter det i skiul, icke heller under en Sk&#x00E6;ppe, men paa Liusestagen, paa det, ad de som gaae ind, skulle see skinnet.&#x00BB;</note> for Folket smukt saa brende,</l>
+<l>At enhver din Dyyd<note type="commentary"><hi rend="italic">Dyyd</hi>&#x005D; fromhet, gudfryktig opptreden</note> og Tugt<note type="commentary"><hi rend="italic">Tugt</hi>&#x005D; oppdragelse, s&#x00F8;mmelig oppf&#x00F8;rsel</note> kand kiende,</l>
+<l>Leev ey begierlig,<note type="commentary"><hi rend="italic">begierlig</hi>&#x005D; Jf. Gal 5.16: &#x00AB;Men jeg &#x005B;Paulus&#x005D; siger, Omgaaes i Aanden, oc I skulle icke fuldkomme Ki&#x00F8;dsens begiering.&#x00BB;</note> ey Folk<note type="commentary"><hi rend="italic">Folk</hi>&#x005D; for folk</note> besv&#x00E6;rlig<note type="commentary"><hi rend="italic">besv&#x00E6;rlig</hi>&#x005D; ubehagelig (ved &#x00E5; plage, kjede, trette, uroe o.l.)</note></l>
+<l>Leev from og &#x00E6;rlig mod hver Mand ki&#x00E6;rlig<note type="commentary"><hi rend="italic">mod hver Mand ki&#x00E6;rlig</hi>&#x005D; Jf. 1 Pet 3.8: &#x00AB;Men endeligen, v&#x00E6;rer allesammen ved eet Sind, Medlidige, Broderlige, Kierlige, inderlige Barmhiertige, Venlige.&#x00BB;</note></l>
+<l><seg rend="rightAligned">Til Ende.<note type="commentary"><hi rend="italic">Til Ende</hi>&#x005D; til d&#x00F8;den; jf. Sal 119.33: &#x00AB;Herre, l&#x00E6;r mig dine Skickes Vey, Oc jeg vil bevare den indtil Enden.&#x00BB;</note></seg></l>
+</lg>
+<lg>
+<head>14.</head>
+<l>Had<note type="commentary"><hi rend="italic">Had</hi>&#x005D; Jf. Sal 97.10: &#x00AB;I som elske HErren, hader Ont &#x005B;&#x2026;&#x005D;.&#x00BB;</note> alt det GUD i sit Ord<note type="commentary"><hi rend="italic">i sit Ord</hi>&#x005D; i den Hellige skrift</note> selv hader,</l>
+<l>At<note type="commentary"><hi rend="italic">At</hi>&#x005D; slik at</note> Vellysten<note type="commentary"><hi rend="italic">Vellysten</hi>&#x005D; vellevnet; antakelig ikke &#x00AB;Ski&#x00F8;rlefned&#x00BB; (erotisk vellyst);  jf. Luk 7.25 &#x00AB;&#x005B;&#x2026;&#x005D; See, de som lefve i herlige Kl&#x00E6;der oc Vellyst, ere i Kongelige Gaarde.&#x00BB;</note> dig paa Jord ey skader,</l>
+<l>Sky Synd og Lyder,<note type="commentary"><hi rend="italic">Lyder</hi>&#x005D; skavanker av &#x00E5;ndelig art; jf. Sir 20.24: &#x00AB;L&#x00F8;gn er et ont lyde paa et Menniske, den skal drifvis stedse i de ul&#x00E6;rdes Mund.&#x00BB;</note> som GUD forbyder,</l>
+<l>Elsk Tugt og Dyder,<note type="commentary"><hi rend="italic">Tugt og Dyder</hi>&#x005D; Jf. 13.2 ovf.</note> som dig bepryder</l>
+<l><seg rend="rightAligned">Og bader.<note type="commentary"><hi rend="italic">bader</hi>&#x005D; gagner (av <hi rend="italic">baade</hi>; <title>Sk</title> 2, s. 344)</note></seg></l>
+</lg>
+<lg>
+<head>15.</head>
+<l>Men vilt du paa Synders Vey<note type="commentary"><hi rend="italic">Synders Vey</hi>&#x005D; Jf. Matt 7.14: &#x00AB;Thi den Port er snefr, oc den Vey trang, som f&#x00F8;rer hen til Lifvet, oc de ere faae, som den finde&#x00BB; og Sal 50.23: &#x00AB;&#x005B;&#x2026;&#x005D; Oc den som s&#x00E6;tter sig (sin) Vey (viss) fore, hannem vil jeg lade see paa Gud Salighed.&#x00BB;</note> henstige,</l>
+<l>Og fra Dyden blues<note type="commentary"><hi rend="italic">blues</hi>&#x005D; skammer seg for</note> ey at vige,</l>
+<l>Da dine Lemmer<note type="commentary"><hi rend="italic">dine Lemmer</hi>&#x005D; Jf. 10.2 ovf.</note> GUds Navn beskemmer,<note type="commentary"><hi rend="italic">beskemmer</hi>&#x005D; van&#x00E6;rer, krenker; jf. Ordsp 28.7: &#x00AB;&#x005B;&#x2026;&#x005D; Men den som f&#x00F8;der Fraadsere, skal besk&#x00E6;mme sin Fader.&#x00BB;</note></l>
+<l>GUds Aand bortskremmer og ey forfremmer<note type="commentary"><hi rend="italic">forfremmer</hi>&#x005D; fremmer; se 3.5 ovf.</note></l>
+<l><seg rend="rightAligned">GUds Rige.</seg></l>
+</lg>
+<lg>
+<head>16.</head>
+<l>Men &#x00F4; GUD! forhindre sligt at blive!<note type="commentary"><hi rend="italic">at blive</hi>&#x005D; &#x00E5; skje</note></l>
+<l>Hvad som<note type="commentary"><hi rend="italic">Hvad som</hi>&#x005D; det som, alt som</note> er u-gudeligt fordrive!<note type="commentary"><hi rend="italic">fordrive</hi>&#x005D; Oppfordr. konj.</note></l>
+<l><note type="commentary"><hi rend="italic">At</hi>&#x005D; slik at</note>At vi vor Tider<note type="commentary"><hi rend="italic">vor Tider</hi>&#x005D; v&#x00E5;r levetid</note> mod Synden strider,</l>
+<l>Naar Tiden lider,<note type="commentary"><hi rend="italic">Naar Tiden lider</hi>&#x005D; n&#x00E5;r verden g&#x00E5;r mot slutten (dommedag)</note> hos dig omsider</l>
+<l><seg rend="rightAligned">At blive!<note type="commentary"><hi rend="italic">At blive</hi>&#x005D; Syntaksen er irregul&#x00E6;r. Vi hadde ventet et finitt verb til slutt; &#x00AB;maa blive&#x00BB; hadde for eksempel l&#x00F8;st problemet, asyndetisk sideordnet med &#x00AB;strider&#x00BB; i v. 3.</note></seg></l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

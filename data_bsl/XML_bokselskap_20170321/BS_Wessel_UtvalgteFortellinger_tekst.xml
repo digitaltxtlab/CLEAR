@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://www.nslnorge.no/tekster/NSL_texts.xsl"?>
+<!DOCTYPE TEI PUBLIC "-// NSL Norge //EN" "http://www.nslnorge.no/tekster/NSL_tei_xinclude.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="BS_Wessel_UtvalgteFortellinger">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>bokselskap.no 2011.
+<lb/>Johan Herman Wessel: <hi rend="italic">Utvalgte komiske fortellinger</hi>.</title>
+</titleStmt>
+<publicationStmt><p>Publiseres som digital tekst av bokselskap.no.</p></publicationStmt>
+<sourceDesc>
+<p>digibok_2006091500014 (mottat fra Nasjonalbiblioteket/Bokhylla.no 2010).</p>
+</sourceDesc>
+</fileDesc>
+<revisionDesc>
+<change who="ENW" when="2011-05-10">Ført inn korrketurresultater. Kodekontroll.</change>
+<change xml:id="ENW" who="ENW" when="2011-05-03">Kodet grunnstruktur i xml.</change>
+</revisionDesc>
+</teiHeader>
+<text xml:id="BS_Wessel_UtvalgteFortellinger_tekst" type="drama">
+<front>
+ <titlePage type="main">
+ <byline><docAuthor>Johan Herman Wessel</docAuthor></byline>
+<docTitle>
+<titlePart type="main">Utvalgte komiske fortellinger</titlePart>
+</docTitle>
+<docImprint>
+<docDate>&#x005B;1770-årene&#x005D;
+</docDate>
+</docImprint>
+</titlePage>
+<div type="illustration"><figure><graphic url="Wessel.jpg"/></figure></div>
+<div xml:id="contents">
+<list type="contents_main">
+<item><ref target="chapter_1" xml:id="contents_1">Herremanden</ref></item>
+<item><ref target="chapter_2" xml:id="contents_2">Hundemordet</ref></item>
+<item><ref target="chapter_3" xml:id="contents_3">Smeden og Bageren</ref></item>
+</list>
+</div>
+</front>
+<body>
+<div type="chapter" subtype="poem" n="1">
+<head><ref type="contents" target="contents_1" xml:id="chapter_1">Herremanden</ref></head>
+<lg>
+<l>En Herremand sov engang hen;</l>
+<l>Og saa skal alle Herremænd,</l>
+<l>Hvor gierne de end leve ville.</l>
+<l>Og det er ilde,</l>
+<l>At døe, naar man endnu ei vilde.</l>
+</lg>
+<lg>
+<l>Den Herremand, jeg synger om,</l>
+<l>Did, Stakkel! efter Døden kom,</l>
+<l>Hvor ingen frøs, skiønt alle vilde.</l>
+<l>Og det er ilde,</l>
+<l>At ikke fryse, naar man vilde.</l>
+</lg>
+<lg>
+<l>Han traf sin Kudsk, og studsede:</l>
+<l>«Hvad! Jochum og i Helvede?</l>
+<l>Jeg næsten det forsværge vilde.»</l>
+<l>Og det er ilde,</l>
+<l>At see, hvad man forsværge vilde.</l>
+</lg>
+<lg>
+<l>«Hvorfor jeg kommen er herned,</l>
+<l>Du udentvivl alt forud veed,</l>
+<l>Saa jeg omsonst det dølge vilde.»</l>
+<l>Og det er ilde,</l>
+<l>Bekiendte Ting at dølge ville.</l>
+</lg>
+<lg>
+<l>«Min Søn forfaldt til Hoer og Spil,</l>
+<l>Og satte flere Penge til,</l>
+<l>End min Formue taale vilde.»</l>
+<l>Og det er ilde,</l>
+<l>At den ei mere taale vilde.</l>
+</lg>
+<lg>
+<l>«Af Godhed for det Skumpelskud</l>
+<l>Jeg sued' mine Bønder ud,</l>
+<l>Og deres Suk ei høre vilde.»</l>
+<l>Og det er ilde,</l>
+<l>Ei Bønders Suk at høre ville.</l>
+</lg>
+<lg>
+<l>«Men du, som var saa from og god,</l>
+<l>Og giorde intet Kræ imod,</l>
+<l>Hvi du er her, jeg vide vilde.»</l>
+<l>Og det er ilde,</l>
+<l>Saa nøie alt at vide ville.</l>
+</lg>
+<lg>
+<l>«Det gaaer,» var Svaret, «mig saa slet,</l>
+<l>Fordi jeg hisset giorde det,</l>
+<l>Som I ei kunde, skiønt I vilde.»</l>
+<l>Og det er ilde,</l>
+<l>At ikke kunne, naar man vilde.</l>
+</lg>
+<lg>
+<l>«Den Søn, som volder, I er her,</l>
+<l>Har jeg paa Halsen skaffet jer.</l>
+<l>Jeg Fruen intet negte vilde.»</l>
+<l>Og det er ilde,</l>
+<l>Slet ingen Ting at negte ville.</l>
+</lg>
+<lg>
+<l>Sligt lærer hvert utugtigt Skarn,</l>
+<l>At ikke skaffe Næsten Barn,</l>
+<l>Skiønt Næstens Kone gierne vilde.</l>
+<l>Og det er ilde,</l>
+<l>At Næstens Kone gierne vilde.</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem" n="2">
+<head><ref type="contents" target="contents_2" xml:id="chapter_2">Hundemordet</ref></head>
+<lg>
+<l>At Mennesker af Dyr saa tidt</l>
+<l>Meer Væsen end af Næsten giøre,</l>
+<l>Det see vi dagligdags, og høre;</l>
+<l>Moralen hos dem nytter lidt.</l>
+<l>Jeg derfor mig opholder ei</l>
+<l>Ved dem Bebreidelser at give,</l>
+<l>Som de vil være, lad dem blive!</l>
+<l>Moral skriv for dem, hvem som vil!</l>
+<l>Jeg, for min Part, jeg passer, jeg,</l>
+<l>Og min Propos strax skrider til.</l>
+</lg>
+<lg>
+<l>Der var engang en Tømmersvend;</l>
+<l>Mod ham en Slagter-Hund sig viiste ei som Ven.</l>
+<l>Han vilde bide ham: og, som nu let kan vides,</l>
+<l>En Tømmersvend ei meer end du og jeg kan bides:</l>
+<l>Han derfor hævede sin Øxe rask,</l>
+<l>Og kløvede sin Uvens Pandebrask.</l>
+<l>Nu skulde det til Uhæld treffe,</l>
+<l>At Hundens Eier kom</l>
+<l>I Øieblikket, som</l>
+<l>Hans Hund var ud af Stand at bieffe;</l>
+<l>Han bieffede for ham.</l>
+</lg>
+<lg>
+<l>Jeg holder det for Skam</l>
+<l>For Læseren at repetere,</l>
+<l>Hvad Skieldsord, Trudsler, Eed, han bieffede, med mere</l>
+</lg>
+<lg>
+<l>Omsonst den kiere Mand, som havde Panden deelt</l>
+<l>Ham vilde forestille:</l>
+<l>To halve Hoveder udgiør et heelt;</l>
+<l>Den anden mod Raison ei tage vilde,</l>
+<l>Og skiønt han fandt sig noget slagen</l>
+<l>Ved et saa fyndigt Argument,</l>
+<l>Han foranstaltede dog næste Dagen</l>
+<l>Den Tømmersvend en Stevning sendt.</l>
+</lg>
+<lg>
+<l>Ei denne lod sig forelægge,<note type="footnote"><hi rend="italic">lod sig forelægge</hi>, lod sig af Dommeren give Udsættelse.</note></l>
+<l>For Dommeren de mødte begge.</l>
+<l>Citanten mælede da først:</l>
+<l>&#x00AB;Han kunde jaget bort min Hund mod nogle Børst,</l>
+<l>Jeg selv da skulde sagt, han giorde vel,</l>
+<l>Men slaae mig Hunden reent ihiel,</l>
+<l>Og med sin Øxe paa ham Panden kløve,</l>
+<l>Og mig min beste Skat berøve,</l>
+<l>Det troer jeg vist, Hr. Dommer, straffes bør.&#x00BB;</l>
+<l>Hr. Dommer tog til Ords: &#x00AB;svar mig paa hvad jeg spør,</l>
+<l>Du Tømmersvend, hvorfor ei Skaftet tage,</l>
+<l>Og dermed Hunden fra dig jage?&#x00BB;</l>
+<l>Han svarede (først rømmende med Tugt):</l>
+<l>&#x00AB;Ifald han havde mig med Halen vildet bidt,</l>
+<l>Jeg Skaftet ei engang imod ham havde brugt,</l>
+<l>Men jaget ham med bare Hænder:</l>
+<l>Men Bæstet faldt mig an med skarpe Tænder.&#x00BB;</l>
+<l>Da kiendte Dommeren, saasnart han hørte det:</l>
+<l>&#x00AB;Skarpt imod skarpt, den Tømmersvend har Ret.</l>
+<l>Du Slagter, som har yppet Trætten,</l>
+<l>To Mark erlægger her i Retten.&#x00BB;</l>
+</lg>
+<figure rend="asterisk"/>
+<lg>
+<l>Jeg lovede vel i Fortalen</l>
+<l>At ikke røre ved Moralen;</l>
+<l>Dog Loven, siger man, er ærlig,</l>
+<l>Men Holden er besværlig.</l>
+<l>I Enden af mit Værk at strøe moralske Træk,</l>
+<l>Derefter var jeg før, os er endnu en Giæk.</l>
+<l>Moralen her skal kort, dog noget fyndig gives:</l>
+<l>Man ei om Bagatel maae med sin Næste kives.</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem" n="3">
+<head><ref type="contents" target="contents_3" xml:id="chapter_3">Smeden og Bageren</ref></head>
+<lg>
+<l>Der var en liden Bye, i Byen var en Smed,</l>
+<l>Som farlig var, naar han blev vred.</l>
+<l>Han sig en Fiende fik; (dem kan man altid faae,</l>
+<l>Jeg ingen har, det gaae</l>
+<l>Min Læser ligesaa!)</l>
+<l>Til Uhæld for dem begge to</l>
+<l>De træffes i en Kroe.</l>
+<l>De drak (jeg selv i Kroe vil drikke;</l>
+<l>For andet kommer jeg der ikke.</l>
+<l>Anmærk dog, Læser! dette:</l>
+<l>Jeg immer gaaer paa de honette.)</l>
+<l>Som sagt, de drak,</l>
+<l>Og efter mange Skieldsord, hidsigt Snak,</l>
+<l>Slaaer Smeden Fienden paa Planeten,</l>
+<l>Saa stærkt var dette Slag,</l>
+<l>At han saae ikke Dag,</l>
+<l>Og har ei siden seet'en.</l>
+</lg>
+<lg>
+<l>Strax i Arrest blev Smeden sat.</l>
+<l>En Feldskiær faaer den Døde fat,</l>
+<l>Og om en voldsom Død Attest hensender.</l>
+<l>Den Mordere forhøres og bekiender.</l>
+<l>Hans Haab var, at han skulle hisset gaae,</l>
+<l>Og der Forladelse af sin Modstander faae.</l>
+<l>Men hør nu Løier! netop Dagen,</l>
+<l>Før Dom skal gaae i Sagen,</l>
+<l>Fremtriner fire Borgere</l>
+<l>For Dommeren; den mest veltalende</l>
+<l>Ham saa tiltalede:</l>
+</lg>
+<lg>
+<l>&#x00AB;Velviseste!</l>
+<l>Vi veed, paa Byens Vel De altid see;</l>
+<l>Men Byens Vel beroer derpaa,</l>
+<l>At vi vor Smed igien maae faae.</l>
+<l>Hans Død opvækker jo dog ei den Døde?</l>
+<l>Vi aldrig faaer igien saa duelig en Mand.</l>
+<l>For hans Forbrydelse vi alt for grusomt bøde,</l>
+<l>Om han ei hielpes kan.&#x00BB; &#x2013;</l>
+<l>&#x00AB;Betænk dog, kiere Ven! der Liv for Liv maae bødes.&#x00BB; &#x2013;</l>
+<l>&#x00AB;Her boer en arm udlevet Bager,</l>
+<l>Som Pokker snart desuden tager.</l>
+<l>Vi har jo to, om man den ældste tog af dem?</l>
+<l>Saa blev jo Liv for Liv betalt.&#x00BB; &#x2013;</l>
+<l>&#x00AB;Ja,&#x00BB; sagde Dommeren, &#x00AB;det Indfald var ei galt.</l>
+<l>Jeg Sagen at opsette nødes;</l>
+<l>Thi i saa vigtigt Fald man maae sig vel betænke,</l>
+<l>Gid vores Smed jeg Livet kunde skienke!</l>
+<l>Farvel godt Folk! jeg giør alt, hvad jeg kan.&#x00BB; &#x2013;</l>
+<l>&#x00AB;Farvel velvise Mand!&#x00BB; &#x2013;</l>
+</lg>
+<lg>
+<l>Han bladrer i sin Lov omhyggelig;</l>
+<l>Men finder intet der for sig,</l>
+<l>Hvorved forbuden er, for Smed at rette Bager;</l>
+<l>Han sin Beslutning tager,</l>
+<l>Og saa afsiger denne Dom:</l>
+<l>(Hvem, som vil høre den, han kom!)</l>
+<l>&#x00AB;Vel er Grovsmeden Jens</l>
+<l>For al Undskyldning læns,</l>
+<l>Og her for Retten selv bekiendte,</l>
+<l>Han Anders Pedersen til Evigheden sendte;</l>
+<l>Men da i vores Bye en Smed vi ikkun have,</l>
+<l>Jeg maatte være reent af Lave,</l>
+<l>Ifald jeg vilde see ham død.</l>
+<l>Men her er to, som bager Brød.&#x00BB;</l>
+</lg>
+<lg>
+<l>&#x00AB;Thi kiender jeg for Ret:</l>
+<l><emph>Den ældste Bager skal undgielde det,</emph></l>
+<l><emph>Og for det skedte Mord med Liv for Liv bør bøde,</emph></l>
+<l><emph>Til velfortiente Straf for sig</emph></l>
+<l><emph>Og ligesindede til Afskye og til Skræk.</emph>&#x00BB;</l>
+</lg>
+<lg>
+<l>Den Bager græd Guds jammerlig,</l>
+<l>Da man ham førte væk.</l>
+</lg>
+<lg>
+<l><hi rend="bold">Moral.</hi></l>
+<l>Beredt til Døden altid vær!</l>
+<l>Den kommer, naar du mindst den tænker nær.</l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://www.nslnorge.no/tekster/NSL_texts.xsl"?>
+<!DOCTYPE TEI PUBLIC "-// NSL Norge //EN" "http://www.nslnorge.no/tekster/NSL_tei_xinclude.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="BS_Wergeland_UtvalgteDikt">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>bokselskap.no, 2011
+<lb/>Henrik Wergeland: <hi rend="italic">Utvalgte dikt</hi></title>
+</titleStmt>
+<publicationStmt><p>Publiseres som digital tekst av bokselskap.no.</p></publicationStmt>
+<sourceDesc>
+<p>Tekstene er hentet fra Dokumentasjonsprojektet/dokpro.uio.no: <hi rend="italic">Samlede Skrifter</hi>. 23 bind. Utgave ved Herman J&#x00E6;ger, Didrik Arup Seip, Halvdan Koht og Einar H&#x00F8;ig&#x00E5;rd. Steenske forlag, Kristiania/Oslo - 1918-1940.</p>
+</sourceDesc>
+</fileDesc>
+<revisionDesc>
+<change xml:id="ENW" who="ENW" when="2011-02-03">Kodet om filen til xml. Filen klar for korrektur.</change>
+</revisionDesc>
+</teiHeader>
+<text xml:id="BS_Wergeland_UtvalgteDikt_tekst" type="collection">
+<front>
+<titlePage type="main">
+<docTitle>
+<titlePart type="main">Utvalgte dikt</titlePart>
+</docTitle>
+<byline><docAuthor>Henrik Wergeland</docAuthor></byline>
+<docDate>1833&#x2013;45<note type="footnote"><p>Tekstene er hentet fra Dokumentasjonsprojektet/dokpro.uio.no: <hi rend="italic">Samlede Skrifter</hi>. 23 bind. Utgave ved Herman J&#x00E6;ger, Didrik Arup Seip, Halvdan Koht og Einar H&#x00F8;ig&#x00E5;rd. Steenske forlag, Kristiania/Oslo - 1918-1940.</p></note></docDate>
+</titlePage>
+<div type="chapter" subtype="illustration">
+<figure><graphic url="images/Wergeland.jpg"/></figure>
+</div>
+<div xml:id="contents">
+<list type="contents_main">
+<item><ref target="chapter_1" xml:id="contents_1">Til en Gran</ref></item>
+<item><ref target="chapter_2" xml:id="contents_2">Pigen paa Anatomikammeret</ref></item>
+<item><ref target="chapter_3" xml:id="contents_3">Den f&#x00F8;rste Sommerfugl</ref></item>
+<item><ref target="chapter_4" xml:id="contents_4">Med en Bouqvet</ref></item>
+<item><ref target="chapter_5" xml:id="contents_5">Efter Tidens Leilighed</ref></item>
+<item><ref target="chapter_6" xml:id="contents_6">Til Foraaret</ref></item>
+<item><ref target="chapter_7" xml:id="contents_7">Til min Gyldenlak</ref></item>
+<item><ref target="chapter_8" xml:id="contents_8">Den smukke Familie</ref></item>
+</list>
+</div>
+</front>
+<body>
+<div type="chapter" subtype="poem">
+<head><ref type="contents" target="contents_1" xml:id="chapter_1">TIL EN GRAN</ref> (1833)</head>
+<lg>
+<l>Bekrandste, h&#x00F8;ie &#x00C6;tling af</l>
+<l>den Gran, som f&#x00F8;rst de Gother gav</l>
+<l>den dj&#x00E6;rve Kunstmodel</l>
+<l>til Kathedral paa Kathedral,</l>
+<l>til Notredamens H&#x00F8;iportal,</l>
+<l>til M&#x00FC;nstren, til Vestminsterhal,</l>
+<l>til Pisas Taarn paaheld! &#x2013; &#x2013;</l>
+</lg>
+<lg>
+<l>Her i den skumle Dal forglemt</l>
+<l>Du s&#x00F8;rgende i Skyen gjemt</l>
+<l>din stolte Isse har.</l>
+<l>Du speider m&#x00F8;rkt derovenhen</l>
+<l>mod graneformte Taarn af Steen,</l>
+<l>og kjender sukkende igjen</l>
+<l>et Billed af din Far.</l>
+</lg>
+<lg>
+<l>Dig venter feige &#x00D8;x ved Rod.</l>
+<l>Som Herkules i Drageblod</l>
+<l>du d&#x00F8;er i seige Ild.</l>
+<l>Dog d&#x00F8;e du stolt, min Gran! thi vid:</l>
+<l>Europas Kraft ei r&#x00E6;kker did</l>
+<l>at forme sligen Pyramid,</l>
+<l>som v&#x00E6;re kan dit Bild.</l>
+</lg>
+<lg>
+<l>Klag ei; thi mangtet Hjerte, der</l>
+<l>Model for Himmeldomer er,</l>
+<l>ukjendt, i Pjalter slaaer.</l>
+<l>Tungsindig sidder paa sit Fjell,</l>
+<l>en ledig Helt, en ubrugt Tell;</l>
+<l>en Byron tidt, en Platos Sjel</l>
+<l>i Folkets Sv&#x00E6;rm forgaaer.</l>
+</lg>
+<lg>
+<l>Den Tell, i Brist af en Tyran,</l>
+<l>kun Spurv og Krage skyder han.</l>
+<l>Og Han, hvis Hjerne Sl&#x00F8;r</l>
+<l>for cherubinske Genius var,</l>
+<l>mens en Trompeter Krandsen bar,</l>
+<l>en Siljuqvist til Pibe skar</l>
+<l>for gode Folkes D&#x00F8;r.</l>
+</lg>
+<lg>
+<l>&#x2013; &#x2013; Min Gran! Du &#x00F8;dsler hen som Dem</l>
+<l>din H&#x00F8;ihed i dit skjulte Hjem</l>
+<l>i usel Veddekamp</l>
+<l>med lave Kirkespiir i Dal.</l>
+<l>&#x2013; &#x2013; Det Himlens Skuur! Du heller skal</l>
+<l>forgaae, Naturens Kathedral,</l>
+<l>i herostratisk Damp.</l>
+</lg>
+<lg>
+<l>Meer herligt Tempel staaer du der.</l>
+<l>Blyhvide Dome Skyen er.</l>
+<l>I Pavens Lateran</l>
+<l>ei straaler Kjerterad saa reen</l>
+<l>og fuld som din bedugg&#x0027;de Green.</l>
+<l>Hvor l&#x00F8;d en Messe from som den</l>
+<l>en Fugl sang i min Gran?</l>
+</lg>
+<lg>
+<l>Hvo mon i Tempelhv&#x00E6;lvet fandt</l>
+<l>Trop&#x00E6;er, Sejerherre vandt</l>
+<l>i mere &#x00E6;rlig Strid,</l>
+<l>end disse Fenniker forvist</l>
+<l>der perleglimre paa din Qvist,</l>
+<l>dem Kinglen i langvarig Tvist</l>
+<l>tilkj&#x00E6;mped sig af Flid?</l>
+</lg>
+<lg>
+<l>En vellugtopfyldt Dunkelhed,</l>
+<l>et Chor du har, et helligt Sted;</l>
+<l>men intet Billed der.</l>
+<l>Uskyldige Natur, som har</l>
+<l>dig reist, til Gud umiddelbar</l>
+<l>t&#x00F8;r tale, mens et Sonaltar</l>
+<l>den Faldnes Midler er.</l>
+</lg>
+<lg>
+<l>Af Stormen gjennemorgles Du</l>
+<l>med et Tedeums s&#x00F8;de Gru &#x2013; &#x2013;</l>
+<l>Tedeum!? &#x2013; &#x2013; Ak min Sjel,</l>
+<l>syng Psalmen med som synges der:</l>
+<l>&#x00AB;Naturens Tempel Himlens er;</l>
+<l>selv vesle Moseblomme skj&#x00E6;r</l>
+<l>et Himmelens Capel&#x00BB;.</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem">
+<head><ref type="contents" target="contents_2" xml:id="chapter_2">PIGEN PAA ANATOMIKAMMERET</ref> (1836)</head>
+<lg>
+<l>&#x2013; &#x2013; &#x2013; &#x2013; Jo det er Hende! O lys hid!</l>
+<l>Og slip ei Kniven end paaglid</l>
+<l>i denne Armes Hjerte!</l>
+<l>O, der er r&#x00E6;dsom Vittighed</l>
+<l>i Lampens Blik, som stirrer ned</l>
+<l>paa denne d&#x00F8;de Smerte.</l>
+</lg>
+<lg>
+<l>Saa kold dengang den aanded saae</l>
+<l>den stolte Verden jo derpaa?</l>
+<l>Og fr&#x00E6;kke &#x00D8;ine skar</l>
+<l>det Sl&#x00F8;r igjennem tidligt, som</l>
+<l>den stakkels Piges Fattigdom</l>
+<l>af gyldne Dr&#x00F8;mme bar.</l>
+</lg>
+<lg>
+<l>Som Blomst i Isen frosset ind</l>
+<l>jeg seer et Tr&#x00E6;k paa denne Kind,</l>
+<l>      som vel jeg b&#x00F8;r at kjende.</l>
+<l>Thi Fryden i min Barndomsleeg</l>
+<l>f&#x00F8;r altfor h&#x00F8;it min Skulder steeg</l>
+<l>&#x2013; &#x2013; o var den ikke Hende.</l>
+</lg>
+<lg>
+<l>Tvertsover boed&#x0027; Hun for os,</l>
+<l>i Armod f&#x00F8;dt som i sit Mos</l>
+<l>paa Taget Stedmorsblommen.</l>
+<l>Fornemme Folk kun fatted sv&#x00E6;rt,</l>
+<l>at Blod saa fagert og saa skj&#x00E6;rt</l>
+<l>af Fattigfolk var kommen.</l>
+</lg>
+<lg>
+<l>Ak, mangt sligt Aasyn dog jeg saae</l>
+<l>som Maanedsrosens Pragt forgaae,</l>
+<l>som Sommerfuglest&#x00F8;vet!</l>
+<l>Dem Skjebnens Haand for haardt vel tog</l>
+<l>og Syndens Spor dem overjog</l>
+<l>som Sneglens Sliim paa L&#x00F8;vet.</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem">
+<head><ref type="contents" target="contents_3" xml:id="chapter_3">DEN F&#x00D8;RSTE SOMMERFUGL</ref> (1837)</head>
+<lg>
+<l>Min Sommerfugl, flyv ind! flyv ind!</l>
+<l>Varm dig ved Vindurosens Kind!</l>
+<l>Tro Solen ei endnu! Dens Gl&#x00F8;den</l>
+<l>kun lokker trol&#x00F8;s dig i D&#x00F8;den.</l>
+</lg>
+<lg>
+<l>Paa Taget sidder traurig St&#x00E6;r;</l>
+<l>meer klog end du den veed det er</l>
+<l>ei Gr&#x00E6;s det blege Skj&#x00E6;r derude.</l>
+<l>Flyv ind og gjem dig bag min Rude!</l>
+</lg>
+<lg>
+<l>Det Regnbublink fra br&#x00E6;net Iis</l>
+<l>ei Kl&#x00F8;ver er og &#x00C6;renspriis;</l>
+<l>det Hvide, som langs Gj&#x00E6;rdet skinner</l>
+<l>ei Somrens Snefann af Jasminer.</l>
+</lg>
+<lg>
+<l>Flyv ind, du s&#x00F8;de lille Gjest!</l>
+<l>Vi begge feire vil en Fest.</l>
+<l>Du maa min f&#x00F8;rste Rose smage.</l>
+<l>Paa Qvisten blomstrer du tilbage.</l>
+</lg>
+<lg>
+<l>Flyv ind og s&#x00E6;t dig paa min Pen!</l>
+<l>Da bli&#x0027;r den from som du igjen;</l>
+<l>igjennem den skal mine Dr&#x00F8;mme</l>
+<l>i al din Uskylds Skj&#x00F8;nhed str&#x00F8;mme.</l>
+</lg>
+<lg>
+<l>Ak, mangen Sp&#x00E6;d af Guddoms&#x00E6;t</l>
+<l>ei finder aaben D&#x00F8;r saa let.</l>
+<l>Dog ligne dig, du Luftens Blomme,</l>
+<l>de Staklers Sjele, som forkomme.</l>
+</lg>
+<lg>
+<l>Men kom du Kr&#x00E6;, er det for koldt!</l>
+<l>Kom, Barn, om Verden er for stolt!</l>
+<l>Jeg er meer stolt end den; men eder,</l>
+<l>I Smaa, om Kj&#x00E6;rlighed jeg beder.</l>
+</lg>
+<lg>
+<l>&#x2013; &#x2013; Den f&#x00F8;rste Sommerfugl? Velan,</l>
+<l>kom ind, om i min Sjel du kan!</l>
+<l>Fra den er mange slige fl&#x00F8;jne</l>
+<l>med Vingen d&#x00E6;kt af gyldne &#x00D8;jne.</l>
+</lg>
+<lg>
+<l>Flyv ind! flyv ind! Jeg ene er,</l>
+<l>ei t&#x00E6;nker meer end du; kun seer</l>
+<l>hvor Solen kan til Leeg nedlade</l>
+<l>sig mellem Gyldenlakkens Blade.</l>
+</lg>
+<lg>
+<l>I aabne Vindu &#x00F8;der den</l>
+<l>sin Glands paa Planten, som igjen</l>
+<l>med trodsig Dunkelhed kun taaler</l>
+<l>i brudte og brunlig Glands dens Straaler.</l>
+</lg>
+<lg>
+<l>Flyv, f&#x00F8;rste Sommerfugl, flyv ind!</l>
+<l>Nei, flyv du efter eget Sind!</l>
+<l>Jeg sender mine og i Kulden.</l>
+<l>Bag mig de pynte engang Mulden.</l>
+</lg>
+<lg>
+<l>En Sommerfugl? Hvad mere smukt</l>
+<l>er til det Skabtes Skj&#x00F8;nhed brugt</l>
+<l>end Farven paa dens Vinge drysset,</l>
+<l>det Blomsterblad af Livet kysset?</l>
+</lg>
+<lg>
+<l>Som paa et f&#x00E6;rdigt Maleri</l>
+<l>det sidste Henstr&#x00F8;g af Geni</l>
+<l>du, f&#x00F8;rst da alt var skabt, blev givet</l>
+<l>af Skaberfantasien Livet.</l>
+</lg>
+<lg>
+<l>Gud saae hen paa det Skabtes Alt</l>
+<l>&#x2013; &#x2013; det stille stod som var det malt &#x2013; &#x2013;</l>
+<l>da l&#x00F8;d &#x00AB;se alt er godt!&#x00BB; &#x2013; &#x2013; da sv&#x00E6;vte</l>
+<l>fra Gr&#x00E6;s Du f&#x00F8;rst, og Alting levte.</l>
+</lg>
+<lg>
+<l>Og saa hvert Aar det skeer endnu.</l>
+<l>Det f&#x00F8;rste Vaarens Bud er du,</l>
+<l>Du melder f&#x00F8;rst, at Skaber&#x00F8;jet</l>
+<l>end seer udover Alt forn&#x00F8;jet.</l>
+</lg>
+<lg>
+<l>Flyv, f&#x00F8;rste Sommerfugl, flyv ind!</l>
+<l>Varm dig ved Vindurosens Kind!</l>
+<l>Tro Solen ei endnu! Dens Gl&#x00F8;den</l>
+<l>kun lokker trol&#x00F8;s dig i D&#x00F8;den.</l>
+</lg>
+<lg>
+<l>I Gyldenlakkens lune Skj&#x00F8;d</l>
+<l>du dr&#x00F8;mme dig en Dr&#x00F8;m saa s&#x00F8;d!</l>
+<l>Min Sjel sig ofte der neds&#x00E6;nker,</l>
+<l>og i sin Dr&#x00F8;m den herligst t&#x00E6;nker.</l>
+</lg>
+<lg>
+<l>Imorgen flyv da om du vil.</l>
+<l>Men kom blot naar det qveller til:</l>
+<l>det Solskin er kun Vintrens Smilen,</l>
+<l>den Lunkenhed kun Stormens Hvilen.</l>
+</lg>
+<lg>
+<l>For koldt jeg selv jo finder alt,</l>
+<l>de Andres Blod er mig for svalt.</l>
+<l>Mit eget maa jeg derfor &#x00F8;de.</l>
+<l>I Verdens Frost jeg ellers d&#x00F8;de.</l>
+</lg>
+<lg>
+<l>Oh, d&#x00F8;de ei; men skrumptes ind,</l>
+<l>blev Paul og Peder liig i Sind.</l>
+<l>Min Geist blev slig som den behager,</l>
+<l>og Digtets Flor en Kj&#x00F8;kkenager.</l>
+</lg>
+<lg>
+<l>Meer Varme tidt mit Hjerte fik</l>
+<l>af Hundens end af Vennens Blik,</l>
+<l>Men Avindsmands? o, der er Varme!</l>
+<l>Thi det opt&#x00E6;nder dog min Harme.</l>
+</lg>
+<lg>
+<l>Men mindre Ting har st&#x00F8;rre Gl&#x00F8;d:</l>
+<l>det f&#x00F8;rste Straa, som Vaaren skj&#x00F8;d,</l>
+<l>Skarlagnet paa en Flues Vinger</l>
+<l>i livsfro Flugt min Blodstr&#x00F8;m bringer.</l>
+</lg>
+<lg>
+<l>Kom, Sommerfugl! Jeg dig forstaar:</l>
+<l>Du venter paa en bedre Vaar.</l>
+<l>Du finder den hos mig; den naaes</l>
+<l>af Alle hvor de kun forstaaes.</l>
+</lg>
+<lg>
+<l>Engang hist i det Blaa for mig</l>
+<l>og kj&#x00E6;rligt Vindu aabner sig,</l>
+<l>naar Dagen er for kold mig bleven,</l>
+<l>om Sne ei er paa Issen dreven.</l>
+</lg>
+<lg>
+<l>Og der derbag da blommer vel</l>
+<l>en Rosenknop af Lys og Sjel.</l>
+<l>Fordi min f&#x00F8;rste jeg dig skj&#x00E6;nker,</l>
+<l>tillader Gud jeg did mig s&#x00E6;nker.</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem">
+<head><ref type="contents" target="contents_4" xml:id="chapter_4">MED EN BOUQVET</ref> (1838)</head>
+<lg>
+<l>Den har ei Sjel, som ikke troer,</l>
+<l>Naturen er en aaben Bog,</l>
+<l>at Mossens blege Klippeflor</l>
+<l>saa vel som Rosen har sit Sprog.</l>
+</lg>
+<lg>
+<l>Det kjender Du, min Elskte, vel.</l>
+<l>Du Dr&#x00F8;mmen seer i Klokkens Bund.</l>
+<l>Du fatter Liljens tause Sjel</l>
+<l>og Ordene fra Rosens Mund.</l>
+</lg>
+<lg>
+<l>Lad da din skj&#x00F8;nne Fantasi</l>
+<l>blandt Somrens Blomster sv&#x00E6;rme om!</l>
+<l>For Hende, Blomster, taler I!</l>
+<l>Hun er jo selv saa favr en Blom.</l>
+</lg>
+<lg>
+<l>Paa Morgenr&#x00F8;dens H&#x00F8;ie groe</l>
+<l>kun Roser lige hendes Kind,</l>
+<l>paa Lysets Bjerg, hvor Engle boe,</l>
+<l>kun Liljen reen som hendes Sind.</l>
+</lg>
+<lg>
+<l>Og ikkun hist, hvor Dagens Blaa</l>
+<l>frembryder som en Kilde klar,</l>
+<l>saa fagre Blaavioler staae</l>
+<l>som hendes s&#x00F8;de &#x00D8;ienpar.</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem">
+<head><ref type="contents" target="contents_5" xml:id="chapter_5">EFTER TIDENS LEILIGHED</ref> (1841)</head>
+<lg>
+<l>Stenen i Stefanens Pande &#x2013; &#x2013;</l>
+<l>Den er L&#x00F8;gnen mod det Sande.</l>
+<l>Taabelige, grumme Haand,</l>
+<l>som vil sigte paa en Aand!</l>
+<l>Ha, hvad Sejersglands, der bryder</l>
+<l>af det Saar, hvis Blodstr&#x00F8;m flyder!</l>
+</lg>
+<lg>
+<l>L&#x00F8;gnen kun Sekunden vinder.</l>
+<l>Intet Sandhedsord forsvinder.</l>
+<l>Som et Hvift af lette Lin</l>
+<l>l&#x00F8;sner styrtende Lavin,</l>
+<l>er Det nok til at begrave</l>
+<l>Verden, naar den er aflave.</l>
+</lg>
+<lg>
+<l>Men Det maa ei hviskes stille.</l>
+<l>Sandheds Ven ei blot maa ville.</l>
+<l>V&#x00E6;r i Et og Alt dig Selv!</l>
+<l>Det er Sejrens Kunst, min Sjel!</l>
+<l>Som Stefanen mellem Stene</l>
+<l>maa du staae, om selv alene.</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem">
+<head><ref type="contents" target="contents_6" xml:id="chapter_6">TIL FORAARET</ref> (1845)</head>
+<lg>
+<l>O Foraar! Foraar! red mig!</l>
+<l>Ingen har elsket dig &#x00F8;mmere end jeg.</l>
+</lg>
+<lg>
+<l>Dit f&#x00F8;rste Gr&#x00E6;s er mig meer v&#x00E6;rd end en Smaragd.</l>
+<l>Jeg kalder dine Anemoner Aarets Pryd,</l>
+<l>skj&#x00F8;ndt jeg nok veed, at Roserne ville komme.</l>
+</lg>
+<lg>
+<l>Ofte slyngede de Fyrige sig efter mig.</l>
+<l>Det var som at v&#x00E6;re elsket af Princesser.</l>
+<l>Men jeg flygtede: Anemonen, Foraarets Datter, havde min Tro.</l>
+</lg>
+<lg>
+<l>O vidn da, Anemone, som jeg fyrigen har kn&#x00E6;let for!</l>
+<l>Vidner, foragtede L&#x00F8;vetand og Leerfivel,</l>
+<l>at jeg har agtet eder meer end Guld, fordi I ere Foraarets B&#x00F8;rn!</l>
+</lg>
+<lg>
+<l>Vidn, Svale, at jeg gjorde Gj&#x00E6;stebud for dig som for et</l>
+<l>hjemkommet fortabt Barn, fordi du var Foraarets Sendebud.</l>
+</lg>
+<lg>
+<l>S&#x00F8;g disse Skyers Herre og bed, at de ikke l&#x00E6;nger maae ryste Naale</l>
+<l>ned i mit Bryst fra deres kolde blaa Aabninger.</l>
+</lg>
+<lg>
+<l>Vidn, gamle Tr&#x00E6;, hvem jeg har dyrket som en Guddom</l>
+<l>og hvis Knopper jeg hvert Foraar har talt ivrigere end Perler!</l>
+</lg>
+<lg>
+<l>Vidn Du, som jeg saa ofte har omfavnet</l>
+<l>med en S&#x00F8;nnes&#x00F8;nss&#x00F8;ns &#x00C6;rb&#x00F8;dighed for sin Oldefader.</l>
+<l>Ah ja, hvor tidt har jeg ikke &#x00F8;nsket at v&#x00E6;re en ung L&#x00F8;n</l>
+<l>af din ud&#x00F8;delige Rod og at blande min Krone med din!</l>
+</lg>
+<lg>
+<l>Ja, Gamle, vidn for mig! Du vil blive troet.</l>
+<l>Du er jo &#x00E6;rv&#x00E6;rdig som en Patriark.</l>
+</lg>
+<lg>
+<l>Bed for mig, skal jeg &#x00F8;se Viin paa dine R&#x00F8;dder</l>
+<l>og l&#x00E6;ge dine Ar med Kys.</l>
+</lg>
+<lg>
+<l>Din Krone maa alt v&#x00E6;re i sit fagreste Lysgr&#x00F8;nt,</l>
+<l>dine Blade alt suse derude.</l>
+</lg>
+<lg>
+<l>O Foraar! den Gamle raaber for mig, skj&#x00F8;ndt han er h&#x00E6;s.</l>
+<l>Han r&#x00E6;kker sine Arme mod Himlen, og Anemonerne,</l>
+<l>dine blaa&#x00F8;iede B&#x00F8;rn, kn&#x00E6;le og bede at du skal</l>
+<l>redde mig &#x2013; &#x2013; mig, der elsker dig saa &#x00F8;mt.</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem">
+<head><ref type="contents" target="contents_7" xml:id="chapter_7">TIL MIN GYLDENLAK</ref> (1845)</head>
+<lg>
+<l>Gyldenlak, f&#x00F8;r Du din Glands har tabt,</l>
+<l>da er jeg Det hvoraf Alt er skabt;</l>
+<l>ja f&#x00F8;r Du mister din Krones Guld,</l>
+<l>da er jeg Muld.</l>
+</lg>
+<lg>
+<l>Idet jeg raaber: med Vindvet op!</l>
+<l>mit sidste Blik faar din Gyldentop.</l>
+<l>Min Sjel dig kysser, idet forbi</l>
+<l>den flyver fri.</l>
+</lg>
+<lg>
+<l>Togange jeg kysser din s&#x00F8;de Mund.</l>
+<l>Dit er det f&#x00F8;rste med Rettens Grund.</l>
+<l>Det andet give du, Kj&#x00E6;re husk,</l>
+<l>min Rosenbusk!</l>
+</lg>
+<lg>
+<l>Udsprungen faaer jeg den ei at see;</l>
+<l>thi bring mig Hilsen, naar det vil skee;</l>
+<l>og siig, jeg &#x00F8;nsker, at paa min Grav</l>
+<l>den blomstrer af.</l>
+</lg>
+<lg>
+<l>Ja siig, jeg &#x00F8;nsker, at paa mit Bryst</l>
+<l>den Rose laa, du fra mig har kyst;</l>
+<l>og, Gyldenlak, v&#x00E6;r i D&#x00F8;dens Huus</l>
+<l>dens Brudeblus!</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem">
+<head><ref type="contents" target="contents_8" xml:id="chapter_8">DEN SMUKKE FAMILIE</ref> (1845)</head>
+<lg>
+<l>M&#x00E6;rkv&#x00E6;rdigt! O, meer end M&#x00E6;rkv&#x00E6;rdigt! Vidunder! Vidunder!</l>
+<l>O, at mine Kn&#x00E6; aarkede at b&#x00F8;je sig for at tilbede!</l>
+</lg>
+<lg>
+<l>Min Sjel har slaaet sine Vinger sammen;</l>
+<l>den kn&#x00E6;ler ligesom i et tilhyllet Kapel;</l>
+<l>thi mine &#x00D8;ine have lukket sig over det Syns Herlighed,</l>
+<l>jeg har havt.</l>
+</lg>
+<lg>
+<l>&#x00AB;Se dog&#x00BB; &#x2013; &#x2013; sagde jeg til min Viv &#x2013; &#x2013; &#x00AB;maaske gj&#x00F8;r jeg Rosen Uret.</l>
+<l>Kanske dog een er udsprungen inat.&#x00BB;</l>
+</lg>
+<lg>
+<l>&#x00AB;Een fuldtudsprungen!&#x00BB; &#x2013; &#x2013; raabte hun slaaende sine H&#x00E6;nder</l>
+<l>sammen &#x2013; &#x2013; &#x00AB;og sex halvtudsprungne omkring.&#x00BB;</l>
+</lg>
+<lg>
+<l>&#x00AB;O hvilken smuk Familie!&#x00BB; sagde jeg.</l>
+<l>&#x00AB;Den Fuldtudsprungne er som en Moder mellem sine D&#x00F8;ttre.&#x00BB;</l>
+</lg>
+<lg>
+<l>Vidunder! Himmelens Vidunder!</l>
+<l>I den st&#x00F8;rste Rose sad der en Matrone, ikke st&#x00F8;rre end en Humle,</l>
+<l>og kl&#x00E6;dt som den i Gyldenstykkes Tr&#x00F8;je og sort Skj&#x00F8;rt</l>
+<l>og spandt nogle fine St&#x00F8;vtraade ud af en Blomsterkolbe til Teen.</l>
+</lg>
+<lg>
+<l>&#x00AB;Srrr Stille!&#x00BB; sagde hun. &#x00AB;Aabn med et Kys de sex</l>
+<l>halvtudsprungne af disse Roser, skal du faa se mine sex &#x00E6;ldste D&#x00F8;ttre.</l>
+</lg>
+<lg>
+<l>Vi ere G&#x00E9;nier, Englenes Tjenerinder.</l>
+<l>Alle Vi ere i din Moders Tjeneste.</l>
+<l>Hun har sendt os for at forf&#x00E6;rdige den Dragt,</l>
+<l>hvori din Sjel skal fare hen.&#x00BB;</l>
+</lg>
+<lg>
+<l>Jeg aabnede, som befalet, den ene Rose efter den anden.</l>
+<l>I hver af dem sad en Genius, herligere kl&#x00E6;dt end Guldbillen.</l>
+<l>Alle arbeidede de som Moderen.</l>
+</lg>
+<lg>
+<l>Ansigterne syntes mig bekjendte.</l>
+<l>De syntes mig at v&#x00E6;re afd&#x00F8;de Elsktes.</l>
+</lg>
+<lg>
+<l>&#x00AB;Se hvilken herlig rosafarvet Tunika, du skal faa!&#x00BB;</l>
+<l>sagde den F&#x00F8;rste.</l>
+</lg>
+<lg>
+<l>&#x00AB;Frygt ikke for at den er for liden,&#x00BB; sagde den Anden.</l>
+<l>&#x00AB;Saasnart den kommer ud under fri Himmel, udvides den.&#x00BB;</l>
+</lg>
+<lg>
+<l>&#x00AB;Jeg toer dit Skj&#x00E6;rf&#x00BB;, sagde den Tredie, toende nogle fine gyldne</l>
+<l>Traade i en Duggdraabe.</l>
+</lg>
+<lg>
+<l>&#x00AB;Og Jeg! og Jeg,&#x00BB; sagde de Andre eftersom jeg kom til dem,</l>
+<l>&#x00AB;Se her! Se her!&#x00BB;</l>
+</lg>
+<lg>
+<l>Og En lavede Rosenolje til at sm&#x00F8;re de fine Fjer med,</l>
+<l>som de sagde Sjelen allerede nu bar.</l>
+</lg>
+<lg>
+<l>En syede paa et Par Sandaler, der saae ud som et Par af de</l>
+<l>smaa hule fine Blade i Rosens Indre.</l>
+<l>&#x00AB;Med dem kan du tr&#x00E6;de paa Solens Gl&#x00F8;dbund&#x00BB; sagde hun</l>
+<l>og syede og syede med en Syl ikke st&#x00F8;rre end en Mygs Brodd.</l>
+</lg>
+<lg>
+<l>Den Sjette sad med H&#x00E6;nderne i Skj&#x00F8;det.</l>
+<l>&#x00AB;Jeg er alt f&#x00E6;rdig&#x00BB; sagde hun: &#x00AB;Min Moder har alt faaet</l>
+<l>mit Spind, og saa kan jeg da sladdre lidt.&#x00BB;</l>
+</lg>
+<lg>
+<l>&#x00AB;Men kjender du mig ikke? Jeg er det fattige Barn,</l>
+<l>som du &#x00F8;nskede var dit.&#x00BB;</l>
+</lg>
+<lg>
+<l>&#x00AB;Se!&#x00BB; sladdrede hun. &#x00AB;Vi ere flere end syv.</l>
+<l>Vi ere Een og Tyve.&#x00BB; Og til min Forbauselse t&#x00E6;llede jeg</l>
+<l>fjorten Knopper til.</l>
+</lg>
+<lg>
+<l>&#x00AB;F&#x00F8;rst naar den Sidste aabner sig,&#x00BB; vedblev Hun,</l>
+<l>&#x00AB;&#x00F8;nske vi Du skal flyve med til Himlen, og Du skal se,</l>
+<l>hvor smukke og store vi blive i Flugten.&#x00BB;</l>
+</lg>
+<lg>
+<l>&#x00AB;I den sidste Knop ligger kun en Kanarifugl, ikke st&#x00F8;rre end et</l>
+<l>Bygkorn, og en h&#x00F8;ir&#x00F8;d Dompap, ikke st&#x00F8;rre end en Granat.&#x00BB;</l>
+</lg>
+<lg>
+<l>&#x00AB;Din Moder sender dem for at Du kan se, at Du tr&#x00E6;ffer Alle</l>
+<l>igjen i Himlen, som Du har elsket, endog det Mindste.</l>
+<l>De s&#x00F8;de Smaa skulle flyve med os tilbage.&#x00BB;</l>
+</lg>
+<lg>
+<l>&#x00AB;Naar Hjertet h&#x00E6;ves til Herligheden, f&#x00E6;ster ogsaa det uskyldige</l>
+<l>Jordiske, det har elsket, sig til det som til en Magnet . . .&#x00BB;</l>
+</lg>
+<lg>
+<l>&#x00AB;Tys!&#x00BB; hviskede den s&#x00F8;de Sladdrerske.</l>
+<l>Jeg forraader af Himmelens Religion.&#x00BB;</l>
+</lg>
+<lg>
+<l>&#x00AB;Dog vil jeg sige Dig, at Du skal faa se din Hest om du l&#x00E6;nges.</l>
+<l>Du skal synes, at Du l&#x00E6;gger din Haand paa hans Hals.</l>
+</lg>
+<lg>
+<l>I en Skydal skal Du se ham spise Nelliker tilh&#x00F8;ire</l>
+<l>og Levk&#x00F8;jer tilvenstre.</l>
+</lg>
+<lg>
+<l>&#x00AB;Vil Du endnu engang tumle den;</l>
+<l>nu vel! Himlen har vide Sletter.&#x00BB;</l>
+</lg>
+<lg>
+<l>&#x00AB;Det vil gl&#x00E6;de din Moder, at du ikke har glemt hendes</l>
+<l>Yndling, som hun saa ofte har klappet.</l>
+<l>Hun har fortalt os, at Brunen hver Dag kom til hendes Vindu</l>
+<l>og saae med de kloge &#x00D8;ine paa hende</l>
+<l>til den venlige Haand kom ud.</l>
+<l>Visselig, hendes Hjerte vil banke af Fryd over din Fart paa ham,</l>
+<l>thi hun veed at dit fryder sig, naar du spr&#x00E6;nger opad</l>
+<l>et af Tordenens Bjerge eller over Lynildens Str&#x00F8;mme.&#x00BB;</l>
+</lg>
+<lg>
+<l>&#x00AB;Nu har jeg talt. Lad nu Rosen lukke sig for jeg tr&#x00E6;nger</l>
+<l>til Hvile efter mit Arbeide.</l>
+<l>Kun det endnu: saasnart den sidste Knop har aabnet sig,</l>
+<l>falde vore Arbeidsceller sammen og vi ile tilbage til din Moder</l>
+<l>med den himmelske Dragt, hun vil skj&#x00E6;nke sin F&#x00F8;rstef&#x00F8;dte.&#x00BB;</l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>
