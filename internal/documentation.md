@@ -63,3 +63,13 @@ generate.py is OS dependent (written for windows path), need to scale for unix s
 
 ---
 added demotools for yes, tools that we want to demonstrated
+
+---
+3/19/2017
+Repo reorganization. 
+
+Make parent folders for each data source, each containing a folder for plain, markup and metadata.
+
+Make parent folder for tools containing scrips.
+
+Make internal folder for e.g. tasklist.md, documetation.md and mess.
