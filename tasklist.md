@@ -37,8 +37,8 @@ We have one mantra only: *if in doubt, ask*. Bad communication ruins more projec
 - Upload ADL_metadata.txt (tab delim, utf-8) file to CLEAR main folder.  
 - Write a query script in R or Python that when CLEAR is cloned locally allows the user to generate a corpus for a specific author (all texts by an author author in data_adl) in a new folder by inputting the author's surname (first name in third column of ADL_metadata).
 - Work on a xml2txt script (see xml2txt.md for a spaghetti example)
-- **functions in preprocessing module**
-	1. tokenization in uni- to n-grams, a function that tokenize a string into words and multi-word strings, e.g.,
+**functions in preprocessing module**  
+1: tokenization in uni- to n-grams, a function that tokenize a string into words and multi-word strings, e.g.,
 
 ```python
 >>> s = 'this is a string'
@@ -55,7 +55,7 @@ We have one mantra only: *if in doubt, ask*. Bad communication ruins more projec
 ['this is a string']
 ```
 
-	2. removal of non-alphanumeric characters with regex, a function that removes non non-alphanumeric characters based on *re*, e.g.,
+2: removal of non-alphanumeric characters with regex, a function that removes non non-alphanumeric characters based on *re*, e.g.,
 
 ```python
 >>> s = 'this is f@*cking cool!!!'
@@ -63,13 +63,17 @@ We have one mantra only: *if in doubt, ask*. Bad communication ruins more projec
 'this is fcking cool'
 ```
 
-	3. basic rule-based and language-specific stemmer,
+3: basic rule-based and language-specific stemmer,
 
 ```python
-# add code for Zehui
+from nltk.stem.snowball import SnowballStemmer
+def stem_list(docstoken, lang = 'english'):
+	stemmer = SnowballStemmer(lang, ignore_stopwords = True)
+    docsstem = [[stemmer.stem(w) for w in token] for token in docstoken]
+    return docsstem
 ```
 
-	4. lemmatization, function for using WordNet's lemmatizer with specific language on tokenized list (unigrams), (some spaghetti that you can use, notice that we need to translate Treebank tags to WordNet in order to get word class, otherwise the lemmatizer would treat all words as nouns)
+4: lemmatization, function for using WordNet's lemmatizer with specific language on tokenized list (unigrams), (some spaghetti that you can use, notice that we need to translate Treebank tags to WordNet in order to get word class, otherwise the lemmatizer would treat all words as nouns)
 
 ```python
 ## lemmatize with NLTK & POS tags from WordNet
@@ -100,8 +104,9 @@ def vanilla_lemmatizer(unigrams):
 
 ```
 
-- **functions in basic_stats module**
-	1. Word frequency dictionary, function that generates a dictionary with word: word frequency mapping for a string and a list of strings
+**functions in basic_stats module**
+
+1: Word frequency dictionary, function that generates a dictionary with word: word frequency mapping for a string and a list of strings
 
 ```python
 >>> s = 'a rose is a rose is a rose!'
@@ -112,7 +117,7 @@ def vanilla_lemmatizer(unigrams):
 {'a': 5, 'rose': 3, 'is': 3, 'and': 1, 'stone': 2}
 ```
 
-	2. stoplist generation, function that export the top *n* most frequent words to a string or list of strings to a comma-separated txt called *stopwords_n.txt* where n is the number of words in the file
+2: stoplist generation, function that export the top *n* most frequent words to a string or list of strings to a comma-separated txt called *stopwords_n.txt* where n is the number of words in the file
 
 ```python
 >>> l = [['a rose is a rose is a rose'],['and a stone is a stone']]
@@ -122,8 +127,8 @@ def vanilla_lemmatizer(unigrams):
 # is the same as gen_stopwords(l,3) in this case
 ```
 
-- **functions in information_retrieval module**
-	1. Document term matrix in list, function that generate a matrix with term frequencies, where rows represent documents and columns words alphabetically sorted. Use list type, not numpy array. The function should also generate a list with the lexicon/column names
+**functions in information_retrieval module**  
+1: Document term matrix in list, function that generate a matrix with term frequencies, where rows represent documents and columns words alphabetically sorted. Use list type, not numpy array. The function should also generate a list with the lexicon/column names
 
 ```python
 >>> l = [['a rose is a rose is a rose'],['and a stone is a stone']]
@@ -133,8 +138,6 @@ def vanilla_lemmatizer(unigrams):
 >>> print lex
 ['a','and','is','rose','stone']
 ```
-
-
 
 
 ## Line & Zehui ##
