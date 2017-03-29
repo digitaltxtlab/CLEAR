@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>MENIGHEDS-FARVEL TIL FRU LOUISE NEERGAARD</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-26"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="020"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1866">1866</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1866_20_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">MENIGHEDS-FARVEL<lb/>TIL</titlePart>
+	<titlePart type="sub">FRU LOUISE NEERGAARD<lb/></titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<docEdition>DEN 19. DECEMBER 1866.</docEdition>
+				<docImprint>
+				<pubPlace></pubPlace>.
+<fw type="graphic"/>
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<pb facs="1866_20_page0002.png"/>
+<fw type="pageNum"></fw>
+<p><hi rend="align(center)">Mel. Op al den Ting, som Gud har gjort.</hi></p>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">L</hi>ouise Neergaard, vennesæl</l>
+<l>Som Faa paa Blomster-Tue,</l>
+<l>Du giæstet har os seent i Kvæld</l>
+<l>Som Riddertidens Frue.</l>
+</lg>
+<lg>
+<l>Du gik da bort saa stille, tyst</l>
+<l>Som Sol om Vinterdage!</l>
+<l>Saa skulde da ei aabenlyst</l>
+<l>Dig vort Farvel ledsage!</l>
+</lg>
+<lg>
+<l>Dog hans Farvel paa Livets Vei,</l>
+<l>Som da bar ømt modtaget,</l>
+<l>Vor <hi rend="spaced">Frelsers</hi> fattedes du ei,</l>
+<l>Det har dig bedst ledsaget!</l>
+</lg>
+<lg>
+<l>Dog lyde skal fra Vennefavn,</l>
+<l>Hvor dine Fodspor skinne,</l>
+<l>Et glad Farvel i <hi rend="spaced">Jesu</hi> Navn,</l>
+<l>Livsalige Veninde!</l>
+</lg> 
+<pb facs="1866_20_page0003.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Dit Hjertes Øine var opladt</l>
+<l>Som faa, for Aandens Rige,</l>
+<l>Til gjennem Verdens Vinternat</l>
+<l>I Paradis at kige.</l>
+</lg>
+<lg>
+<l>Farvel, hilsæl! nu seer du ham,</l>
+<l>Som gav os Lys og Størke,</l>
+<l>Den Hyrde god, hvis Dæggelam</l>
+<l>Skal aldrig gaae i Mørke!</l>
+</lg>
+<lg>
+<l>Imens din Lovsang byder Trods</l>
+<l>Til alle Toner døde,</l>
+<l>Vor Lovsang takker »Gud med os«</l>
+<l>For Tungerne, som gløde!</l>
+</lg>
+<lg>
+<l>Og fælles er vor Lovsang sød</l>
+<l>I Kiærlighedens Rige,</l>
+<l>For <hi rend="spaced">Guddoms-Ordet</hi>, som blev Kiød,</l>
+<l>Er Aand og Liv tillige!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

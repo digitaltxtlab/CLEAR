@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>FESTEN for Adam Oehlenschlæger.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-22"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="011"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1849">1849</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1849_11_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">FESTEN<lb/>for</titlePart>
+	<titlePart type="sub">Adam Oehlenschlæger.<lb/></titlePart>
+</docTitle>
+<byline><lb/><lb/>
+	<docAuthor><lb/></docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<docEdition>Den 14. November 1849.</docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace></pubPlace>.<lb/>Trykt hos Kgl. Hofbogtrykker Bianco Luno.<lb/>
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<pb facs="1849_11_page0002.png"/>
+<fw type="pageNum">10</fw>
+</div>
+<div>
+<head>Den nordiske Enighed.</head>
+<fw type="graphic"/>
+<p><hi rend="align(center)"><hi rend="italic">(Som: "Unge Gjenbyrds-Liv i Norden".)</hi></hi></p>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="italic"><hi rend="initial">E</hi>nigheden i vort Norden</hi></l>
+<l><hi rend="italic">Loke vel har længe spildt,</hi></l>
+<l><hi rend="italic">Haab om den ved Lyn og Torden,</hi></l>
+<l><hi rend="italic">Det var ogsaa alt for vildt;</hi></l>
+<l><hi rend="italic">Men ved Mindekvad af Brage,</hi></l>
+<l><hi rend="italic">Ved Guldstrængens gamle Klang,</hi></l>
+<l><hi rend="italic">Vender Enighed tilbage,</hi></l>
+<l><hi rend="italic">Alt som Vaar ved Fuglesang.</hi></l>
+</lg>
+<lg>
+<l><hi rend="italic">Enighed paa <hi rend="spaced">Nordens</hi> Tunger</hi></l>
+<l><hi rend="italic">Det er ikke hip som hap,</hi></l>
+<l><hi rend="italic">Men som Vaarens Fugle sjunger</hi></l>
+<l><hi rend="italic">Med sit Næb enhver omkap,</hi></l>
+<l><hi rend="italic">Enes dog om lydt at love</hi></l>
+<l><hi rend="italic">Livets Fryd og Vaarens Glands,</hi></l>
+<l><hi rend="italic">Himlen blaa med grönne Skove,</hi></l>
+<l><hi rend="italic">Engens favre Blomsterkrands.</hi></l>
+</lg> 
+<pb facs="1849_11_page0003.png"/>
+<fw type="pageNum">11</fw>
+<lg>
+<l><hi rend="italic">Enes saa skal Nordens Skjalde,</hi></l>
+<l><hi rend="italic">Saa og Nordens Folkefærd;</hi></l>
+<l><hi rend="italic">Med sit Navn skal hver sig kalde,</hi></l>
+<l><hi rend="italic">Saa det hores fjern og nær,</hi></l>
+<l><hi rend="italic">Enes godt dog om at prise</hi></l>
+<l><hi rend="italic">Alt, hvad Livet blomstrer ved,</hi></l>
+<l><hi rend="italic">Enes altid om at vise</hi></l>
+<l><hi rend="italic">Nordisk <hi rend="spaced">Broder-Kjærlighed</hi>.</hi></l>
+</lg>
+<lg>
+<l><hi rend="italic">Og som alle Sangens Fugle</hi></l>
+<l><hi rend="italic">Fælles Sag mod Hög og Örn,</hi></l>
+<l><hi rend="italic">Gjör Fostbrödrene i Thule</hi></l>
+<l><hi rend="italic">Fælles Sag mod Ulv og Björn,</hi></l>
+<l><hi rend="italic">Fælles Sag med Lovebanner,</hi></l>
+<l><hi rend="italic">Friheds Sag i ædel Pagt,</hi></l>
+<l><hi rend="italic">Mod al Jorderigs Tyranner,</hi></l>
+<l><hi rend="italic">Vold og Svig i hver en Dragt</hi></l>
+</lg>
+<lg>
+<l><hi rend="italic">Held os, Venner! <hi rend="spaced">Asa-Brage</hi></hi></l>
+<l><hi rend="italic">Slog Guldharpen midt blandt os,</hi></l>
+<l><hi rend="italic">Gjör det end paa gamle Dage,</hi></l>
+<l><hi rend="italic"><hi rend="spaced">Fimbul-Vinter</hi> en til Trods.</hi></l>
+<l><hi rend="italic">Derom skal i Sang og Sage</hi></l>
+<l><hi rend="italic">Ry med Roes gaae op og ned,</hi></l>
+<l><hi rend="italic">Med os klinker <hi rend="spaced">Asa-Brage</hi>:</hi></l>
+<l><hi rend="italic">Skaal for <hi rend="spaced">Nordens Enighed</hi>.</hi></l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

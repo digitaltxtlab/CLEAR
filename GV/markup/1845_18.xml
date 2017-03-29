@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>3 Digte i Dansk Folkekalender for 1846</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-14"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="018"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1845">1845</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1845_18_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main"></titlePart>
+</docTitle>
+<byline></byline>
+				<fw type="graphic"/>
+				<epigraph>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<pb facs="1845_18_page0002.png"/>
+<fw type="pageNum">3</fw>
+<head>Thor.</head>
+<lg>
+<l>Velkommen fra <hi rend="spaced">Thrudvang</hi>, du stærke Thor!</l>
+<l>Men sæt dig nu ikke til Sæde!</l>
+<l>Til staaende Kæmper vi trænge i Nord,</l>
+<l>Som sætter i Daad deres Glæde.</l>
+</lg>
+<lg>
+<l>Omgjord dig med Bæltet, du bar i <hi rend="spaced">Vimaa</hi>!</l>
+<l>Som <hi rend="spaced">der</hi>, sig nu Bølgerne taarne,</l>
+<l>Og vore omkap med dem alle du maa,</l>
+<l>Som Fløimanden sor de Høibaarne.</l>
+</lg>
+<lg>
+<l>Den Hammer, du laande, flet ikke forstaaer,</l>
+<l>Den ei smedded <hi rend="spaced">Broke og Sindre</hi>;</l>
+<l>Din <hi rend="spaced">Mjølner</hi> du hente, hvordan det saa gaaer!</l>
+<l>Vi kan ikke nøies med mindre.</l>
+</lg>
+<lg>
+<l>Og hvor har du Staven, som alt i Aar,</l>
+<l>Du uden al Tvivl kan behøve,</l>
+<l>Naar Hexenes Rygge i <hi rend="spaced">Geirrodsgaard</hi></l>
+<l>Din Styrke i Sædet vil prøve!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+<pb facs="1845_18_page0003.png"/>
+<fw type="pageNum"></fw> 
+<pb facs="1845_18_page0004.png"/>
+<fw type="pageNum">5</fw>
+<fw type="graphic"/>
+</div>
+<div>
+<head>Heimdal.</head>
+<fw type="graphic"/>
+<lg>
+<l>Velkommen, du Vogter for <hi rend="spaced">Gudhjem</hi> grøn,</l>
+<l>Med Hornet, al Verden kan hore!</l>
+<l>Velkommen, du vise Nidronning-Søn,</l>
+<l>Som arved det fineste Vre!</l>
+</lg>
+<lg>
+<l>Brug ikke saa ivrig din Kæmpe-Lur!</l>
+<l>Giv Tid, mens de Gamle udsove!</l>
+<l>Thi <hi rend="spaced">Muspels</hi> Sønner bag Trolde-Mur</l>
+<l>End ei tør det yderste vove.</l>
+</lg>
+<lg>
+<l>Læg <hi rend="spaced">Gjallarhornet</hi>! bind om dit Sværd!</l>
+<l>Viis, <hi rend="spaced">Hoved</hi> det hedder med Rette!</l>
+<l>Dig bydes en Tvekamp, al Ære værd,</l>
+<l>Det er ingen Kiællinge-Trætte.</l>
+</lg>
+<lg>
+<l>I Tvekamp med <hi rend="spaced">Loke</hi> om <hi rend="spaced">Brysingbaand</hi></l>
+<l>Du veed nok, din Krone maa vindes;</l>
+<l>Beviis ham nu klarlig, med Mund og Haand,</l>
+<l>Han falder, hvis ikke det findes!</l>
+</lg>
+<p><hi rend="align(right)">R. F. S. Grundtvig</hi></p>
+<pb facs="1845_18_page0005.png"/>
+<fw type="pageNum"></fw> 
+<pb facs="1845_18_page0006.png"/>
+<fw type="pageNum"></fw>
+</div>
+</body>
+</text>
+</TEI>

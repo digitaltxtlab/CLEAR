@@ -1,0 +1,928 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://www.nslnorge.no/tekster/NSL_texts.xsl"?>
+<!DOCTYPE TEI PUBLIC "-// NSL Norge //EN" "http://www.nslnorge.no/tekster/NSL_tei_xinclude.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="BS_Brun_UtvalgteDikt">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>bokselskap.no, 2011
+<lb/>Johan Nordahl Brun: <hi rend="italic">Utvalgte dikt</hi></title>
+</titleStmt>
+<publicationStmt><p>Publiseres som digital tekst av bokselskap.no.</p></publicationStmt>
+<sourceDesc>
+<p>(mottatt fra Universitetet i Oslo/dokpro.uio.no 2010).</p>
+</sourceDesc>
+</fileDesc>
+<revisionDesc>
+<change xml:id="ENW" who="ENW" when="2011-03-08">Kodet om filen til xml. Kodekontroll.</change>
+</revisionDesc>
+</teiHeader>
+<text xml:id="BS_Brun_UtvalgteDikt_tekst" type="collection">
+<front>
+<titlePage type="main">
+<byline><docAuthor>Johan Nordahl Brun</docAuthor></byline>
+<docTitle>
+<titlePart type="main">Utvalgte dikt</titlePart>
+</docTitle>
+<docDate>1769&#x2013;91<note type="footnote">Tekstene i bokselskap.no er basert på tekster liggende hos Universitetet i Oslo/dokpro.uio.no. Dokpros tekst er hentet fra: Johan Nordahl Brun: <hi rend="italic">Mindre digte</hi>. Udgivne af hans S&#x00F8;n C. Brun, 2. og for&#x00F8;g. Udg. Christiania, 1818.</note></docDate>
+</titlePage>
+<div type="chapter" subtype="illustration">
+<figure><graphic url="JohanNordahlBrun.jpg"/></figure>
+</div>
+<div xml:id="contents">
+<list type="contents_main">
+<item><ref target="chapter_1" xml:id="contents_1">Naturens Navnedag</ref></item>
+<item><ref target="chapter_2" xml:id="contents_2">Norges Herlighed</ref></item>
+<item><ref target="chapter_3" xml:id="contents_3">Den norske Vinter</ref></item>
+<item><ref target="chapter_4" xml:id="contents_4">Norges Skaal</ref></item>
+<item><ref target="chapter_5" xml:id="contents_5">Min Smag</ref></item>
+<item><ref target="chapter_6" xml:id="contents_6">Til en ung reisende Ven</ref></item>
+<item><ref target="chapter_7" xml:id="contents_7">Udsigter fra Ulrikken</ref></item>
+</list>
+</div>
+</front>
+<body>
+<div type="chapter" subtype="poem" n="1">
+<head><ref type="contents" target="contents_1" xml:id="chapter_1">NATURENS NAVNEDAG</ref></head>
+<note type="commentary">Diktet er skrevet i 1769 og har undertittelen: &#x00AB;i Anledning af Skabelsens 2 Cap. 19 Vers, for at lyk&#x00F8;nske Hans H&#x00F8;i&#x00E6;rv&#x00E6;rdigheds Hr. Biskop Gunneri Hjemkomst fra sin Nordlandske Reise&#x00BB;.</note>
+<lg>
+<l>Du Tidens &#x00E6;ldste S&#x00F8;n, Naturens F&#x00F8;dselsdag!</l>
+<l>Da Morgenstjerner sang Alfaders Velbehag,</l>
+<l>Da frem af svangert Skj&#x00F8;d hver Skabnings F&#x00F8;rstef&#x00F8;dde</l>
+<l>Med Yndest kronet, gik sin f&#x00E6;lles Ven i M&#x00F8;de;</l>
+<l>Da hver, ved Livet glad det f&#x00F8;rste Offer bar,</l>
+<l>Og kyste frydefuld den Haand, ham dannet har.</l>
+<l>O! stolte Dag! opliv endnu min matte Sang!</l>
+<l>Og siig mig, hvad Du saae, da Solen f&#x00F8;rste Gang</l>
+<l>Med Majest&#x00E6;tisk Pragt din Herlighed forklarte,</l>
+<l>Og Viisdoms Vunderverk paa Jorden aabenbarte;</l>
+<l>Da selv Naturen stod af Skj&#x00F8;nhed funklende,</l>
+<l>Og med et himmelsk Smiil sin Skaber hilsede.</l>
+</lg>
+<lg>
+<l>Naar kolde Norden har sin hvide S&#x00F8;rgedragt</l>
+<l>Omskiftet med en ny og bundtet Foraars-Pragt;</l>
+<l>Naar Liv og Kj&#x00F8;lighed paa &#x00D8;sten-Vindens Vinger</l>
+<l>Sig gjennem trange Dal til tr&#x00E6;tte Landsmand svinger;</l>
+<l>Naar Jordens skjulte Skat frivillig voxer op,</l>
+<l>Og H&#x00F8;stens rige Haab staaer tegnet paa hver Knop;</l>
+<l>Ja naar endog Tullin sit Foraar malet har,</l>
+<l>Mod Verdens f&#x00F8;rste Dag det dog en Vinter var:</l>
+<l>Fred m&#x00F8;dte Gl&#x00E6;den der og Kj&#x00E6;rligheden br&#x00E6;ndte</l>
+<l>Med Luer af den Ild, som Skaberen ant&#x00E6;ndte:</l>
+<l>Thi af Naturens Stad, hvad er det vi nu see?</l>
+<l>Den halve Deel? . . . O! Nei, men kun Ruinerne:</l>
+<l>Med Suk nu Mennesket sit Monarchie beseer,</l>
+<l>Med Suk sig selv . . . han var; men er nu ikke meer:</l>
+<l>Et Aftryk af sin Gud han hele Verden viste,</l>
+<l>F&#x00F8;r med Uskyldighed han alle Ting forliste;</l>
+<l>Han Enevolds-Regent, viis, god, retf&#x00E6;rdig, skj&#x00F8;n,</l>
+<l>Ud&#x00F8;delig . . . ja meer . . . han var Guds egen S&#x00F8;n.</l>
+<l>Besj&#x00E6;let af den Aand, som alt oplivet har,</l>
+<l>Han kjendte strax, hvad Gud, han selv, og alting var:</l>
+<l>Naturen sig fremb&#x00F8;d, ham til en Morgengave;</l>
+<l>Hver Skabning lydde ham; men intet Kr&#x00E6; var Slave,</l>
+<l>Alt i sin Orden stod, hver havde nok i sit,</l>
+<l>Og Adam nok i alt; han sagde: det er mit.</l>
+<l>For ham var Eden hist af &#x00E6;del Vellyst fyldt;</l>
+<l>For ham staaer mindste Blomst den f&#x00F8;rste Gang forgyldt;</l>
+<l>For ham hver Rose der af yndig R&#x00F8;dme bl&#x00F8;der;</l>
+<l>Og Fugles Velkomst nu med kaade Toner m&#x00F8;der;</l>
+<l>Hvert Tr&#x00E6;e sin seige Green nedb&#x00F8;ier tung af Frugt,</l>
+<l>Og yder f&#x00F8;rste Skat for Syn og Smag og Lugt;</l>
+<l>Opfyldt af hellig Ild vor f&#x00F8;rste Fader stod,</l>
+<l>Og l&#x00E6;ste paa hvert Blad: at Gud er viis og god:</l>
+<l>Med flygtigt &#x00D8;ie han den hele Kreds beskuer,</l>
+<l>Og Hjertet br&#x00E6;nder alt af Gl&#x00E6;dens rene Luer,</l>
+<l>Ja f&#x00F8;rste ski&#x00F8;nsom Tak fra ham til Himlen gik,</l>
+<l>Da F&#x00F8;rstegr&#x00F8;den han af Jordens Vellyst fik.</l>
+</lg>
+<lg>
+<l>Af Gud opfyldt, hans Sjel til Jorden kaldes ned:</l>
+<l>Naturen har ham nok et Skuespil bered:</l>
+<l>Med Alles Bifald er hans Hyldingsfest berammet,</l>
+<l>Hver Borger Stevning her at m&#x00F8;de har annammet,</l>
+<l>Her skal forsamle sig den hele skabte H&#x00E6;r,</l>
+<l>Og Adam Navne skal uddele til enhver.</l>
+</lg>
+<lg>
+<l>Nu Dyrerigets H&#x00E6;r bed&#x00E6;kker Bjerg og Dal,</l>
+<l>Den vrimler frem i Fl&#x00E6;ng til f&#x00E6;lles Kongevalg;</l>
+<l>Og Du blodt&#x00F8;rstig Splid, som Avind siden f&#x00F8;dde,</l>
+<l>Som Fred landflygtig gj&#x00F8;r i mindre talrig M&#x00F8;de,</l>
+<l>Du var landflygtig her . . . hvert &#x00D8;ie Adam saae,</l>
+<l>Hver sit Samtykke gav: han Konge v&#x00E6;re maae.</l>
+</lg>
+<lg>
+<l>Strax et h&#x00F8;imodigt Dyr med Magt sig tr&#x00E6;ngte frem,</l>
+<l>Hvis st&#x00E6;rke Bryst var ligt selv Tapperhedens Hjem;</l>
+<l>Dens drabelige Mund lod som den vilde sige:</l>
+<l>&#x00AB;Jeg Kongen tjene skal, mod Voldsm&#x00E6;nd f&#x00F8;re Krige,</l>
+<l>&#x00AB;Min Styrke, Heltemod til Strid mig dannet har.&#x00BB;</l>
+<l>Strax blev den Adelsmand og Navn af L&#x00F8;ve bar.</l>
+</lg>
+<lg>
+<l>En dristig kronet Helt, st&#x00E6;rk, munter rask og skj&#x00F8;n.</l>
+<l>Ved Pandens grenig Busk liig Skovens egen S&#x00F8;n,</l>
+<l>Sin ranke Nakke ned for Adam ydmyg bukker,</l>
+<l>Det er det Dyr, som nu for Prindsers Vellyst sukker;</l>
+<l>Det Dyr, som to Gang&#x0027; d&#x00F8;er fordi det elskte Fred,</l>
+<l>Vor Fader Navn af Hjort det strax at give veed.</l>
+</lg>
+<lg>
+<l>Hist to Uhyrer frem i brune Peltse sprang:</l>
+<l>Maaskee de trodse mod nyt Herred&#x00F8;mmes Tvang;</l>
+<l>Nei, de formode mindst, at Adams S&#x00F8;nner skulde</l>
+<l>Af deres lodne Dragt forskantse sig mod Kulde;</l>
+<l>Godvillig Lydighed de derfor byde frem.</l>
+<l>Vor Fader kjendte strax og Bj&#x00F8;rne kaldte dem.</l>
+</lg>
+<lg>
+<l>Her en Republican med Forbeholdenhed</l>
+<l>Blandt Flokken tr&#x00E6;der frem; han ei at smigre veed;</l>
+<l>Han Kongen lyde vil, han Kongen og vil &#x00E6;re,</l>
+<l>Naar denne hvad han b&#x00F8;r, kun bliver ved at v&#x00E6;re;</l>
+<l>Han er til Lands og Vands af kloge Anl&#x00E6;g fuld;</l>
+<l>Han elsker Frihed meer end Verden elsker Guld;</l>
+</lg>
+<lg>
+<l>Ved ufortr&#x00F8;den Flid og god Forsynlighed</l>
+<l>Han Forraad stedse har, af Mangel aldrig veed;</l>
+<l>Han med sin Bygnings-Kunst kan standse Floders Str&#x00F8;mme,</l>
+<l>Og t&#x00E6;t ved stridig Fos i trofast Bolig dr&#x00F8;mme;</l>
+<l>Han saae bet&#x00E6;nksom ud, da han til Adam gik,</l>
+<l>Og til et &#x00C6;restegn han Navn af B&#x00E6;ver fik.</l>
+</lg>
+<lg>
+<l>I bundtet Kl&#x00E6;dning hist en Statsmand tumler om;</l>
+<l>Den snedig bugter sig og synes venlig, from:</l>
+<l>Som Ydmygheden selv den kryber, slikker Jorden,</l>
+<l>Og frygtsom krymper sig for sin Monarkes Torden,</l>
+<l>Sit s&#x00F8;de sledske Sprog saa slibrig hvislende,</l>
+<l>Som om den var opl&#x00E6;rt blandt Hoffers Hyklere:</l>
+<l>Med Gordisk Knude den sin Krop indviklet har;</l>
+<l>Uskyldig dog endnu den Adam yndig var;</l>
+<l>Men gid han havde vidst, den skulde ham bedrage,</l>
+<l>Han det Uhyre da strax havde bragt af Dage;</l>
+<l>Men endnu havde den at skade aldrig t&#x00E6;nkt,</l>
+<l>Da Navn af Slange blev den uden Ophold skjenkt.</l>
+</lg>
+<lg>
+<l>Ei Gud i mindste Orm sig uden Vidne lod,</l>
+<l>Og Adams h&#x00F8;ie Sjel det Vidnesbyrd forstod;</l>
+<l>I hvert forandret Slags han nye Mirakler kjender;</l>
+<l>Ny Kundskab i hans Sjel ny Kj&#x00E6;rlighed opt&#x00E6;nder;</l>
+<l>For ham Naturen er fra Gud et aabent Brev;</l>
+<l>Hvert St&#x00F8;v et Viisdoms Ord, Guds egen Finger skrev.</l>
+</lg>
+<lg>
+<l>I dyb Henrykkelse vor Stammefader gik,</l>
+<l>Da nok et s&#x00E6;lsomt Dyr han her at skue fik:</l>
+<l>Det hopper, leger, leer, tobenet hurtigt tripper;</l>
+<l>Det Adam ligne vil, med &#x00D8;ine stedse klipper;</l>
+<l>De mindste Lader det at efterabe veed;</l>
+<l>Til Hofnar, til Acteur det synes bedst bered:</l>
+<l>Ved heldig Munterhed og Legems-Skabning var</l>
+<l>Vor G&#x00F8;gler den maaskee, som f&#x00F8;rste S&#x00E6;de har</l>
+<l>N&#x00E6;st Mennesket, hvor just Naturen sig forandrer,</l>
+<l>Hvor til et andet Slags den langsom overvandrer,</l>
+<l>Og kun med sine Tr&#x00E6;k dens Vei betegnet er;</l>
+<l>Den gaaer ei pludselig til Dyr fra Mennesker.</l>
+<l>&#x00AB;O! Liighed! O! hvordan? mon Du for mig er skabt?</l>
+<l>&#x00AB;Hvi har Du Skj&#x00F8;nhed da, hvi har du Talen tabt?&#x00BB;</l>
+<l>Saa t&#x00E6;nker Adam og et Suk til Himlen sender,</l>
+<l>Til Selskab for sig selv blandt Dyr han ingen kjender;</l>
+<l>&#x00AB;Nei, sagde han, Nei Du min Mage ikke er,</l>
+<l>&#x00AB;Men da Du ligne vil, Du Navn af Abe b&#x00E6;r.&#x00BB;</l>
+</lg>
+<lg>
+<l>Nu trakte sig en Skye med et fra gr&#x00F8;nne Lund</l>
+<l>Op i den klare Luft; strax graaner blanke Grund,</l>
+<l>Og M&#x00F8;rkhed d&#x00E6;kker til for Dagens Herskerinde,</l>
+<l>Nu h&#x00F8;res Knag og Brag, lig Lyd af st&#x00E6;rke Vinde:</l>
+<l>Man her forsamlet faae en let og munter Sl&#x00E6;gt,</l>
+<l>Som hang i Luften tryg paa Vingers Ligev&#x00E6;gt.</l>
+</lg>
+<lg>
+<l>Nu splittes Flokken hist; en R&#x00F8;ver styrter sig</l>
+<l>Ned gjennem tynde Luft til Jorden pludselig;</l>
+<l>I venstre Haand han just et yndigt Bytte f&#x00F8;rte,</l>
+<l>Hvis Kurren Adam som et Klagedigt anh&#x00F8;rte:</l>
+<l>Her saae man f&#x00F8;rste Gang, hvor lidt Uskyldighed</l>
+<l>Mod graadig Overmagt sig at beskjerme veed.</l>
+<l>Sligt Offer Adam strax af R&#x00F8;veren forsmaaer;</l>
+<l>Og &#x00D8;rnens Navn den til et Kjendem&#x00E6;rke faaer;</l>
+<l>Men Fangen Frihed fik og s&#x00F8;gte hine Skygger,</l>
+<l>Hvor Fred hos Kj&#x00E6;rlighed sin gr&#x00F8;nne Hytte bygger.</l>
+<l>Og da den munter hen i Luften svinger sig,</l>
+<l>Vor Fader sagde: Man skal Due kalde dig.</l>
+</lg>
+<lg>
+<l>Hist synker langsom ned Naturens &#x00D8;ienslyst,</l>
+<l>En vinget Skj&#x00F8;nhed med regnbuefarvet Bryst:</l>
+<l>Apelles havde skjult sit bedste Mesterstykke,</l>
+<l>Og til sin Pensel sagt: &#x00AB;Fors&#x00F8;g ei meer din Lykke.</l>
+<l>&#x00AB;Kn&#x00E6;l ned opbl&#x00E6;ste Kunst&#x00BB;, hvis han kun havde her</l>
+<l>Betragtet Glandsen af de Farver Adam seer:</l>
+<l>Blandt fj&#x00E6;dret Flok man her den stolte Dronning saae,</l>
+<l>Med sit priismatisk Sl&#x00E6;b til Adam frem at gaae;</l>
+<l>Ja naar hun Sl&#x00E6;bet nu opreist mod Himlen holder</l>
+<l>Og som guldspettet Vist&#x0027; mod Solens Glands udfolder,</l>
+<l>Man Blaat i Violet med Gr&#x00F8;nt skatteret seer,</l>
+<l>Og af Saturnisk Ring hver Kreds bekrandset er.</l>
+<l>O! Skj&#x00F8;nhed! Orden, Pragt, o! Skaber herlig, viis!</l>
+<l>Saa l&#x00F8;ftes Adams Sjel til Himlen fuld af Priis,</l>
+<l>Paafuglens Navn han knap vor Dronning havde givet,</l>
+<l>F&#x00F8;r liden Sv&#x00E6;rmer hist, ved varme Luft oplivet,</l>
+<l>Paa Adams Finger sad og bredde ud sit Guld,</l>
+<l>Og sagde: Jorden er af Pragt og Skj&#x00F8;nhed fuld.</l>
+<l>Paa fire Vinger, som den glad udbredede,</l>
+<l>I m&#x00F8;rk og brunr&#x00F8;d Grund smaa Stjerner funklede;</l>
+<l>Gr&#x00E6;sgr&#x00F8;nt og Rosenr&#x00F8;dt paa sp&#x00E6;de Ryg var tegnet;</l>
+<l>Blandt Sommerfugles Sl&#x00E6;gt den blev af Adam regnet;</l>
+<l>Ja kort: Paafuglens Pragt Insekten ogsaa b&#x00E6;r.</l>
+<l>Og Adam Viisdoms Spor i mindste Flue seer.</l>
+</lg>
+<lg>
+<l>Ulige Lighed var Almagtens Pr&#x00E6;dikant,</l>
+<l>Midt i Forandring selv vor Fader Orden fandt,</l>
+<l>Og hvor med vilde Tr&#x00E6;k Naturen spiller, sp&#x00F8;ger,</l>
+<l>Han med fordobblet Flid en Ordens Lov ops&#x00F8;ger;</l>
+<l>Hvert Kr&#x00E6; ved eget Navn, s&#x00E6;rskilt fra fremmed Slag</l>
+<l>Med Fryd besynge nu Naturens Navnedag.</l>
+</lg>
+<lg>
+<l>Ja Luften fyldes hist af h&#x00F8;ie Toners Klang,</l>
+<l>Da Fugle-Choret til sin Skabers &#x00C6;re sang</l>
+<l>Vor Faders muntre Sjel et v&#x00E6;rdigt Selskab finder;</l>
+<l>Den h&#x00F8;it sig svinger op med hine Sangerinder,</l>
+<l>Og offrer hellig Lov for sit og alles Vel:</l>
+<l>Stor var da Gud i alt; men st&#x00F8;rst i Adams Sjel,</l>
+<l>Der var, O! hvilket Lys! af Lysets Fader t&#x00E6;ndt!</l>
+<l>Ei Sole blusse saa paa Himlens Firmament:</l>
+<l>Fornuftens &#x00D8;ie seer: og strax er Mygget st&#x00F8;rre;</l>
+<l>Strax skjulte Sandhed maa den frem for Dagen f&#x00F8;re;</l>
+<l>Fornuftens &#x00D8;ie seer: strax lyser Almagt op</l>
+<l>Og Viisdom skinner frem af mindste Blomsterknop,</l>
+<l>Forgj&#x00E6;ves havde Gud ud&#x00F8;dslet al den Pragt,</l>
+<l>Forgj&#x00E6;ves viist sin Kunst, sin Kj&#x00E6;rlighed og Magt;</l>
+<l>Om han ei havde skabt en skj&#x00F8;nsom Sjel tillige,</l>
+<l>Som kunde Orden see i vidt udstrakte Rige,</l>
+<l>Og gjennem St&#x00F8;vet selv sin Indsigt vikle ud,</l>
+<l>Til Synet tabte sig og Sjelen saae kun Gud;</l>
+</lg>
+<lg>
+<l>H&#x00F8;itidelige Dag! hvad Lys bestraaler Dig!</l>
+<l>Hvor meget er Du ei vor m&#x00F8;rke Dag ulig?</l>
+<l>Iblandt Vildfarelser vi tumle, sukke, klage,</l>
+<l>Naar Morgenr&#x00F8;den af Menneskesl&#x00E6;gtens Dage</l>
+<l>Opkratser i vor Sjel det ilde l&#x00E6;gte Saar,</l>
+<l>Og tabt Uskyldighed i frisk Erindring staaer.</l>
+<l>Hvor lidt er det ei nu vort dunkle &#x00D8;ie seer,</l>
+<l>Naar det med slebet Glas endog udrustet er?</l>
+<l>Naar Kunst, Erfarenhed og Vid tilsammentaget,</l>
+<l>Naturens skjulte Lov med Lykke har opdaget,</l>
+<l>Vi mod den Herlighed, vor f&#x00F8;rste Fader saae,</l>
+<l>Vort Lys, hvor klart det er, kun M&#x00F8;rkhed kalde maae.</l>
+<l>Dog har med svage Tr&#x00E6;k vor Afmagt penslet af</l>
+<l>Den Ordens Lov, som Gud Naturens Kr&#x00E6;fter gav:</l>
+<l>Os var det og en Lyst Almagtens V&#x00E6;rk at kjende,</l>
+<l>Vi derfor vovede Fornuften did at sende,</l>
+<l>Hvor synbar Sandhed paa hvert Blad sig byder frem,</l>
+<l>At den med Viisdom kan beriget komme hjem.</l>
+</lg>
+<lg>
+<l>Men L&#x00F8;gn og Sandhed nu n&#x00E6;r hos hverandre boe,</l>
+<l>Og N&#x00E6;lder rundt omkring uskyldig Rose groe:</l>
+<l>Man sjelden Honning nu foruden Gift kan finde,</l>
+<l>Da onde Lysters Drift os f&#x00F8;rer om i Blinde,</l>
+<l>Og ofte graves op med Flid af Jordens Skj&#x00F8;d</l>
+<l>Et frugtbart Spirefr&#x00F8;e til Sygdom, Pest og D&#x00F8;d:</l>
+<l>Forvoven D&#x00F8;delig! kom f&#x00F8;lg mig, see og skj&#x00E6;lv!</l>
+<l>V&#x00E6;r for Ulykker tryg; men frygt kun for Dig selv:</l>
+<l>See Havet skummer op, hist aabnes Himlens Sluser,</l>
+<l>Hver B&#x00E6;k fra h&#x00F8;ien Hald ned over Marken bruser;</l>
+<l>Af haarde Klippes Steen her v&#x00E6;lde Kilder op,</l>
+<l>Og Vandet skjuler nu Avnb&#x00F8;gens lodne Top.</l>
+</lg>
+<lg>
+<l>Alt synker, alt forgaaer, selv Haabet synker med;</l>
+<l>Alt er til D&#x00F8;d bestemt; alt er til H&#x00E6;vn bered . . .</l>
+<l>Men tyst . . . hvad seer Du der, er det en &#x00D8;e som flyder?</l>
+<l>Et Land, som sig endnu for flygtig Raae frembyder?</l>
+<l>Det sl&#x00E6;nges hid og did, nu n&#x00E6;rt til Undergang;</l>
+<l>Og nu paa B&#x00F8;lgers Ryg det h&#x00F8;it mod Himlen hang . . .</l>
+</lg>
+<lg>
+<l>Her et br&#x00F8;stf&#x00E6;ldigt Br&#x00E6;dt Menneskesl&#x00E6;gten b&#x00E6;r,</l>
+<l>Og Stammef&#x00E6;drene for Dyrerigets H&#x00E6;r!</l>
+<l>Bundl&#x00F8;se Kj&#x00E6;rlighed! som dog ei alt neds&#x00E6;nkte;</l>
+<l>Men midt i Straffen selv endog paa Naade t&#x00E6;nkte!</l>
+<l>Dig skylder Verden, at ei alt med eet forsvandt,</l>
+<l>Og at man Redning her paa svage Fjele fandt.</l>
+</lg>
+<lg>
+<l>Lad Vandet synke ned, lad Bjerge vise sig,</l>
+<l>Lad F&#x00E6;ngsler lukkes op og hver med Frydeskrig</l>
+<l>Paa t&#x00F8;r og trofast Grund begj&#x00E6;rlig Foden s&#x00E6;tte,</l>
+<l>Lad Noah v&#x00E6;lge frit blandt Bjerg og Dal og Slette,</l>
+<l>Hvor han sit trygge Telt opreise kan i Roe,</l>
+<l>Og endnu F&#x00F8;den see af Jorden op at groe.</l>
+</lg>
+<lg>
+<l>Men det for lidet er, Viinranken dyrkes maa,</l>
+<l>Vor T&#x00F8;rst ei Lindring nok i Kilder kunde faae;</l>
+<l>En kj&#x00F8;lig Saft, som hist de trykte Druer svede,</l>
+<l>Skal oplyst Patriark til Daarlighed forlede:</l>
+<l>Man Helten reddet af Syndfloden kunde see,</l>
+<l>Men ak! i Drueblod han daarlig druknede.</l>
+</lg>
+<lg>
+<l>O! skam Dig, Menneske! ved din Opfindingskraft;</l>
+<l>Ford&#x00F8;m til evig Tid den ulyksalig Saft,</l>
+<l>Som qv&#x00E6;ler Heltemod, og Viisdom selv forblinder,</l>
+<l>Som elsker Laster op og Dyden overvinder,</l>
+<l>Som &#x00F8;del&#x00E6;gger meer, end Pest og Ild og Krig!</l>
+<l>Viindrue, havde man kun glemt at dyrke Dig!</l>
+<l>Nei, Du var ei forglemt, hver Dag er Bacchi Fest;</l>
+<l>Dig synger Fr&#x00E6;khed Lov, den trives allerbedst,</l>
+<l>Naar dine Taarer ned i t&#x00F8;rstig Strube klukke,</l>
+<l>Og undertrykte Dyd opsender tause Sukke,</l>
+<l>Imedens Daaren leer og drikker Lasters Skaal,</l>
+<l>Og Luften hviner grumt af Dumheds kj&#x00E6;kke Skraal.</l>
+</lg>
+<lg>
+<l>Men holdt! hvor vil jeg hen? hvad har Viinranken gjort?</l>
+<l>Hvi skal dens &#x00E6;dle Saft afmales f&#x00E6;l og sort?</l>
+<l>Den l&#x00E6;dsker, gl&#x00E6;der, ja den giver Mod og Styrke;</l>
+<l>Bliv Menneske kun ved din Viingaard vel at dyrke;</l>
+</lg>
+<lg>
+<l>Af det Naturen gav, du intet laste b&#x00F8;r,</l>
+<l>Beskyld din Misbrug for den Skade, Vinen gj&#x00F8;r.</l>
+<l>Ja bliv af Skade klog og l&#x00E6;r Forsigtighed,</l>
+<l>Randsag Naturen frit, men tag Fornuften med;</l>
+<l>At ei det f&#x00F8;rste Skin af Godt Dig maatte fange,</l>
+<l>I gr&#x00F8;nne Blomsterbeed laae helst en giftig Slange.</l>
+<l>Hvor Guldet lokker Dig midt ind i Jordens Skj&#x00F8;d,</l>
+<l>Tit giftbef&#x00E6;ngte Damp Dig byder sidste St&#x00F8;d.</l>
+<l>Men, himmelsk Viisdom! Du, som bedst veilede kan,</l>
+<l>Som har saa tit oplyst en taagem&#x00F8;rk Forstand;</l>
+<l>En Straale af dit Lys kan endnu Veien l&#x00E6;re,</l>
+<l>Ved Dig man Gud endnu kan i Naturen &#x00E6;re,</l>
+<l>Du splitter Taagen hist, som Synet dunkelt gj&#x00F8;r;</l>
+<l>For nyttig Indsigt Dig man ene takke b&#x00F8;r.</l>
+</lg>
+<lg>
+<l>Hiin store Konges Sjel af dig bestraalet var,</l>
+<l>Som tvende Rigers Folk frivilligt Offer bar:</l>
+<l>Ham takker Israel for Fred og gylden Alder,</l>
+<l>Ham Planteriget selv sin Ven og Fader kalder;</l>
+<l>Han Engens D&#x00F8;ttre seer og kjender hver is&#x00E6;r,</l>
+<l>Han Viisdom h&#x00F8;ste kan, hvor Daaren sanker B&#x00E6;r.</l>
+<l>Kneis paa dit Libanon du stolte Cedertr&#x00E6;e,</l>
+<l>Maaskee du blive kan din Konges Lye og L&#x00E6;e.</l>
+<l>Og skjulte Skj&#x00F8;nhed, som dit Hoved hist forstikker,</l>
+<l>Du er ei heller glemt, see Kongen til Dig nikker.</l>
+<l>Kom Markens hele Sl&#x00E6;gt og bliv enhver bekjendt,</l>
+<l>Din Skj&#x00F8;nhed funkle ved det Lys, han har ant&#x00E6;ndt.</l>
+<l>Blyf&#x00E6;rdig Rose dryp din Purpurfarve ned!</l>
+<l>I Lillier eders Snee med kjelen Yndighed!</l>
+<l>Udbreder paa hver Vei, hvor Kongen Foden s&#x00E6;tter,</l>
+<l>Fordobbler bundtet Pragt paa Pal&#x00E6;stinas Sletter!</l>
+<l>Men Zions Datter flye og skjul din Skj&#x00F8;nhed vel,</l>
+<l>At den ei friste maa vor store Konges Sjel.</l>
+</lg>
+<lg>
+<l>Saa kom Naturens Lys fra Verdens &#x00D8;sterkant;</l>
+<l>Bag Asiatisk Fjeld den hist med Solen randt;</l>
+<l>Ved Morgenr&#x00F8;den alt Europas store S&#x00F8;ster</l>
+<l>Sig Krandse fletter og af tidlig Skj&#x00F8;nhed bryster;</l>
+<l>Mod Vester m&#x00F8;rke Nat hun end at sv&#x00E6;ve seer,</l>
+<l>Og stolt ved eget Lys, Vankundighed beleer.</l>
+<l>Men moden Skj&#x00F8;nhed t&#x00E6;nk, din Glands forsvinder snart!</l>
+<l>See! Solen iler alt med ufort&#x00F8;vet Fart</l>
+<l>Til Middagspuncten op; og Skyggens sorte Vinger</l>
+<l>Med H&#x00E6;vn fra Bjerget ned sig over Sletten svinger:</l>
+<l>Din rosenr&#x00F8;de Mund bag M&#x00F8;rkets S&#x00F8;rgefloer</l>
+<l>Med Suk beklage skal, at Lys i Vester boer.</l>
+</lg>
+<lg>
+<l>Kom, hils din blide Dag, du Heltes F&#x00F8;deland!</l>
+<l>Som blomstrer rundt omkring Castalisk Kildes Vand;</l>
+<l>Lad Agamemnons St&#x00F8;v med Roe i Graven hvile;</l>
+<l>Til Lykke med din Fred, nu f&#x00F8;rst kan Viisdom smile,</l>
+<l>Og med bet&#x00E6;nksom Flid opdage skjulte Skat,</l>
+<l>Da i sit fulde Lys din Skj&#x00F8;nhed bliver sat.</l>
+<l>Kn&#x00E6;l her min Geist for ham, som Sandhed elsker op,</l>
+<l>Og l&#x00F8;ft ham, om Du kan, paa Athos h&#x00F8;ie Top.</l>
+<l>Slig &#x00C6;rest&#x00F8;tte ham Naturen billig skylder,</l>
+<l>Gjeldbunden F&#x00F8;deland kun da sin Pligt opfylder,</l>
+<l>Naar det mod Stjernerne sin Helt opl&#x00F8;ftet har:</l>
+<l>Al Verden vidne skal: Det dog forlidet var.</l>
+<l>En v&#x00E6;rdig &#x00C6;rekrands selv Sandhed fletter Dig,</l>
+<l>O! vise Stagirit, Du blev ud&#x00F8;delig,</l>
+<l>Da f&#x00F8;rst af tykke Skov Du b&#x00F8;d ukjendte Skare</l>
+<l>At vrimle frem; og de, som f&#x00F8;r navnl&#x00F8;se vare,</l>
+<l>Af Dig fik Navn og blev, hver i sit Slags, bekjendt,</l>
+<l>Man Adam skulde troe til Gr&#x00E6;kenland var sendt.</l>
+<l>R&#x00F8;rt ved det mindste Suk fra smertet&#x00E6;ret Krop,</l>
+<l>Han &#x00F8;ver billig Vold mod yndig Roses Knop,</l>
+<l>Og kraftig L&#x00E6;gedom til Piners Verksted sender:</l>
+<l>Helbredet Landsmand strax opl&#x00F8;fter st&#x00E6;rke H&#x00E6;nder,</l>
+<l>Og fuld af skyldig Tak, fremviser l&#x00E6;gte Saar,</l>
+<l>Ja L&#x00E6;gens kj&#x00E6;re Navn i Hjertet tegnet staaer.</l>
+<l>Philippi kj&#x00E6;kke S&#x00F8;n! Du kjendte Mandens V&#x00E6;rd;</l>
+<l>Ved ham Du tidlig blev i &#x00E6;dle Konster l&#x00E6;rd:</l>
+<l>Han kostbar Viisdom i din unge Sjel indprenter,</l>
+<l>Og selv af nedlagt Skat indh&#x00F8;ster rige Renter:</l>
+<l>Stagires faldne Muur sin fordums H&#x00F8;ide naaer,</l>
+<l>Og Patriotens Sjel en s&#x00F8;d Bel&#x00F8;nning faaer.</l>
+</lg>
+<lg>
+<l>O! gylden Alder da for hver Minerv&#x00E6; S&#x00F8;n!</l>
+<l>Naar Videnskaber faae sin velfortjente L&#x00F8;n;</l>
+<l>Naar aldrig &#x00C6;rekrands til Tossens Tinding flettes,</l>
+<l>Og aldrig str&#x00E6;bsom Flid tilside skulde s&#x00E6;ttes:</l>
+<l>V&#x00E6;r Macedonisk Prinds, stor ved Erobringer,</l>
+<l>Men st&#x00F8;rre dog fordi du Viisdom havde kj&#x00E6;r.</l>
+</lg>
+<lg>
+<l>Europa, gl&#x00E6;d Dig nu, Du er ei meer forglemt!</l>
+<l>Dig haver Pallas til sin Skueplads bestemt:</l>
+<l>En frugtbar Egn ei skal omsonst sit Guld udbrede;</l>
+<l>Og dine Skoves Dyr ei efter Ravne lede:</l>
+<l>En Veronenfisk Helt ud over Verden saae,</l>
+<l>At han den hele Kreds afpenslet kunde faae:</l>
+<l>Naturens Rigdoms Dyd Fornuftens Afgrund var;</l>
+<l>Og meget svanger Jord sig forbeholdet har:</l>
+<l>Vor Vise seer en Damp, som Klippens Top udpuster,</l>
+<l>Og mod det store Syn forvoven sig udruster,</l>
+<l>Men Ilden str&#x00F8;mmer ud og Klippen giver Knald;</l>
+<l>Skriv paa vor Heltes Grav: Han d&#x00F8;de i sit Kald.</l>
+</lg>
+<lg>
+<l>Han d&#x00F8;de . . . men dog er Naturens Lys ei slukt:</l>
+<l>Roms lette &#x00D8;rne nu fordobble hastig Flugt;</l>
+<l>Lad Videnskaber paa udstrakte Vinger hvile,</l>
+<l>Ret som man en Raqvet i Luften seer at ile,</l>
+<l>Hvor den sin Linie trak, igjennem m&#x00F8;rke Nat,</l>
+<l>Og har en Vei af Lys i Luften efterladt:</l>
+<l>Saa st&#x00E6;rke &#x00D8;rne fl&#x00F8;i hen over Alperne;</l>
+<l>Man kunde deres Vei af Lys bestraalet see:</l>
+<l>Roms Vaaben aabne f&#x00F8;rst Europas lukte &#x00D8;ie,</l>
+<l>Sig selv bevidst hun nu sin Skj&#x00F8;nhed kan forh&#x00F8;ie,</l>
+<l>Mangfoldig Yndighed hun allevegne seer,</l>
+<l>Og sine Plinier hun skal ei savne meer.</l>
+</lg>
+<lg>
+<l>Af mange Blade nu Naturens Bog bestaaer;</l>
+<l>Hver Dag en Urt deri sit Sted blandt andre faaer;</l>
+<l>Hver Tue har sin Blomst, hver Blomst sin D&#x00F8;befader:</l>
+<l>Man aldrig daarlig stolt det mindste Straa forlader,</l>
+<l>Som ei hos n&#x00E6;ste Sl&#x00E6;gt i Orden bliver sat,</l>
+<l>Og regnet for en Deel af Planterigets Skat.</l>
+<l>Selv kolde Norden med sit sneebestr&#x00F8;ede Haar,</l>
+<l>Af Skj&#x00F8;nhed svanger, glad kan hilse blide Vaar!</l>
+<l>De granbegroede Fjeld og gr&#x00F8;nne fede Dale</l>
+<l>Begynde overlydt sin Skabers Sag at tale:</l>
+<l>Naturens stumme Sprog er selv Veltalenhed</l>
+<l>Og heldig Tolk for hver at overs&#x00E6;tte veed.</l>
+</lg>
+<lg>
+<l>Mod Norden iler nu med nye Opdagelser</l>
+<l>Naturens Elsker og sin Laurb&#x00E6;rkrands fremb&#x00E6;r,</l>
+<l>Hvormed at krone ham, som i Naturens Rige</l>
+<l>Med Kj&#x00E6;mpeskridt t&#x00F8;r op paa Jordens Knogler stige.</l>
+<l>Og raabe: &#x00AB;Kom Bufon, Bomare og hvo du er,</l>
+<l>&#x00AB;Hver med sin fundne Skat forsamler Eder her!</l>
+<l>&#x00AB;Omringe mig hvert Kr&#x00E6;, som f&#x00F8;r ved altings Vaar!</l>
+<l>&#x00AB;Og spraglet Flok, som hist paa &#x00F8;de Marker staaer!</l>
+<l>&#x00AB;Hver Blomst i Orden kom ved Siden af din Broder!</l>
+<l>&#x00AB;Kom al Naturens H&#x00E6;r, inddelt i dine Roder!</l>
+<l>&#x00AB;Den hele Skare staae hver paa det rette Sted,</l>
+<l>&#x00AB;Som fordum var enhver af Skaberen bered.&#x00BB;</l>
+</lg>
+<lg>
+<l>Saa b&#x00F8;d Anf&#x00F8;reren; og H&#x00E6;ren m&#x00F8;nstret stod:</l>
+<l>Strax i Naturens Bog hvers Navn han skrive lod;</l>
+<l>Paa Tingenes Natur han al sin Orden bygger;</l>
+<l>Skeel&#x00F8;iet Avind ei saa trofast Bygning rygger;</l>
+<l>Saafremt Naturens Lov en evig Grundvold er,</l>
+<l>Saa skal hans Bygning staae til Verden er ei meer.</l>
+<l>Var end min Bolig nu, hvor Bj&#x00F8;rnen Faste holdt;</l>
+<l>Hvor n&#x00F8;gen Klippes V&#x00E6;g, mod Stormens Larmen stolt,</l>
+<l>Med krumme Hv&#x00E6;lving har indhegnet mig en Hule</l>
+<l>For al Naturens Pragt med Flid at kunde skjule;</l>
+<l>Lad Ravne skrige der, lad Ulve tude nu,</l>
+<l>Berguglen hulke ud sit hule Hu Hu Hu!</l>
+<l>Lad intet uden Snee paa Bjerget voxe op!</l>
+<l>Lad Stenens Haarde B&#x00E6;nk modtage tr&#x00E6;tte Krop!</l>
+<l>Naar kun ved Haanden er den Bog, vor Svenske Vise</l>
+<l>Har skrevet, skal jeg dog Naturens Mester prise,</l>
+<l>Og m&#x00E6;tte Sjelen med udvalgte Skj&#x00F8;nheder,</l>
+<l>Naar al Naturens Kreds jeg der udbredet seer.</l>
+<l>Velkommen da paa ny med dobbelt Velbehag</l>
+<l>Du Jubelfest af hiin Naturens Navnedag!</l>
+<l>Op Svenske D&#x00F8;ttre! op, og Blomsterkrandse fletter,</l>
+<l>Med lette Fingre dem paa Heltens Hoved s&#x00E6;tter,</l>
+<l>Naturens stumme Tak I ham forklare maae,</l>
+<l>Og s&#x00F8;de Triller h&#x00F8;it Liné til &#x00C6;re slaae!</l>
+</lg>
+<lg>
+<l>Men blegner ei, om I fra Naborigets Fjeld</l>
+<l>Et Gjensvar h&#x00F8;re maae: Det er er en gammel Gjeld,</l>
+<l>Som der betales een af Landets l&#x00E6;rde S&#x00F8;nner;</l>
+<l>Viid: Norge f&#x00F8;le kan; det og paa Velgjort skj&#x00F8;nner,</l>
+<l>Naar fra Forglemmelse man redder Mark og Eng</l>
+<l>Og d&#x00F8;ber Skj&#x00F8;nheder, som voxte op i Fl&#x00E6;ng.</l>
+<l>Mit kj&#x00E6;re F&#x00F8;deland! saa seer Du nu den Dag,</l>
+<l>Som med sit blanke Smiil forklare skal din Sag,</l>
+<l>Og sige Verden, at blandt Norske Fjelde findes</l>
+<l>De Blomster, som ei kan i Skj&#x00F8;nhed overvindes,</l>
+<l>Der f&#x00F8;des ogsaa den, som kjender deres V&#x00E6;rd,</l>
+<l>Og ei forgj&#x00E6;ves b&#x00E6;r det store Navn af l&#x00E6;rd.</l>
+<l>Selv Flora, prydet med Europas Havepragt,</l>
+<l>Mod Norden n&#x00E6;rmer sig og viser buntet Dragt:</l>
+<l>&#x00AB;Stands, raaber vor Gunner, lad mig din Pragt fuldende</l>
+<l>&#x00AB;Med Blomster, som Du skal endnu for nye erkjende.&#x00BB;</l>
+<l>I Brystet s&#x00E6;tter hun, den Prydelse hun faaer,</l>
+<l>Hun neier dybt og i sig selv forelsket staaer.</l>
+<l>Holdt her, min Geist: og lad en Anden sige meer;</l>
+<l>Du n&#x00F8;dig tier . . . men naar Hjertet opr&#x00F8;mt er,</l>
+<l>Mod Velanst&#x00E6;ndighed man let sig da forsynder;</l>
+<l>Man ved at rose tit fort&#x00F8;rner sin Velynder.</l>
+<l>Dog gak, m&#x00F8;d Hr. Gunner og ei din Pligt forglem,</l>
+<l>Paa Trondhjems Vegne siig: Velkommen uskad hjem!</l>
+</lg>
+<lg>
+<l>Hjem fra den Viingaard, Gud mod Norden plantet har,</l>
+<l>Hvis Tarv at fremme Dig en Drivefjeder var,</l>
+<l>Til farlig Reise blandt Nordlandske Skj&#x00E6;r og Banker.</l>
+<l>Der af Neptuni Rov Du ogsaa noget sanker,</l>
+<l>Naturen rundt omkring Dig aabner frugtbart Skj&#x00F8;d;</l>
+<l>Navnl&#x00F8;se Nyheder den hist og her fremb&#x00F8;d.</l>
+</lg>
+<lg>
+<l>V&#x00E6;r da velkommen hjem: vort Selskab venter Dig!</l>
+<l>Ja, Flora forud alt i Haabet gl&#x00E6;der sig;</l>
+<l>Ny Skj&#x00F8;nhed venter hun paa Reisen er opdaget,</l>
+<l>Og i sit s&#x00F8;de Haab hun fandt sig ei bedraget;</l>
+<l>Glad seer hun funden Blomst henf&#x00F8;rt hver til sit Slag</l>
+<l>Og helligholdt paa ny Naturens Navnedag.</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem" n="2">
+<head><ref type="contents" target="contents_2" xml:id="chapter_2">NORGES HERLIGHED</ref></head>
+<lg>
+<l>Boer jeg paa det h&#x00F8;ie Fjeld,</l>
+<l>Hvor en Fin skj&#x00F8;d en Reen med sin Riffel paa Skien,</l>
+<l>Hvor der sprang et Kildev&#x00E6;ld,</l>
+<l>Og hvor Ryperne plasked i Lien;</l>
+<l>Jeg med Sang vil mane frem</l>
+<l>Hver en Skat, som laae skjult udi Klippernes Rifter;</l>
+<l>Jeg er glad og rig ved dem</l>
+<l>Kj&#x00F8;ber Viin og klarerer Udgifter.</l>
+<l>Klippens Top, som Granen b&#x00E6;r,</l>
+<l>Muntre Sjeles Fristad er;</l>
+<l>Verdens Tummel neden for</l>
+<l>Til min skyeh&#x00F8;ie Bolig ei naaer.</l>
+</lg>
+<lg>
+<l>Boer jeg i den gr&#x00F8;nne Dal,</l>
+<l>Hvor en Elv l&#x00F8;ber let gjennem skovrige Sletter,</l>
+<l>Hvor L&#x00F8;vhytten er min Sal,</l>
+<l>Hvor den voxende Gr&#x00F8;de mig m&#x00E6;tter,</l>
+<l>Hvor det muntre Faar og Lam</l>
+<l>Tripper om, nipper L&#x00F8;v, og hvor &#x00D8;xene b&#x00F8;ge;</l>
+<l>Leer jeg h&#x00F8;it til Modens Kram</l>
+<l>Og til Renter, som Rigdom for&#x00F8;ge.</l>
+<l>Fra min lave rolige Dal</l>
+<l>Seer jeg mange M&#x00E6;gtiges Fald,</l>
+<l>Sidder paa min Tue tryg,</l>
+<l>Og udt&#x00F8;mmer en Gl&#x00E6;dskabs Pokal.</l>
+</lg>
+<lg>
+<l>Boer jeg ved den n&#x00F8;gne Strand</l>
+<l>Paa en Holm, fuld af &#x00C6;g mellem rullende B&#x00F8;lger,</l>
+<l>Hvor en Fugleh&#x00E6;r paa Vand</l>
+<l>Sild og Brisling og Morten forf&#x00F8;lger;</l>
+<l>Trak jeg da en Fiskedr&#x00E6;t</l>
+<l>Fuld af Rogn, saa min Baad var paa Vei til at synke;</l>
+<l>Og jeg saa blev glad og m&#x00E6;t,</l>
+<l>Maa den Gjerrige l&#x00E6;nge nok klynke.</l>
+<l>Een Ret nok paa N&#x00F8;isomheds Bord:</l>
+<l>Fisken sv&#x00F8;mme! det var et Ord;</l>
+<l>Derpaa drak jeg mig et Glas,</l>
+<l>Sang og drak Fiskeriernes Flor.</l>
+</lg>
+<lg>
+<l>Sjunger Bjerg og Dal og Strand:</l>
+<l>Guld af Bjerg, Br&#x00F8;d af Dal, fuld af Fiske fra Stranden;</l>
+<l>Saa maa Tossen drikke Vand;</l>
+<l>Skjenker Viin udi Glasset til Randen!</l>
+<l>Norges Land er ingen &#x00D8;rk,</l>
+<l>Gl&#x00E6;den f&#x00F8;des og der udaf selve Naturen;</l>
+<l>V&#x00E6;re hvo som vil en Tyrk,</l>
+<l>Sidde t&#x00F8;rstig og vranten og sturen.</l>
+<l>Vi drak Norges H&#x00E6;der og Held,</l>
+<l>Sang om Strand, om Dal og om Fjeld,</l>
+<l>Alting blomstre for Enhver,</l>
+<l>Som vort Land og vort Selskab har kj&#x00E6;r!</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem" n="3">
+<head><ref type="contents" target="contents_3" xml:id="chapter_3">DEN NORSKE VINTER</ref></head>
+<lg>
+<l>Min norske Vinter er saa vakker;</l>
+<l>De hvide sneebed&#x00E6;kte Bakker,</l>
+<l>Og gr&#x00F8;nne Gran med puddret Haar,</l>
+<l>Og trofast Iis paa dybe Vande,</l>
+<l>Og Engledragt paa n&#x00F8;gne Strande;</l>
+<l>Jeg bytter neppe mod en Vaar.</l>
+</lg>
+<lg>
+<l>Nu Dalens muntre S&#x00F8;nner glide</l>
+<l>Paa Skier ned fra Fjeldets Side</l>
+<l>Saa rask som Piil i Luften fl&#x00F8;i,</l>
+<l>Nu let paa Sk&#x00F8;iter de sig svinge,</l>
+<l>Nu Kanefartens Bjelder klinge,</l>
+<l>Og &#x00D8;ret dirrer af den St&#x00F8;i.</l>
+</lg>
+<lg>
+<l>Fra Fjeldets Gruber Malmen kj&#x00F8;res,</l>
+<l>Og Mastetr&#x00E6; til Stranden f&#x00F8;res,</l>
+<l>Og Kulden selv gir Farten Liv,</l>
+<l>Og Snee paa Fjelde Veien baner</l>
+<l>For norske Bondes Karavaner.</l>
+<l>Flid er min Landsmands Tidsfordriv.</l>
+</lg>
+<lg>
+<l>Men vi, som Tid med Sp&#x00F8;g fordrive,</l>
+<l>Og Vennelav med Sang oplive</l>
+<l>I varme Sal ved breden Bord,</l>
+<l>Vi drak, om vi ei kunde andet,</l>
+<l>Skaal for den f&#x00F8;rste Stand i Landet,</l>
+<l>Som pl&#x00F8;ier Hav og dyrker Jord.</l>
+</lg>
+<lg>
+<l>Held f&#x00F8;lge den, som Malmen bryder,</l>
+<l>Hvor Jordens haarde Barm frembyder</l>
+<l>Forborgen Skat til flittig Haand!</l>
+<l>At trodse D&#x00F8;d og Storm og Kulde,</l>
+<l>At v&#x00E6;re fri men Kongen hulde,</l>
+<l>Det er den norske Bondes Aand.</l>
+</lg>
+<lg>
+<l>Han skaber ikke Porceliner,</l>
+<l>Og ei bereder hede Viner,</l>
+<l>Men for hans Sveed vi kj&#x00F8;be dem;</l>
+<l>Han bygger vore Huse t&#x00E6;tte,</l>
+<l>Og Vildt, som vi med Smag anrette,</l>
+<l>Han bringer os fra Skoven frem.</l>
+</lg>
+<lg>
+<l>Fred hvile over Kuldens Bolig!</l>
+<l>Der sidder raske Nordmand rolig,</l>
+<l>Beskjermet mod hver Uvens Vold;</l>
+<l>Og den, som turde Freden bryde,</l>
+<l>For sildig skal den Kamp fortryde;</l>
+<l>Vi f&#x00F8;re Frihed i vort Skjold.</l>
+</lg>
+<lg>
+<l>Om Alting fryser her i Norge,</l>
+<l>For Venskabs Varme t&#x00F8;r jeg borge;</l>
+<l>Thi der er Ild i Nordmands Bryst.</l>
+<l>Kom, Broder! kom, men uden Kulde,</l>
+<l>Hverandre indtil D&#x00F8;den hulde,</l>
+<l>Syng Venskabs Skaal med mandig R&#x00F8;st!</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem" n="4">
+<head><ref type="contents" target="contents_4" xml:id="chapter_4">NORGES SKAAL</ref></head>
+<lg>
+<l>For Norge, Kj&#x00E6;mpers F&#x00F8;deland,</l>
+<l>Vi denne Skaal vil t&#x00F8;mme,</l>
+<l>Og naar vi f&#x00F8;rst faae Blod paa Tand,</l>
+<l>Vi s&#x00F8;dt om Frihed dr&#x00F8;mme;</l>
+<l>Dog vaagne vi vel op engang</l>
+<l>Og bryde L&#x00E6;nker, Baand og Tvang;</l>
+<l>For Norge, Kj&#x00E6;mpers F&#x00F8;deland,</l>
+<l>Vi denne Skaal udt&#x00F8;mme!</l>
+</lg>
+<lg>
+<l>Hver tapper Helt, blandt Klipper f&#x00F8;d,</l>
+<l>Vi drikke vil til &#x00C6;re;</l>
+<l>Hver &#x00E6;rlig Norsk, som L&#x00E6;nker br&#x00F8;d,</l>
+<l>Skal evig elsket v&#x00E6;re!</l>
+<l>Den vrede Livvagts Vaabenbrag</l>
+<l>Forklarer trolig Nordm&#x00E6;nds Sag.</l>
+<l>Hver &#x00E6;rlig Norsk, blandt Klipper f&#x00F8;d,</l>
+<l>Vi drikke nu til &#x00C6;re!</l>
+</lg>
+<lg>
+<l>En Skaal for Dig, min kj&#x00E6;kke Ven,</l>
+<l>Og for de norske Piger!</l>
+<l>Og har Du en, saa Skaal for den!</l>
+<l>Og Skam faae den, som sviger!</l>
+<l>Og Skam faae den, som elsker Tvang</l>
+<l>Og hader Piger, Viin og Sang!</l>
+<l>En Skaal for Dig min kj&#x00E6;kke Ven,</l>
+<l>Og for de norske Piger!</l>
+</lg>
+<lg>
+<l>Og nok en Skaal for Norges Fjeld,</l>
+<l>For Klipper, Snee og Bakker!</l>
+<l>H&#x00F8;r Dovres Echo raabe: &#x00AB;Held!&#x00BB;</l>
+<l>For Skaalen tre Gang takker.</l>
+<l>Ja tre Gang tre skal alle Fjeld</l>
+<l>For Norges S&#x00F8;nner raabe Held;</l>
+<l>Endnu en Skaal for Dig mit Fjeld,</l>
+<l>For Klipper, Snee og Bakker!</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem" n="5">
+<head><ref type="contents" target="contents_5" xml:id="chapter_5">MIN SMAG</ref></head>
+<lg>
+<l>Jeg skj&#x00F8;tter intet om h&#x00F8;ie Sving</l>
+<l>Og ei om Toner, som knibes ud af Kastrater,</l>
+<l>Og ei randsager jeg dybe Ting,</l>
+<l>Og ei bekymrer jeg mig om Krig mellem Stater;</l>
+<l>Jeg min Vise nynner</l>
+<l>Og mit Glas forsyner,</l>
+<l>Og for Resten slaaer jeg m&#x00F8;rke Griller bort</l>
+<l>I Veir og i Vind og i Latter.</l>
+</lg>
+<lg>
+<l>Jeg gj&#x00F8;r kun lidet af Verdens Guld;</l>
+<l>Den snart fik nok, som ei alt for meget begjerte.</l>
+<l>En gjerrig Satan, naar blev han fuld?</l>
+<l>Nei evig T&#x00F8;rst efter meer forvolder ham Smerte;</l>
+<l>Jeg den Kunst vil l&#x00E6;re</l>
+<l>Rolig at undv&#x00E6;re,</l>
+<l>Hvad jeg ei kan faae; thi netop er dog nok</l>
+<l>For dette n&#x00F8;isomme Hjerte.</l>
+</lg>
+<lg>
+<l>Jeg gj&#x00F8;r dog noget af &#x00C6;rens Glands;</l>
+<l>Foragt kan jeg for min bare D&#x00F8;d ikke taale;</l>
+<l>Men jeg foragter den Narredands,</l>
+<l>Hvor Folk sit V&#x00E6;rd efter Rangforordningen maaler;</l>
+<l>Velfortjent at v&#x00E6;re</l>
+<l>Er den sande &#x00C6;re,</l>
+<l>Hvad Smarodser end til Stores Lov og Priis</l>
+<l>Saa himmelh&#x00F8;it monne skraale.</l>
+</lg>
+<lg>
+<l>Smaa Piger holder jeg meget af,</l>
+<l>De Hjertens Unger opliver alting i Lavet;</l>
+<l>Men vee den Skurk, som i Lysters Hav</l>
+<l>Kan &#x00F8;nske Dyd og Uskyldigheden begravet!</l>
+<l>Skaal for &#x00F8;mme Smerter,</l>
+<l>Skaal for rene Hjerter,</l>
+<l>Skaal for Husets Moer og hver en vakker Glut,</l>
+<l>Med Dyd og Ynde begavet!</l>
+</lg>
+<lg>
+<l>Af Venskab gj&#x00F8;r jeg dog allermeest,</l>
+<l>Et Vennelav er et Paradiis her paa Jorden;</l>
+<l>Hvor Gl&#x00E6;den hersker er altid Fest,</l>
+<l>Naar vilde S&#x00E6;der ei skade Dyder og Orden.</l>
+<l>Venner Glasset tager!</l>
+<l>Vinen liflig smager,</l>
+<l>Naar vi drak vort rene Venskabs glade Skaal</l>
+<l>Og Fred og Velstand i Norden.</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem" n="6">
+<head><ref type="contents" target="contents_6" xml:id="chapter_6">TIL EN UNG REISENDE VEN,
+<lb/>SOM HAVDE V&#x00C6;RET I ET KORT BES&#x00D8;G HOS SINE FOR&#x00C6;LDRE.</ref></head>
+<lg>
+<l>At samles, skilles ad,</l>
+<l>Velkommen og farvel,</l>
+<l>At blive kjendt og glemt,</l>
+<l>See det er Livets Deel,</l>
+<l>At nyde Vennelav</l>
+<l>Og savne det igjen,</l>
+<l>Og fremmed s&#x00F8;ge sig paa ny</l>
+<l>En trofast Ven.</l>
+</lg>
+<lg>
+<l>Bes&#x00F8;ge Redet, hvor</l>
+<l>Vi Dagen fik at see,</l>
+<l>Omfavne F&#x00E6;dre der,</l>
+<l>Og dem Graah&#x00E6;rdede,</l>
+<l>Og sige dem paa ny</l>
+<l>Et altfor &#x00F8;mt Farvel;</l>
+<l>Den Sorg og Gl&#x00E6;de tit</l>
+<l>Henrev vor hele Sjel.</l>
+</lg>
+<lg>
+<l>Det er nu engang saa,</l>
+<l>Reis derfor Du, min Ven,</l>
+<l>Til andre St&#x00E6;der og</l>
+<l>Til nye Selskab hen!</l>
+<l>Men glem dog ei for snart,</l>
+<l>Hvor Du har v&#x00E6;ret glad,</l>
+<l>Og hvor blandt muntre Venner</l>
+<l>Du i Aften sad!</l>
+</lg>
+<lg>
+<l>Min Ven! kom, skjenk og drik</l>
+<l>Af Bacchi Kildev&#x00E6;ld;</l>
+<l>Kom, &#x00F8;nsk den Reisende</l>
+<l>Paa sine Veie Held!</l>
+<l>Og &#x00F8;nsk dem Gl&#x00E6;de, som</l>
+<l>Ham her maa savne meest,</l>
+<l>Hans Fremgang krone deres</l>
+<l>Dages svage Rest!</l>
+</lg>
+<lg>
+<l>Reis, unge raske Mand,</l>
+<l>S&#x00F8;n af vor gamle Ven,</l>
+<l>Dig Lykken vorde huld,</l>
+<l>Du altid v&#x00E6;rdig den!</l>
+<l>Og derpaa bort med Alt,</l>
+<l>Hvad m&#x00F8;rke Tanker gav,</l>
+<l>Nyd Venskab, Viin og Fryd</l>
+<l>Endnu i dette Lav!</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem" n="7">
+<head><ref type="contents" target="contents_7" xml:id="chapter_7">UDSIGTER FRA ULRIKKEN</ref></head>
+<lg>
+<l>Jeg tog min nystemte Cithar i H&#x00E6;nde,</l>
+<l>Sorgen forgik mig paa Ulrikkens Top;</l>
+<l>T&#x00E6;nkte paa Bauner, om de skulde br&#x00E6;nde,</l>
+<l>Og byde Mandskab mod Fienden op;</l>
+<l>F&#x00F8;lede Freden, blev glad i min Aand,</l>
+<l>Og greb til min Cithar med legende Haand.</l>
+</lg>
+<lg>
+<l>V&#x00E6;rdige gamle graaskaldede Bjerge,</l>
+<l>I, som omringe min F&#x00E6;drene-Bye,</l>
+<l>I, som saa mangen en Torden afv&#x00E6;rge,</l>
+<l>Og s&#x00F8;nderbryde electriske Skye!</l>
+<l>Yndig er Dalen, I hegne mig ind,</l>
+<l>Og Foraar og Dalen oplive mit Sind.</l>
+</lg>
+<lg>
+<l>Herfra fortryllende Syner jeg skuer,</l>
+<l>Lungegaards Vandet, den Slette saa blaa,</l>
+<l>Nyegaards Alleens l&#x00F8;vkronede Buer,</l>
+<l>Derunder prydede Skj&#x00F8;nne at gaae,</l>
+<l>Deromkring Markens den festlige Dragt,</l>
+<l>Det Guld i det Gr&#x00F8;nne den blomstrende Pragt.</l>
+</lg>
+<lg>
+<l>T&#x00E6;t ved mig Alrikstads dobbelte Slette,</l>
+<l>Kongeborg fordum og brugbar til Strid,</l>
+<l>Skj&#x00F8;n af Naturen om Fortrin vil tr&#x00E6;tte</l>
+<l>Med selve Nygaard, som prunker ved Flid;</l>
+<l>Der l&#x00F8;b fra Svartedig skummende Aae,</l>
+<l>Der saae jeg M&#x00F8;llehjul flittig at gaae.</l>
+</lg>
+<lg>
+<l>Bedre frem Bergen, det Handelens S&#x00E6;de,</l>
+<l>Str&#x00E6;kkende Arme om seilbare Vaag.</l>
+<l>Derhen h&#x00F8;ifarmede J&#x00E6;gter med Gl&#x00E6;de</l>
+<l>Rustes hver Sommer til dobbelte Tog;</l>
+<l>Derfra gaae Skibe saa vide om Land;</l>
+<l>Der kj&#x00F8;ber, der s&#x00E6;lger, der handler hver Mand.</l>
+</lg>
+<lg>
+<l>Der seer jeg Skoven af Masterne h&#x00F8;ie,</l>
+<l>Handlende Stuers bredvaiende Flag:</l>
+<l>Vippebom seer jeg sig flittig at b&#x00F8;ie,</l>
+<l>Flittig at h&#x00E6;ve. - Tangenternes Slag</l>
+<l>Paa dette Handels-Claveer gav Musik,</l>
+<l>Og Vare af Skuderne dandsende gik.</l>
+</lg>
+<lg>
+<l>Nu tog jeg Vand af den springende Kilde,</l>
+<l>Hvorudaf Oldtidens K&#x00E6;mpesl&#x00E6;gt drak.</l>
+<l>Naar de lyk&#x00F8;nske sit F&#x00F8;deland vilde,</l>
+<l>Sv&#x00E6;rdet af Skeden tillige de trak;</l>
+<l>Vee! den, saa sang de, saa synger jeg og,</l>
+<l>Den Nidding, som Sv&#x00E6;rd imod F&#x00F8;deland drog.</l>
+</lg>
+<lg>
+<l>Freden, o! Bergen! din Rede beskjerme,</l>
+<l>Sommeren krone hver Ager med Br&#x00F8;d!</l>
+<l>Ilden og Sv&#x00E6;rdet Dig aldrig forn&#x00E6;rme,</l>
+<l>Havet Dig aabne sit frugtbare Skj&#x00F8;d!</l>
+<l>Da mellem Bjergene syv skal Du staae,</l>
+<l>Naar nybaget Kj&#x00F8;bst&#x00E6;d i Luften maa gaae.</l>
+</lg>
+<lg>
+<l>Jeg drak den Skaal, som mig Ulrikken skjenkte,</l>
+<l>Drikker den samme, I, som have Viin!</l>
+<l>Hver, som oprigtig mod F&#x00F8;debye t&#x00E6;nkte,</l>
+<l>Lod denne Munterheds Skaal v&#x00E6;re sin.</l>
+<l>Held for vort Bergen, vort F&#x00F8;deland Held!</l>
+<l>Gid alting maa blomstre, fra Fjere til Fjeld!</l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

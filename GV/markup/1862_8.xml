@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Sange ved den nordiske Studenterfest</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-26"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="008"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1862">1862</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1862_8_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Sange<lb/>ved<lb/>den nordiske Studenterfest</titlePart>
+	<titlePart type="sub">i<lb/>Rosenborg Slotshave<lb/>den 13. Juni 1862.</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<docImprint>
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<pb facs="1862_8_page0002.png"/>
+<fw type="pageNum"></fw>
+<head>For Christiania,</head>
+<fw type="graphic"/>
+<head>Mel.: Mens Nordhavet bruser o. s. v.</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">E</hi>i Bjergene mödes, men Venner vel,</l>
+<l>Er end fra hinanden de fjerne,</l>
+<l>Og glade vi modes paa Mark og Fjeld,</l>
+<l>Alt under den samme Nordstjerne.</l>
+<l>:,: Som Nordlys skinner i höie Nord</l>
+<l>Den store Daad og det gode Ord! :,:</l>
+</lg>
+<lg>
+<l>Som Skjoldungen mödte i Birkelund</l>
+<l>Den Skjoldmö, ham lysted at fæste,</l>
+<l>Og Ylfingen mödte ved Oresund</l>
+<l>Sin Lilievaand med de Bedste,*)</l>
+<l>:,: Saa altid modes i höie Nord</l>
+<l>Den store Daad med det gode Ord! :,:</l>
+</lg>
+<p>*) Efter Danmarks Krönike fandt Kong Hading sin <hi rend="spaced">Ragnhild</hi> mellem Norges
+Fjelde, og Erik Ylfing sin <hi rend="spaced">Gunver</hi> hos Kong Fredegod i Leire.</p>
+<pb facs="1862_8_page0003.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Da Hading han giæsted i Nittedal,</l>
+<l>Og Erik han giæsted i Leire,</l>
+<l>Da fulgtes med liflige Ord i Sal</l>
+<l>Der fælles Bedrifter og Seire,</l>
+<l>Som fölges skal i det höie Nord</l>
+<l>Den store Daad med det gode Ord! :,:</l>
+</lg>
+<lg>
+<l>Nedsynke vel kunde en sjelden Gang</l>
+<l>I Glemsel de store Idrætter,</l>
+<l>Men vaagned dog snart ved Sagn og Sang,</l>
+<l>Som Thor, naar han sov mellem Jætter,</l>
+<l>Saa atter mödtes i höie Nord</l>
+<l>Den store Daad med det gode Ord! :,:</l>
+</lg>
+<lg>
+<l>Saa tone i Sky nu de bedste Ord</l>
+<l>Fra Sletten, som vi kan paafinde,</l>
+<l>Da suser vel brat i det höie Nord</l>
+<l>Det Ry over Bjergenes Tinde:</l>
+<l>Som Odin kvæder, saa hamrer Thor</l>
+<l>Til Storværks Priis i det höie Nord! :,:</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

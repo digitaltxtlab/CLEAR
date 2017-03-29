@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Höst-Sang</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-14"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="008"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1844">1844</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1844_8_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Höst-Sang</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace>Kjobenhavn</pubPlace>Trykt hos J. D. Qvist, Bog- og Nodetrykker,<lb/>Badstuestræde Nr. 124.<lb/>
+<fw type="graphic"/>
+<docDate>1844</docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<pb facs="1844_8_page0002.png"/>
+<fw type="pageNum"></fw>
+<head>Mel. Op al den Ting, som Gud har gjort.</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">N</hi>u falmer Skoven trindt om Land,</l>
+<l>Og Fuglestemmen daler;</l>
+<l>Nu Storken flyver over Strand,</l>
+<l>Ham følge muntre Svaler.</l>
+</lg>
+<lg>
+<l>Hvor Marken bølged nys som Guld</l>
+<l>Med Ax og Vipper bolde,</l>
+<l>Der seer man nu kun sorten Muld,</l>
+<l>Og Stubbene de golde!</l>
+</lg>
+<lg>
+<l>Men i vor Lade, paa vor Lo,</l>
+<l>Der har vi nu Guds Gaver;</l>
+<l>Der Virksomhed og Velstand groe</l>
+<l>I Tøndemaal af Traver.</l>
+</lg> 
+<pb facs="1844_8_page0003.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Og Han, som voxe lod paa Jord</l>
+<l>Med Skoven Ax og Vipper,</l>
+<l>Han bliver hos os med sit Ord,</l>
+<l>Det Ord, som aldrig glipper.</l>
+</lg>
+<lg>
+<l>Ham takke alle vi med Sang</l>
+<l>For Alt, hvad han har givet:</l>
+<l>For hvad han voxe lod i Vang,</l>
+<l>For Ordet og for Livet!</l>
+</lg>
+<lg>
+<l>Da over os, det hele Aar,</l>
+<l>Sin Fred han lyser gjerne;</l>
+<l>Og efter Vinter kommer Vaar</l>
+<l>Med Sommer, Korn og Kjerne.</l>
+</lg>
+<lg>
+<l>Og, naar engang, paa Herrens Bud,</l>
+<l>Vort Timeglas udrinder,</l>
+<l>En evig Sommer hos vor Gud</l>
+<l>I Paradiis vi finder!</l>
+</lg>
+<lg>
+<l>Da høste vi, som Fugle nu,</l>
+<l>Der ikke saae og pløie;</l>
+<l>Da komme aldrig meer ihu</l>
+<l>Vi Jordens Strid og Møie.</l>
+</lg> 
+<pb facs="1844_8_page0004.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>For Høsten her og Høsten hist.</l>
+<l>Vor Gud skee Lov og Ære,</l>
+<l>Som, ved Vorherre Jesum Christ,</l>
+<l>Vor Fader vilde være.</l>
+</lg>
+<lg>
+<l>Hans Aand, som Alting kan og veed,</l>
+<l>I disse korte Dage,</l>
+<l>Med Tro og Haab og Kjærlighed</l>
+<l>Til Himlen os ledsage!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

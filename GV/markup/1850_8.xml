@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Grundlovens Aarsdag</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-22"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="008"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1850">1850</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1850_8_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Grundlovens Aarsdag<lb/></titlePart>
+	<titlePart type="sub">Den 5te Juni 1850.<lb/></titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace>Kjøbenhavn.</pubPlace>.<lb/>Trykt hos Kgl. Hofbogtrykker Bianco Luno.<lb/>
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<pb facs="1850_8_page0002.png"/>
+<fw type="pageNum"></fw>
+<fw type="graphic"/>
+<p><hi rend="align(center)">Mel. Vi Sømænd giør ei mange Ord.</hi></p>
+<lg>
+<l><hi rend="initial">D</hi>et er hos os et gammelt Ord</l>
+<l>"<hi rend="spaced">Med Lov skal Landet bygges</hi>"</l>
+<l>Og under Loven fra ifjor</l>
+<l>Vi haabe, det skal lykkes;</l>
+<l><hi rend="spaced">Det Kongens er og Folkets Lov</hi>,</l>
+<l>Med Sandhed vi tor sige,</l>
+<l>Og forsaavidt den bedste Lov</l>
+<l>I noget Kongerige!</l>
+</lg>
+<lg>
+<l>Kun første Gang, med Sort paa Hvidt,</l>
+<l>Nu sylder Aar <hi rend="spaced">Grundloven</hi>,</l>
+<l>Men forste Gang, som første Skridt,</l>
+<l>Er kostbart her i Skoven,</l>
+<l>Det første Aar af Friheds Æt</l>
+<l>Er kostbart allevegne,</l>
+<l>Det giver Folket Lov og Net</l>
+<l>Til sig for frit at regne!</l>
+</lg> 
+<pb facs="1850_8_page0003.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Nu trøstig vi om breden Bord</l>
+<l>Tor synge: Seier vundet!</l>
+<l>Et Tidsrum nyt er fra ifjor</l>
+<l>For Dannemænd oprundet,</l>
+<l>Med Konge-Lov og Folke-Ret,</l>
+<l>Med Friheds-Morgengryet,</l>
+<l>Med Torden-Slag og Fjende-Slæt,</l>
+<l>Med Danmarks Roes fornyet!</l>
+</lg>
+<lg>
+<l>Vidunder skee end hertillands,</l>
+<l>I Have og paa Hede,</l>
+<l>Thi i den visne Hæderskrands</l>
+<l>Sangfuglen bygged Nede,</l>
+<l>Og naar det ret er ruget ud,</l>
+<l>Det Kuld, vi har ivente,</l>
+<l>Da vorder Krandsen atter prud</l>
+<l>Med Rosenduft i Rente!</l>
+</lg>
+<lg>
+<l>Saa sor de Smaa er Lykken stor,</l>
+<l>Vi den har oppebiet,</l>
+<l>Nu Skaal for Loven fra ifjor!</l>
+<l>Med Blod den blev indviet,</l>
+<l>Men det var Helteblod, som flod</l>
+<l>For Danmarks gamle Rige,</l>
+<l>Det gjorde Friheds Morgen rod,</l>
+<l>Men straalende tillige!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

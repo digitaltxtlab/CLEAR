@@ -1,0 +1,2894 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet type="text/xsl" href="../NSL_ebooks.xsl"?>
+<!DOCTYPE TEI PUBLIC "-// NSL Norge //EN" "http://www.nslnorge.no/tekster/NSL_tei_xinclude.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="NSL_Brun_EinerT"> 
+<teiHeader> 
+<fileDesc> 
+<titleStmt> 
+ <title>Det norske spr&#x00E5;k- og litteraturselskap 2003.
+  <lb/>Johan Nordahl Brun: <hi rend="italic">Einer Tambeskielver</hi>.
+  <lb/>Utgave ved Ellen Nessheim Wiger.</title> 
+</titleStmt> 
+<publicationStmt><p>Publiseres som digital tekst av NSL.</p></publicationStmt> 
+<sourceDesc> 
+<p>Worddokument (2001).</p> 
+</sourceDesc> 
+</fileDesc> 
+<revisionDesc> 
+<change xml:id="ENW" who="ENW" when="2009-12-03">Opprettet fil og kodet grunnstruktur.</change> 
+</revisionDesc> 
+</teiHeader> 
+<text xml:id="NSL_Brun_EinerT_tekst" type="drama">
+<front>
+ <titlePage type="main"> 
+<docTitle> 
+<titlePart type="main">Einer Tambeskielver.</titlePart> 
+<titlePart type="part">S&#x00F8;rgespil i Fem Optog
+<lb/>til Brug for den
+<lb/>Kongelige Danske Skueplads</titlePart> 
+</docTitle> 
+<byline>ved <docAuthor>Johan Nordahl Brun</docAuthor>. <lb/>Medlem i det Kongelige Norske Videnskabers Selskab.</byline> 
+<docImprint> 
+<pubPlace>K&#x00F8;benhavn,</pubPlace> <docDate when="1772">1772</docDate> 
+<publisher>Trykt hos <ptr type="commentary" target="EinerT_comm1" xml:id="EinerT_comm1"/>A. H. Godiches Efterleverske,
+<lb/>ved Frid. Christ. Godiche.</publisher> 
+</docImprint> 
+</titlePage>
+ <div type="illustration"><figure><graphic url="images/EinerTambeskielver.jpg"/></figure></div>
+ <div xml:id="contents">
+  <list type="contents_main">
+   <item><ref target="chapter_1" xml:id="contents_1">Deres Kongelige H&#x00F8;yhed Prints Friderich, Arve-Prints til Danmark og Norge etc. etc. etc.</ref></item>
+   <item><ref target="chapter_2" xml:id="contents_2">Til L&#x00E6;seren</ref></item>
+   <item><ref target="chapter_3" xml:id="contents_3">Personerne</ref></item>
+   <item><ref target="chapter_4" xml:id="contents_4">F&#x00F8;rste Optog</ref></item>
+   <item><ref target="chapter_5" xml:id="contents_5">Andet Optog</ref></item>
+   <item><ref target="chapter_6" xml:id="contents_6">Tredie Optog</ref></item>
+   <item><ref target="chapter_7" xml:id="contents_7">Fierde Optog</ref></item>
+   <item><ref target="chapter_8" xml:id="contents_8">Femte Optog</ref></item>
+  </list>
+ </div>
+ <div type="chapter" subtype="acknowledgement">
+  <div type="uchapter" subtype="dedication">
+   <head><ref type="contents" target="contents_1" xml:id="chapter_1">Deres Kongelige H&#x00F8;yhed Prints Friderich, Arve-Prints til Danmark og Norge etc. etc. etc.</ref></head>
+   <head><ptr type="criticalApp" target="EinerT_var1" xml:id="EinerT_var1"/>Allernaadigste Herre!</head> 
+<p>For <hi rend="bold">Deres Kongelige H&#x00F8;yhed</hi> nedl&#x00E6;gger jeg allerunderdanigst n&#x00E6;rv&#x00E6;rende S&#x00F8;rgespil, tagen af mit F&#x00E6;drenelands Historie. <hi rend="bold">De</hi> elske vort Land og vort Folk, h&#x00F8;re vore Klager, og fremb&#x00E6;re vor N&#x00F8;d for <ptr type="commentary" target="EinerT_comm2" xml:id="EinerT_comm2"/><hi rend="bold">Hans Majest&#x00E6;t vor allernaadigste Konge</hi>; Og <hi rend="bold">De, allernaadigste Prints! </hi> kan best ski&#x00F8;nne, hvor meget den Mand fortiener at opl&#x00F8;ftes, som til Rigers og Landes Nytte har bekl&#x00E6;det den &#x00E6;rverdige Post, at staae imellem Regenten og Folket. For <hi rend="bold">Deres Kongelige H&#x00F8;yhed</hi> fremtr&#x00E6;der derfor min Helt: <ptr type="commentary" target="EinerT_comm3" xml:id="EinerT_comm3"/>Alderdommens Historie har udmerket ham med stolte Tr&#x00E6;k; Kierlighed til sit F&#x00E6;dreneland, Troskab mod sin Konge og et uovervindeligt Mod vare hans Dyder; prydet med dem turde han haabe Biefald, dersom ikke min Uformuenhed har foraarsaget at han er sat i et alt for svagt Lys; <ptr type="commentary" target="EinerT_comm4" xml:id="EinerT_comm4"/>Erkiendtlighed mod mit F&#x00E6;drenelands <ptr type="criticalApp" target="EinerT_var2" xml:id="EinerT_var2"/>Velgi&#x00F8;rer har imidlertid dog v&#x00E6;ret den Aand, hvoraf jeg er drevet: Jeg har havt denne Drift tilf&#x00E6;lles med de fleeste af mine Landsm&#x00E6;nd. Stor skal derfor ogsaa <hi rend="bold">Deres Kongelige H&#x00F8;yhed</hi> v&#x00E6;re i alle Nordm&#x00E6;nds Hierter fordi <hi rend="bold">De</hi> troe, at vort Folk fortiener <hi rend="bold">sin Konges</hi> Kierlighed og H&#x00F8;yagtelse. Hver Norsk Skiald, og alle Videnskabernes Dyrkere i Norge gl&#x00E6;de sig allerede under <hi rend="bold">Deres Kongelige H&#x00F8;yheds allernaadigste</hi> <ptr type="commentary" target="EinerT_comm5" xml:id="EinerT_comm5"/><hi rend="italic">Pr&#x00E6;sidium</hi>. Ja hvor lykkelig skal een af det Kongelige Norske Videnskabers Selskabs Medlemmer agte sig, om n&#x00E6;rv&#x00E6;rende Arbeyde maatte behage <hi rend="bold">den H&#x00F8;ye</hi> <ptr type="commentary" target="EinerT_comm6" xml:id="EinerT_comm6"/><hi rend="italic">Pr&#x00E6;ses</hi>; Om <hi rend="bold">Han naadigst</hi> ville ansee det som et Beviis paa min Lyst til at arbeyde og aagre med de ringe Gaver, mig ere forundte. Den Opm&#x00E6;rksomhed, <hi rend="bold">Deres Kongelige H&#x00F8;yhed</hi> v&#x00E6;rdigede min <hi rend="bold">Zarine</hi>, og den store Gavmildhed, hvormed saavel <hi rend="bold">Hans Majest&#x00E6;t Kongen</hi>, som <hi rend="bold">Deres Kongelige H&#x00F8;yhed</hi> benaadede dens ringe Forfatter, var mig en udtrykkelig Befaling til at gi&#x00F8;re et nyt Fors&#x00F8;g. Tillad mig, <hi rend="bold">allernaadigste Prints</hi>, offentlig at afl&#x00E6;gge min allerunderdanigste Taksigelse, offentlig at gi&#x00F8;re et &#x00D8;nske, som gaaer fra Hiertet: At <hi rend="bold">Deres Kongelige H&#x00F8;yheds</hi> Raad til Rigernes Beste stedse maae have Fremgang og v&#x00E6;re velsignede, at Videnskaberne i mit F&#x00E6;dreneland under sin nye <hi rend="italic">Pr&#x00E6;ses</hi> l&#x00E6;nge maae blomstre, og at <hi rend="bold">Deres Kongelige H&#x00F8;yhed</hi> lyksalig maae opleve den Tid, at de b&#x00E6;re modne Frugter. Saa skulle heldigere Sangere end jeg, Norske Sangere, som altid ere for stolte og for redelige til at hykle, opfylde Dalene med Lovsange, og Biergene skulle svare, og Norges Velgi&#x00F8;rer blive ud&#x00F8;delig.</p>
+<signed>allerunderdanigst af <hi rend="bold">J. N. Brun.</hi></signed>
+</div>
+  <div type="chapter" subtype="preface">
+   <head><ref type="contents" target="contents_2" xml:id="chapter_2">Til L&#x00E6;seren</ref>:</head>
+<p><ptr type="commentary" target="EinerT_comm7" xml:id="EinerT_comm7"/>Publicum yndede <hi rend="bold">Zarine</hi>; Det fordrede et nyt Fors&#x00F8;g af dens <hi rend="bold">Forfatter</hi>; Det &#x00F8;nskede helst at see een af F&#x00E6;drenelandets egne Helte; jeg har adlydet: Her er <hi rend="bold"><ptr type="commentary" target="EinerT_comm8" xml:id="EinerT_comm8"/>Einer Tambeskielver</hi>; Dersom han t&#x00E6;nker Norsk, dersom hans Norske T&#x00E6;nkemaade ikke van&#x00E6;rer ham, har jeg i det mindste opfyldt den Pligt, jeg skyldte min Landsmand; hans Navn skyldte jeg et &#x00C6;reminde; thi jeg er f&#x00F8;d i den Egn, hvor hans St&#x00F8;v hviler; De truende Levninger af hans Herre-S&#x00E6;de (<hi rend="bold">Huusbye</hi> i Byn&#x00E6;ssets Pr&#x00E6;stegield ved Tronhiem) talede til mig, da jeg endnu var en Dreng, og en hellig &#x00C6;refrygt for Helten sneeg sig hemmelig ind i mit sp&#x00E6;de Bryst: Der underholdte jeg hans Erindring med mange overdrevne Billeder; Billeder, som den f&#x00F8;rste Alders spillende Indbildnings-Kraft frembringer i Overfl&#x00F8;dighed. Stor, t&#x00E6;nkte jeg, maa han have v&#x00E6;ret, stor som <hi rend="bold">Goliath</hi>, st&#x00E6;rk som <hi rend="bold">Samson</hi>. Torden har han talet, og hans Brynie har v&#x00E6;ret som den glatte Klippe, der h&#x00E6;nger ud over Havet, og glindsende beleer de stolte B&#x00F8;lger, som rase imod den. Kort sagt: Jeg t&#x00E6;nkte om <hi rend="bold">Einer Tambeskielver</hi>, som en Bonde om sin Konge, f&#x00F8;rend han har seet ham. Men da jeg fik Begreb om sande Fortienester, t&#x00E6;nkte jeg ikke uden F&#x00F8;lelse paa disse forfaldne Mindesm&#x00E6;rker. Denne F&#x00F8;lelse blev mig smertelig, da jeg kom ud i Verden. Jeg sukkede, saa tidt jeg saae en adelig F&#x00F8;dsel og tomme Titler med stor Kunst og endnu st&#x00F8;rre Bekostning <ptr type="criticalApp" target="EinerT_var3" xml:id="EinerT_var3"/>indhugne i et evigt Marmor. Uski&#x00F8;nsomme Eftersl&#x00E6;gt, t&#x00E6;nkte jeg, er det saaledes, du bel&#x00F8;nner Fortienester? <ptr type="commentary" target="EinerT_comm9" xml:id="EinerT_comm9"/>Og du, mit F&#x00E6;dreneland, som har havt saa mange Helte, hvor skiuler du deres <ptr type="commentary" target="EinerT_comm10" xml:id="EinerT_comm10"/>Ihukommelse? hvi <ptr type="criticalApp" target="EinerT_var4" xml:id="EinerT_var4"/>kneise der ikke paa dine Fieldrygge &#x00C6;re-St&#x00F8;tter for dine kiekke S&#x00F8;nner? Fuld af denne Ild besluttede jeg at gi&#x00F8;re, alt, hvad der stod i min Magt, til at redde mine Landsm&#x00E6;nds Navne fra Forglemmelse, og man skal rose min Nidkierhed, om man endog maa ynkes over min Afmagt.</p>
+<p>For dem, som ikke have l&#x00E6;st <hi rend="bold"><ptr type="commentary" target="EinerT_comm11" xml:id="EinerT_comm11"/>Snorro Sturl&#x00E6;son</hi> eller <hi rend="bold"><ptr type="commentary" target="EinerT_comm12" xml:id="EinerT_comm12"/>Torf&#x00E6;us</hi> tiener f&#x00F8;lgende til Underretning: <hi rend="bold"><ptr type="commentary" target="EinerT_comm13" xml:id="EinerT_comm13"/>Harrald Haardraade</hi> regierede i Norge. Tronhiem var hans Hovedstad. Halvanden Miil derfra boede, som f&#x00F8;r er sagt, <hi rend="bold">Einer Tambeskielver</hi> paa sin S&#x00E6;de-Gaard, som endnu har sit gamle Navn <hi rend="bold"><ptr type="criticalApp" target="EinerT_var5" xml:id="EinerT_var5"/>Huusbye</hi>; han var <ptr type="criticalApp" target="EinerT_var6" xml:id="EinerT_var6"/>Lehnsh&#x00F8;vding over <hi rend="bold">Tr&#x00F8;ndelagen</hi>; Saa kaldtes den Tid Tronhiems Stift, og alle Indbyggerne i den Egn <hi rend="bold">Tr&#x00F8;nder</hi>; <hi rend="bold">Einer</hi> havde til &#x00C6;gte <hi rend="bold">Bergliod</hi>, en Datter af den tappre <hi rend="bold"><ptr type="commentary" target="EinerT_comm14" xml:id="EinerT_comm14"/>Hagen Jarl</hi>, som regierede en Tid over hele Norge, og boede paa Lade-Gaard ved Tronhiem. <hi rend="bold"><ptr type="commentary" target="EinerT_comm15" xml:id="EinerT_comm15"/>Elisabeth</hi> var en Russisk Printsesse, en Datter af <hi rend="bold"><ptr type="commentary" target="EinerT_comm16" xml:id="EinerT_comm16"/>Jarisleif</hi>, som regierede over Garderige, nu Rusland. <hi rend="bold">Sigrid</hi> var <hi rend="bold">Harrald Haardraades</hi> Broder-Datter. <ptr type="commentary" target="EinerT_comm17" xml:id="EinerT_comm17"/>Kong <hi rend="bold">Magnus</hi>, <hi rend="bold"><ptr type="commentary" target="EinerT_comm18" xml:id="EinerT_comm18"/>Oluf den Helliges</hi> S&#x00F8;n, var <hi rend="bold">Harralds</hi> Formand i Riget. Han deelte det med <hi rend="bold">Harrald</hi> mod en vis Sum Penge og Guld, da denne var kommen tilbage fra Constantinopel, hvor han i <ptr type="commentary" target="EinerT_comm19" xml:id="EinerT_comm19"/>Keiserinde <hi rend="bold">Zoes</hi> Tieneste havde giort vigtige Feldt-Tog i Africa og paa Sicilien. <hi rend="bold">Einer</hi> kaldte <hi rend="bold">Magnus</hi> sin Foster-S&#x00F8;n, og var agtet af ham, som en Fader. Begge Kongerne f&#x00F8;rte Krig i Danmark mod <ptr type="commentary" target="EinerT_comm20" xml:id="EinerT_comm20"/>Kong <hi rend="bold">Svend</hi>, som af <hi rend="bold">Magnus</hi> var sat til <hi rend="bold">Jarl</hi> over Riget; Men havde <ptr type="commentary" target="EinerT_comm21" xml:id="EinerT_comm21"/>opkastet sig til Konge. I dette Feldt-Tog d&#x00F8;de <hi rend="bold">Magnus</hi>. <hi rend="bold">Einer</hi> ilede at forlade Krigen og begrave sin Konge. Folket samtykkede, og <hi rend="bold">Harrald</hi> maatte f&#x00F8;lge, fuld af Fortrydelse over <hi rend="bold">Einer</hi>, og med det faste Fors&#x00E6;t, snart igien at hiems&#x00F8;ge Danmark med Krig. Daglig voxte <ptr type="criticalApp" target="EinerT_var7" xml:id="EinerT_var7"/>Misforstaaelse mellem Kongen og <hi rend="bold">Einer</hi>, og endelig, da han tog en Tyv af F&#x00E6;ngslet, som <hi rend="bold">Harrald</hi> havde ladet s&#x00E6;tte fast, blev denne fort&#x00F8;rnet, og <hi rend="bold">Tambeskielver</hi> og <hi rend="bold">hans S&#x00F8;n</hi> maatte b&#x00F8;de med Livet.</p>
+<p><hi rend="bold">Oluf den Helliges</hi> Liig blev af Einer med stor H&#x00F8;ytidelighed indsat i St. Clemens Kirke ved Kongens Gaard i Tronhiem. Et Aar efter at denne ulykkelige Konge var d&#x00F8;d, blev han opgraven af Jorden, og <ptr type="commentary" target="EinerT_comm22" xml:id="EinerT_comm22"/>befandtes aldelees ufort&#x00E6;ret, ja efter <hi rend="bold">Sturl&#x00E6;sons</hi> Beretning, saa r&#x00F8;d og hvid, som om han nyelig havde v&#x00E6;ret d&#x00F8;d. Om dette var saa, og havde naturlige Aarsager, eller det var en Virkning af Overtroe, eller et Stats-Kneb; Saa er det dog vist, at det gav for den st&#x00F8;rste Deel Anledning til den &#x00C6;re, man <ptr type="commentary" target="EinerT_comm23" xml:id="EinerT_comm23"/>beviiste denne Konges St&#x00F8;v, og at man tillagde ham saa stor Hellighed.</p>
+<p>Historien beretter, at <hi rend="bold">Harald</hi> engang tog <hi rend="bold">Olufs</hi> Skrin frem for at see sin Broder. Denne Omst&#x00E6;ndighed har jeg benyttet mig af til en Episode; jeg troede, det var overeensstemmende med <hi rend="bold">Haralds</hi> Stats-Kunst, i saa <ptr type="commentary" target="EinerT_comm24" xml:id="EinerT_comm24"/>slibrige Omst&#x00E6;ndigheder at ville f&#x00F8;rst fors&#x00F8;ge de <ptr type="commentary" target="EinerT_comm25" xml:id="EinerT_comm25"/>lemf&#x00E6;ldigste Midler til at bringe <hi rend="bold">Einer</hi> paa sin Side; og de <ptr type="criticalApp" target="EinerT_var8" xml:id="EinerT_var8"/>H&#x00F8;ytideligheder, han anrettede i Templet, kunde han med saa meget st&#x00F8;rre Grund haabe, skulde have sin gode Virkning paa <hi rend="bold">Tambeskielver</hi>, som Heltene i den Tid med al deres Grumhed havde tilb&#x00F8;rlig &#x00C6;refrygt for alt det, som havde Navn af Helligdom, og <hi rend="bold">Einer</hi> selv bar saa stor H&#x00F8;yagtelse for <hi rend="bold">Oluf den Hellige</hi>, helst efter hans D&#x00F8;d.</p>
+<p>At man ey skulde t&#x00E6;nke, det var et tomt <ptr type="commentary" target="EinerT_comm26" xml:id="EinerT_comm26"/>Pralerie, hvad <hi rend="bold">Einer</hi> siger om sig selv <hi rend="bold">Andet Optog F&#x00F8;rste Optrin</hi>, maa jeg endnu f&#x00F8;ye f&#x00F8;lgende Underretning hertil: Allerede i <hi rend="bold"><ptr type="commentary" target="EinerT_comm27" xml:id="EinerT_comm27"/>Oluf Trygg&#x00E6;sons</hi> Tid var <hi rend="bold">Tambeskielver</hi> bekiendt af sin Tapperhed. <ptr type="commentary" target="EinerT_comm28" xml:id="EinerT_comm28"/>Det m&#x00E6;rkv&#x00E6;rdige S&#x00F8;eslag, denne Konge holdt ved Rygen mod <hi rend="bold">Kong Svend</hi> af Danmark, <hi rend="bold"><ptr type="commentary" target="EinerT_comm29" xml:id="EinerT_comm29"/>Oluf F&#x00F8;nske</hi> af Sverrig og <hi rend="bold"><ptr type="commentary" target="EinerT_comm30" xml:id="EinerT_comm30"/>Erich Jarl</hi> en Nordmand, hvis Fader <hi rend="bold">Trygg&#x00E6;son</hi> havde ihielslaget, udm&#x00E6;rkede min Helt i sin <ptr type="criticalApp" target="EinerT_var9" xml:id="EinerT_var9"/>Alders attende Aar. Den Danske og Svenske Flode var slagen, da <hi rend="bold">Erich Jarl</hi> lagde t&#x00E6;t til den Norske Konges Store Skib, kaldet <hi rend="bold">Ormen hin lange</hi>, <ptr type="criticalApp" target="EinerT_var10" xml:id="EinerT_var10"/>og da blev l&#x00E6;nge stridet med lige Tapperhed. <hi rend="bold">Einer</hi> stod hos Kongen, og havde en Bue, indrettet til hans st&#x00E6;rke Arm. Med den ski&#x00F8;d han uden at feile; da den eengang var sp&#x00E6;ndt, traf een af Fiendens Pile lige paa Buen, og den brast. Kongen h&#x00F8;rte et Knald, og spurgte hvad det var; <hi rend="bold">Nu</hi>, svarede<hi rend="bold"> Einer, brast Norges Rige af dine H&#x00E6;nder, Konge</hi>. Man gav ham en anden Bue; men den var for svag, han kastede den, og v&#x00E6;rgede sig med Sv&#x00E6;rd og Skiold; Men Kongen omkom i Slaget, og <hi rend="bold">Erich Jarl</hi> vandt Seyer; <ptr type="commentary" target="EinerT_comm31" xml:id="EinerT_comm31"/>See meere <hi rend="bold">Snorro Sturl&#x00E6;son</hi> pag. 176.</p>
+</div>
+</div>
+ <div type="chapter" subtype="castlist">
+<castList>
+ <head><pb n="I"/><ref type="contents" target="contents_3" xml:id="chapter_3">Personerne</ref>.</head>
+<castItem xml:id="Harrald"><role>Harrald Haardraade</role> <roleDesc>Norges Konge</roleDesc>.</castItem>
+<castItem xml:id="Elisabeth"><role>Elisabeth</role> <roleDesc>hans Dronning, en Russisk Printsesse</roleDesc>.</castItem>
+<castItem xml:id="Einer"><role>Einer</role> <roleDesc>Tambeskielver Lehnsh&#x00F8;vding over Tronhiems Stift</roleDesc>.</castItem>
+<castItem xml:id="Berliod"><role><ptr type="criticalApp" target="EinerT_var11" xml:id="EinerT_var11"/>Bergliod</role> <roleDesc>hans Frue</roleDesc>.</castItem>
+<castItem xml:id="Endre"><role>Endre</role>, <roleDesc>Einers S&#x00F8;n</roleDesc>.</castItem>
+<castItem xml:id="Sigrid"><role><ptr type="criticalApp" target="EinerT_var12" xml:id="EinerT_var12"/>Sigrid</role> <roleDesc>Kongens Broder-Datter, nyelig gift med Endre</roleDesc>.</castItem>
+<castItem xml:id="Arne"><role>Arne</role> <roleDesc>Kongens <ptr type="commentary" target="EinerT_comm32" xml:id="EinerT_comm32"/>fornemste Hofmand</roleDesc>.</castItem>
+<castItem><role>Kongens og Einers F&#x00F8;lge af Bev&#x00E6;bnede</role>.</castItem>
+</castList>
+ </div>
+ <set><p>Skuepladsen er i Tronhiem.</p></set>
+</front>
+<body>    
+<div type="act" n="1">
+ <head><pb n="1"/><ref type="contents" target="contents_4" xml:id="chapter_4">F&#x00F8;rste Optog</ref>.</head>
+<stage>Skuepladsen er paa Kongens Gaard.</stage>
+<div type="scene" n="1">
+<head>F&#x00D8;RSTE OPTRIN.</head> 
+<stage>Elisabeth, Sigrid.</stage>
+<sp who="Sigrid">
+<speaker>Sigrid.</speaker>
+<l>Min Dronning! Freden snart blant Norske Klipper skal</l>
+<l>Hos et lyksaligt Folk igien sit Tempel bygge;</l>
+<l>Og ingen voldsom Haand dets evig Grundvold rygge;</l>
+<l>Ja Konge, Undersaat, Hav, Sl&#x00E6;tte, Bierg og Dal</l>
+<l part="I">Skal f&#x00F8;le Liv og <ptr type="criticalApp" target="EinerT_var13" xml:id="EinerT_var13"/>Lyst.</l>
+</sp>
+<sp who="Elisabeth">
+<speaker>Elisabeth.</speaker>
+<l part="F">Du dr&#x00F8;mmer s&#x00F8;dt om Fred:</l>
+<l>Ved Nordmands Side Sv&#x00E6;rd ey blev af Rust fort&#x00E6;ret:</l>
+<l>Han d&#x00F8;er med Lyst i Krig for ey at d&#x00F8;e van&#x00E6;ret.</l>
+</sp>
+<sp who="Sigrid">
+<speaker><pb n="2"/>Sigrid.</speaker>
+<l>Den nyder Freden l&#x00E6;ngst, som er til Krig bered;</l>
+<l>Mod seyersalig Helt <ptr type="commentary" target="EinerT_comm33" xml:id="EinerT_comm33"/>hvo t&#x00F8;r som Fiende gaae?</l>
+</sp>
+<sp who="Elisabeth">
+<speaker>Elisabeth.</speaker>
+<l><ptr type="criticalApp" target="EinerT_var14" xml:id="EinerT_var14"/>Min Sigrid kiendte du dit Folkes haarde S&#x00E6;der,</l>
+<l>Du glemte vist den Roe, som nu dit Hierte gl&#x00E6;der:</l>
+<l>Min Harrald selv i Fred blant Nordm&#x00E6;nd ski&#x00E6;lve maa.</l>
+</sp>
+<sp who="Sigrid">
+<speaker>Sigrid.</speaker>
+<l>Af et oprigtigt Folk han intet frygte kan;</l>
+<l>Endnu min Dronning ey den rene Lue kiender,</l>
+<l>Som i hver Nordmands Bryst, for elsket Konge br&#x00E6;nder:</l>
+<l>Bliv l&#x00E6;nge Dronning her; kiend, &#x00E6;r, og elsk vort Land.</l>
+</sp>
+<sp who="Elisabeth">
+<speaker>Elisabeth.</speaker>
+<l>Veninde! kiender du din Svigerfaders Mod?</l>
+<l>Hans Stolthed? haarde Sind? hans Klogskab? Rigdom? V&#x00E6;lde?</l>
+<l>Det er just slige M&#x00E6;nd, som kunne Konger f&#x00E6;lde;</l>
+<l part="I">Og viid: Han frygtes: &#x2013; &#x2013; &#x2013;</l>
+</sp>
+<sp who="Sigrid">
+<speaker>Sigrid.</speaker>
+<l part="F">Ach! nu iisner alt mit Blod:</l>
+<l>Hvad Haab for Endre da? &#x2013; &#x2013; ski&#x00F8;nt han uskyldig er</l>
+<l>I hvad hans Fader sig mod Kongen har forsyndet.</l>
+</sp>
+<sp who="Elisabeth">
+<speaker>Elisabeth.</speaker>
+<l>Frygt ey for ham: han er af <ptr type="criticalApp" target="EinerT_var15" xml:id="EinerT_var15"/>mig og Harrald yndet;</l>
+<l>Knap Solen dale skal, f&#x00F8;r Navn af Jarl han b&#x00E6;r:</l>
+<l>Kan da din Konge meer? Den Gunst, som Einer har</l>
+<l>Af Overmod <ptr type="commentary" target="EinerT_comm34" xml:id="EinerT_comm34"/>forskudt, han Endre nu tilbyder;</l>
+<l>Tilgiver Faderen, bel&#x00F8;nner S&#x00F8;nnens Dyder;</l>
+<l>Ja Kongen glemme vil, hvad Tambeskielver var.</l>
+</sp>
+<sp who="Sigrid">
+<speaker><pb n="3"/>Sigrid.</speaker>
+<l>O! Dronning! unders&#x00F8;g, hvad du om Einer troer.</l>
+<l>Han <ptr type="commentary" target="EinerT_comm35" xml:id="EinerT_comm35"/>stedse redelig, ski&#x00F8;nt haard og stolt har v&#x00E6;ret,</l>
+<l>Og Norges Konger f&#x00F8;r veyledet, elsket, &#x00E6;ret:</l>
+<l>En Nordmand glemmer ey, at denne Helt var stor,</l>
+<l>Og elskede sit Land. &#x2013; Men see &#x2013; min Moder der.</l>
+</sp>
+</div>
+<div type="scene" n="2">
+<head>ANDET OPTRIN.</head>
+<stage>Bergliod, de forrige.</stage>
+<sp who="Bergliod">
+<speaker>Bergliod.</speaker>
+<l>Et Rygte man om Krig i Dag, o! Dronning, h&#x00F8;rer.</l>
+</sp>
+<sp who="Elisabeth">
+<speaker>Elisabeth.</speaker>
+<l>Ey noget er bestemt, f&#x00F8;r Tr&#x00F8;ndernes Anf&#x00F8;rer</l>
+<l>Samtykket har; Men siig: Mon og en talrig H&#x00E6;r</l>
+<l part="I">Ham f&#x00F8;lger hid i Dag?</l>
+</sp>
+<sp who="Bergliod">
+<speaker>Bergliod.</speaker>
+<l part="F">Ja Dronning neppe var</l>
+<l>Din Konges Bud i Gaar til Einer selv forkyndet,</l>
+<l>F&#x00F8;r Venner samle sig; hvad Lyst at v&#x00E6;re yndet </l>
+<l part="I">Af tappre Landsm&#x00E6;nd?</l>
+</sp>
+<sp who="Elisabeth">
+<speaker>Elisabeth.</speaker>                
+<l part="F">Ja &#x2013; hans Konge selv ey har</l>
+<l>En bedre Muur og Skiold for Liv og Sikkerhed</l>
+<l part="I">End Folkets <ptr type="criticalApp" target="EinerT_var16" xml:id="EinerT_var16"/>Gunst.</l>
+</sp>
+<sp who="Bergliod">
+<speaker>Bergliod.</speaker>
+<l part="F">Og den skal fromme Konger have,</l>
+<l>Som ey sin Undersaat fornedre vil til Slave,</l>
+<l>Som vise for sit Land en Faders Kierlighed.</l>
+</sp>
+<sp who="Elisabeth">
+<speaker><pb n="4"/>Elisabeth.</speaker>
+<l>Naar er en Konge from? naar trodsig Undersaat</l>
+<l>Tilegner sig hans Magt, og skriver Landet Love?</l>
+<l>Naar Fr&#x00E6;khed uden Frygt t&#x00F8;r alt mod Thronen <ptr type="commentary" target="EinerT_comm36" xml:id="EinerT_comm36"/>vove?</l>
+<l>Naar han samtykker l&#x00E6;t og troer, at alt er godt?</l>
+<l>Men viid: Monarchen b&#x00E6;r forgi&#x00E6;ves da sit Navn;</l>
+<l>Han til sit Folkes Vel b&#x00F8;r t&#x00E6;nke, handle, byde,</l>
+<l>Hver Undersaat hans Vink med ivrig Lyst adlyde;</l>
+<l>Saa bliver Kongen stor, saa fremmes Landets Gavn.</l>
+<l>Siig, hvorfor Magnus fik det Navn af <ptr type="commentary" target="EinerT_comm37" xml:id="EinerT_comm37"/>Eyegod,</l>
+<l>Fordi din Einers Raad, han stedse villig h&#x00F8;rte,</l>
+<l>Og denne meer end han i Norge Zeptret f&#x00F8;rte,</l>
+<l>Da faldt en Konges Ret, da voxte Fr&#x00E6;kheds Mod.</l>
+</sp>
+<sp who="Bergliod">
+<speaker>Bergliod.</speaker>
+<l>Saa var da Magnus ey i Garderige kiendt,</l>
+<l>Den <ptr type="commentary" target="EinerT_comm38" xml:id="EinerT_comm38"/>Vennesaligste blandt tappre M&#x00E6;nd i Norden,</l>
+<l>Sit Folkes &#x00D8;yenslyst, sin Fiendes Skr&#x00E6;k og Torden;</l>
+<l>For ham var Troskabs Ild i hvert et Bryst opt&#x00E6;ndt.</l>
+<l>Tilbedet af sit Folk han alles Fader var,</l>
+<l>Han h&#x00F8;rte Venne-Raad, og valgte selv det beste,</l>
+<l>Og sin fortiente Roes i Folkets Aasyn l&#x00E6;ste,</l>
+<l>Saa tidt han Freden Hiem og <ptr type="commentary" target="EinerT_comm39" xml:id="EinerT_comm39"/>Seyers-Krandse bar.</l>
+<l>Hans Helte-Dyd har fyldt mit giennemtr&#x00E6;ngte Bryst;</l>
+<l>Det er min hele Siel, som om min Konge taler;</l>
+<l>Min Siel, som her sit Tab, sin Helt, sin Fader maler;</l>
+<l>Ja Magnus h&#x00F8;rer du de D&#x00F8;deliges R&#x00F8;st,</l>
+<l>Tag min Velsignelse, her er jeg Norges <ptr type="commentary" target="EinerT_comm40" xml:id="EinerT_comm40"/>Tolk,</l>
+<l>Mit F&#x00F8;deland ved mig en hellig Pligt opfylder;</l>
+<l>Det sin Velgi&#x00F8;rers St&#x00F8;v jo disse Taarer skylder:</l>
+<l>Du var &#x2013; &#x2013; Du Fader var for et lyksaligt Folk.</l>
+</sp>
+<sp who="Elisabeth">
+<speaker><pb n="5"/>Elisabeth.</speaker>
+<l>Den Fyrste var ey til, som ey sin Lovsang fik.</l>
+<l>Den blodigste Tyran dog stundom er Velgi&#x00F8;rer;</l>
+<l>En Gunst forblinder tidt, en Gave Hiertet r&#x00F8;rer;</l>
+<l>Ey altid Kongers Roes fra Folkets <ptr type="criticalApp" target="EinerT_var17" xml:id="EinerT_var17"/>Hierter gik. </l>
+</sp>
+<sp who="Bergliod">
+<speaker>Bergliod.</speaker>
+<l>O! Dronning gid du stod i Hytten <ptr type="criticalApp" target="EinerT_var18" xml:id="EinerT_var18"/>ubekiendt,</l>
+<l>Hvor &#x00E6;rlig Frihed, tryg, sin egen Herre d&#x00F8;mmer,</l>
+<l>Og Laster uden Frygt, og uden Haab ber&#x00F8;mmer,</l>
+<l>Du skulle skue der hver Bondes Barm opt&#x00E6;ndt</l>
+<l>Af hellig Troskabs Ild, med Suk at st&#x00F8;nne ud</l>
+<l>Sin tabte Konges Roes; med Sorg og bittre Taarer</l>
+<l>At vidne, hvor det Savn hvert &#x00E6;rligt Hierte saarer;</l>
+<l>At kalde ham sin Ven, sin Fader og sin Gud.</l>
+</sp>
+<sp who="Elisabeth">
+<speaker>Elisabeth.</speaker>
+<l part="I">Det er formeget &#x2013; &#x2013;</l>
+</sp>
+<sp who="Bergliod">
+<speaker>Bergliod.</speaker>
+<l part="F">Nei &#x2013; mit Hierte taler her:</l>
+<l>Saa kier mig Magnus var; Saa h&#x00F8;yt hver Nordmand driver</l>
+<l part="I">Sin Agt for Konger &#x2013; &#x2013;</l>
+</sp>
+<sp who="Elisabeth">
+<speaker>Elisabeth.</speaker>
+<l part="F">Godt! Men f&#x00F8;lg det Raad, jeg giver:</l>
+<l>Bet&#x00E6;nk, hvad Magnus var, det nu min Harrald er.</l>
+<stage>(Hun gaaer.)</stage>
+</sp>
+</div>
+<div type="scene" n="3">
+<head><pb n="6"/>TREDIE OPTRIN.</head>
+<stage>Bergliod. Sigrid.</stage>
+<sp who="Bergliod">
+<speaker>Bergliod.</speaker>
+<l>Din Harrald, tapper, klog, stolt, haard og seyerrig</l>
+<l>Til Naboe-Rigers Skr&#x00E6;k sit grumme Zepter f&#x00F8;rer;</l>
+<l>Men Norges Trang til Fred hans haarde Bryst ey r&#x00F8;rer:</l>
+<l>Vort Land er <ptr type="criticalApp" target="EinerT_var19" xml:id="EinerT_var19"/>faderl&#x00F8;st, naar Kongen elsker Krig.</l>
+</sp>
+<sp who="Sigrid">
+<speaker>Sigrid.</speaker>
+<l>Vort Ki&#x00F8;n om Fred og Krig kun lidt at d&#x00F8;mme veed;</l>
+<l>Men dette veed jeg dog, at vore Vaabens &#x00C6;re</l>
+<l>Ved tappre Kongers Mod skal Muur om Landet v&#x00E6;re;</l>
+<l>Og Kongen ynder os; han er jo selv bered</l>
+<l>At ski&#x00E6;nke mig den Gunst, hvorom min Endre har</l>
+<l>Anmodet ham &#x2013; naar kun &#x2013; ach gid min Fader vilde</l>
+<l part="I">Ydmyge sig &#x2013; &#x2013; &#x2013;</l>
+</sp>
+<sp who="Bergliod">
+<speaker>Bergliod.</speaker>
+<l part="M">Hvortil?</l>
+</sp>
+<sp who="Sigrid">
+<speaker>Sigrid.</speaker>
+<l part="F">Til Kongen at formilde;</l>
+<l>Strax Einer Harralds Ven og Jarl min Endre var.</l>
+</sp>
+<sp who="Bergliod">
+<speaker>Bergliod.</speaker>
+<l>Den har en <ptr type="commentary" target="EinerT_comm41" xml:id="EinerT_comm41"/>nedrig Siel, som kryber ydmyg frem,</l>
+<l>Som kaster sig i St&#x00F8;v, og s&#x00F8;ger haanlig &#x00C6;re:</l>
+<l>En Helt, ved Dyder stor, kan <ptr type="commentary" target="EinerT_comm42" xml:id="EinerT_comm42"/>betlet Gunst undv&#x00E6;re.</l>
+<l>&#x00D8;v &#x00E6;dle Gierninger, og &#x00C6;ren f&#x00F8;lger dem.</l>
+<l>Min Einer, skulde han saa dybt sig b&#x00F8;ye ned?</l>
+<l>Han &#x2013; ved sit Raad i Fred, ved Buen stor i Krige?</l>
+<l>Tre Kongers h&#x00F8;yre Haand, i Troskab uden Lige?</l>
+<l>Som er Fortr&#x00E6;ngtes Tolk og Landets Love veed.</l>
+<l><pb n="7"/>Han hos Monarchen selv mod Uret tale t&#x00F8;r,</l>
+<l>Han elsker Landets Vel, foragter Egennytte:</l>
+<l>Reis Norge paa hans Grav en evig &#x00C6;rest&#x00F8;tte,</l>
+<l>Og ski&#x00E6;lv for en Tyran, saasnart din Einer d&#x00F8;er.</l>
+<l>Gav F&#x00F8;dsel ey, men Dyd til Norges Throne Ret,</l>
+<l>Og blev den Viise valgt til Folket at regiere,</l>
+<l>Min Einers Hoved da den Krone skulde b&#x00E6;re,</l>
+<l part="I">Som <ptr type="commentary" target="EinerT_comm43" xml:id="EinerT_comm43"/>Byrd en anden gav</l>
+</sp>
+<sp who="Sigrid">
+<speaker>Sigrid.</speaker>
+<stage>i det hun bliver Arne vaer.</stage>
+<l part="F">Ach! mon han h&#x00F8;rte det?</l>
+</sp>
+</div>
+<div type="scene" n="4">
+<head>FIERDE OPTRIN.</head>
+<stage>Arne, de forrige.</stage>
+<sp who="Arne">
+<speaker>Arne</speaker>
+<stage>til Bergliod.</stage>
+<l>Velkommen v&#x00E6;re du i Dag at megle Fred!</l>
+<l>Udrust din Siel med Mod; tr&#x00E6;d mellem vrede Kiemper</l>
+<l>Og hvis dit Raad, din B&#x00F8;n opt&#x00E6;ndte <ptr type="commentary" target="EinerT_comm44" xml:id="EinerT_comm44"/>Lue d&#x00E6;mper;</l>
+<l>Da gi&#x00F8;r du, hvad din Pligt, vort Haab, din Kierlighed</l>
+<l>Og Landets Velf&#x00E6;rd selv af dig forlange kan.</l>
+<l>Vor Konge kiender du &#x2013; Alt ski&#x00E6;lver for hans Vrede;</l>
+<l>Jeg seer ham, grum og taus, til Strid sig at berede:</l>
+<l>Snart sv&#x00F8;mme skal i Blod vort kiere F&#x00F8;deland.</l>
+<l>Jeg seer et gruesomt Syn, en Konges Sverd udstrakt</l>
+<l>Mod et uskyldigt Bryst; fort&#x00F8;rnet Harrald truer</l>
+<l>Din Einer &#x2013; &#x2013; derfor kom, qv&#x00E6;l disse Vredens Luer!</l>
+<l>Gaae, tael, og raad, og beed, og kn&#x00E6;l for Overmagt.</l>
+</sp>
+<sp who="Bergliod">
+<speaker><pb n="8"/>Bergliod.</speaker>
+<l>Nei, Dyden stedse tryg med n&#x00F8;gen Isse gaaer</l>
+<l>Mod Kobber-v&#x00E6;bnet Last. Forsynets Haand bed&#x00E6;kker</l>
+<l>Sin Yndling; og enhver, som Sverd mod Dyden tr&#x00E6;kker,</l>
+<l>Sit St&#x00F8;d tilbagevendt mod eget Hierte faaer.</l>
+</sp>
+<sp who="Arne">
+<speaker>Arne.</speaker>
+<l>Jeg &#x00E6;rer Eders Dyd: O! gid den Seyer fik!</l>
+<l>Men Himlen taaler tidt, at selv dens Yndling lider,</l>
+<l>Og med en saaret Arm <ptr type="commentary" target="EinerT_comm45" xml:id="EinerT_comm45"/>omsunst mod Tiggre strider;</l>
+<l>Tidt Laster i Triumph, naar Dyd i L&#x00E6;nker gik.</l>
+<l>Ja kiendte Kongen kun en Tambeskielver ret,</l>
+<l>Han skulde &#x00E6;re da, og troe ham, som en Fader;</l>
+<l>Men dersom Einer ey i St&#x00F8;vet sig nedlader &#x2013; &#x2013; </l>
+<l part="I">Jeg kan ey sige meer &#x2013; &#x2013;</l>
+</sp>
+<sp who="Bergliod">
+<speaker>Bergliod.</speaker>
+<l part="F">Nok &#x2013; jeg begriber let &#x2013; &#x2013;</l>
+</sp>
+<sp who="Sigrid">
+<speaker>Sigrid.</speaker>
+<l>Jeg veed, at Kongen har for Einer megen Agt,</l>
+<l>Han stedse kalder ham den tappre, st&#x00E6;rke, viise.</l>
+</sp>
+<sp who="Arne">
+<speaker>Arne.</speaker>
+<l>Viid: Helte frygte meest de Dyder, som de prise,</l>
+<l>Og det er Stoltheds Sprog, at rose frygtet Magt.</l>
+<l>Men siig, min Bergliod! hvor er din Mand i Dag?</l>
+<l>Hvi fulgte du ham ey? hvi kom du f&#x00F8;rst og eene?</l>
+<l>Og af din Einers Skib ey vilde dig betiene?</l>
+<l>Betroe mig kun din Frygt! oplys mig denne Sag!</l>
+</sp>
+<sp who="Bergliod">
+<speaker>Bergliod.</speaker>
+<l>Min Frygt &#x2013; &#x2013; jeg frygtede for Stormens Raserie,</l>
+<l>Jeg taaler ey, som f&#x00F8;r, paa S&#x00F8;ens vrede B&#x00F8;lger</l>
+<l>At tumles op og ned; Men snart min Einer f&#x00F8;lger,</l>
+<l>Og v&#x00E6;bnet kommer han &#x2013; da ski&#x00E6;lve Tyrannie!</l>
+<l><pb n="9"/>Da blegne hver, som vil med Harrald gaae i Krig,</l>
+<l>Enhver, som ey paa Fred og Landets Velf&#x00E6;rd t&#x00E6;nker!</l>
+<l>Vi Kongen lyde vil; Men Slaver b&#x00E6;re L&#x00E6;nker.</l>
+<l>Der er Oplysning nok for Kongen og for dig.</l>
+</sp>
+<sp who="Arne">
+<speaker>Arne.</speaker>
+<l>For mig &#x2013; <ptr type="criticalApp" target="EinerT_var20" xml:id="EinerT_var20"/>Miskiend dog ey en &#x00F8;m og trofast Ven,</l>
+<l>Som ski&#x00E6;lver meer end du i Dag for Einers Skiebne,</l>
+<l>Som b&#x00E6;ver ved at see Ulykker sig bev&#x00E6;bne</l>
+<l>Mod Norges beste Mand. Kast all Mistanke hen,</l>
+<l>Og overl&#x00E6;g med mig, hvordan at vikles ud</l>
+<l>Af Snarer, som i Dag for Einers Fod udstr&#x00E6;kkes;</l>
+<l>&#x00AB;I Dag&#x00BB; har Kongen sagt &#x2013; &#x00AB;skal Skyttens Bue br&#x00E6;kkes,</l>
+<l>&#x00AB;Ey Tambeskielver meer skal skyde visse Skud.&#x00BB;<note type="footnote"><ptr type="commentary" target="EinerT_comm46" xml:id="EinerT_comm46"/>Tambeskielver bem&#x00E6;rkede paa gammelt Norsk Bueskytte.</note></l>
+<l>F&#x00F8;lg derfor tryg mit Raad, lad Einer v&#x00E6;bne sig,</l>
+<l>Og med en talrig Hob i Dag din Konge m&#x00F8;de;</l>
+<l>Og dersom denne Arm for Einers Liv kan b&#x00F8;de,</l>
+<l>Den mod Tyrannens Sv&#x00E6;rd skal kiempe mandelig.</l>
+<l>Lad Kongen byde Krig, jeg raader dog til Fred,</l>
+<l>Og giennem Einers Mund fortr&#x00E6;ngte Rige taler,</l>
+<l>Og Krigens Gruesomhed med sorte Farver maler:</l>
+<l>Men h&#x00F8;rer han os ey, da er vort Sv&#x00E6;rd bered.</l>
+</sp>
+<sp who="Bergliod">
+<speaker>Bergliod.</speaker>
+<l>Spar disse stolte Ord. De dog kun r&#x00F8;be Frygt.</l>
+<l>Elsk Fred, v&#x00E6;r Landet troe, vaag for din Herres &#x00C6;re,</l>
+<l>Min Einer <ptr type="commentary" target="EinerT_comm47" xml:id="EinerT_comm47"/>Avindskiold mod Kongen ey skal b&#x00E6;re;</l>
+<l>Naar Heltens Sag er god, er Sindet altid trygt.</l>
+</sp>
+<sp who="Arne">
+<speaker>Arne.</speaker>
+<l>Tael dog &#x2013; jeg beder dig &#x2013; det varme Venskabs Sprog;</l>
+<l>Du l&#x00E6;t f&#x00F8;r Aften kan en Ven i mig beh&#x00F8;ve,</l>
+<l>Og gielder det end om en blodig Troskabs Pr&#x00F8;ve,</l>
+<l>Da l&#x00E6;r, hvor lidt jeg mig fra f&#x00E6;lles N&#x00F8;d unddroeg.</l>
+<l><pb n="10"/>Ja Egennytten selv vor Skiebne f&#x00E6;lles gi&#x00F8;r:</l>
+<l>Er Einer ikke meer, hvo t&#x00F8;r i Norges Rige</l>
+<l>Et Ord til Landets <ptr type="commentary" target="EinerT_comm48" xml:id="EinerT_comm48"/>Tarv imod Tyrannen sige?</l>
+<l>Vor Frihed, Lov og Ret er tabt, naar Einer d&#x00F8;er.</l>
+</sp>
+<sp who="Sigrid">
+<speaker>Sigrid.</speaker>
+<l>Vor Konge Harrald er, og du <ptr type="commentary" target="EinerT_comm49" xml:id="EinerT_comm49"/>formaster dig</l>
+<l>At kalde ham Tyran! Et andet Sprog du talte,</l>
+<l>Saafremt han h&#x00F8;rte dig; Naar du ham f&#x00F8;r afmalte,</l>
+<l>Du kaldte ham din Helt, retf&#x00E6;rdig, seyerrig.</l>
+<l>Du hans <ptr type="commentary" target="EinerT_comm50" xml:id="EinerT_comm50"/>Bedrifter tidt for mig opregnet har:</l>
+<l>Jeg elskte Kongen meer, jo meer du om ham sagde;</l>
+<l>Men nu, naar du ham her Beskyldninger tillagde,</l>
+<l>Da viid: At r&#x00F8;be dig, min Pligt mod Kongen var.</l>
+</sp>
+<sp who="Arne">
+<speaker>Arne.</speaker>
+<l>Man Hofm&#x00E6;nds fine Sprog hos Konger tale maae,</l>
+<l>Vi rose tidt den Dyd, vi &#x00F8;nske dem at l&#x00E6;re;</l>
+<l>Vi sige, du er from, det er, du burde v&#x00E6;re:</l>
+<l>Og i vor Lovsang tidt en skiult Erindring laae.</l>
+</sp>
+<sp who="Sigrid">
+<speaker>Sigrid.</speaker>
+<l part="I">Saa taler Einer ey.</l>
+</sp>
+<sp who="Arne">
+<speaker>Arne.</speaker>
+<l part="F">Han ingen Hofmand er.</l>
+</sp>
+<sp who="Bergliod">
+<speaker>Bergliod.</speaker>
+<l>Min Datter lad os gaae; du skal ey Arne r&#x00F8;be;</l>
+<l>Lad listig Hofmand kun sin Konges Naade ki&#x00F8;be</l>
+<l>Ved andres Undergang. (Til Arne.) Min Ven bestandig v&#x00E6;r,</l>
+<l>Afvend, saafremt du kan, den vrede Harralds Sv&#x00E6;rd;</l>
+<l>Men naar du Venskabs Pligt med Nidkierhed opfylder,</l>
+<l>Da glem for alting ey, hvad du din Konge skylder;</l>
+<l>Viis; Nordm&#x00E6;nds Troskab er sin Konges Naade <ptr type="criticalApp" target="EinerT_var21" xml:id="EinerT_var21"/>v&#x00E6;rd.</l>
+</sp>
+<stage>(De gaae.)</stage>
+</div>
+<div type="scene" n="5">
+<head><pb n="11"/>FEMTE OPTRIN.</head>
+<sp who="Arne">
+<speaker>Arne</speaker> 
+<stage>allene.</stage>
+<l>Jeg troer, at Bergliod kan Hiertets Tanker see;</l>
+<l>Hun bliver kold og taus, trods alle Troeskabs Eeder;</l>
+<l>Jeg troer hun m&#x00E6;rke kan, hvad St&#x00F8;d, min H&#x00E6;vn bereder.</l>
+<l>Men Sigrid staffes b&#x00F8;r, hun mig forhaanede:</l>
+<l>F&#x00F8;r Endre Hiertet fik, hun stolt min Haand <ptr type="commentary" target="EinerT_comm51" xml:id="EinerT_comm51"/>forski&#x00F8;d &#x2013; &#x2013;</l>
+<l>Og Einer &#x2013; din Foragt &#x2013; din Myndighed og V&#x00E6;lde</l>
+<l>Jeg kan ey taale meer &#x2013; &#x2013; Det Eders Liv skal gielde.</l>
+<l>Min H&#x00E6;vn forsones kun ved hele Sl&#x00E6;gtens D&#x00F8;d.</l>
+</sp>
+</div>
+<div type="scene" n="6">
+<head>SIETTE OPTRIN.</head>
+<stage>Harrald, Arne.</stage>
+<sp who="Harrald">
+<speaker>Harrald.</speaker>
+<l>Snart kommer Einers Skib, man seer paa Byens Fiord</l>
+<l>Forstavnen kneisende, som om den kunde v&#x00E6;re</l>
+<l part="I">Stolt af sin Eyermand &#x2013; &#x2013;</l>
+</sp>
+<sp who="Arne">
+<speaker>Arne.</speaker>
+<l part="F">Dig denne Dag skal l&#x00E6;re,</l>
+<l>At en Forr&#x00E6;der var paa dette Skib om Bord:</l>
+<l>Alt Bergliod forud til Tronhiem kommen er,</l>
+<l>Hun taler stolte Ord, og dig med Feide truer;</l>
+<l>Hvis Tambeskielvers Mod du strax ey underkuer,</l>
+<l>Han snart faaer Overhaand, og Harralds Krone b&#x00E6;r.</l>
+<l><pb n="12"/>Hvor l&#x00E6;nge skal han dog modsige Kongens Bud?</l>
+<l>Hvor l&#x00E6;nge trodse dig? hvor l&#x00E6;nge sig forbryde</l>
+<l>Mod Undersaatters Pligt? L&#x00E6;r Einer at adlyde;</l>
+<l>Hvis ikke, lad hans Sl&#x00E6;gt af Jorden sl&#x00E6;ttes ud.</l>
+</sp>
+<sp who="Harrald">
+<speaker>Harrald.</speaker>
+<l>Du frygter, feige Mand! men jeg er <ptr type="commentary" target="EinerT_comm52" xml:id="EinerT_comm52"/>uforf&#x00E6;rd;</l>
+<l>Jeg veed at bruge Skiold, hvorlidt jeg forud truer:</l>
+<l>Lad Faren n&#x00E6;rme sig, jeg roelig den beskuer:</l>
+<l>Den er ey st&#x00F8;rste Helt, som l&#x00F8;fter f&#x00F8;rst sit Sv&#x00E6;rd.</l>
+</sp>
+<sp who="Arne">
+<speaker>Arne.</speaker>
+<l>Du selv er uden Frygt, naar Faren n&#x00E6;rmer sig;</l>
+<l>Men den, som <ptr type="criticalApp" target="EinerT_var22" xml:id="EinerT_var22"/>er dig <ptr type="commentary" target="EinerT_comm53" xml:id="EinerT_comm53"/>huld, desmere frygtsom <ptr type="commentary" target="EinerT_comm54" xml:id="EinerT_comm54"/>b&#x00E6;ver,</l>
+<l>Og som en Gield af dig Forsigtighed udkr&#x00E6;ver:</l>
+<l>T&#x00E6;nk, hvo du er! dit Liv tilh&#x00F8;rer ikke dig,</l>
+<l part="I">Nei hele Landet &#x2013; &#x2013;</l>
+</sp>
+<sp who="Harrald">
+<speaker>Harrald.</speaker>
+<l part="F">Nok, jeg troer, jeg elsket er;</l>
+<l>Men Tambeskielver du Forr&#x00E6;derie till&#x00E6;gger,</l>
+<l>Og mod en gammel Helt til Vrede mig op&#x00E6;gger.</l>
+<l>Du veed dog vel, hvor h&#x00F8;yt han agtes af enhver;</l>
+<l>Sandt nok hans Overmod mig tidt fort&#x00F8;rnet har:</l>
+<l>Min Frende Magnus ham lod alt for meget raade;</l>
+<l>Og hvo forf&#x00F8;res ey ved fromme Fyrsters Naade?</l>
+<l>Ja strax jeg Konge blev, han min Modstander var.</l>
+<l>Da for erhvervet Skat jeg Deel i Norge fik,</l>
+<l>Da Magnus tog mit Guld og jeg hans halve Rige,</l>
+<l>Man Einer h&#x00F8;rte strax paa <ptr type="commentary" target="EinerT_comm55" xml:id="EinerT_comm55"/><ptr type="criticalApp" target="EinerT_var23" xml:id="EinerT_var23"/>Tinge stolt at sige:</l>
+<l>&#x00AB;At bryde Troskabs Eed var aldrig Nordmands Skik,</l>
+<l>&#x00AB;<ptr type="commentary" target="EinerT_comm56" xml:id="EinerT_comm56"/>Kong Magnus, eene ham jeg <ptr type="commentary" target="EinerT_comm57" xml:id="EinerT_comm57"/>Huldskab <ptr type="commentary" target="EinerT_comm58" xml:id="EinerT_comm58"/>soret har,</l>
+<l>&#x00AB;Og Dovre synke ned, f&#x00F8;r jeg mit L&#x00F8;fte bryder!</l>
+<l>&#x00AB;Lyksaligt Land og Folk, hvor een allene byder!</l>
+<l>&#x00AB;Til f&#x00E6;lles Undergang vort Riges Deeling var.&#x00BB;</l>
+<l><pb n="13"/>Saa talte Einer da: Jeg har ey heller glemt,</l>
+<l>Da Danner-Konge Svend var flygtet af sit Rige</l>
+<l>For Magnus og for mig; Dog Einer turde sige:</l>
+<l>&#x00AB;Viid, Danne-Kongers Arv er ey for dig bestemt;</l>
+<l>&#x00AB;Lad af at <ptr type="commentary" target="EinerT_comm60" xml:id="EinerT_comm60"/>tviste meer om fremmed Eyendom;</l>
+<l>&#x00AB;Reys Hiem, begrav i Fred din store kiekke Frende;</l>
+<l>&#x00AB;Jeg fulgte Magnus d&#x00F8;d, var det til Verdens Ende;</l>
+<l>&#x00AB;Hans Ligemand ey meer paa Norske Throne kom.&#x00BB;</l>
+<l>Med disse Einers Ord hver Nordmands Hierte r&#x00F8;rt</l>
+<l>For Krigen Afskye fik; man til den D&#x00F8;des &#x00C6;re,</l>
+<l>Om mueligt, vilde ham paa <ptr type="commentary" target="EinerT_comm61" xml:id="EinerT_comm61"/>taalig Skuldre b&#x00E6;re:</l>
+<l>Kort sagt: H&#x00F8;ytidelig han blev til Tronhiem f&#x00F8;rt.</l>
+<l>Her seer jeg mig forladt, og med adsplittet H&#x00E6;r,</l>
+<l>Med uforrettet Sag, og fra den visse Seyer</l>
+<l>Forlader jeg et Land, jeg allerede eyer:</l>
+<l>For dette Svend endnu i Gield hos Einer er:</l>
+<l>Saa mange haarde Ord, saa megen kold Foragt,</l>
+<l>Saa mangt et dristigt Skrit har vist fortient min Vrede;</l>
+<l>Jeg dog min Arm ey skal den s&#x00F8;de Hevn <ptr type="commentary" target="EinerT_comm62" xml:id="EinerT_comm62"/>tilst&#x00E6;de,</l>
+<l>F&#x00F8;r Einers List og Svig er ret for Dagen lagt.</l>
+</sp>
+<sp who="Arne">
+<speaker>Arne.</speaker>
+<l>Du kiender Krigens Skik: Vent ey, indtil du har</l>
+<l>Alt f&#x00F8;lt din Fiendes St&#x00F8;d; Det blev maaskee <ptr type="commentary" target="EinerT_comm63" xml:id="EinerT_comm63"/>for silde,</l>
+<l>Og medens du dit Sverd til Forsvar drage vilde,</l>
+<l>Du af din <ptr type="commentary" target="EinerT_comm64" xml:id="EinerT_comm64"/>Avindsmand igiennemboret var.</l>
+</sp>
+<sp who="Harrald">
+<speaker>Harrald.</speaker>
+<l>Men Staten, Arne, har en anden Lov i Fred:</l>
+<l>Den siger: Kongen b&#x00F8;r retf&#x00E6;rdig, nidkier v&#x00E6;re,</l>
+<l>Men og forstaae den Kunst, at kunne overb&#x00E6;re;</l>
+<l>Grundf&#x00E6;stet Thronen er ved Folkets Kierlighed:</l>
+<l><pb n="14"/>Du veed, hos Tr&#x00F8;nderne hvad <ptr type="commentary" target="EinerT_comm65" xml:id="EinerT_comm65"/>Yndest Einer har.</l>
+<l>D&#x00F8;er han ved denne Haand, fort&#x00F8;rnet Folket bliver,</l>
+<l>Jeg selv ved dette St&#x00F8;d et St&#x00F8;d mit Rige giver,</l>
+<l>Og Thronen svag ved H&#x00E6;vn, som tryg ved Naade var.</l>
+</sp>
+<sp who="Arne">
+<speaker>Arne.</speaker>
+<l>Imod en yndet Helt vist H&#x00E6;vnen farlig er,</l>
+<l>Men st&#x00F8;rre Fare dog, med <ptr type="commentary" target="EinerT_comm66" xml:id="EinerT_comm66"/>billig Straf at <ptr type="commentary" target="EinerT_comm67" xml:id="EinerT_comm67"/>t&#x00F8;ve.</l>
+<l>Naar man hvert &#x00D8;yeblik er f&#x00E6;rdig, Vold at &#x00F8;ve</l>
+<l>Mod den, som elskes b&#x00F8;r og lydes af enhver.</l>
+<l>Bet&#x00E6;nk, hvad Einer nu hos Norske M&#x00E6;nd formaaer:</l>
+<l>Han kan ved mindste Vink en H&#x00E6;r i Marken f&#x00F8;re,</l>
+<l>Og vil du ey i alt hans Raad og Anl&#x00E6;g h&#x00F8;re,</l>
+<l>Han som Anf&#x00F8;rer strax for alle Tr&#x00F8;nder staaer:</l>
+<l>Det mindste Onde v&#x00E6;lg: Han kommer her i Dag</l>
+<l>Med v&#x00E6;bnet F&#x00F8;lgeskab, fra Krigen dig at raade;</l>
+<l>Befal ham Lydighed, tilbyd ham f&#x00F8;rst din Naade,</l>
+<l>Og trodser han, <ptr type="commentary" target="EinerT_comm68" xml:id="EinerT_comm68"/>velan, betroe kun mig din Sag.</l>
+<l>Jeg den Forr&#x00E6;der vil tilbringe sidste St&#x00F8;d.</l>
+<l>Du kiender M&#x00E6;ngdens Art; den taber sin Anf&#x00F8;rer,</l>
+<l>Og strax er Modet tabt; strax <ptr type="commentary" target="EinerT_comm69" xml:id="EinerT_comm69"/>Tvedragts Aand oph&#x00F8;rer:</l>
+<l>Du faaer ey Konge-Magt f&#x00F8;r Einers Sl&#x00E6;gt er d&#x00F8;d.</l>
+</sp>
+<sp who="Harrald">
+<speaker>Harrald.</speaker> 
+<stage>seende stivt p&#x00E5; Arne.</stage>
+<l>Til H&#x00E6;vnen staaer dit Sind &#x2013; &#x2013; Du Nag til Einer b&#x00E6;r!</l>
+</sp>
+<sp who="Arne">
+<speaker>Arne.</speaker>
+<l>Kan jeg vel elske den, som t&#x00F8;r min Konge hade?</l>
+<l>Nei i den Falskes Blod min Haand jeg strax vil bade</l>
+<stage>(Han vil gaae.)</stage>
+</sp>
+<sp who="Harrald">
+<speaker><pb n="15"/>Harrald.</speaker>
+<stage>holdende ham tilbage.</stage>
+<l>Kun <ptr type="commentary" target="EinerT_comm70" xml:id="EinerT_comm70"/>langsom, d&#x00E6;mp den Ild! her Dommer Loven er:</l>
+<l>Om Einer og skal d&#x00F8;e, han b&#x00F8;r ey d&#x00F8;e ved Mord:</l>
+<l>Gaae! lad af raske M&#x00E6;nd en Trop tilst&#x00E6;de v&#x00E6;re!</l>
+<l>Skiul den bag Slottets Muur; du siden alt skal l&#x00E6;re,</l>
+<l>Hvad foretages b&#x00F8;r; vent paa din Konges Ord.</l>
+</sp>
+</div>
+<div type="scene" n="7">
+<head>SYVENDE OPTRIN.</head>
+<sp who="Harrald">
+<speaker>Harrald</speaker>
+<stage>allene.</stage>
+<l>Hvad Raad? hvem skal jeg troe? og hvo forraader mig?</l>
+<l>Til Einers Undergang sig heftig Arne gl&#x00E6;der &#x2013; &#x2013;</l>
+<l>Hvo veed, om han ey selv &#x2013; Om Einer er Forr&#x00E6;der? &#x2013;</l>
+<l>Saa er da Kongers Hof en Skole <ptr type="commentary" target="EinerT_comm71" xml:id="EinerT_comm71"/>blot for Svig,</l>
+<l>Hvor Frygt og <ptr type="commentary" target="EinerT_comm72" xml:id="EinerT_comm72"/>Avind sig i St&#x00F8;vet kaster ned,</l>
+<l>Og logrende med Roes, af ivrig Troskab praler,</l>
+<l>Tilbyder Liv og Blod; men aldrig Hiertet taler.</l>
+<l>Hvad er dog H&#x00F8;yheds Top et steilt og slibrigt Sted!</l>
+<l>Lyksalig du, som gaaer til Naboe-Hytte hen!</l>
+<l>Og t&#x00F8;r din N&#x00F8;d betroe til et oprigtigt &#x00D8;re;</l>
+<l>Men Kongers tause Suk &#x2013; &#x2013; Ja dem maae Himlen h&#x00F8;re!</l>
+<l>Hvor findes den Monarch, som har en troefast Ven?</l>
+<stage>(Han gaaer.)</stage>
+</sp>
+<stage>Ende paa f&#x00F8;rste Optog.</stage>
+</div>
+</div> 
+<div type="act" n="2">
+ <head><pb n="16"/><ref type="contents" target="contents_5" xml:id="chapter_5">Andet Optog</ref>.</head>
+<div type="scene" n="1">
+<head>F&#x00D8;RSTE OPTRIN.</head>
+<stage>Einer Tambeskielver kommer bev&#x00E6;bnet igiennem en Port paa Kongens Gaard, med en <ptr type="criticalApp" target="EinerT_var24" xml:id="EinerT_var24"/>Hob bev&#x00E6;bnede B&#x00F8;nder, som han opstiller i Orden, og til hvilke han taler.</stage>
+<sp who="Einer">
+<speaker>Einer.</speaker>
+<l>Du Nordens Kiempe-Slegt! og Naboe-Rigers Skrek!</l>
+<l>Navnkundig Tr&#x00F8;nders H&#x00E6;r! din Odel evig <ptr type="commentary" target="EinerT_comm73" xml:id="EinerT_comm73"/>v&#x00E6;re!</l>
+<l>Din Lov <ptr type="commentary" target="EinerT_comm74" xml:id="EinerT_comm74"/>urygget staae! din Ager Frugter <ptr type="commentary" target="EinerT_comm75" xml:id="EinerT_comm75"/>b&#x00E6;re!</l>
+<l>Gid tappre Faders S&#x00F8;n maae f&#x00F8;des frie og kiek!</l>
+<l>I kiende dette Bryst &#x2013; &#x2013; var der en Draabe Blod,</l>
+<l>Som ey for Friehed randt og Norske Br&#x00F8;dres &#x00C6;re,</l>
+<l>Den skulde offres her. &#x2013; <ptr type="criticalApp" target="EinerT_var25" xml:id="EinerT_var25"/>Ja Konger selv skal l&#x00E6;re,</l>
+<l>At Troskab mod mit Land var Grunden til mit Mod.</l>
+<l>Hvor tidt har ey min Arm for Landet Buen sp&#x00E6;ndt?</l>
+<l>Den eengang <ptr type="criticalApp" target="EinerT_var26" xml:id="EinerT_var26"/>brast &#x2013; Og strax af <ptr type="criticalApp" target="EinerT_var27" xml:id="EinerT_var27"/>kiekke Konges H&#x00E6;nder</l>
+<l>Brast Norges Rige med &#x2013; &#x2013; Jeg Krigens F&#x00F8;lger kiender,</l>
+<l>Og aldrig har af Lyst til Seyers &#x00C6;re br&#x00E6;ndt.</l>
+<l>Man ki&#x00F8;ber alt for dyrt ved tappre Nordm&#x00E6;nds Blod</l>
+<l>En &#x00C6;rekranz i Krig &#x2013; Vi ville Freden dyrke &#x2013; &#x2013;</l>
+<l>Men t&#x00F8;r en Fiende her med Nordm&#x00E6;nd pr&#x00F8;ve Styrke,</l>
+<l>Da har vor &#x00D8;xe Staal, da har vort Hierte Mod.</l>
+<l><pb n="17"/>Vor Konge, tapper, ung, og st&#x00E6;rk og vant til Krig</l>
+<l>Ey Freden taale kan; Men snart skal Helten l&#x00E6;re,</l>
+<l>At Fred og Norges Vel er Norske Fyrsters &#x00C6;re,</l>
+<l>Og elsker han sit Land, da skal han h&#x00F8;re mig.</l>
+<l>Ja for vor Frieheds Ret, for f&#x00E6;lles Roe og Fred,</l>
+<l>For F&#x00F8;delandets Tarv, jeg Liv og Blod vil vove,</l>
+<l><ptr type="criticalApp" target="EinerT_var28" xml:id="EinerT_var28"/>Og tale, stride, d&#x00F8;e for <ptr type="commentary" target="EinerT_comm76" xml:id="EinerT_comm76"/>Landets gamle Love &#x2013; &#x2013;</l>
+<l>Vi m&#x00F8;de her i Dag: Jeg Harralds <ptr type="commentary" target="EinerT_comm77" xml:id="EinerT_comm77"/>Anl&#x00E6;g veed:</l>
+<l>Mod Danner-Konge Svend han nu vil v&#x00E6;bne sig.</l>
+<l>Men kan ey mine Raad for&#x00F8;nsket Virkning gi&#x00F8;re,</l>
+<l>Vil han af Einers Mund sit Riges R&#x00F8;st ey h&#x00F8;re &#x2013; &#x2013;</l>
+<l>Dog Harrald er jo viis, han skal ey f&#x00F8;re Krig,</l>
+<l>Han elsker Landet h&#x00F8;yt, han &#x00E6;rer Eders Blod,</l>
+<l>Han vist skal h&#x00F8;re mig, og kun paa Freden t&#x00E6;nke,</l>
+<l>Og Hiertet skal vi da den Rigets Fader ski&#x00E6;nke,</l>
+<l>Der <ptr type="commentary" target="EinerT_comm78" xml:id="EinerT_comm78"/>ikkun f&#x00F8;r som Helt var &#x00E6;ret for sit Mod.</l>
+<l>Ved Eders Venskab tryg jeg taler Landets Sag,</l>
+<l>Jeg tidt frembaaret har for Konger Norges Skiebne;</l>
+<l>Nu skal jeg mig paa nye med Eders N&#x00F8;d bev&#x00E6;bne</l>
+<l>Mod Harralds Stride-Lyst; han skal med Velbehag</l>
+<l>Stadf&#x00E6;ste varig Fred, og fra sit Fors&#x00E6;t staae &#x2013; &#x2013;</l>
+<l part="I">Gaaer bort &#x2013; der er min S&#x00F8;n &#x2013; &#x2013;</l>
+</sp>
+<stage>(De rykke tilbage.)</stage>
+</div>       
+<div type="scene" n="2">
+<head>ANDET OPTRIN.</head>
+<stage>Einer, Endre uden Vaaben.</stage>
+<sp who="Endre">
+<speaker>Endre.</speaker>
+<l part="F">Jeg Kongen nu forlader,</l>
+<l>Og <ptr type="criticalApp" target="EinerT_var29" xml:id="EinerT_var29"/>troe, jeg har i ham en Ven, en anden Fader. </l>
+</sp>
+<sp who="Einer">
+<speaker><pb n="18"/>Einer.</speaker>
+<l>Jeg nyelig som en Helt min S&#x00F8;n udrustet saae!</l>
+<l>Er nu din Frihed solgt? er du din Konges Tr&#x00E6;l? </l>
+<l part="I">Hvor er dit Skiold og Spyd?</l>
+</sp>
+<sp who="Endre">
+<speaker>Endre.</speaker>
+<l part="F">Jeg ubev&#x00E6;bnet vilde</l>
+<l>En naadig Konge see. Man kan saa let formilde</l>
+<l>Med Ydmyghed en stolt og &#x00E6;ret&#x00F8;rstig Siel. </l>
+</sp>
+<sp who="Einer">
+<speaker>Einer.</speaker>
+<l>Min S&#x00F8;n forgiftet er af Hoffets Hykle-Kunst!</l>
+<l>Det er en fredl&#x00F8;s Mand, som ey t&#x00F8;r Vaaben b&#x00E6;re;</l>
+<l>Men du er Norsk og fri; Ved Tabet af sin &#x00C6;re</l>
+<l>Man ki&#x00F8;ber alt for dyrt en myndig Konges Gunst.</l>
+<l><ptr type="commentary" target="EinerT_comm79" xml:id="EinerT_comm79"/>Til Norden fra Bysanz vor Harrald kommen er;</l>
+<l>Men vil han f&#x00F8;re hid Bysanzes Slave-S&#x00E6;der,</l>
+<l>Befale, som Tyran, paaliste Nordm&#x00E6;nd Ki&#x00E6;der,</l>
+<l>Han l&#x00E6;re b&#x00F8;r, hvor h&#x00F8;yt vi Frihed have kier.</l>
+<l>Lad Harrald byde frit til <ptr type="criticalApp" target="EinerT_var30" xml:id="EinerT_var30"/>F&#x00F8;delandets Vel,</l>
+<l>Og <ptr type="commentary" target="EinerT_comm80" xml:id="EinerT_comm80"/>V&#x00E6; den Undersaat, som ey sin Konge h&#x00F8;rer;</l>
+<l>Men dersom han vor Lov, vor gamle Frihed r&#x00F8;rer,</l>
+<l>Hvo vil adlyde da, og v&#x00E6;re Harralds Tr&#x00E6;l?</l>
+<l>I fulde <ptr type="commentary" target="EinerT_comm81" xml:id="EinerT_comm81"/>Rustning stolt m&#x00F8;d Harrald, f&#x00F8;l dit V&#x00E6;rd;</l>
+<l>Som om du sige vil: See! Konge, naar det gielder,</l>
+<l>Du har en Helt i mig, som trodsig Fiende f&#x00E6;lder,</l>
+<l>Og denne Arm er st&#x00E6;rk, og skarpt er dette Sv&#x00E6;rd.</l>
+</sp>
+<sp who="Endre">
+<speaker>Endre.</speaker>
+<l>Men naar vort Land har Fred, jeg til min Konge gaaer,</l>
+<l>Og om en viktig Gunst ham ydmygt vil anmode,</l>
+<l>Og kommer v&#x00E6;bnet, stolt; hvad Under! om han troede,</l>
+<l>At naar en Undersaat for Kongens Ansigt staaer</l>
+<l>Udrustet som til Krig, hans B&#x00F8;n en Trudsel er,</l>
+<l><pb n="19"/>Som om han sige vil: Hvis Kongen mig ey h&#x00F8;rer,</l>
+<l>Jeg ey mit Skiold omsunst og Sv&#x00E6;rd og Bue f&#x00F8;rer.</l>
+</sp>
+<sp who="Einer">
+<speaker>Einer.</speaker>
+<l>H&#x00F8;r Tambeskielvers S&#x00F8;n! har du din Fader kier,</l>
+<l>Og b&#x00E6;r du i din Barm det gamle Norske Mod,</l>
+<l>Som stedse gik i Arv i dine F&#x00E6;dres Stamme,</l>
+<l>Og dersom du dig ey ved nedrig Byrd b&#x00F8;r skamme,</l>
+<l>Saa kn&#x00E6;l kun ey saa dybt; Men h&#x00F8;r de Heltes Blod,</l>
+<l>Som taler i dit Bryst: Undv&#x00E6;r din Konges Gunst,</l>
+<l>Og beed ham kun om Ret; Min S&#x00F8;n ey meer beh&#x00F8;ver,</l>
+<l>Du har jo Rigdom nok, og den som Dyden &#x00F8;ver,</l>
+<l>Har altid Sikkerhed, og &#x00C6;ren er en <ptr type="commentary" target="EinerT_comm82" xml:id="EinerT_comm82"/>Dunst.</l>
+</sp>
+<sp who="Endre">
+<speaker>Endre.</speaker>
+<l>Den &#x00C6;re, jeg attraaer, <ptr type="criticalApp" target="EinerT_var31" xml:id="EinerT_var31"/>den Gunst, jeg beder om,</l>
+<l>Det er at blive Jarl; Saa var min Moders Fader;</l>
+<l>For Resten, troe, din S&#x00F8;n all nedrig Smigren hader;</l>
+<l>Og Harralds Godhed selv min B&#x00F8;n nu forekom:</l>
+<l>&#x00AB;Maaskee,&#x00BB; saa talte han, &#x00AB;jeg skal i denne Dag</l>
+<l>&#x00AB;Oph&#x00F8;ye dig til Jarl; vil Einer kun begiere,</l>
+<l>&#x00AB;At dette store Navn hans kiekke S&#x00F8;n maa b&#x00E6;re &#x2013; &#x2013;&#x00BB;</l>
+</sp>
+<sp who="Einer">
+<speaker>Einer.</speaker>
+<l>Nei Einer taler kun til Kongen Landets Sag.</l>
+</sp>
+<sp who="Endre">
+<speaker>Endre.</speaker>
+<l>Men har du ey et Ord tilovers for din S&#x00F8;n?</l>
+<l>Selv veed du, hvad en Jarl hos Kongen kan udrette,</l>
+<l>Hvor tidt han mellem ham og Landet stiller Tr&#x00E6;tte,</l>
+<l>Afvender Kongens Sv&#x00E6;rd, fremb&#x00E6;r Fortr&#x00E6;ngtes B&#x00F8;n.</l>
+</sp>
+<sp who="Einer">
+<speaker>Einer.</speaker>
+<l>Bliv uden Titel stor, undv&#x00E6;r et <ptr type="commentary" target="EinerT_comm83" xml:id="EinerT_comm83"/>borget Navn,</l>
+<l>F&#x00F8;lg dine F&#x00E6;dres Spor, og hvad du end skal heede,</l>
+<l>Du arvet har af mig, at trodse Kongers Vrede,</l>
+<l>At holde Lov og Ret og fremme Landets Gavn.</l>
+</sp>
+<sp who="Endre">
+<speaker><pb n="20"/>Endre.</speaker>
+<l>Naar et uv&#x00E6;rdigt Skrit jeg gi&#x00F8;r mod F&#x00F8;deland,</l>
+<l>Mod Konge, Lov, og dig; da giennemboer mit Hierte;</l>
+<l>Jeg af din Mund omsunst ey Mod og Troskab l&#x00E6;rte;</l>
+<l>Men viid, at jeg <ptr type="commentary" target="EinerT_comm84" xml:id="EinerT_comm84"/>derhos min Konge elske kan.</l>
+<l>Hver gang i Krigen jeg vor tappre Harrald seer,</l>
+<l>Den Ki&#x00E6;mpe, for hvis Arm rovgierrig Fiende b&#x00E6;ver,</l>
+<l>Jeg f&#x00F8;ler, hvor mit Mod sig strax i Brystet h&#x00E6;ver;</l>
+<l>Af min Anf&#x00F8;rer stolt jeg seer ey Faren meer:</l>
+<l>Jeg mellem Spyd og Sv&#x00E6;rd mig tr&#x00E6;nger ind med Magt:</l>
+<l>Jeg &#x00F8;nsker, Kongen maae, hvert Hug, jeg gi&#x00F8;r, beskue;</l>
+<l>Et &#x00D8;yekast fra ham, strax blusser Troeskabs Lue,</l>
+<l>Og Sv&#x00E6;rd og Saar og D&#x00F8;d anseer jeg med Foragt.</l>
+<l>Du under Tryggeson <ptr type="commentary" target="EinerT_comm85" xml:id="EinerT_comm85"/>navnkundig blev i Krig;</l>
+<l>Jeg f&#x00F8;lger dine Spor, og under Harralds Fane</l>
+<l>Ved Tapperhed jeg skal mig Vey til &#x00C6;ren bane;</l>
+<l>Og da skal Verden see, at jeg er f&#x00F8;d av dig.</l>
+</sp>
+</div>
+<div type="scene" n="3">
+<head>TREDIE OPTRIN.</head>
+<stage>Bergliod, de forrige.</stage>
+<sp who="Bergliod">
+<speaker>Bergliod.</speaker>
+<l>Min dyrebare Helt! det gielder om dit Mod.</l>
+<l>Jeg saae hver Indgang her <ptr type="commentary" target="EinerT_comm86" xml:id="EinerT_comm86"/>besat med nye Vagter;</l>
+<l>Tyrannen uden Tvivl dig efter Livet tragter;</l>
+<l>Thi jeg blev vaer en Trop, som hist i Baghold stod;</l>
+<l>Og den til mindste Vink bev&#x00E6;bnet rykker ud.</l>
+<l>Man <ptr type="commentary" target="EinerT_comm87" xml:id="EinerT_comm87"/>Strikker for din Fod med Flid at skiule s&#x00F8;ger,</l>
+<l><pb n="21"/>Ja Taushed overalt min Frygt og Tvivl for&#x00F8;ger:</l>
+<l>Jeg h&#x00F8;rte uform&#x00E6;rkt til Arne Kongens Bud:</l>
+<l>&#x00AB;Enhver,&#x00BB; saa talte han, &#x00AB;sin Bue have sp&#x00E6;ndt,</l>
+<l>&#x00AB;Saa snart jeg raaber: Kom.&#x00BB; Meer kunde jeg ey h&#x00F8;re &#x2013;</l>
+</sp>
+<sp who="Einer">
+<speaker>Einer.</speaker>
+<l>Hvordan? vil Kongen Krig mod Landets S&#x00F8;nner f&#x00F8;re?</l>
+<l>Og Broders &#x00D8;xe see mod Broders Pande vendt?</l>
+</sp>
+<sp who="Endre">
+<speaker>Endre.</speaker>
+<l>Han elsker Folk og Land, han hader Vold og Svig;</l>
+<l>Min Moders Frygt og Tvivl hans h&#x00F8;ye Siel van&#x00E6;rer, &#x2013; &#x2013;</l>
+</sp>
+<sp who="Bergliod">
+<speaker>Bergliod.</speaker>
+<l>Holdt &#x2013; Du mig ilde kun, hans Sind at kiende l&#x00E6;rer;</l>
+<l>Men, viis du er min S&#x00F8;n, gaae hen, bev&#x00E6;bne dig;</l>
+<l>Strid for din Faders Liv; fortien at v&#x00E6;re f&#x00F8;d</l>
+<l>Af h&#x00F8;y og tapper Sl&#x00E6;gt; t&#x00E6;m, <ptr type="commentary" target="EinerT_comm88" xml:id="EinerT_comm88"/>forekom den Tiger,</l>
+<l>Som efter <ptr type="criticalApp" target="EinerT_var32" xml:id="EinerT_var32"/>skyldl&#x00F8;st Blod med t&#x00F8;rstig Strube higer;</l>
+<l>Hvis ikke, <ptr type="criticalApp" target="EinerT_var33" xml:id="EinerT_var33"/>svarer du mig for din Faders D&#x00F8;d. </l>
+</sp>
+<sp who="Einer">
+<speaker>Einer.</speaker>
+<l>Nu seer jeg Hagen Jarl i dig, min Bergliod!</l>
+<l>Saa var hans Vrede <ptr type="commentary" target="EinerT_comm89" xml:id="EinerT_comm89"/>grum, og intet kunde d&#x00E6;mpe</l>
+<l>Hans haarde Sind. &#x2013; Men viid, jeg eene, jeg vil ki&#x00E6;mpe</l>
+<l>Med Harrald, og det skal ey koste fleeres Blod.</l>
+<l>Jeg skulde, t&#x00E6;nker du, i Spidsen af min H&#x00E6;r</l>
+<l>Forf&#x00E6;gte egen Ret? F&#x00F8;r skal jeg D&#x00F8;den finde:</l>
+<l>At f&#x00F8;re Avindskiold mig aldrig kom i Sinde;</l>
+<l>Men naar vort Land og Lov og Ret forn&#x00E6;rmet er,</l>
+<l>Da byder jeg til Krig enhver, som stride kan,</l>
+<l>Og da skal Kongen see, hvorlidt hans Magt udretter;</l>
+<l>Men den Forr&#x00E6;der er, som kun for egne Tr&#x00E6;tter</l>
+<l>Opoffrer Folkets Blod og Fred og F&#x00F8;deland.</l>
+<l><pb n="22"/>Hvis derfor Kongens Had allene gielder mig,</l>
+<l>Jeg dig min Bergliod for sidste gang omfavner,</l>
+<l>Og dig, min Stammes Haab &#x2013; Naar Norge Einer savner,</l>
+<l>Lad det sit Tab igien oprettet see ved dig,</l>
+<l>Saa vil jeg Harrald glad og kiek i M&#x00F8;de gaae,</l>
+<l part="I">Og ey uh&#x00E6;vnet d&#x00F8;e &#x2013;</l>
+</sp>
+<sp who="Bergliod">
+<speaker>Bergliod.</speaker>
+<l part="F">Nei, du skal h&#x00E6;vnet blive;</l>
+<l>Om ingen anden vil, skal jeg af Brystet rive</l>
+<l>Hans Hierte, og hans St&#x00F8;v skal intet Gravsted faae.</l>
+</sp>
+<sp who="Endre">
+<speaker>Endre.</speaker>
+<l>Stil Sindets Storm, og vent og troe, hvad Eders S&#x00F8;n</l>
+<l>Erfaret haver selv: Vor unge Helt fortiener,</l>
+<l>At vi vor Agt for ham med Kierlighed foreener;</l>
+<l>Vor Troskab v&#x00E6;re b&#x00F8;r vor kiekke Konges L&#x00F8;n.</l>
+<l>Mit Hierte mellem ham og mine F&#x00E6;dre skal</l>
+<l>Bestandig v&#x00E6;re deelt; Jeg aldrig <ptr type="commentary" target="EinerT_comm90" xml:id="EinerT_comm90"/>efterlader</l>
+<l>At elske dig som min og ham som Landets Fader,</l>
+<l>Men naar I f&#x00F8;rte Krig, hvor gruesomt blev mit Valg!</l>
+<l>Naturen talte da din Sag i dette Bryst;</l>
+<l>Men Helten h&#x00F8;rer ey den &#x00F8;mme kielne Stemme,</l>
+<l>Som vil forf&#x00F8;re ham til st&#x00F8;rre Pligt at glemme:</l>
+<l>At tiene Kongen troe, er <ptr type="criticalApp" target="EinerT_var34" xml:id="EinerT_var34"/>Endres Lov og Lyst &#x2013; &#x2013;</l>
+<l>T&#x00E6;nk dog, din kiekke S&#x00F8;n ey frygter Kongens Sv&#x00E6;rd,</l>
+<l>Saafremt han turde det mod Landets S&#x00F8;nner vende;</l>
+<l>Men vil man Harrald ey for Norges Herre kiende,</l>
+<l>Da er jeg Kongens Mand, og kiender Heltens V&#x00E6;rd.</l>
+<l>Til Harrald iiler jeg, for med en ivrig B&#x00F8;n</l>
+<l>At stille denne Storm, formilde Kongens Vrede:</l>
+<l>Strax giemmes dragne Sv&#x00E6;rd igien i roelig Steede:</l>
+<l>Saa handler Harralds Ven og Tambeskielvers S&#x00F8;n.</l>
+<stage>(Han gaaer.)</stage>
+</sp>
+</div>
+<div type="scene" n="4">
+<head><pb n="23"/>FIERDE OPTRIN.</head>
+<stage>Einer, Bergliod.</stage>
+<sp who="Bergliod">
+<speaker>Bergliod.</speaker>
+<l>Uskyldig, ung og kiek han troer, at alting er</l>
+<l>Hans eget Hierte ligt, som Falskhed aldrig kiendte,</l>
+<l>Et Hierte, som af Mod og Lyst til &#x00C6;ren br&#x00E6;ndte,</l>
+<l>Og holdt for st&#x00F8;rste Pligt at have Kongen kier.</l>
+</sp>
+<sp who="Einer">
+<speaker>Einer.</speaker>
+<l>Det er hver Nordmands Pligt; Naar Kongens &#x00D8;yemeed </l>
+<l part="I">Er F&#x00F8;delandets Vel &#x2013; &#x2013;</l>
+</sp>
+<sp who="Bergliod">
+<speaker>Bergliod.</speaker>
+<l part="F">Men naar han nu vil tage</l>
+<l>Sit Riges st&#x00F8;rste Helt og Friheds Ven af Dage,</l>
+<l>Naar han ud&#x00F8;ser Blod, naar han forstyrrer Fred,</l>
+<l>Naar han ey Sandhed meer af nogen taale kan,</l>
+<l>Naar han vil byde frit og kun som Voldsmand t&#x00E6;nke,</l>
+<l>Naar Magt er all hans Ret, naar han t&#x00F8;r Frihed kr&#x00E6;nke,</l>
+<l>Naar han ber&#x00F8;ver mig min Helt, min Ven, min Mand.</l>
+</sp>
+<sp who="Einer">
+<speaker>Einer.</speaker>
+<l>Han fra Forglemmelse da redde skal mit Navn:</l>
+<l>En Helt med &#x00C6;re d&#x00F8;er, som d&#x00F8;er for Landets Love:</l>
+<l>Og efter Einers D&#x00F8;d skal Harrald neppe vove,</l>
+<l>At gi&#x00F8;re mindste Skridt mod F&#x00F8;delandets Gavn.</l>
+<l>Mig <ptr type="criticalApp" target="EinerT_var35" xml:id="EinerT_var35"/>elske Tr&#x00F8;nderne, jeg seer, hvad Raserie</l>
+<l>Min D&#x00F8;d opt&#x00E6;nde vil hos dem; Ja Harralds Throne</l>
+<l>Skal vakle ved mit Fald; vil han min D&#x00F8;d forsone,</l>
+<l>Han maa, som Folkets Ven forlade Tyrannie,</l>
+<l>H&#x00F8;yt agte tappre M&#x00E6;nd og give Troskab L&#x00F8;n.</l>
+</sp>
+<sp who="Bergliod">
+<speaker><pb n="24"/>Bergliod.</speaker>
+<l>Forladt og s&#x00F8;rgende skal da din troe Veninde</l>
+<l>See Blod af dette Bryst for Morder-Sv&#x00E6;rd at rinde?</l>
+</sp>
+<sp who="Einer">
+<speaker>Einer.</speaker>
+<l>Jeg anbefaler dig til Himlen og min S&#x00F8;n.</l>
+</sp>
+</div>
+<div type="scene" n="5">
+<head>FEMTE OPTRIN.</head>
+<stage>Arne, de forrige.</stage>
+<sp who="Arne">
+<speaker>Arne.</speaker>
+<l>Omsider har jeg dog udvirket denne Gunst,</l>
+<l>Som Harrald skylder dig: I Dag din S&#x00F8;n skal b&#x00E6;re</l>
+<l>Det stolte Navn af Jarl; Gid han kun vilde l&#x00E6;re</l>
+<l>Vor Konge, at han ey b&#x00E6;r dette Navn omsunst.</l>
+<l>Haardraade herske vil med uindskr&#x00E6;nket Magt;</l>
+<l>Men Kongen b&#x00F8;r vor Lov, om vi skal ham adlyde:</l>
+<l>Nu vil han Fred paa nye med Dannerkonge bryde,</l>
+<l>Og indtil Dannemark er Norge underlagt,</l>
+<l>Han leve vil i Krig. &#x2013; Men hvad? er Sigrid der?</l>
+</sp>
+</div>
+<div type="scene" n="6">
+<head>SIETTE OPTRIN.</head>
+<stage>Sigrid, de forrige.</stage>
+<sp who="Arne">
+<speaker>Arne.</speaker>
+<l>Ja, Ski&#x00F8;nne! Kierlighed for dig var f&#x00F8;r min Smerte;</l>
+<l>Men Venskabs roelig Ild opvarmer nu mit Hierte,</l>
+<l>Og til Beviis, hvor h&#x00F8;yt din Lykke var mig kier,</l>
+<l><pb n="25"/>Da viid, at Kongen har omsider h&#x00F8;rt min B&#x00F8;n;</l>
+<l>Han skal din &#x00C6;gte-Ven til V&#x00E6;rdighed oph&#x00F8;ye;</l>
+<l>At tiene dig &#x2013; Det kan min hele Siel forn&#x00F8;ye.</l>
+<l>Kun din Fortroelighed jeg &#x00F8;nsker mig til L&#x00F8;n.</l>
+</sp>
+<sp who="Sigrid">
+<speaker>Sigrid</speaker>
+<stage>bevidner ham sin Erkiendtlighed med en kold Mine, og siger derpaa til Einer.</stage>
+<l>I dette &#x00D8;yeblik vil Kongen komme her &#x2013; &#x2013;</l>
+<l>Min Fader h&#x00F8;r min B&#x00F8;n, glem ey den sande &#x00C6;re,</l>
+<l>Som altid Norske M&#x00E6;nd for elskte Konger b&#x00E6;re:</l>
+<l>Ydmyg dig, om du har, en S&#x00F8;n, en Datter kier.</l>
+<l part="I">Vor Lykke, &#x2013; &#x2013;</l>
+</sp>
+<sp who="Einer">
+<speaker>Einer.</speaker>
+<l part="F">Godt, jeg veed alt hvad du sige kan;</l>
+<l>Jeg veed, hvor dybt jeg b&#x00F8;r for Konger mig nedb&#x00F8;ye &#x2013; &#x2013;</l>
+<l>Man sig imidlertid afsides maa <ptr type="commentary" target="EinerT_comm91" xml:id="EinerT_comm91"/>forf&#x00F8;ye.</l>
+</sp>
+<sp who="Bergliod">
+<speaker>Bergliod.</speaker>
+<l>Hvordan? forlade dig &#x2013; allene &#x2013; her &#x2013; min Mand?</l>
+<l>Nei, f&#x00F8;r jeg vente vil med dig Tyrannens Dom, </l>
+<l part="I">Og ved din Side d&#x00F8;e &#x2013; &#x2013; &#x2013;</l>
+</sp>
+<sp who="Einer">
+<speaker>Einer.</speaker>
+<l part="F">Gaaer bort, som jeg befaler &#x2013;</l>
+</sp>
+<sp who="Bergliod">
+<speaker>Bergliod.</speaker>
+<stage>i det hun gaaer.</stage>
+<l part="I">Strid, Himmel for min Helt!</l>
+</sp>
+<stage>(De andre gaae.)</stage> 
+</div>
+<div type="scene" n="7">
+<head><pb n="26"/>SYVENDE OPTRIN</head>
+<sp who="Einer">
+<speaker>Einer</speaker>
+<stage>allene.</stage>
+<l part="F">Hvad jeg med Kongen taler,</l>
+<l><ptr type="criticalApp" target="EinerT_var36" xml:id="EinerT_var36"/>Ey Vidne tr&#x00E6;nger til. Nu du til Hielp mig kom,</l>
+<l>Du Kongernes Monark! du som mit Hierte seer,</l>
+<l>Du seer, jeg Kongen vil og Landet trofast v&#x00E6;re,</l>
+<l>Bef&#x00E6;st vort Riges Fred, lad Harrald eengang l&#x00E6;re,</l>
+<l>At altid Krigeren sit Folkes B&#x00F8;ddel er.</l>
+</sp>
+</div>
+<div type="scene" n="8">
+<head>OTTENDE OPTRIN.</head>
+<stage>Harrald, Einer.</stage>
+<sp who="Harrald">
+<speaker>Harrald.</speaker>
+<l>Glad seer jeg her i Dag, den seyerrige Helt!</l>
+<l>Med F&#x00F8;lge, ligt en H&#x00E6;r, som om han vilde stride,</l>
+<l>Som om han forud alt mit Anl&#x00E6;g kunde vide:</l>
+<l>En H&#x00E6;r beleylig kom, naar Kongen skal i Felt.</l>
+<l>Qvindagtig Vellyst er den visse Fredens Frugt;</l>
+<l>Naturen har til Krig de Norske Hierter h&#x00E6;rdet,</l>
+<l>Den som er Nordmand f&#x00F8;d, han er og f&#x00F8;d til Sv&#x00E6;rdet;</l>
+<l>Men Rust fort&#x00E6;rer Sv&#x00E6;rd, som sielden bliver brugt.</l>
+</sp>
+<sp who="Einer">
+<speaker>Einer.</speaker>
+<l>Var du allene Helt, du burde tale saa;</l>
+<l>Men viid, du er Regent, du er dit Folkes Fader,</l>
+<l>Og fra det &#x00D8;yeblik, dig Himlen overlader</l>
+<l>At styre Rigets Roer, dig selv du glemme maa.</l>
+<l><pb n="27"/>Glem alt, hvad dig er kiert, glem Sv&#x00E6;rd, og Rov og Krig,</l>
+<l>Glem Seyer og Triumph, glem Had til Naboe-Riger,</l>
+<l>Glem Lyst til H&#x00E6;vn, og h&#x00F8;r, hvad Rigets Trang dig siger:</l>
+<l>Brug vel forundte Fred, og bliv ud&#x00F8;delig,</l>
+<l>Sid paa din Throne stolt, og &#x00F8;v Retf&#x00E6;rdighed,</l>
+<l>Opl&#x00F8;ft fortr&#x00E6;ngte Dyd, lad <ptr type="commentary" target="EinerT_comm92" xml:id="EinerT_comm92"/>fr&#x00E6;kke Laster blegne,</l>
+<l>Lad str&#x00E6;bsom Bondes Flid paa dyrket Ager tegne</l>
+<l>Den kiere Konges <ptr type="criticalApp" target="EinerT_var37" xml:id="EinerT_var37"/>Roes, som undte Riget Fred. </l>
+</sp>
+<sp who="Harrald">
+<speaker>Harrald.</speaker>
+<l>Kun Alderdom, min Ven! dig gi&#x00F8;r til Fredens Tolk;</l>
+<l>Ved Sv&#x00E6;rd jeg mandelig skal Rigets Ret handth&#x00E6;ve,</l>
+<l>Ved Sv&#x00E6;rd skal Norge staae, og <ptr type="criticalApp" target="EinerT_var38" xml:id="EinerT_var38"/>Naboe-Riger b&#x00E6;ve,</l>
+<l>Ved Sv&#x00E6;rd jeg vinder Guld, og Stad, og Land, og Folk.</l>
+<l>Ved Sv&#x00E6;rd jeg Dannemark skatskyldig gi&#x00F8;re skal</l>
+<l>Og l&#x00E6;re dem, som boe der paa de lave Sl&#x00E6;tter,</l>
+<l>At man omsunst med os om Herred&#x00F8;mme tr&#x00E6;tter:</l>
+<l>Kong Magnus giorde f&#x00F8;r et ubet&#x00E6;nksomt Valg:</l>
+<l>Da Danners Rige var ved Arv ham underlagt,</l>
+<l>Den Danske Svend til Jarl i Riget han udraaber;</l>
+<l>(Uventet Lykke gi&#x00F8;r, man st&#x00F8;rre Lykke haaber.)</l>
+<l>Knap Magnus borte var, f&#x00F8;r Svend har Konge Magt;</l>
+<l>Men naar jeg Dannemark mig undertvunget har,</l>
+<l>Troe da, jeg ingen Dansk til Jarl i Riget s&#x00E6;tter.</l>
+<l>En gammel Nordmands S&#x00F8;n &#x2013; troe &#x2013; kiek &#x2013; maaskee du gietter?</l>
+</sp>
+<sp who="Einer">
+<speaker>Einer.</speaker>
+<l>S&#x00E6;t, hvem du vil til Jarl; Men viid, at Norge var</l>
+<l>Ved nye Erobringer kun meer ulykkeligt.</l>
+<l>Forsvar dit eget Land, og inden Muur af Fielde</l>
+<l>Lad Nordm&#x00E6;nd hvile trygt, der veed du, hvad de gielde</l>
+<l>Der f&#x00F8;le de sig selv, der kiende de sin Pligt.</l>
+<l><pb n="28"/>V&#x00E6; den, som Angreb der mod Nordmand gi&#x00F8;re t&#x00F8;r!</l>
+<l>Med Bi&#x00F8;rne-Styrke han for Frihed, Gods og Huuse</l>
+<l>Uddeler tunge Slag, som Skiold og Hielm maa knuse;</l>
+<l>Men under fremmed Luft han gr&#x00E6;mmer sig og d&#x00F8;er.</l>
+<l>Vort Norge l&#x00E6;nge nok har sukket under Krig:</l>
+<l><ptr type="commentary" target="EinerT_comm93" xml:id="EinerT_comm93"/>Hist en troelovet M&#x00F8;e sin unge Helt begr&#x00E6;der;</l>
+<l>Forhugne Kr&#x00F8;bling her frem paa sin Krykke tr&#x00E6;der,</l>
+<l>Nu betler han sit Br&#x00F8;d, f&#x00F8;r var han seyerrig.</l>
+<l>Der ligger &#x00F8;de Gaard, og her hvor Ager stod,</l>
+<l>Kun <ptr type="criticalApp" target="EinerT_var39" xml:id="EinerT_var39"/>voxe <ptr type="commentary" target="EinerT_comm94" xml:id="EinerT_comm94"/>N&#x00E6;lder nu. Hist Graad af sp&#x00E6;de S&#x00F8;nner,</l>
+<l>Hvis Fader Krigen tog. Her Enkens Suk og B&#x00F8;nner,</l>
+<l>Som kr&#x00E6;ver af din Haand sin &#x00C6;gtef&#x00E6;lles Blod.</l>
+<l>Her raabes himmelh&#x00F8;yt mod Seyerherren selv,</l>
+<l>Mod dyreki&#x00F8;bt Triumph: L&#x00E6;g Undersaattens Smerter,</l>
+<l>Opret enhver sit Tab, tr&#x00F8;st alle M&#x00F8;dres Hierter;</l>
+<l>Hvis ikke &#x2013; <ptr type="commentary" target="EinerT_comm95" xml:id="EinerT_comm95"/>Band dit Sv&#x00E6;rd! paa Krigen t&#x00E6;nk og ski&#x00E6;lv.</l>
+</sp>
+<sp who="Harrald">
+<speaker>Harrald.</speaker>
+<l>Jeg kiender Kongers Pligt, jeg kiender Fred og Krig;</l>
+<l>Jeg veed at bruge Sv&#x00E6;rd til F&#x00F8;delandets Nytte:</l>
+<l>Ved slagne Fiender tryg, og riig ved kostbart Bytte</l>
+<l>Grundf&#x00E6;ster jeg min Stat og Verden &#x00E6;rer mig.</l>
+<l>Nu hersker strenge Dyd og Mod og Troskab her;</l>
+<l>Men nyd langvarig Fred; strax tappre Mandskab bliver</l>
+<l>Forkielet, dovent, feig; og Vellyst selv nedriver</l>
+<l>Den Throne, som er bygt paa Seyervindinger. &#x2013;</l>
+</sp>
+<sp who="Einer">
+<speaker>Einer.</speaker>
+<l>Den viise Konge b&#x00F8;r og kunde bruge Fred,</l>
+<l><ptr type="commentary" target="EinerT_comm96" xml:id="EinerT_comm96"/>Opelske Kunsterne, udbrede gode S&#x00E6;der,</l>
+<l>Bel&#x00F8;nne Flid og Dyd, opbygge faldne St&#x00E6;der,</l>
+<l>Og gi&#x00F8;re n&#x00F8;gen <ptr type="commentary" target="EinerT_comm97" xml:id="EinerT_comm97"/>H&#x00F8;y, som Dalen, gr&#x00F8;n og feed;</l>
+<l><pb n="29"/>Saa l&#x00E6;nge Gran paa Field og Bar<note type="footnote"><ptr type="criticalApp" target="EinerT_var38a" xml:id="EinerT_var38a"/><hi rend="italic">Bar</hi> kaldes i Norge de gr&#x00F8;nne Naale, som voxe pa Gran, Fyre og Eneb&#x00E6;r-Tr&#x00E6;.</note> paa Granen groer,</l>
+<l>Saa l&#x00E6;nge Nordm&#x00E6;nds Bryst paa <ptr type="commentary" target="EinerT_comm98" xml:id="EinerT_comm98"/><ptr type="criticalApp" target="EinerT_var40" xml:id="EinerT_var40"/>Velgiort veed at ski&#x00F8;nne,</l>
+<l>Skal Eftersl&#x00E6;gten da med evig Tak bel&#x00F8;nne</l>
+<l>Den Rigets Ven, som blev i Fredens Skygge stor,</l>
+<l part="I">Og Krigen &#x2013; &#x2013; &#x2013;</l>
+</sp>
+<sp who="Harrald">
+<speaker>Harrald.</speaker>
+<l part="F">Det er nok: f&#x00F8;rst Krig og siden Fred.</l>
+</sp>
+<sp who="Einer">
+<speaker>Einer.</speaker>
+<l>Alvorlig beder jeg; for eget Land hav Naade.</l>
+</sp>
+<sp who="Harrald">
+<speaker>Harrald.</speaker>
+<l>Tie, lyd, og f&#x00F8;lg og viid: Jeg eene, jeg vil raade:</l>
+<l>Man af Modsigelser omsider bliver kied.</l>
+</sp>
+<sp who="Einer">
+<speaker>Einer.</speaker>
+<l>Siig Konge! hvo dig gav en uindskr&#x00E6;nket Magt?</l>
+<l>Du veed den Norske Lov. Den b&#x00F8;r det dig at lyde.</l>
+</sp>
+<sp who="Harrald">
+<speaker>Harrald.</speaker>
+<l>Bet&#x00E6;nk dig vel i Dag, at du ey skal f<ptr type="commentary" target="EinerT_comm99" xml:id="EinerT_comm99"/>ortryde,</l>
+<l>Hvad du mod Kongen har med dristig Fr&#x00E6;khed sagt.</l>
+</sp>
+<sp who="Einer">
+<speaker>Einer.</speaker>
+<l part="I">Jeg taler for mit Land &#x2013; &#x2013; &#x2013;</l>
+</sp>
+<sp who="Harrald">
+<speaker>Harrald.</speaker>
+<l part="F">Jeg for min Konge-Ret.</l>
+<l>Maaskee du med Kong Svend i Forbund kunde v&#x00E6;re &#x2013; &#x2013;</l>
+<l>Men Lydighed jeg dig og ham forstaaer at l&#x00E6;re. &#x2013;</l>
+</sp>
+<sp who="Einer">
+<speaker>Einer.</speaker>
+<l>Du kan forhaane mig? og med saa ski&#x00E6;ndig Pl&#x00E6;t</l>
+<l>Van&#x00E6;re dette Navn, som f&#x00F8;r end du var f&#x00F8;d &#x2013; &#x2013; &#x2013;</l>
+</sp>
+<sp who="Harrald">
+<speaker><pb n="30"/>Harrald.</speaker>
+<l><ptr type="commentary" target="EinerT_comm100" xml:id="EinerT_comm100"/>Forvovne holdt! til Valg jeg dig een Time ski&#x00E6;nker,</l>
+<l>Bereed din Arm til Strid, om du dig ey bet&#x00E6;nker,</l>
+<l>Og viid, Ulydighed i Dag &#x2013; &#x2013; det er din D&#x00F8;d.</l>
+<stage>(Han gaaer.)</stage>
+</sp>
+</div>
+<div type="scene" n="9">
+<head>NIENDE OPTRIN.</head>
+<sp who="Einer">
+<speaker>Einer</speaker>
+<stage>allene.</stage>
+<l>Min Nidkierhed med Skam, med D&#x00F8;d bel&#x00F8;nnes skal!</l>
+<l>O! kunde jeg kun her den dyre Pligt foreene,</l>
+<l>At f&#x00F8;lge Kongens Bud med den mit Land at tiene &#x2013; &#x2013;</l>
+<l>At tiene det og d&#x00F8;e &#x2013; &#x2013; Velan &#x2013; &#x2013; her er mit Valg.</l>
+<l>Ja m&#x00E6;t din grumme Siel, blodt&#x00F8;rstige Tyran!</l>
+<l>Men frygt at Norge selv, det Land jeg elsket haver,</l>
+<l>Opl&#x00F8;fter hele Field, og knuser og begraver,</l>
+<l>Og h&#x00E6;vner sig mod den, som blev min Banemand.</l>
+<stage>(Han gaaer.)</stage>
+</sp>
+<stage>Ende paa andet Optog.</stage>
+</div>
+</div> 
+<div type="act" n="3">
+ <head><pb n="31"/><ref type="contents" target="contents_6" xml:id="chapter_6">Tredie Optog</ref>.</head>
+<div type="scene" n="1">
+<head>F&#x00D8;RSTE OPTRIN.</head>
+<stage>Elisabeth. Sigrid.</stage>
+<sp who="Elisabeth">
+<speaker>Elisabeth.</speaker>
+<l>Ja Zepter, Krone, Magt kun ilde tr&#x00F8;ste kan;</l>
+<l>Hvor tidt blev Sorg til Deel for Verdens Herskerinder?</l>
+<l>En Dronning sielden kun den rene Gl&#x00E6;de finder,</l>
+<l>Som Huusets Moder har i roelig Bondestand.</l>
+<l>Tryg i sin snevre Kreds hun n&#x00F8;yer sig med lidt,</l>
+<l>Hun m&#x00F8;der tr&#x00E6;tte Mand med tarvelige Retter,</l>
+<l>Og trivelige S&#x00F8;n ved Faders Side s&#x00E6;tter,</l>
+<l>Og siger: Mand og S&#x00F8;n, og Huus og Gaard er mit &#x2013; &#x2013;</l>
+<l>Vi h&#x00F8;re Konger til, og Sorg vor Medgift er;</l>
+<l>Jeg Harrald knap som min et &#x00D8;yeblik omfavner,</l>
+<l>F&#x00F8;r Krigen kalder ham; jeg Mand og Konge savner,</l>
+<l>Og Hiertet <ptr type="commentary" target="EinerT_comm101" xml:id="EinerT_comm101"/>qv&#x00E6;les meer, jo meer jeg har ham kier &#x2013; &#x2013;</l>
+<l>Ja Riget eyer meer end jeg i denne Mand!</l>
+<l>Hvor svag er da vor Ret! &#x2013; &#x2013; Vi siges at regiere &#x2013; &#x2013;</l>
+<l>Man &#x00E6;rer os, fordi vi gyldne L&#x00E6;nker b&#x00E6;re &#x2013; &#x2013;</l>
+<l>Du roser min og jeg &#x2013; &#x2013; misunder dig din Stand.</l>
+<l>I dette grumme Land, hvor Dyd bestaaer i Mod,</l>
+<l>Hvor Hierterne hos M&#x00E6;nd, som Landets Klipper ere,</l>
+<l>Her maa vort svage Ki&#x00F8;n med Taarer sig ern&#x00E6;re,</l>
+<l>Naar Broder, S&#x00F8;n og Mand ern&#x00E6;rer sig med Blod.</l>
+</sp>
+<sp who="Sigrid">
+<speaker><pb n="32"/>Sigrid.</speaker>
+<l>Ja Dronning! du har Ret; jeg veed, den f&#x00F8;rste gang</l>
+<l>Jeg Endre v&#x00E6;bnet saae; det Skiold, det Spyd, den Bue,</l>
+<l>Den Brynje syntes mig med Saar og Blod at true.</l>
+<l><ptr type="criticalApp" target="EinerT_var41" xml:id="EinerT_var41"/>F&#x00E6;lt Sv&#x00E6;rdet raslede, grumt Kobber-Hielmen klang.</l>
+<l>Men stolt var han og glad og sagde: &#x00AB;See den Dragt,</l>
+<l>&#x00AB;Hvori jeg leve vil og Seyers Kroner vinde;</l>
+<l>&#x00AB;For dette Sv&#x00E6;rd skal Blod til Norges &#x00C6;re rinde,</l>
+<l>&#x00AB;Her seer min Sigrid nu sin Brudgom i sin Pragt.&#x00BB;</l>
+<l>Jeg &#x00F8;m og kielen ham omfavner gr&#x00E6;dende,</l>
+<l>Og siger: Denne Dragt din unge Brud bedr&#x00F8;ver,</l>
+<l>Og dette Mod engang mig all min Fryd ber&#x00F8;ver,</l>
+<l>Kast Vaaben, <ptr type="commentary" target="EinerT_comm102" xml:id="EinerT_comm102"/>flye, og lev med mig blant Hyrderne. &#x2013;</l>
+<l>Da saae jeg f&#x00F8;rste gang min Endre <ptr type="criticalApp" target="EinerT_var42" xml:id="EinerT_var42"/>barsk og vred.</l>
+</sp>
+<sp who="Elisabeth">
+<speaker>Elisabeth.</speaker>
+<l>Ja, jeg har l&#x00E6;rt i Dag, at Nordm&#x00E6;nd ey formildes</l>
+<l>Ved Suk og Graad og B&#x00F8;n &#x2013; &#x2013; paa Klippen Taarer spildes;</l>
+<l>Men Einer elsker jeg, fordi <ptr type="criticalApp" target="EinerT_var43" xml:id="EinerT_var43"/>han elsker Fred.</l>
+</sp>
+<sp who="Sigrid">
+<speaker>Sigrid.</speaker>
+<l>O! Dronning! pr&#x00F8;v endnu engang med ivrig B&#x00F8;n,</l>
+<l>At fremme Landets Gavn og d&#x00E6;mpe Helters Tr&#x00E6;tte;</l>
+<l>Jeg og fors&#x00F8;ge vil, hvad &#x00D8;mhed kan udrette,</l>
+<l>Og dybe, kielne Suk hos Tambeskielvers S&#x00F8;n.</l>
+</sp>
+<sp who="Elisabeth">
+<speaker>Elisabeth.</speaker>
+<l>Gid det ey var omsunst; Men intet ufors&#x00F8;gt</l>
+<l>Jeg efterlade vil, r&#x00F8;r Himmel Kongens Hierte!</l>
+<l>Forklar ham Landets N&#x00F8;d! forklar ham all den Smerte,</l>
+<l part="I">Som qv&#x00E6;ler dette Bryst &#x2013; &#x2013; &#x2013;</l>
+<stage>(Hun gaaer.)</stage>
+</sp>
+</div>
+<div type="scene" n="2">
+<head><pb n="33"/>ANDET OPTRIN.</head>
+<sp who="Sigrid">
+<speaker>Sigrid</speaker>
+<stage>allene.</stage>
+<l part="F">Hun gaaer med hvilken Frygt!</l>
+<l>Grum Harrald v&#x00E6;re maa. &#x2013; &#x2013; Hun altid synes mig</l>
+<l>At ham at frygte meer, end det hun aabenbarer;</l>
+<l>Vi trues, Himlen veed, med hvilken H&#x00E6;r af Farer!</l>
+<l>Maaskee med Mord &#x2013; &#x2013; Men see, min <ptr type="criticalApp" target="EinerT_var44" xml:id="EinerT_var44"/>Endre er det dig? </l>
+</sp>
+</div>
+<div type="scene" n="3">
+<head>TREDIE OPTRIN.</head>
+<stage>Sigrid. Endre.</stage>
+<sp who="Sigrid">
+<speaker>Sigrid.</speaker>
+<l>Du fik det f&#x00F8;rste Suk fra dette kielne Bryst;</l>
+<l>Du er mig eene kier blant alle Nordens S&#x00F8;nner;</l>
+<l><ptr type="commentary" target="EinerT_comm103" xml:id="EinerT_comm103"/>Forskyd mig ey i Dag, h&#x00F8;r dog din Sigrids B&#x00F8;nner!</l>
+<l>Kan du forlade mig? og virker Krigens Lyst</l>
+<l>Paa dig med st&#x00F8;rre Kraft end disse Favnetag?</l>
+<l>Elsk Fred &#x2013; &#x2013; der er min B&#x00F8;n &#x2013; saa lyder du din Fader,</l>
+<l>Saa tiener du dit Land, og mig du ey forlader,</l>
+<l>Saa drives bort den Storm, som truer os i Dag.</l>
+</sp>
+<sp who="Endre">
+<speaker>Endre.</speaker>
+<l>Min Fader tr&#x00E6;t af Krig, omsider elsker Fred;</l>
+<l>Men Ungdoms muntre Blod og Seeners modne Styrke,</l>
+<l>Og Lyst og Mod og Ild befaler mig at dyrke</l>
+<l>Forf&#x00E6;dres stolte Kunst og viise Tapperhed:</l>
+<l><pb n="34"/>Ved Krig udviides skal det sn&#x00E6;vre F&#x00F8;deland;</l>
+<l>De Danske Sl&#x00E6;tter snart adlyde Norske Fielde,</l>
+<l>Og t&#x00E6;nk, hvad du og jeg med Tiden da skal gielde,</l>
+<l>Naar du, som Rigets Jarl omfavner der din Mand!</l>
+</sp>
+<sp who="Sigrid">
+<speaker>Sigrid.</speaker>
+<l>Men om jeg Slaget tabt og Endre fangen seer,</l>
+<l>Om ulyksalig Piil af alt for sikker Bue &#x2013; &#x2013; &#x2013;</l>
+</sp>
+<sp who="Endre">
+<speaker>Endre.</speaker>
+<l>Forgi&#x00E6;ves vil du mig med Krigens Vanheld true;</l>
+<l><ptr type="commentary" target="EinerT_comm104" xml:id="EinerT_comm104"/>Hvo Styrke har og Mod, sin Seyer med sig b&#x00E6;r.</l>
+<l>Du Ski&#x00F8;nheds Vaaben ey mod mig misbruge b&#x00F8;r;</l>
+<l>Du veed, jeg elsker dig, lad af min Siel at friste &#x2013; &#x2013; &#x2013;</l>
+</sp>
+<sp who="Sigrid">
+<speaker>Sigrid.</speaker>
+<l>Saa vil du dig med Magt af disse Arme vriste &#x2013; &#x2013; &#x2013;</l>
+</sp>
+<sp who="Endre">
+<speaker>Endre.</speaker>
+<l>Naar Krigen kalder, Suk mig ey qvindagtig gi&#x00F8;r;</l>
+<l>Men iil til Bergliod, beed hende haste med</l>
+<l>At faae min Faders Sind til andre Tanker b&#x00F8;yet;</l>
+<l>Man dog indbyrdes Roe f&#x00F8;rst have b&#x00F8;r for &#x00D8;yet.</l>
+<l>Den ilde hader Krig, som derved bryder Fred.</l>
+<l>Fort&#x00F8;rnet Kongen er, og griber vist til Sv&#x00E6;rd &#x2013; &#x2013; &#x2013;</l>
+<l part="I">Gaae, see der kommer han &#x2013; &#x2013; &#x2013;</l>
+</sp>
+<stage>(Sigrid gaaer.)</stage>
+</div>
+<div type="scene" n="4">
+<head><pb n="35"/>FIERDE OPTRIN.</head>
+<stage>Harrald, Arne, Endre.</stage>
+<sp who="Harrald">
+<speaker>Harrald.</speaker>
+<l part="F">H&#x00F8;r Endre! frels din Fader,</l>
+<l>Gaae, siig: Jeg ikke ham, men kun hans Stolthed hader,</l>
+<l>Og beed ham gi&#x00F8;re sig i Dag mit Venskab v&#x00E6;rd.</l>
+<l>Jeg har besluttet Krig, og Tambeskielvers Mod</l>
+<l>Mig ey afskrekke kan, jeg pr&#x00F8;ve skal hans Kr&#x00E6;fter,</l>
+<l>Og l&#x00E6;re ham at d&#x00F8;e, om han ey giver efter.</l>
+<l>Siig: Jeg fort&#x00F8;rnet er, min Vrede fordrer Blod.</l>
+<l>I &#x00C6;rens fulde L&#x00F8;b vil Einer standse mig!</l>
+<l>Jeg Rigets Gr&#x00E6;ndser ey med Vaaben maa udviide!</l>
+<l>Og om vor gamle Ret med trodsig Naboe stride!</l>
+<l>Jeg af min Undersaat forhindres skal fra Krig!</l>
+<l>Jeg var i Africa, det L&#x00F8;vers F&#x00F8;deland,</l>
+<l>Jeg vandt saa mangt et Slag og Guld og Gods og St&#x00E6;der,</l>
+<l>Hver Keiserlig Soldat ansaae det for sin H&#x00E6;der,</l>
+<l>Med mig at have sat en Bye, et Slot i Brand.</l>
+<l>Og i mit Norge selv en Nordmand n&#x00E6;gte t&#x00F8;r</l>
+<l>At f&#x00F8;lge mig i Felt! jeg, som i Krigens Farer</l>
+<l>Anf&#x00F8;rer altid er, og aldrig Livet sparer;</l>
+<l>Naar savnede man mig, hvor tapper Landsmand d&#x00F8;er?</l>
+<l>Hvo strider ey med Lyst, hvor Harrald Fanen b&#x00E6;r?</l>
+<l>Din Fader? hvilken Skam! jeg kan ey meer tilgive;</l>
+<l>I Templet mellem os i Dag skal afgiort blive,</l>
+<l>Om Einer eller jeg Regent i Landet er.</l>
+</sp>
+<sp who="Endre">
+<speaker>Endre.</speaker>
+<l>Alt f&#x00F8;ler nu mit Bryst <ptr type="criticalApp" target="EinerT_var45" xml:id="EinerT_var45"/>sin Konges Tapperhed,</l>
+<l>Saasnart han n&#x00E6;vner Krig; jeg synes strax, jeg h&#x00F8;rer</l>
+<l>Det huule Vaabenbrag, og seer dig som Anf&#x00F8;rer,</l>
+<l>Hvor slagen Fiende d&#x00F8;er, og Muren dundrer ned.</l>
+<l><pb n="36"/>Men store Konge h&#x00F8;r, og taal min ringe B&#x00F8;n:</l>
+<l>Jeg elsker dig, vort Land og vore Vaabens &#x00C6;re,</l>
+<l>Din Fane f&#x00F8;lger jeg, hvorhen du den vil b&#x00E6;re;</l>
+<l>Men denne troe Soldat er en bekymret S&#x00F8;n.</l>
+<l>Lad Overilelse din store Siel i Dag</l>
+<l>Ey bringe til en Dom, som Folk og Land fortryder!</l>
+<l>Min Fader, troe mig dog, kun Folkets R&#x00F8;st adlyder,</l>
+<l>Og naar han taler Fred, han taler Landets Sag.</l>
+<l>Gud veed, med hvilken Sorg jeg daglig m&#x00E6;rket har,</l>
+<l>Imellem dig og ham at voxe <ptr type="commentary" target="EinerT_comm105" xml:id="EinerT_comm105"/>Tvedragts-Luer,</l>
+<l>Og ski&#x00E6;lvende jeg dem i Dag at funkle skuer,</l>
+<stage>(Han vender sig mod Arne.)</stage>
+<l>Jeg kiender ogsaa den, som Ved til Ilden bar &#x2013; &#x2013; &#x2013;</l>
+<l>Min Faders Troskab elsk, foragt hans Overmod,</l>
+<l>Lad en <ptr type="commentary" target="EinerT_comm106" xml:id="EinerT_comm106"/>udlevet Helt i Fred sit Hoved giemme,</l>
+<l>Og aldrig skal hans S&#x00F8;n sin Konges Naade glemme;</l>
+<l>Men skylde ham sig selv til sidste Draabe Blod.</l>
+<l>Hvo &#x00F8;nskte meer end jeg nu strax at f&#x00F8;re Krig;</l>
+<l>Men Tr&#x00F8;ndelagens H&#x00E6;r, <ptr type="criticalApp" target="EinerT_var46" xml:id="EinerT_var46"/>Fred! Fred! mod Himlen raaber,</l>
+<l>Og af min Fader alt til f&#x00E6;lles beste haaber &#x2013; &#x2013; &#x2013;</l>
+</sp>
+<sp who="Arne">
+<speaker>Arne</speaker>
+<stage>afsides til Kongen.</stage>
+<l part="I">Den haaber alt af ham &#x2013; &#x2013;</l>
+</sp>
+<sp who="Endre">
+<speaker>Endre.</speaker>
+<l part="F">Du handler viiselig,</l>
+<l part="I">Om Fred forhalet blev &#x2013; &#x2013; &#x2013;</l>
+</sp>
+<sp who="Harrald">
+<speaker>Harrald.</speaker>
+<l part="F">Nei, strax enhver til Sv&#x00E6;rd.</l>
+<l>Naturen selv omsunst sig mod min Villie s&#x00E6;tter,</l>
+<l>Hvis Tambeskielver meer i Dag med Harrald tr&#x00E6;tter,</l>
+<l>Han komme med sin H&#x00E6;r, og jeg er uforf&#x00E6;rd.</l>
+</sp>
+<sp who="Endre">
+<speaker><pb n="37"/>Endre.</speaker>
+<l>Betroe dig da til mig, jeg skal den hele Sag</l>
+<l>Snart faae til Ende bragt; jeg skal med Tiden vinde</l>
+<l>Min Faders haarde Sind, og Folket skal du finde</l>
+<l>Til Krigen fuldt af Mod; kun<ptr type="commentary" target="EinerT_comm107" xml:id="EinerT_comm107"/> t&#x00F8;v, lad denne Dag </l>
+<l part="I">Gaae hen &#x2013; &#x2013; &#x2013;</l>
+</sp>
+<sp who="Harrald">
+<speaker>Harrald.</speaker>
+<l part="F">Nei, just i Dag jeg fordrer Lydighed,</l>
+<l>Jeg Einer vil i Dag sin Pligt at kiende l&#x00E6;re,</l>
+<l>Gienstridig Undersaat skal dette Sv&#x00E6;rd fort&#x00E6;re:</l>
+<l>Den har sit Liv forbrudt, som nu t&#x00F8;r n&#x00E6;vne Fred.</l>
+</sp>
+<stage>(Endre gaaer.)</stage>
+</div>
+<div type="scene" n="5">
+<head>FEMTE OPTRIN.</head>
+<stage>Harrald, Arne.</stage>
+<sp who="Harrald">
+<speaker>Harrald.</speaker>
+<l>Jeg meer end nok har taalt af Einers fr&#x00E6;kke Mod;</l>
+<l>Nu er det Tid engang, som Konge mig at viise;</l>
+</sp>
+<sp who="Arne">
+<speaker>Arne.</speaker>
+<l>Hver &#x00E6;rlig Nordmand b&#x00F8;r i Dag dit Forhold prise;</l>
+<l>Tilgav du Einer nu, du var <ptr type="commentary" target="EinerT_comm108" xml:id="EinerT_comm108"/>utidig god.</l>
+<l>Men m&#x00E6;rkte du det Ord, om Tr&#x00F8;ndelagens H&#x00E6;r,</l>
+<l>Som raaber kun om Fred? det skulde Trudsel v&#x00E6;re,</l>
+<l>Du skulde Frygt og Skr&#x00E6;k for Overmagten b&#x00E6;re:</l>
+<l>Viid, Einer stolt og frek; Men S&#x00F8;nnen listig er.</l>
+<l>Han for at blive Jarl samtykker denne Krig;</l>
+<l>Men troe, han hemmelig om Fred med Folket taler,</l>
+<l>Og Sigrid Krigen nu med sorte Farver maler</l>
+<l>Hos Dronningen, at hun skal overtale dig.</l>
+</sp>
+<sp who="Harrald">
+<speaker><pb n="38"/>Harrald.</speaker>
+<l>Hun har fors&#x00F8;gt omsunst, og hendes Nidkierhed </l>
+<l part="I">Mig blev mishagelig.</l>
+</sp>
+<sp who="Arne">
+<speaker>Arne.</speaker>
+<l part="F">Kiend derfor Endres <ptr type="commentary" target="EinerT_comm109" xml:id="EinerT_comm109"/>R&#x00E6;nker.</l>
+<l>Hans Fader kun paa Vold, og han paa Kunstgreb t&#x00E6;nker,</l>
+<l>Og begge s&#x00F8;ge de dit Folkes Kierlighed.</l>
+<l>Naar du befaler Krig, de kalde dig Tyran,</l>
+<l>Og ski&#x00E6;nker du dem Fred, det strax hos Folket hedder:</l>
+<l>&#x00AB;Vor Skyts-Gud Einer er, han Kongen ey <ptr type="commentary" target="EinerT_comm110" xml:id="EinerT_comm110"/>tilst&#x00E6;der,</l>
+<l>&#x00AB;At gi&#x00F8;re mindste Skridt mod elsket F&#x00F8;deland.&#x00BB;</l>
+<l>Og hvorfor skulde Krig mishage nu dit Folk?</l>
+<l>Nei, det er Einer selv, som dem til Fred bestemmer,</l>
+<l>Han derved trodser dig, og egen Nytte fremmer,</l>
+<l>I Folkets Navn han er sin egen Villies Tolk.</l>
+</sp>
+<sp who="Harrald">
+<speaker>Harrald.</speaker>
+<l part="I">Men er hans <ptr type="commentary" target="EinerT_comm111" xml:id="EinerT_comm111"/>Anhang stort?</l>
+</sp>
+<sp who="Arne">
+<speaker>Arne.</speaker>
+<l part="F">Den gandske Tr&#x00F8;nders H&#x00E6;r,</l>
+<l>Hver Borger i vor Stad strax Einers Vink adlyder:</l>
+<l>Kort sagt: Ey du, men han i Tr&#x00F8;ndelagen <ptr type="commentary" target="EinerT_comm112" xml:id="EinerT_comm112"/><ptr type="criticalApp" target="EinerT_var47" xml:id="EinerT_var47"/>byder.</l>
+<l>Her fordres Vaersomhed, h&#x00F8;r hvad mit <ptr type="commentary" target="EinerT_comm113" xml:id="EinerT_comm113"/>Anl&#x00E6;g er:</l>
+<l>Jeg dine Skibe vil op efter Nider-Aae</l>
+<l>Til Kongens Gaard med Folk og Vaaben hurtig f&#x00F8;re,</l>
+<l>Og til en sikker Flugt for dig <ptr type="commentary" target="EinerT_comm114" xml:id="EinerT_comm114"/>Anstalter gi&#x00F8;re;</l>
+<l>Og med vor lille H&#x00E6;r jeg vil mod Templet gaae;</l>
+<l>Naar Einer og hans S&#x00F8;n du der afstraffet har,</l>
+<l>Da, f&#x00F8;r man deres D&#x00F8;d blant B&#x00F8;nderne kan <ptr type="commentary" target="EinerT_comm115" xml:id="EinerT_comm115"/>sp&#x00F8;rge,</l>
+<l>Jeg dig i Sikkerhed til Elven skal bes&#x00F8;rge:</l>
+<l>At stride H&#x00E6;r mod H&#x00E6;r, dig raadeligt ey var.</l>
+</sp>
+<sp who="Harrald">
+<speaker><pb n="39"/>Harrald.</speaker>
+<l>Dit Raad er priseligt &#x2013; Men Arne! &#x2013; Mord &#x2013; og Flugt!</l>
+<l>Hvor er Retf&#x00E6;rdighed, naar jeg kan Voldsmand v&#x00E6;re?</l>
+<l>Og naar jeg Flugten tog, siig da, <ptr type="criticalApp" target="EinerT_var48" xml:id="EinerT_var48"/>hvor blev min &#x00C6;re? </l>
+</sp>
+<sp who="Arne">
+<speaker>Arne.</speaker>
+<l>Men naar Langmodighed du har forgi&#x00E6;ves brugt,</l>
+<l>Naar en Opr&#x00F8;rer vil fra Thronen styrte dig,</l>
+<l>Kan det da kaldes Mord, at bringe den af Dage?</l>
+<l>Det er i saadan N&#x00F8;d man Fyrster b&#x00F8;r beklage,</l>
+<l>Naar Thronen vakle maa ved en Forr&#x00E6;ders Svig.</l>
+<l>H&#x00E6;vn du din Ret og flye; Naar Stormen er forbie,</l>
+<l>Du komme kan igien, og Tr&#x00F8;ndelagen l&#x00E6;re,</l>
+<l>At mod Ulydige du vil formildet v&#x00E6;re &#x2013; &#x2013; &#x2013;</l>
+</sp>
+<sp who="Harrald">
+<speaker>Harrald.</speaker>
+<l>Men om man dog anseer min H&#x00E6;vn for Tyrannie?</l>
+</sp>
+<sp who="Arne">
+<speaker>Arne.</speaker>
+<l>En Maaned gaaer forbi, og alting er forglemt:</l>
+<l>Ey noget vakler saa, som M&#x00E6;ngdens T&#x00E6;nkemaade,</l>
+<l>Hvad nu var Tyrannie, snart bliver <ptr type="commentary" target="EinerT_comm116" xml:id="EinerT_comm116"/>idel Naade.</l>
+</sp>
+<sp who="Harrald">
+<speaker>Harrald.</speaker>
+<l><ptr type="criticalApp" target="EinerT_var49" xml:id="EinerT_var49"/>O! Gud, hvor er jeg her forvirret, ubestemt &#x2013; &#x2013; &#x2013;</l>
+<l>At eftergive Ret &#x2013; &#x2013; at hades, som Tyran &#x2013; &#x2013; &#x2013;</l>
+<l>At taale <ptr type="criticalApp" target="EinerT_var50" xml:id="EinerT_var50"/>Trudsler, Vold &#x2013; selv Vold og Mord at &#x00F8;ve &#x2013; &#x2013;</l>
+<l>Her er min Siel i Strid, Retf&#x00E6;rdighed paa Pr&#x00F8;ve &#x2013; &#x2013;</l>
+<l>Nei Arne! jeg endnu mig ey bestemme kan. &#x2013; &#x2013;</l> 
+<stage>(Efter en kort Taushed.)</stage>
+<l>Men h&#x00F8;r! den Fange, du i F&#x00E6;ngsel haver sat,</l>
+<l>Har han for Lyset bragt, den Skat, han haver r&#x00F8;vet?</l>
+<l>Du har dog aldrig Vold mod en Uskyldig &#x00F8;vet?</l>
+</sp>
+<sp who="Arne">
+<speaker><pb n="40"/>Arne</speaker> <stage>forvirret.</stage>
+<l>Man fundet har hos ham en Deel af Kongens Skat:</l>
+<l>Men glem alt saadant nu; gaae, frels dit eget Liv.</l>
+</sp>
+<sp who="Harrald">
+<speaker>Harrald.</speaker>
+<l>Til Templet gaaer jeg da; Mig Himlens Raad ledsage!</l>
+<l>Bef&#x00E6;st min Konge-Ret, vaag over mine Dage!</l>
+<l>Ja du, som Zeptret gav, mig Held og Lykke giv!</l>
+<stage>(Han gaaer.)</stage>
+</sp>
+</div>
+<div type="scene" n="6">
+<head>SIETTE OPTRIN.</head>
+<sp who="Arne">
+<speaker>Arne</speaker>
+<stage>allene.</stage>
+<l>Jeg paa Mistanke blot lod Biarke s&#x00E6;tte fast;</l>
+<l>Han er blant Einers M&#x00E6;nd en kiek og modig Kriger;</l>
+<l>Om han uskyldig er, det nu slet intet siger,</l>
+<l>Det blive skal i Dag min allermindste Last.</l>
+</sp>
+</div>
+<div type="scene" n="7">
+<head>SYVENDE OPTRIN.</head>
+<stage>Einer, Arne.</stage>
+<sp who="Einer">
+<speaker>Einer.</speaker>
+<l>Hvo giver Harrald <ptr type="criticalApp" target="EinerT_var51" xml:id="EinerT_var51"/>Raad? hvo sukker efter Krig?</l>
+<l>Hvad kan forgifte saa den unge Konges Hierte?</l>
+</sp>
+<sp who="Arne">
+<speaker>Arne.</speaker>
+<l>For <ptr type="commentary" target="EinerT_comm117" xml:id="EinerT_comm117"/>tilig han i Krig at vinde Seyer l&#x00E6;rte;</l>
+<l>Han sp&#x00F8;rger ey om Raad, og aldrig r&#x00F8;ber sig.</l>
+<l><pb n="41"/>Endog i ringe Ting, han forbeholden er:</l>
+<l>Man forud intet seer; han t&#x00E6;nker, v&#x00E6;lger, byder;</l>
+<l>Men det, som sorte gi&#x00F8;r hans sieldne Helte-Dyder,</l>
+<l>Er, at han stolt og grum har Krigen alt for kier.</l>
+<l>Til Lykke for vort Land vor Einer elsker Fred;</l>
+<l>Bliv ved &#x2013; &#x2013; Hver Nordmand dig opreiser &#x00C6;rest&#x00F8;tter,</l>
+<l>Og synger om dit Navn fra Kongens Gaard til <ptr type="criticalApp" target="EinerT_var52" xml:id="EinerT_var52"/>Hytter:</l>
+<l>Du ski&#x00E6;lver ey, fordi du Harrald finder vred &#x2013; &#x2013;</l>
+<l>Til Templet gaaer han snart, du der ham m&#x00F8;de maa;</l>
+<l>Din S&#x00F8;n skal blive Jarl, og Krigen du samtykke;</l>
+<l>Men lad ham ey din Magt dig nu af H&#x00E6;nder rykke,</l>
+<l>Lad ham ey denne gang sin Villie fremmet faa &#x2013; &#x2013;</l>
+<l>Ja h&#x00F8;r &#x2013; &#x2013; ey nogen meer for Harrald Godhed har</l>
+<l>Men du &#x2013; du elsket er &#x2013; du burde Zeptret f&#x00F8;re &#x2013; &#x2013;</l>
+<l>Med &#x00D8;mhed skulde du dit Riges Suk anh&#x00F8;re &#x2013; &#x2013;</l>
+<l>Lyksaligt Land og Folk, om Einer Konge var,</l>
+<l part="I">Og &#x2013; &#x2013; &#x2013;</l>
+</sp>
+<sp who="Einer">
+<speaker>Einer.</speaker>
+<l part="F">Holdt! din sorte Siel jeg nu tilfulde, seer;</l>
+<l>Har du din Eed forglemt? <ptr type="commentary" target="EinerT_comm118" xml:id="EinerT_comm118"/>undfalder du din Herre?</l>
+<l>Viid; er Tyrannen grum, Forr&#x00E6;deren er verre;</l>
+<l>Naar Harrald stolt og str&#x00E6;ng, du troel&#x00F8;s, nedrig er.</l>
+<l>Du vil bedrage mig? &#x2013; &#x2013; &#x2013; Nei lang Erfarenhed</l>
+<l>Har l&#x00E6;rt min Siel at see en Hofmands skiulte R&#x00E6;nker;</l>
+<l>Og den, som redelig mod Land og Konge t&#x00E6;nker,</l>
+<l>I Hiertet skrevet b&#x00E6;r, sin dyre Troskabs Eed.</l>
+<l>Men du &#x2013; hvor er du f&#x00F8;d? hvi fik du Nordmands Navn?</l>
+<l>Gaae, flye, din Ski&#x00E6;ndsel b&#x00E6;r, og viid: Min Landsmands &#x00C6;re</l>
+<l>Var altid kiek og stolt og Konger troe at v&#x00E6;re,</l>
+<l>At t&#x00E6;nke, tale frit, og fremme Landets Gavn.</l>
+</sp>
+<sp who="Arne">
+<speaker><pb n="42"/>Arne.</speaker>
+<l>Farvel! naar du f&#x00F8;rst ret har l&#x00E6;rt at kiende mig</l>
+<l>Du snart fortryde vil, hvad til en Ven du sagde &#x2013; &#x2013;</l>
+<stage>(Arne gaaer.)</stage>
+</sp>
+<sp who="Einer">
+<speaker>Einer</speaker>
+<stage>i det Arne gaaer.</stage>
+<l>Jeg knap fortr&#x00F8;d om jeg endnu et Ord tillagde:</l>
+<l>At f&#x00F8;rend Soel gaaer ned, skal Kongen see din Svig.</l>
+</sp>
+</div>
+<div type="scene" n="8">
+<head>OTTENDE OPTRIN.</head>
+<sp who="Einer">
+<speaker>Einer</speaker>
+<stage>allene.</stage>
+<l>Nei! Arne, denne Siel var dertil alt for stor; &#x2013; &#x2013; &#x2013;</l>
+<l>Jeg troer, min S&#x00F8;n har Ret &#x2013; Mig Arne vist nok hader &#x2013;</l>
+<l>Tidt listig Hofmand meer, end selv Tyrannen skader.</l>
+</sp>
+</div>
+<div type="scene" n="9">
+<head>NIENDE OPTRIN.</head>
+<stage>Bergliod. Einer.</stage>
+<sp who="Bergliod">
+<speaker>Bergliod.</speaker>
+<l>Til din Forbittrelse sig alting <ptr type="commentary" target="EinerT_comm119" xml:id="EinerT_comm119"/>sammensoer:</l>
+<l>I L&#x00E6;nker Arne har din tappre Biarke sat,</l>
+<l>Og dette sigter kun til dig Fortred at gi&#x00F8;re:</l>
+<l>Paa Huusbye Biarke var, den Dag os kom for &#x00D8;re,</l>
+<l>At der var r&#x00F8;vet bort en Deel af Kongens Skat:</l>
+<l>Alt er det Arnes Verk; ja Kongen selv ey veed,</l>
+<l>At Biarke f&#x00E6;ngslet er &#x2013; &#x2013; Men skal han Frihed have,</l>
+<l>At gribe hvem han vil? Og gi&#x00F8;re den til Slave,</l>
+<l>Som langt ham overgik i Troskab, Tapperhed?</l>
+</sp>
+<sp who="Einer">
+<speaker><pb n="43"/>Einer.</speaker>
+<l>Hvor er nu Lov og Ret? Nei dette gaaer for vidt:</l>
+<l>Jeg er Lehnsh&#x00F8;vding, jeg; Jeg Huuset skal nedrive,</l>
+<l>Hvor Biarke fangen er; han snart skal <ptr type="criticalApp" target="EinerT_var53" xml:id="EinerT_var53"/>h&#x00E6;vnet blive</l>
+<l>For denne Skam; og han, som vov&#x2019;de dette Skrit,</l>
+<l>Faaer snart af Biarke selv sin velfortiente L&#x00F8;n:</l>
+<l>F&#x00F8;r jeg til Templet gaaer, han skal i Frihed v&#x00E6;re;</l>
+<l>Mishandlinger mod dem, som elske Dyd og &#x00C6;re,</l>
+<l>Min Siel ey taale kan &#x2013; &#x2013; Men see der er min S&#x00F8;n.</l>
+</sp>
+</div>
+<div type="scene" n="10">
+<head>TIENDE OPTRIN.</head>
+<stage>Einer, Bergliod, Endre.</stage>
+<sp who="Endre">
+<speaker>Endre.</speaker>
+<l>Vor Dom har Kongen f&#x00E6;ldt: os venter Sv&#x00E6;rd og D&#x00F8;d:</l>
+<l>Til Templet kommer han, meer grum end nogensinde;</l>
+<l>Min Fader det er Tiid dig selv at overvinde;</l>
+<l>Ydmyg dig, og afvend det sidste Stormens St&#x00F8;d.</l>
+<l>Jeg h&#x00F8;rte nu et Ord af den Forr&#x00E6;ders Mund,</l>
+<l>Som til vor Undergang med sorte Kunstgreb iiler:</l>
+<l>Med <ptr type="commentary" target="EinerT_comm120" xml:id="EinerT_comm120"/>Galdeblandet Fryd han til sin Tienner smiler,</l>
+<l>Og siger: &#x00AB;Endelig kom den for&#x00F8;nskte Stund,</l>
+<l>&#x00AB;Da Kongen, klog ved mig, skal Stolthed straffet see;</l>
+<l>&#x00AB;En Fader og en S&#x00F8;n skal snart i Templet finde,</l>
+<l>&#x00AB;At Harralds Had er grumt; det fr&#x00E6;kke Blod skal rinde,</l>
+<l>&#x00AB;Og Stolthed segne ned, og da skal Arne lee.&#x00BB;</l>
+<l>Kom da, min Fader, <ptr type="criticalApp" target="EinerT_var54" xml:id="EinerT_var54"/>kom, forglem din Lyst til Fred,</l>
+<l>Lad os i Templet Krig mod Dannemark samtykke.</l>
+<l>Et Ord dig selv, din S&#x00F8;n skal udaf Faren rykke;</l>
+<l>V&#x00E6;r ey utidig stolt; En Faders Pligt du veed &#x2013; &#x2013;</l>
+</sp>
+<sp who="Bergliod">
+<speaker><pb n="44"/>Bergliod.</speaker>
+<l>Hvad Pligt, hvad Ydmyghed? Hvor fik din Siel, min S&#x00F8;n,</l>
+<l>Saa lave Tanker? Du din Fader skal forsvare:</l>
+<l>Til Folket kun et Ord! siig: Einer er i Fare,</l>
+<l>Saa har du strax en H&#x00E6;r. Giv den Tyran sin L&#x00F8;n,</l>
+<l>Som true t&#x00F8;r din Sl&#x00E6;gt med et saa gruesomt St&#x00F8;d.</l>
+<l>Slaae Kongen og hans M&#x00E6;nd, knus <ptr type="criticalApp" target="EinerT_var55" xml:id="EinerT_var55"/>Arne den Forr&#x00E6;der,</l>
+<l>Og naar du giennem Blod og D&#x00F8;d dig Vey bereder,</l>
+<l>Da Nordm&#x00E6;nd l&#x00E6;re skal, at du af mig er f&#x00F8;d.</l>
+</sp>
+<sp who="Einer">
+<speaker>Einer.</speaker>
+<l part="I"><stage>(Til Bergliod.)</stage> Stil dit opr&#x00F8;rte Sind.</l>
+<l part="F"><stage>(Til Endre.)</stage> Og du opl&#x00F8;ft dit Mod.</l>
+<l>At iile nu til Krig, var Folket at opr&#x00F8;re;</l>
+<l>Nei, lad os Dommen f&#x00F8;rst af Kongens L&#x00E6;ber h&#x00F8;re,</l>
+<l>Han ubet&#x00E6;nksom ey ud&#x00F8;ser Heltes Blod.</l>
+<l>Troe mig, den Frygt han har for Tr&#x00F8;ndelagens H&#x00E6;r,</l>
+<l>Med Grund mig sikker gi&#x00F8;r, men ey til Vold forf&#x00F8;rer &#x2013; &#x2013;</l>
+</sp>
+<sp who="Endre">
+<speaker>Endre.</speaker>
+<l>Men naar han kun et Ord af dig om Freden h&#x00F8;rer &#x2013; &#x2013;</l>
+</sp>
+<sp who="Einer">
+<speaker>Einer.</speaker>
+<l>Han deraf l&#x00E6;re skal, at jeg har Landet kier,</l>
+<l>At Trudsel er omsunst, at Ki&#x00E6;mpens dragne Sv&#x00E6;rd,</l>
+<l>Og Had og Straf og D&#x00F8;d ey skr&#x00E6;kke dette Hierte;</l>
+<l>At leve Landets Ven og d&#x00F8;e som Helt jeg l&#x00E6;rte,</l>
+<l>Lev du, og d&#x00F8;e som jeg, og bliv din Fader v&#x00E6;rd. &#x2013;</l>
+</sp>
+<sp who="Bergliod">
+<speaker>Bergliod.</speaker>
+<l>Min dyrebare Mand! t&#x00E6;nk paa din Sikkerhed!</l>
+<l>Strid, strid, det er mit Raad, strid f&#x00F8;r det er for silde &#x2013;</l>
+</sp>
+<sp who="Endre">
+<speaker><pb n="45"/>Endre.</speaker>
+<l>For Himlens skyld! gaae, iil, vor Harrald at formilde,</l>
+<l>Du ham, som Undersaat, dog skylder Lydighed, </l>
+<l part="I">Min Fader! kast dig ned &#x2013; &#x2013;</l>
+</sp>
+<sp who="Bergliod">
+<speaker>Bergliod.</speaker>
+<l part="F">Til Vaaben <ptr type="criticalApp" target="EinerT_var56" xml:id="EinerT_var56"/>grib min Mand!</l>
+<l>Forhadt er Kongen nu, for dig hvert Hierte br&#x00E6;nder.</l>
+</sp>
+<sp who="Endre">
+<speaker>Endre.</speaker>
+<l>Samtyk det Danske Tog, indbyrdes Krig du kiender,</l>
+<l>Strid for, men ey imod dit kiere F&#x00F8;deland.</l>
+</sp>
+<sp who="Bergliod">
+<speaker>Bergliod.</speaker>
+<l part="I">Straf f&#x00F8;rst en grum Tyran!</l>
+</sp>
+<sp who="Endre">
+<speaker>Endre.</speaker>
+<l part="F">Viig for en vred Regent!</l>
+</sp>
+<sp who="Bergliod">
+<speaker>Bergliod.</speaker>
+<l>For al den Kierlighed, som os tilsammenbinder &#x2013; &#x2013; &#x2013;</l>
+</sp>
+<sp who="Endre">
+<speaker>Endre.</speaker>
+<l>For alt det Helte Blod, som i din Afkom rinder,</l>
+<l>For al den Ild, som har mit <ptr type="criticalApp" target="EinerT_var57" xml:id="EinerT_var57"/>unge Bryst opt&#x00E6;ndt,</l>
+<l>For dit og f&#x00E6;lles Vel, h&#x00F8;r dog din Endres B&#x00F8;n,</l>
+<l part="I">Tving dette stive Mod &#x2013; &#x2013; &#x2013;</l>
+</sp>
+<sp who="Bergliod">
+<speaker>Bergliod.</speaker>
+<l part="F">Udrust din Siel med Vrede!</l>
+</sp>
+<sp who="Einer">
+<speaker>Einer.</speaker>
+<l part="I"><stage>(Til Bergliod.)</stage> Jeg b&#x00E6;r ey <ptr type="commentary" target="EinerT_comm121" xml:id="EinerT_comm121"/>Niddingskiold.</l>
+<l part="F"><stage>(Til Endre.)</stage> Jeg kan ey <ptr type="commentary" target="EinerT_comm122" xml:id="EinerT_comm122"/>nedrig bede.</l>
+</sp>
+<sp who="Bergliod">
+<speaker>Bergliod.</speaker>
+<l part="I">Fortabt er Bergliod!</l>
+</sp>
+<sp who="Endre">
+<speaker>Endre.</speaker>
+<l part="F">Forloren er din S&#x00F8;n!</l>
+</sp>
+<sp who="Einer">
+<speaker><pb n="46"/>Einer.</speaker>
+<l>I s&#x00F8;nderrive her mit giennemtr&#x00E6;ngte Bryst &#x2013; &#x2013; &#x2013;</l>
+<l>Du til <ptr type="commentary" target="EinerT_comm123" xml:id="EinerT_comm123"/>Formastelse min stolte Siel opr&#x00F8;rer;</l>
+<l>Og du til <ptr type="commentary" target="EinerT_comm124" xml:id="EinerT_comm124"/>Nedrighed mit r&#x00F8;rte Hierte f&#x00F8;rer &#x2013; &#x2013; &#x2013;</l>
+<l>Men bort qvindagtig Frygt, bort farlig Stridelyst.</l>
+<l>Jeg gaaer til Biarke nu, fra ham til Templet hen.</l>
+<l>Og dersom jeg ey meer min Bergliod omfavner,</l>
+<l>Det v&#x00E6;re skal din Tr&#x00F8;st, naar du din Einer savner;</l>
+<l>At han var Kongen troe og altid Landets Ven.</l>
+<l>Kom, elskte S&#x00F8;n, og l&#x00E6;r i Dag, hvor dybt den b&#x00F8;r</l>
+<l>For Thronen b&#x00F8;ye sig, som Landets Tolk skal v&#x00E6;re,</l>
+<l>Kom, l&#x00E6;r dit Folkes N&#x00F8;d for Konger at fremb&#x00E6;re,</l>
+<l>Saa gaaer jeg uden Frygt, og glad for Landet d&#x00F8;er.</l>
+</sp>
+<sp who="Endre">
+<speaker>Endre.</speaker>
+<l>O! hvilken Tapperhed! <ptr type="criticalApp" target="EinerT_var58" xml:id="EinerT_var58"/>Velan jeg f&#x00F8;lge maae:</l>
+<l>Min Siel, bliv fuld af Mod, saa d&#x00F8;er jeg med min Fader.</l>
+</sp>
+<sp who="Bergliod">
+<speaker>Bergliod.</speaker>
+<l>Frels Himmel! frels! I Dag mig Mand og S&#x00F8;n forlader,</l>
+<l>Lad ey Tyrannens Sv&#x00E6;rd til disse Hierter naae.</l>
+</sp>
+<stage>Ende paa tredie Optog.</stage>
+</div>
+</div>
+<div type="act" n="4">
+ <head><pb n="47"/><ref type="contents" target="contents_7" xml:id="chapter_7">Fierde Optog</ref>.</head>
+<stage>Skuepladsen forestiller Choret af St. Clements fordum, nu Tronhiems Dom-Kirke.</stage> 
+<div type="scene" n="1">
+<head>F&#x00D8;RSTE OPTRIN.</head>
+<sp who="Endre">
+<speaker>Endre</speaker>
+<stage>allene.</stage>
+<l>H&#x00F8;ytidelige Sted! hvor hellig Andagt boer!</l>
+<l>Hvor saaret Hierte Tr&#x00F8;st, hvor Haabet samler Styrke,</l>
+<l>Hvor Fyrster selv med B&#x00F8;n en evig Guddom dyrke,</l>
+<l>Og ski&#x00E6;lvende for ham nedl&#x00E6;gge Rigets Roer!</l>
+<l>Gid Harralds stolte Siel i dette Tempel maa</l>
+<l>Opfyldt af hellig Frygt for Verdens Hersker v&#x00E6;re!</l>
+<l>Lad ey hans Haand med Blod saa v&#x00E6;rdigt Sted van&#x00E6;re!</l>
+<l>Lad Torden splitte Svig, lad Troskab Seyer faae.</l>
+</sp>
+</div>
+<div type="scene" n="2">
+<head>ANDET OPTRIN.</head>
+<stage>Sigrid. Endre.</stage>
+<sp who="Sigrid">
+<speaker>Sigrid.</speaker>
+<l>Saa fandt jeg dig dog her, min alt for kiekke Mand?</l>
+<l>Saa kan jeg dig endnu omfavne, f&#x00F8;r du bliver</l>
+<l part="I">Et Offer for dit Mod?</l>
+</sp>
+<sp who="Endre">
+<speaker><pb n="48"/>Endre.</speaker>
+<l part="F">Din Sorg min Siel henriver:</l>
+<l>Jeg n&#x00E6;sten glemmer Mod og Pligt og F&#x00F8;deland.</l>
+<l>I dette Tempel min for f&#x00F8;rste gang du blev;</l>
+<l>Ach! mon og her i Dag det kiere Baand skal briste?</l>
+</sp>
+<sp who="Sigrid">
+<speaker>Sigrid.</speaker>
+<l>Nei, lad din Sigrid ey saa bitter Skiebne friste,</l>
+<l>Hvad blev jeg, naar man dig bort fra mit Hierte rev? &#x2013; &#x2013;</l>
+<l>Men hvad er vel min B&#x00F8;n? hvad kan jeg raade dig?</l>
+<l>Elsk Fred &#x2013; Dog Kongen selv enhver til Krig opbyder &#x2013;</l>
+<l>Elsk Krig &#x2013; Dog nei, vort Folk din Faders R&#x00F8;st adlyder &#x2013;</l>
+<l>Jeg veed ey hvad du skal &#x2013; Men du skal elske mig,</l>
+<l>Men d&#x00E6;mpe denne Storm, men stifte varig Fred,</l>
+<l>Men aldrig rykkes bort fra den, som dig omfavner.</l>
+</sp>
+<sp who="Endre">
+<speaker>Endre.</speaker>
+<l>Mit Hierte smelter hen, og Sielen Styrke savner;</l>
+<l>O! Sigrid! spar mig dog, bort med din Kierlighed!</l>
+<l>Snart gielder det om Raad, om Mod og beste Valg;</l>
+<l>Gid jeg maa glemme dig og d&#x00E6;mpe disse Luer!</l>
+<l>Og Si&#x00E6;len v&#x00E6;bne sig mod Vredens Storm, som truer!</l>
+<l>Siig, <ptr type="criticalApp" target="EinerT_var59" xml:id="EinerT_var59"/>hvis du elsker mig, siig, hvad her gi&#x00F8;res skal &#x2013; &#x2013;</l>
+<l>Min Fader raaber Fred; &#x2013; Fred vil mit F&#x00F8;deland &#x2013; &#x2013;</l>
+<l>Min Konge byder Krig; &#x2013; Krig &#x00F8;nsker og mit Hierte &#x2013; &#x2013;</l>
+</sp>
+<sp who="Sigrid">
+<speaker>Sigrid.</speaker>
+<l>Men ulyksaligt Sv&#x00E6;rd, som Folk og Land fort&#x00E6;rte,</l>
+<l>Skal da ber&#x00F8;ve mig, min Fryd, mit Liv, min Mand.</l>
+</sp>
+<sp who="Endre">
+<speaker>Endre.</speaker>
+<l>Men ski&#x00E6;lv for Harralds Sv&#x00E6;rd, saasnart vi n&#x00E6;vne Fred.</l>
+</sp>
+<sp who="Sigrid">
+<speaker><pb n="49"/>Sigrid.</speaker>
+<l>Nei Kongen elsker mig, min B&#x00F8;n skal Klippen h&#x00F8;re,</l>
+<l>Og disse Sukke vist Haardraades Hierte r&#x00F8;re,</l>
+<l>Han &#x00E6;re skal dit Mod og Sigrids Kierlighed.</l>
+<l>Vort svage Ki&#x00F8;n har Ild, og den, som n&#x00E6;res her</l>
+<l>I dette &#x00F8;mme Bryst, skal ey forgi&#x00E6;ves br&#x00E6;nde,</l>
+<l>I Dag du hos din Brud skal Tapperhed erkiende:</l>
+<l>Hvo vil ey vove Blod for den man haver kier.</l>
+<l>Du mine Vaaben seer &#x2013; Min Endre &#x2013; dette Bryst</l>
+<l>Mod Kongens dragne Sv&#x00E6;rd din Varet&#x00E6;gt skal v&#x00E6;re;</l>
+<l>At giennembore det, besmitter Heltens &#x00C6;re &#x2013; &#x2013;</l>
+<l>Det er min Tilflugt, Skiold, og Raad, og Haab, og Tr&#x00F8;st.</l>
+</sp>
+<sp who="Endre">
+<speaker>Endre.</speaker>
+<l>Pligt &#x2013; &#x00C6;re &#x2013; Kierlighed! I s&#x00F8;nderrive mig!</l>
+<l>Min Konge &#x2013; Norges Vel &#x2013; Nye Seyer og min Fader &#x2013;</l>
+<l>Jeg &#x00F8;nsker &#x2013; gruer for &#x2013; jeg elsker &#x2013; og jeg hader &#x2013;</l>
+<l part="I">Der er han &#x2013; Himmel &#x2013;</l>
+</sp>
+<sp who="Sigrid">
+<speaker>Sigrid.</speaker> 
+<stage> som tr&#x00E6;der mellem Kongen og Endre.</stage>
+<l part="F">Bliv, og lad mig d&#x00F8;e for dig.</l>
+</sp>
+</div>
+<div type="scene" n="3">
+<head>TREDIE OPTRIN.</head>
+<stage>Harrald, geleidet av Dronningen, fire Betienter, de forrige.</stage>
+<sp who="Harrald">
+<speaker>Harrald.</speaker>
+<l>Du d&#x00F8;e for ham &#x2013; hvordan? hvo vil saa helligt Sted</l>
+<l>Med Blod besmitte? Nei &#x2013; Man mig kun ilde kiender;</l>
+<l>Jeg vilde <ptr type="commentary" target="EinerT_comm125" xml:id="EinerT_comm125"/>bande selv den R&#x00F8;vers grumme H&#x00E6;nder,</l>
+<l>Som trakte her sit Sv&#x00E6;rd &#x2013; Kun Fred og Kierlighed,</l>
+<l><pb n="50"/>Pagt, Forbund, Venskab, Eed, min Sigrid, herske b&#x00F8;r</l>
+<l>Her, hvor den Evige sit Tempel selv opfylder,</l>
+<l>Hvor Kongen og hans Tr&#x00E6;l det samme Himlen skylder,</l>
+<l>Her alting helligt er &#x2013; din Frygt mig Uret gi&#x00F8;r.</l>
+<l>Jeg Eders Fader har til dette Sted bestemt,</l>
+<l>For <ptr type="criticalApp" target="EinerT_var60" xml:id="EinerT_var60"/>end engang som Ven i Fred med ham at tale,</l>
+<l>Og Undersaattens Pligt, som Venskabs Pligt, <ptr type="commentary" target="EinerT_comm126" xml:id="EinerT_comm126"/>afmale;</l>
+<l>Naar han samtykker da, er all vor Tr&#x00E6;tte glemt.</l>
+<l>Saa vil vi sv&#x00E6;rge her en evig Venskabs Pagt:</l>
+<l>Og Himlen h&#x00F8;re skal &#x2013; V&#x00E6; den, som Eeden bryder.</l>
+</sp>
+<sp who="Sigrid">
+<speaker>Sigrid.</speaker>
+<l>V&#x00E6; den, som Kongen ey med Nidkierhed adlyder &#x2013; &#x2013;</l>
+</sp>
+<sp who="Harrald">
+<speaker>Harrald.</speaker>
+<l>Nei, n&#x00E6;vn ey Lydighed, her har jeg ingen Magt,</l>
+<l>Her Eders Ret og min er stedse lige stor,</l>
+<l>Her kn&#x00E6;ler jeg og du for samme Herres Throne &#x2013; &#x2013;</l>
+<l>Med Venskab Einer skal i Dag mit Had forsone,</l>
+<l>Og sv&#x00E6;rge ved den Gud, han kiender, &#x00E6;rer, troer &#x2013; &#x2013;</l>
+<l>Jeg veed, han der har giemt en kostbar Helligdom,</l>
+<l>En Helt, som han; og jeg, og alle Nordm&#x00E6;nd agte;</l>
+<l>Min Broder hviler der &#x2013; Selv Einer hid ham bragte,</l>
+<l>Og sidste Pligt mod ham han nidkier efterkom;</l>
+<l>Min Broders <ptr type="criticalApp" target="EinerT_var61" xml:id="EinerT_var61"/>Liig skal frem og tale Kongers Sag:</l>
+<l>Han fik sit Banesaar af Landets egne S&#x00F8;nner;</l>
+<l>Paa savnet Dyd man nu med <ptr type="commentary" target="EinerT_comm127" xml:id="EinerT_comm127"/>sildig Anger ski&#x00F8;nner;</l>
+<l>Din Fader var ham troe, og han skal selv i Dag</l>
+<l>Her over <ptr type="criticalApp" target="EinerT_var62" xml:id="EinerT_var62"/>Olufs Skrin med Harrald Haand i Haand</l>
+<l>Fornye Troeskabs Eed. Saa vil jeg mig bev&#x00E6;bne</l>
+<l><stage>(afsides)</stage> For ey at friste selv i Dag min Broders Skiebne</l>
+</sp>
+<sp who="Endre">
+<speaker>Endre.</speaker>
+<l>Hvor helligt blive vil! hvor evigt dette Baand!</l>
+</sp>
+<sp who="Harrald">
+<speaker><pb n="51"/>Harrald.</speaker>
+<stage>til Betienterne.</stage>
+<l>Bring frem vor d&#x00F8;de Helt! Grav! viis os nu din Skat.</l>
+</sp>
+<stage>De aabne tvende D&#x00F8;rre dybest ind paa Skuepladsen, bringe en Kiste frem, dog saa den bliver staaende temmeligt dybt inde, imidlertid siger</stage>
+<sp who="Elisabeth">
+<speaker>Elisabeth.</speaker>
+<l>Jeg ved min Faders Hof ham saae i Garderige,</l>
+<l>Ber&#x00F8;mt af Hellighed og tapper uden lige,</l>
+<l>Men af sit eget Folk og Lykkens Gunst forladt &#x2013; &#x2013;</l>
+<l>Nu skal jeg see ham her og l&#x00E6;re <ptr type="criticalApp" target="EinerT_var63" xml:id="EinerT_var63"/>D&#x00F8;dens Magt,</l>
+<l>Som Throner kaster om og stolte Konger f&#x00E6;lder &#x2013; &#x2013;</l>
+<l>Men naar det dig engang, min elskte Harrald, gielder,</l>
+<l>Da gid din Dronning var <ptr type="criticalApp" target="EinerT_var64" xml:id="EinerT_var64"/>f&#x00F8;r dig i Graven lagt!</l>
+</sp>
+<sp who="Harrald">
+<speaker>Harrald.</speaker>
+<l>Lad fare denne Sorg &#x2013; &#x2013; Jeg l&#x00E6;nge &#x00F8;nsket har</l>
+<l>Min Broder her at see, hans Levninger jeg skylder</l>
+<l>Den sidste &#x00C6;res Pligt, som jeg i Dag opfylder,</l>
+<l>Han f&#x00F8;r min Ven, Regent, Anf&#x00F8;rer, Broder var.</l>
+<stage>(Imidlertid er Kisten kommen frem og Laaget taget af)</stage>
+<l>Her seer jeg ham &#x2013; Min Gud &#x2013; hans Kinders Farve r&#x00F8;d &#x2013;</l>
+<l>Hans L&#x00E6;ber smilende, hans Legem ufort&#x00E6;ret &#x2013; &#x2013;</l>
+<l>Endog for Ormene har Helten hellig v&#x00E6;ret &#x2013; &#x2013;</l>
+<l>Du sover &#x2013; ach! &#x2013; hvor s&#x00F8;dt &#x2013; Min Broder! &#x2013; er du d&#x00F8;d?</l>
+<l>O! gid du h&#x00F8;rte den, som her velsigner dig &#x2013;</l>
+<l>Du faldt ved Stikkelstad &#x2013; jeg saaret maatte vige &#x2013; &#x2013;</l>
+<l>Nu faaer du mit Farvel &#x2013; nu &#x2013; f&#x00F8;rst i Gravens Rige</l>
+<l>Jeg dig omfavne kan, du aldrig mere mig.</l>
+<l>Ulignelige Helt! meer kiek end lykkelig,</l>
+<l>Af eget Folk forskudt, af elskte Nordm&#x00E6;nd slagen!</l>
+<l>For Konger, Land og Folk hans D&#x00F8;d har lagt for Dagen,</l>
+<l>At man b&#x00F8;r d&#x00E6;mpe Had og skye indbyrdes Krig.</l>
+</sp>
+<sp who="Endre">
+<speaker><pb n="52"/>Endre.</speaker>
+<l>Hvor stor er du i <ptr type="criticalApp" target="EinerT_var65" xml:id="EinerT_var65"/>Dag, o Konge! Fredens Sprog</l>
+<l>Paa Heltens L&#x00E6;ber fik nye Ski&#x00F8;nhed, Kraft og Styrke.</l>
+</sp>
+<sp who="Elisabeth">
+<speaker>Elisabeth.</speaker>
+<l>Vi vinde Folk med Fred; med Fred vi Himlen dyrke.</l>
+</sp>
+<sp who="Harrald">
+<speaker>Harrald.</speaker>
+<l>Og Fred skal Landet faae; men f&#x00F8;rst det Danske Tog.</l>
+<l>Du tappre, unge Helt, kom her og sv&#x00E6;rg en Eed,</l>
+<l>At du din Konge vil og Landet trofast v&#x00E6;re,</l>
+<l>Og Navn af Jarl du skal fra denne Time b&#x00E6;re;</l>
+<l>Bliv Folkets Yndest v&#x00E6;rd og Kongens Kierlighed.</l>
+</sp>
+<sp who="Endre">
+<speaker>Endre.</speaker>
+<l>Ved dette kiere St&#x00F8;v og ved Kong Olufs Sv&#x00E6;rd,</l>
+<l>Ved alt hvad helligt er, ja ved den Gud vi dyrke,</l>
+<l>Saa l&#x00E6;nge Staal i Sv&#x00E6;rd og i min Arm er Styrke,</l>
+<l>Jeg Harrald f&#x00F8;lge skal i Fred og <ptr type="commentary" target="EinerT_comm128" xml:id="EinerT_comm128"/>Herref&#x00E6;rd.</l>
+<l>F&#x00F8;r Sl&#x00E6;tte, Field og Dal skal vendes op og ned,</l>
+<l>F&#x00F8;r Bi&#x00F8;rnen blive from, f&#x00F8;r vore Klipper smelte,</l>
+<l>F&#x00F8;r Helten savne Mod, og Norden savne Helte,</l>
+<l part="I">F&#x00F8;r jeg undfalder dig &#x2013; &#x2013;</l>
+</sp>
+<sp who="Harrald">
+<speaker>Harrald.</speaker>
+<l part="F">Det var en Nordmands Eed,</l>
+<l>Og nu er Endre Jarl; Men gaae, din Fader siig:</l>
+<l>Om Harrald hades b&#x00F8;r, naar han med Venne-Gaver</l>
+<l>Forbundet har hans S&#x00F8;n, om Nordm&#x00E6;nd ere Slaver,</l>
+<l>Om Kongen er Tyran, fordi han byder Krig.</l>
+<l>Din Fader <ptr type="commentary" target="EinerT_comm129" xml:id="EinerT_comm129"/>t&#x00F8;ver, gaae, og siig jeg venter her.</l>
+</sp>
+<sp who="Sigrid">
+<speaker>Sigrid.</speaker>
+<stage>i det Endre gaaer midt udaf Skuepladsen.</stage>
+<l>Siig: Harrald er vor Ven, beed dog din stolte Fader &#x2013; &#x2013;</l>
+</sp>
+<sp who="Harrald">
+<speaker><pb n="53"/>Harrald</speaker>
+<stage>tager Olufs Sv&#x00E6;rd op.</stage>
+<l>Ey Sv&#x00E6;rd og Mod er nok, naar Lykken os forlader!</l>
+<l>Den st&#x00F8;rste Helt omsunst da sine Vaaben b&#x00E6;r;</l>
+<l>Trol&#x00F8;se Sv&#x00E6;rd! som ey gav en Opr&#x00F8;rer L&#x00F8;n,</l>
+</sp>
+</div>
+<div type="scene" n="4">
+<head>FIERDE OPTRIN.</head>
+<stage>De forrige: Einer som kommer fra Siden uden at have m&#x00F8;dt sin S&#x00F8;n. Dronningen og Sigrid staae for Siden af St. Olufs Liig, og med Forundring betragte det. Kongen staaer ved den ene Ende af Kisten, og vender Ryggen til den Side hvorfra Einer kommer ind; men han kommer igiennem den forreste Coulisse, og h&#x00F8;rer f&#x00F8;lgende:</stage>
+<sp who="Harrald">
+<speaker>Harrald.</speaker>
+<l>Og lod af stolte Barm gienstridig Blod udrinde!</l>
+</sp>
+<sp who="Einer">
+<speaker>Einer,</speaker>
+<stage>afsides.</stage>
+<l>Hvordan! jeg Kongen her med draget Sv&#x00E6;rd skal finde &#x2013; &#x2013;</l>
+<l>En D&#x00F8;d &#x2013; Ach! den Tyran, han myrdet har min S&#x00F8;n:</l>
+<l>Naturen taler &#x2013; ja min Endre h&#x00E6;vnes b&#x00F8;r.</l>
+<stage>(Han tr&#x00E6;kker sit Sv&#x00E6;rd, og l&#x00F8;ber mod Kongen.)</stage>
+<l>Kom, strid, Blodt&#x00F8;rstige! du eller jeg skal falde,</l>
+<l>Men Norge mig sin Ven, dig sin Tyran skal kalde.</l>
+<l>L&#x00E6;r, Morder, l&#x00E6;r, at ey en Helt uh&#x00E6;vnet d&#x00F8;er.</l>
+</sp>
+<sp who="Sigrid">
+<speaker>Sigrid</speaker>
+<stage>ved Einers Kn&#x00E6;.</stage>
+<l part="I">Min Fader jeg forgaaer.</l>
+</sp>
+<sp who="Elisabeth">
+<speaker>Elisabeth.</speaker>
+<stage>ved Harralds F&#x00F8;dder seende til Einer.</stage>
+<l part="F">Spar Kongen, spar min Mand</l>
+</sp>
+<sp who="Harrald">
+<speaker><pb n="54"/>Harrald</speaker>
+<stage>til Elisabeth.</stage>
+<l>Bort! bort, for slige Hug forstaaer jeg l&#x00E6;t at b&#x00F8;de.</l>
+<l><stage>(Til Einer)</stage> Saa kiender jeg dig da &#x2013; Dit Hierte skulde bl&#x00F8;de</l>
+<l>For mine F&#x00F8;dder her, <ptr type="criticalApp" target="EinerT_var66" xml:id="EinerT_var66"/>var jeg, som du, i Stand</l>
+<l>At glemme, hvor jeg stod, paa et saa helligt Sted.</l>
+</sp>
+<sp who="Einer">
+<speaker>Einer.</speaker>
+<l>Du &#x00E6;rer dette Sted, Tyran! hvor Blodet taler</l>
+<l>Til Himlen, til dit Folk, og all din Skam afmaler?</l>
+<l>Du t&#x00F8;ver, st&#x00F8;d kun til, fuldend din Grusomhed.</l>
+</sp>
+</div>
+<div type="scene" n="5">
+<head>FEMTE OPTRIN.</head>
+<stage>Endre, de forrige.</stage>
+<sp who="Endre">
+<speaker>Endre.</speaker>
+<stage>l&#x00F8;ber til, og kaster sig <ptr type="criticalApp" target="EinerT_var67" xml:id="EinerT_var67"/>for Kongens F&#x00F8;dder.</stage>
+<l>Hvad seer jeg? Sv&#x00E6;rd mod Sv&#x00E6;rd, spar dog min Fader, spar.</l>
+</sp>
+<sp who="Einer">
+<speaker>Einer,</speaker>
+<stage>Sv&#x00E6;rdet falder af hans Haand.</stage>
+<l>Han lever, hvilken Dr&#x00F8;m, saa har jeg mig bedraget!</l>
+<stage>(Han gaaer hen til St. Olufs Kiste.)</stage>
+</sp>
+<sp who="Endre">
+<speaker>Endre.</speaker>
+<l>Hvad har opirret dig? hvad <ptr type="commentary" target="EinerT_comm130" xml:id="EinerT_comm130"/>Br&#x00F8;de foraarsaget,</l>
+<l>At ey i Templet meer, en Helt dig hellig var.</l>
+<l>Tilgiv i hvad det er, h&#x00F8;r hele Rigets B&#x00F8;n!</l>
+<l>Lad Einer v&#x00E6;re stolt; de Gamles T&#x00E6;nkemaade</l>
+<l>Er uforanderlig. <ptr type="commentary" target="EinerT_comm131" xml:id="EinerT_comm131"/>Beski&#x00E6;m du ham med Naade,</l>
+<l>Saa er din Seyer stor, h&#x00F8;r og tilgiv en S&#x00F8;n.</l>
+</sp>
+<sp who="Einer">
+<speaker>Einer</speaker>
+<stage>bev&#x00E6;get til Kongen.</stage>
+<l part="I">Min Konge! &#x2013; &#x2013; &#x2013;</l>
+</sp>
+<sp who="Harrald">
+<speaker>Harrald.</speaker>
+<l part="M">Tie og ski&#x00E6;lv!</l>
+</sp>
+</div>
+<div type="scene" n="6">
+<head><pb n="55"/>SIETTE OPTRIN.</head>
+<stage>Bergliod, de forrige.</stage>
+<sp who="Bergliod">
+<speaker>Bergliod.</speaker>
+<l part="F">Kom Mand og S&#x00F8;n og strid!</l>
+<stage>(Til Endre.)</stage>
+<l part="I">Hvad! &#x2013; seer jeg dig paa Kn&#x00E6; &#x2013; &#x2013;</l>
+</sp>
+<sp who="Einer">
+<speaker>Einer</speaker>
+<stage>til Bergliod.</stage>
+<l part="F">Holt inde! d&#x00E6;mp din Vrede!</l>
+</sp>
+<sp who="Bergliod">
+<speaker>Bergliod.</speaker>
+<l>Skal Tambeskielvers S&#x00F8;n til f&#x00E6;lles Skiendsel bede?</l>
+<l>Staae op, anf&#x00F8;r din H&#x00E6;r, til H&#x00E6;vnen er det Tid!</l>
+<l>Mod Templet Arne gaaer med alle Kongens M&#x00E6;nd.</l>
+<stage>(Til Einer.)</stage>
+<l>Dit Hoved gielder det. L&#x00E6;r Morderen at blegne!</l>
+<l>L&#x00E6;r ham, hvordan han b&#x00F8;r et tappert Folk <ptr type="commentary" target="EinerT_comm132" xml:id="EinerT_comm132"/>begegne!</l>
+<stage>(Til Harrald.)</stage>
+<l>Kom, strid, og d&#x00F8;e Tyran og Kiempers Mod erkiend!</l>
+</sp>
+<sp who="Harrald">
+<speaker>Harrald.</speaker>
+<l>Viid, jeg er alt for stolt for her at h&#x00E6;vne mig;</l>
+<l>En Qvindes Raserie veed Helten at foragte.</l>
+</sp>
+<sp who="Einer">
+<speaker>Einer.</speaker>
+<l part="I">O! hvilket Skrit!</l>
+</sp>
+<sp who="Endre">
+<speaker>Endre.</speaker>
+<l part="M">Undskyld, o! Konge!</l>
+</sp>
+<sp who="Bergliod">
+<speaker>Bergliod.</speaker>
+<l part="F">Tie, Forsagte!</l>
+</sp>
+</div>
+<div type="scene" n="7">
+<head><pb n="56"/>SYVENDE OPTRIN.</head>
+<stage>Harrald, Elisabeth, Einer, Endre, Bergliod, Sigrid, Arne bev&#x00E6;bnet tager Kongen afsides.</stage>
+<sp who="Arne">
+<speaker>Arne.</speaker>
+<l>Min Konge! h&#x00F8;r, hvorvidt man t&#x00F8;r forn&#x00E6;rme dig;</l>
+<l>Viid Einer har mod Lov og mod din Konge-Magt</l>
+<l>Brudt F&#x00E6;ngslet; givet l&#x00F8;s den, som paa dine Vegne</l>
+<l>Af mig var grebet &#x2013; kom &#x2013; For Sv&#x00E6;rdet Einer segne!</l>
+<l>Hug snart. Jeg har din H&#x00E6;r til Templets D&#x00F8;rre bragt.</l>
+</sp>
+<sp who="Harrald">
+<speaker>Harrald.</speaker>
+<l part="I"><stage>(Til Arne.)</stage> Vanhelligt er dit Raad.</l>
+<l part="F"><stage>(Til Einer.)</stage> H&#x00F8;r Einer, tie og h&#x00F8;r:</l>
+<l>Din Konge tale vil; men her skal du ey svare;</l>
+<l><ptr type="criticalApp" target="EinerT_var68" xml:id="EinerT_var68"/>Du som ey Helligdom, ey Lov, ey mig vil spare,</l>
+<l>Du for din Dommer snart og Konge m&#x00F8;de b&#x00F8;r.</l>
+<l>Jeg hid som Einers Ven i Fred til Templet kom;</l>
+<l>Din S&#x00F8;n skal vidne selv, at Kongens Haand var f&#x00E6;rdig</l>
+<l>Til evig Venskabs Pagt; du blev min Gunst uv&#x00E6;rdig;</l>
+<l>Nu veed du Landets Lov, l&#x00E6;s der, der staaer din Dom.</l>
+<l>Mod Kongen, mod din Ven jeg seer dig tr&#x00E6;kke Sv&#x00E6;rd,</l>
+<l>Du raser her til Trods for alt, hvad helligt kaldes;</l>
+<l>Et F&#x00E6;ngsel brydes op, og Vagten overfaldes,</l>
+<l>Og Vold mod Kongens M&#x00E6;nd, du <ptr type="criticalApp" target="EinerT_var69" xml:id="EinerT_var69"/>veed, er D&#x00F8;den v&#x00E6;rd.</l>
+<l>M&#x00F8;d snart i mit Pallads; der d&#x00F8;mmes skal din Sag.</l>
+<l>Du efter Loven d&#x00F8;er, troe dog i det du falder,</l>
+<l>Jeg dig endda min Ven og kiekke Landsmand kalder;</l>
+<l>Men Himlens Ret og min jeg h&#x00E6;vne b&#x00F8;r i Dag.</l>
+<l><pb n="57"/>Min Broders kiere St&#x00F8;v jeg vilde viist dig f&#x00F8;r,</l>
+<l>Erindret dig hans Fald og r&#x00F8;rt dit grumme Hierte;</l>
+<l>Men du mig f&#x00F8;rst i Dag dig ret at kiende l&#x00E6;rte,</l>
+<l>Hvad Nordm&#x00E6;nd f&#x00F8;r mod ham, du her fors&#x00F8;ge t&#x00F8;r</l>
+<l>Mod mig, men Himlen har for Harrald st&#x00F8;rre Gunst;</l>
+<l>Du til min Broder snart i Graven skal nedstige;</l>
+<l>Siig ham: Jeg byder selv og vil for ingen vige!</l>
+<l>Siig: Harrald elsker Ret, og b&#x00E6;r ey Sv&#x00E6;rd omsunst;</l>
+<l>Siig: Trodsig Undersaat for Kongen ski&#x00E6;lve maa;</l>
+<l>Siig: Han har Lyst til Krig og veed at overvinde;</l>
+<l>Siig: Himlen frygter han, men aldrig v&#x00E6;bnet Fiende;</l>
+<l>Siig: Han med <ptr type="commentary" target="EinerT_comm133" xml:id="EinerT_comm133"/>Herreskiold mod Dannemark skal gaae.</l>
+</sp>
+<sp who="Einer">
+<speaker>Einer</speaker>
+<stage>meget bev&#x00E6;get.</stage>
+<l part="I">Min Konge! <ptr type="commentary" target="EinerT_comm134" xml:id="EinerT_comm134"/>t&#x00F8;v og h&#x00F8;r.</l>
+</sp>
+<sp who="Harrald">
+<speaker>Harrald.</speaker>
+<l part="F">Kom Dronning! Arne kom!</l>
+</sp>
+<sp who="Elisabeth">
+<speaker>Elisabeth.</speaker>
+<l>T&#x00F8;v dog, maaskee han vil i Dag om Naade bede.</l>
+</sp>
+<sp who="Harrald">
+<speaker>Harrald.</speaker>
+<l>Nei, Ret skal Einer skee, <ptr type="commentary" target="EinerT_comm135" xml:id="EinerT_comm135"/>opir mig ey til Vrede.</l>
+<stage>(Til Einer.)</stage>
+<l>M&#x00F8;d for min Throne snart, der venter dig din Dom.</l>
+</sp>
+<stage>(Harrald og Elisabeth tilligemed Arne gaaer.)</stage>
+</div>
+<div type="scene">
+<head><pb n="58"/>OTTENDE OPTRIN.</head>
+<stage>Einer, Bergliod, Endre, Sigrid.</stage>
+<sp who="Einer">
+<speaker>Einer.</speaker>
+<l>Hvor er jeg? hvilken Skam! Gud! Tempel! Konge! Ven!</l>
+<l>Udruster eder snart til H&#x00E6;vn mod fr&#x00E6;kke Laster!</l>
+<l>F&#x00F8;r jeg til flere Skrit mod Dyden mig formaster. &#x2013; &#x2013;</l>
+<l>Siig Endre, kiender du din Fader her igien?</l>
+<l>Han er ey meer den Mand, som taler Folkets Sag;</l>
+<l>Lastv&#x00E6;rdig selv og d&#x00F8;mt til Straf og D&#x00F8;d han f&#x00F8;res,</l>
+<l>Jeg &#x00E6;ret var for Dyd, nu skal min Ski&#x00E6;ndsel h&#x00F8;res,</l>
+<l><ptr type="commentary" target="EinerT_comm136" xml:id="EinerT_comm136"/>Graaeh&#x00E6;rdet uden Skam, van&#x00E6;ret sidste Dag.</l>
+<l>F&#x00F8;r var jeg Lovens Tolk, nu f&#x00E6;lder den min Dom;</l>
+<l>F&#x00F8;r Mod og Dyd jeg dig og Troskab kunde l&#x00E6;re;</l>
+<l>Nu &#x2013; glem din Faders Navn, det gi&#x00F8;r dig kun Van&#x00E6;re,</l>
+<l>Du b&#x00F8;r foragte mig &#x2013; tal &#x2013; straf mig Endre &#x2013; kom &#x2013;</l>
+<l>Bebreyd mig al min Skam &#x2013; &#x2013; dog &#x2013; du b&#x00F8;r ynke mig,</l>
+<l>Jeg kom, fandt Kongen vred med Sv&#x00E6;rd og denne D&#x00F8;de,</l>
+<l>Og vis Formodning om, hvad her os skulde m&#x00F8;de,</l>
+<l>Jeg saae, blev fuld af Ild og vilde h&#x00E6;vne dig. &#x2013; &#x2013;</l>
+<stage>(Han seer til Olufs Kiste.)</stage>
+<l><ptr type="criticalApp" target="EinerT_var70" xml:id="EinerT_var70"/>Mon jeg for dette <ptr type="criticalApp" target="EinerT_var71" xml:id="EinerT_var71"/>St&#x00F8;v, saa megen Omsorg <ptr type="criticalApp" target="EinerT_var72" xml:id="EinerT_var72"/>bar,</l>
+<l>At det mig skulde her til gruesom Vold forlede?</l>
+<l>Dog hvil Retf&#x00E6;rdig du &#x2013; Jeg burde qvalt min Vrede,</l>
+<l>Og h&#x00F8;rt og unders&#x00F8;gt &#x2013; &#x2013; men ach &#x2013; &#x2013; jeg Fader var.</l>
+</sp>
+<sp who="Endre">
+<speaker>Endre.</speaker>
+<l>Fra dette &#x00D8;ieblik jeg st&#x00F8;rre kiender dig,</l>
+<l>For Harralds Throne snart du skal din Sag forklare.</l>
+</sp>
+<sp who="Bergliod">
+<speaker>Bergliod.</speaker>
+<l>Saa skal endnu min Mand sig give blot for Fare?</l>
+<l>I Spidsen af sin H&#x00E6;r han b&#x00F8;r forklare sig.</l>
+</sp>
+<sp who="Einer">
+<speaker><pb n="59"/>Einer.</speaker>
+<l>Hvorhen, min Bergliod, med dit forvovne Mod?</l>
+<l>Dit Raad er altid grumt, og dristig er din Vrede:</l>
+<l>Jeg veed, du elsker mig; Men vil du da forlede</l>
+<l>Din Mand til st&#x00F8;rre Vold? Jeg mig bedrage lod</l>
+<l>Af din Beretning f&#x00F8;r: Du h&#x00F8;rer Kongen har</l>
+<l>Selv ladet Biarke fast i Stadens F&#x00E6;ngsel s&#x00E6;tte:</l>
+<l>Siig: Hvormed jeg en Skam, som denne, skal udslette;</l>
+<l>Og l&#x00E6;r: At Qvinders <ptr type="criticalApp" target="EinerT_var73" xml:id="EinerT_var73"/>Raad i Staten farligt var.</l>
+<l>Elsk mig, begr&#x00E6;d min Dyd; det er alt hvad du b&#x00F8;r.</l>
+<stage>(Til Endre.)</stage>
+<l>Du min Gienstridighed med Troskab b&#x00F8;r forsone</l>
+<l>Hos Kongen, hos min Ven &#x2013; Ja vaag for Harralds Throne,</l>
+<l>Og siig til Tr&#x00F8;nderne, at Einer skyldig d&#x00F8;er &#x2013; &#x2013;</l>
+<l>Nei, siig &#x2013; jeg veed ey hvad &#x2013; til dette kiere Folk &#x2013;</l>
+<l>Undskyld mig, at man dog ey skal min Aske hade;</l>
+<l>Hvad Qval for denne Siel &#x2013; Jeg Norge maa forlade</l>
+<l>Van&#x00E6;ret &#x2013; kiere <ptr type="criticalApp" target="EinerT_var74" xml:id="EinerT_var74"/>S&#x00F8;n v&#x00E6;r du din Faders Tolk.</l>
+<l>Forklar <ptr type="criticalApp" target="EinerT_var75" xml:id="EinerT_var75"/>min bittre Harm og siig alt hvad du kan,</l>
+<l>Siig: Jeg af Had mod Vold blev bragt til Vold at &#x00F8;ve;</l>
+<l>Siig: Du var Aarsag &#x2013; dog &#x2013; jeg b&#x00F8;r ey dig bedr&#x00F8;ve &#x2013;</l>
+<l><ptr type="criticalApp" target="EinerT_var76" xml:id="EinerT_var76"/>Siig kun: Mit sidste Suk var for mit F&#x00F8;deland.</l>
+<l>Gaae, vaag, og tal, og strid med Ild og Nidkierhed,</l>
+<l>Jeg Folket nu min S&#x00F8;n, betroer i dine Arme,</l>
+<l>Gid denne Lue maa dit kiekke Bryst opvarme!</l>
+<l>Arv til dit F&#x00F8;deland all Einers Kierlighed.</l>
+<l>Ja du, mit Haab, som skal forplante dette Navn,</l>
+<l>Jeg dig besv&#x00E6;r ved Gud, ved disse kiere Skygger,</l>
+<l>Hvor Himlens &#x00C6;re boer, hvor D&#x00F8;delighed bygger</l>
+<l>En Tilflugt for sit St&#x00F8;v, arbeid til Landets Gavn.</l>
+<l>Bliv kiek, som denne Helt, bliv mere lykkelig.</l>
+<l>Bliv du, hvad Einer var, men viid, at d&#x00F8;e med &#x00C6;re,</l>
+<l><pb n="60"/>Og dersom Lyst til Fred du kan din Konge l&#x00E6;re,</l>
+<l>Fra Graven skal mit St&#x00F8;v, min S&#x00F8;n, velsigne dig.</l>
+<l>Hvi blev det ey min Deel at falde ved et Spyd?</l>
+<l>Hvi l&#x00E6;rte jeg i Dag min Pligt at overtr&#x00E6;de?</l>
+<l>Hvi har jeg i min D&#x00F8;d ey Helters stolte Gl&#x00E6;de,</l>
+<l>At bringe til min Grav en ubesmittet Dyd?</l>
+</sp>
+<sp who="Endre">
+<speaker>Endre.</speaker>
+<l>Din Dyd dig <ptr type="criticalApp" target="EinerT_var77" xml:id="EinerT_var77"/>stolt og vred mod Kongen giorde f&#x00F8;r;</l>
+<l>Men det du kalder Last, dig skal retf&#x00E6;rdiggi&#x00F8;re:</l>
+<l>Hvor glad vil Harrald ey sin Vens Undskyldning h&#x00F8;re.</l>
+</sp>
+<sp who="Einer">
+<speaker>Einer.</speaker>
+<l>Nei, at tilstaae sin Feyl, er hvad en Skyldig b&#x00F8;r:</l>
+<l>Lad Kierlighed til dig og Had mod Arnes Vold</l>
+<l>End have v&#x00E6;ret Grund til det, som Kongen laster;</l>
+<l>Men viid, at <ptr type="commentary" target="EinerT_comm137" xml:id="EinerT_comm137"/>sminke Feyl din Faders Siel forkaster:</l>
+<l>Undskyldning er, min S&#x00F8;n, en svag Forr&#x00E6;ders Skiold.</l>
+<l>Jeg streed saa tidt for Ret, og talte Lovens Sag &#x2013; &#x2013;</l>
+<l>Og jeg &#x2013; jeg skulde mig fra Lovens Dom unddrage?</l>
+<l>Nei <ptr type="commentary" target="EinerT_comm138" xml:id="EinerT_comm138"/>kommer, hver som har mod Einer mindste Klage,</l>
+<l>Kom Konge, Folk og Lov, og <ptr type="commentary" target="EinerT_comm139" xml:id="EinerT_comm139"/>d&#x00F8;mmer mig i Dag.</l>
+<l>Ja kiere Landsmand kom; men bliv ey svag og &#x00F8;m,</l>
+<l>T&#x00E6;nk ey du seer i mig din gamle troe Velgi&#x00F8;rer,</l>
+<l>Forglem din Klages Tolk, glem Tr&#x00F8;ndernes Anf&#x00F8;rer;</l>
+<l>Men t&#x00E6;nk paa Landets Lov, og min Misgierning d&#x00F8;m.</l>
+<l>Kom Hagens Datter, kom, omfavn endnu din Mand!</l>
+<l>Tag mit Farvel, min Tak, mit Suk, mit hele Hierte!</l>
+<l>S&#x00F8;rg for min tabte Dyd, tag Deel i denne Smerte;</l>
+<l>Lyd Kongen, f&#x00F8;lg min S&#x00F8;n, og elsk mit F&#x00F8;deland.</l>
+<l>Ja S&#x00F8;n og Datter, kom; for sidste Gang jeg maae</l>
+<l>Ved Faderlige <ptr type="criticalApp" target="EinerT_var78" xml:id="EinerT_var78"/>Bryst min Eftersl&#x00E6;gt velsigne;</l>
+<l>I Krig du skal, min S&#x00F8;n, ved Buen Einer ligne,</l>
+<l>Ved Dyd du skal i Fred din Fader overgaae.</l>
+<l><pb n="61"/>Elsk, unge ski&#x00F8;nne, du, bestandig elsk min S&#x00F8;n,</l>
+<l>Og raad ham kun til Fred &#x2013; &#x2013; Jeg Eder da forlader &#x2013; &#x2013;</l>
+<l>Farvel &#x2013; Men knap jeg kan &#x2013; hvor tungt at v&#x00E6;re Fader &#x2013;</l>
+</sp>
+<sp who="Sigrid">
+<speaker>Sigrid.</speaker>
+<l>Din store Siel er r&#x00F8;rt; h&#x00F8;r nu din Datters B&#x00F8;n:</l>
+<l>Lad hende kaste sig for Harralds F&#x00F8;dder ned,</l>
+<l>Og der beskrive ham, hvorvidt du blev bedragen,</l>
+<l>Du troede, at din S&#x00F8;n af Kongen her var slagen &#x2013; &#x2013;</l>
+</sp>
+<sp who="Einer">
+<speaker>Einer.</speaker>
+<l>Og naar jeg troede ret, da burde jeg i Fred</l>
+<l>For Harrald baaret frem en Faders Sorg og N&#x00F8;d:</l>
+<l>Vor Lov tillader ey mod Kongen Sv&#x00E6;rd at f&#x00F8;re,</l>
+<l>Saafremt mod Landets Vel han ey vil Angreb gi&#x00F8;re;</l>
+<l>Min Datter, spar <ptr type="criticalApp" target="EinerT_var79" xml:id="EinerT_var79"/>din B&#x00F8;n, jeg har fortient min D&#x00F8;d.</l>
+<l>Jeg til min Dommer gaaer fra disse kiere Pandt &#x2013; &#x2013;</l>
+<l>Men D&#x00F8;d &#x2013; og Siel &#x2013; og Gud &#x2013; tilgiv i det du f&#x00E6;lder,</l>
+<l>Hos dig en angret Feyl saa h&#x00F8;yt, som Dyden gielder,</l>
+<l>Ved Miskundhed du meer, end ved din Torden vandt.</l>
+<l>Dig anbefales alt, hvad kiert mig Livet gav:</l>
+<l>Jeg da mit F&#x00F8;deland Farvel for evig siger,</l>
+<l>Forbandet den, som dig mit kiere Norge sviger;</l>
+<l>Jeg d&#x00F8;er, og var dig troe; forund mit St&#x00F8;v en Grav.</l>
+</sp>
+<sp who="Bergliod">
+<speaker>Bergliod.</speaker>
+<l>F&#x00F8;r Ild fort&#x00E6;re skal den Lov, dig skyldig gi&#x00F8;r,</l>
+<l part="I">F&#x00F8;r Landets Ven skal d&#x00F8;e &#x2013; &#x2013;</l>
+</sp>
+<sp who="Endre">
+<speaker>Endre.</speaker>
+<l part="F">F&#x00F8;r alle Norges S&#x00F8;nner</l>
+<l>Ved Harralds Throne skal for Helten offre B&#x00F8;nner.</l>
+</sp>
+<sp who="Einer">
+<speaker><pb n="62"/>Einer.</speaker>
+<l>Elsk Ret, din Fader glem, og t&#x00E6;nk, en Voldsmand d&#x00F8;er.</l>
+<l>For denne Dag, min S&#x00F8;n, var Einer selv i Stand</l>
+<l>At trodse Kongens Magt og Lovens strenge Domme,</l>
+<l>Og Dyden var hans Skiold; Men ach! den Tid er omme!</l>
+<l>Hvi maatte jeg ey d&#x00F8;e for dig mit F&#x00F8;deland?</l>
+<l>Hvi aabnede du ey dit Moderlige Ski&#x00F8;d,</l>
+<l>Og St&#x00F8;vet af din S&#x00F8;n hos kiekke Br&#x00F8;dre giemte?</l>
+<l>F&#x00F8;r dig uv&#x00E6;rdig, han, sig selv og Dyden glemte;</l>
+<l>O! maatte nu min Skam udsl&#x00E6;ttes ved min D&#x00F8;d!</l>
+<l><ptr type="criticalApp" target="EinerT_var80" xml:id="EinerT_var80"/>Jeg efterlader kun mit F&#x00F8;deland en S&#x00F8;n;</l>
+<l>Opfyld <ptr type="criticalApp" target="EinerT_var81" xml:id="EinerT_var81"/>min glemte Pligt, forson din Faders Br&#x00F8;de;</l>
+<l>Saa lever jeg i dig, og D&#x00F8;den glad kan m&#x00F8;de,</l>
+<l><ptr type="criticalApp" target="EinerT_var82" xml:id="EinerT_var82"/>Naar du i Dyden selv <ptr type="criticalApp" target="EinerT_var83" xml:id="EinerT_var83"/>skal finde Dydens L&#x00F8;n.</l>
+</sp>
+<stage>Ende paa fierde Optog.</stage>
+</div>
+</div>                         
+<div type="act" n="5">
+ <head><pb n="63"/><ref type="contents" target="contents_8" xml:id="chapter_8">Femte Optog</ref>.</head>
+<stage>Skuepladsen er i Kongens Sahl.</stage>
+<div type="scene" n="1">
+<head>F&#x00D8;RSTE OPTRIN.</head>
+<stage>Arne, Fire Bev&#x00E6;bnede.</stage>
+<sp who="Arne">
+<speaker>Arne.</speaker>
+<l>Jeg Eder, tappre M&#x00E6;nd, min Konges Sag betroer;</l>
+<l>Staaer I hos vore Folk, lad Sv&#x00E6;rdet f&#x00E6;rdigt v&#x00E6;re:</l>
+<l>Snart Endre Adgang vil til Kongens Gaard begi&#x00E6;re:</l>
+<l>Men <ptr type="commentary" target="EinerT_comm140" xml:id="EinerT_comm140"/>t&#x00E6;nker: Faren da for Harralds Liv er stor.</l>
+<l>Jeg Endres Anl&#x00E6;g veed: Han foregive skal</l>
+<l>For os, som holde Vagt, at han med sine vilde</l>
+<l>Hos Kongen Einers Dom og Straf med B&#x00F8;n formilde;</l>
+<l>Han bringer derfor med af M&#x00E6;nd et ringe Tal;</l>
+<l>Men den Forr&#x00E6;der vil, saasnart han Adgang faaer,</l>
+<l>Angribe Kongen selv. Vi derfor maae forbyde,</l>
+<l>At ikke han <ptr type="criticalApp" target="EinerT_var84" xml:id="EinerT_var84"/>herind skal med sit F&#x00F8;lge bryde;</l>
+<l>Og <ptr type="commentary" target="EinerT_comm141" xml:id="EinerT_comm141"/>n&#x00E6;st ved Porten I med sp&#x00E6;ndte Buer staaer!</l>
+<l>Til Endre strax enhver allene sigte b&#x00F8;r,</l>
+<l>For den, som f&#x00E6;lder ham, er riig Bel&#x00F8;nning f&#x00E6;rdig &#x2013; &#x2013;</l>
+<l>Hans Fader d&#x00F8;mmes snart, og findes D&#x00F8;den v&#x00E6;rdig:</l>
+<l>Kun ved at h&#x00E6;vne Vold, man Thronen sikker gi&#x00F8;r.</l>
+</sp>
+<stage>(De bev&#x00E6;bnede gaae.)</stage> 
+<sp who="Arne">
+<speaker><pb n="64"/>Arne.</speaker>
+<stage>allene.</stage>
+<l>Jeg under dette Skin ham faaer af Dage bragt:</l>
+<l>Jeg veed nok: Endre vil kun for sin Fader bede;</l>
+<l>Han skulde da maaskee formilde Kongens Vrede &#x2013;</l>
+<l>Nu den Forhadte d&#x00F8;er &#x2013; og jeg &#x2013; jeg holder Vagt &#x2013;</l>
+<l>Jeg er min Konge troe, og man skal rose mig,</l>
+<l>Fordi jeg Harralds Liv med Nidkierhed beski&#x00E6;rmer;</l>
+<l>Lyksaligt &#x00D8;yeblik, som mod mit Had sig n&#x00E6;rmer,</l>
+<l>Mit Hierte br&#x00E6;nder alt, hvor s&#x00F8;dt at h&#x00E6;vne sig!</l>
+</sp>
+</div>
+<div type="scene" n="2">
+<head>ANDET OPTRIN.</head>
+<stage>Harrald med en Deel Bev&#x00E6;bnede, Arne.</stage>
+<sp who="Harrald">
+<speaker>Harrald.</speaker>
+<l>Er Vagt ved Porten sat, og til min Sikkerhed</l>
+<l part="I">Nu alt i Orden bragt?</l>
+</sp>
+<sp who="Arne">
+<speaker>Arne.</speaker>
+<l part="F">Dig intet Ondt kan r&#x00F8;re;</l>
+<l>Ey f&#x00F8;r en Fiende vil ved Porten Indbrud gi&#x00F8;re,</l>
+<l>F&#x00F8;r hver af Kongens M&#x00E6;nd til Modstand er bered.</l>
+</sp>
+<sp who="Harrald">
+<speaker>Harrald.</speaker>
+<stage>til nogle af de Bev&#x00E6;bnede.</stage>
+<l>Man Einer Vaabenl&#x00F8;s, som det en Skyldig b&#x00F8;r,</l>
+<l>Strax bringe hid. <stage>(Til Arne.)</stage> Og du, v&#x00E6;r mine M&#x00E6;nds Anf&#x00F8;rer.</l>
+</sp>
+<stage>(Arne med fire Bev&#x00E6;bnede <ptr type="criticalApp" target="EinerT_var85" xml:id="EinerT_var85"/>gaaer.)</stage> 
+</div>
+<div type="scene" n="3">
+<head><pb n="65"/>TREDIE OPTRIN.</head>
+<sp who="Harrald">
+<speaker>Harrald,</speaker> 
+<stage>som s&#x00E6;tter sig op paa sin Throne, falder i dybe Tanker, og siger endelig:</stage>
+<l>Hans Dom i Loven staaer, jeg straffer en Opr&#x00F8;rer &#x2013;</l>
+<l>En Voldsmand &#x2013; dog &#x2013; hvad <ptr type="criticalApp" target="EinerT_var86" xml:id="EinerT_var86"/>Frygt! &#x2013; det afgiort er &#x2013; han d&#x00F8;er.</l>
+<l>Om alle Tr&#x00F8;nderne mig truede med Krig,</l>
+<l>Og Thronen selv med Fald; jeg b&#x00F8;r retf&#x00E6;rdig v&#x00E6;re,</l>
+<l>Og redde Himlens, min, og vore Loves &#x00C6;re; &#x2013; &#x2013;</l>
+<l>Der er han, det er Tid engang at h&#x00E6;vne mig.</l>
+</sp>
+</div>
+<div type="scene" n="4">
+<head>FIERDE OPTRIN.</head>
+<stage>Einer uden Vaaben, de forrige.</stage>
+<sp who="Harrald">
+<speaker>Harrald.</speaker>
+<l>Omsider kom den Dag, da overdrevet Mod</l>
+<l>Til egen Undergang din stolte Siel forf&#x00F8;rte!</l>
+<l>Til Venskab, Ydmyghed, dig ey min Naade r&#x00F8;rte,</l>
+<l>H&#x00F8;r nu: Retf&#x00E6;rdighed forkynder Dom og Blod.</l>
+<l>Forsvar dig, om du kan, her er det Tid og Sted:</l>
+<l>Du Loven veed, tael nu, og gaae med mig i Rette;</l>
+<l>Hvad Sminke kan du vel paa dine Laster s&#x00E6;tte?</l>
+<l>Hvormed undskylder du din Vold, din Grusomhed?</l>
+<l>Du, som mod Gud og Lov og Konge trodse t&#x00F8;r,</l>
+<l>Hvad Straf har du fortient, og hvo kan dig tilgive?</l>
+<l>Hvad venter du af mig? hvad b&#x00F8;r din Skiebne blive?</l>
+<l part="I">Sp&#x00F8;rg Loven &#x2013; svar mig &#x2013; tael &#x2013;</l>
+</sp>
+<sp who="Einer">
+<speaker><pb n="66"/>Einer.</speaker>
+<l part="F">Du d&#x00F8;mmer, og jeg d&#x00F8;er.</l>
+</sp>
+<sp who="Harrald">
+<speaker>Harrald.</speaker>
+<l>Kan egne Feyl dog ey din Stolthed b&#x00F8;ye ned?</l>
+<l>Maaskee med Rette du i Dag ey D&#x00F8;den lider?</l>
+<l>Maaskee min Dom mod Lov, mod Nordm&#x00E6;nds Frihed strider?</l>
+</sp>
+<sp who="Einer">
+<speaker>Einer.</speaker>
+<l>At ville synde frit, er Slavers <ptr type="commentary" target="EinerT_comm142" xml:id="EinerT_comm142"/>&#x00D8;yemeed;</l>
+<l>Troe dog, jeg veed, hvori vor Friheds Ret bestaaer:</l>
+<l>Til f&#x00E6;lles Nytte vi t&#x00F8;r bruge hver sin Evne.</l>
+<l>Vi t&#x00F8;r vort Gods og Gaard og Tid vor egen n&#x00E6;vne,</l>
+<l>Og Dyd og Last hos os sin rette Farve faaer.</l>
+<l>Vi t&#x00E6;nke, handle selv, og Fyrsters Tyrannie</l>
+<l>Gi&#x00F8;r aldrig Last til Dyd, og aldrig Dyd til Laster:</l>
+<l>En Nordmand Hoffets Smag antager, og forkaster,</l>
+<l>Og aldrig f&#x00F8;lger den af Frygt og Hyklerie;</l>
+<l>Hos os er Dyden ey en efterabet Skik,</l>
+<l>En tvungen &#x00D8;velse i det, som Kongen ynder:</l>
+<l>&#x00C6;r derfor Nordm&#x00E6;nds Dyd; Men straf kun deres Synder,</l>
+<l>Og t&#x00E6;nk at Ondt og Godt hos dem fra Hiertet gik.</l>
+<l>Opfyld din Pligt mod mig, og Loven fyldestgi&#x00F8;r.</l>
+</sp>
+<sp who="Harrald">
+<speaker>Harrald.</speaker>
+<l>Du til dit Forsvar f&#x00F8;rst maa, hvad du kan, fremf&#x00F8;re.</l>
+</sp>
+<sp who="Einer">
+<speaker>Einer.</speaker>
+<l>En Voldsmand vil omsunst sin Sag retf&#x00E6;rdiggi&#x00F8;re:</l>
+<l>Alt hvad jeg sige kan, er, at jeg skyldig d&#x00F8;er.</l>
+</sp>
+<sp who="Harrald">
+<speaker><pb n="67"/>Harrald.</speaker>
+<l>Saa kiender du dig selv? saa kan du b&#x00F8;ye dig</l>
+<l>Saa dybt i St&#x00F8;vet ned? Og om dig selv bekiende?</l>
+<l>Saa har dit stolte Mod dog f&#x00F8;r end Livet Ende?</l>
+<l>Din sieldne Ydmyghed i Dag behager mig.</l>
+</sp>
+<sp who="Einer">
+<speaker>Einer.</speaker>
+<l>For Spot min Alder spar; nok, at du glad kan her</l>
+<l>See Einers f&#x00F8;rste Feyl ham ned til Jorden b&#x00F8;ye:</l>
+<l>T&#x00E6;nk: den, som stedse dog har Dyden havt for &#x00D8;ye,</l>
+<l>Og samme Agt for den mod Livets Aften b&#x00E6;r,</l>
+<l>Bereed til D&#x00F8;dens Nat; t&#x00E6;nk naar han f&#x00F8;le skal</l>
+<l>Med <ptr type="commentary" target="EinerT_comm143" xml:id="EinerT_comm143"/>Bludsel Dydens Tab paa rynket Pande tegnet,</l>
+<l>Og see sit hele Liv, sin Troskab, Dyd <ptr type="commentary" target="EinerT_comm144" xml:id="EinerT_comm144"/>beregnet</l>
+<l>Kun efter sidste Dag &#x2013; t&#x00E6;nk, Konge, hvilken Qval!</l>
+<l>Man maatte skilt mig ved min Bergliod, min S&#x00F8;n</l>
+<l>Mit Hiem og <ptr type="commentary" target="EinerT_comm145" xml:id="EinerT_comm145"/>Arnested og alt hvad kiert, jeg eyer,</l>
+<l>Jeg maatte tabt et Slag, og taalt min Fiendes Seyer,</l>
+<l>Jeg maatte v&#x00E6;ret troe, og savnet Troskabs L&#x00F8;n.</l>
+<l>Man maatte straffet mig med L&#x00E6;nker, Spot og D&#x00F8;d;</l>
+<l>Jeg vilde trodset alt, naar Dyden i mit Hierte</l>
+<l>Udbredte roelig Fred; jeg vilde glemt min Smerte,</l>
+<l>Hvis jeg mig havde selv ey styrtet i min N&#x00F8;d &#x2013; &#x2013;</l>
+<l>Nu &#x2013; synker kiekke Mod, og Hiertet savner Tr&#x00F8;st;</l>
+<l>Jeg seer mig selv og <ptr type="commentary" target="EinerT_comm146" xml:id="EinerT_comm146"/>flyer, hvad er for mig tilbage?</l>
+<l>Hvad kan jeg haabe meer? hvem r&#x00F8;rer denne Klage?</l>
+<l>Hast Konge med min Straf, igiennemboer mit Bryst.</l>
+</sp>
+<sp who="Harrald">
+<speaker>Harrald.</speaker>
+<l>Mit r&#x00F8;rte Hierte fandt et Raad for al din Qval:</l>
+<l>Begier Forladelse, det koster kun at bede,</l>
+<l>Saa redder du dit Liv, formilder Kongens Vrede.</l>
+<l>Beviis din Ydmyghed: &#x2013; &#x2013; Du tier &#x2013; Einer &#x2013; tael &#x2013;</l>
+</sp>
+<sp who="Einer">
+<speaker><pb n="68"/>Einer.</speaker>
+<l>Det var ey altsaa nok, at <ptr type="criticalApp" target="EinerT_var87" xml:id="EinerT_var87"/>feyle selv i Dag;</l>
+<l>Jeg skulde dig maaskee ved Suk og B&#x00F8;n forf&#x00F8;re,</l>
+<l>Du skulde glemme dig, og Vold retf&#x00E6;rdiggi&#x00F8;re?</l>
+<l>Og handle mod vor Lov? &#x2013; Nei hast, og d&#x00F8;m min Sag.</l>
+<l>Du veed en Dommers Pligt: Vaag for Retf&#x00E6;rdighed,</l>
+<l>T&#x00E6;nk, hvad du vover selv, ved ey at straffe Laster?</l>
+<l>Snart en Forr&#x00E6;der sig mod Kongens Liv <ptr type="commentary" target="EinerT_comm147" xml:id="EinerT_comm147"/>formaster,</l>
+<l>Naar han ved <ptr type="criticalApp" target="EinerT_var88" xml:id="EinerT_var88"/>ydmyg B&#x00F8;n fra Straf at reddes veed. </l>
+</sp>
+<sp who="Harrald">
+<speaker>Harrald.</speaker>
+<l>Men siig dog, vilde du i Templet myrde mig?</l>
+</sp>
+<sp who="Einer">
+<speaker>Einer.</speaker>
+<l>Ja &#x2013; havde denne Arm til Mod og Vrede svaret,</l>
+<l>Der intet Helligt var, som jeg da havde sparet.</l>
+</sp>
+<sp who="Harrald">
+<speaker>Harrald.</speaker>
+<l>Men til dit Raserie hvad har bev&#x00E6;get dig?</l>
+</sp>
+<sp who="Einer">
+<speaker>Einer.</speaker>
+<l>Beviiste Gierninger du ikkun d&#x00F8;mme b&#x00F8;r;</l>
+<l>Nok &#x2013; du mit Fors&#x00E6;t veed &#x2013; foragt Bev&#x00E6;gegrunde,</l>
+<l>Hvad mig til Gruesomhed endog forlede kunde,</l>
+<l>Jeg trakte Sv&#x00E6;rd mod dig, og efter Loven d&#x00F8;er.</l>
+</sp>
+<sp who="Harrald">
+<speaker>Harrald.</speaker>
+<l>Men siig mig, hvormed jeg dog har dit Had fortient?</l>
+<l>Hvad v&#x00E6;bnede din Arm, til Avindskiold at f&#x00F8;re?</l>
+<l>Maaskee fordi jeg meer om Fred ey vilde h&#x00F8;re?</l>
+</sp>
+<sp who="Einer">
+<speaker><pb n="69"/>Einer.</speaker>
+<l>Nei men fordi jeg dig i Dag ey ret har kiendt,</l>
+<l>Fordi man sagde mig, at du i Templet var,</l>
+<l>Og gruesom vilde der opoffre S&#x00F8;n og Fader,</l>
+<l>Jeg tvivlte dog, og gik, og t&#x00E6;nkte: Kongen hader</l>
+<l>Mit Raad til Fred; Men dog for Templets Gud han har</l>
+<l>Fuldkommen &#x00C6;refrygt; Jeg kommer, seer dig der</l>
+<l>Med draget Sv&#x00E6;rd, en D&#x00F8;d jeg mod Formodning finder,</l>
+<l>Og savnede min S&#x00F8;n, en Dr&#x00F8;m mig strax forblinder:</l>
+<l>Naturen raaber H&#x00E6;vn: din Endre myrdet er.</l>
+<l>Men t&#x00E6;nk for alting ey, jeg mig Retf&#x00E6;rdig troer.</l>
+<l>Hvo gav mig Ret, med Magt mod Kongen Mord at h&#x00E6;vne?</l>
+<l>Jeg intet derfor kan til min Undskyldning n&#x00E6;vne;</l>
+<l>Jeg veed, jeg feilet har, og denne Feil er stor.</l>
+</sp>
+<sp who="Harrald">
+<speaker>Harrald.</speaker>
+<l>Men siig, hvo turde dog saa sort afmale mig?</l>
+</sp>
+<sp who="Einer">
+<speaker>Einer.</speaker>
+<l>Den som vel ogsaa mig for Kongen tidt bef&#x00F8;rte,</l>
+<l>Som sagde ham, at jeg det ganske Folk opr&#x00F8;rte,</l>
+<l>Som Biarke sigtet har med sammenviklet Svig;</l>
+<l>Men jeg, jeg kiender ham, og veed, han skyldfrie er;</l>
+<l>Man sagde mig, at du ham ey i F&#x00E6;ngsel satte:</l>
+<l>Jeg burde, t&#x00E6;nkte jeg, ham denne Skam erstatte:</l>
+<l>Min Overiilelse jeg nu for <ptr type="criticalApp" target="EinerT_var89" xml:id="EinerT_var89"/>silde seer. </l>
+</sp>
+<sp who="Harrald">
+<speaker>Harrald.</speaker>
+<stage>efter en kort Taushed.</stage>
+<l>Nu seer jeg Arnes List og kiender dig igien;</l>
+<l>Jeg veed, hvad han og du, hvad Svig, hvad Troskab gielder:</l>
+<l>L&#x00E6;r her, at kiende mig; h&#x00F8;r nu: Din Dom jeg f&#x00E6;lder:</l>
+<l>Uskyldig Einer er og Kongens <ptr type="criticalApp" target="EinerT_var90" xml:id="EinerT_var90"/>hulde Ven. </l>
+</sp>
+<sp who="Einer">
+<speaker><pb n="70"/>Einer</speaker>
+<stage>faldende paa Kn&#x00E6; ved Harralds Throne.</stage>
+<l>Stor er min Konge nu; jeg for din Throne mig</l>
+<l>I St&#x00F8;vet kaster ned. Din Gunst min Siel beski&#x00E6;mmer;</l>
+<l>Mit Bryst af Naade r&#x00F8;rt sit Mod sin Stolthed glemmer;</l>
+<l>Dybt seer jeg mig i Dag fornedret under dig.</l>
+<l>Min Siel tilbeder ey dit Navn, din Konge-Magt;</l>
+<l>Jeg Thronen overseer; men du, som mig tilgiver,</l>
+<l>Din Dyd, din h&#x00F8;ye Siel, nedtrykker og henriver,</l>
+<l>Din Naade har mig her for dine F&#x00F8;dder lagt.</l>
+<l>Din Siel igiennemtr&#x00E6;ngt af &#x00D8;mhed har i Dag</l>
+<l>Fulgt Venskabs kielne R&#x00F8;st; men <ptr type="criticalApp" target="EinerT_var91" xml:id="EinerT_var91"/>glemt at du var Dommer;</l>
+<l>Naar end en skyldig Ven frem for din Throne kommer,</l>
+<l>Da f&#x00F8;lg du Landets Lov, og pr&#x00F8;v, og d&#x00F8;m hans Sag.</l>
+<l>Dit Venskab b&#x00F8;r dog ey frikiende Morderen;</l>
+<l>Ey Lovens Ret du kan; men Hiertets frit bortski&#x00E6;nke;</l>
+<l>Ustraffet Voldsmand ey din Konge-Magt b&#x00F8;r kr&#x00E6;nke;</l>
+<l>Ford&#x00F8;m din Undersaat, hav Medynk med din Ven.</l>
+</sp>
+<sp who="Harrald">
+<speaker>Harrald.</speaker>
+<l>Nok &#x2013; jeg tilgivet har; foragt ey du min Gunst.</l>
+</sp>
+<sp who="Einer">
+<speaker>Einer.</speaker>
+<l>Nei det er all min Roes, naar jeg for Sv&#x00E6;rdet segner,</l>
+<l>At du blant Helte mig og kiekke Venner regner,</l>
+<l>Men Vold mod Landets Lov frikiender du omsunst.</l>
+<l>De Stores mindste Feyl en frugtbar Moder er</l>
+<l>Til dyb Vildfarelse; Den fr&#x00E6;kke M&#x00E6;ngde haster</l>
+<l>At f&#x00F8;lge vore Spor, for frit at &#x00F8;ve Laster;</l>
+<l>Den alt hos os, endog vor Svaghed, haver kier.</l>
+<l>&#x00AB;Kan Einer &#x00F8;ve Vold, og dog ustraffet gaaer,&#x00BB;</l>
+<l>Saa Folket t&#x00E6;nke vil &#x00AB;Saa kan enhver nedrive</l>
+<l><pb n="71"/>&#x00AB;De Gr&#x00E6;ndser, Lovene for fr&#x00E6;kke Laster skrive;&#x00BB;</l>
+<l>&#x00D8;v du Retf&#x00E6;rdighed, og evig Thronen staaer.</l>
+<l>Ja Konge, Himlens Ret mod mig du h&#x00E6;vne b&#x00F8;r,</l>
+<l>Og jeg velsigne skal den Ven, som Dommen f&#x00E6;lder,</l>
+<l>Hos mig Retf&#x00E6;rdighed langt meer end &#x00D8;mhed gielder,</l>
+<l>Straf min Vildfarelse, jeg elsker dig og d&#x00F8;er.</l>
+</sp>
+<sp who="Harrald">
+<speaker>Harrald.</speaker>
+<stage>stigende ned af sin Throne for at omfavne Einer.</stage>
+<l>Jeg st&#x00F8;rre dig i Dag ved din Misgierning seer,</l>
+<l>End f&#x00F8;r ved str&#x00E6;nge Dyd &#x2013; Lad mig min Ven omfavne &#x2013;</l>
+<l>Hvor meget skulde jeg i Tambeskielver savne?</l>
+<l>Jeg aldrig fandt en Helt, en Ven, som Einer meer.</l>
+<l>Jeg skulde d&#x00F8;mme dig &#x2013; Nei, jeg vil l&#x00E6;gge ned</l>
+<l>Den grumme Magt, som nu din Konges Hierte hader;</l>
+<l>Den Ret at d&#x00F8;mme dig jeg Folket overlader,</l>
+<l>Det redde skal dit Liv og min Retf&#x00E6;rdighed.</l>
+</sp>
+<sp who="Einer">
+<speaker>Einer.</speaker>
+<l>Forvirret, &#x00F8;m og svag, jeg n&#x00E6;sten taber mig</l>
+<l>I min Velgi&#x00F8;rers Gunst &#x2013; &#x2013; Jeg gaaer dit Folk at l&#x00E6;re,</l>
+<l>Hvor kostbart Harralds Liv for Landets Vel b&#x00F8;r v&#x00E6;re,</l>
+<l>Og hvad den har fortient, som vilde <ptr type="criticalApp" target="EinerT_var92" xml:id="EinerT_var92"/>myrdet dig. </l>
+</sp>
+<sp who="Harrald">
+<speaker>Harrald.</speaker>
+<l>Gaae, l&#x00E6;r mit Folk i Dag, hvordan det d&#x00F8;mme b&#x00F8;r </l>
+<l part="I">Den, som er Kongens Ven &#x2013; &#x2013;</l>
+</sp>
+<sp who="Einer">
+<speaker>Einer.</speaker>
+<l part="F">Jeg er din Gunst uv&#x00E6;rdig,</l>
+<l>Mit Liv til Byrde blev, og Straffen er retf&#x00E6;rdig;</l>
+<l>Min S&#x00F8;n dit Venskab skienk, og Folkets Klager h&#x00F8;r.</l>
+<l><pb n="72"/>Min D&#x00F8;d bekr&#x00E6;fte skal den Lov, jeg elsket har;</l>
+<l>Jeg kan ey meer dens Tolk, men b&#x00F8;r dens Offer v&#x00E6;re:</l>
+<l>Siig du, saa d&#x00F8;er jeg stolt, siig kun mit St&#x00F8;v til &#x00C6;re:</l>
+<l>Den Voldsmand stedse troe mod mig og Landet var.</l>
+<stage>(Han gaaer.)</stage>
+</sp>
+</div>
+<div type="scene" n="5">
+<head>FEMTE OPTRIN.</head>
+<sp who="Harrald">
+<speaker>Harrald</speaker>
+<stage>allene.</stage>
+<l>Saa vandt han dog tilsidst ved <ptr type="commentary" target="EinerT_comm148" xml:id="EinerT_comm148"/>&#x00C6;delmodighed &#x2013; &#x2013; &#x2013;</l>
+<l>Men Folket glemmer Lov, og Kongens Ven frikiender &#x2013;</l>
+<l>Mod Arnes slebne Svig til H&#x00E6;vn mit Hierte br&#x00E6;nder &#x2013; &#x2013;</l>
+<l>N&#x00E6;r havde han mig nu forf&#x00F8;rt til Gruesomhed.</l>
+</sp>
+</div>
+<div type="scene" n="6">
+<head>SIETTE OPTRIN.</head>
+<stage>Elisabeth. Harrald.</stage>
+<sp who="Elisabeth">
+<speaker>Elisabeth.</speaker>
+<l>Jeg saae et <ptr type="criticalApp" target="EinerT_var93" xml:id="EinerT_var93"/>skr&#x00E6;ksomt Syn: Det gandske Folk opr&#x00F8;rt:</l>
+<l>Hist raabe nogle H&#x00E6;vn, og stille sig i Orden,</l>
+<l>Og sv&#x00E6;rge Haand i Haand: Vor beste Helt i Norden</l>
+<l>Skal leve; Harrald d&#x00F8;e! som ey hans Raad har h&#x00F8;rt.</l>
+<l><pb n="73"/>Halv-voxne S&#x00F8;nner gik med Bue, Piil og Sv&#x00E6;rd,</l>
+<l>Og &#x00F8;nskte Leilighed ved tappre Faders Side</l>
+<l>At l&#x00E6;re Krigens Kunst; og uden selv at vide</l>
+<l>Hvorfor de streed; enhver var <ptr type="criticalApp" target="EinerT_var94" xml:id="EinerT_var94"/>nidkier, uforf&#x00E6;rd.</l>
+<l>Her en &#x00E6;rv&#x00E6;rdig Hob af gamle Tr&#x00F8;nder kom</l>
+<l>Med mandig &#x00D8;mhed frem, og deres Ven afmalte;</l>
+<l>Man h&#x00F8;rte, Hiertet selv om Tambeskielver talte,</l>
+<l>De sagde: &#x00AB;Kongen b&#x00F8;r forsigtig f&#x00E6;lde Dom.</l>
+<l>&#x00AB;Tit Einer var vor Tolk, og strax vor N&#x00F8;d forsvandt,</l>
+<l>&#x00AB;Og naar han Kongens Sag for os igien fremf&#x00F8;rte,</l>
+<l>&#x00AB;Til Lydighed hans Raad hver Nordmands Hierte r&#x00F8;rte,</l>
+<l>&#x00AB;Frels denne Helt! og viid, din Harralds Liv du vandt.&#x00BB;</l>
+<l>Her gr&#x00E6;d de gamle M&#x00E6;nd: Nu h&#x00F8;rte jeg et Skrig</l>
+<l>Af unge Rasende, som raabte: &#x00AB;Heele Norden</l>
+<l>&#x00AB;Skal ski&#x00E6;lve ved hans Fald, og Ild og Hav og Jorden</l>
+<l>&#x00AB;Bev&#x00E6;bne sig til H&#x00E6;vn &#x2013; <ptr type="criticalApp" target="EinerT_var95" xml:id="EinerT_var95"/>fort&#x00E6;re, knuse dig.&#x00BB;</l>
+<l>Kan da din Dronnings B&#x00F8;n, din egen Sikkerhed,</l>
+<l part="I">Dit gandske Riges Suk &#x2013; &#x2013;</l>
+</sp>
+<sp who="Harrald">
+<speaker>Harrald.</speaker>
+<l part="F">Nok &#x2013; viid mit Had, min Vrede</l>
+<l>Formildet er; iil nu det samme Folk at bede,</l>
+<l>At det forglemme vil sin Lov, sin Nidkierhed,</l>
+<l>Og at min beste Ven i Dag frikiendes maa.</l>
+</sp>
+</div>
+<div type="scene" n="7">
+<head><pb n="74"/>SYVENDE OPTRIN.</head>
+<stage>Sigrid kastende sig for Kongens F&#x00F8;dder, de forrige.</stage>
+<sp who="Sigrid">
+<speaker>Sigrid.</speaker>
+<l>Frels, Konge, frels min Mand! skal dog dit Sv&#x00E6;rd fort&#x00E6;re</l>
+<l>En Helt, som var dig troe? skal han et Offer v&#x00E6;re</l>
+<l>For Arnes Grusomhed? Jeg mellem Vaaben saae</l>
+<l>Min Endre ki&#x00E6;mpende, foruden Spyd og Skiold! &#x2013; &#x2013;</l>
+<l>For Himlens skyld h&#x00F8;r dog, min Kierlighed, min Smerte, </l>
+<l part="I">Min s&#x00F8;nderrevne Siel &#x2013; &#x2013;</l>
+</sp>
+<sp who="Harrald">
+<speaker>Harrald.</speaker> 
+<stage>i det han vil gaae.</stage>
+<l part="F">Jeg den Forr&#x00E6;ders Hierte</l>
+<l part="I">Igiennembore skal &#x2013; &#x2013;</l>
+</sp>
+</div>
+<div type="scene" n="8">
+<head>OTTENDE OPTRIN.</head>
+<stage>Arne, med draget Sv&#x00E6;rd i den eene, og Buen i den anden Haand, de forrige.</stage>
+<sp who="Arne">
+<speaker>Arne.</speaker>
+<l part="F">Nu har jeg h&#x00E6;vnet Vold.</l>
+</sp>
+<sp who="Harrald">
+<speaker>Harrald.</speaker>
+<l part="I">Og Endre, hvor er han?</l>
+</sp>
+<sp who="Arne">
+<speaker><pb n="75"/>Arne.</speaker>
+<l part="F">Din Throne sikker staaer.</l>
+<l>Han vilde bryde ind; men jeg forstod at m&#x00F8;de,</l>
+<l>Han vilde myrde dig, jeg traf ham og han d&#x00F8;de.</l>
+</sp>
+<sp who="Harrald">
+<speaker>Harrald.</speaker>
+<l part="I">Forr&#x00E6;der! hvilket Mord!</l>
+</sp>
+<sp who="Sigrid">
+<speaker>Sigrid.</speaker>
+<l part="F">O Dronning! jeg forgaaer.</l>
+<stage>(Hun <ptr type="commentary" target="EinerT_comm149" xml:id="EinerT_comm149"/>falder i Afmagt.)</stage>
+</sp>
+<sp who="Arne">
+<speaker>Arne.</speaker>
+<l>Din Throne dog <ptr type="criticalApp" target="EinerT_var96" xml:id="EinerT_var96"/>endnu, o Konge! vaklede,</l>
+<l>Hvis denne Bue mig i Striden havde skuffet,</l>
+<l>Jeg neppe havde der den unge Kriger truffet,</l>
+<l>F&#x00F8;r Einer selv jeg fik blant vore M&#x00E6;nd at see;</l>
+<l>Jeg &#x00E6;ggede dem frem; Men da de Einer saae,</l>
+<l>Hver kastede sit Sv&#x00E6;rd, og ingen turde stride;</l>
+<l>Jeg saae hvor lidt man kan paa Folkets Troskab lide,</l>
+<l>Naar Landsmand v&#x00E6;bnet skal mod elsket <ptr type="criticalApp" target="EinerT_var97" xml:id="EinerT_var97"/>Landsmand gaae;</l>
+<l>Enhver opm&#x00E6;rksom var til <ptr type="criticalApp" target="EinerT_var98" xml:id="EinerT_var98"/>alt hvad Einer b&#x00F8;d;</l>
+<l>Men jeg &#x2013; jeg var dig troe, og dristig Buen sp&#x00E6;ndte,</l>
+<l>Og Pilen traf; maaskee din verste Fiende endte</l>
+<l part="I">I dette &#x00D8;yeblik sit Liv &#x2013; &#x2013; &#x2013;</l>
+</sp>
+<sp who="Harrald">
+<speaker>Harrald</speaker>
+<stage>til Vagten.</stage>
+<l part="F">Er han ey d&#x00F8;d</l>
+<l>Endnu, da bringer ham herind &#x2013; <stage>(Til Arne.)</stage> Men viid du selv</l>
+<l>Mod Land og Folk og mig den sorteste Forr&#x00E6;der</l>
+<l>Har myrdet Kongens <ptr type="criticalApp" target="EinerT_var99" xml:id="EinerT_var99"/>Ven. Strax <ptr type="commentary" target="EinerT_comm150" xml:id="EinerT_comm150"/>griber den <ptr type="commentary" target="EinerT_comm151" xml:id="EinerT_comm151"/>Misd&#x00E6;der.</l>
+<l>Din D&#x00F8;d skal blive grum, for alle Piinsler ski&#x00E6;lv.</l>
+</sp>
+<stage>(<ptr type="commentary" target="EinerT_comm152" xml:id="EinerT_comm152"/>Vagten griber Arne, og tager hans Vaaben fra ham, en af Vagten gaaer hen og henter L&#x00E6;nker.)</stage>
+<sp who="Sigrid">
+<speaker><pb n="76"/>Sigrid.</speaker>
+<l>Min Endre! &#x2013; &#x2013; nei jeg maae, saa blodig som han er,</l>
+<l>Endnu omfavne ham, og d&#x00F8;e ved Heltens Side,</l>
+<l>Den burde Elskov <ptr type="commentary" target="EinerT_comm153" xml:id="EinerT_comm153"/>flye, som ey <ptr type="commentary" target="EinerT_comm154" xml:id="EinerT_comm154"/>formaaer at lide.</l>
+<l>Min Mand! ach! gid jeg dig kun havde mindre kier.</l>
+<stage>(Hun gaaer.)</stage>
+</sp>
+</div>
+<div type="scene" n="9">
+<head>NIENDE OPTRIN.</head>
+<stage>Harrald, Elisabeth, og Arne, som forvares imellem de Bev&#x00E6;bnede.</stage>
+<sp who="Elisabeth">
+<speaker>Elisabeth.</speaker>
+<l>Min Konge! frels dit Liv, jeg frygter, Einers D&#x00F8;d</l>
+<l>Til farligt Raserie ophidset <ptr type="commentary" target="EinerT_comm155" xml:id="EinerT_comm155"/>Skare driver;</l>
+<l>Ved Arnes Listighed min Harrald Maalet bliver</l>
+<l>For Folkets Lyst til H&#x00E6;vn. O! hvilket grusomt St&#x00F8;d &#x2013;</l>
+<l>Det blev da Kongers Deel, at taale Had, Foragt,</l>
+<l>Naar kun i deres Navn en Hofmand Vold ud&#x00F8;ver.</l>
+</sp>
+<sp who="Harrald">
+<speaker>Harrald.</speaker>
+<l>Ja, kostbar er den Skat, man mig i Dag ber&#x00F8;ver:</l>
+<l>Mit Folkes Kierlighed &#x2013; min Ven &#x2013; min Konge-Magt.</l>
+<l>Hvad er tilovers nu? &#x2013; Flugt! Himmel! hvilken Skam!</l>
+<l>Men Krig! hvad Grusomhed, mod eget Folk at stride!</l>
+<l><ptr type="criticalApp" target="EinerT_var100" xml:id="EinerT_var100"/>Nei, f&#x00F8;r min &#x00C6;re skal, end Landets Velf&#x00E6;rd lide:</l>
+<l>Min Dronning! kom. <ptr type="criticalApp" target="EinerT_var101" xml:id="EinerT_var101"/>O! Gud! o! Sorg, der seer jeg ham. </l>
+</sp>
+</div>
+<div type="scene" n="11">
+<head><pb n="77"/>TIENDE OPTRIN.</head>
+<stage>Einer geleidet af Vagt, man seer Pilen i hans Bryst; de <ptr type="criticalApp" target="EinerT_var102" xml:id="EinerT_var102"/>forrige.</stage>
+<sp who="Einer">
+<speaker>Einer.</speaker>
+<l>Fort&#x00F8;rnet Himlen var, og den har h&#x00E6;vnet sig:</l>
+<l>Dens Straf udf&#x00F8;res tidt ved en Forr&#x00E6;ders H&#x00E6;nder &#x2013; &#x2013;</l>
+<l>Dybt f&#x00F8;ler jeg mit Saar, og snart mit Liv sig ender &#x2013; &#x2013;</l>
+<l>Ved sikker Piil min Haand blev ofte seyerrig;</l>
+<l>Ved alt for sikker Piil jeg fik mit Banesaar;</l>
+<l>Men det som smerter meest: En Nordmand Buen sp&#x00E6;ndte;</l>
+<l>For hvad der kaldtes Norsk mit hele Hierte br&#x00E6;ndte.</l>
+<stage>(Til Arne.)</stage>
+<l>Det br&#x00E6;ndte og for dig &#x2013; &#x2013; Hver Gran, paa Fieldet staaer,</l>
+<l>For mig var kostbar, ski&#x00F8;n og dobbelt ski&#x00F8;n og kier,</l>
+<l>Fordi mit F&#x00F8;deland var min og Granens Moder;</l>
+<l>Hvor meget mere var hver Nordmand da min Broder!</l>
+<l>Og dette Bryst af dig igiennemboret er! &#x2013; &#x2013; &#x2013;</l>
+<l>Og Einers tappre S&#x00F8;n &#x2013; &#x2013; Jeg glad mod D&#x00F8;den f&#x00F8;r</l>
+<l>Med roligt Hierte gik: naar Endre skulde b&#x00E6;re</l>
+<l>Mit Navn, og jeg i ham erindret, elsket v&#x00E6;re; &#x2013; &#x2013;</l>
+<l>Men ach! mit Haab forsvandt &#x2013; &#x2013; Jeg meer end eengang d&#x00F8;er.</l>
+<stage>(Til Harrald.)</stage>
+<l>Jeg Endres sidste Ord for dig i Dag fremb&#x00E6;r:</l>
+<l>Sig Harrald: Jeg var troe mod <ptr type="criticalApp" target="EinerT_var103" xml:id="EinerT_var103"/>Konge, Land og Fader. &#x2013;</l>
+</sp>
+<sp who="Harrald">
+<speaker>Harrald.</speaker>
+<l>Ach! hvilket gruesomt Tab! al Kraft min Siel forlader. &#x2013;</l>
+<l>O Gud! hvor denne Sl&#x00E6;gt har havt sin Konge kier!</l>
+<l><pb n="78"/>Min allerbeste Ven, Velgi&#x00F8;rer, Landsmand, Helt,</l>
+<l>Min Fader &#x2013; &#x2013; dette Navn jeg al din Troskab skylder;</l>
+<l>En meer end s&#x00F8;nlig Sorg din Konges Bryst opfylder:</l>
+<l>Ja Harrald f&#x00F8;rste Gang i Dag har Taarer f&#x00E6;ldt &#x2013; &#x2013; </l>
+<l part="I">Men hvad! jeg h&#x00F8;rer Skrig!</l>
+</sp>
+<sp who="Elisabeth">
+<speaker>Elisabeth.</speaker>
+<l part="F">Ach! det er Bergliod!</l>
+</sp>     
+</div>
+<div type="scene" n="11">
+<head>ELLEVTE OG SIDSTE OPTRIN.</head>
+<stage>Der h&#x00F8;res St&#x00F8;yen af Vaaben, D&#x00F8;ren brydes op, og Bergliod kommer pludselig ind med bev&#x00E6;bnede B&#x00F8;nder.</stage>
+<sp who="Bergliod">
+<speaker>Bergliod.</speaker>
+<l>Han lever, <ptr type="commentary" target="EinerT_comm156" xml:id="EinerT_comm156"/>h&#x00E6;vner ham, f&#x00F8;r han sin Aand opgiver!</l>
+<l>I see Tyrannen der: Hans Hierte s&#x00F8;nderriver!</l>
+<l part="I">Frem! <ptr type="commentary" target="EinerT_comm157" xml:id="EinerT_comm157"/>redder Stad og Land!</l>
+</sp>
+<sp who="Einer">
+<speaker>Einer.</speaker>
+<l part="F">Holt, t&#x00E6;m dit grumme Mod!</l>
+<l>H&#x00F8;r f&#x00F8;rst og unders&#x00F8;g &#x2013; Der staaer Forr&#x00E6;deren,</l>
+<l>Som traf din S&#x00F8;n og mig; men l&#x00E6;r den Mand at &#x00E6;re,</l>
+<l>Som f&#x00F8;r min Feil tilgav, som nu min S&#x00F8;n vil v&#x00E6;re,</l>
+<l>Som selv begr&#x00E6;d mit Tab &#x2013; kiend Kongen &#x2013; kiend vor Ven.</l>
+<l>Formaaer jeg end en gang at v&#x00E6;re Nordm&#x00E6;nds Tolk,</l>
+<l>Da Konge h&#x00F8;r min B&#x00F8;n, ynk en forblindet Skare!</l>
+</sp>
+<sp who="Harrald">
+<speaker><pb n="79"/>Harrald.</speaker>
+<l>Det stedse var min Lyst, mit eget Folk at spare.</l>
+</sp>
+<sp who="Einer">
+<speaker>Einer.</speaker>
+<l>Du er til Konge f&#x00F8;d for et <ptr type="commentary" target="EinerT_comm158" xml:id="EinerT_comm158"/>behiertet Folk.</l>
+<l><ptr type="commentary" target="EinerT_comm159" xml:id="EinerT_comm159"/>Seer, Tr&#x00F8;nder, Eders Ven, som Himlen straffet har:</l>
+<l>I <ptr type="commentary" target="EinerT_comm160" xml:id="EinerT_comm160"/>vide selv, hvor lidt jeg Frygt og Smigren kiender,</l>
+<l><ptr type="commentary" target="EinerT_comm161" xml:id="EinerT_comm161"/>Troer da, mit Hierte nu for denne Konge br&#x00E6;nder,</l>
+<l>Og hvis mit sidste Raad for Eder helligt var,</l>
+<l part="I">Da <ptr type="commentary" target="EinerT_comm162" xml:id="EinerT_comm162"/>lyder, <ptr type="commentary" target="EinerT_comm163" xml:id="EinerT_comm163"/>elsker ham &#x2013; &#x2013;</l>
+</sp>
+<sp who="Bergliod">
+<speaker>Bergliod</speaker>
+<stage>til Kongen.</stage>
+<l part="F">Undskyld min <ptr type="criticalApp" target="EinerT_var104" xml:id="EinerT_var104"/>Heftighed!</l>
+<l>I Sorg-besp&#x00E6;ndte Bryst hevngierrig Smerte raaber,</l>
+<l>Og Tr&#x00F8;st i Blod og Mord omsunst at finde haaber,</l>
+<l>Forvirret, svag og &#x00F8;m, fortvivlet, grum og vred,</l>
+<l>Jeg veed ey, hvor jeg er, jeg veed ey, hvad jeg b&#x00F8;r &#x2013;</l>
+<l>Nu vil jeg s&#x00F8;ge H&#x00E6;vn, og nu mit Tab oprette,</l>
+<l>Nu drage Sv&#x00E6;rd mod dig, og nu mod Himlen tr&#x00E6;tte &#x2013;</l>
+<l>Men alt omsunst &#x2013; Min Mand, min S&#x00F8;n og selv jeg d&#x00F8;er.</l>
+<stage>(Hun <ptr type="commentary" target="EinerT_comm164" xml:id="EinerT_comm164"/>h&#x00E6;lder sig ned ved Siden af sin Mand.)</stage>
+</sp>
+<sp who="Einer">
+<speaker>Einer.</speaker>
+<l>Veninde! Kongen veed, dit Tab i Dag er stort;</l>
+<l>Bliv du ham stedse troe; siig alle Landets S&#x00F8;nner,</l>
+<l>At jeg, i det jeg d&#x00F8;er, paa Harralds Naade ski&#x00F8;nner &#x2013;</l>
+<l>Min Smerte tager til &#x2013; Farvel &#x2013; Min Tid er kort &#x2013;</l>
+</sp>
+<sp who="Harrald">
+<speaker><pb n="80"/>Harrald.</speaker>
+<l>Hast dyrebare Ven, og siig mig f&#x00F8;r du d&#x00F8;er;</l>
+<l>Hvad kan jeg mod din Sl&#x00E6;gt? hvad dig til &#x00C6;re gi&#x00F8;re?</l>
+<l>Mod Bergliod? mod hvem? lad mig dit &#x00D8;nske h&#x00F8;re.</l>
+<l>Tael, en saa trofast <ptr type="criticalApp" target="EinerT_var105" xml:id="EinerT_var105"/>Helt ey noget n&#x00E6;gtes b&#x00F8;r. </l>
+</sp>
+<sp who="Einer">
+<speaker>Einer.</speaker>
+<l>Endnu den sidste Rest af <ptr type="criticalApp" target="EinerT_var106" xml:id="EinerT_var106"/>Modet <ptr type="criticalApp" target="EinerT_var107" xml:id="EinerT_var107"/>samler sig,</l>
+<l>Og Sielen flygtende paa nye tilbagevender:</l>
+<l>Velsignet &#x00D8;yeblik, som Himlen selv mig sender!</l>
+<l>Din Gunst <ptr type="criticalApp" target="EinerT_var108" xml:id="EinerT_var108"/>o! Konge gi&#x00F8;r min D&#x00F8;d h&#x00F8;ytidelig.</l>
+<l>Min Bergliod er tryg ved Himlens Varet&#x00E6;gt.</l>
+<l>Min S&#x00F8;n er d&#x00F8;d; mit St&#x00F8;v forlanger ingen &#x00C6;re.</l>
+<l>Men h&#x00F8;r mit sidste Suk, du b&#x00F8;d mig at begi&#x00E6;re,</l>
+<l>See <ptr type="criticalApp" target="EinerT_var109" xml:id="EinerT_var109"/>Konge, dette Folk er Tambeskielvers Sl&#x00E6;gt &#x2013; &#x2013;</l>
+<l>Enhver saa kier for ham, som Frende, Broder, S&#x00F8;n,</l>
+<l>Antag dig deres N&#x00F8;d! Min Siel dig ey forlader,</l>
+<l>F&#x00F8;r du mig lovet har at v&#x00E6;re Folkets Fader</l>
+<l>Og unde Landet Fred; der er min sidste B&#x00F8;n &#x2013; &#x2013;</l>
+</sp>
+<sp who="Harrald">
+<speaker>Harrald.</speaker>
+<l>Min Siel er &#x00F8;m og r&#x00F8;rt, jeg intet n&#x00E6;gte kan.</l>
+</sp>
+<sp who="Einer">
+<speaker>Einer.</speaker>
+<l>Min Smerte taber sig; min D&#x00F8;d kan Norge gavne,</l>
+<l>Det Folk, som Harrald har, skal aldrig Fader savne:</l>
+<l>Lyksaliggi&#x00F8;r, o <ptr type="criticalApp" target="EinerT_var110" xml:id="EinerT_var110"/>Fred, min Konge, Folk og Land.</l>
+<l>Ja, Himmel! h&#x00F8;r min B&#x00F8;n, h&#x00F8;r her, min hele Siel</l>
+<l>I dette ene Suk sin sidste <ptr type="criticalApp" target="EinerT_var111" xml:id="EinerT_var111"/>Kraft udt&#x00F8;mmer;</l>
+<l>H&#x00F8;r du, som Hiertet seer, du som <ptr type="criticalApp" target="EinerT_var112" xml:id="EinerT_var112"/>Tyranner d&#x00F8;mmer!</l>
+<l>Gid, evig det maae gaae mit kiere Norge vel!</l>
+<l><pb n="81"/>Lyksalig blive hver, som Lov handth&#x00E6;ve t&#x00F8;r,</l>
+<l>Hver Faderlig Regent, som Folkets Klage r&#x00F8;rer!</l>
+<l>Mit Norge! din jeg var &#x2013; og dig mit St&#x00F8;v tilh&#x00F8;rer,</l>
+<l>For dig jeg streed og vandt, dig gav jeg Fred og d&#x00F8;er.</l> 
+<stage>(Han rykker Pilen ud af Brystet og falder.)</stage>
+</sp>
+<stage>Ende paa femte og sidste Optog.</stage>
+</div>
+</div>
+</body>
+</text>
+</TEI>

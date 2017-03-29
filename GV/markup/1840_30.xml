@@ -1,0 +1,5082 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>ANGELS SACHSISK KVAD</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2009-12-02"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="030"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1840">1840</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1840_30_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Phenix-Fuglen</titlePart>
+	<titlePart type="sub">ET<lb/>ANGELSSACHSISK KVAD<lb/>FÖRSTEGANG UDGIVET<lb/>MED<lb/>INDLEDNING, FORDANSKNING OG EFTERKLANG</titlePart>
+</docTitle>
+<byline>AF<lb/>
+	<docAuthor>NIK. FRED. SEV. GRUNDTVIG.</docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace>KJÖBENHAVN.</pubPlace>.<lb/>TRYKT I Fabritius de Cengnagels BOGTRYKKERI.<lb/>
+<fw type="graphic"/>
+<docDate>1840.</docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<pb facs="1840_30_page0002.png"/>
+<fw type="pageNum"></fw> 
+<pb facs="1840_30_page0003.png"/>
+<fw type="pageNum"></fw>
+</div>
+<div>
+<head>DEN DANSKE MAJESTÆT</head>
+<head>SKJOLDUNGERS ARVING</head>
+<head>Kong Christian den Ottende</head>
+<head>TILEGNES</head>
+<head>SOM</head>
+<head>LYKKE-VARSEL</head>
+<head>I</head>
+<head>KRONINGS-AARET</head>
+<head>PHENIX-KVADET</head>
+<pb facs="1840_30_page0004.png"/>
+<fw type="pageNum"></fw> 
+<pb facs="1840_30_page0005.png"/>
+<fw type="pageNum"></fw>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="italic"><hi rend="initial">K</hi>ongen döde under Finters Hjerte,</hi></l>
+<l><hi rend="italic">Med Naturen bar vi alle Sorg,</hi></l>
+<l><hi rend="italic">Dyb var altid Dannekvindens Smerte,</hi></l>
+<l><hi rend="italic">Som i Hytten, saa paa Kongeborg ,</hi></l>
+<l><hi rend="italic">Og paa Jorden findes ei de Helte,</hi></l>
+<l><hi rend="italic">Som ved Hjerte-Sorg jo maae hensmelte.</hi></l>
+</lg>
+<lg>
+<l><hi rend="italic">Kongen lever ved Midsommers-Tide,</hi></l>
+<l><hi rend="italic">Med Naturen smile vi paany,</hi></l>
+<l><hi rend="italic">Danske Aasyn er som Bogens blide,</hi></l>
+<l><hi rend="italic">Let sig klarer deres Pandesky;</hi></l>
+<l><hi rend="italic">Og naar Frygt ei Munden paa os binder,</hi></l>
+<l><hi rend="italic">Glædens Bæk i Frydesang udrinder.</hi></l>
+</lg>
+<lg>
+<l><hi rend="italic">Det, o Konge! er den store Sage,</hi></l>
+<l><hi rend="italic">Klædt paa Dansk i jævne Ord og faa,</hi></l>
+<l><hi rend="italic">Der sig strækker fra de gamle Dage,</hi></l>
+<l><hi rend="italic">Til Du staaer med <hi rend="bold">Skjoldung-Kronen</hi> paa,</hi></l>
+<l><hi rend="italic">Under Lovsang fra den Danske Tunge,</hi></l>
+<l><hi rend="italic">Som naar alle Skovens Fugle sjunge.</hi></l>
+</lg> 
+<pb facs="1840_30_page0006.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l><hi rend="italic">Aanden döde, som til Drot var kaaret</hi></l>
+<l><hi rend="italic">Over Bog og Fugl i Hedenold:</hi></l>
+<l><hi rend="italic">Barne-Englen, mild og bölgebaaret ,</hi></l>
+<l><hi rend="italic">Vingebreed som Dane-Markens <hi rend="bold">Skjold</hi>;</hi></l>
+<l><hi rend="italic">31agteslos han sank i Bölge-Dale,</hi></l>
+<l><hi rend="italic">Aanders Död paa Jord er dog kun Dvale.</hi></l>
+</lg>
+<lg>
+<l><hi rend="italic">Aanden svæver over Kongens Isse,</hi></l>
+<l><hi rend="italic">Svang paa Vinger sig fra Bølgens Skiöd,</hi></l>
+<l><hi rend="italic">Derom bringe Tidender fuldvisse</hi></l>
+<l><hi rend="italic">Folkesang i Barne-Tone söd,</hi></l>
+<l><hi rend="italic">Barnesang med store Söndags-Syner ,</hi></l>
+<l><hi rend="italic">Barne-Blik, som tordner ei, men lyner.</hi></l>
+</lg>
+<lg>
+<l><hi rend="italic">Skabe Liv, det kan paa Jord ei Haanden,</hi></l>
+<l><hi rend="italic">Sad deri end hele Verdens Magt;</hi></l>
+<l><hi rend="italic">Skabe Liv, det kan alene Aanden,</hi></l>
+<l><hi rend="italic">Men for Aanden er det gjort som sagt;</hi></l>
+<l><hi rend="italic">End har Lærdom Skjalden ei aðrættet,</hi></l>
+<l><hi rend="italic">At Livskraðen er i Aandedrættet.</hi></l>
+</lg>
+<lg>
+<l><hi rend="italic">Fode Aanden Bom paa Jorderige</hi></l>
+<l><hi rend="italic">Kan ei Pen, ei Haand paa nogen Viis,</hi></l>
+<l><hi rend="italic">Men kun <hi rend="bold">Ordet</hi>, som er <hi rend="bold">Aandens</hi> Lige,</hi></l>
+<l><hi rend="italic">Deler med ham al hans Daad og Priis,</hi></l>
+<l><hi rend="italic">Som en Dronning deler Kongens-Ære,</hi></l>
+<l><hi rend="italic">Skal af ham paasat Guld-Kronen bære.</hi></l>
+</lg>
+<lg>
+<l><hi rend="italic">Derfor, Konge! alle Dine Dage</hi></l>
+<l><hi rend="italic">I sit Rige <hi rend="bold">Aanden</hi> herske frit!</hi></l>
+<l><hi rend="italic">Giv Du ham Haandfæstningen tilbage,</hi></l>
+<l><hi rend="italic">Som den gaves för i Riget Dit!</hi></l>
+<l><hi rend="italic">Falske Aander skal dog ingensinde</hi></l>
+<l><hi rend="italic">Danmarks Barne Engel overvinde.</hi></l>
+</lg> 
+<pb facs="1840_30_page0007.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l><hi rend="italic">Og hans ægte Dronning, <hi rend="bold">Modersmaalet</hi>,</hi></l>
+<l><hi rend="italic">Som har trællet nu trehundred Aar ,</hi></l>
+<l><hi rend="italic">Giv den Glands, hvormed hun för har straalet,</hi></l>
+<l><hi rend="italic">Overstraalet Norden i sin Vaar!</hi></l>
+<l><hi rend="italic">Pustes bort Gravmulmet fra det Fjerne,</hi></l>
+<l><hi rend="italic">Brat hun Undrer da som Aðenstjerne.</hi></l>
+</lg>
+<lg>
+<l><hi rend="italic">Længe har det over Marken tonet:</hi></l>
+<l><hi rend="italic">Danmarks Haab er, <hi rend="bold">Christian Fredrik</hi>, Du!</hi></l>
+<l><hi rend="italic">Og naar Danmarks Haab med Dig er kronet,</hi></l>
+<l><hi rend="italic">Kommes skal det trindt paa Jord ihu:</hi></l>
+<l><hi rend="italic">Folk og Drot, som sig paa Gud forlade,</hi></l>
+<l><hi rend="italic">Blunde trygt og vaagne sjæleglade.</hi></l>
+</lg>
+<lg>
+<l><hi rend="italic">Dristig er mit Haab om <hi rend="bold">Danmarks Lykke</hi>,</hi></l>
+<l><hi rend="italic">Var i Verden mangen Dag til Spot;</hi></l>
+<l><hi rend="italic">Dog det blomstred selv i Dödens Skygge,</hi></l>
+<l><hi rend="italic">Throned mig i Barmen som en Drot,</hi></l>
+<l><hi rend="italic">Og mens Panden fures, Haaret graaner,</hi></l>
+<l><hi rend="italic">Stöder Haab i Luur, saa Frygten daaner.</hi></l>
+</lg>
+<lg>
+<l><hi rend="italic">Hvad forblommet för jeg kvad om <hi rend="bold">Balder</hi>,</hi></l>
+<l><hi rend="italic">Brustne Grave og opstandne Folk,</hi></l>
+<l><hi rend="italic">Toner klart nu om en <hi rend="bold">Phenix-Ælder</hi>,</hi></l>
+<l><hi rend="italic">Aandens Nyaar som sin egen Tolk,</hi></l>
+<l><hi rend="italic">Da i Straaleglands sig klart forbinde</hi></l>
+<l><hi rend="italic">Daad og Deilighed, som Mand og Kvinde!</hi></l>
+</lg>
+<lg>
+<l><hi rend="italic">Er det Gyldenaar ei alt oprundet</hi></l>
+<l><hi rend="italic">I vor Folkelige <hi rend="bold">Fredriðs</hi> Tid,</hi></l>
+<l><hi rend="italic">Fik ei, grödefuldt og fuglemundet,</hi></l>
+<l><hi rend="italic">Det med <hi rend="bold">Christian</hi> Konge-Vaaren blid;</hi></l>
+<l><hi rend="italic">Alle Fugle da med Himlen falde,</hi></l>
+<l><hi rend="italic">Sidste Gang har Aand bedaaret Skjalde.</hi></l>
+</lg> 
+<pb facs="1840_30_page0008.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l><hi rend="italic">Dog, hvad Engelen i Danevange</hi></l>
+<l><hi rend="italic">Længe ymted om og nynned paa,</hi></l>
+<l><hi rend="italic">For i Skok derom han Skjalde-Sange</hi></l>
+<l><hi rend="italic">Bod som Nattergale sammen slaae;</hi></l>
+<l><hi rend="italic">Det skal Tiden, naar den giör sit Bedste,</hi></l>
+<l><hi rend="italic">Dröðe vel men klare og stadfæste.</hi></l>
+</lg>
+<lg>
+<l><hi rend="italic">Thi det staaer med Tidens Finger skrevet:</hi></l>
+<l><hi rend="italic">Danmarks Engel er en sanddru Aand,</hi></l>
+<l><hi rend="italic">Og kun meer sandfærdig er han blevet</hi></l>
+<l><hi rend="italic">I den rene Sandheds Ledebaand,</hi></l>
+<l><hi rend="italic">Som fra Zions Bjerg til Danmarks Slette</hi></l>
+<l><hi rend="italic">Fandt saa myg ei nogen Folke-Vætte.</hi></l>
+</lg>
+<lg>
+<l><hi rend="italic">Danmarks Engel, som med Barne-Finger</hi></l>
+<l><hi rend="italic">Löðed meer end nogen Kiæmpe prud,</hi></l>
+<l><hi rend="italic">Slaae kun frit med sine Svanevinger,</hi></l>
+<l><hi rend="italic">Favne omt vort Modersmaal, sin Brud!</hi></l>
+<l><hi rend="italic">Som et himmelfalden Dronning-Smykke</hi></l>
+<l><hi rend="italic">Skinner over Skoven Danmarks Lykke.</hi></l>
+</lg>
+<lg>
+<l><hi rend="italic">Hil Dig da, <hi rend="bold">Kong Christian</hi>! med Din Krone,</hi></l>
+<l><hi rend="italic">Med Dit Folk og med Dit Time-Glar!</hi></l>
+<l><hi rend="italic">Danmarks Aand! sid herlig paa Din Throne!</hi></l>
+<l><hi rend="italic">Modersmaal! giör Loven mild og klar!</hi></l>
+<l><hi rend="italic">Folkesang! udbryd fra alle Munde!</hi></l>
+<l><hi rend="italic">Overstem alt Gny og Glam i Lunde!</hi></l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div> 
+<pb facs="1840_30_page0009.png"/>
+<fw type="pageNum"></fw>
+<head>Fortale.</head>
+<p><hi rend="italic"><hi rend="initial">D</hi>et var i <hi rend="spaced">Frederik</hi> den <hi rend="spaced">Sjettes</hi> Kronings - Aar (1815) at Thorkelins Udgave af "Bjovulf" begyndte et nyt Tidsrum i den Angel-Sachsiske Literatur1), der siden stedse klarere opstaaer som en Phenix af sin Aske, og det var netop i Kronings-Dagene, jeg gav den förste Pröve af min Fordanskning og lovede Geheimeraad Bülow at fuldföre den, som da ogsaa alt for lyve Aar siden er skeet2).</hi></p>
+<p><hi rend="italic">Det er derfor, synes mig, ganske baade i sin <hi rend="spaced">historiske</hi> og <hi rend="spaced">poetiske</hi> Orden, at det Angel-Sachsiske Digt om "<hi rend="spaced">Fuglen Fenix</hi>" förste Gang udkommer, ogsaa i Danmark, i <hi rend="spaced">Chrislian</hi> den <hi rend="spaced">Ottendes</hi> Kronings-Aar, og at jeg i Kronings - Dagene holder mit literære Sok-Bryllup med "Anguls Oldkvad" som netop ved den forrige Kroning, 25 Aar tilbage, satte mig saaledes i Fyr og Flamme, at jeg med stor poetisk Forvovenhed gav dem min Haand, uden at kiende synderlig til dem, og som jeg nu, eðer Medgang og Modgang, har saa kiære, at jeg ogsaa her maa bekiende, Lykken var meget bedre end Forstanden.</hi></p>
+<p><hi rend="italic">At jeg nu vil holde dette Sölv-Bryllup saa offenlig som mueligt, dertil fattes jeg heller ikke Grunde, som synes mig fyldestgiörende, thi deels har jeg paadraget mig et Skin af Utroskab, jeg maa see til at klare fra mig, og deels har jeg herved den önskeligste Leilighed til at give mit Fædreneland et godt Forvarsel, som jeg naturligviis griber med Glæde.</hi></p>
+<p><hi rend="italic">Hvad nu försi min tilsyneladende Utroskab angaaer, da underholder jeg ingenlunde Publicum dermed, fordi jeg (roer, den Sammenblanding af offenlige og huslige Forhold, der for Öieblikket horer til Dagens Orden, gavner det virkelige "Fædreneland," men</hi></p>
+<p><hi rend="italic">1) De Danorum Rebus Gestis. Poema Danicum Dialecto Anglo-Saxonica. Hafniæ MDCCCXV.</hi></p>
+<p><hi rend="italic">2) Bjovulfs Drape. Et (Gothisc Heltedigt fra forrige Aartusinde. Paa danske Riim Kjöbenhavn 1820</hi></p>
+<pb facs="1840_30_page0010.png"/>
+<fw type="pageNum">10</fw>
+<p><hi rend="italic">fordi det i alle Maader maa kaldes en offenlig Sag, og fordi den hænger paa det nærmeste sammen med den Angel-Sachsiske Literaturs nærværende Tilstand og Udsigt, som jeg tor haabe, mine Læsere vil skiænke lidt af den Opmærksomhed) den i mine Øine fortjener.</hi></p>
+<p><hi rend="italic">Det var i Aaret 1828) da jeg, saa at sige, stod ledig paa Torvet) Kong <hi rend="spaced">Frederik</hi> den Sjette engang spurgde mig, hvad jeg bestilde, og jeg svarede: ingen Ting, Deres Majestæt! og jeg veed heller ikke noget at giöre for Öieblikket, med mindre det maatte behage Majestæten at lade mig reise til England, og nærmere undersöge de <hi rend="spaced">Angelsachsiske</hi> Haandskriðer) som er af megen Viglighed ogsaa for Oplysningen af <hi rend="spaced">Danmarks</hi> Oldtid) men er aldeles foragtede i deres Hjemstavn. Det Ord greb Kongen med levende Deeltagelse) og Fölgen deraf blev mine Engelske Reiser 1829-31, som hidtil synes slet ikke at have givet noget Udbytte) men som jeg dog skal stræbe at vise, var ingenlunde örkeslöse. Dette vilde vist nok ikke nu trængt til nyt Beviis, hvis det "<hi rend="spaced">Angelsachsiske Bibliothek</hi>" hvortil jeg paa Engelsk gav en Udsigt, ei var blevet kvalt i Fodselen1), men nu ligner den et höitideligt Kiærtegn til Bod for Hverdags-Kulde, som jeg langtfra at kunne beraabe mig paa, snarere har ondt ved at forsvare.</hi></p>
+<p><hi rend="italic">Sagen var imidlertid den, at da jeg förste Gang kom til England, og udbredte mig med barbarisk Veltalenhed over den Angel-Sachsiske Literaturs Skiönhed og ulykkelige Skiæbne, da var et medlidende Smiil over min slette Smag alt det Svar jeg fik, da alle Kiendere vilde vide fra förste Haand, at hvad jeg löðede til Skyerne som en Ælve-Dronning, var en gammel rynket Hex, der med sine sorte Konster og med sin barbariske Tænkemaade fuldelig havde fortjent de Spark og Skiældsord, hvormed Hume, Warton, og andre Gentlemen af den fineste Classiske Dannelse, havde seet sig nödt til at affærdige hendes Paatrængenhed. Det ærgrede mig naturligviis, ikke blot for Sagens men især for min egen Skyld, og jeg benyttede mig da paa det Grusomste af Vedkommendes Ubekiendtskab med hvad de fordömde, til at drille dem med den store Selv-Fornægtelse, de viiste, ved saa ganske at overlade os det ny Europas Historiske og Poetiske Dronning, med hele den verdenshistoriske Navnkundighed, vi Danske, som hendes vel svage men trofaste Riddere, vare sikkre nok paa at vinde, men vilde af naturlig Beskedenhed gierne deelt med vore höibaarne og glimrende Frænder paa Anguls-Öen, der unægtelig havde nærmest Krav paa Æren. Da nu dette, ved mit andet, heel uventede Besög, begyndte at virke, opfordrede man mig halv</hi></p>
+<p><hi rend="italic">1) Bibliotheca Anglo-Saxonica. Prospectus. London MDCCCXXXI.</hi></p>
+<pb facs="1840_30_page0011.png"/>
+<fw type="pageNum">11</fw>
+<p><hi rend="italic">i Spog og halv i gnaven Alvor, til at bringe den Skiönhed for Dagens Lys, jeg aldrig kunde blive træt af at berömme, og forsikkrede, at mine Bestræbelser for Oplysning af den dunkle Sag ikke skulde fattes Understöttelse, og da nu selv Boghandlerne Black and Young tilbod deres Tjeneste, kunde jeg umuelig vægre mig ved at giöre et Skridt, der godt kunde synes mislykket og dog tjene til Sagens Fremme. Saaledes udkom min Udsigt til et <hi rend="spaced">Angel-Sachsisk Bibliothek</hi>, hvis Udgivelse af mig vel grændsede til Umuelighederne, men som jeg vidste, behøvede kun at giöre lidt Opsigt, for at finde Udgivere i England selv. Langtfra derfor i Udsigten at skaane den Engelske Ömfindtlighed, stræbde jeg netop med Flid at saare den saa dybt som mueligt, og sagde, blandt Andet, reent ud, "Dersom jeg var en Engelsk, istedenfor en Dansk, Digter og Historiker, da vilde jeg tiltale mit Fædreneland med den "udödelige Sangers" Ord:</hi></p>
+<lg>
+<l><hi rend="italic">Dorskere er du end Urten, som raadner</hi></l>
+<l><hi rend="italic">Paa Fedme-Jords-Bredden af Lethe i Mag,</hi></l>
+<l><hi rend="italic">Vil du dig ei rore endnu;</hi></l>
+</lg>
+<p><hi rend="italic">men skiöndt jeg nu er langtfra at kunne udtrykke mig paa Engelsk med saadan Fynd, skulde jeg dog ikke beklage, at man vragede min Tjeneste, naar det kun maatte vise sig, at det ikke var Sagen, men kun mig man betragtede med Ligegyldighed."</hi></p>
+<p><hi rend="italic">Det tegnede nu vel et Öieblik til, at Subskriptionen vilde blive tilstrækkelig, og jeg altsaa nødes til enten med Skam at trække mig tilbage eller pröve paa den Urimelighed at forblive i Danmark og staae i Spidsen for et saadant Værk i England, og jeg havde endnu Nok af min poetiske Forvovenhed til uden Betænkning at vælge det Sidste; men da jeg, for at lægge Haand derpaa, kom tredie Gang til England, havde min Udsigt gjort sin naturlige Virkning, saa man aabenbar betragtede og behandlede mig som en Dansk Viking, der, eðer mine kiære Forfædres Exempel, vilde berige baade mig selv og Danmark med Englands Skatte, og Boghandleren var nær ved reent ud at sige, han ikke turde befatte sig mere med mig, for ikke at stemples til en Landsforræder.</hi></p>
+<p><hi rend="italic">Man misforstaae mig imidlertid ikke, som om jeg vilde beklage mig over mit forulykkede Tog 1831, thi jeg regner de Sommer -Maaneder, jeg da tilbragde i <hi rend="spaced">London</hi> og <hi rend="spaced">Cambridge</hi>, til de behageligste saavelsom de lærerigste i mit Liv, og personlig mödte jeg al den Agtelse og Forekommenhed, jeg kunde önske, men <hi rend="spaced">Sagen</hi>, Udgivelsen af de vigtige og dyrebare Levninger af den <hi rend="spaced">förste</hi> nyeuropæiske Literatur, det var nu blevet en</hi> 
+<pb facs="1840_30_page0012.png"/>
+<fw type="pageNum">12</fw>
+<hi rend="italic"><hi rend="spaced">Ær es-Sag</hi> for <hi rend="spaced">England</hi>, man umuelig af Föielighed mod en Fremmed kunde opgive. Da nu dette netop var, hvad jeg fra Begyndelsen havde önsket, blev jeg ikke vanskelig al tröste, (skiöndt det var lidt nærgaaende af en vis Mand at fortælle, at Udgivelsen af et Angelsachsisk Bibliothek var hans dybe Idee, som jeg tilfældigviis havde opsnappet og vilde nu ödelægge ham ved at udfore) og jeg har derfor siddet meget taalmodig og seet paa, hvordan man udgiver den ene Deel eðer den anden af Værket, jeg bebudede. Saaledes blev Cædmons <hi rend="spaced">Paraphras</hi> udgivet af Thorpe 1832 og Bjovulf af Kemble 1835, medens Layamons <hi rend="spaced">Rimkrönike</hi> længe har været under Trykken og er maaskee i dette Öieblik udkommet fra min höistærede Ven Sir <hi rend="spaced">Frederik Madden's</hi> Haand, ja selv Exeter-Bogen, som jeg havde nogen Grund til at betragte som et Æres-Punkt, truer Thorpe med at bringe for Lyset, uden at jeg tor beklage mig enten derover, eller selv over den Modgang, at de Engelske Angelsachsere knap synes at vide, jeg er til, eller engang at vide, hvor de Rettelser til Thorkelins Text af Bjovulf, som staae bag ved min danske Oversættelse, er kommet fra.</hi></p>
+<p><hi rend="italic">Saaledes tor jeg da tröste mig med, at min tilsyneladende Utroskab mod den Angelsachsiske Literatur reiste sig netop af en Kiærlighed til den, saa uegennyttig som man i vore Dage kan vente, men skjult Kiærlighed bliver sjelden skattet, og derfor agter jeg nu ved et offenligt Sölv-Bryllup at vise dens Virkelighed. Dermed troer jeg nu ogsaa Ælve-Dronningen skeet en lille Tjeneste, da hendes Engelske Riddere har en vis stödende Buthed i deres Væsen, saa det synes, som det langt mindre er Dronningens Skiönhed, de brænde og hendes Ære de fægte for, end Udvidelsen af det hellige Romerske Rige under Heiser <hi rend="spaced">Lexicographus</hi>, semper Augustus, og Keiserinde <hi rend="spaced">Grammatica</hi>, semper livida, de har for Öie, Noget, der ligesaalidt kan tækkes Dronningen, som hendes oprigtige Elsker. Jeg skulde derfor önske i en Dansk Udgave af "<hi rend="spaced">Bjovulfy</hi> at give mine Engelske Medbellere et godt Exempel, og da alle Engelske Bøger desuden har den Natur feil at falde Smaafolk meget for dyre¹), tor jeg troe, det i alle Maader var en Kiærligheds - Gierning, og Texten, som jeg paa det Nöieste har sammenlignet med den eneste Haandskrið i det Brittiske Museum, ligger nu ogsaa færdig til Udgivelse, men Bekostningen gaaer over mine Kræðer, saa jeg for det Förste maa nöies med at vise Villien med nærværende lille Prove af den endnu utrykte <hi rend="spaced">Exeter-Bog</hi>.</hi></p>
+<p><hi rend="italic">1) Kembles "Bjowulf" uden Oversættelse og Glossar koster sa iledes syv Rd, og med dem fjorten.</hi></p>
+<pb facs="1840_30_page0013.png"/>
+<fw type="pageNum">13</fw>
+<p><hi rend="italic">At denne Bøger en Æres-Punkt for mig, anmærkede jeg nys, og hvordan den er blevet det, skal jeg strax tage ung den Frihed at fortælle, naar jeg faaer erindret , at "Bjovulf er" meer, er en Æres-Punkt for <hi rend="spaced">Danmark</hi>, ei blot fordi dette gammelnordiske Heltedigt for en stor Deel handler om Danmark og kom först her for Dagens Lys, men især fordi den Danske Udgave giör os daglig mere Skam, tiden at man vil erkiende min Fordanskning og medfölgende Rettelser for klækkelig Bod, saa det var meget önskeligt, jeg blev istand til at besörge en Dansk Udgave af Texten , som jeg med hele mit Autorskab tor indestaae for, skulde paa denne Punkt redde Danmarks Ære.</hi></p>
+<p><hi rend="italic">Nu angaaende <hi rend="spaced">Exeter-Bogen</hi>, da er det en lille Foliant paa 130 Pergaments-Blade, ypperlig skrevet med store Bogstaver i det 10de eller 11te Aarhundrede , men paa sine Steder fordærvet af Fugtighed , udentvivl endeel forkvaklet ved sidste Indbinding og i det Hele indtil for nylig betragtet og behandlet med den mærkværdigste Skiödesldshed.</hi></p>
+<p><hi rend="italic">Denne Samling af Angel-Sachsiske Smaadigte, den Eneste i sit Slags, som man allerede sporer i Kataloget over Exeter-Capitlets Böger i det 11te Aarhundrede, laae nemlig endnu, da jeg kom til Exeter 1830, henslængt i en Krog af Archivet, og indtil 1826, da Præsten Daniel Conybeare udgav sin Broders magre Excerpter af den1), kiendte Bogormene den kun af de nogne, tildeels tomme Titler i Wanleys Catalog. Da jeg ved mit förste Besög i England forespurgde i det <hi rend="spaced">Brittiske Museum</hi>, om man dog ikke der havde eller vilde skaffe sig en Afskrið af denne ligesaa ubekiendte som mærkværdige Bog, smilde man fornemt ad denne min Omhyggelighed, men da jeg næste Aar kom igien og sagde, jeg agtede mig til Exeter, for med egne Öine at see hvad det var, man betragtede saa haanlig, da vaagnede man med Eet, og skrev uopholdelig til Kapitlet i Exeter, om at laane Museet den Skat til Afskrivning. Da jeg desuagtet gjorde Pillegrims-Reisen, var jeg nær blevet betroet til at bringe Liggendefæet til London, men det fandt man dog for voveligt, og der saae jeg da först Exeter-Bogen under fuld Afskrivning ved mit tredie Besög.</hi></p>
+<p><hi rend="italic">Jeg vil ikke her besvære Læseren med en Indholds-Liste, som de Faa, der önske den, kan læse fuldstændig hos Conybeare, men kun bemærke, at af dens fuldstændige Dele udmærker sig især det Sidestykke til de Eddiske Digte, som under Navn af "The Traveller" er aðrykt hos Conybeare og Kemble, og "Fuglen Fenix," som findes i Bogen fra 56a Ul 65b, og træder her förste Gang for Lyset. At den Text, jeg her leverer eðer</hi></p>
+<p><hi rend="italic">1) Illustrations of Anglo-Saxon Poetry. London. 1826.</hi></p>
+<pb facs="1840_30_page0014.png"/>
+<fw type="pageNum">14</fw>
+<p><hi rend="italic">min egen Afskrið, kan modtage enkelte Berigtigelser, hvor man har Grundskriðet ved Haanden, tor jeg vel ikke tvivle paa, men da min Afskrið baade er taget og sammenlignet med Flid, og har for mig kun meget faa dunkle Steder, hvor Alt hentyder paa tabte Linier, tor jeg i det Hele indestaae for dem Rigtighed, og haaber al have afdeelt Linierne med lidt bedre Takt end de Engelske Angelsachser endnu har erhvervet sig, skiöndt de, ved Hjelp især af Rasks Oplysninger, unægtelig har gjort Kæmpeskridt siden Begyndelsen af dette Aarhundrede, da man i England endnu ei havde mindste Begreb om <hi rend="spaced">Rim-Stavene</hi> i de Angel-Sachsiske Vers.</hi></p>
+<p><hi rend="italic">At jeg for Resten har hele Exeter-Bogen og en god Deel mere Angelsachsisk afskrevet, for i Nödsfald at kunne med en Haandsrækning fremme Udgivelsen, og have en velgrundet Mening om, hvordan Engellænderne besörge den, det skylder jeg endnu <hi rend="spaced">Frederik</hi> den <hi rend="spaced">Sjettes</hi> höilovlige Ihukommelse og mine Landsmænd at anmærke, og henlever deres ærbödigste Tjener</hi></p>
+<p><hi rend="italic">Helligaðen för Kronings-Dagen.</hi></p>
+<p><hi rend="italic"><hi rend="align(right)">N. F. S. Grundtvig.</hi></hi></p>
+<fw type="graphic"/>
+</div>
+<div> 
+<pb facs="1840_30_page0015.png"/>
+<fw type="pageNum">15</fw>
+<head>PHENIX-MYTHEN.</head>
+<fw type="graphic"/>
+<p><hi rend="initial">A</hi>f hele Oldtidens Billed-Sprog i egenlig Forstand er neppe noget Ord blevet siddende saa fast, som "Fuglen Phenix," der selv hos os baade i daglig Tale betyder en stor Sjeldenhed, og siger kun alt for tit ved höist ubetydelige Tings Fornyelse "at reise sig af sin Aske;" men det er ogsaa virkelig et Gaade-Ord (en Mythe) der fortjende at mindes, og maa önskes anderledes reist af sin Aske, end det er skeet ved Latinskolens Fodmaalere, der paa deres Krybe-Krage til Parnasset (Gradus ad Parnassum) kun drev allehaande Spögeri med. "Fuglen Phenix" som med alle de rene og urene Dyr og Fugle, de fandt Blyants-Tegninger af, især hos deres poetiske Trefoldighed: <hi rend="spaced">Ovid, Horats</hi> og <hi rend="spaced">Virgil</hi>. Eðer fattig Leilighed var det imidlertid dog godt, at <hi rend="spaced">Ovid</hi> og hans Classiske Beundrere værdigede Fuglen Phenix et Sideblik i Forbigaaende, thi kun derved er sagtens hans Navn og Grund-Betydning frelst fra den dybe Forglemmelse, hvori ikke blot Nordens men ogsaa Ostens Billedsprog giennem Middelalderen nedsank.</p>
+<p>Forst i nærværende Aarhundrede, der sagtens vil vinde Navn af "Opstandelsens fra de Döde," er der oprundet en Nyaarstid saavel for Ostens som Nordens gamle Billed-Sprog, og man har da hverken glemt at samle Alt hvad der i bekiendte Oldskriðer fandtes om Fuglen Phenix, ikke heller sparet paa Giætninger om hvad dette Sindbillede havde at betyde1), men ogsaa her turde den danske Eðersamling fylde meer i Skieppen end den Franske og Tydske Host, deels fordi man slet ikke kiendte det Angelsachsiske Digt, der först nu kommer for Lyset, og især fordi det aldrig vil lykkes upoetiske Folk at forklare hvad Old-Poesien har at betyde.</p>
+<p>Det Angelsachsiske Digt, der sagtens er fra det <hi rend="spaced">Tiende</hi> Aarhundrede, horer vist nok ikke til Phenix-Mythens Kilder, men det giör ligesaalidt de <hi rend="spaced">Latinske Vers</hi>, der nærmest stod Skjalden for Öie, eller Nogen af alle de Classiske Billinger, hvori vi mere spore end finde den ligesaa folkelige som ældgamle Forestilling om Paradiis-Fuglen, der lægger sig selv paa Baalet, men opstaaer derfor ogsaa gienfödt af sin Aske.</p>
+<p>1) 1 Magister Henrichsens latinske Pröveskrið om Phenix - Mythen (De Phönicis Fabula) fra 1825 og 27 findes nærmere Underretning herom.</p>
+<pb facs="1840_30_page0016.png"/>
+<fw type="pageNum">16</fw>
+<p>Hvorvidt der nu ogsaa i <hi rend="spaced">Hebræernes</hi> hellige Skrið findes Spor af Fuglen Phenix, derom trættes de Lærde, og det har de godt ved, da Sporene allenfalds er faa og dunkle, og det <hi rend="spaced">Græske</hi> Navn naturligviis ikke findes i <hi rend="spaced">Ebraisken</hi>; men at <hi rend="spaced">Ebræerne</hi> har havt Sagn om en Fugl, der eðer tusind Aars Forlob brændte sig selv og levede saa op paany, forst som en Orm, derom tillade de gamle Rabbiner os ikke at tvivle1); thi at man paastaaer, de har laant det af Grækerne, det er kun Snak i Taaget, da man hverken kan vise, det var deres Vane at fortolke <hi rend="spaced">Skriðen</hi> eðer <hi rend="spaced">Græske</hi> Fabler, eller engang har fundet Mythen saaledes hos nogen <hi rend="spaced">Græker</hi>, Nogle af Rabbinerne lægge desuden til, hvad de umuelig kunde lære af Grækerne, at denne Fugls bestandige Gienfödelse var dens Lön, fordi den ikke, som alle andre Fugle og Dyr i Paradiset, lod sig af Eva overtale til at smage Frugten af det forbudne Træ. De Steder i Skriðen, hvor man har fundet Vidunder-Fuglens Spor, er for Resten den 103die Psalme, hvor der nævnes en Örn, hvis Ungdom fornyes, og Jobs 29de Kapitel, hvor Skjalden siger, han vil doe i sin Rede og mangfoldiggöre sine Dage som hvad vi oversætte "Sand," men hvad Rabbinerne sige er Under-Fuglens Navn "<hi rend="spaced">Kol</hi> eller <hi rend="spaced">Kul</hi>," og eðer denne Fortolkning, som <hi rend="spaced">Beda</hi> anförer, beraaber vor <hi rend="spaced">Angel-Sachsiske</hi> Skjald sig paa <hi rend="spaced">Job. Bochart</hi> siger ved denne Leilighed et sandt Ord, som man maatte önske, alle Mythe - Fortolkere vilde lægge paa Hjerte, "heller tænke rigtig med Menigmand end fare vild med de Lærde," men han viser desværre ikke sin Tro af sine Gierninger, thi eðer selv at have sporet Folke-Troen om den sære Fugl fra <hi rend="spaced">Ganges</hi> til <hi rend="spaced">Tiberen</hi>, hænger han sig i en los Tale hos <hi rend="spaced">Plinius</hi> om en Palme-Art, der faaer sig selv, og slutter deraf, at siden <hi rend="spaced">Grækerne</hi> benævne Fuglen og Palmen med samme Navn (Phenix), saa er Sagnet om Fuglen med de mange Navne oprundet af det Pliniske Palmefro. Vi maae imidlertid være billige nok til at erindre, at Hoved-Grunden, hvorfor de Lærde ikke vilde taale mindste Spor af Fuglen Phenix i Skriðen, og helst forvandlede ham til en Palme, var den Aandlöshed, hvormed man betragtede Oldtidens Billed-Sprog, saa Spörgsmaalet syndes dem aldeles <hi rend="spaced">naturhistorisk</hi> at giælde den <hi rend="spaced">haandgribelige</hi> Tilværelse af saadan en urimelig Fugl, og denne aandlöse Betragtning af Old-Poesien var saa <hi rend="spaced">classisk</hi>, at baade Roms historiske og naturhistoriske Lys, baade <hi rend="spaced">Plinius</hi> og <hi rend="spaced">Tacitus</hi>, tale meget alvorlig om, hvorvidt det var den rette Fugl <hi rend="spaced">Phenix</hi>, Man sendte til Rom under Keiser <hi rend="spaced">Tiberius</hi>2). Derfor var det vore Lærde en Samvittigheds-Sag, at samme Fugl ei maatte findes i Skriðen, thi vel gjorde det dem lige saa ondt at finde Stænk af Overtro hos <hi rend="spaced">Plinius</hi> og <hi rend="spaced">Tacitus</hi>, som hos <hi rend="spaced">Job</hi> og <hi rend="spaced">David</hi>, men stod Fuglen i Skriðen, da maatte de eðer Tidens Tankegang nödvendig lade ham være til, og derfor maatte den Rabbinske Fortolkning af Stedet hos Job slaaes ihjel og begraves i "Sandet," og Ornens Gienfödelse i Psalmen kun betyde, at han skiðede Fier som andre Fugle.</p>
+<p>Uagtet nu baade <hi rend="spaced">Plinius </hi> og <hi rend="spaced">Tacitus</hi> og deres lærde Dyrkere var aandlöse</p>
+<p>1) See <hi rend="spaced">Bocharts</hi> Bog om Bibel-Dyrene (Hierozoicon) 2den Decl S. 166 og 817-25.</p>
+<p>2) Plins Naturhistorie X. 2. og Taciti Aarböger VI. 28</p>
+<pb facs="1840_30_page0017.png"/>
+<fw type="pageNum">17</fw>
+<p>nok til selv at giöre en urimelig Træk-Fugl af Aandens gamle Sindbillede, saa er slige Forvandlinger dog saa aldeles i den <hi rend="spaced">Ægyptiske</hi> Smag, at vi maatte slutte, de lærde Romere havde faaet deres <hi rend="spaced">haandgribelige</hi> Fugl Phenix fra <hi rend="spaced">Ægypten</hi>, om end ikke <hi rend="spaced">Tacitus</hi> udtrykkelig havde forsikkret, han var der at see; men nu har vi endog et större Vidnesbyrd end hans, nemlig <hi rend="spaced">Herodots</hi>, vel ikke om at man saae Phenix, naar man kom til Ægypten, men dog om at han i Præsternes Öine var ligesaa virkeligt et Dyr som Apis "Guds förstefödte Oxe."</p>
+<p>Præsterne i Soelbjerg (Heliopolis) fortalde nemlig <hi rend="spaced">Herodot</hi>, at to Gange i hvert Aartusinde kom den hellige Fugl Phenix fra <hi rend="spaced">Arabien</hi> til dem for at begrave sin Fader i Soltemplet, og förde Fader-Liget med sig i et Myrrha-Æg, hvad de dog ikke kunde faae Grækeren bundet paa Ærmet, skiöndt de viiste ham Billedet af Fuglen saa stor som en Örn1).</p>
+<p>Vi vil nu overlade det til Natur-Forskerne at domme mellem Grækeren og de Ægyptiske Præster, og vende os til de <hi rend="spaced">Classiske</hi> Digtere, for at see hvad de veed eller har Lyst til at fortælle om Fuglen Phenix, men det er ikke ret meget; thi <hi rend="spaced">Homer</hi> tier bomstille, og skiöndt <hi rend="spaced">Hesiod</hi> i sin Velmagt skal have nævnet ham, var det dog kun for at sige, han kunde leve omkap med ni Ravne2), og da der ikke engang skal findes Saameget hos <hi rend="spaced">alle</hi> de Græske Digtere, vi nu kan læse, seer man let at Grækenland er ingenlunde Fuglens poetiske Hjemstavn. At nu Rom, hvor man tog saa haandfast paa Billed-Sproget, og hvor Digterne samtlig nedstamme fra den Nattergal der bider Faar, end mindre har udklækket Sol-Fuglen, fölger af sig selv, men dog har den store <hi rend="spaced">Ovid</hi> i sine Forvandlinger skiænket ham sexten Linier, hvoraf vi lære, at Fuglen, som <hi rend="spaced">Assyrierne</hi> kalde <hi rend="spaced">Phenix</hi>, eðerat have levet femhundrede Aar, bygger sig en Rede i Egen eller Palmen af lutter södtduðende Urter, og ender der sine Dage, men avler en Son eðer Döden, som begraver sin Fader i Solens Tempel 3).</p>
+<p>Gavmildere var <hi rend="spaced">Claudian</hi>, saavidt man veed, en <hi rend="spaced">Alexandriner</hi>, der gjorde Latin-Skolen Ære, men da han levede i Jern-Alderen, og havde ingen <hi rend="spaced">August</hi> eller Mæcen, men kun en <hi rend="spaced">Honor</hi> og <hi rend="spaced">Stilico</hi> at synge for, kunde han ogsaa sagtens anvende et Hundrede Linier paa Fuglen Phenix, og her hore vi da, han har hjemme paa hin Side Indien, lever i tusind Aar og hensmelter godvillig i Straaleglands til en herlig Opstandelse4). I intet andet Digt har vi da Mythen saa fuldstændig, som i det, der tilskrives <hi rend="spaced">Lactants</hi>5) og i det derpaa byggede <hi rend="spaced">Angel-Sachsiske</hi>, hvor vi see den ny Phenix udvikle sig af den Gamles Aske som en Orm, der enstund maa födes af <hi rend="spaced">Morgenduggen</hi>, for den kan skyde Hammen og vinde Fugle-Skikkelsen, men arver derpaa al sin Faders Herlighed og drager med hans Aske tilbage til Paradiset.</p>
+<p>1) Herodots Euterpe K. 73.</p>
+<p>2) Plins Naturhistorie VII 49.</p>
+<p>3) Ovids Forvandlinger XV. 387.</p>
+<p>4) Claudians saakaldte förste Idyl.</p>
+<p>5) Aðrykt under den Angelsachsiske Text.</p>
+<pb facs="1840_30_page0018.png"/>
+<fw type="pageNum">18</fw>
+<p>Vist nok er de nyere Lærde meget vrede paa den "<hi rend="spaced">Orm</hi>," som her kommer for Dagen, og mener, den er kröbet ind i Phenix-Mythen fra <hi rend="spaced">Rabbinernes</hi> ormstukne Blade, men da de ikke kan nægte, Ormen findes ligesaavel hos <hi rend="spaced">Plin</hi> og <hi rend="spaced">Artemidor</hi> som hos <hi rend="spaced">Rabbinerne</hi>, saa er deres Kræsenhed i dette Stykke mig kun forklarlig af hvad man skiemteviis kalder en ond Samvittighed, thi at det ikke var af <hi rend="spaced">poetiske</hi> Grunde, de vragede Ormen, veed man jo forud og vil desuden i det Fölgende see oplyst.</p>
+<p>Naar vi nemlig lade den haandgribelige Fugl Phenix flyve til Rom, til <hi rend="spaced">Ægypten</hi>, og hvor han ellers kan have Ærende, da er det os naturligviis desmere om det Aandelige ved ham eller om Bemærkelsen og Betydningen at giöre, og saaledes var det allerede med den <hi rend="spaced">Angel-Sachsiske</hi> Skjald, hvis Forklaring er omtrent ligesaa lang som Fortællingen. Oldtidens Myther, som aldrig har været mere værdt end man kunde fole, laae i dem, er os ogsaa videnskabelig kun saameget værdt, som vi kan see i dem, og havde derfor Fuglen <hi rend="spaced">Phenix</hi>, som de Lærdeste vil mene, ikke andet at betyde end en vis Omlobs-Tid af Planeterne, det være sig fem eller ti eller fiorten hundrede Aar, da var den aabenbar ei værdt at nævne; thi at finde paa dunkle Navne for soleklare Ting er altid spildt Uleilighed, og var det Poeternes Mesterstykke, da udelukdes de med Rette af Platos Republik. Da det imidlertid selv i vore Dage kun er Dværgene under Parnasset, der more sig med at lave Gaader og morke Taler af nærværende, öiensynlige og soleklare Ting, medens alle Hoved-Skjaldene stræbe i Billed-Sprog at give os en levende Forestilling om det <hi rend="spaced">Usynlige</hi> og Fraværende, saa löbe de lærde Herrer uden Tvivl med Limstangen, naar de i Billed-Sproget af Phantasiens Heroer kun opdage deres egne Hverdags-Tanker. Naar vi derfor indtil videre lade det staae ved sit Værd, hvad de gamle Seere enten i Phenix-Mythen eller i nogen Anden vilde fremstille, da er det ingenlunde, fordi vi troe det mueligt, at de begeistredes selv af og stræbde at begeistre Alle med ingen Ting i Grunden, men kun fordi det, eðer Sagens Natur, er os umueligt at bevise, hvad de gamle Skjalde tænkde, og fordi det til Lykke ingen Forskiel giör paa Nytten og Fornöielsen, vi kan have af Oldtidens Billedsprog, enten Mesterne for det tænkde lidt eller meget derved, naar det ligefuldt er skikket til at giemme og levende udtrykke store og dybe Tanker.</p>
+<p>Udspörge vi nu Oldtiden selv om Phenix - Fuglens Betydning, da svarer den, som vi maatte vente, at det er naturligviis den Udödeligheds-Spire og deraf udspringende Gienfödelse og Fornyelse, som vi deels spore i Menneske-Livet og deels önske maatte findes i os og alt menneskeligt Storværk, saa naar <hi rend="spaced">Ægypterne</hi> dermed forbandt et stort Verdens-Aar, var det kun fordi de i Himmel-Legemernes Kreds-Lob sögde Grunden til Sjæle-Vandringen og til alle de store Omsving i Menneske-Slægtens og Jordens Historie. Selv Ægypterne var da ikke nær saa beskedne, som de nyere Lærde, der virkelig synes at troe, at <hi rend="spaced">Almanakkens</hi> evige Sandheder er baade langt vigtigere og mere poetiske end hele Menneske-Livet med alle dets Omskiðelser, dets Indgang og Udgang, Længsel og Haab. De veed derfor knap, hvordan de skal undskylde <hi rend="spaced">Kirke-Fædrene</hi>, der, som de nödvendig maatte, saae i Phenix-Mythen et deiligt Forbillede baade paa Herrens <hi rend="spaced">Opstan-</hi> 
+<pb facs="1840_30_page0019.png"/>
+<fw type="pageNum">19</fw>
+<hi rend="spaced">delse</hi> og paa vores; men vi vil derimod glæde os over, at denne Forklaring findes endnu langt varmere og dristigere udfort hos den <hi rend="spaced">Angel-Sachsiske</hi> Skjald end hos Nogen af Kirke-Fædrene, og kun i det Höieste beklage at hans Anskuelse ikke blot som en Phenix maatte gaae igiennem Dödens Porte, men slumre henved et Aartusinde i de Dödes Rige. Dog ogsaa her giælder Ordsproget "seent men södt," thi ogsaa her fölger Klarheden med Opstandelsen, saa den gamle Anskuelse af Phenix-Mythen, ligesom i det hele den gamle Poesie, maatte nödvendig giennemgaae Döden for at renses fra det Falske og helbredes for det Skiæve, der klæbede ved den.</p>
+<p>Nu see vi nemlig, at hvor naturligt det end var, at de gamle Christne i Phenix-Fuglen saae et Forbillede paa Ham, der "satte Livet til og tog det igien," og paa hans Troende, der ved at "miste deres Liv for hans Skyld, skal finde det," saa haltede dog Lignelsen meget kiendelig, hvad enten man seer paa den moralske Fortolkning af alle de sode og vellugtende Urter, som "gode Gierninger," eller paa Sanger-Livet i tusind Aar, eller paa "Ormen," som slet ikke kunde bruges, og den <hi rend="spaced">Angel-Sachsiske</hi> Skjald har aabenbar selv fölt det, i det han, forvoven nok, stræber at anvende Phenix-Mythen paa hele <hi rend="spaced">Verden</hi> fra <hi rend="spaced">Paradiis</hi> af til eðer Elementernes Smeltning. Paa denne colossalske Ide gienkiender man nu vist nok <hi rend="spaced">Shakspears</hi> og <hi rend="spaced">Miltons</hi> Oldefader, som det er en Lyst at betragte; men vi fristes dog ikke til at træde i hans fortvivlede Spor, hvorved vi maatte give hele Menneske-Livet fra Faldet til Dommedag i Dödens Vold, og saa endda ovenikiöbet lede om Livs-Kilden i den store Ormegaard; thi vel er Dödens lange Herredomme i Legemets Verden en Kiendsgierning, men hverken er dog "Naturen den frivillig undergivet," heller ikke er det saa fortvivlet med Aanden, hvis naturlige Sindbillede dog " Sangfugle-Drotten" umiskiendelig er.</p>
+<p>For imidlertid ingen Kiv at yppe til stor Kiedsommelighed for gode Læsere, vil vi lade selv det staae ved sit Værd, om den gamle Seer, hos hvem Phenix-Mythen forst udsprang, var indtaget og opflammet af <hi rend="spaced">Aanden</hi> eller af <hi rend="spaced">Aarstallet</hi> for Himmelens Lob, og indskrænke os til den beskedne Paastand, at Sangfugle-Drotten paa Billed-Sproget kan betyde og pleier i Skjalde-Mund at <hi rend="spaced">betyde "Aand,"</hi> saa at dersom ellers Phenix-Mythen har en gjennemgribende Lighed med Menneske-Aandens Historie, da er det ikke usandsynligt, de hore sammen, og er i alt Fald morsomt for Aandens Venner i et saa ældgammelt, smukt og velbekiendt Billede at have ligesom et kiernefuldt Udtog af Aands-Historien bestandig for Öie.</p>
+<p>Det har derfor været mig til stor Fornöielse, og er mig, saavidt jeg kan skiönne, ogsaa til megen Nytte, at betragte Phenix-Fuglens <hi rend="spaced">Fortid</hi> som et Billede paa Menneske-Aandens <hi rend="spaced">Oldtid</hi>, hans Hensmægten og Hensmeltning som et Billede paa <hi rend="spaced">Middelaldren</hi>, og hans Gienfödelse som et ligedant paa <hi rend="spaced">Nyaarstiden</hi>, og mig synes virkelig, det fölger nödvendig af sig selv, naar man kiender begge Dele.</p>
+<p>At nemlig <hi rend="spaced">Oldtiden</hi>, forholdsviis, var de store <hi rend="spaced">Syners</hi> og <hi rend="spaced">Höisangens</hi> Dage, er jo ligesaavel en Kiendsgierning, som at Synerne giennem <hi rend="spaced">Middelalderen</hi> oplöste sig i Fanespil og Höisangen i sode og smeltende Toner, indtil Aanden syndes 
+<pb facs="1840_30_page0020.png"/>
+<fw type="pageNum">20</fw>
+aldeles forsvundet, som en Helt, naar hans Liv er endt, hans Drape sunget og hans Baal udslukt; men dog kom der jo i <hi rend="spaced">Nyaarstiden</hi> Dage eðer disse, da man med Forundring saae noget Levende udvikle sig af Aandens Eðerladenskab, der vel maa lignes ved en "Orm" af Phenix-Fuglens Aske, da Udviklingen unægtelig hidtil mest kun var <hi rend="spaced">Bogorme-Væsen</hi>, saa Spörgsmaalet er kun, om <hi rend="spaced">Bog-Ormen</hi> dog ikke i Grunden har Aand og kan udvikles til at ligne og fatte Aanden, som sin Fader, og fortsætte dens Levnets-Lob.</p>
+<p>Dette Spörgsmaal: om en virkelig, videnskabelig, "<hi rend="spaced">Opstandelse</hi>" i Oldtidens Aand vil lykkes, er vist nok saa indviklet, at man godt kan være sin Tvivlraadighed bekiendt, især eðerat Bogorme-Væsenet giennem tre Aarhundreder stedse klarere syndes at begrave sig i den Classiske Literatur, hvoraf man havde ventet, Aanden som en Phenix af sin Aske skulde udviklet sig; men selv om Storværket skulde mislykkes, blev den naturlige Retning lige umiskendelig, saa altid vilde Phenix-Mythen afbilde den store Lobebane, om end Menneske-Aanden, for sine Synders Skyld, skulde findes for svag til at fuldende den. Paradis-Fuglen, maatte man da sige, overskuede sin vidunderlige Bane, og spaaede sandt om den, men kunde eðer sit Fald kun vise Retningen, ei fölge den; men hvor man i Nyaarstiden er kommet saavidt at see det og tale forstandig derom, der maa Gienfödelsen og Opstandelsen dog alt i en vis Grad have fundet Sted, maa Philologien have udviklet sig til Pneumatologi, Ordkloveriet hævet sig til Aandsfatning; thi ligesaalidt som Ormen kiender Fuglens Vei, ligesaalidt kan den blotte Bogorm tale forstandig om Aandens Bane.</p>
+<p>Her aabner sig da en smilende Udsigt, som jeg gierne vilde dele med alle mine Læsere, men da jeg veed, det beroer paa deres Öine, om de kan see, og paa dem selv, om de vil vende sig til den Side hvor jeg peger, saa maa jeg nöies med min gamle Trost: hver nyder som han nemmer, saa Ingen skeet Uskiel. Hvad jeg her fornöier mig ved at see, er imidlertid, at vi leve i en deilig Overgangs-Tid, paa Overgangen nemlig fra Orme-Gaarden til Fugle-Buret, eller fra Orme-Hammen til Fugle-Vingen, fra den aandsfortærende ABC til det aandsoplysende Billed-Sprog, eller fra den döde Bogstav-Skrið til det levende Ord. Hvem der nu anseer hele denne Overgang for et Ridt paa en Kiephest, de komme naturligviis ikke videre, om de saa levede i tusinde Aar og kan rose sig af deres urokkelige Fasthed i Latinen og alle Skole-Videnskaberne; men vi, som virkelig bevæge os i Aandens Retning, forstenes naturligviis ikke heller af de daarlige Öine, som hverken kan see, vi giör Fremskridt, eller opdage hvor vi vil hen. Tvertimod fole vi med Fornöielse, at ved hvert Skridt vi giör, voxer saavel Kraðen som Lysten til at gaae videre, og jo længere vi see frem, desmere klaröiede blive vi til at overskue den Vei vi har lagt tilbage. Vi indsee nu ikke blot at Bogorme-Væsenet var nödvendigt, fordi Oldtidens Aand maatte opstaae af sit Eget, som Phenix af sin Aske, men selv at det Classiske Bogorme-Væsen i Norden, hvor uhyre latterligt det end der tog sig ud, og hvor aandsfortærende det end virkelig var, dog ogsaa horde til, for at det kunde blive Menneske-Slægtens og ei blot et enkelt Folks Aand, der hos os kom til Bevidsthed, og vi takke Himlen, ogsaa paa Videnskabeligheds Vegne, for <hi rend="spaced">Christendommen</hi>, som 
+<pb facs="1840_30_page0021.png"/>
+<fw type="pageNum">21</fw>
+nu fra alle Sider klarlig sees at have været Vilkaaret for Aandens Gienfödelse og for hele den Nyaarstid, i hvis höiere Udvikling vi med Fryd deeltage.</p>
+<p>Ikke blot maatte Christus, som <hi rend="spaced">Himlens</hi> Phenix, i en Menneske-Alder legemlig opfylde Menneske-Aandens Lov, og nyde dens Triumf, men Han maatte ogsaa bygge den jordiske Phenix en Rede i sin Kirke, hvor den kunde sodelig hensmelte med Udödeligheds Spire og Opstandelsens Haab. Kun af <hi rend="spaced">Christenhedens</hi> Middelalder udviklede sig en <hi rend="spaced">Nyaarstid</hi>, hvori <hi rend="spaced">Bog-Ormen</hi> folde sit barnlige Forhold til Oldtidens Aand og rugede over dens Eðerladenskab, skiöndt det længe syndes en Selv-Opoffrelse, der kun förde til Graven, og det er kun ved förste flygtige Öiekast det kan findes uforklarligt, hvi Nyaarstiden ei blev eens i hele Christenheden, men naaede kun i Norden at fatte Aanden, som Bogstav-Væsenet havde trællet for, men som Sönnen, skiöndt han længe havde Trælle-Kaar, dog skulde arve.</p>
+<p>For den Christelige Eenhed, som, hvor den er "Liv og Aand", ganske rigtig udjævner den aandelige Folke-Forskiel, Var der nemlig i Middelalderen kun et stort Blændværk, som <hi rend="spaced">Reformationen</hi> klarlig oplöste, og skiöndt Protestantismen i sin <hi rend="spaced">Eensidighed</hi> blev Aands-Fornægtelse, saa er der dog tre Vilkaar, som samtlig maatte findes, hvor en aandelig Tid skulde udvikle sig, og som kun hos Protestanterne lod sig finde.</p>
+<p>Det förste Vilkaar er naturligviis hvad der gav Reformationen o: Fornyelsen sit Navn: Mindet af en forsvundet Herlighed og Længsel eðer Fornyelse deraf; det Andet er den dybe Ærbödighed for <hi rend="spaced">Bibelen</hi>, som den store Aands hellige Eðerladenskab, og det Tredie er Kiærligheden til <hi rend="spaced">Modersmaalet</hi>, som det eneste levende Redskab for Aanden, og hvor dödfodt end med alt det Nyaarstiden mangensteds hos Protestanterne kom til Verden, saa er det dog lige klart, at hvor Vilkaarene ganske eller tildeels fattedes, maatte den udeblive, og kun hvor de fandtes kunde den muelig födes med Liv og Aand. Allevegne i Christenheden fik vel, eðer Bogtrykker-Kunstens Opfindelse og ved Stödet, Reformationen gav, Folkenes Modersmaal hvad man <hi rend="spaced">kaldte</hi> en <hi rend="spaced">Nyaarstid</hi>, men hvor man ei engang havde saamegen Længsel eðer <hi rend="spaced">Gienfödelse</hi> i Aanden, at man vilde reise sig for den, eller saamegen Ærbödighed for Bibelen, at man vilde dröðe den med samme Flid som <hi rend="spaced">Ciceros</hi> Skriðer, eller saamegen Kiærlighed til Modersmaalet, at man i det mindste vilde hore det i Kirken; der var det kun den Romerske Keiser-Tid der lod sig fornye. Hvor man derimod ikke blot havde hvad der var fælles for alle Protestanterne, men, som i vort <hi rend="spaced">Norden</hi>, tillige en eiendommelig, aldrig ganske forglemt Herlighed, bag sig, og et ældgammelt Modersmaal, fælles for hele Folket, der, maae vi finde det rimeligt, kunde udvikle sig en aandelig Nyaarstid, saa det er kun et Vidunder, at den ikke kvaldes i Fodselen af det <hi rend="spaced">Latinske</hi> Bogstav-Væsen, der stod i fiendtlig Modsætning baade til <hi rend="spaced">Bibel, Aand</hi> og <hi rend="spaced">Modersmaal</hi>.</p>
+<p>Her kan man see, det behover ingenlunde at være <hi rend="spaced">blind</hi> Partiskhed for Norden, blind Tro paa Bibelen og blindt Romer-Had, der styrer denne Pen; men at det meget godt kan være, og udentvivl maa være, en bedre <hi rend="spaced">Oplysning</hi> om Menneske-Livets Vilkaar og Aandens Löbe-Bane, end den der udklækkedes enten i Rom, Paris 
+<pb facs="1840_30_page0022.png"/>
+<fw type="pageNum">22</fw>
+eller <hi rend="spaced">Berlin</hi>, og som vei endnu ingenlunde er almindelig i Norden, men som derfor godt kan fortjene at blive det og have lyse Udsigter dertil, saa det lönner Umagen ei blot at anbefale den, men ogsaa at stride og lide en Smule for den. Vist nok lönner det ikke Umagen at stride eller lide det mindste for sin poetiske og historiske Anskuelse, der levende maa udvikle sig selv i hver Hjerne, hvor den skal være Andet end Hukommelses-Værk, og maa selv fode sit Udtryk paa enhver Læbe, hvor det skal blive Andet end Eðersnak; men vel kan det nytte, med denne Anskuelse, paa <hi rend="spaced">Aands-Frihedens, Ungdommens</hi> og <hi rend="spaced">Modersmaalets</hi> Vegne, at fore en Trediveaars-Krig mod Bogorme-Væsenet i det Hele, og mod Latin-Skolen og Drenge-Videnskabeligheden i Særdeleshed; thi ere först disse Fiender overvundne, da vil Folke-Aand og Folke-Liv i Norden opstaae som en Phenix af sin Aske, og fode enten samme Anskuelse eller en endnu höiere, som indslutter den i sig. Menneske-Naturen fölger nemlig samme Love i et Folk og i hele Slægten, som i Enkeltmanden, og derfor speller hvert Hoved-Folks Livsig, ligesaavel som Menneske-Slægtens, i Phenix-Mythen, og naar dette Liv fornyes, foder det hos hele Folket samme Anskuelse som hos Enkeltmanden. Man kan derfor udelukkende holde sig til <hi rend="spaced">Danmarks</hi> Historie, og dog spore den samme Gang som i Universal-Historien, thi ogsaa vi har aabenbar, i <hi rend="spaced">Hjarnes</hi> og <hi rend="spaced">Bjarkemaals</hi> Dage, havt en Höisangs-Tid, der aflöstes af <hi rend="spaced">Kæmpevise-Tiden</hi> med dens sode Duð og smeltende Toner, hvorunder Aanden hensov; ogsaa vi har siden havt en <hi rend="spaced">Bogorme-Tid,</hi> haard nok at döie, skiöndt det var en med de Bedste, fordi Modersmaalet ei blot ved Reformationen blev lydeligt, men ved <hi rend="spaced">King os</hi> Psalmer aandelig gienfödt i Kirken, hvorved Phenix-Ormen ikke blot hos en Enkeltmand, men hos Flere end vi kan tælle, i Grunden skiö'd sin Ham og blev til Fugl. Fra samme Tid begyndte derfor ogsaa herinde Kampen mod det Classiske Afguderi, det döde Bogstav-Væsen og alt det <hi rend="spaced">Udanske</hi>, med Holberg, og det er i Grunden en Kamp om "<hi rend="spaced">Morgen-Duggen</hi>," der, eðer Mythen, er den lille Phenix-Fugls eneste Næring; thi, videnskabelig talt, er denne Morgendug "<hi rend="spaced">Ungdomskraðen</hi>," som Aanden til sin Udvikling maa finde uundværlig, men som spildes i <hi rend="spaced">Latin-Skolen paa</hi> aandsfortærende Bogstav-Væsen, saa det er kun en sjelden Undtagelse, naar de, der skal virke for Aanden, selv har beholdt Nogen, de, der paa Moders-Maalet skal uddele Aandens Skatte og aabenbare Hjertets skjulte Ting, selv har Moders-Maalet kiært og har det i deres Magt.</p>
+<p>Skal derfor den lille Phenix-Fugl hos os naae sin Faders Vext, Krað og Skiönhed, da maa Ungdoms-Kraðen faae Lov til at fordele sig saa frit som Morgen-Duggen, men naar det skeet, kan det heller aldrig feile, at jo Phenix-Mythen forklarer sig selv i Norden, og yndigst i Danmark, hvor Aanden altid boer i Hjerte-Kamret og lærer Smaa-Alferne at bruge deres sode Stemmer til Sang, som er dem værd.</p>
+<fw type="graphic"/>
+</div>
+<div> 
+<pb facs="1840_30_page0023.png"/>
+<fw type="pageNum"></fw>
+<head>FENIX.</head>
+<fw type="graphic"/>
+</div>
+<div>
+<head>I.</head>
+<lg>
+<l>Hæbbe ic gefrugnen,</l>
+<l>æt te is feor heonan,</l>
+<l>eastdælum in,</l>
+<l>æðelest londa,</l>
+</lg>
+<lg>
+<l>5 firum gefræge;</l>
+<l>nis se foldansceat</l>
+<l>ofer middangeard</l>
+<l>rnongum gefere</l>
+<l>folcagendra,</l>
+<l>10 ac he afyrred is</l>
+</lg>
+<lg>
+<l>þurh Meotodes meaht</l>
+<l>mánfremmendum.</l>
+<l>wlilig is se wong eall</l>
+<l>wynnum geblissad,</l>
+</lg>
+<lg>
+<l>15 mid þara fægristum</l>
+<l>foldan stencum;</l>
+<l>ænlic is þæt iglond,</l>
+<l>(æðtele se wyrhta,</l>
+<l>modig, meahtum spedig,</l>
+</lg>
+<lg>
+<l>20 se þa moldan gesette)</l>
+<l>þær bið oð open</l>
+<l>(eadgum togeanes</l>
+<l>onhliden hleoðra wyn)</l>
+<l>heofonrices duru,</l>
+</lg>
+<lg>
+<l>25 (þæt is wynsum wong)</l>
+<l>wealdas grene,</l>
+<l>rume under roderum:</l>
+<l>ne mæg þær ren ne snaw,</l>
+<l>ne forstes fnæst,</l>
+</lg>
+<lg>
+<l>30 ne fyres blæst,</l>
+<l>ne hægles hryre,</l>
+<l>ne hrimes dryre,</l>
+<l>ne sunnanhætu,</l>
+<l>ne sincaldu,</l>
+</lg>
+<lg>
+<l>35 ne wearm weder,</l>
+<l>ne winterscur,</l>
+<l>wihte gewyrdan,</l>
+<l>ac se wong seomas</l>
+<l>eadig and onsund.</l>
+</lg>
+<lg>
+<l>40 Is þæt æðele lond</l>
+<l>blostmum geblowen,</l>
+<l>beorgas þær ne muntas</l>
+<l>steape ne stondas,</l>
+<l>ne stanclifu</l>
+</lg>
+<lg>
+<l>45 heahhlifiað,</l>
+<l>swa her mid us,</l>
+<l>ne dene, ne dælu,</l>
+<l>ne dunscrafu,</l>
+<l>hlæwas ne hlincas,</l>
+</lg>
+<lg>
+<l>50 ne ðær hleonas</l>
+</lg>
+<lg>
+<l>Est locus in primo felix orieote remotus,</l>
+<l>qua patet æterni maxima porta poli,</l>
+<l>nec taraen æstivos hiemisve propinquus ad ortus,</l>
+<l>sed qua sol verno fundit ab axe diem.</l>
+</lg>
+<lg>
+<l>5 Illic planities tractus diffundit apertos,</l>
+<l>nec tumulus crescit nec cava vallis hiat;</l>
+<l>sed nostros montes, qvorum juga celsa putantur,</l>
+<l>per bis sex ulnas eminet ille Jocus.</l>
+<l>Hic solis nemus est et consitus arbore multa</l>
+</lg>
+<lg>
+<l>10 lucus perpetuæ frondis honore virens.</l>
+<l>Cum Phaethontæis flagrasset ab ignibus axis,</l>
+<l>ille locus flammis inviolatus erat,</l>
+<l>et cum diluvium mersisset fluctibus orbem,</l>
+<l>Deucalioneas exsuperavit undas.</l>
+</lg>
+<lg>
+<l>15 Non huc exsangves morbi, non ægra senectus</l>
+</lg> 
+<pb facs="1840_30_page0024.png"/>
+<fw type="pageNum">24</fw>
+<lg>
+<l>unsmeðes wiht;</l>
+<l>ac se æðele fold</l>
+<l>wridas under wolcnum,</l>
+<l>wynnum geblowen,</l>
+</lg>
+<lg>
+<l>55 is þæt torhte lond</l>
+<l>twelfum herra</l>
+<l>folde fæðmrimes,</l>
+<l>(swa us gefreogum gleawe</l>
+<l>witgan þurh wisdom</l>
+</lg>
+<lg>
+<l>60 on gewritum cysas)</l>
+<l>frþnne ænig þara beorga,</l>
+<l>þe her beorhte mid us</l>
+<l>heahlifias</l>
+<l>under heofontunglum.</l>
+</lg>
+<lg>
+<l>65 smylte is se sigewong,</l>
+<l>sunbearo lixeð,</l>
+<l>wuduholt wynlic,</l>
+<l>wæstmas ne dreosas,</l>
+<l>beorhte biede,</l>
+</lg>
+<lg>
+<l>70 ac þa beamas á</l>
+<l>grene stondað,</l>
+<l>swa him God bebead;</l>
+<l>wintres and sumeres</l>
+<l>wuðu bið gelice</l>
+</lg>
+<lg>
+<l>75 bledum gehongen,</l>
+<l>næfre brosniað</l>
+<l>leaf under lyðe,</l>
+<l>ne him lig sceðeð</l>
+<l>æfre to aldre,</l>
+</lg>
+<lg>
+<l>80 ær þon edwenden</l>
+<l>worulde geweorðe.</l>
+<l>swa ju wætres þrym</l>
+<l>ealne middangeard</l>
+<l>mereflod þeahte,</l>
+</lg>
+<lg>
+<l>85 (eorsan ymbhwyrð,)</l>
+<l>þa se æðelu wong,</l>
+<l>æghwæs onsund,</l>
+<l>wið yðfare</l>
+<l>gehealden stod,</l>
+</lg>
+<lg>
+<l>90 hreora wæga</l>
+<l>eadig unwemme,</l>
+<l>þurh est Godes,</l>
+<l>bideð swa geblowen,</l>
+<l>oð bæles cyme</l>
+</lg>
+<lg>
+<l>95 Drythnes dornes,</l>
+<l>þonne deaðræced,</l>
+<l>hæleða bolstercofan,</l>
+<l>onhliden weorðað.</l>
+<l>nis þær on ðam londe</l>
+</lg>
+<lg>
+<l>100 laðgeniðla,</l>
+<l>ne wop ne wracu,</l>
+<l>weatacen nan,</l>
+<l>yldu ne yrmðu,</l>
+<l>ne se enga deað,</l>
+</lg>
+<lg>
+<l>105 ne lifes lyre,</l>
+<l>ne laðes cyme,</l>
+<l>ne synn ne sacu,</l>
+<l>ne sar wracu,</l>
+<l>ne wædlegewin,</l>
+</lg>
+<lg>
+<l>110 ne welan onsyn,</l>
+<l>ne sorg ne slæp,</l>
+<l>ne swar leger,</l>
+<l>ne wintergeweorp,</l>
+<l>ne wedragebregd</l>
+</lg>
+<p>58 gefrægum.</p>
+<p>114 vel "wedragebrec."</p>
+<lg>
+<l>nec mors crudelis, nec metus asper adit,</l>
+<l>nec scelus infandum nec opum vesana cupido,</l>
+<l>aut metus aut ardens cædis amore furor.</l>
+<l>luctus acerbus abest et egestas obsita pannis,</l>
+</lg>
+<lg>
+<l>20 et curæ insomnes et violenta fames.</l>
+<l>Nen ibi tempestas, nec vis furit horrida venti,</l>
+<l>nec gelido terram rore pruina tegit</l>
+<l>Nulla super campos tendit sua vellera nubes,</l>
+<l>nec cadit ex alto turbidus humor aqvæ.</l>
+</lg>
+<lg>
+<l>25 Sed fons in medio est, qvem vivum nomine dicunt,</l>
+<l>perspicuus, lenis, dulcibus uber aqvis,</l>
+<l>qvi semel erumpens per singula tempora mensum</l>
+<l>duodecies undis irrigat omne nemus.</l>
+<l>Hic genus arboreum procero stipite surgens</l>
+</lg> 
+<pb facs="1840_30_page0025.png"/>
+<fw type="pageNum">25</fw>
+<lg>
+<l>115 hreoh under heofonum,</l>
+<l>ne se hearda forst</l>
+<l>caldum cylegicelum</l>
+<l>cnyseð ænigne,</l>
+<l>þær ne hægl ne hrim</l>
+</lg>
+<lg>
+<l>120 hreosað to foldan,</l>
+<l>ne windig wolcen</l>
+<l>ne þær wæter fealleð,</l>
+<l>lyðe gebysgað,</l>
+<l>ac þær lagustreamas,</l>
+</lg>
+<lg>
+<l>125 wundrum wrætlice,</l>
+<l>wyllan onspringað,</l>
+<l>fægrum foldwylmurn</l>
+<l>foldan leccað</l>
+<l>wæter wynsumu,
+130 of fæs wuda midle,</l>
+</lg>
+<lg>
+<l>130 of fæs wuda midle,</l>
+<l>fa monða gehwam,</l>
+<l>of fære moldantyrf,</l>
+<l>brimcald brecað,</l>
+<l>bearo ealne geondfarað</l>
+</lg>
+<lg>
+<l>135 þingum þrymlice;</l>
+<l>is f æt þeodnes gebod,</l>
+<l>þæt te twelf siðum</l>
+<l>þæt Urfæste</l>
+<l>lond geondlace</l>
+</lg>
+<lg>
+<l>140 lagufloda wynn.</l>
+<l>sindon þa bearwas</l>
+<l>bledum gehongene,</l>
+<l>wlitigum wæstmum,</l>
+<l>þær ne wuniað</l>
+</lg>
+<lg>
+<l>145 onhalge under heofonum</l>
+<l>boltes frætwe,</l>
+<l>ne feallað þær on foldan</l>
+<l>fealwe blostman,</l>
+<l>wudubeama wlite,</l>
+</lg>
+<lg>
+<l>150 ac þær wrætlice</l>
+<l>on þam treowum symle</l>
+<l>telgan gehladene</l>
+<l>ofett edniwe</l>
+<l>in ealle tid.</l>
+</lg>
+<lg>
+<l>155 on þam græswonge</l>
+<l>grene stondað</l>
+<l>gehroden hyhtlice</l>
+<l>Haliges meahtum</l>
+<l>beorhtast bearwa,</l>
+</lg>
+<lg>
+<l>160 ne gebrocen weorðeð</l>
+<l>holt on hiwe;</l>
+<l>þær se halga stene</l>
+<l>wunað geond wynlond,</l>
+<l>f æt onwended ne bið</l>
+</lg>
+<lg>
+<l>165 æfre to ealdre,</l>
+<l>ær þon endige</l>
+<l>frod fyrngeweorc</l>
+<l>se hit on frymðe gescop.</l>
+</lg>
+<p><hi rend="bold"><hi rend="align(right)">II.</hi></hi></p>
+<lg>
+<l>Þone wudu weardað</l>
+</lg>
+<lg>
+<l>170 wundrum fæger</l>
+<l>fugel feðrum strong,</l>
+<l>se is Fenix haten,</l>
+<l>þær se anhaga</l>
+<l>eard bihealdað,</l>
+</lg>
+<lg>
+<l>175 deormod drohtað,</l>
+<l>næfre him deað sceðeð</l>
+</lg>
+<p>145 ventelig "unhale,"</p>
+<lg>
+<l>30 non lapsura solo mitia pomagerit.</l>
+<l>Hoc nemus, hos lucos avis incolit unica Phænix,</l>
+<l>unica, sed vivit morte refecta sua.</l>
+<l>Paret et obseqvitur Phoebo memoranda satelles,</l>
+<l>hoc Natura parens munus habere dedit.</l>
+</lg>
+<lg>
+<l>35 Lutea cum primum surgens aurora rubescit,</l>
+<l>Cum primum rosea sidera luce fugat,</l>
+<l>ter qvater illa pias immergit Corpus in undas,</l>
+<l>ter qvater e vivo gurgite libat aqvam.</l>
+<l>Tollitur ac summo considit in arboris altæ</l>
+</lg>
+<lg>
+<l>40 vertice, qvæ totum despicit una nemus,</l>
+<l>et conversa novos Phæbi nascentis in ortus</l>
+<l>expectat radios et jubar exoriens.</l>
+<l>Atqve ubi sol pepulit fulgentis limina portæ,</l>
+</lg> 
+<pb facs="1840_30_page0026.png"/>
+<fw type="pageNum">26</fw>
+<lg>
+<l>on þam willwonge,</l>
+<l>þenden woruld stondeð.</l>
+<l>se sceal þære sunnan</l>
+</lg>
+<lg>
+<l>180 sið behealdan,</l>
+<l>and ongean cuman</l>
+<l>Godes condelle,</l>
+<l>Glædum gimme</l>
+<l>Georne bewitigan,</l>
+</lg>
+<lg>
+<l>185 hwonne up cyme</l>
+<l>æðelast tungla</l>
+<l>ofer yðmere</l>
+<l>estan lixan,</l>
+<l>fæderfyrngeweorc</l>
+</lg>
+<lg>
+<l>190 frætwum blican,</l>
+<l>(torht tacen Godes)</l>
+<l>tungol beoð ahyded,</l>
+<l>gewiten under waðeman</l>
+<l>westdælas on,</l>
+</lg>
+<lg>
+<l>195 bideglad on dægred,</l>
+<l>and seo deorce niht</l>
+<l>won gewiteð,</l>
+<l>þonne waðum strong,</l>
+<l>fugel feðrum wlonc</l>
+</lg>
+<lg>
+<l>200 on firgen stream</l>
+<l>undev lyft, ofer lagu,</l>
+<l>locað georne,</l>
+<l>hwonne up cyme</l>
+<l>eastan glidan</l>
+</lg>
+<lg>
+<l>205 ofer siðne sæ</l>
+<l>swegles leoma.</l>
+<l>swa se æðela fugel</l>
+<l>æt þam æspringe</l>
+<l>wlitig fæstwunað</l>
+</lg>
+<lg>
+<l>210 wyllestreamas;</l>
+<l>þær se tireadiga</l>
+<l>twelf siðum</l>
+<l>hine bibaðad in þam burnan</l>
+<l>ær þæs beacnes cyme,</l>
+</lg>
+<lg>
+<l>215 (sweglcondelle)</l>
+<l>and symle swa oft</l>
+<l>of þam wilsuman</l>
+<l>wyllgespryngum</l>
+<l>brimcald beorgeð</l>
+</lg>
+<lg>
+<l>220 æt baða gehwylcum.</l>
+<l>siððan hine fylfne,</l>
+<l>æfter sundplegan,</l>
+<l>heahmod hefeð</l>
+<l>on heanne beam,</l>
+</lg>
+<lg>
+<l>225 þonne yðast mæg</l>
+<l>on eastwegum</l>
+<l>sið behealdan,</l>
+<l>hwonne swegles tapur</l>
+<l>ofer holmwræce</l>
+</lg>
+<lg>
+<l>230 hædre blice,</l>
+<l>(leohtes leoma,)</l>
+<l>lond beoð gefrætwad,</l>
+<l>woruld gewlitegad,</l>
+<l>siððan wuldres gim</l>
+</lg>
+<lg>
+<l>235 ofer geofenes gong</l>
+<l>grund gescineð</l>
+<l>geond middangeard,</l>
+<l>(mærest tungla.)</l>
+<l>sona swa seo sunne</l>
+</lg>
+<lg>
+<l>240 sealte streamas</l>
+<l>hea oferhlifað,</l>
+<l>swa se haswa fugel</l>
+<l>beorht of þæs bearwes</l>
+<l>beame gewiteð,</l>
+</lg>
+<lg>
+<l>et primum emicuit luminis ora levis,</l>
+</lg>
+<lg>
+<l>45 incipit illa sacri modulamina fundere cantus,</l>
+<l>et miram vocem luce movere nova,</l>
+<l>qvam nec Aedoniæ, nec tibia possit</l>
+<l>musica Cirrhæis adsimulare modis.</l>
+<l>Sed neque olor moriens imitari posse putatur,</l>
+</lg>
+<lg>
+<l>50 nec Cylleneæ fila canora lyræ.</l>
+<l>Postqvam Phæbus eqvos in aperta refudit Olympi,</l>
+<l>atqve orbem totum protulit usqve nemus,</l>
+<l>illa ter alarum repetito verbere plaudit</l>
+<l>innarabilibus nocte die qve sonis,</l>
+</lg>
+<lg>
+<l>55 atqve eadem celeres etiam discriminat horas,</l>
+<l>igniferumqve caput ter venerata silet,</l>
+<l>antistes nemorum et lucis veneranda sacerdos,</l>
+</lg> 
+<pb facs="1840_30_page0027.png"/>
+<fw type="pageNum">27</fw>
+<lg>
+<l>245 fareð feðrum snell</l>
+<l>flyhte on lyfte,</l>
+<l>swinsað and singeð</l>
+<l>swegle togeanes.</l>
+<l>þonne bið swa fæger</l>
+</lg>
+<lg>
+<l>250 fugles gebæru,</l>
+<l>onbryrded breostsefa,</l>
+<l>blissum remig,</l>
+<l>wrixleð wodcræfte</l>
+<l>wundorlicor,</l>
+</lg>
+<lg>
+<l>255 beorhtan reorde,</l>
+<l>þonne æfre byre monnes</l>
+<l>hyrde under heofonum,</l>
+<l>siððan heahcyning,</l>
+<l>wuldres wyrhta,</l>
+</lg>
+<lg>
+<l>260 woruld staðelode,</l>
+<l>heofon and eorðan.</l>
+<l>bið þæs hleoðres sweg</l>
+<l>eallum songcræftum</l>
+<l>swetra and wlitigra,</l>
+</lg>
+<lg>
+<l>265 and winsumra</l>
+<l>wrenca gehwylcum;</l>
+<l>ne magon þa breathme</l>
+<l>byman ne hornas,</l>
+<l>ne hearpan hlyn,</l>
+</lg>
+<lg>
+<l>270 ne hæleða stefn</l>
+<l>ænges on eorðan,</l>
+<l>ne organan sweg,</l>
+<l>leoðres geswin,</l>
+<l>ne swanes feðre,</l>
+</lg>
+<lg>
+<l>275 ne ænig þara dreama,</l>
+<l>þe Drythen gescop</l>
+<l>gumum to gliwe,</l>
+<l>in þas geomran woruld.</l>
+<l>singeð swa aud swinsað,</l>
+</lg>
+<lg>
+<l>280 sælum geblissad,</l>
+<l>oð þæt seo sunne on suðrodor</l>
+<l>sæged weorðeð,</l>
+<l>þonne swiað he</l>
+<l>and hlyst gefeð,</l>
+</lg>
+<lg>
+<l>285 frist þonces gleaw,</l>
+<l>and þriwa ascæeeð</l>
+<l>feðreflyht hwate.</l>
+<l>fugel bið geswiged,</l>
+<l>symle he twelf siðum</l>
+</lg>
+<lg>
+<l>290 tida gemearcað</l>
+<l>dæges and nihtes,</l>
+<l>swa gedemed is</l>
+<l>bearwes bigenga,</l>
+<l>þæt he þær brucan mot</l>
+</lg>
+<lg>
+<l>295 wonges mid willum,</l>
+<l>and welan neotan,</l>
+<l>lifes and lissa,</l>
+<l>londes frætwa,</l>
+<l>oð þæt he fnisende</l>
+</lg>
+<lg>
+<l>300 þisses lifes</l>
+<l>(wudubearwes weard)</l>
+<l>wintra gebideð.</l>
+<l>þonne bið gehefgad,</l>
+<l>haswig feðra,</l>
+</lg>
+<lg>
+<l>305 gomel gearum frod,</l>
+<l>rene eorðan</l>
+</lg>
+<p>273 maa læses "hleoðres" men "geswin" er ogsaa feil.</p>
+<p>283 og 84 kan neppe siger at rime.</p>
+<p>306 grene.</p>
+<lg>
+<l>et sola arcanis conscia, Phæbe, tuis.</l>
+<l>Qvæ postqvam vitæ jam mille peregerit annos,</l>
+</lg>
+<lg>
+<l>60 ac se reddiderint tempora longa gravem,</l>
+<l>ut reparet lapsum spatiis vergentibus ævum,</l>
+<l>adsvetum nemus et dulce cubile fugit,</l>
+<l>cumqve renascendi Studio loca sancta relinqvit,</l>
+<l>tunc petit hunc orbem, mors ubi regna tenet.</l>
+</lg>
+<lg>
+<l>65 Dirigit in Syriam celeres longæva volatus,</l>
+<l>Phænicen nornen cui dedit ipsa Venus,</l>
+<l>secretosqve petit deserta per avia lucos,</l>
+<l>huc ubi per saltus silva remota latet.</l>
+<l>Tum legit aerio sublimem vertice palmam,</l>
+</lg>
+<lg>
+<l>70 qvæ gratum Phænix ex ave nornen habet</l>
+<l>etqvam nulla nocens animans perrumpere possit,</l>
+</lg> 
+<pb facs="1840_30_page0028.png"/>
+<fw type="pageNum">28</fw>
+<lg>
+<l>aflyhð fugla</l>
+<l>foldan geblowene,</l>
+<l>and frønne geseceð</l>
+</lg>
+<lg>
+<l>310 side rice</l>
+<l>middangeardes,</l>
+<l>þær no men bugað</l>
+<l>eard and eðel,</l>
+<l>þær he ealdordom</l>
+</lg>
+<lg>
+<l>315 onfehð foremihtig</l>
+<l>ofer fuglacynn,</l>
+<l>geðungen on þeode,</l>
+<l>and þragemidluni</l>
+<l>westen weardeð.</l>
+</lg>
+<lg>
+<l>320 þonne waðum strong</l>
+<l>west gewiteð,</l>
+<l>wintrum gebysgad,</l>
+<l>fleogan feðrum snel,</l>
+<l>fuglas þringað</l>
+</lg>
+<lg>
+<l>325 utan ymbe æðelne,</l>
+<l>æghwylc wille wesan</l>
+<l>þegn and þeow</l>
+<l>þeodne mærum,</l>
+<l>oð þæt hy gesecað</l>
+</lg>
+<lg>
+<l>330 Fyrwaralond</l>
+<l>corðra mæste.</l>
+<l>him se clæna þær</l>
+<l>oðscufeð scearplice,</l>
+<l>þæt he in scaðe weardað</l>
+</lg>
+<lg>
+<l>335 on wudubearwe</l>
+<l>weste stowe,</l>
+<l>biholene and bihydde</l>
+<l>hæleða monegum,</l>
+<l>þær he heanne beam</l>
+</lg>
+<lg>
+<l>340 on holtwuda</l>
+<l>wunað and weardað,</l>
+<l>wyrtum fæstne,</l>
+<l>under heofum hrofe,</l>
+<l>þone hatað men</l>
+</lg>
+<lg>
+<l>345 fenix on foldan</l>
+<l>of þæs fugles noman</l>
+<l>hafað þam treowe forgiefen</l>
+<l>tirmeahtig cyning,</l>
+<l>Meotod moncynnes,</l>
+</lg>
+<lg>
+<l>350 (mine gefræge)</l>
+<l>þæt se ana is,</l>
+<l>ealra beama</l>
+<l>on eorðwege</l>
+<l>uplædendra,</l>
+</lg>
+<lg>
+<l>355 beorhtast geblowen;</l>
+<l>ne mæg him bitres wiht</l>
+<l>scyldum sceððan,</l>
+<l>ac gescylded á</l>
+<l>wunað ungewyrded</l>
+</lg>
+<lg>
+<l>360 þenden woruld stondeð.</l>
+</lg>
+<p><hi rend="bold"><hi rend="align(right)">III.</hi></hi></p>
+<lg>
+<l>Þonne wind ligeð,</l>
+<l>weder bið fæger,</l>
+<l>hluttor heofones gim</l>
+<l>halig scineð,</l>
+</lg>
+<lg>
+<l>365 beoð wolcen towegen</l>
+<l>wætra þryðe,</l>
+</lg>
+<p>307 ventelig "fugel"</p>
+<p>330 maa baade efter Latinen og Rimet være "Syrwara-Iond."</p>
+<p>343 ventelig "heofonhrofe"</p>
+<lg>
+<l>lubricus aut serpens, aut uvis ulla rapax.</l>
+<l>Tum ventos claudit pendentibus Æolus antris,</l>
+<l>ne violent flabris aera purpureum,</l>
+</lg>
+<lg>
+<l>75 neu concreta noto nubes per inania cæli</l>
+<l>submoveat radios solis et obsit avi,</l>
+<l>Construit inde sibi seu nidum sive sepulcrum,</l>
+<l>nam perit, at vivat, se taraen ipsa creat.</l>
+<l>Colligit hinc succos et odores divite silva,</l>
+</lg>
+<lg>
+<l>80 qvos legit Assyrius, qvos opulentus Arabs,</l>
+<l>qvos aut Pygmææ gentes aut India carpit,</l>
+<l>aut molli generat terra Sabea sinu.</l>
+<l>Cinnamon hic auramqve procul spirantis Amomi</l>
+<l>congerit et misto Balsama cum folio.</l>
+</lg> 
+<pb facs="1840_30_page0029.png"/>
+<fw type="pageNum">29</fw>
+<lg>
+<l>stille stondað,</l>
+<l>bið storma gehwylc</l>
+<l>aswefed under swegle,</l>
+</lg>
+<lg>
+<l>370 suðan bliceð</l>
+<l>wedercondel wearm,</l>
+<l>weorodum lyhteð.</l>
+<l>þonne on þam telgum</l>
+<l>timbran onginneð,</l>
+</lg>
+<lg>
+<l>375 nest gearwian,</l>
+<l>bið him neod micel,</l>
+<l>þæt de þa yldu</l>
+<l>ofestum mote</l>
+<l>þurh gewittes wylm</l>
+</lg>
+<lg>
+<l>380 wendan to life,</l>
+<l>feorggeong onfon.</l>
+<l>þonne feor and neah</l>
+<l>þa swetestan</l>
+<l>somnað and gædrað</l>
+</lg>
+<lg>
+<l>385 wyrta wynsume,</l>
+<l>and wudubleda,</l>
+<l>to þam eardstede,</l>
+<l>æðelstenca gehwone</l>
+<l>wyrta wynsumra,</l>
+</lg>
+<lg>
+<l>390 þe wuldorcyning,</l>
+<l>fæder frymða gewæs,</l>
+<l>ofer foldan gescop</l>
+<l>to indryhtum,</l>
+<l>ældacynne)</l>
+</lg>
+<lg>
+<l>395 swetes under swegle.</l>
+<l>þær de sylf biereð</l>
+<l>in þæt treow innan</l>
+<l>torhte frætwe,</l>
+<l>þær se wilda fugel</l>
+</lg>
+<lg>
+<l>400 in þam westenne</l>
+<l>ofer heanne beam</l>
+<l>bus getimbreð,</l>
+<l>wlitig and wynsum,</l>
+<l>and gewicað þær</l>
+</lg>
+<lg>
+<l>405 sylf in þam solere,</l>
+<l>and ymbseteð utan</l>
+<l>(in þam leafsceade)</l>
+<l>lic and feðre</l>
+<l>on healfa gehwære</l>
+</lg>
+<lg>
+<l>410 halgum stencum,</l>
+<l>and þam æðelstum</l>
+<l>eorðan bledum,</l>
+<l>siteð siðes fus.</l>
+<l>þonne swegles gim</l>
+</lg>
+<lg>
+<l>415 on sumeres tid,</l>
+<l>sunna hatost,</l>
+<l>ofer sceadu scineð,</l>
+<l>and gesceapu dreogeð,</l>
+<l>woruld geondwliteð,</l>
+</lg>
+<lg>
+<l>420 þonne weorðeð his</l>
+<l>hus onhæted</l>
+<l>þurh hador swegl,</l>
+<l>wyrtu wearmiað,</l>
+<l>willsele stymeð</l>
+</lg>
+<lg>
+<l>425 swetum swæccum.</l>
+<l>þonne on swole byrneð</l>
+<l>þurh fyres feng</l>
+<l>fugel mid neste;</l>
+<l>bæl bið onæled,</l>
+</lg>
+<lg>
+<l>430 þonne brond þeceð</l>
+</lg>
+<p>381 feorhgeong.</p>
+<p>391 gehwæs.</p>
+<p>405 maaskee "solærne."</p>
+<lg>
+<l>85 Non Casiæ mitis nec olentis vimen Acanthi</l>
+<l>nec thuris lacrymæ guttaqve pingvis abest.</l>
+<l>His addit tencras Nardi pubentis aristas</l>
+<l>et socium Myrrhævim Panachæa tuæ</l>
+<l>Protinus in strato corpus mutabile nido</l>
+</lg>
+<lg>
+<l>90 vitaliqve toro membra qvieta locat.</l>
+<l>Ore dehinc succos membris circumqve supraqve</l>
+<l>injicit, exeqviis immoritura suis.</l>
+<l>Tunc inter varios animam commendat odores,</l>
+<l>depositi tanti nec timet ille fidem.</l>
+</lg>
+<lg>
+<l>95 Interea corpus genitali morte peremptum</l>
+<l>æstuat et flammas parturit ipse calor,</l>
+</lg> 
+<pb facs="1840_30_page0030.png"/>
+<fw type="pageNum">30</fw>
+<lg>
+<l>heorodreorges hus,</l>
+<l>hreo onetteð,</l>
+<l>fealo lig feormað,</l>
+<l>and Fenix byrneð,</l>
+</lg>
+<lg>
+<l>435 fyrngearum frod.</l>
+<l>þonne fyr þigeð</l>
+<l>lænan lichoman,</l>
+<l>lif bið on siðe</l>
+<l>(fæges feorhhord)</l>
+</lg>
+<lg>
+<l>440 þonne flæsc and ban</l>
+<l>adleg æleð;</l>
+<l>hwæðre him eft cymeð,</l>
+<l>æfter fyrstmearce,</l>
+<l>feorh edniwe,</l>
+</lg>
+<lg>
+<l>445 siððan ða yslan</l>
+<l>eft onginneð,</l>
+<l>æfter ligþræce,</l>
+<l>lucan togædre</l>
+<l>geclungne to cleowenne.</l>
+</lg>
+<lg>
+<l>450 þonne clæne bið</l>
+<l>beorhtast nesta</l>
+<l>bæle forgrunden,</l>
+<l>(headorofes hof,)</l>
+<l>hra bið acolad,</l>
+</lg>
+<lg>
+<l>455 banfæt gebrocen,</l>
+<l>and se bryne sweðrað;</l>
+<l>þonne of þam ade</l>
+<l>æples gelicnes</l>
+<l>on þam ascan bið</l>
+</lg>
+<lg>
+<l>460 eft gemeted;</l>
+<l>of þam weaxeð wyrm,</l>
+<l>wundrum fæger,</l>
+<l>swylce he of ægerum</l>
+<l>utalæde</l>
+</lg>
+<lg>
+<l>465 scir of scylle;</l>
+<l>þonne in sceade weaxeð,</l>
+<l>þæt he ærest bið</l>
+<l>swylce earnes brid</l>
+<l>fæger fugeltimber,</l>
+</lg>
+<lg>
+<l>470 þonne furðor gin</l>
+<l>wridað on wynnum,</l>
+<l>æt he bið wæstmum gelic</l>
+<l>ealdum earne,</l>
+<l>and æfter þon</l>
+</lg>
+<lg>
+<l>475 feðrum gefrætwad,</l>
+<l>swylc he æt frymðe wæs,</l>
+<l>beorht geblowen.</l>
+<l>þonne bræd veorðeð</l>
+<l>eall edniwe</l>
+</lg>
+<lg>
+<l>480 eftacenned,</l>
+<l>synnum asundrad,</l>
+<l>sumes onlice,</l>
+<l>swa mon to andleofne</l>
+<l>eorðan wæsmas</l>
+</lg>
+<lg>
+<l>485 on hærfæste</l>
+<l>ham gelædeð,</l>
+<l>wiste wynsume,</l>
+<l>ær wintres cyme,</l>
+<l>(on rypes timan)</l>
+</lg>
+<lg>
+<l>490 þy læs him renes scur</l>
+<l>awyrde under wolenum,</l>
+<l>þær him wraðe metað,</l>
+</lg>
+<p>463 fattes vel et "wæs."</p>
+<p>370 gien, gen.</p>
+<lg>
+<l>æthereoqve procul de lumine concipit ignem;</l>
+<l>flagrat, et ambustum solvitur in cinerem.</l>
+<l>Qvos velut in massam cineres in morte coactos</l>
+</lg>
+<lg>
+<l>100 conflat, et effectum seminis instar habet.</l>
+<l>Hinc animal primum sine membris fertur oriri,</l>
+<l>sed fertur vermi lacteus esse color.</l>
+<l>Crescit in immensum subito cum tempore certo,</l>
+<l>seqve ovi teretis colligit in speciem.</l>
+</lg>
+<lg>
+<l>105 Inde reformatur qvalis fuit ante figura,</l>
+<l>et Phænix ruptis pullulat exuviis,</l>
+<l>ac velut agrestes, cum filo ad saxu tenentur,</l>
+<l>mutari tineæ papilione solent.</l>
+<l>Non illi cibus est nostro concessus in orbe,</l>
+</lg>
+<lg>
+<l>110 nec cuiqvam implumem pascere cura subest,</l>
+</lg> 
+<pb facs="1840_30_page0031.png"/>
+<fw type="pageNum">31</fw>
+<lg>
+<l>fodorþegegefeon,</l>
+<l>þonne forst and snaw</l>
+</lg>
+<lg>
+<l>495 mid ofermægne</l>
+<l>eorðan þeccað</l>
+<l>wintergewædum;</l>
+<l>of þam wæstmum sceal</l>
+<l>eorla eadwelan</l>
+</lg>
+<lg>
+<l>500 eft alædan</l>
+<l>þurh cornes gecynd,</l>
+<l>þe ær clæne bið</l>
+<l>sæd onsawen,</l>
+<l>þonne sunnanglæm</l>
+</lg>
+<lg>
+<l>505 on lenctenne</l>
+<l>(lifes tacen)</l>
+<l>wecceð woruldgestreon,</l>
+<l>þæt þa wæstmas beoð</l>
+<l>þurh agne gecynd</l>
+</lg>
+<lg>
+<l>510 eftacende,</l>
+<l>(foldan frætwe.)</l>
+<l>swa se fugel weorðeð</l>
+<l>gomel æfter gearum,</l>
+<l>geong edniwe</l>
+</lg>
+<lg>
+<l>515 flæsce bifongen;</l>
+<l>no he foddor þigeð,</l>
+<l>mele on moldan,</l>
+<l>nemne meledeawes</l>
+<l>dæl gebyrge,</l>
+</lg>
+<lg>
+<l>520 se dreoseð oft</l>
+<l>æt middre nihte,</l>
+<l>bi Jon se modga</l>
+<l>his feorh afedeð,</l>
+<l>oð þæt fyrngesetu,</l>
+</lg>
+<lg>
+<l>525 agenne eard,</l>
+<l>eft geseceð.</l>
+</lg>
+<p><hi rend="bold"><hi rend="align(center)">IV.</hi></hi></p>
+<lg>
+<l>Þonne bið aweaxen,</l>
+<l>wyrtum ingemonge,</l>
+<l>fugel feðrum deal,</l>
+</lg>
+<lg>
+<l>530 (feorh bið niwe)</l>
+<l>geong, geofona ful,</l>
+<l>þonne he of greote his lic</l>
+<l>(leoðacræftig)</l>
+<l>þæt ær lig fornom,</l>
+</lg>
+<lg>
+<l>535 somnað swoles lafe,</l>
+<l>searwum gegædrad,</l>
+<l>ban gebrosnad,</l>
+<l>æfter bælþræce,</l>
+<l>and þonne gebringeð</l>
+</lg>
+<lg>
+<l>540 ban and yslan,</l>
+<l>ades lafe,</l>
+<l>eft æt somne,</l>
+<l>and -þonne þæt wælreaf</l>
+<l>wyrtum biteldeð,</l>
+</lg>
+<lg>
+<l>545 fægre gefrætwed.</l>
+<l>þonne afysed bið</l>
+<l>agenne eard</l>
+<l>eft to secan,</l>
+<l>þonne fotum ymbfehð</l>
+</lg>
+<lg>
+<l>550 fyres lafe,</l>
+<l>clam biclyppeð,</l>
+<l>and his cyððu eft</l>
+<l>(sunbeorht gesetuþ</l>
+</lg>
+<lg>
+<l>493 gefeon vel for "gefean."</l>
+<l>504 sunnanglcam,</l>
+</lg>
+<lg>
+<l>ambrosios libat cælesti nectare rores,</l>
+<l>stellifero teneri qvi cecidere polo.</l>
+<l>Hos legit, his alitur mediis in odorilbus ales,</l>
+<l>donec maturam proferat effigiem,</l>
+</lg>
+<lg>
+<l>115 ac ubi primæva cæpit florere juventa,</l>
+<l>evolat ad patrias jam reditura domos.</l>
+<l>Ante tamen proprio qvidqvid de corpore restat</l>
+<l>ossaqve vel cineres, exuviasqve suas</l>
+<l>ungvine balsameo myrrhaqve et thure soluto</l>
+</lg>
+<lg>
+<l>120 condit, et in formam conglobat ore pio,</l>
+<l>qvam pedibus gestans contendit solis ad ortus,</l>
+<l>inqve ara residens, ponit in æde sacra.</l>
+</lg> 
+<pb facs="1840_30_page0032.png"/>
+<fw type="pageNum">32</fw>
+<lg>
+<l>seceð on wynnum</l>
+</lg>
+<lg>
+<l>555 (eadig eðellond.)</l>
+<l>eall bið geniwad,</l>
+<l>feorh and feðerhoma,</l>
+<l>swa he æt frymðe wæs,</l>
+<l>þa hine ærest God</l>
+</lg>
+<lg>
+<l>560 on þone æðelan wong</l>
+<l>sigorfæst sette;</l>
+<l>he his sylfes þær</l>
+<l>ban gebringað,</l>
+<l>þa ær brondes wylm</l>
+</lg>
+<lg>
+<l>565 on beorhs ede</l>
+<l>bæle forðylmde</l>
+<l>ascan to eacan;</l>
+<l>þonne eal geador</l>
+<l>bebyrgeð beaducræftig</l>
+</lg>
+<lg>
+<l>570 ban and yslan</l>
+<l>on þam ealonde;</l>
+<l>bið him edniwe</l>
+<l>þære sunnan þegn,</l>
+<l>þonne swegles leoht,</l>
+</lg>
+<lg>
+<l>575 gimma glædost,</l>
+<l>ofer garsecg up,</l>
+<l>ædeltungla wyn,</l>
+<l>eastan lixeð.</l>
+<l>is se fugel fæger</l>
+</lg>
+<lg>
+<l>580 forweardhiwe,</l>
+<l>bleobrygdum fag</l>
+<l>ymb þa breost foran,</l>
+<l>is him þæt heafod</l>
+<l>hindan grene,</l>
+</lg>
+<lg>
+<l>585 wrætlice wrixleð</l>
+<l>wurman geblonden,</l>
+<l>þonne is se finta</l>
+<l>fægre gedæled,</l>
+<l>sum brun, sum basu,</l>
+</lg>
+<lg>
+<l>590 sum blacum splottum</l>
+<l>searolice beseted;</l>
+<l>sindon þa feðru</l>
+<l>hwit hindanweard,</l>
+<l>and se hals grene</l>
+</lg>
+<lg>
+<l>595 nioðoweard and ufeweard,</l>
+<l>and þæt nebb lixeð</l>
+<l>swa glæs oððe gim,</l>
+<l>geaflas scyne</l>
+<l>innan and utan;</l>
+</lg>
+<lg>
+<l>600 is seo eaggebyrd</l>
+<l>stearc and hiwe</l>
+<l>stane gelicast,</l>
+<l>glædum gimme,</l>
+<l>þonne in goldfate</l>
+</lg>
+<lg>
+<l>605 smiða orðoncum</l>
+<l>biseted weorðeð.</l>
+<l>is ymbe þone sweoran</l>
+<l>swylce sunnan hring,</l>
+<l>beaga beorhtast,</l>
+</lg>
+<lg>
+<l>610 bregden feðrum;</l>
+<l>wrætlic is seo womb neoðan,</l>
+<l>wundrum fæger,</l>
+<l>scir and scyne,</l>
+<l>is se scyld ufan</l>
+</lg>
+<lg>
+<l>615 frætwum gefeged</l>
+<l>ofer þæs fugles bæc;</l>
+<l>sindon þa scancan</l>
+</lg>
+<p>566 er "forðylmde" ubekiendt.</p>
+<p>587 er "finta" ubekiendt.</p>
+<p>590 vel "speccum" eller "spottum."</p>
+<lg>
+<l>Mirandam sese præstat præbetqve videnti;</l>
+<l>tantus ibi decor est, tantus abundat honor.</l>
+</lg>
+<lg>
+<l>125 Principio color est, qvalis sub sidere cæli</l>
+<l>mitia qvi croceo punica grana legunt,</l>
+<l>qvalis inest foliis, qvæ fert agreste papaver,</l>
+<l>cum pendens vestit sole rubente polus.</l>
+<l>Hoc humeri pectusqve decens velamine fulgent,</l>
+</lg>
+<lg>
+<l>130 hoc caput, hoc cervix summaqve terga nitent,</l>
+<l>caudaqve porrigitur fulvo distincta metallo,</l>
+<l>in cujus maculis purpura mista rubet.</l>
+<l>Clarum inter pennas insigne est desuper iris,</l>
+<l>pingere ceu nubem desuper alta solet.</l>
+</lg> 
+<pb facs="1840_30_page0033.png"/>
+<fw type="pageNum">33</fw>
+<lg>
+<l>scyllum biweaxen,</l>
+<l>fealwe fotas;</l>
+</lg>
+<lg>
+<l>620 se fugel is on hiwe</l>
+<l>æghwæs ænlic,</l>
+<l>onlicast pean,</l>
+<l>wynnurn geweaxen,</l>
+<l>þæs gewritu secgað.</l>
+</lg>
+<lg>
+<l>625 nis he hinderweard,</l>
+<l>ne hygegælsa,</l>
+<l>swar ne swongor,</l>
+<l>swa some fuglas,</l>
+<l>þa þe late þurh lyft</l>
+</lg>
+<lg>
+<l>630 lacað feðrum,</l>
+<l>ac he is snel and swift,</l>
+<l>and swiðe leoht,</l>
+<l>wlitig and wynsum,</l>
+<l>wuldre gemearcad;</l>
+</lg>
+<lg>
+<l>635 (ece is se æbeling,</l>
+<l>se þe him þæt ead gefeð.)</l>
+<l>þonne he gewiteð</l>
+<l>wongas secan,</l>
+<l>his ealdne eard,</l>
+</lg>
+<lg>
+<l>640 of fusse eðeltyrf,</l>
+<l>swa se fugel fleogeð</l>
+<l>folcum oðeaweð,</l>
+<l>mongum monna</l>
+<l>geond middangoard,</l>
+</lg>
+<lg>
+<l>645 þonne somnað</l>
+<l>suðan and norðan,</l>
+<l>eastan and westan,</l>
+<l>eoredciestum</l>
+<l>farað feorran and nean</l>
+</lg>
+<lg>
+<l>650 folcaþryðum,</l>
+<l>þær hi sceawiað</l>
+<l>Scyppendes giefe</l>
+<l>fægre on þam fugle,</l>
+<l>swa him æt fruman sette</l>
+</lg>
+<lg>
+<l>655 sigora soð cyning</l>
+<l>sellicran gecynd,</l>
+<l>frætwe fægran,</l>
+<l>ofer fugla cyn;</l>
+<l>þonne wundriað</l>
+</lg>
+<lg>
+<l>660 weras ofer eorðan</l>
+<l>wlite and wæstma,</l>
+<l>and gewritu cyðað,</l>
+<l>mundum mearciað</l>
+<l>on mearmstane,</l>
+</lg>
+<lg>
+<l>665 hwonne se dæg and seo tid</l>
+<l>dryhtum geeawe</l>
+<l>frætwe flyhthwates.</l>
+<l>þonne fugla cynn</l>
+<l>on healfa gehware</l>
+</lg>
+<lg>
+<l>670 heapum þringað</l>
+<l>sigað sidwegum,</l>
+<l>songe lofiad,</l>
+<l>mærað modigne,</l>
+<l>meaglum reordum,</l>
+</lg>
+<lg>
+<l>675 and swa þone halgan</l>
+<l>hringe beteldað,</l>
+<l>flyhte on lyfte,</l>
+<l>Fenix bið on middum</l>
+<l>þreatum biðrungen;</l>
+</lg>
+<lg>
+<l>680 þeoda wlitað,</l>
+<l>wundrum wefiað,</l>
+</lg>
+
+<p>636 gifetð,</p>
+<p>668 vist "gewritum."</p>
+<lg>
+<l>135 albicat insignis misto vhidante smaragdo</l>
+<l>et puro cornu gemmea cuspis hiat.</l>
+<l>Ingentes oculi, credas geminos hyacinthos,</l>
+<l>qvorum de medio lucida flamma micat,</l>
+<l>Æqvatur toto capiti radiata corona,</l>
+</lg>
+<lg>
+<l>140 Phæbei referens verticis alta decus.</l>
+<l>Crura tegunt sqvamæ flavo distincta metallo,</l>
+<l>ast ungves roseus pingit honore color,</l>
+<l>Effigies inter pavonis mista figuram</l>
+<l>cernitur et pictam Phasidis inter avem.</l>
+</lg>
+<lg>
+<l>145 Magnitiem, terris Arabum qvæ gignitur ales,</l>
+<l>vix æqvare potest, seu fera, seu sit avis.</l>
+<l>Non tamen est tarda, at volucres, qvæ corpore magno</l>
+</lg> 
+<pb facs="1840_30_page0034.png"/>
+<fw type="pageNum">34</fw>
+<lg>
+<l>hu seo wilgedryht</l>
+<l>wildne weorðiað,</l>
+<l>worn æfter oðrum,</l>
+</lg>
+<lg>
+<l>685 cræftum cyðað,</l>
+<l>and for cyning mærað</l>
+<l>leofne leodfruman,</l>
+<l>lædað mid wynnum</l>
+<l>æðelne to earde,</l>
+</lg>
+<lg>
+<l>690 oð f æt se anhaga</l>
+<l>oðfleogeð feðrum snel,</l>
+<l>þæt him gefylgan ne mæg</l>
+<l>drymendra gedryht;</l>
+<l>þonne duguða wyn</l>
+</lg>
+<lg>
+<l>695 of fisse eorðantyrf</l>
+<l>eðel seceð.</l>
+</lg>
+<p><hi rend="align(center)"><hi rend="bold">V.</hi></hi></p>
+<lg>
+<l>Swa se gesæliga,</l>
+<l>æfter swylthwile,</l>
+<l>his eald cyððe</l>
+</lg>
+<lg>
+<l>700 eft geneosað,</l>
+<l>fægre foldan;</l>
+<l>fugelas cyrrað</l>
+<l>from f am guðfrecan</l>
+<l>geomormode</l>
+</lg>
+<lg>
+<l>705 eft to earde.</l>
+<l>þonne se æðeling bið</l>
+<l>geong in geardum,</l>
+<l>God ana wat,</l>
+<l>cyning ælmihtig,</l>
+</lg>
+<lg>
+<l>710 hu his gecynde bið,</l>
+<l>wifhades þe weres,</l>
+<l>þæt ne wat ænig</l>
+</lg>
+<lg>
+<l>monnacynnes,</l>
+<l>butan Meotod ana,</l>
+</lg>
+<lg>
+<l>715 hu þa wisan sind</l>
+<l>wundorlice,</l>
+<l>fæger fyrngesceap</l>
+<l>ymb þæs fugles gebyrd.</l>
+<l>f ær se eadga mot</l>
+</lg>
+<lg>
+<l>720 eardes neotan,</l>
+<l>wyllastreama,</l>
+<l>wuduholtum in,</l>
+<l>wunian in wonge,</l>
+<l>oð f æt wintra bið</l>
+</lg>
+<lg>
+<l>725 þusend urnen,</l>
+<l>þonne him weorðeð</l>
+<l>ende lifes,</l>
+<l>hine ad þeceð</l>
+<l>þurh æled fyr;</l>
+</lg>
+<lg>
+<l>730 hwæðre eft cymeð</l>
+<l>aweaht wrætlice</l>
+<l>wundrum to life.</l>
+<l>forðon he drusende</l>
+<l>deað ne bisorgað,</l>
+</lg>
+<lg>
+<l>735 sare swyltcwale,</l>
+<l>þe him symle wat</l>
+<l>æfter ligþræce</l>
+<l>lif edniwe,</l>
+<l>feorh æfter fille,</l>
+</lg>
+<lg>
+<l>740 þonne fromlice</l>
+<l>þurh briddes had</l>
+<l>gebreadad weorðeð,</l>
+<l>eft of ascan,</l>
+<l>ed-geong weseð</l>
+</lg>
+
+<p>733 dreosende,</p>
+<p>739 ylle. - 742 see 1181.</p>
+<p>744 maa "weseð" vel læses "wexeð."</p>
+<lg>
+<l>incessus pigros per pondus grave habent,</l>
+<l>sed levis et velox, regali plena decore</l>
+</lg>
+<lg>
+<l>150 talis in aspectum se exhibet usqve hominum.</l>
+<l>Convenit Ægyptus tanti ad miracula visus</l>
+<l>et raram volucrem turba salutat ovans.</l>
+<l>Protinus insculpunt sacrato in marmore formam,</l>
+<l>et signant titulo remqve diemqve novo.</l>
+</lg>
+<lg>
+<l>155 Contrahit in cætum sese genus omne volantum,</l>
+<l>nec prædæ memor est ulla, nec ulla metus.</l>
+<l>Alituum stipata choro volat illa per altum,</l>
+</lg> 
+<pb facs="1840_30_page0035.png"/>
+<fw type="pageNum">35</fw>
+<lg>
+<l>745 under swegles hleo;</l>
+<l>bið him self gehwæðer</l>
+<l>suna and swæs fæder,</l>
+<l>and symle eac eft</l>
+<l>yrfeweard</l>
+</lg>
+<lg>
+<l>750 ealdrelafe.</l>
+<l>forgeaf him se meahta</l>
+<l>moncynnes Fruma,</l>
+<l>þæt he swa wrætlice</l>
+<l>weorðan sceolde</l>
+</lg>
+<lg>
+<l>755 eft þæt ilce,</l>
+<l>þæt he ær þon wæs,</l>
+<l>feðrum bifongen,</l>
+<l>þþeah hine fyr nime.</l>
+<l>Swa þæt ece lif</l>
+</lg>
+<lg>
+<l>760 eadigra gehwylc,</l>
+<l>æfter sar wræce,</l>
+<l>sylf geceoseð,</l>
+<l>þurh deorcne deað,</l>
+<l>þæt he Dryhtnes mot</l>
+</lg>
+<lg>
+<l>765 æfter geardægum</l>
+<l>heofona neotan,</l>
+<l>on sindrearnum,</l>
+<l>and siððan å</l>
+<l>wunian in worulde,</l>
+</lg>
+<lg>
+<l>770 weorca to leane.</l>
+<l>þisses fugles gecynd</l>
+<l>fela gelices</l>
+<l>bi þam gecornum</l>
+<l>Cristes þegnum</l>
+</lg>
+<lg>
+<l>775 beacnað in burgum,</l>
+<l>hu hi beorhtne gefean</l>
+<l>þmrh fæderfultum</l>
+<l>on þas fræcnan tid</l>
+<l>healdað under heofonum,</l>
+</lg>
+<lg>
+<l>780 and him heanne blæd</l>
+<l>in þam uplican</l>
+<l>eðle gestrynað.</l>
+<l>Habbað we geascad,</l>
+<l>þæt se ælmihtiga</l>
+</lg>
+<lg>
+<l>785 worhte wer and wif,</l>
+<l>þurh his wundra sped,</l>
+<l>and hi þa gesette</l>
+<l>on þone selestan</l>
+<l>foldan sceates,</l>
+</lg>
+<lg>
+<l>790 þone fira bearn</l>
+<l>nemnað Neorxnawong,</l>
+<l>þær him nænges wæs</l>
+<l>eades onsyn,</l>
+<l>þenden Eces word</l>
+</lg>
+<lg>
+<l>795 (Halges hleoðorcwide)</l>
+<l>healdan woldon;</l>
+<l>on þam niwan gefean</l>
+<l>þær him nið gescod,</l>
+<l>ealdfeondes æfest,</l>
+</lg>
+<lg>
+<l>800 se him ætgebead</l>
+<l>beames biede,</l>
+<l>þæt hi bu þegun</l>
+</lg>
+<p>751 maa vel "meahta" læses "meahtiga."</p>
+<p>793 maa "onsyn" efter Sammenhængen være "nægtet," og Angelsachserne har altsaa havt et Verbum svarende til det Islandske "synia" at nægte.</p>
+<lg>
+<l>turbaqve perseqvitur munere læta pio.</l>
+<l>Sed postqvam puri pervenit ad ætheris auras,</l>
+</lg>
+<lg>
+<l>160 mox redit ista; suis conditur illa locis.</l>
+<l>At fortunatæ sortis fatiqve volucrem,</l>
+<l>cui de se nasci præstitit ipse Deus!</l>
+<l>Fæmina vel mas hæc, seu neutrum, seu sit</l>
+<l>utrumqve,</l>
+<l>felix, qvæ Veneris fædera nulla colit!</l>
+</lg>
+<lg>
+<l>165 mors illi venus est, sola est in morte voluptas,</l>
+<l>ut possit nasci, adpetit usqve mori.</l>
+<l>Ipsa sibi proles, suus est pateret suus hæres;</l>
+<l>nutrix ipsa sui, semper alumna sibi.</l>
+<l>Ipsa qvidem, sed non eadem, qvia et ipsa nec ipsa est,</l>
+</lg>
+<lg>
+<l>170 æternam vitam mortis adepta bono.</l>
+</lg> 
+<pb facs="1840_30_page0036.png"/>
+<fw type="pageNum">36</fw>
+<lg>
+<l>æppel unrædum,</l>
+<l>ofer est Godes,</l>
+</lg>
+<lg>
+<l>805 byrgdon forbodene.</l>
+<l>þær him bitter wearð</l>
+<l>yrmðu æfter æte,</l>
+<l>and hyra eaferum</l>
+<l>swa sarlic symbel,</l>
+</lg>
+<lg>
+<l>810 (sunum and dohtrum)</l>
+<l>wurdon teonlice</l>
+<l>to þas idge a geald</l>
+<l>æfter gylte,</l>
+<l>hæfdon Godes yrre,</l>
+</lg>
+<lg>
+<l>815 bittre bealosorge,</l>
+<l>þæs pa byre siððan</l>
+<l>gyrne onguldon,</l>
+<l>þe hi þæt gyfl þegun,</l>
+<l>ofer Eces word;</l>
+</lg>
+<lg>
+<l>820 forðon hi eðles wyn</l>
+<l>geomormode</l>
+<l>ofgiefan sceoldon,</l>
+<l>þurh nædran nið,</l>
+<l>þa hio nearwe biswac</l>
+</lg>
+<lg>
+<l>825 yldran lisse,</l>
+<l>in ærdægum,</l>
+<l>þurh fæene ferð,</l>
+<l>þæt hi feor þonan</l>
+<l>in þas deaðdene</l>
+</lg>
+<lg>
+<l>830 drohtað sohton,</l>
+<l>sorgfulran gesetu.</l>
+<l>him wearð selle lif</l>
+<l>heolstre bihyded,</l>
+<l>and se halga wong</l>
+</lg>
+<lg>
+<l>835 þurh feondes searo</l>
+<l>fæste bityned,</l>
+<l>wintra mengu,</l>
+<l>oð þæt wuldorcyning</l>
+<l>þurh his hidercyme,</l>
+</lg>
+<lg>
+<l>840 halgum to heanes,</l>
+<l>(moncynnes gefea,</l>
+<l>meðra frefrend,</l>
+<l>and se anga hyht,)</l>
+<l>eft ontynde.</l>
+</lg>
+<lg>
+<l>845 is þon gelicast</l>
+<l>þæs þe us leorneras</l>
+<l>wordum secgað</l>
+<l>and writu cyðað,</l>
+<l>þisses fugles gefær,</l>
+</lg>
+<lg>
+<l>850 þonne frod ofgiefeð</l>
+<l>eard and eðel,</l>
+<l>and gealdad bið,</l>
+<l>gewiteð werigmod,</l>
+<l>wintrum gebysgad,</l>
+</lg>
+<lg>
+<l>855 þþær he holtes hleo</l>
+<l>heah gemeteð;</l>
+<l>in þam he getimbreð,</l>
+<l>tanum and wyrtum</l>
+<l>þam æðelestum,</l>
+</lg>
+<lg>
+<l>860 eardwic niwe,</l>
+<l>nest on bearwe,</l>
+<l>bið him neod micel,</l>
+<l>þæt he feorhgeong eft</l>
+<l>onfon mote,</l>
+</lg>
+<lg>
+<l>865 þþurh liges blæst,</l>
+<l>lif æfter deaðe,</l>
+<l>edgeong wesan,</l>
+<l>and his eald cyððu,</l>
+<l>sunbeorht gesetu,</l>
+</lg>
+<lg>
+<l>870 secan mote,</l>
+<l>æfter fyrbaðe.</l>
+<l>swa þa foregengan,</l>
+<l>yldran usse,</l>
+<l>an-forleton</l>
+</lg>
+<p>812 er mig aldeles uforstaaelig, rimeligviis fattes nogle Linier.</p>
+<p>818 gifl. 827 ferhð.</p>
+<p>836 betyned. 837 mengum.</p>
+<p>840 togeanes.</p>
+<p>842 meðigra.</p>
+<pb facs="1840_30_page0037.png"/>
+<fw type="pageNum">37</fw>
+<lg>
+<l>875 þone wlitigan wong,</l>
+<l>and wuldres setl,</l>
+<l>leoflic on laste,</l>
+<l>tugon longne sið</l>
+<l>in hearmra hond,</l>
+</lg>
+<lg>
+<l>880 þser him hettende</l>
+<l>earme aglæcan</l>
+<l>oft gescodan;</l>
+<l>wæron hwæðre monge,</l>
+<l>þa þe Meotude we</l>
+</lg>
+<lg>
+<l>885 gehyrdan under heofonum,</l>
+<l>halgum þeawum,</l>
+<l>dædum domlicum,</l>
+<l>þæt him Dryhten wearð</l>
+<l>(heofona heahcyning)</l>
+</lg>
+<lg>
+<l>890 hold on mode:</l>
+<l>þæt is se heah beam,</l>
+<l>in þam halge nu</l>
+<l>wic weardiað,</l>
+<l>þær him wihte ne mæg</l>
+</lg>
+<lg>
+<l>895 ealdfeonda nan</l>
+<l>atre sceððan,</l>
+<l>facnes tacne,</l>
+<l>on þa frecnan tid.</l>
+<l>þær him nest wyrceð</l>
+</lg>
+<lg>
+<l>900 wið niða gehwam,</l>
+<l>dædum domlicnm,</l>
+<l>Dryhtnes cempa,</l>
+<l>þonne he ælmessan</l>
+<l>earmum dæleð,</l>
+</lg>
+<lg>
+<l>905 dugeðaleasum,</l>
+<l>and him Dryhten gecygð,</l>
+<l>fæder on fultum,</l>
+<l>forðonetteð,</l>
+<l>lænan lifes</l>
+</lg>
+<lg>
+<l>910 leahtras dwæsceð,</l>
+<l>(mirce mandæde,)</l>
+<l>healdað Meotudes æ</l>
+<l>beald in breostum,</l>
+<l>and gebedu seeeð</l>
+</lg>
+<lg>
+<l>915 clænum gehygdum,</l>
+<l>and his cneo bigeð</l>
+<l>æðele to eorðan,</l>
+<l>flyhð yfla gehwyle,</l>
+<l>grimme gieltas,</l>
+</lg>
+<lg>
+<l>920 for Godes egsan;</l>
+<l>glædmod gyrneð,</l>
+<l>þæt he godra mæst</l>
+<l>dæda gefremme.</l>
+<l>(þam bið Dryhten scyld,</l>
+</lg>
+<lg>
+<l>925 in siða gehwane,</l>
+<l>sigora waldend,</l>
+<l>weoruda wilgiefa.)</l>
+<l>þis þa wyrta sind,</l>
+<l>wæstma biede,</l>
+</lg>
+<lg>
+<l>930 þa se wilda fugel</l>
+<l>somnað under swegle,</l>
+<l>side and wide,</l>
+<l>to his wicstowe,</l>
+<l>þær he wundrum fæst</l>
+</lg>
+<lg>
+<l>935 wið niða gehwam</l>
+<l>nest gewyrceð,</l>
+<l>swa nu in þam wicum,</l>
+<l>willan fremmað,</l>
+<l>mode and mægne,</l>
+</lg>
+<lg>
+<l>940 Meotudes cempan,</l>
+<l>mærða tilgað.</l>
+<l>þæs him meorde wile</l>
+<l>Ece ælmihtig</l>
+<l>eadge forgyldan;</l>
+</lg>
+<lg>
+<l>945 beoð him of þam wyrtum</l>
+<l>wic gestaðelad</l>
+<l>in wuldres byrig,</l>
+<l>weorca to leane,</l>
+</lg>
+<p>879 maa vel læses "lond" for "hond."</p>
+<p>884 þa þe Meotude wel.</p>
+<pb facs="1840_30_page0038.png"/>
+<fw type="pageNum">38</fw>
+<lg>
+<l>þæs þe hi geheoldan</l>
+</lg>
+<lg>
+<l>950 halge lare,</l>
+<l>hate æt eortan,</l>
+<l>hige weallende,</l>
+<l>dæges and nihtes,</l>
+<l>Dryhten lufiað,</l>
+</lg>
+<lg>
+<l>955 leohte geleafan</l>
+<l>leofne eeosað,</l>
+<l>ofer woruldwelan;</l>
+<l>ne bið him wynne hyht,</l>
+<l>þ æt hy þis læne lif</l>
+</lg>
+<lg>
+<l>960 long gewunien.</l>
+<l>þus eadig eorl</l>
+<l>ecan dreames,</l>
+<l>heofonahames,</l>
+<l>mid heahcyning,</l>
+</lg>
+<lg>
+<l>965 earnaðr on elne,</l>
+<l>oð þæt ende cymeð</l>
+<l>dogorrimes,</l>
+<l>þonne deað nimeð,</l>
+<l>wiga wælgifre,</l>
+</lg>
+<lg>
+<l>970 wæpnum geðryðed,</l>
+<l>ealðor anra gehwæs,</l>
+<l>and in eorðanfæðm</l>
+<l>snude sendað,</l>
+<l>sawlum binumene,</l>
+</lg>
+<lg>
+<l>975 læne lichoman,</l>
+<l>þær hi longe beoð</l>
+<l>oð fyres cyme</l>
+<l>foldan biðeahte.</l>
+<l>þonne monge beoð</l>
+</lg>
+<lg>
+<l>980 on gemot lædad,</l>
+<l>fyraeynnes;</l>
+<l>wile fæder engla,</l>
+<l>sigora soð cyning,</l>
+<l>seonoð gehegan,</l>
+</lg>
+<lg>
+<l>985 (duguða Dryhten)</l>
+<l>deman mid ryhte,</l>
+<l>þonne æriste</l>
+<l>ealle gefremmað</l>
+<l>men on moldan,</l>
+</lg>
+<lg>
+<l>990 swa se mihtiga cyning</l>
+<l>beodeð (brego engla)</l>
+<l>byman stefne,</l>
+<l>ofer sidne grund,</l>
+<l>(sawla nergenð.)</l>
+</lg>
+<lg>
+<l>995 bid se deorca deað</l>
+<l>Dryhtnes meahtum</l>
+<l>eadgum geendad,</l>
+<l>æðele hweorfað,</l>
+<l>þreatum þringað,</l>
+</lg>
+<lg>
+<l>1000 þonne þeos woruld,</l>
+<l>scyldwyrcende,</l>
+<l>in scome byrneð,</l>
+<l>ade onæled;</l>
+<l>weorðeð anra gehwylc</l>
+</lg>
+<lg>
+<l>1005 forht on ferhðe,</l>
+<l>þonne fyr briceð</l>
+<l>læne londwelan,</l>
+<l>lig eal þigeð</l>
+<l>eorðan æhtgestreon,</l>
+</lg>
+<lg>
+<l>1010 æpplede gold,</l>
+<l>gifre forgripeð,</l>
+<l>grædig swelgeð,</l>
+<l>londes frætwe.</l>
+<l>þonne on leoht cynieð</l>
+</lg>
+<lg>
+<l>1015 ældum þisses</l>
+<l>(in þa openan tid,</l>
+<l>fæger and gefealic,)</l>
+<l>fugles tacen,</l>
+<l>þonne Anwald eal</l>
+</lg>
+<lg>
+<l>1020 upastellað</l>
+<l>of byrgenum</l>
+<l>ban gegædrað,</l>
+<l>leomulic somod</l>
+</lg>
+<p>951 hate æt heortan.</p>
+<pb facs="1840_30_page0039.png"/>
+<fw type="pageNum">39</fw>
+<lg>
+<l>and Uges gæst,</l>
+</lg>
+<lg>
+<l>1025 fore Cristes cneo;</l>
+<l>cyning þrymlice</l>
+<l>of his heahsetle</l>
+<l>halgum scineð,</l>
+<l>wlitig wuldres gim.</l>
+</lg>
+<lg>
+<l>1030 wel bið þam þe mot</l>
+<l>in þa geomran tid</l>
+<l>Gode lician!</l>
+</lg>
+<p><hi rend="bold"><hi rend="align(right)">VI.</hi></hi></p>
+<lg>
+<l>Þær þa lichoman</l>
+<l>leahtra clæne,</l>
+</lg>
+<lg>
+<l>1035 gangað glædmode,</l>
+<l>gæstas hweorfað</l>
+<l>in banfatu,</l>
+<l>þorme bryne stigeð</l>
+<l>heah to heofonum;</l>
+</lg>
+<lg>
+<l>1040 hat bið monegum,</l>
+<l>egeslic æled,</l>
+<l>þonne anra gehwylc</l>
+<l>soðfæst gesynnig</l>
+<l>sawel midlice</l>
+</lg>
+<lg>
+<l>1045 from moldgrafum</l>
+<l>seceð Meotudes dom,</l>
+<l>forht afæred,</l>
+<l>fyr bið ontihte,</l>
+<l>æled uncyste.</l>
+</lg>
+<lg>
+<l>1050 þær þþa eadgan beoð,</l>
+<l>æfter wræchwile,</l>
+<l>weorcum bifongen,</l>
+<l>agnum dædum,</l>
+<l>þæt þþa æðelan sind</l>
+</lg>
+<lg>
+<l>1055 wyrtu wynsume,</l>
+<l>mid þam se wilda fugel</l>
+<l>his sylfes nest</l>
+<l>biseteð utan,</l>
+<l>þæt hit færinga</l>
+</lg>
+<lg>
+<l>1060 fyre byrneð,</l>
+<l>forsweleð under sunnan,</l>
+<l>and he sylfa mid,</l>
+<l>and þþonne æfter lige</l>
+<l>lif eft onfehð</l>
+</lg>
+<lg>
+<l>1065 edniwinga.</l>
+<l>swa bið anra gehwylc</l>
+<l>flæsce bifongen</l>
+<l>(firacynnes)</l>
+<l>ænlic and edgeong,</l>
+</lg>
+<lg>
+<l>1070 se þe his agnum her</l>
+<l>willum gewyrceð,</l>
+<l>þæt him wuldorcyning</l>
+<l>meahtig æt þam mæðle</l>
+<l>milde geweorðeð.</l>
+</lg>
+<lg>
+<l>1075 þonne hleoðriað</l>
+<l>halge gæstas,</l>
+<l>sawla soðfæste,</l>
+<l>song ahebbað</l>
+<l>clæne and gecorene,</l>
+</lg>
+<lg>
+<l>1080 hergað cyninges þrym,</l>
+<l>stefn æfter stefne,</l>
+<l>stigað to wuldre,</l>
+<l>wlitige gewyrtad</l>
+<l>mid hyra weldædum,</l>
+</lg>
+<lg>
+<l>1085 beoð þonne amerede</l>
+<l>monna gæstas,</l>
+<l>beorhte abywde</l>
+<l>þurh brynefyres.</l>
+<l>ne wene þær ænig</l>
+</lg>
+<lg>
+<l>1090 ældacynnes,</l>
+<l>þæt ic lygewordum</l>
+<l>leoð somnige,</l>
+<l>write woðcræfte!</l>
+<l>gehyrað witedom</l>
+</lg>
+<p>1824 lifes gæst.</p>
+<p>1044 see 1166.</p>
+<p>1083 maa "gewyrtad" svare (il det Tydske "gewürzte."</p>
+<p>1085 see 1264.</p>
+<p>1087 er "abywde" ubekiendt.</p>
+<pb facs="1840_30_page0040.png"/>
+<fw type="pageNum">40</fw>
+<lg>
+<l>1095 Jobes gieddinga</l>
+<l>þurh gæstes blæd!</l>
+<l>breostum onbryrded,</l>
+<l>beald reordade,</l>
+<l>wuldre geweorðad,</l>
+</lg>
+<lg>
+<l>1100 he þæt word gecwæð:</l>
+<l>ic þæt ne forhycge</l>
+<l>heortangeðoncum,</l>
+<l>þæt ic in minum neste</l>
+<l>neobed ceose,</l>
+</lg>
+<lg>
+<l>1105 hæle hram werig,</l>
+<l>gewite hean þonan</l>
+<l>on longne sið,</l>
+<l>lame bitolden,</l>
+<l>geomor gudæda,</l>
+</lg>
+<lg>
+<l>1110 in greotes fæðm,</l>
+<l>and þonne æfter deaðe</l>
+<l>þurh Dryhtnes gife,</l>
+<l>swa se fugel Fenix,</l>
+<l>feorh edniwe,</l>
+</lg>
+<lg>
+<l>1115 æfter æriste</l>
+<l>agan mote</l>
+<l>dreamas mid Dryhten,</l>
+<l>þær seo deore scolu</l>
+<l>leofne lofiað.</l>
+</lg>
+<lg>
+<l>1120 ic þæs lifes ne mæg</l>
+<l>æfre to ealdre</l>
+<l>ende gebidan,</l>
+<l>leohtes and lissa;</l>
+<l>þeah min lic scyle</l>
+</lg>
+<lg>
+<l>1125 on moldærne</l>
+<l>molsnad weorðan,</l>
+<l>wyrmum to willan,</l>
+<l>swa þeah weoruda God</l>
+<l>æfter swylthwile,</l>
+</lg>
+<lg>
+<l>1130 sawle alyseð,</l>
+<l>and in wuldor aweceð,</l>
+<l>me þæs wen næfre</l>
+<l>forbirsteð in breostum,</l>
+<l>þæt ic in brego engla</l>
+</lg>
+<lg>
+<l>1135 forðweardne gefean</l>
+<l>fæste hæbbe.</l>
+<l>þus frod guma,</l>
+<l>on fyrndagum,</l>
+<l>gieddade gleawmod,</l>
+</lg>
+<lg>
+<l>1140 (Godes spelboda)</l>
+<l>ymb his æriste</l>
+<l>in ece lif,</l>
+<l>þæt we þy geornor</l>
+<l>ongietan meahten</l>
+</lg>
+<lg>
+<l>1145 tirfæst tacen,</l>
+<l>þæt se torhta fugel</l>
+<l>þurh bryne beacnað,</l>
+<l>banalafe,</l>
+<l>ascan and yslan,</l>
+</lg>
+<lg>
+<l>1150 ealle gesomnað</l>
+<l>æfter ligbryne,</l>
+<l>Iædeð siððan</l>
+<l>fugel on fotum</l>
+<l>to Frean geardum,</l>
+</lg>
+<lg>
+<l>1155 sunnan togeanes,</l>
+<l>þær him siððan for? ð</l>
+<l>wuniað wintra fela,</l>
+<l>wæstmum geniwad,</l>
+<l>ealles edgeong.</l>
+</lg>
+<lg>
+<l>1160 þær ænig ne mæg</l>
+<l>in þam leodscipe</l>
+<l>læððum hwopan,</l>
+<l>swa nu æfter deaðe</l>
+<l>þurh Dryhtnes miht</l>
+</lg>
+<lg>
+<l>1165 somod siðiað</l>
+<l>sawla midlice,</l>
+</lg>
+<p>1104 er "neobed" ubekiendt.</p>
+<p>1105 maaske "hreamwerig"</p>
+<p>1109 geodæda,</p>
+<p>1117 Dryhtne.</p>
+<p>1133 forbersteð,</p>
+<p>1162 hwepan ö wepan,</p>
+<p>1166 see 1044.</p>
+<pb facs="1840_30_page0041.png"/>
+<fw type="pageNum">41</fw>
+<lg>
+<l>fægre gefrætwed,</l>
+<l>fugle gelicast,</l>
+<l>in eadwelan,</l>
+</lg>
+<lg>
+<l>1170 æðelum stencum,</l>
+<l>þær seo soðfæste</l>
+<l>sunne lihteð,</l>
+<l>wlitig ofer weorudum,</l>
+<l>in wuldres byrig.</l>
+</lg>
+<p><hi rend="bold"><hi rend="align(right)">VII.</hi></hi></p>
+<lg>
+<l>1175 Þonne soðfæstum</l>
+<l>sawlum scineð</l>
+<l>heah ofer hrofas</l>
+<l>Hælen de Crist;</l>
+<l>him folgiað</l>
+</lg>
+<lg>
+<l>1180 fuglas scyne,</l>
+<l>beorhte gebredade,</l>
+<l>blissum hremige,</l>
+<l>in þam gladan ham,</l>
+<l>gæstas gecorene,</l>
+</lg>
+<lg>
+<l>1185 ece to ealdre;</l>
+<l>þær him yfle ne mæg</l>
+<l>fah feondgemah</l>
+<l>facne sceððan,</l>
+<l>ac þær lifgað å,</l>
+</lg>
+<lg>
+<l>1190 leohte werede,</l>
+<l>swa se fugel Fenix,</l>
+<l>in freoðu Dryhtnes,</l>
+<l>wlitige in wuldre;</l>
+<l>weorc anra gehwæs</l>
+</lg>
+<lg>
+<l>1195 beorhte bliceð</l>
+<l>in þam bliðum ham,</l>
+<l>fore onsyne</l>
+<l>ecan Dryhtnes,</l>
+<l>symle in sibbe</l>
+</lg>
+<lg>
+<l>1200 sunnan gelice.</l>
+<l>þær se beortha beag,</l>
+<l>brogden wundrum,</l>
+<l>eorcnanstanum,</l>
+<l>eadigra gehwam</l>
+</lg>
+<lg>
+<l>1205 hlifað ofer heafde,</l>
+<l>heafelan lixeð,</l>
+<l>þrymme biðeahte,</l>
+<l>þeodnes cynegold</l>
+<l>soðfæstra gehwone</l>
+</lg>
+<lg>
+<l>1210 sellic glengeð,</l>
+<l>leohte in life.</l>
+<l>þær se longa gefea,</l>
+<l>ece and edgeong,</l>
+<l>æfre ne sweðrað,</l>
+</lg>
+<lg>
+<l>1215 ac hy in wlite wuniað,</l>
+<l>wuldre bitolden,</l>
+<l>fægrum frætwum,</l>
+<l>mid fæder Engla;</l>
+<l>ne bið him on þam wicum</l>
+</lg>
+<lg>
+<l>1220 wiht to sorge,</l>
+<l>wroht ne weðel,</l>
+<l>ne gewindagas,</l>
+<l>hungor se hata,</l>
+<l>ne se hearda þurst,</l>
+</lg>
+<lg>
+<l>1225 yrmðu ne yldo;</l>
+<l>him se æðela cyning</l>
+<l>forgifeð goda gehwylc.</l>
+<l>þær gæsta gedryht</l>
+<l>Hælend hergað,</l>
+</lg>
+<lg>
+<l>1230 and heofoncyninges</l>
+<l>meahte mærsiað,</l>
+<l>singað Metude lof;</l>
+<l>swinsað sibgedryht,</l>
+<l>swega mæste,</l>
+</lg>
+<lg>
+<l>1235 hædre ymb þæt halge</l>
+<l>heahseld Godes,</l>
+<l>bliðe bletsiað,</l>
+<l>Bregu selestan,</l>
+<l>eadge mid Englum,</l>
+</lg>
+<lg>
+<l>1240 efenhleðbre þus:</l>
+</lg>
+<p>1181 see 742.</p>
+<p>1210 glengan: at pryde.</p>
+<pb facs="1840_30_page0042.png"/>
+<fw type="pageNum">42</fw>
+<lg>
+<l>"sib si þe, soð God,</l>
+<l>"and snyttrucræft!</l>
+<l>"and þe þonc sy</l>
+<l>"þrymsittendum,</l>
+</lg>
+<lg>
+<l>1245 "geongra gyfena,</l>
+<l>"goda gehwylces,</l>
+<l>"micel unmæte</l>
+<l>"mægnes strendu,</l>
+<l>"heah and halig!</l>
+</lg>
+<lg>
+<l>1250 "heofonas sindon</l>
+<l>"fægre gefylled,</l>
+<l>"Fæder ælmihtig!</l>
+<l>"(ealra frymma þrym!)</l>
+<l>"þines wuldres,</l>
+</lg>
+<lg>
+<l>1255 "uppe raid Englum,</l>
+<l>"and on eorðan somod;</l>
+<l>"gefreoða usic,</l>
+<l>"frymða Scyppend!</l>
+<l>"þu eart fæder ælmihtig</l>
+</lg>
+<lg>
+<l>1260 "in heannesse,</l>
+<l>"heofuna waldend."</l>
+<l>Þus reordiað</l>
+<l>ryhtfremmende,</l>
+<l>månes arnerede,</l>
+</lg>
+<lg>
+<l>1265 in þære mæran byrig,</l>
+<l>cyneþrym cyðað,</l>
+<l>Caseres lof</l>
+<l>singað on swegle</l>
+<l>soðfæstra gedryht.</l>
+</lg>
+<lg>
+<l>1270 þam anum is</l>
+<l>ece weorðmynd,</l>
+<l>forð butan ende;</l>
+<l>næs his frymd æfre,</l>
+<l>eades ongyn,</l>
+</lg>
+<lg>
+<l>1275 þeah he on eorðan her,</l>
+<l>þurh cildeshad,</l>
+<l>cenned wære</l>
+<l>in middangeard,</l>
+<l>hwæðre his meahta sped</l>
+</lg>
+<lg>
+<l>1280 heah ofer heofunum</l>
+<l>halig wunade,</l>
+<l>dorn unbryce.</l>
+<l>þeah he deaðes cwealm</l>
+<l>on rodetreow</l>
+</lg>
+<lg>
+<l>1285 ræfnan sceolde,</l>
+<l>þearlic wite,</l>
+<l>he þy þriddan dæge</l>
+<l>æfter lices hryre</l>
+<l>lif eft onfeng,</l>
+</lg>
+<lg>
+<l>1290 þurh fæderfulturn;</l>
+<l>swa Fenix beacnað,</l>
+<l>geong in geardum,</l>
+<l>Godbearnes meaht,</l>
+<l>þonne he of ascan</l>
+</lg>
+<lg>
+<l>1295 eft onwæcned</l>
+<l>in lifes lif,</l>
+<l>leomum geðungen;</l>
+<l>swa se Hælend us</l>
+<l>elpe gefremede,</l>
+</lg>
+<lg>
+<l>1300 þurh his lifes gedal,</l>
+<l>lif butan ende.</l>
+<l>swa se fugel swetum</l>
+<l>his fiðrutum</l>
+<l>and wynsumum</l>
+</lg>
+<lg>
+<l>1305 wyrtum gefylleð,</l>
+<l>fægrum foldwæstmurn,</l>
+<l>þonne afysed bið;</l>
+<l>þæt sindon þa word,</l>
+<l>(swa us gewritu secgaðþ</l>
+</lg>
+<lg>
+<l>1310 hleoðor haligra,</l>
+<l>þe him to heofonum bið,</l>
+</lg>
+<p>1248 mægnes strengðu.</p>
+<p>1264 see 1085 af amerian: at rense.</p>
+<p>1295 onwæcneð,</p>
+<p>1299 helpe.</p>
+<p>1303 er "fiðrutum" et fortvivlet Ord, og; "Reden" fattes.</p>
+<pb facs="1840_30_page0043.png"/>
+<fw type="pageNum">43</fw>
+<lg>
+<l>to þam mildan Gode,</l>
+<l>mod afysed,</l>
+<l>in dreama dream;</l>
+</lg>
+<lg>
+<l>1315 þær hi Dryhtne to giefe</l>
+<l>worda and weorca</l>
+<l>wynsumne stenc</l>
+<l>in þa mæran gesceaft</l>
+<l>Meotude bringað</l>
+</lg>
+<lg>
+<l>1320 in þæt leohte lif.</l>
+<l>Sy Him lof symle</l>
+<l>þurh woruld worulda,</l>
+<l>and wuldres blæd,</l>
+<l>ar and onwald,</l>
+</lg>
+<lg>
+<l>1325 in þam uplican</l>
+<l>rodera rice!</l>
+<l>He is on ryht cyning</l>
+<l>middangeardes,</l>
+<l>and mægen þrymmes,</l>
+</lg>
+<lg>
+<l>1330 wuldre biwunden,</l>
+<l>in þære wlitegan byrig;</l>
+<l>hafað us alyfed</l>
+<l>lucis auctor,</l>
+<l>þæt we motun her</l>
+</lg>
+<lg>
+<l>1335 merueri,</l>
+<l>goddædum begietan</l>
+<l>gaudia in celo,</l>
+<l>þær we motun</l>
+<l>maxima regna</l>
+</lg>
+<lg>
+<l>1340 secan, and gesittan</l>
+<l>sedibus altis,</l>
+<l>lifgan in lisse</l>
+<l>lucis et pacis,</l>
+<l>agan eardinga</l>
+</lg>
+<lg>
+<l>1345 alma lætitiæ,</l>
+<l>brucan blæd daga</l>
+<l>blandem et mitem,</l>
+<l>geseon sigora Frean</l>
+<l>sine fine,</l>
+</lg>
+<lg>
+<l>1350 and Him lof singan</l>
+<l>laude perenne,</l>
+<l>eadge mid Englum,</l>
+<l>Alleluja:,: -:</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div> 
+<pb facs="1840_30_page0044.png"/>
+<fw type="pageNum"></fw>
+<head>FRI FORDANSKNING.</head>
+<lg>
+<l>I Österleden,</l>
+<l>og langveis heden,</l>
+<l>der er et Land,</l>
+<l>berömt i Sange,</l>
+<l>skiöndt ei af Mange</l>
+<l>det findes kan,</l>
+<l>navnkundigt vide</l>
+<l>for Luun og Blide,</l>
+<l>og Deilighed.</l>
+</lg>
+<lg>
+<l>Speilklar er Luften,</l>
+<l>og sod er Duften,</l>
+<l>usigelig,</l>
+<l>hvor faur af Soen</l>
+<l>sig hæver Öen,</l>
+<l>ulignelig,</l>
+<l>som Yndlings-Værket,</l>
+<l>som Mindes-Mærket</l>
+<l>af Almagts Haand.</l>
+</lg>
+<lg>
+<l>Der, som paa Vinger,</l>
+<l>fuldtit opspringer</l>
+<l>den skjulte Port</l>
+<l>fra Blomster-Tuen</l>
+<l>til Stjerne-Buen,</l>
+<l>Vidunder stort,</l>
+<l>for dem i Vange,</l>
+<l>som Engle-Sange</l>
+<l>mon drage did.</l>
+</lg>
+<lg>
+<l>De grönne Skove,</l>
+<l>den blanke Vove,</l>
+<l>den klare Luft,</l>
+<l>de Fugle-Sange,</l>
+<l>de Blomster-Vange,</l>
+<l>den sode Duft,</l>
+<l>hvor Himmel-Egne</l>
+<l>om Jorden hegne,</l>
+<l>er Magelöst.</l>
+</lg>
+<lg>
+<l>Ja, fri tilfulde</l>
+<l>for Frost og Kulde</l>
+<l>er Holmen prud,</l>
+<l>for Snee, som fyger,</l>
+<l>for Hagel-Byger,</l>
+<l>for Regn og Slud,</l>
+<l>for alskens Plage,</l>
+<l>for Hunde-Dage</l>
+<l>og Höge-Nat.</l>
+</lg>
+<lg>
+<l>Ei er den bakket,</l>
+<l>ei klippetakket,</l>
+<l>men jævn og slet,</l>
+<l>for Folke-Öine</l>
+<l>sig ei mon höine</l>
+<l>den mindste Plet;</l>
+<l>ei Brink i Bue,</l>
+<l>ei Myre-Tue</l>
+<l>er der at see.</l>
+</lg> 
+<pb facs="1840_30_page0045.png"/>
+<fw type="pageNum">45</fw>
+<lg>
+<l>Saa höit dog oppe</l>
+<l>ei Klippe-Toppe</l>
+<l>er trindt om Land,</l>
+<l>som Straale-Vangen</l>
+<l>med Fugle-Sangen</l>
+<l>paa Himlens Rand,</l>
+<l>den overvinder</l>
+<l>skyhöie Tinder</l>
+<l>med Favne tolv.</l>
+</lg>
+<lg>
+<l>Der staaer uhærget</l>
+<l>paa Flakke-Bjerget</l>
+<l>en Skov fuldskiön,</l>
+<l>i Klæder blanke,</l>
+<l>med Stammer ranke,</l>
+<l>og immergrön;</l>
+<l>dens Lov ei falder,</l>
+<l>af Aar og Alder</l>
+<l>den falmer ei.</l>
+</lg>
+<lg>
+<l>I gamle Dage,</l>
+<l>fuldlangt tilbage,</l>
+<l>i Flodens Tid,</l>
+<l>da saa det regned,</l>
+<l>at Bjerge segned</l>
+<l>i Bölge-Strid,</l>
+<l>den Skov alene</l>
+<l>med friske Grene</l>
+<l>stod klippefast.</l>
+</lg>
+<lg>
+<l>Ja Solbar-Lunden,</l>
+<l>af Rod oprunden</l>
+<l>med Livets Træ,</l>
+<l>skal lee ad Striden,</l>
+<l>og trodse Tiden,</l>
+<l>og skiænke Læ,</l>
+<l>til Verdens Dommer</l>
+<l>i Skyen kommer,</l>
+<l>med Lynilds-Blik.</l>
+</lg>
+<lg>
+<l>Lyksaligt Landet,</l>
+<l>som intet Andet,</l>
+<l>paa Jordens Bold,</l>
+<l>hvor ei er Jammer,</l>
+<l>ei Tvedragts-Flammer,</l>
+<l>ei List og Vold,</l>
+<l>hvor Sot og Ælde</l>
+<l>har ingen Vælde,</l>
+<l>og Död ei Brodd!</l>
+</lg>
+<lg>
+<l>Der seer man ikke</l>
+<l>En Part at tigge</l>
+<l>for dagligt Brod,</l>
+<l>en Part at prale</l>
+<l>med gyldne Sale,</l>
+<l>i Lykkens Skiöd!</l>
+<l>der Vind og Vove</l>
+<l>og Sorger sove</l>
+<l>med Synd og Död!</l>
+</lg>
+<lg>
+<l>Hvor immer blaaner</l>
+<l>og aldrig graaner</l>
+<l>Skyhimmel klar,</l>
+<l>den Öe, som Eden,</l>
+<l>af Væld fra neden</l>
+<l>sin Vædske har,</l>
+<l>den at husvale,</l>
+<l>som Dugg i Dale,</l>
+<l>saa frydelig.</l>
+</lg>
+<lg>
+<l>I Skovens Midte,</l>
+<l>hvor Straaler titte</l>
+<l>til Kilden bly,</l>
+<l>fra sode Moder</l>
+<l>udspringe Floder</l>
+<l>i hvert et Ny,</l>
+<l>sig yndig slynge,</l>
+<l>og Alt forynge</l>
+<l>med Kys i Lön!</l>
+</lg> 
+<pb facs="1840_30_page0046.png"/>
+<fw type="pageNum">46</fw>
+<lg>
+<l>Saa Straaler bolde</l>
+<l>og Bölger kolde,</l>
+<l>til Frugtbarhed,</l>
+<l>tolv Gange modes,</l>
+<l>og Alt gienfødes</l>
+<l>med Fryd og Fred;</l>
+<l>det grönne Blade</l>
+<l>fortælle glade</l>
+<l>til Blomster smaa.</l>
+</lg>
+<lg>
+<l>Ei falmer Lovet,</l>
+<l>sin Saft berövet</l>
+<l>i Efteraar,</l>
+<l>ei Blomsten visner,</l>
+<l>ei Bølgen isner,</l>
+<l>med bange Kaar,</l>
+<l>hvor Liv og Glæde</l>
+<l>sig sammenkiæde</l>
+<l>i Straale-Glands!</l>
+</lg>
+<lg>
+<l>Det er Hans Vilje,</l>
+<l>som Markens Lilje</l>
+<l>gav Dronning-Pragt,</l>
+<l>at saa skal kiendes,</l>
+<l>til Tiden endes,</l>
+<l>Hans Skaber-Magt,</l>
+<l>Hans Viisdoms Gaade,</l>
+<l>Hans Gunst og Naade</l>
+<l>paa Jorderig.</l>
+</lg>
+<lg>
+<l>Vidunder-Skoven,</l>
+<l>med Gunst fra Oven,</l>
+<l>en Fugl beboer,</l>
+<l>fuldnem at mindes,</l>
+<l>for Mage findes</l>
+<l>der ei paa Jord,</l>
+<l>han boer alene</l>
+<l>i Skov hin rene,</l>
+<l>Fugl Fenix kaldt.</l>
+</lg>
+<lg>
+<l>Herold for Solen</l>
+<l>paa Dronning-Stolen,</l>
+<l>1 Stjerne-Vang,</l>
+<l>den Lynildsnare</l>
+<l>med Flid skal vare</l>
+<l>paa Lysets Gang,</l>
+<l>med Höisang mode</l>
+<l>hver Morgen-Rode</l>
+<l>sin Dronning fin.</l>
+</lg>
+<lg>
+<l>Naar Nat hin sorte</l>
+<l>ad Vestens Porte</l>
+<l>udskrider tvær,</l>
+<l>for i sin Hule</l>
+<l>sig der at skjule,</l>
+<l>for Straale-Skiær,</l>
+<l>og Stjerner fölge,</l>
+<l>for snildt at dölge</l>
+<l>det matte Blik;</l>
+</lg>
+<lg>
+<l>Mens Skygger stride</l>
+<l>i Öster-Lide</l>
+<l>paa Liv og Död,</l>
+<l>for Sol opsvinger</l>
+<l>paa gyldne Vinger</l>
+<l>sig morgenrod,</l>
+<l>til Kilden daler</l>
+<l>og sig husvaler</l>
+<l>Daglysets Fugl.</l>
+</lg>
+<lg>
+<l>Med kolde Bölger</l>
+<l>sig Kilden dölger</l>
+<l>i Skovens Favn,</l>
+<l>og dens Indbygger</l>
+<l>tolv Gange dykker</l>
+<l>i Lysets Navn,</l>
+<l>tolv Gange bader</l>
+<l>sig Mörkets Hader</l>
+<l>i Solbars-Væld.</l>
+</lg> 
+<pb facs="1840_30_page0047.png"/>
+<fw type="pageNum">47</fw>
+<lg>
+<l>Blandt Skovens Palmer,</l>
+<l>hvis Glands ei falmer,</l>
+<l>der er dog Een,</l>
+<l>som rankest rönnes,</l>
+<l>og feirest grönnes,</l>
+<l>med Farve reen,</l>
+<l>der tager Sæde</l>
+<l>paa Kviste spæde</l>
+<l>Daglysets Fugl.</l>
+</lg>
+<lg>
+<l>I Palmens Krone</l>
+<l>der er hans Throne,</l>
+<l>der er hans Bavn,</l>
+<l>derfra han skuer</l>
+<l>de skjulte Luer</l>
+<l>i Bølgens Favn,</l>
+<l>men kvær han tier,</l>
+<l>og oppebier</l>
+<l>Lys-Englens Byrd.</l>
+</lg>
+<lg>
+<l>I Morgen-Rode,</l>
+<l>Naar Skyer glöde</l>
+<l>med nyfödt Glands,</l>
+<l>og Guld-Glimt hoppe</l>
+<l>paa Skovens Toppe,</l>
+<l>i Straale-Dands,</l>
+<l>da forst udsvinger</l>
+<l>paa gyldne Vinger</l>
+<l>sig Fuglen brat.</l>
+</lg>
+<lg>
+<l>Da flammer Brystet,</l>
+<l>da blir höiröstet</l>
+<l>den Fugl saa prud,</l>
+<l>og hilser Solen</l>
+<l>paa Dronning-Stolen</l>
+<l>som Konge-Brud,</l>
+<l>og Toner skifte,</l>
+<l>som Vinger vifte,</l>
+<l>i Jevn-Klang söd!</l>
+</lg>
+<lg>
+<l>Ei hordes Mage</l>
+<l>fra hine Dage</l>
+<l>i Arildstid,</l>
+<l>da Stjerne-Hæren</l>
+<l>til Skaber-Æren</l>
+<l>istemmed blid,</l>
+<l>fra Himmel-Throner,</l>
+<l>de Lovsangs-Toner,</l>
+<l>som tie nu.</l>
+</lg>
+<lg>
+<l>Ja, forst i Rangen</l>
+<l>staaer Fenix-Sangen</l>
+<l>nu paa vor Jord,</l>
+<l>mens Tiden rinder,</l>
+<l>den Prisen vinder,</l>
+<l>fra alle Chor,</l>
+<l>den Folke-Stemmer</l>
+<l>saavel beskæmmer</l>
+<l>som Strængeleg!</l>
+</lg>
+<lg>
+<l>Ei Nattergalen</l>
+<l>i Sommer-Salen</l>
+<l>saa höit kan slaae,</l>
+<l>og Södme-Klangen</l>
+<l>i Svane-Sangen</l>
+<l>maa den forsmaae,</l>
+<l>som horde sjunge</l>
+<l>den Fugle-Tunge</l>
+<l>til Lysets Priist</l>
+</lg>
+<lg>
+<l>Lad Harpen hænge</l>
+<l>med slappe Strænge</l>
+<l>paa Borge-Mur,</l>
+<l>blandt Sangerinder</l>
+<l>med blege Kinder,</l>
+<l>hos Horn og Lur,</l>
+<l>hvor Orgel-Værket</l>
+<l>er ubemærket,</l>
+<l>som Pip og Nyn!</l>
+</lg> 
+<pb facs="1840_30_page0048.png"/>
+<fw type="pageNum">48</fw>
+<lg>
+<l>Alt stiger Sangen</l>
+<l>fra Sol-Opgangen</l>
+<l>til Middags-Tid;</l>
+<l>naar Solen daler,</l>
+<l>den omt husvaler,</l>
+<l>vemodig blid;</l>
+<l>med Aften-Rode</l>
+<l>i Toner sode</l>
+<l>den smelter hen.</l>
+</lg>
+<lg>
+<l>I Efter-Glandsen</l>
+<l>af Straale-Dandsen</l>
+<l>til Natmaal nyt,</l>
+<l>tre Gange svinger</l>
+<l>og slaaer med Vinger</l>
+<l>Fugl Fenix lydt;</l>
+<l>og kvær saa tier,</l>
+<l>paa Dagen bier</l>
+<l>i Timer tolv.</l>
+</lg>
+<lg>
+<l>Saa Dage svinde,</l>
+<l>og Nætter rinde</l>
+<l>i tusind Aar,</l>
+<l>for Sol-Herolden</l>
+<l>paa Grönne-Volden</l>
+<l>med gyldne Kaar,</l>
+<l>de smelte sammen</l>
+<l>i Fryd og Gammen,</l>
+<l>i Sole-Glands!</l>
+</lg>
+<lg>
+<l>Dog Fenix lærer,</l>
+<l>at Tiden tærer,</l>
+<l>hvor seent det gaaer,</l>
+<l>ham Soel forgylder,</l>
+<l>til glad han fylder</l>
+<l>sit Tusind-Aar,</l>
+<l>men Bladet vendes,</l>
+<l>og Glæden endes</l>
+<l>i samme Stund.</l>
+</lg>
+<lg>
+<l>Ei meer han synger,</l>
+<l>for Aldren tynger</l>
+<l>paa Sind og Sang,</l>
+<l>paa matte Vinger</l>
+<l>han sig bortsvinger</l>
+<l>fra Straale-Vang,</l>
+<l>til Ork og Hede,</l>
+<l>hvor Vætter vrede</l>
+<l>med Sorgen boe.</l>
+</lg>
+<lg>
+<l>Dog ei sig skjule</l>
+<l>for Himlens Fugle</l>
+<l>kan Fenix der,</l>
+<l>paa lette Vinger</l>
+<l>ham brat omringer</l>
+<l>en mægtig Hær,</l>
+<l>ham Konning kalde,</l>
+<l>og kappes alle</l>
+<l>om Kongens Gunst.</l>
+</lg>
+<lg>
+<l>Det ei kan feile,</l>
+<l>de Alle beile,</l>
+<l>med Buk og Priis,</l>
+<l>til höit i Ære</l>
+<l>hos ham at være,</l>
+<l>paa Hofmands-Viis,</l>
+<l>men han undviger,</l>
+<l>og efterhiger</l>
+<l>kun Stilhed dyb.</l>
+</lg>
+<lg>
+<l>Det aarle skedte,</l>
+<l>at Skjul beredte</l>
+<l>ham Skaber-Haand,</l>
+<l>hinsides Voven,</l>
+<l>i Ceder-Skoven</l>
+<l>paa Libanon;</l>
+<l>men seen at finde</l>
+<l>er dog derinde</l>
+<l>den dunkle Vraa.</l>
+</lg> 
+<pb facs="1840_30_page0049.png"/>
+<fw type="pageNum">49</fw>
+<lg>
+<l>J Skovens Midte,</l>
+<l>ei nem at hitte,</l>
+<l>en Palme staaer,</l>
+<l>en Fenix-Stamme,</l>
+<l>som for det samme,</l>
+<l>blev tusind Aar,</l>
+<l>der Fenix bygger</l>
+<l>i brede Skygger</l>
+<l>sin Rede snild.</l>
+</lg>
+<lg>
+<l>Foruden Hvile,</l>
+<l>det Værk mon ile</l>
+<l>med Kæmpe-Skridt;</l>
+<l>for Fenix trænges,</l>
+<l>derefter længes</l>
+<l>at vorde kvit</l>
+<l>sin Alders Tynge,</l>
+<l>og sig forynge</l>
+<l>til Nyaars-Tid!</l>
+</lg>
+<lg>
+<l>Med disse Tanker</l>
+<l>han modig Sanker</l>
+<l>til Rede sin,</l>
+<l>som Bier vevre</l>
+<l>til Seller snevre</l>
+<l>med Honning fiin,</l>
+<l>ham Duften leder,</l>
+<l>som vidt udbreder</l>
+<l>hver Södme-Kalk!</l>
+</lg>
+<lg>
+<l>Hvor Vellugt findes,</l>
+<l>der Tommer vindes</l>
+<l>til Brattingsborg,</l>
+<l>som Fenix bygger</l>
+<l>i Palme-Skygger</l>
+<l>med Fryd og Sorg,</l>
+<l>i Vaar og Sommer,</l>
+<l>af Bark og Blommer,</l>
+<l>og Viraks-Korn.</l>
+</lg>
+<lg>
+<l>Saa Fenix sanker</l>
+<l>af Södme-Planker</l>
+<l>sit Grav-Kapel,</l>
+<l>med gode Stunder</l>
+<l>da södt han blunder</l>
+<l>i Livets Kveld,</l>
+<l>til Solhvervs-Dagen,</l>
+<l>som klarer Sagen</l>
+<l>med Blus og Baal</l>
+</lg>
+<lg>
+<l>Naar i Skiærsommer</l>
+<l>en Straale kommer</l>
+<l>derind paa skraa,</l>
+<l>hvor Fenix bygger</l>
+<l>i Palme-Skygger</l>
+<l>i dunkle Vraa;</l>
+<l>da voxer Heden</l>
+<l>i Fenix-Reden</l>
+<l>saa overbrat.</l>
+</lg>
+<lg>
+<l>Ei Fier i Senge</l>
+<l>saa let mon fænge,</l>
+<l>som Blomst og Bark,</l>
+<l>I Favne-Maalet,</l>
+<l>og Fenix-Baalet</l>
+<l>paa Straale-Mark,</l>
+<l>mod Himmel-Bue</l>
+<l>slaaer op i Lue</l>
+<l>den Soel hvervs-Dag.</l>
+</lg>
+<lg>
+<l>Sol-Straalen tænder,</l>
+<l>Sol-Fuglen brænder</l>
+<l>med Rede sin,</l>
+<l>og svangrer Luften</l>
+<l>med Södme-Duften</l>
+<l>af Krandsen fiin,</l>
+<l>saa Virak-Skyer</l>
+<l>hans Priis fornyer</l>
+<l>paa Jordens Kreds.</l>
+</lg> 
+<pb facs="1840_30_page0050.png"/>
+<fw type="pageNum">50</fw>
+<lg>
+<l>Fuldkiække Buer</l>
+<l>de Rosen-Luer</l>
+<l>i Luften slaae,</l>
+<l>Rögskyer feire</l>
+<l>sig trindt dem leire,</l>
+<l>kiærmindeblaa,</l>
+<l>til Fugl og Rede</l>
+<l>i Emmer hede</l>
+<l>faae Jordefærd.</l>
+</lg>
+<lg>
+<l>Kun stakket glöde</l>
+<l>de Emmer rode</l>
+<l>og hælvten blaa,</l>
+<l>de svales fage,</l>
+<l>da er tilbage</l>
+<l>kun Aske graa,</l>
+<l>af Flamme-Sulen,</l>
+<l>af Fenix-Fuglen</l>
+<l>kun Vinter-Spor.</l>
+</lg>
+<lg>
+<l>Det Sorgen dulmer,</l>
+<l>at end dog ulmer</l>
+<l>en Livets Gnist,</l>
+<l>som til at glöde</l>
+<l>staaer op af Döde,</l>
+<l>i Dage-Frist,</l>
+<l>med Gylden-Aaret:</l>
+<l>en askebaaret</l>
+<l>Fugl Fenix ny.</l>
+</lg>
+<lg>
+<l>Ved Vindens Griller</l>
+<l>sig sammentriller</l>
+<l>en Aske-Hob,</l>
+<l>i Palme-Vuggen</l>
+<l>den faaer af Duggen</l>
+<l>en Midnats-Daab,</l>
+<l>og holder Varmen</l>
+<l>ved Straale-Barmen</l>
+<l>af Sommer-Sol.</l>
+</lg>
+<lg>
+<l>Som Böge-Olden</l>
+<l>er Trille-Bolden</l>
+<l>af Aske graa,</l>
+<l>som Æg udruget</l>
+<l>skal Bolden buget</l>
+<l>for Unge spraae;</l>
+<l>ved Jævndögns-Tider</l>
+<l>deraf udglider</l>
+<l>en Glimmer-Orm!</l>
+</lg>
+<lg>
+<l>Ja, Fenix-Larven</l>
+<l>paa Regnbu-Farven</l>
+<l>man kiender brat,</l>
+<l>paa Orme-Hammen</l>
+<l>med Rosen-Flammen</l>
+<l>er Tegnet sat,</l>
+<l>som vist betyder,</l>
+<l>at Fenix skyder</l>
+<l>sin Orme-Ham!</l>
+</lg>
+<lg>
+<l>Det skeet saa fage,</l>
+<l>i Jule-Dage,</l>
+<l>for Nyaars-Ny,</l>
+<l>og Skjalde sjunge:</l>
+<l>som Orne-Unge</l>
+<l>faaer Ormen Ry,</l>
+<l>skal overraske,</l>
+<l>som Fugl af Aske</l>
+<l>med Neb og Klo.</l>
+</lg>
+<lg>
+<l>Som Orne spæde</l>
+<l>dog ei mon æde</l>
+<l>det Fugle-Nor,</l>
+<l>kun Dugg hin sode</l>
+<l>er Fenix-Föde</l>
+<l>paa denne Jord,</l>
+<l>af den han trives,</l>
+<l>af den oplives</l>
+<l>alt Himmelkiært.</l>
+</lg> 
+<pb facs="1840_30_page0051.png"/>
+<fw type="pageNum">51</fw>
+<lg>
+<l>Dog Luftens Björne,</l>
+<l>de gamle Orne,</l>
+<l>han ligner snart,</l>
+<l>med dem han nappes,</l>
+<l>med dem han kappes</l>
+<l>i Flugt og Fart,</l>
+<l>men som han ældes,</l>
+<l>og Fjedre fældes,</l>
+<l>han skifter Hamm.</l>
+</lg>
+<lg>
+<l>Det Grumme fattes,</l>
+<l>det Skarpe glattes</l>
+<l>i Stort og Smaat,</l>
+<l>det Krumme rettes,</l>
+<l>det Staalgraa spættes</l>
+<l>med gult og blaat,</l>
+<l>til op ad Dage</l>
+<l>sin Faders Mage</l>
+<l>han er forsand.</l>
+</lg>
+<lg>
+<l>Saa stort Vidunder</l>
+<l>i Stov udgrunder</l>
+<l>ei Mand af Muld,</l>
+<l>dog ei det feller,</l>
+<l>sig Fenix speller</l>
+<l>jo underfuld</l>
+<l>i Markens Grode,</l>
+<l>med Liv af Döde,</l>
+<l>hver Host og Vaar.</l>
+</lg>
+<lg>
+<l>Vi saae, vi avle,</l>
+<l>og Hænder travle,</l>
+<l>i Hostens Tid,</l>
+<l>indfore glade</l>
+<l>1 Lo og Lade</l>
+<l>hver Neg med Flid,</l>
+<l>til Vinter-Föde,</l>
+<l>saa tom og ode</l>
+<l>er Mark og Vang.</l>
+</lg>
+<lg>
+<l>Det maa saa være,</l>
+<l>thi Fiende-Hære</l>
+<l>alt drage ud,</l>
+<l>hvad ei er bjerget,</l>
+<l>i Hast er hærget</l>
+<l>af Regn og Slud,</l>
+<l>af Hvirvel-Blæsten,</l>
+<l>og saa for Resten</l>
+<l>af Frost og Snee.</l>
+</lg>
+<lg>
+<l>Det mærker Lovet,</l>
+<l>som dybt bedrövet,</l>
+<l>i Efteraar,</l>
+<l>maa Farve skifte,</l>
+<l>naar Storme vifte</l>
+<l>til Banesaar,</l>
+<l>mens Lænke-Bolte</l>
+<l>til Bölger stolte</l>
+<l>der smeddes paa</l>
+</lg>
+<lg>
+<l>Som Fenix, atter</l>
+<l>en deilig Datter</l>
+<l>dog Hosten faaer,</l>
+<l>naar Vinter-Föde</l>
+<l>staaer op af Döde</l>
+<l>i milde Vaar,</l>
+<l>og Sommer-Glæden</l>
+<l>af Vinter-Sæden</l>
+<l>sig vikler ud.</l>
+</lg>
+<lg>
+<l>Naar Fenix myndig</l>
+<l>er voxet yndig,</l>
+<l>som Fader hans,</l>
+<l>i Verden fremmed,</l>
+<l>han savner Hjemmet</l>
+<l>i Himmel-Glands:</l>
+<l>de grönne Skove</l>
+<l>bag Vind og Vove,</l>
+<l>han aldrig saae.</l>
+</lg> 
+<pb facs="1840_30_page0052.png"/>
+<fw type="pageNum">52</fw>
+<lg>
+<l>Ham Hjertet banker</l>
+<l>ved sære Tanker</l>
+<l>dog omt i Bryst;</l>
+<l>thi kiære Minder</l>
+<l>til Vuggen binder</l>
+<l>hans Reise-Lyst,</l>
+<l>til Aske-Krøgen,</l>
+<l>hvor forst halwaagen;</l>
+<l>han Lyset saae.</l>
+</lg>
+<lg>
+<l>I dybe Tanker</l>
+<l>han kiærlig sanker,</l>
+<l>i Blomster-Net,</l>
+<l>hvad under Lovet</l>
+<l>af Fader-Stövet</l>
+<l>end kiendes let,</l>
+<l>af Aske-Kuglen,</l>
+<l>som Fenix-Fuglen</l>
+<l>var Moder-Skiöd.</l>
+</lg>
+<lg>
+<l>Sig saa elskværdig</l>
+<l>giör reisefærdig</l>
+<l>ei mangen Son,</l>
+<l>skiöndt Kiærlighedens</l>
+<l>er selv herneden</l>
+<l>sin egen Lön,</l>
+<l>giör Hjerter mættc,</l>
+<l>og Byrder lette,</l>
+<l>og Tiden kort.</l>
+</lg>
+<lg>
+<l>Nu vil med Ære</l>
+<l>den Son hjembære</l>
+<l>sin Faders Stov;</l>
+<l>med Helgen-Skrinet</l>
+<l>og Jorde-Linet</l>
+<l>af Blomster-Lov,</l>
+<l>sig Fenix hæver</l>
+<l>og oversvæver</l>
+<l>saa Land og Hav.</l>
+</lg>
+<lg>
+<l>Da seer ham Mange</l>
+<l>i Folke-Vange</l>
+<l>paa Midgaards Bold,</l>
+<l>som Fugle vrimle,</l>
+<l>de sammenstimle</l>
+<l>titusindfold,</l>
+<l>at see den Fagre,</l>
+<l>som over Agre</l>
+<l>hensvæver let.</l>
+</lg>
+<lg>
+<l>Da Klokker kime,</l>
+<l>den Dag og Time,</l>
+<l>med Flid og Iil,</l>
+<l>man skriver, prænter,</l>
+<l>paa Pergamenter,</l>
+<l>med Gyldenstil;</l>
+<l>ja, dybt indgrave</l>
+<l>det Rune-Stave</l>
+<l>i Marmel-Steen:</l>
+</lg>
+<lg>
+<l>Nu atter kommet</l>
+<l>han er, guldblommet</l>
+<l>paa hvalvte Bryst,</l>
+<l>og grön som Skoven,</l>
+<l>og blaa som Voven,</l>
+<l>den Fugl fra Ost,</l>
+<l>som Lykke bringer</l>
+<l>paa Regnbu-Vinger</l>
+<l>med Straale-Krands!</l>
+</lg>
+<lg>
+<l>Skiöndt stor som Strudsen,</l>
+<l>man seer med Studsen,</l>
+<l>han er ei tung,</l>
+<l>om lavt han svæver,</l>
+<l>han let sig hæver,</l>
+<l>for han er ung,</l>
+<l>og, naar ham huer,</l>
+<l>slaaer kække Buer</l>
+<l>med Lynets Fart!</l>
+</lg> 
+<pb facs="1840_30_page0053.png"/>
+<fw type="pageNum">53</fw>
+<lg>
+<l>I hvert et Hjörne</l>
+<l>sig flokke Orne</l>
+<l>fra höien Hald,</l>
+<l>og Fugle mange,</l>
+<l>med Fryde-Sange</l>
+<l>foruden Tal,</l>
+<l>paa spinkle Vinge</l>
+<l>i Kreds omringe</l>
+<l>den Fugle-Drot!</l>
+</lg>
+<lg>
+<l>Saa over Skove,</l>
+<l>og Bjerg og Vove,</l>
+<l>han svinger sig,</l>
+<l>med Fader-Stövet</l>
+<l>i Blomster-Lovet,</l>
+<l>saa frydelig,</l>
+<l>af Öine mange</l>
+<l>og Ære-Sange</l>
+<l>til Hjemmet fulgt.</l>
+</lg>
+<lg>
+<l>Men naar i Luften</l>
+<l>han mærker Duften</l>
+<l>fra Solens Öe,</l>
+<l>da brat som Lynet</l>
+<l>han er af Synet,</l>
+<l>og over So,</l>
+<l>ham fölge ikke</l>
+<l>selv Falke-Blikke</l>
+<l>paa skjulte Vei.</l>
+</lg>
+<lg>
+<l>Med Vinger side,</l>
+<l>med Sorg og Kvide,</l>
+<l>hans Fölgeskab</l>
+<l>fra Jordens Ender</l>
+<l>tilbagevender</l>
+<l>med Konge-Tab,</l>
+<l>mens Fenix Thronen</l>
+<l>i Palme-Kronen</l>
+<l>bestiger glad.</l>
+</lg>
+<lg>
+<l>De Lærde strides</l>
+<l>om hvad ei vides</l>
+<l>af nogen Mand:</l>
+<l>om Folk og Skjalde</l>
+<l>med Rette kalde</l>
+<l>Fugl Fenix "han;"</l>
+<l>da stærke Grunde</l>
+<l>dog tale kunde</l>
+<l>for Kvinde-Kiön.</l>
+</lg>
+<lg>
+<l>Den lange Trætte</l>
+<l>tilsidesætte</l>
+<l>vi her med Flid,</l>
+<l>thi det Guds Under</l>
+<l>paa Jord udgrunder</l>
+<l>ei Mandevid,</l>
+<l>saa dybe Gaader</l>
+<l>kun Alviis raader,</l>
+<l>vor Skabermand.</l>
+</lg>
+<lg>
+<l>Men vel maae findes</l>
+<l>fuldværd at mindes</l>
+<l>de Fenix-Kaar,</l>
+<l>de glade Dage</l>
+<l>foruden Mage</l>
+<l>i tusind Aar,</l>
+<l>og saa med Gammen</l>
+<l>kun Död i Flammen</l>
+<l>til Födsel ny.</l>
+</lg>
+<lg>
+<l>Ei Död man regner,</l>
+<l>for Baal ei blegner,</l>
+<l>naar kun forvist</l>
+<l>igiennem Ilden</l>
+<l>sig snoer Livs-Kilden,</l>
+<l>udspringer hist,</l>
+<l>af Aske-Grunden</l>
+<l>i Palme-Lunden</l>
+<l>med Kræfter nye.</l>
+</lg> 
+<pb facs="1840_30_page0054.png"/>
+<fw type="pageNum">54</fw>
+<lg>
+<l>Ved Tvelivs-Kiæden</l>
+<l>hos Fenix Glæden</l>
+<l>faaer Overvægt,</l>
+<l>han Sön ei favner,</l>
+<l>men dog ei savner</l>
+<l>en Efterslægt,</l>
+<l>er, som en Fader,</l>
+<l>vel Arvelader,</l>
+<l>men Arving selv.</l>
+</lg>
+<lg>
+<l>Den Kraft, den Ære,</l>
+<l>de Kaar fuldsære,</l>
+<l>ham Herren gav:</l>
+<l>naar Baalet slukkes,</l>
+<l>til Liv han vugges</l>
+<l>i Aske-Grav,</l>
+<l>faaer atter Vinger,</l>
+<l>fra Grav opsvinger</l>
+<l>sig let i Sky!</l>
+</lg>
+<lg>
+<l>Hans Sove-Kamnier</l>
+<l>gaaer op i Flammer,</l>
+<l>med Rog i Sky,</l>
+<l>men op af Gruset</l>
+<l>sig lofter Huset</l>
+<l>med Glands paany,</l>
+<l>som Guld, udglödet</l>
+<l>af Moder-Skiödet</l>
+<l>udspringer klart.</l>
+</lg>
+<lg>
+<l>Hvad os i Billed</l>
+<l>for Öine stilled</l>
+<l>en Mester-Haand,</l>
+<l>er sandt at sige</l>
+<l>paa Jorderige</l>
+<l>om Herrens Aand,</l>
+<l>og Helgen-Skaren,</l>
+<l>som ei Döds-Faren</l>
+<l>giör Livet surt.</l>
+</lg>
+<lg>
+<l>Ja, fuld forvisset</l>
+<l>om Livet hisset</l>
+<l>er Herrens Slægt;</l>
+<l>ei Verdens-Moden,</l>
+<l>og Legems-Döden,</l>
+<l>for den har Vægt,</l>
+<l>i Skygge-Dale</l>
+<l>til Straale-Sale</l>
+<l>den vandrer kæk.</l>
+</lg>
+<lg>
+<l>I Orme-Stue,</l>
+<l>paa Bane-Tue,</l>
+<l>i Aske-Bad,</l>
+<l>er den Udkaarne,</l>
+<l>den Himmelbaarne,</l>
+<l>dog sjæleglad,</l>
+<l>for Palme-Toppe</l>
+<l>han seer histoppe</l>
+<l>i Lysets Hjem!</l>
+</lg>
+<lg>
+<l>Det Bud os bringer</l>
+<l>paa Lydens Vinger</l>
+<l>og Sandheds Ord:</l>
+<l>for Mand og Kvinde</l>
+<l>Gud lod oprinde,</l>
+<l>paa nyskabt Jord,</l>
+<l>et Hjem herneden</l>
+<l>i Öster-Leden,</l>
+<l>saa frydeligt.</l>
+</lg>
+<lg>
+<l>I Faddergave</l>
+<l>de fik en Have</l>
+<l>til Herrens Priis,</l>
+<l>for Deiligheden</l>
+<l>benævnet Eden,</l>
+<l>og Paradis,</l>
+<l>som Fenix-Landet,</l>
+<l>af Floder vandet</l>
+<l>til Frugtbarhed.</l>
+</lg> 
+<pb facs="1840_30_page0055.png"/>
+<fw type="pageNum">55</fw>
+<lg>
+<l>I Fryd og Gammen</l>
+<l>de leved sammen,</l>
+<l>foruden Savn,</l>
+<l>saalænge blöde</l>
+<l>Guds Ord de lode,</l>
+<l>dem selv til Gavn;</l>
+<l>men nyfödt Glæde</l>
+<l>i Dage spæde</l>
+<l>fik Banesaar.</l>
+</lg>
+<lg>
+<l>Paa Lykkens Tinde</l>
+<l>dem saae Guds Fiende,</l>
+<l>saa falsk i Hu,</l>
+<l>og Avindsmanden</l>
+<l>til Afgrundsranden</l>
+<l>dem lokked snu,</l>
+<l>med Skin og Skygge</l>
+<l>af större Lykke,</l>
+<l>med faure Ord.</l>
+</lg>
+<lg>
+<l>I Have-Kanten</l>
+<l>stod Uhelds-Planten,</l>
+<l>i Ly og Læ;</l>
+<l>med Frugter sode,</l>
+<l>og rosenrode,</l>
+<l>stod Kundskabs-Træ,</l>
+<l>med Liv i Lugten,</l>
+<l>med Död i Frugten,</l>
+<l>forgjort, forbudt.</l>
+</lg>
+<lg>
+<l>Til det at rore</l>
+<l>sig lod forfore</l>
+<l>de unge To;</l>
+<l>ved Rosen-Rödmen,</l>
+<l>og Honning-Södmen,</l>
+<l>vel Hjertet loe,</l>
+<l>men Efter-Smagen</l>
+<l>til Domme-Dagen</l>
+<l>er malurtbedsk.</l>
+</lg>
+<lg>
+<l>Ja, Efter-Slægten</l>
+<l>maa fole Vægten</l>
+<l>af Adams Fald:</l>
+<l>som Döttre svage,</l>
+<l>de Sönner strage,</l>
+<l>i Tusind-Tal,</l>
+<l>med Taarer væde</l>
+<l>det Brod de æde</l>
+<l>i Ansigts-Sved.</l>
+</lg>
+<lg>
+<l>Fra Herrens <hi rend="spaced">Eden</hi></l>
+<l>nu ud paa Heden</l>
+<l>gik <hi rend="spaced">Adams</hi> Vei,</l>
+<l>stort var Forliset,</l>
+<l>i Paradiset</l>
+<l>han taaldes ei;</l>
+<l>fra Livets Sale</l>
+<l>til Dödens Dale</l>
+<l>er Flytning værst!</l>
+</lg>
+<lg>
+<l>For Herrens Have,</l>
+<l>bag Vold og Grave,</l>
+<l>var Porten lukt,</l>
+<l>for Engle rene</l>
+<l>Livs-Træets Grene</l>
+<l>kun bar sin Frugt,</l>
+<l>i Tider lange,</l>
+<l>med Slægter mange,</l>
+<l>paa Jordens Bold.</l>
+</lg>
+<lg>
+<l>Dog for de Svage</l>
+<l>var Haab tilbage,</l>
+<l>endskiöndt de græd,</l>
+<l>var Trost for Moden,</l>
+<l>var Raad for Döden,</l>
+<l>i <hi rend="spaced"> Kvindens</hi> Sæd;</l>
+<l>Han være priset,</l>
+<l>for Paradiset</l>
+<l>Han os oplod!</l>
+</lg> 
+<pb facs="1840_30_page0056.png"/>
+<fw type="pageNum">56</fw>
+<lg>
+<l>Fra Herrens Komme</l>
+<l>er Pinen omme,</l>
+<l>og Kaaret godt;</l>
+<l>saa for os kæmped,</l>
+<l>saa Alting læmped</l>
+<l>den Ærens Drot,</l>
+<l>at Fenix-Livet</l>
+<l>er nu os givet</l>
+<l>lil Gaade-Speil.</l>
+</lg>
+<lg>
+<l>Alt som forældet,</l>
+<l>og overvældet</l>
+<l>af Mode sin,</l>
+<l>sig Fenix bygger</l>
+<l>i dunkle Skygger</l>
+<l>en Rede fin,</l>
+<l>af Myrthe-Grene,</l>
+<l>og Urter rene,</l>
+<l>med Duften söd,</l>
+</lg>
+<lg>
+<l>Saa Helgen-Folket,</l>
+<l>som os udtolket</l>
+<l>det er med Vid,</l>
+<l>har Lyst og Lykke</l>
+<l>til skiönt at bygge</l>
+<l>i Naadens Tid.</l>
+<l>med Liv fornye</l>
+<l>i Morgen-Gryet</l>
+<l>til Öiemed.</l>
+</lg>
+<lg>
+<l>Fra Roser röde</l>
+<l>til Örken öde</l>
+<l>gik Slægtens Vei,</l>
+<l>dog i den Skare</l>
+<l>udvalgte Klare</l>
+<l>der mangled ei,</l>
+<l>som Lys paa Himlen,</l>
+<l>i Folke-Vrimlen</l>
+<l>de gik med Glands.</l>
+</lg>
+<lg>
+<l>Ved Helgen-Sæder</l>
+<l>de steg til Hæder,</l>
+<l>i Gunst hos Gud,</l>
+<l>som Jordens Skjalde</l>
+<l>med Rette kalde</l>
+<l>en Palme prud,</l>
+<l>hvor höit at bygge</l>
+<l>er Helgen-Lykke</l>
+<l>og Helgen-Lyst.</l>
+</lg>
+<lg>
+<l>I Palme-Skygge</l>
+<l>de Kæmper bygge</l>
+<l>med Mod og Magt,</l>
+<l>for med den Stærke,</l>
+<l>fuldtvel at mærke,</l>
+<l>de staae i Pagt,</l>
+<l>kan Freden nyde,</l>
+<l>og Trods tor byde</l>
+<l>den gamle Snog.</l>
+</lg>
+<lg>
+<l>Ved Myrthe-Grene,</l>
+<l>og Urter rene,</l>
+<l>med Duften sod,</l>
+<l>tilpas er lignet</l>
+<l>et Liv velsignet</l>
+<l>i Lyst og Nod,</l>
+<l>de Dyder milde,</l>
+<l>hvis sode Kilde</l>
+<l>er Kiærlighed.</l>
+</lg>
+<lg>
+<l>Naar Hjertet brænder,</l>
+<l>gavmilde Hænder</l>
+<l>sig aabne huldt,</l>
+<l>ved Enkers Bonner,</l>
+<l>for Armods Sönner,</l>
+<l>saa yndefuldt;</l>
+<l>for Godheds Öie,</l>
+<l>den Evighöie,</l>
+<l>er Virak ströet.</l>
+</lg> 
+<pb facs="1840_30_page0057.png"/>
+<fw type="pageNum">57</fw>
+<lg>
+<l>Med rene Tanker</l>
+<l>sig Fromhed Sanker</l>
+<l>en Lilje-Flor,</l>
+<l>og Rosen-Lugten</l>
+<l>i Troes-Frugten</l>
+<l>er bedst paa Jord,</l>
+<l>hvert Lig af Lyder</l>
+<l>med Duft udgyder</l>
+<l>en Myrrha-Ström.</l>
+</lg>
+<lg>
+<l>De fromme Sjæle</l>
+<l>for Herren knæle</l>
+<l>med Andagt stor,</l>
+<l>men Dage mange</l>
+<l>de ei forlange</l>
+<l>paa denne Jord,</l>
+<l>de Dödens Kvide</l>
+<l>vil gierne lide</l>
+<l>for Liv paany.</l>
+</lg>
+<lg>
+<l>De har for Öie</l>
+<l>hvad i det Höie</l>
+<l>forventer dem,</l>
+<l>til Lyst og Glæde,</l>
+<l>paa Ære-Sæde</l>
+<l>i Himlens Hjem,</l>
+<l>paa gyldne Throner,</l>
+<l>hvor Kongen kroner</l>
+<l>sit Tjenerskab.</l>
+</lg>
+<lg>
+<l>Udsigter lyse!</l>
+<l>kan Nogen gyse</l>
+<l>i eders Kreds!</l>
+<l>den Fromme blegner,</l>
+<l>den Fromme segner</l>
+<l>saa veltilfreds,</l>
+<l>som Drotten blunder,</l>
+<l>naar brat tilstunder</l>
+<l>hans Kronings-Dag.</l>
+</lg>
+<lg>
+<l>Paa Baaren bænkes,</l>
+<l>i Graven sænkes</l>
+<l>det kolde Stov,</l>
+<l>med Trost dog kommer</l>
+<l>den varme Sommer</l>
+<l>til visne Lov,</l>
+<l>og giennemstraalet</l>
+<l>af Verdens-Baalet,</l>
+<l>det blomstrer op.</l>
+</lg>
+<lg>
+<l>Lad Vintre svinde</l>
+<l>og Aar henrinde</l>
+<l>i Tusind-Tal,</l>
+<l>dog höit skal lyde</l>
+<l>og Skyer bryde</l>
+<l>Basunens Gjald,</l>
+<l>til Storthings-Mode</l>
+<l>af alle Döde</l>
+<l>paa Videslet.</l>
+</lg>
+<lg>
+<l>For Titler tomme</l>
+<l>er Tiden omme,</l>
+<l>som Herren bod,</l>
+<l>og mat af Ælde</l>
+<l>har tabt sin Vælde</l>
+<l>den grumme Död,</l>
+<l>med sprængte Mure</l>
+<l>dens Fange-Bure</l>
+<l>nedstyrte brat.</l>
+</lg>
+<lg>
+<l>De maae vel grue</l>
+<l>for Verdens Lue</l>
+<l>og Jordens Brand,</l>
+<l>som elsked immer</l>
+<l>kun Verdens Glimmer</l>
+<l>og gyldne Sand,</l>
+<l>kun hvad, naar Flammen</l>
+<l>det smelter sammen,</l>
+<l>gaaer op i Rog!</l>
+</lg> 
+<pb facs="1840_30_page0058.png"/>
+<fw type="pageNum">58</fw>
+<lg>
+<l>De maae vel skiælve,</l>
+<l>for dunkelt hvælve</l>
+<l>sig Kongens Bryn,</l>
+<l>Han vil beklæde</l>
+<l>sit Dommer-Sæde</l>
+<l>med Blik som Lyn,</l>
+<l>og Daarer sætte</l>
+<l>Han vil irette</l>
+<l>med Tordenslag;</l>
+</lg>
+<lg>
+<l>Men over Fromme</l>
+<l>gaae milde Domme</l>
+<l>fra Naadens Mund,</l>
+<l>til Himmerige</l>
+<l>de glade stige</l>
+<l>fra Gravens Bund,</l>
+<l>med Fenix-Kaaret,</l>
+<l>thi askebaaret</l>
+<l>er deres Glands.</l>
+</lg>
+<lg>
+<l>De Fenix-Reden</l>
+<l>har bygt herneden,</l>
+<l>med Flid og Konst,</l>
+<l>det Værk af Hænder,</l>
+<l>skiöndt Verden brænder,</l>
+<l>er ei omsonst;</l>
+<l>i hver en Alder</l>
+<l>det Herren kalder</l>
+<l>Rög-Offer bedst.</l>
+</lg>
+<lg>
+<l>Derfor opsvinger,</l>
+<l>paa Fenix-Vinger,</l>
+<l>ved Herrens Haand,</l>
+<l>saa klart som Guldet,</l>
+<l>sig Helgen-Muldet</l>
+<l>med Helte-A and,</l>
+<l>gienfödt i Graven</l>
+<l>til Straale-Haven</l>
+<l>i Lysets Hjem.</l>
+</lg>
+<lg>
+<l>Der, efter Döden,</l>
+<l>de Morgen-Roden</l>
+<l>i Sole-Vang</l>
+<l>en Hilsen bringe,</l>
+<l>som Harper klinge</l>
+<l>til Frydesang,</l>
+<l>som Engle-Toner,</l>
+<l>hvor Lyset throner</l>
+<l>med evig Glands.</l>
+</lg>
+<lg>
+<l>Vel slaaes af Mange</l>
+<l>nu Skjalde-Sange</l>
+<l>i Veir og Vind,</l>
+<l>som Lögn og Skvalder,</l>
+<l>som hvad man kalder</l>
+<l>kun Hjernespind,</l>
+<l>ei Fenix-Fuglen,</l>
+<l>men kun Nat-Uglen</l>
+<l>man kiendes ved;</l>
+</lg>
+<lg>
+<l>Men er tilbage,</l>
+<l>fra gamle Dage,</l>
+<l>endnu et Gran</l>
+<l>af Tro paa Sangen</l>
+<l>i Zions-Vangen</l>
+<l>og Livets Land,</l>
+<l>for Fenix-Kvadet</l>
+<l>sig vender Bladet</l>
+<l>saa lystelig.</l>
+</lg>
+<lg>
+<l>Ja, har man Ore</l>
+<l>til Job at höre,</l>
+<l>den Seer-Skjald,</l>
+<l>som fik af Aanden,</l>
+<l>til Bod for Vaanden,</l>
+<l>sit Tonefald,</l>
+<l>man Fenix atter</l>
+<l>paa Jorden skatter</l>
+<l>som Fugle-Drot.</l>
+</lg> 
+<pb facs="1840_30_page0059.png"/>
+<fw type="pageNum">59</fw>
+<lg>
+<l>Som der staaer skrevet,</l>
+<l>af Aanden drevet,</l>
+<l>saa Job udbrod:</l>
+<l>min Rede bygger</l>
+<l>jeg mellem Skygger</l>
+<l>i Jordens Skiöd,</l>
+<l>jeg godt det vover,</l>
+<l>og trygt jeg sover</l>
+<l>i Ormegaard.</l>
+</lg>
+<lg>
+<l>Lad Kryb i Grave,</l>
+<l>lad Orme gnave</l>
+<l>til Been og Marv!</l>
+<l>lad Verden buldre!</l>
+<l>lad Stövet smuldre,</l>
+<l>som Jordens Arv!</l>
+<l>ei Troen glipper,</l>
+<l>og aldrig slipper</l>
+<l>jeg Haabets Fugl.</l>
+</lg>
+<lg>
+<l>Den Fugl i Brystet</l>
+<l>har Vinger rystet,</l>
+<l>med sagte Nyn,</l>
+<l>som dunkelt lyder,</l>
+<l>men Hjertet fryder</l>
+<l>med salig Fynd;</l>
+<l>thi Gylden-Aaret,</l>
+<l>som Fenix-Kaaret,</l>
+<l>der kvædes om.</l>
+</lg>
+<lg>
+<l>Med Liv af Döde,</l>
+<l>med Kinder rode,</l>
+<l>jeg skal opstaae,</l>
+<l>med Fodder snare,</l>
+<l>med Öine klare</l>
+<l>og himmelblaa,</l>
+<l>til Glands og Glæde,</l>
+<l>til Herre-Sæde</l>
+<l>evindelig.</l>
+</lg>
+<lg>
+<l>Saa, langt tilbage,</l>
+<l>i gamle Dage,</l>
+<l>den Fromme sang,</l>
+<l>og over Graven</l>
+<l>sig til Guds-Haven</l>
+<l>i Aanden svang,</l>
+<l>med Fenix-Kaaret,</l>
+<l>som atterbaaret</l>
+<l>til Liv og Lyst.</l>
+</lg>
+<lg>
+<l>Som Fenix-Fuglen</l>
+<l>fra Orme-Kulen,</l>
+<l>til Bjerge-Top,</l>
+<l>med Fader-Stövet,</l>
+<l>i Palme-Lovet,</l>
+<l>sig svinger op,</l>
+<l>saa Muldets Frænde</l>
+<l>ved Verdens Ende</l>
+<l>til Lysets Hjem.</l>
+</lg>
+<lg>
+<l>Som Fenix bygger</l>
+<l>i Palme-Skygger,</l>
+<l>paa Solens Öe,</l>
+<l>forglemmer fage,</l>
+<l>hvad under Klage</l>
+<l>det er at döe,</l>
+<l>for lydt at kvæde</l>
+<l>med Lyst og Glæde</l>
+<l>den lange Dag;</l>
+</lg>
+<lg>
+<l>Saa frelste Sjæle</l>
+<l>med Fred skal dvæle</l>
+<l>til evig Tid,</l>
+<l>i Engle-Vrimlen,</l>
+<l>hvor Lilje-Himlen</l>
+<l>er klar og blid,</l>
+<l>hvor Dronning-Stolen</l>
+<l>af Konge-Solen</l>
+<l>er morgenrod.</l>
+</lg> 
+<pb facs="1840_30_page0060.png"/>
+<fw type="pageNum">60</fw>
+<lg>
+<l>I Gimle-Borgen</l>
+<l>er evig Morgen</l>
+<l>med Rosen-Skiær,</l>
+<l>thi Morgen-Roden,</l>
+<l>som trodsed Döden,</l>
+<l>er kronet der,</l>
+<l>hvor <hi rend="spaced">Jesus</hi> throner,</l>
+<l>blandt Lovsangs-Toner,</l>
+<l>som Livets Lys.</l>
+</lg>
+<lg>
+<l>Der Engle-Skokke,</l>
+<l>som Fugle-Flokke</l>
+<l>af himmelsk Art,</l>
+<l>paa Blomster-Vinge</l>
+<l>sig glade svinge</l>
+<l>med Lynets Fart,</l>
+<l>med Toner sode</l>
+<l>om Liv af Döde</l>
+<l>i Jesu Navn!</l>
+</lg>
+<lg>
+<l>Og Helgen-Skaren,</l>
+<l>som i Döds-Faren</l>
+<l>med Herren gik,</l>
+<l>Hans Liv og Lue</l>
+<l>de giennemskue</l>
+<l>med Straale-Blik,</l>
+<l>stod op som Sole,</l>
+<l>da Haner gole</l>
+<l>for sidste Gang!</l>
+</lg>
+<lg>
+<l>Kun mat er Glandsen</l>
+<l>af Fenix-Krandsen</l>
+<l>mod Glandsen her,</l>
+<l>af Krone-Guldet,</l>
+<l>som Helgen-Muldet</l>
+<l>i Himlen bær,</l>
+<l>for Lammets Throne,</l>
+<l>den Livets Krone,</l>
+<l>som falmer ei.</l>
+</lg>
+<lg>
+<l>I Himmerige</l>
+<l>som Herrens Lige</l>
+<l>de Fromme boe,</l>
+<l>hvor lutter Glæder</l>
+<l>i Skiönheds Klæder</l>
+<l>som Blomster groe,</l>
+<l>men visne ikke,</l>
+<l>for de inddrikke</l>
+<l>Livsaande-Dugg.</l>
+</lg>
+<lg>
+<l>Der Sult ei mindes,</l>
+<l>der Sorg ei findes,</l>
+<l>der Synd ei kom,</l>
+<l>der ei at döie</l>
+<l>er Kamp og Möie,</l>
+<l>og Fattigdom;</l>
+<l>med Herre-Livet</l>
+<l>alt Godt er givet,</l>
+<l>alt Ondt forbi.</l>
+</lg>
+<lg>
+<l>De store Fester</l>
+<l>for Kongens Giæster</l>
+<l>ei Ende faae;</l>
+<l>de Lokker gule,</l>
+<l>som Kroner skjule,</l>
+<l>ei vorde graa,</l>
+<l>og Hjerter mætte</l>
+<l>ei heller trætte</l>
+<l>af Godheds Priis.</l>
+</lg>
+<lg>
+<l>I Livets Sale</l>
+<l>er ingen Dvale</l>
+<l>i Slægt med Död,</l>
+<l>der synke Toner,</l>
+<l>som Helgen-Kroner,</l>
+<l>i Velklang sod,</l>
+<l>kun for tillige</l>
+<l>i Chor at stige</l>
+<l>med Guddoms-Kraft.</l>
+</lg> 
+<pb facs="1840_30_page0061.png"/>
+<fw type="pageNum">61</fw>
+<lg>
+<l>Sin Brudgom priser</l>
+<l>i Kæmpe-Viser</l>
+<l>en salig Brud,</l>
+<l>til Krandse fletter</l>
+<l>vor Guds Idrætter</l>
+<l>den Lovsang prud,</l>
+<l>og Choret svarer,</l>
+<l>som Engle-Skarer,</l>
+<l>med Omkvæd lydt:</l>
+</lg>
+<lg>
+<l>"Hil Dig med Ære!</l>
+<l>"priset Du være,</l>
+<l>"Stol-Konge prud!</l>
+<l>"takket, velsignet,</l>
+<l>"godt efterlignet,</l>
+<l>"Gudernes Gud!</l>
+<l>"Thronen Du klæde</l>
+<l>"evig med Glæde!</l>
+<l>"Riget er Dit.</l>
+</lg>
+<lg>
+<l>"Fader i Vælde!</l>
+<l>"Ungdom og Ælde</l>
+<l>"evig i Pagt!</l>
+<l>"Lovsangen bölger,</l>
+<l>"Æren Dig fölger,</l>
+<l>"stor som Din Magt,</l>
+<l>" Sandheden byder,</l>
+<l>"Skiönheden nyder</l>
+<l>"Kiærligheds Priis!</l>
+</lg>
+<lg>
+<l>"Himmerigs Sale,</l>
+<l>"Jorderigs Dale,</l>
+<l>"Herlighed din</l>
+<l>"mægtig opfylder,</l>
+<l>"deilig forgylder,</l>
+<l>"Storherre fiin!</l>
+<l>"aldrig vi savne,</l>
+<l>"evig os favne</l>
+<l>"Kiærlighed Din!"</l>
+</lg>
+<lg>
+<l>Saa de Udkaarne,</l>
+<l>de Atterbaarne,</l>
+<l>fra denne Jord,</l>
+<l>skal kappes glade</l>
+<l>paa Himmelstade</l>
+<l>med Engle-Chor,</l>
+<l>om Brage-Lönnen,</l>
+<l>for Sang om Sönnen,</l>
+<l>af Fader-Haand!</l>
+</lg>
+<lg>
+<l>Ja, Christne sjunge</l>
+<l>med Engle-Tunge</l>
+<l>om Drotters Drot,</l>
+<l>som har i Dale</l>
+<l>bygt höie Sale,</l>
+<l>gjort Alting godt,</l>
+<l>gjort Sorg til Glæde,</l>
+<l>beredt os Sæde</l>
+<l>med sig i Glands.</l>
+</lg>
+<lg>
+<l>Som vi, Han svöbdes,</l>
+<l>som vi, Han döbdes</l>
+<l>med Vand og Aand,</l>
+<l>men Engle smiled,</l>
+<l>for Spiret hviled</l>
+<l>dog i Hans Haand,</l>
+<l>for Lys og Mörke</l>
+<l>fik Navn og Storke,</l>
+<l>for Bjerg fik Rod.</l>
+</lg>
+<lg>
+<l>Han blev afkræftet,</l>
+<l>med Nagler hæftet</l>
+<l>til Korsets Træ,</l>
+<l>sad dog med Glæde</l>
+<l>paa Konge-Sæde</l>
+<l>i Palme-Læ,</l>
+<l>sad der i Aanden,</l>
+<l>skiöndt her i Vaanden</l>
+<l>Hans Hjerte brast,</l>
+</lg> 
+<pb facs="1840_30_page0062.png"/>
+<fw type="pageNum">62</fw>
+<lg>
+<l>Med Hjerte-Blodet</l>
+<l>Han Himmel godet</l>
+<l>har os tilkiöbt,</l>
+<l>og Tredje-Dagen</l>
+<l>Hans Jorde-Lagen</l>
+<l>laae sammensvöbt,</l>
+<l>hvor Han kun blunded,</l>
+<l>til overvundet</l>
+<l>var Dödens Magt.</l>
+</lg>
+<lg>
+<l>Ham Fenix-Livet</l>
+<l>til os blev givet,</l>
+<l>i Jordens Skiöd,</l>
+<l>derfor opstige</l>
+<l>fra Jorderige</l>
+<l>maa Duften söd,</l>
+<l>naar Korsets Helte</l>
+<l>som Fenix smelte</l>
+<l>ved Himlens Glöd.</l>
+</lg>
+<lg>
+<l>Som Fenix bygger</l>
+<l>i Palme-Skygger</l>
+<l>sin Rede blod,</l>
+<l>i Vaar og Sommer,</l>
+<l>af Bark og Blommer,</l>
+<l>med Duften sod,</l>
+<l>til Sove-Kammer</l>
+<l>i Baalets Flammer</l>
+<l>og Virak-Sky;</l>
+</lg>
+<lg>
+<l>Saa Helgen-Folket,</l>
+<l>som ret fortolket</l>
+<l>i Skriften staaer,</l>
+<l>sin Hytte pryder</l>
+<l>med höie Dyder</l>
+<l>i Livets Vaar,</l>
+<l>med Bonner mange,</l>
+<l>og Aften-Sange,</l>
+<l>som dufte södt.</l>
+</lg>
+<lg>
+<l>Saa Stövet fredes,</l>
+<l>og forberedes</l>
+<l>til Liv paany,</l>
+<l>og derfra stammer,</l>
+<l>naar Hjertet flammer,</l>
+<l>en Virak-Sky,</l>
+<l>saa fin og fager,</l>
+<l>som velbehager</l>
+<l>vor Drot, vor Gud!</l>
+</lg>
+<lg>
+<l>Vor Drot histoppe,</l>
+<l>som Stjerne-Toppe</l>
+<l>har under Fod!</l>
+<l>vær evig priset</l>
+<l>for Paradiset,</l>
+<l>Du os oplod!</l>
+<l>Hilsæl paa Thronen</l>
+<l>med Æres-Kronen</l>
+<l>og Rettens Spir!</l>
+</lg>
+<lg>
+<l>Fra Lysets Kilde</l>
+<l>med Straaler milde</l>
+<l>Du til os kom;</l>
+<l>hvem tro Dig tjente</l>
+<l>har og ivente</l>
+<l>en naadig Dom,</l>
+<l>naar Skyer klare</l>
+<l>skal aabenbare</l>
+<l>Din Majestæt.</l>
+</lg>
+<lg>
+<l>Hav Tak, Du Höie,</l>
+<l>som vilde boie</l>
+<l>Dig til os ned,</l>
+<l>og Sted os skiænke</l>
+<l>paa Herre-Bænke</l>
+<l>i Evighed,</l>
+<l>at sidde sammen</l>
+<l>i Fryd og Gammen</l>
+<l>med Dig tilbords!</l>
+</lg> 
+<pb facs="1840_30_page0063.png"/>
+<fw type="pageNum">63</fw>
+<lg>
+<l>Med Öine klare</l>
+<l>Din Helgen-Skare</l>
+<l>skal see Din Glands,</l>
+<l>med Engle-Tunge</l>
+<l>Din Drape sjunge,</l>
+<l>til Æren Hans,</l>
+<l>som Fenix-Livet</l>
+<l>med Dig har givet</l>
+<l>til Stövets Born.</l>
+</lg>
+<lg>
+<l>For Fader-Røsten,</l>
+<l>for Himmel-Trosten</l>
+<l>i Graadens Dal,</l>
+<l>for Samfunds-Kiæden,</l>
+<l>for Höitids-Glæden</l>
+<l>i Stjerne-Sal,</l>
+<l>for Paradiset,</l>
+<l>vær evig priset!</l>
+<l>Halleluja!</l>
+</lg>
+<p><hi rend="bold"><hi rend="align(right)">DANSK EFTERKLANG.</hi></hi></p>
+<lg>
+<l>Naar Dagen gryer,</l>
+<l>i blanke Skyer</l>
+<l>ved Sommers-Tid,</l>
+<l>af Fugle-Munde</l>
+<l>da fyldes Lunde</l>
+<l>med Kviddren blid,</l>
+<l>og Sange mode</l>
+<l>hver Morgen-Rode</l>
+<l>i Tusindtal.</l>
+</lg>
+<lg>
+<l>Med Aande-Solen</l>
+<l>paa Dronning-Stolen</l>
+<l>det er ei saa,</l>
+<l>hvor den oprinder,</l>
+<l>den vaagne finder</l>
+<l>kun Fugle faa,</l>
+<l>for Den kun sjunger</l>
+<l>med Fenix-Tunger</l>
+<l>den mindste Flok.</l>
+</lg>
+<lg>
+<l>Men er end Navnet</l>
+<l>i Norden savnet</l>
+<l>fra Hedenold,</l>
+<l>dog Nörreleden</l>
+<l>ei mangled Reden,</l>
+<l>med Sanger bold</l>
+<l>for Aande-Solen</l>
+<l>paa Dronning-Stolen,</l>
+<l>for Sandheds Lys.</l>
+</lg>
+<lg>
+<l>Hendöde Klangen</l>
+<l>i Svane-Vangen</l>
+<l>med Hjarne-Skjald,</l>
+<l>blandt Skygger store</l>
+<l>man dog kan spore</l>
+<l>det Tonefald,</l>
+<l>som Christendommen</l>
+<l>bod höit velkommen</l>
+<l>paa Anguls Öe.</l>
+</lg>
+<lg>
+<l>En Dansk Udflytter,</l>
+<l>det var den Rytter</l>
+<l>paa <hi rend="spaced">Odins</hi> Hest,</l>
+<l>med Falke-Blikket</l>
+<l>dertil udskikket,</l>
+<l>som Norne-Giæst,</l>
+<l>basunestemmet</l>
+<l>at melde Hjemmet,</l>
+<l>naar Soel gik op.</l>
+</lg>
+<lg>
+<l>Ja, Skjalde-Laget</l>
+<l>paa Folke-Vraget,</l>
+<l>paa <hi rend="spaced">Bretlands</hi> Kyst,</l>
+<l>som fenixtunget</l>
+<l>i Sky har sunget</l>
+<l>" nu blev det lyst,"</l>
+<l>kom fra det Jævne,</l>
+<l>er Dansk at nævne</l>
+<l>paa Aandens Sprog.</l>
+</lg> 
+<pb facs="1840_30_page0064.png"/>
+<fw type="pageNum">64</fw>
+<lg>
+<l>Og Anguls-Kvadet,</l>
+<l>paa Kalvekinds-Bladet,</l>
+<l>(ei Folk i Mund)</l>
+<l>af Fenix-Baalet</l>
+<l>for Tungemaalet</l>
+<l>er Aske kun,</l>
+<l>paa Bavne-Tinde</l>
+<l>en Leg for Vinde</l>
+<l>fra hver en Kant;</l>
+</lg>
+<lg>
+<l>Men her i Lunde,</l>
+<l>ved Belt og Sunde,</l>
+<l>i Böge-Ly,</l>
+<l>her drypped Duggen</l>
+<l>i Aske-Vuggen</l>
+<l>fra havblaa Sky,</l>
+<l>her blev udkuret</l>
+<l>i Minde-Buret</l>
+<l>en Fenix ny.</l>
+</lg>
+<lg>
+<l>Endnu kun liden,</l>
+<l>i Flagre-Tiden,</l>
+<l>er Fuglen sær,</l>
+<l>dog Orme-Hammen</l>
+<l>han skiöd med Gammen</l>
+<l>ved Trolde-Kiær,</l>
+<l>tor og forfægte</l>
+<l>sin Födsel ægte</l>
+<l>af Fenix-Art.</l>
+</lg>
+<lg>
+<l>End over Agre</l>
+<l>han helst vil flagre,</l>
+<l>i Aften rod,</l>
+<l>og overhoppe</l>
+<l>Kiærminde-Toppe</l>
+<l>i Engens Skiöd,</l>
+<l>kan sig dog svinge</l>
+<l>paa spinkle Vinge</l>
+<l>til Böge-Green.</l>
+</lg>
+<lg>
+<l>Der nu han sidder,</l>
+<l>med Fugle-Kvidder</l>
+<l>om Fenix-Kaar,</l>
+<l>om Eftergröde</l>
+<l>som Liv af Dö'de,</l>
+<l>i Gylden-Aar,</l>
+<l>saa Folke-Aanden</l>
+<l>faaer Bod for Vaanden,</l>
+<l>som Den er værd.</l>
+</lg>
+<lg>
+<l>Lad Orme hvæse!</l>
+<l>lad Vinde blæse</l>
+<l>og Rygter gaae!</l>
+<l>den Danske Snekke</l>
+<l>skal yndigst flække</l>
+<l>de Bølger blaa,</l>
+<l>og rigest havne</l>
+<l>med Kors i Stavne,</l>
+<l>med Dannebrog.</l>
+</lg>
+<lg>
+<l>Ja, Faddergaven</l>
+<l>i Svanehaven,</l>
+<l>til Vana-Frei,</l>
+<l>Lysalfe-Værket,</l>
+<l>guldhjertemærket,</l>
+<l>forældes ei,</l>
+<l>men Alt forynges,</l>
+<l>som med den gynges</l>
+<l>paa Bølgen blaa.</l>
+</lg>
+<lg>
+<l><hi rend="spaced">Skibbladner</hi> kalde</l>
+<l>de gamle Skjalde</l>
+<l>det <hi rend="spaced">Lykke-Skib</hi>,</l>
+<l>som bærer over</l>
+<l>de dunkle Vover</l>
+<l>vort Folke-Liv;</l>
+<l>men Döbe-Navnet,</l>
+<l>med Korset favnet,</l>
+<l>er Ydmyghed.</l>
+</lg> 
+<pb facs="1840_30_page0065.png"/>
+<fw type="pageNum">65</fw>
+<lg>
+<l>Paa <hi rend="spaced">Det</hi>, sang Skjalde,</l>
+<l>gik <hi rend="spaced">Aser</hi> alle</l>
+<l>med Lyst ombord,</l>
+<l>med Det kan fare</l>
+<l>Guds Engle-Skare,</l>
+<l>utallig stor,</l>
+<l>dog sammenfoldet</l>
+<l>i Hjerte-Skjoldet</l>
+<l>det skrylder ei.</l>
+</lg>
+<lg>
+<l>Af Blomster-Stilke,</l>
+<l>med Toug af Silke,</l>
+<l>og Blade-Seil,</l>
+<l>det Alfer bygged,</l>
+<l>og pænt udsmykked</l>
+<l>med Perle-Speil,</l>
+<l>og lægges sammen</l>
+<l>det kan med Gammen,</l>
+<l>som Lommebog.</l>
+</lg>
+<lg>
+<l>Saa Alfe-Nemme,</l>
+<l>til godt at giemme,</l>
+<l>det Skib har skabt;</l>
+<l>trods Folke- Graaden,</l>
+<l>med Orlogs-Flaaden</l>
+<l>det gik ei tabt;</l>
+<l>det laae i Havne,</l>
+<l>hvor Viking-Stavne</l>
+<l>löb aldrig ind.</l>
+</lg>
+<lg>
+<l>Til Det var Nöstet*)</l>
+<l>ved Konge-Brystet</l>
+<l>med Snilde bygt,</l>
+<l>da Folke-Aanden</l>
+<l>i Konge-Haanden</l>
+<l>det lagde trygt,</l>
+<l>gav, ret fortolket,</l>
+<l>med Dane-Folket,</l>
+<l>sig Gud i Vold.</l>
+</lg>
+<lg>
+<l>Saa Danmarks Lykke</l>
+<l>fik Gylden-Smykke</l>
+<l>i Kongens Gaard,</l>
+<l>og Bölge-Karmen</l>
+<l>i Konge-Barmen</l>
+<l>de bedste Kaar,</l>
+<l>med Fenix-Flaget,</l>
+<l>fra Sky modtaget</l>
+<l>i Ydmyghed.</l>
+</lg>
+<lg>
+<l>Med det i Stavne</l>
+<l>fra Godehavne</l>
+<l>lob Snekken ud,</l>
+<l>med Storseil spilet,</l>
+<l>til Gladhjem stilet,</l>
+<l>med Ladning prud,</l>
+<l>og deilig skrevet</l>
+<l>var Maal e-Brevet</l>
+<l>med Konge-Haand.</l>
+</lg>
+<lg>
+<l>Berömt i Norden</l>
+<l>var Isse-Fjorden</l>
+<l>fra fordums Tid,</l>
+<l>af Konge-Leier,</l>
+<l>af Sang og Seier</l>
+<l>i Storm og Strid;</l>
+<l>dens Roes, begravet,</l>
+<l>opstod paa Havet</l>
+<l>med Dannebrog.</l>
+</lg>
+<lg>
+<l>Med Taler jævne</l>
+<l>paa Adel-Stævne</l>
+<l>den steg fra Jord,</l>
+<l>med Folke-Livet</l>
+<l>paa Lykke-Skibet</l>
+<l>den gik ombord,</l>
+<l>med Folke-Sangen</l>
+<l>fra Svane-Vangen</l>
+<l>den stak i Sky!</l>
+</lg>
+<p>*) Nöst er et Skib-Huus eller Skur.</p>
+<pb facs="1840_30_page0066.png"/>
+<fw type="pageNum">66</fw>
+<lg>
+<l>Da Moders-Maalet</l>
+<l>paa Fenix-Baalet</l>
+<l>var smeltet hen,</l>
+<l>en Røver-Stemme,</l>
+<l>i Grav kun hjemme,</l>
+<l>gik her igien,</l>
+<l>og kiös med Glæde</l>
+<l>af Gutter spæde</l>
+<l>det Danske Liv.</l>
+</lg>
+<lg>
+<l>Da Folke-Stemme</l>
+<l>gik reent ad Glemme</l>
+<l>i Danevang;</l>
+<l>da Ugle-Tuden</l>
+<l>for Ulve-Guden</l>
+<l>man kaldte Sang,</l>
+<l>og Slave-Lænke</l>
+<l>paa Skole-Bænke</l>
+<l>et Ordens-Tegn.</l>
+</lg>
+<lg>
+<l>Da Isse-Fjorden,</l>
+<l>og Alt i Norden</l>
+<l>fuldvidt berömt,</l>
+<l>af Grav-Latinen</l>
+<l>til Helved-Pinen</l>
+<l>blev rask fordömt:</l>
+<l>til Vinter-Dvale</l>
+<l>i Dödens Dale</l>
+<l>fra Slægt til Slægt.</l>
+</lg>
+<lg>
+<l>Ja, rosenmundet,</l>
+<l>i Graven bundet</l>
+<l>faae Norne-Giæst,</l>
+<l>mens Gienfærd blege</l>
+<l>med Rune-Lege</l>
+<l>holdt Dödens Fest,</l>
+<l>og brændemærked</l>
+<l>alt Livs-Storværket</l>
+<l>som Barbari.</l>
+</lg>
+<lg>
+<l>Dog, inden Belte</l>
+<l>ei kunde smelte</l>
+<l>den Fugl saa skiön,</l>
+<l>skabt til at sjunge</l>
+<l>med Danmarks Tunge</l>
+<l>i Lys og Lön,</l>
+<l>for bort at svinde</l>
+<l>af Hu og Minde</l>
+<l>i Bogelund.</l>
+</lg>
+<lg>
+<l>I Aske-Vuggen</l>
+<l>faldt Aften-Duggen</l>
+<l>saa sommervarm;</l>
+<l>til Trods for Döden,</l>
+<l>blev Aften-Roden</l>
+<l>en Moder-Barm</l>
+<l>for Orm hin unge,</l>
+<l>med Fugle-Tunge</l>
+<l>i Dölgsmaal födt.</l>
+</lg>
+<lg>
+<l>Ja, Orm hin unge,</l>
+<l>med Tand for Tunge,</l>
+<l>ved Natte-Tid,</l>
+<l>gik brat de Döde</l>
+<l>med Brodd imöde,</l>
+<l>og stak med Flid;</l>
+<l>dog Skygger smile</l>
+<l>ad Spyd og Pile,</l>
+<l>ad Tand og Brodd.</l>
+</lg>
+<lg>
+<l>Da skiö'd med Gammen</l>
+<l>han Orme-Hammen</l>
+<l>i Dæmring sval,</l>
+<l>tog paa at kvæde</l>
+<l>om Livets Glæde,</l>
+<l>trods Dödens Kval;</l>
+<l>da lytted, krumme,</l>
+<l>Livsfanger stumme,</l>
+<l>og Döden giös.</l>
+</lg> 
+<pb facs="1840_30_page0067.png"/>
+<fw type="pageNum">67</fw>
+<lg>
+<l>Da Folkets Stemme</l>
+<l>i trofast Giemme</l>
+<l>opdaged Han,</l>
+<l>Hvis omme Hjerte</l>
+<l>al Fryd og Smerte</l>
+<l>har deelt med Dan,</l>
+<l>og end i Tide</l>
+<l>paa Folkets Kvide</l>
+<l>Han raadte Bod.</l>
+</lg>
+<lg>
+<l>Livsalig kalder</l>
+<l>ham nu hver Alder,</l>
+<l>den Drot i Nord,</l>
+<l>som stumme Sjæle</l>
+<l>gav Mund og Mæle</l>
+<l>ved <hi rend="spaced">Isse-Fjord</hi>,</l>
+<l>hvor bildt nu blunder</l>
+<l>det Storværks Grunder,</l>
+<l>som aldrig doer.</l>
+</lg>
+<lg>
+<l>Sit Hjertes Stemme,</l>
+<l>i Danmark hjemme,</l>
+<l>Han Folket gav;</l>
+<l>mens Taaren bæver</l>
+<l>og Folket hæver</l>
+<l>sig frelst af Grav,</l>
+<l>Bog-Ormen svinger</l>
+<l>paa Fugle-Vinger</l>
+<l>sig over Land.</l>
+</lg>
+<lg>
+<l>Fra Tryk-Papiret</l>
+<l>til Kirke-Spiret</l>
+<l>han skynder sig,</l>
+<l>med Danmarks Tunge</l>
+<l>et Kvad at sjunge</l>
+<l>for Kongens Lig,</l>
+<l>som Bonder bære</l>
+<l>til Grav med Ære</l>
+<l>ved Issefjord.</l>
+</lg>
+<lg>
+<l>Derfra han iler,</l>
+<l>naar Maien smiler,</l>
+<l>til Gladhjems Slot,</l>
+<l>om Brude-Krandsen</l>
+<l>og Havfru-Dandsen</l>
+<l>at kviddre smaat,</l>
+<l>saa over Voven,</l>
+<l>saa giennem Skoven</l>
+<l>det gaaer saa let.</l>
+</lg>
+<lg>
+<l>Ja, fri for Sorgen</l>
+<l>til <hi rend="spaced">Fredriks-Borgen</hi></l>
+<l>gaaer Dandsen let,</l>
+<l>naar i Skiærsommer</l>
+<l>de faure Blommer</l>
+<l>staae trindt og tæt,</l>
+<l>Dan-Stjernen blinker,</l>
+<l>Lov-Kronen vinker</l>
+<l>saa yndefuld.</l>
+</lg>
+<lg>
+<l>Med salvet Pande</l>
+<l>vil Kongen sande</l>
+<l>det Spaadoms-Ord:</l>
+<l>for Christendommen</l>
+<l>er Timen kommen</l>
+<l>i höie Nord,</l>
+<l>og Fenix-Sangea</l>
+<l>i Dane-Vangen</l>
+<l>gienfödt paany.</l>
+</lg>
+<lg>
+<l>Med den skal mode</l>
+<l>hver Morgen-Rode</l>
+<l>et Skjalde-Kuld,</l>
+<l>og aabenbare,</l>
+<l>i Toner klare,</l>
+<l>som Glar og Guld,</l>
+<l>hvad dunkelt lyder</l>
+<l>om <hi rend="spaced">Lysets</hi> Dyder</l>
+<l>i Oldtids Kvad.</l>
+</lg> 
+<pb facs="1840_30_page0068.png"/>
+<fw type="pageNum">68</fw>
+<lg>
+<l>Nu, Roms Uvætte!</l>
+<l>fra Dane-Slette</l>
+<l>forsvind med Gru!</l>
+<l>Trods, om du taaler</l>
+<l>de stærke Straaler,</l>
+<l>som dandse nu!</l>
+<l>dit Lys er Morke,</l>
+<l>og Luft din Storke,</l>
+<l>og Lögn dit Liv.</l>
+</lg>
+<lg>
+<l>Gienganger dristig!</l>
+<l>Forfører listig!</l>
+<l>forlorne Aand!</l>
+<l>hvi svang til Bane</l>
+<l>du Lysets Fane</l>
+<l>i trolos Haand?</l>
+<l>hvi kom forvoven</l>
+<l>til Bögeskoven</l>
+<l>du hjertelos?</l>
+</lg>
+<lg>
+<l>I dette Hjarne,</l>
+<l>hvor Romas Orne</l>
+<l>ei fæsted Klo,</l>
+<l>i Tider blinde,</l>
+<l>da kun herinde</l>
+<l>var Hedning-Tro;</l>
+<l>skal her os trykke</l>
+<l>en Jette-Skygge</l>
+<l>fra Kapitol!</l>
+</lg>
+<lg>
+<l>Hvor Sandheds-Solen</l>
+<l>paa Naade-Stolen</l>
+<l>alt længe sad,</l>
+<l>og ingen Stamme</l>
+<l>med bedre Flamme</l>
+<l>Guds Lys tilbad,</l>
+<l>du Naadelöse</l>
+<l>os bod udose</l>
+<l>for dig vort Blod!</l>
+</lg>
+<lg>
+<l>Kun alt for længe</l>
+<l>i deiligst Vænge,</l>
+<l>med Hexe-Green</l>
+<l>og Blænde-Lygte,</l>
+<l>vi smaalig sögde</l>
+<l>de Vises Steen;</l>
+<l>men fandt i Kulen</l>
+<l>med Tomheds-Bulen</l>
+<l>din Hoved-Skal.</l>
+</lg>
+<lg>
+<l>Sög selv nu Bunden</l>
+<l>i Klögt-Afgrunden,</l>
+<l>du os oplod!</l>
+<l>jeg dig nedmaner,</l>
+<l>du Kirke-Raner,</l>
+<l>ved Korsets Fod,</l>
+<l>du Grav-Latiner,</l>
+<l>du Præste-Piner,</l>
+<l>du Bogstav-Trold!</l>
+</lg>
+<lg>
+<l>Staaer op af Döde,</l>
+<l>med Kinder rode,</l>
+<l>Lys-Alfer smaa,</l>
+<l>og synger Visen</l>
+<l>om Langbeen-Risen</l>
+<l>med Töfler paa,</l>
+<l>og saa den Anden,</l>
+<l>om Lygtemanden,</l>
+<l>Hr. Ællevild!</l>
+</lg>
+<lg>
+<l>Nu Soel er oppe,</l>
+<l>nu Böge-Toppe</l>
+<l>har Morgen-Glands,</l>
+<l>ved Fugle-Sange</l>
+<l>i Dane-Vange</l>
+<l>gaaer Havfru-Dands,</l>
+<l>og alle Trolde</l>
+<l>med Bryster kolde</l>
+<l>nu sprang i Flint.</l>
+</lg> 
+<pb facs="1840_30_page0069.png"/>
+<fw type="pageNum">69</fw>
+<lg>
+<l>Vaagn op, vor Moder,</l>
+<l>med alle Froder</l>
+<l>fra Arildstid,</l>
+<l>med Alles Navne,</l>
+<l>som Orlogs-Stavne</l>
+<l>har fort i Strid,</l>
+<l>og vel bemandet,</l>
+<l>for Fædrelandet</l>
+<l>og Moders-Maal!</l>
+</lg>
+<lg>
+<l>Nu Klokker kime,</l>
+<l>nu Glædens Time</l>
+<l>for eder slog,</l>
+<l>nu Romer-Hæren,</l>
+<l>som krænked Æren,</l>
+<l>til Helved drog,</l>
+<l>nu bære Prisen</l>
+<l>i Kæmpevisen</l>
+<l>kun Dannemænd!</l>
+</lg>
+<lg>
+<l>Nu vaagner, Frænder,</l>
+<l>med rappe Hænder</l>
+<l>til gavnlig Dont!</l>
+<l>thi her i Landet</l>
+<l>hvo ei giör Andet,</l>
+<l><hi rend="italic">giör meget Ondt</hi>:</l>
+<l>sig selv han kvæler,</l>
+<l>og Brödet stjæler</l>
+<l>af Næstens Mund.</l>
+</lg>
+<lg>
+<l>Nu Bönder vaagne</l>
+<l>i alle Sogne,</l>
+<l>i hver en By,</l>
+<l>af Kæmpe-Ætten</l>
+<l>for Odels-Retten</l>
+<l>til Fædres Ry,</l>
+<l>som Ridder-Sæder</l>
+<l>med Vadmels-Klæder</l>
+<l>kan rime net!</l>
+</lg>
+<lg>
+<l>Med Alvor Gammen</l>
+<l>nu smelte sammen</l>
+<l>i Sole-Glands!</l>
+<l>om Lærdoms Tinde</l>
+<l>sig yndig vinde</l>
+<l>en Lilje-Krands!</l>
+<l>om Skjaldskabs Vinge</l>
+<l>sig Tanke-Ringe</l>
+<l>med Æren snoe!</l>
+</lg>
+<lg>
+<l>I Danmarks Skove</l>
+<l>tor Duer vove</l>
+<l>med Högen Kiv;</l>
+<l>tor Lam til Love,</l>
+<l>for Daad at öve,</l>
+<l>betroe sit Liv;</l>
+<l>kan Barnet styre</l>
+<l>uvane Tyre</l>
+<l>med Klap paa Kind.</l>
+</lg>
+<lg>
+<l>Paa Danmarks Sletter</l>
+<l>sig jævne Trætler</l>
+<l>med Mjöd og Viin,</l>
+<l>paa Danmarks Klipper</l>
+<l>groe Ax og Vipper</l>
+<l><hi rend="italic">med Bögen fiin</hi>,</l>
+<l>paa Danmarks Hede</l>
+<l>giör Lærker Rede</l>
+<l>i Blade-Byg.</l>
+</lg>
+<lg>
+<l>I Danske Barme</l>
+<l>har Godhed Varme,</l>
+<l>er Ondskab kold;</l>
+<l>paa Danske Veie</l>
+<l>er Stimænd feie</l>
+<l>og Kvinden bold;</l>
+<l>paa Danske Bølger</l>
+<l>Livs-Lykken fölger</l>
+<l>med <hi rend="spaced">Dannebrog</hi>,</l>
+</lg> 
+<pb facs="1840_30_page0070.png"/>
+<fw type="pageNum">70</fw>
+<lg>
+<l>I Danske Bøger</l>
+<l>hvad ret man söger</l>
+<l>man finder let;</l>
+<l>hos Danske Piger</l>
+<l>al Pral og Smiger</l>
+<l>skeer flux sin Ret,</l>
+<l>og Troskab vinder</l>
+<l>hos Dannekvinder</l>
+<l>sin bedste Priis.</l>
+</lg>
+<lg>
+<l>Saa kom tilbage</l>
+<l>de gyldne Dage</l>
+<l>for <hi rend="spaced">Skjold</hi> og Dan,</l>
+<l>for alle <hi rend="spaced">Froder</hi>,</l>
+<l>for Bögens Moder,</l>
+<l>for <hi rend="spaced">Christian</hi>,</l>
+<l>for Rosen-Kiæder,</l>
+<l>for Livets Glæder,</l>
+<l>og fredsæl Daad!</l>
+</lg>
+<lg>
+<l>Det Budskab bringer</l>
+<l>nu Stork paa Vinger</l>
+<l>fra Danevang;</l>
+<l>det hore Skyer,</l>
+<l>naar Dagen gryer,</l>
+<l>i Lærkens Sang;</l>
+<l>for Dugg i Dale</l>
+<l>det Nattergale</l>
+<l>udtone södt!</l>
+</lg>
+<lg>
+<l>Til Aande-Solen</l>
+<l>paa Dronning-Stolen,</l>
+<l>med Tak og Priis,</l>
+<l>paa Fenix-Vinger</l>
+<l>Det sig opsvinger</l>
+<l>fra Paradis,</l>
+<l>hver Lysets Time,</l>
+<l>mens Klokker kime</l>
+<l>i Danevang:</l>
+</lg>
+<lg>
+<l>For Fader-Rösten,</l>
+<l>for Himmel-Trösten</l>
+<l>i Graadens Dal,</l>
+<l>for Samfunds-Kiæden,</l>
+<l>for Höitids-Glæden</l>
+<l>i Stjerne-Sal,</l>
+<l>for Paradiset,</l>
+<l>vær evig priset!</l>
+<l>Halleluja!</l>
+</lg>
+<fw type="graphic"/>
+<lg>
+<l>Jeg gik mig ud en Sommerdag at hore</l>
+<l>Fuglesang, som Hjertet kunde röre,</l>
+<l>I de dybe Dale,</l>
+<l>Mellem Nattergale,</l>
+<l>Og de andre Fugle smaa, som tale.</l>
+</lg>
+<lg>
+<l>Der sad paa Kvist en lille Fugl i Lunden,</l>
+<l>Södt den sang i Sommer-Morgenstunden,</l>
+<l>I de grönne Sale,</l>
+<l>Mellem Nattergale,</l>
+<l>Sang saa klart, som Nogen kunde tale.</l>
+</lg>
+<lg>
+<l>Paa Straale-Krandsen og paa Engle-Rösten</l>
+<l>Kiendte jeg den sære Fugl fra Osten,</l>
+<l>Paradisets Svale,</l>
+<l>Som af Vinter-Dvale</l>
+<l>Vaagned op til Sang i grönne Sale.</l>
+</lg>
+<lg>
+<l>I Graadens Dal var Glædens Röst begravet,</l>
+<l>Sangens Soel gik ned i Tone-Havet,</l>
+<l>Lost var Styrkens Belte,</l>
+<l>Blege alle Helte,</l>
+<l>Hjertet maatte i et Suk hensmelte.</l>
+</lg> 
+<pb facs="1840_30_page0071.png"/>
+<fw type="pageNum">71</fw>
+<lg>
+<l>Dog leved op Höisangen efter Döden,</l>
+<l>Tone-Havet födte Morgenröden,</l>
+<l>Og i Sole-Glandsen,</l>
+<l>Under Straale-Krahdsen,</l>
+<l>Let gik over Bölge Havfru-Dandsen.</l>
+</lg>
+<lg>
+<l>Hilsæl, vor Drot! hilsæl i Danevangen!</l>
+<l>Daglig her nu voxer Phenix-Sangen,</l>
+<l>Fugl og Sang tillige,</l>
+<l>Og alt som de stige,</l>
+<l>Blomstrer med Dit Septer Danmarks Rige.</l>
+</lg>
+<lg>
+<l>Omton da nu det Danske Konge-Sæde,</l>
+<l>Fuglesang, som rore kan og glæde:</l>
+<l>Phenix-Sang, oprunden</l>
+<l>Sært i Boge-Lunden,</l>
+<l>Morgenrode-Sang med Guld i Munden!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div> 
+<pb facs="1840_30_page0072.png"/>
+<fw type="pageNum">72</fw>
+<head>Rettelser</head>
+<p>i Texten</p>
+<p>- 201	-	under</p>
+<p>- 213	-	bibaðað</p>
+<p>- 253	-	woðcræfte</p>
+<p>- 334	-	scade</p>
+<p>- 453	-	heaðorofes</p>
+<p>- 565	-	beorhstede</p>
+<p>- 577	-	æðeltungla</p>
+<p>- 672	-	lofiað</p>
+<p>- 994	-	nergend</p>
+<p>i Latinen</p>
+<p>v. 95	læs: Dryhtnes	v. 72 læs: avis ulla</p>
+<p>- 88 - sociam Myrrhæ vim</p>
+<p>- 94 - timet illa</p>
+<p>- 107 - ad saxa.</p>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

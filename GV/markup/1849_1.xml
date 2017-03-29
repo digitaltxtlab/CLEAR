@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>C. Flor.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-22"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="001"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1849">1849</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1849_1_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">C. Flor.<lb/></titlePart>
+	<titlePart type="sub">Den 1ste Januar 1849.<lb/></titlePart>
+				<fw type="graphic"/>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<docImprint>
+				<pubPlace></pubPlace>.
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<pb facs="1849_1_page0002.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l><hi rend="initial">D</hi>er er et Land ved Danmarks Grændseskjel,</l>
+<l>ei stort, mod Romer-Rig at regne;</l>
+<l>men for vort Liv vi er til det i Gjæld,</l>
+<l>og Nordens Aand var stærk i disse Egne,</l>
+<l>stod der fra Arilds-Tid paa Grændsevagt,</l>
+<l>og trodsed hele Romer-Rigets Magt,</l>
+<l>Ja, Daneværk, det var hans Himmelbjerg,</l>
+<l>og Langbeen-Rise, tydsk af Byrd, han var mod ham en Dværg!</l>
+</lg>
+<lg>
+<l>Vi havde hardtad glemt, vi kom fra Nord,</l>
+<l>I Holgers Dyrendal, som Staalet,</l>
+<l>derfor os dyrebart er Navnet "<hi rend="spaced">Flor</hi>"</l>
+<l>han Fædres Aand har vakt med Modersmaalet;</l>
+<l>og sees end ikke Holger Danske her,</l>
+<l>ved Dannevirke lynet dog hans Sværd.</l>
+<l>Ja, Daneværk, det er hans Himmelbjerg,</l>
+<l>og Langbeen-Rise, tydsk af Byrd, han er mod ham en Dværg!</l>
+</lg>
+<lg>
+<l>Som Kjæmpevækker i det höie Nord,</l>
+<l>Du leve ud med Lyst din Alder,</l>
+<l>saa Danevang Du skue maa i Flor,</l>
+<l>som Asgaard var för Graaden over Balder!</l>
+<l>Da staaer igjen mod Romer-Rigets Magt</l>
+<l>ved Dannevirke Nordens Aand paa Vagt.</l>
+<l>Ja, Daneværk, det er hans Himmelbjerg,</l>
+<l>og Langbeen-Rise, tydsk af Byrd, han er mod ham en Dværg!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

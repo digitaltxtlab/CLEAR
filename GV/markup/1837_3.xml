@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Nordisk Kirke-Tidende</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-21"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="003"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1837">1837</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1837_3_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">1837 Nordisk No.2<lb/>Kirke-Tidende</titlePart>
+</docTitle>
+<byline>udgiven af<lb/>
+	<docAuthor>Jac. Chr. Lindberg</docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition>Femte Aargang</docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace></pubPlace>Maa trykkes. C. Reiersen. Trykt paa Udgiverens Forlag hos C. Græbe &amp;Søn.<lb/>
+<fw type="graphic"/>
+<docDate>8. Januar. Søndag etter Hellig 3 Kongers Dag.</docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Romer-Vise.</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">T</hi>il Hjerte ei gaaer hvad fra Hjerteløs kom,</l>
+<l>Saa gaaer det med Alt hvad der kommer fra Rom,</l>
+<l>Med <hi rend="spaced">Classisk Latin</hi> som med <hi rend="spaced">Papisteri</hi>,</l>
+<l>Med Kraften og Kløgten og Konsterne frie i</l>
+<l>Men pines og plages og knuses maa dog</l>
+<l>Hvert Hjorte, som føler det <hi rend="spaced">Romerske Aag</hi>,</l>
+<l><hi rend="align(center)">Saa vel maae med Fædre</hi></l>
+<l><hi rend="align(center)">Vi bede: Gud bedre,</hi></l>
+<l><hi rend="align(center)"><hi rend="spaced">Gud fri os fra Rom</hi>!</hi></l>
+</lg>
+<lg>
+<l>Den Skiøge, som sidder paa guldbundet Skrin</l>
+<l>Og skiænker for Konger sin giftige Viin,</l>
+<l>Med Rette Man raaber, i Dag som i Gaar,</l>
+<l>Er <hi rend="spaced">Babel i Vesten</hi>, er Nom paa et Haar,</l>
+<l>Omsonst gik dog Ønsket fra Mund og til Mund,</l>
+<l>At Rom maatte synke til Helvedes Grund,</l>
+<l><hi rend="align(center)">Saa vel maae med Fædre</hi></l>
+<l><hi rend="align(center)">Vi bede: Gud bedre,</hi></l>
+<l><hi rend="align(center)"><hi rend="spaced">Gud fri os fra Rom</hi>!</hi></l>
+</lg>
+<lg>
+<l>Ja, Røveren fræk, med det ildrøde Haar,</l>
+<l>Han myrdede Folk, som Man slagter et Faar,</l>
+<l>Og hvem der af ham tog sin Velfærd til Lehn,</l>
+<l>Fik Strikken om Hals eller Bøilen om Veen,</l>
+<l>Men værre end Fader var Daatter endnu,</l>
+<l>Det folde i Norden hver Kæmpe med Gru,</l>
+<l><hi rend="align(center)">Saa vel maatte Fædre</hi></l>
+<l><hi rend="align(center)">udbryde: Gud bedre,</hi></l>
+<l><hi rend="align(center)"><hi rend="spaced">G u d f r i o s f r a R o m</hi>!</hi></l>
+</lg>
+<lg>
+<l>Den Skiøge begrov og forfalsked Guds Ord,</l>
+<l>Tog Vredet af Munden paa Folk ved Guds Bord,</l>
+<l>Hun <hi rend="spaced">Midlere</hi> mynted som <hi rend="spaced">Sedler</hi> med Haand,</l>
+<l>Gav <hi rend="spaced">Paver og Buller</hi> for Ord og for Aand!</l>
+<l>Og knækkedes end det tyranniske Aag,</l>
+<l>Det svider endnu dog til Olding og Pog,</l>
+<l><hi rend="align(center)">Saa vel maae med Fædre</hi></l>
+<l><hi rend="align(center)">Vi bede: Gud bedre,</hi></l>
+<l><hi rend="align(center)"><hi rend="spaced">Gu d fri o s fra Rom</hi>!</hi></l>
+</lg>
+<lg>
+<l>Den Skiege stjal Nøglen til Himmerigs Dør,</l>
+<l>Saa ublu en Gierning Man hørde ei før.</l>
+<l>Og mukkede Nogen, om ogsaa kun lidt,</l>
+<l>Paa Timen hun gjorde dem Helvede hedt,</l>
+<l>Ja smeed, om hun kunde, i Skiærs-Ilden brat,</l>
+<l>Enhver, som blot Kis sagde til hendes Kat;</l>
+<l><hi rend="align(center)">Saa vel maatte Fædre</hi></l>
+<l><hi rend="align(center)">Udbryde: Gud bedre,</hi></l>
+<l><hi rend="align(center)"><hi rend="spaced">Gud fri os fra Rom</hi>!</hi></l>
+</lg>
+<lg>
+<l>Den Skiøge, som kaldtes "vor Moder" engang,</l>
+<l>Vel Fædrene vænned som Svinet af Vang,</l>
+<l>Men Sønnen, hun avled med Gienfærd fra Hel,</l>
+<l>De tænkde at tugte og fostre saa vel,</l>
+<l>At han skulde bode hvad Moderen brød,</l>
+<l>Den <hi rend="spaced">Skifting</hi>, som æder kun Menneske-Kiød;</l>
+<l><hi rend="align(center)">Saa vel maae med Fædre</hi></l>
+<l><hi rend="align(center)">Vi bede: Gud bedre,</hi></l>
+<l><hi rend="align(center)"><hi rend="spaced">Gud fri os fra Rom</hi>!</hi></l>
+</lg>
+<lg>
+<l>Da Skiøgen udskiænked sin giftige Viin,</l>
+<l><hi rend="spaced">I Kirken og Skolen</hi> blev Alting <hi rend="spaced">Latin</hi>,</l>
+<l>Saa Døden med Aand og med Hjerte fik Magt,</l>
+<l>Med Helved og Døden var Skiøgen i Pagt,</l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

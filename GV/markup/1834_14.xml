@@ -1,0 +1,1221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Rim - Krönike</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2009-11-14"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="014"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1834">1834</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1834_14_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Pröver<lb/>af<lb/>Den Gammel-Danske<lb/>Rim - Krönike</titlePart>
+	<titlePart type="sub">i<lb/>en ny Skikkelse.</titlePart>
+</docTitle>
+<byline>ved<lb/>
+	<docAuthor>N. F. S. Grundtvig.<lb/></docAuthor>
+				</byline>
+				<fw type="graphic"/>
+				<epigraph>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace>Kjöbenhavn.</pubPlace>.<lb/>Trykt hos Fabritius de Tengnagel.<lb/>
+<fw type="graphic"/>
+<docDate>1834</docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<pb facs="1834_14_page0001.png"/>
+<fw type="pageNum"></fw>
+<pb facs="1834_14_page0002.png"/>
+<fw type="pageNum"></fw>
+<p>Særskilt aftrykt af den Nordiske Kirke-Tidende.)</p>
+<pb facs="1834_14_page0003.png"/>
+<fw type="pageNum"></fw>
+</div>
+<div>
+<head>Den Danske Rim-Krønike.</head>
+<fw type="graphic"/>
+</div>
+<div>
+<p><hi rend="initial">D</hi>enne Bog, som har Førstefødsels-Netten i det <hi rend="spaced">Danske Trykkeri</hi>, er vel, siden <hi rend="bold">Molbechs</hi> Kiærligheds-Gierning, ei længer en saadan Sjeldenhed paa Marken, som før, men fra den første Dag jeg lærde at kiende denne mageløse <hi rend="spaced">Rim-Krønike</hi>, var det dog min faste Tro, at den burde paa Ny komme i alle Danske Læseres Hænder, hvad ei kan skee, med mindre det forældede Bog-Sprog læmpes efter nuværende Skik og Brug, og Krøniken, ved mere Indhold, bliver et temmelig godt udtog af Fædeme-Landets Historie. En saadan Fornyelse var og er derfor en Kiærligheds-Gierning, hvortil jeg immer troede mig
+<pb facs="1834_14_page0004.png"/>
+<fw type="pageNum">4</fw>
+forbundet, da jeg er den eneste Rim-Smed nuomstunder, som har forelsket fig i det gamle Billede, og Hoved-Grunden, hvi det ei skedte for lange siden, var den Kulde, hvormed hardtad alle andre Læsere betragtede denne min Liv-Bog, som jeg, ærlig talt, har last meget tiere og kan meget bedre end min Bibel. Nu er det vel saa, at Læse -Verdenens Kulde, forskyldt eller uforskyldt, er nok til at kvæle mine literære Fostre i Fedselen, da jeg ikke har Evne til at undvare Hjalp, men hvad Rim-Krøniken angaaer, har jeg den Tanke, at Kulden i det Hele kun udsprang af en Fordom mod det Ubekiendte, som de tørre Old -Granskere i deres Uskyldighed havde vakt og næret, fordi Bo i gen naturligviis ikke tiltalde dem, og hos Endeel maa det Molbechske Optryk sikkert have udryddet Fordommen, skiøndt min og al Danskheds gode Ven prutter lidt med mig om den høie pris, jeg sætter paa de gamle trohjertige Rim om Dane-Kongerne. Deels er jeg nemlig vis paa, at, saa-
+<pb facs="1834_14_page0005.png"/>
+<fw type="pageNum">5</fw>
+vidt det er en Bog mueligt, kan Rim-Krøniken tale for sig selv til Dannemand, deels indseer man let, at den godt kan fortjene at læses ti Gange af Alle og Enhver, fordi jeg, ved at læse den vel <hi rend="spaced">tohundrede</hi> Gange, kan have overdrever Tingen, og endelig maa Rim-Krøniken dog udentvivl ogsaa have tiltalt Molbech mere end han selv beregnede, før han satte saa høi Pris paa den, som den hos os mageløs omhyggelige og pyntelige udgave meer end mange Ord beviser.</p>
+<p>under den Forudsætning nu, at Danske Læsere enten har fundet, der er dog langt mere ved den gamle Rim-Krønike, end man længe troede, eller er dog ikke utilbøjelige til at troe det, under denne Forudsætning har jeg for Alvor taget fat paa det Arbeide, saa smaat at ændre, udfylde og fortsætte den, og idet jeg foreløbig anmelder det, vil jeg bede de med Krøniken ubekiendte Læ: fere lægge vel Mærke til to Ting, som, i mine Tanker, burde drive alle Dannemænd til at sætte
+<pb facs="1834_14_page0006.png"/>
+<fw type="pageNum">6</fw>
+langt høiere Pris paa Bogen, end de Fleste med rene Fornuft-Grunde var istand til at forsvare.</p>
+<p>Det er nemlig ikke med den Danske Rim-Krønike, som med de <hi rend="spaced">Franske, Engelske, Skotske</hi>, og alle de Rim - Krøniker, jeg kiender, at man har fundet et støvet Haand-Skrift af dem i et eller andet Bibliothek, og i forrige eller dette Aarhundrede udgivet dem som en Kuriositet; nei, den danske Rim-Krønike er ikke blot den første Danske Bog, der, allerede i <hi rend="bold">Christian</hi> den <hi rend="bold">Førstes</hi> Dage, udgik paa Prænt, men den blev fra hans til <hi rend="bold">Christian</hi> den <hi rend="bold">Fjerdes Tid</hi> saa idelig oplagt, at den aabenbar har ræret den mest afholdte Folke-Bog i hele det <hi rend="spaced">Sextende</hi> Aarhundrede, altsaa i den livligste Tid, Moders-Maalet og alt Dansk har havt, fra <hi rend="bold">Valdemarernes Tid</hi> til <hi rend="bold">Frederik</hi> den <hi rend="bold">Sjettes</hi>. En saadan Kiends-Gierning til Bogens Fordeel, mener jeg burde vække en hardtad uovervindelig god Fordom , thi skal Nogen have Skammen for den
+<pb facs="1834_14_page0007.png"/>
+<fw type="pageNum">7</fw>
+dybe Glemsel og Ringe-Agt, hvori Folkets Yndlings-Bog giennem det Syttende og Attende Aarhundrede nedsank, kan det jo umuelig blive Bogen, men maae blive de stive „Latinere", til hvis Classiske „Religion" (Ciceros religio officii) det hørde, saavidt mueligt at udrydde al rimet og livlig Tale af Literaturen, som Barbariets Levninger. Betænker man nemlig, at i det Femtende og Sextende Aarhundrede, da Rim-Krøniken havde fine gyldne Dage, var det kun en Deel af Adelen og Borgerskabet, der kunde læse, da falder den Slutning naturlig, at en Bog, som, blot for fin Danskhed, dengang gjorde Lykke i Læse-Verdenen, vilde nu giøre ligesaa hos de Læsere der staae omtrent paa samme Trin, som de meest Dannede i Reformations-Tiden, altsaa hos Almuen, og om da end vore Bønder skulde blive Rim-Krønikens eneste velvillige Læsere, havde den jo dog rimeligviis i dem et Publikum, vi nødig skulde ringeagte, men gierne skaffe en Læsning,
+<pb facs="1834_14_page0008.png"/>
+<fw type="pageNum">8</fw>
+der paa Morskabs-Veien ledte dem til Deelta? gelse i Fæderne -Landets Vee og Vel.</p>
+<p>Dette er det Første og Fornemste, som taler for Rim-Krøniken, og kun det giør en læselig Udgave deraf til en folkelig Sag og Kiærligheds Gierning; men der er dog ogsaa en anden Kiends-Gierning, som, hvor ubetydelig den end forholdsviis er, dog sikkert ogsaa vil tale til Efter-Slægten for denne Moders-Maalets mageløse Gang-Vogn, og som jeg derfor ikke ved min Anbefaling, maa fortie, skiøndt det er min egen urimelige Kiærlighed til den. Man sige nemlig om mig, hvad man vil, saa har det alt længe værer en afgjort Sag, at der er Ingen af de nye Forfattere, som det ægte Nordiske saa <hi rend="spaced">cen sidig</hi> har tiltalt og saaet til sin Talsmand, og det maatte da udentvivl være gaaet til med Hexeri, hvis den gamle Danske Rim-Krønike uden ægte Nordisk Kierne skulde indtaget mig saaledes, som min Afhandling i <hi rend="spaced">Aften-Bladet</hi> unægtelig viste, den
+<pb facs="1834_14_page0009.png"/>
+<fw type="pageNum">9</fw>
+har. At det nemlig hverken er dens „gule Lokker", dens spillende Øine, eller dens Rosen-Kinder, som har fortryllet mig, det seer jo enhver, thi den er gammel og graa, mager og bleg, og hardtad blind paa begge Øine, saa Munden, Malet og Røsten, eller som vi sige „Sproget" og „Tonen", er aabenbar det Eneste, der kan have stjaalet mit Hjerte, og maae udentvivl, for at kunne det, være saa inderlig sode og deilig Danske, at Krøniken kun behover at høres for at giøre i det Mindste et behageligt Indtryk paa alle Danske. Nu er det vist nok saa, at Rim-Krøniken kommer egenlig ikke „<hi rend="spaced">til Orde</hi>" ved en ny udgave og mindst ved en Omarbeidelse, der aldrig er saa kæmpelig, at jo Endeel af det Bedste gaaer tabt, men medens den dog hos Almuen vækker mangt et Ord, som slumrer paa Læben og i Hjerte-Kammeret, kan og bor den dog ogsaa hos de Dannede fode det Ønske at høre de gamle Rim-Smede, som de endnu kan høres giennem os, der
+<pb facs="1834_14_page0010.png"/>
+<fw type="pageNum">10</fw>
+elfke dem, og naar dette Ønske ei baade opstaaer og opfyldes, da vil snart alle Vers af Nutidens Skjalde blive ligesaa døde for Læse-Verdenen, som den gamle Rim-Krønike. Ogsaa denne Leilighed maa jeg derfor gribe til at minde vore Lands-Mænd om, hvad de vel synes at have døve Øren for, men hvad vi, som Aandens fødte Tals-Mand, dog maae gientage, saalænge Tungen kan røre sig, gientage alvorligere, jo mere vi nærme os Natten, da Ingen kan arbeide. Skal nemlig den poetiske og i det Hele den folkelige Deel af Literaturen ikke blive en død Skat, da maa den bestandig have levende mundtlige Tals-Mand, og de komme ikke meer saa ganske af dem selv som de <hi rend="spaced">Græske</hi> Rhapsoder, de <hi rend="bold">Islandske Sagamand</hi> og de <hi rend="bold">Engelske</hi> Harpe-Legere (<hi rend="latine">Ministrels</hi>), og „<hi rend="spaced">Skue -Spillerne</hi>" er et daarligt Surrogat, deels fordi det ikke blot er de Stykker, som finde Naade for deres Øine og give fuldt Huus, der skal levende forplantes, og især fordi, med faa
+<pb facs="1834_14_page0011.png"/>
+<fw type="pageNum">11</fw>
+Undtagelser-, Skue -Spillerens Begejstring for hvad han siger, er uægte, da det er Bifaldet eller dog <hi rend="spaced">Skuespil - Konsten</hi>, ikke Poesien, der begeistrer ham. Hvad man kalder æsthetiske Forelæs: ninger, det har derimod idet Mindste Formen af hvad vi fattes, thi de behøve blot at holdes af Mænd, som Poesien virkelig begeistrer, og at oplive de nationale Værker, istedenfor at sønderlemme dem, saa vil de skabe den Læse-Verden, vi savne, og skabe Skole-Mestere, som ungdommen behøver, for at komme levende ind i Fædrenes Aand, Sprog og Tanke-Gang. Det er paa en Maade mod min egen Interesse at tale saa, thi gid jeg immer, til jeg kommer der, maa være saa vis paa Himmerig, som jeg er paa, at hvis det ikke snart forebygges, ved alvorlige Forholds-Regler, da blive bestemt <hi rend="bold">Baggefen</hi> og <hi rend="bold">Oehlenschlager, Ingemann</hi> og jeg, og hvem der har saaet et ligedant Ord paa sig, med alle vore Skavanker canoniserede i næste Slægt, som uopnaaelig Mønstre, og
+<pb facs="1834_14_page0012.png"/>
+<fw type="pageNum">12</fw>
+det synes jo at være en himmelsk udsigt for os, men det er en Helvedes udsigt for Danmark og skal derfor være en ligedan for os, thi „at leve" med de kommende Slægter, det er vort Kald og skal være vor Lyst, men ei at tænke vore Skrifter loftede til Skyerne som „Classiske Vaker", <hi rend="spaced">det er</hi>: som sørgelige Mindes-Mærker om den med os uddøde Aand. Vi Nyaars-Børn, fødte paa Grændsen af to Tidsrum: det poetiske, som ligger bag os, og det prosaiske, som udstrækker sig for os, vi har Øine, naar vi kun vil bruge dem, til at see, <hi rend="spaced">hvad</hi> der maa giøres, naar del følgende Tids-Rum ei skal vorde aandløst, vi kan, naar vi vil, godt indsee, at den underlige Aands-Forplantelse i Løn, som vi skylde vor Poetiske Tilværelse, den fandt ingenlunde Sted for at National - Poesien i os skulde, som et udgaaende Lys, blusse op og slukkes, men for at holde Liv i Gnisterne, som ulme under Asken, og vil, naar de saae Tid at samle sig, frembringe langt klarere
+<pb facs="1834_14_page0013.png"/>
+<fw type="pageNum">13</fw>
+Blus end vores, og stedse bedre oplyse Banen som er Nordens Aand betegnet til sit herlige Maal. Derfor maa ingen Spot være saa bidende og im gen Kulde saa drabende, at de skulde hindre os fra at tilbyde. Nordens Aand og den nationale Literatur vor <hi rend="spaced">levende, mundtlige</hi> Tjeneste, og fra at arbeide alt hvad vi kan paa at see vore <hi rend="spaced">Mestere</hi> opvoxe naar vi synke, vore Børn i Aanden stige paa vore Skuldre og juble over den videre udsigt, der rimedes dem!</p>
+<p>Dog, kunde Skrift hjelpe, var det Synd Andet end at skrive en heel Bog om saa vigtig og dog i det Hele saa ubekiendt en Sag, som <hi rend="spaced">Ordets</hi> og <hi rend="spaced">Aandens levende</hi> Forplantelse, og jeg vil da her vende tilbage til den ny udgave af den gamle Rim-Krønike, hvormed jeg foreløbig vilde giøre Læseren bekiendt, uden at lade mig skrække af den Tanke, at der maaskee aldrig bliver noget af; thi kan jeg overtale mig til at giøre Arbeidet færdigt, da kommer det nok ud, om
+<pb facs="1834_14_page0014.png"/>
+<fw type="pageNum">14</fw>
+ikke før, saa naar jeg er død, og faaer sagtens samme Skæbne som Andre, der tit i levende Live ei kunde saae trykt hvad de vilde, men fik til Giengiæld efter Døden endogsaa trykt hvad de <hi rend="spaced">ikke vilde</hi>.</p>
+<p>Min Hensigt er da at give den første og bedste Deel af Krøniken saa heel og holden som mueligt, at bøde paa den Tomhed og Snaksomhed, der efterhaanden indsniger sig, og at fortsætte Krøniken til vore Dage. Det Sidste er vel en i flere Henseender vanskelig Sag og vil neppe synderlig forøge Bogens Værd, men det synes mig dog alt for grov en Satire paa Ordsproget „Konsten stiger," at en Rim-Smed i det Nittende Aarhundrede skulde rette paa dem fra det Femtende og Forrige, men erklære sig udygtig til at feie for sin egen Dør. Dog, hvad Man agter at giøre, giør Man altid bedst i at <hi rend="spaced">vise</hi>, og jeg skal derfor give prøver paa min Behandling af hvert Slags, naar jeg først har sagt et
+<pb facs="1834_14_page0015.png"/>
+<fw type="pageNum">15</fw>
+Par Ord om Rim-Krøniken fra den Poetiske. Side.</p>
+<p>Naar en Bog lader sig læse med Fornøielse og har sin Nytte, da indseer Man let, at hvad enten den er skrevet paa Rim eller ikke, bliver det en Bisag, om den fortjener Tillægs-Ordet „<hi rend="spaced">Poetisk</hi>" eller ikke, og i de allerfleste Tilfælde er Tvisten derom et unyttigt Ord-Kløveri. Da nu imidlertid <hi rend="spaced">Nang-Sygen</hi>, som egenlig har hjemme hos <hi rend="spaced">Tydskerne</hi> og os, selv for Bøger har havt den sørgelige Følge, at de uden „Titler" ei kan komme frem i Verden, og da den stakkels Rim-Krønike saa ubarmhjertig er fradømt al Ret til en Titel, Man ellers er ødsel nok med, saa maa jeg, for at redde Rim-Krønikens Ære, sætte min egen <hi rend="spaced">Poetiske Titel</hi> i Pant paa, at den første Halv-Deel er langt mere poetisk end de fleste <hi rend="spaced">gode</hi> Digte nuomstunder. Somme vil kanskee fige, det beviser Intet, da min egen Adkomst til „Titelen" er
+<pb facs="1834_14_page0016.png"/>
+<fw type="pageNum">16</fw>
+meget tvivlsom, men saalænge der mellem dem, som fradømme Rim-Krøniken al poesi, Ingen findes, der har nær saa megen end Uge dedre Adkomst til Digter-Navn end jeg, saalænge maa dog, naar Talen er om „<hi rend="spaced">Authoritet</hi>," Rim-Krøniken nyde godt af min, og imidlertid tænker jeg. Læserne blive saa kloge, enten slet ikke at bryde sig om „<hi rend="spaced">Titler</hi>," eller dog at spørge, ei af hvem, men paa hvad Grund de ere skiænkede eller nægtede. Da vil Man behage at veie den Grund, jeg nu skal anføre, og lade mit Skiøn staae og falde med den, uden dog at glemme, at om end baade Rim-Krøniken og al min Skrift skulde gaae Glip ad „Titelen," blive de derved ei mindre læseværdige, end de med alle den lærde Verdens Titler vilde være!</p>
+<p><hi rend="spaced">Poetisk</hi> er nemlig i mine Øine ethvert Ord, som <hi rend="spaced">levende</hi> tiltaler det <hi rend="spaced">Aandelige</hi> hos Mennesket, poetisk er Det og intet Andet, og Graden beroer deels paa Almindeligheden og deels
+<pb facs="1834_14_page0017.png"/>
+<fw type="pageNum">17</fw>
+paa Dybden af Indtrykket. I Følge den aandelige Trefoldighed i Mennesket er nu det <hi rend="spaced">Poetiske</hi> Ord ogsaa <hi rend="spaced">tredobbelt</hi>, eftersom det levende tiltaler enten <hi rend="spaced">Indbildnings-Kraften</hi>, eller <hi rend="spaced">Hjertet</hi>, eller <hi rend="spaced">Forstanden</hi> især, og ved Rim-Krøniken, forn ved <hi rend="spaced">Middel-Alderens</hi> Poesi i det Hele, kan Talen egenlig kun være om det <hi rend="spaced">Mellemste</hi> eller det <hi rend="spaced">Hjertelige</hi>. Denne Deel af Poesien er nu vist nok den, der har den snevreste Virke-Kreds og staaer mest Fare for at miskiendes, da alle Folk vel har et Hjerte, saadant som det er, men med saa mangfoldig og tit uhyre Forskiel, at hvad der rører det Ene, spottes af det Andet, medens paa den anden Side Meget kan være hjerteligt uden at være poetisk, da de fleste Hjerter tage mest Deel i hvad der er det ikke. Uagtet derfor de fleste aldeles upoetiske, tomme og vandede Riim, uden Sammenligning er fra Forstands-Tiden, da det, især ved Hjelp af et Lexikon, er Smaa-Ting at
+<pb facs="1834_14_page0018.png"/>
+<fw type="pageNum">18</fw>
+skrive Rim i Tusind-Tal, saa har vi dog ogsaa en Slump fra Middel-Alderen, og da de gode hjertelige Rim hverken udmærke sig fra de Slette ved et høit Billed-Sprog, prægtige Lignelser eller spillende Vittighed, men kun ved noget vist Dybere, Sødt og Levende, der langt bedre lader sig føle end beskrive, saa er det naturligt, at Æsthetikerne tit kaste dem i Dynge med de Slette. Denne Skiæbne har da især den gode Deel af Rim-Krønikerne havt og det er først ganske nylig, Man har opdaget, der dog ogsaa i <hi rend="spaced">Vaces, Layamons</hi>, den <hi rend="spaced">Brunsvigske</hi> og nogle andre Rim-Krøniker fandtes Endeel, . som var godt at giemme, saa det lader sig nemt forklare, hvi ogsaa den Danske Rim-Krønike blev kastet som Feie-Skarn paa den Æsthetiske Mødding. Hermed er imidlertid, som Man let seer, Kritiken ingenlunde retfærdiggiort, allermindst, naar jeg har Ret i at den <hi rend="spaced">Danske</hi> Rim-Krønike poetisk
+<pb facs="1834_14_page0019.png"/>
+<fw type="pageNum">19</fw>
+overgaaer alle Andre, saavidt som Bøgen alle andre Skov-Træer.</p>
+<p>En Rim-Krønike kan nemlig enten udmærke sig ved enkelte smukke Steder, eller den kan heel igiennem tiltale Folke-Hjertet ved sin <hi rend="spaced">folkelige Tone</hi>, sin <hi rend="spaced">levende Opfattelse</hi> af <hi rend="spaced">Moders-Maalet</hi> og sin <hi rend="spaced">inderlige</hi> Deeltagelse i <hi rend="spaced">Landets Vee</hi> og Vel. Det Sidste er, saavidt jeg veed, ikke Tilfældet med nogen anden Rim-Krønike end den Danske, men at det er Tilfældet lued den, vil ingen Dansk Læser kunne negle, og saasandt derfor som <hi rend="spaced">Folke-Aand</hi> og <hi rend="spaced">Fædernelands - Kiærlighed er poetiske</hi>, da er vor Rim-Krønike det visselig ogsaa i udmærket Grad. Nu veed jeg nok, de nyere Æsthetikere sædvanlig er noget prutne med det og vil ikke lade det <hi rend="spaced">patriotiske</hi> være <hi rend="spaced">poetisk</hi>, men idet jeg strax indrømmer, at ingenlunde al patriotisme er poetisk, saa paastaaer jeg dog frimodig, at <hi rend="spaced">Nationaliteten</hi> og <hi rend="spaced">Moders-Maalet</hi>, naar
+<pb facs="1834_14_page0020.png"/>
+<fw type="pageNum">20</fw>
+der er Aand i Dette og Kiærlighed i Hin, høre til de <hi rend="spaced">poetiske Virkeligheder </hi> paa Jorden, der i Aandens Øine staae høit over Alt hvad der er blot Digtning, hvorfor ogsaa et levende Udtryk deraf, selv hos et fremmed Folk, f. Ex. Grækerne, virker <hi rend="spaced">sympatetisk</hi> paa ethvert poetisk Hjerte, end sige da <hi rend="spaced">Udtrykket</hi> af det Samme hos os selv. At imidlertid Indtrykket her ingenlunde blot beroer paa <hi rend="spaced">Udtrykkets</hi> Beskaffenhed, men bliver stærkere eller svagere, eftersom <hi rend="spaced">Fæderne - Land</hi> og <hi rend="spaced">Moders-Maal</hi> er os kiære, følger af sig selv, og da lærde Folk nu fjelden er meget patriotiske uden for „den lærde Republik," og da de Danske Lærde i det <hi rend="spaced">Sytten de og Attende</hi> Aarhundrede i deres Classiske Enfoldighed sædvanlig troede, at skulde det <hi rend="spaced">Danske </hi> Sprog blive taaleligt, maatte det være ved at formes i <hi rend="spaced">pennen efter Latinske, Franske</hi> eller <hi rend="spaced">Tydske </hi> Mønstre, saa var det intet Under, Man begrov den <hi rend="spaced">Danske Rim-</hi><pb facs="1834_14_page0021.png"/>
+<fw type="pageNum">21</fw>
+<hi rend="spaced">Krønike</hi> saa dybt at vi havde ondt ved at finde den; thi tærnker Man Danmark og Dansk i Folke-Munde bort, da er den vist nok ei værd at tage op paa en Vei. Besynderligt er det vist nok, at saa grunddansk en Literator som gamle Nyrup, hvem virkelig Alt hvad der levende slog paa de nationale Strænge poetisk tiltalde, ogsaa bred Staven over Rim-Krøniken, men det kom aabenbar af et vist Hexen, der er ved de „Lærde Fordomme," som giør, at en Bog, som de Lærde engang eenstemmig har sat i Band, den enten læser ingen studeret Person, eller nødes han paa Embeds-Vegne til at titte i den, da ryste Hænderne, som det var <hi rend="spaced">Siprianus</hi>, og føier han sig tiltrukket af nogle enkelte Linier, da smider han Bogen i en Hast og korser sig paa Latin, for ikke at blive forgjort. Det klinger pudsig, men det er baade sandt og sørgeligt, ja, det gaaer saavidt, at skiøndt jeg aldrig har kiendt en større Vovehals mellem Bøger end jeg selv
+<pb facs="1834_14_page0022.png"/>
+<fw type="pageNum">22</fw>
+er, og skiøndt jeg ikke vidste rettere, end at Sky-Haarene for de Lærdes Ban - Straaler var for længe siden blæst af, saa blev jeg dog over 30 Aar gammel, inden jeg fik Mod til at see med egne Øine, hvad den gamle Danske Rim-Krønike havde syndet, og fandt da at saa puur og pæredansk en Nog havde jeg aldrig i mine Dage læst, saa „Latinerne" havde ligesaa skiellig Grund til at fordømme, som jeg til at ophøie den. —</p>
+<p>Naar jeg altsaa erklærer den Danske Rim-Krønike for et saare poetisk Værk i sit Slags, da mener jeg naturligviis det Slags hvortil den hører: de trohjertige Rim-Krøniker nemlig, hvori den ny Verdens mest poetiske Folke-Stammer udtrykde deres <hi rend="spaced">Nationale</hi> og <hi rend="spaced">patriotiske</hi> Følelse, og skiøndt denne Følelse ikke er den dybeste menneskelige, er det dog den dybeste <hi rend="spaced">folkelige</hi> Følelse, og saavist <hi rend="spaced">poetisk</hi>, som det kun er ved en aandelig Selv-Fornægtelse Enkelt-Manden
+<pb facs="1834_14_page0023.png"/>
+<fw type="pageNum">23</fw>
+sammensmelter med sit Folk, og det nærværende Folk med det Forbigangne og Tilkommende. Denne Nationale og patriotiske Følelse, der, i Forbigaaende sagt, netop er <hi rend="spaced">Sjælen i de Homeriske Helte-Digte</hi>, kan nu vistnok være saa verdslig, egennyttig og røveragtig som f. Er. den <hi rend="spaced">Romerske</hi>, og derved tabe næsten hele sit <hi rend="spaced">Poetiske Gehalt</hi>, men vi see dog godt paa Brud-Stykkerne af <hi rend="spaced">Ennius</hi>, at selv den <hi rend="spaced">Romerske Rim-Krønike</hi> (<hi rend="latine">sit. venia verbo</hi>) vilde ved sin Trohjertighed forlystet os, og hvorledes skulde da den Danske Rim-Krønike undgaae at være saare lystelig og i høi Grad poetisk, naar den virkelig udtrykker den Danske National-Følelse, der, ligesom til Trods for alle udvortes Hindringer, har giennem Aar-Tusinder forenet Dannemænd og forenet dem i det fredeligste og uegennyttigste, altsaa i det Hjerteligste og Menneskeligste Øiemed, vi hos noget Folk kan spore! Medens derfor ethvert Folk, som elsker det
+<pb facs="1834_14_page0024.png"/>
+<fw type="pageNum">24</fw>
+gamle Fællesskab og ønsker at fortsætte sit oien.-dommelige Liv, i sin Rim-Krønike har sin ægte „<hi rend="spaced">Fædernelands- Catechismus</hi>," naar de forstaae at benytte den, saaledes har Danmark i sin en Catechismus, der giør Fædrene baade moralsk og poetisk Ære, og er ei blot Forklaringen men al den Kiærlighed værd, vi og vore Børn kan lade os <hi rend="spaced">lokke</hi> til at stiænke den. Det er nemlig ikke blot den rene Danske, livlige og elskelige Tone, som den hos en Enkelt gestalter sig, der udmærker vor Rim-Krønike, men Dens Form som „<hi rend="spaced">Konge-Monologer</hi>" er, uagtet sine mange naturlige Brøst, dog i det Hele saa levende, at den giver Bogen baade i Sprog og Tone en vis <hi rend="spaced">Dansk Almindelighed</hi> (Universalisme), som er mageløs og uskatterlig. Denne Egenskab vil nu vist nok Rim-Krøniken for en stor Deel tabe ved Omarbejdelsen, hvis Monotoni i Grunden vil praktisk bevise min Paastand, at Krøniken oprindelig er et Værk af <hi rend="spaced">mange Penne</hi>; men
+<pb facs="1834_14_page0025.png"/>
+<fw type="pageNum">25</fw>
+derfor skal Omarbejdelsen ogsaa kun betragtes som et „<hi rend="spaced">nødvendigt Onde</hi>," uden hvilket Krøniken ei igien kan blive saa almindelig en „<hi rend="spaced">Læse-Bog</hi>," som den bør være, og det maa ingenlunde forhindre, men skal netop paadrive og lette den levende Benyttelse af <hi rend="spaced">Grund-Skriftet</hi>, som Almuens og hele ungdommens Lærere giennem os skal lære at kiende, elske og i sine bedste Dele levende forplante.</p>
+<p>Det er en Drøm, vil sagtens Mange sige, en Drøm, som hele min Anskuelse af <hi rend="spaced">Folkelig Dannelse</hi> og <hi rend="spaced">Statsmæssig Oplysning</hi>; men naar Man indseer, at i saa Fald er ogsaa <hi rend="spaced">Folke-Livets</hi> Fortsættelse og Statens <hi rend="spaced">aandelige</hi> Varighed kun en Drøm, da vil dog vist alle ægte Danne-Mænd og Danne-Kvinder dele den Følelse hos mig, ar Drømmen er alt for sød og den <hi rend="spaced">modsatte</hi> Virkelighed alt for bitter til at Man godvillig skulde giøre et Bytte, Ordsproget sanddru har stemplet, som gjort paa Bedrag!</p>
+<fw type="graphic"/>
+</div>
+<div>
+<pb facs="1834_14_page0026.png"/>
+<fw type="pageNum">26</fw>
+<head>Rumle.</head>
+<lg>
+<l>Jeg Humle vil ei have forgiæt,</l>
+<l>Vi Danske vi er af <hi rend="spaced">Japhets</hi> Æt,</l>
+<l>Som skjulde sin Fader, da han laae bar,</l>
+<l>Og C ham han holdt ham kun for Nar,</l>
+<l>Derfor han ogsaa velsignet blev,</l>
+<l>Med Sem sin Broder gild og giev,</l>
+<l>Da Noe velsignede hannem med Gud</l>
+<l>Og bod hannem bredes i Verden ud,</l>
+<l>Og C ham hans Broder at være hans Svend,</l>
+<l>Som været han haver og er saa end.</l>
+<l>Velsignelsen hun er alle Mands Tarv,</l>
+<l>Og ganger hos Dannemænd i Arv,</l>
+</lg>
+<pb facs="1834_14_page0027.png"/>
+<fw type="pageNum">27</fw>
+<lg>
+<l>De hende beholde til evig Tid</l>
+<l>Og leve tilsammen foruden Nid!</l>
+<l>Men nu fremdeles, forstaae mig ret,</l>
+<l>Jeg var kun Høvding i <hi rend="spaced">Videslet</hi>,</l>
+<l>Saa kaldtes <hi rend="spaced">Sælland</hi> fra første Færd</l>
+<l>Og Smaaland alle saa noget nær.</l>
+<l>Som groe og grønnes i Øster-Sø'n,</l>
+<l>Med <hi rend="spaced">Falster, Lolland</hi> og høie Mø'n.</l>
+<l>Dengang i Dannemænds Føde-Stavn</l>
+<l>Bar Ingen Krone og Konge-Navn,</l>
+<l>Før <hi rend="spaced">Tydsken</hi> han brød i <hi rend="spaced">Jylland</hi> ind</l>
+<l>Og lagde paa Mord og Mand - Slæt Vinn,</l>
+<l>Han tænkde, derpaa det kiendtes bedst</l>
+<l>Hvem der var til Sønder-Jylland næst.</l>
+<l>Til Lykke god <hi rend="spaced">Jyde</hi> da kom ihu:</l>
+<l>Til Søn jeg havde en Kæmpe dru,</l>
+<l>Thi skikkedes Bud der efter ham,</l>
+<l>Og Tydsken fik baade Last og Skam.</l>
+<l>Det smagde Jyden saa farlig godt,</l>
+<l>Min Søn han keisede til sin Drot,</l>
+</lg>
+<pb facs="1834_14_page0028.png"/>
+<fw type="pageNum">28</fw>
+<lg>
+<l>Og efter ham, for han hedd Dan,</l>
+<l>Sit Kiendings-Navn fik <hi rend="spaced">Danmarks</hi> Land,</l>
+<l>Som bære det skal i allen Stund</l>
+<l>Fra Vester-Havet til Kalmar-Sund,</l>
+<l>Med hele Iylland fra Top tit Taa,</l>
+<l>Fra Skagens-Rif og til Sønder-Aa!</l>
+<l>Det var en Made, jeg gamle Mand</l>
+<l>Som Konge-Fader da fik af Dan,</l>
+<l>For det er Forældres bedste Held,</l>
+<l>Naar Børn de har, som stikker dem vel,</l>
+<l>Og Angul, saa hedd min anden Son,</l>
+<l>Ved Slien han blev en Hertug skiøn,</l>
+<l>Og som jeg siden har hørt og spurgt,</l>
+<l>For Angler det gik som det var smurt,</l>
+<l>De tog et Rige i Vester-Strand</l>
+<l>Og kaldte paa Timen det <hi rend="spaced">Ængeland</hi>,</l>
+<l><hi rend="spaced">Saa Dan og Angul</hi>, de Brødre to,</l>
+<l>Vist aldrig glemmes, det jeg kan troe,</l>
+<l>Og mens de mindes, jeg tænker glad,</l>
+<l>(For Fader og Søn de flges ad)</l>
+</lg>
+<pb facs="1834_14_page0029.png"/>
+<fw type="pageNum">29</fw>
+<lg>
+<l>En lille Fugl synger stille hen</l>
+<l>Ved Humle-Ore for Dannemænd.</l>
+<l>Den Gaard jeg havde mig bygt til Gavn</l>
+<l>Og kaldet den efter mit eget Navn,</l>
+<l>Og der jeg ligger nu efter min Død,</l>
+<l>Hvor jeg havde boet i Lyst og Nod,</l>
+<l>Hvor Sællandsfaren i grønne Vang</l>
+<l>Reed Sommer ad Bye ved Fugle-Sang!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<head>Skjolv.</head>
+<lg>
+<l>Det bor hver Konning at have for Sædd:</l>
+<l>Beskæmne sit Rige og holde Fred,</l>
+<l>Og vide og giøre sin Almue Gavn,</l>
+<l>For hvilken han bær sit Konge-Navn.</l>
+<l>Jeg veed af mig selv kun som en Knos,</l>
+<l>Der var baade fader og moderlos,</l>
+<l>De Danske dog sagde i Lys og Løn,</l>
+<l>Jeg var de forrige Kongers Son,</l>
+<l>Og skulde kun slægte den Bedste paa:</l>
+</lg>
+<pb facs="1834_14_page0030.png"/>
+<fw type="pageNum">30</fw>
+<lg>
+<l>Kong Dan, som blev med Æren graa,</l>
+<l>Og graa er jeg blevet nu som han,</l>
+<l>Og fik min Deel uden Rov og Ran,</l>
+<l>Ja, immer det godt hos mig forslog,</l>
+<l>Hvorvel jeg hellere gav end tog.</l>
+<l>Jeg førde kun Krig for Lande-Fred,</l>
+<l>Den eneste, Folk kan vinde ved.</l>
+<l>Jeg elsked mit Riges gode Mand,</l>
+<l>Og elsket jeg var af dem igien,</l>
+<l>Men Fattig-Folk havde jeg ogsaa kiær</l>
+<l>Og trosted og hjalp dem hver især,</l>
+<l>For af den Rigdom, en Konge har,</l>
+<l>Ei mindst er Mildhed og gode Svar!</l>
+<l>Thi roste mig Bonden bag fin plov,</l>
+<l>For al Upligt kaldte jeg Ulov;</l>
+<l>Mig roste og Kvinden ved sin Teen,</l>
+<l>For jeg var ikke af Stok og Steen;</l>
+<l>Mig roste selv Fangen i Taarnet sad,</l>
+<l>For jeg bar ei til den Usle Had;</l>
+<l>Mig lasted kun Trælle, som jeg gav frie,</l>
+</lg>
+<pb facs="1834_14_page0031.png"/>
+<fw type="pageNum">31</fw>
+<lg>
+<l>Og basted igien for Skielmen!</l>
+<l>Mit Mester-Stykke i Ungdoms-Aar,</l>
+<l>Da Flest kun lyster at bede Raa'r,</l>
+<l>Det var at med Bælte mit jeg bandt</l>
+<l>En Bjørn, som her jeg i Skoven fandt,</l>
+<l>Han var saa glubsk, at det var en Gru,</l>
+<l>Thi rose mig alle Smaavørn endnu!</l>
+</lg>
+<lg>
+<l>Hvad mest mig undred i mange Aar</l>
+<l>Det var en Skjald under hvide Haar,</l>
+<l>Han meget vidste, for vidt hau, foer.</l>
+<l>Var rig paa Alvors og Gammens Ord,</l>
+<l>Og alt hvad han slog eller pegde paa,</l>
+<l>Det var som jeg det for Øine saae.</l>
+<l>Han kvad en Vise blandt anden Leg,</l>
+<l>Som gjorde mig baade rod og bleg,</l>
+<l>Men hued mig dog saa underfuld,</l>
+<l>At gierne jeg veied den op med Guld.</l>
+<l>Han sang om et Land i Nørre-Leed,</l>
+<l>Hvor Kongen var død og Hjertet sveed,</l>
+</lg>
+<pb facs="1834_14_page0032.png"/>
+<fw type="pageNum">32</fw>
+<lg>
+<l>De Gode græd og de Onde loe,</l>
+<l>Hvor Ingen hegner, kun Torne groe'</l>
+<l>Da kom en Snekke for fulde Seil,</l>
+<l>Med Løve-Hoved og Hjerte-Speil,</l>
+<l>Med Guld og Vaaben og Stads om Bord,</l>
+<l>Men ikke en Sjal ved Mast og Ror,</l>
+<l>Dog var der Liv, for en lille Dreng</l>
+<l>Alene laae i den store Seng,</l>
+<l>En Neg var bundet med Ax og Straa,</l>
+<l>Den hviled Drengen sit Hoved paa,</l>
+<l>Og hvor han sov, baade spæd og spag,</l>
+<l>Der vaied over et Konge-Flag!</l>
+<l>Hvor det i Landet blev hørt og spurgt,</l>
+<l>Det tykdes Alle et Jertegn stort,</l>
+<l>De hvisked: Barnet er Odins Søn</l>
+<l>Til Drot os stikket fra ham i Løn!</l>
+<l>De satte Negen da paa sin Nod</l>
+<l>Hvor Danne-Kongen han ellers stod,</l>
+<l>Saa tog de Store den Lille op</l>
+<l>Og kiønt ham satte i Axe-Top!</l>
+</lg>
+<pb facs="1834_14_page0033.png"/>
+<fw type="pageNum">33</fw>
+<lg>
+<l>Da Nyt man spurgte med Vaaben-Gny,</l>
+<l>Og høit det gjalded i vilden Sky:</l>
+<l>Hil dig, vor Konning, bliv rund og bold,</l>
+<l>Saa Skjalde sjunge om <hi rend="spaced">Danmarks Skjold</hi>!</l>
+<l>Jeg veed ei selv, hvorvidt jeg troer,</l>
+<l>At det var meer end Gammens-Ord,</l>
+<l>Men Visen dog mig gik saa nær,</l>
+<l>At først enstund jeg tied kvær,</l>
+<l>Men stod saa op, til Lyd jeg slog</l>
+<l>Og saa i Sal til Orde tog:</l>
+<l>Det høre mine gode Mænd,</l>
+<l>Naar jeg i Fred er sovet hen,</l>
+<l>udføres vil jeg, som han sang,</l>
+<l>Jeg kom herhid til Dane-Vang,</l>
+<l>Og til Man paa det vilde Hav</l>
+<l>Opsporer har min Konge-Grav</l>
+<l>Skal, tænker jeg, i Styris-Havn</l>
+<l>En Skjoldung bære Konge-Navn,</l>
+<l>Som minder, baade rund og bold,</l>
+<l>Hver Fugl i Skov om <hi rend="spaced">Danmarks Skjold</hi>,</l>
+</lg>
+<pb facs="1834_14_page0034.png"/>
+<fw type="pageNum">34</fw>
+<lg>
+<l>Indsinder alud sig paa Ny,</l>
+<l>Og tit som faldet ned fra Sky!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<head>Svipdag.</head>
+<lg>
+<l>Jeg stammed fra <hi rend="spaced">Nor</hi> og den gamle <hi rend="spaced">Snee</hi>,</l>
+<l>Og styred do Nordiske Riger tre,</l>
+<l>Man sagde om det Spir jeg holdt,</l>
+<l>At det var som en Iistap koldt,</l>
+<l>Og af min tykke Pile-Sky</l>
+<l>Der gik som af et Sne-Fog Ny,</l>
+<l>Min Abild-Gaard og har det Lov,</l>
+<l>Den var en rimet Naale-Skov,</l>
+<l>Mit Høisæde var ed nøgent Fjeld,</l>
+<l>Min Tids-Fordriv var Skiæld og Smæld,</l>
+<l>Mit Liv var som en Kane-Fart,</l>
+<l>Der lystig gaaer og endes snart!</l>
+<l>Grønskollingen fra Bøge-Land</l>
+<l>Fløi op og blev min Bane-Mand,</l>
+<l>Og Bølgen sang i Øster-Sø:</l>
+<l>De mødtes mildt som Frost og To!</l>
+</lg>
+<pb facs="1834_14_page0035.png"/>
+<fw type="pageNum">35</fw>
+</div>
+<div>
+<head>Naving.</head>
+<lg>
+<l>Frihed er bedre end Selv og Guld,</l>
+<l>Var hele Verden og deraf fuld,</l>
+<l>Saa tænkde Dannemænd og jeg,</l>
+<l>Derfor jeg fandt til Thronen Vei,</l>
+<l>Fældte min Faders Bane-Mand,</l>
+<l>Frelste derved mit Fædre-Land;</l>
+<l>Men æventyrlig og fuldsær</l>
+<l>Var dog hele min Levnets-Færd,</l>
+<l>Saa, naar jeg seer paa Tidens Strøm,</l>
+<l>Tykkes mit Liv mig selv en Drom.</l>
+<l>Brage hedd Foster-Fader min,</l>
+<l>Han var paa Harpe en Mester fin,</l>
+<l>Forskiel jeg tit ei veed derpaa,</l>
+<l>Hvad jeg hørde og hvad jeg saae,</l>
+<l>As og Jette og Trold og Ælv</l>
+<l>Blander sig med hvad jeg er selv!</l>
+<l>Klarlig mig dog for Øine staaer</l>
+<l>Som det var hændtes mig i Gaar,</l>
+<l>Hvordan engang i Leiervold</l>
+</lg>
+<pb facs="1834_14_page0036.png"/>
+<fw type="pageNum">36</fw>
+<lg>
+<l>Frelste mig sært en Graaskiæg bold,</l>
+<l>Satte mig op paa fin høie Hest,</l>
+<l>Og, hvad mig hued allerbedst,</l>
+<l>Reed som paa Konge-Vei i Trav,</l>
+<l>Sporenstregs over det vilde Hav,</l>
+<l>Spaa'de mig saa, hvad Slik og holdt,</l>
+<l>Baxen og Bugt med en Løve stolt</l>
+<l>Og, naar jeg drak dens Hjerte-Blod,</l>
+<l>Uforligneligt Løve-Mod.</l>
+<l>Derfor nu raader jeg, som en Ven,</l>
+<l>Skjoldung-Drotter og Dannemænd,</l>
+<l><hi rend="spaced">Løver og Hjerter</hi> mangefold</l>
+<l>Føre de skal i deres Skjold,</l>
+<l>Holde i Fare Trop og Fod,</l>
+<l>Vise i Velstand Ædelmod!</l>
+</lg>
+<lg>
+<l>Dog, hvad kun sjelden jeg har fortalt,</l>
+<l>Er hvad jeg glemmer dog sidst af Alt:</l>
+<l>Oppe i Norge en Aften-Stund</l>
+<l>Tog jeg kanskee miq et lille Blund,</l>
+</lg>
+<pb facs="1834_14_page0037.png"/>
+<fw type="pageNum">37</fw>
+<lg>
+<l>Da, efter gammel Skik i Nord,</l>
+<l>Bænket vi sad om Drikke-Bord,</l>
+<l>Lytted til Sagn om Vaaben-Gny,</l>
+<l>Kæmpe-Bærker og Helte-Ry.</l>
+<l>Alle som boe paa det høie Fjeld</l>
+<l>Var det den deiligste Vinter-Kveld,</l>
+<l>Klingrende Frost med Norden-Vind,</l>
+<l>Lyst af det klare Maane-Skin,</l>
+<l>Og under Sagn om Birtings-Bad</l>
+<l>Ulvene tød og kræved Brad,</l>
+<l>Og under Kvad om Valhalds Ild</l>
+<l>Skjold-Nakken blinkede sælsom mild!</l>
+<l>Mig som en Steen dog paa Hjerte laae</l>
+<l>Lysegrøn Bøg og Bølge blaa,</l>
+<l>Klokker i Enge og Guld i Vang,</l>
+<l>Nattergal-Slag og Lærke-Sang!</l>
+<l>Arne-Gruen mit Die faldt paa,</l>
+<l>Luen hun brændte saa sælsom blaa,</l>
+<l>Underlig flagrende hid og did,</l>
+<l>Vilter og væver, dog mild og blid,</l>
+</lg>
+<pb facs="1834_14_page0038.png"/>
+<fw type="pageNum">38</fw>
+<lg>
+<l>Lige ved Gruen nu halvt opsteg</l>
+<l>For mine Øine en Kvinde bleg,</l>
+<l>Gammel af Ansigt, men favr og fin,</l>
+<l>Kun med en Rynke i sit Lin,</l>
+<l>Venlig hun strakde ud sin Arm,</l>
+<l>Smilende pegde hun paa sin Barm,</l>
+<l>Der sad en Urte — Kost fuldstrag,</l>
+<l>Frisk som den bundet var i Dag.</l>
+<l>Kan, tænkde jeg, paa frossen Jord</l>
+<l>Saadanne Blomster vel groe i Nord,</l>
+<l>Ikke er det, om Syn jeg har,</l>
+<l>Vinter-Giække til Sommer-Nar!</l>
+<l>Kvinden hun giætted min Tanke snild,</l>
+<l>Rakde mig Urtekosten mild,</l>
+<l>Snulde derved saa yndefuld,</l>
+<l>Vinkede mig saa moderhuld,</l>
+<l>At paa den Gamle jeg leed fuldtrygt,</l>
+<l>Fulgte og med uden Tvivl og Frygt,</l>
+<l>Sad under Kaaben lyseblaa,</l>
+<l>Alt forn paa Moder-Arm de Smaa,</l>
+</lg>
+<pb facs="1834_14_page0039.png"/>
+<fw type="pageNum">39</fw>
+<lg>
+<l>Sank og, som de, med Moder sod,</l>
+<l>uden et Suk, i Jordens Skiød,</l>
+<l>Slap giennem Mulm og Morke brat</l>
+<l>Did, hvor i stjerneklare Nat</l>
+<l>Svæved, omkring en Sti fuldsmal,</l>
+<l>Konninge-Skygger i Tusind-Tal;</l>
+<l>Stavred saa over fuldstrid en Aa,</l>
+<l>Hvor med de Bølger sorteblaa</l>
+<l>Rullede hen i Flæng og Flok,</l>
+<l>Hjelme og Skjolde og Brynjer Nok,</l>
+<l>Buer og Pile og Spyd og Sværd,</l>
+<l>Alt hvad der hører til Herre-Færd;</l>
+<l>Rakde saa did, hvor ved Lys man saae</l>
+<l>Jorden skjult af Kiærminder blaa,</l>
+<l>Vældige Kiæmper med Vaaben-Gny</l>
+<l>Sloges livagtig som født paa Ny!</l>
+<l>Dertil vi kom da godt og snart,</l>
+<l>Men blev saa standset i vor Fart,</l>
+<l>Mødte en Mur af første Rang,</l>
+<l>Overhaands baade stor og lang;</l>
+</lg>
+<pb facs="1834_14_page0040.png"/>
+<fw type="pageNum">40</fw>
+<lg>
+<l>Kvinden vel gav et dygtigt Hop,</l>
+<l>Kom dog ei nær paa Midten op,</l>
+<l>Lille hun gjorde sig med Konst,</l>
+<l>Ledte om Sprækker dog omsonst,</l>
+<l>Kunde ei flyve foruden Fier,</l>
+<l>Vilde ei Lykken friste meer,</l>
+<l>Gav mig dog ved et uskyldigt Kneb</l>
+<l>Om hvordan hisset der var Begreb:</l>
+<l>Hals paa en Hane om hun vred,</l>
+<l>Hovedet lukt over Muren stred,</l>
+<l>Og, inden Kroppen endnu var sval,</l>
+<l>Rivelig hørde jeg Hane-Gal,</l>
+<l>Syndes det var en afgjort Sag,</l>
+<l>Liv kom i Dødt deromme bag!</l>
+</lg>
+<lg>
+<l>Orlog for Resten var min Dont,</l>
+<l>Ligefra Norge til Hellespont,</l>
+<l>Og, fremfor Alt, jeg sloges tæt</l>
+<l>Mangen god Gang med Svipdags Æt,</l>
+<l>Til vi blev trætte begge To</l>
+</lg>
+<pb facs="1834_14_page0041.png"/>
+<fw type="pageNum">41</fw>
+<lg>
+<l>Og slog os derfor kiønt til Ro.</l>
+<l>Da mellem mig og Upsals Drot</l>
+<l>Fostbroderskabet blev farlig godt,</l>
+<l>Vi, som vi lovede vist og fast,.</l>
+<l>Stod med hinanden Last og Brast,</l>
+<l>Saa, da engang Man løi mig død,</l>
+<l>Drukned han sig i Mjøden sød,</l>
+<l>Som det var spaaet den gode Mand,</l>
+<l>Han skulde drukne paa tørt Land,</l>
+<l>Og da jeg spurgde, det gik ham saa,</l>
+<l>Hængde jeg mig tilsøes i Naa !</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<head>Ole Ingelsen.</head>
+<lg>
+<l>Hver Konning og hver mægtig Mand</l>
+<l>Burde dem at ære som skrive kan,</l>
+<l>Fordi at hvad som mandelig giørs</l>
+<l>I Fremtid det ei længe spørs,</l>
+<l>Men bliver snarlig reent forglemt,</l>
+<l>Uden det vorder i Skriften giemt.</l>
+</lg>
+<pb facs="1834_14_page0042.png"/>
+<fw type="pageNum">42</fw>
+<lg>
+<l>Skiøndt i min Tid jeg Daad bedrer,</l>
+<l>Dog havde jeg Ingen som derom skrev,</l>
+<l>Thi staaer jeg blandt andre Konninger saa</l>
+<l>Som Træet, der ingen Frugt er paa.</l>
+<l>Omsider, da Alderen gik mig paa,</l>
+<l>Mig lysted ei Riget at forestaae,</l>
+<l>Men stifted det mellem mine Sønner to,</l>
+<l>Paa saadan Maade, for Fred og No,</l>
+<l>At mens den Ene var Drot til Lands,</l>
+<l>Den Anden det være skulde til Vands,</l>
+<l>Og skiftes til det hvert Aar især,</l>
+<l>Saa Ingen stedte derved for nær.</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<head>Frode Glesön.</head>
+<lg>
+<l>Jeg raader Alle hver og en,</l>
+<l>Som skal i Leding fare,</l>
+<l>At de tage ei nygifte Mænd</l>
+<l>Med dem i deres Skare,</l>
+<l>De fidde langt heller hos deres Husfru'r,</l>
+</lg>
+<pb facs="1834_14_page0043.png"/>
+<fw type="pageNum">43</fw>
+<lg>
+<l>Og dem baade klappe og kysse,</l>
+<l>End stande paa Marken som en Muur</l>
+<l>For Pile-Skud og Bysse.</l>
+<l>Jeg tog til mig nygifte Mænd,</l>
+<l>At vogte Rigets Strømme,</l>
+<l>Men da jeg saae mig til igien,</l>
+<l>De tænkde kun paa at rømme;</l>
+<l>Derfor fik jeg baade Last og Skam</l>
+<l>Inaar jeg skulde borde</l>
+<l>Med andre Folk som førde Bram</l>
+<l>Jeg dem ei mode turde.</l>
+<l>Min Broder lod jeg slaae ihjel,</l>
+<l>Fordi jeg hannem misyndte,</l>
+<l>At han med sig havde immer Held,</l>
+<l>. Ihvad han saa begyndte.</l>
+<l>Hans Sønner havde jeg og tænkt at slaae,</l>
+<l>At ei de mig skulde giengiælde,</l>
+<l>Men maatte min Agt dog ikke naae,</l>
+<l>De lød udenom min Fælde!</l>
+<l>I Vare tog med Snildhed stor</l>
+</lg>
+<pb facs="1834_14_page0044.png"/>
+<fw type="pageNum">44</fw>
+<lg>
+<l>Dem deres Foster-Fader,</l>
+<l>For trindt dem gjorde han Ulve-Spor</l>
+<l>paa Veie og saa paa Gader,</l>
+<l>Tog saa et Par andre Drenge smaa,</l>
+<l>Og splittede dem tilskamme,</l>
+<l>Saa Andet kunde ei jeg forstaae,</l>
+<l>End det havde været de Samme;</l>
+<l>Men siden da de var voxet op,</l>
+<l>Fuldhedt de mig hiemsøgde,</l>
+<l>Og hevnede Skade paa min Krop,</l>
+<l>Som Ræv de mig udrøgde.</l>
+<l>Det kom med Synd, det gik med Sorg,'</l>
+<l>Det er fuldondt et Bytte,</l>
+<l>Og det slaaer til paa Konge-Borg</l>
+<l>Som i en Stodders Hytte.</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<head>Jomfru Mede.</head>
+<lg>
+<l>Jeg takker de ædle Dannemænd,</l>
+<l>Som satte paa mig en Krone pæn,</l>
+</lg>
+<pb facs="1834_14_page0045.png"/>
+<fw type="pageNum">45</fw>
+<lg>
+<l>Og for det Samme bør alt mit Kiøn</l>
+<l>Vel takke med mig hver Moders Son,</l>
+<l>Fordi den Ære, som mig var gjort,</l>
+<l>Ei mødte dem før, det jeg har spurgt,</l>
+<l>Og lofte sig maa vel Glut paa Taa</l>
+<l>Hvor Krone hun kan til Hue naae.</l>
+<l>Da jeg nu var kommer i Konge-Rad</l>
+<l>Da var jeg modig og hjerteglad,</l>
+<l>Ved Slien der bygde jeg Hedeby,</l>
+<l>Men maatte dertil og siden tye,</l>
+<l>Da <hi rend="spaced">Sællandsfar</hi> gjorde sig til Knud,</l>
+<l>Og sagde: Morlille gaae jert Skud,</l>
+<l>Vi sige det ikke jert Kiøn til Spot,</l>
+<l>For Kronen hun klæder jer farlig godt,</l>
+<l>Men staae for Styret paa Land og Strand,</l>
+<l>Det passer dog bedre for en Mand.</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<head>Christian Ven Forste.</head>
+<lg>
+<l>Jeg var vel kun en Greve-Søn</l>
+<l>Men dog af Konge - Stamme,</l>
+</lg>
+<pb facs="1834_14_page0046.png"/>
+<fw type="pageNum">46</fw>
+<lg>
+<l>Som, høi og lav, blev frisk og grøn,</l>
+<l>Og Resten er det Samme.</l>
+<l>Jeg vidste godt, der skrevet stod,</l>
+<l>Skiøndt ei Latin jeg kunde,</l>
+<l>At uden Drot er mild og god</l>
+<l>Han trives ingenlunde,</l>
+<l>Thi eftertragted jeg den Roes</l>
+<l>Paa Konge-Stol og Stade,</l>
+<l>At ei paa Ære, Liv og Gods</l>
+<l>Jeg vilde Nogen skade,</l>
+<l>Ei agte, om det faldt mig let,</l>
+<l>Til Strænghed Grund at finde,</l>
+<l>Men lade Naade gaae for Ret</l>
+<l>Og Kiærligheden vinde!</l>
+<l>Det samme raader jeg min Æt</l>
+<l>I femten Ledd og flere,</l>
+<l>Da skal som Bøg i Skoven net</l>
+<l>Vort Stamme-Træ florere.</l>
+<l>Der staaer og skrevet, som jeg veed,</l>
+<l>Skiøndt tit forgiæt, desværre,</l>
+</lg>
+<pb facs="1834_14_page0047.png"/>
+<fw type="pageNum">47</fw>
+<lg>
+<l>At ikkun den som stifter Fred</l>
+<l>Er Broder til vor Herre,</l>
+<l>Thi lagde jeg paa Fred og Vinn</l>
+<l>I alle mine Dage,</l>
+<l>Og mens min Æt har samme Sind,</l>
+<l>Den Gud skal velbehage!</l>
+<l>Dog, Man den Fred kun har paa Jord,</l>
+<l>Som Naboer vil unde,</l>
+<l>Saa den for Dannemand i Nord</l>
+<l>Kun bliver nogenlunde,</l>
+<l>Thi Svensken er paa Krig opsat,</l>
+<l>Og snild er han tillige,</l>
+<l>Det fik at mærke jeg fuldbrat,</l>
+<l>Jeg skal ei Andet sige!</l>
+<l>Det gamle Brev fra Kalmar-By</l>
+<l>Ham gjaldt ei for en Hægte,</l>
+<l>Men sine Feide-Breve nye</l>
+<l>Han lærde mig var ægte!</l>
+<l>Kong Erik sad i Visby end,</l>
+<l>Der fik han Svenske Gjæste,</l>
+</lg>
+<pb facs="1834_14_page0048.png"/>
+<fw type="pageNum">48</fw>
+<lg>
+<l>Og skiøndt han ikke var min Ven,</l>
+<l>Var dog min Hjelp den næste.</l>
+<l>Han skrev mig til i al sin Nød,</l>
+<l>Jeg skulde ham undsætte,</l>
+<l>Thi skikked jeg ham Øl og Brød</l>
+<l>Og jævnede den Trætte,</l>
+<l>Jeg lagde til med Orlogs-Mænd,</l>
+<l>Med Bøsse og med Bue,</l>
+<l>Og <hi rend="spaced">Gulland</hi> tog jeg smukt igjen,</l>
+<l>Mens <hi rend="spaced">Visby</hi> stod i Lue!</l>
+<l>Saa ægted jeg i Kiøbenhavn</l>
+<l>En faur og fiin Fyrstinde,</l>
+<l>Hun Dronning blev til Danmarks Gavn</l>
+<l>Som hun var før herinde.</l>
+<l><hi rend="spaced">Dorthea</hi> hedd den Konge-Brud,</l>
+<l>For vore ældste Sønner</l>
+<l>Jeg meen, Sanet Olav og Sanct Knud</l>
+<l>Vor Afkom vist belønner:</l>
+<l>Vi kaldte op det Helgen-Par,</l>
+<l>Som vogter Nørre-Leden,</l>
+</lg>
+<pb facs="1834_14_page0049.png"/>
+<fw type="pageNum">49</fw>
+<lg>
+<l>Og Første - Grøden offret har</l>
+<l>Vi saa til Evigheden,</l>
+<l>Thi Knud og Olav heden gik</l>
+<l>Med deres Helgen-Navne,</l>
+<l>Gud lade <hi rend="spaced">Hans</hi> og <hi rend="spaced">Frederik</hi></l>
+<l>Med deres Æt det gavne!</l>
+<l>Vor Daatter gav vi Navn fuldgod!,</l>
+<l>For hun blev kaldt <hi rend="spaced">Margrethe</hi>,</l>
+<l>Og hende fik den Skotske Drot,</l>
+<l>Skiøn Medgift vi udredte,</l>
+<l>Saa Skotten derved Silke spandt,</l>
+<l>Vi var ei pengestærke,</l>
+<l>Nen satte <hi rend="spaced">Ørkenøer</hi> i Pant</l>
+<l><hi rend="spaced">Og Hetland</hi>, vel at mærke.</l>
+<l>Med Svensken kom jeg i Labeet,</l>
+<l>Det skulde jeg ladt være,</l>
+<l>Den Iis er falsk, som Man har seet</l>
+<l>Ei briste kan, ei bære!</l>
+<l>Jeg hyldet blev paa <hi rend="spaced">Møra-Steen</hi>,</l>
+<l>Og kront i Upsals-Choret,</l>
+</lg>
+<pb facs="1834_14_page0050.png"/>
+<fw type="pageNum">50</fw>
+<lg>
+<l>Men Eed, som vorder kun til Meen,</l>
+<l>Fuldbedre var usvoret!</l>
+<l>Engang det kom saa vel i Lag,</l>
+<l>Da vi paa Herlyng sundes,</l>
+<l>At det blev til et Hoved-Slag,</l>
+<l>De deilig overvundes,</l>
+<l>Men da jeg foer afsted, paa Ny</l>
+<l>At tage dem til Naade,</l>
+<l>Paa <hi rend="spaced">Brunkebjerg</hi> ved Stokholms By</l>
+<l>De mødte paa en Maade,</l>
+<l>Med Snak de holdt mig op en Stund</l>
+<l>Og sanked Folk saalænge,</l>
+<l>Men slog saa til af Hjertens Grund,</l>
+<l>For Retten Sværd fik Giænge.</l>
+<l>De tog mig paa det ømme Sted,</l>
+<l>Der styrted mange Døde</l>
+<l>As mine Folk og Deres med,</l>
+<l>Saa Hjerter maatte bløde,</l>
+<l>De skiød mig selv forudens Fals</l>
+<l>To Tænder ind i Munden,</l>
+</lg>
+<pb facs="1834_14_page0051.png"/>
+<fw type="pageNum">51</fw>
+<lg>
+<l><hi rend="spaced">Steen Sture</hi> var fuldhaard en Hals,</l>
+<l>Og jeg var blod i Grunden!</l>
+<l>Da de nu gik saa avet om,</l>
+<l>Og glemde Dyd og Ære,</l>
+<l>Jeg hjemme blev og did ei kom,</l>
+<l>Lod hvad de var dem være!</l>
+<l>En Valfart gjorde jeg til Rom,</l>
+<l>Til Bod for Svenske Reiser,</l>
+<l>Og Stads de gjorde, hvor jeg kom,</l>
+<l>Ad mig som ad en Keiser,</l>
+<l>Og da jeg kom til pavens Gaard,</l>
+<l>Med Gaver som var gilde,</l>
+<l>Med Sild og Bergefisk og Maar,</l>
+<l>Jeg saae Ansigter milde.</l>
+<l>Jeg Herberg fik i pavens Slot,</l>
+<l>Mig roste alle Munde,</l>
+<l>Og lærde Mænd beklaged blot</l>
+<l><hi rend="spaced">At ei Latin</hi> jeg kunde;</l>
+<l>Men Mester Henrik var min Tolk,</l>
+<l>Beskeed gav han med Ære,</l>
+</lg>
+<pb facs="1834_14_page0052.png"/>
+<fw type="pageNum">52</fw>
+<lg>
+<l>Og hvortil har Man lærde Folk,</l>
+<l>Naar Man det selv skal være!</l>
+<l>Dog lære kan nu og min Søn,</l>
+<l>Om han har Lyst, hver Glose,</l>
+<l>For paven mig, med Aflad stiøn.</l>
+<l>Og med den gyldne Rose,</l>
+<l>Gav Lov, i Sancte Peders Navn,</l>
+<l>At grunde flux herhjemme</l>
+<l>En <hi rend="spaced">Studigaardi Kiøbenhavn</hi>,</l>
+<l>Til Boglig Konst at fremme;</l>
+<l>Det er nu skeet til Danmarks Priis,</l>
+<l>Og jeg tør nok formode,</l>
+<l>At Dannemand skal vorde viis</l>
+<l>Med Tiden til det Gode!</l>
+<l>For Resten saae Man alt i Fjor</l>
+<l>paa Dansk et Mester-Stykke</l>
+<l>I Krøniken, som <hi rend="spaced">Niels</hi> fra Soer</l>
+<l>Med Vers til mig lod trykke:</l>
+<l>Der rimes net om hver en Drot,</l>
+<l>Fra Dan til mig og <hi rend="spaced">Dorthe</hi>,</l>
+</lg>
+<pb facs="1834_14_page0053.png"/>
+<fw type="pageNum">53</fw>
+<lg>
+<l>Min Studigaard det klæ'er ei godt,</l>
+<l>Om Resten bliver borte!</l>
+</lg>
+<lg>
+<l>At halv tilkiøbs og halv til Arv</l>
+<l>Jeg <hi rend="spaced">Holsten</hi> fik alene,</l>
+<l>Det blive skal til Danmarks Tarv</l>
+<l>Jeg meen, i Tider sene,</l>
+<l>Det, som jeg bad ham, Keiseren</l>
+<l>Til Hertugdom ophøied,</l>
+<l>Og, for han var min gode Ven,</l>
+<l>Han Ditmarsken tilføied,</l>
+<l>Det Sidste er vel ei saa redt,</l>
+<l>Fuldkrye er Marskens Burer,</l>
+<l>Saameget Man dog for har seet,</l>
+<l>paa Leilighed Man lurer,</l>
+<l>Det giør vel Hans og <hi rend="spaced">Frederik</hi>,</l>
+<l>For, efter Keiser-Retten,</l>
+<l>Jeg skifted blandt dem ljvad jeg fik,</l>
+<l>Med Brevet følger Trætten!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<pb facs="1834_14_page0054.png"/>
+<fw type="pageNum">54</fw>
+<head>Frederik ven Tredie.</head>
+<lg>
+<l>Død var Helten, brudt var Freden,</l>
+<l>Tabt var Alt, paa Staden nær,</l>
+<l>Hvor, som Konge-Fugl i Neden,</l>
+<l>End jeg trodsed, ærekiær,</l>
+<l>Jetten fra de golde Bjerge,</l>
+<l>Vilde mod ham Staden værge,</l>
+<l>Eller jordes i dens Grus!</l>
+</lg>
+<lg>
+<l>Stolt var Jetten og vredladen,</l>
+<l>Trodsed paa sin Over-Magt,</l>
+<l>Sagde høit om Konge-Staden:</l>
+<l>Var med Himlen hon i Pagt,</l>
+<l>Hængde halvveis alt deroppe,</l>
+<l>„Tusand Tyltar" om mig hoppe,</l>
+<l>Jak tok henna likefullt!</l>
+</lg>
+<lg>
+<l>Karl Gustav hedd den Jette,</l>
+<l>Vidtberømt af Birtings-Bad,</l>
+<l>Blæste paa den Danske Slette</l>
+</lg>
+<pb facs="1834_14_page0055.png"/>
+<fw type="pageNum">55</fw>
+<lg>
+<l>Derfor ad min Hoved-Stad,</l>
+<l>Ei for Blæst og ei for Blide,</l>
+<l>Ei for Storm om Vinter -Tide</l>
+<l>Faldt omkuld dog Axel-Huus!</l>
+</lg>
+<lg>
+<l>Borger-Mand fik Mod i Bringe,</l>
+<l>Slog til Ridder sig fuldbrat,</l>
+<l>Morgen-Stjerne gik for Klinge,</l>
+<l>Hue-Dusk for Fier i Hat,</l>
+<l>Glose-Folk fik Sværd ved Lænder</l>
+<l>Og Grøn-Skolling Haar paa Tænder,</l>
+<l>Jetten fik da Last og Skam.</l>
+</lg>
+<lg>
+<l>under <hi rend="spaced">Skak</hi> og <hi rend="spaced">Gyldenløve</hi></l>
+<l>Kæmped alle Mand som Een,</l>
+<l>Og, naar Sværdene blev sløve,</l>
+<l>Var mit Ord en Hvæsse: Steen,</l>
+<l>Hvor jeg kom, der saae jeg Helte,</l>
+<l>Og jeg kom, hvor Kugler meldte</l>
+<l>Der var hedt, hvor de kom fra!</l>
+</lg>
+<pb facs="1834_14_page0056.png"/>
+<fw type="pageNum">56</fw>
+<lg>
+<l>Kun mod Stud vi talte Timer</l>
+<l>Giennem Dimmel-Uger ti,</l>
+<l>Naar det ringer, naar det kimer,</l>
+<l>Gienlyd høre man deri</l>
+<l>Af den Klokke-Klang som meldte:</l>
+<l>Hungre stat ei Danske Helte,</l>
+<l>Fugle kom med Foden brat!</l>
+</lg>
+<lg>
+<l>Det var <hi rend="spaced">Opdams Orlogs-Snekker</hi>,</l>
+<l>Hid de fløi med Seiers-Sang,</l>
+<l>Skiøndt fuldmangen Svensk Tre-Dækker</l>
+<l>Studs dem gjorde Veien trang,</l>
+<l>Saa i Sund, naar Gud befaler,</l>
+<l><hi rend="spaced">Holland</hi> selv to Admiraler</l>
+<l>Sætter til for Kiøbenhavn!</l>
+</lg>
+<lg>
+<l>Vel det Brede var tilbage,</l>
+<l>Men det Knappe var forbi,</l>
+<l>Talte var de tunge Dage,</l>
+<l>Natten bar kun Spøgeri,</l>
+</lg>
+<pb facs="1834_14_page0057.png"/>
+<fw type="pageNum">57</fw>
+<lg>
+<l>Gienfærd, manet op af Trolden,</l>
+<l>Stormed i Lig-Skjorter Volden,</l>
+<l>Sank i Grav ved Hane-Gal!</l>
+</lg>
+<lg>
+<l>Dog mod slige Natte-Ravne</l>
+<l>Roes det er at holde Stand,</l>
+<l>Og den Roes skal aldrig savne,</l>
+<l>Kiøbenhavn! din Borger-Mand,</l>
+<l>Selv fra Kveld til Morgen-Gryet</l>
+<l>I hans Daad jeg saae fornyet</l>
+<l>Kæmpernes fra Heden-Old!</l>
+</lg>
+<lg>
+<l>Snart det spurgdes over Beltet,</l>
+<l>Jettens Hær fra Brunke-Bjerg</l>
+<l>Til en <hi rend="spaced">Steen-Buk</hi> var indsmeltet,</l>
+<l>Kæmpen sunket til en Dværg;</l>
+<l>Snart det spurgdes over Sundet,</l>
+<l>Jetten var med Eet forsvundet,</l>
+<l>Orme aflede hans Skind!</l>
+</lg>
+<pb facs="1834_14_page0058.png"/>
+<fw type="pageNum">58</fw>
+<lg>
+<l>Nu, da Natten hun rar omme,</l>
+<l>Holdt igien vi „Herre-Dag,"</l>
+<l>Det skal Danske ihukomme,</l>
+<l>Mens der vaier Konge-Flag;</l>
+<l>Der skal Konger kiærlig mindes,</l>
+<l>Mens i dem en Draabe findes</l>
+<l>Af mit Kongelige Blod!</l>
+</lg>
+<lg>
+<l>Adels-Mand og Præst og Borger</l>
+<l>Mødtes brat i Axel-Stad,</l>
+<l>Bonden tav med fine Sorger,</l>
+<l>Han ei meer paa Thinge sad,</l>
+<l>Adlen tænkde paa sit Eget,</l>
+<l>Regned dertil alt for meget:</l>
+<l>Bondens Sveed og Landets Marv!</l>
+</lg>
+<lg>
+<l>Det saae Borgeren og Præsten,</l>
+<l>Tænkde paa det Heles Tarv,</l>
+<l>Saae i hver en Landsmand Næsten,</l>
+<l>Rakde Kronen mig til Arv,</l>
+</lg>
+<pb facs="1834_14_page0059.png"/>
+<fw type="pageNum">59</fw>
+<lg>
+<l>Bød for Alt mig Ene raade,</l>
+<l>Skifte Net og skiænke Naade,</l>
+<l>Som en <hi rend="spaced">Fader</hi> for mit Folk!</l>
+</lg>
+<lg>
+<l>Saa paa Fædre-Landets Alter</l>
+<l>Blev den Danske Krone lagt,</l>
+<l>Hver, som efter mig forvalter</l>
+<l>Med den uindskrænket Magt,</l>
+<l>Mindes vel, at den blev givet</l>
+<l>Ei til Døden men til Livet,</l>
+<l>Ei til Eens men Alles Gavn!</l>
+</lg>
+<lg>
+<l>Til min hele Æt det voved</l>
+<l>Dannemænd at fæste Tro,</l>
+<l>For min hele Æt jeg loved</l>
+<l>Hver at nyde Sit i Ro,</l>
+<l>Loved Dannemænd at finde</l>
+<l>Christendom og Mildhed inde,</l>
+<l>Hvor de Spiret saae udstrakt!</l>
+</lg>
+<pb facs="1834_14_page0060.png"/>
+<fw type="pageNum">60</fw>
+<lg>
+<l>Retten have maa sin Giænge,</l>
+<l>Som for Store, saa for Smaa,</l>
+<l>Konge-Magt, saalidt som Penge,</l>
+<l>Den i Danmark bøie maa;</l>
+<l>Til, paa Majestætens Vegne,</l>
+<l>Uden Sky derom at hegne,</l>
+<l>Satte jeg en <hi rend="spaced">Konge-Ret</hi>!</l>
+</lg>
+<lg>
+<l>Den skal staae til Verdens Ende,</l>
+<l>Vidne høit fra Slægt til Slægt,</l>
+<l>At vor Magt vi fik i Hænde</l>
+<l>Kun til Rettens Vare -Tægt,</l>
+<l>Vidne med den store Gave:</l>
+<l>Dannemand er ingen Slave</l>
+<l>Og Lands-Fader ei Despot!</l>
+</lg>
+<lg>
+<l><hi rend="spaced">Borger</hi> skal med Adel stemme</l>
+<l>I mit Raad til Landets Tarv,</l>
+<l><hi rend="spaced">Bondens</hi> Frelse ei at glemme,</l>
+<l>I ham stikker Folkets Marv,</l>
+</lg>
+<pb facs="1834_14_page0061.png"/>
+<fw type="pageNum">61</fw>
+<lg>
+<l>Men paa een Dag Stort ei bygges,</l>
+<l>Kun med Læmpe kan det lykkes</l>
+<l>Ret at ramme Alles Tarv!</l>
+</lg>
+<lg>
+<l>Dertil ogsaa maa Man have Lærde Mænd og Boglig Konst,</l>
+<l>Jeg med Bøger mange Skabe</l>
+<l>Fyldte derfor ei omsonst;</l>
+<l>Bøgerne i Konge-Sale</l>
+<l>Godt engang sig skal betale,</l>
+<l>Viisdom giør det bedste Guld!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<head>Christian Ven Spvende.</head>
+<lg>
+<l>Jeg bekiende maa, desværre,</l>
+<l>I hvor høit jeg sad paa Straa,</l>
+<l>Sygdom er dog hver Mands Herre,</l>
+<l>Kryber af men flyver paa,</l>
+<l>Bleger Haarene med Sorgen,</l>
+<l>Som i Hytten, saa paa Borgen!</l>
+</lg>
+<pb facs="1834_14_page0062.png"/>
+<fw type="pageNum">62</fw>
+<lg>
+<l><hi rend="spaced">Lægen</hi>, som var flux tilrede,</l>
+<l>Loved vel, med store Ord,</l>
+<l>Mig og Riget at helbrede,</l>
+<l>Og sin Doctor let man troer,</l>
+<l>Værre, fandt dog Patrioten,</l>
+<l>Lægedommen var end Soten!</l>
+</lg>
+<lg>
+<l>Jeg og Riget kom paa Randen</l>
+<l>Af den rene Undergang,</l>
+<l>Lykken bedre end Forstanden</l>
+<l>Over Svælg dog lagde Spang,</l>
+<l>Ia, til Lykke, selv trods Kuren,</l>
+<l>Sig hos Begge hjalp Naturen!</l>
+</lg>
+<lg>
+<l>Med sit Hoved sat paa Stage,</l>
+<l>Stats-Kvaksalvere til Skræk,</l>
+<l>Og for alle Drotter svage</l>
+<l>Til et stort Advarsels-Trak,</l>
+<l><hi rend="spaced">skruense</hi>, som han var pælet,</l>
+<l>Staaer i Folke - Eftermælet!</l>
+</lg>
+<pb facs="1834_14_page0063.png"/>
+<fw type="pageNum">63</fw>
+<lg>
+<l>Tidlig traadte jeg tilbage</l>
+<l>Fra den store Skue-Plads,</l>
+<l>Dermed dog udrandt ei fage</l>
+<l>Sandel i mit Time-Glas,</l>
+<l>Og det Navn har ingen Fare,</l>
+<l>Som paa Jord kan mit udvare!</l>
+</lg>
+<lg>
+<l>Var de sunde, var de stærke,</l>
+<l>Kongerne i Syd og Nord,</l>
+<l>Faa dog vandt et Mindes-Mærke,</l>
+<l>Hvoraf bedre der gik Ord,</l>
+<l>End af Mit der gaaer i Vangen,</l>
+<l>Lukt i Sky med Folke-Sangen!</l>
+</lg>
+<lg>
+<l>For sin Fader aldrig satte</l>
+<l>Son en bedre Minde-Steen,</l>
+<l>Hvortil Bønder kan forfatte</l>
+<l>Indskrift god med Tale reen:</l>
+<l>Hun skal hedde „Friheds-Støtte"</l>
+<l>Skam saae de, som hende flytte!</l>
+</lg>
+<pb facs="1834_14_page0064.png"/>
+<fw type="pageNum">64</fw>
+<lg>
+<l>Derfor jeg, som <hi rend="spaced">Fredriks</hi> Fader,</l>
+<l>Siger med den gamle Skjald:</l>
+<l>Vel den Mand, sig efterlader</l>
+<l>Slig en Søn i Konge-Hald,</l>
+<l>Broder fiin til Norges Balder:</l>
+<l>Adelsteen i Ungdoms Alder!</l>
+</lg>
+<lg>
+<l>Ja, den Prindse-Tid skal mindes</l>
+<l>Efter mangen kronet Dag,</l>
+<l>Med Dens Trøst og kan forvindes</l>
+<l>Mangt et Tab og Torden-Slag;</l>
+<l>Folk og Konger deraf lære,</l>
+<l>Fælles Magt kan meget bære!</l>
+</lg>
+<lg>
+<l>Fra min Borg jeg maatte stytte,</l>
+<l>Da den rode Hane goel,</l>
+<l>Lige fast i hver en Hytte</l>
+<l>Jeg dog sad paa Konge-Stol,</l>
+<l>Mens Kong Ludvig maatte <hi rend="spaced">bløde</hi>,</l>
+<l>Og hans Slot stod tomt og ode!</l>
+</lg>
+<pb facs="1834_14_page0065.png"/>
+<fw type="pageNum">65</fw>
+<lg>
+<l>Næste Aar gik op i Luer</l>
+<l>Snart min halve Hoved-Stad,</l>
+<l>Og for mine Konge-Stuer</l>
+<l>Sælsomt da sig vendte Blad,</l>
+<l>Brandlidt selv jeg hused Mange,</l>
+<l>Hytte-Børn fik Bue-Gange!</l>
+</lg>
+<lg>
+<l>Det var som i <hi rend="spaced">Frankerige</hi>:</l>
+<l>Kongen ud og Folket ind,</l>
+<l>Hvilken Forskjel dog tillige,</l>
+<l>Som paa Maade saa paa Sind!</l>
+<l>Her det saaes ved Ildebranden:</l>
+<l>Huus vi laande godt hinanden!</l>
+</lg>
+<lg>
+<l>Høit det lod i Slottets Porte:</l>
+<l>Adel ned og Borger op,</l>
+<l>Mellem Hvide, mellem Sorte,</l>
+<l>Intet Kjøb paa Sjæl og Krop,</l>
+<l>Som i Syden, saa i Norden,</l>
+<l>Frihed over hele Jorden!</l>
+</lg>
+<pb facs="1834_14_page0066.png"/>
+<fw type="pageNum">66</fw>
+<lg>
+<l>Dog som Chor om Konge-Mordet</l>
+<l>Sligt ei lød i Vaaben - Gny:</l>
+<l>Med det lød fra Drikke-Bordet:</l>
+<l>„Kongens Skaal i høien Sky,</l>
+<l>„Fyrsteparret længe leve,</l>
+<l>Som til Lov giør <hi rend="spaced">Friheds-Breve</hi>!"</l>
+</lg>
+<lg>
+<l>Rundt det løb om Øster-Søen,</l>
+<l>Spurgt det blev til „Chinas Kyst,"</l>
+<l>At i Nord paa Bøge-Ven</l>
+<l>Kongens Liv var Folkets Lyst,</l>
+<l>Nyt og Godt hvert Aar i Giære,</l>
+<l><hi rend="spaced">Folkelighed</hi> Kongens Ære!</l>
+</lg>
+<lg>
+<l>Der, saa lød det trindt om Lande,</l>
+<l>Er hver Havn en Maste-Skov,</l>
+<l>Der paa Ager, som i Strande,</l>
+<l>Godt i Fred gaaer Alles Plov,</l>
+<l>Som for Gud, for Retten lige</l>
+<l>Der er Fattige og Rige!</l>
+</lg>
+<pb facs="1834_14_page0067.png"/>
+<fw type="pageNum">67</fw>
+<lg>
+<l>Listig der er Aften-Stunden,</l>
+<l>Efter Travlhed fri og stor,</l>
+<l>Hvor med Fuglene i Lunden</l>
+<l>Kappes Skjaldene i Chor;</l>
+<l>Digt, som i den gyldne Alder,</l>
+<l>Der med Daaden sammenfalder!</l>
+</lg>
+<lg>
+<l>Saa det lød, til Vaaben-Braget</l>
+<l>Skrækked op af Fredens Skiød,</l>
+<l>Da kun om Skiærthorsdags-Slaget</l>
+<l>Sangen vildt i Skyen lød,</l>
+<l>Stort var Tabet, Seiren liden,</l>
+<l>Troen tabt paa Gylden-Tiden!</l>
+</lg>
+<lg>
+<l>Fra den Stund kun lidt jeg sandjed</l>
+<l>Hvad om mig der foregik,</l>
+<l>Smilende ei meer omdandsed</l>
+<l>Folket Thronen for mit Blik,</l>
+<l>Lade-Fristen til Man skyder</l>
+<l>Savner alle Fredens Dyder.</l>
+</lg>
+<pb facs="1834_14_page0068.png"/>
+<fw type="pageNum">68</fw>
+<lg>
+<l>Jeg kun vaagnede i Smerte</l>
+<l>Ved det høie Vaaben-Gny,</l>
+<l>Sønderknust mit Konge-Hjerte</l>
+<l>Blev af Graadens Røst i Sky:</l>
+<l>Byen brændt og Flaaden taget,</l>
+<l>Sundet lukt for Konge-Flaget!</l>
+</lg>
+<lg>
+<l>Kraver saa, <hi rend="spaced">Mathildes</hi> Broder!</l>
+<l>Hendes Medgift du igjen?</l>
+<l>Hun var jo dog <hi rend="spaced">Fredriks</hi> Moder!</l>
+<l>Gaae til Kaps nu Orlogs-Mænd!</l>
+<l>Kald det Bytte, kald det Aager,</l>
+<l>Lige galt dog af vor Svoger!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

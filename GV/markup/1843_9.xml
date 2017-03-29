@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Sang ved Ds. H. Kongens</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-24"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="009"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1843">1843</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1843_9_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Sang<lb/>ved<lb/>Ds. H. Kongens</titlePart>
+	<titlePart type="sub">Nærværelse<lb/>i<lb/>Dronningens Asyl</titlePart>
+</docTitle>
+				<docImprint>
+<docDate>4de Mai 1843.</docDate>.
+				<fw type="graphic"/>
+Trykt hos J. D. Qvist.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<pb facs="1843_9_page0002.png"/>
+<fw type="pageNum"></fw>
+<head>Mel. Danevang med grønne Bred.</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">D</hi>eilig springer Skoven ud,</l>
+<l>Alle Fugle sjunge,</l>
+<l>Fryde sig og prise Gud,</l>
+<l>Som gav Liv og Tunge;</l>
+<l><hi rend="bold">Konge</hi> over Danevang!</l>
+<l><hi rend="bold">Dronning</hi> ved Hans Side!</l>
+<l>Under Fryd og Fuglesang</l>
+<l>Eders Sommer stride!</l>
+</lg>
+<lg>
+<l>Mens i Chor paa Sorgenfri</l>
+<l>Alle Fugle sjunge,</l>
+<l>Glæde ogsaa kviddre vi,</l>
+<l>Med vor spæde Tunge;</l>
+<l>Thi den lange Sommerdag</l>
+<l>Vi har Skjul og Skygge,</l>
+<l>Under Dannerkongens Tag</l>
+<l>Vi som <hi rend="bold">Svaler</hi> bygge!</l>
+</lg> 
+<pb facs="1843_9_page0003.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Kongen høre vil derpaa,</l>
+<l>Giør os Smaa den Ære,</l>
+<l>Fattig Fugl bekiende maa,</l>
+<l>Her er godt at være;</l>
+<l>Gid det melde Fuglesang,</l>
+<l>Hvorhen Svalen kommer,</l>
+<l>Frem for Alle Danevang</l>
+<l>Fik den bedste Sommer!</l>
+</lg>
+<lg>
+<l>Gud velsigne Kongens Gaard!</l>
+<l>Alle Kongens Dage!</l>
+<l>Som Hans Dronning, saa Hans Kaar</l>
+<l>Være uden Mage!</l>
+<l>Som et <hi rend="bold">Gladhjem</hi> for de Smaa</l>
+<l><hi rend="bold">Danmark</hi> kom for Or'e,</l>
+<l>Gid Det findes ligesaa</l>
+<l>Altid for de Store!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

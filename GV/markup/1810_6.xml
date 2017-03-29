@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Et Par Ord angaaende Revselsen i Politivennen</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-19"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="006"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1810">1810</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1810_6_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Et Par Ord angaaende Revselsen i Politivennen</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<docImprint>
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<head>Er Par Ord angaaende Nevselsen i Politivennen No. 620.</head>
+<p><hi rend="initial">D</hi>aaen og Politivennen ere to løierlige Karle, og udmærke sig iblandt Andet ved, daglig at kagpidske Sproget og dog fortælle Folk, det er deres Kæle-dægge. Deres fælles Hr. Fader har jeg længe skyldt en Erklæring, og ved denne Leilighed skal han faae den. Hans Ros og Tak frabeder jeg mig herved eengang for alle; har han derimod stun-dom nogle gamle ukvemsord tilovers, eller nogle ny, som han ønsker at se paa Prent, maa han gerne bruge dem til mig, men jeg siger ham for-ud, at de ere spildte.</p>
+<p>Hvad nu hin Revselse angaaer, da seer Man let, at Uartigheden der er Hovedsagen, men dog vil jeg om de to Stavefejl kundgøre, at jeg i dem har saare liden Del. Jeg har intet Opsyn havt med Indgravningen, at Thostrups Navn skulde staa paa Stenen, vidste jeg ei engang da jeg forfattede Indskriften, og jeg skrev Dalierup, fordi jeg ei veed rettere end at Navnet stavedes saa i Collegial-Tidenden. At det ene Navn har faaet det Bogstav det andet mangler, kan jeg ei gøre ved.</p>
+<p><hi rend="align(right)"><hi rend="spaced">Grundtvig</hi>.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

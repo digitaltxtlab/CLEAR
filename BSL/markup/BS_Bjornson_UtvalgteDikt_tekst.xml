@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://www.nslnorge.no/tekster/NSL_texts.xsl"?>
+<!DOCTYPE TEI PUBLIC "-// NSL Norge //EN" "http://www.nslnorge.no/tekster/NSL_tei_xinclude.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="BS_Bjornson_UtvalgteDikt">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>bokselskap.no
+<lb/>Bj&#x00F8;rnstjerne Bj&#x00F8;rnson: <hi rend="italic">Utvalgte dikt</hi></title>
+</titleStmt>
+<publicationStmt><p>Publiseres som digital tekst av bokselskap.no.</p></publicationStmt>
+<sourceDesc>
+<p>Tekstene er hentet fra Universitetet i Oslo/dokpro.uio.no. Dokpros tekst er basert p&#x00E5; <hi rend="italic">Samlede Digter-Verker</hi>, standardutg. i 9 bind, Kristiania, Gyldendal, 1919-20.</p>
+</sourceDesc>
+</fileDesc>
+<revisionDesc>
+<change xml:id="ENW" who="ENW" when="2011-05-10">Kodet tekstene i xml. Kodekontroll.</change>
+</revisionDesc>
+</teiHeader>
+<text xml:id="BS_Bjornson_UtvalgteDikt_tekst" type="collection">
+<front>
+<titlePage type="main">
+<byline><docAuthor>Bj&#x00F8;rnstjerne Bj&#x00F8;rnson</docAuthor></byline>
+<docTitle>
+<titlePart type="main">Utvalgte dikt</titlePart>
+</docTitle>
+<docDate>1859&#x2013;69<note type="footnote">Tekstene er hentet fra Universitetet i Oslo/dokpro.uio.no. Dokpros tekst er basert p&#x00E5; <hi rend="italic">Samlede Digter-Verker</hi>, standardutg. i 9 bind, Kristiania, Gyldendal, 1919-20.</note></docDate>
+</titlePage>
+<div type="chapter" subtype="illustration">
+<figure><graphic url="Bjornson_ung.jpg"/></figure>
+</div>
+<div xml:id="contents">
+<list type="contents_main">
+<item><ref target="chapter_1" xml:id="contents_1">Ingerid Sletten</ref></item>
+<item><ref target="chapter_2" xml:id="contents_2">Over de h&#x00F8;je fjelde</ref></item>
+<item><ref target="chapter_3" xml:id="contents_3">Tonen</ref></item>
+<item><ref target="chapter_4" xml:id="contents_4">Der ligger et land</ref></item>
+<item><ref target="chapter_5" xml:id="contents_5">Ja, vi elsker dette landet</ref></item>
+<item><ref target="chapter_6" xml:id="contents_6">Lokkeleg</ref></item>
+<item><ref target="chapter_7" xml:id="contents_7">L&#x00F8;ft dit hoved</ref></item>
+<item><ref target="chapter_8" xml:id="contents_8">Holder du af mig</ref></item>
+<item><ref target="chapter_9" xml:id="contents_9">Norsk sj&#x00F8;mands-sang</ref></item>
+<item><ref target="chapter_10" xml:id="contents_10">Mit f&#x00F8;lge</ref></item>
+</list>
+</div>
+</front>
+<body>
+<div type="chapter" subtype="poem" n="1">
+<head><ref type="contents" target="contents_1" xml:id="chapter_1">INGERID SLETTEN</ref></head>
+<note type="commentary">Diktet er fra romanen <hi rend="italic">Arne</hi> (1859). Her gjengitt etter <hi rend="italic">Samlede Digter-Verker</hi>, standardutg. i 9 bind, Kristiania, Gyldendal, 1919-20.</note>
+<lg>
+<l>Ingerid Sletten af Sillegjord</l>
+<l>havde hverken s&#x00F8;lv eller guld;</l>
+<l>men en liden hue af farvet uld,</l>
+<l>som hun havde f&#x00E5;t udaf mor.</l>
+</lg>
+<lg>
+<l>En liden hue af farvet uld,</l>
+<l>havde hverken stas eller fo&#x0027;r;</l>
+<l>men fattigt minne om far og mor,</l>
+<l>der skinned langt mer&#x0027; end guld.</l>
+</lg>
+<lg>
+<l>Hun gemte huen i tyve &#x00E5;r,</l>
+<l>m&#x00E5;tte ikke slide den ud!</l>
+<l>S&#x00E5; b&#x00E6;rer jeg den s&#x00E5; glad som brud,</l>
+<l>n&#x00E5;r jeg for alteret g&#x00E5;r.</l>
+</lg>
+<lg>
+<l>Hun gemte huen i tredive &#x00E5;r,</l>
+<l>m&#x00E5;tte ikke sk&#x00E6;mme den ud!</l>
+<l>S&#x00E5; b&#x00E6;rer jeg den s&#x00E5; glad som brud,</l>
+<l>n&#x00E5;r jeg for vor Herre st&#x00E5;r.</l>
+</lg>
+<lg>
+<l>Hun gemte huen i fireti &#x00E5;r,</l>
+<l>hugsede endnu p&#x00E5; sin mor,</l>
+<l>&#x00AB;vesle min hue, forvist jeg tror,</l>
+<l>vi aldrig for alteret st&#x00E5;r.&#x00BB;</l>
+</lg>
+<lg>
+<l>Hun ganger for kisten at tage den,</l>
+<l>hj&#x00E6;rtet var s&#x00E5; stort derved;</l>
+<l>hun leder frem til dens gamle sted,</l>
+<l>da var der ikke tr&#x00E5;den igen.</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem" n="2">
+<head><ref type="contents" target="contents_2" xml:id="chapter_2">OVER DE H&#x00D8;JE FJ&#x00C6;LDE</ref></head>
+<note type="commentary">Diktet er fra romanen <hi rend="italic">Arne</hi> (1859). Her gjengitt etter <hi rend="italic">Samlede Digter-Verker</hi>, standardutg. i 9 bind, Kristiania, Gyldendal, 1919-20.</note>
+<lg>
+<l>Undrer mig p&#x00E5;, hvad jeg f&#x00E5;r at se</l>
+<l>over de h&#x00F8;je fj&#x00E6;lde?</l>
+<l>&#x00F8;jet m&#x00F8;der nok bare sne;</l>
+<l>rundt omkring st&#x00E5;r det gr&#x00F8;nne tr&#x00E6;,</l>
+<l>vilde s&#x00E5; g&#x00E6;rne over; &#x2013;</l>
+<l>tro, n&#x00E5;r det rejsen vover?</l>
+</lg>
+<lg>
+<l>&#x00D8;rnen l&#x00F8;fter med st&#x00E6;rke slag</l>
+<l>over de h&#x00F8;je fj&#x00E6;lde, &#x2013;</l>
+<l>ror i den unge, kraftfulde dag,</l>
+<l>m&#x00E6;tter sit mod i det vilde jag,</l>
+<l>s&#x00E6;nker sig, hvor den lyster, &#x2013;</l>
+<l>ser mod de fremmede kyster!</l>
+</lg>
+<lg>
+<l>L&#x00F8;vtunge apal, som intet vil</l>
+<l>over de h&#x00F8;je fj&#x00E6;lde?</l>
+<l>spr&#x00E6;tter, n&#x00E5;r somren stunder til,</l>
+<l>venter til n&#x00E6;ste gang, den vil,</l>
+<l>alle dens fugle gynger,</l>
+<l>ved ikke, hvad de synger; &#x2013;</l>
+</lg>
+<lg>
+<l>den, som har l&#x00E6;ngtet i tyve &#x00E5;r</l>
+<l>over de h&#x00F8;je fj&#x00E6;lde, &#x2013;</l>
+<l>den, som ved, at han ikke n&#x00E5;r,</l>
+<l>kenner sig mindre &#x00E5;r for &#x00E5;r &#x2013;,</l>
+<l>h&#x00F8;rer, hvad fuglen synger,</l>
+<l>som du s&#x00E5; tr&#x00F8;stig gynger.</l>
+</lg>
+<lg>
+<l>Sladrende fugl, hvad vilde du her</l>
+<l>over de h&#x00F8;je fj&#x00E6;lde?</l>
+<l>rede du fant vist bedre der,</l>
+<l>videre syn og h&#x00F8;jere tr&#x00E6;r, &#x2013;</l>
+<l>vilde du bare bringe</l>
+<l>l&#x00E6;ngsel, men ingen vinge?</l>
+</lg>
+<lg>
+<l>Skal jeg da aldrig, aldrig n&#x00E5;</l>
+<l>over de h&#x00F8;je fj&#x00E6;lde?</l>
+<l>skal denne mur mine tanker sl&#x00E5;,</l>
+<l>s&#x00E5;dan med sne-is og r&#x00E6;dsel st&#x00E5;</l>
+<l>st&#x00E6;ngende der til det sidste, &#x2013;</l>
+<l>blive min d&#x00F8;dningkiste?</l>
+</lg>
+<lg>
+<l>Ud, vil jeg! ud! &#x2013; o, s&#x00E5; langt, langt, langt</l>
+<l>over de h&#x00F8;je fj&#x00E6;lde!</l>
+<l>her er s&#x00E5; knugende, t&#x00E6;rende trangt,</l>
+<l>og mit mod er s&#x00E5; ungt og rankt, &#x2013;</l>
+<l>lad det f&#x00E5; stigningen friste,</l>
+<l>&#x2013; ikke mod murkanten briste!</l>
+</lg>
+<lg>
+<l>Engang, jeg ved, vil det r&#x00E6;kke frem</l>
+<l>over de h&#x00F8;je fj&#x00E6;lde,</l>
+<l>kanske du alt har din d&#x00F8;r p&#x00E5; klem? &#x2013;</l>
+<l>Herre min Gud! godt er dit hjem, &#x2013;</l>
+<l>lad det dog endnu st&#x00E6;nges,</l>
+<l>og jeg f&#x00E5; lov til at l&#x00E6;nges!</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem" n="3">
+<head><ref type="contents" target="contents_3" xml:id="chapter_3">TONEN</ref></head>
+<note type="commentary">Diktet er fra romanen <hi rend="italic">Arne</hi> (1859). Her gjengitt etter <hi rend="italic">Samlede Digter-Verker</hi>, standardutg. i 9 bind, Kristiania, Gyldendal, 1919-20.</note>
+<lg>
+<l>I skogen sm&#x00E5;gutten gik dagen lang,</l>
+<l>gik dagen lang,</l>
+<l>der havde han h&#x00F8;rt slig en underlig sang,</l>
+<l>underlig sang.</l>
+</lg>
+<lg>
+<l>Gutten en fl&#x00F8;jte af selje skar,</l>
+<l>af selje skar, &#x2013;</l>
+<l>og pr&#x00F8;vde, om tonen derinne var,</l>
+<l>derinne var.</l>
+</lg>
+<lg>
+<l>Tonen, den hvisked og n&#x00E6;vnte sig,</l>
+<l>og n&#x00E6;vnte sig;</l>
+<l>men bedst som han lydde, den l&#x00F8;b sin vej,</l>
+<l>den l&#x00F8;b sin vej.</l>
+</lg>
+<lg>
+<l>Tidt, n&#x00E5;r han sov, den til ham sm&#x00F8;g,</l>
+<l>den til ham sm&#x00F8;g.</l>
+<l>Og over hans pande med elskov str&#x00F8;g,</l>
+<l>med elskov str&#x00F8;g.</l>
+</lg>
+<lg>
+<l>Vilde den fange og v&#x00E5;gned brat,</l>
+<l>og v&#x00E5;gned brat;</l>
+<l>men tonen hang fast i den blege nat,</l>
+<l>i den blege nat.</l>
+</lg>
+<lg>
+<l>&#x00AB;Herre min Gud, tag mig derind,</l>
+<l>tag mig derind;</l>
+<l>ti tonen har f&#x00E5;et mit hele sind,</l>
+<l>mit hele sind.&#x00BB;</l>
+</lg>
+<lg>
+<l>Herren, han svared: &#x00AB;den er din ven;</l>
+<l>den er din ven;</l>
+<l>sk&#x00F8;nt aldrig en time du ejer den,</l>
+<l>du ejer den.&#x00BB;</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem" n="4">
+<head><ref type="contents" target="contents_4" xml:id="chapter_4">DER LIGGER ET LAND</ref></head>
+<note type="commentary">Diktet ble skrevet til 17. mai-feiringen 1859 og ble solgt som skillingstrykk i Bergen p&#x00E5; nasjonaldagen. Trykket i Bergenposten 20. mai 1859. Diktet ble omarbeidet til samlingen <hi rend="italic">Digte og Sange</hi> i 1870. Her gjengitt etter <hi rend="italic">Samlede Digter-Verker</hi>, standardutg. i 9 bind, Kristiania, Gyldendal, 1919-20.</note>
+<lg>
+<l>Der ligger et land mod den evige sne,</l>
+<l>i revnerne kun er der v&#x00E5;rliv at se.</l>
+<l>Men havet g&#x00E5;r til med historie-d&#x00F8;n,</l>
+<l>og elsket er landet som mor af s&#x00F8;n.</l>
+</lg>
+<lg>
+<l>Hun tog os i fanget, dengang vi var sm&#x00E5;,</l>
+<l>og gav os sin saga med billeder p&#x00E5;.</l>
+<l>Vi l&#x00E6;ste, s&#x00E5; &#x00F8;jet blev stort og v&#x00E5;dt;</l>
+<l>da smilte den gamle og nikked blot.</l>
+</lg>
+<lg>
+<l>Vi sprang ned til fjorden, vi stirrede mod</l>
+<l>den askegr&#x00E5; bauta, hvor gammel den stod;</l>
+<l>hun stod der end &#x00E6;ldre, sa&#x0027; ingen ting;</l>
+<l>men stensatte hauger l&#x00E5; rundt i ring.</l>
+</lg>
+<lg>
+<l>Hun tog os ved h&#x00E5;nden, og f&#x00F8;lge hun gav</l>
+<l>bort derfra til kirken s&#x00E5; stille og lav,</l>
+<l>hvor f&#x00E6;drene ydmygt har b&#x00F8;jet kn&#x00E6;,</l>
+<l>og mild&#x0027;lig hun sagde: g&#x00F8;r I som de!</l>
+</lg>
+<lg>
+<l>Hun str&#x00F8;dde sin sne over fj&#x00E6;ldbratte li,</l>
+<l>b&#x00F8;d s&#x00E5; sine gutter at st&#x00E5; den p&#x00E5; ski.</l>
+<l>Hun knuste med stormh&#x00E5;nd det nordhavs spejl,</l>
+<l>b&#x00F8;d s&#x00E5; sine gutter at hejse sejl.</l>
+</lg>
+<lg>
+<l>Hun satte de vakreste jenter i rad</l>
+<l>at f&#x00F8;lge vor idr&#x00E6;t med smil og med kvad,</l>
+<l>og selv sad hun h&#x00F8;jt i sin sagastol</l>
+<l>og m&#x00E5;neskinsk&#x00E5;ben opunder pol.</l>
+</lg>
+<lg>
+<l>Da l&#x00F8;d der et fremad! et fremad endnu</l>
+<l>p&#x00E5; f&#x00E6;drene-m&#x00E5;l og med f&#x00E6;drene-hu</l>
+<l>for frihed, for norskhed, for Norge hurra!</l>
+<l>og fj&#x00E6;ldene selv roper langt hurra.</l>
+</lg>
+<lg>
+<l>Da l&#x00F8;sned&#x0027; begejstringens rullende f&#x00E5;n,</l>
+<l>da d&#x00F8;btes vi af hendes m&#x00E6;gtige &#x00E5;nd,</l>
+<l>da stod over fj&#x00E6;ldet et syn i gl&#x00F8;d,</l>
+<l>som siden os maner indtil vor d&#x00F8;d.</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem" n="5">
+<head><ref type="contents" target="contents_5" xml:id="chapter_5">JA, VI ELSKER DETTE LANDET</ref></head>
+<note type="commentary">Diktet ble trolig p&#x00E5;begynt i 1859, men f&#x00F8;rste offisiell framf&#x00F8;ring var i forbindelse med 50-&#x00E5;rsmarkeringen for Grunnloven i 1864. Her gjengitt etter <hi rend="italic">Samlede Digter-Verker</hi>, standardutg. i 9 bind, Kristiania, Gyldendal, 1919-20.</note>
+<lg>
+<l>Ja, vi elsker dette landet,</l>
+<l>som det stiger frem</l>
+<l>furet, vejrbidt over vandet</l>
+<l>med de tusen hjem.</l>
+<l>Elsker, elsker det og t&#x00E6;nker</l>
+<l>p&#x00E5; vor far og mor</l>
+<l>og den saganat, som s&#x00E6;nker</l>
+<l>dr&#x00F8;mme p&#x00E5; vor jord.</l>
+</lg>
+<lg>
+<l>Dette landet Harald bj&#x00E6;rged</l>
+<l>med sin k&#x00E6;mperad,</l>
+<l>dette landet H&#x00E5;kon v&#x00E6;rged,</l>
+<l>medens &#x00D8;jvind kvad;</l>
+<l>Olav p&#x00E5; det land har malet</l>
+<l>korset med sit blod,</l>
+<l>fra dets h&#x00F8;je Sverre talet</l>
+<l>Roma midt imod.</l>
+</lg>
+<lg>
+<l>B&#x00F8;nder sine &#x00F8;kser brynte,</l>
+<l>hvor en h&#x00E6;r drog frem;</l>
+<l>Tordenskjold langs kysten lynte,</l>
+<l>s&#x00E5; den lystes hjem.</l>
+<l>Kvinner selv stod op og strede</l>
+<l>som de vare m&#x00E6;nd;</l>
+<l>andre kunde bare gr&#x00E6;de;</l>
+<l>men det kom igen!</l>
+</lg>
+<lg>
+<l>Vistnok var vi ikke mange;</l>
+<l>men vi strak dog til,</l>
+<l>da vi pr&#x00F8;vdes nogle gange,</l>
+<l>og det stod p&#x00E5; spil;</l>
+<l>ti vi heller landet br&#x00E6;nte,</l>
+<l>end det kom til fald;</l>
+<l>husker bare, hvad som h&#x00E6;ndte</l>
+<l>ned p&#x00E5; Fredrikshald!</l>
+</lg>
+<lg>
+<l>H&#x00E5;rde tider har vi d&#x00F8;jet,</l>
+<l>blev tilsidst forst&#x00F8;dt;</l>
+<l>men i v&#x00E6;rste n&#x00F8;d bl&#x00E5;&#x00F8;jet</l>
+<l>frihed blev os f&#x00F8;dt.</l>
+<l>Det gav faderkraft at b&#x00E6;re</l>
+<l>hungersn&#x00F8;d og krig</l>
+<l>det gav d&#x00F8;den selv sin &#x00E6;re &#x2013;</l>
+<l>og det gav forlig.</l>
+</lg>
+<lg>
+<l>Fienden sit v&#x00E5;ben kasted,</l>
+<l>op visiret f&#x00F3;r,</l>
+<l>vi med undren mod ham hasted;</l>
+<l>ti han var vor bror.</l>
+<l>Drevne frem p&#x00E5;stand af skammen</l>
+<l>gik vi s&#x00F8;derp&#x00E5;;</l>
+<l>nu vi st&#x00E5;r tre br&#x00F8;dre sammen</l>
+<l>og skal s&#x00E5;dan st&#x00E5;!</l>
+</lg>
+<lg>
+<l>Norske mand i hus og hytte,</l>
+<l>tak din store Gud!</l>
+<l>landet vilde han beskytte,</l>
+<l>sk&#x00F8;nt det m&#x00F8;rkt s&#x00E5; ud.</l>
+<l>Alt, hvad f&#x00E6;drene har k&#x00E6;mpet,</l>
+<l>m&#x00F8;drene har gr&#x00E6;dt,</l>
+<l>har den Herre stille l&#x00E6;mpet,</l>
+<l>s&#x00E5; vi vant vor ret.</l>
+</lg>
+<lg>
+<l>Ja, vi elsker dette landet,</l>
+<l>som det stiger frem</l>
+<l>furet, vejrbidt over vandet</l>
+<l>med de tusen hjem.</l>
+<l>Og som f&#x00E6;dres kamp har h&#x00E6;vet</l>
+<l>det af n&#x00F8;d til sejr,</l>
+<l>ogs&#x00E5; vi, n&#x00E5;r det blir kr&#x00E6;vet,</l>
+<l>for dets fred sl&#x00E5;r lejr.</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem" n="6">
+<head><ref type="contents" target="contents_6" xml:id="chapter_6">LOKKELEG.</ref></head>
+<note type="commentary">Diktet er fra fortellingen <hi rend="italic">En glad Gut</hi> (1860). Her gjengitt etter <hi rend="italic">Samlede Digter-Verker</hi>, standardutg. i 9 bind, Kristiania, Gyldendal, 1919-20.</note>
+<lg>
+<l>Kom bukken til gutten,</l>
+<l>kom kalven til mor,</l>
+<l>kom mjavende katten</l>
+<l>i snehvide sko&#x0027;r,</l>
+<l>kom andunger gule,</l>
+<l>kom frem ifra skjule&#x0027;,</l>
+<l>kom kyllinger sm&#x00E5;,</l>
+<l>som n&#x00E6;ppe kan g&#x00E5;,</l>
+<l>kom duerne mine</l>
+<l>med fj&#x00E6;drene fine,</l>
+<l>se gr&#x00E6;sset er v&#x00E5;dt,</l>
+<l>men solen g&#x00F8;r godt,</l>
+<l>og tidlig, tidlig er det p&#x00E5; sommer&#x0027;n,</l>
+<l>men rop p&#x00E5; h&#x00F8;sten, s&#x00E5; kommer&#x0027;n!</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem" n="7">
+<head><ref type="contents" target="contents_7" xml:id="chapter_7">L&#x00D8;FT DIT HOVED</ref></head>
+<note type="commentary">Diktet er fra fortellingen <hi rend="italic">En glad Gut</hi> (1860). Her gjengitt etter <hi rend="italic">Samlede Digter-Verker</hi>, standardutg. i 9 bind, Kristiania, Gyldendal, 1919-20.</note>
+<lg>
+<l>L&#x00F8;ft dit hoved, du raske gut!</l>
+<l>om et h&#x00E5;b eller to blev brudt,</l>
+<l>blinker et nyt i dit &#x00F8;je,</l>
+<l>straks det f&#x00E5;r glans af det h&#x00F8;je!</l>
+</lg>
+<lg>
+<l>L&#x00F8;ft dit hoved og se dig om,</l>
+<l>noget er der, som roper: kom! &#x2013;</l>
+<l>noget med tusende tunger,</l>
+<l>som om frejdighed sjunger.</l>
+</lg>
+<lg>
+<l>L&#x00F8;ft dit hoved, ti i dig selv</l>
+<l>bl&#x00E5;ner ogs&#x00E5; et udstrakt hv&#x00E6;lv,</l>
+<l>hvor der med harper klinger,</l>
+<l>jubler, toner og svinger.</l>
+</lg>
+<lg>
+<l>L&#x00F8;ft dit hoved og sjung det ud,</l>
+<l>aldrig kuer du v&#x00E5;rens skud;</l>
+<l>hvor der er g&#x00E6;rende kr&#x00E6;fter,</l>
+<l>skyder det &#x00E5;ret efter.</l>
+</lg>
+<lg>
+<l>L&#x00F8;ft dit hoved og tag din d&#x00E5;b</l>
+<l>af det h&#x00F8;je, str&#x00E5;lende h&#x00E5;b,</l>
+<l>som over verden hv&#x00E6;lver</l>
+<l>og i hver livsgnist sk&#x00E6;lver.</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem" n="8">
+<head><ref type="contents" target="contents_8" xml:id="chapter_8">HOLDER DU AF MIG</ref></head>
+<note type="commentary">Diktet er fra fortellingen <hi rend="italic">En glad Gut</hi> (1860). Her gjengitt etter <hi rend="italic">Samlede Digter-Verker</hi>, standardutg. i 9 bind, Kristiania, Gyldendal, 1919-20.</note>
+<lg>
+<l>Holder du af mig,</l>
+<l>holder jeg af dig</l>
+<l>alle mine levedage;</l>
+<l>sommeren var kort,</l>
+<l>gr&#x00E6;sset blegner bort,</l>
+<l>kommer med vor leg tilbage.</l>
+</lg>
+<lg>
+<l>Hvad du sa&#x0027; ifjor,</l>
+<l>husker jeg i&#x00E5;r,</l>
+<l>sidder som en fugl i karmen, &#x2013;</l>
+<l>kakker p&#x00E5; og sl&#x00E5;r,</l>
+<l>synger lidt og sp&#x00E5;r</l>
+<l>lykke under solevarmen.</l>
+</lg>
+<lg>
+<l>Litli-litli-lu,</l>
+<l>h&#x00F8;rer du mig nu,</l>
+<l>gutten bagved bj&#x00F8;rkehejen?</l>
+<l>ordene vil g&#x00E5;,</l>
+<l>m&#x00F8;rket falder p&#x00E5;,</l>
+<l>kanske du kan vise vejen.</l>
+</lg>
+<lg>
+<l>Sjo &#x2013; i, sjo &#x2013; i, hys,</l>
+<l>sang jeg om et kys? &#x2013;</l>
+<l>nej, det gjorde jeg vist ikke.</l>
+<l>H&#x00F8;rte du det, du?</l>
+<l>kom det ej ihu, &#x2013;</l>
+<l>jeg vil lade afbud skikke.</l>
+</lg>
+<lg>
+<l>O, godnat, godnat!</l>
+<l>dr&#x00F8;mmen har mig fat,</l>
+<l>den om dine milde &#x00F8;jne</l>
+<l>og de tause ord,</l>
+<l>som af krogen f&#x00F3;r, &#x2013;</l>
+<l>o, de vare s&#x00E5; forfl&#x00F8;jne!</l>
+</lg>
+<lg>
+<l>Nu jeg lukker til;</l>
+<l>er der mer, du vil?</l>
+<l>tonerne tilbage trille,</l>
+<l>lokker mig og ler,</l>
+<l>vilde du mig mer?</l>
+<l>aftnen er s&#x00E5; varm og stille.</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem" n="9">
+<head><ref type="contents" target="contents_9" xml:id="chapter_9">NORSK SJ&#x00D8;MANDS-SANG</ref></head>
+<note type="commentary">Diktet er skrevet p&#x00E5; bestilling til et v&#x00E5;tstevne i Stavanger i 1868. Her gjengitt etter <hi rend="italic">Samlede Digter-Verker</hi>, standardutg. i 9 bind, Kristiania, Gyldendal, 1919-20.</note>
+<lg>
+<l>Den norske sj&#x00F8;mand er</l>
+<l>et gennem-barket folke-f&#x00E6;rd;</l>
+<l>hvor fart&#x00F8;j flyde kan,</l>
+<l>der er han f&#x00F8;rste mand.</l>
+<l>P&#x00E5; togt og hjemme her</l>
+<l>ved sund og sk&#x00E6;r og fiske-v&#x00E6;r</l>
+<l>han har sin Gud i sind</l>
+<l>og s&#x00E6;tter livet ind.</l>
+</lg>
+<lg>
+<l>Her er et folk i krig</l>
+<l>for livet uafladelig &#x2013;</l>
+<l>med dyre mande-fald</l>
+<l>i kampe uden tal.</l>
+<l>Det, som er daglig-dags,</l>
+<l>det n&#x00E6;vnes ikke netop straks,</l>
+<l>og tit er ingen med,</l>
+<l>som bringe kan besked.</l>
+</lg>
+<lg>
+<l>Men vesle fisker-b&#x00E5;d</l>
+<l>har b&#x00E5;ret frem s&#x00E5; mangen d&#x00E5;d</l>
+<l>af mod og herlig kl&#x00F8;gt,</l>
+<l>sk&#x00F8;nt aldrig den blev trykt.</l>
+<l>Og mangen sj&#x00F8;mands liv</l>
+<l>fik d&#x00F8;dens krans af tang og siv,</l>
+<l>som burde haft i guld</l>
+<l>sit navn blant k&#x00E6;mpe-kuld.</l>
+</lg>
+<lg>
+<l>Sankt Olavs-korsets ros</l>
+<l>ret h&#x00F8;vde for en vestlandsk lods,</l>
+<l>som redded hundred m&#x00E6;nd</l>
+<l>og hundred om igen.</l>
+<l>Og mangen liden gut,</l>
+<l>som red p&#x00E5; hv&#x00E6;lvet hjem tilslut,</l>
+<l>n&#x00E5;r far var sat ombord,</l>
+<l>han burde haft et ord.</l>
+</lg>
+<lg>
+<l>Dog Norges h&#x00F8;je kyst</l>
+<l>er landets eget moder-bryst</l>
+<l>med n&#x00E6;ring og med gr&#x00E5;d</l>
+<l>ved s&#x00F8;nners raske d&#x00E5;d.</l>
+<l>I <emph>det</emph> er alting gemt,</l>
+<l>og <emph>der</emph> er ej den mindste glemt</l>
+<l>fra Hafurs-fjordens dag,</l>
+<l>til ham p&#x00E5; sidste vrag.</l>
+</lg>
+<lg>
+<l>Det f&#x00F8;lte hver, som kom</l>
+<l>fra rejs igen, og s&#x00E5; sig om;</l>
+<l>det f&#x00F8;lte hver, som gik,</l>
+<l>i sidste afskeds-blik.</l>
+<l>De f&#x00F8;lte, hvor de f&#x00F3;r,</l>
+<l>at landets lykke var ombord:</l>
+<l><emph>vor &#x00E6;re og vor magt</emph></l>
+<l><emph>har hvide sejl os bragt.</emph></l>
+</lg>
+<figure rend="asterisk"/>
+<lg>
+<l><emph>Hurra</emph> for dem idag,</l>
+<l>som farer under norske flag!</l>
+<l><emph>Hurra</emph> for lodsen, som</l>
+<l>dem f&#x00F8;rst im&#x00F8;de kom!</l>
+<l><emph>Hurra</emph> for dem, som ror</l>
+<l>sin fisker-b&#x00E5;d p&#x00E5; hav og fjord!</l>
+<l><emph>Hurra</emph> for alles lyst:</l>
+<l>vor sk&#x00E6;r-omkranste kyst!</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem" n="10">
+<head><ref type="contents" target="contents_10" xml:id="chapter_10">MIT F&#x00D8;LGE</ref></head>
+<note type="commentary">Diktet er skrevet i 1869. Her gjengitt etter <hi rend="italic">Samlede Digter-Verker</hi>, standardutg. i 9 bind, Kristiania, Gyldendal, 1919-20.</note>
+<lg>
+<l>Jeg k&#x00F8;rer frem gennem str&#x00E5;le-fryd</l>
+<l>i s&#x00F8;ndags-stilhed med klokke-lyd.</l>
+<l>Alt l&#x00F8;fter solen, fra myg til s&#x00E6;den,</l>
+<l>som var den selve alk&#x00E6;rligheden.</l>
+<l>Og folk forbi mig til kirke k&#x00F8;re,</l>
+<l>snart stiger salmen for &#x00E5;bne d&#x00F8;re.</l>
+<l>&#x2013; Godt mod! Du hilste p&#x00E5; fler end mig,</l>
+<l>sk&#x00F8;nt du i skyndingen s&#x00E5; det ej.</l>
+</lg>
+<lg>
+<l>Jeg har det herligste rejse-f&#x00F8;lge,</l>
+<l>sk&#x00F8;nt det sig stundom mon listig d&#x00F8;lge;</l>
+<l>men n&#x00E5;r du s&#x00E5; mig s&#x00E5; s&#x00F8;ndags-glad,</l>
+<l>var det, fordi at vi flere sad,</l>
+<l>og n&#x00E5;r du h&#x00F8;rte mig d&#x00E6;mpet synge,</l>
+<l>de sad i tonen, som i en gynge.</l>
+</lg>
+<lg>
+<l>Mig f&#x00F8;lger en med en sj&#x00E6;l s&#x00E5; stor,</l>
+<l>for mig hun ofrede alt p&#x00E5; jord;</l>
+<l>ja, hun, som lo, n&#x00E5;r min b&#x00E5;d blev kr&#x00E6;nget,</l>
+<l>og blev ej bleg under uvejrs-h&#x00E6;nget,</l>
+<l>ja, hun, imellem hvis hvide arme</l>
+<l>jeg kente livets og troens varme.</l>
+</lg>
+<lg>
+<l>Se, deri er jeg af snegle-arten,</l>
+<l>at huset b&#x00E6;rer jeg med p&#x00E5; farten,</l>
+<l>og den, som tror, det er tungvint b&#x00F8;r,</l>
+<l>han skulde vide, hvor godt det g&#x00F8;r</l>
+<l>at krybe ind under taget atter,</l>
+<l>hvor hun st&#x00E5;r lys mellem barne-latter.</l>
+</lg>
+<lg>
+<l>Ej m&#x00E5;ler tankens, ej digtets s&#x00F8;n</l>
+<l>s&#x00E5; h&#x00F8;j en hv&#x00E6;lving, s&#x00E5; dyb en br&#x00F8;n</l>
+<l>som fra den himmelske k&#x00E6;rlighed</l>
+<l>til der, den spejler i vuggen ned.</l>
+<l>Ej sj&#x00E6;len lyser, ej hj&#x00E6;rtet dugger,</l>
+<l>som n&#x00E5;r dit barn under b&#x00F8;n du vugger.</l>
+</lg>
+<lg>
+<l>Hvem ej har k&#x00E6;rlighed i det sm&#x00E5;,</l>
+<l>han kan ej m&#x00E6;ngdens, ej minnets f&#x00E5;.</l>
+<l>Hvem ej kan bygge sit eget hus,</l>
+<l>hvad stort han bygger, g&#x00E5;r og i grus.</l>
+<l>Med sejr fra Moskva til Kartagena</l>
+<l>han d&#x00F8;r dog ensom p&#x00E5; Sankt Helena.</l>
+</lg>
+<lg>
+<l>Har f&#x00F8;rst du bygget dig selv et f&#x00E6;ste,</l>
+<l>s&#x00E5; tit du frelser endog din n&#x00E6;ste; &#x2013;</l>
+<l>sk&#x00F8;nt b&#x00F8;rne-h&#x00E6;nders og kvinne-v&#x00E6;rk,</l>
+<l>det f&#x00E6;ste holder din sj&#x00E6;l s&#x00E5; st&#x00E6;rk,</l>
+<l>at den g&#x00E5;r hel gennem kamp og fare</l>
+<l>og giver mod til den st&#x00F8;rste skare.</l>
+</lg>
+<lg>
+<l>Et enkelt hjem bar s&#x00E5; tit et land,</l>
+<l>n&#x00E5;r ud det sendte dets frelser-mand,</l>
+<l>og mange tusen af hjem det var,</l>
+<l>som landet frelst ifra slaget bar.</l>
+<l>Og det, som b&#x00E6;rer det gennem freden,</l>
+<l>er hjemmets puls-slag i travelheden.</l>
+</lg>
+<lg>
+<l>Trods alt det fine i fremmed duft,</l>
+<l>helt ren alene er hjemmets luft.</l>
+<l>Der m&#x00F8;der bare det barne-sanne,</l>
+<l>og synden kysses ifra din pande;</l>
+<l>til hjemmet hist st&#x00E5;r der &#x00E5;bne d&#x00F8;re;</l>
+<l>ti derfra kom det, &#x2013; og did det f&#x00F8;re!</l>
+</lg>
+<lg>
+<l>Godt mod, du vandrer p&#x00E5; kirke-vej!</l>
+<l>Du b&#x00E9;r for dine, for mine jeg;</l>
+<l>ti b&#x00F8;nnen b&#x00E6;rer et stykke frem</l>
+<l>p&#x00E5; vejen mellem de tvenne hjem.</l>
+<l>&#x2013; I b&#x00F8;jer ind; jeg m&#x00E5; vidre k&#x00F8;re,</l>
+<l>mens salmen f&#x00F8;lger fra &#x00E5;bne d&#x00F8;re.</l>
+<l>&#x2013; Godt mod! Du hilste p&#x00E5; fler end mig,</l>
+<l>sk&#x00F8;nt du i skyndingen s&#x00E5; det ej.</l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

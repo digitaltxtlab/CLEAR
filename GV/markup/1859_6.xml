@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>SKJALDEN INGEMANN</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-25"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="006"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1859">1859</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1859_6_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">TIL<lb/>SKJALDEN INGEMANN</titlePart>
+	<titlePart type="sub">MED<lb/>GULDHORNET FRA DEN DANSKE UNGDOM</titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<docEdition>den 28de Mai 1859.</docEdition>
+				<docImprint>
+				<pubPlace></pubPlace>.
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<pb facs="1859_6_page0002.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l><hi rend="initial">Y</hi>ndig end sig Bøgen grønner</l>
+<l>I den gamle Sorø-Skov,</l>
+<l>Danmarks Døttre, Danmarks Sønner</l>
+<l>Glade synge: Gud skee Lov!</l>
+<l>Som den gamle Ørn paa Halden</l>
+<l>Længe leve Maidags-Skjalden!</l>
+</lg>
+<lg>
+<l>Hornet, som vi her til Minde</l>
+<l>Om Skov-Hornets gyldne Klang</l>
+<l>Række Skjalden under Linde:</l>
+<l>Gran af Guld for Glands i Sang,</l>
+<l>Samlet er af de Guld-Taarer,</l>
+<l>Som er Danevangs Guld-Aarer!</l>
+</lg>
+<lg>
+<l>Synker atter nogensinde</l>
+<l>End Guld-Hornet under Muld,</l>
+<l>Sikkert det sig lader finde</l>
+<l>Af en Glut, der græd for Guld,</l>
+<l>Som sig immer gyldne Minder</l>
+<l>Skyder op hos Dannekvinder!</l>
+</lg> 
+<pb facs="1859_6_page0003.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Har hver Rune da udslettet</l>
+<l>Muldets Tryk og Tidens Tand,</l>
+<l>Guldet findes dog uplettet,</l>
+<l>Billedværket, godt istand,</l>
+<l>Trænger ei til Lys i Skolen,</l>
+<l>Klarer selv sig brat i Solen!</l>
+</lg>
+<lg>
+<l>Danmarks Ungdom ei udfritte</l>
+<l>Skal derom sprænglærde Mænd,</l>
+<l>(De, som deres Eget hitte,</l>
+<l>Kiender prægtig det igien)</l>
+<l>Kaster kiæk for Holger Danske</l>
+<l>Til hver Skolemester Handske!</l>
+</lg>
+<lg>
+<l>Som de store Valdemarer,</l>
+<l>Kiender Glutterne »de Smaa»,</l>
+<l>Der igiennem Kæmpeskarer</l>
+<l>Smutte let, som Vindpust gaae;</l>
+<l>Dagmar, Kirsten og Margrethe</l>
+<l>Bedst de fandt, som ikke ledte!</l>
+</lg>
+<lg>
+<l>Trods Hjemtyskernes Stikbreve,</l>
+<l>Glutterne ved Sund og Belt</l>
+<l>Kalder ingen »kullet Greve«,</l>
+<l>Men Niels Ebbesen vor Helt;</l>
+<l>Bundet er ei til Uretten</l>
+<l>Riddersmand, som Munk til Hætten!</l>
+</lg> 
+<pb facs="1859_6_page0004.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Danske Piger, danske Drenge</l>
+<l>Kiende altid paa en Prik</l>
+<l>Over »deiligst Vang og Vænge«,</l>
+<l>Alferne med Stjerneblik,</l>
+<l>Som til Enden, meer og mindre,</l>
+<l>Over »Bølgen blaa» skal tindre!</l>
+</lg>
+<lg>
+<l>Maidags-Skjald, som vel kan ældes,</l>
+<l>Men forynges brat i Vaar!</l>
+<l>Gud skee Lov, at lydt det meldes,</l>
+<l>Du har fyldt de sytti Aar!</l>
+<l>Thi, med Danmarks Ungdom levet,</l>
+<l>Skjaldens Liv er gammelt blevet.</l>
+</lg>
+<lg>
+<l>Det i Stjernerne staaer skrevet:</l>
+<l>Ungdom trindt i Daneland!</l>
+<l>Førend du er heel udlevet,</l>
+<l>Døer ei Skjalden Ingemann;</l>
+<l>Han i Folkemunde Prisen</l>
+<l>Vinder let som Kæmpevisen!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

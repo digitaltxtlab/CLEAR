@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Psalmer og Sange</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-23"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="009"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1853">1853</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1853_9_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Bibelske og Kirkehistoriske<lb/></titlePart>
+	<titlePart type="sub">Psalmer og Sange<lb/>for<lb/>Skolen,</titlePart>
+</docTitle>
+<byline>samlede og udgivne<lb/>af<lb/>
+	<docAuthor>P.O. Boisen<lb/></docAuthor>
+				</byline>
+				<fw type="graphic"/>
+				<epigraph>
+<p>(Med 18 Melodier.)</p>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace>Kjøbenhavn.</pubPlace>.<lb/>C. G. Iversens Forlag.<lb/>Trykt hos J. D. Qvist, Bog- og Nodetrykker.<lb/>
+<fw type="graphic"/>
+<docDate>1853.</docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<pb facs="1853_9_page0002.png"/>
+<fw type="pageNum">VI</fw>
+<p>Til Slutning er det mit Ønske over denne lille Bog i Børnenes Haand, at den maa hjælpe til, at saadanne Psalmer blive levende i deres Hjerter, faa de kan lyde med Lyst paa deres Tunger til Vorherres Priis for alle hans store og underlige Gjerninger, som Han har gjort fra Begyndelsen og gjør endnu idag, at de maae fornemme til usigelig Trøst og Glæde:</p>
+<lg>
+<l>"Intet saa stort, Han det jo kan,</l>
+<l>Intet saa godt, Han det jo vil!</l>
+<l>Det overgaaer al vor Forstand,</l>
+<l>At der en saadan Gud er til;</l>
+<l>Er dog ei meer, end i Børnesko</l>
+<l>Alle de Smaa kan yndigt troe,</l>
+<l>Er netop Nok til Sjælero!"</l>
+</lg>
+<p><hi rend="bold">Kjøbenhavn</hi>, den 11te Februar 1853.</p>
+<p><hi rend="align(right)">P. O. Boisen.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Dansk Kirketidende.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-26"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="001"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1871">1871</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1871_1_page0001.png"/>
+			<fw type="pageNum">177-178</fw>
+				<docTitle>
+	<titlePart type="main">Dansk Kirketidende.<lb/></titlePart>
+	<titlePart type="sub"><lb/></titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<fw type="graphic"/>
+				<epigraph>
+<p>Indhold: N. F. S. <hi rend="spaced">Grundtvig</hi>: Tale ved Kr. Kosters Jordefærd. — Fr. <hi rend="spaced">Helveg</hi>: To Bemærkninger. — F. V.<hi rend="spaced">Trojel</hi>: Forkyndelse og Bekjendelse. — I. E. <hi rend="spaced">Lindberg</hi> : Et Par Hebraiske Remser. — K. M.: Om min Anonymitet. — N. <hi rend="spaced">Lindberg</hi>: Den evangeliske Alliance og den Græskortodokse Kirke.</p>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition>5. Søndag i Fasten den 36de Marts.</docEdition>
+				<docImprint>
+				<pubPlace></pubPlace>.
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Tale ved Kr. Kofters Jordefærd.</head>
+<head>(N. F. S . Grundtvig.)</head>
+<fw type="graphic"/>
+<p>Død, hvor er din Brodd, Helvede, hvor er din Seir! Det er under Spaadoms Skikkelse, vi finder denne Trods mod Livets Fiende og al hans Magt udtalt, baade i den gamle og den nye Pagts Bog, og hos Apostelen Paulus seer vi, at Grunden dertil ligger deri, at Døden er den sidste Fiende, som overvindes af Guds Børn og Menighed, saa det er mere som en Trudsel end som en Spot, de stolte Ord lader sig udtale i Tidens Lob, medens Kampen endnu bestaaer, men at de dog ogsaa i den nye Pagts Dage kan og stal udtales med trøstig Taksigelse til Helten, der ved sin Opstandelse fra de Døde har beviist sin Magt til at sprænge Dødens Lænker, det lærer Apostelen os dog ogsaa, idet han tilføier: Lovet være Gud, som giver os Seir ved Jesus Kristus Vorherre!</p>
+<p>Ja Kristne Venner, naar Vorherre Jesus Kristus een Gang for alle har øiensynlig beviist, at han er Dødens Overmand og Livets guddommelige Ejermand, og har til sine Troendes Trøst kundgjort, at han vil bruge sin guddommelige Livskraft til hele sin Menigheds Frelse fra Synd, fra Død og fra Satans Rige, da har vi, som hans Ords Tienere og hans Menigheds Tresten baade Ret og Drift til, hvor een af Herrens Folk synes faldet som et Offer for Dødens Magt, kiækt at udraabe: Død, hvor er din Brodd, Helvede, hvor er din Seier! lovet være Gud som giver os Seier ved Jesus Kristus! og naar der, som idag er Tilfældet, tales for at trøste Menigheden ved en Broders og Lærers Kiste, som havde Naade til midt under Dødskampen at smile ad den grumme Fiende og glæde sig ved Livs-Heltens aandelige Nærværelse og herlige Opmuntring: Vær tro til Døden, saa giver jeg dig Livets Krone!</p>
+<p>Ja Kristne Venner, da maa vi med høirøstet Taksigelse til Livets Fyrste, vor Frelser, gientage: Død, hvor er din Brodd, Helvede, hvor er din Seier! og istemme Lovsangen:</p>
+<lg>
+<l>Som Dugg paa slagne Enge</l>
+<l>Saa falder Livets Ord,</l>
+<l>Paa Kristues Sottesenge</l>
+<l>I Sky da Haabet groer,</l>
+<l>Og Tresten over Døden</l>
+<l>Deraf er Første-Grøden,</l>
+<l>Forsvundet er derved</l>
+<l>Al Dødens Bitterhed!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

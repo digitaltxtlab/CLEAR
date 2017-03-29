@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Kong Frederik den Syvendes Ihukommelse.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-21"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="001"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1864">1864</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1864_1_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Kong Frederik den Syvendes Ihukommelse.</titlePart>
+</docTitle>
+<byline>Af<lb/>
+	<docAuthor>Nik. Fred. Sev. Grundtvig.</docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace>Kiøbenhavn.</pubPlace>.<lb/>Karl Schønliergs Forlag.<lb/>G S. Wibes Bogtrykkeri.
+<fw type="graphic"/>
+<docDate>1864</docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<pb facs="1864_1_page0002.png"/>
+<fw type="pageNum"></fw> 
+<pb facs="1864_1_page0003.png"/>
+<fw type="pageNum"></fw>
+<head>Til Danmark.</head>
+<lg>
+<l><hi rend="initial">D</hi>anmarks Rige i Høinorden,</l>
+<l>Mindst i Agt, men ældst paa Jorden,</l>
+<l><hi rend="align(right)">Blødt i Munden,</hi></l>
+<l><hi rend="align(right)">Bedst i Grunden!</hi></l>
+<l>Hor engang et Alvors-Ord!</l>
+</lg>
+<lg>
+<l>Aldrig meer dig gaae af Minde,</l>
+<l>Nelde brænder Ven og Fiende,</l>
+<l><hi rend="align(right)">Sky dog Ilden,</hi></l>
+<l><hi rend="align(right)">Brænde-Kilden!</hi></l>
+<l><hi rend="spaced">Holsten</hi> er dit <hi rend="spaced">Neldeblad</hi>.</l>
+</lg>
+<lg>
+<l>Hjertelighed er din Størke,</l>
+<l>Trøst i Sorg og Lys i Mørke,</l>
+<l><hi rend="align(right)">Den kun næres,</hi></l>
+<l><hi rend="align(right)">Den kun bæres</hi></l>
+<l>Af dit <hi rend="spaced">Danske Modersmaal</hi>.</l>
+</lg> 
+<pb facs="1864_1_page0004.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Paa din <hi rend="spaced">Rigsdag</hi>, i din <hi rend="spaced">Skole</hi></l>
+<l>Aldrig meer med Tydsk du bole!</l>
+<l><hi rend="align(right)">For din Lunge,</hi></l>
+<l><hi rend="align(right)">For din Tunge</hi></l>
+<l><hi rend="spaced">Tydsk</hi> er Edder og Forgift.</l>
+</lg>
+<lg>
+<l>Mens sig selv forguder Vrimlen,</l>
+<l>Vær Dig selv og stol paa Himlen!</l>
+<l><hi rend="align(right)">Fred og Glæde</hi></l>
+<l><hi rend="align(right)">Sit Høisæde</hi></l>
+<l>Reiser da paa <hi rend="spaced">Leiregaard</hi>.</l>
+</lg>
+<lg>
+<l>Ei for lidt og ei for meget</l>
+<l>Være Guds dig og dit Eget!</l>
+<l><hi rend="align(right)">Da er rigest,</hi></l>
+<l><hi rend="align(right)">Da er ligest</hi></l>
+<l>Danevang et Paradis.</l>
+</lg>
+<lg>
+<l>Tiden skrider. Verden ældes,</l>
+<l>Kilder tørres, Stammer fældes,</l>
+<l><hi rend="align(right)">Mod Afgrunden</hi></l>
+<l><hi rend="align(right)">Bøge-Lunden</hi></l>
+<l>Bedst er lukt med Bølgen blaa.</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div> 
+<pb facs="1864_1_page0005.png"/>
+<fw type="pageNum"></fw>
+<head>Forord.</head>
+<p>Det er det fjerde Konge-Skifte i Danmark, jeg har oplevet, mørke var Udsigterne ved dem alle, mørkest vel ved det Sidste, men dog har jeg aldrig vundet lysere Haab om Folkets og Rigets Fremtid end netop nu, og det, synes mig, maa jeg dog netop i disse mørke Lobedage giøre mine kiære Landsmand saa vitterligt, som jeg formaaer. Vel veed jeg, det er langt lettere og langt sædvanligere at belee mit gamle Haab og mit ny Skjaldesyn, end at dele dem, men det er lige vist, at de kan være alle Deeltagere til Trøst og Opmuntring, og at de dog ikke fattes al Deeltagelse hos Dannemænd og Dannekvinder.</p>
+<p>Jeg skal endnu kun tilføie, at naar det <hi rend="spaced">Danske Folk</hi> med sin Konge virkelig ønsker at reise den <hi rend="spaced">folkeligste</hi> Konge i Nytaarstiden et værdigt og uforgængeligt Mindesmærke, da behøver de blot virkelig at reise den <hi rend="spaced">Folkelige Høiskole i Soer</hi>, som <hi rend="spaced">Christian</hi> den <hi rend="spaced">Ottende</hi> paa sit Yderste oprettede, og som <hi rend="spaced">Frederik</hi> den <hi rend="spaced">Syvende</hi> ved sin 
+<pb facs="1864_1_page0006.png"/>
+<fw type="pageNum"></fw>
+Thron-Bestigelse høitidelig tilsikkrede Folket, men som har dog saa længe været "stillet i Bero", at den baade paa Borgen og i Hytten synes reent forglemt, skiøndt den til Rigets Redning, til <hi rend="spaced">Modersmaalets</hi> Hævd og til Folkets <hi rend="spaced">Fælles-Oplysning</hi> er aldeles uundværlig.</p>
+<p>Lille Juleaften 1863.</p>
+<fw type="graphic"/>
+</div>
+<div> 
+<pb facs="1864_1_page0007.png"/>
+<fw type="pageNum"></fw>
+<head>Konge-Skiftet.</head>
+<lg>
+<l><hi rend="initial">I</hi>ngen Skjald i Danevangen</l>
+<l>Kvædet har faa høit og tit</l>
+<l>Om den Æt med <hi rend="spaced">Skjoldung</hi>-Rangen,</l>
+<l>Aarsæl, fredsæl, kaaret frit,</l>
+<l>Til at arve Skjoldung-Lykken.</l>
+</lg>
+<lg>
+<l>Maatte da, for Aande-Flammen</l>
+<l>Slukdes ud i Skjaldens Bryst,</l>
+<l>Fuglen overleve Stammen,</l>
+<l>Lyde maa vel og dens Røst</l>
+<l>Klagelig i Dane-Skoven.</l>
+</lg>
+<lg>
+<l>Ja, er blevet en Vindfælde</l>
+<l>Bøge-Stammen kongelig,</l>
+<l>Mageløs af Aar og Ælde</l>
+<l>Paa det hele Jorderig,</l>
+<l>Hvor end skimtes Korsets Banner;</l>
+</lg> 
+<pb facs="1864_1_page0008.png"/>
+<fw type="pageNum">8</fw>
+<lg>
+<l>Christen-Skjalden maa vel klage:</l>
+<l>Stammen, som Guldæblet vandt</l>
+<l>I Aarhundreder tilbage,</l>
+<l>Som i <hi rend="spaced">Folke-Yndest</hi> fandt</l>
+<l>Storke sin, den faldt i Stormen!</l>
+</lg>
+<lg>
+<l>Kiærlig plantet i dens Skygge</l>
+<l>Blev vort unge <hi rend="spaced">Friheds-Trcr</hi>,</l>
+<l>Rodfast kun i <hi rend="spaced">Danmarks Lykke</hi>;</l>
+<l>Kan vel nu det finde Læ?</l>
+<l>Lykken var jo Stammens Krone!</l>
+</lg>
+<lg>
+<l>Nytter Lykken det at friste?</l>
+<l>Var ei <hi rend="spaced">Fredrik Folke-Drot</hi></l>
+<l>Som den <hi rend="spaced">Syvende</hi>, den <hi rend="spaced">Sidste</hi>?</l>
+<l>Gik ei nys med <hi rend="spaced">Fredriks</hi> Slot</l>
+<l>Op i Luer <hi rend="spaced">Danmarks Lykke</hi>?</l>
+</lg>
+<lg>
+<l>Nei dog, Herren være lovet!</l>
+<l>Han er evig <hi rend="spaced">fredegod</hi>,</l>
+<l>De <hi rend="spaced">Fredsælle</hi> Han har lovet</l>
+<l>For al jordisk Vaande Bod,</l>
+<l>Og fredsælt er <hi rend="spaced">Dane-Folket</hi>.</l>
+</lg>
+<lg>
+<l>Stiger op paa <hi rend="spaced">Fredriks</hi> Throne</l>
+<l>Frændefødt en <hi rend="spaced">Christian</hi>,</l>
+<l>Boere <hi rend="spaced">Thjodretider</hi> Krone</l>
+<l>End som før i Daneland,</l>
+<l>For os spiller <hi rend="spaced">Danmarks Lykke</hi>.</l>
+</lg> 
+<pb facs="1864_1_page0009.png"/>
+<fw type="pageNum">9</fw>
+<lg>
+<l><hi rend="spaced">Thjodrek</hi>*) var "den <hi rend="spaced">Lykkelige</hi>"</l>
+<l>Konge-Fader til det Kuld,</l>
+<l>Som har styret Danmarks Rige</l>
+<l>Og er ei lagt under Muld,</l>
+<l>Mens et Skud er end ilive.</l>
+</lg>
+<lg>
+<l>Skud af <hi rend="spaced">Thjodreks</hi> Konge-Stamme!</l>
+<l>Navner til dens <hi rend="spaced">Førstemand</hi>!</l>
+<l>Danmarks Lykke er den samme</l>
+<l>Under hver dens <hi rend="spaced">Christian</hi>,</l>
+<l>Som sin Byrd vil ihukomme.</l>
+</lg>
+<lg>
+<l><hi rend="spaced">Thjodrek</hi> er paa <hi rend="spaced">Nordens</hi> Tunge</l>
+<l><hi rend="spaced">Folke-Drot</hi>, kom det ihu!</l>
+<l>Da skal Fremtids Skjalde sjunge:</l>
+<l><hi rend="spaced">Folke-Yndest</hi> har endnu</l>
+<l>Dane-Kongen til sin <hi rend="spaced">Storke</hi>!</l>
+</lg>
+<lg>
+<l>Kaldes skal da Konge-Fader,</l>
+<l>Med den første <hi rend="spaced">Christians</hi> Kaar:</l>
+<l>Dane-Lykkens Arvelader</l>
+<l>Giennem <hi rend="spaced">firehundred</hi> Aar,</l>
+<l>Du i Nord med <hi rend="spaced">Skjoldung</hi>-Rangen!</l>
+</lg>
+<p>*) Grev Diderik den <hi rend="spaced">Lykkelige af Oldenborg</hi>, Fader til Kong
+<hi rend="spaced">Christian den Første i Danmark</hi>.</p>
+<fw type="graphic"/>
+</div>
+<div> 
+<pb facs="1864_1_page0010.png"/>
+<fw type="pageNum">10</fw>
+<head>Mindesang</head>
+<head>den 19de December 1863.</head>
+<fw type="graphic"/>
+<head>Mel. Tag det sorte Kors fra Graven.</head>
+<lg>
+<l><hi rend="initial">S</hi>om sin Hjord paa Mark og Hede</l>
+<l>Hyrden vogter med Forstand,</l>
+<l>Saa de ægte Konger lede</l>
+<l>Folke-Mængden trindt om Land;</l>
+<l>Tidens Tegn de agte paa,</l>
+<l>Vogte fremfor alt de Smaa,</l>
+<l>Sørge for, de sig kan nære,</l>
+<l>Føle, her er godt at være.</l>
+</lg>
+<lg>
+<l>Han, som alting har at raade,</l>
+<l>Fremfor alle mild og god,</l>
+<l>Giver Konger af sin Naade,</l>
+<l>Naar vi falde ham til Fod;</l>
+<l>Hyrder efter Hjerte Hans</l>
+<l>Veile til den Hæderskrands,</l>
+<l>Som ei visner hen med Lovet,</l>
+<l>Som ei smuldrer hen i Støvet.</l>
+</lg> 
+<pb facs="1864_1_page0011.png"/>
+<fw type="pageNum">11</fw>
+<lg>
+<l><hi rend="spaced">Danmark</hi> er kun lav og lille,</l>
+<l>Fiendevold og Fare nær,</l>
+<l>Haabet har paa Gud faa stille</l>
+<l>Neppe noget Folkefærd,</l>
+<l>Derfor Gud i Naade saae</l>
+<l>Fra det Høie til de Smaa,</l>
+<l>Bedre Hyrder under Solen</l>
+<l>Neppe sad paa Konge-Stolen.</l>
+</lg>
+<lg>
+<l>Hjorden sorger for sin Hyrde,</l>
+<l><hi rend="spaced">Danmark</hi> for sin <hi rend="spaced">Frederik</hi>,</l>
+<l>Sunket under Kronens Byrde</l>
+<l>Vensæl han til Hvile gik,</l>
+<l>Men det Folk, han Frihed gav,</l>
+<l>Fælder Taarer ved hans Grav -</l>
+<l>Giør dog, Gud, som af Guld-Aarer,</l>
+<l>Dem i Naade til Guld-Taarer!</l>
+</lg>
+<lg>
+<l>Folket i hans første Dage</l>
+<l>Tømde ud en bitter Skaal:</l>
+<l>Krig og Pest som Landeplage,</l>
+<l>Skiændsel for vort Modersmaal;</l>
+<l>Atter truer Fienden gram,</l>
+<l>Byder Danmark Spot og Skam,</l>
+<l>Vil ei Himlen os beskytte,</l>
+<l>Fædres Land er Fiendens Bytte.</l>
+</lg> 
+<pb facs="1864_1_page0012.png"/>
+<fw type="pageNum">12</fw>
+<lg>
+<l>Men vor Gud, Du er den Samme,</l>
+<l>Danmarks Trøst fra Slægt til Slægt;</l>
+<l>Giør de Snildes Raad tilstamme!</l>
+<l>Tag os i din Varetægt!</l>
+<l>Folkets Røst i Danevang,</l>
+<l>Smeltende i Takkesang,</l>
+<l>Lad den melde over Bjerge:</l>
+<l>Gud er Danmarks Lande-Værge!</l>
+</lg>
+<lg>
+<l>Storke sin i <hi rend="spaced">Kiærligheden</hi></l>
+<l>Folke-Drotten <hi rend="spaced">Fredrik</hi> fandt,</l>
+<l>Dem, som os misundte Freden,</l>
+<l>Seierrig han overvandt;</l>
+<l><hi rend="spaced">Fred og Frihed</hi> i vort Land</l>
+<l>Blomstre under <hi rend="spaced">Christian</hi>!</l>
+<l>Giv os, Gud, i Fryd og Smerte,</l>
+<l><hi rend="spaced">Konger</hi> efter <hi rend="spaced">Folkets</hi> Hjerte!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div> 
+<pb facs="1864_1_page0013.png"/>
+<fw type="pageNum">13</fw>
+<head>Mindetale.</head>
+<p><hi rend="initial">D</hi>u, den eneste sande Gud, Himmelens og Jordens Skaber, Vorherres Jesu Christi og vor himmelske Fader! vi takker dig paa vore egne og paa hele det danske Folks Vegne, for den folkelige og frisindede Konge, hvis Død er en Landesorg, og for hele den milde Herrestamme, som med ham lægges i Graven! Herre, bliv ved i Naade at skiænke det mest barmhjertige, milde og fredelige Verdens-Folk, Konger efter dit og Folkets Hjerte, faa de maae elskes i Livet, begrcrdes i Døden og velsignes i Eftermælet, som Kong Frederik den Syvende, der idag stædes til Jorde. Fred med hans Støv! Fred over Folket og Riget! i Vorherres Jesu Christi Navn: Fader vor, Du, som er i Himlene!</p>
+<p>Ps. 46.</p>
+<p>Gud er vor Kraft og vor Tilflugt under de svære Trængsler, som mødte os, lad os derfor ikke frygte, om end Jorden skiælvede og Bjergene bevægede sig i Havstokken, om end Vandene oprøres og bruser og Bjergene med al deres Styrke bæver.</p>
+<p>Christne Venner! Ligesom det hos Kong <hi rend="spaced">David</hi> og alle de hellige Sangere kun var Guds Børn og Guds Folk paa 
+<pb facs="1864_1_page0014.png"/>
+<fw type="pageNum">14</fw>
+Jorden, der kunde trøste sig ved Gud, hans Kraft og Tilflugt, under al Verdens Bulder og Tidernes farlige Omskiftelser, saaledes er det følgelig ogsaa hos os <hi rend="spaced">Christne kun Herrens Folk</hi>, der af Hjertens Grund kan stole paa hans almægtige Beskyttelse, og kun hans Huus og Rige paa Jorden, som vi er visse paa, han vil bevare og beskiærme, om end Jorden gik som et Lagen, og om end Bjergene med al deres Styrke reves los af Bølgerne, som vi jo veed, det skal skee engang, naar Havet og Vandbølgerne bruse, og Folkene daane i Forfærdelse for hvad der skal times.</p>
+<p>Naar vi derfor i denne Verdens Riger og Hedninge-Lande opkaldes til at udtale Tryghed under Herrens Vinger til Trøst for et Verdens-Folk, over dets Landesorg og til dets Opmuntring under truende Farer, da maa vi jo betænke os to Gange, for hverken at lyve Herren paa, eller at skuffe Folket med en falsk Trøst og tomme Lofter, men da det er det milde, fredelige danske Folks Landesorg ved en kiær Konges Baare, og er det gamle <hi rend="spaced">Danmarks Rige </hi>under overhængende Farer for dets Fred og Frihed, som vi her har for Øie, faa kan vi Gud skee Lov! med en god Samvittighed i Herrens Navn tilbyde dette Folk al den Trøst under deres Sorg og al den Beroligelse over truende Farer, som de kan og vil modtage.</p>
+<p>Ja, Christne Venner! det danske Folk sorger jo i disse Dage over Tabet af en folkelig Konge, som gav dem borgerlig <hi rend="spaced">Frihed og Ligelighed</hi>, og over Savnet af den milde Herrestamme, som i hele sire Aarhundreder bar Danmarks Krone, men uddøde nu med ham, der uformodenlig henreves endnu i Kraftens Aar; men vi har den Trøst at byde, at den Himmelens og Jordens Gud, som indsætter og afsætter 
+<pb facs="1864_1_page0015.png"/>
+<fw type="pageNum">15</fw>
+Konger, og som giennem faa mange Slægter har viist, han undte Danmark de Bedste, Han raader endnu og skifter ikke Sind, saa at vil kun det danske Folk troe Ham dertil, da vil Han fremdeles skiænke dem de bedste Konger, de kan taale, og som deres Fiender skal misunde dem; og hvad navnlig den borgerlige <hi rend="spaced">Frihed</hi> angaaer, da, naar de kun vil skiønne paa den og dele den med Herrens Discipler og Tjenere, som lever fredelig og folkelig iblandt dem, da kan de være visse paa, at den Herre, hvis Aand er Frihedens, ikke blot vil hævde dem den kongelige Gave, men vil byde sine Venner, som veed, at al aandelig og menneskelig Frihed er Herren behagelig og hans Rige tjenlig, at de skal oplyse det danske Folk bedre end noget andet Folk om den bedste Maade at bruge og bevare Friheden paa.</p>
+<p>Og seer vi nu hen til den overhængende Fare, som truer det lille Danmarks Rige, at opsluges eller trælbindes af deres talrige, herskesyge og stridbare Nabofolk, da kan og skal vi først og fremmerst, opmuntre det lille danske Folk ved Mindet om, at egenlig har den samme Fare truet det lille Kongerige ved Belt og Sund, lige siden det blev stiftet, vel for to Aartusinder siden, saa Riget kunde umuelig være blevet det ældste i Verden, dersom ikke den Almægtige havde selv været dets bedste Landeværge, som Han. jo ogsaa, til Verdens Forundring, viste sig at være i den nys hensovne Konges første Aar, da Faren fra den samme Side var ligesaa overhængende, og Riget endnu klarere syntes overladt til den sørgeligste Skiæbne, at falde i ubarmhjertige Fienders Vold.</p>
+<p>Ja, m. V. det er jo saa kort siden, at vi, saa at sige 
+<pb facs="1864_1_page0016.png"/>
+<fw type="pageNum">16</fw>
+alle, selv har været Vidne dertil, hvorledes Himlens Gud siensynlig holdt sin Haand over det lille Danmark, først og fremmerst ved at indskyde det ellers let mistrøstige Folk et Heltemod, som forbausede Verden, og dernæst ved at skiænke de Uøvede glimrende Seier og sjelden Lykke. Vi kan da slet ikke tvivle om, at Herren jo ogsaa nu vil skiænke det lille danske Folk samme Heltemod og samme Lykke, og det saameget des vissere, som vi fole, at Danmark ikke blot er det af alle Hedning-Lande, hvor Vorherres Jesu Christi Evangelium giennem et heelt Aartusinde har fundet den bedste Fred og nu har vundet den største <hi rend="spaced">Frihed</hi>, men at derfor vil Herren her mensynlig oplive og oplyse sin Menighed, som det kun kan skee i Fred og Frihed og i venligt Samfund med det milde, fredelige Folk, hvis <hi rend="spaced">Tungemaal</hi> er det <hi rend="spaced">menneskelige Hjertesprog</hi>, som <hi rend="spaced">Evangeliet</hi>, der er det <hi rend="spaced">guddommelige Hjertesprog</hi>, har laant og vil ikke undvære, saa at naar Herren forsvarer Danmarks Sag, da forsvarer han med det samme sin egen.</p>
+<p>Ligesom da Gud under den forrige farefulde Krig, giennem en kiærlig Kongehaand skiænkede det danske Folk, og sine Discipler iblandt dem, den uskyldige, men dyrebare <hi rend="spaced">Ordets</hi> og <hi rend="spaced">Troens</hi> Frihed, som hardtad allevegne savnes, saa vil han sikkert under denne skiænke det lille Danmark den <hi rend="spaced">livsalige Fred</hi>, baade indad og udadtil, som næsten hele den øvrige Verden maa fattes, fordi Ingen vil nøies med sit Eget og med Himlens Velsignelse. Ja, denne livsalige Fred vilde Gud aabenbar alt ved den forrige seierrige Krig have skiænket Danmark tilligemed Friheden, dersom Kongen og Folket ret vilde nøiedes med at nyde den inden Rigets gamle 
+<pb facs="1864_1_page0017.png"/>
+<fw type="pageNum">17</fw>
+Grændser, men de vilde den Umuelighed, baade at nyde <hi rend="spaced">Fred og Frihed</hi> paa deres Enemærker, og dog have <hi rend="spaced">borgerligt Fællesskab</hi> med Brudstykker af et fremmed og fiendligt Folk, og derfor maatte Faren og Ulykken vende tilbage, men Han, som har baade Kongernes og Folkenes Hjerter i sin Haand, Han vil sikkert nu, naar de raabe til Ham i deres Angest, bøie dem i Naade til at lade alt det Fremmede, som er deres Ulykke, fare, for at Herren klarlig kan vise dem. hvilken mageløs Lykke der følger Guds og deres Eget, og hvilken rig Velsignelse i <hi rend="spaced">Fred</hi> og <hi rend="spaced">Frihed</hi> Himlen og Jorden og Havet har i Giemme til dem.</p>
+<p>Ja, m. V. det er et gammelt Prophetisk Ord, der maa opfyldes i Norden saavelsom i Østen, at ethvert Folk, som i deres Eiendoms-Land tjener de Fremmedes Afguder, de skal trælle for de Fremmede i et Land, som ikke er deres, (Jer. 5) og det lille spagfærdige danske Folk, der ikke tør stole paa sig selv eller vil forgude sit Eget, har længe ladet sig lokke og true til at stole paa de <hi rend="spaced">Fremmedes</hi> og især deres bittreste Fienders Afguder, ved at bøie Knæ for deres Kraft og Mod, Klogskab og Viisdom, og forgude deres Tungemaal, og naar denne aandelige Trældom ikke afbrydes, da kan ingen Fædernelands-Kiærlighed, ingen Lykke eller Seier, forhindre den fuldstændige Trældom fra at følge derpaa.</p>
+<p>Dette er igrunden den eneste Fare og Ulykke, som truer Danmarks Rige, saa at naar kun Folket med Guds Hjælp river sig los fra denne folkefiendske Afgudsdyrkelse og vil nøies med Guds gode Gaver indvortes og udvortes, da 
+<pb facs="1864_1_page0018.png"/>
+<fw type="pageNum">18</fw>
+tør vi love dem i Herrens Navn, at ikke blot skal deres nærværende Sorg omvendes til Glæde og Faren til Glands, men at da vil der times dem en <hi rend="spaced">folkelig</hi> Gienfødelse, Oplysning og Udvikling, der vil giøre Danmarks Lykke til et endnu langt større Særsyn og Vidunder paa Jorden, end vi kan skiønne, den har været engang i de ældgamle Fredegods-Dage. Amen! i Vorherres <hi rend="spaced">Jesu</hi> Navn Amen!</p>
+<fw type="graphic"/>
+</div>
+<div> 
+<pb facs="1864_1_page0019.png"/>
+<fw type="pageNum">19</fw>
+<head>Danmarks Guld-Alder og Gylden-Aar.</head>
+<lg>
+<l><hi rend="initial">D</hi>en <hi rend="spaced">Danske</hi> Guld-Alder</l>
+<l>Med <hi rend="spaced">Frode</hi> og <hi rend="spaced">Balder</hi></l>
+<l>Oprandt og forsvandt,</l>
+<l>Som Paradis-Minder</l>
+<l>Hos Børn og hos Kvinder</l>
+<l>Man finder og fandt.</l>
+</lg>
+<lg>
+<l>Da som af Guld-Aarer</l>
+<l>Udstrømmed Guld-Taarer</l>
+<l>Med Glæden i Pagt;</l>
+<l>Da skjaldrede <hi rend="spaced">Hjarne</hi>,</l>
+<l>Da malede Kværne</l>
+<l>Omkap i Guld-Takt!</l>
+</lg>
+<lg>
+<l>Da Talerne førtes,</l>
+<l>Da Hjerterne rørtes</l>
+<l>I <hi rend="spaced">Frihed og Fred</hi>,</l>
+<l>Og Idrætten øvet</l>
+<l>Sprang ud som Mai-Løvet</l>
+<l>I frist Yndighed!</l>
+</lg> 
+<pb facs="1864_1_page0020.png"/>
+<fw type="pageNum">20</fw>
+<lg>
+<l>Da Agerreens-Fuglen*)</l>
+<l>I Sky stak om Julen,</l>
+<l>Sang Soel-Hverven ind;</l>
+<l>Hvidhaaret Skjalde</l>
+<l>Sang yndigst af Alle</l>
+<l>Om Guld-Hjcernespind!</l>
+</lg>
+<lg>
+<l>For <hi rend="spaced">Kvinden</hi> som Haven</l>
+<l>Da blomstrede Graven</l>
+<l>Med Rosen-Flor hvid,</l>
+<l>Af Nord-Lys opflammet</l>
+<l>Goel Hanen guldkammet</l>
+<l>For Guld-Morgentid!</l>
+</lg>
+<lg>
+<l>Trods Hjerter og Løver,</l>
+<l>En Hex og en Røver</l>
+<l>Da mødtes paa Val;</l>
+<l>Den Danske Guld-Alder</l>
+<l>Med Livet af <hi rend="spaced">Balder</hi></l>
+<l>Og <hi rend="spaced">Frode</hi> de stjal.</l>
+</lg>
+<lg>
+<l>Det Ypperste siden</l>
+<l>Var <hi rend="spaced">Valdemars</hi>-Tiden</l>
+<l>Som Kobber mod Guld;</l>
+<l>Og under Staal-Skæren</l>
+<l>Blev Livet og Æren</l>
+<l>Tværpløiet som Muld.</l>
+</lg>
+<p>*) Mark-Lcerken.</p>
+ 
+<pb facs="1864_1_page0021.png"/>
+<fw type="pageNum">21</fw>
+<lg>
+<l>Tilsidst stod dydsiret</l>
+<l>I Krands paa Papiret</l>
+<l>Kun Skygge og Skin</l>
+<l>Af Aanden, af Guldet,</l>
+<l>Af Hjertet, af Muldet,</l>
+<l>Af Veir og af Vind!</l>
+</lg>
+<lg>
+<l>Som Lyset, faa Skyggen,</l>
+<l>Som Lykken, Ulykken</l>
+<l>Dog ogsaa forgaaer,</l>
+<l>Mod Tidernes Ende</l>
+<l>Med <hi rend="spaced">Fredriker</hi> tvende</l>
+<l>Fik Danmark <hi rend="spaced">Nytaar</hi>!</l>
+</lg>
+<lg>
+<l>Til Dan-Markens Slette</l>
+<l>Den gamle Land-Vætte</l>
+<l>Kom tidligst igien;</l>
+<l>Dog længe miskiendte,</l>
+<l>Ei længer ivente,</l>
+<l>Dan-Marken sin Ven!</l>
+</lg>
+<lg>
+<l>Med <hi rend="spaced">Fredrik</hi> den <hi rend="spaced">Sjette</hi></l>
+<l>Kom hjem vor Land-Vætte,</l>
+<l>Til seent Gylden-Aar</l>
+<l>For Hjerter og Tunger,</l>
+<l>Nyfødte Skjoldunger,</l>
+<l>Med <hi rend="spaced">Fredegods</hi>-Kaar!</l>
+</lg> 
+<pb facs="1864_1_page0022.png"/>
+<fw type="pageNum">22</fw>
+<lg>
+<l>Det mærked ei Mange</l>
+<l>Paa Skjaldenes Sange,</l>
+<l>Som Fugles i Lund,</l>
+<l>Der indvortes gløde</l>
+<l>Af nær Morgenrode,</l>
+<l>Med Soel-Guld i Mund!</l>
+</lg>
+<lg>
+<l>Fra Klinter og Skove,</l>
+<l>Vidtud over Vove</l>
+<l>Gienlød mangefold</l>
+<l>Dog Draper og Kvæder</l>
+<l>Til Høinordens Hæder,</l>
+<l>Som under Kong <hi rend="spaced">Skjold</hi>.</l>
+</lg>
+<lg>
+<l>Ja, Skjoldunge-Sangen,</l>
+<l>Fra Old-Danevangen</l>
+<l>Og Nord-Havets Bund,</l>
+<l>Opdukked i <hi rend="spaced">Beltet</hi></l>
+<l>Og lød sammenstmeltet</l>
+<l>Med Fugles i Lund!*)</l>
+</lg>
+<lg>
+<l>Den spaaed, at Skibet</l>
+<l>Med Lykken aflivet,</l>
+<l>Med Liget af <hi rend="spaced">Skjold</hi>,</l>
+<l>Med Liv kom tilbage,</l>
+<l>Med <hi rend="spaced">Skjold</hi> op ad Dage,</l>
+<l>Trods <hi rend="spaced">Issefjords</hi> Trold.</l>
+</lg>
+<p>*)Bjovulfs-Drapen.</p>
+<pb facs="1864_1_page0023.png"/>
+<fw type="pageNum">23</fw>
+<lg>
+<l>Den spaaed, at Sorgen</l>
+<l>For Kongen og Borgen,</l>
+<l>Med Trolddom forgjort,</l>
+<l>Dog slukkes og dæmpes,</l>
+<l>Naar Seiren tilkæmpes</l>
+<l>Med Heltemod stort!</l>
+</lg>
+<lg>
+<l>Af Nordlys opflammet,</l>
+<l>Saa Hanen guldkammet</l>
+<l>I Dan-Marken goel,</l>
+<l>Og hilsed i Mørke</l>
+<l>Med Røsten i Ørke</l>
+<l>Den ventede Soel!</l>
+</lg>
+<lg>
+<l>I Skoven det knaged,</l>
+<l>Og Luerne braged</l>
+<l>Paa Hav og i Vang,</l>
+<l>I Skiærsild blev prøvet,</l>
+<l>Men ei overdøvet</l>
+<l>Den sære Guld-Sang!</l>
+</lg>
+<lg>
+<l>Guld-Sang fra Livs-Kilden,</l>
+<l>Udluttret i Ilden,</l>
+<l>Forklaret opstaaer,</l>
+<l>Og krones som <hi rend="spaced">Hjærne</hi></l>
+<l>Med Navn af <hi rend="spaced">Dag-Stjerne</hi></l>
+<l>I Aands-<hi rend="spaced">Gyldenaar</hi>!</l>
+</lg> 
+<pb facs="1864_1_page0024.png"/>
+<fw type="pageNum">24</fw>
+<lg>
+<l>Paa <hi rend="spaced">Fredrikers</hi> Liste</l>
+<l>Den <hi rend="spaced">Syvende</hi>, Sidste,</l>
+<l>Som Stam-Træets Top,</l>
+<l>Saaes luende gløde</l>
+<l>I gylden Dag-Røde,</l>
+<l>Da Solen stod op!</l>
+</lg>
+<lg>
+<l>Ja, Gyldenaars-Solen</l>
+<l>Da <hi rend="spaced">Folke-Drotstolen</hi></l>
+<l>Omstraaled med Glands;</l>
+<l>Som Rugen og Hveden</l>
+<l>Opvoxde paa Heden</l>
+<l>Idrætternes Krands!</l>
+</lg>
+<lg>
+<l>Ved Sund og ved Belte</l>
+<l>Opdukkede Helte</l>
+<l>Med Øine havblaa,</l>
+<l>Med <hi rend="spaced">Bøndernes</hi> Mæle,</l>
+<l>Med <hi rend="spaced">Heltenes</hi> Sjæle</l>
+<l>I Brynier graa!</l>
+</lg>
+<lg>
+<l>De stormede Skandser,</l>
+<l>Som <hi rend="spaced">Alferne</hi> dandser</l>
+<l>I maaneklar Nat;*)</l>
+<l>Som for Meie-Reden</l>
+<l>Sank <hi rend="spaced">Tydsken</hi> paa <hi rend="spaced">Heden</hi>,</l>
+<l>I Solskinnet mat!</l>
+</lg>
+<p>*)Ved Frederits.</p>
+<pb facs="1864_1_page0025.png"/>
+<fw type="pageNum">25</fw>
+<lg>
+<l>Og paa <hi rend="spaced">Eider-Brynet</hi>*)</l>
+<l>Der havde man Synet,</l>
+<l>Ved Nat og ved Dag,</l>
+<l>Af hvad det betyder</l>
+<l>At tirre <hi rend="spaced">Kronjyder</hi></l>
+<l>Med Bulder og Brag!</l>
+</lg>
+<lg>
+<l>Da paa <hi rend="spaced">Danevirke</hi></l>
+<l>Som Bøg og som Birke</l>
+<l>Slog <hi rend="spaced">Dannebrog</hi> Rod,</l>
+<l>Og i Aften-Svale</l>
+<l>Kom liflig paa Tale</l>
+<l>Paany <hi rend="spaced">Danebod</hi>!**)</l>
+</lg>
+<lg>
+<l>Ja, Danebods-Visen</l>
+<l>For alle bar Prisen</l>
+<l>Den <hi rend="spaced">Thorsdag</hi> i Kvæld,</l>
+<l>Da Daneværks-Leiren</l>
+<l>Med Dannebrogs-Seiren</l>
+<l>Gienlød af "<hi rend="spaced">Hilsæl</hi>!"</l>
+</lg>
+<lg>
+<l>Thi Bod faaer kun <hi rend="spaced">Daner</hi></l>
+<l>Paa blodige Baner</l>
+<l>For Sorg og for Saar,</l>
+<l>Paa Borg og i Hytte,</l>
+<l>Med <hi rend="spaced">Freden</hi> til Bytte</l>
+<l>I glad Gyldenaar!</l>
+</lg>
+<p>*) I Frederiksstad. **) Aftenen efter Isted-Slaget.</p>
+<pb facs="1864_1_page0026.png"/>
+<fw type="pageNum">26</fw>
+<lg>
+<l>Vel <hi rend="spaced">Freden</hi> de vunde</l>
+<l>Endnu ingenlunde</l>
+<l>For Ret og for Skiel,</l>
+<l>Men <hi rend="spaced">Skiellet</hi> de fatte</l>
+<l>Og lærde at skutte</l>
+<l>Med <hi rend="spaced">Thyras</hi> Hilsæl!</l>
+</lg>
+<lg>
+<l>Og bag deres Skjolde,</l>
+<l>Old-Danskernes Volde,</l>
+<l>Opvoxde i Læ,</l>
+<l>Til Dan-Markens Ære</l>
+<l><hi rend="spaced">Guld-Æbler</hi> at bære,</l>
+<l><hi rend="spaced">Livs-Frihedens</hi> Træ!</l>
+</lg>
+<lg>
+<l>Gienløserens Kirke</l>
+<l>Som Guds Danevirke</l>
+<l>Nu toner sit Flag,</l>
+<l>Derefter korsbanner</l>
+<l>Sig Danmarkens Banner</l>
+<l>Paa Seierens Dag!</l>
+</lg>
+<lg>
+<l>Nu Gyldenaars-Solen</l>
+<l>Indskyder i Skolen</l>
+<l>Nyt Lys og nyt Liv;</l>
+<l>Grav-Lamperne slukkes,</l>
+<l>Livs-Bogen oplukkes</l>
+<l>For Mand og for Viv!</l>
+</lg> 
+<pb facs="1864_1_page0027.png"/>
+<fw type="pageNum">27</fw>
+<lg>
+<l>Da Himlen og Jorden</l>
+<l>Giør Pagt i Høinorden</l>
+<l>Om <hi rend="spaced">Frihed og Fred</hi>,</l>
+<l>Og Menneske-Livet,</l>
+<l>Af Soelglands omgivet,</l>
+<l>Opblomstrer derved!</l>
+</lg>
+<lg>
+<l>Kun bort med <hi rend="spaced">Høi-Tydsken</hi>!</l>
+<l>Kun op med <hi rend="spaced">Høi-Iydsken</hi></l>
+<l>I Sønder og Nor,</l>
+<l>Med <hi rend="spaced">Livet</hi> igrunden,</l>
+<l>Med Livet i Munden,</l>
+<l>Paa Tungen som før!</l>
+</lg>
+<lg>
+<l>Som Helvedes Porte</l>
+<l>End Skyer kulsorte</l>
+<l>Omleire vor Soel,</l>
+<l>Ei Marken til Glæde</l>
+<l>Kom <hi rend="spaced">Disen</hi> til Sæde</l>
+<l>Paa Dronninge-Stol.</l>
+</lg>
+<lg>
+<l>Men selv bar vi Skylden,</l>
+<l>Thi Soelstraale-Fylden</l>
+<l>Vil bryde hver Sky,</l>
+<l>Naar Disen beklæde</l>
+<l>Kun maa sit Høisæde</l>
+<l>Som hyldet paany.</l>
+</lg> 
+<pb facs="1864_1_page0028.png"/>
+<fw type="pageNum">28</fw>
+<lg>
+<l><hi rend="spaced">Livs-Ordet</hi> er Solen,</l>
+<l>Og Dronninge-Stolen</l>
+<l>Er <hi rend="spaced">Tungen</hi> ildrod,</l>
+<l>Den Soel paa Høisæde</l>
+<l>Er Dan-Markens Glæde</l>
+<l>Og Tydskhedens Død.</l>
+</lg>
+<lg>
+<l>Bogstaver selvgjorte</l>
+<l>Er Skyer kulsorte</l>
+<l>For Tungernes Soel,</l>
+<l>Som Bogen og Bindet,</l>
+<l>Papiret og Skindet</l>
+<l>Forsmaaer til sin Stol!</l>
+</lg>
+<lg>
+<l>Kun Tunger ildrøde</l>
+<l>Og Læber kyssøde,</l>
+<l>I frit Aandedræt,</l>
+<l>Er Dronninge-Stolen</l>
+<l>For <hi rend="spaced">Folkelivs-Solen</hi></l>
+<l>Af Gudernes Æt!</l>
+</lg>
+<lg>
+<l>Kun <hi rend="spaced">Aande har Aanden</hi></l>
+<l>Hos Lilie-Vaanden</l>
+<l>I Tungernes Ord,</l>
+<l>Og <hi rend="spaced">Aand er Livs-Kraften</hi></l>
+<l>Fra Morgen til Aften,</l>
+<l>Halv-Guden paa Jord!</l>
+</lg>
+<p>*) Stærkodder.</p>
+<pb facs="1864_1_page0029.png"/>
+<fw type="pageNum">29</fw>
+<lg>
+<l>Naar <hi rend="spaced">Dansken</hi> ei throner</l>
+<l>Med hjemfødte Toner</l>
+<l>Og Fædrenes Aand,</l>
+<l>Med Tungen er Aanden</l>
+<l>Hos Lilie-Vaanden</l>
+<l>I Bast og i Baand.</l>
+</lg>
+<lg>
+<l>Skiøndt Storværks-Idrætter</l>
+<l>Et Folk kun udretter</l>
+<l>Med <hi rend="spaced">Mund</hi> og med <hi rend="spaced">Haand</hi>,</l>
+<l>Af Haanden i Munden</l>
+<l>Er Armod i Grunden,</l>
+<l>Som Ord uden <hi rend="spaced">Aand</hi>;</l>
+</lg>
+<lg>
+<l>Men altid med Aanden</l>
+<l>Af <hi rend="spaced">Munden i Haanden</hi></l>
+<l>Udspringer <hi rend="spaced">Storværk</hi>,</l>
+<l>Sig selv Værger Tungen,</l>
+<l>Og Marken <hi rend="spaced">Skjoldungen</hi></l>
+<l>Som <hi rend="spaced">Odderen stærk</hi>!*)</l>
+</lg>
+<lg>
+<l>Ei Haanden med Sværdet</l>
+<l>Tilgavns lukker Giærdet</l>
+<l>For deiligste Vang,</l>
+<l>Naar ei Dronning <hi rend="spaced">Thyre</hi></l>
+<l>Mon Hjerterne styre</l>
+<l>Og Tungernes Gang.</l>
+</lg> 
+<pb facs="1864_1_page0030.png"/>
+<fw type="pageNum">30</fw>
+<lg>
+<l>Os lidt det kun baader,</l>
+<l>Naar <hi rend="spaced">Tydskheden</hi> raader</l>
+<l>For Tunge og Pen,</l>
+<l>Om Tydsken med Sværdet</l>
+<l>Til Daneværks-Gicrrdet</l>
+<l>Kom aldrig igien.</l>
+</lg>
+<lg>
+<l>Vi <hi rend="spaced">Døden</hi> kun værne,</l>
+<l>Naar <hi rend="spaced">Tydskernes Hjærne</hi></l>
+<l>Vi krone med Guld,</l>
+<l>Som sætter paa Noder</l>
+<l>Med Fryden, at <hi rend="spaced">Froder</hi></l>
+<l>Er lagt under Muld.</l>
+</lg>
+<lg>
+<l>Kun <hi rend="spaced">Danskernes</hi> Hjærne</l>
+<l>Som Livets Dag-Stjerne</l>
+<l>Kan kvæde med Lyst:</l>
+<l>Som Solen af Havet</l>
+<l>Staaer <hi rend="spaced">Frode</hi> begravet</l>
+<l>Dog op paa vor Kyst!</l>
+</lg>
+<lg>
+<l>Kun ham kan vort Hjerte</l>
+<l>Med Mjøden beværte,</l>
+<l>Saa Lyd-Hornets Klang*)</l>
+<l><hi rend="spaced">Ænherier</hi> vækker.</l>
+<l>Hvis Skjold-Borge dækker</l>
+<l>Den deiligste Vang.</l>
+</lg>
+<p>*)Heimdals Gjallerhorn.</p>
+<pb facs="1864_1_page0031.png"/>
+<fw type="pageNum">31</fw>
+<lg>
+<l>Her Vinter og Sommer</l>
+<l>Vel gaaer, som de kommer,</l>
+<l>Her alting forgaaer,</l>
+<l>Men mageløst findes,</l>
+<l>Evindelig mindes</l>
+<l>Skal vort Gyldenaar!</l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

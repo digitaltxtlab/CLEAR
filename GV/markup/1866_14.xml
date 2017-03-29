@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Dansk Kirketidende.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-26"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="014"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1866">1866</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1866_14_page0001.png"/>
+			<fw type="pageNum">361-362</fw>
+				<docTitle>
+	<titlePart type="main">Dansk Kirketidende.</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace></pubPlace>Trettende Søndag efter Trinitatis den 26de Avgast.<lb/>
+<fw type="graphic"/>
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<p>Indhold: N. F. S. Grundtvig: Ansaare-Trøsten. - N. Lindberg: Luthers Udlæggelse af den fjerde Bøn.
+(Sluttes). - Grundtvigs Højskole.</p>
+<fw type="graphic"/>
+</div>
+<div>
+<head>Ansgars-Trøsten¹)</head>
+<lg>
+<l>Øer, hører! Herren siger: hører,</l>
+<l>Hver, som Øren har at høre med!</l>
+<l>Ordet, Livets Ord han fører.</l>
+<l>Tom han vil og kan. til Tid og Sted,</l>
+<l>Og hvor Ordet føres,</l>
+<l>Og hvor Ordet høres,</l>
+<l>Der er Aand og Liv og Fred.</l>
+</lg>
+<lg>
+<l>Hører, Der i det Fjerne,</l>
+<l>I som lytted i det høie Nord,</l>
+<l>I. som hellere end gierne</l>
+<l>Hører Aandens, Livets, Fredens Ord!</l>
+<l>I det skal fornemme,</l>
+<l>Det hos mig har hjemme,</l>
+<l>Følger mine Sendebud.</l>
+</lg>
+<lg>
+<l>Hele tusind Nar tilbage</l>
+<l>Spaadoms-Ordet af en Seers Mund.</l>
+<l>I vor <hi rend="spaced">første</hi> Biskops Dage,</l>
+<l>Gienlød hos os i den grønne Lund;</l>
+<l><hi rend="spaced">Herrens</hi> Røst med <hi rend="spaced">Aanden</hi></l>
+<l>Hjertet, Liljevaanden,</l>
+<l>Fik at høre seent men sødt.</l>
+</lg>
+<lg>
+<l>Baaret som paa Lynilds-Vinger,</l>
+<l>Røsten, som et himmelsk <hi rend="spaced">Effata</hi>,</l>
+<l>Kom i Følge med Guds Finger.</l>
+<l>Kaldte frem et stort Halleluja;</l>
+<l>¹) <hi rend="spaced">See Esaias</hi> 49.</l>
+<l>Dret, giennemboret,</l>
+<l>Lukdes op for O'ret.</l>
+</lg>
+<lg>
+<l>I hvis Røst er Aand og Liv!</l>
+<l>Folke-Munden fik da Mæle,</l>
+<l>Folke-Tungen blev Guds-Aandens Tolk,</l>
+<l>Og af <hi rend="spaced">Danmarks</hi> Barne-Sjæle</l>
+<l>Skabde <hi rend="spaced">Jesus</hi> sig et udvalgt Folk:</l>
+<l>Christen-Menigheden,</l>
+<l>Kiær ad Hjerte-Freden,</l>
+</lg>
+<lg>
+<l>Tro og huld i Liv og Død.</l>
+<l>Øren hellere end gierne</l>
+<l>Laanes til Guds rige Naades Røst,</l>
+<l>Og ved Blink af Vestens Aften-Stjerne</l>
+<l>Skimtes Morgen-Rødens Guld i Øst</l>
+<l>Derfor Aften-Sangen</l>
+<l>Smelter hen i Klangen</l>
+</lg>
+<lg>
+<l>Af <hi rend="spaced">Guldkammens</hi> Hanegal!</l>
+<l>Hører, alle Folke-Stammer,</l>
+<l>Som fik Øren til at høre med!</l>
+<l>Fra det Stille Hjerte-Kammer</l>
+<l>Bryder mægtig ud, til Tid og Sted,</l>
+<l>Bryder ud i Tangen,</l>
+<l>Skaber Vaar i Vangen,</l>
+<l>Herrens Rost med Aand og Liv!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

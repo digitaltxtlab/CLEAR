@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Dansk Kirketidende,</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-24"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="013"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1845">1845</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1845_13_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Dansk Kirketidende,</titlePart>
+</docTitle>
+<byline>udgivet af<lb/>
+	<docAuthor>R. Th. Fenger og C. J. Brandt,<lb/>Candidater i Theologien.</docAuthor>
+				</byline>
+				<fw type="graphic"/>
+				<docEdition>1845  Nr. 3.<lb/>To og Tyvende Søndag efter Trinitatis, den 19. October.</docEdition>
+				<fw type="graphic"/>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Kirke-Klokken.</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">K</hi>irke-Klokke! mellem ædle Malme</l>
+<l>Mageløs er for mit Hjerte du,</l>
+<l>Vaagnet er ved dig en høitids-Psalme,</l>
+<l>Som gienlyder baglig i min Barm!</l>
+</lg>
+<lg>
+<l>Kirke-Klokke! ei til Hovedstæder</l>
+<l>Støbtes du, men til den lille By,</l>
+<l>Hvor det høres trindt, naar Barnet græder,</l>
+<l>Og inddysses bildt ved Vuggesang.</l>
+</lg>
+<lg>
+<l>Kirke-Klokke! Moderskiød for Klangen,</l>
+<l>Som er mig langt meer end Strængeleg,</l>
+<l>Toner dine kappedes om Rangen,</l>
+<l>For mit Øre tit og i min Barm.</l>
+</lg>
+<lg>
+<l>Mens som Barn paa Landet jeg var hjemme,</l>
+<l>Julemorgen var mit Himmerig,</l>
+<l>Den du meldte mig med Englestemme,</l>
+<l>Kimed klart den store Glæde ind.</l>
+</lg>
+<lg>
+<l>Høiere dog stemde dine Toner,</l>
+<l>Naar de med "den gyldne Soel frembrød,"</l>
+<l>Kimed: Støv! opreist er din Forsoner,</l>
+<l>Stat nu op i Paaske-Morgengry!</l>
+</lg>
+<lg>
+<l>Lavere de sprede deres Vinger,</l>
+<l>Sænke sig med Solen dybt i Hav,</l>
+<l>Naar for mig nu Aftenklokken ringer,</l>
+<l>Og jeg tæller dine Bedeslag.</l>
+</lg>
+<lg>
+<l>Listigt dog det klinger helst om Høsten,</l>
+<l>I den stille, svale Aftenstund;</l>
+<l>Giennem Jorderig gaaer Himmelrøsten,</l>
+<l>Kalder Sjælen til sin Hvile ind.</l>
+</lg>
+<lg>
+<l>Landet nu graahærdet kun jeg giæster,</l>
+<l>Og har hjemme, selv jeg veed ei, hvor;</l>
+<l>Dog paa Lysets Hjem min Hu sig fæster,</l>
+<l>Evig godt, jeg veed, er ene der.</l>
+</lg>
+<lg>
+<l>Derfor nu, naar Aftenklokken melder:</l>
+<l>Solen sank og Fuglen slumred ind, .</l>
+<l>Da mit Hoved jeg med Blomsten helder,</l>
+<l>Nynner sagte mellem Bedestag:</l>
+</lg>
+<lg>
+<l>Kirke-Klokke! naar tilsidst du lyder</l>
+<l>For mit Støv, skiøndt det dig hører ei,</l>
+<l>Meld da mine Kiære, saa det fryder:</l>
+<l>Han sov hen, som Soel i Høst gaaer ned!</l>
+</lg>
+<p><hi rend="align(right)"><hi rend="bold">N. F. S. Grundtvig</hi>.</hi></p>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Af Danneskjolds-Drapen</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2009-12-02"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="001"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1828">1828</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1828_1_page0001.png"/>
+			<fw type="pageNum">98</fw>
+				<docTitle>
+	<titlePart type="main">Af Danneskjolds-Drapen*)</titlePart>
+	<titlePart type="sub"><hi rend="italic">(Et Brud-Stykke.)</hi></titlePart>
+</docTitle>
+<byline>
+	</byline>
+	<epigraph>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<lg>
+<l><hi rend="initial">H</hi>er en Adels-Mand er jordet,</l>
+<l>Eenlig mellem Eeg og Bog!</l>
+<l>Hvem vil hore Klage-Ordet,</l>
+<l>Vande her en Blomster-Log :</l>
+<l>Vande den med Taarer milde,</l>
+<l>Saa den spire kan fuldbrat,</l>
+<l>Dufte sodt, og visne silde,</l>
+<l>Trodse Fimbulvinter-Nat?</l>
+</lg>
+<lg>
+<l>Han har ingen Seire vundet,</l>
+<l><hi rend="italic">Som </hi>besynges kan med <hi rend="italic">Bram,</hi></l>
+<l>Han har ingen Stæder grundet,</l>
+<l><hi rend="italic">Som </hi>kan nævnes efter ham,</l>
+<l>Han har intet Nyt opdaget,</l>
+<l><hi rend="italic">Som </hi>foreviger hans Navn,</l>
+<l>Hiin har ikke sogt, men vraget,</l>
+<l>Guld og Solv til eget Gavn!</l>
+</lg>
+<lg>
+<l>Mens, hvad nu har tabt sin Grode,</l>
+<l>Blomstrende paa Jord man saae,</l>
+<l>Medens Kinderne var rode,</l>
+<l>Medens Oinenc var blaa,</l>
+</lg>
+<p><hi rend="italic">*) Maa trykkes.	</hi>P. Ebehlin.</p>
+<pb facs="1828_1_page0002.png"/>
+<fw type="pageNum">99</fw>
+<lg>
+<l>Mens de rdrdc sig: med Varme,</l>
+<l>Hænderne som fryse nu,</l>
+<l>Fleer end Folk i Gylden-Karme</l>
+<l>Kom Grev <hi rend="italic">Danneskjold </hi>ihu!</l>
+</lg>
+<lg>
+<l>Men hvor mindes sledne Klæder,</l>
+<l>Meer end velfordoiet Brod!</l>
+<l>Hvor oprinde glemte Glæder,</l>
+<l>Ved at mindes Hjelp i Nod!</l>
+<l>Hvem bevæges sodt i Haven,</l>
+<l>Naar de Hvide flyve der!</l>
+<l>Hvem vil takke end i Graven</l>
+<l>For hvad Alle troe sig værd!</l>
+</lg>
+<lg>
+<l>Hvem vil slig en Jord-Drot love,</l>
+<l>Naar ei længer man ham seer:</l>
+<l>Naar for Guld og grønne Skove</l>
+<l>Gavmild han ei raader meer!</l>
+<l>Hvem vil rort til Skjalden lytte,</l>
+<l>Naar, som liden Fugl paa Kvist,</l>
+<l>Han i Sællands Boge-Hytte</l>
+<l>Synger om den Herre sidst!</l>
+</lg>
+<lg>
+<l>Det vil Ingen, som kun Oie</l>
+<l>Har for Guld og Glimmer-Værk,</l>
+<l>Ingen, som kun seer det Hoie</l>
+<l>Under Modig Brynje-Særk,</l>
+</lg> 
+<pb facs="1828_1_page0003.png"/>
+<fw type="pageNum">100</fw>
+<lg>
+<l>Kun det Store, hvor det steller,</l>
+<l>Kan det Stærke, hvor paa Trods,</l>
+<l>Til Beundrings-Gru det beller,</l>
+<l>Truende, som Fjeld og Foss!</l>
+</lg>
+<lg>
+<l>Det vil Ingen, som kun skuer</l>
+<l>Mand paa Holde, Hund paa Haar,</l>
+<l>Det vil Ingen, som kun luer,</l>
+<l>Naar ham Lyn og Torden slaaer ;</l>
+<l>Det Til Ingen, som ei ahner</l>
+<l>Meer end Stovets Oie saae;</l>
+<l>Det vil kun de milde <hi rend="italic">Faner,</hi></l>
+<l>Som for Godt kan Guld forsmaae!</l>
+</lg>
+<lg>
+<l>Ja, det vil kun Vaner milde,</l>
+<l>I hvis Ore bedre klang</l>
+<l>Elskovs-Vise og Host-Gilde,</l>
+<l>End al Verdens Glimmer-Sang ;</l>
+<l>Som, i Nordens dunkle Morgen,</l>
+<l>Da Hrimthurse-Drapen lod,</l>
+<l>Gik kun ind i Asa-Borgen,</l>
+<l>At begræde <hi rend="italic">Balders </hi>Dod !</l>
+</lg>
+<lg>
+<l>Kun hos dem gitir Hjertet Helte,</l>
+<l>Hjerte-Laget Ho i og Lav,</l>
+<l>Kun for dem er Sund og Belte</l>
+<l>Meer end hele Verdens Hav,</l>
+</lg> 
+<pb facs="1828_1_page0004.png"/>
+<fw type="pageNum">101</fw>
+<lg>
+<l>Kun for dem er Natter-Galen</l>
+<l>Fugle-Dronningen paa Jord,</l>
+<l>Kun for dem er Boge-Salen,</l>
+<l>Kun for dem er Sælland stor!</l>
+</lg>
+<lg>
+<l>Siger I: de er uddode,</l>
+<l>Hedengangne under Oe,</l>
+<l>I den sidste Aften-Rode,</l>
+<l>Som forgyldte Skov og So;</l>
+<l>End er Skjalden dog ei ene</l>
+<l>Om at love <hi rend="italic">Danneskjold:</hi></l>
+<l>Sangen fra hans Bauta-Stene</l>
+<l>Skal gienlyde mangefold!</l>
+</lg>
+<lg>
+<l>Ja, I Mui;e, som saa brave</l>
+<l>Trodsed Tidens Over-Vold,</l>
+<l>I, hvis dyhe Svane-Grave</l>
+<l>Tale hdit om Heden-Old,</l>
+<l>Store, klingre Bauta-Stene-,</l>
+<l>Over Stov af <hi rend="italic">Danneskjold !</hi></l>
+<l>Med min Sang sig skal forene</l>
+<l>Eders Gienlyd mangefold!</l>
+</lg>
+<lg>
+<l>Ja, thi under eders Glugge</l>
+<l>Banker Stovet hdit endnu,</l>
+<l>Over <hi rend="italic">Danneskjolders Vugge*,</hi></l>
+<l>Kommer levende ihu,</l>
+</lg> 
+<pb facs="1828_1_page0005.png"/>
+<fw type="pageNum">102</fw>
+<lg>
+<l>Hvad han var, som nu er jordet,</l>
+<l>Hvad den <hi rend="italic">Gyldenlove-Sm,</hi></l>
+<l>Aanden under Hjerte-Ordet,</l>
+<l>Virket har i Lys og Lon!</l>
+</lg>
+<lg>
+<l>Hun, som var hans Hjertes Glæde,</l>
+<l>Hun, som var hans Oie-Steen,</l>
+<l>Hun, som vugget har den spæde</l>
+<l>Natter-Gal paa Blomster-Green,</l>
+<l>Hun vei sidder, som i Graven,</l>
+<l>Bag de hole Mure hu,</l>
+<l>Stirrende paa Dodning-Haven,</l>
+<l>Under Smil med loulig Gru ;</l>
+</lg>
+<lg>
+<l>Dog hun eder vel skal lære</l>
+<l>At gientage Skjaldens Sang,</l>
+<l>Som, Grev <hi rend="italic">Danneskjold </hi>til Ære,</l>
+<l>Toner over Dane-Vang, -</l>
+<l>Og saalænge hun kan græde,</l>
+<l>Som en Engel under Slor,</l>
+<l>Duftende de Blomster spæde</l>
+<l>Groe paa Graven skal som Ror!</l>
+</lg>
+<lg>
+<l>Dog, skiondt Time-Glasset rinder</l>
+<l>Truende for <hi rend="italic">Freias </hi>Kuld,</l>
+<l>Vist i flere Danne-Kvinder</l>
+<l>Græder end hun Bølge-Guld,</l>
+</lg> 
+<pb facs="1828_1_page0006.png"/>
+<fw type="pageNum">103</fw>
+<lg>
+<l>Foder og, til Bod for Sorgen,</l>
+<l>Sikkert dog- i mangen Vraa,</l>
+<l>Alt som paa <hi rend="italic">Augusten-Borgen</hi></l>
+<l>Klarlig, Perle-Dottre smaa!</l>
+</lg>
+<lg>
+<l>Ei da skal paa Marken feile</l>
+<l>Blomsterne, jeg planter her,</l>
+<l>Morgen-Dugg til Taare-Speile,</l>
+<l>Perle-Glands i Aften-Skiær,</l>
+<l>Og hvor end, paa Yinter-Bo'lge,</l>
+<l>Sidste Daner stævne hen,</l>
+<l>Dem Kiærminderne skal følge,</l>
+<l>Til de plantes her igien!</l>
+</lg>
+<lg>
+<l>Her jeg sætter, som til Skove,</l>
+<l>Bogene fra Balders-Hag;</l>
+<l>Dandser paa den blanke Vove,</l>
+<l>Under <hi rend="italic">Glitners </hi>Solver-Tag,</l>
+<l>Muntert nu, Hav-Fruer spæde,</l>
+<l>Saa af eders Moders Sang:</l>
+<l>Hælvten Sorg, og Hælvten Glæde,</l>
+<l>Hores kan en Efter-Klang!</l>
+</lg>
+<lg>
+<l>Fra den gamle Odins^Alder,</l>
+<l>Over Tidens Bdlge-Gang,</l>
+<l>Toner Graaden over <hi rend="italic">Balder</hi></l>
+<l>End i Volas Gaade-Sang,</l>
+</lg> 
+<pb facs="1828_1_page0007.png"/>
+<fw type="pageNum">104</fw>
+<lg>
+<l>Toner som en Hjerte^Bølge,</l>
+<l>Under Nordens Aande-Pust,</l>
+<l>Giver mild sit Kæmpe-Følge</l>
+<l>Bod for Kulde, Glands for Rust!</l>
+</lg>
+<lg>
+<l>Ja, paa denne Hjerte-Bølge</l>
+<l>Bygget er den prude Borg,</l>
+<l>Faa hvis Grus sig ei maa dølge</l>
+<l>Gude-Folkets bittre Sorg;</l>
+<l>Thi kun Graad dens Grund beriger.</l>
+<l>Saa, af himmeldybe Væld,</l>
+<l>Straalende, igien opstiger</l>
+<l><hi rend="italic">Breida-Blik </hi>til Nordens Held!</l>
+</lg>
+<lg>
+<l>Due ! ja, det rar din Vinge,</l>
+<l>Som berorde let min Pen,</l>
+<l>Da igien den hordes klinge,</l>
+<l>Kaldte paa en savnet Ven:</l>
+<l>Ledte efter gyldne Suler,</l>
+<l>Og det blanke Solver-Tag,</l>
+<l>Under Skyggen, som nu skjuler</l>
+<l><hi rend="italic">Efter-Skin </hi>af <hi rend="italic">Balders-Hag!</hi></l>
+</lg>
+<lg>
+<l>Grandt nu seer jeg Gaade-Baandet,</l>
+<l>Mellem <hi rend="italic">Sams </hi>og <hi rend="italic">Gissel-Feld,</hi></l>
+<l>Blomster-Kiæden, som har aandet,</l>
+<l>Lig en Nat-Fiol i Kveld,</l>
+</lg> 
+<pb facs="1828_1_page0008.png"/>
+<fw type="pageNum">105</fw>
+<lg>
+<l>Duftede fra Glitnerr Haven</l>
+<l>End saa sodt i Efter-Aar,</l>
+<l>At jeg reiste mig i Graren,</l>
+<l>For at love lydt dens Kaar!</l>
+</lg>
+<lg>
+<l>Ja, det ligger nu udfoldet,</l>
+<l>Soin oprullet Pergament,</l>
+<l>Hvad af Mærkerne i Skjoldet</l>
+<l>Dunkelt for kun var bekiendt:</l>
+<l><hi rend="italic">Bre ida- Bliks </hi>og <hi rend="italic">Glitners </hi>Sage</l>
+<l>Aabner <hi rend="italic">Falhals </hi>skjulte Dor,</l>
+<l><hi rend="italic">Balders </hi>og <hi rend="italic">Forsetes </hi>Dage</l>
+<l>Aldrig saa jeg kiendte for!</l>
+</lg>
+<lg>
+<l>Sikkerlig, naar Jorden skjuler</l>
+<l>Oinene, som græde nu,</l>
+<l>Glitner-Borgens gyldne Suler</l>
+<l>Kommes skal paa Mark ihu,</l>
+<l>Terninglige Tider rinde,</l>
+<l>Tumling kaldes Lykkens Bold,</l>
+<l>Dog ho/i Daner ei af Minde</l>
+<l>Gaaer <hi rend="italic">Forsete-Danne skjold !</hi></l>
+</lg>
+<lg>
+<l><hi rend="italic">Samsoe! </hi>lav dig til at sjunge,</l>
+<l>Og udkvæd med Lyst i Kveld,</l>
+<l>Hvad paa Skjalde-Maal og Tunge</l>
+<l>Knytter dig til Gissel-Feld!</l>
+</lg> 
+<pb facs="1828_1_page0009.png"/>
+<fw type="pageNum">106</fw>
+<lg>
+<l>Hoienc sig brat oplade</l>
+<l>I et sælsomt Morgen-Gry!</l>
+<l>Kneise paa sit gamle Stade</l>
+<l>Bratting-Borgen rank i Sky!</l>
+</lg>
+<lg>
+<l>Havfru-Born, om end kun spæde,</l>
+<l>Bange for den stærke Stronit</l>
+<l>Dandse her I maae med Glæde,</l>
+<l>Mindes, som en Morgen-Drora,</l>
+<l>At hvor end med Rysnæs-Drenge</l>
+<l>Dandse Samsoe-Piger smaa,</l>
+<l>Altid rask i Munar-Vænge</l>
+<l>Maatte Havfru-Vuggen gaae!</l>
+</lg>
+<lg>
+<l>Mens end Vingerne var unge,</l>
+<l>Kiæk jeg over Fjeld mig svang,</l>
+<l>Hvad der tækkedes min Tunge,</l>
+<l>Uden Grubien frit jeg sang;</l>
+<l>Det forgiæves nu jeg prøver,</l>
+<l>Saa for mig, i S vane-Van g,</l>
+<l><hi rend="italic">Skjoldunger </hi>og <hi rend="italic">Gyldenlover</hi></l>
+<l>Stige kun ved Havfru-Sang!</l>
+</lg>
+<lg>
+<l>Som hin gamle <hi rend="italic">Samso-Bonde,</hi></l>
+<l>Halter jeg til Borge-Gaard,</l>
+<l>Kun naar giennem Havfru-Munde</l>
+<l>Bølgen selv om Balder spaaer,</l>
+</lg> 
+<pb facs="1828_1_page0010.png"/>
+<fw type="pageNum">107</fw>
+<lg>
+<l>Bølgen dyb, Som forberedte,</l>
+<l>Paa det store Brude-Par,</l>
+<l>(Helte-Christjan og Margrethe)</l>
+<l>Frederik og Valdemar!</l>
+</lg>
+<lg>
+<l>Dog, hvad huit fra Kirke-Svale,</l>
+<l>Over Dane-Kongers Stov,</l>
+<l>Tonede til Konge-Sale,</l>
+<l>Kiækt om Liv i Rosen-Lov,</l>
+<l>Hyad der over Dane-Vangen</l>
+<l>Klang om Vinter-Sæd i Liin,</l>
+<l>Leve skal i Minde-Sangen</l>
+<l>Om den bedste Konge-Son!</l>
+</lg>
+<lg>
+<l>Ja, skiondt gamle Danmarks Gaade :</l>
+<l>Saga-Sang i Mythe-Svob,</l>
+<l>Ingen uden <hi rend="italic">Han </hi>kan raade,</l>
+<l>Som forordned Tidens Lob,</l>
+<l>Aldrig skal dog Staven bryde"</l>
+<l>Over Hjertets Bølge-Leg,</l>
+<l>Hvordan end den skal udtyden,</l>
+<l>Fast det staaer, den aldrig sveeg!</l>
+</lg>
+<lg>
+<l>"Efter-Glands af Thabors Kierte</l>
+<l>"Glimter over Boge-Lund,</l>
+<l>"Og et Gran af Danmarks Hjerte</l>
+<l>"Skjalden fik til Harpe-Bund,</l>
+</lg> 
+<pb facs="1828_1_page0011.png"/>
+<fw type="pageNum">108</fw>
+<lg>
+<l>"I den Bund det sælsomt klinger.</l>
+<l>"Naar med sine Under-Vinger</l>
+<l>"Duen rorer Harpens Stræng!'*</l>
+</lg>
+<lg>
+<l>Saa jeg kvad i yngre Dage,</l>
+<l>Da den sidste Gaade-Mo,</l>
+<l>Aske-Daatterentil <hi rend="italic">Brage,</hi></l>
+<l>Jeg saae dale under Oe!</l>
+<l>Da af Odins Ravne-Galder</l>
+<l>Jeg forstod, ved Hornets Klang-,</l>
+<l>At hvad agtet blev for Skvalder,</l>
+<l>Var <hi rend="italic">Idunnas </hi>Aften-Sang!</l>
+</lg>
+<lg>
+<l>Jeg som <hi rend="italic">Haimdal </hi>gik med <hi rend="italic">Loke,</hi></l>
+<l>At udfritte Askens Mo,</l>
+<l>Om nu brat i Ragna-Roke</l>
+<l>Skulde Nordens Guder doe!</l>
+<l>Mens jeg grunded paa det Morke,</l>
+<l>Og paa fjerne Gammens-Kaar,</l>
+<l>Stjal mig Loke al min Storke,</l>
+<l>Gav med List mig Bane-Saar!</l>
+</lg>
+<lg>
+<l>Længe jeg med Loke sloges,</l>
+<l>Men mit Blod udrandt med Klang,</l>
+<l>Længe jeg med Doden droges.</l>
+<l>Men mit Aften-Suk var Sang:</l>
+</lg> 
+<pb facs="1828_1_page0012.png"/>
+<fw type="pageNum">109</fw>
+<lg>
+<l>Gienlyd af hvad f ddt i Vangen,</l>
+<l>Med en klinger Norne^Rost,</l>
+<l>I Idunna-Aftensangen,</l>
+<l>Tonede til Dane-Trttøt!</l>
+</lg>
+<lg>
+<l>Ja, den fulgde mig i Graven,</l>
+<l>Gaade-Klangen, liflig sod,</l>
+<l>Saa i Drom om Rosens Haven,</l>
+<l>Lidt kun ændsed jeg piin Dod,</l>
+<l>Og i Dane-Askesangen,</l>
+<l>(Been-Lyd under Saga-Stav)</l>
+<l>End man horde Efter-Klangen,</l>
+<l>Fra min aabne Skjalde-Grav!</l>
+</lg>
+<lg>
+<l>Hvad der trodser Dodens Kulde,</l>
+<l>Reiser selv sin Bauta-Steen,</l>
+<l>Tier end ei under Mulde,</l>
+<l>Lokker Klang af Dodning-Been;</l>
+<l>Udentvivl er fodt af Ægte,</l>
+<l>Og rodfæstet dybt i Vang,</l>
+<l>Saa umuelig nu fornægte</l>
+<l>Kan jeg min Hostgilde-Sang!</l>
+</lg>
+<lg>
+<l>Saae i <hi rend="italic">Danneskjolders </hi>Vaaben,</l>
+<l>Selv da j^g i Graveri éad$</l>
+<l>End jeg Vintej MÉJolgei Vaaben,</l>
+<l>For en Svane sommerglad;</l>
+</lg> 
+<pb facs="1828_1_page0013.png"/>
+<fw type="pageNum">110</fw>
+<lg>
+<l>Saae jeg da en Gyldenlove</l>
+<l>Stige op i Dane-Skjold;</l>
+<l>Saga-Varslet vel sin Prove</l>
+<l>Staaer endnu, som Old fra Old!</l>
+</lg>
+<lg>
+<l><hi rend="italic">Da </hi>paa Skjolde-Rand jeg tegned:</l>
+<l>"Ei gik Minde-Kierten ud,</l>
+<l>"Bævred Flammen end og blegned,</l>
+<l>Blussed op den atter prud,</l>
+<l>"Som, ved Straalen fra det Hoie,</l>
+<l>Lyset i <hi rend="italic">Lovises </hi>Oie!"</l>
+</lg>
+<lg>
+<l>Der han sjunket var i Graven,</l>
+<l><hi rend="italic">Samso-Jarlen, </hi>ædel, fiin,</l>
+<l>Der jeg reiste mig ved Staven,</l>
+<l>Underlig af Graven min;</l>
+<l>Der det <hi rend="italic">sidste Blad </hi>jeg vendte</l>
+<l>, I den Norske Konge-Bog,</l>
+<l>Jeg til <hi rend="italic">Jarle-Graven </hi>sendte</l>
+<l>Den, med Ord paa Skjalde-Sprog!</l>
+</lg>
+<lg>
+<l>JBog om gamle Gylden-Lover,</l>
+<l>"Odels-Mænd til Dovre-Fjeld!</l>
+<l>"Kun forgiæves end du tover</l>
+<l>"Med din Færd til Gissel-Feld;</l>
+<l>"Haanden, som du længdes efter,,;</l>
+<l>"Kom paa Jord ei meer til Kræfter,</l>
+<l>"Ligger isnet under Muld!</l>
+</lg> 
+<pb facs="1828_1_page0014.png"/>
+<fw type="pageNum">111</fw>
+<lg>
+<l>"Fly v da kun til Adels-Graven,</l>
+<l>"Som en vinget Bauta-Steen,</l>
+<l>"Far, og svæv, med Saga-Staven,</l>
+<l>"Over Gyldenlove-Been!</l>
+<l>"Dertil est du fodt og baaret,</l>
+<l>Og til Minde-Talen skaaret</l>
+<l>"Atter nu for Tunge-Baand!</l>
+</lg>
+<lg>
+<l>"Flyv, og svæv, og loft din Stemme,</l>
+<l>"Sua det toner over Lund:</l>
+<l>"Trindt i Norden jeg har hjemme,</l>
+<l>"Hvor en Ædling sank i Blund,</l>
+<l>"Som var, efter Saga-Proven,</l>
+<l>"Ægte Son af <hi rend="italic">Gylden-Loven,</hi></l>
+<l>"Jeg mon fore i mit Skjold!</l>
+</lg>
+<lg>
+<l>"Iet var han, som her mon hvile:</l>
+<l><hi rend="italic">Christjan Sophus Danneskjold?"</hi></l>
+<l>"Sodt i Mindet skal han smile,</l>
+<l>"Som paa Jord, fra Old til Old,</l>
+<l>"Ja, som <hi rend="italic">Eisten </hi>over <hi rend="italic">Norge,</hi></l>
+<l>"Mindes skal, paa Sællands Borge,</l>
+<l>"S"araso-Jarlen <hi rend="italic">Danneskjold!1'</hi></l>
+</lg>
+<lg>
+<l>Ja, du Borg med gyldne Suler!</l>
+<l>Endt er Gylden-Lovers Aar,</l>
+<l>Hvis af siige Klippe-Huler</l>
+<l>De ei levende udgaaer;</l>
+</lg> 
+<pb facs="1828_1_page0015.png"/>
+<fw type="pageNum">112</fw>
+<lg>
+<l>Aldrig meer tilsyne Balder</l>
+<l>Kommer paa sin Straale-Borg,</l>
+<l>Hvis ham i lians Æt opkalder</l>
+<l>Ikke Gude-Folkets Sorg!</l>
+</lg>
+<lg>
+<l>Gamle Bog med Ldvsals-Grene!</l>
+<l>Det staaer præntet i din Bark:</l>
+<l>Bedre ei sig kan forene</l>
+<l>Adels-Blod paa Daner" Mark,</l>
+<l>End i dem, hvis store Navne</l>
+<l>Din Maigreve-Krands saa bold</l>
+<l>Glæder sig- ved her at favne;</l>
+<l>End i <hi rend="italic">Kaas </hi>og <hi rend="italic">Danneskjold !</hi></l>
+</lg>
+<lg>
+<l>Hvælv da, Bog, med Lovsals-Grenc,</l>
+<l>Bredt dig over Jarlens Navn,</l>
+<l>Hvad sig kan dermed forene,</l>
+<l>Tag det samlet omt i Favn;</l>
+<l>Hvisk til Sangerne med Vinge</l>
+<l>Hvad jeg kvæder om din Drot,</l>
+<l>Saa hans Fris sig kan opsvinge</l>
+<l>Til hans Faders gyldne Slot!</l>
+</lg>
+<lg>
+<l>Lad i dig mig Stammen skue,</l>
+<l>Der sig hvælver, favr og1 mild,</l>
+<l>Over Engens Blomster-Tue:</l>
+<l>Dane-Markens Ygdrasil!!</l>
+</lg> 
+<pb facs="1828_1_page0016.png"/>
+<fw type="pageNum">113</fw>
+<lg>
+<l>Lad mig1, under dine Grene,</l>
+<l>See, hvad de, hvis Navn du bær,</l>
+<l>Vilde mindelig forene:</l>
+<l><hi rend="italic">Hyrde-Liv </hi>og <hi rend="italic">Herre-Færd!</hi></l>
+</lg>
+<lg>
+<l>Siig mig, Saga, Moder bedste!</l>
+<l>Hvem har <hi rend="italic">Samso-Bogen </hi>sat,</l>
+<l>I hvis Bark sig skulde fæste</l>
+<l>Runer om den Dane-Skat,</l>
+<l>Som i Bølgen er begravet,</l>
+<l>Under Vrag af Orlogs-Mænd,</l>
+<l>Som dog stige skal af Havet,</l>
+<l>Morgenrodmende igien!</l>
+</lg>
+<p><hi rend="align(right)">IV. <hi rend="italic">F. S. Grundtvig.</hi></hi></p>
+</div>
+</body>
+</text>
+</TEI>

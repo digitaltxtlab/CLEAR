@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title></title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2009-10-07"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="012"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1808">1808</date>
+			</publicationStmt>
+			 <sourceDesc>
+			  <p>[Source decription]</p>
+			 </sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1808_12_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main"></titlePart>
+</docTitle>
+</titlePage>
+</front>
+<body>
+<div>
+<pb facs="1808_12_page0001.png"/>
+<head>Svar til min Ven Molbech.</head>
+<p>(Se Københavns Skilderi No. 102.)</p>
+<lg>
+<l>Du stander midt i Guders Lund</l>
+<l>Med Varme, som hos hver Kærminde;</l>
+<l>Thi Du i gamle Norden kun</l>
+<l>En mærkelig Ruin vil sinde.</l>
+<l>Du knæler ei, thi Asers Magt</l>
+<l>Er Dig kun Fantasiens Pragt.</l>
+</lg>
+<lg>
+<l>Dit Syn forvilder sig min Ven!</l>
+<l>Imellem Gudenavnes Vrimmel,</l>
+<l>Og stedse stivt Du stirrer hen</l>
+<l>Haa Valhal, som paa Nordens Himmel.</l>
+</lg>
+<pb facs="1808_12_page0002.png"/>
+<fw type="pageNum">1635</fw>
+<lg>
+<l>Igennem <hi rend="spaced">Ragnaroke</hi> ei</l>
+<l>Dit Øie end har fundet Vel.</l>
+</lg>
+<lg>
+<l>Kan Nogen skue høie Strid,</l>
+<l>Som føres mellem Lys og <hi rend="spaced">Mørke</hi>,</l>
+<l>Og Lyst fra den svundne Tid,</l>
+<l>Og Nordens <hi rend="spaced">Aser</hi> ikke dyrke?</l>
+<l>O! saa Du Lysets Herlighed,</l>
+<l>Du ved min Side knæled ned.</l>
+</lg>
+<lg>
+<l>Jeg skuer sidste hede Damp</l>
+<l>Som stiger op fra <hi rend="spaced">Tidens</hi> kue.</l>
+<l>Jeg glædes, <hi rend="spaced">endt</hi> er store Kamp,</l>
+<l>Men Aser <hi rend="spaced">faldt</hi>,   og jeg maa grue;</l>
+<l>I Skælven klæder sig den Lyst,</l>
+<l>Som da indstrømmer i mit Bryst.</l>
+</lg>
+<lg>
+<l>Aartusinder kan over Jord</l>
+<l>henrulle, glemmes kan <hi rend="spaced">Idrætter</hi>,</l>
+<l>Men har det <hi rend="spaced">Evige</hi> sit Spor</l>
+<l>Aftrykt, ei Tiden det udsletter.</l>
+<l>Et <hi rend="spaced">Billede</hi> jeg ser i Nord,</l>
+<l>Og Træk jeg skuer end paa Jord.</l>
+</lg>
+<lg>
+<l>Du peger paa Naturens Sprog,</l>
+<l>Som om Din Ven Det ikke kendte;</l>
+<l>Som til et Blad i store Bog,</l>
+<l>Jeg til Naturen Øiet vendte,</l>
+<l>Og Nattens Mulm med Solens Glands</l>
+<l>Sig blanded for <hi rend="spaced">min indre</hi> Sands.</l>
+</lg>
+<lg>
+<l>Jeg stirrede mod <hi rend="spaced">Harmoni</hi>,</l>
+<l>Da jeg mod <hi rend="spaced">Alteret</hi> henstirred,</l>
+<l>Og ilende jeg gik forbi</l>
+<l>Det <hi rend="spaced">Enkelte</hi>, som kun forvirred;</l>
+<l>Men ved Du <hi rend="spaced">deraf</hi> at jeg fik</l>
+<l>Ei for det Enkelte et Blik?</l>
+</lg>
+<p><hi rend="align(right)">Nik. Fred. Sev. Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

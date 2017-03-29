@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title></title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2009-10-28"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="007"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1817">1817</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1817_7_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main"></titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+	<docImprint>
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<pb facs="1817_7_page0001.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Held den Konge hvem Folket ledsager</l>
+<l><hi rend="align(right)">Stille vemodigt af By!</hi></l>
+<l>Ham Med Jubel det atter modtager.</l>
+<l><hi rend="align(right)">Sangen sig løfter i Sky;</hi></l>
+<l>Saa og ved Soel daler Fuglenes Røst,</l>
+<l>Hæver sig klar, naar det rødmer i Øst.</l>
+</lg>
+<lg>
+<l>Held Dig! Konning i Dannemarks Vange:</l>
+<l><hi rend="align(right)">Det er Din Arvegangs Ret:</hi></l>
+<l>Fulgt med Taarer, og Hilset med Sange,</l>
+<l><hi rend="align(right)">Færdes vor Konninge-Æt;</hi></l>
+<l>Folket i Skoven har Fuglenes Viis:</l>
+<l>Taaren og Sangen er Straalernes Priis.</l>
+</lg>
+<lg>
+<l>Hil Dig Konge ! maa Fædrene-Borgen!</l>
+<l><hi rend="align(right)">Atter Velkommen i Vang!</hi></l>
+<l>Chor af Fugle Dig venlig i Morgen</l>
+<l><hi rend="align(right)">Vækker med sødere Sang !</hi></l>
+<l>Hil Dig Marie vor Dronning saa fiin!</l>
+<l>Kongen er Prisen og Kongen er Din!</l>
+</lg>
+<lg>
+<l>Hil Dig Konge! som haver paa Borgen,</l>
+<l><hi rend="align(right)">Hvad selv i Hytten er Held!</hi></l>
+</lg>
+<pb facs="1817_7_page0002.png"/>
+<fw type="pageNum">1181</fw>
+<lg>
+<l>Sid lyksalig, med Bod for al Sorgen,</l>
+<l><hi rend="align(right)">Vaagen for Dannemarks Vel!</hi></l>
+<l>Siden med Taarer vi føle Dit Savn!</l>
+<l>Sildigste Slægter velsigne Dit Navn!</l>
+</lg>
+<lg>
+<l>Svag er Stemmen som her Dig har gjæstet,</l>
+<l><hi rend="align(right)">End ligger Kraften i Svøb;</hi></l>
+<l>Vel Alt som har Hjerterod fæstet</l>
+<l><hi rend="align(right)">Groer dog i Aarenes Løb!</hi></l>
+<l>Skjønnere Blomster og høiere Sang,</l>
+<l>Hjelper os Gud vi Dig bringe engang!</l>
+</lg>
+<p>Nu offrede alle de unge Piger Blomsterkrandsene paa Alteret, og begave sig derpaa ned af Bakken. - Det Hele udførtes i allerstørste Orden, og ikke mind- ste Uorden eller Uheld forstyrrede denne herlige Folkefest. - Det fortjener her at erindres, at den I4de September for 27 Aar siden holdt Hendes Majestæt vor allernaadigste Dronning Sit høitidelige Indtog i Kongestaden som Kronprindsesse.</p>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

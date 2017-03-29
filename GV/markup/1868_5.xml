@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Den christelige Børnelærdom,</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-26"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="005"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1868">1868</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1868_5_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Den christelige Børnelærdom,<lb/></titlePart>
+	<titlePart type="sub"><lb/></titlePart>
+</docTitle>
+<byline>betragtet af<lb/>
+	<docAuthor>Nik. Fred. Sev. Grundtvig.<lb/></docAuthor>
+				</byline>
+				<fw type="graphic"/>
+				<epigraph>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition>Anden Udgave, optrykt efter „Kirkelig Samler".</docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace>Kiøbenhavn.</pubPlace>.<lb/>Karl Schønbergs Forlag<lb/>G. S. Wibes Bogtrykkeri.<lb/>
+<fw type="graphic"/>
+<docDate>1868.</docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<pb facs="1868_5_page0002.png"/>
+<fw type="pageNum"></fw>
+<head>Fortale.</head>
+<p><hi rend="initial">D</hi>isse Oplysninger om den christelige Børnelærdoms Forhold til det christelige Liv, udkomne i Kragballes Kirkelige Samler, udsendes her sammentrykte efter Venners Buste og vil da være dem velkomne, medens de naturligvis maae forarge dem, der mener, at det christelige Liv ingenlunde beroer paa Børnelærdommen, men paa Lærestanden, Sognegrcrndfens Fasthed og Folke-Kirkens hele Mekanisme. Uden videre at indlade mig i den store Strid om Valgmenighederne, kan jeg dog ikke undlade at udtale min store Forundring over, at en saadan Strid har kunnet føres i Danmark, hvor man giennem Aarhundreder har havt frie Valgmenigheder for Øie, der ovenikiøbet hverken havde Ordination, <hi rend="spaced">Alterbog</hi>, Psalmebog eller Catechismus tilfælles med den Danske Folke-Kirke, men dog fandtes at kunne staae under dens Tilsyn og have borgerlige Rettigheder tilfælles med den, uden mindste Fare eller Skade. Dette har nemlig, som bekiendt, ikke blot været Tilfældet med de Tysk-Lutherske Menigheder i <hi rend="spaced">Hovedstaden</hi>, hvor derhos <hi rend="spaced">Sognebaandet</hi> for dem var løst, men i hele <hi rend="spaced">Slesvig</hi> til 1864, saa at naar alligevel 6 Bisper og 
+<pb facs="1868_5_page0003.png"/>
+<fw type="pageNum"></fw>
+Præster i Hundredvis hos os har paastaaet, at Valgmenigheder uden Sognebaand, skiøndt de har baade Ordination, Alterbog, Psalmebog og Catechismus tilfælles med den Danske Folkekirke, maae dog nødvendig undergrave og opløse den, da veed man siet ikke, hvor enten Hukommelsen eller Forstanden hos dem er henne. Da vor nærværende Kirke-Minister har været Præst i Slesvig, behøver Spørgsmaalet vist ogsaa blot at opkastes for at finde en glædelig Besvarelse.</p>
+<p>September 1868.</p>
+<p><hi rend="align(right)">Nik. Fred. Sev. Grundtvig.</hi></p>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

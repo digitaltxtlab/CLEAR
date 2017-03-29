@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Sang i Anledning af Deres Kongelige Høihed Kronprindsens Formæling.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-23"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="005"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1841">1841</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1841_5_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Sang<lb/>i Anledning</titlePart>
+</docTitle>
+<byline>af<lb/>
+	<docAuthor>Deres Kongelige Høihed<lb/>Kronprindsens<lb/>Formæling.</docAuthor>
+				</byline>
+				<fw type="graphic"/>
+				<docEdition>Afsjuugen af Drengene i Nyboders Skoler.</docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace>Kjøbenhavn,</pubPlace>.<lb/>Trykt hos J. D. Qvist, Bog- og Nodetrykker,<lb/>Badstuestræde Nr. 124.<lb/>
+<docDate>1841</docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<pb facs="1841_5_page0002.png"/>
+<fw type="pageNum"></fw>
+<fw type="graphic"/>
+<head>Mel. Vift stolt paa Codans Bølge.</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">H</hi>vor dunkle Bølger rulle</l>
+<l>I Storm med Skum og Brag,</l>
+<l>Sig kruse Vover smulle</l>
+<l>Den lange Sommerdag!</l>
+<l>Med Bør, ved Soel og Stjerne,</l>
+<l>Paa Havet som et Speil,</l>
+<l>De Snekker fra det Fjerne</l>
+<l>Da gaae for fulde Seil.</l>
+</lg>
+<lg>
+<l>Saa skrid for Skjoldung-Ætten</l>
+<l>Paa Hav, du Snekke prud,</l>
+<l>Med Kongens Søn fra Sletten,</l>
+<l>Og med hansjunge Brud!</l>
+<l>Du fører Konge-Flaget,</l>
+<l>Du bærer Kongens Navn;</l>
+<l>Bring hvad du har modtaget</l>
+<l>Med Fryd i Kongens Favn!</l>
+</lg> 
+<pb facs="1841_5_page0003.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Vind Pris fra Morlands Floder,</l>
+<l>Som bringe røden Guld!</l>
+<l>Bring os en <hi rend="bold">Konge-Moder</hi>,</l>
+<l>Det gamle <hi rend="bold">Danmark</hi> huld!</l>
+<l>Da mindes stal din Reise</l>
+<l>Med Roes i Kongebog,</l>
+<l>Saalænge <hi rend="bold">Daner</hi> heise</l>
+<l>Skyklare <hi rend="bold">Dannebrog</hi></l>
+</lg>
+<lg>
+<l>Ei findes under Solen</l>
+<l>Et Land med bedre Speil</l>
+<l>For dem paa Dronning-Stolen,</l>
+<l>Hvem Synet ei staaer feil,</l>
+<l>Fra <hi rend="bold">Dannebod </hi>hin fine,</l>
+<l>Hos os udødelig,</l>
+<l>Til <hi rend="bold">Dagmar-Caroline</hi>,</l>
+<l>Paa ægte Perler rig.</l>
+</lg>
+<lg>
+<l>En saadan Brud til Baade</l>
+<l>Hjemføre Kongens Søn,</l>
+<l>Til Dronning af Guds Naade!</l>
+<l>Det er vor fælles Bon.</l>
+<l>Derom med Folkets Tunge,</l>
+<l>Paa Kiærlighedens Grund,</l>
+<l>Lad alle Fugle sjunge</l>
+<l>I <hi rend="bold">Danmarks</hi> grønne Lund!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

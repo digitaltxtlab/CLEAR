@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title></title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2009-10-07"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="005"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1808">1808</date>
+			</publicationStmt>
+			 <sourceDesc>
+			  <p>[Source decription]</p>
+			 </sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1808_5_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main"></titlePart>
+</docTitle>
+</titlePage>
+</front>
+<body>
+<div>
+<pb facs="1808_5_page0001.png"/>
+<fw type="pageNum"></fw>
+<head>I Anledning af mit Syns Mistydning.</head>
+<p>(See Stykket om mit Maskeradebal i Skilderiet No. 66.)</p>
+<fw type="graphic"/>
+<lg>
+<l>Meer end man veed,</l>
+<l>Trænges og taaler</l>
+<l>Ygdrasils ask, høit bider hjorten</l>
+<l>Tresket er Siden,</l>
+<l>NidHøg gnaver for neden</l>
+</lg>
+<p><hi rend="align(right)">Grimnismal.</hi>.</p>
+<fw type="graphic"/>
+<lg>
+<l>hvorfor mon Danmarks Tale lød</l>
+<l>Ved Siden af de Gamles Sange,</l>
+<l>Ifald jeg, troede Kraften død</l>
+<l>Og Jorden gold i Nordens Vange?</l>
+</lg>
+<lg>
+<l>Nei, vække vilde jeg den Aand,</l>
+<l>Der slumrede i Fortids Grave,</l>
+<l>Og derfor grov min svage Haand</l>
+<l>I Bautastenen Runestave;</l>
+</lg>
+<lg>
+<l>Men er jeg feig, fordi jeg ei</l>
+<l>Tiltroer mig Vegtams høie Galder*)</l>
+<l>Og seer vel den, som skuer ei</l>
+<l>Tungsøvned' Hela i vor Alder?</l>
+</lg>
+<lg>
+<l>Jeg føler det, om Nordens Træ</l>
+<l>End stod med tørre, visne, Grene</l>
+<l>Et nyt dog i det Gamles Læ</l>
+<l>Opvoxed' vist blandt Klippens Stene;</l>
+</lg>
+<p>*) At Odin reed som Vegtam til Helas Bolig og</p>
+<p>vakte ved galdrende Runer den Halvdøde, Snee-bedækkede, skulde dette behøve at anmærkes?</p>
+<pb facs="1808_5_page0002.png"/>
+<fw type="pageNum">1093</fw>
+<lg>
+<l>Men, synker under tunge Vægt</l>
+<l>Den gamle Eeg i Baalets Flamme,</l>
+<l>Da igefuldt dog vee den Slægt,</l>
+<l>Som falde laer den gamle Stamme!</l>
+</lg>
+<lg>
+<l>Jeg henrykt stuer hver en Gnist,</l>
+<l>Som minder mig om Oldtids Lue;</l>
+<l>Men - Valhal faldt ved Lokes List,</l>
+<l>O maa da Nordens Søn ei grue!</l>
+</lg>
+<lg>
+<l>Naar Ormen gnaver Træets Rod,</l>
+<l>Da maa, trods Ørnens ædle Vrede,</l>
+<l>Det falde, hvis i Mandeblod</l>
+<l>Ei drukne, dødes kan den Lede.</l>
+</lg>
+<lg>
+<l>Vil Nidhøg Luxus med sin Hær</l>
+<l>Fra Danmark flye til fjerne Lande;</l>
+<l>Da skal i Ly af Fredriks Sværd</l>
+<l>Den gamle Gøg urokket stande.</l>
+</lg>
+<lg>
+<l>Men, hist i Salen seierriig</l>
+<l>Uhyret klædte Herresæde,</l>
+<l>Og derfor led ved Danmarks liig</l>
+<l>De gamle Heltes Sørgekvæde.</l>
+</lg>
+<p><hi rend="align(right)">Nic. Fred. Sev. Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

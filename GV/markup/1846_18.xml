@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Dansk Kirketidende,</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-24"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="018"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1846">1846</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1846_18_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">1846  Nr 38<lb/>Dansk Kirketidende,</titlePart>
+</docTitle>
+<byline>udgivet af<lb/>
+	<docAuthor>R. Th. Fenger og C. J. Brandt,<lb/>Candidater i Theologien.</docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace></pubPlace>Pindsedag, den 31. Mai.<lb/>
+<fw type="graphic"/>
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Pindse-Sang V).</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">G</hi>ud-Helligaand, vor Trøstermand!</l>
+<l>Med Rette Du maa klage:</l>
+<l>Du blev hos os i Støvets Land,</l>
+<l>Aarhundreder som Dage,</l>
+<l>Du blev hos os i Jesu Navn,</l>
+<l>I hans, som Dig udsendte,</l>
+<l>Er tit dog i hans Fødestavn</l>
+<l>Den store Ubekiendte?</l>
+</lg>
+<lg>
+<l>Du er Guds Røst paa Livets Vei,</l>
+<l>Al Himlens Tale-Evne,</l>
+<l>Saa uden Dig vor <hi rend="spaced">Jesus</hi> ei</l>
+<l>Vor Herre vi kan nævne;</l>
+<l>Men blev det klart for os endnu,</l>
+<l>At Du kan os husvale?</l>
+<l>Og bede vi: Guds Aand! vær Du</l>
+<l>Vor Tunge og vor Tale?</l>
+</lg>
+<lg>
+<l>Ak nei, vi neppe tænke paa,</l>
+<l>At saa det skulde være,</l>
+<l>Skal Du i Faders Sted os staae,</l>
+<l>Vi søge maae Din Ære,</l>
+<l>Skal <hi rend="spaced">Jesus Christus</hi> hemmelig</l>
+<l>Os giæste og berige,</l>
+<l>Vi og maae troe, han er i Dig,</l>
+<l>Og Du i ham tillige!</l>
+</lg>
+<lg>
+<l>Vi skal ei raabe: kom til os!</l>
+<l>Som Du var i det Fjerne,</l>
+<l>Men sukke: Synd og Død til Trods,</l>
+<l>Guds Aand! bliv hos os gierne,</l>
+</lg>
+<p>') Kan synges efter Choral-Melodien ,'Jeg beder dig min Herre og Gud".</p>
+<lg>
+<l>For Jesu Skyld, som Dig har sendt</l>
+<l>Til sine Faderlose,</l>
+<l>Vil over dem, i Dig erkiendt,</l>
+<l>Sin Kiærlighed udøse!</l>
+</lg>
+<lg>
+<l>ja, bliv hos os, vor Trøstermand!</l>
+<l>Vor Talsmand og Ledsager!</l>
+<l>Opliv hos os hver Tale sand,</l>
+<l>Saa Gud den vel behager!</l>
+<l>Thi Han er ei de Dødes Gud,</l>
+<l>Og leve vi kun mene,</l>
+<l>Til Du gaaer fra Gud-Fader ud</l>
+<l>Og vækker os som Stene.</l>
+</lg>
+<lg>
+<l>Hvergang Du horer Herreus Ord</l>
+<l>Fra vore Dodning-Læber,</l>
+<l>Som det blev mumlet under Jord,</l>
+<l>Skiondt det til Himlen stræber,</l>
+<l>O, tag det op, udtal det ret,</l>
+<l>Saa vi det kan fornemme,</l>
+<l>Til os kom Godt fra Nazaret:</l>
+<l>Den gode Hyrdes Stemme!</l>
+</lg>
+<lg>
+<l>Hvergang en ærlig Sjæl paa Jord</l>
+<l>Vil sine Hænder folde</l>
+<l>I Jesu Navn, men Bonnens Ord</l>
+<l>Vil doe paa Læber kolde;</l>
+<l>Forbarm Dig over Støvets Kaar!</l>
+<l>Viis Du paa Alt kan bøde!</l>
+<l>Og Hvist til os Dit <hi rend="spaced">Fadervor</hi>,</l>
+<l>Saa vore Tunger gløde!</l>
+</lg>
+<p><hi rend="bold">N. F. S. Grundtvig</hi>.</p>
+</div>
+</body>
+</text>
+</TEI>

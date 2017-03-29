@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Fædrelandet.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-23"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="003"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1853">1853</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1853_3_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Fædrelandet.<lb/></titlePart>
+	<titlePart type="sub">1853.<lb/></titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition>14de Aarg.  Onsdagen den 2. Februar.  Nr. 27.</docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace></pubPlace>.<lb/>Abonnementspris i Kjøbenhavn 15 Mk. pr. Qvartal, 5 Mk. pr. Maaned; enkelte Nr. 6 Sk.; udenfor Kjøbenhavn 3 Rbd. pr. Qvartal frit i Huset. Hver Søgne-Aften udgaaer et Numer Bladets Comptoir, store Kjøbmagergade Nr. 54, er aabent om Formiddagen Kl. 11-1.<lb/>
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Lykkens Foranderlighed.</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="bold">B</hi>ladet i Bogen sig vender</l>
+<l>Let, som man seer,</l>
+<l>Under velevede Hænder</l>
+<l>Let som en Fier.</l>
+</lg>
+<lg>
+<l>Bladet i Skoven sig vender</l>
+<l>Lettere dog,</l>
+<l>End for veløvede Hænder</l>
+<l>Bladel i Bog.</l>
+</lg>
+<lg>
+<l>Bladet i Verden sig vender,</l>
+<l>Som Lykkespil,</l>
+<l>Under usynlige Hænder</l>
+<l>Som Gud det vil.</l>
+</lg>
+<lg>
+<l>Bladet, som Herren det vilde,</l>
+<l>Vendte sig til,</l>
+<l>Naar det gik Dannemark ilde,</l>
+<l>Vendte sig blidt.</l>
+</lg>
+<lg>
+<l>Bladet sig vendte forleden</l>
+<l>Ved <hi rend="spaced">Lille-Belt</hi>,</l>
+<l>Sværdet, som helst sad i Skeden,</l>
+<l>Blev til en Helt!</l>
+</lg>
+<lg>
+<l>Bladet sig vendte forleden</l>
+<l>Ved Øvre-Stolk,</l>
+<l>Laurbær da besled paa Heden</l>
+<l>Dannemarks Folk!</l>
+</lg>
+<lg>
+<l>Bladet sig vendte forleden,</l>
+<l>Eideren næst,</l>
+<l>Baade fra oven og neden,</l>
+<l>Jyden loe bedst!</l>
+</lg>
+<lg>
+<l>Bladet sig vende paa <hi rend="spaced">Thinge</hi>!</l>
+<l>Dansk Menigmand</l>
+<l>Nævne, saa Ørene klinge,</l>
+<l>Fædrenes Land!</l>
+</lg>
+<lg>
+<l>Bladet sig vende i Raadet,</l>
+<l>Lægge for Dag,</l>
+<l>Løvernes Brølen har baadet</l>
+<l>Dannemarks Sag!</l>
+</lg>
+<lg>
+<l>Bladet sig vende imorgen,</l>
+<l>I <hi rend="spaced">Kiøbenhavn</hi>!</l>
+<l>Straale paa <hi rend="spaced">Christians-Borgen</hi></l>
+<l><hi rend="spaced">Fredegods</hi> Navn!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

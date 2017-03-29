@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Indbydelse til Vennemødet</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-26"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="004"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1868">1868</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1868_4_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main"><lb/>Indbydelse til Vennemødet</titlePart>
+	<titlePart type="sub"><lb/></titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace></pubPlace>.
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<p><hi rend="initial">D</hi>a jeg, om Gud giver Lykke dertil, ønsker endnu engang at samles med mine kristne Venner trindt omkring fra, beder jeg dem, der har Lyst og Lejlighed dertil, om at give Møde her i Kjøbenhavn. Torsdagen den 10de September.</p>
+<p>Store Tuborg, den 30te August 1868.</p>
+<p><hi rend="align(right)">Mk. Fred. Sev. Grundtvig.</hi></p>
+<p>Onsdagen den (9de September bliver der, om Gud vil, Kirketjeneste i Vartov. Nøjere Besked om Tid og Sted for Mødet kan de nærmeste Dage forinden faaes hos Skomager P. Mouritsen (Landemærket 19), hvor der ligeledes afhentes Adgangskort.</p>
+</div>
+</body>
+</text>
+</TEI>

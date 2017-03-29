@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Dansk Kirketidende.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-22"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="013"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1849">1849</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1849_13_page0001.png"/>
+			<fw type="pageNum">113-114</fw>
+				<docTitle>
+	<titlePart type="main">Dansk Kirketidende.<lb/></titlePart>
+	<titlePart type="sub"><lb/></titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition>5te Bind. Femogtyvende Søndag ester Trinitatis den 25 November.</docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace></pubPlace>.
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Venligheden.</head>
+<fw type="graphic"/>
+<p><hi rend="align(center)">Mel. Jesus, dine dybe Vunder.</hi></p>
+<lg>
+<l><hi rend="initial">E</hi>ne i den vide Verden,</l>
+<l>Om end stor og god og viis,</l>
+<l>Adam Hjertens-Glæden savned</l>
+<l>Midt i Herrens Paradis;</l>
+<l><hi rend="spaced">Jesus</hi> selv, med Tone mat,</l>
+<l>Klaged: ene og forladt</l>
+<l>Skal i Verden vid jeg være,</l>
+<l>Naar fra mig gaae mine Kiære!</l>
+</lg>
+<lg>
+<l>Derfor bruns kun du mit Hjerte!</l>
+<l>Lyd kun, Suk! og flyd kun, Graad!</l>
+<l>Sig kun høit, min Sjæl bedrevet,</l>
+<l>At dig fattes Trost og Naad,</l>
+<l>Naar jeg sidder Nat og Dag</l>
+<l>Som en eenlig Spurv paa Tag,</l>
+<l>Finder Verden tom og øde,</l>
+<l>Som i Graven hos de Døde!</l>
+</lg>
+<lg>
+<l>Men fortvivl dog ingenlunde,</l>
+<l>Hjerte, som til ham stog Lid,</l>
+<l>I hvis Navn den store Hvile</l>
+<l>Er beredt til evig Tid!</l>
+<l>Ork og Eenlighed til Trods,</l>
+<l><hi rend="spaced">Jesus</hi> være vil med os,</l>
+<l>Som Gud-Fader vilde være</l>
+<l>Med sin Søn, den hjertenskiære.</l>
+</lg>
+<lg>
+<l>Aften-Sukket, Natte-Graaden,</l>
+<l>Sjæle-Vaandens Raadvildhed</l>
+<l>Giennem Mørket seer hans Øie,</l>
+<l>Dem hans Hjerte ynkes ved,</l>
+<l>Og endnu for Hanen goel,</l>
+<l>Siger han: du Morgen-Soel!</l>
+<l>Bring til mine Smaa, som græve,</l>
+<l>Haab med Lys og Sang med Glæde!</l>
+</lg>
+<lg>
+<l>Gierne Himlens Engle fare,</l>
+<l>Hvor de sendes med hans Ord,</l>
+<l>Men hvor Jule-Psalmen klinger,</l>
+<l>Har og Herren Bud paa Jord,</l>
+<l>Hvor de gaae fra Sted til Sted,</l>
+<l>I hans Navn, han følger med,</l>
+<l>Og hvor han er selv tilstæde,</l>
+<l>Flokkes Engle-Chor med Glæde!</l>
+</lg>
+<lg>
+<l>Bie da Sjæl, kun til i Morgen!</l>
+<l>Bie paa ham, som skuffer ei!</l>
+<l>For endnu din Sorg du vidste,</l>
+<l>Til dig var hans Trøst paa Vei.</l>
+<l>Han har sagt: hvor med min Tro,</l>
+<l>I mit Navn forsamles To,</l>
+<l>Ikkun To af mine Kiære,</l>
+<l>Midt iblandt dem jeg stal være!</l>
+</lg>
+<lg>
+<l><hi rend="spaced">Jesus</hi>, ja, du følger Dine:</l>
+<l>Dine Bud og Dine Ord,</l>
+<l>Altid midt i Verdens-Ørken</l>
+<l>Deilige er deres Spor,</l>
+<l>De hos mig saa mangen Gang</l>
+<l>Banked paa med Englesang;</l>
+<l>Kommer Nat engang med Døden,</l>
+<l>Kommer Du med Morgenrøden!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

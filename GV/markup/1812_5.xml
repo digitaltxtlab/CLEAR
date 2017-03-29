@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Efterskrift</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2009-10-28"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="005"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1812">1812</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1812_5_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Efterskrift</titlePart>
+				<fw type="graphic"/>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<pb facs="1812_5_page0001.png"/>
+<fw type="pageNum"></fw>
+<p>Grundtvigs "bibelske Prædikener", der udkom 1816, indeholdt, foruden hans Dimisprædiken (1810), som han indskød i Fortalen, seksten Prædikener, der, med Undtagelse af den første, var holdte i Kjøbenhavn, efter at han ved Faderens Død havde forladt Udby (to i Helligaands-Kirke, fire i Garnisøns- eller Sebaots Kirke, ni i Frederiksberg). Denne ny Udgave er bleven forøget med andre seksten, nemlig seks fra hans Kapellan-Tid i Udby (1811-13), og seks fra hans Sognepræste-Tid i Præstø (1821-22), samt de tre, som han særskilt udgav 1812-14, og "den kristelige Kamp", der udkom 1825 som Svar paa Mynsters "den kristelige Visdom". Der meddeles saaledes her Prøver af Grundtvigs Forkyndelse fra den Tid, der ligger forud for Prædikenerne i hans "Søndagsbog" (1827-30).</p>
+<p>Allerede som Kapellan i Udby havde han tænkt paa at udgive en større Samling, og udstedte den 3dje November 1812 følgende Subskriptions-Plan:</p>
+<p>"Paa en Tid, da det lader som om man ikke ret ved hvad det er at præke bibelsk, og da der paa mange Steder prækes anderledes, var det vel ikke af Vejen, ved et Eksempel at kalde denne Prækemaade, som den eneste kristelige, tilbage i Folks Hukommelse. Jeg agter derfor, vil Gud, at udgive en Aargang bibelske Prækener over Evangelierne.</p>
+<p>Hvad andet, jeg ønsker trykt, vægrer man sig ej ved
+<pb facs="1812_5_page0002.png"/>
+<fw type="pageNum">000</fw>
+at forlægge; men. en hel Aargang bibelske Prækener, det er et forfærdeligt Ord i vore Tider, og her tror Forlæggeren at maatte være vis paa, at der ogsaa virkelig er nogen, som vil kjøbe sligt.</p>
+<p>Jeg maa da indbyde til Subskription. Størrelsen kan jeg umulig bestemme, altsaa ikke heller Prisen; men mine Prækener ere ikke lange, og deres Udgivelse ingen Handelsspekulation; bindstærke blive de altsaa ikke, og ej dyrere end højst nødvendigt". -</p>
+<p>Denne Plan kom ikke til Udførelse, men da han havde været et Aarstid i Kjøbenhavn. bestemte han sig til at udgive:</p>
+<p><hi rend="spaced">"Nogle Prædikener efter Tidens Tarv", </hi>som skulde ledsages af følgende "Fortale":</p>
+<p>"For henved to Aar siden kundgiorde jeg, det var min Agt at udgive en Aargang bibelske Prædikener over Evangelierne, men Forlæggeren har hidindtil ej turdet befatte sig dermed. Nu kan de maaske udkomme; men i at Fald vilde jeg særskilt udgive nærværende, som ej høre til Samlingen og som ere holdte for Tilhørere, der mere ligne hvad vi kalde Læseverdenen. Hvad nu disse i Almindelighed angaar, da er vel Fortale hartad overflødig, thi Kristne forlange ingen, og Modkristne ænse ingen, men et Par Ord skader det dog ikke at tale om den polemiske (stridende) Tone, der til Dels hersker i dem alle. Det er jo vitterligt nok, at man i den sidste Tid fordrede den forvist fra Prækestolen, men sligt kan en Kristen ikke ænse, dels fordi Paastanden kom fra dem, der vilde have al Kristendom forvist, og dels fordi det har sig ganske anderledes med ham, end med Tidsafgudens Præster; de have intet at stride for, men det har han. Give vi Agt paa Jesu og hans Apostlers Taler, da finde vi saare mange Anfald Paa falske Lærdomme og Advarsler mod falske Lærere, i Kirkefædrenes og Reformatorernes ligesaa, og det</p>
+</div>
+</body>
+</text>
+</TEI>

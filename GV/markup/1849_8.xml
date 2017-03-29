@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Til Vælgerne i Præstø Amts fjerde Valgkreds.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-22"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="008"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1849">1849</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1849_8_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main"><lb/>Til Vælgerne i Præstø Amts fjerde Valgkreds.</titlePart>
+	<titlePart type="sub"><lb/></titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<docImprint>
+				<pubPlace></pubPlace>.
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<fw type="graphic"/>
+</div>
+<div>
+<head>Til Vælgerne</head>
+<head>i</head>
+<head>Præstø Amts fjerde Valgkreds.</head>
+<p><hi rend="initial">D</hi>en Maade, hvorpaa jeg ifjor havde den Ære og Glæde at blive hardtad eenstemmig valgt til Rigsdagen, den er mig saa uforglemmelig, at den ikke blot giver mig Haab om at vælges paany, men gjør mig det ogsaa til en kjær Pligt at stille mig i samme Kreds, naar jeg ikke forud skulde erfare, at Stemningen for mig enten ved Valgkredsens Udvidelse eller ved andre Tilfælde havde mærkelig forandret sig.</p>
+<p>Jeg kan vist nok ikke rose mig af at have udrettet stort paa Rigsdagen, enten for Vy eller iland eller for Riget i det hele, men jeg tor sige, at jeg, uden at smigre for noget Parti, har, som en oplyst Dannemand, bestandig havt fælles Bedste for Die og bidraget dertil hvad jeg kunde, og jeg tor i denne Henseende beraabe mig paa Rigsdags-Tidenden, som Viser, at "Rigsdagsmanden fra Præstø" baade tog levende Deel i alle vigtige Forhandlinger og nød en hæderlig Opmærksomhed.</p>
+<p>Hvorvidt jeg, om Valgkredsen fremdeles beærer mig med sin Tillid, vil kunne udrette synderligt ved de forestaaende vigtige Forhandlinger om Gjennemførelsen af den ny Tingenes Orden, det staaer i Guds Haand; men 
+<pb facs="1849_8_page0002.png"/>
+<fw type="pageNum"></fw>
+baade har jeg stræbt og vil jeg stræbe at sætte mig levende ind i Alt hvad der angaaer baade Hole og Laves billige Krav, og Folkets og Fædernelandets sande Tarv i det hele, og med Guds Hjælp skal jeg, uden at vige til høire eller venstre, kæmpe ærlig for hvad jeg erkjender at være ret og billigt, klogt og betimeligt, ægte Dansk i alle Maader, som alt maa være, hvad der virkelig stal tjene til det Danske Riges Ære og Styrke og til det Danske Folks Gavn og Glæde, hvortil Gud give Lykke!</p>
+<p>Saaledes anbefaler jeg mig til alle de ærede Vælgeres Opmærksomhed og Velvillie.</p>
+<p><hi rend="spaced">Kjøbenhavn</hi>, den 7de September 1849.</p>
+<p><hi rend="align(right)">Nikolai Frederik Severin Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

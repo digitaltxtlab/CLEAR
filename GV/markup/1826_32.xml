@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Meddelelse</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-20"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="032"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1826">1826</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1826_32_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Meddelelse</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<p>Da min Deelagtighed i Udgivelsen af Theologisk Maanedsskrift har været yderst ubetydelig, og min varme Deeltagelse i dets Velgaaende er uforanderlig, saa følger det af sig selv, at jeg, under nærværende Omstændigheder, overlader Udgivelsen ganske til Redacteuren Hr. Dr. Rudelbach, men vedbliver at være Med-</p>
+<p>Arbeider som hidtil.</p>
+<p>Christianshavn den 30te Nov. 1826.</p>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+<p>Maa trykkes. I Kjøbenhavns Politiret den 1ste December 1826.</p>
+<p><hi rend="align(right)">P. Eberlin.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

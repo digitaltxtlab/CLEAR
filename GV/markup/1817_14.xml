@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Skilderie af Kjøbenhavn.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2009-10-28"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="014"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1817">1817</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1817_14_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Nyeste<lb/>
+Skilderie af Kjøbenhavn.</titlePart>
+</docTitle>
+				<fw type="graphic"/>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<docEdition>Fjortende Aargan g. No. 102</docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace>Udgivet, redlgeret og forlagt af S. Solbin.</pubPlace><lb/>Forsendes, i. Følge Kongel. allernaadigst Tilladelse, med Brevposttene.<lb/>
+<fw type="graphic"/>
+<docDate>Tirsdagen den 23 December 1817.</docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<pb facs="1817_14_page0001.png"/>
+<fw type="pageNum"></fw>
+<head>Morten Luthers Jule-Psalme.</head>
+<head>(Frit forDansket.)</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">D</hi>et kimer nu til Jule-Fest,</l>
+<l>Det kimer for den høie Gæst,</l>
+<l><hi rend="align(right)">Som steeg til lave Hytter ned</hi></l>
+<l><hi rend="align(right)">Med Nytaars-Gaver: Fryd og Fred!</hi></l>
+</lg>
+<lg>
+<l>O, kommer med til Davids Bye,</l>
+<l>Hvor Engle sjunge under Skye.</l>
+<l><hi rend="align(right)">O, ganger med paa Marken ud</hi></l>
+<l><hi rend="align(right)">Hvor Hyrder høre Nyt fra Gud!</hi></l>
+</lg>
+<lg>
+<l>See hist, i Lysets Klædebon</l>
+<l>Blandt Hyttebørn en Himmel-Aand!</l>
+<l><hi rend="align(right)">Hør Paradisets Nattergal</hi></l>
+<l><hi rend="align(right)">Slaae Jubel-Slag i Graadens Dal!</hi></l>
+</lg>
+<lg>
+<l>Hvor Rachel græd for sine Smaa,</l>
+<l>Det klinger nu som Orgler gaae:</l>
+<l><hi rend="align(right)">Vær glad i Gud, og græd ei saa!</hi></l>
+<l><hi rend="align(right)">De Døde skal igjen opstaae.</hi></l>
+</lg>
+<lg>
+<l>Hvor David gik i Ungdoms Aar,</l>
+<l>Som salvet Drot, og vogted Faar,</l>
+<l><hi rend="align(right)">Der aabenbarer Hyrder nu</hi></l>
+<l><hi rend="align(right)">Hvad Herren David skiød i Hu!</hi></l>
+</lg>
+<lg>
+<l>Hvad dunkelt fra hans Harpe klang</l>
+<l>Sig klarer nu i Engle-Sang.</l>
+<l><hi rend="align(right)">Hvad David kun i Aanden saae.</hi></l>
+<l><hi rend="align(right)">Skal nu for Verdens Øine staae.</hi></l>
+</lg>
+<lg>
+<l>Ved Nattetid i Hyrdelag</l>
+<l>Forkynde Engle Herrens Dag!</l>
+<l><hi rend="align(right)">Hør efter! hør! og føl i Bryst</hi></l>
+<l><hi rend="align(right)">Nu Støvet skal faae Engle-Røst!</hi></l>
+</lg>
+<lg>
+<l>Fra Himlen høit jeg kommer her.</l>
+<l>Mit Nyt er godt og Reisen værd,</l>
+<l><hi rend="align(right)">Derom skal sjunges rundt paa Jord</hi></l>
+<l><hi rend="align(right)">Og evig født i Engle-Chor:</hi></l>
+</lg>
+<lg>
+<l>Jeg er den store Glædes Tolk</l>
+<l>Som vederfares skal Guds Folk:</l>
+<l><hi rend="align(right)">I Bethlehem i Davids Bye</hi></l>
+<l><hi rend="align(right)">Giør Naade-Solen Morgengrye!</hi></l>
+</lg>
+<lg>
+<l>I Bethlehem er Christus fød.</l>
+<l>Den Frelser-Mand fra Synd og Død;</l>
+<l><hi rend="align(right)">Nu kom den store Løvsals-Fest!</hi></l>
+<l><hi rend="align(right)">Nu blev Jehovah Hyttens Giæst!</hi></l>
+</lg>
+<lg>
+<l>Saa giver nu vel Agt derpaa</l>
+<l>At ftux til Bethlehem I gaae!</l>
+<l><hi rend="align(right)">I Klude svøbt, i Krybbe lagt</hi></l>
+<l><hi rend="align(right)">Er Han som skabde Himlens Pragt!</hi></l>
+</lg>
+<pb facs="1817_14_page0002.png"/>
+<fw type="pageNum">1619-1620</fw>
+<lg>
+<l>I Klude svøbt, i Krybbe lagt!</l>
+<l>Er han som os gav Lys til Dragt?</l>
+<l><hi rend="align(right)">O, ton fra Himmel, ton fra Jord</hi></l>
+<l><hi rend="align(right)">Halleluja i fulde Chor!</hi></l>
+</lg>
+<lg>
+<l>Ja, Du er evig Ære værd,</l>
+<l>Du Høvding over Himlens Hær!</l>
+<l><hi rend="align(right)">Som steeg i Støv fra Thronen ned.</hi></l>
+<l><hi rend="align(right)">For Dødens Børn at skiænke Fred!</hi></l>
+</lg>
+<lg>
+<l>Saa prises af Ufaldnes Chor</l>
+<l>Guds Naade mod den faldne Jord!</l>
+<l><hi rend="align(right)">Den Synder, som vil tie her, ,</hi></l>
+<l><hi rend="align(right)">Er Naaden ei men Dommen værd.</hi></l>
+</lg>
+<lg>
+<l>Nei, lad os gaae med rørte Sind,</l>
+<l>Som Hyrderne, til Barnet ind,</l>
+<l><hi rend="align(right)">Med Glædes-Taarer takke Gude</hi></l>
+<l><hi rend="align(right)">For Miskundhed og Naade-Bud!</hi></l>
+</lg>
+<lg>
+<l>Ja, vær velkommen, ædle Giæst</l>
+<l>Fra Himlen høit Du kommen est!</l>
+<l><hi rend="align(right)">Giv Selv min Tak en værdig Tolk!</hi></l>
+<l><hi rend="align(right)">Du Naade-Soel for Gravens Folk!</hi></l>
+</lg>
+<lg>
+<l>O, Riigmands Søn af Evighed,</l>
+<l>Hvor komst Du fattig dog herned,</l>
+<l><hi rend="align(right)">For mig utroe, Gjeldbundne Svend</hi></l>
+<l><hi rend="align(right)">At giøre kongeriig igien!</hi></l>
+</lg>
+<lg>
+<l>Al Verden, nok saa vid og lang,</l>
+<l>Til Vugge var jo Dig for trang,</l>
+<l><hi rend="align(right)">For ringe, om med Guld tilredt,</hi></l>
+<l><hi rend="align(right)">Og perlestukket, silkebredt.</hi></l>
+</lg>
+<lg>
+<l>Men for af Smaat giøre Stort,</l>
+<l>Af Stort Du her har Lidet giort,</l>
+<l><hi rend="align(right)">I Krybben lagt, i Klude svøbt,</hi></l>
+<l><hi rend="align(right)">En Himmel-Seng Du mig har kiøbt!</hi></l>
+</lg>
+<lg>
+<l>Velan, min Sjæl! saa vær nu glad,</l>
+<l>Og hold din Juul i Davids Stad!</l>
+<l><hi rend="align(right)">Ja, priis din Gud i allen Stund</hi></l>
+<l><hi rend="align(right)">Med liflig Sang af Hiertens Grund!</hi></l>
+</lg>
+<lg>
+<l>Ja, fryd dig, Mark! sjung høit, du Skov!</l>
+<l>I Muldet gaaer nu Herrens Plov,</l>
+<l><hi rend="align(right)">Og Selv Han lægger Sæd i Jord</hi></l>
+<l><hi rend="align(right)">Tit Himmel-Brød paa Alter-Bord!</hi></l>
+</lg>
+<lg>
+<l>O, sjung dog hver, som stamme kan!</l>
+<l>Nu tændtes Lys i Skyggers Land,</l>
+<l><hi rend="align(right)">Og ret som Midnats-Hanen goel</hi></l>
+<l><hi rend="align(right)">Blev Jakobs Stjerne til en Soel!</hi></l>
+</lg>
+<lg>
+<l>Nu kom Han, Patriarchers Haab,</l>
+<l>Med Nytaars-Vers og Himmel-Daab!</l>
+<l><hi rend="align(right)">Og Barnet tyder nu i Sang</hi></l>
+<l><hi rend="align(right)">Hvad David dunkelt saae og sang!</hi></l>
+</lg>
+<lg>
+<l>Kom, Jesus! var vor Hytte-Giæst!</l>
+<l>Hold Selv i os Din Jule-Fest!</l>
+<l><hi rend="align(right)">Da skal med Davids-Harpens Klang</hi></l>
+<l><hi rend="align(right)">Dig takke høit vor Nytaars-Sang!</hi></l>
+</lg>
+<p><hi rend="align(right)">N. F.S.Grundtvig.</hi></p>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

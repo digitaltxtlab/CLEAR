@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>DE GAMLES OG DE UNGES SKAAL</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-24"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="009"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1845">1845</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1845_9_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">DE GAMLES OG DE UNGES SKAAL<lb/>den 24de Juni 1845.</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<pb facs="1845_9_page0002.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l><hi rend="initial">S</hi>om Haabet er de Unges Lyst,</l>
+<l>De Gamles Skat er Minde,</l>
+<l>Et Gladhjem dog er kun det Bryst,</l>
+<l>Hvor skjönt de sammenrinde;</l>
+<l>Med Ynde saa de sammenrandt</l>
+<l>Fra Arildstid i Norden,</l>
+<l>Det Kæmpeglæden viste grandt</l>
+<l>Ved Gjallerhornets Torden!</l>
+</lg>
+<lg>
+<l>Det <hi rend="italic">Gjallerhorn </hi>var <hi rend="italic">Mimers </hi>Skat,</l>
+<l>Med Graahaars-Krands om Tinde,</l>
+<l>Som vaaged baade Dag og Nat,</l>
+<l>Og droges Alt til Minde ;</l>
+<l>Men Hornet var og <hi rend="italic">Heimdals </hi>Tröst,</l>
+<l>Hvor paa sit höie Stade,</l>
+<l>Med Ungdoms-Haabet i sit Bryst,</l>
+<l>Han vakde Kæmper glade!</l>
+</lg> 
+<pb facs="1845_9_page0003.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Saa skal i Norden nu paany</l>
+<l>De gamle Dages Minde</l>
+<l>Med Fremtids-Haabet höit i Sky</l>
+<l>Til Glæde sammenrinde.</l>
+<l>Vort Nordens Kæmpevækker-Sang</l>
+<l>Gjenfödes da paa Tunge,</l>
+<l>Og det er Gjallerhornets Klang</l>
+<l>For Gamle og for Unge!</l>
+</lg>
+<lg>
+<l>Af Mindet födt med Graahaarskrands,</l>
+<l>Fra Mimersbrönd i Dale,</l>
+<l>Paa Haabets höie Hest i Dands</l>
+<l>Til Himmelbjergets Svale,</l>
+<l>Sig svinger Nordens Bjarkemaal</l>
+<l>Med Klang af Hjertets Fylde:</l>
+<l>"De Gamles og de Unges Skaal</l>
+<l>Som Kæmpeaanden hylde!"</l>
+</lg>
+<p><hi rend="align(right)"><hi rend="italic"><hi rend="bold">N. F. S. Grundtvig</hi>.</hi></hi></p>
+<p><hi rend="italic">Trykt h</hi>os J. D. Qvist.</p>
+</div>
+</body>
+</text>
+</TEI>

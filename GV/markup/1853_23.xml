@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Dannebrog.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-22"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="023"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1853">1853</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1853_23_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Dannebrog.<lb/></titlePart>
+	<titlePart type="sub">Et Ugeblad for den Danske Forening.<lb/></titlePart>
+				<fw type="graphic"/>
+</docTitle>
+<byline>Udgivet ved<lb/>
+	<docAuthor>Fred. Barfod.<lb/></docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition></docEdition>
+				<docImprint>
+				<pubPlace></pubPlace>.
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Den Danske Nødvendighed.</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="spaced">"<hi rend="initial">N</hi>øden bryder alle Love</hi>"</l>
+<l>Er hos os et gammelt Ord,</l>
+<l>Som i Hytten, saa til Hove,</l>
+<l>Høres paa den hele Jord,</l>
+<l>Har hos <hi rend="spaced">Mahomed og Tyrken</hi></l>
+<l>Dog sit rette Hjem i Vrien.</l>
+</lg>
+<lg>
+<l>Troen paa den blinde Skæbne,</l>
+<l>Den som Fæ staaer Folk ihjel,</l>
+<l>Giør, hvor godt de sig end væbne,</l>
+<l>Hvem den vil til Tyv og Træl,</l>
+<l>Den, som Tyrker og som Trolde,</l>
+<l>Fødtes kun til ondt at volde.</l>
+</lg>
+<lg>
+<l>Dog har <hi rend="spaced">Nøden i Nød-Værge</hi></l>
+<l><hi rend="spaced">Bryde-Ret</hi> med hver en Lov,</l>
+<l>Der forbyder sig at bjerge,</l>
+<l>Som man kan, for Mord og Rov;</l>
+<l>Den har Kæmper, den har Dværge,</l>
+<l>Folk paa Sletter som paa Bjerge.</l>
+</lg>
+<lg>
+<l>Skjoldung-Folk paa Danmarks-Sletten!</l>
+<l>Som med Sværd, med Mund og Pen,</l>
+<l>Ogsaa du Nødværge-Netten</l>
+<l>Har mod dine Banemænd,</l>
+<l>Om Saa end al Verdens Love</l>
+<l>Dig forbod derpaa at vove.</l>
+</lg>
+<lg>
+<l>Haanlig nok vil mange sige:</l>
+<l>Hvad er Ret foruden Magt!</l>
+<l>Har vel Ret til noget Rige</l>
+<l>Alen eller Ager lagt?</l>
+<l>Har, trods Magten, Retten givet</l>
+<l>Natte-Frist til Folke-Livet?</l>
+</lg>
+<lg>
+<l>Dog kan du frimodig svare:</l>
+<l>Hvad er Magt foruden Ret!</l>
+<l>Kan den vinde vel og vare,</l>
+<l>Skiøndt altid den bruges siet?</l>
+<l>I al Ret er <hi rend="spaced">Sandhed</hi> inde,</l>
+<l>Maa tilsidst ei <hi rend="spaced">Sandhed</hi> vinde!</l>
+</lg>
+<lg>
+<l>Megen Uret Folk kan bære,</l>
+<l>Taal-Mod er det bedste Mod,</l>
+<l>Men for "<hi rend="spaced">Liv og Gods og Ære</hi>"</l>
+<l>Flyde maa hver Draabe Blod,</l>
+<l>I den Kamp, det maa vel mindes,</l>
+<l>Intet voves, Alt kan vindes!</l>
+</lg>
+<lg>
+<l>Det var Skjoldung-Folkets Tanke</l>
+<l>Giennem et Par Tusindaar,</l>
+<l>Og de Smaa, som rede Ranke</l>
+<l>Paa vort Knæ endnu igaar,</l>
+<l>Af vor Sang har alt udgrundet,</l>
+<l>Hidindtil har <hi rend="spaced">Dansken vundet</hi>.</l>
+</lg>
+<lg>
+<l>Fire, fem Aar kun tilbage,</l>
+<l>Det blev os i Vine Sagt:</l>
+<l>"Vi er stærke, I er Svage:</l>
+<l>Hvad er Ret foruden Magt!</l>
+<l>Trods al Verdens Skifte-Breve,</l>
+<l><hi rend="spaced">Tysken høit i Danmark</hi> leve!"</l>
+</lg> 
+<pb facs="1853_23_page0002.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Til os kom den Nest som Torden,</l>
+<l>Trued grumt med Knald og Fald,</l>
+<l>Døe vog pleier i vort Norden</l>
+<l>Trolde kun af Tordenskrald,</l>
+<l>Hvad af Trolde Livet strækker,</l>
+<l><hi rend="spaced">Dansken</hi> kun af Sovne vækker!</l>
+</lg>
+<lg>
+<l>Saa den tyste Tordentale</l>
+<l>Vakde op i Danevang,</l>
+<l>Som af Sovne og af Dvale,</l>
+<l>Heltemod og Folkesang,</l>
+<l>Kæmpe-Aanden, Folke-Magten,</l>
+<l>Bavne-Blusset, Grændse-Vagten!</l>
+</lg>
+<lg>
+<l>Ja, den stolte Tordentale,</l>
+<l>Som en Tysser barsk og vred,</l>
+<l>Vakde op af Søvn og Dvale</l>
+<l><hi rend="spaced">Danskens</hi> gamle <hi rend="spaced">Kiærlighed</hi>,</l>
+<l>As hvis Moderskiød udspringer</l>
+<l>Ret og Magt med Englevinger!</l>
+</lg>
+<lg>
+<l><hi rend="spaced">Kiærlighed</hi> til Fædrelandet</l>
+<l>Er den sande <hi rend="spaced">Odels-Ret</hi>,</l>
+<l>Kiærlighed og intet andet</l>
+<l>Elsker op en Helte-Æt;</l>
+<l>Kiærlighed i Pagt med Aanden</l>
+<l>Den faaer altid <hi rend="spaced">Over-Haanden</hi>!</l>
+</lg>
+<lg>
+<l>Ja, i Kiærlighedens Rige</l>
+<l><hi rend="spaced">Ret og Magt </hi>gaaer Haand i Haand,</l>
+<l>Knytter, som hinandens Lige,</l>
+<l>Frit Fuldkommenhedens Baand,</l>
+<l>Løser paa en yndig Maade</l>
+<l>Saa <hi rend="spaced">Nødvendighedens</hi> Gaade!</l>
+</lg>
+<lg>
+<l><hi rend="spaced">Kiærlighed</hi> alt Sit udretter</l>
+<l>Som <hi rend="spaced">nødvendig</hi>!-, men dog frit,</l>
+<l>Flytter frit, hvad Loven sætter:</l>
+<l>Skiellet mellem Mit og Dit;</l>
+<l>Er ei blot dog at undskylde,</l>
+<l>Men er hele Lovens Fylde!</l>
+</lg>
+<lg>
+<l>Kiærlighedens <hi rend="spaced">Himmerige</hi></l>
+<l>Er endnu at vente paa,</l>
+<l>Kiærlighedens <hi rend="spaced">Jorderige</hi></l>
+<l>Lukkes dog med Bølgen blaa,</l>
+<l>Er endnu og var alt længe</l>
+<l>"Danmark, deiligst Vang og Vænge!"</l>
+</lg>
+<lg>
+<l>Derfor, <hi rend="spaced">Danmark</hi>! frygt kun ikke!</l>
+<l>Frygt er ei af Kiærlighed,</l>
+<l><hi rend="spaced">Morgen-Dugg</hi>, som Mjød at drikke,</l>
+<l>Faldt til Dig fra Himlen ned,</l>
+<l>Den dig midt i Ragna-Mørke</l>
+<l>Skiænker Lys og Liv og Størke!*)</l>
+</lg>
+<lg>
+<l>Frygt ei for hvad <hi rend="spaced">Verden</hi> kalder</l>
+<l>Sin <hi rend="spaced">Nødvendighed</hi> af Staal!</l>
+<l>Anderledes deilig falder</l>
+<l>Ord paa <hi rend="spaced">Himlens</hi> Tungemaal,</l>
+<l>Dens <hi rend="spaced">Nødvendighed</hi> herneden,</l>
+<l>Det er netop <hi rend="spaced">Kiærligheden</hi>!</l>
+</lg>
+<lg>
+<l>Derfor, hvad end Verden siger,</l>
+<l>Og hvad Verdens-Magten vil</l>
+<l>Staaer og falder Jordens Niger</l>
+<l>Dog med Kiærlighedens Ild,</l>
+<l>Hvor den blusser, boer Livsgrøden,</l>
+<l>Hvor den slukkes, hersker Døden!</l>
+</lg>
+<lg>
+<l>Blus da op i Lys og Lue,</l>
+<l>Danmarks gamle Kiærlighed!</l>
+<l>Atter til din Blomster-Tue</l>
+<l>Da <hi rend="spaced">Lysalfer</hi> svæve ned,</l>
+<l>Bringe med fra hole Sæde</l>
+<l>Danmarks Livslys: Hjertensglæde!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

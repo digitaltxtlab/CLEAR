@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Nordisk Kirke-Tidende</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-20"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="001"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1835">1835</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1835_1_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Nordisk Kirke-Tidende</titlePart>
+</docTitle>
+<byline>Udgiven at<lb/>
+	<docAuthor>Jac. Chr. Lindberg</docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition>Nr. 31. Tredie Aargang 1835</docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace></pubPlace>7 Söndag efter Trinitatis.  Trykt hos Fabritius de Tengnagel.<lb/>Maa trykkes. I Kjøbenhavns Politieret den 1 August 1835. C. Kejersen.
+<fw type="graphic"/>
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<head>En Bede-Psalme.1)</head>
+<fw type="graphic"/>
+</div>
+<div>
+<lg>
+<l><hi rend="initial">O</hi>, hør os, Herre, for Din Død!</l>
+<l>O <hi rend="spaced">Jesus</hi>! Hjelp os i vor Nød,</l>
+<l>Du selv os styr' og raade!</l>
+<l>Vor Agt Du veed, o, hør vor Røst,</l>
+<l>Send fra Din Høihed Lys og Trøst;</l>
+<l>For vi er stædt i Vaade.</l>
+</lg>
+<lg>
+<l>Udsend Din Aand, som Alting veed,</l>
+<l>Hvis Liv og Lyst er Kiærlighed!</l>
+<l>Vor Tunge Han opgløde,</l>
+<l>Saa sandt og sødr vi sjunge om</l>
+<l>Hvad Nyt med Dig til Verden kom,</l>
+<l>Saa nyt, som Liv af Døde!</l>
+</lg>
+<lg>
+<l>Trods al den Deel os var imod,</l>
+<l>Du raadte paa vor Vaande Bod,</l>
+<l>Det er fuldværdt at mærke;</l>
+<l>Thi Du, som under os faa godt,</l>
+<l>Du er med Æren Drotters Drot,</l>
+<l>Den Store og den Stærke!</l>
+</lg>
+<lg>
+<l>Du er den Soel, som skinned klar,</l>
+<l>For Skiel der sattes aabenbar</l>
+<l>1) En Omarbejdelse af den ældgamle danske Sang:</l>
+<l>"O, Jesu, hør mig for Din Død."</l>
+<l>Imellem Lys og Mørke.</l>
+<l>Vi uden Nat faae Dag paa Ny,</l>
+</lg>
+<lg>
+<l>Naar ret Du bryder giennem Sky</l>
+<l>Og straaler i Din Storke!</l>
+<l>Du er en Konstner og saa fiin,</l>
+<l>Af Vand Du skaber herlig Viin,</l>
+<l>Af Kampe-Steen en Kilde,</l>
+<l>Ja, Dig i Himmel og paa Jord</l>
+</lg>
+<lg>
+<l>Alt Stor-Værk koster kun et Ord,</l>
+<l>Din Fader saa det vilde.</l>
+<l>Var Helveds Afgrund end opladt,</l>
+<l>Og vilde os opsluge bradt,</l>
+<l>Fik vi kun Dig i Tale,</l>
+<l>Du gjorde dog, trods Synd og Død,</l>
+</lg>
+<lg>
+<l>Os Pinen kort og Sorgen sød,</l>
+<l>Oplod os Himlens Sale!</l>
+<l>Men stod jeg som en Engel reen</l>
+<l>End for mig selv og for hver Een,</l>
+<l>Frabad mig stolt Din Naade;</l>
+<l>Med hvem jeg saa end stod i Pagt,</l>
+<l>Slet ingen Dyd og ingen Magt</l>
+</lg>
+<lg>
+<l>Et Haar mig kunde baade.</l>
+<l>O, derfor lad Din Aand udgaae</l>
+<l>Med Kald paa Store og paa Smaa,</l>
+</lg> 
+<pb facs="1835_1_page0002.png"/>
+<fw type="pageNum">483</fw>
+<lg>
+<l>At de til Dig maa komme,</l>
+<l>For hvert et Øje Dig stal see</l>
+<l>Og Dine Fiender raabe Vee</l>
+<l>For Sandheds stærke Domme!</l>
+</lg>
+<lg>
+<l>Ja, Guddoms-Soel, fuldstærk og blid!</l>
+<l>O, skin nu klar i Naadens Tid,</l>
+<l>Gjør lang Din Aften-Røde!</l>
+<l>Lad blomstre op Din Kirke-Gaard,</l>
+<l>Mens Fuglen sjunger som i Vaar</l>
+<l>Din priis med Toner søde!</l>
+</lg>
+<lg>
+<l>Ja, siig nu i Din Faders Favn:</l>
+<l>Min Fader! herliggjør mit Navn,</l>
+<l>Hvor Smaa end for mig græde;</l>
+<l>Saa det kan spørges vidt og bredt:</l>
+<l>Mit Aag er godt, min Byrde let,</l>
+<l>Min Fred er salig Glæde!</l>
+</lg>
+<lg>
+<l>O, da skal mangt et Øje lukt</l>
+<l>Sig aabne bradt og tindre smukt,</l>
+<l>Helbredet af Din Aande,</l>
+<l>Og mangen falmet Rosen-Kind,</l>
+<l>Og mangt forvildet Barne-Sind</l>
+<l>Faae Bod for Brøst og Vaande!</l>
+</lg>
+<lg>
+<l>Og fra de Smaa, som græd i Løn,</l>
+<l>For de saae ei Guds kiære Søn,</l>
+<l>Dengang han var til Skue,</l>
+<l>Fra dem skal lyde høit i Sky</l>
+<l>Halleluja med Tunger nye,</l>
+<l>At sprænge Himlens Bue!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

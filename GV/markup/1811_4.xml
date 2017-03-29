@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Udby Kirkebygning</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-19"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="004"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1811">1811</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1811_4_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main"></titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<docImprint>
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<p>"1811, 25de Juni synet Udby Kirke, hvis Ejer og patron er Geheime-Konferentsraad Raden til Beldringe, og erklærede Synsmændene, at Kirken ingen Forbedring havde faaet siden sidste Syn forrige Aar, men at Kirken, ved Henstand af Reparation blev aarlig stettere. - Saaledes synes Alterklædet at være Pjalter, Vinduerne i Roret og ved prædikestolen saa slette, at det beundres, at den gamle Sognepræst har kunnet beholde Livet for Træk. Kirken er indvendig grøn og en Del Stole helt nede i Kirken rent forfaldne. Udvendig behover 
+<pb facs="1811_4_page0002.png"/>
+<fw type="pageNum">33</fw>
+Kirkens Mure og Tag Hovedreparation, ligesom ogsaa Ringmuren. Det saakaldte Sakristi mangler et helt Vindue, samt Kalkning og Hvidtning. Uhret staar og trænger særlig til Reparation, og i Erindring bringes det kongelige Reskript om Uhres Istandsættelse, hvis Birken ikke skal hjemfalde til</p>
+<p>Kongen. - Synsmændene formente, at dette Syn, der i Aar viser Kirkeejerens Forsømmelse i at lade kirken reparere, bor indsendes til det danske Kancelli, for at faa Hs. Majestæts høje Befaling til Ejeren om alt Istandsættelse." -</p>
+<pb facs="1811_4_page0003.png"/>
+<fw type="pageNum"></fw>
+<p>1312 Dom. Qvasimodog. i Udby Ritke.</p>
+<p>1. Hans Olsen - Udby - 14.</p>
+<p>2. Niels Jensen - Ørslev - 14. 3. Peder Pedersen - ibid. - 15.</p>
+<p>4. Peder Jensen - ibid. - 15.</p>
+<p>5. Lydik Christensen - ibid. - 14.</p>
+<p>6. Lars Larsen - ibid. - 15.</p>
+<p>7. Jens Brydesen - Udby - 16.</p>
+<p>3. Hans Pedersen - Grumløse - 15.</p>
+<p>9. Ane Marie Mortensd. - Ørstev - 14.</p>
+<p>10. Maren Hemmingsd. - Skallerup - 15.</p>
+<p>11. Dorthe Hansd. - Gromløse - 14.</p>
+<p>12. Lisbeth Nielsd. - Udby - 14. 13. Kirsten Pedersd. - Teilstrup - 14.</p>
+<p>14. Ane Kirstine Jensd. - Ørslev - 14.</p>
+<p>15. Birtbe Jensd. - ibid. - 14.</p>
+<p>16. Ane Hansd. - ibid. - 14.</p>
+<p>17. Kirsten Rasmusd. - Ørslev - 14.</p>
+</div>
+</body>
+</text>
+</TEI>

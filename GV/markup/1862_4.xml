@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Nanna Reedk.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-26"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="004"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1862">1862</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1862_4_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Nanna Reedk.</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace></pubPlace><lb/>
+<fw type="graphic"/>
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Nanna Reedk.*)</head>
+<lg>
+<l><hi rend="initial">M</hi>enneskets Herlighed</l>
+<l>Blomsten af Menneske-Livet,</l>
+<l>Kan ikke vare ved,</l>
+<l>Visner som Græsset og Sivet,</l>
+<l>Det volder Vinter kold,</l>
+<l>Døden som Syndens Sold,</l>
+<l>Sorgeligt er det tilsyne!</l>
+</lg>
+<p>*) Hun var en Datter af Kammerherre Reedtz og Helga Reedtz, født Boisen, og var knyttet med det inderligste Kjærligheds Baand til hendes Moders Broder, vor elskede nu med hende i Guds Rige forenede P. O. Boisen. Fed den 7. Februar 1834, død 13. Marts 1862.</p>
+<pb facs="1862_4_page0002.png"/>
+<fw type="pageNum">607</fw>
+<lg>
+<l>Gudsordets Herlighed</l>
+<l>Blomsten af Paradis-Livet,</l>
+<l>Evig den varer ved,</l>
+<l>Er og Guds <hi rend="spaced">Menighed</hi> givet,</l>
+<l>Kjødet til Herrens Dag</l>
+<l>Har dog sit Vinterlag,</l>
+<l>Savner end Paradis-Varmen!</l>
+</lg>
+<lg>
+<l>Derfor med Sorg vi saae</l>
+<l>Blomsten af Menneske-Livet</l>
+<l>Selv hos Vorherres Smaa</l>
+<l>Visne som Græsset og Sivet,</l>
+<l>Dog er i deres Bryst</l>
+<l>Ordet med evig Trøst,</l>
+<l>Aanden med Paradis-Vaaren!</l>
+</lg>
+<lg>
+<l>Nys vi ved <hi rend="spaced">Nannas</hi> Død</l>
+<l>Midt under Vinterens Kulde</l>
+<l>Vaarsolen morgenrød</l>
+<l>Skimtede mild over Mulde,</l>
+<l>Af hendes Tro og Daab</l>
+<l>Trøstigt var Livets Haab,</l>
+<l>Hilsed Opstandelsens Morgen!</l>
+</lg>
+<lg>
+<l>Derfor ved Nannas' Grav</l>
+<l>Milde skal Taarerne rinde,</l>
+<l>Han, som os <hi rend="spaced">Haabet</hi> gav</l>
+</lg> 
+<pb facs="1862_4_page0003.png"/>
+<fw type="pageNum">608</fw>
+<lg>
+<l>Og sin Velsignelses <hi rend="spaced">Minde</hi>,</l>
+<l><hi rend="spaced">Jesus</hi> sin Straalekrands</l>
+<l><hi rend="spaced">Jesus</hi> sin Guddomsglands</l>
+<l>Neier med sine Gjenfødte!</l>
+</lg>
+<lg>
+<l>Menneskets Herlighed</l>
+<l>Gjenløst i Livet fra Graven,</l>
+<l>Evig den varer ved,</l>
+<l>Og overstraaler Gudshaven;</l>
+<l>Hvad nu de Smaa kun troer,</l>
+<l>Aand er og Liv Guds Ord,</l>
+<l>Himlen og Jorden forklarer!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

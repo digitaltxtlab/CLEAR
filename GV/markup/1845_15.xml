@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>DEN STORES og DEN LILLES Bryllup</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-24"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="015"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1845">1845</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1845_15_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Ved<lb/>DEN STORES og DEN LILLES</titlePart>
+	<titlePart type="sub">Bryllup</titlePart>
+</docTitle>
+				<fw type="graphic"/>
+				<docEdition>den 23de October 1845.</docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace>KJÖBENHAVN.</pubPlace>.Trykt hos J. D. QVIST, Bog- og Nodetrykker.<lb/>Badstuestræde Nr. 124.<lb/>
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<pb facs="1845_15_page0002.png"/>
+<fw type="pageNum"></fw>
+<fw type="graphic"/>
+<head><hi rend="italic">Mel, </hi>At Slyngler hævns til Ærens Top.</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">T</hi>ag fra de Store, læg til de Smaa!</l>
+<l>Det giælder nu for de Vises Tale,</l>
+<l>Og Lighed stemmer de Lærde paa,</l>
+<l>Om saa end Alle blev lige gale,</l>
+<l>Det la'r sig höre,</l>
+<l>Naar man har Öre,</l>
+<l>Men vilde Nogen det her udföre,</l>
+<l>O vee! o vee!</l>
+</lg>
+<lg>
+<l>See til vor Brudgom og til vor Brud,</l>
+<l>Og tænk engang, naar de skulde maales,</l>
+<l>Og alting regnes saa nöie ud,</l>
+<l>At ingen Forskiel der maatte taales!</l>
+<l>Hvad blev tilbage</l>
+<l>Da, værdt at tage,</l>
+<l>Af dem, som nu er hinandens Mage,</l>
+<l>Trods Stort og Smaat?</l>
+</lg> 
+<pb facs="1845_15_page0003.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Gid alle Store og alle Smaa</l>
+<l>Da kun som Disse holdt af hinanden!</l>
+<l>Da selv de Mindste ei pröved paa</l>
+<l>For Ligheds Skyld at gaae fra Forstanden;</l>
+<l>Da modtes Mundo</l>
+<l>Af gode Grunde,</l>
+<l>Da gjorde Alle hvad bedst de kunde</l>
+<l>Til fælles Gavn.</l>
+</lg>
+<lg>
+<l>Hvor Smaat og Stort er saa vel forligt,</l>
+<l>Der bliver Ingen ved Maalet narret,</l>
+<l>Og derfor gierne vi giör vor Pligt,</l>
+<l>Og tomme Skaalen for Brudeparret:</l>
+<l>Gid endnu silde</l>
+<l>De lige milde</l>
+<l>Maae giöre Börnenes Bryllups-Gilde,</l>
+<l>Som det idag!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

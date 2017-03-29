@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Verdens-Bygningen,</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-20"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="001"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1830">1830</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1830_1_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Tyge Brahe</titlePart>
+	<titlePart type="sub">Danmarks Astronom</titlePart>
+</docTitle>
+<byline></byline>
+				<fw type="graphic"/>
+				<epigraph>
+					<p>Föd d. 14 Decemb. 1546</p>
+					<p>Död d. 21 Octob. 1601</p>
+					<lg>
+					<l>Sank end Borgen höit Du bygde,</l>
+					<l>Löber Jorden rundt i Skolen,</l>
+					<l>Sörg kun aldrig for Dit Rygte</l>
+					<l>Som staaer op og Gaaer med Solen</l>
+					</lg>
+					<p><hi rend="align(right)">N.F.S Grundtvig</hi></p>
+				</epigraph>
+</titlePage>
+			<titlePage>
+			<pb facs="1830_1_page0002.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Om<lb/>Verdens-Bygningen,</titlePart>
+	<titlePart type="sub">Arent Uschlund.</titlePart>
+</docTitle>
+<byline></byline>
+				<fw type="graphic"/>
+				<epigraph>
+<lg>
+<l>Bort med Yver Plancte-Veier,</l>
+<l>Solen gaaer jo frem med Sejer,</l>
+<l>Som en Brudgom af sit Brude-Huus.</l>
+</lg>
+<p><hi rend="align(right)">Hermed 5 Kobberplader.</hi></p>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace>Kjöbenhavn.</pubPlace>paa den Wahlske Boghandlings Forlag.<lb/>Trykt i p, Jørgensens Bogtrykkeri.
+<fw type="graphic"/>
+<docDate>1830</docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+</div>
+</body>
+</text>
+</TEI>

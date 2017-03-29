@@ -1,0 +1,2456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI PUBLIC "-// NSL Norge //EN" "http://www.bokselskap.no/tekstkoding/NSL_tei_xinclude.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="BS_PoetiskeSamlinger">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>bokselskap.no, 2015
+<lb/><hi rend="italic">Poetiske Samlinger</hi>
+<lb/>Teksten i bokselskap.no f&#x00F8;lger 1. utgave, 1775 (K&#x00F8;benhavn, A. H. Godiches Efterleverske). Digitaliseringen er basert p&#x00E5; fil mottatt fra Nasjonalbiblioteket (nb.no)
+<lb/>ISBN: 978-82-8319-243-8 (digital, bokselskap.no), 978-82-8319-244-5 (epub), 978-82-8319-245-2 (mobi)
+</title>
+</titleStmt>
+<publicationStmt>
+<p>Publiseres som digital tekst av bokselskap.no.</p></publicationStmt>
+<sourceDesc>
+<p>digibok_2009101503007.epub (mottatt fra Nasjonalbiblioteket 2013)</p>
+</sourceDesc>
+</fileDesc>
+<revisionDesc>
+<change who="ENW" when="2015-06-29">F&#x00F8;rt inn korrekturrettelser (HBD). Lagt inn sidetall og ISBN. Entiteter, validering og kodekontroll.</change>
+<change xml:id="ENW" who="ENW" when="2015-02-05">XML-koding. Klar for korrektur.</change>
+</revisionDesc>
+</teiHeader>
+<text xml:id="BS_PoetiskeSamlinger_tekst" type="collection">
+<front>
+<titlePage type="main">
+<docTitle>
+<titlePart type="main">POETISKE SAMLINGER</titlePart>
+<titlePart type="sub">UDGIVNE AF ET SELSKAB</titlePart>
+<titlePart type="sub">F&#x00F8;rste Stykke</titlePart>
+</docTitle>
+<docDate>bokselskap.no<lb/>Oslo 2015</docDate>
+</titlePage>
+<div type="chapter" xml:id="contents">
+<list type="contents_main">
+<item><ref target="chapter_1" xml:id="contents_1">&#x005B;Om Poetiske Samlinger&#x005D;</ref></item>
+<item><ref target="chapter_2" xml:id="contents_2">Axel Tordsen og ski&#x00F8;n Valborg</ref></item>
+<item><ref target="chapter_3" xml:id="contents_3">Den ringe Stands Fordele</ref></item>
+<item><ref target="chapter_4" xml:id="contents_4">Ode til S&#x00F8;vnen</ref></item>
+<item><ref target="chapter_5" xml:id="contents_5">Tanker ved en Flod</ref></item>
+<item><ref target="chapter_6" xml:id="contents_6">Foraaret</ref></item>
+<item><ref target="chapter_7" xml:id="contents_7">S&#x00F8;vnen</ref></item>
+<item><ref target="chapter_8" xml:id="contents_8">Brev fra Waldborg Immers Datter til hendes Veninde</ref></item>
+<item><ref target="chapter_9" xml:id="contents_9">N&#x00F8;ysomhed</ref></item>
+</list>
+</div>
+</front>
+<body>
+<div type="chapter" subtype="intro">
+<head type="main"><ref type="contents" target="contents_1" xml:id="chapter_1">&#x005B;Om Poetiske Samlinger&#x005D;</ref></head>
+<p rend="center"><hi rend="italic">Et Selskab, som har faaet Navn af det Norske, fordi det bestod fornemmelig i Begyndelsen af Norm&#x00E6;nd, blev eenigt om at udsette smaa Pr&#x00E6;mier for dem af dets Medlemmer, som gjorde de bedste Vers. Af de indkomne Stykker har Selskabet troet, at nogle fortiente at trykkes, og af disse bestaaer f&#x00F8;lgende Samling.</hi></p>
+</div>
+<div type="chapter" n="1">
+<head type="main"><ref type="contents" target="contents_2" xml:id="chapter_2">Axel Tordsen og ski&#x00F8;n Valborg</ref></head>
+<p rend="center">af P. H. Fr.<note type="commentary">Peter Harboe Frimann (1752&#x2013;1839)</note></p>
+<lg>
+<l rend="indent_1"><pb n="5"/>I Tvilling&#x2013;Tr&#x00E6;er, som <hi rend="italic">Valborgs</hi> St&#x00F8;v</l>
+<l>Og <hi rend="italic">Axels</hi> Grav i Norges Egn beskygge,</l>
+<l>Som Elskov b&#x00F8;d med hv&#x00E6;lvet Green og L&#x00F8;v</l>
+<l>At gr&#x00F8;nnes over dem, og evig at betrygge;</l>
+<l>Med Fuglens Sang paa eders hvalte Greene,</l>
+<l>For <hi rend="italic">Axel</hi> og hans Brud min Klage sig foreene!</l>
+</lg>
+<lg>
+<l rend="indent_1">Og du, hvis Bryst er viet ind</l>
+<l>Af elsket Haand til Elskovs Sorg at giemme,</l>
+<l>Som giemmes ey, men flyder paa din Kind,</l>
+<l>Med dine Taarer best mit S&#x00F8;rge-Qvad skal stemme!</l>
+<l>Best f&#x00F8;ler<note type="footnote">f&#x00F8;ler] <hi rend="italic">rettet fra:</hi> foler</note> den, som kiender Elskovs L&#x00E6;nker,</l>
+<l>Hvor tungt de b&#x00E6;res maae belagt' med Tvang og R&#x00E6;nker.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="6"/>Af Norges Kongers h&#x00F8;ye Blod</l>
+<l>Var <hi rend="italic">Axel</hi> f&#x00F8;d (af Gillske Konge&#x2013;Stamme)</l>
+<l>Byrd i hans Skiold, Byrd i hans Aasyn stoed,</l>
+<l>Og roelig skued' han det blanke Staal at flamme;</l>
+<l>Held foran gik den seyerrige Fane</l>
+<l>Med &#x00C6;ren Haand i Haand for <hi rend="italic">Axel</hi> Vey at bane.</l>
+</lg>
+<lg>
+<l rend="indent_1">Nu hviled <hi rend="italic">Axels</hi> Sverd og Piil,</l>
+<l>Og fredelig hang Buen ved hans Skiolde;</l>
+<l>Men v&#x00E6;bnet da kom Elskov med en Smiil,</l>
+<l>Ham meere varigt Saar end hv&#x00E6;sset Staal at volde;</l>
+<l>Han <hi rend="italic">Valborg</hi> seer, hans Siel strax fyrig hylder</l>
+<l>Den s&#x00F8;de Pligt hver Siel, sig selv til &#x00C6;re skylder.</l>
+</lg>
+<lg>
+<l rend="indent_1">Dog endnu i sin sp&#x00E6;de Vaar</l>
+<l>Ski&#x00F8;n <hi rend="italic">Valborg</hi> var, og i sin Morgenr&#x00F8;de,</l>
+<l>Liig &#x00D8;stens Soel, som i sit Purpur staaer,</l>
+<l>Men snart fremtr&#x00E6;de vil i gylden Glands at gl&#x00F8;de;</l>
+<l>For ung hun er til <hi rend="italic">Axels</hi> Brud at blive,</l>
+<l>Dog f&#x00F8;ler Hiertet nok til <hi rend="italic">Axels</hi> sig at give.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="7"/>Tag denne Ring min unge Brud,</l>
+<l>(Var <hi rend="italic">Axels</hi> Ord) og tag med den mit Hierte!</l>
+<l>Jeg sv&#x00E6;rger dig min Troe ved <hi rend="italic">Olufs</hi> Gud,</l>
+<l>Og naar jeg bryder den, min Elskov blive Smerte!</l>
+<l>Vox blomstrende og blomstre mig til Gl&#x00E6;de,</l>
+<l>En gylden Sommer mig din ski&#x00F8;nne May berede!</l>
+</lg>
+<lg>
+<l rend="indent_1">Da slog den unge <hi rend="italic">Valborgs</hi> Bryst</l>
+<l>Ey meer, som f&#x00F8;r ved Selskab&#x2013;S&#x00F8;stres Leege;</l>
+<l>Det h&#x00E6;vedes af Elskov&#x2013;blandet Lyst,</l>
+<l>Og Leege-Tanker nu for Elskovs&#x2013;Tanker veege;</l>
+<l>Sin sp&#x00E6;de Haand hun ud til <hi rend="italic">Axel</hi> rakte,</l>
+<l>Mens R&#x00F8;dhed ubevidst sig over Kinden strakte.</l>
+</lg>
+<lg>
+<l rend="indent_1">Eet Blod i begges Aarer randt,</l>
+<l>Og S&#x00F8;dskende i Daaben begge vare;</l>
+<l>Usaligt Baand, som dette Fr&#x00E6;ndskab bandt,</l>
+<l>Misbrugt af Avinds Haand til deres Elskovs Snare!</l>
+<l>Usalig Lov, som Hiertet vilde byde</l>
+<l>Naturens h&#x00F8;ye Bud for Blod og Daab at bryde!</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="8"/>Men <hi rend="italic">Axel</hi> kaldte Venskabs Bud</l>
+<l>Til Herref&#x00E6;rd blandt de Teutonske Helte;</l>
+<l>At h&#x00E6;vne Vold; &#x2013; Og nu hans unge Brud</l>
+<l>Ham Skiold i H&#x00E6;nde gav og hv&#x00E6;sset Sverd ved B&#x00E6;lte;</l>
+<l>Den sp&#x00E6;de M&#x00F8;e toeg Vaabnene med M&#x00F8;ye,</l>
+<l>Og r&#x00E6;dsom saae dem an den bange <hi rend="italic">Valborgs</hi> &#x00D8;ye.</l>
+</lg>
+<lg>
+<l rend="indent_1">Sin unge Brud bad han Farvel,</l>
+<l>Han hende bad sit L&#x00F8;fte ey at glemme;</l>
+<l>Den unge Brud bad <hi rend="italic">Axel</hi> da Farvel,</l>
+<l>Og loved ham sin Troe med bange Jomfrue&#x2013;Stemme,</l>
+<l>Bort <hi rend="italic">Axel</hi> droeg — og <hi rend="italic">Valborgs</hi> &#x00D8;ye fulgte</l>
+<l>Sin Elsker langt paa Vey, indtil ham Skoven dulgte.</l>
+</lg>
+<lg>
+<l rend="indent_1">Glad flydde <hi rend="italic">Valborgs</hi> Ungdom bort,</l>
+<l>(Man uden Sorg paa Roser let kan tr&#x00E6;de)</l>
+<l>Hver Time var den glade Siel for kort,</l>
+<l>Hvert Skridt var idel Dands, hver Dag var idel Gl&#x00E6;de,</l>
+<l>En kierlig Sorg blot <hi rend="italic">Valborgs</hi> Hierte r&#x00F8;rte</l>
+<l>Naar L&#x00E6;ngsel hendes Siel til <hi rend="italic">Axels</hi> Minde f&#x00F8;rte.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="9"/>Saa staaer i rolig Sommer-Dag</l>
+<l>Den gyldne Frugt paa Tr&#x00E6;ets unge Qviste,</l>
+<l>Tit Qvisten er mod Stormens Magt for svag,</l>
+<l>Og tit, af Uvens Haand nedb&#x00F8;yet, maae den briste;</l>
+<l>Den faldne Frugt en ureen Muld van&#x00E6;rer,</l>
+<l>Og &#x00C6;blet, plukt med Vold, en graadig Mund fort&#x00E6;rer.</l>
+</lg>
+<lg>
+<l rend="indent_1">Som Dalens Lilje <hi rend="italic">Valborg</hi> stoed,</l>
+<l>Vidt glimrende iblandt udkaarne Piger,</l>
+<l>Hver Jarle&#x2013;S&#x00F8;ns, hver &#x00E6;del Ynglings Blod</l>
+<l>I hans forelskte Bryst for <hi rend="italic">Valborg</hi> eene stiger;</l>
+<l>Selv Kongens S&#x00F8;n, Prinds <hi rend="italic">Hagen</hi>, hende byder</l>
+<l>Sin Haand. &#x2013; Men Elskov ey i <hi rend="italic">Valborgs</hi> Bryst adlyder.</l>
+</lg>
+<lg>
+<l rend="indent_1">Mit Hierte, <hi rend="italic">Hagen</hi>, &#x00E6;rer dig,</l>
+<l>Men (svared' hun) din Elskov er dets Smerte;</l>
+<l>Da jeg var ung, har <hi rend="italic">Axel</hi> elsket mig;</l>
+<l>Da jeg var endnu sp&#x00E6;d bad han mig om mit Hierte;</l>
+<l>Jeg gav ham det &#x2013; F&#x00F8;r D&#x00F8;den det fort&#x00E6;re,</l>
+<l>F&#x00F8;r <hi rend="italic">Immers</hi> Datter skal sin <hi rend="italic">Axel</hi> troel&#x00F8;s v&#x00E6;re!</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="10"/>Men <hi rend="italic">Hagen</hi> <hi rend="italic">Axels</hi> Eyendom</l>
+<l>Trods Hiertets R&#x00F8;st ved Guld og Gunst vil have.</l>
+<l>Og snart en Flok af stolte Fr&#x00E6;nder kom,</l>
+<l>Som hendes Haand bortgav for Prindsens Morgengave.</l>
+<l>Hvor n&#x00F8;dig kan tit Hiertet Fr&#x00E6;nder lyde!</l>
+<l>O Fr&#x00E6;nder elsker f&#x00F8;rst og lader af at byde!</l>
+</lg>
+<lg>
+<l rend="indent_1">Da gr&#x00E6;der <hi rend="italic">Axels</hi> ski&#x00F8;nne Brud,</l>
+<l>Og Elskov brat opvaagner af sin Dvale,</l>
+<l>Hun sine Suk til <hi rend="italic">Axel</hi> sender ud:</l>
+<l>Naar vennel&#x00F8;se Raad til hendes Hierte tale;</l>
+<l>Forvandtes Raab det &#x00F8;mme Hierte plager,</l>
+<l>Og for den elskte Ven fordobler hendes Klager.</l>
+</lg>
+<lg>
+<l rend="indent_1">O kom, saa sukked' hun, igien,</l>
+<l>Du, som min Haand jeg gav i Barndoms Dage!</l>
+<l>Med Elskovs Iil vend om, udkaarne Ven,</l>
+<l>Hid til mit Bryst, til min udstrakte Arm tilbage!</l>
+<l>Ah du er min! din Elskov skal forsone</l>
+<l>Forvandtes grumme Raab og Tab af Norges Krone!</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="11"/>Omsonst jeg fordrer <hi rend="italic">Jullis</hi> Tr&#x00F8;st</l>
+<l>(Min Moders Tr&#x00F8;st, hvis St&#x00F8;v i Graven hviler;)</l>
+<l>Hun h&#x00F8;rer ey en sorgfuld Datters R&#x00F8;st,</l>
+<l>Det stumme Marmor <hi rend="italic">kun</hi> til mine Taarer smiler!</l>
+<l>O maler mig for <hi rend="italic">Axels</hi> Siel J Dr&#x00F8;mme!</l>
+<l>De Taarer viser ham, som paa min Kind nedstr&#x00F8;mme!</l>
+</lg>
+<lg>
+<l rend="indent_1">Saa klager <hi rend="italic">Valborg</hi> gr&#x00E6;dende,</l>
+<l>Og Elskov nu b&#x00F8;nh&#x00F8;rte hendes Klage;</l>
+<l>I Nattens Roe blev <hi rend="italic">Axels</hi> Elskede</l>
+<l>Med m&#x00F8;rke Farver f&#x00F8;rt udi hans Siel tilbage;</l>
+<l>Den stille S&#x00F8;vn sank paa hans &#x00D8;yne-Laage,</l>
+<l>Og sine Dr&#x00F8;mme b&#x00F8;d trindt om hans Siel at vaage.</l>
+</lg>
+<lg>
+<l rend="indent_1">Som <hi rend="italic">Hagens</hi> Brud han <hi rend="italic">Valborg</hi> seer</l>
+<l>Af Fr&#x00E6;nder fulgt til Alteret at tr&#x00E6;de; &#x2013;</l>
+<l>Snart skuer han den ski&#x00F8;nne Brud ey meer,</l>
+<l>Men kun det kolde Liig, som Venners Taarer v&#x00E6;de;</l>
+<l>Den bittre Graad af S&#x00F8;vnen ham opvekker</l>
+<l>Og til sit Natte&#x2013;Syn, sin Arm omsonst han strekker.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="12"/>Siig Elskende, som qv&#x00E6;les saa,</l>
+<l>Hvad <hi rend="italic">Axel</hi> leed, hvad Orm hans Hierte t&#x00E6;rte;</l>
+<l>Steen Leyet var, Ild hvad han vandred paa,</l>
+<l>Hans Gl&#x00E6;de Taarer var og andres Fryd hans Smerte;</l>
+<l>Den f&#x00E6;le Dr&#x00F8;m sig i hans Tanker h&#x00E6;fter,</l>
+<l>Og med fordoblet Frygt hans Elskov den bekr&#x00E6;fter.</l>
+</lg>
+<lg>
+<l rend="indent_1">Ey L&#x00E6;rkens Sang om Morgenstund</l>
+<l>Ey gylden Eng hans Hierte kunde gl&#x00E6;de;</l>
+<l>Til F&#x00E6;ngseler forvandledes hver Lund,</l>
+<l>Med Torne var bestr&#x00F8;ed hvad Vey han vilde tr&#x00E6;de;</l>
+<l>Hvor let blir ey selv Paradiser &#x00F8;de,</l>
+<l>Og Rosen Torne liig, naar Taarer smage s&#x00F8;de;</l>
+</lg>
+<lg>
+<l rend="indent_1">En Pillegrim af Norges Land</l>
+<l>And&#x00E6;gtighed ham da i M&#x00F8;de sendte;</l>
+<l>Han signede den gudelige Mand,</l>
+<l>Mens m&#x00F8;rke Varseler og Frygt hans Siel omspendte;</l>
+<l>Han om sin Brud et Svar af Mandens L&#x00E6;ber</l>
+<l>Adlyder, liig den Dom der frelser eller dr&#x00E6;ber.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="13"/>Den ski&#x00F8;nne mig ey fremmed er,</l>
+<l>(Var Mandens Svar) Hun er i alles Munde</l>
+<l>Og Hierter kiendt, men Kongens S&#x00F8;n i s&#x00E6;r</l>
+<l>Ber&#x00F8;ve vilde dig din <hi rend="italic">Valborg</hi> om han kunde.</l>
+<l>Iil <hi rend="italic">Axel</hi> da, hvis du din Brud vil eye,</l>
+<l>Iil du til hende hiem! &#x2013; Jeg vandrer mine Veye.</l>
+</lg>
+<lg>
+<l rend="indent_1">Meer iilende fl&#x00F8;y Piilen ey</l>
+<l>I Luften hen fra Buens stramme Seene,</l>
+<l>End <hi rend="italic">Axel</hi> paa sin L&#x00E6;ngselsfulde Vey</l>
+<l>Flyer hastende forbi dens &#x00F8;nskte Mile-Steene.</l>
+<l>Sin raske Fod den stolte Ganger h&#x00E6;ver,</l>
+<l>Den gr&#x00F8;nne Hede flyer og ved hans Fodslag b&#x00E6;ver.</l>
+</lg>
+<lg>
+<l rend="indent_1">Han kom, men s&#x00F8;rgende han fandt</l>
+<l>Sin ski&#x00F8;nne Brud, ski&#x00F8;n giennem hendes Taarer,</l>
+<l>Som ved hans Bryst dog mindre bittre randt;</l>
+<l>(Udi den Elsktes Barm os Modgang l&#x00F8;st kun saarer!)</l>
+<l>Opklarte blev de taaredugte Kinder,</l>
+<l>Som ski&#x00F8;nne Rosers Dug for Morgen&#x2013;Solen svinder.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="14"/>Den Kummer, som Frav&#x00E6;relsen</l>
+<l>Forvoldede, blev snart i begges Arme</l>
+<l>Af begge glemt; saa glemmer Moderen</l>
+<l>Sin Smerte, naar hun kan sit sp&#x00E6;de Barn omarme;</l>
+<l>Med Bryst til Bryst i Elskov svangre Sukke</l>
+<l>Fornye de sin Fryd og al sin Kummer slukke.</l>
+</lg>
+<lg>
+<l rend="indent_1">Men <hi rend="italic">Hagen</hi>, som fra <hi rend="italic">Valborg</hi> gik</l>
+<l>Fort&#x00F8;rnet bort, udklekked' frekke Tanker</l>
+<l>Mod <hi rend="italic">Valborgs</hi> Ven, og for det Ney han fik,</l>
+<l>Snart i sin Moders Ski&#x00F8;d, snart Raad blant Klerker sanker;</l>
+<l>Dog hende bort fra <hi rend="italic">Axels</hi> Bryst at rive</l>
+<l>Den sorte Broder <hi rend="italic">Knud</hi> ham eene Raad kan give.</l>
+</lg>
+<lg>
+<l rend="indent_1">Snart Munkene tienstagtig kom</l>
+<l>Bev&#x00E6;bnede med <hi rend="italic">Valborgs</hi> Stamme-Tavle,</l>
+<l>Hvori de fandt den himmelskrevne Dom,</l>
+<l>Som deres Orden dog har eene kundet avle;</l>
+<l>"I Blod og Daab forvandte begge ere,</l>
+<l>"De maae (saa d&#x00F8;mme de) tilsammen ikke v&#x00E6;re.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="15"/>Rind fromme Taare paa hvert Kind,</l>
+<l>Hvor Medynks Graad for Dydens Kummer flyder! &#x2013;</l>
+<l>Den sorte Pr&#x00E6;st af Gunst og Avind blind</l>
+<l>Med Smiil i Elskovs Kalk sin bittre Drik indgyder;</l>
+<l>Bland Gift deri! &#x2013; Forr&#x00E6;der, lad dem bl&#x00F8;de</l>
+<l>F&#x00F8;r ved din Dolk, end de saa qv&#x00E6;les skal til D&#x00F8;de!</l>
+</lg>
+<lg>
+<l rend="indent_1">Men f&#x00F8;lesl&#x00F8;s treen Munken frem</l>
+<l>For Offerne, der ved hinandens Side</l>
+<l>Den Vellyst n&#x00F8;d, som Elskov skienkte dem,</l>
+<l>Som Elskovs yndte Sl&#x00E6;gt kan eene f&#x00F8;lsom vide;</l>
+<l>Han Dommen dem kundgi&#x00F8;r, og Svaret finder,</l>
+<l>Un&#x00E6;vnelig i Ord, paa begges blege Kinder.</l>
+</lg>
+<lg>
+<l rend="indent_1">De maae (saa st&#x00E6;rk er Troens Magt!)</l>
+<l>Til Templet sig i Klerkers Kreds begive;</l>
+<l>Paa Alteret ved Messe-Bog var lagt</l>
+<l>En skr&#x00E6;kfuld Skilsmis-Dug, der, splittet ad, skal rive</l>
+<l>De Hierter l&#x00F8;s, som Elskov sammenbinder,</l>
+<l>Det st&#x00E6;rke Baand i tu, som strammes kun ved Hinder!</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="16"/>Da blev i begges h&#x00F8;yre Haand</l>
+<l>Med Munke&#x2013;Skik og Ord Liinkl&#x00E6;det givet;</l>
+<l>Hvo styrkede, o <hi rend="italic">Valborg</hi>, da din Aand,</l>
+<l>Da de det overskar? &#x2013; Hvo gav dig atter Livet,</l>
+<l>Da bleeg og kold du segnede til Jorden,</l>
+<l>Og Blodet iisnede ved Skilsmis-Dommens Torden?</l>
+</lg>
+<lg>
+<l rend="indent_1">For f&#x00F8;rste Gang er <hi rend="italic">Axels</hi> Arm</l>
+<l>Til <hi rend="italic">Valborgs</hi> Hielp for svag, (for svag af Smerte)</l>
+<l>Han v&#x00E6;dede med Graad den Ski&#x00F8;nnes Barm,</l>
+<l>Sin tabte <hi rend="italic">Valborgs</hi> Barm og nu halvd&#x00F8;de Hierte.</l>
+<l>Nedtrykt af Sorg laae han ved hendes Side,</l>
+<l>Og Munken rev ham bort — bort fra hans <hi rend="italic">Valborgs</hi> Side!</l>
+</lg>
+<lg>
+<l rend="indent_1">Ey Venners Hielp, men Elskovs Aand</l>
+<l>Blot <hi rend="italic">Axels</hi> Brud igien af D&#x00F8;den vakte;</l>
+<l>Den grumme Prinds greb hendes matte Haand,</l>
+<l>Som hendes Hierte kun imod sin <hi rend="italic">Axel</hi> rakte;</l>
+<l>Strax d&#x00F8;mmes hun til <hi rend="italic">Hagens</hi> Brud at v&#x00E6;re,</l>
+<l>Dens Brud, som Elskov kan med Tvang og List van&#x00E6;re!</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="17"/>Adskilt er <hi rend="italic">Valborg</hi> fra sin Ven,</l>
+<l>Kun <hi rend="italic">Axels</hi> Navn og taarefulde Kinder</l>
+<l>Og Hiertets Qval har hun til Deel igien;</l>
+<l>I Graad den Ski&#x00F8;nnes Glands og Ungdoms Blomster svinder,</l>
+<l>Den Rose liig, hvor Ormene dens Blade</l>
+<l>Og blomsterfulde Liv med giftig Braad beskade.</l>
+</lg>
+<lg>
+<l rend="indent_1">Og nu den m&#x00F8;rke Dag frembr&#x00F8;d;</l>
+<l>Den sidste Dag, da <hi rend="italic">Valborg</hi> skulde skue</l>
+<l>Sin Elskede — Forh&#x00E6;rdede, som b&#x00F8;d</l>
+<l>I helligt Raserie at slukke begges Lue!</l>
+<l>Hvi var du ey ved begges Graad tilstede,</l>
+<l>At smelte ved den Str&#x00F8;m, du voldte dem at gr&#x00E6;de?</l>
+</lg>
+<lg>
+<l rend="indent_1">Skal evig da mit &#x00D8;ye dig</l>
+<l>(Var <hi rend="italic">Valborgs</hi> Ord) udkaarne Brudgom savne,</l>
+<l>Da gak i Fryd! lev mere lykkelig,</l>
+<l>End en usalig Brud, som Graven best kan gavne!</l>
+<l>Dit &#x00E6;dle Bryst en anden <hi rend="italic">Valborg</hi> gl&#x00E6;de!</l>
+<l>Jeg kan ey glemme dig, jeg elske maae &#x2013; og gr&#x00E6;de</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="18"/>Dog snart min Graad skal t&#x00F8;rres af.</l>
+<l>Mit &#x00D8;ye har ey Taarer meer tilbage.</l>
+<l>De fl&#x00F8;d for dig! &#x2013; og Hiertet, som dem gav,</l>
+<l>Snart bristef&#x00E6;rdigt er, snart haster det at drage</l>
+<l>For dig, min Ven, de sidste haarde Sukke.</l>
+<l>Dit elskte Haand tilsidst mit brustne &#x00D8;ye lukke!</l>
+</lg>
+<lg>
+<l rend="indent_1">Hvo kan til Valborg give Svar?</l>
+<l>Hvad Tunge kan fortolke Mandens Smerte,</l>
+<l>Hvis Sprog var Graad, hvis Tale stedse var</l>
+<l>I Strid med dybe Suk fra det beklemte Hierte?</l>
+<l>Hvo tr&#x00F8;ster os og hvo kan Raad os give,</l>
+<l>Naar fra det elskte Bryst Tyranner os bortrive?</l>
+</lg>
+<lg>
+<l rend="indent_1">Men <hi rend="italic">Valborgs</hi> Kummer kr&#x00E6;ver Blod,</l>
+<l>Og <hi rend="italic">Hagen</hi> snart skal Hevnens Offer v&#x00E6;re,</l>
+<l>En findtlig H&#x00E6;r Blodfanen sv&#x00E6;ve lod,</l>
+<l>Mod H&#x00E6;ren <hi rend="italic">Axel</hi> skal sit Seyers Banner b&#x00E6;re;</l>
+<l>Ved <hi rend="italic">Axels</hi> Arm kan <hi rend="italic">Hagen</hi> eene vinde,</l>
+<l>Fra <hi rend="italic">Valborg</hi> skilt vil hiin sin D&#x00F8;d i Striden finde.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="19"/>Fra begges H&#x00E6;r fl&#x00F8;y D&#x00F8;den ud</l>
+<l>I krydsviis Flugt paa tusend hvasse Pile;</l>
+<l>Med Nederlag og Hevn et Pile&#x2013;Skud</l>
+<l>Fl&#x00F8;y ud, o Konge&#x2013;S&#x00F8;n, sig i dit Bryst at hvile! &#x2013;</l>
+<l>Han blegnende i D&#x00F8;den <hi rend="italic">Axel</hi> levner</l>
+<l>En blodig Seyers Roes og Navn af Folkets Hevner.</l>
+</lg>
+<lg>
+<l rend="indent_1">Den &#x00E6;dle sin Medbeylers D&#x00F8;d</l>
+<l>Med Seyers Sverd i mangt et Bryst giengielder,</l>
+<l>Men Sverdet sprang, og Blod, som stridig fl&#x00F8;d</l>
+<l>Af atten Bane&#x2013;Saar, omsider <hi rend="italic">Axel</hi> f&#x00E6;lder;</l>
+<l>Fred Folket fik, men <hi rend="italic">Valborgs</hi> Haab udslukkes,</l>
+<l>Og evig hendes Fryd med <hi rend="italic">Axels</hi> &#x00D8;yne lukkes.</l>
+</lg>
+<lg>
+<l rend="indent_1">Klag, <hi rend="italic">Malfred</hi>! for din slagne S&#x00F8;n.</l>
+<l><hi rend="italic">Ski&#x00F8;n Valborg</hi> klag! fortabt er al din Gl&#x00E6;de.</l>
+<l>D&#x00F8;d, <hi rend="italic">Malfred</hi>! er din Kongelige S&#x00F8;n.</l>
+<l>I Kampen, <hi rend="italic">Valborg!</hi> faldt din <hi rend="italic">Axel</hi> og din Gl&#x00E6;de.</l>
+<l>I M&#x00F8;dre nu for <hi rend="italic">Malfred</hi> Kinder v&#x00E6;der!</l>
+<l>I fromme D&#x00F8;ttre nu for <hi rend="italic">Immers</hi> Datter gr&#x00E6;der!</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="20"/>Omsonst gienkalder <hi rend="italic">Valborgs</hi> R&#x00F8;st</l>
+<l>Til Liv sin Ven; &#x2013; Den D&#x00F8;des Smiil bedrager</l>
+<l><hi rend="italic">Ski&#x00F8;n Valborgs</hi> Haab! koldt er det elskte Bryst.</l>
+<l>Hans Hierte slaaer ey meer, ey meer han Aande drager.</l>
+<l>Hun flyer, hun staaer; snart sig tvivlraadig vender,</l>
+<l>Til Liget snart et Blik, og snart til Himlen sender.</l>
+</lg>
+<lg>
+<l rend="indent_1">Den Himmel, som hun seer imod,</l>
+<l>Nu hendes Siel beslutter troe at tiene;</l>
+<l>For <hi rend="italic">Axels</hi> Tab og sig til Siele&#x2013;Bod</l>
+<l>Hun med betr&#x00E6;ngte sig i Orden vil foreene.</l>
+<l>Hun Verden flyer, men kan ey flye sin Smerte,</l>
+<l>Og n&#x00E6;rer kun den Orm, der nager hendes Hierte.</l>
+</lg>
+<lg>
+<l rend="indent_1">Hun skiftede med Fr&#x00E6;nder Guld;</l>
+<l>Hun usle gav sin fordums Lykkes Gaver;</l>
+<l>Selv vies hun af Klerken ind med Muld,</l>
+<l>Og Norges Pigers Roes i Klosteret begraver.</l>
+<l>Sin Venne-Kreds forlader hun med Taarer,</l>
+<l>Og dem til M&#x00E6;ttelse for evig sig udkaarer.</l>
+</lg>
+</div>
+<div type="chapter" n="2">
+<head type="main"><ref type="contents" target="contents_3" xml:id="chapter_3">Den ringe Stands Fordele</ref></head>
+<p rend="center">af Ove Gierlov Meyer.</p>
+<quote>
+<lg>
+<l><pb n="23"/>Nec levis ambitio, perfusaqve gloria fuco,</l>
+<l>Magnarumve fames sollicitavit opum.</l>
+<l><hi rend="italic">Ovid</hi>.</l>
+</lg>
+</quote>
+<figure rend="asterisk"/>
+<lg>
+<l rend="indent_1">Stiig H&#x00F8;yheds Slave kun! bliv stor! tving Modgangs B&#x00F8;lger!</l>
+<l>Jeg hos et n&#x00F8;ysomt Folk, i roelig Friheds Egn,</l>
+<l rend="indent_1">Et Liv ukiendt med Pragt, men uden Sorger, d&#x00F8;lger;</l>
+<l>Hvor glemte Ringhed blev mod voldsom Frygt et Hegn.</l>
+</lg>
+<lg>
+<l rend="indent_1">Her Venskab smilende, mig hellig Fristad byder</l>
+<l>For sorte Sorgers H&#x00E6;r, som raser i dit Bryst,</l>
+<l rend="indent_1">Naar, i din Pragt indsv&#x00F8;bt, du Stoltheds &#x00D8;nsker nyder,</l>
+<l>Og ki&#x00F8;ber gyldne Baand, trods medf&#x00F8;d Friheds Lyst.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="24"/>Her ofrede jeg dig, mit Forsyns milde Styrer!</l>
+<l>Den f&#x00F8;rste ski&#x00F8;nsom Tak, som Mistvivl qv&#x00E6;lte f&#x00F8;r,</l>
+<l rend="indent_1">Naar fra beklemte Bryst Bekymringers Uhyrer</l>
+<l>Bortrante selv det Haab, som Livets Vel udgi&#x00F8;r.</l>
+</lg>
+<lg>
+<l rend="indent_1">Her klarnedes mit Syn, jeg saae selvgiorte Plager</l>
+<l>Ber&#x00F8;ve Hiertet f&#x00F8;rst medskabte N&#x00F8;ysomhed,</l>
+<l rend="indent_1">Og at det dybe Suk, den d&#x00F8;delige drager,</l>
+<l>Ey altid vidner N&#x00F8;d, men blot Begierlighed.</l>
+</lg>
+<lg>
+<l rend="indent_1">Jeg saae en str&#x00E6;bsom Sl&#x00E6;gt med Ringheds Kaar forn&#x00F8;yet,</l>
+<l>Som &#x00E6;rer H&#x00F8;yheds Navn, ublendet ved dens Pragt;</l>
+<l rend="indent_1">Som under gavnrigt Aag har villig Skuldre b&#x00F8;yet,</l>
+<l>Men, for at blive stor, ey blev i L&#x00E6;nker lagt.</l>
+</lg>
+<lg>
+<l rend="indent_1">Af Gl&#x00E6;de r&#x00F8;rt min Geist Naturens Lov istemmer,</l>
+<l>Som til uskyldigt Rov for medf&#x00F8;d Plagers H&#x00E6;r</l>
+<l rend="indent_1">Sin Yndling Mennesket tyrannisk ey forglemmer,</l>
+<l>Men, Aarsag til dets N&#x00F8;d, dets f&#x00F8;rste Redning er.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="25"/>Men hvilket gruesomt Skrig min glade Roe forjager!</l>
+<l>"Kom D&#x00F8;d! Min Skygge sv&#x00E6;v i grumme Skikkelser!</l>
+<l rend="indent_1">"V&#x00E6;r Vidne om en Siel, som er ford&#x00F8;mt til Plager;</l>
+<l>"Kun Frygt og Skr&#x00E6;k indjag forhadte Mennesker!</l>
+</lg>
+<lg>
+<l rend="indent_1">"Og t&#x00F8;r en lykkelig hid til din Boelig tr&#x00E6;de,</l>
+<l>"Han d&#x00F8;e da ved dit Syn, og qvalt af Angester,</l>
+<l rend="indent_1">"Mig i Ford&#x00F8;mtes Land med dette Budskab gl&#x00E6;de:</l>
+<l>"Foragtet Levende, jeg d&#x00F8;d dog frygtet er!"</l>
+</lg>
+<lg>
+<l rend="indent_1">Forbauset, tankel&#x00F8;s, jeg hen til Redning iiler</l>
+<l>Den Ulyksalige. &#x2013; Hvad? <hi rend="italic">Phedon!</hi> Ak min Ven</l>
+<l rend="indent_1">Forbander Liv og Sig og Verden, og fortviler,</l>
+<l>Og med en borget Roe t&#x00F8;r trodse Himmelen.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="26"/>Skr&#x00E6;k qv&#x00E6;lte M&#x00E6;let her, jeg om hans Kn&#x00E6;e mig slynger,</l>
+<l>Ham river fra den Pynt, som truer kun med D&#x00F8;d.</l>
+<l rend="indent_1">Siig <hi rend="italic">Phedon!</hi> Hvad Uheld din Siel saa dybt nedtynger;</l>
+<l>Vort Venskab helligt var, dets Ret din Taushed br&#x00F8;d.</l>
+</lg>
+<lg>
+<l rend="indent_1">"Ki&#x00E6;dsommelige Ven! som grumme Ski&#x00E6;bne sendte</l>
+<l>"Til dobbelt Qval, Velan! saa l&#x00E6;r at kiende mig.</l>
+<l rend="indent_1">"Forgi&#x00E6;ves &#x00C6;relyst i kiekke Hierte br&#x00E6;ndte,</l>
+<l>"Jeg vilde blive stor, og blev ulykkelig."</l>
+</lg>
+<lg>
+<l rend="indent_1">Ulykkelig? Ney flye med roelig Siel den Lykke,</l>
+<l>Hvis Tab din Lykke gi&#x00F8;r, hvis Slot er Plagers Boe;</l>
+<l rend="indent_1">Hvor gyldne Sorger kun dens solgte Slaver trykke,</l>
+<l>For&#x00F8;ge Lasters Tal og r&#x00F8;ve Sinders Roe.</l>
+</lg>
+<lg>
+<l rend="indent_1">Flye dette D&#x00F8;dens Sv&#x00E6;lg, f&#x00F8;lg mig til hine Hytter;</l>
+<l>Kiend et lyksaligt Folk, som du miskiendte f&#x00F8;r,</l>
+<l rend="indent_1">Hvis Ringhed, Fortrin ey med pr&#x00E6;gtig H&#x00F8;yhed bytter,</l>
+<l>Som uden fremmed Glands sin egen Lykke gi&#x00F8;r.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="27"/>D&#x00F8;m ey om Ringheds Stand af den fortrykte Slave,</l>
+<l>Som Tr&#x00E6;l og plaget er til Skam for Mennesket;</l>
+<l rend="indent_1">Men af det Folk, som glad ved Frihed, Himlens Gave,</l>
+<l>Selv f&#x00F8;ler eget V&#x00E6;rd, og h&#x00E6;vder egen Ret.</l>
+</lg>
+<lg>
+<l rend="indent_1">En Gl&#x00E6;des Fest i Dag l&#x00F8;vprydet Gaard bebuder,</l>
+<l>Ey den, som Smigreren med gyldne Siffer skrev,</l>
+<l rend="indent_1">Da Templer reystes f&#x00F8;rst hans Lykkes nye Guder,</l>
+<l>Og f&#x00F8;rste Virak dem af Daaren ofret blev.</l>
+</lg>
+<lg>
+<l rend="indent_1">Ey den, som Yppighed, for kostbar Tid at myrde,</l>
+<l>Sig helliger hver Dag til pr&#x00E6;gtig Ekkelhed;</l>
+<l rend="indent_1">Hvis vante Gl&#x00E6;de kun fordobler Si&#x00E6;lens Byrde,</l>
+<l>Hvor H&#x00F8;yhed pyntet gaaer og aander Ki&#x00E6;dsomhed.</l>
+</lg>
+<lg>
+<l rend="indent_1">Men den, Naturen selv indvier elskte Pligter,</l>
+<l>Naar f&#x00F8;rste kiekke S&#x00F8;n, ved Elskov lykkelig,</l>
+<l rend="indent_1">Sin Faders Borgen blev: Om end hans Minde svigter,</l>
+<l>Hans Stamme vare skal paa kiekke S&#x00F8;nner riig.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="28"/>Fornyet Afkoms Haab i muntert &#x00D8;ye smiler,</l>
+<l>Og gyder Gl&#x00E6;dens Str&#x00F8;m i varme Faders Bryst;</l>
+<l rend="indent_1">Han tillidsfuld sin Arm paa S&#x00F8;nne-Skuldre hviler;</l>
+<l>Hans Ungdoms f&#x00F8;rste Frugt er ventet Alders Tr&#x00F8;st.</l>
+</lg>
+<lg>
+<l rend="indent_1">Naturen nyder han, ukiendt med deres Plager,</l>
+<l>Hvis Ungdom bange fl&#x00F8;y af Sorger jaget hen;</l>
+<l rend="indent_1">Hvis Manddom grumme Tegn af qvalte L&#x00E6;ngsler drager,</l>
+<l>Og synker traurig ned til Ringheds Stand igien.</l>
+</lg>
+<lg>
+<l rend="indent_1">Imedens m&#x00F8;ysomt Haab hvert Trin til Lykken regner,</l>
+<l>Forloren Ungdoms Nag, og D&#x00F8;den i hvert Lem,</l>
+<l rend="indent_1">En tidlig Alderdom i gustne Kinder tegner;</l>
+<l>Knap en udt&#x00E6;ret Rest til Lykken sl&#x00E6;bes frem.</l>
+</lg>
+<lg>
+<l rend="indent_1">Som Skovens ski&#x00F8;nne Tr&#x00E6;e, hvis Krone Dalen pryder,</l>
+<l>Ved Kunstens grumme Haand omsat i fremmed Lund,</l>
+<l rend="indent_1">Forbr&#x00E6;ndt af fremmed Soel, kun traurigt Syn frembyder,</l>
+<l>Og visner snart, og d&#x00F8;er i den uvante Bund.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="29"/>Saa saae jeg tit en Stor, fra Ringheds Stand oph&#x00F8;yet,</l>
+<l>Imedens Lykkens Soel en Lod-ret Straale ski&#x00F8;d</l>
+<l rend="indent_1">Paa glimrend' Isse ned, af H&#x00F8;yheds Byrder b&#x00F8;yet,</l>
+<l>Fort&#x00E6;res af sin Pragt og d&#x00F8;e en fremmet D&#x00F8;d.</l>
+</lg>
+<lg>
+<l rend="indent_1">See her den heldige, hvis &#x00D8;nsker Dagen fylder,</l>
+<l>Han glemmer Verdener henrykt ved elsket Favn;</l>
+<l rend="indent_1">Ey Lykken blev hans Gud, men glad han <hi rend="italic">Hymen</hi> hylder;</l>
+<l>Han elskes snart som Mand med Ret til Faders Navn.</l>
+</lg>
+<lg>
+<l rend="indent_1">Stolt seer hans Elskov ned til disse Lykkens Tr&#x00E6;lle,</l>
+<l>Som grum N&#x00F8;dvendighed og Modens Lov forb&#x00F8;d,</l>
+<l rend="indent_1">En tidlig Afkoms Sl&#x00E6;gt i moedne Aar at t&#x00E6;lle,</l>
+<l>Hvis Tvang blev Sl&#x00E6;gters Tab, og ofte Dydens D&#x00F8;d.</l>
+</lg>
+<lg>
+<l rend="indent_1">Her unge Fader selv for&#x00F8;nskte Fakkel t&#x00E6;nder,</l>
+<l>Indvier unge Brud til <hi rend="italic">Hymens</hi> Helligdom:</l>
+<l rend="indent_1">"Tag Elskte! Tag den Mand, hvis Hierte for dig br&#x00E6;nder;</l>
+<l>"Arbeyde blev hans Arv, og Flid hans Eyendom."</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="30"/>Hvor lykkelig mod hiin, hvis smaae Forgr&#x00E6;dte kn&#x00E6;le</l>
+<l>For raadvild <hi rend="italic">&#x00C6;sculap</hi> med B&#x00F8;n om Faders Liv.</l>
+<l rend="indent_1">Han silde Fader blev, ham moedne Sorger qv&#x00E6;le</l>
+<l>Han d&#x00F8;er ved deres Raab: Ak Fader hos os bliv!</l>
+</lg>
+<lg>
+<l rend="indent_1">Vantreven Gl&#x00E6;den sig i H&#x00F8;yheds Templer sl&#x00E6;ber;</l>
+<l>Forlystelserne d&#x00F8;e ved Stoltheds Tyrannie;</l>
+<l rend="indent_1">Feyg Uroe, l&#x00E6;nket Tvang, i F&#x00F8;dselen dem dr&#x00E6;ber,</l>
+<l>Og Ulyst hyppig groer i tomme Pralerie.</l>
+</lg>
+<lg>
+<l rend="indent_1">Da Tvang og Overmod f&#x00F8;rst skrev Uligheds Love,</l>
+<l>Og giftig Herskelyst, for Rang og Navn af Stor,</l>
+<l rend="indent_1">Den f&#x00F8;rste Nidding b&#x00F8;d sit usle Liv at vove;</l>
+<l>Fra den Tid Gl&#x00E6;den kun i lave Hytter boer.</l>
+</lg>
+<lg>
+<l rend="indent_1">I buntefarvet Pragt, som Egnens Ungdom pryder,</l>
+<l>Som vidner virksom Flid, og trodser Modens Smag,</l>
+<l rend="indent_1">Hver Ven i Hiertets Sprog sin Ven sin Hilsen byder,</l>
+<l>Med trofast Haand i Haand og &#x00E6;rligt Favnetag.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="31"/>Her glade Flokke sig til muntre Leege samle,</l>
+<l>Hvor Lysten Valget gi&#x00F8;r, ulydig mod den Dom,</l>
+<l rend="indent_1">Som Ski&#x00F8;nnes L&#x00E6;ber b&#x00F8;d med tvungent Ney at samle,</l>
+<l>Naar Hiertet siger ja, og raaber: Hyrde kom!</l>
+</lg>
+<lg>
+<l rend="indent_1">Her Venner Ligem&#x00E6;nd i Kredsen glade m&#x00F8;de,</l>
+<l>Og under moersomt Sp&#x00F8;g belee den Overmand,</l>
+<l rend="indent_1">Som gi&#x00F8;r en Smiil til Synd, og Latter til en Br&#x00F8;de,</l>
+<l>Som Offer eller B&#x00F8;n igien ey sone kan.</l>
+</lg>
+<lg>
+<l rend="indent_1">Tungt st&#x00F8;nner Overdaad for Giften at ford&#x00F8;ye,</l>
+<l>Som s&#x00F8;d ved kostbar Kunst i piinte Kroppe gleed;</l>
+<l rend="indent_1">Men n&#x00E6;ste Morgens Soel for disse bringer M&#x00F8;ye,</l>
+<l>Og Sundhed blev til Deel aarvaagne Flittighed.</l>
+</lg>
+<lg>
+<l rend="indent_1">Misund dem deres Kaar, naar gavnrig Sved nedflyder</l>
+<l>Langs Seenest&#x00E6;rke Krop, frembragt ved virksom Arm,</l>
+<l rend="indent_1">End da sig munter Siel i st&#x00E6;rke Boelig fryder,</l>
+<l>Friskt l&#x00F8;ber Blodet om i Str&#x00E6;bsomhedens Barm.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="32"/>Naar dorsk Uf&#x00F8;lsomhed paa Bl&#x00F8;dheds Leye glemmer</l>
+<l>Sin Pligt, sin Gud, og Sig, knap f&#x00F8;ler den er til;</l>
+<l rend="indent_1">Tit under Byrden selv en Tr&#x00E6;l sin Sang istemmer,</l>
+<l>Og Hiertet blusser h&#x00F8;yt af s&#x00F8;de Pligters Ild.</l>
+</lg>
+<lg>
+<l rend="indent_1">Stiig ned Forvovne Du! som Kundskab gav din Styrke,</l>
+<l>Som bygger Overmod paa Gisninger og Ord,</l>
+<l rend="indent_1">Stiig hid til Hytten ned, og l&#x00E6;r din Gud at dyrke,</l>
+<l>Ukunstlet Lydighed han evig Pagt tilsoer.</l>
+</lg>
+<lg>
+<l rend="indent_1">Forviist er her den Tvivl, som hastig Vantroe skaber,</l>
+<l>Hvis sidste Glimt af Haab forsvandt ved r&#x00E6;dsom Grav,</l>
+<l rend="indent_1">I hvis forvovne Klygt Fornuftens Magt sig taber,</l>
+<l>Og d&#x00F8;mmer sandsesl&#x00F8;s det Raad, som Godhed gav.</l>
+</lg>
+<lg>
+<l rend="indent_1">Mon Viisdom l&#x00E6;res der, hvor Modens Videnskaber?</l>
+<l>Hvor for et uvist Haab opofres Ungdoms V&#x00E6;rd,</l>
+<l rend="indent_1">Hvor andres L&#x00E6;rdom gi&#x00F8;r os blot til andres Aber,</l>
+<l>Hvor Stolthed leer saa tryg bag Minen af en L&#x00E6;rd;</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="33"/>H&#x00E6;ld ham! som i sin Vraae, hvor M&#x00F8;ye Fliid ern&#x00E6;rer,</l>
+<l>F&#x00F8;r tidligt Graanende frembringer Dagens Bud,</l>
+<l rend="indent_1">Ved natlig Lampes Skin sin S&#x00F8;n og Yndling l&#x00E6;rer,</l>
+<l>At h&#x00E6;dre F&#x00F8;deland, sit Haandv&#x00E6;rk, og sin Gud.</l>
+</lg>
+<lg>
+<l rend="indent_1">Ham N&#x00F8;ysomhed gi&#x00F8;r riig, og d&#x00F8;ver alle Plager,</l>
+<l>Mod andre, som mod sig, han Himlen billig troer;</l>
+<l rend="indent_1">Langt fra hans stille Roe forjages vilde Klager,</l>
+<l>Fordi den st&#x00F8;rre Magt uddeelte til en Stor.</l>
+</lg>
+<lg>
+<l rend="indent_1">Tryg seer vor lille Jord de st&#x00F8;rre Verdners Kroppe,</l>
+<l>At tumles over den i stadig Orden om,</l>
+<l rend="indent_1">Den Almagts vise Lov, som satte dem deroppe,</l>
+<l>Afvender deres St&#x00F8;d, afsirkler deres Rum.</l>
+</lg>
+<lg>
+<l rend="indent_1">Tryg og den ringe seer i H&#x00F8;yheds Hvirvler jages</l>
+<l>Med st&#x00E6;rk men farlig Fart Jordklodens V&#x00E6;ldige,</l>
+<l rend="indent_1">Naar ved en stridig Magt til f&#x00E6;lles Fald de drages,</l>
+<l>Han Faldet roelig kan, som Stierneskuddet, see.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="34"/>Bag Lovens hellig Ski&#x00E6;rm, som ham og Hytten d&#x00E6;kker,</l>
+<l>Som Borger, Undersaat, sit Land, sin Konge ki&#x00E6;r,</l>
+<l rend="indent_1">Ham ey statistisk Vid ved andres V&#x00E6;lde skr&#x00E6;kker,</l>
+<l>Hans Lov hans Kobbermuur, hans Krog hans Fristad er.</l>
+</lg>
+<lg>
+<l rend="indent_1">Men t&#x00F8;r sig Stolthed frek af tryglet Fortrin bryste,</l>
+<l>Og paa det plagte Folk grumt hugge Saar i Saar</l>
+<l rend="indent_1">Om Folket r&#x00F8;rer sig, da maae dets B&#x00F8;dler ryste,</l>
+<l>Naar Tronen klippefast paa Folkets Godhed staaer.</l>
+</lg>
+<lg>
+<l rend="indent_1">Gid m&#x00E6;gtig Sandhed maae min <hi rend="italic">Phedons</hi> Uroe stille;</l>
+<l>Hin troefast Vidne b&#x00E6;r, Han, om hvis Tindinger</l>
+<l rend="indent_1">End Ungdoms Leeg og Lyst i s&#x00F8;lvgraae Lokker spille,</l>
+<l>Og smile til den Skaal, hans Haand til Munden b&#x00E6;r'.</l>
+</lg>
+<lg>
+<l rend="indent_1">Ja tal &#x00E6;rv&#x00E6;rdige! Du gamle som udt&#x00F8;mmer</l>
+<l>Saa glad en H&#x00E6;ders Skaal paa S&#x00F8;nnes&#x00F8;nners Vel,</l>
+<l rend="indent_1">Siig, hvad Erfarenhed om Livets Forskiel d&#x00F8;mmer,</l>
+<l>Om F&#x00F8;d til ringe Stand du savner Livets Held?</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="35"/>"Taknemligt sidste Suk den Faders Navn skal &#x00E6;re,</l>
+<l>"Som selv med egen Haand sit Haandverk l&#x00E6;rte mig;</l>
+<l rend="indent_1">"L&#x00E6;r, sagde han, min S&#x00F8;n! thi dette skal dig n&#x00E6;re,</l>
+<l>"Hvo blev for Mangler frie, blev nesten lykkelig.</l>
+</lg>
+<lg>
+<l rend="indent_1">"Alt tidlig h&#x00F8;rte jeg Naturens milde Stemme:</l>
+<l>"Elsk S&#x00F8;n og Fader bliv, jeg skal fors&#x00F8;rge dig.</l>
+<l rend="indent_1">"Ugudeligt det er Naturens Bud at glemme,</l>
+<l>"Jeg elskte, str&#x00E6;bsom var, og jeg blev lykkelig.</l>
+</lg>
+<lg>
+<l rend="indent_1">"Nu Livet er forbi, jeg mig ved Maalet fryder,</l>
+<l>"En h&#x00E6;dret Alderdom mig til en Fyrste gi&#x00F8;r,</l>
+<l rend="indent_1">"I talrig Afkoms Sl&#x00E6;gt jeg som en Konge byder,</l>
+<l>"Velsigner hver en Dag og snart forn&#x00F8;yet d&#x00F8;er."</l>
+</lg>
+<lg>
+<l rend="indent_1">Som Regn for n&#x00F8;gent Field, saa Raad for <hi rend="italic">Phedons</hi> Hierte,</l>
+<l>Hvert Ord gleed uden Kraft hans h&#x00E6;rdet Si&#x00E6;l forbi.</l>
+<l rend="indent_1">Hvor alting aander Lyst han eene samler Smerte;</l>
+<l>Saa slukkes Si&#x00E6;lens Lys i Lysters Raserie.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="36"/>Forgi&#x00E6;ves faldne Mod anvender sidste Kr&#x00E6;fter,</l>
+<l>Han bange flyer det Raad, Natur og Venskab gav.</l>
+<l rend="indent_1">Fortvivlelsen gaaer for og D&#x00F8;den f&#x00F8;lger efter.</l>
+<l>Skiul Nat og Glemsel! Skiul hans Minde og hans Grav.</l>
+</lg>
+</div>
+<div type="chapter" n="3">
+<head type="main"><ref type="contents" target="contents_4" xml:id="chapter_4">Ode til S&#x00F8;vnen</ref></head>
+<p rend="center">af P. H. Fr.<note type="commentary">Peter Harboe Frimann (1752&#x2013;1839)</note></p>
+<lg>
+<l rend="indent_1"><pb n="39"/>Aander sagte, Vestenvinde,</l>
+<l>Milde Luft, udgyd din lunkne Str&#x00F8;m!</l>
+<l>S&#x00F8;de S&#x00F8;vn, omfavn <hi rend="italic">Selinde,</hi></l>
+<l>Mig til Held, med <hi rend="italic">Lunas</hi> beste Dr&#x00F8;m!</l>
+<l>Flyder sagte, klare B&#x00E6;kke!</l>
+<l>Grene, b&#x00E6;ver stille nu!</l>
+<l>Ingen Lyd den Dyrebare vekke!</l>
+<l>See den Ski&#x00F8;nne sover nu.</l>
+</lg>
+<lg>
+<l rend="indent_1">Lund! dit m&#x00F8;rke L&#x00F8;v afvende</l>
+<l>Solens Brand fra hendes Leyested!</l>
+<l>Bl&#x00F8;de Liljer, favner hende!</l>
+<l>Kostbar Last, hvoraf J b&#x00F8;yes ned!</l>
+<l>Blindhed straffe <hi rend="italic">Faunens</hi> &#x00D8;ye</l>
+<l>Som sig drister hid at see!</l>
+<l>Flye og d&#x00F8;e, du Slange, som t&#x00F8;r b&#x00F8;ye</l>
+<l>Giftigt Hoved hid at see!</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="40"/>See hvor s&#x00F8;dt den Ski&#x00F8;nne hviler</l>
+<l>Yndighed omringer hvert et Lem!</l>
+<l>Kinden blusser, Munden smiler</l>
+<l>Purpurr&#x00F8;d, og lokker Vellyst frem!</l>
+<l>Brystet h&#x00E6;ver sig og daler</l>
+<l>F&#x00E6;ngslet af det snevre Baand,</l>
+<l>Fromhed sig i hvert et Tr&#x00E6;k afmaler;</l>
+<l>Thi den boer i hendes Aand.</l>
+</lg>
+<lg>
+<l rend="indent_1">S&#x00F8;vn, jeg for din Guddom kn&#x00E6;ler,</l>
+<l><hi rend="italic">Gratien</hi> jeg dig omfavne seer,</l>
+<l>Kun paa nye du dig form&#x00E6;ler,<note type="commentary"><hi rend="italic">Forfatternote:</hi> S&#x00F8;vnen var gift med Pasithea, den yngste af Gratierne.</note></l>
+<l><hi rend="italic">Gratien</hi> et borget Navn kun b&#x00E6;r.</l>
+<l>Evig skal jeg dig oph&#x00F8;ye</l>
+<l><hi rend="italic">Pasithea!</hi> ved hvis Barm</l>
+<l>S&#x00F8;vnen f&#x00F8;rst tillukkede sit &#x00D8;ye;</l>
+<l>Jorden sov og al dens Harm!</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="41"/>Naar hver Dag i Aarets Tider</l>
+<l>Svanger med nye Plager stiger ned,</l>
+<l>Fra dit M&#x00F8;rke du nedglider</l>
+<l>Skabningen at skaffe Roe bereed!</l>
+<l>Dagens Plagers Flok forsvinder,</l>
+<l>Sygdoms pinefulde Brand</l>
+<l>Ki&#x00F8;les i den <hi rend="italic">Lethe</hi>-Flod, som rinder</l>
+<l>I dit Troldoms sorgfrie Land.</l>
+</lg>
+<lg>
+<l rend="indent_1">Sommer Dagens Ild ant&#x00E6;nder</l>
+<l>Steen og Sand i &#x00D8;rkens lange Stie,</l>
+<l>Vandringsmandens Solle br&#x00E6;nder,</l>
+<l>D&#x00F8;delig den Luft han aander i!</l>
+<l>Naar hans &#x00D8;yenlaage lukkes,</l>
+<l>Steenstr&#x00F8;ed Leye Bl&#x00F8;dhed faaer,</l>
+<l>Ved din Kraft snart Dagens Brand udslukkes,</l>
+<l>Balsom gydes i hans Saar.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="42"/>Fuglene mod Natten iile</l>
+<l>Til sin Green og kiendte Sovested;</l>
+<l>Qv&#x00E6;get sl&#x00E6;ber sig til Hvile,</l>
+<l>Kn&#x00E6;lende for S&#x00F8;vnens Guddom ned;</l>
+<l>Menneskets og Qv&#x00E6;gets L&#x00E6;ngsel</l>
+<l>Ved hver Aften Maalet naaer;</l>
+<l>Milde S&#x00F8;vn! hver Morgen af dit F&#x00E6;ngsel</l>
+<l>Gienf&#x00F8;dt Skabningen udgaaer!</l>
+</lg>
+<lg>
+<l rend="indent_1">Naar sig Vinter-Natten hv&#x00E6;lver</l>
+<l>Fyldt af Storm og Snee om Himmelen,</l>
+<l>Naar af Frost den Usle skielver</l>
+<l>Og paa Straae maae bringe Natten hen,</l>
+<l>Da kan du, o S&#x00F8;vn, oplive</l>
+<l>Det halvfr&#x00F8;sne Blod igien!</l>
+<l>Snee og Slud lad Stormen nu kun drive,</l>
+<l>I din Arm han trodser den.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="43"/>Iis- og Sneebedekte Flader,</l>
+<l>N&#x00F8;gne Tr&#x00E6;er og al Naturen m&#x00F8;rk</l>
+<l>Vinter-Dagen blot tillader</l>
+<l>&#x00D8;yets Kreds, den hele Kreds er &#x00D8;rk:</l>
+<l>Men i S&#x00F8;vnens Duun indhyllet</l>
+<l>Skr&#x00E6;kker Vinteren ey meer,</l>
+<l>Vinteren forsvandt, og jeg fortryllet</l>
+<l><hi rend="italic">Floras</hi> Pragt i Dr&#x00F8;mme seer.</l>
+</lg>
+<lg>
+<l rend="indent_1">Saa hver Aarets Nat medf&#x00F8;rer</l>
+<l>Nyeskabt Fryd ud&#x00F8;set af dit Ski&#x00F8;d</l>
+<l>Jordens kierlige Velgi&#x00F8;rer!</l>
+<l>Tr&#x00E6;ttet Krop og Lemmer dobbelt s&#x00F8;d;</l>
+<l>Qv&#x00E6;gede som Engens Planter,</l>
+<l>Naar mod Morgenen de staae</l>
+<l>Smilende med sine Dug&#x2013;Demanter,</l>
+<l>Landm&#x00E6;nd glad til Arbeyd gaae.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="44"/>Slaven selv, hvis Lemmer nage</l>
+<l>Haarde Baand i eenlig Natte&#x2013;Stund,</l>
+<l>Slaven glemmer al sin Plage</l>
+<l>Paa sit Straae udi en roelig Blund;</l>
+<l>Guldet her af Floder str&#x00F8;mmer</l>
+<l>Us&#x00F8;gt mod hans H&#x00E6;nder frem,</l>
+<l>Stolt han nu, ski&#x00F8;nt l&#x00E6;nkebunden, dr&#x00F8;mmer</l>
+<l>Om Monarkers <hi rend="italic">Diadem</hi>.</l>
+</lg>
+<lg>
+<l rend="indent_1">Blot naar D&#x00F8;dens Engel sv&#x00E6;ver</l>
+<l>Om den Seng, hvor Gravens Offer er,</l>
+<l>Det omsonst din Bistand kr&#x00E6;ver,</l>
+<l>Eene det din Afmagts Vidne b&#x00E6;r;</l>
+<l>Snart en evig S&#x00F8;vn omspender</l>
+<l>Den fort&#x00E6;rte Syges Krop;</l>
+<l>F&#x00E6;ngslet af din Broders kolde H&#x00E6;nder</l>
+<l>Lukkes &#x00D8;yet meer ey op.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="45"/>Lad kun <hi rend="italic">Harpax</hi> &#x00D8;ret rekke</l>
+<l>Idelig til mindste natlig Lyd;</l>
+<l>Lad hans gyldne Dynger dekke</l>
+<l>Livets Roe og ubetalte Fryd;</l>
+<l>Han din S&#x00F8;dhed kun foragter,</l>
+<l><hi rend="italic">Agrypnie</hi> hans Vellyst er;</l>
+<l>Han sin Skat i Blinde selv betragter,</l>
+<l>Naar ey Dagen lyser meer.</l>
+</lg>
+<lg>
+<l rend="indent_1">Lukkes end hans &#x00D8;yenlaage,</l>
+<l>Frygtens Orm dog stedse vaagen er,</l>
+<l>Blindet af din Troldoms Taage</l>
+<l>Han sit Guld i tusend Farer seer;</l>
+<l>Mordere paa Liv ham true,</l>
+<l>Riige Ladninger forgaae,</l>
+<l>Flammende han seer den grumme Lue</l>
+<l>Til hans kiere Skat at naae.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="46"/>S&#x00F8;vn, jeg for din Troldom kn&#x00E6;ler</l>
+<l>Vinker du, en nye Natur opstaaer!</l>
+<l>Afmagt din <hi rend="italic">Magie</hi> besieler,</l>
+<l><hi rend="italic">Flora</hi> paa besneedde Marke gaaer;</l>
+<l>Naar du Dr&#x00F8;mme&#x2013;Hiulet v&#x00E6;lter,</l>
+<l>Fylder Sceptret Slavens Haand,</l>
+<l>Snart den Skat, som Sekler grov, bortsmelter,</l>
+<l>Jordens Guder gaae i Baand.</l>
+</lg>
+<lg>
+<l rend="indent_1">Barnets Arm betvinger L&#x00F8;ver,</l>
+<l>Gyldent Haar paa skaldet Isse groer,</l>
+<l>H&#x00E6;shed selv en <hi rend="italic">Stentors</hi> Stemme d&#x00F8;ver,</l>
+<l>Lammet tryg blant Ulve boer;</l>
+<l>Daarer blive <hi rend="italic">Salomoner</hi>,</l>
+<l>Feige trodse <hi rend="italic">Phillips</hi> S&#x00F8;n,</l>
+<l>Nattens Fugl slaaer <hi rend="italic">Philomeles</hi> Toner,</l>
+<l>Selv <hi rend="italic">Medusa</hi> bliver ski&#x00F8;n.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="47"/>B&#x00F8;y du Nattens Gud dit &#x00D8;re</l>
+<l>Til min Sang! gi&#x00F8;r usles Malurt s&#x00F8;d!</l>
+<l>M&#x00E6;ttelse din Kraft tilf&#x00F8;re</l>
+<l>Den, som gr&#x00E6;d aarvaagen for sit Br&#x00F8;d!</l>
+<l>Lykken blind sin Skat bortskienker</l>
+<l>Gi&#x00F8;r den vaagne Dr&#x00F8;mmer riig &#x2013;</l>
+<l>Lad da den, som Dagens Kummer kr&#x00E6;nker,</l>
+<l>Dog lyksalig dr&#x00F8;mme sig!</l>
+</lg>
+<lg>
+<l rend="indent_1">Flye mig ey! min &#x00D8;yenlaage</l>
+<l>Lad ey meer dit <hi rend="italic">Opiat</hi> modstaae!</l>
+<l>Lad ey Elskov eene vaage</l>
+<l>Nagende i Hiertets mindste Vraae!</l>
+<l>Lad ey Nattens Taushed brekke</l>
+<l>Suk fra mit beklemte Bryst!</l>
+<l>Lad min Blund ey Nat&#x2013;<hi rend="italic">Phantomer</hi> vekke,</l>
+<l>Og mig levne skuffet Lyst!</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="48"/>Lad <hi rend="italic">Selinde,</hi> som indhylles</l>
+<l>I dit Sl&#x00F8;er, i Dr&#x00F8;mme favne mig!</l>
+<l>Lad den Grummes Siel fortrylles!</l>
+<l>Vekkes op, min Siel i L&#x00E6;ngsel liig!</l>
+<l>Lad mit elskovfyldte &#x00D8;ye</l>
+<l>Tale Hiertets hede Sprog!</l>
+<l>Lad en Str&#x00F8;m af Graad det Hierte b&#x00F8;ye</l>
+<l>Som ey vaagen for mig sloeg!</l>
+</lg>
+<lg>
+<l rend="indent_1">Men skal hun din Roe blot smage</l>
+<l>I din Arm for Troldom hvile frie —</l>
+<l>F&#x00F8;er den da til mig tilbage,</l>
+<l>Synk mig ned i evig <hi rend="italic">Lethargie!</hi></l>
+<l>Skienk mig <hi rend="italic">Lunas</hi> Elskers Lykke!</l>
+<l>Evig Lyst mod evig Harm</l>
+<l>Dr&#x00F8;mmende skal jeg dog hende trykke</l>
+<l>Til min lykkelige Barm!</l>
+</lg>
+</div>
+<div type="chapter" n="4">
+<head type="main"><ref type="contents" target="contents_5" xml:id="chapter_5">Tanker ved en Flod</ref></head>
+<head type="sub">En Rhapsodie</head>
+<p rend="center">af P. H. Fr.<note type="commentary">Peter Harboe Frimann (1752&#x2013;1839)</note></p>
+<lg>
+<l rend="indent_1"><pb n="51"/>Du lille B&#x00E6;k, som s&#x00F8;lvklar v&#x00E6;lder</l>
+<l>Blant Liljer op, og roelig gaaer</l>
+<l>Blant Dalens Roser og dens Nelder,</l>
+<l>Og Anst&#x00F8;d i dit L&#x00F8;b ey faaer;</l>
+<l>Blant disse lige klar du rinder,</l>
+<l>Af dig de vandes lige frie,</l>
+<l>Gi&#x00F8;r Kiesel&#x2013;Stenen dig end Hinder,</l>
+<l>Saa gaaer du lydig den forbi.</l>
+</lg>
+<lg>
+<l rend="indent_1">Men naar en Naboe&#x2013;B&#x00E6;k sig skyder</l>
+<l>I dit Krystal, du skummende</l>
+<l>Og nu ey meer saa roelig flyder,</l>
+<l>Som f&#x00F8;r du fl&#x00F8;d blant Liljerne;</l>
+<l>Du V&#x00E6;lde faaer af tusend Kilder,</l>
+<l>Som slynge ned til dig sit Vand;</l>
+<l>Afsindig du dig nu forvilder</l>
+<l>Blant &#x00D8;rkner, Skove, Bierg og Sand.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="52"/>Du &#x00F8;deleggende nedrinder,</l>
+<l>Og river Eegen fra sin Rod;</l>
+<l>Tit, hvor du drog, ey Hyrden finder</l>
+<l>Det Sted, hvor f&#x00F8;r hans Hytte stod;</l>
+<l>Du styrter ned til Havets Bredde,</l>
+<l>Og her jeg seer din aabne Grav &#x2013;</l>
+<l>Din Magt og Brusen dig ey redde,</l>
+<l>Du blir til intet i et Hav!</l>
+</lg>
+<lg>
+<l rend="indent_1">O klare Billed' paa min Alder,</l>
+<l>Du viser mine Skikkelser</l>
+<l>Fra Vuggen af indtil jeg falder</l>
+<l>Tilbage til mit f&#x00F8;rste Leer:</l>
+<l>Mit Aasyn og mit Lives Dage</l>
+<l>I dig jeg skuer lige klar;</l>
+<l>Fornuft og Syn sig ey bedrage,</l>
+<l>Naar du et Speyl for begge var.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="53"/>Hvor stille fl&#x00F8;d min Barndoms Dage</l>
+<l>Ey bort i Tidens Ocean!</l>
+<l>Hvo giver mig den Roe tilbage,</l>
+<l>Som da paa intet st&#x00F8;dte an?</l>
+<l>Hvo siger mig, hvor jeg skal finde</l>
+<l>Min Ungdoms blomsterstr&#x00F8;dte Vey?</l>
+<l>Forsvunden er den &#x2013; og i Blinde</l>
+<l>Jeg s&#x00F8;ger den, men seer den ey!</l>
+</lg>
+<lg>
+<l rend="indent_1">Ey meer den Tid, hvor uforandret</l>
+<l>Jeg n&#x00F8;d min lykkelige Vaar,</l>
+<l>Den Tid, hvor <hi rend="italic">Flora</hi> stedse vandred</l>
+<l>Med friske Blomster i sit Haar!</l>
+<l>Hvor Sorgers Glemsels Floder rinde,</l>
+<l>Hvor evig aandes Balsom&#x2013;Lugt,</l>
+<l>Og hvor hvert &#x00D8;yeblik i Blinde</l>
+<l>Vi plukke kan <hi rend="italic">Hesperisk</hi> Frugt!</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="54"/>Let blev mit Hierte da forn&#x00F8;yet,</l>
+<l>Og let at leede var mit Sind;</l>
+<l>Fl&#x00F8;d end en Taare ned af &#x00D8;yet,</l>
+<l>Toeg den ey Mayen af min Kind;</l>
+<l>Stak Nelden mig, jeg Smerten glemte,</l>
+<l>Jeg taus forlod min Anst&#x00F8;ds&#x2013;Steen,</l>
+<l>Den skienkte Frugt jeg troelig giemte</l>
+<l>Til Deeling med min Alders Ven.</l>
+</lg>
+<lg>
+<l rend="indent_1">Min Barndom bort med Tiden r&#x00F8;mte,</l>
+<l>Men med hver Time fl&#x00F8;y min Roe;</l>
+<l>Sindslidelserne snart indstr&#x00F8;mte</l>
+<l>Og f&#x00E6;sted' i mit Hierte Boe;</l>
+<l>Min Barndoms Purpur&#x2013;Skye fordreves</l>
+<l>Af deres Storm, og villige</l>
+<l>Af Stormen Tankerne henreves,</l>
+<l>Thi Hiertet fulgte Tankerne.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="55"/>Jeg ved Minuter, hiin ved Kilder</l>
+<l>Usynlig V&#x00E6;xt og Styrke fik;</l>
+<l>Ved hvert Minut jeg mig forvilder</l>
+<l>Langt fra det Eden, hvor jeg gik;</l>
+<l>Hvo standser mig, hvo kan mig redde</l>
+<l>Fra Hvirvlen, som mig er bereed?</l>
+<l>Jeg forud seer mit Lives Bredde,</l>
+<l>Jeg raver, h&#x00E6;lder, falder ned!</l>
+</lg>
+<figure rend="asterisk"/>
+<lg>
+<l rend="indent_1">Du lille B&#x00E6;k, som mig kan l&#x00E6;re</l>
+<l>Min F&#x00F8;dsel, V&#x00E6;xt og Undergang,</l>
+<l>Min Tanke ved dit L&#x00F8;b sig n&#x00E6;re!</l>
+<l>Din Str&#x00F8;m veyleede skal min Sang;</l>
+<l>Forstandens Kreds i Barndoms Dage</l>
+<l>Indskr&#x00E6;nket, som dit Udspring er;</l>
+<l>Af S&#x00E6;lskab blot kan Barnet drage</l>
+<l>Den Rigdom, jeg hos Manden seer.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="56"/>Ja selv den Siel, som &#x00F8;rnevinget</l>
+<l>Blant Sph&#x00E6;rerne sig h&#x00E6;ver op,</l>
+<l>Har giennem tusend Grader svinget</l>
+<l>Sig m&#x00F8;ysom til sin Viisdoms Top.</l>
+<l>H&#x00F8;ymodig den sig tit opskyder</l>
+<l>Og med Danubisk V&#x00E6;xt fremgaaer,</l>
+<l>Men Donau dog i Havet flyder,</l>
+<l>Og Sielen ved sin Skranke staaer.</l>
+</lg>
+<lg>
+<l rend="indent_1">Min Barndoms Kundskab kort sig strakte,</l>
+<l>(En Dv&#x00E6;rg ey Kiempers Rustning b&#x00E6;r)</l>
+<l>Det Bierg, hvis Top til Skyen rakte,</l>
+<l>Var Himlen i min Tanke n&#x00E6;r;</l>
+<l>Jeg &#x00F8;nskte mig paa Biergets Isse</l>
+<l>Omhv&#x00E6;lvet af det Himmelblaae,</l>
+<l>Stoed jeg derpaa, min Haand tilvisse</l>
+<l>Til Himlens Hv&#x00E6;lving kunde naae.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="57"/>Snart blev mit Babels Taarn nedrevet,</l>
+<l>Mit Bierg ey meer til Himlen bar;</l>
+<l>Jeg Vey for Verdener fandt skrevet,</l>
+<l>Hver Klodes Omkreds sirklet var.</l>
+<l>O hvilket Dyb fra Barnets Tanker</l>
+<l>Til slig oph&#x00F8;yet Viisdoms Top!</l>
+<l>Men du, som skrev for Verdner Skranker,</l>
+<l>Fl&#x00F8;y du ved egen Flugt did op?</l>
+</lg>
+<lg>
+<l rend="indent_1">Ney efter Seklers m&#x00F8;rke Dr&#x00F8;mme,</l>
+<l>Urania, din Himmels Gang</l>
+<l>Man saae, og h&#x00F8;rte Verdner sv&#x00F8;mme</l>
+<l>I Hvirvler med harmonisk Sang.</l>
+<l>Bef&#x00E6;stet blev den Soel, som vanker</l>
+<l>Med daglig Pragt til Vestens Hav.</l>
+<l>Til mange gav Gudinden Tanker,</l>
+<l>Til Newton hun sin Sirkel gav.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="58"/>Dog selv Gudindens Yndlings H&#x00E6;nder</l>
+<l>Slaae sine Sirkler skielvende;</l>
+<l>Det Lys, som hos Gudinden br&#x00E6;nder,</l>
+<l>Vi giennem St&#x00F8;v ey klart kan see.</l>
+<l>Kan f&#x00E6;lles Fakler end opdage</l>
+<l>En Skat, som f&#x00F8;r forborgen laae,</l>
+<l>Dog bliver stedse Guld tilbage,</l>
+<l>Som Seklers Str&#x00E6;ben ey kan naae.</l>
+</lg>
+<figure rend="asterisk"/>
+<lg>
+<l rend="indent_1">Som Floden f&#x00F8;rst langs Liljer str&#x00F8;mte,</l>
+<l>Men snart blant &#x00F8;de Klipper randt,</l>
+<l>Saa tit den Siel, som dristig sv&#x00F8;mte</l>
+<l>Paa Tankers Hav en Afgrund fandt.</l>
+<l>Held dig, o Barn, hvis Alder rinder</l>
+<l>I lykkelig Uvidenhed!</l>
+<l>Tit L&#x00E6;rdes Guld i R&#x00F8;g bortsvinder,</l>
+<l>Et Straae den Skat, de gl&#x00E6;des ved!</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="59"/>Lee, Kloge, kun til Barnets M&#x00F8;ye,</l>
+<l>Som <hi rend="italic">Iris's</hi> Pragt opfange vil,</l>
+<l>Vend kun h&#x00F8;ymodig bort dit &#x00D8;ye</l>
+<l>Med Hoved&#x2013;Rysten til dets Spil;</l>
+<l>Ydmygende, o stolte Kloge,</l>
+<l>Er Barnets Fangst, som du beleer,</l>
+<l>Hiin kan dog see en farvet Taage,</l>
+<l>Du Straaler ey for Soelskin seer!</l>
+</lg>
+<lg>
+<l rend="indent_1">Hvi spotter du med Barnets Tanker,</l>
+<l>Som selv med Tvivl og Uroe streed;</l>
+<l>Kun Bien sikkert Honning sanker</l>
+<l>I et forvirret Blomster&#x2013;Beed.</l>
+<l>Den L&#x00E6;rdom ey vor Lykke fremmer</l>
+<l>Som praler stolt med tomme Ord,</l>
+<l>Som Kierner ey men Skall kun giemmer,</l>
+<l>Og planter Avner i sin Jord.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="60"/>Lad Flodens striide L&#x00F8;b dig l&#x00E6;re,</l>
+<l>Minervas ub&#x00F8;nh&#x00F8;rte Trop,</l>
+<l>Som dig med Magt vil disputere</l>
+<l>H&#x00F8;yt paa Parnasses Tinding op,</l>
+<l>Den l&#x00E6;re dig, at stakket Brusen</l>
+<l>Af hemmet Vand kun f&#x00F8;der Skum,</l>
+<l>At tvungne Geysters skumfuld Susen</l>
+<l>Til Vand igien snart smeltes om.</l>
+</lg>
+<lg>
+<l rend="indent_1">De kom til Philosophens Skole</l>
+<l>Og i dens St&#x00F8;v sit S&#x00E6;de toeg;</l>
+<l>Ey Viisdoms Raab, men Viisdoms Kiole</l>
+<l>Var det, som dem paa Banen droeg.</l>
+<l>Meer heldig du, som Skiebnen kalder</l>
+<l>At n&#x00E6;re dig ved sikker Plov!</l>
+<l>Meer lykkelig, du, som din Alder</l>
+<l>I ski&#x00F8;nne Dr&#x00F8;mme glad bortsov!</l>
+</lg>
+<figure rend="asterisk"/>
+<lg>
+<l rend="indent_1"><pb n="61"/>Forskiellig, som min Kildes Vandring,</l>
+<l>Min Tankes Gienstand viser sig;</l>
+<l>Hvert Livets Optrin, hver Forandring</l>
+<l>Er Kildens Oml&#x00F8;b skritviis liig;</l>
+<l>Den Legemer og Aander maler</l>
+<l>I F&#x00F8;dsel, V&#x00E6;xt og Alderdom;</l>
+<l>Liig den et <hi rend="italic">Folk</hi> opstaaer og daler</l>
+<l>Og selv tilsidst sig styrter om.</l>
+</lg>
+<lg>
+<l rend="indent_1">Med Folket Konster, Videnskaber</l>
+<l>Udspringe, dannes, H&#x00F8;yhed naae,</l>
+<l>Med Folkets Fald dets Slibning taber</l>
+<l>Sin Glands, og maae af Rust forgaae.</l>
+<l><hi rend="italic">Misraims</hi> V&#x00E6;lde l&#x00E6;nge kiendtes,</l>
+<l>Dens Viisdom l&#x00E6;nge Love gav,</l>
+<l>Dens Roes tilsidst som <hi rend="italic">Nilen</hi> endtes,</l>
+<l>Den faldt i Barbariets Hav.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="62"/>Kun Vrag af Viisdoms Templer str&#x00F8;mte</l>
+<l>Til andre Verdens Deele hen;</l>
+<l>Men <hi rend="italic">Cecrops's</hi> Stad hver Levning giemte,</l>
+<l>Og Templer byggedes igien;</l>
+<l>Forundret her min Eftertanke</l>
+<l>Paa disse Egne stille staaer,</l>
+<l>Hvor man det Guld har vidst at sanke,</l>
+<l>Hvis Glands med Stiernernes forgaaer.</l>
+</lg>
+<lg>
+<l rend="indent_1">Men kun dets Glands er og tilbage,</l>
+<l>Kun svage Levninger og Spor</l>
+<l>Af hine klare Sommerdage</l>
+<l>Hvor nu en evig Vinter boer.</l>
+<l>For Dumheds Trone sig nedb&#x00F8;ye</l>
+<l><hi rend="italic">Argiver</hi> og <hi rend="italic">Latiner</hi> maae;</l>
+<l>Nu vender traurig sig vort &#x00D8;ye</l>
+<l>Didhen, hvor Paradiset laae.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="63"/>Som Floden skiult i Jorden rinder,</l>
+<l>Og i en fremmed Egn staaer op,</l>
+<l>Saa man et nyt Parnas opfinder</l>
+<l>Med nye Muser paa dets Top;</l>
+<l>Dog l&#x00E6;nge s&#x00F8;gtes <hi rend="italic">Hippokrene,</hi></l>
+<l>I Sekler den i Mudder laae,</l>
+<l>F&#x00F8;r den fra Sump og n&#x00F8;gne Stene</l>
+<l>Udleedt, blant Liljer kunde gaae.</l>
+</lg>
+<lg>
+<l rend="indent_1">I Sekler huules haarde Steene,</l>
+<l>Og l&#x00E6;nge voxer Tr&#x00E6;et op,</l>
+<l>F&#x00F8;r det opskyder h&#x00F8;ye Grene,</l>
+<l>Og Frugter sankes af dets Top.</l>
+<l>Blant mindre Skalders svage Stemmer</l>
+<l>Tilsidst, <hi rend="italic">Homer,</hi> din <hi rend="italic">Tuba</hi> klang;</l>
+<l>En Sv&#x00E6;rm <hi rend="italic">Druider</hi> Verden glemmer</l>
+<l>Henrykt ved <hi rend="italic">Ferneys</hi> Digters Sang.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="64"/>Forskiellig er, o Flod, din L&#x00E6;re,</l>
+<l>Som du fra Land til Land fremgaaer,</l>
+<l>Nykomne Nationers &#x00C6;re</l>
+<l>Af andres Gruus og St&#x00F8;v opstaaer;</l>
+<l>Den Skat, een Folkesl&#x00E6;gt opdager</l>
+<l>Ved Seklers Hielp, ved <hi rend="italic">Argi</hi> Syn,</l>
+<l>Som du, til Undergang sig drager,</l>
+<l>Adsplittet af Barbarers Lyn.</l>
+</lg>
+<lg>
+<l rend="indent_1">Dens Levninger man atter giemmer,</l>
+<l>Som atter flyde til sit Hav;</l>
+<l>D&#x00F8;d er da blot det Hiul, som fremmer</l>
+<l>Det L&#x00F8;b, vor Skaber Kloden gav.</l>
+<l>Et Hav opsluger dine Str&#x00F8;mme,</l>
+<l>Som useet fra din Kilde kom;</l>
+<l>Liig dig vi voxe, d&#x00F8;e og sv&#x00F8;mme</l>
+<l>I Altings viide Sirkel om.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="65"/>Hist ved din Bred staaer Eegen b&#x00F8;yet,</l>
+<l>Bedaget som dit Kilde&#x2013;V&#x00E6;ld,</l>
+<l>Aarhundrede den har oph&#x00F8;yet,</l>
+<l>Og liige Tid den bragt paa H&#x00E6;ld;</l>
+<l>Det hvasse Staal vor Nestor f&#x00E6;lder,</l>
+<l>(En Time Seklers Pragt nedslaaer!)</l>
+<l>Men Konsten Tabet snart giengielder,</l>
+<l>Et Skib af Eegens D&#x00F8;d opstaaer.</l>
+</lg>
+<lg>
+<l rend="indent_1">Har det til Ski&#x00E6;llbevoxet Alder</l>
+<l>Paa B&#x00F8;lgen tumlet om sin Krop,</l>
+<l>Forraadnelsen til St&#x00F8;v det kalder,</l>
+<l>Og i Monader l&#x00F8;ser op;</l>
+<l>F&#x00F8;r sv&#x00F8;mte det i Kreds paa Vande,</l>
+<l>Fra Bredden vidt paa Kloden om;</l>
+<l>Maaskee dets St&#x00F8;v tilsidst kan strande</l>
+<l>Didhen, hvorfra dets R&#x00F8;dder kom.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="66"/>Saa Skabningen i Kreds sig vender,</l>
+<l>Naturens Liv Omvexling er,</l>
+<l>I Havet man igien ey kiender</l>
+<l>Den Flod, som did sin Rigdom b&#x00E6;r;</l>
+<l>Fra Kilden Flodens Vand nedstr&#x00F8;mmer</l>
+<l>I Havets Dyb; Fra Havet kom</l>
+<l>Den Regnskye, som i Luften sv&#x00F8;mmer</l>
+<l>Og vender til sit Udspring om.</l>
+</lg>
+</div>
+<div type="chapter" n="5">
+<head type="main"><ref type="contents" target="contents_6" xml:id="chapter_">Foraaret</ref></head>
+<p rend="center">af Edvard Colbi&#x00F8;rnsen.</p>
+<quote>
+<lg>
+<l><pb n="69"/>Nunc omnis ager, nunc omnis parturit arbos:</l>
+<l>Nunc frondent silv&#x00E6;, nunc formosissimus annus.</l>
+<l><hi rend="italic">Virgil</hi>.</l>
+</lg>
+</quote>
+<figure rend="asterisk"/>
+<lg>
+<l rend="indent_1">Ja brudt dit Scepter er! &#x2013; og &#x00E6;ret v&#x00E6;r den Haand,</l>
+<l>Som din forhadte Vold med Mildheds Omhue hemmer,</l>
+<l>Vantreven Vinter! Du, som Frostens m&#x00F8;rke Giemmer</l>
+<l>Bevogter, evig streng, og l&#x00F8;ser Uveirs Baand!</l>
+<l>Nys foer Du rasende paa Stormens Vinger ud,</l>
+<l>En Str&#x00F8;m af Snee og Slud strax lydig var dit Bud,</l>
+<l>Som Jordens n&#x00F8;gne Barm ut&#x00E6;mmet overskylte,</l>
+<l>Og i en endl&#x00F8;s Iis vor &#x00D8;yekreds indhylte.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="70"/>Hvor Ceres's Dyrker f&#x00F8;r opsankte gylden H&#x00F8;st,</l>
+<l>Der graadig Ulv sin Sult og feilet Rov beklager,</l>
+<l>Naar raske Reen omsonst paa steile Fi&#x00E6;ld han jager,</l>
+<l>Og tr&#x00E6;t i Hvilens Ski&#x00F8;d forgi&#x00E6;ves s&#x00F8;ger Tr&#x00F8;st.</l>
+<l>I f&#x00E6;le Toner han sin grumme B&#x00F8;n fremb&#x00E6;r;</l>
+<l>At milde Foraars Luft maae f&#x00F8;re Lammet n&#x00E6;r.</l>
+<l>Gientagne Toneskrald fra Dal til Dal sig h&#x00E6;ve,</l>
+<l>Og i sin sikre Stie de feige Hiorde b&#x00E6;ve.</l>
+</lg>
+<lg>
+<l rend="indent_1">Naturens hele Kreds i skr&#x00E6;ksom Afmagt laae,</l>
+<l>Hos h&#x00E6;rded' Elve hist vansm&#x00E6;gted' Tr&#x00E6;er h&#x00E6;ngte,</l>
+<l>Her Fugle&#x2013;Flokke sig i hvirvlet Sneefog s&#x00E6;nkte,</l>
+<l>Og i dets kolde Ski&#x00F8;d den sidste Redning saae.</l>
+<l>Nu Frostens skarpe Luft selv Jordens Indvold bandt,</l>
+<l>Og Solens sidste Glimt bag graanend' Mulm forsvandt,</l>
+<l>Da Han, som Midders Vel og Kloders Ophold veyer,</l>
+<l>Seer Skabnings Undergang, om Ordnens Lov udskeyer.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="71"/>Til hint umaalte Svelg Algodheds Bud foer hen,</l>
+<l>Hvor Klode&#x2013;Hvirvlene sit vante L&#x00F8;b beskriver,</l>
+<l>Og ved den skiulte Kraft, som deres Kroppe driver,</l>
+<l>Hendrages til det Punct, som de dog skye igien.</l>
+<l>Med Lynild&#x2013;hastig Flugt det Stierne&#x2013;Kredsen ski&#x00E6;r;</l>
+<l>(For Almagts kraftig Vink ey Frastand Hinder er)</l>
+<l>I samme &#x00D8;yeblik det Polens Zenith r&#x00F8;rte,</l>
+<l>I Linien Dagens Lys dets Torden&#x2013;Stemme h&#x00F8;rte.</l>
+</lg>
+<lg>
+<l rend="indent_1">"Faer Soel! &#x2013; saa br&#x00F8;d den ud — din maalte Sirkel&#x2013;Gang</l>
+<l>"Deel lige Lys og Liv til alle Jordens Zoner!</l>
+<l>"Lad Afrikaners Tak, og Finners glade Toner</l>
+<l>"Foreenes til min Priis, og synge Frydesang!</l>
+<l>Strax Lysets Kildev&#x00E6;ld sin bante Vey gientog;</l>
+<l>Fra Nordens Hemisph&#x00E6;r dets st&#x00E6;rke Glands bortjog</l>
+<l>Den kolde Dunst, hvis Gift paa frugtbar' Blomsterbeede</l>
+<l>Udstr&#x00F8;et, et Eden gi&#x00F8;r til &#x00D8;rknens &#x00F8;de S&#x00E6;de.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="72"/>Flye Vinter! denne Brand, og hyppig Straaleregn,</l>
+<l>Som Dagens Stierne ned fra tendte Axel sender.</l>
+<l>Nu h&#x00F8;yere dens Krop paa Horizonten br&#x00E6;nder,</l>
+<l>Og veltes funklende fra Bukkens Himmeltegn.</l>
+<l>I Atmosph&#x00E6;rens Rum en luttret Ild omdrev,</l>
+<l>Ved Zephyrs milde Pust uddeelt dens Varme blev;</l>
+<l>Fra hiint bedaget Bierg, hvis Isse Skyen truer</l>
+<l>Fl&#x00F8;d lisen str&#x00F8;mmeviis opl&#x00F8;st ved disse Luer.</l>
+</lg>
+<lg>
+<l rend="indent_1">Naturen daanet hen gientog sin f&#x00F8;rste Kraft.</l>
+<l>Nu Frostens Baand ey meer dens Moder-Evner binde,</l>
+<l>Snee-Bierge synke bort, i Jordens Barm forsvinde,</l>
+<l>Og Grunden efterlod en frugtbar N&#x00E6;rings&#x2013;Saft.</l>
+<l>Ski&#x00F8;nt Afmagts Spor endnu paa Overfladen laae,</l>
+<l>I Matheds Smiil man dog fornyet Styrke saae,</l>
+<l>Som der en Sygdoms Vold med Fare Livet trued',</l>
+<l>Naar Helbreds f&#x00F8;rste Skimt paa falmet Kind er skuet.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="73"/>Hin Urt, som evig d&#x00F8;d, nedslagen jeg begr&#x00E6;d,</l>
+<l>Da Synets Yndling blev af Haglens Slynge qv&#x00E6;stet,</l>
+<l>Dens Rod af Leerets Klump, hvori den var bef&#x00E6;stet,</l>
+<l>Opsanker n&#x00E6;rig Melk for nye Spirers S&#x00E6;d.</l>
+<l>Biergaasen Klippens Marv til Dalen drypper ned,</l>
+<l>Dybt i Afgrundens Ski&#x00F8;d ti tusend Munde streed,</l>
+<l>Hvo kunde st&#x00F8;rste Deel af Fedmen sig tilsnige,</l>
+<l>Og Stammens tomme Kar med r&#x00F8;vet Sev berige.</l>
+</lg>
+<lg>
+<l rend="indent_1">Den B&#x00E6;k, som storknet nys og ubev&#x00E6;gelig</l>
+<l>I traurig Stilhed hang ud over Klippens Sider,</l>
+<l>Hensmeltet draabeviis og sagte f&#x00F8;rst nedglider,</l>
+<l>Men bliver ved sit Fald sin gavmild Urne liig.</l>
+<l>Meer iilende og st&#x00E6;rk den Aaens Bredde naaer,</l>
+<l>Opsvolmet denne og foruden L&#x00E6;nker gaaer.</l>
+<l>Af nylig Frihed stolt den trodsig skummer, bruser,</l>
+<l>Og brustne Ki&#x00E6;der hist i styrtend' Vandfald knuser.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="74"/>Her satte nyttig Kunst et Bolv&#x00E6;rk for dens L&#x00F8;b,</l>
+<l>Som tvinger B&#x00F8;lgens Fart til Brugsmands V&#x00E6;rk at drive;</l>
+<l>Forbittret s&#x00F8;ger den hver Skranke at nedrive,</l>
+<l>Og spyer om Hiulet ud af skummig Fraad et Sv&#x00F8;b.</l>
+<l>Naar Bielken splittet er ved Vandets v&#x00E6;gtig St&#x00F8;d,</l>
+<l>Den fulde Ki&#x00E6;rne knust, og &#x00C6;rtsen hamret blod,</l>
+<l>Udmattet Str&#x00F8;mmen sig i Dalens Arme hviler,</l>
+<l>Tit over Vidiens Top Najaden s&#x00F8;lvklar smiler.</l>
+</lg>
+<lg>
+<l rend="indent_1">Snart straaler Marken Haab &#x2013; En talrig Plante-Sl&#x00E6;gt</l>
+<l>Igiennem St&#x00F8;vets Nat med krandset Isse bryder,</l>
+<l>Alt svanger Frugtbarhed i fyldte Aarer flyder,</l>
+<l>Da Ild og V&#x00E6;dske fik forn&#x00F8;den Ligev&#x00E6;gt.</l>
+<l>Forgi&#x00E6;ves h&#x00E6;rdet Muld Forhindring dynger op,</l>
+<l>Og misundt Ski&#x00F8;nheds Pragt mods&#x00E6;tter vanskabt Krop;</l>
+<l>Dens giennemboerte Bryst en Blomsterstengel slakte,</l>
+<l>Som f&#x00F8;rste Seyerstegn, sin yndig Knop, oprakte.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="75"/>Velkommen f&#x00F8;rste Gr&#x00F8;nt fra m&#x00F8;rke F&#x00F8;destavn!</l>
+<l>Ey lyste frem din Glands hist paa det tomme &#x00D8;de,</l>
+<l>F&#x00F8;r L&#x00E6;ngsler ilende dig stimle hen i M&#x00F8;de,</l>
+<l>Og Si&#x00E6;len aander Roe i din balsamisk Favn.</l>
+<l>Saa fordum reddet Dyd, da Hevnens Flod bortsvandt,</l>
+<l>Iblant Ruiners Svelg den sikre Klippe fandt,</l>
+<l>Hvor tryg den hvilte ud af Skr&#x00E6;k omdrevne Tanker,</l>
+<l>Og sendte glade Blik til b&#x00F8;lgefrie Banker.</l>
+</lg>
+<lg>
+<l rend="indent_1">Hvil ogsaa du min Geyst! i Gl&#x00E6;dens stille Lye</l>
+<l>Omtumled' Kr&#x00E6;fter ud, hos disse Vaarens S&#x00F8;nner!</l>
+<l>Hvert Tr&#x00E6;e, hver Ympe, der i F&#x00F8;dsels Smerter st&#x00F8;nner,</l>
+<l>Og Livet v&#x00E6;lder ud af Chaos Ski&#x00F8;d paa nye.</l>
+<l>Glem den udstandne Skr&#x00E6;k, Vandmandens barske Frugt,</l>
+<l>Da over frossen Eng Du foer med uviss Flugt,</l>
+<l>Af en Orcaners Str&#x00F8;m blant Angester henrevet,</l>
+<l>Snart trued' Eegens Fald, snart Klippen selv som b&#x00E6;ved'.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="76"/>Formildet Aarets Tid fremlokker nu hvert Kr&#x00E6;,</l>
+<l>Fra Vinter&#x2013;Leyets Skiul, Forsigtighed beredde,</l>
+<l>F&#x00F8;r kolde Nordenvind sit Raserie udspredde,</l>
+<l>Hvor sammendynget Moes omgi&#x00E6;rded' Afmagts L&#x00E6;e.</l>
+<l>Sig ubevidste de bortsov den skumle Dag;</l>
+<l>Knap Livet viste sig i dorske Aareslag,</l>
+<l>Indtil den lunkne Luft opvarmte stive Lemmer,</l>
+<l>Og Sandsers Herredom den d&#x00F8;sig Krop fornemmer.</l>
+</lg>
+<lg>
+<l rend="indent_1">Da fra sit eenligt Hie hos Foden af et Fi&#x00E6;ld,</l>
+<l>Som f&#x00E6;lt udh&#x00E6;ngende en dunkel Grotte danned',</l>
+<l>Hvis Adgang, steil og brat, af sieldne Fodspor banet,</l>
+<l>End meer afskaaret blev ved Bekkes stride V&#x00E6;ld,</l>
+<l>Udfoer den st&#x00E6;rke Bi&#x00F8;rn ved &#x00F8;nsket Frihed glad;</l>
+<l>De f&#x00F8;rste Mildheds Tr&#x00E6;k paa rynket Pande sad.</l>
+<l>Han i sin vilde &#x00D8;rk en soelfuld Plet opleder,</l>
+<l>Og qv&#x00E6;get Straalens Magt med oprakt Hals tilbeder.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="77"/>Dybt f&#x00F8;lt i Myrens Vraaer et Glimt sig indtr&#x00E6;ngt har,</l>
+<l>Strax Tuens hele Sv&#x00E6;rm af virksom Idr&#x00E6;t br&#x00E6;nder,</l>
+<l>Den eenes Str&#x00E6;bsomhed den andens Fliid ant&#x00E6;nder,</l>
+<l>At &#x00D8;yet skuffet kun en opr&#x00F8;rt Klump blev vaer.</l>
+<l>Med Iil den sorte H&#x00E6;r sit Virak&#x2013;rygend' Hiem</l>
+<l>Forlader hovedkulds at skaffe Forraad frem;</l>
+<l>Ey Dalens nedrig Urt, ey H&#x00F8;yens Fyrre spares,</l>
+<l>Hvad gavner, fremsl&#x00E6;bt er, i Dyngen at bevares.</l>
+</lg>
+<lg>
+<l rend="indent_1">Er Byrden en for tung, den letter villig Arm,</l>
+<l>Og denne samme Hielp af hin utvungen venter;</l>
+<l>Blev Byttet mere rigt, ey harmfuld Grande lenter.</l>
+<l>Naar har Misundelse vel nagget n&#x00F8;ysom Barm?</l>
+<l>Saa fremmes Staters Gavn, hvor Egennyttens Aand</l>
+<l>Opliver umisbrugt hver Borgers str&#x00E6;bsom Haand;</l>
+<l>Hvor viis Eendr&#x00E6;gtighed Arbeidets Smerte lindrer;</l>
+<l>Hvor nagsyg Havelyst ey Klogskabs Anslag hindrer.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="78"/>Den alt besi&#x00E6;lende og almagtsfulde Vaar</l>
+<l>End til Moradsets Sump velvillig Omhue str&#x00E6;kker,</l>
+<l>Af Dvalens Slummer der den dunet Flok opv&#x00E6;kker,</l>
+<l>Som svimmel Buskens Lye paa vaade Vinger naaer.</l>
+<l>Mens andre flygtede til mere h&#x00E6;ldigt Land,</l>
+<l>Hvor aldrig Demant&#x2013;Baand betynger frossen Strand,</l>
+<l>Sin elskte Sommer&#x2013;Boe ved Nordens Pool oplede,</l>
+<l>Og trodse stierneh&#x00F8;yt Atlantisk B&#x00F8;lges Vrede.</l>
+</lg>
+<lg>
+<l rend="indent_1">Igiennem slagen Luft naar Reisen er fuldendt,</l>
+<l>Og &#x00D8;nskers Maal opnaaet, de glade sig foreene</l>
+<l>Med dem, som Kuldens Vold holdt ud paa n&#x00F8;gne Greene,</l>
+<l>Fra hver L&#x00F8;v&#x2013;krandset Lund blev f&#x00E6;lles Hilsen sendt.</l>
+<l>F&#x00F8;rst afbrudt Stemmen er, og Gurglen triller tyst,</l>
+<l>Indtil ved Elskovs Ild opsvolmet sp&#x00E6;de Bryst,</l>
+<l>Af s&#x00F8;de L&#x00E6;ngsler fyldt, sin hele Si&#x00E6;l udt&#x00F8;mmer,</l>
+<l>At blandet Tone&#x2013;Kunst al Luften giennemstr&#x00F8;mmer.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="79"/>I stolte Tanker da Tiuren iler hen</l>
+<l>Til aarlig Samlings Plads, den Lyng-begroete Slette,</l>
+<l>Hvor geile Lysters Ild ant&#x00E6;nder blodig Trette,</l>
+<l>Mens R&#x00F8;yen<note type="footnote"><hi rend="italic">Forfatternote:</hi> Tiurens Hun.</note> hidser op de slagnes Mod igien.</l>
+<l>Grumt blandes Striden nu, ey agtes Livs Forliis</l>
+<l>Mod Elskovs Nydelse, uvisse Seyers Priis.</l>
+<l>Af Mord og h&#x00E6;se Skriig blodplettet Heeden lyder,</l>
+<l>Dyrt ki&#x00F8;bes hver en Gunst, som Seyerherren nyder.</l>
+</lg>
+<lg>
+<l rend="indent_1">Udmattet, saaret dybt, Medbeyleren tilsidst</l>
+<l>Sin magtesl&#x00F8;se Krop fra slibrig Valplads sl&#x00E6;ber,</l>
+<l>At finde sikkert Skiul modfalden han kun str&#x00E6;ber,</l>
+<l>Udslukt er Fyrighed med Haabets sidste Gnist.</l>
+<l>Ey raser skindsyg Hevn i Heltens Hierte meer,</l>
+<l>Til vild Begierlighed hans Truen omvendt er,</l>
+<l>Af Vellyst d&#x00F8;v og blind, han lokker, spiller, bruser,</l>
+<l>Uf&#x00F8;lt det Morder-Blye, som Magens Hierte knuser,</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="80"/>Ved en ut&#x00E6;mmet Drift imens Naturens Bud</l>
+<l>Hos disse opfyldt er, den sp&#x00E6;de Sanger ledes</l>
+<l>Ved mildre F&#x00F8;lelser, som i hans Aarer spredes,</l>
+<l>Til samme store Maal: At intet Slag d&#x00F8;er ud.</l>
+<l>Ey rasend' Tvekamp her aftvinger Hunnens Val,</l>
+<l>Ved Hiertets ki&#x00E6;lne Sprog hun overtales skal;</l>
+<l>Ski&#x00F8;nt blussende af Ild, sin Attraae Hannen t&#x00E6;mmer,</l>
+<l>Og venter &#x2013; piinlig Tvivl! &#x2013; den Yndling, Hun bestemmer.</l>
+</lg>
+<lg>
+<l rend="indent_1">Men bliver kronet Haab den &#x00F8;mme Elskers L&#x00F8;n,</l>
+<l>Forsvinde Frygt og Tvivl, og st&#x00E6;rke Slag udtrykke</l>
+<l>Hans Si&#x00E6;ls Henrykkelse, hans Gl&#x00E6;de og hans Lykke;</l>
+<l>Ved igientagne Kys Hun bliver dobbelt ski&#x00F8;n.</l>
+<l>Dog glemmes ingen Pligt imellem Favnetag,</l>
+<l>For ventet Afkoms Skiul de bygge kunstigt Tag;</l>
+<l>Om under M&#x00F8;yens V&#x00E6;gt de slappe Sener tr&#x00E6;ttes,</l>
+<l>Ved Magens venlig Syn den matte Krop oprettes.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="81"/>Tit der, hvor kunstlet Vid ey d&#x00F8;ver Pligters R&#x00F8;st,</l>
+<l>Jeg fandt et saadant Par ved kierligt Venskab styrket</l>
+<l>I Skoves eenlig &#x00D8;rk, af haardf&#x00F8;r Fliid opdyrket,</l>
+<l>Hvor Fred og Sindets Roe var dydig Armods Tr&#x00F8;st.</l>
+<l>For dem blev Arbeid Lyst; Thi Haabet smigred Sved:</l>
+<l>"Din elskte Eftersl&#x00E6;gt nu sikker Bolig veed,</l>
+<l>"Ey huusvild den, forladt, skal Livets Ophold savne,</l>
+<l>Saa med et henrykt Kys sin halve Sig de favne.</l>
+</lg>
+<lg>
+<l rend="indent_1">Hvor &#x00D8;yet vanker om i Synets viide Kreds,</l>
+<l>Det Liv og Munterhed her allevegne m&#x00F8;der,</l>
+<l>En driftig Virksomhed udi hver Gienstand gl&#x00F8;der,</l>
+<l>Og &#x00D8;rkesl&#x00F8;sheds Spor ey findes nogensteds.</l>
+<l>Ned fra Fornuftens S&#x00F8;n til St&#x00F8;vets mindste Dyr,</l>
+<l>Hvis Sammens&#x00E6;tnings Form det slebne Glas undflyer,</l>
+<l>Hvert V&#x00E6;sen, fuldt af Kraft, ansp&#x00E6;nder alle Evner,</l>
+<l>At naae den Lykkes Grad en medskabt Drift dem n&#x00E6;vner.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="82"/>Opmuntret seer jeg hist, min Landsmand haste ned</l>
+<l>Fra Biergets skovfuld Top, hvor hver Dryade b&#x00E6;vte,</l>
+<l>Saa tit mod ranke Gran han hv&#x00E6;sset &#x00D8;xe h&#x00E6;vte,</l>
+<l>Og Stammen bragende fra st&#x00E6;rke R&#x00F8;dder sleed.</l>
+<l>Ubrugt det blanke Jern en tidlang h&#x00E6;nges bort,</l>
+<l>(For sysselsatte Fliid er Hvilen ikkun kort)</l>
+<l>Skal H&#x00F8;stens gyldne Skat i tunge Knipper spredes,</l>
+<l>Maae Jorden, ellers gold, ved hielpsom Haand beredes.</l>
+</lg>
+<lg>
+<l rend="indent_1">Opm&#x00E6;rksom paa sit Vel, og Dorskheds S&#x00F8;vn uvant,</l>
+<l>Hans dybt nedtrykte Plov maae Leerets Haardhed sv&#x00E6;kke,</l>
+<l>Og Agrens jevne Ski&#x00F8;d i dybe Furer br&#x00E6;kke,</l>
+<l>F&#x00F8;r Dagens Forbuds Skin bestammer &#x00D8;stens Kant.</l>
+<l>Selv den aarvaagne Fugl forstyrret i sin Roe,</l>
+<l>Fra Busken styrter ud, dens trygge Natteboe,</l>
+<l>Mod Fyrrens kronet Top beski&#x00E6;mmet den sig slynger</l>
+<l>Og, stillet f&#x00F8;rste Skr&#x00E6;k, sin V&#x00E6;kker Held tilsynger.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="83"/>Dog blev ved skyndet Hast ey Bondens &#x00D8;nske endt,</l>
+<l>Drev Fyrighed hans Plov, gik stadig Omhue efter</l>
+<l>Med det skarpsynet Blik, Selveyers &#x00D8;ye h&#x00E6;fter</l>
+<l>Paa hvad, sit dyrket Land at skade han har kiendt.</l>
+<l>Snart under K&#x00F8;llens Slag opsmuldres h&#x00E6;rdet Muld,</l>
+<l>Snart Stene brydes op, hvoraf hans Mark er fuld,</l>
+<l>Og paa hans taalig Ryg til varigt Gi&#x00E6;rde sl&#x00E6;bes,</l>
+<l>Snart grenet Ukruds Rod i f&#x00F8;rste Spire dr&#x00E6;bes.</l>
+</lg>
+<lg>
+<l rend="indent_1">Tilsidst naar m&#x00F8;ysom Konst udviklet har hver Kraft,</l>
+<l>Som indlukt frugtesl&#x00F8;s i golde Jordklimp gi&#x00E6;rer,</l>
+<l>I Luften derimod udbredet Planter n&#x00E6;rer,</l>
+<l>Og klekker Vexter op med gr&#x00F8;de&#x2013;svanger Saft.</l>
+<l>Den hele Str&#x00E6;kning om en gavmild Fedme fl&#x00F8;d,</l>
+<l>Som S&#x00E6;den l&#x00F8;fte&#x2013;riig sin fostrend' Barm tilb&#x00F8;d.</l>
+<l>En Olie&#x2013;blandet Damp langs hen ad Grunden sv&#x00E6;ver,</l>
+<l>Hvis tr&#x00E6;ngte Overflod i flygtig Dunst sig h&#x00E6;ver.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="84"/>Den beste Ki&#x00E6;rne da, for n&#x00F8;ysom Gane spart,</l>
+<l>Ned fra Saamandens Haand i &#x00F8;dsle Str&#x00F8;mme regner,</l>
+<l>Mens Haabet smilende i Tanken ham aftegner,</l>
+<l>De rente&#x2013;rige Ax, hans Laan skal avle snart.</l>
+<l>Ved endet Gierning glad, sit V&#x00E6;rk han overseer,</l>
+<l>Opfyldte Pligters Roe sig i hans Aasyn teer;</l>
+<l>Hans tillidsfulde Si&#x00E6;l i skyldfrit Suk opstiger,</l>
+<l>Til <hi rend="italic">Ham,</hi> hvis venlig Smiil en &#x00D8;rk med Pragt beriger.</l>
+</lg>
+<lg>
+<l rend="indent_1">Forgi&#x00E6;ves M&#x00F8;ye blev, og Mangel Fliidens L&#x00F8;n,</l>
+<l>Om, gunstig Himmel! ey Dit Velbehag beskygger</l>
+<l>Det vaabenl&#x00F8;se Fr&#x00F8;e, som ingen Konst betrygger,</l>
+<l>Naar ub&#x00F8;nh&#x00F8;rt forsmaaes Vindskibeligheds B&#x00F8;n.</l>
+<l>Bortvisnet ellers skal ved Solens grumme Brand,</l>
+<l>Dets sp&#x00E6;de Spire d&#x00F8;e, qvalt i fort&#x00F8;rret Land,</l>
+<l>Og selv det si&#x00E6;ldne Straae, som umild Sommer skaaner,</l>
+<l>Riimfrosten myrde skal, f&#x00F8;r det for Seglen daaner.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="85"/>Men en Forvarsels Skye din Mildheds Forbud blev;</l>
+<l>Op ad det hvalte Blaae med langsom Fart den h&#x00E6;ver</l>
+<l>Sin Dunst&#x2013;betynget Krop, og tungt bel&#x00E6;sset sv&#x00E6;ver:</l>
+<l>Fra Bierget Lyset flyer, hvor Skyggen fremad drev.</l>
+<l>Svagt Luftens Demning staaer Vandskyllets Magt imod,</l>
+<l>Som spruder voldsom ud fra denne vinget Flod,</l>
+<l>En v&#x00E6;ldig Draabe&#x2013;Str&#x00F8;m alt S&#x00F8;ens Jevnhed bryder,</l>
+<l>Og Aaen, mere tung, i Hvirvel&#x2013;B&#x00F8;lger flyder.</l>
+</lg>
+<lg>
+<l rend="indent_1">Laan mig dit tette Skiul &#x00E6;rv&#x00E6;rdig&#x2013;grened' Eeg!</l>
+<l>Dit Skiul, som Hyrden L&#x00E6;e og gavmild Skygge byder,</l>
+<l>Naar hidsig Sirius antendte Straaler skyder,</l>
+<l>Og vaade Hyades i St&#x00F8;bregn sv&#x00F8;bt fremsteeg.</l>
+<l>Mens Si&#x00E6;len henter Fryd hos denne Frugtbarhed,</l>
+<l>Algodheds bundl&#x00F8;s Hav ugr&#x00E6;ndset str&#x00F8;mmer ned,</l>
+<l>Forfrisket, l&#x00E6;dsket dybt, i Kr&#x00E6;fter Marken sv&#x00F8;mmer;</l>
+<l>Velsignelsernes Flod Afgrunden giennemstr&#x00F8;mmer.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="86"/>Hvor yndig Skovens Dragt! &#x2013; og Engen! &#x2013; hvilken Pragt!</l>
+<l>Hvor mild er Luften selv! &#x2013; kun Vestenvinden spiller,</l>
+<l>Nu Solen Skyggerne og Lysets Skiul adskiller,</l>
+<l>Og splitter Skyer ad med en Erobrers Magt.</l>
+<l>H&#x00F8;yt Droslens st&#x00E6;rke Slag velsigner dennes Glands,</l>
+<l>Og v&#x00E6;kker alting op til Lov og Fryd og Dands;</l>
+<l>Med Gl&#x00E6;dskabs lette Spring den krumme Flods Indbygger</l>
+<l>Forfriskning aander ind i skovfuld Aabreds Skygger.</l>
+</lg>
+<lg>
+<l rend="indent_1">Ustadigt &#x00D8;yet er, og ubestemt dets Flugt;</l>
+<l>Et Val er ikke giort, hvor dets Betragtning dv&#x00E6;ler,</l>
+<l>F&#x00F8;r st&#x00F8;rre Herlighed dets Agtsomhed bortsti&#x00E6;ler,</l>
+<l>Og f&#x00F8;rste Formaals Glands mod dettes er udslukt.</l>
+<l>Den hvalte Bue hist snart skuer jeg henrykt,</l>
+<l>I Skyen h&#x00E6;ngende af Straalers Gienskin bygt;</l>
+<l>Hvor Lyset gradeviis i Prismets synlig Orden,</l>
+<l>Hvert s&#x00E6;rskilt Farve&#x2013;Slag udspreder over Jorden.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="87"/>En Udsigt mere ski&#x00F8;n snart Engen byder mig,</l>
+<l>Hvor Vaarens &#x00F8;dsle Haand et Blomster&#x2013;Teppe breder,</l>
+<l>I st&#x00E6;rke Farvers Skin; Uordenen selv gl&#x00E6;der</l>
+<l>Paa denne Skueplads, paa hver Forandring rig.</l>
+<l>Med Bien irrer jeg omkring den hele Kreds,</l>
+<l>Umettelig, ski&#x00F8;nt Fryd mig m&#x00F8;der allesteds;</l>
+<l>Meer aromatisk Luft om Ceilons Kyst ey flyder;</l>
+<l>End den hvert Aandedr&#x00E6;t min drukne Si&#x00E6;l tilbyder.</l>
+</lg>
+<lg>
+<l rend="indent_1">Hvor blev det Landskab af, jeg nys i Afmagt saae,</l>
+<l>Sin Ski&#x00E6;bne overladt, hvor Hvirvelvinde fnyste</l>
+<l>Vold, D&#x00F8;d og Undergang, knap matte Straaler lyste</l>
+<l>Den r&#x00E6;dsom Iisklump op, som om Naturen laae;</l>
+<l>Forsvunden er dets Skr&#x00E6;k, og det bespendte Bryst,</l>
+<l>Al Farlighed forglemt, indaander lutter Lyst.</l>
+<l>I Yndigheders Ski&#x00F8;d indslumrer Si&#x00E6;len rolig,</l>
+<l>Da frosne Zemblas &#x00D8;rk er ki&#x00E6;len Vellysts Bolig.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="88"/>H&#x00F8;yt stige nu min Sang! til Vaarens Almagts Priis,</l>
+<l>Hvis Spor jeg kiender her &#x2013; saa h&#x00F8;yt som Hiertet br&#x00E6;nder!</l>
+<l>Dog hvad er Vaarens Magt? &#x2013; et Laan af dine H&#x00E6;nder,</l>
+<l>Du V&#x00E6;sners store Grund! Alm&#x00E6;gtig, God og Viis!</l>
+<l>Af Dig fik Jorden Kraft at bringe Vexter frem,</l>
+<l>I St&#x00F8;v henvisnede Din Aand besi&#x00E6;ler dem.</l>
+<l>Ikl&#x00E6;dde samme Pragt Din Styrke dem opvakte,</l>
+<l>Som da Dit f&#x00F8;rste Bliv. Afgrunden for dem flakte.</l>
+</lg>
+<lg>
+<l rend="indent_1">Alt levende er Dit &#x2013; Af Dig det mindste Dyr</l>
+<l>Med Evner rustes ud sit V&#x00E6;sen at bevare!</l>
+<l>Blev Svaghed eet til Deel, og trued' Afmagt Fare,</l>
+<l>Ved nye Fuldkommenhed det Undergang undflyer.</l>
+<l>Din Viisdom viser sig ey mindre god og stor</l>
+<l>I hiin foragtet Orm, som skiult i Dyndet boer,</l>
+<l>End i den Kiempe&#x2013;Krop, en Leviathan b&#x00E6;rer,</l>
+<l>Du begge Livet gav, Dit Forsyn begge n&#x00E6;rer.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="89"/>Du maalte Solens Vey, og Himmel&#x2013;Lyset b&#x00F8;d,</l>
+<l>Med uforandret L&#x00F8;b sin maalte Bane f&#x00F8;lge,</l>
+<l>At, ski&#x00F8;nt dets evig Brand opkaager Nigers B&#x00F8;lge,</l>
+<l>Dog lige Straale&#x2013;Glands til Thules Kyst det ski&#x00F8;d.</l>
+<l>Fra Indus's rige Bred til Poolens Lande hen,</l>
+<l>Din Godheds milde Smiil opliver Skabningen;</l>
+<l>Glad i sin Hyttes Lye t&#x00F8;r n&#x00F8;ysom Skrelling<note type="footnote"><hi rend="italic">Forfatternote:</hi> Skrellinger kaldtes Gr&#x00F8;nlands gamle Indbyggere.</note> veye</l>
+<l>Sin Lykkes Maal med dem, Potosis Skatte eye.</l>
+</lg>
+<lg>
+<l rend="indent_1">Kan Afmagts h&#x00E6;se Sang Din &#x00C6;res H&#x00F8;yhed naae,</l>
+<l>Nu, da din Lov og Priis opfylder alle Himle,</l>
+<l>Cherubens h&#x00F8;ye Chor og Viisdoms Aander svimle,</l>
+<l>Og Harpen afbrudt slaae, naar Almagts Dyb de saae?</l>
+<l>Ney! ydmyg Taushed best med Ringhed passer sig,</l>
+<l>I Tak og stille Suk min Aand tilbede Dig!</l>
+<l>Og naar Din Godheds Magt mod St&#x00F8;vets B&#x00F8;rn jeg skuer,</l>
+<l>Da flamme Hiertet op i hellig Gl&#x00E6;des Luer!</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="90"/>V&#x00E6;r Andagt da min Tolk! og min Ledsager v&#x00E6;r!</l>
+<l>Saa tit, i Vellyst tabt, Naturen jeg omvanker;</l>
+<l>At Skabnings&#x2013;Verkets Syn kan avle modne Tanker,</l>
+<l>Og Viisdom voxe op i min Forstand, som der;</l>
+<l>Da skal, mens Livets Gnist opvarmer dette Bryst,</l>
+<l>Algodheds F&#x00F8;lelse bemestre Si&#x00E6;lens Lyst,</l>
+<l>Indtil i st&#x00F8;rre Lys min Aand sig henrykt taber,</l>
+<l>Og synker bort i Dig! Mit Liv &#x2013; Min Gud! &#x2013; Min Skaber!</l>
+</lg>
+</div>
+<div type="chapter" n="6">
+<head type="main"><ref type="contents" target="contents_7" xml:id="chapter_7">S&#x00F8;vnen</ref></head>
+<p rend="center">af Johan Herman Wessel.</p>
+<quote>
+<lg>
+<l><pb n="93"/>Duunvinget, silkebl&#x00F8;d, du gleed paa &#x00D8;yet frem,</l>
+<l>Og hvisked 'al din Sorg, dig selv Stryange glem.</l>
+<l><hi rend="italic">Zarine</hi>.</l>
+</lg>
+</quote>
+<figure rend="asterisk"/>
+<lg>
+<l rend="indent_1">Du, dobbelt ski&#x00F8;n, fordi jeg sov!</l>
+<l>Du skal min Tone Styrke give,</l>
+<l>Du blide Morgen skal oplive</l>
+<l>Den R&#x00F8;st, som synger S&#x00F8;vnens Lov.</l>
+</lg>
+<lg>
+<l rend="indent_1">Omsonst sig s&#x00F8;dest Klang tilb&#x00F8;d</l>
+<l>Det tunge &#x00D8;re at forn&#x00F8;ye,</l>
+<l>Og fra et dunkelt, sv&#x00E6;kket &#x00D8;ye</l>
+<l>Til ki&#x00E6;dsom Aand kun Ulyst fl&#x00F8;d;</l>
+</lg>
+<lg>
+<l rend="indent_1">Til D&#x00F8;den Livet gr&#x00E6;ndsede,</l>
+<l>Hver Evne syntes slidt af &#x00C6;lde,</l>
+<l>Og Bygningen til Fald at h&#x00E6;lde,</l>
+<l>Da du, o S&#x00F8;vn! mig vinkede.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="94"/>Tung i din bl&#x00F8;de Favn jeg gleed,</l>
+<l>Ber&#x00F8;vet Vid og Syn og Stemme,</l>
+<l>Liig den, som sank i Muldets Giemme</l>
+<l>Til mere varig Hvile ned.</l>
+</lg>
+<lg>
+<l rend="indent_1">Jeg tryg mit V&#x00E6;sen dig betroet,</l>
+<l>Jeg sp&#x00F8;rger ey, hvad st&#x00E6;rke Stytter</l>
+<l>Imidlertid fra Fald beskytter</l>
+<l>I tynde Luft den tunge Jord.</l>
+</lg>
+<lg>
+<l rend="indent_1">En H&#x00E6;r af Verdener utalt,</l>
+<l>Som mig omgive, hvis de skeye,</l>
+<l>Et Haar bredt fra de vante Veye,</l>
+<l>Et Kaos gi&#x00F8;r af mig og alt;</l>
+</lg>
+<lg>
+<l rend="indent_1">Min Undergang et Haar bredt n&#x00E6;r,</l>
+<l>Jeg slummer s&#x00F8;dt, jeg intet vover;</l>
+<l>Han vaager, han, som aldrig sover;</l>
+<l>For alt og for hvert St&#x00F8;v i s&#x00E6;r.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="95"/>Som jeg den halve Klode var,</l>
+<l>Indsv&#x00F8;bt i M&#x00F8;rkheds tause Taage,</l>
+<l>Og paa de lukte &#x00D8;ynelaage</l>
+<l>Din grumme Broders Billed bar.</l>
+</lg>
+<lg>
+<l rend="indent_1">Men Ilden ulmer, Livet groer;</l>
+<l>Du snart igien skal Kr&#x00E6;fter vinde,</l>
+<l>Min Aand, du snart igien skal finde</l>
+<l>En Morgen ski&#x00F8;n, din Skaber stoer.</l>
+</lg>
+<lg>
+<l rend="indent_1">Saa danner Aarets Morgen sig;</l>
+<l>Og Jordens Safter Liv udkl&#x00E6;kke,</l>
+<l>Naar, under hvide S&#x00F8;rge&#x2013;D&#x00E6;kke,</l>
+<l>Naturen synes ligge Liig.</l>
+</lg>
+<lg>
+<l rend="indent_1">Nu Kraft til alle Aarer fl&#x00F8;d,</l>
+<l>Nys slappe Drivefi&#x00E6;dre sp&#x00E6;ndtes,</l>
+<l>Til Si&#x00E6;lens Pleye V&#x00E6;sner sendtes,</l>
+<l>Som spillede i S&#x00F8;vnens Ski&#x00F8;d.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="96"/>Med Moders &#x00D8;mhed b&#x00F8;d du dem</l>
+<l>Den sp&#x00E6;de Fosters&#x00F8;n forn&#x00F8;ye,</l>
+<l>O S&#x00F8;vn! og for din Yndlings &#x00D8;ye</l>
+<l>Hver &#x00F8;nsket Scene bringe frem.</l>
+</lg>
+<lg>
+<l rend="indent_1">Du b&#x00F8;d dem i den Elskers Br&#x00F8;st,</l>
+<l>Som en uh&#x00E6;ldig Lue n&#x00E6;rte,</l>
+<l>Og som forgi&#x00E6;ves Suk fort&#x00E6;rte,</l>
+<l>At gyde L&#x00E6;gedom og Tr&#x00F8;st.</l>
+</lg>
+<lg>
+<l rend="indent_1">Hans grumme skabes om i Hast,</l>
+<l>Hun med Citheres Smiil ham vinker,</l>
+<l>Og &#x00D8;mhed i hver Mine blinker,</l>
+<l>Og Himlen i hvert &#x00D8;yekast.</l>
+</lg>
+<lg>
+<l rend="indent_1">Du b&#x00F8;d dem l&#x00F8;se f&#x00E6;ngslet Fod,</l>
+<l>De Slaven tit paa Tronen satte,</l>
+<l>Gav n&#x00F8;gen Armod Perus Skatte,</l>
+<l>Og den fortrykte Haab og Mod.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="97"/>Den usle, segnet i en Vraae,</l>
+<l>Tryg bag det D&#x00E6;kke, som du drager</l>
+<l>Imellem ham og Dagens Plager,</l>
+<l>Med Smiil paa blege Kinder laae.</l>
+</lg>
+<lg>
+<l rend="indent_1">Ey Smerters giftig Braad formaaer</l>
+<l>Dit Sl&#x00F8;er, o S&#x00F8;vn! at giennemtr&#x00E6;nge.</l>
+<l>O! skiul ham bag det, skiul ham l&#x00E6;nge,</l>
+<l>Hans B&#x00F8;dler vaager uden for.</l>
+</lg>
+<lg>
+<l rend="indent_1">Men blant de blide V&#x00E6;sners Kor,</l>
+<l>Som Si&#x00E6;len til dens H&#x00E6;ld bedrager,</l>
+<l>Fornuften studsende opdager</l>
+<l>Alvidenhedens si&#x00E6;ldne Spoer.</l>
+</lg>
+<lg>
+<l rend="indent_1">Dybt i din skyggefulde Boe</l>
+<l>Hvad m&#x00E6;gtig Aand har valgt sig Tempel?</l>
+<l>Dens Udsagn b&#x00E6;r et Guddoms Stempel,</l>
+<l>Som Vantroe selv forbaust maae troe.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="98"/>Men Tidens Maal i virksom Gang</l>
+<l>De nu fuldmodne Evner bringer,</l>
+<l>Og S&#x00F8;vnen flyer paa Nattens Vinger</l>
+<l>At lindre fi&#x00E6;rne Landes Trang.</l>
+</lg>
+<lg>
+<l rend="indent_1">Nu str&#x00F8;mte Lys og Sandhed til,</l>
+<l>Nu faldt Fortryllelsernes Teppe,</l>
+<l>Og Si&#x00E6;len fatted' endnu neppe,</l>
+<l>At, hvad den saae, var Skuespil.</l>
+</lg>
+<lg>
+<l rend="indent_1">V&#x00E6;r hilset Morgen, S&#x00F8;vn farvel!</l>
+<l>Tak for den svangre Roe og Varme,</l>
+<l>Som nys i dine ki&#x00E6;lne Arme,</l>
+<l>Nyt Liv udkl&#x00E6;kked' i min Si&#x00E6;l.</l>
+</lg>
+<lg>
+<l rend="indent_1">Hver Aand er frisk, hver Krop er st&#x00E6;rk;</l>
+<l>Hver Sands mod glade Indtryk tager,</l>
+<l>Hvert f&#x00F8;lsomt Hierte Vellyst smager,</l>
+<l>Og alt er H&#x00E6;ld og S&#x00F8;vnens Verk.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="99"/>Og den har stemt til hellig Klang</l>
+<l>De Tunger, som nu Luften fylde,</l>
+<l>Og kappes Skaberen at hylde,</l>
+<l>Som kiendes stor i deres Sang.</l>
+</lg>
+<lg>
+<l rend="indent_1">Du ene god og ene stor!</l>
+<l>O! v&#x00E6;rdiges du at fornemme</l>
+<l>Min ufuldkomne svage Stemme,</l>
+<l>Blant de utalte Stemmers Kor.</l>
+</lg>
+<lg>
+<l rend="indent_1">Meer v&#x00E6;rdig Verdners og min Gud,</l>
+<l>Den fra forklaret Br&#x00F8;st skal lyde,</l>
+<l>Da, naar mig evig Dag skal byde</l>
+<l>Fra Gravens Nat at tr&#x00E6;de ud.</l>
+</lg>
+<lg>
+<l rend="indent_1">Men midt i jordisk Paradiis,</l>
+<l>Hvad Tone kan mit &#x00D8;re saare?</l>
+<l>Forklares og din Lov ved Taare?</l>
+<l>O S&#x00F8;vn! hvem hyler ud din Priis?</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="100"/>Elendighed, hvis Gl&#x00E6;des Stand,</l>
+<l>Med dig begyndt, med dig oph&#x00F8;rer,</l>
+<l>Den sukkende fra sin Velgi&#x00F8;rer</l>
+<l>Nu fl&#x00F8;y til Virkeligheds Land.</l>
+</lg>
+<lg>
+<l rend="indent_1">Skal og &#x2013; Snart veigrer sig min R&#x00F8;st</l>
+<l>At yttre denne f&#x00E6;le Tanke,</l>
+<l>Skr&#x00E6;k synes i hver Aare banke,</l>
+<l>Og R&#x00E6;dsler tordner i mit Br&#x00F8;st.</l>
+</lg>
+<lg>
+<l rend="indent_1">Skal og den store Morgens Bud,</l>
+<l>Som os af sidste S&#x00F8;vn b&#x00F8;r v&#x00E6;kke &#x2013;</l>
+<l>Hvem skal den Vognende forskrekke?</l>
+<l>Mit Blod blev Iis! O! frels mig Gud!</l>
+</lg>
+</div>
+<div type="chapter" n="7">
+<head type="main"><ref type="contents" target="contents_8" xml:id="chapter_8">Brev fra Waldborg Immers Datter til hendes Veninde</ref></head>
+<p rend="center">af Charlotta Dorothea Biehl.</p>
+<lb/><p rend="center"><pb n="103"/>BREV.</p>
+<lg>
+<l rend="indent_1">Du, som i Gl&#x00E6;dens Ski&#x00F8;d og hos en elsket Mage,</l>
+<l>I din Venindes Sorg medynksom Deel vil tage;</l>
+<l>O! t&#x00E6;nk ey: Venskabs Drift mig meer ey r&#x00F8;re kan,</l>
+<l>Endski&#x00F8;nt den ey formaaer at stille &#x00D8;yets&#x2013;Vand.</l>
+<l>Den Gift, som nu min Roe og Leve&#x2013;Saft fort&#x00E6;rer, —</l>
+<l>O Ney! den s&#x00F8;de Ild, som jeg med Flid ern&#x00E6;rer,</l>
+<l>I Hiertet ulmede f&#x00F8;r Venskabs rene Lyst,</l>
+<l>Ved dig, min Huldeste! fik Adgang til mit Bryst.</l>
+<l>Fra Vuggens f&#x00F8;rste Trin mig Modgang alt omspendte,</l>
+<l>Ukiendt med Elskovs Navn dens Gl&#x00F8;d i Hiertet br&#x00E6;ndte,</l>
+<l>Som aldrig slukkes ud ey kan, ey skal, ey maae,</l>
+<l>I F&#x00F8;lelsen af den min Lindring skal bestaae.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="104"/>Bebreid din <hi rend="italic">Waldborg</hi> ey hun om dit Venskab tvivlte</l>
+<l>Den Tid hun tr&#x00F8;stesl&#x00F8;s til Kloster Muuren iilte;</l>
+<l>En D&#x00F8;d blant Levende kun St&#x00E6;d i Graven har,</l>
+<l>Den <hi rend="italic">Axel</hi> f&#x00E6;ldede min Leve&#x2013;Traad afskar.</l>
+<l>Til Venskabs Pandt fra mit af Sorg mest brustne Hierte,</l>
+<l>Antag Fort&#x00E6;lningen, Veninde! af min Smerte,</l>
+<l>Min Angst beklemte Si&#x00E6;l ud&#x00F8;ses skal for dig,</l>
+<l>L&#x00E6;s i min Barm og d&#x00F8;m saa mellem dig og mig.</l>
+</lg>
+<lg>
+<l rend="indent_1">Det Fortrin, Konge Blod af Dyd og Mod oplivet,</l>
+<l>Ved F&#x00F8;dslen skienke kan, blev mig af Ski&#x00E6;bnen givet;</l>
+<l>Af <hi rend="italic">Harald Gilles</hi> Rod min Fader <hi rend="italic">Immer</hi> var,</l>
+<l>Hans Gl&#x00E6;de <hi rend="italic">Julli</hi> blev, som mig til Verden bar.</l>
+<l>Men ak! mit svage Syn end ey min Fader kiendte</l>
+<l>Da han paa &#x00C6;rens Seng sit Helte&#x2013;L&#x00F8;b fuldendte;</l>
+<l>Min Alder var et Skiold mod dette grumme St&#x00F8;d,</l>
+<l>Og ved Fornuftens Lys f&#x00F8;rst Tabets Saar udbr&#x00F8;d.</l>
+<l><pb n="105"/>Ni gange havde jeg lagt Aarets L&#x00F8;b tilbage,</l>
+<l>Uskyldig Lyst og Ski&#x00E6;mt opfyldte mine Dage,</l>
+<l>Da jeg en Dag &#x2013; (O Dag! hvis Minde ey forgaaer;</l>
+<l>Men mig til Tr&#x00F8;st og Qval endnu for &#x00D8;yet staaer).</l>
+<l>En Dag hos Dronningen min Moder er tilst&#x00E6;de,</l>
+<l>Mig, som ved <hi rend="italic">Immers</hi> Tab blev eene hendes Gl&#x00E6;de,</l>
+<l>Al hendes &#x00D8;mheds Maal, ey &#x00D8;yet savne maae,</l>
+<l>Det tabte al sin Glands saa snart det mig ey saae.</l>
+<l>Da hun sin Kierlighed for Dronningen ey dulgte,</l>
+<l>Tilst&#x00E6;dte hun med Lyst, at jeg min Moder fulgte;</l>
+<l>Jeg glad og sp&#x00F8;gende omkring paa Gulvet gaaer,</l>
+<l>Da Elskovs skarpe Piil mit sp&#x00E6;de Bryst gav Saar.</l>
+</lg>
+<lg>
+<l rend="indent_1">Hr. <hi rend="italic">Axel</hi> drage vil til Kayser <hi rend="italic">Henrichs</hi> Rige,</l>
+<l>Han kommer Dronningen Farvel og Tak at sige;</l>
+<l>Hans &#x00D8;ye saae kun mig, sin Arm han om mig slog,</l>
+<l>Jeg f&#x00F8;ler det endnu; jeg h&#x00F8;er det Suk, han drog.</l>
+<l><pb n="106"/>En ukiendt S&#x00F8;dme jeg af <hi rend="italic">Axels</hi> L&#x00E6;ber sanker,</l>
+<l>Trykt til hans &#x00E6;dle Barm mod min hans Hierte banker,</l>
+<l>Mit svarer Slag i Slag, det lover Kierlighed,</l>
+<l>Udtrykker det, min Mund end ey at n&#x00E6;vne veed.</l>
+<l>I det han af sin Arm mig ned paa Gulvet s&#x00E6;tter,</l>
+<l>Han siger: Jeg gaaer hen hvor &#x00C6;ren Krandse fl&#x00E6;tter,</l>
+<l>Jeg f&#x00E6;ster dig i Dag min dyrebare Brud!</l>
+<l>Forglem din <hi rend="italic">Axel</hi> ey, der gaaer af Landet ud.</l>
+<l>En Guldring af sin Haand med H&#x00E6;ftighed han river,</l>
+<l>Og til et Troeskabs Pandt sin <hi rend="italic">Waldborg</hi> overgiver;</l>
+<l>Han hilser Dronningen, og hans bev&#x00E6;gte Si&#x00E6;l</l>
+<l>B&#x00F8;d ved et &#x00D8;yekast mig end et &#x00F8;mt Farvel.</l>
+<l>Strax Banghed, &#x00C6;ngstelse mit unge Bryst omspender,</l>
+<l>Sig &#x00D8;yet l&#x00E6;ngselfuld mod D&#x00F8;ren stedse vender,</l>
+<l>Uroeligt Hiertet er, det &#x00F8;nsker, f&#x00F8;ler, slaaer,</l>
+<l>Men dets Bev&#x00E6;gelser min Kundskab overgaaer.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="107"/>Strax efter sendtes jeg til Klosteret at l&#x00E6;re</l>
+<l>De Ting, som er vor Ki&#x00F8;n en Prydelse og &#x00C6;re;</l>
+<l>Veninde! Jeg dig der til Tr&#x00F8;st og Gl&#x00E6;de fandt,</l>
+<l>Der Venskabs s&#x00F8;de Drift os evig sammenbandt.</l>
+<l>Men <hi rend="italic">Axels</hi> Billede mig allevegne fulgte,</l>
+<l>Beskyld din <hi rend="italic">Waldborg</hi> ey hun dig sit Hierte dulgte.</l>
+<l>Vel f&#x00F8;lede hun tit, at Kinden farvet blev,</l>
+<l>Men vidste ikke selv, hvad Blodet til den drev.</l>
+<l>F&#x00F8;r jeg den Kundskab faaer vi Skilsmiss' Skaalen smager,</l>
+<l>Ulige Ski&#x00E6;bne dig og mig af Klostret drager,</l>
+<l>Du kaldes Hilmers Dyd i dig sin L&#x00F8;n at faae,</l>
+<l>Min Moders &#x00D8;ye jeg for evig lukke maae.</l>
+<l>Mit Hiertes &#x00D8;nske var i Eensomhed at gr&#x00E6;de,</l>
+<l>Men Dronning <hi rend="italic">Malfred</hi> mig det ikke vil tilst&#x00E6;de,</l>
+<l>Hun vil erstatte mig Frue <hi rend="italic">Jullis</hi> dyre Savn</l>
+<l>I Moders St&#x00E6;d mig staae i Raad, i Daad, i Gavn.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="108"/>Blant sine Jomfruer hun f&#x00F8;rste St&#x00E6;d mig giver,</l>
+<l>Og dette Lykkens Smiil min Uhelds Kilde bliver,</l>
+<l>Kong <hi rend="italic">Haagen</hi>, hendes S&#x00F8;n, mit &#x00D8;ye t&#x00E6;nder an,</l>
+<l>Endski&#x00F8;nt det daglig fl&#x00F8;d i salte Taarers Vand.</l>
+<l>Hans &#x00D8;ye nogen Tid om Elskov til mig talte,</l>
+<l>Men derpaa Tungen mig dens H&#x00E6;ftighed afmalte,</l>
+<l>Guld&#x2013;Kronen, Riget, Alt blev for min Fod nedlagt,</l>
+<l>Hans H&#x00E6;ld, hans Roe, hans Liv var eene i min Magt.</l>
+<l>Af det han sagde mig om Luen ham fort&#x00E6;rte,</l>
+<l>Mit Hiertets Tilstand jeg da f&#x00F8;rst at kiende l&#x00E6;rte;</l>
+<l>Naar L&#x00E6;ngslen han beskrev, han i sit Hierte bar,</l>
+<l>Mit sukket l&#x00F8;nligen: O gid det <hi rend="italic">Axel</hi> var!</l>
+<l>Men ski&#x00F8;nt jeg tvungen var hans Klagemaal at h&#x00F8;re,</l>
+<l>Jeg dog ey dulgte ham, de mig ey kunde r&#x00F8;re,</l>
+<l>Al Kronens Glands forsvandt, naar <hi rend="italic">Axels</hi> Ring jeg saae,</l>
+<l>I hvor jeg gik og stod han mig i Tanker laae.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="109"/>Til <hi rend="italic">Axel</hi> midlertid, som fulgte &#x00C6;rens Faner,</l>
+<l>Fra Norges Land til Rom sig Rygtet Veyen baner;</l>
+<l>Ham om min Moders D&#x00F8;d en Pillegrim b&#x00E6;r Bud,</l>
+<l>Og at man troer forvist jeg bliver Kongens Brud.</l>
+<l>Frygt, Sorg, Forbittrelse hans Hierte s&#x00F8;nderriver,</l>
+<l>"Mens jeg i Live er hun Kongens Brud ey bliver,</l>
+<l>Br&#x00F8;d han i Vrede ud, "saa fremt ey <hi rend="italic">Axel</hi> er</l>
+<l>"I <hi rend="italic">Waldborgs</hi> Hierte glemt og hun har <hi rend="italic">Haagen</hi> ki&#x00E6;r.</l>
+<l>Ved Kayser <hi rend="italic">Henrichs</hi> Hoff han vil ey l&#x00E6;nger t&#x00F8;ve,</l>
+<l>Han siger: at man ham sin Elskte vil ber&#x00F8;ve;</l>
+<l>Ham <hi rend="italic">Henrich</hi> gav Forlov til F&#x00F8;deland at gaae,</l>
+<l>Med L&#x00F8;fte, at hans St&#x00E6;d for ham skal aaben staae.</l>
+<l>Han derpaa Dag og Nat af fulde Kr&#x00E6;fter iler;</l>
+<l>Og i sin S&#x00F8;sters Gaard han f&#x00F8;rst paa Veyen hviler,</l>
+<l>Hun skal berette ham om jeg forgi&#x00E6;ttet har,</l>
+<l>Den Ki&#x00E6;rlighed og Troe, som jeg ham skyldig var.</l>
+<l>Han lever op paa nye den Tid han faaer at h&#x00F8;re,</l>
+<l>Mit Hierte Kongens B&#x00F8;n ey Tronens Glands kan r&#x00F8;re;</l>
+<l><pb n="110"/>For mig ukiendt at see forfatter han et Brev</l>
+<l>Og i Frue <hi rend="italic">Helfreds</hi> Navn selv Sendebudet blev.</l>
+</lg>
+<lg>
+<l rend="indent_1">O Tid! O Dag! O Stund! o meer end ki&#x00E6;re Minde!</l>
+<l>Min Stemme brydes af &#x2013; Din &#x00E6;ngstede Veninde</l>
+<l>Her Ord ey finde kan til at udtrykke dig</l>
+<l>De F&#x00F8;lelser, som da og nu bemestret mig.</l>
+<l>Jeg kom af Aftensang, saae <hi rend="italic">Axel</hi> til mig tr&#x00E6;de,</l>
+<l>Ukiendt han &#x00D8;yet var, men Si&#x00E6;len f&#x00F8;lte Gl&#x00E6;de,</l>
+<l>"Frue <hi rend="italic">Helfreds</hi> Bud jeg er". Ved R&#x00F8;sten Hiertet slog,</l>
+<l>Jeg maall&#x00F8;s, ski&#x00E6;lvende med Haanden Brevet tog.</l>
+<l>Imens jeg Seglet br&#x00F8;d, mit &#x00D8;ye hos ham bliver,</l>
+<l>Fem Smykker laae deri; "Dem <hi rend="italic">Axel Waldborg</hi> giver,</l>
+<l>"Er han af hende glemt vil han for hendes Fod,</l>
+<l>"Ud&#x00F8;se sidste Suk". I Brevet skreven stod.</l>
+<l>F&#x00E6;ld Dommen, sagde han, og kn&#x00E6;lede tillige,</l>
+<l>Min <hi rend="italic">Axel!</hi> det var alt hvad Tungen kunde sige</l>
+<l><pb n="111"/>Han stammer: Engle Brud! Ja han er evig <hi rend="italic">din</hi></l>
+<l>Men gl&#x00E6;d en &#x00E6;ngsted' Si&#x00E6;l, siig: Du vil v&#x00E6;re <hi rend="italic">min</hi>.</l>
+<l>Ja <hi rend="italic">Axel</hi> din jeg er og din vil eene v&#x00E6;re;</l>
+<l>Jeg skal i Liv og D&#x00F8;d din Ski&#x00E6;bne med dig b&#x00E6;re.</l>
+<l>Henrykte kaldte vi den rene Jomfrue paa,</l>
+<l>At hun imod vor Eed og L&#x00F8;fte tage maae.</l>
+</lg>
+<lg>
+<l rend="indent_1">Den Gl&#x00E6;de, som min Si&#x00E6;l i <hi rend="italic">Axels</hi> Samfund smagte,</l>
+<l>Meer Liv og Munterhed i &#x00D8;yets Straaler bragte,</l>
+<l>Det Ilden T&#x00F8;nder blev Kong <hi rend="italic">Haagen</hi> bar for mig</l>
+<l>Og den, til min Fortred, greb videre om sig.</l>
+<l>Hvor tit han Afslag faaer dog Roe jeg ikke nyder,</l>
+<l>Hvert &#x00D8;yeblik han mig sin Hand og Krone byder;</l>
+<l>Til sidst jeg siger ham: det Hierte du begier,</l>
+<l>Er ikke i min Vold, det <hi rend="italic">Axel</hi> given er.</l>
+<l>Jeg elsker ham saa h&#x00F8;yt, at om al Verdens Riger &#x2013;</l>
+<l>End for min Fod blev lagt, jeg ham dog aldrig sviger,</l>
+<l><pb n="112"/>Udsluk en Ki&#x00E6;rlighed, som gi&#x00F8;r os begge Harm,</l>
+<l>Kun D&#x00F8;den ender den jeg f&#x00F8;der i min Barm.</l>
+<l>Han h&#x00F8;rer agtsom til, snart r&#x00F8;dmer han, snart blegner,</l>
+<l>Sorg og Forbittrelse sig i hans &#x00D8;ye tegner;</l>
+<l>Jeg som ey sindet var at vente paa hans Svar,</l>
+<l>Forlod ham f&#x00F8;rend han blev selv min Bortgang vaer.</l>
+</lg>
+<lg>
+<l rend="indent_1">Til Dronningen han gaaer i &#x00D8;yet Vreden tindrer,</l>
+<l>Men al dens H&#x00E6;ftighed dog neppe Graaden hindrer,</l>
+<l>Forskr&#x00E6;kket, at hun ham i slig en Tilstand saae,</l>
+<l>Hun sp&#x00F8;rger, hvad ham kan saa n&#x00E6;r til Hierte gaae?</l>
+<l>"Min Ki&#x00E6;rlighed belees; min Myndighed ey str&#x00E6;kker,</l>
+<l>"En Undersaat man mig dumdristig foretr&#x00E6;kker,</l>
+<l>"Jeg <hi rend="italic">Waldborg</hi> Krone, Haand<note type="footnote">Haand] <hi rend="italic">rettet fra:</hi> Kaand</note> og Hierte skienke vil,</l>
+<l>"Hun svarer mig (o Spot) Jeg h&#x00F8;rer <hi rend="italic">Axel</hi> til.</l>
+<l>Har hun ham L&#x00F8;fte giort, da b&#x00F8;r hun det ey bryde,</l>
+<l>Du over Hiertets Drift, min S&#x00F8;n! ey har at byde;</l>
+<l><pb n="113"/>Ved Sv&#x00E6;rdet ey ved Magt du hende vinde maae,</l>
+<l>I Kampen om sin Brud dig <hi rend="italic">Axel</hi> t&#x00F8;r bestaae.</l>
+<l>Som B&#x00F8;lgen st&#x00E6;rkest slaaer hvor D&#x00E6;mningen den binder,</l>
+<l>Saa voxer Kongens Ild jo meer den Modstand finder,</l>
+<l>Han i Forbittrelse fra Dronningen gaaer ud,</l>
+<l>Og i sin egen Sal fandt sorte Broder Knud.</l>
+</lg>
+<lg>
+<l rend="indent_1">Her isner alt mit Blod, Gud! han, som burde v&#x00E6;re</l>
+<l>Uskyldighedens Tolk og Konger Pligter l&#x00E6;re;</l>
+<l>Han, Kirkens Myndighed t&#x00F8;r skaml&#x00F8;s foreslaae</l>
+<l>For Kongen, som en Vey, sit &#x00D8;yemeed at naae.</l>
+<l>Da <hi rend="italic">Haagen</hi> bryder ud for ham i bitter Klage,</l>
+<l>Han svarer: Herre! dig det ey til Hierte tage,</l>
+<l>Ski&#x00F8;nt <hi rend="italic">Axel Waldborg</hi> bandt ved Elskovs st&#x00E6;rke Baand,</l>
+<l>Hun dog forbydes kan at give ham sin Haand.</l>
+<l>I Sl&#x00E6;gtskabs tredie Led har Blodet dem forbundet,</l>
+<l>Af <hi rend="italic">Harald Gilles</hi> Rod de begge er oprundet,</l>
+<l><pb n="114"/>Et mere helligt Baand er dem endog paalagt,</l>
+<l>Frue <hi rend="italic">Asbi&#x00F8;rn</hi> lovet har for begge Daabens Pagt.</l>
+<l>Lad &#x00C6;rkebispen hid med sine Kl&#x00E6;rker bydes,</l>
+<l>At sige Dommen af; vor Kirkes Bud maae lydes.</l>
+<l>Saa kildrende et Raad strax Kongens Bifald fik,</l>
+<l>Og ufort&#x00F8;vet Brev til &#x00C6;rkebispen gik.</l>
+<l>Han lyder Kongens Ord, sig strax paa Reysen giver,</l>
+<l>Han kommer; St&#x00E6;vningen med &#x00E6;ngstet Hierte skriver;</l>
+<l>Paa Tinge l&#x00E6;ses op: Hr. <hi rend="italic">Axel</hi> og hans Brud</l>
+<l>For Bispen m&#x00F8;de skal, at h&#x00F8;re Kirkens Bud.</l>
+</lg>
+<lg>
+<l rend="indent_1">Ak! Ord for svage er at bilde dig den Smerte,</l>
+<l>Den Angest, bittre Qval, der s&#x00F8;nderrev mit Hierte,</l>
+<l>Afskyeligste Dag! som nogentid frembr&#x00F8;d,</l>
+<l>Mit Liv du r&#x00F8;vede, men endte ey min N&#x00F8;d!</l>
+<l>Halv d&#x00F8;d og uden Sands man mig i Karmen h&#x00E6;ver,</l>
+<l>Mit &#x00D8;ye n&#x00E6;gter Graad! min Si&#x00E6;l i Brystet b&#x00E6;ver;</l>
+<l>Min <hi rend="italic">Axel</hi> for mig reed omspendt af lige Vee,</l>
+<l>Hans klemte Hiertes Qval i &#x00D8;yet var at see.</l>
+<l><pb n="115"/>Mari&#x00E6; Kirke var det St&#x00E6;d, som skulde skille</l>
+<l>Vor Ki&#x00E6;rlighed, vor Troe, vor L&#x00F8;fte og vor Villie</l>
+<l>Hvor gysede mit Blod, den Tid jeg Bispen saae</l>
+<l>Med Staven i sin Haand for Kl&#x00E6;rkerne at staae.</l>
+<l>Hans redelige Si&#x00E6;l sin Medynk ikke d&#x00F8;lger,</l>
+<l>Han venlig hilser os; mig ind i Kirken f&#x00F8;lger,</l>
+<l>Der sorte Broder <hi rend="italic">Knud</hi> med Arve&#x2013;Tavlen stod,</l>
+<l>Af den forkyndes os Vi er af Gilske&#x2013;Rod.</l>
+<l>I Sl&#x00E6;gtskabs tredie Led ved Blodets Kraft foreenet,</l>
+<l>Og paa Frue <hi rend="italic">Asbi&#x00F8;rns</hi> Arm er Daaben os forleenet,</l>
+<l>Vi, som Gud-S&#x00F8;dskende kan ey ved &#x00C6;gte&#x2013;Pagt</l>
+<l>Foreenes, Kirkens Lov har denne Dom afsagt.</l>
+<l>Derpaa til Alteret vi begge f&#x00F8;rte bliver;</l>
+<l>Et Linnet&#x2013;Kl&#x00E6;de man i H&#x00E6;nderne os giver;</l>
+<l>Det ski&#x00E6;res midt i tu saa hver sit Stykke faaer,</l>
+<l>Men Baandet Hiertet bandt ey derved s&#x00F8;nder gaaer.</l>
+<l>Min <hi rend="italic">Axels</hi> Troskabs Pandt af mine Fingre rives,</l>
+<l>Paa Altret de af ham til hellig <hi rend="italic">Oluf</hi> gives;</l>
+<l><pb n="116"/>Han siger: Intet kan min Elskov slukke ud,</l>
+<l>Jeg glemmer <hi rend="italic">Waldborg</hi> ey f&#x00F8;r jeg faaer D&#x00F8;dens Bud.</l>
+</lg>
+<lg>
+<l rend="indent_1">Af Harme Blodet sig i Kongens Ansigt skyder,</l>
+<l>Han med Forbittrelse i disse Ord udbryder:</l>
+<l>Da <hi rend="italic">Waldborg</hi> ingen Tid forglemmes kan af dig,</l>
+<l>Hun din Begi&#x00E6;rlighed har vist opofret sig.</l>
+<l>Til Kongen Bispen sig med haanligt &#x00D8;ye vender:</l>
+<l>"Vankundig er den Mand, som Elskovs Magt ey kiender</l>
+<l>"Den grueligste Ild udslukkes kan med Vand</l>
+<l>"Men Ki&#x00E6;rlighedens Gl&#x00F8;d af intet d&#x00E6;mpes kan.</l>
+<l>Hr. <hi rend="italic">Axel</hi> svarer ham: jeg skal uskyldig kiendes</l>
+<l>Om end mit Livets L&#x00F8;b i Morgen skulde endes.</l>
+<l>Kong <hi rend="italic">Haagen</hi> sadt sin Fod med Vrede mod en Steen:</l>
+<l>J Morgen sv&#x00E6;rges skal om hun for dig er reen.</l>
+<l>"Hvor Loven kr&#x00E6;ver det, jeg Eeden t&#x00F8;r aflegge,</l>
+<l>"Og tvivler du end da saa b&#x00E6;r vi Vaaben begge,</l>
+<l>"I Marken t&#x00F8;r jeg dig med Spyd og Skiold bestaae,</l>
+<l>"At redde <hi rend="italic">Waldborgs</hi> Navn vil jeg i D&#x00F8;den gaae.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="117"/>Ak! forestil dig nu, min elskede Veninde!</l>
+<l>Med hvilken Skr&#x00E6;k, at jeg saae Nattens M&#x00F8;rke svinde</l>
+<l>Jeg, af enhver forladt, ey Ven, ey Fr&#x00E6;nde veed,</l>
+<l>Der vove vil med mig at gi&#x00F8;re Troskabs Eed.</l>
+<l>Knap Morgenr&#x00F8;dens Glands igiennem M&#x00F8;rket bryder,</l>
+<l>Og Solens blide Pragt de f&#x00F8;rste Straaler skyder,</l>
+<l>F&#x00F8;r <hi rend="italic">Axel</hi> f&#x00E6;rdig staaer til Slottet op at gaae,</l>
+<l>Tolv &#x00E6;dle Riddere man ved hans Side saae.</l>
+<l>Med ki&#x00E6;kt og freydigt Mod han Haanden til dem r&#x00E6;kker:</l>
+<l>Tr&#x00E6;d &#x00E6;dle Gr&#x00E6;ver frem, som Overmagt ey skr&#x00E6;kker,</l>
+<l>Af Gilske Rod J kom, Lov nu i Dag med mig.</l>
+<l>"Hvad F&#x00F8;lgen blive skal Vi sv&#x00E6;rge vil for dig.</l>
+</lg>
+<lg>
+<l rend="indent_1">Som naar et Kilde&#x2013;V&#x00E6;ld fra Klippens Top nedrinder,</l>
+<l>Saa stridig Taarene fl&#x00F8;d ned af mine Kinder:</l>
+<l>"Ak! hvor er Hielp og Raad! hvor skal jeg s&#x00F8;ge hen!</l>
+<l>"Jeg Ulyksalige! hvor finder jeg en Ven!</l>
+<l><pb n="118"/>Min Mo&#x00EA;rbro&#x00EA;r svarer mig: Den eene vilde v&#x00E6;re,</l>
+<l>Den Tid hun v&#x00E6;lgede, den kan nu eene sv&#x00E6;re,</l>
+<l>Vor fromme &#x00C6;rkebisp medynksom til mig saae:</l>
+<l>"Du mange Fr&#x00E6;nder har men Venner har du faa.</l>
+<l>Imedens Frygt og Sorg mit Hierte haardest spendte,</l>
+<l>Som qvalte Sukkes Raab til Gud om Redning sendte</l>
+<l>Lod Hertug <hi rend="italic">Haagen</hi> sig med sine S&#x00F8;nner see,</l>
+<l>Hans Aasyn og hans Ord forlindrede min Vee.</l>
+<l>"At gi&#x00F8;re Eed med dig i Dag jeg mig tilbyder,</l>
+<l>"Derved jeg Kierligheds og Pligters Lov adlyder,</l>
+<l>"Frue <hi rend="italic">Estelin</hi>, som dig saa n&#x00E6;r besl&#x00E6;gtet er</l>
+<l>"Hun hviler i min Arm og har end <hi rend="italic">Waldborg</hi> ki&#x00E6;r.</l>
+<l>"Her mine S&#x00F8;nner staaer mit Livets Lyst og &#x00C6;re,</l>
+<l>"Om din Uskyldighed de skulde Vidne b&#x00E6;re.</l>
+<l>De Ord var neppe sagt, da traadde frem en Pr&#x00E6;st,</l>
+<l>I Messe&#x2013;Prydelsen med Sv&#x00E6;rd og hellig L&#x00E6;st.</l>
+<l>Hr. <hi rend="italic">Axel</hi> h&#x00F8;yre Haand paa Messe&#x2013;Bogen lagde,</l>
+<l>Holdt Sv&#x00E6;rdet mod en Steen og disse Ord udsagde:</l>
+<l><pb n="119"/>Jeg <hi rend="italic">Waldborg</hi> elsket har meer end min egen Si&#x00E6;l,</l>
+<l>Hun var mig alleting, mit Liv, min Lyst, mit Vel,</l>
+<l>Men desuagtet t&#x00F8;r jeg Gud til Vidne tage</l>
+<l>At Kys af hendes Mund jeg aldrig fik at smage.</l>
+<l>Jeg ved vor Frue svor: mit &#x00D8;ye aldrig var</l>
+<l>Saa dristig, at det sig til <hi rend="italic">Axels</hi> h&#x00E6;vet har.</l>
+</lg>
+<lg>
+<l rend="indent_1">Imedens jeg endnu for Eedens R&#x00E6;dsel b&#x00E6;ver,</l>
+<l>Man over Hovedet mig Konge Himlen h&#x00E6;ver,</l>
+<l>Med &#x00D8;yet fuldt af Graad med Angest&#x2013;blegnet Kind,</l>
+<l>Man mig, som Kongens Brud i Salen leeder ind.</l>
+<l>Kong <hi rend="italic">Haagen</hi> fulgte med; "Sig ingen bort begive,</l>
+<l>"F&#x00F8;r Morgenr&#x00F8;dens Glands af os kan &#x00F8;ynet blive,</l>
+<l>"Jeg <hi rend="italic">Waldborg</hi> f&#x00E6;stet har; i Dag er Krone, Magt</l>
+<l>(Mit Hierte b&#x00E6;vede) for hendes F&#x00F8;dder lagt.</l>
+</lg>
+<lg>
+<l rend="indent_1">Den Saft, der jager bort Bekymrings Nag og Griller,</l>
+<l>Med liflig Syn og Lugt i gyldne Skaaler spiller;</l>
+<l><pb n="120"/>Dens Dunsters blide Magt i hvert et &#x00D8;ye leer,</l>
+<l>I <hi rend="italic">Axels</hi> og i mit man Kummers Taage seer.</l>
+<l>Han n&#x00E6;rmer sig til mig: O du, min Si&#x00E6;les Gl&#x00E6;de!</l>
+<l>Da Ski&#x00E6;bnen endnu vil os et Farvel tilst&#x00E6;de;</l>
+<l>Saa siig mig, elskte Ven! hvad Raad der findes maae,</l>
+<l>Der kraftigst d&#x00E6;mpe kan vor saaret Si&#x00E6;ls Attraae?</l>
+<l>"Mig Ski&#x00E6;bnens grumme Magt vel kan til Kongen binde</l>
+<l>"Men om jeg bliver hans da skeer det mod mit Minde,</l>
+<l>"Min <hi rend="italic">Axel!</hi> af mit Bryst du aldrig sl&#x00E6;ttes skal,</l>
+<l>"Om tusend' Aar blev lagt til mine Dages Tal.</l>
+<l>"I eensom H&#x00F8;yeloft mig Kummer skal fort&#x00E6;re</l>
+<l>"Mit Liv skal Billede paa Turtel&#x2013;Duens v&#x00E6;re;</l>
+<l>"Naar den har Magen tabt den aldrig gl&#x00E6;des kan</l>
+<l>"Min Drik jeg blande vil med salte Taarers Vand.</l>
+<l>"Iil du til Skov og Mark hvor Raae og Hare vanker</l>
+<l>"Den Lyst at f&#x00F8;lge dem adspreder Sorgens Tanker,</l>
+<l>"Naar de paa prydet Eng dit &#x00D8;ye viser sig,</l>
+<l>"Saa skye hver &#x00D8;mheds Drift der minder dig om mig.</l>
+<l><pb n="121"/>Kan jeg end Dagens Lys med vilde Dyr bortdrive,</l>
+<l>De m&#x00F8;rke N&#x00E6;tter dog foruden S&#x00F8;vn vil blive;</l>
+<l>Mit Gods jeg s&#x00E6;lge vil og s&#x00F8;ge fremmet Land,</l>
+<l>Til Sorgen for dit Tab mit Hierte br&#x00E6;kke kan.</l>
+<l>"Ney, <hi rend="italic">Axel!</hi> ney min Ven, dit Gods du ey maa s&#x00E6;lge,</l>
+<l>"Men til den elskte Brud dig <hi rend="italic">Asbi&#x00F8;rns</hi> Datter v&#x00E6;lge,</l>
+<l>"S&#x00F8;g Tr&#x00F8;st mod <hi rend="italic">Waldborgs</hi> Tab i Alheds hvide Arm,</l>
+<l>"Antag som Moder mig, der b&#x00E6;rer begges Harm.</l>
+<l>O <hi rend="italic">Waldborg!</hi> kunde jeg paa slig Ulykke t&#x00E6;nke!</l>
+<l>En anden end som dig mit &#x00F8;mme Hierte skienke?</l>
+<l>Ney; vilde Kayseren sin Datter byde mig,</l>
+<l>Jeg ingen have vil da jeg fik ikke dig,</l>
+<l>Beklagelige Par! var &#x00C6;rkebispens Tale,</l>
+<l>Et grumt og haardt Farvel J ikke maae forhale,</l>
+<l>J sees for sidste gang, den Dom er alt afsagt,</l>
+<l>Men Skam faae Broder <hi rend="italic">Knud</hi>, der br&#x00F8;d saa st&#x00E6;rk en Pagt.</l>
+<l>Veninde! &#x2013; her &#x2013; min Haand — ak! hele Hiertet b&#x00E6;ver,</l>
+<l>Hans sidste Ord til mig end for mit &#x00D8;re sv&#x00E6;ver!</l>
+<l>Det tornende Farvel &#x2013; O! gid Lynildens Magt</l>
+<l>Det havde f&#x00F8;rt med sig og mig i Aske lagt!</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="122"/>Til Forsmag paa den Glands mig Lykkens Gunst bereder</l>
+<l>Mig Dronning <hi rend="italic">Malfred</hi> selv hen til mit Kammer leder;</l>
+<l>Med Moders Ki&#x00E6;rlighed mig slutter i sin Arm,</l>
+<l>Men bittre F&#x00F8;lelser kun hersker i min Barm.</l>
+<l>Da Morgen&#x2013;Solens Pragt alting igien opliver,</l>
+<l>Hun sine Jomfruer hver sin Forretning giver,</l>
+<l>Jeg d&#x00F8;d og f&#x00F8;lesl&#x00F8;s iblant de andre staaer,</l>
+<l>Ved Dronning <hi rend="italic">Malfreds</hi> Ord mit Bryst ny Kummer faaer.</l>
+<l>"Om Kronen ikke kan hos <hi rend="italic">Waldborg</hi> Virkning gi&#x00F8;re,</l>
+<l>"Kan da mit Moders Navn ey hendes Hierte r&#x00F8;re?</l>
+<l>"Til det jo Rettighed ved <hi rend="italic">Haagen</hi> gives dig.</l>
+<l>For hendes F&#x00F8;dder jeg med Taare kaster mig:</l>
+<l>For&#x00F8;g o Dronning ey min bittre Si&#x00E6;le Smerte!</l>
+<l>Dit Moder Navn er ki&#x00E6;rt og kostbart for mit Hierte,</l>
+<l>Men Rettighed til det du selv mig givet har;</l>
+<l>F&#x00F8;r Kongen kiendte mig jeg jo din Datter var.</l>
+<l>Foreenet med min Ven at leve i en Hytte,</l>
+<l>For alle Kroners Glands jeg vilde ey ombytte</l>
+<l>Jeg h&#x00F8;rer <hi rend="italic">Axel</hi> til, han er mit Liv, min Lyst,</l>
+<l>Kun D&#x00F8;den rive kan hans Minde af mit Bryst.</l>
+</lg>
+<lg>
+<l rend="indent_1"><pb n="123"/>I denne Si&#x00E6;le Qval to Maaneder forl&#x00F8;ber,</l>
+<l>Mit &#x00D8;yes bittre Graad mit Hiertes Tilstand r&#x00F8;ber;</l>
+<l>Min Offer Dag jeg alt med Skr&#x00E6;k i m&#x00F8;de saae</l>
+<l>Da Bud kom, Fiendens Magt blant Norges Klipper laae.</l>
+<l>Kong <hi rend="italic">Haagen</hi> Landet vil med egen Haand forsvare,</l>
+<l>Og fremmest vise sig i Marken og i Fare,</l>
+<l>Til Leding bydes alt, hvad Sv&#x00E6;rdet f&#x00F8;re kand;</l>
+<l>Hr. <hi rend="italic">Axel</hi> n&#x00E6;vnes ud til H&#x00E6;rens H&#x00F8;vedsmand.</l>
+</lg>
+<lg>
+<l rend="indent_1">Forhaling i min Dom vel Fiendens Indbrud giver,</l>
+<l>Men Frygt for <hi rend="italic">Axels</hi> Liv mit Hierte s&#x00F8;nderriver,</l>
+<l>Jeg ski&#x00E6;lvende ham saae at s&#x00F8;ge selv sin D&#x00F8;d,</l>
+<l>At vinde Helte&#x2013;Roes og ende Elskovs N&#x00F8;d.</l>
+<l>Min Brudgom hader jeg, min Elsker jeg tilbeder,</l>
+<l>Men lige Farlighed dem Fiendens Sv&#x00E6;rd bereder;</l>
+<l>For <hi rend="italic">Haagen</hi> taler Pligt; men Hiertet dog i L&#x00F8;n</l>
+<l>For <hi rend="italic">Axels</hi> Liv og Vel til Himlen sender B&#x00F8;n.</l>
+<l>Men til mit bange Raab, den &#x00D8;ret ikke laaner,</l>
+<l>Fortvivlet <hi rend="italic">Axel</hi> er han Liv og Blod ey skaaner,</l>
+<l><pb n="124"/>Hans Arm nedstyrter alt saa vidt, som Sv&#x00E6;rdet naaer,</l>
+<l>Og Seyren n&#x00E6;sten vis faaer Kongen Banesaar.</l>
+<l>Besp&#x00E6;ndt af D&#x00F8;dens Vee, han ned til Jorden falder,</l>
+<l>Med svag og halv d&#x00F8;d R&#x00F8;st, han <hi rend="italic">Axel</hi> til sig kalder,</l>
+<l>H&#x00F8;r <hi rend="italic">Axel!</hi> lov mig her, min D&#x00F8;d du hevne vil</l>
+<l>Da Riget og min Brud dig begge h&#x00F8;rer til.</l>
+<l>"Jeg sv&#x00E6;r ved <hi rend="italic">Waldborgs</hi> Si&#x00E6;l, at du skal h&#x00E6;vnet blive,</l>
+<l>"Om hver en Draabe Blod jeg skal til Offer give;</l>
+<l>Derpaa han render ind, hvor Fienden tykkest stod,</l>
+<l>De vige for hans Arm, de falde for hans Fod.</l>
+<l>Han f&#x00F8;ler ingen Saar; han seer ey Blodet rinder;</l>
+<l>Han h&#x00E6;vner Kongens D&#x00F8;d; han Norge Seyer vinder;</l>
+<l>Hans Skiold i Stykker gaaer; hans Brynie mister han,</l>
+<l>Han v&#x00E6;rger sig endda mens Sv&#x00E6;rdet holde kan.</l>
+<l>Hans meer end Helte Mod ham Kraft og Styrke giver,</l>
+<l>Indtil hans gode Sv&#x00E6;rd i H&#x00E6;ftet br&#x00E6;kket bliver;</l>
+<l>Han Atten dybe Saar i Brystet eene har,</l>
+<l>Foruden Haab om Liv De ham i Teltet bar.</l>
+<l>Hans Tab udbreder Skr&#x00E6;k og Jammer i hvert Hierte;</l>
+<l>Han t&#x00E6;nker kun paa mig i D&#x00F8;dens Angst og Smerte;</l>
+<l><pb n="125"/>"Bring tusende god Nat fra mig til <hi rend="italic">Waldborg</hi> hen,</l>
+<l>"I Himlen, som vort Hiem, der samles vi igien.</l>
+</lg>
+<lg>
+<l rend="indent_1">O <hi rend="italic">Axel!</hi> &#x2013; elskte Ven! &#x2013; her Taarene maae flyde —</l>
+<l>Gud! Smerter ikke kan vor Levetraad afbryde!</l>
+<l>Jeg ellers havde seet en Ende paa min N&#x00F8;d,</l>
+<l>I samme &#x00D8;yeblik jeg h&#x00F8;rte <hi rend="italic">Axels</hi> D&#x00F8;d.</l>
+<l>Saa snart jeg Buddet saae af Si&#x00E6;le Angst jeg blegnte,</l>
+<l>Og uden Sands og Maal d&#x00F8;d ned til Jorden segnte;</l>
+<l>Men Smerten vakte mig fordrev den s&#x00F8;de Roe,</l>
+<l>Der kun i D&#x00F8;dens Favn hos mig kan f&#x00E6;ste Boe.</l>
+<l>Jeg ingen Lindring n&#x00F8;d i hvor jeg den end s&#x00F8;gte,</l>
+<l>Vor Dronnings Klagemaal min Gr&#x00E6;mmelse for&#x00F8;gte,</l>
+<l>Det Tab, som hun begr&#x00E6;d, en Aarsag var til mit,</l>
+<l>At h&#x00E6;vne <hi rend="italic">Haagens</hi> Liv tilsadte <hi rend="italic">Axel</hi> sit.</l>
+<l>Til Kloster&#x2013;Muren jeg kun Tilflugt kunde tage,</l>
+<l>Og indelukke der min Gr&#x00E6;mmelse og Klage;</l>
+<l>At vies jeg begi&#x00E6;r; n&#x00F8;d Lise i min Barm,</l>
+<l>Da Mulden kastedes af Bispen paa min Arm.</l>
+<l><pb n="126"/>Her intet hindre kan min Attraae til at gr&#x00E6;de,</l>
+<l>I B&#x00F8;n for <hi rend="italic">Axels</hi> Si&#x00E6;l min smager eene Gl&#x00E6;de.</l>
+</lg>
+<lg>
+<l rend="indent_1">Veninde! nu min Barm ud&#x00F8;set er for dig,</l>
+<l>Saa d&#x00F8;m, om Jorden meer tilovers har for mig?</l>
+<l>Mig Verden er forhadt; Naturen synes &#x00F8;de;</l>
+<l>Hvad kan mit &#x00D8;ye see? Det <hi rend="italic">Axels</hi> ey kan m&#x00F8;de!</l>
+<l>Til Graven eene er min Lyst og Attraae vendt,</l>
+<l>Min <hi rend="italic">Axel</hi> er ey meer, mit Liv med hans er endt.</l>
+</lg>
+</div>
+<div type="chapter" n="8">
+<head type="main"><ref type="contents" target="contents_9" xml:id="chapter_9">N&#x00F8;ysomhed</ref></head>
+<p rend="center">af Johan Herman Wessel.</p>
+<quote>
+<lg>
+<l><pb n="129"/>&#x2013; &#x2013; &#x2013; &#x2013; multa petentibus</l>
+<l>desunt multa, bene est cui Deus obtulit</l>
+<l>parca, qvod satis est, manu.</l>
+<l>Horat.</l>
+</lg>
+</quote>
+<figure rend="asterisk"/>
+<lg>
+<l>"Hvor! Damon, raaber Du, er Dydens Rettigheder,</l>
+<l>"Naar eene F&#x00F8;dselen til Lykken Vey bereder,</l>
+<l>"Naar Slumpelykke blot uddeler L&#x00F8;n og Straf,</l>
+<l>"Og tit dens blinde Had Uskyldigheden traf?</l>
+<l>"Hvad har vel jeg forbrudt, som maae i Kummer leve,</l>
+<l>"At jeg ey blev bestemt, som hine andre bleve,</l>
+<l>"Til Herlighed og Magt, og f&#x00F8;d til Croesers Guld?</l>
+<l>"Mon disse Ski&#x00E6;bnen har ved Dyder giort sig huld?</l>
+<l><pb n="130"/>"Og kan man f&#x00F8;r man blev, vel ogsaa Dyder &#x00F8;ve?</l>
+<l>"Hvad kunde, f&#x00F8;r jeg blev, mig vel dens Gunst ber&#x00F8;ve?</l>
+<l>"Da jeg endnu ey var, hvad mon jeg da begik,</l>
+<l>"Hvorfor til Straf jeg N&#x00F8;d, Foragt og Tr&#x00E6;ldom fik?</l>
+</lg>
+<lg>
+<l rend="indent_1">Den Straf kun indbildt er, hvis V&#x00E6;gt du lider under,</l>
+<l>Du lige Lykke fik med dem, som du misunder,</l>
+<l>Thi samme Maal tilfaldt hver Stand af Vee og Vel,</l>
+<l>Og Herren uden Grund misundes af hans Tr&#x00E6;l.</l>
+<l>Men vi forringe let de Plager, os ey trykke,</l>
+<l>Og altid dobbelt stor anseer en fremmed Lykke;</l>
+<l>Man priser lykkelig hver Stand foruden sin:</l>
+<l>Din blev dit &#x00D8;nskes Maal, hvis den var ikke din.</l>
+<l>Men nu dens Fortrin faaer endogsaa Navn af Plage,</l>
+<l>Og Grunden til dit Vel var Grunden til din Klage;</l>
+<l>Arbeyde Tr&#x00E6;ldom blev, og Nok blev n&#x00E6;vnet N&#x00F8;d,</l>
+<l>Ski&#x00F8;nt al Velsignelse fra disse Kilder fl&#x00F8;d.</l>
+<l><pb n="131"/>Du drager dybe Suk, for dine Kaar forbinde</l>
+<l>Til daglig Flittighed, for dagligt Br&#x00F8;d at vinde;</l>
+<l>Kiend din Vildfarelse, kiend din Lysalighed:</l>
+<l>Arbeydsom, maadelig, du ey af Plager veed,</l>
+<l>Som Overfl&#x00F8;dighed og &#x00D8;rkesl&#x00F8;shed d&#x00F8;ye;</l>
+<l>Ja! Livets st&#x00F8;rste Held var L&#x00F8;nnen for din M&#x00F8;ye:</l>
+<l>Den muntrede din Si&#x00E6;l, den luttrede dit Blod,</l>
+<l>Ved den du hviled' trygt, og glad igen opstod,</l>
+<l>Den ene krydede de tarvelige Retter,</l>
+<l>Hvorved du dagligen med lige Lyst dig metter —</l>
+<l>Kan Uheld vel bestaae med saa at lide N&#x00F8;d,</l>
+<l>Og valgte du dig f&#x00F8;r? om man dig Valget b&#x00F8;d,</l>
+<l>At sidde v&#x00E6;mmelig ved mange kr&#x00E6;sne Retter,</l>
+<l>Og tvinge ned en Gift, som dr&#x00E6;ber, naar den metter,</l>
+<l>Og allermest er Gift og allervissest D&#x00F8;d,</l>
+<l>Fordi den bragtes dig i d&#x00F8;sig Ladheds Ski&#x00F8;d,</l>
+<l>Hvor sundest F&#x00F8;de mindst kan tr&#x00E6;ttet Gane smage,</l>
+<l>Hvor slappe F&#x00F8;lelser tit smagte Vellyst vrage,</l>
+<l><pb n="132"/>Og misbrugt Overflod, til alle Lyster vant,</l>
+<l>Sin Vemmelse tilsidst i Smerter endet fandt,</l>
+<l>Hvor D&#x00F8;den selv var Tr&#x00F8;st, hvis brudte Pligters Torden</l>
+<l>Ey dig bebreydede, du br&#x00F8;d Naturens Orden,</l>
+<l>Og havde selv dit Liv saa snevre Gr&#x00E6;ndser sat</l>
+</lg>
+<lg>
+<l>"Men, svarer Damon mig, min Frihed overladt,</l>
+<l>"Jeg ikke rasende det v&#x00E6;rste skulde v&#x00E6;lge,</l>
+<l>"Ey for utemmet Lyst min Roe og Helbred s&#x00E6;lge;</l>
+<l>"Ney maadelig, som nu, jeg midt i Overflod</l>
+<l>"I rolig N&#x00F8;ysomhed med Nok mig n&#x00F8;ye lod.</l>
+</lg>
+<lg>
+<l>Min Damon, sielden kun vi egen Svaghed m&#x00E6;rke,</l>
+<l>Og til vi have tabt, vi troe os gierne st&#x00E6;rke,</l>
+<l>Den derfor tryggest er, som sattes i en Stand,</l>
+<l>Hvor i han ey til Strid saa let ud&#x00E6;skes kand;</l>
+<l>Men s&#x00E6;t, du er den Helt, den sieldne d&#x00F8;delige,</l>
+<l>Som altid seyerrig kan Fristelser bekrige,</l>
+<l><pb n="133"/>S&#x00E6;t, at i Lykkens Favn, du Lyster overvandt,</l>
+<l>Som tit med Slavebaand selv Dydens Kiemper bandt;</l>
+<l>Hvad nye Fortrin blev da Frugten af din Seyer?</l>
+<l>Hvad eyede du da, som nu du ikke eyer?</l>
+<l>Om det er ikke dit, som du ey nyde t&#x00F8;r,</l>
+<l>Vandt du kun netop Nok, og hvad du havde f&#x00F8;r.</l>
+</lg>
+<lg>
+<l>"Men &#x00C6;ren &#x2013; Blant en Sv&#x00E6;rm at vide sig den beste,</l>
+<l>"Og tegnet stor, paa sig saa manges &#x00D8;yne f&#x00E6;ste,</l>
+<l>"At finde lydige, saa snart en Mine b&#x00F8;d,</l>
+<l>"Det dog et Fortrin er, den ringe Stand ey n&#x00F8;d.</l>
+</lg>
+<lg>
+<l>Misund, o Damon! ey, men heller ynk den Stolte,</l>
+<l>Som Dyden dristigen for &#x00C6;rens Skygger solgte;</l>
+<l>Hans Lykke, som saa stor i Haabet viiste sig,</l>
+<l>Ved Nydelsen forsvandt, den lette Taage liig.</l>
+<l>Forf&#x00F8;rt ved Gl&#x00E6;dens Glimt, som lyser i hans Mine,</l>
+<l>Du &#x00F8;nsker dig hans Kaar, og ki&#x00E6;des t&#x00F8;r ved dine,</l>
+<l><pb n="134"/>Men viid, hver Muskel blot ved Kunst afrettet er,</l>
+<l>Og trol&#x00F8;st Vidnesbyrd om Hiertets Tilstand b&#x00E6;r.</l>
+<l>Han skulde i sin Pragt sig h&#x00F8;yst elendig troe,</l>
+<l>Om ey Misundelse forstyrrede din Roe,</l>
+<l>Hans Vel (om indbildt Vel kan kaldes saa) sig grunder</l>
+<l>Paa denne Kundskab blot, at Ringhed ham misunder;</l>
+<l>Men paa den &#x00E6;gte Dyd (thi den er lige frie</l>
+<l>Fra Misforn&#x00F8;yelses og Hofmods Tyrannie)</l>
+<l>Kan Lykkens blinde Gunst ey dybe Indtryk gi&#x00F8;re</l>
+<l>Den som ved Dyd er stor, gi&#x00F8;r H&#x00F8;yhed ikke st&#x00F8;rre!</l>
+<l>Det sande Vee og Vel er Frugt af Dyd og Last,</l>
+<l>Og denne Sandhed staaer til Himlens &#x00C6;re fast:</l>
+<l>At lige skyldige og lige Plager trykke,</l>
+<l>Og Ligem&#x00E6;nd i Dyd er Ligem&#x00E6;nd i Lykke.</l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>
+ 

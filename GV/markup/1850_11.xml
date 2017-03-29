@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Vilhelm Blom.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-22"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="011"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1850">1850</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1850_11_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Vilhelm Blom.</titlePart>
+	<titlePart type="sub"><lb/></titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<docImprint>
+				<pubPlace></pubPlace>.
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Vilhelm Blom.</head>
+<head>(Falden blandt de Forreste i Morgenstunden paa Seiersdagen.)</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">S</hi>øn af Vennen fra de unge Dage!</l>
+<l>Mine Sønners fuldtro Ungdoms-Ven!</l>
+<l>Intet Suk dig kalder meer tilbage</l>
+<l>Til din Plads blandt ægte Dannemænd;</l>
+<l>Fremmerst gik du i vor Kamp for <hi rend="spaced">Norden</hi>,</l>
+<l>"<hi rend="spaced">Fremad</hi>" var dit sidste Ord paa Jorden!</l>
+</lg>
+<lg>
+<l>Djærve Yngling med din mørke Pande,</l>
+<l>Med det klare, milde Øienpar!</l>
+<l>Kun en deilig Blomst i fjerne Lande</l>
+<l>For din svage Tro Livs-Lykken var,</l>
+<l>Derfor vel Dig! Seier du har vundet,</l>
+<l>Tidlig i det Fjerne Blomsten fundet!</l>
+</lg>
+<lg>
+<l><hi rend="spaced">Moder-Hjertet</hi>, som du længdes efter,</l>
+<l>Som med Vemod dyb du savned her,</l>
+<l>Moder-Hjertet med de milde Kræfter,</l>
+<l>Som opliver alt hvad det har kjær,</l>
+<l>Det er der, hvor dig med Toner mild</l>
+<l>Fuglen lokker nu til Livets Kilde.</l>
+</lg>
+<lg>
+<l>Ogsaa her i Mindet du skal hvile</l>
+<l>Som en Søn ved kjærlig Moders Bryst:</l>
+<l>Ømmere kan ingen Moder smile,</l>
+<l>Sødere har ingen Moder kyst,</l>
+<l>End vor Moder, som ved Sund og Belte,</l>
+<l>Favnetager alle <hi rend="spaced">danske</hi> Helte!</l>
+</lg>
+<lg>
+<l>Og forgjeves ei har sammenrundet</l>
+<l>Danmarks ædle Sønners Hjerteblod,</l>
+<l>Aldrig før en større Seier vundet</l>
+<l>Har den gamle Dronning Dannebod:</l>
+<l>Dannisheden, trindt omkring beleiret,</l>
+<l>Den har <hi rend="spaced">sex Aarhundreder</hi> beseiret.</l>
+</lg>
+<lg>
+<l>Og naar Fuglen over <hi rend="spaced">Idsted-Skoven</hi></l>
+<l>Svinger sig med Danmarks Seier-Sang,</l>
+<l>Priser dem, som over Kæmpeloven</l>
+<l>Sig til Uffes Heltefjed opsvang,</l>
+<l>Over dem, der sank i <hi rend="spaced">Morgenstunden</hi>,</l>
+<l>Tone skal det liflig: "<hi rend="spaced">Sol oprunden</hi>!"</l>
+</lg>
+<lg>
+<l>Trøste maa sig mangen Helte-Moder</l>
+<l>Dermed i det store Seiers-Aar;</l>
+<l>Heltens Fader, Søster, Ven og Broder</l>
+<l>Tie maae med deres Hjertesaar,</l>
+<l>Føle maae, at intet Saar opveier</l>
+<l>Helte-Mindets Guld og <hi rend="spaced">Danmarks Seier</hi>!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

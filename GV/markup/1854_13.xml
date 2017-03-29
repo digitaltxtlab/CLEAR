@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Fædrelandet.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-23"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="013"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1854">1854</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1854_13_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Fædrelandet.<lb/></titlePart>
+	<titlePart type="sub">1854.<lb/></titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<fw type="graphic"/>
+				<epigraph>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition>15de Aarg.  Fredagen den 6. October.  Nr. 233.</docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace></pubPlace>.<lb/>Abonnementspris i Kjøbenhavn 15 Mk. pr. Qvartal, 5 Mk. pr. Maaned; enkelte Nr. 6 Sk.; udenfor Kjøbenhavn 3 Rdl. pr. Qvartal frit i Huset. Hver Søgne-Aften udgaaer et Numer.<lb/>Bladets Comptoir, store Kjøbmagergade Nr. 54, er aabent om Formiddagen Kl. 11-1.<lb/>
+<fw type="graphic"/>
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>6te October 1854.</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">K</hi>onning! i Minister-Klemmen</l>
+<l>Luk ei paa Din Fødselsdag</l>
+<l>Øre Dit for Folke-Stemmen,</l>
+<l>Ligned end den Vaabenbrag!</l>
+<l>Thi fra Arildstid i Norden</l>
+<l>Klang i Takt med Lurens Torden</l>
+<l><hi rend="spaced">Brages Qvad</hi> og Harpeslæt.</l>
+</lg>
+<lg>
+<l>Lad uhørt da i Høisædet</l>
+<l>Skjalden ei Guldharpen slaae,</l>
+<l>Som <hi rend="spaced">Skjoldungers</hi> Pris har qvædet</l>
+<l>Under gule Haar og graae,</l>
+<l>Og forlænget seer med Glæde</l>
+<l>Gamle <hi rend="spaced">Fredegods</hi> Guldkjæde</l>
+<l>Til vor yngste <hi rend="spaced">Frederik</hi>!</l>
+</lg>
+<lg>
+<l>Troe det ei, at mellem Slaver</l>
+<l>Kongen har sin bedste Ven!</l>
+<l>Troe det ei, Din Throne raver</l>
+<l>Hos fribaarne Dannemænd,</l>
+<l>Som jo har paa Hænder baaret</l>
+<l>Ind og ud ad Tusindaaret</l>
+<l>Gamle <hi rend="spaced">Danmarks</hi> Kongeslægt!</l>
+</lg>
+<lg>
+<l>Hvad der vakler, om ei raver,</l>
+<l>Hos os i en bange Stund,</l>
+<l>Det er Tak for gode Gaver,</l>
+<l>Hjertets Tak med Haand og Mund,</l>
+<l>Det er Sulerne, som bære</l>
+<l>Karmen høit til Kongens Ære,</l>
+<l><hi rend="spaced">Frederik</hi>! Din <hi rend="spaced">Æreport</hi>.</l>
+</lg>
+<lg>
+<l>Hør da ei paa den "<hi rend="spaced">Bolvise</hi>",</l>
+<l>Som med alt sit Pund af Vid,</l>
+<l>Bedre brugt, maaskee at prise,</l>
+<l>Sætter mellem Venner Splid,</l>
+<l>Mellem Frænder allernæsle :</l>
+<l>Rigets Gavn og Folkets Bedste,</l>
+<l>Kongen og Hans eget Ord !</l>
+</lg>
+<lg>
+<l>Fæst Dit Blik paa Hjælpekilden,</l>
+<l>Ypperst under alle Savn :</l>
+<l>Paa det Folk, som gik i Ilden</l>
+<l>For sin Drot og for sit Navn,</l>
+<l>Som. nok født til Mag og Lempe.</l>
+<l>Dog vil for sin Frihed kæmpe</l>
+<l>Til den sidste Draabe Blod!</l>
+</lg>
+<lg>
+<l>Intet Folk i Verden findes,</l>
+<l>Som det <hi rend="spaced">Danske</hi> overgaaer</l>
+<l>I alt Godt og Stort at mindes</l>
+<l>Gjennem Tusindtal af Aar ;</l>
+<l>Gid med <hi rend="spaced">Skjold</hi> Du Prisen vinde !</l>
+<l>Aldrig visner den Kjærminde,</l>
+<l>Som slog Rod i <hi rend="spaced">Danevang</hi>!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

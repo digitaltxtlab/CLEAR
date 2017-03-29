@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Dansk Kirketidende,</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-24"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="022"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1845">1845</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1845_22_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">1845.  Nr. 15 og 16.<lb/>Dansk Kirketidende,</titlePart>
+</docTitle>
+<byline>udgivet af<lb/>
+	<docAuthor>R. Th. Fenger og C. J. Brandt,<lb/>Candidater i Theologien.</docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace></pubPlace>Søndagen mellem Juni og Nytaar, den 28. December.<lb/>
+<fw type="graphic"/>
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Julenats-Engelen.</head>
+<lg>
+<l><hi rend="initial">I</hi> Himlen hørdes Gud-Faders Røst:</l>
+<l>Jeg sendte min Son til Støvet,</l>
+<l>Inat han fødes til evig Trøst,</l>
+<l>Han lægges i Barne-Svobet;</l>
+<l>Og hvem vil fare mit Bud til Jord,</l>
+<l>Med Glædens Røst og med Fredens Ord</l>
+<l>Til glædelig Fest om Julen!</l>
+</lg>
+<lg>
+<l>Guds Engle svared i Hast derpaa,</l>
+<l>De vare i Tal saa mange,</l>
+<l>Som Stjerner tindre paa Himlens Blaa:</l>
+<l>Vi fare med Fryde-Sange,</l>
+<l>Vi fare alle til Jorden ned,</l>
+<l>Vi aande Glæde og lyse Fred,</l>
+<l>Til glædelig Fest om Julen.</l>
+</lg>
+<lg>
+<l>Da lod det atter fra Guders Gud:</l>
+<l>Det tækkes mig vel, I fare!</l>
+<l>Men være skal dog mit Sendebud</l>
+<l>Den mindste i eders Skare,</l>
+<l>Den Mindste, klædt i min Herlighed,</l>
+<l>Skal Ordet fore om Fryd og Fred,</l>
+<l>Til glædelig Fest om Julen!</l>
+</lg>
+<lg>
+<l>Udrettet blev det Guds Ord saa brat,</l>
+<l>Den Lille i Straale-Dragten</l>
+<l>Fra Sky neddaled om Midjenat</l>
+<l>Til Hyrder ved Nattevagten,</l>
+<l>Og listig sang alle Englekor</l>
+<l>Om Hjertens-Glæde og Fred paa Jord,</l>
+<l>Til glædelig Fest om Julen.</l>
+</lg>
+<lg>
+<l>Og hvor der synges nu fjern og nær</l>
+<l>Af Hjertet med Klokke-Kimen:</l>
+<l>"Fra Himlen høit kommer jeg nu her,"</l>
+<l>Den Lille staaer hos paa Timen;</l>
+<l>Det mærker Hjertet paa Himlens Fred,</l>
+<l>I Øliet tindrer dens Herlighed</l>
+<l>Til glædelig Fest om Julen!</l>
+</lg>
+<lg>
+<l>Gud lad os alle nu glædes ved</l>
+<l>Den mindste i Engleskare,</l>
+<l>Som selv sig kalder kun Barnlighed,</l>
+<l>Vil aldrig det aabenbare,</l>
+<l>Hvad Han, som Stjerner gav Navn og Glands,</l>
+<l>Har kaldt sin Engel med Straalekrands,</l>
+<l>Til glædelig Fest om Julen!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

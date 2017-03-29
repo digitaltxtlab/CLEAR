@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Sang ved de Danske Studenters Nordiske Høitid</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-24"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="001"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1846">1846</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1846_1_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Sang<lb/>ved de<lb/>Danske Studenters<lb/>Nordiske Høitid<lb/>1846</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace>KJÖBENHAVN.</pubPlace>Trykt hos J. D. QVIST, Bog- og Nodetrykker,<lb/>Badstuestræde Nr. 124.
+<fw type="graphic"/>
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<pb facs="1846_1_page0002.png"/>
+<fw type="pageNum"></fw>
+<head><hi rend="italic">Mel, </hi>Druen voxer paa vor Klode.</head>
+<lg>
+<l><hi rend="initial">H</hi>vor er nu de gamle Dage,</l>
+<l><hi rend="italic">Frodes Freis </hi>og <hi rend="italic">Adelsteens</hi>,</l>
+<l>Straalende i Sang og Sage</l>
+<l>Ligefuldt, skiöndt ikke eens?</l>
+<l>Svandt som Rög i Sky de hen,</l>
+<l>Komme aldrig meer igien?</l>
+</lg>
+<lg>
+<l>Hvor er hine Dages Kilde,</l>
+<l>Deres Hav og deres Soel,</l>
+<l>Deres Morgenstjerner milde,</l>
+<l>Hanerne, som for dem goel?</l>
+<l>Fandt Du dem, Du fandt paany</l>
+<l>Heltedagens Morgengry.</l>
+</lg>
+<lg>
+<l>Heltehjemmets Himmel-Kierte,</l>
+<l><hi rend="italic">Nordens Aand </hi>er jo dit Navn,</l>
+<l>Og er Nordens rige Hjerte</l>
+<l>Ei din gamle Moderfavn?</l>
+<l>Er vort Kvad, fra Bjerg og Dal,</l>
+<l>Ei din Morgen-Hanes Gal!</l>
+</lg> 
+<pb facs="1846_1_page0003.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Jo, hilsæl! <hi rend="italic">Forældre </hi>bolde</l>
+<l>Til de <hi rend="italic">gamle </hi>Dages Glands!</l>
+<l>Snart faaer Valhal atter Skjolde,</l>
+<l>Snart faaer Balder Straalekrands;</l>
+<l><hi rend="italic">Bjarkemaal, </hi>som Hanegal,</l>
+<l>Melder Dag i Odins Sal!</l>
+</lg>
+<lg>
+<l>Dybt i <hi rend="italic">Dovre </hi>det gienlyder,</l>
+<l>Som i <hi rend="italic">Kiöl </hi>og <hi rend="italic">Runemo,</hi></l>
+<l>Solen kiækt nu Skyen bryder,</l>
+<l>Trindt i Nord Kiærminder groe,</l>
+<l>Overalt har Guld i Mund</l>
+<l>Heltetidens Morgenstund!</l>
+</lg>
+<p><hi rend="align(right)"><hi rend="italic">N. F. S. Grundtvig.</hi></hi></p>
+</div>
+</body>
+</text>
+</TEI>

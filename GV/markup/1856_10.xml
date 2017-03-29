@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Budstikken.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-25"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="010"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1856">1856</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1856_10_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Budstikken.<lb/></titlePart>
+	<titlePart type="sub">Et Folkeskrift til Oplysning og Opbyggelse.<lb/>Redigeret af F. G. Boisen, Præst.</titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition>Nr. 12. Den 15. Juni 1856. 5. Aarg.</docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace></pubPlace>.
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Den Husvilde.</head>
+<lg>
+<l>Fuglen har Rede, og Ræven har Grav,</l>
+<l>Sneglen bær Huset paa Ryggen,</l>
+<l>Stodderen han har kun Pose og Stav,</l>
+<l>Leder om Leiet og Lytten,</l>
+<l>Saa gaaer Vorherre med Naadens Ord</l>
+<l>Husvild og fattig omkring paa Jord!</l>
+</lg>
+<lg>
+<l>Hvem skulde tænkt, at fra Himmerigs Fryd</l>
+<l>Selv sig fornedred' Vorherre,</l>
+<l>For med sit Ord, som er Himmerigs Lyd,</l>
+<l>Blandt os at glade de Færre,</l>
+<l>Mens hos de Fleste paa viden Jord</l>
+<l>Utak kun saaes for gode Ord.</l>
+</lg> 
+<pb facs="1856_10_page0002.png"/>
+<fw type="pageNum">354</fw>
+<lg>
+<l>Dengang Vorherre gik synlig omkring,</l>
+<l>Kaldte paa alle de Trætte:</l>
+<l>Kommer og staaer om Guds Naade en Ring!</l>
+<l>Da faaer I Hvilen den rette!</l>
+<l>Utak han fik mod al Ret og Skjel,</l>
+<l>Til han paa Korset blev pint ihjel.</l>
+</lg>
+<lg>
+<l>Siden, nu i attenhundrede Aar,</l>
+<l>Da han usynlig i Aanden,</l>
+<l>Rundtom paa Jorderig kommer og gaaer,</l>
+<l>Bod raader immer paa Vaanden,</l>
+<l>Ulvene tuder i Lovens Spor,</l>
+<l>Hundene gjøer ad Guds Naades Ord!</l>
+</lg>
+<lg>
+<l>Men hvor han banker paa Port og paa Dør,</l>
+<l>Altid med Ordets Guldhammer,</l>
+<l>Der lommer Gloede som aldrig før</l>
+<l>Ind i de Mildes Lønkammer,</l>
+<l>Der gaaer til Hierte med Englelyd</l>
+<l>Naaden og Freden med Himlens Fryd.</l>
+</lg>
+<lg>
+<l>Sammen de vandre i <hi rend="spaced">Frelserens</hi> Navn,</l>
+<l><hi rend="spaced">Jesus</hi> den <hi rend="spaced">Christus</hi>! de kvade,</l>
+<l>Sødt hviler Sønnen i Faderens Favn!</l>
+<l>Svare Guds Engle med Gloede,</l>
+<l>Saligt det Huus, hvori han indgaaer!</l>
+<l>Der er det evige Livs Nytaar!</l>
+</lg> 
+<pb facs="1856_10_page0003.png"/>
+<fw type="pageNum">355</fw>
+<lg>
+<l>Fuglen har Rede, og Ræven har Grav,</l>
+<l>Sneglen boer Huset paa Ryggen,</l>
+<l>Verdslig Vorherre har intet deraf,</l>
+<l>Han har dog Livet og Lyssen,</l>
+<l>Deler dem ærlig med hver som troer:</l>
+<l>Aanden og Livet er i hans Ord!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

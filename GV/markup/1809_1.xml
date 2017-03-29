@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+    <!-- Se SJ_104; skal sandsynligvis ikke udgives. -->
+	 <teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Attenhundrede  og Ni.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2009-10-21"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="001"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1809">1809</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1809_1_page0001.png"/>
+			<fw type="pageNum">84</fw>
+				<docTitle>
+	<titlePart type="main">Attenhundrede  og Ni.</titlePart>
+				<fw type="graphic"/>
+	<titlePart type="sub">Nytaarsvers.<lb/>
+(Til den øverste Klasses  Lærlinge   i Schouboes Institut).</titlePart>
+				<fw type="graphic"/>
+</docTitle>
+<byline></byline>
+				<fw type="graphic"/>
+				<epigraph>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition></docEdition>
+	<docImprint>
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<pb facs="1809_1_page0001.png"/>
+<fw type="pageNum">84</fw>
+<lg>
+<l><hi rend="initial">Aaret </hi>sank, i Vesten stander</l>
+<l>Høi dets røde Bautasteen,</l>
+<l>Og med Ebro end sig blander</l>
+<l>Blodet. - Enden vorder feen.</l>
+<l>Hvad har vel udmarvet Jorden,</l>
+<l>Saa den er ufrugtbar vorden,</l>
+<l>Saa den gødes maa med Liig?</l>
+</lg>
+<lg>
+<l>Han, som har saa længe levet,</l>
+<l>Han, som, født med Jorden, saae</l>
+<l>Alt, hvad Slægten har bedrevet,</l>
+<l>Han, den vise Olding, maa</l>
+<l>Og forklare os vor Alder:</l>
+<l>Tiden sig den Olding kalder,</l>
+<l>Saga er hans Tungemaal.</l>
+</lg>
+<pb facs="1809_1_page0002.png"/>
+<fw type="pageNum">85</fw>
+<lg>
+<l>Eder hen til ham at føre,</l>
+<l>Lære eder at forstaa.</l>
+<l>Hvad I af den Gamle høre,</l>
+<l>Hvad han paa sin Vandring saae,</l>
+<l>Er det Maal, jeg har for Øie;</l>
+<l>Unge Venner! vil I bøie</l>
+<l>Sjæl og Øre til mit Ord?</l>
+</lg>
+<lg>
+<l>Naar begejstret Gubben maler</l>
+<l>Os sin fagre Ungdoms Liv,</l>
+<l>Da om Grækenland han taler,</l>
+<l>Peger for os paa Homer;</l>
+<l>hvad den kolde Klogskab mægter,</l>
+<l>Os og alle Jordens Slægter</l>
+<l>Viser han i stolte Rom.</l>
+</lg>
+<lg>
+<l>Hist paa Nordens Klippetinder</l>
+<l>Byder han os stirre hen,</l>
+<l>Naar sin Manddoms stolte Minder</l>
+<l>Han vil trylle for os frem;</l>
+<l>Der vi høre Skjalde synge</l>
+<l>Om de Baand, som fast omslynge</l>
+<l>Kraft og Kærlighed i Nord.</l>
+</lg>
+<lg>
+<l>Sørgelig han og mon klage</l>
+<l>Over mangen  farlig Sot,</l>
+<l>Lærer os, hvi træt af Dage</l>
+</lg>
+<pb facs="1809_1_page0003.png"/>
+<fw type="pageNum">86</fw>
+<lg>
+<l>Nu han maa ved Staven gaa,</l>
+<l>Hvi han vakler saa paa Foden,</l>
+<l>Hvi det dundrer saa paa Kloden,</l>
+<l>Naar han tung sig skyder frem.</l>
+</lg>
+<lg>
+<l>Medens over Gubbens Ælde</l>
+<l>Og hans ynkelige Færd</l>
+<l>Vi maa Vemodstaarer fælde,</l>
+<l>Skænker han os dog en Trøst:</l>
+<l>Gud og Videnskab at dyrke.</l>
+<l>Tænder Lys i Nattens Mørke,</l>
+<l>Jager bort hver farlig Sot.</l>
+</lg>
+<lg>
+<l>Unge venner mangen Taabe</l>
+<l>Sig fra Gud og Videnskab</l>
+<l>Daarlig vender, tør jeg haabe</l>
+<l>I vil vende eders Blik</l>
+<l>Fromt mod Himlen, aldrig klæbe</l>
+<l>Det paa Jord, men mandig stræbe</l>
+<l>Op derfra med Ord og Daad!!</l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

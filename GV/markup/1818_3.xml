@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Femtende September</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2009-10-28"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="003"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1818">1818</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1818_3_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Femtende September</titlePart>
+	<titlePart type="sub">1818</titlePart>
+</docTitle>
+<byline></byline>
+				<fw type="graphic"/>
+				<epigraph>
+				</epigraph>
+	<docEdition></docEdition>
+	<docImprint>
+				<pubPlace>Kjøbenhavn.</pubPlace>.<lb/>Trykt hus Andreas Seidelin,<lb/>Hof- og Universitets Bogtrykker.<lb/>
+<docDate>1818</docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<pb facs="1818_3_page0002.png"/>
+<fw type="pageNum"></fw>
+<head>M e l. Kong Christian stod ved høien Mast.</head>
+<lg>
+<l><hi rend="spaced">F</hi>ra Arildstid laae Danmark fast</l>
+<l><hi rend="align(center)">Paa Bølgen blaa;</hi></l>
+<l>Vel mangt et Toug i Stormen brask.</l>
+<l>Og kappet blev dets Grane-Mast,</l>
+<l>Dog ligger end vort Danmark fast</l>
+<l><hi rend="align(center)">Paa Bølgen blaa;</hi></l>
+<l>Alt med sit Navn i Guld paa Speil,</l>
+<l>Det heiser Flag med grønne Seil</l>
+<l><hi rend="align(center)">IRaae!</hi></l>
+</lg>
+<lg>
+<l>Og der var Dannemænd om Bord</l>
+<l><hi rend="align(center)">Fra Arilds-Tid,</hi></l>
+<l>De evig Troskab Danmark svor,</l>
+<l>Gav Agt, holdt Vagt, holdt Eed og Ord,</l>
+<l>Vandt Priis før Troskab trindt i Nord</l>
+<l><hi rend="align(center)">Fra Arilds Tid!</hi></l>
+<l>Som Danmarks Priis de sang i Sal,</l>
+<l>De hævded den med Held paa Val</l>
+<l><hi rend="align(center)">I Strid!</hi></l>
+</lg>
+<pb facs="1818_3_page0003.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Thi prises Danmark allen Stund,</l>
+<l><hi rend="align(center)">Blandt Dannemænd,</hi></l>
+<l>Paa Bølgen blaa, i grønne Lund;</l>
+<l>Og Danmarks Skaal af Hjertens Grund</l>
+<l>Den første er i allen Stund,</l>
+<l><hi rend="align(center)">Blandt Dannemænd!</hi></l>
+<l>Ja Priis og Held med Danmarks Færd'</l>
+<l>Det overseile glat enhver</l>
+<l><hi rend="align(center)">Uven!</hi></l>
+</lg>
+<lg>
+<l>Men Skaal saa før den Ædling hist,</l>
+<l><hi rend="align(center)">Vor Danske Ven,</hi></l>
+<l>Som hævder Lov, og hader List,</l>
+<l>Og skyer som Pest unødig Tvist!</l>
+<l>Han er, det veed vi alle vist.</l>
+<l><hi rend="align(center)">Vort Danmarks Ven!</hi></l>
+<l>Thi er den Dag os alle kiær,</l>
+<l>Som gav, med Danmark, alle her</l>
+<l><hi rend="align(center)">En Ven!</hi></l>
+</lg>
+<lg>
+<l>Ja, Ven af Ret, og Ven af hver</l>
+<l><hi rend="align(center)">En Dannemand!</hi></l>
+<l>Med Hjelm og Skiold og Ridder-Sværd,</l>
+<l>Du drage frem i Herre-Færd,</l>
+<l>Som Lovens Tolk, og Venner kiær</l>
+<l><hi rend="align(center)">Som Dannemand!</hi></l>
+<l>Gid Tiden bide tit, som nu,</l>
+<l>Paa Tunge din og Dag itu</l>
+<l><hi rend="align(center)">Sin Tand!</hi></l>
+</lg>
+<pb facs="1818_3_page0004.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Og Hun, som er det Hjerte næst:</l>
+<l><hi rend="align(center)">Din Venne-Viv,</hi></l>
+<l>Som gav dig Meer end denne Fest,</l>
+<l>Skal takkes kiønt af Ven og Giæst!</l>
+<l>Ja Du, vor <hi rend="spaced">Treschovs </hi>Hjerte næst:</l>
+<l><hi rend="align(center)">Hans Venne-Viv!</hi></l>
+<l>Tak for i Dag og for i Gaar!</l>
+<l>Forskiøn, forsød i mange Aar</l>
+<l><hi rend="align(center)">Hans Liv!</hi></l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

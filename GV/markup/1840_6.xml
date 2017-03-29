@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Den gamle Nattergal i Dannevangen</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-23"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="006"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1840">1840</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1840_6_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Den gamle Nattergal i Dannevangen</titlePart>
+</docTitle>
+</titlePage>
+</front>
+<body>
+<div>
+<lg>
+<l>Den gamle Nattergal i Dannevangen</l>
+<l>Er askegraa, men glemte dog ei Sangen;</l>
+<l>Hun staaer med sine Triller,</l>
+<l>De høres kan til By,</l>
+<l>Fra Sommer-Aftenrøden</l>
+<l>Til efter Morgengry:</l>
+<l>Datter min! lær dig til itide!</l>
+<l>Syng, som jeg, bort din Sorg og Kvide!</l>
+<l>Syng dig glad!</l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

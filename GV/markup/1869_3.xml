@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Dansk Kirketidende.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-26"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="003"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1869">1869</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1869_3_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Dansk Kirketidende.<lb/></titlePart>
+	<titlePart type="sub"><lb/></titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<fw type="graphic"/>
+				<epigraph>
+<p>Indhold: N. F. S. Grundtvig: Livet og Døden. — Fr. Helveg: Om Guds Ord og de 40 Dage. (Sluttes.) — N. Lindberg: Dr. Morten Luthers Udlæggelse af den 2den Trosartikel. (Fortsat.) — Udnævnelse og ledige Embeder.</p>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition>femte Søndag e. Paaske den 2den Maj.</docEdition>
+				<docImprint>
+				<pubPlace></pubPlace>.
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Livet og Døden.</head>
+<fw type="graphic"/>
+<lg>
+<l>Intet Liv, hvor Stjeruer tindre.</l>
+<l>Intet Liv bag Solens Glands,</l>
+<l>Aand og Liv da endnu mindre,</l>
+<l>Ei for Fred og Glæde Sands,</l>
+<l>Livets Træ i Foraarstiden</l>
+<l>Visnet er for længe siden!</l>
+</lg>
+<lg>
+<l>End paa Jorden i det Lave</l>
+<l>Døsig rinder Livets Flod,</l>
+<l>Mellem mange grønne Grave,</l>
+<l>Hvori Deden fæsted Rod,</l>
+<l>Op af dem, omkring Ligstenen</l>
+<l>Vrat sig slynger Misteltenen!</l>
+</lg>
+<lg>
+<l>Verdens Vise Runer riste</l>
+<l>Paa den store Bautasteen</l>
+<l>Over Livets Rost den sidste,</l>
+<l>Kjær ad Liv til Stumhed seen,</l>
+<l>Hos den hvile stal i Graven</l>
+<l>Meiselen med Runestaven!</l>
+</lg>
+<lg>
+<l>Intet Liv og ingen Aande,</l>
+<l>Intet Nyn paa Englesang,</l>
+<l>Ingen fagre Liljevaande</l>
+<l>Smile meer i Blomstervang,</l>
+<l>Kun med Hvirvelvinden dandse</l>
+<l>Engens visne Blomsterkrandse.</l>
+</lg>
+<lg>
+<l>Livet som et Rov omsider</l>
+<l>Sprang i Flint paa Troldeviis,</l>
+<l>Livet, som sig selv bestrider.</l>
+<l>Har i Sten sit Paradis,</l>
+<l>Hvor ei meer det sig kan røre.</l>
+<l>Vel sig selv det maa tilhore.</l>
+</lg>
+<lg>
+<l>Gud skee Lov! trods al sin Pralen,</l>
+<l>Det er dog en Feber-Drøm;</l>
+<l>Engle mylre i Høisalen,</l>
+<l>Varm end flyder Livets Strøm,</l>
+<l>Smelter lønlig under Mulde</l>
+<l>Gravens Iis og Dødens Kulde.</l>
+</lg>
+<lg>
+<l>Og naar snart Basunen lyder,</l>
+<l>Med en Over-Engels Røst,</l>
+<l>Livet sig i Lyset fryder,</l>
+<l>Aander ud en evig Trost,</l>
+<l>Da den Trold, som Døden volder,</l>
+<l>Døden kun sig selv beholder!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

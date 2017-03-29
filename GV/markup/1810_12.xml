@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Skilderie af Kjøbenhavn.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-19"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="012"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1810">1810</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1810_12_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Nyeste<lb/>Skilderie af Kjøbenhavn.</titlePart>
+</docTitle>
+<byline></byline>
+				<fw type="graphic"/>
+				<epigraph>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition>Syvende Aargang. No. 73.</docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace></pubPlace>Udgivet og forlagt af Boghandler S. Soldin.<lb/>
+<fw type="graphic"/>
+<docDate>Tirsdagen den 19 Junii, 1810</docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<head>Et Par Ord om min Dimisprædiken i Anledning af Brevet i Skilderiets No. 72.</head>
+<p><hi rend="initial">A</hi>t min Pimisprædiken maatte mishage Mange, var saa naturligt, at det Modsatte maatte have gjort den til det latterligste Produkt i vor Litteratur; men at Nogle af Hovedstadens Præster vilde anklage mig for den, det kunde jeg ikke vente, og megen Møie har det kostet mig at kunne tro det. Forkynde De Herrens Ord i den Forstand, jeg tager Udtrykket, da kunne De jo pare rolige, thi formodenlig tro dog deres Tilhørere egne Øren; er det derimod ikke saa, da er det vist nok, at ogsaa De ere mente, men kunne De da haabe, Man vilde tro det at være anderledes, hvis jeg kunde dommes for at have injurieret Standen, ja, kunne De, som redelige Mænd, endog ønske, at Man skulde tro Andet om deres offenlige Tale, end hvad Sandt er? Ei sige De, at De tale Standens, ikke deres egen Sag, thi De maatte være mindre end Børn i Forstand, dersom De for Alvor kunde tro, jeg havde ment Alle, mindst skulde Man vente en saa vrang Udlæggelse af Mænd, der Som Talere jo maa vide, at Man taler om det Herskende i Almindelighed; af Præster, Som so maa vide, at saa talte Kristus og Apostlene fordum. Ja, mærkede De det end ikke Selv, da tykkes mig dog, at enhver Præstø Vægring ved at tage Del i deres underlige Id maatte oplade deres Øine. Underlig kalder jeg den, kun fordi jeg ei vil sige Mere, thi hvad jeg kunde sige, naar De som boere Navn af Videnskabsmænd og Jesu Læres Talsmand ville drage en Sag for verdslig Domstol, som aldrig ber kan afgøres, er klart, og jeg skal sige det, hvis Timen kommer, da jeg ber. Indtil saalænge, ei et Ord mer herom; jeg har fulgt min Overbevisning; Hver fulgt redelig sin og ræddes ei for at bekende den, da er Hver agtværdig og Følgerne kunne vi rolig overlade til den Eneste, der mægter at overstue Følgernes Række.</p>
+<p>Hvad nu Brevskriveren i Skilderiet angaaer, da har jeg kun saare Lidet at sige. Han er enig med mig om, at skal hin Sag fores, maa det være for Publikums Domstol, og jeg seer ikke rettere end at Guds Ord t hans Mund ene betyder ben menneskelige Fornufts Udsagn. Da Fornuften, som Alt, er af guddommeligt Udspring, er det vist nok Sandt, at Gud taler til os gennem den, men at det ei var det jeg mente, da jeg Sagde at Herrens Ord var forsvundet af hans Hus, er jo klare af Prædikenen Selv, og jeg har desuden andensteds udførligere sagt min Mening herom *). Om der nu i Sandhed gives et saadant Guds Ord, som det jeg savner i vor Tids protestantiske Kirke, derom er det Tidsalderen strider med sig selv, og</p>
+<p>*) I min Afhandling om Religion og Liturgi i theologisk Maanedsskrift Februar 1807, hvor ogsaa den, som har Lyst, kan se min Dom over Nutids Præster med alle de Undtagelser og nærmere Bestemmelser, som have hjemme i en Afhandling men ei i en Tale.</p>
+<pb facs="1810_12_page0002.png"/>
+<fw type="pageNum">1153</fw>
+<p>her kan ei være Sted til en Saadan Undersøgelse. Jeg har sagt, at Man i Kirken hel ofte hører forfængelig Snak om alskens Smaating paa Jord, ei fordi jeg jo vel vidste, at naar Man vil sige: Intet er stort, kan Man ogsaa sige: Intet er smaat; men fordi jeg troer at Alt er egenlig for smaat til at omtales i Kirken, naar det ei sees i sit bestemte Forhold til det Høiere. Hvad det angaaer, at selv den mindste Anstødssten maa vises og vendes og dreies paa alle Kanter for at den Dydige ei ska! Snuble over den, som Læsset der væltes af Tuen, da veed jeg vel, det ei er ualmindeligt, at betragte den dydige Mænd som et Læs Dyder, Men det er ei min Synsmaade, og jeg mener, at naar Nan vandrer med aabne Øine ved lys Dag, siger det ikke stort, om Man møder en ubekendt Sten.</p>
+<p><hi rend="align(right)">N. F. S. <hi rend="spaced">Grundtvig</hi>.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

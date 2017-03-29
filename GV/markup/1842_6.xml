@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title></title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2009-12-16"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="006"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1842">1842</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1842_6_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main"></titlePart>
+	<titlePart type="sub"></titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<docImprint>
+				<pubPlace></pubPlace>.
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<pb facs="1842_6_page0001.png"/>
+<fw type="pageNum">5</fw>
+</div>
+<div>
+<head>Kvinde-Evangeliet</head>
+<lg>
+<l>I Herrens Huus er Varmen</l>
+<l>Den dybe Kiærlighed,</l>
+<l>Som har i Kvinde-Barmen</l>
+<l>Sit rette Arnested!</l>
+</lg>
+<lg>
+<l>Derfor det var en Kvinde,</l>
+<l>Som Naade fandt hos Gud;</l>
+<l>Fra Himmelens Veninde</l>
+<l>Sprang Jordens Frelse ud!</l>
+</lg>
+<lg>
+<l><hi rend="spaced">Marias</hi> Kvinde-Vise,</l>
+<l>Med Englesang i Chor,</l>
+<l>Bod alle Slægter prise,</l>
+<l>Den Salige paa Jord!</l>
+</lg>
+<lg>
+<l>Og naar <hi rend="spaced">Maria</hi> glemmes,</l>
+<l>Hvor <hi rend="spaced">Jesus</hi> nævnes end,</l>
+<l>Da Hjertet overstemmes</l>
+<l>Af Hjernespind hos Mænd!</l>
+</lg>
+<lg>
+<l>Lad Verden Sig fornøie</l>
+<l>Med Støvets Rosenkind!</l>
+<l>Med Aanden vi ophøie</l>
+<l>Det dybe, stille Sind,</l>
+</lg>
+<lg>
+<l>Den Alterglød, Som flammer</l>
+<l>Med Virak dyrebar,</l>
+<l>I skjulte Hjerte-Kammer,</l>
+<l>Hvor Gud sig hvilet har!</l>
+</lg>
+<lg>
+<l>Med Herren til vor Broder,</l>
+<l>Vi Sjunge uden Sky:</l>
+<l>En Kvinde er vor Moder,</l>
+<l>Skiøndt vi har Fader ny!</l>
+</lg> 
+<pb facs="1842_6_page0002.png"/>
+<fw type="pageNum">6</fw>
+<lg>
+<l>Med Aanden vi afmale</l>
+<l>Vort Samfund Som en Brud,</l>
+<l>Der fra de dybe Dale</l>
+<l>Hjemsøres skal af Gud!</l>
+</lg>
+<lg>
+<l>Hvad rager os vel <hi rend="spaced">Paven</hi>,</l>
+<l>Med al hans Løgn og Tant?</l>
+<l>Hvad der er Legn om Graven,</l>
+<l>Om Aand og Liv er sandt!</l>
+</lg>
+<lg>
+<l>Maa det ei meer fortælles,</l>
+<l>Man er et Moders-Barn,</l>
+<l>For man har det tilfælles</l>
+<l>Med mangt et topmaalt Skarn?</l>
+</lg>
+<lg>
+<l>Skal hver en Helgeninde</l>
+<l>I Kirken gaaes forbi,</l>
+<l>Fordi med deres Minde</l>
+<l>Man drev Afguderi?</l>
+</lg>
+<lg>
+<l>Er større Kirke-Faren</l>
+<l>Med Herrens Moder god,</l>
+<l>End med Apostel-Skaren</l>
+<l>Og <hi rend="spaced">Stephans</hi> Martyr-Blod!</l>
+</lg>
+<lg>
+<l>Skal vi kanskee nu lære,</l>
+<l>Af Verdens Favnetag,</l>
+<l>At ei i Tugt og Ære</l>
+<l>Maa holdes Bryllupsdag!</l>
+</lg>
+<lg>
+<l>Skal nu Saavidt det komme,</l>
+<l>At Selv <hi rend="spaced">Marias</hi> Navn</l>
+<l>Ei toner blandt de Fromme</l>
+<l>I <hi rend="spaced">Daners</hi> Fødestavn?</l>
+</lg> 
+<pb facs="1842_6_page0003.png"/>
+<fw type="pageNum">7</fw>
+<lg>
+<l>Nei, for skal Loven miste</l>
+<l>Sin Rang for Ulv og Bjørn,</l>
+<l>Og for skal Hjertet briste</l>
+<l>I <hi rend="spaced">Dannekvindens</hi> Vorn.</l>
+</lg>
+<lg>
+<l>Bestyrkes kan det Svage,</l>
+<l>For Sot er Lægedom,</l>
+<l>Og alle Herrens Dage</l>
+<l>Selv Dødt tillide kom;</l>
+</lg>
+<lg>
+<l>Men Kulden i det Stærke,</l>
+<l>Og Klarhed gjennem Iis,</l>
+<l>Er Jetters Kiendemærke,</l>
+<l>Og Trods mod Paradis!</l>
+</lg>
+<lg>
+<l>Der er en gammel Kvinde,</l>
+<l>Som paa sin Helsot boer,</l>
+<l>Skiøndt Frelserens Veninde</l>
+<l>Hun kaldes fjern og nær!</l>
+</lg>
+<lg>
+<l>I Paaske-Morgenrøden</l>
+<l>Hun fandt ved Graven Trost;</l>
+<l>Om Seier over Døden</l>
+<l>Forst toned hendes Røstl</l>
+</lg>
+<lg>
+<l>Lyksalig var den Kvinde,</l>
+<l>Paa første Paaskedag,</l>
+<l>Hun blev Apostelinde</l>
+<l>For Guds Apostel-Lagt</l>
+</lg>
+<lg>
+<l>Nu i de sidste Tider</l>
+<l>Hun gammel er og graa,</l>
+<l>Hun sukker og hun strider,</l>
+<l>Hun maa ved Krykker gaae.</l>
+</lg> 
+<pb facs="1842_6_page0004.png"/>
+<fw type="pageNum">8</fw>
+<lg>
+<l>Hun glemde ingenlunde</l>
+<l>Dog Herren og Hans Ord;</l>
+<l>Mon Han da glemme kunde,</l>
+<l>Veninde sin paa Jord?</l>
+</lg>
+<lg>
+<l>Nei, for den ømme Moder</l>
+<l>(Saa lyder Sandheds Røst)</l>
+<l>Skal glemme sine Poder,</l>
+<l>Som Selv hun giver Bryst.</l>
+</lg>
+<lg>
+<l>Han i det Fjerne tøver,</l>
+<l>Han kommer vist igjen,</l>
+<l>Men hvo sin Styrke pøver</l>
+<l>Med Tiden, toeres hen.</l>
+</lg>
+<lg>
+<l>Saalænge Hjertet stoler</l>
+<l>Paa Herrens Haand og Mund,</l>
+<l>Af Paradis-Fioler</l>
+<l>Er fuld den grønne Lund;</l>
+</lg>
+<lg>
+<l>Dem Engle-Skarer bringe,</l>
+<l>Med Hilsen til Hans Brud,</l>
+<l>Naar de med Psalmer svinge</l>
+<l>Sig glade ind og ud!</l>
+</lg>
+<lg>
+<l>Da stadig brænder <hi rend="spaced">Lampen</hi>,</l>
+<l>Som Herren selv har tændt,</l>
+<l>Og stakket sindes Kampen,</l>
+<l>Med evig Seier endt!</l>
+</lg>
+<lg>
+<l>Om Sorg end Hjertet Saarer,</l>
+<l>Og vækker Klagelyd,</l>
+<l>I Smilet gjennem Taarer</l>
+<l>Dog glimter salig Fryd!</l>
+</lg> 
+<pb facs="1842_6_page0005.png"/>
+<fw type="pageNum">9</fw>
+<lg>
+<l>Men <hi rend="spaced">Tvivlen</hi> er en Slange,</l>
+<l>Fra lille Orm i Bog</l>
+<l>Opvoxt i Tider lange</l>
+<l>Til <hi rend="spaced">Midgaards</hi> Kæmpe-Snog!</l>
+</lg>
+<lg>
+<l>Som Glimmer-Orm, o Jammer!</l>
+<l>Den Trædske sig indsneg</l>
+<l>I Kvindens Sovekammer</l>
+<l>Med kaad Oplysnings-Leg!</l>
+</lg>
+<lg>
+<l>Dens falske Lys bedaared</l>
+<l>Da Kvindens Klod og Blod,</l>
+<l>Dens Brodd da <hi rend="spaced">Troen</hi> Saared</l>
+<l>Ved hendes Hjerterod!</l>
+</lg>
+<lg>
+<l>Da Himmel-Toner søde</l>
+<l>Forskummede paa Jord!</l>
+<l>Berøvet Liv og Grode</l>
+<l>Blev Edens Blomster-Flor!</l>
+</lg>
+<lg>
+<l>Da slukdes Herrens Lampe,</l>
+<l>Guds Engle svandt med Jil,</l>
+<l>Og under hede Kampe</l>
+<l>Var Graad foruden Smil!</l>
+</lg>
+<lg>
+<l>Af alle Herrens Taler</l>
+<l>Kom levende ihu</l>
+<l>Den Arme, trods Choraler,</l>
+<l>Kun den: hvi tvivled du?</l>
+</lg>
+<lg>
+<l>Hun søgde Hjelp Saa vide</l>
+<l>For <hi rend="spaced">Tvivlens</hi> Eddersaar,</l>
+<l>Men lærde kun at lide</l>
+<l>I mange Sygdoms-Aar!</l>
+</lg> 
+<pb facs="1842_6_page0006.png"/>
+<fw type="pageNum">10</fw>
+<lg>
+<l>Hos Venner og hos Fiender,</l>
+<l>I Ry for Læge-Konst,</l>
+<l>Hos kloge Mænd og Kvinder,</l>
+<l>Hun søgde Raad omsonst!</l>
+</lg>
+<lg>
+<l>En raadte: lad Dig bære</l>
+<l>Fra Hav til Hav paa Jord!</l>
+<l>Da Troen paa den Kiære</l>
+<l>Vil styrkes i hans Spor.</l>
+</lg>
+<lg>
+<l>En Sagde: lad ham male,</l>
+<l>Alt som han gik og stod!</l>
+<l>Da vaagner op af Dvale</l>
+<l>Din Tro, og du faaer Bod.</l>
+</lg>
+<lg>
+<l>En Sagde: læs hans Breve,</l>
+<l>Og lær dem udenad!</l>
+<l>Den Tro, hans Fingre skreve,</l>
+<l>Da giør dig stærk og glad. -</l>
+</lg>
+<lg>
+<l>En Sagde: Russisk Badning,</l>
+<l>Og Strog med Helved-Steen,</l>
+<l>Og daglig Aareladning!</l>
+<l>Saa bliver Troen reen.</l>
+</lg>
+<lg>
+<l>En sagde: bliv kun Hjemme,</l>
+<l>Og brug siet ingen Ting;</l>
+<l>Men kan <hi rend="spaced">Du Aanden</hi> stemme,</l>
+<l>Det hjelper godt for Sting!</l>
+</lg>
+<lg>
+<l><hi rend="spaced">Taalmodighed</hi> er Dyden,</l>
+<l>Og Kunstens Alt i Alt;</l>
+<l>Naar Døden er i Gryden,</l>
+<l>Da hjelper intet Salt.</l>
+</lg> 
+<pb facs="1842_6_page0007.png"/>
+<fw type="pageNum">11</fw>
+<lg>
+<l>Naar Troen sig sorcelder,</l>
+<l>Den maa, som Alt paa Jord,</l>
+<l>Naar det til Graven hælder,</l>
+<l>Aflægge store Ord.</l>
+</lg>
+<lg>
+<l>En sagde: staae en Knude</l>
+<l>Paa Kryds i Maaneskin,</l>
+<l>Halv inde og halv ude,</l>
+<l>Med soelret Vestenvind!</l>
+</lg>
+<lg>
+<l>Enstund det vel kan vare,</l>
+<l>Men bliv kun ved og tie!</l>
+<l>Det har siet ingen Fare,</l>
+<l>Al Tro er <hi rend="spaced">Sympathi</hi>!</l>
+</lg>
+<lg>
+<l>Det Alt og Meer hun prøved</l>
+<l>Paa falsk Oplysnings Vei,</l>
+<l>Og fukked dybt bedrøvet:</l>
+<l>Ak, kommer Han dog ei!</l>
+</lg>
+<lg>
+<l>Der var en lille Pige,</l>
+<l>Med smukke, lyse Haar,</l>
+<l>Paa Jord som i Guds Rige,</l>
+<l>Til hendes tolvte Aar.</l>
+</lg>
+<lg>
+<l>Som Frelserens Guddatter,</l>
+<l>Hun er paa Jord berømt,</l>
+<l>Men ingen Hjerne fatter,</l>
+<l>Hvad tidlig hun har drømt.</l>
+</lg>
+<lg>
+<l>Og da hun kom i Skole</l>
+<l>Med Verdens Døttre smaa,</l>
+<l>De skinnede Som Sole,</l>
+<l>Hun Sad forn Praas i Vraa.</l>
+</lg> 
+<pb facs="1842_6_page0008.png"/>
+<fw type="pageNum">12</fw>
+<lg>
+<l>Hver sagde, hvad de drømde,</l>
+<l>Og hvad de tænkde paa,</l>
+<l>Og Verdens Folk berømde</l>
+<l>Den verdslige Attraa;</l>
+</lg>
+<lg>
+<l>Men Frelferens Guddatter,</l>
+<l>Som drømde sig Hans Brud,</l>
+<l>Hun blev til Spot og Latter,</l>
+<l>Al Verdens Skumpelskud.</l>
+</lg>
+<lg>
+<l>Hun drilled blev saa saare</l>
+<l>For Himmeldrømmen sød,</l>
+<l>I Hjernen sprang en Aare,</l>
+<l>Det er den visse Død!</l>
+</lg>
+<lg>
+<l>I Taare-Bække! rinder</l>
+<l>Kun stride over Støv,</l>
+<l>For Kirken uden Kvinder,</l>
+<l>Som Lunde uden Løv!</l>
+</lg>
+<lg>
+<l>Var ikke Edens Have</l>
+<l>Foruden Eva tom;</l>
+<l>Var hun ei Herrens Gave,</l>
+<l>Som Adam ledte om!</l>
+</lg>
+<lg>
+<l>Var det til Kiødets Lyster,</l>
+<l>Gud hvælved hendes Bryst,</l>
+<l>Og ei, som Adams Syster,</l>
+<l>Til Aandens Liv og Lyst!</l>
+</lg>
+<lg>
+<l>Blev hun ei Helte-Moder,</l>
+<l>Saa vidt som Sky er blaa!</l>
+<l>Og blev ei Gud vor Broder</l>
+<l>I Kvindens Hjerte-Vraa!</l>
+</lg> 
+<pb facs="1842_6_page0009.png"/>
+<fw type="pageNum">13</fw>
+<lg>
+<l>Var der ei godt i Eden</l>
+<l>For Manden uden Viv;</l>
+<l>Blev bedre da paa Heden</l>
+<l>Et Enesidder-Liv!</l>
+</lg>
+<lg>
+<l>O, Han som Støvet kiender,</l>
+<l>Dets Længsler og dets Trang,</l>
+<l>Og af Hvis Skaber-Hoender</l>
+<l>Mandinden faur Udsprang,</l>
+</lg>
+<lg>
+<l>Og han, som vilde die</l>
+<l>En Moder aabenbart,</l>
+<l>Og didned sor Marie:</l>
+<l>"Hun fik den bedste Part;"</l>
+</lg>
+<lg>
+<l>O, Han kan aldrig glemme</l>
+<l>Sit Ord, vort Tab og Savn,</l>
+<l>Den føde Kvinde-Stemme</l>
+<l>Lovsynge maa Hans Navn!</l>
+</lg>
+<lg>
+<l>Og hvad er det, man skimter</l>
+<l>Mod Nord i Havets Egn?</l>
+<l>Det gjennem Taagen glimter,</l>
+<l>Som Guddoms-Mandens Tegn!</l>
+</lg>
+<lg>
+<l>O See, nu Salder Taagen</l>
+<l>Paa Havet forn et Speil!</l>
+<l>O, det er Ham lysvaagen,</l>
+<l>Det aldrig kan staae feil!</l>
+</lg>
+<lg>
+<l>Den Gamle sig nu gloede!</l>
+<l>Nu har det gode Raad:</l>
+<l>Med Sømmen af Hans Klæde</l>
+<l>Aftørres hendes Graad!</l>
+</lg> 
+<pb facs="1842_6_page0010.png"/>
+<fw type="pageNum">14</fw>
+<lg>
+<l>Og græd ei sor den unge,</l>
+<l>Skjøndt hun blev Dødens Rov!</l>
+<l>Med Livet paa sin Tunge,</l>
+<l>Han siger "<hi rend="spaced">Pigen sov</hi>!"</l>
+</lg>
+<lg>
+<l>Da høres Engle-Latter</l>
+<l>Ved Sang om Kvinden fin,</l>
+<l>Og om <hi rend="spaced">Ja i ri</hi> Datter,</l>
+<l>Som Gud gav Haanden sin!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

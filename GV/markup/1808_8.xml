@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title></title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2009-10-07"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="008"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1808">1808</date>
+			</publicationStmt>
+			 <sourceDesc>
+			  <p>[Source decription]</p>
+			 </sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1808_8_page0001.png"/>
+			<fw type="pageNum">1508</fw>
+				<docTitle>
+	<titlePart type="main"></titlePart>
+</docTitle>
+</titlePage>
+</front>
+<body>
+<div>
+<pb facs="1808_8_page0001.png"/>
+<fw type="pageNum">1508</fw>
+<head>Til Arlichinos Forfatter.</head>
+<lg>
+<l>Du som saa komisk Dig selv tør maale med Re-muses Kæmpe;</l>
+<l>Du som  os lærer  saa klog:  Latter er til - for at le;</l>
+<l>O gid Du  kunde  saa let Din komiske  Stolthed neddæmpe.</l>
+<l>Som vores Latter vi kan,  naar vi Din Harlikin se !!!</l>
+</lg>
+<p><hi rend="align(right)">Nic. Fred. Sev. Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

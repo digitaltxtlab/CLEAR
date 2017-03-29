@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Dansk Kirketidende.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-22"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="015"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1849">1849</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1849_15_page0001.png"/>
+			<fw type="pageNum">201-202</fw>
+				<docTitle>
+	<titlePart type="main">Dansk Kirketidende.<lb/></titlePart>
+	<titlePart type="sub"><lb/></titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition>5te Bind. Fjerde Søndag i Advent den 23 December. Nr. 12.</docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace></pubPlace>.
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Julevers.</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">G</hi>uds Engle i Flok! synger listig i Kor,</l>
+<l>Som den første Jul,</l>
+<l>Om Barnet, Gudsbarnet, som fodtes paa Jord,</l>
+<l>Om <hi rend="spaced">Jesus</hi>, vor Helt og vor Herre!</l>
+</lg>
+<lg>
+<l>Guds-Folket paa Jord! tager Barnet i Favn,</l>
+<l>Som den første Jul!</l>
+<l>Med Fred kom vor Frelser i Faderens Navn:</l>
+<l>Nor <hi rend="spaced">Jesus</hi>, vor Helt og vor Herre!</l>
+</lg>
+<lg>
+<l>Al Æren er Guds over høieste Sky</l>
+<l>For den glade Jul,</l>
+<l>I Billede sit har Han skabt os paany</l>
+<l>Med <hi rend="spaced">Jesus</hi>, vor Helt og vor Herre!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<head>Lovsang.</head>
+<head>efter Ps. 92.</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">H</hi>erre! med dit Skaberværk</l>
+<l>Du mit Hjerte har forlystet,</l>
+<l>Og din Kæmpearm fuldstærk</l>
+<l>Glædet har min Sjæl og trøstet;</l>
+<l>Almagts Storværk er din Daad,</l>
+<l>Viisdoms Dyb er dine Naad!</l>
+</lg>
+<lg>
+<l>Godt det giør at prise Dig,</l>
+<l>Om dit store Navn at sjunge;</l>
+<l>Naade din og Sandhed mig</l>
+<l>Ligge Nat og Dag paa Tunge,</l>
+<l>Bryde ud i Psalmesang,</l>
+<l>Smelte hen i Harpeklang!</l>
+</lg>
+<lg>
+<l>Taaben ene veed det ei,</l>
+<l>Vanvid kun det ei kan skiønne:</l>
+<l>Stakket Dands paa Syndens Vei</l>
+<l>Gaaer igiennem Enge grønne,</l>
+<l>Uret visner og forgaaer,</l>
+<l>Evig, Herre! Du bestaaer!</l>
+</lg>
+<lg>
+<l>Dine Fiender med et Slag</l>
+<l>Som en Avnehob adspredes,</l>
+<l>Men dit gamle Vennelag</l>
+<l>Som din Himmels Lys udbredes,</l>
+<l>Alderdommen rosenlig</l>
+<l>Rødmer skiønt i Pagt med Dig!</l>
+</lg>
+<lg>
+<l>Staaer din Ven i Genlighed,</l>
+<l>Mellem grumme Fiender mange,</l>
+<l>Kan, naar selv Du giør ham vred,</l>
+<l>Som Eenhjørninger han stange,</l>
+<l>Og trods stolte Fienders Brall,</l>
+<l>Seer hans Die deres Fald!</l>
+</lg>
+<lg>
+<l>Over deres sjunkne Grav,</l>
+<l>Der er Dig og Dine gramme,</l>
+<l>Som det bruser over Hav,</l>
+<l>Naar din Himmel staaer i Flamme,</l>
+<l>Til din Priis og Dines Fryd</l>
+<l>Sandhed skal faae Ørenlyd!</l>
+</lg>
+<lg>
+<l>Den Retfærdige for Dig</l>
+<l>Skal som Palmen Blomster sætte,</l>
+<l>Staae som Ceder-Stammen rig</l>
+<l>Mellem Hjerteskud fuldtætte;</l>
+<l>Dine Drivhus-Planter stolt</l>
+<l>Groe i Friland vinterkoldt!</l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

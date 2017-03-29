@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title></title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2009-10-07"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="004"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1808">1808</date>
+			</publicationStmt>
+			 <sourceDesc>
+			  <p>[Source decription]</p>
+			 </sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1808_4_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main"></titlePart>
+</docTitle>
+</titlePage>
+</front>
+<body>
+<div>
+<pb facs="1808_4_page0001.png"/>
+<p>I Anledning af Hr. Rasks Fremfærd i Urstriden, og hans tvetydige Anmærkning om splinterny Opdagelser i Mytologien.</p>
+<lg>
+<l>Et er at tyde i en islandsk Bog,</l>
+<l>Et andet er at være Mystagog,</l>
+<l><hi rend="align(right)">Og jeg paa egen Regning troer,HDer vil lidt mere til end Ord,</hi></l>
+<l><hi rend="align(right)">For at indkomme</hi></l>
+<l><hi rend="align(right)">I Islands Helligdomme; *)</hi></l>
+<l><hi rend="align(right)">Samt at der fra Partiklen: ur</hi></l>
+<l><hi rend="align(right)">Er saare langt til Burr. **)</hi></l>
+<l><hi rend="align(right)">Endvidere jeg troer.</hi></l>
+<l><hi rend="align(right)">Man neppe vorder stor</hi></l>
+<l><hi rend="align(right)">Ved blot at kløve Ord,</hi></l>
+<l><hi rend="align(right)">Undtagen - det er sandt -</hi></l>
+<l><hi rend="align(right)">En stor - Pedant.</hi></l>
+</lg>
+<p>*) At Hr. Professor Nyerup kunde spaae meget af hr. Rasks tidlige Kundskab i det islandske Sprog, kan jeg godt begribe; men om Hr. Rask har For-stand til at bruge sin Sprogkundskab og Genie til at besjæle den, det maa Tiden lære.</p>
+<p>**) Asernes Stamfader.</p>
+<p><hi rend="align(right)">Nic. Fred. Sev. Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

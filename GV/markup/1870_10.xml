@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Sjælens Øie.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-26"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="010"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1870">1870</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1870_10_page0001.png"/>
+			<fw type="pageNum">441</fw>
+				<docTitle>
+	<titlePart type="main"><lb/></titlePart>
+	<titlePart type="sub"><lb/></titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<docImprint>
+				<pubPlace></pubPlace>.
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Sjælens Øie.</head>
+<head>(1856.)</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">G</hi>uds Søn har selv os sagt, han kom</l>
+<l>Til Verden med en sær Guds Dom</l>
+<l>For Seende og Blinde:</l>
+<l>De Høitoplyste skal faae Stær,</l>
+<l>De Blinde, som har Sandhed kjær,</l>
+<l>Skal Syn for Sandhed vinde!</l>
+</lg>
+<lg>
+<l>Han er det sande Nyaars-Ny,</l>
+<l>Men Himlens Lys er svøbt i Sky,</l>
+<l>Som han i Krybberummet;</l>
+<l>Selv Falke-Øine seer det ei,</l>
+<l>At der er Lys paa Livets Vei</l>
+<l>I Evangeliummet!</l>
+</lg>
+<lg>
+<l>Paa Troens og paa Korsets Ord</l>
+<l>Iaar forarge som ifjor</l>
+<l>Sig alle Verdens Vise;</l>
+<l>I Naadens Lys og Øiemed</l>
+<l>De seer kun idel Daarlighed,</l>
+<l>Og den Oplysning prise.</l>
+</lg> 
+<pb facs="1870_10_page0002.png"/>
+<fw type="pageNum">442</fw>
+<lg>
+<l>Men hvor i Sjæle-Mørkets Vaar</l>
+<l>Dog ømt og ærlig Hjerter slaae,</l>
+<l>Der skaber Gud et Øie</l>
+<l>For Sandheds Magt og Naadens Glands</l>
+<l>Og Kjærlighedens Straalekrands,</l>
+<l>For Lyset fra det Høie.</l>
+</lg>
+<lg>
+<l>Selvklogskab blindes af Guds Lyn,</l>
+<l>Enfoldighed faaer deraf Syn,</l>
+<l>Det kan ei Andet være;</l>
+<l>Thi see og høre, leve, døe,</l>
+<l>Vi skal paa denne Verdens 0</l>
+<l>Til Guds, vor Skabers Ære!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

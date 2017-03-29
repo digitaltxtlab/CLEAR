@@ -1,0 +1,1717 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI PUBLIC "-// NSL Norge //EN" "http://www.bokselskap.no/tekstkoding/NSL_tei_xinclude.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="BS_Heiberg_TanteUlrikke">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>bokselskap.no, 2015
+<lb/>Gunnar Heiberg: <hi rend="italic">Tante Ulrikke</hi>
+<lb/>Teksten i bokselskap.no f&#x00F8;lger 1. utgave, 1884 (Philipsen, Kj&#x00F8;benhavn). Digitaliseringen er basert p&#x00E5; fil mottatt fra Nasjonalbiblioteket (nb.no)
+<lb/>ISBN: 978-82-8319-231-5 (digital, bokselskap.no), 978-82-8319-232-2 (epub), 978-82-8319-233-9 (mobi)
+</title>
+</titleStmt>
+<publicationStmt>
+<p>Publiseres som digital tekst av bokselskap.no.</p></publicationStmt>
+<sourceDesc>
+<p>digibok_2013080708010.epub (mottatt fra Nasjonalbiblioteket 20144)</p>
+</sourceDesc>
+</fileDesc>
+<revisionDesc>
+<change who="ENW" when="2015-03-31">Lagt inn korrekturrettelser (HBD). Lagt inn innholdsfortegnelse og ref-koding. Entiteter. Kodekontroll og validering.</change>
+<change xml:id="ENW" who="ENW" when="2015-01-22">XML-koding. Klar for korrektur. Gjenst&#x00E5;r: innholdsfortegnelse, entiteter (OBS, en del &#x00F8;&#x0027;er er blitt ?-tegn).</change>
+</revisionDesc>
+</teiHeader>
+<text xml:id="BS_Heiberg_TanteUlrikke_tekst" type="drama">
+<front>
+<titlePage type="main">
+<byline><docAuthor>Gunnar Heiberg</docAuthor></byline>
+<docTitle>
+<titlePart type="main">Tante Ulrikke</titlePart>
+<titlePart type="sub">Skuespil i fire akter</titlePart>
+</docTitle>
+<lb/><docDate>bokselskap.no<lb/>Oslo 2015</docDate>
+</titlePage>
+<div xml:id="contents">
+<list type="contents_main">
+<item><ref target="chapter_1" xml:id="contents_1">Personerne</ref></item>
+<item><ref target="chapter_2" xml:id="contents_2">F&#x00F8;rste akt</ref></item>
+<item><ref target="chapter_3" xml:id="contents_3">Anden akt</ref></item>
+<item><ref target="chapter_4" xml:id="contents_4">Tredje akt</ref></item>
+<item><ref target="chapter_5" xml:id="contents_5">Fjerde akt</ref></item>
+</list>
+</div>
+<castList>
+<head type="main"><ref type="contents" target="contents_1" xml:id="chapter_1">PERSONERNE</ref></head>
+<castItem><role>Professor Blom</role>.</castItem>
+<castItem><role>Fru Blom</role>.</castItem>
+<castItem><role>Helene</role>, <roleDesc>deres datter</roleDesc>.</castItem>
+<castItem><role>Tante Ulrikke</role>, <roleDesc>fruens s&#x00F8;ster, l&#x00E6;rerinde p&#x00E5; et d&#x00F8;vstummeinstitut</roleDesc>.</castItem>
+<castItem><role>Statsr&#x00E5;d Stabel</role>.</castItem>
+<castItem><role>Ejvind Stabel</role>, <roleDesc>cand. philos., hans s&#x00F8;n</roleDesc>.</castItem>
+<castItem><role>Advokat Str&#x00F8;m</role>.</castItem>
+<castItem><role>Student Frederiksen</role>.</castItem>
+<castItem><role>Stud. jur. A. Str&#x00F8;m</role>, <role>stud. jur. P. Str&#x00F8;m</role> og <role>andre deltagere i m&#x00F8;det i 3die akt</role>.</castItem>
+</castList>
+</front>
+<body>
+<div type="chapter" subtype="act" n="1">
+<head type="main"><ref type="contents" target="contents_2" xml:id="chapter_2">F&#x00D8;RSTE AKT</ref></head>
+<lb/><stage>Eftermiddag i professor Bloms dagligstue, der er rigt udstyret; v&#x00E6;sentlig m&#x00F8;rke farver. Midt i stuen bord med l&#x00E6;nestole og en puf. I forgrunden til h&#x00F8;jre sybord. Til venstre ligeoverfor en pat&#x00E9;e. P&#x00E5; v&#x00E6;ggen kolossalfotografier fra Rom samt Thorvaldsens &#x00AB;Natten&#x00BB; og &#x00AB;Dagen&#x00BB; i stort format. I baggrunden f&#x00F8;rer en d&#x00F8;r ind til professorens studerev&#x00E6;relse, som er overfl&#x00F8;dig udstyret med b&#x00F8;ger, papirer, skrivestel; en stor Pallas Athene over skrivebordet. P&#x00E5; v&#x00E6;ggen til venstre d&#x00F8;r ud til entr&#x00E9;en, p&#x00E5; h&#x00F8;jre d&#x00F8;r ind til spisestuen.</stage>
+<stage>Det er i m&#x00F8;rkningen. Professor Blom og Fru Blom sidder p&#x00E5; hver sin side af bordet, hvorp&#x00E5; kaffestel med stor maskine; bag denne st&#x00E5;r Helene.</stage>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Forbyde ham huset kan jeg naturligvis ikke. Han er jo s&#x00F8;n af min gamle ven Stabel. Men det er en l&#x00F8;s, upaalidelig person. Jeg vil ikke tale om hans anskuelser &#x2013; men rent privat! Han skylder jo gud og hvermand. Advokat Str&#x00F8;m f. ex.</p></sp>
+<lb/><sp><speaker>Fru Blom.</speaker>
+<p>Men kan da ikke gamle Stabel hj&#x00E6;lpe ham?</p></sp>
+<lb/><sp><speaker><pb n="2"/>Blom.</speaker>
+<p>Du v&#x00E9;d, Stabels aff&#x00E6;rer er ikke videre; &#x2013; <emph>det</emph> er i det hele taget det uheldige ved vore ledende m&#x00E6;nd baade p&#x00E5; det ene og det andet parti &#x2013; n&#x00E5;! <emph>her</emph> kan det imidlertid baade forklares og undskyldes. Og desuden &#x2013; han er jo snart tredive &#x00E5;r. Str&#x00F8;m, hvem han formelig har narret til at l&#x00E5;ne sig nogle hundrede kroner siger, at Ejvind Stabels eneste indt&#x00E6;gt best&#x00E5;r i, at han averterer gratis i nogle radikale aviser &#x2013; efter manuduktion, ser du.</p></sp>
+<lb/><sp><speaker>Fru Blom.</speaker>
+<p>Men s&#x00E5; har han vel elever?</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Han havde en i norsk, som ikke betalte, fordi han str&#x00F8;g til artium. Saa fort&#x00E6;ller Str&#x00F8;m idetmindste. <stage>(rejser sig).</stage> Giv mig en dr&#x00E5;be til min cigar. <stage>(Helene skj&#x00E6;nker).</stage> Jeg f&#x00E5;r ind til afhandlingen. Klokken er blit mange. <stage>(Til Helene)</stage> Det er noget andet, det, de gamle Gr&#x00E6;kere &#x2013; end folket og selvstyre og Ejvind Stabel og alt det. <stage>(ind p&#x00E5; kontoret).</stage></p></sp>
+<lb/><sp><speaker>Fru Blom.</speaker>
+<p>Far har vist ret &#x2013; Ejvind Stabel er vist en l&#x00F8;s, up&#x00E5;lidelig person &#x2013; og det ikke bare i pengesager. &#x2013; Jeg synes, det er underligt, at ikke du ogs&#x00E5; har lagt m&#x00E6;rke til det. &#x2013; Jeg tror ikke p&#x00E5; ham.</p></sp>
+<lb/><sp><speaker><pb n="3"/>Helene.</speaker>
+<p>Hvorfor siger du mig alt dette?</p></sp>
+<lb/><sp><speaker>Fru Blom.</speaker>
+<p>For at advare dig Helene. Pas dig.</p></sp>
+<lb/><sp><speaker>Helene.</speaker>
+<p>Jeg beh&#x00F8;ver ingen advarsler.</p></sp>
+<lb/><sp><speaker>Fru Blom.</speaker>
+<p>Jo du gj&#x00F8;r &#x2013; jeg har nok m&#x00E6;rket &#x2013;</p></sp>
+<lb/><sp><speaker>Helene.</speaker>
+<p>Nej, nej, det er ikke s&#x00E5;!</p></sp>
+<lb/><sp><speaker>Fru Blom.</speaker>
+<p>Jo Helene jo; men vogt dig. Slige m&#x00E6;nd har stor magt over os. <emph>Jeg</emph> v&#x00E9;d det. De lover s&#x00E5; stort og vi blir &#x00F8;re af den dur af ord, som vi s&#x00E5; gjerne lar suse os om &#x00F8;rene. Og s&#x00E5; en vakker dag, n&#x00E5;r de skal l&#x00F8;se ind sine l&#x00F8;fter, &#x2013; han minder mig saa levende om sin far, dengang han var ung, &#x2013; og de andre unge p&#x00E5; den tid.</p></sp>
+<lb/><sp><speaker>Helene.</speaker>
+<p>Mor, jeg forst&#x00E5;r hvem du mener, &#x2013; far og Stabel og de andre, som skrev adresser og holdt taler for Danmark &#x2013; men ikke noget fik de sat igjennem, og selv gik de ikke med i krigen. Du og jeg pilte charpi &#x2013; jeg husker det godt, skj&#x00F8;nt jeg var ganske liden &#x2013; og jeg forst&#x00E5;r <pb n="4"/>ogsaa, hvorfor du bestandig var saa bleg og alvorlig dengang, nu forstaar jeg det.</p></sp>
+<lb/><sp><speaker>Fru Blom.</speaker>
+<p>Hys, hys &#x2013; ikke saa ivrig, Helene. Det er urigtigt af mig at tale slig <stage>(gir hende noget garn at holde)</stage> &#x2013; men jeg er bange for denne Ejvind Stabel. Din far er en saa fin, nobel, human natur, men Ejvind Stabel &#x2013; jeg tror ikke p&#x00E5; alt dette frihedssnakket hans.</p></sp>
+<lb/><sp><speaker>Helene.</speaker>
+<p>End far da! Jeg har l&#x00E6;st i gamle aviser, hvorledes han snakkede oppe i studentersamfundet. Men det var dengang, han var ung. Herhjemme har han aldrig talt om frihed &#x2013; hverken i det ene eller andet. Ikke for det, der blev saam&#x00E6;n aldrig talt om det p&#x00E5; skolen heller &#x2013; &#x00E5; jo kanske langt, langt tilbage i historien, dengang vi havde om Gr&#x00E6;kerne og Perserne, men det tabte sig ialfald indover tiden &#x2013; jeg tror, vi l&#x00E6;ste om den franske revolution, uden at det ord blev n&#x00E6;vnt. Men alvorlig talt, jeg skylder Ejvind og tante Ulrikke saa meget; det er nu engang dem, som har givet mig interesse for det, som er oppe i tiden.</p></sp>
+<lb/><sp><speaker>Fru Blom.</speaker>
+<p>Det er ikke far og jeg, mener du. &#x2013; Nej, nej, det er nok s&#x00E5;.</p></sp>
+<lb/><sp><speaker><pb n="5"/>Helene.</speaker>
+<p>Er du ikke sv&#x00E6;rt glad i tante?</p></sp>
+<lb/><sp><speaker>Fru Blom.</speaker>
+<p>Jo &#x2013; jovist.</p></sp>
+<lb/><sp><speaker>Helene.</speaker>
+<p>Jamen du skulde holde meget mere af hende. Jeg synes, at b&#x00E5;de du og far ligesom er lidt kolde mod hende. Slig som hun er mod de d&#x00F8;vstumme, og slig som hun g&#x00E5;r omkring hos fattigfolk og steller og hj&#x00E6;lper &#x2013; hvad gj&#x00F8;r det s&#x00E5;, om hun er lidt underlig.</p></sp>
+<lb/><sp><speaker>Fru Blom.</speaker>
+<p>Ja men Helene &#x2013; far har ret i &#x2013; du har ikke godt af at v&#x00E6;re saa meget sammen med tante. Der er da andre mennesker, som du kan tale med, og som har interesse for det, som &#x2013; som er oppe i tiden, som du siger.</p></sp>
+<lb/><sp><speaker>Helene.</speaker>
+<p>Men hvem? hvem? Der er jo ingen andre end tante og Ejvind Stabel. Far bare smiler af mig, og jeg har ingen veninder l&#x00E6;nger; og der er jo n&#x00E6;sten ingen herrer, som taler til mig heller, de synes naturligvis, jeg er kjedelig &#x2013; og det endskj&#x00F8;nt jeg blir jo en rig arving.</p></sp>
+<lb/><sp><speaker>Fru Blom.</speaker>
+<p>Men kanske det netop er derfor, at Ejvind Stabel &#x2013;</p></sp>
+<lb/><sp><speaker><pb n="6"/>Helene.</speaker>
+<p>Fy, mor, tal ikke slig om ham.</p></sp>
+<lb/><sp><speaker>Fru Blom.</speaker>
+<p>Der kan du se, hvor ivrig du blir. &#x2013; &#x2013; Ja jeg kan ikke hj&#x00E6;lpe.</p></sp>
+<lb/><sp><speaker>Helene.</speaker>
+<p>Nej, det kan du ikke <stage>(Fruen ser hurtig hen p&#x00E5; hende).</stage> Ja, kj&#x00E6;re mor, det var ikke s&#x00E5;, jeg mente. <stage>(G&#x00E5;r hen og kysser hende).</stage></p></sp>
+<stage>Professor Blom ind.</stage>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Men h&#x00F8;rer I da ikke, det ringer.</p></sp>
+<stage>En Pige kommer ind fra spisestuen og g&#x00E5;r ud i entr&#x00E9;en. Lidt efter Statsr&#x00E5;den ind. Fruen kalder p&#x00E5; pigen, som b&#x00E6;rer kaffestellet ud og strax efter kommer ind med lampen.</stage>
+<lb/><sp><speaker>Statsr&#x00E5;den</speaker>
+<stage>(trykker fruens h&#x00E5;nd).</stage>
+<p>Skal hilse s&#x00E5; meget fra min frue. <stage>(trykker Helenes h&#x00E5;nd).</stage> Hvor ser De rask og godt ud! <stage>(til Blom)</stage> Godaften du. Jeg vilde gjerne tale med dig.</p></sp>
+<lb/><sp><speaker>Fruen.</speaker>
+<p>F&#x00F8;lger du med ud i kj&#x00F8;kkenet, Helene?</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Jeg fordriver vel ikke damerne?</p></sp>
+<lb/><sp><speaker>Fruen.</speaker>
+<p>Nej langtfra &#x2013; jeg skal ud og stelle til aften. <stage>(Begge damer g&#x00E5;r).</stage></p></sp>
+<lb/><sp><speaker><pb n="7"/>Blom.</speaker>
+<p>N&#x00E5; v&#x00E6;rs&#x00E5;god, s&#x00E6;t dig ned, du er s&#x00E5; urolig.</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Ja jeg har som sagt meget vigtige ting at tale med dig om. Du v&#x00E9;d statsr&#x00E5;d Lie er meget syg.</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Ja.</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Det er h&#x00F8;jst sandsynligt, at han ikke lever ugen ud.</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Jas&#x00E5;. Det er da s&#x00F8;rgeligt &#x2013; og hans kone stakkar?</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Hun fik telegram netop ved middagstider og var meget bleg og bekymret. Det v&#x00E6;rste var at befrygte.</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Men rejser hun da ikke ned til Carlsbad?</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Hun skal ha en liden.</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>&#x00C5; ja s&#x00E5;. Men det var det vigtige, du vilde sige mig. Undskyld, kanske jeg afbr&#x00F8;d.</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Det var netop dette.</p></sp>
+<lb/><sp><speaker><pb n="8"/>Blom.</speaker>
+<p>Hvad?</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Den post, som alts&#x00E5; blir ledig ved statsr&#x00E5;d Lies eventuelle d&#x00F8;d, &#x2013; skulde ikke du, Blom?</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Jeg?</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Ja netop du, &#x2013; vilde ikke netop det v&#x00E6;re en virkekreds for dig?</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Men Stabel, hvor vil du hen &#x2013; jeg har jo aldrig egentlig beskj&#x00E6;ftiget mig med politik.</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Politik. Havde jeg nogensinde beskj&#x00E6;ftiget mig med politik, da jeg blev kaldt til hans majest&#x00E6;ts r&#x00E5;d?</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Jamen alligevel!</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Ingen falsk beskedenhed. Jeg har allerede talt med flere af mine kolleger og nu ieftermiddag med hs. exc. statsministeren, og ingen af dem var uvillige.</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Ikke det?</p></sp>
+<lb/><sp><speaker><pb n="9"/>Statsr&#x00E5;den.</speaker>
+<p>Blom! Hs. exc. blir gammel nu. Han fylder i&#x00E5;r de 80, s&#x00E5; det varer vel ikke mange &#x00E5;r, f&#x00F8;r han ans&#x00F8;ger hans majest&#x00E6;t om afsked. Selv har han sl&#x00E5;t p&#x00E5; statsr&#x00E5;d Bornemann eller mig som sin eftermand. Hvem vilde du anse for mest skikket?</p></sp>
+<lb/><sp><speaker>Blom</speaker>
+<stage>(t&#x00E6;nkende).</stage>
+<p>Ja! &#x2013; ja!? &#x2013; Bornemann eller du? &#x2013;</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>N&#x00E5; ja, den tid, den &#x2013; sorg. Modtag imidlertid denne post. Du skylder &#x2013; ja rent ud, du skylder landet det offer. Vi blir f&#x00E6;rre &#x00E5;r for &#x00E5;r, vi, hvem landets sande vel ligger p&#x00E5; hj&#x00E6;rte. Vi tr&#x00E6;nger uafh&#x00E6;ngige, dannede, h&#x00E6;derlige m&#x00E6;nd som du.</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Men mangler I da slige?</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Mangler. Hvor kan du sp&#x00F8;rge.</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Du siger, at I tr&#x00E6;nger &#x2013;</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Synes du, det er et passende &#x00F8;jeblik at komme med ordkl&#x00F8;verier.</p></sp>
+<lb/><sp><speaker><pb n="10"/>Blom.</speaker>
+<p>Det var sandelig ikke s&#x00E5; ment &#x2013; undskyld. <stage>(ser ned; skraber med det ene ben p&#x00E5; gulvet).</stage> Tror du virkelig, at f&#x00E6;drelandet &#x2013;</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Ja, f&#x00E6;drelandet kr&#x00E6;ver dette offer af dig.</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Er han alts&#x00E5; meget syg?</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Meget farlig syg. Fru Lie ser overordentlig bekymret ud. Overordentlig bekymret. Frygtede det v&#x00E6;rste, det allerv&#x00E6;rste.</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>D&#x00F8;den?</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Ja &#x2013; d&#x00F8;den.</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Stakkels kone.</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Du har ret.</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Ja, vi f&#x00E5;r med guds hj&#x00E6;lp h&#x00E5;be det bedste.</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Ja, vi f&#x00E5;r h&#x00E5;be det bedste.</p></sp>
+<lb/><sp><speaker>Blom</speaker>
+<stage>(hurtig).</stage>
+<p>Ja, kj&#x00E6;re, ikke s&#x00E5; at forst&#x00E5; &#x2013;</p></sp>
+<lb/><sp><speaker><pb n="11"/>Statsr&#x00E5;den.</speaker>
+<p>Nej, naturligvis.</p></sp>
+<stage>(Liden pause).</stage>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Kirkedepartementet?</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Kirkedepartementet!</p></sp>
+<lb/><sp><speaker>Blom</speaker>
+<stage>(r&#x00E6;kker h&#x00E5;nden ud).</stage>
+<p>Gamle ven!</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den</speaker>
+<stage>(trykker Bloms h&#x00E5;nd).</stage>
+<p>Gamle ven!</p></sp>
+<lb/><sp><speaker>Blom</speaker>
+<stage>(peger mod kontoret).</stage>
+<p>En cigar?</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Tak.</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p><emph>Udm&#x00E6;rket</emph> cigar.</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den</speaker>
+<p>&#x2013; Du, s&#x00E5; var det min store obligation; den forfalder nu p&#x00E5; mandag &#x2013; <stage>(de g&#x00E5;r mod kontoret).</stage></p></sp>
+<stage>Ejvind Stabel ind. Der vexles h&#x00E5;ndtryk.</stage>
+<lb/><sp><speaker>Blom.</speaker>
+<p>N&#x00E5;, er De kommet hjem?</p></sp>
+<lb/><sp><speaker>Ejvind.</speaker>
+<p>Ja jeg kom iformiddag. Professoren befinder sig vel &#x2013; og familjen har det godt?</p></sp>
+<lb/><sp><speaker><pb n="12"/>Statsr&#x00E5;den.</speaker>
+<p>Hvorledes har du havt det i sommer?</p></sp>
+<lb/><sp><speaker>Ejvind.</speaker>
+<p>Jo tak. End du?</p></sp>
+<stage>Blom ind paa kontoret.</stage>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Jo s&#x00E5;m&#x00E6;n. &#x2013; L&#x00E5; du p&#x00E5; den samme g&#x00E5;rden hele tiden?</p></sp>
+<lb/><sp><speaker>Ejvind.</speaker>
+<p>Nej. Jeg rejste omkring. Jeg har arbejdet st&#x00E6;rkt.</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Arbejdet? P&#x00E5; hvad?</p></sp>
+<lb/><sp><speaker>Ejvind.</speaker>
+<p>P&#x00E5; valgene &#x2013; bare agitert i stilhed forresten. Familjen er ikke prostitueret &#x2013;</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Alvorlig talt, Ejvind. Agter du ikke at ta dig noget alvorligt for?</p></sp>
+<lb/><sp><speaker>Ejvind.</speaker>
+<p>Alvorligt! Jeg tjener mit land p&#x00E5; min m&#x00E5;de. Desuden blir det ikke l&#x00E6;nge, f&#x00F8;r min roman kommer.</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Er du f&#x00E6;rdig med den?</p></sp>
+<lb/><sp><speaker><pb n="13"/>Ejvind.</speaker>
+<p>Ja &#x2013; det vil sige &#x2013; jeg har ikke skrevet det ned altsammen &#x2013; men jeg har det klart, hvorledes det skal v&#x00E6;re &#x2013; altsammen.</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Hvad skal du leve af nu i vinter? De vilde jo ikke ha dig l&#x00E6;nger i Eders v&#x00E6;rdige organ &#x2013; du var for doven, har man fortalt mig.</p></sp>
+<lb/><sp><speaker>Ejvind.</speaker>
+<p>Doven! Ja, de kaldte det doven; men sagen var, de betalte ikke, &#x2013; og desuden var der meningsforskjel.</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Der har v&#x00E6;ret i dusinvis af dine regninger, mens du har v&#x00E6;ret borte, og jeg <emph>kan</emph> ikke betale, jeg <emph>har</emph> ikke penge. S&#x00E5;l&#x00E6;nge jeg lever, kan du jo bo hos mig, men &#x2013;</p></sp>
+<lb/><sp><speaker>Ejvind.</speaker>
+<p>&#x00C5; min tid kommer nok. Desuden &#x2013; jeg har jo min korrespondentvirksomhed.</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Til radikale provinsaviser &#x2013; jo det skal du bli fed af. Jeg tror formelig, jeg havde foretrukket, at du var vedblit med dette folkeh&#x00F8;jskolel&#x00E6;reriet fremfor, at du aldeles ingenting bestiller.</p></sp>
+<lb/><sp><speaker><pb n="14"/>Ejvind.</speaker>
+<p>Gudsforholdet er blit et andet med mig, siden jeg var folkel&#x00E6;rer.</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Gudsforholdet! Folkel&#x00E6;rer! Gudbevare mig vel. &#x2013; Du kan f&#x00E5; en plads i mit departement; ta den, f&#x00F8;r det blir for sent.</p></sp>
+<lb/><sp><speaker>Ejvind.</speaker>
+<p>Jeg tjener ikke det nuv&#x00E6;rende ministerium.</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Du gider ikke arbejde, far. Det er sagen. Man kan da ogs&#x00E5; bli &#x00E6;rgerlig. Ja tr&#x00E6;k p&#x00E5; skuldrene af din far, s&#x00E5; meget du vil. V&#x00E6;rs&#x00E5;god! Det er dog for din skyld, jeg taler.</p></sp>
+<lb/><sp><speaker>Ejvind.</speaker>
+<p>Livets vilk&#x00E5;r og livets krav er andre for den yngre sl&#x00E6;gt.</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den</speaker>
+<stage>(stiller sig bag Ejvinds stol).</stage>
+<p>Sig mig Ejvind. Tar jeg fejl, n&#x00E5;r jeg tror at ha lagt m&#x00E6;rke til, med forn&#x00F8;jelse at ha lagt m&#x00E6;rke til, at du meget hyppig kommer her i min gamle vens hus, &#x2013; og at det ogs&#x00E5; er af den grund, at du er her nu iaften, lige efter at du er kommet hjem.</p></sp>
+<lb/><sp><speaker><pb n="15"/>Ejvind.</speaker>
+<p>Af den grund? hvilken grund?</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Det vilde inderlig gl&#x00E6;de mig, hvis s&#x00E5; var.</p></sp>
+<lb/><sp><speaker>Ejvind.</speaker>
+<p>Jeg forst&#x00E5;r ikke.</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Jovist forst&#x00E5;r du, &#x2013; og min velsignelse skulde I f&#x00E5;.</p></sp>
+<lb/><sp><speaker>Ejvind.</speaker>
+<p>Jeg kan t&#x00E6;nke mig, hvad du mener; men hvis s&#x00E5; var &#x2013; s&#x00E5; kan jeg forsikre dig, at min kj&#x00E6;rlighed var ren, skinnende ren.</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Det er min tr&#x00F8;st, at s&#x00E5; er, <stage>(l&#x00E6;gger sin h&#x00E5;nd paa hans skulder)</stage> at jeg er sikker paa, at s&#x00E5; er. Jeg skal anvende al min indflydelse hos Blom, som nu engang ikke rigtig kan med dig. Og jeg skulde ta meget fejl, om det ikke skulde lykkes.</p></sp>
+<lb/><sp><speaker>Blom</speaker>
+<stage>(i kontord&#x00F8;ren).</stage>
+<p>N&#x00E5;!</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Nu kommer jeg. For at vende tilbage til det, vi talte om f&#x00F8;r, kj&#x00E6;re Ejvind, din nuv&#x00E6;rende stilling er uholdbar. Noget m&#x00E5; du gj&#x00F8;re. <stage>(ind p&#x00E5; kontoret).</stage></p></sp>
+<lb/><sp><speaker><pb n="16"/>Ejvind.</speaker>
+<p>Stillingen er uholdbar. <stage>(lidt efter bestemt)</stage> Vel! <stage>(hen til spejlet, indtager stillinger, gj&#x00F8;r afvexlende sit ansigt tungsindig-alvorligt og vemodig-blidt).</stage></p></sp>
+<stage>Helene ind, standser et &#x00F8;jeblik.</stage>
+<lb/><sp><speaker>Helene.</speaker>
+<p>Goddag!</p></sp>
+<lb/><sp><speaker>Ejvind.</speaker>
+<stage>(vender sig hurtig).</stage>
+<p>Goddag &#x2013; jeg &#x2013; jeg havde f&#x00E5;t noget sort her lige ved n&#x00E6;sen <stage>(ser sig i spejlet en gang til)</stage> &#x2013; er det af nu? <stage>(gnider sig med lommet&#x00F8;rkl&#x00E6;det)</stage>. Det var vist sod <stage>(tar hendes h&#x00E5;nd, holder den l&#x00E6;nge og ser hende alvorlig i &#x00F8;jet)</stage>. Hvorledes har s&#x00E5; De havt det, fr&#x00F8;ken Helene.</p></sp>
+<lb/><sp><speaker>Helene.</speaker>
+<p>Tak. Og hvorledes har De havt det i sommer?</p></sp>
+<lb/><sp><speaker>Ejvind.</speaker>
+<p>Herligt! Der er noget forj&#x00E6;ttelsesrigt i dette at rejse i vort dejlige land. Indtrykkene samler sig s&#x00E5; m&#x00E6;gtigt i ens sj&#x00E6;l. Lysten v&#x00E5;gner, og evnen &#x00F8;ges til virke for land og folk. Og dog! Der er noget underligt trist i dette, at ingen forst&#x00E5;r en; &#x2013; b&#x00F8;nderne deroppe forstod mig igrunden ikke, &#x2013; og nu far! Det er tungt, ikke at ha sin far p&#x00E5; sin side, n&#x00E5;r slaget k&#x00E6;mpes, &#x2013; det har noget af borgerkrigens r&#x00E6;dsel over sig. Og Deres for&#x00E6;ldre, fr&#x00F8;ken Helene, is&#x00E6;r Deres mor, jeg v&#x00E9;d det godt &#x2013; de har ikke tillid til mig &#x2013; <pb n="17"/>og hvorfor &#x2013; jeg forst&#x00E5;r det ikke. Og s&#x00E5; De selv, De hvem jeg helst af alle &#x2013; og jeg synes dog, jeg har delt med Dem af, hvad jeg kalder min rigdom, min kj&#x00E6;rlighed til friheden og mit luende h&#x00E5;b til fremtiden &#x2013;</p></sp>
+<lb/><sp><speaker>Helene.</speaker>
+<p>Jeg er Dem taknemlig for s&#x00E5; meget.</p></sp>
+<stage>Man h&#x00F8;rer h&#x00F8;jr&#x00F8;stede stemmer fra entr&#x00E9;en.</stage>
+<lb/><sp><speaker>Ejvind</speaker>
+<stage>(n&#x00E6;rmer sig til hende).</stage>
+<p>Fr&#x00F8;ken Helene!</p></sp>
+<lb/><sp><speaker>Helene.</speaker>
+<p>Det er vist tante og advokat Str&#x00F8;m.</p></sp>
+<lb/><sp><speaker>Ejvind</speaker>
+<stage>(lidt forvirret).</stage>
+<p>Advokat Str&#x00F8;m?</p></sp>
+<lb/><sp><speaker>Helene.</speaker>
+<p>Ja &#x2013;</p></sp>
+<lb/><sp><speaker>Ejvind.</speaker>
+<p>Nej det var bare &#x2013; jeg synes han er s&#x00E5;&#x0027;n simplex.</p></sp>
+<stage>Tante Ulrikke og Advokat Str&#x00F8;m kommer samtidig ind af d&#x00F8;ren. De er ivrig optaget af samtalen. Tante Ulrikke har b&#x00F8;ger samt en ridepisk under armen.</stage>
+<lb/><sp><speaker>Tante Ulrikke.</speaker>
+<p>Ja, man m&#x00E5; v&#x00E6;re helt sig selv. Det var som da jeg m&#x00E6;rkede, at kristendommen ikke bar mig <pb n="18"/>l&#x00E6;nger, &#x2013; jeg skyndte mig fra den, som jeg vilde skyndt mig fra et isflag p&#x00E5; Bj&#x00F8;rviken en varm aprildag.</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>Er det bare d&#x00F8;vstumme, De er l&#x00E6;rerinde for, eller gir De undervisning i idioti ogs&#x00E5;?</p></sp>
+<lb/><sp><speaker>Tante Ulrikke.</speaker>
+<p>Der er plads for idioter ogs&#x00E5;.</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>N&#x00E5;, n&#x00E5;, bare ikke hidsig. Jeg skal sige Dem noget, jeg; De har ikke alene alt for mange jern i ilden, De har ogs&#x00E5; altfor meget ild i hjernen.</p></sp>
+<lb/><sp><speaker>Tante Ulrikke.</speaker>
+<p>Gud hvor vittig!</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>&#x00C5; ja, ikke saa v&#x00E6;rst! <stage>(gj&#x00F8;r grimaser med ansigtet og fingrene som til d&#x00F8;vstumme).</stage></p></sp>
+<lb/><sp><speaker>Tante Ulrikke.</speaker>
+<p>&#x00C5; lad v&#x00E6;re med det gaperi. <stage>(hen til Helene; hilser hj&#x00E6;rtelig).</stage></p></sp>
+<lb/><sp><speaker>Str&#x00F8;m</speaker>
+<stage>(hen og trykker Ejvinds h&#x00E5;nd).</stage>
+<p>Goddag, goddag. Gl&#x00E6;der mig overm&#x00E5;de at se Dem igjen. Nu er det &#x2013; lad mig se &#x2013; det er 6, nej 7 afdrag siden jeg havde den forn&#x00F8;jelse at tale med Dem &#x2013; foruden renter og omkostninger.</p></sp>
+<lb/><sp><speaker><pb n="19"/>Ejvind.</speaker>
+<p>Hr. advokat. Det er rigtig kjedeligt. Men nu kommer min bog snart, og da &#x2013;</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>Ja <emph>da</emph> &#x2013; d&#x00F8;d og pine. De har formodentlig brugt mig i romanen ogs&#x00E5; &#x2013; det er jo en roman? &#x2013; Med hud og h&#x00E5;r, som jeg g&#x00E5;r og st&#x00E5;r; &#x2013; det er jo skik nu &#x2013; fin skik! Hul samfundsst&#x00F8;tte! Som gj&#x00F8;r nar ad de unge, varme, &#x00E6;dle fremskridtsm&#x00E6;nd, hva? &#x2013; B&#x00E5;de i literaturen og virkeligheden. Rigtig en fed gris &#x2013; ja jeg for Dem. De skal rigtig ha tak for, at De ikke rent har sl&#x00E5;t h&#x00E5;nden af os gamle.</p></sp>
+<lb/><sp><speaker>Ejvind</speaker>
+<stage>(ler tvungent).</stage>
+<p>Hvor kan De tro.</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>Ha ha. Ja, det er sku ganske morsomt.</p></sp>
+<lb/><sp><speaker>Tante Ulrikke.</speaker>
+<p>Kunde <emph>jeg</emph> f&#x00E5; tale lidt med Ejvind nu? Det er derfor, jeg er kommet hid.</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>De vil kanske skaffe ham en plads p&#x00E5; anstalten &#x2013; ja som l&#x00E6;rer naturligvis.</p></sp>
+<stage>Blom ind fra kontoret; Statsr&#x00E5;den st&#x00E5;r i d&#x00F8;r&#x00E5;bningen.</stage>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Goddag advokat &#x2013; goddag Ulrikke. I fuld kamp.</p></sp>
+<lb/><sp><speaker><pb n="20"/>Str&#x00F8;m</speaker>
+<stage>(f&#x00E5;r &#x00F8;je p&#x00E5; tante Ulrikkes ridepisk.)</stage>
+<p>Men Gud i himlen, hvad er det? Er det den nyeste talemethode for d&#x00F8;vstumme?</p></sp>
+<lb/><sp><speaker>Tante Ulrikke.</speaker>
+<p>Jeg <emph>vil</emph> g&#x00E5; i fred om kvelden. Ja De f&#x00E5;r passe Dem, De ogs&#x00E5; &#x2013; s&#x00E5; De ikke ved en fejltagelse &#x2013;</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Hys da. Helene er jo inde. Skal du ikke ta af dig, Ulrikke?</p></sp>
+<lb/><sp><speaker>Tante Ulrikke.</speaker>
+<p>S&#x00E5; skulde kanske Kristine og Helene og jeg sidde her inde i dagligstuen alene &#x2013; og ta imod visitter hvergang en af herrerne m&#x00E5;tte her igjennem for at &#x2013;</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Men Ulrikke da!</p></sp>
+<lb/><sp><speaker>Ulrikke.</speaker>
+<p>Ud i gangen, mener jeg &#x2013; for at hente noget &#x2013; et lommet&#x00F8;rkl&#x00E6;de, som de har glemt &#x2013; alts&#x00E5; &#x2013;</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>Hem! hem!</p></sp>
+<lb/><sp><speaker>Fruen</speaker>
+<stage>(som netop er kommet ind og har hilst p&#x00E5; de nye gj&#x00E6;ster.)</stage>
+<p>S&#x00E5; ta nu af dig, Ulrikke <stage>(vil ta ridepisken.)</stage></p></sp>
+<lb/><sp><speaker><pb n="21"/>Tante Ulrikke.</speaker>
+<p>Den beholder jeg. Advokaten er her.</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<stage>(truer med fingren).</stage>
+<p>Forf&#x00F8;reriske kvinde!</p></sp>
+<lb/><sp><speaker>Fruen.</speaker>
+<p>Fy advokat. Jeg skal nok f&#x00E5; advokaten til ikke at v&#x00E6;re slem mod dig. Ta s&#x00E5; af dig.</p></sp>
+<lb/><sp><speaker>Tante Ulrikke.</speaker>
+<p>Slem &#x2013; han &#x2013; mod mig. Pyh &#x2013; skidt.</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>Det ord tar sig bedst ud p&#x00E5; d&#x00F8;vstumt. Slig. <stage>(gj&#x00F8;r grimaser).</stage></p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>En cigar, Str&#x00F8;m!</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>Tak. Skal ikke De ha fr&#x00F8;ken. &#x00C5; De forst&#x00E5;r ikke <stage>(sp&#x00F8;r med d&#x00F8;vstummegeb&#x00E6;rder).</stage></p></sp>
+<lb/><sp><speaker>Tante Ulrikke.</speaker>
+<p>Tak. Jeg r&#x00F8;ger ikke. Ejvind, g&#x00E5;r du med p&#x00E5; socialistm&#x00F8;det imorgen.</p></sp>
+<lb/><sp><speaker>Ejvind</speaker>
+<stage>(skv&#x00E6;tter op).</stage>
+<p>Jeg. Nej &#x2013; jeg kan desv&#x00E6;rre ikke. Jeg skal &#x2013; jeg har lovet at bes&#x00F8;rge noget for far imorgen.</p></sp>
+<lb/><sp><speaker><pb n="22"/>Statsr&#x00E5;den.</speaker>
+<p>Hva?</p></sp>
+<lb/><sp><speaker>Ejvind</speaker>
+<stage>(blinker til faderen).</stage>
+<p>Far.</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>Hvormange gange er De pebet ud p&#x00E5; s&#x00E5;danne m&#x00F8;der, som De har sammenkaldt selv?</p></sp>
+<lb/><sp><speaker>Tante Ulrikke.</speaker>
+<p>Syv gange, og en gang peb jeg selv &#x2013; men da var jeg alene &#x2013; der kom ingen folk. Men imorgen skal vi holde det f&#x00F8;rste socialistm&#x00F8;de p&#x00E5; over tyve &#x00E5;r.</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den</speaker>
+<stage>(frem i forgrunden til Blom).</stage>
+<p>Det m&#x00E5; forhindres.</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>M&#x00F8;det?</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Nej, at din svigerinde optr&#x00E6;der. Det vil v&#x00E6;re til hinder for din udn&#x00E6;vnelse.</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Herregud!</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Ikke noget snak. Hvad tror du, man vil sige i Stockholm til, at den nye kirkeministers svigerinde optr&#x00E6;der p&#x00E5; socialistm&#x00F8;der. <stage>(h&#x00F8;jtidelig til <pb n="23"/>tante Ulrikke)</stage> Vel fr&#x00F8;ken! Jeg respekterer Deres personlige anskuelser, men det forekommer mig, at en s&#x00E5;dan optr&#x00E6;den let vilde kunne komme i strid med Deres skolegjerning &#x2013; og De har jo statsbidrag.</p></sp>
+<lb/><sp><speaker>Tante Ulrikke.</speaker>
+<p>Og s&#x00E5; mener De at jeg skulde gj&#x00F8;re alle de d&#x00F8;vstumme barna til socialister!</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Nej, forst&#x00E5; mig ret, De forener Dem jo med fuldst&#x00E6;ndig gudl&#x00F8;se mennesker.</p></sp>
+<lb/><sp><speaker>Tante Ulrikke.</speaker>
+<p>Hvor der ingen religion er, har Gud tabt sin ret.</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Er der ingen religion p&#x00E5; Deres skole?</p></sp>
+<lb/><sp><speaker>Tante Ulrikke.</speaker>
+<p>Jo p&#x00E5; anstalten er de protestanter allesammen. Men jeg mener: jeg og socialisterne. Aanej, far! Jeg skal nok passe min skolegjerning. De skal ikke f&#x00E5; noget at klage. Nej da! <emph>Den</emph> var ikke heldig.</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m</speaker>
+<stage>(spydig til statsr&#x00E5;den).</stage>
+<p>Hun h&#x00E5;ner det helligste.</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Blom!</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Kristine!</p></sp>
+<lb/><sp><speaker><pb n="24"/>Fruen.</speaker>
+<p>Ulrikke. Er det v&#x00E6;rdt, du g&#x00E5;r paa det m&#x00F8;de. Kristian vil det s&#x00E5; n&#x00F8;dig, og han har jo altid v&#x00E6;ret s&#x00E5; snil og human mod dig.</p></sp>
+<lb/><sp><speaker>Tante Ulrikke.</speaker>
+<p>Human han! Han t&#x00E5;ler ikke, at en bog ligger p&#x00E5; maven, den m&#x00E5; ligge p&#x00E5; ryggen <stage>(gj&#x00F8;r bev&#x00E6;gelsen med en bog p&#x00E5; bordet).</stage> S&#x00E5; human er han. Rig men r&#x00E6;d mor! Det er sagen.</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Blom!</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Jeg tror ikke, du g&#x00E5;r, Ulrikke, n&#x00E5;r du h&#x00F8;rer, det kan v&#x00E6;re til skade for mig. Jeg har altid behandlet dig s&#x00E5;ledes &#x2013;</p></sp>
+<lb/><sp><speaker>Tante Ulrikke.</speaker>
+<p>Du er r&#x00E6;d for prostitution for familjen.</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Mere end det, jeg &#x2013;</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Hys! &#x2013;</p></sp>
+<lb/><sp><speaker>Tante Ulrikke.</speaker>
+<p>Dere er r&#x00E6;dde allesammen &#x2013; alle dere gamle; &#x2013; <stage>(til statsr&#x00E5;den)</stage> De skulde tage Deres s&#x00F8;n til exempel, De gamlingen.<note type="footnote">gamlingen.] <hi rend="italic">rettet fra:</hi> gamlingen <hi rend="italic">(mangl. tegnsetting)</hi></note> Er det en af dere, som gider gj&#x00F8;re <pb n="25"/>noget for alle de tusener her i landet, som har det ondt og tr&#x00E6;nger hj&#x00E6;lp &#x2013; direkte gj&#x00F8;re noget &#x2013; ikke bare skrive noget i protokoller &#x2013; men direkte &#x2013; gj&#x00F8;re noget <emph>selv</emph> &#x2013; er det nogen af dere, som elsker Norge s&#x00E5;pas.</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>Elsker Norge. &#x00AB;Elsker, elsker det og t&#x00E6;nker«! Besynderligt konversationsthema.</p></sp>
+<lb/><sp><speaker>Tante Ulrikke.</speaker>
+<p>Elsker Norge ja. Ja, det er besynderligt, at jeg, et gammelt fruentimmer skal st&#x00E5; her og gj&#x00F8;re dere et s&#x00E5;dant sp&#x00F8;rgsm&#x00E5;l og ikke f&#x00E5; noget svar &#x2013; det er komisk.</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>Ja det er komisk.</p></sp>
+<lb/><sp><speaker>Tante Ulrikke.</speaker>
+<p>Her g&#x00E5;r dere s&#x00E5; rolige og forn&#x00F8;jede omkring og er vigtige og g&#x00E5;r i selskaber og s&#x00E5; videre og i theatret og &#x2013; og lader som ingenting og ser ikke, at folk vrir sig i skidt og lugt og svineri.</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>Det var en god mundfuld.</p></sp>
+<lb/><sp><speaker>Tante Ulrikke.</speaker>
+<p>Men kan dere da ikke forst&#x00E5;, at det er rimeligt at v&#x00E6;re som jeg &#x2013; jeg har ikke ro p&#x00E5; <pb n="26"/>mig et &#x00F8;jeblik &#x2013; jeg synes ikke, jeg kan sidde stille et minut om gangen &#x2013; jeg synes, jeg h&#x00F8;rer klynk og tuden i alle kroger. Men v&#x00E6;r sikker, jeg skal g&#x00E5; p&#x00E5; det m&#x00F8;de, og jeg skal fort&#x00E6;lle dem, hvad slags folk dere er.</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Men s&#x00E5; herregud da, Ulrikke; husk p&#x00E5;, du er i en dannet familje.</p></sp>
+<lb/><sp><speaker>Tante Ulrikke.</speaker>
+<p>Du vil m&#x00E5;ske forbyde mig huset, som du nu har hentydet til i mange &#x00E5;r.</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Ja Ulrikke, hvis &#x2013;</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den</speaker>
+<stage>(til Blom).</stage>
+<p>Hys. Diplomatisk. &#x2013; Fr&#x00F8;ken Ulrikke, er det Deres fulde alvor, at De vil g&#x00E5; p&#x00E5; det m&#x00F8;de?</p></sp>
+<lb/><sp><speaker>Tante Ulrikke.</speaker>
+<p>Ja gu er det mit alvor.</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>H&#x00F8;r. Mine damer og herrer. Jeg vil under tausheds l&#x00F8;fte betro Dem en ting. Det er v&#x00E6;sentlig af hensyn til Dem, fr&#x00F8;ken Ulrikke, at jeg gj&#x00F8;r det, og jeg siger det rent ud, det er v&#x00E6;sentlig for om muligen at f&#x00E5; Dem bev&#x00E6;get til at opgive Deres fors&#x00E6;t. <stage>(stille, h&#x00F8;jtidelig).</stage> Det er ikke <pb n="27"/>usandsynligt, at inden en ikke meget fjern fremtid vil hans majest&#x00E6;ts &#x00F8;jne falde paa vor ven professor Blom ved valget af nyt medlem af h&#x00F8;jstsammes r&#x00E5;d <stage>(Udrop af forbauselse og lyk&#x00F8;nskning).</stage></p></sp>
+<lb/><sp><speaker>Str&#x00F8;m</speaker>
+<stage>(trykker Bloms h&#x00E5;nd).</stage>
+<p>Gud v&#x00E9;d, hvorfor ikke du skulde v&#x00E6;re statsr&#x00E5;d.</p></sp>
+<lb/><sp><speaker>Tante Ulrikke.</speaker>
+<p>Hans majest&#x00E6;ts &#x00F8;jne. Ha ha. Skal <emph>du</emph> bli statsr&#x00E5;d. Det er emne som skabt til imorgen &#x2013; jeg skal fort&#x00E6;lle p&#x00E5; m&#x00F8;det, hvad slags folk de s&#x00E6;tter til at styre os her i landet &#x2013; en mand, som gud hj&#x00E6;lpe mig i hele sit liv ikke har gjort andet end skrevet en bog om partikelen ut &#x2013; huttetu &#x2013; og s&#x00E5; v&#x00E6;ret human.</p></sp>
+<lb/><sp><speaker>Fruen.</speaker>
+<p>Det er betroet dig som en hemmelighed.</p></sp>
+<lb/><sp><speaker>Tante Ulrikke</speaker>
+<p>Hemmelighed. Skal det v&#x00E6;re hemmelighed, hvem der skal v&#x00E6;re statsr&#x00E5;d &#x2013; n&#x00E5; ja, det er sandt &#x2013; men &#x2013; men jeg skal sige ting, som er meget v&#x00E6;rre <stage>(sl&#x00E5;r med ridepisken i luften).</stage> Dere skulde ha af denne, magtesl&#x00F8;se magthavere; for nu skal der bli leven her i byen. &#x2013; Adj&#x00F8;. Velkommen p&#x00E5; m&#x00F8;det imorgen, allesammen. <stage>(g&#x00E5;r).</stage></p></sp>
+<lb/><sp><speaker>Str&#x00F8;m</speaker>
+<stage>(halvsagte efter hende).</stage>
+<p>O, var jeg ridepisken p&#x00E5; din &#x2013;</p></sp>
+<lb/><sp><speaker><pb n="28"/>Statsr&#x00E5;den.</speaker>
+<p>Er der da intet som gj&#x00F8;r indtryk p&#x00E5; det menneske.</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>Nej ikke engang hans majest&#x00E6;ts &#x00F8;jne. Det er rigtig et hyggeligt menneske at ha i en familje. Hyggeligt menneske!</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Nu ja, herregud &#x2013; det er vel ikke s&#x00E5; farligt &#x2013; hun er jo &#x2013; <stage>(peger p&#x00E5; panden)</stage> Uf. &#x2013; Lad os nu f&#x00E5; det lidt hyggeligt her.</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Jeg siger dig, Blom, svaghedens tid m&#x00E5; v&#x00E6;re forbi. Humaniteten har ogs&#x00E5; sine naturlige gr&#x00E6;nser.</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>Sp&#x00E6;r hende inde for fanden, og n&#x00E5;r m&#x00F8;det er over, s&#x00E5; exporter hende til Amerika, til miss Woodhull.</p></sp>
+<lb/><sp><speaker>Fruen.</speaker>
+<p>Advokat Str&#x00F8;m. Hun er da min s&#x00F8;ster.</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Ganske rigtig frue. Ingen voldelige midler naturligvis.</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<stage>(rejser sig, frem p&#x00E5; scenen; midt mellem statsr&#x00E5;den og Blom).</stage>
+<p>Tror du, hun g&#x00E5;r p&#x00E5; dette m&#x00F8;de?</p></sp>
+<lb/><sp><speaker><pb n="29"/>Blom.</speaker>
+<p>Tror du, Kristine.</p></sp>
+<lb/><sp><speaker>Fruen.</speaker>
+<p>Ja.</p></sp>
+<stage>Under det f&#x00F8;lgende noget d&#x00E6;mpede men hidsige replikskifte ses Helene at sidde stiv og stille p&#x00E5; stolen ved siden af kontoret i baggrunden. Fruen g&#x00E5;r hen og taler til hende. Helene svarer ikke, men lytter til hvad herrerne siger.</stage>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>Er det til hinder for Bloms udn&#x00E6;vnelse?</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Ja.</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>Skal vi s&#x00E5; holde os til det n&#x00F8;gne faktum; Hun er gal! Hendes galskab g&#x00E5;r ud over dig. Vi s&#x00E6;tter i avisen, at hun er sindssvag.</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den</speaker>
+<p>Det vilde kanske v&#x00E6;re vel h&#x00E5;rdt &#x2013; og det er desuden vel sent, det er jo allerede imorgen, at m&#x00F8;det skal holdes.</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>Det vil i betydelig grad forsvage indtrykket &#x2013; og jeg skal desuden f&#x00E5; mine to brors&#x00F8;nner til at underholde hende, n&#x00E5;r hun optr&#x00E6;der.</p></sp>
+<lb/><sp><speaker>Ejvind</speaker>
+<stage>(temmelig h&#x00F8;jt).</stage>
+<p>Hr. advokat. Hun er fruens s&#x00F8;ster, hun er fr&#x00F8;ken Helenes tante.</p></sp>
+<lb/><sp><speaker><pb n="30"/>Str&#x00F8;m</speaker>
+<stage>(halvsagte).</stage>
+<p>Syv afdrag &#x2013; foruden renter og omkostninger.</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Lad os ikke mere tale om dette. Det lar sig nok arrangere. Hun er jo <stage>(peger p&#x00E5; panden).</stage></p></sp>
+<lb/><sp><speaker>Helene</speaker>
+<stage>(fra stolen ved siden af kontoret; stille).</stage>
+<p>Nej, hun er ikke det.</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Hvad behager?</p></sp>
+<lb/><sp><speaker>Helene.</speaker>
+<p>Jeg siger bare, at tante er ikke gal, og det ved dere selv meget godt. Fy, jeg synes det er skam, far, at det ikke er n&#x00F8;dvendigere, at du blir statsr&#x00E5;d, end at de v&#x00E6;lger en anden bare for tante Ulrikkes skyld. Og hvad galt er der i, at hun g&#x00E5;r p&#x00E5; det m&#x00F8;de. Jeg synes du skulde g&#x00E5; der selv. Du, som skal bli statsr&#x00E5;d, m&#x00E5; vel ha t&#x00E6;nkt lidt over, hvorledes fattigfolk skal f&#x00E5; det bedre, og hvorledes de skal f&#x00E5; mere oplysning og alt det &#x2013; og det kunde du jo <emph>da</emph> give r&#x00E5;d om.</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>Blom p&#x00E5; socialistm&#x00F8;de. Ha, ha.</p></sp>
+<lb/><sp><speaker>Helene.</speaker>
+<p><emph>Det</emph> m&#x00E5; det da v&#x00E6;re, som politiken tilsidst <pb n="31"/>g&#x00E5;r ud p&#x00E5;. &#x2013; Ja v&#x00E6;rs&#x00E5;god, le s&#x00E5;meget dere vil &#x2013; jeg tror nu det alligevel &#x2013;</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>De skulde optr&#x00E6;de selv, fr&#x00F8;ken.</p></sp>
+<lb/><sp><speaker>Helene.</speaker>
+<p>Jeg skal &#x2013; jeg f&#x00F8;lger med tante.</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>Hele familjen p&#x00E5; socialistm&#x00F8;de. Professoren og tante Ulrikke og Helene. De ogs&#x00E5; frue.</p></sp>
+<lb/><sp><speaker>Helene</speaker>
+<stage>(frem).</stage>
+<p>Det er mit alvor. Jeg g&#x00E5;r med tante.</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Blom &#x2013; frue, hvad er det &#x2013; hvad &#x2013;?</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Hun synes synd p&#x00E5; tante, stakkar. Hun holder s&#x00E5; meget af hende.</p></sp>
+<lb/><sp><speaker>Helene</speaker>
+<stage>(halvt i gr&#x00E5;t).</stage>
+<p>Ja jeg holder af tante, meget meget mere end dere nogensinde har gjort, og derfor g&#x00E5;r jeg med hende, og derfor vil jeg forsvare hende mod Deres brors&#x00F8;nner &#x2013; jeg h&#x00F8;rte det godt, hr. advokat &#x2013; og fort&#x00E6;lle, at dere vil s&#x00E6;tte i avisen, at hun er gal &#x2013; for hun er ikke gal &#x2013; &#x00E5; det er stygt, stygt af dere. <stage>(hurtig ud gjennem spisestud&#x00F8;ren).</stage></p></sp>
+<lb/><sp><speaker><pb n="32"/>Str&#x00F8;m.</speaker>
+<p>Det blir nok ikke dig, som blir ber&#x00F8;mt for deltagelse i det offentlige liv, men din datter. Pak portef&#x00F8;ljen sammen. Du f&#x00E5;r vente til n&#x00E6;ste d&#x00F8;dsfald. Det blir nok Stabel, for han ser s&#x00E5; sint ud, at han vist snart f&#x00E5;r blodprop.</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Er det alvor? Kan der v&#x00E6;re tale om, at det er alvor? Kan der v&#x00E6;re spor af tale om, at det er alvor? Hvis &#x2013; s&#x00E5;, kan der ikke v&#x00E6;re tale om, at du kan komme ind i statsr&#x00E5;det. Har du ogs&#x00E5; rigtig sat dig ind i situationen? Blom, det havde jeg aldrig, aldrig i verden troet om dig.</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Hvor vil du hen? &#x2013; jeg tror du er gal; tror du min datter &#x2013;; hun er lidt oversp&#x00E6;ndt og synes, at vi har &#x00E6;rtet den gamle for meget &#x2013; og det har vi kanske ogs&#x00E5;, men &#x2013;</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Din kone tror det &#x2013; hun tror, det er din datters alvor; vi tror det allesammen, vi s&#x00E5; det jo. Ikke sandt, Str&#x00F8;m?</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>Jo gudbevares. Men ingen voldelige midler naturligvis!</p></sp>
+<lb/><sp><speaker><pb n="33"/>Blom.</speaker>
+<p>Men det var du &#x2013; hvorfor? &#x2013; det var du, som sagde til hende, at hun burde g&#x00E5; p&#x00E5; det m&#x00F8;de.</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>Jeg! Nej h&#x00F8;r v&#x00E9;d du hvad &#x2013; jo det er sandt, det var mig. Men jordbunden var vel forberedt, omgangen med tante Ulrikke, din humane opdragelse &#x2013;</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Vi skulde for lang tid siden ha forbudt tante huset &#x2013; og jeg havde ogs&#x00E5; gjort det, hvis det ikke havde v&#x00E6;ret for din skyld, Kristine &#x2013; vi skulde ha taget os ganske anderledes personlig af hendes opdragelse &#x2013; h&#x00F8;rer du, Kristine; du har jo v&#x00E6;ret sammen med hende hele dagen.</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Man er vistnok noget svag i s&#x00E5; henseende &#x2013; i vor tid; ja misforst&#x00E5; mig ikke, frue; det v&#x00E6;re langtfra mig at dadle Dem specielt; men hele opfatningen af, hele anskuelsesm&#x00E5;den af opdragelsen &#x2013; i det hele &#x2013; i vor tid &#x2013;</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Jeg tror absolut ikke, vi beh&#x00F8;ver v&#x00E6;re bange for Helene; men kj&#x00E6;re Stabel, s&#x00E5; ondt det gj&#x00F8;r mig, &#x00E9;n ting vil jeg dog sige dig, og <pb n="34"/>det netop nu, da du taler om vor tids m&#x00E5;de at opdrage b&#x00F8;rnene p&#x00E5;. Gamle ven, det gj&#x00F8;r mig ondt. Men den v&#x00E6;sentligste grund til, hvad der er forefaldet her iaften, tror jeg, vi finder i, at Helene s&#x00F8;ger sig omgang med mennesker &#x2013; og det meget mod min vilje &#x2013; med mennesker, hvis meninger, hvis leves&#x00E6;t, hvis v&#x00E6;sen s&#x00E5; langt fra harmonerer med hvad jeg og mine s&#x00E6;tter pris p&#x00E5; &#x2013;</p></sp>
+<lb/><sp><speaker>Ejvind</speaker>
+<stage>(d&#x00E6;mpet).</stage>
+<p>Jeg forst&#x00E5;r, hvem De mener. Men De tar fejl af mig, hr. professor, som De altid har gjort. Jeg tror, jeg handler, som jeg skylder mig selv, b&#x00E5;de som tilh&#x00E6;nger af det store liberale parti og som ven af denne familje, n&#x00E5;r jeg forhindrer fr&#x00F8;ken Helene fra et overilet skridt. Ved at optr&#x00E6;de p&#x00E5; et s&#x00E5;dant m&#x00F8;de, gavner hun ikke den store sag &#x2013; undskyld, det, jeg tror er den store sag &#x2013; men hun opn&#x00E5;r kun at v&#x00E6;kke un&#x00F8;dig forargelse og splid i sin familje.</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Forklar Dem. Jeg forst&#x00E5;r ikke, hvad De mener.</p></sp>
+<lb/><sp><speaker>Ejvind.</speaker>
+<p>M&#x00E5; jeg f&#x00E5; lov at tale med Helene i enrum &#x2013; og jeg tror, ja jeg er sikker p&#x00E5;, at hun ikke skal g&#x00E5; p&#x00E5; m&#x00F8;det.</p></sp>
+<lb/><sp><speaker><pb n="35"/>Blom.</speaker>
+<p>Jeg forst&#x00E5;r aldeles ikke, hvorledes det skulde nytte Dem, n&#x00E5;r ikke jeg, hendes far &#x2013;</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Ingen formalia nu! Det gj&#x00E6;lder din fremtid, og det gj&#x00E6;lder din datters fremtid. Det gj&#x00E6;lder om at skabe en minister og om at d&#x00F8;de en skandale.</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Jeg forst&#x00E5;r ikke, hvorledes din s&#x00F8;n &#x2013;</p></sp>
+<lb/><sp><speaker>Ejvind.</speaker>
+<p>Man kan h&#x00F8;re til de forskjelligste politiske partier og dog agte hinandens helligste f&#x00F8;lelser.</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>&#x00C5; kald p&#x00E5; Helene, Kristine.</p></sp>
+<lb/><sp><speaker>Fruen.</speaker>
+<p>Nej ikke nu iaften &#x2013; kan det ikke vente til imorgen.</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Det er imorgen, m&#x00F8;det skal holdes.</p></sp>
+<lb/><sp><speaker>Ejvind</speaker>
+<stage>(til fruen).</stage>
+<p>Ha ikke mistillid til mig. <stage>(h&#x00F8;jt).</stage> Nu, jeg skal vente til imorgen formiddag, hvis professoren ikke har noget mod det.</p></sp>
+<lb/><sp><speaker><pb n="36"/>Blom.</speaker>
+<p>Ja, jeg tilst&#x00E5;r, jeg forst&#x00E5;r ikke.</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>&#x00C5; ungdommen, ungdommen!</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Du mener da vel ikke &#x2013;</p></sp>
+<stage>En Pige er kommet ind og har talt til fruen.</stage>
+<lb/><sp><speaker>Fruen.</speaker>
+<p>V&#x00E6;rs&#x00E5;god, der er anrettet.</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>M&#x00E5; jeg ha den &#x00E6;re.</p></sp>
+<stage>Statsr&#x00E5;den, Fruen og Blom g&#x00E5;r iforvejen ind i spisestuen.</stage>
+<lb/><sp><speaker>Str&#x00F8;m</speaker>
+<stage>(til Ejvind)</stage>
+<p>&#x00C5; et &#x00F8;jeblik! Jeg skal rive hele obligationen i filler &#x2013; med renter og omkostninger, hvis De f&#x00E5;r denne sag ordnet.</p></sp>
+<lb/><sp><speaker>Ejvind.</speaker>
+<p>Hr. advokat. De tror da vel ikke &#x2013;</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>Hvor kan De tro? Men alligevel! Praktiske m&#x00E6;nd! For min ven professorens skyld!</p></sp>
+<stage>Blom viser sig i d&#x00F8;ren.</stage>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>Vi kommer. &#x2013; Kj&#x00E6;rlighed hvad?</p></sp>
+<lb/><sp><speaker><pb n="37"/>Ejvind.</speaker>
+<p>Ingen sp&#x00F8;g &#x2013; hr. advokat.</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>Nej, naturligvis, ingen sp&#x00F8;g. &#x2013; Men De v&#x00E9;d, damer liker ikke slige sm&#x00E5; uregelm&#x00E6;ssigheder &#x2013; med renter og omkostninger. <stage>(ind i spisestuen).</stage></p></sp>
+</div>
+<div type="chapter" subtype="act" n="2">
+<head type="main"><ref type="contents" target="contents_3" xml:id="chapter_3">ANDEN AKT</ref></head>
+<lb/><stage>Samme dekoration som i forrige akt. Tidligt p&#x00E5; formiddagen dagen efter 1ste akt.</stage>
+<stage>Blom kommer fra kontoret, g&#x00E5;r ud i entr&#x00E9;en og kommer tilbage med Statsr&#x00E5;den; den sidste med overfrakke samt med hat i h&#x00E5;nden. Blom har slobrok p&#x00E5;.</stage>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Vi f&#x00E5;r bli her. De h&#x00E6;nger gardiner op i kontoret.</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Han lever ikke dagen over.</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Lie mener du?</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Naturligvis. Da jeg gik min tur idagmorges, var jeg indom der. Fruen var elendig; aldeles nedtrykt, sagde jomfruen. Sent ig&#x00E5;raftes havde hun f&#x00E5;t telegram fra hans l&#x00E6;ge.</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Og det barn, som skal komme? Ottende m&#x00E5;ned, jo?</p></sp>
+<lb/><sp><speaker><pb n="39"/>Statsr&#x00E5;den.</speaker>
+<p>Ja meget vanskelige omst&#x00E6;ndigheder. Aldeles <emph>fortumlet</emph> var det forresten, jomfruen sagde. Men gj&#x00F8;r dig istand, Blom. Vi skal m&#x00F8;de hos statsministeren kl. 12. Jeg har allerede talt med ham idag. Hs. exc. var forresten p&#x00E5;faldende rask idag. Nu! Jeg har ikke v&#x00E6;ret ledig et &#x00F8;jeblik. I aftenaviserne st&#x00E5;r du allerede n&#x00E6;vnt som en af dem, der st&#x00E5;r i f&#x00F8;rste r&#x00E6;kke ved bes&#x00E6;ttelsen af posten &#x2013; hvis han d&#x00F8;r, f&#x00F8;r avisen kommer ud da. Og s&#x00E5; en vittig artikel af Str&#x00F8;ms brors&#x00F8;n om din svigerinde &#x2013; han skal v&#x00E6;re meget vittig.</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Ja men &#x2013; kan ikke <emph>det</emph> undg&#x00E5;s?</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Blom! Er det for vor egen skyld, vi handler?</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Jeg har t&#x00E6;nkt hele natten p&#x00E5;, hvad jeg skulde gj&#x00F8;re som minister, og jeg fandt ikke nogen reformer &#x2013;</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Reformer! <emph>Vi</emph> skal administrere.</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Det skulde da v&#x00E6;re, at der gjordes noget mere for de klassiske studier.</p></sp>
+<lb/><sp><speaker><pb n="40"/>Statsr&#x00E5;den.</speaker>
+<p>Ja, det kommer nok. &#x2013; Har du talt med Helene idag.</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Nej, jeg har netop st&#x00E5;t op. Jeg s&#x00F8;vnede s&#x00E5; sent, jeg l&#x00E5; og t&#x00E6;nkte.</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Ejvind kommer om en stund. <stage>(Blom h&#x00F8;rer ikke).</stage> Ejvind kommer om en stund.</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Jas&#x00E5; &#x2013; gj&#x00F8;r han det?</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Blom, du liker ikke Ejvind.</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Hvor kan du tro &#x2013; han er jo din s&#x00F8;n.</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Herregud! b&#x00E5;de du og jeg har da i vor ungdom danset p&#x00E5; andet end bonede gulve.</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Jeg aldrig.</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Nu ja, jeg og Str&#x00F8;m da. Og det var jo p&#x00E5; en m&#x00E5;de ogs&#x00E5; for at l&#x00E6;re folkets trang at kjende, som Ejvind siger &#x2013; ialfald det smukke kj&#x00F8;ns.</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Det er slet ikke det.</p></sp>
+<lb/><sp><speaker><pb n="41"/>Statsr&#x00E5;den.</speaker>
+<p>Ja herregud, det, at han er r&#x00F8;d, gj&#x00F8;r dog virkelig ingen ting. At <emph>det</emph> g&#x00E5;r over med &#x00E5;rene, ved da b&#x00E5;de du og jeg. Vi h&#x00F8;rte jo selv engang til oppositionen, dengang den var berettiget, gudbevares &#x2013;; du selv var jo en af dem, som talte mest &#x2013; og bedst naturligvis. Og slig som vi sang &#x2013; jeg h&#x00F8;rer formelig duren endnu. Jeg synes n&#x00E6;sten, vi sang for meget.</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Ja, for du havde ingen stemme. Du vilde heller holde taler.</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Jamen var det ikke dig, som fremsatte forslag om, at der skulde v&#x00E6;re studentertog hvert &#x00E5;r? &#x2013; Det kan jeg like. Godt hum&#x00F8;r!</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Nej, jeg er ikke i godt hum&#x00F8;r. Det er hans forhold til religionen, hans hele livsanskuelse &#x2013;</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Hvilken?</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Hans livsanskuelse, siger jeg.</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Hvilken, sp&#x00F8;r jeg. For han har havt flere. <pb n="42"/>Han har vandret den moderne udviklingsgang. Pietist, indifferent, grundtvigianer, vantro. V&#x00E6;r ikke bange. Alle bekjendte frit&#x00E6;nkere omvender sig, f&#x00F8;r de d&#x00F8;r. Historisk &#x2013; man l&#x00E6;ser det i avisen ret som det er.</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Jamen, Stabel, Helene og Ejvind passer slet ikke sammen.</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>H&#x00F8;r Blom &#x2013; i den slags ting hylder jeg absolut ubetinget frihed. Ingen p&#x00E5;virkning eller overtalelser fra for&#x00E6;ldrenes side. Kj&#x00E6;rlighed er, om jeg s&#x00E5; m&#x00E5; sige, &#x2013; kj&#x00E6;rlighed er kj&#x00E6;rlighed. Ikke sandt?</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Men min kone &#x2013; Kristine tror heller ikke de passer sammen.</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Du har jo selv sagt, at din kone tror, at Helene elsker Ejvind &#x2013; og desuden naar du vil, s&#x00E5; vil din kone naturligvis ogs&#x00E5;. Det har jo altid v&#x00E6;ret s&#x00E5;.</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Ja naturligvis, det har altid v&#x00E6;ret s&#x00E5;.</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Ja, jeg mener naturligvis ikke andet end &#x2013;</p></sp>
+<lb/><sp><speaker><pb n="43"/>Blom.</speaker>
+<p>Nej naturligvis. Men han selv, Ejvind, &#x2013; kan han &#x2013; hvad skal han ta sig til.</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Han g&#x00E5;r ind i mit departement. Jeg er sikker p&#x00E5; det. Men kort og godt. Lad os ikke fortabe os i fremtiden. Det gj&#x00E6;lder nu f&#x00F8;rst og fremst om, ved hans hj&#x00E6;lp at f&#x00E5; forhindret en handling, som ikke alene vil v&#x00E6;re til uudslettelig skandale for familjen &#x2013; s&#x00E6;t dig levende ind i situationen! men &#x2013; jeg vover at sige s&#x00E5; stort et ord, &#x2013; som vil v&#x00E6;re til ulykke for landet.</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>&#x00C5;!</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Det er mit ramme alvor.</p></sp>
+<stage>Str&#x00F8;m ind.</stage>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>Har De h&#x00F8;rt det?</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Vi v&#x00E9;d det, vi v&#x00E9;d det.</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>Han ligger hen i en d&#x00F8;s.</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Nej hvad? Noget nyt?</p></sp>
+<lb/><sp><speaker><pb n="44"/>Str&#x00F8;m.</speaker>
+<p>Kommer fra fru Lie i dette hellige &#x00F8;jeblik. Hun havde netop f&#x00E5;t telegram &#x2013; det er ikke ti minutter siden. Ligger hen i en d&#x00F8;s.</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Og ingen formue &#x2013; stakkels kone.</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>Nu ja &#x2013; den enes d&#x00F8;d &#x2013;</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Det er s&#x00E5; &#x2013;</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Men alligevel!</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Vi foresl&#x00E5;r stor pension.</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Man kan da ikke leve af forslag.</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>Jo af at frems&#x00E6;tte forslag, kan man leve &#x2013; Stabel lever.</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Det blir den andens statsmagts sag at bevilge. Suum cuique. Er du f&#x00E6;rdig Blom? Om et kvarter m&#x00E5; vi g&#x00E5;.</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>&#x00D8;jeblikkelig. <stage>(hen til spisestud&#x00F8;ren).</stage> Kristine!</p></sp>
+<stage>Fruen ind. Hilsen og h&#x00E5;ndtryk.</stage>
+<lb/><sp><speaker><pb n="45"/>Statsr&#x00E5;den.</speaker>
+<p>Ejvind bad udtrykkelig at hilse Dem frue.</p></sp>
+<lb/><sp><speaker>Fruen</speaker>
+<p>Tak <stage>(ser hen p&#x00E5; Blom).</stage></p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den</speaker>
+<p>Efter aftale kommer han her om en stund &#x2013; og s&#x00E5; tror jeg nok, det skal lykkes <stage>(gnider sine h&#x00E6;nder).</stage></p></sp>
+<lb/><sp><speaker>Fruen.</speaker>
+<p>Hvilket?</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>At f&#x00E5; Deres datter forhindret fra at foretage et overilet skridt. &#x00C5;, det skal nok g&#x00E5;, det skal nok g&#x00E5;. <stage>(Fruen ser efter Blom, som ser v&#x00E6;k).</stage></p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Et glas sherry, mine herrer.</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Det m&#x00E5; ske i en fart. Klokken 12 pr&#x00E6;cis m&#x00E5; vi v&#x00E6;re hos hs. exc.</p></sp>
+<stage>Blom g&#x00E5;r ind p&#x00E5; kontoret. Fruen ud i spisestuen for at bringe vinen.</stage>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>N&#x00E5;r nu Ejvind f&#x00E5;r Helene, og du f&#x00E5;r Blom &#x2013; ind i statsr&#x00E5;det, og s&#x00E5; den gamle excellence d&#x00F8;r efter hundrede &#x00E5;rs trofaste arbejde &#x2013; was willst du noch mehr?</p></sp>
+<lb/><sp><speaker><pb n="46"/>Statsr&#x00E5;den.</speaker>
+<p>Tror du, jeg er en alvorlig mand?</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>Du er min ven, og din konto hos mig bel&#x00F8;ber sig nu til 9000 kr.</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Du er rigtig hyggelig idag, Str&#x00F8;m.</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>Jeg er objektiv. Jeg gj&#x00F8;r op status.</p></sp>
+<stage>Blom kommer ind med sin kjole og et ordenstegn. Samtidig kommer Fruen efterfulgt af Pigen med sherryen.</stage>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Vil du v&#x00E6;re s&#x00E5; snil at sy den store Olafen i kjolen. Det gj&#x00F8;r Kristine altid. V&#x00E6;rs&#x00E5;god. Du kan gjerne sidde her og sy. Ikke sandt, mine herrer? <stage>(skj&#x00E6;nker i glassene).</stage></p></sp>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>Kan man t&#x00E6;nke sig et skj&#x00F8;nnere syn. Hustruen f&#x00E6;stende symbolet p&#x00E5; sin mands fortjeneste p&#x00E5; hans kjole. Et helt genrebillede. N&#x00E6;sten historiemaleri. Sk&#x00E5;l hr. statsr&#x00E5;d Blom.</p></sp>
+<lb/><sp><speaker>Blom</speaker>
+<stage>(smilende).</stage>
+<p>Tak.</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Titlerne er det dog ikke v&#x00E6;rdt at begynde med endnu.</p></sp>
+<lb/><sp><speaker><pb n="47"/>Str&#x00F8;m.</speaker>
+<p>Ja det er sku sandt, han lever endnu.</p></sp>
+<lb/><sp><speaker>Blom</speaker>
+<stage>(alvorlig).</stage>
+<p>Ganske rigtig.</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den</speaker>
+<stage>(rejser sig).</stage>
+<p>M&#x00E5; jeg ikke destomindre p&#x00E5; egne &#x2013; og advokat Str&#x00F8;ms vegne som Deres mands &#x00E6;ldste venner af et oprigtigt hj&#x00E6;rte f&#x00E5; lov til at &#x00F8;nske Dem tillykke frue. Jeg kjender jo af personlig erfaring det i sandhed skj&#x00F8;nne forhold som altid har fundet sted mellem mand og hustru i dette hjem, og jeg f&#x00F8;ler mig overbevist om at De fremdeles med r&#x00E5;d og d&#x00E5;d vil st&#x00E5; Deres mand bi i hans h&#x00F8;je stilling. Og jeg vil for mit personlige vedkommende &#x00F8;nske, at det forhold som i s&#x00E5; mange &#x00E5;r har knyttet mig til dette hus m&#x00E5; blive endnu langt intimere og inderligere &#x2013; til held og lykke for alle parter. Frue.</p></sp>
+<stage>(Der klinkes).</stage>
+<lb/><sp><speaker>Blom</speaker>
+<stage>(med udrop).</stage>
+<p>Kristine! Kald p&#x00E5; Helene.</p></sp>
+<lb/><sp><speaker>Fruen</speaker>
+<p>Hvad vil du hende?</p></sp>
+<lb/><sp><speaker>Blom</speaker>
+<stage>(nikker venligt til hende).</stage>
+<p>Bare kald p&#x00E5; hende, Kristine.</p></sp>
+<stage>Fruen g&#x00E5;r.</stage>
+<lb/><sp><speaker><pb n="48"/>Statsr&#x00E5;den.</speaker>
+<p>Vi m&#x00E5; g&#x00E5;. Klokken er mange.</p></sp>
+<lb/><sp><speaker>Blom</speaker>
+<stage>(st&#x00E6;rkt optaget af noget, han t&#x00E6;nker p&#x00E5;).</stage>
+<p>Bare et &#x00F8;jeblik.</p></sp>
+<stage>Fruen og Helene ind.</stage>
+<lb/><sp><speaker>Blom</speaker>
+<stage>(som sidder p&#x00E5; pat&#x00E9;en tilvenstre).</stage>
+<p>Kom herhen Helene. <stage>(l&#x00E6;gger armen om hendes liv).</stage> Vi er nok politiske modstandere vi to. &#x2013; Det er vel ikke s&#x00E5; farligt vel? &#x2013; Det, du sagde ig&#x00E5;raftes &#x2013; <stage>(Helene vil ud af faderens arm)</stage> ja, jeg mener bare, at det, du sagde ig&#x00E5;raftes, gjorde dit gode hj&#x00E6;rte &#x00E6;re, og jeg har derfor besluttet at gj&#x00F8;re dig en gl&#x00E6;de &#x2013; og jeg v&#x00E9;d, jeg kan ikke gj&#x00F8;re det p&#x00E5; nogen bedre m&#x00E5;de &#x2013; p&#x00E5; nogen m&#x00E5;de, som du heller &#x2013; Vil du ha 400 kr. til dine fattige?</p></sp>
+<lb/><sp><speaker>Helene</speaker>
+<stage>(ser p&#x00E5; ham).</stage>
+<p>Far!</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>M&#x00E5; jeg f&#x00E5; lov at tegne mig for 200 kr.</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Det er meget smukt. Det er netop kvindens rette opgave, n&#x00E5;r hun vil tr&#x00E6;de udenfor hjemmets snevre ramme.</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>Vil ikke du ogs&#x00E5; tegne dig, Stabel?</p></sp>
+<stage>(Statsr&#x00E5;den ser sp&#x00F8;rgende p&#x00E5; Str&#x00F8;m, der nikker betydningsfuldt til ham).</stage>
+<lb/><sp><speaker><pb n="49"/>Statsr&#x00E5;den.</speaker>
+<p>M&#x00E5; jeg ogs&#x00E5; tegne mig for &#x2013; <stage>(Str&#x00F8;m r&#x00E6;kker to fingre ivejret)</stage> for to hundrede kroner.</p></sp>
+<lb/><sp><speaker>Helene.</speaker>
+<p>Mange tak. Jeg skal anvende pengene vel <stage>(r&#x00E6;kker h&#x00E5;nden ud til fruen).</stage> End du mor &#x2013;</p></sp>
+<lb/><sp><speaker>Fruen.</speaker>
+<p>Hvad mener du?</p></sp>
+<lb/><sp><speaker>Helene.</speaker>
+<p>N&#x00E5; ja, det er sandt &#x2013; far har betalt for dig. <stage>(Lidet ophold).</stage> Men far, er du ikke r&#x00E6;d for at jeg skal drive forceret fattigpleje med pengene, som du s&#x00E5; ofte har sagt?</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Det mente jeg ikke s&#x00E5; n&#x00F8;je.</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den</speaker>
+<stage>(ser p&#x00E5; klokken).</stage>
+<p>Det er p&#x00E5; h&#x00F8;je tid &#x2013; vi m&#x00E5; g&#x00E5;.</p></sp>
+<lb/><sp><speaker>Helene</speaker>
+<stage>(halvh&#x00F8;jt til fruen).</stage>
+<p>At du skulde v&#x00E6;re med p&#x00E5; det!</p></sp>
+<lb/><sp><speaker>Fruen</speaker>
+<p>Hvad mener du?</p></sp>
+<lb/><sp><speaker>Helene.</speaker>
+<p>Ikke mere om det, mor. <stage>(vender sig i d&#x00F8;ren).</stage> Mange tak far.</p></sp>
+<lb/><sp><speaker><pb n="50"/>Fruen</speaker>
+<stage>(efter hende, men kommer tilbage; til Blom).</stage>
+<p>V&#x00E6;rs&#x00E5;god. Kjolen er f&#x00E6;rdig. <stage>(g&#x00E5;r ud spisestud&#x00F8;ren).</stage></p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Et p&#x00E5; samme tid ypperligt og smukt indfald!</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m</speaker>
+<stage>(t&#x00F8;rt).</stage>
+<p>Jeg tror ikke, det virkede heldig.</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Jeg forst&#x00E5;r ikke, hvad I mener.</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Men der kan du se. Det eneste middel er Ejvind. Forst&#x00E5;r du, at det ikke g&#x00E5;r an, at hun g&#x00E5;r p&#x00E5; det m&#x00F8;de? &#x2013; Ringte det ikke? Det er vist Ejvind. F&#x00E5; din kone med ud med det samme, vi g&#x00E5;r. Det er bedst, at de unge er alene. <stage>(Blom viser ut&#x00E5;lmodighed).</stage>Vil du v&#x00E6;re minister, eller ikke?</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>Sentimentalitet er en lej ting, Blom.</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Bestem dig. Vi m&#x00E5; g&#x00E5;.</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Ja &#x2013; der jo ikke noget galt i, at de taler sammen. De kan jo tale sammen. Og hvis de elsker hverandre &#x2013;</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Ja naturligvis; det m&#x00E5; bli deres egen sag <pb n="51"/>&#x2013; Ta s&#x00E5; p&#x00E5; dig og f&#x00E5; din kone med ned over gaden. &#x2013; Naturligvis Blom!</p></sp>
+<stage>Blom tar sin kjole p&#x00E5;. Statsr&#x00E5;den og Str&#x00F8;m hj&#x00E6;lper ham.</stage>
+<stage>Tante Ulrikke og Ejvind ind fra entr&#x00E9;en, Fruen fra spisestuen.</stage>
+<lb/><sp><speaker>Tante Ulrikke.</speaker>
+<p>Er Helene hjemme, Deres excellenser. <stage>(gj&#x00F8;r dyb kompliment).</stage></p></sp>
+<lb/><sp><speaker>Fruen.</speaker>
+<p>Hun er inde p&#x00E5; sit v&#x00E6;relse. Men hun har st&#x00E6;ngt d&#x00F8;ren.</p></sp>
+<lb/><sp><speaker>Tante Ulrikke.</speaker>
+<p>Jeg kommer nok ind. Undskyld, at jeg afbr&#x00F8;d ministerr&#x00E5;det. <stage>(til Str&#x00F8;m)</stage> For De skal vel bli minister, De ogs&#x00E5;?</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>Nej, jeg er tilh&#x00E6;nger. Et ministerium m&#x00E5; da ha tilh&#x00E6;ngere ogs&#x00E5;.</p></sp>
+<stage>Tante Ulrikke g&#x00E5;r mod spisestud&#x00F8;ren; Str&#x00F8;m f&#x00F8;lger og bukker dybt; hun nejer.</stage>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>Deres n&#x00E5;de!</p></sp>
+<lb/><sp><speaker>Tante Ulrikke.</speaker>
+<p>Deres excellense! <stage>(idet hun g&#x00E5;r, nikker hun).</stage></p></sp>
+<lb/><sp><speaker>Ejvind</speaker>
+<stage>(halvh&#x00F8;jt til fruen).</stage>
+<p>Hvor jeg igrunden holder af Deres s&#x00F8;ster, frue!</p></sp>
+<lb/><sp><speaker>Blom</speaker>
+<stage>(foran spejlet).</stage>
+<p>Ta s&#x00E5; p&#x00E5; dig Kristine, og f&#x00F8;lg med nedover <pb n="52"/>gaden; jeg vilde gjerne tale med dig, og du skal jo ud i byen alligevel.</p></sp>
+<stage>Fruen ud i entr&#x00E9;en, hvortil d&#x00F8;ren blir st&#x00E5;ende oppe. Man f&#x00E5;r overt&#x00F8;jet p&#x00E5;.</stage>
+<lb/><sp><speaker>Str&#x00F8;m</speaker>
+<stage>(hen til Ejvind).</stage>
+<p>Det gik f&#x00F8;rst op for mig idagmorges, men jeg er aldeles enig med Dem. Bedre at f&#x00E5; en rig kone, som <emph>ikke</emph> har prostitueret sig end en rig kone, som <emph>har</emph> prostitueret sig. Naturligvis.</p></sp>
+<lb/><sp><speaker>Ejvind.</speaker>
+<p>Hr. advokat. Jeg m&#x00E5; b&#x00E9; Dem &#x2013;</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>V&#x00E6;rs&#x00E5;artig. Men nu beh&#x00F8;ver De naturligvis ikke mit tilbud, &#x2013; hvis det lykkes Dem da. Sparet er sparet.</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Kom s&#x00E5; Blom. Farvel Ejvind. <stage>(trykker hans h&#x00E5;nd).</stage></p></sp>
+<lb/><sp><speaker>Ejvind</speaker>
+<stage>(til Blom og fruen, som st&#x00E5;r i baggrunden).</stage>
+<p>Stol p&#x00E5; mig frue og De ogs&#x00E5;, hr. professor. Alt skal nok vendes til det bedste. Farvel hr. professor.</p></sp>
+<lb/><sp><speaker>Fruen</speaker>
+<stage>(urolig).</stage>
+<p>G&#x00E5;r De ikke i f&#x00F8;lge med os? <stage>(ser p&#x00E5; Blom).</stage></p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Nej, Ejvind Stabel blir her. Du v&#x00E9;d &#x2013;</p></sp>
+<lb/><sp><speaker><pb n="53"/>Statsr&#x00E5;den</speaker>
+<stage>(afbrydende).</stage>
+<p>Blom da!</p></sp>
+<stage>(Blom hurtig fra fruen).</stage>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>Der h&#x00F8;rer jeg, hun kommer ridende.</p></sp>
+<stage>(Idet Blom, Fruen, Statsr&#x00E5;den og Str&#x00F8;m g&#x00E5;r, kommer Tante Ulrikke<note type="footnote">Ulrikke] <hi rend="italic">rettet fra:</hi> Ulrikee</note> i spisestud&#x00F8;ren. Hun og Str&#x00F8;m gj&#x00F8;r dybe komplimenter og d&#x00F8;vstummegeb&#x00E6;rder til hverandre).</stage>
+<lb/><sp><speaker>Tante Ulrikke</speaker>
+<stage>(roper ind igjennem spisestud&#x00F8;ren).</stage>
+<p>Kom s&#x00E5;. Hele ministeriet er afg&#x00E5;et.</p></sp>
+<stage>Helene ind.</stage>
+<lb/><sp><speaker>Helene.</speaker>
+<p>Hvad er det du vil mig, tante?</p></sp>
+<lb/><sp><speaker>Ejvind.</speaker>
+<p>Goddag, fr&#x00F8;ken.</p></sp>
+<lb/><sp><speaker>Helene.</speaker>
+<p>Goddag. Hvad er det du vil mig, tante?</p></sp>
+<lb/><sp><speaker>Tante Ulrikke.</speaker>
+<p>Jeg vilde bare &#x2013; <stage>(ser sp&#x00F8;rgende p&#x00E5; Ejvind).</stage> Jeg vilde bare &#x2013; jo, jeg vilde vise dig &#x2013; her skal du se. <stage>(Tr&#x00E6;kker frem af sin pose flere st&#x00F8;rre og mindre papirlapper).</stage></p></sp>
+<lb/><sp><speaker>Helene.</speaker>
+<p>Hvad er det?</p></sp>
+<lb/><sp><speaker>Tante Ulrikke.</speaker>
+<p>Manuskriptet til min tale idag. Jeg arbejder altid s&#x00E5;ledes. Da f&#x00E5;r jeg det klarere. Enhver ting for sig. <stage>(ordner sine manuskripter).</stage></p></sp>
+<stage>(Ejvind smiler til Helene bag tante Ulrikkes ryg).</stage>
+<lb/><sp><speaker><pb n="54"/>Helene.</speaker>
+<p>Hvad skal du tale om idag, tante.</p></sp>
+<lb/><sp><speaker>Tante Ulrikke.</speaker>
+<p>Jeg vil tale om s&#x00E5; mange ting; &#x2013; om alt muligt. Jeg vil begynde med begyndelsen &#x2013; hvorledes b&#x00F8;rn f&#x00F8;des forskjellig, hvorledes de modtages forskjellig &#x2013; af de rige for&#x00E6;ldre med gl&#x00E6;de, af de fattige i sorg og sinne &#x2013; og om en masse, masse andre ting. Jo, idag tror jeg nok, jeg skal holde en tale, som har vasket sig. Ejvind mener, at vi ikke b&#x00F8;r optr&#x00E6;de p&#x00E5; det f&#x00F8;rste m&#x00F8;de &#x2013; at det f&#x00F8;rste m&#x00F8;de ligesom skal v&#x00E6;re mere forberedende. Det er jeg <emph>aldeles</emph> uenig i. Slag i bordet strax.</p></sp>
+<lb/><sp><speaker>Ejvind</speaker>
+<stage>(besindig).</stage>
+<p>Det er jo det f&#x00F8;rste egentlige socialistm&#x00F8;de, som holdes her i byen &#x2013; og vi er jo ikke egentlig socialister &#x2013;.</p></sp>
+<lb/><sp><speaker>Tante Ulrikke.</speaker>
+<p>Jeg tror, jeg er socialist.</p></sp>
+<lb/><sp><speaker>Ejvind.</speaker>
+<p>Ja, synes ikke De ogs&#x00E5;, fr&#x00F8;ken Helene, at det var bedre, at vi ventede til n&#x00E6;ste gang og s&#x00E5;, hvorledes det gik.</p></sp>
+<lb/><sp><speaker>Tante Ulrikke.</speaker>
+<p>Der er ikke tale om det. Slag i bordet strax, har jeg sagt. Det kan ikke nytte at vente og vente.</p></sp>
+<lb/><sp><speaker><pb n="55"/>Helene.</speaker>
+<p>Jeg f&#x00F8;lger med dig, tante.</p></sp>
+<lb/><sp><speaker>Tante Ulrikke.</speaker>
+<p>Du! <stage>(pludselig fra hende).</stage> Er det for at f&#x00E5; mig til at lade v&#x00E6;re?</p></sp>
+<lb/><sp><speaker>Helene.</speaker>
+<p>Fy, tante.</p></sp>
+<lb/><sp><speaker>Tante Ulrikke.</speaker>
+<p>Ja, magthaverne l&#x00E6;gger snarer ud, skal jeg sige dig. De er r&#x00E6;d mig. &#x2013; Men er det v&#x00E6;rdt at du g&#x00E5;r med. Jeg er barket, jeg. Det er ikke noget for dig.</p></sp>
+<lb/><sp><speaker>Helene.</speaker>
+<p>Hvorfor?</p></sp>
+<lb/><sp><speaker>Tante Ulrikke.</speaker>
+<p>&#x00C5; jeg ved ikke. Men det er da morsomt at v&#x00E6;re ung; &#x2013; og du er jo vakker &#x2013; og danse &#x2013; og more sig &#x2013; og ha det morsomt. <stage>(h&#x00F8;jtidelig).</stage> Og dette er prostitution, skandale.</p></sp>
+<lb/><sp><speaker>Helene.</speaker>
+<p>Jeg f&#x00F8;lger med dig, tante.</p></sp>
+<lb/><sp><speaker>Tante Ulrikke</speaker>
+<stage>(kysser hende).</stage>
+<p>Kj&#x00E6;re barn. Vi g&#x00E5;r i kampen sammen &#x2013; <stage>(med udrop)</stage> men din far og mor!</p></sp>
+<lb/><sp><speaker>Helene.</speaker>
+<p>Jeg har sagt dem, at jeg g&#x00E5;r.</p></sp>
+<lb/><sp><speaker><pb n="56"/>Tante Ulrikke.</speaker>
+<p>Du har den rette art. <stage>(trykker hendes h&#x00E5;nd).</stage> Farvel, jeg g&#x00E5;r hjem og l&#x00E6;ser p&#x00E5; talen.</p></sp>
+<lb/><sp><speaker>Helene.</speaker>
+<p>Vent lidt, jeg g&#x00E5;r med dig med det samme.</p></sp>
+<lb/><sp><speaker>Ejvind.</speaker>
+<p>Fr&#x00F8;ken, jeg vilde gjerne tale med Dem &#x2013; bare et &#x00F8;jeblik.</p></sp>
+<lb/><sp><speaker>Tante Ulrikke.</speaker>
+<p>Og jeg har ikke tid til at vente. <stage>(mellem dem, tar dem begge i h&#x00E5;nden).</stage> Lad os tre holde sammen, s&#x00E5; skal vi nok f&#x00E5; gjort lidt &#x2013; om det bare er lidt, lidt. &#x2013; Dere to er mine bedste venner. <stage>(ser f&#x00F8;rst p&#x00E5; den ene, s&#x00E5; p&#x00E5; den anden &#x2013; et par gange).</stage> Gid!</p></sp>
+<lb/><sp><speaker>Helene.</speaker>
+<p>Tante!</p></sp>
+<lb/><sp><speaker>Tante Ulrikke.</speaker>
+<p>Gid! Har jeg ikke lov at sige gid kanske? &#x2013; Adj&#x00F8;! vi m&#x00F8;des p&#x00E5; slagmarken. Et sligt pent gammelt fruentimmer som jeg, f&#x00E6;lder fiender bare ved at vise sig. <stage>(vender sig i d&#x00F8;ren).</stage> Gid! <stage>(ud)</stage></p></sp>
+<stage>(Helene er g&#x00E5;et efter tanten til d&#x00F8;ren; Ejvind st&#x00E5;r en stund og ser p&#x00E5; hende).</stage>
+<lb/><sp><speaker>Helene.</speaker>
+<p>G&#x00E5;r De p&#x00E5; m&#x00F8;det ieftermiddag?</p></sp>
+<lb/><sp><speaker>Ejvind.</speaker>
+<p>Nej. G&#x00E5; ikke De heller!</p></sp>
+<lb/><sp><speaker><pb n="57"/>Helene.</speaker>
+<p>Jeg har jo lovet det &#x2013; og jeg troede, De ogs&#x00E5; &#x2013;</p></sp>
+<lb/><sp><speaker>Ejvind.</speaker>
+<p>Jeg tilst&#x00E5;r &#x00E5;bent, det var for at undg&#x00E5; disputer, at jeg lovte det.</p></sp>
+<lb/><sp><speaker>Helene.</speaker>
+<p>Fy, det synes jeg, da ikke tante har fortjent af Dem.</p></sp>
+<lb/><sp><speaker>Ejvind.</speaker>
+<p>De mener &#x2013; fordi hun nogle gange har hjulpet mig, n&#x00E5;r jeg var i forlegenhed. Det gj&#x00F8;r mig ondt &#x2013; at De antog &#x2013;</p></sp>
+<lb/><sp><speaker>Helene.</speaker>
+<p>Fy &#x2013; det er stygt af Dem &#x2013; jeg har ikke vidst om noget s&#x00E5;dant; og i et hvert tilf&#x00E6;lde &#x2013; fy.</p></sp>
+<lb/><sp><speaker>Ejvind.</speaker>
+<p>Men De skulde vide, hvad jeg har brugt de penge til &#x2013; nu ja nok om det.</p></sp>
+<lb/><sp><speaker>Helene.</speaker>
+<p>Ja, jeg synes ogs&#x00E5; det.</p></sp>
+<stage>(Lidet ophold.)</stage>
+<lb/><sp><speaker>Ejvind.</speaker>
+<p>Hvorfor er De s&#x00E5; kold mod mig?</p></sp>
+<lb/><sp><speaker><pb n="58"/>Helene.</speaker>
+<p>Kold. Jeg er ikke kold. Men jeg synes, at det er stygt af Dem, at De vil narre tante; og jeg synes ogs&#x00E5;, det var underligt, at De s&#x00E5; rolig kunde h&#x00F8;re p&#x00E5;, hvorledes de behandlede hende ig&#x00E5;r.</p></sp>
+<lb/><sp><speaker>Ejvind.</speaker>
+<p>Tror De ikke, at jeg af mit inderste hj&#x00E6;rte f&#x00F8;ler dette usigeligt r&#x00F8;rende ved denne kvinde, der hun st&#x00E5;r i kampen med sin sugende trang til at gj&#x00F8;re sine medmennesker godt. Men vi m&#x00E5; handle fornuftig.</p></sp>
+<lb/><sp><speaker>Helene.</speaker>
+<p>Men vi gj&#x00F8;r jo ingenting. Det er bare hun, som handler. Vi andre &#x2013;</p></sp>
+<lb/><sp><speaker>Ejvind.</speaker>
+<p>De mener mig. Tal kun ud. Men fr&#x00F8;ken Helene, vi er ikke alle skabt til at arbejde p&#x00E5; samme m&#x00E5;de. De er for fin til det grovere arbejde &#x2013; ja jeg beh&#x00F8;ver jo ikke at sige Dem, at der ligger ingen foragt, ingen mangel p&#x00E5; kj&#x00E6;rlighed i &#x00AB;grovere«. De &#x2013; og jeg, vi m&#x00E5; virke p&#x00E5; de h&#x00F8;jere klasser, vi m&#x00E5; g&#x00E5; i deres selskaber, f&#x00E5; dem til os, for at de skal forst&#x00E5;, at det nye, det som er oppe i tiden, er liges&#x00E5; fint, liges&#x00E5; skj&#x00F8;nt, liges&#x00E5; aristokratisk som det <pb n="59"/>gamle, men kun uendelig fyldigere, rigere, aandigere, kj&#x00E6;rlighedsfuldere. Forst&#x00E5;r De mig.</p></sp>
+<lb/><sp><speaker>Helene.</speaker>
+<p>Nej! &#x2013; ja det vil sige, jeg forst&#x00E5;r det nok, &#x2013; men <emph>det</emph> er ikke for mig. Jeg kan intet gj&#x00F8;re, uden hvor jeg ser, der tr&#x00E6;nges til hj&#x00E6;lp, og derfor vil jeg g&#x00E5; med tante. Jeg <emph>vil</emph> g&#x00E5; med tante.</p></sp>
+<lb/><sp><speaker>Ejvind</speaker>
+<stage>(s&#x00E6;tter sig, med h&#x00E5;nden for &#x00F8;jnene).</stage>
+<p>&#x00C5;, Helene. Jeg har dr&#x00F8;mt, og det var mit livs kj&#x00E6;reste dr&#x00F8;m &#x2013; jeg sad sammen med en kvinde nede i syden, i Venezia; &#x2013; vi drev nedover kanalen i en gondol. Det var en dejlig m&#x00E5;neskinskveld. Jeg holdt hendes h&#x00E5;nd, hun s&#x00E5; mig i &#x00F8;jet, og denne kvinde var ikke til leg, men til alvor, og i h&#x00E5;ndtrykket og i blikket l&#x00E5; et l&#x00F8;fte: Vi skal arbejde sammen. &#x2013; Vi vandrede i Rom og vi n&#x00E6;rede os med minder, og vi gik i Paris, republikens Paris, og vi fanged d&#x00E5;b i fremtidsh&#x00E5;b &#x2013; men i det alt l&#x00E5; der et l&#x00F8;fte, et ubr&#x00F8;deligt l&#x00F8;fte om, at vi skulde arbejde sammen for vort fattige folk i by og bygd, vi skulde bringe lys, hvor der var m&#x00F8;rke, vi skulde h&#x00E6;ve og hj&#x00E6;lpe de fattige og sm&#x00E5;, og vor gjerning skulde v&#x00E6;re gr&#x00F8;defuld udover de almindelige vilk&#x00E5;r, fordi kj&#x00E6;rligheden bar &#x2013;</p></sp>
+<lb/><sp><speaker><pb n="60"/>Helene</speaker>
+<stage>(der har sat sig og stirrer p&#x00E5; gulvet).</stage>
+<p>Nej, nej.</p></sp>
+<lb/><sp><speaker>Ejvind</speaker>
+<stage>(hen til hende).</stage>
+<p>Og De skulde ikke angre, at De troede p&#x00E5; mig. Intet m&#x00E5;l er mig for h&#x00F8;jt, ingen post i dette rige er jeg r&#x00E6;d for, at jeg ikke skulde n&#x00E5;, men lidt medb&#x00F8;r <emph>m&#x00E5;</emph> jeg ha. Jeg <emph>m&#x00E5;</emph>, jeg <emph>m&#x00E5;</emph>. &#x00C5;bent og &#x00E6;rlig. Deres formue skulde v&#x00E6;re en af l&#x00F8;ftest&#x00E6;ngerne i vort f&#x00E6;llesarbejde. Jeg siger det, som det er. Men Deres l&#x00F8;n skulde blive rig. Jeg elsker Dem, og vi skulde arbejde sammen. Og s&#x00E5; om kvelden. I rigt oplyst sale skulde vi samle alle, som elsker friheden, politikere, videnskabsm&#x00E6;nd, kunstnere, digtere, kvinder, kvinder &#x2013; og du Helene, skj&#x00F8;n og &#x00E5;ndfuld skal v&#x00E6;re midtpunktet, skal v&#x00E6;re fruen i Norges f&#x00F8;rste salon. Tro mig, Norge har en fremtid <stage>(griber hendes h&#x00E5;nd).</stage></p></sp>
+<lb/><sp><speaker>Helene</speaker>
+<stage>(rejser sig, river sin h&#x00E5;nd til sig).</stage>
+<p>Nej. Ejvind Stabel, nej. Jeg vil ikke. Jeg duer ikke til at sidde og lyse i Deres salon. <emph>Det</emph> er ikke arbejde &#x2013; &#x2013; ialfald ikke for mig. <stage>(lige hen til ham).</stage> G&#x00E5; med p&#x00E5; m&#x00F8;det idag. L&#x00E6;g frem det, De har l&#x00E6;st, det De har t&#x00E6;nkt. Hj&#x00E6;lp tante, hj&#x00E6;lp dem som har det ondt &#x2013; hj&#x00E6;lp mig &#x2013; da kanske &#x2013;</p></sp>
+<lb/><sp><speaker><pb n="61"/>Ejvind.</speaker>
+<p>De elsker mig, Helene.</p></sp>
+<lb/><sp><speaker>Helene</speaker>
+<stage>(hurtig fra ham).</stage>
+<p>Nej, nej, nej.</p></sp>
+<lb/><sp><speaker>Ejvind.</speaker>
+<p>Fr&#x00F8;ken Helene. Er det ikke mig, som har v&#x00E6;kket Dem. Er det ikke mig, som har l&#x00E6;rt Dem at t&#x00E6;nke lidt udover hjemmets gr&#x00E6;nser, l&#x00E6;rt Dem, at der var et levende liv ude i verden ogs&#x00E5;.</p></sp>
+<lb/><sp><speaker>Helene.</speaker>
+<p>Jo, jo.</p></sp>
+<lb/><sp><speaker>Ejvind.</speaker>
+<p>Og har De ikke levet rigere, lykkeligere efterat De l&#x00E6;rte at se, hvor De f&#x00F8;r var blind, l&#x00E6;rte at h&#x00F8;re tidens r&#x00F8;ster, som Deres &#x00F8;re var d&#x00F8;vt for.</p></sp>
+<lb/><sp><speaker>Helene.</speaker>
+<p>Jo jo, jeg skylder Dem s&#x00E5; meget. Jeg er Dem taknemlig for s&#x00E5; meget, s&#x00E5; taknemlig.</p></sp>
+<lb/><sp><speaker>Ejvind.</speaker>
+<p>Jeg tror, jeg har handlet til Deres bedste, og jeg handler til Deres bedste, n&#x00E5;r jeg r&#x00E5;der Dem: g&#x00E5; ikke p&#x00E5; dette m&#x00F8;de. Intet bliver opn&#x00E5;et, Deres for&#x00E6;ldre blir bedr&#x00F8;vet, og De selv <pb n="62"/>blir bare som &#x2013; som &#x2013; ja De v&#x00E9;d hvem jeg mener.</p></sp>
+<lb/><sp><speaker>Helene</speaker>
+<stage>(stille).</stage>
+<p>Ja jeg vil n&#x00F8;dig bli som tante Ulrikke &#x2013; og det blir jeg vist.</p></sp>
+<stage>(Ejvind hen til hende).</stage>
+<lb/><sp><speaker>Helene.</speaker>
+<p>Og dog vil jeg tusen gange heller det end v&#x00E6;re som en af de andre. Ja jeg f&#x00F8;ler undertiden en br&#x00E6;ndende lyst til at rejse mig og pr&#x00E6;ke og deklamere og spr&#x00E6;lle med armene som tante og f&#x00E5; alle de andres latter og smil og h&#x00E5;n over mig &#x2013; s&#x00E5; fik jeg da engang sikkert, sikkert fodf&#x00E6;ste og var ikke i uvished og tvil bestandig. Nu vil jeg g&#x00E5; p&#x00E5; det m&#x00F8;de. Jeg gl&#x00E6;der mig til at g&#x00E5; med tante &#x2013; for <emph>jeg</emph> er ikke fejg &#x2013;</p></sp>
+<lb/><sp><speaker>Ejvind.</speaker>
+<p>Helene!</p></sp>
+<stage>(Helene vender sig hurtig for at g&#x00E5;).</stage>
+<lb/><sp><speaker>Ejvind</speaker>
+<stage>(efter hende, slynger h&#x00E5;nden om hendes liv og tr&#x00E6;kker hende frem p&#x00E5; scenen).</stage>
+<p>Er det ikke Dem, som er fejg, Helene Blom? Hvad er meningen med alt dette frihedsstr&#x00E6;vet? Er det ikke, at vi skal v&#x00E6;re fri, hver enkelt af os, og i gjerning vise verden, hvad frihed er. Er ikke <emph>det</emph> tidens pulsslag &#x2013; er det <pb n="63"/>ikke <emph>det</emph> som kr&#x00E6;ves i tidens digtning <stage>(trykker hende ind til sig).</stage> Helene! Elsk mig. Du er ung, du er skj&#x00F8;n &#x2013; du er af kj&#x00F8;d og blod, du kr&#x00E6;ver livets lyst udover alt, som binder &#x2013;</p></sp>
+<lb/><sp><speaker>Helene</speaker>
+<stage>(svagt).</stage>
+<p>Tal ikke slig til mig. &#x2013; H&#x00F8;rer De &#x2013; jeg ber Dem.</p></sp>
+<lb/><sp><speaker>Ejvind.</speaker>
+<p>Lad os elske hverandre med den ubundne, skj&#x00F8;nne friheds hele gl&#x00F8;d <stage>(trykker hende til sig, fors&#x00F8;ger at l&#x00F8;fte hendes b&#x00F8;jede hode; det lykkes ikke og han trykker et langt br&#x00E6;ndende kys p&#x00E5; siden af hodet).</stage> Vi er jo ikke r&#x00E6;d nogen straf &#x2013; tror ikke p&#x00E5; nogen l&#x00F8;n. Lad os vise de andre en elskov s&#x00E5; fri, s&#x00E5; fin &#x2013; <stage>(b&#x00F8;jer sig for at kysse hende).</stage></p></sp>
+<lb/><sp><speaker>Helene.</speaker>
+<p>Slip mig &#x2013; jeg skriger, <stage>(hun slider sig l&#x00F8;s; kaster sig hulkende p&#x00E5; sofaen).</stage></p></sp>
+<lb/><sp><speaker>Ejvind</speaker>
+<stage>(st&#x00E5;r en stund og ser p&#x00E5; hende).</stage>
+<p>Helene!</p></sp>
+<lb/><sp><speaker>Helene.</speaker>
+<p>Det var ikke &#x00E6;rligt. Det var ikke &#x00E6;rligt &#x2013; det var ikke &#x00E6;rligt.</p></sp>
+<lb/><sp><speaker>Ejvind</speaker>
+<stage>(kaster sig p&#x00E5; kn&#x00E6; foran hende).</stage>
+<p>Nej &#x2013; det var ikke &#x00E6;rligt; &#x2013; det var <pb n="64"/>lumpent, jeg angrer, jeg angrer. Men elsk mig; elsk mig. De redder mer end De tror. Jeg er ikke sikker p&#x00E5; mig selv, om jeg skal g&#x00E5; og altid ha str&#x00F8;mmen imod mig. Jeg m&#x00E5; ha magt, rigdom og opfyldelse af min kj&#x00E6;rlighedsdr&#x00F8;m for at kunne udfolde mine vinger, for at kunne bruge mine evner. Jeg ligger her og ber dig, tigger &#x2013;</p></sp>
+<lb/><sp><speaker>Helene</speaker>
+<stage>(rejser sig og g&#x00E5;r mod spisestuen).</stage>
+<p>Nej nej. Jeg kan ikke.</p></sp>
+<lb/><sp><speaker>Ejvind</speaker>
+<stage>(efter hende).</stage>
+<p>Du elsker mig Helene.</p></sp>
+<stage>(Helene ind).</stage>
+<stage>(Blom ind fra entr&#x00E9;en, g&#x00E5;r mod kontoret.)</stage>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Goddag. <stage>(pludselig).</stage> Ja, det er sandt, hvorledes gik det? De har talt med Helene &#x2013; er det afgjort?</p></sp>
+<lb/><sp><speaker>Ejvind.</speaker>
+<p>Nej ikke endnu. Adj&#x00F8;.</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Gudskelov!</p></sp>
+<lb/><sp><speaker>Ejvind.</speaker>
+<p>Vil De da gjerne, at hun skal g&#x00E5; p&#x00E5; det m&#x00F8;de?</p></sp>
+<lb/><sp><speaker><pb n="65"/>Blom.</speaker>
+<p>Det var ikke det, jeg mente. G&#x00E5;r hun da p&#x00E5; det m&#x00F8;de?</p></sp>
+<lb/><sp><speaker>Ejvind.</speaker>
+<p>Det er ikke afgjort endnu, siger jeg Dem. Farvel.</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>De m&#x00E5; forhindre det, Ejvind For enhver pris! S&#x00E5; er alt i orden! Men hs. exc. sagde udtrykkelig, at den sag m&#x00E5;tte bringes i orden &#x2013;</p></sp>
+<lb/><sp><speaker>Ejvind.</speaker>
+<p>&#x00C5;, nu forst&#x00E5;r jeg.</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Hvad forst&#x00E5;r De?</p></sp>
+<lb/><sp><speaker>Ejvind.</speaker>
+<p>&#x00C5; det var ikke noget. Farvel.</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Jeg stoler p&#x00E5; Dem, Ejvind Stabel.</p></sp>
+<lb/><sp><speaker>Ejvind.</speaker>
+<p>Farvel.</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Farvel, Stabel.</p></sp>
+<stage>(De g&#x00E5;r hver til sin kant).</stage>
+</div>
+<div type="chapter" subtype="act" n="3">
+<head type="main"><ref type="contents" target="contents_4" xml:id="chapter_4">TREDJE AKT</ref></head>
+<lb/><stage>Eftermiddag samme dag som 2den akt foreg&#x00E5;r. En plads i en af byens udkanter. Bakket og stenet terr&#x00E6;ng. En simpel, af umalte bord opf&#x00F8;rt talerstol st&#x00E5;r p&#x00E5; skr&#x00E5; omtrent midt p&#x00E5; scenen. Den st&#x00E5;r p&#x00E5; nederste afsats af en bergknaus, som h&#x00E6;ver sig lidt h&#x00F8;jere og fylder ud scenen bag talerstolen &#x2013; p&#x00E5; venstre side af scenen. Tilh&#x00F8;jre i baggrunden ser man nogle simple sm&#x00E5; tr&#x00E6;huse, deriblandt en br&#x00E6;ndevinssjap, over hvis d&#x00F8;r staar: Ind- og Udskj&#x00E6;nkning af Br&#x00E6;ndevin. Lidt l&#x00E6;ngre frem p&#x00E5; h&#x00F8;jre side en gaslygte. L&#x00E6;ngst i baggrunden, bag bergknausen og husene sees byen med t&#x00E5;rne og andre fremtr&#x00E6;dende bygninger. I forgrunden er terr&#x00E6;nget fladt.</stage>
+<stage>Der er samlet adskillige folk af alle samfundsklasser foran talerstolen, deriblandt mange arbejdere med redskaber og en samlet trop studenter dels med dels uden studenterluer. Tilh&#x00F8;jre lige foran talerstolen sidder Tante Ulrikke. Tilvenstre for talerstolen st&#x00E5;r 4&#x2013;5 socialister t&#x00E6;t sammen. Et par gutter g&#x00E5;r omkring og s&#x00E6;lger viser. Lige f&#x00F8;r t&#x00E6;ppet g&#x00E5;r op h&#x00F8;res skrig og spektakel. N&#x00E5;r t&#x00E6;ppet g&#x00E5;r op, st&#x00E5;r to fulde m&#x00E6;nd p&#x00E5; talerstolen og sl&#x00E5;s om at f&#x00E5; komme tilorde. Student Fredriksen, en h&#x00F8;j mager mand p&#x00E5; over de tredve, er tr&#x00E6;ngt tilside; han st&#x00E5;r dog p&#x00E5; talerstolen. Lige foran talerstolen sidder referenter. Et par politifunktion&#x00E6;rer g&#x00E5;r frem og tilbage.</stage>
+<lb/><sp><speaker><pb n="67"/>Student A. Str&#x00F8;m.</speaker>
+<p>&#x00C5; gid onkel Str&#x00F8;m var her. &#x2013; Jeg holder p&#x00E5; ham med den r&#x00F8;de luggen.</p></sp>
+<lb/><sp><speaker>Student P. Str&#x00F8;m</speaker>
+<stage>(til den ene fulde mand).</stage>
+<p>Nej Olsen &#x2013; du gir dig da ikke for den r&#x00F8;dtoppen.</p></sp>
+<stage>De fulde m&#x00E6;nd ramler ned af talerstolen. Gutter roper med viser: &#x00AB;&#x00C5; kj&#x00F8;b en vise da De! En nydelig vise, Morgenr&#x00F8;den, bare to skilling.&#x00BB; Skrig og leven.</stage>
+<lb/><sp><speaker>Dirigenten.</speaker>
+<stage>(op p&#x00E5; talerstolen.)</stage>
+<p>Herregud. Vi er da ikke mere end en 4&#x2013;5 mand &#x2013;</p></sp>
+<lb/><sp><speaker>Stemmer.</speaker>
+<p>Og s&#x00E5; et fruentimmer! Tante Ulrikke! Hun skal jo ogs&#x00E5; snakke! Og der g&#x00E5;r da sikkert to mandfolk p&#x00E5; hende!</p></sp>
+<stage>(Latter.)</stage>
+<lb/><sp><speaker>Dirigenten.</speaker>
+<p>&#x2013; s&#x00E5; De kan da gjerne h&#x00F8;re p&#x00E5; hvad vi siger. Det er da ikke noget at v&#x00E6;re r&#x00E6;d for! H&#x00F8;r efter n&#x00E5; da!</p></sp>
+<lb/><sp><speaker>En stemme.</speaker>
+<p>Fram med studenten igjen da!</p></sp>
+<lb/><sp><speaker>Stemmer.</speaker>
+<p>Ja fram med studenten.</p></sp>
+<lb/><sp><speaker><pb n="68"/>Fredriksen.</speaker>
+<stage>(p&#x00E5; talerstolen.)</stage>
+<p>F&#x00E5;r jeg lov at forts&#x00E6;tte nu?</p></sp>
+<lb/><sp><speaker>Stemmer.</speaker>
+<p>Ja snak De far.</p></sp>
+<lb/><sp><speaker>Fredriksen.</speaker>
+<p>Det var det jeg begyndte p&#x00E5;! Det var ligesom en lignelse, jeg vilde bruge. Om julen, ved De, i den s&#x00F8;de, glade juletid &#x2013;</p></sp>
+<lb/><sp><speaker>En herre.</speaker>
+<p>Ingen blasfemi!</p></sp>
+<lb/><sp><speaker>Fredriksen</speaker>
+<stage>(fort).</stage>
+<p>Hvorfor ikke det? <stage>(roligt.)</stage> Det er forresten ikke gudsbespottelse det, jeg vil komme med. <stage>(til socialisterne).</stage> Blasfemi, det er at gj&#x00F8;re nar af gud det, gutter. &#x2013; Alts&#x00E5; om juleaften! Da g&#x00E5;r den yndige moder og steller med alle julegaverne og juletr&#x00E6;et og s&#x00E6;tter lys p&#x00E5;. Imens sidder de yndige b&#x00F8;rn hos den kj&#x00E6;rlige fader i det dybe m&#x00F8;rke &#x2013; i stuen ved siden af. S&#x00E5; &#x00E5;bnes d&#x00F8;rene, og ind str&#x00F8;mmer b&#x00F8;rnene efterfulgt af den kj&#x00E6;rlige fader. Ja, tjenestepigerne f&#x00E5;r lov til at komme ind, de ogs&#x00E5; gudbevares. De st&#x00E5;r i d&#x00F8;ren og er flaue og gj&#x00F8;r de andre flaue. Og s&#x00E5; er alt h&#x00F8;jtid og gl&#x00E6;de og fred. Og familjen er s&#x00E5; inderlig glad i hverandre og tror, at alt er s&#x00E5;re vel og bra. Men dette er det, som de <pb n="69"/>skal ruskes op af. For de ser jo, at der er fattige folk som b&#x00E5;de sulter og fryser samme kveld, og som sidder i m&#x00F8;rke, uden at der er nogen stue ved siden af med lys og juletr&#x00E6;, og de siger jo, at de har medlidenhed med dem &#x2013; men de, som det har, de kan ikke hvile, de f&#x00E5;r ikke fred, de feirer ingen yndig jul &#x2013; hvis de har medlidenhed da. Den som har medlidenhed til den ene kant, han f&#x00E5;r snart hadet til den anden kant, og han ruster sig til den store krig. &#x2013; T&#x00E6;nkem&#x00E5;den er det, som m&#x00E5; forandres. For exempel &#x2013; n&#x00E5;r en af sin overfl&#x00F8;dighed eller af sit gode hjerte gir penge til de fattige, en halv eller to eller ti kroner, s&#x00E5; siger han: V&#x00E6;r nu forn&#x00F8;jet en stund! Dette er det, som m&#x00E5; forandres. Han skal sige: V&#x00E6;r misforn&#x00F8;jet og vis dig misforn&#x00F8;jet for disse ti kroner, s&#x00E5; skal du f&#x00E5; tyve igjen.</p></sp>
+<stage>(Latter).</stage>
+<lb/><sp><speaker>A. Str&#x00F8;m.</speaker>
+<p>Fin fyr!</p></sp>
+<lb/><sp><speaker>Stemmer.</speaker>
+<p>Hys lad studenten snakke. Mere student!</p></sp>
+<lb/><sp><speaker>En anden stemme.</speaker>
+<p>De skulde ta betaling for at snakke.</p></sp>
+<lb/><sp><speaker>En tredje stemme.</speaker>
+<p>Nej hys da gut! Da blev han kanske s&#x00E5; misforn&#x00F8;jet, at han ikke sagde et ord mere.</p></sp>
+<lb/><sp><speaker><pb n="70"/>Stemmer.</speaker>
+<p>Hold n&#x00E5; kj&#x00E6;ft da! La&#x0027;n f&#x00E5; snakke i fred. Det er jagu noget i det han siger, lel.</p></sp>
+<lb/><sp><speaker>Andre stemmer.</speaker>
+<p>Ja, ja! &#x2013; Nej, nej bare v&#x00E6;v!</p></sp>
+<lb/><sp><speaker>2den fulde mand.</speaker>
+<p>Vi har det s&#x00E5; godt, som vi har det.</p></sp>
+<lb/><sp><speaker>Fredriksen.</speaker>
+<p>Videre! For jo mere misforn&#x00F8;jelse der blir &#x2013; jo n&#x00E6;rmere kommer vi en afgj&#x00F8;relse. Og <emph>det</emph> kunde v&#x00E6;re p&#x00E5; tide nu.</p></sp>
+<lb/><sp><speaker>A. Str&#x00F8;m.</speaker>
+<p>&#x00C5; De er en opvigler.</p></sp>
+<lb/><sp><speaker>P. Str&#x00F8;m.</speaker>
+<p>Fin levevej.</p></sp>
+<lb/><sp><speaker>Fredriksen.</speaker>
+<p>Ja, jeg er opvigler, &#x2013; og <emph>det</emph> efter bedste evne. Men som levevej er stillingen klejn her i landet &#x2013; endda da!</p></sp>
+<lb/><sp><speaker>P. Str&#x00F8;m.</speaker>
+<p>&#x00C5;ja, det er let nok at rive ned!</p></sp>
+<lb/><sp><speaker>Fredriksen.</speaker>
+<p>&#x00C5;nej &#x2013; det er ikke s&#x00E5; let, som folk tror. Her i landet er det endog temmelig vanskeligt. &#x2013; Men vi skal gj&#x00F8;re vort bedste.</p></sp>
+<lb/><sp><speaker><pb n="71"/>A. Str&#x00F8;m.</speaker>
+<p>Men herregud da, menneske, hvad tror De p&#x00E5;. Hvad er det, De vil?</p></sp>
+<lb/><sp><speaker>Fredriksen.</speaker>
+<p>Hvad jeg tror? Jo, det skal jeg sige Dem. Jeg tror, der vil komme en tid, og det om ikke l&#x00E6;nge, mod hvilken den franske revolution var som en idyl. Alle de tusener af tusener, som er r&#x00E5;, udannede, uvidende, som fryser, er sultne og h&#x00E6;vnlystne, alle de, hvem fortvilelsen driver &#x00F8;jnene ud i hodet p&#x00E5;, s&#x00E5; de stirrer og stirrer og m&#x00E5; &#x00F8;jne bedre tilstande, fornuftigere tilstande &#x2013; alle vil samle sig, rejse sig, g&#x00E5;, sl&#x00E5;. M&#x00E6;nd, kvinder og barn. Rejse sig og &#x00F8;del&#x00E6;gge. Bare &#x00F8;del&#x00E6;gge. Bare <emph>l&#x00E6;gge &#x00F8;de</emph> &#x2013; og der vil st&#x00E5; en r&#x00F8;g af brand og blod over Europa. <stage>(herefter mere d&#x00E6;mpet.)</stage> Det eneste, som har nogen magt i sig til at holde igjen, er de socialistiske l&#x00E6;res&#x00E6;tninger. Men heller ikke de duer mod det vandalernes r&#x00E6;dselsherred&#x00F8;mme som skal harve og gj&#x00F8;de jorden. De som da skal til at s&#x00E5;, n&#x00E5;r jorden er frugtbar, de forst&#x00E5;r, at det gj&#x00E6;lder om at ta alle med. <emph>Alle</emph>. Ellers g&#x00E5;r det ikke. &#x2013; Engang troede jeg, at Norge var et af de lande, som kunde slippe for denne revolution, om vi selv vilde. <stage>(ganske roligt).</stage> Jeg troede, at Nordm&#x00E6;ndene endnu var slig, at de vilde v&#x00E6;re med i spidsen, n&#x00E5;r de skulde v&#x00E6;re med. Der var sm&#x00E5; <pb n="72"/>stater f&#x00F8;r, som havde gaaet i spidsen, fordi de n&#x00E5;ede h&#x00F8;jest i frihed indadtil, i social frihed, og det kunde vi ogs&#x00E5; &#x2013; troede jeg. <stage>(d&#x00E6;mpet).</stage> Jeg syntes landet var s&#x00E5; nyt, evnerne s&#x00E5; friske, viljen og selvf&#x00F8;lelsen s&#x00E5; m&#x00E6;gtig &#x2013;</p></sp>
+<lb/><sp><speaker>En student.</speaker>
+<p>Bjerkeb&#x00E6;k!</p></sp>
+<lb/><sp><speaker>Studenterne.</speaker>
+<p>H&#x00E5; h&#x00E5;. Bjerkeb&#x00E6;k!</p></sp>
+<lb/><sp><speaker>Fredriksen</speaker>
+<stage>(hurtigt).</stage>
+<p>Jeg tror det ikke l&#x00E6;nger. &#x2013; T&#x00E6;nk n&#x00E5;r Vandalerne, som jeg talte om, s&#x00E6;tter fakler til skulpturmus&#x00E6;et &#x2013; til universitetsbibliotheket &#x2013; <emph>da</emph> kanske &#x2013;</p></sp>
+<lb/><sp><speaker>A. Str&#x00F8;m.</speaker>
+<p>Og De er akademisk borger. <stage>(Stemmer &#x2013; is&#x00E6;r fra studenterne).</stage> Intet helligt! R&#x00E5;t! Sjofelt!</p></sp>
+<lb/><sp><speaker>P. Str&#x00F8;m</speaker>
+<stage>(til studenterne).</stage>
+<p>Vi lar ham ikke f&#x00E5; ordet mere. <stage>(roper h&#x00F8;jt.)</stage> H&#x00F8;rte De, hvad han sagde. Han vil, at de skal br&#x00E6;nde op universitetsbibliotheket.</p></sp>
+<stage>(Skrig)</stage>
+<lb/><sp><speaker>Fredriksen</speaker>
+<stage>(fors&#x00F8;ger at overd&#x00F8;ve skrigene).</stage>
+<p>Har jeg sagt det?</p></sp>
+<lb/><sp><speaker><pb n="73"/>A. Str&#x00F8;m.</speaker>
+<p>Dannelsen m&#x00E5; forsvares! Hyl gutter.</p></sp>
+<stage>De hyler og piber en stund, til Fredriksen er g&#x00E5;t ned af talerstolen.</stage>
+<lb/><sp><speaker>Fin herre.</speaker>
+<p>T&#x00E6;nke Dem, at ofre kunst og videnskab, fordi det nu engang er s&#x00E5;, at der er nogle, som er fattige. Det er desuden stor skam at klage her i byen. Fattigplejen st&#x00E5;r overm&#x00E5;de h&#x00F8;jt, b&#x00E5;de den kommunale og den frivillige. Stor skam! Jeg har selv havt anledning &#x2013;</p></sp>
+<lb/><sp><speaker>En dame.</speaker>
+<p>Ja, jeg indr&#x00F8;mmer, jeg er liberal, og jeg g&#x00E5;r med p&#x00E5; adskilligt af venstres &#x2013; men dette &#x2013; nej ved De hvad! Der m&#x00E5; dog ved gud v&#x00E6;re m&#x00E5;de p&#x00E5; alt!</p></sp>
+<lb/><sp><speaker>P. Str&#x00F8;m</speaker>
+<stage>(som har kj&#x00F8;bt et nummer af &#x00AB;Morgenr&#x00F8;den&#x00BB; ramser op f&#x00F8;lgende vers &#x2013; slig som b&#x00F8;rn l&#x00E6;ser:)</stage>
+<lg><l>Hver ser nu klart, at l&#x00F8;gnens ord</l>
+<l>som avner trindtom spredes,</l>
+<l>og at den hele faldne jord</l>
+<l>ved l&#x00F8;gnens magt vildledes.</l></lg></sp>
+<stage>(Almindelig latter.)</stage>
+<lb/><sp><speaker>Dirigenten.</speaker>
+<p>Jeg m&#x00E5; b&#x00E9; om lidt ro, s&#x00E5; taleren kan f&#x00E5; forts&#x00E6;tte.</p></sp>
+<lb/><sp><speaker><pb n="74"/>A. Str&#x00F8;m.</speaker>
+<p>Nej han f&#x00E5;r ikke forts&#x00E6;tte, <stage>(til studenterne.)</stage> Han burde relegeres fra universitetet.</p></sp>
+<stage>(Bifald blandt studenterne.)</stage>
+<lb/><sp><speaker>P. Str&#x00F8;m.</speaker>
+<p>Kommer han op igjen, river vi ham ned.</p></sp>
+<lb/><sp><speaker>En socialist</speaker>
+<stage>(med knyttede n&#x00E6;ver hen mod studenterne).</stage>
+<p>Det skal vi se p&#x00E5;.</p></sp>
+<lb/><sp><speaker>Fredriksen.</speaker>
+<p>Ikke sligt! Ikke det gran! <stage>(op p&#x00E5; talerstolen.)</stage> Kunde jeg f&#x00E5; lov til nu &#x2013;</p></sp>
+<lb/><sp><speaker>A. Str&#x00F8;m.</speaker>
+<p>Hyl gutter!</p></sp>
+<stage>(Der hyles.)</stage>
+<lb/><sp><speaker>Fredriksen.</speaker>
+<stage>(smiler, tr&#x00E6;kker p&#x00E5; skuldrene.)</stage>
+<p>Ja, ja! <stage>(g&#x00E5;r ned.)</stage></p></sp>
+<lb/><sp><speaker>Dirigenten</speaker>
+<stage>(fors&#x00F8;ger at komme tilorde; p&#x00E5; talerstolen).</stage>
+<p>Vi har indbudt medborgere til at komme sammen &#x2013; for at vi kunde snakke om &#x2013; for at afhandle om der ikke er nogen m&#x00E5;de &#x2013; hvorp&#x00E5; vi &#x2013; som det gik an at forbedre de laverestillede klassers k&#x00E5;r &#x2013;</p></sp>
+<lb/><sp><speaker><pb n="75"/>Stemmer</speaker>
+<stage>(is&#x00E6;r blandt arbejderne.)</stage>
+<p>Vi vil ingen socialisme ha. &#x2013; Det forst&#x00E5;r ikke du dig p&#x00E5;. &#x2013; Bliv p&#x00E5; v&#x00E6;rkstedet Deres, De far!</p></sp>
+<lb/><sp><speaker>En student.</speaker>
+<p>Jeg skulde havt st&#x00F8;vlerne mine alt ig&#x00E5;r jeg, Jensen.</p></sp>
+<lb/><sp><speaker>Dirigenten.</speaker>
+<p>&#x00C5; regningen er stor nok f&#x00F8;r!</p></sp>
+<lb/><sp><speaker>En kj&#x00E6;rring.</speaker>
+<p>Nu har ikke manden min gjort noget p&#x00E5; otte dager &#x2013; bare for disse socialistgrejerne.</p></sp>
+<lb/><sp><speaker>En af socialisterne.</speaker>
+<p>Bare ikke bry dig kj&#x00E6;rring.</p></sp>
+<lb/><sp><speaker>A. Str&#x00F8;m.</speaker>
+<p>Der kan De se.</p></sp>
+<lb/><sp><speaker>P. Str&#x00F8;m.</speaker>
+<p>Bare opvigleri!</p></sp>
+<stage>Tante Ulrikke n&#x00E6;rmer sig talerstolen.</stage>
+<lb/><sp><speaker><pb n="76"/>En stemme.</speaker>
+<p>Nu skal tante paa pr&#x00E6;kestolen.</p></sp>
+<stage>Latter. Studenterne Str&#x00F8;m farer ilsomt om mellem m&#x00E6;ngden og taler sagte med folk.</stage>
+<lb/><sp><speaker>Fredriksen.</speaker>
+<p>Det blir nok vanskelig at komme tilorde, fr&#x00F8;ken &#x2013; det er s&#x00E5; mange dannede mennesker her &#x2013; akademiske borgere og slige.</p></sp>
+<lb/><sp><speaker>Tante Ulrikke.</speaker>
+<p>P&#x00E5; mig h&#x00F8;rer de nok!</p></sp>
+<stage>Hun g&#x00E5;r op p&#x00E5; talerstolen. M&#x00E6;ngden begynder at klappe voldsomt i h&#x00E6;nderne.</stage>
+<lb/><sp><speaker>Tante Ulrikke</speaker>
+<stage>(stikker hodet fremover, ser f&#x00F8;rst forbauset omkring p&#x00E5; m&#x00E6;ngden; derp&#x00E5; stolt og str&#x00E5;lende af gl&#x00E6;de, halvh&#x00F8;jt til Fredriksen).</stage>
+<p>De har respekt for en kvinde, som ikke er r&#x00E6;d. <stage>(h&#x00F8;jt.)</stage> Jeg takker. Jeg takker. Jeg skal s&#x00F8;ge at gj&#x00F8;re mig Deres applaus v&#x00E6;rdig. &#x2013; Idag havde jeg t&#x00E6;nkt at gj&#x00F8;re Dem opm&#x00E6;rksom p&#x00E5;, hvorledes et nyf&#x00F8;dt barn modtages forskjelligt i rige og fattige familjer. <stage>(Voldsom applaus).</stage> Ja, det er ogsaa v&#x00E6;rdt at l&#x00E6;gge m&#x00E6;rke til. Se bare p&#x00E5;, hvorledes forberedelserne ere forskjellige.</p></sp>
+<stage>(Applaus)</stage>
+<lb/><sp><speaker>Fin herre.</speaker>
+<p>Er forberedelserne til en f&#x00F8;dsel forskjellige hos rige og fattige, det vidste jeg ikke. <stage>(Latter.)</stage></p></sp>
+<lb/><sp><speaker><pb n="77"/>Tante Ulrikke.</speaker>
+<p>I den rige familje &#x2013;</p></sp>
+<stage>(Applaus. Hun fors&#x00F8;ger gjentagende at tale, men hvergang applaus).</stage>
+<stage>Helene kommer ilsomt; g&#x00E5;r urolig frem og tilbage i baggrunden; hun har sl&#x00F8;r foran ansigtet.</stage>
+<lb/><sp><speaker>Tante Ulrikke.</speaker>
+<p>Gj&#x00F8;r dere nar af mig? &#x2013; Hvorfor gj&#x00F8;r dere nar af mig?</p></sp>
+<stage>(Latter. Applaus).</stage>
+<stage>Et par af socialisterne gj&#x00F8;r sig f&#x00E6;rdig til at sl&#x00E5;s og g&#x00E5;r frem mod studenterne.</stage>
+<lb/><sp><speaker>Fredriksen</speaker>
+<stage>(efter dem.)</stage>
+<p>Ikke sligt. H&#x00F8;rer De. Vi m&#x00E5; t&#x00E5;le det i begyndelsen.</p></sp>
+<stage>Socialisterne tilbage til talerstolen.</stage>
+<lb/><sp><speaker>Tante Ulrikke.</speaker>
+<p>Tror dere, jeg gj&#x00F8;r det for min skyld. <stage>(Applaus.)</stage> Fy det er stygt, det er lumpent.</p></sp>
+<stage>(Applaus.)</stage>
+<lb/><sp><speaker>En student.</speaker>
+<p>Hyp, hyp. Fram med ridepisken da, bl&#x00E5;str&#x00F8;mpede Athene!</p></sp>
+<lb/><sp><speaker>Tante Ulrikke.</speaker>
+<p>Ja de fortjente lidt af den p&#x00E5; &#x2013;</p></sp>
+<lb/><sp><speaker>Studenten.</speaker>
+<p>P&#x00E5; hvad?</p></sp>
+<lb/><sp><speaker><pb n="78"/>En anden student.</speaker>
+<p>Er vi kommet til enden alt nu? S&#x00E5; er De vel f&#x00E6;rdig da, glaukopis Athene?</p></sp>
+<stage>(Latter.)</stage>
+<lb/><sp><speaker>Tante Ulrikke.</speaker>
+<p>F&#x00E5;r jeg lov at tale? <stage>(sl&#x00E5;r h&#x00E6;nderne sammen.)</stage> Gud hvor fejgt!</p></sp>
+<stage>Voldsom applaus. Fredriksen taler til hende og f&#x00E5;r hende ned af talerstolen.</stage>
+<lb/><sp><speaker>1ste referent</speaker>
+<stage>(skrivende).</stage>
+<p>&#x00C5; dette med sauce p&#x00E5;!</p></sp>
+<lb/><sp><speaker>2den referent</speaker>
+<stage>(skrivende)</stage>
+<p>Jeg anretter det r&#x00E5;t. Det er saftigt nok i sig selv. <stage>(Til 3die referent)</stage> Det er sku fine folk, De har p&#x00E5; Deres parti.</p></sp>
+<lb/><sp><speaker>3die referent</speaker>
+<stage>(skrivende; forn&#x00E6;rmet).</stage>
+<p>Hun kan <emph>aldeles</emph> ikke regnes til det liberale parti.</p></sp>
+<stage>Ejvind kommer ind fra baggrunden; ser sig omkring. Helene, der ser ham, stiller sig, s&#x00E5; hun ikke kan sees.</stage>
+<lb/><sp><speaker>Tante Ulrikke</speaker>
+<stage>(efter at have talt ivrigt med Fredriksen, farer hun op p&#x00E5; talerstolen).</stage>
+<p>Nej, jeg vil tale.<note type="footnote">tale.] <hi rend="italic">rettet fra:</hi> tale <hi rend="italic">(mangl. tegnsetting)</hi></note> Det <emph>skal</emph> frem &#x2013;</p></sp>
+<lb/><sp><speaker><pb n="79"/>A. Str&#x00F8;m</speaker>
+<stage>(til den ene fulde mand.)</stage>
+<p>Nu kan De gj&#x00F8;re det.</p></sp>
+<stage>Den fulde mand, som er kommet ud fra sjappen med et &#x00E6;g i h&#x00E5;nden, kaster det lige i ansigtet p&#x00E5; Tante Ulrikke. Latter. Applaus. Skrig. En Konstabel arresterer den fulde mand.</stage>
+<lb/><sp><speaker>Tante Ulrikke</speaker>
+<stage>(rasende, sl&#x00E5;r i stolen.)</stage>
+<p>Elendige pak! Stympere! <stage>(stille).</stage> Det er stygt, stygt. <stage>(g&#x00E5;r ned af talerstolen, s&#x00E6;tter sig med ansigtet i h&#x00E6;nderne p&#x00E5; et af trinene.)</stage></p></sp>
+<lb/><sp><speaker>Helene</speaker>
+<stage>(farer frem til Ejvind, som er kommet frem i forgrunden.)</stage>
+<p>Nu kan De tale, Ejvind &#x2013; tak fordi De kom &#x2013; forsvar hende, forsvar hende.</p></sp>
+<lb/><sp><speaker>Ejvind.</speaker>
+<p>Er De der? Jeg har ledt efter Dem. Kom Helene, vi g&#x00E5;r herfra. Her er uhyggeligt for Dem.</p></sp>
+<lb/><sp><speaker>Helene.</speaker>
+<p>Var det derfor De kom, Ejvind &#x2013; og jeg som troede &#x2013; <stage>(stiller sig op ved siden af talerstolen.)</stage></p></sp>
+<lb/><sp><speaker>Ejvind.</speaker>
+<p>De m&#x00E5; ikke. &#x2013; Jeg skal tale, jeg skal forsvare &#x2013; bare ikke De.</p></sp>
+<lb/><sp><speaker><pb n="80"/>Helene.</speaker>
+<p>Jeg tror Dem ikke, og aldrig tror jeg Dem. <stage>(sl&#x00E5;r Tante Ulrikke p&#x00E5; skuldren.)</stage> Frisk mod tante.</p></sp>
+<lb/><sp><speaker>Tante Ulrikke.</speaker>
+<p>Du her Helene. Du kom dog.</p></sp>
+<lb/><sp><speaker>Helene</speaker>
+<stage>(med h&#x00F8;j r&#x00F8;st).</stage>
+<p>Ved I, &#x2013; I &#x2013; som &#x2013;</p></sp>
+<lb/><sp><speaker>Ejvind og Tante Ulrikke</speaker>
+<stage>(samtidig).</stage>
+<p>Helene!</p></sp>
+<lb/><sp><speaker>Helene.</speaker>
+<p>I &#x2013; I som behandler Eders velgj&#x00F8;rere, I som &#x2013; I som er slig &#x2013; <stage>(stemmen kn&#x00E6;kker, hun blir r&#x00E6;d lyden af sin egen stemme.)</stage></p></sp>
+<lb/><sp><speaker>Fredriksen.</speaker>
+<p>Op p&#x00E5; talerstolen!</p></sp>
+<lb/><sp><speaker>Helene.</speaker>
+<p>Nej jeg kan godt st&#x00E5; her &#x2013; forresten var det ikke noget videre &#x2013;</p></sp>
+<lb/><sp><speaker>Fredriksen.</speaker>
+<p>Nej, op! <stage>(f&#x00E5;r hende op p&#x00E5; talerstolen; for sig selv).</stage> Ingen chance maa forspildes!</p></sp>
+<lb/><sp><speaker><pb n="81"/>Tante Ulrikke</speaker>
+<stage>(skriger ud).</stage>
+<p>Pas dig Helene! Ikke staa paa den talerstolen!</p></sp>
+<stage>Alle tr&#x00E6;nger sig om talerstolen. Det er stille.</stage>
+<lb/><sp><speaker>En stemme</speaker>
+<stage>(n&#x00E6;sten hviskende).</stage>
+<p>Fr&#x00F8;ken Blom!</p></sp>
+<lb/><sp><speaker>En anden stemme.</speaker>
+<p>Datter til professor Blom.</p></sp>
+<lb/><sp><speaker>2den referent.</speaker>
+<p>Imorgen trykkes dobbelt oplag.</p></sp>
+<lb/><sp><speaker>En tredje stemme.</speaker>
+<p>En fin Dame!</p></sp>
+<lb/><sp><speaker>Helene</speaker>
+<stage>(fra talerstolen).</stage>
+<p>Ja jeg kan ikke tale, &#x2013; det var ikke meningen s&#x00E5;. Men jeg synes, det er s&#x00E5; h&#x00E5;rdt, &#x2013; I skulde bare vide hvor god og snil hun er, hvor hun har arbejdet og str&#x00E6;vet og havt det ondt bare for at hj&#x00E6;lpe andre &#x2013; &#x2013; alt det hun har tjent, alt det hun har ejet, har hun givet bort. Hun vilde jo bare v&#x00E6;re med og forklare hvorledes man skulde hj&#x00E6;lpe dem, som har det ondt. Er det da ikke mange, som har det ondt, mange af Eder som er her ogsaa? Tante &#x2013; den dame, som talte &#x2013; tante Ulrikke, <pb n="82"/>som I selv kalder hende, hun vil jo bare at I skulde slutte jer sammen for at f&#x00E5; det bedre; &#x2013; ja jeg kan ikke udtrykke det, &#x2013; det er s&#x00E5; vanskeligt for mig at st&#x00E5; her og tale, n&#x00E5;r alle mennesker ser p&#x00E5; mig; &#x2013; men er ikke det rigtigt, er ikke det vakkert af hende, <stage>(inderligt)</stage> kan dere ikke forst&#x00E5; det da? Og hvor mange, mange er det ikke, som ikke gj&#x00F8;r noget for &#x2013; for &#x2013; fattigfolk. &#x00C5;, dere skulde kjende hende. Og da er det virkelig stygt at behandle hende slig. Og s&#x00E5; ondt hun har havt det. Og det kanske allermest, hvor man mindst skulde vente det, &#x2013; i sin egen familje <stage>(Tante Ulrikke hvisker til hende og griber hendes h&#x00E5;nd, som hun beholder.)</stage> Hun siger, at jeg ikke skal tale om det. Men jo, jeg vil tale, det skal siges, for at I skal f&#x00E5; vide, hvorledes hun er som I gj&#x00F8;r slig nar af. Hendes egen n&#x00E6;rmeste familje vil ikke v&#x00E6;re ved hende, de gj&#x00F8;r nar af hende, h&#x00E5;ner og piner hende.</p></sp>
+<lb/><sp><speaker>Ejvind.</speaker>
+<p>Helene &#x2013; fr&#x00F8;ken Helene! T&#x00E6;nk p&#x00E5; hvad De siger.</p></sp>
+<lb/><sp><speaker>Helene</speaker>
+<stage>(h&#x00F8;jt).</stage>
+<p>Hys! &#x2013; <emph>Hun</emph> er ikke r&#x00E6;d, hun tror p&#x00E5; sin sag, og hun s&#x00E6;tter livet ind for den, om det gj&#x00E6;lder, <stage>(mod Ejvind)</stage> Det er en, &#x2013; en, som &#x2013; som jeg kjender, som sagde til mig, at hver tid har sin hovedtanke, som er s&#x00E5; st&#x00E6;rk, at de andre <pb n="83"/>blir bare bitanker, som er saa levende, at den suger blodet fra alle de andre, og verden g&#x00E5;r ikke fremover, f&#x00F8;r den er l&#x00F8;st. Og <emph>vor</emph> tids hovedtanke, sagde han, er at gj&#x00F8;re mennesker, fri mennesker ud af alle dem, hvis nakke er b&#x00F8;jet mod jorden af sult og elendighed og r&#x00E5;hed &#x2013; jeg husker s&#x00E5; godt, da han forklarte mig det &#x2013; og <emph>den</emph> tanke er det, som styrer t&#x00E6;nkerne og begejstrer digterne, for bare de, som arbejder for denne tanke, bare de hvis inderste sj&#x00E6;l dirrer af h&#x00E5;b om at f&#x00E5; <emph>den</emph> l&#x00F8;st, bare de lever tidens, <emph>vor</emph> tids liv. <stage>(holder sig for &#x00F8;jnene)</stage> S&#x00E5; var det han sagde <stage>(voldsomt mod Ejvind)</stage> <emph>Det</emph> er tidens pulsslag, <emph>det</emph> er det som kr&#x00E6;ves i tidens digtning, og ikke &#x2013; ikke &#x2013; <stage>(truer mod Ejvind).</stage></p></sp>
+<lb/><sp><speaker>Tante Ulrikke</speaker>
+<stage>(rejser sig halvt).</stage>
+<p>Helene, Helene!</p></sp>
+<lb/><sp><speaker>Helene</speaker>
+<stage>(tr&#x00E6;kker Tanten lidt frem foran talerstolen).</stage>
+<p>Ja, hun arbeider for denne tanke, hun tror p&#x00E5; den, &#x2013; hun er i sl&#x00E6;gt med tidens storm&#x00E6;nd &#x2013; ja hun, hun, og ikke vi andre kloge fornuftige mennesker, som bare snakker og snakker og ikke gj&#x00F8;r noget <stage>(slipper Tante Ulrikkes haand).</stage> Eller er det s&#x00E5;, at vi almindelige mennesker ikke har noget med de store at gj&#x00F8;re &#x2013; er det s&#x00E5;, som jeg har l&#x00E6;st i en bog, at &#x00E5;ndens helte herhjemme og <pb n="84"/>ude i hele verden bare er som en flok traner i susende flugt hen over vore hoder, og at de enkelte, almindelige som ser dem og kan tyde deres flugt, at de bare f&#x00E5;r et slag af vingerne over &#x00F8;jnene, s&#x00E5; de blir forfjamsede, som &#x2013; det g&#x00E5;r med enkelte. &#x00C5; nej, nej, lad det ikke v&#x00E6;re s&#x00E5;ledes. &#x2013; Lad det ikke v&#x00E6;re s&#x00E5;ledes. &#x2013; Ja det var ikke noget andet.</p></sp>
+<stage>Helene g&#x00E5;r ned af talerstolen. Tante Ulrikke omfavner hende. Fredriksen trykker hendes h&#x00E5;nd. Socialisterne roper hurra og omringer hende. En stemme: &#x00AB;Lad os b&#x00E6;re hende p&#x00E5; guldstol!&#x00BB; Hun afv&#x00E6;rger det. For&#x00F8;vrigt almindelig bev&#x00E6;gelse, men temmelig roligt.</stage>
+<lb/><sp><speaker>Ejvind.</speaker>
+<p>Jeg beundrer Dem Helene. F&#x00E5;r jeg lov at f&#x00F8;lge <stage>(r&#x00E6;kker h&#x00E5;nden ud).</stage></p></sp>
+<lb/><sp><speaker>Tante Ulrikke.</speaker>
+<p>Ja kom.</p></sp>
+<lb/><sp><speaker>Helene.</speaker>
+<stage>(skarpt).</stage>
+<p>Nej! &#x2013; Kom tante. Jeg gaar hjem til dig og blir hos dig bestandig. Kom lad os skynde os.</p></sp>
+<lb/><sp><speaker>Tante Ulrikke</speaker>
+<stage>(begeistret).</stage>
+<p>Ja vi to &#x2013; vi tre. <stage>(pludselig)</stage> Nej, det g&#x00E5;r ikke an, Helene. Du skal g&#x00E5; hjem til dine for&#x00E6;ldre. Du skal gaa hjem.</p></sp>
+<lb/><sp><speaker>Helene.</speaker>
+<p>Kom tante! Skynd dig. Jeg g&#x00E5;r til dig. <stage>(Tar tantens arm. De g&#x00E5;r.)</stage></p></sp>
+<lb/><sp><speaker><pb n="85"/>Fredriksen.</speaker>
+<p>God aften, Stabel!</p></sp>
+<lb/><sp><speaker>Ejvind.</speaker>
+<p>Godaften.</p></sp>
+<lb/><sp><speaker>Fredriksen.</speaker>
+<p>Er ikke De liberal?</p></sp>
+<lb/><sp><speaker>Ejvind.</speaker>
+<p>Jo, ved De ikke det &#x2013; hvad mener De &#x2013;</p></sp>
+<lb/><sp><speaker>Fredriksen.</speaker>
+<p>&#x00C5; det var bare s&#x00E5;&#x0027;n et sp&#x00F8;rsm&#x00E5;l.</p></sp>
+<stage>Ejvind g&#x00E5;r.</stage>
+<lb/><sp><speaker>Den ene fulde mand</speaker>
+<stage>(p&#x00E5; talerstolen).</stage>
+<p>&#x00C6;rede forsamling &#x2013; m&#x00E5; det v&#x00E6;re mig tilladt &#x2013;</p></sp>
+<stage>Da nogle vil rive ham ned, v&#x00E6;lter talerstolen. En konstabel f&#x00F8;rer den fulde mand v&#x00E6;k. Skrig og spektakel.</stage>
+<lb/><sp><speaker>P. Str&#x00F8;m</speaker>
+<stage>(til studenterne).</stage>
+<p>Vi g&#x00E5;r til samfundet.</p></sp>
+<lb/><sp><speaker>A. Str&#x00F8;m.</speaker>
+<p>Jeg m&#x00E5; op til onkel Str&#x00F8;m f&#x00F8;rst; han sidder og venter. Farvel s&#x00E5; l&#x00E6;nge! <stage>(g&#x00E5;r).</stage></p></sp>
+<stage>Studenterne g&#x00E5;r syngende: &#x00AB;Sjung om studentens lyckliga dar.&#x00BB; Referenterne ordner sine papirer.</stage>
+<lb/><sp><speaker><pb n="86"/>Fredriksen</speaker>
+<stage>(halvt for sig selv).</stage>
+<p>Ja, ja, det var det <emph>f&#x00F8;rste</emph> m&#x00F8;det!</p></sp>
+<stage>Socialisterne tar talerstolen, b&#x00E6;rer den mellem sig og g&#x00E5;r.</stage>
+<stage>En mand t&#x00E6;nder gaslygten. Det er blit skumring. Man ser byen oplyst i baggrunden. Lys i br&#x00E6;ndevinssjappen.</stage>
+</div>
+<div type="chapter" subtype="act" n="4">
+<head type="main"><ref type="contents" target="contents_5" xml:id="chapter_5">FJERDE AKT</ref></head>
+<lb/><stage>Samme dekoration som i 1ste og 2den akt.</stage>
+<stage>Om aftnen samme dag som de to foreg&#x00E5;ende akter.</stage>
+<stage>Blom g&#x00E5;r op og ned p&#x00E5; gulvet. Fruen sidder ved sybordet.</stage>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Nej, nu m&#x00E5; avisen da ved gud v&#x00E6;re kommet. Klokken er strax 9. Imorgen klager jeg i expeditionen; det er da ogs&#x00E5; for galt.</p></sp>
+<lb/><sp><speaker>Pigen</speaker>
+<stage>(ind fra spisestuen).</stage>
+<p>V&#x00E6;r s&#x00E5; god, theen er inde.</p></sp>
+<lb/><sp><speaker>Fruen.</speaker>
+<p>Er fr&#x00F8;knen hjemme?</p></sp>
+<lb/><sp><speaker>Pigen.</speaker>
+<p>Nej, hun er ikke kommet endnu.</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>S&#x00E5; kan vi vente s&#x00E5;l&#x00E6;nge. G&#x00E5; ud og se efter avisen.</p></sp>
+<stage>Pigen g&#x00E5;r og kommer lidt efter tilbage med avisen, hvorp&#x00E5; hun g&#x00E5;r.</stage>
+<lb/><sp><speaker><pb n="88"/>Blom.</speaker>
+<p>Tak! <stage>(s&#x00E6;tter sig og l&#x00E6;ser).</stage> Statsr&#x00E5;d Lies sygdom. Vi har at meddele vore l&#x00E6;sere, at if&#x00F8;lge de sidste telegrammer har statsr&#x00E5;d Lies sygdom desv&#x00E6;rre taget en meget alvorlig vending, som lader befrygte det v&#x00E6;rste. &#x2013; Stabel sendte bud op i avisen i formiddag. &#x2013; Socialistm&#x00F8;det. M&#x00F8;det der afholdtes p&#x00E5; et sted med det velklingende navn Tyveholmen havde kun samlet f&#x00E5;, for st&#x00F8;rste parten aldeles ukjendte folk. Det &#x00E5;bnedes af en student Fredriksen, der p&#x00E5; grund af sit forsultne og magre udseende og sin ikke meget moderne kl&#x00E6;dedragt fuldst&#x00E6;ndig svarer til den forestilling, man s&#x00E6;dvanligvis forbinder med navnet socialist. I sit f&#x00F8;rste foredrag tordnede han l&#x00F8;s p&#x00E5; det uretf&#x00E6;rdige samfund og kom med nogle liges&#x00E5; l&#x00F8;se som trivielle bem&#x00E6;rkninger om kapital, arbejde, produktion med flere lignende blomster fra den socialistiske vinterhave. En fra arbejdersamfundet noksom bekjendt skr&#x00E5;ler, skomager Jensen valgtes til dirigent. Vor referent m&#x00E5;tte snart forlade m&#x00F8;det og vi skal derfor til slutning kun bem&#x00E6;rke, at det p&#x00E5; m&#x00F8;det hed sig, at blandt andre vilde ogs&#x00E5; den bekjendte fr&#x00F8;ken Ulrikke Olafsen optr&#x00E6;de. Vore l&#x00E6;sere vil erindre fr&#x00F8;knen fra andre lignende lejligheder samt fra den med &#x00E6;gte studenterhumor skrevne farce, som omhandler <pb n="89"/>hende. Vi skal imorgen bringe et udf&#x00F8;rligere referat.</p></sp>
+<stage>Lidet ophold.</stage>
+<lb/><sp><speaker>Fruen.</speaker>
+<p>Gid Helene kom snart.</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Er du sulten, kan vi gjerne g&#x00E5; ind og spise.</p></sp>
+<lb/><sp><speaker>Fruen.</speaker>
+<p>Nej &#x2013; slet ikke.</p></sp>
+<stage>Advokat Str&#x00F8;m hurtig ind med ydert&#x00F8;j, som han under den f&#x00F8;lgende replik l&#x00E6;gger p&#x00E5; en stol i baggrunden.</stage>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>Det er da en fatal geschichte. Hvad vil du gj&#x00F8;re, for nu m&#x00E5; der gj&#x00F8;res noget. Gamle Stabel var rasende, da jeg talte med ham for en stund siden. Han var p&#x00E5; vejen til statsministeren. Men sint var han; departementsblodet kogte, det lugtede lang vej. Blom, hvorfor gjorde du ikke som jeg sagde; hvorfor sp&#x00E6;rrede du hende ikke inde, s&#x00E5; havde du undg&#x00E5;et at have hovedtaleren p&#x00E5; det f&#x00F8;rste norske socialistm&#x00F8;de i din n&#x00E6;rmeste familje.</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Har hun prostitueret sig s&#x00E5; skr&#x00E6;kkeligt?</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>N&#x00E5; &#x2013; du tar det med ro.</p></sp>
+<lb/><sp><speaker><pb n="90"/>Fruen</speaker>
+<stage>(til Blom).</stage>
+<p>Det er Helene.</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<stage>(rejser sig).</stage>
+<p>Helene! hvad?</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>Vidste du ikke?</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Hvad siger du &#x2013; har Helene? &#x00C5; det er skam, skam. Hvad er det dog der g&#x00E5;r for sig, Kristine? &#x2013; Og netop nu, da hun vidste, at en s&#x00E5; vigtig sag stod p&#x00E5; spil for mig &#x2013; h&#x00F8;rer du Kristine? <stage>(mod Str&#x00F8;m)</stage> Men Stabel indestod jo for Ejvind, og Ejvind lovte s&#x00E5; sikkert &#x2013;</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>Ejvind! en slig candidatus philosophi&#x00E6;! Men at du ikke vidste det. Det vidste jeg ikke. Jeg vidste ikke, at ikke du vidste det. Og det netop nu, da vi havde de bedste &#x2013; det vil da sige de v&#x00E6;rste efterretninger fra Carlsbad. Lie ligger p&#x00E5; sit yderste &#x2013; p&#x00E5; sit alleryderste; &#x2013; og fru Lie er nedkommet for tidligt. D&#x00F8;df&#x00F8;dt! &#x2013; Og s&#x00E5; sligt et m&#x00F8;de! fuldst&#x00E6;ndig nihilistisk! De foreslog at br&#x00E6;nde universitetsbibliotheket.</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Hold op, h&#x00F8;rer du, jeg vil ikke h&#x00F8;re mere. Gud i himlen, hvilken skam &#x2013; hvad er det dog der g&#x00E5;r for sig om dagen?</p></sp>
+<lb/><sp><speaker><pb n="91"/>Fruen</speaker>
+<stage>(hviskende).</stage>
+<p>Og Ulrikke?</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>Deres s&#x00F8;ster &#x2013; n&#x00E5;! Vi er jo vant til lidt af hvert fra den kant, frue. Men gud ford&#x00F8;mme mig, dette er dog det v&#x00E6;rste, at hun har rodet Helene op mellem disse fuldst&#x00E6;ndig katilinariske existenser. Fuldst&#x00E6;ndigt fiaskom&#x00F8;de for&#x00F8;vrigt! P&#x00F8;belm&#x00F8;de med skrig og leven og r&#x00E5;dne &#x00E6;g. Politiet m&#x00E5;tte tilsidst &#x2013;</p></sp>
+<lb/><sp><speaker>Blom og Fruen</speaker>
+<stage>(samtidigt).</stage>
+<p>Politiet?</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>Nej, v&#x00E6;r bare rolig, &#x2013; Deres datter blev ikke arresteret, s&#x00E5; vidt gik det da ikke. Men hele byen taler om det allerede.</p></sp>
+<stage>Tante Ulrikke farende ind.</stage>
+<lb/><sp><speaker>Tante Ulrikke.</speaker>
+<p>I ser en slagen kvinde for jer. Jeg str&#x00E6;kker v&#x00E5;ben og udleverer byttet.</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>Er det bytte eller v&#x00E5;ben &#x2013; den ridepisken og de brillerne? <stage>(peger p&#x00E5; sin pande og ryster p&#x00E5; hodet).</stage></p></sp>
+<lb/><sp><speaker>Tante Ulrikke</speaker>
+<stage>(nikker rolig).</stage>
+<p>Ja, jeg blir det, hvis jeg skal holde p&#x00E5; l&#x00E6;nger.</p></sp>
+<lb/><sp><speaker><pb n="92"/>Fruen.</speaker>
+<p>Hvor er Helene?</p></sp>
+<lb/><sp><speaker>Blom</speaker>
+<stage>(rejser sig).</stage>
+<p>Ja, hvor er Helene?</p></sp>
+<lb/><sp><speaker>Tante Ulrikke.</speaker>
+<p>Det er hende, jeg kommer fra. Jeg har l&#x00F8;bet i forvejen alt det, jeg kunde. Hun kommer her om en liden stund for at sige, at hun ikke vil bo herhjemme men flytte til mig. Hun kommer for at hente sit t&#x00F8;j. F&#x00E5; hende fra det &#x2013; b&#x00E9; hende opgi sit fors&#x00E6;t, s&#x00E5; skal jeg aldrig optr&#x00E6;de offentlig mere, aldrig mere gj&#x00F8;re familjen skam; &#x2013; jeg skal leve stille og rolig som en opdaget skandale.</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Men at det er min datter &#x2013; <emph>min</emph> datter. Det er en forf&#x00E6;rdelig tid &#x2013; der er gift og pest i luften. Men jeg har stor skyld paa mig, jeg ogs&#x00E5;. Stor skyld. Jeg har agtet alt for lidet p&#x00E5; tiden, og troet, at det var nok, at hun voxede op her i sit hjem mellem mennesker, som holdt af hende og vilde hende det vel &#x2013; bare godt og vel. Kom Kristine, vi skal slutte os t&#x00E6;t sammen og ikke bry os det gran om hvad folk vil sige, men ta rigtig venlig mod Helene. <stage>(r&#x00E6;kker frem h&#x00E5;nden).</stage></p></sp>
+<lb/><sp><speaker><pb n="93"/>Tante Ulrikke.</speaker>
+<p>Tak begge to. S&#x00E5; g&#x00E5;r jeg, og sig endelig ikke til hende, at jeg har v&#x00E6;ret her.</p></sp>
+<stage>Statsr&#x00E5;den ind.</stage>
+<lb/><sp><speaker>Statsr&#x00E5;den</speaker>
+<stage>(til Tante Ulrikke).</stage>
+<p>Er De her? De generer Dem s&#x00E5;m&#x00E6;n ikke. &#x2013; Og efter hvad der er passert, Blom, tilst&#x00E5;r jeg, at jeg heller ikke af dig havde ventet at tr&#x00E6;ffe hende her, medmindre da statsministeren muligvis skulde have ret &#x2013;</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Statsministeren?</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Ja jeg kommer i dette &#x00F8;jeblik fra hs. exc. Som Str&#x00F8;m vil have fortalt dig, drages Lie med d&#x00F8;den. <stage>(til Fruen).</stage> De har h&#x00F8;rt om hans stakkels kone, frue.</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Og statsministeren?</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Han sagde, at det vilde interessere ham overm&#x00E5;de at h&#x00F8;re, at p&#x00E5; n&#x00E6;ste socialistm&#x00F8;de havde professor Blom og fru Blom optr&#x00E5;dt sammen med datter og svigerinde.</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>Det er gud d&#x00F8;de mig grovt.</p></sp>
+<lb/><sp><speaker><pb n="94"/>Blom.</speaker>
+<p>Jeg forst&#x00E5;r ikke din sp&#x00F8;g.</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Sp&#x00F8;g! Det er aldeles ikke sp&#x00F8;g. Det er mit eller rettere, det var hans excellenses rammeste alvor. Ja, det var ikke langt fra, at han betragtede ogs&#x00E5; mig som prostitueret, p&#x00E5; grund af min overdrevne iver for din sag. Han var fuldst&#x00E6;ndig opr&#x00F8;rt.</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>Bare han ikke blir alvorlig syg.</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Han sagde udtrykkelig, at i en tid som vor kan man intet vide &#x2013;</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>Meget tr&#x00E6;ffende.</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den</speaker>
+<stage>(vender ryggen til Str&#x00F8;m).</stage>
+<p>Og det var derfor uomgj&#x00E6;ngeligt n&#x00F8;dvendigt, at du ved et eller andet afgj&#x00F8;rende skridt, ved en offentlig erkl&#x00E6;ring eller hvadsomhelst gav almenheden tilkjende, at du ikke alene misbilligede og beklagede, men ogs&#x00E5; ford&#x00F8;mte den skandale, som har fundet sted i din familje, &#x2013; at du, som hs. exc. udtrykte sig, med andre ord, viste du var en mand og at du vidste, hvor en mand skal st&#x00E5; i vor tid.</p></sp>
+<lb/><sp><speaker><pb n="95"/>Blom.</speaker>
+<p>Ulrikke har lovt &#x2013;</p></sp>
+<lb/><sp><speaker>Tante Ulrikke.</speaker>
+<p>Jeg skal aldrig optr&#x00E6;de mere. Jeg skal forsvinde.</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Det er temmelig ligegyldigt, hvad <emph>De</emph> gj&#x00F8;r. Det er ligeoverfor Helene, du m&#x00E5; optr&#x00E6;de.</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Hvad mener du?</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Du har h&#x00F8;rt ministerens ord?</p></sp>
+<lb/><sp><speaker>Fruen.</speaker>
+<p>De mener da ikke, at Blom skal afgive en offentlig erkl&#x00E6;ring &#x2013; mod Helene, sin egen datter.</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>Hun kommer her om et &#x00F8;jeblik for at hente sit t&#x00F8;j.</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Hvad? For at hente sit t&#x00F8;j! Blom, du har alts&#x00E5; af dig selv forstaaet &#x2013;</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>Tv&#x00E6;rtimod. Vi har belavet os p&#x00E5; stor forsoningsfest. Blom og fruen var allerede faldt i <pb n="96"/>hverandres arme, jeg skulde lige til at omfavne tante Ulrikke &#x2013; og du kommer som du var kaldet, for vi venter bare p&#x00E5; Helene for at b&#x00E9; hende tilgive os, at vi ikke har v&#x00E6;ret p&#x00E5; m&#x00F8;det.</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Jeg forst&#x00E5;r ikke. Er det sp&#x00F8;g eller alvor, &#x2013; har Blom forbudt eller har du ikke forbudt hende dit hus?</p></sp>
+<lb/><sp><speaker>Tante Ulrikke.</speaker>
+<p>Det er Helene selv som har besluttet, at hun vil bli hos mig og ikke komme hjem. Kom ikke og l&#x00E6;g Dem i vejen &#x2013; for guds skyld gj&#x00F8;r det ikke. Lad hende ikke bli hos mig &#x2013; jeg har det s&#x00E5; uhyggelig og uordentlig. Lad hende f&#x00E5; bli herhjemme, hvor hun har hygge og fred &#x2013; h&#x00F8;rer De Stabel.</p></sp>
+<lb/><sp><speaker>Fruen.</speaker>
+<p>Og Deres s&#x00F8;n?</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Ja Ejvind?</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Han er <emph>aldeles</emph> umulig. Up&#x00E5;lideligheden selv, &#x2013; men nu skal han ind i departementet.</p></sp>
+<lb/><sp><speaker>Tante Ulrikke</speaker>
+<stage>(med ufrivilligt udrop).</stage>
+<p>Ja, Ejvind er en sjofelist!</p></sp>
+<lb/><sp><speaker><pb n="97"/>Statsr&#x00E5;den.</speaker>
+<p>Hvad?</p></sp>
+<lb/><sp><speaker>Tante Ulrikke.</speaker>
+<p>Ja frygtelig sjofel. Helene har fortalt mig alt &#x2013; men jeg har lovt ikke at sige noget. Men kan dere da ikke forst&#x00E5;, at jeg som ikke har m&#x00E6;rket noget, som har troet, at han var en bra kar, har stolt p&#x00E5; ham som p&#x00E5; mig selv &#x2013; at jeg kan ikke ha Helene hos mig, kan dere ikke forst&#x00E5; det? &#x2013; <stage>(stille, smerteligt)</stage> jeg bringer ulykke hvor jeg kommer. <stage>(s&#x00E6;tter sig i baggrunden).</stage></p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Din datter er aldrig blit omtalt s&#x00E5;ledes i mit hus. Men Blom, la os s&#x00E6;tte de personlige f&#x00F8;lelser til side. Vi f&#x00E5;r handle med kjendsgjerninger, og du skulde v&#x00E6;re taknemlig mod forsynet, fordi alting f&#x00F8;jer sig s&#x00E5; inderlig vel for dig. &#x2013; Helene har alts&#x00E5; besluttet at flytte hjemmefra og opholde sig hos din svigerinde &#x2013; f&#x00E5; hende ikke fra det.</p></sp>
+<lb/><sp><speaker>Fruen.</speaker>
+<p>Christian, la os ta venligt mod hende, n&#x00E5;r hun kommer.</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Bli ikke vred frue, fordi jeg blander mig i sagen. Jeg forst&#x00E5;r Dem s&#x00E5; godt frue. Men bet&#x00E6;nk Dem, bet&#x00E6;nk Dem, f&#x00F8;r De tar parti. <pb n="98"/>Resultatet kan blive, at De forhindrer Deres mand i et af de vigtigste skridt i hans liv. Bet&#x00E6;nk Dem to gange, frue.</p></sp>
+<stage>Fruen s&#x00E6;tter sig.</stage>
+<lb/><sp><speaker>Fruen</speaker>
+<stage>(mod Blom).</stage>
+<p>Man vil tro, at Helene har m&#x00E5;ttet flytte hjemmefra p&#x00E5; grund af skandalen; Helene selv ved, at det er hun og ikke du, som har besluttet det. Du handler som en mand og som en far. Du har tat et afgj&#x00F8;rende skridt og du blir statsr&#x00E5;d, hvorved &#x00E5;bnes dig rig anledning til nyttige reformer &#x2013;</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>Gavnlige foranstaltninger, en anden orden i administrationen, samarbejde mellem statsmagterne, &#x2013; som det heder i oppositionspressen.</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Og det siger jeg dig, Blom. Jeg synes, det er h&#x00E5;rde vilk&#x00E5;r, du byder mig, for det ser jo ud, som du for alvor bet&#x00E6;nker dig p&#x00E5; enten du skal f&#x00F8;lge mit eller <emph>den</emph> dames r&#x00E5;d. <stage>(peger bag over p&#x00E5; tante Ulrikke).</stage> Det er dog lidt pinligt for mig. Er det ikke hun som er skyld i det hele? Hun har revet Helene ud af sit gode lune hjem, hun &#x2013;</p></sp>
+<lb/><sp><speaker>Blom</speaker>
+<stage>(usikkert).</stage>
+<p>Du har et stort ansvar p&#x00E5; dig, Ulrikke.</p></sp>
+<lb/><sp><speaker><pb n="99"/>Statsr&#x00E5;den.</speaker>
+<p>Hun har bragt splid og tvist herind. <emph>Hun</emph> er det, som p&#x00E5;ny, nu da sagen kunde ordnes p&#x00E5; den bedste m&#x00E5;de, holder p&#x00E5; at forpurre det hele ved sine narrerier og sit oversp&#x00E6;ndte v&#x00E6;sen. Er det rimelighed i, at <emph>hun</emph> skal v&#x00E6;re til hinder for, at du kan tr&#x00E6;de ind i kongens r&#x00E5;d. Dette er ikke humanitet l&#x00E6;nger, det er godfjottethed &#x2013; Er vi voxne m&#x00E6;nd? &#x2013; Eller du synes kanske jeg gj&#x00F8;r hende uret?</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Nej, ved gud. Hun har v&#x00E6;ret og er til skandale for familjen. Altid, altid. Jeg kan ikke la mig lede i mine skridt af et galt menneske.</p></sp>
+<lb/><sp><speaker>Fruen.</speaker>
+<p>Christian &#x2013; hun er min s&#x00F8;ster.</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Ja, og datter af din far, ja, som kunde takke sin gud, at han ikke kom p&#x00E5; tugthuset for sine skriverier mod alt, hvad der er helligt i dette land. Hun har det fra barn. D&#x00E5;rlig rase.</p></sp>
+<lb/><sp><speaker>Fruen</speaker>
+<stage>(mod ham; halvh&#x00F8;jt).</stage>
+<p>Det var dog til dig, jeg lytted, og ikke til rasen, ikke til far, dengang jeg gifted mig med dig.</p></sp>
+<lb/><sp><speaker><pb n="100"/>Blom.</speaker>
+<p>Hvad er det Kristine &#x2013; hvad mener du?</p></sp>
+<lb/><sp><speaker>Fruen</speaker>
+<stage>(l&#x00E6;gger h&#x00E5;nden p&#x00E5; hans skulder).</stage>
+<p>&#x00C5; ingenting &#x2013; men far holdt s&#x00E5; meget af hende.</p></sp>
+<stage>Helene ind.</stage>
+<lb/><sp><speaker>Helene.</speaker>
+<p>Godaften. &#x2013; Du her tante? I ved alts&#x00E5;. &#x2013; Jeg g&#x00E5;r ind p&#x00E5; mit v&#x00E6;relse for at hente noget t&#x00F8;j, mor. Vent p&#x00E5; mig s&#x00E5;l&#x00E6;nge tante. <stage>(g&#x00E5;r ud spisestud&#x00F8;ren. Fruen g&#x00E5;r lidt efter).</stage></p></sp>
+<lb/><sp><speaker>Tante Ulrikke</speaker>
+<stage>(frem; ivrig).</stage>
+<p>Spar hende. Kunde dere ikke se p&#x00E5; hende: Hun gir sig ikke, aldrig i evighed. Du kommer til at angre det bitterlig, bitterlig &#x2013; og du holder jo af hende. Forst&#x00E5;r du da ikke, hun blir som jeg. Som jeg! Hvor hun g&#x00E5;r p&#x00E5; gaden, vil de pege og fnise og vende sig. Ikke fiender men ynkere. Ikke h&#x00E5;nlatter, men medlidenhedssmil &#x2013; lige op i ansigtet. &#x00C5; hun kommer til at st&#x00E5; s&#x00E5; alene, s&#x00E5; ensomt alene. B&#x00E9; hende bli, eller hun kommer aldrig hjem igjen.</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Aldrig &#x2013;?</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Blom! &#x2013; Jeg g&#x00E5;r min vej, hvis din svigerinde en eneste gang til f&#x00E5;r lov at blande sig i denne sag.</p></sp>
+<lb/><sp><speaker><pb n="101"/>Tante Ulrikke</speaker>
+<stage>(stille).</stage>
+<p>&#x00C5; nej, det kan vel kanske ikke nytte. <stage>(g&#x00E5;r frem og tilb&#x00E5;ge i baggrunden).</stage></p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Herregud, kan du da ikke indse, at en slig sag varer da ikke evig. Om et par maaneder er jo det hele glemt, og da kan vi jo se, hvorledes sagen kan arrangeres.</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>Og er du f&#x00F8;rst blit minister s&#x00E5; er der ingen jordisk magt, som kan rokke dig <stage>(til statsr&#x00E5;den)</stage> Ikke sandt? At komme ind i det norske statsr&#x00E5;d er ikke s&#x00E5; vanskeligt, men ud kommer man ikke f&#x00F8;r man bliver forfremmet endnu h&#x00F8;jere op. <stage>(peger mod himlen).</stage></p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Ja men jeg kan da umulig foresl&#x00E5; Helene dette; &#x2013; det er jo at spille komedie.</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>Uf!</p></sp>
+<stage>Ejvind ind.</stage>
+<lb/><sp><speaker>Str&#x00F8;m</speaker>
+<stage>(til Ejvind).</stage>
+<p>De vover da noget, De. De har min agtelse &#x2013; fors&#x00E5;vidt. Spekulationen var dristig <pb n="102"/>lagt. Kun skade, at endossenterne trak sig tilbage i sidste &#x00F8;jeblik.</p></sp>
+<lb/><sp><speaker>Ejvind</speaker>
+<stage>(hidsig).</stage>
+<p>Hr. advokat, jeg &#x2013; jeg vilde &#x00F8;nske &#x2013; gid jeg kunde betale Dem de penge tilbage.</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m</speaker>
+<stage>(rolig).</stage>
+<p>Ja gid De kunde. Med renter og omkostninger.</p></sp>
+<lb/><sp><speaker>Ejvind.</speaker>
+<p>Godaften Ulrikke. Jeg kommer fra dig. Jeg vilde h&#x00F8;re, hvorledes det stod til med fr&#x00F8;ken Helene.</p></sp>
+<lb/><sp><speaker>Tante Ulrikke.</speaker>
+<p>&#x00C5; hold &#x2013; jeg ved det altsammen, Helene har fortalt det. Du skulde se at komme ind i statsr&#x00E5;det, du ogs&#x00E5;; der passer du sammen med din far og den dotten, som jager sin datter for at bli det.</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Ulrikke, det er for galt.</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Det er en forn&#x00E6;rmelse mod dine gj&#x00E6;ster at t&#x00E5;le sligt.</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>Sl&#x00E5; hende ud af vinduet.</p></sp>
+<lb/><sp><speaker><pb n="103"/>Statsr&#x00E5;den.</speaker>
+<p>Kom Str&#x00F8;m, vi g&#x00E5;r.</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>G&#x00E5; med dig Ulrikke. Jeg t&#x00E5;ler det ikke. Du forn&#x00E6;rmer mig i mit eget hus &#x2013; og mine gj&#x00E6;ster.</p></sp>
+<lb/><sp><speaker>Tante Ulrikke</speaker>
+<stage>(rolig).</stage>
+<p>&#x00C5; nej, det kan vel ikke nytte at tigge l&#x00E6;nger. Det kan vel ogs&#x00E5; v&#x00E6;re det samme. Vi skal g&#x00E5; sammen, og dere skal h&#x00F8;re fra os &#x2013; v&#x00E6;r sikker p&#x00E5; det. For hun har h&#x00F8;rt krigstrompeten og bag den messingbasunen.</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>Hvad for en messingmusik!</p></sp>
+<lb/><sp><speaker>Blom, Statsr&#x00E5;den, Ejvind.</speaker>
+<p>Hvad &#x2013; hvad er &#x2013;?</p></sp>
+<lb/><sp><speaker>Tante Ulrikke.</speaker>
+<p>Og man glemmer ikke den lyd. Om man s&#x00E5; bare en eneste gang har lagt &#x00F8;ret til jorden og h&#x00F8;rt den dumpe lyd af millionernes marsch og fanernes knitrende slag i luften. I spidsen g&#x00E5;r genierne &#x2013; og s&#x00E5; et uendeligt tog af fattige og ulykkelige. Retf&#x00E6;rdighed, roper f&#x00F8;rerne. Retf&#x00E6;rdighed, retf&#x00E6;rdighed toner det som sang over hele h&#x00E6;ren &#x2013; og de f&#x00E5;r, de tar retf&#x00E6;rdighed. <pb n="104"/>Kan man h&#x00F8;re slig sang, naar man lytter, da lar man dem gjerne le, da st&#x00E5;r man gjerne p&#x00E5; sin forpost og fryser, da er man gjerne gal og rar og halvtomset og lar de andre v&#x00E6;re kloge; &#x2013; <emph>jeg</emph> har h&#x00F8;rt slig sang, og <emph>hun</emph> har h&#x00F8;rt, og vi smiler af de kloge, vi ynker dem. Ynkv&#x00E6;rdige gamlinger.</p></sp>
+<stage>Fruen ind hurtigt.</stage>
+<lb/><sp><speaker>Fruen.</speaker>
+<p>Nu kommer hun Blom.</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Talte du med hende?</p></sp>
+<lb/><sp><speaker>Fruen.</speaker>
+<p>Nej, jeg var r&#x00E6;d, hun ikke vilde lukke op, s&#x00E5; jeg banked ikke p&#x00E5;. Der er hun <stage>(inderligt).</stage> Blom, Blom, det er Helene.</p></sp>
+<stage>Helene ind med en liden vads&#x00E6;k.</stage>
+<lb/><sp><speaker>Helene.</speaker>
+<p>S&#x00E5; kan jeg f&#x00E5; hentet resten imorgen. Farvel mor. <stage>(trykker hendes h&#x00E5;nd).</stage> Farvel far. &#x2013; Tante har boet s&#x00E5; alene nu i mange &#x00E5;r &#x2013; og nu vil jeg se at gj&#x00F8;re det lidt godt og hyggeligt for hende, &#x2013; og vi passer s&#x00E5; godt sammen. Vi har s&#x00E5; mange ting, vi kan tale om, og kanske ogs&#x00E5; f&#x00E5; arbejdet noget for. &#x2013; Farvel far <stage>(r&#x00E6;kker h&#x00E5;nden ud)</stage> Farvel mor. Kom s&#x00E5;, tante.</p></sp>
+<lb/><sp><speaker><pb n="105"/>Tante Ulrikke</speaker>
+<stage>(frem).</stage>
+<p>Tal mand!</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Ikke et ord!</p></sp>
+<lb/><sp><speaker>Fruen.</speaker>
+<p>Blom!</p></sp>
+<lb/><sp><speaker>Helene.</speaker>
+<p>Kom s&#x00E5; tante!</p></sp>
+<lb/><sp><speaker>Tante Ulrikke</speaker>
+<stage>(l&#x00E6;gger h&#x00E5;nden p&#x00E5; Bloms skulder; med helt forandret stemme).</stage>
+<p>H&#x00F8;r nu Christian. Lad os nu v&#x00E6;re fornuftige. Indbild dig, at jeg er som andre mennesker, jeg ogs&#x00E5;; for det er jeg da igrunden. Jeg har da ikke altid v&#x00E6;ret s&#x00E5; rar. Har jeg vel, Christian. Har jeg vel, advokat?</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>&#x00C5; &#x2013; &#x00E5;!</p></sp>
+<lb/><sp><speaker>Tante Ulrikke</speaker>
+<stage>(sl&#x00E5;r sp&#x00F8;gende ud med h&#x00E5;nden).</stage>
+<p>De er slem, er De. Nej, la os nu v&#x00E6;re fornuftige. Vi er jo alle s&#x00E5; glad i hende og vil hende det bare vel; ikke sandt, Christian, ikke sandt statsr&#x00E5;d? &#x2013; Og kongen bryr sig ikke om hvad hun har gjort; Christian er lige god for <pb n="106"/>det, han. Bare la hende f&#x00E5; bli hjemme her i stuen <stage>(ser sig om i stuen),</stage> her er hun kjendt og har det s&#x00E5; godt.</p></sp>
+<lb/><sp><speaker>Helene.</speaker>
+<p>Men tante da, hvad er det du ber om?</p></sp>
+<lb/><sp><speaker>Tante Ulrikke.</speaker>
+<p>Og s&#x00E5; la hende f&#x00E5; rejse til udlandet, eller la hende rejse f&#x00F8;rst og komme her hjem senere, &#x2013; <stage>(hurtig)</stage> <emph>det</emph> kan du gj&#x00F8;re, s&#x00E5; d&#x00F8;r det bort, alt det du ved nok &#x2013; &#x2013; til store byer og til Schweits og til Italien, &#x2013; der skal v&#x00E6;re s&#x00E5; vakkert, s&#x00E5; vakkert i Italien. Og giv hende alt det hun vil ha, kjoler og broscher og alt, hun er jo s&#x00E5; ung og vakker og ung.</p></sp>
+<lb/><sp><speaker>Helene.</speaker>
+<p>Tante, hvad er det du gj&#x00F8;r. Tigger du for mig? Synes du jeg har gjort noget galt da tante &#x2013; <stage>(s&#x00E6;tter sig og l&#x00E6;gger hodet i sine h&#x00E6;nder p&#x00E5; bordet.)</stage></p></sp>
+<lb/><sp><speaker>Tante Ulrikke.</speaker>
+<p>H&#x00F8;r ikke p&#x00E5; hende. Hun er ophidset nu. Det er s&#x00E5; meget, som har g&#x00E5;t hende imod idag. Men hun er s&#x00E5; god og snil og s&#x00E5; ung &#x2013; Det var en anden sag med mig. Jeg var styg, jeg. Der var ingen som gjorde kur til mig, som det heder. Kur til mig! Ja er det ikke komisk, advokat? <stage>(Str&#x00F8;m nikker)</stage> ha ha &#x2013; og s&#x00E5; blev jeg <pb n="107"/>&#x00E6;rgerlig og misundelig og begyndte at t&#x00E6;nke &#x2013; jeg syntes det var s&#x00E5; uretf&#x00E6;rdigt og syntes, at de stygge kvinders tid ogs&#x00E5; skulde komme, &#x2013; men verden er nu engang s&#x00E5; &#x2013; &#x2013; og jeg selv skal rejse paa landet. <stage>(ler)</stage> Jeg har jo igrunden fortjent at sendes p&#x00E5; landet &#x2013; til en pr&#x00E6;st, ha ha. <stage>(tar Blom under armen).</stage></p></sp>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>Ja eller til en doktor.</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Der er noget i, hvad fr&#x00F8;ken Ulrikke siger. Helene vilde vist ha godt af en tur til udlandet.</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Ja! Du har ret, Ulrikke.</p></sp>
+<lb/><sp><speaker>Tante Ulrikke.</speaker>
+<p>Ja ja!</p></sp>
+<lb/><sp><speaker>Helene.</speaker>
+<p>Jeg har ikke godt af nogen tur &#x2013; jeg vil ikke rejse til udlandet. Kom tante, jeg vil jo bli hos dig.</p></sp>
+<lb/><sp><speaker>Ejvind.</speaker>
+<stage>(helt frem i forgrunden).</stage>
+<p>Bare en kvinde som fr&#x00F8;ken Helene kunde svare slig. <stage>(stolt, afvisende)</stage> Det gj&#x00F8;r mig ondt at skulle optr&#x00E6;de mod dig, far, og muligvis mod Dem, frue, som jeg har s&#x00E5; dyb en agtelse for, <pb n="108"/>og mod dig, Ulrikke, som har sveget Helene. Men jeg kan ikke se en kvinde st&#x00E5; alene. For jeg er ikke fejg, fr&#x00F8;ken. Forst&#x00E5;r I da ikke, at det er at forn&#x00E6;rme fr&#x00F8;ken Helene at foresl&#x00E5; hende at rejse. At indbyde hende til at skamme sig. At flygte for folkesnakken. Hun, som bare har ladet sit hjerte tale, mens vi andre lar de tusen hensyn herske over os. Fr&#x00F8;ken Helene, tillad mig her i alle disse menneskers n&#x00E6;rv&#x00E6;relse at sige Dem, at jeg &#x00E6;rer Dem, beundrer Dem, ja, at jeg &#x2013;</p></sp>
+<lb/><sp><speaker>Helene.</speaker>
+<p>Ejvind Stabel &#x2013; og De vover &#x2013;</p></sp>
+<lb/><sp><speaker>Ejvind.</speaker>
+<p>Ja jeg vover, trods alt som er h&#x00E6;ndt, trods Deres vrede i dette &#x00F8;jeblik &#x2013; jeg elsker Dem, elsker Dem, og uendelig mere nu i Deres stolte ensomhed, i Deres forladte stolthed.</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m</speaker>
+<stage>(halvh&#x00F8;jt).</stage>
+<p>Han er som skabt for en jury.</p></sp>
+<lb/><sp><speaker>Helene.</speaker>
+<p>Og De vover &#x2013;. Far, at du t&#x00E5;ler! &#x2013; Tal til Deres s&#x00F8;n! &#x2013; Ved I da ikke &#x2013; her i Eders egen dagligstue, i formiddag, &#x2013; da ingen var hjemme, &#x2013; hvad han har vovet at byde mig &#x2013;</p>
+<stage>Almindelig bestyrtelse og udrop</stage>
+<p><pb n="109"/>Jeg har ikke forst&#x00E5;et det helt f&#x00F8;r nu, hvor lumpent, hvor usigelig lumpent. &#x2013; Far og mor! <emph>Han</emph> s&#x00E5;, at jeg mange gange sad med ludende hode og med h&#x00E6;nderne i skj&#x00F8;det &#x2013; <emph>han</emph> s&#x00E5;, hvor r&#x00E5;dl&#x00F8;s og uklar og fortvilet jeg ofte var &#x2013; <emph>han</emph> s&#x00E5;, at jeg var alene midt i mit hjem &#x2013; <emph>han</emph> s&#x00E5; det, og han n&#x00E6;rmed sig og han kredsed om mig med alle sine klingende ord om frihed og sandhed og talte til mig i et sprog, som han ikke brugte til andre &#x2013; og s&#x00E5; tilsidst, nu idag, troede De, at jeg var moden, at jeg kunde plukkes &#x2013; for jeg var jo ung, jeg var jo af kj&#x00F8;d og blod, som De mumlede mig i &#x00F8;ret, mens De gjorde stemmen dybere &#x2013; &#x2013; <stage>(lige mod ham)</stage> men ikke netop dengang, ikke netop dengang &#x2013; <stage>(griber efter bordet for at st&#x00F8;tte sig.)</stage></p></sp>
+<lb/><sp><speaker>Fruen</speaker>
+<stage>(t&#x00F8;rrer hendes pande).</stage>
+<p>Helene!</p></sp>
+<lb/><sp><speaker>Ejvind</speaker>
+<stage>(til Blom).</stage>
+<p>Tal rolig og mildt til hende. Hun t&#x00E5;ler ikke andet.</p></sp>
+<lb/><sp><speaker>Tante Ulrikke.</speaker>
+<p>Ta hende tilbage, Blom og Kristine. Jeg har jo ingenting m&#x00E6;rket af det, som hun siger om Ejvind, &#x2013; og slig g&#x00E5;r det, n&#x00E5;r hun kommer udenfor familjen. Behold hende. Jeg skal komme v&#x00E6;k.</p></sp>
+<lb/><sp><speaker><pb n="110"/>Helene.</speaker>
+<p>Vent tante. Ta mig med.</p></sp>
+<lb/><sp><speaker>Tante Ulrikke.</speaker>
+<p>Du f&#x00E5;r ikke lov. Du skal bli her.</p></sp>
+<lb/><sp><speaker>Helene</speaker>
+<stage>(fortvilet.)</stage>
+<p>Men er der da ingen &#x2013; er alle imod mig?</p></sp>
+<lb/><sp><speaker>Fruen.</speaker>
+<p>Tal da menneske, og sig, at det ikke er din mening, at du vil jage din datter ud p&#x00E5; gaden &#x2013; de m&#x00E5; jo tro, at det er for den elendige postens skyld.</p></sp>
+<lb/><sp><speaker>Blom</speaker>
+<stage>(vender sig mod Helene).</stage>
+<p>Helene.</p></sp>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Farvel Blom. Jeg g&#x00E5;r til hs. exc. statsministeren og melder ham dit afslag.</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m</speaker>
+<stage>(halvh&#x00F8;jt).</stage>
+<p>Bare et par m&#x00E5;neder!</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Ta hende hjem, Ulrikke, bare et par m&#x00E5;neder. Du kan jo leje en hyggelig fin lejlighed. Jeg skal bes&#x00F8;rge alt i s&#x00E5; henseende. &#x2013; Bli hos <pb n="111"/>tante et par m&#x00E5;neder, Helene, s&#x00E5; blir alt godt &#x2013; og s&#x00E5; om et par m&#x00E5;neder kan alt ordnes, s&#x00E5; kan du komme hjem igjen. &#x2013; Ja, jeg vil n&#x00F8;dig foreslaa dig det, &#x2013; jeg ser at du ikke liker det &#x2013; og det kan s&#x00E5; v&#x00E6;re; &#x2013; men du forst&#x00E5;r ogs&#x00E5; sikkert selv, at n&#x00E5;r det gj&#x00E6;lder en s&#x00E5; vigtig post &#x2013; vigtig for landet; for det er jo ikke bare for min skyld &#x2013; &#x2013; <stage>(i sinne).</stage> Svar mig barn, &#x2013; trods mig ikke lige op i ansigtet. Har du ikke alt gjort nok for at spr&#x00E6;nge familjen &#x2013; synes du ikke; &#x2013; og er ikke vi, jeg og mine venner, dannede, h&#x00E6;derlige, normale mennesker, som r&#x00E5;dede dig kj&#x00E6;rligt og fornuftigt, <stage>(forf&#x00E6;rdelig sint)</stage> mens du har ladet dig lede af et menneske som &#x2013; som &#x2013; ja jeg gider ikke ta det halvgale fruentimmers navn i min mund.</p></sp>
+<lb/><sp><speaker>Helene.</speaker>
+<p>Kom tante. Vil du ha mig?</p></sp>
+<lb/><sp><speaker>Blom.</speaker>
+<p>Du vil, Helene &#x2013;?</p></sp>
+<lb/><sp><speaker>Helene.</speaker>
+<p>Far! S&#x00E5; skulde jeg sidde et par m&#x00E5;neder p&#x00E5; straf hos dette halvgale fruentimmer, fordi jeg har forsvaret hende, eders egen s&#x00F8;ster, mod r&#x00E5; mennesker som h&#x00E5;nte hende kanske endnu v&#x00E6;rre, end det nogensinde er gjort her i huset. Er det andet jeg har gjort? <stage>(mildt og stille.)</stage> &#x00C5; nej, <pb n="112"/>far, det er vist ikke <emph>det</emph>, som spr&#x00E6;nger familjen.</p></sp>
+<lb/><sp><speaker>Tante Ulrikke</speaker>
+<stage>(griber hendes h&#x00E5;nd).</stage>
+<p>V&#x00E6;r ikke sint p&#x00E5; mig. Jeg er stolt af dig.</p></sp>
+<lb/><sp><speaker>Helene</speaker>
+<stage>(tar moderen om halsen).</stage>
+<p>Farvel mor! Hils far! <stage>(vinker p&#x00E5; Tante Ulrikke og g&#x00E5;r).</stage></p></sp>
+<lb/><sp><speaker>Blom</speaker>
+<stage>(der har sat sig med h&#x00E6;nderne for ansigtet).</stage>
+<p>Helene!</p></sp>
+<lb/><sp><speaker>Tante Ulrikke</speaker>
+<stage>(hen til ham).</stage>
+<p>Jeg skal nok stelle bra for hende &#x2013; gammelen! <stage>(til Ejvind).</stage> Du er jo falden efter en embedsmand, s&#x00E5; jeg burde ha m&#x00E6;rket det. <stage>(nejer for Str&#x00F8;m og Statsr&#x00E5;den).</stage> I skal snart f&#x00E5; h&#x00F8;re fra mig.</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>Ja De vil jo leve som en skandale &#x2013; der er opdaget hos en pr&#x00E6;st p&#x00E5; landet, &#x2013; var det ikke s&#x00E5;?</p></sp>
+<lb/><sp><speaker>Tante Ulrikke.</speaker>
+<p>&#x00C5; nej, nu skal det bli skandale af anden art, og jeg f&#x00F8;ler mig s&#x00E5; temmelig st&#x00E6;rk, at jeg kan ofre denne for at styrke ministeriet. <stage>(gir advokaten ridepisken).</stage> Det kan tr&#x00E6;nges <stage>(peger p&#x00E5; Blom).</stage> Han der skal ikke hj&#x00E6;lpe stort. Adj&#x00F8; Kristine <stage>(g&#x00E5;r).</stage></p></sp>
+<stage><pb n="113"/>Str&#x00F8;m gir statsr&#x00E5;den ridepisken. Statsr&#x00E5;den ser p&#x00E5; den og vil gi den tilbage. Str&#x00F8;m tar ikke imod den.</stage>
+<lb/><sp><speaker>Fruen.</speaker>
+<p>V&#x00E6;r ikke s&#x00E5; bedr&#x00F8;vet, Blom; for rasen er god, skal jeg sige dig. Godnat! <stage>(ind i spisestuen.)</stage></p></sp>
+<lb/><sp><speaker>Str&#x00F8;m</speaker>
+<stage>(til Ejvind).</stage>
+<p>N&#x00E5;r De nu g&#x00E5;r ind i departementet &#x2013;</p></sp>
+<lb/><sp><speaker>Ejvind.</speaker>
+<p>Jeg opgir ikke en t&#x00F8;ddel af mine anskuelser for det. Ikke en t&#x00F8;ddel; h&#x00F8;rer du det, far!</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>Nej, nej-nej. Det var slet ikke det jeg vilde tale om. S&#x00E5; ser De indom p&#x00E5; kontoret til mig imorgen formiddag.</p></sp>
+<lb/><sp><speaker>Ejvind.</speaker>
+<p>Det er virkelig altfor snilt af Dem &#x2013;</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>For n&#x00E5;r De nu g&#x00E5;r ind i departementet, s&#x00E5; kan De jo betale m&#x00E5;nedlige afdrag. Foruden renter og omkostninger. Det vilde jeg gjerne ha et bevis for. Klokken 1 imorgen formiddag!</p></sp>
+<lb/><sp><speaker>Ejvind.</speaker>
+<p>Klokken 1. Det skal v&#x00E6;re mig en &#x2013; pr&#x00E6;cis <pb n="114"/>Klokken 1. <stage>(tar sit ur op.)</stage> Jeg ser, det er endnu ikke lukket henne p&#x00E5; kaf&#x00E9;en. Godaften.</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>Bedre lykke en anden gang, forh&#x00E5;bningsfulde unge mand. Godaften. V&#x00E6;r ikke for streng mod mig i romanen. Det blir vist en morsom bog. Jeg gl&#x00E6;der mig meget. Godaften. Godaften. <stage>(f&#x00F8;lger ham til d&#x00F8;ren.)</stage></p></sp>
+<lb/><sp><speaker>Blom</speaker>
+<stage>(farer op).</stage>
+<p>Men Lie lever jo endnu &#x2013;</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>Bare ikke v&#x00E6;r r&#x00E6;d. Han er sku sikker. Om fjorten dage kan du b&#x00E6;re den afd&#x00F8;des ordner efter hans kiste. Stabel og jeg skal v&#x00E6;re marschaller.</p></sp>
+<stage>Statsr&#x00E5;den st&#x00E5;r midt fremme p&#x00E5; scenen, med den ene h&#x00E5;nd ind p&#x00E5; brystet; i den anden h&#x00E5;nd har han ridepisken. Blom og Str&#x00F8;m st&#x00E5;r p&#x00E5; hver sin side af ham.</stage>
+<lb/><sp><speaker>Statsr&#x00E5;den.</speaker>
+<p>Du har kj&#x00E6;mpet dig gjennem som en mand. Alle oplyste, eller som du selv for lidt siden sagde, alle dannede, h&#x00E6;derlige og normale mennesker st&#x00E5;r p&#x00E5; din side &#x2013; det f&#x00E5;r v&#x00E6;re dig en tr&#x00F8;st i din sorg. Desuden, Blom, om et par m&#x00E5;neder kan den sag ordnes, det siger sig selv. <pb n="115"/>Mine venner! Det gj&#x00E6;lder nu mere end nogen sinde om, at vi med guds hj&#x00E6;lp holder sammen, s&#x00E5; at landets dyrebareste interesser kan bevares.</p></sp>
+<lb/><sp><speaker>Str&#x00F8;m.</speaker>
+<p>Amen!</p></sp>
+</div>
+</body>
+</text>
+</TEI>

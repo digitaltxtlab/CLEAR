@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title></title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2009-11-18"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="002"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1814">1814</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1814_2_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main"></titlePart>
+	<titlePart type="sub"></titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<epigraph>
+<p>Gud ! vi have hørt med vore Øren, vore Fædre have fortalt os den Gierning Du gjorde i deres Dage, i des forrige Dage, deres Arm frelste dem ikke, men Din høire Haand og Din Arm og Dit An« sigtes Lys, fordi Du havde Behagelighed til dem. Gud! Du er den Samme, min Konge! befal Jacobs store Frelse! ved Dig vil vi giennembore vore Fjender, ved Dig vil vi nedtræde dem, som op« staae imod os; thi jeg forlader mig ikke paa min Bue, og mit Sværd kan ikke frelse mig; men Du haver frelst os fra vore Fjender, og Du haver beskiæmmet dem, som os hadede, vi rose os den ganske Dag i Gud, og vi takke Dit Navn evin, delig en, Sela.</p>
+<p><hi rend="align(right)">Psalm.44.</hi></p>
+				</epigraph>
+				<docEdition></docEdition>
+				<docImprint>
+				<pubPlace></pubPlace>
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+			<titlePage>
+			<pb facs="1814_2_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Helligtrekongerlyset<lb/>eller<lb/>Tre Dages Hændelser</titlePart>
+	<titlePart type="sub">paa<lb/>Dannemarks Høiskole.</titlePart>
+				<fw type="graphic"/>
+</docTitle>
+<byline>ved<lb/>
+	<docAuthor>Nik. Fred. Sev. Grundtvig,<lb/>Præst.</docAuthor>
+				</byline>
+				<fw type="graphic"/>
+				<epigraph>
+<p>Vi have seet Hans Stjerne.</p>
+<p><hi rend="align(right)">Matth. 2,</hi></p>
+				</epigraph>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace>Kjøbenhavn,</pubPlace>.<lb/>Trykt hos og forlagt af Andreas Seidelin,<lb/>store Kannikestrædet No, 46,<lb/>
+<fw type="graphic"/>
+<docDate>1814</docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<pb facs="1814_2_page0002.png"/>
+<fw type="pageNum"></fw>
+<pb facs="1814_2_page0003.png"/>
+<fw type="pageNum"></fw>
+<head>Til Fædrenelandet.</head>
+<lg>
+<l><hi rend="initial">F</hi>ædreneland !</l>
+<l>Paa Gravene Rand,</l>
+<l>Saa bleg og blaa,</l>
+<l>Du ligge maa,</l>
+<l>Nu spender Hel</l>
+<l>Sin Buestræng,</l>
+<l>Og reder vel</l>
+<l>Din Ormeseng;</l>
+<l>Saa falsk og siin,</l>
+<l>Den gamle Træl</l>
+<l>Og tvætter vel</l>
+<l>Dit Jordelin,</l>
+<l>I røde Flod</l>
+<l>As Mandeblod;</l>
+<l>Han venter vist,</l>
+<l>I Galgefrist,</l>
+<l>Din Ædelsteen</l>
+<l>Med Sølv og Mos,</l>
+<l>Din Agerrem.</l>
+<l>Til Arvegods.</l>
+<l>O! hør den Skjald,</l>
+<l>Hvis tunge Kald</l>
+<l>Det blev at spaa.</l>
+<l>Hvad grant han saae:</l>
+</lg>
+<pb facs="1814_2_page0004.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Dit Knald og Fald:</l>
+<l>Hvis første Syn,</l>
+<l>Bed Himlens Lyn,</l>
+<l>I Ungdoms Aar,</l>
+<l>Var dig paa Baar,</l>
+<l>Hans Moder død</l>
+<l>I Kjortel rod!</l>
+<l>O! hør den Skjald,</l>
+<l>Hvis gode Kald</l>
+<l>Det blev at spaa.</l>
+<l>Hvad grant han saae:</l>
+<l>Fra dybe Fald</l>
+<l>Dig reist af Gud</l>
+<l>Saa høi og prud;</l>
+<l>Hvis sidste Syn,</l>
+<l>Ved Himlens Lyn,</l>
+<l>I Manddoms Aar,</l>
+<l>Bar Dig paa Fjeild,</l>
+<l>Forløft fra Hel,</l>
+<l>Og klædt i Maar,</l>
+<l>Ja pyntet ud</l>
+<l>Som Herrens Brud!</l>
+<l>O hør den Skjald!</l>
+<l>Og følg hans Sang!</l>
+<l>Til høien Hald</l>
+<l>Er Veien trang,</l>
+<l>Men lyse Fjeld</l>
+<l>Dog naaes vel</l>
+<l>Ved Herrens Stav.</l>
+<l>Den Vei er bred</l>
+<l>Som løber ned</l>
+<l>I dybe Grav,</l>
+<l>Men mørkt er der,</l>
+<l>O Moder kiær!</l>
+<l>O vogt Dig vel !</l>
+<l>Der reder Hel</l>
+</lg>
+<pb facs="1814_2_page0005.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Din Ormeseng!</l>
+<l>O følg din Skjald</l>
+<l>Til høien Hald!</l>
+<l>O lyst er det</l>
+<l>I Morgenskiær,</l>
+<l>Og Blomstereng</l>
+<l>For Ormeseng.</l>
+<l>O hør min Bon!</l>
+<l>Lad ei Din Søn</l>
+<l>Med Hjertevee</l>
+<l>Dig jordet see!</l>
+<l>Saa paa Din Grav</l>
+<l>Han bryde maa,</l>
+<l>Som Vidne staa</l>
+<l>Paa Dommedag</l>
+<l>Med disse Ord:</l>
+<l>Gud sagde: lev!</l>
+<l>Men fræk Dit Mord</l>
+<l>Du selv bedrev.</l>
+<l>O, hør mit Ord,</l>
+<l>Og mærk det vel!</l>
+<l>For Døden groer</l>
+<l>En Urt paa Fjeld!</l>
+<l>Er Talen faer,</l>
+<l>O Moder kiær!</l>
+<l>Da kom ihu,</l>
+<l>Hvad Verden seer:</l>
+<l>Ei frelses Du,</l>
+<l>Hvis ei der skeet</l>
+<l>Et Underværk!</l>
+<l>O hør engang</l>
+<l>Min Paaskesang!</l>
+<l>O hør og mærk!</l>
+<l>Og følg Din Skjald</l>
+<l>Til høien Hald!</l>
+</lg>
+<pb facs="1814_2_page0006.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>I Verden mon være de Sygdomme to,</l>
+<l>Som Verden kan aldrig belbrede.</l>
+<l>Og den som de pine, ei Rist eller Ro</l>
+<l>Dog har, mens han færdes hernede;</l>
+<l>Ja mindre forsand</l>
+<l>I Dødningeland</l>
+<l>Thi Synden og Døden de hede.</l>
+</lg>
+<lg>
+<l>Den første er Moder, den anden er Son,</l>
+<l>De ere saa gamle af Alder,</l>
+<l>Dog synes den Kvinde saa ung og saa skiøn,</l>
+<l>Hun kurrer og lokker og kalder.</l>
+<l>Hun reder saa blødt,</l>
+<l>Og smiler saa sødt,</l>
+<l>Hver Kjæmpe maa fly eller falde.</l>
+</lg>
+<lg>
+<l>Heel listig den Kvinde forvender sit Navn,</l>
+<l>Hun kalder sia. Gammen og Glæde,</l>
+<l>Sin Slave hun kryster saa kiærlig i Favn,</l>
+<l>Paa Roser hun lader- ham træde;</l>
+<l>Men Kys er, som Smil,</l>
+<l>Saa giftig en Piil,</l>
+<l>Det er paa <hi rend="spaced">Guds Roser</hi> han træder.</l>
+</lg>
+<lg>
+<l>Da blegne de Kinder, da rynkes de Bryn,</l>
+<l>Den Synder han giøres saa bange,</l>
+<l>Thi for ham sig lofter et, grueligt Syn,</l>
+<l>En Beenrad han seer at fremgange;</l>
+<l>See, det er min Søn!</l>
+<l>Saa hvisker i Løn</l>
+<l>Den Kvinde, og hans skal du vorde.</l>
+</lg>
+<pb facs="1814_2_page0007.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Han haver ei Bue, han haver ei Sverd</l>
+<l>Han haver kun Fingrene kolde,</l>
+<l>Men komme de Fingre til Hjerterne nær.</l>
+<l>Da synke de Kiæmper saa bolde;</l>
+<l>De isne saa brat,</l>
+<l>Og sorteste Nat</l>
+<l>Indhyller det bristede Øie;</l>
+</lg>
+<lg>
+<l>Den Synder han byder det rødeste Guld</l>
+<l>For Lægedom i sin Glende,</l>
+<l>Han gryer, han stirrer saa angest paa Muld,</l>
+<l>Thi Muldet sig kalder hans Frænde;</l>
+<l>For Døden dog groer</l>
+<l>Ei Urter paa Jord,</l>
+<l>Det monne de Læger, bekiende,</l>
+</lg>
+<lg>
+<l>O Synder! Du maa da for Benraden fly.</l>
+<l>Men ikkun omsonst er Din Møie,</l>
+<l>Han følger Dig fast, naar Du reiser af By,</l>
+<l>Du seer ham med lukkede Øie;</l>
+<l>Dog hør, om Du vil,</l>
+<l>Hvad underligt Spil</l>
+<l>Du kan med den Helkonge drive!</l>
+</lg>
+<lg>
+<l>Jeg siger forsand, at dog Urter mon groe.</l>
+<l>Med synderlig Storke og Evne,</l>
+<l>De mægte at læge de Sygdomme to</l>
+<l>Om til deres Hjem Du vil stævne,</l>
+<l>Thi de voxe ei</l>
+<l>Paa alfare Vei</l>
+<l>Og ei i de blommede Enge.</l>
+</lg>
+<pb facs="1814_2_page0008.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Paa skaldede Hede, der stander et Træ,</l>
+<l>Der falder en Dug fra dets Grene,</l>
+<l>Da spirer og voxer en Urt i dets Læ,</l>
+<l>Blandt Golgathas Dødningebene,</l>
+<l>Den er ikke sod, '</l>
+<l>Thi Duggen var rød,</l>
+<l>Den bider, den brænder paa Tunge.</l>
+</lg>
+<lg>
+<l>Dog, lad den kun brænde og bide heel hvast!</l>
+<l>Den haver dog Saft som mon due.</l>
+<l>Den Benrad han stirrer da paa Dig saa fast.</l>
+<l>Og vist maa Du gyse og grue</l>
+<l>For Moder og Son,</l>
+<l>I Kvinden saa skiøn</l>
+<l>Hin ledeste Hex Du mon skue.</l>
+</lg>
+<lg>
+<l>Nist er det ei Urten som knuger Dig saa,</l>
+<l>Men Giften fra forrige Dage.</l>
+<l>Med Synd er den kommet, med Sorg maa den gaae,</l>
+<l>O, lad Dig kun ikke bedrage!</l>
+<l>Det hvisker saa tit:</l>
+<l>Den Urt Du har bidt</l>
+<l>O kast den, saa stilles Din Pine.</l>
+</lg>
+<lg>
+<l>Vær døv, om Du ellers Dig selv haver kiær,</l>
+<l>De Stemmer fra Afgrunden komme,</l>
+<l>Ved Golgatha ligger en Urtegaard nær.</l>
+<l>Der voxer saa faver en Blomme,</l>
+<l>O følg mig derind</l>
+<l>Med haabefuldt Sind !</l>
+<l>Den Urt kan for Døden helbrede.</l>
+</lg>
+<pb facs="1814_2_page0009.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>See vist paa den Grav! den er hugget i Steen,</l>
+<l>Mon Urter kan vore derinde?</l>
+<l>Det klinger heel fært hos de Døde paa Steen</l>
+<l>En Urt imod Døden at finde;</l>
+<l>Dog, tvivl ei, men tro! ,</l>
+<l>I Grav den maa gro,</l>
+<l>Om Grav skal en Blomsterseng vorde.</l>
+</lg>
+<lg>
+<l>I Graven sig hviled en Herre saa bold,</l>
+<l>Han døde paa Golqathas Hede,</l>
+<l>Af Ham haver Døden annammet sin Told,</l>
+<l>Han plantede Urten dernede,</l>
+<l>Thi der Han opstod</l>
+<l>Den under Hans Fod</l>
+<l>Opsprang som den favreste Blomme.</l>
+</lg>
+<lg>
+<l>Den dufter som Rose og Lilje sød,</l>
+<l>Dens Blade de skinne og prange,</l>
+<l>De lyse, og husvild den dagskye Død</l>
+<l>Er vorden i Fædrenevange;</l>
+<l>O løft den i Haand</l>
+<l>Med troende Aand!</l>
+<l>Da er den en Evigheds Palme.</l>
+</lg>
+<lg>
+<l>O, knæl da i Støvet for Helten saa prud,</l>
+<l>Hvis Urter kan rense og kvæqe;</l>
+<l>Han døde som Mand og opstod som en Gud,</l>
+<l>Og Han er de Fattiges Læge;</l>
+<l>Hvad beder vel Han, .</l>
+<l>Den Herre og Mand?</l>
+<l>O ! Jesus Han heder med Ære.</l>
+</lg>
+<pb facs="1814_2_page0010.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Ja, jeg bar seet Dig, Du venlige Stjerne,</l>
+<l>Dig som jeg stirrede efter saa ajerne;</l>
+<l>Som for min Fader gik straalende frem</l>
+<l>Der ban oprejste fra Hedningehjem,</l>
+<l>Der ban opreiste for glad at tilbede</l>
+<l>Kongen, hvis Komme han vented hernede.</l>
+<l>Stjerne! ja Dig, har jeg skuet forsand</l>
+<l>Blinkende over skuet Fædreneland.</l>
+</lg>
+<lg>
+<l>Fædreland! hist, hvor sig Fjeldene løfte.</l>
+<l>Høit over Hav,</l>
+<l>Der i de brede nyhuggede Kløfte</l>
+<l>Der er Din Grav.</l>
+<l>Der. naar Du døde5 paa Golgathas. Hede,</l>
+<l>Gud Dig med Christo skal Hvile berede;</l>
+<l>Der til vor Fryd og til Vogternes Skam</l>
+<l>Levende Du skal opstande med Ham,</l>
+<l>Og i Hans Glands for Disciplenes Skare</l>
+<l>Dig aabenbare</l>
+</lg>
+<p><hi rend="align(center)">Nytaarsnat og Nytaarsdag</hi></p>
+<p><hi rend="align(center)">efter gammel Stiil.</hi></p>
+<fw type="graphic"/>
+</div>
+<div>
+<pb facs="1814_2_page0011.png"/>
+<fw type="pageNum"></fw>
+<head>Fortale.</head>
+<p><hi rend="initial">H</hi>vad der har rørt sig i mit Inderste under de Farer, som nu enstund have truet Fædrenelandet, og under de bange Forventninger som nedtrykte dets Venner, det har jeg kundgiort i den liden Bog til Fædrenelandet om dets Tarv og Fare. Jeg sagde hvad jeg vidste, at dets egentlige Nød var ikke den udvortes Trængsel, men den indvortes Sløvhed og Ugudelighed, at dets egentlige Fare ei var at opsluges af en ublu Nabo, men at nedkalde Herrens strænge Domme ov r sig. Jeg sagde det frit at kun en sand, uskrømtet Omvendelse til Gud og hans Christus kunde frelse Folket timelig og evig, jeg forkyndte, at dersom den ei skedte, da skulde hverken Fjeld eller Flod, Belt eller Sund værge mod Guds Vredes Riis og Morderenglens Sværd, men jeg forkyndte og aabenbart mit visse Haab, at hvor stor en Tugtelse der end maatte behøves, hvormange Trængselsdage, der end maatte henskride, saa skulde dog Nordens Tvilling gienfødes til et helligt Liv i Gud, saa skulde hans Kirke igien blomstre i vore Landemærker, saa skulde med Fædrenes Tro dog Fædrenes Kraft og Dyder vende tilbage, saa skulde dog Norden skinne som et Nordlys i Verdens Vinter-
+<pb facs="1814_2_page0012.png"/>
+<fw type="pageNum">II</fw>
+nat, i den sidste lange Vinter, som endog Hedenolds Skjalde i Nord faae gange forud for den store Smeltning og den evige Vaar. Os er det ikke givet at vide, Tiden eller Stunden, hvilke Faderen haver sat i sin egen Magt, rolig skal vi bie efter Herren, trøstige giøre vor beskikkede Gierning, men stadelig agte paa Tidernes Tegn, altid rede til at opstaae og møde Herren, naar Han kommer. Det har jeg gjort, som et frøbeligt Menneske det formaaer ved Guds Kraft og Fred i Christo Jesu, og det var altid min Menig, at naar udvortes Fjender fremstormede, naar Dannemark vaandede sig i en Dødskamp, da og forst da var den beleilige Tid og Frelsens Dag, først da vilde hvert alvorligt Sind oplades for Guds Ord, for dets Tugt og Trøst. Da jeg nu og er ep Guds Ords Tiener, og ei i det sidste Aar bundet til noget vist Sted i Landet, bad jeg alt for længe siden Dannerkongen at lade mig følge Hæren som Præst, naar Fædrenelandet blev antastet. Stor var min Bedrøvelse, der man i de sidste Dage talede om at Riget skulde sønderlemmes uden Strid, at det Trøndelagen som i Tredie Frederiks Dage ved Guds Bistand udvristede sig selv af Sverrigs Iernhaand for at faste sig som en skinnende Perle i Dannerkongens Krone, at dette Trøndelagen skulde uden Sværdslag overgives i den samme Fieudehaand. Jeg vilde, jeg kunde hardtad ikke tro det, men jeg indflyede til Herren og fandt Hvile hos Ham, jeg følte det med inderlig Vished, at skulde det og skee, skulde og Tvillingriget et Øieblik op-
+<pb facs="1814_2_page0013.png"/>
+<fw type="pageNum">III</fw>
+løses, saa var den Sygdom dog ikke til Døden, men at Guds Søn skulde æres ved den, saa skulde dog Lazarus ved hans Almagtsord opkaldes levende af Klippehulen, Iøses og bolde Nadveren med Herren. Det Syn udbredte jeg for Fædrenelandet i Tilegnelsen af Roeskilde-Riim til Kong Frederik den Sjette. Rolig vendte jeg min Stav mod Klippelandet, gierne vilde jeg sig? Dannemark min Moder et hjerteligt Farvel, gierne vilde jeg prøve om hun ei kunde opvækkes til at vogte Rosenkilden i sit Skiød og selv ved Suds Bistand ose Livets Vand af det klare, uudtømelige, Væld; men sukkende opgav jeg hardtad dette Haab, og trøstedes kun ved, at Klippevældet skulde engang nedstrømme over Marken. Jeg har talt og jeg har sjunget i Herrens Navn for mine Brødres Øren, af Spot og Vrede og Fortalelse har jeg faaet Nok, men det mistrøstende mig ikke, thi jeg vidste at det saa maatte være, men det Bifald jeg vandt det mistrøstede mig, det tomme Ja, det kraftløse Bifald, der ei kunde opvække en Eneste til at oplofte sin Stemme med mig, til at forkynde aabenbarltg sit Syn af Tidens Elendighed sin Tro paa det foragtede Guds Ord, sit Forsat i Jesu Navn at kiæmpe og lide for Brødrene; det mistrøstede mig. Den verdslige Bekymring, den Fladhed der syntes at have hjemme selv hos de Fleste af de Bedre forfærdede mig, ja nødte mig hardtad til at ansee min Gierning som endt, min Tale som sluttet hernede. Det er vitterligt, at faa Bøger have i den sidste Tid vaks
+<pb facs="1814_2_page0014.png"/>
+<fw type="pageNum">IV</fw>
+den Opsigt og det Skrig som det korte Begreb af Verdens Krønike jeg ifjor lod udgaae. Det er her ikke Spørgsmaalet hvorved Bogen blev navnkundig, eller hvordan den i sig selv var, men det er uimodsigelige Vidnesbyrd om Fladhed og Sløvhed, at ihvormange Fjender den end havde, fristede den kun to offenlige Angreb og det de overfladeligste, man vel kunde see, at uagtet den bifaldtes af en Deel, forsvaredes den kun af Een, som vel ei engang havde den Tro Bogen vidner om; at endelig mit Gienmæle ligger usolgt, at mit større Forsvar ei har kunnet trykkes-; ieg kalder disse Vidnesbyrd uimodsigelige, fordi det. umulig kunde gaaet saa, hvis man havde taget levende Deel i den Sag, hvori man dog tog saa almindelig Deel. Lægger jeg hertil, at ei engang en Nytaarsgave fra mig har kunnet finde Forlægger, og jeg skammer mig slet ikke ved at sige det var saa, at jeg med endeel Smaadigte vilde leveret den deilige Fortælling efter Knytlingesaga om Dannemarks gamle Skytshelgens Kong Knuds Levnet og ynkelige Afgang i Odense, da var jeg vel undskyldt, om jeg hardtad troede min Tale endt hernede, om jeg vaklede i den Beslutning mundtlig og offentlig at tale om Menneskets Vilkaar udenfor Kirken, hvor Guds Ord skal tales saalænge den ei lukkes for dets Tienere. At tie og nedlægge Pennen kunde derimod aldrig falde mig ind. Tunge og Pen skal jeg røre i Guds Navn, saalænge Han vil, uden at bryde mig om at det kan synes unyttigt; jeg begyndte paa den Oversættelse af Snorros Krønike,
+<pb facs="1814_2_page0015.png"/>
+<fw type="pageNum">V</fw>
+jeg havde lovet Selskabet for Norges Vel, jeg fuldforte den liden Bibelkrønike, som er under Pressen, og beredte mig til en Omarbejdelse af min lille Verdenskrønike, og under disse Sysler vækkedes jeg af den uformodentlige Gienlyd, Jyllands Raab og Vaabengnyet gav i Høiskolen. Saa meget troede jeg at burde sige til en Forklaring af det Indtryk hin Gienlyd gjorde paa mig og den Tone jeg blandede deri, og har jeg nogensinde været rolig ved, hvad Mængden vilde dømme om mig og min Adfærd, da er og maa det være nu, det jeg har taget en Beslutning, som maaske giør disse Blade til de sidste jeg udsender her. denne Tale til Ven sidste jeg udsiger for Danmarks Øren. Ja Dannemark! Du staaer paa Gravens Bred, jeg staaer der maaskee ogsaa, ja vi jordes maaskee paa een Dag, det pleier ei at være Døendes Viis at skiemte eller prale, og er det end desværre Din i mange Maader, min er det ikke. Det maa blive Din Sag om Du dog nei, om Dine Sønner nu og herefter vil regne mig til din ægte Æt, eller ikke, om de vil ihukomme eller glemme mit Navn som en Daares og Sværmers; men det veed jeg, at Du, at Øine gamle Sønner skal kiendes ved mig som en trofast Frænde, ja jeg veed det som mere er, at Gud kiendes ved mig i Christo Jesu vor Frelser, som sit Barn og sit Ords, Sandhedens Tjener. I denne høitidelige Time, da jeg staaer rede til ogsaa legemlig at vove Liv og Blod for Fædrenelandet, for det heroven til og for det gamle Danmark, i denne Time vidner jeg det for
+<pb facs="1814_2_page0016.png"/>
+<fw type="pageNum">VI</fw>
+Øine Øren rolig og betænksom: jeg veed, at jeg har sagt Dig Sandhed i Guds Navn, jeg veed at i de tre sidste Aar har jeg ikke talt til Dig for at vinde Ravn og Roes og Bifald, men ene for at kundgiøre hans Navn, som lever evindelig og drive Dig til Ham at søge den samme Barmhjertighed, som er mig Synder vederfaret, at søge den Tro, som tænder Lys i Graven, overvinder Verden og giver Liv i Død. Med denne Bevidsthed tør jeg nedlægge mine Stave i Kors paa din Grav, om det er Guds Villie, med denne Bevidsthed tør jeg sige Dig Farvel! og jeg siger det med rolig Glæde, thi i de sidste Dage, mellem Tine boglærde Sønner er mit Haab om Din Gienfødelse blevet til Vished. Vil Herren tage mig bort, vil Han tidlig kalde mig andensteds hen eller hjem til Sig, jeg veed det dog vist, Han, den Hostens Herre, vil uddrive Arbeidere i sin Høst paa Daners Mark, og maa end Hvedekornet døe førend det opvoxer,. det skal dog bære Frugt, hellig Hvede til at samles i hans Lade, naar Avnerne opbrændes med uslukkelig Ild.</p>
+<p>Nu følger en tro, og, saavidt det er gjørligt, suldstændig Beretning om min Deelagtighed i de sidste Dages Hændelser, hvilken jeg troer at burde give, for at dog Ingen, forledt af Rygter skal mod n.Vlllie troe ilde om mig, og vor Handel.</p>
+<p>Kbhavn d. 10de Jan. 1614.</p>
+<fw type="graphic"/>
+</div>
+<div>
+<pb facs="1814_2_page0017.png"/>
+<fw type="pageNum"></fw>
+<p><hi rend="initial">D</hi>et var den fjerde Januar ved Aftenstid at en af mine Venner, Jyden Christen Olsen, Candidat i Theologien, kom til mig, og sagde at der var udkommet en Opkaldelse til Menigmand i Jylland om at værge Landet mod Fjendevold, og at to Studenters, Hovix og Ingerslev, havde talt til ham om at følge med, da de med flere Studenter agtede at fare derover. Han var heel tvivlraadig om den Sag, og jeg agde oprigtig hvad jeg meente, at Timen var vel endnu ikke kommen, at der udentvivl maatte meer Trængsel til, inden der saavel ved Høiskolen som i Landet blev den Stemning der gjordes behov, for at Noget kunde udrettes ved Guds Hjelp, men ellers vidste han min Mening, at, troede jeg det var paa Tiden, vilde jeg og være paafærde. Den Tale var ude, da et Bud kom til ham med det Rygte, at der var en stor Rørelse imellem Studenterne, og at de havde
+<pb facs="1814_2_page0018.png"/>
+<fw type="pageNum">2</fw>
+isinde at fare uden videre Forlov. Det tyktes mig et Øieblik ei ilde, men fiux kom jeg ihu, at det dog ei var godt, om aldrig for andet, saa fordi et saadant Forlov var den eneste Omstændighed hvori man herved kunde erkiende Guds Kald, og det er min faste Tro, at med Alt, hvad som et hører til vort egentlige Embede, skal vi bie paa en saadan Omstændighed, Intet giøre fremfusende, ei trænge os ind i fremmed Bestilling, og ei have noget besynderligt Maal, uden at gjøre Guds Villie Enddog jeg vel vidste at dette er ei vor Tids Tænkemaade og kunde ei vente den hos Mange, saa gik jeg dog ud med Vennen, fordi det altid er mig kiært i den sovende Tid dog at see nogen Rørelse, som ei kommer ene af Egennytte og onde Lyster, ogsaa for at see hvad den-Rørelse egenlig førte i sit Skjald, og endelig for at give et godt Raad, om Nogen vilde høre mig. Vi gik da, uden at vide nogen ret Kaas, men det skulde falde saa til, at vi mødte de to Studenter, som før ere nævnte, og som vare de første, eller dog mellem de Første i det Raad. Det mærkedes da snart, eftersom det var oprigtige Svende, at, som venteligt kunde være, det gode Raad at vove Liv og Blod for det gamle Dannemark, var et Slag af det døende Hjerte, og saalidt i Pagt med roligt Overlæg, at det meget mere for et saadant syntes
+<pb facs="1814_2_page0019.png"/>
+<fw type="pageNum">3</fw>
+en Daarlighed. Det følte jeg slux, at saa burde det ingenlunde være, og at det kun nyttede gamle Dannemark lidt, om Krampeslaget blev staerkere naar Hjertet dog skulde briste og jeg stod hardt derpaa, at enten skulde Intet giøres, eller og det maatte giøres med saa roligt Overlæg, som den stakkede Tidsfrist tillod, men at man ved det Overlæg ei skulde spørge, hvad man kunde udrette, thi det kan og skal Ingen vide, men kun prøve om vi have Sind til at udrette i Guds Navn hvad han vil, uden at tragte efter Roes ellør anden Forfængelighed. Det syntes ei at falde i god Jord, og alt tog jeg til Hatten, som om her ei var meer for mig at giøre, men det blev mig i mange Maader et godt Forvarsel, at man bad mig blive og tale den Sag tilrette, og lod Sandhed giælde. End ventede jeg ei at Noget skulde komme ud af den Handel, som jeg vilde kalde Noget, men kunde dog ei undslaae mig for det Løfte at mødes med dem og Flere den næste Morgen, jeg sagde det veent ud, at hvad jeg ventede var kun lidt mere Kiendskab til Studenternes Stemning, men dog kunde jeg ei nægte dem at det var muligt andre kunde give min Tale nogen Indgang saavel som de.</p>
+<p>Det var da om Morgenen den femte Januar, det var mig en mærkværdig Dag, thi paa den døde
+<pb facs="1814_2_page0020.png"/>
+<fw type="pageNum">4</fw>
+min gamle Fader ifjord, dog døde han ei heel, Støvet faldt og Aanden begyndte sit rette Liv, det havde været mig et godt Varsel for Fædrenelandet, hvis det var dengang faldet mig ind, men det skulde ei saa være. Det faldt mig derimod ind at Frederiks Hospital maatte synes et underligt Stæd at tales ved om Dannemarks Frelse, og kunde det end i flere Maader kaldes et rimeligt Stæd, syntes det derfor ei desbedre, men da faldt det mig ind, hvad jeg og sagde til Olsen som fulgte med, at de døe ei alle som komme derind, og at Reconvalescenter vel maatte være det bedste Navn paa de bedste af Dannemarks Sønner nuomtide.</p>
+<p>Paa Frederiks Hospital var da en liben Flok forsamlet, jeg talte, hvad jeg meente, men det syntes ei at finde Indgang, de Livligste tyktes det var Daarlighed at bie efter Kongens Svar i en saa ligefrem Sag, medens Fjenderne hærgede Landet. Jeg udviklede min Grund om Guds Villie og det rolige Overlæg, erklærede, at naar man ei herom kunde enes med mig, havde jeg ei et Ord mere at tale, og trak mig tilbage, ventende paa en god Leilighed til at afsondre mig. Efter en Samtale, som jeg ikke hørte, anmodede man mig om at tale videre herom i en Større Forsamling, man enedes med mig om, at Kongens Tilladelse skulde oppe-
+<pb facs="1814_2_page0021.png"/>
+<fw type="pageNum">5</fw>
+bies, og Jyden Iansen yttrede, hvad jeg strax bifaldt, at de som endelig enedes skulde høitidelig love hinanden Troskab. Det besluttedes da til om Aftenen at indbyde vore Brødre ved Højskolen, og jeg skrev følgende Seddel:</p>
+</div>
+<div>
+<head>Brødre</head>
+<head>Studentere ved Kiøbenhavns Høiskole</head>
+<p>Dannemarks nærværende Forfatning er sørgelig, dybt maa hver Dannemand, bedrøves, men daadløs Sorg er Kvlndemærke. Komme hver, som føler gamle Dannemarks Nød! lader os raadslaae om hvad vi formaae om ei at giøre, saa at prøve til Fædrenelandets Frelse!</p>
+<p>Samlingen haldes denne Dags Aften Kl. 6, paa Elertsens Collegium.</p>
+<p>Denne Seddel var underskrevet af tolv fors uden mig, men jeg har kun Lov til at nævne saamange som nu af disse høre til vort Samfund: Olsen Spander, Iansen, Ingerslev, Blicher, Ring, Lund, Kjeruls, Steenberg, og der var vor'Agt at den Seddel skulde opstaaes ved Studigaarden og Regentsen, Men det biev forbudt, og Hr. Professor Thorlacius tegnede som Rector Magnisicus saaledes paa den:</p>
+<p>"Da hans Kongelige Majestæt, der forhen, 1801 og 1807, selv har foranlediget sligj, Op-
+<pb facs="1814_2_page0022.png"/>
+<fw type="pageNum">6</fw>
+fordring, dennegang ikke har anseet saadant Skridt som nødvendigt, saa kan jeg ikke, uden høiere Authontet, tillade denne Opfordrings Bekiendtgiørelse paa Studigaarden, eller noget andet af universitetets offentlige Localer."</p>
+<p>Det var da Helligtrekonger Aften, at jeg gik til Elertsens Coilegium. i Guds Navn, kun med den Tanke, ogsaa her at giøre mit Præsteembed, see til om nu, da Hjerterne vare i Bevægelse, nogle gode Alvorstanker kunde vækkes og fæste sig i dem. Der var en stor Forsamling, og for den laste jeg, hvad jeg i den Hast havde kunnet skrive, og det var Ord for Ord dette:</p>
+<p>Bolglærde unge Mænd, Brødre! Gamle Danmarks Sønner! For Eder, som ei vare i vort Raad der vi besluttede om det er Guds og Kongens Willie at vove og opoffre Liv og Blod for det gamle Land, for Fædreneland, for Dannemarks Folk! kaaredes jeg til at sige hvad vi see og hvad vi føle, til aabenbar at ihukomme, hvad Nøden, hvad Frygten og hvad Haabet monne være. Visselig sommer det sig for Mand med nordisk Sind og rolig Alvor, at eftertanke disse Ting, ei som Galninge at styrte frem og kaste sig i det ildsprudende Bierg for at vinde et Navn, en Lov, en Lyd paa Daarers Tunge, vist vilde Saadant vorde forgiæ-
+<pb facs="1814_2_page0023.png"/>
+<fw type="pageNum">7</fw>
+ves og for silde omringede af Skiændsel eller Dødens Angest, maatte de Arme høiligen angre deres Færd, og forbande den Time, i hvilken de lode sig henrive af det brusende Blod og de malede Blade, hvormed Verden lønner, naar Verden er bortfaren fra Die og Øre, naar Hjertet er lukket for deres Begiæring. Ingen kan heller vente det af mig, at jeg skulde love og prise Ungdoms forfængelige Tanker og forvovne Idrætter, det er sandt jeg er ung, ogsaa i mine Aarer vælter Blodet sig med glødende Ungdommelighed, ogsaa mit Hjerte banker heftigt for det gamle Dannemark, det bankede saa, saalænge jeg mindes fra Barns doms tidlige Alder, og dets Slag har tonet i min Sang over Danmarks Skove; men hvad da, jeg er Guds Ords viede Tiener, og vee mig, om jeg, uden at stirre stadelig paa det Ord, som bliver evindelig, vilde følge Hjertets Opbrusning, om jeg, ogsaa for det som er mit inderlige, lovlige Ønske, vilde stræbe med lokkende Ord at friste en Eneste til at love eller giøre, hvad han maatte fortryde , dersom jeg misbrugte Ordet til at skjule Faren, som jeg kiender, til at male Førhaabninger, som ei bo i min Barm, der ei ere mig saa visse, som det at jeg staaer levende for Eders Aasyn som for hans, der boer over alle Himle!</p>
+<pb facs="1814_2_page0024.png"/>
+<fw type="pageNum">8</fw>
+<p>Nei, nei, Herren være lovet, den Tid er omme. Sandhed Svor jeg en hellig Eed, og med hans Bistand, af hvis Skiød Sandhed udsprang i de evige Tider, og hvis Sandheds Aand hvilede over alle hans Børn fra Verdens Begyndelse, ved hans Bistand vil jeg holde den Eed saalænge jeg aander. Sandsærdig vil jeg sige Eder som jeg seer det, og som jeg veed det er i al Sandhed, hvad Nød der trykker vort Fædreneland, hvad vi bør, ville og hvad vi kan tænke at giøre. Gud hjelpe mig i den hellige Time at sige Sandhed og Eder at forstaae den i Hjertet!</p>
+<p>Dybt i den graa Oldtid taber sig Danmarks Navn og Ihukommelse, men det kan vi stave os til paa Sagas Skjold, at Mod og Vælde havde fra Arilds Tid hjemme i Dannemarks Skove som mellem Norges Fjelde, og paa hin Side Alperne mellem Gother og Langobarder gienlød dets Navn med Tilnavnet; Heltenes Hjem og Folkenes Borg. Det er vitterligt, hvorledes Danmarks Snekker giæstede Norge og England ja Frankriges og Italiens Kyster, hvorledes Knud den Stormægtige strakte sit Spir fra Roeskilde By ud over Anglernes Ve og over Noromænds Fjelde, ja endnu i Absalons og Valdemars Tage see vi danske Stavne løfte sig seierrige, ved Rygen og Estland. Vi see Bælden forgaae, Snækkerne raadne og Folket
+<pb facs="1814_2_page0025.png"/>
+<fw type="pageNum">9</fw>
+bæve, men dog see vi Dannemarks Kongedatter Margrete smykke sit Hoved med Nordens tredobbelte Krone; ja der Tiderne vendtes, der Herrens Ord gienfødte i Troen Modet og Kraften i Tredie Christians Dage, da see vi ikke længere det vilde Mod og de grumme Bærsærker, men hvo kan nævne Tallet paa de Dannemarks Sønner som ginge vældelig frem, naar Trompeten goel, hvem kan glemme at det var i Frederik den Andens Dage at Dannemark reiste sig et Minde paa Falkenberg Hede, som skal vare medens Verden staaer, thi det er usynligt for det udvortes Øie, uforkrænkeligt af Menneskers Haand, det reistes af Udelsmod og Fædrelandskiærlighed paa Troens Klippegrund. Fem og tyve tusinde Svenske maatte, vidne det lydelig i Norden at Seier kommer ei af Harens Mangfoldighed, de maatte falde eller slye for fire tusinde Danske. Af mørke Dage var der mange i den løbende Tid, Fjender trængte og Landet hærgedes, ja i Fjerde Christians og end mere i Fredie Frederiks Dage, tyktes det ret for menneskeligt Øje,. som det gamle Land skulde udskiftes, de kastede Lod om dets Klædebon. Men, de staae jo endnu, de omringe jo os, de Axelstads Volde som vidne sandfærdig, at Mod var ei svundet, at Sværd kunne hvæsses paa Bogen til at skiære Pandserringe, og Dannemark stod endda, ja trods-
+<pb facs="1814_2_page0026.png"/>
+<fw type="pageNum">10</fw>
+de Marke og Klipper som reves fra det gamle Stade, dog stod hun saa paa Mark og de skummende Bølger, at Sverrig med Rnvet i Favn, maatte skiælve og fly fra Iulernes Stavn, ja bæve bag Stralsunds Volde, og høilig forfærdes da Hvidtseld opfløi med Dannebrogs Fane og Stavn, grue selv naar det lynede under Tordenskjold fra den lave Snekke. Hvad skal jeg sige om det sidste Hundrede Aar? Dannemark laae trygt, ugjæstet, uhærget af Fjenden, men at hun laae, at hun stod ei længer, det have de</p>
+<p>Skal jeg minde E5er om det som alle hørte eller faae, om de Sorgens og Ulykkens og Skiændselens Dage, da Fjender førstegang nedtraadte Axelstads Volde, da Dannemarks Orlogger første Gang stævnede i Flaade ovet Havet under Fjendeflag, der Dannebrog førstegang i trehundrede Aar blev fredløs paa Nordhavs og Østersøes Bølger, da danske Flokke førstegang vendte Ryg i skammelig Flugt for talringe, leiede Skarer, og sank ei i Jord under Skiændselens Byrde, og vovede at opløfte deres Øine for Dannemarks Aasyn. Nu slokkes Fjender igjen, med ublu Tale og Vaabengny, saa dybt foragte de os at de deelte vort Land, som et Bytte, længe for de kom til dets Grændse, de føre Lænker paa Vogne til at binde hver Tansk, ja til at binde det gamle Norge til Sverrigs Tri-
+<pb facs="1814_2_page0027.png"/>
+<fw type="pageNum">11</fw>
+umphvogn. Nu vel, de staae fast de Klipper, Lænker mere lange og stærke end de kunne smeddes af alle Gverrigs Brud, skulde giøres behov til at favne, og holde de Stærke, ja, prøv det, Svenske Drot! at udstraekke dit møre Spir over Christiansfjeld, og see om det ei sønderspringer paa Frederikssteen. Men hvad da? er det ikke netop den Frygt som piner de Usle, som driver dem hid, hid hvor de mene at Klippen er let at udvriste af Dannerkongens Haand, hid hvor de mene at møde kun Fule og Feige, hid hvor de mene at kunne i Mag see vove hungrige Brødre vansmægte paa Klippen og graanende, vaklende under dens Mos, bøie Knæ for Brødet i Ugudeliges Haand. Og, see dee staae de Stolte, de ublu, de Guds og Menneskers Fjender paa Iyllands Grændse, ja maaske i denne Nat paa Jyllands Grund, i Jylland, i det gamle herlige Land, paa hvis Heder opvoxde Ege trods dem i Sølunds Skove, levende Ege hvis Bul endnu stod som en Steen mod Kugler og Staal paa Jyllands Hav i de sidste Dage Ja, i Longobardernes Hjem, i det herlige Land, hvor Niels Ebbesen fødtes, som lagde Bro igien mellem Dannemarks Landskab med Grevens Lug, fra hvis Grav Kong Valdemar atter udstrakte et Danespir over den samlede Mark, hvorfra Ivar Lykke udgik i den lunkne, den daadløse Tid, og fangede Sverrigs
+<pb facs="1814_2_page0028.png"/>
+<fw type="pageNum">12</fw>
+udlændiske Drot, og satte Sverriges Krone paa Margrete, paa Dannemarks Kongedatter. Dette Land vil Fjenderne nedræde, der vilde erobre Norges Klipper, eller trøste sig paa Heden over Bjergenes Høide.</p>
+<lg>
+<l>O vee den Danske, som, ei vorder heed</l>
+<l>Ved saadan en Tale at høre!</l>
+</lg>
+<p>Ja, hvo er iblandt os saa ublu, saa fræk og forvoven, at han turde loste sit Hoved og løfte sin Røst og sige: jeg er Dansk, her er jeg baaren og mine Fædre byggede her, det var mine Fædre, de herlige Mænd hvis Navne saa hæderlig klinge fra forbigangne Tider, som stod eller faldt for Dannemarks Land, hvo tor sige det, og end tilføie, j?g vil ikke staa og falde som de, det rager mig ei, hvad Fædrene gjorde, hvad Landet Maa lide. hvad Herrerne hede, naar jeg kun i Ro kan opæde mine Dage? Hvo er den Ungersvend med Levning af Aand og Hjerte som ikke med blussende Kind og rullende Die vilde love at vandre i Fædrenes Spor, at værge det gamle, det herlige Land eller falde derover. Ingen, Ingen, og det er glædeligt, det at kunde sige med Sandhed, det er disse blussende Kinder og rullende Øine., og mandige Løfter, som have samlet os her.</p>
+<p>Derom behøves da ei længere Tale, hvad Landets øjensynlige Nod monne være, og hvad vi skal
+<pb facs="1814_2_page0029.png"/>
+<fw type="pageNum">13</fw>
+ville som Danske, men hvad skal, hvad kan vi tænke at giøre? det er det store alvorlige Spørgsmaal, vi alle maa gjøre, hver for sig, som vi ville opfordres til i denne Forsamling. Vi vil gaae, vi vil opreise Folket, løfte dets Mod og dele dets Farer, visseligen,. de Ord ere faa og snart udsagde, og udsige Alt hvad vi kan tænke at giøre, og er Nogen kaldet til at opreise Folket, da er det visselig os, som fødtes uden at saae eller pløie eller sanke i Lade, os det ere som Himlens Fugle, og kunne ubundne flyve rundt over Land hvor vi lyste at synge. Men lad os betænke, om disse Ord og ere saa lette at giøre, om Landet var frelst hvis de skedte.</p>
+<p>Vi vil <hi rend="spaced">op r e i s e</hi> Følket, men hvorfra og <hi rend="spaced">hvormed</hi>? Er det kun fra Bænk og Stol og Seng de Legemer skulle opreises ? vi veed, saalænge det kan reises, maa det skee paa Sjælens Bud, vi veed, det hjalp kun lidt om Folket kunde drives flokkeviis til Skodborg eller Eider som detdreves hist til Kloge, af de Kroppe blev vist ei et Dannevirke saalidt som hist en Kiøgebugt. Vi veed det, vi har seet og hørt og fornummet, at det er Aanden som sover og Hjertet som er faldet, det er dem som skal vaagnes, dem som skal opreises. Ja vi kan jo ikke dølge det for os selv, de rade, de sove iblandt os i Tusindetal de Skabninger i Menneske-
+<pb facs="1814_2_page0030.png"/>
+<fw type="pageNum">14</fw>
+lignelse, som Intet elske uden deres syndige Lyster og de Ting som forlyste disse, i hvis Øren de Ord: Opoffrelse, Fædreneland, klinge som tomme Gienlyd fra Daarers Tider, belees og bespottes i Hjertet, selv naar de bæres paa Tunge. Ja, hvor ere de dog ikke mange iblandt os, som jublede nys over den søde livsalige Fred, vi skulde kiøbe for Novges Land og stor Skiendsel, bruge til Vellyst og Overdaad? hvormed vil vi opreise Saadanne, hvorledes vil vi indgyde dem den Kraft, og den Kiærlighed, uden hvilken det er umueligt at forsage de timelige Ting, aldeles umueligt frivillig at vove Liv og Blod hvor der er Lidet at vinde og for dem Alt at tabe, thi Alt hvad et Menneske haver giver han jo for sit Liv? Visselig, vare alle saa døve for Aandens Røft, vare alle saa dybt nedsjunkne i Verdens og Kiødets Ureenhed, da var det aldrig at vente, de kunde vaagnes. eller opreises; men det er uimodsigelig vist, at skal Nogen opreises til, mandig og rolig og betænksom at gaae Pine imøde og Død under Øine, da maa han skue og tro paa en urt som kan lindre den Pine, skue og tro paa et Liv, der er mere end det han vover, det han forsager. Det er da klart at kun ved Tro paa det evige Liv kan Folket opreises, ved Tro, siger jeg, ikke ved Tanke og Drøm, nei kun ved urokke-Irg levende Tro, saa de holde hårdt ved det Usynlige
+<pb facs="1814_2_page0031.png"/>
+<fw type="pageNum">15</fw>
+som om de saae det med Legemets Bie. Det kan vi forstaae, det kan vi felv erfare, det vidnes for os fra de forledne Tider, af de hensovne Slægter, ja er det ikke vist at Dannemarks Minde ved Svarteraa blev reist paa Troens Klippegrund</p>
+<lg>
+<l>At det Træ paa Hede gold</l>
+<l>Groende i Adelsblod,</l>
+<l>Randt af Troens Rosenrod,</l>
+<l>At det var dens Rosenkrandse</l>
+<l>Der sig vandt om Dannemarks Landse.</l>
+</lg>
+<p>veed vi ikke at der Sverriges Johan dengang bød sine Svenske fare frem og nedtræde de Faa under Hestehov, see! da laae de knælende i Støvet og tyktes lave at overfare, men see! de opreistes i Troen og de stode, faste som deres Bønners Røg for den Eviges Trone.</p>
+<p>Lad os da vel betænke, om vi selv have den Tro, om vi selv ere opreiste ved den faste Stav, og tør vende vor Tale til Himlen og sige af Hjertet til Herren: naar jeg end skal vandre i Dødens Skygges Dal, vil jeg ikke frygte for Ondt, thi Du er med mig, Din Kiep og Din Stav de skal trøste mig. Er det ikke saa med os, hvorledes vil da vi bestaae, hvad hielpe da de store Ord og de dyre Løfter, medens Faren er langt borte? vil de ikke spredes i Farens Stund, som Avner for Vinden? vil det ikke gaae os som de modige Helte der
+<pb facs="1814_2_page0032.png"/>
+<fw type="pageNum">16</fw>
+spotte med Gienfærd og Nattens Forsærdelser, men grue og bæve saasnart de skal eensomme vandre i de brede Skygger? Jeg veed det, netop i Landet, som Fjenderne true, netop der er den mægtige Tro ei aldeles forsvundet, netop der er den kun sjunket og kan opreises, men ped hvem? ved dem der ei have den selv, ved de Bespottelser der have faaet Hjem paa deres Tunge, eller ved hykkelske Ord der overfare den som fremmede, ilende Vandringsmænd?</p>
+<p>Dog, jeg veed hvad Mange sige til disse Ting, jeg vil sætte, at I med Folket og de med Edet kunde komme og staae og falde paa Grændsen, at Ærgierrighed og verdslig Bekymring og Vrede og Had og brusende Blod kunde virke det Samme til mandelig Idræt, som Troen kan virke allene, da maa jeg spørge Eder først: har Galenskab betaget Eder? Veed I da ikke at Graven er mørk, kiende I dens Vilkaar, veed I det vist at der er intet Liv naar dette forgaaer, eller at I skal lystes ved det som der er, med hvordanne Hjerter I komme? veed I det vist? tør I døe derpaa? Nei I vide det ikke, kun Troens Lys kan klare Gravens Mørke, kun Herrens Stav kan holde i Dødens Skyggedale, og hvo som uden disse gaaer i Døden, han er en Daare, han gjør den forvovne Gierning over hvilken han vist maa
+<pb facs="1814_2_page0033.png"/>
+<fw type="pageNum">17</fw>
+hyle over i de sidste. Timer, som han maa fortryde i Graad og Tænders Gnidsel.</p>
+<p>Jeg vil end spørge om delte: vare end I saa galne vare end mange Tusinde det med Eder, hvor paa, stole I da? hvorpaa bygge I den Forventning om et lykkeligt Udfald, om Gavn og Frelse for Fædrenelandet, som ene kan frelse Eder fra Verdens Spot, som dog vel maa boe i Eder, om I skulde beholde Modet? Stole I paa Eders i egen Storke eller Eders egen Kløgt eller paa et Underværk af den blinde Hændelse? Jeg vil spørge: tro I der en levende Gud til, som styrer Alt, eller tro I der er Ingen? Er der Ingen, veed I da ikke, hvor eventyrligt, ja hvor latterligt det er at vente, med Bønderflokke og slette Vaaben og Ubevanthed i Krig at seire over en ordnet Hær med en gammel krigserfaren Høvding? Har I da ikke hørt og bifaldet det saa mange Gange, at det personlige Mod ei nytter i vore Dage, at Høvdingers kløgt og Kanoners Torden raade for Seier i Strid. Eller er der en Gud til, tænker I da at Han, paa Hvem I ei tro eller stole, skal kiøre et, Underværk for Eders Skyld, for at I kunne pralende sige: det gjorde vor Arm, det, udrettede vi med vor Forstand.</p>
+<p>Saa prøv da Enhver sig selv alvorlig, som for den alvidende Guds Aasyn, om han ogsaa
+<pb facs="1814_2_page0034.png"/>
+<fw type="pageNum">18</fw>
+har den faste Tro og Tillid til den levende, almægtige Gud, om det er i Hans Navn han vil udgaa, og tale og virke og staae og falde om Herren det vil, om han har den Guds Fred, sam overgaaer al Forstand, som allene kan styrke' ham i Angest og trøste ham, hvordan saa Tingene og Seieren vendes. Hvo som ei har denne Tro og Fred, han røre sig ikke for de ere vundne, thi foragter han dem, da gaaer han til Fordærvelse, og har han dem ikke, da duer ikke han til at opreise Folket, eller staae paa Farens Dag som en luende, lysende Støtte til Fjendernes Skræk og til Venners Opmuntring; men kan boglærde Mænd ei saaledes staae, da have de Intet at gjøre i Vaabengny.</p>
+<p>Boglærde ungersvende, Brødre! gamle Danmarks Sønner! jeg haver jo slet Intet over Eder at raade, men jeg raader Eder som Broder, som Ven, som Guds Ords Tjener, jeg beder og besværger Eder, styrter dog ikke vilde frem til at forøge vor gamle Moders store Skiændsel end mere, til at jorde hende med Eder under Fjendernes Jubel, til at jorde hendes Haab, som var knyttet til Eder! Jeg veed det, at Mange af Eder have ei den Tro og den Fred, om hvilken jeg talte, trodser ikke forvovne! bier og strider med Eder selv, til I vinde de herlige Klenodier! ogsaa da vil der
+<pb facs="1814_2_page0035.png"/>
+<fw type="pageNum">19</fw>
+være Nød paa Færde, Fare af bestaae, Seier at vinde.</p>
+<p>Wil I ikke høre, vil I fare frem i Eders Hjerters Forvildelse med Pral og Trods, nu, jeg kan ei forhindre det, men vider dette, ikke jeg og ikke nogen Guds Ords Tjener kan lyse Herrens Velsignelse over Eder paa de trange Veie; nei fra denne Stund, da I have hørt Advarselen i Herrens Navn, fra denne Stund maa alle Guds Børn bede, at Herren Zebaoth vil aabenbare sin Kraft paa alle dem der foragtede ham, stolede paa deres egen Storke.</p>
+<p>Dernæst føiede jeg end et Par Ord til, hvilke jeg ei kan optegne, men det var derom, at dersom Røgen var enig med mig om det Sindelag som skulde besjæle Fædrenelandets Hjelpere, og fandt sig besjaelet af det, da vilde jeg samles med deni den næste Aften ved samme Tid. Jeg fagde og hvor godt Haab jeg havde om Udfaldet som Dannemarks Trængsel vilde faae paa det Sidste, og fremlagde mit Tilegnelsesvers til Kong Frederik den Siette.</p>
+<p>Siden optraadte to Studenter efter hinanden, den ene heed Thomsen og den anden Dichman, for at tale imod. Thomsen meente at der vel lunde udrettes en Deel uden den rene Tro paa Gud som jeg fordrede, og som han, desværre,
+<pb facs="1814_2_page0036.png"/>
+<fw type="pageNum">20</fw>
+med. Ret, kaldte sjelden, han vilde at Studenterne skulde gaae og staae som et Chor, og isaer nytte ved physisk Kraft. Dichman var evig med ham deri, at Studenterne skulde gaae i Chor, og med mig deri at de skulde have Tro paa Gud, men deri tog han meget Feil, at han talte, som om jeg meente, Alle de som gik derover skulde, være veltalende Mænd.</p>
+<p>Jeg meente det var min Skyldighed at rette den Misforstand, og med nogle Alvorsord fraraade den Daarlighed at fare over med et Tal Mennesker tagne islæng, det Galenskab at ansee Troen paa Gud som overflødig, og at stole paa physisk Kraft, som da vel er det man ved at opkalde Studenterne mindst fristes til. Det gjorde jeg, sagtens med skarpe Ord, men disse kommer jeg ei ihu, jeg veed kun det at jeg sagde, hvis det var den almindelige Stemning, da var det ude med Dannemark, saavidt man vilde vente det gienfødt i sig selv, og at jeg sagde, pil I fare saaledes daarligen frem, da kan jeg ikke forhindre det, men det maa jeg da vidne: min Sjæl er ei i Eders Raad, mit Hjerte ei i Eders Forsamling,</p>
+<p>Derved blev det da, jeg gik, og ventede, det tilstaaer jeg, Ingen at møde den næste Aften, Aden et Par Venner, med hvem ingen Aftale be-
+<pb facs="1814_2_page0037.png"/>
+<fw type="pageNum">21</fw>
+høvedes; men ednu sør jeg kom ned, mindede Ingerslev mig om at komme Paa den berammede</p>
+<p>at jeg løvede det.</p>
+<p>De som havde Mod paa den Færd men ei Behag i min Tale, satte hinanden Stævne til næste Morgen, og da jeg ej var tilstæde, vil jeg Intet melde om den Forhandling, undtagen at om Formiddagen kom to, som jeg ikke kiendte, op til mig, og vilde, at vi alle som havde Lyst til at tiene Fædrenelandet skulde see til at enes. Jeg sagde dem da reent ud, at jeg ikke ansaae det for muligt, at Mauge kunde enes med mig i dette Stykke, fordi jeg ikke saae ene paa den udvortes Gierning, men Sindelaget var mig det egenlige, ja jeg vil slet ikke dølge, hvad jeg kommer ihu, jeg sagde de skarpe men sande Ord, siod det ogsaa i min Magt, med min Haand eller et Ord af min Mund at drive Fienden fra Grændsen, og jeg vidste at Folket da vilde vende tilbage til ugudeligheds og Ureenligheds Bedrift, ja haabede jeg ikke, at Guds skulde komme ved denne Leilighed, da vilde jog ikke røre mig. De viste mig da ogsaa et Brev til Hans Kongelige Majesiæt, som Nogle havde undertegnet, hvori der stod iblandt Andet det smukke Sprog, som Tidens Kløgt har udklækket, at naar et Folk kun havde den bestemte Villie ei at undertvinges, da kunde heller Ingen undertvinge det.
+<pb facs="1814_2_page0038.png"/>
+<fw type="pageNum">22</fw>
+Dette Brev skulde være en Formula concordiæ, inen vel maatte jeg fiux erklære at Intet kunde for- maae mig til at underskrive slig daarlig, bespottelig Tale; de bad mig da giøre Udkast til et andet Brev, det lovede og holdt jeg. End beklagede de sig over at jeg haardelig havde sagt der kun vare faa som troede paa et Forsyn, da der dog vare saamange theologiske Studentere. Dertil kunde jeg kun svare, at det skulde oprigtig glæde mig, hvis jeg havde Uret deri, men jeg troede mig vis paa det Modsatte.</p>
+<p>Det var da Helligtrekongerdag ad Aften, at jeg andengang gik til Samlingsstædet, aldeles uvis om hvad Udfaldet maatte vorde, kun med den Tanke at sige sande Alvorsord i Guds Navn, og lade dem udrette hvad Han vilde. Det gjorde jeg, Men de vare ei skrevne og jeg kommer dem ei ihu, jeg mindes kun det, at jeg kortelig udviklede hvad det er at tro paa Gud som Han er, almægtig, hellig og retfærdig, og den Umulighed at han kan have skabt Verden til en Tumleplads for hans Navns og Ords Fiender og Foragtere, samt den Vished, at hans Straffedomme maa aabenbares over hvert Folk som vandrer ugudelig, ja fortære Verden, naar Syndernes Maal er fuldt. Langt fra at tags de Ord tilbage at der vare Faa som ret af Hjertet troede paa den levende Gud og
+<pb facs="1814_2_page0039.png"/>
+<fw type="pageNum">23</fw>
+havde hans Fred, bemærkede jeg at disse altid vare faa i Forhold og nuomtide saare faa, ja at der nu endog vare faa som skattede disse Klenodier og bekymredes for at eie dem. Jeg vliste og kortelig hvad det var for et Galenskab at sige, et Folk kunde ei undertvinges naar det havde den bestemte Villie, at det ei skulde skee, thi deels maatte der da ingen Gud være til, og deels var def netop det samme som at sige at det Menneske kunde ikke døe som havde den bestemte Villie at trodse Døden, jeg kunde gierne lagt til, var det sandt, da maatte Djævelen være blevet Gud for længe siden. Der denne Tale var ude, og den varede ei længe, thi der var som et Pandser om mit Hjerte og en Knebel i min Mund for den store. Forsamlings Skyld, for de Manges Skyld som jeg kunde vide, stundede kun efter at høre Nyt og sanke sig Forraad til letsindig Tale. Dermed sluttede jeg da at jeg oplæste det Brev til Dannerkongen, som jeg havde skrevet i mit Navn og i deres, som vilde enes med mig. Det syntes vist Mange en hovmo-, dig Tale, at jeg sagde derom: saa skal det være, og ei et Drd skal forandres, men jeg kunde ei tale anderledes, thi jeg havde veiet mine Ord, jeg vidste at Enhver som troede og stolede paa den levende Gud kunde gjøre de Ord til sine, men at heller ingen Anden kunde ærlig udsige dem, og
+<pb facs="1814_2_page0040.png"/>
+<fw type="pageNum">24</fw>
+med Andre vilde jeg ei enes, ja jeg sagde det frit ud, hellere vilde jeg tak saa, kun med tre Mænds Samtykke end vid anden Tale vinde Hundredes Ja.</p>
+<p>jeg af Forsamlingen, og bad dem der vare af min Mening at følge med. I disses Kreds opstod jeg siden, der Mængden var adskildt, og dette er den eneste Forsamling uden fremmede Vidner, jeg kunde ønske ogsaa denne eneste uholdt, fordi Saadant giver Skumlere Anledning til Løgn, saameget meere som min Tale ei var skreven og derfor ei kan meddeles, men det glæder mig, at der dog vare Adskillige tilstæde,</p>
+<p>som ei høre til vort Samfund, og som maatte være høist ubtu, dersom de ei sande at jeg talte netop i samme Mening til de Faa som til de Mange, at Forskiellen kun var, at jeg torde lade Mit Hjerte tale friere og høiere til Mænd, som sagde, at de vilde enes med mig i Tro paa Gud og kiærlig Hengivelse for Fædrenelandet. Det at min Tale gik ud paa den inderlige Bøn, at de vilde betænke sig ret al-</p>
+<p>vorlig før de sagde det fast, at de vilde enes med mig i den Tale og det Forsæt jeg havde kundgjorr. Jeg bad dem betænke, at man ei i cet Tilfælde kunde tro og stole paa Gud, og iøvrigt glemme ham og foragte hans Villie, at vi derfor maatte
+<pb facs="1814_2_page0041.png"/>
+<fw type="pageNum">25</fw>
+alvorlig prøve os selv, om det ogsaa var vote faste Forsæt, ved Guds Bistand at lade den Tro og Tilild tilsyne i al vor Omgængelse, thi hvis ikke, da'kunde vi vift vide at vi bedroge os selv i den Mening at vi nu med hjertelig Tro og Tillid til Ond vilde vove Liv og Blod for Fædrenelandet. Jeg mindede dem vel ogsaa om, hvad jeg mindes den første Aften udtrykkelig at have fagt: veed I at der er mørkt l Graven og at kun Tro kan tænde Lys dernede, kommer dog ihu at den Tro og Tillid gjøres behov for alle som vil</p>
+<p>bøie Hovedet i Fred, enten det saa er paa Valen eller paa Sottesengen! Jeg gav dem endelig at betænke, at det Samme for hvilket vi altid skylde Gud og os selv Regenskab, for det skulde vi dømmes af hinanden, naar vi ginge i Pagt som Brødre, og formanede dem endelig til at afsondre sig naar det ei var deres faste Fbrsæt at arbeide gjennem deres ganske Liv paa udbredelsen af Guds og Sandhedens Rige. Jeg lagde dem paa Hjerte at egenlig dette vaklede i Fædrenelandet, og at denne Vaklen voldte dets egenlige Nød, jeg sluttede med den trøstende Udsigt til, at naar vi saaledes arbeidede i Henens Navn, da skulde vi, om Livet undtes os saalænge, under de graanende Haar see gladere Tider frembryde, og med den Vished at vi da i Liv og Død skulde have den Guds Fred, som
+<pb facs="1814_2_page0042.png"/>
+<fw type="pageNum">26</fw>
+overgaaer al Forstand og forvarer Hjerter og Tanker i Christo Jesu.</p>
+<p>Derpaa adskiltes vi med den Aftale at samles næste Aften Kl. 7, for ad de, som efter rolig Betaenkning vare saa sindede, kunde give hverandre deres Ja og underskrive Brevet til Tvillingrigets Konge, ogsaa tildeels med den Aftale, at vi ei ville nævne vor Samlingstid for Nogen, paa det ei en nysgierrig Flok igien skulde sammenstimlle, og forstyrre os.</p>
+<p>Det var da den syvende Januar, at vi tredie og sidste Gang forsamledes, jeg kom med en blandet Følelse af Vemod og Glæde, Haab og Frygt, men jeg bøjedes og var nærved at mistrøstes, da jeg saae istedet for de nogle og fyrgetyve, vel hundrede Mænd, forsamlede; thi saavist som jeg ønskede at have seet det ganske Folk samlet, naar det var deres Hjertes Mening at begynde et nyt Liv for Gud og Fædrenelandet, saa utrolig forekom det mig, at der i vor Tid, skulde ved Høiskolen sindes saamange Studenter, som ei følte sig bundne til et vist Stæd, og besjæledes af dette Sindelag. Dog der vur ikke andet for, end at tale sande Alvorsord og overlade det Øvrige til den Gud, paa Hvem alene jeg i den ganske Handel havde stolet, med Bøn til ham begyndte jeg, og talede da trøstig omtrent saaledes som følger;</p>
+<pb facs="1814_2_page0043.png"/>
+<fw type="pageNum">27</fw>
+<p>Mand! Brødre! vi ere i denne Aftenstund forsamlede i Gnds Navn, for høitidelig at udsige et Ja, der ei forbinder os til Noget som vi jo vare forbundne til fra den Time vi kom til Skiels Aar og Alder, et Ja, der ei forbinder os til Andet, end hvad som er hvert Menneskes Skyldighed hvor han saa boer eller vandrer paa Jordens Kreds, men et Ja, med hviiket vi frivillig og høitidelig bekiende, at vi vide vor Skyldighed og have det faste Forsæt at lade det tilsyne i vor Omgængelse. Vi udsige dette Ja for Brødres Øren, som for Billeder af den usynlige Gud, for at vi, som kan stole paa Gud kan regne paa hverandre,, og for at vi i Farens og Fristelsens Time kan have vor Skyldighed og Dom mere levende for os, som de der staae malede i Brødrenes Aasyn, i de Brødres der hørte vort frivillige Ja, som engang maa vidne imod os, dersom vi bryde vort Løfte.</p>
+<p>Visselig, det er tungt, at Saadant skal giøres behov, thi vi veed jo at Gud er fandelig ei langt fra Nogen af os at Han som plantede Øret vel maa kunne høre, ar Han hørte det Ja eller Nei, som er det rette, som Sagdes i vorr-Hjerte; ja, har vi ikke alle engang staaet i høitidelig Forsamling, i Guds Ords. og Navns det hellige Huus, staaet der og udsagt et helligt ubrydeligt Ja for Menighedens Øren. Jo visselig, tisse Ting ere
+<pb facs="1814_2_page0044.png"/>
+<fw type="pageNum">28</fw>
+uimodsigelige, men først er det saa med os Alle, saalænge vi vandre i dette Paulun, at ihvor hardt vi end holde ved den Usynlige, som om vi saae Ham, o saa ere der dog mange Øieblikke og netop af de trangeste, meest farefulde; i hvilke Herrens Ansigt er skjult for os, i hvilke vi til Størkelse og Opmuntring behøve at see Ham som i et grovere Speil, i Brødres Aasyn, og kan kun derved opløftes til at stille Ham selv for vore Øiye. Det er desværre vel ogsaa Tilfældet med de sleste iblandt os, at udfagde vi end i Kirken det hellige Ja med troende Hjerter og bævende Læber, lovede vi end da oprigtig at frygte Herren, og blive stadelig i Hans Tro til Livets Ende; ak, i de ungdoms Aar vi siden have giennemvandret, i den ugudelige Brimmel, der omringer alle i vor gruelige Alder, at i disse glemte vi sikkerlig mangengang det hellige Ja, vel os om vi ei foragtede og bespottede det med saamange! Ja Brødre! vi ere Faa, men vist er det dog iglen de Færreste af os, som ærlig kan sige. at de bevarede Barndommens Tro og Barndommens Kiærlighed. Have vi da, som vi sige, atter kommet dem ihu, lært at skatte dem og at stæbe efter de hellige, uforkrænkelige Klenodier, o da staae de ikke for os som et helligt Arvegods, men som en forloren Skat, vi i stadig Kamp maa stræbe at vinde tilbage, og visselig, i den tunge
+<pb facs="1814_2_page0045.png"/>
+<fw type="pageNum">29</fw>
+Strid, paa den haarde Vei giøres det haardt behov, at binde deres Ihukommelse til os med Mand, saa mange og stærke, som vi forman, at giøre os Tilbagegangen saa vanskelig som mulig. Ja, visselig vi behøve det høilig at søge Størkelse, Opmuntring og Trøst, og saavist som det er, at disse Ting ene kan gives af den Lysenes Fader, fra Hvem al god og fuldkommen Gave lommer, saavist som de ene maa søges hos Ham i ydmygelig, brændende Bøn, saavist er det ogsaa, at Intet i Verden saaledes driver og løfter os til ham, som et Samfund med dem, der føle samme Trang og have samme Maal, af hvilke Nogle ere videre frem, Andre længere tilbage, Nogle stærkere, Andre svagere end vi; vi forsage da ei, naar Bjerge løfte sig for os som det synes umuligt at overstige, thi vi see Brødre, for hvem den Vei, vi alt lagde tilbage, synes ligesaa umuelig at ende; vi see og Brødre, der alt ere komne over de Bjerge, for hvilke vi grue; da vorder det klart og aabenbart for vore Øjne, at Troen fistler Bjerge, det vorder da vor eneste Bekymring at stadfæstes og grundfæstes alt mere i den, visse paa, at kan vi end ei holde lige Skridt med hverandre, til det ene og samme Maal komme vi . tog Alle som tro, ved Guds naadige Styreise og Bistand.</p>
+<pb facs="1814_2_page0046.png"/>
+<fw type="pageNum">30</fw>
+<p>Visselig, en saadan Tale vilde synes Mange, ja i vor Tid de Fleste aldeles fremmed for vort Samfund, og for den Gierning vi love Haand i Haand at prøve, men den kan ikke Synes saaledes for Nogen af os, saafremt der er Ingen iblandt os, som ubetænksom eller ublu rækker os Haand og giver sit Minde til de Ord i hvilke vor Beslutning udsiger. Tit har jeg mindet Eder om den soleklare Sandhed, at Ingen kan stole paa Gud, uden hvo som troer i sit Hjerte at der er en levende, almægtig Gud, og at denne Gud er ham naadig og vil staae ham bi; jeg har mindet Eder om, at den hellige, retfærdige Gud ei kan være dem naadig, som stride imod Ham, at Han ei kan staae Nogen bi, som vil giøre Noget der ei er Hans hellige Villie. Disse Ting ere uimodsigelige, og det er da aabenbart, at hvad vi saa end ville giøre i Herrens Navn, da maa vi tro stadelig paa ham og have ham for Øie, blive i hans Kiærlighed, og hvert alvorligt Menneske veed, at det ei erholdes ved Læbers Ord, ei er et Øiebliks Værk, men at Hjertet maa renses fra ugudelig Væsen og verdslige Lyster, før Troen kan fæste sin Bolig derinde, at der maa kiæmpes alle Livets Tage, om denne Tro skal vindes og beholdes, skal kunne tee sig kraftelig til at storke vor Fod og overvinde Verden. Hit har jeg mindet ogsaa om det, at er der en.
+<pb facs="1814_2_page0047.png"/>
+<fw type="pageNum">31</fw>
+levende Gud, og et evigt Liv, da maa det jo være vort høieste, vort sidste Øiemeed, at forsamles til Ham; naar vort Dagværk her er end; naar Verdens Lys slukkes for vort Øie, at komme til det forborgne, evige Lys, i hvilket Herren doer, og var da vel nogen Daarskab, nogen Galenskab at ligne ved det, om vi over hvilkensomhelst Følelse, Begiæring eller Gierning forglemte vor høieste Trang og vor dybeste Længsel, vor rette Gierning herneden, om vi over vort jordiske Fædreneland vilde glemme, at vort sande Fædreneland er foroven, at vort Borgerskab er i Himlen, glemme at Gud kun med naadefuldt Die kan skue paa vort jordiske Fædreneland, kan staae os bi til dets Frelse, dersom Han seer at det kan og vil vorde igien, hvad det fordum har været, en Bolig for Hans Kirke, som er Billed af den Bygning foroven, gioet uden Hænder, evig i Himlen; dersom Han feer at der vil blomstre igien, som fordum, en Planteskole for Hans Paradiis, og at vi ere rede og villige til at plante og vande med Haab om Bext til ham i det Hole.</p>
+<p>Det kunde da synes overflødigt, at tale mere herom, men jeg agter det dog for min Skyldighed at paaminde Eder om, ikke engang den Gierning vi navniigen love, den at vove, og er det Guds Villie, opoffre Liv og Blod for Fædrenelandet,
+<pb facs="1814_2_page0048.png"/>
+<fw type="pageNum">32</fw>
+ikke engang den, ja allermindst den, er det muligt at udøve, uden en ret fast og inderlig Tro paa Gud og barnlig Hengivenhed til Ham. Jeg veed det jo vel, at Verden siger imod, at den praler af, uden Gudsfrygt og Guds Bistand at kunne øve den reneste Dyd, giøre den Guds Villie, paa hvem de ei tro, forsage den Verden de allene elske, høimodig ovoffre det Liv, med hvilket deres Haab udoser, jeg veed det jo vel, og vi have i de Sidste Dage med inderlig Harme og Sorg kunnet høre Saadant vel fra hundrede Tun-Her; men er det derfor en Sandhed, kan vi ikke forstaae at det er just en af de allergroveste, haandgribeligste Løgne, hvormed Verden paa sin gamle Viis bespotter Gud, vil giøre Ham til Løgner, og ophøie sig selv i Hans Sted, i Hans, som ene er af sig Selv og ved fig Selv, a! Magts og al Kiærligheds evige Kilde.</p>
+<p>Der staaer skrevet, Ingen haver større Kiaerlighed end denne, at Nogen sætter sit Liv til for sine Venner, det er Hans Ord som gik i Døden for os alle og vidnede: Jeg er Sandheden. Visselig vi kan ogsaa lettelig forstaae at det er Sandheds Tale. Mange have vovet og mistet deres Liv for at vinde Roes eller Bytte, for at undgaae Berdens Skam eller Straf, eller i Dorskhed eller Vildskab, naar de ei tænkte paa Faren, eller smig-
+<pb facs="1814_2_page0049.png"/>
+<fw type="pageNum">33</fw>
+rede sig til det Sidste med Haabet at undgaae; men visselig, de have ei sat deres Liv til, opoffret, hengivet det for deres Venner. Nei, visselig, kunde de ventet paa anden Maade at vinde eller undgaae hvad de for sig selv tragtede efter, ei havde ve da sat Livet i Vove; kunde vi staaet hos dem i den sidste Time, og vilde de ærlig have sagt, hvad de meente i Hjertet, da skulde vi hørt dem forbande den Time da de frivillig ginge i Døden. Sætte Livet til sor sine Venner, det kan Ingen, uden den, som besjæles og opfyldes af den høieste, uegennyttigste Kiærlighed, og det er aldeles umuligt, uden Selvfornægtelse, uden barnlig Kiærlighed til den Gud som er alles Fader, uden den Vished, at det Liv vi opoffre er Intet mod det vi vinde i Guds evige Kiærlighed. Men prøve vi os nu selv alvorlige«, ak! maa vi da ikke alle tilstaae, at vi endnu ere langt fra den fulde Selvfornægtelse og uegennyttige Kiærlighed, der ene kan giøre os dygtige til i Sandhed at sætte Livet til for vore Venner, at opoffre os for Fædrenelandet. Havde vi da ogsaa kun den eneste Ting for Die at giøre det i Sandhed som vi navnlig og frivillig tilbyde, o da maatte vi dog føle, at vi høiligen trange til at støvles og voxe i den Tro og den Tillid til Gud, som ene kan virke Kiærlighed i os.</p>
+<pb facs="1814_2_page0050.png"/>
+<fw type="pageNum">34</fw>
+<p>O, er der da Nogen heinde, som ikke føler denne Trang hos sig, som ei har det faste Forsæt med Guds Hielp at tilkiæmpe sig Seieren indvortes over Selvkiærlighed, Kiærlighed til Verden, og de Ting som ere af Verden, o han skiælve dog for at love, hvad han aldrig kan, hvad han i?ke ærlig agter at holde, han give os dog ikke Haand, for at beskiæmme Fædrenelandet og os, han grue dog for at opkalde os til Vidner imod sig her og hisset, han gange dog bort, for vi slutte det hellige Forbund ! ingen Foragt skal følge ham fra os, bekymres maa vi, men vi domme Ingen, ei skal han nævnes af os som Niding eller Frafalden, aldrig skal vi nævne hvad der forfærdede ham, naar han selv vil tie. Den som nævner en Saadan, som Frafalden, erklæres herved for en Løgner. Ja, mine Brødre! jeg vidner det for Eder, som for Guds Aasyn, at jeg langt hellere vil høre mit Navn baaret som Fabel omkring paa Verdens Tunge, fordi alle forlade mig i den høitidelige Time, end at I skulle giøre Løftet ubetænksom eller i anden Mening end det forelægges, end at I skulde fortryde og beskiæmme det! O, lader dog dette gaae Eder til Hjerte, som det kommer fra mit: betænker derhos, at om I blive her, da vil I faae Eders Navne at høre foiede til mit med Latter og Spot, thi det kan og skal ikke skiules, hvo som giør Sandhed, kommer til Lyset, at
+<pb facs="1814_2_page0051.png"/>
+<fw type="pageNum">35</fw>
+hans Gierninger maa blive aabenbarede, thi de ere gjorte i Gud.</p>
+<p>Nu da i Herrens Navn, hører de Spørgsmaal jeg forelagde mig selv, og som jeg maa forelægge hver den, der vil søie sit Navn til mit!</p>
+<p>Kalder du det Net, at du nu udelukkes af Samfundet, dersom to Brødre vidne imod dig, at du er et Menneske, vant til at lyve, og at dit siden udstødes, dersom to saadanne vidne, at du aabenbarlig har sveget din Troskab imod Gud og Brødrene?</p>
+<p>Vil du, af Kiaerlighed til Brødrene, vove Liv og Blod for Fædrenelandet?</p>
+<p>Weed du, at det er umuligt uden fast og levende Tro paa den levende Gud og Tillid ti! ham?</p>
+<p>Vil du, af al den Formue Gud giver, tragte: ester at oplyses, stadfæstes og bevares i denne Tro! og Tillid?</p>
+<p>Med en høitidelig Alvor og tildeels med den inderligste Rørelse, som Ingen af os er istand til at glemme, bleve disse Lofter gjorde og det saaledes, at jeg efter det første Spørgsmaal vendte mig til Forsamlingen og spurgte om mig selv og enhver navnlig: er der Nogen iblandt Eder, der kiender ham som et Menneske vant til at lyve, og naar dette Spørgsmaal var besvaret med nei, og .
+<pb facs="1814_2_page0052.png"/>
+<fw type="pageNum">36</fw>
+de andre med et lydeligt Ja, da tog jeg ham i Haand som gjorde Loftet, og sagde: saa modtager jeg da herpaa paa alle Brødrenes Vegne din Haand og giver dig paa alle deres Vegne Samfunds høire Haand, Naar dette var skeet med hver isaer, da skrev han selv sit Navn under Brevet til Dannemarks Konge, men Brevet lyder Ord for Ordsaaledes:</p>
+</div>
+<div>
+<head><hi rend="spaced">Til Kongen!</hi></head>
+<p>Som tro Undersaatter stædes vi frem for Deres Majestæts Aalyn med inderlig Bedrøvelse over Fædrenelandets, det gamle Dannemarks sørgelige Tilstand og store Fare; men ogsaa med den faste Beslutning i Guds Navn at giøre og taale Alt hvad vi formaae, paa det at Fædrenelandet maatte frelses, saa det hverken vorder et Vaabenbytte for de ublu Fjender, eller sønderlemmes ved en haanlig Fred; thi det er vor Overbeviisning, at Alle som bruge det danske Tungemaal fra Vaedøhuus til Dannevirke, og som Gud har forenet under Deres Majestæts og Deres høilovlige Forfædres Scepter, skal betragte hinanden som Brødre, ja som eet Legeme, der. ei kan sønderrives uden at døe, og paa hvilket ingen Lem for at frelse sig, maa tillade at en anden fordærves.</p>
+<pb facs="1814_2_page0053.png"/>
+<fw type="pageNum">37</fw>
+</div>
+<div>
+<head><hi rend="spaced">Høibaarne Konge</hi>!</head>
+<p>Det maa vel synes ei dristigt allene, men daarligt, at saa Mænd, uden Guld og Krigskynbighed tilbyde Fædrenelandet deres Tieneste, som om det var synderlig tjeut med dem, visselig det var ogsaa stor Daarlighed, dersom vi trøstede og stolede paa vor egen Forstand, Storke og Manddom, men det giøre vi ingenlunde, vi bekiende lydelig og ærlig, at vi Intet formaae af os selv, men stole kun paa Herren i Himlen; naar vi see ud over Fiendernes Hære, da sige vi frimodelig med David: i vor Guds Navn oprette vi Bannere, Hine forlade sig paa Heste og Disse paa Vogne; men vi, vi vil komme Herrens vor Guds Navn ihu.</p>
+</div>
+<div>
+<head><hi rend="spaced">Høibaarne Konge</hi>!</head>
+<p>Er der nogen Kongeslægt i Europa som stadelig haver forladt sig paa Herren og erfaret hang Frelsning paa underlige Maader, da er det den af hvilken Deres Majestæt er udsprungen, da er det Diderik den Lyksaliges Æt er der noget Land i Europa, der i de sidste trehundrede Aar, medens Deres Majestæts høilovlige Fædre sadde paa Thronen, har mangengang været stædt i saadan Fare, at Frelse syntes umulig, og som dog frelstes, ei ved dets Hærs Mangfoldighed, men ved Guds
+<pb facs="1814_2_page0054.png"/>
+<fw type="pageNum">38</fw>
+naadige Styrelse, ved den Kraft og det Mob han forlenede Enkelte, da er det Nordens Tvillingrige. Vi vil mellem de mange Vidnesbyrd Historien om de længst henjarne Dage frembyder, kun nævne det om Frelsen i den Tredie Frederiks Dage, fordi det minder os trøstelig om, at ogsaa Mænd, der ellers kun fulgte Bogen, vare mellem de frelsende Redskaber, der de med Bogen fulgde Basunen.</p>
+</div>
+<div>
+<head><hi rend="spaced">Høibaarne Konge</hi>!</head>
+<p>Det er os ikke givet, at vide Tiden eller Stunden, naar Herren vil bruge os, vi vide kun det, at vi skal være rede, naar han kalder. Det agte vi da for Hans Kald giennem sin Tjeners Mund, naar Deres Majestæt opkalder Jyllands Mænd til at værge om Landet og fordrive Fjendernes Hær.</p>
+<p><hi rend="spaced">Hvorledes</hi> vi da skulle bruges, det overlade vi trygt til Deres Majestæt; vi vide kun dette, at ligesom vi love Troskab og Standhaftighed med Haand og Mund, saa skal vi og virke med begge disse i Herrens Navn efter hvers Formue, og vi vove at fremstille det underdanig for Deres Majestaet, hvorledes vi tro at Meest kan udrettes ved os.</p>
+<pb facs="1814_2_page0055.png"/>
+<fw type="pageNum">39</fw>
+<p>Vi mene, at naar Opbudet skeet, da var det bedst, at de som følte Kald til at tale til Folket i Guds Navn, skulde, høit som Præster, drage omkring, tale Guds og Kongens Ord, og siden følg Hæren. De Øvrige derimod tro vi duelige til at fordeles i Bondehæren som Underbefaljngsmænd, der ved Lydighed, Mod og Standhaftighed kunde lyse i den snevrere Kreds, og saa at sige bære Hæren til Seier. Af vor Konges Haand vente vi da krigskyndige Mænd, som skulle styre og raade.</p>
+<p>Saaledes have vi da i Guds Navn underdanig og frimodig udsagt sor Deres Majestæt hvad der boer i os, og hvad vi mene med Guds Hjelp at kunne bidrage til Fædrenelanbets Vel og Frelse de haarde Dage. Den samme Gud forlene Deres Majestæt Viisdom til at domme i denne Handel, som i Alt, saaledes, at Hans Navn helliges, Hans Nige kommer og Hans Villie skeet som i Himmelen, saa og paa Jorden. Da veed vi, at Dannemark og Norge skal endnu blomstre under Deres Majestæts Scepler, og Nordens Krone blomstre omkring Deres Tinding.</p>
+<p><hi rend="align(center)">Saa bede</hi></p>
+<p><hi rend="align(right)">allerunderdanigst</hi></p>
+<p>N. F. S. Grundtvig, Capelian.</p>
+<p>A. P. Thrige, Studiosus Theologice.</p>
+<pb facs="1814_2_page0056.png"/>
+<fw type="pageNum">40</fw>
+<p>Chr. N. P. Kierulff, Stud. Theol.</p>
+<p>Poul Martin Møller, Stud. Theol.</p>
+<p>Holger Wilhelm Nyholm, Stud. Thcol.-</p>
+<p>Peder Lauritz Ingerglew, Stud. Theol.</p>
+<p>Ieng Bllcher, Stud. Theol.</p>
+<p>Fredrik Friis, Stud. Philologiæ.</p>
+<p>Hang Daniel Uldall, Stud. Theol.</p>
+<p>Thomas Møller, Stud. Theol.</p>
+<p>Frederik Carl Rosen, Stud. Theol.</p>
+<p>Hans Henrik Nikolai Moller, Cand. Theol.</p>
+<p>Niels Bap Lund, Stud. Theol.</p>
+<p>L. I. Dahl, Stud. Theol.</p>
+<p>N. Bierfreund Støft, Stud. Theol.</p>
+<p>K. Peter Hagenstrøm, Stud. Theol.</p>
+<p>Halvor Aschehoug, Cand. Theol.</p>
+<p>Niels Fritz, Stud. Theol.</p>
+<p>Hang Billeschou Iansen, Land. Iuris.</p>
+<p>Friderik Christian Ning, Stud. Chirurgiæ,</p>
+<p><hi rend="align(center)">Candidat paa Frederiks Hospital.</hi></p>
+<p>Jørgen Fog Steenberg, Stud. Medicinæ,</p>
+<p><hi rend="align(center)">Candidat paa Frederiks Hospital.</hi></p>
+<p>Poul Gottfred Wanning, Stud. Philologiæ.</p>
+<p>Johan Ludvig Christian Obel, Stud. Phllol.</p>
+<p>Peder Bereudt Christian Suhr, Stud. Philol.</p>
+<pb facs="1814_2_page0057.png"/>
+<fw type="pageNum">41</fw>
+<p>Peder Kragh, Stud. Philologiæ.</p>
+<p>P. Galthen, Slud. Theol.</p>
+<p>P. H. Bendixsen, Stud. Philotogiæ.</p>
+<p>Wilh. Rud. Dichman, Cand. Theol.</p>
+<p>Gustav Adolph Dichman, Stud. Theol.</p>
+<p>Chr. F. C. Wormskiold, Cand. Iurig.</p>
+<p>I. Georg Dibbelt, Stud. Iuris.</p>
+<p>Iørgen Bieregaard, Cand. Theol.</p>
+<p>Henrik Anker Biexxegaard, Stud. Iuris.</p>
+<p>Hang Brøchner, Stud. Philologiæ.</p>
+<p>Albert Leth, Stud. Philologiæ.</p>
+<p>Palæmon Laurberg, Stud. Philologiæ.</p>
+<p>Georg Albrecht Koefod., Cand. Imris.</p>
+<p>Christian Peter Christensen, Stud. Philologiæ.</p>
+<p>Kristen Olsen, Cand. Theol.</p>
+<p>Nicolai Fogtmann, Cand. Theol.</p>
+<p>P. D. Bruun, Stud. Philologiæ.</p>
+<p>Niels Moller Spandet, Cand. Iuris.</p>
+<p>Christfried Ehrgott Iantzen, Stud. Theol.</p>
+<fw type="graphic"/>
+<p>I en kort Bøn bad jeg Gud storke os til at holde det hellige Løste, og talede omtrent disse Ord:</p>
+<pb facs="1814_2_page0058.png"/>
+<fw type="pageNum">42</fw>
+<p>Brødre! Det kunde maaskee forundre Eder, at jeg i alt Dette haver talet hardtad, fom en gudfrygtig Hedning kunde, at jeg hardtad ikke har nævnet, det velsignede Navn, efter hvilket vi kaldes, og paa hvilket vi alle ere døbte; det Navn som jeg ellers frilig bekiender, som den eneste Troes og Saligheds Grundvold: vor Herres Jesu Christi hellige Navn. Jeg har troet at turde tie dermed, fordi min Tro maa være Eder alle vitterlig; jeg har, troet at burde, fordi jeg veed, hvor mægtig Tidens Strøm har bruset og henrevet i de sidste Dage, hvilken Taage der fremkvgledes for vore Øine, saa de seent faae Syn paa Guds Herlighed i den Herres Jesu Christi Aasyn; fordi jeg ei bilde friste Nogen af Eder til eet Ord han ei kunde ærlig udsige; endelig fordi jeg veed, at hvo som frygter Gud og holder sig til Ham, skal og i sin Time lomme til al Sandheds Erkiendelse; ja, at alle Guds Børn engang skal mødes til Troens og Guds Søns Erkiendelses Enighed. Men, ligesom den Klædning jeg bærer skal minde Eder om Hvis Tjener jeg er, saaledes er det og min Skyldighed at vidne lydelig for Eder, hvad jeg veed er Sandhed: der er intet andet Navn under Himmelen givet Menneskene at vorde salige udi, og den Guds Fred som overgaaer al For-
+<pb facs="1814_2_page0059.png"/>
+<fw type="pageNum">43</fw>
+stand-, forvarer Hjerter og Tanker i Christo Jesu, ja uden Ham kan vi slet intet giøre, og dersom Nogen ikke bliver i Ham, han er som en visnet Green, hvilken de fanke til at brænde. Nu Brødre! endt er den Forretning til hvilken vi sankedes' og samledes i diffe Dage, ingen Forsamling ville vitnu have for os selv, uden der maatte komme noget Øvrigheds Budskab som angik osallene; thi vi have Intet at holde hemmeligt, Verden skal ei med mindsste Skin kunne beskylde os for nogen Mørkheds Gjerning; dens Nysgerrighed vil vi ikke friste. Hører nu mit sidste, alvorlige Ord; lader os dog nu for Guds Gyld aldrig ophøie os over Nogen, ingenlunde tænke at vi ere beskikkede til at udrette noget Stort og Glimrende i Verdens Øine, thi visselig det er den brede banede Vei til Intet at udrette for Gud. Hovmod og Ærgierrighed ere de Djævle som have ødelagt mange hundrede Samfund som gjordes i Guds Navn, de ere ogsaa tilstæde hos os, hver vogte sig vel og bede af Hjertet: Gud ieed os ikke i Fristelse. Nen al vor Tanke skal være, at vi vil med Guds Bistand vare Hans Redskaber, rede til at udfore hvad Ham behager. Da kan vi vare rolige om det og maatte synes,
+<pb facs="1814_2_page0060.png"/>
+<fw type="pageNum">44</fw>
+som al Leilighed betoges os fil at vise vor Villie og Beslutning; thi visselig de synes da kun saa fordi Guds Tanker ere saa høit over Menneskens Tanker, som Himlen er over Jorden; om saa Verden aldrig nævner vore Navne, uden nu for knandse dem med Haan og Spot om man: ogssa, naar vi ere hensovne, skulde forgiæves lede efter vort Samfunds Spor, inderlig forvissede kan vi bog da være om, at Guds Gjerning udrettedes ved os, som i os, og at den var forgiæves. Derfor mine kiaere Brødre! bliver faste, ubevægelige, overflødige altid i Herrens Gjerning vidende, at Eders Arbeide er ikke forfængeligt i Herren! Lad det ikke forundre Eder om Verden hader Eder, den haver hadet mig førend Eder.</p>
+<p>Der al denne Tale og Gierning tyktes fuldkommet, der Nogle vare udgangne, og jeg just vilde nedgaae, see da kom en ung Mand, som havde været tilstæde, men var udgaaet en liden Stund og kom seent tilbage, han bad alvorlig om at optages i Samfundat, og jeg havde Intet derimod, kun tyktes det mig underligt, og jeg adspurgte de Nærverende om deres Tykke. De vidnede da eendrægtelig at han var en trofast Mand, ikke vant til at lyve, jeg modtog da hans Ja, og gav ham Samfunds
+<pb facs="1814_2_page0061.png"/>
+<fw type="pageNum">45</fw>
+høire Haand, og han skrev sit Navn, men det var Christfried. Ehrgott Iantzen, og alt som jeg stirrede paa det, tykdes det mig et godt Varsel. Dog, dermed være det, som være maa, saa veed jeg dette, at godt var det for Fædrenelandet, om det snart oplod sit Øre for Engelens Helsen, Eder er en Frelser født, den Herre Christus, i Davids Stad, og istemte Haerskarens Lovsang: Ære være Gud i det Høie, Fred paa Jorden! Det veed jeg ogsaa, haabede jeg ikke, og var jeg ikke under Bon til den Himmelske Fader blevet vis derpaa, at denne Handel er af Herren, og at den i Hans Time skal hjelpe til Hans Navns Helliggiørelse og Hans Riges Komme, da vilde jeg er opladt milt Mund, eller havde jeg talet ubetænksom, da vilde det angret mig inderlig; thi Verdens Herlighed er som Græssets Blomst, der maa visne og affalde, kun Herrens Ord bliver evindelig. Han størke os Alle til sin Gierning, og bevare os i Sit hellige Samsund! Ham være Ære evindelig i Jesu Navn Amen.</p>
+<fw type="graphic"/>
+</div>
+<div>
+<pb facs="1814_2_page0062.png"/>
+<fw type="pageNum">46</fw>
+<head>Tillæg.</head>
+<p><hi rend="initial">M</hi>edens de foregaaende Blade vare under Pressen skedte det, at jeg den femtende Januar modtog fra Hs. Erellence Oberhosmarskalk v. Hauch, som havde besørget Brevet til Hans Kongelige Majestæt, et Brev fra Allerhøistsamme, til Hans Exellence, hvori der var Beskeed til os. Herom underrettede jeg da flux Vedkommende, og bad at de vilde samles med mig den sextende om Aftenen Kl. 5, for at høre Brevet oplæse, og om dem saa syntes, tillige min Betænkning om det Nærværende, dog lagde jeg til, at det ingenlunde giordes behov at være alene ved slig Leilighed, ja at jeg, for min Deel gierne saae, om flere Alvorsmænd vilde være tilstæde</p>
+<p>Det skedte da saa, og anden Søndag efter Helligtrekonger, talde jeg i Guds Navn blandt en talrig, øg som det lod, heel alvorlig Forsamling, saa, som nu følger, enddog det ei Alt taldes saa Ord for Ord.</p>
+<p>Først er det min Skyldighed, at kundgiøre Eder som enedes med mig om det vi toge os den underdanige Frihed at tilskrive Hans Kongelige Majestæt, hvad udfaldet paa denne Sag hidindtil haver været.</p>
+<pb facs="1814_2_page0063.png"/>
+<fw type="pageNum">47</fw>
+<p>Det var Eders Begiæring at Olsen og jeg skulde forespørge hos Hs. Exellence, Statsministeren Grev I. G. Moltke, om Brevet maatte giennem hans Haand gaae til Majestæten, vi gjorde det, men henvistes med stor Artighed til'vore Foresatte, og endskiøndt endeel af os ei hørte til Livkorpset, vovede vi dog at bede Hs. Cxellence Oderhofmarskalk v. Hauch at fremsende Brevet, hvilket han med særdeles Hoflighed strax tilmeldte os at være skeet, og hvorfor vi paa Selskabets Vegne have aflagt flyldigst Taksigelse. Saaledes er det skeet, at Hans Kongelige Majestæt, der fra samme Haand modtog en anden allerunderdanigst Ansøgning fra endeel af Livkorpsets Medlemmer, har igiennem Hs. Exellence tilkiendegivet os sin allerhøieste Villie i Fælledskab Med dem, der dog i denne Sag ei vilde giøre fælleds Sag med os, og hvis allerunderdanigste Tilbud ei heller var af samme Art. Saameget troer jeg forud at burde sige til Forklaring af det i Hans Kongelige Majestæts allernaadigste Skrivelse, som synes almindelig talt, uden dog at være anvendeligt paa os og vort allerunderdanigste Tilbud. Den allernaadigste Skrivelse lyder Ord for Ord saaledes:</p>
+<p>Vi have med Sand Tilfredshed modtaget Din allerunderdanigste Skrivelse af 8de d. M.,</p>
+<pb facs="1814_2_page0064.png"/>
+<fw type="pageNum">48</fw>
+<p>Hvorved Du som Chef for Bort Livkorys, har forelagt Os tvende fra en Deel af Korpsets Medlemmer indgivne allerunderdanigste Ans søgninger,. hvori de tilbyde sig at medvirke til Landets Forsvar, hvor og hvorledes deres Kræfter bedst kunne benyttes, og at behandles samt underholdes som simple Soldnier, for ved deres til at vække de Følelser hos Nationen, som kunne fremvirke Statens Redning.</p>
+<p>Vi erkiende med Landsfaderlig Velbehag dette Tilbug, der vidner om den sandeste Hengivenhed for Os og Fædrenelandet og Vi ville at du bevidner Korpsets Medlemmer der have indgivet forommeldte Ansøgninger, Vor med Tilføiende: at Vi med Glaede ville benytte Os af disse i brave Studerendes gode Villie, naar Om-Hændighederne skulde udfordre det, men aldrig glemme de Følelser, de ved denne Leilighed have lagt for Dagen.</p>
+<p>Hovedqvarteret Hindsgaul d. 11te Ianuar 1814.</p>
+<p><hi rend="align(center)"><hi rend="latine">Frederik R</hi>.</hi></p>
+<p>Til</p>
+<p>Chefen for Vort Livkorps Vor Overhofmarskal v. <hi rend="spaced">Hauch</hi>,</p>
+<p>Storkors af Dannebrog og Dannebrogsmand le.</p>
+<pb facs="1814_2_page0065.png"/>
+<fw type="pageNum">49</fw>
+<p>Mænd! Brødre! Det kunde vel synes, at hermed var min Forretning endt, at ligesom Tegnet er givet os til atter i Stilhed at røgte hver sin beskikkede Gierning, saaledes gjordes ei meer Tale behov om Noget vi agtede at giøre i Samfund, men om hvilket vi have fornummet, at Timen var ikke kommen. Alligevel haver jeg isinbe at tale nogle Ord, og kunne I fortænke mig deri? skulde det virkelig være aldeles overflødigt? Jeg mener nei, thi efter den Agtelse og Tillid, hvorpaa I have givet mig et saa stort Beviis, kunde jeg vel da udgaae af Eders Kreds, uden at lade Tungen sige, hvad Hjertet mener, at dette Beviis er mig inderlig kiært, at det med Guds Hielp skal være mig uforglemmeligt under alle Omskiftelser, hvor jeg saa vendes og stædes i Verden. Og visselig, det er ikke liden Nak jeg skylder Eder, thi jeg sagde Eder forud, at. I ved at enes med mig i en saadan Handel, udsætte Eder for at dele den Spot og Haan hvormed Verden krandser mit Navn og min Gierning, jeg fagde Eder det, og dog bleve I hos mig, bleve, endskiøndt endeel af Eder neppe have den Tro, som er det hos mig, der egenlig forarger Verden, men og det som størker mig til at foragte dens Roes og bare dens Forhaanelse. Visselig, jeg skatter denne Eders Gierning høit, just fordi jeg har Intet af alt det der frister Ver-
+<pb facs="1814_2_page0066.png"/>
+<fw type="pageNum">50</fw>
+dens Børn til Samfund, fordi Saameget maatle advare. Eder for at række mig Haand, fordi jeg maa tro at det ene var Sandhedens Kraft og Eders Ærbødighed for den som forenede os.</p>
+<p>Men, fandt jeg det sømmeligt for min Skyld at forlænge Talen, noget Lidet, da fandt jeg det ligesaa for Eders. Jeg veed, hvor underlig man kan vorde tilmode, naar Noget af det Bedste man i sit Liv har foresat sig, synes unyttigt, jeg veed i hvilken Fare vi netop da fvæve for at nedsynke i en Tomhed og Ligegyldighed, som er Sjælens Pestilense jeg veed hvor haanlig Verden betragter enhver ædel Beslutning, der ei ender med et udvortes glimrende Værk, jeg veed hvor ivrig den ønsker at vi selv skulde fortryde vor gode Villie, og hoor saare vi i os selv fristes dertil. Men naar jeg nu veed alt dette, naar jeg ogsaa veed med hvilket Sindelag vi skal væbne os mod disse Fjender, naar jeg selv kiæmper i den Rustning, naar jeg ikke veed, om det er saa med Eder alle, men veed at vi alle behøve Paamindelse og Opmuntring, kunde jeg da forlade Eders Kreds uden at tale derom-3. Endelig, vi leve i aabenbare Trængsels Dage, til Intet er Mennesket mere tilbøieligt, end at vælte Skylden fra sig selv paa Andre, at laste og knurre og bespotte, og dog er det vor ueftergivelige Skyldighed, altid at maerke
+<pb facs="1814_2_page0067.png"/>
+<fw type="pageNum">51</fw>
+paa Bjelken i vort eget Die at baere hverandres Byrde og i inderlig Kiærlighed domme Brødrene mildt, medens vi strængelig revse os selv, dog er dette Sindelag det eneste som kan giøre os tækkelige for den Gud, hvis Tilgivelse og Naade vi saa haardt behøve, det eneste, som kan læge Fædrenelandets dybe Saar, og Hvorledes turde jeg lade nogen Leilighed ubenyttet til at minde Eder og alle, som vil høre mig, om disse uomstødelige men saa almindelig glemte og xingeagtede Sandheder? Lad mig da først, o Brødre! minde Eder om, at da vi rakte hverandre Haanden i broderligt Samfund, da lovede vi ikke at holde Bedtægter og Skikke fom ere Forfængelighed, da lovede vi ikke at staae hinanden bi til en Gierning, der var vor Egennyttes eller Ærgierrighed Ønske, da lovede vi ikke Noget som en Konge, ja som Gud selv kunde løse os fra; nei vi lovede i Forening at udvise den inderligste Kiærlighed til Fædrenelandet, som er umulig uden levende Tro paa Gud og Kiærlighed til Ham, uden Hjertets daglige Renselse og Opløftelse til Herren, uden daglig Fremgang til Sandheds Erkiendelse i Gudsfrygt. Anledningen hertil var Fædrenelandets udvortes Fare og det Haab, med Guds Hielp, at kunne bidrage Noget til dets Redning, det var Anledningen, men Skyl-
+<pb facs="1814_2_page0068.png"/>
+<fw type="pageNum">52</fw>
+bigheden den er jo dog ligegammel med os, den staaer jo dog uforanderlig som Guds uudslettelige Skrift i vort Hjerte, om saa Fædrenelandet i blomstrende Tilstand syntes at kunne undvære os, eller i overvættes Trængsel og Opløsning at være uopreiselig nedtrykt Ja Venner! det er jo dog en uimodsigelig Sandhed at det bør os alle, under alle Omskiftelser at frygte og elske Gud over Alt, og os paa Harmem alene forlade, det var jo dog Galenskab om vi betragtede Fædrenelandets Nød som et Tilfælde i hvilket vi maatte beflitte os paa en Gudsfrygt og Kiaerlighed vi ellers kunde undvæere istedetfor at see i den en af de mange synlige Ting, hvorved Gud driver os til at beskue os selv, at fole vor Trang og vor Skyldighed, at begynde eller fuldende den Kamp, i hvilken Verden og dens Begiæring skal overvindes, og Livets Krone i Guds hellige Samfund tilkiæmpes. Var da end vort Tilbud forkastet, var det vist, at vi aldrig skulde komme til at vove Livet mellem Kugler og Sværd, var det end ikke saa, at mange af es tragte efter det Kald at vorde Guds Ords og Sandhedens viede Tienere, o, det blev dog vor uforanderlige Skyldighed stedse at bevare vort høitidelig Løfte i hellig og kiaerlig Erindring, og er det sandt at Samfund driver og størker, da og, som Leilighed undes, at holde os til dem, om
+<pb facs="1814_2_page0069.png"/>
+<fw type="pageNum">53</fw>
+hvilke si veed, eller dog maa formode, at de føle samme Trang, have samme Maal for Die som vi, ja at lære af hverandre at foragte Verdens Roes, men tragte efter Guds og alle Godes Bifald. Men er det nu saa, som det er, at vor Konge i Naade har hørt vort Tilbud, er det vist, som vi veed, at Fædrenelandets Nød hverken endes i Dag eller i Morgen, og at vi ikke veed, hvilken Dag det vil vinke os, er det vist at mange af os have kaaret det store Kald at, oplyse vore Brødre om Sandhed, at størke dem i Tro, Haab og Kiærlighed, ret egenlig at opoffre vort Liv til Fædrenelandets Frelse, o hvor maa vi da ikke takke Gud, som ved en, som det syntes, saa sørgelig Anledning vakte os til at eftertænke alvorlig vor indvortes Tilstand og mere ivrig at tragte efter de Ting, der ere os alle uundværlige til vor egen Fred og Salighed og til vort Embeds Gierning, vakte os dertil og samlede os. uformodentlig med Mænd, mellem hvilke vi kan haabe at sinde og beholde trofaste Venner, Raadgivere, Trøstere paa Livets Vei, Medarbeidere til Guds Gierning. Ja, have de Fleste af os, som de vel have, ved denne Leilighed bemærket at de hængte ved Verden med flere og stærkere Baand end de vidste, at deres Tro, Haab og Kiærlighed vare svagere end de før troede, svagere end det sig burde til at giøre den
+<pb facs="1814_2_page0070.png"/>
+<fw type="pageNum">54</fw>
+Gierning i Sandhed, hvilken de udlovede og maatte erkiende for en usvigelig Prøvestenen, hvor maa vi ikke da takke Gud, fordi Han under os Tid tik af renses og voxe, fordi Han mindede os itide, saa at vi, naar Hans Time kommer, kan findes beredte til Hans Gierning! med hvilken Inderlighed maa vi ikke knytte os til dem vi agte for trofaste, og saaledes væve det Kiærligheds Baand, med hvilket vi agte om det stod til os at omvinde Fædrenelandet, og sammenføre de adskilde Lemmer, ja med hvilket vi haabe at knyttes uabskillelig til Ham, som lever evindelig! Saaledes Brødre og Venner, sommer det sig for os at beskue det Samfund hvori vi frivillig traadte, som et saadant, hvori Ingen kan holdes et Øieblik længere end det er hans Hjertes inderlige Begiæring, og hvoraf Ingen kan udgaae denstund han lever dersom det er hans alvorlige Attraae at frygte Gud, blive i Sandheden og forsamles til de Fromme, som et Samfund der ei er bundet til vilkaarlige Love, til Tid eller Sted, men skulde bestaae af alle dem, som boe paa Jordens Kreds, bestaae af Alle som have Gud og Sandhed kiær, man kan kun synlig yttre sig blandt dem som Herren forte samluen til at arbeide sammen. Ja, mine Brødre, der vi gave hverandre Haand, da gave vi Sandheden Haand, og det kan ikke andet
+<pb facs="1814_2_page0071.png"/>
+<fw type="pageNum">55</fw>
+være, end at vi alle som meene det ærlig maa, hvor snart og hvor vidt vi saa spredes, stedse ihukomme den høitidelige Time, og give Agt paa hverandre særdeles, at vi inderligere frydes ved det Gud lader opvoxe under hvers Haand, som om vi vare beelagtige derudi at vi føle dybere Sorg om vi see Nogen af disse svige den Sandhed og Kiærlighed han tilstod at kjende og frivillig hyldede. Ja o mjne Brødre, lader os dog aldrig glemme, at blev dette og den sidste Gang vi sees herneden, tabte vi end paa vor hele Bandring i Støvet hinanden af Syne, o, engang skal vi dog forsamles for den Eviges Domstol, og vi kan ikke nægte at vi have hørt hinandens utvungne Bekiendelse om det Høieste i Livet; om det og giælder os selv, maa vi dobbelt kalde det Ret, naar Herren siger: efter dine Ord skal du dommes.. O! give det Gud, at vi der maatte glade forsamles, og have det Vidnesbyrd i vort Inderste, at gik vi end paa vilde Veie i de forrige Dage, maatte vi end altid sukke over Skrøbeligheden, saa bevarede vi dog fra den Time det ærlige Forsæt at omgaaes i Sandhed, saa vendte vi dog stedse kiæmpende vor Stav mod det Høie, hvor vort sande Fædreneland er, saa voxte vi dog ved Guds Naade i Sandheds ydmyge uindskrænkede Kiaerlighed, saa var det dog vor synlige Stræben at vandre tugtig, retfærdig
+<pb facs="1814_2_page0072.png"/>
+<fw type="pageNum">56</fw>
+og gudelig i denne Verden. O, da skat Fredens rolige Bolig oplade sig for os, da skal vi af Hertens Mund høre det Vidnesbyrd at vi ere Brødre i Sandheden og den evige Konges elskelige Søner Eet Ord haver ieg endnu at fige, hvor det forrige fæstede Rod, avles dette af sig selv, men det kan ikke siger for tydelig og tit.</p>
+<p>Ingen af os veed hvad Gud i det Enkelte har besluttet over Fædrenelandet, vi veed kun i det Hele at vil det være Hans Mark og Have, da frelses og æres det vist paa det Sidste og hvis ikke, da maa det forgaae; men Hans Raad ere urandsagelige og Hans Veie usporlige, giennem Trængsel gaaer altid Veien tit Ham og Hans Rige, maaskee gaaer vort Fædrenelands giennem stor Treengsel og Skam, o lader os da for Alting ikke forsage eller knurre, men stole paa Herren og i Hans Navn arbeide trøstig hver efter Kald og Formue, visse paa at Haabet skal aldrig beskiæmme.' Der er en Slægt, siger Skriften, som ikke bæver, naar den bespotter Majeftæter, og langt behøve vi ikke i vor Tid at vandre for at mode Folk af den Stamme; o at dog hver vilde vogte sig vel for at blandes med dem, vogte sit Hjerte og vogte sin Tunge! Ja, jeg vil tale frit og aabenbart, som det sommer sig for Præsten
+<pb facs="1814_2_page0073.png"/>
+<fw type="pageNum">57</fw>
+især, det er Hedningers Viis at skiaelbe deres Afguder eller deres Konger, naar Uheld times dem, ogsaa i dette, som i saa Meget, ja i Alt, ere Mange nuomtide Hedningers Staldbrødre, og jeg er vis derpaa, at kommer den Trængsel og Skam over Landet, som vi kan vente, som er den Tugt vi saa længe fortiente, som skulde virke Bedrøvelse efter Gud til Omvendelse og Frelse, o da vil Mange knurre mod Ham som Herren satte over os, og de meest, hvis Brøde er størst, som have gjort Alt for at nedkalde Herrns Straffedomme. Det ex fandt, e Konge er ingen Gud, ogsaa han ex Støv og Aske, et skrøbeligt Menneske, som kan forraske, forledes og feile, men hvem er da den fuldkomme Mand som har Ret til at domme? var han her, han vilde taus nedbøie sit Hoved og skrive paa Jorden. Ja, stirrer dog engang ret vist paa Mændene i Purpur som klæde Verdens Troner, og siger mig dog for hvilken af dem alle I, hvis det stod til Eder, vilde bortbytte den Konge, hvis Lyst er til Retfærdighed, hvis Øre ei lukkedes for Sandheds Tale og ei for Betlernes Klage, hvis Øre og Sal stod aaben for Hyttens, som for Paladsets Indbyggere, den Konge hvis Hjerte føler Landets Nød, fa hvis Taarer vilde være mellem de sandeste, der vædede Dannemarks Gravhøi; ja jeg tor sige det, for Kong Frederik
+<pb facs="1814_2_page0074.png"/>
+<fw type="pageNum">58</fw>
+ben Siette, og trods den der tør kalde mig en Løgner eller Hykler eller leiet Smigrer, trods den der kan sige at jeg nogensinde annammede eller beilede til Guld eller Ære af Kongens Haand, trods den som. skal høre, eller see mig beile til Saadant! Nei, kun derfor siger jeg det fordi det er sandhed, vigtig og glædelig Sandhed, fordi de Dro, som vor Tidsalder vilde udslette med hinanden, frygter Gud og ærer Kongen! staae tilsammen i min Bibel og jeg vel, skal vogte mig for at adskkille hvad Gud har sammenføiet Og visselig, det baader slet. Ingen ved at prøve derpaa,. det skal derfor være min sidste inderligste Formaning til Eder, frygter Gud og ærer Kongen! beder med mig til den ene vise og mægtige Gud, at Han vil være vor Konges Raadgiver,, veilede Ham til al Sandhed, stadfæste hans Trin paa de rette Veie, og stadfæste hans Kongestol i det frelste og rensede Land, saa vi engang under Hans Rerfærds Spir maatte leve et roligt og stille Levnet i al Gudelighed og Ærbarhed! O, kunde, o vilde Mange bede saa, bede saa i den Herres Jesu velsignede Navn, da skulde det sees, trods Verdens Nei, at Bønner kan værge Lande og opholde Troner, medens hine odes og disse styrte mellem Guldets Dynger og Hærens mange Tusinder.</p>
+<pb facs="1814_2_page0075.png"/>
+<fw type="pageNum">59</fw>
+<p>Ja' hører mig, og hører Sandheden, alle som have den kiær! kun derved kan Fædrenelandet frelses, at vi forkynde Hovmod og Egennytte og kiødelig Vellyst en evig Krig, at vi ydmyge vore Hjerter for den ene Vældige, Kongernes Konge, at vi oplade dem for Hans Aand og Hans Ord, at vi udbrede dem i inderlig, reen og uegennyttig Kiærlighed til hverandre som Lemmer paa det samme Legeme, til Kongen, som Legemets Sjæl. Veed Nogen i Herrens Frygt Raad som kan due, Ord som bør høres, nu vel, saa give og tale han dem i Herrens Navn ærbødig og frimodig, uden Frygt for dem, som ei kan slaae Sjælen ihjel, ja som ei have Magt over et Haar paa vort Hoved, uden den gives dem herovenfra, men lade vi, selv raadvilde, vor Tunge fare frem paa Jorden, knurre vi over den Byrde eller Skjændsel som trykker og rammer os, da bekiende vi kun dermed at vi ikke frygte eller elske Gud, men elske Verden, dens Ære og Liggendefæ, da skal vi vide, at Herren vil ikke frelse os, at kunde vi og forsamle alle Verdens Vise til vor Øvrighed, kunde vi bygge vore Huse af Guld, og opfylde Jorden med vore Hære, vi skulde dog forgaae, naar Han talte, som tilintetgør de Vises Visdom og de Forstandiges Raad, for hvis Trudsei Ior-
+<pb facs="1814_2_page0076.png"/>
+<fw type="pageNum">60</fw>
+derig maa bæve. Stormene standse, og Bjergene fiye.</p>
+<p>O give da Gud'. at Tvillingrigets Mænd vilde i disse Tugtens og Trængselens, Aage oplade Hjertet for Sandhed, for Følelsen af den Sand« hed, at vi have syndet med vore Forfædre, mis« handlet og havt os ugudelig; for Følelsen af den Sandhed, at vilde Gud handle med os efter vore Synder og betale os efter vore Misgierninger, vilde Han ei glemme vor Dvertrædelse i Miskundhed, og naadig lade Sit Ansigt lyse, da vare vi forlorne; men og oplade Hiertet for den Trøst der taler til os som Børn, og siger: hvor er den Søn som Faderen ei revser, og hvem Herren elsker den revser Han, thi medens den er nærvrrende synes vel al Revselse ikke at høre til Glæde men til Vedrøvelse; men derefter skal Han igiengive dem Retfærdigheds fredsommelige Frugt, som ere svede derudi.</p>
+<p>Derfor Brødre! Venner! gamle Danmarks Sønner! opretter de hængende Hænder og de forsmægtede Knæ, og giører visse Trin med Eders . Fødder, at ikke det Halte skal drages af Led, men heller vorde lægt! Lader os frygte Gud og ære Kongen! da skal Gud velsigne os og det gamle Land, hvor Gudsfrygt og trofast Kiær
+<pb facs="1814_2_page0077.png"/>
+<fw type="pageNum">61</fw>
+lighed til adelsbaaren Konger har havt et Hjem i de forbigangne Dage, som ingensteds i denne Verdenspart. Ja, da skal det skee, hvad Frederik den Sjette skrev og talte pist af Hjertets Fylde, de gudfrygtige, kiærlige Følelser vi lægge for Dagen i Trængselens Tider, dem skal Han aldrig glemme, de skal trøste og storke Ham under, den svare Byrde og den tunge Bekymring, under den Tornekrone, Herren satte paa Hans Hoved; de skal skynde Ham til, stedse mere ivrig at ssge Raad og Kraft og Trøst hos vor Fader i det Høie; og naar Prøvelsens Time er til Ende, da skal Roser udspringe af den Tornekrone, og smykke Hans Tinding, og læge de blodige Saar, og uddufte Lislighed og Glæde over Landet. Ja, vi som frygte Herren vil istemme i Dannemaks Navn med den hellige Sanger: min Gud! Afgrund raaber til Afgrund, for Øine Elves Lyd, alle Øine Vover og Øine Bølger gik over mig, jeg vil sige til Gud: min Klippe, hvorfor haver Du glemt mig, hvorfor maa jeg gaae i Sørgeklæder, medens Fjenden trænger? medens der myrdes i mit Inderste, fors haane mine Fjender mig i det de sige den ganske Dag til mig: hvor er din Gud? Send Dit Lys og Din Sandhed! at de, de maa ledsage mig, at de maa føre mig til Dit hellige Bjerg og til
+<pb facs="1814_2_page0078.png"/>
+<fw type="pageNum">62</fw>
+Øine Boliger, og at jeg maa indgaae til Guds Alter, til min Fryds, min Glædes Gud, og takke Dig paa Harpe; o Gud! min Gud! Hvorfor nedbøier Du Dig, min Siæl, og haorfor bruser Du over mig; bie ester Gud! thi jeg skal endnu takke Ham, mit Aasyns megen Frelse og min Gud! O, gid vi Alle kunde sige Amen! i Jesu Navn Amen!</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Danmarks Riges Skæbne</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-26"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="009"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1864">1864</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1864_9_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Danmarks Riges Skæbne</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Danmarks Riges Skæbne*</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">L</hi>ænge havde Danmarks Rige</l>
+<l>Konger af Guds Naade,</l>
+<l>Det ei altid, man vil sige,</l>
+<l>Folket var til Baade;</l>
+<l>Danmarks Rige dog i Nord</l>
+<l>Ældst af alle blev paa Jord,</l>
+<l>Folket ingensteder</l>
+<l>Rigere paa Glæder,</l>
+<l>Som er <hi rend="spaced">Mennesket</hi> klipas</l>
+</lg>
+<lg>
+<l>Da det <hi rend="spaced">Danske Folk</hi> forleden</l>
+<l>Selv sig havde fundet,</l>
+<l>Soleklart paa <hi rend="spaced">Isted-Heden</hi></l>
+<l>Havde Seier vundet,</l>
+<l><hi rend="spaced">Raadet</hi> sagde, tysk tilsinds:</l>
+<l><hi rend="spaced">Danmark</hi> er kun en Provinds,</l>
+<l>Skal lil Holslens Gammen</l>
+<l>Dermed klappes sammen</l>
+<l>Til en <hi rend="spaced">Nordalbingisk</hi> Stat!</l>
+</lg>
+<lg>
+<l>Kongen af Stormagters Naade</l>
+<l>Over Splidens Lande</l>
+<l>Frit skal <hi rend="spaced">geographisk</hi> raade,</l>
+<l><hi rend="spaced">Dansk</hi> med <hi rend="spaced">Tydsken</hi> blande,</l>
+<l>Saa ei Kjærlighed og Had</l>
+<l>Nogen mer kan skille ad,</l>
+<l>Krigen da med Freden, ;</l>
+<l>I Forsonligheden,</l>
+<l>Kysses med politisk Mund.</l>
+</lg>
+<lg>
+<l>Tysken vilde, til vor Lykke,</l>
+<l>Ei paa Krogen bide,</l>
+<l>Vilde Dansken undertrykke,</l>
+<l>Hade og bestride.</l>
+<l>Brød kun før var daarlig delt,</l>
+<l><hi rend="italic">Et </hi>nu sønderrevet helt,</l>
+<l>Alle Folk maa sige:</l>
+<l>Det nybagte Rige</l>
+<l>Kjendes, findes ingensteds!</l>
+<l>Danmarks gamle Kongerige</l>
+</lg>
+<lg>
+<l>Kan dog ei forsvinde,</l>
+<l>Som i Freden, under Krige</l>
+<l>Nemt del er at finde;</l>
+<l>Er det halvt i Tyskens Vold</l>
+<l>Tog de <hi rend="spaced">Goliat</hi> i Sold,</l>
+<l>Det ei den Filister</l>
+<l>Fra Vorherre vrister,</l>
+<l>Førend <hi rend="spaced">Davids</hi> Æt uddøer!</l>
+<l>Danmark af Stormagters Naade</l>
+</lg>
+<lg>
+<l>Har nu lutter Nuller,</l>
+<l>Folk og Fæ lil liden Baade,</l>
+<l>Mange lomme Huller;</l>
+<l>Gid Stormagter, alle fem,</l>
+<l>Hvad de gav, maa føre hjem;</l>
+<l>Enes om Helstaten,</l>
+<l>Alt som om Tractaten!</l>
+<l>Da faae Len de som forskyldt.</l>
+<l>Godt sig løse Danmarks Gaade!</l>
+</lg>
+<lg>
+<l>Gid <hi rend="spaced">sig selv</hi> det vinde,</l>
+<l>Nyde Konger af Guds Naade</l>
+<l>Og med Folkets Minde,</l>
+<l>Nyde, efter Tungens Maal,</l>
+<l>Frit Guld-Æbler i Sølv-Skaal,</l>
+<l>Takke Gud for <hi rend="spaced">Freden</hi></l>
+<l>Og for Kjærligheden,</l>
+<l>Og med Glæde boe deri!</l>
+<l><hi rend="spaced">Lykken</hi> er i gode Hænder,</l>
+</lg>
+<lg>
+<l>Den er i <hi rend="spaced">Vorneires</hi>,</l>
+<l>Derfor, naar sig Lykken vender,</l>
+<l>Den vist ei forværres ;</l>
+<l>Ingensteds, hvor Roser groe,</l>
+<l>Skyldes Gud en bedre Tro</l>
+<l>End i Danevangen,</l>
+<l>Under Svanesangen,</l>
+<l>I Skjoldunge-Slammens Læ!</l>
+<l><hi rend="spaced">Dybbel</hi> faldt og Als er taget,</l>
+</lg>
+<lg>
+<l>Hæren halv begravet,</l>
+<l>Som Landkrabber see paa Vraget,</l>
+<l>Tumlende paa Uavet,</l>
+<l>Tydsken seer paa vore Øer</l>
+<l>Bagved <hi rend="spaced">Snoghøi og Legstør</hi>;</l>
+<l>Naar sig Bladet vender,</l>
+<l>Staaer med tomme Hænder</l>
+<l>Tydsken dog endnu som fer!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+<p>Enkelte Numere af Fædrelandet,Faaos I.C.G. Iversens Boglade, Store Kjøbmagergade 38.</p>
+</div>
+</body>
+</text>
+</TEI>

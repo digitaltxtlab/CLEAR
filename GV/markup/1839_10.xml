@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Fædrelandets Skaal.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-21"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="010"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1839">1839</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1839_10_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Fædrelandets Skaal.</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<docImprint>
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<pb facs="1839_10_page0002.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l><hi rend="bold">D</hi>anmark, deiligst Vang og Vænge,</l>
+<l>Lukt med Bølgen blaa,</l>
+<l>Hvor de faure Havfrusenge</l>
+<l>Smult som Vugger gaae,</l>
+<l>Hvor, naar Soel opstaaer af Vove,</l>
+<l>Vi faae Guld og grønne Skove!</l>
+<l>Dig ombølge Sang af Brage,</l>
+<l>Som i gamle Dage!</l>
+</lg>
+<lg>
+<l>Danmark, Perlen iblandt Kvinder,</l>
+<l>Fostermoder sød!</l>
+<l>Tusind Krandse af Kiærminder</l>
+<l>Hvile i dit Skiød,</l>
+<l>Dine gule Lokker graane,</l>
+<l>Lad dem om din Isse blaane!</l>
+<l>Mageløst da, som din Lykke,</l>
+<l>Er dit Hoved-Smykke!</l>
+</lg>
+<lg>
+<l>Danmark med det rige Hjerte,</l>
+<l>Med den klare Røst</l>
+<l>Til at tolke Fryd og Smerte,</l>
+<l>Tone Haab og Trost!</l>
+<l>Med vort Modersmaal det søde</l>
+<l>Munterhed staae op af Døde,</l>
+<l>Lære os at rime sammen</l>
+<l>Alvor ret med Gammen!</l>
+</lg> 
+<pb facs="1839_10_page0003.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Danmark med den jævne Tale</l>
+<l>Og det stille Sind!</l>
+<l>Lad i Hytter og i Sale</l>
+<l>Lyset strømme ind,</l>
+<l>Saa vi stile, saa vi stævne</l>
+<l>Efter Art og efter Evne!</l>
+<l>Med det Stive os forpiner</l>
+<l>Tydsker og Latiner!</l>
+</lg>
+<lg>
+<l>Danmark med det lyse Belte</l>
+<l>Frit om Blomsterliv!</l>
+<l>Flet igien til ædle Helte</l>
+<l>Vugger smaa af Siv!</l>
+<l>Djærve, milde skal de feire</l>
+<l>Uden Blod dit Hjertes Seire,</l>
+<l>Frihed mellem Belt og Sunde,</l>
+<l>Som for Fugl i Lunde!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

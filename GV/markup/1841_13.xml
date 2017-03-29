@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Der skinner en Sol i Lys og Lön</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-23"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="013"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1841">1841</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1841_13_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Der skinner en Sol i Lys og Lön</titlePart>
+</docTitle>
+</titlePage>
+</front>
+<body>
+<div>
+<head><hi rend="italic">Mel. </hi>Der stander et Slot i Österrig.</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">D</hi>er skinner en Sol i Lys og Lön,</l>
+<l>Hvor Aand har Mund og Mæle;</l>
+<l>Som Fugle smaa, naar Skov er grim,</l>
+<l>Da kviddre Barne- Sjæle :</l>
+</lg>
+<lg>
+<l>Vor Herre höit i Himlen boer,</l>
+<l>Og der er godt at være,</l>
+<l>Paa Englevinger smaa Hans Ord</l>
+<l>Fra Himlen Bud os bære !</l>
+</lg>
+<lg>
+<l>Og hvor Guds Ord det lukkes ind,</l>
+<l>Det leirer sig og sjunger :</l>
+<l>Guds Fred! bliv Lys i Sjæl og Sind!</l>
+<l>Bliv Sang paa Folke-Tunger!</l>
+</lg>
+<lg>
+<l>Umælende, som Hest og Hund,</l>
+<l>Er alle Dyr i Dale,</l>
+<l>Men Folk gav Verdens Skaber Mund</l>
+<l>Til med <hi rend="bold">Ham</hi> selv at tale!</l>
+</lg> 
+<pb facs="1841_13_page0002.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Saa luk da op nu Port og Dor</l>
+<l>For Herrens Ord i Skare,</l>
+<l>Saa de saa tykt som aldrig för</l>
+<l>Her ind og ud maae fare !</l>
+</lg>
+<lg>
+<l>Luk op i en lyksalig Stund</l>
+<l>Dig for Guds Ord, hvert Öre!</l>
+<l>Og luk dig op, du Folkemund,</l>
+<l>Med Ord, som du kan fore !</l>
+</lg>
+<lg>
+<l>Ja, tal nu sandt om Smaat og Stort,</l>
+<l>Og jævnt om alt det Höie !</l>
+<l>Thi godt er Alt hvad Gud har gjort,</l>
+<l>Og klart er Barnets Öre.</l>
+</lg>
+<lg>
+<l>Velsigne Gud vor <hi rend="bold">Dronning</hi> from,</l>
+<l>Som til den Id os sanker!</l>
+<l>Gid vidt og bredt der kvædes om,</l>
+<l>Hun traf vor Herres Tanker!</l>
+</lg>
+<lg>
+<l>Livsalig Hun i Herrens Navn</l>
+<l>Oplukked <hi rend="bold">Livets Skole</hi>,</l>
+<l>Hvor Ordet gaaer til Folkegavn,</l>
+<l>Som Straaler gaae fra Sole !</l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

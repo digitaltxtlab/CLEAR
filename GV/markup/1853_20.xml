@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Valg-Dagen.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-22"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="020"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1853">1853</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1853_20_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main"><lb/>Valg-Dagen.</titlePart>
+	<titlePart type="sub"><lb/></titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<fw type="graphic"/>
+				<epigraph>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace></pubPlace>.
+<fw type="graphic"/>
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Valg-Dagen.</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">D</hi>er er en Dag for <hi rend="spaced">Folk</hi> og <hi rend="spaced">Riger</hi>,</l>
+<l>Som for hver Mand med bange Kaar,</l>
+<l>Da gode Raad er meer end dyre,</l>
+<l>Da Livet Hænger i et Haar,</l>
+<l>Da alt omsonst kun synes døiet,</l>
+<l>Da Alting løber rundt for Øiet,</l>
+<l>Som lige gyldigt, lige galt!</l>
+</lg>
+<lg>
+<l>Naar da man nødes til at vælge</l>
+<l>Paa Stand imellem Ilde to,</l>
+<l>Da er den største Nød paafærde,</l>
+<l>Især hvor danske Slægter boe,</l>
+<l>De spørge da hver Fugl paa Kviste:</l>
+<l>Mon det vil bære eller briste?</l>
+<l>Og svarer selv: det Ingen veed!</l>
+</lg>
+<lg>
+<l>As alle Raad i denne Vaande</l>
+<l>Kun eet er godt, det kom fra Øst,</l>
+<l>At Gud i Vold man sig befaler,</l>
+<l>Og følger saa sit <hi rend="spaced">Hjertes</hi> Røst,</l>
+<l>Thi Livet har i Hjertet Hjemme,</l>
+<l>Og Folkets Røst, det er Guds Stemme,</l>
+<l>Naar Gud det giver sig i Vold!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

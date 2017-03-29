@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Dansk Kirketidende.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-26"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="013"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1869">1869</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1869_13_page0001.png"/>
+			<fw type="pageNum">721-722</fw>
+				<docTitle>
+	<titlePart type="main">Dansk Kirketidende.<lb/></titlePart>
+	<titlePart type="sub"><lb/></titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<fw type="graphic"/>
+				<epigraph>
+<p>Indhold: N. F. S. Grundtvig: Herrens Hus. — Julius Lassen: Endnu lidt om Gal. 1, 11. 12. — Kalkar: Svar til I. W.</p>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition>Seksogtyvende Søndag e. Trinitatis den 21de November.</docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace></pubPlace>.
+<fw type="graphic"/>
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Herrens Huus.</head>
+<fw type="graphic"/>
+<lg>
+<l>Vor Herre! til Dig maa jeg tye,</l>
+<l>For stærke er Fienderne mine,</l>
+<l>De tænke at høit over Sky</l>
+<l>Du ændser ei Tienerne dine;</l>
+<l>Du ei os forstaaer</l>
+<l>Ei heller formaaer</l>
+<l>At løse af Angest og Pine!</l>
+</lg>
+<lg>
+<l>De Daarer, de tænke det helst,</l>
+<l>I Muldet Du ligger, det sorte,</l>
+<l>As Fader i Himlen ufrelst</l>
+<l>Fra Trolde og Engle forgiorte,</l>
+<l>Hensmuldret i Støv.</l>
+<l>Henveiret som Løv,</l>
+<l>Indspærret af Helvedes Porte.</l>
+</lg>
+<lg>
+<l>Det er mig dog vist over Alt:</l>
+<l>Langt borte kan Du ikke være;</l>
+<l>For immer af Hiertet paakaldt</l>
+<l>Du trøster saa omt dine Kjære,</l>
+<l>Ja, i Dig, vor Drot,</l>
+<l>Det føle vi godt,</l>
+<l>Vi leve og røres og ere!</l>
+</lg>
+<lg>
+<l>Du er i det hellige Ord,</l>
+<l>Du gav os i Hjerter og Munde,</l>
+<l>Du blandt vore Lovsange boer</l>
+<l>Som Resten blandt Fugle i Lunde;</l>
+<l>Saalidt som Dit Ord</l>
+<l>Saalidt kan Dit Chor,</l>
+<l>Dit sjungende Folk gaae tilgrunde!</l>
+</lg>
+<lg>
+<l>Er spæd Du kun hos os endnu,</l>
+<l>Som Haabet, der sattes end Vinger,</l>
+<l>Guds Sen er dog sandelig Du,</l>
+<l>Og Himmelens Hær Dig omringer,</l>
+<l>At løse vort Baand</l>
+<l>Saa godt som Guds Haand</l>
+<l>Formaaer den Almægtiges Finger.</l>
+</lg>
+<lg>
+<l>Om her paa Jerusalems Gruus</l>
+<l>Du fryser i Vogterens Hytte,</l>
+<l>Lad Engle det hellige Huus</l>
+<l>Fra Nazareth til os da flytte,</l>
+<l>Saa der Du i Ro</l>
+<l>Til Mand kan opgroe!</l>
+<l>Med Borge vi ei det vil bytte!</l>
+</lg>
+<lg>
+<l>Nei, der vil vi samles i Len</l>
+<l>Hos Joseph og Moder Marie</l>
+<l>Og bede til Gud med Hans Sen,</l>
+<l>Som børn paa Hans Herlighed bie;</l>
+<l>Os lære paa ny</l>
+<l>Da Engle i Sky</l>
+<l>At sjunge, saa Fuglene tie!</l>
+</lg>
+<lg>
+<l>Er spæd Du, vor Herre, saa from,</l>
+<l>Dit Fadervor kan Du dog stamme</l>
+</lg> 
+<pb facs="1869_13_page0002.png"/>
+<fw type="pageNum">723</fw>
+<lg>
+<l>Og Alt hvad Du beder Ham om,</l>
+<l>Han lover og gjør med det Samme,</l>
+<l>Da læges vort Savn,</l>
+<l>Dit hellige Navn</l>
+<l>Ei længer paa Jord er til Stamme.</l>
+</lg>
+<lg>
+<l>Dit Navn stal jo vidt overgaae</l>
+<l>Hvert Navn, der fra Læber kan lyde,</l>
+<l>Lad røbe da Bølgerne blaa,</l>
+<l>Hvad Jesu Navn har at betyde!</l>
+<l>Lad Store og Smaae</l>
+<l>Al Verden forstaae</l>
+<l>Guds Engle i Navnet adlyde!</l>
+</lg>
+<lg>
+<l>Vor Herre! ja nu er Du nær,</l>
+<l>Det kan vi paa Tresten fornemme,</l>
+<l>Og med Dig er Himmelens Hær,</l>
+<l>For os alle Englene stemme</l>
+<l>I Himmelens Raad</l>
+<l>Til Glæde for Graad:</l>
+<l>Vort Hierte! hvi vil Du dig græmme?</l>
+</lg>
+<lg>
+<l>Triumf! Vi har vundet vor Sag!</l>
+<l>Med Engle kom Huset det lave;</l>
+<l>Nu har over Hoved vi Tag,</l>
+<l>For Bie en lille Guds Have;</l>
+<l>Af Palmerne smaae</l>
+<l>Guds Engle forstaae</l>
+<l>Guds Barnet et Lysthuus at lave.</l>
+</lg>
+<lg>
+<l>Guds Engle i Fjederham graa</l>
+<l>ydmyge som Glutter og milde</l>
+<l>For Barnet vil sjunge og slaae</l>
+<l>I Palmerne aarle og silde;</l>
+<l>Da leger i Bryst</l>
+<l>Vort Hierte med Lyst</l>
+<l>Med Fryd af de Levendes Kilde!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

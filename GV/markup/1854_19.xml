@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Indbydelse til to generealforsamlinger i Den Danske Forening</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-25"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="019"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1854">1854</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1854_19_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main"><lb/>Indbydelse til to generealforsamlinger i Den Danske Forening</titlePart>
+	<titlePart type="sub"><lb/></titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<fw type="graphic"/>
+				<epigraph>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace></pubPlace>.
+<fw type="graphic"/>
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<fw type="graphic"/>
+<head>Den danske Forening</head>
+<p>indbyder sine Medlemmer til en Generalforsamling Torsdagen den 14de December, hvor Selskabets nærværende Stilling oplyjes, og til en følgende Generalforsamling Torsdagen den 21de December, hvor der tages Beslutning om Selskabets Fremtid.</p>
+<p>Modestedet er Ny-Vestergade Nr. 216, og Tiden Kl. 7.</p>
+<p><hi rend="align(right)">N. F. S. Grundtvig, f. T. Formand.</hi></p>
+<p><hi rend="align(center)">Udgivet af G. I. Brandt. (Vesterbro Nr.39 N.).</hi></p>
+</div>
+</body>
+</text>
+</TEI>

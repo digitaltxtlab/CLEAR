@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Fædrelands-Sange.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-26"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="005"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1864">1864</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1864_5_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Fædrelands-Sange.</titlePart>
+	<titlePart type="sub">Dansker-Vise.</titlePart>
+</docTitle>
+<byline></byline>
+				<fw type="graphic"/>
+				<epigraph>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace></pubPlace>.<lb/><lb/>
+<fw type="graphic"/>
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<lg>
+<l>Livligt.   H. Kung.</l>
+<l>Hvorfor skal vi slaaes, da Fre-den dog</l>
+<l>bedst huer os? Ja, Fre-den er sød, Fred i</l>
+<l>Liv og i Død, Fred og Ro i vort Hjem alle-veg-</l>
+<l>ne, Fred og Ro i vort Hjem alle-veg-ne.</l>
+</lg> 
+<pb facs="1864_5_page0002.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Som Dansken i to Tusindaar</l>
+<l>Har trodset Overtallet,</l>
+<l>Vi tor da og i denne Vaar</l>
+<l>Vel trodse Tydsker-Brallet,</l>
+<l>Kan ei engang han tage Als,</l>
+<l>I Marken er han om en Hals,</l>
+<l>Naar "Gud med os" vi sjunge.</l>
+</lg>
+<lg>
+<l>Og "Gud med os" i Liv og Død,</l>
+<l>Med Frihed og med Freden,</l>
+<l>Den Sang i Danskens Mund er sød,</l>
+<l>Saa sød som Kiærligheden;</l>
+<l>Thi blæse vi ad Overtal,</l>
+<l>Hvormed det kun er Knald og Fald,</l>
+<l>Med os er Overmagten!</l>
+</lg>
+<p>N. F. S Grundtvig</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Munkeburet i Soer.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-25"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="025"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1855">1855</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1855_25_page0001.png"/>
+			<fw type="pageNum">57</fw>
+				<docTitle>
+	<titlePart type="main"><lb/>Munkeburet i Soer.</titlePart>
+	<titlePart type="sub"><lb/></titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<docImprint>
+				<pubPlace></pubPlace>.
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Munkeburet i Soer.</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">S</hi>kal de gamle Dages Skjald</l>
+<l>Gno engang for Sorø sukke,</l>
+<l>Tegne "<hi rend="spaced">Hviders</hi>" Arvetal</l>
+<l>Paa de sidste Kloster-Glugge.</l>
+<l>Skrive over Porten: sving!</l>
+<l>Indenfor er Ingenting?</l>
+</lg>
+<lg>
+<l>Ja, velan! endnu engang,</l>
+<l>For Morret er Indsøen,</l>
+<l>Klinge lydt en Klagesang</l>
+<l>Over den og Kloster-Øen,</l>
+<l>Svanesang fra Øster-Hav</l>
+<l>Over <hi rend="spaced">Axel Hvides</hi> Grav!</l>
+</lg>
+<lg>
+<l>Af det gamle Munkebur</l>
+<l>Gid kun Porten var tilbage.</l>
+<l>Som en Bautasteen af Mur</l>
+<l>Over Klosterlivets Dage!</l>
+<l>Men, desværre, tæt derhos</l>
+<l>Er det værste Klostergods.</l>
+</lg>
+<lg>
+<l>Dovenskab og dødt Latin</l>
+<l>Var den store Munkebrøde,</l>
+<l>Hver af os har Nok i sin,</l>
+<l>Hvorfor stjæle fra de Døde?</l>
+<l>Hvi stal end hver Skolepog</l>
+<l>Drages med de døde Sprog?</l>
+</lg>
+<lg>
+<l>Ved <hi rend="spaced">Latiner-Skolens</hi> Drift</l>
+<l>Haand og Aand og Hjerte dovner,</l>
+<l>Mens af Edder og Forgift</l>
+<l>Høit Hukommelsen ophovner,</l>
+<l>Gaaer frugtsommelig med To:</l>
+<l>Indbildskhed og Overtro!</l>
+</lg>
+<lg>
+<l>Ak! at Alt forgiæves blev</l>
+<l>End i Søer til Dane-Boden:</l>
+<l>Suk og Sang og <hi rend="spaced">Kongebrev</hi>.</l>
+<l>Øren, som dog laae ved Roden,</l>
+<l>Lyset, som med Lue rod</l>
+<l>Blusser mellem Liv og Død!</l>
+</lg> 
+<pb facs="1855_25_page0002.png"/>
+<fw type="pageNum"></fw> 
+<pb facs="1855_25_page0003.png"/>
+<fw type="pageNum">59</fw>
+<lg>
+<l><hi rend="spaced">Liv og Død</hi> for Sjæl og Aand,</l>
+<l>Liv og Død for Folk og Tunger,</l>
+<l>Ligger nu i <hi rend="spaced">Skolens</hi> Haand,</l>
+<l>Haardest Død er Død af Hunger.</l>
+<l>Haardest Kost er Steen for Vrod,</l>
+<l>Steen-Latin for <hi rend="spaced">Dansken</hi> blød.</l>
+</lg>
+<lg>
+<l>Kvædet snart halvhundred Nar,</l>
+<l>Leet og grædt titusind Gange,</l>
+<l>Har jeg over <hi rend="spaced">Danmarks</hi> Kaar:</l>
+<l>Kildespring til Suk og Sange,</l>
+<l>Vented immer dog fra Soer</l>
+<l>Liv iaar for Død ifjor!</l>
+</lg>
+<lg>
+<l>Nu da, paa et Srøvgran nær,</l>
+<l>Timeglasset er udrundet,</l>
+<l>Og i Lysets Aftenskiær</l>
+<l>Snart den sidste Fugl indblundet,</l>
+<l><hi rend="spaced">Aldrig eller</hi> nu paa Fod</l>
+<l><hi rend="spaced">Dansken</hi> faaer i Sorø Vod.</l>
+</lg>
+<lg>
+<l><hi rend="spaced">Danmarks</hi> sidste <hi rend="spaced">Christian</hi></l>
+<l>Med de Ord paa Læben døde:</l>
+<l>Brat skal over Daneland</l>
+<l>Skues <hi rend="spaced">Sorøes</hi> Morgenrode,</l>
+<l>Der for <hi rend="spaced">Danmarks</hi> ædle Folk</l>
+<l>Tungen vorde Hjertets Tolk!</l>
+</lg>
+<lg>
+<l>Der de gamle Dages Skjald,</l>
+<l>Sagde Kongen, nu hensovet,</l>
+<l>Holde maa og holde skal</l>
+<l>Hvad hans Kvad har <hi rend="spaced">Danmark</hi> lovet,</l>
+<l>Sole <hi rend="spaced">Modersmaalets</hi> Vid</l>
+<l>I en yndig <hi rend="spaced">Nytaarstid</hi>!</l>
+</lg>
+<lg>
+<l>Nu med <hi rend="spaced">Dane-Kongens Ord</hi></l>
+<l>Være maa det eller briste,</l>
+<l>Thi ei synke kan i Jord</l>
+<l>Konge-Ord med Stov i Kiste,</l>
+<l>Ord med Daad maa fries ind,</l>
+<l>Eller slaaes i Veir og Vind!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

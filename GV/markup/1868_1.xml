@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Efterskrift.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-26"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="001"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1868">1868</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1868_1_page0001.png"/>
+			<fw type="pageNum">55</fw>
+				<docTitle>
+	<titlePart type="main"><lb/>Efterskrift.</titlePart>
+	<titlePart type="sub"><lb/></titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<docImprint>
+				<pubPlace></pubPlace>.
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Efterskrift.</head>
+<head>1867.</head>
+<p>I den Menneske-Alder, som nu er forløben, siden Bogen om den Danske Stats-Kirke først udkom, er der foregaaet en Forandring med den, og ei blot med dens Navn, som er forandret til <hi rend="spaced">Folke-Kirke</hi>, thi ved Troes-Friheden og ved Sognebaandets Losning er den virkelig forandret fra et Fangebuur med mange snevre Aflukker til et folkeligt Samfund med frie Samlag, faa at, hvad der end er tilbage af Tvang og Stavnsbaand, maa betragtes som Levninger af Trældommen, der snarest mulig skal vige for Frihedens fuldstændige Giennemførelse. Naar en saadan Giennemførelse af Kirke-Friheden, hvorved baade Talere og Tilhorere løses fra alle de verdslige Baand, som Aanden undviger, beskyldes for at være en Oplosning af Kirke-Samfundet, da lader man aabenbar uændset, at Talen ei meer kan være om den opløsse Tvangs-Kirke, men om den ny <hi rend="spaced">Frikirke</hi>, som maa stræbe at vinde en tilsvarende Skikkelse, hvad kun kan skee ved frie Menigheder med Fri-Præster, der ei paatage sig noget andet Vaand end det, som Herrens Friheds-Aand selv ved Daaben paatager sig og paalægger hele Menigheden.</p>
+<p>Naar man desuagtet raaber sig hæs paa, at vi, som kæmper for Præste-Friheden, stræber formastelig at oploft Kirke-Samfundet fra Arildstid, da enten lyver man med Flid, eller rober en grov kirkehistorisk uvidenhed, baade i det hele og i Henseende til den Danske Kirke især, thi i sin Oprindelse var det christelige Trossamfund aabenbar en Frikirke i den 
+<pb facs="1868_1_page0002.png"/>
+<fw type="pageNum">56</fw>
+Jødiske Kirke-Stat, eftersom baade Apostlerne talte frit i Templet, og det store Raad i Jerusalem svede Myndighed over de Christne af jødisk Byrd, som boede i Damaskus eller andensteds udenfor Jødelandet. Hvad dernæst den Lutherske Statskirke i Danmark angaaer, da finde vi endnu ved dette Aarhundredes Begyndelse Frimenigheder midt i den trindt i Riget, overalt hvor der blot var Enighed om Alter, Tro og Daab, om end Gudstjenesten ei blot sorrettedes i et fremmed Tungemaal, men med en egen Psalmebog og andre Kirke-Skikke, end det Danske Ritual foreskriver. Dette viste sig da ogsaa klarlig midt i Hovedstaden, hvor det Herte til de Fremmedes Privilegier, at der fandtes hele tre tydske Kirker med det Lutherske Navn, hvis Medlemmer vare spredte i alle Sogne, Danske saavelsom Tydske, med selvvalgte Præster, der ligefuldt regnedes til den Danske Statskirke og stod under dens Superintendenters Tilsyn. Det samme var Tilfældet med den Lutherske Kirke i Slesvig og Holsten, saa det regnedes da ingenlunde for en Oplosning af Kirke-Samfundet, at dertil Herte Fri-Menigheder, som ikke var bundne ved den Danske Kirkes særegne Forskrifter. Ligesom da nu ved Sognebaandets Løsning de Indfedte tildeels har opnaaet de Fremmedes Privilegier, saa kan det jo neppe seile, at de jo snart fuldelig vil blive sat i Besiddelse deraf. Dette maa altsaa agtes for et Tids-Spørgsmaal i det smaa af samme Art som det store om den <hi rend="spaced">Romerske Paves</hi> verdslige Magt, saa at ligesom det kun er Spørgsmaal om allerede Pius den Niende eller først hans Efterfølger stal nødes til at opgive den, saaledes er det kun et Tidsspørgsmaal, om allerede <hi rend="spaced">Sjællands</hi> nærværende <hi rend="spaced">Biskop</hi> eller først hans Eftermand vil føle sig bevæget til at indrømme Danske Frimenigheder en Plads i vor Folke-Kirke, og med dette Haab vil vi trøste hverandre.</p>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

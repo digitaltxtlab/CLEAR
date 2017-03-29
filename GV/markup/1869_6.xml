@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Til min kiære Sön Svend.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-26"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="006"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1869">1869</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1869_6_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main"><lb/>Til min kiære Sön Svend.</titlePart>
+	<titlePart type="sub"><lb/></titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<docImprint>
+				<pubPlace></pubPlace>.
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Til min kiære Sön Svend.</head>
+<head>Palmesöndag 1848.</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">G</hi>ak, hvor Fædrelandet kalder!</l>
+<l>Fölg det danske Hjertes Drift!</l>
+<l>Med dem staaer og med dem falder</l>
+<l>Al vor Sang og al vor Skrift</l>
+</lg> 
+<pb facs="1869_6_page0002.png"/>
+<fw type="pageNum">12</fw>
+<lg>
+<l>Er end stort det höie Norden,</l>
+<l>Kun eet Hjem har Dansk paa Jorden:</l>
+<l>Lunden med Maikronen paa,</l>
+<l>Marken lukt med Bølgen blaa.</l>
+</lg>
+<lg>
+<l>Vel jeg har for dig tilbage</l>
+<l>Mangt et Ønske, Suk og Haab;</l>
+<l>Men naar du i Farens Dage</l>
+<l>Horer gamle Danmarks Raab,</l>
+<l>Deler i det omme Hjerte</l>
+<l>Danmarks Fryd og Danmarks Smerte,</l>
+<l>Dog i Grunden svarer du</l>
+<l>Til mit Haab og til min Hu.</l>
+</lg>
+<lg>
+<l>Hvor du gaaer i Kampens Dage,</l>
+<l>Hvor som Dannemand du staaer,</l>
+<l>Min Velsignelse ledsage</l>
+<l>Dig som Blomsterduft i Vaar,</l>
+<l>Ja, som Danmarks Engel lille,</l>
+<l>Blidt vemodig, livlig, stille,</l>
+<l>Som sig Skyer lysegraa</l>
+<l>Speile mildt i Bølgen blaa!</l>
+</lg>
+<lg>
+<l>Mod i Brystet bryder Isen,</l>
+<l>Varmt er altid Lovemod,</l>
+</lg> 
+<pb facs="1869_6_page0003.png"/>
+<fw type="pageNum">13</fw>
+<lg>
+<l>Efter Kampen Kæmpevisen</l>
+<l>Voxer op af Hjerterod;</l>
+<l>Kun med Daad man Aand opveier,</l>
+<l>Gak da ud til Kamp og Seier!</l>
+<l>Kom igien med Vidd som Guld!</l>
+<l>Slaa Guldharpen frydefuld!</l>
+</lg>
+<lg>
+<l>Guds Velsignelse den sande,</l>
+<l>Evig god og stærk og stor.</l>
+<l>Over Bryst og over Pande</l>
+<l>Lyste jeg med Korsets Ord.</l>
+<l>Vælger du, hvad Verden vrager,</l>
+<l>Det er, hvad min Sjæl behager,</l>
+<l>Da farvel i Jesu Navn!</l>
+<l>Da vi sees i Fredens Havn!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

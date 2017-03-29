@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Ved Grundlovs Festen</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-25"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="007"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1854">1854</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1854_7_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Ved Grundlovs Festen<lb/></titlePart>
+	<titlePart type="sub">5te Juni 1854.<lb/></titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<docImprint>
+				<pubPlace></pubPlace>.
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<pb facs="1854_7_page0002.png"/>
+<fw type="pageNum"></fw>
+<fw type="graphic"/>
+</div>
+<div>
+<head>Melodie: Kongehaand og Folkestemme.</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">F</hi>rit at tænke, troe og tale,</l>
+<l>Det er Folkets gamle Ret,</l>
+<l>Som paa Bjerge og i Dale,</l>
+<l>Saa paa Marken <hi rend="spaced">Videslet</hi>;</l>
+<l>Kongens Ord og Folkets Stemme</l>
+<l>Lyder i vor <hi rend="spaced">Grundlov</hi> paa:</l>
+<l><hi rend="spaced">Frihed</hi> har i Danmark Hjemme,</l>
+<l>Derfor skal vor Grundlov staae.</l>
+</lg>
+<lg>
+<l><hi rend="spaced">Danmarks Lykke</hi> er fra Oven,</l>
+<l>Har vel nok sin Vintertid,</l>
+<l>Grønnes dog igjen som Skoven,</l>
+<l>Og faaer atter Sommer blid.</l>
+<l><hi rend="spaced">Danmarks Rige</hi>, graat af Ælde,</l>
+<l>Redder stog i Hjertegrund,</l>
+<l>Gi for Stormen rokker Fjelde,</l>
+<l>Synker det til Havsens Bund!</l>
+</lg>
+<lg>
+<l><hi rend="spaced">Danmarks Plage</hi> er fra Neden,</l>
+<l>Hvor Lindormen har sit Hjem,</l>
+<l>Leven dog i Øglereden</l>
+<l>Snart sin Klo vil slaae med Klem,</l>
+</lg> 
+<pb facs="1854_7_page0003.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Da, som fer saa tit, i Lunden</l>
+<l>Lyde skal fra Oven grandt:</l>
+<l>Dag er oppe, Soel oprunden.</l>
+<l>Ormen brast og Loven vandt!</l>
+</lg>
+<lg>
+<l><hi rend="spaced">Danmarks Hjerte</hi> alle <hi rend="spaced">Dage</hi></l>
+<l>Slaaer for Frihed, Liv og Fred;</l>
+<l>Lad i deres Been det knage,</l>
+<l>Som ei trives kan derved!</l>
+<l>Gid de alle gaae tilgrunde,</l>
+<l>Eller faae dog Bod for Mod,</l>
+<l>Som vor Frihed os misunde</l>
+<l>Dyrekjøbt med Helteblod!</l>
+</lg>
+<lg>
+<l><hi rend="spaced">Dannemænd</hi> og <hi rend="spaced">Dannekvinder</hi>!</l>
+<l>Gamle, Unge, Store, Smaa,</l>
+<l>I hvis Aarer Blodet rinder,</l>
+<l>Hvoraf <hi rend="spaced">Danske</hi> Hjerter staae!</l>
+<l>Synger frit paa <hi rend="spaced">Grundlovs-Festen</hi>:</l>
+<l>Bladet let sig vender om,</l>
+<l><hi rend="spaced">Nærved</hi> Ingen staaer af Hesten,</l>
+<l><hi rend="spaced">Folkets Røst</hi> er Himlens Dom!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

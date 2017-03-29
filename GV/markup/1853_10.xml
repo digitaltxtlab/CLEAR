@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Psalmer og Sange</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2009-12-17"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="010"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1853">1853</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1853_10_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Bibelske og Kirkehistorisk<lb/>Psalmer og Sange</titlePart>
+	<titlePart type="sub">for<lb/>Skolen,<lb/>samlede og udgivne</titlePart>
+</docTitle>
+<byline>af<lb/>
+	<docAuthor>P. O. Boisen.</docAuthor>Anden Udgave.
+				</byline>
+				<fw type="graphic"/>
+				<epigraph>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition>Med 2O Melodier.</docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace>Kjøbenhavn.</pubPlace>E G. Iversens Forlag.<lb/>Thieles Bogtrykkeri.
+<fw type="graphic"/>
+<docDate>1855</docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<pb facs="1853_10_page0001.png"/>
+<fw type="pageNum"></fw> 
+<pb facs="1853_10_page0002.png"/>
+<fw type="pageNum"></fw>
+<head>Forord.</head>
+<p><hi rend="initial">G</hi>ode Psalmer og Sange af historisk Indhold, sungne paa livlige og velklingende Toner, er tilvisse et godt Middel til at frembringe Liv i Skolen, hvilket og glædelig er beviist ved Brugen af "historiske Psalmer og Riim til Børne-Lærdom" samlede af L. C. <hi rend="spaced">Hagen</hi>, en Bog, hvis Indhold nu over 20 Aar har virket til Velsignelse i Skoler trindt om i Landet og med Rette kan siger i den Tid væsentlig at have bidraget til at give baade Unge og Gamle Smag for en bedre Psalme-Sang. At her nu udgaaer en ny Samling i samme Retning, er skeet deels efter Pastor <hi rend="spaced">Hagens Opfordring</hi> til mig, som den der var nærmere ved 
+<pb facs="1853_10_page0003.png"/>
+<fw type="pageNum">IV</fw>
+Haanden, navnlig den Haand, der har skjænket os saa stor en Rigdom af historiske Psalmer, siden hiin Samling udkom, - deels fordi jeg som Lærer i en Kreds af mange Vorn har prøvet og sunget hvad jeg her har samlet, saa jeg veed, at disse Sange kan bruges ved den bibelske Underviisning til Oplivelse baade for Børnene og Læreren, det er for Skolen. Men synges maae de, det er i alle Maader bedst - og desto bedre jo bedre Melodier der kan findes. Jeg har derfor under Udarbejdelsen af denne, den anden Udgave, henvendt mig til Tonekunstnere og musikalske Venner, som have været mig behjælpelige til et rettere Valg af Melodier, end der hist og her fandtes i første Udgave. De Melodier, som ikke ere trykte andetsteds, har jeg ladet indsætte bag i Bogen; med Hensyn til de andre staaer sammesteds Pag. 363 en kort Henviisning til, hvor de kunne sindes.</p>
+<pb facs="1853_10_page0004.png"/>
+<fw type="pageNum">V</fw>
+<p>I Indholds - Fortegnelsen ere Forfatternes Navne angivne, men derfra har jeg gjort en Hoved-Undtagelse, idet alle de Psalmer og Sange, hvortil Forfatterens Navn, eller andet Mærke om deres Oprindelse, ikke er opfort, skyldes Pastor <hi rend="spaced">Grundtvig</hi>, der velvilligen har givet mig sit Minde til at samle og udgive af hans trykte og utrykte Psalme-Arbeider, og til de Forandringer og Forkortelser, som maatte ansees tjenlige for Skolen. Jeg har ved alle disse kun tilføiet, hvor de først have været trykte, og betegnet de utrykte med en *.</p>
+<p>Det vil saaledes sees, hvem vi atter her nærmest skylde Tak for Indholdet i en Psalme-Samling, der kan betragtes som et Udtog af "<hi rend="spaced">Sangværkets</hi>" hidtil udkomne historiske Deel, og af Sammes <hi rend="spaced">Fortsættelse</hi> gjennem den øvrige Bibelske og en Deel af Kirkens Historie, som jeg er vis paa vil blive modtaget med Glæde af "Sangværkets" Venner, om end Længselen derved maatte blive 
+<pb facs="1853_10_page0005.png"/>
+<fw type="pageNum">VI</fw>
+mere levende efter at see dette for den' Danske Kirke saa vigtige Psalmeværk fuldfort i sin Heelhed. Saa er det mit inderlige Ønske over denne lille Bog i Børnenes Haand, at den fremdeles maa blive et Middel til, at saadanne Psalmer blive levende i deres Hjerter, saa de kan lyde med Lyst paa deres Tunger til Vorherres Priis for alle hans store og underlige Gjerninger, som han har gjort fra Begyndelsen og gjør endnu idag, at de maae fornemme til usigelig Trost og Glæde:</p>
+<lg>
+<l>"Intet saa stort, Han det jo kan,</l>
+<l>Intet saa godt, Han det jo vil!</l>
+<l>Det overgaaer al vor Forstand,</l>
+<l>Ar der en saadan Gud er til;</l>
+<l>Er dog ei meer, end i Børnesko</l>
+<l>Alle de Smaa kan yndigt troe,</l>
+<l>Er netop nok til Sjælero!"</l>
+</lg>
+<p><hi rend="align(right)">P. O. Boisen.</hi></p>
+<fw type="graphic"/>
+</div>
+<div> 
+<pb facs="1853_10_page0006.png"/>
+<fw type="pageNum"></fw>
+<head>Indhold.</head>
+<fw type="graphic"/>
+<head>"Skolen, ved Indvielsen af Dronningens Asylskole 1841.</head>
+<head>Det gamle Testament.</head>
+<p>Nr.	Side</p>
+<p><hi rend="bold">Skabelsen</hi> (Grundtvigs Sangv. II. S. 47) 1.</p>
+<p><hi rend="bold">Skabningens Lovsang</hi> (H. A. Brorson: "Troens rare Klenodie" 1742. Hagens Psalmebog)	 4.</p>
+<p><hi rend="bold">paradiset</hi> (Grundtvigs Sangværk II.). ... 7.</p>
+<p><hi rend="bold">Skabningen efter Faldet</hi> (sammesteds) . . 9.</p>
+<p><hi rend="bold">Kain og Abel</hi> (Theol. Maanedskr.) fork.. . 11.</p>
+<p><hi rend="bold">Syndfloden</hi> (smstds.) forkortet	14.</p>
+<p><hi rend="bold">Babels-Taarnet</hi> (Gr. Sangv. II.)	25.</p>
+<p><hi rend="bold">Abrahams Kald</hi> (smstds.)	27.</p>
+<p>9.	<hi rend="bold">Abraham i Mamre</hi> (Hagens Psbg.) .... 29.
+10. <hi rend="bold">Isak</hi> (Gr. Sangv. II.)	31.</p>
+<pb facs="1853_10_page0007.png"/>
+<fw type="pageNum">VIII</fw>
+<p>Nº.	Side</p>
+<p>11. <hi rend="bold">Isaks Giftermaal</hi> (smstds.)	35.</p>
+<p>12. <hi rend="bold">Jakobs Drøm</hi> (smstds.)	37.</p>
+<p>13. <hi rend="bold">Jakobs Kamp</hi> (smstds.)	43.</p>
+<p>14. <hi rend="bold">Joseph i Fængslet</hi> (smstds.)	46.</p>
+<p>15. <hi rend="bold">Kong Pharaos Drøm</hi> (smstds., S. 117) . 50. 16. <hi rend="bold">Jakob kommer til Ægypten</hi> (smstds.) . . 55.</p>
+<p>17. <hi rend="bold">Moses Fødsel</hi> (smstds.) forkortet	58.</p>
+<p>18. <hi rend="bold">Moses i Ørken</hi> (smstds.) forkortet	60.</p>
+<p>19.	<hi rend="bold">Israel i Ægyptens Trældom</hi> (smstds.)</p>
+<p>forkortet	62.</p>
+<p>20.	<hi rend="bold">Udfrielsen</hi> af <hi rend="bold">Ægypten</hi> (smstds.)	66.</p>
+<p>21.	<hi rend="bold">Overgangen over det røde Hav</hi> (smstds.) 70.</p>
+<p>22.	<hi rend="bold">Lovgivningen paa Sinai</hi> (smstds.) . ... 72.</p>
+<p>23.	<hi rend="bold">Guldkalven</hi> (smstds.. S. 172) forkortet. . . 75.</p>
+<p><hi rend="bold">Speiderne</hi> (smstds.) forkortet	79.</p>
+<p><hi rend="bold">Moses</hi> (Gr. Krønikeriim)	83.</p>
+<p><hi rend="bold">Josva</hi>, efter Syrachs Lovsang, Kap. 46</p>
+<p>(Gr. Sangv. II., S. 29)	85.</p>
+<p>27.	<hi rend="bold">Jordans Flod</hi> (Dansk Kirketid. Nr. 364) forkortet	86.</p>
+<p><hi rend="bold">Rachab</hi> (Gr. Sangv. II.) ændret	87.</p>
+<p>*<hi rend="bold">Ruth</hi>	92.</p>
+<p><hi rend="bold">Dommeren Jefta</hi> (P. Dass: "Bibelsk Visebog" 1722) forkonet	 99.</p>
+<p>*<hi rend="bold">Samson</hi>	102.</p>
+<p>*<hi rend="bold">Eli og Samuel</hi>	106.</p>
+<pb facs="1853_10_page0008.png"/>
+<fw type="pageNum">IX</fw>
+<p>Nº.	Side</p>
+<p>33.	111.</p>
+<p><hi rend="bold">Davids Seiers-Sang</hi> (Hagens Psbg.). . 114.</p>
+<p><hi rend="bold">Kong David</hi> (Gr. Krønikerum)	116.</p>
+<p><hi rend="bold">David</hi>, efter Syrachs Lovsang Kap. 47</p>
+<p>(Gr. Sangv. II. Side 30)		118.</p>
+<p><hi rend="bold">Kong Salomon</hi> (smstds. Side 32) ....	120.</p>
+<p><hi rend="bold">Elias og Elisa</hi> (smstds. Side 33) ....	122.</p>
+<p>*<hi rend="bold">Hungersnøden</hi>		124.</p>
+<p>*<hi rend="bold">Naboths Viingaard</hi>		127.</p>
+<p>40d. <hi rend="bold">Elisa og Naman</hi> (Gr. Sangv. I.) fork. .	130.</p>
+<p>41.	<hi rend="bold">Kong Ezechias og propheten Esaias</hi> efter Syrachs Lovsang (Gr. Sangv. II.
+Side 34)	133.</p>
+<p>42.	<hi rend="bold">Kong Josias og propheten Jeremias</hi></p>
+<p>(smstds. Side 36)	135.</p>
+<p>43.	<hi rend="bold">Job</hi>, gl. Folkesang (Moltkens Psbg., 1664) forkortet	137.</p>
+<p><hi rend="bold">Israel i Udlændigheden</hi> (Hagens Psbg.) 142.</p>
+<p><hi rend="bold">Ezechiel</hi> (Gr. Sangv. II.) forkortet .... 145.</p>
+<p><hi rend="bold">Serubabel</hi> (Gr. Krønikeriim)	147.</p>
+<p><hi rend="bold">''Daniel og det store Billede</hi>	149.</p>
+<p><hi rend="bold">Mesteren kommer</hi> (V. S. Ingemann:</p>
+<p>"Nord. Tidskr, for Chr. Theologie" III.) 152.</p>
+<pb facs="1853_10_page0009.png"/>
+<fw type="pageNum">X</fw>
+<p>Det nye Testament.</p>
+<p>Nº.	Side</p>
+<p>48.	<hi rend="bold">Herrens Huus</hi> (Gr. Sangv. I.) forkortet 156.</p>
+<p>49.	<hi rend="bold">Marias Bebudelse</hi> ("D. Kirketid." Nr. 78)</p>
+<p>forkortet	157.</p>
+<p>50.	<hi rend="bold">Hyrderne ved Bethlehem</hi> (Fengers Jule-</p>
+<p>hefte)	160.</p>
+<p>51.	<hi rend="bold">Bethlehems-Barnet</hi>(gl.Ps., Hagens Psbg.) 163.</p>
+<p><hi rend="bold">Den gamle Simeon</hi> (C. I. Brandt). . . 164.</p>
+<p><hi rend="bold">De hellige tre Konger</hi> (Rahbeks "Sandsiger" 1811, Hagens Psbg.)		168.</p>
+<p><hi rend="bold">Flugten til Ægypten</hi> (Fengers Julehefte)	173.</p>
+<p><hi rend="bold">Jesu Barndom</hi> (smstds.)		177.</p>
+<p><hi rend="bold">Jesus som Barn i Templet</hi> (Th. Kingo:</p>
+<p>"Vinterpart" 1689, Hagens Psbg.) .... 181.</p>
+<p>57.	<hi rend="bold">Johannes den Døber</hi> ("D. Kirketid."</p>
+<p>Nr. 120) forkortet	183.</p>
+<p>58.	<hi rend="bold">Herrens Daab</hi> ("Nord. Tidskr. for Chr.</p>
+<p>Theologie" II.)	186.</p>
+<p><hi rend="bold">Herrens Fristelse</hi> ("D. Kirketid." Nr. 25) 190.</p>
+<p><hi rend="bold">Nathanael</hi> (smstds. Nr. 47) forkortet ... 194.</p>
+<p><hi rend="bold">Jesus og Kvinden af Samaria Land</hi> gl. Folkesang (findes i Opskrift 1585,
+Moltkens Psbg. 1664) forkortet	197.</p>
+<pb facs="1853_10_page0010.png"/>
+<fw type="pageNum">XI</fw>
+<p>Nº.	Side</p>
+<p><hi rend="bold">Sædemanden</hi> (Gr. Sangv. I.)	199.</p>
+<p><hi rend="bold">Den forlorne Søn</hi> (Festpsalmer)	202.</p>
+<p><hi rend="bold">Peders Apostel-Kald</hi> (Hagens Psbg. 3die Oplag)	204.</p>
+<p><hi rend="bold">Jesus paa Havet</hi> (TH. Kingo, Hag. Psb.) 207.</p>
+<p>*<hi rend="bold">Høvedsmanden i Kapernaum</hi>	210.</p>
+<p>'<hi rend="bold">Enkens Søn i Nain</hi>	212.</p>
+<p><hi rend="bold">Den blodsottige Kvinde</hi> ("Nord. Tidskr. for Chr. Theol." IV	215.</p>
+<p>*<hi rend="bold">Jairi Datter</hi>	218.</p>
+<p>*<hi rend="bold">Den kananæiske Kvinde</hi>	221.</p>
+<p><hi rend="bold">Synderinden i Pharisæerhuset</hi> (Gr.</p>
+<p>Sangv. I.)	223.</p>
+<p>72.	<hi rend="bold">forklarelsen paa Bjerget</hi> (smstds.) fork.. 226.
+72b.. <hi rend="bold">Den lille Zakkæns</hi> (C. I. Brandt, Kirk.</p>
+<p>Samler) forkortet	228.</p>
+<p>73.	<hi rend="bold">Jesus i Dennehuset i Bethania</hi> (V. S.</p>
+<p>Ingemann, Fengers Paaskehefte)	231.</p>
+<p>74.	<hi rend="bold">Øp til Jerusalem</hi>, efter en græsk Faste-</p>
+<p>Sang (Gr. Sangv. I.)	233,</p>
+<p>75.	<hi rend="bold">Herrens Indtog. I</hi>. (C. I. Brandt) . . . 235
+76. -	- <hi rend="bold"> II</hi>. (nævnes som "gl. Ps."</p>
+<p>1611, Hagens Psbg.)	239</p>
+<p>77.	<hi rend="bold">Paaske-Herberget</hi> (Ingemann, Fengers</p>
+<p>Paaskehefte)	241</p>
+<p>78.	<hi rend="bold">Nadveren</hi> (Gr. Sangv. I.)	243</p>
+<pb facs="1853_10_page0011.png"/>
+<fw type="pageNum">XII</fw>
+<p>Nº.	Sire</p>
+<p>79. <hi rend="bold">Jesus i Urtegaarden</hi> (Th. Kingo, Hagens</p>
+<p>Psbg.) forkortet	344.</p>
+<p>80. <hi rend="bold">Peders Fald</hi> (ligeledes) forkortet	347.</p>
+<p>81. <hi rend="bold"> Døden paa Korset</hi> (ligeledes)	249.</p>
+<p>82. <hi rend="bold">Nedfarten til Helvede</hi>. efter Angel-Sachseren</p>
+<p>hos Cædmon (Gr. Sangv. I.)	353.</p>
+<p>83. <hi rend="bold">Opstandelsen, I</hi>., P. M Ofvid, 1648, see
+	D. Psalmedigtn. I. S. 333 (Feng. Paaskeh.) 357.</p>
+<p>84. - <hi rend="bold">II.</hi>, (Gr. Sgv, I., Fengers Paaskeh. 259. 85. - <hi rend="bold">III.</hi>, (Gr. Sangv. I., S. 521) fork. 261. 86. <hi rend="bold">De to Disciple til Emaus</hi> ("D. Kirketid."</p>
+<p>Nr. 31) forkortet	 264.</p>
+<p><hi rend="bold">Thomas</hi> (Fengers Pindsehefte) ....... 271.</p>
+<p><hi rend="bold">Himmelfarten, I</hi>. (gl. Ps., trykt 1620.</p>
+<p>Fengers Pindsehefte)	275.</p>
+<p>89. - <hi rend="bold">II.</hi> ("Festpsalmer")	376.</p>
+<p>90. <hi rend="bold">Den Hellig-Aands Udgydelse, I</hi>. (Feng.</p>
+<p>Pindsehefte)	377.</p>
+<p>91. __ <hi rend="bold">II.</hi> ("Prøveheftet", udg. af det kbh.</p>
+<p>Præsteconvent)	280.</p>
+<p>92. <hi rend="bold">Stephanus</hi> (Th. Kingo, Hagens Psbg.). . 381.</p>
+<p>93.	<hi rend="bold">Kammersvenden fra Morland</hi> (Hagens</p>
+<p>Psbg.)	284.</p>
+<p><hi rend="bold">Cornelius</hi> (Fengers Pindsehefte)	393.</p>
+<p><hi rend="bold">Antiochia</hi> (Gr. Sangv. I.) forkortet. . . . 296.</p>
+<p>*<hi rend="bold">St. Peders Fængsling</hi>	398.</p>
+<pb facs="1853_10_page0012.png"/>
+<fw type="pageNum">XIII</fw>
+<p>Nº.	Side</p>
+<p>97.	<hi rend="bold">Apostelen Johannes</hi> ("Nord. Tidskr. for Chr. Theol") ændret	302.</p>
+<p>97b. <hi rend="bold">Jakob, Herrens Broder</hi> (C. M. Kragballe, "D. Kirtet." Nr. 382) forkortet . 306.</p>
+<p>*<hi rend="bold">Polykarp</hi>	309.</p>
+<p>*<hi rend="bold">Anglerne</hi>	312.</p>
+<p><hi rend="bold">Kong Edvin og Paulin</hi> (Gr. Krømker.) 315.</p>
+<p><hi rend="bold">Ansgar og Ødbert</hi> ("Et Blad af Jyll.</p>
+<p>R. Kron.", "Fædr. Riim og Sange" ved</p>
+<p>C. I. Brandt)	318.</p>
+<p>102.	<hi rend="bold">Morten Luther I</hi>. (Gr. Krøniker.) fork. 324.</p>
+<p>103.	- - II. (1812, see Gr. Kvædlinger 1815, Hagens Psbg.)	327.</p>
+<p>104.	<hi rend="bold">Hans Tavsen</hi> (Ingemann IV., 8, Nye og gamle Viser af og for Danske Folk ved</p>
+<p>P. O. Boisen)	329.</p>
+<p>105.	<hi rend="bold">Thomas Kingo</hi> ("Fædr. Riim og Sange" ved C. I. Brandt)	331.</p>
+<p>106.	<hi rend="bold">Den gamle Dagvise</hi> (Hans Thomessøns</p>
+<p>Psbg 1569, Hagens Psbg.) forkonet. . . 333.</p>
+<p><hi rend="bold">Ordet</hi> (Gr. Sangv. I.)	336.</p>
+<p>*<hi rend="bold">Christ. Rige</hi>	340.</p>
+<p>*<hi rend="bold">Kirken I</hi>	342.</p>
+<p>109a. - II. (Gr. Sangv. I., "Festps.") . . 344. 109b. <hi rend="bold">Kirkens Trøst</hi> (Gr. Sangv. I., Hagens</p>
+<p>Psbg.)	347.</p>
+<pb facs="1853_10_page0013.png"/>
+<fw type="pageNum">XIV</fw>
+<p>Nº.	Side</p>
+<p>110.	<hi rend="bold">Herrens Aar</hi> (gl. Ps., Haandskrift i Thetts</p>
+<p>Saml.; "Festpsalmer")	350.</p>
+<p>*<hi rend="bold">Himmelbrevet</hi>	351.</p>
+<p><hi rend="bold">Kirke-Klokken</hi> ("D. Kirketid." 1815 Nr.3) forkortet	355.</p>
+<fw type="graphic"/>
+</div>
+<div> 
+<pb facs="1853_10_page0014.png"/>
+<fw type="pageNum">202</fw>
+<head>Nº 63.</head>
+<head>Den forlorne Son.</head>
+<head>(Luc. 15, 12.)</head>
+<p>Mel. Kirken er som Himmerige, eller: Mellem Brødre kaldt den Lille.</p>
+<lg>
+<l><hi rend="initial">H</hi>ører I? Vorherre kalder,</l>
+<l>Kjærlig som en Moders Bøn:</l>
+<l>Vender om i hver en Alder</l>
+<l>Nu med "<hi rend="bold">den forlorne Son</hi>!"</l>
+</lg>
+<lg>
+<l>I sig selv han gik omsider</l>
+<l>Med sig selv irette saa:</l>
+<l>"Her af Sult og Tørst jeg lider,</l>
+<l>Maa forsmægte og forgaae,</l>
+</lg>
+<lg>
+<l>Hos min Fader i det Fjerne</l>
+<l>Tyendet af begge Kjøn,</l>
+<l>Paa hans Lo og ved hans Kværne,</l>
+<l>De faaer baade Kost og Løn,</l>
+</lg>
+<lg>
+<l>Hjem til ham vil jeg mig vende,</l>
+<l>Til min Fader eiegod,</l>
+<l>Frit min Skyld vil jeg bekjende,</l>
+<l>Staae til ham paa Tjenerfod."</l>
+</lg> 
+<pb facs="1853_10_page0015.png"/>
+<fw type="pageNum">203</fw>
+<lg>
+<l>Hver en Sjæl paa Veie vilde,</l>
+<l>Som vil træde i det Spor,</l>
+<l>Skal Guds Fader-Røst den milde</l>
+<l>Mode brat i Naadens Ord.</l>
+</lg>
+<lg>
+<l>Han, som elsker os saa saare,</l>
+<l>Moder os ved første Skridt,</l>
+<l>Kysser bort hver bitter Taare,</l>
+<l>Trøster os med Aasyn bildt!</l>
+</lg>
+<lg>
+<l>Det er, siger han, guldmundet,</l>
+<l>Glæde størst i Faders Hu,</l>
+<l>Naar hans tabte Barn er fundet,</l>
+<l>Som var dødt, men lever nu.</l>
+</lg>
+<lg>
+<l>Klæder nye og gyldne Ringe</l>
+<l>Er den Lykkeliges Pryd,</l>
+<l>Sangen toner, Harper klinge</l>
+<l>Stemte eens til Glædskabs Lyd.</l>
+</lg>
+<lg>
+<l>Hvilken Synder kan sig vægre,</l>
+<l>Naar han hører i Guds Ord</l>
+<l>Gjenlyd af de gyldne Bægre,</l>
+<l>Som udtommes ved Guds Bord!</l>
+</lg> 
+<pb facs="1853_10_page0016.png"/>
+<fw type="pageNum">204</fw>
+<lg>
+<l>Vend da om! din Frelser kalder,</l>
+<l>Kalder i Gud-Faders Navn!</l>
+<l>Tro ei Fjendens Løgn og Skvalder!</l>
+<l>Sky dog ei din Faders Favn!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<head>No. 64.</head>
+<head>Peders Apostel-Kald.</head>
+<head>(Luc. 5, 1.)</head>
+<lg>
+<l><hi rend="initial">D</hi>er sad en Fisker saa tankefuld,</l>
+<l>Og hørte paa Herrens Tale,</l>
+<l>Saa klang i Øret ei Solo og Guld,</l>
+<l>Ei Sangen i Havfrusale;</l>
+<l>Paa Fiskerkvasen vor Herre sad,</l>
+<l>Og Folk i Mængde som Blomst og Blad</l>
+<l>De lytted' i Land til Ordet.</l>
+</lg> 
+<pb facs="1853_10_page0017.png"/>
+<fw type="pageNum">342</fw>
+<lg>
+<l>Ja, naar han kommer i det Blaa,</l>
+<l>Er Christnes Kamp tilende,</l>
+<l>Hvad Troende i Speilet saae,</l>
+<l>Skal Salige erkjende.</l>
+</lg>
+<lg>
+<l>Da Riget er med Sole-Kaar</l>
+<l>Tilsyne og tilstade</l>
+<l>I Evighedens Gylden-Aar</l>
+<l>Med Ret og Fred og Glæde!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<head>Nr 109.</head>
+<head>Kirken.</head>
+<head>I</head>
+<head>Mel. O sanctissima.</head>
+<lg>
+<l><hi rend="initial">K</hi>irken er som Himmerige,</l>
+<l>Meget kan den lignes ved,</l>
+<l>Skjøndt paa Jord den har ei Lige,</l>
+<l>Som Guds Naade og Guds Fred!</l>
+</lg>
+<lg>
+<l>Mest dog lig en Barne-Moder,</l>
+<l>Herren kalder den sin Brud,</l>
+<l>Ved dens Mælk opvoxe Poder,</l>
+<l>Som ved Bække Pile-Skud!</l>
+</lg> 
+<pb facs="1853_10_page0018.png"/>
+<fw type="pageNum">343</fw>
+<lg>
+<l>Kirkens Favn og derfor kaldes</l>
+<l>Rettelig et Moder-Skjød,</l>
+<l>Naar der sørges, naar der faldes,</l>
+<l>Altid der er Hvilen sod!</l>
+</lg>
+<lg>
+<l>Kastes Vrag paa Kirkens Goder</l>
+<l>Af den Sjæl, som dem har smagt,</l>
+<l>Da forhaaner Son sin Moder,</l>
+<l>Og hans Dom er forudsagt.</l>
+</lg>
+<lg>
+<l>Angres det med ærlig Smerte,</l>
+<l>Vendes om med ydmyg Bon,</l>
+<l>Kirken dog med Moder-Hjerte</l>
+<l>Favner den forlorne Søn!</l>
+</lg>
+<lg>
+<l>Til saamange som vi ere</l>
+<l>Siger dog hun moderlig:</l>
+<l>Foler, her er godt at være!</l>
+<l>Bliver alle tro hos mig!</l>
+</lg>
+<lg>
+<l>Mit er Povels, mit er Peders,</l>
+<l>Alles Herre, han er min!</l>
+<l>Og alt mit det er jo eders,</l>
+<l>Nyde hver med Troen sin!</l>
+</lg> 
+<pb facs="1853_10_page0019.png"/>
+<fw type="pageNum">344</fw>
+<lg>
+<l>Hele Verden ei opveier,</l>
+<l>Hvad vi troer og hvad vi veed:</l>
+<l>Himmerig paa Jord vi eier</l>
+<l>I vor Frelsers Kjærlighed!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<head>Nº 109, a.II.</head>
+<head>Egen Melodie.</head>
+<lg>
+<l><hi rend="initial">K</hi>irken, den er et gammelt Huus,</l>
+<l>Staaer, om end Taarnene falde,</l>
+<l>Taarne fuldmane tank Gruus,</l>
+<l>Klokker end kime og kalde,</l>
+<l>Kalde paa Gammel og paa Ung,</l>
+<l>Høiest paa Sjælen træt og tung,</l>
+<l>Syg for den evige Hvile!</l>
+</lg>
+<lg>
+<l>Himlenes Gud vist ei beboer</l>
+<l>Huse, som Hænder kan bygge,</l>
+<l>Arke - Paulunet var paa Jord</l>
+<l>Kun af Hans Tempel en Skygge,</l>
+<l>Selv dog en Bolig underfuld</l>
+</lg> 
+<pb facs="1853_10_page0020.png"/>
+<fw type="pageNum">345</fw>
+<lg>
+<l>Bygde Han sig i os af Muld;</l>
+<l>Reiste af Gruset i Naade!</l>
+</lg>
+<lg>
+<l>Vi er Guds Huus og Bolig nu,</l>
+<l>Bygget af levende Stene.</l>
+<l>Som under Kors med ærlig Hu</l>
+<l>Troen og Daaben forene;</l>
+<l>Var vi paa Jord ei meer end To,</l>
+<l>Bygge dog vilde Han og boe</l>
+<l>Hos os med hele sin Naade!</l>
+</lg>
+<lg>
+<l>Samles vi kan da med vor Drot</l>
+<l>Selv i den laveste Hytte;</l>
+<l>Synge med Fryd: hvor her er godt,</l>
+<l>Tog Paladser i Bytte;</l>
+<l>Aand er og Liv i allen Stund</l>
+<l>Ordet til os af Jesu Mund,</l>
+<l>Ordet kun helliger Huset!</l>
+</lg>
+<lg>
+<l>Husene dog med Kirkenavn,</l>
+<l>Bygte til <hi rend="bold">Frelserens</hi> Ære,</l>
+<l>Hvor han de Smaa tog tit i Favn,</l>
+<l>Er os, som Hjemmet, saa kjære,</l>
+</lg> 
+<pb facs="1853_10_page0021.png"/>
+<fw type="pageNum">346</fw>
+<lg>
+<l>Deilige Ting i dem er sagt,</l>
+<l>Sluttet har der med os sin Pagt,</l>
+<l>Han, som os Himmerig skjænker!</l>
+</lg>
+<lg>
+<l>Fonten os minder om vor Daab,</l>
+<l>Altret om Nadverens Naade,</l>
+<l>Alt med Guds Ord om Tro og Haab</l>
+<l>Og om Guds Kiærligheds Gaade,</l>
+<l>Huset om ham, hvis Ord bestaaer,</l>
+<l><hi rend="spaced">Christus</hi>, idag alt som igaar,</l>
+<l>Evig Guds Søn, vor Gjenløser!</l>
+</lg>
+<lg>
+<l>Give da Gud, at hvor vi boe</l>
+<l>Altid, naar Klokkerne ringe,</l>
+<l>Folket forsamles i Jesu Tro</l>
+<l>Der, hvor det pleied klinge:</l>
+<l>Verden vel ei, men I mig seer,</l>
+<l>Alt hvad jeg siger, see, det skeet!</l>
+<l><hi rend="spaced">Fred være med eder Alle</hi>!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div> 
+<pb facs="1853_10_page0022.png"/>
+<fw type="pageNum">347</fw>
+<head>Nº 109, b.</head>
+<head>Kirkens Trost.</head>
+<lg>
+<l><hi rend="initial">S</hi>tille, stille, Zions Døttre smaae!</l>
+<l>Græder</l>
+<l>Vrider dog Smaa-Hænderne ei saa!</l>
+<l>Ligner dog ei Verdens arme Daarer!</l>
+<l>Mindes dog, til Trost i bange Kaar:</l>
+<l><hi rend="spaced">Lægedom har Gud for alle Saar</hi>!</l>
+</lg>
+<lg>
+<l>Ligger end hun bleg paa Sotte-Sengen,</l>
+<l>Eders Moder, under hvide Haar,</l>
+<l>Voxer end- boe ei paa Blomster-Engen</l>
+<l>Nogen urt mod hendes Bane-Saar,</l>
+<l>Hjertet tor I dog for Ham udose,</l>
+<l>Som er Fader for de Moderløse!</l>
+</lg>
+<lg>
+<l>Derfor, jamrer Eder ikke saa!</l>
+<l>Dæmper, dæmper dog de høie Klager!</l>
+<l>I en Fader har at stole paa,</l>
+<l>Som gjør kun, gjør Alt, hvad Ham behager!</l>
+<l>Skulde nu da for Hans egne Smaae</l>
+<l>Ei den bedste Faders Hjerte slaae!</l>
+</lg> 
+<pb facs="1853_10_page0023.png"/>
+<fw type="pageNum">348</fw>
+<lg>
+<l>Eders Moder prøved' mange Læger,</l>
+<l>Alt sit Gods hun har paa dem tilsat,</l>
+<l>Drak kun Soet af hvert et Sundheds-Bæger,</l>
+<l>Er af Kunsten uden Haab forladt;</l>
+<l>Men hos</l>
+<l>Er ei Død, men Kilderne til Livet!</l>
+</lg>
+<lg>
+<l>O, I Kjære, I jo godt dog veed,</l>
+<l>Hvad os trøste skal i al vor Kummer!</l>
+<l>Skjøndt i Dødens matte, kolde Sved</l>
+<l>Øiet brister, Tungen slet forstummer,</l>
+<l>Hvisker Hjertet dog <hi rend="spaced">var Jesus her</hi>,</l>
+<l><hi rend="spaced">Ei hun døde, som bled Herren kjær</hi>?</l>
+</lg>
+<lg>
+<l>Men, hvorfor er <hi rend="spaced">Jesus</hi> her da ikke!</l>
+<l>Er hans Lofte da nu meer ei sandt,</l>
+<l>At hvor Bud i Bon Ham <hi rend="spaced">Hjerter</hi> skikke,</l>
+<l>Der han brat vil være midt iblandt,</l>
+<l>Eller kan paa Marken meer ei Tvende</l>
+<l>Enes om, til Herren Bud at sende!</l>
+</lg>
+<lg>
+<l>Jo, Han kommer, hist som Morgen-Gry</l>
+<l>Rødmer, lysner det faa bildt i Norden,</l>
+</lg> 
+<pb facs="1853_10_page0024.png"/>
+<fw type="pageNum">349</fw>
+<lg>
+<l>Brat vi see Ham, i en Rosen-Sky,</l>
+<l>Dalende hensvæve over Jorden;</l>
+<l>Hvo Ham moder paa Hans Naades Vei,</l>
+<l>Liv og Lægedom forfeller ei!</l>
+</lg>
+<lg>
+<l>Sid da op, Du alderstegne Kvinde!</l>
+<l>Brug til Krykker Øine Døttre smaae!</l>
+<l>Kan et Skridt Du kun fra Sengen vinde,</l>
+<l>Brat skal Herren Dig for Øine staae;</l>
+<l>Norer Du blot Sømmen af Hans Klæde,</l>
+<l>Karsk igjen Du reiser Dig med Glæde!</l>
+</lg>
+<lg>
+<l>Derfor, smiler, Zions Døttre smaae,</l>
+<l>Smiler sødt igjennem Taare-Duggen!</l>
+<l>Snart I skal med Glæde Harpen slaae,</l>
+<l>Zions Sang skal klinge over Vuggen,</l>
+<l>Tone skal det under klaren Sky:</l>
+<l><hi rend="spaced">Guddoms-Barnet er os født paa Ny</hi>!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div> 
+<pb facs="1853_10_page0025.png"/>
+<fw type="pageNum"></fw>
+<head>Register.</head>
+<p><hi rend="align(right)">Nr.	Side</hi></p>
+<p><hi rend="bold">A</hi>anden opgav Enkesønnen		67.	212.</p>
+<p>Abraham sad osv		9.	29.</p>
+<p>Al Jente saae Vorherre		72. b. 228.</p>
+<p>Alt paa den vilde Hede		59.	90.</p>
+<p>Apostlerne sad i Jerusalem		90.	277.</p>
+<p><hi rend="bold">B</hi>lomst kan visne før osv		69.	218.</p>
+<p><hi rend="bold">D</hi>a Moses gik paa Bjerget op		23.	75.</p>
+<p>Da Sol gik ned i Vanke		24.	79.</p>
+<p>De Christne er en litte Flok		111.	351.</p>
+<p>Deilig er den Himmel blaa		53.	168.</p>
+<p>Den signede Dag med Fryd vi seer ....	106.	333.</p>
+<p>Den store Mester kommer		48.	152.</p>
+<p>Den største Paaske Verden har seet ....	77.	241.</p>
+<pb facs="1853_10_page0026.png"/>
+<fw type="pageNum">358</fw>
+<p><hi rend="align(right)">Nr.	Side</hi></p>
+<p>Der ganger Sagn saa vidt om Land ...	52.	164.</p>
+<p>Der gik en Hyrde øg vogted Faar		18.	60.</p>
+<p>Der kom et Bud fra Himmerig		10.	31.</p>
+<p>Der kom tre svare Hungersaar		39.	124.</p>
+<p>Der laae en Stad paa Marken		28.	87.</p>
+<p>Der ligger en Stad i det Tyrkisse Land. .	95.	296.</p>
+<p>Der ligger en Øe i Vesterhav		99.	312.</p>
+<p>Der vandred en Yngling osv		60.	194.</p>
+<p>Der var en gammel Hyrde		98.	309.</p>
+<p>Der var en gammel Præstesøn		45.	145.</p>
+<p>Der var en Kæmpe over Kæmper alle. . .	31.	102.</p>
+<p>Der var en Kæmpe stor og stærk		40, d.130.</p>
+<p>Der var paa Jord en Guds Engel osv. .	97.	183.</p>
+<p>Der sad en Fisker saa tankefuld		64.	204.</p>
+<p>Der sad en Svend i Blaamænds Land. .	93.	284.</p>
+<p>Der sad en Svend i det sorte Hul		14.	46.</p>
+<p>Der skinner en Sol i Lys og Len		XV.</p>
+<p>Det hændte sig Jefta osv		30.	99.</p>
+<p>Det var en Solskins Dag i Vaar		49.	157.</p>
+<p>Det var i Hvede-Høstens Tid		27.	86.</p>
+<p>Det var saa stille ved Midjenat		32.	106.</p>
+<p>Du sande Gud! her Du min Bøn....	94.	293.</p>
+<p><hi rend="bold">E</hi>n Kvinde af Samaria-Land		61.	197.</p>
+<p>En Sædemand gik ud osv.	-	62.	199.</p>
+<p>En Søndagmorgen Kvinder tre		83.	257.</p>
+<pb facs="1853_10_page0027.png"/>
+<fw type="pageNum">359</fw>
+<p><hi rend="align(right)">Nr.	Side</hi></p>
+<p>Et Barn er fedt i Bethlehem		51.	163.</p>
+<p>Et Paradiis var Gosen		19.	62.</p>
+<p><hi rend="bold">F</hi>aa var de Synder, som osv		41.	133.</p>
+<p>Flammen, som blusser paa osv		36.	118.</p>
+<p>Fra Afguders Altre slog Røgen osv		8.	27.</p>
+<p>Frelse hver fra Aag og Plage		85.	261.</p>
+<p>Fryd dig, du Christi Brud		76.	239.</p>
+<p><hi rend="bold">G</hi>ak under Jesu Kors at staae		81.	249.</p>
+<p>Goliath drog fra Gath		33.	111.</p>
+<p>Gud naade mig stakkels osv		16.	55.</p>
+<p>Gud planted en Have fra Øst til Vest . .	3.	7.</p>
+<p><hi rend="bold">H</hi>an sidder tilbords osv		73.	231.</p>
+<p>Herrens Huus var lagt i Støvet		46.	147.</p>
+<p>Hilsæl du store Fødselsdag		86.	264.</p>
+<p>Himmel og Jord, som for os de staae...	1.	1.</p>
+<p>Hos Fyrsterne sad tæt i Ring		101.	318.</p>
+<p>Hos Herren paa det Høie		72.	226.</p>
+<p>Hvad er det for en Snekke		65.	207.</p>
+<p>Hvem er den Drot med Ære		75.	235.</p>
+<p>Hvor stor er dog den Glæde		56.	181.</p>
+<p>Hyggelig, rolig		156.</p>
+<p>Hører I? Vorherre kalder		63.	202.</p>
+<pb facs="1853_10_page0028.png"/>
+<fw type="pageNum">360</fw>
+<p><hi rend="align(right)">Nr.	Side</hi></p>
+<p><hi rend="bold">I</hi> Dommertiden i Bethlehem		29.	92.</p>
+<p>I Kveld blev der banket osv		82.	253.</p>
+<p>I Nazareth der var saa smukt		55.	177.</p>
+<p>I Wittenberg i Sachsen-Land		103.	337.</p>
+<p>Jeg drømte en Drøm osv		47.	149.</p>
+<p>Jeg forte ret et Konge-Liv		100.	315.</p>
+<p>Jeg gik i Marken osv		35.	116.</p>
+<p>Jeg havde min Vugge osv		25.	83.</p>
+<p>Jeg laa ved det samme Moderbryst		97, b. 306.</p>
+<p>Jeg var en Munk i Sachsen-Land ....	102.	324.</p>
+<p>Jehova nedfoer fra det Høie		22.	72.</p>
+<p>Jesus Christus, Livets Drot		78.	243.</p>
+<p>Jesus himmelfaren 		89.	276.</p>
+<p>Job var en gudfrygtig Mand		43.	137.</p>
+<p>Johannes var Vorherres Ven		97.	302.</p>
+<p><hi rend="bold">K</hi>ain pløied rask i Vaar		5.	11.</p>
+<p>Kirke-Klokke! ei til Hovedstæder		112.	355.</p>
+<p>Kirken er som Himmerige		109.	342.</p>
+<p>Kirken, den er et gammelt Huus. .....	109, a.344.</p>
+<p>Kong Pharao vaagned osv		15.	50.</p>
+<p>Kong Pharao var en ugudelig Krop. ...	17.	58.</p>
+<p>Konger, som trodse den Høiestes Bud ...	42.	135</p>
+<p>Kvinden paa sin Krykke		68.	215.</p>
+<p><hi rend="bold">L</hi>yset ei blev i Jerusalem slukt		38.	122.</p>
+<pb facs="1853_10_page0029.png"/>
+<fw type="pageNum">361</fw>
+<p><hi rend="align(right)">Nr.	Side</hi></p>
+<p><hi rend="bold">M</hi>aria hun sad paa Ho osv		50.	160.</p>
+<p>Med sin Alabaster Krukke		71.	223.</p>
+<p>Mellem Brødre kaldt den lille		34.	114.</p>
+<p><hi rend="bold">N</hi>aboths Viingaard grændsed tæt		40.	127.</p>
+<p>Naar Nat udvælder		6.	14.</p>
+<p><hi rend="bold">D</hi> Hor det Thomas osv		87.	271.</p>
+<p>Om en Hedning vil vi sjunge		66.	210.</p>
+<p>Op ad Bjerg og ned i Dal		12.	37.</p>
+<p>Op al den Ting, som Gud har gjort ...	2.	4.</p>
+<p>Op til Jerusalem vi gaae		74.	233.</p>
+<p>Ordet var fra Arilds Tid . 		107.	336.</p>
+<p>Over Kedron Jesus træder		79.	244.</p>
+<p><hi rend="bold">P</hi>aa Hedenskabets Grændser		70.	221.</p>
+<p>Paa Sletten ved Euphrat		7.	25.</p>
+<p>Paa Tave Bondes Ager osv		104.	329.</p>
+<p><hi rend="bold">S</hi>alomons Viisdom blev Ordsprog osv. . .	37.	120.</p>
+<p>Sara var død osv		11.	35.</p>
+<p>Solen, som skrider fra Ost til Vest....	4.	9.</p>
+<p>Som Solen oprinder morgenrød		21.	70.</p>
+<p>Som Ørnen sidder paa høien Hald ....	13.	43.</p>
+<p>St. Peder han ligger i Volt og Jern. . .	96.	298.</p>
+<p>Stille, stille Zions Døttee smaae		109, b.347.</p>
+<pb facs="1853_10_page0030.png"/>
+<fw type="pageNum">362</fw>
+<p><hi rend="align(right)">Nr.	Side</hi></p>
+<p>Store Helgen ogsaa haver		80.	247.</p>
+<p>Sode Jesu, Julens Fyrste		92.	281.</p>
+<p><hi rend="bold">T</hi>ag det sorte Kors fra Graven		84.	259.</p>
+<p>Thomas Kingo er Psalmisten		105.	331</p>
+<p>Til Himmels foer den Ærens Drot ....	88.	275. ,</p>
+<p><hi rend="bold">V</hi>ed Babylons Floder		44.	142.</p>
+<p>Ved Jordans Færgestæder		58.	186.</p>
+<p>Vidunderligst af alt paa Jord		108.	340.</p>
+<p>Vor Herre, han var et lille Barn		54.	173.</p>
+<p>Vældig var Josva i Storm og i Strid. .	26.	85.</p>
+<p>Vær velkommen Herrens Aar		110.	350.</p>
+<p><hi rend="bold">Æ</hi>gypten var plaget saa saare		20.	66.</p>
+<fw type="graphic"/>
+</div>
+<div> 
+<pb facs="1853_10_page0031.png"/>
+<fw type="pageNum">363</fw>
+<head>Oplysning om Melodierne.</head>
+<p><hi rend="initial">T</hi>il Nr. 20, 22, 64, 72 d, 93, 109 b, ere ingen</p>
+<p>Melodier angivne, hvilket lægges Tonekunstnere paa Hjerte! De med Bogen følgende Melodier findes ikke trykte - andetsteds, undtagen Mel. Nr. 16, som er taget af Weyses: Acht Gesänge mit Begleit. des Pf. ("Das Grab ist tief und stille") og Nr. 13, trykt i Nyerups og ! Rahbeks udv. Kæmpeviser.</p>
+<p>De angivne <hi rend="spaced">Choraler</hi> findes i Zincks, Weyses og Berggreens Choral-Bøger.</p>
+<p>De angivne Folke-Melodier findes i Weyses og Berggreens almindelige Samlinger.</p>
+<lg>
+<l>I Weyses "Romancer og Sange" udg. af Musikforeningen findes følgende:</l>
+<l>"Nu ringer alle Klokker mod Sky".</l>
+<l>"I Østen stiger Solen ov".</l>
+<l>"Dagen gaaer med raske Fjed".</l>
+<l>"Til vor lille Gjerning ud".</l>
+<l>"Der boede en Konge i Leire".</l>
+<l>"Kommer hid I Piger smaae".</l>
+<l>"Deilig er den Himmel blaa".</l>
+</lg> 
+<pb facs="1853_10_page0032.png"/>
+<fw type="pageNum">364</fw>
+<p>I D. Kirketid. findes:</p>
+<lg>
+<l>"Christ stod op af Døde". 8de V. (1853) Nr. 13.</l>
+<l>"Far heden du Pragt du Verdsens Magt". 10de B.</l>
+<l>(1855) Nr. 1.</l>
+<l>I Mel. til "Festps." som bruges i Vartou-Kirke findes:</l>
+<l>"Kirken den er et gammelt Huus".</l>
+<l>"Abraham sad i Mamre Lund" (Der vanker en Ridder mellem grønne Træer).</l>
+<l>"Sin Vogn gjør han af Skyer blaa".</l>
+<l>"Apostlerne sad i Jerusalem" (en af Dronn. Dagmars-</l>
+<l>Melodierne, ændret).</l>
+<l>"Tag det sorte Kors fra Graven."</l>
+<l>I Berggreens Skolesangbog 1845 findes:</l>
+<l>"Hvo hviler her i friske Grav" og "Paa Sjølunds fagle Sletter".</l>
+<l>I en Samling af H. M. Hansen findes:</l>
+<l>"Naar Nat udvælder af sorten Sky" og "I Wittenberg i Sachsenland".</l>
+<l>"Herr Peder kasted Runer over Spange", er af</l>
+<l>Rungs Musik til Svend Dyrings Huus.</l>
+</lg> 
+<pb facs="1853_10_page0033.png"/>
+<fw type="pageNum">I</fw> 
+<pb facs="1853_10_page0034.png"/>
+<fw type="pageNum">II</fw> 
+<pb facs="1853_10_page0035.png"/>
+<fw type="pageNum">V</fw> 
+<pb facs="1853_10_page0036.png"/>
+<fw type="pageNum">VI</fw> 
+<pb facs="1853_10_page0037.png"/>
+<fw type="pageNum">VII</fw> 
+<pb facs="1853_10_page0038.png"/>
+<fw type="pageNum">VIII</fw> 
+<pb facs="1853_10_page0039.png"/>
+<fw type="pageNum">IX</fw> 
+<pb facs="1853_10_page0040.png"/>
+<fw type="pageNum">X</fw> 
+<pb facs="1853_10_page0041.png"/>
+<fw type="pageNum">XI</fw> 
+<pb facs="1853_10_page0042.png"/>
+<fw type="pageNum">XII</fw> 
+<pb facs="1853_10_page0043.png"/>
+<fw type="pageNum">XV</fw> 
+<pb facs="1853_10_page0044.png"/>
+<fw type="pageNum">XVI</fw>
+</div>
+</body>
+</text>
+</TEI>

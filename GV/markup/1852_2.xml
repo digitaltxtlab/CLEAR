@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Fest-Psalmer.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-18"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="002"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1852">1852</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1852_2_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Fest-Psalmer.</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition></docEdition>
+				<docImprint>
+				<pubPlace>Kjøbenhavn.</pubPlace>Faaes hos Boghandler Iversen,<lb/>store Kjøbmagergade Nr. 9<lb/>
+<fw type="graphic"/>
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>  
+<pb facs="1852_2_page0002.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Mel. Jesu søde Ihukommelse.</l>
+<l><hi rend="initial">O</hi> <hi rend="spaced">Jesus</hi>! paa din Alterfod</l>
+<l>Jeg knæler ned, med Bøn om Bod</l>
+<l>For Hjertesorg og bange Kaar,</l>
+<l>For Syndeskyld og Banesaar.</l>
+</lg>
+<lg>
+<l>2. Jeg er idag min Herres Giæst,</l>
+<l>Betænk, min Sjæl, den høie Fest!</l>
+<l>Han byder dig tilbords hos sig</l>
+<l>Og med sig selv bespiser dig!</l>
+</lg> 
+<pb facs="1852_2_page0003.png"/>
+<fw type="pageNum">85</fw>
+<lg>
+<l>3. Æd, drik og vær af Hjertet glad</l>
+<l>Ved denne meer end Englemad!</l>
+<l>Siig for det Bæger evig Tak,</l>
+<l>Hvoraf ei nogen Engel drak!</l>
+</lg>
+<lg>
+<l>4. Seer, I Guds Engle, seer herned!</l>
+<l>Indkiger i den Lønlighed,</l>
+<l>At Jesus ved Guds Høire-Haand</l>
+<l>Er her i Saeramentets Baand!</l>
+</lg>
+<lg>
+<l>5. Hvordan det skeet, det veed jeg ei,</l>
+<l>Han har ei røbet Støv sin Vei,</l>
+<l>Og mig for høit den sig mon snoe,</l>
+<l>Det mig er Nok hans Ord at troe.</l>
+</lg>
+<lg>
+<l>6. Det Bord er bredt af Sandheds Mund,</l>
+<l>Paa Salighedens faste Grund,</l>
+<l>Mit Himmel-Haab der kvæger sig</l>
+<l>Til Liv og Lyst evindelig.</l>
+</lg>
+<lg>
+<l>7. O Jesus! lad mig aldrig gaae</l>
+<l>Fra Bordet, med Guds Manna paa,</l>
+<l>Jeg kaster jo al Verden hen,</l>
+<l>Og længes immer did igien!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<head>701.</head>
+<lg>
+<l>Guds Kirke er vor Klippe-Borg,</l>
+<l>Den staaer paa Sions Bjerge!</l>
+<l>Kast kun, min Sjæl, paa Gud al Sorg</l>
+<l>Han er vor Kirke-Værge!</l>
+<l>Som fordum, saa og nu</l>
+<l>Han kommer grant ihu,</l>
+<l>Den trænger til Hans Vagt,</l>
+<l>Omringet og belagt</l>
+<l>Af Mørkets Helved-Skare!</l>
+</lg> 
+<pb facs="1852_2_page0004.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Ja, mylred Djævle end paa Jord</l>
+<l>Og stormed Kirkens Volde,</l>
+<l>Vi stole dog paa Herrens Ord,</l>
+<l>Han Marken stal beholde!</l>
+<l>Lad fnyse Verdens Aand!</l>
+<l>Al Magt er i Guds Haand!</l>
+<l>Lad rast Mørkets Drot</l>
+<l>Med Løgn og Mord og Spot!</l>
+<l>Et Guds Ord kan ham binde!</l>
+</lg>
+<lg>
+<l>Guds Ord, det er vort Arve-Gods,</l>
+<l>Det stal vor Afkoms være;</l>
+<l>Gud giv os i vor Grav den Roes,</l>
+<l>Vi holdt det høit i Ære!</l>
+<l>Det er vor Hjelp i Nød,</l>
+<l>Vor Trøst i Liv og Død;</l>
+<l>O, Gud! ihvor det gaaer,</l>
+<l>Lad dog, mens Verden staaer,</l>
+<l>Det i vor Æt nedarves!</l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

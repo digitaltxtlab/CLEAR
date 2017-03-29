@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Den Nordiske Kirke-Tidende</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-20"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="004"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1834">1834</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1834_4_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Den Nordiske Kirke-Tidende</titlePart>
+	<titlePart type="sub">et Uge-Skrift for Kirken og Skolen.</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition>Nr. 19. Sjette Söndag efter Paaske 1834.</docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace></pubPlace>Udgivet og forlagt at Mag. Jar. Chr. Lindberg. Trykt hos Fabritius de Tengnagel.<lb/>Maa trvkkes. I Kjøbenhavns Politieret den 10 Mai 1834. Thomsen.
+<fw type="graphic"/>
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<head>Bispinde Fabritius.</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">S</hi>tille, stille! dæmpet klinge</l>
+<l>Sangen ved den Trættes Seng;</l>
+<l>Taaren her kun Trøsten bringe,</l>
+<l>Alt som Dugg til slagne Eng!</l>
+<l>Hvad er her at sørge over?</l>
+<l>Hun er ikke død, hun sover!</l>
+</lg>
+<lg>
+<l>Stille, stille! ingen Klage</l>
+<l>Ved den Frommes Hvile-Sted!</l>
+<l>Talte ere hendes Dage</l>
+<l>Kun hvor Natter regnes med;</l>
+<l>Hist, hvor Aar kan aldrig tælles,</l>
+<l>Hun har Liv med Gud tilfælles!</l>
+</lg>
+<lg>
+<l>Stille, stille! snart oplukkes</l>
+<l>Øiet dobbelt klart og mildt,</l>
+<l>Hvor ei grædes, hvor ei sukkes,</l>
+<l>Hvor ei Kjærlighed er spildt,</l>
+<l>Hvor i Venskabs gyldne Sale</l>
+<l>Sød og sand er Alles Tale.</l>
+</lg>
+<lg>
+<l>Stille, stille! see hun smiler!</l>
+<l>"Hun har stridt den gode Strid"!</l>
+<l>Kun det Tunge sig udhviler</l>
+<l>Til en bedre Sommer-Tid,</l>
+<l>Frihed har det Lette vundet,</l>
+<l>Fugle-Vei til Himlen fundet!</l>
+</lg>
+<lg>
+<l>Stille, stille! naar vi lytte</l>
+<l>Deropad, hvor Solen gaaer,</l>
+<l>Det gienlyder i vor Hytte,</l>
+<l>Som naar yndigst Lærken slaaer:</l>
+<l>Gienlyd af hvad hisset toner,</l>
+<l>Hvor kun Kiærligheden throner!</l>
+</lg>
+<lg>
+<l>Stille, stille! naar vi stræbe</l>
+<l>For det Bedste uden Svig,</l>
+<l>Smilet døer ei paa vor Læbe,</l>
+<l>Men vor Søvn blier hendes liig;</l>
+</lg> 
+<pb facs="1834_4_page0002.png"/>
+<fw type="pageNum">323</fw>
+<lg>
+<l>Vaagnende vi trindt os finde</l>
+<l>Venner, som hun var Veninde!</l>
+</lg>
+<lg>
+<l>Stille, stille! Gamle, unge!</l>
+<l>Godt i Stilhed giorde hun,</l>
+<l>Elsked ei med Mund og Tunge,</l>
+<l>Men i Løn af Hiertens Grund,</l>
+<l>Først hos Ham, som lader regne</l>
+<l>Robes det i Lysets Egne!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Den Nordiske Kirke-Tidende</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-20"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="005"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1834">1834</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1834_5_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Den Nordiske Kirke-Tidende</titlePart>
+	<titlePart type="sub">et Uge-Skrift for Kirken og Skolen.</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<docEdition>Ur. 23. Anden Söndag efter Trinitatis 1834.</docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace></pubPlace>Udgivet og forlagt at Mag. Jar. Chr. Lindberg. Trykt hos Fabritius de Tengnagel.<lb/>Maa trykkes.   Thomsen.
+<fw type="graphic"/>
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<head>De store Höitider.</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">N</hi>aar Græsset pipper op af Jord,</l>
+<l>Og Træerne vil skyde,</l>
+<l>Da har vi <hi rend="spaced">Paaske</hi> her i Nord,</l>
+<l>Og Høitids-Psalmer lyde</l>
+<l>Om Herrens Grav i Øster-Land,</l>
+<l>Hvoraf, som Morgen-Soel af Strand,</l>
+<l>Opstod den Seier-Rige!</l>
+</lg>
+<lg>
+<l>Det minder os om Folke-Kaar,</l>
+<l>Saa rinde vi af Node,</l>
+<l>Naar Barnet fødes, Vuggen gaaer,</l>
+<l>Saa komme vi paa Fode,</l>
+<l>Saa voxer op hos os i Løn</l>
+<l>Som Græs en lille Gude-Søn,</l>
+<l>Hvordan, det veed vi ikke!</l>
+</lg>
+<lg>
+<l>Naar Skoven i sin Høitids-Dragt</l>
+<l>Giør alle Fugle glade,</l>
+<l>Naar hist med Duft og her med Pragt</l>
+<l>Os vinke Blomster-Blade;</l>
+<l>Da bryder ud vor <hi rend="spaced">Pindse-Fest</hi>,</l>
+<l>"Gud Hellig-Aand! vær du vor Gjæst"</l>
+<l>Saa vore Tunger gløde!</l>
+</lg>
+<lg>
+<l>Da mindes vi vor Rosen-Tid,</l>
+<l>Den ungdommens Gudinde,</l>
+<l>Som Mælk og Blod, saa rød og hvid,</l>
+<l>Og let som Vesten-Vinde,</l>
+<l>Naar Sundhed, Munterhed og Kraft, .</l>
+<l>Hun skjænker os med Nektar-Saft,</l>
+<l>Som Dugg i Blomster-Bæger!</l>
+</lg>
+<lg>
+<l>Naar Rim for Mai er Skovens Pryd,</l>
+<l>Og Sneen Blomster-Teppe,</l>
+<l>Naar Fuglens Kvad er Klynke-Lyd,</l>
+<l>Ja Lyd med Nød og Neppe,</l>
+<l>Da kommer <hi rend="spaced">Jule-Aften</hi> brat,</l>
+<l>Og Engle-Sangen Jule-Nat</l>
+<l>Fremlokker <hi rend="spaced">Nytaars-Morgen</hi>!</l>
+</lg> 
+<pb facs="1834_5_page0002.png"/>
+<fw type="pageNum">387-388</fw>
+<lg>
+<l>Det minder om vor Alderdom,</l>
+<l>Naar Alt for os er graanet,</l>
+<l>Naar Verden er som Ørken tom,</l>
+<l>Dens Lyst som Fuglen daanet,</l>
+<l>Saa Liv og Glæde kun paa Ny</l>
+<l>I Barne-Svøb fra høien Sky</l>
+<l>En Engel os kan bringe!</l>
+</lg>
+<lg>
+<l>Men kommer nu, I Christne smaa,</l>
+<l>Som skal med Guder arve,</l>
+<l>Saa om end Issen vorder graa,</l>
+<l>Har Hjertet Rosen-Farve!</l>
+<l>Lovsynger lydt med Barne-Røst</l>
+<l>Det <hi rend="spaced">Gylden-Aar</hi>, hvis rige Host</l>
+<l>Ei Vinter stal fortære!</l>
+</lg>
+<lg>
+<l>Ja, nu i Kirke med en Fart,</l>
+<l>Imens det sammen ringer!</l>
+<l>Der nemt I lære skal og snart,</l>
+<l>Hvi det saa lifligt klinger</l>
+<l>Fra <hi rend="spaced">Jule-Nat</hi> til <hi rend="spaced">Pindse-Dag</hi>,</l>
+<l>Hvorfor i Kors vi tone Flag</l>
+<l>Og kime over Grave!</l>
+</lg>
+<lg>
+<l>I lære stal, hvi os en Trang</l>
+<l>Og Lyst det er at qvæde,</l>
+<l>Hvi <hi rend="spaced">Herrens</hi> Dag med Kirke-Gang</l>
+<l>Er os en Hjertens-Glæde,</l>
+<l>Ja, hvi med vore Ungdoms-Aar</l>
+<l>Vor Synd kun og vor Sorg forgaaer,</l>
+<l>Med Dødens Magt og Vælde!</l>
+</lg>
+<lg>
+<l>Af Psalmerne I veed det Navn,</l>
+<l>Hvori vi alle knæle,</l>
+<l>Som i en aaben Guddoms-Favn</l>
+<l>For dyrekiøbte Sjæle,</l>
+<l>Det alle Tungers Navn paa Ham,</l>
+<l>Som Herren, trods al Spot og Skam,</l>
+<l>Er til Gud Faders Ære!</l>
+</lg>
+<lg>
+<l>Men Huset paa den faste Grund</l>
+<l>Og med de klare Glugge,</l>
+<l>I kiendte ei til denne Stund,</l>
+<l>Skiøndt der gik Eders Vugge,</l>
+<l>Der gaaer Hans Vei, der er Hans Haand,</l>
+<l>Der med Fuldkommenhedens Baand</l>
+<l>Til sig Han knytter Sine!</l>
+</lg>
+<lg>
+<l>Det Huus dog vel maae kjendes godt,</l>
+<l>Det er vor Maders Hytte,</l>
+<l>Som med det største Marmor-Slot</l>
+<l>Hun tabde ved at bylte,</l>
+<l>Den synes ringe kun fordi</l>
+<l>Som i vort Hjerte, saa deri</l>
+<l>Det Bedste <hi rend="spaced">seer</hi> Man <hi rend="spaced">ikke</hi>!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+<fw type="graphic"/>
+</div>
+<div>
+<head>Om Dr. Fabers Hyrdebrev i Anledning at' Ritualets Forandring.</head>
+<head>(Fortsættelse).</head>
+<fw type="graphic"/>
+<p><hi rend="initial">J</hi>o sjeldnere det nu er hos os, at der saa-ledes med Eet reiser sig en <hi rend="spaced">saadan</hi> Reformator, som Hr. Nr. Fader, desto utroligere er det tilli-ge, og jeg skal derfor fremlægge hans egne Ord til behørig Oplysning.</p>
+<p>Det hedder da p. 2. "Dette Tidspunkt er i høieste Grad vigtigt, og "neget vil her komme an paa, om den rette Maade traffes til at <hi rend="spaced">fremkalde</hi> den Røst, der fortjener at kaldes Gejst-lighedens. For at træffe denne, er det, at jeg nu henvender mig til Eder. Vel <hi rend="spaced">indseer jeg</hi> me-get vel, at jeg kunde have ladet det blive ved, at udsende den anførte Cancelliets Skrivelse, som enhver anden, der fra Bispe-Contoiret bliver com-municeret, og da have afventet Erklæringer indsendte fra de Enkelte, som maatte føle Lyst til at afgive samme; men jeg indseer ogsaa, at jeg deels derved kun vilde faae en Samling af mange enkelte, <hi rend="spaced">ofte meget afvigende Stemmer</hi>, meningen Almeenrøst, der var udsprungen af den i hele Standen levende Troe, Haab og Ønske; deels indseer jeg, at jeg paa hiin Maade vilde berede mig selv et saare vidtløftigt og i Grunden ikke <hi rend="spaced">meget glædeligt</hi> eller <hi rend="spaced">gavnrigt</hi> Arbeide, ved</p>
+</div>
+</body>
+</text>
+</TEI>

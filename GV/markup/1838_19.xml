@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Jule-Sang</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-21"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="019"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1838">1838</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1838_19_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Jule-Sang<lb/>Prindsesse<lb/>Caroline Amalias<lb/>Asyl.</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<pb facs="1838_19_page0002.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l><hi rend="initial">J</hi>ule-Aften! Du er skjön,</l>
+<l>Du kom til os med Guds Son,</l>
+<l>For Guds Stol Hans Engle kvæde</l>
+<l>Södt om al den Fryd og Glæde,</l>
+<l>Du har bragt til Jorderig!</l>
+</lg>
+<lg>
+<l>Livets Træ med Lys i Top</l>
+<l>Voxde i Guds Have op,</l>
+<l>Adams Börn dog længe sukked:</l>
+<l>Paradis for os er lukket,</l>
+<l>Död og Dom er Syndens Sold!</l>
+</lg>
+<lg>
+<l>Lysets Træ med Liv i Lön</l>
+<l>Er oprundet med Guds Son,</l>
+<l>Engle svæve i dets Grene,</l>
+<l>Kvæde södt med Stemmer rene,</l>
+<l>Vinke os til Paradis.</l>
+</lg> 
+<pb facs="1838_19_page0003.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Der os sanker Gud i Læ</l>
+<l>Under Livets Palmetræ,</l>
+<l>Der sin Herlighed den klare</l>
+<l>Han for os vil aabenbare</l>
+<l>I vor Herres Jesu Navn.</l>
+</lg>
+<lg>
+<l>Om det Lys, som tændtes brat</l>
+<l>Med Guds Son i Julenat,</l>
+<l>Livets Lys, som blidt skal brænde</l>
+<l>For de Smaa til Verdens Ende,</l>
+<l>Minder os vort Juletræ.</l>
+</lg>
+<lg>
+<l>Gud velsigne Dem, der saa</l>
+<l>Glæde vil os arme Smaa,</l>
+<l>Vise os hvor Lyset findes,</l>
+<l>Lære os med Lyst at mindes</l>
+<l>Barnet, födt i Bethlehem!</l>
+</lg>
+<lg>
+<l>Engle smaa, som paa Guds Bud</l>
+<l>Synger Julen ind og ud,</l>
+<l>Synger södt hvad vi kun stamme,</l>
+<l>Dem til Fryd, som os annamme</l>
+<l>I vor Herres Jesu Navn!</l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Idun med Guld-Æblerne</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-14"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="022"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1846">1846</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1846_22_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Idun<lb/>med<lb/>Guld-Æblerne</titlePart>
+	<titlePart type="sub">til<lb/>danske Samfund i Syd - Sjaelland<lb/>den 18de September 1846.<lb/></titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace>Kjøbenhavn</pubPlace>
+<fw type="graphic"/>
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<pb facs="1846_22_page0002.png"/>
+<fw type="pageNum"></fw>
+<head>Mel. Danmark deiligst Vang og Vænge.</head>
+<lg>
+<l><hi rend="initial">S</hi>ang om Guld og grønne Skove,</l>
+<l>Om et Gyldenaar!</l>
+<l>Duk nu op af Danmarks Vove!</l>
+<l>Ton i Kongens Gaard,</l>
+<l>Om Guldæblerne de røde,</l>
+<l>Om Guldæblerne de føde:</l>
+<l>Liv og Lyst alt for de Spæde,</l>
+<l>Alderdommens Glæde!</l>
+</lg>
+<lg>
+<l><hi rend="bold">Idun</hi> sad i gamle Dage,</l>
+<l>Deilig hvid og rød,</l>
+<l>Med Guldæbler uden Mage</l>
+<l>I sit Dronningskiød;</l>
+<l>Modne faldt de ned fra Himlen,</l>
+<l>Med dem leged Børnevrimlen,</l>
+<l>Oldinger med dem paa Tunge</l>
+<l>Andengang blev unge.</l>
+</lg> 
+<pb facs="1846_22_page0003.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Stjaalet bort af Jishøijetten</l>
+<l>I en Vinternat,</l>
+<l><hi rend="bold">Idun</hi> svandt fra <hi rend="bold">Idasletten</hi>,</l>
+<l>Med sin gyldne Skat;</l>
+<l>Fugle da holdt op at sjunge,</l>
+<l>Alle Folk blev graa og tunge,</l>
+<l>Selv de Smaa paa Skiød og Skamle</l>
+<l>Alt fik Lader gamle.</l>
+</lg>
+<lg>
+<l>Dog igjen fra skumle Dale,</l>
+<l>Med sin gyldne Skat,</l>
+<l>Svang sig <hi rend="bold">Idun</hi> som en Svale</l>
+<l>I en Foraarsnat,</l>
+<l>Sidder nu ved Øresundet,</l>
+<l>Smiler yndig, rosenmundet</l>
+<l>Med Guldæblerne de rode,</l>
+<l>Liflige og sode.</l>
+</lg>
+<lg>
+<l>See, hvor alle Skamler vælte!</l>
+<l>See engang, de Smaa</l>
+<l>Glemme brat at giemme Velte,</l>
+<l>Glemme, hvor det laae;</l>
+<l>Tæt de sig om Skiødet klynge,</l>
+<l>De vil see og de vil synge,</l>
+<l>Spørge alle englemilde:</l>
+<l>Kan de ogsaa trille?</l>
+</lg> 
+<pb facs="1846_22_page0004.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>I med Rynkerne i Pande,</l>
+<l>Og med Haar som Ene!</l>
+<l>Kommer hid fra alle Lande</l>
+<l>Om I Nyt vil see:</l>
+<l>Nyt og Godt som grønne Skove,</l>
+<l>Som den blaa, den blanke Vove,</l>
+<l>Hvor kun nys var Iis og Øde,</l>
+<l>Mellem Stammer døde.</l>
+</lg>
+<lg>
+<l>Triller nu, Guldæbler, triller</l>
+<l>Deilig for de Smaa;</l>
+<l>Spiller nu, Guldæbler, spiller</l>
+<l>Smukt med Lokker graa;</l>
+<l>Saa det runger over Norden,</l>
+<l>Saa I nævnes rundt paa Jorden:</l>
+<l>Liv og Lyst alt for de Spæde,</l>
+<l>Alderdommens Glæde!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

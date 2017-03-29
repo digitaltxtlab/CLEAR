@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Foreløbige Bestemmelser</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-22"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="015"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1853">1853</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1853_15_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Foreløbige Bestemmelser<lb/>ved</titlePart>
+	<titlePart type="sub">Grundelsen af "den Danske Forening".<lb/></titlePart>
+				<fw type="graphic"/>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<docImprint>
+				<pubPlace></pubPlace>.
+<fw type="graphic"/>
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<p><hi rend="initial">D</hi>a <hi rend="bold">Indbyderne til "den Danske Forening</hi>" har overdraget til os, som den første Bestyrelse, at sætte Foreningen iværk og at give den en Skikkelse, der svarer til det Øjemed, hvorom Indbyderne ere grundenige, saa har vi, til Oplysning for de gode Dannemænd trindt i Riget, som, hver i sin Kreds, ville medvirke til Foreningens Tarv, vedtaget følgende Bestemmelser:</p>
+<p>1. At Enhver, som tegner sig for et aarligt Bidrag fra en Mark til en Rigsbankdaler, efter Behag, er <hi rend="bold">Medlem </hi>af</p>
+<p>Foreningen, uden at der under nogen Benævnelse kan afkræves noget større Bidrag, da de Penge-Midler, som ellers maatte behøves til Foreningens Virksomhed, skal frivillig sammenskydes.</p>
+<p>2. At overalt, hvor der kan samles i det mindste 10 Medlemmer, udgjør de en egen <hi rend="bold">Kreds</hi>, med en <hi rend="bold">Formand</hi>, som <hi rend="bold">Bestyrelsen</hi> udnævner og sætter sig i stadig Forbindelse med.</p>
+<p>3. At hvor der, enten i Hovedstaden eller andensteds, findes over 100 Medlemmer samlede, skal de, saavidt muligt, deles i flere Kredse, hver med sin Formand.</p>
+<pb facs="1853_15_page0002.png"/>
+<fw type="pageNum"></fw>
+<p>4. At der sædvanlig holdes Moder til livlig Underholdning med Sang o. s. v. baade i hver enkelt Kreds, efter <hi rend="bold">Medlemmernes</hi> Aftale med Formanden, og i større Omfang, efter Aftale mellem flere Kredses Formænd, og at desuden Bestyrelsen baade vil opfordre til overordentlige Møder, som maatte findes tjenlige, og til <hi rend="bold">Folke-Fester</hi> i beleilig Tid og paa bekvemme Steder.</p>
+<p>5. At det skal beroe paa Omstændighederne og paa Vedkommendes eget Skjøn, baade hvor hyppig de Sædvanlige Kreds-Møder skal holdes, og hvad der i dem kan foretages til den Danske Sags Fremme, medens det følger af sig Selv, at Valgene til Rigsdagen allevegne betragtes med Spændt Opmærksomhed.</p>
+<p>6. At ligesom Foreningen i det hele vil virke, hvad den kan, til Udbredelse af <hi rend="bold">god Dansk Læsning</hi>, saaledes skal ogsaa et Ugeskrift, efter Foreningens Tarv og i afgjort <hi rend="bold">Dansk</hi> Retning, snarest muligt begyndes og et Exemplar deraf tilbydes hver Kreds uden Betaling.</p>
+<p>7. At Bestyrelsen saasnart den seer Udvei dertil, vil oprette en <hi rend="bold">danskfolkelig Høiskole</hi>, baade for derved tildeels at afhjelpe Trangen dertil hos den voxne Ungdom, og for at vise, hvad den <hi rend="bold">Danske Forening</hi> forstaaer ved <hi rend="bold">folkelig</hi> Oplysning og Dannelse.</p>
+<p><hi rend="bold">Kjøbenhavn</hi>, den 14. April 1853.</p>
+<p><hi rend="bold">C. J. Brandt,</hi></p>
+<p>theol. Cand.</p>
+<p><hi rend="bold">H. Carlsen,</hi></p>
+<p>Godsejer.</p>
+<p><hi rend="bold">N. F. S. Grundtvig,</hi></p>
+<p>Præst.</p>
+<p><hi rend="bold">C. Rimestad,</hi></p>
+<p>Institutbestyrer.</p>
+<p><hi rend="bold">N. M. Spandet,</hi></p>
+<p>Etatsraad.</p>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

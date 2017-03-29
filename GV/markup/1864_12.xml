@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Dansk Kirketidende.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-26"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="012"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1864">1864</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1864_12_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">1864.  No.36.<lb/>Dansk Kirketidende.</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace></pubPlace>Sekstende Søndag efter Trinitatis den 11te September.<lb/>
+<fw type="graphic"/>
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<p>Indhold: N. F. S. Grundtvig: Fuglen og Blomsten. - L. Schrøder: Om Forholdet;' mellem de to
+Udgaver af Grundtvigs Haandbog i Middelalderens Historie. - Bognyt. - Grundtvigs Højskole.</p>
+<fw type="graphic"/>
+</div>
+<div>
+<head>Fuglen og Blomsten.</head>
+<fw type="graphic"/>
+<lg>
+<l>Seer til <hi rend="spaced">Fuglene</hi> i Luften,</l>
+<l>Hvor de svinge sig med Sang!</l>
+<l>Seer til <hi rend="spaced">Blomsterne</hi> med Duften,</l>
+<l>Hvor de pryde Eng og Vang!</l>
+<l>Seer og lægger det paa Sind,</l>
+<l>Som et Speil for <hi rend="spaced">Mand</hi> og <hi rend="spaced">Kvinde</hi>!</l>
+</lg>
+<lg>
+<l>Manden, naar han er i Aande,</l>
+<l>Er som Fugl i Luften fri,</l>
+<l>Staaes i Velmagt og i Vaande</l>
+<l>Kraftelig af Aanden bi,</l>
+<l>Saa han, som paa Fuglevinger</l>
+<l>Over Jorden let sig svinger.</l>
+</lg>
+<lg>
+<l>Kvinden, enig med sit Hjerte,</l>
+<l>Dybt bevæget som et Hav,</l>
+<l>Vundet er i Fryd og Smerte</l>
+<l>Til det Muld, hun fødes af,</l>
+<l>Kysses dog i Tugt og Ære</l>
+<l>Duftende med alt det Kjære!</l>
+</lg>
+<lg>
+<l><hi rend="spaced">Aanden</hi> i sin Krast og Vælde</l>
+<l>Lignes ved en Ørn i Sky,</l>
+<l>Som skal Fjedre aldrig fælde,</l>
+<l>Er hver Morgen ung paany,</l>
+<l>Har for Ørne-Klo og Skvalder</l>
+<l>Svømme-Fod og Himmel-Galder!</l>
+</lg>
+<lg>
+<l><hi rend="spaced">Hjertet</hi> i sin Glands og Ynde</l>
+<l>Lignes ved et Nosen#Bed,</l>
+<l>Hvor Smaa-Knopperne forkynde,</l>
+<l>Rosen-Tiden varer ved,</l>
+<l>Mens af Sommer-Fugle synges:</l>
+<l>Rosen ældes og forynges!</l>
+</lg>
+<lg>
+<l>Aande-Fuglen bygger Rede</l>
+<l>Kun i Hjertets Rosenstud,</l>
+<l>Aande-Syn og Sang hernede,</l>
+<l>I den Rede ruges ud,</l>
+<l>Saa det Dybe og det Høie</l>
+<l>Sig i Duften sammenfeje!</l>
+</lg>
+<lg>
+<l>Naar da Mand kun faaer og høster.</l>
+<l>Ligner meer ei Fugl i Sky,</l>
+<l>Og naar <hi rend="spaced">Kvinden</hi>, Rosens Søster,</l>
+<l>Ikkun spinde vil og sye,</l>
+<l>Da er Aand og Hjerte døde,</l>
+<l>Da er Jorden tom og ede!</l>
+</lg>
+<lg>
+<l>Men hvor end Høisangen lyder</l>
+<l>Som et Lærke-Slag i Sky,</l>
+<l>Og hvor Yndighed udgyder</l>
+<l>Sig som Rosenduft med Ry,</l>
+<l>Der endnu hos Mand og Kvinde</l>
+<l>Aand og Hjerte er at finde!</l>
+</lg>
+<lg>
+<l>Hil dig da, trods Dødens Skygge,</l>
+<l><hi rend="spaced">Danemarkens</hi> Videsset!</l>
+<l>Mageløs er end din Lykke,</l>
+<l>Du Sand-Ørkens Rosenplet,</l>
+<l>Hvor, som Nand med sin Veninde,</l>
+<l>Kiærlig kysses Mand og Kvinde!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

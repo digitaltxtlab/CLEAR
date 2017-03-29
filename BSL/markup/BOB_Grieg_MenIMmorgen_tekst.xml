@@ -1,0 +1,3722 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI PUBLIC "-// NSL Norge //EN" "http://www.bokselskap.no/tekstkoding/NSL_tei_xinclude.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="BOB_Grieg_MenIMorgen">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>bokselskap.no/Bergen Offentlige Bibliotek, 2016
+<lb/>Nordahl Grieg: <hi rend="italic">Men i morgen &#x2013;</hi>
+<lb/>Teksten i bokselskap.no f&#x00F8;lger 1. utgave, 1936 (Oslo, Gyldendal), konvertert og tilrettelagt av Bergen Offentlige Bibliotek som en del av prosjektet <hi rend="italic">&#x00C5;nd eies av alle &#x2013; Nordahl Grieg digitalisert</hi> (http://bergenbibliotek.no/nordahlgrieg). Digitaliseringen er basert p&#x00E5; fil mottatt fra Nasjonalbiblioteket.</title>
+</titleStmt>
+<publicationStmt>
+<p>Publiseres som digital tekst av BOB/bokselskap.no.</p></publicationStmt>
+<sourceDesc>
+<p>digibok_2012060608220 (fra Nasjonalbiblioteket), konvertert og tilrettelagt av Grieg-prosjektet.</p>
+</sourceDesc>
+</fileDesc>
+<revisionDesc>
+<change xml:id="ENW" who="ENW" when="2016-10-28">Kodet om litt. Entiteter, validering og kodekontroll.</change>
+</revisionDesc>
+</teiHeader>
+<text xml:id="BOB_Grieg_MenIMorgen_tekst" type="drama">
+<front>
+<titlePage type="main">
+<byline><docAuthor>Nordahl Grieg</docAuthor></byline>
+<docTitle>
+<titlePart type="main">Men i morgen &#x2013;</titlePart>
+<titlePart type="sub">Skuespill i 3 akter</titlePart>
+</docTitle>
+<docDate>bokselskap.no/Bergen Offentlige Bibliotek<lb/>2016</docDate>
+</titlePage>
+<div xml:id="contents">
+<list type="contents_main">
+<item><ref target="chapter_1" xml:id="contents_1">Personene</ref></item>
+<item><ref target="chapter_2" xml:id="contents_2">F&#x00F8;rste akt</ref></item>
+<item><ref target="chapter_3" xml:id="contents_3">Annen akt</ref></item>
+<item><ref target="chapter_4" xml:id="contents_4">Tredje akt</ref></item>
+</list>
+</div>
+<div type="chapter" subtype="castlist">
+<head type="main"><ref target="contents_1" xml:id="chapter_1">PERSONERNE</ref></head>
+<castList>
+<castItem xml:id="Bertram"><role>Generaldirekt&#x00F8;r Bertram Sten.</role></castItem>
+<castItem xml:id="Celine"><role>Celine,</role> <roleDesc>hans hustru.</roleDesc></castItem>
+<castItem xml:id="Eigill"><role>Eigill</role>,</castItem>
+<castItem xml:id="Matti"><role>Matti</role>, <roleDesc>deres barn</roleDesc>.</castItem>
+<castItem xml:id="Paul"><role>Paul Berner.</role></castItem>
+<castItem xml:id="Sir_Henry"><role>Sir Henry Lewis</role>,</castItem>
+<castItem xml:id="Muhlenberg"><role>Dr. M&#x00FC;hlenberg</role>,</castItem>
+<castItem xml:id="de_Montclair"><role>de Montclair</role>,</castItem>
+<castItem xml:id="Bors"><role>David B&#x00F8;rs</role>, <roleDesc>styremedlemmer i &#x00AB;Nationalt Kjemisk Koncern&#x00BB;</roleDesc>.</castItem>
+<castItem xml:id="Haavind"><role>Direkt&#x00F8;r H&#x00E5;vind.</role></castItem>
+<castItem xml:id="Eikrem"><role>Ingeni&#x00F8;r Eikrem.</role></castItem>
+<castItem xml:id="Haraldsen"><role>Haraldsen.</role></castItem>
+<castItem xml:id="Fru_Haraldsen"><role>Fru Haraldsen.</role></castItem>
+<castItem xml:id="Arvid"><role>Arvid,</role> <roleDesc>deres s&#x00F8;nn.</roleDesc></castItem>
+<castItem xml:id="Fru_Rud"><role>Fru Rud.</role></castItem>
+<castItem xml:id="Steinbo"><role>Steinb&#x00F8;.</role></castItem>
+<castItem xml:id="En_kvinne"><role>En kvinne som roper i sommerkvelden.</role></castItem>
+<castItem xml:id="Barn"><role>Barn.</role></castItem>
+</castList>
+</div>
+</front>
+<body>
+<div type="chapter" subtype="act" n="1">
+<head type="main"><ref target="contents_2" xml:id="chapter_2">F&#x00D8;RSTE AKT</ref></head>
+<stage>Hallen i generaldirekt&#x00F8;r Stens hjem, et stort prektig rum, preget av rikdom og forfinelse. P&#x00E5; veggene henger gamle gobeliner med religi&#x00F8;se motiver, flere madonnabilleder og krusifikser. Der er ogs&#x00E5; en samling med v&#x00E5;ben. Blandt maleriene merkes et stort Sydhavs-billede av Gauguin.
+</stage>
+<stage>En bred trappe f&#x00F8;rer op til annen etasje. Under trappen en d&#x00F8;r ned til laboratoriet. I bakgrunnen et veldig vindu ut til et v&#x00E5;rlandskap med snefjell i aftensol.
+</stage>
+<stage>Fru Celine Sten st&#x00E5;r selskapskl&#x00E6;dd og ordner orkid&#x00E9;er i en vase. Hun er omkring firti &#x00E5;r, slank, h&#x00F8;i, vakker.
+</stage>
+<stage>Hennes mann, generaldirekt&#x00F8;r Bertram Sten, 45 &#x00E5;r, statelig, kommer inn.
+</stage>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<stage>g&#x00E5;r imot ham med spenning:</stage>
+<p>Nu?</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Det ser ut til litt av hvert. Vi har nettop m&#x00E5;ttet postere hundre politifolk ekstra nede ved havnen, for &#x00E5; beskytte streikebryterne.</p>
+<stage>I et bittert utbrudd:</stage>
+<p>Det er mig likefrem motbydelig &#x00E5; skulle beskytte den slags <hi rend="italic">pakk,</hi> men hvad annet er der &#x00E5; gj&#x00F8;re?</p>
+<p>De skulde vite bedre, arbeiderne, enn &#x00E5; g&#x00E5; til streik nu! De burde forst&#x00E5; at n&#x00E5;r der blir l&#x00F8;nnsnedslag i flere av de landene vi konkurrerer med, m&#x00E5; vi sl&#x00E5; f&#x00F8;lge, enten vi vil eller ei.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Men vinner arbeiderne ber hjemme, vinner kanskje de ute, ogs&#x00E5;.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Hvem sier det?</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Arbeiderkonene.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>G&#x00E5;r du til dem i disse dagene?</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Man kan ikke la <hi rend="italic">alt</hi> streike. Ikke ens f&#x00F8;lelse av menneskelighet. Vel?</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Det er riktig det, Celine.</p>
+<p>Men de vinner <hi rend="italic">ikke,</hi> ser du.</p>
+<p>Det er bare s&#x00E5; <hi rend="italic">dumt</hi> &#x00E5; streike nu! Tenk dig: i disse dagene har vi hele direksjonen, alle utlendingene p&#x00E5; bes&#x00F8;k. Tror du jeg kan foresl&#x00E5; noen utvidelse av driften n&#x00E5;r de med sine egne &#x00F8;ine kan se den usikkerheten vi arbeider under?</p>
+<stage>Bryter plutselig av, tar henne om armene.</stage>
+<p>Kort sagt.</p>
+<p>Hvad nytt her i buset?</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Vi f&#x00E5;r Eigill hjem i kveld.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>S&#x00E5; han trenger penger nu igjen.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>H&#x00F8;r, Bertram. Kunde der ikke v&#x00E6;re andre grunner for at en gutt kommer hjem. For eksempel
+<hi rend="italic">ingen</hi> grunn?</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Jeg kjenner disse bes&#x00F8;kene.</p>
+<p>Jo, det er en fin virksomhet han har valgt sig. Aksjemegler. Plyndrer litt hvor andre bygger. Hvad er det det heter? Fiks fyr, smart. <hi rend="italic">Kan</hi> han noe? <hi rend="italic">Vet</hi> han noe? De slenger noen tips til ham fra New York og Amsterdam. Undertiden g&#x00E5;r det. Undertiden kommer han hjem.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Tenker du ofte s&#x00E5;nn?</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Det hender at den tanken streifer mig: Hvorfor sl&#x00E5;ss vi? Vi kapitalister som det heter.</p>
+<p>Hvorfor kjemper vi for dette systemet med privat eiendomsrett og arv?</p>
+<p>Er det muligens fordi vi forakter v&#x00E5;re barn? Vi har ikke tillit til at de skal klare sig. Det er <hi rend="italic">frykt</hi> vi f&#x00F8;ler! S&#x00E5; f&#x00E5;r vi verge dem, sl&#x00E5; til; utsette nederlaget.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Si mig en ting: forakter du Matti ogs&#x00E5;, fordi vi m&#x00E5; verge henne?</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<stage>smertelig:</stage>
+<p>Celine!</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>I dypet av ditt hjerte, Bertram?</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Du vet hvor jeg holder av henne, og du vet at jeg om mulig er mer knyttet til Matti, nettop <hi rend="italic">fordi</hi> hun er blind.</p>
+<p>Hvordan kan du si en s&#x00E5;nn ting til mig?</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Sl&#x00E5;r det dig ikke at en bitterhet over barna er en bitterhet mot <hi rend="italic">mig?</hi></p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Celine, dig elsker jeg slik, at jeg aldri beh&#x00F8;vde &#x00E5; ha barn med dig.</p>
+<stage>Kysser henne.</stage>
+<p>Hvor er Matti?</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Hun sitter oppe og leser. Hun har nettop f&#x00E5;tt Paul Berners roman i punktskrift.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Skriver han b&#x00F8;ker lenger? Jeg trodde han bare skrev oprop for freden.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Du kan jo sp&#x00F8;rre ham. Han kommer hit i aften.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>S&#x00E5;?</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Eigill tar ham med. De har truffet hverandre i London.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Er det Eigills forslag?</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Nei. Mitt.</p>
+<p>Jeg tror det vil interessere Matti &#x00E5; m&#x00F8;te ham.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Er han noe passende omgang for Matti? Han har ikke noe godt ord, n&#x00E5;r det gjelder kvinner. Karakterl&#x00F8;s, s&#x00E5;vidt jeg forst&#x00E5;r.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Der sies s&#x00E5; meget. Det eneste vesentlige er at han har et <hi rend="italic">sinn.</hi> Matti er mer enn andre mennesker henvist til en indre verden. Synes du for eksempel Eigills krets kan virke noe opkvikkende p&#x00E5; henne? De er alle sammen <hi rend="italic">ens</hi> &#x2013; i uttrykksform, i sjel &#x2013; om man kan bruke et s&#x00E5; sterkt ord.</p>
+</sp>
+<sp who="Bors">
+<speaker>DAVID B&#x00D8;RS</speaker>
+<stage>omkring femti &#x00E5;r, liten og jovial, kommer inn. Hilser p&#x00E5; Celine og vender sig mot Bertram:</stage>
+<p>N&#x00E5;, hvordan f&#x00F8;les det &#x00E5; ha direksjonen p&#x00E5; bes&#x00F8;k?</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<stage>smiler:</stage>
+<p>Dere er et av de kors man f&#x00E5;r b&#x00E6;re.</p>
+</sp>
+<sp who="Bors">
+<speaker>B&#x00D8;RS</speaker>
+<p>Du likte ikke at selskapet gikk over p&#x00E5; utenlandske hender. Nei vel! Men &#x00E9;n ting f&#x00E5;r du n&#x00E5; medgi: gasjen din er n&#x00E5; blitt internasjonal, den ogs&#x00E5;.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Det er pinlig &#x00E5; m&#x00E5;tte si det. Men for mig er ikke pengene det avgj&#x00F8;rende.</p>
+</sp>
+<sp who="Bors">
+<speaker>B&#x00D8;RS</speaker>
+<p>Neida. Men efter min opfatning <hi rend="italic">skal</hi> en mann i stor stilling ha f&#x00F8;rsterangs betingelser. Ikke for sin egen, men for bedriftens skyld! Det gir sikkerhet. Han skal ha bil med uniformert chauff&#x00F8;r ventende ved d&#x00F8;ren, han skal ikke tenke: rekker jeg bussen? Han skal spise dyr mat, drikke dyr vin, ha kostbare kvinner &#x2013;</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<stage>ler.</stage>
+</sp>
+<sp who="Bors">
+<speaker>B&#x00D8;RS</speaker>
+<stage>henrevet:</stage>
+<p>Det skal v&#x00E6;re noe dyrt. eksklusivt over kj&#x00F8;ttet og nervene hans, n&#x00E5;r han setter sig i chefsstolen, for &#x00E5; ta <hi rend="italic">avgj&#x00F8;relsen!</hi></p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<stage>setter sig:</stage>
+<p>Kom hit og la mig f&#x00E5; mer av Deres livsvisdom. De er s&#x00E5; fengslende!</p>
+</sp>
+<sp who="Bors">
+<speaker>B&#x00D8;RS</speaker>
+<p>Tilgi mig, fru Sten. Men jeg hadde tenkt mig ut i haven. De skj&#x00F8;nner: Det er min siste aften hjemme, jeg m&#x00E5; nytte den til siste &#x00E5;ndedrag. Det lyse brudesl&#x00F8;ret over bjerkene, fjellenes majestet. For et land!</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Men De som er Deres egen herre &#x2013;</p>
+<p>De kan da bli her lenger.</p>
+</sp>
+<sp who="Bors">
+<speaker>B&#x00D8;RS</speaker>
+<p>Umulig! Jeg har v&#x00E6;rt her i fire m&#x00E5;neder, og dette er siste frist. Hvad gir De mig, fru Sten, for slike sjikan&#x00F8;se bestemmelser. Blir jeg her &#x00E9;n dag lenger, m&#x00E5; jeg betale skatt!</p>
+<stage>Borte ved det &#x00E5;pne vindu:</stage>
+<p>Kjenn lukten av muld og sevje! Alt blir likesom vakrere, fordi en skal si farvel!</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Og hvor g&#x00E5;r reisen hen?</p>
+</sp>
+<sp who="Bors">
+<speaker>B&#x00D8;RS</speaker>
+<p>Tyskland.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Er De s&#x00E5; glad i &#x00E5; bo der nede?</p>
+</sp>
+<sp who="Bors">
+<speaker>B&#x00D8;RS</speaker>
+<p>Glad i? Jeg hater &#x00E5; bo der, og det gj&#x00F8;r min hustru ogs&#x00E5;. <hi rend="italic">Alt,</hi> klimaet, menneskene mishager oss. Men vi har dessverre noen sperrede mark som vi ikke kan f&#x00E5; ut &#x2013; dem gjelder det &#x00E5; f&#x00E5; benyttet.</p>
+<stage>St&#x00E6;refl&#x00F8;it h&#x00F8;res utenfor.</stage>
+<stage>Lytter.</stage>
+<p>St&#x00E6;ren! St&#x00E6;ren i Norge! &#x00C5;, Herregud.</p>
+<stage>Han haster ut i haven.</stage>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Jeg m&#x00E5; h&#x00F8;re om der er noe nytt.</p>
+<p>Du f&#x00E5;r underholde utlendingene.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>V&#x00E6;r sikker. Jeg skal utfolde mig.</p>
+<stage>De smiler til hverandre. Bertram kysser henne p&#x00E5; h&#x00E5;nden f&#x00F8;r han g&#x00E5;r.</stage>
+</sp>
+<sp who="Sir_Henry">
+<speaker>SIR HENRY LEWIS</speaker>
+<stage>femti-seksti &#x00E5;r, den fullkomne engelske gentleman, med milit&#x00E6;r holdning og ridderlighet, kommer inn.</stage>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<stage>g&#x00E5;r str&#x00E5;lende mot ham:</stage>
+<p>God aften, sir Henry.</p>
+</sp>
+<sp who="Sir_Henry">
+<speaker>SIR HENRY</speaker>
+<p>Det var en slik glede &#x00E5; se Dem til hest imorges, Mrs. Sten. En vakker hoppe! Hun minnet mig om min egen &#x00AB;Queen&#x00BB;. Ikke bare bygningen, men uttrykket ogs&#x00E5;. Man kunde se at det var en hest som aldri hadde kjent et slag eller et grusomt ord.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Er De meget glad i hester?</p>
+</sp>
+<sp who="Sir_Henry">
+<speaker>SIR HENRY</speaker>
+<p>Ja. Skj&#x00F8;nt det er ikke riktig formet.</p>
+<p>En mann skal bare holde av &#x00E9;n hest og &#x00E9;n kvinne &#x2013; sin hustru. Slik holder jeg av &#x00AB;Queen&#x00BB;.</p>
+<p>Dette er ting jeg n&#x00F8;dig snakker om. Men De har alltid vist mig slik vennlighet, mrs. Sten. Jeg tror De vil <hi rend="italic">forst&#x00E5;.</hi></p>
+<p>Ja. Slik har jeg f&#x00F8;lt for &#x00AB;Queen&#x00BB; &#x2013; fra den dag for femogtyve &#x00E5;r siden, da hun kom til &#x00E5; tilh&#x00F8;re mig, og la mig tilf&#x00F8;ie: jeg henne.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<stage>med innlevelse:</stage>
+<p>Det er sjelden at et menneske og en hest f&#x00E5;r v&#x00E6;re s&#x00E5; lenge sammen.</p>
+</sp>
+<sp who="Sir_Henry">
+<speaker>SIR HENRY</speaker>
+<p>Jeg er glad over at jeg kan gj&#x00F8;re hennes livsaften lys og lykkelig! Nu g&#x00E5;r hun p&#x00E5; de gr&#x00F8;nne engene i Sussex og stirrer over Kanalen, mot Frankrike, hvor hun for tyve &#x00E5;r siden var med og skapte historie.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Hadde De &#x00AB;Queen&#x00BB; med i krigen?</p>
+</sp>
+<sp who="Sir_Henry">
+<speaker>SIR HENRY</speaker>
+<p>I 1914 besluttet jeg som alle engelskmenn &#x00E5; sette alt inn, liv, formue og barn. Og skj&#x00F8;nt &#x00AB;Queen&#x00BB; var bare tre &#x00E5;r, tok jeg henne med. Jeg visste hun vilde hatet &#x00E5; bli hjemme.</p>
+<p>Tapre &#x00AB;Queen&#x00BB;. Ofte var det bare et sammenskutt skur jeg kunde by henne til stall. Og der var meget hun m&#x00E5;tte overvinne, s&#x00E6;rlig lukten av blod, som hester avskyr mer enn noe annet vesen.</p>
+<p>Allikevel: hvor fryktl&#x00F8;s var hun ikke mellem benene mine, skjelvende av kamplyst efter &#x00E5; g&#x00E5; l&#x00F8;s p&#x00E5; fienden! Jeg minnes slaget ved Marne da hun bar mig frem til seiren, mens der p&#x00E5; mindre enn en halv time falt &#x00E5;tte hundre hester omkring oss &#x2013;</p>
+<p>En ting har ofte optatt mig, mrs. Steen. &#x00AB;Queens&#x00BB; far blev f&#x00F8;r krigen solgt til den tyske regjering som avlshingst &#x2013; &#x00E5; ham skulde De ha kjent! Mon tro &#x00AB;Queen&#x00BB; m&#x00F8;tte noen av sine halvbr&#x00F8;dre eller halvs&#x00F8;stre i kampen, det skulde jeg gjerne vite &#x2013;</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Jeg er s&#x00E5; glad at &#x00AB;Queen&#x00BB; f&#x00E5;r hvile riktig godt ut nu.</p>
+</sp>
+<sp who="Sir_Henry">
+<speaker>SIR HENRY</speaker>
+<p>Men husk &#x00E9;n ting: n&#x00E5;r den nye krigen bryter ut, vil det igjen v&#x00E6;re hesten det kommer an p&#x00E5;.</p>
+<p>Mekaniserte arm&#x00E9;er &#x2013; jeg hater det ordet. Menneskene skal og m&#x00E5; huske at krig kan v&#x00E6;re noe
+<hi rend="italic">ridderlig!</hi> Glemmer vi det, hvor st&#x00E5;r vi da?</p>
+<p>Dessuten: motoriseringen taper enhver betydning efter de f&#x00F8;rste dagenes regnv&#x00E6;r. I gj&#x00F8;rmen blir det hesten som f&#x00E5;r dra kanonene frem og ambulansene tilbake. Og viktigst av alt: hesten er praktisk talt immun for giftgass, den b&#x00E6;rer rytteren
+<hi rend="italic">over</hi> gassen, tenk p&#x00E5; det.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Men <hi rend="italic">blir</hi> det krig igjen?</p>
+</sp>
+<sp who="Sir_Henry">
+<speaker>SIR HENRY</speaker>
+<p>Jeg sier: <hi rend="italic">glem ikke hesten!</hi></p>
+<p>P&#x00E5; alle m&#x00E5;ter pr&#x00F8;ver jeg &#x00E5; opmuntre avlen. Og i forrige uke avsl&#x00F8;rte jeg et monument over hester som falt i krigen.</p>
+<p>Krig er ikke til &#x00E5; undg&#x00E5;, men la oss sette alt inn p&#x00E5; &#x00E5; gj&#x00F8;re den til hestens krig, til en chevaleresk krig!</p>
+<stage>B&#x00F8;rs kommer inn fra haven. Samtidig kommer Bertram inn med to andre direksjonsmedlemmer, dr. M&#x00FC;hlenberg og de Montclair.</stage>
+</sp>
+<sp who="Bors">
+<speaker>B&#x00D8;RS</speaker>
+<stage>dempet til Bertram:</stage>
+<p>Noe nytt?</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Nei.</p>
+<stage>H&#x00F8;it:</stage>
+<p>Jeg h&#x00E5;per &#x00E5; f&#x00E5; anledning til &#x00E5; f&#x00F8;lge dere innover imorgen, mine herrer. Situasjonen synes &#x00E5; tillate det.</p>
+</sp>
+<sp who="Bors">
+<speaker>B&#x00D8;RS</speaker>
+<p>Jeg s&#x00E5; i avisene at du var innkalt til m&#x00F8;te i Nobelkomit&#x00E9;en.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<stage>smilende:</stage>
+<p>Den tradisjonelle forbindelse mellem fred og kjemisk industri &#x2013;</p>
+</sp>
+<sp who="de_Montclair">
+<speaker>DE MONTCLAIR</speaker>
+<stage>full av eleganse og charme:</stage>
+<p>Le prix Nobel! Det har alltid forekommet mig som noe smukt, noe patetisk at et lite land sl&#x00E5;r vakt om freden.</p>
+<stage>Almindelig tilslutning.</stage>
+</sp>
+<sp who="Bors">
+<speaker>B&#x00D8;RS</speaker>
+<p>Der er dessverre noen pinlige forslag om &#x00E5; gi den til en mann som sitter i koncentrasjonsleir i Tyskland &#x2013;</p>
+</sp>
+<sp who="Muhlenberg">
+<speaker>DR. M&#x00DC;HLENBERG</speaker>
+<stage>kraftig, undersetsig, med barbert hode:</stage>
+<p>Det torde p&#x00E5; forh&#x00E5;nd v&#x00E6;re nok med konfliktstoff i verden.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<stage>smilende:</stage>
+<p>Hvad jeg har hevdet bestandig! La oss for Guds skyld holde fredsvennene utenfor!</p>
+</sp>
+<sp who="Muhlenberg">
+<speaker>M&#x00DC;HLENBERG</speaker>
+<stage>henvendt til B&#x00F8;rs:</stage>
+<p>Hvorfor denne evige animositet mot mitt land?</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<stage>avledende:</stage>
+<p>De tar feil der!</p>
+</sp>
+<sp who="Muhlenberg">
+<speaker>M&#x00DC;HLENBERG</speaker>
+<stage>skj&#x00E6;rende:</stage>
+<p>Jeg gj&#x00F8;r ikke det, frue.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<stage>n&#x00F8;lende:</stage>
+<p>Enkelte reagerer kanskje overfor forf&#x00F8;lgelsene mot den j&#x00F8;diske intelligens &#x2013;</p>
+</sp>
+<sp who="Muhlenberg">
+<speaker>M&#x00DC;HLENBERG</speaker>
+<p>Den j&#x00F8;diske?</p>
+<p>De undervurderer oss, frue. Det er <hi rend="italic">alle</hi> opl&#x00F8;sende krefter vi vil ramme. Det kapitalistiske system &#x2013; som sikkert er det de tilstedev&#x00E6;rende helst vil leve under &#x2013; rummer motsetninger som er uforenlige for tanken. Kornet brennes, mennesker sulter. Vi kan trygt formulere stillingen slik: tenkning &#x003D; opr&#x00F8;r.</p>
+<p>Istedenfor fornuften setter vi da det <hi rend="italic">ugripelige,</hi> blod og &#x00E6;re! Det er det geniale ved v&#x00E5;r linje. Bittert er det at vi m&#x00F8;ter s&#x00E5; liten forst&#x00E5;else rundt i verden. For det er ogs&#x00E5; for <hi rend="italic">dere,</hi> vi kjemper, mine herrer!</p>
+</sp>
+<sp who="de_Montclair">
+<speaker>DE MONTCLAIR</speaker>
+<p>Jeg har fra f&#x00F8;rste stund sett med sympati p&#x00E5; Deres bevegelse! Jeg har ogs&#x00E5; p&#x00E5; et tidlig tidspunkt hatt den glede &#x00E5; kunne st&#x00F8;tte den &#x00F8;konomisk, fordi jeg hadde slik tro p&#x00E5; dens muligheter.</p>
+<p>Mitt resonnement var: et selvbevisst, fedrelandselskende Tyskland &#x2013; et forsvarsberedt Frankrike. Det vil tjene begge lands industri, og i siste instans: ogs&#x00E5; freden.</p>
+</sp>
+<sp who="Sir_Henry">
+<speaker>SIR HENRY</speaker>
+<p>La mig f&#x00E5; understreke Deres siste ord av fullt hjerte! At forsvarsvilje og fred h&#x00F8;rer ul&#x00F8;selig sammen.</p>
+</sp>
+<sp who="de_Montclair">
+<speaker>DE MONTCLAIR</speaker>
+<p>Jeg noterer med tilfredshet at en mann som nettop var besjelet av disse idealer &#x2013; en engelsk politiker, sir Henry &#x2013; nylig fikk fredsprisen.</p>
+</sp>
+<sp who="Muhlenberg">
+<speaker>M&#x00DC;HLENBERG</speaker>
+<p>Jeg kjenner ham som en sund realitetenes mann. Han sitter i flere av de engelske rustningsfirmaer, hvor jeg har interesser.</p>
+</sp>
+<sp who="de_Montclair">
+<speaker>DE MONTCLAIR</speaker>
+<p>La oss h&#x00E5;pe at der vil bli bel&#x00F8;nnet flere slike menn &#x2013;</p>
+</sp>
+<sp who="Sir_Henry">
+<speaker>SIR HENRY</speaker>
+<p>hvis syn &#x2013; det er min faste tro &#x2013; er fremtidens.</p>
+<stage>Middagsgongongen g&#x00E5;r.
+</stage>
+<stage>Det blir utbrudd som: Det er sannelig p&#x00E5; tide.
+</stage>
+<stage>Vi f&#x00E5;r op og bytte.
+</stage>
+<stage>Alle herrene g&#x00E5;r. Celine blir alene igjen.
+</stage>
+<stage>Hun g&#x00E5;r bort til vinduet.
+</stage>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<stage>kommer inn:</stage>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Hallo, Matti!</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<p>Hallo.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>S&#x00E5; yndig kjolen er! Du blekbl&#x00E5; erteblomsten min!</p>
+<stage>F&#x00F8;rer henne bort mot vinduet.</stage>
+<p>Er det ikke vakkert i kveld! Snefjellene lyser som rosenblad i kveldsolen.</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<p>Ja.</p>
+<p>Er det noe nytt fra streiken?</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Ikke la oss snakke om den! Din far ordner nok alt s&#x00E5; godt som et menneske kan &#x2013;</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<stage>kort:</stage>
+<p>Nei. S&#x00E5; snakker vi ikke mer om den.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Jo, hvis du vil, s&#x00E5; kan du skj&#x00F8;nne &#x2013;</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<p>Men jeg vil ikke &#x2013;</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<stage>ser forskende p&#x00E5; henne:</stage>
+<p>Er det Paul Berners bok du har sittet oppe og lest?</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<stage>med en undertone:</stage>
+<p>Ja. Det var s&#x00E5; snildt av dig &#x00E5; skrive den av for mig.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Hvordan liker du den?</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<p>Jeg liker den ikke.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Men for noen dager siden &#x2013;</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<p>Ja, men ikke idag.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Hvorfor det?</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<p>Idag leker jeg blindebukk med mig selv.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>&#x00C5; nei, Matti.</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<p>Liker damene ham s&#x00E5; godt?</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>De gj&#x00F8;r visst det.</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<p>Da skal jeg vise ham &#x00F8;inene mine og sp&#x00F8;rre om han synes det er pent &#x00E5; v&#x00E6;re blind.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Matti, pin mig ikke s&#x00E5; forferdelig. Straff mig ikke s&#x00E5;nn!</p>
+<stage>Gr&#x00E5;ter, legger hodet sitt i fanget p&#x00E5; Matti.</stage>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<p>Pinte jeg <hi rend="italic">dig.</hi> Jeg trodde det var mitt, jeg.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Syng for mig.</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<p>Du kloke moren min.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<stage>smiler gjennem t&#x00E5;rer:</stage>
+<p>&#x00C5;, jeg er nok ikke klok, Matti.</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<p>Jo, du vil jeg skal tr&#x00F8;ste dig, for at jeg skal bli hjulpet selv.</p>
+<stage>Celine legger kinnet inn til Mattis.</stage>
+<p>Men siden du tar frem de beste kunstene dine, s&#x00E5; &#x2013;</p>
+<stage>Hun kysser moren.</stage>
+<stage>De reiser sig og g&#x00E5;r, arm i arm, utrolig jevnaldrende, bort til flygelet. Celine spiller, Matti synger et vers av Kjerulfs Tirilil Tove.</stage>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<stage>lytter:</stage>
+<p>Der kom de.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<stage>spiller videre.</stage>
+<stage>Eigill (21 &#x00E5;r) og Paul Berner (29 &#x00E5;r) kommer inn.</stage>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<stage>reiser sig.</stage>
+<p>Goddag og velkommen! Det er Paul Berner &#x2013; min datter.</p>
+<p>Dere har sannelig kj&#x00F8;rt fort. Vi ventet dere ikke f&#x00F8;r om to timer.</p>
+</sp>
+<sp who="Eigill">
+<speaker>EIGILL</speaker>
+<p>Og enda mistet vi minst fem minutter her nede, da vi kj&#x00F8;rte gjennem byen. Der var kjukt av folk.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<stage>til Paul:</stage>
+<p>Kj&#x00F8;rte De?</p>
+</sp>
+<sp who="Eigill">
+<speaker>EIGILL</speaker>
+<p><hi rend="italic">Han!</hi></p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Jeg tror ikke jeg egner mig til &#x00E5; kj&#x00F8;re bil. Ved hver sving vilde jeg tenke: nu farer en onge rett under hjulene.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Men om en <hi rend="italic">annen</hi> kj&#x00F8;rer, er det vel like trist for barnet?</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Det f&#x00E5;r v&#x00E5;ge sig. Jeg har i hvert fall f&#x00E5;tt v&#x00E6;re
+<hi rend="italic">passiv.</hi></p>
+</sp>
+<sp who="Eigill">
+<speaker>EIGILL</speaker>
+<p>N&#x00E5; har jeg h&#x00F8;rt det ogs&#x00E5;!</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Jeg husker engang i Frankrike. Jeg var oppe med et lite sportsfly. En bardun r&#x00F8;k, og f&#x00F8;reren skrev til mig p&#x00E5; en lapp: g&#x00E5; ut p&#x00E5; vingen og gj&#x00F8;r den fast, ellers detter vi ned. <hi rend="italic">Nei!</hi> tenkte jeg og blev sittende: Vel er det f&#x00E6;lt &#x00E5; d&#x00F8; &#x2013; men verre er det &#x00E5; g&#x00E5; ut <hi rend="italic">der</hi> og redde livet.</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<stage>smiler:</stage>
+<p>D&#x00F8;de dere da?</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<stage>smiler tilbake:</stage>
+<p>Ja.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>De har visst reist meget, herr Berner. Jeg har det inntrykk at jernbanekup&#x00E9;en og dampskibslugaren har for Dem v&#x00E6;rt h&#x00F8;idepunktet av hjemlig hygge. Men kunde De <hi rend="italic">allikevel</hi> ikke tenke Dem &#x00E5; sl&#x00E5; Dem ned hos oss en dag eller to?</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Tusen takk!</p>
+</sp>
+<sp who="Eigill">
+<speaker>EIGILL</speaker>
+<p>Hvor er far?</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Han kl&#x00E6;r sig.</p>
+</sp>
+<sp who="Eigill">
+<speaker>EIGILL</speaker>
+<p>Hvad slags hum&#x00F8;r er han i?</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Jeg synes du skulde skaffe Paul Berner en drink, Matti. Han har sannelig fortjent det.</p>
+<stage>Matti og Paul g&#x00E5;r mot bakgrunnen, hvor der st&#x00E5;r cocktail-shaker og glass.</stage>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Hvor meget, Eigill?</p>
+</sp>
+<sp who="Eigill">
+<speaker>EIGILL</speaker>
+<p>Selvf&#x00F8;lgelig! Du skal lage <hi rend="italic">regel</hi> av det. Husker du: for tre m&#x00E5;neder siden tok jeg inn firti tusen p&#x00E5; en dag.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Men s&#x00E5; <hi rend="italic">bruker</hi> du altfor uvettig med penger, Eigill!</p>
+</sp>
+<sp who="Eigill">
+<speaker>EIGILL</speaker>
+<p>Det er n&#x00E5; vel nu de skal brukes, vet jeg.</p>
+<p>Jeg sier som en amerikansk venn av mig: liksv&#x00F8;pet har ikke noen lommer.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<stage>smilende:</stage>
+<p>Men derfor beh&#x00F8;ver du vel ikke &#x00E5; legge <hi rend="italic">oss</hi> i graven! H&#x00F8;r. Din far har meget &#x00E5; st&#x00E5; i, disse dagene. Kanskje <hi rend="italic">jeg</hi> kunde hjelpe dig, isteden.</p>
+</sp>
+<sp who="Eigill">
+<speaker>EIGILL</speaker>
+<p>Jeg ber ikke om hjelp. <hi rend="italic">L&#x00E5;n.</hi></p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>S&#x00E5; sier vi det. Hvor meget?</p>
+</sp>
+<sp who="Eigill">
+<speaker>EIGILL</speaker>
+<p>&#x00C5;tte tusen. Det er verdens sikreste forretning.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Ja da s&#x00E5;. Jeg skal pr&#x00F8;ve &#x00E5; skaffe dig pengene imorgen.</p>
+</sp>
+<sp who="Eigill">
+<speaker>EIGILL</speaker>
+<p>Jeg kj&#x00F8;rer tilbake i natt.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Jeg har visst checkboken i vesken.</p>
+<stage>De g&#x00E5;r bort til chatollet, Celine setter sig og skriver ut en check.</stage>
+<stage>Paul og Matti, med glass i h&#x00E5;nden, kommer fremover p&#x00E5; den andre siden av hallen.</stage>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<stage>i et &#x00E5;ndedrag av lykke:</stage>
+<p>Her er godt &#x00E5; v&#x00E6;re!</p>
+<p>Jeg kjenner forresten denne stuen godt fra f&#x00F8;r Jeg har sett billeder av den i et magasin.</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<p>Leser De s&#x00E5;nt?</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Det hender.</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<stage>stanser foran Sydhavs-billedet og peker:</stage>
+<p>Kan De se hvem som har malt det.</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Gauguin! Man m&#x00E5;tte da v&#x00E6;re blind, hvis &#x2013;</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<stage>muntert:</stage>
+<p>Ja, det m&#x00E5;tte man!</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>&#x00C5;, jeg &#x2013;</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<stage>tar ham over armen:</stage>
+<p>Jeg kjenner det! Menneskene snakker om &#x00F8;ine i annen hver setning, og verst blir det n&#x00E5;r de begynner &#x00E5; passe sig!</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Hjelper De mig nu?</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<stage>l&#x00F8;fter hodet, h&#x00E5;rdt:</stage>
+<p>Skulde ikke <hi rend="italic">jeg</hi> kunne hjelpe?</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<stage>g&#x00E5;r n&#x00E6;r bort til henne, med varme:</stage>
+<p>Jo, det kunde De nok.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<stage>reiser sig og ringer. Til Paul og Eigill:</stage>
+<p>Dere skal f&#x00E5; et kvarter til &#x00E5; bytte og bade. Klarer dere det? Fort dere alt dere kan!</p>
+<stage>Tjeneren kommer inn.</stage>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Vis herr Berner hans v&#x00E6;relse.</p>
+<stage>Tjeneren og Paul g&#x00E5;r.</stage>
+<stage>Eigill har st&#x00E5;tt ved chatollet og stukket checken i lommeboken. Idet han skal g&#x00E5; opover trappen, m&#x00F8;ter han faren som kommer fra h&#x00F8;ire, i kjole og hvitt.</stage>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>God dag, Eigill.</p>
+<p>N&#x00E5;, hvordan g&#x00E5;r det?</p>
+</sp>
+<sp who="Eigill">
+<speaker>EIGILL</speaker>
+<p>Fint.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Virkelig?</p>
+</sp>
+<sp who="Eigill">
+<speaker>EIGILL</speaker>
+<p>Ja.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<stage>sl&#x00E5;r ham tilfreds p&#x00E5; skulderen:</stage>
+<p>Du overg&#x00E5;r dig selv!</p>
+<p>Rapp dig, gutt.</p>
+</sp>
+<sp who="Eigill">
+<speaker>EIGILL</speaker>
+<stage>l&#x00F8;per op trappen.</stage>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<stage>til Matti:</stage>
+<p>N&#x00E5;, hvordan liker du dikteren?</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<stage>stikker armen inn under farens:</stage>
+<p>&#x00C5;, du vet: man m&#x00E5; helst v&#x00E6;re generaldirekt&#x00F8;r hvis jeg skal tekkes.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<stage>henrykt:</stage>
+<p>Du har arvet din mors gode smak, du Matti.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>&#x00C5;, dere er to ordentlige gj&#x00F8;ker!</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<stage>stanser:</stage>
+<p>Var det en bil?</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<p>Ja, det var direkt&#x00F8;r H&#x00E5;vinds.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<stage>m&#x00F8;rk:</stage>
+<p>S&#x00E5;.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Venter du ham.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>N&#x00F8;dig.</p>
+</sp>
+<sp who="Tjeneren" xml:id= "Tjeneren">
+<speaker>TJENEREN</speaker>
+<stage>inn:</stage>
+<p>Direkt&#x00F8;r H&#x00E5;vind.</p>
+</sp>
+<sp who="Haavind">
+<speaker>DIREKT&#x00D8;R H&#x00C5;VIND</speaker>
+<stage>kommer inn. En kraftig, noe brutal mann p&#x00E5; Bertrams alder:</stage>
+<p>God aften, fru Sten. God aften, Matti.</p>
+<stage>Til Bertram:</stage>
+<p>Jeg m&#x00E5; f&#x00E5; tale et &#x00F8;ieblikk med Dem.</p>
+<stage>Han og Bertram taler sammen i bakgrunnen.</stage>
+<stage>B&#x00F8;rs kommer nynnende nedover trappen, efter ham de andre direksjonsmedlemmene.</stage>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<stage>frem mot Celine:</stage>
+<p>G&#x00E5; bare inn, Celine. Vi kommer straks efter.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<stage>ser bekymret p&#x00E5; Bertram, derefter muntert:</stage>
+<p>Kom, Matti &#x2013; hjelp mig med omplaseringen, er du snild.</p>
+<stage>P&#x00E5; vei mot d&#x00F8;ren:</stage>
+<p>Vil du ha Paul Berner til bords?</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<p>Hvorfor det?</p>
+<stage>De g&#x00E5;r ut.</stage>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Her er ikke ubetinget gode nyheter. Arbeiderne har plutselig samlet sig utenfor byen; i l&#x00F8;pet av en halv time kan man regne med at de g&#x00E5;r til storm p&#x00E5; avsperringen.</p>
+</sp>
+<sp who="Haavind">
+<speaker>DIREKT&#x00D8;R H&#x00C5;VIND</speaker>
+<p>Det er selvsagt bare &#x00E9;n ting &#x00E5; gj&#x00F8;re: &#x00E5; utkommandere milit&#x00E6;r. Hvad jeg har hevdet hele tiden.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Jeg har ikke spurt Dem om Deres mening, direkt&#x00F8;r H&#x00E5;vind.</p>
+</sp>
+<sp who="Muhlenberg">
+<speaker>M&#x00DC;HLENBERG</speaker>
+<p>Hvad er Deres opfatning, dr. Sten.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Jeg liker ikke &#x00E5; bruke milit&#x00E6;r mot mine arbeidere.</p>
+</sp>
+<sp who="Muhlenberg">
+<speaker>M&#x00DC;HLENBERG</speaker>
+<p>Liker?</p>
+<p>De forbauser mig, dr. Sten.</p>
+</sp>
+<sp who="de_Montclair">
+<speaker>DE MONTCLAIR</speaker>
+<stage>mildt:</stage>
+<p>N&#x00E5;r vi i Frankrike investerte betydelige summer her oppe, var det fordi vi hadde ubetinget tro p&#x00E5; bedriften, og <hi rend="italic">dens ledelse.</hi> Jeg er sikker p&#x00E5; at De ikke vil skuffe v&#x00E5;r tillit.</p>
+</sp>
+<sp who="Sir_Henry">
+<speaker>SIR HENRY</speaker>
+<p>Sl&#x00E5; til, eller bli sl&#x00E5;tt</p>
+<p>Det er valget.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<stage>hugger med en h&#x00E5;ndbevegelse diskusjonen over:</stage>
+<p>Jeg tar det ikke s&#x00E5; lett som dere, mine herrer. Jeg skal arbeide videre med mine folk, <hi rend="italic">efterp&#x00E5;.</hi></p>
+<stage>Stillhet.</stage>
+<p>Men der er ikke annet for.</p>
+<stage>Tar telefonen p&#x00E5; skrivebordet</stage>
+<p>Gi mig forsvarsdepartementet.</p>
+<stage>Legger r&#x00F8;ret p&#x00E5; og venter.</stage>
+</sp>
+<sp who="Muhlenberg">
+<speaker>M&#x00DC;HLENBERG</speaker>
+<p>Det er godt at milit&#x00E6;rvesenet hertillands ikke er <hi rend="italic">fullstendig</hi> nedlagt!</p>
+</sp>
+<sp who="Bors">
+<speaker>B&#x00D8;RS</speaker>
+<p>Det er en selvopgivelsens &#x00E5;nd her hjemme som ofte har smertet mig dypt.</p>
+<stage>Telefonen ringer. Bertram tar r&#x00F8;ret.</stage>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>De taler med generaldirekt&#x00F8;r Sten i &#x00AB;Nationalt Kjemisk Koncern&#x00BB;. Vi frykter for at arbeiderne i l&#x00F8;pet av en halv time vil angripe avsperringene nede ved havnen. Det er p&#x00E5;krevet &#x00E5; rekvirere milit&#x00E6;r.</p>
+<stage>Venter.</stage>
+<p>Det skulde klare sig.</p>
+<p>Takk.</p>
+<stage>Legger r&#x00F8;ret fra sig.</stage>
+<p>Vi f&#x00E5;r &#x00F8;ieblikkelig tusen mann, utrustet med h&#x00E5;ndgranater og maskingev&#x00E6;rer.</p>
+</sp>
+<sp who="Muhlenberg">
+<speaker>M&#x00DC;HLENBERG</speaker>
+<p>Sehr gut!</p>
+</sp>
+<sp who="de_Montclair">
+<speaker>DE MONTCLAIR</speaker>
+<p>Tr&#x00E8;s bien!</p>
+</sp>
+<sp who="Sir_Henry">
+<speaker>SIR HENRY</speaker>
+<p>Very well.</p>
+</sp>
+<sp who="Bors">
+<speaker>B&#x00D8;RS</speaker>
+<stage>peker mot snefjellene som blusser op i kveldsolen, idet han utbryter henrevet:</stage>
+<p>Og dette landet skulde vi ikke forsvare!</p>
+<stage><p rend="center">Teppet.</p></stage>
+</sp>
+</div>
+<div type="chapter" subtype="act" n="2">
+<head type="main"><ref target="contents_3" xml:id="chapter_3">ANNEN AKT</ref></head>
+<div type="uchapter" subtype="scene" n="2_1">
+<head type="sub">I</head>
+<stage>Sommerdag. I parken omkring generaldirekt&#x00F8;r Stens hus. Et hj&#x00F8;rne av tennisplassen til venstre. N&#x00E5;r vinden g&#x00E5;r gjennem tr&#x00E6;rne i bakgrunnen, skimtes fabrikkenes hvite konstruksjoner opover fjellsiden.
+</stage>
+<stage>Eigill og Paul sitter tenniskl&#x00E6;dde i makelige havestoler, begge med aviser.</stage>
+<sp who="Eigill">
+<speaker>EIGILL</speaker>
+<p>Du som er psykolog &#x2013; forklar mig en ting! Husker du de Montclair, som var her i v&#x00E5;r? En gris efter unge gutter.</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<stage>nikker.</stage>
+</sp>
+<sp who="Eigill">
+<speaker>EIGILL</speaker>
+<p>En venn av mig er begynt &#x00E5; reise rundt med ham som <hi rend="italic">privatsektet&#x00E6;r.</hi> Skj&#x00F8;nner du slikt?</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Bortsett fra naturlige anlegg som jeg ikke kan d&#x00F8;mme om, kan du f&#x00E5; en god grunn: forfengelighet.</p>
+</sp>
+<sp who="Eigill">
+<speaker>EIGILL</speaker>
+<p>Jas&#x00E5;.</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Legg merke til hvordan folk t&#x00E9;r sig, n&#x00E5;r han kommer. Alle d&#x00F8;rer sl&#x00E5;es op p&#x00E5; vid vegg, v&#x00E5;re fineste og mest moralske familier lar ham smilende kurtisere sine s&#x00F8;nner.</p>
+<p>Han har jo innflytelse mann! Han er rik! Han kan skaffe dem innpass til det Europa som teller. Det kunde han vel ikke st&#x00E5; for, vennen din.</p>
+<p>Forfengelighet er en lidenskap, som ikke er til &#x00E5; le av.</p>
+</sp>
+<sp who="Eigill">
+<speaker>EIGILL</speaker>
+<p>Du h&#x00F8;res sakkyndig ut.</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Jeg er det. Og du kan vel ikke si dig fri, du heller.</p>
+<stage>Tender en cigarett.</stage>
+<p>Mig beh&#x00F8;ver du ikke &#x00E5; hykle for.</p>
+</sp>
+<sp who="Eigill">
+<speaker>EIGILL</speaker>
+<stage>forbitret:</stage>
+<p>Hykle pleier man ikke &#x00E5; si jeg gj&#x00F8;r.</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>S&#x00E5; tenk dig om.</p>
+</sp>
+<sp who="Eigill">
+<speaker>EIGILL</speaker>
+<stage>tar imot utfordringen:</stage>
+<p>Jeg husker engang i vinter i Jotunheimen. Mellem to av hyttene kom jeg i f&#x00F8;lge med en fyr, som faktisk sprengte mig. Ellers pleier jeg &#x00E5; kunne g&#x00E5;
+<hi rend="italic">fra</hi> de fleste, men denne mannen var en ren j&#x00E6;vel. Av og til ventet han p&#x00E5; mig, men i samme sekundet jeg hadde n&#x00E5;dd ham igjen, mer dau enn levende, gliste han til mig og satte av g&#x00E5;rde.</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Du har n&#x00E5; avlurt ham det gliset, kjenner jeg dig rett.</p>
+</sp>
+<sp who="Eigill">
+<speaker>EIGILL</speaker>
+<p>Jeg gikk efter den ford&#x00F8;mte ryggen foran mig, med blodsmak i kjeften, det kokte i mig av hat og raseri, jeg kunde ha drept ham!</p>
+<p>Senere traff jeg ham igjen. Og det falt sig slik at jeg kom til &#x00E5; ta kjerringen hans.</p>
+<stage>Reiser sig:</stage>
+<p>Jeg m&#x00E5; si det som det er: annen grunn enn den du nevnte, kan jeg vanskelig tenke mig.</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Hvordan gikk det siden med dere?</p>
+</sp>
+<sp who="Eigill">
+<speaker>EIGILL</speaker>
+<p>Det varte akkurat s&#x00E5; lenge at hun spurte mig om jeg elsket henne.</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Og hvad sa du?</p>
+</sp>
+<sp who="Eigill">
+<speaker>EIGILL</speaker>
+<p>Hvad jeg sa?</p>
+<p>&#x00AB;Nei, for faen.&#x00BB;</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Det var fremmelig svart!</p>
+</sp>
+<sp who="Eigill">
+<speaker>EIGILL</speaker>
+<p>Du h&#x00F8;res imponert ut?</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<stage>nikker:</stage>
+<p>Jeg har aldri v&#x00E6;rt noe flink til &#x00E5; avvikle. Tross alt: Man har v&#x00E6;rt knyttet til et menneske &#x2013; &#x2013;</p>
+</sp>
+<sp who="Eigill">
+<speaker>EIGILL</speaker>
+<p>Du synes det var s&#x00E5;rt for dem at de m&#x00E5;tte miste dig?</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Nettop!</p>
+<p>Formodentlig har jeg v&#x00E6;rt arvelig belastet med det som kan v&#x00E6;re ti ganger r&#x00E5;ere og sjoflere enn brutalitet: finhet i tankegangen.</p>
+<p>&#x2013; Og s&#x00E5; blir de liggende og r&#x00E5;tne inne i en, alle de opgj&#x00F8;rene en ikke har tatt.</p>
+<p>En s&#x00E5;nn som dig eier fremtiden!</p>
+<stage>Han begynner &#x00E5; lese igjen. Eigill g&#x00E5;r bak ham, og ser over skulderen.</stage>
+</sp>
+<sp who="Eigill">
+<speaker>EIGILL</speaker>
+<p>Hvad er det du leser?</p>
+<p>Skatteligningen! Jas&#x00E5;. Sten, Bertram, generaldirekt&#x00F8;r, formue to millioner, inntekt tre hundre tusen. Si mig hvorfor fors&#x00F8;ker du dig ikke heller p&#x00E5; en av d&#x00F8;trene til brukseier Monrad, formue fire millioner.</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Fem barn; flere &#x00E5; dele p&#x00E5;.</p>
+</sp>
+<sp who="Eigill">
+<speaker>EIGILL</speaker>
+<p>Og her er det bare mig.</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Ja, her er det dessverre dig.</p>
+</sp>
+<sp who="Eigill">
+<speaker>EIGILL</speaker>
+<p>En ting m&#x00E5; man late dig: du gj&#x00F8;r dig ikke bedre enn du er. I hvert fall ikke n&#x00E5;r du snakker med mig. Men med Matti er du forst&#x00E5;elsesfull, fytehelvete, og sjelfull som bare fan, sammen med mor.</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Jeg har vel to-tre slags mennesker inne i mig; de dukker frem eftersom de blir ropt p&#x00E5;. Overfor dig er det naturlig at jeg viser mig fra den verste siden.</p>
+<stage>Reiser sig og tar racketen.</stage>
+<p>Et sett til! Jeg m&#x00E5; ha revanche.</p>
+</sp>
+<sp who="Eigill">
+<speaker>EIGILL</speaker>
+<p>Gider ikke. Du taper s&#x00E5; allikevel.</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Bare vent! Jeg skal nok sl&#x00E5; dig.</p>
+</sp>
+<sp who="Eigill">
+<speaker>EIGILL</speaker>
+<p>Du er begynt for sent. Du har vel ikke hatt stor anledning til &#x00E5; spille f&#x00F8;r.</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Riktig!</p>
+<p>Barndommen min i &#x00E9;n sum: tennisracket jeg ikke fikk.</p>
+</sp>
+<sp who="Eigill">
+<speaker>EIGILL</speaker>
+<p>Er det <hi rend="italic">min</hi> skyld kanskje?</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>&#x00C5;, Gud vet. Jeg kommer fra folk som var dumme nok til &#x00E5; tro p&#x00E5; den dyden dere har innprentet dem, for at de skulde holdes nede: sparsomhet.</p>
+<p>Spar utlegg, spar glede, spar liv.</p>
+</sp>
+<sp who="Eigill">
+<speaker>EIGILL</speaker>
+<p>Men n&#x00E5; skal der ikke spares lenger. N&#x00E5; har du innfunnet dig her.</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Akkurat.</p>
+<p>Kom nu.</p>
+</sp>
+<sp who="Eigill">
+<speaker>EIGILL</speaker>
+<p><hi rend="italic">Nei</hi>, sier jeg.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<stage>kommer inn i ridedrakt:</stage>
+<p>Hallo!</p>
+<p>Imorgen m&#x00E5; De ride med mig, Paul. De skal f&#x00E5; &#x00AB;Cinderella&#x00BB;, henne vil De like! Tror du ikke, Eigill?</p>
+</sp>
+<sp who="Eigill">
+<speaker>EIGILL</speaker>
+<stage>til Paul:</stage>
+<p><hi rend="italic">Kan</hi> du ri da? Trodde din barndom var i &#x00E9;n sum: ridehest du ikke fikk. Jeg g&#x00E5;r bort i stallen, jeg mor; for dere skal vel snakke &#x00E5;ndelig. Morn s&#x00E5; lenge.</p>
+<stage>Han g&#x00E5;r ut.</stage>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Hvor har De gjort av Matti?</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Hun er oppe og pr&#x00F8;ver kl&#x00E6;r.</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Men m&#x00E5; ikke <hi rend="italic">De</hi> v&#x00E6;re med da?</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Matti har alltid v&#x00E6;rt meget selvstendig, og hun er ikke blitt det mindre siden De kom. Hun vil helst v&#x00E6;re alene med den motedamen som tok kjolene her ut. Det p&#x00E5;st&#x00E5;es at de har ikke noen kunde som er s&#x00E5; n&#x00F8;ie p&#x00E5; det som Matti. Hun er i virkeligheten ytterst forfengelig.</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Er ikke det eiendommelig &#x2013;?</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>For en blind? Nei.</p>
+<p>Hun er henvist til andres &#x00F8;ine, og hun m&#x00E5; <hi rend="italic">n&#x00E6;re</hi> dem. Ser menneskene noe likegyldig, sier de ikke noe. Ser de noe vakkert, f&#x00E5;r Matti vite det. Da lever verden for henne.</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Hun m&#x00E5; v&#x00E6;re lykkelig som har Deres &#x00F8;ine &#x00E5; se med.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Tror De?</p>
+<p>Jeg har pr&#x00F8;vd iallfall. Og jeg synes det har gjort livet rikere for mig selv. Jeg har <hi rend="italic">m&#x00E5;ttet</hi> se &#x2013; for Mattis skyld; jeg vet om en verden av farver, lys, bevegelse, som kanskje ikke mange andre.</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Har De alltid kunnet f&#x00F8;le det s&#x00E5;nn?</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>&#x00C5; nei.</p>
+<p>Den f&#x00F8;rste tiden var forferdelig. Den tiden da vi ennu h&#x00E5;pet. Den desperate viljen til &#x00E5; h&#x00E5;pe &#x2013; det er det verste! De skj&#x00F8;nner: Matti fikk hjernebetendelse ett &#x00E5;r gammel, og da hun blev frisk, opdaget vi det &#x2013; langsomt.</p>
+<p>Dengang var det som jeg mistet Gud.</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<stage>interessert:</stage>
+<p>Tror De p&#x00E5; Gud?</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Man m&#x00E5; v&#x00E6;re en mann for &#x00E5; sp&#x00F8;rre om Gud er til. I hvert fall for &#x00E5; sp&#x00F8;rre <hi rend="italic">slik</hi>, s&#x00E5; uten undren og forferdelse! En kvinne som har gjennemg&#x00E5;tt miraklet &#x2013; dette ikke-noe, dette usynlige, som vokser inne i en og n&#x00E6;rer sig der og f&#x00E5;r gjeller og lunger og en dag sprenger sig ut, blodig og pipende, et bitte lite menneske som ennu m&#x00E5; f&#x00E5; mat av kroppen, men nu utvendig fra! &#x2013; helt til det f&#x00E5;r sm&#x00E5; bukser p&#x00E5; sig &#x2013; &#x00E5; en kvinne vet mer! Hun vet i det minste at det er grufullt og rystende &#x00E5; tvile p&#x00E5; mysteriet, Gud.</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Men s&#x00E5; fant De Gud igjen?</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>En dag skj&#x00F8;nte jeg det! Gud er som oss, det er ikke for ingenting at det st&#x00E5;r: vi er skapt i Guds billede &#x2013; han kjemper og lider som oss, tviler, f&#x00E5;r det ikke til. Og s&#x00E5; plutselig lykkes det for ham! Og Gud er som en tindrende bl&#x00E5; sommerdag.</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Men <hi rend="italic">hvordan</hi> kom De til det?</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Ethvert menneske har <hi rend="italic">sin</hi> vei til Gud, og det er kanskje det dypeste, hemmeligste i oss.</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Jeg skal ikke sp&#x00F8;rre mer.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Jo. Jeg har lyst &#x00E5; fortelle Dem det.</p>
+<p>Det var fordi jeg elsket. Fordi jeg efter &#x00E5;relang fortvilelse fant igjen min mann, mitt menneske i verden. Fordi jeg var fullbyrdet.</p>
+<stage><p>L&#x00F8;fter armene i lykke.</p>
+<p>Vender sig plutselig.</p></stage>
+<p>Nu De!</p>
+<p>Fortell om Dem selv. Hvad skriver De p&#x00E5;?</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Jeg skriver ikke.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Men neste gang?</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Jeg har ikke tenkt &#x00E5; skrive mer.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Hvorfor ikke?</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Hvorfor skulde jeg?</p>
+<p>Nu ruster verden, nu kommer krigen.</p>
+<p>La oss holde oss til det vesentlige. Jeg tror ikke at mange av min generasjon skal d&#x00F8; p&#x00E5; sottesengen.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Nettop nu er det bruk for mennesker som forteller at livet er edelt og godt. Som sier: krenk det ikke!</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Har jeg ikke skrevet? Har jeg ikke ropt ut?
+<hi rend="italic">Vi vil ikke!</hi></p>
+<p>Men de som har avgj&#x00F8;relsen, har viktigere ting &#x00E5; tenke p&#x00E5; enn livets ukrenkelighet. De skal bev&#x00E6;bne de millionene som <hi rend="italic">vil!</hi></p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Men ungdommen &#x2013;</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<stage>tar avisen:</stage>
+<p>Her st&#x00E5;r nettop et lite telegram om ungdommen. Unge engelske arbeidsl&#x00F8;se stormer hvervingskontorene: gj&#x00F8;r oss for Guds skyld til soldater!</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Forferdelig.</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Vi kan tr&#x00F8;ste oss. Mesteparten var s&#x00E5; underern&#x00E6;rt at de ikke kunde brukes.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Dette er ulykkelige mennesker som er drevet til desperasjon. Men de andre &#x2013;</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>De andre er de farligste. De sunde! De lever hver dag <hi rend="italic">foran krigen.</hi> Men angst passer dem ikke. De kan ikke v&#x00E6;re unge og v&#x00E6;re redd bestandig. S&#x00E5; blir angsten til forventning, s&#x00E5; marsjerer de syngende. Utbruddet &#x2013; det blir befrielsen! Verden skal f&#x00E5; se et mot som aldri f&#x00F8;r. Har De lest om den torpedoen som har en mann inne i sig, for &#x00E5; styre den mot m&#x00E5;let? Slik vil de d&#x00F8;, jage inn i smellet!</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Elsker De h&#x00E5;pl&#x00F8;sheten?</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Nei. Men jeg vet at nu kommer volden.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Og den kan ikke stanses?</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Bare med ny vold.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Arbeiderne?</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<stage>nikker:</stage>
+<p>De vil gj&#x00F8;re op regnskapet. De har krefter til det. <hi rend="italic">De vil kunne leve efterp&#x00E5;.</hi></p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Og De?</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Jeg har r&#x00F8;ttene blandt det som skal d&#x00F8;. Jeg g&#x00E5;r under med skibet.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>S&#x00E5;nn har ikke et menneske lov &#x00E5; tenke!</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<stage>smilende:</stage>
+<p>S&#x00E5; tenker jeg ikke s&#x00E5;nn!</p>
+<p>S&#x00E5; tenker jeg <hi rend="italic">ikke;</hi> det var jo utgangspunktet. S&#x00E5; lever jeg som alle fornuftige mennesker fra dag til dag. Skj&#x00F8;nner De ikke &#x2013; det er d&#x00E9;t jeg vil? Det eneste jeg vil!</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>De vil helst gj&#x00F8;re verden til en d&#x00F8;dscelle hvor menneskeheten venter p&#x00E5; &#x00E5; bli avlivet, og De er s&#x00E5; flink til &#x00E5; finne nye sprinkler for vinduet. Men jeg b&#x00E6;rer over med Dem. For De beh&#x00F8;ver bare &#x00E5; se Dem om, og De vil se at sprinklene er ikke mer ugjennemtrengelige enn en solstr&#x00E5;le, og det er ikke d&#x00F8;den vi venter p&#x00E5;, men livet. H&#x00E5;pet! I mange m&#x00E5;neder var her bare h&#x00E5;rdhet og kulde nede i markene her; men nu har den gr&#x00F8;nne klorofyllen str&#x00F8;mmet ti meter til v&#x00E6;rs &#x2013; op fra d&#x00F8;den! og suser i varm sommervind. Og blomstene &#x2013; hvor var de? Nu er de sprunget op for &#x00E5; takke lyset.</p>
+<p>Selv fabrikken der borte &#x2013; den tar salpeter ut av luften, den tar styrke ut av ingenting, for at gresset og kornet skal gro &#x2013; her og i land langt borte!</p>
+<p>Hvem er De som v&#x00E5;ger: ikke &#x00E5; h&#x00E5;pe?</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTIS STEMME</speaker>
+<p>Mor! Paul!</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<stage>reiser sig og vil g&#x00E5; henne i m&#x00F8;te:</stage>
+<p>Hallo, Matti!</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<p>Hallo!</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<stage>dempet:</stage>
+<p>Nei, ikke hjelp henne. Hun liker det best s&#x00E5;nn.</p>
+<stage>Matti kommer langsomt nedover havegangen.</stage>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Men hvad er det for drakt de har gitt barnet p&#x00E5; &#x2013;? En slag uniform og tropehjelm &#x2013;</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Det er nyeste mote, skapt av krigen i Afrika. Siste skrik fra slagmarken &#x2013;</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<stage>opbragt:</stage>
+<p>Jeg skj&#x00F8;nner ikke hvad de tenker p&#x00E5;! Det kan kanskje passe for aktive, sportende mennesker; men dette &#x2013;</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>&#x2013; minner om soldatene n&#x00E5;r de kommer hjem.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<stage>til Matti:</stage>
+<p>Sett dig her, Matti.</p>
+<p>Jeg synes ikke om den kjolen. Absolutt ikke. Snittet.</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<stage>avledende:</stage>
+<p>Neivel.</p>
+<p>Hvad snakket dere om?</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<stage>med en viljesanspennelse:</stage>
+<p>&#x00C5;, om livet. Om hvor alle sorger blir sm&#x00E5; p&#x00E5; en slik dag!</p>
+<p>Jeg kommer til &#x00E5; huske en samtale jeg engang hadde med sir Henry &#x2013; v&#x00E5;r engelske venn. Han fortalte om krigen. Ikke et ord nevnte han om sine to s&#x00F8;nner som jeg vet falt. Han snakket bare om en hest som hadde v&#x00E6;rt med ham hele tiden og ennu levde. <hi rend="italic">Dens</hi> strabaser, <hi rend="italic">dens</hi> lidelse, og
+<hi rend="italic">dens</hi> lykke ved &#x00E5; g&#x00E5; p&#x00E5; de gr&#x00F8;nne markene idag.</p>
+<p>Det var som han elsket den dypere enn de to d&#x00F8;de, og kanskje er det s&#x00E5;. Han og hesten er bundet sammen med et sterkere band: livet. <hi rend="italic">De lever begge!</hi> Han kan legge kinnet sitt inn til det som er n&#x00E6;rere enn minnet: den varme, vennlige mulen!</p>
+<p>Dengang syntes jeg det var komisk, hvad han sa. Men det sl&#x00E5;r mig bestandig at vi kan l&#x00E6;re noe av alle mennesker.</p>
+<stage>Reiser sig.</stage>
+<p>Hvad tenker jeg p&#x00E5;! Jeg skal hente Bertram. Matti, vet du om bilen er inne?</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<p>Nei, Nordb&#x00F8; kj&#x00F8;rte nettop av garde med blomster til dine syke.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>S&#x00E5; tar jeg Eigills.</p>
+<stage>Hun g&#x00E5;r.</stage>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<stage>lener sig fremover mot Matti:</stage>
+<p>Eigill &#x2013; hvordan er ditt forhold til ham.</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<p>Jeg kjenner ham ikke stort. Han har v&#x00E6;rt meget borte, p&#x00E5; skole, i utlandet.</p>
+<stage>N&#x00F8;ler et &#x00F8;ieblikk, knytter s&#x00E5; hendene, sier rolig:</stage>
+<p>Det er meget jeg liker ved ham. Jeg vet hvor jeg har ham. Han har den sundes uvilje mot et menneske med en skavank.</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Stans n&#x00E5;.</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<p>Hvorfor det? Han er naturlig. Jeg husker en gang jeg gikk en tur med hunden min, plutselig vilde den ikke g&#x00E5; lenger. Og en mann fortalte mig at her kom alle dyr tilbake. Der l&#x00E5; en overkj&#x00F8;rt hund lenger fremme i veien.</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>N&#x00E5; kan det v&#x00E6;re nok, Matti.</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<p>Hvad er i veien med kjolen min.</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<stage>setter i &#x00E5; le:</stage>
+<p>S&#x00E5;nn skal det v&#x00E6;re!</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<p>Det er ingenting &#x00E5; le av.</p>
+<p>For dere <hi rend="italic">hvisket,</hi> Jeg f&#x00F8;lte at der var noe som jeg skulde holdes utenfor. Mor er det beste og kj&#x00E6;rligste menneske i verden, det er bare det at jeg f&#x00F8;ler bestandig under all naturligheten en godhet som aldri vil slippe mig! &#x2013; Hun aner det ikke selv, men jeg forstod fortellingen hennes om engelskmannen og hesten: vi m&#x00E5; v&#x00E6;re lykkelige over livet &#x2013; <hi rend="italic">hvad</hi> vi har mistet og <hi rend="italic">hvem</hi> vi er.</p>
+<stage>Stryker sig nedover kjolen.</stage>
+<p>N&#x00E5;, hvad er det med den?</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Den har et slags milit&#x00E6;rt snitt; den minner om krigen. Og du, Matti, m&#x00E5; bare minne om det som er skj&#x00F8;nt og godt i livet: fred.</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<stage>halvt bitter, halvt smilende:</stage>
+<p>Jeg vet ikke hvordan en uniform er. Jeg har aldri f&#x00F8;lt p&#x00E5; noen soldat.</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Jeg skal l&#x00E6;re dig &#x00E5; f&#x00F8;le p&#x00E5; noen, jeg.</p>
+<stage>Han ler mot henne. Matti ler tilbake. Han kysser henne:</stage>
+<p>Du, Matti min.</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<p>Men er du <hi rend="italic">min?</hi></p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Ja.</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<p>Men <hi rend="italic">freden</hi> din tror jeg n&#x00E5; ikke jeg vil v&#x00E6;re. Jeg har lest hvad du skriver om damene dine &#x2013; jeg er sikker p&#x00E5; at de var <hi rend="italic">vemmelige</hi> &#x2013;: du m&#x00E5;tte alltid skape dem om efter ditt eget hjerte, skriver du, du tok meter p&#x00E5; meter av dig selv og kl&#x00E6;dde dem op, og til slutt var de akkurat s&#x00E5;nn som du vilde ha dem, og da var de ikke til &#x00E5; holde ut.</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Det er usselt &#x00E5; anf&#x00F8;re mine verker mot mig. &#x2013; Matti! N&#x00E5;r skal vi reise?</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<p>Mor sier hun kan ikke tenke sig huset uten mig. Og far: tidligst om et halv&#x00E5;r.</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<stage>gr&#x00F8;sser:</stage>
+<p>Jeg skal <hi rend="italic">pr&#x00F8;ves!</hi></p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<p>Ja, det var sant, jeg skulde ha spurt dig: Tar du mig for pengenes skyld?</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Ja, n&#x00E6;rmest.</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<p>Endelig et svar!</p>
+<p>Hvor skal vi reise?</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Siam, China, Stillehavet.</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<p>Fortell.</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<stage>lukker &#x00F8;inene:</stage>
+<p>Sol. Het sandstrand. Salt p&#x00E5; huden din n&#x00E5;r jeg kysser den. Desember hjemme &#x2013;</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<p>Alltid desember hjemme?</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Ja, alltid. Lukt av blomster med vinden. Sus av brenningen. Evig. Og hele marerittet langt borte: hat, blod, myrderi. Vi to &#x2013; utenfor. Fjernt fra menneskene. N&#x00E6;r livet.</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<stage>i et ekko:</stage>
+<p>Vi to.</p>
+<stage>Smiler.</stage>
+<p>S&#x00E5; flink, s&#x00E5; flink du var.</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Hvordan?</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<p>Sus og lukt. N&#x00E5; skal du f&#x00E5; lov til &#x00E5; <hi rend="italic">se.</hi></p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Regnbuefarvede fisker, purpursj&#x00F8; i kveldingen, r&#x00F8;d jord, bl&#x00E5; skygger, morgenhimmelen som gr&#x00F8;nn kinesisk jade, brune, nakne kropper &#x2013;</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<p>N&#x00E5; har du sett nok!</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<stage>reiser sig:</stage>
+<p>Bryster &#x2013;</p>
+<p>Kom n&#x00E5;!</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<p>Jo du er mig en fin en!</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<stage>tar henne om h&#x00E5;ndleddene:</stage>
+<p>Og du vil v&#x00E6;re freden min, allikevel?</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<stage>vender sig mot ham:</stage>
+<p>Jeg vil det som du vil, jeg, Paul.</p>
+<stage>De g&#x00E5;r opover mot huset.</stage>
+</sp>
+<sp who="Eigill">
+<speaker>EIGILL</speaker>
+<stage>kommer inn:</stage>
+<p>Du, Paul!</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<stage>stanser, mens Matti langsomt fortsetter alene:</stage>
+<p>Ja?</p>
+</sp>
+<sp who="Eigill">
+<speaker>EIGILL</speaker>
+<p>Du husker de tusen kronene dine som jeg skulde investere for dig. De siste pengene du hadde &#x2013;</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<stage>nikker.</stage>
+</sp>
+<sp who="Eigill">
+<speaker>EIGILL</speaker>
+<stage>gj&#x00F8;r en bevegelse bortover mot fabrikken:</stage>
+<p>Jeg satte dem like godt i Nationalt Kjemisk Koncern. S&#x00E5; du alt nu kan f&#x00F8;le familieformuen p&#x00E5; pulsen.</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Takk for d&#x00E9;t.</p>
+<stage>Vil g&#x00E5; opover.</stage>
+</sp>
+<sp who="Eigill">
+<speaker>EIGILL</speaker>
+<p>Du vil ha glede av den aksjen din. Den stiger alt. Papirer i den bedriften har nemlig en eiendommelighet. De g&#x00E5;r alltid op n&#x00E5;r det ser mindre fredelig ut i verden.</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Dette har jeg ikke visst. Dette har jeg ikke bedt dig om.</p>
+</sp>
+<sp who="Eigill">
+<speaker>EIGILL</speaker>
+<p>Har du bedt mig om &#x00E5; tape pengene dine kanskje?
+<hi rend="italic">N&#x00E5;!</hi></p>
+<p>Si mig: er det ikke her du vil h&#x00F8;re hjemme?</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<stage>ser ham inn i &#x00F8;inene:</stage>
+<p>Jo, jeg vil h&#x00F8;re hjemme her.</p>
+<stage>Han g&#x00E5;r hurtig opover mot Matti.</stage>
+</sp>
+</div>
+<div type="uchapter" subtype="scene" n="2_2">
+<head type="sub">II</head>
+<stage>Sommerkveld i arbeiderstr&#x00F8;ket. Rekke av egnehjem med haver foran. Scenen foreg&#x00E5;r utenfor Haraldsens hus; et lavt hvitt stakitt til h&#x00F8;ire mot nabobaven.</stage>
+<stage><hi rend="italic">Fru Rud,</hi> ung, blek og slitt, st&#x00E5;r der inne og henger op kl&#x00E6;svask, mens hun holder et &#x00F8;ie med barnevognen. I bakgrunnen g&#x00E5;r veien forbi. Vi skimter, som i forrige billede, fabrikkene opover fjellsiden, men denne gang n&#x00E6;rere. Nede p&#x00E5; jordet h&#x00F8;res rop av gutter som spiller fotball, og det bl&#x00F8;te dunket av ballen mot gresset.
+</stage>
+<sp who="Fru_Haraldsen">
+<speaker>FRU HARALDSEN</speaker>
+<stage>femti &#x00E5;r, kommer vaggende ut og henter aftenavisen som er kilt inn i havegjerdet, sier til fru Rud:</stage>
+<p>F&#x00E6;lt med denne krigen!</p>
+</sp>
+<sp who="Fru_Rud">
+<speaker>FRU RUD</speaker>
+<p>Godt at den er s&#x00E5; langt borte.</p>
+</sp>
+<sp who="Fru_Haraldsen">
+<speaker>FRU HARALDSEN</speaker>
+<p>&#x00C5;ssen har ongen det?</p>
+</sp>
+<sp who="Fru_Rud">
+<speaker>FRU RUD</speaker>
+<p>Han kommer sig n&#x00E5;.</p>
+<p>Jeg trur det var den lange streika f&#x00F8;r han blev f&#x00F8;dt som gjor&#x0027;n s&#x00E5; ussel. &#x00C5;, han var glupsk inne i mig, men det var s&#x00E5; lite &#x00E5; ta av.</p>
+</sp>
+<sp who="Fru_Haraldsen">
+<speaker>FRU HARALDSEN</speaker>
+<p>Bra at streika er slutt n&#x00E5;!</p>
+</sp>
+<sp who="Fru_Rud">
+<speaker>FRU RUD</speaker>
+<p><hi rend="italic">M&#x00E5;tte</hi> den til, n&#x00E5;r vi tapte allikevel?</p>
+<stage>Tre sm&#x00E5;piker kommer l&#x00F8;pende inn, og leker pakkeball p&#x00E5; Haraldsens trapp.</stage>
+</sp>
+<sp who="Den_ene" xml:id= "Den_ene">
+<speaker>DEN ENE</speaker>
+<stage>messer, mens hun sl&#x00E5;r ballen:</stage>
+<p>Jeg liker ikke &#x00D8;ivind,</p>
+<p>jeg liker ikke Tor,</p>
+<p>jeg liker ikke Bjarne,</p>
+<p>jeg liker ikke Oskar,</p>
+<p>jeg liker ikke Henry!</p>
+</sp>
+<sp who="De_to_andre" xml:id="De_to_andre">
+<speaker>DE TO ANDRE</speaker>
+<p>Hun liker bare Hans!</p>
+<stage>De to l&#x00F8;per leende ut, pakkeballspillersken efter.</stage>
+</sp>
+<sp who="Fru_Haraldsen">
+<speaker>FRU HARALDSEN</speaker>
+<stage>begynner &#x00E5; le, s&#x00E5; barmen disser:</stage>
+<p>Ja, disse onga!</p>
+</sp>
+<sp who="Arvid">
+<speaker>ARVID HARALDSEN</speaker>
+<stage>21 &#x00E5;r, kommer ut p&#x00E5; trammen.</stage>
+</sp>
+<sp who="Fru_Haraldsen">
+<speaker>FRU HARALDSEN</speaker>
+<p>Har du n&#x00E5; sittet og lest i hele dag, Arvid! Gj&#x00F8;r du ikke nok av det oppe p&#x00E5; H&#x00F8;iskolen!</p>
+</sp>
+<sp who="Arvid">
+<speaker>ARVID</speaker>
+<p>M&#x00E5; nok til.</p>
+</sp>
+<sp who="Fru_Haraldsen">
+<speaker>FRU HARALDSEN</speaker>
+<p>&#x00C5; skal du hen?</p>
+</sp>
+<sp who="Fru_Rud">
+<speaker>FRU RUD</speaker>
+<p>Det er n&#x00E5; vel ikke n&#x00F8;dvendig &#x00E5; sp&#x00F8;rre om. Sommerkvelden!</p>
+</sp>
+<sp who="Arvid">
+<speaker>ARVID</speaker>
+<stage>ler:</stage>
+<p>Det var ikke <hi rend="italic">s&#x00E5;</hi> vel!</p>
+<stage>Til moren:</stage>
+<p>Jeg skal bort p&#x00E5; laboratoriet.</p>
+</sp>
+<sp who="Ropende_gutter" xml:id="Ropende_gutter">
+<speaker>GUTTEROP</speaker>
+<stage>utenfor:</stage>
+<p>Centr da vel!</p>
+<p>Legg&#x0027;n over, Hans!</p>
+</sp>
+<sp who="En_kvinnestemme" xml:id="En_kvinnestemme">
+<speaker>EN KVINNESTEMME</speaker>
+<stage>hauker:</stage>
+<p>Hans! Du skal inn og legge dig, Hans!</p>
+</sp>
+<sp who="Ropende_gutter">
+<speaker>GUTTEROPENE</speaker>
+<p>Spark nordover!</p>
+<p>Heia, &#x00D8;ivind!</p>
+</sp>
+<sp who="Arvid">
+<speaker>ARVID</speaker>
+<stage>lytter smilende:</stage>
+<p>Jeg kjenner den s&#x00E5; vel, den siste stunden, n&#x00E5;r det tok til &#x00E5; m&#x00F8;rkne nede p&#x00E5; jordet! Da var det ikke r&#x00E5;d &#x00E5; g&#x00E5; hjem, selv om vi knapt kunde se ballen; da var det eneste i verden: ikke &#x00E5; miste et minutt!</p>
+</sp>
+<sp who="Fru_Haraldsen">
+<speaker>FRU HARALDSEN</speaker>
+<p>Dom er aldeles som svalene, kvitrer og farer omkring n&#x00E5;r sola g&#x00E5;r ned; vil ikke legge sig!</p>
+</sp>
+<sp who="Haraldsen">
+<speaker>HARALDSEN</speaker>
+<stage>kommer inn haveporten: Han er en eldre, traust arbeider; glad og stolt over s&#x00F8;nnen:</stage>
+<p>N&#x00E5;, du st&#x00E5;r p&#x00E5; farten.</p>
+</sp>
+<sp who="Arvid">
+<speaker>ARVID</speaker>
+<p>Jeg tror jeg skal f&#x00E5; en jobb som assistent for resten av ferien. Det er det jeg skal bort og snakke om.</p>
+</sp>
+<sp who="Haraldsen">
+<speaker>HARALDSEN</speaker>
+<p>Da blir det kanskje ikke noe av fisketuren v&#x00E5;r til fjells, p&#x00E5; l&#x00F8;rdan.</p>
+</sp>
+<sp who="Arvid">
+<speaker>ARVID</speaker>
+<p>Den <hi rend="italic">m&#x00E5;</hi> vi n&#x00E5; f&#x00E5;, f&#x00F8;r jeg reiser, &#x2013; enten det blir s&#x00E5;nn eller s&#x00E5;nn.</p>
+</sp>
+<sp who="En_kvinnestemme">
+<speaker>KVINNESTEMMEN</speaker>
+<p>Nei, n&#x00E5; <hi rend="italic">f&#x00E5;r</hi> du komme og legge dig, Hans!</p>
+</sp>
+<sp who="Arvid">
+<speaker>ARVID</speaker>
+<stage>idet han g&#x00E5;r ut grinden:</stage>
+<p>Ikke legg dig, Hans!</p>
+</sp>
+<sp who="Fru_Rud">
+<speaker>FRU RUD</speaker>
+<stage>ser efter ham:</stage>
+<p>Ja, det er en kjekk gutt!</p>
+<p>Og han skal jo v&#x00E6;re s&#x00E5; begava.</p>
+</sp>
+<sp who="Fru_Haraldsen">
+<speaker>FRU HARALDSEN</speaker>
+<stage>soler sig:</stage>
+<p>Ja, dom sier det. Jeg vet n&#x00E5; ikke, jeg.</p>
+</sp>
+<sp who="Fru_Rud">
+<speaker>FRU RUD</speaker>
+<p>Men det er n&#x00E5; vel <hi rend="italic">dyrt</hi> &#x00E5; ha ham p&#x00E5; H&#x00F8;iskolen &#x2013;</p>
+</sp>
+<sp who="Haraldsen">
+<speaker>HARALDSEN</speaker>
+<p>Vi har et l&#x00E5;n, da &#x2013;</p>
+</sp>
+<sp who="Fru_Haraldsen">
+<speaker>FRU HARALDSEN</speaker>
+<p>Og han er ferdig til jul!</p>
+</sp>
+<sp who="Fru_Rud">
+<speaker>FRU RUD</speaker>
+<p>Han ender sikkert der oppe i sydbakken, i en av ingeni&#x00F8;rvillaene, f&#x00E5;r se sola om v&#x00E5;ren en m&#x00E5;ned f&#x00F8;r far&#x0027;n og mora si.</p>
+</sp>
+<sp who="Fru_Haraldsen">
+<speaker>FRU HARALDSEN</speaker>
+<p>Det er n&#x00E5; vel ikke det verste som kan hende&#x0027;n.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<stage>g&#x00E5;r forbi ute p&#x00E5; veien, stanser ved stakittet, nikker inn fru Haraldsen:</stage>
+<p>God aften, fru Haraldsen!</p>
+<p>God aften, fru Rud. Jeg skal bort og se Helene Haugen. Vet De hvordan det st&#x00E5;r til?</p>
+</sp>
+<sp who="Fru_Rud">
+<speaker>FRU RUD</speaker>
+<p>Det er visst det samme.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Og hvordan har vesle Leif det?</p>
+</sp>
+<sp who="Fru_Haraldsen">
+<speaker>FRU HARALDSEN</speaker>
+<stage>r&#x00F8;rt, dempet til mannen:</stage>
+<p>Hun husket navnet!</p>
+</sp>
+<sp who="Fru_Rud">
+<speaker>FRU RUD</speaker>
+<p>Jo takk, bedre.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>De ser blek og sliten ut, fru Rud.</p>
+</sp>
+<sp who="Fru_Rud">
+<speaker>FRU RUD</speaker>
+<stage>ser p&#x00E5; henne:</stage>
+<p>De vet: vi har hatt en vanskelig tid.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<stage>rammet:</stage>
+<p>Men nu sier alle vi g&#x00E5;r bedre dager i m&#x00F8;te.</p>
+<stage>Tar sin tilflukt hos barnet:</stage>
+<p>S&#x00E5; skj&#x00F8;nn han er! S&#x00E5;nne store, skinnende bl&#x00E5; &#x00F8;ine!</p>
+</sp>
+<sp who="Fru_Haraldsen">
+<speaker>FRU HARALDSEN</speaker>
+<stage>r&#x00F8;rt:</stage>
+<p>&#x00C5;, Herregud.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<stage>l&#x00F8;fter hodet, beveget:</stage>
+<p>Der er mange slags urett i verden. Jeg kjenner kanskje til det, jeg ogs&#x00E5;. De skal tro mig, fru Rud. Jeg vilde bytte i dette &#x00F8;ieblikk med Dem, hvis jeg hadde et barn som <hi rend="italic">s&#x00E5;.</hi></p>
+<p>Farvel!</p>
+<stage>Hun g&#x00E5;r videre.</stage>
+</sp>
+<sp who="Fru_Haraldsen">
+<speaker>FRU HARALDSEN</speaker>
+<p>Hun er makel&#x00F8;s!</p>
+</sp>
+<sp who="Steinbo">
+<speaker>STEINB&#x00D8;</speaker>
+<stage>en ung arbeider har st&#x00E5;tt ute p&#x00E5; veien ved porten inn til Haraldsen. Nu kommer han inn:</stage>
+<p>Jeg syntes det var f&#x00E6;rt det hun sa, jeg!</p>
+<p><hi rend="italic">Hun vilde bytte!</hi> Det var akkurat som vi skulde misunne dem der oppe. Vi misunner dem ikke. Vi vil ha dem vekk, for &#x00E5; lage en rettferdigere verden.</p>
+</sp>
+<sp who="Fru_Haraldsen">
+<speaker>FRU HARALDSEN</speaker>
+<p>Pr&#x00F8;v n&#x00E5; &#x00E5; v&#x00E6;re litt menneskelig, du au!</p>
+</sp>
+<sp who="Haraldsen">
+<speaker>HARALDSEN</speaker>
+<p>Det er lenge siden jeg har sett dig, Steinb&#x00F8;.</p>
+</sp>
+<sp who="Fru_Haraldsen">
+<speaker>FRU HARALDSEN</speaker>
+<p>Jeg s&#x00E5; dig nedp&#x00E5; brua i middags. Har du f&#x00E5;tt ferien din?</p>
+</sp>
+<sp who="Steinbo">
+<speaker>STEINB&#x00D8;</speaker>
+<stage>smilende:</stage>
+<p>Ja. Jeg har f&#x00E5;tt ferien min.</p>
+</sp>
+<sp who="Fru_Haraldsen">
+<speaker>FRU HARALDSEN</speaker>
+<stage>ser p&#x00E5; ham:</stage>
+<p>Ble du ikke tatt inn igjen?</p>
+</sp>
+<sp who="Haraldsen">
+<speaker>HARALDSEN</speaker>
+<stage>forbitret:</stage>
+<p>Det er det gamle. Rasjonaliseringen.</p>
+</sp>
+<sp who="Fru_Haraldsen">
+<speaker>FRU HARALDSEN</speaker>
+<p>De begynte med de yngste, h&#x00F8;rte jeg.</p>
+</sp>
+<sp who="Steinbo">
+<speaker>STEINB&#x00D8;</speaker>
+<p>De begynte med de farligste. Men n&#x00E5; er det viktigere ting det gjelder. N&#x00E5; gjelder det solidariteten som aldri f&#x00F8;r. Dere vet det: de legger driften om til krigsproduksjon.</p>
+</sp>
+<sp who="Haraldsen">
+<speaker>HARALDSEN</speaker>
+<p>&#x00C5;, dom sier s&#x00E5; mye.</p>
+</sp>
+<sp who="Steinbo">
+<speaker>STEINB&#x00D8;</speaker>
+<p>Men du som er tillitsmannen v&#x00E5;r, har vel &#x00F8;ine &#x00E5; se med! <hi rend="italic">S&#x00E5;</hi> du ikke, at de installerte nye apparater?</p>
+<p>Du vet n&#x00E5; vel hvordan de ser ut! Du arbeidet jo her under krigen.</p>
+</sp>
+<sp who="Haraldsen">
+<speaker>HARALDSEN</speaker>
+<p>Jeg kan si s&#x00E5; mye: jeg likte ikke akkurat det jeg s&#x00E5; idag.</p>
+</sp>
+<sp who="Steinbo">
+<speaker>STEINB&#x00D8;</speaker>
+<p>Der er bare ett svar: <hi rend="italic">streik.</hi></p>
+</sp>
+<sp who="Fru_Rud">
+<speaker>FRU RUD</speaker>
+<stage>trykker barnet til sig i angst:</stage>
+<p>Nei! Det m&#x00E5; ikke begynne n&#x00E5; igjen &#x2013;</p>
+</sp>
+<sp who="Ropende_gutter">
+<speaker>GUTTEROP</speaker>
+<p>Skyt da, Hans!</p>
+<stage>Jubel nede p&#x00E5; jordet.</stage>
+</sp>
+<sp who="Haraldsen">
+<speaker>HARALDSEN</speaker>
+<p>Ingen av oss liker vel det arbeidet.</p>
+<p>Men vi f&#x00E5;r huske: gj&#x00F8;r ikke <hi rend="italic">vi</hi> det, gj&#x00F8;r andre det.</p>
+</sp>
+<sp who="Steinbo">
+<speaker>STEINB&#x00D8;</speaker>
+<p>Ja. Slik tenkte dere under den siste krigen ogs&#x00E5;. Hvor mange procent av det sprengstoffet som gikk med, var det dere leverte?</p>
+<p>Dere tjente jo s&#x00E5; godt den gangen at dere kunde bygge nytt Folkets hus. Med litt hjelp av bedriften!</p>
+<p>Det m&#x00E5;tte v&#x00E6;re fint &#x00E5; se det r&#x00F8;de flagget folde sig ut &#x00E5;pningsdagen og vite at blodfarven var ekte nok, blodet fra alle de som dere hadde hjulpet med &#x00E5; sprenge i filler.</p>
+</sp>
+<sp who="Haraldsen">
+<speaker>HARALDSEN</speaker>
+<p>S&#x00E5;nn tenkte ingen den gangen.</p>
+</sp>
+<sp who="Steinbo">
+<speaker>STEINB&#x00D8;</speaker>
+<p>Men vi <hi rend="italic">skal</hi> tenke s&#x00E5;nn!</p>
+</sp>
+<sp who="Fru_Rud">
+<speaker>FRU RUD</speaker>
+<p>Vi vil da fred! Men &#x00E5;ffer skal vi som har det tyngst, alltid ta den st&#x00F8;rste b&#x00F8;ren?</p>
+<p>Er det det vi er skapt til?</p>
+</sp>
+<sp who="Steinbo">
+<speaker>STEINB&#x00D8;</speaker>
+<p>Ja. Det er det vi er skapt til.</p>
+</sp>
+<sp who="Fru_Haraldsen">
+<speaker>FRU HARALDSEN</speaker>
+<p>Jeg skal si dig noe, jeg, Steinb&#x00F8; &#x2013; S&#x00E5;nn snakka du ikke, hvis du hadde arbe&#x0027;. Og ikke hvis du hadde <hi rend="italic">andre</hi> &#x00E5; tenke p&#x00E5;. Barn som skulde frem.</p>
+</sp>
+<sp who="Steinbo">
+<speaker>STEINB&#x00D8;</speaker>
+<p>Ongene mine skulde ikke frem, dersom de m&#x00E5;tte svikte det som de andre sl&#x00E5;ss for. Og du veit godt hvorfor jeg ikke har arbe&#x0027;: fordi jeg ikke holdt mig i bakerste rekken under streiken. Men n&#x00E5; skal jeg nevne for dere en som <hi rend="italic">hadde</hi> arbe&#x0027;. Husker dere &#x0027;n Ottar som l&#x00E5; her med den Bergens-b&#x00E5;ten i v&#x00E5;res. Ig&#x00E5;r fikk han fem &#x00E5;rs tukthus i Tyskland, for &#x00E5; ha utdelt flyveblad.</p>
+<p>Veit dere hvem som hadde skrevet et av de opropene om fred? Han Paul Berner som holder sig med den blinde dattera oppe hos generaldirekt&#x00F8;ren. Han og noen andre forfattere gir fem kroner hver om m&#x00E5;neden, for &#x00E5; arbe&#x0027; for freden, i Tyskland.</p>
+<p>Men &#x0027;n Ottar fikk fem &#x00E5;r, og den tyskeren han gav bla&#x0027;ene til, blev halshugga, med hand&#x00F8;ks.</p>
+<p>Glem ikke &#x00E9;n ting: der er mange som stoler p&#x00E5; oss. <hi rend="italic">De venter p&#x00E5; oss.</hi>
+</p>
+</sp>
+<sp who="Haraldsen">
+<speaker>HARALDSEN</speaker>
+<p>Jeg har v&#x00E6;rt med p&#x00E5; streiker f&#x00F8;r du blev f&#x00F8;dt. Jeg tenker jeg har tatt min t&#x00F8;rn s&#x00E5; godt som noen.</p>
+<p>Men jeg er ikke s&#x00E5; ansvarsl&#x00F8;s at jeg sier til kameratene mine: N&#x00E5; har vi kjempet i fire m&#x00E5;nter og tapt. N&#x00E5; gjelder det &#x00E5; tape en streik til.</p>
+</sp>
+<sp who="Steinbo">
+<speaker>STEINB&#x00D8;</speaker>
+<p>Her er det ikke en vunnet eller tapt streik det st&#x00E5;r p&#x00E5;. Det er <hi rend="italic">livet</hi> for alle mennesker det gjelder. Det er siste kneiken opover bakken. S&#x00E5; er vi oppe, mann!</p>
+</sp>
+<sp who="Haraldsen">
+<speaker>HARALDSEN</speaker>
+<p>Det kan kanskje v&#x00E6;re langt igjen enn&#x00E5;. Vi har hatt f&#x00F8;lge hittil, Steinb&#x00F8;. Men her tenker jeg vi f&#x00E5;r skille lag.</p>
+</sp>
+<sp who="Steinbo">
+<speaker>STEINB&#x00D8;</speaker>
+<p>Om jeg s&#x00E5; skal g&#x00E5; fra hus til hus i hele byen, s&#x00E5; skal jeg f&#x00E5; skreket det ut: at det er en forbrytelse vi er med p&#x00E5;! Du skal komme til &#x00E5; skj&#x00F8;nne det, du og. Vi m&#x00E5; ta en kamp p&#x00E5; dette, &#x2013; verre, hardere enn noen gang f&#x00F8;r.</p>
+<stage>En ung lyskl&#x00E6;dd pike sykler langsomt forbi med h&#x00E5;nden p&#x00E5; en ung gutts skulder. Der er en s&#x00E5;nn fred og lykke over dette billedet, at alle uvilk&#x00E5;rlig ser ut p&#x00E5; veien.</stage>
+</sp>
+<sp who="Fru_Rud">
+<speaker>FRU RUD</speaker>
+<stage>f&#x00F8;lger dem med blikket, vender sig s&#x00E5; til Steinb&#x00F8;:</stage>
+<p>Men vil dere vi aldri skal f&#x00E5; leva da?</p>
+</sp>
+<sp who="Steinbo">
+<speaker>STEINB&#x00D8;</speaker>
+<stage>nesten mildt:</stage>
+<p>Jo. Det er jo det vi vil.</p>
+</sp>
+<sp who="En_kvinnestemme">
+<speaker>KVINNESTEMMEN</speaker>
+<stage>hauker opgitt ut i sommernatten:</stage>
+<p>Nei. Nu <hi rend="italic">m&#x00E5;</hi> du komme, Hans!</p>
+</sp>
+</div>
+<div type="uchapter" subtype="scene" n="2_3">
+<head type="sub">III</head>
+<stage>Generaldirekt&#x00F8;r Stens kontor; i bakgrunnen et veldig vindu, hvor fabrikk-anlegget som vi ante i de tidligere scenebilledene, plutselig rykker oss rett inn p&#x00E5; livet.</stage>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<stage>avslutter en diktat til sin sekret&#x00E6;r, da direkt&#x00F8;r H&#x00E5;vind kommer inn:</stage>
+<p>Und f&#x00FC;r n&#x00E4;chsten Monat haben wir Vorbereitungen getroffen die Produktion noch mehr zu erh&#x00F6;hen. Mit vorz&#x00FC;glicher og s&#x00E5; videre.</p>
+<p>Takk skal De ha.</p>
+</sp>
+<sp who="Sekret&#x00E6;ren" xml:id="Sekret&#x00E6;ren">
+<speaker>SEKRET&#x00C6;REN</speaker>
+<stage>g&#x00E5;r.</stage>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Si mig, direkt&#x00F8;r H&#x00E5;vind.</p>
+<p>St&#x00E5;r De i <hi rend="italic">meget</hi> livlig brevveksling med M&#x00FC;hlenberg i Berlin?</p>
+</sp>
+<sp who="Haavind">
+<speaker>H&#x00C5;VIND</speaker>
+<p>Som teknisk direkt&#x00F8;r sender jeg barn selvsagt rapporter som jeg tenker kan ha interesse.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>De strekker Dem meget langt i Deres tro p&#x00E5; hvad som interesserer ham.</p>
+</sp>
+<sp who="Haavind">
+<speaker>H&#x00C5;VIND</speaker>
+<p>Hvad mener De?</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Det hender at jeg r&#x00E5;df&#x00F8;rer mig med Dem og andre medarbeidere f&#x00F8;r jeg treffer en beslutning. Jeg har en f&#x00F8;lelse av at Berlin kjenner mine betenkeligheter &#x2013; eller skal vi si: ubesluttsomhet, direkt&#x00F8;r H&#x00E5;vind? lenge f&#x00F8;r avgj&#x00F8;relsen foreligger.</p>
+</sp>
+<sp who="Haavind">
+<speaker>H&#x00C5;VIND</speaker>
+<p>Det kunde jo tenkes at M&#x00FC;hlenberg bygger p&#x00E5; sine egne iakttagelser.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>N&#x00E5;?</p>
+</sp>
+<sp who="Haavind">
+<speaker>H&#x00C5;VIND</speaker>
+<p>Han festet sig muligens ved at De n&#x00F8;lte med &#x00E5; utkommandere milit&#x00E6;r under streiken.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Ja, jeg gjorde det.</p>
+<stage>G&#x00E5;r et slag, vender sig:</stage>
+<p>Er det ikke p&#x00E5; tide, H&#x00E5;vind, &#x00E5; glemme det som er roten til all uoverensstemmelse mellem oss? En m&#x00E5;tte bli den f&#x00F8;rste; og jeg har latt mig fortelle at det var p&#x00E5; faglig basis jeg blev utpekt.</p>
+</sp>
+<sp who="Haavind">
+<speaker>H&#x00C5;VIND</speaker>
+<p>Om Deres faglige overlegenhet er ikke jeg den rette til &#x00E5; uttale mig.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Nei. De er ikke det.</p>
+</sp>
+<sp who="Haavind">
+<speaker>H&#x00C5;VIND</speaker>
+<p>Men det er kanskje ikke faglig dyktighet det kommer an p&#x00E5;, for en leder idag.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>S&#x00E5;.</p>
+</sp>
+<sp who="Haavind">
+<speaker>H&#x00C5;VIND</speaker>
+<p>De har vennet Dem til et system med arbeidskamper som til syvende og sist vil &#x00F8;delegge industrien. De ser ikke at en ny tid er i anmarsj, med en eneste jernh&#x00E5;rd vilje p&#x00E5; arbeidsplassen: <hi rend="italic">v&#x00E5;r.</hi></p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Men jeg gjetter nesten hvem som ser den. H&#x00F8;r. Jeg gir Dem en advarsel. Enten vil jeg kunne dr&#x00F8;fte bedriftens anliggender med Dem i full tillit, eller jeg er n&#x00F8;dt til &#x00E5; skaffe mig en annen medarbeider. Er det klart?</p>
+<p>Annet var det ikke.</p>
+</sp>
+<sp who="Haavind">
+<speaker>H&#x00C5;VIND</speaker>
+<stage>g&#x00E5;r.</stage>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<stage>tar hustelefonen:</stage>
+<p>La ingeni&#x00F8;r Eikrem komme inn.</p>
+</sp>
+<sp who="Eikrem">
+<speaker>EIKREM</speaker>
+<stage>en ingeni&#x00F8;r i tredve&#x00E5;rene, utpreget fagmenneske, kommer inn.</stage>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<stage>smilende:</stage>
+<p>V&#x00E6;r s&#x00E5; god! Jeg har en anelse om hvorfor De kommer, Eikrem.</p>
+</sp>
+<sp who="Eikrem">
+<speaker>EIKREM</speaker>
+<p>Har De f&#x00E5;tt se p&#x00E5; det som jeg har gjort?</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Det er utvilsomt et betydelig arbeid. Som kjemiker kan jeg si Dem at jeg har gjennemg&#x00E5;tt det med interesse og respekt.</p>
+</sp>
+<sp who="Eikrem">
+<speaker>EIKREM</speaker>
+<p>Ikke sant &#x2026; De ser for en uhyre betydning min metode vil ha for hele produksjonen.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Jeg gj&#x00F8;r det.</p>
+</sp>
+<sp who="Eikrem">
+<speaker>EIKREM</speaker>
+<p>N&#x00E5;r vil De innf&#x00F8;re den ved fabrikken?</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Den vil ikke bli innf&#x00F8;rt.</p>
+<stage>Stillhet.</stage>
+</sp>
+<sp who="Eikrem">
+<speaker>EIKREM</speaker>
+<p>Samme grunn som sist?</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<stage>nikker:</stage>
+<p>Her er s&#x00E5; stor kapital investert i det maskineriet vi har, at det m&#x00E5; forrentes f&#x00F8;rst. Men vi vil selvsagt kj&#x00F8;pe opfinnelsen av Dem.</p>
+</sp>
+<sp who="Eikrem">
+<speaker>EIKREM</speaker>
+<p>For &#x00E5; l&#x00E5;se den inn i jernskapet &#x2013; inn til de andre?</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Ja.</p>
+</sp>
+<sp who="Eikrem">
+<speaker>EIKREM</speaker>
+<p>Det er kanskje &#x00E9;n grunn til &#x2013; for ikke &#x00E5; gj&#x00F8;re bruk av den.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Hvilken?</p>
+</sp>
+<sp who="Eikrem">
+<speaker>EIKREM</speaker>
+<p>Krigsproduksjonen.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Anstill Dem ikke moralsk, n&#x00E5;r De ikke mener det.</p>
+</sp>
+<sp who="Eikrem">
+<speaker>EIKREM</speaker>
+<p>Jeg trodde da jeg blev ingeni&#x00F8;r, at jeg skulde tjene produksjonen, ikke profitten.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>En illusjon som mange av oss har hatt.</p>
+</sp>
+<sp who="Eikrem">
+<speaker>EIKREM</speaker>
+<p>Men nu vil jeg ikke lenger! De f&#x00E5;r betrakte denne samtalen som en opsigelse.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Jeg gj&#x00F8;r Dem opmerksom p&#x00E5; at der er en klausul i Deres kontrakt som hindrer Dem i &#x00E5; ta ansettelse annetsteds, f&#x00F8;r to &#x00E5;r er g&#x00E5;tt.</p>
+</sp>
+<sp who="Eikrem">
+<speaker>EIKREM</speaker>
+<p>Men dette er livegenskap!</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Det st&#x00E5;r Dem fritt for &#x00E5; uttrykke Dem slik. Jeg vil kalle det: lojalitet mot Deres bedrift.</p>
+</sp>
+<sp who="Eikrem">
+<speaker>EIKREM</speaker>
+<p>Jeg har skapt en ny metode, jeg har f&#x00F8;rt noe videre, jeg har krav p&#x00E5; &#x00E5; f&#x00E5; det virkeliggjort &#x2013;</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>De f&#x00E5;r en check p&#x00E5; ti tusen kroner, og et tillegg p&#x00E5; to hundre kroner m&#x00E5;neden.</p>
+</sp>
+<sp who="Eikrem">
+<speaker>EIKREM</speaker>
+<p>Men skj&#x00F8;nner De ikke! Jeg er i mine beste &#x00E5;r nu! Jeg m&#x00E5; ikke stanses p&#x00E5; denne m&#x00E5;ten, jeg m&#x00E5; f&#x00E5; pr&#x00F8;ve mig!</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Se tiden an! S&#x00E5; skal vi se hvad vi kan gj&#x00F8;re for Dem. Eikrem.</p>
+</sp>
+<sp who="Eikrem">
+<speaker>EIKREM</speaker>
+<p><hi rend="italic">Nei!</hi> Hun sa det til mig. konen min, f&#x00F8;r jeg gikk hjemmefra imorges. St&#x00E5; fast, Einar! sa hun. Ellers g&#x00E5;r du til grunne p&#x00E5; det, sa hun.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>La mig ennu engang f&#x00E5; gj&#x00F8;re Dem opmerksom p&#x00E5; at her foreligger ikke noe valg.</p>
+<p>Checken skai bli sendt bort til Dem i l&#x00F8;pet av dagen.</p>
+<stage>Han reiser sig og strekker h&#x00E5;nden frem.</stage>
+<p>Farvel.</p>
+</sp>
+<sp who="Eikrem">
+<speaker>EIKREM</speaker>
+<stage>trykker den mekanisk og g&#x00E5;r. Bertram st&#x00E5;r et &#x00F8;ieblikk ved vinduet. Hustelefonen ringer, han tar den.</stage>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>La ham komme inn.</p>
+</sp>
+<sp who="Haraldsen">
+<speaker>HARALDSEN</speaker>
+<stage>inn.</stage>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>God dag, Haraldsen.</p>
+</sp>
+<sp who="Haraldsen">
+<speaker>HARALDSEN</speaker>
+<p>God dag.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>N&#x00E5;.</p>
+</sp>
+<sp who="Haraldsen">
+<speaker>HARALDSEN</speaker>
+<p>Det er det: vi liker ikke det som foreg&#x00E5;r p&#x00E5; fabrikken om dagen.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Noe spesielt, eller i sin almindelighet?</p>
+</sp>
+<sp who="Haraldsen">
+<speaker>HARALDSEN</speaker>
+<p>&#x00C5;, det er nok noe spesielt vi ikke liker: <hi rend="italic">ammonium-nitraten.</hi></p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Jeg er glad over at De kom for &#x00E5; dr&#x00F8;fte dette.</p>
+</sp>
+<sp who="Haraldsen">
+<speaker>HARALDSEN</speaker>
+<p>Vi vil ikke v&#x00E6;re med p&#x00E5; &#x00E5; produsere noe som lukter av krig?</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Svar mig p&#x00E5; &#x00E9;n ting, Haraldsen. Tror De jeg &#x00F8;nsker krig?</p>
+</sp>
+<sp who="Haraldsen">
+<speaker>HARALDSEN</speaker>
+<p>Nei.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Godt. Jeg vil g&#x00E5; lenger: nevn mig den industrimann i dette land som ikke med glede gav avkall p&#x00E5; alt &#x00F8;ket utbytte, hvis det bare kunde v&#x00E6;re fred.</p>
+</sp>
+<sp who="Haraldsen">
+<speaker>HARALDSEN</speaker>
+<p>Men likevel &#x2013;</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Ja. Allikevel!</p>
+<p>Vi kan ikke produsere hvad vi vil, men hvad vi kan f&#x00E5; solgt. Det er det eneste vi kan holde oss til.</p>
+<p>Ennu er ikke krigen kommet. Ennu ruster man bare, for &#x00E5; avverge den. Ingen skulde det glede mer enn mig, om verden vilde ta fornuften fangen; men v&#x00E5;r opgave er &#x00E5; tilfredsstille en eftersp&#x00F8;rsel, ikke &#x00E5; preke moral.</p>
+</sp>
+<sp who="Haraldsen">
+<speaker>HARALDSEN</speaker>
+<p>&#x00C5; nei; jeg tror ikke vi vil tilfredsstille den eftersp&#x00F8;rselen.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Hvad s&#x00E5;?</p>
+</sp>
+<sp who="Haraldsen">
+<speaker>HARALDSEN</speaker>
+<p>Vi krever krigsproduksjonen stanset.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Jeg g&#x00E5;r inn p&#x00E5; Deres tankegang. Vi stanser fabrikkene, vi avskjediger hver eneste mann for <hi rend="italic">godt.</hi> Er De s&#x00E5; forn&#x00F8;id.</p>
+</sp>
+<sp who="Haraldsen">
+<speaker>HARALDSEN</speaker>
+<p>S&#x00E5;nn hadde jeg n&#x00E5; ikke tenkt det.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Men s&#x00E5;nn hadde <hi rend="italic">jeg</hi> tenkt det! Vi er nettop kommet i gang efter en streik som jeg p&#x00E5; forhand fortalte dere at dere vilde tape. Det var ikke bare harme jeg f&#x00F8;lte, Haraldsen, i de m&#x00E5;nedene, men sorg ogs&#x00E5; over en slik meningsl&#x00F8;shet.</p>
+</sp>
+<sp who="Haraldsen">
+<speaker>HARALDSEN</speaker>
+<p>Men ongene v&#x00E5;re f&#x00F8;lte noe som kanskje generaldirekt&#x00F8;ren ikke f&#x00F8;lte &#x2013;</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Ingen bad dere! Ingen tvang dere!</p>
+<p>Men De skal vite: en arbeidsstans n&#x00E5; blir den siste i bedriftens historie.</p>
+<p>Her har gang p&#x00E5; gang v&#x00E6;rt forslag om &#x00E5; overf&#x00F8;re hele produksjonen til utlandet, hvor vi kan kj&#x00F8;pe billigere arbeidskraft. Men jeg har kjempet mot med nebb og kl&#x00F8;r. Jeg har <hi rend="italic">villet</hi> seire, og jeg har seiret.</p>
+<p>For jeg har v&#x00E6;rt med &#x00E5; bygge dette stedet fra grunnen, jeg husker som det var idag den sommerkvelden jeg kom her f&#x00F8;rste gang; her var bare ville fjellsiden og fossen, og nede ved fjorden noen fattigslige g&#x00E5;rder. &#x2013;</p>
+</sp>
+<sp who="Haraldsen">
+<speaker>HARALDSEN</speaker>
+<p>Jeg var ogs&#x00E5; med fra begynnelsen.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Husker De den natten, det f&#x00F8;rste anleggs&#x00E5;ret, da raset gikk oppe ved Juvass-demningen. Husker De hvor vi slet med &#x00E5; f&#x00E5; steinene vekk. Til min siste dag vil jeg h&#x00F8;re skrikene fra dem som l&#x00E5; under. Jeg har ennu arr i hendene mine fra den natten.</p>
+<p>Jeg minte Dem om det ifjor da De fikk tyve&#x00E5;rsmedaljen, og De husker kanskje ogs&#x00E5; jeg sa at den h&#x00F8;ieste lov i verden er alle menneskelige interessers solidaritet.</p>
+</sp>
+<sp who="Haraldsen">
+<speaker>HARALDSEN</speaker>
+<p>Jeg kjenner bedre solidariteten med kameratene mine hele jorden over, hvis en krig skulde bryte l&#x00F8;s nu. For det har alltid v&#x00E6;rt slik: det er dem som kommer under steinene.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Beh&#x00F8;ver De absolutt &#x00E5; anlegge slike perspektiver, Haraldsen? Det er ikke alle som gj&#x00F8;r det. Jeg kan nevne en episode for noen tid siden: Mannskapet p&#x00E5; en norsk b&#x00E5;t gikk fra borde, fordi de nektet &#x00E5; f&#x00F8;re krigsmateriell til Afrika. Men deres egen organisasjon sendte dem et telegram: <hi rend="italic">g&#x00E5; ombord igjen.</hi></p>
+<p>Hvad vi har &#x00E5; avgj&#x00F8;re, er det som skal skje her. Jeg vil en eneste ting: holde fabrikken i gang, gi arbeid til mine folk.</p>
+<p>Hvad vil De? De vil katastrofe. T&#x00F8;r De ta ansvaret?</p>
+</sp>
+<sp who="Haraldsen">
+<speaker>HARALDSEN</speaker>
+<p>Jeg skal legge det frem for foreningen.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Nei! Det er noe annet De skal legge frem. Jeg akter ikke lenger &#x00E5; arbeide under denne utryggheten.</p>
+<p>Vi kan vente oss angrep i avisene som krever at krigsproduksjonen skal stoppes. Jeg forlanger at arbeiderne henstiller til regjeringen at produksjonen holdes i gang.</p>
+</sp>
+<sp who="Haraldsen">
+<speaker>HARALDSEN</speaker>
+<p>Det gj&#x00F8;r vi aldri, generaldirekt&#x00F8;r Sten.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Jo, dere gj&#x00F8;r det.</p>
+<p>Pleier jeg &#x00E5; holde det som jeg lover?</p>
+</sp>
+<sp who="Haraldsen">
+<speaker>HARALDSEN</speaker>
+<p>Ja.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>S&#x00E5; skal jeg gi Dem et l&#x00F8;fte.</p>
+<p>Hvis dere ikke av all kraft st&#x00F8;tter bedriften i denne tiden, legger jeg hele byen &#x00F8;de innen seks m&#x00E5;neder. Det er mitt eget liv, femogtyve &#x00E5;r av s&#x00F8;vnl&#x00F8;se netters bekymringer, av dagers slit og glede, som jeg raserer, men jeg m&#x00E5;.</p>
+<p>Hvert eneste menneske her er avhengig av bedriften; n&#x00E5;r vi bryter op, kommer butikkene, skolene, hjemmene til &#x00E5; spikre d&#x00F8;ren igjen. Ingenting blir tilbake, ikke engang forsorgen!</p>
+<p>Jeg skal gj&#x00F8;re denne byen utd&#x00F8;dd som et nytt Pompeii. Dere vil bli et tog av titusen hjeml&#x00F8;se langs landeveiene, dere vil ligne flyktningene i den krigen som kanskje <hi rend="italic">aldri</hi> bryter ut!</p>
+<p>Forst&#x00E5;r De mig nu?</p>
+<stage>De to mennene st&#x00E5;r og ser p&#x00E5; hverandre.</stage>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>T&#x00F8;r De allikevel ta en kamp?</p>
+</sp>
+<sp who="Haraldsen">
+<speaker>HARALDSEN</speaker>
+<stage>svarer ikke, senker blikket.</stage>
+</sp>
+</div>
+<div type="chapter" subtype="act" n="3">
+<head type="main"><ref target="contents_4" xml:id="chapter_4">TREDJE AKT</ref></head>
+<div type="uchapter" subtype="scene" n="3_1">
+<head type="sub">I</head>
+<stage>Hallen. Over midnatt. Paul og Eigill sitter og drikker. Ansiktene er hvite og anspente. Paul reiser sig og g&#x00E5;r et slag rundt i v&#x00E6;relset.</stage>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Det er godt med krusifikser her i huset. Ikke ualmindelig i rike hjem. Jaja. Det m&#x00E5; v&#x00E6;re tiltalende &#x00E5; se Ham som pisket pengevekslerne, s&#x00E5; omhyggelig spikret fast.</p>
+</sp>
+<sp who="Eigill">
+<speaker>EIGILL</speaker>
+<p>Skal du snakke om religion, kan du holde dig til mor.</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Du har ikke arvet stort av gudfryktigheten hennes.</p>
+</sp>
+<sp who="Eigill">
+<speaker>EIGILL</speaker>
+<p>Narr mig ikke til &#x00E5; le.</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Hvad er det egentlig mellem dig og din mor?</p>
+</sp>
+<sp who="Eigill">
+<speaker>EIGILL</speaker>
+<p>Raker det dig?</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Det interesserer mig fordi hun er et s&#x00E5; usedvanlig fint og yndig menneske.</p>
+</sp>
+<sp who="Eigill">
+<speaker>EIGILL</speaker>
+<p>Ja, det m&#x00E5; man late henne. Hun har fylt hele huset med ynde plus martyrium. Hun har v&#x00E6;rt s&#x00E5; tapper at her ikke var til &#x00E5; puste. Hun har v&#x00E6;rt s&#x00E5; god at alle andre tapte lysten.</p>
+<p>Og <hi rend="italic">samtidig!</hi> Jeg husker noe hun sa til far ute i haven engang, de visste ikke jeg var der.</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Hvad sa hun?</p>
+</sp>
+<sp who="Eigill">
+<speaker>EIGILL</speaker>
+<p>Ja, det vilde du ha likt. &#x00C5;nei! Men har du hele livet ditt sv&#x00F8;mt omkring i en varm gj&#x00F8;rme &#x2013; for mor lager <hi rend="italic">stemning</hi> av alt, hun, &#x2013; kan du komme til &#x00E5; tenke: en stein er en anstendig ting. Alt som er hardt og kaldt, er godt.</p>
+<stage>Nikker mot krusifiksene:</stage>
+<p>Jeg har ikke noe til overs for greiene hennes.</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Det passer dig vel godt som ung, lovende forretningsmann ogs&#x00E5;. Folk av din klasse vet at de er <hi rend="italic">truet,</hi> farligere enn noengang f&#x00F8;r. Nu er det ikke lenger Gud, men vold, dere har bruk for.</p>
+</sp>
+<sp who="Eigill">
+<speaker>EIGILL</speaker>
+<p><hi rend="italic">Min</hi> klasse! Men du er utenfor. Du vil ikke sl&#x00E5;ss. Du vil bare snylte og stikke oss i ryggen.</p>
+<p>Jeg har lest boken din. Kapitlet om de prostituerte. F&#x00F8;rst har du ligget med jentene, efterp&#x00E5; har du spurt dem hvordan de blev slik, <hi rend="italic">var det samfundsforholdene?</hi></p>
+<p>Og s&#x00E5; har du skrevet, med ditt hjerteblod, for &#x00E5; f&#x00E5; penger til bedre, dyrere kvinnfolk. Er det ikke s&#x00E5;nn dere gj&#x00F8;r det, dere med sosial harme?</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Jeg tror du har overdrevne meninger om sosial harme; om hvor meget den innbringer. Ta imot en pr&#x00F8;vet manns r&#x00E5;d: velg dig en annen levevei!</p>
+</sp>
+<sp who="Eigill">
+<speaker>EIGILL</speaker>
+<p>Stol p&#x00E5;: Jeg vil heller jobbe p&#x00E5; <hi rend="italic">min</hi> m&#x00E5;te enn p&#x00E5; din. Av alle grunner!</p>
+<p>S&#x00E5;nne som du spekulerer i folks utilfredshet. Men tenkte folk mindre, hadde de det bedre!</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>I &#x00E9;n retning har du drevet det langt. I mangel p&#x00E5; fantasi. &#x00C5; v&#x00E6;re uvidende om andre &#x2013; det gir styrke. B&#x00F8;dlene i verden er ikke de grusomme, men de fantasil&#x00F8;se. B&#x00F8;rs-spekulanten, statsmannen, generalen. De som ingenting vet om menneskeskjebnene bak! De har den rette morderkulden. Sk&#x00E5;l!</p>
+<p>&#x00C9;n ting skulde jeg gjerne vite: myrdes her mer enn vi kjenner til? Selve grunnmalingen, morderfarven, har vi alle sammen, den er <hi rend="italic">likegyldigheten.</hi> Er dette menneske levende eller d&#x00F8;d? Det er mig knekkende likegyldig!</p>
+<p>I selve likegyldigheten ligger der en d&#x00F8;dsdom. Men hvor mange utf&#x00F8;rer den?</p>
+<p>For eksempel i gode hjem, hvor det kan gj&#x00F8;res i kultiverte former, og uten risiko for mistanke? Dannede, stillferdige mord med presentable motiver: griskhet, kalkylen efter &#x00E5; f&#x00E5; mest?</p>
+</sp>
+<sp who="Eigill">
+<speaker>EIGILL</speaker>
+<p>Siden vi sitter i et godt hjem, &#x2013; hadde du mot p&#x00E5; et mord?</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Det er h&#x00E5;ndgrepet det kommer an p&#x00E5;. Det gjelder &#x00E5; redusere h&#x00E5;ndgrepets motbydelighet til det minst mulige. Og der skulde jeg kanskje ha betingelser.</p>
+<p>Det sies at for &#x00E5; v&#x00E6;re en god forfatter, m&#x00E5; man
+<hi rend="italic">huske</hi> godt. Jeg er ikke forfatter lenger, jeg er her. Men kanskje kunde jeg bruke fantasien til &#x00E5; <hi rend="italic">glemme</hi> usedvanlig godt. &#x00C5; koncentrere alle evner om &#x00E5; skyve en handling ut i et grenseland: gjorde jeg det? gjorde jeg det ikke?</p>
+<stage>Tar en liten flaske med sovemidler op av lommen. Stanser og lytter.</stage>
+<p>H&#x00F8;rer du de arbeider nede i laboratoriet. Vet du hvad det er?</p>
+</sp>
+<sp who="Eigill">
+<speaker>EIGILL</speaker>
+<p>Nei. Men det er n&#x00E5; hyggelig &#x00E5; vite at de arbeider for oss, dag og natt. For <hi rend="italic">oss,</hi> sa jeg. Tror du det er for dig, kanskje? Er det sovemidler du skal ta?</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Hyacin morfium. Jeg vil til sengs.</p>
+<stage>Heller en tablett ut:</stage>
+<p>Dette er en ypperlig vane som du ogs&#x00E5; skulde legge dig til.</p>
+</sp>
+<sp who="Eigill">
+<speaker>EIGILL</speaker>
+<p>Takk, jeg sover utmerket.</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Det gj&#x00F8;r jeg ogs&#x00E5;. Men jeg tar ingen un&#x00F8;dig risiko.</p>
+</sp>
+<sp who="Eigill">
+<speaker>EIGILL</speaker>
+<p>Nei vent.</p>
+<p>Det kunde v&#x00E6;re et par ting jeg hadde lyst &#x00E5; snakke om. Men vi g&#x00E5;r op til mig. Nu har vi far og mor snart, s&#x00E6;rlig mor.</p>
+<stage>Reiser sig.</stage>
+<p>Jeg hadde nemlig tenkt at denne kvelden skulde v&#x00E6;re den siste du var her i huset.</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<stage>truende, p&#x00E5; vakt:</stage>
+<p>S&#x00E5; det hadde du.</p>
+</sp>
+<sp who="Eigill">
+<speaker>EIGILL</speaker>
+<p>Det passer mig ikke.</p>
+<p>Er det femogtyve tusen du skal ha om &#x00E5;ret n&#x00E5;r du overtar Matti?</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Er du overveldet?</p>
+<p>Jeg har regnet det grundig igjennem, og jeg er snarere bekymret. Vi er to, vi skal reise, se fremmede land, dyr sol, kostbare stjerner, luksusbrenninger.</p>
+<p>Det er i virkeligheten i knappeste laget.</p>
+</sp>
+<sp who="Eigill">
+<speaker>EIGILL</speaker>
+<p>Det blir ingenting av!</p>
+<p>N&#x00E5;r den tid kommer, m&#x00E5; det g&#x00E5; an &#x00E5; f&#x00E5; Matti gift med en innenfor v&#x00E5;r egen krets som kan fors&#x00F8;rge henne.</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Har du utnevnt dig til eneste barn her i huset?</p>
+</sp>
+<sp who="Eigill">
+<speaker>EIGILL</speaker>
+<p><hi rend="italic">Du glemmer far!</hi></p>
+<p>Alle vet vi at du tar ikke Matti for hennes smukke &#x00F8;ines skyld. Men far hater dig.</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<stage>h&#x00E5;rdt, eftertenksomt:</stage>
+<p>Det er riktig hvad du sier om din far.</p>
+</sp>
+<sp who="Eigill">
+<speaker>EIGILL</speaker>
+<p>Han trenger bare et lite puff. Imorgen tidlig snakker jeg med ham. S&#x00E5; er det: ut! G&#x00E5; tilbake dit du kom fra. Begynn p&#x00E5; skrivingen igjen!</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<stage>ser sig om:</stage>
+<p>Her var godt &#x00E5; v&#x00E6;re. Her var fred. Jeg er langt borte, n&#x00E5;r jeg er her.</p>
+<p>Jeg har ikke noe &#x00E5; skrive om. Ingen har noe &#x00E5; skrive om! Jeg vil v&#x00E6;re her.</p>
+</sp>
+<sp who="Eigill">
+<speaker>EIGILL</speaker>
+<p>Du vil? &#x00C5; nei. Jeg har bruk for pengene selv.</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Du synes her er &#x00E9;n for mange av oss?</p>
+</sp>
+<sp who="Eigill">
+<speaker>EIGILL</speaker>
+<p>Ja.</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Om <hi rend="italic">jeg</hi> syntes det samme! Kanskje jeg ikke har trang til &#x00E5; dele, jeg heller. Kanskje jeg har tilpasset &#x00E6;rgjerrigheten min efter det som har verd her! &#x00C5; f&#x00E5; mest! Jeg har v&#x00E6;rt l&#x00E6;rvillig!</p>
+</sp>
+<sp who="Eigill">
+<speaker>EIGILL</speaker>
+<p>Du har trengt dig hit inn, og n&#x00E5; blir du lempet ut igjen. Mer er det ikke.</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Jeg er ikke en fremmed! Skiller jeg mig ut? Jeg har n&#x00E6;ringsvett, jeg ogs&#x00E5;, &#x2013; jeg har sviktet livet mitt. det vil jeg ha noe igjen for. Er jeg ikke begynt &#x00E5; ligne dig kanskje? Det er ansiktet <hi rend="italic">ditt</hi> jeg ser, n&#x00E5;r jeg ser mig i speilet.</p>
+</sp>
+<sp who="Eigill">
+<speaker>EIGILL</speaker>
+<p>Da m&#x00E5; du vel v&#x00E6;re glad!</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Ja! Jeg er glad!</p>
+<p>Akkurat s&#x00E5; glad at jeg har lyst til &#x00E5; knuse speilet.</p>
+</sp>
+<sp who="Eigill">
+<speaker>EIGILL</speaker>
+<p>S&#x00E5; det er s&#x00E5;nn det f&#x00F8;les &#x2013; n&#x00E5;r man skal g&#x00E5; fra de pengene man forakter! Det er n&#x00E5; liv i pengene enn&#x00E5;, later det til. Be for dig, men det skal ikke nytte dig! Slikk f&#x00F8;ttene mine, for faen!</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Ta seltersen.</p>
+<p>S&#x00E5; tar jeg flasken og glassene.</p>
+<stage>Eigill g&#x00E5;r op trappen.</stage>
+<stage>Paul tar sovemidlet op fra bordet, st&#x00E5;r et &#x00F8;ieblikk og ser fremfor sig. S&#x00E5; f&#x00F8;lger han efter.</stage>
+<stage>Bertram og Celine kommer inn, selskapskl&#x00E6;dd.
+</stage>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>S&#x00E5; du stjerneskuddet.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Hvad &#x00F8;nsker du dig?</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<stage>legger armen om henne:</stage>
+<p>Jeg har f&#x00E5;tt d&#x00E9;t, som jeg &#x00F8;nsker mig.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<stage>g&#x00E5;r fra ham:</stage>
+<p>Det er noe jeg gjerne vil snakke med dig om.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Jeg skal komme til dig om en halv time. Jeg har noe arbeide.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Skal du inn p&#x00E5; kontoret?</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<stage>ser p&#x00E5; henne:</stage>
+<p>Nei.</p>
+<p>I laboratoriet.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Hvad er det som foreg&#x00E5;r der nede?</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Viktige fors&#x00F8;k.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Jeg skj&#x00F8;nner de er viktige &#x2013; og hemmelige &#x2013; n&#x00E5;r du foretar dem her.</p>
+<stage>Med en ro som dirrer:</stage>
+<p>Er det s&#x00E5; at hele driften er lagt om til krigsproduksjon?</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Ja.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Men arbeiderne &#x2013;</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>De har b&#x00F8;iet sig.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Men <hi rend="italic">du,</hi> Bertram!</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Sett dig her, s&#x00E5; skal jeg forklare dig alt.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Nei, jeg vil ikke h&#x00F8;re dette!</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Vil du eller vil du ikke?</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<stage>rolig, h&#x00E5;rdt:</stage>
+<p>Si det.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Som du vet tilh&#x00F8;rer bedriften her et kjemisk kartell som best&#x00E5;r av en rekke fabrikker rundt om i Europa. Alle sammen er i fredstid innstillet p&#x00E5; fabrikasjon av kvelstoffgj&#x00F8;dning. I dette &#x00F8;ieblikk er der behov for store mengder sprengstoff. &#x2013;</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Og dette <hi rend="italic">behovet</hi> er det du vil tilfredsstille &#x2013;</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>H&#x00F8;r nu.</p>
+<p>Der trenges <hi rend="italic">ogs&#x00E5;</hi> gj&#x00F8;dningsstoffer. I aller h&#x00F8;ieste grad! Jorden m&#x00E5; dyrkes dobbelt intensivt, ved at s&#x00E5; megen arbeidskraft tas bort fra landbruket.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Til krigen.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Ja til krigen!</p>
+<p>Kvelstoffgj&#x00F8;dning vil alts&#x00E5; v&#x00E6;re ytterst efterspurt, og vi kan faktisk bestemme v&#x00E5;r egen pris.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Men hvorfor holder du dig ikke til det?</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Riktig! Det er problemstillingen.</p>
+<p>Det hele er et skj&#x00F8;nnssp&#x00F8;rsm&#x00E5;l, en teknisk fordeling av opgavene. Noen fabrikker m&#x00E5; brukes til gj&#x00F8;dning, andre til sprengstoff. Det er <hi rend="italic">ikke</hi> et moralsk sp&#x00F8;rsm&#x00E5;l. Det er grovt hykleri &#x00E5; anlegge den m&#x00E5;lestokken p&#x00E5; det. Under disse omstendigheter er den produksjon som resulterer i et kornaks, ikke det spor <hi rend="italic">bedre</hi> enn den som resulterer i et kors.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>G&#x00E5; fra alt, Bertram.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Og la en eller annen H&#x00E5;vind slippe til? Nei! Dessuten, Celine! Vi h&#x00F8;rer til i dette samfudet. Det er meget i det som kan fylle oss med smerte og gru. Men det er v&#x00E5;rt. Det har gitt oss mange lykkelige ting, skj&#x00F8;nnhet, en egen verden hvis sprog vi forst&#x00E5;r; det har gitt mig dig. Vi f&#x00E5;r v&#x00E6;re trofaste mot det til slutten.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Resignasjon! Den likegyldigste f&#x00F8;lelsen i livet. Er der ikke noe som heter <hi rend="italic">kamp?</hi></p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Vil du jeg skal g&#x00E5; over p&#x00E5; den andre siden?</p>
+<stage>Vemodig bittert.</stage>
+<p>&#x00C5;nei, Celine.</p>
+<p>Jeg blir her. Og <hi rend="italic">kamp</hi> blir her nok gudbedre p&#x00E5; den posten jeg st&#x00E5;r.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Jeg forakter dig.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Nei. Det gj&#x00F8;r du ikke. Da m&#x00E5;tte du ha foraktet mig hver dag vi har levet sammen. For det vi snakker om i natt er bare en konsekvens av mitt arbeid gjennem mange &#x00E5;r.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Jeg trodde du visste veien. At du mestret alt og alle. Og det gj&#x00F8;r du ikke. Derfor forakter jeg dig.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Og jeg elsker dig.</p>
+<p>Jeg elsker det ville sinnet ditt som reagerer s&#x00E5;nn. Nu flammer du mot mig i forakt. Men hvad betyr det mot at du <hi rend="italic">flammer?</hi></p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<stage>ser p&#x00E5; ham:</stage>
+<p>V&#x00E6;r ikke s&#x00E5; sikker.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Skal dette fjerne oss fra hverandre, Celine.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Fjerne oss?</p>
+<p>Jeg har hatt aktelse for dig. Nu vet jeg bedre.</p>
+<stage>G&#x00E5;r n&#x00E6;r bort til ham.</stage>
+<p>Men det har ikke <hi rend="italic">fjernet</hi> mig fra dig.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Hvad mener du.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Det er som jeg er kommet n&#x00E6;rere til dig. Til dig, Bertram.</p>
+<p>Aktelsen er ikke mellem oss lenger, nu er du bare <hi rend="italic">min.</hi> Skaml&#x00F8;st!</p>
+<stage>Kysser ham.</stage>
+<p>Nu er det bare oss.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Du ville Celine!</p>
+<stage>De g&#x00E5;r sammen bortover, p&#x00E5; vei inn selv.</stage>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<stage>stanser og peker p&#x00E5; bordet, hvor askebegeret st&#x00E5;r:</stage>
+<p>Her har Paul sittet.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<stage>med kulde:</stage>
+<p>Savner du ungdommen.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<stage>ler.</stage>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Du er litt betatt av Paul.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<stage>foran speilet:</stage>
+<p>S&#x00E5; dum en mann kan v&#x00E6;re.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Jeg s&#x00E5; dere sammen ute i parken imorges. Du tok efter h&#x00E5;nden hans &#x2013;</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Skal jeg si dig noe. <hi rend="italic">Jeg kom fra dig.</hi> Da falt der kanskje en glans av lykke, av forelskelse! p&#x00E5; ham ogs&#x00E5;.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>S&#x00E5; du er forelsket i ham &#x2013;</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Det vilde v&#x00E6;re en overdrivelse om jeg sa: Jeg f&#x00F8;ler ingenting.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Jeg tror dig ikke.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<stage>l&#x00F8;fter h&#x00E5;nden og sverger.</stage>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Husk du har bedratt mig engang.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Det vet jeg ingenting om. Jeg husker ikke det sludderet.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p><hi rend="italic">Jeg</hi> husker det.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Engang trodde du mig. At det var for din skyld jeg gjorde det. Alt vilde jeg gj&#x00F8;re for dig, for min kj&#x00E6;rlighet til dig! Var jeg borte fra dig, kunde jeg g&#x00E5; i sneen med nakne f&#x00F8;tter tusen mil for &#x00E5; finne dig.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Men dette &#x2013;</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Ja!</p>
+<p>Dengang jeg hadde f&#x00E5;tt Matti, elsket du mig ikke lenger. F&#x00F8;rst ammelukten, melkelukten, jeg var mor, ikke det du vilde ha. S&#x00E5; kom hjernebetendelsen, jeg var sykepleierske, du glemte at jeg var kj&#x00F8;nn. Derfor var det jeg gjorde det, jeg vilde du skulde vite at jeg var elskerinne. Jeg vilde vekke lysten din.</p>
+<p>Jeg elsker dig.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Du. <hi rend="italic">Min!</hi> Celine.</p>
+<stage>Han slukker lyset. De g&#x00E5;r.</stage>
+<stage>M&#x00E5;nestr&#x00E5;lene faller p&#x00E5; krusifikset.</stage>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<stage>kommer inn. Hun setter sig for &#x00E5; vente p&#x00E5; noen. Plutselig b&#x00F8;rer vi det g&#x00E5;r i trappen.</stage>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<p>Paul!</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<stage>i et gisp:</stage>
+<p>Er det dig, Matti?</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<stage>leende:</stage>
+<p>Blev du skremt?</p>
+<p>Skal jeg tende lyset for dig? Du er ikke noe flink &#x00E5; finne frem, synes jeg.</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Ikke tend.</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<p>Visste du ikke jeg kom?</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Jo.</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<p>Jeg sa jeg la mig, for da tenkte jeg du blev fortere ferdig med Eigill. Sover han?</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Jeg vet ikke.</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<p>Hyss. H&#x00F8;rer du?</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Jeg h&#x00F8;rer ikke noe.</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<p>Det var likesom en st&#x00F8;nnet.</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Matti &#x2013; skal vi g&#x00E5; op, og se &#x2013;?</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<p>Nei.</p>
+<p>Vet du hvad jeg gjorde mens dere satt her. Jeg leste om igjen noen av artiklene dine om freden, Paul.</p>
+<p>Jeg har f&#x00E5;tt dem skrevet av, alle sammen. Og f&#x00F8;rst i natt forstod jeg hvad du mente &#x2013;</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Hvorfor f&#x00F8;rst i natt?</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<p>Vet du hvad som skjer under f&#x00F8;ttene v&#x00E5;re, Paul? Jeg h&#x00F8;rte noen av ingeni&#x00F8;rene snakke sammen ute i haven, de var oppe for &#x00E5; trekke frisk luft.</p>
+<p>Det er en ny giftgass de eksperimenterer med.</p>
+<stage>Stillhet.</stage>
+<p>Er det ikke forferdelig?</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Jo.</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<p>Det er som hele huset er forgiftet. Hele barndommen min, mors godhet, fars penger, alt er forgiftet! Det er du som har l&#x00E6;rt mig &#x00E5; forst&#x00E5; det &#x2013;</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<stage>begraver hodet i fanget hennes:</stage>
+<p>&#x00C5; Matti &#x2013;</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<p>Er du redd for noe?</p>
+<stage>Lytter:</stage>
+<p>Nei. Nu er det stille ovenp&#x00E5;.</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>G&#x00E5; ikke fra mig.</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<p>Hvad er det med dig i kveld, Paul.</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Ingenting. <hi rend="italic">Ingenting!</hi></p>
+<p>Jeg lengter bare efter dig, Matti.</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<p>&#x00C5;, du min egen.</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<stage>kysser henne:</stage>
+<p>Jeg elsker dig s&#x00E5;nn.</p>
+<p>Gi mig fred, Matti.</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<p>Ja, Paul.</p>
+<stage><p rend="center">Teppet.</p></stage>
+</sp>
+</div>
+<div type="uchapter" subtype="scene" n="3_2">
+<head type="sub">II</head>
+<stage>Neste formiddag.</stage>
+<stage>Hallen. Et vell av blomster.</stage>
+<stage>Bertram st&#x00E5;r, m&#x00F8;rkkl&#x00E6;dd, ved vinduet.</stage>
+<sp who="Bors">
+<speaker>B&#x00D8;RS</speaker>
+<stage>kommer inn og trykker Bertrams h&#x00E5;nd:</stage>
+<p>Kj&#x00E6;re Sten. Jeg h&#x00F8;rer jeg kommer p&#x00E5; en sorgens dag. Min inderligste deltagelse! S&#x00E5; plutselig. Uten forutg&#x00E5;ende sykdom?</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Eigill hadde alltid et d&#x00E5;rlig hjerte.</p>
+</sp>
+<sp who="Bors">
+<speaker>B&#x00D8;RS</speaker>
+<p>Tragisk!</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Kommer du sydfra &#x2013;</p>
+<p>Noe nytt?</p>
+</sp>
+<sp who="Bors">
+<speaker>B&#x00D8;RS</speaker>
+<p>M&#x00FC;hlenberg var meget bekymret. Som du vet mener han at der rundt i Europa forberedes en rekke konkurrerende bedrifter, som bygger p&#x00E5; fabrikkhemmeligheter herfra. Jeg vil ikke skjule for dig at han er meget opbragt over at det ikke er lykkes &#x00E5; komme spionasjen til livs.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Det <hi rend="italic">er</hi> lykkes mig.</p>
+<p>Jeg fikk rapporten fra v&#x00E5;rt politi for en time siden. Jeg skal sl&#x00E5; til.</p>
+<stage>Stillhet.</stage>
+<p>Men er det verd? Jeg har tenkt over mitt liv og min stilling i disse morgentimene. Jeg har bare et eneste &#x00F8;nske: &#x00E5; g&#x00E5; fra alt.</p>
+</sp>
+<sp who="Bors">
+<speaker>B&#x00D8;RS</speaker>
+<p>Jeg kan forst&#x00E5; dig.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<stage>ser forbauset p&#x00E5; ham:</stage>
+<p>Kan du det?</p>
+<p>Det var merkelig!</p>
+<p>Hvad er det som bringer dig p&#x00E5; disse kanter? Jeg trodde du skulde v&#x00E6;re borte dine &#x00E5;tte m&#x00E5;neder.</p>
+</sp>
+<sp who="Bors">
+<speaker>B&#x00D8;RS</speaker>
+<stage>beveget:</stage>
+<p>Der kommer dager da man sl&#x00E5;r en strek over de meningsl&#x00F8;sheter og overgrep som man har v&#x00E6;rt gjenstand for. Da blir landet som en gammel mor hos hvem man vil dele onde og gode dager.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Hvad er hendt dig?</p>
+</sp>
+<sp who="Bors">
+<speaker>B&#x00D8;RS</speaker>
+<stage>dempet:</stage>
+<p>Du gj&#x00F8;r dig ikke noen forestilling om hvordan det st&#x00E5;r til ute i Europa. Jeg var nylig i M&#x00FC;nchen, da et aeroplan falt ned i en av gatene.
+<hi rend="italic">Luftbomber!</hi> skrek folk, og styrtet bortover i panikk. Like efter s&#x00E5; jeg en nattman&#x00F8;vre over Paris &#x2013; d&#x00E9;r var samme f&#x00F8;lelsen: n&#x00E5; bryter det ut! hver dag kan det komme! Og tenk dig &#x2013; disse byene fulle av millioner mennesker som vil trampe av g&#x00E5;rde lik rasende b&#x00F8;fler! Nei, da vender man hjem &#x2013; til uber&#x00F8;rtheten og ensomheten!</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Hvor vil du sl&#x00E5; dig ned?</p>
+</sp>
+<sp who="Bors">
+<speaker>B&#x00D8;RS</speaker>
+<p>I en norsk fjelldal! Jeg vil dyrke jorden, jeg vil kare min egen ull. Jeg vil kunne skaffe det n&#x00F8;dvendige til mig og mine.</p>
+<p>Og hvis det ikke g&#x00E5;r verre denne gang enn under verdenskrigen, hvis det best&#x00E5;ende samfund ennu en gang viser sin livskraft &#x2013; godt, da vender jeg tilbake, og ikke som en fattigere mann. Men hvis det verste skulde skje, er det godt h&#x00E5;p om &#x00E5; overleve det i de bramfri forhold jeg akter &#x00E5; leve under.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Lykke til!</p>
+</sp>
+<sp who="Bors">
+<speaker>B&#x00D8;RS</speaker>
+<p>Som gammel venn sier jeg til dig og Celine: f&#x00F8;lg mitt eksempel! Dette anlegget blir noe av det f&#x00F8;rste bombeflyene tar. F&#x00E5; dig en liten g&#x00E5;rd, noe &#x00E5; falle tilbake p&#x00E5;.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Takk for ditt r&#x00E5;d &#x2013;</p>
+</sp>
+<sp who="Bors">
+<speaker>B&#x00D8;RS</speaker>
+<p>V&#x00E6;r sikker p&#x00E5; at min hustru og jeg vil sende dere mange varme tanker, der vi sitter oppe i &#x00F8;demarken!</p>
+<stage>Han g&#x00E5;r.</stage>
+<stage>Celine kommer ned trappen. Hun er sortkl&#x00E6;dd.</stage>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<stage>hviskende:</stage>
+<p>Jeg forst&#x00E5;r ikke uttrykket i ansiktet hans.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Du skal ikke sitte der oppe, time efter time.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Jeg har sett d&#x00F8;de f&#x00F8;r. Jeg husker min mor. Det var som ansiktet fikk et klart, overjordisk lys, dagene efter hun var d&#x00F8;d. Ansiktet var som et l&#x00F8;fte. Men Eigills uttrykk, det er s&#x00E5; bittert, s&#x00E5; h&#x00E5;nlig. Og det er likesom han <hi rend="italic">gjennemskuet</hi> noe.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Lov mig, Celine: ikke g&#x00E5; mer dit. Det river dig bare op.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Nei, det l&#x00F8;fte kan jeg ikke gi dig. For jeg synes det er som Eigill vil si noe. Og jeg vil vite hvad det er.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<stage>efter en stilhet:</stage>
+<p>Jeg ringte med hans kompagnon nettop. Eigill hadde spekulert ganske meget i det siste og hadde hatt betraktelige tap; men ikke av en ekstraordin&#x00E6;r natur.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>S&#x00E5; lite vi vet om hverandre! Han har vist oss et rolig ansikt, han likte jo best &#x00E5; holde oss p&#x00E5; avstand, men <hi rend="italic">under</hi> har der v&#x00E6;rt sorger, latterlige, meningsl&#x00F8;se sorger &#x2013;</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Jeg kunde jo s&#x00E5; lett ha hjulpet ham &#x2013;</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Han har ikke tordet g&#x00E5; til oss, Bertram. Han har v&#x00E6;rt ydmyket, skamfull. Hvorfor visste vi ikke at det var slik han var.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Vi skj&#x00F8;nte for lite. Vi er kommet til kort, Celine.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Nei!</p>
+<p>Dette kan ikke v&#x00E6;re slutten! Ig&#x00E5;r levet han, spilte tennis, snakket, tenkte, skulde v&#x00E5;kne imorges, komme ned til frokost, han skal ikke ligge slik, med den bitterheten, som aldri, aldri h&#x00F8;rer op. For dette er jo ikke d&#x00F8;den! Det er en misforst&#x00E5;else!</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<stage>kommer inn.</stage>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Paul &#x2013; De var den siste som var sammen med Eigill. Merket De noe usedvanlig p&#x00E5; ham?</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Nei.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Nevnte han noe for Dem at han led av s&#x00F8;vnl&#x00F8;shet?</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Ikke nu. Men jeg husker han snakket om det i England.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Ja; det var i England sovemidlet var kj&#x00F8;pt.</p>
+<p>Var Eigill bekymret for sine forretninger, vet De det?</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Han var kanskje ikke helt forn&#x00F8;iet.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Men derfra og til &#x2013;</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Kan De gi oss noen forklaring, Paul?</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Det m&#x00E5; ha v&#x00E6;rt en plutselig, uoverveiet innskytelse. Han syntes kanskje det ikke var s&#x00E5; skremmende &#x00E5; g&#x00E5; over grensen mellem liv og d&#x00F8;d.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Mener De at Eigill <hi rend="italic">trodde?</hi> Trodde p&#x00E5; et liv efter d&#x00F8;den?</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Det var kanskje et liv <hi rend="italic">f&#x00F8;r</hi> d&#x00F8;den han ikke trodde p&#x00E5;.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>De var ikke Eigills venn!</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Nei, nei, Bertram! Nu gjelder det &#x00E5; <hi rend="italic">forst&#x00E5;!</hi> Vi er tvert imot meget lykkelige, Paul, over at De er her. At De kan st&#x00F8;tte Matti denne tunge tiden.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Du har rett, Celine.</p>
+<p>Jeg har kanskje hatt imot Dem, Paul. La det v&#x00E6;re glemt!</p>
+<p>Det er sjelden jeg ber om hjelp, men nu gj&#x00F8;r jeg det.</p>
+<p><hi rend="italic">Vet De mer enn oss?</hi></p>
+<p>For det mest tragiske for Eigills far og mor er dette at han i siste &#x00F8;ieblikk ikke <hi rend="italic">vilde</hi> d&#x00F8;. Han har kr&#x00F8;pet fra sengen og bort mot d&#x00F8;ren. Han har villet rope om hjelp, men har ikke hatt krefter til det. H&#x00F8;rte De ingenting?</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Nei.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p><hi rend="italic">Og vi</hi> &#x2013;</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Selvbebreidelser kaller ikke gutten til live.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Det er et billede jeg ikke f&#x00E5;r bort. Eigill d&#x00F8;ende oppe i v&#x00E6;relset sitt &#x2013; fortvilet, <hi rend="italic">&#x00E5; s&#x00E5; ensom!</hi> Han l&#x00E5; like ved den vesle bokhyllen, med alle de slitte gutteb&#x00F8;kene, og p&#x00E5; veggen den utstoppede tiuren &#x2013; den f&#x00F8;rste han skj&#x00F8;t! Det var hans barndom som var omkring ham, da han bestemte sig. <hi rend="italic">Sa ikke den ham noe?</hi></p>
+<p>Nei, Bertram! Den sa ham ikke noe. Ikke noe om tillit og trygghet, ikke noe om kj&#x00E6;rlighet. Det var kj&#x00E6;rlighet som han ropte p&#x00E5;, da han pr&#x00F8;vde &#x00E5; komme sig bort til d&#x00F8;ren.</p>
+<p>Han l&#x00E5; der og vilde leve. Men dette d&#x00F8;de, store, forferdelige huset h&#x00F8;rte ham ikke. Hvad hjelper rikdommen oss? Den svarte ikke Eigill, da han skulde d&#x00F8;, og den svarer ikke mig.</p>
+<stage>Et dumpt smell h&#x00F8;res nede i laboratoriet.</stage>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Hvad var det? Var det noe som eksploderte nede i laboratoriet?</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<stage>med jernro:</stage>
+<p>Det er bare en del av eksperimentet.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Er du sikker?</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Ja.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Ikke mer nu.</p>
+<p>Ikke mer.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Jeg m&#x00E5; g&#x00E5; ned, og delta i avslutningen.</p>
+<p>Jeg skal ikke v&#x00E6;re lenge.</p>
+<stage>Han g&#x00E5;r ned gjennem d&#x00F8;ren til laboratoriet.</stage>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<stage>til Paul:</stage>
+<p>De f&#x00E5;r b&#x00E6;re over med mig.</p>
+<p>Gi mig bare noen dager!</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Jeg kommer til &#x00E5; reise idag.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Skal De reise &#x2026; langt?</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Ja. Langt og for bestandig.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Hvad sier Matti?</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Matti forst&#x00E5;r det.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Men elsker De henne ikke?</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Jeg kan ikke elske. Ikke nok. Ikke varig. Det er noe som er sterkere, noe som roper p&#x00E5; mig.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Hvorhen vil De?</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Til krigen.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Er det ikke Dem som alltid har skrevet om <hi rend="italic">fred.</hi></p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>I natt forstod jeg det. Hver gang det s&#x00E5; fredelig ut i verden, f&#x00F8;lte jeg det som en uutholdelig byrde blev lagt p&#x00E5; mig: du skal <hi rend="italic">leve</hi> &#x2013; p&#x00E5; lang sikt! Men hver gang det m&#x00F8;rknet til, da ropte jeg triumferende ut advarselen! <hi rend="italic">Jeg, fredshisseren!</hi> Jeg hjalp med &#x00E5; holde angsten vedlike, for den var vissheten om at det skulde komme dager da all skam, all svik skulde g&#x00E5; under.</p>
+<p>Da vilde det bli fred.</p>
+<p>Derfor sier jeg: velsignede krig!</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>De stakkars grusomme menneske &#x2013; frykter De ikke d&#x00F8;den?</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Det er bedre &#x00E5; styrte d&#x00F8;den i m&#x00F8;te, enn &#x00E5; bli innhentet av den.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Jeg kunde kanskje forst&#x00E5; noe &#x2013; hvis det var en <hi rend="italic">sak</hi> De vilde d&#x00F8; for. Men De &#x2013;</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>En sak? Det er for meget. Et menneske nu kan bare opn&#x00E5; en eneste lykke: &#x00E5; vite hvilken side han skal d&#x00F8; p&#x00E5;. Det privilegiet har ikke jeg fortjent.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Nu gir De svaret p&#x00E5; noe jeg spurte Dem om engang: er det h&#x00E5;pl&#x00F8;sheten De vil? Men <hi rend="italic">jeg</hi> vil ikke!</p>
+<p>Mot Deres tilintetgj&#x00F8;relse setter jeg det som jeg tror p&#x00E5;: barmhjertigheten! Mot Deres m&#x00F8;rke setter jeg et brennende lys: v&#x00E5;r gode vilje.</p>
+<p>Har De lest i avisene om r&#x00F8;dekors-lasarettene som er blitt bombardert. Der ute i den krigen De g&#x00E5;r til, vil De treffe kvinner og menn som ikke vil &#x00F8;ke grusomheten, men utrydde den.</p>
+<p>Jeg har gitt noen penger, jeg har arbeidet litt, for &#x00E5; f&#x00E5; ambulansene dit ut. <hi rend="italic">Ingenting</hi> har jeg gjort!</p>
+<p>Men fra denne dagen skal jeg gi alle kreftene mine til det arbeidet. Jeg skal pr&#x00F8;ve p&#x00E5; &#x00E5; v&#x00E6;re blandt motstanderne Deres; bestandig skal De m&#x00F8;te det som jeg tror p&#x00E5;.</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Jeg skulde &#x00F8;nske jeg kunde tro p&#x00E5; det &#x2013;</p>
+<p>Dere heiser et flagg over noen telter; og drepes et menneske der inne, roper verden op i avsky. Midt i en krig, hvor titusener blir blindet, s&#x00F8;nderrevet, gasskvalt, blir der skapt en l&#x00F8;gn om at et menneskeliv betyr noe. Barmhjertigheten gj&#x00F8;r at krigen blir t&#x00E5;lt, krigen er ikke bare ond!</p>
+<p>Alt tjener det samme, hat og barmhjertighet, kampen for fred, kampen for krig, slenges inn p&#x00E5; det store b&#x00E5;let <hi rend="italic">hvor alt brenner!</hi></p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<stage>heftig beveget:</stage>
+<p>De mener: der skal ikke v&#x00E6;re plass for godheten i verden? Er det d&#x00E9;t De vil?</p>
+<p>Jeg har mistet en s&#x00F8;nn idag. Han er g&#x00E5;tt ut av livet, kanskje fordi vi ikke holdt nok av ham. Jeg vilde s&#x00E5; gjerne gj&#x00F8;re noe godt igjen mot livet; er det min <hi rend="italic">vilje</hi> De pr&#x00F8;ver &#x00E5; ta fra mig?</p>
+<stage>Han setter sig. Plutselig sl&#x00E5;r hun hendene for ansiktet.</stage>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Jeg skal gi Dem en gave. Eigill tok ikke livet av sig.</p>
+<p>Det var jeg som drepte ham.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<stage>har reist sig:</stage>
+<p>Dette er ikke sant &#x2013;</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Jo. Jeg hatet ham. Jeg helte gift i glasset hans.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Har De myrdet gutten min &#x2013;</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<p>Ja.</p>
+<p>Det er ikke n&#x00F8;dvendig at De g&#x00E5;r til politiet med dette. Det vil bare skaffe Dem ubehageligheter; mig kommer man, i tilfelle, ikke &#x00E5; f&#x00E5; tak i.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<stage>vilt:</stage>
+<p>Hvad kommer Deres skjebne mig ved. G&#x00E5;! G&#x00E5; til krigen, til mordene &#x2013; der hvor De h&#x00F8;rer hjemme.</p>
+</sp>
+<sp who="Paul">
+<speaker>PAUL</speaker>
+<stage>g&#x00E5;r.</stage>
+<stage>Et lavt st&#x00F8;nn h&#x00F8;res fra kjelleren, det stiger, uutholdelig i sin angst og smerte, det fyller rummet, det er <hi rend="italic">krigen.</hi> S&#x00E5; d&#x00F8;r det langsomt bort. Celine har st&#x00E5;tt stiv og lyttet, nu g&#x00E5;r hun mot d&#x00F8;ren ned til laboratoriet.</stage>
+<stage>Bertram st&#x00E5;r i d&#x00F8;r&#x00E5;pningen. Han river gassmasken av sig. Han er likblek; g&#x00E5;r fremover og synker ned i en stol.</stage>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Hvad er hendt?</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<stage>med vanskelighet:</stage>
+<p>Tre drepte.</p>
+<p>En kolbe eksploderte.</p>
+<stage>Ser henne inn i &#x00F8;inene.</stage>
+<p>Giftgass. Du hadde rett, Celine. Du kan anklage mig.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Jeg anklager dig ikke.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Det var to av mine beste folk, og en tredje som aldri skulde ha v&#x00E6;rt der, en s&#x00F8;nn av Haraldsen. Det kommer ikke &#x00E5; g&#x00E5; sporl&#x00F8;st for sig &#x2026;</p>
+<stage>Fabrikksirenen h&#x00F8;res.</stage>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Arbeidet blir nedlagt ved fabrikken.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Haraldsen har en d&#x00F8;d s&#x00F8;nn idag, men det har vi ogs&#x00E5;.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>For arbeiderne finnes der ikke noe objektivt. Ikke sorgen, ikke d&#x00F8;den. Dessuten: vi har bare en d&#x00F8;d s&#x00F8;nn, Haraldsen en drept.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Eigill blev drept.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<stage>hviskende:</stage>
+<p>Hvad vet du om dette.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Paul fortalte mig det. Han gav gutten v&#x00E5;r gift. Han hatet ham, sa han.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Hvor er han?</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Han er reist.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Har du varslet politiet?</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Nei.</p>
+<stage>Bertram tar r&#x00F8;ret. Celine stanser ham.</stage>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Husk p&#x00E5; Matti. Vil du vi skal slepe henne gjennem en slik rettssak?</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Men skal denne morderen g&#x00E5; fri?</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Det var ikke til frihet han gikk. Jeg s&#x00E5; det p&#x00E5; ham.</p>
+<stage>Fabrikksirenen h&#x00F8;res igjen.</stage>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>&#x2013; Men nu er det dig. De f&#x00E5;r ikke gj&#x00F8;re dig noe ondt.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Er der noe mer som kan ramme oss, Celine?</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Du skal kjempe.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Var det ikke dig som vilde jeg skulde g&#x00E5; fra alt.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Ikke nu lenger!</p>
+<p>De vil tilintetgj&#x00F8;re oss.</p>
+<p>Vi har et blindt barn, en drept s&#x00F8;nn, men de har ikke barmhjertighet med oss. Vi vil vise v&#x00E5;r gode vilje til &#x00E5; sone, men de tar ikke imot den.</p>
+<p>De vil bare drive oss utfor stupet, men der stanser vi.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<stage>reiser sig:</stage>
+<p>Ja.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Husk: <hi rend="italic">hvad</hi> du gj&#x00F8;r, st&#x00E5;r jeg ved siden av dig.</p>
+</sp>
+<sp who="Haavind">
+<speaker>DIREKT&#x00D8;R H&#x00C5;VIND</speaker>
+<stage>kommer inn fra laboratoriet. Han g&#x00E5;r hen til Celine og trykker henne deltagende i h&#x00E5;nden, vender sig halvt mot Bertram:</stage>
+<p>Dette var forferdelig.</p>
+<stage>G&#x00E5;r bort til Bertram og sier dempet, med trang til &#x00E5; pine:</stage>
+<p>Men tillat mig et faglig sp&#x00F8;rsm&#x00E5;l: arbeidet ikke gassen altfor hurtig? Den virket s&#x00E5;vidt jeg forst&#x00E5;r p&#x00E5; mindre enn et kvarter, og den burde bruke flere timer. Dens hensikt er jo ikke utelukkende &#x00E5; drepe, men &#x00E5; terrorisere. Slik at man betenker sig p&#x00E5; &#x00E5; begynne krig.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<stage>skj&#x00E6;rende:</stage>
+<p>De har fullkommen rett. Men det kan b&#x00F8;tes p&#x00E5; ved &#x00E5; fortynne med C02. S&#x00E5; vil den ta flere timer. S&#x00E5; vil der aldri mer bli krig.</p>
+<stage>G&#x00E5;r fra ham.</stage>
+</sp>
+<sp who="Haavind">
+<speaker>H&#x00C5;VIND</speaker>
+<p>Arbeiderne samler sig til et demonstrasjonstog. De akter sig hit.</p>
+<p>Jeg tenkte at De i denne tiden, som er s&#x00E5; tung for Dem, kunde trenge en viss avl&#x00F8;sning.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Jeg tror ikke De kan yde mig noen hjelp, direkt&#x00F8;r H&#x00E5;vind, der hvor De kommer til &#x00E5; opholde Dem.</p>
+</sp>
+<sp who="Haavind">
+<speaker>H&#x00C5;VIND</speaker>
+<p>Hvor, mener De?</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>I fengslet.</p>
+<stage>Ringer.</stage>
+<p>De har solgt v&#x00E5;re fabrikkhemmeligheter til utlandet.</p>
+</sp>
+<sp who="Haavind">
+<speaker>H&#x00C5;VIND</speaker>
+<p>L&#x00F8;gn!</p>
+<stage>Tjeneren inn.</stage>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>La ham komme inn.</p>
+</sp>
+<sp who="Tjeneren">
+<speaker>TJENEREN</speaker>
+<stage>viser Eikrem inn.</stage>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>N&#x00E5;?</p>
+<p>Kjenner herrene hverandre?</p>
+</sp>
+<sp who="Haavind">
+<speaker>H&#x00C5;VIND</speaker>
+<p>Selvsagt.</p>
+<p>Vi har arbeidet sammen.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Ja! Dere har arbeidet sammen.</p>
+<p>Her ligger bevisene. Dere har sveket bedriften og landet Deres.</p>
+</sp>
+<sp who="Haavind">
+<speaker>H&#x00C5;VIND</speaker>
+<p>Enn De? Som solgte aksjemajoriteten til utlandet? 95 procent. Derav navnet <hi rend="italic">Nationalt</hi> Kjemisk Koncern.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Vi gir ti tusen norske arbeidere et levebr&#x00F8;d som dere to setter i fare &#x2013;</p>
+</sp>
+<sp who="Eikrem">
+<speaker>EIKREM</speaker>
+<p>De m&#x00E5; pr&#x00F8;ve p&#x00E5; &#x00E5; se saken fra min side &#x2013;</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Herrene kan f&#x00E5; lov &#x00E5; fortsette denne samtalen p&#x00E5; tukthuset. Jeg er ferdig med dere.</p>
+</sp>
+<sp who="Eikrem">
+<speaker>EIKREM</speaker>
+<p>De mener da ikke &#x2013;</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Jo!</p>
+</sp>
+<sp who="Eikrem">
+<speaker>EIKREM</speaker>
+<p>Men det var Dem, generaldirekt&#x00F8;r Sten, som drev mig til det. De tok fra mig min rett til &#x00E5; arbeide, til &#x00E5; skape noe nytt.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>De fikk betaling for det.</p>
+<stage>G&#x00E5;r bort og stanser foran ham.</stage>
+<p>Og s&#x00E5; kom H&#x00E5;vind med dette forslaget om &#x00E5; g&#x00E5; i utlandets tjeneste?</p>
+</sp>
+<sp who="Eikrem">
+<speaker>EIKREM</speaker>
+<p>Ja.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<stage>g&#x00E5;r bortover mot H&#x00E5;vind:</stage>
+<p>Jeg har fulgt Deres virksomhet med adskillig interesse, H&#x00E5;vind. De rapporterte til hovedkontoret at den konkurrerende metoden m&#x00E5;tte skyldes lekkasje herfra, og De antydet at bare en <hi rend="italic">ny sterk ledelse</hi> kunde rydde op. Samtidig tilb&#x00F8;d De v&#x00E5;re konkurrenter Eikrems metode med Dem som chef. Ja, slik var det. Og nu er det slutt p&#x00E5; Dem, H&#x00E5;vind.</p>
+</sp>
+<sp who="Haavind">
+<speaker>H&#x00C5;VIND</speaker>
+<p>Jeg hadde ingen aktelse for Dem. Jeg trodde De var humanist. Jeg visste at jeg var den lederen fremtiden trenger. Derfor hadde jeg <hi rend="italic">rett</hi> til &#x00E5; handle som jeg gjorde.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Ytret De ikke engang et &#x00F8;nske om &#x00E9;n eneste vilje p&#x00E5; arbeidsplassen? Nu skal De f&#x00E5; f&#x00F8;le den.</p>
+<p>Politiet venter p&#x00E5; Dem.</p>
+</sp>
+<sp who="Eikrem">
+<speaker>EIKREM</speaker>
+<p>Dette kan De ikke mene.</p>
+<p>Det er en skam jeg ikke kommer til &#x00E5; overleve.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Det vil tiden vise.</p>
+</sp>
+<sp who="Eikrem">
+<speaker>EIKREM</speaker>
+<p>Men De, fru Sten, kan ikke De legge et barmhjertig ord inn for mig.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Jeg forst&#x00E5;r min mann fullt ut.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Det sl&#x00E5;r mig at De har rett, Eikrem.</p>
+<p>Det vil ikke v&#x00E6;re helt hensiktsmessig &#x00E5; straffe dere.</p>
+</sp>
+<sp who="Eikrem">
+<speaker>EIKREM</speaker>
+<p>Takk!</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Det er billigere &#x00E5; tilintetgj&#x00F8;re dere.</p>
+<p>Sett Dem, H&#x00E5;vind.</p>
+<stage>H&#x00E5;vind setter sig ved skrivebordet.</stage>
+<p>Skriv at dere begge erkjenner dere skyldige i fabrikkspionasje, har mottatt deres avskjed p&#x00E5; dagen, og forplikter dere aldri &#x00E5; ta noen som helst stilling innenfor den kjemiske industri.</p>
+<p>De f&#x00E5;r to minutter. Skriv.</p>
+</sp>
+<sp who="Haavind">
+<speaker>H&#x00C5;VIND</speaker>
+<stage>begynner &#x00E5; skrive.</stage>
+</sp>
+<sp who="Eikrem">
+<speaker>EIKREM</speaker>
+<p>Men det er jo det eneste jeg kan.</p>
+<p>Jeg er ikke et helt menneske hvis jeg ikke f&#x00E5;r arbeide.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>N&#x00E5;r en rev sitter i fellen, hender det at den biter beinet av, for &#x00E5; komme fri.</p>
+<stage>Til H&#x00E5;vind:</stage>
+<p>N&#x00E5;, er De ferdig?</p>
+</sp>
+<sp who="Haavind">
+<speaker>H&#x00C5;VIND</speaker>
+<stage>hatefullt:</stage>
+<p>Jeg skal v&#x00E6;re ferdig straks, hvis jeg ikke blir forstyrret.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Jeg g&#x00E5;r ut fra at De sikter til sjelelige forstyrrelser; fra min side skal De ikke bli forstyrret.</p>
+</sp>
+<sp who="Haavind">
+<speaker>H&#x00C5;VIND</speaker>
+<stage>har reist sig.</stage>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>N&#x00E5; De, Eikrem.</p>
+</sp>
+<sp who="Eikrem">
+<speaker>EIKREM</speaker>
+<stage>skriver under.</stage>
+</sp>
+<sp who="Haavind">
+<speaker>H&#x00C5;VIND</speaker>
+<stage>tar en cigarett op av etuiet:</stage>
+<p>Der kan komme dager efter disse &#x2013;</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Direkt&#x00F8;r H&#x00E5;vind &#x2013; jeg vil sette pris p&#x00E5; om De venter med &#x00E5; r&#x00F8;ke til De kommer ut.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<stage>&#x00E5;pner d&#x00F8;ren. H&#x00E5;vind og Eikrem g&#x00E5;r.</stage>
+<stage>Celine legger armene om halsen p&#x00E5; Bertram. Uhyggelige, jagende bilsirener h&#x00F8;res plutselig utenfor.</stage>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<stage>lytter:</stage>
+<p>Det er forsterkninger til politiet.</p>
+<stage>Matti kommer nedover trappen.</stage>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<stage>tar ham om armen:</stage>
+<p>Det er Matti!</p>
+<p>Vi m&#x00E5; sk&#x00E5;ne henne, Bertram. Hun m&#x00E5; aldri f&#x00E5; vite at det er en morder hun har v&#x00E6;rt glad i. Vi kan ikke &#x00F8;ke byrden for henne.</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<stage>g&#x00E5;r bort, omfavner Matti:</stage>
+<p>Matti, kj&#x00E6;re dig. Jeg skj&#x00F8;nner at p&#x00E5; denne dagen da vi alle er s&#x00E5; uendelig bedr&#x00F8;vet, har du din egen skuffelse. <hi rend="italic">Men det var best slik.</hi></p>
+<p>Og husk: for din mor og mig er hver dag du blir hos oss en lykke.</p>
+<stage>Beveget.</stage>
+<p>Idag er det som vi eier dig. Matti, mer enn vi har gjort p&#x00E5; lenge.</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<p>S&#x00E5; du eier mig. Men om jeg ikke vil h&#x00F8;re til blandt eiendelene dine?</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Jeg vet at du er oprevet, Matti. Vi er alle det. Men la oss glemme alle anklager, om bare den ene dagen da Eigill ligger d&#x00F8;d der oppe.</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<p>Er dere begynt &#x00E5; holde av Eigill ogs&#x00E5;?</p>
+<stage>Til faren:</stage>
+<p>Du pleide &#x00E5; forakte ham, i hvert fall n&#x00E5;r han kom hjem med tap. Du t&#x00E5;lte ham n&#x00E5;r han hadde tjent godt. Har Eigill gjort sig fortjent til din sorg?</p>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Det er i orden. Matti, at du er bitter mot mig, men tenk p&#x00E5; din mor.</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<p>Jeg vet: jeg har v&#x00E6;rt det korset mor har f&#x00E5;tt &#x00E5; b&#x00E6;re.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Aldri, Matti!</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<p>Men du har <hi rend="italic">brukt</hi> det korset. Du har dekket dig bak det. Det har v&#x00E6;rt reist over huset her som et r&#x00F8;de-kors-flagg: angrip oss ikke, trekk oss ikke til ansvar, vi har et blindt barn!</p>
+<p>Dere har g&#x00E5;tt forbi lidelsen og urettferdigheten i verden &#x2013; <hi rend="italic">med mine blinde &#x00F8;ine.</hi></p>
+<p>Nu er det slutt. Nu eier dere mig ikke lenger &#x2013; ikke blindheten, ikke mig.</p>
+<p>Jeg h&#x00F8;rte d&#x00F8;ds-st&#x00F8;nnene fra dem nede i laboratoriet.</p>
+<p>Snart skal kanskje millioner st&#x00F8;nne s&#x00E5;nn. Alt som lever!</p>
+<p>Jeg vet at det er mange som har skylden. Men skylden kommer herfra ogs&#x00E5;. Derfor vil jeg ikke h&#x00F8;re hjemme her.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Meget av det du sier nu, har du ikke fra dig selv.</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<p>Nei. Jeg har det fra det mennesket som har gitt mig mer enn noe annet.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Stakkars dig.</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<p>Ynker du mig fordi Paul gikk fra mig?</p>
+<p>Det beh&#x00F8;ver du ikke.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Din far og jeg vilde gjerne at du ikke skal nevne det navnet mer.</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<stage>p&#x00E5; vakt:</stage>
+<p>Hvorfor det?</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Det er noe vi f&#x00F8;ler, og vi vil be dig respektere det.</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<stage>g&#x00E5;r like hen til moren:</stage>
+<p>Vet du noe om ham, noe som jeg ikke vet? Hvad er det du skjuler for mig.</p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<stage>kj&#x00E6;rlig:</stage>
+<p>Ingenting, Matti.</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<stage>vilt:</stage>
+<p><hi rend="italic">Si det!</hi></p>
+</sp>
+<sp who="Celine">
+<speaker>CELINE</speaker>
+<p>Nei, Matti.</p>
+<p>Det er ingenting &#x00E5; si.</p>
+</sp>
+<sp who="Matti">
+<speaker>MATTI</speaker>
+<p>Jo. Jeg kjenner dig. Du vil <hi rend="italic">sk&#x00E5;ne</hi> mig. Det skal v&#x00E6;re meningen med livet ditt: &#x00E5; sk&#x00E5;ne mig. Men mishandl mig ikke lenger med den forferdelige godheten din.</p>
+<p>Si det!</p>
+<p>Jeg vil ikke v&#x00E6;re blind! Jeg vil ikke v&#x00E6;re beskyttet! Jeg vil kjenne livet, hvor grusomt det enn er.</p>
+<stage>Hun bryter sammen og synker ned i en stol.</stage>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<stage>g&#x00E5;r bort til benne og stryker henne over h&#x00E5;ret:</stage>
+<p>Livets grusomhet kan du tidsnok komme til &#x00E5; kjenne, Matti.</p>
+<stage>Tramp av marsjerende menn h&#x00F8;res utenfor.</stage>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Der kommer de.</p>
+<p>S&#x00E5; mange visste jeg ikke de var.</p>
+<stage>Trampingen av tusen f&#x00F8;tter kommer n&#x00E6;rmere.</stage>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Forrest av alle g&#x00E5;r Haraldsen.</p>
+<p>Og sammen med ham g&#x00E5;r Steinb&#x00F8;.</p>
+<stage>Skrittene h&#x00F8;res truende n&#x00E6;r.</stage>
+</sp>
+<sp who="Bertram">
+<speaker>BERTRAM</speaker>
+<p>Idag kommer de for &#x00E5; bente sine d&#x00F8;de.</p>
+<p>Men imorgen &#x2013;</p>
+</sp>
+<stage>Musikken setter i med en s&#x00F8;rgemarsj.</stage>
+<stage>Matti reiser sig, og g&#x00E5;r famlende bortover mot den.</stage>
+<stage>Et hav av r&#x00F8;de faner sl&#x00E5;r op mot vinduet.</stage>
+<stage>Teppet.</stage>
+</div>
+</div>
+</div>
+</body>
+</text>
+</TEI>

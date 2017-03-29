@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Sang</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-22"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="019"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1839">1839</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1839_19_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Sang</titlePart>
+	<titlePart type="sub">i Anledning af<lb/>Hds. Majestæt Dronningens<lb/>høie Fødselsdag<lb/>den 23de October 1839,</titlePart>
+</docTitle>
+<byline>af<lb/>
+	<docAuthor>N. F. S. Grundtvig.</docAuthor>
+				</byline>
+				<fw type="graphic"/>
+				<epigraph>
+<p>Afsungen af Drengene i Nyboders Skoler.</p>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace>Kjøbenhavn.</pubPlace>Trykt hos J. D. Qvist, Bog- og Nodetrykker,<lb/>Østergade Nr. 53.
+<fw type="graphic"/>
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<pb facs="1839_19_page0002.png"/>
+<fw type="pageNum"></fw>
+<head>Mel. Vi Sømænd gjør ei mange Ord.</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="bold">T</hi>il Tops nu med det Danske Flag,</l>
+<l>Tilgavns det at befæste!</l>
+<l>Det er vor Dronnings Fødselsdag,</l>
+<l>For godt er ei det Beste.</l>
+<l>Vai, Flag ved Flag, i Øresund,</l>
+<l>Med Fest-Kanonens Torden,</l>
+<l>Som Lilje-Kors paa Rosen-Grund,</l>
+<l>For Dronningen i Norden!</l>
+</lg>
+<lg>
+<l>Maria er vor Dronnings Navn,</l>
+<l>Kong Fredriks Gemalinde,</l>
+<l>Ei Krone bar i Kjøbenhavn</l>
+<l>En bedre Dannekvinde;</l>
+<l>Bryd, Danmarks Soel, med Straaleglands,</l>
+<l>Din Sky i Gyldenaaret,</l>
+<l>Saa yndelig den gyldne Krands</l>
+<l>Omskinner Sølverhaaret!</l>
+</lg> 
+<pb facs="1839_19_page0003.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Til Himlen steg vor Dronnings Bon</l>
+<l>Med Haab fra Kongesale,</l>
+<l>Fra Ham, som hører grandt iløn</l>
+<l>Velsignelsen neddale:</l>
+<l>Velsignelse for Kongens Gaard</l>
+<l>Og Danmarks gamle Rige,</l>
+<l>Saa efter mange hundred Aar</l>
+<l>Man veed deraf at sige!</l>
+</lg>
+<lg>
+<l>Som Dagmar blev Kong <hi rend="spaced">Fredriks Brud</hi></l>
+<l>I Danmarks Favn optaget,</l>
+<l>Men det ei vilde Himlens Gud,</l>
+<l>Hun blev saa snart beklaget;</l>
+<l>Han, som var altid Danmark god,</l>
+<l>I Naade det saa mage,</l>
+<l>At mæt af Aar som Dannebod</l>
+<l>Hun mindes alle Dage!</l>
+</lg>
+<lg>
+<l>Ja, længe leve med vor Drot</l>
+<l>Vor Dronning, god at mindes!</l>
+<l>Gid altid i vor Konges Slot</l>
+<l>Af Stammen Skud maa sindes!</l>
+<l>Hurrah for dem af Hjertensgrund,</l>
+<l>For <hi rend="spaced">Fredrik</hi> og <hi rend="spaced">Marie</hi>!</l>
+<l>Mens Danmark har en Bøgelund,</l>
+<l>Skal Fugl om dem ei tie!</l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

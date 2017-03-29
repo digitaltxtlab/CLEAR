@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>VELKOMST til BRUDEFOLKENE.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-22"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="004"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1850">1850</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1850_4_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">VELKOMST<lb/>til</titlePart>
+	<titlePart type="sub">BRUDEFOLKENE.<lb/></titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<fw type="graphic"/>
+				<epigraph>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition>Den 5. Februar 1850.</docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace>Trykt hos Kgl. Hofbogtrykker Bianco Luno.</pubPlace>.
+<fw type="graphic"/>
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<pb facs="1850_4_page0002.png"/>
+<fw type="pageNum"></fw>
+<fw type="graphic"/>
+</div>
+<div>
+<p><hi rend="align(center)">Mel. Unge Gienbyrds Liv i Norden.</hi></p>
+<lg>
+<l><hi rend="initial">G</hi>ammel Viin og Blomster unge</l>
+<l>Föder altid Roes og Ry,</l>
+<l>Löser alle Skjaldes Tunge,</l>
+<l>Vækker Glædens Röst paany;</l>
+<l>Og blandt alle gamle Vine</l>
+<l>Kjærlighed er bedst og ældst,</l>
+<l>Og blandt alle Blomster fine</l>
+<l>Liljevaanden skues helst!</l>
+</lg>
+<lg>
+<l>Deilig tit i Danevange</l>
+<l>Modes Viin og Blomsterblad,</l>
+<l>Brude-Blus og Bryllups-Sange</l>
+<l>Da med Rette fölges ad,</l>
+<l>Og som Bryllupssangen lyder,</l>
+<l>Saa faaer under Solen Ry</l>
+<l>Blomstens Duft og Vinens Dyder,</l>
+<l>Svinge sig som Fugl i Sky!</l>
+</lg> 
+<pb facs="1850_4_page0003.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Stammer end den Gamles Tunge</l>
+<l>Netop ved den bedste Viin,</l>
+<l>Savner mellem Blomster unge</l>
+<l>Dobbelt han Ungdommen sin,</l>
+<l>Var han Skjald, dog glöder Kinden,</l>
+<l>Stammer Tungen dog i Sang,</l>
+<l>Blomsterkrandset har for inden</l>
+<l>Vinens Priis end Harpeklang!</l>
+</lg>
+<lg>
+<l>Hil da eder, Hjerter ömme!</l>
+<l>Under Brudeblus i Lund,</l>
+<l>Mellem Sangens Toneströmme,</l>
+<l>Venlige som Belt og Sund!</l>
+<l>Livet svare skiönt til Mythen,</l>
+<l>Alt som Bolgen blaa til Sky !</l>
+<l>Altid være i Lövhytten</l>
+<l>Vinen gammel, Blomsten ny!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

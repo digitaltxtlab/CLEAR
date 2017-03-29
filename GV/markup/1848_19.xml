@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Den Tydske Flaade.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-25"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="019"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1848">1848</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1848_19_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Den Tydske Flaade.</titlePart>
+	<titlePart type="sub">Et episk Læredigt i utallige Sange,<lb/>efter det Tydske,</titlePart>
+</docTitle>
+<byline>af<lb/>
+	<docAuthor>Nik. Fred. Sev. Grundtvig.</docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition>Første Hefte.</docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace>Kjøbenhavn</pubPlace>I Commission hos Boghandler F. H. Eibe.<lb/>Trykt hos Louis Klein.
+<fw type="graphic"/>
+<docDate>1848</docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<pb facs="1848_19_page0002.png"/>
+<fw type="pageNum"></fw> 
+<pb facs="1848_19_page0003.png"/>
+<fw type="pageNum"></fw>
+<head>Baiersk Opsang.</head>
+<lg>
+<l><hi rend="initial">H</hi>vor <hi rend="spaced">Maagen</hi> flyver over <hi rend="spaced">Belte</hi>,</l>
+<l>Der er <hi rend="spaced">Høitydskens</hi> Fædreland,</l>
+<l>Thi der skal snart de <hi rend="spaced">Tydske</hi> Helte,</l>
+<l>Som hvad de vil, nødvendig kan,</l>
+<l>Til Danmarks Gavn og <hi rend="spaced">Tydsklands</hi> Ære,</l>
+<l>De Danske Fist <hi rend="spaced">Høitydsken</hi> lære!</l>
+</lg>
+<lg>
+<l><hi rend="spaced">Ideen</hi> alt er fir og færdig</l>
+<l>Til <hi rend="spaced">Tydsklands Flaade</hi> mageløs,</l>
+<l>Og den er <hi rend="spaced">Zeus og Tydskland</hi> værdig,</l>
+<l>Saa Engelands <hi rend="spaced">Hephæstos</hi> giøs,</l>
+<l>Da den, af <hi rend="spaced">Tydsklands</hi> Hjerne brustet,</l>
+<l>Sprang ud, som <hi rend="spaced">Pallas</hi>, heeludruftet!</l>
+</lg>
+<lg>
+<l><hi rend="spaced">Ideen</hi>, det er Hoved-Sagen,</l>
+<l>Det veed enhver, som har lært <hi rend="spaced">Tydsk</hi>,</l>
+<l>Det skal udraabes selv i <hi rend="spaced">Skagen</hi>,</l>
+<l>Naar først udryddet er alt <hi rend="spaced">Jydsk</hi>:</l>
+<l>Kun <hi rend="spaced">Kroppens</hi> Værk, og intet andet,</l>
+<l>Er Flaaden, som den sees paa Vandet!</l>
+</lg> 
+<pb facs="1848_19_page0004.png"/>
+<fw type="pageNum">4</fw>
+<lg>
+<l><hi rend="spaced">Ideen</hi>, ei af Ærme rystet,</l>
+<l>Som <hi rend="spaced">Pallas</hi> af en Græsk Poet,</l>
+<l>Er ei ufrugtbar og koldbrystet</l>
+<l>Som hun, det har al Verden seet;</l>
+<l>Thi den har alt i Bryllupsaaret</l>
+<l>Det <hi rend="spaced">Tydske Flag</hi> til Verden baaret!</l>
+</lg>
+<lg>
+<l>Hvad er mod det vel <hi rend="spaced">Dannebrog</hi>,</l>
+<l>Som Dansken kalder himmelfalden,</l>
+<l>Skiøndt den er sammensyet dog</l>
+<l>Af Sællands Bisp og Jydeskjalden!</l>
+<l>Født, som det er, af <hi rend="spaced">Ætherluften</hi>,</l>
+<l>Vort Flag har Hævd paa Himmelduften!</l>
+</lg>
+<lg>
+<l><hi rend="spaced">Ideer</hi> nærmest staae <hi rend="spaced">Symboler</hi>,</l>
+<l>Symbolet er det <hi rend="spaced">Tydske</hi> Flag,</l>
+<l>Reelle dog er <hi rend="spaced">Tydsklands</hi> Skoler,</l>
+<l><hi rend="spaced">Reelt</hi> er og det <hi rend="spaced">Tydske</hi> Flag,</l>
+<l>Ei blot Symbol, men paa en Maade</l>
+<l><hi rend="spaced">Stortoppen</hi> af den <hi rend="spaced">Tydske Flaade</hi>!</l>
+</lg> 
+<pb facs="1848_19_page0005.png"/>
+<fw type="pageNum">5</fw>
+<lg>
+<l>Som <hi rend="spaced">Handværks-Folk</hi> de krasse Gække</l>
+<l>I Dannemark og Engeland,</l>
+<l>Begyndte med en Kist at strække,</l>
+<l>Med <hi rend="spaced">overfladelig</hi> Forstand;</l>
+<l>Det <hi rend="spaced">Grundige</hi> har vi opdaget,</l>
+<l>Vi gaaer <hi rend="spaced">tilbunds</hi>, selv <hi rend="spaced">over</hi> Flaget!</l>
+</lg>
+<lg>
+<l>Som <hi rend="spaced">Ørnen</hi> over Klippetinde,</l>
+<l>I Syn som Kløer skarp og stærk.</l>
+<l>Vidt overseer Muldvarper blinde</l>
+<l>Med deres flaue Mesterværk;</l>
+<l>Saa <hi rend="spaced">Tydsklands Flaade</hi> i Ideen</l>
+<l>Høit toner Flag, endog ved <hi rend="spaced">Spreen</hi>!</l>
+</lg>
+<lg>
+<l>Lad derfor Danskerne kun prale</l>
+<l>As deres gamle Sømandskab,</l>
+<l>Som uden Hoved er og Hale</l>
+<l>Kun lært af Fistene i Hav!</l>
+<l>Selv England, med Haifiske-Flaben,</l>
+<l>Ei kiender <hi rend="spaced">Søfarts-Videnskaben</hi>!</l>
+</lg> 
+<pb facs="1848_19_page0006.png"/>
+<fw type="pageNum">6</fw>
+<lg>
+<l>Vel er det haardt sor os at dole,</l>
+<l>At sige, for vort Kiød og Blod,</l>
+<l>Mens Dybet vi sor intet pløie,</l>
+<l>Da høster Dansken Overflod,</l>
+<l>Og vover, selv paa lave Baade,</l>
+<l>At blæse ad den <hi rend="spaced">Tydske Flaade</hi>!</l>
+</lg>
+<lg>
+<l>Men sikkert Bladet sig skal vende,</l>
+<l>Vi vente snart, og om ei for,</l>
+<l>Nødvendig dog ved <hi rend="spaced">Verdens Ende</hi>,</l>
+<l>Saavel i Sonder som i Nor;</l>
+<l>Thi da af Alt, selv Aar og Dage,</l>
+<l>Er kun <hi rend="spaced">Ideerne</hi> tilbage.</l>
+</lg>
+<lg>
+<l>Hvor er da vel den Danske Flaade!</l>
+<l>Hvem times da det sidst at lee!</l>
+<l>Da lever Alt af <hi rend="spaced">Tydskens</hi> Naade:</l>
+<l>Af Tydsklands <hi rend="spaced">evige Idee,</hi></l>
+<l>Som blev miskiendt paa hele Jorden,</l>
+<l>Og skiældt for <hi rend="spaced">Spindelvæv</hi> i Norden!</l>
+</lg> 
+<pb facs="1848_19_page0007.png"/>
+<fw type="pageNum">7</fw>
+<lg>
+<l>Dog ogsaa nu, naar Hov'der mange,</l>
+<l>Skiondt alle hver paa Sit opsat,</l>
+<l>I <hi rend="spaced">Frankfurts</hi> eviggrønne Vange</l>
+<l>Groe sammen under <hi rend="spaced">Keiser-Hat</hi>,</l>
+<l>Paa Land og Hav skal Aander flaade</l>
+<l>Forbausede den <hi rend="spaced">Tydske Flaade</hi>!</l>
+</lg>
+<lg>
+<l>Som vi begyndte, vi fortsætte,</l>
+<l><hi rend="spaced">Ideen</hi> først med <hi rend="spaced">Flaget</hi> fast,</l>
+<l>Fra <hi rend="spaced">Oven</hi>, som det ene <hi rend="spaced">Rette</hi>,</l>
+<l>Vi komme da til Seil og <hi rend="spaced">Mast</hi>,</l>
+<l>Vi dale nødig ned til <hi rend="spaced">Skroget</hi>,</l>
+<l>Thi det er <hi rend="spaced">krast</hi> og det er <hi rend="spaced">kroget</hi>!</l>
+</lg>
+<lg>
+<l>Paa <hi rend="spaced">Bloksbjerg</hi> vore Graner hole,</l>
+<l>As dem giør vi en Masteskov,</l>
+<l>As Nelder Seil vi dertil feie,</l>
+<l>As Sand ved <hi rend="spaced">Spree</hi> vi flette Tov,</l>
+<l>Og byde saa de <hi rend="spaced">Tydske</hi> Vinde</l>
+<l>Paa <hi rend="spaced">Bloksbjerg</hi> alle sig indfinde.</l>
+</lg> 
+<pb facs="1848_19_page0008.png"/>
+<fw type="pageNum">8</fw>
+<lg>
+<l>Naar i <hi rend="spaced">Ideen</hi> da sig hæver</l>
+<l>Vor Masteskov med <hi rend="spaced">Tydsklands Flag</hi>,</l>
+<l>Naar stolt den giennem Luften svæver,</l>
+<l>Til hele <hi rend="spaced">Tydsklands</hi> Velbehag,</l>
+<l>Som over So, saa over Bjerge,</l>
+<l>Da skjule sig vel <hi rend="spaced">Nordens</hi> Dværge!</l>
+</lg>
+<lg>
+<l>Men giør de os det end for broget,</l>
+<l>Og bryste sig, som nys ved Sli,</l>
+<l>Velan, saa giør vi ogsaa Skroget</l>
+<l>As Trykpapirer bombefri,</l>
+<l>Og da, naar vi gaaer ud fra <hi rend="spaced">Veile</hi>,</l>
+<l>I Sænk vi Als og <hi rend="spaced">Danmark</hi> seile!</l>
+</lg>
+<lg>
+<l>Da zittre Nordens kolde Zoner,</l>
+<l>Og bede kun om Trældom mild,</l>
+<l>As Gru for Tydsklands Dampkanoner:</l>
+<l>Staalpenne med den Græske Ild!</l>
+<l>Hvis ikke, da for <hi rend="spaced">Tydsklands</hi> Helte</l>
+<l>Som Iis i <hi rend="spaced">To al Norden</hi> smelte!</l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

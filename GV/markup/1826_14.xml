@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Dansk Jubel-Hilsen til Kong Frederik den Sjette</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2009-12-22"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="014"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1826">1826</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1826_14_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Kong Harald og Ansgar.</titlePart>
+				<fw type="graphic"/>
+	<titlePart type="sub">Rim-Blade<lb/>af<lb/>Danmarks Kirke-Bog<lb/>til<lb/>Jubel-Aaret.</titlePart>
+</docTitle>
+				<fw type="graphic"/>
+<byline>Ved<lb/>
+	<docAuthor>Nik Fred. Sev. Grundtvig<lb/>residerende Capellan ved Vor Frelsers Kirke.</docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace>Kiöbenhavn.</pubPlace>.<lb/>Trykt paa den Wahlske Boghandlings Forlag i C. Græbes Officin.<lb/>
+<fw type="graphic"/>
+<docDate>1826.</docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<pb facs="1826_14_page0002.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Mindes skal den glade Dag,</l>
+<l>Efter mine Tanker,</l>
+<l>Igienfødte Folke-Slag,</l>
+</lg>
+<p><hi rend="spaced">Dannemænd og Franker. Ermold</hi>.</p>
+<pb facs="1826_14_page0003.png"/>
+<fw type="pageNum"></fw>
+<head>Dansk Jubel-Hilsen</head>
+<head>til</head>
+<head>Kong Frederik den Sjette.</head>
+<p><hi rend="align(center)"><hi rend="spaced">Kong Fredrik! Hilsæl</hi>!</hi></p>
+<lg>
+<l>Paa Tusindaars-Dagen, i Fædres Capel,</l>
+<l>Hvor Luerne braged, og Hvælvingen brast,</l>
+<l>Men Murene stode, for Grunden var fast;</l>
+<l>Hvor Altret Du reiste, som Du kunde bedst.</l>
+<l><hi rend="align(center)">Til glædelig Fest!</hi></l>
+</lg>
+<p><hi rend="align(center)"><hi rend="spaced">Kong Fredrik! Hilsæl!</hi></hi></p>
+<lg>
+<l>Velsignelsen hvile paa Drottens Capel!</l>
+<l>Fra Konge-Capellet den Kilde udsprang,</l>
+<l>Vi skylde hver Blomst, og hver bølgende Vang,</l>
+<l>Hvor listig den sprudled i Vinter og Vaar,</l>
+<l><hi rend="align(center)">Tihundrede Aar!</hi></l>
+</lg> 
+<pb facs="1826_14_page0004.png"/>
+<fw type="pageNum"></fw>
+<p><hi rend="align(center)"><hi rend="spaced">Kong Fredrik! Hilsæl!</hi></hi></p>
+<lg>
+<l>Først færdig paa Borgen blev Fædres Capel!</l>
+<l>Saa toner fra Thronen, paa Tusindaars-Fest:</l>
+<l>Med <hi rend="spaced">Gud at begynde</hi> gjør Bygningen bedst!</l>
+<l>Det kiendes paa Krone, saa vel som paa Rod:</l>
+<l><hi rend="align(center)">Den Viisdom er god!</hi></l>
+</lg>
+<p><hi rend="align(center)"><hi rend="spaced">Kong Fredrik! Hilsæl!</hi></hi></p>
+<lg>
+<l>Velsignelsen siige fra Drottens Capel!</l>
+<l>Omskabe til Glæde for Kongen al Sorg,</l>
+<l>Saa trøstet Du rhroner paa <hi rend="spaced">Christians-Borg</hi>,</l>
+<l>Og smiler fra Svale til Bølgerne blaa,</l>
+<l><hi rend="align(center)">Hvor Snekkerne gaae!</hi></l>
+</lg>
+<p><hi rend="align(center)"><hi rend="spaced">Kong Fredrik! Hilsæl!</hi></hi></p>
+<lg>
+<l>Gid immer udspringe fra Borgens Capel</l>
+<l>Den hellige Kilde, hvis Værger paa Jørd,</l>
+<l>Naar høiest de throned, var Konger i Nord,</l>
+<l>Den Kilde, hvoraf os oprinder i Bryst,</l>
+<l><hi rend="align(center)">Den evige Trost!!</hi></l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

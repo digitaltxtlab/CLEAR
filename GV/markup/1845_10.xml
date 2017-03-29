@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Velkomst-Sang ved Den nordiske Fest</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-24"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="010"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1845">1845</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1845_10_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Velkomst-Sang<lb/>ved<lb/>Den nordiske Fest</titlePart>
+</docTitle>
+				<fw type="graphic"/>
+				<docEdition>den 25de Juni 1845.</docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace>Kjöbenhavn.</pubPlace>.<lb/>Trykt i <hi rend="italic">Bianco Lunos </hi>Bogtrykkeri.<lb/>
+<fw type="graphic"/>
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<pb facs="1845_10_page0002.png"/>
+<fw type="pageNum"></fw>
+<head>Mel. Vort Norden er ikke en iisdækket Örk.</head>
+<head>eller</head>
+<head>Langt höiere Bjerge saa vide paa Jord.</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">I</hi> Kæmpernes Höie er Kæmpernes Stöv,</l>
+<l>For det ristes Runer til Ære,</l>
+<l>Men Kæmpernes Aand er hos Kæmpernes Æt,</l>
+<l>Og Ættens skal Odelen være,</l>
+<l>Med Bjerge og Sletter og Bölgerne blaa,</l>
+<l>Hvor Fædrene hvile og Vuggerne gaae!</l>
+</lg>
+<lg>
+<l>Med Kæmpernes Aand fölger Kæmpernes Kraft,</l>
+<l>For den synke Jetter og Trolde,</l>
+<l>Mens <hi rend="italic">Asgaard </hi>sig hæver i Kæmpernes Hjem,</l>
+<l>Og tækkes med blinkende Skjolde,</l>
+<l>Og <hi rend="italic">Gautur </hi>det sander med <hi rend="italic">Nor </hi>og med Dan,</l>
+<l>At <hi rend="italic">Gladhjem </hi>er Navnet paa Kæmpernes Land!</l>
+</lg> 
+<pb facs="1845_10_page0003.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Med Kæmpernes Aand fölger Kæmpernes Ord.</l>
+<l>Paa Folkets og Skjaldenes Tunge,</l>
+<l>Saa fast som en Klippe, saa fri som en Fugl,</l>
+<l>Til Gammen for Gamle og Unge;</l>
+<l>Som Aandens og Hjertets den eenbaarne Sön,</l>
+<l>Det melder i Lys hvad der skabdes i Lön!</l>
+</lg>
+<lg>
+<l>Paa Bjerge, paa Sletter, paa Bölgerne blaa,</l>
+<l>Da modes med lifligt Velkommen</l>
+<l>Det ædle, fribaarne, oldnordiske Sind,</l>
+<l>Som her modes Valhals-Ungdommen,</l>
+<l>Fra Fjorde og Elve, fra Belt og fra Sund,</l>
+<l>Fra <hi rend="italic">Dovre </hi>og <hi rend="italic">Sigtun, </hi>fra <hi rend="italic">Leire </hi>og <hi rend="italic">Lund!</hi></l>
+</lg>
+<lg>
+<l>Saa lyd da: Velkommen, i Fædrenes Aand,</l>
+<l>De ædleste Kæmpers paa Jorden!</l>
+<l>Velkommen, du Nyaar i Kæmpernes Hjem,</l>
+<l>Med <hi rend="italic">Foslbroderlaget </hi>i Norden!</l>
+<l>Af Kjærlighed baaret, du voxe ved Daad!</l>
+<l>Syng höit i din Glæde og smil i din Graad!</l>
+</lg>
+<p><hi rend="align(right)"><hi rend="italic"><hi rend="bold">N. F. S. Grundtvig</hi>.</hi></hi></p>
+
+</div>
+</body>
+</text>
+</TEI>

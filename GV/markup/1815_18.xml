@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Til Kamma Rahbek.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2009-10-28"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="018"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1815">1815</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1815_18_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">2. Til Kamma Rahbek.</titlePart>
+	<titlePart type="sub">(Med "Heimdal" 1816.)</titlePart>
+	<fw type="graphic"/>
+</docTitle>
+<byline></byline>
+				<epigraph></epigraph>
+				<docEdition></docEdition>
+				<docImprint></docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<lg>
+<l><hi rend="initial">G</hi>ierne, sjeldne Dannekvinde!</l>
+<l>Nævnede jeg dig Veninde;</l>
+<l>Gierne paa sin spinkle Vinge</l>
+<l>Vilde liden Fugl sig svinge</l>
+<l>Og et Nyaarsvers dig sjunge</l>
+<l>Med sin jævne danske Tunge;</l>
+<l>Men den er blandt Skovens Fugle</l>
+<l>Agtet, haanet som en Ugle ;</l>
+<l>Og hvad Under, om og dig</l>
+<l>Døvede det høie Skrig,</l>
+<l>Saa du og tilsidst dig vendte</l>
+<l>Fra den Fugl, som Ingen kiendte!</l>
+</lg>
+</div>
+<div>
+<pb facs="1815_18_page0002.png"/>
+<fw type="pageNum">42</fw>
+<head>Tre gamle, hidtil utrykte Digte</head>
+<lg>
+<l>Derfor slaaer med bunden Tunge</l>
+<l>Liden Fugl det Øre nær,</l>
+<l>Veed ei ret, om han tør sjunge,</l>
+<l>Kan dog end ei tie kvær,</l>
+<l>Kviddrer: slig mig Dannekvinde!</l>
+<l>Tør jeg nævne dig Veninde?</l>
+<l>Tør jeg ei, jeg dog ei dømmer,</l>
+<l>Kviddrer, mens jeg Kalken tømmer:</l>
+<l>Bladet skal engang sig vende,</l>
+<l>Da skal du og Fleer mig kiende,</l>
+<l>Om ei før, saa naar vi glæde</l>
+<l>Skue hist paa Bogens Blade</l>
+<l>Navnene paa dem, som vilde</l>
+<l>Vandre fromt til Livets Kilde.</l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

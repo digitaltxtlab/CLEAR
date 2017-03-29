@@ -1,0 +1,4581 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--<?xml-stylesheet type="text/xsl" href="../NSL_ebooks_WP.xsl"?>-->
+<?xml-stylesheet type="text/xsl" href="../NSL_ebooks.xsl"?>
+<!DOCTYPE TEI PUBLIC "-// NSL Norge //EN" "http://www.nslnorge.no/tekster/NSL_tei_xinclude.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="NSL_Lie_Udmeldt">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+    <title>Det norske spr&#x00E5;k- og litteraturselskap 1983.
+        <lb/>Jonas Lie: <hi rend="italic">Udmeldt af Klubben</hi>.
+        <lb/>Utgave ved Hans Midb&#x00F8;e.</title>
+</titleStmt>
+<publicationStmt>
+<p>Publiseres som trykt og digital tekst av NSL.</p>
+</publicationStmt>
+<sourceDesc>
+<p>Skannet og OCR-lest versjon av boken: Jonas Lie: <hi rend="italic">Udmeldt af klubben. Lystspil i fire Akter</hi>. Ved Hans Midb&#x00F8;e. Det norske spr&#x00E5;k- og litteraturselskap, Gyldendal, Oslo.</p>
+</sourceDesc>
+</fileDesc>
+<revisionDesc>
+<change xml:id="ENW" who="ENW" when="2010-09-16">Kodekontroll</change>
+<change who="KR" when="2009-11-18">oprydning</change>
+<change who="KR" when="2009-11-10">Kodet grundstruktur, unicodes etc</change>
+<change xml:id="KR" who="KR" when="2009-11-09">Kodet grundstruktur, unicodes etc</change>
+</revisionDesc>
+</teiHeader>
+<text xml:id="NSL_Lie_Udmeldt_tekst" type="drama">
+<front>
+<titlePage type="main">
+<docTitle>
+<titlePart type="main">Udmeldt af Klubben</titlePart>
+<titlePart type="part">Lystspil i fire Akter</titlePart>
+</docTitle>
+    <byline>
+        <docAuthor>Jonas Lie</docAuthor>
+    </byline>
+    <docDate>&#x005B;u.å.&#x005D;</docDate>
+</titlePage>
+    <div type="illustration"><figure><graphic url="images/UdmeldtAfKlubben.jpg"/></figure></div>
+    <castList>
+<head>PERSONERNE</head>
+<castItem xml:id="Henrik"><role>Henrik Hjort, </role><roleDesc>Amanuensis ved et offentligt Bibliothek, &#x00E6;sthetisk Kritiker.</roleDesc></castItem>
+<castItem xml:id="Anna"><role>Anna, </role><roleDesc>hans Hustru.</roleDesc></castItem>
+<castItem xml:id="Fredrik"><role>Fredrik Howitz, </role><roleDesc>Fabrikejer.</roleDesc></castItem>
+<castItem xml:id="Theodora"><role>Theodora, </role><roleDesc>hans Hustru.</roleDesc></castItem>
+<castItem xml:id="Magda"><role>Fr&#x00F8;ken Magda Howitz.</role></castItem>
+<castGroup>
+    <roleDesc>Litterater</roleDesc>
+    <castItem xml:id="Morten"><role>Morten Busk, </role><roleDesc>Studiosus perpetuus.</roleDesc></castItem>
+    <castItem xml:id="Carsten"><role>Carsten Bomhof,  </role><roleDesc>Stipendiat. </roleDesc></castItem>
+    <castItem xml:id="Lauritz"><role>Lauritz Hysing.</role></castItem>
+    <castItem xml:id="Theodosius"><role>Theodosius Bjerk. </role></castItem>
+    <castItem xml:id="Richard"><role>Richard Schnelle, </role><roleDesc>Digter.</roleDesc></castItem>
+</castGroup>
+<castItem xml:id="Schjorn"><role>Schj&#x00F8;rn, </role><roleDesc>Bogtrykker.</roleDesc></castItem>
+<castItem xml:id="Tjenestepige"><role>En Tjenestepige.</role></castItem>
+</castList>
+    <set>
+        <pb n="3"/>
+        <p>Scenen: Henrik Hjorts Stue. Tredie Akts anden Afdeling foregaar i et Bagv&#x00E6;relse til en Caff&#x00E9;.</p>
+    </set>
+</front>
+    <body>
+        <div type="act" n="1">
+            <pb n="6"/>
+     
+ <stage>(:Et hyggeligt m&#x00F8;bleret V&#x00E6;relse, som ved forskjellige Kunstsager r&#x00F8;ber, at det tilh&#x00F8;rer en Mand, der interesserer sig for Kunsten. Sided&#x00F8;r og en Udgangsd&#x00F8;r i Baggrunden. Ved den ene Sidev&#x00E6;g et Skrivebord, hvorpaa B&#x00F8;ger og Skrivesager, og ved den modsatte et Pianoforte. Midt paa Gulvet staar et festlig d&#x00E6;kket Bord med Vin og Krandsekage. Omkring det er placeret Stole:)</stage>
+
+ <stage>(:Fredrik Howitz og Theodora ere netop komne ind i Stuen. Fredrik Howitz holder sin S&#x00F8;ster Anna i begge H&#x00E6;nder og m&#x00F8;nstrer hendes Udseende. Henrik Hjort og Lauritz Hysing staa sammen lidt tilvenstre i Forgrunden:)</stage>
+
+ <sp who="Frederik Howitz">
+   <speaker>FREDRIK HOWITZ</speaker>
+
+    <p>Du ser saa kjernefrisk ud Anna! Nu, den Fjeldrejse i Hvedebr&#x00F8;dsmaaneden var sandelig en fornuftigere Id&#x00E9;, end jeg t&#x00E6;nkte . . . Og paa Tilbagetouren rejste I atter indom dem derhjemme . . .</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Vi har v&#x00E6;ret der i halvanden Uge Broder! Du kan tro, vi har hygget os.</p>
+ </sp>
+
+ <sp who="Frederik Howitz">
+   <speaker>FREDRIK HOWITZ</speaker>
+
+    <p>Det vil sige, Du spillede Frue, . . . kom ned Klokken ti til Frokosten, og saa ventede Jakobine med Theen, ligesom hun gj&#x00F8;r paa Far.</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Men Fredrik da!</p>
+ </sp>
+
+ <sp who="Frederik">
+   <speaker>FREDRIK</speaker>
+
+    <p>Aa, n&#x00E6;gt det ikke, &#x2013; jeg ved det . . . for akurat saa gjorde Theodora, og hun var ikke lidet nydelig med det.</p>
+ </sp>
+
+<pb n="7"/>
+
+ <sp who="Theodora">
+   <speaker>THEODORA</speaker>
+
+    <p>Fredrik! &#x2013; &#x2013; Det er ikke sandt!</p>
+ </sp>
+
+ <sp who="Frederik">
+   <speaker>FREDRIK</speaker>
+
+    <p>Vil Du ben&#x00E6;gte, at Du var nydelig?</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Aa, h&#x00F8;r ikke paa den Ordkl&#x00F8;ver . . . En faar aldrig Ret mod ham.</p>
+ </sp>
+
+ <sp who="Theodora">
+   <speaker>THEODORA</speaker>
+
+    <p>Der h&#x00F8;rer Du Fredrik! Akurat, hvad jeg siger bestandig!</p>
+ </sp>
+
+ <sp who="Lauritz Hysing">
+   <speaker>LAURITZ HYSING</speaker>
+
+ <stage>(:afsides til Hjort:)</stage>
+
+    <p>Isandhed en husvarm, hyggelig Passiar! . . . En kan med et halvt &#x00D8;je se gjennem Ruden lige ind i de To&#x2019;s inderste Hjertekrog. Er det din Svoger?</p>
+ </sp>
+
+ <sp who="Hjort">
+   <speaker>HJORT</speaker>
+
+ <stage>(:med et Nik hen mod Fredrik Howitz:)</stage>
+
+    <p>Der Spiessb&#x00FC;rger da, &#x2013; mener Du? Ja, saam&#x00E6;n er han det, . . . p&#x00E5; sin Vis en Perle.</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+ <stage>(:til sin Broder:)</stage>
+
+    <p>Og hvordan staar til hjemme hos Eder . . . med B&#x00F8;rnene?</p>
+ </sp>
+
+ <sp who="Frederik Howitz">
+   <speaker>FREDRIK HOWITZ</speaker>
+
+    <p>Tak, der er Alt vel.</p>
+ </sp>
+
+ <sp who="Lauritz Hysing">
+   <speaker>LAURITZ HYSING</speaker>
+
+ <stage>(:for sig selv:)</stage>
+
+    <p>Retnu tror jeg, vi faa h&#x00F8;re Vuggen gaa!</p>
+ </sp>
+
+ <sp who="Frederik Howitz">
+   <speaker>FREDRIK HOWITZ</speaker>
+
+    <p>Men, hvordan havde de Gamle det, Anna!</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Ypperligt! &#x2013; Alt i sin vante Gj&#x00E6;nge, . . . Fader . . .</p>
+ </sp>
+
+<pb n="8"/>
+
+ <sp who="Henrik Hjort">
+   <speaker>HENRIK HJORT</speaker>
+
+    <p>Ja, jeg stillede tilslut mit Ur efter ham. Naar han gik ned til Beddingen for anden Gang, var Klokken fem Minutter over elleve; naar han kom op igjen og tog i Stued&#x00F8;ren, begyndte det at ringe tolv; naar han om Aftenen kom fra Kontoret, var den syv, og Klokken ti paa Slaget stod han i Sloprok og Nathue med Lyset i den ene Haand og med den anden paa Klinken til Sovekammerd&#x00F8;ren . . . V&#x00E6;gteren raabte da akurat udenfor.</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+ <stage>(:lidt st&#x00F8;dt:)</stage>
+
+    <p>Jeg kan ikke like den Slags letsindig Snak, Henrik, &#x2013; Du sagde ham dog altid et hjerteligt Godnat lige f&#x00F8;r.</p>
+ </sp>
+
+ <sp who="Henrik Hjort">
+   <speaker>HENRIK HJORT</speaker>
+
+    <p>Javist, javist Anna &#x2013; Du forstaar da en Smule Sp&#x00F8;g!</p>
+ </sp>
+
+ <sp who="Frederik Howitz">
+   <speaker>FREDRIK HOWITZ</speaker>
+ <stage>(:afsides til Theodora:)</stage>
+
+    <p>N&#x00F8;dig dog just over Ens egen Far, synes jeg.</p>
+ </sp>
+
+ <sp who="Hysing">
+   <speaker>HYSING</speaker>
+
+ <stage>(:med komisk Pathos til Hjort:)</stage>
+
+    <p>Vid Du Daare! &#x2013; de forstaa den ikke!</p>
+
+ <stage>(:Demonstrerende:)</stage>
+
+    <p>Sp&#x00F8;gen hviler paa en fra Virkeligheden afl&#x00F8;st Foruds&#x00E6;tning; den h&#x00F8;rer under Digtningens Kategori; &#x2013; men en Sats ud fra det Reale faar man kun vanskelig en Spidsborger til at gj&#x00F8;re . . .</p>
+ </sp>
+
+ <sp who="Hjort">
+   <speaker>HJORT</speaker>
+
+    <p>Ti, &#x2013; siger jeg Dig! &#x2013; her er ikke Stedet for dine Definitioner!</p>
+
+ <stage>(:i en anden Tone:)</stage>
+
+    <p>Ja, v&#x00E6;r nu ikke vred!</p>
+
+ <stage>(:Til Fredrik Howitz og Frue:)</stage>
+
+    <p>Maa jeg forestille Eder vor ber&#x00F8;mte Litterat og Kritiker Lauritz Hysing.</p>
+ </sp>
+
+ <sp who="Frederik Howitz">
+   <speaker>FREDRIK HOWITZ</speaker>
+
+    <p>Ah, Hr. Hysing! Jeg kjendte Deres Far, afd&#x00F8;de Malermester Hysing; han har malet vort Hus engang. Det var en brav<pb n="9"/> Mand, ofrede meget for at faa Dem frem. Og Deres Mor, &#x2013; har hun det godt? Ja, De er naturligvis nu hendes St&#x00F8;tte. Apropos! &#x2013; V&#x00E6;r saa snil at sige mig hendes Adresse.</p>
+ </sp>
+
+ <stage>(:Bogtrykker Schj&#x00F8;rn kommer imidlertid ind, hilser paa Hjort og Frue,
+                     som byder ham Plads:)</stage>
+                  
+ <sp who="Lauritz Hysing">
+   <speaker>LAURITZ HYSING</speaker>
+
+    <p>Jeg . . . ja &#x2013; jeg . . . skal levere Dem et Kort en anden Gang . . . jeg finder det virkelig ikke.</p>
+ </sp>
+
+ <sp who="Howitz">
+   <speaker>HOWITZ</speaker>
+
+    <p>Snak! Jeg beh&#x00F8;ver intet Kort for at finde gamle Madam Hysing . . . Sig blot hvor hun bor.</p>
+ </sp>
+
+ <sp who="Hysing">
+   <speaker>HYSING</speaker>
+
+    <p>Jeg . . . jeg &#x2013; husker det sandelig ikke, . . . det vil sige Husnummeret &#x2013; det er ude i Oslo. Jeg bor selv inde i Byen.</p>
+ </sp>
+
+ <sp who="Howitz">
+   <speaker>HOWITZ</speaker>
+
+    <p>Oslo Strandgade, som f&#x00F8;r, hvad? &#x2013; Dog vel ikke det gamle . . . hm! hm! Nu saa!</p>
+ </sp>
+
+ <sp who="Hysing">
+   <speaker>HYSING</speaker>
+
+    <p>Hvad behager?</p>
+ </sp>
+
+ <sp who="Howitz">
+   <speaker>HOWITZ</speaker>
+
+    <p>Nej, det var Intet . . . Jeg beder Dem hilse hende fra mig . . . mulig tr&#x00E6;ffer jeg hende ved Lejlighed selv derude.</p>
+ </sp>
+
+ <sp who="Hysing">
+   <speaker>HYSING</speaker>
+
+ <stage>(:afsides:)</stage>
+
+    <p>En h&#x00F8;jst n&#x00E6;rgaaende og ubehagelig Fyr!</p>
+ </sp>
+
+<stage>(:D&#x00F8;ren aabner sig. Morten Busk og Carsten Bomhof tr&#x00E6;de ind; &#x2013; den F&#x00F8;rste utoiletm&#x00E6;ssigt kl&#x00E6;dt med graa Hat, Stok og Jakke; rund, tyk og skj&#x00E6;gget. Morten Busk vender endnu Ryggen til D&#x00F8;ren:)</stage>
+                  
+<pb n="10"/>
+
+ <sp who="Carsten Bomhof">
+   <speaker>CARSTEN BOMHOF</speaker>
+
+    <p>Jovist, jo vist er det her!</p>
+ </sp>
+
+ <sp who="Morten Busk">
+   <speaker>MORTEN BUSK</speaker>
+
+ <stage>(:vender sig og ser sig forbl&#x00F8;ffet om i Stuen, forlegen ved at se den festlig; idet han faar &#x00D8;je paa Lauritz Hysing, l&#x00E6;ner han sig raskt overlegen paa sin Stok, s&#x00E6;tter N&#x00E6;sebrillerne paa og udbryder med en vis Air:)</stage>
+
+    <p>Tillad mig at sp&#x00F8;rge det &#x00E6;rede Selskab? &#x2013; Befinder man sig her hos Studiosus philologi&#x00E6;, Amanuensis ved Bibliotheket, den &#x00E6;sthetiske Recensent i Bladet &#x00AB;Dagslyset&#x00BB;, Hr. Henrik Hjorts Stue? Man skulde gratulere ham, &#x2013; skue ham ved den hjemlige Arne, . . . ved Husgudernes Altar ofrende til Larerne og Penaterne, det vil sige: han br&#x00E6;nder sine Idealer, <hi rend="italic">dem</hi> til en s&#x00F8;d Lugt, hans tidligere Venner til Begr&#x00E6;delse.</p>
+ </sp>
+
+ <sp who="Henrik Hjort">
+   <speaker>HENRIK HJORT</speaker>
+
+    <p>Det ligner ham!</p>
+ </sp>
+
+ <sp who="Carsten Bomhof">
+   <speaker>CARSTEN BOMHOF</speaker>
+
+ <stage>(:rettende sig op bag Busk:)</stage>
+
+    <p>Altsaa; Hic Rhodus?</p>
+ </sp>
+
+ <sp who="Henrik Hjort">
+   <speaker>HENRIK HJORT</speaker>
+
+    <p>Javist er det her! &#x2013; Tr&#x00E6;d ind!</p>
+ </sp>
+
+ <sp who="Howitz">
+   <speaker>HOWITZ</speaker>
+
+ <stage>(:afsides til Theodora:)</stage>
+
+    <p>Her regjerer nok en vis h&#x00F8;jere Folkeskik, . . . som gaar over Hovedet paa os Smaafolk, forstaar Du!</p>
+ </sp>
+
+ <sp who="Hjort">
+   <speaker>HJORT</speaker>
+
+    <p>Maa jeg forestille Selskabet Hr. Literatus Morten Busk, noksom kjendt af Navn, Studiosus perpetuus, omvandrende ironisk Filosof &#x00E0; la Socrates, ellers Arrangeur af Feulletonen i Bladet &#x00AB;Borgeren&#x00BB;, &#x2013; en hans Evner uv&#x00E6;rdig, kun af det materielle Livs Krav paatvunget Beskj&#x00E6;ftigelse . . .</p>
+ </sp>
+
+ <sp who="Hysing">
+   <speaker>HYSING</speaker>
+
+    <p>. . . Hans Aand sv&#x00E6;ver daglig usynlig blandt denne Byes Familjer, s&#x00E6;rlig ved Eftermiddags og Aftentide . . .</p>
+ </sp>
+
+<pb n="11"/>
+
+ <sp who="Howitz">
+   <speaker>HOWITZ</speaker>
+
+    <p>Jeg forstaar &#x2013; &#x2013; den Del af den, som han maa br&#x00E6;nde til &#x00C6;re for sine Husguder.</p>
+ </sp>
+
+ <sp who="Morten Busk">
+   <speaker>MORTEN BUSK</speaker>
+
+ <stage>(:ser lidt overrasket paa ham:)</stage>
+
+    <p>Indr&#x00F8;mmet! &#x2013; truffet! Og dog, &#x2013; saa inconseqvent er Mennesket &#x2013; jeg holder af at sysle med disse hjemmebagte, borgerlige Sympathier og Meninger. Jeg har styret den Feulleton nu i tyve Aar. Ja, jeg har endog drevet Svagheden saa vidt, at jeg selv har sat mig til i Sloprok og Nathue ved et Glas varm Toddy og l&#x00E6;st den. Man mager Ryggen tilbage i Fars Stol og sin Fars Tid og indbilder sig . . . </p>
+ </sp>
+
+ <sp who="Theodora">
+   <speaker>THEODORA</speaker>
+
+    <p>Jeg l&#x00E6;ser altid de Feulletoner. Fra jeg var ung Pige har jeg dem at takke for mangen dejlig Stund &#x2013; saa interessante . . . og altid med Meninger, som En maa elske.</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Ja vi hjemme syntes det samme; vi l&#x00E6;ste dem altid h&#x00F8;jt. Jeg blev saa glad, da jeg h&#x00F8;rte, De var en af Henriks Venner . . .</p>
+ </sp>
+
+ <stage>(:Morten Busk ser op i Taget:)</stage>
+
+ <sp who="Hysing">
+   <speaker>HYSING</speaker>
+
+    <p>Hm! Du staar for den popul&#x00E6;re &#x00E6;sthetiske Domstol, forstaar Du min kj&#x00E6;re Busk! Din Virksomhed i Bladet Borgeren, det vil sige din borgerlige Virksomhed s&#x00E6;tter Dig ind i den moralske Skikkeligheds Kategori . . . jeg h&#x00F8;rer Dig staa og stampe tilfreds der inde i Stalden ved Krybben paa dine &#x00E6;ldre Dage.</p>
+ </sp>
+
+ <sp who="Carsten Bomhof">
+   <speaker>CARSTEN BOMHOF</speaker>
+
+    <p>Ja, hvad siger ikke Bayle i sin ber&#x00F8;mte, vittige Ordbog . . .</p>
+ </sp>
+
+ <sp who="Hjort">
+   <speaker>HJORT</speaker>
+
+    <p>Om Forladelse, jeg glemte at pr&#x00E6;sentere min Ven Candidatus philosofi&#x00E6; Carsten Bomhof!</p>
+
+ <stage>(:til Anna:)</stage>
+
+    <p>Hr. Carsten Bomhof &#x2013; min Hustru!</p>
+ </sp>
+
+<pb n="12"/>
+
+ <sp who="Bomhof">
+   <speaker>BOMHOF</speaker>
+
+    <p>. . . han siger . . .</p>
+ </sp>
+
+ <sp who="Hjort">
+   <speaker>HJORT</speaker>
+
+ <stage>(:overh&#x00F8;rende:)</stage>
+
+    <p>Som Du ser ham der, har han intet mindre end en hel Bog i Hovedet, &#x2013;</p>
+ </sp>
+
+ <sp who="Bomhof">
+   <speaker>BOMHOF</speaker>
+
+    <p>Ja, nu er jeg da endelig enig med mig selv om Titelen . . . Titelen er, som Chateaubriand har sagt, hverken mere eller mindre end selve Bogen . . . Bogen in nuce. Den skal hede &#x00AB;Tiden, seet &#x00E6;sthetisk, ethisk og praktisk&#x00BB; med et Anhang om dens vigende Mystik &#x2013; Religionen.</p>
+ </sp>
+
+ <sp who="Howitz">
+   <speaker>HOWITZ</speaker>
+
+ <stage>(:afsides:)</stage>
+
+    <p>Nu! &#x2013; jeg anede ikke, det var en slig Fyr!</p>
+
+ <stage>(:h&#x00F8;jt:)</stage>
+
+    <p>T&#x00F8;r jeg sp&#x00F8;rge, tager De ind i V&#x00E6;rket noget om det Merkantile?</p>
+ </sp>
+
+ <sp who="Hysing">
+   <speaker>HYSING</speaker>
+
+ <stage>(:med Skadefryd:)</stage>
+
+    <p>&#x2013; noget om Varepr&#x00F8;ver &#x2013; hvad?</p>
+ </sp>
+
+ <sp who="Hjort">
+   <speaker>HJORT</speaker>
+
+ <stage>(:skyndsomt:)</stage>
+
+    <p>Vil Damerne og Herrerne ikke drikke et Glas Vin? &#x2013; Du glemmer at byde Anna!</p>
+ </sp>
+
+ <stage>(:Medens man drikker viser Fr&#x00F8;ken Magda Howitz sig i D&#x00F8;ren:)</stage>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Nej, &#x2013; Tante Magda!</p>
+ </sp>
+
+ <sp who="Tante Magda">
+   <speaker>TANTE MAGDA</speaker>
+
+ <stage>(:hilsende og kyssende Anna:)</stage>
+
+    <p>Ja, her har Du Tante, kj&#x00E6;re Anna!</p>
+
+ <stage>(:seende sig m&#x00F8;nstrende om i V&#x00E6;relset:)</stage>
+
+    <p>Saa, Krandsekage! Gratulationsvisitter! Presenter! &#x2013; Jeg vidste, din Far ikke vilde spare, naar det kom til Stykket, skj&#x00F8;nt det jo ikke netop var efter hans Hoved,<pb n="13"/> at . . .</p>
+
+ <stage>(:hilsende paa Henrik Hjort og henvendt til ham:)</stage>
+
+    <p>ja, jeg kommer med friske Hilsener hjemmefra . . . og saa faar Du jo nu en stor Post, Henrik! &#x2013; Saa er man mere selvst&#x00E6;ndig!</p>
+ </sp>
+
+ <sp who="Lauritz Hysing">
+   <speaker>LAURITZ HYSING</speaker>
+
+ <stage>(:afsides:)</stage>
+
+    <p>Ah, saa, &#x2013; det h&#x00E6;nger altsaa dog i Svigerfar Howitz!</p>
+ </sp>
+
+ <sp who="Hjort">
+   <speaker>HJORT</speaker>
+
+ <stage>(:stivt:)</stage>
+
+    <p>Velkommen i Huset Tante! Med eller uden den Post haaber jeg nok, De skal se mig staa paa egne Ben! . . .</p>
+ </sp>
+
+<stage>(:Anna forlegen:)</stage>
+
+ <sp who="Howitz">
+   <speaker>HOWITZ</speaker>
+
+ <stage>(:bem&#x00E6;gtiger sig skyndsomt Tanten:)</stage>
+
+    <p>God Dag, kj&#x00E6;re Tante!</p>
+
+ <stage>(:afsides med V&#x00E6;gt til hende:)</stage>
+
+    <p>Husk da paa, &#x2013; det er ikke noget at basunere ud for Alverden, at Far var imod Partiet!</p>
+ </sp>
+
+ <sp who="Tante Magda">
+   <speaker>TANTE MAGDA</speaker>
+
+ <stage>(:lidt forn&#x00E6;rmet:)</stage>
+
+    <p>Saa, &#x2013; saa! &#x2013; Nu ja, jeg skal vist ikke bringe det ud!</p>
+
+ <stage>(:Hun gaar efter lidt Bet&#x00E6;nkning hen til Anna og ser hende ind i Ansigtet:)</stage>
+
+    <p>&#x2013; Og Du er lykkelig nu?</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Om jeg er lykkelig! &#x2013; &#x2013; Ja, jeg v&#x00E9;d nok, Tante Magda, at Far ikke var videre for, at Henrik og jeg skulde gifte os, &#x2013; at han skulde havt Embedsexamen; &#x2013; men Du skal tro, det varer ikke l&#x00E6;nge, f&#x00F8;r han skal erkjende ham for, hvad han er!</p>
+
+ <stage>(:S&#x00E9;r paa sin Mand med Stolthed:)</stage>
+ </sp>
+
+ <sp who="Tante Magda">
+   <speaker>TANTE MAGDA</speaker>
+
+    <p>Det var den Stilling sammen med din Broder Fredrik, som stod din Far for Hovedet, ser Du; &#x2013; han mente, en Mand skulde vide, hvor han tog Br&#x00F8;det fra, f&#x00F8;r han giftede sig &#x2013; Nu ja, nu har han jo Udsigt til at blive en stor Redakt&#x00F8;r, og . . .</p>
+ </sp>
+
+<pb n="14"/>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Far eller Fredrik forstaa endnu ikke, hvad de har villet standse . . . Og Theodora, hun . . . kan nu ikke t&#x00E6;nke sig noget h&#x00F8;jere end hendes Mands velsignede Fabriker!</p>
+
+ <stage>(:De gaa hen mellem de Andre ved Bordet:)</stage>
+ </sp>
+
+ <stage>(:D&#x00F8;ren aabnes og ind kommer den smukke, genialt kl&#x00E6;dte, Richard Schnelle:)</stage>
+
+ <sp who="Morten Busk">
+   <speaker>MORTEN BUSK</speaker>
+
+    <p>Der har vi ham, &#x2013; vor unge Sol!</p>
+ </sp>
+
+ <sp who="Richard Schnelle">
+   <speaker>RICHARD SCHNELLE</speaker>
+
+    <p>Ja, her er jeg!</p>
+ </sp>
+
+ <sp who="Hjort">
+   <speaker>HJORT</speaker>
+
+    <p>Maa jeg forestille Hr. Richard Schnelle &#x2013; Student, Poet! . . . Sig med engang Schnelle er Du i fjerde eller femte Akt?</p>
+ </sp>
+
+ <sp who="Schnelle">
+   <speaker>SCHNELLE</speaker>
+
+ <stage>(:hastigt afv&#x00E6;rgende:)</stage>
+
+    <p>Jeg har opgivet det. Jeg er begyndt paa et Epos &#x2013; ja, et st&#x00F8;rre forstaar Du; . . . jeg har en saadan herlig Udgang! . . . T&#x00E6;nk Dig . . .</p>
+
+ <stage>(:han tager ham raskt tilside henimod Fredrik Howitz:)</stage>
+
+ </sp>
+
+ <sp who="Hjort">
+   <speaker>HJORT</speaker>
+
+    <p>Maa jeg forestille, &#x2013; det er min Svoger Howitz!</p>
+ </sp>
+
+ <sp who="Schnelle">
+   <speaker>SCHNELLE</speaker>
+
+    <p>Din Svoger! Ja saa kan han jo gjerne h&#x00F8;re!</p>
+
+ <stage>(:Demonstrerende ivrigt:)</stage>
+
+    <p>T&#x00E6;nk Eder engang Helten og Heltinden! Netop som det skummende B&#x00E6;ger s&#x00E6;ttes til L&#x00E6;ben &#x2013; tager jeg det bort! Det er en Udgang, som man skal lede efter Magen til &#x2013; hvad? &#x2013; rent ud rystende!</p>
+ </sp>
+
+ <sp who="Hjort">
+   <speaker>HJORT</speaker>
+
+ <stage>(:halvt overh&#x00F8;rende:)</stage>
+
+    <p>Nu, nu &#x2013; kom nu, skal Du faa se min Hustru!</p>
+ </sp>
+
+<pb n="15"/>
+
+ <sp who="Howitz">
+   <speaker>HOWITZ</speaker>
+
+ <stage>(:ser forbauset paa ham; med et Skuldertr&#x00E6;k:)</stage>
+
+    <p>Netop som det skummende B&#x00E6;ger s&#x00E6;ttes til L&#x00E6;ben, &#x2013; tager De det bort! &#x2013; Min ringe Forstand siger mig, at de To da maa staa med saa temmelig lange Ansigter . . .</p>
+ </sp>
+
+ <sp who="Schnelle">
+   <speaker>SCHNELLE</speaker>
+
+ <stage>(:maalende ham med &#x00D8;jnene:)</stage>
+
+    <p>Hvad behager min Herre! &#x2013;</p>
+ </sp>
+
+ <sp who="Hjort">
+   <speaker>HJORT</speaker>
+
+ <stage>(:idet han f&#x00F8;rer ham hen til sin Hustru:)</stage>
+
+    <p>Aa, bryd Dig ikke om Svoger Howitz, han er et godt Hoved, men Poesi er just ikke det, han skj&#x00F8;nner sig paa</p>
+    
+ <stage>(:sp&#x00F8;gende til Anna:)</stage>
+
+    <p>Vil Du vel sige, at din Broder gj&#x00F8;r det Anna? . . . Maa jeg forestille Dig Richard Schnelle. R.S. Det lille Digt af &#x00AB;R.S.&#x00BB;, Du l&#x00E6;ste, er af ham.</p>
+ </sp>
+
+ <sp who="Morten Busk">
+   <speaker>MORTEN BUSK</speaker>
+
+ <stage>(:der staar halvt med Ryggen til, idet han t&#x00F8;mmer et Glas:)</stage>
+
+    <p>Ser han ikke genial ud? &#x2013; Han udstraaler Poesi og indtager Damerne.</p>
+    
+ <stage>(:halvt til disse halvt for sig selv:)</stage>
+
+    <p>. . . han l&#x00E6;ser sine Vers, saa han blir hvid i Ansigtet af Begejstring!</p>
+ </sp>
+
+ <sp who="Tante Magda">
+   <speaker>TANTE MAGDA</speaker>
+
+ <stage>(:til Anna:)</stage>
+
+    <p>Saa, det er en Digter! Jeg har bestandig l&#x00E6;ngtes efter at se en saadan Mand.</p>
+
+ <stage>(:betragtende ham:)</stage>
+
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+ <stage>(:til Schnelle:)</stage>
+
+    <p>Jeg gl&#x00E6;der mig til at l&#x00E6;re Dem at kjende, Hr. Schnelle! Min Mand har fortalt mig saameget om Dem.</p>
+ </sp>
+
+ <sp who="Tante Magda">
+   <speaker>TANTE MAGDA</speaker>
+
+    <p>Det maa dog v&#x00E6;re underligt saadan at f&#x00F8;le Muligheden af en stor Fremtid hos sig . . .</p>
+ </sp>
+
+<pb n="16"/>
+
+ <sp who="Richard Schnelle">
+   <speaker>RICHARD SCHNELLE</speaker>
+
+    <p>Der laa en Kvindes hele fine Sind i den Bem&#x00E6;rkning! . . . Javist! . . . man er som frugtbetynget &#x2013; som ventende paa sig selv . . . som . .
+                     som</p>
+ </sp>
+
+ <sp who="Tante Magda">
+   <speaker>TANTE MAGDA</speaker>
+
+    <p>&#x2013; en Morgen vaagner man og ser Tr&#x00E6;et staa snevidt, dryssende af Blomster udenfor sit Vindu. En Anledning er Vinden, der ryster det, og saa . . .</p>
+ </sp>
+
+ <sp who="Morten Busk">
+   <speaker>MORTEN BUSK</speaker>
+
+ <stage>(:uden at vende sig, ironisk for sig selv:)</stage>
+
+    <p>. . . sner der Digte udover Landet, saa h&#x00F8;jt, at man maa bane sig Vejen gjennem dem med en Sneplaug.</p>
+ </sp>
+
+ <sp who="Frederik Howitz">
+   <speaker>FREDRIK HOWITZ</speaker>
+
+ <stage>(:som staar ved Siden af ham, leende:)</stage>
+
+    <p>Skaal! Vi De tillade mig at drikke et Glas med Dem, &#x2013; det om Sneplaugen . . .</p>
+ </sp>
+
+ <sp who="Morten Busk">
+   <speaker>MORTEN BUSK</speaker>
+
+ <stage>(:f&#x00F8;rst st&#x00F8;dt, siden med Overgang i Hum&#x00F8;ret:)</stage>
+
+    <p>Hvad behager! &#x2013; Det var en Bem&#x00E6;rkning for mig selv &#x2013; en afsides beskeden Replik . . . Nu, den slog ned! . . . H&#x00F8;jst smigrende!</p>
+    
+ <stage>(:drikker med ham:)</stage>
+
+    <p>. . . Deres Svogers Velgaa&#x2013; ende!</p>
+ </sp>
+
+ <sp who="Howitz">
+   <speaker>HOWITZ</speaker>
+
+ <stage>(:leende:)</stage>
+
+    <p>Ja, &#x2013; og saa paa det om Sneplaugen!</p>
+ </sp>
+
+ <sp who="Hysing">
+   <speaker>HYSING</speaker>
+
+ <stage>(:til Carsten Bomhof, pegende med Tommelfingeren over Skuldren mod de to Foregaaende der staa i Samtale:)</stage>
+
+    <p>Spidsborgerne s&#x00E6;tte sig paa den Morten Busk som Fluer paa et Stykke Sukker; &#x2013; de ane ikke, at han harcellerer dem ud og ind . . . til de falde af ham aandelig dr&#x00E6;bte. H&#x00F8;rte Du &#x2013; de staa og drikke paa Svogerens Velgaaende; den n&#x00E6;ste Skaal blir for Svigerfars N&#x00E6;ring, &#x2013; han ejer et Skibsv&#x00E6;rft den Howitz.<pb n="17"/> Apropos om N&#x00E6;ringen! &#x2013; saa blir det naturligvis Svigerfar, som kommer til at staa for Underholdningen i L&#x00E6;ngden. Med en Ammanuensisgage og den Smule Avisskriveri ved Siden af kommer han nok ikke langt. &#x2013; Ja, Du v&#x00E9;d, det heder, han har faaet et Slags Udsigt til at blive Redakt&#x00F8;r af det nye Tidsskrift &#x00AB;Samtiden&#x00BB;. Tror Du, han blir det?</p>
+ </sp>
+
+ <sp who="Hysing">
+   <speaker>HYSING</speaker>
+
+    <p>. . . at han har den Personlighedens M&#x00E6;gtighed? . . . den Staalvilje, det snare Blik for det afgj&#x00F8;rende i Tiden, som skal til for at staa som den centrale Mand i en virkelig Culturbev&#x00E6;gelse? &#x2013; Han skriver med et Vist Talent, og under en Chef, som kunde lede hans Pen . . . Men lad det blive mellem os &#x2013; de otte hundrede Daler om Aaret . . .</p>
+ </sp>
+
+ <sp who="Bomhof">
+   <speaker>BOMHOF</speaker>
+
+    <p>Og jeg vil sige, at enten Du eller Morten Busk er Manden for Posten &#x2013;</p>
+ </sp>
+
+ <sp who="Hysing">
+   <speaker>HYSING</speaker>
+
+    <p>Ja, &#x2013; om Morten Busk kan der nu ikke v&#x00E6;re Tale . . . Han er egentlig kun en pikant Vanskabning, . . . et Indfaldsmenneske, der er leddel&#x00F8;s i Viljen. Han f&#x00F8;ler selv, at han er aandelig afm&#x00E6;gtig; derfor drikker han og er ironisk. Se, det er nu hans Definition, &#x2013; den h&#x00E6;nger som Sv&#x00E6;rdet over hans Hoved, forstaar Du! . . det er han, som har anbefalet Henrik Hjort til Forl&#x00E6;ggerne!</p>
+ </sp>
+
+ <sp who="Hjort">
+   <speaker>HJORT</speaker>
+
+ <stage>(:idet han med et Glas gaar hen til Anna:)</stage>
+
+    <p>Min Hustru og jeg &#x00F8;nsker Eder, kj&#x00E6;re Sl&#x00E6;gtninge og Venner, velkommen i vort Hjem!</p>
+ </sp>
+
+<stage>(:Man drikker:)</stage>
+
+ <sp who="Busk">
+   <speaker>BUSK</speaker>
+
+    <p>Maa jeg &#x00F8;nske tilbage dit og din Hustrues Velgaaende! &#x2013; Og h&#x00F8;r et Raad, inden det fordunster i en anden Stemning, Du nu</p>
+
+ <stage>(:han bukker for Fruen:)</stage>
+
+    <p>til en saa skj&#x00F8;n og elskv&#x00E6;rdig Virkelighed knyttede Mand! Bliv ankerfast hos dine<pb n="18"/> Sl&#x00E6;gtninge og vogt Dig vel for dine Venner! Lad os v&#x00E6;re Dig som R&#x00F8;g, som Halm, som daarlige Ungkarletanker, som en forgangen Dag, Du angrer! &#x2013; Gode Venner har det tilf&#x00E6;lles med gode Fors&#x00E6;tter, at de brol&#x00E6;gge Vejen til &#x2013; Hm! &#x2013; Det skulde da v&#x00E6;re, om Du kom op i Fredagsklubben, &#x2013; ellers vilde jeg savne Dig! De slipper ham vel didop Frue!</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>De taler, saa jeg blir halvt bange for Dem &#x2013; som om &#x00C6;gteskabet var det samme som en aandelig Lyseslukker!</p>
+ </sp>
+
+ <sp who="Busk">
+   <speaker>BUSK</speaker>
+
+    <p>Tvertimod Frue! &#x2013; Tvertimod! Jeg vil endog indr&#x00F8;mme den store Ting, at <hi rend="italic">der</hi> netop br&#x00E6;nder Lyset; &#x2013; man skal bare ikke gaa ud i Vinden med det &#x2013; og faa det bl&#x00E6;st ud . . .</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+ <stage>(:leende:)</stage>
+
+    <p>. . . af sine gode Venner, mener De . . . Nej, nu blir De mig altfor aandrig.</p>
+ </sp>
+
+ <sp who="Busk">
+   <speaker>BUSK</speaker>
+
+    <p>Ser De Frue! Saadanne som jeg, &#x2013; for ikke at tale om dem, der</p>
+    
+ <stage>(:bukker til Lauritz Hysing:)</stage>
+
+    <p>ere mig uendelig overlegne, &#x2013; kan fylde det hele Land med Lys uden i Virkeligheden, at t&#x00E6;nde saameget som en Fyrstikke. Solen lyser og varmer &#x2013; Hjernemennesket kun lyser! &#x2013; Hjernefosfor! &#x2013; lutter Fosfor! . . . De faar ikke t&#x00E6;ndt saameget som en Tr&#x00E6;pinde i Deres Ovn dermed Frue! Thermometret vil ikke stige en Milionted&#x00E9;l af en Varmegrad i deres Stue! Tvertimod! &#x2013; &#x2013; Og De vil endnu sende Deres Mand i Klubben?</p>
+       
+ <stage>(:komisk h&#x00F8;jtidelig:)</stage>
+
+    <p>Ja, nu har jeg advaret Dem!</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Sandt at sige, er jeg altfor stolt af min Mands Venner, til at ville skille ham af med deres Omgang.</p>
+ </sp>
+
+<pb n="19"/>
+
+ <sp who="Hysing">
+   <speaker>HYSING</speaker>
+
+ <stage>(:til Carsten Bomhof:)</stage>
+
+    <p>Det er virkelig en aandfuld Kone!</p>
+
+ <stage>(:afsides:)</stage>
+
+    <p>Ved Lejlighed skal jeg Overantvorde hende min Definition af den Morten Busk; &#x2013; det var Uforskammetheder han opvartede med. Han har heller ingen Forstaaelse af mig . . . vil standse min Vej til Tidsskriftet. Nu vel! &#x2013; han skal blive taget rationelt &#x2013; koldt!</p>
+ </sp>
+
+ <sp who="Hjort">
+   <speaker>HJORT</speaker>
+
+ <stage>(:f&#x00F8;rende Bogtrykker Schj&#x00F8;rn hen til Bordet og, gribende et Glas:)</stage>
+
+    <p>Lad mig nu drikke et Glas med Dem Hr. Schj&#x00F8;rn! og takke for de tre Aar, hvori De har v&#x00E6;ret min V&#x00E6;rt. &#x2013; De har isandhed v&#x00E6;ret en taalmodig Mand . . .</p>
+
+ <stage>(:De drikke:)</stage>
+
+    <p>&#x2013; Maa jeg forestille Dem min Svoger Howitz . . . Hr. Bogtrykker Schj&#x00F8;rn!</p>
+
+ <stage>(:Han gaar:)</stage>
+
+ </sp>
+
+ <sp who="Howitz">
+   <speaker>HOWITZ</speaker>
+
+    <p>Saa, min Svoger har boet hos Dem?</p>
+ </sp>
+
+ <sp who="Schjørn">
+   <speaker>SCHJ&#x00D8;RN</speaker>
+
+    <p>I tre Aar, hverken mere eller mindre.</p>
+
+ <stage>(:Med Vigtighed:)</stage>
+
+    <p>Jeg har den &#x00C6;re at kjende alle hans Venner</p>
+
+ <stage>(:Fortroligt, idet han peger didhen, hvor Hysing og Bomhof staa:)</stage>
+
+    <p>De skal vide, det er lutter m&#x00E6;rkelige M&#x00E6;nd, som kommer her; det er dem, man snakker saameget om, . . . som har Klub i det inderste V&#x00E6;relse af Br&#x00F8;gers Caff&#x00E9;.</p>
+ </sp>
+
+ <sp who="Morten Busk">
+   <speaker>MORTEN BUSK</speaker>
+
+ <stage>(:kommer slentrende til:)</stage>
+
+    <p>H&#x00F8;jst m&#x00E6;rkelige Personer, Hr. Schj&#x00F8;rn! &#x2013; det kan jeg forsikkre Dem; jeg har studeret dem nu i flere Aar og endnu ikke fundet nogen Bund i dem! Maa jeg drikke et Glas med Dem &#x2013; paa Gammelt!</p>
+ </sp>
+
+ <sp who="Howitz">
+   <speaker>HOWITZ</speaker>
+
+ <stage>(:leende:)</stage>
+
+    <p>Nu, De gir sandelig det glatte Lag, hvor De kommer, Hr. Busk!</p>
+ </sp>
+
+<pb n="20"/>
+
+<stage>(:Morten Busk l&#x00F8;fter Glasset og ser ind i det:)</stage>
+
+ <sp who="Howitz">
+   <speaker>HOWITZ</speaker>
+
+    <p>. . . kun vilde jeg sige, &#x2013; fyrer De ikke med det samme indover Deres eget D&#x00E6;k?</p>
+ </sp>
+
+ <sp who="Morten Busk">
+   <speaker>MORTEN BUSK</speaker>
+
+    <p>Selvmord, mener De? &#x2013; Selvmord! &#x2013; Det er nu min Maade at leve paa! &#x2013;</p>
+    
+ <stage>(:nikker sp&#x00F8;gende til ham idet han gaar:)</stage>
+
+ </sp>
+
+ <sp who="Howitz">
+   <speaker>HOWITZ</speaker>
+
+    <p>Det er virkelig en morsom Fyr! &#x2013; Klart at han er begavet; &#x2013; &#x2013; &#x2013; Jeg gad forresten nok vide, hvem det er, som speculerer i alle disse Mennesker? &#x2013; Det maa naturligvis v&#x00E6;re Forl&#x00E6;ggerne!</p>
+ </sp>
+
+ <sp who="Richard Schnelle">
+   <speaker>RICHARD SCHNELLE</speaker>
+
+ <stage>(:kommer ivrigt gesticulerende i en Samtale med Theodora Howitz:)</stage>
+
+    <p>Tro mig! Der er noget i alle disse Raab, &#x2013; der kommer en ny Tid, en ny Sol dragende op, . . . de nuv&#x00E6;rende Religioner, &#x00C6;gteskabet, Ejendommen, Familjelivet &#x2013; Alt vil fort&#x00E6;res i dens Gl&#x00F8;d!</p>
+
+ <stage>(:De komme i n&#x00E6;rheden af Bomhof og Morten Busk:)</stage>
+
+    <p>Ikke sandt Carsten Bomhof?</p>
+ </sp>
+
+ <sp who="Bomhof">
+   <speaker>BOMHOF</speaker>
+
+    <p>Ejendom er Tyveri, siger Proudhomme, og Familjeinstitutionen, &#x2013; &#x2013; ja i min Bog skal De faa l&#x00E6;se henved tre hundrede Sider bare om dette Sp&#x00F8;rgsmaal.</p>
+ </sp>
+
+ <sp who="Theodora">
+   <speaker>THEODORA</speaker>
+
+    <p>Men De selv? &#x2013; De mener dog ikke sligt!</p>
+ </sp>
+
+ <sp who="Bomhof">
+   <speaker>BOMHOF</speaker>
+
+    <p>Jeg selv? &#x2013; Jeg har blot at opstille objectivt, hvad Videnskaben siger, hvad Tidens f&#x00F8;rste Aander mene om Sagen, og &#x2013;</p>
+    
+ <stage>(:til Schnelle:)</stage>
+
+    <p>hvad dens Digtere ane! &#x2013;</p>
+ </sp>
+
+<pb n="21"/>
+
+ <sp who="Morten Busk">
+   <speaker>MORTEN BUSK</speaker>
+
+    <p>Det er jo simpelt at forstaa det, Frue! at den, som skriver om en Sag, ikke selv kan have nogen Mening om den . . .</p>
+ </sp>
+
+ <sp who="Bomhof">
+   <speaker>BOMHOF</speaker>
+
+ <stage>(:stivt:)</stage>
+
+    <p>Jeg maa frabede mig deslige Fors&#x00F8;g paa at ironisere over min Person!</p>
+ </sp>
+
+ <sp who="Hysing">
+   <speaker>HYSING</speaker>
+
+ <stage>(:der har fulgt Samtalen, til Hjort:)</stage>
+
+    <p>Du skulde virkelig have et &#x00D8;je med Morten Busk, . . . at han ikke drikker formeget her. Han gaar omkring og er uforskammet; . . . jeg forsikkrer Dig, det kan have sine Gr&#x00E6;ndser!</p>
+ </sp>
+
+ <sp who="Hjort">
+   <speaker>HJORT</speaker>
+
+    <p>Naa, naa, &#x2013; &#x2013; Du kjender ham jo. Fort&#x00E6;l heller min Tante Fr&#x00F8;ken Howitz her, hvad Slags Digter Richard Schnelle er; hun vil absolut have Besked paa den Sag.</p>
+ </sp>
+
+ <sp who="Hysing">
+   <speaker>HYSING</speaker>
+
+ <stage>(:til Tante Magda med et Anstr&#x00F8;g af l&#x00E6;rd Foredrag:)</stage>
+
+    <p>Hm! &#x2013; Richard Schnelle, Fr&#x00F8;ken! &#x2013; Ja, det er egentlig et vidl&#x00F8;ftigt Kapitel; men jeg skal fatte mig i korte Slagsatser: Han er ingen Digter, men han vil blive en . . . jeg har forud construeret hans hele Digterbane, det sph&#x00E6;riske Snit, der begr&#x00E6;ndser alle hans Genies Muligheder. Gaar han den Vej, jeg har stukket ud for ham, vil han naa op i det Betydelige; &#x2013; gaar han sin egen Vej, vil han kun blive en uklar Taagefigur, en Umulighed, der ikke kan anerkjendes . . .</p>
+ </sp>
+
+ <sp who="Morten Busk">
+   <speaker>MORTEN BUSK</speaker>
+
+ <stage>(:til Theodora Howitz:)</stage>
+
+    <p>Forstaar De? Noch eine Sterne unbestimten Ranges! &#x2013; men, gaar den Stakkel ikke Hr. Hysings Vej, saa slukker han ham bare ud!</p>
+ </sp>
+
+<pb n="22"/>
+
+ <sp who="Hysing">
+   <speaker>HYSING</speaker>
+
+ <stage>(:spydigt:)</stage>
+
+    <p>Skal vi ikke resikere, at Busks eget Lys snart gaar ud, er det nok nu paatide, at tr&#x00E6;kke os tilbage.</p>
+ </sp>
+
+ <sp who="Frederik Howitz">
+   <speaker>FREDRIK HOWITZ</speaker>
+
+    <p>Jeg t&#x00E6;nker, det er paatide for os Alle nu at bryde op.</p>
+
+ <stage>(:Theodora rejser sig; han gaar med sin Hustru hen til Hjort og Anna:)</stage>
+
+    <p>Farvel Svoger! Farvel Anna! I komme dog snart og bes&#x00F8;ge os?</p>
+ </sp>
+
+ <sp who="Hjort">
+   <speaker>HJORT</speaker>
+
+ <stage>(:undvigende:)</stage>
+
+    <p>Min Tid blir saa optaget, . . . saa udenfor Kredsen af gamle Venner vil jeg vel mindre hyppig r&#x00E6;kke, men . . .</p>
+ </sp>
+
+ <sp who="Theodora">
+   <speaker>THEODORA</speaker>
+
+ <stage>(:spydig til Fredrik Howitz:)</stage>
+
+    <p>Ja, Du kan jo ikke love din S&#x00F8;sters Mand nogen Stue fuld af Aandrighed, som han er vant til . . .</p>
+ </sp>
+
+ <sp who="Frederik Howitz">
+   <speaker>FREDRIK HOWITZ</speaker>
+
+ <stage>(:med Alvor og irettes&#x00E6;ttende:)</stage>
+
+    <p>. . . men altid fuld Hjertelighed, Theodora!</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+ <stage>(:hastigt:)</stage>
+
+    <p>Det v&#x00E9;d vi jo, &#x2013; og vi vil visselig lige saa gjerne komme, som I vil have os. Henrik mener bare, at han vil faa saa meget at gj&#x00F8;re i den f&#x00F8;rste Tid, at . . .</p>
+ </sp>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+    <p>Javist, &#x2013; og, kan ikke jeg, kan jo Anna alene komme, . . .</p>
+ </sp>
+
+ <sp who="Tante Magda">
+   <speaker>TANTE MAGDA</speaker>
+
+    <p>Farvel, kj&#x00E6;re Anna! Det var rigtig en nydelig Formiddag, &#x2013; alle disse Mennesker, som bare leve og aande i h&#x00F8;jere Interesser! En blir tilmode blandt dem, som En var paa Komedie, og hele Verden bare gik paa Rim eller Vers eller saadant Noget.</p>
+ </sp>
+
+<pb n="23"/>
+
+ <sp who="Hysing">
+   <speaker>HYSING</speaker>
+
+ <stage>(:tager Afsked:)</stage>
+
+    <p>Min s&#x00E6;rlige Respekt, Frue!</p>
+ </sp>
+
+<stage>(:De Andre tage ogsaa Afsked:)</stage>
+
+ <sp who="Morten Busk">
+   <speaker>MORTEN BUSK</speaker>
+
+<stage>(:tager Hat og Stok, som han har sat hen i Krogen, griber Carsten Bomhof ved Armen og vil gaa, men erindrer i det samme, at han har glemt at sige Farvel. &#x2013; I en lidt opstyltet Tone:)</stage>
+
+    <p>Det er sandt! &#x2013; Maa jeg anbefale mig i Din og Hustrues Bevaagenhed, &#x2013; &#x2013; bede Dem undskylde en Mand, som holdt paa at gaa ud af Huset uden at sige Farvel &#x2013; s&#x00F8;rgelige F&#x00F8;lger af Caff&#x00E9;livet, Frue! &#x2013; &#x2013; &#x2013; Hm! &#x2013; ja &#x2013; maatte I nu leve som to Turtelduer!</p>
+ </sp>
+
+ <sp who="Henrik Hjort">
+   <speaker>HENRIK HJORT</speaker>
+
+ <stage>(:f&#x00F8;lger de Sidste ud og klapper Morten Busk paa Skulderen:)</stage>
+
+    <p>Jeg haaber, Du ikke vil fors&#x00F8;mme af og til at se ind i Reden!</p>
+ </sp>
+
+ <stage>(:Anna staar og ser efter dem hilsende; hun faar derunder et fort&#x00E6;nkt, lidt nedslaaet, Udtryk, som dog opklares, idet Henrik tr&#x00E6;der ind:)</stage>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+    <p>Nu Anna! Hvordan syntes Du om dem? Den Morten Busk er egentlig ubetalelig. Skade, at; &#x2013; men en aandelig Aristokrat er han . . . hver Tomme af ham. Ja, der saa Du nogle af mine Venner! &#x2013; Men Anna! &#x2013; Du ser jo . . . n&#x00E6;sten nedslaaet ud?</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+ <stage>(:iler hen og skjuler med Heftighed sit Hoved ved hans Bryst:)</stage>
+
+    <p>Aa, bryd Dig ikke om det, &#x2013; det er bare saadan . . . en F&#x00F8;lelse . . . Jeg er vist dum, Henrik! De vare jo saa aandrige Allesammen, men . . .</p>
+ </sp>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+    <p>Nu da, Anna! . . . men, &#x2013; nu, sig det kun ud Kj&#x00E6;re! &#x2013; men?</p>
+ </sp>
+
+<pb n="24"/>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Jeg syntes, det var, som om de igrunden saa ned paa og spottede, . . . som om det var saadan liden Ting, at . . .</p>
+ </sp>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+    <p>. . . at vi To ere gifte, mener Du . . . Ser Du, det er nu engang deres Man&#x00E9;r, &#x2013; der staar Intet i Verden for dem!</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Ja nu, jeg har Dig, v&#x00E9;d jeg jo, det var Ingenting. &#x2013;</p>
+
+ <stage>(:Efter en liden Pause:)</stage>
+
+    <p>Jeg kunde aldrig holdt af Dig, om Du ikke havde havt Hjertelag, Henrik! &#x2013; Og Morten Busk! &#x2013; jeg syntes, det var, som han hele Tiden sang saadan mistr&#x00F8;stig Sang . . . enda han virkelig saae saa god ud. Jeg v&#x00E9;d ikke hvorfor, men jeg fik mest Tiltro til ham.</p>
+ </sp>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+ <stage>(:leende:)</stage>
+
+    <p>Du v&#x00E9;d ikke hvorfor? . . . men Du syntes bare, at de gode Venner, som Du har l&#x00E6;ngtet saa efter at se, &#x2013; plukkede Reden for Fj&#x00E6;r. Ja, de ere ikke sentimentale!</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Tro bare ikke, at jeg har t&#x00E6;nkt mig dem saadan, &#x2013; ellers t&#x00F8;r jeg ikke snakke mere til Dig. Jeg er saa uvant endnu, ser Du &#x2013; til disse overlegne, frie, Meninger. Ak ja, det er nok en liden Spidsborgerkone, Du har faaet, Henrik!</p>
+ </sp>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+ <stage>(:med Varme:)</stage>
+
+    <p>Du, &#x2013; en Spidsborgerkone! Jeg staar netop og undrer mig over dit fine Instinct. &#x2013; Jeg n&#x00F8;d ordentlig, hvorledes de blev sat i Respekt af Dig. &#x2013; Min gode Ven Lauritz Hysing hilsede Dig sandelig en Smule anderledes, da han tog Farvel, end han v&#x00E6;rdigedes, da han kom!</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Jeg skal sige Dig Noget, Henrik! &#x2013; Jeg var hele Tiden lidt bange for ham.</p>
+ </sp>
+
+<pb n="25"/>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+    <p>Og saa imponerede Du ham? . . . Og Du kalder Dig en Spidsborgerkone! . . . Du maa tro, En kunde lede l&#x00E6;nge, f&#x00F8;r En fandt det, der kunde bringe en Mand som Lauritz Hysing til at tage til Hatten!</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>&#x2013; Jeg forsikkrer Dig, det var noget vist stivt, hovmodigt i hans &#x00D8;je, der st&#x00F8;dte mig fra ham &#x2013; han saa ligesom ned paa os Alle.</p>
+ </sp>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+    <p>Anna! &#x2013; det er en borgerlig Alen, Du der l&#x00E6;gger paa en Aandens Mand!</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Tilgiv mig, Henrik! &#x2013;</p>
+
+ <stage>(:standser lidt og udbryder:)</stage>
+
+    <p>Ja, maatte jeg blot ikke blive den, som tr&#x00E6;kker Alt ned for Dig!</p>
+    
+ <stage>(:angst:)</stage>
+
+    <p>Det var maaske det, de t&#x00E6;nkte, naar de troede, &#x00C6;gteskabet skulde gj&#x00F8;re Dig til en saadan Prosaist! Men Henrik! Du skal se, Du skal ikke tabe Noget ved mig! Jeg skal arbejde paa at danne mig og forstaa Dig, og, naar Du bliver Redakt&#x00F8;r, &#x2013;</p>
+ </sp>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+ <stage>(:leende:)</stage>
+
+    <p>. . . Saa skal de nok faa se baade hjemme og hos din Broder! . . . Sig oprigtig, &#x2013; &#x2013; er det ikke det, Du mener, Anna?</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Nej Henrik! . . . ikke just det; men . . .</p>
+
+ <stage>(:raskt, som om hun vil over i noget Andet:)</stage>
+
+    <p>Du st&#x00F8;dte virkelig min Broder en Smule idag, . . . jeg saa det. Du kunde jo nok have vist Dig lidt mere im&#x00F8;dekommende, da han indb&#x00F8;d os. Han mener det saa vel.</p>
+ </sp>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+    <p>Hvad? &#x2013; vi skulde begynde med at gaa ud S&#x00F8;ndag Middag til Familjen? &#x2013; S&#x00F8;ndag og Thorsdag &#x2013; hvad? Og saa de igjen Tirsdag og Fredag hos os &#x2013; regelm&#x00E6;ssigt &#x2013; indtil<pb n="26"/> alle Parter blir gamle og graa; &#x2013; man ved udenad, hvad man faar baade af Passiar og Mad. &#x2013; Er det ikke saa, det gaar til? Vi skal lade os bergtage af den saakaldte Familje-Omgang?</p>
+    
+ <stage>(:Elskv&#x00E6;rdigt:)</stage>
+
+    <p>Nej, min Kj&#x00E6;re! &#x2013; dette er nok af den Slags Sager, som vi faar offre, om vi ikke vil blive, hvad vi selv saa vittigt kalder, en Spidsborgerkone! &#x2013; Vi kan nok derfor sees; &#x2013; det staar Dig jo frit for at bes&#x00F8;ge din Broder hver Dag, saa ofte Du bare vil . . .</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>. . . Uden Dig? . . . Vise ham, at Du overser ham &#x2013; mere end alt skeet. Han fortjener sandelig ikke det af mig.</p>
+ </sp>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+    <p>Jeg har Intet imod ham . . . Hvergang jeg ser ham, har jeg bare en F&#x00F8;lelse af, at han vil mane min Aand ind i sin M&#x00F8;lle og male min liter&#x00E6;re Fremtid mellem Hjulene. &#x2013; Han har nu to Gange sat mig ind i sin Papirforretning &#x2013; der er noget irriterende ved det, &#x2013; &#x2013; jeg tror, han skal finde, at jeg kan staa paa egne Ben uden at beh&#x00F8;ve at ty til ham!</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Kj&#x00E6;re Henrik! Du maa holde af ham; han er min Broder, og, &#x2013; han ser nu engang ikke h&#x00F8;jere!</p>
+ </sp>
+
+<stage>(:T&#x00E6;ppet falder:)</stage>
+
+<pb n="27"/>
+
+ </div>
+               
+ <div type="act" n="2">
+
+ <stage>(:Anna sidder i Morgendragt ved Frokostbordet; Henrik ivrigt skrivende ved Skrivebordet:)</stage>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>H&#x00F8;r Henrik, &#x2013; jeg har bedet Dig en halv Time, &#x2013; nu er Kaffeen kold.</p>
+ </sp>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+ <stage>(:distrait uden at se op:)</stage>
+
+    <p>Ja, ja strax.</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Strax, siger Du? &#x2013; Jeg faar ud og varme den igjen for Dig.</p>
+ </sp>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+ <stage>(:ryster paa Hovedet:)</stage>
+
+    <p>Ja, ja!</p>
+ </sp>
+
+<stage>(:Anna gaar ud:)</stage>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+ <stage>(:ser sig om og sukker, . . . begynder igjen at skrive og yttrer derunder:)</stage>
+
+    <p>. . . Man l&#x00E6;gger sig til den Kunst at skrive om alt Muligt . . . egentlig om Alt, hvad der gives paa Jorden og under Himmelen &#x2013; for den Smule Maanedsgage . . . For Exempel nu dette! &#x2013; det er egentlig ikke Noget at byde Folk, men saa b&#x00E6;rer det sig vel paa den Smule Brander tilslutt, &#x2013; Morten Busk vil kjende den igjen, men det faar nu v&#x00E6;re.</p>
+
+ <stage>(:L&#x00E6;gger Ansigtet ned i H&#x00E6;nderne. Idet han atter ser op, har han et Udtryk af Tr&#x00E6;thed og Mismod:)</stage>
+
+    <p>Ideer &#x2013; Ideer ja! F&#x00F8;r Komplimenterede man, men betalte ikke videre, nu, man skal betale, h&#x00F8;res mindre til Komplementerne. Det fal<pb n="28"/> der mig virkelig undertiden ind, at jeg kan staa nogen ivejen dernede i Redaktionen . . . der er ialfald kommet ind en Maade at vurdere det, jeg skriver, som . . . hm ja, det maa taales . . . indtil videre . . . Og saa ovenikj&#x00F8;bet at maatte affektere, at dette evige Penneslid morer!</p>
+
+ <stage>(:bittert:)</stage>
+
+    <p>. . . ellers har En naturligvis ikke litter&#x00E6;rt Fond nok! &#x2013; Ja, det gj&#x00E6;lder virkelig i mere end en Henseende nu, at jeg faar Tidsskriftet . . .</p>
+
+ <stage>(:han forts&#x00E6;tter med at skrive:)</stage>
+
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+ <stage>(:kommer ind med Kaffeen:)</stage>
+
+    <p>Du skriver og Du skriver . . .</p>
+ </sp>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+    <p>Se, nu er det f&#x00E6;rdigt! &#x2013; Du har nok ventet l&#x00E6;nge paa mig, Anna!</p>
+    
+ <stage>(:Han s&#x00E6;tter sig ved Frokostbordet medens hun skj&#x00E6;nker Kaffeen:)</stage>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+ <stage>(:nysgjerrigt:)</stage>
+
+    <p>Er det da noget . . . Vigtigt?</p>
+ </sp>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+    <p>Aa, nej . . .</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Aa nej . . . aa nej! &#x2013; til en Afvexling &#x2013; aa ja! &#x2013; det er virkelig Alt, hvad jeg faar ud af Dig i den sidste Tid, &#x2013; naar Du ikke er distrait, for da svarer Du slet ikke . . . . . Jeg v&#x00E9;d nok jeg ikke kan forstaa netop Alt, men . . .</p>
+ </sp>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+    <p>Du har det med &#x00AB;Menner&#x00BB;, det er dit Postscriptum, hvori Du altid gjemmer Hovedsagen, . . . nu men . . .</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Jeg mener bare, at lidt maatte det vel engang imellem gaa an at fort&#x00E6;lle mig ogsaa. &#x2013; Du kan da t&#x00E6;nke, at jeg, som sidder herhjemme alene, nok kan tr&#x00E6;nge at faa Noget af Dit at interessere mig for!</p>
+ </sp>
+
+<pb n="29"/>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+ <stage>(:modtagende Fl&#x00F8;demuggen, som hun r&#x00E6;kker ham:)</stage>
+
+    <p>Tak! &#x2013; &#x2013; Ja, det blev rigtignok diverse &#x2013; saameget som i et Conversationslexikon fra A til &#x00D8; at pl&#x00F8;je sammen i &#x00E6;gteskabelig Fortrolighed.</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Du sp&#x00F8;ger det bestandig bort, men jeg mener virkelig ikke saa lidt med det.</p>
+ </sp>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+ <stage>(:drikker af sin Kaffekop:)</stage>
+
+    <p>Hm! &#x2013; &#x2013; Forresten . . . Fruen sov nok ind iforgaarsaftes, da jeg l&#x00E6;ste min Afhandling om Wessel og Ewald.</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Den var saa grundig . . . saa l&#x00E6;rd . . . ogsaa var der saameget, jeg ikke skj&#x00F8;nnede mig paa . . . saa</p>
+ </sp>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+    <p>saa Du sov ind! &#x2013; Ja, nu har Hysing og Busk lovet mig at l&#x00E6;se den igjennem &#x2013; Busk er ogsaa en str&#x00E6;ng Kritiker . . .</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>mod os &#x2013;</p>
+
+ <stage>(:retter sig:)</stage>
+
+    <p>mod Dig? Det tror jeg nu igrunden ikke &#x2013; heller det Modsatte.</p>
+ </sp>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+    <p>Slig er I Fruentimmer! &#x2013; bestandig skal det komme an paa mig eller paa Dig . . . paa Personen &#x2013; Sagen selv, den forsvinder i Baggrunden.</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Jeg mener bare, at, finder Busk, at han kan sige Dig noget Behageligt om den, saa gj&#x00F8;r han det.</p>
+ </sp>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+    <p>Aa ja, kanske, &#x2013; i den mest uforskammede Form, han kan udfinde.</p>
+ </sp>
+
+<pb n="30"/>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Han er saa interessant &#x2013; og kjeder sig slet ikke ved at s&#x00E6;tte mig ind i Noget. Jeg har nu siddet og seet Dig skrive i hele Morges, og t&#x00E6;nkt paa, hvad det kunde v&#x00E6;re . . .</p>
+ </sp>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+    <p>Hvad det kunde v&#x00E6;re? &#x2013; Det er da ingen Statshemmelighed, &#x2013; Noget, jeg har lovet f&#x00E6;rdig til Klokken ni . . . Det presserer for Trykkeriet.</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+ <stage>(:mut:)</stage>
+
+    <p>Du gj&#x00F8;r mig ikke synderlig klogere ved det Svar, Henrik!</p>
+ </sp>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+    <p>Aa &#x2013; Du vil se det i Avisen.</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Ja bagefter, naar hele Byen har l&#x00E6;st det, faar din Hustru se det. Du vil jo ikke engang have Aviserne i Huset.</p>
+ </sp>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+    <p>Jeg vil have Fred for Aviser hjemme, siger jeg!</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Er det da Ting, som jeg ikke skal l&#x00E6;se? &#x2013; H&#x00F8;r Henrik, En kunde n&#x00E6;sten blive mist&#x00E6;nkelig &#x2013; sp&#x00F8;rge, hvorfor Du har en Kone?</p>
+ </sp>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+ <stage>(:utaalmodigt:)</stage>
+
+    <p>Hvorfor &#x2013; hvorfor jeg har en Kone? Kanske forat jeg skal skrive Avisartikler, Notitser, Bynyt &#x2013; og, hvad det Altsammen er, for hende ogsaa?</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Du er saa utaalmodig, min Ven; men har Du Arbejde, saa har Du ogsaa din Gl&#x00E6;de af disse aandelige Ting &#x2013; og lidt kunde Du da lade mig v&#x00E6;re med paa det.</p>
+ </sp>
+
+<pb n="31"/>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+ <stage>(:bitter:)</stage>
+
+    <p>. . . paa Gl&#x00E6;den mener Du . . . saa Du misunder mig den? . . . Du forstaar da vel, at jeg for Maanedsgagen maa skrive en hel Del, som ikke netop er noget at underholde Dig med!</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+ <stage>(:halvt i Tanker:)</stage>
+
+    <p>Underholde mig, siger Du, &#x2013; &#x2013; det kan jeg gj&#x00F8;re med en Morskabsbog . . .</p>
+ </sp>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+    <p>Du falder nok i Tanker, Anna?</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Jeg undrer mig bare over, hvor haardnakket Du nu den hele Tid har holdt fast ved ikke at fort&#x00E6;lle mig, hvad Du har skrevet. Var det en saadan liden Ting, saa . . . maatte den vel kunne siges &#x2013; &#x2013;</p>
+ </sp>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+    <p>Se saa, det har vi det; . . .</p>
+
+ <stage>(:han ser med pludselig Hast paa Uret og rejser sig fra Bordet:)</stage>
+
+    <p>Ja, nu Anna, maa jeg i Trykkeriet &#x2013;</p>
+
+ <stage>(:han tager sin Hat og kaster en Frakke over Armen:)</stage>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Og saa t&#x00E6;nkte jeg paa, hvad jeg vel kunde blive for Dig, naar jeg aldrig faar v&#x00E6;re med paa Dit. Hvorfor lukker Du mig ude fra det? Var det d&#x00E9;t, Du lovede mig? &#x2013; Staar jeg da saa langt under Dig, at &#x2013; &#x2013;</p>
+ </sp>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+    <p>Kommer Du nu med dette igjen!</p>
+
+ <stage>(:kysser hende:)</stage>
+
+    <p>Farvel!</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Og det gaar da sletikke an at faa vide, hvad Du skriver?</p>
+ </sp>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+    <p>Kj&#x00E6;re Anna! &#x2013; synes Du, jeg nu har Tid? &#x2013; jeg har fem Minuter . . .</p>
+    
+ <stage>(:idet han gaar henimod D&#x00F8;ren:)</stage>
+
+    <p>&#x2013; &#x2013; Det er<pb n="32"/> desuden ikke hvad Du t&#x00E6;nker . . . det er kjedsommelige Ting!</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+ <stage>(:koldt:)</stage>
+
+    <p>Adieu, Henrik! &#x2013; naar kommer Du tilbage?</p>
+ </sp>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+    <p>Klokken tre, &#x2013; Klokken tre, mit Barn! &#x2013;</p>
+
+ <stage>(:han skynder seg ud:)</stage>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+<stage>(:begynder mekanisk at s&#x00E6;tte nogle af de Sager, der staa paa Frokostbordet paa et lidet Br&#x00E6;t, for at b&#x00E6;re det ud; idet hun tager Sukkerskaalen, falder hun i Grublerier:)</stage>
+
+    <p>Nej, dette kan ikke gaa l&#x00E6;nger, &#x2013; skal ikke gaa! &#x2013; Han skjuler Noget for mig, det er klart! Hvorfor tier han? Hvorfor st&#x00E6;nges jeg ude? &#x2013; Jeg vil gaa til Tante Magda . . . hun skal skaffe mig alle Aviserne, . . . jeg vil l&#x00E6;se dem selv der hos hende, jeg vil . . .</p>
+
+ <stage>(:s&#x00E6;tter Br&#x00E6;ttet igjen ned paa Bordet:)</stage>
+
+    <p>Ja, hvorfor skulde han vel ellers forholde mig dem? &#x2013; &#x2013; &#x2013;</p>
+    
+ <stage>(:angst:)</stage>
+
+    <p>Kanske er han angrebet og vil ikke bedr&#x00F8;ve mig . . . de rive ham ned i Bladene, . . . han er Gjenstand for haarde Avisangreb . . . han staar midt i en stor Kamp! . . . Og saa gj&#x00F8;r jeg Mit for at lamme hans Arm! Han sidder oppe om Natten og bliver bleg . . . o, jeg blinde! . . . Det er derfor, man saa paafaldende undgaar at tale om min Mands Skribentvirksomhed . . . min Broder og hans Hustru undgaa det aabenbart med Vilje; . . . de ere kanske endog mod ham! &#x2013; og Busk ogsaa! &#x2013;</p>
+
+ <stage>(:S&#x00E6;tter sig ned:)</stage>
+
+    <p>Og jeg, som har gjort Dig slig Uret, Henrik! &#x2013; &#x2013; som kunde gj&#x00F8;re det! &#x2013; &#x2013; Men se Tingen i &#x00D8;jnene, vil jeg . . . jeg vil hen til Tante Magda!</p>
+
+<stage>(:Pigen kommer ind med et Papir i Haanden:)</stage>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Hva er det?</p>
+ </sp>
+
+ <sp who="Pigen">
+   <speaker>PIGEN</speaker>
+
+    <p>Det er &#x2013; &#x2013; v&#x00E6;r saa god, Frue! &#x2013; V&#x00E6;rten har sendt det op.</p>
+ </sp>
+
+<pb n="33"/>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Vil Du b&#x00E6;re ud fra Frokostbordet og saa komme ind &#x2013; og faa Besked om Indkj&#x00F8;bene &#x2013; &#x2013; Jeg gaar ud.</p>
+ </sp>
+
+<stage>(:Pigen s&#x00E6;tter paa Br&#x00E6;ttet og b&#x00E6;rer ud:)</stage>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+ <stage>(:aabner Papiret:)</stage>
+
+    <p>&#x2013; Det er Regningen for Huslejen!</p>
+
+ <stage>(:l&#x00E6;ser:)</stage>
+
+    <p>&#x00AB;om det kunde v&#x00E6;re belejligt &#x2013; allerede en Maaned over Kvartalet&#x00BB; &#x2013; &#x2013; Henrik har jo ikke Penge endnu! &#x2013; Han maa gaa ned og tale med ham i Eftermiddag &#x2013; Hvor sligt dog er pinligt! &#x2013; &#x2013; Lad mig se, &#x2013; om jeg samlede Alt, hvad jeg kan undv&#x00E6;re . . .</p>
+
+ <stage>(:med Overvindelse:)</stage>
+
+    <p>mine tre Guldpenge og &#x2013; men jeg t&#x00F8;r ikke blotte mig aldeles for hvad jeg beh&#x00F8;ver til Huset, og jeg har jo n&#x00E6;sten Intet &#x2013; &#x2013; Saa maatte Henrik desuden strax skaffe Andre tilveje igjen, Stakkel! Det blir dog ialt henved tyve Daler, som han kan tage med sig didned &#x2013; altid et lidet Afdrag. &#x2013; Resten faar han bede om at faa Uds&#x00E6;ttelse med. &#x2013; Ja, det er pinligt.</p>
+ </sp>
+
+ <sp who="Pigen">
+   <speaker>PIGEN</speaker>
+
+ <stage>(:der imidlertid har taget bort Frokostanretningen:)</stage>
+
+    <p>&#x2013; Saa var det, hvad jeg skulde kj&#x00F8;be, Frue!</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Ja, lidt Gr&#x00F8;nt &#x2013; Salat &#x2013; et Stykke Kj&#x00F8;d, som vanligt . . . &#x00C6;g, Melk, Br&#x00F8;d &#x2013; som iforgaars. Er det mere?</p>
+ </sp>
+
+ <sp who="Pigen">
+   <speaker>PIGEN</speaker>
+
+    <p>Saa var det Lys.</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Nu &#x2013;</p>
+ </sp>
+
+ <sp who="Pigen">
+   <speaker>PIGEN</speaker>
+
+    <p>Og saa er Sukkeret sluppet op, som Fruen v&#x00E9;d . . . Hvedemel maa vi have og The. Det er sant . . . Olje og Fyrstikker maa kj&#x00F8;bes og et Lampeglas . . . </p>
+ </sp>
+
+<pb n="34"/>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Er det mere? &#x2013; saa sig det med engang!</p>
+ </sp>
+
+ <sp who="Pigen">
+   <speaker>PIGEN</speaker>
+
+    <p>Nej, ikke det jeg husker . . . uden Sagogryn og &#x2013; &#x2013; &#x2013;</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>og? &#x2013; &#x2013;</p>
+ </sp>
+
+ <sp who="Pigen">
+   <speaker>PIGEN</speaker>
+
+    <p>Kul &#x2013; maa bestilles!</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Kul? &#x2013; Alt Kul igjen! &#x2013; Er det mere? &#x2013; Her er Penge! &#x2013; saa gj&#x00F8;r Du Regnskab i Eftermiddag &#x2013;.</p>
+ </sp>
+
+ <sp who="Pigen">
+   <speaker>PIGEN</speaker>
+
+    <p>End Cathrineblommer til Sagosuppen &#x2013;</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Ikke idag.</p>
+ </sp>
+
+ <sp who="Pigen">
+   <speaker>PIGEN</speaker>
+
+    <p>Fruen plejer altid at have Blommer i den Suppe, &#x2013; vi pleje det bestandig &#x2013; &#x2013;</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Vi skal ikke have det idag, siger jeg Dig, . . . og skynd Dig nu . . . Er jeg ikke hjemme, s&#x00E6;tter Du Middagen paa til vanlig Tid. Tag en Kurv med Dig!</p>
+ </sp>
+
+<stage>(:Pigen gaar:)</stage>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Det er n&#x00E6;sten, som hun skulde v&#x00E6;re ondskabsfuld den Pige, &#x2013; hun er ialfald forunderlig til at finde paa Noget, som mangler i Huset . . . bestandig . . . Igaar var det Olje og Ved! . . . Jeg staar hvergang rent nerv&#x00F8;s for, hvad hun kan finde paa. Det er en Pine, som maa overstaaes hver Dag nu, vi har saa ondt for Penge &#x2013; &#x2013; og det vil blive ondt for dem, ligetil Henrik faar Redakt&#x00F8;rposten.</p>
+
+ <stage>(:Efter et Ophold:)</stage>
+
+<pb n="35"/>
+
+    <p>&#x2013; Ja, det vil blive ved, saal&#x00E6;nge den Strid staar! &#x2013; &#x2013; Jeg t&#x00E6;nker saa paa, om jeg ikke kan gj&#x00F8;re Noget, som kan give lidt Penge, saa Henrik kan faa mere Luft for disse Krav, der s&#x00E6;tte ham i slet Hum&#x00F8;r og hindrer ham i at bruge sin Kraft paa noget St&#x00F8;rre. &#x2013; &#x2013; Naar jeg blot havde lidt mere Mod . . . saa maatte jeg kunde undervise Begyndere; men jeg er saa &#x00E6;ngstelig for, hvordan jeg skulde gribe det an, . . . og saa fremmed i alt dette! Med nogen Overlegenhed kan jeg jo Intet; men Pianoforte, det har jeg da spilt hele mit Liv . . .</p>
+
+ <stage>(:Nikker bestemt:)</stage>
+
+    <p>Ja vel, Henrik! Er Du hemmelighedsfuld paa din Kant, saa kan din Hustru kanske ogsaa v&#x00E6;re det paa sin; &#x2013; det t&#x00F8;r h&#x00E6;nde, hun er med paa Dit, enten Du vil eller ej!</p>
+ </sp>
+
+<stage>(:Det banker paa:)</stage>
+
+ <sp who="Tante Magda">
+   <speaker>TANTE MAGDA</speaker>
+
+ <stage>(:if&#x00F8;rt en vid Kaabe kiger forsigtigt ind ad D&#x00F8;ren&#x005B;,&#x005D; hvisker:)</stage>
+
+    <p>Er Du alene? &#x2013; Her er da Ingen.</p>
+
+ <stage>(:Hun tr&#x00E6;der ind:)</stage>
+
+    <p>Aah! &#x2013; jeg maa puste ud! &#x2013; Jeg var saa bange for at tr&#x00E6;ffe nogen af Henriks Venner i Trappen; &#x2013; de forstaa sig saa lidt paa det Materielle.</p>
+    
+ <stage>(:Idet Kaaben aabner sig, sees hun at holde en Syltekrukke i Armen:)</stage>
+
+    <p>Det er Syltet&#x00F8;j, som er kommet hjemmefra &#x2013; til Dig Anna!</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Og saa kommer Du selv op med det!</p>
+
+ <stage>(:Hun tager Krukken fra hende, s&#x00E6;tter den bort og iler derpaa igjen hen til hende:)</stage>
+    
+    <p>Tak, kj&#x00E6;re Tante Magda! Af alle Mine er Du nu den Eneste, som jeg har rigtig Tr&#x00F8;st af at se.</p>
+ </sp>
+
+ <sp who="Tante Magda">
+   <speaker>TANTE MAGDA</speaker>
+
+    <p>Tr&#x00F8;st, Barn! &#x2013; &#x2013; Du lever jo endnu saagodtsom i Hvedebr&#x00F8;dsdagene? &#x2013; aander i en Sph&#x00E6;re, hvor Luften er, saa at sige, fuld af Aandrighed . . . og saa . . .</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+ <stage>(:tager sig igjen:)</stage>
+
+    <p>Aa, jeg mente jo heller Intet med det Andet end, at jeg er glad ved at se Dig; &#x2013; &#x2013; men tag nu af Dig Tante! &#x2013; saa . . . s&#x00E6;t Dig ned . . . Ja, det var godt, at Du kom, &#x2013; jeg<pb n="36"/> har saa mange Ting at tale med Dig om . . . Du l&#x00E6;ser jo Aviserne?</p>
+ </sp>
+
+ <sp who="Tante Magda">
+   <speaker>TANTE MAGDA</speaker>
+
+ <stage>(:idet hun s&#x00E6;tter sig:)</stage>
+
+    <p>Aviserne! &#x2013; Jo dem l&#x00E6;ser jeg rigtignok hver Dag. &#x2013; Fredrik holder alle de store. Man maa f&#x00F8;lge med, ser Du, naar man er i Byen.</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Sig mig nu oprigtigt, &#x2013; angriber man Henrik? &#x2013; selv vil han aldrig n&#x00E6;vne Noget om sligt.</p>
+ </sp>
+
+ <sp who="Tante Magda">
+   <speaker>TANTE MAGDA</speaker>
+
+    <p>Ikke i nogen af de store Aviser ialfald, det kan jeg forsikkre Dig &#x2013; ellers havde da nok ogsaa Fredrik vidst af det. &#x2013; Der er dem, som &#x2013; ja, du v&#x00E9;d nok, hvem jeg mener . . .</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Fredrik?</p>
+ </sp>
+
+ <sp who="Tante Magda">
+   <speaker>TANTE MAGDA</speaker>
+
+    <p>Ja, og idag har vi tilmed disputeret alvorligt. T&#x00E6;nk Dig bare Anna! han paastod, at din Mand er altfor begavet, &#x2013; jeg byder Dig bare det Nonsens, &#x2013; for begavet! &#x2013; til at &#x00AB;slide sine Kr&#x00E6;fter op paa disse Skriverier&#x00BB;, som han behagede at udtrykke sig. &#x2013; Du forstaar, &#x2013; fordi det ikke netop f&#x00F8;rer til Penge!</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+ <stage>(:i en skuffet Tone:)</stage>
+
+    <p>Saa &#x2013; aah &#x2013; Henrik er ikke indviklet i nogen Aviskamp &#x2013; der er Ingen, slet Ingen, som river ned paa ham!</p>
+
+ <stage>(:ser paa hende:)</stage>
+
+    <p>Og det er Du vis paa &#x2013; &#x2013; ganske vis paa? &#x2013; Henrik er da ikke en saadan Ubetydelighed! &#x2013; &#x2013; &#x2013; Men jeg skal sige Dig, hvoraf det kommer, Tante Magda!</p>
+ </sp>
+
+ <sp who="Tante Magda">
+   <speaker>TANTE MAGDA</speaker>
+
+    <p>&#x2013; at han ikke blir angrebet?</p>
+ </sp>
+
+<pb n="37"/>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>ja, &#x2013; at han ikke blir angrebet! Jeg v&#x00E9;d, at Fredrik har Ret, &#x2013; . . . han slider sig ud, &#x2013; slider sig ud for Penges Skyld, forstaar Du! &#x2013; med alskens mindre Sager . . . sligt, som Avisen kr&#x00E6;ver hver Dag, &#x2013; saa der ikke bliver Tid for ham til at f&#x00F8;re frem nogen af de Store! . . . Det er Synd, Tante! &#x2013; blodig Synd i Henrik!</p>
+ </sp>
+
+ <sp who="Tante Magda">
+   <speaker>TANTE MAGDA</speaker>
+
+    <p>Du gj&#x00F8;r mig rent forskr&#x00E6;kket, Barn! &#x2013; Du tager saa paa Vej. &#x2013; &#x2013; Javist er det tungt; &#x2013; &#x2013; men Talentets Bane, v&#x00E9;d Du, gaar altid over Hindringer . . . Hvor smukt siger ikke Young i sine Nattetanker, at &#x00AB;de ere som Skyerne, der drive foran Maanens Klarhed&#x00BB;!</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>H&#x00F8;r, Tante Magda! . . . Om jeg kunde rydde endel af Hindringerne bort, &#x2013; vilde Du saa ikke synes, det var rigtigt gjort af mig?</p>
+ </sp>
+
+ <sp who="Tante Magda">
+   <speaker>TANTE MAGDA</speaker>
+
+    <p>Naturligvis.</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Du skal vide, jeg har t&#x00E6;nkt paa Noget . . . jeg vil undervise i Pianofortespil, . . . begynde at l&#x00E6;re smaa B&#x00F8;rn . . . Jeg har jo Ingenting at gj&#x00F8;re. &#x2013; Her er saa ensomt om Formiddagene, . . . det vilde bare v&#x00E6;re Forn&#x00F8;jelse, naar jeg havde Elever. &#x2013; Og Du, Tante! som kjender saa Mange, og som l&#x00E6;ser Avertissementerne, &#x2013; Du maa hjelpe mig, skaffe mig Elever &#x2013; riktig mange</p>
+
+ <stage>(:smigrende:)</stage>
+
+    <p>Der er Ingen som Du, naar Du vil Noget, Tante Magda!</p>
+ </sp>
+
+ <sp who="Tante Magda">
+   <speaker>TANTE MAGDA</speaker>
+
+    <p>Som Du snakker! Og desuden &#x2013; vilde det v&#x00E6;re passende? Hvad tror Du Fredriks vilde sige, naar Du pludselig optraadte i Byen som En, der gav sig af med at informere for &#x2013; for . . . jeg havde n&#x00E6;r sagt, for Penge &#x2013;</p>
+ </sp>
+
+<pb n="38"/>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Aa, Fredrik og Theodora maa t&#x00E6;nke, hvad de ville, &#x2013; vi ere nu engang vante til at de misforstaa alt Vort. &#x2013; En Dag vil de nok faa se, at vi havde Ret.</p>
+ </sp>
+
+ <sp who="Tante Magda">
+   <speaker>TANTE MAGDA</speaker>
+
+    <p>Men, &#x2013; hvormeget tror Du vel, der lader sig tjene paa den Maade!</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Henriks Fremtid, Tante Magda! &#x2013; Og jeg vil undervise hele Formiddagen til Klokken tre, saa skal der nok blive Noget af det ogsaa med Pengene.</p>
+ </sp>
+
+ <sp who="Tante Magda">
+   <speaker>TANTE MAGDA</speaker>
+
+    <p>Jeg siger Dig rentud, &#x2013; dette er Overdrivelse, Barn! T&#x00E6;nk Dig bare n&#x00F8;gternt og praktisk om.</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Det er netop det, jeg har gjort. Her vil blive Arbejde, Liv og Frejdighed hos os, og det t&#x00F8;r, naar Alt kommer til Alt, v&#x00E6;re den bedste Kapital for Henrik. Du fatter, Tante Magda! &#x2013; det er Livsmod, der n&#x00E6;rmest tr&#x00E6;nges til fuld aandelig Virksomhed.</p>
+ </sp>
+
+ <sp who="Tante Magda">
+   <speaker>TANTE MAGDA</speaker>
+
+ <stage>(:reciterer:)</stage>
+
+    <p>&#x00AB;Som Falkens Vinge m&#x00E6;ttes i lave Taagers Hjem!&#x00BB;</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Ja vist &#x2013; netop! Og saa rykke vi ind Avertissementer, m&#x00E6;rkede &#x00AB;Expeditionen anviser&#x00BB;, og Expeditionen anviser paa Dig, Tante! Du maa give Besked.</p>
+ </sp>
+
+ <sp who="Tante Magda">
+   <speaker>TANTE MAGDA</speaker>
+
+    <p>Jeg?</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Ja, Du! . . . Det maa forties for Henrik, til vi har Sagen i rigtig Gang. Fik han den Tanke, at det var for Penges Skyld, kunde han falde paa at s&#x00E6;tte sig imod den.</p>
+ </sp>
+
+<pb n="39"/>
+
+ <sp who="Tante Magda">
+   <speaker>TANTE MAGDA</speaker>
+
+    <p>Jeg er bange for, at Du indvikler mig i noget h&#x00F8;jst Urigtigt, Barn! &#x2013; slig Hemmelighedsfuldhed &#x2013;</p>
+
+ <stage>(:for sig selv, idet hun regner paa Fingrene:)</stage>
+
+    <p>Lerches har fire!</p>
+
+ <stage>(:h&#x00F8;jt:)</stage>
+
+    <p>&#x2013; tilmed for Ens egen Mand &#x2013;</p>
+
+ <stage>(:igjen for sig selv:)</stage>
+
+    <p>. . . Engdals kanske to &#x2013; Assessor Bergs ialfald een.</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Du indser, hvad det gj&#x00E6;lder, Tante! . . . netop i denne Tid, medens Henrik arbejder for at naa en Stilling.</p>
+ </sp>
+
+ <sp who="Tante Magda">
+   <speaker>TANTE MAGDA</speaker>
+ 
+ <stage>(:ryster bet&#x00E6;nksomt paa Hovedet:)</stage>
+
+    <p>Det maa overvejes n&#x00F8;je, yderst n&#x00F8;je! . . .</p>
+
+ <stage>(:for sig selv:)</stage>
+    
+    <p>. . . og jeg gad vide, naar jeg talte med &#x2013; gik i Caffe&#x2013;Visit til begge Buckene? &#x2013; der er i den Familje mindst fem B&#x00F8;rn i den Alder . . .</p>
+
+ <stage>(:h&#x00F8;jt, idet hun rejser sig og tager sin Kaabe paa:)</stage>
+
+    <p>Ja, jo mere jeg t&#x00E6;nker paa det, desmere finder jeg det kan forsvares. Jeg maa afsted, Anna, &#x2013; jeg vil i Visit til Buckene, begge To, og det i denne Formiddag!</p>
+
+ <stage>(:Hun standser ved D&#x00F8;ren og ser sig grundende om i Stuen:)</stage>
+
+    <p>Det er noget h&#x00F8;jst poetisk at se Talentets Kamp, &#x2013; dets Liv, saa at sige, forsvaret af Kvindens Haand gjennem Pianoets Toner!</p>
+
+ <stage>(: Idet hun ser hen paa Syltet&#x00F8;jkrukken :)</stage>
+
+    <p>Krukken skal sendes hjem igjen, Anna!</p>
+
+ <stage>(:Hun gaar ud i Entr&#x00E9;en, men kommer strax efter ind igjen, fulgt af Busk:)</stage>
+
+ </sp>
+
+ <sp who="Busk">
+   <speaker>BUSK</speaker>
+
+    <p>God Dag, Frue! &#x2013; Jeg h&#x00F8;rer af Fr&#x00F8;kenen, at Hjort ikke er hjemme?</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>God Dag Busk &#x2013; Nej han er ude.</p>
+ </sp>
+
+ <sp who="Morten Busk">
+   <speaker>MORTEN BUSK</speaker>
+
+    <p>Skade! &#x2013; Ja ikke saa at forstaa, at Damerne ikke skulde v&#x00E6;re elskv&#x00E6;rdige nok; men &#x2013; Hysing og Theodosius Bjerk komme om lidt, vi ventede at tr&#x00E6;ffe ham . . .</p>
+
+ <stage>(:han s&#x00E6;tter Hat og Stok hen i Krogen:)</stage>
+ </sp>
+
+<pb n="40"/>
+
+ <sp who="Tante Magda">
+   <speaker>TANTE MAGDA</speaker>
+
+    <p>Theodosius Bjerk? Jeg maa tage Kaaben af mig nok engang, &#x2013; jeg maa se den Mand. Er han meget m&#x00E6;rkelig?</p>
+ </sp>
+
+ <sp who="Morten Busk">
+   <speaker>MORTEN BUSK</speaker>
+
+    <p>M&#x00E6;rkelig, . . . Theodosius Bjerk? . . . Aa, ja igrunden ikke saa lidt &#x2013; jeg forsikkrer Dem! &#x2013; Han repr&#x00E6;senterer en af Tidens m&#x00E6;rkeligste Opfindelser i Litteraturen &#x2013; den artificielle Personlighed! Man har ingen Personlighed, nuvel saa laver man sig en . . . Det er med det akurat som med de mineralske Vande . . .</p>
+
+ <stage>(:Det ringer:)</stage>
+    
+  <p>Ja, der har vi dem!</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Kj&#x00E6;re Busk! De vil nok tage imod dem, medens jeg gaar ind et &#x00D8;jeblik og kl&#x00E6;der mig lidt om</p>
+
+ <stage>(:Hun gaar:)</stage>
+
+ </sp>
+
+ <sp who="Tante Magda">
+   <speaker>TANTE MAGDA</speaker>
+
+ <stage>(:afsides:)</stage>
+
+    <p>Syltekrukken! &#x2013; den maa ud!</p>
+
+ <stage>(:hun tager den h&#x00F8;jt og nejende:)</stage>
+
+    <p>Kun et &#x00D8;jeblik, Hr. Busk.</p>
+ </sp>
+
+<stage>(:Det banker, Hysing og Bjerk tr&#x00E6;de ind:)</stage>
+
+ <sp who="Hysing">
+   <speaker>HYSING</speaker>
+
+    <p>Er her Ingen hjemme?</p>
+ </sp>
+
+ <sp who="Busk">
+   <speaker>BUSK</speaker>
+
+    <p>Kun Damerne. De har bedet mig repr&#x00E6;sentere sig, til de komme.</p>
+ </sp>
+
+ <sp who="Hysing">
+   <speaker>HYSING</speaker>
+
+    <p>Nu, hvad er saa din Mening?</p>
+ </sp>
+
+ <sp who="Busk">
+   <speaker>BUSK</speaker>
+
+    <p>Om Afhandlingen? Aa &#x2013; der er ialfald adskillige tr&#x00E6;ffende Bem&#x00E6;rkninger . . .</p>
+ </sp>
+
+ <sp who="Hysing">
+   <speaker>HYSING</speaker>
+
+    <p>Saa, Du synes det. &#x2013; &#x2013; Jeg er nu med den bedste Flid ikke istand til at finde en eneste . . . Jeg vil dele Indholdet i to:<pb n="41"/> det, jeg vidste f&#x00F8;r, og saa endel litter&#x00E6;re Skipperskj&#x00F8;n, som ikke holder stik. &#x2013;</p>
+ </sp>
+
+ <stage>(:Han bukker let for Tante Magda, som kommer ind og s&#x00E6;tter sig i N&#x00E6;rheden af Busk. Bjerk staar vendt mod Hysing, saa han ikke ser hende f&#x00F8;r senere, da ogsaa han hilser:)</stage>
+
+ <sp who="Theodosius Bjerk">
+   <speaker>THEODOSIUS BJERK</speaker>
+
+ <stage>(:l&#x00E6;spende:)</stage>
+
+    <p>Jeg forstaar ikke hvordan Du kan sige Andet, Busk! Saa Du Spor af Personlighed i den? Og, hvad peger den henimod, &#x2013; ja, jeg mener, hvilket Udsyn giver den over</p>
+
+ <stage>(:famlende:)</stage>
+
+   <p>for Exempel . . . ja for Exempel &#x2013; nu Tidens . . . Tidens . . .</p>
+ </sp>
+
+ <sp who="Morten Busk">
+   <speaker>MORTEN BUSK</speaker>
+
+ <stage>(:raillerende:)</stage>
+
+    <p>Tidens ja, . . . saalangt kom vi! &#x2013; <stage>(:afsides til Tante Magda:)</stage>  Ser De Fr&#x00F8;ken, Kulsyren i Theodosius Bjerk, dannes af de Id&#x00E9;er, som den Mand der <stage>(:han peger paa Hysing:)</stage> trykker ind i ham, Sp&#x00E6;ndingen er af den st&#x00E6;rke ideale Sort, Korken springer og Stilen mousserer ligesaa godt, som det var &#x00E6;gte &#x2013; et sandt perlende Vandspring!</p>
+    
+ </sp>
+
+ <sp who="Hysing">
+   <speaker>HYSING</speaker>
+
+ <stage>(:gaaende hen til Spejlet:)</stage>
+
+    <p>&#x2013; Jeg skal indr&#x00F8;mme &#x2013; en glimrende Stil, der endog kan virke betagende &#x2013; men nogen aandelig R&#x00E6;kkevidde . . . Evnen til at bestraale F&#x00E6;nomenet . . . at f&#x00F8;re Sagen op i sin Kattegori . . . til det virkelig Betydelige! Ja, havde han enda, som Du Busk, Stumperne af en knust Himmel at forevise i en eller anden Witz.</p>
+ </sp>
+
+ <sp who="Bjerk">
+   <speaker>BJERK</speaker>
+
+    <p>Bravo! &#x2013; Der fik Du det Busk!</p>
+ </sp>
+
+ <sp who="Hysing">
+   <speaker>HYSING</speaker>
+
+    <p>Kort og godt &#x2013; hans Styrke ligger i en vis Evne for det Livlige &#x2013; den Side af Hjort har jeg ogsaa altid beundret, som I v&#x00E9;d.</p>
+ </sp>
+
+<pb n="42"/>
+
+ <sp who="Tante Magda">
+   <speaker>TANTE MAGDA</speaker>
+
+ <stage>(:afsides:)</stage>
+
+    <p>Han beundrer dog Henrik!</p>
+ </sp>
+
+ <sp who="Hysing">
+   <speaker>HYSING</speaker>
+
+ <stage>(:stivt overseende &#x2013; til Tante Magda:)</stage>
+
+    <p>Saa &#x2013; Hjort er ikke hjemme, Fr&#x00F8;ken! &#x2013; Hvad der har f&#x00F8;rt os hid idag, h&#x00F8;rer forresten ikke ind under Selskabeligheden. &#x2013; Her maa Idealet holdes frem uden Hensyn til det Behagelige &#x2013; &#x2013; Tillad da, at jeg l&#x00E6;gger hans Afhandling her og skriver nogle faa Linjer til ham.</p>
+ </sp>
+
+ <stage>(:Anna kommer ind og hilser; Bjerk hilser og tr&#x00E6;kker sig kejtet hen til Hysing:)</stage>
+
+ <sp who="Hysing">
+   <speaker>HYSING</speaker>
+
+    <p>Jeg beder tusende Gange om Undskyldning Frue! &#x2013; En Dame af Deres Aand vil vide, at det ofte er lettere at sige sin Mening &#x2013; det er om Deres Mands Afhandling &#x2013; skriftlig end mundtlig, og at jo strengere man udtaler den &#x2013; desmere vurderes Personens Kjerne</p>
+
+ <stage>(:pegende paa Afhandlingen, hovmodigt:)</stage>
+
+    <p>I dette kan jeg ikke finde Spor til L&#x00F8;sning af de Opgaver, som Titelen antyder.</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+ <stage>(:stivt:)</stage>
+
+    <p>Hvor Sandheden siges af et virkelig venskabeligt Sindelag &#x2013; mister man aldrig sine Venner.</p>
+ </sp>
+
+ <sp who="Hysing">
+   <speaker>HYSING</speaker>
+
+    <p>Tillad, at jeg anbefaler mig Frue! &#x2013; jeg beder Dem bringe Deres Mand min venskabelige Hilsen &#x2013; jeg beklager at han ikke var hjemme.</p>
+ </sp>
+
+ <sp who="Bjerk">
+   <speaker>BJERK</speaker>
+
+    <p>Jeg ligesaa, &#x2013; jeg forsikkrer Dem . . .</p>
+
+ <stage>(:afsides:)</stage>
+
+    <p>Dette er gruelig lejt.</p>
+
+ <stage>(:Han hilser og gaar ud lige efter Hysing:)</stage>
+
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+ <stage>(:til Busk:)</stage>
+
+    <p>Hvad skal dette betyde, Busk?</p>
+ </sp>
+
+<pb n="43"/>
+
+ <sp who="Busk">
+   <speaker>BUSK</speaker>
+
+ <stage>(:&#x00E6;rgerlig:)</stage>
+
+    <p>Aa, paa den ene Side skal det betyde, at Deres Mand ikke l&#x00E6;nger passer i Hysings Kategorier, det vil sige, i hans Kramkiste, og paa den anden Side saa &#x2013; maa jeg jo give ham Ret i, at &#x2013; at &#x2013; De endelig maa raade Deres Mand til ikke at give ud den Afhandling, f&#x00F8;r den er omarbejdet i v&#x00E6;sentlige Stykker; &#x2013; &#x2013; det er Noget, som kan h&#x00E6;nde enhver Litterat.</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+ <stage>(:skuffet, afsides til Tante Magda:)</stage>
+
+    <p>De forstaa ikke, at det kommer af, at han er saa optaget af alt Andet &#x2013; &#x2013; at det er Tid, der mangler ham, &#x2013;</p>
+
+ <stage>(:for sig selv:)</stage>
+    
+    <p>Stakkels Henrik! &#x2013; Gid jeg kunde br&#x00E6;nde Hysings Brev!</p>
+    
+ <stage>(:H&#x00F8;jt:)</stage>
+
+    <p>H&#x00F8;r Busk! Jeg forstaar mig ikke paa dette; &#x2013; men paa Dem vil Henrik h&#x00F8;re, fordi han tror Dem. &#x2013; Kom hid iaften, og sig De ham Deres Mening. &#x2013; Vil De?</p>
+ </sp>
+
+ <sp who="Busk">
+   <speaker>BUSK</speaker>
+
+ <stage>(:ser lidt ulykkelig ud:)</stage>
+
+    <p>Naar De vil det saa . . .</p>
+ </sp>
+
+ <sp who="Tante Magda">
+   <speaker>TANTE MAGDA</speaker>
+
+ <stage>(:tager Kaaben om sig; &#x2013; ivrig:)</stage>
+
+    <p>&#x2013; Det gj&#x00E6;lder om at faa gjort Visiten hos Buckene af endnu i denne Formiddag!</p>
+ </sp>
+
+<stage>(:T&#x00E6;ppet falder:)</stage>
+
+<pb n="44"/>
+
+               </div>
+ <div type="act" n="1">
+
+ <stage>(:Henrik sidder i Sofaen og blader l&#x00E6;sende i nogle beskrevne Ark. Hans
+                     Hat staar paa Bordet foran ham:)</stage>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+ <stage>(:kaster Papirerne utaalmodigt paa Bordet:)</stage>
+
+    <p>Her kan En nok sidde i syv Lange og syv Brede, uden at hun kommer!
+ <stage>(:Han gaar hen og ringer:)
+  (:Pigen kommer ind:)</stage> Min hustru er altsaa ikke hjemme?</p>
+ </sp>
+
+ <sp who="Pigen">
+   <speaker>PIGEN</speaker>
+
+    <p>Nej, &#x2013; hun gik ud imorges &#x2013; hun skulde informere.</p>
+ </sp>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+    <p>Ja, ja, &#x2013; lad det v&#x00E6;re godt!</p>
+
+ <stage>(:Pigen gaar:)</stage>
+    
+    <p>&#x2013; Og hun kommer nok heller ikke med det F&#x00F8;rste . . . Nej! &#x2013; Nej saam&#x00E6;n! &#x2013; Aa nej, &#x2013; man overrasker ikke! &#x2013; Og saa var det igaar, &#x2013; og i forige Uge ogsaa. &#x2013; &#x2013; Det er virkelig hyggelig dette!</p>
+
+ <stage>(:Han gaar hen til Skrivebordet, dypper en Pen og s&#x00E6;tter sig atter til at l&#x00E6;se, idet han af og til retter noget i det Skrevne:)</stage>
+
+    <p>&#x2013; Ja, der skal egentlig ingen sige, at min litter&#x00E6;re Bane er rosenstr&#x00F8;et . . . Om det saa er Busk, saa raader han mig nu fra at trykke min Afhandling! . .
+                     .</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+ <stage>(:kommer ind spadserekl&#x00E6;dt og gaar uden at se sin Mand lige hen til Nodehylden ved Pianoet, hvor hun l&#x00E6;gger fra sig sine Nodeh&#x00E6;fter:)</stage>
+
+    <p>Det var en forf&#x00E6;rdelig lang Vej! . . . men sex Timer om Ugen det. . . .
+ <stage>(:overrasket og lidt forlegen ved at se sin Mand:)</stage> Du her, Henrik!</p>
+ </sp>
+
+<pb n="45"/>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+ <stage>(:kort uden at forandre Stilling:)</stage>
+
+    <p>Der ligger et Brev til Dig under Brevpressen &#x2013; &#x2013;</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+ <stage>(:skynder sig hen til Skrivebordet:)</stage>
+
+    <p>Det er hjemmefra!</p>
+
+ <stage>(:aabner det med en Papirkniv:)</stage>
+
+    <p>Jeg maa bare kige i det lidt f&#x00F8;rst, &#x2013; se om Alt er vel . . . saa kan jeg l&#x00E6;se det siden, naar Du er gaaet og fort&#x00E6;lle Dig det, naar vi spise til Middag.</p>
+
+ <stage>(:l&#x00E6;ser:)</stage>
+
+    <p>. . . Jo, de leve vel baade Far og Mor! . . .</p>
+
+ <stage>(:l&#x00E6;ser igjen:)</stage>
+
+    <p>T&#x00E6;nk Dig, &#x2013; om fjorten Dage gaar Skibet af Stabelen fra Beddingen! Jeg ved nok, hvorfor Mor n&#x00E6;vner det, . . . Far saa gjerne, at Fredriks og vi var hos dem den Dag; Jeg er vis paa det, . . . der blir Fest for alle Arbejderne og Selskab hjemme; Far har saa travlt &#x2013;</p>
+ </sp>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+ <stage>(:gr&#x00E6;tten, spydig:)</stage>
+
+    <p>Der er Mennesker, som har en s&#x00E6;regen Natur til at gj&#x00F8;re sig til Arbejdstr&#x00E6;lle. Hvad vil nu din Far med dette? &#x2013; Han har jo Formue nok til at leve i Ro og Mag paa sin Alderdom. I din Broder stikker den samme Myrenatur . . . Arbejde, &#x2013; arbejde uden noget h&#x00F8;jere Hvorfor? &#x2013; &#x2013; rundt i en Tr&#x00E6;dem&#x00F8;lle &#x2013; det skal v&#x00E6;re Livet!</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+ <stage>(:ser paa ham og n&#x00E6;rmer sig:)</stage>
+
+    <p>Du er vred, Henrik! &#x2013; der er Noget, som er gaaet Dig imod idag, &#x2013; som har &#x00E6;rgret Dig, &#x2013; &#x2013; har Du v&#x00E6;ret her l&#x00E6;nge?</p>
+ </sp>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+    <p>Jeg har siddet og hygget mig herhjemme &#x2013; gruelig l&#x00E6;nge &#x2013;</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Sig heller, . . . Du har siddet og skrevet og &#x00E6;rgrede Dig over at jeg kom og afbr&#x00F8;d Dig.</p>
+ </sp>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+    <p>Fruen er ikke l&#x00E6;nger saa let at tr&#x00E6;ffe i Huset . . . Ja, ja, hver sin Lyst! Du hygger Dig paa dit Vis med at hamre paa And<pb n="46"/>res Pianoforter, og jeg vil hygge mig i Klubben . . En kan vel tr&#x00E6;nge til at fornye sine Id&#x00E9;er . . .</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Men, det er jo netop det, jeg vil, &#x2013; at Du ikke lader Noget standse Dig paa den Vej, Du skal gaa; &#x2013; &#x2013; jeg har jo sagt Dig, nogen snever Kone vil jeg ikke v&#x00E6;re Dig . . . Kj&#x00E6;re Henrik! . . . jeg ser paa din Mine, at idag har Du syntes, det ikke saa saa bravt ud &#x2013; &#x2013;</p>
+ </sp>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+ <stage>(:interesseret og i en kj&#x00E6;rlig Stemning:)</stage>
+
+    <p>&#x2013; med Posten, mener Du, &#x2013; Udsigten til at faa Ledelsen af Tidsskriftet? Der skal just v&#x00E6;re et M&#x00F8;de om det idag, men jeg venter ingen Afgj&#x00F8;relse; &#x2013; efter den ene af Forl&#x00E6;ggernes Yttringer maa jeg betragte mig som designeret.</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+ <stage>(:livligt:)</stage>
+
+    <p>Og Sligt fort&#x00E6;ller Du mig ikke &#x2013; det er jo pr&#x00E6;gtigt!</p>
+ </sp>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+    <p>Ja, Kassen vil blive m&#x00E6;rkelig forbedret, synes Du;</p>
+
+ <stage>(:han viser paa et Papir, der ligger paa Bordet:)</stage>
+
+    <p>&#x2013; der ligger just en Regning til din Overvejelse.</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+ <stage>(:tager Regningen; den gj&#x00F8;r hende et &#x00D8;jeblik lidt grublende, men hun tager sig igjen:)</stage>
+
+    <p>&#x2013; Nej Henrik! &#x2013; for Alt det Store, Du skal udrette i Landet . . . at Du skal faa virke og bruge dine Evner . . . og jeg skal l&#x00E6;re at staa hos Dig! &#x2013; Kan jeg ikke Andet, saa kan jeg kanske l&#x00E6;gge lidt Staal til; thi, Du kalde det nu, som Du vil, &#x2013; der er Staal i vor Familje, Henrik! . . . de s&#x00E6;tte Noget igjennem.</p>
+ </sp>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+    <p>Der traf Du virkelig Ordet, &#x2013; det er Trang til at gj&#x00F8;re Noget . . . faa bruge mine Kr&#x00E6;fter, jeg har! Jeg synes, jeg gaar her som et Dampskib, der bare faar arbejde med en kvart Kraft &#x2013; inden jeg faar noget Solid mellem H&#x00E6;n<pb n="47"/>derne.</p>
+
+ <stage>(:Efter et lidet Ophold:)</stage>
+
+    <p>Jeg vil sandelig blive hjemme i Formiddag, Anna! . . . V&#x00E9;d Du, &#x2013; Du har en Evne til at tale mig Mod i Brystet! &#x2013; &#x2013; Det er ikke altid . . .</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Kj&#x00E6;re Henrik! &#x2013; Jeg skal ud igjen</p>
+
+ <stage>(:tager op Uhret:)</stage>
+
+    <p>&#x2013; om en knap halv Time &#x2013; jeg skal give en Time Klokken &#x00E9;t . . .</p>
+ </sp>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+    <p>Ja, den lade vi fare; den . . . faar indrette sig efter os og ikke vi efter den &#x2013; Timerne ere til for Menneskenes Skyld og ikke vi for Timernes.</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Nej, &#x2013; det gaar virkelig ikke an, jeg maa gaa &#x2013;</p>
+ </sp>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+    <p>Hvad for Noget? Gaar det ikke an? &#x2013; for en Times Skyld, som kan afsiges . . . ude hos en eller anden Spidsborger?</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Kj&#x00E6;re Henrik, vil Du ikke, at man skal kunne stole paa din Hustru?</p>
+ </sp>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+    <p>&#x2013; &#x2013; en saadan Ubetydelighed!</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Ja, men jeg er nu engang opdraget til ikke at s&#x00E9; det saa.</p>
+ </sp>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+ <stage>(:&#x00E6;rgerlig:)</stage>
+
+    <p>Rigtig, &#x2013; man gir det Ubetydelige en Fasthed og Urokkelighed, som om det var et Princip, &#x2013; det er netop det, jeg mener, er Familjeulykken. Det Betydelige er nok her, om vi To skulle faa en uhyggelig Formiddag, &#x2013; det Ubetydelige en Informationstime, som kan ops&#x00E6;ttes. Jeg vil desuden sige Dig &#x00E6;rlig ud, Anna, &#x2013; jeg synes denne Kaprice med at informere er noget, som ikke ret mange M&#x00E6;nd vilde have fundet sig i!</p>
+ </sp>
+
+<pb n="48"/>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Men, kj&#x00E6;re Ven! . . . vilde Du da heller, jeg skulde gaa ud om Dagene og ingenting bestille?</p>
+ </sp>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+    <p>Aa ja, &#x2013; egentlig mange Gange heller, end at Du laver Dig op endel smaaligt Pligtnips til at spidsborgerliggj&#x00F8;re Dagen med, . . . jeg kunde faa en F&#x00F8;lelse af, at Du vil inds&#x00E6;tte de smaa Ruder hjemmefra ogsaa her!</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+ <stage>(:saaret:)</stage>
+
+    <p>Jeg troede ikke, Du var istand til at sige mig sligt &#x2013; is&#x00E6;r &#x2013; da der kan v&#x00E6;re noget sandt i det!</p>
+ </sp>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+    <p>Saa opsig Timen!</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Hvis Du tvinger mig, Henrik! &#x2013; jeg synes ikke, det er ret.</p>
+ </sp>
+
+<stage>(:Det banker paa D&#x00F8;ren:)</stage>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+    <p>Kom ind! &#x2013;</p>
+
+ <stage>(:Fredrik Howitz og hans Hustru vise sig i D&#x00F8;ren:) (:til Anna:)</stage>
+
+    <p>&#x2013; De komme for at fuldkommengj&#x00F8;re Formiddagen!</p>
+    
+ <stage>(:h&#x00F8;jt:)</stage>
+
+    <p>Ja, Farvel Anna! &#x2013; Jeg gaar hen i Redaktionen med en Avisartikkel. &#x2013; Goddag, Svoger! &#x2013; jeg maa desv&#x00E6;rre med det samme sige Farvel! &#x2013; travlt kj&#x00E6;re Theodora!</p>
+ </sp>
+
+ <sp who="Frederik Howitz">
+   <speaker>FREDRIK HOWITZ</speaker>
+
+    <p>Det kan jeg saa godt forstaa, Du har; lad os bare ikke hindre Dig . . . Forretninger fremfor Alt!</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+<stage>(:f&#x00F8;lger efter sin Mand og hvisker til ham:)</stage>
+
+    <p>Og Du er ikke vred paa mig? &#x2013; sig at Du ikke er det!</p>
+ </sp>
+
+<pb n="49"/>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+ <stage>(:idet han gaar:)</stage>
+
+    <p>Hvorfor skulde jeg vel v&#x00E6;re det? Det er min egen Skyld. &#x2013; Jeg var bare saa dum at tro, her skulde v&#x00E6;re hyggeligt en Formiddag hjemme; men &#x2013; &#x00AB;Forretninger fremfor Alt&#x00BB;, &#x2013; var det ikke saa, din Broder sagde, &#x2013; jeg tvivler ikke et &#x00D8;jeblik paa, at han har Ret!</p>
+
+ <stage>(:h&#x00F8;jt:)</stage>
+    
+    <p>Apropos! &#x2013; det er ikke v&#x00E6;rdt, Du venter paa mig med Middagen, Anna, &#x2013; jeg kommer maaske ikke hjem f&#x00F8;r iaften sent &#x2013; efter Klubtiden.</p>
+    
+ <stage>(:han gaar:)</stage>
+
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+ <stage>(:med lidt svigtende Stemme:)</stage>
+
+    <p>Farvel Henrik!</p>
+
+ <stage>(:hun fatter sig og siger med kunstig Munterhed:)</stage>
+
+    <p>I maa vide, det er Fredag, og da har han Klubm&#x00F8;de; . . . Henrik fors&#x00F8;mmer desv&#x00E6;rre alt for ofte. &#x2013; &#x2013; &#x2013; Jeg har faaet Brev hjemmefra Fredrik! Far saa nok gjerne, vi Alle vare hjemme hos ham den Dag, Skibet gaar af Stabelen.</p>
+ </sp>
+
+ <sp who="Frederik">
+   <speaker>FREDRIK</speaker>
+
+    <p>Tror Du det Anna, &#x2013; jeg er nu slet ikke vis paa den Ting.</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Hvad mener Du?</p>
+ </sp>
+
+ <sp who="Frederik">
+   <speaker>FREDRIK</speaker>
+
+    <p>Aa ja, &#x2013; siden vi saadan er plumpet lige ind paa det, &#x2013; Du v&#x00E9;d jo, hvor han er bekymret; &#x2013; han har saa ondt for at forstaa, at I To kan have det, I beh&#x00F8;ve &#x2013; og &#x2013; jeg tror ogsaa, det vilde v&#x00E6;re mindre hyggeligt for din Mand at komme &#x2013; netop nu.</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Og hvem har sagt, at vi ikke har nok at leve af?</p>
+ </sp>
+
+ <sp who="Frederik">
+   <speaker>FREDRIK</speaker>
+
+    <p>Kj&#x00E6;re Anna, Du ved, jeg er ikke kommet her for at plage Dig; &#x2013; men det kan En jo slutte sig til.</p>
+ </sp>
+
+<pb n="50"/>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Du mener, fordi vi . . . nufortiden . . . kanske kan have det knapt engang imellem, indtil Henrik faar sin Redakt&#x00F8;rstilling?</p>
+ </sp>
+
+ <sp who="Frederik">
+   <speaker>FREDRIK</speaker>
+
+    <p>Jeg mener, at en ung nygift Kone, som s&#x00F8;ger om at give Timer paa Skoler og, som tager sig for at give Smaab&#x00F8;rn Musikinformationer for en ringe Betaling, ikke gj&#x00F8;r det, uden hun er haardt n&#x00F8;dt dertil. Det er egentlig det, som drev mig op til Dig idag, &#x2013; jeg haabede at tr&#x00E6;ffe Dig alene. Jeg vilde kun sige Dig, at om det i denne Tid skulde knibe for Eder, v&#x00E9;d Du jo, at Du kan faa Penge af mig.</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Penge af Dig? &#x2013; Jeg v&#x00E9;d jo, det er velment. Men for det F&#x00F8;rste tog Henrik aldrig Pengehjelp af min Familje, og dern&#x00E6;st</p>
+    
+ <stage>(:muntert:)</stage>
+
+    <p>&#x2013; er Du aldeles paa Vildspor! Jeg &#x2013; informerer n&#x00E6;rmest, fordi jeg ikke har Andet at bestille &#x2013; saa at sige rent ud for min Forn&#x00F8;jelses Skyld &#x2013; og, at det tillige gir lidt i Kassen &#x2013; ja, Du maa vide, jeg er Kassemester her i Huset, &#x2013; Henrik har ingen Anelse om de Penge, vi bruge. Han har Andet at t&#x00E6;nke paa og skal holdes fri for de Smaaligheder.</p>
+ </sp>
+
+ <sp who="Theodora">
+   <speaker>THEODORA</speaker>
+
+    <p>Smaaligheder! Jeg forsikkrer Dig, &#x2013; i de f&#x00F8;rste Aar, vi vare gifte, var en Smaaudgift sandelig ofte en stor, &#x2013; rigtig stor Ting i vort Hus.</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+ <stage>(:med lidt Overmod:)</stage>
+
+    <p>Penge er nu engang ikke Henriks Maal i denne Verden!</p>
+ </sp>
+
+ <sp who="Frederik">
+   <speaker>FREDRIK</speaker>
+
+    <p>Tillad mig, kj&#x00E6;re S&#x00F8;ster! Penge er ikke heller mit sidste Maal, &#x2013; haaber jeg da. Jeg vil virke, det er min Lyst, og saa &#x2013; synes jeg nu heller ikke, det er en saa upoetisk Tanke, at en Mand, ser til at forsvare sin Familje.</p>
+ </sp>
+
+<pb n="51"/>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Du er Forretningsmand og har ondt for at se, hvad der h&#x00F8;rer til vor Vej. Jeg vil sige Dig: Om Henrik skal komme til sin Ret, er ikke bare et simpelt lidet Hussp&#x00F8;rgsmaal! &#x2013; han beh&#x00F8;ver sandelig Alt, hvad han ejer af Hum&#x00F8;r og Kraft for at naa did. Og saa skulde jeg begynde med Husholdningsgnaalet! &#x2013; da maatte han jo med Rette heller ty til sine Venner end til sin Hustru . . .</p>
+ </sp>
+
+ <sp who="Frederik">
+   <speaker>FREDRIK</speaker>
+
+    <p>&#x2013; til Venner, som mene, at en Mand kan h&#x00E6;ve sig over den simple Pligt at v&#x00E6;rge sin egen Tue? &#x2013; Jeg gir ikke meget for den Slags Venner!</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Da er Henriks Venner sandelig bekjendte nok!</p>
+ </sp>
+
+ <sp who="Frederik">
+   <speaker>FREDRIK</speaker>
+
+    <p>R&#x00F8;g! Anna, &#x2013; R&#x00F8;g! Hvormange tror Du ikke, der lever rundt omkring os, der har vel saa meget Aand, som nogen af dem? &#x2013; siden vi endelig skal tale om den Ting. Men de har sat sin Aand ind i en eller anden Livsgjerning, saa den tr&#x00E6;kker Noget. De Fleste af disse . . . Fyre, har ikke havt Kraft til det, og saa pibe de Dampen ud i Snak. Virkeligheden er dem saa fremmed som Australien!</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+ <stage>(:afvisende:)</stage>
+
+    <p>Kj&#x00E6;re Fredrik! &#x2013; jeg tror &#x2013; det er bedst, vi holde op med dette!</p>
+ </sp>
+
+ <sp who="Theodora">
+   <speaker>THEODORA</speaker>
+
+    <p>Men Anna! &#x2013; hvorl&#x00E6;nge skal da denne din Pinens Tid vare? Det er naturligvis Redakt&#x00F8;rposten, I t&#x00E6;nke paa . . . Er I da saa sikkre paa den?</p>
+ </sp>
+
+ <sp who="Frederik">
+   <speaker>FREDRIK</speaker>
+
+    <p>&#x2013; Og i Mellemtiden, &#x2013; jeg vilde saa gjerne faa b&#x00E6;re disse Smaaligheder for Dig; &#x2013; mig gj&#x00F8;r det jo Ingenting, v&#x00E9;d du.</p>
+ </sp>
+
+<pb n="52"/>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Jeg har svaret Dig paa det Fredrik, &#x2013; det gaar nu engang ikke an. Sagen om Redakt&#x00F8;rposten blir vist idag endnu ikke afgjort, &#x2013; det var det, som gjorde Henrik saa gr&#x00E6;tten, da I m&#x00F8;dte ham i D&#x00F8;ren.</p>
+ </sp>
+
+ <sp who="Frederik">
+   <speaker>FREDRIK</speaker>
+
+    <p>Det er altsaa, saavidt jeg skj&#x00F8;nner, en uvis Sag, der kan blive udsat Tid efter anden. Nu vil jeg, din Broder, give Dig et Raad, Anna! Ford&#x00F8;lg ikke en af dine huslige Pengeforlegenheder for din Mand! Du ber&#x00F8;ver ham ellers det han netop tr&#x00E6;nger til . . . det rigtige Blik paa sin Stilling.</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+ <stage>(:stivt:)</stage>
+
+    <p>Naar det kommer saavidt, at vi her i Huset har virkelige Forlegenheder af den Sort, skal jeg visselig betro ham det; men indtil da maa Du undskylde, at jeg gaar min egen Vej . . . Jeg troede ikke, at jeg skulde blive n&#x00F8;dt til at tage min Mand i Forsvar mod min egen Broder</p>
+    
+ <stage>(:udbryder heftigt:)</stage>
+
+    <p>Jeg siger Dig rentud, jeg havde ikke ventet det af Dig, Fredrik!</p>
+ </sp>
+
+ <sp who="Frederik">
+   <speaker>FREDRIK</speaker>
+
+    <p>Jeg har sagt, hvad jeg mente.</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Ja, men jeg vil ikke taale det! Du har angrebet ham paa alle Vis idag, &#x2013; &#x2013; baade ham og hans Venner! v&#x00E6;rre end . . .</p>
+ </sp>
+
+ <sp who="Frederik">
+   <speaker>FREDRIK</speaker>
+
+    <p>Nu, nu Anna, &#x2013; Du skal ikke faa h&#x00F8;re et Ord mere af os, &#x2013; siden Du ikke vil det.</p>
+ </sp>
+
+ <sp who="Theodora">
+   <speaker>THEODORA</speaker>
+
+ <stage>(:forn&#x00E6;rmet:)</stage>
+
+    <p>Nej, Du kan v&#x00E6;re rolig, &#x2013; &#x2013; den Sag skal ikke mere komme over vore L&#x00E6;ber!</p>
+ </sp>
+
+<pb n="53"/>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+ <stage>(:formelt:)</stage>
+
+    <p>Jeg saa det virkelig ogsaa helst, &#x2013; om jeg end maa takke for den gode Mening.</p>
+ </sp>
+
+<stage>(:Det banker paa:)</stage>
+
+ <sp who="Bogtrykker Schjørn">
+   <speaker>BOGTRYKKER SCHJ&#x00D8;RN</speaker>
+
+ <stage>(:kommer ind:)</stage>
+
+    <p>Aa, om Forladelse! Er Hr. Hjort ikke hjemme? Se, der er jo Fruen! Jeg kom blot for at fort&#x00E6;lle ham om M&#x00F8;det idag. Det blev ganske rigtig udsat, &#x2013; akurat, hvad jeg spaaede, &#x2013; afgj&#x00F8;res f&#x00F8;rst henimod Nytaar. Ja, det gik rart til, &#x2013; akurat, som jeg t&#x00E6;nkte . . . at mange Kokke forsalte Suppen. Saa, han er ikke Hjemme, . . . undskyld</p>
+
+ <stage>(:vil gaa:)</stage>
+
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Kan De ikke fort&#x00E6;lle det til mig Hr. Schj&#x00F8;rn? . . . saa faar min Mand vide det, strax han kommer hjem.</p>
+ </sp>
+
+ <sp who="Frederik">
+   <speaker>FREDRIK</speaker>
+
+    <p>Ja, vi skal gaa, kj&#x00E6;re Anna, saa kan I tales ved uforstyrret. Adieu! &#x2013; og v&#x00E6;r nu ikke vred, &#x2013; hils din Mand fra os.</p>
+ </sp>
+
+ <sp who="Theodora">
+   <speaker>THEODORA</speaker>
+
+    <p>Farvel Anna!</p>
+
+ <stage>(:de gaa:)</stage>
+
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Nu da Hr. Schj&#x00F8;rn!</p>
+ </sp>
+
+ <sp who="Schjørn">
+   <speaker>SCHJ&#x00D8;RN</speaker>
+
+    <p>Aa, det var egentlig Ingenting; &#x2013; men &#x00E6;rgerligt var det jo, &#x2013; for det er mig, som skal trykke Tidsskriftet, &#x2013; at sige, om det engang kommer da.</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>De sagde, &#x2013; saa var de komne sammen . . .</p>
+ </sp>
+
+ <sp who="Schjørn">
+   <speaker>SCHJ&#x00D8;RN</speaker>
+
+    <p>Ja, saa var de sammen, og saa disputerede To mod To, &#x2013; akurat, som jeg t&#x00E6;nkte &#x2013; og saa vilde de To have det saa<pb n="54"/>dan Lauritz&#x2013;Hysing&#x2019;sk med faa Abonenter og fint Papir . . . h&#x00F8;j&#x00E6;sthetisk, forstaar De, . . . og de to Andre vilde have et Maanedsskrift for mindre Fort&#x00E6;llinger og stor Udbredelse saadan Morten&#x2013;Busk&#x2019;sk, ligesom Feulletonen under Borgeren.</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Jeg forstaar ikke . . .</p>
+ </sp>
+
+ <sp who="Schjørn">
+   <speaker>SCHJ&#x00D8;RN</speaker>
+
+    <p>Ja, saa kom det Fine &#x2013; det om Redakt&#x00F8;ren. De To vilde egentlig have Lauritz Hysing, og de To vilde egentlig have Morten Busk; men alle Fire &#x2013; nu kommer Humlen &#x2013; heldede, da Alt kom til Alt, mest til at tage Deres Mand til Redakt&#x00F8;r.</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Jeg skal ikke n&#x00E6;gte for, jeg synes, dette klinger noget uforstaaeligt!</p>
+ </sp>
+
+ <sp who="Schjørn">
+   <speaker>SCHJ&#x00D8;RN</speaker>
+
+    <p>Det vil sm&#x00E6;kke op som et Laas for Dem Frue! &#x2013; Altsammen &#x2013; kun ved et eneste Vink. Ja der er nu egentlig lidt Intrigue i dette &#x2013; som i Alting. Hysing har nok gjort dem det begribeligt, at Busk ikke er nogen paalidelig Mand at holde sig til. Ser De, Tidsskriftet skal jo ud til sine faste Tider, &#x2013; og Datum og Klokkeslet det er nu ikke hans Sag. Og saa skal En jo have ikke saa lidt Penge mellem H&#x00E6;nder, &#x2013; og det er nu sletikke hans Sag. Men saa var det Ulykken, at de heller ikke tror Hysing videre i det Capitel; men &#x2013; nu forstaar De vel &#x2013; Deres Mand tror de; han er en paalidelig Mand, &#x2013; han har jo desuden nu faaet en god Svigerfa&#x2019;r i Baghaanden; og, enten nu Tidsskriftet skal gaa i den hysingske eller i den busk&#x2019;ske Man&#x00E9;r, &#x2013; blir han aligevel Kongen, indser De. Jeg kalder det en fin Stilling, &#x2013; begge Kort paa Haanden; &#x2013; han faar bare med at betale og passe paa enten den Ene eller den Anden. Og Deres Mand kan det jo v&#x00E6;re det samme, &#x2013; ligesaa mig! Skj&#x00F8;nt &#x2013; i Fortrolighed sagt &#x2013; jeg vil dog helst, det skal gaa med det Busk&#x2019;ske det gir ganske anderledes Trykning.</p>
+ </sp>
+
+<pb n="55"/>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+ <stage>(:i Sindsbev&#x00E6;gelse:)</stage>
+
+    <p>Jeg forstaar Dem fuldkommen Hr. Schj&#x00F8;rn! &#x2013; Man foruds&#x00E6;tter blot, at min Mand skal ville opgive Retten til at lede Skriftet i sin egen Aand!</p>
+ </sp>
+
+ <sp who="Schjørn">
+   <speaker>SCHJ&#x00D8;RN</speaker>
+
+    <p>Kj&#x00E6;re Frue, vil han sige Noget for egen Regning, kan han jo holde sig til et af Byens Blade. Deres Mand har altfor godt Hoved til at ville skj&#x00E6;mme ud sit eget Tidsskrift; han er den Eneste af dem, som duer til en Forretning, &#x2013; det har jeg altid sagt.</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+ <stage>(:stolt:)</stage>
+
+    <p>Jeg t&#x00F8;r paa Forhaand forsikre Dem om, at min Mand ikke vil dele den Opfatning.</p>
+ </sp>
+
+ <sp who="Schjørn">
+   <speaker>SCHJ&#x00D8;RN</speaker>
+
+ <stage>(:ivrig:)</stage>
+
+    <p>Men han vinder jo Hovedsagen, &#x2013; blir Redakt&#x00F8;ren! &#x2013; og det vil sige sine blanke otte hundrede Daler om Aaret . . . Gode Frue, forstaar De da ikke . . .</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+ <stage>(:gaar hen til Nodehylden og siger stivt:)</stage>
+
+    <p>De vil nok undskylde mig Hr. Schj&#x00F8;rn! &#x2013; jeg skal ud og informere. . . . Hvad De har fortalt, skal min Mand faa vide saa usminket, som De har bragt det!</p>
+ </sp>
+
+ <sp who="Schjørn">
+   <speaker>SCHJ&#x00D8;RN</speaker>
+
+ <stage>(:afsides:)</stage>
+
+    <p>At tale med Fruentimmer om Forretninger! &#x2013; det er og blir en Dumhed &#x2013; det har jeg altid sagt.</p>
+
+ <stage>(:H&#x00F8;jt:)</stage>
+
+    <p>Adieu, Adieu, Frue, &#x2013; jeg anbefaler mig.</p>
+
+ <stage>(:Han gaar:)</stage>
+
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+ <stage>(:st&#x00F8;tter sig til Nodestolen; &#x2013; &#x2013; strygende sig over Panden:)</stage>
+
+    <p>Jeg kan virkelig ikke rigtig samle mig . . . Det var jo disse to Regninger . . . og Fredrik . . .</p>
+
+ <stage>(:farende op:)</stage>
+
+    <p>Nej, det var, at man vil tr&#x00E6;de Henrik under Foden . . . det var det! . . . Han<pb n="56"/> skal tr&#x00E6;kkes ned i deres Sph&#x00E6;re enten paa det ene eller det andet Vis! . . .</p>
+ </sp>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+ <stage>(:kommer ind distrait, gaar hastigt frem og tilbage med Hatten paa Hovedet; han kaster den med H&#x00E6;ftighed i Sofaen:)</stage>
+
+    <p>Saa det var Sagen! . . . Jeg skal v&#x00E6;re en Udvej! . . . Der beh&#x00F8;vedes bare en liter&#x00E6;rt dannet Mand . . . en Slags praktisk Administrator &#x2013; og det er mig det! &#x2013; &#x2013; Det er sv&#x00E6;rt, hvor det kommer paa Mode at finde mig praktisk nu om Dagen; . . . det er virkelig en sindrig Maade at skille En af med sin litter&#x00E6;re &#x00C6;re paa! . . . Og jeg, som har gaaet og troet paa denne Hysing!</p>
+
+ <stage>(:ser Anna:)</stage>
+
+    <p>Staar Du der Anna!</p>
+
+ <stage>(:bittert:)</stage>
+
+    <p>Ja, nu har jeg v&#x00E6;ret ude og faaet Rede paa M&#x00F8;det! . . .</p>
+
+ <stage>(:han gaar raskt frem og tilbage:)</stage>
+
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Bogtrykker Schj&#x00F8;rn var her netop og fortalte det Hele.</p>
+ </sp>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+    <p>Han fandt naturligvis, at det gik gl&#x00E6;deligt! . . . Men de skal tabe, de Herrer! . . . Man vil bringe mig til at tage enten Lauritz Hysing eller Morten Busk! . . . gj&#x00F8;re mig til en Slags Faktor for Deres Penne . .
+                     .</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Ja, ikke sandt, &#x2013; saa det igrunden blev En af dem ikke Du.</p>
+ </sp>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+ <stage>(:hidsigt:)</stage>
+
+    <p>Hvorfor siger Du: &#x00AB;Ikke mig&#x00BB;?</p>
+
+ <stage>(:t&#x00F8;rt:)</stage>
+
+    <p>Ja, Du skal naturligvis ud at informere, Du!</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+ <stage>(:gaar hen til ham:)</stage>
+
+    <p>Nej Henrik, &#x2013; idag bliver jeg hjemme hos Dig.</p>
+ </sp>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+    <p>. . . Men, ser Du, &#x2013; jeg s&#x00E6;tter dem uden videre Stolen for D&#x00F8;ren! &#x2013; man skal faa v&#x00E6;lge.</p>
+ </sp>
+
+<pb n="57"/>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Det vidste jeg, Du vilde, min Ven!</p>
+ </sp>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+ <stage>(:efter en Pause:)</stage>
+
+    <p>Jeg skriver en Billett til Forl&#x00E6;ggerne, &#x2013; &#x2013; og gaar saa i Klubben iaften, som Intet er, saa kan de snakke . . .</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Og jeg er saa &#x2013; stolt af Dig, Henrik.</p>
+ </sp>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+ <stage>(:lidt vigtig, vuggende op og ned paa Foden:)</stage>
+
+    <p>Man har jo sin litter&#x00E6;re &#x00C6;re!</p>
+ </sp>
+
+ <stage>(:Sceneforandring:)
+     <lb/>:Et lidet halv
+                     kaff&#x00E9;m&#x00E6;ssig, halv privat udstyret V&#x00E6;relse; &#x2013; naar D&#x00F8;ren aabnes, ser man
+                     ind i en oplyst Kaff&#x00E9;. Foran en Hj&#x00F8;rnesofa i Baggrunden staar et Bord,
+                     hvorpaa sees nogen Anretning, ellers Smaaborde med et og andet Glas paa og
+                     med Sivstole om. En gammel rummelig Skindsofa paa den ene V&#x00E6;g;                  tv&#x00E6;rtover paa den anden V&#x00E6;g et gammeldags langt Spejl, der h&#x00E6;nger skraat
+                     udover med en liden Kommode eller Etag&#x00E8;re under. Idet T&#x00E6;ppet gaar op,
+                     ser man Lauritz Hysing siddende i det ene Sofahj&#x00F8;rne med en Avis, som han
+                     har l&#x00E6;st i, over Kn&#x00E6;et; fra hans Plads kan man se sig i Spejlet.
+                     Theodosius Bjerk sidder i det andet Hj&#x00F8;rne af Sofaen. Henne i Hj&#x00F8;rnesofaen
+                     i Baggrunden sidder Morten Busk og spiser sit Aftensmaaltid med en                  Snaps til. Richard Schnelle sidder ved et af Smaabordene. Carsten Bomhof
+                     staar paa Gulvet:)</stage>
+
+ <sp who="Morten Busk">
+   <speaker>MORTEN BUSK</speaker>
+
+    <p>Nu da &#x2013; Bomhof! &#x2013; og Hjort sagde, han kom i Klubben iaften? &#x2013; han er virkelig blevet en sand Raritet her, siden han blev gift.</p>
+ </sp>
+
+ <sp who="Bomhof">
+   <speaker>BOMHOF</speaker>
+
+    <p>Man kan kalde det Hjortens Flugt!</p>
+ </sp>
+
+<pb n="58"/>
+
+ <sp who="Hysing">
+   <speaker>HYSING</speaker>
+
+    <p>Bravo! &#x2013; og Geviret forgyldt af Svigerfa&#x2019;r, mener Du. &#x2013; &#x2013; &#x2013; Apropos, &#x2013; der er nok gaaet noget underligt til idag i Sagen om Tidsskriftet &#x2013; &#x2013; det er intet mindre end et Fors&#x00F8;g paa at reducere andre Aandens B&#x00E6;rere til litter&#x00E6;re Negere!</p>
+ </sp>
+
+ <sp who="Bjerk">
+   <speaker>BJERK</speaker>
+
+ <stage>(:l&#x00E6;spende:)</stage>
+
+    <p>Litter&#x00E6;r Neger! &#x2013; det vilde jeg aldrig taale!</p>
+ </sp>
+
+ <sp who="Busk">
+   <speaker>BUSK</speaker>
+
+    <p>Da kan jeg virkelig oplyse, at Hjort ikke har r&#x00F8;rt sig i den Sag. Hvad han er eller ikke er &#x00E6;sthetisk, &#x2013; en god Kamerat har han altid v&#x00E6;ret, Gentleman tvertigjennem!</p>
+ </sp>
+
+ <sp who="Hysing">
+   <speaker>HYSING</speaker>
+
+ <stage>(:med V&#x00E6;rdighed:)</stage>
+
+    <p>Du kan da vel ikke t&#x00E6;nke, at jeg et &#x00D8;jeblik har ment noget saa . . . saa bund lavt! . . . Men, kan han gj&#x00F8;re for, at Svigerfar staar bagom . . . og at Andre tage Hensyn til det. Hvad der mangler i Aand, suppleres med Kapital!</p>
+ </sp>
+
+ <sp who="Busk">
+   <speaker>BUSK</speaker>
+
+    <p>Kapital? &#x2013; det er nok ikke paa Grund af Overfl&#x00F8;dige Kapitaler, at hans Hustru s&#x00F8;ger Informationer ude i Byen &#x2013; tvertimod stakkels Fyr! . . .</p>
+ </sp>
+
+ <sp who="Hysing">
+   <speaker>HYSING</speaker>
+
+    <p>Hm! &#x2013;</p>
+
+ <stage>(:afbrydende:)</stage>
+
+    <p>&#x2013; Det er virkelig en aandfuld Kone.</p>
+
+ <stage>(:Idet han stille m&#x00F8;nstrer sig foran Spejlet :)</stage>
+
+    <p>Om hun netop skulde v&#x00E6;re hans, er dog et Sp&#x00F8;rgsmaal!</p>
+ </sp>
+
+ <sp who="Bomhof">
+   <speaker>BOMHOF</speaker>
+
+    <p>Se her er igjen en Side af &#x00C6;gteskabsinstitutionen; &#x2013; der er paa det Felt et helt Bjerg af Fordomme at rydde bort &#x2013; &#x2013;</p>
+ </sp>
+
+ <sp who="Morten Busk">
+   <speaker>MORTEN BUSK</speaker>
+
+    <p>Apropos! &#x2013; efter dine bekjendte Anskuelser om den Sag, Bomhof! maa det vel v&#x00E6;re Dig kj&#x00E6;rt at blive oplyst om den<pb n="59"/> lille Hemmelighed Dig vedr&#x00F8;rende . . . at din Far og Mor ikke vare gifte?</p>
+ </sp>
+
+ <sp who="Bomhof">
+   <speaker>BOMHOF</speaker>
+
+ <stage>(:forskr&#x00E6;kket:)</stage>
+
+    <p>Hvad! &#x2013; hvad siger Du? &#x2013;</p>
+
+ <stage>(:De Andre le:)&#x2013; (:Bomhof opbragt:)</stage>
+
+    <p>Ved Du hvad Busk! &#x2013; der er visse Ting som er hellige; &#x2013; som ikke er Gjenstand for den Slags ussel, raadden Tale, . . . selv naar det skal v&#x00E6;re behagelig Sp&#x00F8;g . . .</p>
+ </sp>
+
+ <sp who="Busk">
+   <speaker>BUSK</speaker>
+
+ <stage>(:t&#x00F8;rt:)</stage>
+
+    <p>Det var netop det jeg ogsaa mente, min kj&#x00E6;re Bomhof! &#x2013;</p>
+ </sp>
+
+ <sp who="Schnelle">
+   <speaker>SCHNELLE</speaker>
+
+    <p>&#x00C6;gteskabet, siger I? . . . Kald det heller vor Tids legale Mord paa Kj&#x00E6;rligheden! Man maa ty ud fra vor hele Kultur for at vinde den fulde poetiske Frihed til at behandle det. Jeg arbejder fortiden i Indien . . . har et rigtig realistisk indisk Drama fore. Vil I h&#x00F8;re Gangen?</p>
+    
+ <stage>(:han s&#x00E6;tter sig i Stilling:)</stage>
+
+    <p>En i sig selv fordybet Bramin har en Hustru. &#x2013; Hun tilfredstiller ham ikke. &#x2013; Saa tager han Opium, og i Stilhed, mens han er Brahm og s&#x00E6;nket ind i sit inderste Selv, . . . ser han Syner . . . Han ser hende som en dejlig Bayadere, dansende for sig. Hun blir til ti Bayaderer . . . til hundrede &#x2013; i de yndigste, lifligste Skikkelser, sv&#x00E6;vende, dansende, b&#x00F8;lgende om ham i en Afvexling, som kun en indisk Fantasi kan skabe; &#x2013; en Dekoration af Palmer &#x2013; blaa Luft &#x2013; herlige, duftige Landskaber med S&#x00F8;er i Perspectiv henover &#x2013; Byer med Kupler og Taarne i Fjernet! &#x2013; Han vaagner. Hustruen tr&#x00E6;kker Vand op af Br&#x00F8;nden, hun maler hans Ris; &#x2013; hun aner ikke, hvad hun er for ham &#x2013; at hun udfylder hans Tilv&#x00E6;relse til den Grad, at hun bogstavelig er bleven hans Gud; thi det er hende, bare hende, han ser, naar han er Brahm.</p>
+
+ <stage>(:Han har under Foredraget rejst sig og siger med en Mine, som om han begejstret stirrer ind i Forts&#x00E6;ttelsen:)</stage>
+
+    <p>Ja, &#x2013; saalangt er det kommet! . . .</p>
+ </sp>
+
+ <sp who="Busk">
+   <speaker>BUSK</speaker>
+
+ <stage>(:forts&#x00E6;tter i en affekterende Tone:)</stage>
+
+    <p>En Dag overrasker hun ham, idet han tager Opiumen op af<pb n="60"/> sin Gulddaase . . . Hun blir rasende. &#x2013; Han ser det, &#x2013; og Raseriet kommer ind i hans Dr&#x00F8;m . . . Konen mangfoldiggj&#x00F8;res til Furier omkring ham &#x2013; sande Hevngudinder, som svinge Sv&#x00F8;berne over den gamle Libertiner! . . . En Udgang af virkelig rystende Virkning &#x2013; hvad?</p>
+ </sp>
+
+ <sp who="Schnelle">
+   <speaker>SCHNELLE</speaker>
+
+ <stage>(:hidsigt:)</stage>
+
+    <p>Jeg skal sige Dem noget, Busk! . . . De er egentlig et grundprosaisk Menneske . . . De lever af at s&#x00E6;tte Fingrene ind i andre Folks Illusioner!</p>
+ </sp>
+
+ <sp who="Busk">
+   <speaker>BUSK</speaker>
+
+    <p>Nu, nu &#x2013; jeg vilde blot engang hj&#x00E6;lpe Dem til sidste Akt. . . . I Deres Sted vilde jeg heller takket end saadan brudt Linjen som en ubehjelpelig indisk Elefant! . . . Forresten, unge Mand, maa jeg sige . . . De imponerer mig virkelig.</p>
+ </sp>
+
+ <sp who="Schnelle">
+   <speaker>SCHNELLE</speaker>
+
+ <stage>(:smigret:)</stage>
+
+    <p>Lad mig bede Dem om Undskyldning . . . jeg var lidt . . . De siger, der var Noget, som vandt Deres Bifald?</p>
+ </sp>
+
+ <sp who="Busk">
+   <speaker>BUSK</speaker>
+
+    <p>Jeg siger, De er en m&#x00E6;rkelig Fremtoning . . . en sand Blomst af vort realistiske Aarhundrede, min unge Ven! Der gaar De hen og slaar V&#x00E6;ggen ind til en hel poetisk Opiums og Hadschi Fremtid i Vor Litteratur! Jeg er desv&#x00E6;rre saa gammel, at jeg kan blive r&#x00F8;d &#x2013; gid jeg var ung!</p>
+ </sp>
+
+ <sp who="Hysing">
+   <speaker>HYSING</speaker>
+
+ <stage>(:opfarende:)</stage>
+
+    <p>Dette er Insinuationer!</p>
+
+ <stage>(:tager sig igjen:)</stage>
+
+    <p>Det vil da sige, grundet i Misforstaaelse . . . Dit Blik paa den nye Tids F&#x00E6;nomener ligger virkelig paa mange og v&#x00E6;sentlige Punkter tilbage i det Overleverede, Busk . . . Man aff&#x00E6;rdiger det ikke l&#x00E6;nger saadan med en Witz! Idyllens Tid er forbi!</p>
+ </sp>
+
+ <stage>(:Hjort kommer ind fra Caff&#x00E9;en med Hat og Stok, som han s&#x00E6;tter fra
+                     sig under de f&#x00F8;lgende Replikker:)</stage>
+
+<pb n="61"/>
+
+ <sp who="Busk">
+   <speaker>BUSK</speaker>
+
+ <stage>(:idet Hjort kommer:)</stage>
+
+    <p>Prrr . . . der kommer jo selve Idyllen! . . .</p>
+ </sp>
+
+ <sp who="Bomhof">
+   <speaker>BOMHOF</speaker>
+
+    <p>&#x00C6;gteskabsidyllen! . . .</p>
+ </sp>
+
+ <sp who="Theodius Bjerk">
+   <speaker>THEODIUS BJERK</speaker>
+
+    <p>Hjort!</p>
+ </sp>
+
+ <sp who="Carsten Bomhof">
+   <speaker>CARSTEN BOMHOF</speaker>
+
+ <stage>(:raaber ham im&#x00F8;de:)</stage>
+
+    <p>&#x2013; Vi snakkede just om, at Idyllens Tid er forbi! &#x2013;</p>
+ </sp>
+
+ <sp who="Bjerk">
+   <speaker>BJERK</speaker>
+
+    <p>&#x00C6;gteskabsidyllen vil saa gjerne strande paa Pengene; &#x2013; var de ikke ivejen, saa . . .</p>
+ </sp>
+
+ <sp who="Bomhof">
+   <speaker>BOMHOF</speaker>
+
+    <p>&#x2013; var vi i Indien og aad Opium og Hadschi, mener Du?</p>
+ </sp>
+
+ <sp who="Bjerk">
+   <speaker>BJERK</speaker>
+
+    <p>Aa ja, man kan hj&#x00E6;lpe sig en Stund, naar man er saa heldig at v&#x00E6;re en Bramin, hvis Kone gaar ud at tr&#x00E6;kke Vand op af Br&#x00F8;nden for En!</p>
+ </sp>
+
+ <sp who="Hjort">
+   <speaker>HJORT</speaker>
+
+ <stage>(:ser sig om iblandt dem:)</stage>
+
+    <p>Tillad, &#x2013; jeg forstaar ikke et Muk! . . . en Kone, som tr&#x00E6;kker Vand op af Br&#x00F8;nden?</p>
+ </sp>
+
+ <sp who="Bjerk">
+   <speaker>BJERK</speaker>
+
+ <stage>(:ubesindig ivrig:)</stage>
+
+    <p>Ja, og om Braminen &#x2013; Du est Braminen!</p>
+ </sp>
+
+ <sp who="Hjort">
+   <speaker>HJORT</speaker>
+
+ <stage>(:fremdeles uden at forstaa:)</stage>
+
+    <p>Fordi jeg er gift, mener Du?</p>
+ </sp>
+
+<pb n="62"/>
+
+ <sp who="Schnelle">
+   <speaker>SCHNELLE</speaker>
+
+    <p>Og nu vil han spise Hadschi iaften med os her i Klubben, . . . et Opiat bagt af &#x00C6;sthetik og Punsch!</p>
+ </sp>
+
+ <sp who="Busk">
+   <speaker>BUSK</speaker>
+
+ <stage>(:der har staaet &#x00E6;rgerlig og forlegen:)</stage>
+
+    <p>Punsch, siger I &#x2013; det var det f&#x00F8;rste forstandige Ord, jeg har h&#x00F8;rt i alt dette! H&#x00F8;r, I Herrer! . . . Bomhof gaar ud og rekvirerer en Bolle extra Punsch!</p>
+ </sp>
+
+ <sp who="Hjort">
+   <speaker>HJORT</speaker>
+
+ <stage>(:afsides, idet han ser sig om lidt uvist:)</stage>
+
+    <p>Her var Noget i Luften om mig!</p>
+ </sp>
+
+ <sp who="Hysing">
+   <speaker>HYSING</speaker>
+
+    <p>Velkommen Hjort! &#x2013; Nu, Du er bleven en sjelden Fugl heroppe! En forv&#x00E6;nner sig mellem de lune, private V&#x00E6;gge . . . forsn&#x00E6;vres i Kakkelovnshygge og &#x00E6;gteskabelig Egoisme; &#x2013; man taber paa Sindets H&#x00E6;rdning, &#x2013; &#x2013; der stryger en kold Vind oppe paa Tankens H&#x00F8;jder!</p>
+ </sp>
+
+ <sp who="Busk">
+   <speaker>BUSK</speaker>
+
+    <p>Det vil sige udlagt: Vi ere nogle Koldblodige Hunde heroppe paa Observatoriet, sparer Ingen, &#x2013; uden os selv da, forstaar sig.</p>
+ </sp>
+
+ <stage>(:Opvarteren kommer ind med Punchebr&#x00E6;ttet, som han s&#x00E6;tter paa Bordet
+                     foran Sofaen ved Sidev&#x00E6;ggen, hvorpaa han b&#x00E6;rer Busks Aftensanretning ud:)</stage>
+
+ <sp who="Hysing">
+   <speaker>HYSING</speaker>
+
+    <p>Nu en liden Tale, Schnelle!</p>
+ </sp>
+
+ <sp who="Busk">
+   <speaker>BUSK</speaker>
+
+    <p>&#x2013; men snelt, &#x2013; vi tr&#x00E6;nge nogle smukke Ord!</p>
+ </sp>
+
+ <sp who="Schnelle">
+   <speaker>SCHNELLE</speaker>
+
+    <p>Jeg vil kun l&#x00F8;fte op et eneste; men det er en Diamant . . . en sand Kohinur iblandt Ordenes H&#x00E6;r: &#x00AB;Velkommen!&#x00BB;</p>
+ </sp>
+
+<pb n="63"/>
+
+ <sp who="Hjort">
+   <speaker>HJORT</speaker>
+
+ <stage>(:idet han og de Andre drikke:)</stage>
+
+    <p>Min kj&#x00E6;re Schnelle, &#x2013; jeg vil sandelig helst tro, at Diamanten er &#x00E6;gte, &#x2013; der leveres saameget smukt af Glas i vor Tid, v&#x00E9;d Du!</p>
+ </sp>
+
+ <sp who="Hysing">
+   <speaker>HYSING</speaker>
+
+ <stage>(:endnu med Glasset i Haanden, til Hjort:)</stage>
+
+    <p>Jeg vil kalde Dig Ligev&#x00E6;gtens usynlige Princip heroppe i Klubben, &#x2013; det elskv&#x00E6;rdige, gode Hum&#x00F8;r; &#x2013; Busk og jeg fik ellers intet Element at operere i . . .</p>
+ </sp>
+
+ <sp who="Hjort">
+   <speaker>HJORT</speaker>
+
+ <stage>(:ironisk:)</stage>
+
+    <p>Takker for Complementen, &#x2013; vi Andre er bare det Vand, hvori I To skal producere Jeres Sv&#x00F8;mmekunster!</p>
+ </sp>
+
+ <sp who="Busk">
+   <speaker>BUSK</speaker>
+
+    <p>Jeg forsikkrer Dig, Hjort, &#x2013; jeg tages bare med for Selskabs Skyld. &#x2013; &#x2013; For en Hvalfisk af Hysings St&#x00F8;relse er Klubben kun et lidet Akvarium; &#x2013; han blev ikke forn&#x00F8;jet, om han saa fik det hele Land til at bade sin Storhed i; jeg ser Dig alt pladske, Hysing!</p>
+ </sp>
+
+ <sp who="Hysing">
+   <speaker>HYSING</speaker>
+
+    <p>Og skal en Mand, som har en fuld og hel Personlighed, da ikke have Lov til at existere? Er det ikke det hele Samfunds Ret, at hans Vej ikke st&#x00E6;nges? Jeg siger det engang for Alle, &#x2013; jeg lader mig ikke binde af disse smaasnerpede borgerlige Penheds&#x2013;Hensyn. Den store Viljes M&#x00E6;rke er, at den t&#x00F8;r slaa &#x00C6;ggene itu, naar det gj&#x00E6;lder om Omeletten. &#x2013; Historien viser det altid.</p>
+ </sp>
+
+ <sp who="Hjort">
+   <speaker>HJORT</speaker>
+
+ <stage>(:afsides:)</stage>
+
+    <p>Hm, Omeletten, &#x2013; det er nok dennegang Tidsskriftet . . .</p>
+
+ <stage>(:h&#x00F8;jt:)</stage>
+
+    <p>Jeg skal skrive mig det bag &#x00D8;ret, Hysing!</p>
+ </sp>
+
+ <sp who="Hysing">
+   <speaker>HYSING</speaker>
+
+ <stage>(:med V&#x00E6;gt:)</stage>
+
+    <p>Ja, jeg &#x00F8;nsker virkelig mindst af Alt at misforstaaes.</p>
+ </sp>
+
+<pb n="64"/>
+
+ <sp who="Schnelle">
+   <speaker>SCHNELLE</speaker>
+
+    <p>Der er noget af Michel Angelos V&#x00E6;lde i dette! Hvad siger I, om vi drikke en Skaal for Manden med den ideale Landse, &#x2013; for Hysing!</p>
+ </sp>
+
+ <stage>(:Medens de drikke og snakke, tager Carsten Bomhof Hjort, der ser lidt
+                     forstemt ud, tilside:)</stage>
+
+ <sp who="Bomhof">
+   <speaker>BOMHOF</speaker>
+
+    <p>Du Hjort! Jeg vilde gjerne v&#x00E6;ret oppe hos Dig idag eller rettere oppe hos din Hustru; men saa vidste jeg, der stod Andet paa. Den Familje, jeg bor hos, har et Par Smaapiger, som skal hakke Piano &#x2013; og saa t&#x00E6;nkte jeg paa, at din Kone jo &#x2013; &#x2013;</p>
+ </sp>
+
+ <sp who="Hjort">
+   <speaker>HJORT</speaker>
+
+ <stage>(:stolt og forn&#x00E6;rmet:)</stage>
+
+    <p>Min Kone hakker ikke paa Piano!</p>
+ </sp>
+
+ <sp who="Bomhof">
+   <speaker>BOMHOF</speaker>
+
+    <p>Nej, men hun vil jo have Elever &#x2013; og, som Sprichwortet siger, Penge . . .</p>
+ </sp>
+
+ <sp who="Hjort">
+   <speaker>HJORT</speaker>
+
+ <stage>(:fatter sig igjen:)</stage>
+
+    <p>Du tager Fejl, Bomhof, &#x2013; min Hustru &#x00F8;nsker slet ikke flere Elever end de, hun har &#x2013; &#x2013; og dem vil hun opsige igjen, saasnart det kjeder
+                     hende.</p>
+ </sp>
+
+ <sp who="Bomhof">
+   <speaker>BOMHOF</speaker>
+
+    <p>Nu, nu &#x2013; saa saa . . . bare saadan en Id&#x00E9; . . . Ja, undskyld mig Hjort, det var virkelig i den bedste Mening . . .</p>
+ </sp>
+
+ <sp who="Hjort">
+   <speaker>HJORT</speaker>
+
+ <stage>(:kort:)</stage>
+
+    <p>Alt forladt, min Ven! &#x2013;</p>
+
+ <stage>(:Bomhof gaar hen og snakker med Hysing. Hjort ser efter ham og siger derpaa grublende i egne Tanker:)</stage>
+
+    <p>. . . Det om Braminen og Hustruen, som trak Vand op for ham &#x2013; det sigtede altsaa dog til mig! . . . Saa, saa, &#x2013; der gaar virkelig et Lys op for mig. Ja, det kunde virkelig se slig ud. &#x2013;</p>
+    
+ <stage>(:harmfuld:)</stage>
+
+    <p>Det er dog en grundig uforskammet<pb n="65"/> Bagvadskelse! &#x2013; &#x2013; Den har Hysing sat i Scene, det vil jeg give mit Liv paa! &#x2013; Han er sandelig ikke den som er r&#x00E6;d for at slaa &#x00C6;ggene itu. &#x2013; Min vakkre Ven! &#x2013; den Nydelse at &#x00E6;rgre mig skal Du dog gaa glip af!</p>
+ </sp>
+
+ <sp who="Hysing">
+   <speaker>HYSING</speaker>
+
+ <stage>(:talende og gestikulerende ved Bordet:)</stage>
+
+    <p>. . . Aandl&#x00F8;shed! Aandl&#x00F8;shed &#x2013; siger jeg, &#x2013; nede i Folket som paa Samfundets H&#x00F8;jder, i Regjering som i Presse! Men, lad det Nye f&#x00F8;rst faa sit Organ, &#x2013; og det vil henvejres som St&#x00F8;v, &#x2013; drive som gule Blade ved Foden af hver evige Tilstand i Landet! . . . Der vil ikke v&#x00E6;re et Forhold, som ikke vil gaa under i Stormen, som ikke vil vendes op og ned paa . . . fra Grunden af . . .</p>
+ </sp>
+
+ <sp who="Hjort">
+   <speaker>HJORT</speaker>
+
+ <stage>(:henkastet:)</stage>
+
+    <p>Naar hele Verden synes bagvendt, &#x2013; var det dog v&#x00E6;rdt at unders&#x00F8;ge om det ikke tilf&#x00E6;ldigvis skulde v&#x00E6;re En selv, som staar paa Hovedet!</p>
+ </sp>
+
+ <sp who="Schnelle">
+   <speaker>SCHNELLE</speaker>
+
+ <stage>(:ivrigt blandt de Andre ved Bordet:)</stage>
+
+    <p>Det er klart, Hysing! Et saadant Tidsskrift, som nogle aandl&#x00F8;se Forl&#x00E6;ggere makke sammen, er Intet for Dig . . . Du oppretter et selv! Busk leder Feulletonen, jeg skriver Digtene, Hjort de ugentlige Nyheds og Kunstartikler, og Du leder Aanden, retter Landsen med Assistance av Bjerk . . . og saa se vi hverken tilh&#x00F8;jre eller tilvenstre, men gaa paa!</p>
+ </sp>
+
+ <sp who="Hjort">
+   <speaker>HJORT</speaker>
+
+ <stage>(:opbragt til Busk, som har sat sig hen til ham lidt fra de &#x00D8;vrige:)</stage>
+
+    <p>Jeg skal ialfald faa Lov til at gaa min egen Gang! Om Tidsskriftet har jeg idag meldt Forl&#x00E6;ggerne, at jeg ikke lader mig binde hverken til Hysing eller til Dig; &#x2013; de har at v&#x00E6;lge!</p>
+ </sp>
+
+<pb n="66"/>
+
+ <sp who="Busk">
+   <speaker>BUSK</speaker>
+
+    <p>Bland nu bare ikke mig ind i dette! Jeg er Diogenes, ser Du, &#x2013; forn&#x00F8;jet med min lille Plads i Borgeren. Og, &#x2013; lad mig sige Dig det Hjort! &#x2013; jeg ror mig ikke ud hverken med Hysing eller med Dig . . . Det har aldrig faldt mig ind engang . . . der har heller Ingen spurgt mig.</p>
+ </sp>
+
+ <sp who="Hjort">
+   <speaker>HJORT</speaker>
+
+    <p>Ja, da har man virkelig forudsat . . .</p>
+ </sp>
+
+ <sp who="Busk">
+   <speaker>BUSK</speaker>
+
+ <stage>(:rydt afbindende:)</stage>
+
+    <p>. . . fejl, &#x2013; fordi de v&#x00E9;d, jeg er en fattig Mand. Jeg har en Levning af gammel praktisk sund Sands igjen og indskiber mig ikke paa et Fart&#x00F8;j, som jeg tror vil gaa tilbunds.</p>
+
+ <stage>(:Med et Skuldertr&#x00E6;k:)</stage>
+
+    <p>Som en midlertidig N&#x00F8;dspost for Dig &#x2013; ja, saa kan der jo v&#x00E6;re Mening i det, . . . Du er gift og maa have Penge!</p>
+ </sp>
+
+ <sp who="Hjort">
+   <speaker>HJORT</speaker>
+
+    <p>Det vil sige: Du er saa artig at mene, at jeg egentlig kun burde bruge Pennen som Bibeskj&#x00E6;ftigelse! &#x2013;</p>
+ </sp>
+
+ <sp who="Busk">
+   <speaker>BUSK</speaker>
+
+ <stage>(:kort:)</stage>
+
+    <p>&#x2013; om Du har Raad dertil, &#x2013; ja! &#x2013; &#x2013; &#x2013; Men ikke mere om det!</p>
+    
+ <stage>(:afsides:)</stage>
+
+    <p>Jeg mister naturligvis en god Ven, fordi jeg er saa dum at tale lige ud!</p>
+ </sp>
+
+ <sp who="Hjort">
+   <speaker>HJORT</speaker>
+
+ <stage>(:spydigt:)</stage>
+
+    <p>Dine Briller synes med Et av have faaet noget af en Form&#x00F8;rkelse i sig; &#x2013; &#x2013; min litter&#x00E6;re Person er pludselig bleven Dig aldeles uopdagelig!</p>
+ </sp>
+
+ <sp who="Busk">
+   <speaker>BUSK</speaker>
+
+ <stage>(:idet han gaar henimod Bordet hvor de Andre sidde:)</stage>
+
+    <p>Jeg er din f&#x00F8;rste L&#x00E6;ser, ved Du . . . har altid v&#x00E6;ret det . . . Du er altid brillant!</p>
+
+ <stage>(:Idet han tager et Glas fra Bordet og peger hen paa Hysing, der har sat sig saadan, at han kan spejle sig:)</stage>
+    
+    <p>Oho! . . . I gode Herrer! Jeg ser Hysing sidde som en<pb n="67"/> ensom &#x00D8;rn paa en Fjeldtind, spejlende sin Storhed i det lille blaa Luftspejl der,</p>
+
+ <stage>(:Hysing vender sig med en Mine af Ligegyldighed fra Spejlet:)</stage>
+
+    <p>. . . og Schnelle som en Morgenl&#x00E6;rke kvidrende til hans Pris. Hvad siger Du, &#x00D8;rn! om Du et &#x00D8;jeblik h&#x00E6;vede Dig udover Dig Selv, og Du, lille L&#x00E6;rke!</p>
+
+ <stage>(:Schnelle gj&#x00F8;r en &#x00E6;rgerlig Bev&#x00E6;gelse:)</stage>
+
+    <p>. . . om Du et &#x00D8;jeblik begav din Sang, &#x2013; og I Alle, om vi her drak et Glas for Klubbens Lys, &#x2013; at det maa br&#x00E6;nde uform&#x00F8;rket . . . med stedse tiltagende Blus!</p>
+ </sp>
+
+ <sp who="Hysing">
+   <speaker>HYSING</speaker>
+
+ <stage>(:bukker sig til alle Sider med Glasset:)</stage>
+
+    <p>Takker virkelig . . . takker!</p>
+ </sp>
+
+ <sp who="Busk">
+   <speaker>BUSK</speaker>
+
+ <stage>(:forbauset, seende paa ham:)</stage>
+
+    <p>Hvad beha . . . Klubbens Lys? Oho! . . . det tog han til sig den uforbederlig graadige . . . Nej, &#x2013; det var nok selve Klubben, jeg mente . . . Skaal!</p>
+ </sp>
+
+<stage>(:Alle le og drikke. Hysing flau:)</stage>
+
+ <sp who="Schnelle">
+   <speaker>SCHNELLE</speaker>
+
+    <p>Klubbens Lys! &#x2013; Det Ord indeholder for mig en Inspiration. Jeg t&#x00E6;nker mig Klubben som et Lysreservoir, &#x2013; et Galleri af Byens skj&#x00F8;nneste Kvinder, &#x2013; med Blomster i Haaret og ildfulde &#x00D8;jne . . . l&#x00E6;nende sig aandel&#x00F8;se udover Balkonerne, medens vi her paa Arenaen lade Kaarderne lyne i Tidens store opgaaende Tanker!</p>
+ </sp>
+
+ <sp who="Hysing">
+   <speaker>HYSING</speaker>
+
+    <p>Og man t&#x00F8;r sige, at han ikke er Digter!</p>
+ </sp>
+
+ <sp who="Busk">
+   <speaker>BUSK</speaker>
+
+    <p>Jeg siger, at han er en Pascha i Poesien! . . . Bare i dette korte, riml&#x00F8;se Digt fandtes der flere Tusinder svulmende Skj&#x00F8;nheder &#x2013; Alle med &#x00D8;jne lynende af Beundring for Poeten.</p>
+ </sp>
+
+<pb n="68"/>
+
+ <sp who="Hysing">
+   <speaker>HYSING</speaker>
+
+    <p>Forresten savner jeg Et hos Dig, Schnelle, &#x2013; det er, s&#x00F8;rgelig nok, et Storhedsm&#x00E6;rke! Det er M&#x00E6;nd den st&#x00E6;rke Aand helst vil fravriste Beundring! Det er med deres stille Had og Misundelse han maaler sin Storhed. En Mands Betydning i Tiden staar akurat i H&#x00F8;jde med hans Evne til at forarge!</p>
+
+ <stage>(: Med v&#x00E6;gt:)</stage>
+
+    <p>Naar min Tid kommer, &#x2013; og den kommer . . . v&#x00E6;r rolig! &#x2013; vil jeg levere et Poem, som engang for Alle skal blive Typen for Forargelsens Poesi!</p>
+ </sp>
+
+ <sp who="Bjerk">
+   <speaker>BJERK</speaker>
+
+    <p>Ja, sig det kun lige ud, &#x2013; Poesien <hi rend="italic">skal</hi> forarge. Det Samme gj&#x00E6;lder igrunden al litter&#x00E6;r Produktion. Derfor har Hysing ogsaa ganske rigtig begyndt med at forarge, &#x2013; og det Samme har jeg gjort!</p>
+ </sp>
+
+ <sp who="Bomhof">
+   <speaker>BOMHOF</speaker>
+
+ <stage>(:vigtigt:)</stage>
+
+    <p>Jeg vilde netop sige, . . . det er det, min Bog er lagt an paa &#x2013; tvertigjennem.</p>
+ </sp>
+
+ <sp who="Busk">
+   <speaker>BUSK</speaker>
+
+    <p>Det maa da v&#x00E6;re ved en forargelig M&#x00E6;ngde Citater!</p>
+ </sp>
+
+ <sp who="Bjerk">
+   <speaker>BJERK</speaker>
+
+    <p>Ja, naar Tidsskriftet kommer ud, skal man faa smage Sager!</p>
+ </sp>
+
+ <sp who="Hjort">
+   <speaker>HJORT</speaker>
+
+    <p>Brr..r . . . hvori Du grundig vil forarge Landet, Bjerk!</p>
+ </sp>
+
+ <sp who="Hysing">
+   <speaker>HYSING</speaker>
+
+    <p>Det er nu engang saa Hjort! . . . Du har ingen Trang til Konflikten! &#x2013; Det er din Natur &#x2013; Enhver betydelig Personlighed f&#x00F8;ler sig som en utilhuggen Statue, som Verden skal mejsle gjennem Hug og Slag, . . . Du vil <hi rend="italic">glide</hi> gjennem Verden . . . gj&#x00F8;re Lykke . . . et Tidsskrift med en god Svigerfar bagom . . .</p>
+ </sp>
+
+ <sp who="Hjort">
+   <speaker>HJORT</speaker>
+
+ <stage>(:tager sin Hat:)</stage>
+
+    <p>Naa saa! &#x2013; jeg forstaar . . . Tidsskriftet er nok den Udkant,<pb n="69"/> Du vil mejsle af mig! Til den Sag er afgjort, gj&#x00F8;r vi To rettest i at holde os fra hinanden</p>
+
+ <stage>(:griber et Glas:)</stage>
+
+    <p>Jeg tillader mig at drikke Klubbens Skaal og for godt Kammeratskab! &#x2013; men for Klubbens Lys s&#x00E6;rskildt</p>
+
+ <stage>(:han ser paa Hysing:)</stage>
+
+    <p>er jeg da just ikke oplagt til at gj&#x00F8;re det netop iaften; &#x2013; jeg haaber, Du undskylder Hysing!</p>
+ </sp>
+
+<stage>(:De drikke og le:)</stage>
+
+ <sp who="Hjort">
+   <speaker>HJORT</speaker>
+
+    <p>Godnat! &#x2013; &#x2013; &#x2013; Godnat Busk!</p>
+ </sp>
+
+ <sp who="Schnelle">
+   <speaker>SCHNELLE</speaker>
+
+ <stage>(:idet Hjort gaar mod D&#x00F8;ren:)</stage>
+
+    <p>Nej, bi lidt Hjort! &#x2013; jeg har en Id&#x00E9;, som Du maa h&#x00F8;re . . . et Jernbanedrama, . . . egentlig en ganske ny dramatisk Invention . . . ganske ny! . . . Man toger paa Jernbane gjennem en R&#x00E6;kke Akter . . . Handlingen flyver forbi En som Telegrafstolper, . . . der hver Gang udsende elektriske Glimt til Tilskuerne . . .</p>
+
+ <stage>(:med Pathos:)</stage>
+
+    <p>. . . Og det Hele ender i et m&#x00E6;gtigt Uheld! . . . en Flod dybt nedenunder . . . Broen brister . . . Og, m&#x00E6;rk nu nok et Point! . . . Efterat T&#x00E6;ppet er gaaet ned h&#x00F8;rer man et hoverende Latterkor af Skurkene, som har oversauget Broen!</p>
+ </sp>
+
+ <sp who="Hjort">
+   <speaker>HJORT</speaker>
+
+ <stage>(:leende:)</stage>
+
+    <p>Det kan beskj&#x00E6;ftige Fantasien paa Hjemveien, mener Du . . . saadan et Slags Efterakt! &#x2013; &#x2013; Vor Tids nye Pegasus! &#x2013; et bevinget Locomotiv, hvad? &#x2013;</p>
+
+ <stage>(:vinkende med Haanden til Schnelle, idet han gaar ud gjennem Caff&#x00E9;en:)</stage>
+    
+    <p>N&#x00E6;ste Gang, n&#x00E6;ste Gang, kj&#x00E6;re Schnelle! &#x2013;</p>
+ </sp>
+
+ <sp who="Bomhof">
+   <speaker>BOMHOF</speaker>
+
+ <stage>(:efter ham:)</stage>
+
+    <p>Pi . . .ih, &#x2013; din Spidsborger! &#x2013; som om vi ikke lugtede Lunten, &#x2013; han maa v&#x00E6;re hjemme Klokken elleve!</p>
+ </sp>
+
+ <sp who="Schnelle">
+   <speaker>SCHNELLE</speaker>
+
+ <stage>(:med Glasset i Haanden:)</stage>
+
+    <p>Vider, . . . i dette h&#x00F8;jtidelige &#x00D8;jeblik tr&#x00E6;kkes der hundrede<pb n="70"/> tusind Nathuer nedover &#x00D8;rene i vort skikkelige Land! . . . Leve Nathuerne! &#x2013;</p>
+ </sp>
+
+ <sp who="Hysing">
+   <speaker>HYSING</speaker>
+
+ <stage>(:truende pathetisk:)</stage>
+
+    <p>&#x2013; til vi komme med Stormen, der skal drive dem af Ho&#x2019; &#x2013; derne som et Snevejr! <stage>(:De klinke og tiljuble ham Bifald:)</stage></p>
+
+ </sp>
+     <stage>(:T&#x00E6;ppet falder:)</stage>
+     
+<pb n="71"/>
+
+ </div>
+               
+ <div type="act" n="1">
+
+<stage>(:Hjorts Stue:)</stage>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+ <stage>(:kommer ind fra en Sided&#x00F8;r:)</stage>
+
+    <p>Det er en frygtelig Tid at holde ud, &#x2013; jeg har en F&#x00F8;lelse, som jeg kunde faa T&#x00E6;ring af det! &#x2013; At maatte staa og lyve for sin egen Tjenestepige! . . . Hun fik de sidste Penge, jeg ejede, da hun nu gik ud i Byen. Og nu dette om Huslejen . . . som Henrik mente endnu kunde uds&#x00E6;ttes &#x2013; &#x2013; Men der kan ikke ventes l&#x00E6;nger, skrev Verten igaar; &#x2013; det er to Kvartaler nu til Nytaar . . . hundrede Specier! &#x2013; &#x2013; &#x2013; Jeg vil da haabe, at Fredrik har faaet mit Brev? . . . Jeg bad ham komme hidop idag Klokken elleve, medens Henrik er paa Bibliotheket. &#x2013; &#x2013; O, hvor det dog er ulideligt at vente paa denne Afgj&#x00F8;relse om Tidsskriftet! Det har skudt sig hen Tid efter anden; men Henrik siger nu, det maa ske en af Dagene, da det skal v&#x00E6;re afgjort f&#x00F8;r Jul. &#x2013; &#x2013; Henrik er i Opr&#x00F8;r, Stakkel! . . . Han er saa pirrelig; &#x2013; &#x2013; men han haaber jo saa vist paa at faa Posten &#x2013;</p>
+
+ <stage>(:Grublende:)</stage>
+
+    <p>&#x2013; Og var jeg saa enda vis paa, at han . . . Det er, som Alt knuger! &#x2013; &#x2013; &#x2013; &#x2013; Ja, maatte vi faa en gl&#x00E6;delig Jul! Jeg byder bare . . . at kunne sidde der tryg og velhavende og s&#x00E9; tilbage paa al denne Strid! &#x2013; &#x2013;</p>
+
+ <stage>(:ser sig om og sukker:)</stage>
+
+    <p>Her er sandelig et belejret Hus! . . .</p>
+    
+ <stage>(:Det ringer paa, &#x2013; hun farer sammen:)</stage>
+
+    <p>Jeg blir saa angst, hvergang det ringer! . . . Jeg er n&#x00E6;sten lige saa bange for, at det skal v&#x00E6;re nogen af Henriks Venner, som at det skal v&#x00E6;re en Regning. &#x2013; Jeg maa da lukke op.</p>
+
+ <stage>(:Hun gaar ud:)</stage>
+ </sp>
+
+ <stage>(:Tante Magda kommer ind med hende og l&#x00E6;gger hastigt Hat og Kaabe af:)</stage>
+
+<pb n="72"/>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+ <stage>(:afsides:)</stage>
+
+    <p>Hvad skal jeg gj&#x00F8;re? &#x2013; hun kommer jo saa rent ubelejligt!</p>
+ </sp>
+
+ <sp who="Tante Magda">
+   <speaker>TANTE MAGDA</speaker>
+
+    <p>Jeg har saa l&#x00E6;nge t&#x00E6;nkt paa at gaa op og hygge mig hos Dig en Formiddag, og</p>
+
+ <stage>(:hemmelighedsfuldt:)</stage>
+
+    <p>nu er det Julegaverne, s&#x00E9;r Du, som Ingen t&#x00F8;r s&#x00E9; hjemme hos din Broder! &#x2013; Ja, jeg kan vel s&#x00E6;tte mig her ved Bordet.</p>
+
+ <stage>(:S&#x00E6;tter sig:)</stage>
+
+    <p>&#x2013; &#x2013; &#x2013; S&#x00E9;r Du dette, &#x2013; det skal blive et Skj&#x00E6;rf til Fredrik, naar han og Theodora reise hjem til Julen. Jeg maa nytte Formiddagen . . . Du spiser jo f&#x00F8;rst Klokken tre.</p>
+
+ <stage>(:Hun begynder at strikke ivrigt:)</stage>
+    
+    <p>&#x2013; &#x2013; Og I har det Godt, Anna! &#x2013; deiligt som s&#x00E6;dvanlig?</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Tak, Tante! &#x2013; vi har det paa vor Viis.</p>
+ </sp>
+
+ <sp who="Tante Magda">
+   <speaker>TANTE MAGDA</speaker>
+
+    <p>Ja, naar jeg ser mig om paa alle disse Kunstsager og paa Dig, som Du gaar her og sysler mellem Alt dette, saa er det virkelig hvergang, som jeg kommer op i en anden Luft! Hos Fredriks har de det jo saa elskv&#x00E6;rdigt i alle Henseender, &#x2013; En skal igrunden lede efter Mage til Hus. Men saa er det det store Husstel, som optager Theodora, og saa har han selv aldrig Tid uden om Aftenen. Og saa B&#x00F8;rnene, som skal passes! . . . Jeg forsikrer Dig, det er ikke muligt at faa arbejde i Fred for dem paa nogen Ting til Julen, &#x2013; de skal op i Alt! Naar jeg slig kommer op til Dig, er det, som jeg er sluppet ud af et larmende, travlt Maskineri.</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Saa, Du synes det, Tante! Fredrik f&#x00F8;lger dog med paa det Meste i vort offentlige Liv. Og et Hus som hans, hvor man kan afs&#x00E9; sin Aften til allehaande L&#x00E6;sning; . . . der er noget sundt &#x2013; jeg kunde sige &#x2013; inderlig skj&#x00F8;nt ved det.</p>
+ </sp>
+
+ <sp who="Tante Magda">
+   <speaker>TANTE MAGDA</speaker>
+
+    <p>Aa ja, &#x2013; man f&#x00F8;lger kanske med lidt mere end ellers omkring i Husene. Kunst og Poesi og saadant er jo overalt kun en Bisag; heroppe er det en Hovedsag &#x2013; I leve bare for det<pb n="73"/> og intet Andet. Det er Forskjellen, s&#x00E9;r Du, . . . og det gi&#x2019;r saadan en egen F&#x00F8;lelse. At komme ind ad D&#x00F8;ren her er som at komme ind i et lidet idyllisk Digt.</p>
+
+ <stage>(:N&#x00F8;stet ruller ned paa Gulvet, Anna tager det op til hende og sukker uvilkaarligt:)</stage>
+
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Gid Du havde Ret, Tante!</p>
+ </sp>
+
+ <sp who="Tante Magda">
+   <speaker>TANTE MAGDA</speaker>
+
+    <p>&#x2013; &#x2013; Og nu hans Omgang . . . Ja, det er vist dygtige M&#x00E6;nd i Byen mange af dem; men en Kreds af saadanne Venner, som I s&#x00E9;r om Jer daglig, &#x2013; det er dog noget Andet!</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+ <stage>(:bittert:)</stage>
+
+    <p>&#x2013; at stole paa, mener du!</p>
+
+ <stage>(:Afsides:)</stage>
+
+    <p>Vi har virkelig faaet s&#x00E9; det i denne Tid!</p>
+ </sp>
+
+ <sp who="Tante Magda">
+   <speaker>TANTE MAGDA</speaker>
+
+    <p>En faar uvilkaarlig en F&#x00F8;lelse &#x2013; ja, han Theodosius Bjerk undtaget, ham fordrager jeg nu engang ikke! &#x2013; som En stod foran Aandens Riddere . . . Alle dagligdags, smaalige Hensyn ligge som et Land langt nedenunder dem.</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+ <stage>(:bittert:)</stage>
+
+    <p>Kan gjerne v&#x00E6;re, Tante! &#x2013; men, naar det kommer til Stykket, turde jeg nok foretr&#x00E6;kke den simple Maade, hvorpaa Fredrik og hans Venner
+                     t&#x00E6;nker.</p>
+ </sp>
+
+ <sp who="Tante Magda">
+   <speaker>TANTE MAGDA</speaker>
+
+ <stage>(:N&#x00F8;stet ruller igjen ned paa Gulvet:)</stage>
+
+    <p>Jeg mener virkelig &#x2013; &#x2013; Du er blevet en Smule prosaisk, Barn! Hvem skulde vel t&#x00E6;nkt sig de Ord af din Mund! &#x2013;</p>
+
+ <stage>(:Det ringer, &#x2013; Anna farer sammen:)</stage>
+
+    <p>Der skal Du s&#x00E9;, vi faar Bes&#x00F8;g af En af dem.</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+ <stage>(:afsides:)</stage>
+
+    <p>Hvad skal jeg nu gj&#x00F8;re? &#x2013;</p>
+
+ <stage>(:Hun faar en Id&#x00E9;. H&#x00F8;jt, idet hun<pb n="74"/> ser ud af D&#x00F8;ren:)</stage>
+
+    <p>Det er Fredrik, tror jeg, som staar foran Entr&#x00E9;en.</p>
+ </sp>
+
+ <sp who="Tante Magda">
+   <speaker>TANTE MAGDA</speaker>
+
+ <stage>(:forskr&#x00E6;kket:)</stage>
+
+    <p>Fredrik? &#x2013; er Du gal! Han maa ikke s&#x00E9;! &#x2013; Hvor skal jeg? . . .</p>
+    
+ <stage>(:Hun samler sine Sager op og tumler om efter N&#x00F8;sterne:)</stage>
+
+    <p>. . . men det er jo rent ud at overfalde Folk! &#x2013;</p>
+
+ <stage>(:hvisker:)</stage>
+
+    <p>Jeg gaar ind i Sidev&#x00E6;relset! . . . s&#x00E6;tter mig der med Arbeidet . . . Ikke et Ord om, at jeg er her, ellers forstaar han det! &#x2013;</p>
+
+ <stage>(:I den aabnede D&#x00F8;r:)</stage>
+
+    <p>Jeg laaser D&#x00F8;ren!</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+ <stage>(:gaar Fredrik, som tr&#x00E6;der ind, im&#x00F8;de:)</stage>
+
+    <p>Jeg skrev til Dig, Fredrik!</p>
+ </sp>
+
+ <sp who="Frederik">
+   <speaker>FREDRIK</speaker>
+
+    <p>Staar her Noget paa? Er det Noget, jeg kan gj&#x00F8;re?</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Ser Du, Fredrik! &#x2013;</p>
+
+ <stage>(:med Overvindelse:)</stage>
+
+    <p>Ja, her staar Noget paa &#x2013; Henrik maa ikke vide af det. Jeg vil bede Dig laane mig hundrede Daler; det er Huslejen, som ikke kan ventes med. Det gj&#x00E6;lder blot paa nogle Dage . . . til nu, Afgj&#x00F8;relsen falder om Redakt&#x00F8;rposten; &#x2013; ellers havde jeg ikke faldt paa at bede Dig; men da har Du dem tilbage . . . Jeg mente, . . . det n&#x00E6;sten ikke skulde v&#x00E6;re noget
+                     Laan.</p>
+ </sp>
+
+ <sp who="Frederik">
+   <speaker>FREDRIK</speaker>
+
+    <p>Det beh&#x00F8;ver det da heller ikke at blive. Theodora og jeg har netop t&#x00E6;nkt paa at for&#x00E6;re Dig en Julepr&#x00E6;sent . . . et Pianoforte til Jul istedetfor det, Du har lejet. Du skal selv v&#x00E6;lge det ud. De Penge faar Du idag, saa kan Du jo laane af Dig selv &#x2013;</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+ <stage>(:stolt:)</stage>
+
+    <p>Du er saa delikat paa Stedet at klare mine Forlegenheder ved at for&#x00E6;re mig et helt Pianoforte &#x2013; Det vil jeg ikke tage imod! Jeg bad Dig laane mig hundrede Daler, fordi det i denne Tid gj&#x00E6;lder Alt for Henrik; &#x2013; netop nu maa han<pb n="75"/> ikke lammes af Pengeforlegenheder. Jeg kan forresten sige Dig, at Forl&#x00E6;ggerne har erkl&#x00E6;ret Henrik, at de ikke t&#x00E6;nke sig nogen Anden end ham.</p>
+ </sp>
+
+ <sp who="Frederik">
+   <speaker>FREDRIK</speaker>
+
+    <p>Som Du vil have det, &#x2013; Pengene har jeg her</p>
+
+ <stage>(:giver hende dem af sin Lommebog:)</stage>
+
+    <p>Men, Anna! &#x2013; vil Du lade mig sige Dig Noget. Et saadant Tidsskrift er i sig selv en usikker Sag . . . det er egentlig ikke Noget at bygge et Hus paa. &#x2013; Lad gaa! Men nu h&#x00F8;rer jeg, at din Mand har skrevet et brev, som s&#x00E6;tter dem Fluer i Hovedet. Han vil nok have ubetinget Hals og Haand . . . ikke finde sig i Indskr&#x00E6;nkninger. Jeg er en praktisk Mand, og jeg f&#x00F8;ler, det kan komme til at staa paa den Ting; &#x2013; man b&#x00F8;r ikke sp&#x00E6;nde Buen for h&#x00F8;jt. Jeg indr&#x00F8;mmer gjerne, at din Mand skriver gode Artikler &#x2013; saavidt jeg skj&#x00F8;nner da &#x2013;; men nogen egentlig Forfatter . . . af saadan V&#x00E6;gt, at &#x2013;
+ <stage>(:ryster paa Hovedet:)</stage> Jeg mener, han burde tage Tingen, som den nu engang byder sig.</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+ <stage>(:i stigende Opr&#x00F8;r:)</stage>
+
+    <p>Der d&#x00F8;mmer Du, som Du forstaar det . . . Ja, nok om det! . . . Enten agter man Henrik som Manden for den Sag, eller man gj&#x00F8;r det ikke! Nogen Halvhed vil han ikke leve paa i Litteraturen!</p>
+ </sp>
+
+ <sp who="Frederik">
+   <speaker>FREDRIK</speaker>
+
+    <p>Ja, jeg skal ikke v&#x00E6;re den, som forlokker din Mand til at handle imod sin Samvittighed! Jeg &#x00F8;nsker kun, det maa gaa godt &#x2013; &#x2013; og, at I ikke maatte skuffes for haardt, om det &#x2013;</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+ <stage>(:hurtig afbrydende:)</stage>
+
+    <p>Tak! . . . Jeg har jo sagt Dig, kj&#x00E6;re Broder! &#x2013; vi har de bedste Udsigter.</p>
+ </sp>
+
+ <sp who="Frederik">
+   <speaker>FREDRIK</speaker>
+
+    <p>Ja, ja, &#x2013;</p>
+
+ <stage>(:s&#x00E9;r paa sit Ur:)</stage>
+
+    <p>&#x2013; og det var ikke noget Andet? &#x2013; Jeg gik lige fra Forretningen; de vente paa Contoiret.</p>
+ </sp>
+
+<pb n="76"/>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+ <stage>(:beklemt, &#x2013; idet hun f&#x00F8;lger ham til D&#x00F8;ren:)</stage>
+
+    <p>Tak, Fredrik! &#x2013; &#x2013; &#x2013;</p>
+
+ <stage>(:Alene:)</stage>
+
+    <p>&#x2013; Det er, som Brystet sn&#x00F8;res sammen paa mig! &#x2013; de ere saa mistr&#x00F8;stige Alle. &#x2013; &#x2013;</p>
+
+ <stage>(:Hun staar en Stund i Tanker:)</stage>
+
+    <p>Jeg har altid t&#x00E6;nkt, at Tante Magda var saa klog . . .</p>
+
+ <stage>(:ryster paa Hovedet:)</stage>
+
+    <p>. . . Hm, nei! &#x2013; hun har ikke . . .</p>
+
+ <stage>(:gaar hen til Skrivebordet, hvor hun blir staaende:)</stage>
+
+    <p>. . . Der er hans Pen! &#x2013;</p>
+    
+ <stage>(:hun tager den op:)</stage>
+
+    <p>. . . Hvor mangen Gang har han ikke siddet med Tankerne over den til s&#x00E9;nt ud paa Natten . . . og kanske med Sorger, som . . . Jeg v&#x00E9;d ikke hvorfor; men hans Ansigt staar for mig saa tungsindigt, &#x2013; &#x2013; som om vi igrunden ikke var rigtig lykkelige &#x2013; &#x2013; baade han og jeg. &#x2013; &#x2013; &#x2013; Grublerier, Anna! &#x2013; dem har Du mindst af Alt Brug for nu! &#x2013; Her har jeg jo Huslejen . . . Ja, jeg faar virkelig Mod igjen som en L&#x00F8;ve!</p>
+
+ <stage>(:vender sig mod Sided&#x00F8;ren:)</stage>
+
+    <p>. . . jeg skal gladelig begynde paa med Tante Magda igjen &#x2013; lige til Klokken tre.</p>
+ </sp>
+
+ <stage>(:D&#x00F8;ren gaar op, og Henrik kommer underlig rolig ind:)</stage>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+ <stage>(:i en d&#x00E6;mpet Tone, idet han s&#x00E6;tter sig i Sofaen:)</stage>
+
+    <p>Nu er Sagen om Posten afgjort, Anna!</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+ <stage>(:i aandel&#x00F8;s Sp&#x00E6;nding:)</stage>
+
+    <p>Og det blev &#x2013; &#x2013; &#x2013; ikke Hysing?</p>
+ </sp>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+ <stage>(:langsomt:)</stage>
+
+    <p>Nei, &#x2013; det blev ikke Hysing!</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+ <stage>(:iler hen til ham:)</stage>
+
+    <p>Vi har da seiret, Henrik! &#x2013;</p>
+
+ <stage>(:aander dybt:)</stage>
+    
+    <p>&#x2013; &#x2013; og endelig faaet en Ende paa dette!</p>
+
+ <stage>(:Han ser studsende paa hende:)</stage>
+
+    <p>&#x2013; Ja, Du v&#x00E9;d ikke, hvad jeg har holdt ud, &#x2013; jeg tr&#x00E6;nger rent ud til at gr&#x00E6;de, Henrik!</p>
+ </sp>
+
+<pb n="77"/>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+ <stage>(:i Sindsopr&#x00F8;r:)</stage>
+
+    <p>Men saa h&#x00F8;r, Anna!</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+ <stage>(:falder heftigt ind:)</stage>
+
+    <p>Nei, nei &#x2013; Du v&#x00E9;d ikke, hvad Gl&#x00E6;de vil sige! O, som jeg har lidt!</p>
+    
+ <stage>(:l&#x00E9;r nerv&#x00F8;st:)</stage>
+
+    <p>Jeg havde ikke en Skilling igjen i Huset; det var blevet ligesom sort Altsammen for mig, &#x2013; saa jeg f&#x00F8;lte, der <hi rend="italic">maatte</hi> komme en Slut paa det!</p>
+ </sp>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+ <stage>(:m&#x00F8;rk:)</stage>
+
+    <p>Og med det har Du gaaet og tiet!</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+ <stage>(:ivrigt forts&#x00E6;ttende:)</stage>
+
+    <p>Nu beh&#x00F8;ver jeg altsaa ikke at pine Dig med at informere l&#x00E6;ngere!</p>
+    
+ <stage>(:slaar H&#x00E6;nderne sammen i Jubel:)</stage>
+
+    <p>. . . og Du ikke at tr&#x00E6;lle, som Du har gjort, &#x2013; forstaar Du det!</p>
+ </sp>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+ <stage>(:for sig selv, bittert:)</stage>
+
+    <p>Ja, jeg begynder virkelig at forstaa <hi rend="italic">nu</hi>. . .</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+ <stage>(:tager sin Portemonnaie op:)</stage>
+
+    <p>S&#x00E9;r Du her! Jeg laante netop disse hundredede Daler af Fredrik, fordi V&#x00E6;rten igaar skrev, at Huslejen absolut ikke kan staa hen . . . Og nu! &#x2013; jeg gl&#x00E6;der mig, saa Du ikke kan begribe det, til, at jeg imorgen den Dag kan staa paa hans Contoir og sige ham, at du har faaet Posten &#x2013; &#x2013; Du kan tro, det kostede mig Noget at laane dem af ham!</p>
+ </sp>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+ <stage>(:tungt:)</stage>
+
+    <p>Til det er det kommet!</p>
+ </sp>
+
+<pb n="78"/>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Jeg faar ikke sove inat! &#x2013;</p>
+
+ <stage>(:l&#x00E6;gger sig hen til hans Skulder:)</stage>
+    
+    <p>&#x2013; nej, jeg faar ikke sove inat . . .</p>
+
+ <stage>(:tager hans Haand:)</stage>
+    
+    <p>Kjend bare, hvor Hjertet banker!</p>
+ </sp>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+ <stage>(:kj&#x00E6;mpende med sin Sindsbev&#x00E6;gelse:)</stage>
+
+    <p><hi rend="italic">Saa</hi> var det altsaa, Anna! &#x2013;</p>
+
+ <stage>(:springer fortvivlet op:) (:afsides i en dump Tone:)</stage>
+
+    <p>Jeg anede det jo, &#x2013; disse Stiklerier af mine Venner om Informationerne &#x2013; &#x2013; &#x2013; &#x2013; Og alt dette har hun gaaet og baaret og lidt, &#x2013; &#x2013; medens jeg &#x2013;</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+ <stage>(:rejser sig forundret fra Sofaen:)</stage>
+
+    <p>Hvad gaar der af Dig, Henrik?</p>
+ </sp>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+ <stage>(:s&#x00E9;r paa hende et &#x00D8;jeblik med fortvivlet Mine, gaar derpaa stille hen og stryger hende nedover begge Kinderne:)</stage>
+
+    <p>Du har lidt meget for mig! &#x2013; &#x2013; Jeg vilde give, jeg v&#x00E9;d ikke hvad for ikke at skuffe Dig igjen! &#x2013; &#x2013; for at jeg ikke maatte . . . Du maa s&#x00E6;tte Dig hos mig her, &#x2013; vi maa tale sammen! &#x2013; &#x2013;</p>
+
+ <stage>(:Idet han stryger Haaret, famlende om Panden:)</stage>
+
+    <p>Nej, nej, &#x2013; jeg maa t&#x00E6;nke . . . have frisk Luft! . . .</p>
+
+ <stage>(:griber sin Hat og iler med en rask Beslutning ud af D&#x00F8;ren:)</stage>
+    
+    <p>. . . Vi tales ved, naar jeg kommer igjen!</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+ <stage>(:raaber efter ham:)</stage>
+
+    <p>Men Henrik! &#x2013; Henrik da! &#x2013; <stage>(:Hun s&#x00E9;r sig om. &#x2013; Med sagtere Stemme:)</stage> Blev han forn&#x00E6;rmet? &#x2013; <stage>(:Angerfuldt:)</stage>Hvor kunde jeg ogsaa v&#x00E6;re saa ubet&#x00E6;nksom &#x2013; saa bund egoistisk! . . . at skj&#x00E6;mme ud hele Gl&#x00E6;den paa den Maade! &#x2013; Men det kom saa overraskende, saa uventet lige over mig. Jeg v&#x00E9;d jo knap, hvad jeg har sagt! &#x2013; &#x2013; Gid jeg dog havde tiet med det om Informationerne! &#x2013; Men det V&#x00E6;rste var nok, at jeg havde laant Huslejen af Fredrik! Det er n&#x00E6;sten ikke til at undres paa, at han tog det slig, Stakkel! &#x2013; han har jo kj&#x00E6;mpet for at undgaa det til det Sidste, og saa, &#x2013; saagodtsom i samme Time &#x2013; sk&#x00E9;r det! &#x2013; <stage>(:gaar hen til D&#x00F8;ren og lytter &#x00E6;ngsteligt:)</stage> &#x2013; Han &#x2013; han kommer da igjen?<pb n="79"/> &#x2013; <stage>(:s&#x00E6;tter sig igjen hen paa Sofaen. &#x2013; Efter en Pause:)</stage> Alting kommer bestandig paa en anden Maade, end En t&#x00E6;nker det! Nu er han jo virkelig Redakt&#x00F8;r, &#x2013; &#x2013; og saa skulde jeg faa det paa den Maade . . . saa jeg enda ikke er rigtig fuldt glad. &#x2013; &#x2013; &#x2013; Jo vist er jeg glad jo! &#x2013; vi har jo ikke ventet paa Andet fra l&#x00E6;nge, f&#x00F8;r vi blev gifte. T&#x00E6;nk, naar Fa&#x2019;r faar h&#x00F8;re det! . . . og Fredrik og Theodora, &#x2013; og Tante Magda derinde! <stage>(:vil gaa henimod Sided&#x00F8;ren; men bliver staaende og lytter sp&#x00E6;ndt:)</stage> Der er han! Nej, det ringer paa! &#x2013; &#x2013; &#x2013; det maa v&#x00E6;re en Fremmed.</p>
+     <stage>(:Hun gaar ud og kommer ind igjen fulgt af &#x2013;:)</stage>
+ </sp>
+
+ <sp who="Morten Busk">
+   <speaker>MORTEN BUSK</speaker>
+
+    <p>Ja, ser De, Frue! &#x2013; jeg maatte op til Dem, &#x2013; for jeg holder virkelig for meget af Eder begge To til . . .</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>V&#x00E6;r saa god, &#x2013; sid ned, Hr. Busk! &#x2013; Nu, De har h&#x00F8;rt det?</p>
+ </sp>
+
+ <sp who="Morten Busk">
+   <speaker>MORTEN BUSK</speaker>
+
+    <p>Ja, da &#x2013; for en Time siden . . . Det var jo egentlig Deres Mand, jeg skulde havt fat i. Jeg er uden at rose mig selv den af Deres Mands hele liter&#x00E6;re Omgangskreds, som t&#x00E6;nker mest praktisk. Jeg vilde blot i Anledning af det idag Passerede sige ham, at Hysing ogsaa har t&#x00E6;nkt paa at oprette et Tidsskrift. Dersom Hjort vil gaa med, er jeg som god Kammerat villig til at arrangere Feulletonen, &#x2013; og de andre Kr&#x00E6;fter falde af sig selv. Jeg talte netop for et &#x00D8;jeblik siden med Hysing om det &#x2013; og skyndte mig op til Deres Mand. Mere, end En kan, kan En nu engang ikke gj&#x00F8;re, s&#x00E9;r De . . . Dette idag var jo en stor Skuffelse &#x2013; &#x2013; saa at sige en Velf&#x00E6;rdssag for ham . . .</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Jeg forstaar Dem ikke, Busk!</p>
+
+ <stage>(:S&#x00E9;r tvivlende paa ham:)</stage>
+    
+    <p>Hvad? Hvorledes? Har han da ikke faaet Posten? &#x2013; &#x2013; &#x2013; Er Henrik ikke blevet Redakt&#x00F8;r?</p>
+ </sp>
+
+ <sp who="Morten Busk">
+   <speaker>MORTEN BUSK</speaker>
+
+ <stage>(:Afsides:)</stage>
+
+    <p>Aa, jeg Asen! &#x2013; jeg kom da engang for at tr&#x00F8;ste ogsaa! . . .</p>
+
+<pb n="80"/>
+
+ <stage>(:H&#x00F8;jt, &#x2013; med Forlegenhed:)</stage>
+
+    <p>Jeg v&#x00E9;d ikke, hvad jeg skal sige, Frue! &#x2013; Det var virkelig ikke min Mening at komme hidop med &#x2013; et ubehageligt Budskab; &#x2013; jeg troede, De vidste . . . det strandede paa Deres Mands Betingelser.</p>
+
+ <stage>(: Forceret:)</stage>
+
+    <p>Man har virkelig idag fattet en stor, endelig, Beslutning! &#x2013; &#x2013; bestemt sig for &#x2013; at der Ingenting skal blive af det Hele! &#x2013; Det var af den Grund jeg . . .</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+ <stage>(:sidder en Stund stille; &#x2013; &#x2013; s&#x00E9;r sig forvildet om:)</stage>
+
+    <p>Han har altsaa ikke? &#x2013; &#x2013; &#x2013; Der skal intet Tidsskrift komme ud &#x2013; &#x2013; det var . . . derfor, at han . . . saa paa mig slig, da han gik!</p>
+    
+ <stage>(:Hun springer op:)</stage>
+
+    <p>Jeg maa finde ham!</p>
+
+ <stage>(:gj&#x00F8;r en Bev&#x00E6;gelse, som om hun vil ile ud af D&#x00F8;ren, men vender sig derpaa indtr&#x00E6;ngende b&#x00F8;nlig til Busk:)</stage>
+
+    <p>Jeg v&#x00E9;d, De er en god Mand igrunden, Busk! &#x2013; han maa komme igjen! Lov mig, at De vil finde ham &#x2013; faa fat i ham &#x2013; ikke give Dem, f&#x00F8;r De faar fat i ham til mig! Han er ikke paa Bibliotheket. Bring ham! &#x2013; Bring ham til mig, &#x2013; og jeg skal takke Dem &#x2013; som en Ven!</p>
+ </sp>
+
+ <sp who="Morten Busk">
+   <speaker>MORTEN BUSK</speaker>
+
+ <stage>(:idet han gaar:)</stage>
+
+    <p>Stol paa, at jeg skal gj&#x00F8;re mit Bedste, Frue!</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+ <stage>(:grublende med Haanden for &#x00D8;jnene:)</stage>
+
+    <p>Jeg forstaar ikke, hvordan det gik til, at jeg kunde faa dette saadan i Hovedet! &#x2013; &#x2013; &#x2013; Og jeg, som havde t&#x00E6;nkt at v&#x00E6;re saa st&#x00E6;rk . . . og saa l&#x00E6;ssede jeg paa ham alle de Sorger, jeg vilde baaret alene! . . .</p>
+    
+ <stage>(:sukker:)</stage>
+
+    <p>Saa jeg blot en Udvej! &#x2013;</p>
+
+ <stage>(:Det ringer:)</stage>
+
+    <p>&#x2013; Der er han! Men det gaar ikke an at tage imod ham slig.</p>
+
+ <stage>(:gaar raskt, med en frejdig Mine ud for at tage imod ham; men kommer nedslaaet ind igjen:)</stage>
+
+    <p>&#x2013; Nej, det var Pigen! &#x2013;</p>
+ <stage>(:standser, igjen grublende:)</stage>
+
+    <p>. . . Det blir altsaa dog aligevel sammen med denne Hysing . . . Jeg f&#x00F8;ler, jeg fordrager ham ikke . . . han overs&#x00E9;r Henrik.</p>
+
+ <stage>(:D&#x00F8;ren gaar op, og Henrik tr&#x00E6;der ind:)</stage>
+ </sp>
+
+<pb n="81"/>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+ <stage>(:i en rolig, d&#x00E6;mpet Tone:)</stage>
+
+    <p>Ja, her har Du mig igjen, Anna! &#x2013;</p>
+
+ <stage>(:Han gaar hen, s&#x00E6;tter Hatten paa Skrivebordet og blir staaende; &#x2013; tager et Par beskrevne Ark fra Bordet og holder dem op foran sig:)</stage>
+
+    <p>&#x2013; Pjank! Pjank! . . . en rask Pen til Husbrug, intet Mere &#x2013; det er Sandheden! Man har virkelig alt lenge s&#x00F8;rget for at sige mig den, &#x2013; og nu dette idag! . . .</p>
+
+ <stage>(:han river Papirerne tvertover:)</stage>
+
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+ <stage>(:der har staaet urolig og seet paa ham:)</stage>
+
+    <p>Men kj&#x00E6;re Henrik da! &#x2013; tag det dog ikke slig! &#x2013; det er jo din Afhandling &#x2013; din liter&#x00E6;re &#x00C6;re!</p>
+ </sp>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+    <p>Min liter&#x00E6;re &#x00C6;re! &#x2013; Er der Noget i Verden, jeg hader, saa er det vel den! Det Frygtelige er, at Du har elsket mig ikraft af den Illusion . . . at hele mit Bo er bygget paa den! Ja, Du faar nu tage det, som Du kan, Anna! . . . Du misforstod mig f&#x00F8;r . . . Sagen med Tidsskriftet er totalt glippet, og &#x2013; &#x2013; &#x2013; jeg er ikke Literat l&#x00E6;ngere! . . . jeg har taget Posten som Correspondent for din Broders Forretning med Udsigt til engang at blive Associ&#x00E9;, &#x2013; naar jeg har arbejdet mig nok ind i Tingene! &#x2013; &#x2013; &#x2013; &#x2013; Du s&#x00E9;r saa underlig paa mig, &#x2013; &#x2013; og</p>
+
+ <stage>(:med lav Stemme:)</stage>
+
+    <p>jeg maatte jo vente det . . . Du har gaaet og troet paa mig og offret Dig op her, &#x2013; medens jeg igrunden ikke l&#x00E6;nger troede paa mig selv. Men Et vil jeg ikke, Anna! &#x2013; jeg vil ikke l&#x00E6;nger gaa saadan i et kunstig Forst&#x00F8;rrelsesspeil for Dig! Lad det saa koste mig, hvad det vil hos Dig! . . . hele det Skj&#x00E6;r, hvori Du har seet mig som en Aandens Mand af Betydning. Jeg <hi rend="italic">er</hi> det ikke; &#x2013; &#x2013; jeg har faaet det Bind fra &#x00D8;jnene i den sidste Tid, s&#x00E9;r Du!</p>
+
+ <stage>(:Bev&#x00E6;get:)</stage>
+
+    <p>Og, stod jeg ikke nu som en ydmyget, elendig, hul Bankerot&#x00F8;r paa alt Mit foran Dig og din Sl&#x00E6;gt, &#x2013; jeg skulde . . .</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+ <stage>(:falder ham om Halsen:)</stage>
+
+    <p>Du ydmyget &#x2013; &#x2013; for mig, Henrik! . . . Jeg har aldrig v&#x00E6;ret saa stolt af Dig i mit Liv &#x2013; &#x2013; &#x2013; ikke v&#x00E6;ret saa glad siden vor Bryllupsdag!</p>
+ </sp>
+
+<pb n="82"/>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+ <stage>(:studsende og overrasket:)</stage>
+
+    <p>Hvad &#x2013; hvad siger Du?</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+ <stage>(:glad bev&#x00E6;get:)</stage>
+
+    <p>. . . Jeg siger, det var ikke i en Pen, jeg blev forelsket, men i en Mand! &#x2013; og</p>
+
+ <stage>(:ser stolt paa ham:)</stage>
+
+    <p>&#x2013; Du er en rigtig &#x2013; Mand, Henrik!</p>
+ </sp>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+ <stage>(:b&#x00F8;jer sig over hende og kysser hende paa Panden. &#x2013; Lidt efter med Alvor i en d&#x00E6;mpet Tone:)</stage>
+
+    <p>Det kostede mig ikke liden Ydmygelse, Anna, at gaa hen til din Broder med dette! Men han gjorde mig Broen let. Han sagde &#x2013; hvad jeg jo vidste &#x2013; at det var det, han og din Fa&#x2019;r hele Tiden har villet, og at det endog havde staaet som en overmaade v&#x00E6;sentlig Sag for ham at erhverve mig som en dannet Mand med Sprogkundskaber og Sl&#x00E6;gtning for Contoiret; &#x2013; han turde nu f&#x00F8;rst give Forretningen den Udvidelse, han l&#x00E6;nge havde seet, var n&#x00F8;dvendig. Lidt af det var vel kanske Sukker til mig; &#x2013; men jeg saa, han blev meget forn&#x00F8;jet! Da han h&#x00F8;rte, at Du ikke vidste Noget af det, drev han paa, at jeg strax skulde gaa hen og sige Dig det, saa skulde vi tales ved siden. Selv vilde han nok ind til Theodora med det . . .</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Hvor vi skal leve anderledes! . . . v&#x00E6;re sammen om Alt! &#x2013; Og, vil Du skrive, Henrik! &#x2013; saa kan Du jo . . .</p>
+ </sp>
+
+ <sp who="Henrik">
+   <speaker>HENRIK</speaker>
+
+    <p>Der blir mere end Tid nok til det, som isandhed trykker. Du v&#x00E9;d, man kan str&#x00E6;kke et Stykke Guld en hel Mil, &#x2013; saaledes holdt jeg paa at str&#x00E6;kke mit lille Pund ud i en uendelig fin Traad. Og det V&#x00E6;rste var: en stor Del af det var ikke engang eget Guld . . . opvispet Snak var det . . .</p>
+
+ <stage>(:Aander dybt:)</stage>
+
+    <p>&#x2013; Jeg forsikrer Dig, Anna! &#x2013; jeg f&#x00F8;ler mig saa let og fri ved endelig engang i mit Liv at v&#x00E6;re kommet paa det Rene, &#x2013; det er . . . som om Stuen har faaet et andet Skj&#x00E6;r!<pb n="83"/> At leve virksomt og kraftigt, med fuldt Ansvar, for en stor . . . uendelig rig Ting &#x2013; det forstaar jeg nu! </p>
+ </sp>
+
+ <sp who="Tante Magda">
+   <speaker>TANTE MAGDA</speaker>
+
+ <stage>(:stikker Hovedet ind af Sided&#x00F8;ren &#x2013; &#x00E6;rgerligt:)</stage>
+
+    <p>Var det ikke det, jeg vidste, &#x2013; han er gaaet! . . . Og her har Du ladet mig sidde den lange Formiddag &#x2013; saa stille som en Mus; &#x2013; min ene Strikkpind ligger der paa Bordet!</p>
+
+ <stage>(:Forn&#x00E6;rmet, stivt:)</stage>
+    
+    <p>Goddag, Hjort! Undskyld! Du skal kanske skrive, &#x2013; ellers t&#x00E6;nkte jeg virkelig at s&#x00E6;tte mig ved Bordet igjen, &#x2013;</p>
+
+ <stage>(:skarpt:)</stage>
+
+    <p>om I vil have mig da!</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+ <stage>(:iler imod hende:)</stage>
+
+    <p>Om vi vil have Dig, Tante Magda? &#x2013; ja vist vil vi det!</p>
+
+ <stage>(:Tager hende om Livet og drejer hende rundt:)</stage>
+
+    <p>Kjender Du, at Du er kommet op i en friere Luft? Du sagde, naar Du bare kom ind af D&#x00F8;ren her, var det, som om Du kom ind i et Digt . . . et idyllisk, &#x2013; og jeg tror det n&#x00E6;sten . . .</p>
+
+ <stage>(:peger paa Henrik:)</stage>
+
+    <p>Der staar Kontorchefen i det!</p>
+ </sp>
+
+ <sp who="Tante Magda">
+   <speaker>TANTE MAGDA</speaker>
+
+    <p>Er Du gal, Barn &#x2013; fra Forstanden? . . . Kontorchefen? . . . Er han blevet Redakt&#x00F8;r?</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Nei, Tante &#x2013; det blev Intet med det . . . han er blevet Korrespondent paa Fredriks Kontor &#x2013; Bi bare, vi skal nok blive Associ&#x00E9;er!</p>
+ </sp>
+
+ <sp who="Tante Magda">
+   <speaker>TANTE MAGDA</speaker>
+
+    <p>Ind i Forretningerne? &#x2013; Korrespondent? &#x2013;</p>
+
+ <stage>(:med et Udtryk af Skuffelse:)</stage>
+
+    <p>Saa kan da heller Ingen leve i Ideens Land!</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+ <stage>(:drillende:)</stage>
+
+    <p>Det er, som Du sagde, Tante Magda, &#x2013; vi er blevet prosaiske!</p>
+ </sp>
+
+<pb n="84"/>
+
+ <sp who="Tante Magda">
+   <speaker>TANTE MAGDA</speaker>
+
+    <p>Men det er jo? &#x2013;</p>
+
+ <stage>(:Efter en Pause:)</stage>
+
+    <p>&#x2013; Min Broder skulde v&#x00E6;ret her . . . han vilde gr&#x00E6;dt af Gl&#x00E6;de!</p>
+ </sp>
+
+<stage>(:Det ringer og ringer:)</stage>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+    <p>Hva er det?</p>
+ </sp>
+
+ <sp who="Morten Busk">
+   <speaker>MORTEN BUSK</speaker>
+
+ <stage>(:kommer ind i F&#x00F8;lge med Hysing, Bomhof, Bjerk og Schnelle:)</stage>
+
+    <p>Jeg forsikrer Dem, Frue, &#x2013; jeg har l&#x00F8;bet som en Droschehest! . . . jeg var lige i H&#x00E6;lene paa ham, da jeg saa ham gaa op ad Trappen her . . . Men saa tenkte jeg, det var bedre at smede medens Jernet var varmt, og faa Hysing og de Andre med og saa denne selvsamme Formiddag d&#x00F8;be det nye Tidsskrift heroppe! &#x2013;</p>
+
+ <stage>(:T&#x00F8;rrer Sveden af Panden med Lommet&#x00F8;rkl&#x00E6;det:)</stage>
+
+    <p>Om Forladelse! . . . Fruen skulde vel ikke kunne pr&#x00E6;stere et lidet bitte . . . bitte Glas Rum &#x2013; Conjac &#x2013; Punsch eller, hvad det nu er . . . jeg f&#x00F8;ler . . . den L&#x00F8;ben har taget paa mig. &#x2013;</p>
+
+ <stage>(:Han s&#x00E6;tter sig paa en Stol. Anna gaar et &#x00D8;jeblik ud og kommer igjen med et Br&#x00E6;t med Glasse og to Karaffer, hvori Punsch og Vin. Hun s&#x00E6;tter det paa Bordet og skj&#x00E6;nker i:)</stage>
+
+    <p>&#x2013; Ja, jeg antager, din Hustru har fortalt det, Hjort, &#x2013; vi t&#x00E6;nke virkelig paa at forbause Verden med et nyt Ugeblad! Jeg springer ud for den tarpeiske Klippe, men vil dog, saavidt muligt, s&#x00F8;rge for, at der er Dyner under! I kan forresten faa det efter jert eget Hoved, naar jeg bare faar Feulletonen efter mit. Tal, Du Hysing, som er Planens Fa&#x2019;r, &#x2013; eller rettere . . .</p>
+
+ <stage>(:med et Blik hen til Bordet:)</stage>
+
+    <p>lad os styrke os med et Glas Punsch f&#x00F8;rst!</p>
+ </sp>
+
+ <sp who="Hysing">
+   <speaker>HYSING</speaker>
+
+ <stage>(:stramt, med V&#x00E6;gt:)</stage>
+
+    <p>Ja, jeg forbeholder mig virkelig Dommen, Busk! Du har din Streg &#x2013; &#x2013; saavidt gaar Feulletonen! Hvad der ligger <hi rend="italic">ovenfor</hi> den, vil Du maaske tillade mig at styre . . . ubeskaaret . . . fuldt . . . helt ud!</p>
+ </sp>
+
+<pb n="85"/>
+
+ <sp who="Theodosius Bjerk">
+   <speaker>THEODOSIUS BJERK</speaker>
+
+ <stage>(:svinger sig begejstret rundt paa H&#x00E6;len saa, at han kommer til at staa vendt mod Tante Magda:)</stage>
+
+    <p>Bravo! &#x2013; helt ud &#x2013; ikke en T&#x00F8;ddels Afslag! Overhovedet</p>
+
+ <stage>(:stirrer pathetisk barsk paa Tante Magda:)</stage>
+
+    <p>. . . Alting helt . . . fuldt ud!</p>
+
+ <stage>(:Ved hendes haanlig&#x2013;bistre Mine falder han af med stedse mere forsagt Holdning og uvis blid Stemme:)</stage>
+    
+    <p>Ja, jeg mener blot . . . saa det ikke blir til Halvhed . . . saa Personligheden ikke blir formeget . . . mat . . . idetheletaget til . . .</p>
+ </sp>
+
+ <sp who="Tante Magda">
+   <speaker>TANTE MAGDA</speaker>
+
+ <stage>(:idet hun vender sig spodsk fra ham:)</stage>
+
+    <p>. . . til det rene Lapperi, &#x2013; Hr. Bjerk!</p>
+ </sp>
+
+<stage>(:Theodosius Bjerk ser betuttet efter hende:)</stage>
+
+ <sp who="Morten Busk">
+   <speaker>MORTEN BUSK</speaker>
+
+ <stage>(:har efter Hysings sidste Replik taget frem sin Snusdaase, som han begynder at dreje hastigt mellem Fingrene; han ser gr&#x00E6;tten og skuffet ud og gaar med smaa V&#x00E6;ndinger frem og tilbage imod Baggrunden. Idet han kommer i Forgrunden, &#x2013; afsides:)</stage>
+
+    <p>Pu . . . uh . . . Var det ikke for Hjorts Skyld, jeg blev t&#x00F8;rt og n&#x00F8;gternt i min Borger!</p>
+
+ <stage>(:Han gaar hen til Bordet for at tage et Glas:)</stage>
+
+ </sp>
+
+ <sp who="Theodosius Bjerk">
+   <speaker>THEODOSIUS BJERK</speaker>
+
+ <stage>(:f&#x00F8;lger efter Busk, &#x2013; ivrig med et Nik mod Tante Magda:)</stage>
+
+    <p>Jeg skal skrive i Tidsskriftet om Kvindesagen, saa det skal svi&#x2019; i hende der! &#x2013; Skal ikke Kvinden, med alle Rettigheder forbeholdt, dog v&#x00E6;re Kvinde?</p>
+ </sp>
+
+ <sp who="Morten Busk">
+   <speaker>MORTEN BUSK</speaker>
+
+ <stage>(:t&#x00F8;rt:)</stage>
+
+    <p>. . . og Manden Mand, Bjerk . . . Jo!</p>
+
+ <stage>(:han drikker et Glas ud:)</stage>
+
+    <p>Men, mine Herrer! &#x2013; til Sagen &#x2013;</p>
+ </sp>
+
+ <sp who="Hysing">
+   <speaker>HYSING</speaker>
+
+    <p>Vel, &#x2013; den Side af Bladet, der behandler Dagens Begivenheder, &#x2013; den ugentlige Nyhedsartikel &#x2013; er som skabt for<pb n="86"/> Dig, Hjort! Det vil sige, den maa gaa i Bladets Aand; . . . thi Enhed maa der v&#x00E6;re! &#x2013; Enhed absolut!</p>
+ </sp>
+
+ <sp who="Morten Busk">
+   <speaker>MORTEN BUSK</speaker>
+
+ <stage>(:hidsigt:)</stage>
+
+    <p>Men det er jo den rene Ubetydelighed, Du der byder, Hysing!</p>
+ </sp>
+
+ <sp who="Hjort">
+   <speaker>HJORT</speaker>
+
+ <stage>(:afsides til Busk:)</stage>
+
+    <p>Du glemmer &#x00C6;ren af at faa leve i Hysings Lomme!</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+ <stage>(:til Hjort:)</stage>
+
+    <p>Der kommer Nogen!</p>
+
+ <stage>(:Han gaar ud for at lukke op:)</stage>
+
+ </sp>
+
+ <sp who="Hysing">
+   <speaker>HYSING</speaker>
+
+    <p>. . . De Id&#x00E9;er, vi slippe l&#x00F8;s, vil ryste Samfundet gjennemgribende. Bladet vil voxe med hele Magten af den Tingene iboende N&#x00F8;dvendighed, . . . om faa Aar vil det, saa at sige, have slugt det hele Samfund.</p>
+ </sp>
+
+ <sp who="Tante Magda">
+   <speaker>TANTE MAGDA</speaker>
+
+ <stage>(:ser uvis paa Busk:)</stage>
+
+    <p>Det der h&#x00F8;res mindre fornuftigt.</p>
+ </sp>
+
+ <sp who="Morten Busk">
+   <speaker>MORTEN BUSK</speaker>
+
+    <p>. . . blot noget graadigt &#x2013; forslugent.</p>
+ </sp>
+
+ <stage>(:D&#x00F8;ren gaar op, og ind tr&#x00E6;der Fredrik Howitz og Theodora fulgt af Hjort:)</stage>
+
+ <sp who="Theodora">
+   <speaker>THEODORA</speaker>
+
+ <stage>(:til Anna:)</stage>
+
+    <p>Jeg maatte op for at fort&#x00E6;lle Dig, hvor glade vi ere over, at din Mand endelig er gaaet ind paa det!</p>
+ </sp>
+
+ <sp who="Hysing">
+   <speaker>HYSING</speaker>
+
+    <p>Det er en stor Id&#x00E9; &#x2013; egentlig min, Frue!</p>
+ </sp>
+
+<pb n="87"/>
+
+ <sp who="Hjort">
+   <speaker>HJORT</speaker>
+
+    <p>I N&#x00F8;dens Stund skal man kjende sine Venner, heder det! Jeg vil nu underrette Eder, kj&#x00E6;re Venner, om, at jeg ogsaa engang, som Bjerk siger, har taget Skridtet fuldt ud, &#x2013; jeg er gaaet ud af Klubben og haaber snart at v&#x00E6;re helt inde i min Svogers Howitz&#x2019;s Forretning.</p>
+ </sp>
+
+ <stage>(:De liter&#x00E6;re Venner vise Tegn paa Overraskelse:)</stage>
+
+ <sp who="Howitz">
+   <speaker>HOWITZ</speaker>
+
+    <p>Ja, jeg har den Gl&#x00E6;de, &#x2013; haaber snart at kunde kalde ham min Associ&#x00E9;.</p>
+ </sp>
+
+ <sp who="Morten Busk">
+   <speaker>MORTEN BUSK</speaker>
+
+    <p>Vet Du hvad, min kj&#x00E6;re Hjort, &#x2013; Du imponerer mig! &#x2013; imponerer mig virkelig . . . i den Grad at</p>
+ </sp>
+
+ <sp who="Howitz">
+   <speaker>HOWITZ</speaker>
+
+    <p>Jeg haaber, ingen har imod at t&#x00F8;mme et Glas paa den nye Forretningsmands Velgaaende. Hvad jeg kunde have at sige til Skaalen er kort og godt, at der om enhver Mands Vej ligger fodh&#x00F8;jt af Skum og Snak. Den som er for let, skummer bort; den, som er en Mand, pl&#x00F8;jer sig igjennem!</p>
+ </sp>
+
+ <stage>(:Man drikker, og Alle klinke med Hjort undtagen Hysing og Bjerk:)</stage>
+
+ <sp who="Bjerk">
+   <speaker>BJERK</speaker>
+
+    <p>Udmeldt af Klubben! &#x2013; Nu, det maa jeg sige!</p>
+
+ <stage>(:afsides:)</stage>
+    
+    <p>Og det vover han at gj&#x00F8;re lige i &#x00D8;jnene paa Hysing! &#x2013; jeg gad dog vide, hvordan det sp&#x00E6;nder af?</p>
+ </sp>
+
+ <sp who="Hysing">
+   <speaker>HYSING</speaker>
+
+ <stage>(:til Bomhof:)</stage>
+
+    <p>Strax Kravet kommer, r&#x00F8;mmer man undaf! &#x2013; Jeg vidste det forresten, &#x2013; han var altid en Spidsborger.</p>
+
+ <stage>(:Overlegen spydig, til de Andre:)</stage>
+
+    <p>Jeg har naturligvis Intet imod at drikke Hr. Correspondentens Skaal; &#x2013; Han falder fra nu af under en Kategori, hvori han er aldeles befriet fra at maales med nogen Aandens Alen.</p>
+ </sp>
+
+<pb n="88"/>
+
+ <sp who="Bogtrykker Schjørn">
+   <speaker>BOGTRYKKER SCHJ&#x00D8;RN</speaker>
+
+ <stage>(:tr&#x00E6;der ind ad D&#x00F8;ren:)</stage>
+
+    <p>Akkurat det jeg altid har sagt, Frue! &#x2013; der blev naturligvis Ingenting af det Hele! . . . Beder om Forladelse! God Dag &#x2013; god Dag!</p>
+ </sp>
+
+ <sp who="Anna">
+   <speaker>ANNA</speaker>
+
+ <stage>(:gaar hen til sin Mand, tager hans Arm og ser ham ind i Ansigtet:)</stage>
+
+    <p>Jo, Noget blev der dog af det Hele, Henrik!</p>
+ </sp>
+
+ <sp who="Schnelle">
+   <speaker>SCHNELLE</speaker>
+
+ <stage>(:begejstret ved at se paa dem, farer med Haanden gjennem Haaret:)</stage>
+
+    <p>Der skimrer op for mig en Stribe af en Id&#x00E9; . . . Noget lig Columbus, da han saa Guanahannis Palmer! &#x2013; et nyopdaget Land! &#x2013; ja, det kunde virkelig blive et Drama &#x2013; jeg &#x005B;vil?&#x005D; kalde det &#x2013; Opdagelsen!</p>
+ </sp>
+
+ <sp who="Morten Busk">
+   <speaker>MORTEN BUSK</speaker>
+
+    <p>Bravo, &#x2013; Bravo! Schnelle! De mener den Nyhed, at der findes Perler andetsteds end i Klubben, &#x2013; De kan blive Digter paa den! . . .</p>
+    
+ <stage>(:T&#x00F8;rt til Hysing:)</stage>
+
+    <p>Apropos om Kategorier, Hysing &#x2013; &#x2013; &#x2013; der skulde vel aldrig gives en Poesi, som ligger udenfor Pen og Bl&#x00E6;k, &#x2013; hvad? . . .</p>
+
+ <stage>(:Idet t&#x00E6;ppet falder, nikker han bet&#x00E6;nksomt og slaar paa Snusdaasen:)</stage>
+
+    <p>Ja, . . . man forbliver i Borgeren!</p>
+ </sp>
+
+<pb n="89"/>
+</div>
+        </body>
+</text>
+</TEI>

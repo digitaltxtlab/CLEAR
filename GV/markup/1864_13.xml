@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Danskerens Dag-Vise.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-26"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="013"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1864">1864</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1864_13_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Danskerens Dag-Vise.</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Danskerens Dag-Vise.</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="spaced"><hi rend="initial">D</hi>ansker -Folk</hi>! hvor er du henne?</l>
+<l>"Spørger Oven, spørger Ven;</l>
+<l><hi rend="spaced">Dag der kommer efter denne</hi>,</l>
+<l>Svarer Hjerte-Suk igjen;</l>
+<l>Under Hjertet, hvor der sukkes</l>
+<l>Hvor der grædes, saa der klukkes,</l>
+<l>Liv har end det danske Folk!</l>
+</lg>
+<lg>
+<l>Men det Suk kan Ingen høre,</l>
+<l>Som ei i sin Barm det fandt,</l>
+<l>Og det Suk kan Ingen røre,</l>
+<l>Saa der raabes: "sært men sandt!"</l>
+<l>Uden han, hos hvem paa Tangen</l>
+<l>Ligger Sang af Suk udsprungen,</l>
+<l>Som den <hi rend="spaced">danske Folkesang</hi>.</l>
+</lg>
+<lg>
+<l>Dag der kommer efter denne,</l>
+<l>Det er Dansker-Folkets Haab;</l>
+<l>Dag der kommer efter denne,</l>
+<l>Det er Dane-Skjaldens Raab.</l>
+<l>Dagen, der af Nat udspringer,</l>
+<l>Som af Suk en Sang paa Vinger,</l>
+<l>Med det danske Modersmaal.</l>
+</lg>
+<lg>
+<l>Dansker-Folket i sin Moder</l>
+<l>Gik igjen, som Ordet lød;</l>
+<l>Dane-Skjalden, Folkets Broder,</l>
+<l>Hører Nyn fra Moder-Skjød</l>
+<l>Gjennem Sukket, som udstødes;</l>
+<l>Nynnet om hvad der skal fødes</l>
+<l>Paa en Folke-Fødselsdag!</l>
+</lg>
+<lg>
+<l>Danmarks gamle Helte-Moder,</l>
+<l>Dansker-Livets Kildevæld!</l>
+<l>Skjalden, Folkets Patte-Broder,</l>
+<l>Glemmer ei sin gamle Gjæld,</l>
+<l>Klarer den i Mønt, som klinger,</l>
+<l>Sang af Suk paa Tone-Vinger:</l>
+<l>Trøste-Qvad i Vemods-Takt!</l>
+</lg>
+<lg>
+<l>Helt du føder, som er ægte,</l>
+<l>Elskelig og fredegod,</l>
+<l>Vil sin Moder ei fornegte,</l>
+<l>Kalder hende <hi rend="spaced">Danebod</hi>,</l>
+<l><hi rend="spaced">Hjertet</hi> alt sit Mod tilregner,</l>
+<l><hi rend="spaced">Hjertet</hi> al sin Daad tilegner,</l>
+<l>Finder i dets Fryd sin Løn!</l>
+</lg>
+<lg>
+<l><hi rend="spaced">Danneqvinde</hi>! naar du sukker,</l>
+<l>Saa det bryder i din Lænd,</l>
+<l>Hjertet sig til Sang oplukker</l>
+<l>Om den Dag, som gryer end:</l>
+<l>Dagen, naar du Helten føder,</l>
+<l>Dagen, naar Du Helten møder</l>
+<l>Seiersalig, hjerteglad!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

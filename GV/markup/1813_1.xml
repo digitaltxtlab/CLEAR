@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Til Frigges Recensent</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-19"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="001"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1813">1813</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1813_1_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Til Frigges Recensent</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+	<docEdition></docEdition>
+				<docImprint>
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<head>Til Frigges Recensent</head>
+<p>I Litteraturtidenden No. 2 bebrejder De mig at jeg har blandet og svækket Indtrykket af mine i Frigge indrykkede Vers ved en vis <hi rend="spaced">Bitterhed</hi>, imod anderledes Tænkende, som findes næsten i alle mine Arbeider og som jeg enten ikke kan ellen ikke vil holde tilbage. Her er ikke Stedet at gaae i Rette med Dem, om Bitterhed er det rette Udtryk for den Haardhed jeg troer mig forbundet til at bruge mod hver <hi rend="spaced">ukristelig</hi> Mening; men Spørge maa jeg, hvor det Bittre er i de omtalte Stykker? I Brevet til Sverdrup er jo dog ikke et eneste Ord som med noget Skøn kan nævnes Saa, og i det andet Vers maa det være den udtrykte Harme over dem som vil stjæle Gud den Pris han haver beredt sig af de Spædes Mund, der skal gælde for Bitterhed, men bør den nævnes saa, da bør dog visselig saadan Bitterhed, der er Kærligheds Frugt ikke lastes. Last mig, hvor jeg fortjener det og jeg skal tie eller takke, men lær og døm Hvert for sig uden Fordom, det er min inder-
+<pb facs="1813_1_page0002.png"/>
+<fw type="pageNum">142</fw>
+lige Bøn og retmæssige Fordring, og visselig ingen Følge af en prippen Forfængelighed, som De, desværre, nu engang har sat Dem i Hovedet det maa være. Noget af det Tungeste der kan times mig, er at beskyldes for Bitterhed, naar jeg er mig bevidst at have skrevet med et bildt og kærlig Sindelag, med Kærlighed til alt Godt, kun med Had til det Onde og Bekymring over dem som ere dets Tjenere. Bærer Noget af min Skrift umiskendelige Vidnesbyrd om et saadant Sindelag, da er det netop de tvende Smaablomster. som da de Spirede i Kærligheds og Venskabs snevre Have, aldrig tænkte paa at udplantes i den store Alminding; naar disses Duft kaldes stram og bitter og det af en Mand der vedkender sig Sands for deres Hoveds Opløftelse mod Himlen, da maa det inderlig Smerte mig og jeg maa sige det.</p>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

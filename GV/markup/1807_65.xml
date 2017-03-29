@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://www.nslnorge.no/tekster/NSL_texts.xsl"?>
+<!DOCTYPE TEI PUBLIC "-// NSL Norge //EN" "http://www.nslnorge.no/tekster/NSL_tei_xinclude.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ 
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Om Asalæren</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2009-10-14"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="003"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1807">1807</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1807_3_page0002.png"/>
+			<fw type="pageNum">156</fw>
+				<docTitle>
+	<titlePart type="main">Om Asalæren.</titlePart>
+				<fw type="graphic"/>
+	<titlePart type="main">Nordens Nyrup,<lb/>
+ hiin Sagakyndige,<lb/>
+helliges disse Blade,  som et svagt Tegn paa min<lb/>
+ fulde Høiagtelse.</titlePart>
+</docTitle>
+				<fw type="graphic"/>
+<byline></byline>
+				<fw type="graphic"/>
+				<epigraph>
+<lg>
+ <l>Alf&#x00F0;or orhar,     '</l>
+<l>Visa nornir</l>
+<l>Aldir bera,</l>
+ <l>&#x00DE;regia &#x00FE;arfar,</l>
+ <l>&#x00DE;ra valkyrior. *)</l>
+</lg>
+				 <p><hi rend="align(right)">Hrafnagaldr O&#x00FE;ins.</hi></p>
+	</epigraph>
+				<fw type="graphic"/>
+</titlePage>
+</front>
+<body>
+<div>
+ <p>Om Asalæren.</p>
+ <fw type="graphic"/>
+ <p>Nordens Nyrup,<lb/>
+  hiin Sagakyndige,<lb/>
+  helliges disse Blade,  som et svagt Tegn paa min<lb/>
+  fulde Høiagtelse.</p>
+ 
+ <lg>
+  <l>Alf&#x00F0;or orhar,     '</l>
+  <l>Visa nornir</l>
+  <l>Aldir bera,</l>
+  <l>&#x00DE;regia &#x00FE;arfar,</l>
+  <l>&#x00DE;ra valkyrior. *)</l>
+ </lg>
+ <p><hi rend="align(right)">Hrafnagaldr O&#x00FE;ins.</hi></p>
+ 
+<pb facs="1807_3_page0002.png"/>
+<fw type="pageNum">156</fw>
+<p><hi rend="initial">D</hi>et lider nu hen mod et Aar,  siden jeg vovede at</p>
+<p>tale den vanhelligede Eddas Sag.   Jeg tilkiændegav</p>
+<lg>
+<l>*)     Alfader raader,</l>
+<l>Nornerne vise (lede Tingenes Gang),</l>
+<l>Tiderne vaandes,</l>
+<l>Thurserne vente (paa Asers Fald),</l>
+<l>Valkyrier længes (efter Strid).</l>
+</lg>
+<p>Jeg anseer disse Linier, især den første, anden og fierde,  som vore Fædres korte Symbolum,  hvorfra Intet kan tages,  og hvortil Intet kan lægges,  som ei stemmer dermed.</p>
+<pb facs="1807_3_page0003.png"/>
+<fw type="pageNum">157</fw>
+<p>da min Beslutning, at være rolig Tilskuer af, hvad Andre maatte virke til en renere Erkiændelse af gamle Nord; men aldrig kunde denne Yttring være mit Væsens Søn; thi, hvorledes kunde jeg aflade at bevæge mig i en Verden, hvis Herlighed ene hielper mig at bære Livets Byrde? Den var da kun det smertebaarne Udtryk for min Tro paa Umuligheden af et dybere Oldstudium i min Stilling, og et uvilkaarligt Udbrud af min Datids mørke Stemning. Jeg sagde da med Frej:</p>
+<lg>
+<l>Alfers Bestraaler</l>
+<l>Lyser alle Dage,</l>
+<l>Men fryder ei mig.</l>
+</lg>
+<p>og kun den underlige Parodie over Gudens da dybe, vaandefulde Toner, og Asens betydningsfulde Liv, var det, som turde bringe mig til en øiebliklig Beskuelse af Dagslyset, til Kamp for min Helligdom.</p>
+<p>Jeg har siden giort et Forsøg paa at blive nærmere kiændt med Skatten, hvis høie Værd jeg kun anede som den rugende Drage, og gamle Nords enthusiastiske Ven, Nordboen Nyrup, mødte mig med den ædelste Velvillie og Opmuntring. Det Sorte i mit Indre har udviklet sig i et noget lysere Farvespil, og Natten, der aldrig kunde vorde Solens Ven, lod sig opklare af de blinkende Stierner.</p>
+<p>Ved disses dæmpede Skin staaer jeg nu red at giøre en Vandring til Hedenold, for, om jeg kunde <!-- finde -->
+<pb facs="1807_3_page0004.png"/>
+<fw type="pageNum">158</fw>
+finde de dødvækkende Runer, at fremmane deres Skygger, og føre dem tilbage til Livet.</p>
+<p>Lang er Veien, Aar ville henrinde, og ikkun Guderne vide, om jeg kan skyde mig frem giennem Mørket, eller jeg maa tabe mig i det. Mit Legeme er Jettens ufarvede Gave, og maaskee vil det snart sande, at Muld er Mandens Frænde, naar Odin, som gav Aanden, vinker den til høiere Kamp.</p>
+<p>Jeg læste med Gruen, at Eddas Udgivere maatte undskylde dens store Daad, og jeg tør vel ikke haabe, at den voxende Forstand, der saa godt veed at maale Nytten af alle Ting, har skaffet Oldtiden flere Venner siden hine Dage. Dog, Oehlenschlägers gamle Harpe klang, og nogle gribes dog vel af de dybe Toner.</p>
+<p>I Mænd, som bygge paa Norges Fielde og Danmarks Sletter! I ere da vel ikke end saa vanslægtede fra Eders Fædre, at I ville nægte den af Eders Landsmænd al Deeltagelse, der i Alderens Foraar frembærer sit Liv, som et Offer til Norden. Jeg ønskede, at I vilde ansee mig som staaende paa Gravbredden, mærket med Spydsodden, og ikke vredes over mit Farvel; thi Nutiden fratog mit Liv sin  Betydning, og det er uvist, om Oldtid giengiver det Tabte. Jeg saae engang et Billede af det Evige. Kunde og turde jeg male det, som det stod for mig, da vilde I tilbede knælende.   Kunde og turde jeg ud-<!--tale  -->
+<pb facs="1807_3_page0005.png"/>
+<fw type="pageNum">159</fw>
+tale Smerten, jeg følte, da det ei mere var for mig, da skulde Eders Ledemod dirre, og Eders Aasyn blegne. Dette Billede svæver evindelig for mit Øie, som den olympiske Jupiters for de gamle Græker. Jeg kan ikke nægte, at have seet det; men dets harmoniske Høihed maa jeg gienfinde i gamle Nord, eller jeg har levet.</p>
+<p>Følger mig da, Landsmænd! ei paa min een-omme Vandring; men op paa den Punkt, hvor jeg nu staaer! Jeg vil stræbe at vise Eder et Glimt af den herlige Old, hvorhen jeg stunder, og lære Eder, hvorefter jeg leder. Kommer jeg nogensinde levende tilbage, da vil jeg bede Eder skue, hvad jeg fandt; men kommer jeg ikke, ville I da og være billige nok til at unde mig Trøsten:   in magnis,  voluisse sat est?</p>
+<fw type="graphic"/>
+<p>Endog den løseligste Beskuelse af gamle Nord maa vække Undren hos hver den, hvis Øie ei er ganske uvant med at maale det Store. Naar andre Nationer fremstille en enkelt Skabelse, da opviser Norden en dobbelt, ja næsten en tredobbelt, uden endda at blive fyldestgiort. Naar Andre lade alt Liv forgaae i Graven, da begynde vore Fædre deres bag den, stande kraftfulde i Valhal, og stræbe endda mod et høiere Liv. Aserne fremskride med en Majestæt og Fylde af Kraft, Eenhed og Harmoni, som vi anden-<!-- sted -->
+<pb facs="1807_3_page0006.png"/>
+<fw type="pageNum">160</fw>
+steds forgiæves søge, og dog, medens de andre Folk holde fast paa deres deelte Guder, vover den stærke Nordbo at lade sine blegne og forgaae. Det er saa langt fra, at han frygter for, Alt skal i dem gaae under, at han meget mere kalder deres Fald Seier.</p>
+<p>Skulde dette, og saameget Andet, blot være en regelløs Phantasies barnagtige Spil, som de Uindviede forvovne paastaae, eller ligger ikke heri en høiere Betydning, som Nordens Bedre og Kyndige stedse ahnede, selv naar de ei vovede at vedkiænde sig Ahnelsen?</p>
+<p>Fuldt og fast troer jeg det Sidste; men blive vi staaende i Nutiden, og stirre hen paa Aserne, da lære vi aldrig at kiænde dem, thi de ere et Særsyn, Artens eneste, og lade sig ei forklare af nogen anden Gudelære. Medens vi stræbe at trække Grændselinier mellem Individerne, tabe vi os i de meest skiæ-rende Modsigelser; thi de ere Eet. Medens vi ville gaae ad forskiællige Veie til Gimle og Valhal, Alfader og Odin, forfeile vi begge; thi de ere Punkter i samme Linie.</p>
+<p>Dristige maa vi da vove en Flugt ind blandt de evige Guder selv, der hvor de raadslaae under Ydrasils Grene. Følge maa vi Hærfader paa hans tunge Vei til Hel, blegne med ham ved Synet af de guldbeprydede Bænke, der reistes for den Herlige, sørge med ham og de andre Aser paa Banetuen trindt
+<pb facs="1807_3_page0007.png"/>
+<fw type="pageNum">161</fw>
+den faldne Balder. Men da maa vi gribe den løgnglade Loke, stille ham ved Siden af Urdas hellige Kilde, og der beskue Asers Ophav, Alder, Ende og Gienfødelse.</p>
+<p>Nu forvandler hele Asalæren sig til en Kosmogonie, saa høi, og saa dyb, som ingen Nation havde den, eller kunde have den; thi kun den stærke Nordbo, der saa gierne ofrede sit hele Liv til Kamp for en Plads blandt Einherier, kunde avle den Kæmpeidee, at ofre hele Tiden til Strid, for at naae Harmonien.</p>
+<p>Asalæren er en omstyrtet Bygning, og kun enkelte Støtter finde vi, mere eller mindre hele, i Gruset *). Vi have Ret til at ordne det Hele efter dem, men længe maa vi prøve, før vi med Sikkerhed kunne bestemme det giensidige Forhold, og anvise Alt sin rigtige Plads.</p>
+<p>Følgende Fremstilling af Gangen i, og Sandsen af Fædrenes Gudelære, kan derfor kun være et Forsøg.</p>
+<p>Alfader (det Evige) var, men Massen var ogsaa, og den udviklede sig selv til Liv.</p>
+<p>Alfader var, eller hvem plantede Ydrasil, hvalvte dens rod over Jettens Sønner, og dens Grene ove salige Guder?</p>
+<p>*)   Saadanne ere Voluspa,    Hamarrheimt, Vegtams Kvida, Før Skirner,   og Rafnagaldr Odins.</p><!-- Hvem -->
+<pb facs="1807_3_page0008.png"/>
+<fw type="pageNum">162</fw>
+<p>Hvem er</p>
+<lg>
+<l>Den Rige,  som kommer</l>
+<l>Til Herredømmet,</l>
+<l>Den Stærke foroven.</l>
+<l>Som Alting styrer,</l>
+<l>Domstol sætter,</l>
+<l>Og Sager dømmer,</l>
+<l>Hellig Lov giver.</l>
+<l>Som skal evig vare, *)</l>
+<l>eller naar blev han?</l>
+</lg>
+<p>Hvem er Alvider, som, naar de himmelbærende Dværges Magt forgaaer, og Verdener nedsænkes med Bulder i den gabende Afgrund, taber Noget, og det Tabte atter samler? **)</p>
+<p>Hvem er endelig den Stærkere end den Største, som Hyndle ikke tør nævne, fordi han ei kommer, før Fenris har sluget den høie As? ***)</p>
+<p>*)   Voluspa i Beskrivelsen  om  Tilstanden efter Ragnarokr.</p>
+<p>**)    Rafnagaldr Odins.^</p>
+<p>***) Det er mig ubegribeligt, hvorledes Commissionens Udgave her kan finde talt om Surtur; thi deels var han ikke mægtigere end Aserne, hvem han først blev lig i Magt ved Forening med Jetter, Loke og hans Afkom, og deels peges her tydelig hen paa en Punkt bag Ragnarokr.</p>
+<pb facs="1807_3_page0009.png"/>
+<fw type="pageNum">163</fw>
+<p>Massen var, og udviklede sig selv til Liv; thi da Odin fordum spurgte Vaftrudner:</p>
+<lg>
+<l>Hvorfra kom Aurgelmer,</l>
+<l>Første blandt Jetter?</l>
+</lg>
+<p>fik han til Svar:</p>
+<lg>
+<l>Edderdraaber</l>
+<l>Af Elivaga</l>
+<l>Udsprang, da voxte</l>
+<l>Og blev en Jette.</l>
+<l>Ved Gnisters Varme</l>
+<l>Fra sydlig Verden</l>
+<l>Fik Rimfrost Liv.</l>
+</lg>
+<p>Aserne var Aftrykket af det Eviges Kraft, frembragte til Kamp imod Massen; thi naar Massen havde Liv af sig selv, var et altopfyldende Liv, som reent Udspring fra det Evige, umulig.</p>
+<p>Hvorfra kom Ødumla, hvorfor er Styrke det, som udmærker Bur, hendes nærmeste Afkom, og hvorfor ere Aserne strax Ymers Fiender?</p>
+<p>Hvad vil det sige, at Ymer, før Burrs Fødsel, nærede sig af Odumlas Melk, uden at han (den levende Masses Symbol) stræbte at suge Saften fra det evige Liv,  og hindre Kraftens Fremkomst?</p>
+<p>Til at bestyrke dette,   findes et mærkeligt Sted i Runekapitlet, hvor Odin siger: at Thundr (Odin)</p>
+<p>gaaer i Folks Nat (Ragnarokr) didhen,   hvor han</p>
+<p>før kom fra.    At Aserne efter Ragnarokr kom til Al-<!-- fader -->
+<pb facs="1807_3_page0010.png"/>
+<fw type="pageNum">164</fw>
+fader, er bekiændt nok, og der kan da ei længer være Tvivl om, hvor de kom fra.</p>
+<p>Et andet Sted findes i Hyndlas Sang, der - som jeg troer - bør oversættes saaledes:</p>
+<lg>
+<l>Burr blev stærk</l>
+<l>Af Jordens Kraft,</l>
+<l>Af den frostkolde Sø,</l>
+<l>Og Soneblodet.  *)</l>
+</lg>
+ <p>Dette Sted anførte jeg kun her, fordi Nogle have, istedenfor Jar&#x00FE;ar megni, læst Ur&#x00FE;ar megni, og er denne Læsemaade rigtig, da siges her udtrykkelig, at Bur blev til efter Urdas (den evige Visdoms) Villie. Stedet hører ellers mere til det Følgende.</p>
+<lg>
+<l>*)     Seg var aukinn burr</l>
+ <l>Jar&#x00FE;ar megni</l>
+<l>Sval-kavllslum sæ</l>
+<l>Ok sonar dreyra..</l>
+</lg>
+<p>I Noterne til Commiss. Udgave tilstaaes, at disse fire Linier ere i de fleste Haandskrifter skilte fra det foregaaende Vers, og det synes klarlig at hænge sammen med det 39te. Der kan maaskee giøres nogle Indvendinger imod at ansee Burr som et Navnord; men at her, ligesom i det 39te Vers, tales om Burr, eller Odin, hans Arving, vil neppe kunne nægtes.</p>
+<pb facs="1807_3_page0011.png"/>
+<fw type="pageNum">165</fw>
+<p>Saasnart Kraften var blevet, traadde den i Strid med den levende Masse, overvandt den, og indkneb dens Liv til <hi rend="latine">et Minimum</hi>.	'</p>
+<p>Burrs Sønner dræbte Ymer, og i hans Blod druknede alle Jetter, undtagen Bergelmer. Burrs Afkom blev stærk ved Soneblodet, Ymers Blod; thi vel kunde dette kaldes Forsoningsblodet, naar vi huske Ymers Forbrydelse, og nu see, at Alfaders Børn ved det befries fra deres Fiender, samt at hans Legeme, alt Liv berøvet, er Bygværk i Asernes Haand.</p>
+<p><hi rend="align(center)">Nu traadde Kraften i Pagt med Klogskaben.</hi></p>
+<p><hi rend="align(center)">Loke blev Odins Fostbroder i Tids Fødsel.</hi></p>
+<p>At Loke maa tænkes, først som Asernes Ven, og dernæst som deres Fiende, bliver især klart ved at sammenligne Hamars Heimt, hvor han paa det bestemteste optræder som Ven, og Ægis Drekka, hvor han selv tilstaaer at have styrtet Balder. *)</p>
+<p>Da Kraften var traadt i Pagt med Klogskaben, stræbte den at vedligeholde sin Tilværelse som uafhængig Individ; men, for at kunne det, maatte den slutte Fred med Massen, da den ellers ved Stridens Ende maatte vendt tilbage til sit Udspring.</p>
+<p>Aserne faldt fra Alfader, og sluttede Fred med jetterne, hans Fjender</p><!-- Aser -->
+<p>*)   Ægir Drekke.</p>
+
+<pb facs="1807_3_page0012.png"/>
+<fw type="pageNum">166</fw>
+<lg>
+<l>Aser mødtes</l>
+<l>Paa Idas Marke,</l>
+<l>Hvor de Huus og Støtter</l>
+<l>Høit byggede,</l>
+<l>Esser giorde,</l>
+<l>Guld smeddede,</l>
+<l>Tænger danned,</l>
+<l>Og Smedeværktøi.</l>
+<l>Spilled' i Vangen,</l>
+<l>Vare glade. *)</l>
+</lg>
+<p>Man skulde rigtig nok ved første Øiekast troe, at her taltes om den gyldne Tid; men man behøver blot at erindre, at der var paa Idas Marke, Aserne efter Ragnarokr skulde gienfinde</p>
+<lg>
+<l>De gyldne Tavler,</l>
+<l>Prægtiggiorte,</l>
+<l>Som i Tids Fødsel Guders</l>
+<l>Forstander eied, **)</l>
+</lg>
+<p>og at de vel maatte være tabte der, hvor de atter findes. Man vil da indsee, at her er Tidspunkten, da de bortkastede hine Tavler, Symbolet paa den evige Visdoms Villie, og at deres Nydelse kun var den skuffende Glæde, frihedsdrømmen skiænkede dem.</p><!-- Man -->
+<p>*)   Voluspa.</p>
+<p>**)Sammesteds.</p>
+<pb facs="1807_3_page0013.png"/>
+<fw type="pageNum">167</fw>
+<p>Man vil af dette Asernes fald kunde forklare sig, hvi endeel Nordboer, der dog troede Odins Guddom, alligevel ansaae ham for et ondt Væsen.</p>
+<p>Nu var Ragnarokr nødvendig, og at det i sin Tid kunde komme, derfor havde Alfader forudvidende sørget, i det han havde afpræget sin Visdom, der skulde styre Kraften, selv mod deres Villie, til Maalet.</p>
+<p>Dette den evige Visdoms Aftryk var Nornerne, der fremstege af Urdas Kilde.</p>
+<p>Efter deres Bud komme de tre Kæmpemøer af Jetteverden, som forstyrrede Asernes Glæde, og herpaa hentyder Sagnet om Gulveig, skiøndt jeg gierne tilstaaer, at dette har nogen Dunkelhed for mig.</p>
+<p>Nu synes det, som Aserne have erkiændt deres Forseelse og været et Øieblik tvivlraadige, før de atter begyndte Jettekampen.</p>
+<lg>
+<l>Da ginge Guder</l>
+<l>Alle til Raadstol,</l>
+<l>De evig Hellige</l>
+<l>Derom raadsloge,</l>
+<l>Om Aser skulde</l>
+<l>For ondt Raad straffes,</l>
+<l>Eller alle Guder</l>
+<l>Gilder holde. *)</l><!-- Dog -->
+</lg>
+<p>*)Voluspa</p>
+<pb facs="1807_3_page0014.png"/>
+<fw type="pageNum">168</fw>
+<p>Dog, Kampen baade mod Alfader og Jetterne blev Besluttet, skiøndt</p>
+<lg>
+<l>Mordspaaende Vaner</l>
+<l>Nedtraadte Marken,</l>
+</lg>
+<p>og forkyndte Ragnarokr;  thi Thor</p>
+<lg>
+<l>Var iilsindet,</l>
+<l>Siælden han tier,</l>
+<l>Naar han hører sligt;</l>
+<l>Brudte blev Eeder,</l>
+<l>Ord og Løfter,</l>
+<l>Al den Forening,</l>
+<l>Som mellem dem var giort. *)</l>
+</lg>
+<p>Da nu Aserne havde  besluttet at fornye Kampen, stræbte de at forøge deres Magt,  og forvisse sig om Seieren i Ragnarokr.    Derfor skabtes Mennesker.</p>
+<lg>
+<l>De funde paa Landet</l>
+<l>Lidet mægtende</l>
+<l>Ask og Embla,</l>
+<l>Skiæbneløse,</l>
+<l>Aand de ei havde,</l>
+<l>Forstand ei heller,</l>
+<l>Skiønhed, Tale,</l>
+<l>Farve de mangled. **)</l>
+</lg>
+<p>Jetterne vare ved Asernes Tilblivelse ligesom over-</p><!-- rump -->
+<p>*)   Voluspa.</p>
+<p>**)   Sammesteds.</p>
+<pb facs="1807_3_page0015.png"/>
+<fw type="pageNum">169</fw>
+<p>rumplede ved Skabningsværket i det Øieblik, da de vilde multiplicere deres Magt. Menneskebygningen var færdig, men den havde kun et mekanisk Livsskin. Det indvortes bevægende Princip manglede den, og altsaa .tillige Farven, det indre Livs Bebuder, og Talen, dets høie Forkynder.</p>
+<lg>
+<l>Aand gav Odin,</l>
+<l>Forstand Hæner,</l>
+<l>Skiønhed Lødur,</l>
+<l>Og yndig Farve. *)</l>
+</lg>
+<p>Nu vare Menneskene satte i Asernes tieneste,</p>
+<p>indviede til Valhal og Kampen paa Vigrids Marke;</p>
+<p>*) Sammesteds. Det maa nødvendig bestyrke Enhver at see, hvorledes Menneskene finge deres Forstand fra den dummeste blandt Aser, og man kunde fristes til at ansee det som en bitter Satire paa Forstandens Børn; men sikkert er her skeet en Omsætning, da det burde hedde:</p>
+<lg>
+<l>Forstand Lødur,</l>
+<l>Skiønhed Hæner,</l>
+<l>Og yndig Farve.</l>
+</lg>
+<p>Det skulde glæde mig, hvis noget af Haandskriftterne stadfæstede denne Rettelse; men, hvis ikke, tør jeg dog troe den beføiet, da Hæner netop var Skiønheds Symbolet, ligesom Lødur (Loke) Klog-skabens og Forstandens. Da Loke skilte sig fra Odin, traadde Klogskaben i Strid mod Aanden, og end føres denne sørgelige Strid i os.</p>
+<pb facs="1807_3_page0016.png"/>
+<fw type="pageNum">170</fw>
+<p>men da Legemet var dannet af Jetter, kunde Mennesket ei heller ganske rives løs fra disses Herredømme, og naar Odins Aande i Døden bortveg fra Legemet, maatte dette vare i Jettens Magt.</p>
+<p>Af døde Mænds Negle var det, at Naglfari skulde bygges.</p>
+<p>Nu kunne vi begribe, hvorfor Jorden kaldes Odins Kone, hvorfor Jetterne vare Menneskenes svorne Fiender, og hvi de Nordboer, der ellers foragtede Aserne, dog dyrkede Thor, thi ham var det, der forsvarede sin Moder, Jorden, mod Jetters Anfald, som han selv siger i Harbards Liod:</p>
+<lg>
+<l>Stor var Jetters Æt nu,</l>
+<l>Om alle leved',</l>
+<l>Neppe var Folk til</l>
+<l>Da under Midgard.</l>
+</lg>
+<p>Kampen begyndte mellem Kraften og Massen; men hin var ved Godheden lænket til sit Udspring, og kunde derfor ikke tabe noget, saalænge denne Kiæde ei sønderbrødes.</p>
+<p>Jetterne stræbte at berøve Aserne deres evige Ungdom (Idunnas Æbler), og Udtrykket for deres Kraft (Miølner), men Alt var forgiæves; thi Asernes Magt kunde ikke forringes, saalænge Balder var hos dem, og herpaa hentyde de dødvækkende Runer, som tillægges ham. Jettekongen Thrymer dræbes, og Jetterne henfalde i Afmagt.
+<pb facs="1807_3_page0017.png"/>
+<fw type="pageNum">171</fw>
+Nu synes Asernes uretmæssige Seier nær, men da skille de vise Norner Loke fra dem. Klogskaben fra Kraften, og lade den ved Forening med Ondskaben blive til List.</p>
+<p>At Lokes Frafald fra Aserne var Nornernes Værk, synes den skiæbnekyndige Gefion selv at pege hen til i Ægis Drekke *), og at hans Frafald betegnes ved Foreningen med Angrboda, syntes mig klart, før jeg endnu blev det udtrykkelige Vidnesbyrd herom</p>
+<p>vaer i Hyndlas Sang:</p><!-- Loke -->
+<p>*)  Dersom Oversættelsen i Comm. Udg. er rigtig, da kan herom neppe være Tvivl, thi saa lyder den:</p>
+<lg>
+<l>Loke ei veed det.</l>
+<l>At selv han bedrages,</l>
+<l>At Skiæbnen ham tvinger</l>
+</lg>
+<p>t il at værre Asers Fiende.   Sandvigs Oversættelse er herfra meget afvigende,   og jeg skulde vel betænke mig paa at kalde den urigtig,   dersom jeg ikke vidste,  at enhver Oversættelse af Linien:</p>
+<p>Ok hann fjørgvali fria,</p>
+<p>maa være Konjektur. Mig synes ellers, her giordes mindst Vold paa Ordenes primitive Bemærkelse, saavidt samme kiændes, hvis man oversatte:</p>
+<p>Og han beiler til sit Livs Aften.</p>
+<p>Dette lod sig meget godt forklare ved at sige: Gefion, som vidste Alles Skiæbne, vidste ogsaa, at Lokes Frafald fra Aserne medførte Ragnarokr, hvori Loke selv skulde gaae under. Læste man fiorvali blev der slet intet Tvungent i Oversættelsen</p>
+<pb facs="1807_3_page0018.png"/>
+<fw type="pageNum">172</fw>
+<lg>
+<l>Loke blev svigfuld</l>
+<l>Ved den onde Kone.</l>
+</lg>
+<p>Nu staaer Loke i Spidsen for Asernes Fiender; men han veed, at ingen Skade kan dem tilføies, før Balder er borte, og snart opdager han, at Nornerne selv have forberedet hans Fald, ved at plante Mistiltejn, som ei vilde aflægge Eden, ikke at skade Balder.</p>
+<p>At Aserne ved Balders Død troede at tabe al Lykke, og hvad de giorde, for at afværge Ulykken, skiønnes af Vegtams Kvida.</p>
+<p>Balder nedstyrtes til Hel, og Aserne ere utrøstelige. Deres Angest og Raadvildhed skues i Hrafnagaldr Odins. *)</p>
+<lg>
+<l>Da slumre Evner,</l>
+<l>Hænder Synke,</l><!-- Af -->
+</lg>
+<p>*) At dette Digt hverken indeholder Tegnene for Balders Død, eller nogen anden Ulykke, uden Ragnarokr, synes mig klart, og det lader sig vel bevise af Digtet selv, at det handler om Asernes Tilstand umiddelbar efter Balders Død; thi at Ordene:</p>
+<lg>
+<l>Seirguder skuede</l>
+<l>Nanna sørge</l>
+<l>I Helas Vaaning,</l>
+</lg>
+<p>maa  forstaaes om Nanna,    da hun foer til Hel med sin elskede Balder,  synes upaatvivleligt.</p>
+<pb facs="1807_3_page0019.png"/>
+<fw type="pageNum">173</fw>
+<lg>
+<l>Af Mathed falder</l>
+<l>Fra hvid As Sværdet.</l>
+<l>Kraftig Troldoms</l>
+<l>Sindløshed al</l>
+<l>Kraft forjager</l>
+<l>Af oprørt Mod.</l>
+<l>Da syntes Jolmer</l>
+<l>Slangen være kommet,</l>
+<l>Tyk af Skrække.</l>
+</lg>
+<p>Aserne troe at see Ragnarokr komme, og deres eneste Haab er at faae Balder tilbage; men de skuffes. Nu stræber Listen at søndre Kraften selv. Fenris har alt oplukket sit Gab, da det lykkes Aserne at binde ham; men allerede her miste de en Deel af deres Kraft; Thyr mister sin Arm. Nu mister Frey sit Sværd, og snart vilde Thor mistet Hammeren, dersom Loke ei var blevet standset i sin Udaad. Nornerne vilde, det skulde, skee; thi Asernes Magt maatte vel Svækkes, men ikke synke under Jetternes.</p>
+<p>Men, hvorledes kunde den blotte Kraft seire over Listen? Hvorledes kunde Aserne gribe Loke, der svævede let hen over Jorden og Vandene ? En tidligere udstrømmet Forstand maatte komme Kraften til Hielp, og det var Kvaser, som i Asken fandt Spor af Garnet, hvormed Aserne fangede Loke.</p>
+<p>Nu er Loke bundet, og Aserne synes at triumphere, da Jetter segne for Mjølners Slag, da Odin<!-- er -->
+<pb facs="1807_3_page0020.png"/>
+<fw type="pageNum">174</fw>
+er blevet viis af Mimers Vande, og har ved Nydelsen af Suttungs Miød faaet Kraft til at opsvinge sig til det Evige, og sammenblande sig med Alfader.</p>
+<p>Dog, de vise Norner vente blot efter, at Lokes Børn skulle blive voxne.</p>
+<p>Visdommen vil, at der først skal opstaae den fuldkomneste Ligevægt mellem Kraften og Massen, paa det ingen af dem skal seire, men begge giensidig ødelægge hinanden.</p>
+<p>Saasnart det Øieblik kommer, da lyder Nornernes Røst:</p>
+<lg>
+<l>Hos Aser galer</l>
+<l>Den guldkammed,</l>
+<l>Som vækker Helte</l>
+<l>Hos Hærfader.</l>
+<l>En anden Hane,</l>
+<l>Sodrød, galer</l>
+<l>Nedenfor Jorden</l>
+<l>I Helas Sale.</l>
+</lg>
+<lg>
+<l>Garm gøer høit</l>
+<l>For Gnyppa Hule,</l>
+<l>Lænkerne briste,</l>
+<l>Vindtid,  Ulvtid</l>
+<l>Før Verden falder.</l>
+</lg>
+<lg>
+<l>Odin taler</l>
+<l>Med Mimers Hoved,</l><!-- Det -->
+</lg>
+<pb facs="1807_3_page0021.png"/>
+<fw type="pageNum">175</fw>
+<lg>
+<l>Det gamle Træ sukker,</l>
+<l>Og Jetten løses,</l>
+<l>Ydrasils Ask</l>
+<l>Staaer da skiælvende.</l>
+<l>Jormungardr væltes</l>
+<l>Med Jettestyrke,</l>
+<l>Ormen trykker Havet,</l>
+<l>Og Naglfari løsnes.</l>
+<l>Køl kommer øst fra,</l>
+<l>Derpaa seile Muspels</l>
+<l>Folk over Havet,</l>
+<l>Men Loke styrer.</l>
+</lg>
+<lg>
+<l>Imedens høres</l>
+<l>Giallarhorns Lyd,</l>
+<l>Høit blaser Hejmdal</l>
+<l>I løftede Horn. *)</l>
+</lg>
+<p>Nu væltes Aser og Einherier til Strid.   Kampen begynder, og endes med en almindelig Undergang. Solen sortner.</p>
+<lg>
+<l>Solen sortner.</l>
+<l>Jord synker i Hav,</l>
+<l>Af Himlen  falde</l>
+<l>Klare Stierner</l>
+<l>Hede Dampe</l>
+<l>Alt fortærende</l><!-- Spille -->
+</lg>
+<p>*) Voluspa</p>
+<pb facs="1807_3_page0022.png"/>
+<fw type="pageNum">176</fw>
+<lg>
+<l>Spille med Ilden</l>
+<l>Ved høien Himmel. *)</l>
+</lg>
+<p>Nu er alt selvtaget Liv forsvundet, og Alt kan opfyldes af det evige Liv.</p>
+<lg>
+<l>Og da kommer</l>
+<l>Atter fornyet</l>
+<l>Jord af Havet,</l>
+<l>Eviggrøn,</l>
+<l>Usaaede Agre</l>
+<l>Skulle da bære.</l>
+</lg>
+<lg>
+<l>Alt Ondt er borte,</l>
+<l>Thi hist kommer sorte</l>
+<l>Flyvende Drage</l>
+<l>Østen fra Fieldets</l>
+<l>Nidas  Rødder.</l>
+<l>Nidhøge bære</l>
+<l>Jetternes Lig</l>
+<l>Hen over Marken,</l>
+<l>Og flux forsvinde.</l>
+</lg>
+<lg>
+<l>Da kommer den Rige</l>
+<l>Til Herredømmet,</l>
+<l>Den stærke foroven,</l>
+<l>Som Alting styrer,</l>
+<l>Domstol sætter,</l><!-- Og -->
+</lg>
+<p>*)   Voluspa.</p>
+<pb facs="1807_3_page0023.png"/>
+<fw type="pageNum">177</fw>
+<lg>
+<l>Og Sager dømmer</l>
+<l>Ved hellige Love,</l>
+<l>Som skal evig vare.</l>
+</lg>
+<lg>
+<l>Hist stander Salen,</l>
+<l>Herlig som Solen</l>
+<l>Paa Gimle,</l>
+<l>Der skulle gode</l>
+<l>Herrer evindelig</l>
+<l>Bygge og nyde</l>
+<l>Godhedens Alt. *)</l>
+</lg>
+<p>Dog, Kraften maa vende tilbage til sit Udspring. Ogsaa dette skeer, thi Ragnarokr er Aserne Tusmørke, Aftenen paa deres selvskabte Dag; men tillige den sande Dags Morgendæmring. Balder er opstegen fra Hel, og Aserne rensede fra deres Stræben efter Individualitet. De herske ei mere; men de ere stedse Kraftens Udtryk,  det Eviges stærke Arm.</p>
+<lg>
+<l>Aser samles</l>
+<l>Paa Idas Slette.</l>
+<l>Sig erindrende</l>
+<l>Fordums Vælde,</l>
+<l>De om den stærke</l><!-- Jord -->
+</lg>
+<p>*)   Voluspa.</p>
+<pb facs="1807_3_page0024.png"/>
+<fw type="pageNum">178</fw>
+<lg>
+<l>Jordtorn *) tale,</l>
+<l>Og om Fimbultyrs</l>
+<l>Gamle Runer.</l>
+<l>Derefter, blive</l>
+<l>Prægtiggiorte</l>
+<l>Gyldne Tavler</l>
+<l>I Græsset fundne,</l>
+<l>Som før Tidens</l>
+<l>Fødsel eied</l>
+<l>Guders Forstander</l>
+<l>Og Fiølners Børn.  **)</l>
+</lg>
+<p>Ville vi nu gaae fordi Einherierne, der tillige med Aserne rensedes i Ulvstriden, kaste et sørgende Blik paa Salen, bygt af Ormerygge, hvor de pines, som, forledte af Klogskaben, Lokes Gave, skyede Odins haarde Lege, brøde deres Eeder, eller smittede fremmed Vivs Øre, og derpaa spørge med Gagnrad:</p>
+<lg>
+<l>Hvilke Folk leve,</l>
+<l>Naar hengaaet er den store</l>
+<l>Vinter blandt Mennesker?</l>
+</lg>
+<p>da faae vi til Svar af Vaftrudner:</p><!-- Lif -->
+<p>*) Hvad der menes med denne Jordtorn, er vel ikke let at sige, skiøndt det maaskee netop e Ragnarokr,  der med rette kunde kaldes en stærk Jord</p>
+<p>torn.</p>
+<p>**)   Voluspa.</p>
+<pb facs="1807_3_page0025.png"/>
+<fw type="pageNum">179</fw>
+<lg>
+<l>Lif og Lifthrasir</l>
+<l>De sig skiule skulle</l>
+<l>I Hoddmimers Høie, *)</l>
+<l>Morgenduggen</l>
+<l>Da til Mad sig have,</l>
+<l>Af dem skulle Folk avles.</l>
+</lg>
+<p>Hvor betydningsfuldt er ikke dette? Paa det alt Spor af Jetters Virken kunde uddøe, skal Menneskets Livskraft af den rene Morgendug faae et nyt Legeme, passende til den fornyede, rene Jord.</p>
+<p>Vil man endnu sige: Asalæren mangler Betydning? Skal den unge Slægt i Nord endnu bestandig indbildes, at vore Fædres Religion, der kun veeg, og kun viger for Kristi den rene, var Overtro? Skiøndt Edda stedse vandrede ved min Side, kan min Anskuelse af Asalæren dog gierne i mange enkelte Dele være falsk, men neppe kan Nogen rokke den Grundsandhed, at vore Fædre havde den reneste Idee om en fuldkommen Harmonie, og at Tiden kun var den Formel, under hvilken det store Alt stræbte imod den.</p>
+<p>Gierne rakker Nordboen Prisen til Grækeren, naar denne spørger om Figurernes Bestemthed,  og det udvortes Smykke;  men er Talen om indvortes</p><!-- Kraft -->
+<p>")   De bevaredes af Viisdommen.</p>
+<pb facs="1807_3_page0026.png"/>
+<fw type="pageNum">180</fw>
+<p>Kraft og høieste Betydning, da peger han rolig paa Gimle, og Grækeren maa tie.</p>
+<p>Er det saa, at et Folk maler sig i sine Guder, da behøve vi i Sandhed ei at rødme over vore Fædre, med mindre det skulde være over deres Betydningsfulde Kamplyst; thi deres Gudelære er den høieste Poesie; eller kan der tænkes noget høiere, end Udtalelsen af Alfaders egen Anskuelse af Tidslivet? Uden videre at forfølge denne Idee, vil jeg blot bemærke det karakteristiske Træk, at ligesom Nordboen udmærker sig ved sin dybe Agtelse for Qvinden, saa synes denne Agtelse paa en i Øine faldende Maade at have afpræget sig i hans Fabellære. Jeg mener den Besynderlighed, at Maanen hører til Han- og Solen til Hun kiønnet, ret som han vilde sige, at det var Qvinden, der, som et høiere Væsen, beskinnede Manden med sine Straaler, og gav ham sin Glands.</p>
+<fw type="graphic"/>
+<p>Ingen sige mig nu: dersom du troer at vide det, hvorefter vil du da lede?  Troede jeg ikke at vide det, hvorefter vilde jeg da lede?</p>
+<p>Have de ikke leedt, Skandinaviens Herlige, uden at finde noget Heelt, fordi de vilde, at Brudstykkerne skulde sammensætte sig selv, skiøndt Tidens Storme omkastede Bygningen, og blandede hine i en be-tydningsløs Dynge? Vilde de ikke have fundet, der<!-- som -->
+<pb facs="1807_3_page0027.png"/>
+<fw type="pageNum">181</fw>
+som de havde vovet at omfatte Dyngen med alle dens, som det syntes, ueensartede Stoffe, og bevaret det Heles Indtryk?</p>
+<p>Dit Lidet, jeg vidste, har jeg nu Næsten sagt,</p>
+<p>men hvorledes kunde jeg opregne alt det, jeg ikke veed? Dersom Gagnrad spurgte mig:</p>
+<lg>
+<l>Hvorfra Niord kom</l>
+<l>Blandt Asers Sønner,</l>
+<l>Og styrer de fleste</l>
+<l>Templer og Altre,</l>
+<l>Skiøndt ei født af Aser?</l>
+</lg>
+<p>hvor meget kunde jeg da lægge til Vaftrudners Svar:</p>
+<lg>
+<l>I Vaners Verden</l>
+<l>Skabte ham vise Guder,</l>
+<l>Og gav ham som Gidsel til Guder.</l>
+<l>I Tidens Ende</l>
+<l>Han atter kommer</l>
+<l>Hjem til viise Vaner.</l>
+</lg>
+<p>Jeg kunde vel jevnføre det med Odins Udsagn i Grim-nis Mal:</p>
+<lg>
+<l>Han, den meenløse</l>
+<l>Menneskens Konge,</l>
+<l>Styrer høitbyggede Templer,</l>
+</lg>
+<p>og deraf, som af mere, drage den Slutning, at Niord og hans Afkom ere at ansee som en senere Digtning (om jeg saa maa sige) af Aserne selv,  hvorved de vilde knytte et fastere Baand mellem sig og Menne-<!-- skene -->
+<pb facs="1807_3_page0028.png"/>
+<fw type="pageNum">182</fw>
+skene, og skaffe sig den Kiærlighed, de, som blot Kraft, ei selv kunde erhverve. Derfor kommer Niord tilbage til Vanerne, naar Aserne i Ragnarokr nedstige fra deres uretmæssige Throne. Jeg kunde gaae videre, og stræbe at tyde Mythen om Odins Samfund med Freja, og Valens Deling imellem dem; men her bliver endda meget at eftersøge.</p>
+<p>Spurgte man mig, hvorfor Vidar giennemlever Ragnarokr, da hielper vist nok hans tause Styrke mig til Svar, og ved at benytte Odins Vink i Grim-nismal:</p>
+<lg>
+<l>Ris voxer</l>
+<l>Og høit Græs</l>
+<l>Trindt Vidars Land,</l>
+</lg>
+<p>kunde jeg sige: en Deel af Kraften stræbte, indsluttet i sig selv, tilbage mod sit Udspring. Den var ikke besmittet, og behøvede ei at renses, men dermed er endnu ikke Alt sagt.</p>
+<p>Vil man vide Lokes Oprindelse, kunde jeg maaskee afvise Spørgsmaalet, ved at spørge: om den isolerede Klogskab kan have nogen anden Fader til sit Intet, end sig selv, og om Fædrene ikke giorde den kiændelig nok, ved at sige: Loke var avlet af Jetten og Hexen? men med Ret kunde man dog fordre de billedlige Motiver til hans Frafald, og her maatte jeg næsten være stum.</p><!-- Jeg -->
+<pb facs="1807_3_page0029.png"/>
+<fw type="pageNum">183</fw>
+<p>Jeg veed, at Nornerne vare mere end hine Parcer med Traad, og Sax, og Spinderok. Jeg veed at skiælne mellem Alfaders og Herjans Norner, og jeg kan ikke blande dem, Skiøndt Skuld er Valkyrie:</p>
+<lg>
+<l>Thi Urd og Vardandi</l>
+<l>Skare paa Skiolde</l>
+<l>Guders og Menneskers</l>
+<l>Skiæbner i Løn.</l>
+<l>Skuld som Valkyrie</l>
+<l>Stander med Skjoldet,</l>
+<l>Runerne tyder</l>
+<l>Hun giennem de lange,</l>
+<l>De løbende Tider. *)</l>
+</lg>
+<p>Men, jeg vilde læse:</p>
+<lg>
+<l>Fimbultyrs gamle</l>
+<l>Hellige Runer,</l>
+<l>Som paa de gyldne</l>
+<l>Herlige Tavler</l>
+<l>Stande indgravne.</l>
+</lg>
+<lg>
+<l>Jeg vilde lytte</l>
+<l>Til Urdas de hvide,</l>
+<l>De hellige Vande,</l>
+<l>Naar de med Raslen</l>
+<l>Ydrasils grønne</l>
+<l>Blade bestænke;</l><!-- Thi -->
+</lg>
+<p>*)   See Voluspa.</p>
+<pb facs="1807_3_page0030.png"/>
+<fw type="pageNum">184</fw>
+<lg>
+<l>Thi det er Norners</l>
+<l>Alviise Røst.</l>
+</lg>
+<lg>
+<l>Jeg vilde  lytte</l>
+<l>Til  Odins de lønlige</l>
+<l>Taler med Saga,</l>
+<l>Da  blev jeg viis,</l>
+<l>Aser jeg kændte da,</l>
+<l>Alfer og Stenes</l>
+<l>Høitbydende Herrer.</l>
+<l>Vide jeg skulde da</l>
+<l>Alt,   hvad som findes</l>
+<l>I Verdner ni.</l>
+</lg>
+<lg>
+<l>Finde jeg skulde da</l>
+<l>Retten, som skiules</l>
+<l>Af guldkammet Hane</l>
+<l>Paa Mimamejds Qviste,</l>
+<l>Og frit da indgange</l>
+<l>For Gifr og Geri</l>
+<l>I Gastrognies Sale,</l>
+<l>At skue det herligste</l>
+<l>Jertegn blandt Guder.  *)</l>
+</lg>
+<fw type="graphic"/>
+<lg>
+<l>Kan jeg vel finde,</l>
+<l>Hvad driftig jeg søger?</l><!-- Kan -->
+</lg>
+<p>*)  See Fiølsvins Mal.</p>
+<pb facs="1807_3_page0031.png"/>
+<fw type="pageNum">185</fw>
+<lg>
+<l>Kan jeg omfatte</l>
+<l>De lette Gestalter,</l>
+<l>Som luftige svæve</l>
+<l>Paa Fædrenes Høie,</l>
+<l>Paa Asernes Altre</l>
+<l>I kiølige Lunde;</l>
+<l>Som flagre i Nattens</l>
+<l>Indhyllende Skyer,</l>
+<l>For lukkede Øie</l>
+<l>I skuffende Drøm?</l>
+</lg>
+<lg>
+<l>Nei, sløvet er Sandsen.</l>
+<l>De Runer saa tunge</l>
+<l>Forvildes af Dverge</l>
+<l>For Øiet, som stræber</l>
+<l>Mod flygtede Old,</l>
+<l>Og Øret ei fatter</l>
+<l>De herlige Toner</l>
+<l>I Gienlydens dumpe,</l>
+<l>Forvirrede Klang.</l>
+</lg>
+<lg>
+<l>Men, kunde jeg finde</l>
+<l>Det Billed af Aser,</l>
+<l>Som klygtige Otar</l>
+<l>Indpræged' i steen,</l>
+<l>Og vilde det Billed'</l>
+<l>Sig atter forvandle</l>
+<l>Til skinnende Glas,</l>
+</lg>
+<pb facs="1807_3_page0032.png"/>
+<fw type="pageNum">186</fw>
+<lg>
+<l>Saa Sandsen, der skiuler</l>
+<l>Sig bag det, blev skuet;</l>
+<l>Da Slægterne skulde</l>
+<l>Tilbedende knæle,</l>
+<l>Og Billedet farve</l>
+<l>Med rygende Blod. *)</l>
+</lg>
+<lg>
+<l>Da skal Valkyrien,</l>
+<l>Brynhild,   frembære</l>
+<l>Dit prunkløse Qvæde.</l>
+<l>Sigurd skal kiænde</l>
+<l>Den løgnglade Loke,</l>
+<l>Som plager hans Æt;</l>
+<l>Kiænde sin Stamfaders</l>
+<l>Kraftige liv. **)</l>
+</lg>
+<lg>
+<l>Nordboer! ønsker</l>
+<l>Mig Lykke paa Reisen,</l>
+<l>At til de viise</l>
+<l>Vaner jeg kunde</l>
+<l>Bruden hiemføre! ***)</l><!-- Bru- -->
+</lg>
+<p>*)   See Hyndlu Liod.</p>
+<p>**) Hvem kiænder ikke Fofners Bane, og Volsungerne? Eller lyde maaskee nu i Nord disse navne, som Navnene paa Indiens Nabober i fremfarne Sekler?</p>
+<p>***)   Frej var en Vaner, og Skirner reiste at hente</p>
+<p>hans Brud.   Vaner er Græker og Olymp deres Stolthed.</p>
+<pb facs="1807_3_page0033.png"/>
+<fw type="pageNum">187</fw>
+<lg>
+<l>Bruden er herlig;</l>
+<l>Thi Nordboen sagde:</l>
+<l>Solen er Qvinde,</l>
+<l>Og Maanen er Mand.</l>
+<l>Sandsen, jeg ahned' ,</l>
+<l>Skal mig ledsage</l>
+<l>Frem giennem Natten,</l>
+<l>Og flagrende Luer,</l>
+<l>Jeg dem med Skirners</l>
+<l>Qvæde vil hilse:</l>
+</lg>
+<lg>
+<l>Mørkt er nu ude,</l>
+<l>Tid er at fare</l>
+<l>Over lyngfulde Field,</l>
+<l>Over Thursernes Land.</l>
+<l>Begge hiemkomme vi.</l>
+<l>Eller os begge</l>
+<l>Fanger hiin mægtige Jette!</l>
+</lg>
+<p>I, som kiænde Begeistringens høie Fryd, naar man troer at have fundet Noget, og iler at finde Mere! I, som vide, at, skal man skride Maalet nærmere, da maa Vandringen begyndes med Tillid, ja næsten med Vished om at naae det! I ville ikke miskiænde min Afskedstone! Vil Nogen lee, da under jeg ham Latteren af mit ganske Hierte, og vil kun sige ham, at han loe af Thor fra Asgaard selv, naar kun det dybe Sund skillede mellem dem.   Men,  vil<!-- No- -->
+<pb facs="1807_3_page0034.png"/>
+<fw type="pageNum">188</fw>
+Nogen harmes, da troe han mig paa mit Ord,  at</p>
+<p>det med gloende Runer er skrevet i mit Bryst, hvorlidet jeg mægter!</p>
+<p>Egelykke, den 22de Mai 1807,</p>
+<p><hi rend="align(right)">Nik. Fred. Sev. Grundtvig.</hi></p>
+<p><hi rend="align(right)">Kandidat i Theologien.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

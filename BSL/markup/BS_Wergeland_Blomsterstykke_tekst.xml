@@ -1,0 +1,1029 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://www.nslnorge.no/tekster/NSL_texts.xsl"?>
+<!DOCTYPE TEI PUBLIC "-// NSL Norge //EN" "http://www.nslnorge.no/tekster/NSL_tei_xinclude.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="BS_Wergeland_Blomsterstykke">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>bokselskap.no, 2011
+<lb/>Henrik Wergeland: <hi rend="italic">Jan van Huysums Blomsterstykke</hi></title>
+</titleStmt>
+<publicationStmt><p>Publiseres som digital tekst av bokselskap.no.</p></publicationStmt>
+<sourceDesc>
+<p>Tekstene er hentet fra Dokumentasjonsprojektet/dokpro.uio.no: <hi rend="italic">Samlede Skrifter</hi>. 23 bind. Utgave ved Herman J&#x00E6;ger, Didrik Arup Seip, Halvdan Koht og Einar H&#x00F8;ig&#x00E5;rd. Steenske forlag, Kristiania/Oslo - 1918-1940.</p>
+</sourceDesc>
+</fileDesc>
+<revisionDesc>
+<change xml:id="ENW" who="ENW" when="2011-04-18">Kodet teksten i xml. Kodekontroll.</change>
+</revisionDesc>
+</teiHeader>
+<text xml:id="BS_Wergeland_Blomsterstykke_tekst" type="poem">
+<front>
+<titlePage type="main">
+<byline><docAuthor>Henrik Wergeland</docAuthor></byline>
+<docTitle>
+<titlePart type="main">Jan van Huysums Blomsterstykke</titlePart>
+</docTitle>
+<docDate>1840<note type="footnote"><p>Tekstene er hentet fra Dokumentasjonsprojektet/dokpro.uio.no: <hi rend="italic">Samlede Skrifter</hi>. 23 bind. Utgave ved Herman J&#x00E6;ger, Didrik Arup Seip, Halvdan Koht og Einar H&#x00F8;ig&#x00E5;rd. Steenske forlag, Kristiania/Oslo - 1918-1940.</p></note></docDate>
+</titlePage>
+<div type="chapter" >
+<p><hi rend="italic">Anch&#x0027;io sono pittore.</hi>
+<lb/>Correggio.</p>
+</div>
+<div type="chapter" subtype="illustration">
+<figure><graphic url="Blomsterstykke.jpg"/></figure>
+</div>
+<div xml:id="contents">
+<list type="contents_main">
+<item><ref target="chapter_1" xml:id="contents_1">Johan (Jan) van Huysum</ref></item>
+<item><ref target="chapter_2" xml:id="contents_2">I. Beskuelsen</ref></item>
+<item><ref target="chapter_3" xml:id="contents_3">II. Den hollandske Familie</ref></item>
+<item><ref target="chapter_4" xml:id="contents_4">III. Gamle Adrians Blomsterbed</ref></item>
+<item><ref target="chapter_5" xml:id="contents_5">IV. Jan van Huysum, Blomstermaleren</ref></item>
+</list>
+</div>
+</front>
+<body>
+<div type="chapter" n="1">
+<head><ref type="contents" target="contents_1" xml:id="chapter_1">JOHAN (JAN) VAN HUYSUM</ref></head>
+<p>(F&#x00D8;DT I AMSTERDAM 1682, &#x271D; 1749).</p>
+<p>&#x2013; &#x00AB;Hans Fader Justus, en middelmaadig Maler, gav ham den f&#x00F8;rste Underviisning; men siden gik han i L&#x00E6;re hos Naturen, der b&#x00F8;d ham sine skj&#x00F8;nneste D&#x00F8;ttre til M&#x00F8;nstre. Han er Blomsterrigets Rafael; dets Beboere fremstillede han med uefterlignelig Troskab. Hans Blomstre prange i de skj&#x00F8;nneste Farver og i naturlig Friskhed, som om Duggen just havde udgydet sine Perler over dem. Han anbragte ogsaa paa sine Blomsterstykker Insekter, Sommerfugle, Fugle, deres Reder med &#x00C6;g o. s. v., alt i Naturens rige Pragtgevandt. Blomsterne satte han ofte i Vaser, zirede med skj&#x00F8;nne Basreliefs. I Udf&#x00F8;relsen hersker den h&#x00F8;jeste Flid, og ved Farvernes, Oljens og Fernissens Tilberedning undgik han omhyggelig ethvert fremmed Blik, og iagttog den dybeste Hemmelighed. Han laserte i det Uendelige, selv D&#x00E6;kfarverne, og betjente sig derved af de klareste og varigste Farver, som ogsaa have beholdt sin Friskhed ligetil denne Tid. De Blomstre, som ere malte paa klar eller brunlig Grund, foretr&#x00E6;kker man for dem paa dunkel, og de blive s&#x00E6;rdeles dyrt betalte. En Sindssygdom, han undergik i sine senere Leveaar, havde ingen Indflydelse paa hans Kunst.&#x00BB;
+<lb/><hi rend="italic">Naglers K&#x00FC;nstler-Lexicon.</hi></p>
+<p>&#x2013; &#x00AB;Det 18de Aarhundredes fortrinligste Blomster- og Frugtmaler; f&#x00F8;lte sig is&#x00E6;r dreven til Fremstillinger af Planterigets Fostre, og indskr&#x00E6;nkede sin Pensels hele Kraft til at udt&#x00F8;mme al Kunst i den levende Efterligning deraf. Han naaede det H&#x00F8;jeste i sine Blomster- og Frugtstykker. Han forstod at udspeide Naturens Hemmeligheder, at f&#x00E6;ngsle den flygtige Blomstren i dens skj&#x00F8;nneste &#x00D8;jeblik og at naae det H&#x00F8;jeste i denne genre ved sine Farvers tryllende Sandhed og Mangfoldighed og ved det n&#x00E6;sten Transparente i de fine Blomsterskabninger. Han var den F&#x00F8;rste, som fremstillede Blomster paa klar Grund, og overtraf alle sine Forgj&#x00E6;ngere i Bl&#x00F8;dhed og Friskhed, i Farvernes Fiinhed og Liv, i Udtrykket af det Saftige og i de n&#x00F8;jagtigste Lysforhold. Han var saa iversyg i sin Kunst, at han ikke tillod Nogen at see ham arbeide. Hans Blomster ere skj&#x00F8;nnere og sandere, end hans Frugter; Dugdraaberne og Insekterne han malte dertil, have den h&#x00F8;jeste Livagtighed. For hvert af sine Billeder tog han 1000 &#x2013; 1400 Gylden; to af hans Aqvarelltegninger ere i den nyere Tid blevne betalte i Holland med 10,000 Gylden.&#x00BB;
+<lb/><hi rend="italic">Allg. deutsche Real-Encyklop&#x00E4;die.</hi></p>
+<p>&#x2013; &#x00AB;Han overtraf alle sine Forgj&#x00E6;ngere i at male Blomster og Frugter, og hans Arbeider kom i et saadant Udraab, at kun Fyrster og de rigeste Privatm&#x00E6;nd vare istand til at kj&#x00F8;be hans Malerier. Den fineste Smag, den mest glimrende Kolorit, den kraftigste Pensel og den fuldkomneste Efterligning af Naturen give denne Kunstners V&#x00E6;rker et uendeligt V&#x00E6;rd. I Landskabsmaleriet taaler han Sammenligning med store Mestere; men i at male Blomster og Frugter har han aldeles ingen Sideordnet. Det Matte og Peltsagtige ved Frugterne, det Glindsende ved Blomterne, det Gjennemsigtige ved Dugdraaberne, den livlige Bev&#x00E6;gelse, han vidste at give sine Insekter &#x2013; Alt er henrykkende i hans Malerier.&#x00BB;
+<lb/><hi rend="italic">Allgemeines K&#x00FC;nstlerlexicon, cfr. Pierers Encyklop&#x00E4;d. W&#x00F6;rterbuch.</hi></p>
+<p>&#x2013; &#x00AB;Naaede alene ved sit Genis Kraft den h&#x00F8;jeste Rang i sin Kunst. Han har gjengivet i sine Blomster deres hele Sandhed, deres mest glimrende Farver med en saa bl&#x00F8;d og behagelig Pensel, at Naturen ikke er sandere. Hans Frugter have et Transparent, is&#x00E6;r hans Druer, som lader Cellev&#x00E6;vet see og Saften hvormed de ere opfyldte. Insekterne skulde man troe bev&#x00E6;gede sig. Og hans Duggdraaber? Man fristes f&#x00F8;rste Gang, man seer dem, om end n&#x00E6;rved, til at ville t&#x00F8;rre dem af, forat de ikke skulle skade Mesterv&#x00E6;rket.&#x00BB;
+<lb/><hi rend="italic">Marquis d&#x0027;Argens, Examen critique.</hi></p>
+<p>&#x2013; &#x00AB;Han har, saa at sige, rivaliseret med Naturen. Friskhed, Ynde, Eleganz, Sandhed, Kolorit. Han skulde v&#x00E6;re Foraarets Gud, om Flora tillige havde givet ham sin Vellugt.&#x00BB;
+<lb/><hi rend="italic">Galerie du Mus&#x00E9;e Napol&#x00E9;on.</hi></p>
+<p>&#x2013; &#x00AB;Naaede i Blomster- og Frugtmaleriet en Fuldendelse, som overtraf Alt hvad man hidtil havde seet i dette Slags. Alle de Florister, som stode i Bekjendtskab til ham, kappedes om at meddele ham det Skj&#x00F8;nneste, deres Haver frembragte. Han plejede at udarbejde de Studier enkelt, hvoraf han komponerede sine Malerier, og var, som man fort&#x00E6;ller, saa egen, at han aldrig tilstedede Nogen Adgang, naar han arbejdede, og gjorde en stor Hemmelighed af Tilberedelsen af sine Oljer, Fernisser og Farver. Selv hans egen Broder maatte ikke see til naar han arbeidede, og det var kun med M&#x00F8;je man bragte ham til at undervise Margaretha Havermann, paa hvis Talenter han skal have v&#x00E6;ret iversyg. &#x00C6;rgrelse over en af sine S&#x00F8;nners Opf&#x00F8;rsel virkede saa paa hans Forstand, at han forfaldt i en Art Vanvid, som dog ikke havde nogen Indflydelse paa hans Arbejder. Hans Stiil betr&#x00E6;ffende, da udf&#x00F8;rte han alt med Forstand og utrolig Flid, og laserte i det Uendelige, selv D&#x00E6;kfarverne. Dette er Aarsagen til at hans Frugter ere altfor skj&#x00F8;nne, eller, forat tale tydeligere, til at de ligne Frugter af Vox eller farvet Elfenbeen; men hans Blomster, hans Insekter, Duggen og de enkelte Duggdraaber overtr&#x00E6;ffer Alt hvad man hidtil har seet i dette Slags. Om hans fortrinligste Arbejder give saavel Gool som Descamps Underretning.&#x00BB;
+<lb/><hi rend="italic">Fiorillo. Geschichte d. zeichnenden K&#x00FC;nste.</hi></p>
+<p>&#x2013; &#x00AB;Elskere af s&#x00E6;rdeles pragtfuld Fuldendelse s&#x00E6;tte v. H. over alle Blomstermalere. Den Flid han gjorde sig med at v&#x00E6;lge de mest skinnende og massiveste Farver, med at tilberede dem og rense Oljen, bidrager meget til den glimrende Friskhed ved hans V&#x00E6;rker. Det hvide Grundanl&#x00E6;g paa hans Tavler eller L&#x00E6;rred, siger Descamps, var tilberedet med den st&#x00F8;rste Omhyggelighed og med en Reenhed, som befriede ham fra den Frygt, at see Farverne, som han anlagde med stor Utvungenhed, forrevne eller ford&#x00E6;rvede derpaa. Alt er behandlet med Pr&#x00E6;cision, uden Skj&#x00F8;desl&#x00F8;shed, men ogsaa uden T&#x00F8;rhed. Det Ru, det Glatte, det Fl&#x00F8;jelsagtige, det Transparente, den sandeste og brillanteste Glands &#x2013; alt Dette findes her forbundet med hint touche, som Naturen anviser, og som hverken kan tilskrives Maneer eller Tilf&#x00E6;lde. Vaserne, som han vidste at anbringe heldigt, og hvori han satte sine Blomster, ere ligeledes efter Naturen. Basrelief&#x0027;erne, ligesaa fine som det &#x00D8;vrige, ere godt sammensatte og af l&#x00E6;rd Harmoni. Han havde den Smag, at formere sine Grupper saa, at de lyseste Blomster indtog Midten, og han betjente sig af den enhver Blomst egne Farve forat udf&#x00F8;re Farvesynkningen fra Middelpunktet til Gruppens yderste Ende. Fuglereder, deres &#x00C6;g, Fjedrene, Insekterne, Sommerfuglene, Vanddraaberne, Alt er fremstillet med den st&#x00F8;rste Sandhed, og frembringer den fuldkomneste Illusion.&#x00BB;
+<lb/><hi rend="italic">Heidenreichs aesthetisches W&#x00F6;rterbuch.</hi></p>
+<p>I disse Domme stemme ogsaa &#x00AB;L&#x00FC;demanns Geschichte d. Mahlerei&#x00BB; og &#x00AB;Hirts Kunstbemerkungen&#x00BB; overeens.</p>
+<p>I &#x00AB;Historische Erkl&#x00E4;rungen der Gem&#x00E4;lde, welche Herr Gottfried Winkler in Leipzig gesammelt, Leipz. 1768&#x00BB; findes netop det Stykke af v. Huysum, som er Sujet for n&#x00E6;rv&#x00E6;rende Digt, saaledes beskrevet:</p>
+<p>&#x00AB;Forskjellige Blomster ere samlede i et, med oph&#x00F8;jet Arbeide ziret, Kar og opstillede i en Nische. Blomsterdronningen pranger ved den blonde gelderske Roses s&#x00F8;sterlige Side, omgiven af skj&#x00F8;ntstribede Tulipaner, blomstrende Valmu og hvide Narcisser, hvis Pragt spraglede Aurikler, fyldte Hyacinther o. s. v. og en M&#x00E6;ngde af Foraarets sp&#x00E6;de Skabninger forh&#x00F8;je med sin mildere Ynde. Spraglede Sommerfugle og forskjellige Insekter drikke Morgenduggen af deres Blade, som det hvilende Blik gjennemtr&#x00E6;nger og Zefyrens milde Aande synes sp&#x00F8;gende at ryste. Nedenunder paa Muren kl&#x00E6;ber den huuslige Snegl og til H&#x00F8;jre ligger en Fuglerede med tre forladte &#x00C6;g. Maleriet er paa Tr&#x00E6;, 2&#x0027;, 9 1/2&#x0027;&#x0027; h&#x00F8;jt, 2&#x0027;, 2&#x0027;&#x0027; bredt. Dets forrige Besidder var Hr. Dietrich Schmid i Amsterdam, hvem Mesteren skj&#x00E6;nkede det som et Venskabsminde.&#x00BB; Det er nu siden flere Aar i Hr. Stiftamtmand Thygesons Besiddelse. Der gjorde det det Indtryk paa Forfatteren, han her har s&#x00F8;gt at meddele. Det omfatter med en noget mere detaljeret, om end ikke udt&#x00F8;mmende, Beskrivelse end foroven, i en Vase en hvidspraglet Tulipan, og en dunkel, r&#x00F8;dbruun af &#x00E6;gte hollandsk Pragtflor, en hvid Rose, to r&#x00F8;de Roser, en Syringe, en brun Aurikel, Pintseliljer (Narcisser), en ildfarvet Valmu, en guul, dobbelt Fl&#x00F8;jelsblomst, en dobbelt r&#x00F8;dspraglet Nellik, en blaa Hyacinth, en Konvolvulus, en Forglemmigei, en halvaabnet Rosenknop og en Ridderspore. Dertil en Fuglerede med &#x00C6;g, en Snegl med sit Huus, et Par flyvende Insekter og nogle Vanddraaber, som Beskuere meer end engang have villet t&#x00F8;rre v&#x00E6;k.</p>
+<p>Disse ere Delene af den beundringsv&#x00E6;rdige Komposition, som ikke kan forherliges af min, der vel er indgivet af Beskuelsens henrykte &#x00D8;jeblik, men dog for fattig til ikke at tr&#x00E6;nge til nogen Overb&#x00E6;relse forat turde hedde en Buket til den genifulde Malerinde, som har valgt Menneskehjertets og Livets endnu finere Blomster, end van Huysums, til Gjenstande for sin nydelige Pensel.</p>
+</div>
+<div type="chapter" n="2">
+<head><ref type="contents" target="contents_2" xml:id="chapter_2">I. BESKUELSEN</ref></head>
+<lg>
+<l>Plumpe Menneskebeundring,</l>
+<l>som beh&#x00F8;ver Luft og L&#x00E6;ber!</l>
+<l>Mere plump end Dyrs Forundring,</l>
+<l>der er taus og bly beskeden,</l>
+<l>kr&#x00E6;nker du i din Tilbeden,</l>
+<l>&#x00F8;der i Begeistringsheden; &#x2013;</l>
+<l>med din Elskovs vilde Brunst</l>
+<l>du din egen Elskte dr&#x00E6;ber:</l>
+<l>din tilbedte rene Kunst.</l>
+</lg>
+<lg>
+<l>Ve, om nu, da jeg maa tale</l>
+<l>(saa n&#x00F8;dvendigt som at Brystet</l>
+<l>st&#x00F8;nner, naar det bliver krystet)</l>
+<l>denne Draabe skulde dale</l>
+<l>fra van Huysums Rosenblad,</l>
+<l>af min L&#x00E6;bes Mundveir rystet!</l>
+<l>Foraarsvinden, yr og glad,</l>
+<l>var af meer barmhjertig Hu:</l>
+<l>Duggens Glands fra Lund og Hegn,</l>
+<l>perlemoderagtig Regn,</l>
+<l>gjemt i foldet Marikaabe,</l>
+<l>hver en Draabe, hver en Draabe</l>
+<l>har letsindigen den plyndret,</l>
+<l>alle hen i Luften s&#x00F8;ndret</l>
+<l>&#x2013; <emph>denne</emph> ligger der endnu,</l>
+<l>yderligt som Taaren baaret</l>
+<l>b&#x00E6;vende af &#x00D8;jenhaaret,</l>
+<l>yderst i dit Diadem,</l>
+<l>yndige og blide Smerte,</l>
+<l>som din Byrde triller frem;</l>
+<l>skj&#x00F8;n som Perlen, der var v&#x00E6;rdig</l>
+<l>til at v&#x00E6;re Stjernes Hjerte;</l>
+<l>fuld som Magdalenens Graad,</l>
+<l>fuld og tung og bristef&#x00E6;rdig;</l>
+<l>bristende, skj&#x00F8;ndt endnu heel,</l>
+<l>som beslutningsmodent Raad</l>
+<l>i tungsindig Engels Sjel.</l>
+</lg>
+<lg>
+<l>O! saa herligt er det Mindste:</l>
+<l>Draaben, der paa Bladet glindste.</l>
+<l>Glindste? Ja er den ei svunden,</l>
+<l>som et fuldf&#x00F8;dt Ord fra Munden,</l>
+<l>man ei kan tilbagekalde</l>
+<l>i sit Hjertes tause Grund?</l>
+<l>Thi den syntes jo at falde</l>
+<l>af sin V&#x00E6;gt i hver Sekund.</l>
+</lg>
+<lg>
+<l>Dette, at den evigt spiller,</l>
+<l>evigt m&#x00E6;t af Glands sig runder,</l>
+<l>evigt fylder sig og triller,</l>
+<l>&#x2013; det er Under over Under,</l>
+<l>hvorpaa jeg forbauset grunder,</l>
+<l>Kunstens Dyd, Naturens Feil,</l>
+<l>som at f&#x00E6;ngsle Lyden fast,</l>
+<l>Luftens Svale i sin Hast,</l>
+<l>Billedet i Kildens Speil.</l>
+</lg>
+<lg>
+<l>O, hvad s&#x00F8;d vellystig Skr&#x00E6;k!</l>
+<l>Angst for Vind og Solens Straale!</l>
+<l>Draaben, som ei meer kan taale!</l>
+<l>Fluen, som vil flyve v&#x00E6;k!</l>
+<l>Sneglen der, som nu vil flytte</l>
+<l>hen paa n&#x00E6;ste Blad sin Hytte!</l>
+<l>Malte Blad, som vil sig h&#x00E6;ve!</l>
+<l>Fagre Blomsterliig, som leve!</l>
+<l>O, hvad s&#x00F8;d vellystig Skr&#x00E6;k!</l>
+<l>Mens jeg stirrer paa dem m&#x00F8;de</l>
+<l>mig forvirret l&#x00E6;ngst hend&#x00F8;de</l>
+<l>Elskerinders Ansigtstr&#x00E6;k.</l>
+</lg>
+<lg>
+<l>Og, endskj&#x00F8;ndt I er&#x0027; saa sande,</l>
+<l>maa jeg troe, I aldrig gro&#x0027;de</l>
+<l>blandt de andre paa vor Klode,</l>
+<l>men engang i Edens Lande:</l>
+<l>Blomstre! at I derfor ere</l>
+<l>Blomstre vel, men endnu mere:</l>
+<l>Blomsterblomstre, disse liig,</l>
+<l>som fortrylle os i Haven,</l>
+<l>som en Aand i Himmerig</l>
+<l>ligner Liget under Graven.</l>
+</lg>
+<lg>
+<l>Ak, som denne Blomstbuket</l>
+<l>maatte Kj&#x00E6;rlighed see ud</l>
+<l>med sin Sv&#x00E6;rm af Lidenskaber,</l>
+<l>hvis en Elsker, mens han taber</l>
+<l>sig i Favntag hos sin Brud,</l>
+<l>fik sit Hjerte kl&#x00F8;vt medeet,</l>
+<l>saa man med et Aandeblik,</l>
+<l>(hurtigt som man skimter Fligen</l>
+<l>af Gespenst, der flygter just)</l>
+<l>&#x00D8;je paa dets Dr&#x00F8;mme fik,</l>
+<l>paa dets uudtalte Higen,</l>
+<l>paa dets Tankers Embryoner,</l>
+<l>paa dets Eed, f&#x00F8;r den udtoner</l>
+<l>i et trol&#x00F8;st Aandepust,</l>
+<l>mens den endnu ligger der</l>
+<l>som en Nyf&#x00F8;dt reen og skj&#x00E6;r,</l>
+<l>der engang skal bli&#x0027;e Forbryder,</l>
+<l>paa dets Haab, f&#x00F8;r Vingen skyder</l>
+<l>sp&#x00E6;d som Blomstens Hjerteblad,</l>
+<l>paa dets Tale f&#x00F8;r den lyder,</l>
+<l>paa dets Fryd, f&#x00F8;r den bli&#x0027;er glad,</l>
+<l>og i Smiil om L&#x00E6;ben flyder.</l>
+</lg>
+<lg>
+<l>Hvor er slig en Lidenskab,</l>
+<l>slig en Vellyst, qvalt af Smerte,</l>
+<l>sligt et d&#x00E6;mpet Hjerteslag,</l>
+<l>slig en Gl&#x00F8;d paa Elskovsmunde,</l>
+<l>slig en blodig Hjertevunde,</l>
+<l>som i Pragttulipens Gab,</l>
+<l>denne m&#x00F8;rke, selvfort&#x00E6;rte,</l>
+<l>krampest&#x00E6;rke, syge R&#x00F8;dmes</l>
+<l>natteagtige Skarlag!</l>
+</lg>
+<lg>
+<l>Hvor er Kj&#x00E6;rlighedens S&#x00F8;dmes</l>
+<l>Frydberusnings&#x00F8;jeblik,</l>
+<l>da Du Ja af Hende fik,</l>
+<l>yndigt i de tvende r&#x00F8;de</l>
+<l>Roser, som hinanden m&#x00F8;de!</l>
+<l>Efter Kys en T&#x00F8;rst saa heed,</l>
+<l>som de Begge br&#x00E6;nde med?</l>
+<l>Hvor maa Elskovs Anger lide,</l>
+<l>R&#x00F8;dmes Blus med Bleghed stride</l>
+<l>her i denne fulde hvide?</l>
+<l>Hvor er fyrigt Frydbegj&#x00E6;r</l>
+<l>som i denne Nelliks Skj&#x00E6;r?</l>
+<l>Hvor et Blod, der saa kan gl&#x00F8;de,</l>
+<l>som dens fine, purpurr&#x00F8;de</l>
+<l>Dugregn af Granater, ud</l>
+<l>spr&#x00E6;ngt paa Perlens skj&#x00E6;re Hud?</l>
+<l>Andagt, naar den syner bedst,</l>
+<l>seer paa fjerne Himles Fest</l>
+<l>for det frelste Zions Helte</l>
+<l>ei saa fagre fine Telte,</l>
+<l>som Konvolvlerne udbrede,</l>
+<l>blaaere end Himlens Bund,</l>
+<l>finere end Blusels Kl&#x00E6;de</l>
+<l>foran Brudens &#x00D8;nskes Mund.</l>
+<l>Uskyld har saa fiint et Blaat,</l>
+<l>en saa skj&#x00E6;r en Blegnens Kulde,</l>
+<l>ei som Hyacinthen faae&#x0027;t;</l>
+<l>&#x00D8;mhed ei saa rig en Yden,</l>
+<l>som Syringen der, den fulde:</l>
+<l>hver en Smaablomst i dens Klase</l>
+<l>er en liden egen Vase</l>
+<l>af et halvklart Porcellin,</l>
+<l>fuld af Honnings s&#x00F8;de Nyden,</l>
+<l>fuld af Sommerfugles Viin.</l>
+<l>Er saa reen en Engels Hjerne,</l>
+<l>Jomfrues Tanke, Nyf&#x00F8;dts Dr&#x00F8;m</l>
+<l>og Martyrens Taarestr&#x00F8;m</l>
+<l>som Narcissens blege Stjerne!</l>
+<l>O, i den kan Helg&#x0027;nen gjerne</l>
+<l>al sin Tempelandagt speile;</l>
+<l>thi, saa rank den skj&#x00F8;d, den har</l>
+<l>s&#x00E6;nket dog det fromme Hoved,</l>
+<l>som om Gud i B&#x00F8;n den loved,</l>
+<l>som om Uskyld kunde feile,</l>
+<l>somom det en Syndskyld bar.</l>
+<l>Og hvor malte sig en Tanke</l>
+<l>i genifuld Ynglings Sind</l>
+<l>ildig som paa denne ranke</l>
+<l>Blodvalmues Luekind?</l>
+<l>Og hvor mon saa fyrig Plan</l>
+<l>i et Manddomshjerte t&#x00E6;ndes</l>
+<l>som det Flammehv&#x00E6;lv, der sp&#x00E6;ndes</l>
+<l>ud i denne Tulipan?</l>
+<l>Og hvor sukkede en B&#x00F8;n,</l>
+<l>saa uskyldig og saa skj&#x00F8;n</l>
+<l>som Kj&#x00E6;rminden der, den slanke,</l>
+<l>der saa ydmyg, bly sig klynger</l>
+<l>&#x2013; bly som tause Taares Tanke &#x2013;</l>
+<l>til en Moserosenknop?</l>
+<l>Og hvor er den Skjald, der synger</l>
+<l>godt som denne tause Lille</l>
+<l>Blomstmystererne, de stille,</l>
+<l>blot den engang, engang vilde</l>
+<l>Rosenl&#x00E6;ben lukke op?</l>
+</lg>
+<lg>
+<l>O, hvis Knoppen vilde m&#x00E6;le,</l>
+<l>hvis en Aand den vil besjele,</l>
+<l>o hvor jeg den bede vil</l>
+<l>(og med Ild maae Skj&#x00F8;nne bedes)</l>
+<l>at fort&#x00E6;lle mig hvorledes</l>
+<l>slige Blomster bleve til!</l>
+</lg>
+</div>
+<div type="chapter" n="3">
+<head><ref type="contents" target="contents_3" xml:id="chapter_3">II. DEN HOLLANDSKE FAMILIE</ref></head>
+<p>&#x00AB;Alonzo de Tobar! Hvor er du, Alonzo? Alonzo! Tappre Kastilianer! f&#x00F8;lger du ikke Obersten? Adelante, Caballero! adelante!&#x00BB;</p>
+<p>Alonzo de Tobar, den ulykkelige Maler, som var bleven sit F&#x00E6;drelands Erobrers, Ludvig XIV.s, hvervede Soldat, fordi han ikke kunde blive Velasquez eller Spaniens Stolthed, Bartolomeo Esteban Murillos, er bleven tilbage. &#x00AB;Fremad Walloner! Fremad! Obersten har givet Landsbyen til Priis. Viva el coronel! Han bryder sig ikke meer om nederlandske Landsbyer end Alba og Luxembourg, Dj&#x00E6;velens Ven.&#x00BB;</p>
+<p>Alonzo de Tobar er bleven tilbage. Han, som de vilde Staldbr&#x00F8;dre kaldte Sierras Ulv, og som aldrig blev tilbage under en &#x00D8;del&#x00E6;ggelse af en kjettersk By, har vendt sin Hest, og b&#x00F8;ier sig gr&#x00E6;dende over Manken.</p>
+<p>Fortvivler han endnu over den store Murillos&#x0027;s &#x00AB;Santa Katharinas Trolovelse&#x00BB; eller over Velasquez&#x0027;s &#x00AB;Familie.&#x00BB; Ha, der jage de sidste Kyradserer forbi og raabe: &#x00AB;Store Alonzo de Tobar! Lille Murillos! Tappre Kastilianer! f&#x00F8;lger du ikke Obersten? Adelante, Caballero! adelante!&#x00BB;</p>
+<p>Har han h&#x00F8;rt sin Moder jamre under Hovslagene, eller seet Madonna i R&#x00F8;gskyen, som alt v&#x00E6;lter sig gnistrende, snart sort som Natten, snart hvid som en Sky, uhyre som et Bjerg, frem over Kirken. Madonna begeistrede ham ellers til &#x00D8;del&#x00E6;ggelse over Kj&#x00E6;tterne, og den fanatiske Spanier &#x00F8;delagde forat begeistres til at blive en Murillos og at kunne male en &#x00AB;S.ta Katharinas Trolovelse.&#x00BB;</p>
+<p>Thi da han stod foran denne i Domkirken i Sevilla, Murillos&#x0027; F&#x00F8;deby, da styrtede han til Jorden under Erkjendelsen af at han ikke var nogen Murillos. Og saa s&#x00F8;gte han den franske Fahne under de vildeste af dens Krigere, under Wallonerne. Han troede at opflamme Kunstnerens Begeistring og Kr&#x00E6;fter ved at n&#x00E6;re Fanatismens Gl&#x00F8;d i en r&#x00E6;dselfuld Krig mod Kj&#x00E6;ttere. Dem bekrigede han, mens han var hvervet til at bekrige det politiske Folk, hans Herres Fiender.</p>
+<p>Ha, hvor seer Kirkens Blyspiir liigblegt ud imod R&#x00F8;gen, der kneiser bag det, m&#x00F8;rk, t&#x00E6;t, ubev&#x00E6;gelig som et Bjerg, eller imod Luespiret, der skyder sig op af Choret stedse h&#x00F8;jere, pr&#x00E6;gtigere og dristigere? Ve! det skriger derinde, Kirken maa v&#x00E6;re fuld af Qvinder og B&#x00F8;rn.</p>
+<p>Wallonerne kj&#x00E6;mpe med hverandre i D&#x00F8;ren om Byttet indenfor. Pr&#x00E6;stens Datter Katharina stod just Brud, da de br&#x00F8;d ind i Landsbyen; og hun er i Forvirringen bleven tilbage, hun og hendes Brudejomfruer. &#x00AB;Alonzo de Tobar, vil du ikke v&#x00E6;re med?&#x00BB; raaber en Landsmand, idet han paa de Andres Skuldre svinger sig op i Chorvinduet, og seer ned i den flammende, qvindefyldte Kirke. &#x00AB;Ah, Paraiso de Demonio! Ah, le paradis de l&#x0027;enfer! O Helvedes Paradiis! Og Alonzo, du holder dig tilbage?&#x00BB;</p>
+<p>Alonzo holder sig tilbage, b&#x00F8;jet over sin Ganger. Han bliver udst&#x00F8;dt af de luxembourgske fils perdus, han mister sit Ulvenavn, han bliver h&#x00E6;ngt for sin Bl&#x00F8;dhed. Men den fanatiske Kastilianer med det hede Blod vil heller d&#x00F8;e med Van&#x00E6;re, end l&#x00E6;gge Haanden til <emph>denne</emph> Landsbyes &#x00D8;del&#x00E6;ggelse.</p>
+<p>Ve hans fort&#x00E6;rte Sjel! Saamange nederlandske Landsbyer stak han Faklen til, jublende mellem sine Kamerader &#x00AB;en la honra de nuestra Sennora!&#x00BB; men denne Landsby, denne var for yndig, Hytterne for nette, Kirken for &#x00E6;rv&#x00E6;rdig som en Pr&#x00E6;st imellem dem, Blomsterhaverne foran dem for nydelige. Vedbende og klattrende Roser havde flettet Gavlene sammen; Stokroser stode paa Vagt udenfor D&#x00F8;rene.</p>
+<p>Et r&#x00E6;dsomt Skrig fort&#x00E6;ller, at Kirken tilh&#x00F8;rer Wallonerne og Flammerne. Det tr&#x00E6;nger forst&#x00E6;rket ud igjennem den opbrudte D&#x00F8;r og igjennem det udst&#x00F8;dte Chorvindue, hvorfra Katharinas Brudgom, med sin Brud i den ene Arm, har nedstyrtet Alonzos Landsmand. Han viser sig der i samme &#x00D8;jeblik som Wallonerne mylre indigjennem D&#x00F8;ren.</p>
+<p>Takket v&#x00E6;re Fortvivlelsens Kr&#x00E6;fter og sikkre Trin! takket den gamle Vedbendes Arm! Den bar Bruden ned ved hendes Elskers Bryst. Alonzo har seet hende i Vinduet og da hun fra R&#x00E6;dselsstedet ilede ind i sin Faders, Pr&#x00E6;stens, Huus, dette der ved Siden af Kirken, det &#x00E6;rv&#x00E6;rdigste af dem alle, med de lyseste venligste Vindver, med den yndigste Blomsterhave udenfor, med den t&#x00E6;tteste Efev over Taget, hvorfra allerede Flammerne slaae ud.</p>
+<p>Alonzo de Tobar, Maleren, har seet Landsbyens, Provindsens, Nederlandenes Vidunder. &#x00AB;Katharina,&#x00BB; mumler han &#x2013; og der kommer Liv i Rytterens nedb&#x00F8;jede Skikkelse &#x2013; &#x00AB;jeg har seet Katharina, min Katharina, ikke Murillos&#x0027;, og dog skj&#x00F8;n som hans. Ha, det var Murillos&#x0027; Katharina forklaret! Hendes m&#x00F8;rke &#x00D8;jne ere blevne serafiske blaae, hendes Skabning meer gjennemsigtig, hendes Farve af en meer stjerneagtig Hvidhed; Aasyn, Udtryk endnu meer aandiggjort. Ha, Alonzo de Tobars &#x00AB;Katharina&#x00BB; skal overgaae Murillos&#x0027; som en Engel overgaaer det herligste Menneske!&#x00BB;</p>
+<p>Alonzo er sprungen af Hesten. Han f&#x00F8;lger Jomfruen, der, med udstrakte Arme, som korsf&#x00E6;stet, stormer imod sin Faders D&#x00F8;r. &#x00AB;O milagro de Dios!&#x00BB; En graahaaret Mand, som, med Jubel i &#x00D8;jet, medens Ansigtets Tr&#x00E6;k ikke saa hurtigt kunde give Slip paa sin Forf&#x00E6;rdelse, aabnede D&#x00F8;ren for de Flygtende, og modtog Pigen i sine Arme, raabte jo: &#x00AB;Katharina! O Gud v&#x00E6;re lovet!&#x00BB;</p>
+<p>&#x00AB;Hun er en Katharina, og en Brud. Brudekrandsen flagrede fra hendes Lokker. O milagro de Dios! Det er et Vink fra Himlen.&#x00BB;</p>
+<p>Spaniolen er standset ved D&#x00F8;ren. Han h&#x00F8;rer Psalmesang indenfore, og en Stemme derimellem som en himmelsk Harpes. &#x00AB;Himlen er barmhjertig; Alonzo de Tobar skal ogsaa blive Spaniens Stolthed, Kastiliens Malerfyrste, som den store Murillos er Andalusiens og Sevillas. Jeg har seet Murillos&#x0027; Katharinas S&#x00F8;stersjel. Gud har seet Murillos&#x0027; Katharina og skabt i hendes Billede en anden for Alonzo de Tobar.</p>
+<p>Alonzo stormer rasende mod D&#x00F8;ren. &#x00AB;Ayuden los angelos! Vanvittige, ville I ikke frelses? Taget br&#x00E6;nder, Taarnet raver, Flammerne drive Wallonerne foran sig ud af Kirken og hid, hid! De ere frygteligere end Flammerne.&#x00BB;</p>
+<p>Derindenfor kn&#x00E6;lede Pr&#x00E6;sten, den &#x00E6;rv&#x00E6;rdige Adrian, med Bibelen opstrakt i de zittrende H&#x00E6;nder; ved hans Side hans trofaste Margaretha og omkring dem f&#x00F8;rst Familiens Stolthed Bruden Katharina, der ilsomt havde fundet sin Plads: med den ene Arm om Moderens Hals, med den anden om sin Brudgoms, Johans, den blomstrende Yngling; saa den fromme, nonneagtige Narcissa, med den fine Stribe af R&#x00F8;dt paa de d&#x00F8;dblege Kinder, Hun, hvis Elsker var falden i Leydenernes heltemodige Udfald; saa Hyacinth, den smukke, blaa&#x00F8;jede Dreng, og S&#x00F8;steren, den slanke, fine Elisabeth; den lille Benjamin og Tvillings&#x00F8;steren Anna, &#x00AB;Anna liden,&#x00BB; med Hovederne i Moderens Skj&#x00F8;d og bed&#x00E6;kkede af Barnepigen, den gamle trofaste Magdalena; og saa l&#x00E6;ngst borte, n&#x00E6;sten udenfor Kredsen, den &#x00E6;ldste Datter Klara, hvis s&#x00F8;rgelige Lidenskab for en fiendtlig Kriger &#x2013; maaskee Narcissas Trolovedes Banemand &#x2013; havde overgydt hendes Ansigt med en Bleghed, som dog vakte mindre Familiens Medlidenhed, end man skulde troet hos disse saa milde og gode Mennesker.</p>
+<p>&#x00AB;Ayuden los santos! De komme!&#x00BB; larmer Alonzo udenfor. &#x00AB;Afvejen! Huset tilh&#x00F8;rer mig.&#x00BB; En enkelt Pallask h&#x00F8;res imod mange. &#x00AB;De komme!&#x00BB; raaber Johan, ilende mod D&#x00F8;ren. &#x00AB;Paa Kn&#x00E6;!&#x00BB; befaler den Gamle. &#x00AB;Gud alene kan redde.&#x00BB; Og Kredsen slutter sig n&#x00E6;rmere sammen. &#x00AB;Frels os! Wallonerne &#x2026;&#x00BB; hviner Narcissa med H&#x00E6;nderne for &#x00D8;jnene. &#x00AB;Vi ville blive frelste!&#x00BB; raaber Klara med et Skj&#x00E6;r af R&#x00F8;dme paa Kinderne; thi hun syntes at have h&#x00F8;rt sin Spaniers Stemme. &#x00AB;Ja, vi ville blive frelste&#x00BB; &#x2013; jamrer Faderen h&#x00E6;ndervridende &#x2013; &#x00AB;Gud v&#x00E6;re os naadig! Kom, Klara, mit Barn! Alt er tilgivet. Gud v&#x00E6;re lovet! Vi ville blive frelste. Thi Flammerne naae os f&#x00F8;r de R&#x00E6;dsomme &#x2013; &#x2013;&#x00BB;</p>
+<p>Luerne rulle ovenover i store B&#x00F8;lger, Bjelker fra den br&#x00E6;ndende Kirke falde over Huset, ryste det i dets Grundvold, og st&#x00F8;de Ilden Aabninger, hvor de kunne gribe ind.</p>
+<p>&#x00AB;Herind! Herind, Kamerader! La doncella aqui!&#x00BB; Alonzos Landsmand, som jublede om Helvedes Paradiis, da han saae ned i den qvindefyldte Kirke, har spr&#x00E6;ngt D&#x00F8;ren. &#x00AB;Abajo los hereticos!&#x00BB; Wallonerne styrte ind; Flammerne fra den anden Side. Alonzo har ikke kunnet standse dem. &#x00AB;Det er ham!&#x00BB; skriger Klara, omfavnende hans Been. Han st&#x00F8;der hende v&#x00E6;k grusomt som han engang gjorde, og griber, kj&#x00E6;mpende med sin vilde Landsmand, efter Katharina, der tr&#x00E6;kkes af sin Fader og sin Brudgom mod den anden Side, mod Flammerne. I samme Sekund &#x2013; &#x2013; &#x2013;</p>
+<p>&#x2013; I samme Sekund&#x2026;</p>
+<p>Gud! Himmel! hvad er skeet?</p>
+<p>Kirkens Taarn er styrtet over Huset, gjennem dets n&#x00E6;sten gjennembr&#x00E6;ndte Tag. Alt er begravet: Alonzos Landsmand, der i rasende Begj&#x00E6;r var sprungen midt ind i Kredsen af de Kn&#x00E6;lende, Katharina og hendes Brudgom, Moderen, Klara og de &#x00F8;vrige B&#x00F8;rn og Tyendet, Alle undtagen Faderen og Alonzo, der hver paa sin Side befandt sig l&#x00E6;ngst udenfor det Sted, hvor Indstyrtningen skede. Men Katharina var ikke l&#x00E6;nger imellem dem. Ve, Ingen af dem har Katharina!</p>
+<p>Det var en skr&#x00E6;kkelig Sekund, og dog var den foregaaende, da de vilde Krigere viste sig i D&#x00F8;ren r&#x00E6;dsommere.</p>
+<p>Langt bort vare de to Reddede slyngede. Lykken er Ulykkens Luner. Adrian vaagner. Det var Nat. Wallonernes V&#x00E6;rk var fuldendt: Intet tilbage af Byen. Kun den af Nattekulden nedslaaede R&#x00F8;g laae som en blaahvid Sj&#x00F8; over Tomterne. En m&#x00F8;rk Skikkelse b&#x00F8;jer sig over den Gamle. Han kjender Spanieren paa Hjelmfjederen, og tr&#x00E6;kker gysende Vaabenkappen, som Denne af Medlidenhed har bredt over ham, over Hovedet. Stjernerne blikkede roligen ned, somom Intet var passeret, og Fr&#x00F8;erne sang i Kanalen, der sneg sig langsomt hen gjennem Sletten. Kun Storkene syntes at s&#x00F8;rge; thi de stode sammenflokkede ved Bredden med Hovederne under Vingerne. Ogsaa deres Reder vare br&#x00E6;ndte.</p>
+<p>Om en Time dagede det alt. Storkene ere alt fl&#x00F8;jne, da Spanieren ryster Adrian vaagen af en S&#x00F8;vn, der lignede D&#x00F8;den saameget, at den ikke engang aandede. &#x00AB;Var Hun din Datter, Gamle?&#x00BB; sp&#x00F8;rger Alonzo med huul Stemme.</p>
+<p>&#x00AB;Hvem?&#x00BB;</p>
+<p>&#x00AB;Hun, Gamle! la querida del cielo! Du saae det, og maa forstaae mig.&#x00BB;</p>
+<p>&#x00AB;Jeg havde fem: Klara og Katharina og&#x2026;&#x00BB;</p>
+<p>&#x00AB;Katharina; ingen Anden mener jeg. O mea caritta!&#x00BB;</p>
+<p>Den Gamle leer ham op i &#x00D8;jnene.</p>
+<p>&#x00AB;Madonna! Han er vanvittig. Gamle, Gamle, saa saml dog dine Tanker.&#x00BB;</p>
+<p>Adrian leer endnu voldsommere. Krigeren gyser.</p>
+<p>&#x00AB;Var hun det ikke, var du ikke hendes Fader, men kun den kjetterske Pr&#x00E6;st, som skulde vanhelliget hendes Hoved med din Velsignelse, jeg kunde sl&#x00E6;nge dig ind i den gl&#x00F8;dende Aske; og det vilde v&#x00E6;re en Barmhjertighed.&#x00BB;</p>
+<p>Den Vanvittige stirrer paa ham, og kryber sammen.</p>
+<p>&#x00AB;Ve mig!&#x00BB; mumler Alonzo. &#x00AB;Jeg har mistet mit Ideal, som skulde have ladet Alonzo de Tobar overgaae Esteban Murillos. Men varer en guddommelig Aabenbarelse l&#x00E6;nger? Jeg vil ile tilbage til Spanien, og i et Kloster bede Himlen at gjengive mig hendes Billede i Erindringen.&#x00BB;</p>
+<p>Den Gamle stirrer endnu, efterat Krigeren forl&#x00E6;ngst er borte &#x2013; Han, der iler som rasende over Sletten, og som vilde blive h&#x00E6;ngt med alle sine &#x00E6;rgjerrige Malerplaner, om han st&#x00F8;dte paa Eskadronen, hiin m&#x00F8;rke Linje, der bev&#x00E6;ger sig hist henne under Horizonten som Skyggen af en Sky.</p>
+<p>Ha, der opdage de ham. Eskadronen spreder sig. Jagten begynder efter en Eftern&#x00F8;ler og Desert&#x00F8;r. Men den trofaste kloge Hest, som s&#x00F8;gte og fandt sin Herre, tager T&#x00F8;jlerne til sig for ogsaa at frelse ham; og saaledes undviger Alonzo Michael Tobar, han, der blev den store Bartolomeo Esteban Murillos&#x0027; heldigste Efterligner. Men det V&#x00E6;rk, som giver ham en Plads imellem Spaniens Malere er en &#x00AB;Santa Katharinas Trolovelse&#x00BB;, hvori han er original, og som tvister med Murillos&#x0027; verdensber&#x00F8;mte om Palmen, samt en &#x00AB;Familie&#x00BB;, der ikke giver Velasquez&#x0027;es meget efter. Idetmindste har den alle de s&#x00F8;de Ansigter i Adrians Familie.</p>
+<p>Men hvem kjender Alonzo de Tobar? Hvem kjender engang Spaniens Storhed, Spaniens geniale Storhed, som det besidder fordi det har vidst at bevare sin nationale Individualitet? Verden kjender kun Storheden af dets Ulykker.</p>
+</div>
+<div type="chapter" n="4">
+<head><ref type="contents" target="contents_4" xml:id="chapter_4">III. GAMLE ADRIANS BLOMSTERBED</ref></head>
+<p>Aar ere rundne. Der staaer en Hytte, hvor Pr&#x00E6;steboligen stod. Eensom staaer den der uden Naboer. Omstreifende Medlemmer af de Faa af Menigheden, som fik flygte, have bygget den for sin gamle Pr&#x00E6;st, som de fandt imellem Ruinerne.</p>
+<p>Det er en smuk Foraarsdag. Solen skinnede ogsaa hjerteligt og fromt hiin Dag da Wallonerne &#x00F8;delagde Landsbyen. Gamle Adrian sysler udenfor Hytten, saaende og plantende i den askeblandede Jord. Han veed, det er Pletten, thi han har fundet sin Margarethas F&#x00E6;stensring der og et Skud af hendes Syringe udenfor Vinduet, hvorunder hun pleiede at sidde med sine B&#x00F8;rn. Han har alt faaet Liv i det; og nu saaer og planter han rundtomkring det, mumlende: &#x00AB;Gud vil give sin Velsignelse, Gud vil give sin Velsignelse.&#x00BB; Fremmede gik mange Gange forbi og loe og sagde: &#x00AB;hvormange har det ikke br&#x00E6;ndt for uden at de ere blevne gale?&#x00BB;</p>
+<p>Men hvem skulde troe, at den gamle Gartner, som graver saa ivrigt og dog afmaalt, som passer saa n&#x00F8;je at vande og bed&#x00E6;kke sine Planter, som sysler saa vever i sit Bed, skulde v&#x00E6;re afsindig? &#x2013; Hans Haar var vel hvidere, men glat og skinnende som f&#x00F8;r, hans Kinder r&#x00F8;dere, hans &#x00D8;jne klarere og ildigere. Og han kunde lee for sig selv, gnidende H&#x00E6;nderne af inderlig Forn&#x00F8;jelse, naar han opdagede et Skud, et Blad mere paa sine kj&#x00E6;re Planter. Da mumlede han: &#x00AB;Gud vil give sin Velsignelse!&#x00BB; og han b&#x00F8;jede sig, korsede, og hviskede den hellige Velsignelse over dem.</p>
+<p>Det leed om lidt. Syringen skj&#x00F8;d. Alting blomstrede omkring den. Holland, Floras Yndlingsbund, havde aldrig baaret saadanne Vidundere af Fuldkommenhed og Skj&#x00F8;nhed. Det var en Sommeraften efter en mild Regn. Enkelte Draaber laae tunge og fulde igjen paa Bladene. Med sittrende L&#x00E6;ber sad den Gamle over sin blomstrende Skat.</p>
+<lg>
+<l>&#x2013; &#x2013;</l>
+<l>&#x00AB;O min Sjel, o v&#x00E6;r nu st&#x00E6;rk!</l>
+<l>B&#x00E6;r Vorherres Underv&#x00E6;rk!</l>
+<l>D&#x00F8; ej, Hjerte, som maa standse,</l>
+<l>at min Aand kan bedre sandse,</l>
+<l>at, i Lytten til dets Banken,</l>
+<l>ikke den forvilder Tanken!</l>
+<l>D&#x00F8;v mig ikke, om du daarer,</l>
+<l>om du tryller og beruser,</l>
+<l>du Henrykkelsens Musik,</l>
+<l>som i mine &#x00D8;ren suser!</l>
+<l>S&#x00F8;de Graad, ei blind mit Blik!</l>
+<l>Lad mig see med disse Taarer,</l>
+<l>som med tusind &#x00D8;jne klart,</l>
+<l>som med alle Stjerners Fakler,</l>
+<l>det Mirakel af Mirakler,</l>
+<l>som er bleven aabenbart!</l>
+</lg>
+<lg>
+<l>Ve det Vanvid, ve mig Stakkel,</l>
+<l>ve mig meer end &#x00D8;jeblinde,</l>
+<l>tvivlte jeg om Guds Mirakel!</l>
+<l>Slaaer vel Solen i sin Glands,</l>
+<l>h&#x00F8;jest paa sin Middagstinde,</l>
+<l>klart som <emph>Dette</emph> Syn og Sands?</l>
+<l>Maa mod Klippen knuste Pande</l>
+<l>saa dens haarde Tilv&#x00E6;r sande?</l>
+<l>F&#x00F8;ler Moderen saa sandt</l>
+<l>af sin vellystfulde Smerte</l>
+<l>Livet af sit Elskovspant?</l>
+<l>Elskeren, at det er Hende,</l>
+<l>Hende kun, den Sukbegjerte,</l>
+<l>paa hvis Mund hans L&#x00E6;ber br&#x00E6;nde?</l>
+</lg>
+<lg>
+<l>Naaden, dette milde Hjerte</l>
+<l>i trefoldig Guddoms Aand,</l>
+<l>st&#x00F8;rre Under gj&#x00F8;r paa Under</l>
+<l>med hans Almagts venstre Haand,</l>
+<l>end i Dr&#x00F8;m selv Englen blunder,</l>
+<l>mens hans Viisdom, forat maale</l>
+<l>Dybets Dyb og Fjernets Fjerne,</l>
+<l>forat styre vilden Stjerne</l>
+<l>strengt og stramt med Solens Straale,</l>
+<l>for Kometerne at t&#x00F8;jre,</l>
+<l>lede Alt saa regelret,</l>
+<l>at selv Ormen fatter det,</l>
+<l>kun har Brugen af den H&#x00F8;jre.</l>
+</lg>
+<lg>
+<l>O hvo pr&#x00F8;vte Almagts Styrke?</l>
+<l>Og hvo saae til Viisdoms Tinde,</l>
+<l>til det Lys, af Soles M&#x00F8;rke</l>
+<l>og af Stjerners Mulm ern&#x00E6;rt,</l>
+<l>hvori Englene er&#x0027; blinde,</l>
+<l>hvori Tanken blier fort&#x00E6;rt?</l>
+</lg>
+<lg>
+<l>Mennesket i Brystets Hule</l>
+<l>kan sit eget Hjerte skjule, &#x2013;</l>
+<l>Hvo har i Algodheds seet?</l>
+<l>Hvo Barmhjertighedens Skj&#x00F8;d,</l>
+<l>hvor Undfangelsen er skeet</l>
+<l>til det Under, som er f&#x00F8;d?</l>
+<l>F&#x00F8;des ei i helligt L&#x00F8;n</l>
+<l>St&#x00F8;vets Barn og Syndens S&#x00F8;n?</l>
+<l>O hvo turde da vel see</l>
+<l>Naaden i dens F&#x00F8;dselsvee,</l>
+<l>i den Stund, af Almagt svanger,</l>
+<l>da Guds Kj&#x00E6;rlighed undfanger</l>
+<l>Underet, den lader skee?</l>
+</lg>
+<lg>
+<l>Jeg har seet det! O Margrethe,</l>
+<l>hvilke Undre ere skete!</l>
+<l>Gud ske Lov for Sands og Sind!</l>
+<l>Gud ske Lov jeg er ei blind,</l>
+<l>som min gudsforgangne Klage,</l>
+<l>der var blindere end Steen,</l>
+<l>dj&#x00E6;rvere end Hjobs i St&#x00F8;vet.</l>
+<l>Alt er kommet jo tilbage,</l>
+<l>Alting som i gamle Dage,</l>
+<l>Alt igjen som Foraarsl&#x00F8;vet;</l>
+<l>Ingen fattes; ikke Een.</l>
+<l>Gud i disse Blomstre givet</l>
+<l>atter har jer Alle Livet.</l>
+<l>Gud har eders Sjeles Blod</l>
+<l>gydt i disse Planters Rod,</l>
+<l>saa jeg hvert Lineament</l>
+<l>seer i Blomsten velbekjendt,</l>
+<l>h&#x00F8;rer elskte Hjerters Banken,</l>
+<l>f&#x00F8;ler Pulsen, l&#x00E6;ser Tanken,</l>
+<l>seer bekjendte &#x00D8;jnes Straaler</l>
+<l>i de fine Blomsterskaaler</l>
+<l>klart som nogensinde f&#x00F8;r.</l>
+<l>Ja, hvad Under Gud dog gj&#x00F8;r!</l>
+<l>Tidens s&#x00F8;nderbrudte Krands</l>
+<l>har han atter sammenbunden:</l>
+<l>smigrende som Ammemunden</l>
+<l>hvisker til min vakte Sands</l>
+<l>gamle Dage ved mit &#x00D8;re.</l>
+<l>O hvad Toner faaer jeg h&#x00F8;re!</l>
+<l>Margarethas Stemme leer</l>
+<l>blidt som forhen under Grenen,</l>
+<l>den som rasler paa Syrenen;</l>
+<l>Blomstens fine Violet,</l>
+<l>Blaat og R&#x00F8;dt i Hvidhed badet,</l>
+<l>endnu d&#x00E6;mpet meer bag Bladet,</l>
+<l>er &#x2013; o t&#x00F8;r jeg l&#x00F8;fte det?</l>
+<l>t&#x00F8;r et Underv&#x00E6;rk jeg granske? &#x2013;</l>
+<l>jo grangiveligt og ganske</l>
+<l>hendes Sl&#x00F8;jfes egen Let,</l>
+<l>som hun sad der dagligdags,</l>
+<l>med det fromme Hoved b&#x00F8;jet,</l>
+<l>over S&#x00F8;m og Strikket&#x00F8;jet,</l>
+<l>syslende med Alleslags.</l>
+</lg>
+<lg>
+<l>Jeg var meer end blind, om ei</l>
+<l>jeg min Annalidens &#x00D8;je</l>
+<l>flux gjenkjendte grant og n&#x00F8;je</l>
+<l>her i denne Glemmigej.</l>
+<l>Ak, jo meer jeg seer paa den,</l>
+<l>kjender jeg mit Barn igjen,</l>
+<l>skilner jeg grangivelig</l>
+<l>min fra andre Glemmigejer.</l>
+<l>Gud, mit Barn, velsigne dig,</l>
+<l>Du har slynget, som du plejer,</l>
+<l>Armen om din Tvillingbroer:</l>
+<l>Rosenknoppen der, som groer</l>
+<l>Glemmigejen min ved Siden:</l>
+<l>Benjamin og Annaliden &#x2026;</l>
+</lg>
+<lg>
+<l>Over Begge med den rene,</l>
+<l>fulde, s&#x00F8;lvertunge Draabe,</l>
+<l>har et Fl&#x00F8;jelsblad sig lagt.</l>
+<l>Det er gamle Magdalene</l>
+<l>med sin Graad og med sin Kaabe,</l>
+<l>paa sin &#x00F8;mme Ammevagt.</l>
+</lg>
+<lg>
+<l>Og mit Syn er ej saa blindt,</l>
+<l>at det kjender ej min egen</l>
+<l>Elsklingsdreng, min Hyacinth,</l>
+<l>frem i Hyacinthen stegen.</l>
+<l>Hvor var slig en Dreng blandt Drenge,</l>
+<l>slank og sv&#x00E6;rmerisk og from?</l>
+<l>Hvor er slig Vidunderblom</l>
+<l>i alt Hollands Blomstersenge?</l>
+<l>O jeg seer i denne fine</l>
+<l>amethystne Kalk den &#x00F8;mme</l>
+<l>sv&#x00E6;rmeriske Josefsmine,</l>
+<l>hvormed han fortalte Dr&#x00F8;mme.</l>
+<l>Og naar Dr&#x00F8;mmen saa var ude,</l>
+<l>Hovedet Fantasten b&#x00F8;jed,</l>
+<l>blegnede og nedslog &#x00D8;jet,</l>
+<l>som de fuldtudsprungne af</l>
+<l>Hyacinthens Blomstre lude,</l>
+<l>naar de f&#x00F8;rste Duft udgav.</l>
+</lg>
+<lg>
+<l>Favreste Konvolvel, fiin</l>
+<l>som en Serafs Aandedr&#x00E6;t,</l>
+<l>fanget af en Cherubin</l>
+<l>i et Blomsters Maskenet,</l>
+<l>i en d&#x00F8;d Blaaklokkes Liin,</l>
+<l>du er min Elisabeth,</l>
+<l>Hyacinths Tilh&#x00F8;rerinde,</l>
+<l>som ham kunde bedst forstaae,</l>
+<l>med de store &#x00D8;jne blaae</l>
+<l>af sin Tro aldeles blinde.</l>
+</lg>
+<lg>
+<l>Kjendte jeg mit Barn, mit bedste,</l>
+<l>havde jeg en Faders Hjerte,</l>
+<l>om jeg ej Narcissas Smerte</l>
+<l>her i Pintseliljen l&#x00E6;ste?</l>
+<l>om jeg ikke meer forstod</l>
+<l>hvorfor hun er uden Blod,</l>
+<l>paa hiint skarpe Purpurskj&#x00E6;r,</l>
+<l>paa hiint sikkre Flammebilled,</l>
+<l>af den F&#x00E6;stensring, som br&#x00F8;des</l>
+<l>kun af D&#x00F8;den, som den D&#x00F8;des,</l>
+<l>som paa hendes Kinder spilled,</l>
+<l>paa den hede Draabe n&#x00E6;r,</l>
+<l>som jeg angest saae paa Kinden</l>
+<l>i Fremtindren og Forsvinden?</l>
+<l>Ve, sin Stribe af Karmin,</l>
+<l>Arret efter Smertens Bid,</l>
+<l>D&#x00F8;dens Judaskys indsvi&#x0027;d,</l>
+<l>b&#x00E6;rer endnu hendes Kind!</l>
+<l>Stjernen er ej hvid som denne,</l>
+<l>syge Perle ei saa bleg</l>
+<l>(Liljen, som af Mulden steg,</l>
+<l>er jo vistnok ogsaa Hende),</l>
+<l>Dybets Gl&#x00F8;d, Korallens Brand,</l>
+<l>solskinm&#x00E6;ttede Rubin</l>
+<l>tindrer ej saa hedt som hiin.</l>
+</lg>
+<lg>
+<l>Ve, om efter disse M&#x00E6;rker,</l>
+<l>som hvert &#x00D8;jekast forst&#x00E6;rker,</l>
+<l>om jeg da med grum Forstand,</l>
+<l>med en Ravnefaders Vilje,</l>
+<l>med et indbildt Blik, som al</l>
+<l>Gl&#x00E6;de fra sig selv bestjal,</l>
+<l>kunde skilne mellem disse,</l>
+<l>mellem denne Pintselilje</l>
+<l>og min d&#x00F8;ende Narcisse!</l>
+</lg>
+<lg>
+<l>O hvad Jubelfryd opdager</l>
+<l>jeg til denne Time spart!</l>
+<l>S&#x00F8;de &#x00D8;jeblik, der bruge</l>
+<l>Tiden kun af Pilens Fart,</l>
+<l>af et Glimt fra Solens &#x00D8;je,</l>
+<l>for den hele Gift at suge,</l>
+<l>for det Bittre at ford&#x00F8;je</l>
+<l>af saamange Dages Klager,</l>
+<l>af saamange smertebulne,</l>
+<l>jammerfulde, taaresvullne</l>
+<l>Nattetimers vaagne Vee!</l>
+<l>Lever jeg? Er bristef&#x00E6;rdigt</l>
+<l>Olding&#x00F8;je bleven v&#x00E6;rdigt,</l>
+<l>til sin Salighed at see</l>
+<l>saa fuldst&#x00E6;ndigt aabenbaret,</l>
+<l>f&#x00F8;r velsignet D&#x00F8;d har klaret</l>
+<l>med sit Pust hans &#x00D8;jesteen?</l>
+<l>Se der mangler ikke Een!</l>
+<l>Der i Rosen ved sin Rose,</l>
+<l>se, der er jo Brudeparret</l>
+<l>Katharina og Johan!</l>
+<l>Kj&#x00E6;rligheds Apotheose,</l>
+<l>Katharina og Johan!</l>
+<l>Begge i hinanden tabte,</l>
+<l>i hinandens Billed skabte,</l>
+<l>vexle deres Hjerter Slag</l>
+<l>under Taarers Sammenblanden,</l>
+<l>i et evigt Favnetag,</l>
+<l>vexle deres &#x00D8;jne Lys,</l>
+<l>t&#x00E6;nde Straaler i hinanden,</l>
+<l>vexler L&#x00E6;ben Saligheder,</l>
+<l>h&#x00F8;je, endskj&#x00F8;ndt tause, Eeder</l>
+<l>i de endel&#x00F8;se Kys.</l>
+</lg>
+<lg>
+<l>Salig er jo Bryllupsstunden,</l>
+<l>slugt af Flammen, gjenoprunden?</l>
+<l>Himmelnaadens milde Graad</l>
+<l>gjorde Asken frugtbarvaad,</l>
+<l>mine egne Taarers Kr&#x00E6;fter</l>
+<l>dugged t&#x00E6;t og lunkent efter,</l>
+<l>hede St&#x00F8;nnen af min Vaande,</l>
+<l>mine B&#x00F8;nners varme Aande</l>
+<l>lokked da fra Buskens Skud</l>
+<l>begge mine Roser ud:</l>
+<l>Katharina og Johan,</l>
+<l>begge disse sammenb&#x00F8;jde,</l>
+<l>i hinanden saa forn&#x00F8;jde,</l>
+<l>morgenr&#x00F8;de, morgenfriske</l>
+<l>Roser, som isammen hviske &#x2013;</l>
+<l>Katharina og Johan.</l>
+</lg>
+<lg>
+<l>Mig im&#x00F8;de, som fra Bunden</l>
+<l>af to gyldne Trylleskaaler,</l>
+<l>fra de dybe Roser straaler</l>
+<l>deres fagre ungdomshulde</l>
+<l>Aasyns Tr&#x00E6;k saa frydefulde.</l>
+<l>Thi for dem er Bryllupsstunden,</l>
+<l>den som Flammerne fort&#x00E6;rte,</l>
+<l>atter salig gjenoprunden,</l>
+<l>Hjerte knyttende til Hjerte,</l>
+<l>Katharina til Johan.</l>
+<l>Thi ved Himlens Under kan</l>
+<l>nu i Fred jeg gamle Hyrde</l>
+<l>deres Vielse fuldbyrde,</l>
+<l>afbrudt paa hiin R&#x00E6;dselsdag,</l>
+<l>ende saa i Ro og Mag</l>
+<l>Brudetalen, som de vilde</l>
+<l>r&#x00E6;dsomme Walloners Magt</l>
+<l>havde Hjerte til at spilde</l>
+<l>f&#x00F8;r Velsignelsen blev sagt.</l>
+</lg>
+<lg>
+<l>Nu jeg frit, med Haand paalagt,</l>
+<l>Guds Velsignelse nedbeder,</l>
+<l>Himlens V&#x00E6;ld af Saligheder,</l>
+<l>Brud og Brudgom, over Eder:</l>
+<l>Herre, sign du og bevar</l>
+<l>dette Rosenbrudepar!</l>
+<l>Herre, lys dit Aasyn over</l>
+<l>Yndighed, som sig trolover!</l>
+<l>Herre, l&#x00F8;ft dit Aasyns Glands</l>
+<l>over Fromheds Brudekrands!</l>
+<l>Herren give dig sin Fred,</l>
+<l>elskende Uskyldighed!</l>
+</lg>
+<lg>
+<l>O Henrykkelses Sekund,</l>
+<l>Saligheders F&#x00F8;dselsstund!</l>
+<l>du er altfor tung af Gl&#x00E6;de</l>
+<l>til at flye saa flygtig hen,</l>
+<l>som de andre duungraae, lette,</l>
+<l>farvel&#x00F8;se Solgransstunder,</l>
+<l>Skjebnens Pust mod D&#x00F8;den hvifter</l>
+<l>henad Livets &#x00D8;rkenslette; &#x2013;</l>
+<l>du demantne af Sekunder,</l>
+<l>som er engang allerede</l>
+<l>kommen himmelsendt igjen,</l>
+<l>ej saa trol&#x00F8;st og saa let,</l>
+<l>som de andre dig omskifter;</l>
+<l>du maa frydbel&#x00E6;sset dv&#x00E6;le</l>
+<l>til mit Hjerte vinder M&#x00E6;le,</l>
+<l>til det mestre kan sin Tanke,</l>
+<l>til det engang bliver tr&#x00E6;t</l>
+<l>af saa maall&#x00F8;st, st&#x00E6;rkt at banke,</l>
+<l>til det engang bliver m&#x00E6;t</l>
+<l>af den s&#x00F8;de Fryd at gr&#x00E6;de,</l>
+<l>medens mine L&#x00E6;ber juble,</l>
+<l>medens &#x00D8;jet straaler, medens</l>
+<l>brudte, vilde Ord (og dog</l>
+<l>skj&#x00F8;nne som af Salighedens</l>
+<l>ubekjendte Himmelsprog)</l>
+<l>st&#x00F8;dende paa Tungen snuble,</l>
+<l>somom ikke jeg var klog.</l>
+</lg>
+<lg>
+<l>O det er somom en stille</l>
+<l>lummer Regn faldt i mit Hjerte,</l>
+<l>somom Knuden af min Smerte,</l>
+<l>Dryppestenen af min Vee,</l>
+<l>Sorgkrystallen i mit Sind,</l>
+<l>opl&#x00F8;st i Velsignelse,</l>
+<l>ud i denne Graad maa trille</l>
+<l>over hele vide Jorden,</l>
+<l>hyllende dens Bjerge ind</l>
+<l>i en skabningssvanger Sky,</l>
+<l>i sit lunkne Mulms Neddignen</l>
+<l>svangrende den med Velsignen,</l>
+<l>til en frydfuld, skyldl&#x00F8;s Vorden</l>
+<l>svangrende dens Dyb paany.</l>
+</lg>
+<lg>
+<l>O hvor har jeg nok af M&#x00E6;le,</l>
+<l>for at tale ud min Lyst?</l>
+<l>nok af Hv&#x00E6;lving i mit Bryst,</l>
+<l>nok af Luft, af Rum, af Lyd,</l>
+<l>&#x00F8;mme, zittrende og h&#x00F8;je,</l>
+<l>for i Toner at besjele</l>
+<l>denne Overlast af Fryd?</l>
+<l>nok af Spejle i mit &#x00D8;je</l>
+<l>forat fange op det Hele?</l>
+<l>nok af Sandser for at nemme?</l>
+<l>nok Erindring for at gjemme?</l>
+<l>nok af Tanker for at fatte?</l>
+<l>nok af st&#x00E6;rke Nervestrenge</l>
+<l>for at b&#x00E6;re Gl&#x00E6;den l&#x00E6;nge?</l>
+<l>nok af Hjerte for at dele</l>
+<l>&#x00D8;mhed nok til mine Skatte:</l>
+<l>til Margretha, til de tvende</l>
+<l>Smaa, som smile n&#x00E6;st ved hende,</l>
+<l>til Narcissa min, som skranter,</l>
+<l>Hyacinth med Dr&#x00F8;mmermine,</l>
+<l>troende Elisabeth,</l>
+<l>aldrig af hans Undre m&#x00E6;t,</l>
+<l>til min Stolthed, Katharine,</l>
+<l>til de dyrebare Panter,</l>
+<l>Himlen atter mig betro&#x0027;ede</l>
+<l>frem i disse Blomster groede,</l>
+<l>disse der, min egen &#x00C6;t?</l>
+</lg>
+<lg>
+<l>Ve mit Ravnefaderhjertes</l>
+<l>sl&#x00F8;ve mosbegroede Steen!</l>
+<l>Jeg har kunnet glemme Een</l>
+<l>af mit eget Kj&#x00F8;d og Been:</l>
+<l>stakkels Klaras D&#x00F8;dningsmertes</l>
+<l>blege Billede i denne</l>
+<l>hvide Rose, som er Hende,</l>
+<l>hende Selv. Se Blusel kj&#x00E6;mper</l>
+<l>end paa Kinden jo som f&#x00F8;r</l>
+<l>i det R&#x00F8;dmende, som d&#x00F8;er,</l>
+<l>som med Bleghed Smerten d&#x00E6;mper,</l>
+<l>med de dunkelhvide Emmer</l>
+<l>af en nedbr&#x00E6;ndt Lidenskab,</l>
+<l>Kalkest&#x00F8;vet af Ruinen,</l>
+<l>som hun under Blidhedsminen</l>
+<l>s&#x00F8;nderknust i Hjertet gjemmer</l>
+<l>af sin Freds og Uskylds Tab!</l>
+</lg>
+<lg>
+<l>O mit Barn, se til din Fa&#x0027;r!</l>
+<l>Rose hvid, som Klara var!</l>
+<l>Han er ikke l&#x00E6;nger vred</l>
+<l>paa din syge Kj&#x00E6;rlighed,</l>
+<l>Han har intet Blik, som rammer</l>
+<l>knusende din knuste Jammer;</l>
+<l>Han har intet &#x00D8;jekast</l>
+<l>for at skj&#x00E6;re hvad der brast;</l>
+<l>Han har kun en Faders Hjerte</l>
+<l>og Velsignelser i Munden</l>
+<l>og en Smerte for din Smerte,</l>
+<l>og et Taaredryp for Vunden,</l>
+<l>Taarer af balsamisk Gl&#x00E6;de;</l>
+<l>thi jeg ogsaa dig har funden:</l>
+<l>Ingen mangler i min Kj&#x00E6;de.</l>
+<l>Alle ere jo tilstede</l>
+<l>saa lyslevende og sande,</l>
+<l>at jeg ikke kan forblande</l>
+<l>Sandheds Syn med Sandheds Skin.</l>
+<l>Thi det sv&#x00E6;rges i min Sjel,</l>
+<l>derpaa mine &#x00D8;jne bande,</l>
+<l>kjendende jer altfor vel:</l>
+<l>Blomsterne ej skulle v&#x00E6;re</l>
+<l>eder blot i Fantasi&#x0027;n,</l>
+<l>eder, mine B&#x00F8;rn og Viv,</l>
+<l>men forvist de Eder ere,</l>
+<l>Eder ja til Sjel og Liv,</l>
+<l>Eder ja i Ansigtstr&#x00E6;k,</l>
+<l>Ejendommelighedssind,</l>
+<l>Karakterens f&#x00F8;dte Mine,</l>
+<l>Smilene, som pr&#x00E6;ge ind</l>
+<l>sine sommerfuglefine</l>
+<l>Spor, idet de flygte v&#x00E6;k.</l>
+</lg>
+<lg>
+<l>Og jeg h&#x00F8;rte eder tale,</l>
+<l>hvis min Sands ei laae i Dvale,</l>
+<l>hvis ej D&#x00F8;dens Gravmos alt</l>
+<l>spirede i &#x00D8;rets Spalt.</l>
+<l>Men hvad mere Sands beh&#x00F8;ves?</l>
+<l>&#x00D8;jet seer, om &#x00D8;ret d&#x00F8;ves,</l>
+<l>Alt er blomstret frem igjen,</l>
+<l>Alting som i gamle Dage: &#x2013;</l>
+<l>dugget til af Himmelen,</l>
+<l>giver Jorden det tilbage,</l>
+<l>Alting som i Bryllupsstunden,</l>
+<l>da min Lykke folded ud</l>
+<l>alle sine Hjerteblade,</l>
+<l>spredende sin Krones Straaler</l>
+<l>mere ud end Himlen taaler,</l>
+<l>da dens modne Blomsterskud</l>
+<l>h&#x00F8;jere mod Sky var runden</l>
+<l>end de Himmelske tillade,</l>
+<l>just i det Moment den brast</l>
+<l>paa den vrede Almagts Bud</l>
+<l>ned med Flammerne i Grunden,</l>
+<l>og foer hen med Gnistens Hast.</l>
+</lg>
+<lg>
+<l>Derfor &#x2013; o er det Sekunden,</l>
+<l>atter nu med Liv begavet,</l>
+<l>frem af Tidens B&#x00E6;ger runden,</l>
+<l>da min frydberuste Lykke</l>
+<l>blev i R&#x00E6;dslerne begravet,</l>
+<l>som i denne sig fornyer?</l>
+<l>Derfor mangle heller ikke</l>
+<l>Flammerne, de r&#x00F8;de Skyer</l>
+<l>fulde af D&#x00E6;moners Blikke,</l>
+<l>bragende af Helveds Latter.</l>
+<l>&#x2026;O der gl&#x00F8;de frem de atter.</l>
+<l>Ve mig! frels!&#x2026; O frelst er Alt,</l>
+<l>siden over er Sekunden,</l>
+<l>da, sig borende i Grunden,</l>
+<l>Taarnet br&#x00E6;ndende nedfaldt.</l>
+</lg>
+<lg>
+<l>Derfor denne Tulipan,</l>
+<l>(&#x00E6;gte &#x00AB;Admiral Enkhuisen&#x00BB;)</l>
+<l>som sit Flammedyb bed&#x00E6;kker</l>
+<l>fuldt med hvide Emmers Flekker,</l>
+<l>ikke er, men kun betyder,</l>
+<l>Huset, da det stod i Brand,</l>
+<l>og den Valmu&#x0027; der, som skyder,</l>
+<l>pralende med Flammer ziret,</l>
+<l>over Bedet, den er Spiret,</l>
+<l>da det svimlede og faldt.</l>
+</lg>
+<lg>
+<l>Denne Zwiebel dunkelr&#x00F8;d,</l>
+<l>(&#x00AB;Admiral van Liefkenshoek&#x00BB;)</l>
+<l>liig en Nat i Luer sat,</l>
+<l>liig et Baal med Nat bemalt,</l>
+<l>D&#x00F8;den livlig, Livet d&#x00F8;d,</l>
+<l>fyrig-kold og kraftig-mat,</l>
+<l>liig en netsl&#x00F8;rt Kj&#x00E6;mpestyrke,</l>
+<l>tryllebundne D&#x00E6;monshu,</l>
+<l>den betyde skal hin m&#x00F8;rke,</l>
+<l>gaadefulde, fromme, vilde,</l>
+<l>barske, milde Spaniol,</l>
+<l>som i R&#x00E6;dselsstundens Nu</l>
+<l>turde sig mod Skaren stille,</l>
+<l>somom Helved han befo&#x0027;l:</l>
+<l>Han med Dommen paa sin Pande</l>
+<l>halvtens ud af Naadens Skrivt</l>
+<l>i et herligt Tr&#x00E6;k udslettet,</l>
+<l>Han med Lidenskabens Brande</l>
+<l>sydende i Smertens Vande,</l>
+<l>med sit Smiil af Kummer m&#x00E6;ttet,</l>
+<l>fuldt af Honning og af Gift.</l>
+</lg>
+<lg>
+<l>Og ved Siden se Uhyret,</l>
+<l>se hans vilde Kammerat,</l>
+<l>se den rasende Soldat</l>
+<l>i en dobbelt, guldbaldyret,</l>
+<l>tiger&#x00F8;jet Fl&#x00F8;jelsblomst &#x2013;</l>
+<l>Han, hvis R&#x00E6;dselsid blev styret</l>
+<l>kun ved D&#x00F8;dens Mellemkomst!</l>
+</lg>
+<lg>
+<l>Disse farel&#x00F8;se Luer,</l>
+<l>denne Flamme, som ei hviner,</l>
+<l>disse R&#x00E6;dsler uden Skr&#x00E6;k,</l>
+<l>denne Blomsterd&#x00E6;mons Tr&#x00E6;k</l>
+<l>jeg med uforsteente Miner,</l>
+<l>uden &#x00D8;jeblinken skuer.</l>
+<l>Ned i Tulipanens Grube,</l>
+<l>ind i denne Kobberkube,</l>
+<l>fuld af vildtforfl&#x00F8;jne Gnister,</l>
+<l>t&#x00F8;r jeg stirre uden Svimlen;</l>
+<l>uden Sortnen for mit &#x00D8;je</l>
+<l>Flammekjedlens Dyb jeg maaler;</l>
+<l>Lueblomsterspirets h&#x00F8;je</l>
+<l>Flugt jeg f&#x00F8;lge t&#x00F8;r mod Himlen,</l>
+<l>vexle Mine kj&#x00E6;k og bister,</l>
+<l>&#x00D8;jekast af &#x00D8;rnemod</l>
+<l>med den fromme Morderengel,</l>
+<l>Spaniolens Sjel, som gl&#x00F8;der</l>
+<l>(dertil Gud ham altfor &#x00F8;mt</l>
+<l>har evindelig ford&#x00F8;mt),</l>
+<l>ud fra denne Zwiebels Stengel</l>
+<l>i den dybe Kalk, der bl&#x00F8;der</l>
+<l>af en Sygdoms sorte Blod.</l>
+</lg>
+<lg>
+<l>Ja, jeg elsker dette Syn,</l>
+<l>hvis Betydning let er gjettet</l>
+<l>uden megen uvis Ahnen:</l>
+<l>Husets Brand i Tulipanen;</l>
+<l>Taarnets (som et sammenflettet</l>
+<l>ifra Dybet opskudt Lyn)</l>
+<l>i Papav&#x0027;rens Knops Skarlag;</l>
+<l>Kirkens eget brede Tag</l>
+<l>i dens Blomsts udslagne Flammer;</l>
+<l>Spaniolens vilde Jammer</l>
+<l>(som han viste sig i D&#x00F8;ren</l>
+<l>blodig, r&#x00E6;dsom, dog kanskee</l>
+<l>forat redde Alle f&#x00F8;rend</l>
+<l>enten Flammens R&#x00E6;dselsd&#x00F8;d</l>
+<l>eller ind hans Landsm&#x00E6;nd br&#x00F8;d)</l>
+<l>i den mystiske, tilflorte,</l>
+<l>krigerr&#x00F8;de, munkesorte</l>
+<l>Pragttulipes aabne B&#x00E6;ger,</l>
+<l>hvori Nat og Flamme leger.</l>
+</lg>
+<lg>
+<l>O jeg elsker disse Syner!</l>
+<l>O jeg seer med Kj&#x00E6;rlighed</l>
+<l>Blomsten, som saa skummelt lyner,</l>
+<l>Farven, som er bleven heed.</l>
+<l>Disse Blomsters skj&#x00F8;nne, tyste</l>
+<l>R&#x00E6;dsler kun mit Minde skr&#x00E6;kke;</l>
+<l>mine &#x00D8;jne de forlyste,</l>
+<l>L&#x00E6;bens d&#x00F8;de Smiil de v&#x00E6;kke.</l>
+<l>Thi de h&#x00F8;re ogsaa med</l>
+<l>til den samme Time jo,</l>
+<l>da hengivnest var min Tro,</l>
+<l>til den samme Time, da</l>
+<l>h&#x00F8;jest var min Salighed,</l>
+<l>da min Sjel var Himlen n&#x00E6;st,</l>
+<l>St&#x00F8;vets Tanker l&#x00E6;ngst ifra,</l>
+<l>lettest under R&#x00E6;dslers Tyngde.</l>
+<l>Thi det var jo just Sekunden,</l>
+<l>da jeg elsked Mine mest,</l>
+<l>da os D&#x00F8;den Alle fandt</l>
+<l>som os R&#x00E6;dslen sammenbandt,</l>
+<l>i hverandre sammenslyng&#x0027;de</l>
+<l>og med Herrens Lov paa Munden,</l>
+<l>uden Knurren deriblandt.</l>
+</lg>
+<lg>
+<l>O hvormed har jeg fortjent</l>
+<l>dit Mirakel, store Gud?</l>
+<l>Skulde &#x2013; o det var ej meent!</l>
+<l>Ormen t&#x00F8;r ej tale ud! &#x2013;</l>
+<l>Skulde, ja, om ej du Selv,</l>
+<l>Du, den Helligste og St&#x00F8;rste,</l>
+<l>fjernere fra Engles F&#x00F8;rste,</l>
+<l>end fra h&#x00F8;jest Himmels Hv&#x00E6;lv</l>
+<l>dybeste af Havets Kilder&#x2026;</l>
+<l>skulde ikke Du, du Selv,</l>
+<l>Du, hvem intet Navn afbilder,</l>
+<l>Du, hvem Verdner Blomster ere,</l>
+<l>Gr&#x00E6;s, som Dybderne maae b&#x00E6;re,</l>
+<l>men kun En af Engles Orden,</l>
+<l>en blandt Aanderne Oph&#x00F8;jet,</l>
+<l>som har V&#x00E6;lde over Jorden,</l>
+<l>have, i din Naade st&#x00E6;rk,</l>
+<l>gjort det store Underv&#x00E6;rk,</l>
+<l>for at see en Orm forn&#x00F8;jet,</l>
+<l>for sin Herre Gud at ligne,</l>
+<l>naar han, efter Seklers R&#x00E6;kker,</l>
+<l>slukte Stjerner gjenopv&#x00E6;kker</l>
+<l>i de Rum, der d&#x00F8;de ud,</l>
+<l>&#x2013; o! da beder jeg, o Gud,</l>
+<l>at Du Englen vil velsigne,</l>
+<l>der har v&#x00E6;ret god som Du,</l>
+<l>m&#x00E6;gtig med barmhjertig Hu,</l>
+<l>m&#x00E6;gtig i hvad der er herligst,</l>
+<l>m&#x00E6;gtig til sin Gud at ligne,</l>
+<l>kj&#x00E6;rlig &#x2013; o som du er kj&#x00E6;rligst!</l>
+<l>Da jeg beder &#x2013; Tys!&#x2026;</l>
+</lg>
+<p>En h&#x00F8;j, statelig Mand, med en Guldkj&#x00E6;de med Oraniens Portr&#x00E6;t paa den pr&#x00E6;gtige sorte Fl&#x00F8;jelsvams, med en Diamantagraffe paa Baretten, en B&#x00F8;rs hvorigjennem Guldet blinkede og Daggert ved Siden, fulgt af en Dreng med en Vase fuld af Blomster, triner over Gruushobene igjennem Hyldebuskene, der omgav gamle Adrians Plet. Han slaaer dem tilside. &#x2013; &#x2013;</p>
+</div>
+<div type="chapter" n="5">
+<head><ref type="contents" target="contents_5" xml:id="chapter_5">IV. JAN VAN HUYSUM, BLOMSTERMALEREN</ref></head>
+<p>&#x00AB;V&#x00E6;r forsigtig, <emph>Navnl&#x00F8;s</emph>,&#x00BB; siger den Fremmede, &#x00AB;disse Ruinernes Blomster ere pr&#x00E6;gtigere end Haugernes. De have suget sine Farver af Blod og kalkede Been, og Luerne have tilberedet Jorden.&#x00BB;</p>
+<p>Den Gamle forskr&#x00E6;kkes. Dog rejser han sig ikke fra Margarethas Gr&#x00E6;sb&#x00E6;nk. Ellers plejede kun Storkene, der vare vendte tilbage, fra en af de igjenstaaende Muurtinder, eller Hovedet af en nysgjerrig uskyldig &#x00D8;gle imellem Stenene, Hyrdedrengen fra den n&#x00E6;rmeste Landsby, en Zigeuner eller en ligesaa ilsom Vandringsmand at see ind til ham.</p>
+<p>&#x00AB;Ha!&#x00BB; raaber den Fremmede. &#x00AB;Hellige Himmel! Naar saae mit &#x00D8;je saadanne Blomster? Disse har du ladet spire for mig, for mig alene. Bort med disse elendige Vandskud, Dreng, som du gjemmer paa! Disse skulle blive mit Underv&#x00E6;rk, som de ved Himlens Velsignelse ere blevne Jordens.&#x00BB;</p>
+<p>Adrian: &#x00AB;Du har Ret, Fremmede. De ere det ved Himlens Velsignelse.&#x00BB; Og han mumlede atter:</p>
+<lg>
+<l>&#x00AB;Ve det Vanvid, ve mig Stakkel,</l>
+<l>ve mig meer end &#x00D8;jeblinde,</l>
+<l>tvivlte jeg om Guds Mirakel!&#x00BB;</l>
+</lg>
+<p>Den Fremmede: &#x00AB;Du maa overlade mig dem, Gamle.&#x00BB;</p>
+<p>&#x00AB;Nej, nej, nej!&#x00BB;</p>
+<p>&#x00AB;Du maa. Jeg vil betale dem.&#x00BB;</p>
+<p>&#x00AB;Du kan ikke. Tro mig, du kan ikke.&#x00BB;</p>
+<p>&#x00AB;Troer du?&#x00BB; Og han kaster sin Guldb&#x00F8;rs til Adrian.</p>
+<p>&#x00AB;Ikke med dine &#x00D8;jne, ikke med dit Hjerteblod.&#x00BB;</p>
+<p>Den Fremmedes Ansigt blev skarlagenr&#x00F8;dt. Hans &#x00D8;jne funklede. &#x00AB;Jeg har sagt dig, Gamle, at jeg maa. Der er Prindsen af Oranien og hans Gave!&#x00BB; Og han kaster sin Guldkj&#x00E6;de og Diamantagraffen for Adrians F&#x00F8;dder. &#x00AB;Er du forn&#x00F8;jet?&#x00BB;</p>
+<p>&#x00AB;Dine Diamanter opveje ingen af disse Dugdraaber paa mine Blomster. Men forf&#x00E6;rd mig ikke! Dit &#x00D8;je er skr&#x00E6;kkeligere end din Tale. For Guds Barmhjertigheds Skyld, hvad vil du?&#x00BB;</p>
+<p>Den Fremmede har trukket sin Daggert. &#x00AB;Ikke dit Liv, men Blomsterne.&#x00BB;</p>
+<p>&#x00AB;Ja de ere Liv! Afsindige r&#x00F8;r dem ikke! Ved din og min Salighed, de ere Liv, de ere Liv!&#x00BB;</p>
+<p>&#x00AB;Just derfor. I denne Sekund maa jeg have dem; i n&#x00E6;ste ere de ikke som i denne.&#x00BB;</p>
+<p>Han kn&#x00E6;ler alt ved Blomsterne. Den Gamle springer op med Forstenelse i sine Miner. Den Fremmede har alt Staalet paa Rosenknoppens Qvist. Han skj&#x00E6;rer. I samme &#x00D8;jeblik udst&#x00F8;der Drengen et Skrig, og styrter om med Haanden paa Hjertet.</p>
+<p>&#x00AB;Benjamin, Benjamin, mit Barn!&#x00BB; hviner Oldingen, og synker tilbage med D&#x00F8;den i sit Aasyn.</p>
+<p>Den Fremmede vrister Vasen af Drengens Haand.</p>
+<p>&#x00AB;Hvad gaaer af dig, Dreng? Navnl&#x00F8;s, Navnl&#x00F8;s, min Dreng, fik du ondt af denne st&#x00E6;rke Blomsterduft? eller har en Slange stukket dig?&#x00BB;</p>
+<p>Qvisten med Rosenknoppen er af, og Drengen er d&#x00F8;d.</p>
+<lg>
+<l>&#x00AB;Hvad er dette? Ha, der var</l>
+<l>Blod paa Qvisten, som jeg skar,</l>
+<l>Blod som i en Vunde aaben,</l>
+<l>og en Draabe paa mit Vaaben.</l>
+<l>Men nu er jo alt forsvundet;</l>
+<l>Smerten vel, men ej min Angst</l>
+<l>midti Gl&#x00E6;den for min Fangst,</l>
+<l>er jo lykkelig forvundet.</l>
+<l>R&#x00E6;dsel! var da min afsjelte</l>
+<l>Yndlings Livsenssnor forbundet</l>
+<l>her med denne Knop? og dv&#x00E6;lte</l>
+<l>da hans Genius i den?</l>
+<l>Mon sit Liv med den han delte?</l>
+<l>Dobbelt, med fornyet Kraft</l>
+<l>synes det indbl&#x00E6;st igjen</l>
+<l>i dens friske Purpursaft.</l>
+<l>Knoppen synes vakt af Dvale,</l>
+<l>vaagen Gejst i sig at hilde,</l>
+<l>og dens L&#x00E6;be, blot den vilde,</l>
+<l>digtende at kunne tale.</l>
+<l>Jeg maa derfor raskt mig skynde,</l>
+<l>ende, som begyndt at synde;</l>
+<l>jeg maa skynde mig f&#x00F8;r du,</l>
+<l>Rosengeist, forandrer Hu,</l>
+<l>f&#x00F8;r du lyster at forlade</l>
+<l>dine saa forvandte Blade.&#x00BB;</l>
+</lg>
+<p>Den Fremmede omfatter Blomsterne med skj&#x00E6;lvende H&#x00E6;nder. &#x00AB;Der er R&#x00E6;dsel heri, men jeg maa forts&#x00E6;tte, medens denne Gartner, som er vanvittig i sin Gjerrighed, og skjuler sine Mysterier i denne Afkrog, ikke kan forstyrre mig.&#x00BB;</p>
+<p>Han seer paa den besvimede Olding, og dv&#x00E6;ler endnu.</p>
+<p>&#x00AB;Ha, hvo har negtet Jan van Huysum, Blomstermaleren, en Buket?&#x00BB;</p>
+<p>Inden tre Sekunder prange Adrians Blomster i Malerens Vase. Der er ingen voldsommere hensynsl&#x00F8;sere, selvkj&#x00E6;rligere Lidenskab end Kunstnerens. Den kjender ikke Gr&#x00E6;ndser, Ret eller Synd. Den griber efter sin Lysts Maal med Gigantarme, fordi den troer den har et Gudehjerte.</p>
+<p>Da han med et begeistret Blik l&#x00F8;ftede den fulde prangende Vase op, vaagnede den Gamle.</p>
+<p>&#x00AB;O min Gud! min Gud! de ere dr&#x00E6;bte,&#x00BB; jamrer han med H&#x00E6;nderne for &#x00D8;jnene.</p>
+<p>&#x00AB;Forat leve evigt,&#x00BB; siger den stolte Maler, svingende Vasen h&#x00F8;jt.</p>
+<p>&#x00AB;S&#x00F8;rg for Drengen. Han var min Plejes&#x00F8;n og kanskee dit Barn.&#x00BB;</p>
+<p>&#x00AB;Ja, ja, han var det &#x2026; min Benjamin; og du har myrdet ham, myrdet dem Alle, hans S&#x00F8;dskende, hans Moder og hans Fader, som forbander dig med den r&#x00E6;dsomste af Forbandelser, med Forbandelse af dit eget Barn indtil Vanvid af Sorg over dit eget Barn. Ja, hvis Gud gj&#x00F8;r en Tusinddeel Lige for Lige &#x2013; du skal forgj&#x00E6;ves trygle om Guds og dit eget Barns Barmhjertighed og om at dit Staalhjerte skal kunne briste, om at kunne d&#x00F8;e som jeg.&#x00BB;</p>
+<p>Og den Gamle havde sl&#x00E6;bt sig hen til Drengens Liig. &#x00AB;Dj&#x00E6;vel!&#x00BB; st&#x00F8;nnede han endnu, &#x00AB;du veed ikke hvad du har gjort.&#x00BB; Han sukkede endnu engang og saa ikke mere.</p>
+<p>&#x00AB;Men jeg veed hvad jeg vil gj&#x00F8;re, og hvad jeg kan gj&#x00F8;re,&#x00BB; raabte Maleren, fordybende sine Blik i den herlige Buket. Men da han saae Oldingens &#x00D8;jne brustne og hans &#x00E6;rv&#x00E6;rdige Haar udslaaet over Drengens blege D&#x00F8;dstr&#x00E6;k, da zittrede det igjennem hans store nerv&#x00F8;se Skikkelse; men han mumlede dog endnu, idet han bortfjernede sig med et sky Blik, &#x00AB;ja jeg veed hvad jeg vil gj&#x00F8;re. Hvo har n&#x00E6;gtet Jan van Huysum en Buket?&#x00BB;</p>
+<p>Jan van Huysum malte Adrians Blomster. Der fl&#x00F8;d aldrig et herligere Mesterstykke fra hans Pensel. Samvittighedsnag, eller maaskee heller en angst- og ahnelsesfuld Oversp&#x00E6;ndthed, drev hans Geni til det h&#x00F8;jeste. Han arbejdede med den unge medicinske Novizes bankende Hjerte og ilsomme Haand, som ved Midnatstide anatomerer et stjaalet Liig. Han syntes stundom at see Aanders Aasyn i Blomsterne, og da var det ikke langtfra at Adrians Forbandelse gik i Opfyldelse. Fra dette &#x00D8;jeblik, da han stillede Vasen foran sig og udsp&#x00E6;ndte sin Ramme, begyndte han at indest&#x00E6;nge sig, naar han arbejdede; han blev menneskesky og melankolsk, men herligere i sine Arbejder end nogensinde.</p>
+<p>Man holdt disse Egenheder for Tr&#x00E6;k af en Originalitet, der tilh&#x00F8;rte hans Geni, og Flere, end man skulde troe, vare fornuftige nok til at t&#x00E6;nke, at dersom Jan van Huysum ikke var saa bizar, vilde han heller ikke male saa herlige Blomsterstykker eller v&#x00E6;re den han var.</p>
+<p>Men man rystede paa Hovederne og trak paa Skuldrene og gjorde Miner til hverandre, da den store Mester begravede Blomsterne paa det omhyggeligste i viet Jord, da de vare visnede, og bad over dem.</p>
+<p>Hans ugudelige S&#x00F8;n stod hos og spottede og loe ad sin Fader. Det var et af de Tr&#x00E6;k af hans Slethed, som lod Adrians Forbandelse gaae i Opfyldelse. Thi Gud h&#x00F8;rer den D&#x00F8;ende; og F&#x00F8;lelsen af at have begaaet en Forbrydelse og Ahnelsen om at have overskaaret nogle af Naturens hemmelige Strenge, som bandt hiin Gamles Hjerte til Tilv&#x00E6;relsen, forberedede hans m&#x00F8;rke, imodtagelige Gemyt for den Skjebne, der virkelig rammede Mesteren: Vanvid &#x2013; som det hedte, over sit Barns Slethed.</p>
+<p>Der var ogsaa andre Aarsager. To Smerter greb hans Hjerte paa engang, naar han mumlede stille hen for sig: &#x00AB;Benjamin! Benjamin!&#x00BB; Det var i de tungeste Timer. Da lettede han sig ved at pensle paa Rosenknoppen.</p>
+<p>Han arbejdede stedse paa sit Blomsterstykke. Det blev aldrig fuldkomment nok. Han syntes at erindre en ny Skj&#x00F8;nhed hvergang han lod Haanden synke og str&#x00F8;g sig over Panden, som vilde han stryge alt bort indtil Benet. Han n&#x00E6;nnede aldrig at give Maleriet sit Ud&#x00F8;delighedsm&#x00E6;rke &#x2013; visselig ikke n&#x00F8;dvendigt uden for sl&#x00F8;vere &#x00D8;jne for de Heems, Blomsterdigterens, Skyld, &#x00AB;Blomsteraltarets&#x00BB; genifulde Skaber, han, som forholder sig til van Huysum som Pereira til Velasquez og Alonzo de Tobar til Murillos. For hver Gang han greb Penselen til sit Navnetr&#x00E6;k kom der nogle Uefterligneligheder af Fluer, Snegler og et Fuglerede og ogsaa et Par Blomster uden hiin hemmelige Betydning til, som Ting, hvorved han s&#x00F8;gte at tilsl&#x00F8;re for sig selv Hovedgruppens Betydning og at skuffe sig selv med at det var den blotte Natur han havde malt.</p>
+<p>Endelig engang i et lyst &#x00D8;jeblik &#x2013; Blomsterne syntes at b&#x00F8;je sig imod ham, Rosenknoppen at aabne sin L&#x00E6;be og at bede &#x2013; s&#x00E6;tter han Penselspidsen atter til forat gj&#x00F8;re Tr&#x00E6;kket: &#x00AB;Jan van Huysum fecit.&#x00BB;</p>
+<p>Det er paa den Plads, hvor Blomsterne ere jordede, han opl&#x00F8;fter Maleriet i dets Belysning. Han smiler. Jan van Huysums Sjel tilstaaer for sig selv i dette &#x00D8;jeblik, at det er fuldendt.</p>
+<p>Da falder en Draabe fra den klare Luft derpaa. Den udspr&#x00E6;nges over Blomsterne. Under! Smaadraaberne blive siddende, evigt siddende, fastere end Diamanten i sin Klippe, paa Katharinas Rose og paa de andre Blomster, hvor de falde.</p>
+<p>&#x00AB;Gamle! du er forsonet,&#x00BB; jubler Mesteren. &#x00AB;Det var din Taare.&#x00BB; Og han fuldender Navnetr&#x00E6;kket, og Rolighed vendte fra den Stund tilbage i hans Hjerte.</p>
+<p>Ingen veed hvilke Aander der ere ovenfor ham. Men undertiden m&#x00E6;rkes dog deres N&#x00E6;rv&#x00E6;relse af f&#x00F8;lsommere Sjele, og det er somom Taarer faldt i vore Hjerter.</p>
+<p>Ja visselig det var gamle Adrians Taare, som faldt fra den klare Luft. Det er Adrians Forsonings- og Beundringstaarer, som sidde de endnu i de mirakelherlige Draaber paa Jan van Huysums Blomsterstykke.</p>
+<p>Aar runde. Havet omtumler ikke sit Bytte forunderligere end Tiden gamle Mesteres Malerier, fordi Menneskene ere begj&#x00E6;rlige efter det Guddommelige i samme Forhold, som dette er sandseligt. Derfor ile Malerierne, hvori dette er Tilf&#x00E6;lde, fra Haand til Haand igjennem Aarhundrederne, medens et Digt vilde d&#x00F8;e af Boghyldest&#x00F8;v eller endnu forsm&#x00E6;deligere, om ikke Pressen reddede det ved at gj&#x00F8;re det almindeligt som Brostenene.</p>
+<p>Ogsaa dette Digt vil desuagtet d&#x00F8;e f&#x00F8;r Jan van Huysums Blomsterstykke gjennemlever et Aar til af sin Ud&#x00F8;delighed.</p>
+<p>Aar runde. Der var Udstilling i Louvre af Napoleons Kunsttrof&#x00E6;er. Spaniens, Italiens, Nederlandenes Mesterv&#x00E6;rker havde den store &#x00D8;rn bragt hjem til sit Rede under den h&#x00F8;je Kolonnade. Der var ogsaa &#x00AB;Santa Katharinas Trolovelse&#x00BB; af Alonzo de Tobar, Velasquez&#x0027;s &#x00AB;Familie,&#x00BB; en &#x00AB;Familie&#x00BB; af Alonzo de Tobar, og den store Jan van Huysums Blomsterstykke. Galleriet var fuldt af Beskuere.</p>
+<p>Men Publikum havde mindre at bestille med at beundre Mesterv&#x00E6;rkerne, end med at spotte ad en ung Mand, som paastod, at der var en Liighed, han f&#x00F8;lte meer end han saae og kunde forklare sig, imellem en af Roserne paa Jan van Huysums Blomsterstykke og Alonzo de Tobars Katharina, ja imellem enhver af Blomsterne og Individerne i hans &#x00AB;Familie&#x00BB; efter Velasquez. Det loe ad ham som de Forbigaaende ad gamle Adrian.</p>
+<p>En h&#x00F8;j, alvorlig, sortkl&#x00E6;dt Mand n&#x00E6;rmer sig Fantasten. Publikum viger &#x00E6;rb&#x00F8;dig tilside. &#x00AB;F&#x00F8;lg mig!&#x00BB; siger han venligen, &#x00AB;Du er Maler.&#x00BB;</p>
+<p>Det var Mesteren David, som f&#x00F8;rte Gros, &#x00AB;Amor og Psyches&#x00BB; Maler, som sin Discipel til sit Atelier.</p>
+<p>Siden David ikke var haardere, t&#x00F8;r jeg ogsaa, uden Frygt for et Publikums Latter, som neppe veed, at det, if&#x00F8;lge hiin Regell&#x00F8;shed for Malerv&#x00E6;rkers Omtumling, besidder i sin Midte Jan van Huysums Blomsterstykke, aabenlydt sige, at det forekommer mig som om der ogsaa finder en mystisk Liighed Sted imellem hiin Amor og Psyche og de to Roser paa <emph>Jan van Huysums Blomsterstykke</emph>.</p>
+<p>&#x2013; &#x2013; Ak, s&#x00F8;de Rosenknop, hvad er det for et Eventyr du har fortalt mig om Jan van Huysums Blomsterstykke, mens jeg hensank i Beskuelsen deraf?</p>
+<lg>
+<l>&#x00AB;Men nu veed jeg dog hvorledes</l>
+<l>slige Blomster bleve til.&#x00BB;</l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

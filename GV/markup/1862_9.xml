@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Illustreret Tidende</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-26"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="009"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1862">1862</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1862_9_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Illustreret Tidende</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition>3die Bind.</docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace></pubPlace>Nr. 144. Udkommer hver Søndag. Kjøbenhavn den 39. Juni 1863. 2 Rdlr. Qvartalet. <lb/>
+<fw type="graphic"/>
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Inhold.</head>
+<p>Dronning Caroline Amalie, Digt af N. F. S. Grundtvig. - Mariaklokken i Vinberød af Forfatteren til "Jens Lesberg" (Slutning). - Skibspantser for gamle Skibe, af S. Lykte. - Fra det nordiske Studentermode. - Den 28de Juni. - Ugens Politik. - Danmark paa Verdensudstillingen i London 1862. VIl.</p>
+<fw type="graphic"/>
+</div>
+<div>
+<head>Dronning Caroline Amalie.</head>
+<head>Den 28de Juni 1862.</head>
+<lg>
+<l><hi rend="initial">I</hi> Skjønhedens Rige</l>
+<l>Er Smag og Behag</l>
+<l>Vel tidt saa ulige,</l>
+<l>Som Nat imod Dag,</l>
+<l>Men dog mellem Blommer,</l>
+<l>Om Vinter og Sommer</l>
+<l>I <hi rend="spaced">Rosen</hi> har alle Behag.</l>
+</lg>
+<lg>
+<l>Paa Bjerg og i Dale,</l>
+<l>Med Yndigheds Magt</l>
+<l>Forsmaaer den at prale</l>
+<l>Med glimrende Pragt,</l>
+<l>Den velkommen byder</l>
+<l>Hvert Me, og fryder</l>
+<l>I Liv og i Død med sin Duft!</l>
+</lg>
+<lg>
+<l>Den falmer, affalder,</l>
+<l>Som alt under Sky,</l>
+<l>Men dufter hos Balder</l>
+<l>Og Nanna paany,</l>
+<l>I blegnede Rødme</l>
+<l>Den dufter med Sødme,</l>
+<l>Tilønskes af alle nyt Liv!</l>
+</lg>
+<lg>
+<l>I høiere Orden</l>
+<l>Med Blomstersprogs Vid,</l>
+<l>I Livs-Rosengaarden</l>
+<l>Vor <hi rend="spaced">Dronning</hi> saa blid,</l>
+<l>Som Nanna hos Balder,</l>
+<l>Skjøn <hi rend="spaced">Rose</hi> vi kalder</l>
+</lg>
+<lg>
+<l>Med Yndigheds Farve og Duft!</l>
+<l>Som Rosen Hun tækkes</l>
+<l>Idag som igaar,</l>
+<l>Og Lykken er begges</l>
+<l>I Livs-Efteraar:</l>
+<l>Med blegnende Rødme</l>
+<l>Udødelig Sødme</l>
+<l>Har Breidabliks-Rosen i Nord!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

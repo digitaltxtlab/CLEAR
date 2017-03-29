@@ -1,0 +1,2544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI PUBLIC "-// NSL Norge //EN" "http://www.bokselskap.no/tekstkoding/NSL_tei_xinclude.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="BS_Bjornson_OverAEvneI">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>bokselskap.no, 2015
+<lb/>Bjørnstjerne Bjørnson: <hi rend="italic">Over ævne, første stykke</hi>
+<lb/>Teksten er hentet fra Universitetet i Oslo/dokpro.uio.no. Dokpros tekst er basert på <hi rend="italic">Samlede Digter-Verker</hi>, standardutg. i 9 bind, Kristiania, Gyldendal, 1919–20.
+<lb/>ISBN: 978-82-8319-261-2 (digital, bokselskap.no), 978-82-8319-262-9 (epub), 978-82-8319-263-6 (mobi)
+</title>
+</titleStmt>
+<publicationStmt>
+<p>Publiseres som digital tekst av bokselskap.no.</p></publicationStmt>
+<sourceDesc>
+<p>1bbbind7.xml (mottatt fra Dokpro/UiO 2015)</p>
+</sourceDesc>
+</fileDesc>
+<revisionDesc>
+<change who="ENW" when="2015-09-28">Validering og kodekontroll.</change>
+<change xml:id="ENW" who="ENW" when="2015-09-23">Kodet om til TEI XML.</change>
+</revisionDesc>
+</teiHeader>
+<text xml:id="BS_Bjornson_OverAEvneI_tekst" type="drama">
+<front>
+<titlePage type="main">
+<byline><docAuthor>Bjørnstjerne Bjørnson</docAuthor></byline>
+<docTitle>
+<titlePart type="main">Over ævne</titlePart>
+<titlePart type="sub">Første stykke</titlePart>
+</docTitle>
+<docDate>bokselskap.no<lb/>2015</docDate>
+</titlePage>
+</front>
+<body>
+<div type="chapter" subtype="act" n="1">
+<head type="main">FØRSTE HANDLING</head>
+<stage>En tarvelig stue med tømmer-vægger. På højre væg to fag vinduer; på venstre en dør.</stage>
+<stage>Helt fræmme står en seng, mere mot højre æn mot venstre og således, at hodet er i linje med døren.</stage>
+<stage>Ved sengen et litet bord med flasker, skåler. En kommode, stoler o.s.v.</stage>
+<div type="uchapter" subtype="scene" n="1_1">
+<head type="sub">FØRSTE MØTE</head>
+<stage>(I sengen med hvitt overdække ligger, hvitt påklædt, fru Klara Sang. Ved et af vinduerne står hennes søster, mrs. Hanna Roberts).</stage>
+<sp>
+<speaker>Mrs. Hanna Roberts</speaker>
+<p>Hvor solen skinner på bjørke-løvet der ute! Og som det er fint, dette løv her!</p>
+</sp>
+<sp>
+<speaker>Fru Klara Sang</speaker>
+<p>Men nu lugter her af hæg, du!</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Jeg står og ser; men her er jo ingen hæg?</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Du kan ikke se den derfra; men her er. Morgen-snoen fører lugten like på os.</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Men jeg kan ikke kænne den.</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Å, efter slikt regn kænner jeg den mindste strømning derutefra.</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Og du lugter hæg?</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Så tydelig! &#x2013; Luk i alle fall det nederste vindu.</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Som du vil.</p>
+</sp>
+<stage>(Gør så.)</stage>
+<sp>
+<speaker>Klara</speaker>
+<p>Hvem var det, som havde sagt, at vi måtte frygte for fjæll-ras?</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Den gamle man, &#x2013; han, bestman i båten, som hentede os. Det regnede og regnede, og så sa&#x0027; han: &#x00AB;Det er farligt, dette. Efter så langvarigt regn løsner det i fjællene her.&#x00BB;</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Jeg har ikke tænkt på annet i nat. Du må vite, at her har gåt skred på skred. Engang &#x2013; ja, det var før vor tid &#x2013; tok en skred kirken.</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Kirken?</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Ikke her den nu står. Den stod længre borte den gang.</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Er det derfor, den er flyttet klos in på havemuren her?</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Ja. Når kirke-vinduerne nu om sommeren er tat ut, kan jeg ligge her og høre Adolf synge for alteret. D. v. s, da må døren her stå åpen, og døren in til dagligstuen &#x2013; og naturligvis vinduet i dagligstuen også stå åpent. Han synger så dejlig. Når bægge dørene er åpne, kan jeg se kirken herfra. Kom! Det er derfor, sengen står her.</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<stage>(kommer).</stage>
+<p>Kære Klara, at jeg skulde se dig igen slik!</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Hanna!</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Hvorfor skrev du ikke?</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>For det første er Amerika så langt borte, du; og for det andre &#x2013;. Nu ja, for det andre en annen gang.</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Jeg forstod ikke dit svar igår, da jeg spurte efter doktoren.</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Adolf var inne, så jeg undveg det. Vi har ingen doktor.</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>I har ingen doktor?</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Han kom her og kom her &#x2013; doktoren bor meget langt borte &#x2013;, og det blev til ingen ting. Og da jeg så havde ligget en hel måned uten at sove &#x2026;</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>En hel måned uten at få sove? Men det er jo umuligt &#x2026;?</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Nu er det snart halv-annen, du! &#x2013; Ja, saa kunde det jo være det samme med doktoren, da. Ikke sant? Min man spurte, hvad det var, som fejlte mig, og så gav han sygdommen et stygt navn. Adolf har ikke sagt mig det, så jeg v&#x00E9;t det ikke. Siden har vi ikke sendt bud efter ham.</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Snakker du ikke for meget?</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Hele dager snakker jeg slet ikke. Andre tider uafladelig. Jeg må.</p>
+<p>Nu kommer vel snart Adolf fra sin morgentur. Og så har han blomster med til mig.</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Kan ikke jeg plukke dig nogen, siden du længes så?</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Nej. Der er somme iblant, jeg ikke tåler. Han kænner dem.</p>
+<p>Hanna, du har ikke fortalt mig om møtet med barnene mine på dampskibet. Jeg længes så frygtelig efter at høre det, du!</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Igår var her slik uro.</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Og så var I alle så trætte. Tænk, barnene sover ænnu! Fra 7 til 7! Det er ungdom, det!</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>De trængte det også. Men <hi rend="italic">jeg</hi> kan bare nogle timer ad gangen. Og jeg er enda ikke træt.</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Nej, det går alle så, som kommer op under midnatssolen. Man blir så yr-våken. &#x2013; Men barnene? Er de ikke søte?</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Så uskyldige som de er, du! Men de ligner ikke dig af ansigt, ikke Sang heller rigtig, uten øjnene; det så jeg siden.</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Fortæl, fortæl!</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>For havde de lignet, så havde jeg jo kænt dem. Jeg har ikke set nogen af eder, siden I selv var unge. Husk det! Men jeg så dem komme ombord, og jeg så dem siden også, skønt de gik på annen plas &#x2026;</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>&#x2013; De havde ikke råd til mere, de stakrer!</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>&#x2013; og jeg kænte dem ikke. Så var det en morgen, jeg stod på hytten; de gik fort fræm og tilbake nedenunder mig; de vilde holde sig varme. Hvær gang de vendte ryggen til for at gå fræmover igen, kunde jeg ikke glemme øjnene. For jeg kænte de øjne. Så slog nogle sjø-fugl ner så tæt ved, at Rakel tok ut med armene; hun blev skræmt; for de skrek like i ørene på henne. Men den bevægelse med armen, &#x2013; ja, det var nøjagtig din. Og da kænte jeg øjnene også! Det var Sangs.</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Du gik straks ner til dem?</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Kan du spørge! &#x00AB;Heter I Sang?&#x00BB; spurte jeg. De behøvde ikke svare. Nu så jeg det tydelig. &#x00AB;Jeg er tante Hanna fra Amerika,&#x00BB; sa&#x0027; jeg. Og så blev vi alle så rørt.</p>
+</sp><stage>(Begge søstrene gråter.)</stage>
+<sp>
+<speaker>Klara</speaker>
+<p>Rakel havde skrevet til dig og bedt dig reise over til mig? Var det ikke så?</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Jo. Og det skal Rakel ha evig tak for. Hvor hun var søt! Jeg fik dem straks over på første plas og henne tullet in i et stort sjal; for hun frøs. Han fik et plæd over sig.</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Kære Hanna!</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Men, du, &#x2013; ja, det hører til! &#x2013; i det samme gik der en kul-sort bris in fjorden efter os. Vi var like under et højt fjæll, bart og gråt. En mængde måker kom ut; et par skrek over hoderne på os. Og så stod der så koldt. Nogle tarvelige hus inne på stranden, &#x2013; og de var de eneste vi så, og vi havde reist mange mil uten at se andre. Bare bærg og skær! Dette er Nordlandene, tænkte jeg. Her er disse forfrosne barn opdragne. Ja, jeg glemmer det aldrig! Frygteligt!</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Men det er ikke frygteligt.</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Klara! &#x2013; Som du nu ligger der? Husker du, hvad du var for en fin, flagrende en? &#x2013;</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Ja, ja! &#x2013; Jeg v&#x00E9;t heller ikke, hvor jeg skulde begynne for at forklare dig alt dette. Å, gud!</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Hvorfor skrek du ikke over til mig? Jeg, som har det så godt? og kunde på så mange måter ha spart dig for at bli overanstrængt?</p>
+<p>Hvorfor skrev du ikke sanheden? Den hele tid har du dulgt den. &#x2013; Først Rakel skrev sant.</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Ja, ja! &#x2013; Det er så. Og &#x2013; måtte være så.</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Hvorfor?</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Havde jeg skrevet, som det var, og I alle sammen var kommet styrtende &#x2026;?</p>
+<p>Jeg vil ikke hjælpes. For jeg kan ikke hjælpes.</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Men du løj jo altså? &#x2013;</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Ja, naturligvis. Jeg har løjet bestandig &#x2026; og til alle. Hvor kunde jeg annet?</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Her er aldeles uforståelige ting! Den ene på den andre!</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Hanna? Du sa&#x0027; &#x00AB;overanstrængt&#x00BB;. Du sa&#x0027;, du kunde på mange måter ha spart mig for at bli overanstrængt. Har du kænt nogen overanstrængt, som kunde be&#x0027; om hjælp? eller som forstod at gjøre motstand?</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Men <hi rend="italic">før æn</hi> du ænnu var blet overanstrængt?</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Du forstår ikke, hvad du taler om!</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Så forklar mig, &#x2013; hvis du kan da?</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Nej, på &#x00E9;n gang kan jeg ikke. &#x2013; Men efterhånden kanske.</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Til at begynne med, så havde du jo ikke hans tro? Så forunderligt! Var <hi rend="italic">det</hi> grunnen?</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Nej. &#x2013; Ja, det er en lang historie! &#x2013; Men det er ikke det. Vi har så forskelligt naturel; &#x2013; skønt det er ikke det heller. Havde Sang været som andre mæn og støjet og regeret, &#x2013; å, så havde det ingen nød havt &#x2013; kanske! Men længe før han kænte mig, var al hans kraft &#x2013; og han har kraft, kan du tro! &#x2013; optat af arbejde; den var blet til kærlighed, til opofrelse. Den var bare, bare skøn! V&#x00E9;t du, at ænnu har ikke i vort hus været hørt &#x00E9;t hårdt ord? ikke forekommet en &#x00AB;scene&#x00BB;? Og vi har snart været gift i 25 år. Han skinner bestandig af søndags-glæde. For han har søndag hele året.</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Gud, hvor du elsker ham!</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Det er for lit&#x0027; at sige, at jeg elsker ham. Jeg <hi rend="italic">er</hi> ikke uten ham. Og så taler du om at gøre motstand? &#x2013; D. v. s. jeg måtte jo somme tider, når det gik altfor meget over alles ævne.</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Hvad mener du med det?</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Det skal jeg forklare dig siden. Men hvem kan stå imot bare, bare godhed? bare, bare opofrelse for andre? bare, bare fryd? Og hvem kan stå imot, når hans barnlige tro og hans overnaturlige magt river alle andre med?</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Overnaturlig, siger du?</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Har du ikke hørt det? Har barnene ikke fortalt dig &#x2013;?</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>&#x2013; hvad? &#x2013;</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>&#x2013; at Sang, når han b&#x00E9;r innerlig, får, hvad han b&#x00E9;r om?</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>At han gør mirakler, mener du?</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Ja!</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Sang?!</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Har barnene ikke sagt dig det?</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Nej!</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Men det er da besynderligt!</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Vi har slet ikke talt om noget sådant.</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Men så har de jo ikke &#x2026; Å, de har tænkt, du visste det! For Sang &#x2013; ja, det er &#x00AB;mirakel-præsten&#x00BB;, det, for hele landet! De har tænkt, du kænte til det! De er så beskedne, barnene.</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Men gør han mirakler? <hi rend="italic">Mirakler?</hi></p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Fik du ikke, straks du så ham, intryk af noget overnaturligt?</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Jeg havde aldrig falt på at bruke det ord; &#x2013; men når du siger det &#x2026; Han gør et højst &#x2013; ja, hvad skal jeg kalle det? &#x2013; åndigt intryk? &#x2013; et meget sælsomt, gør han. Som hørte han ikke til her!</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Nej! Ikke sant?</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Jo, det er sant!</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>V&#x00E9;t du, at jeg kan ligge sammentrukket, med benene op til brystet og armene &#x2026; ja, jeg tør ikke gøre det efter; for så kan det let komme &#x2026; Jeg kan ligge så i hele dager, når han er borte, uten at kunne få lemmerne tilbake igen. Du kan tro, det er forfærdeligt! Engang &#x2013; han var over fjællene; å, disse turer over fjællene! &#x2013; da lå jeg i 8 &#x2013; otte &#x2013; dager således. Og han stod ikke før der i døren, og <hi rend="italic">jeg</hi> så ham, og <hi rend="italic">han</hi> så mig, så begynte armene og benene at gi&#x0027; efter, og han kom og strøk, og jeg lå rank som nu! Og bestandig således &#x2013; op igen, op igen! Bare han er i rummet, så viger det!</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Besynderligt!</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Hvad siger du om det, at syke, d. v. s. virkelig troende, som var syke, &#x2013; det har ikke hændt &#x00E9;n gang, men hundre! &#x2013; når han kom og bad med dem, så blev de friske!</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Virkelig friske?</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Aldeles friske! Ja, hvad siger du om det, at syke, som han ikke kunde komme til, &#x2013; for her er jo slike store afstande! &#x2013; dem har han skrevet til, at på den og den dag og det og det klokkeslæt bad han for dem, og så måtte de be&#x0027; med; &#x2013; og fra samme time tok deres sygdom en annen vending! Det er sant! Jeg har mange tilfæller!</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Forunderligt! &#x2013; Men dette har du aldrig skrevet!</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Jeg kænte eder jo! Tror du, jeg vilde utsætte ham for eders tvil? &#x2013;</p>
+<p>Her er en præste-enke her &#x2013; å, henne må du se! Hun bor tæt her ved. Hun er det ærværdigste, jeg kan tænke mig! &#x2013; Hun havde været lam i femten år, da Sang kom hit; det er nu fem og tyve år siden. <hi rend="italic">Nu går hun hvær eneste søndag i kirken!</hi> Og hun er snart hundre år.</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Han kurerte henne?</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Bare ved at be&#x0027; og ved at få <hi rend="italic">henne</hi> til at be&#x0027;! For du kan tro, han kan be&#x0027;! Og så dette med Ågåt Florvågen. Det er dog det mærkeligste. Ti for vore øjne var hun død. Han lægger en af hennes hænder i sin, og han lægger sin annen hånd på hennes hjærte og varmer det, og så begynner hun at ånde. Hun bor nu sammen med den gamle præste-enke &#x2013; like her ved! &#x2013; Jeg kan ligge her til imorgen og fortælle og fortælle. Der står en glans om ham her og længre ut blant tusener af troende over det hele land, som er enestående. Og nu begynner det at vokse så, at vi er ikke en dag i fred.</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Altså jeg kan også få se det, &#x2013; det, du taler om, mens jeg er her?</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Så sikkert som jeg ligger her og kan ikke mere æn rejse mig på albuerne.</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Men hvorfor kan så ikke miraklet gælle <hi rend="italic">dig,</hi> Klara! Hvorfor har han ikke helbredet dig for længe siden?</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>&#x2013; &#x2013; Det har sin egen grun, det. &#x2013; &#x2013;</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Men du vil dog sige mig den?</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Nej. &#x2013; Jo, mener jeg. Men siden.</p>
+<p>Du får åpne et vindu igen! Her blir så kvalmt. Mere luft, du!</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Det skal du få.</p>
+</sp><stage>(Åpner det øverste.)</stage>
+<sp>
+<speaker>Klara</speaker>
+<p>Han skulde dog snart komme nu. Han blir virkelig længe idag. Bare jeg fik lugte til de blomster. Efter regnet må der være kommet en mængde. Nu er klokken snart syv; næsten like ved syv.</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<stage>(ser på sit ur).</stage>
+<p>Ja, den er det.</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Siden jeg ligger her, v&#x00E9;t jeg altid, hvad klokken er. &#x2013; Den friske luft måtte dog engang nå fræm til mig? Vinden har vist lagt sig? &#x2013; &#x2013; Du svarer mig ikke?</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Nej, jeg hører ikke, hvad du siger. For jeg kan ikke komme mig af min forundring.</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Ja, det er også det mærkeligste i vort land. Kanske i vor tid.</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Hvad siger folk? Hvorledes ser bønderne på ham?</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Jeg tror, det vilde ha gjort tyve ganger, ja hundre ganger mere opsigt alle andre steder æn netop her. Her er det, som det så skal være!</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Men Klara? Mirakel er mirakel?</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Ja, for os. Men her er noget i naturen her, som vil ha det usædvanlige af os også. Naturen her er jo selv utover alle rimelige grænser. Vi har nat næsten hele vinteren. Vi har dag næsten hele sommeren &#x2013; og <hi rend="italic">da</hi> solen over horisonten både nat og dag. Du har set den om natten? V&#x00E9;t du, at bak hav-dunsterne synes den tre, somme tider fire ganger så stor som ellers? Og farve-virkningerne af den over himmel, hav og bærg? Fra stærkeste rød-glød til fineste, sarteste gul-hvitt. &#x2013; Og farverne i nordlyset over vinter-himmelen! Skønt de er mere dæmpede, så er der igen en så vill tegning i dem og en uro, et uendeligt skifte! Og så de andre natur-vidundre! Fugle-flokker på millioner; &#x00AB;fiske-stimer som fra Paris til Strassburg&#x00BB;, som en man har skrevet. Du ser disse fjæll, som går like bent op af havet? De ligner ikke andre fjæll. Og hele Atlanterhavet bryter sig på dem.</p>
+<p>Folkenes forestillinger er naturligvis derefter. De er grænseløse. Deres sagn, deres æventyr er som at staple det ene land op på det andre land og så begynne at trille is-fjællene fra nordpolen på dem. Ja, du ler! Men hør sagnene her, du! Og tal med folkene, så fatter du snart, at præsten Adolf Sang er mannen efter deres hjærte! Hans tro passer her! Han kom hit med stor formue og gav bort næsten alt sammen. Slik skulde det være! Det var kristendom! Og når han nu kommer milevidt rejsende til en fattig syk og b&#x00E9;r, så de likesom åpnes, og lyset trænger in i dem, umiddelbart &#x2013;! Somme tider får de øje på ham i et umuligt vejr ute på havet; han alene i en liten, liten båt; kanske har han &#x00E9;t eller bægge barnene med; for han tok dem med, fra de var 6 år! Gør kanske et mirakel, og så afsted igen til et annet fisker-leje &#x2013; og der et igen! De likesom vænter det af ham. Og mere til! Havde jeg ikke holdt igen, ja, så havde vi nu ikke det, vi kunde leve af, og ikke ham selv i live. Kanske ikke barnene heller mig selv vil jeg ikke engang tale om. For jeg er færdig.</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Men så har du jo ikke holdt igen? &#x2013; &#x2013;</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Det kan se så ut. Men jeg har. Ikke med forestillinger; det nytter ikke! Nej, jeg må finne noget på, &#x2013; bestandig noget nyt, hvær gang; ellers forstår han det. O, det er en fortvilelse!</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Finne noget på, siger du?</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Han mangler en hel sans. Virkelighedssansen. Han ser aldrig annet æn, hvad han vil se. Derfor f. e. ikke noget ondt i nogen. D. v. s. ser nok; men bryr sig ikke om det. &#x00AB;Jeg holder mig til det gode i mænneskene,&#x00BB; siger han. Og når han taler til dem, er alle gode, absolut alle! Når han ser på dem med de barne-øjnene, &#x2013; hvem kan annet? Men så bærer det jo galt afsted da. For han ødelægger os på slike folk.</p>
+<p>Men på den måten er han ute over forholdene, skønner du, i stort som i småt. Han tok, hvis han fik lov, det siste, vi ejede, &#x2013; det, vi skulde leve af i morgen! &#x00AB;Gud vil nok gi&#x0027; igen; for han har befalt os at gøre det så.&#x00BB;</p>
+<p>Når der er et slikt uvejr, at de erfarneste sjøfolk ikke vil ut i et fartøj, æn sige i præstens stor-båt, &#x2013; da vil han afsted i en liten færing, han, &#x2013; kanske med det vesle barnet sit i bakskotten!</p>
+<p>Han har sat over fjællene i tåken og gåt der i tre døgn uten at smake vått eller tørt. De ledte efter ham og førte ham fræm til folk. Og så vilde han uken efter atter i tåken gøre samme rejsen! Der var en syk, som væntede ham!</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Men tåler han det?</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Han tåler alt. Han sovner in som et træt barn og sover, sover, sover. Så vågner han, spiser og begynner på en frisk. Han er aldeles utenfor; for han er aldeles uskyldig.</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Hvor du elsker ham!</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Ja, det er det eneste, som er igen af mig. Dette med barnene har ødelagt mig.</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Med barnene?</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>De tok jo skade af at gå her. Intet regelmæssigt og fast; de blev forstyrrede. Aldrig hindringer for noget, som blev holdt for at være rigtigt. Aldrig overlæg, bare inspiration! De var voksne og kunde ikke stort mere æn læse og skrive.</p>
+<p>Og som jeg kæmpede for at få dem bort! Og siden i fem år for at kunne holde dem der ute og skaffe dem undervisning! Ja, det har tat min siste kraft. Nu er det forbi.</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Kære, kære!</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Du mener da vel ikke &#x2026;? Du beklager mig da vel ikke?! Mig, som har gjort rejsen sammen med jordens beste man? sammen med mænneskenes reneste vilje?</p>
+<p>En lever kortere på den vis &#x2013; ja. Alt kan ikke forenes.</p>
+<p>Men bytte? &#x2013; Kære!</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Han har da sprængt alle eder andre?</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Det har han! Netop så! D. v. s. han har ikke sprængt <hi rend="italic">alle;</hi> for det fik han ikke lov til. Han havde også sprængt sig selv, havde han fåt lov. Han er jo over ævne.</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Over ævne? Når han virkelig gør mirakler? og bestandig blir frelst?</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Tror du ikke, også miraklerne kommer af det, at han er over ævne?</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Du forskrækker mig! Hvad mener du?</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Jeg mener, at slik var vel profeterne også. Både jødernes og hedningernes. De kunde mere æn vi i en viss retning, fordi de manglede så meget i alle andre retninger. Ja, slik har jeg tænkt.</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Men <hi rend="italic">tror</hi> du da ikke?</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Tror? Ja, hvad mener du med det? Vi er af en gammel nervøs tviler-slægt, vi søsken. Jeg tør sige, af en intelligent slægt. Jeg beundrede Sang. Han var ulik alle andre, bedre æn alle andre. Jeg beundrede ham, til jeg elskede ham. Det var ikke hans tro; den var noget for ham ejendommeligt. Hvor langt jeg nu tror med ham, &#x2013; ja, det v&#x00E9;t jeg ikke.</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Du v&#x00E9;t det ikke?</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Jeg har været så forjaget, du, at jeg aldrig har havt tid til at gøre mig det op. Der må tid til slikt. Og jeg havde nok med at bærge os over fra det ene båre-tak til det andre. Jeg blev for tidlig ødelagt af det. Jeg dugde ikke længer til at ta&#x0027; store spørsmål op.</p>
+<p>Knapt kan jeg klare, hvad som er ret eller uret. Ja, råt naturligvis; &#x2013; men finere? Jeg må gøre det, som jeg kan. Og likeså med troen. Jeg årker ikke mere.</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Han v&#x00E9;t om det?</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Han v&#x00E9;t om alt. Tror du, jeg skjuler nogen ting?</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Men vil han da ikke få dig til at tro, hvad han selv tror?</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Ikke i minste måte. Dette med tro, hvis man ikke skal bli dømt, det, siger han, er guds sak. Vor er at være san. Så blir vi nok troende &#x2013; her eller hisset. Å, han er hel, han!</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Men han arbejder da for at utbrede troen?</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>På sin vis. Aldrig, nej, aldrig med påtryk. Han er ubetinget like hensynsfull mot alle. Hører du: &#x2013; mot alle! Å, han er makeløs!</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Du ser på ham som i de første beruselsens dager! Og det ænda dine øjne er blet gamle.</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Og det ænda mine øjne er blet gamle.</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Men dette med din tro på hans mirakler, &#x2026; ja, du har jo i grunnen ingen tro på dem?</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Hvad er det, du siger? Der er ikke det til, jeg tror mere ubetinget på!</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Når du ikke tør slippe ham i vej i en orkan, og når du ikke tør tro på, at I får igen, hvad han vil gi&#x0027;, selv om det er det siste, &#x2026; så har du ingen tro på dem.</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Før jeg tillod noget af det der &#x2026;? Ja, det er her, jeg har min styrke, skal jeg sige dig.</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Vel. Men det er ikke troens styrke.</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Nej, nej. Om her er motsigelse, &#x2013; hvad gør det! Vi har alle motsigelser &#x2013; undtagen han.</p>
+<p>For resten vil jeg sige dig, at det at kaste sig selv eller sit barn i sjøen, &#x2013; det er mere æn tro, det; det er at friste gud.</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Da synes jeg, miraklet måtte møte like så vel, når det gæller vort eget liv, som når det gæller andres.</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Men at <hi rend="italic">bringe</hi> sig selv i livsfare?</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Når det sker for at frelse andre? Det kan da ikke kalles at friste gud.</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Hør, &#x2013; slut med det der! Jeg årker det ikke. Jeg v&#x00E9;t bare, at vil han ta&#x0027; det, barnene skal leve af, og gi&#x0027; det til onde, dårlige mænnesker, eller vil han selv gå afsted til fjælls i tåke eller drage til havs i orkan, &#x2013; da, ja da lægger jeg mig klos i vejen! Jeg gør alt, ubetinget <hi rend="italic">alt,</hi> hvad jeg kan finne på, for at hindre det!</p>
+<p>Jeg sætter, han vilde det nu &#x2026;? Jeg har ikke kunnet rejse mig på mine ben i mange måneder; &#x2026; men da kunde jeg! Da kunde jeg! Jeg er sikker! Da gør også jeg mirakel. For jeg elsker ham og hans barn.</p>
+</sp><stage>(Længre stilhed.)</stage>
+<sp>
+<speaker>Hanna</speaker>
+<p>Er der ikke noget, jeg kan hjælpe dig med?</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Lad mig få <hi rend="italic">eau de Cologne!</hi> Her over tinningerne. Og lad mig få lugte til! Af den, du gav mig igår. Lit snart! Du får ikke op korken? &#x2013; Der er korke-trækkeren! Der, der! Og det nederste vindu op. Det nederste også!</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Ja, ja!</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Tak! &#x2013; Var ikke jorden så fugtig efter det forfærdelige regn, vilde jeg ut. Får du ikke korken op?</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Jo, nu straks.</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Skru længre ned. Men ikke for langt. Se så! Se så! Kom! &#x2013; Nej; &#x2013; jasmin!</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Jasmin? &#x2013; Ikke det minste jasmin!</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Jasmin, jasmin! &#x2013; &#x2013; Der er han! Jeg hører ham! Der er han! Gud, tak! Jeg blir straks rolig. &#x2013; Rolig. Å, for en velsignelse! Der &#x2026; er &#x2026; han.</p>
+</sp>
+<stage>(Sang kommer.)</stage>
+</div>
+<div type="uchapter" subtype="scene" n="1_2">
+<head type="sub">ANNET MØTE</head>
+<sp>
+<speaker>Sang</speaker>
+<p>God morgen igen! &#x2013; God morgen, kære Hanna! At du nu er her! Nej, at du nu er her! &#x2013;</p>
+<p>En slik morgen, så full af sang og duft, har I ikke i Amerika? Ingen steds i værden!</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Men mine blomster?</p>
+</sp>
+<sp>
+<speaker>Sang</speaker>
+<p>V&#x00E9;t du, hvad der hændte mig idag, Klara?</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Du har git dem bort?</p>
+</sp>
+<sp>
+<speaker>Sang</speaker>
+<p>Nej. Ha-ha! Nej, ikke denne gang, sa&#x0027; Tordenskjold. Hvor du er slem! Nu har vi skælt og smælt på dette vedholdende, forfærdelige regn og frygtet for fjæll-ras og skred &#x2013; og alskens ulykker &#x2026; Og så har regnet bare gjort et stor-værk af velsignelse! Da jeg endelig idag så sol og gik ut &#x2026; å, for en flora, jeg møtte! Jeg har aldrig set make til iår! Jeg kom op i en rigdom af duft og farve, du, &#x2026; ja, jeg kom med &#x00E9;n gang i slik stemning, at sandelig syntes jeg ikke, det var skam at gå og træde ner det græs, som stod og gav &#x00E9;n så megen glæde. Og så gik jeg til side og fant mig en sti, og derfra gik jeg og så ner i de våte øjnene. Slik trængsel der var blant dem, du! Slik selvopholdelses-drift i trængselen! Slik attrå! De minste forsøkte at strække hals mot solen, de også. Så åpne, så forslukne! Sandelig var ikke somme så for tidlig på færde, at jeg tror, de skælmer sender støv på frieri, før dagen er omme! Jeg så nogle humler allerede! De visste ikke, hvor de skulde hen i alle de duft-strømme! For det ene tusen duftede og lokkede hidsigere æn det andre tusen, og der var tusen ganger tusen! Ja, nu går det for sig. Er der ikke individualitet i denne million-mangfoldighed også? Å, der er! Og så kunde jeg ikke ta&#x0027; nogen af dem.</p>
+<p>Men jeg har noget annet til dig idag!</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<stage>(som, mens han talte, har gjort tegn til søsteren).</stage>
+<p>Har du?</p>
+</sp>
+<sp>
+<speaker>Sang</speaker>
+<p>Også jeg skal forsøke at åpne bæger idag.</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Kære, hvad er det?</p>
+</sp>
+<sp>
+<speaker>Sang</speaker>
+<p>Ja, du tror nu ikke så slet om mig, som at jeg kan gemme på noget; men jeg kan!</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Jeg har længe mærket, at der var noget &#x2013;?</p>
+</sp>
+<sp>
+<speaker>Sang</speaker>
+<p>Nej, har du virkelig? For sandelig har jeg tiet denne gang.</p>
+<p>Men når jeg ikke har været så forskrækket over din sygdom som alle de andre, så har det havt sin grun.</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Men hvad er det?</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Ja, hvad er det? Hun blir så h&#x00E9;t.</p>
+</sp>
+<sp>
+<speaker>Sang</speaker>
+<p>Jeg skal skynde mig! &#x2013; Jeg har hjulpet så mange og kan ikke hjælpe henne, fordi jeg ikke kan rigtig be&#x0027; sammen med henne, den genstridige! Og jeg får ingen magt i det, når de syke ikke b&#x00E9;r med, &#x2013; at sige, når de kan be&#x0027;. Så skrev jeg til vore barn, at de skulde komme. Og igår aftes, da jeg fulgte dem så tidlig op, da sa&#x0027; jeg dem hvorfor, &#x2013; at nu skulde de sove rigtig godt ut og så hjælpe mig idag klokken syv og be&#x0027; ved mors seng!</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Du kære, du kære!</p>
+</sp>
+<sp>
+<speaker>Sang</speaker>
+<p>Vi skal lægge en bønne-kæde omkring dig! En ved føtterne, en ved hodet og jeg like foran! Så skal vi ikke aflade, før du faller i søvn! Ikke før! Nej, ikke før! Og så skal vi genta&#x0027; det, til du rejser dig og går iblant os! Ja, det skal vi.</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Du kære!</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Hvad sa&#x0027; barnene?</p>
+</sp>
+<sp>
+<speaker>Sang</speaker>
+<p>Ja, du skulde set dem! De blev så grepne. Jeg forsikrer dig, de blev så bleke som det laken. Og så så de på hværandre.</p>
+<p>Men da forstod jeg, de måtte være alene.</p>
+<p>Jeg ser, det bevæger dig også. Du lukker øjnene. Også <hi rend="italic">du</hi> vil kanske nu være alene? &#x2013; Ja, vi får besøk nu. Stort besøk! Det gæller at forberede sig! &#x2013; Hvad er klokken?</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Den er over syv.</p>
+</sp>
+<sp>
+<speaker>Sang</speaker>
+<p>Nej, det kan den ikke være; for så var de her. Du har glemt at stille dit ur efter vor tid.</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Nej, jeg har ikke det.</p>
+</sp>
+<sp>
+<speaker>Sang</speaker>
+<p>Så har du ikke stillet det rigtigt, min væn. Kan du tænke dig, at voksne barn, som skal be&#x0027; ved sin mors seng, forsover sig?</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Jeg skal gå op.</p>
+</sp>
+<sp>
+<speaker>Sang</speaker>
+<p>Nej, nej, nej! Disse siste øjeblik må de ha alene! Jeg kænner til det.</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>De skal ikke høre mig. Jeg vil bare se in.</p>
+</sp><stage>(Hun går.)</stage>
+<sp>
+<speaker>Sang</speaker>
+<p>Å, sagte, sagte!</p>
+</sp>
+</div>
+<div type="uchapter" subtype="scene" n="1_3">
+<head type="sub">TREDJE MØTE</head>
+<sp>
+<speaker>Sang</speaker>
+<p>Det er jo vakkert, at hun er så ivrig.</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Du kære!</p>
+</sp>
+<sp>
+<speaker>Sang</speaker>
+<p>Der er noget så bekymret i stemmen? &#x2013;</p>
+<p>Å, hav nu håb! Jeg siger dig, jeg har aldrig følt mig sikrere. Og hvem som gir denne følelse, det v&#x00E9;t du.</p>
+<p>Klara! &#x2013; Min elskede Klara! <stage>(han knæler ved hennes seng.)</stage></p>
+<p>Føræn vi møtes i den store bøn, må du tillade mig at takke dig! Jeg har takket gud for dig idag. I al denne vårpragt har jeg takket. Så uendelig var fryden om mig og i mig. Jeg gik igennem i det store, hvad vi har levet sammen. V&#x00E9;t du, jeg tror, jeg elsker dig ænnu højere, fordi du ikke helt ut deler min tro; &#x2013; derved er du ænnu uaflade ligere i mine tanker. Din hengivelse til mig er helt dit væsens, din viljes, &#x2013; skyldes ikke noget annet. Og at du bevarer din sanhed ved min side, det er jeg stolt af.</p>
+<p>Men når jeg nu husker, at du &#x2013; uten at tro som jeg har git dit liv for mig, &#x2013;</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Adolf!</p>
+</sp>
+<sp>
+<speaker>Sang</speaker>
+<p>Jeg lægger hånden over din mun, dersom du taler. Nu er det jeg! &#x2013; Å, det er stort, hvad du har gjort. Vi andre, vi gav vor tro; men du gav dit liv. Hvad må du dog ha for en tillid til mig! Hvor jeg elsker dig!</p>
+<p>Hvær gang min tros-iver ængstede dig, og du skalv for mig eller for vore barns fræmtid, og da kanske ikke vejede, hvad du gjorde, &#x2026; <hi rend="italic">jeg</hi> vet, du havde ikke kræfter igen til at gøre det bedre.</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Nej, jeg havde ikke!</p>
+</sp>
+<sp>
+<speaker>Sang</speaker>
+<p>Skylden blir min. Jeg har ikke forståt at skåne dig.</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Adolf!</p>
+</sp>
+<sp>
+<speaker>Sang</speaker>
+<p>Jeg v&#x00E9;t, det er så. Du har ofret dig stykke for stykke. Og ikke af tro, ikke af håb om løn her eller hisset; &#x2013; af kærlighed alene. Hvor jeg elsker dig!</p>
+<p>Idag har jeg villet sige dig dette. Var Hanna ikke gåt ut, havde jeg bedt henne om at få være ene med dig en liten stund.</p>
+<p>Tak! det er din store dag idag. Nu kommer snart barnene.</p>
+<p>Å, lad mig få kysse dig som den aller første dag!</p>
+</sp>
+</div>
+<div type="uchapter" subtype="scene" n="1_4">
+<head type="sub">FJÆRDE MØTE</head>
+<sp>
+<speaker>Sang</speaker>
+<p>Nu?</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Klokken er <hi rend="italic">over</hi> syv.</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Jeg visste det.</p>
+</sp>
+<sp>
+<speaker>Sang</speaker>
+<p>Er den <hi rend="italic">over</hi> syv? &#x2013; Og barnene?</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>De sov.</p>
+</sp>
+<sp>
+<speaker>Sang</speaker>
+<p>De sov?</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Jeg visste det.</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Elias påklædt. Han havde kastet sig på sengen, som vilde han ikke sove, bare hvile, men var sovnet in allikevel. Rakel sov med foldede hænder over tæppet. Hun hørte ingen ting.</p>
+</sp>
+<sp>
+<speaker>Sang</speaker>
+<p>Jeg har forlangt for meget af barnene. &#x2013; Jeg lægger det aldrig af.</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>De havde jo næsten ikke sovet i to døgn; d. v. s. siden vi traf hværandre.</p>
+</sp>
+<sp>
+<speaker>Sang</speaker>
+<p>Men hvad mente så gud med at gi&#x0027; mig slik kraft netop idag? Og gøre mig så sikker? &#x2013; Dette må jeg prøve at få vite. <stage>(går.)</stage> Undskyld mig et øjeblik, mine vænner! Hvorfor netop idag &#x2013;?</p>
+</sp>
+</div>
+<div type="uchapter" subtype="scene" n="1_5">
+<head type="sub">FEMTE MØTE</head>
+<sp>
+<speaker>Klara</speaker>
+<p>Vækkede du dem?</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Naturligvis. &#x2013; V&#x00E9;t du, hvad jeg tror, er i vejen?</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Gud ja! &#x2013; Å, jeg begynner at skælve så.</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Er der noget at gøre ved det?</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Nej; ikke uten at jeg selv må se til at dæmpe det. &#x2013; Å! &#x2013; Der var noget ved deres øjne igår. Nu forstår jeg det.</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>De har ikke længer sin fars tro.</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>De har ikke længer sin fars tro. &#x2013; Hvor de må ha kæmpet og lidt, de stakrer! De, som elsker og ærer ham over alt på jorden!</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Det var derfor, de var så stille igår.</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Det var derfor, de blev så rørt ved det aller minste! &#x2013; Å, det er derfor, Rakel har skrevet efter dig også. Nogen skulde være her, &#x2013; og hun turde ikke selv.</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Du har vist ret. &#x2013; Hvor de har strævet med dette, du?</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Å, de stakrer! De stakrer!</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Der kommer Elias!</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Er han der?</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<stage>(styrter sig på knæ foran moderens seng, med ansigtet mellem sine hænder).</stage>
+<p>Å, mor!</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Ja, ja &#x2013;! &#x2013; Jeg v&#x00E9;t det.</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Du v&#x00E9;t det? Det kan ikke være værre!</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Nej, det kan ikke.</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Da han sa&#x0027; igår aftes, at idag klokken syv &#x2026;</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>&#x2026; Ti stille! Jeg tåler det ikke.</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Din mor tåler det ikke.</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Nej, nej! &#x2013; Jeg visste jo, det måtte komme. På den ene måten eller på den andre. Det måtte til sist komme.</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Tåler du at høre det?</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Jeg må få høre. &#x2013; Sig mig &#x2013;?</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Hvad er det?</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Elias &#x2026; er du der ikke?</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Her er jeg, mor.</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Rakel?</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Hvad mener du, mor?</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Hvor er Rakel?</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Hun står op nu. Hun våkede med mig til klokken tolv inat. Men da kunde ikke Rakel mere.</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Hvorledes, barn, &#x2013; å, hvorledes &#x2013; kom dette &#x2013;?</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>At vi tapte vor fars tro?</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>&#x2026; at I tapte jer fars tro, barn?</p>
+</sp>
+</div>
+<div type="uchapter" subtype="scene" n="1_6">
+<head type="sub">SJETTE MØTE</head>
+<sp>
+<speaker>Sang</speaker>
+<p>Har I tapt jer tro? &#x2013; &#x2013; Min søn? &#x2013; &#x2013; Har du tapt din tro?</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Se Klara! Men Klara!</p>
+</sp>
+<sp>
+<speaker>Sang</speaker>
+<stage>(iler til henne. Lægger hænderne på henne).</stage>
+<p>Det stanser. Det kom ikke. &#x2013; Gud ske lov!</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Det går &#x2026; over. &#x2013; &#x2013; Men hold mig, du!</p>
+</sp>
+<sp>
+<speaker>Sang</speaker>
+<p>Jeg skal holde dig.</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Og lad mig ikke komme til at gråte! Å! &#x2013;</p>
+</sp>
+<sp>
+<speaker>Sang</speaker>
+<p>Nej, nej! Ikke gråte! <stage>(Han hælder sig helt over henne og kysser henne.)</stage> Vær nu stærk! &#x2013; Klara! &#x2013; &#x2013; Se så! Du skal ikke være bedrøvet. Du skal huske på, hvor bedrøvet <hi rend="italic">de</hi> har været. De har villet skåne os i sin smærte og kamp. Skal vi så ikke skåne dem?</p>
+</sp>
+<sp>
+<speaker>Klara</speaker>
+<p>Jo.</p>
+</sp>
+<sp>
+<speaker>Sang</speaker>
+<p>Se, derfor fik du dette anfall. Vi skulde få tænke os om. Ellers var vi kanske blet bitre mot dem. Især jeg i min iver. Hvor er Rakel?</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Hun kommer straks. Hun våkede med Elias til tolv inat.</p>
+</sp>
+<sp>
+<speaker>Sang</speaker>
+<p>De barn! De barn! &#x2013; Hvorledes kunde I &#x2013; &#x2013;? &#x2013; &#x2013; Nej, nej! Jeg vil ikke vite det.</p>
+<p>Altid var du ærlig. Har du gjort det, &#x2013; så måtte du.</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Jeg måtte. Men forfærdeligt har det været.</p>
+</sp>
+<sp>
+<speaker>Sang</speaker>
+<p>Du kom for let til din tro her hos mig. Jeg er jo bare følelses-mænneske. Kanske er dette ingangen til en tro, som ikke kan tapes.</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Jeg føler mig som en forbryder; &#x2013; men jeg er det ikke!</p>
+</sp>
+<sp>
+<speaker>Sang</speaker>
+<p>Tror du, jeg et øjeblik tviler, min søn? Tag ikke fejl af, at jeg ikke rigtig kan holde igen! Det kommer deraf, at jeg har bygget så meget op på, at I trodde. &#x2013; Så det skal ha sin tid, før jeg &#x2026; Nej, nej, nej! Tilgiv mig, Elias! Du kan jo slet ikke for det. <stage>(<hi rend="italic">Rakel</hi> kommer in. Men hun viger sky nogle skridt mot bakgrunnen. Han ser henne.)</stage></p>
+<p>Rakel! &#x2013; Å, du Rakel! <stage>(hun kommer og faller på sine knæ.)</stage> Fra du var ganske liten, har <hi rend="italic">du</hi> lært mig mere tro æn alle bøker. &#x2013; &#x2013;</p>
+<p>Hvorledes kan dette være muligt? Nej, når de har overvunnet <hi rend="italic">henne</hi>, så må jeg allikevel få vite hvorledes! &#x2013; For at nogen kunde ta&#x0027; <hi rend="italic">dig</hi> fra mig &#x2026;</p>
+</sp>
+<sp>
+<speaker>Rakel</speaker>
+<p>Ikke fra <hi rend="italic">dig,</hi> far!</p>
+</sp>
+<sp>
+<speaker>Sang</speaker>
+<p>Om forladelse! Å! Jeg vilde ikke såre dig. &#x2013; Kom op til mig! <stage>(Hun kaster sig til ham.)</stage></p>
+<p>Jeg lover eder, mine barn, at fra nu af skal jeg ikke nævne det mere. &#x2013; Men først må jeg få vite &#x2013; for det kan I ikke undres på? &#x2013;, hvorledes dette er gåt til.</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Om du vilde tale med mig om det i hele dager, far, så blev jeg vist ikke færdig med det.</p>
+</sp>
+<sp>
+<speaker>Sang</speaker>
+<p>Nej, det duger jeg ikke til. Jeg kan ikke forhandle om troen. Jeg forstår mig slet ikke på det.</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Men høre mig må du dog &#x2013;?</p>
+</sp>
+<sp>
+<speaker>Sang</speaker>
+<p>Når det kan være dig til trøst, så er det en annen sak. Da v&#x00E9;t du, jeg vil.</p>
+<p>Men kan du ikke sige mig det kort &#x2013;? <hi rend="italic">ganske</hi> kort?</p>
+<p>Hvad var det, som fik eder til &#x2026; som, ja, som bestemte eder, barn?</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Jeg kan sige det meget kort. Rakel og jeg, vi fant ikke, at de kristne var slik, som du havde lært os.</p>
+</sp>
+<sp>
+<speaker>Sang</speaker>
+<p>Men barn &#x2013;?</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Du havde sendt os til de beste, du visste. Og de var vist de beste også. Men Rakel og jeg var snart enige, og hun var den, som først sa&#x0027; det: &#x2013; Der er bare &#x00E9;n kristen, og det er far.</p>
+</sp>
+<sp>
+<speaker>Sang</speaker>
+<p>Men barn dog!</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Havde de andre været noget mere eller noget mindre af det, du er, en del af det, &#x2013; ja, <hi rend="italic">da</hi> havde vi vist ikke følt os skuffede. Men de er noget ganske annet; &#x2013; aldeles forskelligt.</p>
+</sp>
+<sp>
+<speaker>Sang</speaker>
+<p>Hvad mener du?</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Deres kristendom er en overenskomst.</p>
+<p>I liv og lære bøjer de sig for det bestående, &#x2013; det på deres sted, i deres tid bestående. For institutioner, for sædvaner, fordomme, økonomiske forhold og for alle andre forhold.</p>
+<p>De har funnet op utvejene i læren, så den kommer til at passe det, som er.</p>
+</sp>
+<sp>
+<speaker>Sang</speaker>
+<p>Er nu ikke dette strængt?</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p><hi rend="italic">Du</hi> søker op det idealeste i den og går efter det. Og så blir der forskel.</p>
+</sp>
+<sp>
+<speaker>Sang</speaker>
+<p>Men hvad kommer denne forskel <hi rend="italic">jer</hi> ved, kære barn?</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Den bragte os til at tænke, far. &#x2013; Kan du undres over det?</p>
+</sp>
+<sp>
+<speaker>Sang</speaker>
+<p>Tænk, så meget I vil! Når I bare ikke dømmer.</p>
+</sp>
+<sp>
+<speaker>Rakel</speaker>
+<p>Jeg tror ikke, vi gjorde det. Og v&#x00E9;t du hvorfor? Fordi vi så, at deres lære var likeså naturlig for dem, som din lære er det for dig.</p>
+</sp>
+<sp>
+<speaker>Sang</speaker>
+<p>Nu ja &#x2013;?</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Men hvad er så kristendom? Deres er det vel ikke?</p>
+</sp>
+<sp>
+<speaker>Sang</speaker>
+<p>Sæt, det ikke er? Hvad ondt er der i det? Når de gør det, som de forstår det?</p>
+</sp>
+<sp>
+<speaker>Rakel</speaker>
+<p>Er da kristendommen noget, som bare &#x00E9;n af millionen kan nå, kære far?</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Skal alle de andre bli fuskere på den?</p>
+</sp>
+<sp>
+<speaker>Sang</speaker>
+<p>Hvad kaller du kristen?</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Alene <hi rend="italic">den</hi> kaller jeg kristen, som af Jesus har lært fulkommenhedens hemmelighed, og som stræver did i <hi rend="italic">alt.</hi></p>
+</sp>
+<sp>
+<speaker>Sang</speaker>
+<p>Hvor jeg finner den forklaring elskelig! Du har noget af din mors fine sans. &#x2013; Å, det var altid min store drøm, at du engang &#x2026; Nej, nej, nej! &#x2013; Jeg har lovet eder det, barn &#x2026; Og jeg skal holde det. Du sa&#x0027; &#x2013;? Det er sant: fortræffeligt!</p>
+<p>Men, min søn, kan ikke enhvær få lov til at <hi rend="italic">forsøke</hi> at bli en kristen uten derfor at kalles en fusker? Hvad? Er det ikke her, at troen skøter på? Den enes fortjeneste på millioners skrøpelighed?</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Der nævner du det! Når vi af alt vort hjærte stræver, &#x2013; <hi rend="italic">da</hi> er det, troen skøter på.</p>
+</sp>
+<sp>
+<speaker>Sang</speaker>
+<p>Nu ja &#x2013;?</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Således praktiserer bare et eneste mænneske det, og det er du. De andre &#x2026; Nej, vær ikke bange! Det er ikke for at anklage, at jeg siger det. Hvad ret har jeg til det? De andre &#x2013; enten slår de så meget af, at de kan ta&#x0027; det med ro; det passer dem at gøre så; &#x2013; eller de forsøker virkelig &#x2013; og forstrækker sig! Ja, det er ordet.</p>
+</sp>
+<sp>
+<speaker>Rakel</speaker>
+<p>Ja, det er ordet.</p>
+<p>Og da var det, kære far, at jeg sa&#x0027; til Elias: Men passer disse idealer så lit&#x0027; til mænneskenes kår og ævner ænnu idag, så kan de vel ikke være fra den alvidende.</p>
+</sp>
+<sp>
+<speaker>Sang</speaker>
+<p>Var det du, som sa&#x0027; det? &#x2013; &#x2013; &#x2013;</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Rakels tvil kunde vi ikke mere bli kvit. Og så gav vi os til at søke. Vi fulgte disse idealer bakover i historien og kom <hi rend="italic">forbi</hi> vor tidsregning.</p>
+</sp>
+<sp>
+<speaker>Rakel</speaker>
+<p>De er &#x2013; alle sammen &#x2013; meget ældre æn kristendommen, far?</p>
+</sp>
+<sp>
+<speaker>Sang</speaker>
+<p>Jeg v&#x00E9;t det, barn.</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>De er forkynt længe før af sværmere &#x2026;</p>
+</sp>
+<sp>
+<speaker>Sang</speaker>
+<p>&#x2026; af østerlandske og græske sværmere i en fortvilet tid; en tid, hvori de beste bare stundede bort, mot et fornyelsens land, &#x2013; bort, bort! Jeg kænner dette, mine barn.</p>
+<p>Så det var her, I stupte? Hærre gud!</p>
+<p>Som om fornyelsens land, tusenårs-riket ikke var like så sant, fordi om det er en gammel, umådelig gammel østerlandsk drøm?</p>
+<p>Har det ladet vænte på sig så længe, at svake sjæle begynner at kalle det en umulig drøm &#x2013; og de krav, som fører did, umulige idealer, &#x2026; hvad viser det?</p>
+<p>Intet om læren, men meget om forkynnerne. Ak ja, &#x2013; meget om forkynnerne.</p>
+<p>Uten at tale om dem vil jeg bare sige, hvad der hændte mig selv. Jeg så, at kristendommen krøp på sin bug &#x2013; og ænda forsigtig forbi alle større tuer. Hvorfor gør den det? spurte jeg mig selv. Er det fordi, at dersom den rejste sig helt op, så løftede den tingene af deres hængsler? Er det kristendommen, som er umulig? eller er det mænneskene, som ikke tør?</p>
+<p>Om bare &#x00E9;n turde, &#x2013; var der så ikke tusen, som turde? Og så følte jeg, at jeg burde forsøke at være denne ene. Og det mener jeg, enhvær skal forsøke. Ja, uten det er han ingen troende. Ti tro, det er at vite, at for troen er ingen ting umulig, &#x2013; og så vise den tro!</p>
+<p>Er det for at skryte, jeg siger dette? Netop for at anklage mig. Ti uagtet jeg nu har bygget så højt og har havt så stor nåde, faller også jeg, ret som det er, ænnu ner fra gud.</p>
+<p>Har jeg ikke nu igen gåt her og tænkt det <hi rend="italic">umuligt</hi> at frelse henne der alene? Har jeg ikke tvilet og væntet på andres hjælp?</p>
+<p>Derfor tok gud hjælpen fra mig. Derfor havde han tilladt, at også I skulde stupe på &#x00AB;det umulige&#x00BB; og komme og fortælle mig det. Ti således skulde hans time forberedes. <hi rend="italic">Nu</hi> vil han vise os alle sammen, hvad som er muligt!</p>
+<p>Å, &#x2013; jeg gik her og forstod ikke! Nu forstår jeg. Jeg skal gøre det <hi rend="italic">alene.</hi> Nu har jeg fåt befalingen; nu kan jeg.</p>
+<p>Derfor den store forberedelsens nåde netop idag. Alt går sammen.</p>
+<p>Klara, hører du det? Det er ikke længer jeg, som taler; det er den store visshed i mig, &#x2013; og du v&#x00E9;t, hvem den hvær gang er fra! <stage>(Knæler hos henne.)</stage></p>
+<p>Klara, min dejlige væn, hvorfor skulde ikke <hi rend="italic">du</hi> være gud like så kær som nogen, der tror helt ut? Som om gud ikke var alles far?</p>
+<p>Guds kærlighed er ingen forret for de troende. De troendes forret er at <hi rend="italic">føle</hi> hans kærlighed og at fryde sig over den &#x2013; og i dens navn at gøre det umulige muligt.</p>
+<p>Du tålmodige, du trofaste! Nu går jeg fra dig for at prøve det. <stage>(Rejser sig.)</stage></p>
+<p>Ja! For at prøve det! Jeg går in i kirken, barn; ti jeg vil være ene. Jeg går ikke ut igen derfra, før jeg har fåt af guds hænder søvn til mor og efter søvn sundhed, så hun rejser sig og går iblant os.</p>
+<p>Bliv ikke forfærdede! Jeg føler, han vil! Han gir mig det ikke straks; ti denne gang har jeg tvilet. Men jeg skal holde ut og vænte på den strænge, den gode hærre. Farvel! <stage>(Han kaster sig ned over henne i en kort bøn.)</stage></p>
+<p>Farvel! <stage>(Kysser henne. Hun ligger ubevægelig. Han rejser sig.)</stage></p>
+<p>Tak, mine barn! Nu har I <hi rend="italic">dog</hi> hjulpet mig. Større, æn nogen kunde ane.</p>
+<p>Nu ringer jeg selv min bøn in. Altså ved klokkens første slag så v&#x00E9;t I, at jeg har begynt at be&#x0027; for mor. Fred med eder!</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<stage>(har uvilkårlig åpnet døren for ham. <hi rend="italic">Sang</hi> går).</stage>
+<p>Dette er &#x2026; Dette er &#x2026;</p>
+</sp><stage>(Hun brister i gråt.)</stage>
+<sp>
+<speaker>Elias</speaker>
+<p>Jeg må se &#x2026; Jeg må se ham gå in.</p>
+</sp><stage>(Går.)</stage>
+<sp>
+<speaker>Rakel</speaker>
+<stage>(fræm).</stage>
+<p>Mor! &#x2013; Å, mor!</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Tal ikke til henne! Hun ser nok på dig; men tal ikke til henne!</p>
+</sp>
+<sp>
+<speaker>Rakel</speaker>
+<p>Jeg er ræd.</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Her jeg står, kan jeg se din far. Nu er han snart ved kirken. &#x2013; Kom!</p>
+</sp>
+<sp>
+<speaker>Rakel</speaker>
+<p>Nej! &#x2026; Nej, jeg holder det ikke ut. Jeg er så ræd. &#x2013; Mor! Hun ser på mig; men hun svarer mig ikke. &#x2013; Mor!</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Stille, Rakel!</p>
+</sp><stage>(Det begynner at ringe.)</stage>
+<sp>
+<speaker>Rakel</speaker>
+<stage>(synker i knæ. Lit efter utbryter hun, men dæmpet).</stage>
+<p>Gud, Hanna!</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Hvad er det?</p>
+</sp>
+<sp>
+<speaker>Rakel</speaker>
+<p>Mor sover!</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Hun sover?</p>
+</sp>
+<sp>
+<speaker>Rakel</speaker>
+<p>Mor sover!</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Sandelig &#x2026;?</p>
+</sp>
+<sp>
+<speaker>Rakel</speaker>
+<p>Jeg må finne Elias. Jeg må sige det til Elias!</p>
+</sp><stage>(Ut.)</stage>
+<sp>
+<speaker>Hanna</speaker>
+<p>Hun sover som et barn. Å, gud!</p>
+</sp><stage>(Hun knæler.) (Da høres et døn, vedvarende, tyngre, bestandig tyngre; forfærdeligt stigende. Utenfra skrik. Huset skælver. Dønet vokser.)</stage>
+<sp>
+<speaker>Rakel</speaker>
+<stage>(utenfra).</stage>
+<p>Fjællet faller! <stage>(skriker; kommer så styrtende in).</stage> Fjællet faller over kirken! Over os! Like på kirken! På os! På far, på os! Det ruller, ryker, &#x2013; sortner, &#x2013; å!</p>
+</sp><stage>(Huker sig ner og vender ansigtet væk.)</stage>
+<sp>
+<speaker>Elias</speaker>
+<stage>(utenfor).</stage>
+<p>Far! &#x2013; Far! &#x2013; Å!</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<stage>(over søsterens seng).</stage>
+<p>Nu kommer det! Nu kommer det!</p>
+</sp><stage>(Dønet er på sit højeste. Så tar det lit efter lit af. Så høres atter over det kirkeklokken.)</stage>
+<sp>
+<speaker>Hanna</speaker>
+<stage>(springer op).</stage>
+<p>Det ringer ænnu! Han lever!</p>
+</sp>
+<sp>
+<speaker>Rakel</speaker>
+<p>Han lever!</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<stage>(utenfor).</stage>
+<p>Far lever! <stage>(Nærmere.)</stage> Kirken står. <stage>(In.)</stage></p>
+<p>Kirken står. Far lever. Like ved kirken bøjede skreden, &#x2013; gik mot venstre. Han lever, han ringer, å, gud!</p>
+</sp><stage>(Han kaster sig over moderens seng.)</stage>
+<sp>
+<speaker>Rakel</speaker>
+<stage>(kommer).</stage>
+<p>Elias! Mor &#x2013;?</p>
+</sp>
+<sp>
+<speaker>Hanna</speaker>
+<p>Hun sover!</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<stage>(springer op).</stage>
+<p>Sover hun?</p>
+</sp>
+<sp>
+<speaker>Rakel</speaker>
+<p>Ja, hun sover &#x2013;</p>
+</sp><stage>(Kirkeklokken går.)</stage>
+<sp>
+<speaker>Hanna</speaker>
+<p>Like rolig sover hun.</p>
+</sp>
+</div>
+</div>
+<div type="chapter" subtype="act" n="2">
+<head type="main">ANDEN HANDLING</head>
+<stage>En liten tømmer-stue. I bakgrunnen dør ut til en sval. Døren er vid-åpen. Vi ser ut i et trangt landskap, stængt af et nakent fjæll. På højre væg en dør. På venstre et stort vindu. Over døren mot svalen er et gyllent krusifiks inne i et kors, hvorover der er et glas-låg.</stage>
+<stage>Helt ned mot venstre en sofa og foran den et bord, hvorpå nogle bøker. Stoler langs væggene.</stage>
+<div type="uchapter" subtype="scene" n="2_1">
+<head type="sub">FØRSTE MØTE</head>
+<stage>(Elias kommer in fra svalen, snar, urolig. Han går i lærreds-bukser og på lette sko. Oventil alene skjorten; ikke hue på. Han stanser, går til vinduet og lytter. Vi hører tydelig, men fjærnt en salme, sunget af en mans-røst. Elias er stærkt grepet.</stage>
+<stage>Rakel kommer sagte in ad døren til højre, som var lukket, og som hun lukker efter sig. Hennes bror gør tegn, at hun skal stanse og høre.)</stage>
+<sp>
+<speaker>Rakel</speaker>
+<stage>(som også gripes, siger sagte).</stage>
+<p>Lad mig åpne døren til mor!</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<stage>(sagte).</stage>
+<p>Har da mor vågnet?</p>
+</sp>
+<sp>
+<speaker>Rakel</speaker>
+<p>Nej; men far hører hun nok. <stage>(Forsvinner til højre; kommer sagte in igen og lar døren stå åpen efter sig; siger sagte:)</stage></p>
+<p>Hun smilte.</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<stage>(sagte).</stage>
+<p>Å, Rakel!</p>
+</sp>
+<sp>
+<speaker>Rakel</speaker>
+<stage>(bevæget).</stage>
+<p>Elias! &#x2013; Sig intet; &#x2013; jeg tåler det ikke!</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Se ut, Rakel! &#x2013; Kan der være noget skønnere? Hundrer stille, å, så stille omkring kirken; og han i bøn og sang der inne uten anelse om, at der er nogen der ute. Vinduerne åpne, men for højt, til at han kan se. Og de på sit liv for ikke at bli hørt, for ikke at forstyrre!</p>
+<p>Se! Han talte om en bønne-kæde. Alle disse omkring kirken, &#x2013; det er bønne-kæde, det!</p>
+</sp>
+<sp>
+<speaker>Rakel</speaker>
+<p>Ja. <stage>(De lytter til sangen. Den slutter.)</stage></p>
+<p>Han synger ofte idag.</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Luk nu dørene! Jeg har så meget at fortælle dig. Jeg har været her to ganger og søkt dig.</p>
+</sp>
+<sp>
+<speaker>Rakel</speaker>
+<stage>(går sagte ut til højre; kommer igen og lukker efter sig. Siger højere).</stage>
+<p>Der har kommet ænnu flere folk i eftermiddag.</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Og der kommer bestandig, &#x2013; milevidt ifra! Du kan ikke se dem alle; for en stor del er borte i lundene og hører på læg-prædikanterne der. Der borte forstyrrer de ikke far. Så går folket af og til &#x2013; mellem lundene og kirken. &#x2013; Men se nu did ner til stranden &#x2013;?</p>
+</sp>
+<sp>
+<speaker>Rakel</speaker>
+<p>Nej, hvad er det? Markerne sortner af folk! Hvad er det?</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Det er missjons-skibet, som er kommet.</p>
+</sp>
+<sp>
+<speaker>Rakel</speaker>
+<p>Missjons-skibet?</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>V&#x00E9;t du ikke, at til det store missjons-møte i byen har alle østenfra lejet et dampskib? Nu ligger det her på fjorden.</p>
+</sp>
+<sp>
+<speaker>Rakel</speaker>
+<p>Her?</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Her!</p>
+</sp>
+<sp>
+<speaker>Rakel</speaker>
+<p>Men hvorfor kommer det hit?</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Til miraklet! Da vore ombud &#x2013; pastor Krøjer og &#x00E9;n til &#x2013; kom ombord ved anløpsstedet ute ved havet &#x2013;</p>
+</sp>
+<sp>
+<speaker>Rakel</speaker>
+<p>&#x2013; så &#x2013;?</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>&#x2013; og fortalte, hvad her var foregåt igår, og at far ænnu var inne i kirken alene og bad, &#x2013;</p>
+</sp>
+<sp>
+<speaker>Rakel</speaker>
+<p>&#x2013; Nu forstår jeg!</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>&#x2013; Så vilde ikke en eneste &#x00E9;n videre! men hit! Bispen og præsterne bad dem holde ord og aftale; men hit vilde de! Så måtte de andre gi&#x0027; efter. Nu er de her.</p>
+</sp>
+<sp>
+<speaker>Rakel</speaker>
+<p>Også præsterne?</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Bispen og præsterne &#x2013; naturligvis!</p>
+</sp>
+<sp>
+<speaker>Rakel</speaker>
+<p>De kommer da vel ikke hit in? &#x2013; Elias, du skulde være lit annerledes klædt.</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Jeg tåler ikke klæ&#x0027;r.</p>
+</sp>
+<sp>
+<speaker>Rakel</speaker>
+<p>Du tåler ikke &#x2013;?</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>De brænner mig. Og så har jeg en trang &#x2026; ja, som til at gå gennem luften. Jeg kan ikke beskrive dig det; men stundom synes jeg, at jeg måtte kunne det.</p>
+</sp>
+<sp>
+<speaker>Rakel</speaker>
+<p>Men, Elias &#x2013;!</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Der er han! Der går han!</p>
+</sp>
+<sp>
+<speaker>Rakel</speaker>
+<p>Hvem? &#x2013; Han der?</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Det <hi rend="italic">er</hi> dog ham? Ja, det er! Ham bar de hit imorges, syk, å, så syk; og nu går han; der ser du ham!</p>
+<p>Det var idag, da far første gang sang. Ingen havde væntet, han skulde synge; vi skar i at gråte alle sammen. Da rejste den syke sig af sig selv. Vi la&#x0027; ikke mærke til det, før han gik iblant os. &#x2013;</p>
+<p>Mor vil også rejse sig, Rakel! Jeg ser det for mine øjne!</p>
+</sp>
+<sp>
+<speaker>Rakel</speaker>
+<p>Rejse sig vil hun. Jeg vænter det fra stund til annen; men jeg skælver for det.</p>
+<p>Du ser på mig, Elias?</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Ja, &#x2013; for undertiden, når du taler, synes jeg, det går på værs. Også når de andre taler.</p>
+</sp>
+<sp>
+<speaker>Rakel</speaker>
+<p>Men, Elias &#x2013;?</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Stundom igen &#x2013; som nu &#x2013; hører jeg bare lyden; ikke meningen. For jeg hører samtidig noget, &#x2013; noget, som <hi rend="italic">ikke</hi> tales.</p>
+</sp>
+<sp>
+<speaker>Rakel</speaker>
+<p>Som <hi rend="italic">ikke</hi> tales?</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Oftest, at far roper; &#x2013; roper mig ved navn, &#x2013; som han gjorde igår morges. <stage>(Bevæges.)</stage> Han har tænkt noget, da han gav mig det navn. Det toner og anklager &#x2013; og med hans røst.</p>
+<p>Somme tider uafladelig; jeg jages! Midt under kænner jeg trang til at styrte mig i den største fare. Jeg er sikker på at komme uskadt derfra. Nej, bliv ikke ræd! Her er jo ingen.</p>
+</sp>
+<sp>
+<speaker>Rakel</speaker>
+<p>Elias, kom og sæt dig med mig inne hos mor! Der er fred inne hos mor.</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Jeg kan ikke, &#x2013; Rakel, svar mig for gud, &#x2013; prøv din siste, fineste tvil og svar mig: <hi rend="italic">er</hi> det miraklet, hvad vi her har oplevet?</p>
+</sp>
+<sp>
+<speaker>Rakel</speaker>
+<p>Gud, Elias, &#x2013; hvorfor bestandig dette?</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Men er det da ikke forfærdeligt, at de to eneste, som kanske ænnu tviler, det er hans barn?</p>
+<p>Jeg skulde gi&#x0027; mit liv for nu at være tryg.</p>
+</sp>
+<sp>
+<speaker>Rakel</speaker>
+<p>Elias, ikke mere! Jeg b&#x00E9;r dig!</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Sig mig bare, hvad <hi rend="italic">du</hi> tror! Dette med skreden, du? Det er for stort til at være et tilfælle. Ikke sant? Og mors søvn? Straks han ringte, &#x2013; søvn? Og søvn trods skreden? Søvn, sålænge <hi rend="italic">han</hi> b&#x00E9;r?</p>
+<p>Er dog ikke dette mirakel? Hvorfor er så ikke også det annet et mirakel, et stort mirakel?</p>
+</sp>
+<sp>
+<speaker>Rakel</speaker>
+<p>Jeg tror næsten, det er, Elias.</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Du gør?</p>
+</sp>
+<sp>
+<speaker>Rakel</speaker>
+<p>Men jeg er like ræd det for det!</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Ræd det, hvis det er mirakel? Men så kan du ikke tro, det er miraklet?</p>
+</sp>
+<sp>
+<speaker>Rakel</speaker>
+<p>Jo.</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>For det <hi rend="italic">kan</hi> dog ikke bare være hans magnetiske læge-kraft, dette? Eller magten af hans personlighed? Nej, det er mere! Er det miraklet? Føler du dig sikker?</p>
+</sp>
+<sp>
+<speaker>Rakel</speaker>
+<p>Jeg kan ikke ta&#x0027; dette op nu. Det er for at ha fred for det, jeg sitter i ly inne hos mor. Mors ærlighed likesom fyller hele rummet og døver slike spørsmål.</p>
+<p>Nu gæller det noget annet, Elias!</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Noget annet?</p>
+</sp>
+<sp>
+<speaker>Rakel</speaker>
+<p>Efter dette! Hvad vil komme efter dette, &#x2013; når hun har rejst sig? For dermed er det ikke slut. Til sist &#x2013;</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Til sist &#x2013;?</p>
+</sp>
+<sp>
+<speaker>Rakel</speaker>
+<p>&#x2013; Til sist gæller det deres liv!</p>
+</sp><stage>(Brister i gråt.)</stage>
+<sp>
+<speaker>Elias</speaker>
+<p>Rakel &#x2013;? Gud!</p>
+</sp>
+<sp>
+<speaker>Rakel</speaker>
+<p>Mor har ikke længer kraft til at stå imot med. Og han vil gå på &#x2013; netop nu!</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Med hvad?</p>
+</sp>
+<sp>
+<speaker>Rakel</speaker>
+<p>Med dette, &#x2013; hvad det nu er!</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Men sæt, det er miraklet, Rakel? Hvorfor da være ræd?</p>
+</sp>
+<sp>
+<speaker>Rakel</speaker>
+<p>Jeg kan ikke overse følgerne for mor og far, &#x2013; for os alle sammen.</p>
+<p>Du forstår mig slet ikke?</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Nej.</p>
+</sp>
+<sp>
+<speaker>Rakel</speaker>
+<p>Nej! Mig er det ganske det samme, hvad det er; det sprænger os. Det dræper os til sist!</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Miraklet?</p>
+</sp>
+<sp>
+<speaker>Rakel</speaker>
+<p>Ja, ja. Det er ingen velsignelse; det er en forfærdelse! &#x2013; &#x2013; Elias!</p>
+</sp><stage>(Hun rykker ham længre in i rummet.)</stage>
+<sp>
+<speaker>Elias</speaker>
+<p>Hvad er det?</p>
+</sp>
+<sp>
+<speaker>Rakel</speaker>
+<p>Der står en man like under vinduet og stirrer in. En besynderlig man, så blek.</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>&#x2013; I en frakke knappet helt op &#x2013;?</p>
+</sp>
+<sp>
+<speaker>Rakel</speaker>
+<p>Ja. &#x2013; <stage>(Med dæmpet skrik.)</stage> Der står han jo i stuen også!</p>
+</sp><stage>(Hun går baklængs som vigende for et syn og redder sig in til sin mor.)</stage>
+<sp>
+<speaker>Elias</speaker>
+<p>I stuen? &#x2013; Her?</p>
+</sp><stage>(<hi rend="italic">En ukænt man</hi> kommer i det samme i svalen fra venstre, går over tærskelen, står stille og ser sig om.)</stage>
+</div>
+<div type="uchapter" subtype="scene" n="2_2">
+<head type="sub">ANNET MØTE</head>
+<sp>
+<speaker>Elias</speaker>
+<stage>(idet den ukænte blir synlig).</stage>
+<p>Men <hi rend="italic">der</hi> er han!</p>
+</sp>
+<sp>
+<speaker>Den ukænte</speaker>
+<p>Tillader De &#x2013;?</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Hvem er De?</p>
+</sp>
+<sp>
+<speaker>Den ukænte</speaker>
+<p>Kan ikke det være det samme! &#x2013;</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Jeg har set Dem her siden igår.</p>
+</sp>
+<sp>
+<speaker>Den ukænte</speaker>
+<p>Ja. Jeg kom over fjællene hit.</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Over fjællene?</p>
+</sp>
+<sp>
+<speaker>Den ukænte</speaker>
+<p>Jeg stod der oppe og så skreden gå.</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Virkelig!</p>
+</sp>
+<sp>
+<speaker>Den ukænte</speaker>
+<p>Og hørte klokke-klangen. Og jeg så idag den syke, som rejste sig, da Deres far sang. &#x2013; &#x2013; Og nu spør jeg: er det der inne, Deres mor sover?</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Ja. Men ikke i første rum; i næste.</p>
+</sp>
+<sp>
+<speaker>Den ukænte</speaker>
+<p>Men om hun rejser sig, &#x2026; så går hun hit in &#x2013;? Så går hun mot kirken, hvor han er &#x2013;? Ikke sant? Så kommer hun? Hit?</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Nu, når De siger det &#x2013;?</p>
+</sp>
+<sp>
+<speaker>Den ukænte</speaker>
+<p>Og da spør jeg Dem, &#x2013; b&#x00E9;r jeg Dem &#x2013;: får jeg være her? &#x2013; Vænte her? Se det? Jeg har ønsket det så brænnende. Og jeg kan ikke længer motstå.</p>
+<p>Jeg skal ikke gå in, før jeg kænner mig drevet til at gå in. Jeg skal ikke sitte her og fylle, &#x2013; være i vejen. Men føler jeg mig uimotstålig drevet til at gå in her og vænte her og se &#x2026; Får jeg lov?</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Ja.</p>
+</sp>
+<sp>
+<speaker>Den ukænte</speaker>
+<p>Tak!</p>
+<p>Jeg skal sige Dem: denne dag bestemmer over mit liv.</p>
+</sp><stage>(Han går ut til højre i svalen.)</stage>
+</div>
+<div type="uchapter" subtype="scene" n="2_3">
+<head type="sub">TREDJE MØTE</head>
+<sp>
+<speaker>Elias</speaker>
+<p>Denne dag skal bestemme over mit liv! <stage>(<hi rend="italic">Krøjer</hi> fra venstre i svalen.)</stage> Krøjer, så du ham der? Ham til højre der?</p>
+</sp>
+<sp>
+<speaker>Krøjer</speaker>
+<p>Ja. Hvem var det?</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Du kænner ham ikke?</p>
+</sp>
+<sp>
+<speaker>Krøjer</speaker>
+<p>Nej.</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Vist en mærkelig man. &#x2013; Denne dag skal bestemme over mig! Gud! Der fik jeg ordet!</p>
+</sp>
+<sp>
+<speaker>Krøjer</speaker>
+<p>Det væntede jeg, Elias, at denne dag vilde bli en stor dag for dig.</p>
+<p>Hvem kan også motstå, hvad som her foregår?</p>
+<p>Bare disse hundrer i bøn omkring kirken, og han der innenfor, som ikke v&#x00E9;t om det! Jeg kan ikke tænke mig noget skønnere!</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Ikke sant! &#x2013; Å, jeg vil kaste angst og tvil; &#x2013; denne dag skal få bestemme! Hvad var dog det for et ord!</p>
+<p>Jeg har kæmpet og lidt uten at nå fræm. Og så <hi rend="italic">gives</hi> det mig! Straks har jeg mere fred. &#x2013; Lad os tale sammen!</p>
+</sp>
+<sp>
+<speaker>Krøjer</speaker>
+<p>Nej, &#x2013; ikke nu. Jeg har et ærend til dig.</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Til mig? &#x2013; Fra hvem?</p>
+</sp>
+<sp>
+<speaker>Krøjer</speaker>
+<p>Jeg har kommet tilbake hit med missjons-skibet.</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Jeg v&#x00E9;t det.</p>
+</sp>
+<sp>
+<speaker>Krøjer</speaker>
+<p>Og nu spør biskoppen og præsterne, om de kan få låne denne stue en times-tid?</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Hvortil?</p>
+</sp>
+<sp>
+<speaker>Krøjer</speaker>
+<p>De har trang til at overlægge, hvorledes de skal forholde sig til det, som her sker. Og vi v&#x00E9;t intet annet sted, hvor vi kan være alene. &#x2013; Ja, bliv nu ikke så forundret. Vi professjonister, vi af præke-håndværket, vi må jo prøve at se forstandigere på slikt æn andre, kan du skønne.</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Men det vil gi&#x0027; en lang og lej mislyd her inne?</p>
+</sp>
+<sp>
+<speaker>Krøjer</speaker>
+<p>Som kan bli til harmoni! Hvem motstår miraklet?</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Du har ret! Men her inne, du? Likesom kile sig in mellem far og mor? Og om far begynner at synge igen? Så kan vi jo ikke åpne til mor?</p>
+</sp>
+<sp>
+<speaker>Krøjer</speaker>
+<p>Hvad tror du, din mor eller din far vilde ha svaret dem?</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Ubetinget ja! Du har ret! De skal få stuen. &#x2013; Men lad <hi rend="italic">mig</hi> slippe for dette &#x2013;?</p>
+</sp>
+<sp>
+<speaker>Krøjer</speaker>
+<p><hi rend="italic">Jeg</hi> skal ordne det. Bægge dørene in til din mor er lukkede?</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Ja.</p>
+</sp>
+<sp>
+<speaker>Krøjer</speaker>
+<p>Så lukker jeg vinduet her og døren også, når de andre har kommet in.</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Lad <hi rend="italic">dem</hi> lukke sig in! Jeg vil ut og finne samfølelse hos dem der. <hi rend="italic">De</hi> vænter trygt på, at noget stort skal ske idag; &#x2013; og vænter vist ikke længe forgæves.</p>
+</sp><stage>(Går.)</stage>
+<sp>
+<speaker>Krøjer</speaker>
+<stage>(følger).</stage>
+<p>Derom skal vi be&#x0027;, Elias?</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Ja. Nu vil jeg prøve!</p>
+</sp><stage>(Bægge ut til vænstre.)</stage>
+</div>
+<div type="uchapter" subtype="scene" n="2_4">
+<head type="sub">FJÆRDE MØTE</head>
+<sp>
+<speaker>Krøjer</speaker>
+<stage>(in igen fra vænstre).</stage>
+<p>Vær så god!</p>
+</sp><stage>(Han går fræm og lukker vinduet. Imens kommer <hi rend="italic">bispen</hi> og <hi rend="italic">præsterne</hi> in. <hi rend="italic">Krøjer</hi> går tilbake og lukker døren.)</stage>
+<sp>
+<speaker>Blank</speaker>
+<p>De, som er kænt i dette hus, kunde De ikke sk&#x00E4;ffe os någet at spi-ise?</p>
+</sp>
+<sp>
+<speaker>Bispen</speaker>
+<p>Vi gør en komisk figur, &#x2013; jeg v&#x00E9;t det. Men saken er, vi var forfærdelig sjø-syke.</p>
+</sp>
+<sp>
+<speaker>Brej</speaker>
+<p>Vi beholdt ingen ting.</p>
+</sp>
+<sp>
+<speaker>Bispen</speaker>
+<p>Så fik vi endelig smult vand, og man skulde just koke og steke til os &#x2026;</p>
+</sp>
+<sp>
+<speaker>Brej</speaker>
+<p>Så kom mir&#x00E4;klet!</p>
+</sp>
+<sp>
+<speaker>Falk</speaker>
+<p>Jeg er så <hi rend="italic">frygtelig</hi> sulten.</p>
+</sp>
+<sp>
+<speaker>Krøjer</speaker>
+<p>Der er fare for, at heller ingen her har ænset maten idag; men jeg skal se efter.</p>
+</sp><stage>(Går.)</stage>
+<sp>
+<speaker>Jensen</speaker>
+<p>Jeg formelig har mat-hallucinationer. Slikt har jeg læst om; men man læser om så meget, man ikke tror.</p>
+<p>Det er især ryper, jeg ser.</p>
+</sp>
+<sp>
+<speaker>Falk</speaker>
+<p>Ryper!</p>
+</sp>
+<sp>
+<speaker>Jensen</speaker>
+<p>Jeg lugter dem også; stekte ryper!</p>
+</sp>
+<sp>
+<speaker>Blank</speaker>
+<p>Ryper?</p>
+</sp>
+<sp>
+<speaker>Flere</speaker>
+<p>Får vi ryper?</p>
+</sp>
+<sp>
+<speaker>Krøjer</speaker>
+<stage>(kommer igen og siger allerede i døren).</stage>
+<p>Desværre. Jeg var både i køkken og spisekammer; men tomt. Og ingen folk.</p>
+</sp>
+<sp>
+<speaker>Brej</speaker>
+<p>Ikke en eneste sjæl?</p>
+</sp>
+<sp>
+<speaker>Falk</speaker>
+<p>Jeg er så <hi rend="italic">frygtelig</hi> sulten.</p>
+</sp>
+<sp>
+<speaker>Bispen</speaker>
+<p>Lad os ikke gøre en altfor komisk figur heller, mine vænner.</p>
+<p>Vi får finne os i det uundgålige. Lad os tage fat. Behag at sætte eder! <stage>(Han selv sætter sig i sofaen; de andre tar stoler.)</stage></p>
+<p>I al korthed og i al stilhed &#x2013; ti vi v&#x00E9;t, at dette hus er bolig for en syk &#x2013;, vi må komme over&#x00E9;ns om, hvorledes vi her har at forholde os.</p>
+<p>Jeg har altid været af den mening, at foran enhvær slik bevægelse skulde præsten &#x2013; som regel &#x2013; holde sig neutral. Hværken samtykke eller motsige, intil bevægelsen lægger sig så vidt, at den kan bedømmes.</p>
+<p>Af alt mit hjærte ønskede jeg derfor idag, at vi skulde få rejse forbi. Men vi fik ikke rejse forbi.</p>
+</sp>
+<sp>
+<speaker>Præsterne</speaker>
+<stage>(mumlende mellem sig).</stage>
+<p>Vi fik ikke rejse forbi. Nej, vi fik ikke rejse forbi.</p>
+</sp>
+<sp>
+<speaker>Bispen</speaker>
+<p>Hit, hvor miraklet så at sige troddes at opholde sig, hit vilde de alle. Og jeg bebrejder dem det ikke.</p>
+<p>Men er <hi rend="italic">vi</hi> med, og det på samme skib, vil man have vor mening. Når vi kommer fræm til møtet, vil man også der have vor mening. &#x2013; Hvad er det?</p>
+</sp>
+<sp>
+<speaker>Krøjer</speaker>
+<p>Tillad mig i al ærbødighed: enten tror vi på miraklet og handler derefter; eller vi tror ikke på det og handler <hi rend="italic">der</hi>efter.</p>
+</sp>
+<sp>
+<speaker>Bispen</speaker>
+<p>Hm? &#x2013; Der er et tredje, min unge væn.</p>
+</sp>
+<sp>
+<speaker>Præsterne</speaker>
+<stage>(mumlende sig imellem).</stage>
+<p>Der er et tredje! S&#x00E4;ndelig, der er et tredje!</p>
+</sp>
+<sp>
+<speaker>Bispen</speaker>
+<p>Jo ældre og mere erfaren man blir, jo vanskeligere danner man sig en overbevisning, &#x2013; især om overnaturlige ting. &#x2013; Her vilde næppe tid og forhold engang tillade en undersøkelse. Og sæt, vi kom til forskellige meninger? Hvorledes vilde i disse tvilens tider en præstestrid om miraklet ta&#x0027; sig ut? Om der et steds oppe i Nordlandene for tiden gaves mirakler eller ej?</p>
+<p>Jeg ser, at gamle Blank begærer ordet.</p>
+</sp>
+<sp>
+<speaker>Blank</speaker>
+<p>Hvis jeg h&#x00E4;r forstået Deres højærværdighed rigtig, så h&#x00E4;r vi ikke først og fræmst at afgøre, om her foreligger et mir&#x00E4;kel eller ej. Derom goud vor f&#x00E4;der!</p>
+</sp>
+<sp>
+<speaker>Bispen</speaker>
+<p>Derom han! Der er ordet! Tak, du gamle!</p>
+</sp>
+<sp>
+<speaker>Blank</speaker>
+<p>Jeg me-iner, &#x00E4;t mir&#x00E4;klerne ounderligger en li-ige så stoor lovmæssighed som &#x00E4;lle &#x00E4;ndre ting, skønt vi ikke se-ir loven. Jeg me-iner det s&#x00E4;mme, som professor Pe-itersen me-iner.</p>
+</sp>
+<sp>
+<speaker>Falk</speaker>
+<p>I den bok, han aldrig utgir?</p>
+</sp>
+<sp>
+<speaker>Blank</speaker>
+<p>Men som h&#x00E4;n om nogle år vil udgi-ive.</p>
+<p>Men er det så, &#x2013; hv&#x00E4;d vægt ligger der så på det enkelte mir&#x00E4;kel, &#x2013; om vi kort-synede k&#x00E4;n se-i det eller ej?</p>
+<p>Tror me-inigheden, &#x00E4;t den se-ir det, så lover vi goud med den.</p>
+</sp>
+<sp>
+<speaker>Bispen</speaker>
+<p>Altså vil du dog, at vi skal godkænne miraklet?</p>
+</sp>
+<sp>
+<speaker>Blank</speaker>
+<p>Hværken godkænne eller ikke godkænne. Vi lover goud s&#x00E4;mmen med me-inigheden.</p>
+</sp>
+<sp>
+<speaker>Bispen</speaker>
+<p>Nej, gamle Blank, dette kommer vi ikke fra med lovsange.</p>
+</sp>
+<sp>
+<speaker>Præsterne</speaker>
+<stage>(mumlende sig imellem).</stage>
+<p>Dette kommer vi ikke fra med lovs&#x00E4;nge. Nej, dette kommer vi ikke fra med lovs&#x00E4;nge.</p>
+</sp>
+<sp>
+<speaker>Bispen</speaker>
+<p>Hr. Brej har ordet.</p>
+</sp>
+<sp>
+<speaker>Brej</speaker>
+<p>Jeg forstår virkelig ikke, hv&#x00E4;d som k&#x00E4;n være i vejen for str&#x00E4;ks &#x00E4;t godkænne mir&#x00E4;klet. Er det da noget så sjældent? Jeg ser <hi rend="italic">altid</hi> mir&#x00E4;kler. Vi er så v&#x00E4;nt til dem i min menighed, &#x00E4;t det usædv&#x00E4;nlige vilde være <hi rend="italic">ikke</hi> &#x00E4;t se-i dem.</p>
+</sp>
+<sp>
+<speaker>Falk</speaker>
+<p>Kunde ikke Brej være så snil at fortælle os noget om de miraklerne der hjemme i hans menighed?</p>
+</sp>
+<sp>
+<speaker>Bispen</speaker>
+<p>Nej, så kom vi på afveje. &#x2013; De har rejst Dem? Forlanger De ordet?</p>
+</sp>
+<sp>
+<speaker>Jensen</speaker>
+<p>Ja. Alt afhænger i dette tilfælle af det faktum, vi står foran. Er det et mirakel, &#x2013; måske flere &#x2013;; eller er det <hi rend="italic">ikke</hi> mirakel?</p>
+</sp>
+<sp>
+<speaker>Krøjer</speaker>
+<p>Netop.</p>
+</sp>
+<sp>
+<speaker>Jensen</speaker>
+<p>Hvært enkelt mirakel måtte undersøkes. Men så måtte vi ha et teknisk skøn, et godt medicinsk skøn og muligens tings-vidner optagne ved en god jurist. <hi rend="italic">Dette givet,</hi> &#x2013; da først kan præsterne med tryghed afgive sit åndelige skøn.</p>
+<p>Med &#x00AB;åndelig&#x00BB; mener jeg ikke det, vi ser og hører her af læg-prædikanter og andre så-kalte begejstrede eller beåndede.</p>
+<p>Jeg mener her som ellers en jævn, tæt, tør sanhed, &#x00AB;åndfullere&#x00BB;, jo jævnere, tættere, tørrere den er.</p>
+</sp>
+<sp>
+<speaker>Falk</speaker>
+<p>Hør!</p>
+</sp>
+<sp>
+<speaker>Jensen</speaker>
+<p>Kanske det så skulde vise sig, at som her kommer aldrig miraklet. Aldrig!</p>
+<p>Det kommer ikke væntet og hyldet af hundrer, kanske tusen, i ophidselse og nysgærrighed.</p>
+<p>Ja, nysgærrighed!</p>
+<p>Nej, miraklet kommer ægte, jævnt, stille, tørt til de ægte, jævne, stille, tørre.</p>
+</sp>
+<sp>
+<speaker>Falk</speaker>
+<p>Dette er virkelig som talt ut af mit hjærte.</p>
+</sp>
+<sp>
+<speaker>Krøjer</speaker>
+<p>Hvis Falk tillader, må jeg dog få gøre en bemærkning. Siden jeg kom hit op som præst, har jeg set, at de tørreste mænnesker ofte er de, som lettest blir bytte for overtro.</p>
+</sp>
+<sp>
+<speaker>Blank</speaker>
+<p>Dette er g&#x00E4;nske min erf&#x00E4;ring! S&#x00E4;ndelig!</p>
+</sp>
+<sp>
+<speaker>Krøjer</speaker>
+<p>Af mistænksomhed nægter de ofte det, som er åbenbart for alles øjne. Men så overfalles de likesom bakfra af en uforklarlig frygt og bestemmes derved af ting, som er rent usynlige for os andre.</p>
+<p>Jeg har tænkt mig, at det overnaturlige er i den grad blet arvelig trang i mænneskene, at motstår vi det på den ene måten &#x2013;</p>
+</sp>
+<sp>
+<speaker>Blank</speaker>
+<p>&#x2013; så kommer det på den &#x00E4;nnen! Hvad jeg h&#x00E4;r tænkt!</p>
+</sp>
+<sp>
+<speaker>Falk</speaker>
+<p>Ja, enten det nu kommer fra de tørre eller fra de saftige, så vil jeg rigtig spørge, om det er meningen, at nu skal vi opgi&#x0027;, hvad vi har vunnet af klarhed og orden innen kirken, og atter begynne at sværme som præsteviede <hi rend="italic">nat-ugler?</hi></p>
+</sp>
+<sp>
+<speaker>Brej</speaker>
+<p>Ser De på mig?</p>
+</sp><stage>(<hi rend="italic">Præsterne</hi> skoggerler.)</stage>
+<sp>
+<speaker>Bispen</speaker>
+<p>Hyssssss! Lader os huske på den syke der inne!</p>
+</sp>
+<sp>
+<speaker>Falk</speaker>
+<p>Mirakel-længselen er en utvækst på troen af samme slags som lægmans-væsenet på forkynnelsen, &#x2013; en uorden, en sygdom, egentlig en atavisme, et <hi rend="italic">opgulp.</hi></p>
+</sp><stage>(<hi rend="italic">Præsterne</hi> ler sagte og kommer derved til at hoste.)</stage>
+<sp>
+<speaker>Bispen</speaker>
+<p>Hyssssss!</p>
+</sp>
+<sp>
+<speaker>Falk</speaker>
+<p>Det mirakel, som ikke er godkænt af præsterne, så at sige ansat og insat af den øverste kirkestyrelse under h. m. kongens præsidium, det er for mig som en løsgænger, en landsstryker, en <hi rend="italic">inbruds-tyv.</hi></p>
+</sp><stage>(<hi rend="italic">Bispen</hi> ler sagte, og <hi rend="italic">præsterne</hi> med øjnene på bispen.)</stage>
+<sp>
+<speaker>Falk</speaker>
+<p>Det kan være bra at være naiv. Også jeg har været naiv. Men når man som præst i en stor by skal være bedrøvet med de bedrøvede over graven kl. 1, &#x2013; så glad med den glade bryllops-skare kl. 3, &#x2013; så kanske ved en fattigs døds-seng kl. 4 &#x2013; og så i middag på slottet kl. 5, &#x2013; så lærer man den mænneskelige skrøpelighed at kænne. Så lærer man: ikke at forlade sig på personerne, men des mere på institutionerne.</p>
+<p>Hvor miraklet viser sig, går al institution under i følelsernes oprør!</p>
+<p>Den katolske kirke har derfor prøvet at gøre en institution af miraklet. Men herpå har den tapt alle forstandiges agtelse og sitter igen med de enfoldige og de egennyttige.</p>
+<p>Jeg var engang i et dame-selskab, hvor der var bare jeg og så omtrent tyve damer. <stage>(Munterhed.)</stage> En af disse damer fik krampe. Straks &#x00E9;n til. Så ænnu &#x00E9;n til, i alt seks. <stage>(Munterheden stiger.)</stage> Da tok jeg og slog vand &#x2013; først på disse seks, &#x00E9;n efter &#x00E9;n <stage>(gør det efter med hånden);</stage> men så på flere af de andre også; for der er smitte i slikt.</p>
+</sp><stage>(Stor latter.)</stage>
+<sp>
+<speaker>Bispen</speaker>
+<stage>(fatter sig først).</stage>
+<p>Hyssssss! <stage>(Derpå brister han atter ut og de andre med ham; fatter sig:)</stage></p>
+<p>Hyssssss!</p>
+</sp>
+<sp>
+<speaker>Falk</speaker>
+<p>Dette tror jeg er sundt. Slå vand på!</p>
+</sp><stage>(Man ler ænnu og hoster in i sine lommetørklæder. Nogle af præsterne takker ham hjærtelig.)</stage>
+<sp>
+<speaker>Krøjer</speaker>
+<p>Vi kænner jo Falk og v&#x00E9;t, at han er en god man, trods sin underlige måte. Jeg tænker, hvis han f. e. så den gamle præste-enken her &#x2013; hun er nu henved hundre år &#x2013;, så vilde <hi rend="italic">han</hi> være den siste til at slå vand på henne, &#x2013; skønt hun går om iblant os som det levende mirakel og smitter alle ved sin tro. Det samme gæller den unge pige, Ågåt Florvågen, som plejer den gamle. Det mirakel, som vakte henne, det så jeg selv, og mange med mig. For <hi rend="italic">vore</hi> øjne, for <hi rend="italic">vore</hi> hænder var hun død og kold. Og han bad over henne og tok og rejste henne! I skal tro en mans vidnesbyrd! <stage>(Forundring.)</stage></p>
+<p>De er her nu.</p>
+</sp>
+<sp>
+<speaker>Flere</speaker>
+<p>De er her?</p>
+</sp>
+<sp>
+<speaker>Krøjer</speaker>
+<p>De kommer kanske her in. De stiler like på huset her, skønt det går langsomt. Den gamle vil se. Hun vil se henne, som skreden ikke vakte.</p>
+<p>Men se nu I på den gamle! Tal med henne! Tal til den pige, som følger! I vil få svar, pålidelige og klare som hennes åsyn.</p>
+<p><hi rend="italic">Dette</hi> fører længer fræm æn alle vore doktrinære overlægninger.</p>
+<p>Jeg siger det ikke for at anklage. Jeg har selv tænkt som I &#x2013; like til jeg blev præst her oppe. Ingen har følt det smærteligere æn jeg før, hvilket afkall kirken her har måttet gøre, og hvilke tarvelige doktriner, hvilke bortfortolkninger vi her står igen med.</p>
+<p>Vi er fattige, uten under, &#x2013; uten mot til at be&#x0027; om underet, &#x2013; og skal late, som vi kan forsmå det, eller som vi har det og er rike!</p>
+<p>Jeg kænner enhvær af eder så vidt, at <hi rend="italic">turde</hi> I, &#x2013; ja, var I aldeles trygge på, at her fik I se et mirakel så stort, at bibelens udødelige vilkår var opfylt: <hi rend="italic">&#x00AB;alle, som så det, trodde,&#x00BB;</hi> &#x2013; å, så skrøpelige enhvær af jer ellers kan være, I blev som barn, I gav jer ganske hen, I ofrede alle de dager, I har igen, til at forkynne det! <stage>(Bevægelse, især blant de ældre.)</stage></p>
+<p>Jeg tør gøre disse tilståelser på eders vegne, brødre, fordi jeg står innenfor ånds-ringen &#x2013; den, om hvilken det gæller: enten innenfor eller utenfor! Er en innenfor, da faller alle fattigdommens påfun af sig selv, og vi tør tilstå sanheden!</p>
+<p>Hvad er der igen af kristendommen, hvis kirken nu har tapt underet?</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<stage>(kommer utenfra).</stage>
+<p>Undskyld! &#x2013; Her er en, som ønsker at se min mor. Det er den gamle præste-enken.</p>
+</sp><stage>(Alle rejser sig. Da ser de i døren <hi rend="italic">præste-enken</hi> og <hi rend="italic">Ågåt. Elias</hi> åpner den dør, som fører in til højre, og går selv in. <hi rend="italic">Præsterne</hi> har tat sine stoler og draget sig ærbødig tilbake.)</stage>
+<sp>
+<speaker>Præste-enken</speaker>
+<stage>(som har nåd over tærskelen).</stage>
+<p>Slip mig nu, Ågåt! Nu vil jeg være alene. &#x2013; Alene. &#x2013; For her, hvor hærren har været, &#x2013; her er hellig grun. &#x2013; Her er hellig grun. &#x2013; Her er det ansigt til ansigt. &#x2013; Og da er det best at være alene. <stage>(Hun står nu så, at hun kan se in. Da nejer hun. Så rækker hun bægge sine hænder i vejret under stor henførelse. Så ser hun atter in, nejer. Vender sig og går.)</stage></p>
+<p>Hun var hvit. &#x2013; Skinnende hvit. &#x2013; Jeg kunde tænke det. &#x2013; Skinnende hvit. &#x2013; Og sov som et barn. &#x2013; Nu har jeg set det. &#x2013; Slikt lyser op. &#x2013; Å, hvor det lyser op! Tak, fordi du lot mig være alene.</p>
+</sp>
+<sp>
+<speaker>Ågåt</speaker>
+<p>Men <hi rend="italic">var</hi> du alene?</p>
+</sp>
+<sp>
+<speaker>Præste-enken</speaker>
+<p>Ganske alene. &#x2013; Ingen uten jeg. &#x2013; Hun var skinnende hvit.</p>
+</sp><stage>(De er utenfor.)</stage>
+<sp>
+<speaker>Elias</speaker>
+<stage>(kommer nu in fra højre).</stage>
+<p>Bægge døre er atter lukkede. Og nu skal jeg lukke denne.</p>
+</sp><stage>(Han går. <hi rend="italic">Præsterne</hi> står fræmdeles stille.)</stage>
+<sp>
+<speaker>Krøjer</speaker>
+<p>I talte ikke til henne?</p>
+</sp>
+<sp>
+<speaker>Bispen</speaker>
+<p>Nej.</p>
+</sp>
+<sp>
+<speaker>Krøjer</speaker>
+<p>Der er et sol-strejf over alles ansigter. &#x2013; Jeg skal sige hvorfor: &#x2013; de mænnesker, underet har strålet på, gir genskin.</p>
+<p>Lad os tale om dette!</p>
+</sp><stage>(Man samler sig og sætter sig igen.)</stage>
+<sp>
+<speaker>Jensen</speaker>
+<p>Får jeg gøre et spørsmål? &#x2013; &#x2013; Holder De ikke omvendelsen for et mirakel?</p>
+</sp>
+<sp>
+<speaker>Krøjer</speaker>
+<p>Det, vi kaller omvendelsens mirakel, kan eftergås psykologisk, skridt for skridt; altså er det intet mirakel.</p>
+<p>Det har sit tilsvarende i andre store religioner og i den rent moralske omvendelse, skønt den er stille.</p>
+<p>Men en kristendom, som hviler på miraklet og i tidens længde har tapt kraften til mirakel, &#x2013; hvad er den?</p>
+<p>Moralske forskrifter.</p>
+</sp>
+<sp>
+<speaker>Falk</speaker>
+<p>Det særegne for kristendommen er ikke miraklet; men troen på opstandelsen.</p>
+</sp>
+<sp>
+<speaker>Krøjer</speaker>
+<p>Som <hi rend="italic">alle</hi> de store religioner har? Som alle mænnesker med religiøs følelse har?</p>
+</sp>
+<sp>
+<speaker>Falk</speaker>
+<p>Men uten barne-forholdet.</p>
+</sp>
+<sp>
+<speaker>Krøjer</speaker>
+<p>Det er sant. Uten det.</p>
+</sp>
+<sp>
+<speaker>Falk</speaker>
+<p>Derfor uten den store hengivelse også.</p>
+</sp>
+<sp>
+<speaker>Krøjer</speaker>
+<p>Nej, <hi rend="italic">der</hi> er det ikke længer sant!</p>
+<p>Martyrernes kors-gang, &#x2013; kom den først til jorden med kristendommen? Den grænseløse lykke at leve og dø for det, man elsker, &#x2013; har vi lært den af kristendommen?</p>
+<p>Den var på jorden <hi rend="italic">før</hi> kristendommen; den er på jor den <hi rend="italic">ved siden</hi> af kristendommen den dag idag &#x2013; i alle optænkelige former.</p>
+</sp>
+<sp>
+<speaker>Bispen</speaker>
+<p>Hvad mener De da med kristendom?</p>
+</sp>
+<sp>
+<speaker>Krøjer</speaker>
+<p>For mig er kristendommen uendelig mere æn en moral-forskrift. Slike har vi både utførligere og finere andre steder æn i det ny testamente. For mig er den uendelig mere æn ævnen til hengivelse; hvis ikke, da kom meget på rang med <hi rend="italic">den.</hi></p>
+<p>Enten er kristendommen et liv i gud <hi rend="italic">utover</hi> værden og alle dens forskrifter; eller den er ikke. Enten er den mere æn hengivelse til hvilken som helst id&#x00E9;, nemlig en ny værden, et under; eller den er ikke. <stage>(Han sætter sig rystet og svak.)</stage></p>
+<p>Der var så meget, &#x2026; jeg skulde sige; &#x2026; men &#x2026; jeg kan ikke.</p>
+</sp>
+<sp>
+<speaker>Bispen</speaker>
+<p>Straks De kom ombord idag, kære Krøjer, så jeg, at De var overanstrængt og syk. Men det blir jo alle, som følger præsten Sang?</p>
+</sp>
+<sp>
+<speaker>Den ukænte</speaker>
+<stage>(har åpnet døren fra svalen uten at lukke den. Han har skridtvis nærmet sig).</stage>
+<p>Må jeg få ordet?</p>
+</sp><stage>(Alle vender sig; nogle rejser sig.)</stage>
+<sp>
+<speaker>Bispen</speaker>
+<p>Bratt, er det du?</p>
+</sp>
+<sp>
+<speaker>Andre</speaker>
+<p>Pastor Bratt?</p>
+</sp>
+<sp>
+<speaker>Atter andre</speaker>
+<p>Er <hi rend="italic">det</hi> Bratt?</p>
+</sp>
+<sp>
+<speaker>Bispen</speaker>
+<p>Du var ikke med <hi rend="italic">os?</hi> Hvorledes er du kommet hit?</p>
+</sp>
+<sp>
+<speaker>Bratt</speaker>
+<p>Over fjællene.</p>
+</sp>
+<sp>
+<speaker>Bispen</speaker>
+<p>Over fjællene? &#x2013; Det er da ikke til missjons-møtet, du vil?</p>
+</sp>
+<sp>
+<speaker>Bratt</speaker>
+<p>Nej, det er hit.</p>
+</sp>
+<sp>
+<speaker>Bispen</speaker>
+<p>Jeg forstår dig.</p>
+</sp>
+<sp>
+<speaker>Bratt</speaker>
+<p>Det er til miraklet, jeg vil. &#x2013; Og så kom jeg igår, just som skreden gik. Jeg stod på fjællet et stykke ifra og så. Og jeg hørte klokkeklangen. &#x2013; Og har været her siden. &#x2013; Og har i denne formiddag set en syk man bli båret til kirken, men under præstens salme-sang derinnefra rejse sig, takke gud og gå. Må jeg få ordet?</p>
+</sp>
+<sp>
+<speaker>Bispen</speaker>
+<p>Naturligvis.</p>
+</sp>
+<sp>
+<speaker>Bratt</speaker>
+<p>For jeg er en man i nød, som kommer og b&#x00E9;r eder om hjælp, brødre!</p>
+</sp>
+<sp>
+<speaker>Bispen</speaker>
+<p>Tal, kære!</p>
+</sp>
+<sp>
+<speaker>Bratt</speaker>
+<p>Jeg siger til mig selv: <hi rend="italic">her</hi> står jeg endelig foran miraklet. Og i næste øjeblik: ja, <hi rend="italic">er</hi> det også miraklet?</p>
+<p>For det er ikke det første sted, jeg har søkt til for at få se det. Jeg har vendt skuffet tilbake fra alle de store mirakel-steder i Europa. Her, det er sant, er troen større og enfoldigere; denne man er stor. Det har tat mig med overnaturlig magt, hvad jeg her har set. Og i næste øjeblik tvilen! Se, dette er min forbannelse! Jeg har pådraget mig den ved i syv år som præst at love den troende miraklet. Love ham det, fordi det stod så, &#x2013; skønt jeg selv tvilte; ti jeg havde aldrig set en troende få det! I syv år har jeg forkynt, hvad jeg ikke trodde på.</p>
+<p>I syv år har jeg derfor også, hvær gang de tunge dager kom (og de kom ofte, likesom de våkne nætter!), bedt brænnende: hvor er den mirakel-magt, du har lovet dine troende?</p>
+</sp><stage>(brister i gråt.)</stage>
+<sp>
+<speaker>Bispen</speaker>
+<p>Å, du taler ut, du! Du har altid gjort det.</p>
+</sp>
+<sp>
+<speaker>Bratt</speaker>
+<p>I bindende ord, det ene stærkere æn det andre, har han sagt det, at den troende har denne magt. Ja, magt til at gøre større ting, æn mænneskets søn har gjort.</p>
+<p>Hvor er den så blet af?</p>
+<p>Efter atten hundre års grænseløse tros-arbejde ænnu ingen så vidt troende, at han kan rejse et mirakel iblant os? Ænnu ikke guds eget løfte inløst?</p>
+<p>Tros-ævnen kan ikke være svækket. Det kan ikke ha gåt denne ævne motsat al annen slægts-ævne, &#x2013; således at ved bestandigt bruk har den minket. Nej.</p>
+<p>Efter mere æn atten hundre års forkynnelse må den i mange, mange slægter være en tusen-årig stigende arv, multipliceret af opdragelsen.</p>
+<p>Og ænda er den ikke stærk nok til at give miraklet? Alle de troendes længsel kan tilsammen ænnu ikke fræmbringe &#x00E9;t individ, som har den mirakel-magt, der gør alle dem til troende, der ser? For dette bibelens vilkår, det må til! Den siger gentagende: &#x00AB;alle de, der så det, trodde.&#x00BB; &#x2013; Altså et mirakel, der gør alle dem, der ser det, troende. Og tusener efter tusener faller fra; ti uagtet lovet, gives det ikke.</p>
+<p>En man med nutidens viden, en oplyst kvinne af vore dager lar sig ikke nøje med det, som en man eller kvinne fordum uten videre trodde. Ikke fordi deres tros-ævne er mindre; men fordi den er bedre omhegnet. Deres hengivelse er af en så meget dypere og innerligere art, at det er naturligt, ja, retfærdigt, at den er vanskeligere at vinne. Den, som får den, han får jo det meste, som ænnu er givet på jorden!</p>
+<p>Derfor: sæt in det tilsvarende! Eller du får den aldrig. <stage>(Dæmpet tale blant præsterne.)</stage></p>
+<p>Religionen er ikke længer mænneskenes eneste ideal. Skal den være deres højeste, så vis det! De kan leve og dø for det, som de elsker, &#x2013; for fædreland, for familje, overbevisning. Og da dette <hi rend="italic">er</hi> det højeste, som innen grænserne af det naturlige kan gives, og du skal vise dem noget ænnu højere, &#x2013; nu vel, så <hi rend="italic">ut over</hi> disse grænser! Vis dem underet!</p>
+</sp><stage>(Stor bevægelse blant præsterne.)</stage>
+<sp>
+<speaker>Falk</speaker>
+<stage>(rejser sig).</stage>
+<p>Der står et steds et vredt ord om den slægt, som ikke tror, uten den ser tegn.</p>
+</sp>
+<sp>
+<speaker>Bratt</speaker>
+<p>Og v&#x00E9;t De, hvad slægten svarer?</p>
+<p>&#x00AB;Vi b&#x00E9;r bare om de tegn, gud selv har lovet, &#x2013; lovet den, som tror! Eller har I ænnu ikke en eneste troende iblant eder? &#x2013; Hvad vil I os så?&#x00BB;</p>
+<p>Ja, det svarer slægten.</p>
+<p>Men giv denne samme slægt et mirakel, &#x2013; et, som tvilens skarpeste instrumenter ikke kan sønderlemme, et, hvorom det kan siges: &#x00AB;alle, som så det, trodde&#x00BB;, da kan I komme til at opleve, at det er ikke tros-ævnen, som mangler; det er miraklet. <stage>(Bevægelse blant præsterne.)</stage></p>
+<p>Forkynnelsen behøver ikke at sætte præmie op for lettroenheden. Troens aner er de fleste og de stærkeste selv i den skarpsindigste tviler! Er der nogen, som kænner det civiliserede mænneske og ikke v&#x00E9;t det? Er der nogen præst, som ikke har erfaret, at i almindelighed er faren netop den motsatte: i mangel af det ægte faller de i tro på det uægte.</p>
+</sp>
+<sp>
+<speaker>Flere</speaker>
+<stage>(sagte).</stage>
+<p>Dette er sant.</p>
+</sp>
+<sp>
+<speaker>Bratt</speaker>
+<p>Hvis et mirakel viste sig blant os, &#x2013; et så stort, at &#x00AB;alle, som så det, trodde&#x00BB; &#x2013;?</p>
+<p>Først kom millionerne stormende til, &#x2013; de, som lever i nød og længes, &#x2013; de skuffede, de fortrykte, de lidende, de, som vil ha retfærdighed.</p>
+<p>Fik de høre, at guds-riket i ordets gamle tydning var dalet på jorden igen, &#x2026; det kunde være, hvor det var, &#x2013; i gråt, i jubel, ja, om de fleste af dem skulde vite sig i fare for at dø på vejen, &#x2013; hellere dø på den vej æn leve på nogen annen! De krøp fræm af hvær sin by, sin hytte, sin seng, de syke foran, afsted mot guds-åbenbaringen.</p>
+<p>Men de blev ikke alene. Alle, som søker sanhed på jorden, kom efter. <hi rend="italic">De</hi> først, hvis sanheds-trang er størst, de dype, alvorlige granskere, de høje ånder. <hi rend="italic">Deres</hi> glød vilde være skønnest, deres tro vægtigst. Det er ikke sanhedstrangen, ikke tros-ævnen, som mangler dem; det er miraklet!</p>
+<p><hi rend="italic">Alle</hi> vil ha visshed og fred over værdens største spørsmål. Selv de letsindige, de, som har lagt dette til side som unyttigt eller umuligt! De er alle uten undtagelse opdragne til at længes efter mere, æn de v&#x00E9;t, d. v. s. til at tro. Men skaf dem pantet!</p>
+<p>Pantet på, at forkynnelsen er san! Ser de <hi rend="italic">det,</hi> da tror de også, hvad de <hi rend="italic">ikke</hi> ser.</p>
+<p>Således var det fra først af.</p>
+<p>De, som <hi rend="italic">nu</hi> slår sig til tåls med mindre, &#x2013; med sin personlige erfaring: &#x2013; de gør som muhamedanerne, jøderne, buddhisterne. Også <hi rend="italic">disse</hi> påberåber sig <hi rend="italic">alle</hi> sin personlige erfaring!</p>
+<p>Pantet på, at denne personlige erfaring er almen sanhed, det er det, som mangler.</p>
+<p>Men <hi rend="italic">det</hi> er det, jeg søker! For det er lovet!</p>
+<p>Å, gud, min gud! Jeg står her foran min siste prøve.</p>
+</sp>
+<sp>
+<speaker>Bispen</speaker>
+<p>Bratt, Bratt!</p>
+</sp>
+<sp>
+<speaker>Bratt</speaker>
+<p>Foran min <hi rend="italic">siste</hi> prøve. Ti kampen overgår mine kræfter. Jeg tar afsked som præst, &#x2013; afsked fra kirken, afsked fra troen, &#x2013; hvis, hvis, hvis &#x2013;!</p>
+</sp><stage>(Han brister i gråt.)</stage>
+<sp>
+<speaker>Bispen</speaker>
+<p>Min kære søn! Du må ikke &#x2013;</p>
+</sp>
+<sp>
+<speaker>Bratt</speaker>
+<p>Nej, tal ikke til mig! &#x2013; Jeg b&#x00E9;r! &#x2013; Nej, hjælp mig at bønfalle! For er miraklet ikke her, så kan det ikke være! Denne man er jo mere æn andre mæn; han er den ædleste, jorden bærer! En slik tro som hans har ingen set. Og en slik tro på hans tro har heller ingen set.</p>
+</sp>
+<sp>
+<speaker>Alle</speaker>
+<p>Det er sant!</p>
+</sp>
+<sp>
+<speaker>Bratt</speaker>
+<p>Og er det ikke forståligt? Han havde stor formue, da han kom hit. Han har git alt. Der er ikke tal på, så ofte han har utsat sit liv, når han bragte hjælp. Der er ikke tal på de mirakler, de tror, han har gjort. Just fordi de var så mange, trodde jeg ikke på dem.</p>
+</sp>
+<sp>
+<speaker>Præsterne</speaker>
+<stage>(sagte).</stage>
+<p>Også mig gik det så.</p>
+</sp>
+<sp>
+<speaker>Bratt</speaker>
+<p>Men kanske burde vi akkurat ha tænkt omvendt? At her er det, som er ment med &#x00AB;tro&#x00BB;? Troens tilværelse <hi rend="italic">er</hi> underet! Den må virke under! Kanske burde vi ha tænkt så?</p>
+<p>Hvad vi æn burde ha tænkt, &#x2013; vi burde ikke ha set så professjonelt tvilende på ham, som <hi rend="italic">jeg</hi> desværre har gjort. Hans kærlighed og tro burde ha ydmyget mig. Jeg anklager mig selv og b&#x00E9;r ham innerlig om forladelse i mit hjærte!</p>
+</sp>
+<sp>
+<speaker>Alle præster</speaker>
+<stage>(uten undtagelse).</stage>
+<p>Også jeg! Også jeg!</p>
+</sp>
+<sp>
+<speaker>Bratt</speaker>
+<p>Han er den beste man, vi kænner; han har den største tro, som er til; &#x2013; æn om miraklet var her?</p>
+</sp><stage>(Bevægelse.)</stage>
+<sp>
+<speaker>Jensen</speaker>
+<stage>(hviskende).</stage>
+<p>Se det kors der over døren? Er det aftensolen &#x2013; eller hvad er det?</p>
+</sp>
+<sp>
+<speaker>Bratt</speaker>
+<p>Jeg v&#x00E9;t ikke. Men vær vis på, at møter miraklet, da er tusener tilstede nu ved det møte, som vi ikke ser.</p>
+<p>Bare <hi rend="italic">vi</hi> også får være med! &#x2013; Bare vi får være med! Tænk, at opleve noget så stort, at &#x00AB;alle, som så, de trodde&#x00BB;!</p>
+<p>Det skulde <hi rend="italic">vi</hi> få være vidne til, &#x2013; du, du, jeg? Det er for meget; det kan ikke være muligt! &#x2013; &#x2013; &#x2013;</p>
+<p>Men er det muligt, &#x2013; da er der samtidig med os, brødre, &#x2013; å, så skrøpelige, så litet troende, så ukærlige som vi er, &#x2013;</p>
+</sp>
+<sp>
+<speaker>Alle</speaker>
+<p>&#x2013; Ja, ja! &#x2013; &#x2013;</p>
+</sp>
+<sp>
+<speaker>Bratt</speaker>
+<p>&#x2013; da er allikevel samtidig med os ikke så stort benådede til; da må vi uværdige være kalte! <stage>(Dyp bevægelse.)</stage></p>
+<p>Og ser jeg ut i den stængte, nakne fjord-bygd her under måke-skriket og tænker: guds-riket begynte i en yppig egn ved alfarvejen i sol-landene, &#x2013; hvilket vidnesbyrd, om det blev tat op igen i hele sin storhed her i en afsides, fattig bygd mot den evige is &#x2013; &#x2013; &#x2013;</p>
+</sp>
+<sp>
+<speaker>Falk</speaker>
+<stage>(rejser sig lik-blek).</stage>
+<p>Ja, ja!</p>
+</sp>
+<sp>
+<speaker>Flere</speaker>
+<p>Ja, ja.</p>
+</sp>
+<sp>
+<speaker>Bratt</speaker>
+<p>&#x2013; da synes jeg, alt går sammen, og at miraklet <hi rend="italic">må</hi> komme!</p>
+</sp><stage>(Alle har rejst sig.)</stage>
+<sp>
+<speaker>Bispen</speaker>
+<stage>(sagte).</stage>
+<p>Å, hvis det kom, så jeg gamle fik se det!</p>
+</sp>
+<sp>
+<speaker>Blank</speaker>
+<p>Ja, hvis vi nu blev tat op i den store tro!</p>
+<p>Ikke fordi vi fortjener at se; men fordi vi trænger det.</p>
+</sp><stage>(Gamle <hi rend="italic">Blank</hi> faller på sine knæ; snart flere.)</stage>
+<sp>
+<speaker>Bratt</speaker>
+<p>Fordi hele slægten trænger det! Hårdere for hvær tid. Fordi det er lovet. Fordi det <hi rend="italic">må</hi> være her, <hi rend="italic">hvis</hi> det er. <stage>(Knæler.)</stage></p>
+<p>Hans tro må kunne nå det! Hans er den største på jorden! Og troen kan! Å, den kan!</p>
+</sp>
+<sp>
+<speaker>Alle</speaker>
+<p>Den kan, den kan!</p>
+</sp>
+<sp>
+<speaker>Bratt</speaker>
+<p>&#x2013; Kunde den ikke, &#x2013; da var det hele umuligt.</p>
+<p>Da var det annet heller ikke sant. Da var der i alt dette noget grænseløst &#x2026;?</p>
+<p>Noget over ævne &#x2026;?</p>
+</sp>
+</div>
+<div type="uchapter" subtype="scene" n="2_5">
+<head type="sub">FEMTE MØTE</head>
+<sp>
+<speaker>Rakel</speaker>
+<stage>(høres innenfra angstfull rope).</stage>
+<p>Elias! <stage>(Hun kommer styrtende fra højre bent mot vinduet, som hun åpner, idet hun af al sin magt roper:)</stage> Elias! <stage>(Derpå kaster hun sig bakover og vilde være fallen, hvis ikke <hi rend="italic">Krøjer</hi> havde tat imot henne. Hun brister i gråt, men rejser sig straks forfærdet, peker in:)</stage></p>
+<p>Der! Der! Hun er ikke længer alene! &#x2013; Se dog, &#x2013; se! <stage>(Alle har rejst sig.) (Elias er i det samme synlig i svalen. Rakel river sig straks løs og iler mot ham)</stage> Mor! Mor!</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Har hun rejst sig?</p>
+</sp>
+<sp>
+<speaker>Rakel</speaker>
+<p>Ja, ja!</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Og går?</p>
+</sp>
+<sp>
+<speaker>Rakel</speaker>
+<p>Ja! Men hun er ikke alene!</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Dette må høres!</p>
+</sp>
+<sp>
+<speaker>Rakel</speaker>
+<p>Ikke in til far!</p>
+</sp>
+<sp>
+<speaker>Elias</speaker>
+<p>Nej, op på taket, op i klokke-tårnet, ringe det ut til hele værden!</p>
+</sp><stage>(Afsted.)</stage>
+<sp>
+<speaker>Rakel</speaker>
+<p>Men du har ingen stige? <stage>(Får intet svar; angst:)</stage> Men der er ingen stige!</p>
+</sp>
+<sp>
+<speaker>Krøjer</speaker>
+<stage>(med en håndbevægelse, sagte).</stage>
+<p>Hys!</p>
+</sp>
+<sp>
+<speaker>Bispen</speaker>
+<stage>(hviskende).</stage>
+<p>Å, hør!</p>
+</sp><stage>(Alle hører fra kirken:)</stage>
+<sp>
+<p>Halleluja, halleluja! Halleluja, halleluja!</p></sp>
+<sp>
+<speaker>Alle</speaker>
+<stage>(faller på knæ, idet de hvisker).</stage>
+<p>Han v&#x00E9;t det! Han v&#x00E9;t det!</p>
+</sp><stage>(Da kommer <hi rend="italic">Klara</hi> langsomt gående i sit hvite lin. Øjnene er fæstede på kirken; hun stanser og rækker hænderne ut mot sangen.)</stage>
+<sp>
+<speaker>Alle præsterne</speaker>
+<stage>(svarer i sagte kor).</stage>
+<p>Halleluja, halleluja! Halleluja, halleluja!</p></sp>
+<sp>
+<speaker>Rakel</speaker>
+<stage>(i svalen).</stage>
+<p>Nu står far i døren.</p>
+</sp><stage>(Vi hører ham nu synge stærkt og klart:)</stage>
+<sp><p>Halleluja, halleluja! Halleluja, halleluja!</p></sp>
+<stage>(Da faller kirke-klokken og alt folket in med. Der er slik jublende styrke, at det høres, som sang tusener. Og det stiger, fordi folket fra lundene iler til. Det er en stund, som om disse &#x00AB;halleluja&#x00BB; løfter huset.)</stage>
+<stage>(<hi rend="italic">Sang</hi> blir synlig i døren; aftensolen står på hans åsyn. Alle rejser sig, alle viger.</stage>
+<stage>Han rækker bægge armer ut mot <hi rend="italic">Klara,</hi> som står midt i rummet. Hun rækker sine ut igen; han går fræm og omslutter henne.</stage>
+<stage>Sangen bruser om dem. Stuen er full af folk; svalen likeså; de står over hværandre; nogle står i vinduet.</stage>
+<stage>Da glider hun langsomt ned ad hans skulder. Sangen stanser; alene kirke-klokken går.</stage>
+<stage>Hun gør en anstrængelse for at samle sig og rejse sig. Den lykkes halvt, idet hun løfter hodet og ser på ham.)</stage>
+<sp>
+<speaker>Klara</speaker>
+<p>Du skinnede, &#x2026; da du kom, &#x2026; min elskede!</p>
+</sp><stage>(Hennes hode synker atter, armene faller, hele kroppen gir efter.)</stage>
+<sp>
+<speaker>Sang</speaker>
+<stage>(står og holder henne, idet han lægger hånden på hennes hjærte; bøjer sig så over henne, forundret. Ser op mot det høje, idet han barnlig siger).</stage>
+<p>Men dette var ikke meningen &#x2013;? <stage>(Han bøjer det ene knæ og lægger hennes hode på det; undersøker; lægger henne varsomt ned og rejser sig, idet han ser op igen:)</stage> Men dette var ikke meningen &#x2013;? Eller &#x2013;? &#x2013; &#x2013; Eller &#x2013;?</p>
+</sp><stage>(Han tar sig til hjærtet; faller.) (<hi rend="italic">Rakel</hi> har ståt forstenet og set på. Nu gir hun et stort skrik og faller på knæ foran forældrene.)</stage>
+<sp>
+<speaker>Krøjer</speaker>
+<p>Hvad mente han &#x2013; med det &#x00AB;eller&#x00BB; &#x2013;?</p>
+</sp>
+<sp>
+<speaker>Bratt</speaker>
+<p>Jeg v&#x00E9;t ikke bestemt. &#x2013; Men han døde af det.</p>
+</sp>
+<sp>
+<speaker>Rakel</speaker>
+<p>Døde? &#x2013; Det er umuligt!</p>
+</sp>
+<stage>(Klokken vedblir.)</stage>
+</div>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Grundkløgten ved Riisbrighs Grav.</title>
+				<author>Grundtvig.</author>
+				<respStmt>
+					<resp>Generated <date when="2009-09-25"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="008"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1809">1809</date>
+			</publicationStmt>
+			 <sourceDesc>
+			  <p>[Source decription]</p>
+			 </sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1809_8_page0001.png"/>
+			<fw type="pageNum">936</fw>
+				<fw type="graphic"/>
+				<docTitle>
+	<titlePart type="main">Grundkløgten ved Riisbrighs Grav.</titlePart>
+</docTitle>
+<byline></byline>
+</titlePage>
+</front>
+<body>
+<div>
+<pb facs="1809_8_page0001.png"/>
+<fw type="pageNum">936</fw>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">S</hi>tander stille forte Mænd!</l>
+<l>Her med Støvet af min Ven,</l>
+<l>Sætter Risten ned paa Jord!</l>
+<l>Høit stal lyde mine Ord</l>
+<l>Til den tause Sorgeskare,</l>
+<l>Kirkens hvælvinger skal svare,</l>
+<l>Og stadfæste mine Ord.</l>
+</lg>
+<lg>
+<l>Han, hvis Støv nu Jord skal følge,</l>
+<l>Han, den Ædle, som I følge,</l>
+<l>Han mig søgte al sin Tid,</l>
+<l>Søgte mig med hellig Flid.</l>
+<l>Ei forgæves har han grundet,</l>
+<l>Hvad han ei paa Jord har fundet</l>
+<l>Fandt han nu, da Aanden sig</l>
+<l>Væved fra det kolde Lig.</l>
+</lg>
+<lg>
+<l>Mig at skue og begrunde</l>
+<l>Vilde ham ei Nornen unde</l>
+<l>Medens han var her paa Jord,</l>
+<l>Efter mine dunkle Spor</l>
+<l>Som er vidt i Skrifter spredte</l>
+<l>Derfor han saa saare ledte;</l>
+<l>Men han tabte ei sin Tro,</l>
+<l>Derfor eied Sindet Ro.</l>
+</lg>
+<lg>
+<l>Svag han sad paa gamle Dage,</l>
+<l>Taus han sad, ei lød hans Klage,</l>
+<l>Freden bygged i hans Bryst,</l>
+<l>Gud og Bøger var hans Trøst.</l>
+<l>Haardt den Evige ham prøved,</l>
+<l>Flammen Bøgerne ham røved,</l>
+<l>Røved ham sin sidste Skat</l>
+<l>Midt i Alderdommens Nat.</l>
+</lg>
+<lg>
+<l>Da sin Gud han bad med Sukke</l>
+<l>Ham den Verden at oplukke,</l>
+<l>Hvor ei stues gennem Glar,</l>
+<l>Hvor selv Natten vorder klar.</l>
+<l>lukt for Jorden blev hans Øie,</l>
+<l>Aabnet blev det for det Høie,</l>
+<l>Og han vandred i sin Tro</l>
+<l>Did hvor Lysets Aander bo.</l>
+</lg>
+<lg>
+<l>Mangen Aand fik Kraft at stige</l>
+<l>Høiere i Tankens Rige,</l>
+<l>Men en Vandel, mer uplettet,</l>
+<l>Efter Kristi Bud indrettet,</l>
+<l>Førte Ingen her paa Jord.</l>
+<l>Hører du det, tause Sørgeskare!</l>
+<l>Kirkens høie Hvælvinger mig svare,</l>
+<l>Og stadfæste mine Ord.</l>
+</lg>
+<lg>
+<l>Kommer kun I forte Mænd l</l>
+<l>Sænker Liget af min Ven</l>
+<l>Dybt l Graven ned til Ro!</l>
+<l>Støv skal blande sig med støvet,</l>
+<l>Aanden, den i Støv blev prøvet,</l>
+<l>Løfted sig til Gud ved Tro.</l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

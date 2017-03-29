@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Til Publikum!</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-19"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="015"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1810">1810</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1810_15_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Til Publikum!</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+	<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<head>Til Publikum!</head>
+<p>Da jeg veed. det er et Rygte, som troes af Mange, at jeg skal have lovet min Censor, Hr. Professor P. E. Müller ei at udgive min Dimis-
+<pb facs="1810_15_page0002.png"/>
+<fw type="pageNum">1815</fw>
+prædiken i Trykken, saa er klarer jeg det herved offenlig for en ligesaa latterlig som grov Usandhed.</p>
+<p><hi rend="align(right)">Nik. Fred. Sev. <hi rend="spaced">Grundtvig</hi>,</hi></p>
+<p><hi rend="align(right)">Kandidat i Theologien.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

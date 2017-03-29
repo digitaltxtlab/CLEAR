@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Ved Grunndlovsfesten</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-26"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="008"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1861">1861</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1861_8_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Ved<lb/>Grunndlovsfesten</titlePart>
+	<titlePart type="sub">i Herthadalen,<lb/>den 5te Juni 1861.</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Velkommen!</head>
+<head>Mel.: Velkommen i den grønne Lund.</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">D</hi>elkommen her ved <hi rend="spaced">Leiregaard</hi></l>
+<l>I Ly af grønne Skove,</l>
+<l>Som minder kækt om Kraftens Aar</l>
+<l>Med Fædres Tro og Love.</l>
+</lg>
+<lg>
+<l>Hver Kærvestok var da saa dansk</l>
+<l>Som Sjællandsfaren snakker,</l>
+<l>Da man os narred ei paa Fransk</l>
+<l>Med tyste Almanakker.</l>
+</lg>
+<lg>
+<l>Da Folket bar sin Konge høit</l>
+<l>Paa Skjolde og paa Baare,</l>
+<l>Og den <hi rend="spaced">Stærkodder</hi> tugted drøit.</l>
+<l>Som turde Kongen daare.</l>
+</lg>
+<lg>
+<l>Der er nu løbet fra den Stund</l>
+<l>Fuldmeget Nand til Stranden,</l>
+<l>I Tidens Lob i grønne Lund</l>
+<l>Blev Skik og Brug en anden.</l>
+</lg> 
+<pb facs="1861_8_page0002.png"/>
+<fw type="pageNum">2</fw>
+<lg>
+<l>Paa Tysk man bildte <hi rend="spaced">Kongen</hi> ind,</l>
+<l>Han skulde <hi rend="spaced">Folket</hi> bære.</l>
+<l>Det blev naturligviis til Vind,</l>
+<l>Og ham til liden Ære.</l>
+</lg>
+<lg>
+<l>Lad os i gamle <hi rend="spaced">Danmarks</hi> Aand</l>
+<l>Nu prøve Nyt, som duer,</l>
+<l>Saa <hi rend="spaced">Drot</hi> og Folk gaaer Haand i Haand,</l>
+<l>Stjøndt <hi rend="spaced">Tysken</hi> det ei huer.</l>
+</lg>
+<lg>
+<l>Da kommer <hi rend="spaced">Dansken</hi> til sin Ret,</l>
+<l>I Hytten og paa Borgen,</l>
+<l>Da bliver brat Mad-Byrden ^t.</l>
+<l>Lad <hi rend="spaced">Tysken</hi> drikke <hi rend="spaced">Sorgen</hi>!</l>
+</lg>
+<lg>
+<l>Da kjønt paa <hi rend="spaced">Dansk</hi> vi tales ved,</l>
+<l>Og godt forstaae hinanden,</l>
+<l>Og vil ei Tysken holde Fred,</l>
+<l>Saa slaae vi ham for Panden!</l>
+</lg>
+<lg>
+<l>Et Glædes-Blus vi tænde saa</l>
+<l>For <hi rend="spaced">Freden</hi> og for <hi rend="spaced">Livet</hi>,</l>
+<l>Da i sit rette Lys skal staae</l>
+<l>Alt hvad os Gud har givet.</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

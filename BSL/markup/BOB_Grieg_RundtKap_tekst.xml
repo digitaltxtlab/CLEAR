@@ -1,0 +1,923 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI PUBLIC "-// NSL Norge //EN" "http://www.bokselskap.no/tekstkoding/NSL_tei_xinclude.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="BOB_Grieg_RundtKap">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Bergen Offentlige Bibliotek/bokselskap.no, 2014
+<lb/>Nordahl Grieg: <hi rend="italic">Rundt Kap det gode Haab</hi> (1922)
+<lb/>Teksten i bokselskap.no f&#x00F8;lger 1. utgave, 1922, digitalisert av Bergen Offentlige Bibliotek som en del av prosjektet <hi rend="italic">&#x00C5;nd eies av alle &#x2013; Nordahl Grieg digitalisert</hi> (http://bergenbibliotek.no/nordahlgrieg).</title>
+</titleStmt>
+<publicationStmt>
+<p>Digitalisert av Bergen Offentlige Bibliotek, publiseres av bokselskap.no.</p>
+</publicationStmt>
+<sourceDesc>
+<p>kap.xml (mottatt fra Bergen Offentlige Bibliotek, februar 2014).</p>
+</sourceDesc>
+</fileDesc>
+<revisionDesc>
+<change xml:id="ENW" who="ENW" when="2014-03-05">Kodet om litt. Validert. Entiteter. Kodekontroll.</change>
+</revisionDesc>
+</teiHeader>
+<text xml:id="BOB_Grieg_RundtKap_tekst" type="poems">
+<front>
+<titlePage type="main">
+<byline>
+<docAuthor>Nordahl Grieg</docAuthor>
+</byline>
+<docTitle>
+<titlePart type="main">Rundt Kap det gode Haab</titlePart>
+<titlePart type="sub">Vers fra sj&#x00F8;en</titlePart>
+</docTitle>
+<docDate>1922</docDate>
+</titlePage>
+<div xml:id="contents">
+<list type="contents_main">
+<item><ref target="chapter_1" xml:id="contents_1">I</ref>
+	<list>
+	<item><ref target="poem_1_1" xml:id="contents_1_1">Rundt Kap det gode Haab</ref></item>
+	</list>
+</item>
+<item><ref target="chapter_2" xml:id="contents_2">II</ref>
+	<list>
+	<item><ref target="poem_2_1" xml:id="contents_2_1">Natt under land</ref></item>
+	<item><ref target="poem_2_2" xml:id="contents_2_2">Stormnatt</ref></item>
+	<item><ref target="poem_2_3" xml:id="contents_2_3">I passaten</ref></item>
+	<item><ref target="poem_2_4" xml:id="contents_2_4">Rustbanking</ref></item>
+	<item><ref target="poem_2_5" xml:id="contents_2_5">Frivakt</ref></item>
+	<item><ref target="poem_2_6" xml:id="contents_2_6">Sol og storm</ref></item>
+	<item><ref target="poem_2_7" xml:id="contents_2_7">D&#x00F8;dsseileren</ref></item>
+	<item><ref target="poem_2_8" xml:id="contents_2_8">S&#x00F8;ndag</ref></item>
+	<item><ref target="poem_2_9" xml:id="contents_2_9">Laien</ref></item>
+	<item><ref target="poem_2_10" xml:id="contents_2_10">Stavros</ref></item>
+	<item><ref target="poem_2_11" xml:id="contents_2_11">Lange dage</ref></item>
+	<item><ref target="poem_2_12" xml:id="contents_2_12">Flagget</ref></item>
+	<item><ref target="poem_2_13" xml:id="contents_2_13">Brevet</ref></item>
+	<item><ref target="poem_2_14" xml:id="contents_2_14">Fyrb&#x00F8;tere</ref></item>
+	<item><ref target="poem_2_15" xml:id="contents_2_15">Igjen tilsj&#x00F8;s</ref></item>
+	<item><ref target="poem_2_16" xml:id="contents_2_16">Sumatra-pike</ref></item>
+	<item><ref target="poem_2_17" xml:id="contents_2_17">Karant&#x00E6;ne i Colombo</ref></item>
+	<item><ref target="poem_2_18" xml:id="contents_2_18">Suezkanalen</ref></item>
+	</list>
+</item>
+<item><ref target="chapter_3" xml:id="contents_3">III</ref>
+	<list>
+	<item><ref target="poem_3_1" xml:id="contents_3_1">Skibslisten</ref></item>
+	</list>
+</item>
+</list>
+</div>
+</front>
+<body>
+<div type="part" subtype="dedication">
+<p><hi rend="italic">Til mine kamerater ombord.</hi></p>
+</div>
+<div type="part" n="1">
+<head><ref type="contents" target="contents_1" xml:id="chapter_1">I</ref></head>
+<div type="poem" n="1">
+<head type="main"><ref type="contents" target="contents_1_1" xml:id="poem_1_1">Rundt Kap det gode Haab</ref></head>
+<lg>
+<l>Jeg driver nedover gaten en blek og almindelig dag,</l>
+<l>og husenes r&#x00E6;kke graaner med kjendte, mismodige drag,</l>
+<l>de samme luvslitte sj&#x00E6;le gaar til sin daglige dont</l>
+<l>og b&#x00E6;rer med sig i lommen hele sit livs horisont.</l>
+</lg>
+<lg>
+<l>Og slik skal vi alle begraves i vanens og hverdagens grav,</l>
+<l>men endnu flakker min ungdom mot fremmede havner og hav,</l>
+<l>der tordner en storm derute, det gl&#x00F8;der av tropenes ild.</l>
+<l>Ondt eller godt. Hvad det saa er. Saa er det at v&#x00E6;re til.</l>
+</lg>
+<lg>
+<l>At kaste op sin gr&#x00F8;ngule sj&#x00E6;l over den spanske sj&#x00F8;,</l>
+<l>at krympe sig blek paa en luke og bare &#x00F8;nske at d&#x00F8;,</l>
+<l>at be og forbande himlen: Gid jeg var aldrig f&#x00F8;dt.</l>
+<l>Men hvilken befriet gl&#x00E6;de naar skibet igjen gik st&#x00F8;dt.</l>
+</lg>
+<lg>
+<l>At gaa mot den store sommer hvor himlen og b&#x00F8;lgens lyn</l>
+<l>staar i et skj&#x00E6;lvende lyshav som gl&#x00F8;der og bl&#x00E6;nder vort syn,</l>
+<l>at sitte om natten paa bakken, fortapt i en ukjendt dr&#x00F8;m,</l>
+<l>naar sj&#x00E6;len blir fuld av stjerner og god og barmhjertig og &#x00F8;m.</l>
+</lg>
+<lg>
+<l>At seile ind i en ukjendt vaar mot syd og der faa sin daab,</l>
+<l>ved Stormenes forbjerg som daarer har kaldt Kap det gode Haab,</l>
+<l>at jumpe paa slingrende bommer, mens br&#x00F8;nden stod i en foss,</l>
+<l>og stormen kastet mot skuten den ensomme albatross.</l>
+</lg>
+<lg>
+<l>At overvinde de lange d&#x00F8;gn og endelig komme iland,</l>
+<l>at kjende <emph>jord</emph> under foten, gaa omvei hvor der er vand!</l>
+<l>At gaa i en ellevild gl&#x00E6;de, en straalende lykkelig rus</l>
+<l>av marker og hester og mensker og blomster og tr&#x00E6;r og hus.</l>
+</lg>
+<lg>
+<l>At slukke i whisky &#x2013; i half and half &#x2013; sin strupes sviende brand,</l>
+<l>som aldrig det lyktes at d&#x00E6;mpe med tankens rustbrune vand,</l>
+<l>at drive nede paa beachen til vuggende fjern musik,</l>
+<l>bli &#x00F8;r i en br&#x00E6;nding av stemmer og latter og kvindeblik.</l>
+</lg>
+<lg>
+<l>At stikke tilsj&#x00F8;s en forrykende kveld, da havet tordnet ombord,</l>
+<l>at slingre over Australian Bay i ishavsstormenes spor,</l>
+<l>at vugges gjennem den blide monsun, hvor skapelsens morgener gryr,</l>
+<l>at seile mot fremmede kyster hvis navn er et eventyr.</l>
+</lg>
+<lg>
+<l>O, det er trods alt at leve! Der staar som en stormflod ind</l>
+<l>av brusende minder over mit fortaugsgraanede sind,</l>
+<l>og hjertet hamrer til takten av tordnende stempelslag</l>
+<l>paa vei mot de evige somre, ut i den store dag.</l>
+</lg>
+</div>
+</div>
+<div type="part" n="2">
+<head><ref type="contents" target="contents_2" xml:id="chapter_2">II</ref></head>
+<div type="poem" n="2">
+<head type="main"><ref type="contents" target="contents_2_1" xml:id="poem_2_1">Natt under land</ref></head>
+<lg>
+<l>Havnens h&#x00E6;slige gl&#x00E6;der</l>
+<l>griner geilt mot mit blik.</l>
+<l>Slagsmaal og raatne eder,</l>
+<l>halvgamle kvindfolk og drik.</l>
+</lg>
+<lg>
+<l>Vor rolige ruf forvandles</l>
+<l>til et besat bordell.</l>
+<l>Her trygles, trues og handles</l>
+<l>gjennem en dyrisk kveld.</l>
+</lg>
+<lg>
+<l>Det lyser bak teppenes fliker</l>
+<l>av fett, tatoveret kj&#x00F8;d.</l>
+<l>Kaienes skumle piker</l>
+<l>tjener det daglige br&#x00F8;d.</l>
+</lg>
+<lg>
+<l>Luften er tyk og slimet</l>
+<l>av st&#x00F8;nnende aandedrag,</l>
+<l>til morgenen graa og grimet</l>
+<l>kalder til atter en dag.</l>
+</lg>
+</div>
+<div type="poem" n="3">
+<head type="main"><ref type="contents" target="contents_2_2" xml:id="poem_2_2">Stormnatt</ref></head>
+<lg>
+<l>M&#x00F8;rke og storm paa havet.</l>
+<l>B&#x00F8;lgeberg braker avsted.</l>
+<l>Bakke og br&#x00F8;nd blir begravet</l>
+<l>under et sj&#x00F8;svart skred.</l>
+</lg>
+<lg>
+<l>Den store, havd&#x00F8;pte damper</l>
+<l>ligner et vilddyr i bur.</l>
+<l>Den dirrer avm&#x00E6;gtig og stamper</l>
+<l>mot sj&#x00F8;enes m&#x00F8;rke mur.</l>
+</lg>
+<lg>
+<l>Jeg ligger i k&#x00F8;ien og klynger</l>
+<l>i kv&#x00E6;lende kvalme mig fast.</l>
+<l>Den osende lampe gynger</l>
+<l>i jevn, fortvilende hast.</l>
+</lg>
+<lg>
+<l>Der klirrer etsteds en lanterne</l>
+<l>i evig, skaanselsl&#x00F8;s gang.</l>
+<l>Der slingrer et vers i min hjerne</l>
+<l>av sl&#x00F8;v, idiotisk klang.</l>
+</lg>
+<lg>
+<l>Kristian sitter ved d&#x00F8;ren</l>
+<l>med blanke oljekl&#x00E6;r paa.</l>
+<l>Han lytter med strittende &#x00F8;ren</l>
+<l>efter at glass skal gaa.</l>
+</lg>
+<lg>
+<l>Der gaar de &#x2013; de synker i bl&#x00E6;sten</l>
+<l>i fjern og metalhaard takt.</l>
+<l>Han reiser sig, griper sydvesten,</l>
+<l>gaar ut til en bitter vakt.</l>
+</lg>
+</div>
+<div type="poem" n="4">
+<head type="main"><ref type="contents" target="contents_2_3" xml:id="poem_2_3">I passaten</ref></head>
+<lg>
+<l>Stjernene funklet og skjalv dengang</l>
+<l>i det &#x00F8;de rum.</l>
+<l>Langt nede en &#x00F8;sterlandsk halvmaane hang,</l>
+<l>s&#x00F8;lvblank og krum.</l>
+<l>Vi h&#x00F8;rte bare maskinens sang.</l>
+<l>Ellers var natten stum.</l>
+</lg>
+<lg>
+<l>Passaten vugget ufattelig mild</l>
+<l>en taus melodi.</l>
+<l>Morild forvandlet vort kj&#x00F8;lspor til</l>
+<l>en gylden sti.</l>
+<l>Og bleke klaser av stjerneild</l>
+<l>sv&#x00F8;mmet forbi.</l>
+</lg>
+<lg>
+<l>Morild og stjerner! Alt blir en dr&#x00F8;m.</l>
+<l>Ingenting er.</l>
+<l>Det er bare himlen og morildens str&#x00F8;m.</l>
+<l>Vi vet ikke mer.</l>
+<l>Vi har ingen tanker, men tanken blir &#x00F8;m</l>
+<l>i sydnattens skj&#x00E6;r.</l>
+</lg>
+</div>
+<div type="poem" n="5">
+<head type="main"><ref type="contents" target="contents_2_4" xml:id="poem_2_4">Rustbanking</ref></head>
+<lg>
+<l>Der er d&#x00F8;sig ro i ruffen i den tid vi maa fordrive</l>
+<l>fra vi purres ut av k&#x00F8;ien til vi t&#x00F8;rner ut paa d&#x00E6;k.</l>
+<l>Nogen sl&#x00E6;nger sig paa d&#x00F8;rken, andre gumler paa en skive,</l>
+<l>h&#x00F8;r hvor Stavros lemmer knaker i et sisste s&#x00F8;vnig str&#x00E6;k!</l>
+</lg>
+<lg>
+<l>Men naar glass er gaatt paa broen og vi staar ved malerskapet,</l>
+<l>str&#x00F8;mmer blodet r&#x00F8;dt og muntert i det friske morgendrag,</l>
+<l>og jeg f&#x00F8;ler n&#x00E6;sten gl&#x00E6;de ved min rustpik og min skrape.</l>
+<l>De skal f&#x00F8;lge mig som venner i den endel&#x00F8;se dag.</l>
+</lg>
+<lg>
+<l>Bommer, luker og presenning rives v&#x00E6;k av rappe h&#x00E6;nder,</l>
+<l>og vi entrer nedad leidren dypt i lasterummets natt,</l>
+<l>klatrer op langs skutesiden, hvor der stritter plankeender</l>
+<l>og vi s&#x00E6;tter os og rider og tar vildt og hidsig fatt!</l>
+</lg>
+<lg>
+<l>Pikker smelder rapt mot jernet, rummet dirrer, hyler, braker,</l>
+<l>farten &#x00F8;ker, pikker lyner og blir torden i vor haand.</l>
+<l>Rusten spruter ut fra siden i en hagl av skarpe flaker</l>
+<l>&#x2013; altid rett mot vore &#x00F8;ine, og vi raser, men &#x2013; <emph>go on!</emph></l>
+</lg>
+<lg>
+<l>Men med ett blir farten mindre, og den huggende lavine</l>
+<l>blir til tunge, faste taktslag av en jevn, besindig kraft.</l>
+<l>Armen svinger som et stempel, som en vuggende maskine,</l>
+<l>og vor n&#x00E6;ve l&#x00F8;sner grepet om det smekre hammerskaft.</l>
+</lg>
+<lg>
+<l>Og det blir en egen gl&#x00E6;de ved at sitte saan og banke,</l>
+<l>bare dingle paa en planke og la pikken hugge l&#x00F8;s,</l>
+<l>uten omsorg eller tanke, helt til rummene er &#x00AB;blanke&#x00BB;,</l>
+<l>bare sitte saan og banke i en mildt arbeidsom d&#x00F8;s!</l>
+</lg>
+</div>
+<div type="poem" n="6">
+<head type="main"><ref type="contents" target="contents_2_5" xml:id="poem_2_5">Frivakt</ref></head>
+<lg>
+<l>&#x00AB;Hei kom op! Slut av dernede! Glass er gaatt. L&#x00E6;g luker paa!&#x00BB;</l>
+<l>Baatsen skriker ned i rummet, b&#x00F8;iet over lukekarmen.</l>
+<l>Og vi hiver pik og skrape! La det kvikt og villig gaa!</l>
+<l>Glass er gaatt, og det er helvede at jobbe her paa varmen!</l>
+</lg>
+<lg>
+<l>Og vi slentrer dovent forut. Vi har frivakt, vi er fri,</l>
+<l>det er vore egne timer, som vi verner om og freder.</l>
+<l>Det er stunden da vi glemmer havets bitre slaveri,</l>
+<l>det er al den fryd for ingentings smaa meningsl&#x00F8;se gl&#x00E6;der.</l>
+</lg>
+<lg>
+<l>La blot skipperen paa broen i de hvite tropekl&#x00E6;r</l>
+<l>staa og snakke hovent om os, stirre spotsk med kalle blikke.</l>
+<l>Han har alt at si om dagen, han bestemmer alt som sker,</l>
+<l>men om kvelden paa vor frivakt, nei! da v&#x00F8;rrer vi ham ikke.</l>
+</lg>
+<lg>
+<l>Vi har vasket os all over, og i rene dungarees</l>
+<l>sl&#x00E6;nger vi os op i k&#x00F8;ien, hvor vi prater eller l&#x00E6;ser,</l>
+<l>og vi t&#x00E6;nder os en Capstan, mens den friske aftenbris</l>
+<l>str&#x00F8;mmer kj&#x00F8;lig ind ventilen &#x2013; kjend sydostpassaten bl&#x00E6;ser!</l>
+</lg>
+<lg>
+<l>Og saa flaggrer muntre timer under noksaa haardh&#x00E6;ndt sp&#x00F8;k,</l>
+<l>alt mens beiteploks mysterier gaar l&#x00F8;s i vore hjerner.</l>
+<l>Men vi gisper efter tiden, vi maa ut og ha en r&#x00F8;k,</l>
+<l>hvor sekundene staar stille under evighetens stjerner.</l>
+</lg>
+<lg>
+<l>Ja, vi klynger os til stunden da vi f&#x00F8;ler vi er til,</l>
+<l>vi har ikke raad at sove, vi har ingen tid at tape,</l>
+<l>f&#x00F8;r vi atter blir maskiner &#x2013; under tropehimlens ild &#x2013;</l>
+<l>som skal staa til n&#x00E6;ste frivakt med en hammer eller skrape.</l>
+</lg>
+</div>
+<div type="poem" n="7">
+<head type="main"><ref type="contents" target="contents_2_6" xml:id="poem_2_6">Sol og storm</ref></head>
+<p><hi rend="italic">40 &#x00B0; sydlig bredde</hi></p>
+<lg>
+<l>I solorkan vi seiler</l>
+<l>mot en avsindig dag.</l>
+<l>De staalblaa sj&#x00F8;er steiler</l>
+<l>for stormens sv&#x00F8;peslag.</l>
+</lg>
+<lg>
+<l>Vi slingrer langs en vinter</l>
+<l>av tusen frosne aar.</l>
+<l>Et drag som skarpe splinter</l>
+<l>av is i luften gaar.</l>
+</lg>
+<lg>
+<l>Tungt bakser albatrosser</l>
+<l>i solens haarde skin,</l>
+<l>og selve havet fosser</l>
+<l>svart over skuten ind.</l>
+</lg>
+</div>
+<div type="poem" n="8">
+<head type="main"><ref type="contents" target="contents_2_7" xml:id="poem_2_7">D&#x00F8;dsseileren</ref></head>
+<lg>
+<l>Der hugger mot utkikens klokke et smeld,</l>
+<l>som dirrer en stund og d&#x00F8;r bort.</l>
+<l>Der klemter et ekko etsteds i os selv,</l>
+<l>det jager os ut i den bl&#x00E6;sende kveld,</l>
+<l>hvor himmel og hav gaar sort.</l>
+</lg>
+<lg>
+<l>Seiler paa styrbord. Ingenting mer.</l>
+<l>Gud vet hvad som t&#x00F8;rnet os ut.</l>
+<l>Ingen har bedt os, og her er et veir &#x2013; &#x2013;</l>
+<l>Der er det! Vi speider i m&#x00F8;rket og ser</l>
+<l>et skib gjennem sj&#x00F8;enes sprut.</l>
+</lg>
+<lg>
+<l>Alt hvad vi h&#x00F8;rte om s&#x00E6;lsom seilads</l>
+<l>gufser igjennem vort sind,</l>
+<l>aander som t&#x00E6;t under klippen slog glass,</l>
+<l>d&#x00F8;den som fingret ved kart og kompass</l>
+<l>da havet stod hylende ind.</l>
+</lg>
+<lg>
+<l>Vildt susende frem i den taakede natt</l>
+<l>flyver en stormhugget brigg,</l>
+<l>sp&#x00F8;kelsesskibet med ingen ved ratt</l>
+<l>og veiret hvinende dj&#x00E6;vlebesatt</l>
+<l>gjennem den seilslitte rigg.</l>
+</lg>
+<lg>
+<l>De sjangler i riggen, de d&#x00F8;ende m&#x00E6;nd</l>
+<l>som aldrig faar lov til at d&#x00F8;,</l>
+<l>de seiler hvor stormene sl&#x00E6;nger dem hen,</l>
+<l>i helvedes n&#x00E6;tter, igjen og igjen,</l>
+<l>over den fraadende sj&#x00F8;.</l>
+</lg>
+<lg>
+<l>Skyer som sortner, sj&#x00F8;er som slaar,</l>
+<l>er alle de ting som kan ske.</l>
+<l>Og ind gjennem m&#x00F8;rket d&#x00F8;dsskibet staar</l>
+<l>paa haabl&#x00F8;s seilads gjennem tusende aar,</l>
+<l>hvor hvert sekund er en ve.</l>
+</lg>
+</div>
+<div type="poem" n="9">
+<head type="main"><ref type="contents" target="contents_2_8" xml:id="poem_2_8">S&#x00F8;ndag</ref></head>
+<lg>
+<l>Vi kommer paa d&#x00E6;k, vi stanser:</l>
+<l>Gud for et veir, et veir!</l>
+<l>Solen og bl&#x00E6;sten danser</l>
+<l>gjennem de luftige kl&#x00E6;r.</l>
+<l>Det gnistrer av tusen luer</l>
+<l>i b&#x00F8;lgenes blide fald.</l>
+<l>Der lyner en sv&#x00E6;rm av duer</l>
+<l>i morgenens blaa krystal.</l>
+</lg>
+<lg>
+<l>Saa gir vi os til at vaske</l>
+<l>de kulsvarte dungarees,</l>
+<l>stive av st&#x00F8;v og aske,</l>
+<l>m&#x00F8;nje og rust og grease.</l>
+<l>Vi sp&#x00F8;ker og ler og synger,</l>
+<l>og solen skinner paa d&#x00E6;k.</l>
+<l>Alt det som ellers tynger</l>
+<l>svinder vidunderlig v&#x00E6;k.</l>
+</lg>
+<lg>
+<l>O, s&#x00F8;ndagens smaa idyller</l>
+<l>som ukens slit har fortjent.</l>
+<l>Vi koser os, vasker og skyller,</l>
+<l>og t&#x00F8;iet blir n&#x00E6;sten rent!</l>
+<l>Vi stj&#x00E6;ler en snor i maskinen,</l>
+<l>vi h&#x00E6;nger vor vask p&#x00E5; t&#x00F8;rk.</l>
+<l>kl&#x00E6;rne dingler langs linen,</l>
+<l>saa bakken er ganske m&#x00F8;rk.</l>
+</lg>
+<lg>
+<l>Paa midtskibet pr&#x00F8;ver kokken</l>
+<l>sin stolthet, sin violin.</l>
+<l>(Han solgte den siden i dokken</l>
+<l>med fryd for en flaske vin.)</l>
+<l>Han nynner med sagte stemme</l>
+<l>til tonernes milde ve:</l>
+<l>Skimter du haven hjemme</l>
+<l>under dens blomstersne?</l>
+</lg>
+<lg>
+<l>Men solen ruller med v&#x00E6;lde</l>
+<l>mot skyenes aftenland.</l>
+<l>Luften tar til at kvelde</l>
+<l>med blekr&#x00F8;de stjerners brand.</l>
+<l>Vi sitter paa d&#x00E6;k og dr&#x00F8;mmer</l>
+<l>om alt som er ingenting,</l>
+<l>mens havet og himlen str&#x00F8;mmer</l>
+<l>susende sort omkring.</l>
+</lg>
+</div>
+<div type="poem" n="10">
+<head type="main"><ref type="contents" target="contents_2_9" xml:id="poem_2_9">Laien</ref></head>
+<lg>
+<l>De saa dig nede paa kaien</l>
+<l>i Rio en aftenstund.</l>
+<l>De stjal dig og kaldte dig Laien.</l>
+<l>Slik blev du skibets hund.</l>
+</lg>
+<lg>
+<l>Her forut har du faatt hjemme.</l>
+<l>Du t&#x00E6;nker og f&#x00F8;ler som os.</l>
+<l>Du bjeffer av skipperens stemme</l>
+<l>med vild, ubestikkelig tross.</l>
+</lg>
+<lg>
+<l>Ja, kamerat &#x2013; du forsvarer</l>
+<l>os forut med frygtl&#x00F8;st sind:</l>
+<l>som skildtvakt langs r&#x00E6;kken du farer</l>
+<l>og biter hver sj&#x00F8; som slaar ind!</l>
+</lg>
+<lg>
+<l>Dit pussige liv gir os gl&#x00E6;der</l>
+<l>og smil gjennem dagenes savn.</l>
+<l>Til dig blir vort kaos av eder</l>
+<l>byttet med kj&#x00E6;rlige navn.</l>
+</lg>
+<lg>
+<l>For ensomme l&#x00E6;ngsler og dr&#x00F8;mme</l>
+<l>som ikke naar frem paa sin vei,</l>
+<l>blir kanskje forvandlet til &#x00F8;mme</l>
+<l>kj&#x00E6;rtegn og ord til dig!</l>
+</lg>
+</div>
+<div type="poem" n="11">
+<head type="main"><ref type="contents" target="contents_2_10" xml:id="poem_2_10">Stavros</ref></head>
+<lg>
+<l>Stavros Trepis er en dago, alle dagoes har det ord,</l>
+<l>at de er de v&#x00E6;rste dj&#x00E6;vle en kan leve med ombord.</l>
+<l>De er grusomme og sleske, de er fuld av svik og hat.</l>
+<l>Slik er ikke Stavros Trepis. Han er &#x00E6;rlig kamerat.</l>
+<l>Men hans blod har sydens ild,</l>
+<l>han er voldsom, strid og vild,</l>
+<l>og han griper ofte kniven, men han st&#x00F8;ter aldrig til.</l>
+</lg>
+<lg>
+<l>Naar vi spiller kort om kvelden og vi erter ham og ler:</l>
+<l>Stavros Enpis, Topis, Trepis &#x2013; han blir altid svarteper!</l>
+<l>kan han storme frem paa d&#x00F8;rken med en flom av bitre ord,</l>
+<l>rive kniven frem av sliren, hugge den i ruffens bord.</l>
+<l>Blikket flakker hit og dit, &#x2013;</l>
+<l>og han hv&#x00E6;ser vild og hvit:</l>
+<l>&#x00AB;Allesammen norska bona! Bare Stavros er en drit!&#x00BB;</l>
+</lg>
+<lg>
+<l>Men et &#x00F8;ieblik derefter er han smilende igjen,</l>
+<l>han bedyrer at han sp&#x00F8;kte, kalder hver is&#x00E6;r sin ven,</l>
+<l>og han jumper op i k&#x00F8;ien, ordner natgardinen godt,</l>
+<l>og han sl&#x00E6;nger hete sl&#x00E6;ngkys til en kvinde paa sit skot,</l>
+<l>mens han st&#x00F8;nner alt i ett &#x2013;</l>
+<l>det er jamen ikke lett</l>
+<l>at ha kj&#x00E6;resten i k&#x00F8;ien &#x2013; kun som farvelagt portr&#x00E6;t!</l>
+</lg>
+</div>
+<div type="poem" n="12">
+<head type="main"><ref type="contents" target="contents_2_11" xml:id="poem_2_11">Lange dage</ref></head>
+<lg>
+<l>Vi t&#x00F8;rner ut til igjen en dag,</l>
+<l>den samme dag som igaar.</l>
+<l>Maskinen hamrer de samme slag,</l>
+<l>de samme slag som igaar.</l>
+</lg>
+<lg>
+<l>Luften er tung og ruffen er lav,</l>
+<l>like lav som igaar.</l>
+<l>Og utenfor er bare himmel og hav,</l>
+<l>himmel og hav som igaar.</l>
+</lg>
+<lg>
+<l>Saa har vi at gj&#x00F8;re de samme ting,</l>
+<l>de samme ting som igaar.</l>
+<l>De samme m&#x00E6;nd ser jeg rundt omkring,</l>
+<l>de samme m&#x00E6;nd som igaar.</l>
+</lg>
+<lg>
+<l>Maskinen hamrer de samme slag,</l>
+<l>de samme slag som igaar.</l>
+<l>Saa er det omsider slut for idag.</l>
+<l>Idag? Eller er det igaar?</l>
+</lg>
+</div>
+<div type="poem" n="13">
+<head type="main"><ref type="contents" target="contents_2_12" xml:id="poem_2_12">Flagget</ref></head>
+<p><hi rend="italic">Newcastle, N. S. W. Australia.</hi></p>
+<lg>
+<l>Vi slet med at gj&#x00F8;re fort&#x00F8;iningen fast,</l>
+<l>skibet gled ind mot land,</l>
+<l>vi halte paa trosser i stakaandet hast.</l>
+<l>Da braastanset alle mand.</l>
+<l>For pludselig &#x2013; seilende op mot den blaa</l>
+<l>og hetesvimlende dag,</l>
+<l>paa skibene forut og agter &#x2013; vi saa</l>
+<l>vort eget, vort norske flag!</l>
+</lg>
+<lg>
+<l>Norge tok mot os, da vi kom ind</l>
+<l>her i den fremmede havn!</l>
+<l>Der skjalv en l&#x00E6;ngsel gjennem vort sind,</l>
+<l>en iling av smerte og savn.</l>
+<l>Men samtidig bruste blodet i sang,</l>
+<l>i heftig og lykkelig jag.</l>
+<l>Vi var &#x2013; kanh&#x00E6;nde for f&#x00F8;rste gang &#x2013;</l>
+<l>stolt over Norges flag!</l>
+</lg>
+<lg>
+<l>Det vugges gjennem den bl&#x00F8;te monsun,</l>
+<l>det flerres av Sydpolens bl&#x00E6;st,</l>
+<l>det flammer fra Gr&#x00F8;nland ned til Rangoon,</l>
+<l>det b&#x00F8;lger fra Canton til Brest.</l>
+<l>Norge er st&#x00F8;rre end nogen vet av:</l>
+<l>hvert skib under flaggets vift</l>
+<l>er paa det endel&#x00F8;st &#x00F8;de hav</l>
+<l>et nyt stykke Norge i drift!</l>
+</lg>
+</div>
+<div type="poem" n="14">
+<head type="main"><ref type="contents" target="contents_2_13" xml:id="poem_2_13">Brevet</ref></head>
+<lg>
+<l>Jeg staar og betragter brevet</l>
+<l>et lykkelig langt minut,</l>
+<l>de kj&#x00E6;re kjendte bokstaver</l>
+<l>over den graa konvolut.</l>
+</lg>
+<lg>
+<l>Jeg kikker paa datostemplet,</l>
+<l>&#x2013; fjorten uker er gaatt &#x2013;</l>
+<l>paa frimerkeraden i hj&#x00F8;rnet</l>
+<l>som skinner saa norskt og blaatt.</l>
+</lg>
+<lg>
+<l>Jeg l&#x00E6;ngtet saa efter brevet,</l>
+<l>mens ukene langsomt gik.</l>
+<l>Jeg aapner det ikke endnu.</l>
+<l>Jeg venter et &#x00F8;ieblik.</l>
+</lg>
+<lg>
+<l>For det er det lukkede brevet</l>
+<l>som eier den st&#x00F8;rste charm,</l>
+<l>og alt det som ikke er skrevet</l>
+<l>som gj&#x00F8;r os om hjertet varm.</l>
+</lg>
+</div>
+<div type="poem" n="15">
+<head type="main"><ref type="contents" target="contents_2_14" xml:id="poem_2_14">Fyrb&#x00F8;tere</ref></head>
+<lg>
+<l>Vi lever paa baren, vi slaass eller drikker</l>
+<l>den stund vi er fri under land.</l>
+<l>Vi gaar som i svime. Metoden er sikker,</l>
+<l>da faar vi den morro vi kan.</l>
+</lg>
+<lg>
+<l>Vi sl&#x00E6;nger ved disken, vi rangler og raser,</l>
+<l>vi muntrer vor n&#x00E6;ve og kniv.</l>
+<l>Vi sparker langt fanen de kulslidte laser</l>
+<l>og river en ed om vort liv.</l>
+</lg>
+<lg>
+<l>Vi jobber som f&#x00F8;rsterangs dj&#x00E6;vler paa d&#x00F8;rken,</l>
+<l>paa vakt gjennem hverdag og helg,</l>
+<l>til lungen gisper avm&#x00E6;gtig i t&#x00F8;rken</l>
+<l>fra fyrenes gl&#x00F8;dende svelg.</l>
+</lg>
+<lg>
+<l>Vi slaass under linjen med skufler og sleiser</l>
+<l>mot helvedes heteste kul,</l>
+<l>til d&#x00E6;ksvakten halvd&#x00F8;de, held&#x00F8;de heiser</l>
+<l>os op fra det br&#x00E6;ndende hul.</l>
+</lg>
+<lg>
+<l>Vi sl&#x00E6;per os forut til fritidens hvile,</l>
+<l>til kjekkel og kicking og kav,</l>
+<l>mens andre bekj&#x00E6;mper de langsomme mile</l>
+<l>gjennem det evige hav.</l>
+</lg>
+<lg>
+<l>Vort blodslit blir l&#x00F8;nnet med skjeldsord og eder.</l>
+<l>Vi skylder vel ingen en takk.</l>
+<l>Hvem fan har saa ret til at haane de gl&#x00E6;der</l>
+<l>vi finder blandt skj&#x00F8;ger og rakk.</l>
+</lg>
+</div>
+<div type="poem" n="16">
+<head type="main"><ref type="contents" target="contents_2_15" xml:id="poem_2_15">Igjen tilsj&#x00F8;s</ref></head>
+<lg>
+<l>H&#x00F8;r nu tordner alle wincher, alle trosser hives ind</l>
+<l>og maskinen synger op sin gamle takt.</l>
+<l>Broen smelder under lodsens og kapteinens rappe trin</l>
+<l>og paa d&#x00F8;rken og paa d&#x00E6;k har hvermand vakt.</l>
+</lg>
+<lg>
+<l>Vi skal ut tilsj&#x00F8;s iaften paa den vei som f&#x00F8;rer hjem</l>
+<l>gjennem tusener av gaatefulde mil,</l>
+<l>ut i hav og sol og stjerner til Sumatra blaaner frem</l>
+<l>med sit tropegyldne, palmebl&#x00F8;te smil.</l>
+</lg>
+<lg>
+<l>Se der svinder bungalowen, hvor i bl&#x00E6;st og maaneskin</l>
+<l>vi har sv&#x00E6;rmet paa den vildvinm&#x00F8;rke sti.</l>
+<l>Og et stjerneregn av gl&#x00E6;der flammer gyldent i mit sind.</l>
+<l>&#x00AB;Ikke sov for svarte fanen, men ta i!</l>
+</lg>
+<lg>
+<l>Nu skal lodsen gaa fraborde, rap dig &#x2013; hiv en leider ut!&#x00BB;</l>
+<l>I et rasende minut er floken grei.</l>
+<l>Lodsen sjangler ned i jollen i en storm av iskall sprut.</l>
+<l>Vi begynder paa den store, store vei.</l>
+</lg>
+<lg>
+<l>O! nu synger atter skuten av de tusen kjendte lyd</l>
+<l>som gaar sammen til et staalskrik i orkan!</l>
+<l>Og nu gynger atter sindet i en salt og sj&#x00F8;vant fryd</l>
+<l>paa det stormbesatte, stille ocean!</l>
+</lg>
+</div>
+<div type="poem" n="17">
+<head type="main"><ref type="contents" target="contents_2_16" xml:id="poem_2_16">Sumatra-pike</ref></head>
+<lg>
+<l>Jeg skal aldrig mere se dig. Aldrig. Jeg vil ikke</l>
+<l>se dig merket, rynket, vissen &#x2013; graa av n&#x00F8;d og fattigdom.</l>
+<l>Vi skal bare nyde livet i dets gyldne &#x00F8;ieblikke.</l>
+<l><emph>Den</emph> skal bli en saltgraa st&#x00F8;tte som maa altid se sig om.</l>
+</lg>
+<lg>
+<l>Jeg skal aldrig mere se dig. Men jeg vet at jeg vil huske</l>
+<l>stunden da du kom imot mig med din smidiglette gang,</l>
+<l>mellem h&#x00F8;ie ranke palmer, mellem junglens lave buske,</l>
+<l>mens den gule maane skinnet over veien til Padang &#x2026;</l>
+</lg>
+</div>
+<div type="poem" n="18">
+<head type="main"><ref type="contents" target="contents_2_17" xml:id="poem_2_17">Karant&#x00E6;ne i Colombo</ref></head>
+<lg>
+<l>Nu er vi inde! Det er godt at v&#x00E6;re</l>
+<l>omsider kommet lykkelig i havn!</l>
+<l>For himlen vet at det var stridt at b&#x00E6;re</l>
+<l>de lange dages kjedsomhet og savn.</l>
+</lg>
+<lg>
+<l>Men hvad er <emph>det</emph> som vaier der i bl&#x00E6;sten</l>
+<l>fra alle mastetr&#x00E6;r? Det gule flag.</l>
+<l>En skj&#x00E6;bnesvanger flammeskrift om pesten</l>
+<l>og den befaler: Bli ombord idag.</l>
+</lg>
+<lg>
+<l>Og byen ligger skj&#x00F8;n for mine blikke</l>
+<l>og skj&#x00E6;lver i den varme, hvite luft.</l>
+<l>Ja, byen ligger der, men jeg skal ikke</l>
+<l>beruses av dens gl&#x00F8;d og blomsterduft.</l>
+</lg>
+<lg>
+<l>Ja &#x2013; selv en engel maa bli vild tilmode</l>
+<l>ved synet av den strengt forbudte egn.</l>
+<l>Paa stranden luter der en gul pagode</l>
+<l>med v&#x00E6;ggen fuld av underlige tegn.</l>
+</lg>
+<lg>
+<l>Der b&#x00F8;lger sikkert r&#x00F8;kelse derinde,</l>
+<l>og i det m&#x00F8;rke, &#x00F8;sterlandske rum</l>
+<l>glir templets unge danserinde,</l>
+<l>mens Buddha grubler, m&#x00F8;rk og stum.</l>
+</lg>
+<lg>
+<l>Og prester danser i de hvite dragter</l>
+<l>som selsomt flagrer om den visne hud,</l>
+<l>og de besverger under vilde fagter</l>
+<l>sin tause, uutgrundelige gud.</l>
+</lg>
+<lg>
+<l>Og der er trange hemmelige str&#x00E6;der</l>
+<l>som kjender til al verdens synd,</l>
+<l>hvor angsten skj&#x00E6;lver gjennem alle gl&#x00E6;der</l>
+<l>og sj&#x00E6;len synker i et bundl&#x00F8;st dynd.</l>
+</lg>
+<lg>
+<l>Men livet tordner i de aapne gater,</l>
+<l>hvor solen spruter mod den gule sand</l>
+<l>og varmen velter op som fra et krater</l>
+<l>og jorden revner under himlens brand.</l>
+</lg>
+<lg>
+<l>Der staar et dj&#x00E6;velsk hyl fra alle kanter</l>
+<l>av alle folkeslag som Babel vet,</l>
+<l>men gjennem m&#x00E6;ngden ruver elefanter</l>
+<l>i uber&#x00F8;rt, alvorlig majest&#x00E6;t.</l>
+</lg>
+<lg>
+<l>Men fjernt fra larmen paa de store plasser</l>
+<l>er reist en marmorhvit og fornem mur,</l>
+<l>og skjult av den staar bl&#x00E6;ndende palasser</l>
+<l>mot orientens evige azur.</l>
+</lg>
+<lg>
+<l>Og her er Allahs underskj&#x00F8;nne haver</l>
+<l>med springvandsrisl og sagte palmesvai,</l>
+<l>hvor alt er rike, guddomsblide gaver</l>
+<l>og alting blomstrer i en evig mai.</l>
+</lg>
+<lg>
+<l>O, &#x00D8;sten kalder mig til gyldne gl&#x00E6;der,</l>
+<l>men haapl&#x00F8;st st&#x00E6;ngt er eventyrets egn.</l>
+<l>Jeg staar ved r&#x00E6;kken under bitre eder</l>
+<l>i t&#x00E6;t og europ&#x00E6;isk kulst&#x00F8;vregn!</l>
+</lg>
+</div>
+<div type="poem" n="19">
+<head type="main"><ref type="contents" target="contents_2_18" xml:id="poem_2_18">Suez-kanalen</ref></head>
+<lg>
+<l>Vi vaakner i en lavine av jern:</l>
+<l>Ankeret gaar!</l>
+<l>Vi h&#x00F8;rer en stemme fremmed og fjern</l>
+<l>som ingen forstaar.</l>
+</lg>
+<lg>
+<l>Og stilheten l&#x00E6;gger sig d&#x00F8;sig som f&#x00F8;r,</l>
+<l>snart dormer vi v&#x00E6;kk.</l>
+<l>Men styrmanden staar i den aapne d&#x00F8;r:</l>
+<l>&#x00AB;All hands on deck!&#x00BB;</l>
+</lg>
+<lg>
+<l>Tause og s&#x00F8;vndrukne kl&#x00E6;r vi os paa.</l>
+<l>Saa tar vi fatt</l>
+<l>at sl&#x00E6;pe paa trosser gjennem den graa,</l>
+<l>raakolde natt.</l>
+</lg>
+<lg>
+<l>Vi haler besv&#x00E6;rlig fra pikt og pop</l>
+<l>taljer og taug</l>
+<l>og rigger den tunge lyskaster op</l>
+<l>paa skibets baug.</l>
+</lg>
+<lg>
+<l>Den kaster et flakkende, s&#x00F8;lvhvitt skj&#x00E6;r</l>
+<l>over mot land</l>
+<l>og aabenbarer en revne der</l>
+<l>i &#x00F8;rkenens sand.</l>
+</lg>
+<lg>
+<l>Suezkanalen! Den evige str&#x00F8;m</l>
+<l>som engang forgik &#x2013;</l>
+<l>men levet bestandig i menskenes dr&#x00F8;m</l>
+<l>mot &#x00F8;stens mystik.</l>
+</lg>
+<lg>
+<l>Vi letter anker og sagte vi glir</l>
+<l>i &#x00F8;rkenens favn,</l>
+<l>det er som en tvang som paa engang befrir:</l>
+<l>en seilende havn.</l>
+</lg>
+<lg>
+<l>Men natten forsvinder. Det d&#x00E6;mrer av dag.</l>
+<l>Et flammende gry</l>
+<l>slaar op bak Arabiens h&#x00F8;idedrag.</l>
+<l>En morgen paany!</l>
+</lg>
+<lg>
+<l>Og himlen skj&#x00E6;lver vidunderlig blaa</l>
+<l>med gl&#x00F8;dende brand</l>
+<l>vildt over &#x00F8;rkenens solbleke graa,</l>
+<l>b&#x00F8;lgende land.</l>
+</lg>
+<lg>
+<l>Den evige &#x00F8;rken er alt det vi ser,</l>
+<l>men av og til</l>
+<l>gynger en klynge med palmetr&#x00E6;r</l>
+<l>i middagens ild.</l>
+</lg>
+<lg>
+<l>Dagen forbr&#x00E6;nder, men gir f&#x00F8;r den d&#x00F8;r</l>
+<l>en flygtende kveld</l>
+<l>av perlemor, s&#x00F8;lv og blod som forbl&#x00F8;r</l>
+<l>bak kalkhvite fjeld.</l>
+</lg>
+<lg>
+<l>Tre skikkelser staar paa en h&#x00F8;ides profil.</l>
+<l>De venter og ser.</l>
+<l>Kamelene bak dem har ogsaa faat hvil.</l>
+<l>Natten er n&#x00E6;r.</l>
+</lg>
+<lg>
+<l>Med ett b&#x00F8;ier &#x00F8;rkenens m&#x00E6;nd sig ned</l>
+<l>uten et ord.</l>
+<l>De kn&#x00E6;ler i stille, tillidsfuld fred.</l>
+<l>Allah er stor.</l>
+</lg>
+<lg>
+<l>Og m&#x00F8;rket staar inn paa et &#x00F8;ieblik &#x2013;</l>
+<l>stjerneskins-kallt.</l>
+<l>O, &#x00F8;rkenn&#x00E6;tternes vilde mystik</l>
+<l>som skj&#x00E6;lver i alt!</l>
+</lg>
+<lg>
+<l>I sandhavets &#x00F8;de, i palmernes vift,</l>
+<l>i menskenes dr&#x00F8;m,</l>
+<l>i stjerner paa himlen og stjerner i drift</l>
+<l>paa den m&#x00F8;rke str&#x00F8;m.</l>
+</lg>
+</div>
+</div>
+<div type="part" n="3">
+<head><ref type="contents" target="contents_3" xml:id="chapter_3">III</ref></head>
+<div type="poem" n="20">
+<head type="main"><ref type="contents" target="contents_3_1" xml:id="poem_3_1">Skibslisten</ref></head>
+<lg>
+<l>&#x00AB;Blaafjeld&#x00BB; er gaatt fra Callao.</l>
+<l>&#x00AB;Storegut&#x00BB; laster i Condon.</l>
+<l>&#x00AB;Hav&#x00BB; s&#x00F8;ker dok i Bilbao.</l>
+<l>&#x00AB;Bess&#x00BB; gaar fra Durban til London.</l>
+<l>&#x00AB;Liv&#x00BB; er avgaatt fra Kobe.</l>
+<l>&#x00AB;Anni&#x00BB; tar kul i Tsjang-Tsjang.</l>
+<l>Imorges passerte &#x00AB;Niobe&#x00BB; &#x2013;</l>
+<l>wireless over Padang.</l>
+</lg>
+<lg>
+<l>Der stormer gjennem avisen</l>
+<l>en br&#x00E6;nding av brusende navne,</l>
+<l>og hjertet blir gynget i brisen</l>
+<l>fra havet og b&#x00F8;lgeblaa havne, &#x2013;</l>
+<l>der driver en dr&#x00F8;m om zoner,</l>
+<l>hvor stjernenattens monsun</l>
+<l>stryker et kj&#x00E6;rtegn av toner</l>
+<l>over hver sp&#x00E6;ndt bardun.</l>
+</lg>
+<lg>
+<l>Der skimrer et syn av kaier,</l>
+<l>gjemt i et hemmelig m&#x00F8;rke,</l>
+<l>hvor palmekronene svaier</l>
+<l>gjennem den susende t&#x00F8;rke,</l>
+<l>hvor gule, giftige gl&#x00E6;der</l>
+<l>svimler i hashish-duft,</l>
+<l>og dagoens drukne eder</l>
+<l>flerrer den sorte luft.</l>
+</lg>
+<lg>
+<l>Det suser fra sydhavs&#x00F8;er,</l>
+<l>hvor br&#x00E6;ndende himle gynger,</l>
+<l>og lange s&#x00F8;vnige sj&#x00F8;er</l>
+<l>sin evige solsang synger.</l>
+<l>Der staar ved den blaa lagune</l>
+<l>hytter av flettet siv,</l>
+<l>som skygger over de brune,</l>
+<l>leende menskeliv.</l>
+</lg>
+<lg>
+<l>Der aapnes al verdens vindu</l>
+<l>mot fremmede eventyrlande:</l>
+<l>Der kn&#x00E6;ler en bronzebrun hindu</l>
+<l>ved Ganges hellige vande.</l>
+<l>Det m&#x00F8;rkner om karavanen</l>
+<l>i &#x00F8;rkenens korte kveld.</l>
+<l>Det hyler i sneorkanen</l>
+<l>rundt Himalayas fjeld.</l>
+</lg>
+<lg>
+<l>Der stiger shamaners klager</l>
+<l>om baalet i Papuas n&#x00E6;tter:</l>
+<l>gauchoshordene jager</l>
+<l>bortover Pampas&#x0027; sletter.</l>
+<l>Det glimter i nye ploger</l>
+<l>over Rhodesias veldt.</l>
+<l>Det suser i Yukons skoger</l>
+<l>rundt om et ensomt telt.</l>
+</lg>
+<lg>
+<l>Der gyver i Queenslands &#x00F8;rkner</l>
+<l>en sandstorm, hvor m&#x00E6;ndene stuper.</l>
+<l>Hazardens helvede m&#x00F8;rkner</l>
+<l>i Cuzcos svovlgule gruper.</l>
+<l>Der braker en h&#x00F8;stmaskine</l>
+<l>tungt gjennem Texas&#x0027; korn,</l>
+<l>der hvirvles en lasso-line</l>
+<l>over en okses horn.</l>
+</lg>
+<lg>
+<l>Der lyner et panorama</l>
+<l>av skj&#x00F8;nne, skiftende egne,</l>
+<l>det store sp&#x00E6;ndende drama</l>
+<l>kalder os allevegne,</l>
+<l>til savn, til sorg og til gl&#x00E6;de</l>
+<l>gjennem de unge aar.</l>
+<l>Vi har blot at holde os rede,</l>
+<l>og verden er vor &#x2013; er vor!</l>
+</lg>
+</div>
+</div>
+</body>
+</text>
+</TEI>

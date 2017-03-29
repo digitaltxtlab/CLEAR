@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://www.nslnorge.no/tekster/NSL_texts.xsl"?>
+<!DOCTYPE TEI PUBLIC "-// NSL Norge //EN" "http://www.nslnorge.no/tekster/NSL_tei_xinclude.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="BS_Moe_UtvalgteDikt">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>bokselskap.no, 2011
+<lb/>J&#x00F8;rgen Moe: <hi rend="italic">Utvalgte dikt</hi></title>
+</titleStmt>
+<publicationStmt><p>Publiseres som digital tekst av bokselskap.no.</p></publicationStmt>
+<sourceDesc>
+<p>digibok_2008011403003.txt og digibok_2009101303010.txt (mottatt fra Nasjonalbiblioteket/Bokhylla.no 2011)</p>
+</sourceDesc>
+</fileDesc>
+<revisionDesc>
+<change who="ENW" when="2011-06-06">F&#x00F8;rt inn korrekturresultatene. Kodekontroll.</change>
+<change xml:id="ENW" who="ENW" when="2011-05-23">Kodet om til xml (TEI P5). Klar for korrektur.</change>
+</revisionDesc>
+</teiHeader>
+<text xml:id="BS_Moe_UtvalgteDikt_tekst" type="collection">
+<front>
+<titlePage type="main">
+<byline><docAuthor>J&#x00F8;rgen Moe</docAuthor></byline>
+<docTitle>
+<titlePart type="main">Utvalgte dikt</titlePart>
+</docTitle>
+<docDate>1849&#x2013;55<note type="footnote">Tekstene i bokselskap.no er hentet fra <hi rend="italic">Digte</hi>, 2. utg. 1856 og <hi rend="italic">En liden Julegave</hi>, 2. utg. 1859 (tidl. utgitt som <hi rend="italic">At h&#x00E6;nge paa Juletr&#x00E6;et</hi> i 1855). Digitaliseringen er basert på skannet og o&#x00E6;-leste filer fra Nasjonalbiblioteket/Bokhylla.no.</note></docDate>
+</titlePage>
+<div type="chapter" subtype="illustration">
+<figure><graphic url="JorgenMoe.jpg"/></figure>
+</div>
+<div xml:id="contents">
+<list type="contents_main">
+<item><ref target="chapter_1" xml:id="contents_1">Blomster-Ole</ref></item>
+<item><ref target="chapter_2" xml:id="contents_2">&#x005B;Det lysned i Skoven&#x005D;</ref></item>
+<item><ref target="chapter_3" xml:id="contents_3">S&#x00E6;tergjentens S&#x00F8;ndag</ref></item>
+<item><ref target="chapter_4" xml:id="contents_4">Fanitullen</ref></item>
+<item><ref target="chapter_5" xml:id="contents_5">Den gamle Mester</ref></item>
+<item><ref target="chapter_6" xml:id="contents_6">Ungbirken</ref></item>
+</list>
+</div>
+</front>
+<body>
+<div type="chapter" subtype="poem" n="1">
+<head><ref type="contents" target="contents_1" xml:id="chapter_1">Blomster-Ole.</ref></head>
+<lg>
+<l>Jeg mindes grant fra min Barndoms Aar</l>
+<l>En Tigger, der kom</l>
+<l>Ret ofte op til min Faders Gaard,</l>
+<l>Naar han vandred om.</l>
+<l>Han var dem Alle til Spe og Spot &#x2013;</l>
+<l>Det Stakkels Fjog!</l>
+<l>I Stedet for Svar han Pikluen blot</l>
+<l>Over &#x00D8;rene drog.</l>
+</lg>
+<lg>
+<l>Hans Melpose laa i den venstre Arm</l>
+<l>Kun skj&#x00F8;desl&#x00F8;st;</l>
+<l>Den h&#x00F8;ire trykkede tro og varm</l>
+<l>Hans hele Tr&#x00F8;st:</l>
+<l>En Dusk af Blomster, som Mark og Skov</l>
+<l>Ham kj&#x00E6;rligt b&#x00F8;d,</l>
+<l>Som hos rige Folk, med tryglet Forlov,</l>
+<l>Han i Haven br&#x00F8;d.</l>
+</lg>
+<lg>
+<l>Hans Mine var slap, med et tosset Smil,</l>
+<l>Og &#x00D8;iet mat,</l>
+<l>Men traf det hans Dusk, en kraftig Ild</l>
+<l>Det klarede brat.</l>
+<l>Da vugged han Hovedet som i Dr&#x00F8;m &#x2013;</l>
+<l>Da saa han ud</l>
+<l>Som Elskeren, naar han stirrer &#x00F8;m</l>
+<l>Paa sin unge Brud.</l>
+</lg>
+<lg>
+<l>N&#x00E6;st Jordens Blomster han elsked Alt,</l>
+<l>Hvad ham tyktes skj&#x00F8;nt:</l>
+<l>En pragtfuld Villa, der hvilte svalt</l>
+<l>Bag Alleens Gr&#x00F8;nt,</l>
+<l>Ham vinkende drog, som det gyldne Slot</l>
+<l>Et barnligt Sind &#x2013;</l>
+<l>Han trygled saa l&#x00E6;nge, saa tyndt og smaat,</l>
+<l>Til han kom derind.</l>
+</lg>
+<lg>
+<l>Der tigged han aldrig om Mel eller Mad,</l>
+<l>Kun om at faa se:</l>
+<l>Hver glindsende Sal og hvert r&#x00F8;dmende Blad</l>
+<l>De maatte ham te.</l>
+<l>Og hvad han saa i de Riges Bo</l>
+<l>Af Pragtfuldt og Smukt,</l>
+<l>Forvarede han i Erindringen tro,</l>
+<l>Som laaset og lukt.</l>
+</lg>
+<lg>
+<l>Han yndede mig. Sine Syner tog</l>
+<l>Han mig stundom frem; &#x2013;</l>
+<l>Han brugte et eget, halv &#x00F8;sterlandsk Sprog</l>
+<l>Til at male dem:</l>
+<l>Af Blomsternes Farver og Liv og Skik</l>
+<l>Han tog sine Tr&#x00E6;k &#x2013;</l>
+<l>Hvor funklede Billedet for mit Blik</l>
+<l>I det brogede Bl&#x00E6;k!</l>
+</lg>
+<lg>
+<l>Men vilde man tvinge hans Tanker ind</l>
+<l>I Begreb og Dom,</l>
+<l>Da sammenfl&#x00F8;d Alt, da ligned hans Sind</l>
+<l>Et taaget Rum.</l>
+<l>I mangen et Herrens Aar han gik</l>
+<l>Til Bygdens Pr&#x00E6;st,</l>
+<l>De ti Bud Ord han dog aldrig fik</l>
+<l>Igjenneml&#x00E6;st.</l>
+</lg>
+<lg>
+<l>Han blev en Hedning. Guds hellige Ord</l>
+<l>Ei Lys ham gav,</l>
+<l>Imens han tigged sig frem over Jord</l>
+<l>Mod den sorte Grav.</l>
+<l>Ham kalded ei Klokken fra h&#x00F8;ie Luft</l>
+<l>Til Nadver og Daab, &#x2013;</l>
+<l>Men gl&#x00F8;dende Roser ham pr&#x00E6;ked med Duft</l>
+<l>Og Taarer hans Haab.</l>
+</lg>
+<figure rend="asterisk"/>
+<lg>
+<l>Det var en deilig Septemberdag</l>
+<l>Saa mat og r&#x00F8;d</l>
+<l>Stod Solen og dr&#x00F8;mte, mens lette Lag</l>
+<l>Af Taager fl&#x00F8;d.</l>
+<l>Jeg gik til Pr&#x00E6;sten, at l&#x00E6;se Latin,</l>
+<l>Min vante Gang:</l>
+<l>Da bar man en Kiste til Kirken ind</l>
+<l>Uden Klokkeklang.</l>
+</lg>
+<lg>
+<l>Knap h&#x00F8;vlet var Vr&#x00E6;den, kun str&#x00F8;gen slet</l>
+<l>Og kl&#x00F8;ttret gjort.</l>
+<l>Og armodsligt kun de Stakler kl&#x00E6;dt&#x0027;,</l>
+<l>Som bar den bort.</l>
+<l>Men foran den gik, i snehvidt Lin,</l>
+<l>Sex unge M&#x00F8;er;</l>
+<l>Af florvundne Kurve med Fingren sin</l>
+<l>De Blomster str&#x00F8;er.</l>
+</lg>
+<lg>
+<l>I Kisten <emph>laa han</emph>. Den Bane var haard,</l>
+<l>Som bragte ham Ro:</l>
+<l>Henkommen ensteds til en stadselig Gaard,</l>
+<l>Trak han af sine Sko.</l>
+<l>Dem stilled paa Trappens &#x00F8;verste Trin</l>
+<l>Han hen efter Skik</l>
+<l>Hos Pose og Stav, imedens han ind</l>
+<l>I Kj&#x00F8;kkenet gik.</l>
+</lg>
+<lg>
+<l>Der spigred af Kaadhed dem Drengene fast.</l>
+<l>Da han kom igjen</l>
+<l>Og ret skulde rokke ned med Hast,</l>
+<l>Han tumlede hen.</l>
+<l>Hans Hoved traf en kantet Sten</l>
+<l>Og farved den r&#x00F8;d &#x2013;</l>
+<l>&#x2013; Hvad var det saa mer? Det var Ingen til Men,</l>
+<l>At en Tigger var d&#x00F8;d.</l>
+</lg>
+<lg>
+<l>Der laa hans Legem i Kisten trang,</l>
+<l>Stivt, strakt og d&#x00F8;dt &#x2013;</l>
+<l>Nu skulde han ogsaa b&#x00E6;res engang</l>
+<l>Ret varligt og bl&#x00F8;dt; &#x2013;</l>
+<l>Den Fryd, man den <emph>Levende</emph> negted tidt</l>
+<l>Eller gnavent gav,</l>
+<l>Henkasted de venlige Piger blidt</l>
+<l>Paa den D&#x00F8;des Grav.</l>
+</lg>
+<lg>
+<l>Det r&#x00F8;rte og harmed min unge Sjel.</l>
+<l>Med Taarer i L&#x00F8;n</l>
+<l>Jeg bad ved Graven som til Farvel</l>
+<l>En hjertelig B&#x00F8;n:</l>
+<l>&#x00AB;Min Gud! vel kunde han ei forstaa</l>
+<l>Dine ti Bud Ord;</l>
+<l>Dog elskte han dig i Blomsterne smaa</l>
+<l>Og hvert Skj&#x00F8;nheds Spor.</l>
+</lg>
+<lg>
+<l>Her maatte han lide. Giv nu ham Ly</l>
+<l>Bag Palmen og Fred!</l>
+<l>Men Reisen er m&#x00F8;rk: send en rosenr&#x00F8;d Sky</l>
+<l>At hente ham med!&#x00BB;</l>
+<l>Saa tog jeg min Bogrem igjen i Arm</l>
+<l>Og vandred afsted,</l>
+<l>Men alt som jeg gik, for Vemod og Harm</l>
+<l>Mine Taarer gled.</l>
+</lg>
+<lg>
+<l>Da faldt den Tanke mig ind paa eengang:</l>
+<l>Naar du f&#x00F8;rst bli&#x0027;er stor,</l>
+<l>Skal du rigtig skrive den Stakkel en Sang</l>
+<l>Med deilige Ord.</l>
+<l>I Graven hviler den Fattigmand</l>
+<l>Alt l&#x00E6;nge nu &#x2013;</l>
+<l>Jeg digter hans Vise, saa godt jeg kan,</l>
+<l>Med trofast Hu.</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem" n="2">
+<head><ref type="contents" target="contents_2" xml:id="chapter_2">&#x005B;Det lysned i Skoven&#x005D;
+<lb/>(S&#x00E6;terreise 5)</ref></head>
+<lg>
+<l>Det lysned i Skoven, da ilede jeg frem,</l>
+<l>Snart stod jeg, hvor Bakkestupet skraaned.</l>
+<l>Jeg saa den vide Bygd, jeg saa mit kj&#x00E6;re Hjem,</l>
+<l>Jeg saa, hvor de fjerne Aaser blaaned.</l>
+<l>Jeg saa de brede Fjorde, der skar sig ind i Bugt,</l>
+<l>Og Elven saa jeg blinke og krumme sig smukt &#x2013;</l>
+<l>Jeg l&#x00E6;ngtes til de sollyse Sletter.</l>
+</lg>
+<lg>
+<l>Og dog var det atter, som den sukkende Li</l>
+<l>Vilde blidelig holde mig tilbage, &#x2013;</l>
+<l>Som om den bag mig hvisked: Forlader du min Sti,</l>
+<l>For ned i Folkevrimmelen at drage?</l>
+<l>Ak, Skoven og Fjeldvandet havde i mit Sind</l>
+<l>For f&#x00F8;rste Gang suset sin Vemodstanke ind &#x2013;</l>
+<l>Og siden jeg glemmer den vel aldrig.</l>
+</lg>
+<lg>
+<l>Thi ofte, naar jeg<note type="footnote">rettet fra <hi rend="italic">je</hi></note> gaae i den mylrende By,</l>
+<l>I de bonede, skinnende Sale,</l>
+<l>Den samme Hvisken lyder saa b&#x00F8;nlig, saa bly</l>
+<l>Fjernt henne fra min Barndoms gr&#x00F8;nne Dale.</l>
+<l>Da griber mig en L&#x00E6;ngsel til Skov og til Fjeld,</l>
+<l>Jeg h&#x00F8;rer atter Bj&#x00E6;lder og Lurlok ved Kveld,</l>
+<l>Og Sus gjennem skj&#x00E6;ggede Graner.</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem" n="3">
+<head><ref type="contents" target="contents_3" xml:id="chapter_3">S&#x00E6;tergjentens S&#x00F8;ndag.</ref></head>
+<lg>
+<l>Paa Solen jeg ser, det lider alt frem,</l>
+<l>Snart er det ved H&#x00F8;imessetide &#x2013;</l>
+<l>O den, som en Stund fik &#x00F8;nske sig hjem</l>
+<l>Blandt Folk, som paa Kirkevei skride!</l>
+<l>Naar Solskiven stiger lidt, saa den staar</l>
+<l>Der midt over Skaret i Kammen,</l>
+<l>Da ved jeg, i Dalen Klokkerne gaar.</l>
+<l>Da ringer fra Taarnet det sammen.</l>
+</lg>
+<lg>
+<l>Mens ene jeg gaar i &#x00F8;dslige Fjeld</l>
+<l>Og kun h&#x00F8;rer Bj&#x00E6;lderne klinge,</l>
+<l>Staar Gjenternes Flok, med S&#x00F8;ljer og Tjeld</l>
+<l>Paa Vangen hvor Klokkerne svinge.</l>
+<l>Nu kommer vel Odd i susende Trav</l>
+<l>Som ellers paa Elgsblaks-Ryggen;</l>
+<l>Han klapper dens Hals, han let springer af,</l>
+<l>Og binder den henne i Skyggen.</l>
+</lg>
+<lg>
+<l>Han vender sig alt, men standser dog lidt,</l>
+<l>Og taler og fl&#x00F8;iter til Folen;</l>
+<l>Og saa gaar han ind med mandige Skridt,</l>
+<l>Og s&#x00E6;tter sig fremme i Stolen.</l>
+<l>Han luder sig ned, og beder sin B&#x00F8;n,</l>
+<l>Og b&#x00E6;ver saa atter sit &#x00D8;ie &#x2013;</l>
+<l>Men hvorhen da Blikket pleier i L&#x00F8;n</l>
+<l>At glide &#x2013; det husker jeg n&#x00F8;ie!</l>
+</lg>
+<lg>
+<l>Det nytter ei stort, at tage sin Bog</l>
+<l>Og synge i Heien sin Psalme;</l>
+<l>Mit Loft er for h&#x00F8;it, og her er det dog,</l>
+<l>Som Tonerne blegne og falme.</l>
+<l>O den, som i Dag fik blande sin R&#x00F8;st</l>
+<l>Med <emph>hans</emph> og de &#x00D8;vriges Stemme!</l>
+<l>&#x2013; Gud give, at snart det lakked mod H&#x00F8;st</l>
+<l>Gud give, jeg atter var hjemme!</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem" n="4">
+<head><ref type="contents" target="contents_4" xml:id="chapter_4">Fanitullen.</ref></head>
+<lg>
+<l>I hine haarde Dage,</l>
+<l>Da ved &#x00D8;ldrik og Svir</l>
+<l>Hallingd&#x00F8;lens Knivblad</l>
+<l>Sad l&#x00F8;st i hans Slir, &#x2013;</l>
+<l>Da Kvinderne til Gilde</l>
+<l>Bar Ligskjorten med,</l>
+<l>Hvori de kunde l&#x00E6;gge</l>
+<l>Sin Husbonde ned:</l>
+</lg>
+<lg>
+<l>Stod der et blodigt Bryllup</l>
+<l>I Hemsedal ensteds,</l>
+<l>Hvor Leg og Dands var tystnet</l>
+<l>Og Karlene slog Kreds.</l>
+<l>Thi midt paa Gulvets Tilje,</l>
+<l>I den mandslagne Ring,</l>
+<l>Stod To med dragne Knive</l>
+<l>Og eet Belte sp&#x00E6;ndt omkring.</l>
+</lg>
+<lg>
+<l>Og som udskaarne St&#x00F8;tter</l>
+<l>I hvilende Ro</l>
+<l>Staa endnu fire Karle</l>
+<l>I Kredsen om de To.</l>
+<l>De l&#x00F8;fte Tyrilysen</l>
+<l>Mod det sorte Bjelketag,</l>
+<l>Hvor R&#x00F8;gens Hvirvler samles</l>
+<l>Til et rugende Lag.</l>
+</lg>
+<lg>
+<l>Forgjeves tvende Kvinder</l>
+<l>Med Hyl tr&#x00E6;nge frem,</l>
+<l>At bryde det faste Gj&#x00E6;rde,</l>
+<l>Der er stillet foran dem.</l>
+<l>De kastes vredt tilbage</l>
+<l>Af de muskelst&#x00E6;rke M&#x00E6;nd &#x2013;</l>
+<l>Og Spillemanden rolig</l>
+<l>Gaar til Kj&#x00E6;ldertrappen hen.</l>
+</lg>
+<lg>
+<l>Nu skal han ned at tappe,</l>
+<l>Thi den seirende Mand</l>
+<l>Kan sagtens vel beh&#x00F8;ve</l>
+<l>At kysse Bollens Rand.</l>
+<l>I Beltesp&#x00E6;nding nappes</l>
+<l>De kun med Blodets Tab,</l>
+<l>Saa maa vel Aaren fyldes</l>
+<l>Fra T&#x00F8;ndetudens Gab.</l>
+</lg>
+<lg>
+<l>Men da han stod i Kj&#x00E6;ldren,</l>
+<l>Han saa i et blaaligt Skin</l>
+<l>En sidde der paa T&#x00F8;nden</l>
+<l>Og stemme Felen sin.</l>
+<l>Og Karlen holdt den omvendt,</l>
+<l>T&#x00E6;t op til Brystet klemt,</l>
+<l>Og gav sig til at stryge,</l>
+<l>Saasnart han havde stemt.</l>
+</lg>
+<lg>
+<l>Det var et Spil, som dued:</l>
+<l>Det klang som vred Mands Ord,</l>
+<l>Som Hug af staalsat Bile,</l>
+<l>Og som N&#x00E6;veslag i Bord.</l>
+<l>Det jubled og det hulked</l>
+<l>I den skumle Kj&#x00E6;lderhal,</l>
+<l>Da Slaattens Toner endte</l>
+<l>Med et rungende Mandefald.</l>
+</lg>
+<lg>
+<l>Taus Spillemanden lytted</l>
+<l>Til de m&#x00E6;gtige L&#x00F8;b;</l>
+<l>Det var som Spillets Hvirvler</l>
+<l>Ned ad Ryggen ham kr&#x00F8;b.</l>
+<l>Saa spurgte han den Anden:</l>
+<l>&#x00AB;Hvor l&#x00E6;rte du den Slaat?&#x00BB;</l>
+<l>Han svared: &#x00AB;Det er det samme,</l>
+<l>Men mind dig den blot!&#x00BB;</l>
+</lg>
+<lg>
+<l>Nu Manden ned sig luded</l>
+<l>Og efter Tappen tog &#x2013;</l>
+<l>Da saa han Hestehoven,</l>
+<l>Som Takt mod T&#x00F8;nden flog.</l>
+<l>Han glemte rent at tappe,</l>
+<l>Han sprang i Stuen op &#x2013;</l>
+<l>Der l&#x00F8;fted de fra Gulvet</l>
+<l>Den faldne Mandekrop.</l>
+</lg>
+<lg>
+<l><emph>Fanitullen</emph> kaldes</l>
+<l>Endnu den vilde Slaat,</l>
+<l>Og D&#x00F8;lene den spille,</l>
+<l>Og spille den godt.</l>
+<l>Men lyde de grumme Toner</l>
+<l>Under &#x00D8;ldrik og Svir,</l>
+<l>Da l&#x00F8;sner atter Kniven</l>
+<l>I Hallingd&#x00F8;lens Slir.</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem" n="5">
+<head><ref type="contents" target="contents_5" xml:id="chapter_5">Den gamle Mester.</ref></head>
+<lg>
+<l>Der stander en Eg paa Pr&#x00E6;stens Jord,</l>
+<l>Hans &#x00D8;ie til dagligt M&#x00E6;rke;</l>
+<l>Den l&#x00F8;fter dig op over Dal og Fjord</l>
+<l>Og str&#x00E6;kker Grenene st&#x00E6;rke.</l>
+<l>Den b&#x00E6;rer paa flere hundrede Aar,</l>
+<l>Men frodig den l&#x00F8;ves Vaar for Vaar,</l>
+<l>Hver rindende Morgenlue</l>
+<l>Kun meer &#x00E6;rv&#x00E6;rdig at skue.</l>
+</lg>
+<lg>
+<l>Den isnende Vinter Gang efter Gang</l>
+<l>Har skredet over dens Krone,</l>
+<l>Med sparsomt Daglys, med Nat saa lang,</l>
+<l>Uden en Sangfugls Tone,</l>
+<l>Naar Krattet tyngedes ved dens Fod</l>
+<l>Af Sneens V&#x00E6;gt, saa det krumb&#x00F8;iet stod,</l>
+<l>Da rakte den op sine Arme</l>
+<l>Som midt i Sommerens Varme.</l>
+</lg>
+<lg>
+<l>Om Vaar, naar Livet vil vaagne op,</l>
+<l>Og Stormst&#x00F8;d rase fra Fjeldet:</l>
+<l>Da b&#x00F8;ier sig ydmyg Ungtr&#x00E6;ets Top,</l>
+<l>Selv maalf&#x00F8;r Gran vorder f&#x00E6;ldet &#x2013;</l>
+<l>Men da min gamle, min kj&#x00E6;re Eg</l>
+<l>Staar ret og rank i den vilde Leg</l>
+<l>Med knudrede Arm mod Veiret,</l>
+<l>Og hidtil saa har den seiret.</l>
+</lg>
+<lg>
+<l>Det volder to Ting: f&#x00F8;rst har den sin Rod</l>
+<l>Slaaet dybt i Klippernes Revne &#x2013;</l>
+<l>See deraf fanger den Magt og Mod</l>
+<l>At staa i det barske Stevne.</l>
+<l>Og dern&#x00E6;st op imod Lysets Glands</l>
+<l>Den l&#x00F8;fter stadig Kvistenes Krands,</l>
+<l>Og drikker fraoven Saften,</l>
+<l>Lyset, Livet og Kraften.</l>
+</lg>
+<lg>
+<l>Gud unde hver Pr&#x00E6;st, som kommer her,</l>
+<l>At staa saa rolig og m&#x00E6;gtig.</l>
+<l>Mig unde han, gamle Mester kj&#x00E6;r!</l>
+<l>At see paa dig ret and&#x00E6;gtig.</l>
+<l>Ja, l&#x00E6;r mig trods Sneens tyngende Lag</l>
+<l>At l&#x00F8;fte mod Himlen Dag for Dag</l>
+<l>I B&#x00F8;nnen udbredte H&#x00E6;nder,</l>
+<l>Saa Vinterdvalen dog ender!</l>
+</lg>
+<lg>
+<l>Men glider og lider det frem mod Vaar</l>
+<l>Langs Kr&#x00F8;derens tause Strande,</l>
+<l>Og Foraarsbudet i Vindst&#x00F8;d gaar</l>
+<l>Og pidsker de r&#x00F8;rte Vande:</l>
+<l>Saa l&#x00E6;r mig at staa med sindigt Mod,</l>
+<l>Som du i mangen en Vaarstorm stod,</l>
+<l>Og splitte med Ordets V&#x00E6;rge,</l>
+<l>Hvad der vil f&#x00E6;lde og h&#x00E6;rge.</l>
+</lg>
+<lg>
+<l>Bedagede Mester! o l&#x00E6;r mig kun</l>
+<l>At bore Rod i den Klippe,</l>
+<l>Som giver den, ene trofaste Grund,</l>
+<l>Og aldrigen Ham at slippe;</l>
+<l>Og dern&#x00E6;st, som du med din Krones Top,</l>
+<l>Daglig at hige og stunde op,</l>
+<l>Og drikke fraoven Saften,</l>
+<l>Lyset, Livet og Kraften!</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem" n="6">
+<head><ref type="contents" target="contents_6" xml:id="chapter_6">Ungbirken.</ref></head>
+<lg>
+<l>En Ungbirk stander ved Fjorden</l>
+<l>Og Vandspeilet ganske n&#x00E6;r.</l>
+<l>Hvor stor og smuk den er vorden</l>
+<l>De Aar, jeg har boet her!</l>
+<l>Nu l&#x00F8;fter den hvide Stamme</l>
+<l>Kronen fra Bredden lav.</l>
+<l>Men tro dog ei, den vil bramme &#x2013;</l>
+<l>Den veed ikke selv deraf.</l>
+</lg>
+<lg>
+<l>I Guds og i Hvermands &#x00D8;ine</l>
+<l>Den voxer fra Dag til Dag,</l>
+<l>Og Kvistene, som sig h&#x00F8;ine.</l>
+<l>Nu byde hver Sangfugl Tag.</l>
+<l>Men Birken undres derover.</l>
+<l>Den kjender slet ei sin Rang.</l>
+<l>Den b&#x00F8;ier mod Vandets Vover</l>
+<l>Saa ydmyg Bladenes Hang.</l>
+</lg>
+<lg>
+<l>Just dette kan den forlene</l>
+<l>Skj&#x00F8;nhed for andre Tr&#x00E6;er,</l>
+<l>Og lokker hen i dens Grene</l>
+<l>Al Himlens vingede H&#x00E6;r.</l>
+<l>Just det, at den ikke t&#x00E6;nker</l>
+<l>At l&#x00F8;fte sin Krone op,</l>
+<l>Men stille Kvistene s&#x00E6;nker &#x2013;</l>
+<l>Gj&#x00F8;r skyggende luun dens Top.</l>
+</lg>
+<lg>
+<l>Hvad kommer det af? Den skuer</l>
+<l>Sig daglig i B&#x00F8;lgens Speil</l>
+<l>Ved Siden af Krat og Tuer,</l>
+<l>Og &#x2013; skuer saa deiligt feil.</l>
+<l>Thi alt som mod Lysets Riger</l>
+<l>Den h&#x00E6;ver sin Krones Stav,</l>
+<l>Den synes, den nedad stiger</l>
+<l>Og voxer sig mere lav.</l>
+</lg>
+<lg>
+<l>Du deilige Birk, du Kj&#x00E6;re!</l>
+<l>Paa dig vil jeg ofte see.</l>
+<l>Gud give, jeg maatte l&#x00E6;re,</l>
+<l>Hvad du mig saa smukt kan tee:</l>
+<l>At voxe i eget &#x00D8;ie</l>
+<l>Nedad med hver en Dag &#x2013;</l>
+<l>At krone og at oph&#x00F8;ie,</l>
+<l>Det vorder da Herrens Sag!</l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

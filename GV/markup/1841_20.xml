@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>O Gud skee Lov for Naadens Ord</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-23"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="020"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1841">1841</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1841_20_page0001.png"/>
+			<fw type="pageNum">5</fw>
+				<docTitle>
+	<titlePart type="main">O Gud skee Lov for Naadens Ord</titlePart>
+</docTitle>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Mel. Gud Helligaand i Tro os lær.</head>
+<lg>
+<l>O Gud skee Lov for Naadens Ord,</l>
+<l>Der trøster dem, som græde!</l>
+<l>Og Gud skee Lov for Jesu Spoer,</l>
+<l>Hvori de Smaae kan træde!</l>
+<l>Og Gud skee Lov for Herreus Aand</l>
+<l>Som fører os i Ledebaand</l>
+<l>Til evig Fryd og Glæde!</l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

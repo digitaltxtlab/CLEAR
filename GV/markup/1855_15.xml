@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Dannebrog.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-25"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="015"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1855">1855</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1855_15_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Dannebrog.<lb/></titlePart>
+	<titlePart type="sub">Et Ugeblad for den Danske Forening.<lb/></titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition>Fredag den 13 Juli.</docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace></pubPlace>.
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Opreisningen.</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">A</hi>aret er omme,</l>
+<l><hi rend="spaced">Begravelsens</hi> Aar,</l>
+<l>At ihukomme</l>
+<l>Som Liget paa Baar!</l>
+<l>Kan det udbæres,</l>
+<l>Kan det fortæres,</l>
+<l>Ormenes Maaned! i dig?</l>
+</lg>
+<lg>
+<l>Grav-Høien grønnes</l>
+<l>Paa <hi rend="spaced">Aasen</hi> i Lund,</l>
+<l>Livet paaskiønnes</l>
+<l>I Leg og i Blund,</l>
+<l>As hende baaret,</l>
+<l>Gævt og guldhaaret,</l>
+<l>Livet i <hi rend="spaced">Langernes</hi> Blod! *)</l>
+</lg>
+<lg>
+<l>Gubben ved Graven,</l>
+<l>Han græd for sin Viv,</l>
+<l>Barnet i Haven,</l>
+<l>Han sprudled af Liv,</l>
+<l>Fuglen i Luften,</l>
+<l>Blomsten i Duften,</l>
+<l>Begge med Barnet de holdt.</l>
+</lg>
+<lg>
+<l>Mellem Kiærminder</l>
+<l>Den Rosenknop spaaer:</l>
+<l>Deilig oprinder</l>
+<l><hi rend="spaced">Opreisningens</hi> Aar,</l>
+<l>Vende tilbage</l>
+<l>Rosernes Dage</l>
+<l>Skal under Fuglenes Sang!</l>
+</lg>
+<lg>
+<l>Bølgerne strømme</l>
+<l>Saa hid og saa did,</l>
+<l>Nys, som i Drømme,</l>
+<l>I Skiærsommers Tid,</l>
+<l>Fløi giennem Skoven,</l>
+<l>Foer over Voven,</l>
+<l>Jeg til en smilende Kyst.</l>
+</lg>
+<lg>
+<l>Venlige Blikke,</l>
+<l>Og blomstrende Kaar,</l>
+<l>Andet var ikke</l>
+<l>I Rosernes Gaard,</l>
+<l>Inde og ude</l>
+<l>Roser i Knude,</l>
+<l>Roser i Vugge og Svøb!</l>
+</lg>
+<lg>
+<l>Saa med <hi rend="spaced">Høi-Norden</hi></l>
+<l>I Bølgernes Skiød,</l>
+<l>Aands-Rosenfloren</l>
+<l>End Knoppen ei brød,</l>
+<l>Brat den dog bryder,</l>
+<l><hi rend="spaced">Fyenbo og Jyder</hi>,</l>
+<l>Deiligst i Sælland tilsidst!</l>
+</lg>
+<lg>
+<l>Saa ligger <hi rend="spaced">Ordet</hi>,</l>
+<l>Til Tale og Sang,</l>
+<l>Omkvæd til Choret</l>
+<l>I Nattergals-Vang,</l>
+<l>Nu hos den lille,</l>
+<l>Vævre og milde</l>
+<l>Rosengaards-Arving i Lund!</l>
+</lg>
+<lg>
+<l>Blomsterlig springer</l>
+<l>Brat <hi rend="spaced">Ord-Knoppen</hi> ud,</l>
+<l>Ord-Blomsten Vinger</l>
+<l>Sig venter fra Gud,</l>
+<l><hi rend="spaced">Ord-Fuglen</hi> kvæder,</l>
+<l>Mylrende Glæder</l>
+<l>Flokkes som Roser om ham!</l>
+</lg>
+<p>*) Min lille „<hi rend="spaced">Frederik Lange</hi>", som frydede sig ved Livet i det Grønne, paa Skiærsommerdagen (6te Juni), da jeg indviede hans Moders Hvilested paa Aasen ved Gl. Kiøgegaard, hendes kiære Fødested.</p>
+<pb facs="1855_15_page0002.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Salig den Kvinde,</l>
+<l>Som bar ham i Len,</l>
+<l>Vilde sig vinde</l>
+<l>Med Livet en Søn!</l>
+<l>Kiærlig <hi rend="spaced">Marie</hi></l>
+<l>Gav ham at die</l>
+<l>Hjerteblod sit og hensov!</l>
+</lg>
+<lg>
+<l>Trylle og mane</l>
+<l>Guds-Fienden hør til,</l>
+<l>Bod dog sor Bane</l>
+<l>Gud give os vil,</l>
+<l>Paa os mon slægte</l>
+<l>Børnene ægte,</l>
+<l>Glæde vi sees igien!</l>
+</lg>
+<lg>
+<l>Dermed oprinder</l>
+<l><hi rend="spaced">Opreisningens</hi> Aar,</l>
+<l>Rødme de Kinder,</l>
+<l>Som blegned igaar,</l>
+<l>Funkler det Sie,</l>
+<l>Som maatte døie</l>
+<l>Døds-Mulmets Taager, og brast!</l>
+</lg>
+<lg>
+<l>Reis dig Saalunde,</l>
+<l><hi rend="spaced">Marie</hi>! i Løn!</l>
+<l>Smil, som du kunde,</l>
+<l>Saa sødt i din Son!</l>
+<l>Armen lad svinge,</l>
+<l>Røsten lad klinge,</l>
+<l>Hjertet lad staae som tilforn!</l>
+</lg>
+<lg>
+<l>Aldrig dit Minde</l>
+<l>Skal vorde forgrædt,</l>
+<l>Aldrig forsvinde</l>
+<l>Din Rost fra din Æt,</l>
+<l>Aldrig frafaldes,</l>
+<l>Altid opkaldes</l>
+<l>Dit som <hi rend="spaced">Livs-Moderens</hi> Navn!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Rimbert</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-20"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="017"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1826">1826</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1826_17_page0001.png"/>
+			<fw type="pageNum">35</fw>
+				<docTitle>
+	<titlePart type="main">Rimbert</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<docImprint>
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<head>Rimbert.</head>
+<lg>
+<l>Saae I Faders Helte-Daad?</l>
+<l>Hørde I hans Helgen-Graad?</l>
+<l>Nei, hans Skygge saae I kun,</l>
+<l>Under Bjeffe-Lyd af Hund!</l>
+<l>Det var ikkun Gud og Faa,</l>
+<l>Som lyslevende ham saae!</l>
+<l>Faa kun og med Gud det veed,</l>
+<l>Hvad han taalde, hvor han streed!</l>
+<l>Ved forunderlige Lyn,</l>
+<l>Stærke var hans Drømme-Syn:^</l>
+<l>Han engang i Drømme saae</l>
+<l>Herren under Svøben staae,</l>
+<l>Gav for Romer-Knegtes Riis</l>
+<l>Glædelig sin Rygg til Priis,</l>
+<l>Kunde dog, ved rank at staae,</l>
+<l>Herren knap til Hærde naae!</l>
+<l>Visselig, det var hans Agt,</l>
+<l>Saa han stræbde, af al Magt,</l>
+<l>Som den bedste Svend paa Jord,</l>
+<l>Tro at følge Herrens Spor,</l>
+<l>Trodsed Sveder, Kors og Sværd,</l>
+<l>For at staae sin Herre nær!</l>
+<l>Derfor, skiøndt med Isse graa</l>
+<l>Han afblegedes paa Straa;</l>
+<l>Sikkert straale Kinder hans</l>
+<l>Nu i Martyr-Kronens Glands!</l>
+<l>Priser da, I Nordens Folk,</l>
+<l>Naade-Ordets høie Tolk,</l>
+</lg> 
+<pb facs="1826_17_page0002.png"/>
+<fw type="pageNum">36</fw>
+<lg>
+<l>Tordneren mod syndig Trods,</l>
+<l>Barnet mellem Folk som os,</l>
+<l>Gnieren paa Vand og Brød,</l>
+<l>Ødeland paa Folk i Nød,</l>
+<l>Som en Kvinde nem til Graad,</l>
+<l>Som en Viismand snild i Raad,</l>
+<l>Som en Klippe, hvor det gjaldt,</l>
+<l>Som en Christen, fremfor Alt!</l>
+<l>O, det fromme Helgen-Barn!</l>
+<l>Han ei faldt i Hovmods Garn:</l>
+<l>Jærtegn saae vi i hans Daad,</l>
+<l>Helgen-Fromhed i hans Graad;</l>
+<l>Men blev Talen om, hvad Stort</l>
+<l>Herren havde ved ham gjort,</l>
+<l>Da vi saae et Engle-Smil,</l>
+<l>Naar han spared os med Til:</l>
+<l>Veed I, hvilket Jærtegn stort</l>
+<l>Gud end ei ved mig har gjort,</l>
+<l>Beder Ham da kiønt derom,</l>
+<l>Saa jeg vorder god og from!</l>
+<l>Naar han opstaaer af sin Grav,</l>
+<l>Med de Mange, Gud ham gav;</l>
+<l>Gid blandt <hi rend="spaced">Daner</hi> vi da maae</l>
+<l>Engle-Smilet, som vi saae,</l>
+<l>Kiende gladelig igien,</l>
+<l>Hvor det lyder: gode Svend!</l>
+<l>Over Lidet var du tro,</l>
+<l>Nyd dit Meget nu i Ro!</l>
+<l>Gak nu, uden Sorg i Sind,</l>
+<l>Til din Herres Glæde ind!</l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

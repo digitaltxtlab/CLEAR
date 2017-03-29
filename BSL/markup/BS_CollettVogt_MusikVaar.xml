@@ -1,0 +1,2328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI PUBLIC "-// NSL Norge //EN" "http://www.bokselskap.no/tekstkoding/NSL_tei_xinclude.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="BS_Vogt_MusikVaar">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>bokselskap.no, 2015
+<lb/>Nils Collett Vogt: <hi rend="italic">Musik og Vaar</hi>
+<lb/>Teksten i bokselskap.no f&#x00F8;lger 1. utgave, 1896 (Kristiania, Olaf Norlis Forlag). Digitaliseringen er basert p&#x00E5; fil fra Nasjonalbiblioteket (nb.no)
+<lb/>ISBN: 978-82-8319-267-4 (digital, bokselskap), 978-82-8319-268-1 (epub), 978-82-8319-269-8 (mobi)</title>
+</titleStmt>
+<publicationStmt>
+<p>Publiseres som digital tekst av bokselskap.no.</p></publicationStmt>
+<sourceDesc>
+<p>digibok_2013041105048 (Nasjonalbiblioteket 2015)</p>
+</sourceDesc>
+</fileDesc>
+<revisionDesc>
+<change who="ENW" when="2015-12-01">Noen små rettelser. Publisering.</change>
+<change who="ENW" when="2015-11-30">Ført inn korrekturrettelser (HBD). Entiteter, kodekontroll og validering.</change>
+<change xml:id="ENW" who="ENW" when="2015-03-01">XML-koding. Klar for korrektur.</change>
+</revisionDesc>
+</teiHeader>
+<text xml:id="BS_Vogt_MusikVaar_tekst" type="collection">
+<front>
+<titlePage type="main">
+<byline><docAuthor>Nils Collet Vogt</docAuthor></byline>
+<docTitle>
+<titlePart type="main">Musik og Vaar</titlePart>
+</docTitle>
+<docDate>bokselskap.no<lb/>2015</docDate>
+</titlePage>
+<div xml:id="contents">
+<list type="contents_main">
+<item><ref target="chapter_1_" xml:id="contents_01">Til August Uchermann</ref></item>
+<item><ref target="part_1" xml:id="contents_1">FJ&#x00C6;RNE TONER</ref>
+	<list>
+	<item><ref target="chapter_1_1" xml:id="contents_1_1">Vise</ref></item>
+	<item><ref target="chapter_1_2" xml:id="contents_1_2">Da for f&#x00F8;rste Gang &#x2013;</ref></item>
+	<item><ref target="chapter_1_3" xml:id="contents_1_3">Maanenat</ref></item>
+	<item><ref target="chapter_1_4" xml:id="contents_1_4">Knoppen</ref></item>
+	<item><ref target="chapter_1_5" xml:id="contents_1_5">Hvad er det med mig &#x2013;</ref></item>
+	<item><ref target="chapter_1_6" xml:id="contents_1_6">Nei, nu &#x2013;</ref></item>
+	<item><ref target="chapter_1_7" xml:id="contents_1_7">Thi Barn &#x2013;</ref></item>
+	<item><ref target="chapter_1_8" xml:id="contents_1_8">Med en Buket Lilier</ref></item>
+	<item><ref target="chapter_1_9" xml:id="contents_1_9">Hvorfor?</ref></item>
+	<item><ref target="chapter_1_10" xml:id="contents_1_10">Morgen ved Neapelgolfen</ref></item>
+	<item><ref target="chapter_1_11" xml:id="contents_1_11">Februarmorgen ved Golfen</ref></item>
+	<item><ref target="chapter_1_12" xml:id="contents_1_12">Hvad ved jeg &#x2013;</ref></item>
+	<item><ref target="chapter_1_13" xml:id="contents_1_13">Sommer</ref></item>
+	<item><ref target="chapter_1_14" xml:id="contents_1_14">Bad</ref></item>
+	<item><ref target="chapter_1_15" xml:id="contents_1_15">Jeg er som en &#x2013;</ref></item>
+	<item><ref target="chapter_1_16" xml:id="contents_1_16">Efter Regn</ref></item>
+	<item><ref target="chapter_1_17" xml:id="contents_1_17">Jeg kommer &#x2013;</ref></item>
+	<item><ref target="chapter_1_18" xml:id="contents_1_18">Finale</ref></item>
+	</list>
+</item>
+<item><ref target="part_2" xml:id="contents_2">AARETS SAGA</ref>
+	<list>
+	<item><ref target="chapter_2_1" xml:id="contents_2_1">Januar</ref></item>
+	<item><ref target="chapter_2_2" xml:id="contents_2_2">Februar</ref></item>
+	<item><ref target="chapter_2_3" xml:id="contents_2_3">Marts</ref></item>
+	<item><ref target="chapter_2_4" xml:id="contents_2_4">April</ref></item>
+	<item><ref target="chapter_2_5" xml:id="contents_2_5">Mai</ref></item>
+	<item><ref target="chapter_2_6" xml:id="contents_2_6">Juni</ref></item>
+	<item><ref target="chapter_2_7" xml:id="contents_2_7">Juli</ref></item>
+	<item><ref target="chapter_2_8" xml:id="contents_2_8">August</ref></item>
+	<item><ref target="chapter_2_9" xml:id="contents_2_9">September</ref></item>
+	<item><ref target="chapter_2_10" xml:id="contents_2_10">Oktober</ref></item>
+	<item><ref target="chapter_2_11" xml:id="contents_2_11">November</ref></item>
+	<item><ref target="chapter_2_12" xml:id="contents_2_12">December</ref></item>
+	</list>
+</item>
+<item><ref target="part_3" xml:id="contents_3">III.</ref>
+	<list>
+	<item><ref target="chapter_3_1" xml:id="contents_3_1">Til en!</ref></item>
+	<item><ref target="chapter_3_2" xml:id="contents_3_2">Maaneskin</ref></item>
+	<item><ref target="chapter_3_3" xml:id="contents_3_3">Min gyldne S&#x00E6;d!</ref></item>
+	<item><ref target="chapter_3_4" xml:id="contents_3_4">De evige Sp&#x00F8;rgsmaal &#x2013;</ref></item>
+	<item><ref target="chapter_3_5" xml:id="contents_3_5">I Nattens Vind &#x2013;</ref></item>
+	<item><ref target="chapter_3_6" xml:id="contents_3_6">Hvorfor, hvorhen?</ref></item>
+	<item><ref target="chapter_3_7" xml:id="contents_3_7">Til Helge Rode!</ref></item>
+	<item><ref target="chapter_3_8" xml:id="contents_3_8">Prolog (ved en paat&#x00E6;nkt Fest for Henrik Ibsen i Kristiania)</ref></item>
+	<item><ref target="chapter_3_9" xml:id="contents_3_9">Syttende Mai (1894)</ref></item>
+	<item><ref target="chapter_3_10" xml:id="contents_3_10">Fra vestre Aker</ref></item>
+	<item><ref target="chapter_3_11" xml:id="contents_3_11">Det synger &#x2013;</ref></item>
+	<item><ref target="chapter_3_12" xml:id="contents_3_12">Constance Bruun-Ihlen</ref></item>
+	<item><ref target="chapter_3_13" xml:id="contents_3_13">Solnedgang</ref></item>
+	</list>
+</item>
+</list>
+</div>
+</front>
+
+<body>
+<div type="chapter" subtype="poem" n="intro">
+<head type="main"><ref type="contents" target="contents_01" xml:id="chapter_3_">Til August Uchermann!</ref></head>
+<lg>
+<l><pb n="5"/>Vi m&#x00F8;dtes, Ven, under Sus af Faner:</l>
+<l>I Luften Skydrift, Musik og Vaar! &#x2013;</l>
+<l>Det var i Kampens de fj&#x00E6;rne Aar,</l>
+<l>hvis R&#x00F8;sters Gjenlyd end d&#x00E6;mpet maner, &#x2013;</l>
+</lg>
+<lg>
+<l>da Landet syntes os stolt at stige</l>
+<l>mod Sky i &#x00C6;ventyrdr&#x00F8;mmens Skin,</l>
+<l>og nye Tider blev varslet ind,</l>
+<l>et solskinsglitrende Fremtidsrige.</l>
+</lg>
+<lg>
+<l>Og vi var med! I vort Bryst en L&#x00E6;rke,</l>
+<l>der slynged livst&#x00F8;rst sin Melodi</l>
+<l>i Rummet ud, til den sang sig fri</l>
+<l>med Toner dirrende, ungdomst&#x00E6;rke.</l>
+</lg>
+<lg>
+<l><pb n="6"/>Jeg hamret har dig et fattigt Smykke</l>
+<l>af hine Main&#x00E6;tters blege Guld,</l>
+<l>da varmt det aanded paa Sj&#x00E6;lens Muld,</l>
+<l>og Hj&#x00E6;rtet blomstred i Elskovslykke.</l>
+</lg>
+<lg>
+<l>Kanh&#x00E6;nde gik det ei, som det skulde!</l>
+<l>Thi st&#x00E6;vned modl&#x00F8;s du over Hav,</l>
+<l>mens taus jeg vogted hvert Mindes Grav,</l>
+<l>hvis Gr&#x00F8;nsv&#x00E6;r skj&#x00E6;lver i H&#x00F8;stens Kulde.</l>
+</lg>
+</div>
+
+<div type="part" n="1">
+<head type="main"><ref type="contents" target="contents_1" xml:id="part_1">FJ&#x00C6;RNE TONER</ref></head>
+
+<div type="chapter" subtype="poem" n="1_1">
+<head type="main"><ref type="contents" target="contents_1_1" xml:id="chapter_1_1">Vise</ref></head>
+<lg>
+<l><pb n="9"/>En hjeml&#x00F8;s Vandringsmand er jeg,</l>
+<l>der uden F&#x00F8;lge gaar min Vei</l>
+<l>snart sorgfuld, snart i Gl&#x00E6;de.</l>
+<l>Min Sorg, den kommer ingen ved,</l>
+<l>men i min Fryd er alle med,</l>
+<l>hvor end jeg er tilstede,</l>
+<l>der speiler sig det mindste ned,</l>
+<l>der bygger &#x00D8;rnen Rede.</l>
+</lg>
+<lg>
+<l>Og hvor jeg rundt i Verden gaar,</l>
+<l>der synger jeg om Livets Kaar</l>
+<l>med Lunger, som er fulde;</l>
+<l>thi se, hvad Gud har skabt, er godt,</l>
+<l>og dog er mig det tidt, som blot</l>
+<l>det aander Harm og Kulde:</l>
+<l>Aa, hvorfor har jeg ikke faa&#x0027;t</l>
+<l>den Pige, som jeg skulde!</l>
+</lg>
+<lg>
+<l><pb n="10"/>Men Solen skinner Verden fuld</l>
+<l>af Haabets Lys og Dr&#x00F8;mmes Guld,</l>
+<l>til atter &#x00D8;iet bl&#x00E6;ndes,</l>
+<l>og B&#x00F8;lgen slaar saa h&#x00F8;it mod Kyst,</l>
+<l>at Hj&#x00E6;rtet svulmer i mit Bryst,</l>
+<l>og hver en Muskel sp&#x00E6;ndes</l>
+<l>af Handlingsmod, af Frihedslyst,</l>
+<l>og Digtersyner t&#x00E6;ndes.</l>
+</lg>
+<lg>
+<l>&#x2026; En Friluftsj&#x00E6;l, en Vandringsmand,</l>
+<l>der hjeml&#x00F8;s gaar fra Land til Land</l>
+<l>og Visestumper traller,</l>
+<l>til taus jeg standser mine Fjed,</l>
+<l>betagen af den store Fred,</l>
+<l>naar alle Skygger falder:</l>
+<l>O Evighed, o Evighed,</l>
+<l>snart kommer du og kalder!</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem" n="1_2">
+<head type="main"><ref type="contents" target="contents_1_2" xml:id="chapter_1_2">Da for f&#x00F8;rste Gang &#x2013;</ref></head>
+<lg>
+<l><pb n="11"/>Da for f&#x00F8;rste Gang jeg saa</l>
+<l>ind i dine &#x00D8;ines blaa,</l>
+<l>var det, som jeg maatte vandre</l>
+<l>fj&#x00E6;rnt fra dig og alle andre.</l>
+</lg>
+<lg>
+<l>Lykke &#x2013; lykkelige Mand! &#x2013;</l>
+<l>Og jeg syntes, Hav og Strand</l>
+<l>i Sekunden blev forklaret</l>
+<l>og i Skj&#x00F8;nhed aabenbaret, &#x2013;</l>
+</lg>
+<lg>
+<l>medens Dagens Konge sang</l>
+<l>paa sin straale-h&#x00F8;ie Gang,</l>
+<l>og de smaae B&#x00F8;lger spilled</l>
+<l>frem i Ydmyghed dit Billed.</l>
+</lg>
+<lg>
+<l>Og jeg saa, at alt var godt</l>
+<l>i et Syn af himmelblaat,</l>
+<l>som Vorherre glad betagen</l>
+<l>selv det saa paa Hviledagen.</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem" n="1_3">
+<head type="main"><ref type="contents" target="contents_1_3" xml:id="chapter_1_3">Maanenat</ref></head>
+<lg>
+<l><pb n="12"/>Nys str&#x00F8;g et Syn forbi mig</l>
+<l>af Kvindeynde, Skj&#x00F8;nhed,</l>
+<l>og dybt i Natten sidder</l>
+<l>jeg af dets Hvidhed bl&#x00E6;ndet.</l>
+<l>Hvi kan min Arm ei r&#x00E6;kke</l>
+<l>alt det, som l&#x00F8;nlig daarer,</l>
+<l>og hvorfor b&#x00F8;ier Sindet</l>
+<l>sig nu i Sm&#x00E6;rtens Fylde?</l>
+</lg>
+<lg>
+<l>Som bag et Sl&#x00F8;r af L&#x00E6;ngsler</l>
+<l>og unge Sv&#x00E6;rmerier</l>
+<l>hun stod i Dr&#x00F8;m og smilte</l>
+<l>mod noget fj&#x00E6;rnt, jeg aned.</l>
+<l>Men dette dr&#x00F8;mmesl&#x00F8;rte,</l>
+<l>hvori hun smiler, s&#x00F8;rger,</l>
+<l>saa taust et Vidne er det,</l>
+<l>at end hun aldrig voved.</l>
+</lg>
+<lg>
+<l>Jeg har ei Rim at slynge</l>
+<l>om hendes V&#x00E6;sens Ynde,</l>
+<l>kun Sorg, kun ensom Sm&#x00E6;rte</l>
+<l>og bange L&#x00E6;ngsler har jeg.</l>
+<l><pb n="13"/>Og ind i Maanenatten,</l>
+<l>den majest&#x00E6;tisk kolde,</l>
+<l>jeg som en Skygge vandrer</l>
+<l>i hendes Billeds F&#x00F8;lge.</l>
+</lg>
+<lg>
+<l>I blanke Maanestraaler,</l>
+<l>som Rummets Dybder lodded,</l>
+<l>forklar mig Livets Mening, &#x2013;</l>
+<l>og hvorfor selv jeg lever! &#x2013;</l>
+<l>Af noget hvidt omb&#x00F8;lget</l>
+<l>med skj&#x00E6;re Sanser gaar jeg</l>
+<l>saa glad, saa rig ved hende</l>
+<l>og fattig dog til D&#x00F8;den &#x2026;</l>
+</lg>
+<lg>
+<l>Den store, runde Maane &#x2026;</l>
+<l>Ei l&#x00E6;nger kan jeg se den &#x2026;</l>
+<l>Blot Lyset, som den kaster</l>
+<l>og Skyggerne, som skifter! &#x2013;</l>
+<l>Og slukt er hendes Aasyn</l>
+<l>og bortgjemt hendes &#x00D8;ine &#x2026;</l>
+<l><emph>Det</emph> f&#x00F8;ler jeg, at Natten</l>
+<l>er hellig, overjordisk!</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem" n="1_4">
+<head type="main"><ref type="contents" target="contents_1_4" xml:id="chapter_1_4">Knoppen</ref></head>
+<lg>
+<l><pb n="14"/>Javist er hun som Knoppen,</l>
+<l>hvor st&#x00E6;rke Safter skyder,</l>
+<l>hvor nye Verdner bryder</l>
+<l>og stunder mod Forl&#x00F8;sning;</l>
+<l>det hvisker der saa blygt og ungt,</l>
+<l>det svulmer der saa l&#x00E6;ngselstungt</l>
+<l>i disse lyse N&#x00E6;tter,</l>
+<l>da alt det andet spr&#x00E6;tter.</l>
+</lg>
+<lg>
+<l>Og jeg vil v&#x00E6;re Vaaren,</l>
+<l>der kommer ganske listende,</l>
+<l>men Pokkers varm og fristende</l>
+<l>og straaler hele Luften.</l>
+<l>Nei, saadant sku&#x0027; du aldrig set,</l>
+<l>et Under er iaften sket,</l>
+<l>et Himmelsyn; thi Knoppen</l>
+<l>har faaet Guld i Toppen.</l>
+</lg>
+<lg>
+<l><pb n="15"/>Da blir det lyst i Verden</l>
+<l>af Fryd, fra Solen stiger,</l>
+<l>men Vemod, naar den viger,</l>
+<l>og saa: de korte N&#x00E6;tter!</l>
+<l>Det blir en Rus i Elskov, Duft,</l>
+<l>der h&#x00F8;it gaar over min Fornuft;</l>
+<l>jeg vil nu hende kalde</l>
+<l>for Knoppen af dem alle.</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem" n="1_5">
+<head type="main"><ref type="contents" target="contents_1_5" xml:id="chapter_1_5">Hvad er det med mig &#x2013;</ref></head>
+<div type="uchapter">
+<head type="sub">I.</head>
+<lg>
+<l><pb n="16"/>Hvad er det med mig? &#x2013; Min Fod har flakket</l>
+<l rend="indent_1">saa milevidt,</l>
+<l>og dog har tidt jeg i Dr&#x00F8;mme standset</l>
+<l rend="indent_1">for hvert et Skridt.</l>
+</lg>
+<lg>
+<l>&#x2026; En Sydens Dag, da det blinker, spiller</l>
+<l rend="indent_1">af Lys og Glans, &#x2013;</l>
+<l>jeg ser det ikke, skj&#x00F8;ndt klar og vaagen</l>
+<l rend="indent_1">er Sind og Sans.</l>
+</lg>
+<lg>
+<l>I Syner gaar jeg, i skj&#x00F8;nne Syner,</l>
+<l rend="indent_1">og hvor jeg gaar,</l>
+<l>der aabnes nye, til h&#x00F8;it mod Himlen</l>
+<l rend="indent_1">i Sol jeg staar.</l>
+</lg>
+<lg>
+<l>Heroppe Dagen, men dybt dernede</l>
+<l rend="indent_1">den lille By</l>
+<l>med sine Gader, med sine Mennesker</l>
+<l rend="indent_1">i Skyggers Ly.</l>
+</lg>
+<lg>
+<l><pb n="17"/>Kun slaar mod Himlen et Spir sin Flamme</l>
+<l rend="indent_1">i Aftnens Ild,</l>
+<l>og henf&#x00F8;rt hvisker min Sj&#x00E6;l i Sm&#x00E6;rte,</l>
+<l rend="indent_1">at jeg er til.</l>
+</lg>
+<lg>
+<l>De sortblaa Svaler forvirret hviner</l>
+<l rend="indent_1">af Angst og Fryd;</l>
+<l>saa blir det stille, og m&#x00F8;dig svigter</l>
+<l rend="indent_1">hver Dagens Lyd.</l>
+</lg>
+<lg>
+<l>Ja, jeg er til, og mit Hj&#x00E6;rte l&#x00F8;ftes</l>
+<l rend="indent_1">i Tak og B&#x00F8;n</l>
+<l>og synker atter som Aftensolen,</l>
+<l rend="indent_1">saa ren og skj&#x00F8;n.</l>
+</lg>
+</div>
+<div type="uchapter">
+<head type="sub">II.</head>
+<lg>
+<l><pb n="18"/>Nu lysner Luften, og se, det vaares</l>
+<l rend="indent_1">for hver en Dag,</l>
+<l>saa dumpt det h&#x00F8;res, naar Isen brister</l>
+<l rend="indent_1">med Dr&#x00F8;n og Brag.</l>
+</lg>
+<lg>
+<l>Jeg staar i Syden og ser hver Vaarnat</l>
+<l rend="indent_1">paa Himlens blaa</l>
+<l>lig sorte Punkter et Tog af Fugle</l>
+<l rend="indent_1">mod Norden gaa:</l>
+</lg>
+<lg>
+<l>Med Blikket speidende, Brystet udsp&#x00E6;ndt</l>
+<l rend="indent_1">og Vingen strakt,</l>
+<l>med Sangens svulmende Lyd i Hj&#x00E6;rtet,</l>
+<l rend="indent_1">af Vaaren vakt, &#x2013;</l>
+</lg>
+<lg>
+<l>slig b&#x00E6;r det frem mod de fj&#x00E6;rne S&#x00F8;er,</l>
+<l rend="indent_1">hvor Isens Brag</l>
+<l>nu Gjend&#x00F8;n kaster, og Lyset b&#x00F8;lger</l>
+<l rend="indent_1">i store Slag.</l>
+</lg>
+<lg>
+<l>Og stundom lyder i Foraarsnatten</l>
+<l rend="indent_1">et Skrig saa vildt,</l>
+<l>saa urlydagtig, at Luften dirrer,</l>
+<l rend="indent_1">og alt blir stilt. &#x2013;</l>
+</lg>
+<lg>
+<l><pb n="19"/>Derude Havet! Taalmodig mumler</l>
+<l rend="indent_1">det paa sin Gang,</l>
+<l>som ved det alt, hvad et Jordliv rummer</l>
+<l rend="indent_1">af dunkel Trang.</l>
+</lg>
+<lg>
+<l>Hvor mangen Vaarvind har ikke stormglad</l>
+<l rend="indent_1">dets Flade krust,</l>
+<l>hvor mangt et Haab og hvor mangen Vinge</l>
+<l rend="indent_1">forgj&#x00E6;ves sust?</l>
+</lg>
+<lg>
+<l>I <emph>Elskovstrangen</emph> har alt, som lever,</l>
+<l rend="indent_1">fra Krybet ned,</l>
+<l>&#x2013; det allerst&#x00F8;rste, det allermindste &#x2013;</l>
+<l rend="indent_1">sit M&#x00F8;dested.</l>
+</lg>
+<lg>
+<l>Og hun, som ufri bag hvide Dr&#x00F8;mmes</l>
+<l rend="indent_1">bestraalte Sl&#x00F8;r</l>
+<l>i Elskov smiler og ser det vaares</l>
+<l rend="indent_1">som aldrig f&#x00F8;r, &#x2013;</l>
+</lg>
+<lg>
+<l>de samme L&#x00E6;ngsler, der fylder hele</l>
+<l rend="indent_1">vor gamle Jord</l>
+<l>med Kamp og smeltende Toners Klage</l>
+<l rend="indent_1">i nystemt Kor. &#x2013;</l>
+</lg>
+<lg>
+<l><pb n="20"/>Selv er jeg bare en Bi, der sv&#x00E6;rmer</l>
+<l rend="indent_1">i Solens Skin</l>
+<l>fra Busk til Busk og beruset kalder</l>
+<l rend="indent_1">hver Blomst for min.</l>
+</lg>
+<lg>
+<l>Jeg flyver lige til Verdens Ende</l>
+<l rend="indent_1">og aander ud</l>
+<l>min skj&#x00F8;nne Sj&#x00E6;l i et Suk til Maanen,</l>
+<l rend="indent_1">dens blege Brud.</l>
+</lg>
+<lg>
+<l>Hvad er det med mig? &#x2013; O, sp&#x00F8;rg mig ikke,</l>
+<l rend="indent_1">for jeg er gal</l>
+<l>af Vaar og Vemod, af Sol og Minder</l>
+<l rend="indent_1">og N&#x00E6;tters Kval.</l>
+</lg>
+</div>
+</div>
+<div type="chapter" subtype="poem" n="1_6">
+<head type="main"><ref type="contents" target="contents_1_6" xml:id="chapter_1_6">Nei, nu &#x2013;</ref></head>
+<lg>
+<l><pb n="21"/>Nei, nu er det ikke l&#x00E6;nger</l>
+<l>til at holde ud, du kj&#x00E6;re! &#x2013;</l>
+<l>Slig en Rigdoms Magt paa Jorden</l>
+<l>kan en Stakkar ikke b&#x00E6;re.</l>
+</lg>
+<lg>
+<l>Sole t&#x00E6;ndes, Straaler synger,</l>
+<l>Blomster reiser sig og taler,</l>
+<l>og som gyldne Skyer er det,</l>
+<l>Nattens Dr&#x00F8;mmesyner daler.</l>
+</lg>
+<lg>
+<l>Se, de daler mellem Roser,</l>
+<l>i hvis Skygger bl&#x00F8;dt hun hviler,</l>
+<l>skj&#x00F8;nnere end alle Roser,</l>
+<l>attraablussende og smiler.</l>
+</lg>
+<lg>
+<l>Og jeg lader jo som intet,</l>
+<l>der jeg gaar, men Hj&#x00E6;rtet banker,</l>
+<l>ak, saa h&#x00F8;it, at tidt jeg r&#x00E6;ddes</l>
+<l>for at styrre hendes Tanker.</l>
+</lg>
+<lg>
+<l><pb n="22"/>Stilhed ude, Stilhed inde,</l>
+<l>til hun reiser sig og stiger</l>
+<l>h&#x00F8;i og lysglad som en Dronning</l>
+<l>gjennem sine unge Riger.</l>
+</lg>
+<lg>
+<l>For en Duft i hendes F&#x00F8;lge! &#x2013;</l>
+<l>Det er, som min Sj&#x00E6;ls de r&#x00F8;de,</l>
+<l>nysudsprungne Roser vilde</l>
+<l>hele Sommernatten gl&#x00F8;de.</l>
+</lg>
+<lg>
+<l>Og i overjordisk L&#x00E6;ngsel</l>
+<l>er det saa, min Sj&#x00E6;l sig svinger</l>
+<l>op mod endnu st&#x00F8;rre Lykke</l>
+<l>paa de himmelklare Vinger. &#x2013;</l>
+</lg>
+<lg>
+<l>Ak, mit Barn, en saadan Rigdom</l>
+<l>kan en Stakkar ikke b&#x00E6;re,</l>
+<l>derfor ser du mig saa ofte</l>
+<l>sidde hj&#x00E6;lpel&#x00F8;s, du kj&#x00E6;re!</l>
+</lg>
+<lg>
+<l>Ingen Blomster mer, som taler,</l>
+<l>ingen Straaler mer, som synger,</l>
+<l>ingen L&#x00E6;ngsler, hvor jeg l&#x00F8;ftes,</l>
+<l>ingen Dr&#x00F8;mme, hvor jeg gynger.</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem" n="1_7">
+<head type="main"><ref type="contents" target="contents_1_7" xml:id="chapter_1_7">Thi Barn &#x2013;</ref></head>
+<lg>
+<l><pb n="23"/>Thi Barn, hvor er du deilig,</l>
+<l>og hvor dit &#x00D8;ie straaler,</l>
+<l>ja, dine s&#x00F8;de &#x00D8;ine,</l>
+<l>hvis Lys jeg ikke taaler!</l>
+<l>En Verden er du, kj&#x00E6;re,</l>
+<l>af Finhed, Skj&#x00F8;nhed, Ynde,</l>
+<l>og den, som haardh&#x00E6;ndt br&#x00F8;d didind,</l>
+<l>han vilde bare synde.</l>
+</lg>
+<lg>
+<l>Og se, der nu jeg vandrer,</l>
+<l>er mig, som alt, der lever,</l>
+<l>faar Glans og Farve just af dig,</l>
+<l>til om min Gang du sv&#x00E6;ver,</l>
+<l>det faar de hvide Blomster,</l>
+<l>det faar de r&#x00F8;de Skyer,</l>
+<l>naar Solen flammetung gaar ned</l>
+<l>og Sorg og Savn fornyer.</l>
+</lg>
+<lg>
+<l>Og mine stakkars Nerver,</l>
+<l>nu er de bare Strenge,</l>
+<l>der sm&#x00E6;rtesp&#x00E6;ndte dirrer <emph>dig</emph>,</l>
+<l>som vil min Sj&#x00E6;l de spr&#x00E6;nge,</l>
+<l>og mine stakkars &#x00D8;ine,</l>
+<l>nu er de n&#x00E6;sten blinde,</l>
+<l>med stundom f&#x00F8;ler jeg jo nok,</l>
+<l>at ogsaa de kan skinne.</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem" n="1_8">
+<head type="main"><ref type="contents" target="contents_1_8" xml:id="chapter_1_8">(Med en Buket Lilier)</ref></head>
+<lg>
+<l><pb n="25"/>Dronning, Dronning</l>
+<l>over alle hvide Riger</l>
+<l>her paa Jorden,</l>
+<l>vil du bli <emph>mit</emph> Riges Dronning?</l>
+<l>Jeg har aldrig feigt mig b&#x00F8;iet,</l>
+<l>aldrig sveget, aldrig l&#x00F8;iet</l>
+<l>og dog l&#x00F8;iet tusen Gange</l>
+<l>smilehullet, straale&#x00F8;iet.</l>
+<l>Her er L&#x00E6;ngsler fra et Hj&#x00E6;rte,</l>
+<l>her er Lilier fra et Sind,</l>
+<l>dugget blege af dets Sm&#x00E6;rte,</l>
+<l>da min Sj&#x00E6;l var hvid som din, &#x2013;</l>
+<l>tag mod dine Blomster, Dronning!</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem" n="1_9">
+<head type="main"><ref type="contents" target="contents_1_9" xml:id="chapter_1_9">Hvorfor?</ref></head>
+<lg>
+<l><pb n="26"/>Hvorfor sorgfuld og bedr&#x00F8;vet,</l>
+<l>naar det rigest gror og spr&#x00E6;tter,</l>
+<l>hvorfor Tungsind under L&#x00F8;vet</l>
+<l>i de sommerlyse N&#x00E6;tter,</l>
+<l>hvorfor Sm&#x00E6;rte i mit eget</l>
+<l>Sind, der sygt af Livsens Gl&#x00E6;de</l>
+<l>sitrer &#x00F8;mt og dybt bev&#x00E6;get,</l>
+<l>saa jeg gjerne kunde gr&#x00E6;de?</l>
+</lg>
+<lg>
+<l>Hvorfor har i Aftnens Kulde</l>
+<l>alle Vaarens Blomster b&#x00F8;iet</l>
+<l>sig med Duggens Graad i &#x00D8;iet</l>
+<l>taaresl&#x00F8;rte, vemodsfulde? &#x2013;</l>
+<l>Svar mig, kj&#x00E6;re, hvorfor vanker</l>
+<l>ogsaa jeg i denne rene,</l>
+<l>maaneblege Nat alene,</l>
+<l>zart af Sj&#x00E6;l og skj&#x00E6;r af Tanker?</l>
+<l>Hvorfor standser jeg i &#x00F8;mme,</l>
+<l>altfor lykkelige Dr&#x00F8;mme,</l>
+<l>til jeg atter d&#x00E6;mpet nynner</l>
+<l>og min L&#x00E6;ngsels Gang begynder?</l>
+</lg>
+<lg>
+<l><pb n="27"/>Hvorfor svulmer gjennem Sindet</l>
+<l>som en B&#x00F8;lge, som en B&#x00F8;lge,</l>
+<l>hvorfor gl&#x00F8;der det paa Kindet</l>
+<l>af en Fryd, jeg ei kan d&#x00F8;lge? &#x2013;</l>
+<l>H&#x00F8;r mig, alle Nattens Blomster,</l>
+<l>h&#x00F8;r mig, I som taare-milde,</l>
+<l>sm&#x00E6;rtens-hvide, sorgfuldt-stille</l>
+<l>staar i Mindets Andagt b&#x00F8;iet:</l>
+</lg>
+<lg>
+<l>I <emph>min</emph> Sj&#x00E6;l gror ogsaa Blomster!</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem" n="1_10">
+<head type="main"><ref type="contents" target="contents_1_10" xml:id="chapter_1_10">Morgen ved Neapelgolfen</ref></head>
+<lg>
+<l><pb n="28"/>Nu sl&#x00F8;res Stj&#x00E6;rnerne paa Himlens Buer,</l>
+<l>nu d&#x00E6;mrer Dagen</l>
+<l>og aander som en Dr&#x00F8;m om Lys paa Luften.</l>
+<l>Alt er saa lydt, saa h&#x00F8;itidstemt og stille,</l>
+<l>og dog som om den blege Morgen vilde</l>
+<l>paa f&#x00F8;rste Ildord bruse over Verden &#x2026;</l>
+<l>En Sv&#x00E6;rm af bittesmaae Lyd, der v&#x00E6;kkes,</l>
+<l>et Drys af Sol, en Fugl, der s&#x00F8;dt forskr&#x00E6;kkes</l>
+<l>og stemmer op i Glansen af en nyt&#x00E6;ndt</l>
+<l>og herlig Dag sin morgenfriske Salme.</l>
+<l>Og svaiende i Dagens Sol en Palme,</l>
+<l>en gylden Palme mod det vinblaa Hav.</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem" n="1_11">
+<head type="main"><ref type="contents" target="contents_1_11" xml:id="chapter_1_11">Februarmorgen ved Golfen</ref></head>
+<lg>
+<l><pb n="29"/>Ind under Himlen, den blaa, der synes</l>
+<l rend="indent_1">saa n&#x00E6;r, saa n&#x00E6;r,</l>
+<l>er sket et Under: de hvide blomstrende</l>
+<l rend="indent_1">Mandeltr&#x00E6;r.</l>
+</lg>
+<lg>
+<l>For aldrig saa jeg dog f&#x00F8;r paa Jorden</l>
+<l rend="indent_1">et Syn saa hvidt,</l>
+<l>det dufter af dem i Morgensolen,</l>
+<l rend="indent_1">men ganske lidt.</l>
+</lg>
+<lg>
+<l>Det skinner af dem, til alle Tanker</l>
+<l rend="indent_1">sig vider ud</l>
+<l>og majest&#x00E6;tisk et Tempel hv&#x00E6;lver</l>
+<l rend="indent_1">i Tak til Gud, &#x2013;</l>
+</lg>
+<lg>
+<l>hvor Engle sv&#x00E6;ver, hvor L&#x00E6;ngsler bruser</l>
+<l rend="indent_1">i nyf&#x00F8;dt Sang,</l>
+<l>min Sj&#x00E6;l forklares, og se, jeg kn&#x00E6;ler</l>
+<l rend="indent_1">for f&#x00F8;rste Gang.</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem" n="1_12">
+<head type="main"><ref type="contents" target="contents_1_12" xml:id="chapter_1_12">Hvad ved jeg &#x2013;</ref></head>
+<lg>
+<l><pb n="30"/>&#x2026; Hvad ved jeg, om det vil bringe</l>
+<l>Liv eller D&#x00F8;d? Paa sin Solstraalevinge</l>
+<l>suser den over mig, Dagen, som f&#x00F8;dtes</l>
+<l>i Angst, da vi m&#x00F8;dtes.</l>
+</lg>
+<lg>
+<l>Dagene stiger af Ild, og de synker</l>
+<l>i br&#x00E6;ndende R&#x00F8;dme, Vindene klynker</l>
+<l>og banker med kraftl&#x00F8;s Haand paa min Rude</l>
+<l>i Natten derude.</l>
+</lg>
+<lg>
+<l>Og Livet, som speilblankt laa der og skinned,</l>
+<l>nu gaar det som stormslaat Hav gjennem Sindet,</l>
+<l>l&#x00F8;fter min Baad, saa jeg kjender det svimle,</l>
+<l>mod Himlenes Himle, &#x2013;</l>
+</lg>
+<lg>
+<l>s&#x00E6;nker den atter med mumlende Vrede</l>
+<l>i Tungsindets Dyb, i Kval og i Lede,</l>
+<l>og dog er det m&#x00E6;gtig Vellyst at f&#x00F8;res,</l>
+<l>hvor Dybderne r&#x00F8;res.</l>
+</lg>
+</div>
+
+<div type="chapter" subtype="poem" n="1_13">
+<head type="main"><ref type="contents" target="contents_1_13" xml:id="chapter_1_13">Sommer</ref></head>
+<lg>
+<l><pb n="31"/>Det tindrer som et s&#x00F8;lvgraat Hav</l>
+<l>af hvide Blomster, Vaaren gav,</l>
+<l>der bruser fj&#x00E6;rnt en Tonestr&#x00F8;m</l>
+<l>ind i min vaagne Dr&#x00F8;m,</l>
+<l>og over den gaar Himlen blaa,</l>
+<l>som aldrig jeg en Himmel saa</l>
+<l>og sitrer hed af Sol og Fryd</l>
+<l>og Straalestrenges Lyd.</l>
+</lg>
+<lg>
+<l>Jeg lukker mine &#x00D8;ine til</l>
+<l>og f&#x00F8;lger taus det vage Spil</l>
+<l>af Billeder, som i mit Sind</l>
+<l>frit glider ud og ind;</l>
+<l>det er en Dag i Sydens Brand,</l>
+<l>men selv er jeg en stille Mand,</l>
+<l>hvis Tankes Liv slaar mere tyst</l>
+<l>end Hj&#x00E6;rtet i mit Bryst.</l>
+</lg>
+<lg>
+<l><pb n="32"/>Og dog har Lidenskaber gaa&#x0027;t,</l>
+<l>hvor nu det aander varmt og blaat</l>
+<l>og syge Kvalers Vanvid t&#x00E6;ndt,</l>
+<l>som der har h&#x00E6;rjet, br&#x00E6;ndt, &#x2013;</l>
+<l>et Dr&#x00F8;mmedyb af Klarhed, Fred</l>
+<l>er Sj&#x00E6;len, hvor jeg skuer ned,</l>
+<l>og ingen L&#x00E6;ngslers spilte Seil</l>
+<l>har krust idag dets Speil.</l>
+</lg>
+<lg>
+<l>Og jeg er blot et St&#x00F8;vgran i</l>
+<l>den store Verdensharmoni,</l>
+<l>en Tone, der i n&#x00E6;ste Stund</l>
+<l>har dirret sig til Blund &#x2026;</l>
+<l>Ah, hvad er det? Et d&#x00E6;mpet Sus,</l>
+<l>der vokser til et Skogens Brus</l>
+<l>og tungt og m&#x00E6;gtig drager hen</l>
+<l>og derpaa d&#x00F8;r igjen.</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem" n="1_14">
+<head type="main"><ref type="contents" target="contents_1_14" xml:id="chapter_1_14">Bad</ref></head>
+<lg>
+<l><pb n="33"/>Det er et Bad i solblaat Hav</l>
+<l>at se i hendes &#x00D8;ine ind,</l>
+<l>de store, unge &#x00D8;ine,</l>
+<l>der straaler hendes Sind.</l>
+</lg>
+<lg>
+<l>Jeg reiser mig forfrisket</l>
+<l>af Badet op og ler,</l>
+<l>jeg vandrer om fortumlet</l>
+<l>af Syner, som jeg ser.</l>
+</lg>
+<lg>
+<l>Det er en Angst, en Hj&#x00E6;rteangst</l>
+<l>at kysse hendes r&#x00F8;de Mund,</l>
+<l>den vilde Blomst, som aander</l>
+<l>mig varm og st&#x00E6;rk og sund.</l>
+</lg>
+<lg>
+<l>T&#x00E6;nk, at vi alle lever</l>
+<l>paa samme lyse Dag, &#x2013;</l>
+<l>tak, tak, du kj&#x00E6;re, s&#x00F8;de</l>
+<l>for hvert et Aandedrag!</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem" n="1_15">
+<head type="main"><ref type="contents" target="contents_1_15" xml:id="chapter_1_15">Jeg er som en &#x2013;</ref></head>
+<lg>
+<l><pb n="34"/>Jeg er som en Skog. Har den hvilet</l>
+<l>i Skygger, saa er det paa Tiden,</l>
+<l>der snart springer Solpletter i den:</l>
+</lg>
+<lg>
+<l>Det risler hen over mit Hoved</l>
+<l>med Lyd som af B&#x00F8;lger, der brydes</l>
+<l>og l&#x00E6;ngselsfuldt d&#x00F8;r i det fj&#x00E6;rne.</l>
+</lg>
+<lg>
+<l>Det mylrer ind under mit Hoved</l>
+<l>med Lyd som af Spirer; der gr&#x00F8;nnes,</l>
+<l>af smaa-bitte Hj&#x00E6;rter, der banker.</l>
+</lg>
+<lg>
+<l>Til Solpletter blir mine Tanker.</l>
+</lg>
+<lg>
+<l>Og nys var det Nat, en fort&#x00E6;rende</l>
+<l>Nat, da i Elskov hver L&#x00E6;ngsel blev stillet</l>
+<l>og m&#x00E6;ttet min Attraa i Gl&#x00F8;d af dit Billed.</l>
+</lg>
+<lg>
+<l>Saa f&#x00F8;dtes en Dag af dens Ildsj&#x00E6;l.</l>
+</lg>
+<lg>
+<l>Det bruser hen over mit Hoved.</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem" n="1_16">
+<head type="main"><ref type="contents" target="contents_1_16" xml:id="chapter_1_16">Efter Regn</ref></head>
+<lg>
+<l><pb n="35"/>For en d&#x00E6;mpet Glans i Luften! &#x2013;</l>
+<l>Det er, som det Sl&#x00F8;r af Traade,</l>
+<l>Regnet fint og s&#x00F8;lvbl&#x00F8;dt drager</l>
+<l>over Skog og Mark og Ager,</l>
+<l>fra det fj&#x00E6;rne gjennemskinnes,</l>
+<l>til de nattespundne Traade</l>
+<l>h&#x00E6;nger glinsende og vaade,</l>
+<l>som om blege Aasyn titter</l>
+<l>frem bag Lyng og Busk og fritter:</l>
+<l>Er det Solen, er det Solen? &#x2013;</l>
+<l>Og nu stryger der et sagte</l>
+<l>Vindpust gjennem Skogens Toppe,</l>
+<l>og nu blaaner der en Stribe</l>
+<l>hv&#x00E6;lvet Himmel h&#x00F8;iest oppe.</l>
+</lg>
+<lg>
+<l>Vi, som uden Sol har famlet</l>
+<l>i de lange, triste Dage,</l>
+<l>aa, vi kjender det, som Livet</l>
+<l>nu kom hilsende tilbage, &#x2013;</l>
+<l>det er Solen, det er Solen! &#x2013;</l>
+</lg>
+<lg>
+<l><pb n="36"/>Og som om det var et Hj&#x00E6;rte,</l>
+<l>Sommernattens Graad har lettet,</l>
+<l>l&#x00F8;fter skj&#x00E6;lvende Naturen</l>
+<l>sig af Badet nyf&#x00F8;dt, tv&#x00E6;ttet.</l>
+<l>Fugle tager paa at synge,</l>
+<l>store Draaber paa at gynge</l>
+<l>i et Solhavs Straaleglitter,</l>
+<l>hele Dagen paa at b&#x00F8;lge</l>
+<l>og med den i takfyldt Gl&#x00E6;de</l>
+<l>Vaarens lyse Blomsterf&#x00F8;lge,</l>
+<l>&#x2013; B&#x00F8;rn af Varme, B&#x00F8;rn af V&#x00E6;de, &#x2013;</l>
+<l>og jeg ler og slaar med Stokken</l>
+<l>lystig l&#x00F8;s paa Ungeflokken.</l>
+</lg>
+<lg>
+<l>Men de fuldt-udsprungne bryder</l>
+<l>jeg bag Lyng og Busk til hende,</l>
+<l>i hvis Barm det knoptungt skyder.</l>
+</lg>
+<lg>
+<l>Der er Regn paa deres Blade,</l>
+<l>Perlebobler, som mod Dagen</l>
+<l>spiller undrende og glade,</l>
+<l>til med Taarens Glans de lister</l>
+<l>nedad Kindens Dun og brister;</l>
+<l>i det f&#x00F8;rste Glimt af Solen</l>
+<l>maatte Livet selv de lade.</l>
+</lg>
+<lg>
+<l><pb n="37"/>Der er Gl&#x00F8;d i deres Aande,</l>
+<l>medens end de Aande drager,</l>
+<l>og nu ordner, m&#x00F8;nstrer, tager</l>
+<l>jeg dem med mig for at smykke</l>
+<l>hendes Bryst, der aander Lykke.</l>
+</lg>
+<lg>
+<l>Thi i Vaarens friske Farver</l>
+<l>skal min Hilsen frem de b&#x00E6;re,</l>
+<l>dufte skal de, glitre, gl&#x00F8;de</l>
+<l>end et D&#x00F8;gn til hendes &#x00C6;re,</l>
+<l>tale ogsaa, om det bare</l>
+<l>er et stumt: Du kj&#x00E6;re, kj&#x00E6;re!</l>
+</lg>
+<lg>
+<l>Du, der selv er Barn af Vaaren,</l>
+<l>mindes du vel st&#x00F8;rre Gl&#x00E6;de,</l>
+<l>end naar Smilet sprang af Taaren,</l>
+<l>og du aabent gav en anden</l>
+<l>af dig selv med Lys paa Panden,</l>
+<l>sorgl&#x00F8;st, frygtl&#x00F8;st, som du vidste,</l>
+<l>at du intet vilde miste?</l>
+<l>Mindes du vel st&#x00F8;rre Gl&#x00E6;de,</l>
+<l>end naar Sindet, fyldt til Randen,</l>
+<l>b&#x00F8;ied sig fortrolig, stille</l>
+<l>mod den anden, som det vilde</l>
+<l>af sin gr&#x00E6;nsel&#x00F8;se Fylde</l>
+<l>hendes L&#x00E6;ngsler overskylle?</l>
+<l><pb n="38"/>Mindes du vel st&#x00F8;rre Gl&#x00E6;de,</l>
+<l>end naar m&#x00F8;dt i skj&#x00F8;n Forening</l>
+<l>Livet brat fik Aand og Mening?</l>
+</lg>
+<lg>
+<l>O, da har vel jeg kjendt Gl&#x00E6;de,</l>
+<l>jeg, som i den h&#x00F8;ie Morgen</l>
+<l>kunde falde ned og bede!</l>
+<l>F&#x00F8;l, det dufter, se, det skinner</l>
+<l>som af blanke Barnekinder,</l>
+<l>lyt og h&#x00F8;r, om ei det toner</l>
+<l>som en Dr&#x00F8;m i Skogens Kroner</l>
+<l>&#x2013; et af Vinden stemt Orkester</l>
+<l>for dens smaae Blomstergj&#x00E6;ster, &#x2013;</l>
+<l>og i Klang af Fosseduren,</l>
+<l>under Blomsters Klokkeringen</l>
+<l>b&#x00F8;ier Kn&#x00E6; jeg for Naturen,</l>
+<l>for min Ven og for min Mester.</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem" n="1_17">
+<head type="main"><ref type="contents" target="contents_1_17" xml:id="chapter_1_17">Jeg kommer &#x2013;</ref></head>
+<lg>
+<l><pb n="39"/>Jeg kommer ifra Skog, fra Mark, fra Fjeld,</l>
+<l>fra Havets Uro, Kr&#x00E6;fters Kamp om Vaaren,</l>
+<l>fra Sang og Leg, ja, fra Naturen selv,</l>
+<l>hvis Driftliv sp&#x00E6;ndte Blodets Trang i Aaren.</l>
+</lg>
+<lg>
+<l>Og jeg er aandepusten, hed og t&#x00F8;rst</l>
+<l>af alt det Rend i Skoge og paa Fjelde,</l>
+<l>og som en Vildmand ser jeg ud, men f&#x00F8;rst</l>
+<l>vil ligevel min Saga jeg fort&#x00E6;lle.</l>
+</lg>
+<lg>
+<l>Jeg kommer fra Naturens st&#x00F8;rste Dag,</l>
+<l>en Dag, da Lys der drev om vaade Lemmer</l>
+<l>og aabenbarte hendes Aasyns Drag</l>
+<l>i slig en Glans, at aldrig jeg det glemmer.</l>
+</lg>
+<lg>
+<l>Jeg h&#x00F8;rte D&#x00F8;n af hvide B&#x00F8;lgers Trav</l>
+<l>og sl&#x00E6;ngte mig, saa lang jeg var, til Jorden</l>
+<l>og jubled mod det aabne, frie Hav</l>
+<l>og steg i Flugt med Skyerne til Norden.</l>
+</lg>
+<lg>
+<l><pb n="40"/>Og midt i Vaarens Sus, i B&#x00F8;lgens Spr&#x00F8;it,</l>
+<l>i Duren af dens frihedsglade Sange</l>
+<l>jeg reiste mig i Kval og raabte h&#x00F8;it:</l>
+<l>O, l&#x00F8;s mit V&#x00E6;sen, Hav, thi jeg er Fange!</l>
+</lg>
+<lg>
+<l>Jeg kommer og med Blomster i min Haand,</l>
+<l>dem kaster nu i Favnen jeg paa hende,</l>
+<l>som gav dem Lov at spire af min Aand</l>
+<l>og turde f&#x00F8;lge mig til Verdens Ende.</l>
+</lg>
+<lg>
+<l>&#x2026; Fra Skog, fra Mark, ja, fra Naturen selv,</l>
+<l>den Dronning, som mig kaldte til sin Sanger,</l>
+<l>hos hvem jeg hvilte mangen m&#x00F8;dig Kv&#x00E6;ld</l>
+<l>og vaagned med, naar Helios red sin Ganger!</l>
+</lg>
+</div>
+
+<div type="chapter" subtype="poem" n="1_18">
+<head type="main"><ref type="contents" target="contents_1_18" xml:id="chapter_1_18">Finale</ref></head>
+<lg>
+<l><pb n="41"/>Jeg kaldte dig, da du var min,</l>
+<l>en Verden ung og lysegr&#x00F8;n,</l>
+<l>fordi du var saa rig af Sind,</l>
+<l>saa kvindevarm, saa &#x00F8;m og skj&#x00F8;n, &#x2013;</l>
+<l>min lysegr&#x00F8;nne Verden, du,</l>
+<l>som hv&#x00E6;lved mig saa h&#x00F8;it et Tag,</l>
+<l>o h&#x00F8;r, der toner Minder end</l>
+<l>i L&#x00F8;vets Hv&#x00E6;lv den Dag i Dag!</l>
+</lg>
+<lg>
+<l>Vel sandt, du havde elsket, lidt;</l>
+<l>men Kj&#x00E6;rligheden er et Bad,</l>
+<l>hvoraf du straale&#x00F8;iet steg</l>
+<l>med nye L&#x00E6;ngsler, nye Kvad;</l>
+<l>det var mig, som du vidste alt</l>
+<l>af ondt, men og af godt paa Jord,</l>
+<l>og dog sad intet vissent Blad</l>
+<l>og rasled om dit Liv ifjor.</l>
+</lg>
+<lg>
+<l><pb n="42"/>Jeg sl&#x00E6;ngte mig i Gr&#x00E6;sset ned</l>
+<l>og h&#x00F8;rte fj&#x00E6;rnt en s&#x00F8;d Musik,</l>
+<l>der elskovsbaaren, attraafyldt</l>
+<l>og varslende i L&#x00F8;vet gik;</l>
+<l>saa s&#x00E6;nked sig hvert Blad med et,</l>
+<l>og m&#x00F8;rkt det blev og trangt og tyst, &#x2013;</l>
+<l>en Faun var jeg, en Nymphe du,</l>
+<l>som aanded mod mit hede Bryst.</l>
+</lg>
+<lg>
+<l>Hvad gavner Eder, fagre Ord? &#x2013;</l>
+<l>For smaat, for smaat, hvor der er to,</l>
+<l>som Sj&#x00E6;lens Dybder lodde vil</l>
+<l>og over Kl&#x00F8;fterne slaa Bro;</l>
+<l>men da det sidste Kj&#x00E6;rtegns Gl&#x00F8;d</l>
+<l>var slukt og deres Tr&#x00E6;ldom brudt,</l>
+<l>da gnistred ingen Blomster fler,</l>
+<l>og l&#x00E6;ngst var Fuglesangen slut.</l>
+</lg>
+<lg>
+<l>Du satte dig blandt Skygger ned</l>
+<l>med Haanden presset mod dit Kind. &#x2013;</l>
+<l>Saa er det sket! &#x2013; Og ud du saa,</l>
+<l>hvor Gr&#x00E6;sset skjalv for Kv&#x00E6;ldens Vind:</l>
+<l>De gamle Dr&#x00F8;mmes Saga endt,</l>
+<l>en ny begyndt! &#x2013; Hvad bringer den</l>
+<l>foruden Sorg og bitter Graad</l>
+<l>og kolde, sorte Skyggem&#x00E6;nd? &#x2013;</l>
+</lg>
+<lg>
+<l><pb n="43"/>Min lysegr&#x00F8;nne Verden, du, &#x2013;</l>
+<l>det var mig, som dit V&#x00E6;sen sprang</l>
+<l>i unge, friske Knopper ud,</l>
+<l>da h&#x00F8;it vi hilstes n&#x00E6;ste Gang,</l>
+<l>og snart var Skogen atter fuld</l>
+<l>af Duft og Solskinspletters Leg,</l>
+<l>der flytted sig i luftig Dans</l>
+<l>for hver en Lykkedr&#x00F8;m, som steg &#x2026;</l>
+</lg>
+<lg>
+<l>Er endnu Skogen lysegr&#x00F8;n? &#x2013;</l>
+<l>Jeg sp&#x00F8;r jo kun; thi i mig selv</l>
+<l>er mangt et Skud forl&#x00E6;ngst gaa&#x0027;t ud</l>
+<l>og t&#x00F8;rret bort med Vaarens V&#x00E6;ld. &#x2013;</l>
+<l>Kort var vor Elskovs dulgte Liv,</l>
+<l>og skilt for evig blev vor Vei:</l>
+<l>O, sig mig, kan i L&#x00F8;vets Tag</l>
+<l>det suse end om dig og mig?</l>
+</lg>
+</div>
+</div>
+
+<div type="part">
+<head type="main"><ref type="contents" target="contents_2" xml:id="part_2">AARETS SAGA</ref></head>
+
+<div type="chapter" subtype="poem" n="2_1">
+<head type="main"><ref type="contents" target="contents_2_1" xml:id="chapter_2_1">Januar</ref></head>
+<lg>
+<l><pb n="47"/>Paany en Dag er d&#x00F8;d! &#x2013; Og lydl&#x00F8;st samler</l>
+<l>sig M&#x00F8;rkets Aander nu og pusler, famler,</l>
+<l>mens endnu r&#x00F8;dlig Sneens Flade lyser</l>
+<l>i Solnedgangens Skj&#x00E6;r, og alting fryser.</l>
+</lg>
+<lg>
+<l>Et Kvindeaasyn ser jeg, blegt, forgr&#x00E6;mmet,</l>
+<l>end ungt og dog af Taarers Ilddryp sk&#x00E6;mmet,</l>
+<l>der ind i Kv&#x00E6;ldens Tr&#x00F8;stesl&#x00F8;shed stirrer,</l>
+<l>hvor fj&#x00E6;rnt en Rude flammegylden dirrer.</l>
+</lg>
+<lg>
+<l>Ja, det er Vinter nu og intet levnet</l>
+<l>af det, som Vaaren gav, og Som&#x0027;ren evned,</l>
+<l>og livsens-m&#x00F8;dig er hun selv f&#x00F8;r Tiden,</l>
+<l>saa arm paa Haab som hun er rig paa Viden.</l>
+</lg>
+<lg>
+<l>Hvad var det Vaaren loved, da i Sindet</l>
+<l>sit Guld den dryssed, og sin Sol den skinned,</l>
+<l>da f&#x00F8;dt paany hun gav sig hen med hele</l>
+<l>sin skj&#x00F8;nne Sj&#x00E6;l, med tusen skj&#x00F8;nne Sj&#x00E6;le, &#x2013;</l>
+</lg>
+<lg>
+<l>i Angst og Jubel! &#x2013; Angst, fordi hun vidste,</l>
+<l>at dette var den sidste Gang, den sidste,</l>
+<l>og jubelfyldt, fordi med nye Dr&#x00F8;mme</l>
+<l>hun f&#x00F8;lte Sj&#x00E6;len i sin Almagt str&#x00F8;mme.</l>
+</lg>
+<lg>
+<l><pb n="48"/>Hver Dag et &#x00C6;ventyr! &#x2013; Tidt var det hende,</l>
+<l>som ei hun turde leve det til Ende,</l>
+<l>men lokket af et Braadyb, blomstersmykket,</l>
+<l>forsvandt med Haanden t&#x00E6;t til Hj&#x00E6;rtet trykket.</l>
+</lg>
+<lg>
+<l>O, hvorfor d&#x00F8;r vi ei, naar Lykken kalder,</l>
+<l>og guldblaa Dagene fra Himlen falder,</l>
+<l>f&#x00F8;r sl&#x00F8;vt vi ser vort Liv i Taager svinde</l>
+<l>og f&#x00F8;get bart det er af golde Vinde!</l>
+</lg>
+<lg>
+<l>&#x2026; Et V&#x00E6;ld af l&#x00E6;ngselslyse Smil og Taarer,</l>
+<l>der steg og atter sank i hendes Aarer, &#x2013;</l>
+<l>ak, dette V&#x00E6;ld, hvi kunde ei det bygget</l>
+<l>for Livet op og Livet selv betrygget!</l>
+</lg>
+<lg>
+<l>Men stump og taus, da Sj&#x00E6;lens Guddom d&#x00F8;de,</l>
+<l>laa modstandsl&#x00F8;st dens store Vidde-&#x00F8;de,</l>
+<l>hvorover kolde Minde-skygger drager,</l>
+<l>og Stormen i sin Afmagt truer, klager.</l>
+</lg>
+<lg>
+<l>Og hvor, naar Stormens R&#x00F8;ster tr&#x00E6;t sig vaander,</l>
+<l>saa isnende paa Luften Hadet aander</l>
+<l>til sorgfuldt over &#x00D8;demarkers Vildhed</l>
+<l>der falder Sne med Sneens Sl&#x00F8;vhed, Stilhed.</l>
+</lg>
+</div>
+
+<div type="chapter" subtype="poem" n="2_2">
+<head type="main"><ref type="contents" target="contents_2_2" xml:id="chapter_2_2">Februar</ref></head>
+<lg>
+<l><pb n="49"/>Men dybt ind under Sneens frosne Hv&#x00E6;lv</l>
+<l>gaar med sit Vaarsus Kj&#x00E6;rlighedens Elv,</l>
+<l>tyst famlende sig Vei ad nye Baner</l>
+<l>og standser, hulker eller risler s&#x00F8;dt,</l>
+<l>af ubevidste Lykkel&#x00E6;ngsler f&#x00F8;dt, &#x2013;</l>
+<l>snart smelter Sneen, f&#x00F8;r hun selv det aner.</l>
+</lg>
+<lg>
+<l>Og se, nys sprang i Solens Skin den fri</l>
+<l>og silrer nu saa morgenblank forbi</l>
+<l>den f&#x00F8;rste Vaarblomst, tindrende af Gl&#x00E6;de.</l>
+<l>Hun bryder Blomsten, der i Sol den staar,</l>
+<l>men kjender Sm&#x00E6;rten bare dobbelt saar</l>
+<l>og kaster den i Gr&#x00E6;mmelse og Lede.</l>
+</lg>
+<lg>
+<l>Ak, hvorfor elske, hvorfor haabe, tro,</l>
+<l>naar ikkun Sorg og Minders Gift vil gro</l>
+<l>af det, som burde Livets Kr&#x00E6;fter h&#x00E6;ve! &#x2013;</l>
+<l>Og ud hun ser, hvor Aftnen fin og r&#x00F8;d</l>
+<l>nu synker underlig og l&#x00E6;ngselsbl&#x00F8;d,</l>
+<l>saa &#x00F8;mt hun f&#x00F8;ler Hj&#x00E6;rtets Strenge b&#x00E6;ve.</l>
+</lg>
+<lg>
+<l><pb n="50"/>Hun t&#x00E6;nker paa, hvor tillidsfuldt hun gav</l>
+<l>af al sin Overflod og uden Krav,</l>
+<l>kun fyldt med Tak, kun salig ved at give;</l>
+<l>og ei hun fatter det til denne Stund:</l>
+<l>Jo mer hun gav, des mere rig var hun,</l>
+<l>var hun, som dog saa fattig skulde blive.</l>
+</lg>
+<lg>
+<l>Og som et Hj&#x00E6;rte, overfyldt og tr&#x00E6;t,</l>
+<l>blot gr&#x00E6;de kan, slig har hun ogsaa gr&#x00E6;dt</l>
+<l>sig alle Tanker sl&#x00F8;vede og blinde</l>
+<l>og &#x00F8;nsket, at det aldrig mer blev Vaar,</l>
+<l>men Vinter kun og helst saa kold og haard,</l>
+<l>saa streng, at intet L&#x00F8;vspring turde skinne.</l>
+</lg>
+<lg>
+<l>Og atter falder Sneen t&#x00E6;t og tung</l>
+<l>og kv&#x00E6;ler hvert et Skud; men hun er ung</l>
+<l>og yngre kanske, end hun selv det aner,</l>
+<l>og dybt ind under Sneens frosne Hv&#x00E6;lv</l>
+<l>gaar med sit Vaarsus Kj&#x00E6;rlighedens Elv,</l>
+<l>stilt famlende sig Vei ad nye Baner.</l>
+</lg>
+</div>
+
+<div type="chapter" subtype="poem" n="2_3">
+<head type="main"><ref type="contents" target="contents_2_3" xml:id="chapter_2_3">Marts</ref></head>
+<lg>
+<l><pb n="51"/>Det tiner i Dalene, tordner fra Fjeldene,</l>
+<l>lysner i Luften til langt ud paa Kv&#x00E6;ldene,</l>
+<l>det blinker som S&#x00F8;lvdraaber op under Tagene,</l>
+<l>sukker om Morgnerne, synger om Dagene</l>
+<l>brusende, klagende.</l>
+</lg>
+<lg>
+<l>Hvad er det, som gj&#x00F8;r, at jeg vaagner i Gl&#x00E6;de,</l>
+<l>men synker hver Aften i Mismod og Lede,</l>
+<l>hvad er det, som svulmer i Sj&#x00E6;len og tr&#x00E6;nges</l>
+<l>lig Safter, der brydes og sygner og l&#x00E6;nges,</l>
+<l>hvad er det, som knoppes, hvem er det, som lister</l>
+<l>sig ind i mit Sind, til det livsfyldig brister,</l>
+<l rend="indent_1">til alt, som laa frossent</l>
+<l rend="indent_1">og d&#x00F8;dt fra ifjor,</l>
+<l rend="indent_1">mig b&#x00F8;lger imod</l>
+<l rend="indent_1">i et sommerligt Kor</l>
+<l>og sprudler som Latter, der l&#x00F8;stes af Vaaren</l>
+<l>og funkler som glitrende Sol gjennem Taaren?</l>
+</lg>
+</div>
+
+<div type="chapter" subtype="poem" n="2_4">
+<head type="main"><ref type="contents" target="contents_2_4" xml:id="chapter_2_4">April</ref></head>
+<lg>
+<l><pb n="52"/>Saa er da Vaaren kommen,</l>
+<l>og alt jeg kjender Duften</l>
+<l>af unge Poplers sp&#x00E6;de L&#x00F8;v</l>
+<l>i Striber kruse Luften.</l>
+</lg>
+<lg>
+<l>Paa Himlens blege Bue</l>
+<l>en gylden Foraarsmaane</l>
+<l>som Tegn og helligt L&#x00F8;fte om,</l>
+<l>at nu vil Livet blaane.</l>
+</lg>
+<lg>
+<l>Hvor er dog alt forandret,</l>
+<l>der vagt jeg gaar og dr&#x00F8;mmer,</l>
+<l>bedaaret af den lyse Kv&#x00E6;ld</l>
+<l>og Skyerne, som sv&#x00F8;mmer!</l>
+</lg>
+<lg>
+<l>F&#x00F8;r elsked jeg det st&#x00E6;rke,</l>
+<l>det stormende og vilde,</l>
+<l>nu tror jeg, at jeg elsker mest</l>
+<l>det fine og det stille!</l>
+</lg>
+<lg>
+<l><pb n="53"/>F&#x00F8;r elsked jeg dem alle</l>
+<l>i L&#x00E6;ngsler og i Taarer,</l>
+<l>nu elsker jeg en eneste,</l>
+<l>men ved ei, hvem jeg kaarer!</l>
+</lg>
+</div>
+
+<div type="chapter" subtype="poem" n="2_5">
+<head type="main"><ref type="contents" target="contents_2_5" xml:id="chapter_2_5">Mai</ref></head>
+<p><pb n="54"/>Carl N&#x00E6;rup tilegnet.</p>
+<lg>
+<l>Jeg undres, om endnu der vandrer,</l>
+<l>naar Skygger paa Veiene falder,</l>
+<l>to Mennesker, hvem Livet bestraaler,</l>
+<l>og Aanderne maner og kalder,</l>
+<l>to Venner kanh&#x00E6;nde, to Sj&#x00E6;le,</l>
+<l>saa bl&#x00F8;de som Maimuld, der m&#x00F8;dtes</l>
+<l>i Blomstring, da Barnet gik under,</l>
+<l>og Ynglingen dr&#x00F8;mme-taus f&#x00F8;dtes.</l>
+</lg>
+<lg>
+<l>Det er i de guldblege N&#x00E6;tter! &#x2013;</l>
+<l>Og L&#x00F8;vet, som ny-sprunget hv&#x00E6;lver</l>
+<l>i Vemod de m&#x00F8;rknende Kroner,</l>
+<l>nu smeltes det sammen og skj&#x00E6;lver,</l>
+<l>det flyder nu sammen og skj&#x00E6;lver</l>
+<l>af alt, som et Hj&#x00E6;rte kan rumme,</l>
+<l>og dog er de sorgtunge begge,</l>
+<l>saa anende, b&#x00E6;vende stumme.</l>
+</lg>
+<lg>
+<l><pb n="55"/>Der pipper en Fugl under L&#x00F8;vet,</l>
+<l>en Akerriks skarrer langt borte,</l>
+<l>og skyggebl&#x00F8;dt hvilende tegner</l>
+<l>sig Aasene blaalige &#x2013; sorte,</l>
+<l>en Stjerne gaar op, og den funkler</l>
+<l>paa Himlen saa stor og saa ene:</l>
+<l>V&#x00E6;r hilset, min Stjerne, v&#x00E6;r hilset</l>
+<l>du h&#x00F8;ie, du klare, du rene!</l>
+</lg>
+<lg>
+<l>En Stjerne paa Himlen jeg hilser,</l>
+<l>der vaager, naar fredfuldt <emph>hun</emph> sover,</l>
+<l>en Stjerne, der sv&#x00E6;rmende stiger</l>
+<l>og sitrende varsler og lover, &#x2013;</l>
+<l>det er i de guldblege N&#x00E6;tter,</l>
+<l>da to, som af Hj&#x00E6;rtet er Venner,</l>
+<l>dets helligste L&#x00F8;nkammer aabner,</l>
+<l>dets dybeste L&#x00E6;ngsler bekjender, &#x2013;</l>
+</lg>
+<lg>
+<l>dets Haab, som i Daadstrang nu l&#x00F8;fter</l>
+<l>sig h&#x00F8;it og Forstaaelse kr&#x00E6;ver,</l>
+<l>dets T&#x00F8;rst mod at elske og nyde</l>
+<l>og fatte den Dr&#x00F8;m, at man lever,</l>
+<l>den mystiske Lysglans, der b&#x00F8;lger</l>
+<l>om Skikkelser store og fj&#x00E6;rne,</l>
+<l>og Minder, saa myldrende mange,</l>
+<l>besj&#x00E6;lt af en eneste Stjerne.</l>
+</lg>
+<lg>
+<l><pb n="56"/>Og rundtom &#x2013; der spr&#x00E6;tter og gror det,</l>
+<l>saa h&#x00F8;re en kan, det er Sommer,</l>
+<l>hin Tid i vort Liv, da vi aner</l>
+<l>et Under, som aldrig kommer,</l>
+<l>hvor Dagen og Natten gaar sammen</l>
+<l>og er lig to Elskende &#x00F8;mme,</l>
+<l>der ikke for Lykke kan blunde,</l>
+<l>men bare kan skinne og dr&#x00F8;mme.</l>
+</lg>
+</div>
+
+<div type="chapter" subtype="poem" n="2_6">
+<head type="main"><ref type="contents" target="contents_2_6" xml:id="chapter_2_6">Juni</ref></head>
+<lg>
+<l><pb n="57"/>Sv&#x00F8;bt i r&#x00F8;de Skyers Flor,</l>
+<l>skj&#x00E6;r og fin og lys af Hud,</l>
+<l>er du Solens blege Brud,</l>
+<l>h&#x00F8;ie Sommernat i Nord;</l>
+<l>men din Sj&#x00E6;l er vemodsfuld</l>
+<l>selv i Juni, naar du b&#x00E6;r</l>
+<l>Kronen af det blanke Guld,</l>
+<l>unge Sv&#x00E6;rmerske, du er!</l>
+</lg>
+<lg>
+<l>Og din Elskte, det er han,</l>
+<l>som hver Kv&#x00E6;ld i Smil og Gl&#x00F8;d</l>
+<l>synker hist bag Fjeldets Rand</l>
+<l>med sin Pande i dit Sk&#x00F8;d,</l>
+<l>og du ta&#x0027;r ham blidt i Favn,</l>
+<l>til du sygnende af Savn</l>
+<l>drager Sl&#x00F8;ret varsomt over</l>
+<l>Himmelsengen, hvor han sover.</l>
+</lg>
+<lg>
+<l><pb n="58"/>Som Naturen anet har</l>
+<l>noget fj&#x00E6;rnt, den ei kan naa,</l>
+<l>og som dog den venter paa,</l>
+<l>staar den lyttende og vaer &#x2026;</l>
+<l>Og det er, som d&#x00E6;mpet Klang</l>
+<l>af en aldrig sunget Sang</l>
+<l>dirrer over Mark og Enge</l>
+<l>fra din Sj&#x00E6;ls de sp&#x00E6;ndte Strenge.</l>
+</lg>
+<lg>
+<l>Men er Himlen ren og varm,</l>
+<l>gir du al din L&#x00E6;ngsel hen,</l>
+<l>og der stiger fra din Barm</l>
+<l>Suk mod ham, som er din Ven.</l>
+<l>Luften lys; selv er du ung, &#x2013;</l>
+<l>hvorfor da saa vemodstung?</l>
+<l>Og du hvisker det til L&#x00F8;vet,</l>
+<l>hvad der gj&#x00F8;r dit Sind bedr&#x00F8;vet.</l>
+</lg>
+<lg>
+<l>&#x00AB;Sov nu alle, store, smaa,</l>
+<l>hver en Blomst, min Sj&#x00E6;l har kj&#x00E6;r,</l>
+<l>fra det lille bitte Straa</l>
+<l>til de h&#x00F8;ie, voksne Tr&#x00E6;r,&#x00BB; &#x2013;</l>
+<l>men i &#x00D8;st bag Fjeldets Bryn</l>
+<l>lyser der et ildfuldt Syn,</l>
+<l>det er ham, din egen Ven,</l>
+<l><pb n="59"/>som nu vaagnet er igjen,</l>
+<l>og du f&#x00F8;ler inderst inde</l>
+<l>med et Gys, at du er Kvinde.</l>
+</lg>
+<lg>
+<l>I sin kongelige Pragt</l>
+<l>stiger brautende og hed</l>
+<l>Livets Gud, hvis Straalers Magt</l>
+<l>vidner om hans Majest&#x00E6;t!</l>
+<l>Det blir h&#x00F8;it til Himlens Tag</l>
+<l>i den jubelvilde Dag,</l>
+<l>Sol i Luft og Sang i Lund,</l>
+<l>til det sitrer om din Mund,</l>
+<l>og du lig en Skygge svinder</l>
+<l>i den Glans, hvoraf han skinner.</l>
+</lg>
+<lg>
+<l>Men naar blegnet er hans Dag,</l>
+<l>og der r&#x00F8;dmer kun en Sky,</l>
+<l>er det, som dit Aasyns Drag</l>
+<l>speiler Sorg og Sorg paany:</l>
+<l>Kort er Lykkens Dr&#x00F8;m i Nord,</l>
+<l>og snart er dens Tid forbi, &#x2013;</l>
+<l>hellig Sorg, hvis Sv&#x00E6;rmeri</l>
+<l>tryller Hj&#x00E6;rterne paa Jord.</l>
+</lg>
+<lg>
+<l>Og da er det, du og jeg,</l>
+<l>vi, som nys gik Haand i Haand,</l>
+<l><pb n="60"/>standser begge hver for sig</l>
+<l>med saa mildt bev&#x00E6;get Aand,</l>
+<l>og det er, som Tanken da</l>
+<l>l&#x00F8;ftes mod et evigt Land,</l>
+<l>Palmelandet fj&#x00E6;rnt herfra</l>
+<l>bag den gyldne Himmelrand.</l>
+</lg>
+</div>
+
+<div type="chapter" subtype="poem" n="2_7">
+<head type="main"><ref type="contents" target="contents_2_7" xml:id="chapter_2_7">Juli</ref></head>
+<lg>
+<l><pb n="61"/>Det er de lyse N&#x00E6;tters Tid i Nord,</l>
+<l>da varm og duftm&#x00E6;t Juli-dagen blunder</l>
+<l>en stakket Frist i Solens gyldne Spor,</l>
+<l>hvor bag en Rosensky den nys gik under.</l>
+</lg>
+<lg>
+<l>Der staar to Elskende ved S&#x00F8;ens Bred</l>
+<l>t&#x00E6;t til hinanden l&#x00E6;net, blege, stumme,</l>
+<l>dybt hj&#x00E6;rtegrebne af den store Fred,</l>
+<l>hvis H&#x00F8;itid ikke Menneskeord kan rumme.</l>
+</lg>
+<lg>
+<l>Og Jorden slumrer taus og dagtr&#x00E6;t hen,</l>
+<l>men Himlen vaager trofast oven-over, &#x2013;</l>
+<l>Farvel, Farvel! &#x2026; Dog maa de ud igjen,</l>
+<l>ud i den lyse Nat, der ikke sover, &#x2013;</l>
+</lg>
+<lg>
+<l>den lyse Nat, der stryger ren og &#x00F8;m</l>
+<l>sit Vemod over barndoms-fj&#x00E6;rne Minder,</l>
+<l>hvis Liv er lig en overjordisk Dr&#x00F8;m</l>
+<l>i L&#x00E6;ngsel f&#x00F8;dt, &#x2013; o, grib den, f&#x00F8;r den svinder!</l>
+</lg>
+<lg>
+<l><pb n="62"/>Snart er vort Jordlivs fagre Dr&#x00F8;m forbi,</l>
+<l>snart minker Dagene, og M&#x00F8;rket falder, &#x2013;</l>
+<l>hvad Under at jeg staar fortryllet i</l>
+<l>det milde Lys fra Evighedens Haller!</l>
+</lg>
+</div>
+
+<div type="chapter" subtype="poem" n="2_8">
+<head type="main"><ref type="contents" target="contents_2_8" xml:id="chapter_2_8">August</ref></head>
+<p><pb n="63"/>Atter hjemme!</p>
+<lg>
+<l>Aftnen fin og lys og skj&#x00E6;r</l>
+<l>som en Dr&#x00F8;m, der blidt svandt hen &#x2026;</l>
+<l>Og nu gaar jeg her igjen,</l>
+<l>ja, nu gaar jeg atter her!</l>
+<l>Og jeg hvisker: Alt som f&#x00F8;r,</l>
+<l>Birken i sit Yndes Sl&#x00F8;r,</l>
+<l>Aspen med det r&#x00E6;dde Sind,</l>
+<l>b&#x00E6;vrende for Kv&#x00E6;ldens Vind,</l>
+<l>alt og intet ligt sig selv</l>
+<l>i den elskovstunge Kv&#x00E6;ld,</l>
+<l>hvor som f&#x00F8;r det bruser, klager,</l>
+<l>sukker, l&#x00E6;nges og forsager. &#x2013;</l>
+</lg>
+<lg>
+<l>Kanske gaar, som selv jeg gik,</l>
+<l>i de f&#x00F8;rste Dr&#x00F8;mmes Gry,</l>
+<l>nu en Yngling blyg og sky</l>
+<l>med saa indadvendt et Blik &#x2026;</l>
+<l>Dengang Vintren nys br&#x00F8;d op,</l>
+<l>var det, som han selv sk&#x00F8;d Knop,</l>
+<l>og nu svulmer det derinde</l>
+<l>for de bl&#x00F8;de Sommervinde.</l>
+</lg>
+<lg>
+<l><pb n="64"/>Blad paa Blad, i L&#x00E6;ngsler sv&#x00F8;bt,</l>
+<l>ligger Sj&#x00E6;lens Blomst beredt</l>
+<l>til at springe ud med et</l>
+<l>og i Frihed vorde d&#x00F8;bt, &#x2013;</l>
+<l>alting kalder: Elskov, Haab,</l>
+<l>st&#x00E6;rke Lidenskabers Raab,</l>
+<l>drager, suger; den, som vidste,</l>
+<l>naar dog Sv&#x00F8;bet vilde briste!</l>
+</lg>
+<lg>
+<l>Og han ser sig utryg om, &#x2013;</l>
+<l>For en Skam, hvis nogen kom!</l>
+<l>Og han mumler paa et Digt,</l>
+<l>til det str&#x00F8;mmer tungt og rigt</l>
+<l>og al Verdens Skj&#x00F8;nhed rummer,</l>
+<l>al dens Fryd og al dens Kummer.</l>
+</lg>
+<lg>
+<l>Og da flammer Kinden hed</l>
+<l>af de stolte Rhytmers Flugt &#x2026;</l>
+<l>Hvad var det? En Glans blev slukt, &#x2013;</l>
+<l>det var Solen, som gik ned! &#x2013;</l>
+<l>I en Sky af Vemod hyllet</l>
+<l>staar han pludselig fortryllet. &#x2013;</l>
+</lg>
+<lg>
+<l>&#x2013; Ja, for er det ikke her,</l>
+<l>som om alt var underlagt</l>
+<l>sm&#x00E6;rtefuldt en L&#x00E6;ngsels Magt:</l>
+<l><pb n="65"/>Sommerkv&#x00E6;lden fin og skj&#x00E6;r,</l>
+<l>Skogens Sus og B&#x00E6;kkens Spil</l>
+<l>og jeg selv, der lytter til, &#x2013;</l>
+<l>som om alt i L&#x00E6;ngsel lever</l>
+<l>og i L&#x00E6;ngsler toner, b&#x00E6;ver? &#x2013;</l>
+</lg>
+<lg>
+<l>D&#x00E6;mp din Trang og s&#x00E6;nk din R&#x00F8;st,</l>
+<l>du, som gjennem Kv&#x00E6;lden gaar!</l>
+<l>Ingen h&#x00F8;i, hesperisk Vaar,</l>
+<l>nei, en sl&#x00F8;v, taalmodig H&#x00F8;st,</l>
+<l>er det nu, som forestaar.</l>
+<l>Har du Vinl&#x00F8;v i dit Haar,</l>
+<l>Rosers Pragt, da riv dem af,</l>
+<l>her har Livet andre Krav</l>
+<l>end i fyldigt Liv at leves:</l>
+<l>Langsomt gro og langsomt visne, &#x2013;</l>
+<l>b&#x00F8;i dig, Sj&#x00E6;l, for hvad der kr&#x00E6;ves!</l>
+</lg>
+<lg>
+<l>Somren kort og Vintren lang</l>
+<l>og et Haab, der sprang af Smil,</l>
+<l>ak, hvor ofte stedt i Tvivl,</l>
+<l>til det vaares n&#x00E6;ste Gang!</l>
+<l>Atter L&#x00F8;v og Lys og Leg,</l>
+<l>da maaske er Kinden bleg</l>
+<l>og de L&#x00F8;fter, som blev givet,</l>
+<l>Mindelser for hele Livet. &#x2013;</l>
+</lg>
+<lg>
+<l><pb n="66"/>&#x2013; Lyngblomst, Lyngblomst, du, som str&#x00F8;r</l>
+<l>over Fjeld og skogl&#x00F8;s Hei</l>
+<l>Farvers Liv, naar Som&#x0027;ren d&#x00F8;r,</l>
+<l>o, v&#x00E6;r hilset paa min Vei!</l>
+<l>Ingen Blomst saa skj&#x00E6;r og ven,</l>
+<l>ingen Duft saa kj&#x00E6;r og ren,</l>
+<l>ingen trampet paa som du,</l>
+<l>ingen dog saa glad i Hu,</l>
+<l>fattigst Blomst, der rigest lyser,</l>
+<l>naar de andre Blomster gyser!</l>
+</lg>
+</div>
+
+<div type="chapter" subtype="poem" n="2_9">
+<head type="main"><ref type="contents" target="contents_2_9" xml:id="chapter_2_9">September</ref></head>
+<lg>
+<l><pb n="67"/>H&#x00F8;stklar Luft med store Vidder,</l>
+<l>intet kj&#x00E6;lent Fuglekvidder,</l>
+<l>Spr&#x00F8;it af Fosse, der jeg f&#x00E6;rdes, &#x2013;</l>
+<l>aa, hvor godt det gj&#x00F8;r at h&#x00E6;rdes!</l>
+</lg>
+<lg>
+<l>Thi jeg &#x00E6;kles ved det vege,</l>
+<l>og jeg r&#x00F8;dmer ved det blege,</l>
+<l>og jeg hader alt det vage,</l>
+<l>som jeg elsker H&#x00F8;stens Dage.</l>
+</lg>
+<lg>
+<l>Rene, tause, alvorsfulde</l>
+<l>venter de paa Storm og Kulde,</l>
+<l>kj&#x00F8;lig-klare, gylden-blanke</l>
+<l>sp&#x00E6;nder Staal de i din Tanke.</l>
+</lg>
+<lg>
+<l>Ro og H&#x00F8;ihed, der de hv&#x00E6;lver</l>
+<l>sine Buer, til de skj&#x00E6;lver, &#x2013;</l>
+<l>se, da lyser Aftenr&#x00F8;den</l>
+<l>sygt som sidste Smil i D&#x00F8;den.</l>
+</lg>
+<lg>
+<l><pb n="68"/>Det blir stilt, hvor Skogen luder,</l>
+<l>Flugt blandt Vaarens lyse Guder,</l>
+<l>&#x00F8;dt og tomt, hvor Morgenstunden</l>
+<l>steg med Elskovsleg i Lunden.</l>
+</lg>
+<lg>
+<l>Med sit skj&#x00E6;bnekolde &#x00D8;ie</l>
+<l>speider Luften fra det h&#x00F8;ie,</l>
+<l>L&#x00F8;vet visner, og saa falder</l>
+<l>det i Aarets tr&#x00E6;tte Alder,</l>
+</lg>
+<lg>
+<l>Blad for Blad &#x2026; Men f&#x00F8;r det &#x00F8;des,</l>
+<l>er det, alle Farver gl&#x00F8;des</l>
+<l>i en Skj&#x00F8;nhedsdr&#x00F8;m, den sidste,</l>
+<l>Vaaren endnu har at miste.</l>
+</lg>
+<lg>
+<l>Og du ser det flamme, spille,</l>
+<l>midt i H&#x00F8;stens Vemod &#x2013; stille,</l>
+<l>og du t&#x00E6;nker paa det vundne,</l>
+<l>paa det spildte og det svundne.</l>
+</lg>
+</div>
+
+<div type="chapter" subtype="poem" n="2_10">
+<head type="main"><ref type="contents" target="contents_2_10" xml:id="chapter_2_10">Oktober</ref></head>
+<lg>
+<l><pb n="69"/>Paa H&#x00F8;stsiden er det, en vaagnende Morgen</l>
+<l>ind under en graasl&#x00F8;ret, ludende Himmel,</l>
+<l>da gr&#x00E6;tne og s&#x00F8;vnblege Taagerne letter</l>
+<l>og syner et Landskab, som Regnet har bl&#x00F8;det,</l>
+<l>som Stormen har &#x00F8;det, et endel&#x00F8;st Landskab</l>
+<l>med langstrakte Vidder og bundl&#x00F8;se Myrer</l>
+<l>og sorte, tungsindige, grublende Fjeldvand.</l>
+<l>Saa tr&#x00F8;stesl&#x00F8;st ensomt i D&#x00E6;mringens Halvlys,</l>
+<l>saa modstandsl&#x00F8;st herjet og ribbet og plyndret</l>
+<l>og derpaa lagt veirbart til Bytte for Stormens</l>
+<l>og Skyernes Luner, slig synes en Livet,</l>
+<l>som Vidderne lever. Hvem fatter saa Tanken,</l>
+<l>at H&#x00F8;ifjeldets Sommer, den luftklare, korte</l>
+<l>nys steg over Lyngen med solblanke Dage,</l>
+<l>med Vrinsken og Bj&#x00E6;ldeklang, Kauen og Liomen</l>
+<l>og aanded sit skj&#x00E6;lvende Vemod paa Natten? &#x2013;</l>
+<l>Forl&#x00E6;ngst er den borte. Den skr&#x00E6;mtes fra Vettet</l>
+<l>en Nat, da det stormed; og nu raader H&#x00F8;sten</l>
+<l><pb n="70"/>langs Fjeldenes Sider, hvor Vandene styrter,</l>
+<l>paa bundl&#x00F8;se Myrer, hvor Troldene trasker</l>
+<l>og &#x00F8;ver sin Styrke i B&#x00E6;kken, der stuper</l>
+<l>sig durende frem over Heier og Urder</l>
+<l>og rykker og slider i Vidiernes Grene</l>
+<l>og sl&#x00E6;ber dem med sig, saa langt som de orker,</l>
+<l>og tumler i Afgrunden &#x2026;</l>
+</lg>
+<lg>
+<l>H&#x00F8;it over det store, fortvilete Landskab</l>
+<l>sig l&#x00F8;fter en &#x00D8;rn. Med de rovsyge Blikke</l>
+<l>tar Maal den af Viddernes, Fjeldenes Vildhed</l>
+<l>og kjender sig hjemme. Og som den nu seiler</l>
+<l>i fribaaren Flugt over Slug, over Tinder,</l>
+<l>stumt skuende ned paa de raadl&#x00F8;se Vidder,</l>
+<l>standser og skriger den:</l>
+</lg>
+<lg>
+<l rend="indent_1">&#x00D8;rnemor, &#x00D8;rnemor, kommen er H&#x00F8;sten,</l>
+<l rend="indent_1">liglagt er Sommeren, stormet dens Stilhed,</l>
+<l rend="indent_1">hjemmeligt er her nu, Uhygge, Vildhed,</l>
+<l rend="indent_1">h&#x00F8;r det paa R&#x00F8;sten!</l>
+</lg>
+</div>
+
+<div type="chapter" subtype="poem" n="2_11">
+<head type="main"><ref type="contents" target="contents_2_11" xml:id="chapter_2_11">November</ref></head>
+<lg>
+<l><pb n="71"/>Den korte, urolige Dag er d&#x00F8;d,</l>
+<l>men endnu dirrer derude</l>
+<l>i Aftenens sukkende, tunge Vind</l>
+<l>en vild og flammende Rude.</l>
+</lg>
+<lg>
+<l>Og klaprende str&#x00E6;kker hvert n&#x00F8;gent Tr&#x00E6;</l>
+<l>mod Himlen de sorte Grene,</l>
+<l>og gysende staar jeg i Kv&#x00E6;ldens Vind</l>
+<l>forfrossen, forladt, alene.</l>
+</lg>
+<lg>
+<l>Det var, som hvert levende Haab blev slukt</l>
+<l>og &#x00F8;det med Solens Luer:</l>
+<l>Hvem er du, du fredl&#x00F8;se, skj&#x00F8;nne Sj&#x00E6;l,</l>
+<l>som hist i det fj&#x00E6;rne truer?</l>
+</lg>
+<lg>
+<l>Jeg sp&#x00F8;rger med b&#x00E6;vende Hu, men faar</l>
+<l>blot Svar af de golde Vinde,</l>
+<l>og Skyerne haster afsted, afsted,</l>
+<l>og M&#x00F8;rkningens Tid er inde.</l>
+</lg>
+</div>
+
+<div type="chapter" subtype="poem" n="2_12">
+<head type="main"><ref type="contents" target="contents_2_12" xml:id="chapter_2_12">December</ref></head>
+<lg>
+<l><pb n="72"/>Der glitrer ingen Blomster mer for mig,</l>
+<l>og intet Haabets muntre Vagtblus skinner,</l>
+<l>der lysner intet L&#x00F8;vspring paa min Vei,</l>
+<l>og naar det rasler, er det gamle Minder.</l>
+</lg>
+<lg>
+<l>Min Sj&#x00E6;l er syg, min Kraft fort&#x00E6;rt, forspildt</l>
+<l>i Somrens Brand, i Festers Rus og Hede,</l>
+<l>Naturen d&#x00F8;d. Og derfor nu saa stilt,</l>
+<l>hvor f&#x00F8;r der steg Musik og Farvers Gl&#x00E6;de.</l>
+</lg>
+<lg>
+<l>Naturen d&#x00F8;d! &#x2013; Den store Pan er d&#x00F8;d! -</l>
+<l>H&#x00F8;r Aftenbrisens Suk, naar Dagen segner,</l>
+<l>og se mod Vest, hvor &#x00E6;ngstelig og r&#x00F8;d</l>
+<l>den Himmel er, der kuldegusten blegner!</l>
+</lg>
+<lg>
+<l>Hvem skulde troet, at saa bred en Str&#x00F8;m,</l>
+<l>saa lyst et V&#x00E6;ld, saa dyb en Livsens Kilde</l>
+<l>i Skyggen af den f&#x00F8;rste brustne Dr&#x00F8;m</l>
+<l>laa isbelagt for saa at gaa til Spilde?</l>
+</lg>
+<lg>
+<l><pb n="73"/>Dog stundom er det mig igjen, som gaar</l>
+<l>jeg i en Sky af Sorg, der gjennemgl&#x00F8;det</l>
+<l>af Minders Skj&#x00F8;nhed varsler om en Vaar,</l>
+<l>da endnu ei det mindste Blad var &#x00F8;det.</l>
+</lg>
+<lg>
+<l>Jeg h&#x00F8;rer Vinger klapre, Fugle slaa</l>
+<l>og L&#x00F8;vet suse som i gamle Dage,</l>
+<l>jeg h&#x00F8;rer B&#x00E6;kken nynne, Stemmer spaa,</l>
+<l>at snart vil Lykken vende rig tilbage.</l>
+</lg>
+<lg>
+<l>Det vintres, vintres! &#x2013; Af hvert Haab forladt,</l>
+<l>forladt tilsidst af Sangens glade Fugle,</l>
+<l>jeg staar bedr&#x00F8;vet i den kolde Nat</l>
+<l>og h&#x00F8;rer fj&#x00E6;rnt en Visdomsugle ule.</l>
+</lg>
+</div>
+</div>
+
+<div type="part">
+<head type="main"><ref type="contents" target="contents_3" xml:id="part_3">III.</ref></head>
+
+<div type="chapter" subtype="poem" n="3_1">
+<head type="main"><ref type="contents" target="contents_3_1" xml:id="chapter_3_1">Til en!</ref></head>
+<lg>
+<l><pb n="77"/>Til en, hvis Kj&#x00E6;rlighed ei avler Had,</l>
+<l>ei Goldhed, Grusomhed og Drifter blinde,</l>
+<l>der l&#x00E6;gger Sindet vissent som et Blad,</l>
+<l>git hensynsl&#x00F8;st til Pris for deres Vinde,</l>
+<l>men i hvis &#x00D8;mhedstrang et vaarligt V&#x00E6;ld</l>
+<l>af Styrke, Klogskab, Hj&#x00E6;rtensgodhed springer,</l>
+<l>befrugtende for mig, for hende selv, &#x2013;</l>
+<l>se, hende er det, jeg min Hilsen bringer.</l>
+</lg>
+<lg>
+<l>De smiler ei, vor Ungdoms Guder, mer</l>
+<l>fra Skyen ned med straaleglade Blikke,</l>
+<l>hvori vi Maalet for vor Kamplyst ser,</l>
+<l>og deres Templer, ak, de lyser ikke,</l>
+<l>ei heller vandrer selv jeg livsberust</l>
+<l>i ensom L&#x00E6;ngsel paa de &#x00F8;de Veie,</l>
+<l>af stolte Geniers Vingeslag omsust</l>
+<l>og med en Fremtids Lykketro i Eie.</l>
+</lg>
+<lg>
+<l>Til en, hvis Kj&#x00E6;rlighed forvandler alt</l>
+<l>og gj&#x00F8;r det h&#x00F8;it og lyst, der Skygger klamme</l>
+<l>nys paa min Ungdoms Foraarsspirer faldt</l>
+<l>og standsed V&#x00E6;ksten i mit Livstr&#x00E6;s Stamme,</l>
+<l><pb n="78"/>hvis klare, varme, haabefulde Smil</l>
+<l>en tidlig Sommermorgens Guldst&#x00F8;v drysser</l>
+<l>paa haarde Minder og paa kolde Tvil,</l>
+<l>og af hvis friske Mund jeg Sundhed kysser, &#x2013;</l>
+</lg>
+<lg>
+<l>i Tak til hende str&#x00F8;mmer nu mit Digt,</l>
+<l>der fj&#x00E6;rnt i Nattens Dr&#x00F8;mmero hun vanker</l>
+<l>og ved ei selv, hvor sommerligt og rigt</l>
+<l>mod mig det gror i hendes vage Tanker.</l>
+<l>Hvem er hun da? O Sorg, jeg ved det ei,</l>
+<l>skj&#x00F8;nt anende jeg stundom kan fornemme</l>
+<l>et Glimt af hendes Skj&#x00F8;nhed paa min Vei</l>
+<l>og Klangen af en ungdomsfyldig Stemme.</l>
+</lg>
+</div>
+
+<div type="chapter" subtype="poem" n="3_2">
+<head type="main"><ref type="contents" target="contents_3_2" xml:id="chapter_3_2">Maaneskin</ref></head>
+<lg>
+<l><pb n="79"/>En Maaneskinsnat med det stivnede Blik</l>
+<l>mig gj&#x00F8;r saa tungsindig som deilig Musik,</l>
+<l>helst dog naar hin Glans, den paa Luften har gydt,</l>
+<l>tilsammen med Vaaren er anende flydt.</l>
+</lg>
+<lg>
+<l>Hvad er vel saa fint, som naar nysprungne Tr&#x00E6;r</l>
+<l>sig hv&#x00E6;lver i Maaneskinstraalernes Skj&#x00E6;r,</l>
+<l>og s&#x00E6;nket i S&#x00F8;lvlys hvert spiregr&#x00F8;nt Blad</l>
+<l>&#x00F8;mt folder sig ud i en Dugdraabes Bad?</l>
+</lg>
+<lg>
+<l>Mit Liv, ak, mit Liv, det var tidlig for&#x00F8;dt;</l>
+<l>se deraf min Sm&#x00E6;rte, naar Vaaren blir f&#x00F8;dt!</l>
+<l>L&#x00E6;ngst flygtet er alle dets Lysalfer; men</l>
+<l>i Maaneskinsnatten saa gaar de igjen.</l>
+</lg>
+<lg>
+<l>Jeg f&#x00F8;lger i Duggen, som gnistrer paa Jord,</l>
+<l>hver Alfefods legende, sorgfrie Spor.</l>
+<l>En Skygge jeg er kun af den, som jeg var.</l>
+<l>En Skygge! &#x2013; Og endda er Himlen saa klar!</l>
+</lg>
+</div>
+
+<div type="chapter" subtype="poem" n="3_3">
+<head type="main"><ref type="contents" target="contents_3_3" xml:id="chapter_3_3">Min gyldne S&#x00E6;d!</ref></head>
+<lg>
+<l><pb n="80"/>Hvad er det for en m&#x00E6;gtig Flod,</l>
+<l>som frugtbargj&#x00F8;r den gyldne S&#x00E6;d</l>
+<l>i unge, bl&#x00F8;de Menneskesind,</l>
+<l>der Spiretrangen blev lagt ned? &#x2013;</l>
+<l>Ved Flodens Bred har Livets Tr&#x00E6;</l>
+<l>en Urtidsmorgen slaat sin Rod, &#x2013;</l>
+<l>h&#x00F8;r, Dr&#x00F8;mme suser i dets L&#x00F8;v,</l>
+<l>se, Blomster myldrer ved dets Fod!</l>
+</lg>
+<lg>
+<l>Min gyldne S&#x00E6;d, min gyldne S&#x00E6;d! &#x2013;</l>
+<l>Hvor husker jeg, da blyg og ung</l>
+<l>du l&#x00F8;fted dig i Maidagsol</l>
+<l>og spilled rig og gr&#x00F8;detung,</l>
+<l>hvor husker jeg hin Vemodstid,</l>
+<l>da for hver Pust af Kv&#x00E6;ldens Vind</l>
+<l>du b&#x00F8;ied dig i Ydmyghed</l>
+<l>og svulmed mod en andens Sind!</l>
+</lg>
+<lg>
+<l><pb n="81"/>Forbi, forbi! &#x2013; Der var engang! &#x2013;</l>
+<l>Hin Vise har jeg sunget tidt,</l>
+<l>men andre Viser kan jeg ei,</l>
+<l>og nynne t&#x00F8;r jo hvermand frit.</l>
+<l>Der var engang, da frugtbart Regn</l>
+<l>paa unge, t&#x00F8;rste Spirer faldt,</l>
+<l>at Floden steg og str&#x00F8;mme &#x2013; st&#x00E6;rk</l>
+<l>rev med sig alt, jeg planted &#x2026; alt.</l>
+</lg>
+<lg>
+<l>O, Kj&#x00E6;rlighed, hvis varme V&#x00E6;ld</l>
+<l>gir hver en Spire Voksekraft,</l>
+<l>som modner S&#x00E6;den i ens Sind</l>
+<l>og farver Blomsterknoppens Saft,</l>
+<l>hvi er du tidt saa grusom, gold</l>
+<l>og rykker op og river ned, &#x2013;</l>
+<l>mit Liv, mit Liv, hvi blev du spildt,</l>
+<l>mit Liv, min gyldne Foraars&#x00E6;d!</l>
+</lg>
+</div>
+
+<div type="chapter" subtype="poem" n="3_4">
+<head type="main"><ref type="contents" target="contents_3_4" xml:id="chapter_3_4">De evige Sp&#x00F8;rgsmaal &#x2013;</ref></head>
+<lg>
+<l><pb n="82"/>De evige Sp&#x00F8;rgsmaal,</l>
+<l>som aldrig fik Svar,</l>
+<l>nu kommer og tar de</l>
+<l>hver Tanke, jeg har:</l>
+</lg>
+<lg>
+<l>Vi vented taalmodig,</l>
+<l>os &#x00E6;ndsed du ei,</l>
+<l>men vandred i Letsind</l>
+<l>en rosen-str&#x00F8;d Vei.</l>
+</lg>
+<lg>
+<l>Hvor er saa de Blomster,</l>
+<l>dig Foraaret gav? &#x2013;</l>
+<l>Henveiret og smuldret</l>
+<l>til St&#x00F8;v paa dets Grav?</l>
+</lg>
+<lg>
+<l>Vi kommer, naar ribbet</l>
+<l>og raadvild du staar</l>
+<l>og gysende r&#x00E6;ddes</l>
+<l>for Veien, du gaar.</l>
+</lg>
+<lg>
+<l>Hvem er jeg? &#x2013; saa sp&#x00F8;r du</l>
+<l>og ser dig omkring</l>
+<l>og h&#x00F8;rer det hviske</l>
+<l>om evige Ting.</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem" n="3_5">
+<head type="main"><ref type="contents" target="contents_3_5" xml:id="chapter_3_5">I Nattens Vind &#x2013;</ref></head>
+<lg>
+<l><pb n="83"/>I Nattens Vind jeg flygter ud:</l>
+<l>Hvem er du vel, du Fredens Gud!</l>
+</lg>
+<lg>
+<l>Thi se, her staar en raadl&#x00F8;s Mand,</l>
+<l>som intet vil og intet kan.</l>
+</lg>
+<lg>
+<l>Jeg bygged engang fagre Slot</l>
+<l>af Dr&#x00F8;mme-guld og himmelblaat</l>
+</lg>
+<lg>
+<l>Derinde skulde Sl&#x00E6;gter bo,</l>
+<l>bestraalet af min unge Tro.</l>
+</lg>
+<lg>
+<l>De sank i Grus; da blev her koldt,</l>
+<l>da lagdes Livet &#x00F8;dt og goldt.</l>
+</lg>
+<lg>
+<l>Nu ser jeg Saar og h&#x00F8;rer St&#x00F8;n</l>
+<l>af Sm&#x00E6;rte gjennem Kampens D&#x00F8;n.</l>
+</lg>
+<lg>
+<l>O, Herre, hvis din Aand er her,</l>
+<l>saa lys for en, som fredl&#x00F8;s er! &#x2013;</l>
+</lg>
+<lg>
+<l>Der stiger mumlende en Flod.</l>
+<l>Hvad er dens Udspring: Graad og Blod</l>
+</lg>
+<lg>
+<l><pb n="84"/>Selv staar jeg naglet til dens Bred</l>
+<l>i Kval og Stumhed, hvid og r&#x00E6;d.</l>
+</lg>
+<lg>
+<l>Og Stemmer er det, fler og fler,</l>
+<l>som hulker, truer eller ber,</l>
+</lg>
+<lg>
+<l>til pludselig det blir saa stilt,</l>
+<l>som var al Verdens Jammer spildt.</l>
+</lg>
+<lg>
+<l>I Evighedens blygraa Hav</l>
+<l>hver Draabe sank som i en Grav.</l>
+</lg>
+<lg>
+<l>Forgj&#x00E6;ves gr&#x00E6;dt, forgj&#x00E6;ves stridt,</l>
+<l>forgj&#x00E6;ves elsket, haabet, lidt. &#x2013;</l>
+</lg>
+<lg>
+<l>&#x2026; Et glansl&#x00F8;st Hav, en blodr&#x00F8;d Str&#x00F8;m, &#x2013;</l>
+<l>aa, Gud ske Lov, det var en Dr&#x00F8;m!</l>
+</lg>
+<lg>
+<l>Besat af Angst jeg raaber ud:</l>
+<l>Hvem er du vel, du Fredens Gud!</l>
+</lg>
+<lg>
+<l>Jeg s&#x00F8;gt dig har bag Kirkens Mur</l>
+<l>og i den klagende Natur.</l>
+</lg>
+<lg>
+<l>Dog hvor jeg s&#x00F8;gte, var det tyst, &#x2013;</l>
+<l>kun Stemmen i mit eget Bryst! &#x2013;</l>
+</lg>
+<lg>
+<l><pb n="85"/>I Nattens store Ensomhed</l>
+<l>det sukker som en B&#x00F8;n om Fred.</l>
+</lg>
+<lg>
+<l>Det sukker gjennem Skog og Krat</l>
+<l>saa livssygt i den blege Nat.</l>
+</lg>
+<lg>
+<l>Men Stjernerne paa Himlens blaa,</l>
+<l>de er saa kolde og saa smaa.</l>
+</lg>
+</div>
+
+<div type="chapter" subtype="poem" n="3_6">
+<head type="main"><ref type="contents" target="contents_3_6" xml:id="chapter_3_6">Hvorfor, hvorhen?</ref></head>
+<lg>
+<l><pb n="86"/>Sig l&#x00F8;sned en Stjerne &#x2026;</l>
+<l>Jeg stirred og saa,</l>
+<l>hvor angstfuld den flakked</l>
+<l>og sank i det blaa.</l>
+</lg>
+<lg>
+<l>Vort Liv, vore L&#x00E6;ngsler? &#x2013;</l>
+<l>Et Stjerneskud kun? &#x2013;</l>
+<l>O, Sph&#x00E6;rernes Herre,</l>
+<l>hvi tier din Mund!</l>
+</lg>
+<lg>
+<l>Jeg r&#x00E6;ddedes, flygted</l>
+<l>og standsed igjen</l>
+<l>med b&#x00E6;vrende L&#x00E6;ber:</l>
+<l>Hvorfor og hvorhen?</l>
+</lg>
+</div>
+
+<div type="chapter" subtype="poem" n="3_7">
+<head type="main"><ref type="contents" target="contents_3_7" xml:id="chapter_3_7">Til Helge Rode!</ref></head>
+<lg>
+<l><pb n="87"/>Deroppe Stjernernes de guldblaa Sletter,</l>
+<l>og under dem den &#x00F8;mhedst&#x00F8;rste Jord,</l>
+<l>hvor hvide Blomster, f&#x00F8;dt af Savnet, gror</l>
+<l>og yppig blusser i de korte N&#x00E6;tter.</l>
+</lg>
+<lg>
+<l>Af deres Skj&#x00F8;nheds lyse Trolddom fangen</l>
+<l>du skuer opad henrykt, ung og smuk,</l>
+<l>mens gjennem L&#x00F8;vets Hv&#x00E6;lving slaar et Suk</l>
+<l>saa aandebl&#x00F8;dt, saa bristende i Klangen.</l>
+</lg>
+<lg>
+<l>Thi sorgfuld gjennem Sommernatten sv&#x00E6;ver</l>
+<l>nu D&#x00F8;dens Engel. For en s&#x00E6;lsom Lyst!</l>
+<l>H&#x00F8;it til et Tempel hv&#x00E6;lver sig dit Bryst,</l>
+<l>hvori det m&#x00E6;gtig toner, at du lever.</l>
+</lg>
+<lg>
+<l>Og uden Gr&#x00E6;nser er det, Sj&#x00E6;lens Riger</l>
+<l>sig vider ud i Evighed og Lys,</l>
+<l>der Solen blodr&#x00F8;d med et Vellystgys,</l>
+<l>en gylden Boble lig, af B&#x00F8;lgen stiger.</l>
+</lg>
+</div>
+
+<div type="chapter" subtype="poem" n="3_8">
+<head type="main"><ref type="contents" target="contents_3_8" xml:id="chapter_3_8">Prolog (ved en paat&#x00E6;nkt Fest for Henrik Ibsen i Kristiania)</ref></head>
+<lg>
+<l><pb n="88"/>Os var det tidt, som et Hoved dukked</l>
+<l>fra Dybet op og mod Skyer sorte</l>
+<l>sig trodsig tegned &#x2013; men langveis borte,</l>
+<l>hvor uveirsr&#x00F8;dmende Lyset br&#x00E6;ndte</l>
+<l>og rundt dets Isse en Glorie t&#x00E6;ndte.</l>
+<l>Der banked Hj&#x00E6;rter, hvis Lyd forstummed</l>
+<l>i H&#x00F8;itidstemning, naar gjennem Rummet</l>
+<l>profetisk, magtfuldt dets L&#x00E6;ber slynged</l>
+<l>en Trylleformel, et Sp&#x00F8;rgsmaals Gaade, &#x2013;</l>
+<l>til atter Skyerne stormtungt lukked</l>
+<l>sig om dets Drag, og kun Sagnet bar det</l>
+<l>fra Sl&#x00E6;gt til Sl&#x00E6;gter, at engang var det</l>
+<l>en Mand, som skiltes med Smil om Munden,</l>
+<l>der dirred bittert i Afskedsstunden,</l>
+<l>med kolde Minder fra F&#x00E6;dregrunden,</l>
+<l>og at han aldrig kom mer tilbage.</l>
+<l><pb n="89"/>Vi sad og vented i Aar og Dage,</l>
+<l>men stundom l&#x00F8;d der, helst naar det skumred,</l>
+<l>som Lyd af Hovslag: En ensom Rytter,</l>
+<l>der hasted s&#x00F8;vnl&#x00F8;s til vore Hytter.</l>
+</lg>
+<lg>
+<l>Han for mod Syd til de fj&#x00E6;rnblaa Lande,</l>
+<l>hvor lysrig Soldagen ildfuldt m&#x00E6;ttet</l>
+<l>og gl&#x00F8;det Synerne bag hans Pande.</l>
+</lg>
+<lg>
+<l>Der stod en Mand, &#x2013; det var Aaret efter, &#x2013;</l>
+<l>frem mellem Folket med Manings-kravet:</l>
+<l>Alt eller intet! &#x2013; En Sl&#x00E6;gt, som blunded,</l>
+<l>han reise vilde af Slidet, Kavet</l>
+<l>til st&#x00F8;rre Tider med st&#x00F8;rre Kr&#x00E6;fter,</l>
+<l>&#x2013; den fulde Tro og den hele Vilje, &#x2013;</l>
+<l>men blev paa Vidderne ensom jaget</l>
+<l>med Saar i Sj&#x00E6;len, af Tvivlen naget,</l>
+<l>hvor Stenskred raste, did Stenkast fulgte &#x2026;</l>
+<l>Da kanske m&#x00F8;dtes der en og anden,</l>
+<l>som standsed Tanken og fatted Manden,</l>
+<l>der for mod Syd til de fj&#x00E6;rnblaa Lande,</l>
+<l>det Smil, som dirred i Afskedstunden,</l>
+<l>den Sorg, som ruged paa Hj&#x00E6;rtebunden.</l>
+</lg>
+<lg>
+<l>Han s&#x00F8;gte nedad, hvor Mulmet raader</l>
+<l>til Livets endel&#x00F8;st &#x2013; tause Gaader,</l>
+<l><pb n="90"/>og der blev Nat over alt hans Rige,</l>
+<l>en Nat, som t&#x00E6;tnede kold i Taagen,</l>
+<l>men stundom l&#x00F8;fted sig stjerne-vaagen,</l>
+<l>thi gjennem Natten sk&#x00F8;d Skj&#x00F8;nhedsl&#x00E6;ngsler</l>
+<l>lig Nordlysstriber paa Vinterhimmel.</l>
+</lg>
+<lg>
+<l>Og op i Dagslyset, hvor vi famled</l>
+<l>med brudte Viljer ad skilte Veie,</l>
+<l>hvor alting hidsed, og intet samled,</l>
+<l>didop fra Dybet til evig Eie</l>
+<l>sin Digtnings Smykker os Manden rakte.</l>
+<l>Det skinned af dem, der pudset blanke</l>
+<l>og aandet paa af hans N&#x00E6;tters Tanke,</l>
+<l>hans Vid, Foragt eller Tungsinds &#x00D8;mhed,</l>
+<l>i Solskinstraalerne rigt de spilled,</l>
+<l>hvad eller gjengav alt Landets Billed</l>
+<l>for vore nyt&#x00E6;ndte, vaagne Blikke.</l>
+<l>Men Manden selv, nei, han saa vi ikke.</l>
+</lg>
+<lg>
+<l>I mystisk Fj&#x00E6;rnhed, tidt som en Troldmand,</l>
+<l>hvis Blik sig aabned, der Sol ei skinned,</l>
+<l>tidt som en Stormfugl han stod for Sindet,</l>
+<l>og naar <emph>den</emph> l&#x00F8;fted til Skrig sin Stemme,</l>
+<l>da tied alle de andre Fugle,</l>
+<l>som ellers kvidrer omkap herhjemme.</l>
+</lg>
+<lg>
+<l><pb n="91"/>V&#x00E6;r hilset, Hav&#x00F8;rn, som uden F&#x00F8;lge</l>
+<l>i Vellyst kl&#x00F8;vede Luftens B&#x00F8;lge,</l>
+<l>til opad undrende stolt vi skued,</l>
+<l>v&#x00E6;r hilset, Konge&#x00F8;rn, i hvis Fj&#x00E6;rham</l>
+<l>saa gyldent Straalernes Ild har luet!</l>
+</lg>
+<lg>
+<l>Hernede Skygge, men h&#x00F8;it deroppe</l>
+<l>i evig Klarhed de hvide Toppe,</l>
+<l>hvorover Tankerne takfyldt sv&#x00E6;ver,</l>
+<l>mens Dagen synker, og Sindet b&#x00E6;ver.</l>
+</lg>
+</div>
+
+<div type="chapter" subtype="poem" n="3_9">
+<head type="main"><ref type="contents" target="contents_3_9" xml:id="chapter_3_9">Syttende Mai (1894)</ref></head>
+<lg>
+<l><pb n="92"/>Er det &#x00AB;Skam&#x00BB; at turde haabe</l>
+<l rend="indent_1">Fremtid for det Land,</l>
+<l>som vi ofred hver en Draabe</l>
+<l rend="indent_1">Blod, om det kom an?</l>
+<l>Svar os: Er det Skam at kr&#x00E6;ve</l>
+<l rend="indent_1">Ret for det, <emph>vi</emph> vil,</l>
+<l>vi som Landets Kraft vil h&#x00E6;ve,</l>
+<l rend="indent_1"><emph>lutret i vor Ild?</emph></l>
+</lg>
+<lg>
+<l>Se, hvor himmelfrit det reiser</l>
+<l rend="indent_1">sig i Dagens Glans,</l>
+<l>Gamlens st&#x00F8;rste, da vi heiser</l>
+<l rend="indent_1">Farver, som er hans!</l>
+<l>Og det kaster Syner, Minder</l>
+<l rend="indent_1">over Fjeld og Hav,</l>
+<l>slig at unge &#x00D8;ine skinner</l>
+<l rend="indent_1">af, hvad stort det gav.</l>
+</lg>
+<lg>
+<l>Lad de unge &#x00D8;ine skinne,</l>
+<l rend="indent_1">saa det sees langt,</l>
+<l>for her er saa mange blinde</l>
+<l rend="indent_1">og saa meget vrangt, &#x2013;</l>
+<l><pb n="93"/>der er sagt, vi blot paa Naade</l>
+<l rend="indent_1">tog vort Land til Laan,</l>
+<l>og at Svensken her b&#x00F8;r raade, &#x2013;</l>
+<l rend="indent_1">t&#x00E6;nke sig for Haan!</l>
+</lg>
+<lg>
+<l>Og vi kjender Sorgen, Harmen,</l>
+<l rend="indent_1">vi, der er dets B&#x00F8;rn,</l>
+<l>hugge vredt sin Klo i Barmen,</l>
+<l rend="indent_1">som det var en &#x00D8;rn,</l>
+<l>og vi reiser os i Bruset</l>
+<l rend="indent_1">af dets nye Vaar,</l>
+<l>raaber ud, at her i Huset,</l>
+<l rend="indent_1">er det vi, som raar.</l>
+</lg>
+<lg>
+<l>Sus af brede &#x00D8;rnevinger</l>
+<l rend="indent_1">over os idag,</l>
+<l>Vaarsus, Vaarsus, der vi svinger</l>
+<l rend="indent_1">Frihedsdagens Flag!</l>
+<l>Og hvad er vel Vaaren andet</l>
+<l rend="indent_1">end den Gl&#x00E6;dens Tid,</l>
+<l>da der f&#x00F8;des Lys i Landet</l>
+<l rend="indent_1">under Storm og Strid.</l>
+</lg>
+</div>
+
+<div type="chapter" subtype="poem" n="3_10">
+<head type="main"><ref type="contents" target="contents_3_10" xml:id="chapter_3_10">Fra vestre Aker</ref></head>
+<p>In Memoriam: Henrik Wergeland.</p>
+<lg>
+<l><pb n="94"/>En Solbakke, hvori</l>
+<l>jeg dr&#x00F8;mmende d&#x00F8;ser</l>
+<l>og misser med &#x00D8;iet</l>
+<l>mod Skyernes Skin &#x2026;</l>
+<l>Der silrer en Vaarb&#x00E6;k,</l>
+<l>der dirrer en L&#x00E6;rke,</l>
+<l>en L&#x00F8;vetand flammer</l>
+<l>sig ind i mit Sind.</l>
+</lg>
+<lg>
+<l>Saa vidt har jeg f&#x00E6;rdes,</l>
+<l>men skulde dog mene,</l>
+<l>jeg kjender hver Aasryg,</l>
+<l>hver Skogrand fra f&#x00F8;r,</l>
+<l>hvad enten de stiger</l>
+<l>i H&#x00F8;stdagens Farver,</l>
+<l>hvad eller de hviler</l>
+<l>i Sommernat-sl&#x00F8;r.</l>
+</lg>
+<lg>
+<l><pb n="95"/>Som Gut har jeg tumlet</l>
+<l>her dagst&#x00F8;t om Vaaren</l>
+<l>og lyttet til Rhytmen</l>
+<l>i Fjeldb&#x00E6;kkens Spil, &#x2013;</l>
+<l>lig Solskyer jaged</l>
+<l>hans Digte i Sindet</l>
+<l>og l&#x00F8;fted min Tanke</l>
+<l>og t&#x00E6;ndte dens Ild.</l>
+</lg>
+<lg>
+<l>Den f&#x00F8;rste af Blomster,</l>
+<l>der blaaned bag Sneen</l>
+<l>og ydmygt forkyndte</l>
+<l>sin Ankomst, var hans,</l>
+<l>og Kampen, som dengang</l>
+<l>bar Storm over Landet,</l>
+<l>hans Liv gav den Kr&#x00E6;fter.</l>
+<l>Indvielse, Glans:</l>
+</lg>
+<lg>
+<l>Bestraalede Tider,</l>
+<l>da Sindet i Andagt,</l>
+<l>i Harm eller sm&#x00E6;rte-</l>
+<l>tung Jubel var med,</l>
+<l>da Jorderigs Guder</l>
+<l>selv tog en i Haanden</l>
+<l>og gav en til Eie</l>
+<l>det bedste, man ved! &#x2013;</l>
+</lg>
+<lg>
+<l><pb n="96"/>I Solbakken laa han</l>
+<l>med hvilende Aasyn,</l>
+<l>med skuende &#x00D8;ine</l>
+<l>og Haand under Kind &#x2026;</l>
+<l>Der silred en Vaarb&#x00E6;k,</l>
+<l>der dirred &#x00E9;n L&#x00E6;rke,</l>
+<l>en L&#x00F8;vetand flammed</l>
+<l>sig ind i hans Sind.</l>
+</lg>
+<lg>
+<l>Men under ham Byen,</l>
+<l>hvor Fiender og Venner</l>
+<l>paa Gaderne m&#x00F8;dtes</l>
+<l>i Tvedragt hver Dag,</l>
+<l>den By, af hvis Taager</l>
+<l>ham Morgenen vakte,</l>
+<l>da vaarblaa den glitred</l>
+<l>og lo fra hvert Tag.</l>
+</lg>
+<lg>
+<l>Han lytted til B&#x00E6;kken,</l>
+<l>han smilte til Blomsten,</l>
+<l>han drak af hver Luftning</l>
+<l>et ny-sprunget Blad,</l>
+<l>mens frem og tilbage</l>
+<l>i Sj&#x00E6;len det str&#x00F8;mmed</l>
+<l>og vuggede frugtbart</l>
+<l>et lysegr&#x00F8;nt Kvad.</l>
+</lg>
+<lg>
+<l><pb n="97"/>Som Toner, der risler</l>
+<l>i Blaaklokkens Indre,</l>
+<l>han h&#x00F8;rte det b&#x00F8;lge &#x2026;</l>
+<l>Saa bruser det ud! &#x2013;</l>
+<l>Det er, som i Lovsang</l>
+<l>han omfavne kunde</l>
+<l>Naturens, den gavmildt</l>
+<l>fornyende Gud.</l>
+</lg>
+<lg>
+<l>Det str&#x00F8;mmer imod ham</l>
+<l>fra Skyerne, Luften,</l>
+<l>det skiller sig, samles</l>
+<l>og blir til et Kor</l>
+<l>af R&#x00F8;ster, der b&#x00E6;rer</l>
+<l>ham h&#x00F8;it over Jorden,</l>
+<l>did Evighedsblomster</l>
+<l>paa Engene gror. &#x2013;</l>
+</lg>
+<lg>
+<l>Saa nedad mod Byen,</l>
+<l>hvor Vennerne smiler,</l>
+<l>hvor Fienderne skuler</l>
+<l>og spottefuldt ler;</l>
+<l>han ser dem slet ikke,</l>
+<l>skj&#x00F8;ndt aabent hans &#x00D8;ie,</l>
+<l>af Lystaager bl&#x00E6;ndet,</l>
+<l>et Himmelsyn ser.</l>
+</lg>
+<lg>
+<l><pb n="98"/>Og aaben gaar Fjorden</l>
+<l>med solhvide Skyer,</l>
+<l>der driver for Vinden</l>
+<l>i sommerligt Mag &#x2026;</l>
+<l>Jeg misser mod Glansen</l>
+<l>og synes, jeg f&#x00F8;ler</l>
+<l>omkring mig et Pust af</l>
+<l>hans Guddom idag. &#x2013;</l>
+</lg>
+<lg>
+<l>Saa vidt har jeg flakket</l>
+<l>og sv&#x00E6;lget og tumlet;</l>
+<l>et Steds har man R&#x00F8;dder:</l>
+<l>Her h&#x00F8;rer jeg til!</l>
+<l>Og bedre end Sydens,</l>
+<l>de m&#x00E6;ttede Farver,</l>
+<l>jeg fatter dog L&#x00E6;ngslen</l>
+<l>i Fjeldb&#x00E6;kkens Spil.</l>
+</lg>
+<lg>
+<l>V&#x00E6;r hilset, min Rede</l>
+<l>fra Barndommens Dage,</l>
+<l>hvor Vingerne straktes</l>
+<l>og Tanken tog Flugt! &#x2013;</l>
+<l>Se, nu er din Sanger</l>
+<l>paany vendt tilbage,</l>
+<l>skj&#x00F8;ndt st&#x00E6;kket og t&#x00E6;mmet</l>
+<l>af Aarenes Tugt.</l>
+</lg>
+<lg>
+<l><pb n="99"/>V&#x00E6;r hilset af Hj&#x00E6;rte,</l>
+<l>du Guldblomst, der flammer</l>
+<l>med Bud fra min Fortid,</l>
+<l>dens Helte og ham,</l>
+<l>som baade var L&#x00E6;rke</l>
+<l>og Vaarb&#x00E6;k i Landet,</l>
+<l>som altid bar Vinger</l>
+<l>og aldrig blev tam!</l>
+</lg>
+</div>
+
+<div type="chapter" subtype="poem" n="3_11">
+<head type="main"><ref type="contents" target="contents_3_11" xml:id="chapter_3_11">Det synger &#x2013;</ref></head>
+<lg>
+<l><pb n="100"/>Det synger imod mig</l>
+<l>fra nyl&#x00F8;ste Vande,</l>
+<l>som hovedkuls stuper</l>
+<l>langs Fjeldene ned,</l>
+<l>det lyner af Straaler,</l>
+<l>som kaster sig i dem,</l>
+<l>der fossende muntert</l>
+<l>de raaber: Kom med!</l>
+</lg>
+<lg>
+<l>Kom med, du, som engang</l>
+<l>har m&#x00E6;gtig fornummet</l>
+<l>den stormende L&#x00E6;ngsel</l>
+<l>mod Frihedens Hav,</l>
+<l>og glem saa det tunge,</l>
+<l>som Vinteren bragte</l>
+<l>og husk blot det lyse,</l>
+<l>som Foraaret gav!</l>
+</lg>
+<lg>
+<l><pb n="101"/>Snart straaler der Varme,</l>
+<l>snart tindrer der Blomster,</l>
+<l>men Sol maa der skinne,</l>
+<l>og Kamp skal der til;</l>
+<l>f&#x00F8;r Landet er vundet</l>
+<l>for Sommerens Magter,</l>
+<l>ei kuer du Trodsen,</l>
+<l>som ler i vort Spil. &#x2013;</l>
+</lg>
+<lg>
+<l>De synger imod mig,</l>
+<l>de velkjendte Stemmer, &#x2013;</l>
+<l>og dog &#x2026; hvorfor staar jeg</l>
+<l>i Tvil, der jeg staar &#x2026;</l>
+<l>En Sorg i mit Hj&#x00E6;rte,</l>
+<l>en hulkende Kummer:</l>
+<l>Ak, d&#x00F8;d er min Ungdom</l>
+<l>og svunden min Vaar! &#x2013;</l>
+</lg>
+<lg>
+<l>Mod Solfald det lider,</l>
+<l>de Straalerne mattes,</l>
+<l>og Vaarkv&#x00E6;lden synker</l>
+<l>i Stjerner og Gl&#x00F8;d, &#x2013;</l>
+<l>det mumler omkring mig,</l>
+<l>men angstfuldt og d&#x00E6;mpet:</l>
+<l>Din Ungdom du svigted,</l>
+<l>og nu er den d&#x00F8;d!</l>
+</lg>
+<lg>
+<l><pb n="102"/>Som varslende R&#x00F8;ster</l>
+<l>i Natten det stiger,</l>
+<l>som Veklagers Jammer</l>
+<l>og truende Raab,</l>
+<l>det hvisker om Faner,</l>
+<l>som engang har vaiet,</l>
+<l>om lysende Navne</l>
+<l>og manende Haab:</l>
+</lg>
+<lg>
+<l>Vi raabte, vi kaldte,</l>
+<l>du &#x00E6;ndsed det ikke,</l>
+<l>vi &#x00E6;gged, vi trygled,</l>
+<l>du lyttede ei! &#x2013;</l>
+<l>L&#x00E6;ngst m&#x00F8;rkned hver Udsigt</l>
+<l>fra Fjeldenes Sider,</l>
+<l>og Vandene fryser</l>
+<l>til Is paa din Vei.</l>
+</lg>
+</div>
+
+<div type="chapter" subtype="poem" n="3_12">
+<head type="main"><ref type="contents" target="contents_3_12" xml:id="chapter_3_12">Constance Bruun-Ihlen</ref></head>
+<p>In Memoriam.</p>
+<lg>
+<l><pb n="103"/>Hun syntes kommen fra en n&#x00E6;nsom Verden,</l>
+<l>hvor Livet kjender milde Tankers Omsorg</l>
+<l>og aldrig Raahed kaster kolde Skygger.</l>
+<l>Hun var saa skj&#x00E6;r og fin, indtil forfrossen</l>
+<l>og bleg af Livets Kuldeguvs hun segned;</l>
+<l>thi her var veirhaardt for en Sj&#x00E6;l som hendes.</l>
+</lg>
+<lg>
+<l>Men som en H&#x00F8;stblomst, bidt af Nattefrosten,</l>
+<l>tidt i sin Afmagt aander st&#x00F8;rre Skj&#x00F8;nhed</l>
+<l>end den, der brauter sig i Sol og Farve,</l>
+<l>slig var det, at hun gysende sig b&#x00F8;ied</l>
+<l>og folded ud i &#x00D8;mhedstrang, i Tungsind</l>
+<l>en Kunst saa zart, at vi, som saa den lutres</l>
+<l>af Viljens Ild i dette skj&#x00F8;re Legem</l>
+<l>og l&#x00F8;ftes mod de straalehvide H&#x00F8;ider,</l>
+<l>os kjendte renere i hendes N&#x00E6;rv&#x00E6;r.</l>
+<l>De skj&#x00F8;nne &#x00D8;ine skued Sm&#x00E6;rtens Alvor,</l>
+<l>den klare Pande speiled Sorg og L&#x00E6;ngsler:</l>
+<l>En Aand, der str&#x00F8;g vort Liv forbi! &#x2013; Dog stille!</l>
+<l>Vi h&#x00F8;rer endnu Suset af dens Vinger.</l>
+</lg>
+<lg>
+<l><pb n="104"/>Og som jeg staar her nu i Aftenfreden</l>
+<l>og ser mod Nord, hvor sidste Lysskj&#x00E6;r flammer,</l>
+<l>saa bryder jeg i Tankerne paa hende</l>
+<l>den skj&#x00E6;reste af alle Aarets Blomster.</l>
+<l>Du fine, stille! Og mit Hj&#x00E6;rte r&#x00F8;res</l>
+<l>til Andagt af dens Bleghed og dens Ungdom.</l>
+</lg>
+</div>
+
+<div type="chapter" subtype="poem" n="3_13">
+<head type="main"><ref type="contents" target="contents_3_13" xml:id="chapter_3_13">Solnedgang</ref></head>
+<lg>
+<l><pb n="105"/>Da Solen dypped flammende og r&#x00F8;d</l>
+<l>i B&#x00F8;lgerne sin straalegyldne Pande</l>
+<l>og svalte der sin Reisel&#x00E6;ngsels Gl&#x00F8;d</l>
+<l>paa Veien til de morgenlyse Lande, &#x2013;</l>
+</lg>
+<lg>
+<l>hvor syntes du mig da vemodig-skj&#x00F8;n,</l>
+<l>du Jord, hos hvem jeg andagtsgreben hvilte,</l>
+<l>saa uskyldsfuld, at Tanken blev en B&#x00F8;n,</l>
+<l>og Minder reiste sig i Graad og smilte:</l>
+</lg>
+<lg>
+<l>Ei er det din Skyld, o, du fagre Jord,</l>
+<l>om aldrig Lykken lo paa dine Veie,</l>
+<l>om her er Strid og Sorg, fra Lyset gror,</l>
+<l>til Skyggerne dig s&#x00E6;nker paa sit Leie!</l>
+</lg>
+<lg>
+<l>Og skj&#x00E6;rmende jeg rakte Haanden ud,</l>
+<l>som var du blot et Barn, jeg anbefalte</l>
+<l>til alle lyse Sommern&#x00E6;tters Gud,</l>
+<l>den Herre, i hvis Himmelfavn du dalte.</l>
+</lg>
+</div>
+</div>
+</body>
+</text>
+</TEI>

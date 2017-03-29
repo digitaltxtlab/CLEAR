@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Sællands Velkomst</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-22"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="028"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1840">1840</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1840_28_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Sællands Velkomst</titlePart>
+	<titlePart type="sub">til<lb/>Kongen<lb/>den 5te October 1840</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace>København.</pubPlace>Trykt hos J. D. Qvist, Bog- og Nodetrykker,<lb/>Vstcrgade Nr. 53.<lb/>
+<fw type="graphic"/>
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<pb facs="1840_28_page0002.png"/>
+<fw type="pageNum"></fw>
+<head>Mel. Vi Somcrnd gjor ei mange Ord.</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">F</hi>ra <hi rend="spaced">Himlnelbjerg</hi> til <hi rend="spaced">Øresund</hi>,</l>
+<l>Paa Heden, som i Vangen,</l>
+<l>Dig fulgde Roes af Hjertens.'Grund,</l>
+<l>Dig nwdte Folke-Sangen;</l>
+<l>De følge Dig til <hi rend="spaced">Sorgenfri</hi>,</l>
+<l>Kong <hi rend="spaced">Christian</hi> velkommen!</l>
+<l>De mode selv paa Tornesti</l>
+<l>Dig bildt som Rosens-Blommen!</l>
+</lg>
+<lg>
+<l>Saavidt som <hi rend="spaced">Danske</hi> Plove gaae.</l>
+<l>Og <hi rend="spaced">Danske</hi> Fugle sjunge.</l>
+<l>Ja, som paa Land og Bølgen blaa</l>
+<l>Sig rorer <hi rend="spaced">Danmarks</hi> Tunge,</l>
+<l>Sig fryder mangt et stille Sind</l>
+<l>Ved Guds og Kongens Naade,</l>
+<l>Og nynner, trods alt Hjernespind:</l>
+<l>Gud lade Kongen raade!</l>
+</lg> 
+<pb facs="1840_28_page0003.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Vi Herrer havde for i Dag,</l>
+<l>Desværre, alt for mange.</l>
+<l>Kun Een sig tog af Bondens Sag,</l>
+<l>Blev ei for Skvalder bange;</l>
+<l>Det var den Herre, i hvis Spor,</l>
+<l>Kong <hi rend="spaced">Christian</hi>! Du vil træde.</l>
+<l>Var ei der Krast i Kongens Ord,</l>
+<l>Kun fattig blev vor Glæde.</l>
+</lg>
+<lg>
+<l>Thi bære Blus paa Adelvei</l>
+<l>Vi hoit for Landets Fader,</l>
+<l>Og bede: Konge! regn det ei,</l>
+<l>Om Drenge peeb paa Gader!</l>
+<l>Fra Arilds-Tid var Dansken tro.</l>
+<l>Og skjonned paa det Milde,</l>
+<l>Har Nogen Lyst til Lands-Uro,</l>
+<l>Da gid det gaae dem ilde!</l>
+</lg>
+<lg>
+<l>Men gid det gaae vor Konge vel!</l>
+<l>Hans Dronning ei desmindre!</l>
+<l>Paa Himlen da i Gry og Kveld</l>
+<l>Skal Danmarks Stjerne tindre:</l>
+<l>Hvor Kongens Magt er Folkets Daad,</l>
+<l>De har hinanden kiære.</l>
+<l>Hvor Folkets Nest er Kongens Raad,</l>
+<l>Hans Noes er Folkets Ære!</l>
+</lg> 
+<pb facs="1840_28_page0004.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Velkommen da, o Konge mild.</l>
+<l>Til Sællands Bøge-Skove!</l>
+<l>I Asien tør end findes Ild</l>
+<l>Til Blus paa Mark og Vove;</l>
+<l>Fra gammel Tid bar <hi rend="spaced">Sælland</hi> Priis,</l>
+<l>Som <hi rend="spaced">Danmarks</hi> Konge-Sæde,</l>
+<l>Det vorde end paa gammel Viis</l>
+<l>Vor Konges Lyst og Gloede!</l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

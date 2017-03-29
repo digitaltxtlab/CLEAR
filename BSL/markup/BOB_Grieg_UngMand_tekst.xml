@@ -1,0 +1,2461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI PUBLIC "-// NSL Norge //EN" "http://www.bokselskap.no/tekstkoding/NSL_tei_xinclude.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="BOB_Grieg_UngMand">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>bokselskap.no/Bergen Offentlige Bibliotek, 2016
+<lb/>Nordahl Grieg: <hi rend="italic">En ung mands kj&#x00E6;rlighet</hi>
+<lb/>Teksten i bokselskap.no f&#x00F8;lger 1. utgave, 1927 (Oslo, Gyldendal), konvertert og tilrettelagt av Bergen Offentlige Bibliotek som en del av prosjektet <hi rend="italic">&#x00C5;nd eies av alle &#x2013; Nordahl Grieg digitalisert</hi> (http://bergenbibliotek.no/nordahlgrieg). Digitaliseringen er basert p&#x00E5; fil mottatt fra Nasjonalbiblioteket.</title>
+</titleStmt>
+<publicationStmt>
+<p>Publiseres som digital tekst av BOB/bokselskap.no.</p></publicationStmt>
+<sourceDesc>
+<p>digibok_2012060608220 (fra Nasjonalbiblioteket), konvertert og tilrettelagt av Grieg-prosjektet.</p>
+</sourceDesc>
+</fileDesc>
+<revisionDesc>
+<change xml:id="ENW" who="ENW" when="2016-10-28">Kodet om litt. Entiteter, validering og kodekontroll.</change>
+</revisionDesc>
+</teiHeader>
+<text xml:id="BOB_Grieg_UngMand_tekst" type="drama">
+<front>
+<titlePage type="main">
+<byline><docAuthor>Nordahl Grieg</docAuthor></byline>
+<docTitle>
+<titlePart type="main">En ung mands kj&#x00E6;rlighet</titlePart>
+<titlePart type="sub">Skuespil i tre akter</titlePart>
+</docTitle>
+<docDate>bokselskap.no/Bergen Offentlige Bibliotek<lb/>2016</docDate>
+</titlePage>
+<div xml:id="contents">
+<list type="contents_main">
+<item><ref target="chapter_1" xml:id="contents_1">Personene</ref></item>
+<item><ref target="chapter_2" xml:id="contents_2">F&#x00F8;rste akt</ref></item>
+<item><ref target="chapter_3" xml:id="contents_3">Annen akt</ref></item>
+<item><ref target="chapter_4" xml:id="contents_4">Tredje akt</ref></item>
+</list>
+</div>
+<div type="chapter" subtype="acknowledgement">
+<head type="main"><ref target="contents_1" xml:id="chapter_1">&#x005B;dedikasjon&#x005D;</ref></head>
+<p rend="center"><hi rend="italic">TIL <lb/>DOROTHY HAWKE</hi></p>
+</div>
+<div type="chapter" subtype="castlist">
+<head type="main"><ref target="contents_2" xml:id="chapter_2">PERSONERNE</ref></head>
+<castList>
+<castItem xml:id="Jan"><role>JAN</role></castItem>
+<castItem xml:id="Gunnar"><role>GUNNAR</role></castItem>
+<castItem xml:id="Lisbeth"><role>LISBETH,</role> <roleDesc>Gunnars forlovede</roleDesc></castItem>
+<castItem xml:id="Berit"><role>BERIT</role></castItem>
+<castItem xml:id="Aim&#x00E9;e"><role>AIM&#x00C9;E</role></castItem>
+</castList>
+</div>
+<set>
+<p>Jan er 23 aar, Aim&#x00E9;e er i begyndelsen av tredverne. De andre er omtrent paa Jans alder.</p>
+<p>Handlingen foregaar i Jans stue, i l&#x00F8;pet av en eftermiddag og aften.</p>
+</set>
+</front>
+<body>
+<div type="chapter" subtype="act" n="1">
+<head type="main"><ref target="contents_3" xml:id="chapter_3">F&#x00D8;RSTE AKT</ref></head>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<stage>reiser sig fra pianoet.</stage>
+<p>Jeg er r&#x00E6;d De maa gaa nu, Berit. Jeg vilde saa gjerne at De skulde bli, men jeg skal ut iaften, ser De.</p>
+</sp>
+<sp who="Berit">
+<speaker>BERIT</speaker>
+<p>Det var galt av mig at komme her.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<stage>smiler.</stage>
+<p>Frygtelig galt av Dem.</p>
+</sp>
+<sp who="Berit">
+<speaker>BERIT</speaker>
+<p>Jeg mente: jeg har opholdt dem. De skal ut og m&#x00F8;te nogen, sa De.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Hvad t&#x00E6;nker De paa nu, Berit?</p>
+</sp>
+<sp who="Berit">
+<speaker>BERIT</speaker>
+<stage>tier.</stage>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Nei, jeg skal ikke ut og m&#x00F8;te nogen. Jeg har v&#x00E6;ret ute &#x00E9;n gang idag, og da m&#x00F8;tte jeg nok! Det var saa s&#x00F8;tt av Dem at bli med mig ind her i min ensomhet.</p>
+</sp>
+<sp who="Berit">
+<speaker>BERIT</speaker>
+<p>Er De saa ensom?</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Der er De igjen. Ja. Jeg er ihvertfald saa ensom at jeg har v&#x00E6;ret forf&#x00E6;rdelig glad ved at sitte og se paa Dem. Jeg tror den sorteste synder maatte gi op overfor Dem. Bl&#x00E6;ndet av blondhet.</p>
+</sp>
+<sp who="Berit">
+<speaker>BERIT</speaker>
+<p>Jeg har ogsaa v&#x00E6;ret glad ved at v&#x00E6;re her. Nu maa jeg gaa.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<stage>ved det aapne vindu.</stage>
+<p>H&#x00F8;r hvor stille det er blit nede paa gaten, Berit. Det er som luften staar og venter paa noget, nu i skumringen.</p>
+<stage>Berit gj&#x00F8;r en bev&#x00E6;gelse som for at gaa.</stage>
+<p>Nei, det beh&#x00F8;ver ikke at v&#x00E6;re akkurat Dem den venter paa! Vet De Berit, at jeg synes det er trist De skal gaa? Jeg var saa fuld av gode fors&#x00E6;tter da jeg reiste mig fra pianoet, men nu staar De der og skal gaa &#x2026;</p>
+<p>Er det ikke rart og ondt at t&#x00E6;nke paa at om mange, mange aar skal jeg staa alene her ved vinduet med et fremmed, gammelt legeme og huske noget jeg visst har l&#x00E6;st i en bok om en ung mand som stod en kveld i skumringen ved siden av en ung pike som het Berit &#x2013; &#x2013; &#x2013;</p>
+</sp>
+<sp who="Berit">
+<speaker>BERIT</speaker>
+<p>Ja; De har bare l&#x00E6;st det i en bok &#x2013;</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<stage>tar haanden hendes.</stage>
+<p>Berit, jeg skulde &#x00F8;nske at vi steg ut av den glemte boken. At det var <hi rend="italic">os</hi> som stod her iaften.</p>
+</sp>
+<sp who="Berit">
+<speaker>BERIT</speaker>
+<stage>som for at verge sig, r&#x00E6;d.</stage>
+<p>Men det <hi rend="italic">er</hi> ikke os.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Jo, det er os.</p>
+<stage rend="indent_3">Under de sisste replikker har Jan forberedt sig til at kysse hende. Nu gj&#x00F8;r han det.</stage>
+<p>De er saa s&#x00F8;t, Berit.</p>
+</sp>
+<sp who="Berit">
+<speaker>BERIT</speaker>
+<p>Nei. De skulde ikke ha gjort det. Det var galt av Dem.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Var det galt av mig, Berit?</p>
+</sp>
+<sp who="Berit">
+<speaker>BERIT</speaker>
+<stage>langsomt og bedr&#x00F8;vet.</stage>
+<p>Ja, for De bryr Dem ikke om mig; og jeg er glad i Dem.</p></sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Berit &#x2013;</p></sp>
+<sp who="Berit">
+<speaker>BERIT</speaker>
+<p>De er ikke glad i mig. Jeg vet det. Jeg kan se det paa Dem.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Saa meget underlig du vet bak den rolige panden din.</p>
+</sp>
+<stage>Vil kysse hende.</stage>
+<sp who="Berit">
+<speaker>BERIT</speaker>
+<p>De skal ikke. For det er en anden De er glad i.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<stage>forskende.</stage>
+<p>Jasaa, Berit.</p>
+</sp>
+<sp who="Berit">
+<speaker>BERIT</speaker>
+<p>Jeg vet det. Det er fru Blich De er glad i.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Du skal tro mig. Jeg er glad i dig. Jeg elsker dig.</p>
+</sp>
+<sp who="Berit">
+<speaker>BERIT</speaker>
+<p>Nei. Det er ikke mig.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Berit, hvad vet du? Hvad vet du om hjertet mit? Vet du hvad jeg t&#x00E6;nkte da du kom op her? Vet du hvad jeg t&#x00E6;nker nu? Men Berit, vit ingenting &#x2026; Du er glad i mig? aa nei, Berit &#x2013; Men hvis du var, ber jeg dig. La mig faa <hi rend="italic">tro</hi> &#x2013; Berit kj&#x00E6;re, kj&#x00E6;re dig, du forstaar det ikke, gaa fra mig om du vil, men kjend mig ikke, la mig faa v&#x00E6;re lykkelig ved at <hi rend="italic">du</hi> ikke kjender mig. Det er som tro og haab er i det, Berit, og kj&#x00E6;rlighet &#x2026;</p>
+</sp>
+<sp who="Berit">
+<speaker>BERIT</speaker>
+<p>Nei. Jeg forstaar dig ikke.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Hvordan skulde du? Hjertet dit Berit &#x2013; saa rolig, trofast og godt. Men der er kanske dem som ikke har et saant hjerte, kanske bare et tomrum som andre fylder, helder litt i &#x2013; der kan &#x00E6;tse noget derinde som ikke er ens eget, det kan gurgle av tomhet og bitterhet. Men dig Berit &#x2013; at faa elske dig maatte v&#x00E6;re som at eie en fred, en evighet &#x2013; som havet under maanen &#x2026;</p>
+<stage>slipper hende pludselig.</stage>
+<p>Nei. Nei. De tror mig ikke. De er ikke glad i mig.</p>
+</sp>
+<sp who="Berit">
+<speaker>BERIT</speaker>
+<p>Jo. Jeg er glad i Dem. Jeg er bare altfor glad i Dem.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Men saa sandt du er glad i mig, skal du tro mig, Berit.</p>
+</sp>
+<sp who="Berit">
+<speaker>BERIT</speaker>
+<p>Jeg tror dig, Jan.</p>
+<stage>Jan kysser hende.</stage>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Aa Berit</p>
+<stage>holder hende derpaa ut fra sig.</stage>
+<p>Kys mig; du.</p>
+</sp>
+<sp who="Berit">
+<speaker>BERIT</speaker>
+<stage>sakte, men likesom betydningsfuldt.</stage>
+<p>Ja.</p>
+<stage>Kysser ham.</stage>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Du saa saa underlig paa mig.</p>
+</sp>
+<sp who="Berit">
+<speaker>BERIT</speaker>
+<p>Det mente alt for mig.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Mente det alt for dig?</p>
+</sp>
+<sp who="Berit">
+<speaker>BERIT</speaker>
+<p>Jeg har aldrig kysset nogen f&#x00F8;r, ser du.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<stage>kysser hendes h&#x00E6;nder.</stage>
+<p>Men du maa ikke se saan paa mig, Berit.</p>
+</sp>
+<sp who="Berit">
+<speaker>BERIT</speaker>
+<p>Jeg vet at jeg aldrig kommer til at kysse nogen anden.</p>
+<stage>Det ringer.</stage>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<stage>farer sammen.</stage>
+<p>Hvad var det? Ringte det? Men det kan ikke &#x2026;</p>
+</sp>
+<sp who="Berit">
+<speaker>BERIT</speaker>
+<p>Venter du nogen?</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Nei, jeg venter ikke nogen. Jeg venter ingen.</p>
+<stage>Det ringer igjen.</stage>
+<p>Aa bli her et &#x00F8;ieblikk, saa skal jeg se efter.</p>
+<stage>Jan kommer ind med Gunnar og Lisbeth.</stage>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Det er bare Gunnar og Lisbeth. Ja, dere kjender hverandre?</p>
+</sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<p>Jo. Vi traff hverandre paa hospitalet ifjor. Jeg var kandidat paa den avdelingen hvor Deres s&#x00F8;ster laa, da hun var syk, og <hi rend="italic">vi</hi> pleiet at nikke til hverandre i korridorene, ikke sandt?</p>
+</sp>
+<sp who="Berit">
+<speaker>BERIT</speaker>
+<p>Jo. Jeg husker Dem godt. Min s&#x00F8;ster sa De var snild.</p>
+</sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<p>H&#x00F8;rer du det, Elisabeth. Jeg er snild.</p>
+</sp>
+<sp who="Lisbeth">
+<speaker>LISBETH</speaker>
+<stage>hele tiden naivt betydningsfuldt og indsmigrende.</stage>
+<p>Jeg trodde De bare var en liten pike, jeg Berit. Jeg trodde ikke De kom her, De ogsaa.</p>
+<stage>Berit vender sig til Jan.</stage>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Berit kommer her. Hun kommer ikke her &#x2013; ogsaa.</p>
+</sp>
+<stage>Gunnar ser interessert op. Berit tar et skridt n&#x00E6;rmere Jan.</stage>
+<sp who="Lisbeth">
+<speaker>LISBETH</speaker>
+<p>Nei. Jeg vet ikke hvem som kommer her.</p>
+</sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<p>La mig faa v&#x00E6;re dit vitne paa det.</p>
+<stage>Til Berit.</stage>
+<p>Elisabeth har aldrig v&#x00E6;ret heroppe f&#x00F8;r, skj&#x00F8;nner De.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Det er f&#x00F8;rste gang Berit ogsaa er her iaften. Deres f&#x00F8;rste, men ikke sisste, Berit.</p>
+</sp>
+<sp who="Berit">
+<speaker>BERIT</speaker>
+<p>Naar vil du jeg skal komme igjen?</p>
+</sp>
+<sp who="Lisbeth">
+<speaker>LISBETH</speaker>
+<p>Saa underlig at vi skulde komme hit iaften for f&#x00F8;rste gang begge to. Vi begynder likesom samtidig, Berit.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Fr&#x00F8;ken Lisbeth uttrykker sig n&#x00E6;sten sp&#x00E6;ndende.</p>
+</sp>
+<sp who="Lisbeth">
+<speaker>LISBETH</speaker>
+<p>Kanske De har ret.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Ret i hvad?</p>
+</sp>
+<sp who="Lisbeth">
+<speaker>LISBETH</speaker>
+<stage>ser paa ham.</stage>
+<p>Det var mig som vilde herop iaften.</p>
+</sp>
+<sp who="Berit">
+<speaker>BERIT</speaker>
+<p>Jeg maa gaa.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Jeg skal f&#x00F8;lge Dem ut, kj&#x00E6;re.</p>
+<stage>Rolig til Lisbeth.</stage>
+<p>Det var hyggelig av Dem at ville bes&#x00F8;ke mig.</p>
+</sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<p>Elisabeth <hi rend="italic">er</hi> hyggelig saan.</p>
+</sp>
+<sp who="Berit">
+<speaker>BERIT</speaker>
+<p>Farvel.</p>
+<stage>Jan og Berit ut.</stage>
+</sp>
+<sp who="Lisbeth">
+<speaker>LISBETH</speaker>
+<stage>med ryggen til.</stage>
+<p>Saa yndig hun er, Berit.</p>
+</sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<p>Jeg merket at du syntes det.</p>
+</sp>
+<sp who="Lisbeth">
+<speaker>LISBETH</speaker>
+<p>Du merket ikke mer.</p>
+</sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<p>Jo.</p>
+<stage>Jan kommer ind.</stage>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Saa koselig av dere at sl&#x00E6;nge indom.</p>
+<stage>Ser paa armbaandsuret.</stage>
+<p>S&#x00E6;t dere ned. En cigaret?</p>
+</sp>
+<sp who="Lisbeth">
+<speaker>LISBETH</speaker>
+<p>Hvorfor gik Berit? Jeg vilde saa gjerne at hun skulde ha blit.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Hun maatte gaa. Hun er saa s&#x00F8;t. Da hun gik, lignet hun et billede jeg har sett engang: Daadyret forsvinder i skogen.</p>
+</sp>
+<sp who="Lisbeth">
+<speaker>LISBETH</speaker>
+<p>Er De glad i Berit?</p>
+</sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<p>Det var femte gang. Vi maa gaa, Elisabeth. Det var femte gang Jan slog asken av cigaretten sin. Se her, jeg er endnu ikke begyndt. Jan venter nogen.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Oprigtig talt, ja. Men der kommer ingen f&#x00F8;r om en cigaret. La os r&#x00F8;ke den ut.</p>
+</sp>
+<sp who="Lisbeth">
+<speaker>LISBETH</speaker>
+<p>Det var nok riktig det jeg sa om Berit <hi rend="italic">ogsaa</hi>.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<stage>tier.</stage>
+</sp>
+<sp who="Lisbeth">
+<speaker>LISBETH</speaker>
+<p>Hun er saa s&#x00F8;t, Berit. Men De har saanne sterke, blaa &#x00F8;ine.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<stage>smiler.</stage>
+<p>Selv om jeg hadde, hvad skulde det gj&#x00F8;re Berit og mig.</p>
+</sp>
+<sp who="Lisbeth">
+<speaker>LISBETH</speaker>
+<p>Hun sa du til dem. De sa De til hende. De maa netop ha kysset hende.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>De maa ogsaa ha sterke, blaa &#x00F8;ine, fr&#x00F8;ken Lisbeth.</p>
+</sp>
+<sp who="Lisbeth">
+<speaker>LISBETH</speaker>
+<p>Kanske har vi det begge to. De og jeg. Men det er Aim&#x00E9;e De venter.</p>
+</sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<p>Oprigtig talt, Elisabeth.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>V&#x00E6;rsaagod, fr&#x00F8;ken Lisbeth.</p>
+</sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<p>Jeg saa forresten hendes mand i byen idag.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<stage>og med et svakt ekko av Lisbeth.</stage>
+<p>Bernhard?</p>
+</sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<p>Ja. Han var for&#x00F8;vrig sammen med en aldeles nydelig pike. Han kom tilbake fra Shanghai imorges. Han skal ha v&#x00E6;ret forf&#x00E6;rdelig fuld da skibet kom ind. Men allikevel klarte han like efter ankomsten at klatre op paa taket av Grand Hotel Royal med en flaske champagne under armen. Han vilde skaale med solen over sin f&#x00F8;deby, sa han.</p>
+</sp>
+<sp who="Lisbeth">
+<speaker>LISBETH</speaker>
+<p>Han er ikke som de andre, Bernhard Blich.</p>
+</sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<p>Nei. Gudskelov. Er der andet end skam og sjofelhet og skj&#x00E6;ndsel der han gaar. Hun Aim&#x00E9;e kan prise sig lykkelig at hun er f&#x00E6;rdig med ham.</p>
+</sp>
+<sp who="Lisbeth">
+<speaker>LISBETH</speaker>
+<p>Har du truffet ham, Gunnar?</p>
+</sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<p>Nei. En saan p&#x00F8;bel b&#x00F8;r man undgaa. Han burde skytes.</p>
+</sp>
+<sp who="Lisbeth">
+<speaker>LISBETH</speaker>
+<p>Cigaretten min er f&#x00E6;rdig.</p>
+</sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<stage>reiser sig.</stage>
+<p>Det er paa tide vi forsvinder.</p>
+</sp>
+<sp who="Lisbeth">
+<speaker>LISBETH</speaker>
+<p>Ja. Fru Bernhard kunde komme paa os.</p>
+</sp>
+<stage>Jan rykker til. Gunnar er i den anden ende av v&#x00E6;relset.</stage>
+<sp who="Lisbeth">
+<speaker>LISBETH</speaker>
+<p>Saaret jeg Dem nu.</p>
+<stage>Jan tier.</stage>
+<p>Jo jeg saaret Dem.</p>
+<stage>Gaar like hen til ham.</stage>
+<p>Jeg vilde saare Dem. Det er det jeg vil.</p>
+</sp>
+<stage>Gunnar og Lisbeth gaar. I d&#x00F8;ren vender Gunnar sig og kommer fort ind igjen.</stage>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<p>Det var bare en ting jeg vilde si dig. V&#x00E6;r forsigtig med Berit.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Hvad mener du?</p>
+</sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<p>Berit n&#x00E6;vnte at hun hadde truffet mig da hendes s&#x00F8;ster laa paa hospitalet. Da hun var syk, sa vi. Det var en eiendommelig sykdom. Det var gasforgiftning.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Mener du &#x2013; &#x2013; &#x2013;</p>
+</sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<p>Ja. Hun fors&#x00F8;kte at ta livet av sig. Jeg tror ikke Berit kjender til det &#x2013;</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Men jeg forstaar ikke &#x2013;</p>
+</sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<p>Jeg vilde bare si det til dig. Jeg kjender litt til den familien. De er litt eksentriske naar det gj&#x00E6;lder kj&#x00E6;rlighet. De tar kj&#x00E6;rligheten saa alvorlig, saa d&#x00F8;delig alvorlig.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Kj&#x00E6;re Gunnar. Mens vi snakker om at ta ting saa d&#x00F8;delig alvorlig: Hvad er det for frygtelige ting du t&#x00E6;nker jeg har isinde?</p>
+</sp>
+<sp who="Gunanr">
+<speaker>GUNNAR</speaker>
+<p>Du har sikkert ingenting isinde. Men du vet kanske at nede i Alpene paastaar de at et enkelt fuglefl&#x00F8;it
+<hi rend="italic">kan</hi> s&#x00E6;tte lavinen igang. Der flyver en liten fugl over snefonnen og kvidrer «jeg elsker dig» og mener det ikke saa farlig og flyver videre. Men en liten lydb&#x00F8;lge svinger kanske ned til et utsat punkt, og hei! lavinen gaar, et brak av r&#x00E6;dsel soper nedover fjeldet. Man finder et lik i snel&#x00F8;sningen. Et menneske har m&#x00F8;tt sin skj&#x00E6;bne i det fuglefl&#x00F8;itet.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Men hun s&#x00F8;steren til Berit &#x2013;</p>
+</sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<stage>nikker.</stage>
+<p>Hun kom sig. Hun er helt frisk nu.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Det var det jeg visste.</p>
+<stage rend="indent_3">Under de sisste replikker har han sittet og smidd med jaktkniven sin paa et vedstykke foran kaminen. Nu hugger han kniven i tr&#x00E6;et, mens han sier:</stage>
+<p>Man d&#x00F8;r ikke av kj&#x00E6;rlighet.</p>
+</sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<p>Men v&#x00E6;r forsigtig med den. V&#x00E6;r forsigtig med andre menneskers kj&#x00E6;rlighet.</p>
+</sp>
+<stage>Ved den inntr&#x00E6;ngende, n&#x00E6;sten truende tone hvormed Gunnar sier disse sisste ordene, ser Jan forundret op. Men Gunnar staar rolig og smilende borte ved d&#x00F8;ren, paa vei ut.</stage>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<p>Blir du hjemme senere iaften?</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<stage>slaar ham megetsigende paa ryggen, mens han f&#x00F8;lger ham ut.</stage>
+<p>Pr&#x00F8;v naar du kommer fra hospitalet. Det kan jo v&#x00E6;re der blir lukket op.</p>
+</sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<p>Men om det ikke blir lukket op. Ser dig ihvertfald i morgen, Jan.</p>
+<stage>Ut.</stage>
+</sp>
+<stage>Jan driver rundt i v&#x00E6;relset. Det er blit m&#x00F8;rkt. Han t&#x00E6;nder en lampe. Staar ved vinduet. Opdager noget; gaar ut; straks etter kommer han ind igjen med Aim&#x00E9;e, pelskl&#x00E6;dt.</stage>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Aa Jan, hvis du visste hvor godt det er at v&#x00E6;re hos dig igjen!</p>
+<stage>kysser ham.</stage>
+<p>Aa, det <hi rend="italic">er</hi> godt.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>La mig hj&#x00E6;lpe dig av med t&#x00F8;iet.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Alt nu? Skal vi ikke sitte og snakke litt f&#x00F8;rst? Foran ilden?</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Jeg mente bare pelsen, kj&#x00E6;re.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Aa pelsen. Ja selvf&#x00F8;lgelig. Jeg hadde rent glemt pelsen du.</p>
+<stage>Blir hjulpet.</stage>
+<p>Tak skal du ha.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>S&#x00E6;t dig her. Vil du ikke ha en pute i ryggen. Har du det bra slik?</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Tak. Aa Jan &#x2013; saa deilig at sitte her foran ilden og se ind i de r&#x00F8; gl&#x00F8;rene. En f&#x00F8;ler sig roligere, lykkeligere. Trodde ikke jeg skulde kunne f&#x00F8;le slik idag.</p></sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Har du hat en ond dag idag? Jeg kunde ikke merke det paa dig da du kom.</p>
+<stage>Litt anstrengt:</stage>
+<p>Jeg syntes du var munter og uanst&#x00E6;ndig som du pleier.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<stage>ler litt. Sier stille:</stage>
+<p>Det var fordi jeg var saa gr&#x00E6;nsel&#x00F8;st Iykkelig ved at v&#x00E6;re hos dig igjen det, Jan.</p></sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Hvad er det som er h&#x00E6;ndt dig idag?</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Ingenting har h&#x00E6;ndt mig.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Hvad er det da?</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Jeg vet ikke, en underlig angst &#x2013;</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Kanske jeg vet det.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Hvad mener du.</p>
+<stage>S&#x00E6;tter sig op.</stage>
+<p>Hvad er det, Jan. Hvorfor stirrer du saan paa mig. Du har gjort det hele tiden, nu ser jeg det. Svar mig.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<stage>haardt.</stage>
+<p>Jeg forstaar hvorfor du f&#x00F8;ler dig ulykkelig <hi rend="italic">idag</hi>.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Idag? Aa nu begynder jeg &#x2013; Du mener at &#x2013;</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Ja.</p>
+<stage>Stilhet.</stage>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Du tar feil, Jan. Det var ikke derfor.</p>
+<stage>Stilhet igjen.</stage>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Jan.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Ja.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Er du glad i mig?</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Det vet du jeg er.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Nei, jeg vet ikke. Ingen vet <hi rend="italic">det</hi>.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Ja. Jeg er glad i dig.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Ta haanden min.</p>
+<stage>Stilhet igjen.</stage>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Hvad var det som gjorde dig bedr&#x00F8;vet, Aim&#x00E9;e.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Saa godt det er at sitte her. Undertiden kommer sorgen ingensteds fra.</p>
+<stage>Jan ser op paa hende.</stage>
+<p>Nei hvorledes skulde du vite det som ikke kjender sorgen.</p>
+<stage>Jan ser v&#x00E6;k igjen.</stage>
+<p>Saaret det dig, at du ikke kjender sorgen? Kys mig Jan.</p>
+<stage>Jan gj&#x00F8;r saa.</stage>
+<p>Naar du kysser mig, vet jeg ikke l&#x00E6;nger at der er sorg til, og smerte. Nei slip mig ikke Jan. Hold mig t&#x00E6;t ind til dig. Her er saa godt at glemme angsten.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Fort&#x00E6;l alt til mig.</p></sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Men jeg vet ingenting. Hvor kom det fra. Jeg h&#x00F8;rte et hikstende aandedr&#x00E6;t ved siden av mig, og saa var den der. Den d&#x00F8;delige r&#x00E6;dsel. Barnet, Jan, barnet.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Er barnet sykt?</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Nei, nei, det er ingenting. Ingenting. Jeg sat bare ved siden av det i m&#x00F8;rket efter at jeg hadde lagt det, og saa h&#x00F8;rte jeg dette ene hikstende pustet. Det er ingenting. Hun laa forkj&#x00E6;rt kanske, jeg vet ikke. Men op av dette aandedr&#x00E6;ttet steg der en angst, m&#x00F8;rk, uforstaaelig. Det begyndte at leve inde i m&#x00F8;rket, ting jeg trodde var gaat i graven var ikke d&#x00F8;de allikevel. &#x2013; Nu ser du saan paa mig igjen.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Jeg trodde du var f&#x00E6;rdig med ham.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Nu er du ond mot mig.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Du har sagt saa ofte at om du saa ham en dag pludselig paa gaten, vilde du f&#x00F8;le <hi rend="italic">ingenting</hi>. Idag er han her.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Han har ingenting at gj&#x00F8;re med mig. Hvad jeg f&#x00F8;ler. Alt som angik ham er d&#x00F8;dt inde i mig. Forstenet.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Men saa var det angsten.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Du skal ikke Jan.</p>
+<stage>Stilhet.</stage>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Har jeg fortalt dig hvordan jeg blev skilt fra Bernhard. Jeg skal gj&#x00F8;re det nu. Saa vil kanske du, selv du som aldrig har lidt, forstaa at jeg aldrig, <hi rend="italic">aldrig</hi> kan lide mere for hans skyld. Det er seks aar siden nu. Jeg var ung dengangen. Nei du beh&#x00F8;ver ikke. Det er l&#x00E6;nge siden. Var jeg endnu forelsket i ham? Jeg vet ikke, kanske var jeg det. Meget hadde jeg taalt for hans skyld, alt dengang var der bestandig noget galt paaf&#x00E6;rde, gj&#x00E6;ld, drik, n&#x00F8;d og elendighet.</p>
+<p>Han bedrog mig. Jeg visste det. Ikke med en. Men med mange. Jeg fandt mig i det. Saant faar man finde seg i naar man er gift, ikke sandt?</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Aim&#x00E9;e.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<stage>H&#x00F8;rer ikke paa ham.</stage>
+<p>Saa en dag skedde det. Dette &#x2013; &#x2013; &#x2013;!</p>
+<p>Jeg hadde lagt mig, hadde slukket, var vist sovnet. Jeg vaaknet ved at lyset blev slaat paa. Saa h&#x00F8;rte jeg likesom et dyr skrike, et vr&#x00E6;l ved sengen. Det var Bernhard. Han stod like over mig. D&#x00F8;ddrukken. Han hadde en pike med sig. Sl&#x00E6;pt en gatet&#x00F8;s med sig op, ind til mig. Jesus Kristus, kommer jeg aldrig til at glemme de to ved sengen. V&#x00E6;k med dig, skrek han; mens jeg kastet nogen kl&#x00E6;r paa mig borte i et hj&#x00F8;rne, gik han tilsengs; med hende.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Aim&#x00E9;e; min elskede. Hvor du maa ha lidt.</p></sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Ja. Den natten var den sisste jeg var i Bernhards hus. Forstaar du nu at <hi rend="italic">ingenting</hi> kan bev&#x00E6;ges herinde naar det gj&#x00E6;lder ham?</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Ja.</p>
+<stage>Kysser hendes h&#x00E6;nder. Stilhet.</stage>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<stage>Pludselig.</stage>
+<p>Bedrar du mig, Jan?</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Hvordan kan du sp&#x00F8;rre? &#x2013; &#x2013; &#x2013;</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Du skal svare.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Nei.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Mon tro. Er det nogen som ikke bedrar?</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Du skal ikke snakke slik.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Jeg er vant til at bli skuffet.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Nei. Aim&#x00E9;e, du skal ikke bli skuffet mer. Jeg skal elske dig glad igjen. Det onde som er h&#x00E6;ndt dig skal jeg sone. Slik er jeg glad i dig.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Min egen ven.</p>
+<stage>Stilhet.</stage>
+<p>Men Jan?</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Ja.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Pleier du at kysse de unge pikene du er sammen med?</p>
+<stage>Smiler.</stage>
+<p>Noget maa du jo gj&#x00F8;re, siden du ikke bedrar mig.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>En enkelt gang kanske.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Naar var sisst du?</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Jeg husker bare en gang.</p>
+<stage>Pludselig &#x00E6;rlig:</stage>
+<p>Det er forresten ikke saa mange dagene siden.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Fort&#x00E6;l mig om det. Alt. Sa du at du elsket hende?</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Ja. Hun sa at hun var glad i mig. Og saa &#x2013; jeg vet ikke &#x2026;</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Dere er nogen s&#x00F8;te smaa barn, er dere.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Du er ikke det spor sint paa mig?</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Hvad vet en saan ung pike om kj&#x00E6;rlighet. Kj&#x00E6;rlighet er ikke noget man faar givendes. Kj&#x00E6;rlighet er noget som maa l&#x00E6;res. En ung pike kan aldrig gi dig noget. Jeg kan bare ikke forstaa at det kan bety noget for dig, et kys hist og her; en bitteliten krusning av sj&#x00F8;en &#x2026;</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Det h&#x00F8;res n&#x00E6;sten ut som du foragter mig.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Hvorledes?</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>At jeg lar mig n&#x00F8;ie med en liten krusning. At jeg ikke bedrar dig <hi rend="italic">tilbunds</hi>.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Tvertimot. Forts&#x00E6;t bare at gaa paa sommertogt med dine smaapiker ombord.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Du likte bedre at jeg dro paa langfart.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>For at forts&#x00E6;tte billedet: hvorlangt?</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Aa for eksempel: til Shanghai.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Hvad mener du?</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Ingenting. Du sa at kj&#x00E6;rlighet maa l&#x00E6;res. Ja, <hi rend="italic">du</hi> har l&#x00E6;rt mig. Men hvem har l&#x00E6;rt dig?</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Du vet likegodt som jeg at der har v&#x00E6;ret andre m&#x00E6;nd i mit liv end dig.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Har der v&#x00E6;ret mere end &#x00E9;n?</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<stage>Let ironisk.</stage>
+<p>Nei, min elskede &#x2026;</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Vokt dig nu.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<stage>S&#x00E6;tter sig pludselig op.</stage>
+<p>Er det en scene du haaber paa?</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Paa ingen maate. Bare en fortrolig passiar. Vil du ha et glas vin? Der er kanske noget vi kunde drikke for.</p>
+<stage>Skj&#x00E6;nker.</stage>
+<p>Har du h&#x00F8;rt at der var en mand som skaalte fra taket paa Grand Hotel Royal imorges.</p></sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Nei.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Det var Bernhard! Han klatret op paa taket med en flaske champagne under armen og deroppe drak han en velkomstskaal med solopgangen.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<stage>Revet med.</stage>
+<p>Akkurat likt ham &#x2026;</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Ja, det var kj&#x00E6;kt gjort. Du er stolt over ham nu. Vil du at jeg skal dele din gl&#x00E6;de. Skal vi &#x00F8;nske ham velkommen hjem igjen. Din skaal, Bernhard &#x2013; du som til syvende og sisst har l&#x00E6;rt mig kj&#x00E6;rligheten.</p>
+<stage>Skriker.</stage>
+<p>&#x00C6;sj &#x2013;</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<stage>S&#x00E6;tter glasset fra sig, sier rolig.</stage>
+<p>F&#x00F8;ler du slik ofte?</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Tak for din omtanke. Ja, jeg gj&#x00F8;r det. Jeg er syk av det glimtet i &#x00F8;inene dine, forstaar du.</p></sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Hvad er det du taler om?</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Det er <hi rend="italic">ham</hi> som er i &#x00F8;inene dine. Jeg har set det tusen ganger, det blikket som glir gjennem mine &#x00F8;ine langt bort til ham som salvet og indviet dig til kj&#x00E6;rligheten.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<stage>Isnende rolig.</stage>
+<p>Dette er muligens meget udmerket som kvindepsykologi. Du glemmer bare hvad slags mand Bernhard var.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Du tar feil der. Ingenting paa jorden husker jeg som det. Alle de <hi rend="italic">andre</hi> i dit liv spiller ingen rolle for mig. Dem har jeg kunnet m&#x00F8;te paa like fot i dine tanker, de var m&#x00E6;nd som jeg, jeg tror kanske jeg har vundet litt over dem.</p>
+<p>Men med ham, med Bernhard er det en anden sak. Hans umaadelige raahet og sjofelhet har git ham et forsprang som faar mig til at fortvile. Den plassen i dit hjerte kan jeg aldrig vinde, og den er stor, den er gr&#x00E6;nsel&#x00F8;s, n&#x00E6;sten alt! Jo jeg vet det. Og dyret skaaler med solopgangen, hvem kan motstaa ham? Og dette er det avskyelige, ser du. Alle beundrer vi p&#x00F8;belen, det er latterlig ikke at v&#x00E6;re ham, latterlig at v&#x00E6;re god. Dette er likesom summen av alt som livet l&#x00E6;rer os: Jesus eller Barrabas, hvem av de to? Gi Barrabas l&#x00F8;s! Og Barrabas er l&#x00F8;s, min Barrabas, vor Barrabas, du tror du har kvalt ham i dit hjerte, men han lever, han flyter som gift i dig, og det er jeg som drikker den.</p>
+<stage>Stanser. T&#x00E6;nker sig om, smiler skj&#x00E6;vt.</stage>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Hvorfor smiler du?</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Jeg smiler av giften. Det var ikke sandt det jeg sa til dig om Berit, den piken som jeg kysset.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Det var Berit hun het.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Nei, for satan, hun het ikke Berit. Det er h&#x00F8;re paa mig du skal. Jeg visste godt hvad jeg vilde da jeg tok hende op hit. Det var &#x2013; giften.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Mener du at &#x2013;</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Nei, jeg er en usling &#x2013; ogsaa i usselhet. En undermaaler i sjofelhet. Derfor kommer du aldrig til at elske mig. Hun fik gaa. Men da jeg skriftet til dig om det uskyldige kysset som var alt, da saa jeg glimtet i &#x00F8;inene dine: Det skulde ha v&#x00E6;ret Bernhard.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Jan.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Du faar pr&#x00F8;ve paa at tilgi mig. Hun var saa ung og s&#x00F8;t og r&#x00E6;d. Det hele var saa helt anderledes.</p></sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Du er glad i hende.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Tvertimot var det vel en kj&#x00E6;rlighetserkl&#x00E6;ring til dig i det kysset jeg gav Berit. Det burde smigre dig. Et aldrig saa litet fors&#x00F8;k paa at v&#x00E6;re Bernhard, at n&#x00E6;rme mig dine idealer.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Du nevnte Barrabas isted. Jeg kunde n&#x00E6;vne Judas.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Nu smigrer <hi rend="italic">du</hi> mig. Mit kys har nok ikke de Judaske dimensioner. Men du kan ha ret i det: det er et bittert kys du har l&#x00E6;rt mig.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Det er hvad jeg har l&#x00E6;rt dig?</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Ja. Og du har l&#x00E6;rt mig mer. Du har l&#x00E6;rt Judas en b&#x00F8;n: Gud la mig bli sjofel nok til at bli elsket.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<stage>Kaster sig pludselig nedover divanen.</stage>
+<p>Er dette dig?</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<stage>Ved siden av hende.</stage>
+<p>Nei. Det er ikke mig. Det er ikke mig, Aim&#x00E9;e.</p>
+<stage>Stilhet.</stage>
+<p>Si noget Aim&#x00E9;e. Jeg orker ikke dette.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Hvad ondt har jeg gjort dig siden du er saa grusom mot mig.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Ingenting ondt har du gjort mig.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Hater du mig bestandig slik.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Jeg elsker dig. Du er selve livet for mig.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Er det derfor du er slik mot mig?</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Kan du tilgi mig. Aa, si at du gj&#x00F8;r det.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Jeg elsker dig jo.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Kys mig.</p>
+<stage>Hun gj&#x00F8;r saa.</stage>
+<p>Aa dette er selve tilgivelsens sakrament. Jeg elsker dig.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Gutten min.</p>
+<stage>Stilhet. Aim&#x00E9;e stryker ham over haaret.</stage>
+<p><hi rend="italic">Du</hi> var i angsten, Jan.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Hvad mener du?</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Jeg vet ikke. Kanske det er det at du er saa ung, Jan. Saa &#x00F8;m og svak selv naar du vil v&#x00E6;re grusom. Jeg taaler ikke at t&#x00E6;nke paa at din time kanske kommer snart.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Hvad er min time som du sier?</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Jeg vet bare at du har ingenting mistet og ingenting lidt, og at summen skal v&#x00E6;re den samme for os alle naar vi gaar i graven. Du gaar ikke fri. Etsteds derute staar skj&#x00E6;bnen og venter paa dig, skaansell&#x00F8;s og blind. Da vilde jeg elske at v&#x00E6;re hos dig.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Du er saa god mot mig, Aim&#x00E9;e</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Ja. Jeg er det. Vi maa v&#x00E6;re gode mot hverandre, alle mennesker. Vi t&#x00F8;r ikke andet. For derute i m&#x00F8;rket er der nok smerte uten at vi hj&#x00E6;lper til. Du tror kanske du har sett langt fremover, Jan, og f&#x00F8;lt livets pulsslag, dage og n&#x00E6;tter, venskap og kj&#x00E6;rlighet, lykke og skuffelse, fra nu til din sisste stund. Men Jan, den time vil komme da der vil v&#x00E6;re et m&#x00F8;rke som natten efter den sisste dag. Det kan v&#x00E6;re d&#x00F8;den eller ting som synes endda mere meningsl&#x00F8;se. Aa Jan, det er saa ondt at r&#x00E6;dselen skal komme ind hit hvor vi ofte har v&#x00E6;ret saa lykkelige, gjennem d&#x00F8;ren, gjennem telefonen, et brev, et menneske. Er du aldrig r&#x00E6;d, Jan. Har du aldrig f&#x00F8;lt angsten glimte hvitt inde i m&#x00F8;rket? Men disse glimtene, bleke, sp&#x00F8;kelsesagtige vil en dag staa som en ulykke foran &#x00F8;inene dine og du vil se at de er ansigter. Din vens, din elskedes ansigt.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Vil du gj&#x00F8;re mig ondt, Aim&#x00E9;e?</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Jeg blir ikke den eneste elskede i dit liv.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Jo; det er dig. Jeg elsker dig. Du sa at du vilde beskytte mig. Men vet du, det gj&#x00F8;r du alt. Det er den vidunderligste ting i mit liv. Det at du er glad i mig er som en hemmelig rustning om mig. Jeg kan gaa sikker og usaarlig der hvor jeg er r&#x00E6;d for at gaa, det er som alt ondt stanser sin fart mot mig og falder til jorden, fordi du elsker mig.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Det er bare mot mig at min rustning ikke hj&#x00E6;lper.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Du skal tilgi mig. Det er kanske fordi at du har gitt mig saa meget, at jeg gj&#x00F8;r dig ondt saa du maa <hi rend="italic">tilgi</hi> mig ogsaa. Rustningen d&#x00E6;kker mig helt, Aim&#x00E9;e.</p>
+<stage>Telefonen ringer.</stage>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Hvem er det?</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Vet ikke.</p>
+<stage>Gaar mot telefonen.</stage>
+<p>Kanske det er skj&#x00E6;bnen som du spaadde vilde komme til mig en aften gjennem telefonen her &#x2013;</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Jan, jeg er r&#x00E6;d &#x2013;.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>V&#x00E6;r ikke latterlig.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Ja, jeg vet at det er meningsl&#x00F8;st av mig. Men jeg har v&#x00E6;ret saa underlig angst iaften. Og det er som det samme er i telefonen d&#x00E9;r &#x2013;</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p><hi rend="italic">Hvem</hi> tror du &#x2013;</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Nei, jeg vet ikke &#x2013;</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Tror du at &#x2013;</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Hvorledes kan jeg &#x2013;</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>&#x2013; at det er &#x2013;</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Nei nei! Det <hi rend="italic">er</hi> ikke ham.</p>
+<stage>Jan tar r&#x00F8;re.</stage>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Hvem er det?</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Aa, er det dig. Saa s&#x00F8;tt det var av dig. Vil du bare vente et &#x00F8;ieblik, jeg maa lukke en d&#x00F8;r f&#x00F8;rst &#x2026;</p>
+<stage>L&#x00E6;gger r&#x00F8;ret ned.</stage>
+<p>Det er Berit. Hun maatte si hvor glad hun var i mig med engang hun kom hjem, sier hun. Det var ikke skj&#x00E6;bnen.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Nei, det var ikke skj&#x00E6;bnen. Det var ingenting at v&#x00E6;re r&#x00E6;d for. Ingenting. Ingenting. Si at du elsker mig, Jan.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Jeg elsker dig. Jeg <hi rend="italic">elsker</hi> dig. Bare, bare dig.</p>
+</sp>
+<stage><hi rend="italic">Mens Jan tar r&#x00F8;ret op og forbereder sig til at snakke, t&#x00E6;t omfavnet av Aim&#x00E9;e, falder</hi></stage>
+<stage>TEPPET.</stage>
+</div>
+<div type="chapter" subtype="act" n="2">
+<head type="main"><ref target="contents_4" xml:id="chapter_4">ANDEN AKT</ref></head>
+<stage>Jan og Aim&#x00E9;e i dressing gown. Aim&#x00E9;e presser en cigaret ned i askeb&#x00E6;geret.</stage>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Javel. Saa l&#x00F8;i jeg. Vi er altsaa enige om det.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<stage>haardt.</stage>
+<p>Vi maa ikke bli enige om for meget.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>H&#x00F8;r Jan! Kunde ikke du v&#x00E6;re litt mere venlig mot min sj&#x00E6;l!</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Jeg synes det er avskyelig det som du netop syntes var morsomt. Og det viser at du l&#x00F8;i da du sa at alt som angik fortiden, var forstenet inde i dig.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Forstenet og ikke forstenet. Jeg indbilder mig at jeg har l&#x00E6;st et eller andet sted at fossiler kan begynde at leve <hi rend="italic">ved en s&#x00E6;rlig h&#x00F8;i temperatur</hi>. Tr&#x00E6;rne begynder at knoppes nede i kulgrubene og de smaa fiskeavtrykkene begynder at leke med finnen. Jeg synes det er en kompliment til dig, jeg &#x2026;</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Jeg tror det falder dig naturligst at holde mig utenfor her.</p></sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Du tar feil der, Jan.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Det var ikke <hi rend="italic">mig</hi> som var i tankene dine.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Aa herregud, er det nu <hi rend="italic">glimtet</hi> igjen. Du kan tro det er saa sin sak evig og altid at skulle glimte som en fyrlykt utover din m&#x00F8;rke og opr&#x00F8;rte sj&#x00E6;l.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Du skal holde op med det der, Aim&#x00E9;e.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Tilgi mig. Man skal ikke sp&#x00F8;ke med en ung mand.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Dette er alvor for mig.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Men t&#x00E6;nk om jeg ikke respekterte det? Det kunde t&#x00E6;nkes at jeg ikke anerkjendte dine grublerier over disse ting. At jeg sa til mig selv at en ung mands «alvor» over hans elskedes fortid er en av de mindst forn&#x00F8;ielige former for usedelighet jeg vet.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Det er dig som holder saaret aapent.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Vi kunde vel ikke finde et mindre h&#x00F8;itidelig ord end
+<hi rend="italic">saaret</hi> vel? H&#x00F8;r her Jan: f&#x00F8;ler du at det er mine h&#x00E6;nder som tar om hodet dit nu, at det er min mund som kysser dig?</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Ja.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Saa t&#x00E6;nk paa det. V&#x00E6;r lykkelig over det.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<stage>reiser sig med ett.</stage>
+<p>Men du forstaar ikke &#x2013;</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Jo. Jeg forstaar. Men jeg vil ikke forstaa, ser du. Du vil eie mig helt, ikke sandt?</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Jo.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Her er jeg.</p>
+<stage>Jan gj&#x00F8;r en bev&#x00E6;gelse.</stage>
+<p>Jeg ser at du igjen f&#x00F8;ler dig uvel over at jeg har v&#x00E6;ret eiet f&#x00F8;r. Jeg undres, jeg Jan.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Hvad undres du over?</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Om du har stort nok hjerte til det.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Hvad mener du?</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Ja, jeg har v&#x00E6;ret eiet f&#x00F8;r. Jeg har v&#x00E6;ret en liten baby som min egen er nu. Jeg er blit tullet ind om aftenen og sunget i s&#x00F8;vn av en mor som smilte i skj&#x00E6;ret av natlampen. Jeg har v&#x00E6;ret en liten pike som hver morgen fulgte sin far til kontoret. Jeg har hat br&#x00F8;dre og s&#x00F8;stre, venner og veninder, jeg har hat mand og elskere, alle har de eiet mig. Har du plads inde i dig til alt det, Jan.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Du vet hvad jeg t&#x00E6;nker paa.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Ja. Du t&#x00E6;nker paa en grusomhet i mit liv, som du ikke har faat tilf&#x00F8;iet mig. Det er den du er bedr&#x00F8;vet over at du ikke eier.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Den grusomheten var tre aars kj&#x00E6;rlighet ogsaa.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Om saa var!</p>
+<p>Hvorfor gisper du likesom med en kvart lunge efter de tre aars kj&#x00E6;rlighet. Her staar jeg. Er jeg v&#x00E6;rd at elske? Saa aand mig ind med fulde lunger!</p>
+<p>Jeg liker mig selv! Og jeg er din. Hele mig eier du. Hele eiendommen med vaaningshuser og tilh&#x00F8;rende naturherligheter, altsammen, fra de f&#x00F8;rste prestekravene jeg pleidet at finde om vaaren da jeg var liten pike, til ozonduften av min nuv&#x00E6;rende uanst&#x00E6;ndighet. Alt hvad jeg har gjort er da en del av mig selv &#x2013;</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Bernhard er en del av dig. Du kan ikke forlange at jeg skal ta Bernhard ind i mit liv.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Er det en livsbetingelse for dig at henrette min lille sj&#x00E6;l mindst en gang om dagen, Jan? Du dyrker kj&#x00E6;rligheten à la tiger, snerrer og biter. Kunde vi ikke pr&#x00F8;ve kj&#x00E6;rligheten à la ko?</p>
+<p>Jeg skulde &#x00F8;nske at vi var to kj&#x00F8;r paa en gr&#x00F8;n mark, jeg. Vi skulde ligge og se paa hverandre med store blanke snille &#x00F8;ine og tygge kl&#x00F8;ver, firkl&#x00F8;ver! hele dagen. Det vilde jeg synes var lykke. Men <hi rend="italic">du</hi> tror ikke paa lykken?</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Nei.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Du har ingen illusioner, du Jan. Men tro endelig ikke du har mistet dem. Illusioner er noget som en ung mand endnu ikke har <hi rend="italic">faat</hi> det.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Det er ikke nogen lykke at elske dig. Det skal ikke v&#x00E6;re det heller.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Du <hi rend="italic">maa</hi> slaas med mig.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Ja. Jeg vil vinde over dig. Det er noget som jeg skal dr&#x00E6;pe i dig.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Jeg visste du var ung. Men saa ung visste jeg ikke. Ingenting i mig kan du dr&#x00E6;pe.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>La min ungdom v&#x00E6;re! Altid snakker du om hvor ung jeg er. Det er et vaaben du bruker for at ydmyge mig. Jeg merket det isted. Du f&#x00F8;lte pludselig saan trang til at beskytte mig, jeg var saa ung og livet vilde bli saa f&#x00E6;lt mot mig, sa du. Fordi du hadde lyst til at slaa mig under dig. Saa jeg var vek og «ung» i dine h&#x00E6;nder. Men jeg hater min ungdom. Hater den som kr&#x00F8;plingen hater sin pukkel.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Du mener isted i telefonen. Da du var r&#x00E6;d for at det var Bernhard &#x2026;</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Jeg var ikke r&#x00E6;d! Det var dig som laget «angsten» og alt det dj&#x00E6;velskapet, for efterpaa at kunne haane mig. Jeg kjender dig nu. Min ungdom! Det er som du vil at ansiktet mit skal flyte utover til en blid, skj&#x00E6;lvende gel&#x00E9; hvor du kan tegne med fingeren &#x2013;</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Du skal stanse nu.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Jeg er ikke begyndt endnu.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Nu skal du h&#x00F8;re paa mig Jan. Forstaar du ikke du dumme gutten min, at jeg netop elsker det som du tror jeg foragter. Du tror at jeg elsker dig, naar du likesom overvinder din ungdom og er grusom og alt det. Men jeg bryr mig ikke om <hi rend="italic">det</hi>, Jan. Det er netop din ungdom jeg elsker, dens mykhet og styrke og friskhet.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Hold op, h&#x00F8;rer du. Skj&#x00F8;nner du ikke at det er v&#x00E6;rre end alt. Avskyeligere. Elsk <hi rend="italic">mig</hi>, men ikke min ungdom.</p>
+<p>Ja, jeg er ung! jeg er den yngste og sisste i din kj&#x00E6;rlighet! men vilde jeg ha vundet om jeg ikke hadde v&#x00E6;ret ung, men samtidig med &#x2013; de andre i dit liv?</p>
+<p>Jeg vil ikke elskes fordi jeg er l&#x00E6;kker for dig akkurat nu. Du gj&#x00F8;r min ungdom til et bordel, naar du snakker saan.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Stans nu. For jeg vil ikke la mig saare av dig. Jeg vil ikke. Jeg vil ikke. Jeg har lidt nok. Jeg vil ikke lide mere. Ingenting av hvad du sier gaar ind paa mig. Jeg vil ikke ha det ondt for din skyld.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Du elsker mig ikke.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Fordi du ikke faar gj&#x00F8;re mig ondt!</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Forstaar du: jeg vil ikke ha den lykken du snakket om isted. <hi rend="italic">Lykken</hi>, det er det som de andre har levnet, en kj&#x00E6;rlighet i rullestol er det. Du skal ikke holde mig nede fordi jeg er ung. Jeg vil gj&#x00F8;re dig ondt, slik som Bernhard har gjort dig ondt, jeg vil se dig lide fordi du elsker mig.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Du klarer det ikke. Det er bare ett sted hvor Gud kan ramme mig: Den lille piken min. <hi rend="italic">Du</hi> kan intet gj&#x00F8;re mig.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Vi skal faa se.</p>
+<stage>Det banker paa d&#x00F8;ren. Begge lytter.</stage>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Jeg synes i det mindste at du kunde s&#x00F8;rge for at vi var alene, naar du holder dom over mig og sender mig til helvede i dressing gown.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Jeg begriper ikke. Der maa ha staatt aapent.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Jeg gaar ihvertfald ind og kl&#x00E6;r paa mig, mens du kanske er saa venlig at kaste dine nattegjester paa d&#x00F8;r.
+</p>
+<stage>Aim&#x00E9;e gaar. Jan aapner, Lisbeth staar i d&#x00F8;ren.</stage>
+</sp>
+<sp who="Lisbeth">
+<speaker>LISBETH</speaker>
+<p>Det er bare mig. D&#x00F8;ren stod aapen. Jeg beh&#x00F8;vde ikke at ringe.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<stage>ser paa dressing gownen, derpaa paa Lisbeth.</stage>
+<p>Det er sent som De ser.</p>
+</sp>
+<sp who="Lisbeth">
+<speaker>LISBETH</speaker>
+<p>Vil De jeg skal gaa?</p>
+<stage>Stilhet.</stage>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Nei.</p>
+<stage>Han lukker d&#x00F8;ren bak hende.</stage>
+</sp>
+<sp who="Lisbeth">
+<speaker>LISBETH</speaker>
+<p>Det er altid noget melodramatisk ved en mand som lukker d&#x00F8;ren bak en ung pike. Sv&#x00E6;rt skj&#x00E6;bnesvangert.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Er d&#x00F8;ren ofte blit lukket bak Dem?</p>
+</sp>
+<sp who="Lisbeth">
+<speaker>LISBETH</speaker>
+<stage>s&#x00E6;tter sig ned.</stage>
+<p>Jeg visste det. De liker mig ikke.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<stage>ridende paa sofakanten.</stage>
+<p>Nu begynder vi at faa det hyggelig.</p>
+</sp>
+<sp who="Lisbeth">
+<speaker>LISBETH</speaker>
+<p>Og det er derfor jeg kommer her nu. Jeg var paa vei hjemover; da saa jeg at det var lys oppe hos Dem. Og jeg t&#x00E6;nkte at vi var ikke venner; og saa gik jeg op her.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Hvad mener De med at vi ikke er venner?</p>
+</sp>
+<sp who="Lisbeth">
+<speaker>LISBETH</speaker>
+<p>De merket det da jeg var her isted. Derfor synes jeg det er <hi rend="italic">riktig</hi> at jeg er her nu.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Og nu skal vi bli venner. Er det det De vil?</p>
+</sp>
+<sp who="Lisbeth">
+<speaker>LISBETH</speaker>
+<p>Jeg vet ikke.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Kunde De t&#x00E6;nke Dem at jeg gjennemskuet Dem.</p>
+</sp>
+<sp who="Lisbeth">
+<speaker>LISBETH</speaker>
+<p>Ja. Men De gjennemskuer ikke riktig.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Det er jeg glad for. De vilde aldrig tilgi den som gjennemskuet Dem. En blomst kan tilgi solen dens hete og regnen dets raahet og bien dens graadighet; men den vil aldrig tilgi ham som fort&#x00E6;ller den at den har ti st&#x00F8;vdragere. Alle blomster hater botanik.</p>
+</sp>
+<sp who="Lisbeth">
+<speaker>LISBETH</speaker>
+<p>Og nu vet De hvorfor jeg kommer her. Er det like enkelt som at en blomst har ti st&#x00F8;vdragere.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Det er noget lignende, ja.</p>
+</sp>
+<sp who="Lisbeth">
+<speaker>LISBETH</speaker>
+<p>De tar feil. Jeg f&#x00F8;ler ikke noget for Dem.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Der l&#x00F8;i De, Lisbeth.</p>
+<stage>Griper haanden hendes.</stage>
+</sp>
+<sp who="Lisbeth">
+<speaker>LISBETH</speaker>
+<stage>ser ned paa deres sammenslingrede h&#x00E6;nder, sier haanlig:</stage>
+<p>De som ikke engang liker mig.</p>
+<stage>Vil rive haanden l&#x00F8;s.</stage>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>De har ret, Lisbeth. Men jeg slipper ikke haanden Deres for det. Jeg liker Dem ikke. Men jeg elsker Dem.</p>
+</sp>
+<sp who="Lisbeth">
+<speaker>LISBETH</speaker>
+<p>Jeg tror det ikke. De tror det ikke selv.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Hvad raker det os, hvad jeg tror eller De tror. H&#x00F8;rer De ikke at jeg sier det. Jeg elsker Dem &#x2013; etsteds kommer ordene fra, etsteds ligger den virkelighet som er at jeg elsker Dem.</p>
+</sp>
+<sp who="Lisbeth">
+<speaker>LISBETH</speaker>
+<p>De sier det som De trodset Dem gjennem noget.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Lisbeth, h&#x00F8;rer du! du skal ikke bli her igjen, kold, rolig, mens jeg blir gal og borte av bare dig. Det er ikke slik du er, ikke rolig, ikke kold, jeg har sett ind i de blaa helvedsp&#x00F8;lene i &#x00F8;inene dine. Jeg vil synke ned i de p&#x00F8;lene, de skal lukke sig over mig &#x2013;</p>
+<stage>Kysser hende vilt. Hun er med.</stage>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<stage>river sig tilslut l&#x00F8;s.</stage>
+<p>Hvad er det vi gj&#x00F8;r.</p>
+</sp>
+<sp who="Lisbeth">
+<speaker>LISBETH</speaker>
+<p>Jeg vet ikke. Du sa selv vi ikke skal vite hvad vi gj&#x00F8;r.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Men vi vet det. Det er forbandelsen. Vi bedrar, Lisbeth.</p>
+</sp>
+<sp who="Lisbeth">
+<speaker>LISBETH</speaker>
+<p>Ja.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Du sier ja, som bedrag var selve livet for dig.</p>
+</sp>
+<sp who="Lisbeth">
+<speaker>LISBETH</speaker>
+<p>Jeg elsker at elske. Det er alt jeg vet.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Vet du at vi er et saant par elskende som martres i helvede til evig tid. Det er bare den forskjel</p>
+<stage>&#x2013; begynder et kys &#x2013;</stage>
+<p>at vi to ikke elsker hverandre.</p>
+<p>Aa, Lisbeth, om saa det ytterste m&#x00F8;rke skal lukke sig over os inat &#x2013;</p>
+</sp>
+<sp who="Lisbeth">
+<speaker>LISBETH</speaker>
+<p>Vi ligner hverandre, vi to. Det er riktig det vi gj&#x00F8;r. Vi har lov til det. Vi er unge, Jan. Vi er sterke nok til at b&#x00E6;re al verdens synd paa vore skuldre. For vi har flammen i os, ikke den som er skrudd ned til at br&#x00E6;nde i et hjem og koker og steker og luner, men <hi rend="italic">flammen!</hi> den som br&#x00E6;nder uten at sp&#x00F8;rre om kj&#x00E6;rlighet, bare br&#x00E6;nder fordi den maa og fordi den m&#x00F8;ter andre flammer som kanske heller ikke elsker &#x2013;</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Ja! som ikke elsker.</p>
+<p>Vi er av dem som vaager at si at det er l&#x00F8;gn, dette med kj&#x00E6;rligheten. En st&#x00F8;rre l&#x00F8;gn end selve l&#x00F8;gnen om Gud. En bitter &#x00F8;rken, et skognag i &#x00F8;rkenen, det er kj&#x00E6;rligheten. Og br&#x00E6;nder der et baal mot natten, hvor det er godt at synke ned, er det aske i graalysningen, og mer &#x00F8;rken, mer goldhet og fattigdom og bitterhet venter os.</p>
+</sp>
+<sp who="Lisbeth">
+<speaker>LISBETH</speaker>
+<p>Nei, nei, slik er det ikke.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Det er slik. Det menneske lever ikke, som ikke er blit skuffet over kj&#x00E6;rligheten. Undtagen dem som ikke er v&#x00E6;rd at bli skuffet. Salige er de enfoldige, her som overalt. Men vi som t&#x00F8;r se, vi vet det: har hjertet labyrinter, er det labyrinter av sten, graa, endel&#x00F8;se, fortvilende furer som vi sl&#x00E6;per os bortgjennem. Det er bare &#x00E9;n ting som kan faa os til at stanse, til at f&#x00F8;le, til at «elske»: naar stenen slaar revne foran os og <hi rend="italic">skj&#x00E6;ndselen</hi> flammer im&#x00F8;te. For skj&#x00E6;ndselen, Lisbeth, det er den dere «elsker».</p>
+</sp>
+<sp who="Lisbeth">
+<speaker>LISBETH</speaker>
+<p>Nei. Nei. Det er riktig det som vi gj&#x00F8;r nu. Vi gj&#x00F8;r det fordi vi maa. Ikke fordi livet er fattig. Men netop fordi livet er rikt, og vi er rike med det.</p>
+</sp>
+<stage>Under Lisbeths ord er Aim&#x00E9;e fuldt paakl&#x00E6;dt, kommet tilsyne i d&#x00F8;ren. Hun staar rolig og ser paa parret fremme paa gulvet. Jan ser hende.</stage>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Det er ikke mig som tr&#x00E6;nger skj&#x00E6;ndselen. Det er ikke mig som ber om den. Men hun som ber om den hun skal faa den nu.</p>
+</sp>
+<sp who="Lisbeth">
+<speaker>LISBETH</speaker>
+<stage>slipper ham.</stage>
+<p>Hvad er dette?</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<stage>til Aim&#x00E9;e</stage>
+<p>Det er min time som er kommet. Forstaar du det.</p>
+<stage rend="indent_3">Forts&#x00E6;tter, mens han tar Lisbeth om haandleddet og tr&#x00E6;kker hende n&#x00E6;rmere.</stage>
+<p>Nu skal jeg gni alle de saarene du har gitt mig op til dig. Du faar ikke komme ut f&#x00F8;r jeg har sett det f&#x00F8;rste saaret slaa ut, v&#x00E6;ske i skam og ydmygelse. Hvad er det du f&#x00F8;ler dig usaarlig efter. Du er blit nedv&#x00E6;rdiget i dit liv slik som ingen anden er blit det. Men det er ikke slut med det, forstaar du &#x2013; naar en er blit voldtat, hun v&#x00E6;re saa uskyldig i det hun v&#x00E6;re vil, h&#x00E6;nger der altid skam igjen: slik er det med dig, nedv&#x00E6;rdigelsen er der og roper paa mere nedv&#x00E6;rdigelse, mere skam. Og nu faar du den, nu faar du den &#x2013;</p>
+</sp>
+<sp who="Lisbeth">
+<speaker>LISBETH</speaker>
+<p>Jeg vil gaa. Jeg vil gaa.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Nei, det er ikke <hi rend="italic">dig</hi> som skal gaa.</p>
+<stage>Videre til Aim&#x00E9;e.</stage>
+<p>Se dig om. Kjender du denne stuen her? Og her er Lisbeth som du har h&#x00F8;rt saa meget om. Det er bare hun. Det er intet vr&#x00E6;l ved sengen, alt er stille og kjent og godt. Men det er herfra du skal ut; isnende rolig skal din skj&#x00E6;ndsel bli. Den blir verre da. Gaa nu.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<stage>hele tiden smilende.</stage>
+<p>Kj&#x00E6;re Jan, det var jeg iferd med, da du begyndte at gi denne lille forestilling til bedste. Du vil ydmyge mig nu Jan, men jeg gaar fordi jeg ikke vil ydmyge dig. Bare en ting: Jeg vet at du vil tro mig naar jeg sier dig at jeg ikke t&#x00E6;nker paa mig selv. Jeg vil bare minde dig om at det er din beste vens forlovede du blir alene med nu.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Jeg vet det. Men en ting som venskap beh&#x00F8;ver ikke at hindre mig. For du har l&#x00E6;rt mig at bli fri. Aa bli fri og sterk som bare raatampen er det i verden.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Du er ikke fri, Jan.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Jo! Jeg spytter paa alt det som jeg elsker fordi kj&#x00E6;rligheten er kommet i min vei. En mand og hans raaskap &#x2013; ingen kan rokke ved dem.</p>
+<stage>Det ringer.</stage>
+</sp>
+<sp who="Lisbeth">
+<speaker>LISBETH</speaker>
+<p>Det er Gunnar. Han n&#x00E6;vnte at han vilde komme hitop iaften.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Og allikevel kom du hit &#x2013;</p>
+</sp>
+<sp who="Lisbeth">
+<speaker>LISBETH</speaker>
+<p>Ja.</p>
+<p>Da ville jeg ikke; men nu kan jeg lukke op.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Nei, nei, ikke det.</p>
+</sp>
+<sp who="Lisbeth">
+<speaker>LISBETH</speaker>
+<stage>spottende.</stage>
+<p>Er du ikke sterk l&#x00E6;nger nu?</p>
+<stage>Lukker op.</stage>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<stage>hvisker.</stage>
+<p>Jeg orker ikke dette.</p>
+</sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<stage>ind sammen med Lisbeth. Ser paa Jan, sier rolig.</stage>
+<p>Jeg visste jeg skulde finde Elisabeth her.</p>
+<stage>Jan b&#x00F8;ier hodet.</stage>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<stage>ser bort paa Jan.</stage>
+<p>Lisbeth kom bare op for at laane en bok.</p>
+</sp>
+<sp who="Lisbeth">
+<speaker>LISBETH</speaker>
+<p>Det er ikke sandt! Jeg kom ikke op for at laane en bok.
+<hi rend="italic">Hun</hi> kom ind like f&#x00F8;r dig. Vi var alene til da.</p>
+</sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<p>Gaar du?</p>
+</sp>
+<sp who="Lisbeth">
+<speaker>LISBETH</speaker>
+<p>Ja.</p>
+<stage>Stilhet.</stage>
+<p>Jeg er f&#x00E6;rdig herinde. Kommer du?</p>
+</sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<p>Nei. Vi kan dr&#x00F8;fte boken imorgen.</p>
+</sp>
+<sp who="Lisbeth">
+<speaker>LISBETH</speaker>
+<p>Godnat, Gunnar.</p>
+</sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<p>Godnat.</p>
+<stage>Lisbeth gaar.</stage>
+</sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<p>Dette var vist f&#x00F8;rste gangen, ikke sandt, Jan?</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Jeg forstaar ikke.</p>
+</sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<stage>Med et utrop.</stage>
+<p>V&#x00E6;r forsigtig nu.</p>
+<stage>Rolig igjen.</stage>
+<p>Ikke v&#x00E6;r latterlig, Jan. Jeg vet mere om dette end dig. Og det tar sig ikke ut, at du staar og beskytter Elisabeth <hi rend="italic">mot mig</hi>. Du har ingen ret til det.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<stage>tonl&#x00F8;st.</stage>
+<p>Nei.</p>
+</sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<p>Jeg visste at hun skulde bort i dig. Hun er &#x2013; Lisbeth. Det er ingenting at ta sig n&#x00E6;r av. Ingenting, kj&#x00E6;re ven.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Det er bedst jeg gaar nu.</p>
+</sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<p>Hvorfor det? Det er ikke et opgj&#x00F8;r jeg skal ha. Man holder n&#x00F8;dig opgj&#x00F8;r med hverandre, ikke sandt, Jan?</p>
+<stage>Henvendt videre til Jan.</stage>
+<p>Og dette med dig gj&#x00F8;r ingenting. Du er jo min ven og selv om du ikke var, saa, undskyld mig, er du ikke av den sorten &#x2026; Og det kan ikke negtes! Det <hi rend="italic">er</hi> forbi alt. H&#x00F8;rte du hvad hun sa: Jeg er f&#x00E6;rdig herinde. Hun er saa &#x00E6;rlig paa sin vis. Det er n&#x00E6;sten det v&#x00E6;rste av alt &#x2026;</p>
+<stage>Stille l&#x00E6;nge, for at si noget sier</stage>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Hvorfor sier De altid Elisabeth?</p>
+</sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<p>Jeg har ikke t&#x00E6;nkt paa det; men jeg tror jeg vet det. Jeg hater det navnet Lisbeth; det er som det er slipt glatt og lite av hundrede simple, tilf&#x00E6;ldige kys.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Men De elsker hende saa.</p>
+</sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<p>De forstaar mig, ikke sandt. For De maa ogsaa ha lidt og elsket meget.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Ja. Jeg forstaar Dem.</p>
+</sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<p>Men hardt er det at elske slik. Jeg t&#x00E6;nker mig for at bedra riktig grundig maa man v&#x00E6;re et mandfolk. Men for at <hi rend="italic">bli</hi> bedrat slik som jeg blir det, maa man ogsaa v&#x00E6;re et mandfolk.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Men Elisabeth &#x2026;</p>
+</sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<stage>ler haanlig.</stage>
+<p>Nei min ven!</p>
+<p>Det er ikke n&#x00F8;dvendig. Hun tr&#x00E6;nger ikke til at bli opreist av dig. Det koster litt at kalde hende Elisabeth. Det koster en bitte liten smule, forstaar du det?</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Jeg tror jeg forstaar.</p>
+</sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<p>Nei, du forstaar ikke. Du bare glir sympatisk efter mig som min egen skygge, fordi du <hi rend="italic">maa</hi> nu. Hvorfor i helvede pryler jeg ikke de tispeinstinktene ut av hende? Det kunde du heller sp&#x00F8;rre om end at <hi rend="italic">forstaa</hi>.</p>
+<stage>Til Aim&#x00E9;e.</stage>
+<p>Men Elisabeth <hi rend="italic">er</hi> saan, skj&#x00F8;nner De. Hun er skapt slik. Jeg klarer ikke at kverke hende. Jeg vilde ikke heller, har ikke lov til det. Det er da <hi rend="italic">hendes</hi>, de forbandede lystene som seiler gjennem hende. Jeg synes de maa ha diktet om hende ute i Indien: Du kan ikke stanse b&#x00F8;lgen og heller ikke bl&#x00E6;sten. Slik er hun. Det som hun f&#x00F8;ler, det gj&#x00F8;r hun. Det synes hun er «riktig». Hun beh&#x00F8;ver bare at stryke sig over panden, saa drysser det av fint, krithvit brusk nedover det gale hun har gjort. Det er «riktig», sier hun.</p>
+<stage>Halvt vendt mot Jan.</stage>
+<p>Men det er mig hun vender tilbake til, det er mig som faar hj&#x00E6;lpe hende, for hun er hj&#x00E6;lpel&#x00F8;s ogsaa, det er mig hun er &#x00E6;rlig mot. Det er mig hun gir mest. Og det er v&#x00E6;rd hele helvedet, forstaar du det?</p>
+<stage>Haardt.</stage>
+<p>Nu kan jeg gaa. Jeg vilde bare ikke at du skulde tillate dig at tro hvadsomhelst om hende.</p>
+<stage>Til Aim&#x00E9;e.</stage>
+<p>Farvel.</p>
+<stage>Gunnar gaar.</stage>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p><hi rend="italic">Han</hi> elsker.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<stage>gaar t&#x00E6;t op til hende.</stage>
+<p>Hvad er det, du har gjort mig til?</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Smerter det dig, at du ikke var avskyelig nok?</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Jeg <hi rend="italic">er</hi> ikke slik. Vi har v&#x00E6;ret venner hele vort liv, jeg og han som gik nu.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Var det ikke dig som var <hi rend="italic">fri?</hi></p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Haan mig bare. Ydmyg mig mere. Jeg har tapt, jeg indr&#x00F8;mmer det. Jeg er ikke mand for at klare det &#x2013; at bryte igjennem den kv&#x00E6;lende ringen av skygger og skj&#x00E6;ndsel ind til din kj&#x00E6;rlighet.</p>
+<p>Aa Gud &#x2013; dere har ydmyget mig. Jeg stod der stille og ynkelig mens han og du talte sammen. Svak og latterlig fordi han var min ven, fordi der var dage og n&#x00E6;tter paa fjeldet og fjorden mellem os, svak og latterlig fordi det som undertiden kaldes noget h&#x00F8;it og dyrebart var mellem os. Men <hi rend="italic">dere</hi> forstod hverandre, dere hadde begge lidt og elsket meget, sa dere. Men har ikke jeg ogsaa lidt: aldrig et &#x00F8;iebliks lykke, altid bitterhet, altid kamp mot det, som lever inde i dig og jeg aldrig kan naa.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Og det vilde du naa ved at pr&#x00F8;ve dig paa din beste vens forlovede?</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Ja.</p>
+<p>Da vilde du stanse. Da vilde jeg ikke f&#x00F8;le mere dette evige piskeslaget fra &#x00F8;inene dine, naar du ser paa mig: Er du bare slik, er du ikke mer?</p>
+<p>Da vilde <hi rend="italic">jeg</hi> v&#x00E6;re gr&#x00E6;nsen. Da vilde <hi rend="italic">jeg</hi> v&#x00E6;re p&#x00F8;belen i dit liv, da vilde du elske mig og da vilde der bli fred; fred, fred, fred.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<stage>stryker ham over haaret.</stage>
+<p>Godnat, Jan.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Vent: Isted da du holdt paa at gaa &#x2026; da Lisbeth var her, sa du, at du gik for ikke at ydmyge mig.</p>
+<p>Mente du noget med det.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Ja.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Hvad mente du?</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Det sier jeg ikke.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Du <hi rend="italic">skal</hi> si det.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Nei.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Du kommer ikke ut herfra, f&#x00F8;r du har sagt det.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Da skal jeg si det. For nu vil <hi rend="italic">jeg</hi> gaa, Jan.</p>
+<stage>Ler pludselig.</stage>
+<p>Kj&#x00E6;re dig.</p></sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Hvad ler du av.</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Jeg husket noget.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Hvad husket du</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Du klarte ikke Lisbeth.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Men hvad var det du husket?</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Noget om en sommernat og en seilbaat ute i skj&#x00E6;rgaarden.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Hvad saa &#x2013;</p>
+</sp>
+<sp who="Aim&#x00E9;e">
+<speaker>AIM&#x00C9;E</speaker>
+<p>Det var Bernhard som hadde Lisbeth f&#x00F8;rste gang.</p>
+</sp>
+<stage>Aim&#x00E9;e gaar. Jan gaar langsomt og mekanisk efter. Han staar stille en liten stund; saa slaar han hodet mot den lukkede d&#x00F8;ren.</stage>
+<stage>TEPPET</stage>
+</div>
+<div type="chapter" subtype="act" n="3">
+<head type="main"><ref target="contents_5" xml:id="chapter_5">TREDIE AKT</ref></head>
+<stage>Jan gaar rundt i v&#x00E6;relset og venter i voldsom nerv&#x00F8;sitet. Lytter og gaar mot d&#x00F8;ren. Lukker op. Berit kommer ind.</stage>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Aa Berit, at du kom. Saa sent som det er.</p>
+</sp>
+<sp who="Berit">
+<speaker>BERIT</speaker>
+<p>Du kan skj&#x00F8;nne jeg kom.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Men var det ikke vanskelig for dig &#x2013;</p>
+</sp>
+<sp who="Berit">
+<speaker>BERIT</speaker>
+<p>Jeg blev bare saa glad, Jan. Over at du bad mig komme. At det er os to nu.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Jeg orket ikke at v&#x00E6;re alene, ser du. Jeg kunde ikke det.</p>
+</sp>
+<sp who="Berit">
+<speaker>BERIT</speaker>
+<p>Var det noget som var ondt at t&#x00E6;nke paa? Vil det hj&#x00E6;lpe om du sa det til mig.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Nei, ingenting var ondt at t&#x00E6;nke paa, ingenting. Jeg f&#x00F8;lte bare at jeg tr&#x00E6;ngte dig.</p>
+<p>S&#x00E6;tt dig der, vil du det?</p>
+<p>Berit?</p>
+</sp>
+<sp who="Berit">
+<speaker>BERIT</speaker>
+<p>Ja?</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Det er ingenting som gj&#x00F8;r ondt. Det er kanske &#x2013;</p>
+<stage>l&#x00E6;gger hodet ned i fanget hendes</stage>
+<p>Berit, si noget til mig. Jeg er likesom litt nerv&#x00F8;s iaften, fort&#x00E6;l mig noget, en saan dum, liten lykkelig ting.</p>
+<stage>Stilhet.</stage>
+</sp>
+<sp who="Berit">
+<speaker>BERIT</speaker>
+<p>Det var krokus i haven i dag. Det er tidlig, Jan. Det er vist en saan dum, liten lykkelig ting.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<stage>smiler litt op mot hende.</stage>
+<p>Ja, Berit.</p>
+</sp>
+<sp who="Berit">
+<speaker>BERIT</speaker>
+<p>T&#x00E6;nk saa er det sommer snart.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Er det ikke godt.</p>
+</sp>
+<sp who="Berit">
+<speaker>BERIT</speaker>
+<p>Jan. Hvor liker du dig bedst om sommeren. Ved sj&#x00F8;en eller paa fjeldet?</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Jeg vet ikke riktig, du &#x2026; Hvad er du mest glad i?</p>
+</sp>
+<sp who="Berit">
+<speaker>BERIT</speaker>
+<p>Jeg tror sj&#x00F8;en. Du vet saanne lyse, stille n&#x00E6;tter og bjerketr&#x00E6;r langs fjorden.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Det maatte nok du v&#x00E6;re glad i.</p>
+</sp>
+<sp who="Berit">
+<speaker>BERIT</speaker>
+<p>Hvad mener du?</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Det er jo slik du er Berit. En saan blond sommerkveld med bjerketr&#x00E6;r langs fjorden, og alt saa stille, stille, stille; en saan aften som vi bestandig l&#x00E6;ngter hjem til; det er jo dig; det er slik jeg er glad i dig.</p>
+</sp>
+<sp who="Berit">
+<speaker>BERIT</speaker>
+<p>Jan.</p>
+<stage>Stryker ham over haaret.</stage>
+<p>Er al kj&#x00E6;rlighet slik, Jan?</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Den er vist ikke det, Berit. Ikke stille sommernat altid. Feberveiret kan staa ind fjorden, dirre gjennem kroppen, og hele tiden presser du ansigtet mot ruten, staar du og vokter og stirrer ut. Du hater det, men du kan ikke la v&#x00E6;re, du <hi rend="italic">maa</hi> stirre paa dem, paa veiene i sj&#x00F8;en.</p>
+</sp>
+<sp who="Berit">
+<speaker>BERIT</speaker>
+<p>Paa veiene i sj&#x00F8;en?</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Ja. Har du ikke sett de str&#x00F8;mstripene som altid blir svarte og tydelige i stygt veir. Som slanger bukter de sig derute, som slanger holder de &#x00F8;inene fast. Der er som livet skal bestaa i at f&#x00F8;lge de stripene, de m&#x00F8;rke stripene i et andet liv. Du har nok ikke v&#x00E6;ret en saan dag ved fjorden. Men de kalder det kj&#x00E6;rlighet, Berit, de kalder det kj&#x00E6;rlighet.</p></sp>
+<sp who="Berit">
+<speaker>BERIT</speaker>
+<p>Men slik er ikke kj&#x00E6;rligheten.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Nei, ikke sandt, slik er den ikke. Naar du er her, da vet jeg at den er l&#x00F8;gn, den andre slags kj&#x00E6;rlighet. Den som bare gj&#x00F8;r ondt. L&#x00F8;gn forstaar du.</p>
+</sp>
+<sp who="Berit">
+<speaker>BERIT</speaker>
+<stage>smilende.</stage>
+<p>Er alt dette mig?</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Ja, alt dette er dig. For det er likesom noget som lyser ut fra dig: at du vet det riktige. At kj&#x00E6;rligheten ikke er bitterhet og fortvilelse, men at kj&#x00E6;rligheten er stilhet og enkelthet og godhet, at den er &#x2013; kj&#x00E6;rlighet &#x2013;</p>
+<stage>Berit stryker ham igjen over haaret. Stille.</stage>
+<p>Berit, jeg blev saa lykkelig for det du sa isted.</p>
+</sp>
+<sp who="Berit">
+<speaker>BERIT</speaker>
+<p>Hvad sa jeg?</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Det er os to nu, sa du. Det er likesom alt det onde er borte, fordi det er os to nu. Det er noget meningsl&#x00F8;st som er forbi &#x2026; Jeg er mig selv igjen, Berit. Det er som jeg faar puste ut efter en ond dr&#x00F8;m. Og saa skal jeg faa begydne, &#x2013; det er det som er saa vidunderlig at livet gir mig lov til det. Jeg er ung, og skal faa v&#x00E6;re lykkelig, lykkelig!</p>
+<p>Alt det andre, det er &#x2013;</p>
+<stage>&#x2013; kaster sig ind til hende. &#x2013;</stage>
+<p>Slutt nu, slutt!</p>
+</sp>
+<stage>Det ringer. Jan reiser sig og gaar n&#x00F8;lende mot d&#x00F8;ren. Det er Gunnar.</stage>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<p>Jeg maa tale med dig.</p>
+</sp>
+<sp who="Berit">
+<speaker>BERIT</speaker>
+<p>Jeg kan gaa ind her.</p>
+<stage>Tar en bok fra hylden og gaar mot sided&#x00F8;ren.</stage>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Jeg skal komme om et &#x00F8;ieblik og befri dig.</p>
+</sp>
+<sp who="Berit">
+<speaker>BERIT</speaker>
+<stage>med et blik mot Gunnar som staar med ryggen til, ved vinduet.</stage>
+<p>Hvad vil han dig?</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Vet ikke, du.</p>
+</sp>
+<sp who="Berit">
+<speaker>BERIT</speaker>
+<stage>slaar pludselig armene om Jan.</stage>
+<p>Jeg er saa glad i dig, Jan. Saa forf&#x00E6;rdelig glad i dig.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Kj&#x00E6;re, kj&#x00E6;re dig.</p>
+<stage>Berit gaar, Jan vender sig mot Gunnar.</stage>
+</sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<p>Du er mangfoldig, Jan</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Hvad er det du vil?</p>
+</sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<p>Berit var her ieftermiddag, da jeg var her f&#x00F8;rste gang. Saa h&#x00E6;ndte der litt heroppe &#x2026; Nu er hun her igjen. Ringen er sluttet.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Du kan spare haanen din nu.</p>
+</sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<p>Du har rett, Jan. Jeg <hi rend="italic">kan</hi> spare den nu.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Hvad mener du?</p>
+</sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<p>Aim&#x00E9;e &#x2013; er det forbi mellem dere to?</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Ja.</p>
+</sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<p>Jeg forstod det bar mot det. Isted da jeg var her. Saa du er f&#x00E6;rdig med hende nu.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>La mig v&#x00E6;re.</p>
+<p>Hvad rett har du til at staa slik og se paa mig og v&#x00E6;re haanlig i stemmen. Den er ikke mer, denne forf&#x00E6;rdelige aftenen. Ja jeg er f&#x00E6;rdig med hende. V&#x00E6;r forn&#x00F8;iet med det. For der er ikke den ting, Gunnar, jeg ikke vilde v&#x00E6;re f&#x00E6;rdig med, for at faa fred nu.</p>
+</sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<p>Og saa er det Berit. Freden, glemselen, den stille lykke, den blonde kloroform.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Hvad du vil.</p>
+</sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<p>Du undervurderer livet, Jan.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Er det fordi du er min ven du staar slik nu?</p>
+</sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<p>Det er ikke saa enkelt, det gir ikke saa lett slip.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Hvad er det, som hele tiden ligger bak ordene dine?</p>
+</sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<p>Den <hi rend="italic">er</hi> ikke mer, denne aftenen, sier du. Kanske er den ikke begyndt, Jan.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Tal da, menneske.</p>
+</sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<p>Jeg har en hilsen til dig.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Hvadslags hilsen.</p>
+</sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<p>Den lille piken til Aim&#x00E9;e er d&#x00F8;d.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<stage>med et skrik.</stage>
+<p>Nei, nei.</p>
+</sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<p>Bernhard har dr&#x00E6;pt hende.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Nei. Det er ikke sandt.</p>
+</sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<p>Det <hi rend="italic">er</hi> sandt.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Jeg vil ikke h&#x00F8;re mere om dette. Jeg vil ikke h&#x00F8;re mere. Hvorledes?</p>
+</sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<p>Han kj&#x00F8;rte fra det selskapet hvor han feiret sin hjemkomst, op til Aim&#x00E9;e. Der var bare en pike i hele huset. Aim&#x00E9;e var der ikke. Aim&#x00E9;e var her.</p>
+<p>Piken lukket op da Bernhard ringte. Han sl&#x00E6;ngte hende tilside og gik ind efter barnet. Tok det med sig ut i bilen. Barnet var bare i natkjolen. Men det kom ikke til at fryse l&#x00E6;nge.</p>
+<p>Det var vist meningen hans at ta det tilbake til selskapet. De hadde snakket om barn og nu vilde han vise at han ogsaa. Han var ikke «&#x00E6;dru».</p>
+<p>Det var utenfor byen at ulykken h&#x00E6;ndte. Med fuld fart gik bilen utfor stupet.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Og begge blev dr&#x00E6;pt. &#x2013;</p>
+</sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<p>Bernhard blev skadet ubetydelig. Barnet blev knust.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Bernhard lever.</p>
+</sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<p>Ja. Sammen blev de to kj&#x00F8;rt til hospitalet. Bernhard hadde faat skulderen av led. Han fortrak ikke saameget som en mine da den blev trukket all right igjen. Det gj&#x00F8;r ganske fabelagtig ondt som bekjendt.</p>
+<p>Like efter han var gaat, kom Aim&#x00E9;e.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Aa Aim&#x00E9;e, Aim&#x00E9;e.</p>
+</sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<p>Det var forf&#x00E6;rdelig at se hende.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Barnet var alt for hende. Bestandig var hun r&#x00E6;d for at miste det. Endnu iaften &#x2013;</p>
+</sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<p>Andre m&#x00F8;dre, de faar liket til at graate over, til at snakke med. Det er ikke saa lite. Men ikke engang det fik Aim&#x00E9;e. Du skj&#x00F8;nner at &#x2013;</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Hold op, hold op, jeg klarer det ikke. Det er som jeg ogsaa er skyld i dette. Hun var saa angst i hele aften, det var barnet hun frygtet for. Men jeg var grusom mot hende, vilde v&#x00E6;re grusommere end han den andre.</p>
+<p>Ja en v&#x00E6;ddekamp i grusomhet mellem os to var det, han maa ha f&#x00F8;lt at der var nogen som kom n&#x00E6;rmere i m&#x00F8;rket bak ham; saa s&#x00E6;tter han fuld fart paa og bilen gaar utfor stupet.</p>
+</sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<p>Skyld og ikke skyld. Aim&#x00E9;e tr&#x00E6;nger dig nu, Jan.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Det er umulig, jeg kan ikke.</p>
+</sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<p>Du kan, Jan.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Nei! Nei! Det er Berit &#x2026;</p>
+</sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<p>Aim&#x00E9;e orker det ikke uten dig.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Det var f&#x00E6;rdig mellem Aim&#x00E9;e og mig. Jeg elsker hende ikke l&#x00E6;nger.</p>
+</sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<p>Du har elsket hende, og det er nok. Hun har sat alt ind paa dig og barnet. Barnet er borte. Nu er det dig som har ansvaret.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Jeg synes jeg kunde gi mit liv for at den lille piken hendes skulde leve; om jeg kunde d&#x00F8; for hendes skyld. Men ikke mit liv som dager og aar, ikke mit liv ilive kan jeg gi. Hun har snakket saa ofte om det, Aim&#x00E9;e, at hvis barnet d&#x00F8;de, da maatte jeg aldrig gaa fra hende. Da maatte hun ha et barn med mig. Men nu er det Berit som eier mig, forstaar du ikke det. Berit, hende er det.</p></sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<p>Har du rett til at d&#x00E6;kke dig bak Berit nu? Dette er ja eller nei. Aim&#x00E9;e maa bort fra liket. Jeg kom for at sp&#x00F8;rre om jeg kunde faa kj&#x00F8;re hende hit. Sier du nei.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Du sa selv jeg maatte v&#x00E6;re forsigtig med Berit.</p>
+</sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<p>Du faar v&#x00E6;lge selv nu. Jeg kan ingenting si.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Hvad har jeg gjort siden dette er h&#x00E6;ndt mig? Skj&#x00E6;bne for skj&#x00E6;bne &#x2013; det skulde jeg ha fundet mig i. Men en skj&#x00E6;bne saa forf&#x00E6;rdelig i overmagt, saa meningsl&#x00F8;s mot det jeg har ment &#x2013;</p>
+</sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<p>Jeg gaar nu, Jan.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Nei vent. Du maa ikke gaa endnu. Hj&#x00E6;lp mig, Gunnar. Er det ingen som kan hj&#x00E6;lpe mig, som kan si hvad der er rett.</p>
+</sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<p>Nei, ingen. Der lekte et barn engang &#x2026; <hi rend="italic">Det</hi> er kanske den <hi rend="italic">Ingen</hi> som kan si hvad der er rett.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<stage>hvisker.</stage>
+<p>Bring hende hit.</p>
+</sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<p>Jeg skal kj&#x00F8;re hende herbort med en gang.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<stage>sl&#x00F8;vt.</stage>
+<p>Det var snilt av dig.</p>
+</sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<p>Alt tat i betragtning, saa er det da ingen grund til at ta det saa forf&#x00E6;rdelig tungt.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Nei det er ikke det. Det er bare det at jeg gaar bort fra noget &#x2013; jeg haabet paa; det er bare det at jeg gaar ind til den evige gl&#x00E6;de; der hvor jeg bestandig skal v&#x00E6;re sammen med mine kj&#x00E6;re, med Bernhard &#x2013; &#x2013; &#x2013;</p>
+</sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<p>Bernhard?</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Bernhard, sp&#x00F8;r du. Vet du ikke hvem det er? Var det ham som dr&#x00E6;pte et barn? Ja, men han ikke saa meget som knydde da de trak armen i ledd. Ham er det, ham som jeg aldrig kommer forbi. Skam og skj&#x00E6;ndsel og sorg &#x2013; alle heter de Bernhard.</p>
+<p>Det var ham som var baandet, det bitre, hatefulde baandet mellem Aim&#x00E9;e og mig. Uroen som altid drev mig til hende. Og nu er han l&#x00E6;nken.</p>
+<p>For han er ikke f&#x00E6;rdig med kj&#x00F8;rselen sin inat, forstaar du. Du sier du skal hente hende, men det er Bernhard som holder om rattet, &#x2013; ser du lysene sope bortover veien, det er hit turen gaar, det er ham som bringer mig gaven, ham som kj&#x00F8;rer mig ind til livet mit. Livet mit. Livet mit!</p>
+<p>Men det er ikke det. Det er ikke ham. Det er bare det ene jeg ikke orker at miste.</p>
+</sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<p>Du tror du t&#x00F8;mmer kalken nu, Jan. Men der er ingen av os som klarer det; allesammen fusker vi litt med kalken.</p>
+<p>Det er Berit, sier du. Men isted var det &#x2026; Aim&#x00E9;e. T&#x00F8;m den, Jan. Jeg synes ikke saa synd paa dig. Kanske smaker den ikke saa beskt allikevel. Kanske husker du vinen fra f&#x00F8;r, liker den kanske. «Kalken er t&#x00F8;mt».</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<stage>tonl&#x00F8;st.</stage>
+<p>Er du ikke hevnet nok nu?</p>
+</sp>
+<sp who="Gunnar">
+<speaker>GUNNAR</speaker>
+<p>Saant maa du ikke si! Husk vi er venner, Jan. Nu gaar jeg efter Aim&#x00E9;.</p>
+<stage>Gunnar gaar.</stage>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<stage>hvisker frem for sig.</stage>
+<p>Kanske, sa han, kanske &#x2026;</p>
+<stage>Gaar nogen skridt fremover, mens han sier bedende.</stage>
+<p>Nei, nei.</p>
+<stage>Berit kommer ind.</stage>
+</sp>
+<sp who="Berit">
+<speaker>BERIT</speaker>
+<p>Hvad var det, Jan?</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Berit &#x2013;</p></sp>
+<sp who="Berit">
+<speaker>BERIT</speaker>
+<p>Det var noget med fru Blich. Jeg f&#x00F8;ler det.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Ja. Den lille piken hendes er d&#x00F8;d.</p>
+</sp>
+<sp who="Berit">
+<speaker>BERIT</speaker>
+<p>Men det er ikke bare det. &#x2013; &#x2013;</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Jo. Du skal tro mig. Det var bare det. Men det var nok.</p>
+</sp>
+<sp who="Berit">
+<speaker>BERIT</speaker>
+<p>Hvad mener du?</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Berit. Der er bare en vei at gaa for mig. Jeg fatter ingenting. Bare dette ene: det er slutt, Berit.</p>
+</sp>
+<sp who="Berit">
+<speaker>BERIT</speaker>
+<p>Jeg forstaar dig ikke.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Hun sitter ved liket, Berit. Rammet av en r&#x00E6;dsel over al forstand. Hun tr&#x00E6;nger mig, klarer det ikke uten.</p>
+</sp>
+<sp who="Berit">
+<speaker>BERIT</speaker>
+<p>Du er glad i hende.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Nei, nei!</p>
+</sp>
+<sp who="Berit">
+<speaker>BERIT</speaker>
+<p>Du sier det i slik angst.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Hvad er det, Berit? Du taler saa underlig, ser saa underlig. Som om du <hi rend="italic">gjennemskuet</hi> mig.</p>
+</sp>
+<sp who="Berit">
+<speaker>BERIT</speaker>
+<p>Det er bare det: jeg <hi rend="italic">vet</hi> noget nu.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Men det du vet, det er galt. Jeg elsker hende ikke. Jeg har aldrig elsket hende. Jeg ber dig ikke om at forstaa det. Men det var livet <hi rend="italic">bak hende</hi> jeg elsket, ikke hende. Og ikke elsket, hatet. Det var avgrunder, helveder av raahet og skj&#x00E6;ndsel som speilet sig i hende. Dem ville jeg l&#x00E6;re at kjende, det var saa billig slik. Dem lekte jeg med, en grusom lek var det: «kj&#x00E6;rlighet». Men nu er leken blit alvor, livet som jeg ropte paa har svaret nu, hjulene er sat igang, et litet barn er grepet og knust, blodet spr&#x00F8;iter mot hende, hjulene velter mot mig, jeg slipper ikke bort. Men jeg har ikke villet det, Berit, jeg har ikke villet det.</p>
+</sp>
+<sp who="Berit">
+<speaker>BERIT</speaker>
+<p>Du taler saa vanskelig. Om hjul som er igang &#x2026; Men hvor er jeg i dette, Jan?</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Aa Berit, du skulde ha v&#x00E6;ret &#x2026;</p>
+</sp>
+<sp who="Berit">
+<speaker>BERIT</speaker>
+<p>Men var det ikke os to nu?</p>
+<stage>Stilhet.</stage>
+<p>Der er saa meget jeg ikke forstaar. Men kanske litt:
+<hi rend="italic">Det andre</hi> &#x2013; det har v&#x00E6;ret hele tiden. Da jeg var her ieftermiddag, og nu. Og det var <hi rend="italic">jeg</hi>, Jan, som blev lekt med, mellem de hjulene du snakker om.</p>
+<stage>Ser pludselig op paa ham.</stage>
+<p>Men var du ikke glad i mig?</p>
+<stage>Saa brister likesom alt for hende.</stage>
+<p>Nei ikke glad, ikke glad i mig.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Berit, elskte min, du maa ikke tale saan.</p>
+<p>Det er dig jeg elsker, du var dr&#x00F8;mmen, haabet, Berit.</p>
+<p>Den f&#x00F8;rste gangen jeg kysset dig, den f&#x00F8;rste gangen det bleke, deilige ansigtet dit l&#x00F8;ftet sig mot mit &#x2013; aa Berit, da var det som et forunderlig skj&#x00F8;nt maaneskin lyste mot mig, alt som var rent i verden, alt som ikke var mig, alt som jeg kunde l&#x00E6;ngte mot og tro paa og frelses ved, straalte fra det. Og jeg visste at det lyset vilde f&#x00F8;lge mig til min sisste dag.</p>
+<p>Aa, kunde jeg faa v&#x00E6;re Endymion som sov i tusen aar under maanen.</p>
+<p>Se ikke saan paa mig, Berit.</p>
+<p>V&#x00E6;r barmhjertig mot mig. Jeg orker ikke mer. Du skal tro mig: aldrig forstod jeg hvad kj&#x00E6;rlighet var f&#x00F8;r jeg m&#x00F8;tte dig.</p>
+</sp>
+<sp who="Berit">
+<speaker>BERIT</speaker>
+<stage>som et ekko.</stage>
+<p>Kj&#x00E6;rlighet.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Ja.</p>
+</sp>
+<sp who="Berit">
+<speaker>BERIT</speaker>
+<p>Jeg trodde kj&#x00E6;rligheten var noget som aldrig endte.</p>
+<p>Nu da jeg gik hit iaften, da t&#x00E6;nkte jeg, at m&#x00F8;rket var ikke ensomt mer, og stjernene kom mig ved, fordi jeg gik til dig. Og mennesker som smilte til hverandre paa gaten, de blev en del av os to, fordi vi elsket.</p>
+<p>Men nu. Hvordan kan jeg gaa ut igjen der nu?</p>
+<p>Det er jo ikke mer.</p>
+<p>Der var jo ikke en imorgen efter det.</p>
+<p>Ingen imorgen.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Jeg slutter ikke at elske dig, fordi om jeg nu maa gaa fra dig.</p>
+</sp>
+<sp who="Berit">
+<speaker>BERIT</speaker>
+<p>Ingen imorgen.</p>
+<p>Du har tat den fra mig, Jan.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Nei, nei &#x2013; bare ikke det.</p>
+</sp>
+<sp who="Berit">
+<speaker>BERIT</speaker>
+<p>Nu vet jeg det. Der er ikke kj&#x00E6;rlighet til.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Hold op, jeg ber dig, se ikke saan paa mig, se ikke &#x2026; Jeg orker ikke at du skal se saa haabl&#x00F8;s, saa fortvilet ut. Der er nok sorg og ulykke i dette om ikke <hi rend="italic">du</hi> skal v&#x00E6;re med. Men du skal ikke v&#x00E6;re med. Berit, det var ikke mig du traf paa gaten idag, jeg gik paa det andre fortauget kanske, vi m&#x00F8;ttes ikke, du er utenfor dette, det er stygt og ondt, men du gik en tur istedenfor. Det er jo bare nogen timer for dig, ikke sandt, &#x2013; du har ikke v&#x00E6;ret her, du er ikke her, det skal ikke v&#x00E6;re dit drama dette h&#x00E6;slige her, det er mit og hendes og hans. Jeg har ikke tat kj&#x00E6;rligheten fra dig, det har v&#x00E6;ret en dr&#x00F8;m, Berit, en dr&#x00F8;m kj&#x00E6;re dig.</p>
+</sp>
+<sp who="Berit">
+<speaker>BERIT</speaker>
+<stage>r&#x00F8;rer som ved et tilf&#x00E6;lde ved jagtkniven.</stage>
+<p>Nei. Det er vist ikke mit, Jan. Ikke mit drama dette.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Du sier det saa underlig &#x2026;</p>
+<stage>Stilhet.</stage>
+<p>Berit, skal dette v&#x00E6;re det sisste mellem os?</p>
+<p>For snart maa du gaa, ser du.</p>
+<p>Aa Berit, naar du gaar, da blir alt m&#x00F8;rke, m&#x00F8;rke for bestandig og aldrig et Iys i m&#x00F8;rket.</p>
+</sp>
+<sp who="Berit">
+<speaker>BERIT</speaker>
+<p>Ja, jeg skal gaa. Men ikke ut til gaten og stjernene. De kjender mig ikke mer. Men gaa maa jeg; fordi der ikke er kj&#x00E6;rlighet til. Men Jan, vil du gj&#x00F8;re noget jeg ber dig om.</p>
+</sp>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Ja, Berit.</p>
+</sp>
+<sp who="Berit">
+<speaker>BERIT</speaker>
+<p>Spil for mig det du spilte ieftermiddag. Bare en liten stund, Jan. Jeg vil gj&#x00F8;re som du sier, vil ikke huske alt dette onde, jeg vil glemme det mens du spiller.</p>
+<p>Men sluk alle lysene f&#x00F8;rst, vil du det. Det er bedre slik. Saa kan jeg sitte her og tro paa alt som jeg trodde paa f&#x00F8;r, tro at du elsker mig, Jan &#x2026;</p>
+<stage rend="indent_3">Jan slukker ved d&#x00F8;ren og s&#x00E6;tter sig ved flygelet. Det sisste lys slukker han derfra. Han begynder at spille: Chopin. Efter en liten stund h&#x00F8;rer vi Berit hviske gjennem musikken:</stage>
+<p>Du som er i Himlene &#x2013;</p>
+<p>Forlat os vor skyld &#x2013;</p>
+<p>I evighet amen &#x2013;</p>
+</sp>
+<stage>Jan spiller videre. Pludselig stanser han.</stage>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Bilen.</p>
+</sp>
+<stage>Jan reiser sig. Man h&#x00F8;rer en bil komme op gjennem gaten. Den kommer n&#x00E6;rmere, dens lanterner seiler ind i v&#x00E6;relset, tilslut fyldes alt av deres skj&#x00E6;rende hvite lys. Jan staar ved flygelet og stirrer ur&#x00F8;rlig mot vinduet. Berit ligger paa gulvet, med blod fra den overskaarne pulsaare.</stage>
+<sp who="Jan">
+<speaker>JAN</speaker>
+<p>Der kom hun, Berit. Du maa gaa nu, min elskede.</p>
+</sp>
+<stage>TEPPET</stage>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Nordisk Kirke-Tidende</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-21"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="014"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1837">1837</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1837_14_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">1837 Nordisk No. 48<lb/>Kirke-Tidende</titlePart>
+</docTitle>
+<byline>udgivet af<lb/>
+	<docAuthor>Jac. Chr. Lindberg</docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition>Femte Aargang</docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace></pubPlace>Maa trykkes. C. Reiersen. Trykt paa Udgiverens Forlag hos C. Græbe &amp; Søn.<lb/>
+<fw type="graphic"/>
+<docDate>5.November. 24 Søndag efter Trinitatis.</docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<head>Kirken og Skolen.</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="spaced"><hi rend="initial">K</hi>irken</hi> skifter aldrig Grund,</l>
+<l>Tusker ei og bytter,</l>
+<l>Men sig selv i allen Stund</l>
+<l>Med sin Armod hytter,</l>
+<l>Med sin Tro og med sin Pagt,</l>
+<l>Med sin Grundvold eengang lagt:</l>
+<l>Ordet af vor Herre!</l>
+</lg>
+<lg>
+<l>Verden elsker altid Nyt,</l>
+<l>Kiedes ved det Gamle,</l>
+<l>Kalder derfor aabenlydt</l>
+<l>Kirkens Mundheld vamle!</l>
+<l>Det er Verdens egen Sag,</l>
+<l>Lad kun os til Herrens Dag</l>
+<l>Holde paa det Gamle!</l>
+</lg>
+<lg>
+<l>Naar da op i Rosen-Sky</l>
+<l>Vi til Herren stige,</l>
+<l>Da skal Alting sig fornye</l>
+<l>I Gud-Faders Rige,</l>
+<l>Men for os til Domme-Dag</l>
+<l>Kirke-Bytte er Bedrag,</l>
+<l>Nyt kun gamle Synder!</l>
+</lg>
+<lg>
+<l>Ei med <hi rend="spaced">Skolen</hi> er det saa,</l>
+<l>Der er Alt i Giære,</l>
+<l>Det kan Verden ei forstaae,</l>
+<l>Dog det maa saa være,</l>
+<l><hi rend="spaced">Kirken</hi> maa, paa Troen bygt,</l>
+<l>Hvile paa sin Grundvold trygt,</l>
+<l>Haabet gaaer i Skole!</l>
+</lg>
+<lg>
+<l>Haabet synke maa i Grav,</l>
+<l>Naar det ei kan stige,</l>
+<l>Ku" med Daad Man Borgerstab</l>
+<l>Vinder i Guds Rige,</l>
+<l>For vi naae til Lysets Hjem,</l>
+<l>Den kun <hi rend="spaced">lever</hi>, som gaaer frem,</l>
+<l>Rækker efter Kronen!</l>
+</lg>
+<lg>
+<l><hi rend="spaced">Kirken</hi> i en Hast forgaaer,</l>
+<l>Naar den Fod vil stytte,</l>
+<l><hi rend="spaced">Skolen</hi>, naar den stille staaer,</l>
+<l>Er kun til Unytte,</l>
+<l><hi rend="spaced">Kirken</hi> skal med Jorden staae,</l>
+<l><hi rend="spaced">Skolen</hi> skal med Solen gaae.</l>
+<l><hi rend="spaced">Riget</hi> at oplyse!</l>
+</lg>
+<lg>
+<l>Gjordes Skolen nagelfast</l>
+<l>I de sidste Dage,</l>
+<l>Følgen rar kun, i en Hast</l>
+<l>Alting gik tilbage;</l>
+<l>Stille kan ei Livet staae.</l>
+<l>Vil dermed ei Lyset gaae,</l>
+<l>Stavres kun i Mørke!</l>
+</lg>
+<lg>
+<l>Derfor, bort med alle Baand</l>
+<l>I vor Kirke-Skole,</l>
+<l>Der ei knyttes af den Haand</l>
+<l>Som kan styre Sols!</l>
+<l>Samme <hi rend="spaced">Herre, Tro og Daab</hi>,</l>
+<l>Samme <hi rend="spaced">Herlighedens Haab</hi>,</l>
+<l>Alting frit for Resten!</l>
+</lg> 
+<pb facs="1837_14_page0002.png"/>
+<fw type="pageNum">755-756</fw>
+<lg>
+<l><hi rend="spaced">Ordet frit</hi> i hver en Mund,</l>
+<l>Som den tor forsvare,</l>
+<l>Naar kun ei fra Kirkens Grund</l>
+<l>Viges aabenbare!</l>
+<l>Øret frit paa samme Grund</l>
+<l>Vende sig fra Mund til Mund,</l>
+<l>Hvor det bedst kan høre!</l>
+</lg>
+<lg>
+<l><hi rend="spaced">Bogen fri</hi> i hver Mands Haand,</l>
+<l>Som den vil oplade.</l>
+<l>Aldrig sig den Hellig-Aand</l>
+<l>Binde kan til Blade,</l>
+<l>Ingen Sjæl forlove maa</l>
+<l>Aanden bedre at forstaae</l>
+<l>End den sidste Pave!</l>
+</lg>
+<lg>
+<l><hi rend="spaced">Livet frit</hi> for Kirke-Tugt,</l>
+<l>Som ei er i Ordet,</l>
+<l>Kun at Skik der holdes smukt.</l>
+<l>Som ved <hi rend="spaced">Konge-Bordet</hi>:</l>
+<l>Blive borte hvem der vil!</l>
+<l>Nærme sig kun ei dertil</l>
+<l>Hvo sin Næste smitter!</l>
+</lg>
+<lg>
+<l>Da vi først i <hi rend="spaced">Aandens</hi> Favn,</l>
+<l>Paa naturlig <hi rend="spaced">Maade</hi></l>
+<l>Voxe kan i <hi rend="spaced">Herrens Navn</hi>,</l>
+<l>I Hans Lys og Naade;</l>
+<l>Hvor da <hi rend="spaced">sand er Tro og Daab</hi>,</l>
+<l>Fugl der bliver af vort Haab,</l>
+<l>Frugt af <hi rend="spaced">Kiærligheden</hi>!</l>
+</lg>
+<lg>
+<l>Hvo ei deler Tro med os,</l>
+<l>Lad med Fred ham fare!</l>
+<l>Vil han lyve da paa Trods,</l>
+<l>Det maa han forsvare!</l>
+<l><hi rend="spaced">Løgn</hi> er falsk at bygge paa.</l>
+<l>Det kan hver en Sjæl forstaae,</l>
+<l>Sandhed skuffer Ingen!</l>
+</lg>
+<lg>
+<l>I vor Herres Jesu Navn</l>
+<l>Derfor vil vi bede.</l>
+<l>Ham til Ære, os til Gavn,</l>
+<l>Gud, om Kirken frede!</l>
+<l>Løse alle <hi rend="spaced">Sogne-Baand</hi>,</l>
+<l>Som ei af den <hi rend="spaced">Hellig-Aand</hi></l>
+<l>Knyttedes i <hi rend="spaced">Ordet</hi>!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+<fw type="graphic"/>
+</div>
+<div>
+<head>Om Lindbergs Bibeloversættelse tilligemed Bemærkninger til nogle steder i de første Kapitler at første Mose - Bog.</head>
+<fw type="graphic"/>
+<head>(Fortsættelse.)</head>
+<fw type="graphic"/>
+<p><hi rend="initial">I</hi>stedetfor "den udstrakte Befæstning" har Lindberg: "Hvælving," hvilket strax anbefalersig som bekjendt Benævnelse paa en bekjendt Ting; thi som en Jorden indesluttende Hvælving viser Himlens Firmament sig for vore Øine. Og naar vi nu i den nye Oversættelse læse, at "Gud gjorde Hvælvingen og skilte imellem Vandene, som ere under Hvælvingen og Vandene, som ere over Hvælvingen," saa faae vi et Begreb om denne Hvælvings Bestemmelse, at den nemlig stal adskille denne Verden fra hvad der er <hi rend="spaced">over</hi> denne Verden. At vor Himmel for Øiesynet har den største Lighed med Vandets Element, stemmer godt overeens med, at der er Vande over Himmelhvælvingen, som vi blot behøve at tænke os gjennemsigtig og ovenover bedækket med Vand. Derfor siger David i den 148de Psalme: "Lover ham Himlenes Himle og de Vande, som ere over Himlene." Vel veed jeg, at dette af Mange bliver anseet som en raa sandselig Forestilling , der som saadan har faaet Plads i Bibelen, men som intet oplyst Menneske kan være bekjendt at beholde. Sine Dine maae man ikke engang da troe, naar Guds aabenbarede Ord bekræfter, hvad man seer, men man stat hellere ester at have forkastet Bibelens bestemte, men som det hedder, sandselige Forestillinger, tabe</p>
+</div>
+</body>
+</text>
+</TEI>

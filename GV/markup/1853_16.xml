@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Det Danske Folk.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-22"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="016"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1853">1853</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1853_16_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main"><lb/>Det Danske Folk.</titlePart>
+	<titlePart type="sub"><lb/></titlePart>
+</docTitle>
+<byline><lb/>
+	<docAuthor></docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<docImprint>
+				<pubPlace></pubPlace>.<lb/>
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Det Danske Folk.</head>
+<lg>
+<l><hi rend="initial">D</hi>er var et Folk paa Jorden,</l>
+<l>Berømt fra Arildstid,</l>
+<l>Skiøn <hi rend="spaced">Freias</hi> Folk i Norden,</l>
+<l>Fred-Disens, mild og blid,</l>
+<l>Heltindens dog tillige,</l>
+<l>Som værged Fredens Rige</l>
+<l>Med Kiærlighedens Magt.</l>
+</lg>
+<lg>
+<l>End grønnes Danevangen</l>
+<l>Hvert Aar ved Bølgen blaa,</l>
+<l>Og liflig Fuglesangen</l>
+<l>Er end at lyde paa,</l>
+<l>Sin Deilighed berøvet</l>
+<l>Er end ei Bøgeløvet</l>
+<l>Og Dannekvindens Blik!</l>
+</lg>
+<lg>
+<l>Men <hi rend="spaced">Folket</hi> paa det Jævne,</l>
+<l>Hvis Varm slog høit derved,</l>
+<l>Naar Ord paa Kongestævne</l>
+<l>Der faldt om Liv og Fred,</l>
+<l>Der faldt om Jern at bære</l>
+<l>Glohedt for Danmarks Ære,</l>
+<l>Det <hi rend="spaced">Folk</hi>, seer end det Soel?</l>
+</lg>
+<lg>
+<l>Hvad heller faldt Landvætten</l>
+<l>I Søvn ved <hi rend="spaced">Ægers Dør</hi></l>
+<l>Saa ind slap</l>
+<l>Saa let, som aldrig før?</l>
+<l>Har han lagt Marken ede,</l>
+<l>Saa <hi rend="spaced">Freias</hi> Folk uddøde</l>
+<l>Til sidste Dannemand?</l>
+</lg>
+<lg>
+<l>Et "<hi rend="spaced">Nei</hi>" af Løvemunde,</l>
+<l>Som spruded Ild med Vrag,</l>
+<l>Fra <hi rend="spaced">Isted</hi> og <hi rend="spaced">Mis sunde</hi></l>
+<l>Dog lød forleden Dag,</l>
+<l>Det Nei med Lyn og Torden</l>
+<l>Gienlød i hele Norden</l>
+<l>Netop fra Ægers Dør!**)</l>
+</lg>
+<lg>
+<l>Det "Nei" paa Kongestævne</l>
+<l>Fik nys sin Efterklang,</l>
+<l>Fra Folket paa det Jævne,</l>
+<l>Rodfast i Danevang,</l>
+<l>. Og altid leve Sjæle,</l>
+<l>Som de har Mund og Mæle,</l>
+<l>Og Mod af Hjertensgrund!</l>
+</lg>
+<p>*) <hi rend="spaced">Ægers Dør</hi> (Havmands-Døren) var <hi rend="spaced">Giderens</hi> oprindelige</p>
+<p>Navn.</p>
+<p>**) <hi rend="spaced">Frederikstad</hi> paa <hi rend="spaced">Eiderens</hi> Bredd.</p>
+<pb facs="1853_16_page0002.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Saa lever da herinde!</l>
+<l>Det <hi rend="spaced">Danske Folk</hi> endnu,</l>
+<l>Kom nys hos Mand og Kvinde</l>
+<l>Netop sig selv ihu,</l>
+<l>Og gik paa Kongestævne</l>
+<l>I Ilden efter Evne</l>
+<l>For <hi rend="spaced">Arv og Odelsret</hi>!</l>
+</lg>
+<lg>
+<l>Til Sællandsfar og Jyden</l>
+<l>Det rumler dog med Brag,</l>
+<l>At Deden er i Gryden,</l>
+<l>Fortabt den Danske Sag,</l>
+<l>Fordømt det bedste Rige,</l>
+<l>Som Folk veed af at sige,</l>
+<l>Til Fald og Undergang!</l>
+</lg>
+<lg>
+<l>Hvi spaaer I dog saa ilde,</l>
+<l>Ulykkes-Fugle end!</l>
+<l>Drak I af Mimers Kilde,</l>
+<l>Som Danmarks gamle Ven?*)</l>
+<l>Fløi I med Odins Ravne</l>
+<l>Omkap til alle Havne</l>
+<l>Og bragde Svar igien?**)</l>
+</lg>
+<lg>
+<l>Aatusinder henrunde,</l>
+<l>Mens Danmarks Rige stod,</l>
+<l>Kun hadet af de Onde,</l>
+<l>Stod fast, for Gud er god,</l>
+<l>Skal staae, saasandt Han lever,</l>
+<l>Trods alle tyske Grever,</l>
+<l>Saalænge Han det vil.</l>
+</lg>
+<lg>
+<l>Han Danevang den lille</l>
+<l>Har lukt med Bølgen blaa,</l>
+<l>Han er tilgavns den Milde,</l>
+<l>Og elsker meest de Smaa,</l>
+<l>Han staber Heltearme,</l>
+<l>Til Værgemaal med Varme,</l>
+<l>Naar Folk giør dem Fortræd.</l>
+</lg>
+<lg>
+<l>Det toner over Voven,</l>
+<l>Ia. over Tidens Hav</l>
+<l>Du lille Flok i Skoven!</l>
+<l>Din Mark dig Almagt gav,</l>
+<l>Du tør ei ved at frygte</l>
+<l>For Trudsel og for Rygte,</l>
+<l>Din <hi rend="spaced">Stjerne</hi> slukkes ei.</l>
+</lg>
+<lg>
+<l>Saa ofte Soel oprinder,</l>
+<l>Den sees i Morgengry,</l>
+<l>Og hvergang Soel forsvinder,</l>
+<l>Den tindrer mildt paany,</l>
+<l>Og hjemme har herinde</l>
+<l>Et yndigt Aften-Minde,</l>
+<l>Et deiligt Morgen-Haab!</l>
+</lg>
+<lg>
+<l>Frisk op da, Mod i Bringe,</l>
+<l>Skiøn <hi rend="spaced">Freias</hi> Folk i Nord</l>
+<l>Giv Sorgen Fuglevinge!</l>
+<l>Kast Frygten overbord!</l>
+<l>Vist Taaren af dit Die!</l>
+<l>Vent Hjelpen fra det Høie!</l>
+<l>Guds Lyst er Liv og Fred!</l>
+</lg>
+<lg>
+<l>Nu grønnes Danevangen</l>
+<l>I Mai ved Bølgen blaa,</l>
+<l>Og liflig Fuglesangen</l>
+<l>Er nu at lyde paa,</l>
+<l>Og Danmarks Riges Ære</l>
+<l>Skal tusind Snekker bære</l>
+<l>Paa Hav fra Slægt til Slægt!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+<p>Den Danske Forening i Kjøbenhavn holdt sit første almindelige Mode i Casino den 3die Mai 1853. Forinden havde der paa de fra Kjøbenhavn indkomne Indbydelser tegnet sig omtrent 800 Medlemmer for et aarligt Bidrag af omtrent 400 Rbd.</p>
+<p>Den Tale, hvormed Pastor Grundtvig aabnede Modet, vil blive meddelt i næste Nr. af "Dannebrog", hvilket udkommer om et Par Dage. I Regelen vil der ellers udgaa et Nr. hver Fredag. - I et af de følgende Nrr. skalder blive giort nærmere Rede for Medlemsantallet; foreløbig skulle vi kun bemærke, at Bestyrelsen allerede i den Henseende har modtaget en Del glædelige Meddelelser fraforskiellige Egne af Landet.</p>
+<p>Trykt hos I. C. Scharling.</p>
+<p>*) <hi rend="spaced">Mimers Kilde</hi> betyder Erfarings-Lærdommen fra forrige Tider, og Odin, som drak deraf, betyder Danmarks Skyts-Aand.</p>
+<p>**) <hi rend="spaced">Odins Ravne</hi>, som daglig bragde ham Bud fra hele Verden, betyder Kundskaben om Verdens Lob for Øieblikket.</p>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

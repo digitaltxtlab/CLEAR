@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Dansk Kirketidende.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-25"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="019"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1857">1857</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1857_19_page0001.png"/>
+			<fw type="pageNum">813-814</fw>
+				<docTitle>
+	<titlePart type="main">Dansk Kirketidende.<lb/></titlePart>
+	<titlePart type="sub"><lb/></titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<epigraph>
+<p><hi rend="bold">Indhold</hi>: N. F. S. <hi rend="spaced">Grundtvig</hi>: Psalme, Med Melodi af C. <hi rend="spaced">Barnekow</hi>. — Fr. <hi rend="spaced">Helweg</hi>: Endnu et Ord om Fader Vor. — <hi rend="spaced">Christiani</hi>, det sidste Ord. — Fra Sverig. —Selskab til Udbredelse af gudelige Smaaskrifter. — Bog-Nyt. — Entledigelse og ledigt Embede.</p>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition>Første Sendag i Advent 29 November.</docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace></pubPlace>.
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Op til Guds Huus vi gaae</head>
+<fw type="graphic"/>
+<lg>
+<l>Op til Guds Huus vi gaae</l>
+<l>Og banke dristig paa:</l>
+<l>„Luk op", det er vor Bon!</l>
+<l>Vi leder om Guds Son.</l>
+</lg>
+<lg>
+<l>Som Lynild farer brat,</l>
+<l>Os Døren er opladt,</l>
+<l>I Daab med Aand og Vand,</l>
+<l>Her staaer vor Frelsermand.</l>
+</lg>
+<lg>
+<l>Vor Sjæl er døv og stum</l>
+<l>For Evangelium,</l>
+<l>Men høres vil Guds Ord</l>
+<l>Og fores trindt paa Jord.</l>
+</lg>
+<lg>
+<l>Guds Ord til Sjæl og Krop</l>
+<l>Han siger selv: luk op!</l>
+<l>„Afsiger Løgnen Du,</l>
+<l>Og troer Guds Sandhed nu?"</l>
+</lg>
+<lg>
+<l>Det er hans Ephata,</l>
+<l>Og Tungen svarer ja!</l>
+<l>Guds Røst, som Almagts Haand,</l>
+<l>Os skar for Tungebaand.</l>
+</lg>
+<lg>
+<l>Saa lærer os Guds Son</l>
+<l>Sin egen Barnebon,</l>
+<l>Indaander i vort Bryst</l>
+<l>Sin egen Barnerøst.</l>
+</lg> 
+<pb facs="1857_19_page0002.png"/>
+<fw type="pageNum">815</fw>
+<lg>
+<l>Guds Søn med Faderfavn</l>
+<l>Os giver Bornenavn,</l>
+<l>Gud siger om vor Bøn:</l>
+<l>Den kommer fra min Søn.</l>
+</lg>
+<lg>
+<l>Guds Aand vi har i Pant,</l>
+<l>Saa det er vist og sandt,</l>
+<l>Vi er Guds Borneflok,</l>
+<l>Han har til Alle nok.</l>
+</lg>
+<lg>
+<l>Fuldt op vor Fader huld</l>
+<l>Har af det rode Guld:</l>
+<l>Af Hjertens-Kiærlighed,</l>
+<l>Med Fryd, med Liv og Fred.</l>
+</lg>
+<lg>
+<l>I Jesu Christi Navn,</l>
+<l>Han tager os i Favn,</l>
+<l>Og kysser i os ind</l>
+<l>Et himmelsk Barnesind.</l>
+</lg>
+<lg>
+<l>Thi synger vi i Chor</l>
+<l>Med Engle: Fred paa Jord!</l>
+<l>Gud Fader Nat og Dag</l>
+<l>I os har Velbehag!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

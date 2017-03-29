@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Biskop Balle, den kristelige Olding</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2009-10-03"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="016"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1809">1809</date>
+			</publicationStmt>
+			 <sourceDesc>
+			  <p>[Source decription]</p>
+			 </sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1809_16_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Til.<lb/>
+Biskop Balle,<lb/>
+den kristelige Olding,<lb/>
+paa hans Fødsel s dag<lb/>
+den 12te October 1809.</titlePart>
+</docTitle>
+				<fw type="graphic"/>
+				<epigraph>
+<p>Oldinge, som vel forestaa, skulle holdes dobbelt Ære værd, inest de som arbeide i Ordet og Lærdommen.</p>
+<p><hi rend="align(right)">Paulus.</hi></p>
+				</epigraph>
+				<fw type="graphic"/>
+				<docImprint>
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<pb facs="1809_16_page0001.png"/>
+<fw type="pageNum">95-96</fw>
+<lg>
+<l>Med skærpet Blik at trænge dybt i Livet,</l>
+<l>Erkiende hvert et Guddoms lyse Spor</l>
+<l>Som knytter Himlen til den faldne Jord -</l>
+<l>Blev Skjalden fra det Høie naadig givet.</l>
+<l>Og skulde han da ei opløfte Røsten</l>
+<l>Naar han paa Jorden skuer Ædles Gang?</l>
+<l>Saa hilses jo den gyldne Sol i Østen</l>
+<l>Af Himlens Fugle med en liflig Sang.</l>
+</lg>
+<lg>
+<l>At se en Mand, som gennem Verdensvrimlen</l>
+<l>Sig mandig skød og kæmpede for Gud,</l>
+<l>Hvis Lyst og Lov var Jesu Kristi Bud,</l>
+<l>Hvis Borgerskab var altid højt i Himlen;</l>
+<l>Som vakte Slægten med sin Stemmes Torden,</l>
+<l>Og gav det angergivne Hjerte Fred;</l>
+<l>Det er at se et Skin af Gud paa Jorden,</l>
+<l>Det er et Syn, som Engle glædes ved.</l>
+</lg>
+<lg>
+<l>Den Mand har Danmark set i Dig, du Gæve!</l>
+<l>Og skuer end som Olding Dig med Lyst,</l>
+<l>Dit Minde bygger i hver Ædlings Bryst,</l>
+<l>Og for Dit Held til Gud sig Bønner hæve:</l>
+<l>De løfte sig, som min, fra dybe Hjerte,</l>
+<l>Nedbede Held for Dig og for Din Æt,</l>
+<l>Nedbede Lindring for Din indre Smerte,</l>
+<l>At rene Hjerte og maa vorde let!</l>
+</lg>
+<lg>
+<l>Din Fødselsdag henskrider mild og rolig,</l>
+<l>Ei luende som i den unge Vaar,</l>
+<l>Thi Sommeren maa dø i Efteraar.</l>
+<l>Men nærmende sig Vinteren fortrolig.</l>
+<l>O maatte nu Din sidste Tid henile</l>
+<l>Saa ren og kølig, som Din Dag i Høst,</l>
+<l>Indtil engang, i dybe, søde Hvile</l>
+<l>Dig skænkes Det, som var Dit Haab, Din Trøst!</l>
+</lg>
+<p><hi rend="align(right)">Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

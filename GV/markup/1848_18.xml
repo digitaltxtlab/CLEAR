@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>En lystig ny Vise</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-16"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="018"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1848">1848</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1848_18_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">En lystig ny Vise</titlePart>
+	<titlePart type="sub">om<lb/>Hr. Brangel som løb sin Vei<lb/>fra<lb/>de fire Millioner.</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace>Kjöbenhavn</pubPlace>Trykt hos J. D, Ovist, Bog- og Nodetrykker.<lb/>
+<fw type="graphic"/>
+<docDate>1848</docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<pb facs="1848_18_page0002.png"/>
+<fw type="pageNum"></fw>
+<head>Mel. Vi Sømænd giør ei mange Ord.</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">H</hi>r. <hi rend="bold">Wrangel</hi> er en Narrifas,</l>
+<l>Det maa han selv bekjende,</l>
+<l>Han løb af Landet, rettilpas,</l>
+<l>Med Ingenting ihænde;</l>
+<l>Om ham det synges skal i Nord,</l>
+<l>Vel fremfor nogen Anden,</l>
+<l>At gik han ikke fra sit Ord,</l>
+<l>Saa gik han fra Forstanden!</l>
+</lg>
+<lg>
+<l>Naar Søndag sidst i Maien kom,</l>
+<l>Han sang i hole Toner,</l>
+<l>Med os han vilde nappes om</l>
+<l>De fire <hi rend="bold">Millioner</hi>;</l>
+<l>Den Søndag kom og vi kom med,</l>
+<l>Men han var ei at finde,</l>
+<l>Saa hovedkulds foer han afsted</l>
+<l>Med alle tydske Vinde!</l>
+</lg> 
+<pb facs="1848_18_page0003.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Vi kom med Nordens blanke Staal,</l>
+<l>Og vægtige Kanoner,</l>
+<l>Det vilde vi lagt i hans Skaal</l>
+<l>For fire <hi rend="bold">Millioner</hi>,</l>
+<l>Men han var løbet fra sit Ord,</l>
+<l>Vel ned til Markens Ende,</l>
+<l>Og Løgn kan ingen Hest paa Jord</l>
+<l>Gud sige Mand oprende!</l>
+</lg>
+<lg>
+<l>Vi Gjenvei skiød til Sundeved,</l>
+<l>Saa slyve kan Søhaner,</l>
+<l>Men fandt med al vor Ivrighed</l>
+<l>Dog kun Hannoveraner;</l>
+<l>Dem gav vi, stiondt det var kun lidt,</l>
+<l>Alt hvad de kunde bære,</l>
+<l>Og derfor de bekjendte frit,</l>
+<l>Vi gav dem Hug med Ære!</l>
+</lg>
+<lg>
+<l>Vi bad dem hilse fra vor Hær,</l>
+<l>Som <hi rend="bold">Tydsken</hi> havde savnet,</l>
+<l>Og tænkt, at nu saa noget nær</l>
+<l>Den var kun til af Navnet,</l>
+<l>De vilde gierne ledt den op,</l>
+<l>De mangled kun en Flaade,</l>
+<l>Men nu de kan, fra Taa til Top,</l>
+<l>Ved <hi rend="bold">Aabenraa</hi> den skaade.</l>
+</lg> 
+<pb facs="1848_18_page0004.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Vi bad dem hilse först og sidst</l>
+<l>Om pommerske Hr. <hi rend="bold">Wrangel</hi>:</l>
+<l>Hvor han løb fra, vel her og hist</l>
+<l>Man sporede lidt Mangel,</l>
+<l>Men dog, til Lykke, ei paa Mod,</l>
+<l>Ei heller paa Kanoner,</l>
+<l>Gaa Smert til Tjeneste ham stod</l>
+<l>For fire <hi rend="bold">Millioner</hi>!</l>
+</lg>
+<lg>
+<l>Ja, Smæk for Skillingen i Nord,</l>
+<l>Det er den gamle Regning,</l>
+<l>Det <hi rend="bold">Tossegreve</hi> fik af <hi rend="bold">Thor</hi>,</l>
+<l>Det hedder Hammertegning;</l>
+<l>Og hvad vi hinner ei idag,</l>
+<l>Vi moder vel imorgen,</l>
+<l>Saa ved et <hi rend="bold">Nordisk</hi> Hammerslag</l>
+<l>Forvindes Danesorgen l</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

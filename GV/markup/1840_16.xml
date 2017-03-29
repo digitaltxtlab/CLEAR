@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Til Gotfred af Ghemens Skaal</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-22"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="016"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1840">1840</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1840_16_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Til<lb/>Gotfred af Ghemens<lb/>Skaal<lb/>den 24de Juni 1840.</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<docImprint>
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head><hi rend="italic">Mel. </hi>Vi Sömænd giör ei mange Ord.</head>
+<lg>
+<l><hi rend="initial">F</hi>ra <hi rend="bold">Ghemen</hi> kom en Hædersmand,</l>
+<l>Han havde Nyt at bringe,</l>
+<l>Den Tidende i Daneland</l>
+<l>Flöi rundt paa Rygtets Vinge,</l>
+<l>At kommet var nu ogsaa hid</l>
+<l>En Mester af de Sære,</l>
+<l>Som trykde Sort paa Hvidt med Flid</l>
+<l>Saa tit det skulde være.</l>
+</lg>
+<lg>
+<l>Han holdt nu Raad i <hi rend="bold">Kiøbenhavn</hi></l>
+<l>Med alle dem, han kiendte,</l>
+<l>Hvad allerforst til fælles Gavn</l>
+<l>Med Flid han skulde prænte:</l>
+<l>En raadte halvveis til <hi rend="bold">Latin</hi>,</l>
+<l>En Anden heelt og ganske,</l>
+<l>En tænkte paa lidt Nyt fra <hi rend="bold">Rhin</hi>,</l>
+<l>Men Ingen paa det <hi rend="bold">Danske</hi>.</l>
+</lg> 
+<pb facs="1840_16_page0003.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Mens ivrig saa de skifted Ord,</l>
+<l>Og det for Ören döve,</l>
+<l>Tilbyes kom Broder <hi rend="bold">Niels</hi> fra <hi rend="bold">Soer</hi>,</l>
+<l>Sin Lykke der at pröve;</l>
+<l>Lidt hovedkulds han traadte ind</l>
+<l>Til Prænteren nykommen,</l>
+<l>Og trak et röget Kalveskind</l>
+<l>Beskrevet op af Lommen.</l>
+</lg>
+<lg>
+<l>Der rimet var om Hedenold,</l>
+<l>Saa godt, man kunde samle,</l>
+<l>Om Kongerne fra <hi rend="bold">Dan</hi> og Skiold</l>
+<l>Til <hi rend="bold">Christian</hi> den <hi rend="bold">Gamle</hi>,</l>
+<l>Det var saa jævnt, det gik saa glat,</l>
+<l>At alle ægte <hi rend="bold">Danske</hi>,</l>
+<l>Som saae den Bog og fik den fat,</l>
+<l>Fik Lyst deri at granske.</l>
+</lg>
+<lg>
+<l><hi rend="bold">Rim - Krøniken</hi> og Prisen vandt</l>
+<l>Fra lærde Mænd og Klerke,</l>
+<l>At af den vilde gaae galant,</l>
+<l>Det kunde <hi rend="bold">Gotfred</hi> mærke;</l>
+<l>Af Prænte - Konsten i vort Land</l>
+<l>Det blev den förste Gröde,</l>
+<l>Og atter ved en Hædersmand</l>
+<l>Den nys stod op af Dikle.</l>
+</lg> 
+<pb facs="1840_16_page0004.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Thi vil det findes ret tilpas,</l>
+<l>Saavidt som jeg har mærket,</l>
+<l>At tomme her et Minde-Glas</l>
+<l>For <hi rend="bold">Mesteren</hi> og <hi rend="bold">Værket</hi>;</l>
+<l>Ei drikkes kan en bedre Skaal</l>
+<l>Af Folk i Fædrelandet,</l>
+<l>End den, hvori vort Modersmaal</l>
+<l>Sin Södme-Kalk har blandet.</l>
+</lg>
+<lg>
+<l>Gid længe blomstre maa i Vang</l>
+<l>Den Konst med Frugter slige,</l>
+<l>Og prises höit med Skialdesang</l>
+<l>I hele Danmarks Rige!</l>
+<l>Da strömmer ud fra Mund og Pen</l>
+<l>Vort Modersmaal det Sode,</l>
+<l>Og giennem Oret ind igien</l>
+<l>Til Frugtbarhed og Gröde,</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

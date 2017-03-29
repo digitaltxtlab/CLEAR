@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Om Blokeringen af alle de Preussiske Havne.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-25"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="012"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1848">1848</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1848_12_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Om Blokeringen af alle de Preussiske Havne.</titlePart>
+	<titlePart type="sub"></titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<docImprint>
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Om Blokeringen af alle de Preussiske Havne.</head>
+<p><hi rend="initial">M</hi>an taler i Byen om <hi rend="bold">Blokeringen</hi> af alle de <hi rend="spaced">Preussiske</hi> Havne, som om det var et Mesterstykke og en Heltegierning, der ret skulde lade Fjenden fole vor Styrke, og dog er det i mine Øine et Raad, vi aldrig skulde give os selv, men kun vor arrigste Fjende, naar han var i vort Sted. Kun naar Fjenden har en Søstyrke liggende i Havnen, som man nødig vil have ud, eller naar man vil udhungre en Ø eller Fæstning, som skulde have sin Tilførsel tilsøes, kun da kan det efter mine Tanker undertiden lønne Umagen at spærre Fjendens Havne, men her, hvor ingen af Delene er Tilfældet, vidste jeg ikke at optænke nogen bedre Maade til at gjøre den <hi rend="bold">Dunste</hi> Sømagt unyttig for os og uskadelig for <hi rend="bold">Fjenden</hi>, end at binde den ved Blokeringer, som uberegnelig stadede vor egen Handel og egentlig kun hindrede <hi rend="bold">Fjendens</hi> Handelsskibe fra at løbe ud og blive taget af os. Hertil kommer endnu, at <hi rend="bold">Danmark</hi> vist ikke kan undvære de store Summer, der uden Renter vilde gaae til Blokeringen i en saadan Udstrækning, medens vi ovenikjøbet rimeligviis vilde derved rage uklar med de andre <hi rend="bold">Sømagter</hi>.</p>
+<p>Hvordan det under saadanne Omstændigheder kan synes <hi rend="bold">Kjøbenhavnerne ypperligt</hi>, at vor Sømagt, istedetfor som vor Landmagt sukker efter, at medvirke kraftig til Krigens Førelse, blev ligesom lagt i Garnison udenfor alle Fjendens Havne, det er mig saa ubegribeligt, at jeg maa skrive disse Linier, blot for at faae at vide, om det er dem eller mig, der er staaet med mageløs Blindhed; thi <hi rend="bold">Blokeringen</hi> af alle <hi rend="bold">Preussiske</hi> Havne er aabenbar for os saa stor, kostbar og (Morende en Forholdsregel, at enten maa det soleklart være det bedste eller det er indlysende det sletteste, vi under denne Krig kunne bruge saagodtsom hele vor Sømagt til!</p>
+<p>For Resten synes mig, den Danske Sømagt kunde nu bruges godt til Handelens, Frihedens og vor egen Fordeel, naar den viste sig for Dantzig og Stettin, som er nær ved at forgaae af Toldvæsenet, og tilbød dem Fred, fri Seilads og al mulig Hjælp, naar de vilde aflaste det Brandenborgske Aag og erklære sig for fri Aansestæder, som de var for.</p>
+<p>Den 3. Mai 1848.</p>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+<p>Trykt hos J. D. Qvist.</p>
+</div>
+</body>
+</text>
+</TEI>

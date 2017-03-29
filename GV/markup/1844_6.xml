@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Skov-Hornets Klang</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2009-12-21"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="006"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1844">1844</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1844_6_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Skov-Hornets Klang<lb/></titlePart>
+	<titlePart type="sub">mellem<lb/>Skamlings-Bankerne,</titlePart>
+</docTitle>
+<byline>betegnet af<lb/>
+	<docAuthor>Nik. Fred. Sev. Grundtvig.</docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace>Kiøbenhavn.</pubPlace>.<lb/>Forlagt af Universitetsboghandler C. A. Reitzel. <lb/>Trykt i Bianco Lunos Bogtrykkeri.<lb/>
+<fw type="graphic"/>
+<docDate>1844.</docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<pb facs="1844_6_page0002.png"/>
+<fw type="pageNum"></fw> 
+<pb facs="1844_6_page0003.png"/>
+<fw type="pageNum"></fw>
+<head>Rune-Bladet</head>
+<head>med</head>
+<head>„Christian den Ottende"</head>
+<head>og</head>
+<head>Det Unge Danmark.</head>
+<lg>
+<l><hi rend="initial">S</hi>nekken under klaret Sky,</l>
+<l>Paa den blanke Vove,</l>
+<l>Glider ind, i Morgengry.</l>
+<l>Under grønne Skove,</l>
+<l>Bringer med til <hi rend="spaced">Axelstad</hi></l>
+<l>Bredt og boldt et Bøge-Blad,</l>
+<l>Tæt med Runer ristet!</l>
+</lg>
+<lg>
+<l>Bladet sender <hi rend="spaced">Nordens Aand</hi>,</l>
+<l>Fuldt af Runer ramme,</l>
+<l>Ved det <hi rend="spaced">unge</hi> Danmarks Haand,</l>
+<l>Til den <hi rend="spaced">gamle</hi> Stamme,</l>
+<l>Risted dem paa Bølgen blaa.</l>
+<l>Hvor Aartusinder ham saae,</l>
+<l>Svæve over <hi rend="spaced">Sundet</hi>!</l>
+</lg> 
+<pb facs="1844_6_page0004.png"/>
+<fw type="pageNum">4</fw>
+<lg>
+<l>Snekken under <hi rend="spaced">Dannebrog</hi>,</l>
+<l>Den er god at kiende,</l>
+<l><hi rend="spaced">Skjalden</hi> graa, see hist i Krog,</l>
+<l>Mellem <hi rend="spaced">Ungersvende</hi>!</l>
+<l>Saa med <hi rend="spaced">Odin</hi> er om Bord</l>
+<l>Gamle <hi rend="spaced">Danmark</hi>, med et Ord,</l>
+<l>Aandelig <hi rend="spaced">forynget</hi>!</l>
+</lg>
+<lg>
+<l>Snekken skrider under Øe,</l>
+<l>Fuld af <hi rend="spaced">Hurra-Tanker</hi>,</l>
+<l>Ladning let paa <hi rend="spaced">Øster-Sø</hi>,</l>
+<l>Kom fra <hi rend="spaced">Skamlings-Banker</hi>.</l>
+<l>Hvor. med <hi rend="spaced">Hurra</hi> høit i Sky,</l>
+<l>Gylden-Aarets Morgen-Gry</l>
+<l>Hilste <hi rend="spaced">Folke-Munden</hi>!</l>
+</lg>
+<lg>
+<l>Det var <hi rend="spaced">Danmarks</hi> Folke Mund,</l>
+<l>Fuld af Folke-Sange,</l>
+<l>Hurra-Raab af Hjertens Grund,</l>
+<l>I de grønne Vange,</l>
+<l>Folke-Nunden fra igaar,</l>
+<l>Stum i mange hundred Aar,</l>
+<l>Nys med Sang oplukket;</l>
+</lg>
+<lg>
+<l><hi rend="spaced">Dan og Angel</hi> Brødre var,</l>
+<l>Som de sjelden findes,</l>
+<l>Pagten af det Broder-Par</l>
+<l>Den skal evig mindes;</l>
+<l>Lovning god. med Haand og Mund:</l>
+<l>Last og Brast i allen Stund</l>
+<l>Staae vi med hinanden!</l>
+</lg> 
+<pb facs="1844_6_page0005.png"/>
+<fw type="pageNum">5</fw>
+<lg>
+<l><hi rend="spaced">Dan og Angel</hi>, som ifjor</l>
+<l>Lagde Mund-Lag sammen,</l>
+<l>Det skal spørges trindt i <hi rend="spaced">Nord</hi>,</l>
+<l>Giør det end med Gammen,</l>
+<l>Lode ei med Lime-Stang,</l>
+<l>Nide rapt med Kæmpe-Sang,</l>
+<l>Over <hi rend="spaced">Skamlings Banker</hi>!</l>
+</lg>
+<lg>
+<l><hi rend="spaced">Skamling-Høiens</hi> Venne-Brev,</l>
+<l>Til det <hi rend="spaced">Danske</hi> Hjerte,</l>
+<l>Hurtig Kæmpe-Aanden skrev,</l>
+<l>Under <hi rend="spaced">Freyas</hi> Kierte;</l>
+<l>Runen "<hi rend="spaced">Odin</hi> Nynke-Bryn"</l>
+<l>Ord som Ild, ja, Ord som Lyn,</l>
+<l>Billedlig betegner!</l>
+</lg>
+<lg>
+<l>Ordet lød, som Torden-Brag</l>
+<l>Ruller over Skoven,</l>
+<l>Ramde og som Torden-Slag,</l>
+<l>Kasted Glands paa Voven,</l>
+<l>Tændte Baal i Kæmpe-Favn,</l>
+<l>Tændte <hi rend="spaced">Skamling-Høiens</hi> Bavn</l>
+<l>Med de <hi rend="spaced">klare</hi> Luer!</l>
+</lg>
+<lg>
+<l><hi rend="spaced">Urda-Svanens</hi> Hjerte-Røst,</l>
+<l>Paa den Danske Tunge,</l>
+<l>Lyde skal med Ungdoms-Lyst,</l>
+<l>Dødens Frygt bortsjunge.</l>
+<l>Synge Liv og slynge Lyn,</l>
+<l>Skiænke de <hi rend="spaced">Blindfødte Syn</hi>,</l>
+<l><hi rend="spaced">Og</hi> de<hi rend="spaced"> Stumme Mæle</hi>!</l>
+</lg> 
+<pb facs="1844_6_page0006.png"/>
+<fw type="pageNum">6</fw>
+<lg>
+<l>Ryst din Vinge, <hi rend="spaced">Odins Navn</hi>!</l>
+<l>Glem nu ei dit Galder!</l>
+<l><hi rend="spaced">Skamling-Høiens</hi> Aften-Bavn</l>
+<l>Græder Guld for <hi rend="spaced">Balder</hi>,</l>
+<l>Løser <hi rend="spaced">Odins</hi> Søn fra Hel,</l>
+<l>Skaber <hi rend="spaced">Nordlys-Dag</hi> i Kveld</l>
+<l>Over <hi rend="spaced">Dovres</hi> Isse!</l>
+</lg>
+<lg>
+<l>Seer du det, du Blindebuk!</l>
+<l>Lyst der blev i <hi rend="spaced">Skoven</hi>!</l>
+<l>Hører du det nu, Kuk-Kuk!</l>
+<l><hi rend="spaced">Sang</hi> der blev paa <hi rend="spaced">Voven</hi>:</l>
+<l><hi rend="spaced">Svane-Sang</hi> paa Bølgen blaa!</l>
+<l>Tusind Aarer Takten slaae</l>
+<l>I de smutte Vande!</l>
+</lg>
+<lg>
+<l><hi rend="spaced">Tydsker</hi>, med den stolte Hu,</l>
+<l>Og de stive Skanker!</l>
+<l>Seer du, Gnister springe nu Over <hi rend="spaced">Skamlings Banker</hi>!</l>
+<l>Vogt dig vel! thi faaer de Sving,</l>
+<l>Lukt de fare med et Spring</l>
+<l>Over <hi rend="spaced">Dannevirke</hi>!</l>
+</lg>
+<lg>
+<l>Vogt dig vel l det er til Thor,</l>
+<l>Du har kastet Handske;</l>
+<l>Til dig lyner det fra Nord:</l>
+<l>Her er Holger Danske!</l>
+<l>Keiser <hi rend="spaced">Rødskjæg</hi>! har du Lyst,</l>
+<l>Bryd en Landse, prøv en Dyst,</l>
+<l>Under <hi rend="spaced">Dannevirke</hi>!</l>
+</lg> 
+<pb facs="1844_6_page0007.png"/>
+<fw type="pageNum">7</fw>
+<lg>
+<l>Har du <hi rend="spaced">Piners Dienbryn</hi>,</l>
+<l>Har du <hi rend="spaced">Hrungner-Kiøllen</hi>;</l>
+<l>Vi har <hi rend="spaced">Thrudvangs</hi> klare Lyn,</l>
+<l>Lys paa <hi rend="spaced">Dalby-Møllen</hi>;</l>
+<l>Vi har <hi rend="spaced">Mjølner Asa-Kraft</hi>,</l>
+<l>Trods det korte Hammerskaft</l>
+<l>Vi slaae Dal vaa <hi rend="spaced">Dovre</hi>!</l>
+</lg>
+<lg>
+<l>Vi har Græs og vi har Korn.</l>
+<l>Vi har gode Heste,</l>
+<l>Vi har ogsaa <hi rend="spaced">Gjallar-Horn</hi>,</l>
+<l>Blik paa "fælles Bedste";</l>
+<l>Lyder Hornet Holt i Sky,</l>
+<l>Hele <hi rend="spaced">Norden</hi> staaer paany</l>
+<l>Nær ved <hi rend="spaced">Dannevirke</hi>!</l>
+</lg>
+<lg>
+<l>Nid ei meer din høie Hest!</l>
+<l>Han slaaer af imorgen;</l>
+<l><hi rend="spaced">Freden</hi> huer Heimdal bedst,</l>
+<l>Holt paa Klippe-Borgen!</l>
+<l>Naar du hører Lurens Don,</l>
+<l>Vuk da kiønt for <hi rend="spaced">Odins Søn</hi>!</l>
+<l>Mildt da <hi rend="spaced">Freya</hi> smiler.</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div> 
+<pb facs="1844_6_page0008.png"/>
+<fw type="pageNum">8</fw>
+<head>Forord.</head>
+<fw type="graphic"/>
+<p>„<hi rend="initial">S</hi>kov-Hornets Klang mellem Skamlings Banker", det klinger halvfremmed, maaskee endog lidt søgt, men dog ingenlunde stivt, og jeg vidste i en Hast ikke bedre at „betegne", hvad der aabenbar ikke lader sig „beskrive", men kun betegne: det <hi rend="spaced">Danske</hi> Folke-Møde, med <hi rend="spaced">Munden</hi> til Tjeneste, som gjorde sin Pligt, og gav ikke blot <hi rend="spaced">Hertugdømmets</hi>, men ogsaa <hi rend="spaced">Kongerigets Folke-Raad</hi> et godt Exempel til Efterligning; thi mellem disse Banker, hvor <hi rend="spaced">Dannebrog</hi> vaiede, baade oppe og nede, saa, hvorhen man vendte Øiet, blev det klart:</p>
+<lg>
+<l><hi rend="spaced">Danebrog</hi> fløi ind fra Havet,</l>
+<l>Fæsted dybt i Skoven Rod!</l>
+</lg>
+<p>mellem disse Banker, beklædte med Folk, som Sydens Bjerge med Faar, rystede af Hurra-Raabet fra den <hi rend="spaced">Danske Tunge</hi>, som Sydens Bjerge af Jordskjælv, giennemglødede af Fædernelands-Kiærlighed, som <hi rend="spaced">Vesuv</hi> af underjords-Ilden, oplyste og overstraalede i Kveld af <hi rend="spaced">Kæmpe-Bavnens</hi> klare Luer, kaldende paa alle <hi rend="spaced">Dannemænd</hi> til Markens Værn, mens de ildsprudende Bjerge, med deres svovlede Flammer, lun varsle for Ødelæggelse; mellem disse Banker saae jeg grant og 
+<pb facs="1844_6_page0009.png"/>
+<fw type="pageNum">9</fw>
+hørde lydelig, at det var intet Blændværk og intet Dværgemaal, der giættede mig, da jeg nys indvendig sang og udvendig skrev:</p>
+<lg>
+<l>Som en <hi rend="spaced">Vog</hi> ved <hi rend="spaced">Ore-Sundet</hi>,</l>
+<l>Voxe skal nu <hi rend="spaced">Dannebrog</hi>,</l>
+<l>Fugle-Sangen, tusindmundet,</l>
+<l>Tone om Dens Seiers-Tog!</l>
+</lg>
+<lg>
+<l>Voxe skal i <hi rend="spaced">Neg e-Skygge</hi></l>
+<l>Blomster alle, faurt og frit,</l>
+<l>Voxe skal og <hi rend="spaced">Danmarks</hi> Lykke;</l>
+<l>Mens paa <hi rend="spaced">Møens</hi> Klint er Kridt;</l>
+</lg>
+<p>Ja, <hi rend="spaced">Dannemænd</hi>! der er for alt det <hi rend="spaced">Barnlige</hi>, saavelsom sor <hi rend="spaced">Barnet</hi> i Moders Liv, et stort og glædeligt Øieblik, da det giennembryder alle Hindringer og kommer for Lyset, en <hi rend="spaced">Fødsels-Stund</hi> og <hi rend="spaced">Fødsels-Dag</hi>, der baade <hi rend="spaced">begynder Levnets-Løbet</hi>, skiøndt det, som alle Børn, maa krybe, til det lærer at gaae, gaae sagte, for det kan løbe, og løbe længe med, for det lærer at flyve, baade saa smaat begynder Levnets-Løbet, og føder <hi rend="spaced">Tids-Regningen</hi>, og et saadant <hi rend="spaced">Giennembrud</hi>, en saadan <hi rend="spaced">Fødsels-Stund</hi> og Fødsels-Dag, har Danskheden, og vi med den i Tusindtal, virkelig oplevet mellem Skamlings-Bankerne i Torsdags, alt fra Hedenold en Høitids-Dag for hele Norden, som Fødsels-Dagen for Odins og Jordens Søn, den ikke blot stærke og vældige, men ogsaa ædle og oprigtige <hi rend="spaced">Asa-Thor</hi>, hvis „<hi rend="spaced">Herkuliske Arbeider</hi>" selv de <hi rend="spaced">Islandske Sagamænd</hi> sandt for mange til alle at opregnes, og selv <hi rend="spaced">Nordens Skjalde</hi> sor kæmpemæssig 
+<pb facs="1844_6_page0010.png"/>
+<fw type="pageNum">10</fw>
+store til værdig at besynges. Ja, en saadan <hi rend="spaced">Torsdag</hi>, ret egenlig en <hi rend="spaced">Skær-Torsdag</hi>, som svarede til den uforglemmelige i <hi rend="spaced">Konge-Dybet</hi>, en saadan <hi rend="spaced">klarhimlet Torsdag</hi> oprandt virkelig for mine Øine mellem <hi rend="spaced">Skamlings-Bankerne</hi>, da Bonde-Sønnen fra Sommersted, <hi rend="spaced">Laurids Skan</hi>, soleklart beviste, hvad jeg rigtig nok ikke tvivlede om, men hvad de Fleste hidtil fandt meer end tvivlsomt: beviste, at <hi rend="spaced">Dannemænd</hi> kan faae langt mere <hi rend="spaced">Dannelse</hi> paa deres <hi rend="spaced">Modersmaal</hi>, end paa Latin og Græsk og paa det „underlige <hi rend="spaced">Mesopotamiske Sprog</hi>", som de skolerette „Latinere" kan udenad paa deres Fingre, og har møisommelig skabt med dem; beviste det og forklarede bedre end nogen <hi rend="spaced">Præst</hi>, hvad det fjerde Bud „ær din Fader og din <hi rend="spaced">Moder</hi>, at det maa gaae dig vel og du maa længe leve i <hi rend="spaced">Landet</hi>", hvad det har med „Fæderne-Landet og <hi rend="spaced">Moders-Maalet</hi>" at giøre! Ja, i den samme Stund kom den unge Danskhed, som en ægte <hi rend="spaced">Datter</hi> af den <hi rend="spaced">Gamle</hi> for Dagen, saae denne Verdens Lys og vil, mens det brænder, sikkert vise, at hun er ogsaa en ægte Datter af Asa-Thor, som virkelig med en <hi rend="spaced">indfødt</hi> Kvinde, altsaa med <hi rend="spaced">Dannekvinden</hi> Sis, havde en Datter, en Jomfru Drude, som Ingen vidste Rede til, men som nu blev oplyst mellem <hi rend="spaced">Skamlings-Bankerne</hi>, og lærer nok at dandse pænt til hendes gamle Forældre skal have deres Guld-<hi rend="spaced">Bryllup</hi>, og Fru Sif, istedenfor de Lokker, Loke stjal, og de graa Stumper, han levnede, skal sees med „Guld-<hi rend="spaced">Nakken</hi>", som Loke blev nødt til at skaffe hende hos de konstige Dværge.</p>
+<p>Dog, hvor høit vi end vil svinge os, enten paa <hi rend="spaced">Sleipner</hi> eller <hi rend="spaced">Pegasos</hi>, saa faaer vi dog daglig at sinde, at 
+<pb facs="1844_6_page0011.png"/>
+<fw type="pageNum">11</fw>
+vi leve langt meer i „<hi rend="spaced">Kieldermændenes</hi>" end i „<hi rend="spaced">Mythernes</hi>" Tid, og jeg kan derfor ikke selv vide, hvordan det vilde gaaet mig med <hi rend="spaced">Skamlings-Festen</hi>, hvis jeg var rullet dertil og derfra paa Hjulene, og havde kun pleiet Seen i en Færge, ved <hi rend="spaced">Nyborg eller Kallundborg</hi>, ved <hi rend="spaced">Assens</hi> eller <hi rend="spaced">Middelfart</hi> og <hi rend="spaced">Snoghøi</hi>; om ikke da maaskee det Hele allerede nu tun svævede dunkelt for mig som en sær og sød Drøm, jeg vel kunde have Lyst til at drømme næste Aar paa ny, men hvorpaa jeg dog Intet turde bygge, og hvoraf der heller ingen Kæmpe-Skridt eller Helte-Bane lod sig udlede; men nu var Lykken mig saa god, og det <hi rend="spaced">Skandinaviske Selskab</hi> saa forekommende artigt, og <hi rend="spaced">Orla Lehmann</hi>, paa Dets og <hi rend="spaced">Danmarks</hi> Vegne, saa utrættelig i sin venlige Tjenst-Iver, og <hi rend="spaced">Koldingenserne</hi>, baade <hi rend="spaced">Aften og Morgen</hi>, ikke blot saa giæstmilde, men saa giæstprude ved det „unge Danmarks" og den gammelagtige Skjalds Hjemsøgelse, og det „<hi rend="spaced">unge Danmark</hi>" i sine hundrede <hi rend="spaced">Skamlings-Farere</hi>, saa elskværdigt og fornøieligt, og endelig var <hi rend="spaced">Damp-Farten</hi>, giennem <hi rend="spaced">Lille-Belt</hi> og <hi rend="spaced">Øresund</hi>, især paa Hjemveien, saa blid, saa munter, saa lystig uden alt Vildskab, kort sagt, saa ægte <hi rend="spaced">dansk og dannis</hi>, at, om jeg end vilde, hvad dog er langtfra Meningen, saa kunde jeg dog ikke indbilde mig, det Hele var en Drøm, saa kunde jeg dog ikke værge mig imod det Indtryk, at der er „<hi rend="spaced">Nyt paafærde</hi>", men kun af det <hi rend="spaced">Slags</hi> Nyt, der kaldes saa, fordi det „sjelden skeet", og er igrunden kun en lyslevende <hi rend="spaced">Fornyelse</hi> af det Æld gamle, saaledes, som selv <hi rend="spaced">Franskmanden</hi> har bemærket, at det er egenlig ikke Forældrene men <hi rend="spaced">Bedste-Forældrene</hi>, der leve op i <hi rend="spaced">Børnene</hi>! See, det kom jeg nu ogsaa underveis 
+<pb facs="1844_6_page0012.png"/>
+<fw type="pageNum">12</fw>
+paa den smukkeste og behageligste Maade baade til at tage og føle paa, og til at sige <hi rend="spaced">ungdommen</hi>, baade i <hi rend="spaced">bunden</hi> og <hi rend="spaced">ubunden</hi> Stil, og den første gode Leilighed var ved <hi rend="spaced">Gniben og Sællands</hi> Rif, hvor vi Alle tom i Tanker om Villemoes og de andre giæve <hi rend="spaced">Dannemænd</hi>, som sove nu paa <hi rend="spaced">Oddens</hi> Kirkegaard, men vare engang lysvaagne til gamle <hi rend="spaced">Danmarks Ære</hi>, og lukkede deres Vine i en fortvivlet Kamp med den <hi rend="spaced">Engelske</hi> Overmagt 1808, da vor sidste Orlogsmand af den gamle Bygning „<hi rend="spaced">Prinds Christian</hi>" løb paa Grund og blev til Vrag og gik i Lyset; thi da stemmede <hi rend="spaced">Ungdommen</hi> op og sang min gamle Vise om Villemoes for „Piger smaa", og derved fik jeg den bedste <hi rend="spaced">Leilighed</hi> til at minde om, hvad der staaer paa Bauta-<hi rend="spaced">Stenen</hi> over ham og de andre <hi rend="spaced">Ænherier</hi> eller <hi rend="spaced">Medbellere</hi> til Livet i <hi rend="spaced">Valhall</hi> og <hi rend="spaced">Folkvang</hi>: i Heltedigtet og Kæmpevisen, og til at udbringe et <hi rend="spaced">Dansk Hurra</hi> til deres Ihukommelse. Og herved var det et lykkeligt Varsel, at Lodsen, der ikke kunde bare sig sor at lytte til Visen om Villemoes, havde nær sat os fast paa <hi rend="spaced">Sællands</hi> Rif, men satte os dog ikke, saa vi løb dobbelt glade efter <hi rend="spaced">Nakke-Hoveds</hi> og Kullens Fyr, ad <hi rend="spaced">Sundet til</hi>. Her aabnede sig nu den allerbedste Leilighed til et venligt Ordskifte med det „unge Danmark"; thi som jeg, endnu med lidt af Taarerne i Øiet, som <hi rend="spaced">Villemoes</hi>-Sangen havde fremlokket, saae ud over det krusede Hav, med den lette, hvide <hi rend="spaced">Skum-Giæring</hi>, der fulgde os, som en Flok <hi rend="spaced">Svane-Unger</hi>, paa begge Sider, da fik jeg inderlig Lyst til at lade <hi rend="spaced">Ungdommen</hi> vide, hvor inderlig vel jeg folde mig i dens Midte, og nynnede desaarsag for mig selv paa de <hi rend="spaced">første Vers til Rune-Bladet</hi>, som skulde følges med <hi rend="spaced">Skam</hi>-
+<pb facs="1844_6_page0013.png"/>
+<fw type="pageNum">13</fw>
+<hi rend="spaced">lings-Talen</hi>, og i samme Øieblik var <hi rend="spaced">ungdommens</hi> Tanker hos mig og det gamle <hi rend="spaced">Danmark</hi>, det fik jeg deilig at vide, da en <hi rend="spaced">Ungersvend</hi> traadte hen til mig og spurgde, om jeg ikke nok vilde tomme et Bæger med Ungdommen? Med største Fornøielse, var naturligviis mit Svar, naar Drikken kun ikke er mig for stærk, og skiøndt jeg strax fandt, at Alt hvad jeg kunde taale var at nippe til <hi rend="spaced">Ungdoms-Bægeret</hi>, saa gav dog allerede det mig <hi rend="spaced">Ungdoms</hi>-Mod og Lethed til at springe op paa Bænken og fortælle Ungdommen, hvad jeg just gik og nynnede paa, fordi jeg nu folde tilbunds, at jeg meget for tidlig havde sørget over, at jeg sagtens kom til at tage Broder-Parten af gamle <hi rend="spaced">Danmarks</hi> Arv og Odel, rørligt og urørligt Gods, med mig i Graven, eftersom jeg nu mærkede, at der i den yngre Slægt var baade Bellere og Medbellere Nok til Alt, hvad der er smukt og ædelt, høit og dybt, aandigt og hjerteligt, og efterhaanden lyst og klart, og sagde de ikke Alle „Ia", saa var jeg stokdøv.</p>
+<p>See, under disse Omstændigheder faldt det mig let, eller rettere, faldt det af sig selv, at i Morgen-Stunden, under Opseilingen i <hi rend="spaced">Øre-Sund</hi>, under den deilige <hi rend="spaced">Sællands-Kyst, blev Rune-Bladet</hi> omtrent som det er, saa jeg ved Torbæk kunde magelig staae op paa Bænken og læse fra Bladet, til ikke liden Morskab for <hi rend="spaced">Ungdommen</hi>, der med sine egne Øine havde seet, det var intet Hexen at skrive <hi rend="spaced">Danske Vers i Øresund</hi>, men gik ligesaa naturligt til, som naar hver Fugl synger med sit Neb i de „grønne Lunde."</p>
+<p>Saaledes har jeg da paa det Jævneste betegnet, hvad der høilig frydede mig ombord paa „Christian den Ottende" med det „Unge Danmark", og lader nu min <hi rend="spaced">Opskrift</hi> følge, 
+<pb facs="1844_6_page0014.png"/>
+<fw type="pageNum">14</fw>
+som den sindes, til Ordet mellem <hi rend="spaced">Skamlings-Bankerne</hi>, som det laae mig paa Tungen, og vel <hi rend="spaced">betegnes</hi> derved lun meget svagt baade hvad jeg følde og hvad jeg sagde i de stive fem Kvarteer, <hi rend="spaced">Kiøbenhavns -Posten</hi> melder, jeg skal have talt; men <hi rend="spaced">Meningen</hi> seer man dog strax deraf, og Meningen med en Tale er nu engang Alt, hvad de kan faae at see paa Papiret, som ikke selv har hørt den. For de <hi rend="spaced">opmærksomme</hi> Tilhørere, og af dem har jeg aldrig havt saa mange, vil her derimod være meget, som de, ved at see Tegnet, halvveis høre igien, men ogsaa fattes Meget, baade Alvor og Gammen, der lever og døer sammen med det lydelige, det fuglevingede Ord, som jeg aldrig har fundet saa let, saa flydende, saa kiækt, saa forvovent og saa lykkeligt paa mine Læber, som mellem <hi rend="spaced">Skamlings-Bankerne</hi>, saa det kostede kun Overvindelse at holde op, og kan, hvad det saa end skulde koste, hverken forglemmes eller fortrydes!</p>
+<p><hi rend="align(right)">Grundtvig.</hi></p>
+<pb facs="1844_6_page0015.png"/>
+<fw type="pageNum"></fw>
+<p><hi rend="initial">D</hi>anske Landsmænd, <hi rend="spaced">Slesvigske</hi> Dannemænd! det er med særdeles Glæde, jeg indtræder i Eders Venne-Kreds, som er Dannemarks lyslevende Grændse-Fæstning, det sande, unedbrydelige <hi rend="spaced">Dannevirke</hi>, vel bygt af <hi rend="spaced">Jord</hi>, men kun som den Almægtige bygger, der i Begyndelsen skabde Jord-Mennesket i sit eget Billede og efter sin Lignelse! Ja, I giæve og fribaarne Dannemænd! kiække og bolde, som alt i to <hi rend="spaced">Aartusinder</hi>, om ikke længer, stod paa Vagt for det velsignede <hi rend="spaced">Fæderneland</hi>, de hjerteligste Heltes og de elskeligste Kvinders ældgamle Hjem, stod paa Vagt mod det altid herskesyge, brydske og krigske Folk, hvis <hi rend="spaced">Keisere</hi> satte al deres Ære i at være „<hi rend="spaced">Rigets Formerere</hi>," stod paa Vagt mod dem, ligesom, efter vore gamle Skjaldes Billed-Sprog, Heimdal paa <hi rend="spaced">Himmelbjerget</hi> bevogtede det „grønne Gudhjem," som kun „Gynge-Broen" adskildte fra den store og vidtløftige men golde <hi rend="spaced">Jette-Verden</hi>! Naar jeg derfor læser i de gamle Skrifter, at her, ved Eideren, var alt fra <hi rend="spaced">Arildstid</hi>, i den gamle Folke-Dommer Bøges Tid, opkastet en <hi rend="spaced">Jord-Vold</hi> imod <hi rend="spaced">Tydskernes</hi> Angreb, som kaldtes <hi rend="spaced">Holger-Diget</hi>, men at denne Jord-Vold i <hi rend="spaced">Thyre Dannebods</hi> Dage agtedes utilstrækkelig, saa hun befæstede den med 
+<pb facs="1844_6_page0016.png"/>
+<fw type="pageNum">16</fw>
+det berømte <hi rend="spaced">Plankeværk</hi>, som kaldes <hi rend="spaced">Dannevirke</hi>, og at endelig Kong <hi rend="spaced">Valdemar</hi> den <hi rend="spaced">Store</hi> fatte en vældig <hi rend="spaced">Grund-Mur</hi> i Plankeværkets Sted; naar jeg læser denne Efterretning, see, da staaer det levende for mig, at der i Tidens Løb foregik en <hi rend="spaced">indvortes</hi> Forandring i det gamle <hi rend="spaced">Slesvigske</hi> Mark-Grevskabs og Hertugdoms Forhold til Konge-Riget, der paa <hi rend="spaced">Billed-Sproget</hi> godt kan betegnes med de samme Ord, at først var her en <hi rend="spaced">Jord-Vold</hi>, som kaldtes <hi rend="spaced">Holger-Diget</hi>, og siden blev her et <hi rend="spaced">Planke-Værk</hi> og en <hi rend="spaced">Grund-Mur</hi> af <hi rend="spaced">Steen</hi> til Grændsernes Forsvar, som kaldtes Danne-Virke eller Dane-Giærdet; men ved <hi rend="spaced">Jord-Volden</hi> og <hi rend="spaced">Holger-Diget</hi> forstaaer jeg da Slesvigerne selv, der kæmpemæssig, som en <hi rend="spaced">Holger-Danske</hi>, forsvarede sig mod de paatrængende Fremmede, saa der behøvedes intet konstigt Værn, eller, for at blive i det gamle Billedsprog: Heimdal forsvarede da <hi rend="spaced">Gynge-Broen</hi> med sit gode Sværd, som kaldes „<hi rend="spaced">Mande-Hoved</hi>," og med sit <hi rend="spaced">Gjallar-Horn</hi>, den høirøstede Lur, som vakde altid Kæmper Nok til Lande-Værn; thi „<hi rend="spaced">Gynge-Bro</hi>" er, i mine Øren, et nordisk, kæmpemæssigt Billede paa <hi rend="spaced">Folk e-Tung en</hi> ved Landets Grændser, der altid gaaer som en Flom eller Gynge, og truer hvert Øieblik med at briste! Saaledes i <hi rend="spaced">Arilds-Tiden</hi>, da utallige Danske Viser og Kvad, Sagn og Mundheld og gamle Ord var i Folke-Munde, og da <hi rend="spaced">Folke-Stemmen</hi> paa Moders-Maalet var fri og høirøstet paa <hi rend="spaced">Konge-Stævne</hi>, og da <hi rend="spaced">Folke-Aanden</hi>, Nordens Kæmpe-Aand, derfor altid var <hi rend="spaced">lysvaagen</hi>, som Heimdal og som Fuglen i Skov, der kun blunder et Øieblik, og vaagner brat, naar Bladene rasle! Allerede i Dronning <hi rend="spaced">Thyra s</hi> Dage begyndte det at blive ander-
+<pb facs="1844_6_page0017.png"/>
+<fw type="pageNum">17</fw>
+ledes, begyndte Kæmpe-Aanden at <hi rend="spaced">forsvinde</hi>, Folle-Stemmen at <hi rend="spaced">dale</hi> og Folket at <hi rend="spaced">indslumre</hi>, og i Kong Valdemars Tid var hele den glimrende <hi rend="spaced">Herrefærd</hi> dog kun Folkets <hi rend="spaced">Døds-Kamp</hi> for Ro i Graven, og alle de konstige <hi rend="spaced">Indretninger</hi>, man gjorde, for at betrygge sig denne Gravens No og Stilhed, viste sig i Tidens Lob ligesaa svage og forgiængelige som <hi rend="spaced">Dannevirkes Planke-Værk</hi> og Grund-Mur, om hvis Spor man nu, hardtad forgiæves, maa lede i Gruset. Det var derfor en herlig <hi rend="spaced">Indskydelse af Folke-Aanden</hi>, af Nordens tilbagevendte <hi rend="spaced">Kæmpe-Aand</hi>, da En af <hi rend="spaced">Eders</hi> værdige <hi rend="spaced">Talsmænd</hi>, paa det gienfødte Konge-Stævne, gav Tydskeren, som truede med Gienfærdet af Reiser Rødskiæg, Svar, som man raaber i Skoven, ja, gav ham at betænke, at her slumrer Holger Danske endnu, og skyer hverken Ild eller Vand, naar han vaagner, leger da Himmelspræt med Trolde og blæser ad Gienfærd, saa de glemme at spege! Ja, dette høirøstede Ord om <hi rend="spaced">Holger Danske</hi>, det skal, saa længe Danmark staaer, være uforglemmeligt, som <hi rend="spaced">Folke-Aandens</hi> klare <hi rend="spaced">Forvarsel</hi>, eller rettere, som det <hi rend="spaced">første Ord</hi> af den tilbagevendte <hi rend="spaced">Folke-Aand</hi>, trods sin beskedne Forklædning, kiendelig nok paa det kæmpemæssige, det fuglevingede Ord, der er som Torden for Trolde, som<hi rend="spaced"> Thors-Hammeren</hi> for alle Nordens Fiender. Og see, hvad <hi rend="spaced">Kæmpe-Aanden</hi> bebudede, det skedte brat, som sagt, saa gjort, og det gienlød høit i Fiendens Leir, at Holger <hi rend="spaced">Danske</hi> var nu <hi rend="spaced">staaet</hi> op fra de Døde, og kæmpede med Løve-Mod for <hi rend="spaced">Moders-Maale</hi>t, saa <hi rend="spaced">Nord-Slesvigs Talsmand</hi>, trods alle Tydske Forbud, <hi rend="spaced">trods</hi> Jette-Larmen af det usalig hensovne, 
+<pb facs="1844_6_page0018.png"/>
+<fw type="pageNum">18</fw>
+skinhellige Romerske Riges Gienfærd, trods alt Dette og meget Andet, „<hi rend="spaced">blev ved at tale Dansk</hi>!"</p>
+<p>Dette er eet Ord, saa godt som Fireogtyve, ja tusind Gange bedre end de længste og klogtigste <hi rend="spaced">Tydske Taler</hi>, udspækkede med Stumper og Stykker af den ugudelige Romer-Ret; Nord-Slesvigeren <hi rend="spaced">blev ved</hi> at tale <hi rend="spaced">Dansk</hi>, det er. et gyldent Ord, indgravet i <hi rend="spaced">Sølv-Hornet</hi>, ei, for med det at giemmes og glemmes og engang i Fremtiden, ligesom <hi rend="spaced">Heimdals</hi> det gamle <hi rend="spaced">Guld-Horn</hi>, at graves op af Jorden, nei, men for <hi rend="spaced">billedlig</hi> at betegne det korte men fyndige Omkvæd paa <hi rend="spaced">Folke-Visen</hi>, der nu uophørlig skal lyde fra <hi rend="spaced">Klang-Hornet</hi> paa Konge-Stævne, fra det ny Sølv-Horn, hvormed Folke-Aanden, som Nordens Kæmpe-Aand, nu skal forklare det gamle <hi rend="spaced">Guld-Horns</hi> dybe Toner og alle dets gaadefulde Tegn! Ja, Nord-Slesvigeren blev ved at tale <hi rend="spaced">Dansk</hi>, det skal efter Aarhundreders Forløb være det kiernefulde udtog af Eders <hi rend="spaced">Kæmpe-Historie</hi>, thi dette lille Ord indslutter da i sig baade Kampens Storværk og Seiers-Krandsen, thi vi veed det Alle, stor er Kampen, det vil koste, at fætte det <hi rend="spaced">Danske Modersmaal</hi>, denne, af <hi rend="spaced">Tydskerne og Romer-Retten</hi>, som er Næve-Retten, til Kværnen og Trælkvinde-Kaar fordømte og fornedrede, men altid dog høibaarne, deilige <hi rend="spaced">Dronning</hi>, sætte hende igien paa sin <hi rend="spaced">Throne</hi>, og ligesaa skiøn, som Kampen er stor, vil Seiers-Krandsen være, <hi rend="spaced">uvisnelig</hi>, som <hi rend="spaced">Moders-Maalet</hi> er <hi rend="spaced">udødeligt</hi>, hvor Folke-Aanden seirer. Dog, jeg har nævnet Kamp og jeg er gammel nok til at vide, at naar man i vore Dage hører dette, for alle Kæmper liflige, men for alle Krystere og Skrællinger frygtelige Ord, da tænker man sjelden eller aldrig paa Andet end <hi rend="spaced">Haanden</hi>, og paa 
+<pb facs="1844_6_page0019.png"/>
+<fw type="pageNum">19</fw>
+de dødelige Vaaben, som kun gribes og føles og fores med <hi rend="spaced">Hænder</hi>, tænker sædvanlig kun paa <hi rend="spaced">Haanden</hi>, fordi <hi rend="spaced">Aandens</hi> Kraft er Døgnet ubekiendt, alle dens mangfoldige Kampe og Seire i Tidernes Lob er for Døgnet kun et Hjerne-Spind til at væve lange, kiedsommelige Helte-Digte af. Jeg maa derfor vel sige det høirøstet og udtrykkelig, at naar jeg taler om den store Kamp, som det vil koste, for det <hi rend="spaced">Danske Moders-Maal</hi>, ved Danmarks Grændse-Skiel, kan hæve sig fra <hi rend="spaced">Trælle-Bænken</hi> høit paa <hi rend="spaced">Dronning-Stolen</hi>, en Kamp, der klarlig speller sig i Uffe hin Spages Kreds-Gang paa <hi rend="spaced">Eider-Holmen</hi>, hvor der var To om Een, ligesom nu, to Tydskere, den Ene Hei, den anden plat, om den eenlige Dansker, men hvor <hi rend="spaced">Danskeren</hi> dog blev ene om Seieren, da tænker jeg hverken paa „Næver eller Negle", thi den Tid er, Gud skee Lov! forbi, da <hi rend="spaced">Næver og Negle</hi>, enten med eller uden <hi rend="spaced">Penne</hi>, afgiorde „<hi rend="spaced">Tungernes Trætte</hi>"; nu skal Trætten jævnes af Tungerne selv i Folke-Munde, der, ligesom den stumme Uffe, pludselig, ved de Fremmedes Forhaanelse, faae deres Mæle igien, og, har de fordum med Glæde tjent en mægtig Aand, faaer tilligemed det gamle Mæle, den gamle Magt igien, saa <hi rend="spaced">Tungerne</hi>, som tjende og med høirøstet Lovsang priste <hi rend="spaced">Nordens Kæmpe-Aand</hi>, de faaer Kæmpe-Kræfter ei blot til at sprænge rustne Brynier, men fremfor Alt til at føre Aandens Kæmpe-Sværd, det nedgravede, men atter opgravede Skræp, der kvæder <hi rend="spaced">Ravne-Galder</hi> for hele Verdens Øren, og giør Ravne-<hi rend="spaced">Gilde</hi> af alle sine trodsige Modstandere, jo fleer i Flok, desværre farne!</p>
+<p>Men skal denne „<hi rend="spaced">Tungernes Trætte</hi>" avle saadan en glimrende Seier for den <hi rend="spaced">Danske Tunge</hi>, med <hi rend="spaced">Nordens</hi> 
+<pb facs="1844_6_page0020.png"/>
+<fw type="pageNum">20</fw>
+Kæmpe-Aand, da er aabenbar en „<hi rend="spaced">Høiskole</hi>" nødvendig, men ingen <hi rend="spaced">Latinsk</hi> Høiskole, hvor man kun lærer at fordrive Fæderne - Aanden og at radbrække Moders-Maalet, nei en „<hi rend="spaced">Dansk Høislole</hi>" hvor <hi rend="spaced">Nordens</hi> Aand, <hi rend="spaced">paa Moders-Maalet</hi>, og med det, hersker uindskrænket, og vænner sig til at behandle „<hi rend="spaced">Tydsken</hi>", herinde, som en haardfør, bred- skuldret og kløgtig Træl, af hvem man til Hverdags-Brug, baade i Gaarden og i Marken, baade i Smedie« og i Hugge-Huset, baade i Stald og Lade, baade hjemme og ude, kan have usigelig megen Nytte, men hvem man, for ei at have Stade men Gavn af ham, fremfor Alt maa lære at lystre, maa holde vaagent Die med og see paa Fingrene!</p>
+<p>Og har jeg forstaaet <hi rend="spaced">Eder</hi> ret, da er det ogsaa netop en saadan „<hi rend="spaced">Dansk Høiskole</hi>", I, af Kæmpe-Aandens Drift, har allerede gjort det første Skridt, Kæmpe-Skridtet, til at reise, og for dermed at ønske <hi rend="spaced">Eder og Danmark, Nordens</hi> Aand og <hi rend="spaced">Menneske</hi>-Slægten til Lykke, derfor var det egenlig, jeg tog her til Orde, og vovede at vente Opmærksomhed for en Tale, der er i saa gammel en Stil, at Mange vel vil kalde det et fremmed Tungemaal, men som dog hidtil, hvorsomhelst den fik Lov til at lyde, altid klarede i <hi rend="spaced">Dannemænds</hi> Vine og fandt Vei til <hi rend="spaced">Dannekvindens</hi> Hjerte.</p>
+<p>Ja, en „<hi rend="spaced">Dansk Høiskole</hi>", det var alt i mange Aar min <hi rend="spaced">sødeste Drøm</hi>, og Mangelen deraf, selv hvor Aanden giennem Aarhundreder udviste og forgyldte Byggestedet, <hi rend="spaced">Mangelen</hi> deraf mit <hi rend="spaced">bittreste Savn</hi>, fordi det er mig soleklart, at reiser sig ikke brat en Saadan, en virkelig, aandfuld <hi rend="spaced">Dansk Høiskole</hi>, og staaer fast, da er det, i Henseende til Folket, omsonst og forgiæves, Alt hvad vi har stridt og 
+<pb facs="1844_6_page0021.png"/>
+<fw type="pageNum">21</fw>
+lidt, skjaldret og sunget, sagt og skrevet, til <hi rend="spaced">Modersmaalets</hi> Ære, thi da kryber Strømmen, som oprandt fra Hjerte-Dybet , oprørdes af Kæmpe - Aanden over vor Isse, og udsprang paa vor Tunge, da kryber den, om et Øieblik, ned i Graven med os, istedenfor at oversvemme Marken til Frugtbarhed og Grode og forplante sig i <hi rend="spaced">Folke-Munde</hi> fra Slægt til Slægt.</p>
+<p>Derfor, <hi rend="spaced">Slesvigske Dannemænd</hi>, fuldender standhaftig, hvad I har kiækt begyndt! Reiser en <hi rend="spaced">Høiskole</hi> i <hi rend="spaced">Eders</hi> Midte, som er <hi rend="spaced">Skamling-Banken</hi>, er Dannemænds Forsamling her, Eders Fædres <hi rend="spaced">Storværk</hi> og gamle <hi rend="spaced">Danmark</hi> værdig, en <hi rend="spaced">Høiskole</hi>, hvis <hi rend="spaced">Danskhed</hi> man, med <hi rend="spaced">Heimdals</hi> Øine, kan see hundrede Mile borte, en Høiskole endelig, der kan hjemle sig Navn af <hi rend="spaced">Heimdals Klang-Horn</hi>, der høres over al Verden! Lad det ikke standse Eder, ikke svække Eders Mod eller formindske Eders Storværk, at der i hele Danmarks <hi rend="spaced">Kongerige</hi> ei sindes Mønster eller Mage, men kommer ihu, at ligesom I fra Hedenold var <hi rend="spaced">Danmarks Landeværn</hi>, saaledes var I ogsaa dets Kongelige <hi rend="spaced">Mærkes-Mænd</hi>, som gik i Spidsen og gav Løsenet, laande ikke Mønster af os, men gav os et Mønster, vi fandt, det var Lyst at efterligne!</p>
+<p>Ja, <hi rend="spaced">Slesvigske Dannemænd</hi>! Eders Net til at kalde <hi rend="spaced">Dansken</hi> eders Modersmaal, og at tale det kongelig frit, den er ikke blot <hi rend="spaced">naturlig</hi>, den er ogsaa <hi rend="spaced">historisk</hi>, ja, den er togange saa, den er <hi rend="spaced">folkehistorisk</hi>, thi dermed begynder <hi rend="spaced">Danmarks</hi> Historie, at da <hi rend="spaced">Slesvigerne</hi> havde kaldt <hi rend="spaced">Øboerne</hi>, med Prinds Dan, til Hjelp mod de allerede da paatrængende <hi rend="spaced">Tydskere</hi> og (efter Rimkrønikens Ord)</p>
+<pb facs="1844_6_page0022.png"/>
+<fw type="pageNum">22</fw>
+<lg>
+<l>„Han foer med dem de Tydske imod,</l>
+<l>Og slog dem alle der ned for Fod!"</l>
+</lg>
+<p>da svoer <hi rend="spaced">Seiervinderne</hi> sig i <hi rend="spaced">Fostbroderskab</hi>, og blev enige om at kalde det nu fælles Fæderneland „Danmarks Rige" saa her oprandt det <hi rend="spaced">Danske Navn</hi>, her grundedes den <hi rend="spaced">Danske Thron</hi>e, her silftedes det <hi rend="spaced">Danske Rige</hi>! Og denne Eders <hi rend="spaced">folkehiftoriske</hi> Ret til ei blot at hedde <hi rend="spaced">Danske</hi>, men til at gaae i <hi rend="spaced">Spidsen</hi> sor alle <hi rend="spaced">Dannemænd</hi>, den er ogsaa <hi rend="spaced">kirkehistorisk</hi>, thi i <hi rend="spaced">Eders Helligbæk</hi> er jo de første Dannemænd døbte, i <hi rend="spaced">Eders</hi> Hedeby hævede sig jo den <hi rend="spaced">første</hi> Danske Kirke, i <hi rend="spaced">Eders</hi> Midte havde jo „<hi rend="spaced">Nordens Apostel</hi>" den hjertelige, den i hele Middelalderen mageløse <hi rend="spaced">Ansgar</hi>, sit <hi rend="spaced">Danske</hi> Sæde, saa det er i sin Orden, at I ogsaa skolehistorsk blive <hi rend="spaced">Danskens</hi> Banner-Mestere og Mærkes-Mænd, ja, saasandt som I er vaagnede i Folke-Aanden, i Nordens Kæmpe-Aand, da kan og vil I ikke taale, at Nogen, i hvad der er ægte <hi rend="spaced">Dansk</hi>, har enten <hi rend="spaced">For-Spring</hi> eller <hi rend="spaced">For-Trin</hi> for Eder, men giøre endnu eet <hi rend="spaced">Kæmpe-Skridt</hi>, der godt kunde giælde for To, maa vække vor Beundring og vil sikkert ikke savne Efterligning iblandt os!</p>
+<p>Ja, jeg er en <hi rend="spaced">Sællandsfar</hi> i mange Ledd, og dybt har jeg serget derover, at den <hi rend="spaced">Danske Høiskole</hi> ei hævede sig <hi rend="spaced">først</hi> i Hjertet af Sælland, i det deilige Sorø, hvor Pladsen er afstukket af <hi rend="spaced">Forsynet</hi> selv, hvor alle Midlerne er i Overflødighed tilrede, og hvor altsaa kun <hi rend="spaced">Lysten</hi>, eller <hi rend="spaced">Modet</hi> eller <hi rend="spaced">Kræfterne</hi> fattes; men nu seer jeg det, at hvor <hi rend="spaced">Danmarks Rige og Danmarts Kirke</hi> oprandt, der maa ogsaa Danmarts Skole opbygges! I <hi rend="spaced">Kongeriget</hi> 
+<pb facs="1844_6_page0023.png"/>
+<fw type="pageNum">23</fw>
+synes vi dømt til kun at efterligne hvad vi see, kun i <hi rend="spaced">Hertugdømmet</hi> har <hi rend="spaced">Dansken Mod</hi> til at <hi rend="spaced">ligne sig selv</hi>, saa der maa <hi rend="spaced">Dansken</hi>, som <hi rend="spaced">Halvfremmed</hi>, vinde Kongerigets Beundring, og som Halvfremmed maae vi efterligne den før vi kan taale at see, det er dog igrunden vort Eget.</p>
+<p>Derfor, op, I <hi rend="spaced">Danske Mærkes-Mænd</hi>, Haand paa Værket! Lad <hi rend="spaced">Dannebrog</hi> vaie stolt paa <hi rend="spaced">Høiskolen</hi>, I grunde, som den vaiede paa Bølgen blaa, endnu i Konge-<hi rend="spaced">Dybet</hi>, trods <hi rend="spaced">Havets Elephant</hi> og Englands den største Vovehals, men som <hi rend="spaced">Dannebrog</hi> vil aldrig vaie mere, hvis ikke en<hi rend="spaced"> Dansk Høiskole</hi> snart lærer Folket at skatte og at bruge sit <hi rend="spaced">Modersmaal</hi>, og med <hi rend="spaced">Folke-Aanden</hi>s Kraft at forfægte sin naturlige Net ikke blot til at blive ved at tale Dansk, men at tiltales, at raadspørges, at høres og at føies, at styres og ledes paa <hi rend="spaced">Dansk</hi>, saa de Fremmede, efter Ordsproget, maae stikke Fingeren i Jorden og lugte hvor de er, lære at synge med de Fugle, de er iblandt, eller lære at tie, Skik følge eller Land flye! Og Alt hvad jeg, som giennem en Menneske-Alder med Flid har arbeidet mig ind i det <hi rend="spaced">Danske Moders-Maal</hi>, og i den Nordiske Kæmpe-Aands <hi rend="spaced">Billed-Sprog</hi> og Tanke-Gang, Alt hvad jeg kan bidrage til, at Eders Danske Høiskole kan blive en „<hi rend="spaced">Mimers-Brønd</hi>", hvortil Konger ride, for at søge Naad, det skal være uspart; thi for min Person har jeg intet Ønske meer i denne Verden, saa jeg ønsker kun at leve lidt endnu, for ikke at tage med mig i Graven hvad der gav mig Die for <hi rend="spaced">Menneske-Livet</hi> og <hi rend="spaced">Verdens Lob</hi>, gav mig <hi rend="spaced">Magt</hi> over <hi rend="spaced">Modersmaalet</hi>, og gav mig baade <hi rend="spaced">Mod og Kraft</hi> til, naar det gjaldt, at trodse al Verden, med de jævne, gammeldanske Ord: heller døe med 
+<pb facs="1844_6_page0024.png"/>
+<fw type="pageNum">24</fw>
+Æren end leve med Skam, og før dog lade sig slaae, end krybe i en Andens Skind, om det saa var den Romerske <hi rend="spaced">Keisers</hi>!</p>
+<p><hi rend="spaced">Lidt</hi> viser <hi rend="spaced">Villien</hi>, siger <hi rend="spaced">Dansken</hi> sor et gammelt Ord, og sor at vise Villien, den gode Villie, der, ogsaa efter Ordsproget, drager et stort Læs, derfor kom jeg hid, derfor tog jeg Ordet i Eders Kreds, derfor har jeg ogsaa gjort en lille Vise om En af Eders store Landsmænd og Danske Mærkes-Mænd i fordums Tid, som jeg vil bede Eder synge med mig, men, i den Tid, da alt Dansk var nær ved at glemmes, ikke blot hos Eder, men selv hos os, midt i Kongeriget, da glemdes ogsaa han, glemdes ogsaa den herlige <hi rend="spaced">Slesvigske Helt,</hi> som Visen er om, derfor maa jeg først sige Eder, hvem han var og <hi rend="spaced">hvad</hi> han <hi rend="spaced">gjorde</hi>, som er værdt at ihukomme, saalænge <hi rend="spaced">Danmark</hi> staaer, ja, saalænge Troskab og Manddom agtes Hæder og Ære værd, og som vist heller aldrig mere skal glemmes hos Eder! Hans Navn var Folke, og han levede i den samme gamle Kong <hi rend="spaced">Vermunds</hi> Dage, som I vel har hørt, blev forhaanet af Tydskerne og havde nær overladt dem hele <hi rend="spaced">Danmarks</hi> Rige, fordi hans eneste Søn, <hi rend="spaced">Uffe</hi> hin <hi rend="spaced">Spage</hi>, vel var kæmpevoxen, stor og før, men var stum og maalløs fra Barnsbeen, men I har vel ogsaa hørt, at Kong <hi rend="spaced">Vermund</hi> fik Mod igien, da hans Søn fik Mæle, og havde stor Glæde af ham paa sine gamle Dage, da <hi rend="spaced">Uffe</hi> bestod den svare Tvekamp med <hi rend="spaced">tvende Tydskere</hi> og fældte dem begge. See, i denne Kong <hi rend="spaced">Vermunds</hi> Tid skedte det engang, at der kom Fremmede til <hi rend="spaced">Slesvig</hi>, som vel havde sin egen <hi rend="spaced">Jarl</hi> eller <hi rend="spaced">Hertug</hi>, men Horde dog til Iylland og det <hi rend="spaced">Danske Kongerige</hi>, saa Banner-Mesteren <hi rend="spaced">Folke</hi> fløi afsted til 
+<pb facs="1844_6_page0025.png"/>
+<fw type="pageNum">25</fw>
+<hi rend="spaced">Nørre-Jylland, til Jelling-Gaard</hi>, hvor den Danske Kong <hi rend="spaced">Vermund</hi> holdt Hof, for at melde Feiden, og bede om Hjelp. Her stædtes da <hi rend="spaced">Folke</hi> ind for Kongen, da han fad over Borde og rygtede sit Ærinde saa snildt og dog saa mandeligt, at han kiøs ei det mindste Barn, men frydede hver ærlig Kæmpe, og fremfor Alt den gamle <hi rend="spaced">Danner-Konge</hi>, hvem han ønskede til Lykke med den herlige Fangst af Danmarks Fiender, som dumdristig havde hjemsøgt Landet ved <hi rend="spaced">Skamlings-Banke</hi>, og var saaledes selv løbet lige i Fælden, og var dødsens, hver og Een. Det Ord faldt i god Jord, thi det huede Danner - Kongen saa godt, at han bad Folke sidde hos og tage til sig af Retterne, hvad Dagen hørde til, og da Folke havde alt for meget Hastværk til at lade Hvile falde paa sig, da skiænkede Kongen med egen Haand sit Guld-Bæger fuldt af Viin og rakde <hi rend="spaced">Folke</hi> med det Ord: de er velkomne som bære godt Budskab, og bedre bar ingen Kæmpe under Solen sin Konge Feide-Bud, stik ud med Æren og stik Bægeret i Varmen som en Venne-Gave! <hi rend="spaced">Folke</hi> drak og Vinen smagde ham saa godt af Kongens Bæger, at han opløftede sin Haand og giorde et bedre Kæmpe-Løfte, end der var længe hørt i <hi rend="spaced">Norden</hi> ved noget <hi rend="spaced">Brage-Bæger</hi>, thi det lød som saa: for jeg skal rømme Marken for <hi rend="spaced">Danmarks</hi> Fiender, for skal jeg tomme dette Guld-Bæger saa bredfuldt af mit eget Blod, som det var nys af Viin! Som sagt, saa giort, Kæmperne mødtes paa det hvasse Konge-Stævne, hvor man skiftede Hugg, som vrede Kvinder skifte Ord, saa det Ene kunde ei bie det Andet, de <hi rend="spaced">Danske</hi> vandt, Fienden flygtede til alle Sider, og da Kongen red over Val-Pladsen, da saae han <hi rend="spaced">Folke</hi> sidde lavt paa Tue, men med saa høit et Kæmpe-Mod, at han tømde gladelig Guld-
+<pb facs="1844_6_page0026.png"/>
+<fw type="pageNum">26</fw>
+Bægeret, fuldt af sit eget Blod. Da holdt Kongen stille og sagde: see en Kæmpe, tro som Guld! saa lønne <hi rend="spaced">Dannemænd</hi> Gaver!</p>
+<p>Der løber meget Vand til Strande, siger Ordsproget, mens Mølleren sover, og der er løbet endnu langt mere, mens <hi rend="spaced">Holger Danske</hi> sov, men nu, da han er vaagnet, nu skal der ikke løbe mere, for alle <hi rend="spaced">Dannemænd</hi> opløfte deres Stemme og synge en Vise til <hi rend="spaced">Folkes</hi> Ihukommelse, og giør, ved hans levende Minde, det Kæmpe-Løfte, at for de indrømmer Fienden et Straaes-Bred af Marken, før skal de giøre som <hi rend="spaced">Folke</hi>, og tomme hver sit Væger af det varme Hjerte-Blod, der rinder endnu i hver ægte <hi rend="spaced">Dannemands</hi> Aarer fra <hi rend="spaced">Øre-Sund til Dannevirke</hi>! Det høre Himlen og lade det lykkes til Fædrenes Ære og <hi rend="spaced">Danmarks</hi> Gavn, skiænke os Alle Aand og Kraft, som Vin i Guld-Bæger, til gladelig at bringe det med Æren ældgamle, velsignede Fæderneland ethvert Offer, blodigt eller ublodigt, som dets Frelse af Fiende - Vold, dets voxende Velstand og voxende Glands udkræver!</p>
+<p>Da skal ogsaa <hi rend="spaced">denne</hi> vor Forsamling paa <hi rend="spaced">Skamlings-Banken</hi>, ogsaa dette vort ærlige Kæmpe-Løfte mindes efter Aarhundreders Forløb, og berømmes i langt bedre Taler, besynges i langt bedre Viser og med langt klarere Stemmer, end de, der nu lyde i Sky, fra det <hi rend="spaced">Danske Fostbroder-Lag</hi>, det ældste og ærværdigste, det troeste og det livsaligste Fostbroder-Lag under Solen!</p>
+<fw type="graphic"/> 
+<pb facs="1844_6_page0027.png"/>
+<fw type="pageNum">27</fw>
+<p><hi rend="align(center)">Mel. Danmark, deiligst Vang og Vænge.</hi></p>
+<fw type="graphic"/>
+<lg>
+<l>Slesvig! <hi rend="spaced">Anglers</hi> Jarle-Sæde!</l>
+<l>Kongens Moderskiød,</l>
+<l>Hvor, til hele <hi rend="spaced">Markens</hi> Glæde,</l>
+<l>Morgen-Sangen lød:</l>
+<l>Hvor med <hi rend="spaced">Danmarks Arilds-Kirke</hi>,</l>
+<l>Høit sig hæved <hi rend="spaced">Dannevirke</hi>!</l>
+<l>Tør du end for <hi rend="spaced">Tydsken</hi> sjunge</l>
+<l>Med den <hi rend="spaced">Danske</hi> Tunge!</l>
+</lg>
+<lg>
+<l><hi rend="spaced">Folke</hi> hedd din gamle Taler,</l>
+<l>I vor Konge-Bog</l>
+<l>End hans Ord vor Aand Husvaler,</l>
+<l>Dansk var <hi rend="spaced">Folkes</hi> Sprog;</l>
+<l>Feide-Bud, en Foraars-Morgen,</l>
+<l>Bragde han til <hi rend="spaced">Jelling-Borgen</hi>,</l>
+<l>Som man, efter Kongens Tykke,</l>
+<l>Ønsker Folk til Lykke!</l>
+</lg>
+<lg>
+<l><hi rend="spaced">Danmarks</hi> Fiender i vor Midte,</l>
+<l>Sagde han med Klem,</l>
+<l>Vidste Veien godt at hitte</l>
+<l>Til de <hi rend="spaced">Stummes</hi> Hjem;</l>
+<l>Vore Sværde, Spyd og Pile</l>
+<l>Vrat dem bringe skal til Hvile,</l>
+</lg> 
+<pb facs="1844_6_page0028.png"/>
+<fw type="pageNum">28</fw>
+<lg>
+<l>Dem Godnat i Graven sjunge</l>
+<l>Med den <hi rend="spaced">Danske</hi> Tunge!</l>
+</lg>
+<lg>
+<l>Danne-Kongen sit Guld-Bæger</l>
+<l>Skiænked fuldt af Viin,</l>
+<l>Sagde: drik! det vederkvæger,</l>
+<l>Skaalen er og din;</l>
+<l>Som en Dannemand og Kampe,</l>
+<l>FM til Fiende-Skryd at dæmpe,</l>
+<l>Har du talt og vil du stride</l>
+<l>Paa den <hi rend="spaced">Danske</hi> Side!</l>
+</lg>
+<lg>
+<l>Tak, som byder, mæled <hi rend="spaced">Folke</hi>,</l>
+<l>Sikkert skal mit Staal</l>
+<l>Fienden klart mit <hi rend="spaced">Sprog</hi> fortolke,</l>
+<l>Drikke Kongens Skaal,</l>
+<l>Og for jeg af <hi rend="spaced">Marken</hi> rømmer,</l>
+<l>Af mit Blod et Bæger tømmer</l>
+<l>Jeg til Skaal for Venner kiære,</l>
+<l>Og for <hi rend="spaced">Danmarks</hi> Ære!</l>
+</lg>
+<lg>
+<l>End er Øiet ei saa taaget,</l>
+<l>Det jo seer fuldgrant:</l>
+<l><hi rend="spaced">Dansk</hi> var dengang <hi rend="spaced">Folke-Sproget</hi>,</l>
+<l>Og de <hi rend="spaced">Danske</hi> vandt:</l>
+<l>Danne-Kongen, hvid som Duen,</l>
+<l><hi rend="spaced">Kolke</hi> saae paa Bane-Tuen,</l>
+<l>Sagde: knap med Guld, som eies,</l>
+<l>Helteblod opveies.</l>
+</lg> 
+<pb facs="1844_6_page0029.png"/>
+<fw type="pageNum">29</fw>
+<lg>
+<l>Slesvig! <hi rend="spaced">Anglers</hi> Jarle-Sæde!</l>
+<l>Kongers Moderskiød,</l>
+<l>Hvor, til hele <hi rend="spaced">Markens</hi> Glæde.</l>
+<l>Morgen-Sangen lød:</l>
+<l>Hvor, med <hi rend="spaced">Danmarks Arilds Kirke</hi>,</l>
+<l>Høit sig hæved <hi rend="spaced">Dannevirke</hi>!</l>
+<l>Længe du om <hi rend="spaced">Folke</hi> sjunge</l>
+<l>Frit med<hi rend="spaced"> Folke-Tunge</hi>!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

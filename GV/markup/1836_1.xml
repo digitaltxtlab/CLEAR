@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Nordisk Kirke-Tidende</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-20"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="001"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1836">1836</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1836_1_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">1836 Nº 5 Nordisk<lb/>Kirke-Tidende</titlePart>
+</docTitle>
+<byline>udgiven af<lb/>
+	<docAuthor>Jac. Chr. Lindberg</docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<docEdition>Fjerde Aargang. 31. Januar. Söndag Septuagesima.</docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace></pubPlace>Maa trykkes. C. Reiersen. Trykt paa Udgiverens Forlag hos C. Græbe &amp; Søn.<lb/>
+<fw type="graphic"/>
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<head>Nyaars-Psalme.</head>
+<lg>
+<l><hi rend="initial">A</hi>f Høiheden oprundet er</l>
+<l>En Stjerne skjøn med Morgen-Skjær,</l>
+<l>En Sol, som ei stal dale;</l>
+<l>Den kaster Lys paa Strand og Vang,</l>
+<l>Den liver op hver Fugl til Sang</l>
+<l>I Skovens grønne Sale!</l>
+<l><hi rend="align(center)">Seer du!</hi></l>
+<l><hi rend="align(center)">Syng nu,</hi></l>
+<l><hi rend="align(center)">Fik du Tunge,</hi></l>
+<l><hi rend="align(center)">Fugleunge!</hi></l>
+<l><hi rend="align(center)">Nyaars-Sangen!</hi></l>
+<l>Syng i Takt med Orgel-Klangen!</l>
+</lg>
+<lg>
+<l>Du Blomster-Flor med Duften sød!</l>
+<l>Hvi sover du i Jordens Skjød?</l>
+<l>Vaagn op ved Jule-Tider!</l>
+<l>Kom Rose rod, kom blaa Fiol!</l>
+<l>Skjær-Sommer gjør den Vinter-Sol,</l>
+<l>Som nu paa Himlen strider.</l>
+<l><hi rend="align(center)">Pryd dig!</hi></l>
+<l><hi rend="align(center)">Fryd dig!</hi></l>
+<l><hi rend="align(center)">Herrens Have!</hi></l>
+<l><hi rend="align(center)">Helgen-Grave!</hi></l>
+<l><hi rend="align(center)">Jer omvinder</hi></l>
+<l>Jul med himmelblaa Kjærminder!</l>
+</lg>
+<lg>
+<l>Ja Lys, som Gud har sagt, er godt,</l>
+<l>Naar deilig det ei skinner blot,</l>
+<l>Men varmer og opliver;</l>
+<l>Saa gjør det Lys, som brænder nu,</l>
+<l>Ja, kjære Sjæl, kom vel ihu,</l>
+<l>At evigt Liv det giver!</l>
+<l><hi rend="align(center)">Bliv prud!</hi></l>
+<l><hi rend="align(center)">Bryd ud!</hi></l>
+<l><hi rend="align(center)">Tak med Sange,</hi></l>
+<l><hi rend="align(center)">Tusind Gange,</hi></l>
+<l><hi rend="align(center)">I det Hole,</hi></l>
+<l>Livets Lys for Sjælens Die!</l>
+</lg>
+<lg>
+<l>Det Lys, med Livets Krast i Løn,</l>
+<l>O, det er Guds eenbaarne Son,</l>
+<l>Marias dog tillige,</l>
+<l>Ja, det er Gud i Himmerig,</l>
+<l>Et Moders Barn som alle vi,</l>
+<l>Foruden Synd, at sige.</l>
+<l><hi rend="align(center)">Jesus,</hi></l>
+<l><hi rend="align(center)">Christus,</hi></l>
+<l><hi rend="align(center)">Guddoms-Manden,</hi></l>
+<l><hi rend="align(center)">Ingen Anden,</hi></l>
+<l><hi rend="align(center)">Til os kommer</hi></l>
+<l>Jule-Nat med Dag og Sommer!</l>
+</lg>
+<lg>
+<l>Saa høit det lød fra Englehjem,</l>
+<l>Om Barnet fedt i Bethlehem,</l>
+<l>Til hele Jordens Gammen;</l>
+<l>Derfor, o Christne, alle vi</l>
+<l>Med Hjertens Fryd vil stemme i:</l>
+<l>Halleluja og Amen!</l>
+<l><hi rend="align(center)">Jesus,</hi></l>
+<l><hi rend="align(center)">Christus,</hi></l>
+<l><hi rend="align(center)">Skal med Ære</hi></l>
+<l><hi rend="align(center)">Prisen bære,</hi></l>
+</lg> 
+<pb facs="1836_1_page0002.png"/>
+<fw type="pageNum">67</fw>
+<lg>
+<l><hi rend="align(right)">Lys med Livet,</hi></l>
+<l>Som han er, han os har givet!</l>
+</lg>
+<lg>
+<l>Vort Lys, vor Jul, port Liv, vor Fryd</l>
+<l>Trompeters og Basuners Lyd</l>
+<l>Med os stal høit forkynde;</l>
+<l>Det kimed sødt i Morgen-Gry,</l>
+<l>Med Sang og Klang i højen Sky</l>
+<l>Vort Nyaar vi begynde.</l>
+<l><hi rend="align(center)">Hil dig!</hi></l>
+<l><hi rend="align(center)">Hæv dig!</hi></l>
+<l><hi rend="align(center)">Skjøn og herlig,</hi></l>
+<l><hi rend="align(center)">Klar og kiærlig,</hi></l>
+<l><hi rend="align(center)">Morgen-Rode!</hi></l>
+<l>Som for os stal evig gløde!</l>
+</lg>
+<lg>
+<l>Ja, Du med Livets Rosen-Krands,</l>
+<l>Marias Søn med Guddoms Glands:</l>
+<l>Solstraaler fra det Høje!</l>
+<l>Med Lys og Liv Du kom herned,</l>
+<l>For os i Tid og Evighed</l>
+<l>Med Dig at sammenføje.</l>
+<l><hi rend="align(center)">Held os!</hi></l>
+<l><hi rend="align(center)">Vel os!</hi></l>
+<l><hi rend="align(center)">Haab vi have,</hi></l>
+<l><hi rend="align(center)">Fra det Lave,</hi></l>
+<l><hi rend="align(center)">Høit at stige:</hi></l>
+<l>Op med Dig til Himme-Rige.</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

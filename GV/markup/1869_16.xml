@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Hr. Gunni Busck i Brøndby-Vester</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-26"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="016"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1869">1869</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1869_16_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main"><lb/>Hr. Gunni Busck i Brøndby-Vester</titlePart>
+	<titlePart type="sub"><lb/></titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<docImprint>
+				<pubPlace></pubPlace>.
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<lg>
+<l><hi rend="initial">H</hi>r. Gunni Busck i Brøndby-Vester,</l>
+<l>Han var min eiegode Ven,</l>
+<l>Som han imellem Sællands Præster</l>
+<l>Jeg har kun meget faa igien,</l>
+<l>Og det om ham skal mindes længe,</l>
+<l>han spared ei paa sine Penge,</l>
+<l>Naar Herren havde dem behov.</l>
+</lg>
+<lg>
+<l>To Snese Aar det er nu siden,</l>
+<l>Da dødt der var i Aandens Huus,</l>
+<l>Ja, med Lovsangen tav selv Kviden,</l>
+<l>Knap hørdes Suk paa Kirkens Gruus,</l>
+<l>Hvor før i Hjertets dybe Toner</l>
+<l>Lovsang vor himmelske Forsoner</l>
+<l>Det hele Land hver Herrens Dag.</l>
+</lg>
+<lg>
+<l>Dog vilde mildt sig Gud forbarme,</l>
+<l>Alt var Hans Aand paany udsendt</l>
+<l>Med Livets Ord, med Lys og Varme,</l>
+<l>Og Livets Lys var hos os tændt,</l>
+<l>Nydannel var en Psalme-Tunge,</l>
+<l>Som her en Opsang kunde sjunge</l>
+<l>Til Skabningens Halleluja.</l>
+</lg> 
+<pb facs="1869_16_page0002.png"/>
+<fw type="pageNum">16</fw>
+<lg>
+<l>Men Sølv og Guld har Aanden ikke,</l>
+<l>Og dog behøver Skjaldens Mund</l>
+<l>Og Skjalde-Huset Mad og Drikke,</l>
+<l>Saa Skjalden, som en Fugl i Lund,</l>
+<l>Sig maatte med Guds-Ordet trøste,</l>
+<l>At dem, som ikke saae og høste,</l>
+<l>Dem føder Gud alligevel.</l>
+</lg>
+<lg>
+<l>Det Ord fik Røst paa Præste-Tungen,</l>
+<l>Som sig i Bjergby rørde da,</l>
+<l>I Tusindtal af Præste-Pungen</l>
+<l>Sølvdalere sprang ud derfra,</l>
+<l>Derved vedligeholdtes Kraften</l>
+<l>Fra Nytaarsdag til Juleaften</l>
+<l>Hos Skjalden og hans ganske Huus.</l>
+</lg>
+<lg>
+<l>Sangværket til den Danske Kirke</l>
+<l>Saalunde frem for Lyset kom,</l>
+<l>Og Menighedens Psalme-Virke</l>
+<l>Skal minde Slægterne derom,</l>
+<l>Saa glemmes mellem Sællands Præster</l>
+<l>Skal aldrig han i Brøndby-Vester,</l>
+<l>Som kiøbde Lovsang til Guds Huus!</l>
+</lg>
+<p>September 1869.</p>
+<p><hi rend="align(right)"><hi rend="italic">N. F. S. Grundtvig,</hi></hi></p>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

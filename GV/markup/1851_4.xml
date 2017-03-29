@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Velkomst i Hjemmet til de Danske Krigskarle.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-22"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="004"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1851">1851</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1851_4_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Velkomst i Hjemmet<lb/>til</titlePart>
+	<titlePart type="sub">de Danske Krigskarle.<lb/></titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<docImprint>
+				<pubPlace>Kjøbenhavn.</pubPlace>.<lb/>Trykt hos J. D. Qvist, Bog- og Nodetrykker.<lb/>
+<docDate>1851</docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<pb facs="1851_4_page0002.png"/>
+<fw type="pageNum"></fw>
+<fw type="graphic"/>
+<head>Mel. Vi Sømænd giør ei mange Ord.</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">L</hi>ad Tydsken vaase hvad han vil</l>
+<l>Om Sællandsfar og Jyde!</l>
+<l>For Vaas, hvor det gaaer bidhvast til,</l>
+<l>Har intet at betyde,</l>
+<l>Og bidhvast gik det til ifjor</l>
+<l>Ved <hi rend="bold">Med</hi> og <hi rend="bold">Midsunde</hi>,</l>
+<l>Der lukked, trods de stolte Ord,</l>
+<l>Vi smukt de tyste Munde.</l>
+</lg>
+<lg>
+<l>Velkommen hjem til Huus og Gaard,</l>
+<l>Og til en yndig Pige,</l>
+<l>Enhver, som, med og uden Saar,</l>
+<l>Har stridt for <hi rend="bold">Danmarks</hi> Rige!</l>
+<l>Gud give. Det maa staae i Fred,</l>
+<l>Som "deiligst Vang og Vænge",</l>
+<l>Saa ingen Tysker lystes ved</l>
+<l>At spotte Danske Drenge.</l>
+</lg> 
+<pb facs="1851_4_page0003.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Og gid, som her, med Liv og Lyst,</l>
+<l>I Hytter og i Sale,</l>
+<l>Om Danske Karles Kæmpedyst</l>
+<l>Maa høres Sang og Tale,</l>
+<l>Saa Piger smaa vil ogsaa med,</l>
+<l>Naar det i Skyen lyder</l>
+<l>Som før "<hi rend="bold">dengang jeg drog afsted</hi>!"</l>
+<l>Vi veed, hvad det betyder.</l>
+</lg>
+<lg>
+<l>For kommer Tysken saa med Vaas</l>
+<l>Igien til <hi rend="bold">Dannevirke</hi>,</l>
+<l>Da finder Ledet han med Laas,</l>
+<l>Som han kan ei opdirke;</l>
+<l>Da modes under <hi rend="bold">Dannebrog</hi></l>
+<l>Han brat af <hi rend="bold">Holger-Danske</hi>,</l>
+<l>Som lærer ham det danske Sprog</l>
+<l>Med Hurra og Staalhandske.</l>
+</lg>
+<lg>
+<l>Saa lad os høre nu, hvordan</l>
+<l>Det Danske Hurra klinger,</l>
+<l>Naar Holger-Danske Menigmand</l>
+<l>For Tyskens Øren ringer!</l>
+<l>Hurra, Hurra, for <hi rend="bold">Dannebrog</hi>,</l>
+<l>For Kongen og hans Ka'le!</l>
+<l>Det er det gamle Kæmpesprog</l>
+<l>Paa Bjerge og i Dale.</l>
+</lg>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

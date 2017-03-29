@@ -1,0 +1,2966 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI PUBLIC "-// NSL Norge //EN" "http://www.bokselskap.no/tekstkoding/NSL_tei_xinclude.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="BOB_Grieg_Haabet">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Bergen Offentlige Bibliotek/bokselskap.no, 2014
+<lb/>Nordahl Grieg: <hi rend="italic">Haabet</hi> (1946)
+<lb/>Teksten i bokselskap.no f&#x00F8;lger 1. utgave, 1946, digitalisert av Bergen Offentlige Bibliotek som en del av prosjektet <hi rend="italic">&#x00C5;nd eies av alle &#x2013; Nordahl Grieg digitalisert</hi> (http://bergenbibliotek.no/nordahlgrieg).</title>
+</titleStmt>
+<publicationStmt>
+<p>Digitalisert av Bergen Offentlige Bibliotek, publiseres av bokselskap.no.</p>
+</publicationStmt>
+<sourceDesc>
+<p>hele_haabet.xml (mottatt fra Bergen Offentlige Bibliotek, september 2014).</p>
+</sourceDesc>
+</fileDesc>
+<revisionDesc>
+<change xml:id="ENW" who="ENW" when="2014-11-03">Kodet om litt. Validert. Entiteter. Kodekontroll.</change>
+</revisionDesc>
+</teiHeader>
+<text xml:id="BOB_Grieg_Haabet_tekst" type="poems">
+<front>
+<titlePage type="main">
+<byline>
+<docAuthor>Nordahl Grieg</docAuthor>
+</byline>
+<docTitle>
+<titlePart type="main">H&#x00E5;bet</titlePart>
+</docTitle>
+<docDate>1946</docDate>
+</titlePage>
+<div xml:id="contents">
+<list type="contents_main">
+<item>
+	<list>
+	<item><ref target="poem_0_1" xml:id="contents_0_1">&#x005B;Forlagets forord&#x005D;</ref></item>
+	</list>
+</item>	
+<item><ref target="part_1" xml:id="contents_1">I</ref>
+	<list>
+	<item><ref target="poem_1_1" xml:id="contents_1_1">Bj&#x00F8;rnson</ref></item>
+	<item><ref target="poem_1_2" xml:id="contents_1_2">Henrik Ibsen</ref></item>
+	<item><ref target="poem_1_3" xml:id="contents_1_3">Fridtjof Nansen</ref></item>
+	<item><ref target="poem_1_4" xml:id="contents_1_4">Ved Nansens d&#x00F8;d</ref></item>
+	<item><ref target="poem_1_5" xml:id="contents_1_5">Til Johanne Dybwad</ref></item>
+	<item><ref target="poem_1_6" xml:id="contents_1_6">Johanne Dybwad</ref></item>
+	<item><ref target="poem_1_7" xml:id="contents_1_7">Til Roald Amundsens minne</ref></item>
+	<item><ref target="poem_1_8" xml:id="contents_1_8">Bergen</ref></item>
+	<item><ref target="poem_1_9" xml:id="contents_1_9">Sang til Vard&#x00F8;</ref></item>
+	<item><ref target="poem_1_10" xml:id="contents_1_10">Sannheten</ref></item>
+	<item><ref target="poem_1_11" xml:id="contents_1_11">&#x00AB;De blinde&#x00BB;</ref></item>
+	<item><ref target="poem_1_12" xml:id="contents_1_12">H&#x00E5;bet</ref></item>
+	</list>
+</item>
+<item><ref target="part_2" xml:id="contents_2">II</ref>
+	<list>
+	<item><ref target="poem_2_1" xml:id="contents_2_1">Til ungdommen</ref></item>
+	<item><ref target="poem_2_2" xml:id="contents_2_2">Sommer i London</ref></item>
+	<item><ref target="poem_2_3" xml:id="contents_2_3">Fullbyrdelsen</ref></item>
+	<item><ref target="poem_2_4" xml:id="contents_2_4">Sprinterne</ref></item>
+	<item><ref target="poem_2_5" xml:id="contents_2_5">Pusjkins siste vilje</ref></item>
+	<item><ref target="poem_2_6" xml:id="contents_2_6">Spansk teater</ref></item>	
+	<item><ref target="poem_2_7" xml:id="contents_2_7">En tysk arbeider</ref></item>
+	<item><ref target="poem_2_8" xml:id="contents_2_8">Det nye &#x00E5;r</ref></item>
+	<item><ref target="poem_2_9" xml:id="contents_2_9">Til de arbeidsl&#x00F8;ses barn</ref></item>
+	</list>
+</item>
+<item><ref target="part_3" xml:id="contents_3">III</ref>
+	<list>
+	<item><ref target="poem_3_1" xml:id="contents_3_1">Sj&#x00F8;mannen</ref></item>
+	<item><ref target="poem_3_2" xml:id="contents_3_2">Den menneskelige natur</ref></item>
+	<item><ref target="poem_3_3" xml:id="contents_3_3">Viggo Hansteen</ref></item>
+	</list>
+</item>
+<item><ref target="part_4" xml:id="contents_4">IV</ref>
+	<list>
+	<item><ref target="poem_4_1" xml:id="contents_4_1">Ode til en gresk vase</ref></item>
+	<item><ref target="poem_4_2" xml:id="contents_4_2">&#x00AB;Belle dame sans merci&#x00BB;</ref></item>
+	<item><ref target="poem_4_3" xml:id="contents_4_3">Kj&#x00E6;rlighetens filosofi</ref></item>
+	<item><ref target="poem_4_4" xml:id="contents_4_4">God natt!</ref></item>
+	<item><ref target="poem_4_5" xml:id="contents_4_5">&#x00AB;N&#x00E5;r du er g&#x00E5;tt &#x2013;&#x00BB;</ref></item>
+	<item><ref target="poem_4_6" xml:id="contents_4_6">Til dig</ref></item>
+	<item><ref target="poem_4_7" xml:id="contents_4_7">&#x00AB;Mitt Fedreland &#x2013; godnatt!&#x00BB;</ref></item>
+	<item><ref target="poem_4_8" xml:id="contents_4_8">Ambarvalia</ref></item>
+	<item><ref target="poem_4_9" xml:id="contents_4_9">1914-sonettene</ref></item>	
+	<item><ref target="poem_4_10" xml:id="contents_4_10">Sankt Peter beretter en episode fra opstandelsens morgen</ref></item>
+	</list>
+</item>
+</list>
+<figure rend="shortHorizRule"/>
+</div>
+</front>
+<body>
+<div type="chapter" subtype="preface">
+<head type="main"><ref type="contents" target="contents_0_1" xml:id="preface_0_1">&#x005B;Forlagets forord&#x005D;</ref></head>
+<p><hi rend="italic">Av de diktene som er samlet i denne boken, er &#x00AB;Sj&#x00F8;mannen&#x00BB; her trykt for f&#x00F8;rste gang. Det var Nordahl Griegs &#x00F8;nske at hverken dette dikt eller &#x00AB;Den menneskelige natur&#x00BB; (trykt i &#x00AB;Dagbladet&#x00BB; og &#x00AB;Politiken&#x00BB; 10. jan. 1946 den dagen De Forente Nasjoner m&#x00F8;ttes f&#x00F8;rste gang i London), som begge er skrevet i 1942, skulle offentliggj&#x00F8;res f&#x00F8;r krigen var forbi. &#x00AB;Spansk Teater&#x00BB; har, s&#x00E5; vidt vites, heller ikke v&#x00E6;rt trykt f&#x00F8;r. De andre diktene har v&#x00E6;rt offentliggjort ettersom de ble til, i aviser og tidsskrifter, mange i &#x00AB;Veien frem&#x00BB;. De fleste av de oversettelser fra engelsk lyrikk som er tatt med, er hentet fra &#x00AB;De unge d&#x00F8;de&#x00BB;.</hi></p>
+<figure rend="shortHorizRule"/>
+</div>
+
+<div type="part" n="1">
+<head type="main"><ref type="contents" target="contents_1" xml:id="poem_1">I</ref></head>
+<div type="chapter" subtype="poem" n="1_1">
+<head type="main"><ref type="contents" target="contents_1_1" xml:id="poem_1_1">BJ&#x00D8;RNSON</ref></head>
+<lg>
+<l>To skapere har verden. Den ukjente hvis: Bliv</l>
+<l>har formet stjernet&#x00E5;ker til jord og sj&#x00F8; og liv.</l>
+<l>Men ogs&#x00E5; den er skaper, den mann som sterk og &#x00F8;m</l>
+<l>kan stirre mot det skapte og &#x00F8;ke med sin dr&#x00F8;m.</l>
+</lg>
+<lg>
+<l>Slik var hans verk p&#x00E5; jorden. Av skodden tung og r&#x00E5;</l>
+<l>steg gr&#x00F8;nne, glade skrenter, fordi hans &#x00F8;ine s&#x00E5;.</l>
+<l>Der lekte barn p&#x00E5; tunet, gress b&#x00F8;lget, bekker sprang!</l>
+<l>Det dunkle skaperordet forvandlet han til sang.</l>
+</lg>
+<lg>
+<l>Han gav til sommerkvelden dens lengselslyse skinn,</l>
+<l>og bjerkens blonde smerte stod risset i hans sinn.</l>
+<l>Hans uro blev til fjellet som over lave hus</l>
+<l>drog dag og natt et veldig, forsterket &#x00F8;rnebrus.</l>
+</lg>
+<lg>
+<l>Han jog som sol p&#x00E5; sj&#x00F8;en sitt utferdseventyr,</l>
+<l>s&#x00E5; langt som hvite vinger om v&#x00E5;re skiber flyr.</l>
+<l>Men landet steg av havet, med stein i skumgr&#x00E5;tt driv,</l>
+<l>og han sa: Ja, han elsket, og ordet blev til liv.</l>
+</lg>
+<lg>
+<l>Hvor hentet han den styrken, som bar hans skaperverk?</l>
+<l>Han kom jo fra sin elskte, ung, lysende og sterk!</l>
+<l>Og den som favnet livet, det grensel&#x00F8;se, kan</l>
+<l>vel ta i sine armer en del av det: Et land!</l>
+</lg>
+<lg>
+<l>Alt liv, fra korn som gr&#x00F8;nnes til stjernekimers rum,</l>
+<l>blev svaret p&#x00E5; hans lykke, hans blods mysterium.</l>
+<l>Hans vekst skj&#x00F8;t opp fra vollen hvor d&#x00F8;de slekter slet.</l>
+<l>Barn tumlet gjennem gresset, og alt var evighet.</l>
+</lg>
+<lg>
+<l>For han var alt som levet, om kulden hersket h&#x00E5;rd,</l>
+<l>p&#x00E5; evig vei mot lyset, den uendelige v&#x00E5;r!</l>
+<l>Og hver som krenket veksten, som trampet blomst og rot,</l>
+<l>de hatende og golde, dem bar han v&#x00E5;ben mot.</l>
+</lg>
+<lg>
+<l>Men hvor hans &#x00F8;ine str&#x00E5;lte, hvor &#x00F8;mt hans hjerte var</l>
+<l>for hver som &#x00F8;ket livet, han selv en mann og far.</l>
+<l>Et v&#x00E5;gsomt seil i stormen, gult korn mot evig sne&#x2026;</l>
+<l>Hans gjerning var den samme: at livet m&#x00E5;tte skje.</l>
+</lg>
+<lg>
+<l>Det landet som vi ser mot, fra hav til bl&#x00E5;hvit fonn,</l>
+<l>hvad var det f&#x00F8;r han dr&#x00F8;mte, hvad lever ved hans &#x00E5;nd?</l>
+<l>&#x00C5; unge mor, fortell det til barnet p&#x00E5; ditt fang,</l>
+<l>at meget som er Norge, begynte med en sang!</l>
+</lg>
+<figure rend="shortHorizRule"/>
+</div>
+
+<div type="chapter" subtype="poem" n="1_2">
+<head type="main"><ref type="contents" target="contents_1_2" xml:id="poem_1_2">HENRIK IBSEN</ref></head>
+<lg>
+<l>H&#x00F8;it i den frysende eters &#x00F8;de</l>
+<l>rider en rytter, isnende hvit.</l>
+<l>Menneske, vig fra de evige stjerner!</l>
+<l>Straffen skal storme fra frostbleke fjerner,</l>
+<l>viljen og dr&#x00F8;mmen skal martres til d&#x00F8;de &#x2013;</l>
+<l>rid ikke dit!</l>
+</lg>
+<lg>
+<l>Anede templer med m&#x00E5;negl&#x00F8;d-s&#x00F8;iler,</l>
+<l>d&#x00F4;mer av stjerner, altre av &#x00E5;nd,</l>
+<l>rider han mot, den ensomme rytter.</l>
+<l>Skalv der en lengsel mot snelandets hytter,</l>
+<l>strammer han bare de blodige t&#x00F8;iler</l>
+<l>h&#x00E5;rdt i sin h&#x00E5;nd.</l>
+</lg>
+<lg>
+<l>Videre m&#x00E5; han, videre lider han,</l>
+<l>truende, trossige, veldige sjel!</l>
+<l>Lykke og liv blev han d&#x00F8;mt til &#x00E5; b&#x00F8;te:</l>
+<l>bare en d&#x00F8;dsmaskes marmor kan m&#x00F8;te</l>
+<l>dypenes isblikk; levende rider han</l>
+<l>hesten fra Hel.</l>
+</lg>
+<lg>
+<l>Evig det store skal skapes i smerte!</l>
+<l>Alt skal du ofre! Hvad skal du n&#x00E5;?</l>
+<l>Sp&#x00F8;r ikke, h&#x00E5;p ikke! B&#x00F8;i dig for kravet:</l>
+<l>Atlantis blir n&#x00E5;dd, n&#x00E5;r du synker i havet!</l>
+<l>Ser du Jehova, o hungrende hjerte,</l>
+<l>skal du forg&#x00E5;!</l>
+</lg>
+<lg>
+<l>Men i sitt frysende favntak han kryster</l>
+<l>lik av en lykke, i tryglende trang.</l>
+<l>Blodet som brente, skriket i sjelen</l>
+<l>stivnet; men stilt som en v&#x00E5;rdr&#x00F8;m i telen</l>
+<l>&#x00E5;nder et sus fra velsignede kyster,</l>
+<l>Solveig, din sang.</l>
+</lg>
+<lg>
+<l>Videre, videre! Aldri tilbake!</l>
+<l>Templene kaller&#x2026; Rid, rytter, rid!</l>
+<l>&#x00C5; ensomme hjerte, som aldri har veket</l>
+<l>aldri har b&#x00F8;id sig for B&#x00F8;igen og sveket, &#x2013;</l>
+<l>str&#x00E5;l med din kulde for oss som er svake,</l>
+<l>herd oss til strid!</l>
+</lg>
+<lg>
+<l>Frysende skinner det store og sanne!</l>
+<l><hi rend="italic">Varme</hi> har titt klekket &#x00F8;gler av nid!</l>
+<l>Du d&#x00F8;dning deroppe! Sumpen er lunken,</l>
+<l>hat er p&#x00E5; jorden, himlen er sunken!</l>
+<l>S&#x00E5; merk da med offerets islys v&#x00E5;r panne &#x2013;</l>
+<l>rid, rytter, rid!</l>
+</lg>
+<figure rend="shortHorizRule"/>
+</div>
+
+<div type="chapter" subtype="poem" n="1_3">
+<head type="main"><ref type="contents" target="contents_1_3" xml:id="poem_1_3">FRIDTJOF NANSEN</ref></head>
+<lg>
+<l>En mand stod op. En lysning faldt</l>
+<l>som is og flammer over alt.</l>
+<l>Ham kjendte vi! S&#x00E5; korstog-ren,</l>
+<l>s&#x00E5; h&#x00F8;vdingsterk var bare en.</l>
+<l>Her speidet l&#x00E6;ngtende et land,</l>
+<l>da steg han frem av m&#x00F8;rkets tid,</l>
+<l>og lyset var en baunens brand:</l>
+<l>St&#x00E5; op og strid!</l>
+</lg>
+<lg>
+<l>&#x00C5; norske ungdom &#x2013; f&#x00F8;lg ham frem!</l>
+<l>St&#x00E5; op til strid! Til strid mot hvem?</l>
+<l>Det vet vi jo: I d&#x00E5;d og skrift</l>
+<l>her m&#x00F8;rkner hat, her t&#x00E6;rer gift.</l>
+<l>S&#x00E5; saml oss da &#x2013; vi er parat &#x2013; &#x2013; &#x2013;</l>
+<l>Hans isblikk vender sig og ser:</l>
+<l>Den som er god, skal hate hat,</l>
+<l>og ingen fler.</l>
+</lg>
+<lg>
+<l>Det er til st&#x00F8;rre strid end <hi rend="italic">den</hi>,</l>
+<l>han kalder v&#x00E5;re unge m&#x00E6;nd.</l>
+<l>Det er til strid mot eget sind</l>
+<l>hans flammesverd har vidd oss ind.</l>
+<l><hi rend="italic">Hans</hi> liv skal bl&#x00E6;nde <hi rend="italic">v&#x00E5;rt</hi>, som skam &#x2013;</l>
+<l>i sorg og l&#x00E6;ngsel skal vi si:</l>
+<l>Vi kjender ham, vi elsker ham,</l>
+<l>men hvem er vi?</l>
+</lg>
+<lg>
+<l>I t&#x00E5;keheimen, r&#x00E5; og vild,</l>
+<l>to ting han l&#x00E6;rte: is og ild.</l>
+<l>Han gikk mot stormen. F&#x00F8;ik og k&#x00F4;v</l>
+<l>sin dype viljefure grov.</l>
+<l>Hans kraft blev sp&#x00E6;ndt av strenge m&#x00E5;l,</l>
+<l>han hentet styrke av forlis.</l>
+<l>Hans viljes st&#x00E5;l mot stormens st&#x00E5;l</l>
+<l>og is mot is.</l>
+</lg>
+<lg>
+<l>Han l&#x00E6;rte mer. Mot kuldens gys</l>
+<l>han s&#x00E5; ett vern: <hi rend="italic">sin</hi> ild, <hi rend="italic">sitt</hi> lys.</l>
+<l>&#x00C5;, sind mot natten, kald og arm &#x2013;</l>
+<l>bli tifold str&#x00E5;lende og varm!</l>
+<l>Han dyrket ilden til den gav</l>
+<l>den st&#x00F8;rste flammen verden vet:</l>
+<l>Den br&#x00E6;ndte over fjerne hav &#x2013;</l>
+<l>barmhjertighet.</l>
+</lg>
+<lg>
+<l>S&#x00E5; d&#x00F8;m i lynet av hans sverd</l>
+<l>v&#x00E5;r egen kraft, v&#x00E5;rt eget v&#x00E6;rd.</l>
+<l>N&#x00E5;r sp&#x00E6;ndte vi v&#x00E5;r viljes st&#x00E5;l</l>
+<l>mot h&#x00F8;ie, smertelige m&#x00E5;l?</l>
+<l>N&#x00E5;r br&#x00E6;ndte vi mot ett: <hi rend="italic">at gi</hi>,</l>
+<l>v&#x00E5;r ild, v&#x00E5;rt lys mot stormens veir?</l>
+<l>En slekt p&#x00E5; film, en slekt p&#x00E5; ski</l>
+<l>er alt vi er.</l>
+</lg>
+<lg>
+<l>En slekt p&#x00E5; film &#x2026; P&#x00E5; flukt hver kveld</l>
+<l>fra livets d&#x00E5;dsprakt for oss selv.</l>
+<l>Her elskes kvinder, mandfolk sl&#x00E5;ss &#x2013; &#x2013; &#x2013;</l>
+<l>To kroner koster livet oss.</l>
+<l>Men der er h&#x00E5;b: en slekt p&#x00E5; ski!</l>
+<l>Her er v&#x00E5;r egen kraft som flyr,</l>
+<l>lik st&#x00E5;l og sang, her suser fri</l>
+<l><hi rend="italic">v&#x00E5;rt</hi> eventyr!</l>
+</lg>
+<lg>
+<l>Men <hi rend="italic">hvorfor</hi> kraft og helsebot</l>
+<l>og styrkens dr&#x00F8;mmel&#x00F8;se mot?</l>
+<l>Det er <hi rend="italic">det st&#x00F8;rste</hi> en kan si</l>
+<l>om slekten v&#x00E5;r: den g&#x00E5;r p&#x00E5; ski!</l>
+<l>Det er jo <hi rend="italic">alt</hi> vi vil og kan</l>
+<l>som sl&#x00E6;nges ut i sol og sne.</l>
+<l>Men intet folk og intet land</l>
+<l>blev frelst ved det!</l>
+</lg>
+<lg>
+<l><hi rend="italic">Han</hi> gikk p&#x00E5; ski! S&#x00E5; l&#x00E6;r av ham!</l>
+<l>Med &#x00E5;ndens byrde gikk han fram.</l>
+<l>For d&#x00E5;dens dr&#x00F8;m, for Norges flag &#x2026;</l>
+<l><hi rend="italic">Han</hi> visste hvorfor, natt og dag.</l>
+<l>P&#x00E5; birkebeinerf&#x00E6;rd han f&#x00F3;r</l>
+<l>med Norges kongsbarn over fjeld:</l>
+<l>han bar en fremtid i sitt spor</l>
+<l>mot isgr&#x00E5; kveld!</l>
+</lg>
+<lg>
+<l><hi rend="italic">Han</hi> gikk p&#x00E5; ski&#x2026; Nu er det oss.</l>
+<l>Ta byrden op i hellig tross.</l>
+<l>Hver evne som vi har og vil &#x2013;</l>
+<l>h&#x00E6;rd den til st&#x00E5;l, gl&#x00F8;d den til ild!</l>
+<l>Bli &#x00E5;nd, bli menneske, bli mand,</l>
+<l>bli viljen gjennem m&#x00F8;rkets tid.</l>
+<l>Saml f&#x00F8;rst v&#x00E5;rt sind. Saml s&#x00E5; v&#x00E5;rt land.</l>
+<l>Det er v&#x00E5;r strid.</l>
+</lg>
+<lg>
+<l>Nu er det oss! Mot stormen blind</l>
+<l>br&#x00F8;it l&#x00F8;ipen i v&#x00E5;rt eget sind.</l>
+<l>Og stuper vi, hent kraft hos en</l>
+<l>som gikk der f&#x00F8;r, mens natten hven.</l>
+<l>For over &#x00F8;de fjeld og hei</l>
+<l>vi skimter foran oss en mand.</l>
+<l>Hans spor skal f&#x00F8;re ind til dig,</l>
+<l>v&#x00E5;r fremtids land!</l>
+</lg>
+<figure rend="shortHorizRule"/>
+</div>
+
+<div type="chapter" subtype="poem" n="1_4">
+<head type="main"><ref type="contents" target="contents_1_4" xml:id="poem_1_4">VED NANSENS D&#x00D8;D</ref></head>
+<lg>
+<l>S&#x00E5; sluknet han, i v&#x00E5;rens lys,</l>
+<l>og stille l&#x00E5; han, blek og stiv.</l>
+<l>Men i den stund da alt blev stumt,</l>
+<l>steg smertelig en sang om liv.</l>
+</lg>
+<lg>
+<l>Der l&#x00F8;ftet sig fra landet v&#x00E5;rt,</l>
+<l>fra nakne skj&#x00E6;r og s&#x00F8;lvgr&#x00E5; hus</l>
+<l>og unge akres lyse vekst,</l>
+<l>et overjordisk vingesus.</l>
+</lg>
+<lg>
+<l>For dr&#x00F8;mmen om ham i v&#x00E5;rt sinn</l>
+<l>sov stilt som hvite fuglefjell,</l>
+<l>men da han d&#x00F8;de, steg et brus,</l>
+<l>som fylte hav og land mot kveld.</l>
+</lg>
+<lg>
+<l>Han som vi elsket, reiste sig;</l>
+<l>hans ungdoms d&#x00E5;d, hans manndoms gl&#x00F8;d</l>
+<l>falt p&#x00E5; v&#x00E5;r sjel som v&#x00E5;rens sol,</l>
+<l>og alt var liv og intet d&#x00F8;d.</l>
+</lg>
+<lg>
+<l>Hvad d&#x00F8;den krever, gav han f&#x00F8;r;</l>
+<l>for den som setter livet inn</l>
+<l>mot is og natt og undergang,</l>
+<l>d&#x00F8;r d&#x00F8;den i sitt eget sinn.</l>
+</lg>
+<lg>
+<l>Men gjennem t&#x00E5;keheimens gru,</l>
+<l>hvor stormen f&#x00F8;k og m&#x00F8;rket seg,</l>
+<l>brant mannens vilje som et lys,</l>
+<l>og natten falt, men lyset steg.</l>
+</lg>
+<lg>
+<l>Slik har han verget sig med lys,</l>
+<l>p&#x00E5; d&#x00F8;dens m&#x00F8;rke vei mot nord,</l>
+<l>men lyset blev en verdens lys,</l>
+<l>da han igjen s&#x00E5; hjemmets jord.</l>
+</lg>
+<lg>
+<l>En regnbue, i t&#x00E5;rer brutt,</l>
+<l>ved kornets gull og gressets gr&#x00F8;nt,</l>
+<l>en flamme av barmhjertighet,</l>
+<l>fordi hans liv var ungt og skj&#x00F8;nt.</l>
+</lg>
+<lg>
+<l>De fjerne folkeslag i n&#x00F8;d</l>
+<l>kom hungrende og nakne hen</l>
+<l>til flammen, der den ensom brant,</l>
+<l>og de har varmet sig ved den.</l>
+</lg>
+<lg>
+<l>Og i de unge m&#x00F8;dres nynn</l>
+<l>og barn i lek, langs Volgas siv,</l>
+<l>er han, den d&#x00F8;de, ennu med,</l>
+<l>og smilet deres er hans liv.</l>
+</lg>
+<lg>
+<l>Men vi, hans folk, skal kjenne ham</l>
+<l>i dr&#x00F8;m og d&#x00E5;d og &#x00F8;ines glans</l>
+<l>mot det han elsket; akrens lys,</l>
+<l>de fjerne snefjell &#x2013; alt er hans.</l>
+</lg>
+<lg>
+<l>Nu er han d&#x00F8;d. Nu lever han</l>
+<l>som v&#x00E5;ren selv; for hjertet vet</l>
+<l>at bare han som <hi rend="italic">gir</hi>, har liv,</l>
+<l>og bare han har evighet.</l>
+</lg>
+<figure rend="shortHorizRule"/>
+</div>
+
+<div type="chapter" subtype="poem" n="1_5">
+<head type="main"><ref type="contents" target="contents_1_5" xml:id="poem_1_5">TIL JOHANNE DYBWAD</ref></head>
+<lg>
+<l>Gr&#x00E5; ligger Oslo bak skodden;</l>
+<l>Bak dimmede, matte glass</l>
+<l>flyter det store akvarium,</l>
+<l>sv&#x00F8;mmer det norske parnass!</l>
+<l>Her glinser de evige flyndrer</l>
+<l>rundt i sin vassgr&#x00E5; ring</l>
+<l>og hilser hverandre med snuten</l>
+<l>i blasse, langsomme sving&#x2026;</l>
+</lg>
+<lg>
+<l>Da lyner et lys ned i dypet,</l>
+<l>en gnistrende spr&#x00F8;it av ild!</l>
+<l>Det glitrer av bl&#x00E5;nende b&#x00F8;lger &#x2013;</l>
+<l>er <hi rend="italic">havet</hi> likevel til?</l>
+<l>Er ikke gr&#x00E5;heten kunsten &#x2013;</l>
+<l>akvariet verdens rum?</l>
+<l>Men sj&#x00F8;en g&#x00E5;r bl&#x00E5; derute</l>
+<l>med solskin og bl&#x00E6;st og skum!</l>
+</lg>
+<lg>
+<l><hi rend="italic">Hun</hi> er det lyset som t&#x00E6;nder,</l>
+<l>hun er den dr&#x00F8;mmen om hav.</l>
+<l>Hun er det spillende nordlys</l>
+<l>og solgullets bl&#x00F8;te rav.</l>
+<l>Hun er den bl&#x00E5;sende latter,</l>
+<l>d&#x00E6;monenes blodr&#x00F8; veir,</l>
+<l>men allermest: flammen av ungdom,</l>
+<l><hi rend="italic">det</hi> er det under hun er!</l>
+</lg>
+<lg>
+<l>Vi som er unge mot hende,</l>
+<l>f&#x00F8;ler kanhende en kveld</l>
+<l>anende: <hi rend="italic">nu</hi> var vi unge!</l>
+<l>et stjerneskudd gjennem oss selv &#x2026;</l>
+<l>Men <hi rend="italic">hun</hi> eier tusende stjerner,</l>
+<l>et dryssende stjernegry,</l>
+<l>som springer lik en font&#x00E6;ne</l>
+<l>fra sinnet, p&#x00E5;ny og p&#x00E5;ny!</l>
+</lg>
+<lg>
+<l>Gr&#x00E5; ligger byen bak skodden &#x2026;</l>
+<l>Venner, hvad venter vi p&#x00E5;?</l>
+<l>Gli inn i det store akvarium,</l>
+<l>bli gr&#x00E5;, bli avholdt og gr&#x00E5;!</l>
+<l>Da skj&#x00E6;rer et lys ned i dypet,</l>
+<l>en stormende solgangsild,</l>
+<l>som bruser i bl&#x00E6;st og b&#x00F8;lger</l>
+<l>at <hi rend="italic">havet</hi> — havet er til!</l>
+</lg>
+<figure rend="shortHorizRule"/>
+</div>
+
+<div type="chapter" subtype="poem" n="1_6">
+<head type="main"><ref type="contents" target="contents_1_6" xml:id="poem_1_6">JOHANNE DYBWAD</ref></head>
+<p><hi rend="italic">Prolog ved 50-&#x00E5;rs-jubileet.</hi></p>
+<lg>
+<l>Hvor ofte er det sagt at scenens spill</l>
+<l>selv i sin velde, h&#x00F8;rer <hi rend="italic">nuet</hi> til!</l>
+<l>Jernteppet g&#x00E5;r. Kulissen bringes bort.</l>
+<l>Teatersalen ligger tom og sort.</l>
+</lg>
+<lg>
+<l>Alt som i farver, skrift og sten er skapt,</l>
+<l>kan vidne evig. M&#x00E5; v&#x00E5;r kunst g&#x00E5; tapt?</l>
+<l><hi rend="italic">Her er v&#x00E5;rt liv</hi>. Slik er det godt. Vi vet:</l>
+<l>gold er triumfen over evighet.</l>
+</lg>
+<lg>
+<l>En oldtidsdikter tegnet livets drag</l>
+<l>som hat og vold, og alt er ens idag.</l>
+<l>Intet g&#x00E5;r fremad, la oss hylde ham!</l>
+<l>Men evig kunst kan v&#x00E6;re evig skam.</l>
+</lg>
+<lg>
+<l>V&#x00E5;rt eget nu! V&#x00E5;rt h&#x00E5;p, v&#x00E5;r dr&#x00F8;m, v&#x00E5;rt blod!</l>
+<l>Vi stjeler intet fra en ny slekts tro.</l>
+<l>I dette livet er vi med og bygger,</l>
+<l>og intet evig verk skal kaste skygger.</l>
+</lg>
+<lg>
+<l>Det skapte lever. Her i nuets rum</l>
+<l>st&#x00E5;r nuets seirende mysterium.</l>
+<l>Et byggverk reiste hun, spent av geni.</l>
+<l>Men hvad er stoffet det skal leve i?</l>
+</lg>
+<lg>
+<l>Edelt som marmor, skiftende som ord,</l>
+<l>s&#x00E5; vekt som vann og groende som jord,</l>
+<l>slik er det stoff hun tok i sine hender.</l>
+<l>For det er menskesinn. Ja: <hi rend="italic">dere</hi>, venner!</l>
+</lg>
+<lg>
+<l>I deres sinn, av deres h&#x00E5;p og kval,</l>
+<l>har hun f&#x00E5;tt reist sin dr&#x00F8;mte katedral.</l>
+<l>Var deres hjerter utbrente og &#x00F8;de,</l>
+<l>har deres ansvar for et verk som d&#x00F8;de.</l>
+</lg>
+<lg>
+<l>Selv gav hun alltid. Blod og nerver sang:</l>
+<l>bygg nu! det finnes ingen annen gang.</l>
+<l>Av tankens makt og lidenskapens brenning</l>
+<l>steg buene tilv&#x00E6;rs i lys og spenning.</l>
+</lg>
+<lg>
+<l>Det er en kunst som elsker &#x00E5; &#x00AB;forst&#x00E5;&#x00BB;.</l>
+<l>Hun ikke; uforsonlig gikk hun p&#x00E5;.</l>
+<l>Hun er en ild, en bitter blest som renser,</l>
+<l>og mot og sannhet har f&#x00E5;tt st&#x00F8;rre grenser.</l>
+</lg>
+<lg>
+<l>Et under er hun! Gjennem femti &#x00E5;r</l>
+<l>stod vestenv&#x00E6;ret fra en salt, ung v&#x00E5;r.</l>
+<l>Sol glitret over b&#x00F8;lgene i lek,</l>
+<l>og stormen m&#x00F8;rknet til, og sj&#x00F8;fugl skrek.</l>
+</lg>
+<lg>
+<l>Hun bringer rummets store &#x00E5;ndedrag.</l>
+<l>Fyll dine lunger lykkelig idag!</l>
+<l>Gi videre til slekten hennes verk,</l>
+<l>fordi du selv blev mere sann og sterk.</l>
+</lg>
+<lg>
+<l>Da skal hun evig h&#x00F8;re nuet til &#x2013;</l>
+<l>i alt hun &#x00F8;ket: storm og lys og ild.</l>
+<l>V&#x00E6;r henne verdig, venner! For vi krever</l>
+<l>av <hi rend="italic">dere</hi> at Johanne Dybwad lever!</l>
+</lg>
+<figure rend="shortHorizRule"/>
+</div>
+
+<div type="chapter" subtype="poem" n="1_7">
+<head type="main"><ref type="contents" target="contents_1_7" xml:id="poem_1_7">TIL ROALD AMUNDSENS MINNE</ref></head>
+<lg>
+<l>Ny rykker timen atter n&#x00E6;r</l>
+<l>da han blev tatt av hav og rum.</l>
+<l>N&#x00E5;r trengte vi ham slik som nu?</l>
+<l>&#x2013; hans hjertes stolte, rene sum.</l>
+</lg>
+<lg>
+<l><hi rend="italic">Erkjennelse</hi> og <hi rend="italic">mot</hi> — det var</l>
+<l>hans &#x00E5;ndedrag i alle &#x00E5;r.</l>
+<l>Fyll lungene med samme luft,</l>
+<l>med viljen: han skal v&#x00E6;re v&#x00E5;r.</l>
+</lg>
+<lg>
+<l>Erkjennelse. I voldens tid</l>
+<l>da &#x00E5;nd blir drevet med gev&#x00E6;r</l>
+<l>til fangeleiren, &#x2013; husk <hi rend="italic">hans</hi> &#x00E5;nd,</l>
+<l>som alltid vilde vite mer.</l>
+</lg>
+<lg>
+<l>Og mot. I denne heltetid</l>
+<l>av giftgassd&#x00E5;d og bombedrap,</l>
+<l>st&#x00E5;r &#x00F8;demarkens mann hvis mot</l>
+<l>var fred og fellesskap.</l>
+</lg>
+<lg>
+<l>Hvad skapte han? Hvad blev igjen</l>
+<l>av &#x00F8;rnefluktens d&#x00E5;d og dr&#x00F8;m,</l>
+<l>av mannens bitre, ville kamp</l>
+<l>mot is og hav, mot luft og str&#x00F8;m?</l>
+</lg>
+<lg>
+<l>Liv blev igjen! For &#x00F8;dets gru</l>
+<l>og stormens ub&#x00F8;nnh&#x00F8;rlighet,</l>
+<l>som alltid m&#x00E5;tte drepe f&#x00F8;r,</l>
+<l>kan mestres av den &#x00E5;nd som <hi rend="italic">vet</hi>.</l>
+</lg>
+<lg>
+<l>N&#x00E5;r uv&#x00E6;rs-varslet nu g&#x00E5;r ut,</l>
+<l>og hjem blir spart for kval og n&#x00F8;d &#x2013;</l>
+<l>da skal vi minnes dette mot,</l>
+<l>som tjente livet til sin d&#x00F8;d.</l>
+</lg>
+<lg>
+<l>Hans d&#x00F8;d! For evig g&#x00E5;r hans flukt</l>
+<l>mot stormen hvor han styrtet ned,</l>
+<l>fordi han vilde redde liv</l>
+<l>og hjelpe mennesker som led.</l>
+</lg>
+<lg>
+<l>Nu styrer <hi rend="italic">verden</hi> ut i storm,</l>
+<l>mot dagning eller siste reis.</l>
+<l>Men kan vi f&#x00F8;lge slike m&#x00E5;l,</l>
+<l>glad kan vi styrte, underveis.</l>
+</lg>
+<figure rend="shortHorizRule"/>
+</div>
+
+<div type="chapter" subtype="poem" n="1_8">
+<head type="main"><ref type="contents" target="contents_1_8" xml:id="poem_1_8">BERGEN</ref></head>
+<lg>
+<l>Med Nordsj&#x00F8;en ved huset &#x2013; mot havets salte blest</l>
+<l>som sprengte d&#x00F8;ren &#x00E5;pen, gikk veien v&#x00E5;r mot vest!</l>
+<l>&#x00C5; store sang av frihet som vidde livet inn!</l>
+<l>Men bak den sangen ventet en stillhet i v&#x00E5;rt sinn.</l>
+</lg>
+<lg>
+<l>Et sus av regn som sivet mot elv, mot v&#x00E5;rgr&#x00F8;nn eng,</l>
+<l>et v&#x00E6;r av vekst og mildhet og evig sammenheng.</l>
+<l>Som dalen her, s&#x00E5; slekten; ja, her kan livet si,</l>
+<l>der finnes noget st&#x00F8;rre enn det &#x00E5; v&#x00E6;re fri.</l>
+</lg>
+<lg>
+<l>Den v&#x00E5;te, milde vinden st&#x00E5;r om oss som et hjem,</l>
+<l>den kjente slekter f&#x00F8;r oss; n&#x00E6;r bringes vi til dem.</l>
+<l>Som evighet, som mening vi f&#x00F8;ler livet gro,</l>
+<l>fordi den vinden str&#x00F8;k oss, og tr&#x00E6;r og fjell forstod.</l>
+</lg>
+<figure rend="shortHorizRule"/>
+</div>
+
+<div type="chapter" subtype="poem" n="1_9">
+<head type="main"><ref type="contents" target="contents_1_9" xml:id="poem_1_9">SANG TIL VARD&#x00D8;</ref></head>
+<lg>
+<l>Mot havets stride austenv&#x00E6;r</l>
+<l>st&#x00E5;r &#x00F8;ya gold og &#x00F8;de.</l>
+<l>Her finnes ikke h&#x00E5;p for tr&#x00E6;r</l>
+<l>og jord gir ikke gr&#x00F8;de.</l>
+<l>Men mellem stein slo slekten rot,</l>
+<l>der ingen dvergbj&#x00F8;rk stod imot.</l>
+<l>Hvor stort og tappert mensket er</l>
+<l>som reiser sig mot &#x00F8;det.</l>
+</lg>
+<lg>
+<l>Alt liv vi ser har slitets menn</l>
+<l>f&#x00E5;tt vristet ut av d&#x00F8;den.</l>
+<l>Men det de selv stod med igjen</l>
+<l>var ofte nakne n&#x00F8;den.</l>
+<l>Og ikke nok med storm og slut:</l>
+<l>i havnen ventet fremmed fut.</l>
+<l>Og arme drar de ennu ut&#x2026;</l>
+<l>Men disse menn er <hi rend="italic">Norge</hi>.</l>
+</lg>
+<lg>
+<l>De holder her en grensepost.</l>
+<l>Med sine arbeidsnever &#x2013;</l>
+<l>de verger liv mot &#x00F8;dets frost,</l>
+<l>de gj&#x00F8;r at landet <hi rend="italic">lever</hi>.</l>
+<l>N&#x00E5;r vinternatten velter frem,</l>
+<l>st&#x00E5;r lys imot fra deres hjem;</l>
+<l>og det er tid &#x00E5; l&#x00F8;nne dem</l>
+<l>hvis liv er landets grense.</l>
+</lg>
+<lg>
+<l>Hvor dyrekj&#x00F8;pt er dette land &#x2013;</l>
+<l>der sommerhavet vugger</l>
+<l>med lyset fra soleigul strand</l>
+<l>og kvite barnelugger.</l>
+<l>Og sverm av sj&#x00F8;fugl blir hernord</l>
+<l>til luftens eget blomsterflor,</l>
+<l>og nyskapt ligger h&#x00E5;pets jord</l>
+<l>i midnattsolens under.</l>
+</lg>
+<figure rend="shortHorizRule"/>
+</div>
+
+<div type="chapter" subtype="poem" n="1_10">
+<head type="main"><ref type="contents" target="contents_1_10" xml:id="poem_1_10">SANNHETEN</ref></head>
+<p><hi rend="italic">Til Egede-Nissen.</hi></p>
+<lg>
+<l>Den som forst&#x00E5;r, med vredens gl&#x00F8;d,</l>
+<l>at rikdom bygges op p&#x00E5; n&#x00F8;d,</l>
+<l>han vet hvad sannhet er.</l>
+<l>Usant blir alt, en l&#x00F8;gnens tid</l>
+<l>mot det: &#x00E5; kalle op til strid</l>
+<l>de undertryktes h&#x00E6;r.</l>
+</lg>
+<lg>
+<l>Du skj&#x00F8;nte sannheten! Fra nord</l>
+<l>hvor folket svalt i stormens spor</l>
+<l>steg krav om menskeverd.</l>
+<l>Ditt ord blev flamme hvor du kom:</l>
+<l>bli opr&#x00F8;rske av fattigdom,</l>
+<l>smi lenkene til sverd!</l>
+</lg>
+<lg>
+<l>Man sa til dig: se dig omkring,</l>
+<l>livet har kanskje <hi rend="italic">andre</hi> ting&#x2026;</l>
+<l>Du visste bedre selv.</l>
+<l>Alt overskudd, alt skj&#x00F8;nt er rov,</l>
+<l>f&#x00F8;r der er skapt en st&#x00F8;rre lov,</l>
+<l>hvor ingen mann er trell.</l>
+</lg>
+<lg>
+<l>V&#x00E5;r frihets juni, lys og blond,</l>
+<l>gav du din gl&#x00F8;d. Frihetens &#x00E5;nd</l>
+<l>blev til ditt &#x00E5;ndedrag!</l>
+<l>Og himlen sprengtes, h&#x00F8;i og fri,</l>
+<l>et rum for dig &#x00E5; puste i,</l>
+<l>en r&#x00F8;d oktoberdag.</l>
+</lg>
+<lg>
+<l>Klart l&#x00F8;d ditt ord. Hardt gikk du p&#x00E5;.</l>
+<l>Du evnet aldri &#x00E5; forst&#x00E5;</l>
+<l>forsonlighetens menn.</l>
+<l>V&#x00E5;rt hjertes ild skal herde st&#x00E5;l.</l>
+<l>Fordi vi har s&#x00E5; <hi rend="italic">store</hi> m&#x00E5;l,</l>
+<l>m&#x00E5; vi ha langt igjen.</l>
+</lg>
+<lg>
+<l>Bl&#x00E5;&#x00F8;iet st&#x00E5;r du, varm og sterk,</l>
+<l>ombrust av ditt befrierverk:</l>
+<l>rettferdighet skal skje!</l>
+<l>Fra dette land, fra fjerne land</l>
+<l>vi hilser dig &#x2013; v&#x00E5;r f&#x00F8;rste mann</l>
+<l>i sannhetens arm&#x00E9;.</l>
+</lg>
+<figure rend="shortHorizRule"/>
+</div>
+
+<div type="chapter" subtype="poem" n="1_11">
+<head type="main"><ref type="contents" target="contents_1_11" xml:id="poem_1_11">&#x00AB;DE BLINDE&#x00BB;</ref></head>
+<p><hi rend="italic">Prolog ved de blindes uke.</hi></p>
+<div type="uchapter" subtype="partOfPoem" n="1_11_1">
+<head type="main">I.</head>
+<lg>
+<l>P&#x00E5; vei mot en blodig avgrunn,</l>
+<l>drevet av hat og griskhet</l>
+<l>i m&#x00F8;rke fortvilete horder, &#x2013;</l>
+<l>hender det menskene stanser.</l>
+</lg>
+<lg>
+<l>Frysende st&#x00E5;r de i natten,</l>
+<l>i kval for den dom de har skapt sig.</l>
+<l>Ingen har villet det: Angsthvite</l>
+<l>hvisker de: vi er blinde.</l> </lg>
+<lg>
+<l><hi rend="italic">&#x00C5; dere som mistet synet</hi></l>
+<l><hi rend="italic">tilgi dem hvad de sier.</hi></l>
+</lg>
+<lg>
+<l>Ikke har dere fortjent det, at angst og hat</l>
+<l>kalles blindhet,</l>
+<l>dere som g&#x00E5;r i livet</l>
+<l>med klarhet og ro og visdom</l>
+<l>og mer enn noe: med mot.</l>
+</lg>
+</div>
+<div type="uchapter" subtype="partOfPoem" n="1_11_2">
+<head type="main">II.</head>
+<lg>
+<l>Ett mot skal vi evig elske.</l>
+<l>Ikke det motet som dreper,</l>
+<l>som durer med d&#x00F8;d under himlen</l>
+<l>og taler til vergel&#x00F8;se</l>
+<l>med bomber og giftgass: motta</l>
+<l>v&#x00E5;rt vennskap eller din d&#x00F8;d!</l> </lg>
+<lg>
+<l>Ikke det motet. Men livets</l>
+<l>skapende mot skal vi elske,</l>
+<l>det som erobrer fra d&#x00F8;den</l>
+<l>og seirer mot overmakten,</l>
+<l>det stolte, smilende motet!</l>
+</lg>
+<lg>
+<l>Dere kan l&#x00E6;re oss det.</l>
+</lg>
+<lg>
+<l>En dag i et h&#x00E5;bl&#x00F8;st m&#x00F8;rke</l>
+<l>begynner dere &#x00E5; kjempe.</l>
+<l>En b&#x00F8;iet fange i cellen,</l>
+<l><hi rend="italic">d&#x00F8;mt &#x00E5; erobre verden</hi>. &#x2013;</l>
+<l>det er den blindes kamp.</l>
+</lg>
+<lg>
+<l>Murene kan ikke stormes.</l>
+<l>Der er bare &#x00E9;n lov: <hi rend="italic">&#x00E5; ville</hi>,</l>
+<l>ville til murene viker.</l>
+</lg>
+<lg>
+<l>Bare ett lys er i natten,</l>
+<l>et hjertes brendende mot.</l>
+</lg>
+<lg>
+<l>Str&#x00E5;l hjerte! Skumringen sprer sig,</l>
+<l>bleke konturer kan skimtes.</l>
+<l>Nu stiger de frem — det er dag!</l>
+<l>Det er friheten, det er verden!</l>
+</lg>
+</div>
+<div type="uchapter" subtype="partOfPoem" n="1_11_3">
+<head type="main">III.</head>
+<lg>
+<l>Idag ber de blinde om hjelp.</l>
+<l>Ikke for &#x00E5; bli st&#x00F8;ttet,</l>
+<l>men for &#x00E5; kunne g&#x00E5;</l>
+<l>friere, ingen til byrde.</l>
+</lg>
+<lg>
+<l>De ber at du vil <hi rend="italic">forst&#x00E5;</hi></l>
+<l>kampen f&#x00F8;r de har seiret.</l>
+</lg>
+<lg>
+<l>&#x00C5; seende! hvis du synes</l>
+<l>at dine &#x00F8;ine har elsket &#x2013;</l>
+<l>elsket solhvite snefjell,</l>
+<l>onger som leker i sj&#x00F8;spr&#x00F8;it,</l>
+<l>en kvinnes b&#x00F8;iede ynde, &#x2013;</l>
+<l>da hjelp dine blinde br&#x00F8;dre.</l>
+</lg>
+<lg>
+<l>S&#x00E5; g&#x00E5;r vi videre sammen.</l>
+<l>Her er min hand, min bror.</l>
+</lg>
+<lg>
+<l>Men <hi rend="italic">du</hi> f&#x00E5;r hjelpe tilbake, &#x2013;</l>
+<l>l&#x00E6;r oss det smilende motet,</l>
+<l>l&#x00E6;r oss en vei av klarhet, &#x2013;</l>
+<l>l&#x00E6;r oss &#x00E5; <hi rend="italic">se</hi>!</l>
+</lg>
+<figure rend="shortHorizRule"/>
+</div>
+</div>
+
+<div type="chapter" subtype="poem" n="1_12">
+<head type="main"><ref type="contents" target="contents_1_12" xml:id="poem_1_12">H&#x00C5;BET</ref></head>
+<p><hi rend="italic">Prolog ved Radiumfondets m&#x00F8;te i Aulaen 4. mai 1931.</hi></p>
+<lg>
+<l>Nu er det underet skal skje p&#x00E5; jorden,</l>
+<l>nu seirer h&#x00E5;bet.</l> </lg>
+<lg>
+<l>Ja, gjennem alt som lever, str&#x00F8;mmer h&#x00E5;bet:</l>
+<l>det spede gresset, knoppene som gr&#x00F8;nnes,</l>
+<l>de unge pikene med l&#x00F8;v i armen,</l>
+<l>og m&#x00F8;drene smilende mot barne&#x00F8;ine,</l>
+<l>alt h&#x00E5;ber!</l>
+</lg>
+<lg>
+<l>Men gjennem lykken stiger det et angstrop,</l>
+<l>et smertest&#x00F8;nn, et liv som har f&#x00E5;tt dommen:</l>
+<l>at det er h&#x00E5;bl&#x00F8;st;</l>
+<l>en mann som elsket, dr&#x00F8;mte, stred for sine,</l>
+<l>men nu alene med et evig ekko,</l>
+<l>at det er h&#x00E5;bl&#x00F8;st.</l>
+</lg>
+<lg>
+<l>Og hun, hvis sjel var h&#x00E5;b, den unge moren, &#x2013;</l>
+<l>som nylig str&#x00E5;lte mot det liv hun f&#x00F8;dte,</l>
+<l>hun h&#x00E5;ber ikke mer; hun b&#x00E6;rer i sig</l>
+<l>en annen byrde, voksende og grufull. &#x2013;</l>
+</lg>
+<lg>
+<l>&#x00C5; liv der ute &#x2013;</l>
+<l>med l&#x00F8;v og fuglesang og sol og latter &#x2013;</l>
+<l>blir ikke all ting ondt og uten mening,</l>
+<l>n&#x00E5;r mennesker iblandt oss som vi elsker,</l>
+<l>f&#x00E5;r myrdet h&#x00E5;bet?</l>
+</lg>
+<lg>
+<l>Men vi som g&#x00E5;r i str&#x00E5;lene fra livet,</l>
+<l>har makt &#x00E5; sette alt av lys mot m&#x00F8;rket,</l>
+<l>har makt &#x00E5; rette str&#x00E5;lene mot d&#x00F8;den.</l>
+</lg>
+<lg>
+<l>Nu er det <hi rend="italic">vi</hi> som skal si skaperordet &#x2013;</l>
+<l>den ensomste og svakeste kan si det &#x2013;:</l>
+<l>bli lys, bli h&#x00E5;b!</l>
+<l>For hver av oss kan gi sin skjerv til lyset,</l>
+<l>kan bli en del av v&#x00E5;rens seir p&#x00E5; jorden,</l>
+<l>en del av <hi rend="italic">h&#x00E5;bet</hi>!</l>
+</lg>
+</div>
+</div>
+
+<div type="part" n="2">
+<head type="main"><ref type="contents" target="contents_2" xml:id="poem_2">II</ref></head>
+<div type="chapter" subtype="poem" n="2_1">
+<head type="main"><ref type="contents" target="contents_2_1" xml:id="poem_2_1">TIL UNGDOMMEN</ref></head>
+<lg>
+<l>Kringsatt av fiender, g&#x00E5;</l>
+<l>inn i din tid!</l>
+<l>Under en blodig storm &#x2013;</l>
+<l>vi dig til strid!</l>
+</lg>
+<lg>
+<l>Kanskje du sp&#x00F8;r i angst,</l>
+<l>udekket, &#x00E5;pen:</l>
+<l>hvad skal jeg kjempe med,</l>
+<l>hvad er mitt v&#x00E5;pen?</l>
+</lg>
+<lg>
+<l>Her er ditt vern mot vold,</l>
+<l>her er ditt sverd:</l>
+<l>troen p&#x00E5; livet v&#x00E5;rt,</l>
+<l><hi rend="italic">menneskets</hi> verd.</l>
+</lg>
+<lg>
+<l>For all v&#x00E5;r fremtids skyld,</l>
+<l>s&#x00F8;k det og dyrk det,</l>
+<l>d&#x00F8; om du m&#x00E5; &#x2013; men:</l>
+<l>&#x00F8;k det og styrk det!</l>
+</lg>
+<lg>
+<l>Stilt g&#x00E5;r granatenes</l>
+<l>glidende b&#x00E5;nd.</l>
+<l>Stans deres drift mot d&#x00F8;d,</l>
+<l><hi rend="italic">stans dem med &#x00E5;nd</hi>!</l>
+</lg>
+<lg>
+<l>Krig er forakt for liv.</l>
+<l>Fred er &#x00E5; skape.</l>
+<l>Kast dine krefter inn:</l>
+<l>d&#x00F8;den skal tape!</l>
+</lg>
+<lg>
+<l>Elsk &#x2013; og berik med dr&#x00F8;m &#x2013;</l>
+<l>alt stort som var!</l>
+<l>G&#x00E5; mot det ukjente,</l>
+<l>fravrist det svar.</l>
+</lg>
+<lg>
+<l>Ubygde kraftverker,</l>
+<l>ukjente stjerner &#x2013;</l>
+<l>skap dem, med sk&#x00E5;net livs</l>
+<l>dristige hjerner!</l>
+</lg>
+<lg>
+<l>Edelt er mennesket,</l>
+<l>jorden er rik!</l>
+<l>Finnes her n&#x00F8;d og sult,</l>
+<l>skyldes det svik.</l>
+</lg>
+<lg>
+<l>Knus det! I livets navn</l>
+<l>skal urett falle.</l>
+<l>Solskinn og br&#x00F8;d og &#x00E5;nd</l>
+<l>eies av alle.</l>
+</lg>
+<lg>
+<l>Da synker v&#x00E5;pnene</l>
+<l>maktesl&#x00F8;s ned!</l>
+<l>Skaper vi menneskeverd,</l>
+<l>skaper vi fred.</l>
+</lg>
+<lg>
+<l>Den som med h&#x00F8;ire arm</l>
+<l>b&#x00E6;rer en byrde,</l>
+<l>dyr og umistelig,</l>
+<l>kan ikke myrde.</l>
+</lg>
+<lg>
+<l>Dette er l&#x00F8;ftet v&#x00E5;rt</l>
+<l>fra bror til bror:</l>
+<l>vi vil bli gode mot</l>
+<l>menskenes jord.</l>
+</lg>
+<lg>
+<l>Vi vil ta vare p&#x00E5;</l>
+<l>skj&#x00F8;nnheten, varmen &#x2013;</l>
+<l>som om vi bar et barn</l>
+<l>varsomt p&#x00E5; armen!</l>
+</lg>
+<figure rend="shortHorizRule"/>
+</div>
+
+<div type="chapter" subtype="poem" n="2_2">
+<head type="main"><ref type="contents" target="contents_2_2" xml:id="poem_2_2">SOMMER I LONDON</ref></head>
+<lg>
+<l>Whitechapels bleke unger</l>
+<l>gisper i heten: &#x00AB;mor</l>
+<l>kommer vi aldri p&#x00E5; landet?&#x00BB;</l>
+<l>&#x00AB;Vent til du engang blir stor.</l>
+<l>Da skal du komme p&#x00E5; landet,</l>
+<l>om du er fattig og lav,</l>
+<l>og se p&#x00E5; det gr&#x00F8;nne gresset</l>
+<l>over en skyttergrav.&#x00BB;</l>
+</lg>
+<figure rend="shortHorizRule"/>
+</div>
+
+<div type="chapter" subtype="poem" n="2_3">
+<head type="main"><ref type="contents" target="contents_2_3" xml:id="poem_2_3">FULLBYRDELSEN</ref></head>
+<lg>
+<l>Tribunene hylder i jubel</l>
+<l>den seirende unge atlet:</l>
+<l>lemmers og lungers styrke,</l>
+<l>kroppens fullkommenhet.</l>
+<l>Dog venter p&#x00E5; denne ungdom</l>
+<l>en ennu st&#x00F8;rre bedrift:</l>
+<l>timen da lemmer skal smaddres</l>
+<l>og lungene druknes i gift.</l>
+</lg>
+<figure rend="shortHorizRule"/>
+</div>
+
+<div type="chapter" subtype="poem" n="2_4">
+<head type="main"><ref type="contents" target="contents_2_4" xml:id="poem_2_4">SPRINTERNE</ref></head>
+<lg>
+<l>Niggeren Owens sprinter,</l>
+<l>germanerne stuper sprengt.</l>
+<l>Det blonde Stadion undres,</l>
+<l>og F&#x00F8;reren m&#x00F8;rkner strengt.</l>
+<l>Men tenk da med tr&#x00F8;st p&#x00E5; alle</l>
+<l>j&#x00F8;diske kvinner og menn</l>
+<l>som sprang for livet i gaten &#x2013;</l>
+<l><hi rend="italic">dem</hi> n&#x00E5;dde dere igjen!</l>
+</lg>
+<figure rend="shortHorizRule"/>
+</div>
+
+<div type="chapter" subtype="poem" n="2_5">
+<head type="main"><ref type="contents" target="contents_2_5" xml:id="poem_2_5">PUSJKINS SISTE VILJE</ref></head>
+<div type="uchapter" subtype="partOfPoem" n="2_5_1">
+<head type="main">I.</head>
+<lg>
+<l>For hundre &#x00E5;r siden falt i duell</l>
+<l>den russiske dikter Pusjkin,</l>
+<l>kammerjunker hos tsaren.</l>
+</lg>
+<lg>
+<l>Hele St. Petersburg kjente ham</l>
+<l>n&#x00E5;r han kom med sin unge hustru</l>
+<l>hver kveld p&#x00E5; et nytt ball.</l>
+<l>Tsaren forlangte hans n&#x00E6;rv&#x00E6;r.</l>
+</lg>
+<lg>
+<l>Det var s&#x00E5; <hi rend="italic">morsomt</hi> &#x00E5; se ham</l>
+<l>m&#x00F8;rkt lenet op mot en s&#x00F8;ile &#x2013;</l>
+<l>trossig som et av hans egne dikt</l>
+<l>mens dansen glitret omkring ham.</l>
+</lg>
+<lg>
+<l>Han hadde skrevet om friheten</l>
+<l>og egget avsindig til opr&#x00F8;r;</l>
+<l>fem av hans venner blev hengt,</l>
+<l>andre sendt til Sibir.</l>
+<l>Men tsaren var n&#x00E5;dig mot ham.</l>
+</lg>
+<lg>
+<l>Den opr&#x00F8;rske kaltes til hoffet.</l>
+<l>Herskeren &#x00F8;nsket &#x00E5; opdra ham</l>
+<l>hver kveld p&#x00E5; et nytt ball.</l>
+</lg>
+<lg>
+<l>Hadde han dr&#x00F8;mt om folket?</l>
+<l>Dikter, hvad vet det om skj&#x00F8;nnhet?</l>
+<l>Hvad annet er massenes arbeid</l>
+<l>enn fundamentet for s&#x00F8;iler?</l>
+</lg>
+<lg>
+<l>Kjenner det kj&#x00E6;rligheten?</l>
+<l>Javel, i den snekolde natten</l>
+<l>kryper to skinnbylter sammen&#x2026;</l>
+<l>Men se! hvor de dansende m&#x00F8;tes</l>
+<l>og viker i g&#x00E5;tefull ynde &#x2013;</l>
+</lg>
+<lg>
+<l>forfinelsen over din hustru,</l>
+<l>den blyge og eggende leken</l>
+<l>som kreves, f&#x00F8;r hun bedrar dig &#x2013;</l>
+</lg>
+<lg>
+<l>Pusjkin, her er du hjemme!</l>
+<l>N&#x00E5;dig og god er tsaren</l>
+<l>som skjenket dig fullkommen frihet.</l>
+<l>Her kan du st&#x00E5; mot din s&#x00F8;ile,</l>
+<l>mens andre d&#x00F8;r i Sibir.</l>
+</lg>
+<lg>
+<l>Her kan du st&#x00E5; mot din s&#x00F8;ile</l>
+<l>til den blir marterpelen</l>
+<l>og ringdansen jager omkring dig,</l>
+<l>seirende, smilende hvisker de:</l>
+<l>frihetskjemper og hanrei.</l>
+</lg>
+<lg>
+<l>S&#x00E5; bryter fra den ben&#x00E5;dede</l>
+<l>et hest skrik en kveld</l>
+<l>mot en av de tusen han hater,</l>
+<l>ydmykelsens, skammens, befrielsens skrik.</l>
+<l>Duell</l>
+</lg>
+</div>
+<div type="uchapter" subtype="partOfPoem" n="2_5_2">
+<head type="main">II.</head>
+<lg>
+<l>En tidlig vintermorgen.</l>
+<l>Frostr&#x00F8;k over sne.</l>
+<l>Hvit stiger &#x00E5;nden,</l>
+<l>livets &#x00E5;nde,</l>
+<l>fra to menn som st&#x00E5;r</l>
+<l>p&#x00E5; tredve meters avstand</l>
+<l>med l&#x00F8;ftede pistoler.</l>
+<l>Et skudd.</l>
+<l>En hvit r&#x00F8;k.</l>
+<l>D&#x00F8;dens &#x00E5;nde</l>
+<l>puster op fra et pistoll&#x00F8;p.</l>
+<l>Pusjkin er falt.</l>
+<l>D&#x00F8;delig s&#x00E5;ret</l>
+<l>ligger han p&#x00E5; den r&#x00F8;de sneen</l>
+<l>Det er slutt.</l>
+<l>Det er ute med ham.</l>
+</lg>
+<lg>
+<l>Men i en d&#x00F8;dst&#x00E5;ke</l>
+<l>ser han den andre,</l>
+<l>det er ikke lenger en mann,</l>
+<l>det er fornedrelsen, undertrykkelsen,</l>
+<l>det er uretten</l>
+<l>som st&#x00E5;r der og lever.</l>
+</lg>
+<lg>
+<l>Ikke hvile nu.</l>
+<l>Ikke s&#x00F8;vn.</l>
+<l>D&#x00F8;ende</l>
+<l>med underlivet splintret</l>
+<l>kravler han op p&#x00E5; kn&#x00E6;rne.</l>
+<l>Han har sitt skudd igjen,</l>
+<l>han tvinger h&#x00E5;nden til &#x00E5; bli rolig,</l>
+<l>mens smerten sliter ham i filler.</l>
+<l>Bl&#x00F8;dende i sneen reiser han sig op:</l>
+<l>ennu ikke!</l>
+<l>Det er ute med ham,</l>
+<l>men d&#x00F8;ende blir han <hi rend="italic">Pusjkin</hi>,</l>
+<l>d&#x00F8;ende blir han kampen.</l>
+<l>Alt som er ham</l>
+<l>blir rettet ut av den ville viljen,</l>
+<l>hans sang, hans liv, hans d&#x00F8;d</l>
+<l>blir siktet inn,</l>
+<l>ud&#x00F8;delig, mot skjenselen.</l>
+</lg>
+<lg>
+<l>Han blir sitt folks hjerte</l>
+<l>gjennem hundre &#x00E5;r.</l>
+<l>Under kosakklansene,</l>
+<l>i hungersn&#x00F8;d,</l>
+<l>i borgerkrig,</l>
+<l>bl&#x00F8;dende i sneen</l>
+<l>reiser folket sig op:</l>
+<l>ennu ikke!</l>
+</lg>
+<lg>
+<l>Hans sang</l>
+<l>er blitt handling</l>
+<l>idag i hans folk,</l>
+<l>som bygger sin frihet</l>
+<l>med Pusjkins blodige vilje.</l>
+</lg>
+<figure rend="shortHorizRule"/>
+</div>
+</div>
+
+<div type="chapter" subtype="poem" n="2_6">
+<head type="main"><ref type="contents" target="contents_2_6" xml:id="poem_2_6">SPANSK TEATER</ref></head>
+<lg>
+<l>Det er et teater bak fronten.</l>
+<l>Natten st&#x00E5;r svart og r&#x00E5;</l>
+<l>omkrig en naken tribune.</l>
+<l>Et s&#x00F8;kelys settes p&#x00E5;.</l>
+</lg>
+<lg>
+<l>I skyttergravs-projekt&#x00F8;rens</l>
+<l>skj&#x00E6;rende hvite ild</l>
+<l>stiger en <hi rend="italic">annen</hi> flamme</l>
+<l>brennende stolt og vill:</l>
+</lg>
+<lg>
+<l>Menneskets trossige vilje,</l>
+<l>kunstens kjempende ord</l>
+<l>gl&#x00F8;der i dette teatret</l>
+<l>p&#x00E5; Spanias blodige jord.</l>
+</lg>
+<lg>
+<l>Unge milits-soldater,</l>
+<l>tusener slitte menn</l>
+<l>f&#x00F8;ler ny tro i sitt hjerte,</l>
+<l>f&#x00F8;r de skal sl&#x00E5;ss igjen.</l>
+</lg>
+<lg>
+<l>De er ikke lenger s&#x00E5; ensom,</l>
+<l>&#x00F8;det er ikke s&#x00E5; koldt.</l>
+<l>Det som de h&#x00F8;rer fra scenen</l>
+<l>vidner: <hi rend="italic">at fronten blev holdt</hi>.</l>
+</lg>
+<lg>
+<l>Fjerne land og &#x00E5;rhundrer</l>
+<l>sier det i sin sang,</l>
+<l>Aischylos, Calderon, Schiller,</l>
+<l>Pusjkin, Romain Rolland,</l>
+<l>den frie stridende tanken,</l>
+<l>rettferdets h&#x00F8;ie krav</l>
+<l>kjemper usynlig med dem</l>
+<l>i deres skyttergrav.</l>
+</lg>
+<lg>
+<l>Vi i v&#x00E5;rt land er sk&#x00E5;net.</l>
+<l>Vi g&#x00E5;r i v&#x00E5;r trygge fred.</l>
+<l>Krev derfor mer av ditt hjerte,</l>
+<l><hi rend="italic">fordi du ikke er med</hi>.</l>
+</lg>
+<lg>
+<l>Hjelp dine spanske br&#x00F8;dre,</l>
+<l>gi dem som takk din hand.</l>
+<l>De holder den fronten <hi rend="italic">du</hi> tror p&#x00E5;:</l>
+<l>Menneskets frie &#x00E5;nd!</l>
+</lg>
+<figure rend="shortHorizRule"/>
+</div>
+
+<div type="chapter" subtype="poem" n="2_7">
+<head type="main"><ref type="contents" target="contents_2_7" xml:id="poem_2_7">EN TYSK ARBEIDER</ref></head>
+<p><hi rend="italic">Dikt til Arbeidertribunens 1. mai-fest, 1937.</hi></p>
+<lg>
+<l>Det er kveld.</l>
+</lg>
+<lg>
+<l>Han har vasket sig efter arbeidet og spist.</l>
+<l>Han er blitt sittende ved bordet,</l>
+<l>tr&#x00F8;tt, b&#x00F8;iet.</l>
+</lg>
+<lg>
+<l>Dr&#x00F8;nnet av storbyen dirrer i vinduet.</l>
+</lg>
+<lg>
+<l>I rummet ved siden av suttrer en unge.</l>
+</lg>
+<lg>
+<l>For tre uker siden h&#x00F8;rte han menn storme dit inn.</l>
+<l>Han satt som nu</l>
+<l>her ved bordet,</l>
+<l>kanskje med knyttede never,</l>
+<l>og gjorde ingenting.</l>
+</lg>
+<lg>
+<l>Blodig og bevisstl&#x00F8;s haltes en mann ned trappene,</l>
+<l>Gustav, kameraten hans.</l>
+</lg>
+<lg>
+<l>Ham selv har de ikke tatt.</l>
+<l>Han var flinkere</l>
+<l>til &#x00E5; holde ansiktet lukket</l>
+<l>og hatet p&#x00E5; plass,</l>
+<l>stumt,</l>
+<l>i hjertet.</l>
+</lg>
+<lg>
+<l>S&#x00E5; sitter han her, trygt,</l>
+<l>og h&#x00F8;rer ungen til den nye leieboeren suttre,</l>
+<l>mens timene g&#x00E5;r.</l>
+<l>Dette er da fred?</l>
+<l>Er det annet &#x00E5; ta sig til?</l>
+<l>Hvorfor skal han g&#x00E5; ut,</l>
+<l>ut til en verden som ikke er hans?</l>
+<l>Bedre &#x00E5; sitte her</l>
+<l>og glane p&#x00E5; den gr&#x00E5;, skittne veggen.</l>
+</lg>
+<lg>
+<l>Den sier ihvertfall sannheten,</l>
+<l>for helvete.</l>
+<l>S&#x00E5;nn var det det gikk.</l>
+</lg>
+<lg>
+<l>De tapte,</l>
+<l>han og kameratene;</l>
+<l>alt de trodde p&#x00E5;</l>
+<l>tapte.</l>
+</lg>
+<lg>
+<l>Og ute i verden</l>
+<l>taper de ogs&#x00E5;.</l>
+<l>Avisene,</l>
+<l>radioen</l>
+<l>sier det hver dag.</l>
+<l>For kort eller lenge,</l>
+<l>det vet ingen.</l>
+<l>Nu er det &#x00E5; st&#x00E5; dagen lang ved maskinen</l>
+<l>og la kreftene bli pint ut av kroppen,</l>
+<l>uten et h&#x00E5;p,</l>
+<l>uten en dr&#x00F8;m.</l>
+</lg>
+<lg>
+<l>Veggen derborte er ikke dum;</l>
+<l>gr&#x00E5; og skitten</l>
+<l>forteller den om det livet som venter ham.</l>
+<l>Hvad er klokken?</l>
+<l>Tre timer har han sittet her.</l>
+<l>Slik er det kveld efter kveld.</l>
+</lg>
+<lg>
+<l>Han reiser sig og sl&#x00E5;r radioen p&#x00E5;,</l>
+<l>kanskje er det musikk,</l>
+<l>noe &#x00E5; flykte til,</l>
+<l>noe &#x00E5; lyve sig vekk i.</l>
+</lg>
+<lg>
+<l>Nei.</l>
+<l>En stemme br&#x00F8;ler ut i eteren</l>
+<l>om hvordan alt han h&#x00E5;pet p&#x00E5;</l>
+<l>dagst&#x00F8;tt knuses i verden.</l>
+<l>Han vil ikke h&#x00F8;re mer,</l>
+<l>det er sant kanskje,</l>
+<l>de sier det samme hver kveld</l>
+</lg>
+<lg>
+<l>Han begynner &#x00E5; skru vekk</l>
+<l>fra den r&#x00E5; skingrende r&#x00F8;sten som h&#x00E5;ner ham,</l>
+<l>da h&#x00F8;rer han en annen stemme</l>
+<l>som stiger og blir sterkere,</l>
+<l>hvad er det den sier?</l>
+<l>Det er deres eget ord den sier,</l>
+<l>midt i Berlin:</l>
+<l>Genosse,</l>
+<l>kamerat.</l>
+</lg>
+<lg>
+<l>Manden som lytter</l>
+<l>hvitner,</l>
+<l>det ordet blir de pint for og sl&#x00E5;tt ihjel for,</l>
+<l>han demper ned radioen,</l>
+<l>men stemmen hvisker til ham,</l>
+<l>og han hvisker tilbake:</l>
+<l>Genosse,</l>
+<l>kamerat.</l>
+</lg>
+<lg>
+<l>Det er b&#x00F8;lgelengde 29,8</l>
+<l>som taler over et stumt og kuet land</l>
+<l>og dette er dens ord:</l>
+</lg>
+<lg>
+<l>&#x00AB;Vi taper ikke, vi seirer.</l>
+</lg>
+<lg>
+<l>Slo de oss ned i blod</l>
+<l>en ting kan de aldri drepe:</l>
+<l>v&#x00E5;rt hjertes brennende tro.</l>
+<l>Dette er Tysklands stemme,</l>
+<l>kamerat, den er ogs&#x00E5; din,</l>
+<l>millioner er med oss, &#x2013; <hi rend="italic">husk det</hi>,</l>
+<l>f&#x00F8;r de f&#x00E5;r peilet oss inn!</l>
+</lg>
+<lg>
+<l>Hver aften fra nu skal vi sende,</l>
+<l>vi er kanskje hundre menn,</l>
+<l>og gripes de niognitti,</l>
+<l>skal &#x00E9;n bli bestandig igjen.</l>
+<l>Og d&#x00F8;r ogs&#x00E5; <hi rend="italic">han</hi> &#x2013; kamerater,</l>
+<l>husk dette vi har &#x00E5; si:</l>
+<l>vi taper ikke, vi seirer,</l>
+<l>v&#x00E5;r tro skal kjempe oss fri.</l>
+</lg>
+<lg>
+<l>Vi vil ikke ut for &#x00E5; drepe</l>
+<l>livet p&#x00E5; jorden er ett.</l>
+<l>Gr&#x00F8;nt st&#x00E5;r kornet i solen</l>
+<l>p&#x00E5; markene i Sovjet.</l>
+<l>Det er v&#x00E5;re br&#x00F8;dre som bygger</l>
+<l>sitt frie, rumslige hjem,</l>
+<l>de taper ikke, de seirer,</l>
+<l>og vi st&#x00E5;r sammen med dem.</l>
+</lg>
+<lg>
+<l>Nu bl&#x00F8;r de frie i Spania.</l>
+<l>Tyskere myrdet dem ned.</l>
+<l>Men Junkersflyenes ofre</l>
+<l>er dem vi er landsmenn med.</l>
+<l>Hilsen og mot til alle</l>
+<l>som kjemper frihetens strid!</l>
+<l>De taper ikke, de seirer!</l>
+<l>Fascismens grav blir Madrid.</l>
+</lg>
+<lg>
+<l>Nu er Gestapo p&#x00E5; sporet,</l>
+<l>men lytt hver eneste kveld.</l>
+<l>Vi skal bev&#x00E6;pne dere</l>
+<l>med <hi rend="italic">sannhet</hi> &#x2013; bruk v&#x00E5;penet vel!</l>
+</lg>
+<lg>
+<l>Vi taper ikke, vi seirer.</l>
+<l>Vi sender ikveld fra Stettin,</l>
+<l>imorgen kanskje fra M&#x00FC;nchen,</l>
+<l>eller &#x2013; hvem vet? &#x2013; fra Berlin.&#x00BB;</l>
+</lg>
+<lg>
+<l>Stemmen er borte,</l>
+<l>hujende Hitlersendere</l>
+<l>d&#x00F8;iver den.</l>
+<l>Men en mann st&#x00E5;r tilbake,</l>
+<l>med et nytt lys over sitt ansikt,</l>
+<l>p&#x00E5; et fatt'slig rum i Berlin,</l>
+<l>det er videt ut,</l>
+<l>det er verden.</l>
+</lg>
+<lg>
+<l>&#x00AB;Vi taper ikke, vi seirer.</l>
+<l>Hver den m&#x00E5; seire som vet</l>
+<l>at selv i det dypeste &#x00F8;de</l>
+<l>fins ikke ensomhet.</l>
+<l>Ukjente kamerater</l>
+<l>er med oss der hvor vi g&#x00E5;r,</l>
+<l>en h&#x00E6;r, som kjemper p&#x00E5; jorden</l>
+<l>til engang den er blitt v&#x00E5;r.&#x00BB;</l>
+</lg>
+<figure rend="shortHorizRule"/>
+</div>
+
+<div type="chapter" subtype="poem" n="2_8">
+<head type="main"><ref type="contents" target="contents_2_8" xml:id="poem_2_8">DET NYE &#x00C5;R</ref></head>
+<lg>
+<l>Nu har en verden gitt seg hen</l>
+<l>i fryd fordi et barn er f&#x00F8;dt.</l>
+<l>De kom, de kristne bombefly;</l>
+<l>der skrek en mor; et barn var d&#x00F8;dt</l>
+</lg>
+<lg>
+<l>Og andre sm&#x00E5;barn sprang i angst</l>
+<l>og skjulte seg, den glade jul.</l>
+<l>Nu kan vi skj&#x00F8;nne salmens ord:</l>
+<l>at engler daler ned i skjul.</l>
+</lg>
+<lg>
+<l>O fred p&#x00E5; jord og fryd p&#x00E5; jord!</l>
+<l>Vi st&#x00E5;r i kveld med spente sinn,</l>
+<l>blandt julelys og bombeb&#x00E5;l</l>
+<l>og ser det gamle &#x00E5;r g&#x00E5; inn.</l>
+</lg>
+<lg>
+<l>Glor&#x00F8;d g&#x00E5;r Jordens akse rundt.</l>
+<l>Hvem stanser vanviddet? Vi vet</l>
+<l>den h&#x00E5;nd som griper, svies av.</l>
+<l>Dyrt koster nu rettferdighet.</l>
+</lg>
+<lg>
+<l>Men noen var det som grep til.</l>
+<l>De har ikveld sin m&#x00F8;tesal</l>
+<l>i skyttergravens f&#x00F8;ik av sne, —</l>
+<l>blandt d&#x00F8;dsst&#x00F8;nn p&#x00E5; et hospital.</l>
+</lg>
+<lg>
+<l>Vi blev tilbake, og vi sp&#x00F8;r:</l>
+<l>m&#x00E5; prisen bare v&#x00E6;re blod.</l>
+<l>Husk da: den gjeld kan bli betalt</l>
+<l>hver dag ved uforsonlig tro.</l>
+</lg>
+<lg>
+<l>For v&#x00E5;re fiender elsker tvil,</l>
+<l>og tviler du, da g&#x00E5;r de frem.</l>
+<l>Men er din egen vilje h&#x00E5;rd</l>
+<l>da er du med og stanser dem.</l>
+</lg>
+<lg>
+<l>I alle land g&#x00E5;r kampens front.</l>
+<l>Kjemp hvor du er den gode strid.</l>
+<l>Den dag du vant en seier her,</l>
+<l>den dag forsvarte du Madrid.</l>
+</lg>
+<lg>
+<l>Din offervilje og ditt mot</l>
+<l>kan st&#x00F8;tte op ved Teruel.</l>
+<l>Frihetens nye, sterke &#x00E5;r. &#x2013;</l>
+<l>V&#x00E6;r med og skap det, fra ikveld!</l>
+</lg>
+<lg>
+<l>Du er ansvarlig kamerat.</l>
+<l>Bryt gjennem! Seiren er dig selv.</l>
+</lg>
+<figure rend="shortHorizRule"/>
+</div>
+
+<div type="chapter" subtype="poem" n="2_9">
+<head type="main"><ref type="contents" target="contents_2_9" xml:id="poem_2_9">TIL DE ARBEIDSL&#x00D8;SES BARN</ref></head>
+<lg>
+<l>Vi feirer nu et fattig barn</l>
+<l>Sv&#x00F8;pt i en krybbes str&#x00E5;.</l>
+<l>Han hersker nu i himmerik,</l>
+<l>S&#x00E5; vakkert kan det g&#x00E5;.</l>
+</lg>
+<lg>
+<l>Her kommer dine arme sm&#x00E5;</l>
+<l>Fra sorg, fra sult, fra gru.</l>
+<l>De blev korsfestet alt som barn,</l>
+<l>Kom ogs&#x00E5; dem ihu.</l>
+</lg>
+</div>
+</div>
+
+<div type="part" n="3">
+<head type="main"><ref type="contents" target="contents_3" xml:id="poem_3">III</ref></head>
+<div type="chapter" subtype="poem" n="3_1">
+<head type="main"><ref type="contents" target="contents_3_1" xml:id="poem_3_1">SJ&#x00D8;MANNEN</ref></head>
+<lg>
+<l>Han l&#x00E5; bakom k&#x00F8;ygardinen</l>
+<l>med bleke benete trekk</l>
+<l>og stirret med tomme &#x00F8;yne</l>
+<l>opp i et vablet dekk.</l>
+</lg>
+<lg>
+<l>Han var ingen trekkspill-sj&#x00F8;gutt,</l>
+<l>men bare en motormann</l>
+<l>som visste hva Greenock b&#x00F8;d p&#x00E5;</l>
+<l>og gad ikke g&#x00E5; iland.</l> </lg>
+<lg>
+<l>Han langet en arm ut av k&#x00F8;yen</l>
+<l>og var s&#x00E5; heldig &#x00E5; f&#x00E5;</l>
+<l>en tale om v&#x00E5;re sj&#x00F8;folk</l>
+<l>da han slo London p&#x00E5;.</l>
+</lg>
+<lg>
+<l>Begeistret ropte en stemme</l>
+<l>utover hav og havn:</l>
+<l>Vi seiler, vi bringer oljen,</l>
+<l>verden &#x00E6;rer v&#x00E5;rt navn!</l>
+</lg>
+<lg>
+<l>Men m&#x00F8;rk av harm m&#x00E5;tte r&#x00F8;sten</l>
+<l>dvele efter en stund</l>
+<l>ved dem som er g&#x00E5;tt fra borde,</l>
+<l>dem spyttet han ut av sin munn</l>
+</lg>
+<lg>
+<l>S&#x00E5; mintes han atter feststemt,</l>
+<l>landet fra fjell til sj&#x00F8;.</l>
+<l>For det skal vi seile, sa han,</l>
+<l>for det er det kj&#x00E6;rt &#x00E5; d&#x00F8;.</l>
+</lg>
+<lg>
+<l>Hjemmefronten, v&#x00E5;r stolthet,</l>
+<l>kjemper i sult og tross.</l>
+<l>De krever, og her er svaret:</l>
+<l>dere kan tro p&#x00E5; oss.</l>
+</lg>
+<lg>
+<l>Stemmen skurret og d&#x00F8;de</l>
+<l>da mannen i k&#x00F8;yen slo av.</l>
+<l>S&#x00E5; l&#x00E5; han med harde &#x00F8;yne</l>
+<l>og smilte som om han sa:</l>
+</lg>
+<lg>
+<l>&#x00AB;Hva ville skje om det krevdes</l>
+<l>at hver skulle svare for seg.</l>
+<l>Vi bringer oljen, sa du,</l>
+<l>men n&#x00E5;r ble den brakt av <hi rend="italic">deg?</hi></l>
+</lg>
+<lg>
+<l>Du oljebringende nordmann —</l>
+<l>Siden du er s&#x00E5; kvass</l>
+<l>mot dem som ikke t&#x00F8;r seile,</l>
+<l>g&#x00E5; ut og ta deres plass.</l>
+</lg>
+<lg>
+<l>Du kunne skrelle poteter,</l>
+<l>gi kokken en hjelpende hand,</l>
+<l>og n&#x00E5;r du er tre ganger senket,</l>
+<l>kan du igjen f&#x00E5; bli <hi rend="italic">&#x00E5;nd.</hi></l>
+</lg>
+<lg>
+<l>Du som vil d&#x00F8; for landet —</l>
+<l>si meg fortrolig bror,</l>
+<l>hvor har du gjennemlidt d&#x00F8;den,</l>
+<l>vis dine naglebor.</l>
+</lg>
+<lg>
+<l>Men ogs&#x00E5; de kjempende hjemme</l>
+<l>eier du, gla og frisk,</l>
+<l>og bruker d&#x00E9;t som de lider</l>
+<l>p&#x00E5; oss som en cirkuspisk.</l>
+</lg>
+<lg>
+<l>Om far min sitter i fengsel</l>
+<l>og gutten g&#x00E5;r sulten i seng,</l>
+<l>beh&#x00F8;ver de ikke &#x00E5; tjene</l>
+<l>deg som en heiagjeng.</l>
+</lg>
+<lg>
+<l>V&#x00E5;r stolthet? At andre kjemper?</l>
+<l>Hver skal svare for seg.</l>
+<l>Vi skal ikke gj&#x00F8;re folkets</l>
+<l>n&#x00F8;d til en n&#x00E6;ringsvei.</l>
+</lg>
+<lg>
+<l>Men en ting kunne du gjerne</l>
+<l>betro meg: Hvordan kan det skje</l>
+<l>at bare vi sj&#x00F8;folk er utvalgt</l>
+<l>til &#x00E5; bli herjet med?</l>
+</lg>
+<lg>
+<l>Vi h&#x00F8;rer sandelig ingen</l>
+<l>formane p&#x00E5;ny og p&#x00E5;ny</l>
+<l>soldaten til &#x00E5; marsjere</l>
+<l>og flygeren til &#x00E5; fly.</l>
+</lg>
+<lg>
+<l>Er vi s&#x00E5; h&#x00E5;bl&#x00F8;st dumme,</l>
+<l>s&#x00E5; fulle av umulige feil</l>
+<l>at alltid m&#x00E5; noen rope,</l>
+<l>vik ikke, svik ikke, seil!</l>
+</lg>
+<lg>
+<l>Men var vi ikke de f&#x00F8;rste</l>
+<l>som skj&#x00F8;nte hva striden gjaldt?</l>
+<l>Vi streiket mot Hitler i Spania.</l>
+<l>Sj&#x00F8;folk kjempet og falt.</l>
+</lg>
+<lg>
+<l>For d&#x00E9;t ble vi h&#x00E5;net dengang.</l>
+<l>(Hver skal svare for seg).</l>
+<l>Men var vi da landet v&#x00E5;rt kalte</l>
+<l>s&#x00E5; meget verre enn deg?</l>
+</lg>
+<lg>
+<l>Er det <hi rend="italic">p&#x00E5; plass</hi> vi skal holdes?</l>
+<l>Hvor vi vender oss hen</l>
+<l>summer med ros og refsing</l>
+<l>ivrige mellem-menn.</l>
+</lg>
+<lg>
+<l>Vi klarer oss bedre uten,</l>
+<l>selv om fingrene kl&#x00F8;r</l>
+<l>p&#x00E5; mange efter &#x00E5; v&#x00E6;re</l>
+<l>frihetens direkt&#x00F8;r.</l>
+</lg>
+<lg>
+<l>Vi hjelpes ikke av hissing.</l>
+<l>Det er et arbeid vi gj&#x00F8;r.</l>
+<l>Vi seiler og vi skal seile.</l>
+<l>Det gjorde vi ogs&#x00E5; f&#x00F8;r.</l>
+</lg>
+<lg>
+<l>Storm og t&#x00E5;ke og blindskj&#x00E6;r,</l>
+<l>med det var vi vant &#x00E5; stri,</l>
+<l>ub&#x00E5;ter, fly og miner</l>
+<l>det f&#x00E5;r vi finne oss i.</l>
+</lg>
+<lg>
+<l>S&#x00E5; seiler vi, seiler, seiler.</l>
+<l>Vi t&#x00F8;r ikke tenke p&#x00E5;</l>
+<l>at motstand kan brytes hjemme</l>
+<l>og barn kan bli hunger-gr&#x00E5;.</l>
+</lg>
+<lg>
+<l>Hva skal vi da v&#x00E6;re stolt av?</l>
+<l>N&#x00E5;r ingen lenger kan ta</l>
+<l>posteringer fra deres regnskap</l>
+<l>og gi dem til oss: hva da?</l>
+</lg>
+<lg>
+<l>Da skal vi likevel seile</l>
+<l>i bitre, frysende &#x00E5;r,</l>
+<l>fordi vi kan ikke annet,</l>
+<l>fordi denne krigen er <hi rend="italic">v&#x00E5;r.</hi></l>
+</lg>
+<lg>
+<l>Vi kan ikke leve som treller.</l>
+<l>Men godt om vi ogs&#x00E5; fant</l>
+<l>noe som gjennem n&#x00F8;den</l>
+<l>st&#x00E5;r rent og nakent og sant.</l>
+</lg>
+<lg>
+<l>Kjenner du frihetens ansikt?</l>
+<l>N&#x00E6;rm deg og du skal se:</l>
+<l>det er et d&#x00F8;dninge-hode.</l>
+<l>Skremmes du bort av det?</l>
+</lg>
+<lg>
+<l>S&#x00E5; kan vi slippe &#x00E5; tro p&#x00E5;</l>
+<l>at han som sitter i land</l>
+<l>og kriger som ingen annen</l>
+<l>skal v&#x00E6;re fremtidens mann.</l>
+</lg>
+<lg>
+<l>Fare skal v&#x00E6;re en vinning.</l>
+<l>Trygghet skal v&#x00E6;re et tap.</l>
+<l>Alt som skal telle er slitets</l>
+<l>og offerets fellesskap.</l>
+</lg>
+<lg>
+<l>Ingen skal leve p&#x00E5; andre.</l>
+<l>Si ikke vi. Si jeg.</l>
+<l>For det blir den nye verden:</l>
+<l>at hver skal svare for seg.&#x00BB;</l>
+</lg>
+<p>Ishavet, juli 1942.</p>
+</div>
+
+<div type="chapter" subtype="poem" n="3_2">
+<head type="main"><ref type="contents" target="contents_3_2" xml:id="poem_3_2">DEN MENNESKELIGE NATUR</ref></head>
+<div type="uchapter" subtype="partOfPoem" n="3_2_1">
+<lg>
+<l>Krig, sa en offisers-bror,</l>
+<l>bestemt, men likevel godslig,</l>
+<l>og tente med omhu sigaren,</l>
+<l>&#x00AB;krig vil det v&#x00E6;re bestandig&#x00BB;.</l>
+<l>Med velv&#x00E6;re i sitt vesen,</l>
+<l>beskyttende i sin visdom,</l>
+<l>sluttet han tankerekken</l>
+<l>mandig og kort: &#x00AB;For slik er</l>
+<l>den menneskelige natur&#x00BB;.</l>
+<l>Han var s&#x00E5; forn&#x00F8;yet som om</l>
+<l>det burde v&#x00E6;rt hilst med fanfarer:</l>
+<l>hurra, hurra,</l>
+<l>den menneskelige natur.</l>
+<l>Nyss ble han fl&#x00F8;yet fra Stockholm,</l>
+<l>men f&#x00F8;rst idag var han oppsydd</l>
+<l>og ute i uniform,</l>
+<l>med knitrende ridebukser,</l>
+<l>fl&#x00F8;tefarvede, lekre;</l>
+<l>til brystet hadde han kj&#x00F8;pt seg</l>
+<l>en meter med ordensb&#x00E5;nd,</l>
+<l>hurra, hurra,</l>
+<l>en meter med ordensb&#x00E5;nd.</l>
+</lg>
+<lg>
+<l>Er, tenkte jeg straks l&#x00E6;rvillig,</l>
+<l>hans utsagn virkelig mulig?</l>
+<l>Er det iblant mitt bekjentskap</l>
+<l>noen som faktisk har krigen</l>
+<l>umettelig i sin natur?</l>
+</lg>
+<lg>
+<l>Jeg tenkte p&#x00E5; v&#x00E5;penfeller</l>
+<l>som vi har etterlatt hjemme:</l>
+<l>hver den som savner og sulter</l>
+<l>bak m&#x00F8;rke, h&#x00E6;rtatte kyster</l>
+<l>er p&#x00E5; den gr&#x00E5;bleke fronten</l>
+<l>i den totale krig &#x2013;</l>
+<l>gamle, ensomme kvinner</l>
+<l>som v&#x00E5;kner hver morgen til n&#x00F8;den,</l>
+<l>alltid litt mere trette.</l>
+<l>Tappert nok tar de krigen &#x2013;</l>
+<l>men var den i deres <hi rend="italic">natur?</hi></l>
+</lg>
+<lg>
+<l>Skamfull husket jeg: selvsagt</l>
+<l>med mennesket menes <hi rend="italic">mannen.</hi></l>
+<l>Da s&#x00E5; jeg for meg en sj&#x00F8;mann</l>
+<l>en morgen i faresonen,</l>
+<l>han kom fra rort&#x00F8;rn p&#x00E5; broen</l>
+<l>og seilte nedover leidren</l>
+<l>hvor skibshunden tok imot ham.</l>
+<l>Leende, gj&#x00F8;ende rullet</l>
+<l>begge to bortover dekket.</l>
+<l>Nylig var han, forfrosset,</l>
+<l>blitt pikket opp fra en fl&#x00E5;te</l>
+<l>da tankb&#x00E5;ten hans ble senket;</l>
+<l>med atten sting i en skulder</l>
+<l>etter et bombefly.</l>
+<l>N&#x00E5; lekte han seg med bikkjen.</l>
+</lg>
+<lg>
+<l>Det var som han faktisk kunne</l>
+<l>unnv&#x00E6;re hele krigen.</l>
+<l>S&#x00E5; ruslet han inn, til k&#x00F8;yen,</l>
+<l>med bryllupsbildet p&#x00E5; skottet.</l>
+<l>Stram og med hvite hansker</l>
+<l>stirrer han p&#x00E5; sin kone,</l>
+<l>alltid, i Sandefjord.</l>
+<l>Bildet var lenge savnet &#x2013;</l>
+<l>Senket med siste b&#x00E5;ten;</l>
+<l>men n&#x00E5; vidunderlig oppst&#x00E5;tt,</l>
+<l>l&#x00E5;nt av en tante i Brooklyn.</l>
+</lg>
+<lg>
+<l>Jeg husket en annen, en flyger,</l>
+<l>han hadde v&#x00E6;rt over m&#x00E5;let;</l>
+<l>forbi var de dirrende ville</l>
+<l>sekundene; gjennom skyer</l>
+<l>fl&#x00F8;y han tilbake mot trygghet.</l>
+<l>Han klavret fra f&#x00F8;rersetet</l>
+<l>og lot nummer to ta kontrollen</l>
+<l>stod sliten og tok seg en r&#x00F8;yk.</l>
+<l>Hva tenkte han da p&#x00E5;, helten?</l>
+</lg>
+<lg>
+<l>Han pr&#x00F8;vde &#x00E5; rope noe.</l>
+<l>Det taptes i motordr&#x00F8;nnet.</l>
+<l>Igjen ble det bleke smilet.</l>
+<l>Men leben formet: &#x00AB;Idag er</l>
+<l>gutten min &#x00E5;tte &#x00E5;r.&#x00BB;</l>
+</lg>
+<lg>
+<l>Dog krigen, mente min felle</l>
+<l>er vitterlig nedlagt i <hi rend="italic">alle.</hi></l>
+<l>S&#x00E5; han med sjelens &#x00F8;yne</l>
+<l>krigens robustere mening?</l>
+<l>Undrende m&#x00E5;tte jeg sp&#x00F8;rre:</l>
+<l>hva var de syner han s&#x00E5;?</l>
+</lg>
+<lg>
+<l>Skimtet han staben han var blant,</l>
+<l>mens g&#x00E5;rdene flammet som fakler</l>
+<l>mot v&#x00E5;rnattens ishvite stjerner &#x2013;</l>
+<l>husket han d&#x00F8;dstrette venners</l>
+<l>grimete harde forpinthet,</l>
+<l>hvor alt var brent ned, uten plikten?</l> </lg>
+<lg>
+<l>S&#x00E5; han i morgenens silregn</l>
+<l>knoker som l&#x00E5; langs et skogholt</l>
+<l>og skj&#x00F8;t til granaten fant dem.</l>
+<l>De veltet seg om p&#x00E5; sn&#x00F8;en</l>
+<l>og bl&#x00F8;dde tild&#x00F8;de, betalt med</l>
+<l>en krone og femti pr. dag.</l>
+</lg>
+<lg>
+<l>(Eller var han der ikke?)</l>
+<l>Jeg skj&#x00F8;nte, han s&#x00E5; noe st&#x00F8;rre.</l>
+<l>Det var sin ungdoms dr&#x00F8;mmer</l>
+<l>om krig i udadlelig <hi rend="italic">orden</hi></l>
+<l>med storarmeenes oppmarsj,</l>
+<l>(og ikke det blodige rotet</l>
+<l>langs kronglete bekkefar hjemme)</l>
+<l>han endelig, tre &#x00E5;r etter,</l>
+<l>s&#x00E5; foldet ut for sitt blikk.</l>
+<l>Hver dag var n&#x00E6;rmere seiren,</l>
+<l>hver dag var n&#x00E6;rmere freden,</l>
+<l>s&#x00E5; smilende kunne han fastsl&#x00E5;,</l>
+<l>hvor krigen var hans natur.</l>
+</lg>
+</div>
+<div type="uchapter" subtype="partOfPoem" n="3_2_2">
+<head type="main">II.</head>
+<lg>
+<l><hi rend="italic">Nei!</hi> ropte, advarende, r&#x00F8;sten</l>
+<l>jeg heldigvis har i mitt indre.</l>
+<l>Skal du da aldri l&#x00E6;re</l>
+<l>hva tanker kan f&#x00F8;re til?</l>
+</lg>
+<lg>
+<l>Kast ikke sten p&#x00E5; den troen</l>
+<l>som i sin bitre erfaring,</l>
+<l>urokket, st&#x00E5;r for de fleste:</l>
+<l>at krig vil det v&#x00E6;re bestandig.</l>
+<l>Tviler du &#x2013; hva blir det neste?</l>
+</lg>
+<lg>
+<l>Hva t&#x00F8;r et menneske tenke?</l>
+<l>Hjemme tror de p&#x00E5; tanken.</l>
+<l><hi rend="italic">Vi</hi> m&#x00E5; det ikke, fordi den</l>
+<l>er i sitt vesen en uro.</l>
+<l>&#x00C5; tenke er alltid &#x00E5; splitte,</l>
+<l>og n&#x00E5; er enighet alt.</l>
+</lg>
+<lg>
+<l>Vi som har mistet landet</l>
+<l>er i v&#x00E5;rt sinn mer fortvilet</l>
+<l>enn kanskje vi aner selv.</l>
+<l>Vi henger utfor et br&#x00E5;stup</l>
+<l>og fremtiden svartner under,</l>
+<l>vi s&#x00F8;ker med famlende hender</l>
+<l>etter en st&#x00F8;tte som b&#x00E6;rer,</l>
+<l>noe &#x00E5; samle oss om,</l>
+<l>og det er de gamle tanker.</l>
+</lg>
+<lg>
+<l>Vi fryser og &#x00F8;det st&#x00E5;r om oss.</l>
+<l>Gi oss de pr&#x00F8;vede tanker</l>
+<l>som enn&#x00E5; har legemsvarmen</l>
+<l>av slektene f&#x00F8;r som har tenkt dem.</l>
+<l>De har v&#x00E6;rt brukt, det er nok.</l>
+<l>Velsignet de stengr&#x00E5; tanker</l>
+<l>fra vikingetiden og lenger,</l>
+<l>velsignet alt som vi kjenner!</l>
+</lg>
+<lg>
+<l>Lik villfarne barn i natten</l>
+<l>som lengter til morens fang,</l>
+<l>slik s&#x00F8;ker vi inn til den verden</l>
+<l>som vi har bitterlig mistet,</l>
+<l>den lyse, vennlige verden,</l>
+<l>den gode og varme og trygge</l>
+<l>den gamle og kj&#x00E6;re verden &#x2013;</l>
+<l>som krigen ble avlet av.</l>
+</lg>
+<lg>
+<l>Barmhjertige gjemsel, skjul oss!</l>
+<l>ber den usalige flokken</l>
+<l>som engang dr&#x00F8;mte og h&#x00E5;bet.</l>
+<l>De er blitt merket ut.</l>
+<l>&#x00C5; det er menn med en fortid!</l>
+<l>De trodde &#x00E5; verge freden</l>
+<l>ved folkenes felles motstand</l>
+<l>f&#x00F8;r volden rev lenkene s&#x00F8;nder.</l>
+</lg>
+<lg>
+<l>Da ropte de gamle tanker:</l>
+<l>Men dette er aldri <hi rend="italic">pr&#x00F8;vet!</hi></l>
+<l>En stormakt har rett til &#x00E5; puste!</l>
+<l>honn&#x00F8;r for dem som vil hevne!</l>
+<l>Forsiktig. Tirr ikke Tyskland.</l>
+<l>L&#x00E6;r av f&#x00F8;reren heller &#x2013;</l>
+<l>hvordan man (ved mord og fengsler)</l>
+<l>skaffer seg arbeidsfred &#x2026;</l>
+</lg>
+<lg>
+<l>Slik talte og seiret da disse</l>
+<l>sindige realister.</l>
+<l>Slik tapte de menn som h&#x00E5;pet,</l>
+<l>(og det er urett &#x00E5; tape).</l>
+<l>S&#x00E5; slapp jungelen l&#x00F8;s.</l>
+</lg>
+<lg>
+<l>Det er ikke nederlaget</l>
+<l>som de er skyldtunge over.</l>
+<l>Mange var under krigen</l>
+<l>vekere menn enn de.</l>
+<l>Det er i sitt eget indre</l>
+<l>de finner sin rystende svakhet.</l>
+</lg>
+<lg>
+<l>De trodde p&#x00E5; <hi rend="italic">nye tanker,</hi></l>
+<l>de trodde p&#x00E5; menneskelig godhet,</l>
+<l>fred og brorskap p&#x00E5; jorden.</l>
+<l>Hyss, minn dem ikke om det!</l>
+</lg>
+<lg>
+<l>De g&#x00E5;r til sitt arbeid her ute,</l>
+<l>st&#x00E5;r villige fram p&#x00E5; torget</l>
+<l>og lover aldri &#x00E5; h&#x00E5;pe,</l>
+<l>og s&#x00E5;ledes splitte, mer,</l>
+<l>de gledes hvergang de blir tilgitt</l>
+<l>av dem med de sindige tanker,</l>
+<l>alltid betinget, p&#x00E5; n&#x00E5;de.</l>
+</lg>
+<lg>
+<l>Her fremst&#x00E5;r min offisers-bror.</l>
+<l>Myndig st&#x00E5;r han og smiler.</l>
+<l>N&#x00E5; er hans time kommet:</l>
+<l><hi rend="italic">Har vi da ikke l&#x00E6;rt?</hi></l>
+<l>Han har en klippefast tro p&#x00E5;</l>
+<l>at krig vil det v&#x00E6;re bestandig,</l>
+<l>en sunn og pr&#x00F8;vet forakt for &#x2013;</l>
+<l>den menneskelige natur.</l>
+</lg>
+<lg>
+<l>Kanskje han ikke har levet</l>
+<l>s&#x00E5; farlig som smilet hans lover.</l>
+<l>Kanskje hans grad blir for h&#x00F8;y til</l>
+<l>&#x00E5; ofre sitt eget blod,</l>
+<l>kanskje det isbleke blikket,</l>
+<l>dekker en angst eller tomhet,</l>
+<l>hva veier det mot det ene:</l>
+</lg>
+<lg>
+<l>Han eier en gammel tanke,</l>
+<l>han holder seg til noe evig,</l>
+<l>den evige h&#x00E5;pl&#x00F8;sheten:</l>
+<l>s&#x00E5; <hi rend="italic">han</hi> er en mann uten fortid.</l>
+</lg>
+<lg>
+<l>Slik som syklonens sentrum</l>
+<l>skjuler en d&#x00F8;nningtung ro</l>
+<l>med flytende slim og gr&#x00F8;nske,</l>
+<l>kan det inne i krigen</l>
+<l>v&#x00E6;re en r&#x00E5;tnende stillhet.</l>
+</lg>
+<lg>
+<l>Men stormen er ikke stilnet</l>
+<l>og krigen er ikke opph&#x00F8;rt,</l>
+<l>med hatet og smerten og d&#x00F8;den,</l>
+<l>og dypt i menneskets hjerte</l>
+<l>har lidelsen skapt sin vilje,</l>
+<l>sitt egenr&#x00E5;dige liv.</l>
+</lg>
+<lg>
+<l>Hundrede skip i konvoien</l>
+<l>g&#x00E5;r gjennom nattehavet.</l>
+</lg>
+<lg>
+<l>Lengtet noen mot dagen?</l>
+<l>Hundevakten er over.</l>
+<l>Skipperen st&#x00E5;r p&#x00E5; broen,</l>
+<l>slik som han alltid gj&#x00F8;r.</l>
+</lg>
+<lg>
+<l>Dager og netter kleber</l>
+<l>som uskiftet t&#x00F8;y til kroppen.</l>
+</lg>
+<lg>
+<l>Lengtet noen mot dagen?</l>
+<l>Frivakten t&#x00F8;rner inn.</l>
+<l>Ombord p&#x00E5; en ammunisjonsb&#x00E5;t</l>
+<l>kan alle rolig kle av seg.</l>
+</lg>
+<lg>
+<l>Lengtet noen mot dagen?</l>
+<l>Det er n&#x00E5;r <hi rend="italic">dagen</hi> lysner</l>
+<l>at ub&#x00E5;t-flokkene dreper.</l>
+<l>Natten igjennom g&#x00E5;r de</l>
+<l>ventende bak konvoien.</l>
+<l>Det hender ogs&#x00E5; at dagen</l>
+<l>bringer en Focke-Wulf.</l>
+</lg>
+<lg>
+<l>Lengtet noen mot dagen?</l>
+<l>Ja det er godt den kommer &#x2013;</l>
+<l>dagen n&#x00E6;rmere det som</l>
+<l>de ennu kan leve for.</l>
+</lg>
+<lg>
+<l>Det ligger menn i en veigr&#x00F8;ft</l>
+<l>med h&#x00E5;ndgranater i neven.</l>
+<l>P&#x00E5; frostjorden braker mot dem</l>
+<l>tyske tanks over sletten.</l>
+<l>De kjemper bak fiendens linjer.</l>
+<l>Landsbyen deres ble avsvidd</l>
+<l>folket ble drept som gisler.</l>
+<l>Det dingler i m&#x00E5;nelyset</l>
+<l>fra tr&#x00E6;r som de levet under,</l>
+<l>mor og hustru og barn.</l>
+</lg>
+<lg>
+<l>De gj&#x00F8;r ikke mer enn andre.</l>
+<l>H&#x00E6;renes millioner</l>
+<l>har ogs&#x00E5; barn, drept som gisler,</l>
+<l>gisler hos hungersn&#x00F8;den.</l>
+<l>Hjertene deres er avsvidd</l>
+<l>lik hele det livet de kjente;</l>
+<l>bare ett h&#x00E5;p er igjen.</l>
+<l>I m&#x00F8;rket langsmed en veigr&#x00F8;ft</l>
+<l>ligger det menn og venter.</l>
+</lg>
+<lg>
+<l>Luftvernet skj&#x00F8;t over Holland</l>
+<l>Jagere gikk til angrep.</l>
+<l>Bombeflyene dr&#x00F8;nner</l>
+<l>rolige frem mot m&#x00E5;let.</l>
+<l>Snart kan de skimte K&#x00F8;ln.</l>
+<l>Det er som jorden har kastet</l>
+<l>en ildvegg opp av granater,</l>
+<l>som intet kan g&#x00E5; igjennom.</l>
+<l>S&#x00E5; g&#x00E5;r maskinen inn &#x2013;</l>
+<l>inn i den brennende muren,</l>
+<l>slengt omkring som av stormkast</l>
+<l>(da flyet til venstre ble rammet</l>
+<l>og plutselig var ikke mere)</l>
+<l>hugget av hvinende splinter</l>
+<l>(skytteren skrek og stupte</l>
+<l>og skriket f&#x00F8;ltes som stumhet),</l>
+<l>og alltid reises det nye</l>
+<l>ildvegger, sirkel p&#x00E5; sirkel,</l>
+<l>som de m&#x00E5; bryte seg gjennom</l>
+<l>inn mot det innerste m&#x00E5;let.</l>
+<l>Tilslutt kan bomben slippes.</l>
+<l>Tusen fly er i luften,</l>
+<l>seks tusen mann er omkring dem</l>
+<l>i jernstormen, dreper og drepes</l>
+<l>og hugger seg veien tilbake</l>
+<l>utgjennom d&#x00F8;den som sperrer.</l>
+<l>S&#x00E5; er det plutselig stille,</l>
+<l>de klarte det, de er ute;</l>
+<l>langt borte, under dem, ser de</l>
+<l>byen som brenner i natten.</l>
+</lg>
+<lg>
+<l>Maskinen svinger tilbake,</l>
+<l>den skal p&#x00E5;ny over m&#x00E5;let.</l>
+<l>Skytteren ligger livl&#x00F8;s</l>
+<l>i blod og glassk&#x00E5;r i m&#x00F8;rket.</l>
+<l>Dette er annet oppl&#x00F8;p,</l>
+<l>enn&#x00E5; har de en bombe</l>
+<l>og n&#x00E5; skal de treffe bedre,</l>
+<l>og det er enn&#x00E5; s&#x00E5; mange</l>
+<l>brennende netter &#x00E5; d&#x00F8; i,</l>
+<l>at de kan likegodt bruke</l>
+<l>denne s&#x00E5; langt som de orker,</l>
+<l>og noe er enn&#x00E5; ugjort.</l>
+<l>Det er som om menn vidd til d&#x00F8;den,</l>
+<l>i himlen, p&#x00E5; havet og jorden,</l>
+<l>har gjennomlidt h&#x00E5;pl&#x00F8;sheten</l>
+<l>og ut av den tvunget h&#x00E5;pet.</l>
+</lg>
+<lg>
+<l>De sl&#x00E5;ss for sitt eget hjemland,</l>
+<l>men samtidig for noe annet</l>
+<l>som m&#x00E5; bli gjort, f&#x00F8;r de g&#x00E5;r.</l>
+<l>Det er en mann de skal drepe,</l>
+<l>en mann som de alle kjenner,</l>
+<l>en smilende mann som sier</l>
+<l>at krig vil det v&#x00E6;re bestandig,</l>
+<l>for krig h&#x00F8;rer <hi rend="italic">sinnet</hi> til,</l>
+<l>det er en mann de skal drepe</l>
+<l>han finnes i millioner;</l>
+<l>for ham blir granatene fraktet,</l>
+<l>ham er det bombene s&#x00F8;ker,</l>
+<l>ham er det knivene venter</l>
+<l>i hatets m&#x00F8;rknende netter,</l>
+<l>han som har sagt til barnet</l>
+<l>at det var mord i dets hjerte,</l>
+<l>han som har kuet h&#x00E5;pet</l>
+<l>med pisken av gamle tanker,</l>
+<l>han er det som skal d&#x00F8;.</l>
+</lg>
+<lg>
+<l>Mennene ved hans side</l>
+<l>skal stupe og r&#x00E5;tne p&#x00E5; marken,</l>
+<l>kvinner og barn omkring ham</l>
+<l>skal smadres n&#x00E5;r bombene faller,</l>
+<l>fordi det tak han er under</l>
+<l>skal rase over hans hode;</l>
+<l>mellom sitt eget hjemlands</l>
+<l>knuste liv og ruiner &#x2013;</l>
+<l>der skal de finne ham, blodig,</l>
+<l>og slite hans hjerte ut,</l>
+<l>han skal ikke lenger huske</l>
+<l>hvor det var morsomt &#x00E5; trampe</l>
+<l>i Praha, Paris og Warszawa</l>
+<l>i Oslo, Haag og Odessa,</l>
+<l>&#x00E5; seire og gj&#x00F8;re inntog,</l>
+<l>&#x00E5; pine og skyte gisler,</l>
+<l>&#x00E5; feste p&#x00E5; andres hunger,</l>
+<l>han skal f&#x00E5; stirre omkring seg</l>
+<l>og skimte sitt testamente;</l>
+<l>det var ikke fullt s&#x00E5; morsomt,</l>
+<l>det var ikke s&#x00E5; <hi rend="italic">naturlig</hi></l>
+<l>han engang mente det var.</l>
+<l>Det er en mann de skal drepe</l>
+</lg>
+<lg>
+<l>S&#x00E5; blir det stille p&#x00E5; jorden.</l>
+<l>Hvor er den r&#x00F8;sten som piper</l>
+<l>at krig m&#x00E5; det v&#x00E6;re bestandig,</l>
+<l>han kjenner det i seg selv?</l>
+<l>Den som gr&#x00E5;ter av hunger</l>
+<l>skal mettes og t&#x00E5;ren skal t&#x00F8;rkes,</l>
+<l>men den som gr&#x00E5;ter av hevnlyst</l>
+<l>skal ikke lenger ynkes,</l>
+<l>og mennenes frie forbund</l>
+<l>skal verge og verne og vokte</l>
+<l>mennesket slik som det er,</l>
+<l>befridd for det gamles terror,</l>
+<l>vennes&#x00E6;lt, glad ved &#x00E5; hjelpe.</l>
+<l>Fred skal det alltid v&#x00E6;re</l>
+<l>i deres verden; <hi rend="italic">for slik er</hi></l>
+<l><hi rend="italic">den menneskelige natur.</hi></l>
+</lg>
+<lg>
+<l>M&#x00E5; vi da ikke rope:</l>
+<l>&#x00AB;Arme villedte ungdom,</l>
+<l>mennesket kan ikke klare</l>
+<l>&#x00E5; b&#x00E6;re s&#x00E5; edel en byrde,</l>
+<l>og dette er nye tanker,</l>
+<l>dette er aldri pr&#x00F8;vet.&#x00BB;</l>
+<l>Stille, hva er det de svarer:</l>
+<l>&#x00AB;<hi rend="italic">D&#x00F8;den</hi> ble aldri pr&#x00F8;vet.</l>
+</lg>
+<lg>
+<l>Det som vi gj&#x00F8;r er dristig.</l>
+<l>Vi skal ikke komme tilbake;</l>
+<l>for hver av oss er det nytt.&#x00BB;</l>
+<l>Hvorfor skal bare tanken</l>
+<l>f&#x00E5; lov til &#x00E5; svikte i feighet.</l>
+<l>Fortvilelsen kan v&#x00E6;re bunnl&#x00F8;s,</l>
+<l>s&#x00E5; hvorfor kan ikke h&#x00E5;pet?</l>
+</lg>
+<lg>
+<l>Vi som skal d&#x00F8; beh&#x00F8;ver</l>
+<l>ikke &#x00E5; sikre v&#x00E5;r fremtid</l>
+<l>og rope: Vi trenges bestandig.</l>
+<l>Vi skal ikke sitte i freden</l>
+<l>og minnes alt hva vi gjorde,</l>
+<l>den, som vil gj&#x00F8;re det, lyver.</l>
+<l>Han har ikke gjennomlevet</l>
+<l>en smerte for dyp til ord.</l>
+</lg>
+<lg>
+<l>Den som kan minnes, <hi rend="italic">har</hi> intet,</l>
+<l>og han har glemt og forr&#x00E5;dt oss.</l>
+<l>Alt som vi ber om er stumhet.</l>
+<l>Reis ingen monumenter.</l>
+<l>La akrer som aldri har sett oss</l>
+<l>og gamle kvinner i solen</l>
+<l>og unger som leker, og bj&#x00F8;rker</l>
+<l>som us&#x00E5;ret l&#x00F8;fter sitt lys-sl&#x00F8;r</l>
+<l>v&#x00E6;re v&#x00E5;r evighet.</l>
+<l>Men dere som lever, m&#x00E5; v&#x00E5;ke</l>
+<l>over den fred vi skimtet</l>
+<l>i naboskapet av d&#x00F8;den,</l>
+<l>lidelsens siste glede.</l>
+<l>Bli fremfor alt ikke <hi rend="italic">trette</hi> &#x2013;</l>
+<l>som mennesker blir etter kriger &#x2013;</l>
+<l>n&#x00E5;r grumset og griskheten kommer</l>
+<l>i f&#x00F8;lge med motl&#x00F8;sheten,</l>
+<l>det varme r&#x00E5;tnende dyndet</l>
+<l>lagret av hundrede slektledd</l>
+<l>hvor sinnet kan krype til hvile</l>
+<l>og han som vi drepte kan oppst&#x00E5;.</l>
+<l>Vi som er tapt i natten,</l>
+<l><hi rend="italic">vi</hi> dr&#x00F8;mte, <hi rend="italic">vi</hi> trodde, <hi rend="italic">vi</hi> h&#x00E5;pet;</l>
+<l>og ingen var trette som vi.</l>
+<l>Hvorfor min offisers-bror,</l>
+<l>g&#x00E5;r du med slik tilfredshet,</l>
+<l>overb&#x00E6;rende, kj&#x00F8;lig</l>
+<l>som om du hadde en viden</l>
+<l>om noe som alltid vil seire</l>
+<l>og noe som alltid vil tape,</l>
+<l>tilbake til ditt kontor?</l>
+</lg>
+<p>Tingvellir, september 1942. </p>
+</div>
+</div>
+
+<div type="chapter" subtype="poem" n="3_3">
+<head type="main"><ref type="contents" target="contents_3_3" xml:id="poem_3_3">VIGGO HANSTEEN</ref></head>
+<p><hi rend="italic">Slutten av diktet til Viggo Hansteen hadde opprinnelig denne formen. Nordahl Grieg ville gjerne at ogs&#x00E5; den skulle bli kjent &#x2013; n&#x00E5;r krigen var forbi.</hi></p>
+<lg>
+<l>Rolige eller angstgr&#x00E5; stod de ved d&#x00F8;dens slukt;</l>
+<l>men livet hadde tatt mot dem; hver av dem var blitt <hi rend="italic">brukt.</hi></l>
+<l>Hvem t&#x00F8;r ta dem til inntekt? De dannet sitt eget parti</l>
+<l>der ingen beh&#x00F8;ver &#x00E5; kreve; men alle har noe &#x00E5; gi.</l>
+</lg>
+<lg>
+<l>Fra d&#x00F8;dstimens bleke brorskap skal de g&#x00E5; inn i v&#x00E5;r fred.</l>
+<l>Og de vil drives tilbake og vises sitt hvilested.</l>
+<l>Kanskje det <hi rend="italic">samme</hi> hjertet som kunne ha gitt sitt blod</l>
+<l>vil ikke t&#x00E5;le i livet det som de falne forstod.</l>
+</lg>
+<lg>
+<l>Jorden skal ryddes for d&#x00F8;de, bli rede til salg og kj&#x00F8;p.</l>
+<l>(Den sl&#x00F8;ve tanken kan myrde s&#x00E5; godt som et b&#x00F8;ssel&#x00F8;p.)</l>
+<l>Alt som er lavt skal bli kalt for: den menneskelige natur.</l>
+<l>(Glemte er korsl&#x00F8;se graver, sveket er blodv&#x00E5;t mur.)</l>
+</lg>
+<lg>
+<l>Menneskets stolte hjerte, som grensel&#x00F8;st gir seg hen</l>
+<l>villig, hvis det blir kalt p&#x00E5;, &#x00E5; d&#x00F8; for en ukjent venn &#x2013;</l>
+<l>menneskets stakkars hjerte som, fattig, ikke form&#x00E5;r</l>
+<l>&#x00E5; b&#x00E6;re sin egen storhet gjennom de lange &#x00E5;r &#x2013;</l>
+</lg>
+<lg>
+<l>b&#x00F8;ddel og gjenoppvekker, aske og offerild &#x2013;</l>
+<l>men <hi rend="italic">denne</hi> gang m&#x00E5; du, hjerte, f&#x00E5; kraft til &#x00E5; strekke til!</l>
+<l>Vi kan ikke miste dere, dere m&#x00E5; bli oss n&#x00E6;r,</l>
+<l>de blodige patrioter, fremst i frihetens h&#x00E6;r.</l>
+<l>Over de d&#x00F8;des rike st&#x00E5;r luften ukrenkelig ren.</l>
+<l>Det er som &#x00E5; splitte et vennskap, hvis vi vil nevne en.</l>
+</lg>
+<lg>
+<l>Alltid kommer det nye. Vi kjenner dem, mann etter mann,</l>
+<l>og med v&#x00E5;rt liv m&#x00E5; vi huske: at slik er v&#x00E5;rt fedreland.</l>
+</lg>
+</div>
+</div>
+
+<div type="part" n="4">
+<head type="main"><ref type="contents" target="contents_4" xml:id="poem_4">IV</ref></head>
+<div type="chapter" subtype="poem" n="4_1">
+<head type="main"><ref type="contents" target="contents_4_1" xml:id="poem_4_1">ODE TIL EN GRESK VASE</ref></head>
+<p><hi rend="italic">Av John Keats.</hi></p>
+<lg>
+<l>Du stillhetens jomfruelige brud,</l>
+<l>du barn av fred og tidens sene gang,</l>
+<l>du sagaskriver som kan b&#x00E6;re bud</l>
+<l>om det du kjenner, skj&#x00F8;nnere enn sang!</l>
+<l>Hva er det sagn som l&#x00F8;vkranset g&#x00E5;r igjen</l>
+<l>omkring din form med guder eller menn,</l>
+<l>i hyrdens berge eller dalens skj&#x00F8;d?</l>
+<l>Hvem er de piker her som styrter vekk?</l>
+<l>Hva r&#x00F8;ber jaktens lyst? og fluktens skrekk?</l>
+<l>Og disse fl&#x00F8;yter? den ekstasens gl&#x00F8;d?</l>
+</lg>
+<lg>
+<l>De toner som vi h&#x00F8;rer, elsker vi,</l>
+<l>men elsker dem vi bare <hi rend="italic">aner</hi>, mer!</l>
+<l>Spill derfor videre den melodi</l>
+<l>som evig, blide fl&#x00F8;yter er oss kj&#x00E6;r!</l>
+<l>Du skj&#x00F8;nne yngling, du skal aldri g&#x00E5;</l>
+<l>bort fra ditt spill, og aldri skal du n&#x00E5;</l>
+<l>o elsker, til ditt m&#x00E5;l, til kyssets l&#x00F8;nn!</l>
+<l>S&#x00E5; n&#x00E6;r ved m&#x00E5;let! Grem deg ikke dog!</l>
+<l>Du elsker evig. <hi rend="italic">Hun</hi> m&#x00E5; bli her og &#x2026;</l>
+<l>Kan aldri falme, men er alltid skj&#x00F8;nn!</l>
+</lg>
+<lg>
+<l>O lykkelige tr&#x00E6;r, som blomstrer nu</l>
+<l>og ingengang kan visne, ingengang!</l>
+<l>Og lykkelige, lykkelige du</l>
+<l>hvis fl&#x00F8;yte alltid skjelver ny av sang!</l>
+<l>O, mere lykke, mere kj&#x00E6;rlighet!</l>
+<l>S&#x00E5; full av l&#x00F8;fter, mens i fryd den vet</l>
+<l>at den er &#x00E5;ndende og s&#x00F8;t og ung!</l>
+<l>S&#x00E5; lik den vi andre f&#x00E5;r til del,</l>
+<l>som herjer med sin lede i v&#x00E5;r sjel</l>
+<l>og gj&#x00F8;r v&#x00E5;r panne brennende og tung!</l>
+</lg>
+<lg>
+<l>Hvem kommer hit til dette offersted?</l>
+<l>Til hvilket alter f&#x00F8;rer du, o prest,</l>
+<l>den kvige her, som rautende g&#x00E5;r med,</l>
+<l>mens gr&#x00F8;nne kranser smykker den til fest?</l>
+<l>Hvor er den lille by, ved flod, ved kyst,</l>
+<l>p&#x00E5; fjell m&#x00E5;skje, som ligger ganske tyst</l>
+<l>og folketom i offermorgnens skj&#x00E6;r?</l>
+<l>O lille by, der kommer ingen hjem</l>
+<l>til dine gaters d&#x00F8;de ro, av dem</l>
+<l>som visste<hi rend="italic"> hvorfor</hi> det er &#x00F8;de her!</l>
+</lg>
+<lg>
+<l>Du barn av Attika! med evig liv,</l>
+<l>av marmor — menn og piker, hugges inn!</l>
+<l>Med skogens l&#x00F8;v og stier gjennom siv!</l>
+<l>Du stumme form, du svimler for v&#x00E5;rt sinn</l>
+<l>som evigheten: kolde pastoral &#x2026;</l>
+<l>N&#x00E5;r alderdommen kommer med sin kval</l>
+<l>blir du igjen, n&#x00E5;r intet annet er,</l>
+<l>en venn som sier til oss disse ord:</l>
+<l>&#x00AB;Alt sant er skj&#x00F8;nt, alt skj&#x00F8;nt er sant.&#x00BB; P&#x00E5; jord</l>
+<l>er dette alt I vet. Vit ikke mer!</l>
+</lg>
+<figure rend="shortHorizRule"/>
+</div>
+
+<div type="chapter" subtype="poem" n="4_2">
+<head type="main"><ref type="contents" target="contents_4_2" xml:id="poem_4_2">&#x00AB;BELLE DAME SANS MERCI&#x00BB;</ref></head>
+<p><hi rend="italic">En ballade av John Keats.</hi></p>
+<lg>
+<l>&#x00AB;O riddersmann, hvad feiler dig,</l>
+<l>s&#x00E5; blek, s&#x00E5; ensom p&#x00E5; din gang?</l>
+<l>Alt sj&#x00F8;ens siv er visnet bort,</l>
+<l>stum er hver sang.</l>
+</lg>
+<lg>
+<l>O riddersmann, hvad feiler dig,</l>
+<l>s&#x00E5; herjet, smertesl&#x00E5;tt og svak?</l>
+<l>Hver ekorns forr&#x00E5;dsbod er fylt;</l>
+<l>korn under tak.</l>
+</lg>
+<lg>
+<l>En lilje gror p&#x00E5; pannens hvelv,</l>
+<l>med feberdugg, fra sorgens sj&#x00F8;.</l>
+<l>Men p&#x00E5; din kinn, der kan jeg se</l>
+<l>en rose d&#x00F8; &#x2013;.&#x00BB;</l>
+</lg>
+<lg>
+<l>&#x00AB;En kvinne m&#x00F8;tte jeg p&#x00E5; vang,</l>
+<l>en fremmed, o s&#x00E5; underbar.</l>
+<l>Det h&#x00E5;r, den fot &#x2026; Men hennes blikk,</l>
+<l>s&#x00E5; vilt det var.</l>
+</lg>
+<lg>
+<l>Jeg smykket hennes h&#x00E5;r og bryst</l>
+<l>og midjen med en blomsterkrans.</l>
+<l>Og blikket talte kj&#x00E6;rlighet</l>
+<l>med sorgfull glans.</l>
+</lg>
+<lg>
+<l>Jeg satte henne p&#x00E5; min hest</l>
+<l>og s&#x00E5; blott henne dagen lang.</l>
+<l>Hun b&#x00F8;iet sig mot mig og kvad</l>
+<l>en alfesang.</l>
+</lg>
+<lg>
+<l>Hun fant mig r&#x00F8;tter til behag</l>
+<l>og honning, manna langs v&#x00E5;r vei</l>
+<l>Og i sitt sprog, s&#x00E5; sa hun visst:</l>
+<l>jeg elsker dig.</l>
+</lg>
+<lg>
+<l>Hun tok mig til sin alfehaug</l>
+<l>og klaget der som s&#x00E5;r musikk.</l>
+<l>Der lukket jeg med fire kyss</l>
+<l>det ville blikk.&#x00BB;</l>
+</lg>
+<lg>
+<l>Der kysset hun mig blidt is&#x00F8;vn,</l>
+<l>der dr&#x00F8;mte jeg &#x2013; ve! hvad er hendt?</l>
+<l>den dr&#x00F8;m som jeg har nettop dr&#x00F8;mt</l>
+<l>p&#x00E5; iskold skrent.</l>
+</lg>
+<lg>
+<l>De bleke konger kom p&#x00E5; rad,</l>
+<l>og krigere, hver hvit og kold.</l>
+<l>De skrek: La Belle Dame Sans Merci</l>
+<l>er du ivold!</l>
+</lg>
+<lg>
+<l>De d&#x00F8;de leber skimtet jeg,</l>
+<l>med redslens varsel, mot mig vendt.</l>
+<l>S&#x00E5; v&#x00E5;knet jeg, og fant mig her</l>
+<l>p&#x00E5; iskold skrent.</l>
+</lg>
+<lg>
+<l>Og derfor m&#x00E5; jeg flakke her,</l>
+<l>s&#x00E5; blek, s&#x00E5; ensom p&#x00E5; min gang,</l>
+<l>skj&#x00F8;nt sj&#x00F8;ens siv er visnet bort,</l>
+<l>og stum hver sang.</l>
+</lg>
+<figure rend="shortHorizRule"/>
+</div>
+
+<div type="chapter" subtype="poem" n="4_3">
+<head type="main"><ref type="contents" target="contents_4_3" xml:id="poem_4_3">KJ&#x00C6;RLIGHETENS FILOSOFI</ref></head>
+<p><hi rend="italic">Av Percy B. Shelley.</hi></p>
+<lg>
+<l>Hver kilde s&#x00F8;ker mot elven,</l>
+<l>som elven mot b&#x00F8;lgeskummet,</l>
+<l>i samme forelskede skjelven</l>
+<l>som blest m&#x00F8;ter blest med, i rummet!</l>
+<l>Se loven fra Gud! Der menes</l>
+<l>at intet skal v&#x00E6;re spredt &#x2026;</l>
+<l>S&#x00E5; kj&#x00E6;re — hvorfor forenes</l>
+<l>vi ikke til ett?</l>
+<l>Bergene kysses av luften,</l>
+<l>b&#x00F8;lgene favnes i blinde,</l>
+<l>og blomsten, beruset av duften,</l>
+<l>synker mot sin veninde, &#x2013;</l>
+<l>solen og m&#x00E5;nen drysser</l>
+<l>sitt kyss over hav og hei &#x2013;</l>
+<l>hvad gavner at alle kysser,</l>
+<l>n&#x00E5;r du ikke mig?</l>
+</lg>
+<figure rend="shortHorizRule"/>
+</div>
+
+<div type="chapter" subtype="poem" n="4_4">
+<head type="main"><ref type="contents" target="contents_4_4" xml:id="poem_4_4">GOD NATT!</ref></head>
+<p><hi rend="italic">Av Percy B. Shelley.</hi></p>
+<lg>
+<l>God natt? Nei, d&#x00E5;rlig, kj&#x00E6;re du,</l>
+<l>er timen da farvel blir tatt.</l>
+<l>Men la oss ikke skilles nu &#x2013;</l>
+<l>da vil det bli <hi rend="italic">god</hi> natt!</l>
+</lg>
+<lg>
+<l>Du &#x00F8;nsker: la hans natt bli god,</l>
+<l>la fly den stund han har forlatt.</l>
+<l>Men lar du &#x00F8;nsket i bero,</l>
+<l>da vil det bli <hi rend="italic">god</hi> natt!</l>
+</lg>
+<lg>
+<l>For hjerter som har samme hjem</l>
+<l>fra kvelden d&#x00F8;r til dagen tar fatt,</l>
+<l>er natten god; ti mellem dem</l>
+<l>blir aldri sagt <hi rend="italic">god</hi> natt!</l>
+</lg>
+<figure rend="shortHorizRule"/>
+</div>
+
+<div type="chapter" subtype="poem" n="4_5">
+<head type="main"><ref type="contents" target="contents_4_5" xml:id="poem_4_5">&#x00AB;N&#x00C5;R DU ER G&#x00C5;TT &#x2013;&#x00BB;</ref></head>
+<p><hi rend="italic">Av Percy B. Shelley.</hi></p>
+<lg>
+<l>Den toner bort den blide sang;</l>
+<l>i minnet skjelver dog en klang &#x2026;</l>
+<l>Fiolen selv kan visne hen,</l>
+<l>men duftens s&#x00F8;dme blir igjen.</l>
+</lg>
+<lg>
+<l>N&#x00E5;r rosen d&#x00F8;r, dens blade er</l>
+<l>en seng for deres hjertenskj&#x00E6;r.</l>
+<l>N&#x00E5;r du er g&#x00E5;tt, min elskov sanker</l>
+<l>sin rosenseng av dine tanker.</l>
+</lg>
+<figure rend="shortHorizRule"/>
+</div>
+
+<div type="chapter" subtype="poem" n="4_6">
+<head type="main"><ref type="contents" target="contents_4_6" xml:id="poem_4_6">TIL DIG</ref></head>
+<p><hi rend="italic">Av Percy B. Shelley.</hi></p>
+<lg>
+<l>Ett l&#x00F8;fte er skj&#x00E6;nket for tit,</l>
+<l>at jeg skulde skj&#x00E6;nke det.</l>
+<l>Ett ord er blitt kr&#x00E6;nket for tit,</l>
+<l>at du skulde kr&#x00E6;nke det.</l>
+<l>Ett h&#x00E5;b er fortvilelse n&#x00E6;r,</l>
+<l>s&#x00E5; la det blott vandre!</l>
+<l>Medynk fra dig er mer kj&#x00E6;r</l>
+<l>end h&#x00E5;bet fra andre.</l>
+</lg>
+<lg>
+<l>Vent ikke <hi rend="italic">kj&#x00E6;rlighets</hi> bud!</l>
+<l>Men si ikke nei til</l>
+<l>den l&#x00E6;ngsel som stiger mot Gud</l>
+<l>og jeg tror &#x2013; finder vei til.</l>
+<l>Nattens l&#x00E6;ngsel mot dag,</l>
+<l>en m&#x00F8;lls mot en stjerne,</l>
+<l>den dr&#x00F8;m som fra sorg og bedrag</l>
+<l>flyr hjem til det fjerne.</l>
+</lg>
+<figure rend="shortHorizRule"/>
+</div>
+
+<div type="chapter" subtype="poem" n="4_7">
+<head type="main"><ref type="contents" target="contents_4_7" xml:id="poem_4_7">&#x00AB;MITT FEDRELAND &#x2013; GODNATT!&#x00BB;</ref></head>
+<p><hi rend="italic">Av Lord Byron.</hi></p>
+<lg>
+<l>Farvel, farvel! Nu svinner bort</l>
+<l>mitt land bak b&#x00F8;lgens bl&#x00E5;!</l>
+<l>Det bryter hvitt, det kuler sort,</l>
+<l>snart faller natten p&#x00E5;.</l>
+<l>Med kurs langs solens aftenvei</l>
+<l>er alle seil blitt satt &#x2013;</l>
+<l>farvel en stund til den og dig,</l>
+<l>mitt fedreland &#x2013; godnatt!</l>
+</lg>
+<lg>
+<l>Snart stiger den av sj&#x00F8;ens skum</l>
+<l>fra morgenr&#x00F8;dens rand,</l>
+<l>og jeg skal se det &#x00F8;de rum,</l>
+<l>men ikke dig, mitt land!</l>
+<l>Forlatt blir nu min gode hall,</l>
+<l>grodd til blir parkens grunn,</l>
+<l>og vandreren som kommer, skal</l>
+<l>blott m&#x00F8;tes av min hund.</l>
+</lg>
+<lg>
+<l>&#x00AB;Min lille pasje, kom nu hit &#x2013;</l>
+<l>si hvorfor gr&#x00E5;ter du!</l>
+<l>G&#x00E5;r b&#x00F8;lgen altfor vill og hvit,</l>
+<l>er stormen full av gru?</l>
+<l>Men tro mig! Le du trygt p&#x00E5;ny &#x2013;</l>
+<l>v&#x00E5;r bark kan le igjen!</l>
+<l>Din beste falk kan ikke fly</l>
+<l>mer lystelig enn den!&#x00BB;</l>
+</lg>
+<lg>
+<l>&#x00AB;I stormens angst skal glad jeg st&#x00E5;,</l>
+<l>i havs og natts og vinds &#x2013;</l>
+<l>men herre, undr Jer ikke p&#x00E5;</l>
+<l>om jeg er tung tilsinns.</l>
+<l>En far forlot jeg i mitt hjem,</l>
+<l>en mor som er mig kj&#x00E6;r;</l>
+<l>av venner har jeg bare dem,</l>
+<l>foruten Gud og Jer.</l>
+</lg>
+<lg>
+<l>Min far &#x2013; han tok mig &#x00F8;mt i favn,</l>
+<l>men kunde lite si;</l>
+<l>men mor vil gr&#x00E5;te ved mitt navn</l>
+<l>til reisen er forbi &#x2026;&#x00BB;</l>
+<l>&#x00AB;Nok min gutt! Jeg ser det nu,</l>
+<l>den s&#x00F8;mmer sig din gr&#x00E5;t &#x2013;</l>
+<l>hvis jeg var skyldfri slik som du,</l>
+<l>min kinn var ogs&#x00E5; v&#x00E5;t.</l>
+</lg>
+<lg>
+<l>Men du, min tjener! Dine trekk</l>
+<l>er hvite &#x2013; gi mig svar:</l>
+<l>Har stormen fylt ditt sinn med skrekk,</l>
+<l>har fiendens manovar?&#x00BB;</l>
+<l>&#x00AB;I tror jeg frykter for mitt liv?</l>
+<l>I d&#x00F8;mmer mig for vek.</l>
+<l>Men avskjedstanken p&#x00E5; min viv</l>
+<l>kan gj&#x00F8;re kinnen blek.</l>
+</lg>
+<lg>
+<l>Tett ved Jer hall, i skogens snar,</l>
+<l>der bor hun med de sm&#x00E5;,</l>
+<l>og n&#x00E5;r de roper p&#x00E5; sin far,</l>
+<l>hvad svar skal da de f&#x00E5;?&#x00BB;</l>
+<l>&#x00AB;Nok, nok min tjener! Du har rett,</l>
+<l>du f&#x00F8;ler dypt og smukt &#x2026;</l>
+<l>Men jeg, hvis sinn er mere lett,</l>
+<l>m&#x00E5; le ved skibets flukt!&#x00BB;</l>
+</lg>
+<lg>
+<l>For hvem m&#x00E5; ikke dra i tvil</l>
+<l>de t&#x00E5;rer som man ser?</l>
+<l>Snart smiler der nok nye smil</l>
+<l>hos viv og hjertenskj&#x00E6;r!</l>
+<l>Jeg byr dem livets lyst som kom,</l>
+<l>foruten sorg farvel!</l>
+<l>Min sorg — min sorg bad ingen om!</l>
+<l><hi rend="italic">Det</hi> er min sorg ikveld &#x2026;</l>
+</lg>
+<lg>
+<l>S&#x00E5; ensom, ensom g&#x00E5;r min vei</l>
+<l>alt p&#x00E5; det hvite hav.</l>
+<l>Men ingen f&#x00E5;r et sukk fra mig</l>
+<l>som ingen holder av!</l>
+<l>Og hyler nu i savn min hund,</l>
+<l>kan savnet mates bort,</l>
+<l>og den vil rive <hi rend="italic">mig</hi> isund</l>
+<l>ved hjemmets egen port!</l>
+</lg>
+<lg>
+<l>Med dig, mitt skib, vil nu jeg g&#x00E5;,</l>
+<l>mens skummet fr&#x00E5;der hvitt!</l>
+<l>Mot hvilket land &#x2013; er i det bl&#x00E5;,</l>
+<l>s&#x00E5; hvorfor hjem til mitt?</l>
+<l>Vel m&#x00F8;tt &#x2013; I b&#x00F8;lger hvor vi flyr,</l>
+<l>og hav! er du forlatt &#x2013;</l>
+<l>vel m&#x00F8;tt i &#x00D8;stens eventyr &#x2013;</l>
+<l>mitt fedreland &#x2013; godnatt!</l>
+</lg>
+<figure rend="shortHorizRule"/>
+</div>
+
+<div type="chapter" subtype="poem" n="4_8">
+<head type="main"><ref type="contents" target="contents_4_8" xml:id="poem_4_8">AMBARVALIA</ref></head>
+<p><hi rend="italic">Linjer skrevet i den tro at den gamle romerske minnefest for de d&#x00F8;de blev kalt Ambarvalia.</hi></p>
+<p><hi rend="italic">Av Rupert Brooke.</hi></p>
+<lg>
+<l>Enn g&#x00E5;r min vei i dal og p&#x00E5; hei</l>
+<l>og verden er sang og spill!</l>
+<l>S&#x00E5; fjern hun er, men s&#x00E5; kj&#x00E6;r, s&#x00E5; kj&#x00E6;r,</l>
+<l>min elskte er sterk og mild!</l>
+</lg>
+<lg>
+<l>&#x00C5;, tross de &#x00E5;r og de mil som skiller,</l>
+<l>og tross v&#x00E5;r lodd og v&#x00E5;r del,</l>
+<l>husker jeg alt, og vandrer</l>
+<l>med latter i min sjel!</l>
+</lg>
+<lg>
+<l>Bort fra hver pusling som intet forst&#x00E5;r,</l>
+<l>g&#x00E5;r jeg mot berget avsted,</l>
+<l>hvor solen tindrer; og jeg erindrer;</l>
+<l>og ser at en dag g&#x00E5;r ned.</l>
+</lg>
+<lg>
+<l>Gull er mitt hjerte, og verden er gyllen,</l>
+<l>en fjelltopp er kysset av lys,</l>
+<l>men luften er stille om bergets topp</l>
+<l>med skumringens f&#x00F8;rste gys,</l>
+</lg>
+<lg>
+<l>til m&#x00F8;rket stryker den d&#x00F8;dsstille dal,</l>
+<l>p&#x00E5; larmende, mystisk fangst,</l>
+<l>og vinden bl&#x00E5;ser og lyset g&#x00E5;r,</l>
+<l>og natten er full av angst!</l>
+</lg>
+<lg>
+<l>Og jeg vet at en natt p&#x00E5; et annet fjell</l>
+<l>i et sprog som jeg ikke kjenner,</l>
+<l>h&#x00F8;rer jeg engang et bud fra dig</l>
+<l>fra dem som var dine venner:</l>
+</lg>
+<lg>
+<l>Jorden og himlen og blesten skal</l>
+<l>si det fra fjell til fjell,</l>
+<l>uten tr&#x00F8;st og i m&#x00F8;rke; og jeg</l>
+<l>vet du er d&#x00F8;d den kveld.</l>
+</lg>
+<lg>
+<l>Jeg g&#x00E5;r ikke til din messe,</l>
+<l>jeg blir ikke grav&#x00F8;lets gjest.</l>
+<l>Din slekt vil sikkerlig vite sin plikt</l>
+<l>og s&#x00F8;rge ved d&#x00F8;dens fest &#x2026;</l>
+</lg>
+<lg>
+<l>De vil rose alt som var d&#x00E5;rlig</l>
+<l>og glemme alt godt ved dig,</l>
+<l>og undres hvorledes det hele skal g&#x00E5;,</l>
+<l>og s&#x00E5; vil de g&#x00E5; sin vei!</l>
+</lg>
+<lg>
+<l>Men stillere enn en sovende</l>
+<l>og frem med og fjern &#x00E5; se &#x2013;</l>
+<l>r&#x00F8;res du ikke av gr&#x00E5;ten;</l>
+<l>at det er koldt &#x2013; hvad gj&#x00F8;r det?</l>
+</lg>
+<lg>
+<l>Lebene vil ikke le den natt,</l>
+<l>hendene flyttes ei vekk.</l>
+<l>Og endelig ligger ditt h&#x00E5;r i ro</l>
+<l>omkring de stivnede trekk!</l>
+</lg>
+<lg>
+<l>Med sn&#x00F8;fting og snusing og lommeduk</l>
+<l>og s&#x00F8;mmelig sorg i kor,</l>
+<l>med vin og med skinke, blir de nok flinke</l>
+<l>&#x00E5; senke en dronning p&#x00E5; jord.</l>
+</lg>
+<lg>
+<l>Deres d&#x00F8;de sm&#x00E5; hjerter vil g&#x00E5; uten sorg</l>
+<l>og f&#x00F8;lge ditt ensomme ridt.</l>
+<l>Et h&#x00F8;it og et modig og levende hjerte</l>
+<l>visste de aldri var ditt.</l>
+</lg>
+<lg>
+<l>Jeg vil ikke g&#x00E5; til din messe,</l>
+<l>til mat og til drikkevarer,</l>
+<l>jeg vil ikke si deres l&#x00F8;gne om d&#x00F8;d</l>
+<l>til den d&#x00F8;de som ikke svarer.</l>
+</lg>
+<lg>
+<l>Men sn&#x00F8;fting og snusing og lommeduk</l>
+<l>vil de gi dig til muldens natt.</l>
+<l>Og s&#x00E5; g&#x00E5;r de kolde og undrende hjem.</l>
+<l>Og ormene vil ta fatt.</l>
+</lg>
+<lg>
+<l>Men, leende, halvveis mot himlen,</l>
+<l>hvor blesten g&#x00E5;r til og fra,</l>
+<l>blandt stjernene kolde, der vil jeg holde</l>
+<l>din Ambarvalia!</l>
+</lg>
+<figure rend="shortHorizRule"/>
+</div>
+
+<div type="chapter" subtype="poem" n="4_9">
+<head type="main"><ref type="contents" target="contents_4_9" xml:id="poem_4_9">1914-SONETTENE</ref></head>
+<p><hi rend="italic">Av Rupert Brooke.</hi></p>
+<div type="uchapter" subtype="partOfPoem" n="4_9_1">
+<head type="main">1. <hi rend="italic">Fred.</hi></head>
+<lg>
+<l>Ha takk, o Gud, som gav oss denne dag</l>
+<l>og b&#x00F8;d v&#x00E5;r ungdom, sl&#x00F8;vt i s&#x00F8;vn begravet,</l>
+<l>med nyf&#x00F8;dt vilje i hvert ansiktsdrag</l>
+<l>&#x00E5; styrte sig som sv&#x00F8;mmeren i havet,</l>
+<l>bort fra en verden, kold i sin forstening,</l>
+<l>hvor &#x00E6;ren ikke ildnet hjertet mer</l>
+<l>og menn var ikke menn, og livets mening:</l>
+<l>den lille tomhet kj&#x00E6;rligheten er!</l>
+</lg>
+<lg>
+<l>O, vi som har kjent skam, vi fant et sted her,</l>
+<l>hvor hver en kval er slukket n&#x00E5;r vi sover</l>
+<l>og alt v&#x00E5;rt tap &#x2013; et &#x00E5;ndedrags for&#x00F8;den,</l>
+<l>og intet ryster hjertets glade fred her,</l>
+<l>uten en krampe som g&#x00E5;r hurtig over &#x2026;</l>
+<l>V&#x00E5;r verste venn og fiende er kun d&#x00F8;den!</l>
+</lg>
+</div>
+<div type="uchapter" subtype="partOfPoem" n="4_9_2">
+<head type="main">2. <hi rend="italic">Trygghet.</hi></head>
+<lg>
+<l>Blandt alle dem som f&#x00F8;ler lykke nu,</l>
+<l>er ingen dog velsignet slik som de,</l>
+<l>som fattet i en tid av angst og gru</l>
+<l>v&#x00E5;rt dunkle budskap: Hvem er trygg som vi?</l>
+<l>Vi leser trygghet i en evig skrift</l>
+<l>av blesten, morgenen og mensker&#x00F8;sten,</l>
+<l>i nattens stillhet og i skyers drift,</l>
+<l>i s&#x00F8;vn og fuglesang og land om h&#x00F8;sten.</l>
+</lg>
+<lg>
+<l>V&#x00E5;rt er et hus som tiden ikke ryster.</l>
+<l>V&#x00E5;r er en fred hvor smerten ikke n&#x00E5;r mig.</l>
+<l>Hvad makter krig? Trygg g&#x00E5;r jeg hvor jeg lyster,</l>
+<l>beskyttet hemmelig n&#x00E5;r d&#x00F8;den sl&#x00E5;r mig!</l>
+<l>Trygg, hvor trygghet taptes, trygg, hvor alle falt;</l>
+<l>og d&#x00F8;r mitt stakkels legeme &#x2013; da tryggere enn alt.</l>
+</lg>
+</div>
+<div type="uchapter" subtype="partOfPoem" n="4_9_3">
+<head type="main">3. <hi rend="italic">De d&#x00F8;de.</hi></head>
+<lg>
+<l>Bl&#x00E5;s, I trompeter, for de rike d&#x00F8;de!</l>
+<l>Ti ingen var s&#x00E5; arm og kummerfull &#x2013;</l>
+<l>de gav oss d&#x00F8;ende langt mer enn gull!</l>
+<l>De oppgav verden, skjenket ut sin r&#x00F8;de</l>
+<l>og fine ungdomsvin, de gikk fra hjem</l>
+<l>og smil og arbeid i de &#x00E5;r som kommer,</l>
+<l>de ofret s&#x00F8;nner av sin tapte sommer,</l>
+</lg>
+<lg>
+<l>og nektet sig sin evighet ved dem!</l>
+<l>Trompeter, bl&#x00E5;s! De gav oss for v&#x00E5;r verd</l>
+<l>all helligdom og kj&#x00E6;rlighet og smerte.</l>
+<l>Og &#x00E6;ren treffes atter p&#x00E5; v&#x00E5;r ferd</l>
+<l>og gir oss gavmildt mere enn v&#x00E5;rt tarv.</l>
+<l>Og edelhet f&#x00E5;r leve i v&#x00E5;rt hjerte.</l>
+<l>Og vi er kommet til v&#x00E5;r fedrearv.</l>
+</lg>
+</div>
+<div type="uchapter" subtype="partOfPoem" n="4_9_4">
+<head type="main">4. <hi rend="italic">De d&#x00F8;de.</hi></head>
+<lg>
+<l>De hjerter her var skapt av sorg og glede</l>
+<l>hvor efter gr&#x00E5;ten: smilet skalv p&#x00E5;ny;</l>
+<l>og mildhet kom med &#x00E5;r og dages kjede.</l>
+<l>De eiet farver, solefall og gry.</l>
+<l>De h&#x00F8;rte toner, s&#x00E5; p&#x00E5; alt som levet,</l>
+<l>de sov og v&#x00E5;ket, elsket, lo som vi,</l>
+<l>og satt av ensomheten gjennembevet.</l>
+<l>De str&#x00F8;k en kinn, en blomst. Det er forbi.</l>
+</lg>
+<lg>
+<l>De var som sj&#x00F8;en bragt i lek av bl&#x00E5;sten</l>
+<l>og tendt av himlene. Men s&#x00E5; kom frosten</l>
+<l>og stanset p&#x00E5; sitt bud den b&#x00F8;lgedans.</l>
+<l>Men se! Den strenge Gud har efterlatt den</l>
+<l>som hvite verdener av ubrutt glans,</l>
+<l>en fred som skinner evig under natten.</l>
+</lg>
+</div>
+<div type="uchapter" subtype="partOfPoem" n="4_9_5">
+<head type="main">5. <hi rend="italic">Soldaten.</hi></head>
+<lg>
+<l>Tenk bare dette om mig, hvis jeg d&#x00F8;r:</l>
+<l>Der er et hj&#x00F8;rne av en fremmed jord,</l>
+<l>som er for alltid England. Mer rik enn f&#x00F8;r</l>
+<l>vil mulden bli ved st&#x00F8;vets rike spor,</l>
+<l>et st&#x00F8;v som England skapte og gav sans</l>
+<l>og gav &#x00E5; elske sine blomsters duft,</l>
+<l>en del av England, &#x00E5;ndende dets luft</l>
+<l>d&#x00F8;pt av dets elver og dets solskinnsglans.</l>
+</lg>
+<lg>
+<l>Og tenk, o hjerte &#x2013; n&#x00E5;r du &#x00E5;nder med</l>
+<l>i evighetens sjel, da kan igjen</l>
+<l>du gi til England dine tankers vrimmel,</l>
+<l>dem England gav dig, engang det var fred,</l>
+<l>med latter, dr&#x00F8;m og smil fra venn til venn,</l>
+<l>i milde hjerter under Englands himmel!</l>
+</lg>
+<figure rend="shortHorizRule"/>
+</div>
+</div>
+
+<div type="chapter" subtype="poem" n="4_10">
+<head type="main"><ref type="contents" target="contents_4_10" xml:id="poem_4_10">SANKT PETER BERETTER EN EPISODE FRA OPSTANDELSENS MORGEN</ref></head>
+<p><hi rend="italic">Av James Weldon Johnson.</hi></p>
+<div type="uchapter" subtype="partOfPoem" n="4_10_1">
+<head type="main">I.</head>
+<lg>
+<l>Da l&#x00F8;ftet Gabriel sin s&#x00F8;lvtrompet</l>
+<l>og gjennem rummets &#x00F8;de majestet,</l>
+<l>klang, kallende til liv, en storm av toner.</l>
+<l>Og kloden skalv. Nu v&#x00E5;knet millioner:</l>
+</lg>
+<lg>
+<l>De d&#x00F8;de stumme liv som l&#x00E5; begravet</l>
+<l>i jordens skj&#x00F8;d, i dypene av havet,</l>
+<l>de br&#x00F8;t sig frem av b&#x00F8;lgen, op av mulden,</l>
+<l>fra jungelsumpene og isbrekulden,</l>
+</lg>
+<lg>
+<l>de reiste sig fra gravens klamme gys</l>
+<l>med nye legemer i livets lys.</l>
+<l>De pustet lykkelig og dypt og fritt.</l>
+<l>Glad runget jorden under deres skritt.</l>
+</lg>
+<lg>
+<l>Og Guds herolder suste fjernt og n&#x00E6;r,</l>
+<l>og ordnet disse gjenopstandnes h&#x00E6;r.</l>
+<l>S&#x00E5; gikk de fremover mens hjertet bevet:</l>
+<l>var navnet blitt i livets b&#x00F8;ker skrevet?</l>
+</lg>
+<lg>
+<l>Og evig nye d&#x00F8;de kom og kom</l>
+<l>i blek tumult p&#x00E5; veien til sin dom.</l>
+<l>Da l&#x00F8;d der ordrer &#x2013; skingrende, intense,</l>
+<l>fra landet bak den amerikanske grense.</l>
+</lg>
+</div>
+<div type="uchapter" subtype="partOfPoem" n="4_10_2">
+<head type="main">II.</head>
+<lg>
+<l>Det var vel helst en blodfull veteran &#x2013;</l>
+<l>i fredstid stormester i Ku-Klux-Klan &#x2013;</l>
+<l>som skrek det ut: hver patriotisk &#x00E5;nd</l>
+<l>har raskt &#x00E5; rykke frem til Washington,</l>
+</lg>
+<lg>
+<l>og holde sig til m&#x00F8;nstringen parat</l>
+<l>ved graven hos den ukjente soldat &#x2013;</l>
+<l>som nu steg op p&#x00E5; andre d&#x00F8;des vis &#x2013;</l>
+<l>og eskortere ham til Paradis.</l>
+</lg>
+<lg>
+<l>De kom, de kom! Bedekket med medaljer</l>
+<l>med brede skuldrer og med smekre taljer,</l>
+<l>krigsveteraner fra Haiti, Kuba</l>
+<l>og Frankrike, &#x2013; f&#x00F8;rt an med horn og tuba</l>
+</lg>
+<lg>
+<l>Og yngre slekter &#x2013; som var ikke borte</l>
+<l>n&#x00E5;r det gjaldt krigersk snitt, is&#x00E6;r i skjorte,</l>
+<l>de kom marsjerende med blikket tendt</l>
+<l>av arisk kraft til hundrede procent.</l>
+</lg>
+<lg>
+<l>Det dr&#x00F8;nnet p&#x00E5; den store aveny</l>
+<l>titusen menn, titusen menn p&#x00E5; ny.</l>
+<l>Slutt p&#x00E5;! skrek baktroppen idet den kom &#x2013;</l>
+<l>kan hende er han g&#x00E5;tt, og graven tom!</l>
+</lg>
+<lg>
+<l>O nei. Da hele h&#x00E6;ren var n&#x00E5;dd dit</l>
+<l>l&#x00E5; graven uber&#x00F8;rt og marmorhvit.</l>
+<l>V&#x00E6;r stille! H&#x00F8;r! Dypt under stenen l&#x00F8;d</l>
+<l>en uro som et barn i morens skj&#x00F8;d.</l>
+</lg>
+<lg>
+<l>Da grep de sine redskap. Fliser f&#x00F8;k</l>
+<l>fra mausoleet, jorden stod i r&#x00F8;k.</l>
+<l>I feberlengsel grov de helten frem.</l>
+<l>Den ukjente soldaten ventet dem.</l>
+</lg>
+<lg>
+<l>Selv hjalp han til da hendene blev fri!</l>
+<l>Snart er hans m&#x00F8;rke fangenskap forbi.</l>
+<l>Snart kan de skimte helten der han ligger &#x2026;</l>
+<l>&#x00AB;Forbarm dig Gud!&#x00BB; de skrek &#x2013; &#x00AB;det er en nigger.&#x00BB;</l>
+</lg>
+<lg>
+<l>F&#x00F8;rst d&#x00F8;dsstillhet, den stumme vantros gru.</l>
+<l>S&#x00E5; galehuset, et avsindig nu,</l>
+<l>de hylte, breket, hulket: protester!</l>
+<l>Da steg han op, og intet nyttet mer.</l>
+</lg>
+<lg>
+<l>Man snakker om opstandelse! I skrekk</l>
+<l>og hat og harm drog &#x00E6;resvakten vekk.</l>
+<l>Men midt blandt marmorgravens brutte sten som</l>
+<l>var veltet bort, stod den opstandne, ensom.</l>
+</lg>
+</div>
+<div type="uchapter" subtype="partOfPoem" n="4_10_3">
+<head type="main">III.</head>
+<lg>
+<l>Min dag var slutt. All dommens gjerning gjort.</l>
+<l>Og langsomt l&#x00E5;ste jeg min perleport.</l>
+<l>God tid jeg gav mig. For som dere vet</l>
+<l>var tiden oph&#x00F8;rt. Det var evighet.</l>
+</lg>
+<lg>
+<l>Men fra den gylne sol som ikke sank,</l>
+<l>skred der en mann imot mig, m&#x00F8;rk og rank,</l>
+<l>den ukjente soldat, bedekt med jord og slam,</l>
+<l>og mens han steg mot Gud, steg der en sang fra ham</l>
+</lg>
+<lg>
+<l>&#x00AB;Dype flod, mitt hjem er over Jordan.</l>
+<l>Dype flod, jeg vil over dig for &#x00E5; sl&#x00E5; leir.&#x00BB;</l>
+<l>Stigende, syngende:</l>
+<l>&#x00AB;Dype flod, mitt hjem er over Jordan.</l>
+<l>Dype flod, jeg vil over dig for &#x00E5; sl&#x00E5; leir.&#x00BB;</l>
+</lg>
+<lg>
+<l>N&#x00E6;rmere, h&#x00F8;iere:</l>
+<l>&#x00AB;Dype flod, mitt hjem er over Jordan.</l>
+<l>Dype flod, jeg vil over dig for &#x00E5; sl&#x00E5; leir.&#x00BB;</l>
+<l>Ved Jaspis-muren:</l>
+<l>&#x00AB;Dype flod, mitt hjem er over Jordan</l>
+<l>Dype flod,</l>
+<l>o Gud,</l>
+<l>jeg vil over dig for &#x00E5; sl&#x00E5; leir.&#x00BB;</l>
+</lg>
+<lg>
+<l>Da sprang jeg frem, og &#x00E5;pnet porten vidt.</l>
+<l>Syngende skred han inn, med lange, ledige skritt</l>
+<l>Syngende gikk han den gylne vei,</l>
+<l>den skinnende trone imot.</l>
+<l>Sangen fra strupen paret sig med</l>
+<l>dr&#x00F8;nnet under hans fot.</l>
+</lg>
+<lg>
+<l>Engelsoldaten h&#x00F8;i og sort, ensom som ofte f&#x00F8;r,</l>
+<l>skridende op den gylne vei, og foran Guds trone: honn&#x00F8;r.</l>
+</lg>
+<lg>
+<l>Syngende, syngende, syngende,</l>
+<l>syngende stolt og fri,</l>
+<l>syngende, syngende, syngende,</l>
+<l>til himlen selv stemte i:</l>
+</lg>
+<lg>
+<l>&#x00AB;Dype flod, mitt hjem er over Jordan.</l>
+<l>Dype flod, jeg vil over dig for &#x00E5; sl&#x00E5; leir.&#x00BB;</l>
+</lg>
+</div>
+</div>
+</div>
+</body>
+</text>
+</TEI>

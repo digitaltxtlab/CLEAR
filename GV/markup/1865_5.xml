@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Dansk Kirketidende.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-26"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="005"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1865">1865</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1865_5_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">1865.  No. 27.<lb/>Dansk Kirketidende.</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace></pubPlace>Trinitatis Søndag den 11te Juni.<lb/>
+<fw type="graphic"/>
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<p>Indhold: N. F. S. Grundtvig: Til Vilterlighed. - N. Lindberg: De vide og de snævre Grændser. (Fortsat) - Bognyt. - Udnævnelser, Entledigelse og ledige Embeder.</p>
+<fw type="graphic"/>
+</div>
+<div>
+<head>Til Vitterlighed. .</head>
+<fw type="graphic"/>
+<p>Da de Parti-Blade, der nu rase vildest mod mine "<hi rend="spaced">Danske Venner</hi>", har stræbt at tage mig selv og hvad "<hi rend="spaced">jeg skal have sagt</hi>" til Indtægt, saa nødes jeg til at kundgiøre hvad for Resten hverken gir fra eller til: a. at jeg alt for Valgdagen havde afsagt og frabedt mig Bladene "Fædrelandet" og "Danmark", d. at jeg er fuldkommen enig med min høistærede Ven, Hr. Hofjægermester <hi rend="spaced">Carlsen</hi> derom, at alle fribaarne Dannemænd maae holde fast paa "Juni-Grundloven" og "Rigsdagen" som de eneste endnu ikke brustne Samfunds-Baand, c. at jeg aldrig har befundet mig i saa bestemt <hi rend="spaced">Modsætning</hi> til det pluddervælske "nationalliberale" Parti, som siden det gjorde Forbund med Ministeriet David-Bluhme, <hi rend="spaced">enten</hi> fordi "Danskhed, Frihed og Oplysning" var dem ligegyldige, eller som <hi rend="spaced">sædvanlig</hi>, blot for at seire glimrende paa <hi rend="spaced">Papiret</hi> over <hi rend="spaced">Bondevennerne</hi> og saa, staaende sig til Ro midt i Malstrømmen, hvile paa deres Laurbær. Endelig stal jeg ved denne Leilighed dog rette den Forespørgsel til det <hi rend="spaced">høilærde</hi> Parti: om de har glemt, at det er "<hi rend="spaced">Rigsdagens</hi> Landsthing", der, efter deres egen høirøstede</p>
+<p>425</p>
+<p>Paastand, beherskes af <hi rend="spaced">Bondevennerne</hi>, og som maa slaae sig selv ihjel, om Seiren paa <hi rend="spaced">lovlig</hi> Maade skal vindes, eller om de veed, <hi rend="spaced">hvad</hi> de vil giøre, naar Rigsdagens <hi rend="spaced">Landsthing</hi> griber til lovligt <hi rend="spaced">Nødværge</hi> for sit Liv? N. F. S. Grundtvig.</p>
+</div>
+</body>
+</text>
+</TEI>

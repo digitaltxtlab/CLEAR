@@ -1,0 +1,797 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://www.nslnorge.no/tekster/NSL_texts.xsl"?>
+<!DOCTYPE TEI PUBLIC "-// NSL Norge //EN" "http://www.nslnorge.no/tekster/NSL_tei_xinclude.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="NSL_Welhaven_UtvalgteDikt">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Det norske spr&#x00E5;k- og litteraturselskap/bokselskap.no, 2011
+<lb/>Johan Sebastian Welhaven: <hi rend="italic">Utvalgte dikt</hi></title>
+</titleStmt>
+<publicationStmt><p>Publiseres som digital tekst av Det norske spr&#x00E5;k- og litteraturselskap/bokselskap.no.</p></publicationStmt>
+<sourceDesc>
+<p>digibok_2007110801044.txt (mottatt fra Nasjonalbiblioteket/Bokhylla.no 2010).</p>
+</sourceDesc>
+</fileDesc>
+<revisionDesc>
+<change who="ENW" when="2011-02-15">F&#x00F8;rt inn korrekturresultatene. Kodekontroll.</change>
+<change xml:id="ENW" who="ENW" when="2011-02-03">Kodet om filen til xml. Filen klar for korrektur.</change>
+</revisionDesc>
+</teiHeader>
+<text xml:id="NSL_Welhaven_UtvalgteDikt_tekst" type="collection">
+<front>
+<titlePage type="main">
+<byline><docAuthor>Johan Sebastian Welhaven</docAuthor></byline>
+<docTitle>
+<titlePart type="main">Utvalgte dikt</titlePart>
+</docTitle>
+<docDate>1830&#x2013;47<note type="footnote">Tekster og kommentarer er hentet fra <hi rend="italic">Samlede verker</hi>. Utgave ved Ingard Hauge. 5 bind. Det norske spr&#x00E5;k- og litteraturselskap, Universitetsforlaget, Oslo 1990-92. Digitaliseringen er basert p&#x00E5; skannet og ocr-lest fil mottatt fra Nasjonalbiblioteket/Bokhylla.no.</note></docDate>
+</titlePage>
+<div type="chapter" subtype="illustration">
+<figure><graphic url="images/Welhaven.jpg"/></figure>
+</div>
+<div xml:id="contents">
+<list type="contents_main">
+<item><ref target="chapter_1" xml:id="contents_1">Til Henrik Wergeland!</ref></item>
+<item><ref target="chapter_2" xml:id="contents_2">S&#x00F8;fuglen</ref></item>
+<item><ref target="chapter_3" xml:id="contents_3">Bergens Stift</ref></item>
+<item><ref target="chapter_4" xml:id="contents_4">En Sommerdr&#x00F8;m</ref></item>
+<item><ref target="chapter_5" xml:id="contents_5">En Vaarnat</ref></item>
+<item><ref target="chapter_6" xml:id="contents_6">Digtets Aand</ref></item>
+<item><ref target="chapter_7" xml:id="contents_7">Den Salige</ref></item>
+</list>
+</div>
+</front>
+<body>
+<div type="chapter" subtype="poem">
+<head><ref type="contents" target="contents_1" xml:id="chapter_1">Til Henrik Wergeland! (1830)</ref></head>
+<note type="commentary">Diktet ble trykt i Morgenbladet nr. 227 15/8 1830 og er Welhavens f&#x00F8;rste trykte dikt. Den direkte foranledning m&#x00E5; ha v&#x00E6;rt Henrik Wergelands <hi rend="italic">Skabelsen, Mennesket og Messias</hi> som kom ut 6/7 1830, med tittelbilde litografert etter en tegning av Welhaven. Om omstendighetene da diktet ble til, forteller bokhandler Johan Dahl i &#x00AB;Minner om samtidige&#x00BB;, 1943, s. 58&#x2013;60. Etter en diskusjon med stud. jur. J. K. Stabel om Wergelands verk gikk Welhaven hjem og skrev diktet. Dahl leverte det til Morgenbladet, der det ble liggende en tid. Wergelandss svar p&#x00E5; diktet, &#x00AB;Til Digtet: Skabelsen, Mennesket og Messias&#x0027;s uv&#x00E6;rdige Angriber i Gaars-Morgenbladet&#x00BB;, stod i Morgenbladet nr. 228. Et versifisert angrep p&#x00E5; Welhaven (av Nils Dahl?), &#x00AB;Hvorledes kan Du tale for Fornuften&#x00BB; stod i Morgenbladet nr. 233. Welhavens neste tilsvar og forsvar for diktet stod i Morgenbladet nr. 255: &#x00AB;Til en Modstander i Morgenbladet&#x00BB;. Han opplyser her at han hadde regnet med at diktet skulle danne innledningen til en litter&#x00E6;r polemikk. Om forutsetningene for diktet i Johan Ludvig Heibergs strid med Carsten Hauch, Peder Hjort og Christian Wilster v&#x00E5;ren 1830, se L&#x00F8;chen s. 85 ff. Kommentar til diktet og til Dahls beretning om hvordan det ble til, Andersen-N&#x00E6;ss s. 188 ff.</note>
+<note type="commentary">Teksten er her gjengitt etter Morgenbladet, bortsett fra str. 5 v. 4, som i Morgenbladet ender med komma (Phosphorlys,).</note>
+<note type="commentary">Strofeform: Lie Versl&#x00E6;re &#x00A7; 2156; den er bl.a. brukt av Oehlenschl&#x00E4;ger.</note>
+
+<p><hi rend="italic">Det sande Store j&#x00E6;vnt og simpelt er,
+<lb/>saa var en</hi> Moses<hi rend="italic">, saa var en</hi> Homer<hi rend="italic">.
+<lb/>J. Rein</hi><note type="commentary">Mottoet, som er tillagt Jonas Rein, er to vers av en epilog ved en oppf&#x00F8;relse av Wessels Kjerlighed uden Str&#x00F8;mper i Bergen, trykt i Den Norske Tilskuer 1817, et ukeblad utgitt av J. Rein, C. M. Falsen og Herman Foss. Diktet er ikke tatt med blant Reins skrifter, og Gerhard Gran (Norges D&#x00E6;mring, 1899, s. 48) betviler at det er av Rein. Knut Nygaard (Jonas Rein, 1947, s. 239) gir grunner for at det m&#x00E5; v&#x00E6;re rett at diktet er av Rein. Epilogen fremhever den klassisistiske dramatikk, representert ved Holberg og Wessel, i motsetning til &#x00AB;Kotzebuers Skokke&#x00BB;, jfr. Gran s. 25.</note></p>
+
+<lg>
+<l>Hvorl&#x00E6;nge vil Du rase mod Fornuften?<note type="commentary">Hvorl&#x00E6;nge vil Du rase . . .&#x005D; &#x00C5;pningen av diktet gir en gjenklang av Ciceros ord til Catilina i senatet &#x00E5;r 63 f. Kr., ord som alle akademikere kjente: &#x00AB;Quousque tandem abutere, Catilina, patientia nostra&#x00BB; (Hvor lenge vil du misbruke v&#x00E5;r t&#x00E5;lmodighet, Catilina? . . . Hvor lenge skal ditt &#x00E5;penlyse vanvidd f&#x00E5; drive sitt spill?)</note></l>
+<l>Hvorl&#x00E6;nge svinge Donquixotisk Sp&#x00E6;r?<note type="commentary">Donquixotisk Sp&#x00E6;r&#x005D; Don Quixote, hovedpersonen i Cervantes&#x0027; roman fra 1605&#x2013;14, var gjerne avbildet med lanse. Sp&#x00E6;r egtl. spyd.</note></l>
+<l>Seer Du da ei, din Sv&#x00E6;rmenom i Luften,</l>
+<l>er kun en Dalen mod et bundl&#x00F8;st Kj&#x00E6;r?</l>
+<l>For Sol Du tager Sumpens Metheorer,</l>
+<l>en &#x00D8;gle er den Pegasus<note type="commentary">Pegasus&#x005D; fra gresk mytologi, vingehesten, i senere tid betraktet som dikternes gud eller som symbol for dikterevnen.</note> Du sporer.</l>
+</lg>
+<lg>
+<l>Det h&#x00F8;ie Nordens Skjaldetoner svunde,</l>
+<l>der blev saa taust i Norges Klippehal;</l>
+<l>thi Fjeldets Harpe klang i Herthas Lunde,<note type="commentary">Herthas Lunde&#x005D; Danmark (eller Sj&#x00E6;lland). Hertha ble oppfattet som navn p&#x00E5; dansk gudinne, ved misforst&#x00E5;else av Tacitus&#x0027; omtale av den germanske gudinne Nerthus.</note></l>
+<l>og gav kun Echo til sin F&#x00E6;dredal. &#x2013; &#x2013;</l>
+<l>Skal Klippens Sangm&#x00F8; i sin <emph>Morgenr&#x00F8;de</emph></l>
+<l>bag dine vilde Dunster skamfuld Gl&#x00F8;de?</l>
+</lg>
+<lg>
+<l>Naar h&#x00F8;rte Du, at Bragis<note type="commentary">Bragi&#x005D; Brage, i norr&#x00F8;n mytologi gud for skaldskap, s&#x00F8;nn av Odin.</note> h&#x00F8;ie Pr&#x00E6;ster</l>
+<l>i Livets B&#x00E6;ger dryssed lumske Gift?</l>
+<l>Veed Du da ei, at Glemsels Finger f&#x00E6;ster</l>
+<l>sit D&#x00F8;dsens M&#x00E6;rke paa din kaade Skrift?</l>
+<l>See! <emph>Mandens</emph> L&#x00E6;ber til dit Anfald smile,</l>
+<l>og <emph>Uslingen</emph> er stolt af dine Pile.</l>
+</lg>
+<lg>
+<l>Og t&#x00E6;nker Du at m&#x00F8;rke Feberdr&#x00F8;mme</l>
+<l>er Himmelsyner fra Begeistrings Flugt?</l>
+<l>Troer Du, et Chaos, hvori Drager sv&#x00F8;mme,</l>
+<l>er noget Kraftigt, eller noget Smukt?</l>
+<l>Husk! &#x2013; mangen m&#x00F8;rk Gestalt, Du dannet har og gyset,</l>
+<l>er Fugleskr&#x00E6;msel, seer man den ved Lyset.</l>
+</lg>
+<lg>
+<l>Selv Helligdommens Glands Du dristig haaner,</l>
+<l>med dine Taager, med dit Febergys! &#x2013;</l>
+<l>Seraphen Du din Narrekappe laaner,</l>
+<l>din Himmel br&#x00E6;nder i et Phosphorlys,</l>
+<l>hvor dine Toner herligst skulde lyde,</l>
+<l>der d&#x00F8;e de alle hen i Plattitude.<note type="commentary">Plattitude&#x005D; platthet.</note></l>
+</lg>
+<lg>
+<l>Dog faldt saa mangt et Lyn forbi dit &#x00D8;ie,</l>
+<l>og mangt et Mannakorn i dit Skj&#x00F8;d &#x2013;;</l>
+<l>hvi freded Du ei Gnisten fra det H&#x00F8;ie?</l>
+<l>O! den var bleven til en venlig Gl&#x00F8;d;</l>
+<l>nu er det Afsind kun hvortil Du str&#x00E6;ber:</l>
+<l>hvad skj&#x00F8;nt Du skaber, ynkeligt Du dr&#x00E6;ber.</l>
+</lg>
+<lg>
+<l>H&#x00F8;r ei Zeloten, naar han Dig beretter,</l>
+<l>at Du er Klopstock eller Schakespeare lig;</l>
+<l>Du veed dog bedre, Heltens <emph>Isse</emph> fletter</l>
+<l>man Krandse til, ei til hans <emph>Kjortelflig</emph>;</l>
+<l>og ei fordi man st&#x00F8;ier paa Cothurner,</l>
+<l>man v&#x00E6;kker Asken i de Skjaldes Urner.</l>
+</lg>
+<lg>
+<l>O! klag da ei at Du for h&#x00F8;it mon stige,</l>
+<l>til ret at skattes af din Samtids Aand,</l>
+<l>hvad Kunst, at drive om i Taagers Rige,</l>
+<l>naar man har skilt sig ved Fornuftens Baand? &#x2013;</l>
+<l>Din Rang du sikkred Dig med tusind Stemmer:</l>
+<l>Rang blandt Parnassets Daarekistelemmer.</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem">
+<head><ref type="contents" target="contents_2" xml:id="chapter_2">S&#x00F8;fuglen (1836)</ref></head>
+<note type="commentary">Trykt i Den Const. 1836 12/8 nr. 194 som avslutning p&#x00E5; prosastykket &#x00AB;Skizzer fra Frankrige (Litteratur. La Morgue.)&#x00BB; Diktet ble senere tatt inn i Digte, mens prosastykket f&#x00F8;rst ble trykt p&#x00E5; ny i SS, og da uten diktet. Siste linje i diktet, &#x00AB;der boer den stumme Fisk,&#x00BB; har en annen form i Den Const.: &#x00AB;iblandt de stumme Fisk.&#x00BB; Noe bestemt sagn som kan ha gitt utgangspunktet for diktet, kjenner utg. ikke til. Sj&#x00F8;fuglene spiller en rolle i romantisk diktning, fordi de h&#x00F8;rer hjemme i flere elementer. En tilknytning til JSWs dikt kan en antakelig finne i H. C. Andersens eventyrspill Agnete og Havmanden, 1834, med havdypsymbolikk og et visst innslag av sj&#x00F8;fuglmotivet. Det er alminnelig antatt at diktet har gitt impulsen til hovedsymbolet i Ibsens Vildanden, 1884.</note>
+<note type="commentary">Strofeform: halvert hildebrandstrofe, som &#x00AB;En Erindring&#x00BB;, Lie &#x00A7; 524.</note>
+<lg>
+<l>En Vildand sv&#x00F8;mmer stille</l>
+<l>ved &#x00D8;ens h&#x00F8;ie Kyst,</l>
+<l>de klare B&#x00F8;lger spille</l>
+<l>omkring dens rene Bryst.</l>
+</lg>
+<lg>
+<l>En J&#x00E6;ger gaaer og b&#x00F8;ier</l>
+<l>sig i den steile Ur,</l>
+<l>og skyder saa for L&#x00F8;ier</l>
+<l>det smukke Kreatur.<note type="commentary">Kreatur&#x005D; skapning, dyr. Ordet kan v&#x00E6;re valgt med hentydning til den eldre form (f&#x00F8;r 1819) i Rom. 8,22: &#x00AB;creaturet sukker&#x00BB;, jfr. Stagnelius&#x0027; dikt &#x00AB;Kreaturens suckan&#x00BB;.</note></l>
+</lg>
+<lg>
+<l>Og Fuglen kan ei drage</l>
+<l>til Redens lune Skj&#x00F8;d,</l>
+<l>og Fuglen vil ei klage</l>
+<l>sin Smerte og sin N&#x00F8;d.</l>
+</lg>
+<lg>
+<l>Og derfor taus den dukker</l>
+<l>dybt i den m&#x00F8;rke Fjord,</l>
+<l>og B&#x00F8;lgen kold sig lukker,</l>
+<l>og sletter ud dens Spor.</l>
+</lg>
+<lg>
+<l>I S&#x00F8;ens dybe Grunde</l>
+<l>groer Tangen bred og frisk,</l>
+<l>derunder vil den blunde:</l>
+<l>der boer den stumme Fisk.<note type="criticalApp">I Den Const. 1836 12/8 nr. 194 st&#x00E5;r: &#x00AB;iblandt de stumme Fisk.&#x00BB;</note></l>
+</lg>
+</div>
+<div type="chapter" subtype="poem">
+<head><ref type="contents" target="contents_3" xml:id="chapter_3">Bergens Stift (1838)</ref></head>
+<note type="commentary">Diktet ble trykket i diktsamlingen <title>Digte</title> som utkom i desember 1838 (med 1839 p&#x00E5; tittelbladet). Den diktning som JSW hadde offentligjort f&#x00F8;r <title>Digte</title>, hadde for den st&#x00F8;rste del polemisk karakter, hvis en ser bort fra leilighetsdiktene. I <title>Digte</title> f&#x00E5;r den innadvendte livsholdning langt sterkere uttrykk enn i det man f&#x00F8;r kjente av JSWs diktning. I noen dikt er de indre verdier forbundet med minner fra barndommen, &#x00AB;En
+Erindring&#x00BB; og fremfor alt &#x00AB;Bergens Stift&#x00BB;. I dette diktet finner en ogs&#x00E5; det beste eksempel i hans tidligere diktning p&#x00E5; at han kan gi plastiske og anskuelige naturbilder som samtidig uttrykker en sjelelig stemning.</note>
+<note type="commentary">Om strofeformen Lie &#x00A7; 726. 1 de to siste strofene har v. 2 f&#x00E5;tt en utvidelse som m&#x00E5; v&#x00E6;re tilsiktet.</note>
+<note type="commentary">Bergens Stift&#x005D; Bj&#x00F8;rgvin bisped&#x00F8;mme, n&#x00E6;rmest betegnelse for det en n&#x00E5; kaller Vestlandet. JSW kjente landsdelen fra turer i omegnen av Bergen, sj&#x00F8;reiser langs kysten til Christiania, bes&#x00F8;k i Davik og Innvik i Nordfjord og reiser inn Sognefjorden og videre gjennom L&#x00E6;rdal. Diktet legger vekt p&#x00E5; kontrasten og forsoningen mellom den barske stridsvilje og den fromme kirkestillhet i vestlandsnaturen, jfr. Norges D&#x00E6;mring sonett 1-2.</note>
+<lg>
+<l>Nu gaaer &#x00D8;stenvinden</l>
+<l>med et Suk igjennem Linden,</l>
+<l>og mod Vesten glider Skyen blidt,</l>
+<l>og min L&#x00E6;ngsel f&#x00F8;lger</l>
+<l>til de fjerne B&#x00F8;lger,</l>
+<l>hvor min Barndom gyngede saa tidt.</l>
+</lg>
+<lg>
+<l>Mine Barndomsdage</l>
+<l>er en billedsmykket Sage,</l>
+<l>i hvert Billed er en Tone lagt.</l>
+<l>I min Dr&#x00F8;m paa Fjeldet,</l>
+<l>under Fossev&#x00E6;ldet,</l>
+<l>har en Huldre mig sin Harpe rakt.</l>
+</lg>
+<lg>
+<l>Kjender du de svale,</l>
+<l>m&#x00F8;rke, kirkestille Dale</l>
+<l>uden Arner, uden Sti og Navn?</l>
+<l>Ved de sorte Elve</l>
+<l>Taarebirke skj&#x00E6;lve;</l>
+<l>de har n&#x00E6;vnt mig alle mine Savn.</l>
+</lg>
+<lg>
+<l>Har du seet Skoven</l>
+<l>h&#x00E6;nge frodigt over Voven,</l>
+<l>fra det lune, farverige Fjeld?</l>
+<l>Der, blandt Blomsterbede,</l>
+<l>under Droslens Rede,</l>
+<l>sprang min dybe Sjelegl&#x00E6;des V&#x00E6;ld.</l>
+</lg>
+<lg>
+<l>Ved mit Edens Gj&#x00E6;rde</l>
+<l>er en K&#x00E6;mpevagt paaf&#x00E6;rde:</l>
+<l>vilde J&#x00F8;kler splitte Skyen ad;</l>
+<l>men i Styrkens Belte</l>
+<l>om de barske Helte</l>
+<l>har en Dise virket Rosens Blad.</l>
+</lg>
+<lg>
+<l>Der er n&#x00F8;gne Strande,</l>
+<l>hvor de klippestore Hvaler lande,</l>
+<l>under Tordners og Orkaners Gny;</l>
+<l>der er dybe Bugter,</l>
+<l>hvor de r&#x00F8;de Frugter</l>
+<l>groe ved Bredden av din Snekkes Ly.</l>
+</lg>
+<lg>
+<l>Der har Herren stillet</l>
+<l>for din Ringhed Almagts Billed,</l>
+<l>der er Orgelklang fra Fjeld og Fjord;</l>
+<l>der vil Droslens Tone</l>
+<l>kv&#x00E6;ge og forsone</l>
+<l>i det klippehvalte Tempelchor.</l>
+</lg>
+<lg>
+<l>Der var godt at blunde</l>
+<l>i de lyse, duftopfyldte Lunde,</l>
+<l>hvor min Vugge overskygget stod;</l>
+<l>for hver kvalfuld Slummer,</l>
+<l>for hver vaagen Kummer,</l>
+<l>er min Vuggegave L&#x00E6;gerod.</l>
+</lg>
+<lg>
+<l>Hil dig Norges Bringe!</l>
+<l>Under Stormens vinterlige Vinge</l>
+<l>er du h&#x00E6;rdet til din Jettedyst;</l>
+<l>men bag Pandsrets Bue</l>
+<l>blusser Fromheds Lue,</l>
+<l>banker Hjertet mod Naturens Lyst.</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem">
+<head><ref type="contents" target="contents_4" xml:id="chapter_4">En Sommerdr&#x00F8;m (1838)</ref></head>
+<note type="commentary">Diktet ble trykket i diktsamlingen <title>Digte</title> som utkom i desember 1838 (med 1839 p&#x00E5; tittelbladet). Den diktning som JSW hadde offentligjort f&#x00F8;r <title>Digte</title>, hadde for den st&#x00F8;rste del polemisk karakter, hvis en ser bort fra leilighetsdiktene. I <title>Digte</title> f&#x00E5;r den innadvendte livsholdning langt sterkere uttrykk enn i det man f&#x00F8;r kjente av JSWs diktning.</note>
+<note type="commentary">Diktet er i Heine-strofer, som &#x00AB;B&#x00F8;rnelege&#x00BB; V.</note>
+<lg>
+<l>En Vandrer hvilte i Skyggen</l>
+<l>af duftende H&#x00E6;ggetr&#x00E6;&#x0027;r;</l>
+<l>ved Summen af Humlen og Myggen</l>
+<l>han s&#x00F8;vned og dr&#x00F8;mte der.</l>
+</lg>
+<lg>
+<l>Han syntes, han gik ad Skovens</l>
+<l>omskyggede, bugtede Sti,</l>
+<l>og lytted til Kildevovens</l>
+<l>og Droslernes Melodi.</l>
+</lg>
+<lg>
+<l>Og mellem de gamle Stammer</l>
+<l>og under det h&#x00F8;ie Krat</l>
+<l>der hv&#x00E6;lved sig mangt et Kammer,</l>
+<l>der ruged en halvklar Nat.</l>
+</lg>
+<lg>
+<l>Men Blade og unge Stilke</l>
+<l>og Blomster paa Urt og Green,</l>
+<l>de glindsed som spunden Silke</l>
+<l>og straaled som &#x00C6;delsteen.</l>
+</lg>
+<lg>
+<l>Libeller og Papilioner<note type="commentary">Libeller og Papilioner&#x005D; &#x00D8;yenstikkere og sommerfugler.</note></l>
+<l>med Vinger af Morgenskj&#x00E6;r,</l>
+<l>de flagred om Skovens Kroner</l>
+<l>og over Konvallers H&#x00E6;r.</l>
+</lg>
+<lg>
+<l>Og Fiskene smutted trygge</l>
+<l>og vevre i deres B&#x00E6;k,</l>
+<l>og svam i den kj&#x00F8;le Skygge,</l>
+<l>hvor Vidjen slog ud sin H&#x00E6;k.</l>
+</lg>
+<lg>
+<l>Og Vandreren faldt i Tanker</l>
+<l>og gik med bev&#x00E6;get Sind,</l>
+<l>og Blomster og lyse Ranker,</l>
+<l>de kyssed hans r&#x00F8;de Kind.</l>
+</lg>
+<lg>
+<l>Men alt som han fremad vandred,</l>
+<l>han tabte den sikre Sti,</l>
+<l>og Skoven stod flux forandret</l>
+<l>som bunden ved Kogleri.</l>
+</lg>
+<lg>
+<l>Her turde ei Triller klinge</l>
+<l>bag Tr&#x00E6;ernes t&#x00E6;tte Skjul,</l>
+<l>her r&#x00F8;rte sig ingen Vinge,</l>
+<l>ei Zephyr, ei Sommerfugl.</l>
+</lg>
+<lg>
+<l>Her hvilede Skovens Kilde</l>
+<l>blandt Blomsterne taus og klar,</l>
+<l>og Fiskene stode stille,</l>
+<l>som under et slebet Glar.</l>
+</lg>
+<lg>
+<l>Og V&#x00E6;xternes tause Rige</l>
+<l>laae dr&#x00F8;mmende sv&#x00F8;bt i Duft,</l>
+<l>det var som man saae den stige</l>
+<l>i Sommerens varme Luft.</l>
+</lg>
+<lg>
+<l>Men pludselig l&#x00F8;d der Toner,</l>
+<l>saa sagte som Alfesang;</l>
+<l>det klang gjennem Skovens Kroner,</l>
+<l>den deilige Kilde klang.</l>
+</lg>
+<lg>
+<l>Fra Vedbendens lange Lokker</l>
+<l>det l&#x00F8;d som et Str&#x00E6;ngespil,</l>
+<l>og Blomster med Kalke og Klokker,</l>
+<l>de klingede svagt dertil.</l>
+</lg>
+<lg>
+<l>Og hist paa den gr&#x00F8;nne Slette</l>
+<l>i Skovens d&#x00E6;mrende Hal</l>
+<l>der r&#x00F8;rte sig F&#x00F8;dder lette,</l>
+<l>der holdtes et luftigt Bal.</l>
+</lg>
+<lg>
+<l>De blussende, ranke Dryader</l>
+<l>var samlede der i Flok,</l>
+<l>og dandsed i Klynger og Rader</l>
+<l>med flagrende, skinnende Lok.</l>
+</lg>
+<lg>
+<l>De dandsed i lette Ringe,</l>
+<l>som Voven, der slaaer mod Strand,</l>
+<l>de dandsed som Vindens Vinge,</l>
+<l>der b&#x00F8;ier en Vidjevand.</l>
+</lg>
+<lg>
+<l>De dandsed mot Skovens Kilde,</l>
+<l>hvor Vandreren henrykt laae;</l>
+<l>de b&#x00F8;ied sig glade, milde,</l>
+<l>og dybt i hans &#x00D8;ine saae.</l>
+</lg>
+<lg>
+<l>De plukked ved Kilderanden</l>
+<l>Hyperikum ungt og purt,</l>
+<l>de slyngede ham om Panden</l>
+<l>den kraftige, friske Urt.</l>
+</lg>
+<lg>
+<l>Af Irisen og Narcissen</l>
+<l>de samlede Duggens Bad,</l>
+<l>og heldte ham over Issen</l>
+<l>dens V&#x00E6;ld af et Skreppeblad.</l>
+</lg>
+<lg>
+<l>Og Duggen, der kj&#x00F8;ligt trilled,</l>
+<l>den kraftige, friske Krands,</l>
+<l>de klared hvert Tankens Billed,</l>
+<l>og luttrede hver en Sands.</l>
+</lg>
+<lg>
+<l>Han syntes, han kunde t&#x00F8;mme</l>
+<l>af Planterne Livsens Saft,</l>
+<l>han syntes, han kunde sv&#x00F8;mme</l>
+<l>i Luften med &#x00D8;rnens Kraft.</l>
+</lg>
+<lg>
+<l>Da vinked de lette Dryader,</l>
+<l>da gik han fra Kildens Bred</l>
+<l>og vandred i deres Rader</l>
+<l>med friere, sv&#x00E6;vende Fjed.</l>
+</lg>
+<lg>
+<l>Hvor Dagslys som Stjerner tindre</l>
+<l>i L&#x00F8;vtaget klart og blidt:</l>
+<l>i Urskovens tause Indre</l>
+<l>de standsede deres Skridt.</l>
+</lg>
+<lg>
+<l>Alvorlig og h&#x00F8;i og stille</l>
+<l>stod H&#x00E6;ren af K&#x00E6;mpetr&#x00E6;&#x0027;r;</l>
+<l>det var som man maatte spilde</l>
+<l>dens Ro ved at aande her.</l>
+</lg>
+<lg>
+<l>Her groede store Planter</l>
+<l>med selsomme, st&#x00E6;rke Skud,</l>
+<l>med taggede, skarpe Kanter</l>
+<l>og glindsende, dunkel Hud.</l>
+</lg>
+<lg>
+<l>Og Tr&#x00E6;er og gr&#x00F8;nne Buske</l>
+<l>de blussede underbart</l>
+<l>med Frugter og Blomsterduske</l>
+<l>af svulmende K&#x00E6;mpeart.</l>
+</lg>
+<lg>
+<l>I Ly af Jasminers H&#x00E6;kke</l>
+<l>den studsende Vandrer laae,</l>
+<l>og under ham var et D&#x00E6;kke,</l>
+<l>brodeert med Violer smaa.</l>
+</lg>
+<lg>
+<l>Her smuttede Nymphernes Klynge</l>
+<l>bag Blomsters og Rankers Flor &#x2013;</l>
+<l>da h&#x00F8;rte han Skoven synge,</l>
+<l>og fattede hvert et Ord.</l>
+</lg>
+<lg>
+<l>Det l&#x00F8;d ei som Suus af Vinden,</l>
+<l>det var ingen sagte Klang,</l>
+<l>det h&#x00F8;rtes med Stigen og Svinden,</l>
+<l>som m&#x00E6;gtige Strubers Sang.</l>
+</lg>
+<lg>
+<l>Velkommen i Skovens Haller</l>
+<l>du salige Menneskesj&#x00E6;l,</l>
+<l>h&#x00F8;r, V&#x00E6;xternes Stemme kalder;</l>
+<l>o, lyt til vort Kvad og dv&#x00E6;l!</l>
+</lg>
+<lg>
+<l>En nagende Smerte huser</l>
+<l>hvert spirende Planteliv,</l>
+<l>den r&#x00F8;bes, naar Egen suser,</l>
+<l>den hvisker fra hvert et Siv.</l>
+</lg>
+<lg>
+<l>En kv&#x00E6;lende Vellyst br&#x00E6;nder</l>
+<l>igjennem vor Livsens Saft,</l>
+<l>naar Solen sin Straale sender</l>
+<l>med manende, rastl&#x00F8;s Kraft.</l>
+</lg>
+<lg>
+<l>Den dybeste Jordens L&#x00E6;ngsel</l>
+<l>vil gjennem vor Aare gaae</l>
+<l>og spr&#x00E6;nge sit dunkle F&#x00E6;ngsel</l>
+<l>og svales af Himlens Blaa.</l>
+</lg>
+<lg>
+<l>Den gj&#x00E6;rer og syder og higer,</l>
+<l>og svulmer i Plantens Skj&#x00F8;d;</l>
+<l>i Blomsternes Kalke stiger</l>
+<l>den m&#x00E6;gtige L&#x00E6;ngselsgl&#x00F8;d.</l>
+</lg>
+<lg>
+<l>Men ak, naar den Solen m&#x00F8;der,</l>
+<l>da zittrer, da vaander den sig;</l>
+<l>vor Pragt, der blinker og gl&#x00F8;der,</l>
+<l>ligner et angstfuldt Skrig.</l>
+</lg>
+<lg>
+<l>O, kunde vor Higen spr&#x00E6;nge</l>
+<l>de v&#x00E6;ldige Straalers Aag,</l>
+<l>der vil vore Sukke tr&#x00E6;nge</l>
+<l>igjen under Jordens Laag!</l>
+</lg>
+<lg>
+<l>O, kunde vort &#x00D8;ie tindre,</l>
+<l>naar Stjernerne glide frem,</l>
+<l>o, kunde vi dog vort Indre</l>
+<l>aabne for alle dem.</l>
+</lg>
+<lg>
+<l>De hviske, naar Alt er stille,</l>
+<l>over den blomstrende Dal:</l>
+<l>&#x00AB;Din Sol er din L&#x00E6;ngsels Kilde,</l>
+<l>og Kilden til al din Kval.&#x00BB;</l>
+</lg>
+<lg>
+<l>Vor Taare svulmer og skj&#x00E6;lver,</l>
+<l>vi ane kun Stjernens Glands;</l>
+<l>men Natten sig dunkel hv&#x00E6;lver</l>
+<l>over vor lukkede Sands.</l>
+</lg>
+<lg>
+<l>I Dage, der glimte fjerne</l>
+<l>fra Oldtidens Straalebrud,</l>
+<l>fl&#x00F8;i fra en glandsfuld Stjerne</l>
+<l>til Skovenes Dyb en Gud.<note type="commentary">en Gud&#x005D; Pan var s&#x00F8;nn av Hermes.</note></l>
+</lg>
+<lg>
+<l>Ham f&#x00F8;dte en Skj&#x00F8;n Dryade,<note type="commentary">Dryade&#x005D; kvinnelig naturguddom, knyttet til tr&#x00E6;r.</note></l>
+<l>under en susende Gran,</l>
+<l>til Skovenes Lyst den glade,</l>
+<l>blussende Guddom <emph>Pan</emph>.<note type="commentary">Pan&#x005D; naturgud, som man fra f&#x00F8;rst av mente h&#x00F8;rte hjemme i Arkadia p&#x00E5; Pelopones. Han ble fremstilt med menneskekropp, og med ben, horn og &#x00F8;rer som en bukk. Han spilte fl&#x00F8;yte, panfl&#x00F8;yten syrinx.</note></l>
+</lg>
+<lg>
+<l>Hans Hjerte gjemte og n&#x00E6;red</l>
+<l>med h&#x00F8;iere, renere Gl&#x00F8;d,</l>
+<l>den m&#x00E6;gtige Trang, der gj&#x00E6;red</l>
+<l>i V&#x00E6;xternes lune Skj&#x00F8;d.</l>
+</lg>
+<lg>
+<l>Men dybt i hans Bryst tillige</l>
+<l>laae der et blidere Skj&#x00E6;r;</l>
+<l>det kom fra hans Faders Rige,</l>
+<l>den tindrende Stjerneh&#x00E6;r.</l>
+</lg>
+<lg>
+<l>Han kunde vor Vee forklare</l>
+<l>med kv&#x00E6;gende Fl&#x00F8;itespil,</l>
+<l>han l&#x00E6;rte vort L&#x00F8;v at svare</l>
+<l>med mildere Suus dertil.</l>
+</lg>
+<lg>
+<l>Naar Solen paa vore Kroner</l>
+<l>f&#x00E6;sted sit Flammeblik,</l>
+<l>da svaled hans blide Toner</l>
+<l>vor Ild, som en kj&#x00F8;lig Drik.</l>
+</lg>
+<lg>
+<l>De risled i Plantens Aarer</l>
+<l>saa mildt som en Vaarregns Bad;</l>
+<l>da v&#x00E6;ldede glade Taarer</l>
+<l>frem af dens Hjerteblad.</l>
+</lg>
+<lg>
+<l>Vi hvisked i Gudens &#x00D8;re</l>
+<l>om f&#x00E6;ngslede Gnomers<note type="commentary">Gnomer&#x005D; av gnom(e) (ordet dannet p&#x00E5; 1500-tallet), liten jord&#x00E5;nd.</note> Harm,</l>
+<l>om Haab og om Savn, der r&#x00F8;re</l>
+<l>sig l&#x00F8;nligt i Jordens Barm.</l>
+</lg>
+<lg>
+<l>Vi hvisked og kunde fort&#x00E6;lle</l>
+<l>om alle de Eventyr,</l>
+<l>der fylde hver Skovens Celle,</l>
+<l>naar Aftenens Straale flyer.</l>
+</lg>
+<lg>
+<l>Da vakte han Fl&#x00F8;itens Stemme</l>
+<l>saa tonerigt mangengang,</l>
+<l>at Malmet i Fjeldets Gjemme</l>
+<l>b&#x00E6;ved derved og klang.</l>
+</lg>
+<lg>
+<l>Og Menneskets Sl&#x00E6;gter lytted</l>
+<l>til Skovenes s&#x00E6;re R&#x00F8;st,</l>
+<l>og til deres Hjerte flytted</l>
+<l>en underlig, ukjendt Lyst.</l>
+</lg>
+<lg>
+<l>Med Fl&#x00F8;iter og Str&#x00E6;ngelege</l>
+<l>de droge til Skovens Hal,</l>
+<l>og sad under dunkle Ege,</l>
+<l>og pr&#x00F8;vede Tonens Fald.</l>
+</lg>
+<lg>
+<l>Da l&#x00E6;rte dem Pan at gribe</l>
+<l>i Str&#x00E6;ngen med friere Slag,</l>
+<l>at r&#x00F8;re den b&#x00E6;vende Pibe</l>
+<l>med fuldere Aandedrag.</l>
+</lg>
+<lg>
+<l>Om Spiren i Jordens Grube,</l>
+<l>ved Skabningens Moderbryst,</l>
+<l>han l&#x00E6;rte den tonende Strube</l>
+<l>at synge med klarere R&#x00F8;st.</l>
+</lg>
+<lg>
+<l>Og gjennem de klingende Tanker</l>
+<l>en duftende Aande gled,</l>
+<l>det var som om blomstrende Ranker</l>
+<l>var sp&#x00E6;ndte i Str&#x00E6;ngenes Sted.</l>
+</lg>
+<lg>
+<l>Og V&#x00E6;xternes B&#x00F8;n blev baaren</l>
+<l>mod Stjernerne reent og smukt,</l>
+<l>og Somren var sval som Vaaren</l>
+<l>af alle de Toners Flugt.</l>
+</lg>
+<lg>
+<l>Ak, nu er Skovene &#x00F8;de,</l>
+<l>Forsoningens Baand er brudt;</l>
+<l>ved Morgen- og Aftenr&#x00F8;de</l>
+<l>vort Suk er fortabt, forskudt.</l>
+</lg>
+<lg>
+<l>Vi saae dine Stjerneblikke,</l>
+<l>du salige Menneskesj&#x00E6;l;</l>
+<l>velkommen, forlad os ikke,</l>
+<l>o, lyt til vort Kvad og dv&#x00E6;l!</l>
+</lg>
+<lg>
+<l>Vi lod vore Sj&#x00E6;le stige</l>
+<l>af Stammernes tvingende Baand;</l>
+<l>i Skovens dandsende Pige</l>
+<l>saae du en Plantes Aand.</l>
+</lg>
+<lg>
+<l>Vi vied ved Kildens Vove</l>
+<l>din Pande med Krands og Bad,</l>
+<l>og derfor kan Urter og Skove</l>
+<l>bringe dig deres Kvad.</l>
+</lg>
+<lg>
+<l>Og tolke dig deres Smerte</l>
+<l>med b&#x00E6;vende, susende R&#x00F8;st,</l>
+<l>og fordre af Menneskets Hjerte</l>
+<l>vingede Svar og Tr&#x00F8;st. &#x2013;</l>
+</lg>
+<lg>
+<l>Saa nynnede Skoven og klaged,</l>
+<l>og hvilede taus paany &#x2013;</l>
+<l>det var et Minut &#x2013; da braged</l>
+<l>hvert Tr&#x00E6; med et r&#x00E6;dsomt Gny.</l>
+</lg>
+<lg>
+<l>Det klang gjennem alle Lunde</l>
+<l>fra Skovens inderste Skj&#x00F8;d,</l>
+<l>det raabte med tusind Munde:</l>
+<l>&#x00AB;<emph>Den straalende Pan er d&#x00F8;d.</emph>&#x00BB;<note type="commentary">Den straalende Pan er d&#x00F8;d&#x005D; etter en fortelling hos Plutarch. En egypter seilte med sitt mannskap forbi &#x00F8;ya Paxos, og h&#x00F8;rte en stemme som ropte: &#x00AB;N&#x00E5;r du kommer til Palodes, da meld at den store Pan er d&#x00F8;d.&#x00BB; Da budskapet ble overbrakt, h&#x00F8;rtes en klage som spredte seg overalt. Sagnet ble av dikterne oppfattet som et tegn p&#x00E5; omveltning og oppl&#x00F8;sning av hele naturen. Kirkefedrene tolket det som et varsel om at hedenskapet skulle falle og Kristus komme.</note></l>
+</lg>
+<lg>
+<l>Da vaktes den tr&#x00E6;tte Sover,</l>
+<l>men laae dog i Dr&#x00F8;mmen halv;</l>
+<l>et Klageskrig Egnen over</l>
+<l>endnu i hans &#x00D8;re skjalv.</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem">
+<head><ref type="contents" target="contents_5" xml:id="chapter_5">En Vaarnat (1844)</ref></head>
+<note type="commentary">Diktet ble trykket i samlingen <title>Nyere Digte</title> som utkom i november 1844 (med 1845 p&#x00E5; tittelbladet). Det er ingenting som tyder p&#x00E5; at JSW i <title>Nyere Digte</title> tok med noen av de diktene han forteller han hadde liggende da han utgav <title>Digte</title>, men ikke brukte der. Det er hoveddelen av sin produksjon fra &#x00E5;rene 1839-44 han har gitt plass i <title>Nyere Digte</title>. De dyptgripende opplevelsene ved Ida Kjerulfs sykdom og d&#x00F8;d har satt merke p&#x00E5; en stor del av samlingen. En rekke av diktene handler direkte om sorgen over den d&#x00F8;de, eller har den som et viktig moment: &#x00AB;En Vaarnat&#x00BB;, &#x00AB;Vaar-Stemning&#x00BB;, &#x00AB;Birken&#x00BB;, &#x00AB;Nattetanker&#x00BB;, &#x00AB;Sorg&#x00BB;, &#x00AB;Ved Kirkegaarden&#x00BB;, &#x00AB;At lide og at lindres&#x00BB;, og med et sagnmotiv &#x00AB;Det
+omvendte B&#x00E6;ger&#x00BB;</note>
+<note type="criticalApp">NBO har ms i to eksemplarer (Ms 8&#x00B0; 1559), det ene antakelig trykkms, med nummer 4) foran tittelen; det andre avskrift med latinske bokstaver, i str. 2 v. 3 <emph>kneisende</emph> for <emph>samlede</emph>.</note>
+<note type="commentary">Fyldig metrisk analyse Lie &#x00A7; 607. Diktet blir sammenlignet med Schillers &#x00AB;Die Erwartung&#x00BB;, og sett som eksempel p&#x00E5; virkningsfull bruk av rytmeskifte. I alle strofer er det ved vers 5 overgang fra trisyllabisk til disyllabisk taktform.</note>
+<lg>
+<l>Vaarnatten stille og sval</l>
+<l>favner den slumrende Dal.</l>
+<l>Elvene nynne de lange</l>
+<l>d&#x00E6;mpede, dyssende Sange.</l>
+<l>Alfer sukke</l>
+<l>for de smukke</l>
+<l>Lilier: &#x00AB;O, tager os tilfange!&#x00BB;</l>
+</lg>
+<lg>
+<l>Fjeldtoppens s&#x00F8;lvblege Skj&#x00E6;r</l>
+<l>viser at Maanen er n&#x00E6;r;</l>
+<l>over de samlede<note type="criticalApp">samlede&#x005D; <hi rend="italic">avskriften (NBO Ms 8&#x00B0; 1559) har</hi> kneisende</note> Graner</l>
+<l>Skyerne sv&#x00E6;ve som Svaner.</l>
+<l>Snart vil blide</l>
+<l>Straaler glide</l>
+<l>over al den Herlighed, du aner.</l>
+</lg>
+<lg>
+<l>Luk dog ei &#x00D8;iet inat,</l>
+<l>vaag med Erindringens Skat!</l>
+<l>Her, mens du sidder alene,</l>
+<l>aabner sig Mindernes Scene,</l>
+<l>her vil fromme</l>
+<l>Skygger<note type="commentary">fromme Skygger] de kj&#x00E6;re avd&#x00F8;de. Den erotiske billedbruken i diktet antyder at det f&#x00F8;rst og fremst er den d&#x00F8;de elskede kvinne det gjelder.</note> komme</l>
+<l>vinkende blandt maanelyse Grene.</l>
+</lg>
+<lg>
+<l>H&#x00F8;r hvor de hviske dig &#x00F8;mt</l>
+<l>Alt hvad din L&#x00E6;ngsel har dr&#x00F8;mt,</l>
+<l>see hvor de bringe tilbage</l>
+<l>Gjenskin af fagrere Dage!</l>
+<l>Lad det tindre;</l>
+<l>det vil lindre</l>
+<l>Smerten i dit Savn og i din Klage.</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem">
+<head><ref type="contents" target="contents_6" xml:id="chapter_6">Digtets Aand (1844)</ref></head>
+<note type="commentary">Diktet ble trykket i samlingen <title>Nyere Digte</title> som utkom i november 1844 (med 1845 p&#x00E5; tittelbladet). Diktet m&#x00E5; v&#x00E6;re blitt til kort f&#x00F8;r samlingen utkom. I brev til Hjalmar Kjerulf 24/10 1844 forteller Halfdan Kjerulf: &#x00AB;Med et deiligt Digt: &#x2039;Digtets Aand&#x203A;, slutter den
+f&#x00F8;rste Afdeling&#x00BB;. (Halfdan Kjerulf v. Wl. Moe I, s. 63.) Det er ingenting som tyder p&#x00E5; at JSW i <title>Nyere Digte</title> tok med noen av de diktene
+han forteller han hadde liggende da han utgav <title>Digte</title>, men ikke brukte der. Det er hoveddelen av sin produksjon fra &#x00E5;rene 1839-44 han har gitt plass i <title>Nyere Digte</title>. De dyptgripende opplevelsene ved Ida Kjerulfs sykdom og d&#x00F8;d har satt merke p&#x00E5; en stor del av samlingen, og i n&#x00E6;r forbindelse med dette spenningen og usikkerheten n&#x00E6;r det gjaldt stilling og levebr&#x00F8;d. En annen viktig impuls har v&#x00E6;rt den nyvakte nasjonale optimismen og den stigende interessen for nasjonalt sagnstoff.</note>
+<note type="commentary">Diktet er i nibelungenstrofer, Lie &#x00A7; 2344-2352, se ogs&#x00E5; &#x00A7; 8, som gj&#x00F8;r rede for den betoning som versem&#x00E5;let gj&#x00F8;r n&#x00F8;dvendig. Det skal v&#x00E6;re 3 hevninger i hvert vers, i 2. vers <emph>det rigeste Sprog</emph>. Etter sitt opphav i tysk heltediktning skulle dette variasjonsrike versem&#x00E5;let s&#x00E6;rlig egne seg for &#x00AB;sagndikt&#x00BB;. Hos JSW er det brukt i &#x00AB;Paa Skibsh&#x00F8;ien&#x00BB; og &#x00AB;Koll med Bilen&#x00BB;, men vanligere i andre slags dikt. F&#x00F8;rste gang i &#x00AB;Et Albums-Blad til H. C Andersen&#x00BB;, 1835, senere i &#x00AB;En skuffet Elsker&#x00BB;, &#x00AB;Nattetanker&#x00BB; og &#x00AB;I Dr&#x00F8;mme&#x00BB;. I &#x00AB;Digtets Aand&#x00BB; er nibelungenstrofen halvert og stilt opp i 4 korte vers. I de andre diktene varierer forholdet.</note>
+<note type="commentary">Et slags prosaisk forarbeid til diktet kan en finne i f&#x00F8;rste del av artikkelserien &#x00AB;Om norske Presse-Anliggender&#x00BB; fra 1838, jfr. A. H. Winsnes: Hegelianismen i Norge, Edda 1947. Om bakgrunnen for diktet Herman J&#x00E6;ger i &#x00AB;F. Chr. Sibbern og J. S. Welhaven&#x00BB;, <title>Til Gerhard Gran</title>, 1916. Diktet er det sentrale poetiske uttrykk for JSWs forst&#x00E5;else av diktningens m&#x00E5;l og mening.</note>
+<lg>
+<l>Hvad ei med Ord kan n&#x00E6;vnes</l>
+<l>i det rigeste Sprog,</l>
+<l>det Uudsigelige,</l>
+<l>skal Digtet r&#x00F8;be dog.</l>
+</lg>
+<lg>
+<l>Af Sprogets strenge Bygning,</l>
+<l>af Tankeformers Baand</l>
+<l>stiger en frigjort Tanke,</l>
+<l>og den er Digtets Aand.</l>
+</lg>
+<lg>
+<l>Den boede i Sj&#x00E6;len</l>
+<l>f&#x00F8;r Strophens Liv blev til,</l>
+<l>og Sprogets Malm er blevet</l>
+<l>flydende ved dens Ild.</l>
+</lg>
+<lg>
+<l>Den gjennemtr&#x00E6;nger Ordet</l>
+<l>lig Duft, der stiger op</l>
+<l>af Rosentr&#x00E6;ets Indre</l>
+<l>i den aabnede Knop.</l>
+</lg>
+<lg>
+<l>Og skj&#x00F8;nt den ei kan pr&#x00E6;ges</l>
+<l>i Digtets Tankerad,</l>
+<l>den er dog der tilstede</l>
+<l>som Duft i Rosenblad.</l>
+</lg>
+<lg>
+<l>Glem da den gamle Klage,</l>
+<l>at ingen Kunst formaaer</l>
+<l>at male Tankefunken,</l>
+<l>hvoraf et Digt fremstaaer.</l>
+</lg>
+<lg>
+<l>Thi hvis den kunde bindes</l>
+<l>og sl&#x00F8;res af paa Prent,</l>
+<l>da var i denne Skranke</l>
+<l>dens Liv og Virken endt.</l>
+</lg>
+<lg>
+<l>Den vil med Aandens Frihed</l>
+<l>sv&#x00E6;ve paa Ordets Klang;</l>
+<l>den har i Digtets Rhythmer</l>
+<l>en stakket Gjennemgang,</l>
+</lg>
+<lg>
+<l>En Gjennemgang til Livet</l>
+<l>i L&#x00E6;serens Bryst;</l>
+<l>der vil den vaagne atter</l>
+<l>i Sorrig eller Lyst,</l>
+</lg>
+<lg>
+<l>Og n&#x00E6;res og bev&#x00E6;ges</l>
+<l>og blive lig den Ild,</l>
+<l>der laae i Digtersj&#x00E6;len,</l>
+<l>f&#x00F8;r Strophens Liv blev til.</l>
+</lg>
+<lg>
+<l>Kun da bevarer Digtet</l>
+<l>sin rette Tryllemagt,</l>
+<l>det Uudsigelige</l>
+<l>er da i Ordet lagt.</l>
+</lg>
+<lg>
+<l>Betragt den stille Lykke,</l>
+<l>der gj&#x00F8;r en Digter varm,</l>
+<l>mens Aanden i hans Sange</l>
+<l>sv&#x00E6;ver fra Barm til Barm.</l>
+</lg>
+<lg>
+<l>Lad kun hans Rygte h&#x00E6;ves</l>
+<l>mod Sky af D&#x00F8;gnets Vind,</l>
+<l>det er dog ei den sande</l>
+<l>Kv&#x00E6;gelse for hans Sind.</l>
+</lg>
+<lg>
+<l>Men naar hans Tankebilled,</l>
+<l>med eller uden Ry,</l>
+<l>finder et lutret Indre,</l>
+<l>og f&#x00F8;des der paany &#x2013;</l>
+</lg>
+<lg>
+<l>O, bring ham da et Budskab</l>
+<l>om dette Aandens Bliv;</l>
+<l>thi dermed er der lovet</l>
+<l>hans Verk et evigt Liv.</l>
+</lg>
+</div>
+<div type="chapter" subtype="poem">
+<head><ref type="contents" target="contents_7" xml:id="chapter_7">Den Salige (1847)</ref></head>
+<note type="commentary">Diktet ble trykket i samlingen <emph>Halvhundrede Digte</emph> som utkom i desember 1847 (med 1848 p&#x00E5; tittelbladet).</note>
+<note type="commentary">Diktet har sammenheng med minnet om JSWs forlovede Ida Kjerulf, som d&#x00F8;de i 1840.</note>
+<note type="commentary">Karakteristikk av strofeformen Lie &#x00A7; 2142: &#x00AB;Den forklarede, sjelfullt gjennomreflekterte taps- og smertef&#x00F8;lelse dette diktet gir et s&#x00E5; full-l&#x00F8;dig uttrykk for, har gjort denne strofeformen til en av de mest tradisjonsrike elegiske strofer i v&#x00E5;r diktning.&#x00BB; Brukt av JSW i &#x00AB;Paa Ballet&#x00BB; og &#x00AB;I Sorgen over Prinds Gustav&#x00BB;.</note>
+<lg>
+<l>O, v&#x00E6;r hilset atter og velsignet</l>
+<l>blide Aand, fra Salighedens Hjem!</l>
+<l>Ingen Gl&#x00E6;de paa min Vei har lignet</l>
+<l>den, du kaldte af min Vaardr&#x00F8;m frem;</l>
+<l>ingen Kval kan falde paa mit Hjerte</l>
+<l>tungt som den, du klaged i min Favn.</l>
+<l>O, du Salige, i Fryd og Smerte</l>
+<l>har min Sjel en Gjenlyd af dit Navn.</l>
+</lg>
+<lg>
+<l>Alt er f&#x00F8;lt, fuldkommet og erindret,</l>
+<l>Alt fornyes evig i mit Sind;</l>
+<l>mildt og &#x00F8;mt har Sorgen, der er lindret,</l>
+<l>spredet Mindets Fred om mine Trin.</l>
+<l>Sorgen vaaged hvor din Aske<note type="commentary">Aske&#x005D; jordiske levninger.</note> blunder,</l>
+<l>og den vandred gjennem &#x00D8;rkner hen,</l>
+<l>og tilsidst, ved Kjerlighedens Under,</l>
+<l>fik jeg dig du Salige igjen.</l>
+</lg>
+<lg>
+<l>Og da kom du fra de stille Lande,</l>
+<l>og den lange S&#x00F8;rgenat blev klar,</l>
+<l>klar ved Skinnet om din rene Pande</l>
+<l>og ved Straalen, som dit &#x00D8;ie har;</l>
+<l>og paany din Salighed er over</l>
+<l>mine Dr&#x00F8;mme som et Lysets Bad,</l>
+<l>og jeg h&#x00F8;rer atter hvad du lover,</l>
+<l>at vi aldrig mer skal skilles ad.</l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

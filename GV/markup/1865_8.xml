@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Offentlig Indbydelse til Vennemødet</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-26"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="008"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1865">1865</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1865_8_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main"></titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<docImprint>
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<p><hi rend="initial">S</hi>iden det, kirkelige Vennemøde i September 1864 har det været tunge Tider for Danmark, og det seer endnu saa mørkt og uroligt ud, at det kan synes voveligt at tænke paa et nyt Møde af den Art. Det er dog vist. at det i mørke Dage gjør Venner godt at mødes og tales ved, og vi har da tænkt, at der vel kunde findes en Deel, som kunde have Lyst og Trang til en Sammenkomst. Vi foreslaa derfor Dem og Deres kirkelige Venner blandt Mænd og Kvinder at mødes her Onsdagen den 6te September; der bliver da Gudstjeneste i Vartov Kirke Kl. 10, og der vil den Dag og de to følgende Dage blive sørget for Lejlighed til Møder og Forhandlinger.</p>
+<p><hi rend="italic"><hi rend="spaced">Kjøbenhavn</hi>, 14de August 1865.</hi></p>
+<p>N. F. S. Grundtvig. C. Hostrup. P. A. Fenger.</p>
+<p>N. F. Larsen. Peter Mouritsen. Kristian Køster.</p>
+<p>J. Westberg.</p>
+<p>Pastor <hi rend="spaced">Køster</hi> (Løngangstræde 37) modtager Anmeldelse om Deeltagere i Mødet, helst inden lste September.</p>
+</div>
+</body>
+</text>
+</TEI>

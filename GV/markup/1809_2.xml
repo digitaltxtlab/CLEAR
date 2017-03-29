@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Anmeldelse</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2009-10-21"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="002"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1809">1809</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1809_2_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Anmeldelse</titlePart>
+</docTitle>
+<byline></byline>
+							<epigraph>
+				</epigraph>
+							<docEdition></docEdition>
+							<docImprint>
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<pb facs="1809_2_page0001.png"/>
+<fw type="pageNum"></fw>
+<p><hi rend="initial">Sidst </hi>i forrige Aar lod jeg prente en <hi rend="spaced">Indbydelse til gamle Nordens Venner</hi>. jeg har deri, efter nogle Vink om Forholdet mellem vor Tid og de <hi rend="spaced">svundne </hi>Aldre, forkyndt min Beslutning, at fremstille, snart i Sagastil og snart i dramatisk Form, de betydningsfuldeste Optrin af <hi rend="spaced">Nordens Helteliv</hi>, som fødtes med <hi rend="spaced">Asamanden Odin</hi>, stred med Døden og betvunges af den i <hi rend="spaced">Jomsborg</hi>.</p>
+<p>Herpaa indbyder jeg Dem til at subskribere, som tro, at det gamle Nord har Noget, som er værdt at se, og at dette Noget ei vil dølge sig for mit Øie.</p>
+<p>Indbydelsen, som giver nærmere Oplysning, ligger til Gennemsyn hos Hofboghandler Schubothe paa Børsen No. 5, hvor der ogsaa kan subskri-</p>
+<p>beres.</p>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

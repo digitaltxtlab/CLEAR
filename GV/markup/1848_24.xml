@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Paa Rigsdagsfesten</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-16"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="024"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1848">1848</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1848_24_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Paa<lb/>Rigsdagsfesten</titlePart>
+	<titlePart type="sub">den 22. October 1848.</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace>Kjøbenhavn.</pubPlace>Trykt hos J. D. Qvist, Bog- og Nodetrykker,<lb/>Badstuestræde Nr. 124.<lb/>
+<fw type="graphic"/>
+<docDate>1848</docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>  
+<pb facs="1848_24_page0002.png"/>
+<fw type="pageNum"></fw>
+<head>Mel. Sin Vogn giør Han af Skyer blaa.</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="bold"><hi rend="initial">A</hi>lfader</hi>! Du, Hvis Navn i Nord</l>
+<l>Kan aldrig gaae af Minde!</l>
+<l>Som Skibet med Din Søn ombord,</l>
+<l>En Bold fur Hvirvelvinde,</l>
+<l>Omtumlet under Bølgebrag,</l>
+<l>Og ligt et synkefærdigt Vrag,</l>
+<l>Er gamle <hi rend="bold">Danmarks</hi> Rige!</l>
+</lg>
+<lg>
+<l>Vel Styrmænd Nok der er ombord,</l>
+<l>Og frelse nok de ville,</l>
+<l>Men Skibet lystrer ei sit Roer,</l>
+<l>Forstanden staaer nu stille,</l>
+<l>De, som har pløiet Bølgen blaa,</l>
+<l>De blege raabe: vi forgaae,</l>
+<l>Skeer ei der Underværker!</l>
+</lg>
+<lg>
+<l>O Gud! Du er endnu saa stor,</l>
+<l>Saa stærk just i de Svage,</l>
+<l>Som da Du fried ind Dit Ord</l>
+<l>Med Daad i gamle Dage,</l>
+<l>Som da Din Søn til Hav og Vær</l>
+<l>Udraabde med Din Rost: tie kvær:</l>
+<l>Saa Vind og Vove daaned!</l>
+</lg> 
+<pb facs="1848_24_page0003.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Og Danmark under trange Kaar,</l>
+<l>Imellem Fiender stærke,</l>
+<l>Sig trøsted i sexhundred Aar</l>
+<l>Ved Christi <hi rend="bold">Korses</hi> Mærke,</l>
+<l>Og fulgde svagt, men ærlig dog,</l>
+<l>Hans Kiølvand under <hi rend="bold">Dannebrog</hi>,</l>
+<l>Gik end det stridt mod Strømmen.</l>
+</lg>
+<lg>
+<l>O, væk da op hos os ombord</l>
+<l>Den Kæmpeaand, som sover!</l>
+<l>Giv ham at tale Kraftens Ord,</l>
+<l>Som kuer Vind og Vover!</l>
+<l>Ja, frels os Du, som ene kan,</l>
+<l>Saa lydt fra Danskens Fædreland</l>
+<l>Maa tone Takkesange!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<head>Samme Melodi.</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">P</hi>aa Stævne samles <hi rend="bold">Kigsdagsmænd</hi></l>
+<l>Fra alle <hi rend="bold">Danmarks</hi> Egne.</l>
+<l>Kong <hi rend="bold">Fredrik</hi>, Fædrelandets Ven,</l>
+<l>Paa <hi rend="bold">Folkeaandens</hi> Vegne</l>
+<l>Dem varsled ind i Farens Stund,</l>
+<l>At staae ham bi med Haand og Mund,</l>
+<l>Med Raad til Rigets Bedste!</l>
+</lg>
+<lg>
+<l>En farlig Sag, en farlig Tid</l>
+<l>For Throne og for Hytte,</l>
+<l>Og lidt forstaaer kun Mandevid,</l>
+<l>Og blind er Egennytte,</l>
+</lg> 
+<pb facs="1848_24_page0004.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Og Kiærlighed er hardtad kold,</l>
+<l>Og Dod er altid Syndens Sold</l>
+<l>Hos <hi rend="bold">Adams</hi> Kiøn herneden!</l>
+</lg>
+<lg>
+<l>Men Du, vor Gud! er eiegod,</l>
+<l>Og viis er Du alene,</l>
+<l>Raad Du paa Rigets Vaande Bod</l>
+<l>Endnu i Dage sene!</l>
+<l>Giv af Din gamle Miskundhed</l>
+<l>Paany os Danske <hi rend="bold">Liv</hi> og <hi rend="bold">Fred</hi>,</l>
+<l>Og <hi rend="bold">Lys</hi> paa <hi rend="bold">Livets</hi> Veie!</l>
+</lg>
+<lg>
+<l>Velsign vor <hi rend="bold">Konge</hi> og Hans <hi rend="bold">Naad</hi>!</l>
+<l>Anfør Du Selv hans Hære!</l>
+<l>Lad øves Dyd og Heltedaad</l>
+<l>Mangfoldig til Din Ære!</l>
+<l>Lad <hi rend="bold">Danmark</hi>, lukt med Bølgen blaa,</l>
+<l>Saalænge <hi rend="bold">Danske</hi> Hjerter slaae,</l>
+<l>Din Godheds Priis forkynde!</l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

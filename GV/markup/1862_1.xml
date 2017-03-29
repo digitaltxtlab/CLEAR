@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Kirkelig Samler.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-21"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="001"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1862">1862</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1862_1_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Kirkelig Samler.</titlePart>
+				<fw type="graphic"/>
+	<titlePart type="sub">Tidsskrift<lb/>til christelig Oplysning,<lb/>Samlet og udgivet</titlePart>
+</docTitle>
+<byline>af<lb/>
+	<docAuthor>Chr. M. Kragballe,<lb/>theol Cand.</docAuthor>
+				</byline>
+				<fw type="graphic"/>
+				<epigraph>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition>8de Bind.</docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace>Kiøbenhavn.</pubPlace>.<lb/>C. G. Iversens Forlagshandel.<lb/>Thieles Bogtrykkeri
+<fw type="graphic"/>
+<docDate>1862</docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<pb facs="1862_1_page0002.png"/>
+<fw type="pageNum"></fw>
+<head>Kirke-Sange.</head>
+<fw type="graphic"/>
+<head>Daabs-Pagten.</head>
+<lg>
+<l><hi rend="initial">G</hi>uds Riges Dør sig aabne skal For hver en Barnesjæl, som banker,</l>
+<l>Men dog Vorherre med sit Kald</l>
+<l>Har himmeldybe Alvors-Tanker,</l>
+<l>Han spørger brat med hellig Hu,</l>
+<l><hi rend="spaced">Forsager</hi> og undsiger du</l>
+<l>Min Avindsmand, som, fræk og kaad,</l>
+<l>Dig friste vil med Raad og Daad?</l>
+</lg>
+<lg>
+<l>Dernæst han spørger: <hi rend="spaced">troer</hi> du,</l>
+<l>I Navnet mit det velbekiendte,</l>
+<l>Mit <hi rend="spaced">Jesus-Navn</hi>, med ærlig Hu</l>
+<l>Paa <hi rend="spaced">Faderen</hi>, som mig udsendte,</l>
+<l>Paa Verdens Skaber, Enegud,</l>
+<l>Fra Hvem min Sandheds-Aand gaaer ud,</l>
+<l>Og kalder Alle til min Daab</l>
+<l>Med Naadens Trøst og Livets Haab?</l>
+</lg>
+<lg>
+<l>Naar uden Skrømt du svarer Ja,</l>
+<l>Du er af Sandhed, du til Livet,</l>
+<l>Til evigt Liv gienfødes da,</l>
+<l>Som det i Jesu Navn er givet,</l>
+<l>Af Vand og Aand i Jesu Daab,</l>
+<l>Med Herlighedens visse Haab;</l>
+</lg> 
+<pb facs="1862_1_page0003.png"/>
+<fw type="pageNum">2</fw>
+<lg>
+<l>Saa frit som Guds eenbaarne Son</l>
+<l>Du bede kan Vorherres Bøn!</l>
+</lg>
+<lg>
+<l>Og bliver Barnligheden stor.</l>
+<l>Med Aand og Viisdom af Guds Naade,</l>
+<l>Da stædes du til Herrens Bord,</l>
+<l>Hvor selv sig løser Livets Gaade;</l>
+<l>Thi evigt Liv med Christi Sind</l>
+<l>Du æder og du drikker ind</l>
+<l>Med Guddoms-Ordet: tager frit</l>
+<l>Alt hvad jeg har i Legem mit!</l>
+</lg>
+<lg>
+<l>Men svares Ja der kun paa Skrømt</l>
+<l>Ved Herrens Daab, som en Forræder</l>
+<l>Sig Hykleren da selv har dømt,</l>
+<l>Sin Dom ved Herrens Bord han æder,</l>
+<l>Som <hi rend="spaced">Judas</hi> fiin og falsk i Tind</l>
+<l>Grund-Løgneren han lukker ind,</l>
+<l><hi rend="spaced">Iskariot</hi> han følger med Fra Herrens Aasyn til sit Sted!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<head>Troes-Bekjendelsen.</head>
+<lg>
+<l>Vi troer paa den sande Gud,</l>
+<l>Vorherres <hi rend="spaced">Jesu Christi</hi> Fader,</l>
+<l>Fra Hvem Livs-Aande al gaaer ud,</l>
+<l>Og som Misundelsen kun Hader,</l>
+<l>Han skabbe Alting med sit Ord,</l>
+<l>Paa Ham alt Stort og Smaat berver!</l>
+</lg>
+<lg>
+<l>Vi troer paa <hi rend="spaced">Jesus</hi>, Gud og Mand,</l>
+<l>Som avlet af Gud-Faders Aande,</l>
+<l>Født af <hi rend="spaced">Maria</hi>, Mø forsand,</l>
+<l>Til Bod for al vor Nød og Vaande;</l>
+</lg> 
+<pb facs="1862_1_page0004.png"/>
+<fw type="pageNum">3</fw>
+<lg>
+<l>Da med Guds Aande Ord blev Kied,</l>
+<l>Guds Sandhed klædt i Naadens Lodd!</l>
+</lg>
+<lg>
+<l>Han sagde til Gud-Fader frit,</l>
+<l>Han siger det med barnlig Unde:</l>
+<l>Alt Dit er mit. som mit er Dit,</l>
+<l>Saa alt jeg kan, kun ikke synde!</l>
+<l>Han holdt sin Guddom ei for Rov,</l>
+<l>Men skiænked os den, Gud skee Lov!</l>
+</lg>
+<lg>
+<l>Dertil han, salvet i Guds Favn,</l>
+<l>Var som Messias, <hi rend="spaced">Christus</hi>, blevet,</l>
+<l>Og Jesus er hans <hi rend="spaced">Frelser-Navn</hi>,</l>
+<l>I Livets Bog for os indskrevet,</l>
+<l>Han bar vor Skyld, vor Sorg og Nød,</l>
+<l>Han leed for os den bittre Død!</l>
+</lg>
+<lg>
+<l>For os han døde og opstod</l>
+<l>Fra Helhjem med Guds Førstegrøde,</l>
+<l>Ham lægges Alting under Fod</l>
+<l>I Naade-Solens Aftenrode,</l>
+<l>Og som sin egen vores Sag</l>
+<l>Han klare vil paa Dommedag!</l>
+</lg>
+<lg>
+<l>Vi troer, Guds Aand er i Guds Ord,</l>
+<l>Guds Mund med os i Menigheden,</l>
+<l>Til Helgen-Fællesskab paa Jord,</l>
+<l>Om Frelseren og om Gudsfreden,</l>
+<l>Og ved et underfuldt Guds "Gliv!"</l>
+<l>Opstandelse til evigt Liv!</l>
+</lg> 
+<pb facs="1862_1_page0005.png"/>
+<fw type="pageNum">4</fw>
+<lg>
+<l>Det er vor klippefaste Tro:</l>
+<l>Med evigt Liv og salig Glæde</l>
+<l>Vi i Gud-Faders Huus skal boe,</l>
+<l>Naar længer ei er Ny og Næde,</l>
+<l>Da Kreds vi slaaer, som Soel ved Soel,</l>
+<l>Om Kiærlighedens Kongestol!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<head><hi rend="bold">Kirken som Herrens Huus</hi>.</head>
+<lg>
+<l>Tamme Herre, Tro og Daab,</l>
+<l>Samme Gud, vor Fader.</l>
+<l>Samme Aand og samme Haab,</l>
+<l>Som os ei forlader.</l>
+<l>Det tilsammen, og kun det</l>
+<l>Christelig os gier til Eet:</l>
+<l>Konge-Folket af Guds Naade!</l>
+</lg>
+<lg>
+<l>Derfor fra <hi rend="spaced">Jerusalem</hi></l>
+<l>Rundt til Jordens Ender,</l>
+<l>Legemet i hver en Lem</l>
+<l>Samme Tro bekiender,</l>
+<l>Menigheden med hver Mund</l>
+<l>Svarer Ja af Hjertensgrund</l>
+<l>Til hvad Herren spørger efter!</l>
+</lg>
+<lg>
+<l>See det fleer ved <hi rend="spaced">Daabens Pagt</hi>,</l>
+<l>Eens for alle Døbte!</l>
+<l>Livets Ord i Mund os lagt,</l>
+<l>Det er intet Lofte,</l>
+<l>Er med Gud Aftale rem,</l>
+<l>Christi Kirkes Hjørnesteen,</l>
+<l>Klippefast med Kildespringet!</l>
+</lg> 
+<pb facs="1862_1_page0006.png"/>
+<fw type="pageNum">5</fw>
+<lg>
+<l>Gud skee Lov for Herrens Hegn</l>
+<l>Om vort Himmerige,</l>
+<l>For de klare Kiendetegn</l>
+<l>Paa vor Himmelstige,</l>
+<l>For det Huus paa Klippegrund,</l>
+<l>Tom Gud-Sen med egen Mund</l>
+<l>Bygger op for Evigheden!</l>
+</lg>
+<lg>
+<l>Hvirvelvinden rased vild,</l>
+<l>Storhavs Belger bruste,</l>
+<l>Mørkets Bjerge spruded Ild,</l>
+<l>Jordskælv Stæder knuste,</l>
+<l>Tordnen rulled, Lyn i Lyn,</l>
+<l>Dog Guds Huus staaer godt for Syn,</l>
+<l>Lovsangs-Rest er i dets Stene!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<head><hi rend="bold">Forsagelsen</hi>.</head>
+<lg>
+<l>Tjene kan Ingen Herrer to,</l>
+<l><hi rend="spaced">Judas</hi> med <hi rend="spaced">Jesus</hi> forlige,</l>
+<l>Feige kan Ingen Sandhed tro</l>
+<l>uden fra Løgnen at vige,</l>
+<l>Derfor vor Frelser selv har sagt,</l>
+<l>At vil med ham vi gaae i Pagt,</l>
+<l>Nidingen maae vi undsige!</l>
+</lg>
+<lg>
+<l>Nidingen er den fule Aand,</l>
+<l>Som af sit eget kun taler,</l>
+<l>Naar han i Avinds Helvedbaand,</l>
+<l>Lyver, bedrager og praler,</l>
+<l>Hvile i Sandhed fandt han ei,</l>
+<l>Udenom Sandhed vild hans Vei</l>
+<l>Gaaer til det yderste Merle!</l>
+</lg> 
+<pb facs="1862_1_page0007.png"/>
+<fw type="pageNum">6</fw>
+<lg>
+<l>Menneske-Mord med Vold og List</l>
+<l>Gift-Blanding konstig i Morke,</l>
+<l>Det er hans Gierning først og sidst,</l>
+<l>Værk af hans Vid og hans Storke,</l>
+<l>Døden, han veed. er Syndens Sold,</l>
+<l>Derfor til Synd saa mangefold</l>
+<l>Frister han Menneske-Barnet!</l>
+</lg>
+<lg>
+<l>Ingen Forgift som <hi rend="spaced">Tvivl</hi> er fiin,</l>
+<l>Tvivlen om Guddoms-Ordet.</l>
+<l>Menneskebarn! det Moder din</l>
+<l>Lærde først ester Mordet,</l>
+<l>Mod-Giften har kun den, som troer</l>
+<l>Fast paa det lille Guddoms-Ord:</l>
+<l>Svøbelse-Barnet i Krybben.</l>
+</lg>
+<lg>
+<l>Vend da med Tro til <hi rend="spaced">Tvivlen</hi> Rygg!</l>
+<l>Bad dig i Jordans Kilde!</l>
+<l>Hvil paa dens Bredd kun barnetryg!</l>
+<l>Leg med dens Bobler milde!</l>
+<l>Tro paa den Mund, som lyver ei,</l>
+<l>Skuffer Ingen med Ja og Nei!</l>
+<l>Tro paa Guds Ja og Guds Amen!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<head><hi rend="bold">Troen og Daaben.</hi></head>
+<lg>
+<l>I Daaben lukkes op den Dor,</l>
+<l>Som laaset var saa længe,</l>
+<l>Til Paradis, og Ingen for Sig kunde der indtrænge;</l>
+<l>Men <hi rend="spaced">Troen</hi>, det er ganske vist,</l>
+<l>Den komme først den komme sidst,</l>
+<l>Kun den har Gavn af <hi rend="spaced">Daaben</hi>!</l>
+</lg> 
+<pb facs="1862_1_page0008.png"/>
+<fw type="pageNum">7</fw>
+<lg>
+<l>Lad derfor ei vor <hi rend="spaced">Barne-Daab</hi></l>
+<l>Dig friste eller stode!</l>
+<l>De Smaa vi døbe i det Haab,</l>
+<l>Guds-Ordet Tro skal mede;</l>
+<l>Hvis ikke, da er Daaben spildt,</l>
+<l>Men modes Tro, da siger mildt</l>
+<l>Vorherre: din er Daaben:</l>
+</lg>
+<lg>
+<l>Enhver, som bliver døbt og troer,</l>
+<l>Indgaaer i Himmerige,</l>
+<l>Skiondt Barnet Ja til Troens Ord</l>
+<l>Ei kan ved Fonten sige;</l>
+<l>Men det er langt fra Sandheds Ord,</l>
+<l>At hver, som døbes, ogsaa troer,</l>
+<l>Det er kun Løgn og Skvalder!</l>
+</lg>
+<lg>
+<l>Vor Tro er Hjertets <hi rend="spaced">Sikkerhed</hi></l>
+<l>Paa Herren og hans Tale,</l>
+<l>Den falder ei fra Skyen ned</l>
+<l>I Bjerge eller Dale,</l>
+<l>Den avles kun med Troens Ord</l>
+<l>Af Hjerte godt i Syd og Nord,</l>
+<l>Som har for <hi rend="spaced">Sandhed</hi> Øre!</l>
+</lg>
+<lg>
+<l>Saa springer Salighedens Haab,</l>
+<l>Fribaarent og lysøiet,</l>
+<l>ud af Vorherres Tro og Daab,</l>
+<l>Som han har sammenføiet,</l>
+<l>Af Vand og Aand er Naadens Vad,</l>
+<l>Vil Mennesker dem skille ad,</l>
+<l>De skille sig ved <hi rend="spaced">Livet</hi>!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div> 
+<pb facs="1862_1_page0009.png"/>
+<fw type="pageNum">000</fw>
+<head><hi rend="bold">Fadervor</hi>.</head>
+<lg>
+<l><hi rend="spaced">Fadervor</hi> er Herrens Ben,</l>
+<l>Givet til vor Moder,</l>
+<l>Kiærlig stilet af Gud-Søn,</l>
+<l>Som vor ældste Broder,</l>
+<l>Saa med Sønnen bedes kun</l>
+<l>Fadervor af Hjertensgrund,</l>
+<l>Med hans Aand tillige!</l>
+</lg>
+<lg>
+<l>Paa vor Hugge, ved vor Daab,</l>
+<l>Det er Faddergaven,</l>
+<l>Deri Herlighedens Haab</l>
+<l>Hæver sig af Graven;</l>
+<l><hi rend="spaced">Bedes</hi> kan ei Fadervor</l>
+<l>Uden ægte Børnekaar,</l>
+<l>Arveret til Riget!</l>
+</lg>
+<lg>
+<l><hi rend="spaced">Læses</hi> kan hvad skrevet staaer,</l>
+<l>Staves alle Bønner.</l>
+<l><hi rend="spaced">Bede</hi> kan dog <hi rend="spaced">Fadervor</hi></l>
+<l>Døttre kun og Sønner,</l>
+<l>Staaende paa Barnefod</l>
+<l>Med Gud-Fader eiegod,</l>
+<l>Bede saa det baader!</l>
+</lg>
+<lg>
+<l>Aandeligt i allen Stund,</l>
+<l>Herrens Abba-Fader!</l>
+<l>I vort Hjerte og vor Mund</l>
+<l>Aanden efterlader,</l>
+<l>Saa Guds Aand sig selv i Pant</l>
+<l>Sætter paa, det Ord er fandt,</l>
+<l>Vi er ægtefødte!</l>
+</lg> 
+<pb facs="1862_1_page0010.png"/>
+<fw type="pageNum">9</fw>
+<lg>
+<l>At med himmelsk Barnehaab,</l>
+<l>Arveret tillige,</l>
+<l>Vi gienfødes i vor Daab,</l>
+<l>Fødes til Guds Rige,</l>
+<l>Det beviser Fadervor,</l>
+<l>Som os skiænker Børnekaar</l>
+<l>Med Guds Førstefødte!</l>
+</lg>
+<fw type="graphic"/>
+</div>
+<div>
+<head><hi rend="bold">Velsignelsen</hi>.</head>
+<lg>
+<l>Velsignelse, al Jordens Tarv,</l>
+<l>Velsignelsen er vores Arv,</l>
+<l>Velsignelsen af Himlens Gud</l>
+<l>Er Vinen i Hans Giæstebud!</l>
+</lg>
+<lg>
+<l>Velsignelsen af Gud tilsagt</l>
+<l>Var Perlen i den gamle Pagt,</l>
+<l>Men kun med "<hi rend="spaced">Sæden</hi>" som Guds Ord</l>
+<l>Velsignelsen fik Hjem paa Jord.</l>
+</lg>
+<lg>
+<l>Velsignelsen som Dugg og Regn</l>
+<l>Nu falder i hver Himmelegn,</l>
+<l>Guds Menighed tilbudt, tillagt</l>
+<l>Ved Pagten ny, ved <hi rend="spaced">Daabens Pagt</hi>!</l>
+</lg>
+<lg>
+<l>Velsignelsen i Herrens Stad</l>
+<l>Giør <hi rend="spaced">Daaben</hi> til et himmelsk Vad,</l>
+<l>Giør <hi rend="spaced">Nadveren</hi> som Herrens Bord</l>
+<l>Til Hjertets Himmerig paa Jord!</l>
+</lg>
+<lg>
+<l>Velsignelsen er, Ledd for Ledd,</l>
+<l>Med os Guds Naade og Guds Fred,</l>
+</lg> 
+<pb facs="1862_1_page0011.png"/>
+<fw type="pageNum">10</fw>
+<lg>
+<l>Med os den Aand, med os det Kiød,</l>
+<l>Som er Guds Vin og Livets Vrod!</l>
+</lg>
+<lg>
+<l>Velsignelsen, for evig lyst,</l>
+<l>Ei af Forbandelser forkyst;</l>
+<l>Den dryppe, regne, strømme ned</l>
+<l>I Jesu Christi Menighed!</l>
+</lg>
+<lg>
+<l>Og for Velsignelsen stig op,</l>
+<l>Som Bjerg med stjernekrandset Top,</l>
+<l>Taksigelsens Halleluja!</l>
+<l>I Jesu Navn Halleluja!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

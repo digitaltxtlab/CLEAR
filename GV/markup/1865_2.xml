@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Til Ansgars Minde.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-26"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="002"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1865">1865</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1865_2_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Til Ansgars Minde.</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace></pubPlace><lb/>
+<fw type="graphic"/>
+<docDate>3die Februar 1865.</docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<pb facs="1865_2_page0002.png"/>
+<fw type="pageNum"></fw>
+<head>Mel. Blomstre som en Rosengaard.</head>
+<lg>
+<l><hi rend="initial">H</hi>an var ingen mægtig Aand,</l>
+<l><hi rend="spaced">Mark-Evangelisten</hi>,</l>
+<l>Dog et Redstab i Guds Haand,</l>
+<l>Ret en Hjerte Christen,</l>
+<l>Sund i Trom, mild og om,</l>
+<l>I sin Daad og i sin Drom</l>
+<l>Barnlig, gudhengiven!</l>
+</lg>
+<lg>
+<l>Kirke lav han grunded her,</l>
+<l>Tusind Aar tilbage,</l>
+<l>Ei med Bram og Herrefærd,</l>
+<l>Men med Suk og Klage,</l>
+<l>For det var saa grumme smaat</l>
+<l>Her med Ondt saavelsom Godt,</l>
+<l>Uden <hi rend="spaced">Martyr-Kroner</hi>!</l>
+</lg> 
+<pb facs="1865_2_page0003.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Snart i fyrretive Aar</l>
+<l>Han til Kronen beilet),</l>
+<l>Og sov hen med bange Kaar,</l>
+<l>Som den var forfeilet,</l>
+<l>Savned dog ei Himlens Trøst,</l>
+<l>Stoled paa en Glædes-Host</l>
+<l>Efter Taare-Sæden!</l>
+</lg>
+<lg>
+<l>Tusindaaret nys udrandt,</l>
+<l>Sæden ei uddøde,</l>
+<l><hi rend="spaced">Marken</hi> dog endnu ei vandt</l>
+<l>Roes og Ry for Grode:</l>
+<l>Alt gik seent og alt var smaat,</l>
+<l>Lidt af Ondt og Lidt af Godt,</l>
+<l>Ingen <hi rend="spaced">Martyr-Kroner</hi>!</l>
+</lg>
+<lg>
+<l>Kraft dog har paa Troens Grund</l>
+<l><hi rend="spaced">Vadet og Guds Bordet</hi>,</l>
+<l>I vort Hjerte og vor Mund</l>
+<l>Lifligt er Guds-Ordet,</l>
+<l>Ved dm gode Hyrdes Rost</l>
+<l>Hjorden føler Aandens Trost,</l>
+<l>Følger ham alene!</l>
+</lg> 
+<pb facs="1865_2_page0004.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Kiærligheden blev ei kold,</l>
+<l>Det er Hjertets Ære,</l>
+<l>Derfor sikkert mange Fold</l>
+<l><hi rend="spaced">Marken</hi> dog skal bære,</l>
+<l>Seent men sødt, det er vor Trøst</l>
+<l>Som <hi rend="spaced">Ansaare</hi>, en Glædes-Høst</l>
+<l>Kroner Taare-Sæden!</l>
+</lg>
+<lg>
+<l>I Guds Time da Guds Ord,</l>
+<l>Hjertelig omfavnet,</l>
+<l>Videre herfra paa Jord</l>
+<l>Gaaer i <hi rend="spaced">Jesus-Navnet</hi>,</l>
+<l>Gaaer med Kiærlighedens Sang,</l>
+<l>Med Guds Fred fra <hi rend="spaced">Danevang</hi>,</l>
+<l>Trøstig giennem Ilden!</l>
+</lg>
+<lg>
+<l>Ond skee Lov i <hi rend="spaced">Jesu</hi> Navn</l>
+<l>For Evangelisten,</l>
+<l>Som, trods Aande-Lynets Savn,</l>
+<l>Bar en Herte-Christen,</l>
+<l>Egned sig til Mærkesmand</l>
+<l>Just i vore Fædres Land:</l>
+<l>Banen paa det Jævne!</l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

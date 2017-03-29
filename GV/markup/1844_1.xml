@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Adressecomptoirs Efterretninger.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-14"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="001"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1844">1844</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1844_1_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Kjøbenhavns kongelig alene privilegerede<lb/>Adressecomptoirs Efterretninger.</titlePart>
+</docTitle>
+<byline>Redigerede <lb/>
+	<docAuthor>af J. Jetsmark.<lb/>Trykte i Adressecomptoirets Vogtrykkeri.</docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition>87 Aargang.</docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace></pubPlace>
+<fw type="graphic"/>
+<docDate>Løverdagen den 9 Marts, 1844</docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<head>Til Professor Schouw.</head>
+<lg>
+<l>Visnet er for Dig i Haven</l>
+<l>Hjerte-Blomsten: <hi rend="bold">Yndighed:</hi></l>
+<l>Men Kiærminderne paa Graven</l>
+<l>Dog, som den, skal aande <hi rend="bold">Fred!</hi></l>
+</lg>
+<lg>
+<l>Mildt i Fred sisal Taaren rinde,</l>
+<l>Og i Fred skal Trösten groe,</l>
+<l>Mildt i Fred den Kiæres Minde</l>
+<l>Blandt os skal livsalig boe!</l>
+</lg>
+<lg>
+<l>Fred med Sjælen, som, udsmilet,</l>
+<l>Fandt en bedre Urtegaard!</l>
+<l>Fred med Stövet, som, udhvilet,</l>
+<l>Op skal staae som Blomst i Vaar!</l>
+</lg>
+<lg>
+<l>Fred med Blomsten, der sig egner</l>
+<l>Til at dufte i din Höst!</l>
+<l>Fred med Planten, som den tegner,</l>
+<l>Sat til Alderdommens Tröst!</l>
+</lg>
+<lg>
+<l>Fred med Dig og dine Kiære!</l>
+<l>Christnes Haab er Bod for Savn!</l>
+<l>Christi Fred skal Palmen bære,</l>
+<l>Ja, Guds Fred i <hi rend="bold">Jesu</hi> Navn!</l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

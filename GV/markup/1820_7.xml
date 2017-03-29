@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Skilderie af Kjøbenhavn.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-20"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="007"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1820">1820</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1820_7_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Nyeste<lb/>Skilderie af Kjøbenhavn.</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition>Syttende Aargang. No. 103.</docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace></pubPlace>Udgivet, redigeret og forlagt af S. Soldin.<lb/>Forsendes, i Følge Kongel. allernaadigst tilladelse, med Brevposterne.
+<fw type="graphic"/>
+<docDate>Løverdagen den 23December 1820</docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<head>Jule-Sang for christne Børn.</head>
+<fw type="graphic"/>
+<p>"Det er godt at være Barn om Juleln"</p>
+<p><hi rend="align(right)">Et dansk Ordsprog.</hi></p>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="bold">E</hi>t Barn er født i Bethlehem,</l>
+<l><hi rend="align(right)">Bethlehem,</hi></l>
+<l>Thi glæde sig Jerusalem !</l>
+<l><hi rend="align(right)">Halleluja Halleluja!</hi></l>
+</lg>
+<lg>
+<l>En fattig Jomfru sad i Løn,</l>
+<l><hi rend="align(right)">Sad i Løn,</hi></l>
+<l>Og fødte Himlens Konge-Søn.</l>
+<l><hi rend="align(right)">Halleluja Halleluja!</hi></l>
+</lg>
+<lg>
+<l>Han lagdes i et Krybbe-Rom,</l>
+<l><hi rend="align(right)">Krybbe-Rom,</hi></l>
+<l>Guds Engle Sang med Fryd derom,</l>
+<l><hi rend="align(right)">Halleluja Halleluja!</hi></l>
+</lg>
+<lg>
+<l>Og Østens Vise ossred der,</l>
+<l><hi rend="align(right)">Offred der,</hi></l>
+<l>Guld, Nøgelse og Myrrha skiær!</l>
+<l><hi rend="align(right)">Halleluja Halleluja!</hi></l>
+</lg>
+<lg>
+<l>Forvundet er nu al vor Nød,</l>
+<l><hi rend="align(right)">Al vor Nød,</hi></l>
+<l>Os er i Dag en Frelser fød!</l>
+<l><hi rend="align(right)">Halleluja Halleluja i</hi></l>
+</lg>
+<lg>
+<l>Guds kiære Børn vi blev paa Nye,</l>
+<l><hi rend="align(right)">Blev paa Nye,</hi></l>
+<l>Skal holde Juul i Himmel-Bye!</l>
+<l><hi rend="align(right)">Halleluja Halleluja!</hi></l>
+</lg>
+<lg>
+<l>Paa Stjerne-Tepper lyseblaae,</l>
+<l><hi rend="align(right)">Lyseblaae,</hi></l>
+<l>Skal glade vi til Kirke gaae!</l>
+<l><hi rend="align(right)">Halleluja Halleluja!</hi></l>
+</lg>
+<lg>
+<l>Guds Engle der os lære brat,</l>
+<l><hi rend="align(right)">Lære brat,</hi></l>
+<l>At synge, som de Sang i Nat,</l>
+<l><hi rend="align(right)">Halleluja Halleluja!</hi></l>
+</lg>
+<lg>
+<l>Da vorde Engle vi som De,</l>
+<l><hi rend="align(right)">Vi som De,</hi></l>
+<l>Gud Faders Ansigt kan, vi see!</l>
+<l><hi rend="align(right)">Halleluja Halleluja!</hi></l>
+</lg>
+<lg>
+<l>Lovsynge Ham til evig Tid,</l>
+<l><hi rend="align(right)">Evig Tid,</hi></l>
+<l>For Frelser bold og Broder blid!</l>
+<l><hi rend="align(right)">Halleluja Halleluja !</hi></l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

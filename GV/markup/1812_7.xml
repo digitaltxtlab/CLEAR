@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Prædiken</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2009-10-29"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="007"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1812">1812</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1812_7_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Hvorfor kaldes vi Lutheraner?<lb/>
+				<fw type="graphic"/>
+Prædiken</titlePart>
+	<titlePart type="sub">paa<lb/>
+Alle Helgens Dag</titlePart>
+</docTitle>
+<byline>ved<lb/>
+	<docAuthor>Nik. Fred. Sev. Grundtvig,<lb/>Kapellan i Udby.</docAuthor>
+				</byline>
+				<fw type="graphic"/>
+				<epigraph>
+<lg>
+<l>Hør mig, du Pav'! jeg være vil</l>
+<l>Din Pestilents, mens jeg er til,</l>
+<l><hi rend="spaced">Naar jeg er død</hi>, skal du forgaa,</l>
+<l>Det siger Luther, vaer derpaa!</l>
+</lg>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition></docEdition>
+				<docImprint>
+				<pubPlace><hi rend="spaced">Kjøbenhavn, .</hi></pubPlace><lb/>Paa hofboghandler I. H. Shubothes Forlag,<lb/>
+trykt hos P. H. Hdedes Enke.<lb/>
+<docDate>1812</docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<pb facs="1812_7_page0001.png"/>
+<fw type="pageNum"></fw>
+<pb facs="1812_7_page0002png"/>
+<fw type="pageNum"></fw>
+<pb facs="1812_7_page0003.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l><hi rend="align(center)">Guds hensovne Tjeners</hi></l>
+<l><hi rend="align(center)">Frants Volkmar Reinhards</hi></l>
+<l><hi rend="align(center)">Ihukommelse</hi></l>
+<l><hi rend="align(center)">helliges disse Blade</hi></l>
+<l><hi rend="align(center)">som</hi></l>
+<l><hi rend="align(center)">En sømmelig Gravskrift</hi></l>
+<l><hi rend="align(center)">over Vogteren ved Luthers Grav.</hi></l>
+</lg>
+<pb facs="1812_7_page0004.png"/>
+<fw type="pageNum">0</fw>
+<lg>
+<l><hi rend="initial">I</hi> Vittenberg, i Sadhjenland,</l>
+<l>Der er en Grav tilskue.</l>
+<l>Der hviler sig en from Guds Mand</l>
+<l>Alt under Kirkebue;</l>
+<l>Hvad her han heed, det veed Enhver</l>
+<l>Som har sin Gud og Bibel kær,</l>
+<l>Men hvad han heder nu hos Gud,</l>
+<l>Skal Engle for os sjunge ud,</l>
+<l>Naar vi med ham forsamles.</l>
+</lg>
+<lg>
+<l><hi rend="align(right)">Han lukked op den Bibelbog,</hi></l>
+<l>Som var saa fast forseiglet;</l>
+<l>Han saae, paa Herrens Syner klog,</l>
+<l>Guds herlighed i Spejlet,</l>
+<l>han laante Biblen Folkets Maal,</l>
+<l>Han trodsed Band og Staal og Baal,</l>
+<l>Og hvad der stred med Herrens Ord,</l>
+<l>Det sank paa Baal, det sank i Jord;</l>
+<l>Thi herrens Ord har Kræfter.</l>
+</lg>
+<lg>
+<l><hi rend="align(right)">Trods List og Vold, trods Band og Baal,</hi></l>
+<l>Gik Ordet vidt om Lande,</l>
+<l>Det talte Folkets Tungemaal</l>
+<l>Alt op til Nørrestrande,</l>
+<l>Det lød ved Donaus Kildevæld,</l>
+<l>Det høit genlød fra Dovrefjeld,</l>
+<l>Ved Hekla og ved Bloksbjerg klang</l>
+<l>Det liflig sødt i Kirkesang;</l>
+<l>Da var det Lyst at leve.</l>
+</lg>
+<pb facs="1812_7_page0005.png"/>
+<fw type="pageNum">5</fw>
+<lg>
+<l><hi rend="align(right)">Der Han gik hjem, den fromme Mand,</hi></l>
+<l>Til Fader I det Høie,</l>
+<l>Da sørged Kristne vidt om Land</l>
+<l>Med Suk, med Graad i Øie,</l>
+<l>han fulgtes til sit hvilested</l>
+<l>Af Lærde og af Læge med,</l>
+<l>Ja, mangen Ridder gæv og bold</l>
+<l>Med Taarer salvede sit Skjold;</l>
+<l>Men Herrens Ord dem trøsted.</l>
+</lg>
+<lg>
+<l><hi rend="align(right)">Naar Herren saaer sin gode Sæd,</hi></l>
+<l>Sig Fienden ei forsømmer,</l>
+<l>han Klinte strøer paa samme Sted,</l>
+<l>Mens Vagten rolig drømmer.</l>
+<l>Paa Biblen sov de lærde Mænd,</l>
+<l>Og stred om Tant med Mund og Ven;</l>
+<l>Da gik det, som det maatte gaa,</l>
+<l>At Klinten voxte høit paa Straa</l>
+<l>Og Kornet krøb i Jorden.</l>
+</lg>
+<lg>
+<l><hi rend="align(right)">Tohundred Aar hinanden jog,</hi></l>
+<l>Og hvert Aar blev det værre;</l>
+<l>De Bibelfienders Tal tiltog, , -</l>
+<l>Og Vennerne blev færre.</l>
+<l>"Den kære Synder tugter haardt,</l>
+<l>"Den piner os, o tag den bort!"</l>
+<l>Saa hvisked' det i mangen Vraa,</l>
+<l>Og deres Børn, som hvisked' saa, - .</l>
+<l>De raabte høit det Samme.</l>
+</lg>
+<lg>
+<l><hi rend="align(right)">Der gik saa stadseligt et Tog</hi></l>
+<l>Af Høie og af Lave,</l>
+<l>De agtede den Bibelbog</l>
+<l>hos Luther at begrave;</l>
+<l>De To, saa raabte vilde Flok,</l>
+<l>Til Fædrene var gode nok;</l>
+</lg>
+<pb facs="1812_7_page0006.png"/>
+<fw type="pageNum">6</fw>
+<lg>
+<l>Men vi har Mod og vi har Kløgt,</l>
+<l>Vi herrens Ord og Herrens Frygt</l>
+<l>Ei meer, som de, behøve.</l>
+</lg>
+<lg>
+<l><hi rend="align(right)">Der gik saa mange lærde Mænd</hi></l>
+<l>I Spidsen af den Skare,</l>
+<l>De spotted med Mund og Ven</l>
+<l>Guds Ord det dyrebare;</l>
+<l>Det var saa ynkelig en Sang,</l>
+<l>Forlorne Skjalde glade sang,</l>
+<l>Og Klerkerne paa Skrømt kun lod,</l>
+<l>Som om de stod den Flok imod,</l>
+<l>De flygted' eller fulgte.</l>
+</lg>
+<lg>
+<l><hi rend="align(right)">Der Flokken stod ved Luthers Grav,</hi></l>
+<l>Da tog en Røst til Orde:</l>
+<l>Nei holdt! der bliver Intet af,</l>
+<l>I her den ei skal jorde.</l>
+<l><hi rend="spaced">Frants Volkmar Reinhard</hi>! det var dig</l>
+<l>Som talte saa hel dristelig;</l>
+<l>Ved Luthers Grav i mørke Nat</l>
+<l>Til Vægter Gud dig havde sat,</l>
+<l>Det mærked' du, og kæmped'.</l>
+</lg>
+<lg>
+<l><hi rend="align(right)">O, vel Dig! du har kæmpet ud,</hi></l>
+<l>Du løbethar fuldkommet,</l>
+<l>Nu klart du skuer hos din Gud</l>
+<l>Hvad her du saae forblommet;</l>
+<l>Dig verdslig Kløgt var alt for kær,</l>
+<l>Din Bibel, stod den tit for nær,</l>
+<l>Ei ræd du søgte Verdens Fred,</l>
+<l>Men Tidens Aand imod dig stred</l>
+<l>Forinden som derude.</l>
+</lg>
+<lg>
+<l><hi rend="align(right)">Ak! tunge Dage er det vist,</hi></l>
+<l>Naar selv en saadan Kæmpe</l>
+</lg>
+<pb facs="1812_7_page0007.png"/>
+<fw type="pageNum">7</fw>
+<lg>
+<l>Kan ei enfoldig tro paa Krist,</l>
+<l>Ei Grublelysten dæmpe!</l>
+<l>Ak, Reinhard! du det selv erfoer,</l>
+<l>At kølnet blev af kløgt dit Ord,</l>
+<l>At ei det Hjerter slog som Lyn;</l>
+<l>Men saae da ei det skarpe Syn:</l>
+<l>Guds Ord <hi rend="spaced">sig selv </hi>vil raade.</l>
+</lg>
+<lg>
+<l><hi rend="align(right)">Ak! Tydskland, du er Svælget nær,</hi></l>
+<l>Det siger mig din Kæmpe,</l>
+<l>hans Bibel, som dog var ham kær,</l>
+<l>han kløgtig vilde læmpe.</l>
+<l>Ak! sikkerlig den Stund er nær</l>
+<l>Da Ingen har sin Bibel kær,</l>
+<l>Da hver, som kalder sig dens Ven,</l>
+<l>Bespotter den med Mund og Ven,</l>
+<l>Den tyder som en Mythe.</l>
+</lg>
+<lg>
+<l><hi rend="align(right)">Ja, <hi rend="spaced">Reinhard</hi>! du tilParadis</hi></l>
+<l>Fra hedninger dig skyndte;</l>
+<l>Din Brøde er, at høit din Pris</l>
+<l>Selv hedninger forkyndte;</l>
+<l>Dog ei den Pris dig giorde glad,</l>
+<l>Du taalte heller Spot og had,</l>
+<l>Fra Krist du ei dig lokke lod,</l>
+<l>For Naadestolen i hans Blod</l>
+<l>Du trodsed' hedningharme.</l>
+</lg>
+<lg>
+<l><hi rend="align(right)">Saa hvil da sødt, du Kæmpe god,</hi></l>
+<l>hos Gud og under Mulde,</l>
+<l>Og pris den Gud, som raadte Bod</l>
+<l>Paa Trængsel og paa Kulde!</l>
+<l>Men paa din Grav med Suk og Graad</l>
+<l>Maa Kristne skue hedningbraad.</l>
+<l>hvordan vil det med Landet gaa,</l>
+<l>Naar Gud har samlet sine faa</l>
+<l>I lille Sovekammer!!!</l>
+</lg>
+<pb facs="1812_7_page0008.png"/>
+<fw type="pageNum">8</fw>
+<lg>
+<l><hi rend="align(right)">Ak! Luther! ikke Een jeg veed.</hi></l>
+<l>Som for din Grav vil stride,</l>
+<l>Saa Biblen ei skal lægges ned</l>
+<l>I Jorden ved din Side,</l>
+<l>Vel veed jeg hvor en Kæmpe staar</l>
+<l>Alt under hjelm og hvide Haar,</l>
+<l>Med Troens Skjold og Aandens Sværd;</l>
+<l>Men, ak! han har dig ikke kær,</l>
+<l>Ak! Stolberg dig har svigtet!!!</l>
+</lg>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="align(right)">O! hører mig, I tydske Mænd,</hi></l>
+<l>Som end for Krist jer bøie,</l>
+<l>Til <hi rend="spaced">Reinhardts </hi>Grav I gange hen</l>
+<l>Med Suk og Graad i Øie,</l>
+<l>O! knæler, med andægtig Bøn</l>
+<l>Til Faderen og til Hans Søn;</l>
+<l>O! beder, at en Kæmpe maa</l>
+<l>I Aandens Kraft igen opstaa</l>
+<l>Luthers Grav at vogte!</l>
+</lg>
+<lg>
+<l><hi rend="align(right)">O! beder høit i fromme Kor,</hi></l>
+<l>O! længes ret derefter,</l>
+<l>At gennem Kæmpen sig Guds Ord</l>
+<l>Maa tee med fulde Kræfter!</l>
+<l>At han maa staa, som Luther stod,</l>
+<l>Med Barnesind og Heltemod,</l>
+<l>Enfoldig tro, og slaa til Jord</l>
+<l>Hvad sig ophøier mod Guds Ord,</l>
+<l>Nedslaa sin egen Tanke!</l>
+</lg>
+<lg>
+<l><hi rend="align(right)">Ak! her hos os i Daneland</hi></l>
+<l>Er ogsaa Nød paafærde, .</l>
+<l>En Kiste staar paa Gravens Rand</l>
+<l>Med Guds og Luthers Sværde</l>
+<l>Der stod den alt i tyve Aar,</l>
+<l>Og at endnu den oppe staar</l>
+</lg>
+<pb facs="1812_7_page0009.png"/>
+<fw type="pageNum">9</fw>
+<lg>
+<l>Det er, fordi en Kæmpe god</l>
+<l>De Sværde svang med Kraft og Mod,</l>
+<l>Og det var Biskop Balle.</l>
+</lg>
+<lg>
+<l><hi rend="align(right)">Nu staar han selv paa Gravens Rand</hi></l>
+<l>Alt under Haar saa hvide,</l>
+<l>Med Suk det seer den kristne Mand,</l>
+<l>Hvor Kisten monne stride;</l>
+<l>Den sænkes ei med Larm og Brag</l>
+<l>Men skydes sagtelig i Mag;</l>
+<l>Ak! Mange se med Suk til Sky?</l>
+<l>Men Faa kan taale Vaabengry,	-</l>
+<l>Og ingen Kæmpe færdes.</l>
+</lg>
+<lg>
+<l><hi rend="align(right)">Ak! er da ærlig Kæmpefærd</hi></l>
+<l>Nu blevet Skam i Norden?</l>
+<l>Ak! skulle da de gode Sværd</l>
+<l>Nu ruste under Jorden?</l>
+<l>Nei, holdt i Jesu Kristi Navn!</l>
+<l>Og jeg er født i Kæmpestavn,	,</l>
+<l>Gud naadig Tro og Mod mig gav.</l>
+<l>Han er mit Skjold, Han er min Stav,</l>
+<l>Og Sværdet selv har Kræfter.</l>
+</lg>
+<lg>
+<l><hi rend="align(right)">Her staar jeg med min Herres Sværd,</hi></l>
+<l>Lig der, du tomme Kiste!</l>
+<l>Jeg svinger det mod Mørkets Hær,</l>
+<l>Til mine Sener briste.</l>
+<l>Ja, kom nu kun, du store Flok!</l>
+<l>Du har jo Mod og Styrke nok,</l>
+<l>Kom nu, om du har Mod i Bryst,</l>
+<l>Og vov mod os en Kæmpedyst</l>
+<l>Før Sværdet du begraver?</l>
+</lg>
+<lg>
+<l><hi rend="align(right)">Hvi est du vorden nu saa ræd?</hi></l>
+<l>Du var jo nys saa modig.</l>
+<l>Tør du nu staa paa <hi rend="spaced">Gravens Bred</hi>,</l>
+<l>Naar Kampen vorder blodig?</l>
+</lg>
+<pb facs="1812_7_page0010.png"/>
+<fw type="pageNum">10</fw>
+<lg>
+<l>hvad er det Lys, du praler af,</l>
+<l>Naar ei det lyse kan i Grav?</l>
+<l>Hvordan? du har jo Sandhed kær,</l>
+<l>Og blegner dog for rustne Sværd, '</l>
+<l>Som nys du vilde jorde?</l>
+</lg>
+<lg>
+<l><hi rend="align(right)">Ja, le kun frit, jeg veed du vil,</hi></l>
+<l>Du Mørkets rædde Skare!</l>
+<l>Kald mig i Spot kun Lutherlil!</l>
+<l>Jeg skal til Navnet svare;</l>
+<l>Min Svaghed selv jeg kender bedst,</l>
+<l>Og bøier mig for Herrens Præst;</l>
+<l>Men lære skal dog Mænd i Nord</l>
+<l>At ei med Fædrene <hi rend="spaced">Guds Ord</hi></l>
+<l>Har mistet sine Kræfter.</l>
+</lg>
+<lg>
+<l><hi rend="align(right)">Lutherus! paa det høie Nord</hi></l>
+<l>Du spaaende har peget,</l>
+<l>Der, sagde du, skal bo Guds Ord,</l>
+<l>Naar det fra os er veget.</l>
+<l>Ak, vil det Folk Guds Ord forsmaa,</l>
+<l>Da gid dit Spaadomsord bestaa!</l>
+<l>Blir Ordet fredløst vidt om Land,</l>
+<l>Da gid det sig af Bøg og Gran</l>
+<l>Vil bygge her en Hytte!</l>
+</lg>
+<lg>
+<l><hi rend="align(right)">Men Nord! ifald du taabelig</hi></l>
+<l>Dig ved din <hi rend="spaced">Frelser skammer</hi>,</l>
+<l>Da haver Jorden og til mig</l>
+<l>Et stille Sovekaminer;</l>
+<l>Da er der Rum i Himlen end</l>
+<l>hos Fader, til mig arme Svend;</l>
+<l>Men, naar hans Vredes Lyn slaar ned,</l>
+<l>Kan den, som stolt mod Ordet stred,</l>
+<l>Og staa mod Vredens Lue?</l>
+</lg>
+<p><hi rend="align(right)"><hi rend="spaced">Mortensdags Aften1812.</hi></hi></p>
+<fw type="graphic"/>
+</div>
+<div>
+<pb facs="1812_7_page0011.png"/>
+<fw type="pageNum">11</fw>
+<head>Fortale.</head>
+<p><hi rend="initial">H</hi>an er da hensovet, den sidste ægte lutherkristelige Mand, jeg mellem Tydsklands navnkundige Lærde veed af at sige. Sagtens er der Nok, Som Saaledes vil overmale Hans Ligsteen, at Vandreren neppe skal gætte det er en Saadan troende Kristens Støv den dækker. Dog, en præntet Gravskrift har han efterladt sig, Som vidner Sanddru om hvad han var, og den skal de Selvbudne Lovtalere ei saa let udslette, eller overskygge med Tulipaner. At formere disses Tal kan aldrig falde mig ind, men at udsige ligefrem hvad hans Selvgiorte Gravskrift trohjertig har fortalt mig, det vil og det bør jeg. Maaske var det netop Budskabet om hans Død, det Sørgebudskab, jeg aldrig havde tænkt saa Snart skulde komme, der stemte mig Saaledes, at jeg sidste Alle Helgens-Dag maatte udlægge den bedrøvelige Sandhed, at vi ikke længere ere Lutheraner. At minde flere end mine Tilhørere om det Samme blev mig en Fornødenhed, og derfor skrev jeg denne Præken. Jeg skrev den som om den skulde holdes i en Kirke, hvor den ganske Menighed, Som kaldes Lutheraner, var forsamlet, og kunde høre Røsten; nu lyde den i Guds Navn for Hver som kan og vil høre! jeg siger ikke andet end Bibelen, og dens Ord veed jeg
+<pb facs="1812_7_page0012.png"/>
+<fw type="pageNum">12</fw>
+er Sandhed; jeg siger ikke andet, end hvad jeg vi! være bekendt for Høie og Lave, for Læge og Lærde og hvad jeg drister mig til, ved Guds Naade, at forsvare med Mund og med Ven, ja, om det gjaldt, beseigle med mit Blod. Jeg har ikke andet Kald til at tale og stride, end det hver troende Boglærd og Præst har tilligemed mig, efter Hvers Evne og Leilighed. Jeg har ingen anden Oplysning, end den Faderen ved sin Helligaand forlener hver Troende, der <hi rend="spaced">holder hårdt ved det skrevne Ord og derefter </hi>prøver Aanderne, om de ere af Gud, som Han forlener Hver til at forstaa hvad han er givet at forstaa, og til at holde sig mod et ydmygt troende Sind fra deTing som ere ham forunderlige, som ei tjene til Opbyggelse, men kun komme Kiv og Trætte afsted. Jeg har ingen daarlig Attraa efter at lide Spot og Forfølgelse, kun alt for gerne vilde jeg undgaa disse Ting, men, naar deter Guds Villie, naar de ei kan undgaaes uden at fornægte Troen og den Kærlighed til Gud, Hans hellige Ord og Brødres Sjæle, som driver til Strid imod deres hemmelige og Aabenbare Fiender: da ske Guds Villie og ikke min; da skænke Han mig naadefuld den Størke, Taalmodighed og Sagtmodighed, som mig fattes!</p>
+<p>Heraf skal da hver Retsindig mærke, at jeg ei er anderledes Sværmer, end Luther og alle de sindige Mænd, der troede fast paa Guds skrevne Ord og lød det i menneskelig Skrøbelighed efter den bedste Indsigt, de ved ærlig og rolig Granskning under den
+<pb facs="1812_7_page0013.png"/>
+<fw type="pageNum">13</fw>
+Helligaands Bistand kunde erholde. Skal saadanne Mænd kaldes Sværmere, da vil jeg kaldes ligedan, og Gud give mig Naade til at sværme som de, at fæste Øiet ikke paa det Synlige, Som er timeligt, men paa det USynlige, som er evigt, altid at have mere Behagelighed til at fare herfra og være med Herren, hvor der er meget bedre, hvor der hverken er Fristelse eller Fare, Sorg eller Strid eller Pine, hvor Gud aftørrer al Graad af de Gudfrygtiges Øine. Lad kun andre mene, at de igennnem alle Planeter kan krybe til Faderens Hus, jeg veed det gaaer ikke an, og var det end saa, vilde jeg dog langt Mere, naar Klokken ringer, naar Hammeren slaaer paa Malmet ved Midnatstid, med voxne Vinger følge <hi rend="spaced">Viseren </hi>i lystelig Sværm op over alle Himle. Hvo Som vil med, han komme! Gud har Vinger og Rum til os alle, thi i Hans Hus ere mange Værelser; Viseren, den Helligaand, kalder os alle gennem det skrevne Ord, tilbyder os Troens og Haabets og Kærlighedens Vinger. Det maatte falde mig ind, at hvad jeg vilde sige om Reinhard, neppe kunde finde et passeligere Sted end foran en Prædiken Som den nærværende. Maaske opsendte den Salige i sin Dødsstund et Suk til Himlen, fordi Han ikke oplevede den Højtidsdag, da han pleiede at barsle, vist vilde det Budskab glædet ham, at hans Dødsaar dog ikke skulde Savne en redelig Paamindelse, og visselig saae han sig helst ihukommet ved en saadan. Hvor skulde ogsaa jeg vente Snarere at høres opmærksom i denne Sag, end ved Reinhards Lig! Skulde jeg da være den Eneste som i den Hen-
+<pb facs="1812_7_page0014.png"/>
+<fw type="pageNum">14</fw>
+sovne ærede den skarpsindige, lærde Grubler, ikke fordi han var en saadan, men fordi denne store Tænker i en vantro Alder havde Hjerte til at være sand bibelsk Kristen, og Mod til at bekende sin foragtede Tro? Nei, var det saa, da skulde det være min daglige Begæring, at min Gud vilde tage mig bort fra en Verden, hvor jeg Intet havde at giøre, uden at pine min Sjæl, og Han vilde visselig bønhøre mig. Men det er ikke saa; Herren har ogsaa i disse onde Dage bevaretsig i det Skjulte Tusinder, som ei bøiede Knæ for Baal. Ere de og enten for modfaldne og frygtagtige til at opløfte Resten, eller tvivlraadige i den guddommelige Kundskab, eller ved Sjæleevner og Plads i Menigheden henviste til stille Haandtering; deres fromme Suk og hjertelige Bønner fattes dog ikke Kræfter til at naae den barmhjertige Faders Øre, og disse Suk, disse Bønner ere et stærkere Værn for Kristi Kirke mod Helvedes Magter, end tusinde Penne og talrige Hære. Paa dem, og paa Hans Forjættelser, som sidder hos Faderens høire Haand, stoler jeg, ene derfor tør jeg vente, ogsaa at høres af nogle Boglærde, naar jeg taler sanddru om hvad Reinhard var i Guds Tjeneste, naar jeg minder om Tidens dybe Fordærvelse, naar jeg i Jesu Navn udbyder Leding imod Mørkets talrige Hær.</p>
+<p>Han er nu død, den bolde Jesu Kristi Stridsmand, der saa dristelig og sanddru mindede os om, hvad Luther troede og lærte, hvad der sømmede sig for os at tro og lære, naar vi vilde træde i den
+<pb facs="1812_7_page0015.png"/>
+<fw type="pageNum">15</fw>
+Saliges Fodspor, som Han i Kristi og Apostlenes, naar vi vilde svare til Navnet af lutherske, det er bibelske Kristne! Han er død, den Eneste, som i den sidste Tid, advarede os kraftelig mod det Afguderi, hvormed vi trodse den Almægtige og tabe os selv, for at tækkes vort Jeg, Verden og vort Kød! Og, hvo som haver Øren at høre med, han høre! Hvor stod Reinhard? <hi rend="spaced">hvor </hi>lød hans Varselsstemme? Over Luthers og Melanchtons Grave, paa den Høiskole, hvor de rørte Tungen, hvor Gud igen brød sin Bogs Seigl, hvorfra den opladte Bibel udsendtes i Landene fra den Prædikestol, hvor Morten Luther forkyndte Skriftens Ve over alle dem, som vilde Iede Folket andensteds end til Naadestolen i Kristi Blod, naar de attraaede Syndsforladelse og Saligheds Haab; fra den Stol, hvorpaa Luther saa mangengang opsteg, for, som Melanchton sagde, at rose den kære Gud, for med sin søde Tale at indaande Tro, Haab og Kærlighed i hvert andægtigt Hjerte. Og, endelig med hvilken Røst talte Reinhards Aand? er det ikke, naar man hører ham, som om gamle Morten og Philip, efter lang Skilsmisse, endnu engang prøvede paa at tale i Samfund; eller er det ikke, som om Luther, svalet gennem et trehundredeaarigt Liv, havde i samme tilegnet sig Melanchtons klassiske Lærdom, og vilde nu med hans Tunge sige sin Menighed det sidste Farvel? Er dette en Talerblomst, eller er det ikke et ukonsklet Udsagn om Reinhards Plads og den synderlige Dobbelthed, der er hans Kendemærke? At det klinger poetisk, bliver det derfor Løgn, eller skulde Historien, som Man jo dog
+<pb facs="1812_7_page0016.png"/>
+<fw type="pageNum">16</fw>
+kalder et guddommeligt Drama, være mindre poetisk det er, have mindre Eenhed og Skønhed end et Værk af en menneskelig Skaber, som kun erkender stykkevis, som kun seer i et Speil og i en mørk Tale, Som kun svagt efterligner hvad der dunkelt svæver for ham, som Guddommeligt? Eller er det maaske Tilfælde? Tilfælde og Forsyn, hvem der kan rime disse Begreber sammen, maa ogsaa kunde rime Ordene. Meget, hvis Sammenhæng vi med vort svage Øie ikke kan opdage, maa vi vel kalde Tilfælde, men aldrig glemme at det kun er et Udtryk paa Slump for det Ubekendte, som ikke kun have Sandhed, og som vi glade bortkaste, saasnart Gud under os stykkevis at opdage Leddene i den herlige, vidunderlige Kæde, Hans Forsyns stærke Haand har befæstet gennem Tiderne. Og nu maatte jeg vel spørge hver eftertænksom Kristen, ja hver kyndig. Sandhedskærlig Mand om reinhards Mæle og hans Stade i Vittenberg bør kaldes et Tilfælde? Nei visselig, ere her ei kendelige Spor af Guds usynlige Finger, de ere da ingensteds uden der, hvor Guds Aand har aabenbaret dem i de hellige Skrifter, ja, gid det Ingen forarge! ei heller der, thi saaledes lære vi netop af Bibelen at Guds Husholdning er, og Skriften er netop Borgen for, at vi ei se feil. Fra den lutherske Menigheds Vugge, fra dens Forbilleders Grave, af en Mand hvis Tungemaal i Indhold og Klang lignede deres saameget som en Mand i vor Tid kan ligne dem begge, derfra og ved en Saadan vilde Gud sige os, at vi ei længere være Lutheraner, at vi bespottede Ham og Hans Tjener
+<pb facs="1812_7_page0017.png"/>
+<fw type="pageNum">17</fw>
+ved at kalde os Luthers Diciple. En saadan Mand, hvem selv de Vantro maatte regne mellem Tidsalderens skarpsindigste Tænkere, hvem den førhen lutherske Menighed kaldte sin ypperste aandelige Taler, hvem Man maatte tilstaa den Hæder, at have sindigst og klarest fremstillet den Sædelære, Tidsalderen: vilde sætte i Troens Sted, maatte tilstaa den Dyd, alle Munde kaldte Saligheds visse Pant: en saadan Mand, skulde uskrømtet bekende sin Tro paa Aabenbaringens Guddommelighed; frimodig, trods Haan og Spot, bekende, at han ikke vidste og ikke vilde vide Andet, sig til Salighed, end Jesum Kristum den Korsfæstede, end Guds fri, uforskyldte Naade og Barmhjertighed i Hans eenbaarne Søn. En saadan Mand skulde aabehjertig bekende, at ogsaa han havde kæmpet med svære Tvivl, været stærkt anfægtet af de Vildfarelser, Tiden kaldte Sandhed; at han tit i Tvivlraadighed maatte vride Hænder og fælde Taarer og ønske sig under Muld men at alvorlig Granskning med Sandhedskærlighed og Sjæls Bekymring, under Bøn og Paakaldelse havde ført ham tilbage tit vis Tro paa Guds hellige Ord, paa Kristi Lidelsers Samfund og Hans Opstandelses Kraft. Denne Strid, denne Attraa efter at forlige Tidsalderens Kløgt med sand kristelig Tro, skulde endelig give sig saa tydelig tilkende i hans Tankegang og Skrifter, at ingen Retsindig kunde tvivle om hans Bekendelsers Sandhed. Maa Man ikke i <hi rend="spaced">indskrænket </hi>Forstand, sige om ham, hvad Jesus sagde om sig selv til Jøderne: var han ikke kommet, da kunde de Selvkloge undskyldes; men nu
+<pb facs="1812_7_page0018.png"/>
+<fw type="pageNum">18</fw>
+have de end ikke et Skin at besmykke Vantroen med! Ja visselig, Reinhard skal opstaa i Dommen mod denne Slægt og mest mod dens Skriftkloge; Han skal være et uimodsigeligt Vidne om, at de, med at deres Lærdom, al den Forstands Modenhed, hvormed de bramme, gerne kunde faaet ydmyg, kristelig Tro, naar de havde <hi rend="spaced">villet </hi>modtage den; at de ikke fik den, fordi de være saa ubekymrede fot Sjælens evige Vel, saa hovmodige af deres Draabe Forstand, at de ei med Sandhedskærlighed vilde i andægtig Bøn knæle for den Gud, i hvem vi leve, røres og ere, og begære sand Oplysning af Lysenes Fader, fordi de skammede sig ved at behøve Gud, og derfor bespottelig sagde, han ei kunde hjelpe, ei oplyse dem.</p>
+<p>Forundres maa vi med barnlig Tatsigelse over Guds inderlige Barmhjertighed og store Langmodighed, som endnu i disse Vantroens og Ugudelighedens Dage vilde skænke os saa kraftige, kærlige Mindelser, men sørge, inderlig vedrøves maa vi da ogsaa, ved at se den Haardnakkenhed, hvormed de Boglærde mødegaa en saadan Mindelse. Reinhards kristelige Bogtale var som en Røst i Ørken; Karavanerne lo kun ad Stemmen, der vilde vise dem en Vei, hvor de ei kunde føre deres belæssede Kameler med; fornam Nogen den med Glæde, var det kun en enkelt Vandringsmand, hvis Hjertes dybere Længsler havde skilt ham fra den larmende Flok, og som sukkede efter en Ledsager paa den vildsomme Sti, men dog veed jeg Ingen, som aabenbar har givet
+<pb facs="1812_7_page0019.png"/>
+<fw type="pageNum">19</fw>
+Gud Ære og den Salige Tak for saadan Vei- ledning.</p>
+<p>Hvad er at haabe om en saadan Tidsalder? Jeg har sagt hvorpaa jeg stoler, og Kristi Forjættelser skal vist Ikke skuffe: thi Himinel og Jord skal forgaa, men Hans Ord skal ikke rokkes. Men det har han aldrig sagt, at hans Kirke skal bestaa i Europa til Dagenes Ende, ja tør Man allerede nu vove at sammenlægge de hellige Bogstaver, hvormed Han har beskrevet sin Kirkes Reise ved sin Tjener Johannes, da lod vel det Modsatte sig paastaa med stor Rimelighed. Dog jeg vil her ikke indvikle Sagen med uvisse Gætninger, det er en sand Spaadoms Kendemærke, at den er en forblommet Skrift indtil Tidens Løb forklarer den, og vi vil holde os til Det, som er vist for alle Kristne. Medens Reinhard talte, mindede Gud Europa ved frygtelige Rystelser, ved alle de Plager, hvormed han i sit Ord truer at ville hjemsøge ugudelige Folkefærd og Tider. Vil Folkene ydmyge dem under Hans vældige Haand, da forbarmer Han sig, som en Fader over sine Børn, men vil de tygge Tungerne i Pine, og bespotte den Gud, Som haver Magt over Plagerne, da er Redning Umulig. Da borttager Gud sit hellige Ord og støtter Lysestagen til et Sted, hvor Folkene vil glæde sig ved Lysets klare Skin, istedenfor at vi mestre eller foragte det, da indsamler Gud ved Døden sine levnede Fromme, eller viser dem did hvor Lyset skinner, og da borttager han ei sin dømmende Haand fra Europa, før den synker i Afgrund-
+<pb facs="1812_7_page0020.png"/>
+<fw type="pageNum">20</fw>
+en, og vorder Djævels og hver hadelig Fugls Bolig. Jeg veed meget vel, at Tidens Kloge kun le ad saadan Tale, ja at Selv de Bedre, som Niemeier med sit gudelige Sind, mene, at Krig, Pest og Naturens Oprør har Lidt eller Intet med Guds moralske Verdensstyrelse at skaffe, men jeg troer Gud paa hans Ord, og om Saa en Engel fra Himmelen forkyndte mig Andet, vilde jeg, med Guds Hjelp, høre ham ganske rolig, og kun svare: saaledes staar der skrevet, saaledes læser jeg; at holde hårdt ved Læsningen og ei lade sig forvilde af Ord eller Aand, det er den gamle Pauli Formaning, og den skulde alle de smukt holde ved, som ville hede Kristne.</p>
+<p>Vil Man sige, at alle Plager ere nødvendige Følger af Naturens evige Love, af Menneskets Vankundighed, Uforsigtighed, og Frihedens Misbrug, da veed jeg ikke, hvorfor jeg skulde stride derimod; men at Gud skulde have indrettet to Verdener: den fysiske og moralske, som stedse gribe ind i hinanden, og dog Intet skulde have med hinanden at gøre i Grunden, det Synes mig den blotte Fornuft enten maa forkaste, eller ogsaa udlede fra en kægtig Materie, Gud ikke kun tæmme, men maa lade udrase. At en Fader tugter sine vanartige Børn, hos hvem kærlige Formaninger og haarde Ord intet udrette, med legemlige Straffe, det finder Man naturligt og rigtigt? men Gud, som dog langt bedre indseer hvilken Tugt der behøves. Han maa ikke have Lov til at gøre det Samme, men han. skal have lagt ødelæggende Kræfter i Naturen, Som virke paa Menneskene, uden
+<pb facs="1812_7_page0021.png"/>
+<fw type="pageNum">21</fw>
+at staa i Forbindelse med hans Regening over dem? Er det ogsaa rensede Begreber om Guddommen? Den Dødelige, som i det Enkelte vil bestemme, hvad Gud hvergang vil udrette med sine Tugtelser, og udgrunde den Eviges <hi rend="spaced">skjulte </hi>Raad, han er en hovmodig og forfængelig Daare; men hvor Gud har aabenbaret os sine vise Raad, ved sin Aand, der er det vor egen Skyld, om vi Intet se, og heller tage vor Tilflugt til de urimeligste Gerninger, end tro Gud paa hans Ord. At Herren hjemsøger sit Ords Foragtere og sin Lovs genstridige Overtrædere med sine fire onde Domme: Sværd, Hunger, Pestilents og onde Dyr, som fortære Mennesker og Fæe*), og at ugudelige Stæder hjemsøges af den Herre Zebaoth med Torden og Jordskælv, med Hvirvelvind og fortærende Ildslue*), at det længe skeer for at advare og minde, og tilsidst, naar Folkene forhærdes, for. at udslette og fordærve, derom kan ingen troende Kristen tvivle, som læser sin Bibel med aabne Øine og Andagt. At de uskyldige, som det heder, ogsaa derved straffes og mange Skyldige gaa fri, og at det ingenlunde altid er de mest fordærvede Stæder eller Lande Plagen gaar over, det forvilder ingen Kristen, thi Han veed, at Ingen er retfærdig for Gud, at hans Børn ikke klage over Korset, som de veed gøres haardt Behov til at luttre Hjertet og uddrive Verdenskærlighed. Han veed, at Gud nok frelser Sine, og at de Intet tabe ved at ombytte</p>
+<p>*) Eiedh. 14.</p>
+<p>*) Es. 29.</p>
+<pb facs="1812_7_page0022.png"/>
+<fw type="pageNum">22</fw>
+<p>Jorden med Himlen; at de Galilæer, hvis Blod Pilatus udøste, slet ikke være større Syndere end de andre Galilæer, og at Gud vist nok hellere, naar det kun bestaa med hans Visdom, bortrykker sine Hellige, end dem han gerne vil unde Tid til Omvendelse. Jeg veed da Intet her, som end kunde forstyrre en Kristens Sind, thi at Gud ikke holder op at være den kærlige Fader, naar han straffer, er jo ligefrem, af Kærlighed er det jo ene, han vil drive Syndere til Omvendelse, Kærlighed er det jo ogsaa, naar han udsletter dem, af Jorden, som Han seer ei vil omvende sig, men kun forgifte og forføre, det er Kærlighed til sig selv, til det Gode, og Andet kan han dog vel ikke elske. Ja var det Onde en væsenlig Bestanddel af Mennesket, saaledes som Gud skabte det, hvilket Alle de bør sige, som nægte det bibelske Syndefald, der var en anden Sag, men jeg taler om Kristne. At Gud nu endelig, lader Menneskene paadrage sig mange af Plagerne selv, det er en Følge af hans evige Visdom, som udelukker alt Tilfældigt. Hvor Aadselet er der forsamles ørnene.</p>
+<p>Naar nu en Kristen, med Tro i Hjerte og Bibel i Haand, beskuer Tidernes Tegn, da maa han visselig grue, og høre den Røst fra Lissabons Grus, hvorover dengang blev prædiket rundt i vore Riger: dersom I ikke omvende eder, skulle I alle ligedan omkomme. Naar han seer hvorledes Sværd og Ild omvandrede alt længe i Landene, hvorledes Menneskene segne som det modne Korn, for Leen, medens
+<pb facs="1812_7_page0023.png"/>
+<fw type="pageNum">23</fw>
+andre Tusinder blegne under Hungerens Svøbe; naar Han ved Siden Seer Liderlighed, Egennytte og Vantro fremtræde med den frækkeste Pande, naar Han seer de Boglærde betagne med Hovmod, og menig Mand nedsunket i Uteerlighed og Sjæledorskhed, naar han overalt mærker, hvor ubekymrede de Fleste ere for deres aandelige og evige Vel: hvad er da at haabe? Naar han nu dertil seer, at det gaaer, som Herren Siger ved Profeten (Es. 57) den Retfærdige døer, og der er Ingen, som lægger het paa Hjerte, de fromme Folk indsamles, men der er Ingen, som betænker, at den Retfærdige borttages fra Ulykken. Han skal indgaa med Fred. De, som vandre for hans Ansigt, skal hvile sig i deres Sovekamre:, da maa han åbne frygteligt Uveir. Ogsaa ved Reinhards mig saa uventede Bortgang, faldt disse Ord mig tungt paa Sinde: Luther henkaldtes i sit 63de Aar fra ulykken, som næste Aar begyndte; Reinhard bortryktes i samme Alder under frygtelige Varsler; maa det ikke falde os ind ved at de paa Luthers og hans Dage: <hi rend="spaced">Gik det Saa med det grønne Træ, hvordan vil det gaa med det tørre?</hi></p>
+<p>Jeg veed meget vel, at hartad alle Boglærde, og mange Tusinder med dem, le ad Saadanne Trudsler og bange Forventninger; men derved forvisses en Kristen om, at uveiret er saare nært og maa komme, thi ligesom det gik til i Noa Dage, de aade, de drukke, og toge til Ægte og foragtede Varsler, indtil den Dag Noa gik ind i Arken, ja lige til
+<pb facs="1812_7_page0024.png"/>
+<fw type="pageNum">24</fw>
+Syndfloden kom og tog dem alle bort; saa skal og</p>
+<p>Menneskens Søns Tilkommelse være; ikke allene</p>
+<p>den store, i Dagenes Ende, men og hver ødelæggende Hjemsøgelse, thi ogsaa i Sodom aad de og drak,</p>
+<p>og plantede og byggede trygge, til Ilden og Svovlen kom.	!</p>
+<p><hi rend="align(center)">udby ved Præstø d. 22de Novbr.</hi></p>
+<fw type="graphic"/>
+</div>
+<div>
+<pb facs="1812_7_page0025.png"/>
+<fw type="pageNum">25</fw>
+<p><hi rend="initial">G</hi>ud! Du som lod lyset skinne frem af Mørket, o, lad det skinne i vore Hjerter, saa vi, med Bedrøvelse efter Dig, Se vor Ondskab og Elendighed, saa vi med inderlig og taknemmelig Rørelse beskue Din ubegribelige Kærlighed og Barmhjertighed i Jesu Kristo, vor Frelser! Lad vort Hjerte brænde i os, medens Du taler til os paa Veien, og oplad Du os Skrifterne! Lær Du os ved din Helligaand at holde det Sandheds Ord høit og i Ære, og at give skadelig Agt derpaa, som paa et Lys, der skinner i Mørket, indtil Dagen gryer og Morgenstjernen oprinder i vore Hjerter, hos Dig, vor Fader, Du Som er i Himlene, Helliget vorde dit Navn! Tilkomme dit Rige! Ske din Villie, Som i Himlen, Saa og paa Jorden! Giv os i Dag vort daglige Brød! Forlad os vor Skyld, Som vi forlade vore Skyldnere! Leed os ikke ind i Fristelse, men frels os fra det Onde! Thi Riget er dit, Magten og Æren i Evighed, Amen!</p>
+<fw type="graphic"/>
+</div>
+<div>
+<pb facs="1812_7_page0026.png"/>
+<fw type="pageNum">26</fw>
+<head>Evangeliet. " Math. 5.</head>
+<p><hi rend="initial">S</hi>alige ere de Rene af Hiertet, thi de skal se Gud! Passelig staa de Ord med alle deres Følgesvende i Dagens hellige Evangelium; thi det er i Dag Alle Helgens Dag; denne Høitid er indsat i Menigheden til en Ihukommelse af alle dem, der ere hensovne i Kristo, alle dem, der ere indgangne i den store Hvile, som Gud haver beredt sit Folk. De være Rene af Hjertet, derfor indlodes de i Helligdommen til at se Gud, til at erkende ikke længere l Stykkevis - som herneden, Men klart og fuldkommen, ligesom Gud erkender os og sig selv, at beskue det Ansigt til Ansigt, hvilket de her kun saae som i et Speil og i en mørk Tale.</p>
+<p>Salige ere de som lide Forfølgelse for Retfærdighedens Skyld, thi. Himmeriges Rige er deres! Det fornemme alle Guds Helgene nu, ligesom dette Haab allene gav dem Størke og Frimodighed, medens de være her tilhuse, thi paa dem alle er den hellige Povels Ord stadfæstede, at alle de, som ville leve gudelig i den Herre Jesu Kristo, maa forfølges, ja det
+<pb facs="1812_7_page0027.png"/>
+<fw type="pageNum">27</fw>
+var Frelserens egne Ord, som opfyldte; thi han haver sagt det: I skal hades af alle Folk for mit Navns Skyld.</p>
+<p>Salige ere de Fattige i Aanden thi Himmeriges Rige er deres! Ogsaa det er stadfæstet: Fattige i Aanden, det var alle Guds rette Helgene, de stolede ikke paa deres Gerninger, de pukkede ikke paa Fortjeneste, nei, de sørgede vel saameget, over deres Skrøbelighed, og, Uværdighed, som over deres trængsel og Verdens Ondskab; enddog de hver Dag rensedes fra Kødets og Aandens Besmittelse, og stræbte at fuldende Hellighed, i Gudsfrygt, saa hungrede og tørstede de dog efter en bedre Retfærdighed; dybt følte de, at Ingen som lever, er retfærdig for Gud, og udbrød med den hellige Sanger:, salig er den mand, hvem Herren ikke tilregner Misgerninger, hvis Overtrædelse er forladt, og hvis Synd er skjult! Derfor tyede de Alle i Ydmyghed til den Naadestol, Gud opreiste for troen i Kristi Blod, og haabede efter Skriftens Ord at retfærdiggøres, uforskyldt af Guds Naade, ved den Forløsning, som er i Kristi Jesu. Der lærte de at elske den Gud, som elskede dem først, Kristi Kærlighed tvang dem, idet de Matte saaledes dømme at dersom
+<pb facs="1812_7_page0028.png"/>
+<fw type="pageNum">28</fw>
+Een er død for Alle, da ere de Alle døde, døde fra Synden, og skyldige til ei mere at leve sig selv, men Han som er død og opstanden for dem. I Hans Kærlighed bleve de, og holdt Hans Befalinger, de være barmhjertige, fordi de vilde tækkes Faderen, som er barmhjertig, fordi Barmhjertighed var dem selv vederfaret; de tilgave Alle, ligesom Gud tilgav dem i Kristo, de ledte ikke efter Skæven i Broderens Øie; thi de faae Bjelken i deres eget; de gav den, som bad, og vendte sig ei fra den, der vilde laane, thi de kaldte Intet deres Eget, men sig selv Guds Husholdere; de giorde vel Mod Utaknemmelige og Onde; thi de vilde kaldes den Høiestes Børn, som lader sin Sol opgaa over Onde og Gode og lader regne over Retfærdige og Uretfærdige. De taalte Trængsel og Forfølgelse, fordi de vidste, at hvo som ikke tager sit Kors og følger Jesum, kan ikke være hans Discipel.</p>
+<p>Saaledes kunde jeg længe tale om Guds Helgenes Dyder, men det gøres ei behov; thi . hver som troer paa Jesus, veed ogsaa at han er skyldig til at omgaaes i Kærlighed, ligesom Jesus, og Kærlighed gør Næsten intet Ondt, men alt det som Godt er. Jeg siger det Onde, for at Ingen skal mene Han er i Kristo, naar
+<pb facs="1812_7_page0029.png"/>
+<fw type="pageNum">29</fw>
+Han er Syndens Tjener, og for at lægge det paa Hjerte, at endog rette Kristne ene er istand til at øve sand Dyd, er det dog deres Vis aldrig at tænke, de kan fortjene Himmerig med deres gode Gerninger; thi de mærke vel, at Synden boer i dem, og tager dem mangen Gang fangen imod deres Villie, de kommede forbigangne Dage ihu, og vide at det var Troen som frelste dem fra Syndens Herredømme, at det er Kristi Kraft, som	teer sig i deres Skrøbelighed, at det er den Himmelske Fader selv, som ved sin Helligaabd virker i dem baade at ville, og at udrette det, som er Ham behageligt *).</p>
+<p>Saaledes teenkte og troede ogsaa den Guds Helgen, hvis Navn og Gerning vi i disse Lande paa denne Dag pleie mest at ihukomme, den Ordets tro Tjener, vor Herres Jesu Kristi Stridsmand og Kæmpe: <hi rend="spaced">Morten Luther</hi>.</p>
+<p>Hvorfor vi mest have kommet ham ihu, hvorfor vi kaldes efter hans Navn, det skulde man tænke alle vidste, ligefra det stavende Barn til den rystende Olding; men det er ikke saa, der er kun Faa som betænke saadant nuomtide, og derfor vil jeg i Dag, ved den</p>
+<p>*) Philip. 2.</p>
+<pb facs="1812_7_page0030.png"/>
+<fw type="pageNum">30</fw>
+<p>samme Helligaands naadefulde Bistand, som</p>
+<p>ledsagede ham og alle Guds Helgene Hjem,</p>
+<p>udlægge for eder</p>
+<p><hi rend="spaced">Hvorfor vi kaldes Lutheraner, lutherske Kristne.</hi></p>
+<p>At fødes til Verden, I Elskelige, det er vist nok en underlig Ting, enddog kun Faa betænke det, fordi man daglig kun se Magen. At vi engang skal dø fra Verden, og det kanske i Dag eller i Morgen, det er ogsaa Underligt, og det vilde de Fleste helst glemme, thi det er meer end forunderligt, det er forfærdeligt. Det var sørgeligt nok, om vi vidste at det var forbi med vort Liv og vor Rørelse, naar de klappe Graven til, og give Legemet i Ormes Vold; dog det fik saa være, var der ingen Glæde, var der heller ingen Sorg, og af den Sidste har vi vel alle mest, det kunde da være ret godt at ligge der, hvor Man er kold og stiv, og hører lkke trængerens Røst. Men der er en forunderlig Røst, som vi kalde Samvittigheden, det er en haard Tugtemester, enstund kan vi vel binde Munden paa ham, eller gøre slig en Tummel omkring os, at Vi ikke høre, hvad han siger, men naar Han saa engang imellem træffer os ene
+<pb facs="1812_7_page0031.png"/>
+<fw type="pageNum">31</fw>
+og stille, ved den mørke Midnatstime, paa Sygesengen eller i anden Dødsfare, da er han høirøstet og altid peger han paa Graven, som han vilde sige: tænk ikke du skal ligge der i Ro, da skal du nødes til at gøre Regnskab for Ham deroppe, og da kommer Pinen. I veed selv, I Elskelige, hvis ellers ikke have sovet eders ganske Liv, at det er ingen løs Tale, men Sandhed jeg fører; men er det saa, at vi efter et stakket Liv her i Verden, maa frygte for</p>
+<p>Samvittighed uden Haab, da skulde vi jo heller ønsket, at vi aldrig være blevne fødte. Men var der nu Een, som kunde og vilde frelse os fra Dødens Frygt ved sandfærdig at love os et Liv, og vel at mærke et saligt Liv efter Døden, da maatte vi vel med mere Ret kalde os efter Hans Navn, end efter vore Forældres, hvem vi næst Gud, have at takke for det legemlige Liv, Men hvem kan det? Et Menneske vist nok ikke, han kan ikke stille sig selv tilfreds, end sige Andre, som alvorlig bekymres for Saadant. Faderens Eenbaarne, Jesus Kristus, Han kunde derimod, og af sin ubegribelige Kærlighed vilde Han, ikke allene love sine Troende, men med sin egen Pine og Død tilkøbe dem et evigt, saligt Liv
+<pb facs="1812_7_page0032.png"/>
+<fw type="pageNum">32</fw>
+Hvo som troer og bliver døbt. Han skal blive salig, men hvo som ikke troer, han skal fordømmes, det er hans kærlige og varslende Tale *). Nu døbes Børn rundt i Landene, og genfødes saaledes til Guds Rige, i det de indpodes i Kristo, derfor kaldes vi Kristne. . . Men I Elskelige! hvoraf vide vi, at Guds Enbaarne for henved 1800 Aar siden vandrede synlig, paa Jorden, leed og døde for os, Opstod og gav os den Herlige Forjættelse? Hvoraf, uden af den Bog, hvilken Sandhedens Helligaand oplyste de hellige Mænd til at skrive, af den Del i Bibelen, som heder det ny Testamente. Hvordan Besked vi nu vilde havt om Troens Sandheder, dersom de Mænd, der ved Underværker stadfæstede, at den Helligaand virkede med dem ikke havde opskrevet hvad vi havde behov at vide om Jesu Levnet og Lærdom, det kan vi slutte os til, ved at se hvordan det stod til Med kristelig Kundskab og Tro, da. Gud for 300 Aar siden opvakte sig en Tjener i Morten Luther. Kun i 300 Aar havde Bibelen dengang, været saagodt som glemt, og allerede var Det, Man kaldte Kristendom, blevet et saadant Væv af Drømme og Eventyr, at den som
+<pb facs="1812_7_page0033.png"/>
+<fw type="pageNum">33</fw>
+brugte sin Forstand, maatte slutte, det var Løgn tilhobe; saa at de Fattige i Aanden, de som hungrede og tørstede efter Retfærdighed, være hartad ligesaa ilde farne midt i Kristi Menighed, som om de havde levet mellem Tyrker og Hedninger. Det hjalp dem kun lidt at de hørte Fortællingen om Guds Søn, som havde været paa Jorden og lidt Pine og Død; thi at det kunde hjelpe til Syndsforladelse og Salighed, det havde Man af Vantro og Ondskab med Villie glemt; derimod heed det, at naar man opramsede en Hob Ord, Man ikke forstod, saa skulde Jomfru Marie og alle Helgene bede for dem, og naar de gave Almisser, meest til Kirker og Klostere, da kunde de vente at komme til Himmerig, naar de havde været i Skærsild, og der kunde Pinen forkortes, naar Præsterne fik Penge. Den Himmelvei, syntes magelig for de Ugudelige og Ubekymrede, men intet gudfrygtigt Sind kunde stilles tilfreds ved Saadant, for det var intet Raad uden at den barmhjertige Gud gav sine Børn, som fordum og nu de gudfrygtige Hedninger, en underlig Trøst i Andagtens Øieblikke, til den maatte de holde sig i Kamp og Anfægtning, i Nød og Død, men vidste ikke
+<pb facs="1812_7_page0034.png"/>
+<fw type="pageNum">34</fw>
+at gøre sig Regnskab for deres Haab, maatte derfor mangengang bedrøves i Sjælen og frygte for at de bedroge sig selv.</p>
+<p>Nu kom Luther, det var gaaet ham ligedan, men Gud føiede det saa, at han fik sin Bibel i Haand, og annammede Tro paa det guddommelige Ords Sandhed. I den sidste Tid være der ikke saa Faa mellem de Boglærde, som vidste, at Man indbildte menig Mand Løgne, ja at der i Bibelen stod ganske anderledes at læse, men enten fattedes de Troen, eller Kraften og Frimodigheden, Bibelen læstes kun paa et fremmedTungemaal, Lægfolk og menig Mand kunde for det Meste ei engang læse deres eget, og Bibelen var dem formeent. Men nu gik det anderledes, Luther udlagde Bibelen paa Folkets Maal, hans Modstandere turde ikke for Folkets Skyld sige at de ikke troede Bibelen, og de maatte da se Til at dreie dens klare Ord efter deres Løgn, men det hjalp kun lidt: I Ordet vist skal lade staa og kun faae Skam til Takke, det var Luthers Tale, og nu fik Alle, som vilde, egen Kundskab om Guds Raad til Salighed. Luther var da det store Redskab i Guds Haand, som igen oplod Bibelen, Kildevældet for det evige Livs visse Haab og det var intet Under om
+<pb facs="1812_7_page0035.png"/>
+<fw type="pageNum">35</fw>
+de, der skønnede paa den Velgerning, og de med, der vilde lade saa, Intet havde imod, at Man kaldte dem Lutheraner. Vist kunde det Navn og være en sømmelig Paamindelse om, hvad Tak de skyldte Gud, der ved Luther førte dem saa faderlig fra Mørket til sit underfulde Lys, en Paamindelse om, at de herefter bedre skulde være og vogte paa den hellige Bog, der gemmer Sandheden i usvigelige Ord.</p>
+<p>Ja, I Elskelige! Vist kunde det være passeligt, at de, ak vore Forfædre kaldtes Lutheraner, enddog den salige Mand heller vilde de skulde kalde sig evangeliske, det er bibelske Kristne, som var det samme med andre Ord, thi det sagde Luther aabenbarlig, jeg vilde ønske, at alle mine Bøger var brændte, førend de skulde holde et eneste Menneske fra at læse sin Bibel. Dog, det havde ingen Nød, Han satte gode Afvisere paa hvert Blad han skrev, som maatte drive hver Læser, der elskede Sandhed, til den Guldgrube, hvorfra han bekendte, at han selv havde hentet alt hvad der duede hos ham, og hvor der var Nok for alle at lede efter, til Verdens Ende. Men nu vi, I Elskelige! Hvorfor kaldes
+<pb facs="1812_7_page0036.png"/>
+<fw type="pageNum">36</fw>
+vi Lutheraner? jeg siger, vi kaldes, thi selv kalde vi os ikke længere saa, de sidste Boglærde skamme sig ved det Navn; Er det fordi de betænke, at vi ikke døbtes i Luthers Navn, og at ikke han, men Kristus er korsfæstet for os; er det fordi de betænke, at Luther var og et skrøbeligt Menneske, som imellem maatte tage Feil og har taget Feil af Skriftens rette Mening; er det af Omhyggelighed for Kristi Ære og Bibelens Myndighed? Nei tilvisse, derfor er det ikke, men hvergang de kaldes Lutheraner, er det som om Kristus raabte til dem om Luther, som Han sagde til Jøderne om Abraham: Vare I hans Børn, da giorde I hans Gerninger, men nu søge I at slaa mig Ihjel, det havde Luther ikke giort. Saa er det, og naar de turde for Folkets Skyld, som endnu Har en vis arvet Ærbødighed for Jesus og Bibelens Navne, da sagde de reent ud, hvad de Dristigste har sagt, at de ligesaalidt vilde hede kristne, sow Lutheraner, at de nok tro, der staaer megen Løgn i Bibelen, men ikke eet Ord, som er sandt <hi rend="spaced">fordi </hi>det staar der. Saadant er øiensynligt, thi det der forarger dem hos Luther, er netop det Samme, som Jesus og Hans Apostle har sagt med tydelige Ord. Vi har i Grunden ikke andet
+<pb facs="1812_7_page0037.png"/>
+<fw type="pageNum">37</fw>
+Vidnesbyrd behov end hvad de aabenbar sige, at en Ting er ikke sand fordi den staar i Bibelen, men fordi de med deres Forstand kun begribe at det er sandt; thi naar de da, for Folkets Skyld, maa sige, at Bibelens Ord er Sandhed, er det jo ligefrem, at de, ligesom Luthers gamle Modstandere, maa vende og dreie Ordene, til de faae deres egen Mening ud. Kunde de først faae menig Mand saa oplyste, at de heller ikke meente Noget var sandt, <hi rend="spaced">fordi </hi>det stod i Bibelen, da skulde de snart lægge den hellige Bog paa Hylden. Dog det er jo, saa at sige, allerede skeet; imod een</p>
+<p>Præst, der i Kirken <hi rend="spaced">stadfæster </hi>sine Ord med Bibelens, ere der i det mindste, tilvisse tyve, som enten aldrig bruge Bibelsprog, uden hvor de høit nødes til det, eller kun et Par Ord imellem, for at vise de Enfoldige, at det ogsaa staar der, eller, at det ikke er sandt, hvad Man har bildt dem ind om Kristi Guddom, og Forløsningen ved Ham, om den Helligaands Opslysning og Bistand og kort sagt, om alle de Sandheder, for hvis Skyld vi ene behøve Bibelen, da intet Menneske af sig selv kunde vide dem. Ja visselig maa Man med slette sige til de fleste Boglærde nuomtide, hvad Frelseren sagde til dem, der dengang forvilde-
+<pb facs="1812_7_page0038.png"/>
+<fw type="pageNum">38</fw>
+de Folket: Ve eder, I Skriftkloge, I have taget Kundskabs Nøgel, selv vil I ikke gaa ind og dem som vil, holde I ude!</p>
+<p>Det var nu dem, men saa de, som enddog de kaldes Boglærde ei kan læse et Ord af den fornemste af alle Bøger paa dens egne Tungemaal, saa Lægfolk og menig Mand, dem akn vi vel dog endnu kalde Lutheraner? Vare de Luthers Børn, da giorde de Luthers Gerninger, da randsagede de selv i Skrifterne, om ogsaa de Ting forholdt sig saaledes, som de der kalde sig Skriftkloge vil indbilde dem. Gør de nu det? Nei desværre intet mindre, og her ligger Grunden til al Elendigheden. Præster og Skriftkloge maatte være saa vantro, at de ikke troede der var en Gud til, de vilde dog nødes til at tale som Bibelen, naar Folket selv læste den flittig. Da skulde Ingen bilde dem ind, at Jesus sagde om sig selv, han var kun et Menneske, thi de hørte hans. Ord: Faderen og jeg ere Eet; ligesom Faderen opvækker Døde og gør Levende, saaledes gør og sønnen levende, <hi rend="spaced">hvem Han vil *); </hi>eller: Ingen kan fare op til Himmelen, uden Han, som nedfoer fra Himmelen Menneskens Søn, som <hi rend="spaced">er i Himmelen **), </hi>eller: Menneskens Søn skal</p>
+<p>*) Joh. 5.	**) Joh. 3.</p>
+<pb facs="1812_7_page0039.png"/>
+<fw type="pageNum">39</fw>
+<p>komme i Himmelens Skyer og alle hellige Engle med Ham, og Han skal sidde paa sin Herligheds Stol og alle Folk skal forsamles for Ham, og Han skal skille dem ad, som en Hyrde skiller Faarene fra Bukkene, og Han skal sige til dem ved sin høire Haand: kommer hid I min Faders Velsignede! arver Riget, som eder er beredt fra Verdens Grundvolde bleve lagde; men til dem ved den Venstre: gaar bort fra mig, I Forbandede! i den evige Ild, som er beredt til Djævelen og hans Engle*). Da skulde Ingen indbilde dem, at Lærdommen om Forløsningen var et Præstepaafund i de gamle dumme Dage, thi de hørte Jesum selv sige, at Gud Hengav sin Eenbaarne, for at hver som <hi rend="spaced">troer paa Ham </hi>ikke skal fortabes, men have det evige Liv **), at Menneskens Søn hengav sit Liv til en Ingenløsnings Betaling ***), at Han udøste sit Blod til Syndernes Forladelse. Da skulde de høre Ham love sine Apostle Sandheds Helligaand, som skulde ledsage dem til al Sandhed og forkynde dem de tilkommende Ting ****); og Ingen skulde snakke dem for, at det kun havde lidt at betyde, Hvad Apostlene sagde,</p>
+<p>*) Math. 25.	.	**) Joh. 3.</p>
+<p>***) Math. 2O.	****) Joh. 16.</p>
+<pb facs="1812_7_page0040.png"/>
+<fw type="pageNum">40</fw>
+<p>fordi de ikke forstode Jesus, og snakkede Jøderne efter Munden. Paulus skulde lære dem noget andet naar Han siger: fordi Verden af bare Klogskab ikke kendte Gud i Hans Visdom, saa behagede det Gud formedelst den daarlige Prædiken, at gøre dem salige, som tro; Jøderne elske Tegn og Grækerne elske Visdom, men vi prædike Kristum den Korsfæstede, som er <hi rend="spaced">Jøderne en Forargelse og Grækerne en Daarlighed</hi>; thi det Korsens Ord er vel dem en Daarlighed, som blive fortabte, men os, som blive salige, er det en Guds Kraft*); thi visselig, det er dog ikke at snakke Folk efter Munden, eller, som de kalde det, læmpe sig efter Tidsalderens Fordomme.</p>
+<p>Dog, hvad Nytter det at tale om, hvorledes vore Oldefædre kunde og vilde taget de nymodens Præster i Skole, dersom de havde levet sammen, det kunde ikke ske, thi Præsterne ere imellem de Sidste som foragte Bibelen; naar de gøre det, da er det Herren, som tager sit Lys bort, fordi hardtad Ingen vil glæde sig i dets Skin, fordi det forsømmes, forsmaaes og bespottes. Visselig, den Mand som ei vidste være af Bibelen, end hvad dog</p>
+<p>*) I Kor. I.</p>
+<pb facs="1812_7_page0041.png"/>
+<fw type="pageNum">41</fw>
+<p>de Fleste i deres Katekismus lære, og hvad de høre Præsten oplæse i Kirken, naar han , havde lagt det paa Hjerte, kunde godt holde Bog med sin Præst i de fleste Dele; men de bryde sig Lidt eller Intet om Guds Ord og deres arme Sjæles Salighed, det er Tingeln. De, som lægge sig efter Lov og Ret, efter Lægekonst og anden verdslig Kundskab, lade for det meste haant om Guds Ord, eller læse det dog aldrig; Købmænd og Haandværkere ere og for det meste saa kloge, at de veed, Bibelen er en dum gammel Bog; Bønderne passe deres Agre og deres Øren, Hellig og Løgn, gide ei hørt Ordet, mindre læst det, og endnu allermindst tænkt efter, hvad det kommer dem ved; de Dristigste og Ugudelige spotte aabenbar, thi det har de lært i Ølhus og Krambod, det lære Mange som Krigsfolk, ikke allene ved Krus og i Kippe, men af Øverster og, Hovedsmænd; hvor menig Mand endnu har, hvad Man kalder den gamle Tro, der er det mest kun, at Han mener, Gud skal gøre ham salig, naar han ikke kan være her længer, fordi Han troede, at Kristus har forløst ham, som Han troede saamangt et Eventyr, som Han aldrig tænkte paa, om det var Sandt eller Løgn, fordi Han
+<pb facs="1812_7_page0042.png"/>
+<fw type="pageNum">42</fw>
+gik til Kirke engang imellem for et Syns Skyld, og til Alters efter Sædvane. Saaledes staar det sig i Landene, og skal Man da kalde slige Folk Lutheraner, ja skal Man kalde dem Kristne? I hvilket Hus, uden i Præstens seer Man en Bibel? de Huse ere snart talte, og i de fleste af dem ere endda Møl, ei Mennesker, den hellige Bogs Gæster. Sandelig, det er kommet saavidt, at jeg er vis paa, der hist og her findes gudfrygtige Mennesker, som under Bekymringen for deres Sjæls Salighed ei veed, hvor de skal, hvor de tør søge Oplysning om Guds hemmelige Raad til Synderes Frelse, om Landet bag Graven. Føle de sig ogsaa i andægtige Øieblikke drevne til Bibelen, da skamme de sig hardtad for sig selv, ja de vilde skamme sig overmaade, hvis Nogen traf dem med den Hellige, foragtede Bog i Haand og kunde tænke, at de der søgte Trøst og Opbyggelse. Ja, være de end dristige nok til at foragte Saadant, maa de da ikke blive bange, naar de høre Skraalet af de selvgiorte Skriftkloge, om alle de Kundskaber, om at den Lærdom, der udkræves til at forstaa Bidelen, til at have Nytte, Istedenfor Skade, af den hellige Bogs Læsning? Maa de ikke i det mindste
+<pb facs="1812_7_page0043.png"/>
+<fw type="pageNum">43</fw>
+holde sig borte fra den lutherske Udlæggelse, og ty til Saadanne, hvot just det fattes, som de behøve, hvor Bibelens søde, enfoldige og klare Ord ere udvandede, opskruede, formørkede, ja mangengang forvanskede? Hvorfor kaldes vi da Lutheraner? Fordi vore Forfædre tænkte anderledes end vi, fordi de betænkte Jesu Ord, at det dog ikke kan nytte et Menneske, om han vandt den ganske Verden, naar han skulde tabe sig selv, tage Skade paa sin Sjæl, fordi de troede Luthers sandfærdige Tale om Bibelen og Kristus og giorde hans Gerninger. Troen og Kærligheden er forloret, kun Navnet have vi tilovers, som et sørgeligt Mindesmærke om Fædrenes Rigdom, om Rigdommnen, de sankede der, hvor hverken Rust eller Møl er tilhuse, og hvor Tyve ei komme, den Rigdom, de nu eie og beholde i Evighed der, hvor deres Borgerskab var og er, i Himlene, hos den Kristus, som beredte dem Værelser i Faderens Hus?</p>
+<p>Men, I Elskelige! hvad skal vi med det tomme Navn? Tro vi at vi ere klogere end Fædrene, at det er klogere Man bygger sig en Himmel paa Jorden af Øienslyst, Kødslyst og Livets Overdaadighed, og lader det komme an derpaa, om Gud vil tage os
+<pb facs="1812_7_page0044.png"/>
+<fw type="pageNum">44</fw>
+til sig, naar vi skal herfra, eller vise os derhen, hvor der er Graad og Tænders Gnidsel, hvor Ormen ikke døer og hvor Ilden ikke udslukkes *); nu vel, saa lader os bortkaste Navnet! Lader os male det paa Fædrenes Gravsteder, hvor det har hjemme! Lader os tage os et nyt Navn, der passer, der siger, Hvad vi vil være, hvem vi vil følge! Men hvor er et sådant Navn? Kristne kan vi ikke kalde os, thi Kristus tro vi ligesaa lidt som Luther, begges Navne bør vi kaste tilhobe, lade dem være samlede, som de var, da vore Fædre har dem, samlede, som Kristus og Luther ere i Faderens Hus. Hvo som foragter Den jeg sender, sagde Frelseren selv, han foragter mig, og hvo mig foragter, foragter Faderen, thi Faderen og jeg ere Eet. Intet Navn, som henviser paa Samfund med Gud eller Himlen, maa vi da vælge, thi vi vil jo raade os selv, styre os selv, Intet have med Gud at gøre, saalange vi leve, og kun tage mod Salighed efter Døden, som en fortjent Løn, Gud er nødt til at give os. Nu, saa lader os da vælge et af de mange Navne, hvormed vore kloge Mænds Bøger prale, lader os hede fri Fornuftvæsner, Verdens-</p>
+<p>* Marc. 9.</p>
+<pb facs="1812_7_page0045.png"/>
+<fw type="pageNum">45</fw>
+<p>borgere, eller allerhelst Jordborgere, thi det vil vi jo være, det vilde vi jo gerne blive i al Evighed, hvis det gik an! Men ladet os da ogsaa have Mod til at ligne os selv i alle Stykker, lader os med Kristi og Luthers Navne afskaffe Alt, hvad der minder om dem og om Himlen! Lad de Boglærde trættes om, hvem der imellem de dumme Jøder dog vare saa kloge, at de kunde digte de smukke Løgne, lad dem kives om, enten Kristus skal kaldes en Bedrager eller en Sværmer, om Han staar over eller under Mahomed, men vi vil dog ikke længere paa hans Ord lade vore Børn døbe i Faderens, Sønnens og Helligaands Navn vi vil dog ikke i Luthers Katechismus lade dem læse det Budskab om den treenige Gud og Jesu Forsoning, som Troens Artikle, vi vil dog ikke i Kirken uddele Velsignelsens Brød og Vin, som om disse vare Kristi Legems og Blods Samfund, ikke lade Præsterne sværge falskelig paa Bibelen og den lutherffe Troesbekjendelse? Vi vil tænke og leve efter vort eget Hoved, drages med Samvittigheden saagodt vi kan, indtil denne Verdens Skikkelse forgaar for det brustne Øie, og lade det komme derpaa an, om det, trods al vor Klogskab, skal oplukkes i Helvede, i Pinen, om det er
+<pb facs="1812_7_page0046.png"/>
+<fw type="pageNum">46</fw>
+sandt, hvad Jesus har sagt ved sin Tjener Johannes, at hvert Øie skal se Ham, ogsaa de, som gennemborede Ham ved Vantro og Ugudelighed, at Jordens Slægter skal hyle og jamre sig for Ham, naar Han kommer paa Guds Vredes den store, forfærdelige Dag, da Ingen kan bestaa, uden Den, der tør glæde sig ved Hans Lidelsers Samfund og Hans Opstandelses Kraft? *)</p>
+<p>Skal vi prøve dette Vovespil, hvor der spilles med en Evighed, med Dage uden Tal, Med Længde uden Ende; eller skal vi betænke os, søge Herren den Stund Han kan findes, og kalde paa Ham den Stund Han er nær; skal vi forlade de ugudelige Veie og de forfængelige Tanker, og omvende os til Gud, at Han kan forbarme sig over os? O ja, I Elskelige! lader os det! lader os ikke trodse Herren ; thi mon vi ere stærkere end Han? Lader os dog ikke mene, at vi kan foreskrive Gud hvad Han skal gøre, at vi, Støvets og øjeblikkets Børn, kun udgrunde vor Skabers urandsagelige Raad eller følge Ham paa Hans usporlige Veie! Lader os dog ikke glemme vore Synder og pukke paa den Guds Retfærdighed, som maa fordømme os! Lader os</p>
+<p>*) Aabenb. I og 6.</p>
+<pb facs="1812_7_page0047.png"/>
+<fw type="pageNum">47</fw>
+<p>Dog høre efter, om Samvittigbeden ikke siger det samme, som Skriften: forbandet er hver den, som ikke gør <hi rend="spaced">alle </hi>de Ting, som Loven byder! Lader os dog overveie, om vi have givet Herren Noget, som efter Døden skulde betales os! Lader os bekende angergivne: Herre, vi Have syndet med vore Forfædre, vi have mishandlet og havt os ugudelig! Lader os bede ydmygelig: Herre, handle ikke med os efter vore Synder, og betal os ikke efter vore Misgerninger! Lader os lukke redelig til Gud om Lys, o! da skal Han lade det skinne i vore Hjerter, saa vi erkende Guddomsklarheden i Jesu kristi Aasyn*), da skal Han ved sin Helligaand give os den Forstand, at Hans Ord er Sandhed, da skal Døden miste sin Braad og Graven sin Rædsel; da skal vi være Lutheraner, om vi end ikke kaldes saa; da skal vi med Rette kaldes efter Kristi Navn og Han skal kendes ved os for sin Fader og alle Hans Engle, naar Han kommer at blive herlig i sine Hellige, og forunderlig i alle dem, som tro! **) O! prøver det engang, at bede alvorlig til Lysenes Fader! Det er dog vel ingen Skam at bede til sin Skaber, at ydmyge sig for sin Dommer! Det er dog vel</p>
+<p>*)2 Kor. 4. **)2 Theff. I.</p>
+<pb facs="1812_7_page0048.png"/>
+<fw type="pageNum">48</fw>
+<p>Umagen værd at faae at vide, om de Selvkloge have Ret, som sige, at Gud ei Hører Bønner, eller Jesus, som vidnede, at den himmelske Fader giver alle dem sin Helligaand, som bede Ham derom *). O, det gælder jo dog om Fred og Trøst og Haab i Trængsler og Angester i Nød og Død, ja om en Evigheds Glæde eller Kval. Naar I saaledes have bedet ydmygelig med Sandhedskærlighed, spotter mig da, om I kan, om I vil! - Og om endelig I, Mine Brødre i Embede og Tro! I, som viedes til ordets Tjenere og tro Ordet, o! lader os dog aldrig glemme, hvorfor vi kaldes Lutheraner; lader os gaa frem i Luthers Aand; thi det er i Guds; stride mandelig og forstyrre Befæstninger, som ophøie sig mod Guds Ord! Lader os med dette Aandens Sværd, hvis urderlige Kraft, til at saare og læge, vi selv Have fornummet, gaae i aaben Feide Mod alt Ondt, mod Hykleri og Sjæledorskhed, som mod Forargelse og aabenbar Vantro! O, lad dog ei Menneskefrygt og timelig Omhyggelighed binde vor Tunge! lad Ingen indbilde os, at Fordærvelsen ei er saa stor, at vi behøve at støde i Basune! Se vi det ikke for vore</p>
+<p>*) Luc. II.</p>
+<pb facs="1812_7_page0049.png"/>
+<fw type="pageNum">49</fw>
+<p>Øine, hvor Lasten gaar omkring med sin frække Pande, hvor Liderlighed bryster sig, hvor Egennytten trodser, hvor Overdaadigheden udmarver? Høre vi det ikke, hvor høit der spottes med Gudsfrygt og Dyd, se vi ikke Kirkerne tomme, Menneskene kolde og Bibelen i støvet? Hvergang vi fristes til at mene, at der er ingen Nød paafærde, da lader os betænke, at netop denne Mening er det usvigeligste Kendemærke paa Tidens dybe Fordærvelse. Verden ligger altid i det Onde, der er altid Nød paafærde; hvor Gud bygger sig en Kirke, reiser Satan flux sin Synagoge derhos *), og naar derfor Zions Vægtere blive som stumme Hunde, da er det Tegn til, at selv de ere blevne lunkne, og hvor er da Varmen? Da er det Tegn til, at de maa vente sig stor Modsigelse og Vrede, Spot og Laiten og Forfølgelse, hvis de opløfte Røsten; men er det da ikke høi Tid at tale, at raabe af Struben? Jo, visselig, det er den sidste Time, og tie vi, da skal der i den næste Slægt end ikke findes Præster som tro.</p>
+<p>Tænke I kanste, at Tale ei nytte? om nu saa var, hvad da? vil Keppen trættes med</p>
+<p>*) Luthers Ord.</p>
+<pb facs="1812_7_page0050.png"/>
+<fw type="pageNum">50</fw>
+<p>den som løfter den? dertil ere vi satte, dertil ere vi kaldte med saa helligt et Kald, der vi døbtes, der vi lagde os efter boglig Konst, der vi viedes til det skrevne Ords Tjenere. Og hvad om Nytte at tale? er det os da til ingen Nytte at vi redde vore egne Sjæle? Siger ikke Herren til os alle, som til Profeten: advarer du ikke den Ugudelige, da skal han dø i sin Misgerning, men hans Sjæl vil jeg kræve af din Haand, men advarer du ham og han dog ikke omvender sig, da skal han dø, men du, Du har reddet din Sjæl *). Behøves der anden Spore for en troende Præst til at tale som Guds Ord, uden Sky til Faa eller Mange som Herren forlenede Kraft? Og hvad siger Kærlighedens Lov? siger den ikke: elsk din Næste som dig selv! Skal denne Kærlighed kun være til Næstens Legeme, og ikke til hans udødelige Sjæl. Ja, for dog at sige Alt, mene I, at Gud havde sat os her med Tro i Hjerte og Tunge i Mund, dersom der ikke var en Eneste, som vilde agte paa vor Tale i Herrens Navn? Og da, I Elskelige! hvo som omvender en Broder fra hans vildfarende Vei, han har frelst en Sjæl fra Døden; hvor er det Troende Hjerte, som ikke op-</p>
+<p>*) Ezech. 33.</p>
+<pb facs="1812_7_page0051.png"/>
+<fw type="pageNum">51</fw>
+<p>fyldes med hellig Glæde ved Tanken ? og hvormange vildfarende Brødre mene I ikke der er nuomtide, hvis Hjerter ikke ere onde, men som forførtes af Verdens Tryllefløite, henreves af Tidens Malstrøm! Jeg veed der er imellem eder, Herrens Navn være lovet! troende Mænd, som fik Indsigt og Mæle til at raabe gennem det store Talerør, som Gud skænkede sit Ord, der Han vilde opvække Luther; Fienden har nu tudet derigennem enstund, det er høi Tid, at han drives paa Flugten og giver Plads for Herrens Tjenere Men hvi nøle I da, hvi komme I ikke frem? Ere I bange for at drages med ham? er Han i eder nu ikke længere større, end han i Verden; er Aandens Sværd blevet rustet, er Troens Skjold blevet hullet, kan Saliggørelsens Hjelm ei holde Hovedet i Veiret? Nu vel, Han som gav Rustningen mægter vel at størke og lave den igen, og I har dog vel ikke glemt, hvor Han boer; I veed dog vel, at der for det troende Hjertes andægtige ønner er en slagen Kongevei til hans hellige Borg, og at de aldrig komme tomme tilbage! O, I Elskelige! lader eders Sendebud færdes paa denne Vei, som Jesus lagde der Han opfoer, lader dem færdes der aarle og silde; da skal I vel vorde udrustede med
+<pb facs="1812_7_page0052.png"/>
+<fw type="pageNum">52</fw>
+det som eder fattes; thi hvad er det dog andet end ret brændende Kærlighed til Gud, Hans hellige Ord og de vildfarende Brødre, og Frimodighed til at gaae Fjenden under Øine, at høre uforfærdet paa Djævlelatteren, og om det skulde gælde, sige Farvel til det Timelige, til Gods eller Ære eller Liv!</p>
+<p>Men, vil I ikke ved Bønnen søge den Hjelp, som er af Gud til at kunne staa for Høie og Lave og vidne om Kristus, nu vel! saa vider kun dette, at Frelseren vil skamme sig ved eder, fordi I skammede eder ved Ham og Hans Ord, at hvo som elsker Forældre eller Venner, Gods eller Ære eller Liv mere end Ham, er Ham ikke værd! jeg vil i Herrens Navn se til, ved den Helligaands naadefulde Bistand at redde min Sjæl, og holde den Eed jeg svor for Guds Aasyn, der jeg blev hans viede Tjener, at stride, om det saa var til Blodet, for Hans hellige Ord. Vel er det tungt for Kød og Blod, men det maa ikke hjelpe, naar det kniber allerhaardest, tænker jeg, Gud lader mig komme Dagens hellige Evangelium ihu: Salige ere I, naar Man bespotter og forfølger eder, og taler allehaande ondt om eder for min Skyld, og <hi rend="spaced">lyver det</hi>! Glæder og fryder eder; thi eders
+<pb facs="1812_7_page0053.png"/>
+<fw type="pageNum">53</fw>
+Løn skal være stor i Himmelen, og de have saa forfulgt Profeterne, som være for eder." Slig Tale, haaber jeg, skal muntre mig til at synge med den salige Luther:</p>
+<lg>
+<l>Und wenn die Welt voll Teufel war,</l>
+<l>und wolt uns gar versehlingen,</l>
+<l>so fürchten wir uns nicht so sehr,</l>
+<l>es soll uns doch gelingen;</l>
+<l>der Fürst dieser Welt</l>
+<l>wie sauer er sich stellt</l>
+<l>thut er uns doch nicht,</l>
+<l>das macht, er ist gericht.</l>
+<l>ein <hi rend="spaced">Wörtlein</hi> kann ihn föllen.</l>
+</lg>
+<lg>
+<l><hi rend="spaced">Das Wort sie sollen lassen stahn.</hi></l>
+<l>und kein Dand dasu haben;</l>
+<l>Gott ist mit uns woht auf dem Plan</l>
+<l>mit seinem Geist und Gaben; .</l>
+<l>nehmen sie uns den Leib,</l>
+<l>Gut, Ehr, Kind und Weib,</l>
+<l>lass fahren dahin,</l>
+<l>sie habens kein Gewinn,</l>
+<l><hi rend="spaced">has Reich muss uns doch bleiben.</hi></l>
+</lg>
+<fw type="graphic"/>
+<p><hi rend="initial">Æ</hi>re være Dig, Gud Fader, søn og Helligaand! som været haver for Dagenes Begyndelse, endnu er og bliver evindelig en sand treenig Gud. Læg Kraft
+<pb facs="1812_7_page0054.png"/>
+<fw type="pageNum">54</fw>
+og Velsignelse til Dit Ord, Som er talet! Lad det opvække de Sovende, styrke de Stridende, oplyse de Blinde og husvale de Bedrøvede! Bevar din Menighed, Saa Helvedes Porte aldrig faae Overhaand; straf os ikke i din Vrede, og borttag ikke det hellige Lys, enddog, det forsmaaes og bespottes iblandt os; men lær os at bedrøves over vore forbigangne Synder, og skænk os da Hyrder efter dit Hjerte, som med Kraft og Frimodighed forkynde det saliggørende Ord reent og uforfalsket, og smykke Lærdommen med et opbyggeligt Levnet i Ymyghed, Sagtmodighed, Taalmodighed og brændende broderlig Kærlighed! Beskyt dine Tjenere, Konger og Fyrster, og alle dem som er satte i Høiheden? lær os at lyde dem ikke for Straffens men for Samvittighedens Skyld, og at bære taalig alle Byrder uden Syndens! Bøi du deres Hjerter til din Frygt; lad dem huske, at deres Troner staa paa dine Fødders Fodskammel, og at ogsaa de have en Herre i Himlen, hos hvem der er ingen Persons Anseelse! O, lad Konger igen være din Kirkes Fosterfædre og Dronninger dens Ammer! Gud! vær du de Faderløses Fader, Enkers Forsvar, Betrængtes Hjelper og Fattiges Forsørger! O! er det muligt, da lad det blodige Sværd skjule sig i Balgen, saa vi igen maatte leve et roligt og stille Levnet i al Gudelighed og Ærbarhed, men fornemmelig, o Naadens Gud! lad os stride den gode Strid, fuldkomme Løber og bevare Troen,
+<pb facs="1812_7_page0055.png"/>
+<fw type="pageNum">55</fw>
+indtil vi ved din Aands Bistand have overvundet dm sidste Fiende, Som er Døden, og komme did, hvor Tro, Haab og Kærlighed evindelig har hjemme! Bønhør os, vi bede, Som du bød, ydmygelig i Jesu Navn til dig, vor Fader.</p>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

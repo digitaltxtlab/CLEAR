@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Nytaars-Ønske</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-23"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="032"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1853">1853</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1853_32_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main"><lb/>Nytaars-Ønske</titlePart>
+	<titlePart type="sub"><lb/></titlePart>
+</docTitle>
+<byline>
+	<docAuthor></docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<docImprint>
+				<pubPlace></pubPlace>.
+<fw type="graphic"/>
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+</div>
+<div>
+<head>Nytaars-Ønske</head>
+<fw type="graphic"/>
+<lg>
+<l>Fra det Dybe maa opstige</l>
+<l>Ønsket, som er Øret værd,</l>
+<l>Fra det høie Himmerige</l>
+<l>Nule Hund vi saane her.</l>
+</lg>
+<lg>
+<l>Gid da gamle <hi rend="spaced">Danmarks Rige</hi>,</l>
+<l>Grads var Sovesalighed,</l>
+<l>Og trods alle Tyrkekrige,</l>
+<l>Frit opblomstre maa i Fred!</l>
+</lg>
+<lg>
+<l>Gid huer Landfar-Sat tillige,</l>
+<l>Udenfor og indentil,</l>
+<l>Maa tra vore Grændser vige,</l>
+<l>Under Livets Klokkespil!</l>
+</lg>
+<lg>
+<l>Gid i Graven maa nedstige</l>
+<l>Al den gamle Asselhed,</l>
+<l>Nyt og Godt paa Jorderige</l>
+<l>Vinde Mu og Lys derned!</l>
+</lg>
+<lg>
+<l>Gid saa fra de Dødes Rige,</l>
+<l>Om end Midnats-Hanen goel,</l>
+<l>Gienfærd aldrig meer opstige,</l>
+<l>Mens for Øine vi har Sol!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+<fw type="graphic"/>
+</div>
+</body>
+</text>
+</TEI>

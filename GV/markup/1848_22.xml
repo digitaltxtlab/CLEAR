@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Hovedstadens ellevte Valgkreds.</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-25"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="022"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1848">1848</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1848_22_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Til<lb/>de stemmegivende Herrer<lb/>i<lb/>Hovedstadens ellevte Valgkreds.</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<p><hi rend="bold"><hi rend="initial">P</hi>røve-Valget</hi>, Mikkelsdag, faldt faa særdeles gunstig ud for mig, at jeg paa den <hi rend="bold">afgjørende Valgdag</hi> umuelig kan stille mig i nogen anden Kreds, ikke heller kan jeg fole mig fristet dertil, da jeg aldrig kan ønske mig enten et glædeligere eller ærefuldere Valg til den <hi rend="bold">Danske Rigsdag</hi>, end i den Kreds, hvor de ædle, berømte og trofaste <hi rend="bold">Danske Sømænd</hi> gjør udslaget.</p>
+<p>Jeg maa imidlertid venligst bede alle de hæderlige Mænd, som enten ved Prøve-Valget aabenbar gav mig Deres Stemme, eller som dog af Hjertet under mig den, ogsaa paa den <hi rend="bold">afgjørende Valgdag</hi> at paatage sig den Uleilighed, det er at møde, at tøve, at høre nøje efter og stemme kjendelig; thi da vi nu kun er to Medbellere, imellem hvem alle Stemmerne skal dele sig, saa kan jeg muligviis ikke undvære en eneste Stemm af alle dem, de <hi rend="bold">Danske Sømænd</hi> har skjænket eller vil skjænke mig. De veed, jeg stoler paa <hi rend="bold">Dem</hi>, og jeg veed, at De har undt mig Deres Stemme, fordi De <hi rend="bold">troer</hi>, jeg er en 
+<pb facs="1848_22_page0002.png"/>
+<fw type="pageNum"></fw>
+ærlig, oplyst og uforfærdet <hi rend="bold">Dannemand</hi>, der paa <hi rend="bold">Rigsdagen</hi> baade kan og vil tale <hi rend="spaced">Deres</hi> og hele <hi rend="spaced">Danmarks</hi> Sag, paa <hi rend="spaced">Dansk</hi>, reent ud af Posen, saa det vilde gjøre Dem to Gange ondt, om jeg tilsidst skulde blive over-<hi rend="bold">stemt i Deres Valgkreds</hi>, som udentvivl er den <hi rend="bold">Danskeste</hi> i hele <hi rend="bold">Danmark</hi>!</p>
+<p><hi rend="bold">Hermed</hi> mit Hjertes <hi rend="bold">Cak</hi> for delt ærefulde Tillid, og for hver Stemme, som udtrykte eller stal udtrykke den; og hermed mit <hi rend="bold">Ord</hi>, som jeg, gjennem et langt, velbekjendt Levnetsløb, aldrig vitterlig brød, at, kommer jeg paa <hi rend="bold">Rigsdagen</hi>, da stal jeg staae eller falde som en <hi rend="bold">Mand</hi>, for de <hi rend="bold">Danske Sømænd</hi> og for Alt, hvad der, efter min bedste Overbeviisning, er gavnligt, glædeligt og ærefuldt for gamle <hi rend="bold">Danmark</hi> "lukt med <hi rend="bold">Bølgen blaa</hi>!"</p>
+<p>ærbødigst og venligst 30. September.</p>
+<p>Trykt hos J. D. Qvist.</p>
+</div>
+</body>
+</text>
+</TEI>

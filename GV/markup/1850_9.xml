@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Seiers-Torsdagen</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-18"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="009"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1850">1850</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1850_9_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Seiers-Torsdagen</titlePart>
+	<titlePart type="sub">i Juli 1850.</titlePart>
+</docTitle>
+<byline>Af<lb/>
+	<docAuthor>N. F. S. Grundtvig</docAuthor>
+				</byline>
+				<epigraph>
+				</epigraph>
+				<fw type="graphic"/>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+				<pubPlace>Kjøbenhavn</pubPlace>Trykt hos J. D. Qvist, Bog- og Nodetrykker.<lb/>
+<fw type="graphic"/>
+<docDate></docDate>.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div> 
+<pb facs="1850_9_page0002.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l><hi rend="initial">J</hi>eg gik mig ud en Sommerdag at høre</l>
+<l>Fuglesang, som Hjertet kunde røre,</l>
+<l>I de dybe Dale,</l>
+<l>Mellem Nattergale,</l>
+<l>Og de andre Fugle smaa, som tale.</l>
+</lg>
+<lg>
+<l>Men der var ingen Fuglesang at høre,</l>
+<l>Tordenskrald kun dundred i mit Øre,</l>
+<l>Under Lyn og Torden</l>
+<l>Blussed, bæved Jorden,</l>
+<l>Det var som en Dommedag i Norden.</l>
+</lg>
+<lg>
+<l>Og overalt der var kun Ynk at skue,</l>
+<l>Blomster smaa, de stod og græd paa Tue,</l>
+<l>Taarer stod i Strømme,</l>
+<l>Danske Hjerter omme</l>
+<l>Kunde ei i Graad den Ynk udtømme.</l>
+</lg> 
+<pb facs="1850_9_page0003.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Jeg gik mig ind med Sorgen i mit Kammer,</l>
+<l>Sukked dybt til Gud for al den Jammer,</l>
+<l>For de blege Kinder,</l>
+<l>For de Danske Kvinder,</l>
+<l>For de Liljer, Roser og Kjærminder.</l>
+</lg>
+<lg>
+<l>Da kom en Engle-Røst der til mit Øre:</l>
+<l>Gak kun ud! saa faaer Du Sang at høre</l>
+<l>I de grønne Sale,</l>
+<l>Mellem Nattergale,</l>
+<l>Og de andre Fugle smaa, som tale.</l>
+</lg>
+<lg>
+<l>Jeg gik mig ud i Sommer-Aftenstunden,</l>
+<l>Alt var klart, og tonefuld var Lunden,</l>
+<l>I de grønne Sale,</l>
+<l>Mellem Nattergale,</l>
+<l>Sad en lille Fugl, som kunde tale.</l>
+</lg>
+<lg>
+<l>Den lille Fugl, han kom fra <hi rend="spaced">Stendrup-Skoven</hi>,</l>
+<l>Sang saa smaat: jeg fim mig over Voven;</l>
+<l>Høirød er min Vinge,</l>
+<l>Nyt jeg har at bringe,</l>
+<l>Sødt det skal i <hi rend="spaced">Danske</hi> Øren klinge.</l>
+</lg> 
+<pb facs="1850_9_page0004.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Det er forbi med Bulderet og Braget,</l>
+<l>Nu idag stod <hi rend="spaced">Holger-Danske-Slaget</hi>;</l>
+<l>Trolden, han er bundet,</l>
+<l><hi rend="spaced">Sønder-Jylland</hi> vundet,</l>
+<l>Danmark har sin gamle Grændse fundet.</l>
+</lg>
+<lg>
+<l>Det <hi rend="spaced">Danske Folk</hi> til <hi rend="spaced">Eideren</hi> skal høre</l>
+<l>Fuglesang, som Hjerterne kan røre</l>
+<l>I de dybe Dale,</l>
+<l>Mellem Nattergale,</l>
+<l>Og de andre Fugle smaa, som tale.</l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

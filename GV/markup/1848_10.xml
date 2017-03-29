@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="da">
+	 <teiHeader> 
+		<fileDesc>
+			<titleStmt>
+				<title>Det Danske Paaske-Offer</title>
+				<author>Nik. Fred. Sev. Grundtvig</author>
+				<respStmt>
+					<resp>Generated <date when="2010-01-25"/></resp>
+					<name>BookPartnerMedia</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition n="010"/>
+			</editionStmt>
+			<publicationStmt>
+				<date when="1848">1848</date>
+			</publicationStmt>
+			<sourceDesc>
+			<p>[Source decription]</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+			<pb facs="1848_10_page0001.png"/>
+			<fw type="pageNum"></fw>
+				<docTitle>
+	<titlePart type="main">Det Danske<lb/>Paaske-Offer<lb/>En Dansk Trøstesang.</titlePart>
+</docTitle>
+<byline></byline>
+				<epigraph>
+				</epigraph>
+				<docEdition></docEdition>
+				<fw type="graphic"/>
+				<docImprint>
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div>
+<head>Mel. Kommer hid, I Piger smaa.</head>
+<fw type="graphic"/>
+<lg>
+<l><hi rend="initial">K</hi>ommer, alle Moders Børn!</l>
+<l>Deler Moders Smerte!</l>
+<l>Brødrene dm sorte Ørn</l>
+<l>Hakked dybt til Hjerte,</l>
+<l>Graadig drak han deres Blod,</l>
+<l>Faaer dog ei det Løvemod,</l>
+<l>Som er Dam-Arven!</l>
+</lg>
+<lg>
+<l>Dronning er vor Moder huld,</l>
+<l>Foder <hi rend="bold">Konge-Sønner</hi>,</l>
+<l>Dem kun Hjertets røde Guld:</l>
+<l>Kjærlighed belønner;</l>
+<l>Vugget blev de i dens Skjød,</l>
+<l>Favned den i Liv og Død,</l>
+<l>Skal i den og hvile!</l>
+</lg> 
+<pb facs="1848_10_page0002.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Altid i det høie Nord</l>
+<l>Skal nu Dannevirke</l>
+<l>Æres som et <hi rend="bold">Alterbord</hi></l>
+<l>I vor Moders Kirke;</l>
+<l>Der opoffred sig med Priis</l>
+<l>Kongebørn i Hundredviis:</l>
+<l>Dronning Dagmars Sønner!</l>
+</lg>
+<lg>
+<l>Ingen Sone, ingen Vod</l>
+<l>Ørnen os kan byde,</l>
+<l>For den Strent af Kongeblod,</l>
+<l>Halt med Lyst faae flyde;</l>
+<l>Hvor han boer paa høien Hald,</l>
+<l>Moders Taarer uden Tal</l>
+<l>Han for intet regner!</l>
+</lg>
+<lg>
+<l>Høiere end nogen Ørn</l>
+<l>Bygge kan og stige</l>
+<l>Voer dog Han, som elsker Vorn,</l>
+<l>Gud i Himmerige,</l>
+<l>Loven som et Offerlam</l>
+<l>Dufter altid sødt for Ham,</l>
+<l>Taarer Halt mon tælle.</l>
+</lg>
+<lg>
+<l>Lyn har Han til Sendebud,</l>
+<l>Tolke for sin Vrede,</l>
+<l>De gik ind og de gik ud</l>
+<l>For i Ørnens Rede,</l>
+</lg> 
+<pb facs="1848_10_page0003.png"/>
+<fw type="pageNum"></fw>
+<lg>
+<l>Kommer de engang endnu,</l>
+<l>Kommes dm ei meer ihu</l>
+<l>Mellem Himlens Fugle.</l>
+</lg>
+<lg>
+<l>Men saalænge lyseblaa</l>
+<l>Groe hos os Kiærminder,</l>
+<l>Og saalænge Taarer smaa</l>
+<l>Perle her paa Kinder,</l>
+<l>Lønnes skal vort Lovekuld</l>
+<l>Med vort Hjertes rode Guld,</l>
+<l>Kjærligt Eftermæle!</l>
+</lg>
+<lg>
+<l>Og saalænge Bølgen blaa</l>
+<l>Sig om Marken slynger,</l>
+<l>Og saalænge Lærken graa</l>
+<l>Over Heden synger,</l>
+<l>Himlens Gud hver Smertepiil</l>
+<l>Bryder med et Englesmiil</l>
+<l>I vor Moders Hjerte!</l>
+</lg>
+<lg>
+<l><hi rend="spaced">Dannevirkes</hi> Offerlam,</l>
+<l><hi rend="spaced">Løver</hi> ei desmindre!</l>
+<l>Ja, I dufte sødt for Ham,</l>
+<l>Som seer helst det Indre,</l>
+<l>Og hos Ham i <hi rend="spaced">Fredens</hi> Havn</l>
+<l>Eders <hi rend="spaced">Moder</hi> har til Navn</l>
+<l><hi rend="spaced">Himmelens Deninde</hi>!</l>
+</lg>
+<p><hi rend="align(right)">N. F. S. Grundtvig.</hi></p>
+</div>
+</body>
+</text>
+</TEI>
