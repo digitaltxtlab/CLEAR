@@ -66,7 +66,7 @@ added demotools for yes, tools that we want to demonstrated
 
 ---
 3/29/2017
-Repo reorganization. 
+Repo reorganization.
 
 Make parent folders for each data source, each containing a folder for plain, markup and metadata.
 
@@ -77,3 +77,8 @@ Make internal folder for e.g. tasklist.md, documetation.md and mess.
 ---
 3/30/2017
 Add provider documentation markdown files containing basic information on each data provider in the parent folders for ADL, BSL, GV and LB.
+
+---
+4/2/2017 - Zehui
+
+Add preprocessing module, tokenizer and re_nalpha is within it
