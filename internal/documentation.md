@@ -82,3 +82,9 @@ Add provider documentation markdown files containing basic information on each d
 4/2/2017 - Zehui
 
 Add preprocessing module, tokenizer and re_nalpha is within it
+
+Plan for the last couple of weeks:
+
+1.try to work on  **basic_stats module**
+
+2.go back to **generate.py, extract_text.py and extract_meta.py**
