@@ -88,3 +88,14 @@ Plan for the last couple of weeks:
 1.try to work on  **basic_stats module**
 
 2.go back to **generate.py, extract_text.py and extract_meta.py**
+
+---
+4/8/2017 - Zehui
+
+Finish  **basic_stats module**
+
+Plan for the future
+
+1.try to work on **information_retrieval module**
+
+2.modify **generate.py, extract_text.py and extract_meta.py**
