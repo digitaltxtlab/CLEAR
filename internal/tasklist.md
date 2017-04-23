@@ -140,6 +140,15 @@ def vanilla_lemmatizer(unigrams):
 ['a','and','is','rose','stone']
 ```
 
+- Fix tools/scripts_py/generate.py so that it works again (repo has been reorganized since it was made). It gives this error:
+$ python generate.py Grundtvig
+Traceback (most recent call last):
+  File "generate.py", line 50, in <module>
+    file_list=creat_file_list(author_name)      #       get     file list
+  File "generate.py", line 39, in creat_file_list
+    fh=open(des_pos)
+IOError: [Errno 2] No such file or directory: 'C:\\Users\\Line\\Documents\\CLEAR\\tools\\ADL_metadata.txt'
+
 
 ## Line & Zehui ##
 1. Always document your progress in documentation.md in CLEAR
