@@ -99,3 +99,10 @@ Plan for the future
 1.try to work on **information_retrieval module**
 
 2.modify **generate.py, extract_text.py and extract_meta.py**
+
+---
+4/23/2017 - Line
+
+Add comments and more examples to tutorial.md
+
+Rename tutorial.md to cmd_generate.md and move it to CLEAR/tutorials
