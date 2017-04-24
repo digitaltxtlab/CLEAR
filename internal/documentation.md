@@ -106,3 +106,7 @@ Plan for the future
 Add comments and more examples to tutorial.md
 
 Rename tutorial.md to cmd_generate.md and move it to CLEAR/tutorials
+---
+4/24/2017 - Zehui
+
+Fix the behaviour of n-gram tokenizer in preprocessing module
