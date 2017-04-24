@@ -19,19 +19,16 @@ def tokenizer(text,size=1):
 	else:
 		temp_list = []
 		temp_size = 0
-		for i in range(len(result_size1)/size):
-			temp_str = ''
+		for i in range(0,len(result_size1)-size+1):
+			temp_str=''
 			for j in range(size):
-				temp_str = temp_str +" "+ result_size1[temp_size]
-				temp_size +=1
+				temp_str = temp_str+" "+ result_size1[temp_size+j]
 			temp_list.append(temp_str[1:])
-		# add redundant string to the end of the list
-		for i in range(temp_size,len(result_size1)):
-			temp_list.append(result_size1[i])
+			temp_size += 1
 		return temp_list
 
 #this is a test, please remove if not needed
-#s = 'you looks so great and so beautiful'
-#print tokenizer(s,3)
+s = 'you looks so great and so beautiful'
+print tokenizer(s,3)
 #s = 'this is f@*cking cool!!!'
 #print re_nalpha(s)
