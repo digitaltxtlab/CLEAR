@@ -110,3 +110,7 @@ Rename tutorial.md to cmd_generate.md and move it to CLEAR/tutorials
 4/24/2017 - Zehui
 
 Fix the behaviour of n-gram tokenizer in preprocessing module
+---
+4/25/2017 - Zehui
+
+Fix generate.py resolving platform dependent problem and strange character problem, but user can't type in the author's name containing æ, ø ,ë and å in terminal, instead, they should type the user's name in the script
