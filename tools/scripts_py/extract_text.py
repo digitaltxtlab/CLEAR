@@ -7,6 +7,7 @@ class textHandler(ContentHandler):
         sys.stdout.write(ch.encode("UTF-8"))
 ##this function will take two arguments, one is the source_folder containing all the xml file
 ##the other is the destination directory you use to store the output text
+##the name of invalid xml file will be printed to the terminal after finishing converting
 def convert_to_text(source_file,des_file=os.getcwd()):
 	parser = xml.sax.make_parser()
 	handler = textHandler()
@@ -20,18 +21,22 @@ def convert_to_text(source_file,des_file=os.getcwd()):
 	os.mkdir("txt_output");
 	des_pos=os.path.join(des_file,"txt_output")
 	os.chdir(des_pos)
+	invalid_filename = []
 	for filename in file_list:
 		filepath = os.path.join(source_file,filename)
-		print filepath
-		parser.parse(filepath)
-		temp = string.replace(filename,".xml",".txt")
-		des_file_temp = os.path.join(des_pos,temp)
-		orig_stdout = sys.stdout
-		f = file(des_file_temp, 'w')
-		sys.stdout = f
-		parser.parse(filepath)
-		sys.stdout = orig_stdout
-		f.close()
+		try:
+			parser.parse(filepath)
+			temp = string.replace(filename,".xml",".txt")
+			des_file_temp = os.path.join(des_pos,temp)
+			orig_stdout = sys.stdout
+			f = file(des_file_temp, 'w')
+			sys.stdout = f
+			parser.parse(filepath)
+			sys.stdout = orig_stdout
+			f.close()
+		except:
+			invalid_filename.append(filename);
+	print invalid_filename
 ## use sigal quote to type in the source dir and destination dir in as command line arguments 'F:\2017\scan_modern\TEST2\GV\markup'
 if __name__=='__main__':
 	if (len(sys.argv)==3):
@@ -40,3 +45,4 @@ if __name__=='__main__':
 		convert_to_text(sys.argv[1])
 	else:
 		print("Invalid input argumnets")
+	# convert_to_text(r"F:\2017\scan_modern\TEST2\GV\markup")
