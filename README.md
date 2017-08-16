@@ -1,5 +1,15 @@
 # **CLEAR** | ComputationalLitErAry Repository #
 
+## Sources ##
+
+| Folder | Source | Language(s) |
+| - | - | - |
+| ADL | [Arkiv for Dansk Litteratur](http://adl.dk) | DA |
+| BSL | [bokselskap.no](http://bokselskap.no) | NB,  NN |
+| GV | [Grundtvigs Værker](http://www.grundtvigsværker.dk/) | DA |
+| LB | [Litteraturbanken](http://litteraturbanken.se/) | SV |
+
+
 ## Usage ##
 
 ## Contributing ##
