@@ -1,7 +1,6 @@
 #coding=utf-8
 import os, sys, shutil, string, re
-reload(sys) 
-sys.setdefaultencoding("utf-8")
+import codecs
 #this script is used to get all the files written by a certain author
 #you can do so by typing in the name of the author and run this script,
 #the author name is the third column of the metadata 
@@ -39,20 +38,21 @@ def	creat_file_list(author_name):
 	cwd=os.getcwd()
 	parent_path = os.path.dirname(os.path.dirname(cwd))
 	des_pos=os.path.join(parent_path,"ADL","metadata","ADL_metadata.txt")
-	fh=open(des_pos)
+	fh=codecs.open(des_pos)
 	for line in fh.readlines():
 		L=string.split(line)
 		if(re.search(author_name,L[2])):
 			temp_string=L[0]+"_"+L[1]+".txt"
 			file_list.append(temp_string)
 	return file_list[1:]
-	
+def create_multiple_corpus(list_author_name):
+    for author_name in list_author_name:
+        file_list=creat_file_list(author_name)	#	get	file list 
+        corpus_name=string.replace(file_list[1],".txt","_")	#	create the new folder's name using an unique id
+        corpus_name+=author_name[0]	# the form of this id is like this "numbers_numbers_charecter", eg. 13_789_B
+        creat_corpus(corpus_name,file_list)		#	put all the needed files to new folder
 if __name__=='__main__':
-	#type in the user's name here if authors' surnames contain æ, ø ,ë and å 
-	# e.g. author_name = "Michaëlis"
-	author_name= sys.argv[1]
-	file_list=creat_file_list(author_name)	#	get	file list 
-	corpus_name=string.replace(file_list[1],".txt","_")	#	create the new folder's name using an unique id
-	corpus_name+=author_name[0]	# the form of this id is like this "numbers_numbers_charecter", eg. 13_789_B
-	
-	creat_corpus(corpus_name,file_list)		#	put all the needed files to new folder
+	#append the user's name to the end of sys.argv if authors' surnames contain æ, ø ,ë and å 
+	# e.g. sys.argv.append("Aakjær")
+    list_author_name= sys.argv[1:]
+    create_multiple_corpus(list_author_name)
