@@ -1,18 +1,19 @@
-#!/usr/bin/env python2
+#cod#!/usr/bin/env python2
 # -*- coding: utf-8 -*-
 import os, sys, shutil, string, re
 import codecs
-#this script is used to get all the files written by a certain author
-#you can do so by typing in the name of the author and run this script,
-#the author name is the third column of the metadata
+#this script is used to get all the files written by a certain author or authors
+#you can do so by typing in the name(surname or full name) of the author and run this script,
+#the author's full name is the second column of the metadata
 
 # >	usage: keep this script in the current folder, use command line terminal "cd"
-#          to this directory (scripts_py), run this script with python and the author you want to find
-#          here is an example: python generate.py Nansen
+#          to this directory (scripts_py), run this script with python and the author(or multiple authors) you want to find
+#          here is an example: python generate.py Grundtvig
 #          then you can get a folder containing the corresponding files appearing in the "main directory" of CLEAR
+#          exmple for multiple users: python generate.py N.F.S. Grundtvig, Helge Rode
 
 # before running this script, please go through following points:
-# > please note that if the authors' surnames contain æ, ø ,ë and å
+# > please note that if the authors' names contain æ, ø ,ë and å
 #	try to type in the author's name manually below instead of typing it in the terminal
 # > please don't change the directory structure of "CLEAR"
 #	Just keep it the same as you clone it - the change of the dir structure could
@@ -38,13 +39,20 @@ def	creat_file_list(author_name):
 	file_list=['non']
 	cwd=os.getcwd()
 	parent_path = os.path.dirname(os.path.dirname(cwd))
-	des_pos=os.path.join(parent_path,"ADL","metadata","ADL_metadata.txt")
+	des_pos=os.path.join(parent_path,"ADL","metadata","metadata_adl.csv")
 	fh=codecs.open(des_pos)
-	for line in fh.readlines():
-		L=string.split(line)
-		if(re.search(author_name,L[2])):
-			temp_string=L[0]+"_"+L[1]+".txt"
-			file_list.append(temp_string)
+	if len(string.split(author_name))==1:
+		for line in fh.readlines():
+			L=string.split(line,',')
+			if(re.match(author_name,string.split(L[1])[-1])):
+				temp_string=L[0]+".txt"
+				file_list.append(temp_string)
+	else:
+		for line in fh.readlines():
+			L=string.split(line,',')
+			if(author_name==L[1].lstrip()):
+				temp_string=L[0]+".txt"
+				file_list.append(temp_string)
 	return file_list[1:]
 def create_multiple_corpus(list_author_name):
     for author_name in list_author_name:
@@ -52,8 +60,19 @@ def create_multiple_corpus(list_author_name):
         corpus_name=string.replace(file_list[1],".txt","_")	#	create the new folder's name using an unique id
         corpus_name+=author_name[0]	# the form of this id is like this "numbers_numbers_charecter", eg. 13_789_B
         creat_corpus(corpus_name,file_list)		#	put all the needed files to new folder
+def name_decoder(name_list):
+    temp_string = ''
+    for index in name_list:
+        temp_string += index + " "
+    temp_list = string.split(temp_string,',')
+    return_list = list() 
+    for author in temp_list:
+        return_list.append(author.lstrip().rstrip())
+    return return_list
+        
+    
 if __name__=='__main__':
-	#append the user's name to the end of sys.argv if authors' surnames contain æ, ø ,ë and å
+	#append the user's name to the end of sys.argv if authors' names contain æ, ø ,ë and å
 	# e.g. sys.argv.append("Aakjær")
-    list_author_name= sys.argv[1:]
+    list_author_name = name_decoder(sys.argv[1:])
     create_multiple_corpus(list_author_name)
