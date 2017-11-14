@@ -5,46 +5,73 @@
 		<meta name="viewport" content="width=device-width,initial-scale=1">
 		<title>ADL Test</title>
 		<link rel="stylesheet" href="dc.min.css">
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+		<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
 		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js"></script>
 		<script type="text/javascript" src="crossfilter.min.js"></script>
 		<script type="text/javascript" src="dc.min.js"></script>
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
 		<style>
 			body {font-family: sans-serif;}
 		</style>
 	</head>
 	
-	<body>
-		<div id="birthchart" style="width:768px;height:489px;"></div>
-		<div id="genrechart" style="width:250px;height:250px;"></div>
-		<div id="worktable" style="width:800px;height:250px;"></div>
+ 
+<body><a href="javascript:dc.filterAll(); dc.renderAll();">reset</a>
 
-	</body>
+	<div class="container">
+		<div class="row">
+			<div class="col-md-4">
+				<div id="birthchart">
+				</div>
+			</div>
+			<div class="col-md-4">
+				<div id="genrechart">
+				</div>
+			</div>
+			<div class="col-md-4">
+				<div id="tokenchart">
+				</div>
+			</div>
+
+		</div>
+		<div class="row">			
+			<table id="worktable" style="width:100%;border:1px dotted red;">
+			</table>
+		</div>
+	</div>
+</body>
+
  <script>
     var birthChart = dc.barChart("#birthchart");
+    var tokenChart = dc.barChart("#tokenchart");
+
     var genreChart = dc.pieChart("#genrechart");
-    var workTable = dc.dataTable("#data-table");
+    var workTable = dc.dataTable("#worktable");
 
     var dateFormat = d3.time.format("%Y");
 
-    d3.csv("metadata_adl.csv", function(error, works) {
-
+    d3.tsv("metadata_adl_genres_tokens.tsv", function(error, works) {
       works.forEach(function(work) {
-	  
+	    work.id = work.file_id;
+	    work.genre = work.genre;
+	    work.tokens = +work.tokens;
         work.birth = dateFormat.parse(work.birth);
       });
 
       var ndx                 = crossfilter(works),
-          yearDimension        = ndx.dimension(function(d) {return +d.birth;}),
+          yearDimension        = ndx.dimension(function(work) {return +work.birth;}),
           decadeSumGroup       = yearDimension.group(),
-          genreCount = 			 ndx.dimension(function (d) {return d.genre;}),
-		  genreCountGroup = 	 genreCount.group();
+          genreCount = 			 ndx.dimension(function(work) {return work.genre;}),
+		  genreCountGroup = 	 genreCount.group(),
+          tokenCount = 			 ndx.dimension(function(work) {return work.tokens;}),
+		  tokenCountGroup = 	 tokenCount.group();
+
 
 
 
       birthChart
-        .width(768)
-        .height(480)
 		.x(d3.time.scale().domain([new Date(1500, 01, 01), new Date(1950, 06, 01)]))
         .brushOn(true)
         .renderHorizontalGridLines(true)
@@ -53,19 +80,57 @@
 		.xUnits(d3.time.months)
         .dimension(yearDimension)
         .group(decadeSumGroup)
-        .on('renderlet', function(chart) {
-            chart.selectAll('rect').on("click", function(d) {
-                console.log("click!", d);
-            });
-        });
+
         birthChart.render();
+
+
+      tokenChart
+		.x(d3.scale.linear().domain([1,12000]))
+		.elasticY( true )
+        .brushOn(true)
+        .renderHorizontalGridLines(true)
+        .yAxisLabel("# Tokens")
+        .xAxisLabel("# Texts")
+        .dimension(tokenCount)
+        .group(tokenCountGroup)
+
+        tokenChart.render();
+
+
  
-    genreChart.slicesCap(4).radius(120).height(250)
+    genreChart.slicesCap(4)
    	 .dimension(genreCount).minAngleForLabel(0.2).colors( d3.scale.category10())
-   	 .group(genreCountGroup).ordering(function(d) {return d.value});           
+   	 .group(genreCountGroup).ordering(function(work) {return work.value});           
     genreChart.render();
 
+    workTable
+    .dimension(yearDimension)
+    .sortBy(function(work){ return work.tokens; })
+    .order(d3.descending)
+	.group(function(work) { return ""
+	 })
+	 .size(500)
+	 .columns([
+    {
+        label: "Title",
+        format: function(work){ return "<em>" + work.title + "</em>"; }
+    },
+    {
+        label: "Author",
+        format: function (work) { return work.author; }
+    },
+    {
+        label: "Genre",
+        format: function (work) { return work.genre; }
+    },
+    {
+        label: "Tokens",
+        format: function (work) { return work.tokens; }
+    }
+]);
     
+
+   workTable.render();
     
  
         
