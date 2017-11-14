@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width,initial-scale=1">
+		<title>ADL Test</title>
+		<link rel="stylesheet" href="dc.min.css">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js"></script>
+		<script type="text/javascript" src="crossfilter.min.js"></script>
+		<script type="text/javascript" src="dc.min.js"></script>
+		<style>
+			body {font-family: sans-serif;}
+		</style>
+	</head>
+	
+	<body>
+		<div id="birthchart" style="width:768px;height:489px;"></div>
+		<div id="genrechart" style="width:250px;height:250px;"></div>
+		<div id="worktable" style="width:800px;height:250px;"></div>
+
+	</body>
+ <script>
+    var birthChart = dc.barChart("#birthchart");
+    var genreChart = dc.pieChart("#genrechart");
+    var workTable = dc.dataTable("#data-table");
+
+    var dateFormat = d3.time.format("%Y");
+
+    d3.csv("metadata_adl.csv", function(error, works) {
+
+      works.forEach(function(work) {
+	  
+        work.birth = dateFormat.parse(work.birth);
+      });
+
+      var ndx                 = crossfilter(works),
+          yearDimension        = ndx.dimension(function(d) {return +d.birth;}),
+          decadeSumGroup       = yearDimension.group(),
+          genreCount = 			 ndx.dimension(function (d) {return d.genre;}),
+		  genreCountGroup = 	 genreCount.group();
+
+
+
+      birthChart
+        .width(768)
+        .height(480)
+		.x(d3.time.scale().domain([new Date(1500, 01, 01), new Date(1950, 06, 01)]))
+        .brushOn(true)
+        .renderHorizontalGridLines(true)
+        .yAxisLabel("Number of works with this year as author's birthdate")
+        .xAxisLabel("Year")
+		.xUnits(d3.time.months)
+        .dimension(yearDimension)
+        .group(decadeSumGroup)
+        .on('renderlet', function(chart) {
+            chart.selectAll('rect').on("click", function(d) {
+                console.log("click!", d);
+            });
+        });
+        birthChart.render();
+ 
+    genreChart.slicesCap(4).radius(120).height(250)
+   	 .dimension(genreCount).minAngleForLabel(0.2).colors( d3.scale.category10())
+   	 .group(genreCountGroup).ordering(function(d) {return d.value});           
+    genreChart.render();
+
+    
+    
+ 
+        
+    });
+
+  </script>
+
+</html>
