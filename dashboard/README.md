@@ -1,1 +1,2 @@
-This is the readme.
+Corpus dashboard
+Project started 11/13-17
