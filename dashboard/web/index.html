@@ -14,6 +14,7 @@
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
 		<style>
 			body {font-family: sans-serif;}
+      span.wordButton { margin: 5px; padding: 3px; background-color: #ddd; cursor: default;}
 		</style>
 	</head>
 	
@@ -21,6 +22,9 @@
 <body><a href="javascript:dc.filterAll(); dc.renderAll();">reset</a>
 
 	<div class="container">
+    <div class="row" id="searchRow">
+      <input type="text" id="searchbox" /> <button id="filterButton">Filter</button>
+    </div>
 		<div class="row">
 			<div class="col-md-4">
 				<div id="birthchart">
@@ -43,99 +47,141 @@
 	</div>
 </body>
 
- <script>
-    var birthChart = dc.barChart("#birthchart");
-    var tokenChart = dc.barChart("#tokenchart");
+<script>
+var birthChart = dc.barChart("#birthchart");
+var tokenChart = dc.barChart("#tokenchart");
 
-    var genreChart = dc.pieChart("#genrechart");
-    var workTable = dc.dataTable("#worktable");
+var genreChart = dc.pieChart("#genrechart");
+var workTable = dc.dataTable("#worktable");
 
-    var dateFormat = d3.time.format("%Y");
+var dateFormat = d3.time.format("%Y");
 
-    d3.tsv("metadata_adl_genres_tokens.tsv", function(error, works) {
-      works.forEach(function(work) {
-	    work.id = work.file_id;
-	    work.genre = work.genre;
-	    work.tokens = +work.tokens;
-        work.birth = dateFormat.parse(work.birth);
+var works, worksFilter;
+var wordDocuments = {};
+
+function redraw() {
+  birthChart.redraw();
+  genreChart.redraw();
+  tokenChart.redraw();
+  workTable.redraw();
+}
+
+d3.tsv("metadata_adl_genres_tokens.tsv", function(error, _works) {
+  works = _works;
+  works.forEach(function(work) {
+    work.id = work.file_id;
+    work.genre = work.genre;
+    work.tokens = +work.tokens;
+    work.birth = dateFormat.parse(work.birth);
+  });
+
+  worksFilter = crossfilter(works);
+  
+  var yearDimension = worksFilter.dimension(function(work) {return +work.birth;}),
+      decadeSumGroup = yearDimension.group(),
+      genreCount = worksFilter.dimension(function(work) {return work.genre;}),
+      genreCountGroup = genreCount.group(),
+      tokenCount = worksFilter.dimension(function(work) {return work.tokens;}),
+      tokenCountGroup = tokenCount.group();
+
+  birthChart
+      .x(d3.time.scale().domain([new Date(1500, 01, 01), new Date(1950, 06, 01)]))
+      .brushOn(true)
+      .renderHorizontalGridLines(true)
+      .yAxisLabel("Number of works with this year as author's birthdate")
+      .xAxisLabel("Year")
+      .xUnits(d3.time.months)
+      .dimension(yearDimension)
+      .group(decadeSumGroup);
+  birthChart.render();
+  
+  tokenChart
+      .x(d3.scale.linear().domain([1,12000]))
+      .elasticY( true )
+      .brushOn(true)
+      .renderHorizontalGridLines(true)
+      .yAxisLabel("# Tokens")
+      .xAxisLabel("# Texts")
+      .dimension(tokenCount)
+      .group(tokenCountGroup);
+  tokenChart.render();
+  
+  genreChart.slicesCap(4)
+   .dimension(genreCount).minAngleForLabel(0.2).colors( d3.scale.category10())
+   .group(genreCountGroup).ordering(function(work) {return work.value});
+  genreChart.render();
+
+  workTable
+  .dimension(yearDimension)
+  .sortBy(function(work){ return work.tokens; })
+  .order(d3.descending)
+  .group(function(work) { return ""
+  })
+  .size(500)
+  .columns([
+  {
+      label: "Title",
+      format: function(work){ return "<em>" + work.title + "</em>"; }
+  },
+  {
+      label: "Author",
+      format: function (work) { return work.author; }
+  },
+  {
+      label: "Genre",
+      format: function (work) { return work.genre; }
+  },
+  {
+      label: "Tokens",
+      format: function (work) { return work.tokens; }
+  }
+  ]);
+  
+  workTable.render();
+  
+  d3.text("index.tsv", function (error, _index) {
+    _index.split("\n").forEach(function (row) {
+      fields = row.split("\t");
+      word = fields.shift();
+      wordDocuments[word] = {};
+      fields.forEach(function (d) {
+        wordDocuments[word][ works[Number(d)].file_id ] = 1;
       });
-
-      var ndx                 = crossfilter(works),
-          yearDimension        = ndx.dimension(function(work) {return +work.birth;}),
-          decadeSumGroup       = yearDimension.group(),
-          genreCount = 			 ndx.dimension(function(work) {return work.genre;}),
-		  genreCountGroup = 	 genreCount.group(),
-          tokenCount = 			 ndx.dimension(function(work) {return work.tokens;}),
-		  tokenCountGroup = 	 tokenCount.group();
-
-
-
-
-      birthChart
-		.x(d3.time.scale().domain([new Date(1500, 01, 01), new Date(1950, 06, 01)]))
-        .brushOn(true)
-        .renderHorizontalGridLines(true)
-        .yAxisLabel("Number of works with this year as author's birthdate")
-        .xAxisLabel("Year")
-		.xUnits(d3.time.months)
-        .dimension(yearDimension)
-        .group(decadeSumGroup)
-
-        birthChart.render();
-
-
-      tokenChart
-		.x(d3.scale.linear().domain([1,12000]))
-		.elasticY( true )
-        .brushOn(true)
-        .renderHorizontalGridLines(true)
-        .yAxisLabel("# Tokens")
-        .xAxisLabel("# Texts")
-        .dimension(tokenCount)
-        .group(tokenCountGroup)
-
-        tokenChart.render();
-
-
- 
-    genreChart.slicesCap(4)
-   	 .dimension(genreCount).minAngleForLabel(0.2).colors( d3.scale.category10())
-   	 .group(genreCountGroup).ordering(function(work) {return work.value});           
-    genreChart.render();
-
-    workTable
-    .dimension(yearDimension)
-    .sortBy(function(work){ return work.tokens; })
-    .order(d3.descending)
-	.group(function(work) { return ""
-	 })
-	 .size(500)
-	 .columns([
-    {
-        label: "Title",
-        format: function(work){ return "<em>" + work.title + "</em>"; }
-    },
-    {
-        label: "Author",
-        format: function (work) { return work.author; }
-    },
-    {
-        label: "Genre",
-        format: function (work) { return work.genre; }
-    },
-    {
-        label: "Tokens",
-        format: function (work) { return work.tokens; }
-    }
-]);
-    
-
-   workTable.render();
-    
- 
-        
     });
+    
+    d3.select("#filterButton").on("click", function () {
+      word = d3.select("#searchbox").node().value;
+      
+      if (wordDocuments[word]) {
+        ids = wordDocuments[word]
+        wordDim = worksFilter.dimension(function (work) {
+          if (ids[work.file_id]) {
+            return true;
+          }
+          else {
+            return false;
+          }
+        });
+        
+        d3.select("#searchRow").append("span").attr("class", "wordButton").text(word + " ×").on("click", function () {
+          wordDim.dispose();
+          redraw();
+          d3.select(this).remove();
+        });
+        
+        wordDim.filter(true);
+        redraw();
+      }
+      else {
+        console.log(word + " not found");
+      }
+      
+    })
+    console.log("index loaded");
+  });
 
-  </script>
+});
+
+</script>
 
 </html>
