@@ -152,6 +152,10 @@ d3.tsv("metadata_adl_stats.txt", function(error, _works) {
   {
       label: "Tokens",
       format: function (work) { return work.tokens; }
+  },
+  {
+      label: "Entropy",
+      format: function (work) { return work.entropy; }
   }
   ]);
   
