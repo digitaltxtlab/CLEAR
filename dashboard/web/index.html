@@ -21,24 +21,27 @@
  
 <body><a href="javascript:dc.filterAll(); dc.renderAll();">reset</a>
 
-	<div class="container">
-    <div class="row" id="searchRow">
-      <input type="text" id="searchbox" /> <button id="filterButton">Filter</button>
-    </div>
+        <div class="container">
+                <div class="row" id="searchRow">
+                        <input type="text" id="searchbox" /><button id="filterButton">Filter</button>
+                </div>
 		<div class="row">
-			<div class="col-md-4">
+			<div class="col-md-3">
 				<div id="birthchart">
 				</div>
 			</div>
-			<div class="col-md-4">
+			<div class="col-md-3">
 				<div id="genrechart">
 				</div>
 			</div>
-			<div class="col-md-4">
+			<div class="col-md-3">
 				<div id="tokenchart">
 				</div>
 			</div>
-
+			<div class="col-md-3">
+				<div id="entropychart">
+				</div>
+			</div>
 		</div>
 		<div class="row">			
 			<table id="worktable" style="width:100%;border:1px dotted red;">
@@ -50,8 +53,8 @@
 <script>
 var birthChart = dc.barChart("#birthchart");
 var tokenChart = dc.barChart("#tokenchart");
-
 var genreChart = dc.pieChart("#genrechart");
+var entropyChart = dc.barChart("#entropychart");
 var workTable = dc.dataTable("#worktable");
 
 var dateFormat = d3.time.format("%Y");
@@ -63,15 +66,17 @@ function redraw() {
   birthChart.redraw();
   genreChart.redraw();
   tokenChart.redraw();
+  entropyChart.redraw();
   workTable.redraw();
 }
 
-d3.tsv("metadata_adl_genres_tokens.tsv", function(error, _works) {
+d3.tsv("metadata_adl_stats.txt", function(error, _works) {
   works = _works;
   works.forEach(function(work) {
     work.id = work.file_id;
     work.genre = work.genre;
     work.tokens = +work.tokens;
+    work.entropy = +work.entropy;
     work.birth = dateFormat.parse(work.birth);
   });
 
@@ -83,12 +88,14 @@ d3.tsv("metadata_adl_genres_tokens.tsv", function(error, _works) {
       genreCountGroup = genreCount.group(),
       tokenCount = worksFilter.dimension(function(work) {return work.tokens;}),
       tokenCountGroup = tokenCount.group();
+      entropyCount = worksFilter.dimension(function(work) {return work.entropy;}),
+      entropyCountGroup = entropyCount.group();
 
   birthChart
       .x(d3.time.scale().domain([new Date(1500, 01, 01), new Date(1950, 06, 01)]))
       .brushOn(true)
       .renderHorizontalGridLines(true)
-      .yAxisLabel("Number of works with this year as author's birthdate")
+      .yAxisLabel("# works w/author birth year")
       .xAxisLabel("Year")
       .xUnits(d3.time.months)
       .dimension(yearDimension)
@@ -97,17 +104,28 @@ d3.tsv("metadata_adl_genres_tokens.tsv", function(error, _works) {
   
   tokenChart
       .x(d3.scale.linear().domain([1,12000]))
-      .elasticY( true )
+      .elasticY(true )
       .brushOn(true)
       .renderHorizontalGridLines(true)
-      .yAxisLabel("# Tokens")
-      .xAxisLabel("# Texts")
+      .xAxisLabel("# Tokens")
+      .yAxisLabel("# Texts")
       .dimension(tokenCount)
       .group(tokenCountGroup);
   tokenChart.render();
   
+  entropyChart
+      .x(d3.scale.linear().domain([0,10]))
+      .elasticY(true )
+      .brushOn(true)
+      .renderHorizontalGridLines(true)
+      .xAxisLabel("Shannon entropy")
+      .yAxisLabel("# Texts")
+      .dimension(entropyCount)
+      .group(entropyCountGroup);
+  entropyChart.render();
+  
   genreChart.slicesCap(4)
-   .dimension(genreCount).minAngleForLabel(0.2).colors( d3.scale.category10())
+   .dimension(genreCount).minAngleForLabel(0.2).colors(d3.scale.category10())
    .group(genreCountGroup).ordering(function(work) {return work.value});
   genreChart.render();
 
