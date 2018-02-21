@@ -1,11 +1,14 @@
 #coding=utf-8
 import re
-from nltk.tokenize import word_tokenize
+
+def word_tokenize(text): return re.findall(r'\w+', text.lower())
+
+
 
 ##removes non non-alphanumeric characters based on re
 def re_nalpha(str):
 	pattern = re.compile(r'[^\w\s]', re.U)
-	return re.sub(r'_', '', re.sub(pattern, '', str))
+	return re.sub(r'\n','',re.sub(r'_', '', re.sub(pattern, '', str)))
 
 ##tokenization in uni- to n-grams,a function that tokenize a string into words and multi-word strings
 #please be aware of that the redundant words will be  append to the the end as one gram string
@@ -28,7 +31,5 @@ def tokenizer(text,size=1):
 		return temp_list
 
 #this is a test, please remove if not needed
-s = 'you looks so great and so beautiful'
-print tokenizer(s,3)
 #s = 'this is f@*cking cool!!!'
 #print re_nalpha(s)
