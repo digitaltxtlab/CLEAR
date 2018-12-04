@@ -29,7 +29,7 @@ def tokenizer(text,size=1):
 			temp_list.append(temp_str[1:])
 			temp_size += 1
 		return temp_list
-print(re_nalpha("yo uare sadf++++++++++saffsa		fsad"))
+
 #this is a test, please remove if not needed
 #s = 'this is f@*cking cool!!!'
 #print re_nalpha(s)
