@@ -10,6 +10,8 @@
 5. Submit a pull request
 ## Notebook ##
 
+Most of the notebooks present some analysis to explore the text data we have, and some of the notebooks contains tutorial for basic concepts in NLP.
+
 | **Name** | **Status** | **File** | **Video** | **Fix typo**
 |:-------------------------------|:-------------------|:------------------------------|:------------------|:-------|
 | Topic modelling | Refined | [Topic modelling](https://github.com/digitaltxtlab/CLEAR/blob/master/notebook/Topic%20modelling.ipynb)           | In progress | No |
