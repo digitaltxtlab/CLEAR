@@ -31,5 +31,5 @@ def tokenizer(text,size=1):
 		return temp_list
 
 #this is a test, please remove if not needed
-#s = 'this is f@*cking cool!!!'
+#s = 'this is f@*cking co1ol!!!'
 #print re_nalpha(s)
