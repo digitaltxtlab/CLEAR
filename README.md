@@ -14,8 +14,8 @@ Most of the notebooks present some analysis to explore the text data we have, an
 
 | **Name** | **Status** | **File** | **Video** | **Fix typo**
 |:-------------------------------|:-------------------|:------------------------------|:------------------|:-------|
-| Topic modelling | Refined | [Topic modelling](https://github.com/digitaltxtlab/CLEAR/blob/master/notebook/Topic%20modelling.ipynb)           | In progress | No |
-| TextNormalizationAndRegularExpression | Refined |[TextNormalizationAndRegularExpression](https://github.com/digitaltxtlab/CLEAR/blob/master/notebook/TextNormalizationAndRegularExpression.ipynb)           | In progress | No |
+| Topic modelling | Refined | [Topic modelling](https://github.com/digitaltxtlab/CLEAR/blob/master/notebook/Topic%20modelling.ipynb)           | Finished | YES |
+| TextNormalizationAndRegularExpression | Refined |[TextNormalizationAndRegularExpression](https://github.com/digitaltxtlab/CLEAR/blob/master/notebook/TextNormalizationAndRegularExpression.ipynb)           | In progress | YES |
 | Sentiment analysis | In progress |[Sentiment analysis](https://github.com/digitaltxtlab/CLEAR/blob/master/notebook/sentiment%20analysis.ipynb)         | In progress |  No |
 | Sematic embeddings (Word2Vec)| Not Refined                             | [Sematic embeddings](https://github.com/digitaltxtlab/CLEAR/blob/master/notebook/Sematic%20embeddings%20(Word2Vec).ipynb)        | In progress |  No |
 | Visualization | Not exsit    |Visualization | In progress |  No |
